@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 11
 ---
 
-Hazır olmayanlar arasında kurulan sözleşmeler, kabulün gönderildiği andan başlayarak hüküm doğurur. Açık bir kabulün gerekli olmadığı durumlarda, sözleşme önerinin ulaşma anından başlayarak hüküm doğurur. B. Sözleşmelerin şekli I.
+**III. Hazır olmayanlar arasında kurulan sözleşmenin hüküm anı**
+
+---
+
+Madde 11 - Hazır olmayanlar arasında kurulan sözleşmeler, kabulün gönderildiği
+andan başlayarak hüküm doğurur.
+Açık  bir  kabulün  gerekli  olmadığı  durumlarda,  sözleşme  önerinin  ulaşma  anından
+başlayarak hüküm doğurur.
+
+B. Sözleşmelerin şekli
+I. Genel kural
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

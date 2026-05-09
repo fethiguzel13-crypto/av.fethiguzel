@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 566
 ---
 
-Saklanan, masrafları ve hasarı saklatana ait olmak üzere, korunması gereken yerde geri verilir. 3.
+**c. Geri verme yeri**
+
+---
+
+Madde 566 - Saklanan, masrafları ve hasarı saklatana ait olmak üzere, korunması
+gereken yerde geri verilir.
+
+3. Saklayanların sorumluluğu
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

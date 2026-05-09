@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 177
 ---
 
-Sözleşme yapılırken bir kimsenin vermiş olduğu bir miktar para, cayma parası olarak değil sözleşmenin yapıldığına kanıt olarak verilmiş sayılır. Aksine sözleşme veya yerel âdet olmadıkça, bağlanma parası esas alacaktan düşülür. B.
+**A. Bağlanma parası**
+
+---
+
+Madde 177 - Sözleşme yapılırken bir kimsenin vermiş olduğu bir miktar para, cayma
+parası olarak değil sözleşmenin yapıldığına kanıt olarak verilmiş sayılır.
+Aksine sözleşme veya yerel âdet olmadıkça, bağlanma parası esas alacaktan düşülür.
+
+B. Cayma parası
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

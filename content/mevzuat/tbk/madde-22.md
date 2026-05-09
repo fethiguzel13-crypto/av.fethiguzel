@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 22
 ---
 
-Sözleşmenin yazılmamış sayılan genel işlem koşulları dışındaki hükümleri geçerliliğini korur. Bu durumda düzenleyen, yazılmamış sayılan koşullar olmasaydı diğer hükümlerle sözleşmeyi yapmayacak olduğunu ileri süremez. III.
+**2. Yazılmamış sayılmanın sözleşmeye etkisi**
+
+---
+
+Madde 22 - Sözleşmenin yazılmamış sayılan genel işlem koşulları dışındaki hükümleri
+geçerliliğini  korur.  Bu  durumda  düzenleyen,  yazılmamış  sayılan  koşullar  olmasaydı diğer
+hükümlerle sözleşmeyi yapmayacak olduğunu ileri süremez.
+
+III. Yorumlanması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

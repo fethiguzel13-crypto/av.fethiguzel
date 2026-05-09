@@ -1,0 +1,17 @@
+---
+title: "TMK Madde 86"
+kanun: "Türk Medeni Kanunu"
+maddeNo: 86
+---
+
+**Madde 86**
+
+---
+
+Madde 86 - Denetim kurulu, üç asıl ve üç yedek üyeden az olmamak üzere dernek tüzüğünde  belirtilen sayıda üyeden   oluşur.  Denetim kurulu, denetleme görevini, dernek tüzüğünde belirtilen esas ve usullere göre  yapar ; denetleme sonuçlarını bir raporla yönetim kuruluna ve genel kurula sunar.  D. Sona erme  I. Kendiliğinden
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 238
 ---
 
-Önalım, geri alım ve alım hakları en çok on yıllık süre için kararlaştırılabilir ve kanunlarda belirlenen süreyle tapu siciline şerh edilebilir. II.
+**I. Süresi ve şerhi**
+
+---
+
+Madde 238 - Önalım,  geri  alım  ve  alım  hakları  en  çok  on yıllık  süre  için
+kararlaştırılabilir ve kanunlarda belirlenen süreyle tapu siciline şerh edilebilir.
+
+II. Devredilmesi ve miras yoluyla geçmesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

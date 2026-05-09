@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 290
 ---
 
-Bağışlama, bir koşula bağlanarak yapılabilir. Yerine getirilmesi bağışlayanın ölümüne bağlı olan bağışlamada, vasiyete ilişkin hükümler uygulanır. IV.
+**III. Koşullu bağışlama**
+
+---
+
+Madde 290 - Bağışlama, bir koşula bağlanarak yapılabilir.
+Yerine getirilmesi bağışlayanın ölümüne bağlı olan bağışlamada, vasiyete ilişkin hükümler
+uygulanır.
+
+IV. Yüklemeli bağışlama
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

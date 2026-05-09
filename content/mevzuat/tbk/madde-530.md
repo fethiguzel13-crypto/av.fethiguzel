@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 530
 ---
 
-İşsahibi, kendi menfaatine yapılmamış olsa bile, işgörmeden doğan faydaları edinme hakkına sahiptir; ancak zenginleştiği ölçüde, işgörenin masraflarını ödemek ve giriştiği borçlardan onu kurtarmakla yükümlüdür. III.
+**II. İşin işgörenin menfaatine yapılması hâlinde**
+
+---
+
+Madde 530 - İşsahibi, kendi menfaatine  yapılmamış olsa bile, işgörmeden doğan
+faydaları edinme hakkına sahiptir; ancak zenginleştiği ölçüde, işgörenin masraflarını ödemek
+ve giriştiği borçlardan onu kurtarmakla yükümlüdür.
+
+III. İşin işsahibi tarafından uygun bulunması hâlinde
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,18 @@
+---
+title: "TTK Madde 836"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 836
+---
+
+**Madde 836**
+
+---
+
+Madde 836 - (1)   Makbuz   senedi   ve   varanttan   oluşan   belgenin   dip   koçanlı   bir  defterden   koparılmış   olması   ve   defterin   umumi   mağazaya   ait   belgeler   arasında   saklanması  gereklidir.
+4.   Kısmi   senet
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

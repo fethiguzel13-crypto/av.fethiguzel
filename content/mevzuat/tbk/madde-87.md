@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 87
 ---
 
-Seçimlik borçlarda, hukuki ilişkiden ve işin özelliğinden aksi anlaşılmadıkça, edimlerden birinin seçimi borçluya aittir. 5.
+**4. Seçimlik borç**
+
+---
+
+Madde 87 - Seçimlik  borçlarda,  hukuki  ilişkiden  ve  işin  özelliğinden   aksi
+anlaşılmadıkça, edimlerden birinin seçimi borçluya aittir.
+
+5. Faiz
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

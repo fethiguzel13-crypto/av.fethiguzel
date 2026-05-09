@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 494
 ---
 
-Bir eser sahibinin birden çok eserini ayrı ayrı yayımlama hakkı, yayımcıya bunların bir arada basılması yetkisini vermez. Aynı şekilde, eser sahibinin bütün eserlerini veya bunlardan yalnız bir türünü birarada yayımlama hakkı, yayımcıya bunlar içinden her birinin ayrı ayrı basıp yayma hakkını vermez. VII.
+**VI. Birarada basım ve ayrı ayrı yayım**
+
+---
+
+Madde 494 - Bir  eser  sahibinin  birden  çok  eserini  ayrı  ayrı  yayımlama  hakkı,
+yayımcıya bunların bir arada basılması yetkisini vermez.
+Aynı şekilde, eser sahibinin bütün eserlerini veya bunlardan yalnız bir türünü birarada
+yayımlama hakkı, yayımcıya bunlar içinden her birinin ayrı ayrı basıp yayma hakkını vermez.
+
+VII. Çeviri hakkı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

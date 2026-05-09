@@ -4,8 +4,21 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 493
 ---
 
-Yayımcının menfaatlerini zedelememek ve onun sorumluluğunu artırmamak koşuluyla, eser sahibi eserde düzeltme ve iyileştirme, halefleri ise ancak güncelleştirme yapabilir. Bu düzeltme ve iyileştirme gerektirdiği hâlde sözleşmede öngörülmemiş giderler, yayımlatan tarafından karşılanır. Yayımcı, eser sahibine eserini iyileştirme, haleflerine de güncelleştirme imkânı vermeden yeni bir basım yapamaz ve onu çoğaltamaz. VI.
+**V. Düzeltme ve iyileştirme**
+
+---
+
+Madde 493 - Yayımcının  menfaatlerini  zedelememek  ve  onun  sorumluluğunu
+artırmamak  koşuluyla,  eser  sahibi  eserde  düzeltme  ve  iyileştirme,  halefleri  ise  ancak
+güncelleştirme  yapabilir.  Bu  düzeltme  ve  iyileştirme  gerektirdiği  hâlde  sözleşmede
+öngörülmemiş giderler, yayımlatan tarafından karşılanır.
+Yayımcı,  eser  sahibine  eserini  iyileştirme,  haleflerine  de  güncelleştirme  imkânı
+vermeden yeni bir basım yapamaz ve onu çoğaltamaz.
+
+VI. Birarada basım ve ayrı ayrı yayım
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

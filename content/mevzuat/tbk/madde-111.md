@@ -4,8 +4,23 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 111
 ---
 
-Borçlunun kusuru olmaksızın, alacağın kime ait olduğunda veya alacaklının kimliğinde duraksama sebebiyle ya da alacaklıdan kaynaklanan diğer kişisel bir sebeple borç, alacaklıya veya temsilcisine ifa edilemezse borçlu, alacaklının temerrüdünde olduğu gibi, tevdi ya da sözleşmeden dönme hakkını kullanabilir. İKİNCİ AYIRIM Borçların İfa Edilmemesinin Sonuçları A. Borcun ifa edilmemesi I. Giderim borcu 1.
+**F. Diğer ifa engelleri**
+
+---
+
+Madde 111 - Borçlunun  kusuru  olmaksızın,  alacağın  kime  ait  olduğunda  veya
+alacaklının kimliğinde duraksama sebebiyle ya da alacaklıdan kaynaklanan diğer kişisel bir
+sebeple borç, alacaklıya veya temsilcisine ifa edilemezse borçlu, alacaklının temerrüdünde
+olduğu gibi, tevdi ya da sözleşmeden dönme hakkını kullanabilir.
+
+İKİNCİ AYIRIM
+Borçların İfa Edilmemesinin Sonuçları
+A. Borcun ifa edilmemesi
+I. Giderim borcu
+1. Genel olarak
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,16 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 608
 ---
 
-Ömür boyu gelir sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz. C. Gelir alacaklısının hakları I.
+**B. Şekli**
+
+---
+
+Madde 608 - Ömür boyu gelir sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz.
+C. Gelir alacaklısının hakları
+I. Hakkın kullanılması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

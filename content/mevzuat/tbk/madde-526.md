@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 526
 ---
 
-Vekâleti olmaksızın başkasının hesabına işgören, o işi sahibinin menfaatine ve varsayılan iradesine uygun olarak görmekle yükümlüdür. II.
+**I. İşin görülmesi**
+
+---
+
+Madde 526 - Vekâleti  olmaksızın  başkasının  hesabına  işgören,  o  işi  sahibinin
+menfaatine ve varsayılan iradesine uygun olarak görmekle yükümlüdür.
+
+II. Sorumluluk
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

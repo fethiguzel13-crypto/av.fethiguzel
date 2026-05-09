@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 141
 ---
 
-Üçüncü kişi yararına borçlanan kişi, bu borcu ile sözleşmenin diğer tarafından olan alacağını takas edemez. 4.
+**3. Üçüncü kişi yararına sözleşme hâlinde**
+
+---
+
+Madde 141 - Üçüncü kişi yararına borçlanan kişi, bu borcu ile sözleşmenin diğer
+tarafından olan alacağını takas edemez.
+
+4. Borçlunun iflası hâlinde
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

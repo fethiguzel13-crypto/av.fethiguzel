@@ -4,8 +4,15 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 567
 ---
 
-Bir şeyi birlikte saklamak üzere alanlar, müteselsilen sorumlu olurlar. 4.
+**3. Saklayanların sorumluluğu**
+
+---
+
+Madde 567 - Bir şeyi birlikte saklamak üzere alanlar, müteselsilen sorumlu olurlar.
+4. Üçüncü kişilerin iddiaları
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,17 @@
+---
+title: "TTK Madde 446"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 446
+---
+
+**Madde 446**
+
+---
+
+Madde 446 - (1)   a)   Toplantıda   hazır   bulunup   da   karara   olumsuz   oy   veren   ve   bu  muhalefetini   tutanağa   geçirten,  b)   Toplantıda   hazır   bulunsun   veya   bulunmasın,   olumsuz   oy   kullanmış   olsun   ya   da  olmasın;   çağrının   us ulüne   göre   yapılmadığını,   gündemin   gereği   gibi   ilan   edilmediğini,   genel  kurula   katılma   yetkisi   bulunmayan   kişilerin   veya   temsilcilerinin   toplantıya   katılıp   oy  kullandıklarını,   genel   kurula   katılmasına   ve   oy   kullanmasına   haksız   olarak   izin   verilmediğini  ve   yukarıda   sayılan   aykırılıkların   genel   kurul   kararının   alınmasında   etkili   olduğunu   ileri   süren  pay   sahipleri,  c)   Yönetim   kurulu,  d)   Kararların   yerine   getirilmesi,   kişisel   sorumluluğuna   sebep   olacaksa   yönetim   kurulu  üyelerinden   her   biri,  iptal   davası   açabi lir.  H)   Butlan
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

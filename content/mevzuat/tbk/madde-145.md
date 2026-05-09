@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 145
 ---
 
-Borçlu, takas hakkından önceden de feragat edebilir. İKİNCİ AYIRIM Zamanaşımı A. Süreler I.
+**IV. Takastan feragat**
+
+---
+
+Madde 145 - Borçlu, takas hakkından önceden de feragat edebilir.
+İKİNCİ AYIRIM
+Zamanaşımı
+A. Süreler
+I. On yıllık zamanaşımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

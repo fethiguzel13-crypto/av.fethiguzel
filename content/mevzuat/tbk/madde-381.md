@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 381
 ---
 
-Ödünç alan, ödünç konusunun olağan bakım ve koruma giderlerini karşılamakla yükümlüdür. Ödünç alan, ödünç verenin yararına yapmak zorunda kaldığı olağanüstü giderlerin ödenmesini isteyebilir. III.
+**II. Bakım ve koruma giderleri**
+
+---
+
+Madde 381 - Ödünç alan, ödünç konusunun olağan bakım ve koruma giderlerini
+karşılamakla yükümlüdür.
+Ödünç alan, ödünç verenin  yararına  yapmak zorunda kaldığı olağanüstü giderlerin
+ödenmesini isteyebilir.
+
+III. Müteselsil sorumluluk
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

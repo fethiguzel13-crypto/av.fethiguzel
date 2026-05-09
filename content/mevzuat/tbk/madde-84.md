@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 84
 ---
 
-Borcun tamamı belli ve muaccel ise, alacaklı kısmen ifayı reddedebilir. Alacaklı kısmen ifayı kabul ederse borçlu, borcun kendisi tarafından ikrar olunan kısmını ifadan kaçınamaz. 2.
+**1. Kısmen ifa**
+
+---
+
+Madde 84 - Borcun tamamı belli ve muaccel ise, alacaklı kısmen ifayı reddedebilir.
+Alacaklı  kısmen  ifayı  kabul  ederse  borçlu,  borcun  kendisi  tarafından  ikrar  olunan
+kısmını ifadan kaçınamaz.
+
+2. Bölünemeyen borç
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

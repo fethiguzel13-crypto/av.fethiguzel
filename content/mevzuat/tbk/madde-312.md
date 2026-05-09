@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 312
 ---
 
-Taşınmaz kiralarında, sözleşmeyle kiracının kiracılık hakkının tapu siciline şerhi kararlaştırılabilir. D. Kiracının borçları I. Kira bedelini ödeme borcu 1.
+**c. Tapu siciline şerh**
+
+---
+
+Madde 312 - Taşınmaz  kiralarında,  sözleşmeyle  kiracının  kiracılık  hakkının  tapu
+siciline şerhi kararlaştırılabilir.
+
+D. Kiracının borçları
+I. Kira bedelini ödeme borcu
+1. Genel olarak
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

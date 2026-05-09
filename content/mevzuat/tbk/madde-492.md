@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 492
 ---
 
-Yayımcı, eseri hiçbir kısaltma, ekleme ve değişiklik yapmaksızın uygun biçimde çoğaltmakla yükümlüdür; ayrıca, satışın artırılması için gerekli tanıtım ve dağıtımı yapmak ve bu konuda her türlü önlemi almak zorundadır. Satış fiyatını, eserin satılmasını güçleştirmemek koşuluyla yayımcı belirler. V.
+**IV. Çoğaltma ve dağıtım**
+
+---
+
+Madde 492 - Yayımcı,  eseri  hiçbir  kısaltma,  ekleme  ve  değişiklik  yapmaksızın
+uygun biçimde  çoğaltmakla  yükümlüdür; ayrıca, satışın artırılması için gerekli tanıtım ve
+dağıtımı yapmak ve bu konuda her türlü önlemi almak zorundadır.
+Satış fiyatını, eserin satılmasını güçleştirmemek koşuluyla yayımcı belirler.
+
+V. Düzeltme ve iyileştirme
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

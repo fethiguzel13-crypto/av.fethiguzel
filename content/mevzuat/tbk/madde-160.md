@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 160
 ---
 
-Zamanaşımından önceden feragat edilemez. Müteselsil borçlulardan birinin feragat etmiş olması, diğerlerine karşı ileri sürülemez. Bölünemez bir borcun borçlularından birinin feragat etmiş olması durumunda da aynı hüküm uygulanır. Asıl borçlunun feragati de kefile karşı ileri sürülemez. H.
+**G. Zamanaşımından feragat**
+
+---
+
+Madde 160 - Zamanaşımından önceden feragat edilemez.
+Müteselsil borçlulardan birinin feragat etmiş olması, diğerlerine karşı ileri sürülemez.
+Bölünemez bir borcun borçlularından birinin feragat etmiş olması durumunda da aynı
+hüküm uygulanır.
+Asıl borçlunun feragati de kefile karşı ileri sürülemez.
+
+H. İleri sürülmesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

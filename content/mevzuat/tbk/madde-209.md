@@ -4,8 +4,21 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 209
 ---
 
-Taşınır satışı, Türk Medenî Kanunu uyarınca taşınmaz sayılanlar dışında kalan ve diğer kanunlarda taşınır olarak belirtilen şeylerin satışıdır. Ürünler, bir yapının yıkıntıları ve taş ocağından çıkarılacak taşlar gibi, taşınmazdan ayrıldıktan sonra mülkiyeti devredilecek bütünleyici parçaların satılması da taşınır satışıdır. B. Satıcının borçları I. Zilyetliğin devri 1.
+**A. Konusu**
+
+---
+
+Madde 209 - Taşınır satışı, Türk Medenî Kanunu uyarınca taşınmaz sayılanlar
+dışında kalan ve diğer kanunlarda taşınır olarak belirtilen şeylerin satışıdır.
+Ürünler, bir yapının yıkıntıları ve taş ocağından çıkarılacak taşlar gibi, taşınmazdan
+ayrıldıktan sonra mülkiyeti devredilecek bütünleyici parçaların satılması da taşınır satışıdır.
+
+B. Satıcının borçları
+I. Zilyetliğin devri
+1. Kural
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

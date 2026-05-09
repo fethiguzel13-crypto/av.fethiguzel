@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 4
 ---
 
-Kabul için süre belirlenmeksizin hazır olan bir kişiye yapılan öneri hemen kabul edilmezse; öneren, önerisiyle bağlılıktan kurtulur. Telefon, bilgisayar gibi iletişim sağlayabilen araçlarla doğrudan iletişim sırasında yapılan öneri, hazır olanlar arasında yapılmış sayılır. b.
+**a. Hazır olanlar arasında**
+
+---
+
+Madde 4 - Kabul için süre belirlenmeksizin hazır olan bir kişiye yapılan öneri hemen
+kabul edilmezse; öneren, önerisiyle bağlılıktan kurtulur.
+
+Telefon,  bilgisayar gibi  iletişim  sağlayabilen  araçlarla  doğrudan  iletişim  sırasında
+yapılan öneri, hazır olanlar arasında yapılmış sayılır.
+
+b. Hazır olmayanlar arasında
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

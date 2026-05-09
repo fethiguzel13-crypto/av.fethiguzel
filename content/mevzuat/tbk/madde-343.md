@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 343
 ---
 
-Kira sözleşmelerinde kira bedelinin belirlenmesi dışında, kiracı aleyhine değişiklik yapılamaz. II.
+**2**
+
+---
+
+Madde 343 - Kira  sözleşmelerinde  kira  bedelinin  belirlenmesi  dışında,  kiracı
+aleyhine değişiklik yapılamaz.
+
+II. Belirlenmesi
+234
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 220
 ---
 
-Hayvan satışında satıcı, yazılı olarak üstlenmedikçe veya ağır kusuru olmadıkça ayıptan sorumlu olmaz. 2.
+**b. Hayvan satışında**
+
+---
+
+Madde 220 - Hayvan satışında satıcı, yazılı olarak üstlenmedikçe veya ağır kusuru
+olmadıkça ayıptan sorumlu olmaz.
+
+2. Sorumsuzluk anlaşması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

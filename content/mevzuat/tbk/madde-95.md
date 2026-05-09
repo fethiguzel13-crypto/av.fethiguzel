@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 95
 ---
 
-Süre uzatılmış ise yeni süre, aksi kararlaştırılmış olmadıkça, önceki sürenin sona ermesini izleyen birinci günden başlar. V.
+**IV. Sürenin uzatılması**
+
+---
+
+Madde 95 - Süre  uzatılmış  ise  yeni  süre,  aksi  kararlaştırılmış  olmadıkça,  önceki
+sürenin sona ermesini izleyen birinci günden başlar.
+
+V. Erken ifa
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

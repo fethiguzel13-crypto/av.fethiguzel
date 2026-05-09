@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 239
 ---
 
-Aksine anlaşma olmadıkça, sözleşmeden doğan önalım, alım ve geri alım hakları devredilemez, ancak miras yoluyla geçer. Bu hakların devredilebileceği sözleşmeyle kararlaştırılmışsa, devir işlemi hakkın kurulması için öngörülen şekilde yapılmadıkça geçerli olmaz. III. Önalım hakkı 1.
+**II. Devredilmesi ve miras yoluyla geçmesi**
+
+---
+
+Madde 239 - Aksine anlaşma olmadıkça, sözleşmeden doğan önalım, alım ve geri
+alım hakları devredilemez, ancak miras yoluyla geçer.
+Bu  hakların devredilebileceği  sözleşmeyle kararlaştırılmışsa,  devir  işlemi  hakkın
+kurulması için öngörülen şekilde yapılmadıkça geçerli olmaz.
+
+III. Önalım hakkı
+1. İleri sürülmesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,17 @@
+---
+title: "TTK Madde 269"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 269
+---
+
+**Madde 269**
+
+---
+
+Madde 269 - (1)   Tasfiye   hâline   giren   şirket,   ortaklarla   ilişkilerinde   de,   293   üncü  madde   hükmü   saklı   kalmak   kaydıyla,   ehliyeti   tasfiye   sonuna   kadar   bu   amaçla   sınırlı   olarak   tüzel  kişiliğini   korur   ve   ticaret   unvanını   buna   “tasfiye   hâlinde”   ibaresini   ekleyerek   kullanmakta  devam   eder.  III   -   İfl as
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

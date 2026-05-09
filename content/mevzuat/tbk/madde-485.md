@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 485
 ---
 
-Eserin tamamlanması, işsahibi ile ilgili beklenmedik olay dolayısıyla imkânsızlaşırsa yüklenici, yaptığı işin değerini ve bu değere girmeyen giderlerini isteyebilir. İfa imkânsızlığının ortaya çıkmasında işsahibi kusurluysa, yüklenicinin ayrıca tazminat isteme hakkı vardır. V.
+**IV. İşsahibi yüzünden ifanın imkânsızlaşması**
+
+---
+
+Madde 485 - Eserin  tamamlanması, işsahibi ile ilgili beklenmedik olay dolayısıyla
+imkânsızlaşırsa yüklenici, yaptığı işin değerini ve bu değere girmeyen giderlerini isteyebilir.
+İfa  imkânsızlığının  ortaya  çıkmasında  işsahibi  kusurluysa,  yüklenicinin  ayrıca
+tazminat isteme hakkı vardır.
+
+V. Yüklenicinin ölümü veya yeteneğini kaybetmesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 48
 ---
 
-Ortaklık temsilcileri ile organlarının ve ticari vekillerin yetkisine ilişkin hükümler saklıdır. İKİNCİ AYIRIM Haksız Fiillerden Doğan Borç İlişkileri A. Sorumluluk I.
+**III. Saklı hükümler**
+
+---
+
+Madde 48 - Ortaklık temsilcileri ile organlarının ve ticari vekillerin yetkisine ilişkin
+hükümler saklıdır.
+
+İKİNCİ AYIRIM
+Haksız Fiillerden Doğan Borç İlişkileri
+A. Sorumluluk
+I. Genel olarak
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

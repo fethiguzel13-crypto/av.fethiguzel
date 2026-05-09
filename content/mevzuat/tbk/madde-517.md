@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 517
 ---
 
-Kredi emrini veren, kredi emrinden yararlananın ehliyetsizliğini ileri sürerek kredi emri verilene karşı sorumluluktan kurtulamaz. III.
+**II. Kredi emrinden yararlananın ehliyetsizliği**
+
+---
+
+Madde 517 - Kredi emrini veren, kredi emrinden yararlananın ehliyetsizliğini ileri
+sürerek kredi emri verilene karşı sorumluluktan kurtulamaz.
+
+III. Kredi emri verilenin önel vermesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

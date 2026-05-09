@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 468
 ---
 
-İşçiye deneme amacıyla bir iş verilmişse, aksi kararlaştırılmadıkça, sözleşme deneme süresi için kurulmuş sayılır. İşçi, işveren tarafından aralıksız olarak çalıştırıldığı takdirde, aksi kararlaştırılmadıkça, sözleşme belirsiz süreyle yapılmış sayılır; diğer durumlarda sözleşmenin belirli süreyle yapıldığı kabul edilir. B.
+**V. Sona ermesi**
+
+---
+
+Madde 468 - İşçiye deneme amacıyla bir iş verilmişse, aksi kararlaştırılmadıkça,
+sözleşme deneme süresi için kurulmuş sayılır.
+İşçi, işveren tarafından aralıksız olarak çalıştırıldığı takdirde, aksi kararlaştırılmadıkça,
+sözleşme  belirsiz  süreyle  yapılmış  sayılır;  diğer  durumlarda  sözleşmenin  belirli  süreyle
+yapıldığı kabul edilir.
+
+B. Genel hükümlerin uygulanması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

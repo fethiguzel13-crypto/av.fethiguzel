@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 524
 ---
 
-Evlenme simsarlığından doğan ücret hakkında dava açılamaz ve takip yapılamaz. V.
+**IV. Evlenme simsarlığı**
+
+---
+
+Madde 524 - Evlenme simsarlığından doğan ücret hakkında dava açılamaz ve takip
+yapılamaz.
+
+V. Ücretten indirim
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

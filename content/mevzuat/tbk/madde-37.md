@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 37
 ---
 
-Taraflardan biri, diğerinin veya üçüncü bir kişinin korkutması sonucu bir sözleşme yapmışsa, sözleşmeyle bağlı değildir. Korkutan bir üçüncü kişi olup da diğer taraf korkutmayı bilmiyorsa veya bilecek durumda değilse, sözleşmeyle bağlı kalmak istemeyen korkutulan, hakkaniyet gerektiriyorsa, diğer tarafa tazminat ödemekle yükümlüdür. 2.
+**1. Hükmü**
+
+---
+
+Madde 37 - Taraflardan biri, diğerinin veya üçüncü bir kişinin korkutması sonucu bir
+sözleşme yapmışsa, sözleşmeyle bağlı değildir.
+Korkutan  bir  üçüncü  kişi  olup  da  diğer  taraf  korkutmayı  bilmiyorsa  veya  bilecek
+durumda değilse, sözleşmeyle bağlı kalmak istemeyen korkutulan, hakkaniyet gerektiriyorsa,
+diğer tarafa tazminat ödemekle yükümlüdür.
+
+2. Koşulları
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,17 @@
+---
+title: "TTK Madde 856"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 856
+---
+
+**Madde 856**
+
+---
+
+Madde 856 - (1)   Taşıma   senedi   taraflardan   birinin   istemi   üzerine   düzenlenir.   Senet  üç   özgün   nüsha   olarak   hazırlanır   ve   gönderen   tarafından   imzalanır.   Gönderen,   taşıyıcının   da  taşıma   senedini   imzalamasını   isteyebilir.   El   yazısı   ile   imzalanmış   taşıma   senetlerinin  suretlerindeki   imza,   damga   veya   mühür   şeklinde   ya   da   basılı   olabilir.   B ir   nüsha   gönderene  aittir,   diğeri   eşyaya   eşlik   eder,   üçüncüsü   taşıyıcıda   kalır.  (2)   Taşıma   senedi   düzenlenmemiş   olsa   bile,   tarafların   karşılıklı   ve   birbirine   uygun  iradeleri   ile   taşıma   sözleşmesi   kurulur.   Eşyanın   taşıyıcıya   teslimi,   taşıma   sözleşmesinin  v arlığına   karinedir.  II   -   Taşıma   senedinin   içeriği
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

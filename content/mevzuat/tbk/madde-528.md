@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 528
 ---
 
-İşgören, sözleşme ehliyetinden yoksunsa, yaptığı işlemden ancak zenginleştiği ölçüde veya iyiniyetli olmaksızın elinden çıkardığı zenginleşme miktarıyla sorumlu olur. Haksız fiillerden doğan daha kapsamlı sorumluluk saklıdır. B. İşsahibinin hak ve borçları I.
+**III. İşgörenin ehliyetsizliği**
+
+---
+
+Madde 528 - İşgören,  sözleşme  ehliyetinden  yoksunsa,  yaptığı  işlemden  ancak
+zenginleştiği ölçüde veya iyiniyetli olmaksızın elinden çıkardığı zenginleşme miktarıyla sorumlu
+olur.
+Haksız fiillerden doğan daha kapsamlı sorumluluk saklıdır.
+
+B. İşsahibinin hak ve borçları
+I. İşin işsahibinin menfaatine yapılması hâlinde
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

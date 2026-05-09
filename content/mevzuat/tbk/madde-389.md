@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 389
 ---
 
-Ödünç alanın, ödünç konusunun teslimine ve ödünç verenin de bu şeyin teslim alınmasına ilişkin istemleri, diğer tarafın bu konuda temerrüde düşmesinden başlayarak altı ayın geçmesiyle zamanaşımına uğrar. III.
+**II. Zamanaşımı**
+
+---
+
+Madde 389 - Ödünç  alanın, ödünç konusunun teslimine ve ödünç verenin de bu
+şeyin  teslim  alınmasına  ilişkin  istemleri,  diğer  tarafın  bu  konuda  temerrüde  düşmesinden
+başlayarak altı ayın geçmesiyle zamanaşımına uğrar.
+
+III. Ödünç alanın ödeme güçsüzlüğü
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

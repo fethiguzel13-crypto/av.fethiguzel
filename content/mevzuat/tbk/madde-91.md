@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 91
 ---
 
-Borcun ifası için bir ayın başlangıcı veya sonu belirlenmişse, bundan ayın birinci ve sonuncu günü; ayın ortası belirlenmişse, bundan da ayın onbeşinci günü anlaşılır. Borcun ifası için gün belirtilmeksizin sadece ay belirlenmişse, bundan o ayın son günü anlaşılır. 2.
+**1. Aya ilişkin sürelerde vade**
+
+---
+
+Madde 91 - Borcun ifası için bir ayın başlangıcı veya sonu belirlenmişse, bundan ayın
+birinci ve sonuncu günü; ayın ortası belirlenmişse, bundan da ayın onbeşinci günü anlaşılır.
+
+Borcun ifası için gün belirtilmeksizin sadece ay belirlenmişse, bundan o ayın son günü
+anlaşılır.
+
+2. Diğer sürelerde vade
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 569
 ---
 
-Birden çok kişi, haklarını korumak üzere, hukuki durumu çekişmeli veya belirsiz olan şeyi, bir güvenilirkişiye bırakırlarsa, bu kişi, saklatanların tamamının rızası veya hâkimin kararı olmadıkça, onu hiçbirine geri veremez. B.
+**IV. Güvenilirkişiye bırakma**
+
+---
+
+Madde 569 - Birden çok kişi, haklarını korumak üzere, hukuki durumu çekişmeli
+veya belirsiz olan şeyi, bir güvenilirkişiye bırakırlarsa, bu kişi, saklatanların tamamının rızası
+veya hâkimin kararı olmadıkça, onu hiçbirine geri veremez.
+
+B. Mislî şeylerin saklanması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 518
 ---
 
-Kredi emri verilen, kredi emrinden yararlanana kendiliğinden önel verir veya kendisine talimat verildiği hâlde kredi emrinden yararlanana başvurmayı ihmal ederse, kredi emri veren sorumluluktan kurtulur. IV.
+**III. Kredi emri verilenin önel vermesi**
+
+---
+
+Madde 518 - Kredi  emri  verilen,  kredi  emrinden  yararlanana  kendiliğinden  önel
+verir veya kendisine talimat verildiği hâlde kredi emrinden yararlanana başvurmayı ihmal
+ederse, kredi emri veren sorumluluktan kurtulur.
+
+IV. Taraflar arasındaki ilişki
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

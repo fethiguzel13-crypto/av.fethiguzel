@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 243
 ---
 
-Bir taşınmazın koşula bağlı satışında, koşul gerçekleşmedikçe tapu siciline tescil yapılamaz. Taşınmaz satışında mülkiyeti saklı tutma koşulu da tescil edilemez. II.
+**I. Koşullu satış ve mülkiyetin saklı tutulması**
+
+---
+
+Madde 243 - Bir  taşınmazın  koşula  bağlı  satışında,  koşul  gerçekleşmedikçe  tapu
+siciline tescil yapılamaz.
+Taşınmaz satışında mülkiyeti saklı tutma koşulu da tescil edilemez.
+
+II. Sorumluluk
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

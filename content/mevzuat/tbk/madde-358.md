@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 358
 ---
 
-Bu ayırımda ürün kirasına ilişkin özel hüküm bulunmadıkça, kira sözleşmesine ilişkin genel hükümler uygulanır. C.
+**B. Genel hükümlerin uygulanması**
+
+---
+
+Madde 358 - Bu  ayırımda  ürün  kirasına  ilişkin  özel  hüküm  bulunmadıkça,  kira
+sözleşmesine ilişkin genel hükümler uygulanır.
+
+C. Tutanak düzenleme
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

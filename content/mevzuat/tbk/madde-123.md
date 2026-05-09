@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 123
 ---
 
-Karşılıklı borç yükleyen sözleşmelerde, taraflardan biri temerrüde düştüğü takdirde diğeri, borcun ifa edilmesi için uygun bir süre verebilir veya uygun bir süre verilmesini hâkimden isteyebilir. b.
+**a. Süre verilmesi**
+
+---
+
+Madde 123 - Karşılıklı  borç  yükleyen  sözleşmelerde,  taraflardan  biri  temerrüde
+düştüğü takdirde diğeri, borcun ifa edilmesi için uygun bir süre verebilir veya uygun bir süre
+verilmesini hâkimden isteyebilir.
+
+b. Süre verilmesini gerektirmeyen durumlar
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

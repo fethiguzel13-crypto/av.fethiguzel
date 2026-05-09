@@ -1,0 +1,18 @@
+---
+title: "TTK Madde 349"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 349
+---
+
+**Madde 349**
+
+---
+
+Madde 349 - (Mülga:   15/7/2016 - 6728/73   md.)  48   15/7/2016 tarihli ve 6728 sayılı Kanunun 67 nci maddesi ile bu fıkraya “noter onayı” ibaresinden  sonra gelmek üzere “veya şirket sözleşmesinin ticaret sicili müdürü yahut yardımcısı huzurunda  imzalanma” ibaresi eklenmiştir.
+XI   -   Halka   arz   taahhüdü
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

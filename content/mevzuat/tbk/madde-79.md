@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 79
 ---
 
-Sebepsiz zenginleşen, zenginleşmenin geri istenmesi sırasında elinden çıkmış olduğunu ispat ettiği kısmın dışında kalanı geri vermekle yükümlüdür. Zenginleşen, zenginleşmeyi iyiniyetli olmaksızın elden çıkarmışsa veya elden çıkarırken ileride geri vermek zorunda kalabileceğini hesaba katması gerekiyorsa, zenginleşmenin tamamını geri vermekle yükümlüdür. II.
+**I. Zenginleşenin yükümlülüğü**
+
+---
+
+Madde 79 - Sebepsiz zenginleşen, zenginleşmenin geri istenmesi sırasında elinden
+çıkmış olduğunu ispat ettiği kısmın dışında kalanı geri vermekle yükümlüdür.
+Zenginleşen, zenginleşmeyi iyiniyetli olmaksızın elden çıkarmışsa veya elden çıkarırken
+ileride geri  vermek  zorunda  kalabileceğini  hesaba  katması  gerekiyorsa,  zenginleşmenin
+tamamını geri vermekle yükümlüdür.
+
+II. Giderleri isteme hakkı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

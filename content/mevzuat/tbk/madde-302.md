@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 302
 ---
 
-Kiralananla ilgili zorunlu sigorta, vergi ve benzeri yükümlülüklere, aksi kararlaştırılmamış veya kanunda öngörülmemiş ise, kiraya veren katlanır. III.
+**II. Vergi ve benzeri yükümlülüklere katlanma borcu**
+
+---
+
+Madde 302 - Kiralananla ilgili zorunlu sigorta, vergi ve benzeri yükümlülüklere, aksi
+kararlaştırılmamış veya kanunda öngörülmemiş ise, kiraya veren katlanır.
+
+III. Yan giderlere katlanma borcu
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

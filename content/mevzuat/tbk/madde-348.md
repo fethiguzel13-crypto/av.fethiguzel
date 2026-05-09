@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 348
 ---
 
-Konut ve çatılı işyeri kiralarında fesih bildiriminin geçerliliği, yazılı şekilde yapılmasına bağlıdır. b.
+**a. Şekil**
+
+---
+
+Madde 348 - Konut ve çatılı işyeri kiralarında fesih bildiriminin geçerliliği, yazılı
+şekilde yapılmasına bağlıdır.
+
+b. Aile konutu
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

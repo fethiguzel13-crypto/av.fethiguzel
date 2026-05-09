@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 25
 ---
 
-Genel işlem koşullarına, dürüstlük kurallarına aykırı olarak, karşı tarafın aleyhine veya onun durumunu ağırlaştırıcı nitelikte hükümler konulamaz. F. Sözleşmenin içeriği I.
+**V. İçerik denetimi**
+
+---
+
+Madde 25 - Genel işlem koşullarına, dürüstlük kurallarına aykırı olarak, karşı tarafın
+aleyhine veya onun durumunu ağırlaştırıcı nitelikte hükümler konulamaz.
+
+F. Sözleşmenin içeriği
+I. Sözleşme özgürlüğü
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

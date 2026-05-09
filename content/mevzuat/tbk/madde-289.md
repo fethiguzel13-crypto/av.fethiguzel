@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 289
 ---
 
-Elden bağışlama, bağışlayanın bir taşınırını bağışlanana teslim etmesiyle kurulmuş olur. III.
+**II. Elden bağışlama**
+
+---
+
+Madde 289 - Elden  bağışlama,  bağışlayanın  bir  taşınırını  bağışlanana  teslim
+etmesiyle kurulmuş olur.
+
+III. Koşullu bağışlama
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

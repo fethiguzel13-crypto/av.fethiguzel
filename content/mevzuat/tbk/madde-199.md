@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 199
 ---
 
-Üstlenilen borca ilişkin savunmaları ileri sürme hakkı, yeni borçluya geçer. Dış üstlenme sözleşmesinden aksi anlaşılmadıkça yeni borçlu, alacaklıya karşı önceki borçlunun ileri sürebileceği kişisel savunmalarda bulunamaz. Yeni borçlu, iç üstlenme sözleşmesinden kaynaklanan savunmaları alacaklıya karşı ileri süremez. D.
+**II. Savunmalar**
+
+---
+
+Madde 199 - Üstlenilen borca ilişkin savunmaları ileri sürme hakkı, yeni borçluya geçer.
+Dış üstlenme sözleşmesinden aksi anlaşılmadıkça yeni borçlu, alacaklıya karşı önceki
+borçlunun ileri sürebileceği kişisel savunmalarda bulunamaz.
+Yeni borçlu, iç üstlenme sözleşmesinden kaynaklanan savunmaları alacaklıya karşı
+ileri süremez.
+
+D. Sözleşmenin hükümsüzlüğü
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

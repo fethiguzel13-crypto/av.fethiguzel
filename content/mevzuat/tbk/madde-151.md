@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 151
 ---
 
-Süreler hesaplanırken zamanaşımının başladığı gün sayılmaz ve zamanaşımı ancak sürenin son günü de hak kullanılmaksızın geçince gerçekleşmiş olur. Zamanaşımı sürelerinin hesaplanmasında da, borçların ifasındaki sürelerin hesaplanmasına ilişkin hükümler uygulanır. B.
+**V. Sürelerin hesaplanması**
+
+---
+
+Madde 151 - Süreler  hesaplanırken  zamanaşımının  başladığı  gün  sayılmaz  ve
+zamanaşımı ancak sürenin son günü de hak kullanılmaksızın geçince gerçekleşmiş olur.
+Zamanaşımı sürelerinin hesaplanmasında da, borçların ifasındaki sürelerin hesaplanmasına
+ilişkin hükümler uygulanır.
+
+B. Bağlı alacaklarda zamanaşımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,25 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 229
 ---
 
-Satış sözleşmesinden dönen alıcı, satılanı, ondan elde ettiği yararları ile birlikte satıcıya geri vermekle yükümlüdür. Buna karşılık alıcı da, satıcıdan aşağıdaki istemlerde bulunabilir: 1. Ödemiş olduğu satış bedelinin, faiziyle birlikte geri verilmesi. 2. Satılanın tamamen zaptında olduğu gibi, yargılama giderleri ile satılan için yapmış olduğu giderlerin ödenmesi. 3. Ayıplı maldan doğan doğrudan zararının giderilmesi. Satıcı, kendisine hiçbir kusur yüklenemeyeceğini ispat etmedikçe, alıcının diğer zararlarını da gidermekle yükümlüdür. b.
+**a. Genel olarak**
+
+---
+
+Madde 229 - Satış sözleşmesinden dönen alıcı, satılanı, ondan elde ettiği yararları ile
+birlikte  satıcıya  geri  vermekle  yükümlüdür.  Buna  karşılık  alıcı  da,  satıcıdan  aşağıdaki
+istemlerde bulunabilir:
+1. Ödemiş olduğu satış bedelinin, faiziyle birlikte geri verilmesi.
+
+2. Satılanın tamamen zaptında olduğu gibi, yargılama giderleri ile satılan için yapmış
+olduğu giderlerin ödenmesi.
+3. Ayıplı maldan doğan doğrudan zararının giderilmesi.
+Satıcı,  kendisine  hiçbir  kusur  yüklenemeyeceğini  ispat  etmedikçe,  alıcının  diğer
+zararlarını da gidermekle yükümlüdür.
+
+b. Birden çok mal satışında
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

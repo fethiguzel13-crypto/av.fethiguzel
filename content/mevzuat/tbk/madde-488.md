@@ -4,8 +4,16 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 488
 ---
 
-Yayım sözleşmesinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır. C. Hükümleri I.
+**B. Şekli**
+
+---
+
+Madde 488 - Yayım sözleşmesinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır.
+C. Hükümleri
+I. Yayımlatma hakkının geçişi ve sorumluluk
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

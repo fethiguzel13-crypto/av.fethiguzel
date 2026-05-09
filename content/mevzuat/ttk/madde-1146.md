@@ -1,0 +1,17 @@
+---
+title: "TTK Madde 1146"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 1146
+---
+
+**Madde 1146**
+
+---
+
+Madde 1146 - (1)   Taşıtan   ve   yükleten,   harp   kaçağı   veya   ihracı,   ithali   veya   transit  olarak   geçirilmesi   menedilmiş   olan   eşyayı   yükler   yahut   yükleme   sırasında   mevzuata,   özel likle  kolluk,   vergi   ve   gümrük   kurallarına   aykırı   hareket   ederlerse,   taşıyana   karşı   sorumludur;   bu  yüzden   zarar   gören   diğer   kişilere   karşı   ise   ancak   kusurları   varsa   sorumlu   olurlar.  (2)   Kaptanın   onayıyla   hareket   etmiş   olmaları,   taşıtan   ve   yükleteni   diğer   ki şilere   karşı  sorumluluktan   kurtarmaz.   Bunlar   eşyanın   el   konulmuş   olduğunu   ileri   sürerek   navlunu  ödemekten   kaçınamazlar.  (3)   Eşya,   gemiyi   veya   içindeki   diğer   eşyayı   tehlikeye   sokarsa,   kaptan,   bunu   karaya  çıkarmaya   veya   zorunluluk   hâllerinde   denize   atmaya   ye tkilidir.  c)   Gizlice   yüklenen   eşya   hakkında
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

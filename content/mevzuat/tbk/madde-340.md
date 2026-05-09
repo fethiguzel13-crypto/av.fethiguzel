@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 340
 ---
 
-Konut ve çatılı işyeri kiralarında sözleşmenin kurulması ya da sürdürülmesi, kiracının yararı olmaksızın, kiralananın kullanımıyla doğrudan ilişkisi olmayan bir borç altına girmesine bağlanmışsa, kirayla bağlantılı sözleşme geçersizdir. C.
+**2**
+
+---
+
+Madde 340 - Konut  ve  çatılı  işyeri  kiralarında  sözleşmenin  kurulması  ya  da
+sürdürülmesi, kiracının yararı olmaksızın, kiralananın kullanımıyla doğrudan ilişkisi olmayan
+bir borç altına girmesine bağlanmışsa, kirayla bağlantılı sözleşme geçersizdir.
+
+C. Kullanma giderleri
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

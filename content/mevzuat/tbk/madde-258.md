@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 258
 ---
 
-Taksit borcu kambiyo senedine bağlanmış olmadıkça, alıcı satış bedelinin kalan kısmını her zaman bir defada ödeyerek borcundan kurtulabilir. Bu durumda, peşin satış bedeline ilave edilen bedelin ödenmemiş taksitlere isabet eden kısmı, yarısından az olmamak üzere ödeme süresinin kısaltılmasına uygun olarak indirilir. 5. Alıcının temerrüdü a.
+**c. Satış bedelinin tamamen ödenmesi**
+
+---
+
+Madde 258 - Taksit  borcu  kambiyo  senedine  bağlanmış  olmadıkça,  alıcı  satış
+bedelinin kalan kısmını her zaman bir defada ödeyerek borcundan kurtulabilir. Bu durumda,
+peşin satış bedeline ilave edilen bedelin ödenmemiş taksitlere isabet eden kısmı, yarısından az
+olmamak üzere ödeme süresinin kısaltılmasına uygun olarak indirilir.
+
+5. Alıcının temerrüdü
+a. Satıcının seçimlik hakkı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

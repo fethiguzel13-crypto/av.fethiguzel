@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 536
 ---
 
-Komisyoncu, vekâlet verenin izni olmaksızın malı veresiye satar veya malı teslim almadan bedelini öderse, bundan doğan zarara katlanmak zorundadır. Ancak, vekâlet veren yasaklamadıkça, malı satış yerindeki ticari teamüle göre veresiye de satabilir. 5.
+**4. Veresiye satma ve teslim almadan ödeme**
+
+---
+
+Madde 536 - Komisyoncu, vekâlet verenin izni olmaksızın malı veresiye satar veya
+malı  teslim  almadan  bedelini  öderse,  bundan  doğan  zarara  katlanmak  zorundadır.  Ancak,
+vekâlet veren yasaklamadıkça, malı satış yerindeki ticari teamüle göre veresiye de satabilir.
+
+5. Komisyoncunun garantisi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

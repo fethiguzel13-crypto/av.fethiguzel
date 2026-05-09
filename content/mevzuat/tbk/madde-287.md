@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 287
 ---
 
-Fiil ehliyeti bulunmayan kişi ayırt etme gücüne sahipse, bağışlamayı kabul edebilir. Ancak, bağışlananın yasal temsilcisi bu kişinin bağışlamayı kabulünü yasaklar veya bağışlanılan şeyin geri verilmesini emrederse, bağışlama ortadan kalkar. C. Kurulması I.
+**II. Bağışlanan için**
+
+---
+
+Madde 287 - Fiil ehliyeti bulunmayan kişi ayırt etme gücüne sahipse, bağışlamayı
+kabul edebilir. Ancak, bağışlananın yasal temsilcisi bu kişinin bağışlamayı kabulünü yasaklar
+veya bağışlanılan şeyin geri verilmesini emrederse, bağışlama ortadan kalkar.
+
+C. Kurulması
+I. Bağışlama sözü verme
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

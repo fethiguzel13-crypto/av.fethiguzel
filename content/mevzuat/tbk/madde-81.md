@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 81
 ---
 
-Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey geri istenemez. Ancak, açılan davada hâkim, bu şeyin Devlete mal edilmesine karar verebilir. D.
+**C. Geri istenememe**
+
+---
+
+Madde 81 - Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla verilen şey
+geri istenemez. Ancak, açılan davada hâkim, bu şeyin Devlete mal edilmesine karar verebilir.
+
+D. Zamanaşımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

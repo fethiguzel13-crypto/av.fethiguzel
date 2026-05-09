@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 30
 ---
 
-Sözleşme kurulurken esaslı yanılmaya düşen taraf, sözleşme ile bağlı olmaz. 2. Yanılma hâlleri a.
+**1. Yanılmanın hükümleri**
+
+---
+
+Madde 30 - Sözleşme kurulurken esaslı yanılmaya düşen taraf, sözleşme ile bağlı
+olmaz.
+
+2. Yanılma hâlleri
+a. Açıklamada yanılma
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

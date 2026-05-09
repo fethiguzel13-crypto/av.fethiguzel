@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 221
 ---
 
-Satıcı satılanı ayıplı olarak devretmekte ağır kusurlu ise, ayıptan sorumluluğunu kaldıran veya sınırlayan her anlaşma kesin olarak hükümsüzdür. 3.
+**2. Sorumsuzluk anlaşması**
+
+---
+
+Madde 221 - Satıcı  satılanı  ayıplı  olarak  devretmekte  ağır  kusurlu  ise,  ayıptan
+sorumluluğunu kaldıran veya sınırlayan her anlaşma kesin olarak hükümsüzdür.
+
+3. Alıcının bildiği ayıplar
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

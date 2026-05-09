@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 34
 ---
 
-Yanılan, yanıldığını dürüstlük kurallarına aykırı olarak ileri süremez. Özellikle diğer tarafın, sözleşmenin yanılanın kasdettiği anlamda kurulmasına razı olduğunu bildirmesi durumunda, sözleşme bu anlamda kurulmuş sayılır. 4.
+**3. Yanılmada dürüstlük kuralları**
+
+---
+
+Madde 34 - Yanılan, yanıldığını dürüstlük kurallarına aykırı olarak ileri süremez.
+Özellikle  diğer  tarafın,  sözleşmenin  yanılanın  kasdettiği  anlamda  kurulmasına  razı
+olduğunu bildirmesi durumunda, sözleşme bu anlamda kurulmuş sayılır.
+
+4. Yanılmada kusur
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

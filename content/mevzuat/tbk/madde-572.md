@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 572
 ---
 
-Ardiyeci, kendisine bırakılan malları bir komisyoncu gibi özenle saklamak ve mallarda ayrıca önlem alınmasını gerektiren bir değişiklik olursa, durumu imkân ölçüsünde saklatana bildirmekle yükümlüdür. Ardiyeci, saklatana, malların durumunu incelemesi ve örnek alması için, alışılmış iş zamanlarında; gerekli koruma önlemlerini alabilmesi için de her zaman izin vermek zorundadır. III.
+**II. Ardiyecinin saklama borcu**
+
+---
+
+Madde 572 - Ardiyeci,  kendisine  bırakılan  malları  bir  komisyoncu  gibi  özenle
+saklamak ve mallarda ayrıca önlem alınmasını gerektiren bir değişiklik olursa, durumu imkân
+ölçüsünde saklatana bildirmekle yükümlüdür.
+Ardiyeci, saklatana, malların durumunu incelemesi ve örnek alması için, alışılmış iş
+zamanlarında; gerekli koruma önlemlerini alabilmesi için de her zaman izin vermek zorundadır.
+
+III. Bırakılan şeylerin karışması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

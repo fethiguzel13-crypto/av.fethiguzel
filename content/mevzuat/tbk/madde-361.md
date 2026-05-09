@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 361
 ---
 
-Kiraya veren, kira süresi içinde yapılması zorunlu olan esaslı onarımları, kiracı tarafından bildirilir bildirilmez, gideri kendisine ait olmak üzere yapmakla yükümlüdür. E. Kiracının borçları I. Kira bedelini ve yan giderleri ödeme borcu 1.
+**II. Esaslı onarımlar**
+
+---
+
+Madde 361 - Kiraya  veren,  kira  süresi  içinde  yapılması  zorunlu  olan  esaslı
+onarımları, kiracı tarafından bildirilir bildirilmez, gideri kendisine ait olmak üzere yapmakla
+yükümlüdür.
+
+E. Kiracının borçları
+I. Kira bedelini ve yan giderleri ödeme borcu
+1. Genel olarak
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

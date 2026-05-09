@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 588
 ---
 
-Alacaklıya, kefilin borcu için güvence veren kefile kefil, kefil ile birlikte, adi kefil gibi sorumludur. Rücua kefil, kefilin borçludan rücu alacağı için güvence veren kefildir. II. Ortak hükümler 1. Kefil ile alacaklı arasındaki ilişki a.
+**4. Kefile kefil ve rücua kefil**
+
+---
+
+Madde 588 - Alacaklıya,  kefilin  borcu  için  güvence  veren  kefile  kefil,  kefil  ile
+birlikte, adi kefil gibi sorumludur.
+Rücua kefil, kefilin borçludan rücu alacağı için güvence veren kefildir.
+
+II. Ortak hükümler
+1. Kefil ile alacaklı arasındaki ilişki
+a. Sorumluluğun kapsamı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

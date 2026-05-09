@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 602
 ---
 
-Çalışanlara süreli olmayan kefalette kefil, her üç yılda bir, ertesi yılın sonunda geçerli olmak üzere sözleşmeyi feshettiğini bildirebilir. E.
+**V. Çalışanlara kefalette**
+
+---
+
+Madde 602 - Çalışanlara süreli olmayan kefalette kefil, her üç yılda bir, ertesi yılın
+sonunda geçerli olmak üzere sözleşmeyi feshettiğini bildirebilir.
+
+E. Uygulama alanı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

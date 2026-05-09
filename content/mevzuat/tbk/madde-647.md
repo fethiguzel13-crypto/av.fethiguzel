@@ -4,8 +4,15 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 647
 ---
 
-22/4/1926 tarihli ve 818 sayılı Borçlar Kanunu yürürlükten kaldırılmıştır.
+**Yürürlükten kaldırılan Kanun**
+
+---
+
+Madde 647 - 22/4/1926 tarihli ve 818 sayılı Borçlar Kanunu yürürlükten kaldırılmıştır.
+GEÇİCİ
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

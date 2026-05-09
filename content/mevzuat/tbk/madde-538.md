@@ -4,8 +4,21 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 538
 ---
 
-Komisyoncu, vekâlet verenin yararı için yaptığı bütün giderleri ve ödediği paraları faiziyle birlikte isteyebilir. Komisyoncu, ardiye ve taşıma bedellerini vekâlet verenin hesabına geçirebilirse de, kendi çalışanlarının ücretlerini geçiremez. 2. Komisyon ücreti a.
+**1. Ödediği paralar ve yaptığı giderler**
+
+---
+
+Madde 538 - Komisyoncu,  vekâlet  verenin  yararı  için  yaptığı  bütün  giderleri  ve
+ödediği paraları faiziyle birlikte isteyebilir.
+
+Komisyoncu, ardiye ve taşıma bedellerini vekâlet verenin hesabına geçirebilirse de,
+kendi çalışanlarının ücretlerini geçiremez.
+
+2. Komisyon ücreti
+a. İsteme hakkı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

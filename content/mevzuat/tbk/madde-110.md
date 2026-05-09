@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 110
 ---
 
-Borcun konusu bir şeyin teslimini gerektirmiyorsa, alacaklının temerrüdü hâlinde borçlu, borçlunun temerrüdüne ilişkin hükümlere göre sözleşmeden dönebilir. F.
+**2. Diğer edimlerde**
+
+---
+
+Madde 110 - Borcun konusu bir şeyin teslimini gerektirmiyorsa, alacaklının temerrüdü
+hâlinde borçlu, borçlunun temerrüdüne ilişkin hükümlere göre sözleşmeden dönebilir.
+
+F. Diğer ifa engelleri
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

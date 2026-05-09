@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 186
 ---
 
-Buraya TBK Madde 186 metnini ekleyebilirsiniz.
+**1. İyiniyetle yapılan ifa**
+
+---
+
+Madde 186 - Borçlu,  alacağın  devredildiği,  devreden  veya  devralan  tarafından
+kendisine  bildirilmemişse, önceki alacaklıya; alacak birkaç kez devredilmişse, son devralan
+yerine önceki devralanlardan birine iyiniyetle ifada bulunarak borcundan kurtulur.
+
+2. İfadan kaçınma ve tevdi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 201
 ---
 
-Borca katılma, mevcut bir borca borçlunun yanında yer almak üzere, katılan ile alacaklı arasında yapılan ve katılanın, borçlu ile birlikte borçtan sorumlu olması sonucunu doğuran bir sözleşmedir. Borca katılan ile borçlu, alacaklıya karşı müteselsilen sorumlu olurlar. F.
+**E. Borca katılma**
+
+---
+
+Madde 201 - Borca katılma, mevcut bir borca borçlunun yanında yer almak üzere,
+katılan ile alacaklı arasında yapılan ve katılanın, borçlu ile birlikte borçtan sorumlu olması
+sonucunu doğuran bir sözleşmedir.
+Borca katılan ile borçlu, alacaklıya karşı müteselsilen sorumlu olurlar.
+
+F. Malvarlığının veya işletmenin devralınması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

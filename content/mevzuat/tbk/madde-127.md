@@ -4,8 +4,23 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 127
 ---
 
-Alacaklıya ifada bulunan üçüncü kişi, aşağıdaki hâllerde ifası ölçüsünde alacaklının haklarına halef olur: 1. Başkasının borcu için rehnedilen bir şeyi rehinden kurtardığı ve bu şey üzerinde mülkiyet veya başka bir ayni hakkı bulunduğu takdirde. 2. Alacaklıya ifada bulunan üçüncü kişinin ona halef olacağı, borçlu tarafından ifadan önce alacaklıya bildirildiği takdirde. Diğer halefiyet hâllerine ilişkin kanun hükümleri saklıdır. B.
+**A. Alacaklıya halef olma**
+
+---
+
+Madde 127 - Alacaklıya  ifada  bulunan  üçüncü  kişi,  aşağıdaki  hâllerde  ifası
+ölçüsünde alacaklının haklarına halef olur:
+
+1. Başkasının borcu için rehnedilen bir şeyi rehinden kurtardığı ve bu şey üzerinde
+mülkiyet veya başka bir ayni hakkı bulunduğu takdirde.
+2. Alacaklıya ifada bulunan üçüncü kişinin ona halef olacağı, borçlu tarafından ifadan
+önce alacaklıya bildirildiği takdirde.
+Diğer halefiyet hâllerine ilişkin kanun hükümleri saklıdır.
+
+B. Üçüncü kişinin fiilini üstlenme
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

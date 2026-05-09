@@ -1,0 +1,17 @@
+---
+title: "TTK Madde 1342"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 1342
+---
+
+**Madde 1342**
+
+---
+
+Madde 1342 - (1)   1976   ve   1992   tarihli   sözleşmeler   uyarınca   sorumluluğunu  sınırlama   hakkına   sahip   olan   bir   tüzel   kişinin   veya   adi   şirketin   yahut   donatma   iştirakinin   adına  fon   kurulmazsa,   tüzel   kişinin   veya   adi   şirketin   yahut   donatma   iştirakinin   o   borcundan   ötürü  ş ahsen   sorumlu   tutulabilecek   her   kişi,   fon   kurarak   sorumluluğunu   sınırlayabilir.   Fonun,  toplam   sorumluluk   sınırı   üzerinden   kurulması   şarttır;   fon   kuran   kişinin,   tüzel   kişideki   veya   adi  şirketteki   yahut   donatma   iştirakindeki   pay   oranı   dikkate   alınmaz.   Bu   mad de   uyarınca   kurulan  bir   fon,   1976   ve   1992   tarihli   sözleşmeler   uyarınca   kurulmuş   bir   fon   hükmündedir.  III   -   Sınırlama   hakkını   kaldıran   kusur
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

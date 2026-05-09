@@ -4,8 +4,21 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 573
 ---
 
-Ardiyeci açıkça yetkili kılınmadıkça, aynı tür ve nitelikteki mislî şeyleri birbirine karıştıramaz. Yetkiye dayanılarak karıştırılan bu gibi şeyler üzerinde, saklatanlardan her biri, hakkıyla orantılı bir pay isteyebilir. Bu durumda ardiyeci, saklatanların birlikte hazır bulunmasına gerek olmaksızın saklatanlardan her birinin payını ayırabilir. IV.
+**III. Bırakılan şeylerin karışması**
+
+---
+
+Madde 573 - Ardiyeci  açıkça  yetkili  kılınmadıkça,  aynı  tür  ve  nitelikteki  mislî
+şeyleri birbirine karıştıramaz.
+Yetkiye dayanılarak karıştırılan bu gibi şeyler üzerinde, saklatanlardan her biri, hakkıyla
+orantılı bir pay isteyebilir.
+Bu  durumda  ardiyeci,  saklatanların  birlikte  hazır  bulunmasına  gerek  olmaksızın
+saklatanlardan her birinin payını ayırabilir.
+
+IV. Ardiyecinin hakları
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

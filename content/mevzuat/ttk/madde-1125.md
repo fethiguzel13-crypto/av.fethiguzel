@@ -1,0 +1,17 @@
+---
+title: "TTK Madde 1125"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 1125
+---
+
+**Madde 1125**
+
+---
+
+Madde 1125 - (1)   Kiracı,   gemiyi   tahsis   amacına   uygun   olarak   sözleşme   hükümleri  çerçevesinde   dilediği   gibi   kullanabilir.  (2)   Kiracı,   kiraya   verenin   geminin   dona tımı   için   sözleşme   hükümlerine   göre   gemide  bıraktığı   her   tür   malzeme   ve   teçhizatı,   sözleşmenin   bitiminde   aynı   nitelik   ve   nicelikte   teslim  etmek   şartıyla   kullanma   hakkına   sahiptir.  V -   Sigorta
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

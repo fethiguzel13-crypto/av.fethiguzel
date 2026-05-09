@@ -4,8 +4,23 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 378
 ---
 
-Aksine anlaşma veya yerel âdet yoksa, belirsiz bir süre için yapılan sözleşmeyi, taraflardan her biri, dilediği zaman feshedebilir. Ancak, fesih dürüstlük kurallarına aykırı ve uygun olmayan bir zamanda yapılamaz. BEŞİNCİ BÖLÜM Ödünç Sözleşmeleri BİRİNCİ AYIRIM Kullanım Ödüncü A.
+**III. Fesih**
+
+---
+
+Madde 378 - Aksine anlaşma veya yerel âdet yoksa, belirsiz bir süre için yapılan
+sözleşmeyi, taraflardan her biri, dilediği zaman feshedebilir.
+Ancak, fesih dürüstlük kurallarına aykırı ve uygun olmayan bir zamanda yapılamaz.
+
+BEŞİNCİ BÖLÜM
+Ödünç Sözleşmeleri
+
+BİRİNCİ AYIRIM
+Kullanım Ödüncü
+A. Tanımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

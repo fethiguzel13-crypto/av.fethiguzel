@@ -4,8 +4,22 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 15
 ---
 
-İmzanın, borç altına girenin el yazısıyla atılması zorunludur. Güvenli elektronik imza da, el yazısıyla atılmış imzanın bütün hukuki sonuçlarını doğurur. İmzanın el yazısı dışında bir araçla atılması, ancak örf ve âdetçe kabul edilen durumlarda ve özellikle çok sayıda çıkarılan kıymetli evrakın imzalanmasında yeterli sayılır. (Değişik fıkra: 13/2/2011-6111/213 md.) Görme engellilerin talepleri halinde imzalarında şahit aranır. Aksi takdirde görme engellilerin imzalarını el yazısı ile atmaları yeterlidir. d.
+**c. İmza**
+
+---
+
+Madde 15 - İmzanın, borç altına girenin el yazısıyla atılması zorunludur. Güvenli
+elektronik imza da, el yazısıyla atılmış imzanın bütün hukuki sonuçlarını doğurur.
+İmzanın  el  yazısı  dışında  bir  araçla  atılması,  ancak  örf  ve  âdetçe  kabul  edilen
+durumlarda ve özellikle çok sayıda çıkarılan kıymetli evrakın imzalanmasında yeterli sayılır.
+(Değişik  fıkra:  13/2/2011-6111/213   md.) Görme  engellilerin   talepleri   halinde
+imzalarında şahit aranır. Aksi takdirde görme engellilerin imzalarını el yazısı ile atmaları
+yeterlidir.
+
+d. İmza yerine geçen işaretler
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

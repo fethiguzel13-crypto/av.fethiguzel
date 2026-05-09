@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 484
 ---
 
-İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın karşılığını ödemek ve yüklenicinin bütün zararlarını gidermek koşuluyla sözleşmeyi feshedebilir. IV.
+**III. Tazminat karşılığı fesih**
+
+---
+
+Madde 484 - İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın karşılığını
+ödemek ve yüklenicinin bütün zararlarını gidermek koşuluyla sözleşmeyi feshedebilir.
+
+IV. İşsahibi yüzünden ifanın imkânsızlaşması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

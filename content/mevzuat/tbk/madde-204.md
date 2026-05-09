@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 204
 ---
 
-Mirasın paylaşılması ve rehinli taşınmazların devri konusundaki borcun üstlenilmesine ilişkin özel hükümler saklıdır. ÜÇÜNCÜ AYIRIM Sözleşmenin Devri ve Sözleşmeye Katılma A.
+**H. Özel hükümlerin saklılığı**
+
+---
+
+Madde 204 - Mirasın paylaşılması ve rehinli taşınmazların devri konusundaki borcun
+üstlenilmesine ilişkin özel hükümler saklıdır.
+
+ÜÇÜNCÜ AYIRIM
+Sözleşmenin Devri ve Sözleşmeye Katılma
+A. Sözleşmenin devri
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

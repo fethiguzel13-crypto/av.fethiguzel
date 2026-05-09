@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 165
 ---
 
-Kanun veya sözleşme ile aksi belirlenmedikçe, borçlulardan biri kendi davranışıyla diğer borçluların durumunu ağırlaştıramaz. 2.
+**c. Borçluların bireysel davranışı**
+
+---
+
+Madde 165 - Kanun veya sözleşme ile aksi belirlenmedikçe, borçlulardan biri kendi
+davranışıyla diğer borçluların durumunu ağırlaştıramaz.
+
+2. Borcun sona ermesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

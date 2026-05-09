@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 544
 ---
 
-Komisyoncu, kendisinin doğrudan doğruya alıcı veya satıcı olabildiği durumlarda, sözleşmenin diğer tarafını göstermeksizin vekâletin yerine getirildiğini vekâlet verene bildirirse, işlemi kendisiyle yapmış sayılır. c.
+**b. İşlemi kendisiyle yapmış sayılma**
+
+---
+
+Madde 544 - Komisyoncu, kendisinin doğrudan doğruya alıcı veya satıcı olabildiği
+durumlarda, sözleşmenin diğer tarafını göstermeksizin vekâletin yerine getirildiğini vekâlet
+verene bildirirse, işlemi kendisiyle yapmış sayılır.
+
+c. İşlemi kendisiyle yapma hakkının düşmesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

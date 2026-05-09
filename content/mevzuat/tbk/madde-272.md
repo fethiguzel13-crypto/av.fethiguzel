@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 272
 ---
 
-Alıcının tacir sıfatıyla hareket etmesi veya malın bir ticari işletmenin ihtiyacı için ya da meslekî amaçlarla satın alınması durumunda, 264 ilâ 271 inci maddeler uygulanmaz. III.
+**4. Uygulama alanının sınırlanması**
+
+---
+
+Madde 272 - Alıcının tacir sıfatıyla hareket etmesi veya malın bir ticari işletmenin
+ihtiyacı için ya da meslekî amaçlarla satın alınması durumunda, 264 ilâ 271 inci maddeler
+uygulanmaz.
+
+III. Ortak hükümler
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

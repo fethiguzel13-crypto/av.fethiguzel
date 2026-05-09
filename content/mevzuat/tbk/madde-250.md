@@ -4,8 +4,21 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 250
 ---
 
-Beğenme koşuluyla satışta alıcı, satılanı kabul etmekte veya hiçbir sebep göstermeksizin geri vermekte serbesttir. Satılan, alıcının zilyetliğine geçmiş olsa bile, satılanın mülkiyeti, beğenme koşulunun gerçekleştiği ana kadar satıcıda kalır. III. Deneme veya gözden geçirme 1.
+**II. Hükümleri**
+
+---
+
+Madde 250 - Beğenme koşuluyla satışta alıcı, satılanı kabul etmekte veya hiçbir
+sebep göstermeksizin geri vermekte serbesttir.
+
+Satılan, alıcının zilyetliğine geçmiş olsa bile, satılanın mülkiyeti, beğenme koşulunun
+gerçekleştiği ana kadar satıcıda kalır.
+
+III. Deneme veya gözden geçirme
+1. Satıcının yanında
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,22 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 52
 ---
 
-Zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında ya da artmasında etkili olmuş yahut tazminat yükümlüsünün durumunu ağırlaştırmış ise hâkim, tazminatı indirebilir veya tamamen kaldırabilir. Zarara hafif kusuruyla sebep olan tazminat yükümlüsü, tazminatı ödediğinde yoksulluğa düşecek olur ve hakkaniyet de gerektirirse hâkim, tazminatı indirebilir. IV. Özel durumlar 1. Ölüm ve bedensel zarar a.
+**2. İndirilmesi**
+
+---
+
+Madde 52 - Zarar gören, zararı doğuran fiile razı olmuş veya zararın doğmasında ya
+da  artmasında  etkili  olmuş  yahut  tazminat  yükümlüsünün durumunu  ağırlaştırmış  ise
+hâkim, tazminatı indirebilir veya tamamen kaldırabilir.
+Zarara  hafif  kusuruyla  sebep  olan  tazminat  yükümlüsü,  tazminatı  ödediğinde
+yoksulluğa düşecek olur ve hakkaniyet de gerektirirse hâkim, tazminatı indirebilir.
+
+IV. Özel durumlar
+1. Ölüm ve bedensel zarar
+a. Ölüm
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

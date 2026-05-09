@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 180
 ---
 
-Alacaklı hiçbir zarara uğramamış olsa bile, kararlaştırılan cezanın ifası gerekir. Alacaklının uğradığı zarar kararlaştırılan ceza tutarını aşıyorsa alacaklı, borçlunun kusuru bulunduğunu ispat etmedikçe aşan miktarı isteyemez. 3.
+**2. Ceza ile zarar arasındaki ilişki**
+
+---
+
+Madde 180 - Alacaklı hiçbir zarara uğramamış olsa bile, kararlaştırılan cezanın ifası
+gerekir.
+Alacaklının  uğradığı  zarar  kararlaştırılan  ceza  tutarını  aşıyorsa  alacaklı,  borçlunun
+kusuru bulunduğunu ispat etmedikçe aşan miktarı isteyemez.
+
+3. Kısmi ifanın yanması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

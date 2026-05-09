@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 391
 ---
 
-Ödünç alana, sözleşmede kararlaştırılan para yerine, kıymetli evrak veya ticari mallar verilirse, borcun tutarı, bunların teslim zamanı ve yerindeki borsa ya da piyasa değeri üzerinden hesaplanır; aksine yapılan sözleşme geçersizdir. D.
+**C. Para yerine verilen şeyler**
+
+---
+
+Madde 391 - Ödünç alana, sözleşmede kararlaştırılan para yerine, kıymetli evrak
+veya ticari mallar verilirse, borcun tutarı, bunların teslim zamanı ve yerindeki borsa ya da
+piyasa değeri üzerinden hesaplanır; aksine yapılan sözleşme geçersizdir.
+
+D. Geri verme zamanı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

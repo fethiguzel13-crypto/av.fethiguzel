@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 10
 ---
 
-Geri alma açıklaması, diğer tarafa öneriden önce veya aynı anda ulaşmış ya da daha sonra ulaşmakla birlikte diğer tarafça öneriden önce öğrenilmiş olursa, öneri yapılmamış sayılır. Bu kural, kabulün geri alınmasında da uygulanır. III.
+**7. Önerinin ve kabulün geri alınması**
+
+---
+
+Madde 10 - Geri alma açıklaması, diğer tarafa öneriden önce veya aynı anda ulaşmış
+ya  da  daha  sonra  ulaşmakla  birlikte  diğer  tarafça  öneriden  önce  öğrenilmiş  olursa,  öneri
+yapılmamış sayılır.
+Bu kural, kabulün geri alınmasında da uygulanır.
+
+III. Hazır olmayanlar arasında kurulan sözleşmenin hüküm anı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

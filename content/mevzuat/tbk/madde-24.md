@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 24
 ---
 
-Genel işlem koşullarının bulunduğu bir sözleşmede veya ayrı bir sözleşmede yer alan ve düzenleyene tek yanlı olarak karşı taraf aleyhine genel işlem koşulları içeren sözleşmenin bir hükmünü değiştirme ya da yeni düzenleme getirme yetkisi veren kayıtlar yazılmamış sayılır. V.
+**IV. Değiştirme yasağı**
+
+---
+
+Madde 24 - Genel  işlem  koşullarının  bulunduğu  bir  sözleşmede  veya  ayrı  bir
+sözleşmede yer alan ve düzenleyene tek yanlı olarak karşı taraf aleyhine genel işlem koşulları
+içeren  sözleşmenin  bir  hükmünü  değiştirme  ya  da  yeni  düzenleme  getirme  yetkisi  veren
+kayıtlar yazılmamış sayılır.
+
+V. İçerik denetimi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

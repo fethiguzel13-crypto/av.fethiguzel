@@ -4,8 +4,21 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 69
 ---
 
-Bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki bozukluklardan veya bakımındaki eksikliklerden doğan zararı gidermekle yükümlüdür. İntifa ve oturma hakkı sahipleri de, binanın bakımındaki eksikliklerden doğan zararlardan, malikle birlikte müteselsilen sorumludurlar. Sorumluların, bu sebeplerle kendilerine karşı sorumlu olan diğer kişilere rücu hakkı saklıdır. b.
+**a. Giderim yükümlülüğü**
+
+---
+
+Madde 69 - Bir binanın veya diğer yapı eserlerinin maliki, bunların yapımındaki
+bozukluklardan veya bakımındaki eksikliklerden doğan zararı gidermekle yükümlüdür.
+İntifa  ve  oturma  hakkı  sahipleri  de,  binanın  bakımındaki  eksikliklerden  doğan
+zararlardan, malikle birlikte müteselsilen sorumludurlar.
+Sorumluların, bu sebeplerle kendilerine karşı sorumlu olan diğer kişilere rücu hakkı
+saklıdır.
+
+b. Zarar tehlikesini önleme
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

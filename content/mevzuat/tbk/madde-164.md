@@ -4,8 +4,21 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 164
 ---
 
-Müteselsil borçlulardan biri, alacaklıya karşı, ancak onunla kendi arasındaki kişisel ilişkilerden veya müteselsil borcun sebep ya da konusundan doğan def’i ve itirazları ileri sürebilir. Müteselsil borçlulardan biri ortak def’i ve itirazları ileri sürmezse, diğerlerine karşı sorumlu olur. c.
+**b. Borçluların savunmaları**
+
+---
+
+Madde 164 - Müteselsil  borçlulardan  biri,  alacaklıya  karşı,  ancak  onunla  kendi
+arasındaki kişisel ilişkilerden veya müteselsil borcun sebep ya da konusundan doğan def’i ve
+itirazları ileri sürebilir.
+
+Müteselsil borçlulardan biri ortak def’i ve itirazları ileri sürmezse, diğerlerine karşı
+sorumlu olur.
+
+c. Borçluların bireysel davranışı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

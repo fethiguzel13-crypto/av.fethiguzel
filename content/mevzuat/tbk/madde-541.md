@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 541
 ---
 
-Komisyoncunun, sattığı malın bedeli ve satın aldığı mal üzerinde hapis hakkı vardır. 4.
+**3. Hapis hakkı**
+
+---
+
+Madde 541 - Komisyoncunun, sattığı malın bedeli ve satın aldığı mal üzerinde hapis
+hakkı vardır.
+
+4. Malın açık artırmayla satılması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 23
 ---
 
-Genel işlem koşullarında yer alan bir hüküm, açık ve anlaşılır değilse veya birden çok anlama geliyorsa, düzenleyenin aleyhine ve karşı tarafın lehine yorumlanır. IV.
+**III. Yorumlanması**
+
+---
+
+Madde 23 - Genel işlem koşullarında yer alan bir hüküm, açık ve anlaşılır değilse
+veya birden çok anlama geliyorsa, düzenleyenin aleyhine ve karşı tarafın lehine yorumlanır.
+
+IV. Değiştirme yasağı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

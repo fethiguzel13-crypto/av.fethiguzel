@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 6
 ---
 
-Öneren, kanun veya işin özelliği ya da durumun gereği açık bir kabulü beklemek zorunda değilse, öneri uygun bir sürede reddedilmediği takdirde, sözleşme kurulmuş sayılır. 4.
+**3. Örtülü kabul**
+
+---
+
+Madde 6 - Öneren, kanun veya işin özelliği ya da durumun gereği açık bir kabulü
+beklemek zorunda değilse, öneri uygun bir sürede reddedilmediği takdirde, sözleşme kurulmuş
+sayılır.
+
+4. Ismarlanmayan şeyin gönderilmesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

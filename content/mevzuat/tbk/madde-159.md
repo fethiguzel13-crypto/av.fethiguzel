@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 159
 ---
 
-Alacağın bir taşınır rehniyle güvenceye bağlanmış olması, bu alacak için zamanaşımının işlemesine engel olmaz; bununla birlikte alacaklının, hakkını rehinden alma yetkisi devam eder. G.
+**F. Taşınır rehni ile güvenceye bağlanmış alacakta**
+
+---
+
+Madde 159 - Alacağın bir taşınır rehniyle güvenceye bağlanmış olması, bu alacak
+için zamanaşımının işlemesine engel olmaz; bununla birlikte alacaklının, hakkını rehinden
+alma yetkisi devam eder.
+
+G. Zamanaşımından feragat
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

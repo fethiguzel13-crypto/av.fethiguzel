@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 470
 ---
 
-Eser sözleşmesi, yüklenicinin bir eser meydana getirmeyi, işsahibinin de bunun karşılığında bir bedel ödemeyi üstlendiği sözleşmedir. B. Hükümleri I. Yüklenicinin borçları 1.
+**A. Tanımı**
+
+---
+
+Madde 470 - Eser sözleşmesi, yüklenicinin bir eser meydana getirmeyi, işsahibinin
+de bunun karşılığında bir bedel ödemeyi üstlendiği sözleşmedir.
+
+B. Hükümleri
+I. Yüklenicinin borçları
+1. Genel olarak
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 388
 ---
 
-Tüketim ödüncü sözleşmesinde faiz oranı belirlenmemişse, kural olarak ödünç alma zamanında ve yerinde o tür ödünçlerde geçerli olan faiz oranı uygulanır. Sözleşmede aksine bir hüküm yoksa, belirlenen faiz, yıllık olarak ödenir. Faizin anaparaya eklenerek birlikte yeniden faiz yürütülmesi kararlaştırılamaz. II.
+**2. Faize ilişkin özel kurallar**
+
+---
+
+Madde 388 - Tüketim  ödüncü  sözleşmesinde  faiz  oranı  belirlenmemişse,  kural
+olarak ödünç alma zamanında ve yerinde o tür ödünçlerde geçerli olan faiz oranı uygulanır.
+Sözleşmede aksine bir hüküm yoksa, belirlenen faiz, yıllık olarak ödenir.
+Faizin anaparaya eklenerek birlikte yeniden faiz yürütülmesi kararlaştırılamaz.
+
+II. Zamanaşımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

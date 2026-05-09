@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 75
 ---
 
-Bedensel zararın kapsamı, karar verme sırasında tam olarak belirlenemiyorsa hâkim, kararın kesinleşmesinden başlayarak iki yıl içinde, tazminat hükmünü değiştirme yetkisini saklı tutabilir. III.
+**II. Tazminat hükmünün değiştirilmesi**
+
+---
+
+Madde 75 - Bedensel  zararın  kapsamı, karar  verme  sırasında  tam  olarak
+belirlenemiyorsa  hâkim,  kararın  kesinleşmesinden  başlayarak  iki  yıl  içinde,  tazminat
+hükmünü değiştirme yetkisini saklı tutabilir.
+
+III. Geçici ödemeler
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

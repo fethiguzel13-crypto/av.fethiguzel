@@ -1,0 +1,18 @@
+---
+title: "TTK Madde 419"
+kanun: "Türk Ticaret Kanunu"
+maddeNo: 419
+---
+
+**Madde 419**
+
+---
+
+Madde 419 - (1)   Esas   sözleşmede   aksine   herhangi   bir   düzenleme   yoksa,   toplantı yı,  genel   kurul   tarafından   seçilen,   pay   sahibi   sıfatını   taşıması   şart   olmayan   bir   başkan   yönetir.  Başkan   tutanak   yazmanı   ile   gerek   görürse   oy   toplama   memurunu   belirleyerek   başkanlığı  oluşturur.   Gereğinde   başkan   yardımcısı   da   seçilebilir.  61   27/12/2020 tarihli ve 7262 sayılı 29 uncu maddesiyle, birinci fıkrada yer alan “Sermaye Piyasası  Kanununun 10/A” ibaresi “hamiline yazılı pay sahipleri ile Sermaye Piyasa sı Kanununun 13 üncü”  şeklinde değiştirilmiş, ikinci fıkrasında yer alan “, hamiline yazılı pay senedi sahipleri bakımından da  giriş kartı alanları” ibaresi madde metninden çıkarılmıştır.
+(2)   Anonim   şirket   yönetim   kurulu,   genel   kurulun   çalışma   esas   ve   usullerine   ilişkin  kuralları   içeren,   Gümrük   ve   Ticaret   Bakanlığı   tarafından,   asgari   unsurları   belirlenecek   olan   bir  iç   yönerge   hazırlar   ve   genel   kurulun   onayından   sonra   yürürlüğe   koyar.   Bu   iç   yönerge   tescil   ve  ilan   edilir.  IV   -   Toplantının   ertelenmesi
+
+---
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 385
 ---
 
-Kullanım ödüncü sözleşmesi, ödünç alanın ölmesiyle kendiliğinden sona erer. İKİNCİ AYIRIM Tüketim Ödüncü A.
+**III. Ödünç alanın ölümü**
+
+---
+
+Madde 385 - Kullanım ödüncü sözleşmesi, ödünç alanın ölmesiyle kendiliğinden
+sona erer.
+
+İKİNCİ AYIRIM
+Tüketim Ödüncü
+A. Tanımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

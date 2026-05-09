@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 299
 ---
 
-Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir. B.
+**A. Tanımı**
+
+---
+
+Madde 299 - Kira  sözleşmesi,  kiraya  verenin  bir  şeyin  kullanılmasını  veya
+kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık
+kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.
+
+B. Kira süresi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

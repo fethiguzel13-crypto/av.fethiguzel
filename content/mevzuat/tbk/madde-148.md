@@ -4,8 +4,16 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 148
 ---
 
-Bu ayırımda belirlenen zamanaşımı süreleri, sözleşmeyle değiştirilemez. IV. Zamanaşımının başlangıcı 1.
+**III. Sürelerin kesinliği**
+
+---
+
+Madde 148 - Bu ayırımda belirlenen zamanaşımı süreleri, sözleşmeyle değiştirilemez.
+IV. Zamanaşımının başlangıcı
+1. Genel olarak
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

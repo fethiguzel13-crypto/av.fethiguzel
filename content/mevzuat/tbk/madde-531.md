@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 531
 ---
 
-İşsahibi yapılan işi uygun bulmuşsa, vekâlet hükümleri uygulanır. ONBİRİNCİ BÖLÜM Komisyon Sözleşmesi A. Alım veya satım komisyonculuğu I.
+**III. İşin işsahibi tarafından uygun bulunması hâlinde**
+
+---
+
+Madde 531 - İşsahibi yapılan işi uygun bulmuşsa, vekâlet hükümleri uygulanır.
+ONBİRİNCİ BÖLÜM
+Komisyon Sözleşmesi
+A. Alım veya satım komisyonculuğu
+I. Tanımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

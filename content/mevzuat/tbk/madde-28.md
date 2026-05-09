@@ -4,8 +4,23 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 28
 ---
 
-Bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa, bu oransızlık, zarar görenin zor durumda kalmasından veya düşüncesizliğinden ya da deneyimsizliğinden yararlanılmak suretiyle gerçekleştirildiği takdirde, zarar gören, durumun özelliğine göre ya sözleşme ile bağlı olmadığını diğer tarafa bildirerek ediminin geri verilmesini ya da sözleşmeye bağlı kalarak edimler arasındaki oransızlığın giderilmesini isteyebilir. Zarar gören bu hakkını, düşüncesizlik veya deneyimsizliğini öğrendiği; zor durumda kalmada ise, bu durumun ortadan kalktığı tarihten başlayarak bir yıl ve her hâlde sözleşmenin kurulduğu tarihten başlayarak beş yıl içinde kullanabilir. IV.
+**III. Aşırı yararlanma**
+
+---
+
+Madde 28 - Bir sözleşmede karşılıklı edimler arasında açık bir oransızlık varsa, bu
+oransızlık,  zarar  görenin  zor  durumda  kalmasından  veya  düşüncesizliğinden  ya  da
+deneyimsizliğinden  yararlanılmak  suretiyle  gerçekleştirildiği takdirde, zarar  gören, durumun
+özelliğine göre ya sözleşme ile bağlı olmadığını diğer tarafa bildirerek ediminin geri verilmesini
+ya da sözleşmeye bağlı kalarak edimler arasındaki oransızlığın giderilmesini isteyebilir.
+Zarar gören bu hakkını, düşüncesizlik veya deneyimsizliğini öğrendiği; zor durumda
+kalmada ise, bu durumun ortadan kalktığı tarihten başlayarak bir yıl ve her hâlde sözleşmenin
+kurulduğu tarihten başlayarak beş yıl içinde kullanabilir.
+
+IV. Önsözleşme
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

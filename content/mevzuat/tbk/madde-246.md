@@ -4,8 +4,20 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 246
 ---
 
-Taşınır satışına ilişkin kurallar, kıyas yoluyla taşınmaz satışında da uygulanır. DÖRDÜNCÜ AYIRIM Bazı Satış Türleri A. Örnek üzerine satış I.
+**IV. Taşınır satışına ilişkin kuralların uygulanması**
+
+---
+
+Madde 246 - Taşınır satışına ilişkin kurallar, kıyas yoluyla taşınmaz satışında da
+uygulanır.
+
+DÖRDÜNCÜ AYIRIM
+Bazı Satış Türleri
+A. Örnek üzerine satış
+I. Tanımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

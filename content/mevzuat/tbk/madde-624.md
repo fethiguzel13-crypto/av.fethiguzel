@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 624
 ---
 
-Ortaklığın kararları, bütün ortakların oybirliğiyle alınır. Sözleşmede kararların oy çokluğuyla alınacağı belirtilmişse çoğunluk, ortak sayısına göre belirlenir. IV.
+**III. Ortaklığın kararları**
+
+---
+
+Madde 624 - Ortaklığın kararları, bütün ortakların oybirliğiyle alınır.
+Sözleşmede kararların oy çokluğuyla alınacağı belirtilmişse çoğunluk, ortak sayısına
+göre belirlenir.
+
+IV. Ortaklığın yönetimi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

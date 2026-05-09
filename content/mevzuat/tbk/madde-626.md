@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 626
 ---
 
-Ortaklar, kendilerinin veya üçüncü kişilerin menfaatine olarak, ortaklığın amacını engelleyici veya zarar verici işleri yapamazlar. 2.
+**1. Rekabet yasağı**
+
+---
+
+Madde 626 - Ortaklar, kendilerinin veya üçüncü kişilerin menfaatine olarak, ortaklığın
+amacını engelleyici veya zarar verici işleri yapamazlar.
+
+2. Ortakların yaptıkları giderler ve işler
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

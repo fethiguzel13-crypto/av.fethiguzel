@@ -4,8 +4,21 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 337
 ---
 
-Üçüncü kişilerin, kiraya verenin kiracıya ait olmadığını bildiği veya bilmesi gerektiği eşya ile çalınmış, kaybolmuş veya başka bir biçimde malikinin elinden iradesi dışında çıkmış eşya üzerindeki hakları, kiraya verenin hapis hakkından önce gelir. Kiraya veren, kiracı tarafından kiralanana getirilmiş olan taşınırların kiracının mülkiyetinde olmadığını kira sözleşmesi devam ederken öğrendiği hâlde, sözleşmeyi en yakın fesih döneminin sonu için feshetmezse, bu eşya üzerindeki hapis hakkını kaybeder. III.
+**II. Üçüncü kişilere ait olan eşya**
+
+---
+
+Madde 337 - Üçüncü kişilerin, kiraya verenin kiracıya ait olmadığını bildiği veya
+bilmesi  gerektiği  eşya  ile  çalınmış,  kaybolmuş  veya  başka  bir  biçimde  malikinin  elinden
+iradesi dışında çıkmış eşya üzerindeki hakları, kiraya verenin hapis hakkından önce gelir.
+Kiraya  veren,  kiracı  tarafından  kiralanana  getirilmiş  olan  taşınırların  kiracının
+mülkiyetinde olmadığını kira sözleşmesi devam ederken öğrendiği hâlde, sözleşmeyi en yakın
+fesih döneminin sonu için feshetmezse, bu eşya üzerindeki hapis hakkını kaybeder.
+
+III. Hakkın kullanılması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

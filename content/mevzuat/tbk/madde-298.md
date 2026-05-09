@@ -4,8 +4,22 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 298
 ---
 
-Aksi kararlaştırılmamışsa, dönemsel edimleri içeren bağışlama, bağışlayanın ölümüyle sona erer. DÖRDÜNCÜ BÖLÜM Kira Sözleşmesi BİRİNCİ AYIRIM Genel Hükümler A.
+**IV. Bağışlayanın ölümü**
+
+---
+
+Madde 298 - Aksi  kararlaştırılmamışsa,  dönemsel  edimleri  içeren  bağışlama,
+bağışlayanın ölümüyle sona erer.
+
+DÖRDÜNCÜ BÖLÜM
+Kira Sözleşmesi
+
+BİRİNCİ AYIRIM
+Genel Hükümler
+A. Tanımı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

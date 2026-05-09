@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 326
 ---
 
-Kiracı ve kiraya veren, kira sözleşmesinden doğan alacaklarını takas etme hakkından önceden feragat edemezler. F. Sözleşmenin sona ermesi I.
+**V. Takastan feragat yasağı**
+
+---
+
+Madde 326 - Kiracı ve kiraya veren, kira sözleşmesinden doğan alacaklarını takas
+etme hakkından önceden feragat edemezler.
+
+F. Sözleşmenin sona ermesi
+I. Sürenin geçmesi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

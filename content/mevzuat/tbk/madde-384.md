@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 384
 ---
 
-Ödünç konusu, kullanım süresi ve hangi amaçla kullanılacağı belirlenmeden verilmişse, ödünç veren onu dilediği zaman geri isteyebilir. III.
+**II. Amacı belirlenmemiş kullanmada**
+
+---
+
+Madde 384 - Ödünç  konusu,  kullanım  süresi  ve  hangi  amaçla  kullanılacağı
+belirlenmeden verilmişse, ödünç veren onu dilediği zaman geri isteyebilir.
+
+III. Ödünç alanın ölümü
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

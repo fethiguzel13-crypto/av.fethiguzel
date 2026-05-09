@@ -4,8 +4,18 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 308
 ---
 
-Kiraya veren, kusuru olmadığını ispat etmedikçe, kiralananın ayıplı olmasından doğan zararları kiracıya ödemekle yükümlüdür. V. Üçüncü kişinin ileri sürdüğü haklar sebebiyle sorumluluk 1.
+**d. Zararın giderimi**
+
+---
+
+Madde 308 - Kiraya veren, kusuru olmadığını ispat etmedikçe, kiralananın ayıplı
+olmasından doğan zararları kiracıya ödemekle yükümlüdür.
+
+V. Üçüncü kişinin ileri sürdüğü haklar sebebiyle sorumluluk
+1. Zapttan sorumluluk
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

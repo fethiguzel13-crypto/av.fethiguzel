@@ -4,8 +4,15 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 648
 ---
 
-Bu Kanun 1 Temmuz 2012 tarihinde yürürlüğe girer.
+**Yürürlük**
+
+---
+
+Madde 648 - Bu Kanun 1 Temmuz 2012 tarihinde yürürlüğe girer.
+Yürütme
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

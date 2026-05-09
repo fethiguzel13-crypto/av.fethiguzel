@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 184
 ---
 
-Alacağın devrinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır. Alacağın devri sözü verme, şekle bağlı değildir. II.
+**2. Şekli**
+
+---
+
+Madde 184 - Alacağın devrinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır.
+Alacağın devri sözü verme, şekle bağlı değildir.
+
+II. Yasal veya yargısal devir ve etkisi
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

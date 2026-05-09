@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 354
 ---
 
-Dava yoluyla kira sözleşmesinin sona erdirilmesine ilişkin hükümler, kiracı aleyhine değiştirilemez. 5.
+**2**
+
+---
+
+Madde 354 - Dava yoluyla kira sözleşmesinin sona erdirilmesine ilişkin hükümler,
+kiracı aleyhine değiştirilemez.
+
+5. Yeniden kiralama yasağı
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -4,8 +4,17 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 152
 ---
 
-Asıl alacak zamanaşımına uğrayınca, ona bağlı faiz ve diğer alacaklar da zamanaşımına uğramış olur. C.
+**B. Bağlı alacaklarda zamanaşımı**
+
+---
+
+Madde 152 - Asıl alacak zamanaşımına uğrayınca, ona bağlı faiz ve diğer alacaklar
+da zamanaşımına uğramış olur.
+
+C. Zamanaşımının durması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

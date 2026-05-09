@@ -4,8 +4,19 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 519
 ---
 
-Kredi emri veren ile kredi emrinden yararlanan arasındaki ilişkiye, kefil ile asıl borçlu arasındaki ilişkiyi düzenleyen hükümler uygulanır. ÜÇÜNCÜ AYIRIM Simsarlık Sözleşmesi A.
+**IV. Taraflar arasındaki ilişki**
+
+---
+
+Madde 519 - Kredi  emri  veren  ile  kredi  emrinden  yararlanan arasındaki ilişkiye,
+kefil ile asıl borçlu arasındaki ilişkiyi düzenleyen hükümler uygulanır.
+
+ÜÇÜNCÜ AYIRIM
+Simsarlık Sözleşmesi
+A. Tanımı ve şekli
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

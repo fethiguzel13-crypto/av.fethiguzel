@@ -4,8 +4,15 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 94
 ---
 
-Borç, alışılmış iş saatlerinde ifa ve kabul edilir. IV.
+**III. İş saatlerinde ifa**
+
+---
+
+Madde 94 - Borç, alışılmış iş saatlerinde ifa ve kabul edilir.
+IV. Sürenin uzatılması
+
+---
 
 ### Bizim Yorumumuz
 
-Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
