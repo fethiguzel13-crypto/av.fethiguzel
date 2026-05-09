@@ -4,11 +4,13 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 949
 ---
 
-**Madde 949**
+**3. Rehnin sırası Ma dde 948
+- Aynı taşınır üzerinde birden çok rehin hakkı bulunduğ u takdirde, alacaklılara rehin haklarının sırasına göre ödeme yapılır. Rehin hakkının sır ası kuruluş tarihine göre belirlenir.
+4. Mülkiyetin geçememesi**
 
 ---
 
-Madde 949 - Borcun   ödenmemesi   hâlinde   re hinli   taşınırın   mülkiyetinin   alacaklıya  geçmesini öngören sözl eşme hükmü geçersizdir.  B. Hapis hakkı  I. Koşulları
+Madde 949 - Borcun   ödenmemesi   hâlinde   re hinli   taşınırın   mülkiyetinin   alacaklıya  geçmesini öngören sözl eşme hükmü geçersizdir.
 
 ---
 

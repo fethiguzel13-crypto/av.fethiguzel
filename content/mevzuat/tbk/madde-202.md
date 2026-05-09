@@ -21,8 +21,6 @@ sonuçlarla özdeştir.
 Bildirme veya ilanla duyurma yükümlülüğü devralan tarafından yerine getirilmedikçe,
 ikinci fıkrada öngörülen iki yıllık süre işlemeye başlamaz.
 
-G. İşletmelerin birleşmesi ve şekil değiştirmesi
-
 ---
 
 ### Bizim Yorumumuz

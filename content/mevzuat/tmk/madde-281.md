@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 281
 ---
 
-**Madde 281**
+**4. Diğer paylaşma kuralları**
 
 ---
 

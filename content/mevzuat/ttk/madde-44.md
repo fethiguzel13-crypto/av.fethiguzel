@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 44
 ---
 
-**Madde 44**
+**c) Tacir sayılan diğer tüzel kişiler ve donatma iştiraki**
 
 ---
 
-Madde 44 - (1)   Ticari   işletmeye   sahip   olan   dernek,   vakıf   ve   diğer   tüzel   kişilerin  ticaret   unvanları,   adlarıdır.  (2)   Donatma   iştirakinin   ticaret   unvanı,   ortak   donatanlardan   en   a z   birinin   adı   ve  soyadını   veya   deniz   ticaretinde   kullanılan   geminin   adını   içerir.   Soyadları   ve   gemi   adı  kısaltılamaz.   Ticaret   unvanında   ayrıca   donatma   iştirakini   gösterecek   bir   ibare   de   bulunur.  d)   Ortak   hükümler
+Madde 44 - (1)   Ticari   işletmeye   sahip   olan   dernek,   vakıf   ve   diğer   tüzel   kişilerin  ticaret   unvanları,   adlarıdır.  (2)   Donatma   iştirakinin   ticaret   unvanı,   ortak   donatanlardan   en   a z   birinin   adı   ve  soyadını   veya   deniz   ticaretinde   kullanılan   geminin   adını   içerir.   Soyadları   ve   gemi   adı  kısaltılamaz.   Ticaret   unvanında   ayrıca   donatma   iştirakini   gösterecek   bir   ibare   de   bulunur.
 
 ---
 

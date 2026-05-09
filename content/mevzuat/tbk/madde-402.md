@@ -13,8 +13,6 @@ elli fazlasıyla ödemekle yükümlüdür.
 İşveren,  işçinin  rızasıyla  fazla  çalışma  ücreti  yerine,  uygun  bir  zamanda  fazla
 çalışmayla orantılı olarak izin verebilir.
 
-c. İşin sonucundan pay alma
-
 ---
 
 ### Bizim Yorumumuz

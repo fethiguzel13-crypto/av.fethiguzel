@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 802
 ---
 
-**Madde 802**
+**VI
+- Yabancı ülke parasıyla ödenecek çek**
 
 ---
 

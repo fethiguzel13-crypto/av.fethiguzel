@@ -19,8 +19,6 @@ kısmının ödenmemesi sebebiyle, bunun tahsili için dava veya icra takibi yol
 durumunda, bu amaçla yapılacak masrafların en çok yarısını karşılayacaklarını, yazılı olarak
 üstlenebilirler.
 
-III. Yetkileri
-
 ---
 
 ### Bizim Yorumumuz

@@ -14,9 +14,6 @@ olduğunu  gösteren  resmen  düzenlenmiş  veya  usulüne  göre  onaylanmış
 zorundadır.
 Kıymetli evrakın iptaline ilişkin hükümler saklıdır.
 
-E. Alacaklının temerrüdü
-I. Koşulları
-
 ---
 
 ### Bizim Yorumumuz

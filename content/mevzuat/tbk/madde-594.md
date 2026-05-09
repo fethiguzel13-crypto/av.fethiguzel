@@ -19,9 +19,6 @@ anda, durumu kefile bildirmesi gerekir.
 Alacaklı, yukarıdaki fıkralarda öngörülen gereklerden birini yerine getirmezse, bundan
 dolayı kefilin uğradığı zarar miktarınca ona karşı haklarını kaybeder.
 
-2. Kefil ile borçlu arasındaki ilişki
-a. Güvence verilmesini ve borçtan kurtarılmasını isteme hakkı
-
 ---
 
 ### Bizim Yorumumuz

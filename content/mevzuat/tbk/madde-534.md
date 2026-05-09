@@ -15,8 +15,6 @@ bilgilendirmekle yükümlüdür; aksi takdirde, her türlü ihmalinden doğan za
 Satılmak üzere gönderilen eşya kısa sürede bozulabilecek nitelikte ise komisyoncu,
 vekâlet vereni hemen bilgilendirmek koşuluyla eşyayı satmakla yükümlüdür.
 
-3. Vekâlet verenin belirlediği bedel
-
 ---
 
 ### Bizim Yorumumuz

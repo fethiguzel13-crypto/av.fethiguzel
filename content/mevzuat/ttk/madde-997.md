@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 997
 ---
 
-**Madde 997**
+**B) Sicile kayıtlı olmayan gemilere**
 
 ---
 

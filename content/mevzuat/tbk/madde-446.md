@@ -18,8 +18,6 @@ yazılı olarak açıkça saklı tutması koşuluyla, kendisinin ihlal veya tehd
 önemi ile işçinin davranışı haklı gösteriyorsa,  yasağa aykırı davranışa son verilmesini de
 isteyebilir.
 
-4. Sona ermesi
-
 ---
 
 ### Bizim Yorumumuz

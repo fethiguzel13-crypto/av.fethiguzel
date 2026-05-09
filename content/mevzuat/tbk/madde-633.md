@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 633
 ---
 
-**a. Genel olarak**
+**2. Ortaklıktan çıkma ve çıkarılma
+a. Genel olarak**
 
 ---
 
@@ -13,8 +14,6 @@ payının cebrî icra yoluyla paraya çevrilmesi veya ölmesi hâlinde, sözleş
 ortaklarla devam edeceğine ilişkin bir hüküm varsa, bu durumlardan biri gerçekleştiğinde, o
 ortak  veya  temsilcisi  ya  da  ölen  ortağın  mirasçısı  ortaklıktan  çıkabilir  veya  diğer  ortaklar
 tarafından yazılı olarak yapılacak bir bildirimle ortaklıktan çıkarılabilir.
-
-b. Ortaklık payının tasfiyesi
 
 ---
 

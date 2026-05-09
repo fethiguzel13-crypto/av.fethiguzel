@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 779
 ---
 
-**Madde 779**
+**D) Düzenleyenin sorumluluğu**
 
 ---
 

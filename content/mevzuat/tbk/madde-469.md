@@ -13,7 +13,6 @@ hüküm bulunmayan hâllerde, hizmet sözleşmesinin genel hükümleri uygulanı
 
 YEDİNCİ BÖLÜM
 Eser Sözleşmesi
-A. Tanımı
 
 ---
 

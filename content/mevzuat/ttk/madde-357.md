@@ -8,7 +8,7 @@ maddeNo: 357
 
 ---
 
-Madde 357 - (1)   Pay   sahipleri   eşit   şartlarda   eşit   işle me   tabi   tutulur.  II   -   Pay   sahiplerinin   şirkete   borçlanma   yasağı
+Madde 357 - (1)   Pay   sahipleri   eşit   şartlarda   eşit   işle me   tabi   tutulur.
 
 ---
 

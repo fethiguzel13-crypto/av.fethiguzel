@@ -16,8 +16,6 @@ tutarını içermiyorsa satıcı, özellikle üstlenmiş olmadıkça tazminat il
 Bir yapının ayıplı olmasından doğan davalar, mülkiyetin geçmesinden başlayarak beş
 yılın ve satıcının ağır kusuru varsa yirmi yılın geçmesiyle zamanaşımına uğrar.
 
-III. Yarar ve hasar
-
 ---
 
 ### Bizim Yorumumuz

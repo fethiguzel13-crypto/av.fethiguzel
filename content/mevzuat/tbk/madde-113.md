@@ -16,9 +16,6 @@ gidermekle yükümlüdür.
 Alacaklı, ayrıca borca aykırı durumun ortadan kaldırılmasını veya bu konuda masrafı
 borçluya ait olmak üzere kendisinin yetkili kılınmasını isteyebilir.
 
-II. Sorumluluğun ve giderim borcunun kapsamı
-1. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

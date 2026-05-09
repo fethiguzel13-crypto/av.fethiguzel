@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 657
 ---
 
-**Madde 657**
+**2. Özgülenme
+a. Özgülenmeye esas olan değer**
 
 ---
 
-Madde 657 - Taşınmazlar,   paylaşmanın   yapıldığı   zamandaki   gerçek   değerleri   esas  alınarak mi rasçılara özgülenir.  Tarımsal taşınmazlar gelir değerine, diğer taşınmazlar sürüm değerine   göre özgülenir.  b. Değeri n belirlenmesi
+Madde 657 - Taşınmazlar,   paylaşmanın   yapıldığı   zamandaki   gerçek   değerleri   esas  alınarak mi rasçılara özgülenir.  Tarımsal taşınmazlar gelir değerine, diğer taşınmazlar sürüm değerine   göre özgülenir.
 
 ---
 

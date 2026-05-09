@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 422
 ---
 
-**Madde 422**
+**VI
+- Tutanak**
 
 ---
 

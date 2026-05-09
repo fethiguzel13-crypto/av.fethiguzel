@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 171
 ---
 
-**Madde 171**
+**II. Ayrılık süresi**
 
 ---
 
-Madde 171 - Ayrılığa bir yıldan üç yıla kadar bir süre için karar verilebilir. Bu süre ayrılık  kararının kesi nleşm esiyl e işlemeye başlar.  III. Ayrılık süresinin bitimi
+Madde 171 - Ayrılığa bir yıldan üç yıla kadar bir süre için karar verilebilir. Bu süre ayrılık  kararının kesi nleşm esiyl e işlemeye başlar.
 
 ---
 

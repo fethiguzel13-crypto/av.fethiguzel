@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 169
 ---
 
-**Madde 169**
+**b) Kısmi bölünmede söz konusu malvarlığı, devreden şirkette kalır. (2) Birinci fıkra hükmü kıyas yoluyla alacaklara ve maddi olmayan malvarlığı haklarına da uygulanır. (3) Tam bölünmeye katılan şirketler, bölünme sözleşmesi veya bölün me planına göre herhangi bir şirkete tahsis edilmeyen borçlardan müteselsilen sorumludurlar.
+c) Bölünme raporu aa) İçerik**
 
 ---
 

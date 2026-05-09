@@ -16,9 +16,6 @@ geçmiş olmasıyla ortadan kalkmaz.
 Satıcı,  satılanı  ayıplı  olarak  devretmekte  ağır  kusurlu  ise,  iki  yıllık  zamanaşımı
 süresinden yararlanamaz.
 
-C. Alıcının borçları
-I. Satış bedelinin ödenmesi ve satılanın devralınması
-
 ---
 
 ### Bizim Yorumumuz

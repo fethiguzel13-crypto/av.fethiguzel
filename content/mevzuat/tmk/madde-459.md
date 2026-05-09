@@ -4,7 +4,8 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 459
 ---
 
-**Madde 459**
+**B. Kayyı mlığın kapsamı
+I. Belli bir iş**
 
 ---
 

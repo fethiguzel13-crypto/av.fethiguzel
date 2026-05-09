@@ -11,8 +11,6 @@ maddeNo: 302
 Madde 302 - Kiralananla ilgili zorunlu sigorta, vergi ve benzeri yükümlülüklere, aksi
 kararlaştırılmamış veya kanunda öngörülmemiş ise, kiraya veren katlanır.
 
-III. Yan giderlere katlanma borcu
-
 ---
 
 ### Bizim Yorumumuz

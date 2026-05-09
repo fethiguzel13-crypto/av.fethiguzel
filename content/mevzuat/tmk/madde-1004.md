@@ -8,7 +8,7 @@ maddeNo: 1004
 
 ---
 
-Madde 1004 - Taşınmazlar, bulundukları   bölgenin tapu siciline kaydedilir.  2. Birden çok bölgede
+Madde 1004 - Taşınmazlar, bulundukları   bölgenin tapu siciline kaydedilir.
 
 ---
 

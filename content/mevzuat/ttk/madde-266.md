@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 266
 ---
 
-**Madde 266**
+**g) Zamanaşımının kesilmesi**
 
 ---
 

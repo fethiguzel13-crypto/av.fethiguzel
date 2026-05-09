@@ -13,8 +13,6 @@ için  sözleşmeyle  bir  süre  belirlenmişse,  onun  yarar  ve  hasarı,  al
 hüküm, alıcının satılanı teslim almada temerrüde düşmesi durumunda da uygulanır.
 Bu sözleşmenin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır.
 
-IV. Taşınır satışına ilişkin kuralların uygulanması
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 539
 ---
 
-**a. İsteme hakkı**
+**2. Komisyon ücreti
+a. İsteme hakkı**
 
 ---
 
@@ -13,8 +14,6 @@ isteyebileceği gibi, işin yapılmaması vekâlet verene yükletilebilen bir se
 hâlinde de isteyebilir.
 Komisyoncu, başka sebeplerle işin yapılamaması durumunda, ancak emeğinin yerel
 âdete göre belirlenecek karşılığını isteyebilir.
-
-b. Kaybedilmesi
 
 ---
 

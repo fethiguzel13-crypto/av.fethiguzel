@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1483
 ---
 
-**Madde 1483**
+**II
+- Zorunlu sorumluluk si gortaları
+1. Sözleşme yapma zorunluluğu**
 
 ---
 
-Madde 1483 - (1)   Sigortacılar,   diğer   kanunlardaki   hükümler   saklı   kalmak   üzere,  faaliyet   gösterdikleri   dalların   kapsamında   bulunan   zorunlu   sigortaları   yapmaktan   kaçınamazlar.  2.   Zarar   görenle   ilişkide   ifa   yükümlülüğü
+Madde 1483 - (1)   Sigortacılar,   diğer   kanunlardaki   hükümler   saklı   kalmak   üzere,  faaliyet   gösterdikleri   dalların   kapsamında   bulunan   zorunlu   sigortaları   yapmaktan   kaçınamazlar.
 
 ---
 

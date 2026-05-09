@@ -8,7 +8,7 @@ maddeNo: 852
 
 ---
 
-Madde 852 - Sınırlayıcı hükümler saklı kalmak kaydıyla, taraflar faiz oranını diledikleri  gibi kararlaştırabil irler.  III. Taşınmaz  1. Rehne konu olabilme
+Madde 852 - Sınırlayıcı hükümler saklı kalmak kaydıyla, taraflar faiz oranını diledikleri  gibi kararlaştırabil irler.
 
 ---
 

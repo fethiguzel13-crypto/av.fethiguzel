@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1058
 ---
 
-**Madde 1058**
+**5. Uygulanacak h ükümler**
 
 ---
 

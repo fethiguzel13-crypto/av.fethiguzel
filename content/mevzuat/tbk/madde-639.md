@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 639
 ---
 
-**1. Genel olarak**
+**D. Ortaklığın sona ermesi
+I. Sona erme sebepleri
+1. Genel olarak**
 
 ---
 
@@ -23,8 +25,6 @@ süre için ya da ortaklardan birinin ömrü boyunca kurulmuşsa, bir ortağın 
 bulunmasıyla.
 7. Haklı sebeplerin bulunması hâlinde, her zaman başkaca koşul aranmaksızın, fesih
 istemi üzerine mahkeme kararıyla.
-
-2. Belirsiz süreli ortaklık
 
 ---
 

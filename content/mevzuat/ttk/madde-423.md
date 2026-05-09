@@ -8,7 +8,7 @@ maddeNo: 423
 
 ---
 
-Madde 423 - (1)   Genel   kurul   tarafından   verilen   kararlar   toplantıda   hazır   bulunmayan  veya   olumsuz   oy   veren   pay   sahipleri   hakkında   da   geçerlidir.  VIII   -   Bilançonun   onaylanmasına   ilişkin   karar
+Madde 423 - (1)   Genel   kurul   tarafından   verilen   kararlar   toplantıda   hazır   bulunmayan  veya   olumsuz   oy   veren   pay   sahipleri   hakkında   da   geçerlidir.
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 366
 ---
 
-**Madde 366**
+**C. Korunmaya muhtaç kişiler**
 
 ---
 

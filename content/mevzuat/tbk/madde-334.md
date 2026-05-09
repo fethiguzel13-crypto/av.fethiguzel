@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 334
 ---
 
-**I. Genel olarak**
+**G. Kiralananın geri verilmesi
+I. Genel olarak**
 
 ---
 
@@ -14,8 +15,6 @@ dolayısıyla kiralananda meydana gelen eskimelerden ve bozulmalardan sorumlu de
 Kiracının, sözleşmenin sona ermesi hâlinde, sözleşmeye aykırı kullanmadan doğacak
 zararları giderme dışında, başkaca bir tazminat ödeyeceğini önceden taahhüt etmesine ilişkin
 anlaşmalar geçersizdir.
-
-II. Kiralananın gözden geçirilmesi ve kiracıya bildirme
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 505
 ---
 
-**1. Talimata uygun ifa**
+**II. Vekilin borçları
+1. Talimata uygun ifa**
 
 ---
 
@@ -13,9 +14,6 @@ vekâlet verenden izin alma imkânı bulunmadığında, durumu bilseydi onun da 
 açık olan hâllerde, vekil talimattan ayrılabilir.
 Bunun dışındaki durumlarda vekil, talimattan ayrılırsa, bundan doğan zararı karşılamadıkça
 işi görmüş olsa bile, vekâlet borcunu ifa etmiş olmaz.
-
-2. Şahsen ifa, sadakat ve özen gösterme
-a. Genel olarak
 
 ---
 

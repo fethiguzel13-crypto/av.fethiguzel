@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 212
 ---
 
-**a. Kural ve ayrık durum**
+**3. Satıcının temerrüdü
+a. Kural ve ayrık durum**
 
 ---
 
@@ -16,8 +17,6 @@ giderilmesini istediği kabul edilir.
 
 Alıcı, satılanın devredilmesini isteme niyetinde ise, belirlenen sürenin bitiminde bunu
 satıcıya hemen bildirmek zorundadır.
-
-b. Giderim borcu ve kapsamı
 
 ---
 

@@ -8,7 +8,7 @@ maddeNo: 486
 
 ---
 
-Madde 486 - Gecikmesinde tehlike bulunan h âllerde vesayet makamı, vas iye geçici olarak  işten   el   çektirip   bi r   kayy ım   atayabileceği   gibi;   gerekirse   muhtemel   zararı   göz   önünde  bulundurarak vasinin mallarına ihtiyati haci z koyabilir ve tutuklanmasını da isteyebilir.  4. Diğer önlemler
+Madde 486 - Gecikmesinde tehlike bulunan h âllerde vesayet makamı, vas iye geçici olarak  işten   el   çektirip   bi r   kayy ım   atayabileceği   gibi;   gerekirse   muhtemel   zararı   göz   önünde  bulundurarak vasinin mallarına ihtiyati haci z koyabilir ve tutuklanmasını da isteyebilir.
 
 ---
 

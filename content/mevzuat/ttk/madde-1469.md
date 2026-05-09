@@ -4,12 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1469
 ---
 
-**Madde 1469**
+**e) Sigortacının sigortalanan menfaati inceleyebilmesi**
 
 ---
 
 Madde 1469 - (1)   Sigortacı,   sigorta   süresi   içinde   sigortalı   menfaatin   değerini  inceleyebilir.
-IV   -   Sigorta   edilen   menfaatin   sahibinin   değişmesi
 
 ---
 

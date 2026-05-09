@@ -19,8 +19,6 @@ Borç İlişkisinin Hükümleri
 
 BİRİNCİ AYIRIM
 Borçların İfası
-A. Genel olarak
-I. Şahsen ifa zorunluluğunun olmaması
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 189
 ---
 
-**Madde 189**
+**II. Sorumluluk**
 
 ---
 
-Madde 189 - Birliği temsi l yet kisinin kullanıldığı hâllerde, eşler üçüncü kişilere karşı  müteselsilen sorumlu olurlar.  Eşlerden her biri,   birliği temsil yetk isi bulunmaksızın yaptığı işlemlerden kişisel olarak  sorumludur. Ancak, temsil yetkisinin üçüncü kişilerce anlaşılamayacak ş ekild e aşılması hâlinde  eşler müteselsilen sorumludurlar.  III. Temsil yetkisinin kaldırılması veya sınırlanması
+Madde 189 - Birliği temsi l yet kisinin kullanıldığı hâllerde, eşler üçüncü kişilere karşı  müteselsilen sorumlu olurlar.  Eşlerden her biri,   birliği temsil yetk isi bulunmaksızın yaptığı işlemlerden kişisel olarak  sorumludur. Ancak, temsil yetkisinin üçüncü kişilerce anlaşılamayacak ş ekild e aşılması hâlinde  eşler müteselsilen sorumludurlar.
 
 ---
 

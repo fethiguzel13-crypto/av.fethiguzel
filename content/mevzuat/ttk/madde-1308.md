@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1308
 ---
 
-**Madde 1308**
+**e) Ücretin paylaştırılması aa) Tek ücret**
 
 ---
 

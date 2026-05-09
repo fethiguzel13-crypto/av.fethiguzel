@@ -14,8 +14,6 @@ yapmaya yetkili sayılır.
 Ticari temsilci, açıkça yetkili kılınmadıkça, taşınmazları devredemez  veya  bir  hak  ile
 sınırlandıramaz.
 
-III. Temsil yetkisinin sınırlandırılması
-
 ---
 
 ### Bizim Yorumumuz

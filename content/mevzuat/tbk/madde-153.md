@@ -22,9 +22,6 @@ etkili olarak ortadan kalkması durumunda, bu durumun ortaya çıkmasına kadar 
 Zamanaşımını  durduran  sebeplerin  ortadan  kalktığı  günün  bitiminde  zamanaşımı
 işlemeye başlar veya durmadan önce başlamış olan işlemesini sürdürür.
 
-D. Zamanaşımının kesilmesi
-I. Sebepleri
-
 ---
 
 ### Bizim Yorumumuz

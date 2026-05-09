@@ -13,8 +13,6 @@ sözleşmede yer alan ve düzenleyene tek yanlı olarak karşı taraf aleyhine g
 içeren  sözleşmenin  bir  hükmünü  değiştirme  ya  da  yeni  düzenleme  getirme  yetkisi  veren
 kayıtlar yazılmamış sayılır.
 
-V. İçerik denetimi
-
 ---
 
 ### Bizim Yorumumuz

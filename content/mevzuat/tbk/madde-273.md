@@ -16,9 +16,6 @@ Satılanı  devir  süresi  bir  yıldan  daha  uzun  veya  belirsiz  olan  taks
 satılanın devrinden önce ödemeleri yapmakla yükümlü ise, ön ödemeli taksitle satışa ilişkin
 hükümler kıyas yoluyla uygulanır.
 
-D. Açık artırma yoluyla satış
-I. Tanımı
-
 ---
 
 ### Bizim Yorumumuz

@@ -8,7 +8,7 @@ maddeNo: 850
 
 ---
 
-Madde 850 - Taş ınmaz rehni, ancak ipotek, ipotekli borç senedi veya irat senedi şeklinde  kurulabilir.  II . Güvence altına alınan alacak  1. Ana para
+Madde 850 - Taş ınmaz rehni, ancak ipotek, ipotekli borç senedi veya irat senedi şeklinde  kurulabilir.
 
 ---
 

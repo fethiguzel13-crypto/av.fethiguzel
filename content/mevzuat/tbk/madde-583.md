@@ -19,8 +19,6 @@ uyarak kefilin sorumluluğunu borcun belirli bir miktarıyla sınırlandırmayı
 Kefalet sözleşmesinde sonradan yapılan ve kefilin sorumluluğunu artıran değişiklikler,
 kefalet için öngörülen şekle uyulmadıkça hüküm doğurmaz.
 
-III. Eşin rızası
-
 ---
 
 ### Bizim Yorumumuz

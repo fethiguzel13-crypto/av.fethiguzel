@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1041
 ---
 
-**Madde 1041**
+**b) İpoteğin değiştirilmesi aa) İpoteğin içeriğinin değiştirilmesi**
 
 ---
 

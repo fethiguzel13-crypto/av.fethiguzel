@@ -30,9 +30,6 @@ Ancak, işçinin kasten sebebiyet verdiği yargı kararıyla sabit bir zarardan 
 ücretin haczedilebilir kısmı kadar takas edilebilir.
 Ücretin işveren lehine kullanılacağına ilişkin anlaşmalar geçersizdir.
 
-3. İşgörme ediminin ifasının engellenmesi hâlinde ücret
-a. İşverenin temerrüdü hâlinde
-
 ---
 
 ### Bizim Yorumumuz

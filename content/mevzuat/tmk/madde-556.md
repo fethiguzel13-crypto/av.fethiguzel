@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 556
 ---
 
-**Madde 556**
+**E. Sorumluluğu**
 
 ---
 

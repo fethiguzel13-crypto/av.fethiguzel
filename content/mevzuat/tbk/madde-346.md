@@ -13,10 +13,6 @@ yükümlülüğü  getirilemez.  Özellikle,  kira  bedelinin  zamanında  öden
 koşulu  ödeneceğine  veya sonraki  kira  bedellerinin  muaccel  olacağına  ilişkin  anlaşmalar
 geçersizdir.
 
-F. Konut ve çatılı işyeri kiralarında sözleşmenin sona ermesi
-I. Bildirim yoluyla
-1. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

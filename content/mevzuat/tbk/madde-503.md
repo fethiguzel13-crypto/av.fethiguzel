@@ -13,9 +13,6 @@ resmî  sıfata  sahipse  veya  işin  yapılması  mesleğinin  gereği  ise  y
 edeceğini duyurmuşsa, bu öneri onun tarafından hemen reddedilmedikçe, vekâlet sözleşmesi
 kurulmuş sayılır.
 
-C. Hükümleri
-I. Vekâletin kapsamı
-
 ---
 
 ### Bizim Yorumumuz

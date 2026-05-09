@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1400
 ---
 
-**Madde 1400**
+**III
+- İlamsız icra**
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 74
 ---
 
-**I. Ceza hukuku ile ilişkisinde**
+**D. Yargılama
+I. Ceza hukuku ile ilişkisinde**
 
 ---
 
@@ -14,8 +15,6 @@ hükümleriyle bağlı olmadığı gibi, ceza hâkimi tarafından verilen beraat
 değildir.
 Aynı şekilde, ceza hâkiminin kusurun değerlendirilmesine ve zararın belirlenmesine
 ilişkin kararı da, hukuk hâkimini bağlamaz.
-
-II. Tazminat hükmünün değiştirilmesi
 
 ---
 

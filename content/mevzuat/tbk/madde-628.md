@@ -14,8 +14,6 @@ Her ortak, diğerlerine karşı, kendi kusuruyla verdiği zararları, başka iş
 sağladığı menfaatlerle mahsup ettirme hakkı olmaksızın gidermekle yükümlüdür.
 Ortaklık işlerini ücret karşılığı yürüten ortak, vekâlet hükümlerine göre sorumlu olur.
 
-VI. Yönetim yetkisinin kaldırılması ve sınırlanması
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 621
 ---
 
-**I. Katılım payı**
+**B. Ortaklar arasındaki ilişki
+I. Katılım payı**
 
 ---
 
@@ -15,9 +16,6 @@ Sözleşmede aksi kararlaştırılmamışsa katılım payları, ortaklığın am
 Bir ortağın katılım payı, bir şeyin kullandırılmasından oluşuyorsa kira sözleşmesindeki;
 bir şeyin mülkiyetinden oluşuyorsa satış sözleşmesindeki hasara, ayıptan ve zapttan sorumluluğa
 ilişkin hükümler kıyas yoluyla uygulanır.
-
-II. Kazanç ve zarar
-1. Kazancın paylaşılması
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1435
 ---
 
-**Madde 1435**
+**b) Beyan yükümlülüğü aa) Sözleşmenin yapılmasında aaa) Genel olarak**
 
 ---
 

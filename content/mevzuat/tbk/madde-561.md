@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 561
 ---
 
-**I. Tanımı**
+**A. Genel saklama sözleşmesi
+I. Tanımı**
 
 ---
 
@@ -12,8 +13,6 @@ Madde 561 - Saklama  sözleşmesi,  saklayanın,  saklatanın  kendisine  bırak
 taşınırı güvenli bir yerde koruma altına almayı üstlendiği sözleşmedir.
 Açıkça  öngörüldüğü  veya  durum  ve  koşullar  gerektirdiği  takdirde,  saklayan  ücret
 isteyebilir.
-
-II. Saklatanın borçları
 
 ---
 

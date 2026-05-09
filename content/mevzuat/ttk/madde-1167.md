@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1167
 ---
 
-**Madde 1167**
+**II
+- Bo şaltma giderleri**
 
 ---
 
-Madde 1167 - (1)   Sözleşme,   boşaltma   limanı   düzenlemeleri   ve   bunlar   yoksa   yerel  teamül   ile   aksi   öngörülmüş   olmadıkça,   eşyanın   gemiden   çıkartılması   gideri   taşıyana,   geri  kalan   boşaltma   giderleri   ise   gönderilene   aittir.  III -   Süreler  1.   Hazırl ık   bildirimi
+Madde 1167 - (1)   Sözleşme,   boşaltma   limanı   düzenlemeleri   ve   bunlar   yoksa   yerel  teamül   ile   aksi   öngörülmüş   olmadıkça,   eşyanın   gemiden   çıkartılması   gideri   taşıyana,   geri  kalan   boşaltma   giderleri   ise   gönderilene   aittir.
 
 ---
 

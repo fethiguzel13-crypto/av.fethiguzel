@@ -23,9 +23,6 @@ kiracının yerine geçer ve devreden kiracı, kiraya verene karşı borçların
 İşyeri kiralarında devreden kiracı, kira sözleşmesinin bitimine kadar ve en fazla iki yıl
 süreyle devralanla birlikte müteselsilen sorumlu olur.
 
-IV. Kiralananın kullanılmaması
-1. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

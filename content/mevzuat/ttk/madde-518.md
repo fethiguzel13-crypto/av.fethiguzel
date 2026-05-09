@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 518
 ---
 
-**Madde 518**
+**II
+– Yönetim kurulunun yıllık faaliyet raporu**
 
 ---
 
-Madde 518 - (1)   Topluluğa   ilişkin   yıllık   faaliyet   raporu   ana   şirketin   yön etim   kurulu  tarafından   516   ncı   maddeye   göre   düzenlenir.  C)   Yedek   akçeler  I   -   Kanuni   yedek   akçe  1.   Genel   kanuni   yedek   akçe
+Madde 518 - (1)   Topluluğa   ilişkin   yıllık   faaliyet   raporu   ana   şirketin   yön etim   kurulu  tarafından   516   ncı   maddeye   göre   düzenlenir.
 
 ---
 

@@ -8,7 +8,7 @@ maddeNo: 396
 
 ---
 
-Madde 396 - Vesayet organları, vesayet daireleri   ile vasi ve kayyımlardır.  B. Vesayet daireleri  I. Kamu vesayeti
+Madde 396 - Vesayet organları, vesayet daireleri   ile vasi ve kayyımlardır.
 
 ---
 

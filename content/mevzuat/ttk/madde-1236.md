@@ -8,7 +8,7 @@ maddeNo: 1236
 
 ---
 
-Madde 1236 - (1)   Eşya,   ancak   konişmento   nüshasının,   eşyanın   teslim   a lındığına  ilişkin   şerh   düşülerek   geri   verilmesi   karşılığında   teslim   edilir.  2.   İspat   işlevi  a)   Hukuki   ilişkiyi   ispat
+Madde 1236 - (1)   Eşya,   ancak   konişmento   nüshasının,   eşyanın   teslim   a lındığına  ilişkin   şerh   düşülerek   geri   verilmesi   karşılığında   teslim   edilir.
 
 ---
 

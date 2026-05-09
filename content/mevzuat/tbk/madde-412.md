@@ -14,8 +14,6 @@ bildirmekle yükümlüdür.
 Bu bildirimi yapmayan işveren, aynı veya benzer bir iş için belirlenmiş olan birim
 ücretini ödemekle yükümlüdür.
 
-II. İş araç ve malzemeleri
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 156
 ---
 
-**Madde 156**
+**D. Butlan kararı
+I. Gene l olarak**
 
 ---
 
-Madde 156 - Batıl bir evlilik ancak hâkimin kararıyla sona erer. Mutlak butlan hâlinde  bile evlenme, hâkimin kararına kadar geçerli bir evliliğin bü tün sonuçlarını doğurur.  II. Sonuçları  1. Çocuklar yönünden
+Madde 156 - Batıl bir evlilik ancak hâkimin kararıyla sona erer. Mutlak butlan hâlinde  bile evlenme, hâkimin kararına kadar geçerli bir evliliğin bü tün sonuçlarını doğurur.
 
 ---
 

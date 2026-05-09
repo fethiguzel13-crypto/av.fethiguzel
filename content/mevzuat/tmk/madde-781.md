@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 781
 ---
 
-**Madde 781**
+**2. Sözleşme**
 
 ---
 
-Madde 781 - İrtifak hakkının kurulmasına ilişkin sözleşmenin geçerli olm ası, resmî  şekilde düzenlenmesine bağlıdır.  3. Kendi taşınmaz ı üzerinde irtifak hakkı
+Madde 781 - İrtifak hakkının kurulmasına ilişkin sözleşmenin geçerli olm ası, resmî  şekilde düzenlenmesine bağlıdır.
 
 ---
 

@@ -14,8 +14,6 @@ artırmadan hemen sonra yapılması gerekir.
 geçersizdir. Ancak, bu kural cebrî artırmalarda ve ihalenin bir kamu görevlisince onaylanması
 gerektiği durumlarda uygulanmaz.
 
-2. Ödemenin peşin olması gereği
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 347
 ---
 
-**1. Genel olarak**
+**F. Konut ve çatılı işyeri kiralarında sözleşmenin sona ermesi
+I. Bildirim yoluyla
+1. Genel olarak**
 
 ---
 
@@ -19,9 +21,6 @@ başlangıcından on yıl geçtikten sonra, genel hükümlere göre fesih bildir
 sona erdirebilirler.
 Genel hükümlere göre fesih hakkının kullanılabileceği durumlarda, kiraya veren veya
 kiracı sözleşmeyi sona erdirebilir.
-
-2. Bildirimin geçerliliği
-a. Şekil
 
 ---
 

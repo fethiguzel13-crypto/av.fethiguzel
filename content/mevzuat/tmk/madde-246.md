@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 246
 ---
 
-**Madde 246**
+**B. Bor çlardan sorumluluk**
 
 ---
 
-Madde 246 - Eşlerden her biri, kendi borçlarından bütün malvarlığıyla sorumludur.  C. Mal rejiminin sona ermesi ve tasfiye  I. So na erme anı
+Madde 246 - Eşlerden her biri, kendi borçlarından bütün malvarlığıyla sorumludur.
 
 ---
 

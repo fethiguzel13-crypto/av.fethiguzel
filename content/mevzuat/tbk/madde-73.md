@@ -15,9 +15,6 @@ Tazminatın  ödenmesi  kendisinden  istenilen  kişi,  durumu  birlikte  soruml
 kişilere bildirmek zorundadır. Aksi takdirde zamanaşımı, bu bildirimin dürüstlük kurallarına
 göre yapılabileceği tarihte işlemeye başlar.
 
-D. Yargılama
-I. Ceza hukuku ile ilişkisinde
-
 ---
 
 ### Bizim Yorumumuz

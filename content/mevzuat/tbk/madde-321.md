@@ -15,8 +15,6 @@ olmadıkça, kiralananın eski durumuyla geri verilmesini isteyemez.
 Kiracı, aksine  yazılı bir anlaşma  yoksa, kiraya verenin rızasıyla  yaptığı yenilik ve
 değişiklikler sebebiyle kiralananda ortaya çıkan değer artışının karşılığını isteyemez.
 
-II. Alt kira ve kullanım hakkının devri
-
 ---
 
 ### Bizim Yorumumuz

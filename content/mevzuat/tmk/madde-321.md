@@ -8,7 +8,7 @@ maddeNo: 321
 
 ---
 
-Madde 321 - Çocuk, an a ve baba evli   ise ailenin; (…) 24   soyadını   taşır. A ncak, ana önceki  evliliğinden   dolay ı çifte soyadı taşıyorsa çocu k onun bekârlık soyadını taşır.  B. Karşılıklı yükümlülükler
+Madde 321 - Çocuk, an a ve baba evli   ise ailenin; (…) 24   soyadını   taşır. A ncak, ana önceki  evliliğinden   dolay ı çifte soyadı taşıyorsa çocu k onun bekârlık soyadını taşır.
 
 ---
 

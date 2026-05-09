@@ -13,8 +13,6 @@ süresi koyabilirler. Deneme süresi konulmuşsa taraflar, bu süre içinde fesi
 zorunda olmaksızın, hizmet sözleşmesini tazminatsız feshedebilirler.
 İşçinin çalıştığı günler için ücret ve diğer hakları saklıdır.
 
-III. Feshe karşı koruma
-
 ---
 
 ### Bizim Yorumumuz

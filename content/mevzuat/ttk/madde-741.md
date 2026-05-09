@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 741
 ---
 
-**Madde 741**
+**4. Makbuz**
 
 ---
 

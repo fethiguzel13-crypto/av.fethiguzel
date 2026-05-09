@@ -8,7 +8,7 @@ maddeNo: 244
 
 ---
 
-Madde 244 - Eşlerden her biri, yasal sınırlar içerisinde kendi malvarlığı üzerinde yönetim,  yarar lanma ve tasarruf haklarını korur.  II. İspat
+Madde 244 - Eşlerden her biri, yasal sınırlar içerisinde kendi malvarlığı üzerinde yönetim,  yarar lanma ve tasarruf haklarını korur.
 
 ---
 

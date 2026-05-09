@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 305
 ---
 
-**a. Genel olarak**
+**2. Kiralananın sonradan ayıplı hâle gelmesinden sorumluluk
+a. Genel olarak**
 
 ---
 
@@ -13,8 +14,6 @@ ayıpların  giderilmesini  veya  kira  bedelinden  ayıpla  orantılı  bir  in
 zararının giderilmesini isteyebilir. Ancak, zararın giderilmesi istemi diğer seçimlik hakların
 kullanılmasını önlemez.
 Önemli ayıp durumunda kiracının sözleşmeyi fesih hakkı saklıdır.
-
-b. Ayıbın giderilmesini isteme ve fesih
 
 ---
 

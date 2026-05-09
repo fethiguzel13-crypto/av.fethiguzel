@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1062
 ---
 
-**Madde 1062**
+**II
+- Gemi adamlarının k usurlarından doğan sorumluluğu**
 
 ---
 
-Madde 1062 - (1)   Donatan,   gemi   adamlarının,   zorunlu   danışman   kılavuzun   veya  isteğe   bağlı   kılavuzun   görevlerini   yerine   getirirken   işledikleri   kusur   sonucunda   üçüncü  kişilere   verdiği   zararlardan   sorumludur.   Ancak,   donatan,   yolcu lara   ve   yükle   ilgili   kişilere  karşı,   taşıyanın   gemi   adamlarının   kusurundan   doğan   sorumluluğuna   ilişkin   hükümlere   göre  sorumlu   olur.  (2)   Donatanın,   Türkiye   Cumhuriyetinin   taraf   olduğu   sorumluluğun   sınırlandırılmasına  ilişkin   milletlerarası   sözleşmelerden   do ğan   sorumluluğunu   sınırlandırma   hakkı   saklıdır.  III -   Yetkili   mahkeme
+Madde 1062 - (1)   Donatan,   gemi   adamlarının,   zorunlu   danışman   kılavuzun   veya  isteğe   bağlı   kılavuzun   görevlerini   yerine   getirirken   işledikleri   kusur   sonucunda   üçüncü  kişilere   verdiği   zararlardan   sorumludur.   Ancak,   donatan,   yolcu lara   ve   yükle   ilgili   kişilere  karşı,   taşıyanın   gemi   adamlarının   kusurundan   doğan   sorumluluğuna   ilişkin   hükümlere   göre  sorumlu   olur.  (2)   Donatanın,   Türkiye   Cumhuriyetinin   taraf   olduğu   sorumluluğun   sınırlandırılmasına  ilişkin   milletlerarası   sözleşmelerden   do ğan   sorumluluğunu   sınırlandırma   hakkı   saklıdır.
 
 ---
 

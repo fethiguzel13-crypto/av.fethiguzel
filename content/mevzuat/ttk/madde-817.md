@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 817
 ---
 
-**Madde 817**
+**II
+- Sürelerin hesabı**
 
 ---
 
-Madde 817 - (1)   Kanunun   bu   Kısmında   gösterilen   süreler   hesap   edilirken   bunların  başladığı   gün   sayılmaz.  F)   Uygulanacak   hükümler
+Madde 817 - (1)   Kanunun   bu   Kısmında   gösterilen   süreler   hesap   edilirken   bunların  başladığı   gün   sayılmaz.
 
 ---
 

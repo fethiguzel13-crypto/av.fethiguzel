@@ -17,8 +17,6 @@ Yayımcı  iflas  ederse  yayımlatan,  eseri  başka  bir  yayımcıya  verebil
 anında henüz muaccel olmamış borcun yerine getirileceği konusunda güvence gösterilmişse,
 yayımlatan eseri başka bir yayımcıya veremez.
 
-E. Sipariş üzerine yayım sözleşmesi
-
 ---
 
 ### Bizim Yorumumuz

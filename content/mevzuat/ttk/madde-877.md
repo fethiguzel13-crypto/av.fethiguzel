@@ -8,7 +8,7 @@ maddeNo: 877
 
 ---
 
-Madde 877 - (1 )   Taşıyıcı,   taşıma   aracındaki   arızaya,   taşıtı   kiraladığı   kişinin   onun  temsilcilerinin   veya   çalışanlarının   kusuruna   dayanarak   sorumluluktan   kurtulamaz.  2.   Özel   hâller
+Madde 877 - (1 )   Taşıyıcı,   taşıma   aracındaki   arızaya,   taşıtı   kiraladığı   kişinin   onun  temsilcilerinin   veya   çalışanlarının   kusuruna   dayanarak   sorumluluktan   kurtulamaz.
 
 ---
 

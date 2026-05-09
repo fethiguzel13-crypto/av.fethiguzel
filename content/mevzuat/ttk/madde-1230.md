@@ -4,7 +4,10 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1230
 ---
 
-**Madde 1230**
+**III
+- Hükümleri
+1. Kıy metli evrak olma niteliği
+a) Eşyanın yetkili konişmento hamiline teslimi aa) Genel olarak**
 
 ---
 

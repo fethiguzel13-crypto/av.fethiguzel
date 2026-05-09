@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 63
 ---
 
-**Madde 63**
+**II
+- Tüzel kişilerin cezai sorumluluğu**
 
 ---
 

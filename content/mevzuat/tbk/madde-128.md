@@ -14,9 +14,6 @@ Belirli bir süre için yapılan üstlenmede, sürenin bitimine kadar üstlenene
 etmesi için yazılı olarak başvurulmaması hâlinde, üstlenenin sorumluluğunun sona ereceği
 kararlaştırılabilir.
 
-C. Üçüncü kişi yararına sözleşme
-I. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

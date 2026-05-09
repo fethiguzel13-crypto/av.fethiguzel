@@ -41,8 +41,6 @@ ifa güçlüğü” başlıklı 138 inci maddesi hükmü saklıdır. Beş yıl g
 belirlenmesinde, yabancı paranın değerindeki değişiklikler de göz önünde tutularak üçüncü
 fıkra hükmü uygulanır.
 
-III. Dava açma süresi ve kararın etkisi
-
 ---
 
 ### Bizim Yorumumuz

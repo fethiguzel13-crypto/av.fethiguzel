@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 223
 ---
 
-**a. Genel olarak**
+**4. Gözden geçirme ve satıcıya bildirme
+a. Genel olarak**
 
 ---
 
@@ -15,8 +16,6 @@ Alıcı gözden geçirmeyi ve bildirimde bulunmayı ihmal ederse, satılanı kab
 sayılır.  Ancak,  satılanda  olağan  bir  gözden  geçirmeyle  ortaya  çıkarılamayacak  bir  ayıp
 bulunması hâlinde, bu hüküm uygulanmaz. Bu tür bir ayıbın bulunduğu sonradan anlaşılırsa,
 hemen satıcıya bildirilmelidir; bildirilmezse satılan bu ayıpla birlikte kabul edilmiş sayılır.
-
-b. Hayvan satışında
 
 ---
 

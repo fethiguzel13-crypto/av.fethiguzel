@@ -19,8 +19,6 @@ döndüğü  tarihe  kadar  işleyecek  yasal  faiz  ile  sözleşmenin  kurulma
 uğramış olduğu değer kaybı sebebiyle tazminat isteyebilir. Ceza koşulu kararlaştırılmışsa,
 peşin satış bedelinin yüzde onunu aşamaz.
 
-c. Hâkimin müdahalesi
-
 ---
 
 ### Bizim Yorumumuz

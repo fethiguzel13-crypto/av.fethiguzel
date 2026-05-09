@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1200
 ---
 
-**Madde 1200**
+**5. Navlun borçlusu**
 
 ---
 
-Madde 1200 - (1)   Navlunun   borç lusu   taşıtandır.  II -   Hapis   hakkı  1.   Genel   olarak
+Madde 1200 - (1)   Navlunun   borç lusu   taşıtandır.
 
 ---
 

@@ -16,8 +16,6 @@ zorunludur.
 Satılanın aslı için satıştan dönülmesi, ayrı satış bedeli gösterilerek satılmış olsalar bile,
 eklentilerini de kapsar; fakat eklentiler için dönme, satılanın aslını kapsamaz.
 
-9. Zamanaşımı
-
 ---
 
 ### Bizim Yorumumuz

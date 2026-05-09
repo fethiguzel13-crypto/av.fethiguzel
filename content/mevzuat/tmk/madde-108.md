@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 108
 ---
 
-**Madde 108**
+**C. Mirasçıların ve alacaklıların dava hakkı**
 
 ---
 
-Madde 108 - Vakfedenin mirasçıları ile alacaklılarının, ba ğışlamaya ve ölüme bağlı  tasarruflara ilişkin h ükümler uyarınca dava hakları saklıdır.  D. Vakf ın ör gütü  I. Genel olarak
+Madde 108 - Vakfedenin mirasçıları ile alacaklılarının, ba ğışlamaya ve ölüme bağlı  tasarruflara ilişkin h ükümler uyarınca dava hakları saklıdır.
 
 ---
 

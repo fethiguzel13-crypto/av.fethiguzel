@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1073
 ---
 
-**Madde 1073**
+**d) Yükümlülükleri aa) Özen yükümlülüğü**
 
 ---
 

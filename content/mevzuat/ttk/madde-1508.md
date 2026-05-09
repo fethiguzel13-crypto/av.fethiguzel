@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1508
 ---
 
-**Madde 1508**
+**II
+– Tedavi giderleri**
 
 ---
 
-Madde 1508 - (1)   Sigortacı,   aksi   kararlaştırılmamışsa,   poliçede   yazılı   bedelden  başka,   sigortalının   yap tığı   tedavi   giderlerini   de   ödemekle   yükümlüdür.  III   -   Sigortalı
+Madde 1508 - (1)   Sigortacı,   aksi   kararlaştırılmamışsa,   poliçede   yazılı   bedelden  başka,   sigortalının   yap tığı   tedavi   giderlerini   de   ödemekle   yükümlüdür.
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 125
 ---
 
-**Madde 125**
+**B) Tüzel kişilik ve ehliyet**
 
 ---
 
-Madde 125 - (1)   Ticaret   şirketleri   tüzel   kişiliği   haizdir.  (2)   Ticaret   şirketleri,   Türk   Medenî   Kanununun   48   inci   maddesi   çerçevesinde   bütün  haklardan   yararl anabilir   ve   borçları   üstlenebilirler.   Bu   husustaki   kanuni   istisnalar   saklıdır.  C)   Uygulanacak   kanun   hükümleri
+Madde 125 - (1)   Ticaret   şirketleri   tüzel   kişiliği   haizdir.  (2)   Ticaret   şirketleri,   Türk   Medenî   Kanununun   48   inci   maddesi   çerçevesinde   bütün  haklardan   yararl anabilir   ve   borçları   üstlenebilirler.   Bu   husustaki   kanuni   istisnalar   saklıdır.
 
 ---
 

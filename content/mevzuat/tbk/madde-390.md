@@ -13,8 +13,6 @@ güçsüzlüğüne düşerse ödünç veren, ödünç konusunun tesliminden kaç
 Ödünç  veren,  ödünç  alanın  sözleşmenin  kurulmasından  önce  ödeme  güçsüzlüğüne
 düşmüş olduğunu daha sonra öğrenmişse, aynı hakka sahiptir.
 
-C. Para yerine verilen şeyler
-
 ---
 
 ### Bizim Yorumumuz

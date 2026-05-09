@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 938
 ---
 
-**Madde 938**
+**c. Geri ödemelerin özgülenmesi**
 
 ---
 

@@ -13,7 +13,6 @@ sona erer.
 
 İKİNCİ AYIRIM
 Tüketim Ödüncü
-A. Tanımı
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 503
 ---
 
-**Madde 503**
+**B) Hükümleri**
 
 ---
 

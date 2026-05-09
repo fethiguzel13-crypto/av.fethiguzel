@@ -22,8 +22,6 @@ dışında, simsarlık sözleşmesinden doğan alacaklar.
 6. Yüklenicinin yükümlülüklerini ağır kusuruyla hiç ya da gereği gibi ifa etmemesi
 dışında, eser sözleşmesinden doğan alacaklar.
 
-III. Sürelerin kesinliği
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1526
 ---
 
-**Madde 1526**
+**III
+- Güvenli elektronik imza**
 
 ---
 

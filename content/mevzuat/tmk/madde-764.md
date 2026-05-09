@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 764
 ---
 
-**Madde 764**
+**2. Mülkiyetin saklı tutulması
+a. Genel olarak**
 
 ---
 
-Madde 764 - Başkasına devredilen bir malın mülk iyetinin saklı tutulması kaydı, ancak resmî  şekilde yapılacak sözleşmenin devralanın yerle şim yeri noterliğinde özel siciline kaydedilmesiyle  geçerli olur.  Hayvan satışlarında mülkiyeti saklı tu tma sözleşmesi yapılamaz.  b. Taksitle satış
+Madde 764 - Başkasına devredilen bir malın mülk iyetinin saklı tutulması kaydı, ancak resmî  şekilde yapılacak sözleşmenin devralanın yerle şim yeri noterliğinde özel siciline kaydedilmesiyle  geçerli olur.  Hayvan satışlarında mülkiyeti saklı tu tma sözleşmesi yapılamaz.
 
 ---
 

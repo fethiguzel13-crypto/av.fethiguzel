@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 425
 ---
 
-**Madde 425**
+**V. Görevin verilmesi**
 
 ---
 

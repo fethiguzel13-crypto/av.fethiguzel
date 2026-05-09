@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 593
 ---
 
-**Madde 593**
+**II. Görev, t emsil ve sorumluluk**
 
 ---
 

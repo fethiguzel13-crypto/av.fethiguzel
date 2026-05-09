@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 131
 ---
 
-**is pat etmek zorundadır.  b. Gaiplik durumunda**
+**b. Gaiplik durumunda**
 
 ---
 
-Madde 131 - Gaipliğine karar verilen kişinin eşi, mahkemece evliliğin feshine karar  verilmedikçe yeniden evl enemez.  Kaybolanın eşi evliliğin feshini, gaiplik başvurusuyla birlikte veya ayrıca açacağı bir   dava  ile isteyebilir.  Ayrı bir dava ile evliliğin feshi, davacının yerleşim yeri mahkemesinden istenir.  2. Kadın için bekleme süresi
+Madde 131 - Gaipliğine karar verilen kişinin eşi, mahkemece evliliğin feshine karar  verilmedikçe yeniden evl enemez.  Kaybolanın eşi evliliğin feshini, gaiplik başvurusuyla birlikte veya ayrıca açacağı bir   dava  ile isteyebilir.  Ayrı bir dava ile evliliğin feshi, davacının yerleşim yeri mahkemesinden istenir.
 
 ---
 

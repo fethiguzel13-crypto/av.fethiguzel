@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 985
 ---
 
-**Madde 985**
+**H) Kayıt giderleri**
 
 ---
 

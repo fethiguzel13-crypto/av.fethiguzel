@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 394
 ---
 
-**Madde 394**
+**V
+- Yönetim kurulu üyelerinin mali hakları**
 
 ---
 
-Madde 394 - (1)   Yönetim   kurulu   üyelerine,   tutarı   esas   sözleşmeyle   veya   genel   kurul  kararıy la   belirlenmiş   olmak   şartıyla   huzur   hakkı,   ücret,   ikramiye,   prim   ve   yıllık   kârdan   pay  ödenebilir.  VI   -   Şirketle   işlem   yapma,   şirkete   borçlanma   yasağı
+Madde 394 - (1)   Yönetim   kurulu   üyelerine,   tutarı   esas   sözleşmeyle   veya   genel   kurul  kararıy la   belirlenmiş   olmak   şartıyla   huzur   hakkı,   ücret,   ikramiye,   prim   ve   yıllık   kârdan   pay  ödenebilir.
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1011
 ---
 
-**Madde 1011**
+**II
+- Yapı hâlindeki gemilere özgü sicile kaydolunan yapılar ve yapı payları**
 
 ---
 

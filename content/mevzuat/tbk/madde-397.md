@@ -14,8 +14,6 @@ yükümlüdür.
 İşçi, hizmetin ifasından dolayı elde ettiği şeyleri de derhâl işverene teslim etmekle
 yükümlüdür.
 
-IV. Fazla çalışma borcu
-
 ---
 
 ### Bizim Yorumumuz

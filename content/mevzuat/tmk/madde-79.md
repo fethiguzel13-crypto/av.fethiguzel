@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 79
 ---
 
-**Madde 79**
+**5. Toplant ı usu lü**
 
 ---
 

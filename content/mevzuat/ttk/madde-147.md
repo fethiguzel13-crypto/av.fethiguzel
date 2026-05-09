@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 147
 ---
 
-**Madde 147**
+**b) Birleşme raporu 26 Bu üst başlık “4. Birleşme sözleşmesi, birleşme raporu ve dene tleme” iken, 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle metne işlendiği şekilde değiştirilmiştir.**
 
 ---
 

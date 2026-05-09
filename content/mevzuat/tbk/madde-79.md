@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 79
 ---
 
-**I. Zenginleşenin yükümlülüğü**
+**B. Geri vermenin kapsamı
+I. Zenginleşenin yükümlülüğü**
 
 ---
 
@@ -13,8 +14,6 @@ Madde 79 - Sebepsiz zenginleşen, zenginleşmenin geri istenmesi sırasında eli
 Zenginleşen, zenginleşmeyi iyiniyetli olmaksızın elden çıkarmışsa veya elden çıkarırken
 ileride geri  vermek  zorunda  kalabileceğini  hesaba  katması  gerekiyorsa,  zenginleşmenin
 tamamını geri vermekle yükümlüdür.
-
-II. Giderleri isteme hakkı
 
 ---
 

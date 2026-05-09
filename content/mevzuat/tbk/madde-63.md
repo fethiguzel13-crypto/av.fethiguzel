@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 63
 ---
 
-**1. Genel olarak**
+**VI. Hukuka aykırılığı kaldıran hâller
+1. Genel olarak**
 
 ---
 
@@ -14,8 +15,6 @@ Zarar  görenin  rızası,  daha  üstün  nitelikte  özel  veya  kamusal  yara
 davranışının  haklı  savunma  niteliği  taşıması,  yetkili  kamu  makamlarının  müdahalesinin
 zamanında sağlanamayacak olması durumunda kişinin hakkını kendi gücüyle koruması veya
 zorunluluk hâllerinde de fiil, hukuka aykırı sayılmaz.
-
-2. Sorumluluk
 
 ---
 

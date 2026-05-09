@@ -13,8 +13,6 @@ bedelinin, satılanın devri anında tamamen ödenmiş olması gerekir. Satılan
 isteyen alıcı, hesabındaki bakiyeden, satış bedelinin en çok üçte birlik kısmını satıcı lehine
 serbest bırakabilir. Ancak, sözleşmenin kuruluşu sırasında buna ilişkin taahhütte bulunulamaz.
 
-d. Satış bedelinin belirlenmesi
-
 ---
 
 ### Bizim Yorumumuz

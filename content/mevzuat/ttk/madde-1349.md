@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1349
 ---
 
-**Madde 1349**
+**IX
+- Yargılama ve takip giderleri**
 
 ---
 

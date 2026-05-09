@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 38
 ---
 
-**Madde 38**
+**3. Sorumluluk**
 
 ---
 

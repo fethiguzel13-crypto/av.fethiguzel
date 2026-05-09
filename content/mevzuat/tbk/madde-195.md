@@ -14,9 +14,6 @@ Borçlu, iç  üstlenme  sözleşmesinden  doğan  borçlarını  ifa  etmedikç
 yükümlülüğünü yerine getirmesini isteyemez.
 Borçlu, borcundan kurtarılmamışsa, diğer taraftan güvence isteyebilir.
 
-B. Dış üstlenme sözleşmesi
-I. Öneri ve kabul
-
 ---
 
 ### Bizim Yorumumuz

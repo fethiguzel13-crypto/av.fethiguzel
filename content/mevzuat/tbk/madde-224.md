@@ -14,8 +14,6 @@ yapıldığı veya alıcının devralmada temerrüdünün gerçekleştiği günd
 içinde kendisine bildirilmesi ve ayrıca, hayvanın bilirkişilerce gözden geçirilmesinin aynı süre
 içinde yetkili makamdan istenmesi hâlinde sorumlu olur.
 
-5. Satıcının ağır kusurunun sonuçları
-
 ---
 
 ### Bizim Yorumumuz

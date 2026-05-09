@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 544
 ---
 
-**Madde 544**
+**5. Defterlerin saklanması**
 
 ---
 
-Madde 544 - (1)   Tasfiyenin   sonunda   defterler   ve   tasfiyeye   ilişkin   olanlar   da   dâhil,  belgeler   82   nci   madde   uyarı nca   saklanır.  III   -   Şirket   unvanının   sicilden   silinmesi
+Madde 544 - (1)   Tasfiyenin   sonunda   defterler   ve   tasfiyeye   ilişkin   olanlar   da   dâhil,  belgeler   82   nci   madde   uyarı nca   saklanır.
 
 ---
 

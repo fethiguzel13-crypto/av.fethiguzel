@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 643
 ---
 
-**Madde 643**
+**D) Tasfiye**
 
 ---
 

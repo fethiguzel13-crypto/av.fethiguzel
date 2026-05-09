@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 430
 ---
 
-**I. Belirli süreli sözleşmede**
+**G. Sözleşmenin sona ermesi
+I. Belirli süreli sözleşmede**
 
 ---
 
@@ -18,9 +19,6 @@ altı aylık fesih bildirim süresine uyarak feshedebilir. Fesih, ancak bu süre
 hüküm ifade eder.
 Sözleşmenin  fesih  bildirimiyle  sona  ereceği  kararlaştırılmış  ve  iki  taraf  da  fesih
 bildiriminde bulunmamışsa, sözleşme belirsiz süreli sözleşmeye dönüşür.
-
-II. Belirsiz süreli sözleşmede
-1. Genel olarak fesih hakkı
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 615
 ---
 
-**Madde 615**
+**I) Özkaynakların yerini tutan ödünçler**
 
 ---
 

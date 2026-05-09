@@ -15,8 +15,6 @@ nedenle işçi tarafından feshedilirse, rekabet yasağı sona erer.
 
 İKİNCİ AYIRIM
 Pazarlamacılık Sözleşmesi
-A. Tanımı ve kurulması
-I. Tanımı
 
 ---
 

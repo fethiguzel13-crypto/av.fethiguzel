@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 347
 ---
 
-**Madde 347**
+**VIII
+- Primli paylar**
 
 ---
 
-Madde 347 - (1)   İtibarî   değerinden   aşağı   bedelle   pay   çıkarılamaz.   Payların   itibarî  değerinden   yüksek   bir   bedelle   çıkarılabilmeleri   için   esas   sözleşmede   hüküm   veya   genel   kur ul  kararı   bulunmalıdır.  IX   -   Kurucu   menfaatleri
+Madde 347 - (1)   İtibarî   değerinden   aşağı   bedelle   pay   çıkarılamaz.   Payların   itibarî  değerinden   yüksek   bir   bedelle   çıkarılabilmeleri   için   esas   sözleşmede   hüküm   veya   genel   kur ul  kararı   bulunmalıdır.
 
 ---
 

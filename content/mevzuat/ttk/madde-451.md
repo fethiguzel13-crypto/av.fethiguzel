@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 451
 ---
 
-**Madde 451**
+**IV
+- Kötüniyetle iptal ve butlan davası açanların sorumluluğu**
 
 ---
 

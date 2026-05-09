@@ -14,10 +14,6 @@ Vekâleti birlikte üstlenenler, vekâletin ifasından müteselsil olarak soruml
 yetkilerini başkalarına devir hakları olmadıkça, vekâlet vereni, ancak birlikte yaptıkları fiil ve
 işlemleriyle borç altına sokabilirler.
 
-D. Sona ermesi
-I. Sebepleri
-1. Tek taraflı sona erdirme
-
 ---
 
 ### Bizim Yorumumuz

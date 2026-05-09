@@ -8,7 +8,7 @@ maddeNo: 495
 
 ---
 
-Madde 495 - Mirasbırakanın birinci derece miras çıları, onun altsoyudur.  Ço cuklar eşit olarak mirasçıdırlar.  Mira sbırak andan   önce ölmüş olan çocukların yerini, her derecede halefiyet yoluyla kendi  altsoyları alır.  II. Ana   ve baba
+Madde 495 - Mirasbırakanın birinci derece miras çıları, onun altsoyudur.  Ço cuklar eşit olarak mirasçıdırlar.  Mira sbırak andan   önce ölmüş olan çocukların yerini, her derecede halefiyet yoluyla kendi  altsoyları alır.
 
 ---
 

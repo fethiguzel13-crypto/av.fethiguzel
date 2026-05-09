@@ -4,7 +4,9 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 504
 ---
 
-**Madde 504**
+**II. Miras sözleşmesinde M adde 503
+- Miras sözleşmesi yapabilmek için ay ırt etme gücüne sahi p ve e rgin olmak, kısıtlı bulunmamak gerekir.
+B. İrade sakatlığı**
 
 ---
 

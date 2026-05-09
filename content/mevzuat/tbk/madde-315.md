@@ -15,8 +15,6 @@ Kiracıya verilecek süre en az on gün, konut ve çatılı işyeri kiralarında
 gündür. Bu süre, kiracıya yazılı bildirimin yapıldığı tarihi izleyen günden itibaren işlemeye
 başlar.
 
-II. Özenle kullanma ve komşulara saygı gösterme borcu
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 402
 ---
 
-**Madde 402**
+**5. Sona ermesi**
 
 ---
 
-Madde 402 - Aile meclisi görevini yapmadığı veya vesayet altındaki kişinin menfaati  gerektirdiği takdird e, denetim makamı her zaman aile meclisini değiştirebileceği gibi özel  vesayeti d e sona erdirebilir.  C. Vas i ve kayyım
+Madde 402 - Aile meclisi görevini yapmadığı veya vesayet altındaki kişinin menfaati  gerektirdiği takdird e, denetim makamı her zaman aile meclisini değiştirebileceği gibi özel  vesayeti d e sona erdirebilir.
 
 ---
 

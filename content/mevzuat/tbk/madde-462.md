@@ -15,9 +15,6 @@ malzemenin  sağlanması  için  kendisine  ne  miktarda  ödemede  bulunacağı
 İşin  verilmesinden  önce  malzeme  için  ödenecek  bedel  ve  iş  için  ödenecek  ücret
 yazıyla bildirilmemişse, bu işlerde uygulanan alışılmış bedel ve ücret ödenir.
 
-III. İşçinin özel borçları
-1. İşin yapılması
-
 ---
 
 ### Bizim Yorumumuz

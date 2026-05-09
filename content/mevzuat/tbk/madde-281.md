@@ -15,7 +15,6 @@ Cebrî artırmalar hakkında özel hükümler saklıdır.
 
 İKİNCİ BÖLÜM
 Mal Değişim Sözleşmesi
-A. Tanımı
 
 ---
 

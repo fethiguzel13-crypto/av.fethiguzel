@@ -8,7 +8,7 @@ maddeNo: 1470
 
 ---
 
-Madde 1470 - (1)   Sigorta   edilen   menfaatin   sahib inin   değişmesi   hâlinde,   aksine  sözleşme   yoksa,   sigorta   ilişkisi   sona   erer.  V   -   Zarar   gören   mal   ve   zararın   gerçekleştiği   yerde   değişiklik   yapmama
+Madde 1470 - (1)   Sigorta   edilen   menfaatin   sahib inin   değişmesi   hâlinde,   aksine  sözleşme   yoksa,   sigorta   ilişkisi   sona   erer.
 
 ---
 

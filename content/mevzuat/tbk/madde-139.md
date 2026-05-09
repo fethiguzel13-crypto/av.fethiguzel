@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 139
 ---
 
-**1. Genel olarak**
+**F. Takas
+I. Koşulları
+1. Genel olarak**
 
 ---
 
@@ -14,8 +16,6 @@ edebilir.
 Alacaklardan biri çekişmeli olsa bile takas ileri sürülebilir.
 Zamanaşımına  uğramış  bir  alacağın  takası,  ancak  takas  edilebileceği  anda  henüz
 zamanaşımına uğramamış olması koşuluyla ileri sürülebilir.
-
-2. Kefalet hâlinde
 
 ---
 

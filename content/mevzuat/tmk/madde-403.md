@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 403
 ---
 
-**Madde 403**
+**C. Vas i ve kayyım**
 
 ---
 

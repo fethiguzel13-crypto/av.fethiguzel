@@ -14,9 +14,6 @@ olmaz. Ancak, komisyoncu açıkça garanti vermişse veya bulunduğu  yerdeki ti
 gerektiriyorsa sorumlu olur.
 Garanti veren komisyoncunun bundan dolayı ayrıca ücret isteme hakkı vardır.
 
-III. Komisyoncunun hakları
-1. Ödediği paralar ve yaptığı giderler
-
 ---
 
 ### Bizim Yorumumuz

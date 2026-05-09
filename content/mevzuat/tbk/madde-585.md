@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 585
 ---
 
-**1. Adi kefalet**
+**C. İçeriği
+I. Türlerine göre
+1. Adi kefalet**
 
 ---
 
@@ -24,8 +26,6 @@ aciz belgesi alınmasıyla sonuçlanması veya borçlu aleyhine Türkiye’de ta
 hâle  gelmesi  ya  da  konkordatonun  kesinleşmesi  durumlarında,  doğrudan  doğruya  kefile
 başvurulabilir. Sözleşmede, bu durumlarda alacaklının, önce asıl borçluya başvurmak zorunda
 olduğu kararlaştırılabilir.
-
-2. Müteselsil kefalet
 
 ---
 

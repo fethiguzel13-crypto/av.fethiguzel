@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 449
 ---
 
-**Madde 449**
+**II
+- Kararın yürütülmesinin geri bırakılması**
 
 ---
 
-Madde 449 - (1)   Genel   kurul   kararı   aleyhine   iptal   veya   butlan   davası   açıldığı  takdirde   mahkeme,   yönetim   kurulu   üyelerinin   görüşünü   aldıktan   sonra,   dava   konusu   kararın  yürütülmesinin   geri   bırakılmasına   karar   verebilir.  III   -   Kararın   etkisi
+Madde 449 - (1)   Genel   kurul   kararı   aleyhine   iptal   veya   butlan   davası   açıldığı  takdirde   mahkeme,   yönetim   kurulu   üyelerinin   görüşünü   aldıktan   sonra,   dava   konusu   kararın  yürütülmesinin   geri   bırakılmasına   karar   verebilir.
 
 ---
 

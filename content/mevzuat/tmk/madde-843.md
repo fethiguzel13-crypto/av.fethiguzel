@@ -4,12 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 843
 ---
 
-**Madde 843**
+**II. Sona ermesi
+1. Gen el olarak**
 
 ---
 
 Madde 843 - Taşınmaz yükü tescilin terkini veya yükl ü taşınmazın tamamen yok olmasıyla  sona erer.  Feragat, yükten kurtarma ve diğer sona erme   sebepleri, yüklü taşınmaz malikine, hak  sahibinden terkini isteme yetkisi verir.
-2. Yükten kurtarma  a . Alacaklının yetkisi
 
 ---
 

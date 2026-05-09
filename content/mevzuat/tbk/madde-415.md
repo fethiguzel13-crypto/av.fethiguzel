@@ -18,8 +18,6 @@ karşılığında uygun bir tazminatı hizmet için kullanıldığı ölçüde i
 hayvanlarını  kullanıyorsa  işveren,  bunların  kullanma  ve  bakımı  için  gerekli  olan  olağan
 giderleri hizmet için kullanıldığı ölçüde karşılamakla yükümlüdür.
 
-3. Giderlerin ödenmesi
-
 ---
 
 ### Bizim Yorumumuz

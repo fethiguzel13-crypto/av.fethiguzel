@@ -15,9 +15,6 @@ Kiracı, almış olduğundan daha fazlasını bırakıyorsa, bıraktığı fazla
 isteme hakkına sahiptir; aldığından daha az bırakıyorsa, eksikleri tamamlamak veya değer
 eksikliğini gidermekle yükümlüdür.
 
-H. Hayvan kirası
-I. Konusu
-
 ---
 
 ### Bizim Yorumumuz

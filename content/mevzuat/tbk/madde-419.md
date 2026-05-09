@@ -12,8 +12,6 @@ Madde 419 - İşveren, işçiye ait kişisel verileri, ancak işçinin işe yatk
 veya hizmet sözleşmesinin ifası için zorunlu olduğu ölçüde kullanabilir.
 Özel kanun hükümleri saklıdır.
 
-V. Ceza koşulu ve ibra
-
 ---
 
 ### Bizim Yorumumuz

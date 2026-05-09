@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 396
 ---
 
-**Madde 396**
+**VII
+- Rekabet yasağı**
 
 ---
 

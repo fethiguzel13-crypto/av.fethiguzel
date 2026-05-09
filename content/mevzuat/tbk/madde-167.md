@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 167
 ---
 
-**1. Paylaşım**
+**III. İç ilişki
+1. Paylaşım**
 
 ---
 
@@ -16,8 +17,6 @@ borçlulardan isteme hakkı vardır. Bu durumda borçlu, her bir borçluya ancak
 rücu edebilir.
 Borçlulardan  birinden  alınamayan  miktarı,  diğer  borçlular  eşit  olarak  üstlenmekle
 yükümlüdürler.
-
-2. Alacaklıya halef olma
 
 ---
 

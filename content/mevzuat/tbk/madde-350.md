@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 350
 ---
 
-**a. Gereksinim, yeniden inşa ve imar**
+**II. Dava yoluyla
+1. Kiraya verenden kaynaklanan sebeplerle
+a. Gereksinim, yeniden inşa ve imar**
 
 ---
 
@@ -16,8 +18,6 @@ değiştirilmesi gerekli ve bu işler sırasında kiralananın kullanımı imkâ
 belirli  süreli  sözleşmelerde  sürenin  sonunda,  belirsiz  süreli  sözleşmelerde  kiraya
 ilişkin  genel  hükümlere  göre  fesih  dönemine  ve  fesih bildirimi  için  öngörülen  sürelere
 uyularak belirlenecek tarihten başlayarak bir ay içinde açacağı dava ile sona erdirebilir.
-
-b. Yeni malikin gereksinimi
 
 ---
 

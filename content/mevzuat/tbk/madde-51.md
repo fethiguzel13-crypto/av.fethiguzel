@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 51
 ---
 
-**1. Belirlenmesi**
+**III. Tazminat
+1. Belirlenmesi**
 
 ---
 
@@ -12,8 +13,6 @@ Madde 51 - Hâkim, tazminatın kapsamını ve ödenme biçimini, durumun gereği
 özellikle kusurun ağırlığını göz önüne alarak belirler.
 Tazminatın  irat  biçiminde  ödenmesine  hükmedilirse,  borçlu  güvence  göstermekle
 yükümlüdür.
-
-2. İndirilmesi
 
 ---
 

@@ -15,8 +15,6 @@ zamanda yapılamaz. Fesih bildirimi, ancak hesap yılı sonunda hüküm ifade ed
 Sözleşmede  öngörülmüş  olan  sürenin  bitiminden  sonra  ortaklık,  ortakların  örtülü
 iradesiyle sürdürülürse, belirsiz süreli ortaklığa dönüşür.
 
-II. Sona ermenin ortaklığın yönetimine etkisi
-
 ---
 
 ### Bizim Yorumumuz

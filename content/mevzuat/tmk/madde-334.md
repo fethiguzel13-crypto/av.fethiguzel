@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 334
 ---
 
-**Madde 334**
+**VII. Güvence veril mesi**
 
 ---
 

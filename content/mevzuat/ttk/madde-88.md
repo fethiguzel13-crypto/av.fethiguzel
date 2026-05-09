@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 88
 ---
 
-**Madde 88**
+**VII
+– Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun yetkisi 25**
 
 ---
 

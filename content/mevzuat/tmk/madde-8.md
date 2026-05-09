@@ -8,7 +8,7 @@ maddeNo: 8
 
 ---
 
-Madde 8 - Her insanın hak ehliyeti vardır.  Buna göre bütün insanlar, hukuk düzeninin sınırları içinde, haklar a ve   borçlara ehil  olmada eşittirler.  II. Fiil ehliyeti  1. Kapsamı
+Madde 8 - Her insanın hak ehliyeti vardır.  Buna göre bütün insanlar, hukuk düzeninin sınırları içinde, haklar a ve   borçlara ehil  olmada eşittirler.
 
 ---
 

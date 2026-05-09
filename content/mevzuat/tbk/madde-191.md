@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 191
 ---
 
-**1. Genel olarak**
+**IV. Garanti
+1. Genel olarak**
 
 ---
 
@@ -13,8 +14,6 @@ alacağın varlığını ve borçlunun ödeme gücüne sahip olduğunu garanti e
 Alacak bir edim karşılığı olmaksızın devredilmiş ya da kanun gereğince başkasına
 geçmişse, devreden veya önceki alacaklı, alacağın varlığından ve borçlunun ödeme gücünden
 sorumlu değildir.
-
-2. İfaya yönelik devir
 
 ---
 

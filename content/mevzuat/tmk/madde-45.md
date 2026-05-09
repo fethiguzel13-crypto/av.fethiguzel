@@ -8,7 +8,7 @@ maddeNo: 45
 
 ---
 
-Madde 45 - Gaiplik kararı, hâkimin bildirmesi üze rine,   ölüm kütüğüne kaydolunur.  IV. Değişikliklerin kütüğe geçirilmesi
+Madde 45 - Gaiplik kararı, hâkimin bildirmesi üze rine,   ölüm kütüğüne kaydolunur.
 
 ---
 

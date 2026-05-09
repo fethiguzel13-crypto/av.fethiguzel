@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 154
 ---
 
-**I. Sebepleri**
+**D. Zamanaşımının kesilmesi
+I. Sebepleri**
 
 ---
 
@@ -13,8 +14,6 @@ Madde 154 - Aşağıdaki durumlarda zamanaşımı kesilir:
 da rehin vermiş veya kefil göstermişse.
 2.  Alacaklı,  dava  veya  def’i  yoluyla  mahkemeye  veya  hakeme  başvurmuşsa,  icra
 takibinde bulunmuşsa ya da iflas masasına başvurmuşsa.
-
-II. Birlikte borçlulara etkisi
 
 ---
 

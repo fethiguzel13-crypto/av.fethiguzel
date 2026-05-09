@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 1027
 ---
 
-**Madde 1027**
+**III. Düzeltme**
 
 ---
 

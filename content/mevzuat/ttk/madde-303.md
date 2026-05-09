@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 303
 ---
 
-**Madde 303**
+**X
+- Tasfiyenin sonu**
 
 ---
 

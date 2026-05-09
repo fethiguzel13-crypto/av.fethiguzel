@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 132
 ---
 
-**Madde 132**
+**2. Kadın için bekleme süresi**
 
 ---
 
-Madde 132 - Evlilik sona er mişse, kadın, evliliğin sona ermesinden başlayarak üçyüz gün  geçmedikçe evlenemez.  Doğurmakla   süre   biter.  Kadının önceki evliliğinden gebe olmadığının anlaşılması veya evliliği sona eren eşlerin  yeniden birbiriyle evlenmek istemeleri hâllerinde mahkeme bu   süreyi kaldırır.  III. Akıl hastalığı
+Madde 132 - Evlilik sona er mişse, kadın, evliliğin sona ermesinden başlayarak üçyüz gün  geçmedikçe evlenemez.  Doğurmakla   süre   biter.  Kadının önceki evliliğinden gebe olmadığının anlaşılması veya evliliği sona eren eşlerin  yeniden birbiriyle evlenmek istemeleri hâllerinde mahkeme bu   süreyi kaldırır.
 
 ---
 

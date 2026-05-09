@@ -15,8 +15,6 @@ Hâkim,  aşırı  nitelikteki  rekabet  yasağını,  bütün  durum  ve  koşu
 değerlendirmek ve işverenin üstlenmiş olabileceği karşı edimi de hakkaniyete uygun biçimde
 göz önünde tutmak suretiyle, kapsamı veya süresi bakımından sınırlayabilir.
 
-3. Aykırı davranışların sonuçları
-
 ---
 
 ### Bizim Yorumumuz

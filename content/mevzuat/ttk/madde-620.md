@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 620
 ---
 
-**Madde 620**
+**III
+- Karar alma
+1. Olağan karar alma**
 
 ---
 
-Madde 620 - (1)   Kanun   veya   şirket   sözleşmesinde   aksi   öngörülmediği   takdirde,  seçim   kararları   dâhil,   tü m   genel   kurul   kararları,   toplantıda   temsil   edilen   oyların   salt   çoğunluğu  ile   alınır.  2.   Önemli   kararlar
+Madde 620 - (1)   Kanun   veya   şirket   sözleşmesinde   aksi   öngörülmediği   takdirde,  seçim   kararları   dâhil,   tü m   genel   kurul   kararları,   toplantıda   temsil   edilen   oyların   salt   çoğunluğu  ile   alınır.
 
 ---
 

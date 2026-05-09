@@ -15,9 +15,6 @@ Paranın mühürsüz ve açık olarak bırakılmış olması, örtülü anlaşma
 Saklayan, saklatan tarafından kendisine açıkça yetki verilmedikçe, saklanan diğer mislî
 eşya veya kıymetli evrak üzerinde tasarrufta bulunamaz.
 
-C. Ardiyeciye bırakma
-I. Senet çıkarma
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 598
 ---
 
-**Madde 598**
+**4. Tescil**
 
 ---
 

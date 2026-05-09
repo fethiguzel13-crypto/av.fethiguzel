@@ -13,8 +13,6 @@ yapılması kararlaştırılmışsa, belirlenen şekilde yapılmayan sözleşme 
 Herhangi  bir belirleme  olmaksızın  yazılı  şekil  kararlaştırılmışsa,  yasal  yazılı  şekle
 ilişkin hükümler uygulanır.
 
-C. Borç tanıması
-
 ---
 
 ### Bizim Yorumumuz

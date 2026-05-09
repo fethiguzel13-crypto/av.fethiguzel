@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 259
 ---
 
-**a. Satıcının seçimlik hakkı**
+**5. Alıcının temerrüdü
+a. Satıcının seçimlik hakkı**
 
 ---
 
@@ -21,8 +22,6 @@ tutarına eşit veya daha fazla ise satıcı sözleşmeden dönemez.
 Satıcı,  satış  bedelinin  geri  kalan  kısmının  tamamen  ödenmesini  isteme  veya
 sözleşmeden dönme haklarını kullanmadan önce, alıcıya en az onbeş günlük bir süre tanımak
 zorundadır.
-
-b. Sözleşmeden dönme
 
 ---
 

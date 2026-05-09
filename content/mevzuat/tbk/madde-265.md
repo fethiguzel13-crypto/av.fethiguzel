@@ -4,7 +4,10 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 265
 ---
 
-**a. Ödemelerin güvenceye bağlanması**
+**8. Alıcının sözleşmeden cayma hakkı ve bu sebeple ödeyeceği cayma parası.
+9. Sözleşmenin kurulduğu yer ve tarih.
+2. Tarafların hak ve borçları
+a. Ödemelerin güvenceye bağlanması**
 
 ---
 
@@ -16,8 +19,6 @@ rızasıyla ödeme yapılabilir. Bu rıza önceden verilemez.
 Ödeme süresi bir yıldan daha uzun veya belirsiz olan sözleşmelerde alıcı, satılanın
 devrine kadar 269 uncu madde uyarınca sözleşmeden cayarsa satıcı, bu hesap üzerindeki
 bütün haklarını kaybeder.
-
-b. Alıcının malın devrini isteme hakkı
 
 ---
 

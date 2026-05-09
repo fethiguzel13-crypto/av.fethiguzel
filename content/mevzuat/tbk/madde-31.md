@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 31
 ---
 
-**a. Açıklamada yanılma**
+**2. Yanılma hâlleri
+a. Açıklamada yanılma**
 
 ---
 
@@ -19,8 +20,6 @@ karşın başka bir kişi için iradesini açıklamışsa.
 gerçekte istediğinden önemli ölçüde az bir karşı edim için iradesini açıklamışsa.
 Basit hesap yanlışlıkları sözleşmenin geçerliliğini etkilemez; bunların düzeltilmesi ile
 yetinilir.
-
-b. Saikte yanılma
 
 ---
 

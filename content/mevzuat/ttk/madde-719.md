@@ -8,7 +8,7 @@ maddeNo: 719
 
 ---
 
-Madde 719 - (1)   Poliçeye   ilişkin   bir   edimin   birden   fazla   yükümlü   tarafından   ifasının  istenme si   zorunlu   ise,   tek   protesto   belgesi   düzenlenir.  3.   Saklama   yükümü
+Madde 719 - (1)   Poliçeye   ilişkin   bir   edimin   birden   fazla   yükümlü   tarafından   ifasının  istenme si   zorunlu   ise,   tek   protesto   belgesi   düzenlenir.
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 680
 ---
 
-**Madde 680**
+**IV
+- Açık poliçe**
 
 ---
 

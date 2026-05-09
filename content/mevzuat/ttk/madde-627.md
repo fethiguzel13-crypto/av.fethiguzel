@@ -8,7 +8,7 @@ maddeNo: 627
 
 ---
 
-Madde 627 - (1)   Müdürler   ortaklara   eşit   şartlar   altında   eşit   işlem   yaparlar.  III   -   Müdürlerin   yerleşim   yeri
+Madde 627 - (1)   Müdürler   ortaklara   eşit   şartlar   altında   eşit   işlem   yaparlar.
 
 ---
 

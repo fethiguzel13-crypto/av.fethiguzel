@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 993
 ---
 
-**Madde 993**
+**J) Sicil müdürlüğünün kararlarına itiraz**
 
 ---
 
-Madde 993 - (1)   Sicil   müdürlüğünün   kararlarına   Kanunun   34   üncü   maddesine   göre  itiraz   olunabilir.  K)   Yönetmelik 101
+Madde 993 - (1)   Sicil   müdürlüğünün   kararlarına   Kanunun   34   üncü   maddesine   göre  itiraz   olunabilir.
 
 ---
 

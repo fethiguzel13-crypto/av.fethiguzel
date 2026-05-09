@@ -4,12 +4,13 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 313
 ---
 
-**1. Genel olarak**
+**D. Kiracının borçları
+I. Kira bedelini ödeme borcu
+1. Genel olarak**
 
 ---
 
 Madde 313 - Kiracı, kira bedelini ödemekle yükümlüdür.
-2. İfa zamanı
 
 ---
 

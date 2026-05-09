@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 893
 ---
 
-**Madde 893**
+**XVII
+- Birden çok hapis hakkının sırası**
 
 ---
 

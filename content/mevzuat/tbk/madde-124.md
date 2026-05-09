@@ -15,8 +15,6 @@ olacağı anlaşılıyorsa.
 3. Borcun ifasının, belirli bir zamanda veya belirli bir süre içinde gerçekleşmemesi
 üzerine, ifanın artık kabul edilmeyeceği sözleşmeden anlaşılıyorsa.
 
-c. Seçimlik haklar
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 210
 ---
 
-**Madde 210**
+**H) Gümrük ve Ticaret Bakanlığının düzenleme ve denetleme yetkisi 38**
 
 ---
 

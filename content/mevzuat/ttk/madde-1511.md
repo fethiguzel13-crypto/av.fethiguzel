@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1511
 ---
 
-**Madde 1511**
+**C) Hastalık ve sağlık sigortası
+I
+- Sigortanın yaptırılması**
 
 ---
 
-Madde 1511 - (1)   Hastalık   ve   sağlık   sigortaları,   sigortalı   lehine   yapılabilir;   hastalık  sigortalarında   lehtar   da   belirlenebilir.  II   -   Teminatlar  1.   Sigorta   teminatı
+Madde 1511 - (1)   Hastalık   ve   sağlık   sigortaları,   sigortalı   lehine   yapılabilir;   hastalık  sigortalarında   lehtar   da   belirlenebilir.
 
 ---
 

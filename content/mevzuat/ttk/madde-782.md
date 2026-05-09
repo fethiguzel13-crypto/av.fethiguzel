@@ -4,11 +4,14 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 782
 ---
 
-**Madde 782**
+**B) Münferit unsurlar
+I
+- Muhatap
+1. Muhatap olma ehliyeti**
 
 ---
 
-Madde 782 - (1)   Türkiye’de   ödenecek   çeklerde   muhatap   a ncak   bir   banka   olabilir.  (2)   Diğer   bir   kişi   üzerine   düzenlenen   çek   yalnız   havale   hükmündedir.  2.   Karşılık
+Madde 782 - (1)   Türkiye’de   ödenecek   çeklerde   muhatap   a ncak   bir   banka   olabilir.  (2)   Diğer   bir   kişi   üzerine   düzenlenen   çek   yalnız   havale   hükmündedir.
 
 ---
 

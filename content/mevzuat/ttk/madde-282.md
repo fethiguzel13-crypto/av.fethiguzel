@@ -8,7 +8,7 @@ maddeNo: 282
 
 ---
 
-Madde 282 - (1)   Tasfiye   memurlarının   kanunen   haiz   oldukları   yetkiler,   ortaklar  tarafından   oybirliğiyle   veya   haklı   sebeplerin   bulunması   durumunda   mahkeme   kararı   ile  daraltılıp   genişletilebilir.  (2)   Tescil   ve   ilan   olunmadıkça   yetkilerin   daraltılması,   iyiniyetli   üçüncü   kişilere   ileri  sürülemez.  V   -   Tescil   ve   ilan
+Madde 282 - (1)   Tasfiye   memurlarının   kanunen   haiz   oldukları   yetkiler,   ortaklar  tarafından   oybirliğiyle   veya   haklı   sebeplerin   bulunması   durumunda   mahkeme   kararı   ile  daraltılıp   genişletilebilir.  (2)   Tescil   ve   ilan   olunmadıkça   yetkilerin   daraltılması,   iyiniyetli   üçüncü   kişilere   ileri  sürülemez.
 
 ---
 

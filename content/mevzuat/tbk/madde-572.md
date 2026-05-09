@@ -14,8 +14,6 @@ saklamak ve mallarda ayrıca önlem alınmasını gerektiren bir değişiklik ol
 Ardiyeci, saklatana, malların durumunu incelemesi ve örnek alması için, alışılmış iş
 zamanlarında; gerekli koruma önlemlerini alabilmesi için de her zaman izin vermek zorundadır.
 
-III. Bırakılan şeylerin karışması
-
 ---
 
 ### Bizim Yorumumuz

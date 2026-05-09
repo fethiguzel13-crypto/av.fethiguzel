@@ -17,8 +17,6 @@ yapmışsa  ve  işsahibinin  yasaklaması  da  hukuka  veya  ahlaka  aykırı  
 hâlden de sorumlu olur. Ancak, işgören o işi yapmamış olsaydı bile, bu zararın beklenmedik
 hâl sonucunda gerçekleşeceğini ispat ederse sorumluluktan kurtulur.
 
-III. İşgörenin ehliyetsizliği
-
 ---
 
 ### Bizim Yorumumuz

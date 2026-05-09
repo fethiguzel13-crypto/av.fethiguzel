@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1030
 ---
 
-**Madde 1030**
+**7. İpoteğin hükümleri
+a) Alacağın muaccel olmasından önce aa) İpotekli alacaklını n hakları aaa) Gemi maliki aleyhine**
 
 ---
 

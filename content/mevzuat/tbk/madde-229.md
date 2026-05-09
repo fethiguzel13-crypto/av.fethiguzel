@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 229
 ---
 
-**a. Genel olarak**
+**8. Dönmenin sonuçları
+a. Genel olarak**
 
 ---
 
@@ -18,8 +19,6 @@ olduğu giderlerin ödenmesi.
 3. Ayıplı maldan doğan doğrudan zararının giderilmesi.
 Satıcı,  kendisine  hiçbir  kusur  yüklenemeyeceğini  ispat  etmedikçe,  alıcının  diğer
 zararlarını da gidermekle yükümlüdür.
-
-b. Birden çok mal satışında
 
 ---
 

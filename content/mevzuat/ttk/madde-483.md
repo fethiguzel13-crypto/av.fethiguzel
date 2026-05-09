@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 483
 ---
 
-**Madde 483**
+**II
+- Iskat usulü**
 
 ---
 

@@ -4,12 +4,13 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 647
 ---
 
-**Madde 647**
+**B. Paylaşma kuralları
+I. Mirasbırakanın tasarrufu**
 
 ---
 
 Madde 647 - Mir asbırakan, ölüme bağlı tasarrufuyla paylaşmanın nasıl yapılacağı ve  payların nasıl oluştur ulacağı hakkında kurallar k oyabilir.  Bu kurallar, mirasbırakan tarafından kastedilmemiş olan bir eşitsizlik hâlinde payların  denkleştirilmesi olanağı saklı kalmak ka ydıyla, mirasçılar için bağlayıcıdır.
-Aksini arzu ettiği tasarruftan anlaşılmadıkça, mira sbırakanın tereke malını bi r mirasçıya  özgülemesi, vasiyet olmayıp sadece paylaştırma kuralı sayılır.  II. Paylaşmaya kayyımın katılması
+Aksini arzu ettiği tasarruftan anlaşılmadıkça, mira sbırakanın tereke malını bi r mirasçıya  özgülemesi, vasiyet olmayıp sadece paylaştırma kuralı sayılır.
 
 ---
 

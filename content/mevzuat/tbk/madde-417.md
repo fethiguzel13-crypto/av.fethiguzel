@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 417
 ---
 
-**1. Genel olarak**
+**IV. İşçinin kişiliğinin korunması
+1. Genel olarak**
 
 ---
 
@@ -18,8 +19,6 @@ alınan her türlü önleme uymakla yükümlüdür.
 İşverenin yukarıdaki hükümler dâhil, kanuna ve sözleşmeye aykırı davranışı nedeniyle
 işçinin  ölümü,  vücut  bütünlüğünün  zedelenmesi  veya  kişilik  haklarının  ihlaline  bağlı
 zararların tazmini, sözleşmeye aykırılıktan doğan sorumluluk hükümlerine tabidir.
-
-2. Ev düzeni içinde çalışmada
 
 ---
 

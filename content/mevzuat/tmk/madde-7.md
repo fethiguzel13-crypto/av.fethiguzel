@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 7
 ---
 
-**Madde 7**
+**II. Resmî belgelerle ispat**
 
 ---
 

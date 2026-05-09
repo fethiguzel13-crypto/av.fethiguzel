@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 4
 ---
 
-**a. Hazır olanlar arasında**
+**2. Süresiz öneri
+a. Hazır olanlar arasında**
 
 ---
 
@@ -13,8 +14,6 @@ kabul edilmezse; öneren, önerisiyle bağlılıktan kurtulur.
 
 Telefon,  bilgisayar gibi  iletişim  sağlayabilen  araçlarla  doğrudan  iletişim  sırasında
 yapılan öneri, hazır olanlar arasında yapılmış sayılır.
-
-b. Hazır olmayanlar arasında
 
 ---
 

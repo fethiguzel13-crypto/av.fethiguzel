@@ -14,9 +14,6 @@ Pazarlamacı, işlem yapmaya yetkili kılınmışsa yetkisi, bu işlerin icrası
 bütün olağan hukuki işlem ve fiilleri kapsar; özel yetki verilmedikçe müşterilerden  tahsilat
 yapamaz ve ödeme günlerini değiştiremez.
 
-C. İşverenin özel yükümlülükleri
-I. Faaliyet alanı
-
 ---
 
 ### Bizim Yorumumuz

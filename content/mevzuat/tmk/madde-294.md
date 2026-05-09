@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 294
 ---
 
-**Madde 294**
+**III. İtiraz ve iptal**
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 363
 ---
 
-**Madde 363**
+**II. A na ve babanın sorumluluğu**
 
 ---
 

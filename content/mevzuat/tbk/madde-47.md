@@ -17,8 +17,6 @@ Hakkaniyet gerektiriyorsa, kusurlu yetkisiz temsilciden diğer zararların gider
 istenebilir.
 Sebepsiz zenginleşmeden doğan haklar saklıdır.
 
-III. Saklı hükümler
-
 ---
 
 ### Bizim Yorumumuz

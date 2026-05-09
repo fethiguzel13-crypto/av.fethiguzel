@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 72
 ---
 
-**I. Kural**
+**C. Zamanaşımı
+I. Kural**
 
 ---
 
@@ -15,8 +16,6 @@ zamanaşımı öngördüğü cezayı gerektiren bir fiilden doğmuşsa, bu zaman
 Haksız fiil dolayısıyla zarar gören bakımından bir borç doğmuşsa zarar gören, haksız
 fiilden doğan tazminat istemi zamanaşımına uğramış olsa bile, her zaman bu borcu ifadan
 kaçınabilir.
-
-II. Rücu isteminde
 
 ---
 

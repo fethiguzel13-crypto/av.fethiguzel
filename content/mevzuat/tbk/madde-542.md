@@ -18,9 +18,6 @@ vekâlet veren dinlenmeksizin de verilebilir.
 Malın hızla değer kaybetmesi hâli dışında, artırmanın yer ve zamanının mahkemece
 vekâlet verene bildirilmesi zorunludur.
 
-5. Komisyoncunun kendisiyle işlem yapması
-a. Bedel ve ücret
-
 ---
 
 ### Bizim Yorumumuz

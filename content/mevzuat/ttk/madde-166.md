@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 166
 ---
 
-**Madde 166**
+**3. Bölünme belgelerini inceleme hakkı 30
+a) Bölünme sözleşmesi ve bölünme planı aa) Genel olarak**
 
 ---
 

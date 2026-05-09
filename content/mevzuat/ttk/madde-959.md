@@ -4,11 +4,14 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 959
 ---
 
-**Madde 959**
+**B) Geminin tescili
+I
+- İstem
+1. Şekli**
 
 ---
 
-Madde 959 - (1)   Gemi,   ancak   malikin   veya   maliklerinden   birinin   istemi   üzerine  gemi   siciline   tescil   olunur.  ( 2)   İstem   dilekçeyle   yapılır.  2.   İçeriği
+Madde 959 - (1)   Gemi,   ancak   malikin   veya   maliklerinden   birinin   istemi   üzerine  gemi   siciline   tescil   olunur.  ( 2)   İstem   dilekçeyle   yapılır.
 
 ---
 

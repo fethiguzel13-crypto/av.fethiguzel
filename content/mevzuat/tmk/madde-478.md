@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 478
 ---
 
-**Madde 478**
+**II. İlân**
 
 ---
 

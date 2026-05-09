@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1137
 ---
 
-**Madde 1137**
+**V
+- Tahsis olunanın sorumluluğu ve gemiyi iade yükümlülüğü**
 
 ---
 

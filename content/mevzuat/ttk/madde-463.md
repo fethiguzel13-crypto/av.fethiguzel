@@ -4,7 +4,9 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 463
 ---
 
-**Madde 463**
+**IV
+- Şarta bağlı serm aye artırımı
+1. İlke**
 
 ---
 

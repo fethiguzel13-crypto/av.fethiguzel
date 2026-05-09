@@ -14,8 +14,6 @@ Hâkim, bu tazminatın ödenmesi yerine, diğer bir giderim biçimi kararlaştı
 bu  tazminata  ekleyebilir;  özellikle  saldırıyı  kınayan  bir  karar  verebilir  ve  bu  kararın
 yayımlanmasına hükmedebilir.
 
-4. Ayırt etme gücünün geçici kaybı
-
 ---
 
 ### Bizim Yorumumuz

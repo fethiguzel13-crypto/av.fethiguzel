@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 369
 ---
 
-**a. Önemli sebepler**
+**3. Olağanüstü fesih
+a. Önemli sebepler**
 
 ---
 
@@ -13,8 +14,6 @@ getiren önemli sebeplerin varlığı durumunda, sözleşmeyi yasal fesih bildir
 her zaman feshedebilir.
 Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih bildiriminin parasal
 sonuçlarını karara bağlar.
-
-b. Kiracının iflası
 
 ---
 

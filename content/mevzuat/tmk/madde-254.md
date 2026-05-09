@@ -4,7 +4,8 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 254
 ---
 
-**Madde 254**
+**IV. Aile konutu ve ev eşyası
+1. İptal veya boşanma hâlinde**
 
 ---
 

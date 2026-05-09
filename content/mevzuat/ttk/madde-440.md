@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 440
 ---
 
-**Madde 440**
+**3. Atama**
 
 ---
 
-Madde 440 - (1)   Mahkeme,   şirketi   ve   istem   sahiplerini   dinledikten   sonra   k ararını   verir.  (2)   Mahkeme   istemi   yerinde   görürse,   istem   çerçevesinde   inceleme   konusunu   belirleyerek  bir   veya   birden   fazla   bağımsız   uzmanı   görevlendirir.   Mahkemenin   kararı   kesindir.  4.   Görev
+Madde 440 - (1)   Mahkeme,   şirketi   ve   istem   sahiplerini   dinledikten   sonra   k ararını   verir.  (2)   Mahkeme   istemi   yerinde   görürse,   istem   çerçevesinde   inceleme   konusunu   belirleyerek  bir   veya   birden   fazla   bağımsız   uzmanı   görevlendirir.   Mahkemenin   kararı   kesindir.
 
 ---
 

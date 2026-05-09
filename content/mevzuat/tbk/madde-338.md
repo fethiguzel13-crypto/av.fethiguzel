@@ -16,7 +16,6 @@ başlayarak on gün içinde kolluk gücünün yardımıyla kiralanana geri getir
 
 İKİNCİ AYIRIM
 Konut ve Çatılı İşyeri Kiraları
-A. Uygulama alanı
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 458
 ---
 
-**Madde 458**
+**3. Denetleme raporu**
 
 ---
 

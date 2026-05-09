@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1488
 ---
 
-**Madde 1488**
+**II
+- Tontin**
 
 ---
 
-Madde 1488 - (1)   Birden   çok   kişi   tarafından   verilen   katkı   payları   ile   oluşturulan  varlıkların,   belirli   bir   tarihte   hayatta   kalanlar   ve   ölenin   önceden   belirlemiş   olması   hâlinde,  lehtarlar   arasında   paylaştırılması   ilkesi   uyarınca   tontinler   kurulabilir.  III   -   Sözleşmeden   cayma
+Madde 1488 - (1)   Birden   çok   kişi   tarafından   verilen   katkı   payları   ile   oluşturulan  varlıkların,   belirli   bir   tarihte   hayatta   kalanlar   ve   ölenin   önceden   belirlemiş   olması   hâlinde,  lehtarlar   arasında   paylaştırılması   ilkesi   uyarınca   tontinler   kurulabilir.
 
 ---
 

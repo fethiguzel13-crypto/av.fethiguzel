@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 682
 ---
 
-**Madde 682**
+**II. Mirasçılara rücu**
 
 ---
 

@@ -8,7 +8,7 @@ maddeNo: 1407
 
 ---
 
-Madde 1407 - (1)   Temsilci,   sigorta   ettiren   tarafından,   sigorta   şartlarıyla   ilgili  herhangi   bir   talimat   verilmemişse,   sigorta   sözleşmesini,   sözleşmenin   yapıldığı   yerdeki   mutat  şartlara   g öre   yapar.  3.   Sigorta   menfaatinin   yokluğu
+Madde 1407 - (1)   Temsilci,   sigorta   ettiren   tarafından,   sigorta   şartlarıyla   ilgili  herhangi   bir   talimat   verilmemişse,   sigorta   sözleşmesini,   sözleşmenin   yapıldığı   yerdeki   mutat  şartlara   g öre   yapar.
 
 ---
 

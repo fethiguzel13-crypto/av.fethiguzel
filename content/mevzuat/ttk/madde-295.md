@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 295
 ---
 
-**Madde 295**
+**2. Toptan satış**
 
 ---
 
-Madde 295 - (1)   Ortaklar   oybirliğiyle   karar   vermedikçe,   tasfiye   memurları   önemli  miktardaki   şirket   varlıklarını   toptan   satamazlar;   ancak   oybirliğinin   sağlanamadığı   hâllerde  mahkeme   toptan   satışa   karar   verebilir.  3.   Paranın   yatırılması
+Madde 295 - (1)   Ortaklar   oybirliğiyle   karar   vermedikçe,   tasfiye   memurları   önemli  miktardaki   şirket   varlıklarını   toptan   satamazlar;   ancak   oybirliğinin   sağlanamadığı   hâllerde  mahkeme   toptan   satışa   karar   verebilir.
 
 ---
 

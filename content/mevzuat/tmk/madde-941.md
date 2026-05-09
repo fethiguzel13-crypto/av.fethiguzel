@@ -8,7 +8,7 @@ maddeNo: 941
 
 ---
 
-Madde 941 - Rehnedilen taşınırın maliki, onun üzerinde bir art rehin kurabil ir. Bunun  için, alacağı ödenince rehnedilen taşınırın sonraki   alacaklıya teslim edilmesinin rehinli alacaklıya  yazılı olarak bildirilmesi gerekir.  4.   Alt rehin
+Madde 941 - Rehnedilen taşınırın maliki, onun üzerinde bir art rehin kurabil ir. Bunun  için, alacağı ödenince rehnedilen taşınırın sonraki   alacaklıya teslim edilmesinin rehinli alacaklıya  yazılı olarak bildirilmesi gerekir.
 
 ---
 

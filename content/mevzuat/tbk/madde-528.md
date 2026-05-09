@@ -13,9 +13,6 @@ zenginleştiği ölçüde veya iyiniyetli olmaksızın elinden çıkardığı ze
 olur.
 Haksız fiillerden doğan daha kapsamlı sorumluluk saklıdır.
 
-B. İşsahibinin hak ve borçları
-I. İşin işsahibinin menfaatine yapılması hâlinde
-
 ---
 
 ### Bizim Yorumumuz

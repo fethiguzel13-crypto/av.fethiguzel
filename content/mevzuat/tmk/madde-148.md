@@ -8,7 +8,7 @@ maddeNo: 148
 
 ---
 
-Madde 148 - Evlenme sırasında geçici bir sebeple ay ırt etme gücünden yoksun olan eş,  evlenm enin iptalini dava edebilir.  2. Yanılma
+Madde 148 - Evlenme sırasında geçici bir sebeple ay ırt etme gücünden yoksun olan eş,  evlenm enin iptalini dava edebilir.
 
 ---
 

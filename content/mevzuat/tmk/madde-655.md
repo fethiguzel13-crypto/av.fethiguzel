@@ -8,7 +8,7 @@ maddeNo: 655
 
 ---
 
-Madde 655 - Paylaşmada kendisine mirasbırakanın borçları için rehnedilmiş bir tereke  malı düşen mirasçı, o malın güvence altına aldığı b orcu üstlenmiş olur.  IV. Taşınmazlar  1. Bölünme
+Madde 655 - Paylaşmada kendisine mirasbırakanın borçları için rehnedilmiş bir tereke  malı düşen mirasçı, o malın güvence altına aldığı b orcu üstlenmiş olur.
 
 ---
 

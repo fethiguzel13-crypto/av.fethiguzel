@@ -22,8 +22,6 @@ hakkını kaybeder.
 Kumar veya bahisten doğan bir borca kefalette kefil, borcun bu niteliğini bilmiş olsa
 bile, asıl borçlunun sahip olduğu def’ileri ileri sürebilir.
 
-d. Özen gösterme, rehin ve borç senetlerinin teslimi
-
 ---
 
 ### Bizim Yorumumuz

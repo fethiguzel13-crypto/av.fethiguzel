@@ -16,8 +16,6 @@ verildiği hâllerde, yayımcı eserin baskı adedi tükenmiş iken yeni bir bas
 ederse, yayımlatan yeni basım için yayımcıya uygun bir süre verir. Yayımcı, verilen süre
 içinde basımı gerçekleştirmezse; yayımlatan sözleşmeden cayabilir.
 
-IV. Çoğaltma ve dağıtım
-
 ---
 
 ### Bizim Yorumumuz

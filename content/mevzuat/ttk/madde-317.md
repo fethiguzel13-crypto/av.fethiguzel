@@ -8,7 +8,7 @@ maddeNo: 317
 
 ---
 
-Madde 317 - (1)   Şirket   ve   ortakların   üçüncü   kişilerle   olan   ilişkilerinde,   bu  Bölümdeki   özel   hükümler   saklı   kalmak   şartıyla,   kollek tif   şirkete   ilişkin   232   ilâ   242   nci  maddeler   uygulanır.  B)   Şirketin   temsili
+Madde 317 - (1)   Şirket   ve   ortakların   üçüncü   kişilerle   olan   ilişkilerinde,   bu  Bölümdeki   özel   hükümler   saklı   kalmak   şartıyla,   kollek tif   şirkete   ilişkin   232   ilâ   242   nci  maddeler   uygulanır.
 
 ---
 

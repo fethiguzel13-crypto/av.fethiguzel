@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 186
 ---
 
-**Madde 186**
+**5. Tür değiştirme raporu**
 
 ---
 

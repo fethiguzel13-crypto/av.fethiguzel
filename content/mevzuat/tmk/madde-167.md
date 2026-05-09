@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 167
 ---
 
-**Madde 167**
+**B. Dava
+I. Konusu**
 
 ---
 
-Madde 167 - Boşanma davası açmaya hakkı olan eş, dilerse boşan ma, dilerse ayrılık  isteyebilir.  II. Yetki
+Madde 167 - Boşanma davası açmaya hakkı olan eş, dilerse boşan ma, dilerse ayrılık  isteyebilir.
 
 ---
 

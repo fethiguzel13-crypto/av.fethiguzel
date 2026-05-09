@@ -8,7 +8,7 @@ maddeNo: 118
 
 ---
 
-Madde 118 - Nişanlanma, evlenme vaadiyle olur.  Nişanlanma, yasal temsilcilerinin rızası olmadıkça küçüğü veya kısıtlıyı bağlamaz.  B. Nişanlılığın h ükümleri  I. Dava hakkının bulunmaması
+Madde 118 - Nişanlanma, evlenme vaadiyle olur.  Nişanlanma, yasal temsilcilerinin rızası olmadıkça küçüğü veya kısıtlıyı bağlamaz.
 
 ---
 

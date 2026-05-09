@@ -4,17 +4,12 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 54
 ---
 
-**b. Bedensel zarar**
+**3. Ölenin desteğinden yoksun kalan kişilerin bu sebeple uğradıkları kayıplar.
+b. Bedensel zarar**
 
 ---
 
 Madde 54 - Bedensel zararlar özellikle şunlardır:
-1. Tedavi giderleri.
-2. Kazanç kaybı.
-3. Çalışma gücünün azalmasından ya da yitirilmesinden doğan kayıplar.
-4. Ekonomik geleceğin sarsılmasından doğan kayıplar.
-
-c. Belirlenmesi
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 251
 ---
 
-**1. Satıcının yanında**
+**III. Deneme veya gözden geçirme
+1. Satıcının yanında**
 
 ---
 
@@ -14,8 +15,6 @@ satıcı sözleşmeyle bağlılıktan kurtulur.
 Böyle bir süre belirlenmemişse, satıcı uygun bir süre geçtikten sonra, satılanı kabul
 edip etmediğini bildirmesi için alıcıya ihtarda bulunabilir; bu ihtara hemen cevap verilmezse
 satıcı, sözleşmeyle bağlılıktan kurtulur.
-
-2. Alıcının yanında
 
 ---
 

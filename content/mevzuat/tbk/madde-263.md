@@ -27,9 +27,6 @@ meslekî amaçlarla satın alınması durumunda, taksitle satışa ilişkin hük
 uncu maddenin ikinci fıkrası, 260 ıncı maddenin birinci fıkrası ve 261 inci maddesi hükümleri
 uygulanır.
 
-II. Ön ödemeli taksitle satış
-1. Tanımı, şekli ve içeriği
-
 ---
 
 ### Bizim Yorumumuz

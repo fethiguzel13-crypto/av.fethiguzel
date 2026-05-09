@@ -16,9 +16,6 @@ hemen diğer ortaklara bildirmekle yükümlüdür. Mirasçı, gerekli önlemler 
 ölen ortağın daha önce yürütmekte olduğu işlere, dürüstlük kuralları çerçevesinde devam eder.
 Diğer ortaklar da, geçici olarak, ortaklık işlerini aynı şekilde yürütmeye devam ederler.
 
-III. Tasfiye
-1. Katılım payı için yapılacak işlem
-
 ---
 
 ### Bizim Yorumumuz

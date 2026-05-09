@@ -15,8 +15,6 @@ alacaklıların haklarını korumak üzere başvurabilecekleri önlemleri alabil
 Koşulun gerçekleşmesinden önce yapılan tasarruflar, koşulun hükümlerini zedelediği
 oranda geçersiz olur.
 
-III. Koşul gerçekleşinceye kadar elde edilen yararlar
-
 ---
 
 ### Bizim Yorumumuz

@@ -18,8 +18,6 @@ isteyebilir.  Satılanın  eşya  topluluğu  oluşturduğu  hâllerde  bu  iste
 bedelinin  tamamen  ödenmemesi  hâlinde,  satıcıdan  satılanı  kısmen  devretmesi,  ancak  geri
 kalan kısmın yüzde onunun kendisine güvence olarak bırakılması koşuluyla istenebilir.
 
-c. Satış bedelinin ödenmesi
-
 ---
 
 ### Bizim Yorumumuz

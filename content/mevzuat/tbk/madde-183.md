@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 183
 ---
 
-**1. Genel olarak**
+**A. Koşulları
+I. İradi devir
+1. Genel olarak**
 
 ---
 
@@ -13,8 +15,6 @@ rızasını aramaksızın alacağını üçüncü bir kişiye devredebilir.
 Borçlu, devir yasağı içermeyen yazılı bir borç tanımasına güvenerek alacağı devralmış
 olan üçüncü kişiye karşı, alacağın devredilemeyeceğinin kararlaştırılmış bulunduğu savunmasını
 ileri süremez.
-
-2. Şekli
 
 ---
 

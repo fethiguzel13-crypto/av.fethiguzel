@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1509
 ---
 
-**Madde 1509**
+**III
+- Sigortalı**
 
 ---
 
-Madde 1509 - (1)   Kazaya   karşı   sigorta,   sigorta   ettirenin   veya   başkasının   uğrayabileceği  kazalara   karşı   yapılabilir.  IV   -   Uygulanacak   hükümler
+Madde 1509 - (1)   Kazaya   karşı   sigorta,   sigorta   ettirenin   veya   başkasının   uğrayabileceği  kazalara   karşı   yapılabilir.
 
 ---
 

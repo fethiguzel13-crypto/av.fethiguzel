@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 414
 ---
 
-**1. Genel olarak**
+**III. Giderler
+1. Genel olarak**
 
 ---
 
@@ -17,8 +18,6 @@ olarak ödenmesi öngörülebilir. Ancak bu ödeme, zorunlu harcamaları karşı
 az olamaz.
 Zorunlu  harcamaların  kısmen  veya  tamamen  işçi  tarafından  bizzat  karşılanmasına
 ilişkin anlaşmalar geçersizdir.
-
-2. Taşıma araçları
 
 ---
 

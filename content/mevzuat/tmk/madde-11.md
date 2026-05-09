@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 11
 ---
 
-**Ayırt etme gücüne sahip ve kısıtlı olmayan   her e rgin kişinin fiil ehliyeti vardır.  b. Erginlik**
+**b. Erginlik**
 
 ---
 
-Madde 11 - Erginlik onsekiz yaşın doldurulmasıyla başlar.  Evlenme kişiyi ergin kılar.  c. Ergin kılınma
+Madde 11 - Erginlik onsekiz yaşın doldurulmasıyla başlar.  Evlenme kişiyi ergin kılar.
 
 ---
 

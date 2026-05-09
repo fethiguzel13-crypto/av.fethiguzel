@@ -15,8 +15,6 @@ alacaklının  zarara  uğramasında  kendisine  bir  kusur  yüklenemeyeceğini
 alacaklı, önceden sağlanmış güvenceyi yitirmesi yüzünden veya başka herhangi bir sebeple
 uğradığı zararın giderilmesini üstlenenden isteyebilir.
 
-E. Borca katılma
-
 ---
 
 ### Bizim Yorumumuz

@@ -13,9 +13,6 @@ davalar, teslim tarihinden başlayarak, taşınmaz yapılar dışındaki eserler
 yapılarda ise beş yılın ve yüklenicinin ağır kusuru varsa, ayıplı eserin niteliğine bakılmaksızın
 yirmi yılın geçmesiyle zamanaşımına uğrar.
 
-II. İşsahibinin borçları
-1. Bedelin muacceliyeti
-
 ---
 
 ### Bizim Yorumumuz

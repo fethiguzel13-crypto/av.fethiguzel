@@ -8,7 +8,7 @@ maddeNo: 308
 
 ---
 
-Madde 308 - (1)   Komandit   şirkette   ortakların   birbirleriyle   olan   ilişkileri   şir ket  sözleşmesi   ile   düzenlenir.   Şirket   sözleşmesinde   hüküm   bulunmayan   durumlarda,   bu   Bölümde  yazılı   hükümler   saklı   kalmak   şartıyla,   kollektif   şirketlere   ilişkin   217   ilâ   231   inci   maddeler  uygulanır.  B)   Komanditerlerin   hukuki   durumu  I   -   Yönetim
+Madde 308 - (1)   Komandit   şirkette   ortakların   birbirleriyle   olan   ilişkileri   şir ket  sözleşmesi   ile   düzenlenir.   Şirket   sözleşmesinde   hüküm   bulunmayan   durumlarda,   bu   Bölümde  yazılı   hükümler   saklı   kalmak   şartıyla,   kollektif   şirketlere   ilişkin   217   ilâ   231   inci   maddeler  uygulanır.
 
 ---
 

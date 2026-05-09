@@ -17,9 +17,6 @@ kurulmuş sayılır.
 Geçersizliği sonradan anlaşılan hizmet sözleşmesi, hizmet ilişkisi ortadan kaldırılıncaya
 kadar, geçerli bir hizmet sözleşmesinin bütün hüküm ve sonuçlarını doğurur.
 
-C. İşçinin borçları
-I. Bizzat çalışma borcu
-
 ---
 
 ### Bizim Yorumumuz

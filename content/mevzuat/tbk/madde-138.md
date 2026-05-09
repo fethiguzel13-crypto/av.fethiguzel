@@ -18,10 +18,6 @@ takdirde  sözleşmeden  dönme  hakkına  sahiptir.  Sürekli  edimli  sözleş
 olarak dönme hakkının yerine fesih hakkını kullanır.
 Bu madde hükmü yabancı para borçlarında da uygulanır.
 
-F. Takas
-I. Koşulları
-1. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

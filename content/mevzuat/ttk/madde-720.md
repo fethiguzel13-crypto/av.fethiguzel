@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 720
 ---
 
-**Madde 720**
+**3. Saklama yükümü**
 
 ---
 
-Madde 720 - (1)   Protestoyu   düzenleyen   noter   poliçenin   bir   suretini   protesto   belgesi  ile   birlikte   saklamakla   yükümlüdür.  4.   Sakat   protesto
+Madde 720 - (1)   Protestoyu   düzenleyen   noter   poliçenin   bir   suretini   protesto   belgesi  ile   birlikte   saklamakla   yükümlüdür.
 
 ---
 

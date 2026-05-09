@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1427
 ---
 
-**Madde 1427**
+**e) Tazminat ödeme borcu aa) Genel olarak**
 
 ---
 

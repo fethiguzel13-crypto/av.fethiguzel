@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 155
 ---
 
-**Madde 155**
+**II. Şekil kurallarına uymama**
 
 ---
 
-Madde 155 - Evlendirmeye yetkili memur önünde yapılmış olan bir evliliğin kanun un  diğer şekil kurallarına uyulmaması sebebiyle butlanına karar veri lemez.  D. Butlan kararı  I.   Gene l olarak
+Madde 155 - Evlendirmeye yetkili memur önünde yapılmış olan bir evliliğin kanun un  diğer şekil kurallarına uyulmaması sebebiyle butlanına karar veri lemez.
 
 ---
 

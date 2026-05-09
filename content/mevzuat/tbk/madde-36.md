@@ -14,9 +14,6 @@ yanılması esaslı olmasa bile, sözleşmeyle bağlı değildir.
 sırada karşı tarafın aldatmayı bilmesi veya bilecek durumda olması hâlinde, sözleşmeyle bağlı
 değildir.
 
-III. Korkutma
-1. Hükmü
-
 ---
 
 ### Bizim Yorumumuz

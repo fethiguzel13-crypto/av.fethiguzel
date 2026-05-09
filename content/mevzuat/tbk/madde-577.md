@@ -16,8 +16,6 @@ sorumludur.
 Konaklayanın  kendi  yanında  saklaması  gereken  eşya  ile  para  ve  benzeri  şeyler
 hakkında, onun diğer eşyasına ilişkin sorumluluk kuralı uygulanır.
 
-3. Sorumluluğun kalkması
-
 ---
 
 ### Bizim Yorumumuz

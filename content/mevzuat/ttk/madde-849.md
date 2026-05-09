@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 849
 ---
 
-**Madde 849**
+**E) Senetlerin zıyaı**
 
 ---
 

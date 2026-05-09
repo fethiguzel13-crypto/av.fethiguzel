@@ -17,8 +17,6 @@ iyiniyetli üçüncü kişilere karşı hüküm doğurmaz.
 Temsil yetkisine ilişkin diğer sınırlamalar, tescil edilmiş olsalar bile, iyiniyetli üçüncü
 kişilere karşı ileri sürülemez.
 
-IV. Temsil yetkisinin sona ermesi
-
 ---
 
 ### Bizim Yorumumuz

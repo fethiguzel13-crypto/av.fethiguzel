@@ -8,7 +8,7 @@ maddeNo: 547
 
 ---
 
-Madde 547 - Miras sözleşmesi gereğinc e sağl araras ı edimleri ist eme hakkı bulunan taraf,  bu edimlerin sözleşmeye uygun olarak yerine getirilmemesi v eya güvenceye bağlanmaması  hâlinde borçlar hukuku kuralları uyarınca sözleşmeden   dönebilir.  2. Mirasbıraka ndan önce ölme
+Madde 547 - Miras sözleşmesi gereğinc e sağl araras ı edimleri ist eme hakkı bulunan taraf,  bu edimlerin sözleşmeye uygun olarak yerine getirilmemesi v eya güvenceye bağlanmaması  hâlinde borçlar hukuku kuralları uyarınca sözleşmeden   dönebilir.
 
 ---
 

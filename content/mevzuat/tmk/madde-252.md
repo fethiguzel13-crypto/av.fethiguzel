@@ -4,12 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 252
 ---
 
-**Madde 252**
+**3. Paylaştırma isteminin reddi**
 
 ---
 
 Madde 252 - Zina veya hayata kast neden iyle boşanma hâlinde hâkim, kusurlu eşin
-payının hakkaniyete uygun olarak azaltılmasına veya kaldırılmasına karar verebilir.  4. Paylaştırma yö ntemi
+payının hakkaniyete uygun olarak azaltılmasına veya kaldırılmasına karar verebilir.
 
 ---
 

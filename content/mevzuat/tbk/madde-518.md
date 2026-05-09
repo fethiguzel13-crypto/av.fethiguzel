@@ -12,8 +12,6 @@ Madde 518 - Kredi  emri  verilen,  kredi  emrinden  yararlanana  kendiliğinden 
 verir veya kendisine talimat verildiği hâlde kredi emrinden yararlanana başvurmayı ihmal
 ederse, kredi emri veren sorumluluktan kurtulur.
 
-IV. Taraflar arasındaki ilişki
-
 ---
 
 ### Bizim Yorumumuz

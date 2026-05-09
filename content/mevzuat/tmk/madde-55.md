@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 55
 ---
 
-**Madde 55**
+**F. Saklı hükümler**
 
 ---
 

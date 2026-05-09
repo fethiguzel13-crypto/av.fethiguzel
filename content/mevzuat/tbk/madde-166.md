@@ -15,9 +15,6 @@ bundan, ancak durumun veya borcun niteliğinin elverdiği ölçüde yararlanabil
 Alacaklının borçlulardan biriyle yaptığı ibra sözleşmesi, diğer borçluları da ibra edilen
 borçlunun iç ilişkideki borca katılma payı oranında borçtan kurtarır.
 
-III. İç ilişki
-1. Paylaşım
-
 ---
 
 ### Bizim Yorumumuz

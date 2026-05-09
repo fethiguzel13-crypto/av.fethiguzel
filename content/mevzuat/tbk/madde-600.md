@@ -9,7 +9,6 @@ maddeNo: 600
 ---
 
 Madde 600 - Süreli kefalette kefil, sürenin sonunda borcundan kurtulur.
-IV. Süreli olmayan kefalette
 
 ---
 

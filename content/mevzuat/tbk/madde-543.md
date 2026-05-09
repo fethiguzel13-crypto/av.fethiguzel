@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 543
 ---
 
-**a. Bedel ve ücret**
+**5. Komisyoncunun kendisiyle işlem yapması
+a. Bedel ve ücret**
 
 ---
 
@@ -17,8 +18,6 @@ işlem yaptığı andaki değerler esas alınır; komisyoncunun, komisyon işler
 
 Komisyoncu, bu tür bir işlemin yapıldığını aynı gün vekâlet verene bildirmek zorundadır.
 Diğer hâllerde satış hükümleri uygulanır.
-
-b. İşlemi kendisiyle yapmış sayılma
 
 ---
 

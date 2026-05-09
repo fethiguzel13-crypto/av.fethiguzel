@@ -14,10 +14,6 @@ artırmayı yönetenin en yüksek bedeli öneren kişiye ihale etmesiyle kurulmu
 Cebrî  artırma  yoluyla  satış,  artırmayı  yöneten  memurun  en  yüksek  bedeli  öneren
 kişiye ihale etmesiyle kurulmuş olur.
 
-III. Hükümleri
-1. Artırmaya katılanın bağlandığı an
-a. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

@@ -8,7 +8,7 @@ maddeNo: 218
 
 ---
 
-Madde 218 - Edinilmiş   mallara k atılma rejimi, edinilmiş mallar ile eşlerden her birinin  kişisel mallarını kapsar.  II. Edinilmiş mallar
+Madde 218 - Edinilmiş   mallara k atılma rejimi, edinilmiş mallar ile eşlerden her birinin  kişisel mallarını kapsar.
 
 ---
 

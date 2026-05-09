@@ -14,9 +14,6 @@ noktalar üzerinde durulmamış olsa bile, sözleşme kurulmuş sayılır.
 karara bağlar.
 Sözleşmelerin şekline ilişkin hükümler saklıdır.
 
-II. Öneri ve kabul
-1. Süreli öneri
-
 ---
 
 ### Bizim Yorumumuz

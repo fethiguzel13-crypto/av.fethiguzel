@@ -15,9 +15,6 @@ kalkar.
 Aksi kararlaştırılmadıkça veya işin niteliğinden anlaşılmadıkça sona erme, geçmişe
 etkili olmaz.
 
-C. Ortak hükümler
-I. Koşulun gerçekleşmesi
-
 ---
 
 ### Bizim Yorumumuz

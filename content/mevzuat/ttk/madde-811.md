@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 811
 ---
 
-**Madde 811**
+**IV
+- Mücbir sebepler**
 
 ---
 

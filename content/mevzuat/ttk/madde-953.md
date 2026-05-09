@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 953
 ---
 
-**Madde 953**
+**E) Yönetmelik 100**
 
 ---
 

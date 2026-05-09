@@ -8,7 +8,7 @@ maddeNo: 52
 
 ---
 
-Madde 52 - Sona eren tüzel kişinin kişiliği, ehliyeti tasfiye   amacı yla s ınırlı olmak üzere  tasfiye sırasında da devam eder.  II. Malvarlığının tasfiyesi
+Madde 52 - Sona eren tüzel kişinin kişiliği, ehliyeti tasfiye   amacı yla s ınırlı olmak üzere  tasfiye sırasında da devam eder.
 
 ---
 

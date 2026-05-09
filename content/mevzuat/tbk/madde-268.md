@@ -16,9 +16,6 @@ satıcı, peşin satıştaki olağan bedelleri göz önünde tutmak suretiyle al
 tam olarak uymakla yükümlüdür.
 Buna aykırı anlaşmalar, ancak alıcının yararına olduğu ölçüde geçerlidir.
 
-3. Sözleşmenin sona ermesi
-a. Cayma hakkı
-
 ---
 
 ### Bizim Yorumumuz

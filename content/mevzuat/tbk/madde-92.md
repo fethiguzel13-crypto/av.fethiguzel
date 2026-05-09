@@ -27,8 +27,6 @@ durumlarda da uygulanır.
 Borçlu,  belirli  bir  süre  içinde  yerine  getirilmesi  gereken  bir  borcu,  bu  sürenin
 dolmasından önce ifa etmekle yükümlüdür.
 
-3. Tatil günleri
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 548
 ---
 
-**Madde 548**
+**D) Tasfiyeden dönülmesi**
 
 ---
 

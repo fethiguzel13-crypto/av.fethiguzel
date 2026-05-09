@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 371
 ---
 
-**Madde 371**
+**2. İstenmesi**
 
 ---
 

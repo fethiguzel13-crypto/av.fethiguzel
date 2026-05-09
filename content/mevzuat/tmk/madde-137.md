@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 137
 ---
 
-**rapo runu evlendirme memurluğuna vermek zorundadır.  IV. Başvurunun incelenmesi ve reddi**
+**IV. Başvurunun incelenmesi ve reddi**
 
 ---
 
-Madde 137 - Evlendirme memuru, evlenme başvurusunu ve buna eklenmes i gereken  belgeleri inceler. Başvuruda bir noksanlık gör ürse bunu tamamlar veya tamamlattırır.  Başv urun un usulüne uygun olarak yapılmadığı veya evleneceklerden birinin evlenmeye ehil  olmadığı ya da evlenmeye yasal bir engel bulunduğu anlaşılırsa, evlenme   başvurusu reddolunur ve  durum evleneceklere yazıyla hemen bildirilir.  V. Redde itiraz ve yarg ılama   usul ü
+Madde 137 - Evlendirme memuru, evlenme başvurusunu ve buna eklenmes i gereken  belgeleri inceler. Başvuruda bir noksanlık gör ürse bunu tamamlar veya tamamlattırır.  Başv urun un usulüne uygun olarak yapılmadığı veya evleneceklerden birinin evlenmeye ehil  olmadığı ya da evlenmeye yasal bir engel bulunduğu anlaşılırsa, evlenme   başvurusu reddolunur ve  durum evleneceklere yazıyla hemen bildirilir.
 
 ---
 

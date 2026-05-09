@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 589
 ---
 
-**a. Sorumluluğun kapsamı**
+**II. Ortak hükümler
+1. Kefil ile alacaklı arasındaki ilişki
+a. Sorumluluğun kapsamı**
 
 ---
 
@@ -22,8 +24,6 @@ Sözleşmede açıkça kararlaştırılmamışsa kefil, borçlunun sadece kefale
 kurulmasından sonraki borçlarından sorumludur.
 Kefilin, asıl borç ilişkisinin hükümsüz hâle gelmesinin sebep olduğu zarardan ve ceza
 koşulundan sorumlu olacağına ilişkin anlaşmalar kesin olarak hükümsüzdür.
-
-b. Kefilin takibi
 
 ---
 

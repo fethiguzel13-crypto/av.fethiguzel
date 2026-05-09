@@ -17,7 +17,6 @@ Hizmet Sözleşmeleri
 
 BİRİNCİ AYIRIM
 Genel Hizmet Sözleşmesi
-A. Tanımı
 
 ---
 

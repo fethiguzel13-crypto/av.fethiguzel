@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1141
 ---
 
-**Madde 1141**
+**D) Taşıyanın, gemiyi d enize, yola ve yüke elverişli bulundurma yükümlülüğü**
 
 ---
 

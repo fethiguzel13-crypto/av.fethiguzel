@@ -16,8 +16,6 @@ Borç İlişkilerinde Özel Durumlar
 
 BİRİNCİ AYIRIM
 Teselsül
-A. Müteselsil borçluluk
-I. Doğuşu
 
 ---
 

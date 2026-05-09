@@ -17,8 +17,6 @@ alacaklı kısmi ifaya razı olursa, karşı edim de o oranda ifa edilir. Alacak
 razı olmaması veya karşı edimin bölünemeyen nitelikte olması durumunda, tam imkânsızlık
 hükümleri uygulanır.
 
-III. Aşırı ifa güçlüğü
-
 ---
 
 ### Bizim Yorumumuz

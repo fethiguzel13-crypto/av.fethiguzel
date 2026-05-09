@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 934
 ---
 
-**Madde 934**
+**IV
+- Gemi adamları**
 
 ---
 
-Madde 934 - (1)   “Gemi   adamları”;   kaptan,   gemi   zabitleri,   tayfalar   ve   gemide  çalıştırılan   diğer   kişilerdir.  B)   Hükümlerin   uygulama   alanı
+Madde 934 - (1)   “Gemi   adamları”;   kaptan,   gemi   zabitleri,   tayfalar   ve   gemide  çalıştırılan   diğer   kişilerdir.
 
 ---
 

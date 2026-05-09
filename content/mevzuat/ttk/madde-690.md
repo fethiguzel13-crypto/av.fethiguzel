@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 690
 ---
 
-**Madde 690**
+**3. Vadeden sonraki ciro**
 
 ---
 

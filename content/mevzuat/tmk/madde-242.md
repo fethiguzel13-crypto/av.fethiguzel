@@ -8,7 +8,7 @@ maddeNo: 242
 
 ---
 
-Madde 242 - Mal ayrılığı rejiminde eşlerden her biri, yasal sınırlar içerisinde kendi  malvarlığı üzerinde yönetim, yararlanma ve tasarruf   hakl arını korur.  B. Diğer hükümler
+Madde 242 - Mal ayrılığı rejiminde eşlerden her biri, yasal sınırlar içerisinde kendi  malvarlığı üzerinde yönetim, yararlanma ve tasarruf   hakl arını korur.
 
 ---
 

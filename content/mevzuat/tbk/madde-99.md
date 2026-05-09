@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 99
 ---
 
-**I. Ülke parası ile**
+**D. Ödeme
+I. Ülke parası ile**
 
 ---
 
@@ -16,9 +17,6 @@ günündeki rayiç üzerinden Ülke parasıyla da ödenebilir.
 ya  da  bu  anlama  gelen  bir  ifade  de  bulunmadıkça,  borcun  ödeme  gününde  ödenmemesi
 üzerine alacaklı, bu alacağının aynen veya vade ya da fiilî ödeme günündeki rayiç üzerinden
 Ülke parası ile ödenmesini isteyebilir.
-
-II. Mahsup
-1. Kısmen ödemede
 
 ---
 

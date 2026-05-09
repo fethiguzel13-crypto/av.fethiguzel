@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 252
 ---
 
-**Madde 252**
+**3. Geçici yönetim**
 
 ---
 
-Madde 252 - (1)   Bir   ortağın   kısıtlanması   veya   iflasına   karar   verilmesi   hâlinde ,   Türk  Borçlar   Kanununun   641   inci   maddesi   uygulanır.  B)   Ortakların   şirketten   ayrılması  I   -   Özel   durumlar  1.   Ortağın   ölümü
+Madde 252 - (1)   Bir   ortağın   kısıtlanması   veya   iflasına   karar   verilmesi   hâlinde ,   Türk  Borçlar   Kanununun   641   inci   maddesi   uygulanır.
 
 ---
 

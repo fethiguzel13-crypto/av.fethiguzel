@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 328
 ---
 
-**1. Genel olarak**
+**II. Belirsiz süreli kira sözleşmelerinde fesih bildirimi
+1. Genel olarak**
 
 ---
 
@@ -14,8 +15,6 @@ dönemlerine ve fesih bildirim sürelerine uyarak sözleşmeyi feshedebilir. Fes
 hesabında, kira sözleşmesinin başlangıç tarihi esas alınır.
 Sözleşmede veya kanunda belirtilen fesih dönemine veya bildirim süresine uyulmamışsa,
 bildirim bir sonraki fesih dönemi için geçerli olur.
-
-2. Taşınmaz ve taşınır yapı kiralarında
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 71
 ---
 
-**Madde 71**
+**4. İmza**
 
 ---
 
-Madde 71 - (1)   Finansal   tablolar,   tacir   tarafından   tarih   atılarak   imzalanır.  II   -   Ka lemlere   ilişkin   ilkeler  1.   Tamlık   ve   mahsup   yasağı
+Madde 71 - (1)   Finansal   tablolar,   tacir   tarafından   tarih   atılarak   imzalanır.
 
 ---
 

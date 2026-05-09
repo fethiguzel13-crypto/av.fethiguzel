@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 738
 ---
 
-**Madde 738**
+**2. Kazı ve yapılar
+a. Kural**
 
 ---
 
-Madde 738 - Malik, kazı ve yapı yaparken komşu taşınmazlara, onları n topraklarını sarsmak  veya tehlikeye düşürmek ya da üzerlerin deki tesisleri etkilemek suretiyle zarar vermekten kaçınmak  zorundadır.  Komşuluk hukuku k urallarına aykırı yapılar hakkında taşkın yapılara ilişkin hükümler  uygulanır.  b. Özel kurallar
+Madde 738 - Malik, kazı ve yapı yaparken komşu taşınmazlara, onları n topraklarını sarsmak  veya tehlikeye düşürmek ya da üzerlerin deki tesisleri etkilemek suretiyle zarar vermekten kaçınmak  zorundadır.  Komşuluk hukuku k urallarına aykırı yapılar hakkında taşkın yapılara ilişkin hükümler  uygulanır.
 
 ---
 

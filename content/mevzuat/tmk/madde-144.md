@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 144
 ---
 
-**Madde 144**
+**C. Yönetmelik**
 
 ---
 

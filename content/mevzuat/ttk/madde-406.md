@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 406
 ---
 
-**Madde 406**
+**I) Topluluk ilişkileri için özel denetçi denetimi**
 
 ---
 

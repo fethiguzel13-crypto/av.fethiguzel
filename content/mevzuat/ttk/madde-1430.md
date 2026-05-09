@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1430
 ---
 
-**Madde 1430**
+**2. Sigorta ettirenin borç ve yükümlülükleri
+a) Prim ödeme borcu aa) Genel olarak**
 
 ---
 

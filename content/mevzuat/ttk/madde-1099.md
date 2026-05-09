@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1099
 ---
 
-**Madde 1099**
+**2. Tespit edilecek konular**
 
 ---
 
-Madde 1099 - (1)   Yolculuğun   önemli   olayları,   özellikle   kazalar   ve   zararın   önüne  geçilmesi   veya   azaltılması   için   alınan   önlemler   tam   ve   açık   olarak   mahkem ece   veya  konsoloslukça   tespit   edilir.  3.   Usul
+Madde 1099 - (1)   Yolculuğun   önemli   olayları,   özellikle   kazalar   ve   zararın   önüne  geçilmesi   veya   azaltılması   için   alınan   önlemler   tam   ve   açık   olarak   mahkem ece   veya  konsoloslukça   tespit   edilir.
 
 ---
 

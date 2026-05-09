@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 408
 ---
 
-**a. İşverenin temerrüdü hâlinde**
+**3. İşgörme ediminin ifasının engellenmesi hâlinde ücret
+a. İşverenin temerrüdü hâlinde**
 
 ---
 
@@ -13,8 +14,6 @@ veya edimi kabulde temerrüde düşerse, işçiye ücretini ödemekle yükümlü
 edimini daha sonra yerine getirmesini isteyemez. Ancak, işçinin bu engelleme  sebebiyle
 yapmaktan  kurtulduğu giderler ile başka bir iş yaparak kazandığı veya kazanmaktan bilerek
 kaçındığı yararlar ücretinden indirilir.
-
-b. İşçinin çalışmayı durdurması hâlinde
 
 ---
 

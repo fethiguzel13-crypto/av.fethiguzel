@@ -8,7 +8,7 @@ maddeNo: 758
 
 ---
 
-Madde 758 - (1)   Poliçeyi   eline   geçiren   kişi   bilindiği   takdirde,   mahkeme,   dilekçe  sahibine   iade   davası   açması   için   uygun   bir   süre   verir.  (2)   Dilekçe   sahibi   verilen   süre   içinde   davayı   açmazsa,   mahkeme,   muhatap   hakkındaki  ödeme   yasağını   kaldırır.  III   -   Poliçeyi   eline   geçirenin   bilinmemesi  1.   Dilekçe   sahibinin   yükümlülükleri
+Madde 758 - (1)   Poliçeyi   eline   geçiren   kişi   bilindiği   takdirde,   mahkeme,   dilekçe  sahibine   iade   davası   açması   için   uygun   bir   süre   verir.  (2)   Dilekçe   sahibi   verilen   süre   içinde   davayı   açmazsa,   mahkeme,   muhatap   hakkındaki  ödeme   yasağını   kaldırır.
 
 ---
 

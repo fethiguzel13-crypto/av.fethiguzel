@@ -16,8 +16,6 @@ sayılır.
 Gelir borçlusunun veya üçüncü bir kişinin ömrüyle sınırlı olarak bağlanmış olan gelir,
 aksi kararlaştırılmamışsa gelir alacaklısının mirasçılarına geçer.
 
-B. Şekli
-
 ---
 
 ### Bizim Yorumumuz

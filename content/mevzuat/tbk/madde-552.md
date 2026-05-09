@@ -23,8 +23,6 @@ hizmetlileri, kendilerine yazıyla yetki verilmiş olmadıkça, işletme dışı
 atanmışsa, işletme içinde satış bedellerini isteyip alamazlar. Bu kişiler, satış bedellerini almaya
 yetkili bulundukları hâllerde, faturaları kapatmaya veya makbuz vermeye de yetkilidirler.
 
-D. Rekabet yasağı
-
 ---
 
 ### Bizim Yorumumuz

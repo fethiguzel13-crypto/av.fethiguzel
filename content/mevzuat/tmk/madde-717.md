@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 717
 ---
 
-**Madde 717**
+**C. Taşınmaz mülkiyetinin kayb ı**
 
 ---
 

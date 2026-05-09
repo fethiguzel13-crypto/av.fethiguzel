@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 798
 ---
 
-**Madde 798**
+**3. Takas odası**
 
 ---
 
-Madde 798 - (1)   Çekin   bir   takas   odasına   ibrazı   ödeme   iç in   ibraz   yerine   geçer.  IV   -   Çekten   cayma  1.   Genel   olarak
+Madde 798 - (1)   Çekin   bir   takas   odasına   ibrazı   ödeme   iç in   ibraz   yerine   geçer.
 
 ---
 

@@ -13,7 +13,6 @@ Madde 204 - Mirasın paylaşılması ve rehinli taşınmazların devri konusunda
 
 ÜÇÜNCÜ AYIRIM
 Sözleşmenin Devri ve Sözleşmeye Katılma
-A. Sözleşmenin devri
 
 ---
 

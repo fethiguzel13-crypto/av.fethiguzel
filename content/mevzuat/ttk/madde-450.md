@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 450
 ---
 
-**Madde 450**
+**III
+- Kararın etkisi**
 
 ---
 
-Madde 450 - (1)   Genel   k urul   kararının   iptaline   veya   butlanına   ilişkin   mahkeme  kararı,   kesinleştikten   sonra   bütün   pay   sahipleri   hakkında   hüküm   ifade   eder.   Yönetim   kurulu  bu   kararın   bir   suretini   derhâl   ticaret   siciline   tescil   ettirmek   ve   internet   sitesine   koymak  zorundadır.  IV   -   Kötüniyetle   iptal   ve   butlan   davası   açanların   sorumluluğu
+Madde 450 - (1)   Genel   k urul   kararının   iptaline   veya   butlanına   ilişkin   mahkeme  kararı,   kesinleştikten   sonra   bütün   pay   sahipleri   hakkında   hüküm   ifade   eder.   Yönetim   kurulu  bu   kararın   bir   suretini   derhâl   ticaret   siciline   tescil   ettirmek   ve   internet   sitesine   koymak  zorundadır.
 
 ---
 

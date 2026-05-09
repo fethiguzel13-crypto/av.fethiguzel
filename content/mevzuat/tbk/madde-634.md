@@ -20,8 +20,6 @@ kendisine bir güvence verebilirler.
 mali işlerde uzman bir kişiye hesaplattırılır. Tarafların uzman kişi üzerinde anlaşamamaları
 durumunda bu kişi, hâkim tarafından atanır.
 
-c. Malvarlığının yetersizliği
-
 ---
 
 ### Bizim Yorumumuz

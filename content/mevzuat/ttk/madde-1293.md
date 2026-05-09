@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1293
 ---
 
-**Madde 1293**
+**E) Şekil şartı yokluğu**
 
 ---
 
-Madde 1293 - (1)   Çatma   sonucu   uğranılan   zararın   tazmini   için   açılacak   davalar  öncesinde   bir   ihtar   düzenlenmesine   veya   başkaca   bir   şekil   şartının   yerine   getirilmesine   gerek  yo ktur.  F)   Karine   yokluğu
+Madde 1293 - (1)   Çatma   sonucu   uğranılan   zararın   tazmini   için   açılacak   davalar  öncesinde   bir   ihtar   düzenlenmesine   veya   başkaca   bir   şekil   şartının   yerine   getirilmesine   gerek  yo ktur.
 
 ---
 

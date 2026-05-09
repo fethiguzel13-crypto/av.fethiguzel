@@ -4,12 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 211
 ---
 
-**Madde 211**
+**3. Eski rejime dönme**
 
 ---
 
 Madde 211 - Alacaklı tatmin edildiği takdirde eşlerden birinin istemi üzerine hâkim,   mal  o rtaklığının yeniden kurulmasına karar verebilir.
-Eşler, mal rejimi sözleşmesiyle edinilmiş mallara katılma r ejimini kabul edebilirler.  III. Önceki rejimin tasfiyesi
+Eşler, mal rejimi sözleşmesiyle edinilmiş mallara katılma r ejimini kabul edebilirler.
 
 ---
 

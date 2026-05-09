@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 791
 ---
 
-**Madde 791**
+**III. Değişiklikler
+1. İrtifak hakkının ilişkin olduğu yerin değiştirilmesi**
 
 ---
 
-Madde 791 - İrtifak   hakkı   yüklü   taşınmazın   yalnı z   belli   bir   kısmının   kullanılması  koşuluyla kurulmuşsa, bu taşınmazın maliki, menfaatini i spat etmek ve giderleri üstlenmek  kaydıyla; irtifakın, hakkın kullanılmasını güçleştirmeyecek biçimde ta şınmazın başka bir yerine  naklini isteyebilir.  İrtifak hakkını n kullanılacağı yer tapu kütüğünde belirtilmiş olsa bile yüklü taşınmaz  maliki bu yetkiyi   kullanabilir.  Mecraların bir yerden başka bir yere naklinde komşuluk hukuku kuralları da göz önünde  tutu lur.  2. Bölünme  a. Yararlanan taşınmazın bölünmesi
+Madde 791 - İrtifak   hakkı   yüklü   taşınmazın   yalnı z   belli   bir   kısmının   kullanılması  koşuluyla kurulmuşsa, bu taşınmazın maliki, menfaatini i spat etmek ve giderleri üstlenmek  kaydıyla; irtifakın, hakkın kullanılmasını güçleştirmeyecek biçimde ta şınmazın başka bir yerine  naklini isteyebilir.  İrtifak hakkını n kullanılacağı yer tapu kütüğünde belirtilmiş olsa bile yüklü taşınmaz  maliki bu yetkiyi   kullanabilir.  Mecraların bir yerden başka bir yere naklinde komşuluk hukuku kuralları da göz önünde  tutu lur.
 
 ---
 

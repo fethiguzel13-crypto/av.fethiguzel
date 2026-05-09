@@ -14,7 +14,6 @@ sözleşmenin süresinden önce sona ermesi yüzünden uğradığı zararın gid
 
 ÜÇÜNCÜ AYIRIM
 Borç İlişkilerinin Üçüncü Kişilere Etkisi
-A. Alacaklıya halef olma
 
 ---
 

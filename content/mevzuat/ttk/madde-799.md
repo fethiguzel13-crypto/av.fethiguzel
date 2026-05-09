@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 799
 ---
 
-**Madde 799**
+**IV
+- Çekten cayma
+1. Genel olarak**
 
 ---
 
-Madde 799 - (1)   Çekten   cayma   ancak   ibraz   süresi   geçtikten   sonra   hüküm   ifade   eder.  (2)   Çekten   cayılmamışsa,   muhatap,   ibraz   süresinin   geçmesinden   sonra   da   çeki  ödeyebilir.  2.   Özel   hâller
+Madde 799 - (1)   Çekten   cayma   ancak   ibraz   süresi   geçtikten   sonra   hüküm   ifade   eder.  (2)   Çekten   cayılmamışsa,   muhatap,   ibraz   süresinin   geçmesinden   sonra   da   çeki  ödeyebilir.
 
 ---
 

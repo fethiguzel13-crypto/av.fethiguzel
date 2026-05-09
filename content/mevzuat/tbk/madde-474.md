@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 474
 ---
 
-**a. Ayıbın belirlenmesi**
+**4. Ayıp sebebiyle sorumluluk
+a. Ayıbın belirlenmesi**
 
 ---
 
@@ -13,8 +14,6 @@ bulur bulmaz eseri gözden geçirmek ve ayıpları varsa, bunu uygun bir süre i
 bildirmek zorundadır.
 Taraflardan her biri, giderini karşılayarak, eserin bilirkişi tarafından gözden geçirilmesini
 ve sonucun bir raporla belirlenmesini isteyebilir.
-
-b. İşsahibinin seçimlik hakları
 
 ---
 

@@ -11,8 +11,6 @@ maddeNo: 184
 Madde 184 - Alacağın devrinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır.
 Alacağın devri sözü verme, şekle bağlı değildir.
 
-II. Yasal veya yargısal devir ve etkisi
-
 ---
 
 ### Bizim Yorumumuz

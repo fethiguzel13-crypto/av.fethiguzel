@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 805
 ---
 
-**Madde 805**
+**c. Faizler**
 
 ---
 
-Madde 805 - İntifa hakkına konu   olan sermayenin faizleri ve diğer dönemsel gelirleri, daha  geç muaccel olsalar bile, inti fa hakkının başladığı tarihten sona erdiği tarihe kadar intifa hakkı  sahibine ait olur.  d. Hakkın kulla nılmasının devri
+Madde 805 - İntifa hakkına konu   olan sermayenin faizleri ve diğer dönemsel gelirleri, daha  geç muaccel olsalar bile, inti fa hakkının başladığı tarihten sona erdiği tarihe kadar intifa hakkı  sahibine ait olur.
 
 ---
 

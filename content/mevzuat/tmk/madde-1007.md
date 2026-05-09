@@ -8,7 +8,7 @@ maddeNo: 1007
 
 ---
 
-Madde 1007 - Tapu sicilinin   tutulmasından doğan bütün zararlardan Devlet sorumludur.  Devlet, zararın doğmasında kusuru bulunan gör evlilere rücu eder.  Devletin sorumluluğuna ilişkin davalar, t apu sicilinin bulunduğu yer mahkemesinde  görülür.  B. İşlemler  I. İşlemlerin konusu  1. Te scil
+Madde 1007 - Tapu sicilinin   tutulmasından doğan bütün zararlardan Devlet sorumludur.  Devlet, zararın doğmasında kusuru bulunan gör evlilere rücu eder.  Devletin sorumluluğuna ilişkin davalar, t apu sicilinin bulunduğu yer mahkemesinde  görülür.
 
 ---
 

@@ -15,9 +15,6 @@ olmasından kaynaklanan zenginleşmeler geri istenemez.
 Borç olmadığı hâlde ödenmiş olan edimin geri istenmesine ilişkin diğer kanun hükümleri
 saklıdır.
 
-B. Geri vermenin kapsamı
-I. Zenginleşenin yükümlülüğü
-
 ---
 
 ### Bizim Yorumumuz

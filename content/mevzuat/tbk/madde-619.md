@@ -17,7 +17,6 @@ yürütülmekte olan hacze katılabilir.
 
 ONSEKİZİNCİ BÖLÜM
 Adi Ortaklık Sözleşmesi
-A. Tanımı
 
 ---
 

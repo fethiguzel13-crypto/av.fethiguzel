@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 572
 ---
 
-**Madde 572**
+**III
+- Rekabet yasağı**
 
 ---
 

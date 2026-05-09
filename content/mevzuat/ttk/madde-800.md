@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 800
 ---
 
-**Madde 800**
+**2. Özel hâller**
 
 ---
 
-Madde 800 - (1 )   Çekin   tedavüle   çıkarılmasından   sonra,   düzenleyenin   ölümü,   medenî  haklarını   kullanma   ehliyetini   kaybetmesi   veya   iflası   çekin   geçerliliğini   etkilemez.  V   -   Ciroların   incelenmesi
+Madde 800 - (1 )   Çekin   tedavüle   çıkarılmasından   sonra,   düzenleyenin   ölümü,   medenî  haklarını   kullanma   ehliyetini   kaybetmesi   veya   iflası   çekin   geçerliliğini   etkilemez.
 
 ---
 

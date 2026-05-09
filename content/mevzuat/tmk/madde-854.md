@@ -8,7 +8,7 @@ maddeNo: 854
 
 ---
 
-Madde 854 - Rehin kurulurken, konusu olan taşınmazın belirtilmesi gerekir.  Bölünen taşınmazın par selleri tapu kütüğüne ayrı ayrı kaydedilmedikçe rehne konu ola maz.  b. Taşınmaz birden çok ise
+Madde 854 - Rehin kurulurken, konusu olan taşınmazın belirtilmesi gerekir.  Bölünen taşınmazın par selleri tapu kütüğüne ayrı ayrı kaydedilmedikçe rehne konu ola maz.
 
 ---
 

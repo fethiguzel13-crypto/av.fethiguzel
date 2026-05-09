@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 264
 ---
 
-**Madde 264**
+**3. Ortaklık malları ile meslek veya sanat icrası**
 
 ---
 
-Madde 264 - Eşlerden biri, diğerinin rızasıyla   ortak lık mallarını kullanarak, tek başına bir  meslek veya sanat icra ederse, bu meslek veya sanata ilişkin bütün   hukukî işlemleri yapabilir.  4. Mirasın kabulü veya reddi
+Madde 264 - Eşlerden biri, diğerinin rızasıyla   ortak lık mallarını kullanarak, tek başına bir  meslek veya sanat icra ederse, bu meslek veya sanata ilişkin bütün   hukukî işlemleri yapabilir.
 
 ---
 

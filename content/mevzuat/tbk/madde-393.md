@@ -16,8 +16,6 @@ olmayan süreyle işgörmeyi ve işverenin de ona zamana veya yapılan işe gör
 Genel hizmet sözleşmesine ilişkin hükümler, kıyas yoluyla çıraklık sözleşmesine de
 uygulanır; özel kanun hükümleri saklıdır.
 
-B. Kurulması
-
 ---
 
 ### Bizim Yorumumuz

@@ -12,8 +12,6 @@ Madde 22 - Sözleşmenin yazılmamış sayılan genel işlem koşulları dışı
 geçerliliğini  korur.  Bu  durumda  düzenleyen,  yazılmamış  sayılan  koşullar  olmasaydı diğer
 hükümlerle sözleşmeyi yapmayacak olduğunu ileri süremez.
 
-III. Yorumlanması
-
 ---
 
 ### Bizim Yorumumuz

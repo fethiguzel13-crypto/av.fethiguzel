@@ -13,8 +13,6 @@ uygulanır.
 
 DÖRDÜNCÜ AYIRIM
 Bazı Satış Türleri
-A. Örnek üzerine satış
-I. Tanımı
 
 ---
 

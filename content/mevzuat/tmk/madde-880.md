@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 880
 ---
 
-**Madde 880**
+**X. Alac aklının temsili**
 
 ---
 

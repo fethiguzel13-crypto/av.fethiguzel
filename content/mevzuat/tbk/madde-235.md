@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 235
 ---
 
-**1. Satıcının dönme hakkı**
+**IV. Alıcının temerrüdü
+1. Satıcının dönme hakkı**
 
 ---
 
@@ -15,8 +16,6 @@ Bu hakkını kullanmak isteyen satıcı, durumu gecikmeksizin alıcıya bildirme
 Satılanın zilyetliği satış bedeli ödenmeden alıcıya devredilmişse, alıcının temerrüdü
 sebebiyle  satıcının  dönme  hakkını  kullanarak  satılanı  geri  alması,  bu  hakkın  sözleşmede
 açıkça saklı tutulmasına bağlıdır.
-
-2. Zararın hesaplanması ve giderimi
 
 ---
 

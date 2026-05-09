@@ -16,9 +16,6 @@ Satılan alıcıya yüklenebilen bir sebep yüzünden yok olmuşsa veya alıcı 
 devretmişse ya da biçimini değiştirmişse alıcı, ancak değerindeki eksiklik karşılığının satış
 bedelinden indirilmesini isteyebilir.
 
-8. Dönmenin sonuçları
-a. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

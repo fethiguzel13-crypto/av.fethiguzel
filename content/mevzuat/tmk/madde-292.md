@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 292
 ---
 
-**Madde 292**
+**E. Sonradan evlenme
+I. Koşulu**
 
 ---
 
-Madde 292 - Evlilik dışında doğan   çocu k, ana   ve babasının birbiriyle evlenmesi h âlinde  kendiliğinden evlilik içinde   doğan çocuklara ilişkin hükümlere tâbi olur.  II. Bildirim
+Madde 292 - Evlilik dışında doğan   çocu k, ana   ve babasının birbiriyle evlenmesi h âlinde  kendiliğinden evlilik içinde   doğan çocuklara ilişkin hükümlere tâbi olur.
 
 ---
 

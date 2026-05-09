@@ -13,9 +13,6 @@ bilgi alma, defter ve kayıtlarını inceleme, bunlardan örnek alma ve mali dur
 özet çıkarma hakkı vardır.
 Aksine sözleşmeler kesin olarak hükümsüzdür.
 
-VIII. Ortaklar arasındaki ve ortaklık yapısındaki değişiklikler
-1. Yeni ortak alımı ve alt katılım
-
 ---
 
 ### Bizim Yorumumuz

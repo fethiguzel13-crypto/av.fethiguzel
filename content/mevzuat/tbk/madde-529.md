@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 529
 ---
 
-**I. İşin işsahibinin menfaatine yapılması hâlinde**
+**B. İşsahibinin hak ve borçları
+I. İşin işsahibinin menfaatine yapılması hâlinde**
 
 ---
 
@@ -15,8 +16,6 @@ yükümlüdür. Bu hüküm, umulan sonuç gerçekleşmemiş olsa bile, işi yapa
 göstermiş olan işgören hakkında da uygulanır.
 İşgören,  yapmış  olduğu  giderleri  alamadığı  takdirde,  sebepsiz  zenginleşme
 hükümlerine göre ayırıp alma hakkına sahiptir.
-
-II. İşin işgörenin menfaatine yapılması hâlinde
 
 ---
 

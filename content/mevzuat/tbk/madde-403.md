@@ -17,8 +17,6 @@ atadığı bilirkişiye bilgi vermek ve bilginin dayanağını oluşturan işlet
 belgeleri incelemesine sunmak; kârdan bir pay verilmesi kararlaştırılmışsa, işveren işçiye,
 istemi üzerine ayrıca yıl sonu kâr zarar cetvelini vermek zorundadır.
 
-d. Aracılık ücreti
-
 ---
 
 ### Bizim Yorumumuz

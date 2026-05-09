@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 67
 ---
 
-**a. Giderim yükümlülüğü**
+**2. Hayvan bulunduranın sorumluluğu
+a. Giderim yükümlülüğü**
 
 ---
 
@@ -14,8 +15,6 @@ Hayvan  bulunduran, bu zararın doğmasını engellemek için gerekli özeni gö
 ispat ederse sorumlu olmaz.
 Hayvan,  bir  başkası  veya  bir  başkasına  ait  hayvan  tarafından  ürkütülmüş  olursa,
 hayvanı bulunduranın, bu kişilere rücu hakkı saklıdır.
-
-b. Alıkoyma hakkı
 
 ---
 

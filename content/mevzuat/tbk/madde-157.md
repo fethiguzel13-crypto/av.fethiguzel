@@ -16,8 +16,6 @@ yeniden işlemeye başlar.
 Zamanaşımı, iflas masasına başvurma sebebiyle kesilmişse, iflasa ilişkin hükümlere
 göre alacağın yeniden istenmesi imkânının doğumundan itibaren yeniden işlemeye başlar.
 
-E. Davanın reddinde ek süre
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 847
 ---
 
-**Madde 847**
+**3. Zamanaşımı**
 
 ---
 
-Madde 847 - Taşınmaz yükü   zamanaşımına tâbi değildir.  Muaccel olan edimler, borçlunun k işisel borcu hâline geldiği tarihten başlayarak zamanaşımına  tâbi olur.  C. Hükümleri  I. A lacaklının hakkının niteliği
+Madde 847 - Taşınmaz yükü   zamanaşımına tâbi değildir.  Muaccel olan edimler, borçlunun k işisel borcu hâline geldiği tarihten başlayarak zamanaşımına  tâbi olur.
 
 ---
 

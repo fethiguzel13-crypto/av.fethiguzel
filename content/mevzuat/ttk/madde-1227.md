@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1227
 ---
 
-**Madde 1227**
+**C) Birden çok yolculuğun özellikleri**
 
 ---
 

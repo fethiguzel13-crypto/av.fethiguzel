@@ -16,8 +16,6 @@ arasındaki ilişkiye özgü haklar, sadece alacağı devreden ile devralan aras
 
 ONDÖRDÜNCÜ BÖLÜM
 Saklama Sözleşmeleri
-A. Genel saklama sözleşmesi
-I. Tanımı
 
 ---
 

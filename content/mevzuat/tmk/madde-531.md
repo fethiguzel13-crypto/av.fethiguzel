@@ -8,7 +8,7 @@ maddeNo: 531
 
 ---
 
-Madde 531 - V asiyet, resmî şekilde veya mirasbırakanın el yazısı ile ya da sözlü olarak  yapıla bilir.  2. Resmî vasiyetnam e  a. Düzenlenmesi
+Madde 531 - V asiyet, resmî şekilde veya mirasbırakanın el yazısı ile ya da sözlü olarak  yapıla bilir.
 
 ---
 

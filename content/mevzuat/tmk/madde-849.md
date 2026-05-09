@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 849
 ---
 
-**taşınmaz bu borcun güvencesi olmaktan çıkar.  II. Yükün niteliği**
+**II. Yükün niteliği**
 
 ---
 

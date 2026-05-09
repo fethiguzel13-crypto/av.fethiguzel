@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 463
 ---
 
-**1. İşin yapılması**
+**III. İşçinin özel borçları
+1. İşin yapılması**
 
 ---
 
@@ -13,8 +14,6 @@ Madde 463 - İşçi, işe zamanında başlamak, işi kararlaştırılan zamanda 
 
 İş, işçinin kusuruyla ayıplı olarak görülmüşse işçi, giderilmesi mümkün olan ayıpları,
 masrafı kendisine ait olmak üzere gidermek zorundadır.
-
-2. Malzeme ve iş araçları
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 150
 ---
 
-**Madde 150**
+**3. Aldatma**
 
 ---
 

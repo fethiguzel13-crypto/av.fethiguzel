@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 215
 ---
 
-**Madde 215**
+**F. Bir eşin mallarının diğeri tarafından yönetimi**
 
 ---
 
-Madde 215 - Eş ler den birinin açık veya örtülü olarak mallarının yönetimini diğer eşe  bırakması hâlinde, aksi kararlaştırıl mış olmadıkça vekâlet hükümleri uygulanır.  G. Envanter
+Madde 215 - Eş ler den birinin açık veya örtülü olarak mallarının yönetimini diğer eşe  bırakması hâlinde, aksi kararlaştırıl mış olmadıkça vekâlet hükümleri uygulanır.
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 787
 ---
 
-**Madde 787**
+**V
+- Adresli ve yerleşme yerli çek**
 
 ---
 

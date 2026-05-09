@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 380
 ---
 
-**I. Ödünç alanın kullanım hakkı**
+**B. Hükümleri
+I. Ödünç alanın kullanım hakkı**
 
 ---
 
@@ -14,8 +15,6 @@ sözleşmede hüküm yoksa niteliğine veya özgülendiği amaca göre kullanabi
 Ödünç alan, bu hükümlere aykırı davrandığı durumlarda, beklenmedik hâllerden doğan
 zararlardan da sorumludur. Ancak, bu hükümlere uymuş olsaydı bile zararın doğacağını ispat
 ederse sorumluluktan kurtulur.
-
-II. Bakım ve koruma giderleri
 
 ---
 

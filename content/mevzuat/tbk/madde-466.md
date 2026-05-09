@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 466
 ---
 
-**a. Ödenmesi**
+**2. Ücret
+a. Ödenmesi**
 
 ---
 
@@ -13,8 +14,6 @@ takdirde, onbeş günde bir veya işçinin rızasıyla ayda bir; aralıklı olar
 ürünün her tesliminde ödenir.
 Her  ücret  ödenmesinde  işçiye,  bir  hesap  özeti  verilir.  Hesap  özetinde,  varsa
 kesintilerin miktarı ve sebebi de gösterilir.
-
-b. Çalışmanın engellenmesi hâlinde
 
 ---
 

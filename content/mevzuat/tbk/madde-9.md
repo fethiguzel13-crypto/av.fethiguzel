@@ -17,8 +17,6 @@ aşamaz.
 Ödül  sözü  veren,  giderlerinin  ödenmesini  isteyenlerin  beklenen sonucu
 gerçekleştiremeyeceklerini ispat ederse, giderleri ödeme yükümlülüğünden kurtulur.
 
-7. Önerinin ve kabulün geri alınması
-
 ---
 
 ### Bizim Yorumumuz

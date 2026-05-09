@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 154
 ---
 
-**Madde 154**
+**c) İlan**
 
 ---
 
-Madde 154 - (1)   Birleşme   kararı,   Türkiye   Ticaret   Sicili   Gazetesinde   ilan   olunur.  7.   Sermaye   şirketlerinin   kolaylaştırılmış   şekilde   birleşmesi  a)   Uygulama   alanı
+Madde 154 - (1)   Birleşme   kararı,   Türkiye   Ticaret   Sicili   Gazetesinde   ilan   olunur.
 
 ---
 

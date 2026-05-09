@@ -22,9 +22,6 @@ Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklı
 verilmiş olsa bile, zarar görenler, bu işletmenin faaliyetinin sebep olduğu zararlarının uygun
 bir bedelle denkleştirilmesini isteyebilirler.
 
-C. Zamanaşımı
-I. Kural
-
 ---
 
 ### Bizim Yorumumuz

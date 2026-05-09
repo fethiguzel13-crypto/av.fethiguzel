@@ -14,8 +14,6 @@ göre belirlenir.
 Sözleşme ile kararlaştırılacak yıllık faiz oranı, birinci fıkra uyarınca belirlenen yıllık
 faiz oranının yüzde elli fazlasını aşamaz.
 
-B. İfa yeri
-
 ---
 
 ### Bizim Yorumumuz

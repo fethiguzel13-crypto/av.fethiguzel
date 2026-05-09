@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 35
 ---
 
-**Madde 35**
+**4. Hükmü**
 
 ---
 

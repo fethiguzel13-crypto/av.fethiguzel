@@ -4,7 +4,9 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 18
 ---
 
-**Madde 18**
+**C) Tacir olmanın hükümleri
+I
+- Genel olarak**
 
 ---
 

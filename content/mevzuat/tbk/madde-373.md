@@ -16,8 +16,6 @@ vermekten veya tazminat ödemekten kurtulabilir.
 Kiracı,  kendisinin  yaptığı  masraflardan  veya  emeğinden  doğan  değer  artışı için
 tazminat isteyebilir.
 
-3. Ürün ve yetişme giderleri
-
 ---
 
 ### Bizim Yorumumuz

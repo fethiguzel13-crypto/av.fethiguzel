@@ -15,8 +15,6 @@ belirleme, diğerindeki payı da ifade eder.
 Bir ortağın zarara katılmaksızın yalnız kazanca katılacağına ilişkin anlaşma, ancak
 katılma payı olarak yalnızca emeğini koymuş olan ortak için geçerlidir.
 
-III. Ortaklığın kararları
-
 ---
 
 ### Bizim Yorumumuz

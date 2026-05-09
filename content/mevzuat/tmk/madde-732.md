@@ -4,11 +4,13 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 732
 ---
 
-**Madde 732**
+**II. Devir hakkının kısıtlamaları
+1. Yasal önalım ha kkı
+a. Önalım hakkı sahibi**
 
 ---
 
-Madde 732 - Paylı mülkiyette bir paydaşın taşınmaz üzerindeki payını tamamen veya  kısmen üçüncü kişiye satması hâlinde, diğer paydaşlar öna lım hakkını kullanabilirler.  b. Kullanma yasağı, feragat ve hak düşürücü süre
+Madde 732 - Paylı mülkiyette bir paydaşın taşınmaz üzerindeki payını tamamen veya  kısmen üçüncü kişiye satması hâlinde, diğer paydaşlar öna lım hakkını kullanabilirler.
 
 ---
 

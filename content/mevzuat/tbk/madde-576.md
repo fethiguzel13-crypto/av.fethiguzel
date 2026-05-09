@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 576
 ---
 
-**1. Koşulları ve kapsamı**
+**D. Konaklama yeri, garaj, otopark ve benzeri yerleri işletenlere bırakma
+I. Konaklama yeri işletenlerin sorumluluğu
+1. Koşulları ve kapsamı**
 
 ---
 
@@ -15,8 +17,6 @@ hizmetinde  bulunan  kimseye  yükletilebilecek  kusurdan, mücbir  sebepten  ya
 niteliğinden doğduğunu ispat etmekle, bu sorumluluktan kurtulurlar.
 Bu sorumluluk, işletenlere veya çalışanlarına bir kusur yüklenmedikçe, konaklayanlardan
 her biri için, günlük konaklama ücretinin üç katını aşamaz.
-
-2. Kıymetli eşya
 
 ---
 

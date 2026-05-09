@@ -8,7 +8,7 @@ maddeNo: 914
 
 ---
 
-Madde 914 - İpotekl i borç senedi ve irat senedi nama veya hamile yazılı düzenlenebilir.  Bu senetler, yüklü taşınmazın mali ki adına da düzenlenebilir.  b. Ortak temsilci
+Madde 914 - İpotekl i borç senedi ve irat senedi nama veya hamile yazılı düzenlenebilir.  Bu senetler, yüklü taşınmazın mali ki adına da düzenlenebilir.
 
 ---
 

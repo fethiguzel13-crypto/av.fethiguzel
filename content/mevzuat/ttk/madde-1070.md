@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1070
 ---
 
-**Madde 1070**
+**c) Temsil yetkisi aa) Kapsamı**
 
 ---
 

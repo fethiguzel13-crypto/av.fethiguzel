@@ -8,7 +8,7 @@ maddeNo: 480
 
 ---
 
-Madde 480 - Vasi lik görevi, uzatılmadığı takdirde, sür enin d olmasıyla sona erer.  II. Engelin veya kaçınma sebebinin ortaya çıkması
+Madde 480 - Vasi lik görevi, uzatılmadığı takdirde, sür enin d olmasıyla sona erer.
 
 ---
 

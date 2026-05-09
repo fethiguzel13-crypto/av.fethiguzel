@@ -8,7 +8,7 @@ maddeNo: 1095
 
 ---
 
-Madde 1095 - (1)   Kaptan,   bir   tehlikenin   varlığı   hâlinde,   gemi   zabitlerine   danış maya  gerek   görse   bile,   onların   verdikleri   kararla   bağlı   olmayıp   alacağı   önlemlerden   daima   kendisi  sorumlu   olur.  VI -   Gemi   jurnali  1.   Tutma   yükümlülüğü
+Madde 1095 - (1)   Kaptan,   bir   tehlikenin   varlığı   hâlinde,   gemi   zabitlerine   danış maya  gerek   görse   bile,   onların   verdikleri   kararla   bağlı   olmayıp   alacağı   önlemlerden   daima   kendisi  sorumlu   olur.
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 891
 ---
 
-**Madde 891**
+**II. Alacağın devri**
 
 ---
 
-Madde 891 - İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması, d evrin  tapu kütüğüne tescil edilmesine bağlı değildir.  D. Kanu nî ipotek  I. Tescile tâbi olmayan kanunî ipotek
+Madde 891 - İpotekle güvence altına alınmış bir alacağın devrinin geçerli olması, d evrin  tapu kütüğüne tescil edilmesine bağlı değildir.
 
 ---
 

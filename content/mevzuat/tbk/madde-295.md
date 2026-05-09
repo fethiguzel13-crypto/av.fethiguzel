@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 295
 ---
 
-**I. Bağışlamanın geri alınması**
+**E. Bağışlamanın ortadan kalkması
+I. Bağışlamanın geri alınması**
 
 ---
 
@@ -16,8 +17,6 @@ tarihindeki zenginleşmesi ölçüsünde, bağışlama konusunun geri verilmesin
 yükümlülüklerine önemli ölçüde aykırı davranmışsa.
 3. Bağışlanan, yüklemeli bağışlamada haklı bir sebep olmaksızın yüklemeyi yerine
 getirmemişse.
-
-II. Bağışlama sözü vermenin geri alınması ve ifadan kaçınma
 
 ---
 

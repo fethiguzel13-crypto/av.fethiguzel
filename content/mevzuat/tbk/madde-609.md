@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 609
 ---
 
-**I. Hakkın kullanılması**
+**C. Gelir alacaklısının hakları
+I. Hakkın kullanılması**
 
 ---
 
@@ -16,8 +17,6 @@ sayılır.
 Gelir  borçlusu  iflas  ederse,  gelir  alacaklısı,  gelir  borçlusunun  yükümlü  olduğu
 dönemsel gelirin elde edilebilmesi için ilgili sosyal güvenlik kurumunca ödenmesi gereken
 anaparaya denk düşen bir parayı iflas masasına kaydettirme hakkını elde eder.
-
-II. Devredilebilmesi
 
 ---
 

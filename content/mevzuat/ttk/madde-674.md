@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 674
 ---
 
-**Madde 674**
+**2. Adresli ve yerleşim yerli poliçe**
 
 ---
 
-Madde 674 - (1)   Poliçe,   bir   üçüncü   kişinin   nezdinde,   muhatabın   yerleşim   yerinde  veya   başka   bir   yerde   ödenmek   üzere   düzenlenebilir.  3.   Faiz   şartı
+Madde 674 - (1)   Poliçe,   bir   üçüncü   kişinin   nezdinde,   muhatabın   yerleşim   yerinde  veya   başka   bir   yerde   ödenmek   üzere   düzenlenebilir.
 
 ---
 

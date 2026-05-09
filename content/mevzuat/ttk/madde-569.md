@@ -8,7 +8,7 @@ maddeNo: 569
 
 ---
 
-Madde 569 - (1)   Kuruluşa,   anonim   şirketlerin   kuruluşuna   ilişkin   hükümler   uygulanır.  D)   Yönetim  I   -   Uygulanacak   hükümler
+Madde 569 - (1)   Kuruluşa,   anonim   şirketlerin   kuruluşuna   ilişkin   hükümler   uygulanır.
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 910
 ---
 
-**Madde 910**
+**2. Senedin dayanağı borç ile ilişkisi**
 
 ---
 
-Madde 910 - İpotekli   bor ç   senedinin   veya   irat   senedinin   düzenlenmesiyle   birlikte  dayanağı olan borç ilişkisi yenileme yoluyla so na erer.  Bunun aksine yapılan sözleşme, sadece tarafları ve iy iniyetli olmayan üçüncü kişileri etkiler.  3. Tescil ve rehin senedi  a. Rehin senedini düz enleme gereği
+Madde 910 - İpotekli   bor ç   senedinin   veya   irat   senedinin   düzenlenmesiyle   birlikte  dayanağı olan borç ilişkisi yenileme yoluyla so na erer.  Bunun aksine yapılan sözleşme, sadece tarafları ve iy iniyetli olmayan üçüncü kişileri etkiler.
 
 ---
 

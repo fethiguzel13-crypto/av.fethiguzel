@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 277
 ---
 
-**Madde 277**
+**3. Mahkemece atanan tasfiye memurları**
 
 ---
 
-Madde 277 - (1 )   276   ncı   madde,   mahkeme   tarafından   atanan   tasfiye   memurlarının  görevden   alınmalarına   da   uygulanır.  IV   -   İşlem   biçimine   ilişkin   hükümler  1.   Birlikte   hareket
+Madde 277 - (1 )   276   ncı   madde,   mahkeme   tarafından   atanan   tasfiye   memurlarının  görevden   alınmalarına   da   uygulanır.
 
 ---
 

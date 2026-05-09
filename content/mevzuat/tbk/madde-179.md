@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 179
 ---
 
-**1. Cezanın sözleşmenin ifası ile ilişkisi**
+**C. Ceza koşulu
+I. Alacaklının hakları
+1. Cezanın sözleşmenin ifası ile ilişkisi**
 
 ---
 
@@ -16,8 +18,6 @@ alacaklı, hakkından açıkça feragat etmiş veya ifayı çekincesiz olarak ka
 borçla birlikte cezanın ifasını da isteyebilir.
 Borçlunun, kararlaştırılan cezayı ifa ederek sözleşmeyi, dönme veya fesih suretiyle
 sona erdirmeye yetkili olduğunu ispat etme hakkı saklıdır.
-
-2. Ceza ile zarar arasındaki ilişki
 
 ---
 

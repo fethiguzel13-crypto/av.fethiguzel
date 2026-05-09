@@ -4,15 +4,13 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 65
 ---
 
-**I. Hakkaniyet sorumluluğu**
+**B. Kusursuz sorumluluk
+I. Hakkaniyet sorumluluğu**
 
 ---
 
 Madde 65 - Hakkaniyet gerektiriyorsa; hâkim, ayırt etme gücü bulunmayan kişinin
 verdiği zararın, tamamen veya kısmen giderilmesine karar verir.
-
-II. Özen sorumluluğu
-1. Adam çalıştıranın sorumluluğu
 
 ---
 

@@ -14,9 +14,6 @@ araçları ve malzemeyi sağlamakla yükümlüdür.
 anlaşmada  kararlaştırılmadıkça  veya  yerel  âdet  bulunmadıkça  işveren,  bunun  için  işçiye
 uygun bir karşılık ödemekle yükümlüdür.
 
-III. Giderler
-1. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

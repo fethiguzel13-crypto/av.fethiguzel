@@ -4,7 +4,8 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 271
 ---
 
-**Madde 271**
+**E. Mal rejiminin sona ermesi ve tasfiye
+I. Sona erme anı**
 
 ---
 

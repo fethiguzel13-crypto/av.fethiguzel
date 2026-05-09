@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 784
 ---
 
-**Madde 784**
+**II
+- Kabul yasağı**
 
 ---
 
-Madde 784 - (1)   Çek   hakkında   kabul   işlemi   yapılamaz.   Çek   üzerine   yazılmış   bir  kabul   kaydı,   yazılmamış   sayılır.  III   -   Kimin   lehine   çekilebileceği
+Madde 784 - (1)   Çek   hakkında   kabul   işlemi   yapılamaz.   Çek   üzerine   yazılmış   bir  kabul   kaydı,   yazılmamış   sayılır.
 
 ---
 

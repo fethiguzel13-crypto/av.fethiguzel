@@ -13,9 +13,6 @@ bedelinin kalan kısmını her zaman bir defada ödeyerek borcundan kurtulabilir
 peşin satış bedeline ilave edilen bedelin ödenmemiş taksitlere isabet eden kısmı, yarısından az
 olmamak üzere ödeme süresinin kısaltılmasına uygun olarak indirilir.
 
-5. Alıcının temerrüdü
-a. Satıcının seçimlik hakkı
-
 ---
 
 ### Bizim Yorumumuz

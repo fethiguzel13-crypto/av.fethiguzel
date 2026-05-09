@@ -20,9 +20,6 @@ Borç İlişkilerinde Taraf Değişiklikleri
 
 BİRİNCİ AYIRIM
 Alacağın Devri
-A. Koşulları
-I. İradi devir
-1. Genel olarak
 
 ---
 

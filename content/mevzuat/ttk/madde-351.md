@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 351
 ---
 
-**Madde 351**
+**XII
+- İşlem denetçisi raporu**
 
 ---
 

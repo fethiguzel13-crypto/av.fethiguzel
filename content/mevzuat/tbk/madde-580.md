@@ -15,7 +15,6 @@ Kiraya verenin hapis hakkına ilişkin hükümler, kıyas yoluyla burada da uygu
 
 ONBEŞİNCİ BÖLÜM
 Kefalet Sözleşmesi
-A. Tanımı
 
 ---
 

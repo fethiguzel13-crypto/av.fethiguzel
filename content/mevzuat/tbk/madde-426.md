@@ -16,8 +16,6 @@ Hizmet belgesinin zamanında verilmemesinden veya belgede doğru olmayan bilgile
 bulunmasından zarar gören işçi veya işçiyi işe alan yeni işveren, eski işverenden tazminat
 isteyebilir.
 
-E. Sınaî ve fikrî mülkiyet hakkı
-
 ---
 
 ### Bizim Yorumumuz

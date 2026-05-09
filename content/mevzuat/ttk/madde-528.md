@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 528
 ---
 
-**Madde 528**
+**E) Özel hükümler**
 
 ---
 

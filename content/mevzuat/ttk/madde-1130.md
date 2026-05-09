@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1130
 ---
 
-**Madde 1130**
+**E) Uygulanacak hükümler**
 
 ---
 

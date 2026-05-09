@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1245
 ---
 
-**Madde 1245**
+**C) Yolculuk çarteri sözleşmesi**
 
 ---
 

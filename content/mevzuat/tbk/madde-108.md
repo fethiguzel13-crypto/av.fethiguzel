@@ -16,8 +16,6 @@ Teslim edilecek şey, borsada kayıtlıysa veya piyasa fiyatı varsa ya da yapı
 oranla değeri az ise, satışın açık artırma yoluyla yapılması zorunlu olmadığı gibi, hâkim,
 önceden ihtarda bulunma koşulunu aramaksızın satışa izin verebilir.
 
-c. Tevdi konusunu geri alma
-
 ---
 
 ### Bizim Yorumumuz

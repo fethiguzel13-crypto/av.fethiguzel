@@ -18,8 +18,6 @@ Hâkim, sözleşmenin önel verilmeksizin feshini yerinde bulabileceği gibi, ta
 birinin istemiyle veya kendiliğinden, aile topluluğu içinde yaşamalarına son vererek, bakım
 alacaklısına ömür boyu gelir bağlayabilir.
 
-III. Bakım borçlusunun ölümü
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 476
 ---
 
-**Madde 476**
+**4. İstek üzerine kısıtlamada**
 
 ---
 
-Madde 476 - Kendi isteğiyle kısıtlanmı ş olan kişi üzerindeki vesa yetin kaldırılması,  kısıtlamayı gerektiren sebebin ort adan kalkmasına bağlıdır.  D. Kayyımlıkta ve yasal danışmanlıkta  I. Gen el olarak
+Madde 476 - Kendi isteğiyle kısıtlanmı ş olan kişi üzerindeki vesa yetin kaldırılması,  kısıtlamayı gerektiren sebebin ort adan kalkmasına bağlıdır.
 
 ---
 

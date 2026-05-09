@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 70
 ---
 
-**Madde 70**
+**3. Dil ve para birimi**
 
 ---
 
-Madde 70 - (1)   Yılsonu   finansal   tabloları   Türkçe   ve   Türk   Lirası   ile   düzenlenir.   Bu  konudaki   diğer   kanunlarda   yer   alan   istisnalar   saklıdır.  4.   İmza
+Madde 70 - (1)   Yılsonu   finansal   tabloları   Türkçe   ve   Türk   Lirası   ile   düzenlenir.   Bu  konudaki   diğer   kanunlarda   yer   alan   istisnalar   saklıdır.
 
 ---
 

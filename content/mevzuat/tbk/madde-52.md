@@ -14,10 +14,6 @@ hâkim, tazminatı indirebilir veya tamamen kaldırabilir.
 Zarara  hafif  kusuruyla  sebep  olan  tazminat  yükümlüsü,  tazminatı  ödediğinde
 yoksulluğa düşecek olur ve hakkaniyet de gerektirirse hâkim, tazminatı indirebilir.
 
-IV. Özel durumlar
-1. Ölüm ve bedensel zarar
-a. Ölüm
-
 ---
 
 ### Bizim Yorumumuz

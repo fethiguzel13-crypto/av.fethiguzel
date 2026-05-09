@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 669
 ---
 
-**Madde 669**
+**D) İpotekli borç senedi ve irat senedi**
 
 ---
 

@@ -17,8 +17,6 @@ mülkiyet veya başka bir ayni hakkı bulunduğu takdirde.
 önce alacaklıya bildirildiği takdirde.
 Diğer halefiyet hâllerine ilişkin kanun hükümleri saklıdır.
 
-B. Üçüncü kişinin fiilini üstlenme
-
 ---
 
 ### Bizim Yorumumuz

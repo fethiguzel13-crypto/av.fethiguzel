@@ -8,7 +8,7 @@ maddeNo: 404
 
 ---
 
-Madde 404 - Velâyet altında bulunmayan her küçük vesayet altına alınır.  Görevlerin i   yaparlarken   vesayeti   gere ktiren böyle bir hâlin varlığını   öğren en nüf us  memurları, idarî makamlar, noterler ve mahkemeler, bu du rumu hemen yetkili vesayet makamına  bildirmek   zorundadırlar.  B. Kısıtlama  I. Akıl hastalığı veya akıl zayıflığı
+Madde 404 - Velâyet altında bulunmayan her küçük vesayet altına alınır.  Görevlerin i   yaparlarken   vesayeti   gere ktiren böyle bir hâlin varlığını   öğren en nüf us  memurları, idarî makamlar, noterler ve mahkemeler, bu du rumu hemen yetkili vesayet makamına  bildirmek   zorundadırlar.
 
 ---
 

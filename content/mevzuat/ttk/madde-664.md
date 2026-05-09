@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 664
 ---
 
-**Madde 664**
+**4. İlan şekli**
 
 ---
 
-Madde 664 - (1)   Senedin   ibrazına   ilişkin   ilanın   35   inci   maddede   yazılı   gazetede   üç  defa   yapılması   gerekir.  (2)   Mahkeme   gerek   gördüğü   takdirde,   ay rıca   uygun   göreceği   diğer   şekillerde   de   ilanlar  yapılmasına   karar   verebilir.  5.   Hükümleri  a)   Senedin   ibrazı   hâlinde
+Madde 664 - (1)   Senedin   ibrazına   ilişkin   ilanın   35   inci   maddede   yazılı   gazetede   üç  defa   yapılması   gerekir.  (2)   Mahkeme   gerek   gördüğü   takdirde,   ay rıca   uygun   göreceği   diğer   şekillerde   de   ilanlar  yapılmasına   karar   verebilir.
 
 ---
 

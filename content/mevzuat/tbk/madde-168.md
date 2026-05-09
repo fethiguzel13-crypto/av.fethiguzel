@@ -13,8 +13,6 @@ miktar oranında alacaklının haklarına halef olur.
 Alacaklı  diğerlerinin  zararına  olarak  borçlulardan  birinin  durumunu  iyileştirirse,
 bunun sonuçlarına katlanır.
 
-B. Müteselsil alacaklılık
-
 ---
 
 ### Bizim Yorumumuz

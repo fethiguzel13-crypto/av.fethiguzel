@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 670
 ---
 
-**Madde 670**
+**B. Mirasçılık sıfatının ka ybı hâlinde**
 
 ---
 
-Madde 670 - Mira sın açılmasından önce veya sonra mirasçılık sıfatını kaybeden mirasçıya  ait geri verme yükümlülüğü, onun yerini alan mirasçılara, miras pay larında meydana gelen artış  oranında geçer.  C. Denkleştirme şekli  I. Geri verme veya mah sup
+Madde 670 - Mira sın açılmasından önce veya sonra mirasçılık sıfatını kaybeden mirasçıya  ait geri verme yükümlülüğü, onun yerini alan mirasçılara, miras pay larında meydana gelen artış  oranında geçer.
 
 ---
 

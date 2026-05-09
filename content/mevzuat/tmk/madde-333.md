@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 333
 ---
 
-**Madde 333**
+**2. Babalığ ın tes piti nden önce**
 
 ---
 
-Madde 333 - Babalık davası ile birlikte nafaka istenir ve hâkim, babalık olasılığını  kuvve tli bulursa, hükümden önce çocuğun ihtiyaçları için uygun bir nafakaya karar ve re bilir.  VII. Güvence veril mesi
+Madde 333 - Babalık davası ile birlikte nafaka istenir ve hâkim, babalık olasılığını  kuvve tli bulursa, hükümden önce çocuğun ihtiyaçları için uygun bir nafakaya karar ve re bilir.
 
 ---
 

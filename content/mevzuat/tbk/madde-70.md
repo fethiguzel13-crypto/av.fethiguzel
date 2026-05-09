@@ -13,8 +13,6 @@ tehlikesiyle karşılaşan kişi, bu tehlikenin giderilmesi için gerekli önlem
 sahiplerinden isteyebilir.
 Kişilerin ve malların korunması hakkındaki kamu hukuku kuralları saklıdır.
 
-III. Tehlike sorumluluğu ve denkleştirme
-
 ---
 
 ### Bizim Yorumumuz

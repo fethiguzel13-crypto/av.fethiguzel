@@ -14,9 +14,6 @@ doğmuşsa, temsil yetkisinin içeriği ve derecesi o hukuksal işleme göre bel
 Temsil yetkisi üçüncü kişilere bildirilmişse temsil yetkisinin içeriği ve derecesi, bu
 bildirime göre belirlenir.
 
-2. Hukuki işlemden doğan yetki
-a. Yetkinin sınırlanması ve geri alınması
-
 ---
 
 ### Bizim Yorumumuz

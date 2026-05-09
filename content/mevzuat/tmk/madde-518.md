@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 518
 ---
 
-**Madde 518**
+**II. Teslim borcu**
 
 ---
 

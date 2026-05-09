@@ -4,12 +4,14 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 98
 ---
 
-**Madde 98**
+**C) Cari hesabın sona ermesi
+I
+- Genel olarak**
 
 ---
 
 Madde 98 - (1)   Cari   hesap   sözleşmesi;
-a)   Kararlaştırılan   sürenin   sona   ermesi,  b)   Bir   süre   kararlaştırılmadığı   takdirde   taraflardan   birinin   fesih   ihbarında   bulunması,  c)   Taraflardan   birinin   iflas   etmesi,  hâllerinde   sona   erer .  II   -   Ölüm   ve   kısıtlılık   hâlleri
+a)   Kararlaştırılan   sürenin   sona   ermesi,  b)   Bir   süre   kararlaştırılmadığı   takdirde   taraflardan   birinin   fesih   ihbarında   bulunması,  c)   Taraflardan   birinin   iflas   etmesi,  hâllerinde   sona   erer .
 
 ---
 

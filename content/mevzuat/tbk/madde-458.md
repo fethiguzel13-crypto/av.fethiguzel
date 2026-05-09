@@ -16,9 +16,6 @@ olduğu paralar üzerinde hapis hakkına sahiptir.
 Pazarlamacı, araç ve taşıma belgelerini, fiyat tarifelerini, müşterilerle ilgili kayıtlar ile
 diğer belgeleri alıkoyamaz.
 
-D. Sona ermesi
-I. Özel fesih süresi
-
 ---
 
 ### Bizim Yorumumuz

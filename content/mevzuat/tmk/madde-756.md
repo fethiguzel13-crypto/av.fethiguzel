@@ -8,7 +8,7 @@ maddeNo: 756
 
 ---
 
-Madde 756 - Kaynaklar, arazinin bütünleyici parçası olup, bunların m ülkiyeti ancak  kaynadıkları arazinin mülkiyeti ile birlikte kazanılabilir.  Başkasının araz isinde bulunan kaynaklar üzerindeki hak, bir irtifak hakkı olarak tapu  kütüğüne tescil ile kurulur.  Yera ltı suları, kamu yararına ait sulardandır. Arza malik olmak, o nun altındaki yeraltı  sularına da malik olmak sonucunu doğurmaz.  Arazi maliklerinin yeralt ı sularından yararlanma biçimi ve ölçüsüne ilişkin özel kanun  hükümleri saklıdır.  II. Kaynaklara zarar   verilmesi  1. Tazminat
+Madde 756 - Kaynaklar, arazinin bütünleyici parçası olup, bunların m ülkiyeti ancak  kaynadıkları arazinin mülkiyeti ile birlikte kazanılabilir.  Başkasının araz isinde bulunan kaynaklar üzerindeki hak, bir irtifak hakkı olarak tapu  kütüğüne tescil ile kurulur.  Yera ltı suları, kamu yararına ait sulardandır. Arza malik olmak, o nun altındaki yeraltı  sularına da malik olmak sonucunu doğurmaz.  Arazi maliklerinin yeralt ı sularından yararlanma biçimi ve ölçüsüne ilişkin özel kanun  hükümleri saklıdır.
 
 ---
 

@@ -15,8 +15,6 @@ Bazı ticari malların satışında, daralı ağırlıktan miktar olarak ya da y
 indirim  yapılmasına  veya  bedelin,  daralı  ağırlık  üzerinden  belirlenmesine  ilişkin  ticari
 teamüller saklıdır.
 
-III. Satış bedelinin muacceliyeti ve faizi
-
 ---
 
 ### Bizim Yorumumuz

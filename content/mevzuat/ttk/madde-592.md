@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 592
 ---
 
-**Madde 592**
+**II
+- Esas sermayenin azaltılması**
 
 ---
 

@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 17
 ---
 
-**Madde 17**
+**III
+- Donatma iştiraki**
 
 ---
 
-Madde 17 - (1)   Tacire   ilişkin   hükümler   donatma   iştirakine   de   aynen   uygulanır.  C)   Tacir   olmanın   hükümleri  I   -   Genel   olarak
+Madde 17 - (1)   Tacire   ilişkin   hükümler   donatma   iştirakine   de   aynen   uygulanır.
 
 ---
 

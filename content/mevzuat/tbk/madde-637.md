@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 637
 ---
 
-**I. Temsil**
+**C. Ortakların üçüncü kişilerle ilişkisi
+I. Temsil**
 
 ---
 
@@ -17,8 +18,6 @@ Kendisine  yönetim  görevi  verilen  ortağın,  ortaklığı  veya  bütün  
 kişilere karşı temsil etme yetkisi var sayılır. Ancak, temsil yetkisine sahip yönetici ortağın
 yapacağı önemli tasarruf işlemlerine ilişkin yetkinin, bütün ortakların oybirliğiyle verilmiş
 olması ve yetki belgesinde bu hususun açıkça belirtilmiş olması şarttır.
-
-II. Temsilin sonuçları
 
 ---
 

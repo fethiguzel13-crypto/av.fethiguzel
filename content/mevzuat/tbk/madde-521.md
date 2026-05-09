@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 521
 ---
 
-**I. Hak etme zamanı**
+**B. Ücret
+I. Hak etme zamanı**
 
 ---
 
@@ -15,8 +16,6 @@ koşulun gerçekleşmesi hâlinde ödenir.
 Simsarlık  sözleşmesinde  simsarın  yapacağı  giderlerin  kendisine  ödeneceği
 kararlaştırılmışsa,  simsarın  faaliyeti  sözleşmenin  kurulmasıyla  sonuçlanmamış  olsa  bile
 giderleri ödenir.
-
-II. Ücretin belirlenmesi
 
 ---
 

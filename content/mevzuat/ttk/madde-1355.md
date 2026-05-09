@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1355
 ---
 
-**Madde 1355**
+**b) Sicile kayıtlı olmayan gemilerde malikin yerleşim yeri m ahkemesi.
+c) 941 inci maddenin üçüncü fıkrası uyarınca tutulan özel sicile kayıtlı gemilerde kiracının yerleşim yeri mahkemesi. bbb) Yabancı bayraklı gemiler**
 
 ---
 

@@ -15,9 +15,6 @@ sürenin bitimine kadar susarsa, öneri reddedilmiş sayılır.
 yapılır  ve  bu  ikinci  üstlenmeye  ilişkin  olarak  alacaklıya  öneride  bulunulursa,  ilk  öneride
 bulunan, önerisi ile bağlı olmaktan kurtulur.
 
-C. Borçlunun değişmesinin sonuçları
-I. Bağlı hak ve borçlar
-
 ---
 
 ### Bizim Yorumumuz

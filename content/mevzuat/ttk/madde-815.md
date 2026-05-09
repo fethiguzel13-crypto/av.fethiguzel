@@ -8,7 +8,7 @@ maddeNo: 815
 
 ---
 
-Madde 815 - (1)   Bu   Kısımda   geçen   “banka”dan   amaç,   Bankacılık   Kanununa   tabi  olan   kuruluşlardır.   Ancak,   ödeme   yeri   Türkiye   dışında   olan   çekle r   hakkında   “banka”  teriminden   hangi   kuruluşların   anlaşılacağı   ödeme   yeri   hukukuna   göre   belirlenir.  E)   Süreler  I   -   Tatil   günleri
+Madde 815 - (1)   Bu   Kısımda   geçen   “banka”dan   amaç,   Bankacılık   Kanununa   tabi  olan   kuruluşlardır.   Ancak,   ödeme   yeri   Türkiye   dışında   olan   çekle r   hakkında   “banka”  teriminden   hangi   kuruluşların   anlaşılacağı   ödeme   yeri   hukukuna   göre   belirlenir.
 
 ---
 

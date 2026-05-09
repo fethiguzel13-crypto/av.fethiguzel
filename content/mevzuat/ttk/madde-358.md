@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 358
 ---
 
-**Madde 358**
+**II
+- Pay sahiplerinin şirkete borçlanma yasağı**
 
 ---
 

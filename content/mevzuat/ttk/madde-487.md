@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 487
 ---
 
-**Madde 487**
+**III
+- Pay senetlerinin şekli**
 
 ---
 
-Madde 487 - (1)   Pay   senetlerinin;   şirketin   unvanını,   sermaye   tutarını,   kuruluş  tarihini,   bu   tarihteki   sermaye   tutarını,   çıkarılan   pay   senedinin   tertibini,   bunun   tescili   tarihini,  senedin   türünü   ve   itibarî   değerini,   kaç   payı   içerdiğini   belirtmesi   ve   şirket   adına   imza   etmeye  yetkili   olanlardan   en   az   ikisi   tarafından   imza   edilmiş   olması   şarttır.   Kapalı   şirketlerde   baskı  şekli nde   imzanın   delikli   olması   veya   sahtekârlığı   engelleyici   diğer   güvenlik   önlemlerinin  uygulanması   gerekir.  (2)   Nama   yazılı   pay   senetlerinin   ayrıca;   sahiplerinin   adı   ve   soyadını   veya   ticaret  unvanını,   yerleşim   yerini,   pay   senedi   bedelinin   ödenmiş   olan   mikta rını   da   açıklaması   gerekir.  Bu   senetler   şirketin   pay   defterine   kaydolunur.  IV   -   Yıpranmış   pay   senetleri
+Madde 487 - (1)   Pay   senetlerinin;   şirketin   unvanını,   sermaye   tutarını,   kuruluş  tarihini,   bu   tarihteki   sermaye   tutarını,   çıkarılan   pay   senedinin   tertibini,   bunun   tescili   tarihini,  senedin   türünü   ve   itibarî   değerini,   kaç   payı   içerdiğini   belirtmesi   ve   şirket   adına   imza   etmeye  yetkili   olanlardan   en   az   ikisi   tarafından   imza   edilmiş   olması   şarttır.   Kapalı   şirketlerde   baskı  şekli nde   imzanın   delikli   olması   veya   sahtekârlığı   engelleyici   diğer   güvenlik   önlemlerinin  uygulanması   gerekir.  (2)   Nama   yazılı   pay   senetlerinin   ayrıca;   sahiplerinin   adı   ve   soyadını   veya   ticaret  unvanını,   yerleşim   yerini,   pay   senedi   bedelinin   ödenmiş   olan   mikta rını   da   açıklaması   gerekir.  Bu   senetler   şirketin   pay   defterine   kaydolunur.
 
 ---
 

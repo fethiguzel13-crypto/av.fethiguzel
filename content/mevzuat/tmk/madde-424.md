@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 424
 ---
 
-**Madde 424**
+**3. Kara r**
 
 ---
 
-Madde 424 - Denetim makamı, vereceği   kararı   vasil iğe atanmış ol an kimseye ve vesayet  makamına bildirir.  Vasiliğe atananın görevden alınması hâlinde   vesayet makamı, hemen yeni bir vasi atar.  V. Görevin verilmesi
+Madde 424 - Denetim makamı, vereceği   kararı   vasil iğe atanmış ol an kimseye ve vesayet  makamına bildirir.  Vasiliğe atananın görevden alınması hâlinde   vesayet makamı, hemen yeni bir vasi atar.
 
 ---
 

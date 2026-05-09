@@ -15,8 +15,6 @@ Bu  yetki,  işletmenin  alışılmış  bütün  işlemlerini  kapsar.  Ancak, 
 yetkili  kılınmadıkça,  ödünç  olarak  para  veya  benzerlerini  alamaz,  kambiyo taahhüdünde
 bulunamaz, dava açamaz ve açılmış davayı takip edemez.
 
-C. Diğer tacir yardımcıları
-
 ---
 
 ### Bizim Yorumumuz

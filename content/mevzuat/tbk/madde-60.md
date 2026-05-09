@@ -4,16 +4,14 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 60
 ---
 
-**1. Sebeplerin yarışması**
+**V. Sorumluluk sebeplerinin çokluğu
+1. Sebeplerin yarışması**
 
 ---
 
 Madde 60 - Bir kişinin sorumluluğu, birden çok sebebe dayandırılabiliyorsa hâkim,
 zarar gören aksini istemiş olmadıkça veya kanunda aksi öngörülmedikçe, zarar görene en iyi
 giderim imkânı sağlayan sorumluluk sebebine göre karar verir.
-
-2. Müteselsil sorumluluk
-a. Dış ilişkide
 
 ---
 

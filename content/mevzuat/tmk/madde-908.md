@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 908
 ---
 
-**Madde 908**
+**VI
+. Bölünme**
 
 ---
 
-Madde 908 - İrat senediyle yüklü taşınmazın bölünmesi hâlinde, parsellerin malikl eri irat  senedinin borçlusu olurlar.  İrat senedi borcunun parsellere dağıtılmasında, ipotekle yüklü taşı nmazın bölünmesine  ilişkin hükümler uygulanır.  Alacaklı,   borc un   parsellere   dağıtımının   kesinleşmesinden   başlayarak   bir   ay   içinde  yapacağı bildirimle bi r yıl içinde irat senedinin satın alınmasını isteyebilir.  C. Ortak hükümler  I. Kurulması  1. Alacağın ni teliği
+Madde 908 - İrat senediyle yüklü taşınmazın bölünmesi hâlinde, parsellerin malikl eri irat  senedinin borçlusu olurlar.  İrat senedi borcunun parsellere dağıtılmasında, ipotekle yüklü taşı nmazın bölünmesine  ilişkin hükümler uygulanır.  Alacaklı,   borc un   parsellere   dağıtımının   kesinleşmesinden   başlayarak   bir   ay   içinde  yapacağı bildirimle bi r yıl içinde irat senedinin satın alınmasını isteyebilir.
 
 ---
 

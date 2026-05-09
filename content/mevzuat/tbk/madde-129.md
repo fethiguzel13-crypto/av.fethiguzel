@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 129
 ---
 
-**I. Genel olarak**
+**C. Üçüncü kişi yararına sözleşme
+I. Genel olarak**
 
 ---
 
@@ -14,8 +15,6 @@ edim yükümlülüğü koydurmuşsa, edimin üçüncü kişiye ifa edilmesini is
 uygun düştüğü takdirde edimin ifasını isteyebilirler. Bu durumda, üçüncü kişi veya ona halef
 olanlar bu hakkı kullanmak istediklerini borçluya bildirdikten sonra, alacaklı borçluyu ibra
 edemeyeceği gibi, borcun nitelik ve kapsamını da değiştiremez.
-
-II. Sorumluluk sigortalarında
 
 ---
 

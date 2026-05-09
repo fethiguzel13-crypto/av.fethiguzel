@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 162
 ---
 
-**I. Doğuşu**
+**A. Müteselsil borçluluk
+I. Doğuşu**
 
 ---
 
@@ -12,10 +13,6 @@ Madde 162 - Birden çok borçludan her biri, alacaklıya karşı borcun tamamın
 sorumlu olmayı kabul ettiğini bildirirse, müteselsil borçluluk doğar.
 Böyle  bir  bildirim  yoksa,  müteselsil  borçluluk  ancak  kanunda  öngörülen  hâllerde
 doğar.
-
-II. Dış ilişki
-1. Hükümleri
-a. Borçluların sorumluluğu
 
 ---
 

@@ -18,9 +18,6 @@ Alacaklının yerleşim yerinde ifası gereken bir borcun doğumundan sonra alac
 yerleşim yerini değiştirmesi sebebiyle ifa önemli ölçüde güçleşmişse borç, alacaklının önceki
 yerleşim yerinde ifa edilebilir.
 
-C. İfa zamanı
-I. Süreye bağlanmamış borç
-
 ---
 
 ### Bizim Yorumumuz

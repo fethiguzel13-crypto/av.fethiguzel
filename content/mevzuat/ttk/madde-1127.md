@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1127
 ---
 
-**Madde 1127**
+**VI
+- Gemi adamlarının çalıştırılması**
 
 ---
 
-Madde 1127 - (1)   Gemi   adamlarının   çalıştırılmasından   doğan   bütün   borç   ve  yükümlülükler   kiracıya   aittir.   Geminin   gemi   adamlarıyla   birlikte   kiracının   emrine   verildiği  kira   sözleşmelerinde,   gemi   adamları nın   çalıştırılmasından   doğan   bütün   borç   ve  yükümlülüklerden   kiraya   veren,   kiracı   ile   birlikte   ve   müteselsilen   sorumlu   olur.  VII -   Kira   ödeme   borcu   ve   teminatı
+Madde 1127 - (1)   Gemi   adamlarının   çalıştırılmasından   doğan   bütün   borç   ve  yükümlülükler   kiracıya   aittir.   Geminin   gemi   adamlarıyla   birlikte   kiracının   emrine   verildiği  kira   sözleşmelerinde,   gemi   adamları nın   çalıştırılmasından   doğan   bütün   borç   ve  yükümlülüklerden   kiraya   veren,   kiracı   ile   birlikte   ve   müteselsilen   sorumlu   olur.
 
 ---
 

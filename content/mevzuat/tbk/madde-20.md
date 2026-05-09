@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 20
 ---
 
-**I. Genel olarak**
+**E. Genel işlem koşulları
+I. Genel olarak**
 
 ---
 
@@ -20,9 +21,6 @@ işlem koşulu olmaktan çıkarmaz.
 Genel  işlem  koşullarıyla  ilgili  hükümler,  sundukları  hizmetleri  kanun  veya  yetkili
 makamlar  tarafından  verilen  izinle  yürütmekte  olan  kişi  ve  kuruluşların  hazırladıkları
 sözleşmelere de, niteliklerine bakılmaksızın uygulanır.
-
-II. Kapsamı
-1. Yazılmamış sayılma
 
 ---
 

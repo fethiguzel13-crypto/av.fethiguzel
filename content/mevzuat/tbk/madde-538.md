@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 538
 ---
 
-**1. Ödediği paralar ve yaptığı giderler**
+**III. Komisyoncunun hakları
+1. Ödediği paralar ve yaptığı giderler**
 
 ---
 
@@ -13,9 +14,6 @@ Madde 538 - Komisyoncu,  vekâlet  verenin  yararı  için  yaptığı  bütün 
 
 Komisyoncu, ardiye ve taşıma bedellerini vekâlet verenin hesabına geçirebilirse de,
 kendi çalışanlarının ücretlerini geçiremez.
-
-2. Komisyon ücreti
-a. İsteme hakkı
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1234
 ---
 
-**Madde 1234**
+**b) Konişmentonun eşyayı temsili aa) Genel olarak**
 
 ---
 

@@ -13,9 +13,6 @@ mallarını ortak bir amaca erişmek üzere birleştirmeyi üstlendikleri sözle
 Bir ortaklık, kanunla düzenlenmiş ortaklıkların ayırt edici niteliklerini taşımıyorsa, bu
 bölüm hükümlerine tabi adi ortaklık sayılır.
 
-B. Ortaklar arasındaki ilişki
-I. Katılım payı
-
 ---
 
 ### Bizim Yorumumuz

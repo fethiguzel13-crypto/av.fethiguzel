@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 399
 ---
 
-**Madde 399**
+**2. Ku rulması**
 
 ---
 
-Madde 399 - Özel ves ayet, vesayet altına alınan kişinin fi il ehl iyetine sahip iki yakın  hısımının veya bi r hısımı ile eşinin istemi üzerine denetim makamı tarafından ku rulur.  3. Aile meclisi
+Madde 399 - Özel ves ayet, vesayet altına alınan kişinin fi il ehl iyetine sahip iki yakın  hısımının veya bi r hısımı ile eşinin istemi üzerine denetim makamı tarafından ku rulur.
 
 ---
 

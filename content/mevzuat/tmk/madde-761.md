@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 761
 ---
 
-**Madde 761**
+**V. Zorunlu su**
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 37
 ---
 
-**1. Hükmü**
+**III. Korkutma
+1. Hükmü**
 
 ---
 
@@ -13,8 +14,6 @@ sözleşme yapmışsa, sözleşmeyle bağlı değildir.
 Korkutan  bir  üçüncü  kişi  olup  da  diğer  taraf  korkutmayı  bilmiyorsa  veya  bilecek
 durumda değilse, sözleşmeyle bağlı kalmak istemeyen korkutulan, hakkaniyet gerektiriyorsa,
 diğer tarafa tazminat ödemekle yükümlüdür.
-
-2. Koşulları
 
 ---
 

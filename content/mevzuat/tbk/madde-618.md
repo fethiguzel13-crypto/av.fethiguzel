@@ -13,8 +13,6 @@ feshini  isteyebilir.  Bu  durumda  bakım  alacaklısı,  bakım  borçlusunun 
 masasından isteyebileceği miktara eşit bir paranın kendisine ödenmesini, bakım borçlusunun
 mirasçılarından isteyebilir.
 
-G. Devredilemezlik, iflas ve haciz hâlinde istem
-
 ---
 
 ### Bizim Yorumumuz

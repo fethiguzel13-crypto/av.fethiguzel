@@ -13,8 +13,6 @@ güvence vermesi ve satıcının da bu yeni düzenleme dolayısıyla herhangi bi
 konusu olmaması koşuluyla, alıcıya ödeme kolaylıkları sağlayabilir ve satıcının satılanı geri
 almasını yasaklayabilir.
 
-6. Yetkili mahkeme ve tahkim
-
 ---
 
 ### Bizim Yorumumuz

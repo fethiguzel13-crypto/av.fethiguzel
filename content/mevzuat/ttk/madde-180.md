@@ -4,11 +4,14 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 180
 ---
 
-**Madde 180**
+**IV
+- Tür değiştirme
+1. Genel hükümler
+a) İlke**
 
 ---
 
-Madde 180 - (1)   Bir   şirket   hukuki   şeklini   değiştirebilir.   Yeni   türe   dönüştürülen   şirket  eskisinin   devamıdır.  b)   Geçerli   tür   değiştirmele r
+Madde 180 - (1)   Bir   şirket   hukuki   şeklini   değiştirebilir.   Yeni   türe   dönüştürülen   şirket  eskisinin   devamıdır.
 
 ---
 

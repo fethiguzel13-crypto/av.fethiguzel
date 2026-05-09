@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 354
 ---
 
-**Madde 354**
+**B. Kullanma hakkı**
 
 ---
 
-Madde 354 - Ana ve baba,   kusurları sebebiyle velâyet leri kaldırılmadıkça, çocuğ un  malların ı kull anabil irler.  C. Gelirlerin sarfı
+Madde 354 - Ana ve baba,   kusurları sebebiyle velâyet leri kaldırılmadıkça, çocuğ un  malların ı kull anabil irler.
 
 ---
 

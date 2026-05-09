@@ -18,8 +18,6 @@ bu yükümlülükleri önemli ölçüde ağırlaşmışsa.
 Bağışlama  sözü  verenin  borcunu  ödeme  güçsüzlüğü  belirlenir  veya  iflasına  karar
 verilirse, ifa yükümlülüğü ortadan kalkar.
 
-III. Geri alma hakkının süresi ve mirasçılara geçmesi
-
 ---
 
 ### Bizim Yorumumuz

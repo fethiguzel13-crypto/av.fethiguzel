@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 99
 ---
 
-**Madde 99**
+**G. Dernek gelirleri**
 
 ---
 
-Madde 99 - Dernek gelirleri, üye ödentisi, dernek faaliyetleri sonucunda veya dernek  malvarlığından elde   edilen gelirler ile bağış ve yardımlardan oluşur.  H. Saklı hükümler
+Madde 99 - Dernek gelirleri, üye ödentisi, dernek faaliyetleri sonucunda veya dernek  malvarlığından elde   edilen gelirler ile bağış ve yardımlardan oluşur.
 
 ---
 

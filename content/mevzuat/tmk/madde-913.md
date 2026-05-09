@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 913
 ---
 
-**Madde 913**
+**c. Rehin senedinin şekli**
 
 ---
 

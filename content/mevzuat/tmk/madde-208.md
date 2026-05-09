@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 208
 ---
 
-**Madde 208**
+**3. Mal ayrılığına geçişten dönme**
 
 ---
 
-Madde 208 - Eşler, her zaman yeni bir mal rejimi sözleşmesiyle önceki veya başka b ir  ma l rejimini kabul edebilirler.  Mal ayrılığına geçişi gerektiren sebebin ortadan kalkması hâlinde hâkim, eşler den birinin  istemi üzerine eski mal rejimine dönülmesine karar verebilir.  II. Cebrî icra hâlinde  1. İflâsta
+Madde 208 - Eşler, her zaman yeni bir mal rejimi sözleşmesiyle önceki veya başka b ir  ma l rejimini kabul edebilirler.  Mal ayrılığına geçişi gerektiren sebebin ortadan kalkması hâlinde hâkim, eşler den birinin  istemi üzerine eski mal rejimine dönülmesine karar verebilir.
 
 ---
 

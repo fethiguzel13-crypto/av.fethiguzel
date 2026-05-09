@@ -13,7 +13,6 @@ kefil ile asıl borçlu arasındaki ilişkiyi düzenleyen hükümler uygulanır.
 
 ÜÇÜNCÜ AYIRIM
 Simsarlık Sözleşmesi
-A. Tanımı ve şekli
 
 ---
 

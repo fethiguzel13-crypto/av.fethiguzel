@@ -8,7 +8,7 @@ maddeNo: 704
 
 ---
 
-Madde 704 - Taşınmaz mülkiyetinin konusu şunlardır:  1. Arazi,  2. Tapu kütüğünde ayrı sayfaya kaydedilen bağ ımsız ve sürekli haklar,  3. Kat mülkiyeti kütüğüne kayıtlı bağımsız bölümler.  B. Taşınmaz   mülkiyetinin kazanılması  I . Tescil
+Madde 704 - Taşınmaz mülkiyetinin konusu şunlardır:  1. Arazi,  2. Tapu kütüğünde ayrı sayfaya kaydedilen bağ ımsız ve sürekli haklar,  3. Kat mülkiyeti kütüğüne kayıtlı bağımsız bölümler.
 
 ---
 

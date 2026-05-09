@@ -27,8 +27,6 @@ Birbirlerinden  bağımsız  olarak  aynı  borç  için  kefil  olanlardan  her
 borcunun tamamından sorumlu olur. Ancak, borcu ödeyen kefil aksine anlaşma olmadıkça,
 diğerlerine toplam kefalet miktarındaki payı oranında rücu hakkına sahiptir.
 
-4. Kefile kefil ve rücua kefil
-
 ---
 
 ### Bizim Yorumumuz

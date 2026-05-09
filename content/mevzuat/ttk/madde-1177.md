@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1177
 ---
 
-**Madde 1177**
+**2. Taşıtanın üçüncü ş ahıslarla yaptığı kırkambar sözleşmeleri**
 
 ---
 

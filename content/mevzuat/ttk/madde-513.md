@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 513
 ---
 
-**Madde 513**
+**II
+- Şirketin iflası hâlinde**
 
 ---
 

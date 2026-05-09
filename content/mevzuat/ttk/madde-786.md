@@ -8,7 +8,7 @@ maddeNo: 786
 
 ---
 
-Madde 786 - (1)   Çekte   öngörülen   herhangi   bir   faiz   şartı   yazıl mamış   sayılır.  V   -   Adresli   ve   yerleşme   yerli   çek
+Madde 786 - (1)   Çekte   öngörülen   herhangi   bir   faiz   şartı   yazıl mamış   sayılır.
 
 ---
 

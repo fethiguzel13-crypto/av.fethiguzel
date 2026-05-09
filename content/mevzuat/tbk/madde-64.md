@@ -18,9 +18,6 @@ sırada  kolluk  gücünün  yardımını  zamanında  sağlayamayacak  ise  ve 
 uğramasını  ya da kullanılmasının önemli ölçüde zorlaşmasını önleyecek başka bir  yol da
 yoksa, verdiği zarardan sorumlu tutulamaz.
 
-B. Kusursuz sorumluluk
-I. Hakkaniyet sorumluluğu
-
 ---
 
 ### Bizim Yorumumuz

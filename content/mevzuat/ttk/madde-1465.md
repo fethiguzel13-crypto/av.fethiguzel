@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1465
 ---
 
-**Madde 1465**
+**d) Birden çok sigorta aa) Kural**
 
 ---
 

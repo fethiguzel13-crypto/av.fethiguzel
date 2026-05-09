@@ -18,9 +18,6 @@ Uzmanlığı  gerektiren  bir  hizmet,  meslek  veya  sanat,  ancak  kanun  veya
 makamlar tarafından verilen izinle yürütülebiliyorsa, borçlunun yardımcı kişilerin fiillerinden
 sorumlu olmayacağına ilişkin anlaşma kesin olarak hükümsüzdür.
 
-B. Borçlunun temerrüdü
-I. Koşulları
-
 ---
 
 ### Bizim Yorumumuz

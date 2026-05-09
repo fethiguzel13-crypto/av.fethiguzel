@@ -16,7 +16,6 @@ vekillerin ve diğer tacir yardımcılarının yetkisini sona erdirmez.
 
 ONÜÇÜNCÜ BÖLÜM
 Havale
-A. Tanımı
 
 ---
 

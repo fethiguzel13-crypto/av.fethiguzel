@@ -13,8 +13,6 @@ yayımcıya bunların bir arada basılması yetkisini vermez.
 Aynı şekilde, eser sahibinin bütün eserlerini veya bunlardan yalnız bir türünü birarada
 yayımlama hakkı, yayımcıya bunlar içinden her birinin ayrı ayrı basıp yayma hakkını vermez.
 
-VII. Çeviri hakkı
-
 ---
 
 ### Bizim Yorumumuz

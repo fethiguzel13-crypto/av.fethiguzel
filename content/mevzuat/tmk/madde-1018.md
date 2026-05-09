@@ -8,7 +8,7 @@ maddeNo: 1018
 
 ---
 
-Madde 1018 - Taşınmaz lehine irtifakların tescil ve terkini hem yüklü, h em yararlanan  taşınmazların sayfalarına kaydedilir.  IV. Tebl iğ zorunluluğu
+Madde 1018 - Taşınmaz lehine irtifakların tescil ve terkini hem yüklü, h em yararlanan  taşınmazların sayfalarına kaydedilir.
 
 ---
 

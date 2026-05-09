@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 304
 ---
 
-**1. Kiralananın teslim anındaki ayıplarından sorumluluk**
+**IV. Kiraya verenin kiralananın ayıplarından sorumluluğu
+1. Kiralananın teslim anındaki ayıplarından sorumluluk**
 
 ---
 
@@ -13,9 +14,6 @@ temerrüdüne  veya  kiraya  verenin  kiralananın  sonradan  ayıplı  duruma  
 sorumluluğuna ilişkin hükümlere başvurabilir.
 Kiralananın  önemli  olmayan  ayıplarla  tesliminde  ise  kiracı,  kiralananda  sonradan
 ortaya çıkan ayıplardan dolayı kiraya verenin sorumluluğuna ilişkin hükümlere başvurabilir.
-
-2. Kiralananın sonradan ayıplı hâle gelmesinden sorumluluk
-a. Genel olarak
 
 ---
 

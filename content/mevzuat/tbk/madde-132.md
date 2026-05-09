@@ -12,9 +12,6 @@ Madde 132 - Borcu  doğuran  işlem  kanunen  veya  taraflarca  belli  bir  şek
 tutulmuş  olsa  bile  borç,  tarafların  şekle  bağlı  olmaksızın  yapacakları  ibra  sözleşmesiyle
 tamamen veya kısmen ortadan kaldırılabilir.
 
-C. Yenileme
-I. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

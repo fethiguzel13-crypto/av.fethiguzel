@@ -14,8 +14,6 @@ bazı malvarlığı değerlerini ona devretme borcunu üstlendiği sözleşmedir
 Bakım borçlusu, bakım alacaklısı tarafından mirasçı atanmışsa, ölünceye kadar bakma
 sözleşmesine miras sözleşmesine ilişkin hükümler uygulanır.
 
-B. Şekli
-
 ---
 
 ### Bizim Yorumumuz

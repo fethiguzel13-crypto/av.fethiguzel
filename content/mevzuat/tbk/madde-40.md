@@ -4,7 +4,10 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 40
 ---
 
-**a. Temsilin hükmü**
+**H. Temsil
+I. Yetkili temsil
+1. Genel olarak
+a. Temsilin hükmü**
 
 ---
 
@@ -15,8 +18,6 @@ kendisine ait olur. Ancak, karşı taraf bir temsil ilişkisinin varlığını d
 çıkarması  gerekiyor  ya  da hukuki işlemi temsilci veya temsil olunandan biri ile  yapması
 farksız ise, hukuki işlemin sonuçları doğrudan doğruya temsil olunana ait olur.
 Diğer durumlarda alacağın devri veya borcun üstlenilmesine ilişkin hükümler uygulanır.
-
-b. Temsil yetkisinin içeriği ve derecesi
 
 ---
 

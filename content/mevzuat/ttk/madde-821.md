@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 821
 ---
 
-**Madde 821**
+**C) Bo rçlanmaların hükümleri
+I
+- Düzenlenme yeri kanunu**
 
 ---
 
-Madde 821 - (1)   Çekten   doğan   borçlanmaların   sonuçları,   bu   borçlanmaların  yapıldığı   ülke   hukukuna   göre   belirlenir.  II   -   Ödeme   yeri   hukuku
+Madde 821 - (1)   Çekten   doğan   borçlanmaların   sonuçları,   bu   borçlanmaların  yapıldığı   ülke   hukukuna   göre   belirlenir.
 
 ---
 

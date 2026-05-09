@@ -11,8 +11,6 @@ maddeNo: 152
 Madde 152 - Asıl alacak zamanaşımına uğrayınca, ona bağlı faiz ve diğer alacaklar
 da zamanaşımına uğramış olur.
 
-C. Zamanaşımının durması
-
 ---
 
 ### Bizim Yorumumuz

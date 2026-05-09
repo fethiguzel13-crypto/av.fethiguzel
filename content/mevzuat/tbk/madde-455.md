@@ -19,8 +19,6 @@ Komisyonun  muaccel  olması  anında,  yapılan  işin  değeri  henüz  kesin 
 belirlenemiyorsa komisyon, önce alışılmış olan en az değeri üzerinden, geri kalanı ise, en geç
 işin yerine getirilmesinde ödenir.
 
-3. Pazarlama faaliyetinin engellenmesi
-
 ---
 
 ### Bizim Yorumumuz

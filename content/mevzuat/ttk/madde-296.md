@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 296
 ---
 
-**Madde 296**
+**3. Paranın yatırılması**
 
 ---
 
-Madde 296 - (1)   Tasfiye   memurları,   tasfiye   sırasında   elde   edilen   paraların   bin   Türk  lirasından   fazlasını,   mahkemece   belirlenecek   bir   bankaya,   şirket   adına   yatırırlar.  VI   -   Borçların   ödenmesi
+Madde 296 - (1)   Tasfiye   memurları,   tasfiye   sırasında   elde   edilen   paraların   bin   Türk  lirasından   fazlasını,   mahkemece   belirlenecek   bir   bankaya,   şirket   adına   yatırırlar.
 
 ---
 

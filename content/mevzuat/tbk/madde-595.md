@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 595
 ---
 
-**a. Güvence verilmesini ve borçtan kurtarılmasını isteme hakkı**
+**2. Kefil ile borçlu arasındaki ilişki
+a. Güvence verilmesini ve borçtan kurtarılmasını isteme hakkı**
 
 ---
 
@@ -17,8 +18,6 @@ yüzünden takibat önemli ölçüde güçleşmişse.
 3. Asıl borçlunun mali durumunun kötüleşmesi, güvencelerin değer kaybetmesi veya
 borçlunun kusuru sonucunda kefil için mevcut tehlike, kefaletin yapıldığı tarihe göre önemli
 ölçüde artmışsa.
-
-b. Kefilin rücu hakkı
 
 ---
 

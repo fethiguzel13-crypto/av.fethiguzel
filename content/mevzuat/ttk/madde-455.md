@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 455
 ---
 
-**Madde 455**
+**III
+- Tescil**
 
 ---
 

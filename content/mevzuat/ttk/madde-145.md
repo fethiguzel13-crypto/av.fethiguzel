@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 145
 ---
 
-**Madde 145**
+**4. Birleşme sözleşmesi ve birleşme raporu 26
+a) Birleşme sözleşmesi aa) Birleşme sözleşmesinin yapılması**
 
 ---
 

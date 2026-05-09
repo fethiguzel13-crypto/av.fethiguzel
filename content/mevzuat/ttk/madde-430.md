@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 430
 ---
 
-**Madde 430**
+**d) Bildirge**
 
 ---
 

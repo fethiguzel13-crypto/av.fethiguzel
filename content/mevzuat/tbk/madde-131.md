@@ -15,8 +15,6 @@ yapılacak  bir  bildirimle  saklı  tutulmuş  ise  ya  da  durum  ve  koşulla
 anlaşılmaktaysa, bu faizler ve ceza koşulu istenebilir.
 Taşınmaz rehnine, kıymetli evraka ve konkordatoya ilişkin özel hükümler saklıdır.
 
-B. İbra
-
 ---
 
 ### Bizim Yorumumuz

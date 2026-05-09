@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 25
 ---
 
-**Madde 25**
+**2. Davalar**
 
 ---
 
-Madde 25 - Davacı, hâkimden saldırı tehlikesinin önlenmesini, sürmekte olan saldırıya  son verilmesini, sona ermiş olsa bile etkileri devam eden saldırının hukuka aykırılığının tespitini  isteyebilir.  Da vacı   bunla rla birlikte, düzeltmenin veya kararın üçüncü kişilere bildirilmesi ya da  yayımlanması isteminde de bulunabilir.  Davacının, maddî ve manevî tazminat istemleri ile hukuka aykırı saldırı dolayısıyla elde  edilmiş olan kazancın vekâletsiz iş görme h üküml erine göre kendisine verilmesine ilişkin istemde  bulunma hakkı saklıdır.  Manevî tazminat istemi, karşı tarafça kabul edilmiş olmadıkça devredilemez; miras   bırakan  tarafından ileri sürülmüş olmadıkça mirasçılara geçmez.  Davacı, kişilik haklarının korun ması   için   kendi yerleşim yeri veya davalının yerleşim yeri  mahkemesinde dava açabilir.  III. Ad üzerindeki hak  1. Adın korunması
+Madde 25 - Davacı, hâkimden saldırı tehlikesinin önlenmesini, sürmekte olan saldırıya  son verilmesini, sona ermiş olsa bile etkileri devam eden saldırının hukuka aykırılığının tespitini  isteyebilir.  Da vacı   bunla rla birlikte, düzeltmenin veya kararın üçüncü kişilere bildirilmesi ya da  yayımlanması isteminde de bulunabilir.  Davacının, maddî ve manevî tazminat istemleri ile hukuka aykırı saldırı dolayısıyla elde  edilmiş olan kazancın vekâletsiz iş görme h üküml erine göre kendisine verilmesine ilişkin istemde  bulunma hakkı saklıdır.  Manevî tazminat istemi, karşı tarafça kabul edilmiş olmadıkça devredilemez; miras   bırakan  tarafından ileri sürülmüş olmadıkça mirasçılara geçmez.  Davacı, kişilik haklarının korun ması   için   kendi yerleşim yeri veya davalının yerleşim yeri  mahkemesinde dava açabilir.
 
 ---
 

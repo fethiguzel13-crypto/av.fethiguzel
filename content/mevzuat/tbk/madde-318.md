@@ -11,8 +11,6 @@ maddeNo: 318
 Madde 318 - Kiracı, kendisinin gidermekle yükümlü olmadığı ayıpları kiraya verene
 gecikmeksizin bildirmekle yükümlüdür; aksi takdirde bundan doğan zarardan sorumludur.
 
-V. Ayıpların giderilmesine ve kiralananın gösterilmesine katlanma borcu
-
 ---
 
 ### Bizim Yorumumuz

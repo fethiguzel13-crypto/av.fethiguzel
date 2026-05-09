@@ -4,7 +4,9 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 851
 ---
 
-**Madde 851**
+**II
+. Güvence altına alınan alacak
+1. Ana para**
 
 ---
 

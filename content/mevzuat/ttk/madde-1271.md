@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1271
 ---
 
-**Madde 1271**
+**XVI
+- Emredici hükümler**
 
 ---
 

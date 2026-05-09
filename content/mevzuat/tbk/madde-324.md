@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 324
 ---
 
-**1. Genel olarak**
+**IV. Kiralananın kullanılmaması
+1. Genel olarak**
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 465
 ---
 
-**Madde 465**
+**D. İznin bulunmaması**
 
 ---
 

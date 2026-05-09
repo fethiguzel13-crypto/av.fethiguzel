@@ -12,8 +12,6 @@ Madde 635 - Ortaklık sıfatının sona erdiği tarihte, ortaklığın malvarlı
 karşılamaya yetmezse, çıkan veya çıkarılan ortak, payına düşen borç tutarını, zarara katılmaya
 ilişkin düzenlemeler çerçevesinde diğer ortaklara ödemekle yükümlüdür.
 
-d. Tamamlanmamış işler
-
 ---
 
 ### Bizim Yorumumuz

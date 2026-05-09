@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 598
 ---
 
-**Madde 598**
+**IV. Mirasçılık belgesi**
 
 ---
 

@@ -15,9 +15,6 @@ olduğu gibi, tevdi ya da sözleşmeden dönme hakkını kullanabilir.
 
 İKİNCİ AYIRIM
 Borçların İfa Edilmemesinin Sonuçları
-A. Borcun ifa edilmemesi
-I. Giderim borcu
-1. Genel olarak
 
 ---
 

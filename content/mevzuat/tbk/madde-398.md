@@ -15,8 +15,6 @@ bulunur  ve  aynı  zamanda  kaçınması  da  dürüstlük  kurallarına  aykı
 verilmek koşuluyla, fazla çalışmayı yerine getirmekle yükümlüdür.
 Özel kanunlardaki hükümler saklıdır.
 
-V. Düzenlemelere ve talimata uyma borcu
-
 ---
 
 ### Bizim Yorumumuz

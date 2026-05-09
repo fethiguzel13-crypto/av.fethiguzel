@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 570
 ---
 
-**Madde 570**
+**D) Yönetim
+I
+- Uygulanacak hükümler**
 
 ---
 
-Madde 570 - (1)   Anonim   şirketlerin   yönetim   kurulunun   görevleriyle   sorumluluklarına  ilişkin   hükümleri,   yönetici   olan   komandite   ortaklar   hakkında   da   geçerlidir.  II   -   Görevden   alınma
+Madde 570 - (1)   Anonim   şirketlerin   yönetim   kurulunun   görevleriyle   sorumluluklarına  ilişkin   hükümleri,   yönetici   olan   komandite   ortaklar   hakkında   da   geçerlidir.
 
 ---
 

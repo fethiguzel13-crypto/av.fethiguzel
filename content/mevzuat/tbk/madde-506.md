@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 506
 ---
 
-**a. Genel olarak**
+**2. Şahsen ifa, sadakat ve özen gösterme
+a. Genel olarak**
 
 ---
 
@@ -15,8 +16,6 @@ Vekil  üstlendiği  iş  ve  hizmetleri,  vekâlet  verenin  haklı  menfaatler
 sadakat ve özenle yürütmekle yükümlüdür.
 Vekilin özen borcundan doğan sorumluluğunun belirlenmesinde, benzer alanda iş ve
 hizmetleri üstlenen basiretli bir vekilin göstermesi gereken davranış esas alınır.
-
-b. İşin üçüncü kişiye gördürülmesi hâlinde
 
 ---
 

@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 6
 ---
 
-**Madde 6**
+**B) Çeşitli hükümler
+I
+- Zamanaş ımı**
 
 ---
 
-Madde 6 - (1)   Ticari   hükümler   koyan   kanunlarda   öngörülen   zamanaşımı   süreleri,  Kanunda   aksine   düzenleme   yoksa,   sözleşme   ile   değiştirilemez.  II   -   Teselsül   karinesi
+Madde 6 - (1)   Ticari   hükümler   koyan   kanunlarda   öngörülen   zamanaşımı   süreleri,  Kanunda   aksine   düzenleme   yoksa,   sözleşme   ile   değiştirilemez.
 
 ---
 

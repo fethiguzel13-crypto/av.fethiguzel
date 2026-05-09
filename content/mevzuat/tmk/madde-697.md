@@ -8,7 +8,7 @@ maddeNo: 697
 
 ---
 
-Madde 697 - Bir paydaşın çıkarılmasına ilişkin hükümler, kıyas yo luyla, pay üzerinde  intifa veya diğer bir aynî ya da tapuya şerh edilmiş kişisel yararlanm a hakkı sahipleri hakkında   da  uygulanır. Ancak, devri caiz olmayan bir hakkın uygun bir tazminat karşılığında sona ermesine  karar verilir.  7. Paylı mülkiyetin sona e rmesi  a. Paylaşma istemi
+Madde 697 - Bir paydaşın çıkarılmasına ilişkin hükümler, kıyas yo luyla, pay üzerinde  intifa veya diğer bir aynî ya da tapuya şerh edilmiş kişisel yararlanm a hakkı sahipleri hakkında   da  uygulanır. Ancak, devri caiz olmayan bir hakkın uygun bir tazminat karşılığında sona ermesine  karar verilir.
 
 ---
 

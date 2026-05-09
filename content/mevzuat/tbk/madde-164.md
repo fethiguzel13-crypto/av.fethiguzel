@@ -15,8 +15,6 @@ itirazları ileri sürebilir.
 Müteselsil borçlulardan biri ortak def’i ve itirazları ileri sürmezse, diğerlerine karşı
 sorumlu olur.
 
-c. Borçluların bireysel davranışı
-
 ---
 
 ### Bizim Yorumumuz

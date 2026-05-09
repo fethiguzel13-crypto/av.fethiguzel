@@ -14,8 +14,6 @@ Kiraya veren, güvence verilmesi için kiracı ve iflas masasına yazılı olara
 süre verir. Bu süre içinde kendisine güvence verilmezse kiraya veren, sözleşmeyi herhangi bir
 fesih bildirim süresine uymaksızın hemen feshedebilir.
 
-3. Kiracının ölümü
-
 ---
 
 ### Bizim Yorumumuz

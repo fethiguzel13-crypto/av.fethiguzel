@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 406
 ---
 
-**a. Ödeme süresi**
+**2. Ücretin ödenmesi
+a. Ödeme süresi**
 
 ---
 
@@ -19,8 +20,6 @@ belirlenmez,  cirodan  veya  kârdan  pay  verilmesi  kararlaştırılan  hâlle
 dönemini izleyen en geç üç ay içinde belirlenerek ödenmesi şarttır.
 İşveren,  işçiye  zorunlu  ihtiyacının  ortaya  çıkması hâlinde  ve  hakkaniyet  gereği
 ödeyebilecek durumda ise, hizmetiyle orantılı olarak avans vermekle yükümlüdür.
-
-b. Ücretin korunması
 
 ---
 

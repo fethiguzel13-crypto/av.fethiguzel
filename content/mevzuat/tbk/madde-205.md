@@ -17,8 +17,6 @@ hükümlerine tabidir.
 Sözleşmenin devrinin geçerliliği, devredilen sözleşmenin şekline bağlıdır.
 Kanundan doğan halefiyet hâlleri ile diğer özel hükümler saklıdır.
 
-B. Sözleşmeye katılma
-
 ---
 
 ### Bizim Yorumumuz

@@ -14,7 +14,6 @@ hükümlerine uydukları sürece, taraf olarak kira sözleşmesini sürdürebili
 
 ÜÇÜNCÜ AYIRIM
 Ürün Kirası
-A. Tanımı
 
 ---
 

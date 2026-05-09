@@ -4,12 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 496
 ---
 
-**Madde 496**
+**b) Bildirme yükümü**
 
 ---
 
 Madde 496 - (1)   Borsaya   kote   edilmiş   nama   yazılı   payların   borsada   satılmaları  hâlinde,   Merkezî   Kayıt   Kuruluşu,   Sermaye   Piyasası   Kurulunun   düzenlemelerine   uygu n   olarak  devredenin   kimliğini   ve   satılan   payların   sayısını   şirkete   bildirir   veya   şirketin   bu   bilgilere  teknik   erişimini   sağlar.
-c)   Hakların   geçişi
 
 ---
 

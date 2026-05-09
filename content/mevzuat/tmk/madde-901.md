@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 901
 ---
 
-**Madde 901**
+**IV. Malikin durumu**
 
 ---
 
-Madde 901 - İpotekli borç sene dindeki borçtan kişisel olarak sorumlu olmayan rehinli  taşınma z maliki hakkında ipoteğe ilişkin hükümler uygulanır.  Taşınmaz maliki, alacaklıya karşı b orçluya ait bütün def'ileri ileri sürebilir.  V. Devir ve bölünme
+Madde 901 - İpotekli borç sene dindeki borçtan kişisel olarak sorumlu olmayan rehinli  taşınma z maliki hakkında ipoteğe ilişkin hükümler uygulanır.  Taşınmaz maliki, alacaklıya karşı b orçluya ait bütün def'ileri ileri sürebilir.
 
 ---
 

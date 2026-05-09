@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 654
 ---
 
-**Madde 654**
+**II. Mirasbırakanın mirasçılardaki alacakları**
 
 ---
 

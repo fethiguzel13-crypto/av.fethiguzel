@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 754
 ---
 
-**Madde 754**
+**3. Atıfet süreleri**
 
 ---
 
-Madde 754 - (1)   Poliçelerde   kanuni   veya   yargısal   atıfet   süreleri   geçerli   değ ildir.  D)   Poliçeye   ilişkin   işlemlerin   yapılacağı   yer
+Madde 754 - (1)   Poliçelerde   kanuni   veya   yargısal   atıfet   süreleri   geçerli   değ ildir.
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 450
 ---
 
-**I. Yükümlülükleri**
+**B. Pazarlamacının yükümlülük ve yetkileri
+I. Yükümlülükleri**
 
 ---
 
@@ -18,8 +19,6 @@ koşullarına uymak zorundadır; işveren razı olmadıkça, bunlarda değişikl
 Pazarlamacı,  pazarlama  faaliyetleri  ile  ilgili  olarak  düzenli  biçimde  ayrıntılı  bilgi
 vermek, aldığı siparişleri işverene derhâl ulaştırmak ve müşteri çevresini ilgilendiren önemli
 olayları bildirmekle yükümlüdür.
-
-II. Garanti
 
 ---
 

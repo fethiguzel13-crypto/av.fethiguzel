@@ -9,7 +9,6 @@ maddeNo: 335
 ---
 
 Madde 335 - Ergin olmayan çocuk, ana ve babasının velâyeti alt ındadır. Yasal sebep  olmadı kça velâyet ana ve babadan   alınamaz.  Hâkim   vasi atanmasına gerek görmedikçe, kısıtlanan ergin çocuklar da ana ve babanın  velâyeti altında kalırlar.
-II. Ana ve baba evli ise
 
 ---
 

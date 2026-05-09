@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 714
 ---
 
-**Madde 714**
+**c. Süreler in hesabı**
 
 ---
 
-Madde 714 - Kazand ırıcı   zamanaşımı   sürelerinin   hesaplanmasında,   kesilmesinde   ve  durmasında, Borçlar Kanununun zamanaşımına ilişkin hükümleri kıyas yoluyla uy gulanır.  6. Sahipsiz yerler ve yararı kamuya ait mallar
+Madde 714 - Kazand ırıcı   zamanaşımı   sürelerinin   hesaplanmasında,   kesilmesinde   ve  durmasında, Borçlar Kanununun zamanaşımına ilişkin hükümleri kıyas yoluyla uy gulanır.
 
 ---
 

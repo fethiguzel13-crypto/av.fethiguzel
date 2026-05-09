@@ -8,7 +8,7 @@ maddeNo: 10
 
 ---
 
-Madde 10 - Ayırt etme gücüne sahip ve kısıtlı olmayan   her e rgin kişinin fiil ehliyeti vardır.  b. Erginlik
+Madde 10 - Ayırt etme gücüne sahip ve kısıtlı olmayan   her e rgin kişinin fiil ehliyeti vardır.
 
 ---
 

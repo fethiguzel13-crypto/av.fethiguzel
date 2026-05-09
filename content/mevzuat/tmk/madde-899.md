@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 899
 ---
 
-**Madde 899**
+**II. Değer biçilmesi**
 
 ---
 
-Madde 899 - İpotekli borç senedi yoluyla r ehin kurulması için tapu idaresince taşınmaza  resmen değer biçilir.  Biçilmiş değeri aşan m iktar için ipotekli borç senedi yoluyla rehin kurulamaz.  III. Muacceliyet bildirimi
+Madde 899 - İpotekli borç senedi yoluyla r ehin kurulması için tapu idaresince taşınmaza  resmen değer biçilir.  Biçilmiş değeri aşan m iktar için ipotekli borç senedi yoluyla rehin kurulamaz.
 
 ---
 

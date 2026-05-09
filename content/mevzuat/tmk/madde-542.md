@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 542
 ---
 
-**Madde 542**
+**II. Vasiyetten dönme
+1. Yeni vasiyetname ile**
 
 ---
 
-Madde 542 - Mir asbıra kan, v asiyetname için kanunda öngörülen şekillerden birine uymak  suretiyle yeni bir vasiyetname yaparak   önceki vasiyetnameden her zaman dönebilir.  Vasiyetnamenin tamamından veya bir kıs mından dönülebilir.  2. Yok   etme ile
+Madde 542 - Mir asbıra kan, v asiyetname için kanunda öngörülen şekillerden birine uymak  suretiyle yeni bir vasiyetname yaparak   önceki vasiyetnameden her zaman dönebilir.  Vasiyetnamenin tamamından veya bir kıs mından dönülebilir.
 
 ---
 

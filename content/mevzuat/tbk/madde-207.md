@@ -15,8 +15,6 @@ alıcı borçlarını aynı anda ifa etmekle yükümlüdürler.
 Durum  ve  koşullara  göre  belirlenmesi  mümkün  olan  bedel,  kararlaştırılmış  bedel
 hükmündedir.
 
-B. Yarar ve hasar
-
 ---
 
 ### Bizim Yorumumuz

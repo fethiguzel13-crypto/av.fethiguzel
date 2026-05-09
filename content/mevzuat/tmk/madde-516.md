@@ -8,7 +8,7 @@ maddeNo: 516
 
 ---
 
-Madde 516 - Mirasbırakan, mirasının tamamı veya belli bir oranı i çin bir veya birden çok  kiş iyi mirasçı atayabilir.  Bir kişinin, m irasın   tamam ın ı veya belli bir oranını almasını içeren her tasarruf, mirasçı  atanması sayılır.  D. Belirli ma l bırakma  I. Konusu
+Madde 516 - Mirasbırakan, mirasının tamamı veya belli bir oranı i çin bir veya birden çok  kiş iyi mirasçı atayabilir.  Bir kişinin, m irasın   tamam ın ı veya belli bir oranını almasını içeren her tasarruf, mirasçı  atanması sayılır.
 
 ---
 

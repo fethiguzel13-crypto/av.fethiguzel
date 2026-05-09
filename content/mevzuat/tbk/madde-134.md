@@ -15,8 +15,6 @@ borç yenilenmiş olur.
 Kalemlerden birinin güvencesi varsa, aksi kararlaştırılmadıkça, hesap kesilip sonucun
 kabul edilmiş olması, güvenceyi sona erdirmez.
 
-D. Birleşme
-
 ---
 
 ### Bizim Yorumumuz

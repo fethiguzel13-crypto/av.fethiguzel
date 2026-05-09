@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 261
 ---
 
-**Madde 261**
+**b) Ödeme şekli**
 
 ---
 
-Madde 261 - (1)   Çıkarılan   veya   çıkan   ortak,   260   ıncı   madde   uyarınca   hesaplanan  payını   şirketten   ancak   nakden   alabilir.  c)   Ödeme   zamanı
+Madde 261 - (1)   Çıkarılan   veya   çıkan   ortak,   260   ıncı   madde   uyarınca   hesaplanan  payını   şirketten   ancak   nakden   alabilir.
 
 ---
 

@@ -8,7 +8,7 @@ maddeNo: 1088
 
 ---
 
-Madde 1088 - (1)   Kaptan,   bütün   işlerinde,   özellikle   ifası   kendisine   düşe n  sözleşmelerin   yerine   getirilmesinde   tedbirli   bir   kaptan   gibi   hareket   etmek   zorundadır.  B)   Sorumluluğu
+Madde 1088 - (1)   Kaptan,   bütün   işlerinde,   özellikle   ifası   kendisine   düşe n  sözleşmelerin   yerine   getirilmesinde   tedbirli   bir   kaptan   gibi   hareket   etmek   zorundadır.
 
 ---
 

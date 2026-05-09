@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 894
 ---
 
-**Madde 894**
+**2. Satıcılar, mirasçılar ve diğer elbirliği ortak ları bakımından**
 
 ---
 
-Madde 894 - Satıcıların,   mirasçıların   ve   diğer   elbirliği   ortaklarının   kanunî   ipotek  hakla rının, mülkiyetin naklini izleyen üç ay içinde tapu kütüğüne t escil edilmiş olması gerekir.  3. Zanaatkâr ve yükleniciler bakımından  a. Tescil
+Madde 894 - Satıcıların,   mirasçıların   ve   diğer   elbirliği   ortaklarının   kanunî   ipotek  hakla rının, mülkiyetin naklini izleyen üç ay içinde tapu kütüğüne t escil edilmiş olması gerekir.
 
 ---
 

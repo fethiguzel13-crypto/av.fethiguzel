@@ -15,10 +15,6 @@ koşullardan  anlaşılıyorsa,  alıcı  hâkimden  sözleşmenin  sona  ermesi
 isteyebilir. Bu durumda alıcı, satılanın elinde kalmış olan kısmını o zamana kadar elde etmiş
 olduğu yararlarla birlikte, satıcıya geri vermekle yükümlüdür.
 
-III. Ayıptan sorumluluk
-1. Konusu
-a. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

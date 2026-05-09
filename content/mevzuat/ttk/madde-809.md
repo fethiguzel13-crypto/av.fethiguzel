@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 809
 ---
 
-**Madde 809**
+**II
+- Protesto**
 
 ---
 
-Madde 809 - (1)   Protesto   veya   buna   denk   olan   belirleme,   ibraz   süresinin   geçmesinden  önce   yapılmalıdır.  (2)   İbraz,   sürenin   son   gününde   yapılırsa,   protesto   veya   buna   denk   belirl eme,   izleyen   iş  gününde   de   yapılabilir.  III   -   Başvurma   hakkının   kapsamı
+Madde 809 - (1)   Protesto   veya   buna   denk   olan   belirleme,   ibraz   süresinin   geçmesinden  önce   yapılmalıdır.  (2)   İbraz,   sürenin   son   gününde   yapılırsa,   protesto   veya   buna   denk   belirl eme,   izleyen   iş  gününde   de   yapılabilir.
 
 ---
 

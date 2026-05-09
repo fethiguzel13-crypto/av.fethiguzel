@@ -17,8 +17,6 @@ sürülemez.
 taşınmazı, satıcının üçüncü kişiyle kararlaştırdığı satışa ilişkin koşullarla kazanır.
 Ekonomik bakımdan satışa eşdeğer işlemlerde de yukarıdaki hükümler uygulanır.
 
-3. Kullanılması ve hükümleri
-
 ---
 
 ### Bizim Yorumumuz

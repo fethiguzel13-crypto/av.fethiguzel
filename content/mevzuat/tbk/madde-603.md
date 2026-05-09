@@ -14,7 +14,6 @@ diğer sözleşmelere de uygulanır.
 
 ONALTINCI BÖLÜM
 Kumar ve Bahis
-A. Alacağın dava ve takip edilememesi
 
 ---
 

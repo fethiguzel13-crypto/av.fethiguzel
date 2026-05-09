@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 269
 ---
 
-**a. Cayma hakkı**
+**3. Sözleşmenin sona ermesi
+a. Cayma hakkı**
 
 ---
 
@@ -19,8 +20,6 @@ Alıcının ölmesi veya kazanç elde etmekten sürekli olarak yoksun kalması s
 ödemeleri  yapamayacak  duruma  düşmesi  ya  da  sözleşmenin  yerine  olağan  koşullarla
 yapılacak bir taksitle satış sözleşmesinin konulmasına ilişkin önerisinin satıcı tarafından kabul
 edilmemesi yüzünden sözleşmeden cayılmış olursa, cayma parası istenemez.
-
-b. Sözleşmenin süresi
 
 ---
 

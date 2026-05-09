@@ -14,9 +14,6 @@ Taşınmaz satışı vaadi, geri alım ve alım sözleşmeleri, resmî şekilde 
 geçerli olmaz.
 Önalım sözleşmesinin geçerliliği, yazılı şekilde yapılmış olmasına bağlıdır.
 
-B. Satış ilişkisi doğuran haklar
-I. Süresi ve şerhi
-
 ---
 
 ### Bizim Yorumumuz

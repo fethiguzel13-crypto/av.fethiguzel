@@ -21,8 +21,6 @@ ilişkisinin  devamı  süresince  kendi  yararına  kullanamaz  veya  başkalar
 İşverenin haklı menfaatinin korunması için gerekli olduğu ölçüde işçi, hizmet ilişkisinin sona
 ermesinden sonra da sır saklamakla yükümlüdür.
 
-III. Teslim ve hesap verme borcu
-
 ---
 
 ### Bizim Yorumumuz

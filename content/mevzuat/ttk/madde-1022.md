@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1022
 ---
 
-**Madde 1022**
+**c) Sigorta tazm inatı aa) Kural**
 
 ---
 

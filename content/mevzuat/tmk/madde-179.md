@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 179
 ---
 
-**Madde 179**
+**VI. Mal rejiminin tasfiyesi
+1. Boşanma hâlinde**
 
 ---
 
-Madde 179 - Mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin   hüküm ler  uygulanır.  2. Ayrılık hâlinde
+Madde 179 - Mal rejiminin tasfiyesinde eşlerin bağlı olduğu rejime ilişkin   hüküm ler  uygulanır.
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 437
 ---
 
-**a. Haklı sebeple fesihte**
+**2. Sonuçları
+a. Haklı sebeple fesihte**
 
 ---
 
@@ -14,8 +15,6 @@ tutularak, tamamen gidermekle yükümlüdür.
 
 Diğer durumlarda hâkim, bütün durum ve koşulları göz önünde tutarak haklı sebeple
 feshin maddi sonuçlarını serbestçe değerlendirir.
-
-b. Haklı sebebe dayanmayan fesihte
 
 ---
 

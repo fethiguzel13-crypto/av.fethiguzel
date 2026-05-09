@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 513
 ---
 
-**Madde 513**
+**IV. Borç ödemeden aciz sebebiyle mirasçılıktan çıkarma**
 
 ---
 

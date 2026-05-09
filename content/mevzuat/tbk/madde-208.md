@@ -18,7 +18,6 @@ hasar, satılanın taşıyıcıya teslim edildiği anda alıcıya geçer.
 
 İKİNCİ AYIRIM
 Taşınır Satışı
-A. Konusu
 
 ---
 

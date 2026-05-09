@@ -15,9 +15,6 @@ yapılmamış ise ödeme, vadesi ilk önce gelmiş olan borç için yapılmış 
 Birden çok borcun vadesi aynı zamanda gelmişse, mahsup orantılı olarak; borçlardan
 hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için yapılmış sayılır.
 
-III. Makbuz ve senetlerin geri verilmesi
-1. Borçlunun hakkı
-
 ---
 
 ### Bizim Yorumumuz

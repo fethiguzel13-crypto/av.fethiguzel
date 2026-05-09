@@ -4,11 +4,14 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1006
 ---
 
-**Madde 1006**
+**C) Sicile kayıtlı gemi payı ve iştirak payı üzerinde mülkiyet
+I
+- İktisabı
+1. Aslen**
 
 ---
 
-Madde 1006 - (1)   Sicile   kayıtlı   gemi   payı   veya   iştirak   payı   üzerindeki   mülkiyetin  aslen   iktisabı,   sicile   kayıtlı   gemiler   hakkındaki   hükümlere   tabidir.  2.   Devren  a)   Devir   yoluyla
+Madde 1006 - (1)   Sicile   kayıtlı   gemi   payı   veya   iştirak   payı   üzerindeki   mülkiyetin  aslen   iktisabı,   sicile   kayıtlı   gemiler   hakkındaki   hükümlere   tabidir.
 
 ---
 

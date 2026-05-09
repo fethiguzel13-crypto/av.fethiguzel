@@ -15,8 +15,6 @@ Bu  haktan  başlangıçta  feragat,  ancak  kira  bedelinin  belirlenmesi  sır
 durumların meydana gelmesi olasılığı göz önünde tutulmuş veya doğan zarar bir sigorta ile
 karşılanmış ise, geçerli olur.
 
-II. Kiralananı kullanma ve işletme borcu
-
 ---
 
 ### Bizim Yorumumuz

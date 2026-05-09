@@ -14,9 +14,6 @@ sebep göstermeksizin geri vermekte serbesttir.
 Satılan, alıcının zilyetliğine geçmiş olsa bile, satılanın mülkiyeti, beğenme koşulunun
 gerçekleştiği ana kadar satıcıda kalır.
 
-III. Deneme veya gözden geçirme
-1. Satıcının yanında
-
 ---
 
 ### Bizim Yorumumuz

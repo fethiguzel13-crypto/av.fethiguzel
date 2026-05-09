@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 628
 ---
 
-**Madde 628**
+**III
+- Müdürlerin yerleşim yeri**
 
 ---
 

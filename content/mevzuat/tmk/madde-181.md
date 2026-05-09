@@ -4,12 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 181
 ---
 
-**Madde 181**
+**VII. Miras hakları**
 
 ---
 
 Madde 181 - Boşa nan e şler, bu sıfatla birbirlerinin yasal mirasçısı olamazlar ve boşanmadan  önce yapılmış olan ölüme bağlı tasarr uflarla kendilerine sağlanan hakları,   aksi tasarruftan  anlaşılmadıkça, kaybederler.  (Değişik ikinci fıkra: 31/3/2011 - 6217/19 md.)   Boşanma dava sı de vam e derken, ölen eşin
-mirasçılarından birisinin davaya devam etmesi ve diğer eşin kusurunun ispatlanması hâ linde de  yukarıdaki fıkra hükmü uygulanır.  VIII. Çocuklar bakımından ana ve babanın hakları  1. Hâkimin takdir yetkisi
+mirasçılarından birisinin davaya devam etmesi ve diğer eşin kusurunun ispatlanması hâ linde de  yukarıdaki fıkra hükmü uygulanır.
 
 ---
 

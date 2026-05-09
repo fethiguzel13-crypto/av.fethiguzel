@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 946
 ---
 
-**Madde 946**
+**C) Geminin bağlama limanı**
 
 ---
 
-Madde 946 - (1)   Bir   geminin   bağlama   limanı   o   gemiye   ait   seferlerin   yönetildiği  yerdir.  D)   Ceza   hükümleri  I -   Suç   oluşturan   fiiller  1.   Kanuna   aykı rı   şekilde   bayrak   çekme
+Madde 946 - (1)   Bir   geminin   bağlama   limanı   o   gemiye   ait   seferlerin   yönetildiği  yerdir.
 
 ---
 

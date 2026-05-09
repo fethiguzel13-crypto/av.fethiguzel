@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 995
 ---
 
-**Madde 995**
+**L) Türk Uluslararası Gemi Sicili**
 
 ---
 

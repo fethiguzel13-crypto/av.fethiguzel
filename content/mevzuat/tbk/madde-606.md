@@ -22,7 +22,6 @@ ONYEDİNCİ BÖLÜM
 
 BİRİNCİ AYIRIM
 Ömür Boyu Gelir Sözleşmesi
-A. Tanımı
 
 ---
 

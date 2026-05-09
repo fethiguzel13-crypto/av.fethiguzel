@@ -17,7 +17,6 @@ BEŞİNCİ BÖLÜM
 
 BİRİNCİ AYIRIM
 Kullanım Ödüncü
-A. Tanımı
 
 ---
 

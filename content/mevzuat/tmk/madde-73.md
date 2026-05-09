@@ -4,7 +4,8 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 73
 ---
 
-**Madde 73**
+**II. Genel kurul
+1. Niteliği ve oluşumu**
 
 ---
 

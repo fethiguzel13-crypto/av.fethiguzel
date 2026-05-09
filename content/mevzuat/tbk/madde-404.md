@@ -26,8 +26,6 @@ Hesabı  gözden  geçirme  ihtiyacı  ortaya  çıkarsa  işveren,  işçiye  v
 birlikte kararlaştırdıkları ya da hâkimin atadığı bilirkişiye bilgi vermek ve bilginin dayanağını
 oluşturan işletmeyle ilgili defter ve belgeleri onun incelemesine sunmak zorundadır.
 
-e. İkramiye
-
 ---
 
 ### Bizim Yorumumuz

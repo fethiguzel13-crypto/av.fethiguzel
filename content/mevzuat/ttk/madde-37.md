@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 37
 ---
 
-**Madde 37**
+**2. Görünüşe güven**
 
 ---
 
-Madde 37 - (1)   Tescil   kaydı   ile   ilan   edilen   durum   arasında   aykırılık   bulunması  hâlinde,   tescil   edilmiş   olan   gerçek   durumu   bildikleri   ispat   edi lmediği   sürece,   üçüncü   kişilerin  ilan   edilen   duruma   güvenleri   korunur.  3.   Sorumluluk
+Madde 37 - (1)   Tescil   kaydı   ile   ilan   edilen   durum   arasında   aykırılık   bulunması  hâlinde,   tescil   edilmiş   olan   gerçek   durumu   bildikleri   ispat   edi lmediği   sürece,   üçüncü   kişilerin  ilan   edilen   duruma   güvenleri   korunur.
 
 ---
 

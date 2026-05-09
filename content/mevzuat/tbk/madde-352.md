@@ -22,8 +22,6 @@ oturmaya  elverişli  bir  konutu  bulunması  durumunda  kiraya  veren,  kira  
 kurulması  sırasında  bunu  bilmiyorsa,  sözleşmenin  bitiminden  başlayarak  bir  ay  içinde
 sözleşmeyi dava yoluyla sona erdirebilir.
 
-3. Dava süresinin uzaması
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 905
 ---
 
-**Madde 905**
+**D) Taşınma eşyasının taşıması**
 
 ---
 

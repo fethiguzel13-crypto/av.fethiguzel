@@ -8,7 +8,7 @@ maddeNo: 718
 
 ---
 
-Madde 718 - Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstündeki  hava ve altındaki arz katmanlarını ka psar.  Bu mülkiyetin kapsamına, yasal sınırlamalar saklı kalmak üzere yapılar, bitkiler ve  kaynaklar da girer.  II. Sı nırlar  1. Sınırların belirlenmesi
+Madde 718 - Arazi üzerindeki mülkiyet, kullanılmasında yarar olduğu ölçüde, üstündeki  hava ve altındaki arz katmanlarını ka psar.  Bu mülkiyetin kapsamına, yasal sınırlamalar saklı kalmak üzere yapılar, bitkiler ve  kaynaklar da girer.
 
 ---
 

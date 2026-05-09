@@ -17,8 +17,6 @@ başlayarak bir yıl içinde bağışlamayı geri alma hakkını kullanabilirler
 Bağışlanan, bağışlayanı kasten ve hukuka aykırı olarak öldürür veya onun geri alma
 hakkını kullanmasını engellerse, mirasçıları bağışlamayı geri alabilirler.
 
-IV. Bağışlayanın ölümü
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 475
 ---
 
-**Madde 475**
+**III
+- Kararların yerine getirilmesi**
 
 ---
 

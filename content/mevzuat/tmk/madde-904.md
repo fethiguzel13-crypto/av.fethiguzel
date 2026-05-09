@@ -8,7 +8,7 @@ maddeNo: 904
 
 ---
 
-Madde 904 - İrat senetlerindeki alacak miktarı, tarım araz isinde arazinin gelir değerinin,  diğer taşınmazlarda taşınmazı n gelir değeri ile bina ve arsa değerleri ortalamasının beşte üçünü  aşamaz.  Değerlendirmel er tapu idaresince resmen yapılır.  III. Devletin sorumluluğu
+Madde 904 - İrat senetlerindeki alacak miktarı, tarım araz isinde arazinin gelir değerinin,  diğer taşınmazlarda taşınmazı n gelir değeri ile bina ve arsa değerleri ortalamasının beşte üçünü  aşamaz.  Değerlendirmel er tapu idaresince resmen yapılır.
 
 ---
 

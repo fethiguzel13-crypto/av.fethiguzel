@@ -14,8 +14,6 @@ gerekiyorsa, tazminat istenemez.
 Hâkim,  hakkaniyetin  gerektirdiği  durumlarda,  ifadan  beklenen  yararı  aşmamak
 kaydıyla, daha fazla tazminata hükmedebilir.
 
-II. Aldatma
-
 ---
 
 ### Bizim Yorumumuz

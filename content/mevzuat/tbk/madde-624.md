@@ -12,8 +12,6 @@ Madde 624 - Ortaklığın kararları, bütün ortakların oybirliğiyle alınır
 Sözleşmede kararların oy çokluğuyla alınacağı belirtilmişse çoğunluk, ortak sayısına
 göre belirlenir.
 
-IV. Ortaklığın yönetimi
-
 ---
 
 ### Bizim Yorumumuz

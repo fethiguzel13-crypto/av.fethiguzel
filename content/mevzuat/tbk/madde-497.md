@@ -16,9 +16,6 @@ Taraflar,  bedeli  satış  miktarına  bağlamışlarsa  yayımcı,  satış  h
 Aksi kararlaştırılmadıkça yayımlatanın, eserden, teamül uyarınca verilmesi gereken
 miktarda bedelsiz alma hakkı vardır.
 
-D. Sona ermesi
-I. Eserin yok olması
-
 ---
 
 ### Bizim Yorumumuz

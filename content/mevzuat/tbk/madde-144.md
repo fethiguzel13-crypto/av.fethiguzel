@@ -16,8 +16,6 @@ verilmesine veya bedeline ilişkin alacaklar.
 3. Nafaka ve işçi ücreti gibi, borçlunun ve ailesinin bakımı için zorunlu olup, özel
 niteliği gereği, doğrudan alacaklıya verilmesi gereken alacaklar.
 
-IV. Takastan feragat
-
 ---
 
 ### Bizim Yorumumuz

@@ -15,8 +15,6 @@ sözleşmedir.
 kararlaştırıldığı ürün kirasıdır. Bu oran sözleşmeyle kararlaştırılmamışsa,  yerel âdete  göre
 belirlenir.
 
-B. Genel hükümlerin uygulanması
-
 ---
 
 ### Bizim Yorumumuz

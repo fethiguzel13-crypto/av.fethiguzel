@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 219
 ---
 
-**a. Genel olarak**
+**III. Ayıptan sorumluluk
+1. Konusu
+a. Genel olarak**
 
 ---
 
@@ -14,8 +16,6 @@ olan,  kullanım  amacı  bakımından  değerini  ve  alıcının  ondan  bekle
 kaldıran veya önemli ölçüde azaltan maddi, hukuki ya da ekonomik ayıpların bulunmasından
 da sorumlu olur.
 Satıcı, bu ayıpların varlığını bilmese bile onlardan sorumludur.
-
-b. Hayvan satışında
 
 ---
 

@@ -15,9 +15,6 @@ altına alınıncaya kadar kendi ediminin ifasından kaçınabilir.
 Hakkı  tehlikeye  düşen  taraf,  ayrıca  uygun  bir  sürede  istediği  güvence  verilmezse
 sözleşmeden dönebilir.
 
-D. Ödeme
-I. Ülke parası ile
-
 ---
 
 ### Bizim Yorumumuz

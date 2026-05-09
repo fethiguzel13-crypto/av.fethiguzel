@@ -14,9 +14,6 @@ Henüz edinilmemiş olan bir haktan feragat etmek veya bir mirası reddetmek, ba
 değildir.
 Ahlaki bir ödevin yerine getirilmesi de bağışlama sayılmaz.
 
-B. Bağışlama ehliyeti
-I. Bağışlayan için
-
 ---
 
 ### Bizim Yorumumuz

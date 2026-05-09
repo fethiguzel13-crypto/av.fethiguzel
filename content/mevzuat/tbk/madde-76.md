@@ -17,8 +17,6 @@ vermesine karar verir.
 
 ÜÇÜNCÜ AYIRIM
 Sebepsiz Zenginleşmeden Doğan Borç İlişkileri
-A. Koşulları
-I. Genel olarak
 
 ---
 

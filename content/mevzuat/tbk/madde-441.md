@@ -16,9 +16,6 @@ kurulmuşsa, onun ölümüyle kendiliğinden sona erer. Ancak, işçi sözleşme
 sona  ermesi  yüzünden  uğradığı  zarar  için,  mirasçılardan  hakkaniyete  uygun  bir  tazminat
 isteminde bulunabilir.
 
-VI. Sözleşmenin sona ermesinin sonuçları
-1. Borçların muaccel olması
-
 ---
 
 ### Bizim Yorumumuz

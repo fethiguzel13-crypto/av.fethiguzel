@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 42
 ---
 
-**a. Yetkinin sınırlanması ve geri alınması**
+**2. Hukuki işlemden doğan yetki
+a. Yetkinin sınırlanması ve geri alınması**
 
 ---
 
@@ -15,8 +16,6 @@ Temsil olunan, bu hakkından önceden feragat edemez.
 Temsil olunan verdiği yetkiyi üçüncü kişilere açıkça veya dolaylı biçimde bildirmişse,
 bu  yetkiyi  tamamen  veya  kısmen  geri  aldığını  onlara  bildirmediği  takdirde,  yetkinin  geri
 alındığını iyiniyetli üçüncü kişilere karşı ileri süremez.
-
-b. Ölüm, ehliyetsizlik ve diğer durumlar
 
 ---
 

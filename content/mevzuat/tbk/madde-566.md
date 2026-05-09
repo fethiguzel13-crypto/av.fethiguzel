@@ -11,8 +11,6 @@ maddeNo: 566
 Madde 566 - Saklanan, masrafları ve hasarı saklatana ait olmak üzere, korunması
 gereken yerde geri verilir.
 
-3. Saklayanların sorumluluğu
-
 ---
 
 ### Bizim Yorumumuz

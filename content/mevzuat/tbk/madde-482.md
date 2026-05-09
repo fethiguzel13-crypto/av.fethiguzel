@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 482
 ---
 
-**I. Yaklaşık bedelin aşılması**
+**C. Sözleşmenin sona ermesi
+I. Yaklaşık bedelin aşılması**
 
 ---
 
@@ -15,8 +16,6 @@ Eser,  işsahibinin  arsası  üzerine  yapılıyorsa  işsahibi,  bedelden  uyg
 indirilmesini  isteyebileceği  gibi,  eser  henüz  tamamlanmamışsa,  yükleniciyi  işe  devamdan
 alıkoyarak, tamamlanan kısım için hakkaniyete uygun bir bedel ödemek suretiyle sözleşmeyi
 feshedebilir.
-
-II. Eserin yok olması
 
 ---
 

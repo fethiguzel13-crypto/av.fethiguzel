@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 207
 ---
 
-**Madde 207**
+**2. Yetki**
 
 ---
 
-Madde 207 - Yetkili mahkeme eşlerden herhangi birinin   yerleşim yeri mahkemesidir.  3. Mal ayrılığına geçişten dönme
+Madde 207 - Yetkili mahkeme eşlerden herhangi birinin   yerleşim yeri mahkemesidir.
 
 ---
 

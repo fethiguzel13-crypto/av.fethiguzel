@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 642
 ---
 
-**1. Katılım payı için yapılacak işlem**
+**III. Tasfiye
+1. Katılım payı için yapılacak işlem**
 
 ---
 
@@ -13,8 +14,6 @@ ermesi üzerine yapılacak tasfiye sonucunda, o şeyi olduğu gibi geri alamaz; 
 katılım payına ne değer biçilmişse, o değeri isteyebilir.
 Bu değer belirlenmemişse, geri alma, o şeyin katılım payı olarak konduğu zamandaki
 değeri üzerinden yapılır.
-
-2. Kazanç ve zararın paylaşımı
 
 ---
 

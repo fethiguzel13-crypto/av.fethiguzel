@@ -4,7 +4,10 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1421
 ---
 
-**Madde 1421**
+**III
+- Tarafların borç ve yükümlülükleri
+1. Sigortacının borç ve yükümlülükleri
+a) Rizikoyu taşıma yükümlülüğü aa) Genel olarak**
 
 ---
 

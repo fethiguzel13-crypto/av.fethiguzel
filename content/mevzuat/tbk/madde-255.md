@@ -18,9 +18,6 @@ gözden  geçirmenin  gerektirdiği  ölçüde  kullanabilir;  aksi  takdirde  s
 sonuçlarını doğurmuş olur.
 Alıcının geri alma hakkını kullanması hâlinde, kendisinden cayma parası istenemez.
 
-4. Tarafların hak ve borçları
-a. Peşinatı ödeme borcu ve sözleşmenin süresi
-
 ---
 
 ### Bizim Yorumumuz

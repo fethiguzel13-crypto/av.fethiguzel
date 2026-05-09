@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 298
 ---
 
-**Madde 298**
+**VII
+- Ortakların ek ödemeleri**
 
 ---
 
-Madde 298 - (1)   Bir   kollektif   şirk etin   varlığı,   borçlarının   tamamına   yetmediği  takdirde,   kalan   şirket   borçlarının   ödenmesini   sağlamak   için   tasfiye   memurları   ortaklara  başvururlar.  VIII   -   Tasfiyeden   arta   kalanın   dağıtılması  1.   Geçici   ödemeler
+Madde 298 - (1)   Bir   kollektif   şirk etin   varlığı,   borçlarının   tamamına   yetmediği  takdirde,   kalan   şirket   borçlarının   ödenmesini   sağlamak   için   tasfiye   memurları   ortaklara  başvururlar.
 
 ---
 

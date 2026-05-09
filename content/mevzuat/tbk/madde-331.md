@@ -14,8 +14,6 @@ her zaman feshedebilir.
 Hâkim, durum ve koşulları göz önünde tutarak, olağanüstü fesih  bildiriminin  parasal
 sonuçlarını karara bağlar.
 
-2. Kiracının iflası
-
 ---
 
 ### Bizim Yorumumuz

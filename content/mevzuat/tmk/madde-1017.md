@@ -4,7 +4,8 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 1017
 ---
 
-**Madde 1017**
+**III. Tesc ilin biçimi
+1. Genel olarak**
 
 ---
 

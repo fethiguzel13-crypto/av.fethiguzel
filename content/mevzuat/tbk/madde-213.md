@@ -17,9 +17,6 @@ Satılan, borsada kayıtlı veya piyasa fiyatı bulunan mallardan ise alıcı, o
 başkasını satın alma zorunda olmaksızın, satış bedeli ile belirlenmiş ifa günündeki piyasa
 fiyatı arasındaki farka göre hesaplanacak zararın giderilmesini isteyebilir.
 
-II. Zapttan sorumluluk
-1. Konusu
-
 ---
 
 ### Bizim Yorumumuz

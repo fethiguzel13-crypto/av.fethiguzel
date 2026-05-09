@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 616
 ---
 
-**I. Önel verilerek fesih**
+**F. Sona ermesi
+I. Önel verilerek fesih**
 
 ---
 
@@ -15,8 +16,6 @@ tespitinde, ilgili sosyal güvenlik kurumunca, bakım borçlusuna verilenin değ
 anapara değeri ile bağlanacak irat arasındaki fark esas alınır.
 Sözleşmenin sona erdirilmesi anına kadar geçen sürede ifa edilmiş edimler, anapara ve
 faiziyle birlikte değerlendirilerek, denkleştirme sonucunda alacaklı çıkan tarafa geri verilir.
-
-II. Önel verilmeksizin fesih
 
 ---
 

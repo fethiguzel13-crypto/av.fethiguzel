@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1038
 ---
 
-**Madde 1038**
+**8. G emi ipoteğinin devri ve değiştirilmesi
+a) İpoteğin devri aa) Genel olarak**
 
 ---
 

@@ -4,14 +4,14 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 210
 ---
 
-**1. Kural**
+**B. Satıcının borçları
+I. Zilyetliğin devri
+1. Kural**
 
 ---
 
 Madde 210 - Satıcı,  satılanın  mülkiyetini  geçirmek  amacıyla,  zilyetliğini  alıcıya
 devretmekle yükümlüdür.
-
-2. Devir ve taşıma giderleri
 
 ---
 

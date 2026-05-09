@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 532
 ---
 
-**Madde 532**
+**II
+- Hükümleri
+1. Tescil ve ilan**
 
 ---
 
-Madde 532 - (1)   Sona   erme,   iflastan   ve   mahkeme   kararından   başka   bir   sebepten   ileri  gelmişse,   yönetim   kurulunca   ticaret   siciline   tescil   ve   ilan   ettirilir.  2.   Sonuçlar
+Madde 532 - (1)   Sona   erme,   iflastan   ve   mahkeme   kararından   başka   bir   sebepten   ileri  gelmişse,   yönetim   kurulunca   ticaret   siciline   tescil   ve   ilan   ettirilir.
 
 ---
 

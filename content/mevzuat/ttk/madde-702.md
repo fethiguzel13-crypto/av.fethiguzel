@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 702
 ---
 
-**Madde 702**
+**III
+- Hükümler**
 
 ---
 

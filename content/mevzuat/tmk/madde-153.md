@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 153
 ---
 
-**Madde 153**
+**II. Yasal temsilcinin dava hakkı**
 
 ---
 

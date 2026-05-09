@@ -4,12 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 706
 ---
 
-**Madde 706**
+**II. Kazanma yolları 1.Hukukî işlem**
 
 ---
 
 Madde 706 - Taşınmaz mülkiyetinin   devrini amaçlayan sözleşmelerin geçerli olması,  resmî şekilde düzenlenmiş bulunmalarına b ağlıdır.  Ölüme bağlı tasar ruflar ve mal rejimi sözleşmeleri, kendilerine özgü şekillere tâbidir.
-2. İşgal
 
 ---
 

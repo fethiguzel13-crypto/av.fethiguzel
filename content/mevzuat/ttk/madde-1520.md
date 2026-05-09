@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1520
 ---
 
-**Madde 1520**
+**IX
+- Koruyucu hükümler**
 
 ---
 

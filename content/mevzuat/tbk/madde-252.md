@@ -16,10 +16,6 @@ Alıcının, herhangi bir çekince belirtmeksizin satış bedelinin tamamını v
 ödemesiyle ya da satılanı deneme veya gözden geçirme amacını aşacak biçimde kullanmasıyla
 da beğenme koşulu gerçekleşmiş olur.
 
-C. Kısmi ödemeli satışlar
-I. Taksitle satış
-1. Tanımı, şekli ve içeriği
-
 ---
 
 ### Bizim Yorumumuz

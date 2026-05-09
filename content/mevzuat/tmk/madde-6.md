@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 6
 ---
 
-**Madde 6**
+**D. İspat kuralları
+I. İspat yükü**
 
 ---
 
-Madde 6 - Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını  dayandırdığ ı olg uları n varlığını ispatla yükümlüdür.  II. Resmî belgelerle ispat
+Madde 6 - Kanunda aksine bir hüküm bulunmadıkça, taraflardan her biri, hakkını  dayandırdığ ı olg uları n varlığını ispatla yükümlüdür.
 
 ---
 

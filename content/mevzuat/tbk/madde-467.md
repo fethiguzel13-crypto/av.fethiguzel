@@ -14,8 +14,6 @@ engellendiği takdirde, hizmet ediminin engellenmesi durumundaki ücret ödenmes
 hükümler  gereğince,  ona  ücretini  ödemekle  yükümlüdür.  Diğer  durumlarda  işveren,  bu
 hükümlere göre ücret ödemekle yükümlü değildir.
 
-V. Sona ermesi
-
 ---
 
 ### Bizim Yorumumuz

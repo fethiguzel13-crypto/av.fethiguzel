@@ -9,7 +9,7 @@ maddeNo: 669
 ---
 
 Madde 669 - Yasal miras çılar, mirasbırakandan miras paylarına mahsuben elde ettikleri  sağlararası karşılıksız kazandırmaları, denkleştirmeyi sağlamak için terekey e geri vermekle  birbirlerine karşı yükümlüdürler.
-Mirasbırakanın çeyiz veya kuruluş sermay esi vermek ya da bir malvar lığını devretmek veya  borçtan kurtarmak ve benzerleri gibi karşılık almaksızın altsoyuna yapmış olduğu kazandırmalar,  aksi mirasbırakan tar afından açıkça belirtilmiş olmadıkça, denkleştirmeye tâbidir.  B. Mirasçılık sıfatının ka ybı hâlinde
+Mirasbırakanın çeyiz veya kuruluş sermay esi vermek ya da bir malvar lığını devretmek veya  borçtan kurtarmak ve benzerleri gibi karşılık almaksızın altsoyuna yapmış olduğu kazandırmalar,  aksi mirasbırakan tar afından açıkça belirtilmiş olmadıkça, denkleştirmeye tâbidir.
 
 ---
 

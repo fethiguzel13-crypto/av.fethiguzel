@@ -8,7 +8,7 @@ maddeNo: 937
 
 ---
 
-Madde 937 - Rehinli taşınmazın maliki veya aracı kurum, ödeme plânına göre kur'a  çekmek v e karşılığı ödenen senetleri iptal etmekle yükümlüdür.  İrat senetlerinde bu işlemler Devletçe denetleni r.  c. Geri ödemelerin özgülenmesi
+Madde 937 - Rehinli taşınmazın maliki veya aracı kurum, ödeme plânına göre kur'a  çekmek v e karşılığı ödenen senetleri iptal etmekle yükümlüdür.  İrat senetlerinde bu işlemler Devletçe denetleni r.
 
 ---
 

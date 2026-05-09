@@ -8,7 +8,7 @@ maddeNo: 448
 
 ---
 
-Madde 448 - Vesayet dairelerinin yetkilerine   ilişkin hükümler saklı kalmak kaydıyla vasi,  vesayet altındaki kişiyi bütün huku kî işlemlerinde temsil eder .  2. Yasak işlemler
+Madde 448 - Vesayet dairelerinin yetkilerine   ilişkin hükümler saklı kalmak kaydıyla vasi,  vesayet altındaki kişiyi bütün huku kî işlemlerinde temsil eder .
 
 ---
 

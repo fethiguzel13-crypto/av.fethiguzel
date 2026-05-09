@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 842
 ---
 
-**Madde 842**
+**3. Güvence amacıyla kurulma**
 
 ---
 
-Madde 842 - Bir para alacağını güvence altına almak ama cıyla kurulan taşınmaz yükü  hakkında irat senedine ilişkin hükümler uygulanır.  II. Sona ermesi  1. Gen el olarak
+Madde 842 - Bir para alacağını güvence altına almak ama cıyla kurulan taşınmaz yükü  hakkında irat senedine ilişkin hükümler uygulanır.
 
 ---
 

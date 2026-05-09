@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 631
 ---
 
-**Madde 631**
+**E. Mirasın Devlete geçmesi hâli**
 
 ---
 

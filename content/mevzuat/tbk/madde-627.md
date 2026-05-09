@@ -16,8 +16,6 @@ Ortaklığa avans olarak para veren ortak, verdiği günden başlamak üzere fai
 Yükümlü olmadığı hâlde ortaklık işleri için emek sarfetmiş olan bir ortak, hakkaniyetin
 gerektirdiği bir karşılık ödenmesini isteyebilir.
 
-3. Özen borcu
-
 ---
 
 ### Bizim Yorumumuz

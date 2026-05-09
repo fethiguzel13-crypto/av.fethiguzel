@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 88
 ---
 
-**Madde 88**
+**II. Genel k urul kararı ile**
 
 ---
 
-Madde 88 - Genel kurul, her zaman derneğin feshine karar verebilir.  III. Mahke me ka rarı ile
+Madde 88 - Genel kurul, her zaman derneğin feshine karar verebilir.
 
 ---
 

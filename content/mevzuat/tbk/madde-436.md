@@ -12,9 +12,6 @@ Madde 436 - İşverenin  ödeme  güçsüzlüğüne  düşmesi  hâlinde  işçi
 doğan hakları uygun bir süre içinde işveren tarafından güvenceye bağlanmazsa, sözleşmeyi
 derhâl feshedebilir.
 
-2. Sonuçları
-a. Haklı sebeple fesihte
-
 ---
 
 ### Bizim Yorumumuz

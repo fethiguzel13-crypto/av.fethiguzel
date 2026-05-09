@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 256
 ---
 
-**a. Peşinatı ödeme borcu ve sözleşmenin süresi**
+**4. Tarafların hak ve borçları
+a. Peşinatı ödeme borcu ve sözleşmenin süresi**
 
 ---
 
@@ -17,8 +18,6 @@ kadar indirebileceği gibi, iki katına kadar çıkartabilir.
 Kanunda  belirlenen  asgari  peşinatı  tamamen  almaksızın,  satılanı  alıcıya  devreden
 satıcı, peşinatın ödenmeyen kısmı üzerinde istem hakkını kaybeder.
 Peşinattan vazgeçilmesi karşılığında, satış bedelinde yapılacak artırma hükümsüzdür.
-
-b. Alıcının def’ileri
 
 ---
 

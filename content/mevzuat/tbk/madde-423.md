@@ -21,8 +21,6 @@ yerine getiremeyen kadın işçinin yıllık ücretli izin süresinden indirim y
 Hizmet  veya  toplu  iş  sözleşmeleriyle,  işçinin  aleyhine  hüküm  doğuracak  şekilde,
 ikinci ve üçüncü fıkra hükümlerine aykırı düzenleme yapılamaz.
 
-c. Kullanılması
-
 ---
 
 ### Bizim Yorumumuz

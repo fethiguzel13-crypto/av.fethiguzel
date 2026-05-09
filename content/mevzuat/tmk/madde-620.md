@@ -4,7 +4,8 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 620
 ---
 
-**Madde 620**
+**B. Usul
+I. Deftere geçirme**
 
 ---
 

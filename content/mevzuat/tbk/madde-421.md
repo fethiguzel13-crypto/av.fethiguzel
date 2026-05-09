@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 421
 ---
 
-**1. Hafta tatili ve iş arama izni**
+**VI. Tatil ve izinler
+1. Hafta tatili ve iş arama izni**
 
 ---
 
@@ -14,9 +15,6 @@ koşullar buna imkân vermezse, bir tam çalışma günü tatil vermekle yüküm
 ücretinde bir kesinti olmaksızın, günde iki saat iş arama izni vermekle yükümlüdür.
 İzin saatlerinin ve günlerinin belirlenmesinde, işyerinin ve işçinin haklı menfaatleri
 göz önünde tutulur.
-
-2. Yıllık izin
-a. Süresi
 
 ---
 

@@ -15,8 +15,6 @@ Kiraya  veren,  kiracı  tarafından  kiralanana  getirilmiş  olan  taşınırl
 mülkiyetinde olmadığını kira sözleşmesi devam ederken öğrendiği hâlde, sözleşmeyi en yakın
 fesih döneminin sonu için feshetmezse, bu eşya üzerindeki hapis hakkını kaybeder.
 
-III. Hakkın kullanılması
-
 ---
 
 ### Bizim Yorumumuz

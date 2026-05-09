@@ -24,10 +24,6 @@ kapsamında kullanılacak kredilerde verilecek kefaletler ile tarım kredi, tar�
 sanatkârlar  kredi  ve  kefalet  kooperatifleri  ile  kamu  kurum  ve  kuruluşlarınca  kooperatif
 ortaklarına kullandırılacak kredilerde verilecek kefaletler için eşin rızası aranmaz.
 
-C. İçeriği
-I. Türlerine göre
-1. Adi kefalet
-
 ---
 
 ### Bizim Yorumumuz

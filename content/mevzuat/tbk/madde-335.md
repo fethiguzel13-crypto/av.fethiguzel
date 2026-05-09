@@ -15,9 +15,6 @@ teslim alma sırasında olağan incelemeyle belirlenemeyecek olan eksikliklerin 
 varlığı  hâlinde,  kiracının  sorumluluğu  devam  eder.  Kiraya  veren,  bu  tür  eksiklikleri  ve
 ayıpları belirlediğinde, kiracıya hemen yazılı olarak bildirmek zorundadır.
 
-H. Kiraya verenin hapis hakkı
-I. Konusu
-
 ---
 
 ### Bizim Yorumumuz

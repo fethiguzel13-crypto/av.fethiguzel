@@ -22,8 +22,6 @@ aykırı davranışının kiraya veren veya aynı taşınmazda oturan kişiler i
 çekilmez  olması  durumlarında  kiraya  veren,  yazılı  bir  bildirimle  sözleşmeyi  hemen
 feshedebilir.
 
-III. Temizlik ve bakım giderlerini ödeme borcu
-
 ---
 
 ### Bizim Yorumumuz

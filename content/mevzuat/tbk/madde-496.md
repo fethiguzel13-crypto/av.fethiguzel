@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 496
 ---
 
-**1. Bedelin belirlenmesi**
+**VIII. Bedel isteme hakkı
+1. Bedelin belirlenmesi**
 
 ---
 
@@ -14,8 +15,6 @@ Bedel  ödenmesi  gereken  hâllerde  ödenecek  miktar  belli  değilse  bedel,
 tarafından belirlenir.
 Yayımcının birden fazla basım yapma hakkı varsa, ilk basım için kararlaştırılan bedel
 ve diğer koşulların, sonraki basımlar için de uygulanacağı kabul edilmiş sayılır.
-
-2. Bedelin ödenme zamanı, satış hesapları ve bedelsiz alma hakkı
 
 ---
 

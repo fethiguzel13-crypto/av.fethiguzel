@@ -8,7 +8,7 @@ maddeNo: 154
 
 ---
 
-Madde 154 - Kadının bekleme süresi b itmed en evlenmesi, evlenmenin butlanını gerektirmez.  II. Şekil kurallarına uymama
+Madde 154 - Kadının bekleme süresi b itmed en evlenmesi, evlenmenin butlanını gerektirmez.
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 101
 ---
 
-**a. Borçlu ve alacaklının bildirimine göre**
+**2. Birden çok borçta
+a. Borçlu ve alacaklının bildirimine göre**
 
 ---
 
@@ -12,8 +13,6 @@ Madde 101 - Birden  çok  borcu  bulunan  borçlu,  ödeme  gününde  bu  borç
 hangisini ödemek istediğini alacaklıya bildirebilir.
 Borçlu bildirimde bulunmazsa, yapılan ödeme, kendisi tarafından derhâl itiraz edilmiş
 olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayılır.
-
-b. Kanuna göre
 
 ---
 

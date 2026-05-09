@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 19
 ---
 
-**Madde 19**
+**V. Yerleşim yeri
+1. Tanım**
 
 ---
 
-Madde 19 - Yerleşim yeri bir kimsenin sürekli kalma niyetiyle oturduğu yerdir.  Bir kimsen in ay nı zamanda birden çok yerleşim yeri olamaz.  Bu kural ticarî ve sınaî kuruluşlar hakkında uygulanmaz.  2. Yerleşim yerinin değiştirilmesi ve oturma yeri
+Madde 19 - Yerleşim yeri bir kimsenin sürekli kalma niyetiyle oturduğu yerdir.  Bir kimsen in ay nı zamanda birden çok yerleşim yeri olamaz.  Bu kural ticarî ve sınaî kuruluşlar hakkında uygulanmaz.
 
 ---
 

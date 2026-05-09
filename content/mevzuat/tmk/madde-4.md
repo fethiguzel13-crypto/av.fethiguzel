@@ -8,7 +8,7 @@ maddeNo: 4
 
 ---
 
-Madde 4 - Kanunun takdir yetkisi tanıdığı veya durumun gereklerini ya da haklı sebepleri  göz önünde tutmayı emrettiği konularda hâkim, hukuka ve hakkaniyete göre karar verir.  C. Genel nitelikli hükü mler
+Madde 4 - Kanunun takdir yetkisi tanıdığı veya durumun gereklerini ya da haklı sebepleri  göz önünde tutmayı emrettiği konularda hâkim, hukuka ve hakkaniyete göre karar verir.
 
 ---
 

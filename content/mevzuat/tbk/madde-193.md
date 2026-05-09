@@ -15,9 +15,6 @@ bulunabilir:
 
 3. Borçluya karşı devraldığı alacağı elde etmek için yaptığı ve sonuçsuz girişimlerin
 yol açtığı giderleri.
-4. Devreden kusursuzluğunu ispat etmedikçe uğradığı diğer zararlarını.
-
-C. Özel hükümlerin saklılığı
 
 ---
 

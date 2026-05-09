@@ -4,11 +4,15 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 610
 ---
 
-**Madde 610**
+**II
+- Faiz yasağı ve hazırlık dönemi faizi MAD DE 609
+- (1) Esas sermayeye ve ek ödemelere faiz verilemez. Şirket sözleşmesiyle hazırlık dönemi faizi ödenmesi öngörülebilir. Bu hâlde anonim şirketlere ilişkin hükümler uygulanır.
+III
+- Finansal tablolar ve yedek akçeler**
 
 ---
 
-Madde 610 - (1)   Anonim   şirketlere   ilişkin   514   ilâ   527   nci   madde   hükümleri   limited  şirketlere   de   uygulanır.  IV   -   Haksız   alınan   kâr   paylarının   geri   verilmesi
+Madde 610 - (1)   Anonim   şirketlere   ilişkin   514   ilâ   527   nci   madde   hükümleri   limited  şirketlere   de   uygulanır.
 
 ---
 

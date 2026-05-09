@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 26
 ---
 
-**Madde 26**
+**III
+– Yönetmelik 12**
 
 ---
 

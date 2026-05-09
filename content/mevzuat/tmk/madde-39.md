@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 39
 ---
 
-**Madde 39**
+**IV. Düzeltm e
+1. Genel olarak**
 
 ---
 
-Madde 39 - Mahkeme kararı olmadıkça, kişisel durum sicilinin hiçbir kaydında düzeltme  yapılamaz.  2. Cinsiyet değişikliğinde
+Madde 39 - Mahkeme kararı olmadıkça, kişisel durum sicilinin hiçbir kaydında düzeltme  yapılamaz.
 
 ---
 

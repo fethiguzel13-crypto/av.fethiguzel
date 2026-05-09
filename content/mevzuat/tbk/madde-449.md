@@ -14,9 +14,6 @@ yeri yabancı ülkede ise uygulanacak hukukun ve yetkili mahkemenin hangisi oldu
 Yukarıdaki  fıkra  uyarınca  sözleşmede  yer  alması  öngörülen  hususlar  taraflarca
 belirlenmemişse, kanun hükümleri ve alışılmış hizmet koşulları uygulanır.
 
-B. Pazarlamacının yükümlülük ve yetkileri
-I. Yükümlülükleri
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 383
 ---
 
-**I. Amacı belirlenmiş kullanmada**
+**C. Sona ermesi
+I. Amacı belirlenmiş kullanmada**
 
 ---
 
@@ -14,8 +15,6 @@ geçmesiyle sözleşme sona erer.
 Ödünç  alan,  ödünç  konusunu  sözleşmeye  aykırı  olarak  kullanır,  onu  bozar  veya
 kullanmak için başka bir kimseye verirse ya da önceden bilinmeyen bir durum yüzünden
 ödünç verenin ivedi gereksinimi ortaya çıkarsa, ödünç veren o şeyi daha önce geri isteyebilir.
-
-II. Amacı belirlenmemiş kullanmada
 
 ---
 

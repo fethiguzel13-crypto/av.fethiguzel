@@ -18,8 +18,6 @@ Vekâlet veren, vekilin kendi adına ve vekâlet veren hesabına edinmiş olduğ
 eşyanın  iflas  masasından  ayrılarak  kendisine  verilmesini  isteyebilir.  Vekilin  sahip  olduğu
 hapis hakkından iflas masası da yararlanır.
 
-III. Vekâlet verenin borçları
-
 ---
 
 ### Bizim Yorumumuz

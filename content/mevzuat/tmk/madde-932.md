@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 932
 ---
 
-**hük ümler uygulanır.  II. Düzenlenmesi**
+**II. Düzenlenmesi**
 
 ---
 

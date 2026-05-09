@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1284
 ---
 
-**Madde 1284**
+**4. Dispeç raporunun onaylanması hakkındaki kararın hükmü**
 
 ---
 

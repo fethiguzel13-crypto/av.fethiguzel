@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 498
 ---
 
-**I. Eserin yok olması**
+**D. Sona ermesi
+I. Eserin yok olması**
 
 ---
 
@@ -14,8 +15,6 @@ Eserin başka bir örneği kendisinde varsa, eser sahibinin bu örneği yayımc�
 gerekir;  başka  bir  örneği  bulunmamakla  birlikte,  az  bir  çabayla  yeniden  meydana
 getirilebilecekse eser sahibi, eseri meydana getirerek teslim etmekle yükümlüdür. Eser sahibi
 her iki durumda da uygun bir karşılık isteyebilir.
-
-II. Basılanın yok olması
 
 ---
 

@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 656
 ---
 
-**Madde 656**
+**IV. Taşınmazlar
+1. Bölünme**
 
 ---
 
-Madde 656 - Taşınmazların bölünmelerine il işkin kanun hükümleri saklı dır.  2. Özgülenme  a. Özgülenmeye esas olan değer
+Madde 656 - Taşınmazların bölünmelerine il işkin kanun hükümleri saklı dır.
 
 ---
 

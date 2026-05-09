@@ -13,8 +13,6 @@ düzeltilebilecek  bir  yanlışlık  yapılması  yahut vaktinden  önce  açı
 reddedilmiş olup da o arada zamanaşımı veya hak düşürücü süre dolmuşsa, alacaklı altmış
 günlük ek süre içinde haklarını kullanabilir.
 
-F. Taşınır rehni ile güvenceye bağlanmış alacakta
-
 ---
 
 ### Bizim Yorumumuz

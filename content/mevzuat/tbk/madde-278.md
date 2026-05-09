@@ -13,8 +13,6 @@ Madde 278 - Artırma koşullarında aksi kararlaştırılmamışsa, ihale bedeli
 İhale bedeli peşin olarak veya artırma koşulları uyarınca ödenmezse satıcı, satıştan
 hemen dönebilir.
 
-3. Mülkiyetin geçmesi
-
 ---
 
 ### Bizim Yorumumuz

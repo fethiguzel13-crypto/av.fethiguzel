@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1424
 ---
 
-**Madde 1424**
+**c) Sigorta poliçesi verme yükümlülüğü aa) Genel olarak**
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1394
 ---
 
-**Madde 1394**
+**f) Beşinci sıra**
 
 ---
 
-Madde 1394 - (1)   Sıra   cetvelinin   beşinci   sırasına,   takip   konusu   gemiye   ilişkin  gümrük   resmi   ile   diğer   vergiler   kaydedilir.  g)   Alt ıncı   sıra
+Madde 1394 - (1)   Sıra   cetvelinin   beşinci   sırasına,   takip   konusu   gemiye   ilişkin  gümrük   resmi   ile   diğer   vergiler   kaydedilir.
 
 ---
 

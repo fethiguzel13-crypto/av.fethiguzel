@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 174
 ---
 
-**Madde 174**
+**5. Kor unmaya ilişkin hükümler
+a) Alacaklıların korunması aa) Çağrı**
 
 ---
 

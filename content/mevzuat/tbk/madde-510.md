@@ -14,8 +14,6 @@ yükümlüdür.
 Vekil, vekâletin ifası sebebiyle uğradığı zararın giderilmesini vekâlet verenden isteyebilir.
 Ancak vekâlet veren, kusuru bulunmadığını ispat ederek bu sorumluluktan kurtulabilir.
 
-IV. Birlikte vekâlet verenlerin ve birlikte vekillerin sorumluluğu
-
 ---
 
 ### Bizim Yorumumuz

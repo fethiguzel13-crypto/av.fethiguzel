@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 532
 ---
 
-**I. Tanımı**
+**A. Alım veya satım komisyonculuğu
+I. Tanımı**
 
 ---
 
@@ -13,9 +14,6 @@ kendi adına ve vekâlet verenin hesabına kıymetli evrak ve taşınırların a
 üstlendiği sözleşmedir.
 Bu  bölümdeki  hükümler  saklı  kalmak  üzere,  komisyon  sözleşmelerine  vekâlet
 hükümleri uygulanır.
-
-II. Komisyoncunun borçları
-1. Bildirme ve sigortalama borcu
 
 ---
 

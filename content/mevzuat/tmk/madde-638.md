@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 638
 ---
 
-**Madde 638**
+**B. Hükümleri**
 
 ---
 

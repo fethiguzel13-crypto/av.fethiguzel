@@ -17,8 +17,6 @@ belgeleri işverene geri vermekle yükümlüdür. Ancak, pazarlamacının hapis 
 
 ÜÇÜNCÜ AYIRIM
 Evde Hizmet Sözleşmesi
-A. Tanımı ve çalışma koşulları
-I. Tanımı
 
 ---
 

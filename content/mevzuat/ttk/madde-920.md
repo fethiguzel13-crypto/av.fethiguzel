@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 920
 ---
 
-**Madde 920**
+**III
+- Ücretin muacceliyeti**
 
 ---
 
-Madde 920 - (1)   Eşyanın,   taşıyıcıya   veya   taşıyana   teslimi   üzerine,   komisyoncunun  ücreti   ödenir.  IV   -   Kesin   ücret
+Madde 920 - (1)   Eşyanın,   taşıyıcıya   veya   taşıyana   teslimi   üzerine,   komisyoncunun  ücreti   ödenir.
 
 ---
 

@@ -28,8 +28,6 @@ mevcut  belgeleri  veya  rehinleri ya da sorumlu olduğu diğer güvenceleri eli
 kefil borcundan kurtulur. Bu durumda kefil, ödediğinin geri verilmesini ve varsa ek zararının
 giderilmesini isteyebilir.
 
-e. Ödemenin kabulünü isteme
-
 ---
 
 ### Bizim Yorumumuz

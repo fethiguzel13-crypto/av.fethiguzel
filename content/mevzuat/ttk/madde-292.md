@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 292
 ---
 
-**Madde 292**
+**IV
+- Yeni işler
+1. Kural**
 
 ---
 
-Madde 292 - (1)   Tasfiye   memurları   tasfiyenin   gereklerinden   olmayan   yeni   bir   işlem  yapamazlar.   Aksi   takdirde,   bu   tür   işlemlerden   dolayı   or taklara   karşı   müteselsilen   sorumlu  olurlar.  2.   İstisna
+Madde 292 - (1)   Tasfiye   memurları   tasfiyenin   gereklerinden   olmayan   yeni   bir   işlem  yapamazlar.   Aksi   takdirde,   bu   tür   işlemlerden   dolayı   or taklara   karşı   müteselsilen   sorumlu  olurlar.
 
 ---
 

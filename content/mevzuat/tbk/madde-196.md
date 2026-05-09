@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 196
 ---
 
-**I. Öneri ve kabul**
+**B. Dış üstlenme sözleşmesi
+I. Öneri ve kabul**
 
 ---
 
@@ -15,8 +16,6 @@ bildirilmesi, dış üstlenme sözleşmesinin yapılmasına ilişkin öneri anla
 Alacaklının  kabulü  açık  veya  örtülü  olabilir.  Alacaklı,  çekince  ileri  sürmeksizin
 üstlenenin ifasını kabul eder veya onun borçlu sıfatı ile yaptığı diğer herhangi bir işleme rıza
 gösterirse, borcun üstlenilmesini kabul etmiş sayılır.
-
-II. Önerinin bağlayıcılığı
 
 ---
 

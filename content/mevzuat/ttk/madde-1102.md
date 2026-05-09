@@ -8,7 +8,7 @@ maddeNo: 1102
 
 ---
 
-Madde 1102 - (1)   Kaptan,   gemi   zayi   olsa   bile,   gerektiği   sürece   donatanın  menfaatlerini   korumakla   yükümlüdür.  D)   Kanundan   doğan   temsil   yetkisi  I -   Donatanın   temsilcisi   sıfatıyla  1.   Kap samı  a)   Gemi   bağlama   limanında   bulunduğu   sırada
+Madde 1102 - (1)   Kaptan,   gemi   zayi   olsa   bile,   gerektiği   sürece   donatanın  menfaatlerini   korumakla   yükümlüdür.
 
 ---
 

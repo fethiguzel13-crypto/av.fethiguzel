@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 241
 ---
 
-**Madde 241**
+**3. Üçüncü kişilere karşı dava**
 
 ---
 

@@ -14,9 +14,6 @@ Borçlu,  temerrüde  düşmekte  kusuru  olmadığını  veya  borcunu  zamanı
 olsaydı bile beklenmedik hâlin ifa konusu şeye zarar vereceğini ispat ederek bu sorumluluktan
 kurtulabilir.
 
-2. Temerrüt faizi
-a. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

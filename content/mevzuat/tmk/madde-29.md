@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 29
 ---
 
-**Madde 29**
+**II. Sağ olmanın ve ölümü n ispatı
+1. İspat yükü**
 
 ---
 
-Madde 29 - Bir hakkın kullanılması için bir kimsenin sağ veya ölü olduğunu veya belirli  bir zamanda ya da başka bir kimsenin ölümünde   sağ bulunduğunu ileri süren kimse, iddiasını  ispat etmek zorundadır.  Birden fazla kişiden hangi sinin   önce veya sonra öldüğü ispat edilemezse, hepsi aynı anda  ölmüş sayılır.  2. İspat araçları  a. Genel olarak
+Madde 29 - Bir hakkın kullanılması için bir kimsenin sağ veya ölü olduğunu veya belirli  bir zamanda ya da başka bir kimsenin ölümünde   sağ bulunduğunu ileri süren kimse, iddiasını  ispat etmek zorundadır.  Birden fazla kişiden hangi sinin   önce veya sonra öldüğü ispat edilemezse, hepsi aynı anda  ölmüş sayılır.
 
 ---
 

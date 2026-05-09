@@ -4,11 +4,14 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1082
 ---
 
-**Madde 1082**
+**X
+- Sona ermesi
+1. Sona erme sebepleri
+a) Fesih kararı**
 
 ---
 
-Madde 1082 - (1)   Donatma   iştiraki,   çoğunluk   kararı   ile   fesih   olunabilir.   Geminin  devri   hakkındaki   karar   da   iştirakin   feshi   kararı   hükmündedir.  b)   Çıkmak   isteyen   ortağın   fesih   istemi
+Madde 1082 - (1)   Donatma   iştiraki,   çoğunluk   kararı   ile   fesih   olunabilir.   Geminin  devri   hakkındaki   karar   da   iştirakin   feshi   kararı   hükmündedir.
 
 ---
 

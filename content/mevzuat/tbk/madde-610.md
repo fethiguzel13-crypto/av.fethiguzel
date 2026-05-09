@@ -13,7 +13,6 @@ devredebilir.
 
 İKİNCİ AYIRIM
 Ölünceye Kadar Bakma Sözleşmesi
-A. Tanımı
 
 ---
 

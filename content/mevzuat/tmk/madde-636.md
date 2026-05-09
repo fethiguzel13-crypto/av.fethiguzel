@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 636
 ---
 
-**Madde 636**
+**III. İflâs usulü ile tasfiye**
 
 ---
 

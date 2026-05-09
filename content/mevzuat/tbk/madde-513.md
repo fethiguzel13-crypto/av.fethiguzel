@@ -16,8 +16,6 @@ Vekâletin sona ermesi vekâlet verenin menfaatlerini tehlikeye düşürüyorsa,
 veren veya mirasçısı ya da temsilcisi, işleri kendi başına görebilecek duruma gelinceye kadar,
 vekil veya mirasçısı ya da temsilcisi, vekâleti ifaya devam etmekle yükümlüdür.
 
-II. Hükümleri
-
 ---
 
 ### Bizim Yorumumuz

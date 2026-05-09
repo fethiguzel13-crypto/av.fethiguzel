@@ -14,8 +14,6 @@ Bölünemez bir borcun borçlularından birinin feragat etmiş olması durumunda
 hüküm uygulanır.
 Asıl borçlunun feragati de kefile karşı ileri sürülemez.
 
-H. İleri sürülmesi
-
 ---
 
 ### Bizim Yorumumuz

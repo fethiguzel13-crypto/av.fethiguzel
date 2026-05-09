@@ -13,10 +13,6 @@ dışında kalan ve diğer kanunlarda taşınır olarak belirtilen şeylerin sat
 Ürünler, bir yapının yıkıntıları ve taş ocağından çıkarılacak taşlar gibi, taşınmazdan
 ayrıldıktan sonra mülkiyeti devredilecek bütünleyici parçaların satılması da taşınır satışıdır.
 
-B. Satıcının borçları
-I. Zilyetliğin devri
-1. Kural
-
 ---
 
 ### Bizim Yorumumuz

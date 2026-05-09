@@ -15,8 +15,6 @@ Alacaklı anaparanın tamamı için makbuz vermişse, faizlerini de almış oldu
 edilir.
 Borç senedi borçluya geri verilmişse, borç sona ermiş sayılır.
 
-3. Senedin geri verilememesi
-
 ---
 
 ### Bizim Yorumumuz

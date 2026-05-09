@@ -17,8 +17,6 @@ Ardiyeci,  mallara  zilyet  bulunduğu  veya  eşyayı  temsil  eden  herhangi  
 vasıtasıyla  onlar  üzerinde  tasarruf  etme  yetkisine  sahip  olduğu  sürece,  alacakları  için  bu
 mallar üzerinde hapis hakkına sahiptir.
 
-V. Malların geri verilmesi
-
 ---
 
 ### Bizim Yorumumuz

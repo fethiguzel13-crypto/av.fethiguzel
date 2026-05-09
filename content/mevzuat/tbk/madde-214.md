@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 214
 ---
 
-**1. Konusu**
+**II. Zapttan sorumluluk
+1. Konusu**
 
 ---
 
@@ -15,9 +16,6 @@ Alıcı, elinden alınma tehlikesini sözleşmenin kurulduğu sırada biliyor id
 ayrıca üstlenmiş olmadıkça bundan dolayı sorumlu olmaz.
 Satıcı,  üçüncü  kişinin  hakkını  gizlemişse,  sorumluluğunu  kaldırma  veya  sınırlama
 konusunda yapılmış olan anlaşma kesin olarak hükümsüzdür.
-
-2. Yargılama usulü
-a. Davanın bildirimi
 
 ---
 

@@ -8,7 +8,7 @@ maddeNo: 803
 
 ---
 
-Madde 803 - İntifa hakkı sahibi, hakkın konusu olan malı zilyetliğinde bulundurma,  yönetme, kullanma ve   ondan yararlanma yetkilerine sahiptir.  İntifa hakkı sahibi, b u yetkilerini kullanırken iyi bir yönetici gibi özen göstermek zorundadır.  b. Doğal ürünl er
+Madde 803 - İntifa hakkı sahibi, hakkın konusu olan malı zilyetliğinde bulundurma,  yönetme, kullanma ve   ondan yararlanma yetkilerine sahiptir.  İntifa hakkı sahibi, b u yetkilerini kullanırken iyi bir yönetici gibi özen göstermek zorundadır.
 
 ---
 

@@ -14,8 +14,6 @@ tazminat olarak ödenmesine karar verebilir.
 Ağır  bedensel  zarar  veya  ölüm  hâlinde, zarar  görenin  veya  ölenin  yakınlarına  da
 manevi tazminat olarak uygun bir miktar paranın ödenmesine karar verilebilir.
 
-2. Haksız rekabet
-
 ---
 
 ### Bizim Yorumumuz

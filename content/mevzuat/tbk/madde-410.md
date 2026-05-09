@@ -19,9 +19,6 @@ Gelecekteki ücret alacaklarının devredilmesi veya rehnedilmesi geçersizdir.
 alan “Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığından sorumlu
 Devlet Bakanlığı müştereken” ibaresi “Cumhurbaşkanlığı” şeklinde değiştirilmiştir.
 
-5. Parça başına veya götürü iş
-a. İş verme
-
 ---
 
 ### Bizim Yorumumuz

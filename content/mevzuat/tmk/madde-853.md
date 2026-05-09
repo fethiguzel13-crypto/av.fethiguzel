@@ -4,7 +4,8 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 853
 ---
 
-**Madde 853**
+**III. Taşınmaz
+1. Rehne konu olabilme**
 
 ---
 

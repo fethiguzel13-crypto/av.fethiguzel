@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 164
 ---
 
-**Madde 164**
+**c) Yeni kuruluş**
 
 ---
 
-Madde 164 - (1)   Bölünme   çerçevesinde   yeni   bir   şirketin   kurulmasına   bu   Kanun   ile  Kooperatifler   Kanun unun   kuruluşa   ilişkin   hükümleri   uygulanır.   Sermaye   şirketlerinin  kurulmasında,   kurucuların   asgari   sayısına   ve   ayni   sermaye   konulmasına   ilişkin   hükümler  uygulanmaz.  d)   Ara   bilanço
+Madde 164 - (1)   Bölünme   çerçevesinde   yeni   bir   şirketin   kurulmasına   bu   Kanun   ile  Kooperatifler   Kanun unun   kuruluşa   ilişkin   hükümleri   uygulanır.   Sermaye   şirketlerinin  kurulmasında,   kurucuların   asgari   sayısına   ve   ayni   sermaye   konulmasına   ilişkin   hükümler  uygulanmaz.
 
 ---
 

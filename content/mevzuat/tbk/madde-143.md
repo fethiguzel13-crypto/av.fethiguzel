@@ -13,8 +13,6 @@ gerçekleşir. Bu durumda her iki borç, takas edilebilecekleri anda daha az ola
 sona erer.
 Cari hesapla ilgili ticarete ilişkin özel teamüller saklıdır.
 
-III. Alacaklının rızasıyla takas edilebilir alacaklar
-
 ---
 
 ### Bizim Yorumumuz

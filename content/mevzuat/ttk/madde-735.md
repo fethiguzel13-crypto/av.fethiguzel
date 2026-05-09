@@ -4,7 +4,9 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 735
 ---
 
-**Madde 735**
+**II
+- Araya girme suretiyle kabul
+1. Şartlar, hamilin durumu**
 
 ---
 

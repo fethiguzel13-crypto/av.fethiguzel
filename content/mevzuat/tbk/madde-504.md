@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 504
 ---
 
-**I. Vekâletin kapsamı**
+**C. Hükümleri
+I. Vekâletin kapsamı**
 
 ---
 
@@ -16,9 +17,6 @@ yapılması yetkisini de kapsar.
 Vekil, özel olarak yetkili kılınmadıkça dava açamaz, sulh olamaz, hakeme başvuramaz,
 iflas,  iflasın  ertelenmesi  ve  konkordato  talep  edemez,  kambiyo  taahhüdünde  bulunamaz,
 bağışlama yapamaz, kefil olamaz, taşınmazı devredemez ve bir hak ile sınırlandıramaz.
-
-II. Vekilin borçları
-1. Talimata uygun ifa
 
 ---
 

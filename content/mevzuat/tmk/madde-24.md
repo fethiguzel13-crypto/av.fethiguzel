@@ -8,7 +8,7 @@ maddeNo: 24
 
 ---
 
-Madde 24 - Hukuka aykırı olarak kişilik hakkına saldırıla n kim se, hâkimden, saldırıda  bulunanlara karşı korunmasını isteyebilir.  Kişilik hakkı zedelenen kimsenin rızası, daha üstün nitelikte özel veya kamusal yarar ya da  kanunun verdiği yetkinin kullanılması sebeplerinden biriyle haklı kılınmadıkça, kişilik hakl arına  yapı lan her saldırı hukuka aykırıdır.  2. Davalar
+Madde 24 - Hukuka aykırı olarak kişilik hakkına saldırıla n kim se, hâkimden, saldırıda  bulunanlara karşı korunmasını isteyebilir.  Kişilik hakkı zedelenen kimsenin rızası, daha üstün nitelikte özel veya kamusal yarar ya da  kanunun verdiği yetkinin kullanılması sebeplerinden biriyle haklı kılınmadıkça, kişilik hakl arına  yapı lan her saldırı hukuka aykırıdır.
 
 ---
 

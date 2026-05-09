@@ -11,8 +11,6 @@ maddeNo: 220
 Madde 220 - Hayvan satışında satıcı, yazılı olarak üstlenmedikçe veya ağır kusuru
 olmadıkça ayıptan sorumlu olmaz.
 
-2. Sorumsuzluk anlaşması
-
 ---
 
 ### Bizim Yorumumuz

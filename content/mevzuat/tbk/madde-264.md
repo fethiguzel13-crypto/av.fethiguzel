@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 264
 ---
 
-**1. Tanımı, şekli ve içeriği**
+**II. Ön ödemeli taksitle satış
+1. Tanımı, şekli ve içeriği**
 
 ---
 
@@ -21,12 +22,6 @@ Sözleşmede aşağıdaki hususlar belirtilir:
 6. Alıcıya karşı üstlenilen faiz miktarı.
 7. Alıcının yedi gün içinde sözleşme yapılması konusundaki irade açıklamasını geri
 alma hakkı.
-
-8. Alıcının sözleşmeden cayma hakkı ve bu sebeple ödeyeceği cayma parası.
-9. Sözleşmenin kurulduğu yer ve tarih.
-
-2. Tarafların hak ve borçları
-a. Ödemelerin güvenceye bağlanması
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 411
 ---
 
-**a. İş verme**
+**5. Parça başına veya götürü iş
+a. İş verme**
 
 ---
 
@@ -18,8 +19,6 @@ götürü olarak daha önce aldığı ortalama ücrete eşdeğer bir ücret öde
 Parça başına veya götürü ya da zamana göre iş sağlayamayan işveren, en azından
 işgörme  edimini  kabulde  temerrüt  hükümleri  uyarınca  zamana  göre  işgörmede  ödeyeceği
 ücreti ödemekle yükümlüdür.
-
-b. Birim ücreti
 
 ---
 

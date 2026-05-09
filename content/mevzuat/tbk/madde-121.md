@@ -14,8 +14,6 @@ temerrüt faizi ödemekle yükümlüdür.
 Buna aykırı olarak yapılan anlaşmalar, ceza koşulu hükümlerine tabi olur.
 Temerrüt faizine, ayrıca temerrüt faizi yürütülemez.
 
-3. Aşkın zarar
-
 ---
 
 ### Bizim Yorumumuz

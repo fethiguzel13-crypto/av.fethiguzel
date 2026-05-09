@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 782
 ---
 
-**Madde 782**
+**3. Kendi taşınmaz ı üzerinde irtifak hakkı**
 
 ---
 
-Madde 782 - Malik kendisine ait iki taşınmazdan biri üzerinde diğe rinin lehine irtifak  hakkı kurabilir.  II. Sona ermesi  1. Genel olarak
+Madde 782 - Malik kendisine ait iki taşınmazdan biri üzerinde diğe rinin lehine irtifak  hakkı kurabilir.
 
 ---
 

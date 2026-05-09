@@ -15,9 +15,6 @@ Aksine bir anlaşma yoksa, tarımsal taşınmazlara ilişkin ürün kiralarında
 uygulanan bahar veya güz mevsimleri için; diğer ürün kiralarında ise herhangi bir zaman için
 fesih bildirimi yapılabilir.
 
-3. Olağanüstü fesih
-a. Önemli sebepler
-
 ---
 
 ### Bizim Yorumumuz

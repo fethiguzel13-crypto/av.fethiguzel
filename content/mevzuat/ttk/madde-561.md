@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 561
 ---
 
-**Madde 561**
+**VI
+- Yetkili mahkeme**
 
 ---
 

@@ -14,9 +14,6 @@ satıcıya karşı, satışın veya ekonomik bakımdan satışa eşdeğer başka
 bildirildiği tarihten başlayarak üç ay ve her hâlde satışın yapılmasından başlayarak iki yıl
 içinde dava açmak zorundadır.
 
-C. Taşınmaz satışı
-I. Koşullu satış ve mülkiyetin saklı tutulması
-
 ---
 
 ### Bizim Yorumumuz

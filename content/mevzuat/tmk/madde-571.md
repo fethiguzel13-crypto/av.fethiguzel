@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 571
 ---
 
-**Madde 571**
+**IV. Hak düşürücü süreler**
 
 ---
 

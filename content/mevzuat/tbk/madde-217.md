@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 217
 ---
 
-**a. Tam zapt hâlinde**
+**3. Alıcının hakları
+a. Tam zapt hâlinde**
 
 ---
 
@@ -19,8 +20,6 @@ giderleri ile yargılama dışındaki giderleri.
 zararları.
 Satıcı, kendisine hiçbir kusur yüklenemeyeceğini ispat etmedikçe, alıcının satılanın
 elinden alınması yüzünden uğramış olduğu diğer zararları da gidermekle yükümlüdür.
-
-b. Kısmi zapt hâlinde
 
 ---
 

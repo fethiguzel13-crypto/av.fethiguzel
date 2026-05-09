@@ -20,7 +20,6 @@ Borçların ve Borç İlişkilerinin Sona Ermesi, Zamanaşımı
 
 BİRİNCİ AYIRIM
 Sona Erme Hâlleri
-A. Asıl borca bağlı hak ve borçların sona ermesi
 
 ---
 

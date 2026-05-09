@@ -12,8 +12,6 @@ Madde 282 - Mal değişim sözleşmesi, taraflardan birinin diğer tarafa bir ve
 çok şeyin zilyetlik ve mülkiyetini, diğer tarafın da karşı edim olarak başka bir veya birden çok
 şeyin zilyetlik ve mülkiyetini devretmeyi üstlendiği sözleşmedir.
 
-B. Tabi olduğu hükümler
-
 ---
 
 ### Bizim Yorumumuz

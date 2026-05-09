@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 489
 ---
 
-**I. Yayımlatma hakkının geçişi ve sorumluluk**
+**C. Hükümleri
+I. Yayımlatma hakkının geçişi ve sorumluluk**
 
 ---
 
@@ -17,8 +18,6 @@ sorumludur.
 Eserin tamamı veya bir bölümü yayımlanmak üzere başka bir yayımcıya bırakılmış ya
 da yayımlatanın bilgisi altında yayımlanmış ise yayımlatan, yayım sözleşmesinin yapılmasından
 önce, bunu karşı tarafa bildirmek zorundadır.
-
-II. Yayımlatanın tasarruf hakkı
 
 ---
 

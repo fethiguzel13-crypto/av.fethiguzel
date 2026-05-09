@@ -12,8 +12,6 @@ Madde 86 - Çeşit borçlarında hukuki ilişkiden ve işin özelliğinden aksi 
 edimin seçimi borçluya aittir. Ancak borçlunun seçeceği edim, ortalama nitelikten daha düşük
 olamaz.
 
-4. Seçimlik borç
-
 ---
 
 ### Bizim Yorumumuz

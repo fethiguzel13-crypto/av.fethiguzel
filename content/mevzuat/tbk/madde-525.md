@@ -13,8 +13,6 @@ bu ücret hâkim tarafından hakkaniyete uygun olarak indirilebilir.
 
 ONUNCU BÖLÜM
 Vekâletsiz İşgörme
-A. İşgörenin hak ve borçları
-I. İşin görülmesi
 
 ---
 

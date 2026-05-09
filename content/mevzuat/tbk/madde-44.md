@@ -14,8 +14,6 @@ yükümlüdür.
 Temsil olunan veya halefleri, temsilcinin belgeyi geri vermesi için gerekeni yapmazlarsa,
 bundan dolayı iyiniyetli üçüncü kişilerin zararını gidermekle yükümlüdürler.
 
-d. Yetkinin sona erdiğinin ileri sürülememesi
-
 ---
 
 ### Bizim Yorumumuz

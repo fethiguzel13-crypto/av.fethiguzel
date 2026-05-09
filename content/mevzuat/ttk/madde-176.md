@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 176
 ---
 
-**Madde 176**
+**b) Sorumluluk aa) Bölünmeye katılan şirketlerin ikinci derecede sorumluluğu 32 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “tirajı ellibinin üstünde ola n ve yurt düzeyinde dağıtımı yapılan en az üç gazetede” ibaresi madde metninden çıkarılmıştır. 33 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “bir işlem denetçisinin raporuyla” ibaresi madde metninden çıkarılmıştır.**
 
 ---
 

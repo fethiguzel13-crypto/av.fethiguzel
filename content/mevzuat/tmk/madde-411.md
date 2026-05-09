@@ -8,7 +8,7 @@ maddeNo: 411
 
 ---
 
-Madde 411 - Vesayet işlerind e yetk i küçüğün v eya kısıtlının yerleşim yerindeki vesayet  dairelerine aittir.  B. Yerleşim yerinin değişmesi
+Madde 411 - Vesayet işlerind e yetk i küçüğün v eya kısıtlının yerleşim yerindeki vesayet  dairelerine aittir.
 
 ---
 

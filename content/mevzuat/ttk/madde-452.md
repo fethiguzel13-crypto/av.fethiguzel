@@ -8,7 +8,7 @@ maddeNo: 452
 
 ---
 
-Madde 452 - (1)   Genel   kurul,   aksine   esas   sözleşmede   hüküm   bulunmadığı   takdirde,  kanunda   öngörülen   şartlara   uyarak,   esas   sözleşmenin   bütün   hükümlerini   değiştirebilir;  müktesep   ve   vazgeçilmez   h aklar   saklıdır.  B)   Usul  I   -   Gümrük   ve   Ticaret   Bakanlığı nın   izni   ve   genel   kurul   kararı
+Madde 452 - (1)   Genel   kurul,   aksine   esas   sözleşmede   hüküm   bulunmadığı   takdirde,  kanunda   öngörülen   şartlara   uyarak,   esas   sözleşmenin   bütün   hükümlerini   değiştirebilir;  müktesep   ve   vazgeçilmez   h aklar   saklıdır.
 
 ---
 

@@ -13,9 +13,6 @@ olunan veya halefleri, temsilcinin yapmış olduğu hukuki işlemlerin sonuçlar
 Bu  kural,  üçüncü  kişilerin  yetkinin  sona  ermiş  olduğunu  bildikleri  durumlarda
 uygulanmaz.
 
-II. Yetkisiz temsil
-1. Onama hâlinde
-
 ---
 
 ### Bizim Yorumumuz

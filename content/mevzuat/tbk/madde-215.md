@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 215
 ---
 
-**a. Davanın bildirimi**
+**2. Yargılama usulü
+a. Davanın bildirimi**
 
 ---
 
@@ -18,8 +19,6 @@ de sonuç doğurur.
 Dava,  kendisine  yüklenilemeyen  sebeplerden  dolayı  satıcıya  bildirilmemişse  satıcı,
 zamanında bildirilmiş olsaydı daha elverişli bir hüküm elde edilebileceğini ispatladığı ölçüde
 sorumluluktan kurtulur.
-
-b. Mahkeme kararı olmaksızın satılanı verme
 
 ---
 

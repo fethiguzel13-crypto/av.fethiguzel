@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 831
 ---
 
-**Madde 831**
+**C) Cirosu kabil olan diğer senetler**
 
 ---
 

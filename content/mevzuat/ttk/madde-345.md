@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 345
 ---
 
-**Madde 345**
+**2. Ödeme yeri**
 
 ---
 

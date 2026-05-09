@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 300
 ---
 
-**Madde 300**
+**2. Son dağıtma**
 
 ---
 
-Madde 300 - (1)   Şirketin   net   varlığı,   şirket   sözleşmesine   veya   sonradan   verilece k  karara   göre,   tasfiye   memurları   tarafından   dağıtılır.   Sözleşmede   aksine   hüküm   veya   ortakların  kararı   bulunmadığı   takdirde   dağıtma   para   olarak   yapılır.  IX   -   Ortakların   denetleme   hakkı  1.   Bilgi   isteme   hakkı
+Madde 300 - (1)   Şirketin   net   varlığı,   şirket   sözleşmesine   veya   sonradan   verilece k  karara   göre,   tasfiye   memurları   tarafından   dağıtılır.   Sözleşmede   aksine   hüküm   veya   ortakların  kararı   bulunmadığı   takdirde   dağıtma   para   olarak   yapılır.
 
 ---
 

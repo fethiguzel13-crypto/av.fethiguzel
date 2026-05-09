@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 50
 ---
 
-**Madde 50**
+**III
+- Ticaret unvanının korunması
+1. İlke**
 
 ---
 
-Madde 50 - (1)   Usulen   tescil   ve   ilan   edilmiş   olan   ticaret   unvanını   kullan ma   hakkı  sadece   sahibine   aittir.  2.   Bildirim   ve   ceza
+Madde 50 - (1)   Usulen   tescil   ve   ilan   edilmiş   olan   ticaret   unvanını   kullan ma   hakkı  sadece   sahibine   aittir.
 
 ---
 

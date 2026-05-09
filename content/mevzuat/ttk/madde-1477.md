@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1477
 ---
 
-**Madde 1477**
+**5. Kasten neden olma**
 
 ---
 
-Madde 1477 - (1)   Sigo rtacı,   sigortalının,   sorumluluk   konusu   olayı   kasten  gerçekleştirmesinden   doğan   zararlardan   sorumlu   olmaz.  6.   Doğrudan   dava   hakkı
+Madde 1477 - (1)   Sigo rtacı,   sigortalının,   sorumluluk   konusu   olayı   kasten  gerçekleştirmesinden   doğan   zararlardan   sorumlu   olmaz.
 
 ---
 

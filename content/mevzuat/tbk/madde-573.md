@@ -15,8 +15,6 @@ orantılı bir pay isteyebilir.
 Bu  durumda  ardiyeci,  saklatanların  birlikte  hazır  bulunmasına  gerek  olmaksızın
 saklatanlardan her birinin payını ayırabilir.
 
-IV. Ardiyecinin hakları
-
 ---
 
 ### Bizim Yorumumuz

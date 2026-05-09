@@ -15,9 +15,6 @@ vermekle yükümlüdür.
 ölçüde ücret ve masraf avanslarını geri vermekle yükümlüdür.
 Tarafların hapis hakları saklıdır.
 
-VII. Rekabet yasağı
-1. Koşulları
-
 ---
 
 ### Bizim Yorumumuz

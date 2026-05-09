@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 870
 ---
 
-**Madde 870**
+**VI. Rehin der ecesi
+1. Rehin derecesinin hükümleri**
 
 ---
 
-Madde 870 - Rehnin sağladığı güvence, tescilde belirtilen rehin dere cesi ile sınırlıdır.  Taşınmaz rehni, sırada kendisinden önce g elecek olanın miktarının tescilde belirtilmesi  kaydıyla ikinci veya daha sonraki derecede   de kurulabilir.  2. Rehin dereceleri arasındaki ilişki
+Madde 870 - Rehnin sağladığı güvence, tescilde belirtilen rehin dere cesi ile sınırlıdır.  Taşınmaz rehni, sırada kendisinden önce g elecek olanın miktarının tescilde belirtilmesi  kaydıyla ikinci veya daha sonraki derecede   de kurulabilir.
 
 ---
 

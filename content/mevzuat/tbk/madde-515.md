@@ -19,9 +19,6 @@ ertelemek zorundadır.
 Kredi mektubuyla verilen vekâlet, ancak gönderilen tarafından belirli bir miktar için
 kabul edildiği takdirde geçerli olur.
 
-B. Kredi emri
-I. Tanımı ve şekli
-
 ---
 
 ### Bizim Yorumumuz

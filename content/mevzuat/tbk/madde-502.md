@@ -15,8 +15,6 @@ Vekâlete  ilişkin  hükümler, niteliklerine  uygun  düştükleri  ölçüde,
 düzenlenmemiş olan işgörme sözleşmelerine de uygulanır.
 Sözleşme veya teamül varsa vekil, ücrete hak kazanır.
 
-B. Kurulması
-
 ---
 
 ### Bizim Yorumumuz

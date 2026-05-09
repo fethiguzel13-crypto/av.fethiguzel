@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 327
 ---
 
-**Madde 327**
+**4. Takas**
 
 ---
 

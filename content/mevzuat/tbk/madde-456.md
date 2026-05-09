@@ -17,8 +17,6 @@ Pazarlamacı,  pazarlama  işlerini  kendi  kusuru  olmaksızın  yürütme  imk
 bulamamasına  karşın  ücretinin  tamamını  almışsa,  işverenin  istemi  üzerine,  kendisinin
 yapabileceği ve kendisinden beklenebilecek işleri onun işletmesinde yapmakla yükümlüdür.
 
-III. Harcamalar
-
 ---
 
 ### Bizim Yorumumuz

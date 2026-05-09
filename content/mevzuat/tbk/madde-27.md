@@ -14,8 +14,6 @@ Sözleşmenin  içerdiği  hükümlerden  bir  kısmının  hükümsüz  olması
 geçerliliğini etkilemez. Ancak, bu hükümler olmaksızın sözleşmenin yapılmayacağı açıkça
 anlaşılırsa, sözleşmenin tamamı kesin olarak hükümsüz olur.
 
-III. Aşırı yararlanma
-
 ---
 
 ### Bizim Yorumumuz

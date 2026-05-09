@@ -19,8 +19,6 @@ aşağıdaki seçimlik haklardan birini kullanabilir:
 Eser, işsahibinin taşınmazı üzerinde yapılmış olup, sökülüp kaldırılması aşırı zarar
 doğuracaksa işsahibi, sözleşmeden dönme hakkını kullanamaz.
 
-c. İşsahibinin sorumluluğu
-
 ---
 
 ### Bizim Yorumumuz

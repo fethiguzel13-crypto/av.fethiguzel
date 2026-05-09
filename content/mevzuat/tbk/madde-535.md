@@ -16,8 +16,6 @@ davranmasından dolayı vekâlet verenin uğradığı diğer zararlardan da soru
 Vekâlet verenin belirlediği bedelin altında mal alan veya üstünde satan komisyoncu,
 bu işlemlerden doğan farkı alıkoyamaz.
 
-4. Veresiye satma ve teslim almadan ödeme
-
 ---
 
 ### Bizim Yorumumuz

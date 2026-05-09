@@ -4,12 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 632
 ---
 
-**Madde 632**
+**VII
+- Haksız fiil sorumluluğu**
 
 ---
 
 Madde 632 - (1)   Şirketin   yönetimi   ve   temsili   ile   yetkilendirilen   kişinin,   şirkete  ilişkin   görevlerini   yerine   getirmesi   sırasında   işlediği   haksız   fiilden   şirket   sorumludur.
-C)   Sermaye   kaybı   ve   borca   batıklık  I   -   Bildirim   yükümlülüğü
 
 ---
 

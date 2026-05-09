@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 111
 ---
 
-**Madde 111**
+**E. Denetim**
 
 ---
 

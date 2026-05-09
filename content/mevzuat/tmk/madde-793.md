@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 793
 ---
 
-**Madde 793**
+**b. Yüklü taşınmazın b ölünmesi**
 
 ---
 

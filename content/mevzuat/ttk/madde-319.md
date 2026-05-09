@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 319
 ---
 
-**Madde 319**
+**C) Komanditer ortağın sorumluluğu
+I
+- Genel olarak**
 
 ---
 
-Madde 319 - (1)   Bir   komanditerin   sorumluluğu   koyduğu   veya   taahhüt   ettiği   sermaye  miktarını   aşamaz.  II   -   İstisnalar  1.   Adı   şirketin   unvanında   bulunan   komanditer
+Madde 319 - (1)   Bir   komanditerin   sorumluluğu   koyduğu   veya   taahhüt   ettiği   sermaye  miktarını   aşamaz.
 
 ---
 

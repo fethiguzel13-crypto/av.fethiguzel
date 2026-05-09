@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 194
 ---
 
-**C. Özel hükümlerin saklılığı**
+**4. Devreden kusursuzluğunu ispat etmedikçe uğradığı diğer zararlarını.
+C. Özel hükümlerin saklılığı**
 
 ---
 
@@ -13,7 +14,6 @@ saklıdır.
 
 İKİNCİ AYIRIM
 Borcun Üstlenilmesi
-A. İç üstlenme sözleşmesi
 
 ---
 

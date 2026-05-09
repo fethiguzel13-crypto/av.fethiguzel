@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 444
 ---
 
-**1. Koşulları**
+**VII. Rekabet yasağı
+1. Koşulları**
 
 ---
 
@@ -16,8 +17,6 @@ rakip  işletmeyle  başka türden  bir  menfaat  ilişkisine  girişmekten kaç
 Rekabet yasağı kaydı, ancak hizmet ilişkisi işçiye müşteri çevresi veya üretim sırları
 ya da işverenin yaptığı işler hakkında bilgi edinme imkânı sağlıyorsa ve aynı zamanda bu
 bilgilerin kullanılması, işverenin önemli bir zararına sebep olacak nitelikteyse geçerlidir.
-
-2. Sınırlandırılması
 
 ---
 

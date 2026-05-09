@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 415
 ---
 
-**Madde 415**
+**III. İlgililerin isteği**
 
 ---
 
-Madde 415 - Haklı sebepler engel olmadıkça, vasiliğe,   vesayet altına alınacak kişinin ya  da ana   veya babasının gösterdiği kimse atanır .  IV. Vasiliği kabul yüküm lülüğü
+Madde 415 - Haklı sebepler engel olmadıkça, vasiliğe,   vesayet altına alınacak kişinin ya  da ana   veya babasının gösterdiği kimse atanır .
 
 ---
 

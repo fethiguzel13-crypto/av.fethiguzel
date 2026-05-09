@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 203
 ---
 
-**Madde 203**
+**B. Mal rejimi sözleşmesi
+I. Sözleşmenin içeriği**
 
 ---
 
-Madde 203 - Mal rejimi sözleşmesi, evlenmeden ön ce ve ya sonra yapılabilir. Taraflar,  istedikleri mal rejimini ancak kanunda yazılı sınırlar içinde seçebilir, kal dırabilir veya değiştirebilirler.  II. Sözleşme ehliyeti
+Madde 203 - Mal rejimi sözleşmesi, evlenmeden ön ce ve ya sonra yapılabilir. Taraflar,  istedikleri mal rejimini ancak kanunda yazılı sınırlar içinde seçebilir, kal dırabilir veya değiştirebilirler.
 
 ---
 

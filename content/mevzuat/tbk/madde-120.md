@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 120
 ---
 
-**a. Genel olarak**
+**2. Temerrüt faizi
+a. Genel olarak**
 
 ---
 
@@ -15,8 +16,6 @@ belirlenen yıllık faiz oranının yüzde yüz fazlasını aşamaz.
 Akdî faiz oranı kararlaştırılmakla birlikte sözleşmede temerrüt faizi kararlaştırılmamışsa
 ve yıllık akdî faiz oranı da birinci fıkrada belirtilen faiz oranından fazla ise, temerrüt faizi oranı
 hakkında akdî faiz oranı geçerli olur.
-
-b. Faizlerde, iratlarda ve bağışlamada temerrüt faizi
 
 ---
 

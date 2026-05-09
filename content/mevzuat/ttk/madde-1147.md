@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1147
 ---
 
-**Madde 1147**
+**c) Gizlice yüklenen eşya hakkında**
 
 ---
 

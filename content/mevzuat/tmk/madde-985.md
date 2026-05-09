@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 985
 ---
 
-**Madde 985**
+**II. Zilyetlik dolayısıyla hakkın korunm ası
+1. Mülkiyet karinesi**
 
 ---
 
-Madde 985 - Taşınırın zilyedi onun mal iki sayılır.  Önceki zilyetler de zilyetlikleri süresince o taşınırın maliki sayılırlar.  2. Fer'î zilyetlikte karine
+Madde 985 - Taşınırın zilyedi onun mal iki sayılır.  Önceki zilyetler de zilyetlikleri süresince o taşınırın maliki sayılırlar.
 
 ---
 

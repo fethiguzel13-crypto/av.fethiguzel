@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1132
 ---
 
-**Madde 1132**
+**B) Zaman çarter partisi**
 
 ---
 
-Madde 1132 - (1)   Zaman   çarteri   sözleşmes i   yapıldığında   taraflardan   her   biri,   giderini  vererek,   sözleşme   şartlarını   içeren   bir   zaman   çarter   partisi   düzenlenmesini   ve   verilmesini  isteyebilir.  C)   Tarafların   hakları   ve   borçları  I -   Tahsis   edenin   borçları
+Madde 1132 - (1)   Zaman   çarteri   sözleşmes i   yapıldığında   taraflardan   her   biri,   giderini  vererek,   sözleşme   şartlarını   içeren   bir   zaman   çarter   partisi   düzenlenmesini   ve   verilmesini  isteyebilir.
 
 ---
 

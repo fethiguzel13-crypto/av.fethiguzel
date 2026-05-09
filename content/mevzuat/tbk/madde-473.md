@@ -20,9 +20,6 @@ sözleşmeye  aykırı olarak meydana  getirileceği  açıkça  görülüyorsa,
 giderilmesi;  aksi takdirde hasar ve masrafları kendisine ait olmak üzere, onarımın veya işe
 devamın bir üçüncü kişiye verileceği konusunda ihtarda bulunabilir.
 
-4. Ayıp sebebiyle sorumluluk
-a. Ayıbın belirlenmesi
-
 ---
 
 ### Bizim Yorumumuz

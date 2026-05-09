@@ -8,7 +8,7 @@ maddeNo: 473
 
 ---
 
-Madde 473 - Kısıtlama   ilân e dilmi şse, kaldırılması da ilân olunur.  Fiil ehliyetinin yeniden kazanılması, ilânın yapılmasına bağlı de ğildir.  2. Akıl hastalığı veya akıl zayıflığında
+Madde 473 - Kısıtlama   ilân e dilmi şse, kaldırılması da ilân olunur.  Fiil ehliyetinin yeniden kazanılması, ilânın yapılmasına bağlı de ğildir.
 
 ---
 

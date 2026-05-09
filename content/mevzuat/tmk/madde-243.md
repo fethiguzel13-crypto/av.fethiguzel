@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 243
 ---
 
-**Madde 243**
+**B. Diğer hükümler**
 
 ---
 

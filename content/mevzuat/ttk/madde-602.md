@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 602
 ---
 
-**Madde 602**
+**C) Ortakların sorumluluğu**
 
 ---
 
-Madde 602 - (1)   Şirket,   borç   v e   yükümlülükleri   dolayısıyla   sadece   malvarlığıyla  sorumludur.  D)   Ek   ödeme   ve   yan   edim   yükümlülükleri  I   -   Ek   ödeme   yükümlülüğü  1.   Kural
+Madde 602 - (1)   Şirket,   borç   v e   yükümlülükleri   dolayısıyla   sadece   malvarlığıyla  sorumludur.
 
 ---
 

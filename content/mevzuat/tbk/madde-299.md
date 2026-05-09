@@ -12,8 +12,6 @@ Madde 299 - Kira  sözleşmesi,  kiraya  verenin  bir  şeyin  kullanılmasını
 kullanmayla birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık
 kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir.
 
-B. Kira süresi
-
 ---
 
 ### Bizim Yorumumuz

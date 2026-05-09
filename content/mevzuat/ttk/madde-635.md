@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 635
 ---
 
-**Madde 635**
+**D) Denetçi**
 
 ---
 

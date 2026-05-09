@@ -16,8 +16,6 @@ sayılır.
 Eserdeki  ayıp  sonradan  ortaya  çıkarsa  işsahibi,  gecikmeksizin  durumu  yükleniciye
 bildirmek zorundadır; bildirmezse eseri kabul etmiş sayılır.
 
-e. Zamanaşımı
-
 ---
 
 ### Bizim Yorumumuz

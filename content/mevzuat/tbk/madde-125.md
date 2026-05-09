@@ -19,8 +19,6 @@ ve daha önce ifa ettikleri edimleri geri isteyebilirler. Bu durumda borçlu, te
 kusuru olmadığını ispat edemezse alacaklı, sözleşmenin hükümsüz kalması sebebiyle uğradığı
 zararın giderilmesini de isteyebilir.
 
-d. Sürekli edimli sözleşmelerde
-
 ---
 
 ### Bizim Yorumumuz

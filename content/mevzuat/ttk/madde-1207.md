@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1207
 ---
 
-**Madde 1207**
+**c) Gönderilenin eşyayı teslim almaması hâlinde**
 
 ---
 

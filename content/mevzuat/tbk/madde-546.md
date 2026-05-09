@@ -18,8 +18,6 @@ Taşıma işleri komisyonculuğu hakkındaki özel hükümler saklıdır.
 
 ONİKİNCİ BÖLÜM
 Ticari Temsilciler, Ticari Vekiller ve Diğer Tacir Yardımcıları
-A. Ticari temsilci
-I. Tanımı ve yetki verilmesi
 
 ---
 

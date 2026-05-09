@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 679
 ---
 
-**Madde 679**
+**III
+- Düzenleyenin sorumluluğu**
 
 ---
 
-Madde 679 - (1)   Düzenleyen,   poliçenin   kabul   edilmemesinden   ve   ödenmemesinden  sorumludur.   Düzenleyen,   kabul   edilmeme   hâlinde   sorumlu   ol mayacağını   şart   edebilirse   de  ödenmemeden   sorumlu   olmayacağına   ilişkin   kayıtlar   yazılmamış   sayılır.  IV   -   Açık   poliçe
+Madde 679 - (1)   Düzenleyen,   poliçenin   kabul   edilmemesinden   ve   ödenmemesinden  sorumludur.   Düzenleyen,   kabul   edilmeme   hâlinde   sorumlu   ol mayacağını   şart   edebilirse   de  ödenmemeden   sorumlu   olmayacağına   ilişkin   kayıtlar   yazılmamış   sayılır.
 
 ---
 

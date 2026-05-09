@@ -19,8 +19,6 @@ Hâkim,  bütün  durum  ve  koşulları  göz  önünde  tutarak,  ayrıca  mik
 belirleyeceği bir tazminatın işçiye ödenmesine karar verebilir; ancak belirlenecek tazminat
 miktarı, işçinin altı aylık ücretinden fazla olamaz.
 
-c. İşçinin haksız olarak işe başlamaması veya işi bırakması
-
 ---
 
 ### Bizim Yorumumuz

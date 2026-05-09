@@ -12,8 +12,6 @@ Madde 1 - Sözleşme,  tarafların  iradelerini  karşılıklı  ve  birbirine  
 açıklamalarıyla kurulur.
 İrade açıklaması, açık veya örtülü olabilir.
 
-2. İkinci derecedeki noktalar
-
 ---
 
 ### Bizim Yorumumuz

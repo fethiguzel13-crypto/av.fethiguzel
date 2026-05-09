@@ -13,9 +13,6 @@ sebep olmadıkça, bağışlanana karşı sorumlu değildir.
 Bağışlayan, bağışlanılan şey veya alacak hakkında ayrıca garanti sözü vermişse, bununla
 sorumlu olur.
 
-E. Bağışlamanın ortadan kalkması
-I. Bağışlamanın geri alınması
-
 ---
 
 ### Bizim Yorumumuz

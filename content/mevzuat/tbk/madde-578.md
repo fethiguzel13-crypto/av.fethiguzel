@@ -14,8 +14,6 @@ hakkını kaybeder.
 gösterilmemiş olan bir koşula bağladığını, herhangi bir yolla ilan etse bile, sorumluluktan
 kurtulamaz.
 
-II. Garaj, otopark ve benzeri yerleri işletenlerin sorumluluğu
-
 ---
 
 ### Bizim Yorumumuz

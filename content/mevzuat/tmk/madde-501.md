@@ -4,7 +4,9 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 501
 ---
 
-**Madde 501**
+**C. Evlâtlık Madde 5 00
+- Evlâtlık ve altsoyu, evlât edinene kan h ısımı gibi mirasçı olurlar. E vlâtlığın kendi ailesindeki mirasçılığı da devam eder. Evlât edinen ve hısı mları, evlâtlığa mir asçı olmazlar.
+D. Devlet**
 
 ---
 

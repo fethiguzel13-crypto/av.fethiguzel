@@ -11,10 +11,6 @@ maddeNo: 312
 Madde 312 - Taşınmaz  kiralarında,  sözleşmeyle  kiracının  kiracılık  hakkının  tapu
 siciline şerhi kararlaştırılabilir.
 
-D. Kiracının borçları
-I. Kira bedelini ödeme borcu
-1. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

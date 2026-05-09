@@ -20,8 +20,6 @@ Alacaklının  rızası  varsa  kefil,  asıl  borcu  muaccel  olmasından  önc
 Ancak, bu durumda kefil, asıl borçluya karşı rücu hakkını borcun muaccel olmasından önce
 kullanamaz.
 
-f. Bildirim, iflasta ve konkordatoda kayıt
-
 ---
 
 ### Bizim Yorumumuz

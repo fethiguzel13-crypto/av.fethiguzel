@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 978
 ---
 
-**Madde 978**
+**II. Hazır olmayanlar arasında**
 
 ---
 
-Madde 978 - Temsil ciye yapılan teslim, temsil edilene yapılmış gibi zilyetliği geçirir.  III. Teslimsiz devir
+Madde 978 - Temsil ciye yapılan teslim, temsil edilene yapılmış gibi zilyetliği geçirir.
 
 ---
 

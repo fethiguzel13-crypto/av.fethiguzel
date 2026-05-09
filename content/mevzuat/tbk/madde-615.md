@@ -17,9 +17,6 @@ edilmek üzere, bakım alacaklısının nafaka yükümlüsü olduğu kişilere n
 verebilir.
 Mirasçıların tenkis ve alacaklıların iptal davası açma hakları saklıdır.
 
-F. Sona ermesi
-I. Önel verilerek fesih
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 442
 ---
 
-**1. Borçların muaccel olması**
+**VI. Sözleşmenin sona ermesinin sonuçları
+1. Borçların muaccel olması**
 
 ---
 
@@ -18,8 +19,6 @@ ertelenebilir.
 Üretilenden pay verilmesi öngörülen hâllerde ürün payı belirlenir belirlenmez, cirodan
 veya kârdan pay verilmesi kararlaştırılan hâllerde ise pay, hesap dönemini izleyen en geç üç
 ay sonunda muaccel olur.
-
-2. Geri verme yükümlülüğü
 
 ---
 

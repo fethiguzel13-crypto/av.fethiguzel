@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 772
 ---
 
-**Madde 772**
+**III
+- Ödeme**
 
 ---
 
-Madde 772 - (1)   Vade   geldiğinde   ödeme,   özellikle   vadenin   geldiği   günün   ve   ödeme  tarihinin   hesaplanması,   bedeli   yabancı   bir   ülke   parasıyla   gösterilmiş   poliçelerin   ödenmesi,  poliçenin   hangi   ülkede   ödenmesi   gerekiyorsa   o   ülkede ki   hukuka   göre   belirlenir.  IV   -   Sebepsiz   zenginleşmeden   doğan   haklar
+Madde 772 - (1)   Vade   geldiğinde   ödeme,   özellikle   vadenin   geldiği   günün   ve   ödeme  tarihinin   hesaplanması,   bedeli   yabancı   bir   ülke   parasıyla   gösterilmiş   poliçelerin   ödenmesi,  poliçenin   hangi   ülkede   ödenmesi   gerekiyorsa   o   ülkede ki   hukuka   göre   belirlenir.
 
 ---
 

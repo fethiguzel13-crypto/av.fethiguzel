@@ -15,9 +15,6 @@ Ancak, karşı tarafın her hâlde bunun aksini ispat hakkı vardır.
 Örnek, alıcının elindeyken bozulmuş veya yok olmuşsa, kusuru olmasa bile, satılanın
 örneğe uygun olmadığını ispat yükü alıcıya düşer.
 
-B. Beğenme koşuluyla satış
-I. Tanımı
-
 ---
 
 ### Bizim Yorumumuz

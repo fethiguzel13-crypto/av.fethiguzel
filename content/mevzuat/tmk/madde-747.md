@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 747
 ---
 
-**Madde 747**
+**7. Geçit hakları
+a. Zorunlu geçit**
 
 ---
 
-Madde 747 - Taşınmazından genel yola çıkmak   için yeterli geçidi bulunmayan malik, tam  bir bedel karşılığında bir geçit hakkı tanınmasını komşuların dan isteyebilir.  Bu hak, ilk önce kendisinden bu geçidin isten mesi önceki mülkiyet ve yol durumuna göre  en uygun düşen komşuya karşı ve daha sonra bunda n en az zarar görecek olana karşı kullanılır.  Zorunlu geçit iki tarafın menfaati gözetilerek belirlenir.  b. Diğer geçit hakları
+Madde 747 - Taşınmazından genel yola çıkmak   için yeterli geçidi bulunmayan malik, tam  bir bedel karşılığında bir geçit hakkı tanınmasını komşuların dan isteyebilir.  Bu hak, ilk önce kendisinden bu geçidin isten mesi önceki mülkiyet ve yol durumuna göre  en uygun düşen komşuya karşı ve daha sonra bunda n en az zarar görecek olana karşı kullanılır.  Zorunlu geçit iki tarafın menfaati gözetilerek belirlenir.
 
 ---
 

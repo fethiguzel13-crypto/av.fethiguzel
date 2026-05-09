@@ -18,8 +18,6 @@ Kabul  ettikleri  kişilere  ölünceye  kadar  bakma  amacıyla  kurulmuş  ola
 bakım borcunun kapsamı ve ifası, kendilerince hazırlanarak yetkili makamların onayından
 geçen genel düzenlemelerle belirlenir. Bu düzenlemeler, sözleşmenin içeriğinden sayılır.
 
-E. İptali ve tenkisi
-
 ---
 
 ### Bizim Yorumumuz

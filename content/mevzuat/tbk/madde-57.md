@@ -14,8 +14,6 @@ veya onları kaybetme tehlikesiyle karşılaşan kişi, bu davranışlara son ve
 varlığı hâlinde zararının giderilmesini isteyebilir.
 Ticari işlere ait haksız rekabet hakkında Türk Ticaret Kanunu hükümleri saklıdır.
 
-3. Kişilik hakkının zedelenmesi
-
 ---
 
 ### Bizim Yorumumuz

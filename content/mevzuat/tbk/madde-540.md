@@ -14,8 +14,6 @@ hakkını kaybeder.
 Bedelin  gerçekleşen  bedelden  farklı  gösterilmesi  durumunda  vekâlet  veren,
 komisyoncuyu gerçekleşen bedel üzerinden satılanın alıcısı veya satıcısı sayma hakkına sahiptir.
 
-3. Hapis hakkı
-
 ---
 
 ### Bizim Yorumumuz

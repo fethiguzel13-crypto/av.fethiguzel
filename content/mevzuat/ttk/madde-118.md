@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 118
 ---
 
-**Madde 118**
+**III
+- Faiz isteme hakkı**
 
 ---
 
-Madde 118 - (1)   Avans   ve   olağanüstü   giderler   hakkında   20   nci   maddenin   birin ci  fıkrasının   ikinci   cümlesi   hükmü   uygulanır.  IV   -   Hapis   hakkı
+Madde 118 - (1)   Avans   ve   olağanüstü   giderler   hakkında   20   nci   maddenin   birin ci  fıkrasının   ikinci   cümlesi   hükmü   uygulanır.
 
 ---
 

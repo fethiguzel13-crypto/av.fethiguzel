@@ -20,9 +20,6 @@ Satılanın kısa zamanda bozulma tehlikesi varsa, alıcı onu bulunduğu yerdek
 aracılığıyla sattırmaya yetkili, hatta satıcının yararı gerektiriyorsa sattırmakla yükümlüdür.
 Alıcı, durumu satıcıya en kısa zamanda bildirmezse, bundan doğan zarardan sorumlu olur.
 
-7. Alıcının seçimlik hakları
-a. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

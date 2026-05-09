@@ -16,8 +16,6 @@ isteme yetkisi, bağışlayanın ölümünden sonra, ilgili kamu kurumuna geçer
 Bağışlama konusunun değeri, yüklemenin yerine getirilmesi masraflarını karşılamaz
 ve aşan kısım kendisine ödenmezse bağışlanan, yüklemeyi yerine getirmekten kaçınabilir.
 
-V. Bağışlayana dönme koşullu bağışlama
-
 ---
 
 ### Bizim Yorumumuz

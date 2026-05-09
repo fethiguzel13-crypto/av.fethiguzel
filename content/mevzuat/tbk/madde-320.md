@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 320
 ---
 
-**1. Kiraya veren tarafından**
+**E. Özel durumlar
+I. Kiralananda yenilik ve değişiklik yapılması
+1. Kiraya veren tarafından**
 
 ---
 
@@ -13,8 +15,6 @@ kiracıdan katlanması beklenebilecek olan yenilik ve değişiklikler yapabilir.
 Bu yenilik ve değişikliklerin yapılması sırasında kiraya veren, kiracının menfaatlerini
 gözetmekle yükümlüdür. Kiracının, kira bedelinin indirilmesine ve zararının giderilmesine
 ilişkin hakları saklıdır.
-
-2. Kiracı tarafından
 
 ---
 

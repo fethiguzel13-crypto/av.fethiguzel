@@ -19,9 +19,6 @@ yoluna başvurmuşsa.
 Satıcının  sorumluluğu,  alıcının  satılanı  üçüncü  kişiye  vermekle  yükümlü  olduğunu
 ispat etmesi durumunda da devam eder.
 
-3. Alıcının hakları
-a. Tam zapt hâlinde
-
 ---
 
 ### Bizim Yorumumuz

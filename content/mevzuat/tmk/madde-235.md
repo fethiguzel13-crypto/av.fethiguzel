@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 235
 ---
 
-**Madde 235**
+**3. Değerlendirme anı**
 
 ---
 
-Madde 235 - Mal rejiminin sona erdiği   sırada mevcut olan edinil miş mallar, tasfiye anındaki  değerleriyle hesaba katılırlar.  Edinilmiş   mallara hesapta eklenecek   olanların   değeri,   m alın   devre dildiği   tarih   esas  alınarak hesaplanır.  V. Artık değere katılma  1. Kanuna göre
+Madde 235 - Mal rejiminin sona erdiği   sırada mevcut olan edinil miş mallar, tasfiye anındaki  değerleriyle hesaba katılırlar.  Edinilmiş   mallara hesapta eklenecek   olanların   değeri,   m alın   devre dildiği   tarih   esas  alınarak hesaplanır.
 
 ---
 

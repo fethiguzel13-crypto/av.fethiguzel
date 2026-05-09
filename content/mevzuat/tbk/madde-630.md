@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 630
 ---
 
-**1. Genel olarak**
+**VII. Yönetici ortaklar ile diğer ortaklar arasındaki ilişki
+1. Genel olarak**
 
 ---
 
@@ -19,8 +20,6 @@ Yönetici ortaklar, yılda en az bir defa hesap vermek ve kazanç paylarını or
 ödemekle  yükümlüdürler.  Hesap  döneminin  uzatılmasına  ilişkin  anlaşma  kesin  olarak
 hükümsüzdür.  Ortaklığı  yönetenin  ortaklardan  birisi  olmaması  durumunda  da  aynı  kural
 uygulanır.
-
-2. Ortaklık işlerini inceleme
 
 ---
 

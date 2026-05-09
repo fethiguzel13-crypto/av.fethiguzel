@@ -16,8 +16,6 @@ göre belirli olan durumu, hakları ve yükleri ile birlikte malik olur.
 Ancak, aldatma durumu dışında, artırma koşullarında açıkça belirtip duyurmak suretiyle bu
 sorumluluktan kurtulabilir.
 
-IV. Artırmanın iptali
-
 ---
 
 ### Bizim Yorumumuz

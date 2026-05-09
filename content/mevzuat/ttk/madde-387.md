@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 387
 ---
 
-**Madde 387**
+**ı) Saklı tutulan hükümler**
 
 ---
 
-Madde 387 - (1)   Şirketi n   kendi   paylarını   iktisap   edebileceğine   ilişkin   diğer  kanunlardaki   hükümler   saklıdır.  i)   Kendi   paylarını   taahhüt   yasağı
+Madde 387 - (1)   Şirketi n   kendi   paylarını   iktisap   edebileceğine   ilişkin   diğer  kanunlardaki   hükümler   saklıdır.
 
 ---
 

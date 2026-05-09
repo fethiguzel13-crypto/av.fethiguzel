@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1044
 ---
 
-**Madde 1044**
+**9. Gemi ipoteğini n sona ermesi
+a) Sebepleri aa) Alacakla birlikte ipoteğin de düşmesi sonucunu doğuran sebepler aaa) Alacağın düşmesi**
 
 ---
 

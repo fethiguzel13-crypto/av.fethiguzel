@@ -8,7 +8,7 @@ maddeNo: 824
 
 ---
 
-Madde 824 - (1)   Emre   yazılı   olan   veya   kanunen   böyle   sayılan   kıymet li   evrak,   emre  yazılı   senetlerdendir.  II   -   Borçlunun   def’ileri
+Madde 824 - (1)   Emre   yazılı   olan   veya   kanunen   böyle   sayılan   kıymet li   evrak,   emre  yazılı   senetlerdendir.
 
 ---
 

@@ -24,8 +24,6 @@ tarihinde  ödenmesi  gereken  borçlardan,  devreden  ve  devralan  işveren  m
 sorumludurlar. Ancak, devreden işverenin bu yükümlülüklerden doğan sorumluluğu, devir
 tarihinden itibaren iki yıl ile sınırlıdır.
 
-II. Sözleşmenin devri
-
 ---
 
 ### Bizim Yorumumuz

@@ -13,7 +13,6 @@ uygun düştüğü ölçüde, mal değişim sözleşmesine de uygulanır.
 
 ÜÇÜNCÜ BÖLÜM
 Bağışlama Sözleşmesi
-A. Tanımı
 
 ---
 

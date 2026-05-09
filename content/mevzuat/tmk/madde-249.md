@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 249
 ---
 
-**Madde 249**
+**2. Katkıdan doğan hak**
 
 ---
 
-Madde 249 - Eşlerden biri diğerine ait olup, paylaştırma dışı kalan bir malın edinilme sine,  iyileştirilmesine veya korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuşsa;  mal rejimini n sona ermesi hâlinde, katkısı oranında hakkaniyete uygun bir bedel ödenmesini  isteyebilir.  Aynı istem, paylaştırma dışı kalan malın yerine geç en de ğerler için de geçerlidir.  III. Aileye özgülenen mallar  1. Kural
+Madde 249 - Eşlerden biri diğerine ait olup, paylaştırma dışı kalan bir malın edinilme sine,  iyileştirilmesine veya korunmasına hiç ya da uygun bir karşılık almaksızın katkıda bulunmuşsa;  mal rejimini n sona ermesi hâlinde, katkısı oranında hakkaniyete uygun bir bedel ödenmesini  isteyebilir.  Aynı istem, paylaştırma dışı kalan malın yerine geç en de ğerler için de geçerlidir.
 
 ---
 

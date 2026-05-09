@@ -20,8 +20,6 @@ benzeriyle değiştirebilir.
 Kiraya veren, kiracıya aynı malın ayıpsız bir benzerini hemen vererek ve uğradığı
 zararın tamamını gidererek, onun seçimlik haklarını kullanmasını önleyebilir.
 
-c. Kira bedelinin indirilmesi
-
 ---
 
 ### Bizim Yorumumuz

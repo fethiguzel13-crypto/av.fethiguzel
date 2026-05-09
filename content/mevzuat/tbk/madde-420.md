@@ -22,9 +22,6 @@ hâlde dahi, ödemelerin banka aracılığıyla yapılmış olması zorunludur.
 yakınlarının isteyebilecekleri dâhil, hizmet sözleşmesinden doğan bütün tazminat alacaklarına
 da uygulanır.
 
-VI. Tatil ve izinler
-1. Hafta tatili ve iş arama izni
-
 ---
 
 ### Bizim Yorumumuz

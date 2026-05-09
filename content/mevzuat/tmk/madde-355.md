@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 355
 ---
 
-**Madde 355**
+**C. Gelirlerin sarfı**
 
 ---
 
-Madde 355 - Ana   ve   baba,   çocuk   mallarının   gelirlerini   öncelikle   çocuğu n   bakımı,  yetiştirilmesi ve eğitimi için; hakkaniyete uyduğ u ölçüde de aile ihtiy açlarını karşılamak üzere  s arfedebilirler.  Gelir fazlası, çocuk m alları na kat ılır.  D. Çocuk mallarının kısmen sarfı
+Madde 355 - Ana   ve   baba,   çocuk   mallarının   gelirlerini   öncelikle   çocuğu n   bakımı,  yetiştirilmesi ve eğitimi için; hakkaniyete uyduğ u ölçüde de aile ihtiy açlarını karşılamak üzere  s arfedebilirler.  Gelir fazlası, çocuk m alları na kat ılır.
 
 ---
 

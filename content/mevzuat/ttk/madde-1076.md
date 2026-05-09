@@ -8,7 +8,7 @@ maddeNo: 1076
 
 ---
 
-Madde 1076 - (1)   İştirakin   kazancı   ve   zararı,   paydaş   donatanlara   gemideki   paylarına  göre   dağıtılır.  (2)   Kazanç   ve   zarar   hesabı   ile   kazancın   dağıtılması   takvim   yılı   so nunda   yapılır.  VI -   Giderlere   katılma
+Madde 1076 - (1)   İştirakin   kazancı   ve   zararı,   paydaş   donatanlara   gemideki   paylarına  göre   dağıtılır.  (2)   Kazanç   ve   zarar   hesabı   ile   kazancın   dağıtılması   takvim   yılı   so nunda   yapılır.
 
 ---
 

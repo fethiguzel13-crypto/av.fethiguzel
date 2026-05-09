@@ -25,8 +25,6 @@ satış bedelinin yüzde onunu geçemez.
 Satılanın devredilmiş olduğu hâllerde, dönme konusunda 260 ıncı maddenin  birinci
 fıkrası hükmü uygulanır.
 
-4. Uygulama alanının sınırlanması
-
 ---
 
 ### Bizim Yorumumuz

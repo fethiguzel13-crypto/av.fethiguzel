@@ -17,8 +17,6 @@ tamamını ifa etmekle yükümlüdür.
 Durumun gereğinden aksi anlaşılmadıkça, ifada bulunan borçlu, alacaklıya halef olur
 ve diğer borçlulardan payları oranında alacağını isteyebilir.
 
-3. Çeşit borcu
-
 ---
 
 ### Bizim Yorumumuz

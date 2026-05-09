@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 498
 ---
 
-**Madde 498**
+**IV. Evlilik d ışı hısımlar**
 
 ---
 
-Madde 498 - Evlilik dışında doğmuş ve soybağı, tanıma veya hâkim hükm üyle kurulmuş  olanlar, baba   yönünden evlilik içi hısım lar gibi mi rasçı   olurla r.  B. Sağ kalan eş
+Madde 498 - Evlilik dışında doğmuş ve soybağı, tanıma veya hâkim hükm üyle kurulmuş  olanlar, baba   yönünden evlilik içi hısım lar gibi mi rasçı   olurla r.
 
 ---
 

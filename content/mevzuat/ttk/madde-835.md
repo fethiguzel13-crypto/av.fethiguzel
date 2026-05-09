@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 835
 ---
 
-**Madde 835**
+**2. Varant**
 
 ---
 
-Madde 835 - (1)   Varantın   da   834   üncü   maddede   yazılı   kayı tları   aynen   içermesi   ve  makbuz   senedine   bağlı   olması   gerekir.  3.   Defter
+Madde 835 - (1)   Varantın   da   834   üncü   maddede   yazılı   kayı tları   aynen   içermesi   ve  makbuz   senedine   bağlı   olması   gerekir.
 
 ---
 

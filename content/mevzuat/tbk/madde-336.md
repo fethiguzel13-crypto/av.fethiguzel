@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 336
 ---
 
-**I. Konusu**
+**H. Kiraya verenin hapis hakkı
+I. Konusu**
 
 ---
 
@@ -14,8 +15,6 @@ döşenmesine veya kullanılmasına yarayan taşınırlar üzerinde hapis hakkı
 Kiraya verenin hapis hakkı, alt kiracının asıl kiracıya olan kira borcunu aşmamak
 üzere, alt kiracının kiralanana getirdiği aynı nitelikteki taşınırları da kapsar.
 Hapis hakkı, kiracının haczedilemeyen malları üzerinde kullanılamaz.
-
-II. Üçüncü kişilere ait olan eşya
 
 ---
 

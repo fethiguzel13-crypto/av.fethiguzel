@@ -13,8 +13,6 @@ kendisine  verilen  alacaklı,  koşul  gerçekleşirse,  koşulun  gerçekleşm
 yararların sahibi olur.
 Koşul gerçekleşmezse alacaklı, elde ettiği yararları geri vermekle yükümlüdür.
 
-B. Bozucu koşul
-
 ---
 
 ### Bizim Yorumumuz

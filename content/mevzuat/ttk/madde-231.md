@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 231
 ---
 
-**Madde 231**
+**II
+- Aykırı hareket**
 
 ---
 

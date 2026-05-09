@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 133
 ---
 
-**I. Genel olarak**
+**C. Yenileme
+I. Genel olarak**
 
 ---
 
@@ -13,8 +14,6 @@ yöndeki açık iradesi ile olur.
 Özellikle mevcut borç için kambiyo taahhüdünde bulunulması veya yeni bir alacak
 senedi ya da yeni bir kefalet senedi düzenlenmesi, tarafların açık yenileme iradeleri olmadıkça
 yenileme sayılmaz.
-
-II. Cari hesaplarda
 
 ---
 

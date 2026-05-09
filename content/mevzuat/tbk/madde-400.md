@@ -13,11 +13,6 @@ Bu sorumluluğun belirlenmesinde; işin tehlikeli olup olmaması, uzmanlığı v
 gerektirip  gerektirmemesi  ile  işçinin  işveren  tarafından  bilinen  veya  bilinmesi  gereken
 yetenek ve nitelikleri göz önünde tutulur.
 
-D. İşverenin borçları
-I. Ücret ödeme borcu
-1. Ücret
-a. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

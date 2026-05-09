@@ -13,9 +13,6 @@ Ancak, üçüncü kişilerin alacak üzerinde önceden mevcut olan hakları birl
 Birleşme geçmişe etkili olarak ortadan kalkarsa, borç varlığını sürdürür.
 Taşınmaz rehni ve kıymetli evraka ilişkin özel hükümler saklıdır.
 
-E. İfa imkânsızlığı
-I. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

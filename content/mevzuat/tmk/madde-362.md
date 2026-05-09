@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 362
 ---
 
-**Madde 362**
+**G. Yönetimin sona ermesi
+I. Malların devri**
 
 ---
 
-Madde 362 - Ana ve baba, velâyetleri veya yönetim haklar ı sona erince, çocuğun mallarını,  hesabıyla birlikte ergin çocuğa, vasisine veya   kayyıma devrederler.  II. A na ve babanın sorumluluğu
+Madde 362 - Ana ve baba, velâyetleri veya yönetim haklar ı sona erince, çocuğun mallarını,  hesabıyla birlikte ergin çocuğa, vasisine veya   kayyıma devrederler.
 
 ---
 

@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1296
 ---
 
-**Madde 1296**
+**H) Saklı tutulan hükümler**
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 269
 ---
 
-**Madde 269**
+**II. Kişisel borçlar**
 
 ---
 
-Madde 269 - Her eş, diğer bütün borçlardan kendi   kişisel mallarıyla ve ortaklık malla rının  değerinin yarısı kadarıyla sorumlu tutulur.  Ortaklığın zenginleşmesinden kaynaklanan istemler saklı dır.  D. Eşler arasındaki borçlar
+Madde 269 - Her eş, diğer bütün borçlardan kendi   kişisel mallarıyla ve ortaklık malla rının  değerinin yarısı kadarıyla sorumlu tutulur.  Ortaklığın zenginleşmesinden kaynaklanan istemler saklı dır.
 
 ---
 

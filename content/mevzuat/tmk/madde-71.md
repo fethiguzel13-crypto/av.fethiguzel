@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 71
 ---
 
-**Madde 71**
+**b. Diğer yükümlülükler**
 
 ---
 
-Madde 71 - Üyeler, dernek düzenine uymak ve derneğe sadakat göstermekle yükümlüdürler.  Her üye, derneğin ama cına uygun davranmak,   özellikle amacın gerçekleşmesini güçleştirici  veya engelleyici davranışla rdan   kaçınmakla yükümlüdür.  C. Organlar  I. Genel olarak
+Madde 71 - Üyeler, dernek düzenine uymak ve derneğe sadakat göstermekle yükümlüdürler.  Her üye, derneğin ama cına uygun davranmak,   özellikle amacın gerçekleşmesini güçleştirici  veya engelleyici davranışla rdan   kaçınmakla yükümlüdür.
 
 ---
 

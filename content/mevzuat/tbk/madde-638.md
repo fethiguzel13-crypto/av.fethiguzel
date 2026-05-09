@@ -15,10 +15,6 @@ haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilirler.
 Ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye karşı, ortaklık ilişkisi
 çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmamışsa müteselsilen sorumlu olurlar.
 
-D. Ortaklığın sona ermesi
-I. Sona erme sebepleri
-1. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

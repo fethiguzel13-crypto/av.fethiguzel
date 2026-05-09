@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 556
 ---
 
-**I. Havale eden ile havale alıcısı arasındaki ilişki**
+**B. Hükümleri
+I. Havale eden ile havale alıcısı arasındaki ilişki**
 
 ---
 
@@ -16,8 +17,6 @@ ileri sürebilir.
 Alacaklı olan havale alıcısı, havaleyi kabul etmek istemezse, durumu borçlu olan havale
 edene  gecikmeksizin  bildirmek  zorundadır;  bildirmezse  bundan  doğan  zararı  gidermekle
 yükümlü olur.
-
-II. Havale ödeyicisinin borcu
 
 ---
 

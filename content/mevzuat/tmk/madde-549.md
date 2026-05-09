@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 549
 ---
 
-**Madde 549**
+**C. Tasarruf edilebilir kısmın daralması**
 
 ---
 

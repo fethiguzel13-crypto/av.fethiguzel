@@ -15,8 +15,6 @@ verildikten sonra bir şey artarsa, bu kazanç, ortaklar arasında paylaşılır
 Ortaklığın, borçlar, giderler ve avanslar ödendikten sonra kalan varlığı, ortakların
 koydukları katılım paylarının geri verilmesine yetmezse, zarar ortaklar arasında paylaşılır.
 
-3. Tasfiye usulü
-
 ---
 
 ### Bizim Yorumumuz

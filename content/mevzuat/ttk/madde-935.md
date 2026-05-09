@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 935
 ---
 
-**Madde 935**
+**B) Hükümlerin uygulama alanı**
 
 ---
 

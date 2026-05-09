@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 53
 ---
 
-**Madde 53**
+**B) İşletme adı**
 
 ---
 

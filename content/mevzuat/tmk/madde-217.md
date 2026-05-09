@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 217
 ---
 
-**Madde 217**
+**H. Eşler arasındaki borçlar**
 
 ---
 

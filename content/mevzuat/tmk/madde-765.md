@@ -4,12 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 765
 ---
 
-**Madde 765**
+**b. Taksitle satış**
 
 ---
 
 Madde 765 - Taksit le   mal   satan kimse, bu satımlara ilişkin özel   hükümlere uymak  koşuluyla, mülkiyeti saklı t utma sözleşmesine dayanarak, sattığı malın geri verilmesini isteyebilir.
-3. Hükmen teslim
 
 ---
 

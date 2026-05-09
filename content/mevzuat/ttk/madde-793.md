@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 793
 ---
 
-**Madde 793**
+**D) Protestodan ve ibraz süresinin geçmesinden sonraki ciro**
 
 ---
 

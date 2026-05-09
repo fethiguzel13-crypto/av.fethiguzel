@@ -8,7 +8,7 @@ maddeNo: 352
 
 ---
 
-Madde 352 - Ana ve baba, velâyetl eri devam ettiği sürece çoc uğun mallarını yönetme  hakk ına sahip v e bunu nla yükümlüdürler; kural olarak hesap ve güvence vermezler.  Ana ve babanın yükümlülüklerini yerine getir medikleri durumlarda hâkim müdahale eder.  II. Evlilik sona erince
+Madde 352 - Ana ve baba, velâyetl eri devam ettiği sürece çoc uğun mallarını yönetme  hakk ına sahip v e bunu nla yükümlüdürler; kural olarak hesap ve güvence vermezler.  Ana ve babanın yükümlülüklerini yerine getir medikleri durumlarda hâkim müdahale eder.
 
 ---
 

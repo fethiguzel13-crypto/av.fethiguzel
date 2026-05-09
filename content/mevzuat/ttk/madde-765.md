@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 765
 ---
 
-**Madde 765**
+**VI
+- Teminat**
 
 ---
 

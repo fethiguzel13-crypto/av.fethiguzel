@@ -13,8 +13,6 @@ olarak ödünç alma zamanında ve yerinde o tür ödünçlerde geçerli olan fa
 Sözleşmede aksine bir hüküm yoksa, belirlenen faiz, yıllık olarak ödenir.
 Faizin anaparaya eklenerek birlikte yeniden faiz yürütülmesi kararlaştırılamaz.
 
-II. Zamanaşımı
-
 ---
 
 ### Bizim Yorumumuz

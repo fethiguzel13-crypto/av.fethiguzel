@@ -8,7 +8,7 @@ maddeNo: 1149
 
 ---
 
-Madde 1149 - (1)   Taşıyanın   veya   acentesinin   bilgisi   1146   ilâ   1148   inci   maddelerdeki  hâllerde   kaptanın   bilgisi   hükmündedir.  IV -   Başka   gemiye   yükleme   ve   aktarma
+Madde 1149 - (1)   Taşıyanın   veya   acentesinin   bilgisi   1146   ilâ   1148   inci   maddelerdeki  hâllerde   kaptanın   bilgisi   hükmündedir.
 
 ---
 

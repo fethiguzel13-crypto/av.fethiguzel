@@ -8,7 +8,7 @@ maddeNo: 970
 
 ---
 
-Madde 970 - (1)   Gemi   siciline   geçirilen   her   kayıt   gecikmeksizin   gemi  tasdiknamesine   de   yazılır.   Bir   gemi   payının   devrinin   sınırlanmasına   ilişkin   kayıtlar   hakkında  bu   hüküm   uygulanmaz.  IV -   İbraz   zorunluluğu
+Madde 970 - (1)   Gemi   siciline   geçirilen   her   kayıt   gecikmeksizin   gemi  tasdiknamesine   de   yazılır.   Bir   gemi   payının   devrinin   sınırlanmasına   ilişkin   kayıtlar   hakkında  bu   hüküm   uygulanmaz.
 
 ---
 

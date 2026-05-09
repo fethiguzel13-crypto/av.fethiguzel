@@ -14,8 +14,6 @@ borçlunun ileri sürebileceği kişisel savunmalarda bulunamaz.
 Yeni borçlu, iç üstlenme sözleşmesinden kaynaklanan savunmaları alacaklıya karşı
 ileri süremez.
 
-D. Sözleşmenin hükümsüzlüğü
-
 ---
 
 ### Bizim Yorumumuz

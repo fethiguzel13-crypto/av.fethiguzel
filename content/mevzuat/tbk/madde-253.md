@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 253
 ---
 
-**1. Tanımı, şekli ve içeriği**
+**C. Kısmi ödemeli satışlar
+I. Taksitle satış
+1. Tanımı, şekli ve içeriği**
 
 ---
 
@@ -28,9 +30,6 @@ alma hakkı.
 ilişkin anlaşma kayıtları.
 10. Temerrüt veya vadenin ertelenmesi durumunda, yasal faiz oranının yüzde otuz
 fazlasını geçmemek üzere ödenecek faiz.
-11. Sözleşmenin kurulduğu yer ve tarih.
-
-2. Yasal temsilcinin rızası
 
 ---
 

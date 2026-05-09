@@ -17,8 +17,6 @@ Birden  çok  kişi  bir  şeyi  saklanmak  üzere  verirse,  sözleşmede  aksi
 bulunmadıkça  veya  hepsinin  rızası  olmadıkça,  saklayan  saklananı  onlardan  birine  geri
 vermekle sorumluluktan kurtulamaz.
 
-c. Geri verme yeri
-
 ---
 
 ### Bizim Yorumumuz

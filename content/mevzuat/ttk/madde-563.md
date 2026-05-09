@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 563
 ---
 
-**Madde 563**
+**B) Soruşturma ve kovuşturma usulü**
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 454
 ---
 
-**1. Genel olarak**
+**II. Ücret
+1. Genel olarak**
 
 ---
 
@@ -16,8 +17,6 @@ anlaşma,  kararlaştırılan  komisyonun,  pazarlamacının  faaliyetinin  uygu
 oluşturması koşuluyla geçerlidir.
 Deneme süresi için ödenecek ücret, serbestçe kararlaştırılabilir. Ancak, deneme süresi
 iki ayı geçemez.
-
-2. Komisyon
 
 ---
 

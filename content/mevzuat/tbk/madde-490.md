@@ -17,8 +17,6 @@ de yayımlatılabilir.
 Yayımlatan, toplama bir eserin kendisine ait bölümlerini veya dergilerde çıkan uzun
 yazılarını, yayımın bitmesinden başlayarak üç ay geçmedikçe yeniden yayımlatamaz.
 
-III. Basım sayısı ve baskı adedinin belirlenmesi
-
 ---
 
 ### Bizim Yorumumuz

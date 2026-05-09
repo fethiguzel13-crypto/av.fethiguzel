@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 387
 ---
 
-**1. Genel olarak**
+**B. Hükümleri
+I. Faiz
+1. Genel olarak**
 
 ---
 
@@ -12,8 +14,6 @@ Madde 387 - Ticari olmayan tüketim ödüncü sözleşmesinde, taraflarca kararl
 olmadıkça faiz istenemez.
 Ticari  tüketim  ödüncü  sözleşmesinde,  taraflarca  kararlaştırılmamış  olsa  bile  faiz
 istenebilir.
-
-2. Faize ilişkin özel kurallar
 
 ---
 

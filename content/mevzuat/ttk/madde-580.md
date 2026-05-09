@@ -4,7 +4,9 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 580
 ---
 
-**Madde 580**
+**D) Sermaye
+I
+- En az tutar**
 
 ---
 

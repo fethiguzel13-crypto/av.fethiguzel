@@ -18,9 +18,6 @@ Ortaklığa  genel  yetkili  bir  temsilci  atanması  ve  ortaklığın  olağa
 yürütülmesi  için,  bütün  ortakların  oybirliği  gereklidir.  Ancak,  gecikmesinde  sakınca  olan
 hâllerde, bu konuda yönetici ortaklardan her biri yetkilidir.
 
-V. Ortaklar arasındaki sorumluluk
-1. Rekabet yasağı
-
 ---
 
 ### Bizim Yorumumuz

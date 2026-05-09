@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 400
 ---
 
-**Madde 400**
+**II
+- Denetçi olabilecekler**
 
 ---
 

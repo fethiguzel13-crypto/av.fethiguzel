@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 901
 ---
 
-**Madde 901**
+**H) Sorumluluğu sınırlama hakkının kaybı**
 
 ---
 

@@ -8,7 +8,7 @@ maddeNo: 443
 
 ---
 
-Madde 443 - Vesayet a ltındaki kişinin malvarlığı   içinde ticarî, sınaî veya   benzeri bir  işlet me var sa; vesayet makamı, bunların işletilmesinin devamı ve ya tasfiyesi için gerekli talimatı  verir.  VI . Taşınmazların satılması
+Madde 443 - Vesayet a ltındaki kişinin malvarlığı   içinde ticarî, sınaî veya   benzeri bir  işlet me var sa; vesayet makamı, bunların işletilmesinin devamı ve ya tasfiyesi için gerekli talimatı  verir.
 
 ---
 

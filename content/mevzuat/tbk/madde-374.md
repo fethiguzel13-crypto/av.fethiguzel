@@ -14,8 +14,6 @@ Ancak kiracı, ürünün yetişmesi için yapmış olduğu tarım giderlerinin h
 belirlenecek  miktarını,  kiraya  verenden  tazminat  olarak  isteyebilir  ve  bu  tazminat işlemiş
 kiralardan indirilir.
 
-4. Saman, gübre ve benzerleri
-
 ---
 
 ### Bizim Yorumumuz

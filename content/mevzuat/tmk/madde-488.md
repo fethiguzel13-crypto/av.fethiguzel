@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 488
 ---
 
-**Madde 488**
+**5. İtiraz**
 
 ---
 

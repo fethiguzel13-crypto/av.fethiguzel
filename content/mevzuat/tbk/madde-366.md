@@ -15,10 +15,6 @@ koşuluyla kiraya verebilir.
 Kiracının, başkasıyla yaptığı bu kira sözleşmelerine, alt kiraya ilişkin kurallar, kıyas
 yoluyla uygulanır.
 
-G. Sözleşmenin sona ermesi
-I. Sona erme sebepleri
-1. Sürenin geçmesi
-
 ---
 
 ### Bizim Yorumumuz

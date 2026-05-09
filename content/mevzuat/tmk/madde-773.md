@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 773
 ---
 
-**Madde 773**
+**5. Bilimsel değeri olan eşya**
 
 ---
 
-Madde 773 - Bilimsel değeri olan sahipsiz d oğal şeyler ile eski eserlerin bulunması  hâlinde özel kanun hü kümleri uygulanır.  IV. Düşen veya sürüklenen şeyler
+Madde 773 - Bilimsel değeri olan sahipsiz d oğal şeyler ile eski eserlerin bulunması  hâlinde özel kanun hü kümleri uygulanır.
 
 ---
 

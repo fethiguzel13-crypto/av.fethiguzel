@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 784
 ---
 
-**Madde 784**
+**2. Her iki taşınmaza aynı kimsenin malik olması**
 
 ---
 
-Madde 784 - Yüklü ve yararlana n taşınmazlara aynı kimse malik olursa, bu kişi, irtifak  hakkını terkin ettirebilir.  Terkin edilmedikçe   irtifak, aynî hak olarak varlığını sürdürür.  3. Mahkeme karar ı
+Madde 784 - Yüklü ve yararlana n taşınmazlara aynı kimse malik olursa, bu kişi, irtifak  hakkını terkin ettirebilir.  Terkin edilmedikçe   irtifak, aynî hak olarak varlığını sürdürür.
 
 ---
 

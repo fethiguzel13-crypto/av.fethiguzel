@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 227
 ---
 
-**a. Genel olarak**
+**7. Alıcının seçimlik hakları
+a. Genel olarak**
 
 ---
 
@@ -22,8 +23,6 @@ Alıcının,  sözleşmeden  dönme hakkını  kullanması  hâlinde,  durum  bu
 göstermiyorsa hâkim, satılanın onarılmasına veya satış bedelinin indirilmesine karar verebilir.
 Satılanın değerindeki eksiklik satış bedeline çok yakın ise alıcı, ancak sözleşmeden dönme
 veya satılanın ayıpsız bir benzeriyle değiştirilmesini isteme haklarından birini kullanabilir.
-
-b. Satılanın yok olması veya ağır biçimde zarara uğraması
 
 ---
 

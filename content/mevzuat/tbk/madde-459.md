@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 459
 ---
 
-**I. Özel fesih süresi**
+**D. Sona ermesi
+I. Özel fesih süresi**
 
 ---
 
@@ -15,8 +16,6 @@ aylık fesih süresine uyarak feshedebilir.
 Aynı  koşullar  altında  pazarlamacı  da,  kendisini  bir  önceki  mevsim  sonuna  kadar
 çalıştırmış ve bundan sonra da çalıştırmaya devam eden işverene karşı, bir sonraki mevsimin
 başlamasına kadar olan dönemde, iki aylık fesih süresine uyarak sözleşmeyi feshedebilir.
-
-II. Özel sonuçlar
 
 ---
 

@@ -23,7 +23,6 @@ Satış Sözleşmesi
 
 BİRİNCİ AYIRIM
 Genel Hükümler
-A. Tanımı ve hükümleri
 
 ---
 

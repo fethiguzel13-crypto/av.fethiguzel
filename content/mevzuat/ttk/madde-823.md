@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 823
 ---
 
-**Madde 823**
+**III
+- Yerleşim yeri hukuku**
 
 ---
 

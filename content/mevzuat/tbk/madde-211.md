@@ -16,9 +16,6 @@ Liman ve gümrük giderleri olmaksızın devir kararlaştırılmışsa satıcı,
 ve dış alım vergilerini üstlenmiş sayılır; ancak satılanın alıcı tarafından devralındığı sırada
 ödenmiş olan tüketim vergilerini üstlenmiş sayılmaz.
 
-3. Satıcının temerrüdü
-a. Kural ve ayrık durum
-
 ---
 
 ### Bizim Yorumumuz

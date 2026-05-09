@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 2
 ---
 
-**Madde 2**
+**B. Hukukî ilişkilerin kapsamı
+I. Dürüst davranma**
 
 ---
 
-Madde 2 - Herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına  uymak zorundadır.  B ir ha kkın açıkça kötüye kullanılmasını hukuk düzeni korumaz.  II. İyiniyet
+Madde 2 - Herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına  uymak zorundadır.  B ir ha kkın açıkça kötüye kullanılmasını hukuk düzeni korumaz.
 
 ---
 

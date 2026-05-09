@@ -8,7 +8,7 @@ maddeNo: 970
 
 ---
 
-Madde 970 - İşletme o larak taşınmaz rehni karşılığında ödünç verme işiyle uğraşmak  üzere yetkili makamdan izin   alanlar, özel bir rehin sözleşmesi ve teslim yükümlülüğü olmasa  bile, taşınmaz rehniyle güvence altına a lınmış alacakları ile cari işlerinden doğan alacaklarını  karşı lık göstererek rehinli tahvil çıkarabilirler.  B. Şekli
+Madde 970 - İşletme o larak taşınmaz rehni karşılığında ödünç verme işiyle uğraşmak  üzere yetkili makamdan izin   alanlar, özel bir rehin sözleşmesi ve teslim yükümlülüğü olmasa  bile, taşınmaz rehniyle güvence altına a lınmış alacakları ile cari işlerinden doğan alacaklarını  karşı lık göstererek rehinli tahvil çıkarabilirler.
 
 ---
 

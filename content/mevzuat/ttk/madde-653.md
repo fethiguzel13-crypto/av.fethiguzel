@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 653
 ---
 
-**Madde 653**
+**F) Özel hükümler**
 
 ---
 

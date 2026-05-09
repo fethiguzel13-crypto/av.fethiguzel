@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 453
 ---
 
-**I. Faaliyet alanı**
+**C. İşverenin özel yükümlülükleri
+I. Faaliyet alanı**
 
 ---
 
@@ -16,9 +17,6 @@ Sözleşmenin pazarlama alanı veya müşteri çevresine ilişkin hükmünün de
 gerektiren  bir sebep  varsa  işveren,  söz  konusu  hükmü,  sözleşmede  fesih  bildirim  süresi
 öngörülmüş olsa bile, bu süreye uymadan tek taraflı olarak değiştirebilir; ancak, bu durumda
 pazarlamacının tazminat ve hizmet sözleşmesini haklı sebeple sona erdirme hakkı saklıdır.
-
-II. Ücret
-1. Genel olarak
 
 ---
 

@@ -13,7 +13,6 @@ sağlamak amacıyla konulmuşsa, bu koşula bağlı hukuki işlem kesin olarak h
 
 ÜÇÜNCÜ AYIRIM
 Bağlanma Parası, Cayma Parası ve Ceza Koşulu
-A. Bağlanma parası
 
 ---
 

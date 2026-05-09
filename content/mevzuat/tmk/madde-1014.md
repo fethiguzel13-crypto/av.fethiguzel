@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 1014
 ---
 
-**Madde 1014**
+**b. Terkin ve değişiklik için**
 
 ---
 
-Madde 1014 - Bir tescilin terkin edilmesi veya değiş tirilmesi, ancak bu kaydın kendilerine  hak sağladığı kimseleri n yazılı beyanı üzerine yapılabilir.  2. Yetkinin ve sebebin belirlenmesi
+Madde 1014 - Bir tescilin terkin edilmesi veya değiş tirilmesi, ancak bu kaydın kendilerine  hak sağladığı kimseleri n yazılı beyanı üzerine yapılabilir.
 
 ---
 

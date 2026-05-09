@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 135
 ---
 
-**Madde 135**
+**II. Şekli**
 
 ---
 
-Madde 135 - Başvuru,   evlenece kler tarafından yazılı veya sözlü olarak yapılır.  III. Belgeler
+Madde 135 - Başvuru,   evlenece kler tarafından yazılı veya sözlü olarak yapılır.
 
 ---
 

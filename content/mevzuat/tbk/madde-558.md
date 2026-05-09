@@ -13,8 +13,6 @@ havale  konusunu  ifa etmeyeceğini  önceden  açıklarsa  havale  alıcısı, 
 havale  edene  bildirmekle  yükümlüdür;  bildirmezse,  bu  yüzden  havale  edenin  uğrayacağı
 zarardan sorumlu olur.
 
-C. Geri alma
-
 ---
 
 ### Bizim Yorumumuz

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 117
 ---
 
-**I. Koşulları**
+**B. Borçlunun temerrüdü
+I. Koşulları**
 
 ---
 
@@ -14,10 +15,6 @@ dayanarak taraflardan biri usulüne uygun bir bildirimde bulunmak suretiyle beli
 günün geçmesiyle; haksız fiilde fiilin işlendiği, sebepsiz zenginleşmede ise zenginleşmenin
 gerçekleştiği tarihte borçlu temerrüde düşmüş olur. Ancak sebepsiz zenginleşenin iyiniyetli
 olduğu hâllerde temerrüt için bildirim şarttır.
-
-II. Hükümleri
-1. Genel olarak
-a. Gecikme tazminatı
 
 ---
 

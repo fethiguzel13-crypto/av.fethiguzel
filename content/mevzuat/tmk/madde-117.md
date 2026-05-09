@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 117
 ---
 
-**Madde 117**
+**J. Diğer hükümler**
 
 ---
 

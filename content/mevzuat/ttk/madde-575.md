@@ -4,7 +4,9 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 575
 ---
 
-**Madde 575**
+**C) Şirket sözleşmesi
+I
+- Şekil**
 
 ---
 

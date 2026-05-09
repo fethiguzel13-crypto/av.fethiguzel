@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 703
 ---
 
-**Madde 703**
+**3. Sona ermesi**
 
 ---
 

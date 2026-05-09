@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 85
 ---
 
-**Madde 85**
+**2. Görevleri**
 
 ---
 
-Madde 85 - Yönetim kurulu, derneğin yürütme ve temsil organıdır; bu görevini kanuna ve  dernek tüz üğüne uygun olarak yerine getirir.  Temsil görevi, yönetim kurulunca, üyelerden birine veya bir   üçün cü kişiye verilebilir.  IV. Denetim kurulu
+Madde 85 - Yönetim kurulu, derneğin yürütme ve temsil organıdır; bu görevini kanuna ve  dernek tüz üğüne uygun olarak yerine getirir.  Temsil görevi, yönetim kurulunca, üyelerden birine veya bir   üçün cü kişiye verilebilir.
 
 ---
 

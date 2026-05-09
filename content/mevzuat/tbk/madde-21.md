@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 21
 ---
 
-**1. Yazılmamış sayılma**
+**II. Kapsamı
+1. Yazılmamış sayılma**
 
 ---
 
@@ -15,8 +16,6 @@ tarafın  da  bu  koşulları  kabul  etmesine  bağlıdır.  Aksi  takdirde,  g
 yazılmamış sayılır.
 Sözleşmenin  niteliğine  ve  işin  özelliğine  yabancı  olan  genel  işlem  koşulları  da
 yazılmamış sayılır.
-
-2. Yazılmamış sayılmanın sözleşmeye etkisi
 
 ---
 

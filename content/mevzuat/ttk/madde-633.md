@@ -8,7 +8,7 @@ maddeNo: 633
 
 ---
 
-Madde 633 - (1)   Esas   sermayenin   kaybı   ya   da   borca   batık   olma   hâllerinde   anonim  şirketlere   ilişkin   ilgili   hükümler   kıyas   yoluyla   uygulanır.   Ek   ödeme   yükümlülüğü   hakkındaki  hükümler   sak lıdır.  II -   İflâsın   bildirilmesi   ve   konkordato   talebi 94
+Madde 633 - (1)   Esas   sermayenin   kaybı   ya   da   borca   batık   olma   hâllerinde   anonim  şirketlere   ilişkin   ilgili   hükümler   kıyas   yoluyla   uygulanır.   Ek   ödeme   yükümlülüğü   hakkındaki  hükümler   sak lıdır.
 
 ---
 

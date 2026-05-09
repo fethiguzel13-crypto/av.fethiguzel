@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 582
 ---
 
-**I. Asıl borç**
+**B. Koşulları
+I. Asıl borç**
 
 ---
 
@@ -17,8 +18,6 @@ biliyorsa, kefaletle ilgili kanun hükümlerine göre sorumlu olur. Aynı kural,
 zamanaşımına uğramış bir borca kefil olan kişi hakkında da uygulanır.
 Kanundan aksi anlaşılmadıkça kefil, bu bölümde kendisine tanınan haklardan önceden
 feragat edemez.
-
-II. Şekil
 
 ---
 

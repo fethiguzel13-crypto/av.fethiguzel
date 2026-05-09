@@ -4,7 +4,8 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 935
 ---
 
-**Madde 935**
+**V. Hükmü
+1. Senedi çıkaran a racı kurum**
 
 ---
 

@@ -13,8 +13,6 @@ sona erdiği tescil edilir.
 Temsil yetkisinin sona erdiği ticaret siciline tescil ve ilan edilmediği sürece, bu yetki
 iyiniyetli üçüncü kişiler için geçerliliğini korur.
 
-B. Ticari vekil
-
 ---
 
 ### Bizim Yorumumuz

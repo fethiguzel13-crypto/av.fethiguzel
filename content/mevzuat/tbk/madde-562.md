@@ -13,9 +13,6 @@ Madde 562 - Saklatan,  sözleşmenin  ifasının  zorunlu  kıldığı  bütün 
 Saklatan,  kendi  kusurundan  ileri  gelmediğini ispat etmedikçe, saklayanın saklamadan
 doğan zararlarını gidermekle yükümlüdür.
 
-III. Saklayanın borçları
-1. Kullanım yasağı
-
 ---
 
 ### Bizim Yorumumuz

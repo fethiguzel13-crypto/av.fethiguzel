@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 376
 ---
 
-**I. Konusu**
+**H. Hayvan kirası
+I. Konusu**
 
 ---
 
@@ -13,8 +14,6 @@ hayvanların kirasında, aksine anlaşma veya yerel âdet yoksa, kiralanan hayva
 içindeki bütün ürünleri kiracının olur.
 Kiracı, kiralanan hayvanları beslemek, onlara iyi bakmak ve kiraya verene para veya
 hayvanlardan elde ettiği ürünün belli bir payını ödemekle yükümlüdür.
-
-II. Sorumluluk
 
 ---
 

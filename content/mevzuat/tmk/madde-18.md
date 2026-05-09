@@ -8,7 +8,7 @@ maddeNo: 18
 
 ---
 
-Madde 18 - Eşlerden biri ile diğer eşin kan   hısı mları , aynı tür ve dereceden kayın hısımları  olur.  Kayın hısımlığı, kendisini meydana getiren evliliğin sona ermesiyle ortadan kalkmaz.  V. Yerleşim yeri  1. Tanım
+Madde 18 - Eşlerden biri ile diğer eşin kan   hısı mları , aynı tür ve dereceden kayın hısımları  olur.  Kayın hısımlığı, kendisini meydana getiren evliliğin sona ermesiyle ortadan kalkmaz.
 
 ---
 

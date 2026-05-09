@@ -8,7 +8,7 @@ maddeNo: 683
 
 ---
 
-Madde 683 - (1)   Cironun   poliçe   veya   poliçeye   bağlı   olan   ve   “alonj”   denilen   bir   kâğıt  üzerine   yazılması   ve   ciranta   tarafından   imzalanması   gerekir.  (2)   Lehine   ciro   yapılan   kişinin   ciroda   gösterilmesine   gerek   olmadığı   gibi,   ciro,  cirantanın   sadece   imzasından   ibaret   olabilir.   Bu   şekildeki   c irolara   “beyaz   ciro”   denir.   Beyaz  cironun   poliçenin   arkasına   veya   alonj   üzerine   yazılması   gerekir.  III   -   Cironun   hükümleri  1.   Devir   işlevi
+Madde 683 - (1)   Cironun   poliçe   veya   poliçeye   bağlı   olan   ve   “alonj”   denilen   bir   kâğıt  üzerine   yazılması   ve   ciranta   tarafından   imzalanması   gerekir.  (2)   Lehine   ciro   yapılan   kişinin   ciroda   gösterilmesine   gerek   olmadığı   gibi,   ciro,  cirantanın   sadece   imzasından   ibaret   olabilir.   Bu   şekildeki   c irolara   “beyaz   ciro”   denir.   Beyaz  cironun   poliçenin   arkasına   veya   alonj   üzerine   yazılması   gerekir.
 
 ---
 

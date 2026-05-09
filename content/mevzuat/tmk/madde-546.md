@@ -4,7 +4,9 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 546
 ---
 
-**Madde 546**
+**II. Ortadan kaldırılması
+1. Sağlararasında
+a. Sö zleşme veya vasiyetname ile**
 
 ---
 

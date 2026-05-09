@@ -12,8 +12,6 @@ Madde 487 - Yayım sözleşmesi, bir fikir ve sanat eseri sahibinin veya halefin
 eseri yayımlanmak üzere yayımcıya bırakmayı, yayımcının da onu çoğaltarak yayımlamayı
 üstlendiği sözleşmedir.
 
-B. Şekli
-
 ---
 
 ### Bizim Yorumumuz

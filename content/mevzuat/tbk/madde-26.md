@@ -4,14 +4,13 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 26
 ---
 
-**I. Sözleşme özgürlüğü**
+**F. Sözleşmenin içeriği
+I. Sözleşme özgürlüğü**
 
 ---
 
 Madde 26 - Taraflar, bir sözleşmenin içeriğini kanunda öngörülen sınırlar içinde
 özgürce belirleyebilirler.
-
-II. Kesin hükümsüzlük
 
 ---
 

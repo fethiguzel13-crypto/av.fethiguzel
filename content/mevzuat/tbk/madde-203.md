@@ -16,8 +16,6 @@ yeni işletmeden alabilirler.
 Bir tek kişiye ait olup da, kollektif veya komandit ortaklık hâline dönüştürülen bir
 işletmenin borçları hakkında da aynı hüküm uygulanır.
 
-H. Özel hükümlerin saklılığı
-
 ---
 
 ### Bizim Yorumumuz

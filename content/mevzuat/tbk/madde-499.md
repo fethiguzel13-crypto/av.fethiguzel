@@ -15,8 +15,6 @@ bedel ödemeksizin yok olan miktarı, gideri kendisine ait olmak üzere yeniden 
 Yayımcı, aşırı masraf gerektirmeksizin yok olanların yerine yenilerini koyabilecek ise,
 bunu yapmakla yükümlüdür.
 
-III. Kişisel sebeplerle sona ermesi
-
 ---
 
 ### Bizim Yorumumuz

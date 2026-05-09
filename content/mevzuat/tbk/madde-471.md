@@ -4,7 +4,9 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 471
 ---
 
-**1. Genel olarak**
+**B. Hükümleri
+I. Yüklenicinin borçları
+1. Genel olarak**
 
 ---
 
@@ -18,8 +20,6 @@ yönetimi altında yaptırmakla yükümlüdür. Ancak, eserin meydana getirilmes
 kişisel özellikleri önem taşımıyorsa, işi başkasına da yaptırabilir.
 Aksine  âdet  veya  anlaşma  olmadıkça  yüklenici,  eserin  meydana  getirilmesi  için
 kullanılacak olan araç ve gereçleri kendisi sağlamak zorundadır.
-
-2. Malzeme bakımından
 
 ---
 

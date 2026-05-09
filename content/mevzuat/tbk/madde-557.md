@@ -17,8 +17,6 @@ edene yapacağı ifaya oranla daha fazla yük getirmiyorsa, borcu havale alıcı
 yükümlüdür.  Bu  durumda,  havale  eden  ile  aralarında  aksi  kararlaştırılmamışsa  havale
 ödeyicisinin, ifadan önce havaleyi kabul ettiğini havale alıcısına açıklamasına gerek yoktur.
 
-III. İfa edilmeme hâlinde bildirim
-
 ---
 
 ### Bizim Yorumumuz

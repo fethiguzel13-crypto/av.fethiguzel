@@ -16,8 +16,6 @@ Zenginleşen, iyiniyetli olup olmadığına bakılmaksızın, diğer giderlerini
 isteyemez.  Ancak,  kendisine  karşılık  önerilmezse,  o  şey  ile  birleştirdiği  ve  zararsızca
 ayrılması mümkün bulunan eklemeleri geri vermeden önce ayırıp alabilir.
 
-C. Geri istenememe
-
 ---
 
 ### Bizim Yorumumuz

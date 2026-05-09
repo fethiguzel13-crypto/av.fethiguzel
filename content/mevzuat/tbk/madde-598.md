@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 598
 ---
 
-**I. Kanun gereğince**
+**D. Sona ermesi
+I. Kanun gereğince**
 
 ---
 
@@ -19,8 +20,6 @@ verilmiş olmadıkça kefil, ancak on yıllık süre doluncaya kadar takip edile
 Kefalet süresi, en erken kefaletin sona ermesinden bir yıl önce yapılmak kaydıyla,
 kefilin  kefalet  sözleşmesinin  şekline  uygun  yazılı  açıklamasıyla,  azamî  on  yıllık  yeni  bir
 dönem için uzatılabilir.
-
-II. Kefaletten dönme
 
 ---
 

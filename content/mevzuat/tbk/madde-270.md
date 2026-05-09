@@ -14,8 +14,6 @@ geçtiği hâlde satılanın devri isteminde bulunmazsa, satıcı kendisini uyar
 tanır. Alıcı bu süre içinde kayıtsız kalırsa satıcı, alıcıya sözleşmeden cayma hâlinde tanınan
 haklara sahip olur.
 
-c. Alıcının temerrüdü
-
 ---
 
 ### Bizim Yorumumuz

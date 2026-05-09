@@ -9,8 +9,6 @@ maddeNo: 608
 ---
 
 Madde 608 - Ömür boyu gelir sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz.
-C. Gelir alacaklısının hakları
-I. Hakkın kullanılması
 
 ---
 

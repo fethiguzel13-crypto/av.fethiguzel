@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 721
 ---
 
-**Madde 721**
+**3. Sınırlıklar üzerinde paylı mülkiyet**
 
 ---
 
-Madde 721 - İki taşınmazı birbirinden ayırmaya yarayan duvar, p armaklık, çit gibi  sınırlıklar, aksi ispat edilmedikçe, her iki komşunun paylı malı sayılı r.  III. Arazideki yapılar  1. Arazi ve yapı malzemesi  a. Mülkiyet ilişkisi
+Madde 721 - İki taşınmazı birbirinden ayırmaya yarayan duvar, p armaklık, çit gibi  sınırlıklar, aksi ispat edilmedikçe, her iki komşunun paylı malı sayılı r.
 
 ---
 

@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 14
 ---
 
-**Madde 14**
+**III. Fiil ehliyetsizliği
+1. Genel olarak**
 
 ---
 
-Madde 14 - Ayırt etme gücü bulunmayanların, küçüklerin ve kısıtlıların fiil ehliyeti yoktur.  2. Ayırt etme gücünün bulunmaması
+Madde 14 - Ayırt etme gücü bulunmayanların, küçüklerin ve kısıtlıların fiil ehliyeti yoktur.
 
 ---
 

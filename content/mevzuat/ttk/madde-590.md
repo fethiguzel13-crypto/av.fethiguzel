@@ -4,11 +4,14 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 590
 ---
 
-**Madde 590**
+**B) Özel değiş iklikler
+I
+- Esas sermayenin artırılması
+1. İlke**
 
 ---
 
-Madde 590 - (1)   Şirketin   kuruluşu   hakkındaki   hükümlere   ve   özellikle   sermayenin  ayın   olarak   konması   ve   bir   işletme   ile   ayınların   devralınmasına   dair   kurallara   uymak   şartıyla  esas   sermaye   artırılabilir.  2.   Rüç han   hakkı
+Madde 590 - (1)   Şirketin   kuruluşu   hakkındaki   hükümlere   ve   özellikle   sermayenin  ayın   olarak   konması   ve   bir   işletme   ile   ayınların   devralınmasına   dair   kurallara   uymak   şartıyla  esas   sermaye   artırılabilir.
 
 ---
 

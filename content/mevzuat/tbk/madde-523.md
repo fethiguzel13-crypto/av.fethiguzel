@@ -12,8 +12,6 @@ Madde 523 - Simsar, üstlendiği borcuna aykırı davranarak diğer tarafın men
 hareket eder veya dürüstlük kurallarına aykırı olarak diğer taraftan ücret sözü alırsa, ücrete ve
 yaptığı giderlere ilişkin haklarını kaybeder.
 
-IV. Evlenme simsarlığı
-
 ---
 
 ### Bizim Yorumumuz

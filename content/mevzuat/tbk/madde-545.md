@@ -12,8 +12,6 @@ Madde 545 - Vekâlet verenin vekâleti geri aldığı haberi komisyoncuya ulaşt
 komisyoncunun işlemi kendisiyle yapma hakkı düşer. Ancak, bu haber kendisine ulaşmadan
 önce komisyoncu, işlemin yapıldığı bildirimini göndermişse, bu hüküm uygulanmaz.
 
-B. Diğer komisyon işleri
-
 ---
 
 ### Bizim Yorumumuz

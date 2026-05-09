@@ -17,8 +17,6 @@ Uzmanlığı  gerektiren  bir  hizmet,  meslek  veya  sanat,  ancak  kanun  ya  
 makamlar tarafından  verilen  izinle  yürütülebiliyorsa,  borçlunun  hafif  kusurundan  sorumlu
 olmayacağına ilişkin önceden yapılan anlaşma kesin olarak hükümsüzdür.
 
-3. Yardımcı kişilerin fiillerinden sorumluluk
-
 ---
 
 ### Bizim Yorumumuz

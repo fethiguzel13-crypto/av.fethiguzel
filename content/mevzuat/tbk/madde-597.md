@@ -14,9 +14,6 @@ Kefil,  bu  bildirimde  bulunmazsa  ve  ödemeyi  bilmeyen  veya  bilmesi  gerek
 borçlu da alacaklıya ifada bulunursa, rücu hakkını kaybeder.
 Kefilin, alacaklıya karşı sebepsiz zenginleşmeden doğan dava hakkı saklıdır.
 
-D. Sona ermesi
-I. Kanun gereğince
-
 ---
 
 ### Bizim Yorumumuz

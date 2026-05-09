@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 351
 ---
 
-**Madde 351**
+**IV. Durumun değişmesi**
 
 ---
 

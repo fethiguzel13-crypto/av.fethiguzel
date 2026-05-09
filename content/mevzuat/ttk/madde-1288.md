@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1288
 ---
 
-**Madde 1288**
+**C) Kusurlu çatma
+I
+- Bir tarafın kusuru**
 
 ---
 
-Madde 1288 - (1)   Çatma,   gemilerden   birinin   donatanının   veya   gemi   adamlarının  kusurundan   ileri   gelmişse,   zararı   o   geminin   donatanı   tazmin   etmek   zorundadır.  II -   Ortak   kusu r  1.   Eşya   zararı
+Madde 1288 - (1)   Çatma,   gemilerden   birinin   donatanının   veya   gemi   adamlarının  kusurundan   ileri   gelmişse,   zararı   o   geminin   donatanı   tazmin   etmek   zorundadır.
 
 ---
 

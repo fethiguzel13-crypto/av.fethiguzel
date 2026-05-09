@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 84
 ---
 
-**Madde 84**
+**III
+- Uyuşmazlıklarda suret alınması**
 
 ---
 

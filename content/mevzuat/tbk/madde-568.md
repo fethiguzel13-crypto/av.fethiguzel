@@ -15,8 +15,6 @@ saklatana geri vermekle yükümlüdür.
 Haciz  konulması  veya  istihkak  davası  açılması  hâlinde  saklayan,  durumu  hemen
 saklatana bildirmek zorundadır.
 
-IV. Güvenilirkişiye bırakma
-
 ---
 
 ### Bizim Yorumumuz

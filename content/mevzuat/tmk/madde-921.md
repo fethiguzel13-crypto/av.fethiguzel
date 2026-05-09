@@ -4,12 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 921
 ---
 
-**Madde 921**
+**b. Senet bakımından**
 
 ---
 
 Madde 921 - Usulüne göre düzenlenmiş olan ipotekli   borç senedi veya irat senedi, ona  iyiniyetle dayanan herkes hakkında, içinde yazılı olanla ra göre geçerlidir.
-c. Senet ile tescilin ilişkisi
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 498
 ---
 
-**Madde 498**
+**d) Red süresi**
 
 ---
 
-Madde 498 - (1)   Şirket,   devralanın,   pay   sahibi   olarak   tanınması   istemini,   istemi  aldığı   tarihten   itibaren   yirmi   gün   içinde   reddetmezse   devralan,   pay   sahibi   olarak   tanınmış  sayılır.  III   -   Pay   defteri  1.   Kayıt
+Madde 498 - (1)   Şirket,   devralanın,   pay   sahibi   olarak   tanınması   istemini,   istemi  aldığı   tarihten   itibaren   yirmi   gün   içinde   reddetmezse   devralan,   pay   sahibi   olarak   tanınmış  sayılır.
 
 ---
 

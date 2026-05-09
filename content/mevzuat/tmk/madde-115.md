@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 115
 ---
 
-**Madde 115**
+**H. Faaliyetten geçici alıkoyma**
 
 ---
 

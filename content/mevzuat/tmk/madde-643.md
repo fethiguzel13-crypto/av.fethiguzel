@@ -8,7 +8,7 @@ maddeNo: 643
 
 ---
 
-Madde 643 - Mirasın   açıldığı   tarihte,   mirasçı   olabilecek   bir   cenin   varsa   paylaşma  doğumuna ka dar ertelenir.  Ana muhtaç ise, doğuma kadar geçim giderlerinin terekeden sağlanmasını iste yebilir.  D. Elbirliği mülk iyetinin paylı mülkiyete dönüştürülmesi
+Madde 643 - Mirasın   açıldığı   tarihte,   mirasçı   olabilecek   bir   cenin   varsa   paylaşma  doğumuna ka dar ertelenir.  Ana muhtaç ise, doğuma kadar geçim giderlerinin terekeden sağlanmasını iste yebilir.
 
 ---
 

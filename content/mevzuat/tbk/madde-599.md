@@ -15,8 +15,6 @@ olduğu  ortaya  çıkmışsa,  kefil  alacaklıya  yazılı  bir  bildirimde  b
 sürece her zaman kefalet sözleşmesinden dönebilir.
 Kefil, alacaklının kefalete güvenmesi sebebiyle uğradığı zararı gidermekle yükümlüdür.
 
-III. Süreli kefalette
-
 ---
 
 ### Bizim Yorumumuz

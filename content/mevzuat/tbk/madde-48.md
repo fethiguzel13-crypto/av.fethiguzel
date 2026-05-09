@@ -13,8 +13,6 @@ hükümler saklıdır.
 
 İKİNCİ AYIRIM
 Haksız Fiillerden Doğan Borç İlişkileri
-A. Sorumluluk
-I. Genel olarak
 
 ---
 

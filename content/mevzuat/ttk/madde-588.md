@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 588
 ---
 
-**Madde 588**
+**III
+- Tüzel kişilik**
 
 ---
 

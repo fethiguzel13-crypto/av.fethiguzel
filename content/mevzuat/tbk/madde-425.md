@@ -18,8 +18,6 @@ kullanamadığı  yıllık  izin  sürelerine  ait  ücreti,  sözleşmenin  son
 üzerinden  kendisine  veya  hak  sahiplerine  ödenir.  Bu  ücrete  ilişkin  zamanaşımı, hizmet
 sözleşmesinin sona erdiği tarihte işlemeye başlar.
 
-VII. Hizmet belgesi
-
 ---
 
 ### Bizim Yorumumuz

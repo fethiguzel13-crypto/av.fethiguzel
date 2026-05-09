@@ -12,8 +12,6 @@ Madde 569 - Birden çok kişi, haklarını korumak üzere, hukuki durumu çekiş
 veya belirsiz olan şeyi, bir güvenilirkişiye bırakırlarsa, bu kişi, saklatanların tamamının rızası
 veya hâkimin kararı olmadıkça, onu hiçbirine geri veremez.
 
-B. Mislî şeylerin saklanması
-
 ---
 
 ### Bizim Yorumumuz

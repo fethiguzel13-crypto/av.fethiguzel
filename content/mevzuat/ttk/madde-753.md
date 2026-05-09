@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 753
 ---
 
-**Madde 753**
+**2. Sürenin hesaplanması**
 
 ---
 
-Madde 753 - (1)   Kanunun   bu   Kısmında   veya   poliçede   gösterilen   süreler   hesap  edilirken   bunların   başladığı   gün   sayılmaz.  3.   Atıfet   süreleri
+Madde 753 - (1)   Kanunun   bu   Kısmında   veya   poliçede   gösterilen   süreler   hesap  edilirken   bunların   başladığı   gün   sayılmaz.
 
 ---
 

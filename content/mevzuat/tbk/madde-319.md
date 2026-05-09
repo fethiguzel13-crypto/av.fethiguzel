@@ -18,10 +18,6 @@ kiracıya  bildirmek  ve  bunların yapıldığı  sırada  kiracının  yararla
 zorundadır.
 Kiracının kira bedelinin indirilmesine ve zararının giderilmesine ilişkin hakları saklıdır.
 
-E. Özel durumlar
-I. Kiralananda yenilik ve değişiklik yapılması
-1. Kiraya veren tarafından
-
 ---
 
 ### Bizim Yorumumuz

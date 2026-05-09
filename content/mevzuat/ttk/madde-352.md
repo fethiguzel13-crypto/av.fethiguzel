@@ -8,7 +8,7 @@ maddeNo: 352
 
 ---
 
-Madde 352 - (1)   Pay   taahhüdünün,   şirketin   tescilinden   önce   devri,   şirkete   karşı  geçersizdir.  XIV   -   Fesih   davası
+Madde 352 - (1)   Pay   taahhüdünün,   şirketin   tescilinden   önce   devri,   şirkete   karşı  geçersizdir.
 
 ---
 

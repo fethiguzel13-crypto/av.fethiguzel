@@ -18,8 +18,6 @@ borç bu suretle muaccel olunca, yukarıdaki fıkra hükümleri uyarınca takip 
 kullanmasını isteyebilir.
 Alacaklı, kefilin bu istemlerini yerine getirmezse, kefil borcundan kurtulur.
 
-V. Çalışanlara kefalette
-
 ---
 
 ### Bizim Yorumumuz

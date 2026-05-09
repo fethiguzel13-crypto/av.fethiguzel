@@ -11,8 +11,6 @@ maddeNo: 87
 Madde 87 - Seçimlik  borçlarda,  hukuki  ilişkiden  ve  işin  özelliğinden   aksi
 anlaşılmadıkça, edimlerden birinin seçimi borçluya aittir.
 
-5. Faiz
-
 ---
 
 ### Bizim Yorumumuz

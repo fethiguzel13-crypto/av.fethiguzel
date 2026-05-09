@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 1003
 ---
 
-**Madde 1003**
+**d. Plân**
 
 ---
 

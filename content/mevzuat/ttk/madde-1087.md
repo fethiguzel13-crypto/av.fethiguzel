@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1087
 ---
 
-**Madde 1087**
+**XII
+- Yetkili mahkeme**
 
 ---
 

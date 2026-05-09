@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 533
 ---
 
-**1. Bildirme ve sigortalama borcu**
+**II. Komisyoncunun borçları
+1. Bildirme ve sigortalama borcu**
 
 ---
 
@@ -12,8 +13,6 @@ Madde 533 - Komisyoncu,  yaptığı  iş  hakkında  vekâlet  vereni  bilgilend
 özellikle talimatının yerine getirildiğini kendisine hemen bildirmekle yükümlüdür.
 Vekâlet  verenin  talimatı  olmadıkça  komisyoncu,  sözleşmenin  konusunu  oluşturan
 şeyleri sigorta ettirmekle yükümlü değildir.
-
-2. Özen borcu
 
 ---
 

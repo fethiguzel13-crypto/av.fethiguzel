@@ -13,8 +13,6 @@ sözleşmesini  yerel  âdette  belirlenen  kira  döneminin  sonu  için  veya 
 bulunmaması durumunda, altı aylık kira döneminin sonu için, üç aylık fesih bildirim süresine
 uyarak feshedebilir.
 
-3. Taşınır kiralarında
-
 ---
 
 ### Bizim Yorumumuz

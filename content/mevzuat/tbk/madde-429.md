@@ -14,9 +14,6 @@ Devir  işlemiyle,  devralan,  bütün  hak  ve  borçları  ile  birlikte,  hiz
 işveren tarafı olur. Bu durumda, işçinin, hizmet süresine bağlı hakları bakımından, devreden
 işveren yanında işe başladığı tarih esas alınır.
 
-G. Sözleşmenin sona ermesi
-I. Belirli süreli sözleşmede
-
 ---
 
 ### Bizim Yorumumuz

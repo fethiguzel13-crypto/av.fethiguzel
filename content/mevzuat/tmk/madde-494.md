@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 494
 ---
 
-**Madde 494**
+**E. Vesayet altındaki kişinin ala cağı**
 
 ---
 

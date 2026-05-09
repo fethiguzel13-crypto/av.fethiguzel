@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1532
 ---
 
-**Madde 1532**
+**H) Ticaret sicili harçları**
 
 ---
 

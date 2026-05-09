@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 127
 ---
 
-**Küçük, yasal temsilc isinin izni olmadıkça evlenemez.  2. Kısıtlılar hakkında**
+**2. Kısıtlılar hakkında**
 
 ---
 
-Madde 127 - Kısıtlı, yasal temsilcisini n izn i olmadıkça evlenemez.  3. Mahkemeye başvurma
+Madde 127 - Kısıtlı, yasal temsilcisini n izn i olmadıkça evlenemez.
 
 ---
 

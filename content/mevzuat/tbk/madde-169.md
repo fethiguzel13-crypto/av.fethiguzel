@@ -22,8 +22,6 @@ diğer alacaklılara ödemekle yükümlüdür.
 
 İKİNCİ AYIRIM
 Koşullar
-A. Geciktirici koşul
-I. Genel olarak
 
 ---
 

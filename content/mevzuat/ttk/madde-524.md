@@ -4,7 +4,9 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 524
 ---
 
-**Madde 524**
+**D) Çeşitli hükümler
+I
+- İlan**
 
 ---
 

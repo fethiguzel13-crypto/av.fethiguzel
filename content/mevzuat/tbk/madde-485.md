@@ -13,8 +13,6 @@ imkânsızlaşırsa yüklenici, yaptığı işin değerini ve bu değere girmeye
 İfa  imkânsızlığının  ortaya  çıkmasında  işsahibi  kusurluysa,  yüklenicinin  ayrıca
 tazminat isteme hakkı vardır.
 
-V. Yüklenicinin ölümü veya yeteneğini kaybetmesi
-
 ---
 
 ### Bizim Yorumumuz

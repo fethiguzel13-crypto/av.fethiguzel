@@ -13,8 +13,6 @@ bildirilmemiş olduğunu ileri sürerek sorumluluktan kısmen de olsa kurtulamaz
 Satıcılığı meslek edinmiş kişilerin bilmesi gereken ayıplar bakımından da aynı hüküm
 geçerlidir.
 
-6. Satılanın başka yerden gönderilmesi
-
 ---
 
 ### Bizim Yorumumuz

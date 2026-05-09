@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 46
 ---
 
-**Madde 46**
+**IV. Değişikliklerin kütüğe geçirilmesi**
 
 ---
 

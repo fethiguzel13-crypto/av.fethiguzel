@@ -4,12 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 200
 ---
 
-**Madde 200**
+**VI. Durumun değişmesi**
 
 ---
 
 Madde 200 - Koşullar değiştiğinde hâkim, eşlerden b irini n istemi üzerine kararında  gerekli değişikliği yapar veya sebebi sona ermişse alınan önlemi kaldırır.
-VII.   Yetki
 
 ---
 

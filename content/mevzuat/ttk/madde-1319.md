@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1319
 ---
 
-**istemeye   hak   kazanır.  C)   Zamanaşımı**
+**C) Zamanaşımı**
 
 ---
 

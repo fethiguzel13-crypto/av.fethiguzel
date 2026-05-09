@@ -12,8 +12,6 @@ Madde 159 - Alacağın bir taşınır rehniyle güvenceye bağlanmış olması, 
 için zamanaşımının işlemesine engel olmaz; bununla birlikte alacaklının, hakkını rehinden
 alma yetkisi devam eder.
 
-G. Zamanaşımından feragat
-
 ---
 
 ### Bizim Yorumumuz

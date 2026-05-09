@@ -13,8 +13,6 @@ doğan çalışma ve benzeri sebeplerle kusuru olmaksızın, iş gördüğü sü
 için işgörme edimini ifa edemezse işveren, başka bir yolla karşılanmadığı takdirde, o süre için
 işçiye hakkaniyete uygun bir ücret ödemekle yükümlüdür.
 
-4. Ücret alacağının haczi, devri ve rehnedilmesi
-
 ---
 
 ### Bizim Yorumumuz

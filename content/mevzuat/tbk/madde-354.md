@@ -11,8 +11,6 @@ maddeNo: 354
 Madde 354 - Dava yoluyla kira sözleşmesinin sona erdirilmesine ilişkin hükümler,
 kiracı aleyhine değiştirilemez.
 
-5. Yeniden kiralama yasağı
-
 ---
 
 ### Bizim Yorumumuz

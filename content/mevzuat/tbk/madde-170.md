@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 170
 ---
 
-**I. Genel olarak**
+**A. Geciktirici koşul
+I. Genel olarak**
 
 ---
 
@@ -12,8 +13,6 @@ Madde 170 - Bir sözleşmenin hüküm ifade etmesi, gerçekleşip gerçekleşmey
 bilinmeyen bir olguya bırakılmışsa, sözleşme geciktirici koşula bağlanmış olur.
 Aksi kararlaştırılmamışsa, geciktirici koşula bağlı sözleşme, ancak koşulun gerçekleştiği
 andan başlayarak hüküm ifade eder.
-
-II. Koşulun askıda olduğu sıradaki durum
 
 ---
 

@@ -13,8 +13,6 @@ katılan ile alacaklı arasında yapılan ve katılanın, borçlu ile birlikte b
 sonucunu doğuran bir sözleşmedir.
 Borca katılan ile borçlu, alacaklıya karşı müteselsilen sorumlu olurlar.
 
-F. Malvarlığının veya işletmenin devralınması
-
 ---
 
 ### Bizim Yorumumuz

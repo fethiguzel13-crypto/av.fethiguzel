@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 412
 ---
 
-**Madde 412**
+**B. Yerleşim yerinin değişmesi**
 
 ---
 

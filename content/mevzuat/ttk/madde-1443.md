@@ -4,7 +4,8 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1443
 ---
 
-**Madde 1443**
+**b) Caymaya yol açan ihlale sigortacı sebebiyet vermişse.
+c) Sigortacı, sorularından bazıları cevapsız bırakıldığı hâlde sözleşmeyi yapmışsa. bb ) Teklifin yapılması ile kabulü arasındaki değişiklikleri beyan yükümlülüğü**
 
 ---
 

@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 198
 ---
 
-**I. Bağlı hak ve borçlar**
+**C. Borçlunun değişmesinin sonuçları
+I. Bağlı hak ve borçlar**
 
 ---
 
@@ -13,8 +14,6 @@ dışındaki bağlı hakları saklı kalır.
 Bununla  birlikte  borcun  güvencesi  olarak  rehin  veren  üçüncü  kişinin  ve  kefilin
 sorumlulukları, ancak onların borcun üstlenilmesine yazılı olarak rıza göstermeleri hâlinde
 devam eder.
-
-II. Savunmalar
 
 ---
 

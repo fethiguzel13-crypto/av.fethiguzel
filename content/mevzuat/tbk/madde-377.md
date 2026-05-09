@@ -17,8 +17,6 @@ verenden tazminat isteyebilir.
 Kiracı,  önemli  kazaları  ya  da  hastalıkları  gecikmeksizin  kiraya  verene  bildirmekle
 yükümlüdür.
 
-III. Fesih
-
 ---
 
 ### Bizim Yorumumuz

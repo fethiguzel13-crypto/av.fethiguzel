@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1452
 ---
 
-**Madde 1452**
+**D) Koruyucu hükümler**
 
 ---
 

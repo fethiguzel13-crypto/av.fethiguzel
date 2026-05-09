@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 283
 ---
 
-**Madde 283**
+**B. Davada yetki ve yargılama usulü
+I. Yetki**
 
 ---
 
-Madde 283 - Soybağına ilişkin davalar, taraflardan birinin dava veya doğum sıra sında ki  ye rleşim yeri mahkemesinde açılır.  II. Yargılama usulü
+Madde 283 - Soybağına ilişkin davalar, taraflardan birinin dava veya doğum sıra sında ki  ye rleşim yeri mahkemesinde açılır.
 
 ---
 

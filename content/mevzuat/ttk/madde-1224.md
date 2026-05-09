@@ -4,11 +4,13 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1224
 ---
 
-**Madde 1224**
+**V
+- Fesih hakkının kullanılması
+1. Feshin bildirimi**
 
 ---
 
-Madde 1224 - (1)   Feshin   bildirimi,   faks   mesajı,   elektronik   mektup   veya   benzeri  teknik   araçlarla   da   mümkün   olmak   üzere,   yazılı   olarak   yapılır.  2.   Hüküm   ve   sonuçları  a)   Sözleşme   yolculuk   başlamadan   önce   feshedilmişse
+Madde 1224 - (1)   Feshin   bildirimi,   faks   mesajı,   elektronik   mektup   veya   benzeri  teknik   araçlarla   da   mümkün   olmak   üzere,   yazılı   olarak   yapılır.
 
 ---
 

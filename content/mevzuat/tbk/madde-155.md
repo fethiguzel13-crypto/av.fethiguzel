@@ -13,9 +13,6 @@ borçlularından birine karşı kesilince, diğerlerine karşı da kesilmiş olu
 Zamanaşımı asıl borçluya karşı kesilince, kefile karşı da kesilmiş olur.
 Zamanaşımı kefile karşı kesilince, asıl borçluya karşı kesilmiş olmaz.
 
-III. Yeni sürenin başlaması
-1. Borcun ikrar edilmesi veya karara bağlanması hâlinde
-
 ---
 
 ### Bizim Yorumumuz

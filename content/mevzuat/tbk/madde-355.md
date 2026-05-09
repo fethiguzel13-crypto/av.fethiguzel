@@ -20,8 +20,6 @@ başkasına kiralanamaz.
 Kiraya veren, bu hükümlere aykırı davrandığı takdirde, eski kiracısına son kira yılında
 ödenmiş olan bir yıllık kira bedelinden az olmamak üzere tazminat ödemekle yükümlüdür.
 
-6. Kiracının ölümünde sözleşmenin sürdürülmesi
-
 ---
 
 ### Bizim Yorumumuz

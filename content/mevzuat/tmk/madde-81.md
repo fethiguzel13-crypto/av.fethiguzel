@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 81
 ---
 
-**Madde 81**
+**7. Genel kurul kararları
+a. Karar yeter sa yısı**
 
 ---
 
-Madde 81 - Genel kurul kararları, toplantıya katılan üyelerin salt çoğunluğuyla alınır. Şu  kadar ki, tüzük değişikliği ve derneğin feshi kararları, ancak top lantıya katılan üyelerin üçte iki  çoğunluğuyla alınabilir.  b. Oy hakkından yoksunluk
+Madde 81 - Genel kurul kararları, toplantıya katılan üyelerin salt çoğunluğuyla alınır. Şu  kadar ki, tüzük değişikliği ve derneğin feshi kararları, ancak top lantıya katılan üyelerin üçte iki  çoğunluğuyla alınabilir.
 
 ---
 

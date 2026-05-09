@@ -19,7 +19,6 @@ arasındaki farka göre hesaplanacak zararın giderilmesini isteyebilir.
 
 ÜÇÜNCÜ AYIRIM
 Taşınmaz Satışı ve Satış İlişkisi Doğuran Haklar
-A. Şekil
 
 ---
 

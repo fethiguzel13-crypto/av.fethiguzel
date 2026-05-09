@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 302
 ---
 
-**Madde 302**
+**II. Karine**
 
 ---
 

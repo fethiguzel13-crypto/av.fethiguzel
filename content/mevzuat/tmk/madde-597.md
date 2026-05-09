@@ -8,7 +8,7 @@ maddeNo: 597
 
 ---
 
-Madde 597 - Mirasta hak sahibi olanların her birine gideri terekeye ait olmak üzere,  vasiyetnamenin kendilerine ilişkin kısımlarının onaylı bir örneği   hâkim tarafından tebliğ edilir.  Nerede olduğu bilinmeyenlere vasiyetnamenin kendilerine il işkin kısımları ilân yolu i le tebliğ  olunur.  IV. Mirasçılık belgesi
+Madde 597 - Mirasta hak sahibi olanların her birine gideri terekeye ait olmak üzere,  vasiyetnamenin kendilerine ilişkin kısımlarının onaylı bir örneği   hâkim tarafından tebliğ edilir.  Nerede olduğu bilinmeyenlere vasiyetnamenin kendilerine il işkin kısımları ilân yolu i le tebliğ  olunur.
 
 ---
 

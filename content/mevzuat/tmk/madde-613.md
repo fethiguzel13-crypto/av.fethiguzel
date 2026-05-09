@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 613
 ---
 
-**Madde 613**
+**2. Mirasın sağ kalan eşe geçmesi**
 
 ---
 
-Madde 613 - Altsoyun tamamının mirası reddetmesi hâlinde, bunların payı sağ kalan eşe  geçer.  3. Sonra   gelen mirasçılar yararına ret
+Madde 613 - Altsoyun tamamının mirası reddetmesi hâlinde, bunların payı sağ kalan eşe  geçer.
 
 ---
 

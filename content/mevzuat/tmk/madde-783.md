@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 783
 ---
 
-**Madde 783**
+**II. Sona ermesi
+1. Genel olarak**
 
 ---
 
-Madde 783 - İrtifak hakkı, tescili n terkini veya yüklü ya da yararlanan taşınmazın yok  olmasıyla   sona erer.  2. Her iki taşınmaza aynı kimsenin malik olması
+Madde 783 - İrtifak hakkı, tescili n terkini veya yüklü ya da yararlanan taşınmazın yok  olmasıyla   sona erer.
 
 ---
 

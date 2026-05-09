@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 158
 ---
 
-**Madde 158**
+**2. Eşler yönünden**
 
 ---
 
-Madde 158 - Evlenmenin butlanına karar   veril irse, evlenirken iyiniyetli bulunan eş bu  evlenme ile kazanmış olduğu kişisel durumunu korur.  Eşler arasındaki mal rejiminin tasfiyesi, tazminat, nafaka ve   soyadı hakkında boşanmaya  ilişkin hükümler uygulanır.  E. Mirasçıların dava hakkı
+Madde 158 - Evlenmenin butlanına karar   veril irse, evlenirken iyiniyetli bulunan eş bu  evlenme ile kazanmış olduğu kişisel durumunu korur.  Eşler arasındaki mal rejiminin tasfiyesi, tazminat, nafaka ve   soyadı hakkında boşanmaya  ilişkin hükümler uygulanır.
 
 ---
 

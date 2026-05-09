@@ -4,11 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 957
 ---
 
-**Madde 957**
+**IV
+- Tescili zorunlu gemiler**
 
 ---
 
-Madde 957 - (1)   Onsekiz   gros   tonilatoda   ve   daha   büyük   her   ticaret   gemisinin   maliki,  tescil   isteminde   bulunmak   zorunda dır.  V -   Tescili   caiz   olmayan   gemiler
+Madde 957 - (1)   Onsekiz   gros   tonilatoda   ve   daha   büyük   her   ticaret   gemisinin   maliki,  tescil   isteminde   bulunmak   zorunda dır.
 
 ---
 

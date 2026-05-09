@@ -17,8 +17,6 @@ sonuçları zamanında bildirmişse,  yaptığı işin değerini ve bu değere g
 ödenmesini isteyebilir. İşsahibinin kusuru varsa, yüklenicinin ayrıca zararının giderilmesini
 de isteme hakkı vardır.
 
-III. Tazminat karşılığı fesih
-
 ---
 
 ### Bizim Yorumumuz

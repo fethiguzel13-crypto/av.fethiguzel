@@ -8,7 +8,7 @@ maddeNo: 707
 
 ---
 
-Madde 707 - Tapu kütüğüne kayıtlı bir taşınmazın mülkiyetin in işgal yoluyla kazanılması,  ancak kaydının malikin istemiyle terkin edilmiş olmasına bağ lıdır.  Tapuya kayıtlı olmay an taşınmazlar üzerinde işgal yoluyla mülkiyet kazanılamaz.  3. Yeni arazi oluşması
+Madde 707 - Tapu kütüğüne kayıtlı bir taşınmazın mülkiyetin in işgal yoluyla kazanılması,  ancak kaydının malikin istemiyle terkin edilmiş olmasına bağ lıdır.  Tapuya kayıtlı olmay an taşınmazlar üzerinde işgal yoluyla mülkiyet kazanılamaz.
 
 ---
 

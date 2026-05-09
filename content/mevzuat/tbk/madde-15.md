@@ -16,8 +16,6 @@ durumlarda ve özellikle çok sayıda çıkarılan kıymetli evrakın imzalanmas
 imzalarında şahit aranır. Aksi takdirde görme engellilerin imzalarını el yazısı ile atmaları
 yeterlidir.
 
-d. İmza yerine geçen işaretler
-
 ---
 
 ### Bizim Yorumumuz

@@ -15,11 +15,6 @@ istemezse, sözleşmeyi onamış sayılır.
 Aldatma  veya  korkutmadan  dolayı  bağlayıcılığı  olmayan  bir  sözleşmenin  onanmış
 sayılması, tazminat hakkını ortadan kaldırmaz.
 
-H. Temsil
-I. Yetkili temsil
-1. Genel olarak
-a. Temsilin hükmü
-
 ---
 
 ### Bizim Yorumumuz

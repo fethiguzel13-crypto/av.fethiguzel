@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 93
 ---
 
-**Madde 93**
+**3. Hesap dışında kalan alacaklar**
 
 ---
 
-Madde 93 - (1)   Takas   edilemeyen   alacaklarla,   belirli   bir   amaca   harcanmak   veya  ayrıca   emre   hazır   tutulmak   üzere   teslim   olunan   para   ve   mallardan   doğan   alacaklar   cari   hesaba  geçirilemez.  III   -   Bak iye  1.   Belirlenmesi
+Madde 93 - (1)   Takas   edilemeyen   alacaklarla,   belirli   bir   amaca   harcanmak   veya  ayrıca   emre   hazır   tutulmak   üzere   teslim   olunan   para   ve   mallardan   doğan   alacaklar   cari   hesaba  geçirilemez.
 
 ---
 

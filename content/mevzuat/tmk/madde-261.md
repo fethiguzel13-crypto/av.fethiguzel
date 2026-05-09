@@ -4,12 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 261
 ---
 
-**Madde 261**
+**IV. İspat**
 
 ---
 
 Madde 261 - Bir eşin kişisel malı olduğu ispatlanmadıkça tüm malvarlığı değerleri   orta klık
-malı sayılır.  B. Yönetim ve tasarruf  I. Ortaklık mallarında  1. Olağan yönetim
+malı sayılır.
 
 ---
 

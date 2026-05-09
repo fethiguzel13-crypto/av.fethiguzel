@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 66
 ---
 
-**1. Adam çalıştıranın sorumluluğu**
+**II. Özen sorumluluğu
+1. Adam çalıştıranın sorumluluğu**
 
 ---
 
@@ -19,9 +20,6 @@ Bir  işletmede  adam  çalıştıran, işletmenin  çalışma  düzeninin  zara
 olunan zararı gidermekle yükümlüdür.
 Adam  çalıştıran,  ödediği  tazminat  için,  zarar  veren  çalışana,  ancak  onun  bizzat
 sorumlu olduğu ölçüde rücu hakkına sahiptir.
-
-2. Hayvan bulunduranın sorumluluğu
-a. Giderim yükümlülüğü
 
 ---
 

@@ -23,8 +23,6 @@ imkân bulunamazsa, ortaklardan müteselsilen karşılanır.
 Tasfiye usulüne veya tasfiye sonucunda her bir ortağa dağıtılacak paya ilişkin olarak
 doğabilecek uyuşmazlıklar, ilgililerin istemi üzerine hâkim tarafından çözüme bağlanır.
 
-IV. Üçüncü kişilere karşı sorumluluk
-
 ---
 
 ### Bizim Yorumumuz

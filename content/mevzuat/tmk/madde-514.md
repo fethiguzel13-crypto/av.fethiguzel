@@ -8,7 +8,7 @@ maddeNo: 514
 
 ---
 
-Madde 514 - Mirasbırakan,   tasarruf   özgürl üğünün   sınırları   içinde ,   malv arlığının  tamamında veya bir kısmında vasiyetna me ya da miras sözleşmesiyle tasarrufta bulunabilir.  Mira sbırakanın üzerinde tasarruf etmediği kısım yasal mirasçılarına kalır.  B. Koşull ar ve yüklemeler
+Madde 514 - Mirasbırakan,   tasarruf   özgürl üğünün   sınırları   içinde ,   malv arlığının  tamamında veya bir kısmında vasiyetna me ya da miras sözleşmesiyle tasarrufta bulunabilir.  Mira sbırakanın üzerinde tasarruf etmediği kısım yasal mirasçılarına kalır.
 
 ---
 

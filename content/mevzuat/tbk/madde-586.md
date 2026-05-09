@@ -18,8 +18,6 @@ yoluyla tamamen karşılanamayacağının önceden hâkim tarafından belirlenme
 iflas etmesi ya da konkordato mehli verilmesi hâllerinde, rehnin paraya çevrilmesinden önce de
 kefile başvurulabilir.
 
-3. Birlikte kefalet
-
 ---
 
 ### Bizim Yorumumuz

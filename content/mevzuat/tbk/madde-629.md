@@ -15,9 +15,6 @@ haklı bir sebep varsa, diğer ortaklardan her biri yönetim yetkisini kaldırab
 Haklı sebepler, özellikle yönetici ortağın görevini aşırı ölçüde ihmal etmesi veya iyi
 yönetim için gerekli olan yeteneği kaybetmesi durumlarında vardır.
 
-VII. Yönetici ortaklar ile diğer ortaklar arasındaki ilişki
-1. Genel olarak
-
 ---
 
 ### Bizim Yorumumuz

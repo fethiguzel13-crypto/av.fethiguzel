@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 435
 ---
 
-**Madde 435**
+**2. Oy hakkının doğumu**
 
 ---
 
-Madde 435 - (1)   Oy   hakkı,   payın,   kanunen   veya   esas   sözleşmeyle   belirlenmiş  bulunan   en   az   miktarının   ödenmesiyle   doğar.  3.   Oydan   yoksunluk
+Madde 435 - (1)   Oy   hakkı,   payın,   kanunen   veya   esas   sözleşmeyle   belirlenmiş  bulunan   en   az   miktarının   ödenmesiyle   doğar.
 
 ---
 

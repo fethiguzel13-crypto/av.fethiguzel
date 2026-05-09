@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 301
 ---
 
-**I. Teslim borcu**
+**C. Kiraya verenin borçları
+I. Teslim borcu**
 
 ---
 
@@ -13,8 +14,6 @@ kullanıma  elverişli  bir  durumda  teslim  etmek  ve  sözleşme  süresince 
 bulundurmakla  yükümlüdür.  Bu  hüküm,  konut  ve  çatılı  işyeri  kiralarında  kiracı  aleyhine
 değiştirilemez; diğer kira sözleşmelerinde ise, kiracı aleyhine genel işlem koşulları yoluyla bu
 hükme aykırı düzenleme yapılamaz.
-
-II. Vergi ve benzeri yükümlülüklere katlanma borcu
 
 ---
 

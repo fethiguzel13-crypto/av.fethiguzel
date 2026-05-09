@@ -8,7 +8,7 @@ maddeNo: 527
 
 ---
 
-Madde 527 - (1)   404   üncü   madde   hükmü   saklı   kalmak   üzere,   görevi   dolayısıyla  incelemesine   sunulan   defter   ve   belgeleri   inceleyenlerin,   elde   ettikleri   veya   verilen   bilgilerden  ö ğrendikleri   iş   ve   işletme   sırlarını   açıklamaları   yasaktır.   Aksi   hâlde   şirketin   maddi   ve   manevi  zararını   tazmin   ederler.  (2)   Ceza   mevzuatının,   suç   ihbarına   ilişkin   hükümleri   saklıdır.  E)   Özel   hükümler
+Madde 527 - (1)   404   üncü   madde   hükmü   saklı   kalmak   üzere,   görevi   dolayısıyla  incelemesine   sunulan   defter   ve   belgeleri   inceleyenlerin,   elde   ettikleri   veya   verilen   bilgilerden  ö ğrendikleri   iş   ve   işletme   sırlarını   açıklamaları   yasaktır.   Aksi   hâlde   şirketin   maddi   ve   manevi  zararını   tazmin   ederler.  (2)   Ceza   mevzuatının,   suç   ihbarına   ilişkin   hükümleri   saklıdır.
 
 ---
 

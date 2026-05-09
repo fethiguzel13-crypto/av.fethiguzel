@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 136
 ---
 
-**I. Genel olarak**
+**E. İfa imkânsızlığı
+I. Genel olarak**
 
 ---
 
@@ -17,8 +18,6 @@ sözleşmeyle borcun ifasından önce doğan hasarın alacaklıya yükletilmiş 
 hükmün dışındadır.
 Borçlu  ifanın  imkânsızlaştığını  alacaklıya  gecikmeksizin  bildirmez  ve  zararın
 artmaması için gerekli önlemleri almazsa, bundan doğan zararları gidermekle yükümlüdür.
-
-II. Kısmi ifa imkânsızlığı
 
 ---
 

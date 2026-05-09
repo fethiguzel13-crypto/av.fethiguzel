@@ -14,8 +14,6 @@ Kanunda  aksi  öngörülmedikçe, imzalı  bir  mektup,  asılları  borç  alt
 imzalanmış telgraf, teyit edilmiş olmaları kaydıyla faks veya buna benzer iletişim araçları ya
 da güvenli elektronik imza ile gönderilip saklanabilen metinler de yazılı şekil yerine geçer.
 
-c. İmza
-
 ---
 
 ### Bizim Yorumumuz

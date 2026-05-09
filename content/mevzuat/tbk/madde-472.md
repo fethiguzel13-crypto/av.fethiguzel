@@ -17,8 +17,6 @@ gösterdiği yerin ayıplı olduğu anlaşılır veya eserin gereği gibi ya da 
 getirilmesini tehlikeye düşürecek başka bir durum ortaya çıkarsa, yüklenici bu durumu hemen
 işsahibine bildirmek zorundadır; bildirmezse bundan doğacak sonuçlardan sorumlu olur.
 
-3. İşe başlama ve yürütme
-
 ---
 
 ### Bizim Yorumumuz

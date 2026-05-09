@@ -13,8 +13,6 @@ karşılamakla yükümlüdür.
 Ödünç alan, ödünç verenin  yararına  yapmak zorunda kaldığı olağanüstü giderlerin
 ödenmesini isteyebilir.
 
-III. Müteselsil sorumluluk
-
 ---
 
 ### Bizim Yorumumuz

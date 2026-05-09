@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 92
 ---
 
-**Madde 92**
+**2. Ücret ve giderler**
 
 ---
 
-Madde 92 - (1)   Taraflar   arasında   cari   hesap   sözleşmesinin   bulunması,   komisyon  sözleşmesinden   kaynaklanan   ücretin   ve   her   türlü   giderin   iste nmesine   engel   oluşturmaz.  3.   Hesap   dışında   kalan   alacaklar
+Madde 92 - (1)   Taraflar   arasında   cari   hesap   sözleşmesinin   bulunması,   komisyon  sözleşmesinden   kaynaklanan   ücretin   ve   her   türlü   giderin   iste nmesine   engel   oluşturmaz.
 
 ---
 

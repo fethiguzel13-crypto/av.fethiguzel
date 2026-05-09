@@ -17,8 +17,6 @@ Kiralananı sonradan edinen kişi, dilerse gereksinim sebebiyle sözleşmeyi son
 hakkını,  sözleşme  süresinin  bitiminden  başlayarak  bir  ay  içinde  açacağı  dava  yoluyla  da
 kullanabilir.
 
-2. Kiracıdan kaynaklanan sebeplerle
-
 ---
 
 ### Bizim Yorumumuz

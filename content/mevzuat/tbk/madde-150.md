@@ -13,8 +13,6 @@ için zamanaşımı, ifa edilmemiş ilk dönemsel edimin muaccel olduğu günde 
 Alacağın  tamamı  zamanaşımına  uğramışsa,  ifa  edilmemiş  dönemsel  edimler   de
 zamanaşımına uğramış olur.
 
-V. Sürelerin hesaplanması
-
 ---
 
 ### Bizim Yorumumuz

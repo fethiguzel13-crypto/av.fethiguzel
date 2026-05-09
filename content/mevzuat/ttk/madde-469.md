@@ -4,12 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 469
 ---
 
-**Madde 469**
+**b) Uygunluğun doğrulanması**
 
 ---
 
 Madde 469 - (Mülga:   26/6/2012 - 6335/43   md.)
-c)   Esas   sözleşmenin   uygun   duruma   getirilmesi
 
 ---
 

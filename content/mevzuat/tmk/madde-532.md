@@ -4,11 +4,12 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 532
 ---
 
-**Madde 532**
+**2. Resmî vasiyetnam e
+a. Düzenlenmesi**
 
 ---
 
-Madde 532 - Resmî va siyetn ame, iki tanığın katılmasıyla resmî memur tarafından düzenlenir.  Resmî memur, sulh hâkimi, noter veya ka nunla kendisine bu yetki verilmiş diğer bir görevli  olabilir.  b. Memurun işlevi
+Madde 532 - Resmî va siyetn ame, iki tanığın katılmasıyla resmî memur tarafından düzenlenir.  Resmî memur, sulh hâkimi, noter veya ka nunla kendisine bu yetki verilmiş diğer bir görevli  olabilir.
 
 ---
 

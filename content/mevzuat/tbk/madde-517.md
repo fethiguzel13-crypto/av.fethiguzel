@@ -11,8 +11,6 @@ maddeNo: 517
 Madde 517 - Kredi emrini veren, kredi emrinden yararlananın ehliyetsizliğini ileri
 sürerek kredi emri verilene karşı sorumluluktan kurtulamaz.
 
-III. Kredi emri verilenin önel vermesi
-
 ---
 
 ### Bizim Yorumumuz

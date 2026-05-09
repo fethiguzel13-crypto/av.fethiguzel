@@ -15,8 +15,6 @@ kadar, önereni bağlar.
 Zamanında  gönderilen  kabul,  önerene  geç  ulaşır  ve  öneren  onunla  bağlı  olmak
 istemezse, durumu hemen kabul edene bildirmek zorundadır.
 
-3. Örtülü kabul
-
 ---
 
 ### Bizim Yorumumuz

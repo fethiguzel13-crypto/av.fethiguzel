@@ -16,8 +16,6 @@ yeni bir kiracı bulması hâlinde, kiracının kira sözleşmesinden doğan bor
 Kiraya veren, yapmaktan kurtulduğu giderler ile kiralananı başka biçimde kullanmakla
 elde ettiği veya elde etmekten kasten kaçındığı yararları kira bedelinden indirmekle yükümlüdür.
 
-V. Takastan feragat yasağı
-
 ---
 
 ### Bizim Yorumumuz

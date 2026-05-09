@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1035
 ---
 
-**Madde 1035**
+**b) Alacağın muaccel olmasından sonra aa) Gemi malikinin borcu ödeme hakkı**
 
 ---
 

@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1388
 ---
 
-**Madde 1388**
+**7. Satış ve ihalenin sonucu**
 
 ---
 
-Madde 1388 - (1)   Alıcı,   icra   dairesi   tarafından   gemi   kendisi ne   ihale   edildiği   veya  satıldığı   anda,   geminin   mülkiyetini   iktisap   eder.  (2)   Satış   bedeli   icra   dairesine   ödendiği   anda,   ipotek   alacaklısının   rızasıyla   alıcı  tarafından   yüklenilenler   dışında,   gemi   üzerindeki   bütün   ayni   ve   kişisel   haklar,   külfetler   ve  sınırl andırmalar   sona   erer.   1386   ncı   maddenin   dördüncü   fıkrası   hükmü   burada   da   uygulanır.  (3)   Bu   madde,   bayrağı   ve   sicile   kayıtlı   olup   olmadığı   dikkate   alınmaksızın   bütün  gemiler   hakkında   geçerlidir.  8.   Sıra   cetveli  a)   İlkeler
+Madde 1388 - (1)   Alıcı,   icra   dairesi   tarafından   gemi   kendisi ne   ihale   edildiği   veya  satıldığı   anda,   geminin   mülkiyetini   iktisap   eder.  (2)   Satış   bedeli   icra   dairesine   ödendiği   anda,   ipotek   alacaklısının   rızasıyla   alıcı  tarafından   yüklenilenler   dışında,   gemi   üzerindeki   bütün   ayni   ve   kişisel   haklar,   külfetler   ve  sınırl andırmalar   sona   erer.   1386   ncı   maddenin   dördüncü   fıkrası   hükmü   burada   da   uygulanır.  (3)   Bu   madde,   bayrağı   ve   sicile   kayıtlı   olup   olmadığı   dikkate   alınmaksızın   bütün  gemiler   hakkında   geçerlidir.
 
 ---
 

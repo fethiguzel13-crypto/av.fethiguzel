@@ -17,8 +17,6 @@ Zarar gören bu hakkını, düşüncesizlik veya deneyimsizliğini öğrendiği;
 kalmada ise, bu durumun ortadan kalktığı tarihten başlayarak bir yıl ve her hâlde sözleşmenin
 kurulduğu tarihten başlayarak beş yıl içinde kullanabilir.
 
-IV. Önsözleşme
-
 ---
 
 ### Bizim Yorumumuz

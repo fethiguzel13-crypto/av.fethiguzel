@@ -4,12 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 442
 ---
 
-**Madde 442**
+**2. Yatırımların dönüş türülmesi**
 
 ---
 
 Madde 442 - Yeteri   kadar güven verici olmayan yatırımlar , güve nli yatırımlara dönüştürülür.  Dönüştürme işleminin uygun zamanda ve vesayet altındaki kişinin menfaati g özetilerek  yapılması gerekir.
-V. Ticarî ve sınaî işletmeler
 
 ---
 

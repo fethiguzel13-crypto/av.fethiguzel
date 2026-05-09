@@ -8,7 +8,7 @@ maddeNo: 982
 
 ---
 
-Madde 982 - Başkasının zilyet bulunduğu bir şeyi gasbeden kimse, o şey üzerin de üstün  bir hakka sahip olduğunu iddia etse bile onu geri ver mekle yükümlüdür.  Davalı, o şeyi davacıdan geri almasını gerektirecek üstün bir hakka sah ip olduğunu derhâl  ispat ederse onu geri vermekten kaçınabilir.  Dava, şeyin geri verilmesine ve zararın   giderilmesine yönelik olur.  3. Zilyetliğe saldırıya dava hakk ı
+Madde 982 - Başkasının zilyet bulunduğu bir şeyi gasbeden kimse, o şey üzerin de üstün  bir hakka sahip olduğunu iddia etse bile onu geri ver mekle yükümlüdür.  Davalı, o şeyi davacıdan geri almasını gerektirecek üstün bir hakka sah ip olduğunu derhâl  ispat ederse onu geri vermekten kaçınabilir.  Dava, şeyin geri verilmesine ve zararın   giderilmesine yönelik olur.
 
 ---
 

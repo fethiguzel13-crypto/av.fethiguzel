@@ -12,8 +12,6 @@ Madde 340 - Konut  ve  çatılı  işyeri  kiralarında  sözleşmenin  kurulmas
 sürdürülmesi, kiracının yararı olmaksızın, kiralananın kullanımıyla doğrudan ilişkisi olmayan
 bir borç altına girmesine bağlanmışsa, kirayla bağlantılı sözleşme geçersizdir.
 
-C. Kullanma giderleri
-
 ---
 
 ### Bizim Yorumumuz

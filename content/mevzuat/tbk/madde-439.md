@@ -17,9 +17,6 @@ Tazminat  isteme  hakkı  takas  yoluyla  sona  ermemişse  işveren,  işçinin
 başlamamasından veya işi bırakmasından başlayarak otuz gün içinde, dava veya takip yoluyla
 bu hakkını kullanmak zorundadır. Aksi takdirde, tazminat isteme hakkı düşer.
 
-V. İşçinin veya işverenin ölümü
-1. İşçinin ölümü
-
 ---
 
 ### Bizim Yorumumuz

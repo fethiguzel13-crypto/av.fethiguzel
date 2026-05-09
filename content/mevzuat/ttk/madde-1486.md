@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 1486
 ---
 
-**Madde 1486**
+**C) Koruyucu hükümler**
 
 ---
 

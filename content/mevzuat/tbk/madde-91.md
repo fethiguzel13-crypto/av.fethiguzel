@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 91
 ---
 
-**1. Aya ilişkin sürelerde vade**
+**II. Süreye bağlı borç
+1. Aya ilişkin sürelerde vade**
 
 ---
 
@@ -13,8 +14,6 @@ birinci ve sonuncu günü; ayın ortası belirlenmişse, bundan da ayın onbeşi
 
 Borcun ifası için gün belirtilmeksizin sadece ay belirlenmişse, bundan o ayın son günü
 anlaşılır.
-
-2. Diğer sürelerde vade
 
 ---
 

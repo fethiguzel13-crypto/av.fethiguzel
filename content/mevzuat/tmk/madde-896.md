@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 896
 ---
 
-**Madde 896**
+**b. Sıra**
 
 ---
 
-Madde 896 - Hakları   değişik   tarihlerde   tescil   edilmiş   olsa   bile   zanaatkârlar   ve  yükleniciler, kan unî ipotekten yararlanma bakımından kendi aralarında aynı sırada sayılırlar.  c. Öncelik
+Madde 896 - Hakları   değişik   tarihlerde   tescil   edilmiş   olsa   bile   zanaatkârlar   ve  yükleniciler, kan unî ipotekten yararlanma bakımından kendi aralarında aynı sırada sayılırlar.
 
 ---
 

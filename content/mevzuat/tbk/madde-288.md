@@ -4,7 +4,8 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 288
 ---
 
-**I. Bağışlama sözü verme**
+**C. Kurulması
+I. Bağışlama sözü verme**
 
 ---
 
@@ -15,8 +16,6 @@ geçerliliği, ancak resmî şekilde yapılmış olmasına bağlıdır.
 Şekle  uyulmaması  sebebiyle  geçersiz  olan  bağışlama  sözü  verme,  bağışlayan
 tarafından yerine getirildiğinde, elden bağışlama hükmündedir. Ancak, geçerliliği resmî şekle
 bağlanmış olan bağışlamalarda bu hüküm uygulanmaz.
-
-II. Elden bağışlama
 
 ---
 

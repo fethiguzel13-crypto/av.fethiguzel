@@ -8,7 +8,7 @@ maddeNo: 217
 
 ---
 
-Madde 217 - (1)   Ortakların   birbirleriyle   olan   ilişkilerinin   düzenlenmesinde   sözleşme  serbestisi   geçerlidir.  B)   Şirketin   yönetimi  I   -   Yö netimin   kime   ait   olduğu  1.   Genel   olarak
+Madde 217 - (1)   Ortakların   birbirleriyle   olan   ilişkilerinin   düzenlenmesinde   sözleşme  serbestisi   geçerlidir.
 
 ---
 

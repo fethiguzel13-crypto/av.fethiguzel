@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 123
 ---
 
-**Madde 123**
+**IV. Zamanaşımı**
 
 ---
 

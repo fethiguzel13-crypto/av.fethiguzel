@@ -8,7 +8,7 @@ maddeNo: 63
 
 ---
 
-Madde 63 - Hiç ki mse,   bir derneğe üye olmaya ve hiçbir dernek de üye kabul etmeye  zorlanamaz.  2. Koşulları
+Madde 63 - Hiç ki mse,   bir derneğe üye olmaya ve hiçbir dernek de üye kabul etmeye  zorlanamaz.
 
 ---
 

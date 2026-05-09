@@ -17,8 +17,6 @@ veya  bahsin  usulüne  göre  yürütülmesi  beklenmedik  olayla  veya  diğer
 engellenmişse ya da diğer taraf kumar veya bahse hile karıştırmışsa, isteyerek yapılan ödeme
 geri alınabilir.
 
-C. Piyango ve diğer şans oyunları
-
 ---
 
 ### Bizim Yorumumuz

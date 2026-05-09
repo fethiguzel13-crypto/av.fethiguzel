@@ -4,7 +4,7 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 10
 ---
 
-**Madde 10**
+**3. Faizin başlangıcı**
 
 ---
 

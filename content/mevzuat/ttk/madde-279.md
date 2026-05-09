@@ -4,11 +4,11 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 279
 ---
 
-**Madde 279**
+**2. Devir yasağı ve vekil etme**
 
 ---
 
-Madde 279 - (1)   Bir   tasfiye   me muru   görevini   diğer   bir   tasfiye   memuruna   veya  üçüncü   kişilere   devredemez.   Ancak,   bazı   belirli   iş   ve   işlemlerin   yürütülebilmesi   için   tasfiye  memurları   içlerinden   birini   veya   bazılarını   ya   da   üçüncü   kişiyi   vekil   edebilirler.  3.   Temsil
+Madde 279 - (1)   Bir   tasfiye   me muru   görevini   diğer   bir   tasfiye   memuruna   veya  üçüncü   kişilere   devredemez.   Ancak,   bazı   belirli   iş   ve   işlemlerin   yürütülebilmesi   için   tasfiye  memurları   içlerinden   birini   veya   bazılarını   ya   da   üçüncü   kişiyi   vekil   edebilirler.
 
 ---
 

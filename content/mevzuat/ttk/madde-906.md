@@ -8,7 +8,7 @@ maddeNo: 906
 
 ---
 
-Madde 906 - (1)   Yolcu,   taşıyıcı   tarafın dan   iç   hizmetleri   düzenlemek   için   konulmuş  kurallara   uymak   zorundadır.  B)   Seferin   yapılamaması
+Madde 906 - (1)   Yolcu,   taşıyıcı   tarafın dan   iç   hizmetleri   düzenlemek   için   konulmuş  kurallara   uymak   zorundadır.
 
 ---
 

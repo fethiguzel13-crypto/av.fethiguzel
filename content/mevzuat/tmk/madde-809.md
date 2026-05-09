@@ -8,7 +8,7 @@ maddeNo: 809
 
 ---
 
-Madde 809 - İntifa hakkı k endisinde kalmak üzere yapılan bağışlamalarda bağışlayandan  güvence istenemez.  d. Güvence   verilmemesinin sonuçları
+Madde 809 - İntifa hakkı k endisinde kalmak üzere yapılan bağışlamalarda bağışlayandan  güvence istenemez.
 
 ---
 

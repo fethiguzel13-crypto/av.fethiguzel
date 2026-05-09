@@ -4,7 +4,9 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 104
 ---
 
-**Madde 104**
+**III. Temyiz ve iptal Madde 10 3
+- Ma hkemenin verdiği karar, tebliğ tarihinden başlayarak bir ay içinde, başvuran veya Vakıflar Genel Müdürlüğü tarafından temyiz edilebilir. Vakıflar Genel Müd ürlüğü veya ilgili ler, vakfın kurulmasını engelleyen sebeplerin varlığı hâlinde iptal davası aç abili rler.
+IV. Tescil ve ilân**
 
 ---
 

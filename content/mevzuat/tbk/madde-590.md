@@ -22,8 +22,6 @@ veya  havale  ile  ilgili  yasaklar gibi sebeplerle, o yabancı ülkenin yasal d
 imkânsız hâle gelmiş veya sınırlandırılmışsa, yerleşim yeri Türkiye’de olan kefil, takibe bu
 sebeple itiraz edebilir.
 
-c. Def’iler
-
 ---
 
 ### Bizim Yorumumuz

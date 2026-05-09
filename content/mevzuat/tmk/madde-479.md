@@ -9,7 +9,6 @@ maddeNo: 479
 ---
 
 Madde 479 - Vasilik görevi, vasinin fiil ehliyetini y itirmesi veya ölümüyle sona erer.
-B. Sürenin sona ermesi ve uzatılmaması  I. Süre nin dolması
 
 ---
 

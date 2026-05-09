@@ -4,14 +4,13 @@ kanun: "Türk Borçlar Kanunu"
 maddeNo: 622
 ---
 
-**1. Kazancın paylaşılması**
+**II. Kazanç ve zarar
+1. Kazancın paylaşılması**
 
 ---
 
 Madde 622 - Ortaklar, niteliği gereği ortaklığa ait olan bütün kazançları aralarında
 paylaşmakla yükümlüdürler.
-
-2. Kazanç ve zarara katılma
 
 ---
 

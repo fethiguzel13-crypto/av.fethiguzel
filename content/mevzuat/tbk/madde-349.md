@@ -16,10 +16,6 @@ Kiracı  olmayan  eşin,  kiraya  verene  bildirimde  bulunarak  kira  sözleşm
 sıfatını  kazanması  hâlinde  kiraya  veren,  fesih  bildirimi  ile  fesih  ihtarına  bağlı  bir  ödeme
 süresini kiracıya ve eşine ayrı ayrı bildirmek zorundadır.
 
-II. Dava yoluyla
-1. Kiraya verenden kaynaklanan sebeplerle
-a. Gereksinim, yeniden inşa ve imar
-
 ---
 
 ### Bizim Yorumumuz

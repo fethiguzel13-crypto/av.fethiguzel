@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 579
 ---
 
-**Madde 579**
+**b. Altsoya etkisi**
 
 ---
 
-Madde 579 - Mirastan yoksunluk, yalnız yoksun olanı etkiler.  Mirastan yoksun olanın   altsoyu, mirasbırakandan ö nce ölen kimsenin altsoyu gibi mirasçı olur.  II. Sağ olmak  1. Mirasçı olarak
+Madde 579 - Mirastan yoksunluk, yalnız yoksun olanı etkiler.  Mirastan yoksun olanın   altsoyu, mirasbırakandan ö nce ölen kimsenin altsoyu gibi mirasçı olur.
 
 ---
 

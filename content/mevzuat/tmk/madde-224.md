@@ -4,11 +4,11 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 224
 ---
 
-**Madde 224**
+**C. Üçüncü kişilere karşı sor umluluk**
 
 ---
 
-Madde 224 - Eşlerden her biri kendi borçlarından bütün malvarlığıyla sorumludur.  D. Mal rejiminin sona ermesi ve tasfiye  I. Sona erm e anı
+Madde 224 - Eşlerden her biri kendi borçlarından bütün malvarlığıyla sorumludur.
 
 ---
 

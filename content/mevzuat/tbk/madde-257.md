@@ -17,8 +17,6 @@ sınırlanamaz ve ortadan kaldırılamaz.
 2/7/2018  tarihli  ve  700  sayılı  Kanun Hükmünde  Kararnamenin  190 ıncı  maddesiyle  bu fıkrada yer
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
-c. Satış bedelinin tamamen ödenmesi
-
 ---
 
 ### Bizim Yorumumuz

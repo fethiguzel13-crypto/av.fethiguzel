@@ -14,8 +14,6 @@ harcamalarına eşit olarak katılmakla yükümlüdür.
 Harcamaların tamamen veya kısmen sabit ücrete veya komisyona dâhil edilmesine
 ilişkin anlaşmalar kesin olarak hükümsüzdür.
 
-IV. Hapis hakkı
-
 ---
 
 ### Bizim Yorumumuz

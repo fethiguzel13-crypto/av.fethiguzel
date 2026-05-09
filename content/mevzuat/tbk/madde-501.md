@@ -17,7 +17,6 @@ Vekâlet İlişkileri
 
 BİRİNCİ AYIRIM
 Vekâlet Sözleşmesi
-A. Tanımı
 
 ---
 

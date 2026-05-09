@@ -4,12 +4,12 @@ kanun: "Türk Ticaret Kanunu"
 maddeNo: 270
 ---
 
-**Madde 270**
+**III
+- İfl as**
 
 ---
 
 Madde 270 - (1)   Bir   kollektif   şirketin   tasfiye   hâlinde   bulunması,   iflasına   engel  oluşturmaz.
-IV   -   Şirket   alacaklılarının   rüçhan   hakkı
 
 ---
 

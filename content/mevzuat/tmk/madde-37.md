@@ -4,7 +4,7 @@ kanun: "Türk Medeni Kanunu"
 maddeNo: 37
 ---
 
-**Madde 37**
+**II. Görev liler**
 
 ---
 
