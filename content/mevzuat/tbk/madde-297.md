@@ -1,0 +1,11 @@
+---
+title: "TBK Madde 297"
+kanun: "Türk Borçlar Kanunu"
+maddeNo: 297
+---
+
+Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir yıl içinde bağışlamayı geri alabilir. Bağışlayan bir yıllık süre dolmadan ölürse, geri alma hakkı mirasçılarına geçer ve mirasçıları bu sürenin sona ermesine kadar bu hakkı kullanabilirler. Bağışlayan, sağlığında geri alma sebebini öğrenememişse, mirasçıları, ölümünden başlayarak bir yıl içinde bağışlamayı geri alma hakkını kullanabilirler. Bağışlanan, bağışlayanı kasten ve hukuka aykırı olarak öldürür veya onun geri alma hakkını kullanmasını engellerse, mirasçıları bağışlamayı geri alabilirler. IV.
+
+### Bizim Yorumumuz
+
+Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.

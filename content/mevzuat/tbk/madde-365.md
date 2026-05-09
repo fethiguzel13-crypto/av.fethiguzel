@@ -1,0 +1,11 @@
+---
+title: "TBK Madde 365"
+kanun: "Türk Borçlar Kanunu"
+maddeNo: 365
+---
+
+Kiracı, kiralananın bakımını gereği gibi sağlamakla yükümlüdür. Kiracı, yerel âdete uygun olarak küçük onarımları yapmak, bozulan veya kullanılmayla yok olan düşük değerli araç ve gereçlerin yerine yenilerini koymak zorundadır. F.
+
+### Bizim Yorumumuz
+
+Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.

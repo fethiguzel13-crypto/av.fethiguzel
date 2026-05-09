@@ -1,0 +1,11 @@
+---
+title: "TBK Madde 353"
+kanun: "Türk Borçlar Kanunu"
+maddeNo: 353
+---
+
+Kiraya veren, en geç davanın açılması için öngörülen sürede dava açacağını kiracıya yazılı olarak bildirmişse, dava açma süresi bir kira yılı için uzamış sayılır. 4.
+
+### Bizim Yorumumuz
+
+Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.

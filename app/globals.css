@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: #FAF8F5; /* Ivory */
+    --foreground: #2A2A35; /* Slate */
+  }
+
+  /* Since we are using dark theme for Midnight Luxe, background should be dark. */
+  .dark-theme {
+    --background: #0D0D12; /* Obsidian */
+    --foreground: #FAF8F5; /* Ivory */
+  }
+
+  body {
+    @apply bg-primary text-light font-sans antialiased overflow-x-hidden;
+    background-color: theme('colors.primary');
+    color: theme('colors.light');
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-sans font-bold tracking-tight;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .glass-nav {
+    @apply bg-primary/60 backdrop-blur-xl border-b border-white/5;
+  }
+
+  .noise-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    pointer-events: none;
+    z-index: 9999;
+    opacity: 0.05;
+  }
+  
+  .magnetic-btn {
+    @apply relative overflow-hidden inline-flex items-center justify-center transition-all duration-300 ease-[cubic-bezier(0.25,0.46,0.45,0.94)];
+  }
+  
+  .magnetic-btn:hover {
+    transform: scale(1.03);
+  }
+  
+  .magnetic-btn::before {
+    content: '';
+    @apply absolute inset-0 bg-white/10 translate-y-full transition-transform duration-300 ease-out;
+  }
+  
+  .magnetic-btn:hover::before {
+    @apply translate-y-0;
+  }
+  
+  .card-hover {
+    @apply transition-all duration-300 ease-[cubic-bezier(0.25,0.46,0.45,0.94)];
+  }
+  
+  .card-hover:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 40px -10px rgba(0,0,0,0.5);
+  }
+}

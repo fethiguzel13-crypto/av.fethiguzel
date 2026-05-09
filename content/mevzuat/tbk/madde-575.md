@@ -1,0 +1,11 @@
+---
+title: "TBK Madde 575"
+kanun: "Türk Borçlar Kanunu"
+maddeNo: 575
+---
+
+Ardiyeci, ticari malları, genel saklama sözleşmesinde olduğu gibi geri vermekle yükümlüdür. Ancak, saklayanın sözleşmede öngöremeyeceği sebeplerle, süresinden önce geri verme yetkisi bulunduğu durumlarda bile ardiyeci, kararlaştırılmış olan sürenin sonuna kadar malları korumak zorundadır. D. Konaklama yeri, garaj, otopark ve benzeri yerleri işletenlere bırakma I. Konaklama yeri işletenlerin sorumluluğu 1.
+
+### Bizim Yorumumuz
+
+Buraya Yargıtay kararlarını ve hukuki analizlerinizi ekleyebilirsiniz.
