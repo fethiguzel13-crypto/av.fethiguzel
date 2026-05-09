@@ -23,7 +23,7 @@ export default async function MakaleOku({ params }: { params: { slug: string[] }
 
   if (ext === '.docx') {
     try {
-      const result = await mammoth.extractHtml({ path: absolutePath });
+      const result = await mammoth.convertToHtml({ path: absolutePath });
       contentHtml = result.value;
     } catch (error) {
       console.error("Error parsing docx:", error);
@@ -47,27 +47,27 @@ export default async function MakaleOku({ params }: { params: { slug: string[] }
         <div className="divider"></div>
       </div>
 
-      <div style={{ 
-        backgroundColor: 'var(--bg-card)', 
-        padding: '2rem', 
-        borderRadius: '12px', 
+      <div style={{
+        backgroundColor: 'var(--bg-card)',
+        padding: '2rem',
+        borderRadius: '12px',
         border: '1px solid var(--border-color)',
         minHeight: '600px',
         boxShadow: '0 10px 30px rgba(0,0,0,0.2)'
       }}>
         {ext === '.pdf' ? (
-          <iframe 
-            src={`${publicPath}#toolbar=0&navpanes=0`} 
-            style={{ width: '100%', height: '80vh', border: 'none', borderRadius: '8px' }} 
+          <iframe
+            src={`${publicPath}#toolbar=0&navpanes=0`}
+            style={{ width: '100%', height: '80vh', border: 'none', borderRadius: '8px' }}
             title={fileName}
           />
         ) : ext === '.docx' ? (
-          <div 
-            className="makale-content" 
-            dangerouslySetInnerHTML={{ __html: contentHtml }} 
-            style={{ 
-              lineHeight: '1.8', 
-              fontSize: '1.1rem', 
+          <div
+            className="makale-content"
+            dangerouslySetInnerHTML={{ __html: contentHtml }}
+            style={{
+              lineHeight: '1.8',
+              fontSize: '1.1rem',
               color: 'var(--text-primary)',
               maxWidth: '800px',
               margin: '0 auto'
