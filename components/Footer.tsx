@@ -22,12 +22,12 @@ export default function Footer() {
 
         {/* Links Column */}
         <div className="col-span-1 md:col-span-3">
-          <h4 className="font-sans font-bold mb-6 text-lg">Navigasyon</h4>
+          <h4 className="font-sans font-bold mb-6 text-lg">Hukuk Portalı</h4>
           <ul className="flex flex-col gap-4 font-sans text-light/60">
-            <li><Link href="#hakkimda" className="hover:text-accent transition-colors">Felsefe</Link></li>
-            <li><Link href="#uzmanlik" className="hover:text-accent transition-colors">Uzmanlık Alanları</Link></li>
-            <li><Link href="/mevzuat" className="hover:text-accent transition-colors">İçtihat Portalı</Link></li>
-            <li><Link href="#makaleler" className="hover:text-accent transition-colors">Makalelerim Arşivi</Link></li>
+            <li><Link href="/medeni-hukuk" className="hover:text-accent transition-colors">Medeni Hukuk</Link></li>
+            <li><Link href="/borclar-hukuku" className="hover:text-accent transition-colors">Borçlar Hukuku</Link></li>
+            <li><Link href="/ticaret-hukuku" className="hover:text-accent transition-colors">Ticaret Hukuku</Link></li>
+            <li><Link href="#makaleler" className="hover:text-accent transition-colors">Makalelerim</Link></li>
           </ul>
         </div>
 

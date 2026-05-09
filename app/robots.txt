@@ -1,12 +1,21 @@
-import { MetadataRoute } from 'next';
+User-agent: *
+Allow: /
 
-export default function robots(): MetadataRoute.Robots {
-  return {
-    rules: {
-      userAgent: '*',
-      allow: '/',
-      disallow: '/_next/',
-    },
-    sitemap: 'https://avfethiguzel.com/sitemap.xml',
-  };
-}
+# Ana Kategoriler
+Allow: /medeni-hukuk/
+Allow: /borclar-hukuku/
+Allow: /ticaret-hukuku/
+
+# Makaleler
+Allow: /makale-oku/
+
+# Sitemap
+Sitemap: https://avfethiguzel.com/sitemap.xml
+
+# Eski rotalar (SEO korunması)
+Allow: /mevzuat/
+Allow: /kategori/
+
+# Statik dosyalar
+Disallow: /_next/
+Disallow: /api/

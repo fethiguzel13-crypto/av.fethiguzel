@@ -105,17 +105,25 @@ export default function Protocol({ makaleler }: { makaleler: any[] }) {
         </div>
       </div>
 
-      {/* Card 3: Mevzuat & İçtihat */}
+      {/* Card 3: Hukuk Portalı */}
       <div className="stack-card h-screen w-full sticky top-0 flex items-center justify-center p-6">
         <div className="w-full max-w-5xl h-[85vh] bg-primary border border-accent/30 rounded-[3rem] p-10 md:p-16 flex flex-col md:flex-row gap-12 shadow-2xl overflow-hidden relative">
           <div className="absolute inset-0 bg-accent/5 z-0"></div>
           <div className="flex-1 z-10 flex flex-col justify-center">
-            <span className="font-data text-accent text-sm md:text-lg mb-4 block">03 / SİSTEM</span>
-            <h2 className="font-sans font-bold text-4xl md:text-5xl text-light mb-6">İçtihat Portalı</h2>
-            <p className="text-light/60 font-sans text-lg max-w-md mb-8">Türkiye'nin akademik temelli açık içtihat bilgi bankası. Yargıtay kararları ve kanun maddelerine hızlı erişim.</p>
-            <Link href="/mevzuat" className="magnetic-btn w-max px-8 py-4 bg-accent text-primary rounded-full font-bold tracking-wide shadow-[0_0_20px_rgba(201,168,76,0.3)] hover:scale-105 transition-transform">
-              <span className="relative z-10">Sisteme Giriş Yap</span>
-            </Link>
+            <span className="font-data text-accent text-sm md:text-lg mb-4 block">03 / PORTAL</span>
+            <h2 className="font-sans font-bold text-4xl md:text-5xl text-light mb-6">Hukuk Portalı</h2>
+            <p className="text-light/60 font-sans text-lg max-w-md mb-8">Medeni Hukuk, Borçlar Hukuku ve Ticaret Hukuku alanlarında kanun maddeleri, Yargıtay kararları ve akademik analizlere erişin.</p>
+            <div className="flex flex-wrap gap-4">
+              <Link href="/medeni-hukuk" className="magnetic-btn px-6 py-3 bg-accent text-primary rounded-full font-bold tracking-wide shadow-[0_0_15px_rgba(201,168,76,0.3)] hover:scale-105 transition-transform text-sm">
+                <span className="relative z-10">Medeni Hukuk</span>
+              </Link>
+              <Link href="/borclar-hukuku" className="magnetic-btn px-6 py-3 bg-white/5 border border-white/10 text-light rounded-full font-semibold tracking-wide hover:border-accent hover:text-accent transition-all text-sm">
+                <span className="relative z-10">Borçlar Hukuku</span>
+              </Link>
+              <Link href="/ticaret-hukuku" className="magnetic-btn px-6 py-3 bg-white/5 border border-white/10 text-light rounded-full font-semibold tracking-wide hover:border-accent hover:text-accent transition-all text-sm">
+                <span className="relative z-10">Ticaret Hukuku</span>
+              </Link>
+            </div>
           </div>
           <div className="flex-1 relative hidden md:flex items-center justify-center z-10 pointer-events-none">
              <svg className="w-full max-w-[400px] h-32" viewBox="0 0 400 100" fill="none" stroke="var(--accent)" strokeWidth="2">
