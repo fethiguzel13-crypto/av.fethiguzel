@@ -1,14 +1,15 @@
 import type { Metadata } from 'next'
-import { Inter, Playfair_Display, JetBrains_Mono } from 'next/font/google'
+import { Plus_Jakarta_Sans, Outfit, Cormorant_Garamond, IBM_Plex_Mono } from 'next/font/google'
 import './globals.css'
 
-const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
-const playfair = Playfair_Display({ subsets: ['latin'], style: ['normal', 'italic'], variable: '--font-playfair' })
-const jetbrains = JetBrains_Mono({ subsets: ['latin'], variable: '--font-jetbrains' })
+const plusJakarta = Plus_Jakarta_Sans({ subsets: ['latin'], variable: '--font-sans' })
+const outfit = Outfit({ subsets: ['latin'], variable: '--font-heading' })
+const cormorant = Cormorant_Garamond({ subsets: ['latin'], style: ['normal', 'italic'], weight: ['300', '400', '500', '600', '700'], variable: '--font-drama' })
+const ibmPlex = IBM_Plex_Mono({ subsets: ['latin'], weight: ['100', '200', '300', '400', '500', '600', '700'], variable: '--font-mono' })
 
 export const metadata: Metadata = {
   title: {
-    default: 'Av. Fethi Güzel | Özel Hukuk Uzmanı & Arabulucu – Erciş/Van',
+    default: 'Av. Fethi Güzel | Özel Hukuk Uzmanı & Arabulucu',
     template: '%s | Av. Fethi Güzel',
   },
   description: 'Av. Fethi Güzel – Erciş/Van. Medeni Hukuk, Borçlar Hukuku ve Ticaret Hukuku alanlarında kanun maddeleri, Yargıtay kararları ve akademik analizler. Boşanma, miras, tazminat, şirketler hukuku, çek, bono, kira davaları ve arabuluculuk.',
@@ -54,7 +55,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="tr" className={`${inter.variable} ${playfair.variable} ${jetbrains.variable} scroll-smooth`}>
+    <html lang="tr" className={`${plusJakarta.variable} ${outfit.variable} ${cormorant.variable} ${ibmPlex.variable} scroll-smooth`}>
       <head>
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
         {/* Schema.org – Person (E-E-A-T) */}
@@ -111,15 +112,7 @@ export default function RootLayout({
           }}
         />
       </head>
-      <body className="bg-primary text-light font-sans antialiased selection:bg-accent selection:text-primary">
-        {/* CSS Noise Overlay */}
-        <svg className="noise-overlay" viewBox="0 0 100 100" preserveAspectRatio="none">
-          <filter id="noiseFilter">
-            <feTurbulence type="fractalNoise" baseFrequency="0.65" numOctaves="3" stitchTiles="stitch"/>
-          </filter>
-          <rect width="100%" height="100%" filter="url(#noiseFilter)"/>
-        </svg>
-        
+      <body className="bg-cream text-charcoal font-sans antialiased selection:bg-accent selection:text-white">
         {children}
       </body>
     </html>

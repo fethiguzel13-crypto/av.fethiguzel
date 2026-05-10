@@ -1,45 +1,81 @@
-import { categories } from '@/lib/categories'
-import { getArticlesByCategory } from '@/lib/api'
-import Link from 'next/link'
+import React from 'react';
+import Link from 'next/link';
+import { categories } from '@/lib/categories';
+import { getArticlesByCategory } from '@/lib/api';
+import Navbar from '@/components/Navbar';
+import Footer from '@/components/Footer';
+import { BookOpen, Search, Scale } from 'lucide-react';
 
 export default function MevzuatPage() {
   return (
-    <main className="container" style={{paddingTop: '150px', paddingBottom: '100px', minHeight: '100vh'}}>
-      <div className="section-header">
-          <span className="section-subtitle">Arama & Filtreleme</span>
-          <h2 className="section-title">İçtihat ve Mevzuat Bankası Kategorileri</h2>
-          <div className="divider"></div>
-          <p className="section-desc" style={{marginLeft: 0}}>
-            Türkiye'nin en kapsamlı özel hukuk içtihat ve mevzuat arşivi. Aşağıdaki kategorilerden birini seçerek ilgili kanun maddelerine ve Yargıtay kararlarına ulaşabilirsiniz.
+    <div className="bg-cream min-h-screen font-sans">
+      <Navbar />
+      
+      <main className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
+        <header className="mb-20 text-center">
+          <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Dijital Hukuk Kütüphanesi</h2>
+          <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">
+            Mevzuat ve <span className="font-drama italic text-accent">İçtihat Bankası</span>
+          </h1>
+          <p className="text-charcoal/60 max-w-2xl mx-auto text-lg">
+            Türkiye'nin en kapsamlı özel hukuk arşivinde akademik standartlarda arama yapın. 
+            Medeni Hukuk, Borçlar Hukuku ve Ticaret Hukuku dokümanlarına erişin.
           </p>
-      </div>
+        </header>
 
-      <div className="expertise-grid" style={{marginTop: '2rem'}}>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {categories.map((category) => {
-              const articles = getArticlesByCategory(category.slug);
-              return (
-                  <div className="expertise-card" key={category.id} style={{height: '100%', transition: 'transform 0.3s ease, box-shadow 0.3s ease', display: 'flex', flexDirection: 'column'}}>
-                      <Link href={`/kategori/${category.slug}`} style={{textDecoration: 'none', color: 'inherit', flexGrow: 1}}>
-                          <div className="card-icon" style={{fontSize: '2rem', marginBottom: '1rem', color: 'var(--accent-gold)'}}>
-                              <i className={category.icon}></i>
-                          </div>
-                          <h3 style={{marginBottom: '0.5rem'}}>{category.name}</h3>
-                          <p style={{fontSize: '0.9rem', color: 'var(--text-secondary)'}}>{category.description}</p>
-                      </Link>
-                      <details style={{marginTop: '1rem', borderTop: '1px solid var(--border-color)', paddingTop: '1rem'}}>
-                          <summary style={{cursor: 'pointer', fontWeight: 'bold', color: 'var(--accent-gold)'}}>Maddeleri Görüntüle ({articles.length})</summary>
-                          <div style={{maxHeight: '200px', overflowY: 'auto', marginTop: '0.5rem', display: 'flex', flexDirection: 'column', gap: '0.5rem', textAlign: 'left', fontSize: '0.9rem'}}>
-                              {articles.map(article => (
-                                  <Link href={`/mevzuat/${article.kanunId}/${article.id}`} key={article.id} style={{textDecoration: 'none', color: 'var(--text-primary)', borderBottom: '1px solid var(--bg-main)', paddingBottom: '0.2rem'}}>
-                                      {article.title}
-                                  </Link>
-                              ))}
-                          </div>
-                      </details>
+            const articles = getArticlesByCategory(category.slug);
+            return (
+              <div key={category.id} className="bg-white/50 border border-charcoal/5 rounded-[2rem] p-8 hover:bg-white transition-all hover:shadow-xl group">
+                <div className="flex items-center justify-between mb-8">
+                  <div className="w-12 h-12 bg-accent/10 rounded-full flex items-center justify-center text-accent group-hover:scale-110 transition-transform">
+                    <BookOpen size={24} />
                   </div>
-              )
+                  <span className="font-mono text-[10px] text-charcoal/40 uppercase tracking-widest">
+                    {category.kanunId.toUpperCase()}
+                  </span>
+                </div>
+                
+                <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">{category.name}</h3>
+                <p className="text-charcoal/60 text-sm mb-8">{category.description}</p>
+                
+                <div className="space-y-4">
+                   <Link 
+                     href={`/kategori/${category.slug}`}
+                     className="block w-full text-center py-3 bg-charcoal text-white rounded-xl text-sm font-bold hover:bg-accent transition-colors"
+                   >
+                     TÜMÜNÜ İNCELE
+                   </Link>
+                   
+                   <details className="group/details">
+                     <summary className="list-none cursor-pointer text-center text-xs font-bold text-accent tracking-widest flex items-center justify-center gap-2">
+                       SON MADDELER ({articles.length})
+                       <Search size={14} />
+                     </summary>
+                     <div className="mt-4 max-h-48 overflow-y-auto space-y-2 pr-2 scrollbar-thin">
+                       {articles.slice(0, 20).map(article => (
+                         <Link 
+                           href={`/mevzuat/${article.kanunId}/${article.id}`} 
+                           key={article.id}
+                           className="block text-xs text-charcoal/70 hover:text-accent border-b border-charcoal/5 pb-2 transition-colors"
+                         >
+                           {article.title}
+                         </Link>
+                       ))}
+                       {articles.length > 20 && (
+                         <p className="text-[10px] text-center text-charcoal/30 pt-2 italic">...ve daha fazlası</p>
+                       )}
+                     </div>
+                   </details>
+                </div>
+              </div>
+            );
           })}
-      </div>
-    </main>
-  )
+        </div>
+      </main>
+
+      <Footer />
+    </div>
+  );
 }

@@ -1,176 +1,138 @@
 "use client";
 
-import { useEffect, useState } from "react";
-import Link from "next/link";
-import { Menu, X, ChevronDown } from "lucide-react";
-
-const menuData = [
-  {
-    label: "Medeni Hukuk",
-    href: "/medeni-hukuk",
-    items: [
-      { label: "Başlangıç Hükümleri", href: "/medeni-hukuk/baslangic-hukumleri" },
-      { label: "Kişiler Hukuku", href: "/medeni-hukuk/kisiler-hukuku" },
-      { label: "Aile Hukuku", href: "/medeni-hukuk/aile-hukuku" },
-      { label: "Miras Hukuku", href: "/medeni-hukuk/miras-hukuku" },
-      { label: "Eşya Hukuku", href: "/medeni-hukuk/esya-hukuku" },
-    ],
-  },
-  {
-    label: "Borçlar Hukuku",
-    href: "/borclar-hukuku",
-    items: [
-      { label: "Genel Hükümler", href: "/borclar-hukuku/genel-hukumler" },
-      { label: "Özel Hükümler", href: "/borclar-hukuku/ozel-hukumler" },
-    ],
-  },
-  {
-    label: "Ticaret Hukuku",
-    href: "/ticaret-hukuku",
-    items: [
-      { label: "Ticari İşletme Hukuku", href: "/ticaret-hukuku/ticari-isletme-hukuku" },
-      { label: "Şirketler Hukuku", href: "/ticaret-hukuku/sirketler-hukuku" },
-      { label: "Kıymetli Evrak Hukuku", href: "/ticaret-hukuku/kiymetli-evrak-hukuku" },
-      { label: "Sigorta Hukuku", href: "/ticaret-hukuku/sigorta-hukuku" },
-    ],
-  },
-];
+import React, { useState, useEffect } from 'react';
+import Link from 'next/link';
+import { Menu, X, Scale, ChevronDown } from 'lucide-react';
 
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
-  const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
-  const [openDropdown, setOpenDropdown] = useState<string | null>(null);
-  const [mobileExpandedMenu, setMobileExpandedMenu] = useState<string | null>(null);
+  const [mobileMenu, setMobileMenu] = useState(false);
 
   useEffect(() => {
-    const handleScroll = () => {
-      setScrolled(window.scrollY > 50);
-    };
-    window.addEventListener("scroll", handleScroll);
-    return () => window.removeEventListener("scroll", handleScroll);
+    const handleScroll = () => setScrolled(window.scrollY > 50);
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
+  const menuItems = [
+    { name: 'Hakkımda', href: '/#manifesto' },
+    { 
+      name: 'Medeni Hukuk', 
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Başlangıç Hükümleri', href: '/kategori/tmk-baslangic' },
+        { name: 'Kişiler Hukuku', href: '/kategori/kisiler-hukuku' },
+        { name: 'Aile Hukuku', href: '/kategori/aile-hukuku' },
+        { name: 'Miras Hukuku', href: '/kategori/miras-hukuku' },
+        { name: 'Eşya Hukuku', href: '/kategori/esya-hukuku' },
+      ]
+    },
+    { 
+      name: 'Borçlar Hukuku', 
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Genel Hükümler', href: '/kategori/borclar-genel' },
+        { name: 'Özel Hükümler', href: '/kategori/borclar-ozel' },
+      ]
+    },
+    { 
+      name: 'Ticaret Hukuku', 
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Ticari İşletme Hukuku', href: '/kategori/ticari-isletme' },
+        { name: 'Şirketler Hukuku', href: '/kategori/ticari-sirketler' },
+        { name: 'Kıymetli Evrak Hukuku', href: '/kategori/kiymetli-evrak' },
+        { name: 'Sigorta Hukuku', href: '/kategori/sigorta-hukuku' },
+      ]
+    },
+    { name: 'Makalelerim', href: '/makaleler' },
+    { name: 'Eserlerim', href: '/eserlerim' },
+  ];
+
   return (
-    <nav
-      className={`fixed top-4 left-1/2 -translate-x-1/2 z-50 transition-all duration-500 ease-in-out w-[95%] max-w-6xl rounded-[2rem] px-6 py-4 flex items-center justify-between ${
-        scrolled
-          ? "bg-primary/80 backdrop-blur-xl border border-white/10 shadow-2xl"
-          : "bg-transparent border border-transparent"
-      }`}
-    >
-      <Link href="/" className="font-drama font-bold text-2xl tracking-tighter text-light">
-        FG.
-      </Link>
-
-      {/* Desktop Links */}
-      <div className="hidden lg:flex items-center gap-6">
-        <Link href="#hakkimda" className="text-sm font-sans tracking-wide hover:text-accent transition-colors duration-300">
-          Hakkımda
-        </Link>
-
-        {menuData.map((menu) => (
-          <div
-            key={menu.label}
-            className="relative"
-            onMouseEnter={() => setOpenDropdown(menu.label)}
-            onMouseLeave={() => setOpenDropdown(null)}
-          >
-            <button className="text-sm font-sans tracking-wide hover:text-accent transition-colors duration-300 flex items-center gap-1 focus:outline-none">
-              {menu.label}
-              <ChevronDown
-                size={14}
-                className={`transition-transform duration-300 ${openDropdown === menu.label ? "rotate-180" : ""}`}
-              />
-            </button>
-
-            {/* Dropdown */}
-            <div
-              className={`absolute top-full left-1/2 -translate-x-1/2 pt-3 transition-all duration-300 ease-out ${
-                openDropdown === menu.label
-                  ? "opacity-100 translate-y-0 pointer-events-auto"
-                  : "opacity-0 -translate-y-2 pointer-events-none"
-              }`}
-            >
-              <div className="bg-primary/95 backdrop-blur-2xl border border-white/10 rounded-2xl shadow-2xl p-2 min-w-[220px]">
-                {menu.items.map((item) => (
-                  <Link
-                    key={item.href}
-                    href={item.href}
-                    className="block px-4 py-2.5 text-sm font-sans text-light/80 hover:text-accent hover:bg-white/5 rounded-xl transition-all duration-200"
-                  >
-                    {item.label}
-                  </Link>
-                ))}
-              </div>
-            </div>
+    <nav className={`fixed top-8 left-1/2 -translate-x-1/2 z-[1000] w-[95%] max-w-7xl transition-all duration-500 rounded-pill ${
+      scrolled ? 'glass py-3 px-8' : 'bg-transparent py-6 px-4'
+    }`}>
+      <div className="flex items-center justify-between">
+        <Link href="/" className="text-xl font-bold font-heading tracking-tight flex items-center gap-2 group shrink-0">
+          <div className="w-8 h-8 bg-accent rounded-full flex items-center justify-center text-cream transition-transform group-hover:rotate-12">
+            <Scale size={18} />
           </div>
-        ))}
-
-        <Link href="#makaleler" className="text-sm font-sans tracking-wide hover:text-accent transition-colors duration-300">
-          Makalelerim
+          <span className={scrolled ? 'text-charcoal' : 'text-cream'}>AV. FETHİ GÜZEL</span>
         </Link>
-      </div>
 
-      <div className="hidden lg:block">
-        <Link href="#iletisim" className="magnetic-btn px-6 py-2 rounded-full border border-accent text-accent hover:text-primary text-sm font-semibold tracking-wide">
-          <span className="relative z-10">Bize Ulaşın</span>
+        {/* Desktop Navigation */}
+        <div className="hidden lg:flex items-center gap-6 font-heading text-[13px] font-bold tracking-wide">
+          {menuItems.map((item) => (
+            <div key={item.name} className="relative group/item py-2">
+              <Link 
+                href={item.href} 
+                className={`flex items-center gap-1 ${scrolled ? 'text-charcoal' : 'text-cream/80'} hover:text-accent transition-colors uppercase`}
+              >
+                {item.name}
+                {item.dropdown && <ChevronDown size={14} className="opacity-40 group-hover/item:rotate-180 transition-transform" />}
+              </Link>
+
+              {item.dropdown && (
+                <div className="absolute top-full left-0 mt-2 w-64 glass rounded-2xl p-4 opacity-0 invisible group-hover/item:opacity-100 group-hover/item:visible transition-all duration-300 transform translate-y-2 group-hover/item:translate-y-0 shadow-2xl border border-charcoal/5">
+                  <div className="flex flex-col gap-2">
+                    {item.dropdown.map((sub) => (
+                      <Link 
+                        key={sub.name} 
+                        href={sub.href} 
+                        className="text-charcoal/70 hover:text-accent hover:bg-accent/5 px-4 py-2 rounded-xl transition-all text-xs"
+                      >
+                        {sub.name}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+
+        <Link 
+          href="/#iletisim" 
+          className="hidden lg:block relative overflow-hidden group magnetic-btn bg-accent text-white px-6 py-2.5 rounded-full text-xs font-bold shrink-0"
+        >
+          <span className="relative z-10">DANIŞMANLIK</span>
+          <div className="absolute inset-0 w-0 bg-charcoal transition-all duration-500 ease-out group-hover:w-full"></div>
         </Link>
-      </div>
 
-      {/* Mobile Menu Toggle */}
-      <button
-        className="lg:hidden text-light"
-        onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-      >
-        {mobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
-      </button>
+        <button className={scrolled ? 'lg:hidden text-charcoal' : 'lg:hidden text-cream'} onClick={() => setMobileMenu(!mobileMenu)}>
+          {mobileMenu ? <X /> : <Menu />}
+        </button>
+      </div>
 
       {/* Mobile Menu */}
-      {mobileMenuOpen && (
-        <div className="absolute top-20 left-0 w-full bg-primary/95 backdrop-blur-xl rounded-[2rem] border border-white/10 p-6 flex flex-col gap-3 shadow-2xl">
-          <Link href="#hakkimda" onClick={() => setMobileMenuOpen(false)} className="text-lg font-sans py-1">
-            Hakkımda
-          </Link>
-
-          {menuData.map((menu) => (
-            <div key={menu.label}>
-              <button
-                className="w-full text-left text-lg font-sans py-1 flex items-center justify-between hover:text-accent transition-colors"
-                onClick={() => setMobileExpandedMenu(mobileExpandedMenu === menu.label ? null : menu.label)}
+      {mobileMenu && (
+        <div className="absolute top-full left-0 right-0 mt-4 glass rounded-[2rem] p-6 flex flex-col gap-2 lg:hidden max-h-[80vh] overflow-y-auto">
+          {menuItems.map((item) => (
+            <div key={item.name} className="flex flex-col gap-2">
+              <Link 
+                href={item.href} 
+                className="text-charcoal font-heading text-lg font-bold uppercase py-2 border-b border-charcoal/5" 
+                onClick={() => !item.dropdown && setMobileMenu(false)}
               >
-                {menu.label}
-                <ChevronDown
-                  size={16}
-                  className={`transition-transform duration-300 ${mobileExpandedMenu === menu.label ? "rotate-180" : ""}`}
-                />
-              </button>
-              {mobileExpandedMenu === menu.label && (
-                <div className="pl-4 flex flex-col gap-2 mt-2 border-l-2 border-accent/30 ml-2">
-                  {menu.items.map((item) => (
-                    <Link
-                      key={item.href}
-                      href={item.href}
-                      onClick={() => setMobileMenuOpen(false)}
-                      className="text-sm font-sans text-light/70 hover:text-accent transition-colors py-1"
+                {item.name}
+              </Link>
+              {item.dropdown && (
+                <div className="pl-4 flex flex-col gap-2 mb-4">
+                  {item.dropdown.map((sub) => (
+                    <Link 
+                      key={sub.name} 
+                      href={sub.href} 
+                      className="text-charcoal/60 text-sm font-medium" 
+                      onClick={() => setMobileMenu(false)}
                     >
-                      {item.label}
+                      {sub.name}
                     </Link>
                   ))}
                 </div>
               )}
             </div>
           ))}
-
-          <Link href="#makaleler" onClick={() => setMobileMenuOpen(false)} className="text-lg font-sans py-1">
-            Makalelerim
-          </Link>
-          <Link
-            href="#iletisim"
-            onClick={() => setMobileMenuOpen(false)}
-            className="mt-4 px-6 py-3 rounded-full border border-accent text-accent text-center text-sm font-semibold"
-          >
-            Bize Ulaşın
-          </Link>
         </div>
       )}
     </nav>

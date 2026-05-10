@@ -1,24 +1,26 @@
-import { getMakaleler } from '@/lib/makaleler'
-
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
-import Philosophy from "@/components/Philosophy";
-import Publication from "@/components/Publication";
-import Features from "@/components/Features";
+import About from "@/components/About";
+import Expertise from "@/components/Expertise";
 import Protocol from "@/components/Protocol";
+import FamilyLaw from "@/components/FamilyLaw";
+import InsuranceLaw from "@/components/InsuranceLaw";
+import PropertyLaw from "@/components/PropertyLaw";
+import Articles from "@/components/Articles";
 import Footer from "@/components/Footer";
 
 export default function Home() {
-  const makaleler = getMakaleler();
-
   return (
-    <main className="relative w-full bg-primary overflow-hidden">
+    <main className="relative w-full bg-cream overflow-hidden">
       <Navbar />
       <Hero />
-      <Philosophy />
-      <Publication />
-      <Features />
-      <Protocol makaleler={makaleler} />
+      <Expertise />
+      <About />
+      <Protocol />
+      <FamilyLaw />
+      <InsuranceLaw />
+      <PropertyLaw />
+      <Articles />
       <Footer />
     </main>
   );

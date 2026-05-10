@@ -9,17 +9,18 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
+        primary: '#2E4036',   // Moss
+        accent: '#CC5833',    // Clay
+        cream: '#F2F0E9',     // Background
+        charcoal: '#1A1A1A',  // Text/Dark
         background: "var(--background)",
         foreground: "var(--foreground)",
-        primary: "#0D0D12",   // Obsidian
-        accent: "#C9A84C",    // Champagne
-        light: "#FAF8F5",     // Ivory
-        darkText: "#2A2A35",  // Slate
       },
       fontFamily: {
-        sans: ["var(--font-inter)", "sans-serif"],
-        drama: ["var(--font-playfair)", "serif"],
-        data: ["var(--font-jetbrains)", "monospace"],
+        sans: ['"Plus Jakarta Sans"', 'sans-serif'],
+        heading: ['Outfit', 'sans-serif'],
+        drama: ['"Cormorant Garamond"', 'serif'],
+        mono: ['"IBM Plex Mono"', 'monospace'],
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
