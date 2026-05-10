@@ -27,6 +27,14 @@ export default function Footer() {
                     EYC İş Merkezi A Blok Kat 4 Daire 37<br />
                     Erciş / VAN
                   </p>
+                  <a 
+                    href="https://www.google.com/maps/search/?api=1&query=Van+Yolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+EYC+I%C5%9F+Merkezi+Erci%C5%9F+Van" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="inline-block mt-4 text-accent text-xs font-bold uppercase tracking-widest hover:underline"
+                  >
+                    Google Haritalar'da Aç →
+                  </a>
                 </div>
               </div>
 
@@ -54,14 +62,15 @@ export default function Footer() {
             </div>
           </div>
 
-          <div className="h-[400px] md:h-full min-h-[400px] rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700">
+          <div className="h-[400px] md:h-full min-h-[400px] rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700 relative group">
             <iframe 
-              src="https://maps.google.com/maps?q=Van%20Yolu%20Mah.%20Karayusuf%20Bey%20Bulvar%C4%B1%20EYC%20%C4%B0%C5%9F%20Merkezi%20Erci%C5%9F%20Van&t=&z=15&ie=UTF8&iwloc=&output=embed" 
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.4754512457813!2d43.35!3d39.02!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDAxJzEyLjAiTiA0M8KwMjEnMDAuMCJF!5e0!3m2!1str!2str!4v1715340000000!5m2!1str!2str&q=Van+Yolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+EYC+I%C5%9F+Merkezi+Erci%C5%9F+Van" 
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 
               allowFullScreen 
               loading="lazy" 
+              className="opacity-60 group-hover:opacity-100 transition-opacity duration-700"
             ></iframe>
           </div>
         </div>
