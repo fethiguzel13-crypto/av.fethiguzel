@@ -53,7 +53,7 @@ const ShufflerCard = () => {
       setItems(prev => {
         const newItems = [...prev];
         const last = newItems.pop();
-        newItems.unshift(last);
+        if (last) newItems.unshift(last);
         return newItems;
       });
     }, 3000);
