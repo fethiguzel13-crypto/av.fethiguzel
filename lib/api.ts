@@ -86,10 +86,13 @@ export async function getArticleData(kanunId: string, id: string): Promise<Artic
   const splitMarker = "### Bizim Yorumumuz";
   const parts = rawContent.split(splitMarker);
   
-  const officialText = parts[0].trim();
+  const officialText = (parts[0] || "").trim();
   const commentaryText = parts.length > 1 ? parts[1].trim() : "";
   
-  const officialHtml = await marked(officialText);
+  // Fallback: If officialText is somehow empty but rawContent isn't, use rawContent
+  const finalOfficialText = officialText || rawContent;
+  
+  const officialHtml = await marked(finalOfficialText);
   const commentaryHtml = commentaryText ? await marked(commentaryText) : "";
   
   return {

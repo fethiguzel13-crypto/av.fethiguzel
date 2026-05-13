@@ -118,9 +118,12 @@ export default async function ArticlePage({ params }: Props) {
 
               <div 
                 className="prose prose-invert prose-lg max-w-none 
+                           text-cream/90
+                           prose-headings:text-cream prose-headings:font-bold
                            prose-p:text-cream/90 prose-p:leading-[1.9] prose-p:font-light
                            prose-strong:text-accent prose-strong:font-bold
-                           prose-hr:border-cream/10"
+                           prose-hr:border-cream/10
+                           prose-li:text-cream/90"
                 dangerouslySetInnerHTML={{ __html: articleData.officialHtml }} 
               />
             </div>
