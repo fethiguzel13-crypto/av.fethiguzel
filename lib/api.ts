@@ -13,6 +13,8 @@ export interface ArticleData {
   kanun: string;
   maddeNo: number;
   contentHtml: string;
+  officialHtml: string;
+  commentaryHtml: string;
 }
 
 export function getAllKanunDirs() {
@@ -66,17 +68,36 @@ export function getArticlesByCategory(categorySlug: string) {
   );
 }
 
+export function getNavigationInfo(kanunId: string, currentMaddeNo: number) {
+  const articles = getArticlesByKanun(kanunId);
+  const prev = articles.find(a => a.maddeNo === currentMaddeNo - 1);
+  const next = articles.find(a => a.maddeNo === currentMaddeNo + 1);
+  return { prev, next };
+}
+
 export async function getArticleData(kanunId: string, id: string): Promise<ArticleData> {
   const fullPath = path.join(contentDirectory, kanunId, `${id}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   
   const matterResult = matter(fileContents);
-  const contentHtml = await marked(matterResult.content);
+  const rawContent = matterResult.content;
+  
+  // Split content by "### Bizim Yorumumuz"
+  const splitMarker = "### Bizim Yorumumuz";
+  const parts = rawContent.split(splitMarker);
+  
+  const officialText = parts[0].trim();
+  const commentaryText = parts.length > 1 ? parts[1].trim() : "";
+  
+  const officialHtml = await marked(officialText);
+  const commentaryHtml = commentaryText ? await marked(commentaryText) : "";
   
   return {
     id,
     kanunId,
     ...(matterResult.data as { title: string; kanun: string; maddeNo: number }),
-    contentHtml
+    contentHtml: await marked(rawContent),
+    officialHtml,
+    commentaryHtml
   };
 }
