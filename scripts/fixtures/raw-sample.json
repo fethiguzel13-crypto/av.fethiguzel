@@ -1,0 +1,74 @@
+{
+  "source": "all",
+  "elapsedSec": "180.5",
+  "sources": {
+    "resmigazete": {
+      "source": "ResmiGazete",
+      "ok": true,
+      "items": [
+        {
+          "date": "2026-05-13",
+          "category": "YÖNETMELİKLER",
+          "title": "Konkordato Talebine Eklenecek Belgeler Hakkında Yönetmelikte Değişiklik Yapılmasına Dair Yönetmelik",
+          "href": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260513-2.htm"
+        }
+      ]
+    },
+    "yargitay": {
+      "source": "Yargıtay",
+      "ok": true,
+      "items": [
+        {
+          "category": "Borçlar/Tüketici/Ticaret",
+          "id": "1203880800",
+          "daire": "11. Hukuk Dairesi",
+          "esas": "2025/4020",
+          "karar": "2026/1160",
+          "tarih": "26.02.2026",
+          "kunye": "Y. 11. Hukuk Dairesi, E. 2025/4020, K. 2026/1160, T. 26.02.2026",
+          "konu": "Kefalet sözleşmesinde yazılı şekil şartının yerine getirilmemesi halinde sözleşmenin geçersizliği"
+        },
+        {
+          "category": "HGK",
+          "id": "9999999",
+          "daire": "Hukuk Genel Kurulu",
+          "esas": "2025/100",
+          "karar": "2026/50",
+          "tarih": "10.03.2026",
+          "kunye": "HGK, E. 2025/100, K. 2026/50, T. 10.03.2026",
+          "konu": "İçtihadı birleştirme niteliğinde önemli karar"
+        }
+      ]
+    },
+    "aym": {
+      "source": "AYM-BireyselBasvuru",
+      "ok": true,
+      "items": [
+        {
+          "basvuran": "İSA OZAN VE DİĞERLERİ",
+          "basvuruNo": "2023/108631",
+          "tur": "Esas (İhlal)",
+          "birim": "Birinci Bölüm",
+          "basvuruTarihi": "15/12/2023",
+          "kararTarihi": "04/03/2026",
+          "konu": "Başvuru, gerekçeli karar hakkının ihlali iddialarına ilişkindir",
+          "kunye": "AYM, B. No: 2023/108631, K.T. 04/03/2026, Birinci Bölüm"
+        }
+      ]
+    },
+    "hudoc": {
+      "source": "HUDOC",
+      "ok": true,
+      "items": [
+        {
+          "itemId": "001-250158",
+          "appNo": "17389/20",
+          "caseName": "AFFAIRE YASAK c. TÜRKİYE",
+          "date": "2026-05-05T00:00:00",
+          "conclusion": "Violation de l'article 7",
+          "importance": "1"
+        }
+      ]
+    }
+  }
+}
