@@ -5,19 +5,23 @@ const MAX_TOKENS = 80;
 const CONCURRENCY = 5;
 
 export function buildPrompt(item) {
-  const label = item.title || item.kunye || '(başlık yok)';
+  const label = item.title || item.caseName || item.kunye || '(başlık yok)';
   const konu = item.konu || '';
-  return `Sen bir hukuk iletişim uzmanısın. Sıradan bir vatandaşın anlayabileceği, jargon içermeyen, 1-2 cümlelik (max 30 kelime) açıklama yaz. Hukuki kavramları gündelik dile çevir.
+  return `Sen bir hukuk iletişim uzmanısın. Sıradan bir vatandaşın anlayabileceği, jargon içermeyen, 1-2 cümlelik (maksimum 30 kelime) düz Türkçe açıklama yaz. Hukuki kavramları gündelik dile çevir. Markdown başlık veya madde işareti KULLANMA — sadece düz cümle yaz.
 
 Başlık: ${label}
 Hukuki konu: ${konu}
 
-Vatandaş için açıkla:`;
+Vatandaş için açıkla (sadece cümle, başlık yok):`;
 }
 
 export function shouldSummarize(item) {
   if (item.publicSummary && item.publicSummary.trim().length > 0) return false;
-  const hasContent = (item.konu && item.konu.trim()) || (item.title && item.title.trim()) || (item.kunye && item.kunye.trim());
+  const hasContent =
+    (item.konu && item.konu.trim()) ||
+    (item.title && item.title.trim()) ||
+    (item.kunye && item.kunye.trim()) ||
+    (item.caseName && item.caseName.trim());
   return Boolean(hasContent);
 }
 
