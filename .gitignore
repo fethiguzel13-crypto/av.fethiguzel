@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Scraper artifacts
+scraper/node_modules/
+/tmp/
+*.log
+
+# Editor scratch files
+app/mevzuat/Untitled-*.txt
