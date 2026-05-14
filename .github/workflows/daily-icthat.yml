@@ -1,0 +1,50 @@
+name: Günlük İçtihat Çekme
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # 06:00 UTC = 09:00 Türkiye
+  workflow_dispatch:
+
+jobs:
+  scrape-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Node setup
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Root deps
+        run: npm ci
+
+      - name: Scraper deps + Chromium
+        working-directory: scraper
+        run: |
+          npm ci
+          npx playwright install --with-deps chromium
+
+      - name: Run scrapers
+        run: node scraper/scrape-all.js > /tmp/raw.json
+        timeout-minutes: 10
+
+      - name: Build daily.json
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/build-daily.js /tmp/raw.json public/data/
+
+      - name: Commit if changed
+        run: |
+          git config user.name "icthat-bot"
+          git config user.email "bot@fethiguzel.com"
+          git add public/data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: günlük içtihat $(date -u +%Y-%m-%d)"
+            git push
+          fi
