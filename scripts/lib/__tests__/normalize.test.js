@@ -26,3 +26,25 @@ test('normalizeResmiGazete handles empty/missing source gracefully', () => {
   assert.deepEqual(normalizeResmiGazete({ ok: false }), []);
   assert.deepEqual(normalizeResmiGazete({ ok: true, items: [] }), []);
 });
+
+import { normalizeYargitay } from '../normalize.js';
+
+test('normalizeYargitay maps kunye, category, daire, date', () => {
+  const items = normalizeYargitay(fixture.sources.yargitay);
+  assert.equal(items.length, 2);
+  const first = items[0];
+  assert.equal(first.source, 'Yargıtay');
+  assert.equal(first.kunye, 'Y. 11. Hukuk Dairesi, E. 2025/4020, K. 2026/1160, T. 26.02.2026');
+  assert.equal(first.daire, '11. Hukuk Dairesi');
+  assert.equal(first.category, 'Borçlar/Tüketici/Ticaret');
+  assert.equal(first.date, '2026-02-26');
+  assert.equal(first.icon, 'scale');
+  assert.ok(first.id.startsWith('y-'));
+});
+
+test('normalizeYargitay detects HGK category', () => {
+  const items = normalizeYargitay(fixture.sources.yargitay);
+  const hgk = items.find((it) => it.daire === 'Hukuk Genel Kurulu');
+  assert.ok(hgk, 'HGK item should exist');
+  assert.equal(hgk.category, 'HGK');
+});

@@ -33,3 +33,29 @@ export function normalizeResmiGazete(rawSource) {
     url: it.href || ''
   }));
 }
+
+function ddmmyyyyToIso(s) {
+  if (!s || typeof s !== 'string') return '';
+  const m = s.match(/^(\d{2})[.\/](\d{2})[.\/](\d{4})$/);
+  if (!m) return '';
+  return `${m[3]}-${m[2]}-${m[1]}`;
+}
+
+export function normalizeYargitay(rawSource) {
+  if (!rawSource || rawSource.ok === false || !Array.isArray(rawSource.items)) return [];
+  return rawSource.items.map((it) => ({
+    id: slugifyId('y', it.id || `${it.esas}-${it.karar}`.replace(/\//g, '-')),
+    source: 'Yargıtay',
+    sourceLabel: 'Yargıtay',
+    kunye: it.kunye || '',
+    daire: it.daire || '',
+    esas: it.esas || '',
+    karar: it.karar || '',
+    category: it.category || (it.daire?.includes('Genel Kurulu') ? 'HGK' : 'Diğer'),
+    icon: 'scale',
+    konu: it.konu || '',
+    publicSummary: '',
+    date: ddmmyyyyToIso(it.tarih),
+    url: `https://karararama.yargitay.gov.tr/`
+  }));
+}
