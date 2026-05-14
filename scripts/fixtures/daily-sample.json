@@ -1,0 +1,59 @@
+{
+  "generatedAt": "2026-05-15T06:00:00Z",
+  "dateLabel": "15 Mayıs 2026",
+  "highlights": [
+    {
+      "id": "aym-2022-41459",
+      "source": "AYM",
+      "sourceLabel": "Anayasa Mahkemesi",
+      "icon": "landmark",
+      "category": "Bireysel Başvuru",
+      "kunye": "AYM, B. No: 2022/41459, K.T. 11/03/2026, Birinci Bölüm",
+      "konu": "Disiplin cezasına ilişkin başvuru",
+      "publicSummary": "Cezaevindeki disiplin cezasına itirazda adil savunma hakkı engellendi.",
+      "date": "2026-03-11",
+      "url": "https://kararlarbilgibankasi.anayasa.gov.tr/"
+    },
+    {
+      "id": "y-yibk-123",
+      "source": "Yargıtay",
+      "sourceLabel": "Yargıtay",
+      "icon": "scale",
+      "category": "YİBK",
+      "kunye": "YİBK 2026/1, T. 10/03/2026",
+      "konu": "İçtihadı birleştirme kararı",
+      "publicSummary": "Kefalet sözleşmelerinde yazılı şekil zorunluluğunun kapsamı netleştirildi.",
+      "date": "2026-03-10",
+      "url": "https://karararama.yargitay.gov.tr/"
+    },
+    {
+      "id": "hudoc-001-1",
+      "source": "AİHM",
+      "sourceLabel": "AİHM",
+      "icon": "flag",
+      "category": "Türkiye Kararı",
+      "caseName": "AFFAIRE YASAK c. TÜRKİYE",
+      "appNo": "17389/20",
+      "importance": "1",
+      "konu": "Violation de l'article 7",
+      "publicSummary": "Türkiye'nin geriye dönük yasa uygulaması ifade özgürlüğünü ihlal etti.",
+      "date": "2026-05-05",
+      "url": "https://hudoc.echr.coe.int/eng?i=001-250158"
+    },
+    {
+      "id": "rg-20260513-2",
+      "source": "RG",
+      "sourceLabel": "Resmî Gazete",
+      "icon": "scroll-text",
+      "category": "Yönetmelik",
+      "title": "Konkordato Talebi Yönetmeliğinde Değişiklik",
+      "konu": "İflas erteleme süreci için yeni belge zorunlulukları",
+      "publicSummary": "Konkordato başvurusunda istenen belgeler güncellendi.",
+      "date": "2026-05-13",
+      "url": "https://www.resmigazete.gov.tr/eskiler/2026/05/20260513-2.htm"
+    }
+  ],
+  "items": { "resmigazete": [], "yargitay": [], "aym": [], "hudoc": [], "mevzuat": [] },
+  "stats": { "totalItems": 4, "perSource": {} },
+  "errors": []
+}
