@@ -41,12 +41,11 @@ export default function Hero() {
             AV. FETHİ GÜZEL & DANIŞMANLIK
           </h2>
           <h1 className="hero-fade text-5xl md:text-8xl text-cream font-bold leading-[1.1] mb-8">
-            <span className="block font-sans">Hukuk bir</span>
-            <span className="block font-drama italic text-accent mt-2">Zanaattır.</span>
+            <span className="block font-sans">Van ve Erciş Bölgesinde</span>
+            <span className="block font-drama italic text-accent mt-2">Hukuki Danışmanlık ve Dava Vekilliği.</span>
           </h1>
           <p className="hero-fade text-cream/70 text-lg md:text-xl max-w-xl mb-12 font-sans leading-relaxed">
-            Özel hukuk alanında akademik derinlik ve stratejik yaklaşımla karmaşık hukuki süreçlerinizi 
-            bir sanatçı titizliğiyle yönetiyoruz.
+            Kapsamlı hukuki uyuşmazlıkların çözümünde, akademik derinlik ve profesyonel meslek etiğiyle yanınızdayız.
           </p>
           <div className="hero-fade flex flex-wrap gap-4">
             <button className="group relative flex items-center gap-4 bg-accent text-white px-8 py-4 rounded-full font-bold transition-all hover:pr-10 shadow-lg shadow-accent/20">

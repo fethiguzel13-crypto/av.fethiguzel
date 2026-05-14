@@ -9,12 +9,12 @@ import { FileText, ArrowUpRight } from 'lucide-react';
 gsap.registerPlugin(ScrollTrigger);
 
 const articles = [
-  { category: "Borçlar Hukuku", title: "Adam Çalıştıranın Sorumluluğu", desc: "İşverenin, çalışanlarının verdiği zararlardan doğan hukuki sorumluluğunun sınırları." },
-  { category: "Sözleşmeler Hukuku", title: "Genel İşlem Şartları", desc: "Sözleşmelerdeki tek taraflı dayatılan şartların geçerliliği ve zayıf tarafın korunması." },
-  { category: "Tazminat Hukuku", title: "Malpraktis (Hekim Hatası)", desc: "Tıbbi müdahalelerden doğan hukuki ve cezai sorumluluk, haksız fiil kapsamında değerlendirme." },
-  { category: "Miras Hukuku", title: "Miras Hukuku İhtilafları", desc: "Muris muvazaası, saklı payın ihlali ve tenkis davalarında özellik arz eden hususlar." },
-  { category: "Medeni Usul Hukuku", title: "Kanun Yolları", desc: "İstinaf ve temyiz süreçlerinde kanun yolları hukukunun temel esasları." },
-  { category: "Alternatif Çözüm", title: "Arabuluculuk Uygulamaları", desc: "Dava şartı ve ihtiyari arabuluculuk süreçleri, ilam niteliğindeki tutanaklar." }
+  { category: "Ceza Hukuku", title: "Hükmün Açıklanmasının Geri Bırakılması (HAGB) ve Şartları", desc: "Ceza yargılamasında sanık lehine uygulanan HAGB kurumunun hukuki niteliği ve sonuçları." },
+  { category: "Aile Hukuku", title: "Mal Rejimi Tasfiyesi", desc: "Çekişmeli ve anlaşmalı boşanma davalarında edinilmiş mallara katılma rejiminin güncel içtihatlarla analizi." },
+  { category: "Miras Hukuku", title: "Saklı Pay ve Tenkis Davası", desc: "Mirasbırakanın tasarruf özgürlüğünün sınırları ve saklı paylı mirasçıların haklarının korunması." },
+  { category: "Tazminat Hukuku", title: "Araç Değer Kaybı ve Tazminat", desc: "Trafik kazalarından kaynaklanan maddi/manevi tazminat ile araç değer kaybı taleplerinin hukuki zemini." },
+  { category: "Gayrimenkul Hukuku", title: "İzale-i Şüyu Davası", desc: "Ortaklığın giderilmesi davasında usul, ihale aşaması ve paydaşların yasal hakları." },
+  { category: "İş Hukuku", title: "Haklı Nedenle Fesih ve Kıdem", desc: "İşveren ve işçi uyuşmazlıklarında iş sözleşmesinin haklı nedenle feshi ve kıdem tazminatı şartları." }
 ];
 
 export default function Articles() {

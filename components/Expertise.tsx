@@ -8,10 +8,7 @@ import { Scale, FileText, Calendar, Activity } from 'lucide-react';
 gsap.registerPlugin(ScrollTrigger);
 
 const TypewriterCard = () => {
-  const [text, setText] = useState("");
-  const fullText = "E-Duruşma Protokolü Aktif... Dosya İnceleniyor... Usul Ekonomisi Gözetiliyor... Hukuki Dinlenilme Hakkı Tesis Ediliyor.";
-  
-  useEffect(() => {
+  const fullText = "Ağır Ceza Mahkemesi... Asliye Ceza Mahkemesi... Soruşturma Aşaması... Savunma Stratejisi Belirleniyor.";
     let i = 0;
     const interval = setInterval(() => {
       setText(fullText.slice(0, i));
@@ -25,11 +22,11 @@ const TypewriterCard = () => {
       <div>
         <div className="flex items-center gap-2 mb-6">
           <div className="w-2 h-2 bg-accent rounded-full animate-pulse"></div>
-          <span className="font-mono text-[10px] text-accent tracking-widest uppercase">Canlı Usul İzleme</span>
+          <span className="font-mono text-[10px] text-accent tracking-widest uppercase">Etkin Savunma</span>
         </div>
-        <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">Medeni Usul & Teknoloji</h3>
+        <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">Ceza ve İnfaz Hukuku</h3>
         <p className="text-charcoal/60 text-sm font-sans mb-6">
-          E-duruşma ve dijital yargılama süreçlerinde akademik uzmanlıkla usul ekonomisini sağlıyoruz.
+          Ağır ceza, bilişim ve ekonomik suçlarda etkin savunma stratejileri geliştiriyoruz.
         </p>
       </div>
       <div className="bg-charcoal p-6 rounded-2xl font-mono text-cream/80 text-[11px] leading-relaxed">
@@ -41,10 +38,10 @@ const TypewriterCard = () => {
 
 const ShufflerCard = () => {
   const clauses = [
-    "İrade Özerkliği İlkesi",
-    "Sözleşme Serbestisi",
-    "Dürüstlük Kuralı (TMK 2)",
-    "Haksız Fiil Sorumluluğu"
+    "Anlaşmalı Boşanma",
+    "Çekişmeli Boşanma",
+    "Mal Rejimi Tasfiyesi",
+    "Vasiyetname İptali"
   ];
   const [items, setItems] = useState(clauses);
 
@@ -63,9 +60,9 @@ const ShufflerCard = () => {
   return (
     <div className="bg-cream rounded-[2rem] p-8 border border-charcoal/10 h-full flex flex-col justify-between">
       <div>
-        <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">Borçlar Hukuku</h3>
+        <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">Aile ve Miras Hukuku</h3>
         <p className="text-charcoal/60 text-sm font-sans mb-6">
-          Sözleşmelerin dinamik yapısını akademik analizlerle güvence altına alıyoruz.
+          Boşanma, mal rejimi ve miras ihtilaflarında hassas süreç yönetimi.
         </p>
       </div>
       <div className="relative h-40 flex items-center justify-center">
@@ -93,9 +90,9 @@ const SchedulerCard = () => {
   return (
     <div className="bg-cream rounded-[2rem] p-8 border border-charcoal/10 h-full flex flex-col justify-between">
       <div>
-        <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">Arabuluculuk</h3>
+        <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">Gayrimenkul ve Eşya Hukuku</h3>
         <p className="text-charcoal/60 text-sm font-sans mb-6">
-          Uyuşmazlıkları mahkeme öncesinde, hızlı ve etkili bir şekilde çözüme kavuşturuyoruz.
+          Tapu iptal, izale-i şüyu ve kamulaştırma davalarında mülkiyet haklarınızı koruyoruz.
         </p>
       </div>
       <div className="bg-white/40 p-6 rounded-2xl">
@@ -114,7 +111,7 @@ const SchedulerCard = () => {
         <div className="h-2 w-full bg-charcoal/5 rounded-full overflow-hidden">
           <div className="h-full bg-accent w-2/3 animate-pulse"></div>
         </div>
-        <p className="mt-4 text-[9px] font-mono text-charcoal/40 uppercase tracking-widest text-center">Müzakere Takvimi Senkronize Ediliyor</p>
+        <p className="mt-4 text-[9px] font-mono text-charcoal/40 uppercase tracking-widest text-center">Keşif ve Bilirkişi Süreci Takip Ediliyor</p>
       </div>
     </div>
   );
@@ -144,8 +141,8 @@ export default function Expertise() {
     <section id="uzmanlik" className="py-32 px-6 bg-cream" ref={containerRef}>
       <div className="max-w-7xl mx-auto">
         <div className="mb-20">
-          <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Uzmanlık Alanları</h2>
-          <p className="text-4xl md:text-5xl text-charcoal font-bold font-sans">Fonksiyonel Hukuki <span className="font-drama italic">Mimari.</span></p>
+          <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Çalışma Alanlarımız</h2>
+          <p className="text-4xl md:text-5xl text-charcoal font-bold font-sans">Hukuki <span className="font-drama italic">Çözümler.</span></p>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">

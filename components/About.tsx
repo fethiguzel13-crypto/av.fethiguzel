@@ -63,23 +63,19 @@ export default function About() {
         {/* Manifesto Content Section */}
         <div className="w-full lg:w-1/2 space-y-12">
           <div className="space-y-6">
-            <h2 className="philo-text text-accent font-heading text-sm tracking-[0.4em] uppercase">Manifesto // Vizyon</h2>
+            <h2 className="philo-text text-accent font-heading text-sm tracking-[0.4em] uppercase">Kurumsal</h2>
             <p className="philo-text text-3xl md:text-5xl text-cream font-bold leading-tight font-sans">
-              Hukuk, statik bir metin değil; <br />
-              <span className="font-drama italic text-accent">Dinamik bir Tasarımdır.</span>
+              Hukuki Temsil <br />
+              <span className="font-drama italic text-accent">ve Danışmanlık.</span>
             </p>
           </div>
           
-          <div className="space-y-8 max-w-xl">
             <p className="philo-text text-cream/60 text-lg md:text-xl font-sans leading-relaxed">
-              Geleneksel hukuk, bürokrasinin gölgesinde kalır. Kağıtlar arasında kaybolan adaletin sesi kısılır. 
-              Biz, hukuku akademik bir disiplin ve teknolojik bir inovasyon olarak görüyoruz.
+              Avukatlık ve hukuki danışmanlık faaliyeti; yasal mevzuata derinlemesine hakimiyet, güncel Yargıtay ve Danıştay içtihatlarının titizlikle takibi ve somut olayın çok yönlü incelenmesini gerektiren kurumsal bir süreçtir. Avukat Fethi Güzel, Van ve Erciş başta olmak üzere bölge genelinde müvekkillerine dava vekilliği ve önleyici hukuk danışmanlığı hizmeti sunmaktadır.
             </p>
             <p className="philo-text text-cream/60 text-lg md:text-xl font-sans leading-relaxed">
-              Her vaka, bir mimari titizliğiyle ele alınmalı; her savunma, bir sanat eseri derinliğinde kurgulanmalıdır. 
-              Akademik derinlik ile hassas çözümler arasındaki köprüyü kuruyoruz.
+              Temel prensibimiz; müvekkillerimizin karşılaştığı ihtilafları meslek etiği kuralları, kesin sır saklama yükümlülüğü ve adaletin tesisi ilkeleri doğrultusunda, objektif hukuki normlara dayanarak çözüme kavuşturmaktır.
             </p>
-          </div>
 
           <div className="philo-text pt-8 border-t border-cream/10 flex items-center gap-8">
             <div>
