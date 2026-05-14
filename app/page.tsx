@@ -7,6 +7,7 @@ import FamilyLaw from "@/components/FamilyLaw";
 import InsuranceLaw from "@/components/InsuranceLaw";
 import PropertyLaw from "@/components/PropertyLaw";
 import Articles from "@/components/Articles";
+import DailyNews from "@/components/DailyNews";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -20,6 +21,7 @@ export default function Home() {
       <FamilyLaw />
       <InsuranceLaw />
       <PropertyLaw />
+      <DailyNews />
       <Articles />
       <Footer />
     </main>
