@@ -37,6 +37,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/build-daily.js /tmp/raw.json public/data/
 
+      - name: Generate tweets
+        env:
+          SITE_DOMAIN: ${{ secrets.SITE_DOMAIN }}
+        run: node scripts/generate-tweets.js public/data/daily.json public/data/twitter-queue.json
+
       - name: Commit if changed
         run: |
           git config user.name "icthat-bot"
