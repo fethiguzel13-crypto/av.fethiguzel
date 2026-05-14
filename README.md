@@ -34,3 +34,40 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Günlük İçtihat Otomasyonu
+
+Site, her sabah otomatik olarak güncel hukuki gelişmeleri (Yargıtay, AYM, AİHM, Resmî Gazete) yayınlar.
+
+**Pipeline:** `.github/workflows/daily-icthat.yml` her gün 06:00 UTC (09:00 TR) tetiklenir:
+
+1. `scraper/scrape-all.js` → ham JSON (Yargıtay, AYM, AİHM, Resmî Gazete)
+2. `scripts/build-daily.js` → normalize + Claude Haiku ile vatandaş özetleri → `public/data/daily.json`
+3. Değişiklik varsa commit + push → Vercel rebuild
+
+**Görünür çıktı:**
+- Ana sayfada "Güncel Hukuki Gelişmeler" bölümü (4 öne çıkan kart) — `components/DailyNews.tsx`
+- `/icthat` sayfası — filtrelenebilir tam künyeli liste
+
+**Secret gereksinimi:** Repo Settings → Secrets → `ANTHROPIC_API_KEY` (Claude Haiku ile vatandaş özeti üretimi için).
+
+### Lokal geliştirme
+
+```bash
+npm install
+cd scraper && npm install && npx playwright install chromium && cd ..
+node scraper/scrape-all.js > /tmp/raw.json
+node scripts/build-daily.js /tmp/raw.json public/data/
+npm run dev
+```
+
+### Script testleri
+
+```bash
+npm run test:scripts
+```
+
+### Spec ve Plan
+
+- [Spec](docs/superpowers/specs/2026-05-14-gunluk-icthat-web-design.md)
+- [Implementation Plan](docs/superpowers/plans/2026-05-14-gunluk-icthat-web.md)
