@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test:scripts": "node --test scripts/lib/__tests__/",
+    "test:scripts": "node --test \"scripts/lib/__tests__/*.test.js\"",
     "build:daily": "node scripts/build-daily.js"
   },
   "dependencies": {
