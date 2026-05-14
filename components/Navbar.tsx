@@ -16,8 +16,9 @@ export default function Navbar() {
 
   const menuItems = [
     { name: 'Hakkımda', href: '/#manifesto' },
-    { 
-      name: 'Medeni Hukuk', 
+    { name: 'Güncel', href: '/icthat' },
+    {
+      name: 'Medeni Hukuk',
       href: '/mevzuat',
       dropdown: [
         { name: 'Başlangıç Hükümleri', href: '/kategori/tmk-baslangic' },
