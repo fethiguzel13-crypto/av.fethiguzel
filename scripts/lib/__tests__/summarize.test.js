@@ -16,8 +16,8 @@ test('buildPrompt uses kunye if title missing', () => {
 });
 
 test('shouldSummarize skips if publicSummary already present', () => {
-  assert.equal(shouldSummarize({ publicSummary: 'Zaten var.' }), false);
-  assert.equal(shouldSummarize({ publicSummary: '' }), true);
+  assert.equal(shouldSummarize({ publicSummary: 'Zaten var.', konu: 'x' }), false);
+  assert.equal(shouldSummarize({ publicSummary: '', konu: 'x' }), true);
   assert.equal(shouldSummarize({ konu: 'x' }), true);
 });
 
