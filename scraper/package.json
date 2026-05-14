@@ -1,0 +1,21 @@
+{
+  "name": "hukuki-icthat-scraper",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Türk hukuk açık erişim sitelerinden günlük içtihat ve mevzuat tarama scriptleri",
+  "scripts": {
+    "scrape:hudoc": "node scrape-hudoc.js",
+    "scrape:yargitay": "node scrape-yargitay.js",
+    "scrape:aym": "node scrape-aym.js",
+    "scrape:resmigazete": "node scrape-resmigazete.js",
+    "scrape:mevzuat": "node scrape-mevzuat.js",
+    "scrape:all": "node scrape-all.js"
+  },
+  "dependencies": {
+    "playwright": "^1.49.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
