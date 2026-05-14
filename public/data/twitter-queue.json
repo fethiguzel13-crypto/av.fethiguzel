@@ -1,0 +1,46 @@
+{
+  "generatedAt": "2026-05-14T18:43:19.012Z",
+  "dateLabel": "14 Mayıs 2026",
+  "tweets": [
+    {
+      "id": "2026-05-14-1",
+      "highlightId": "aym-2022-41459",
+      "text": "AYM: Bir mahpus cezaevi yönetiminin kendisine verdiği ceza için şikâyet etmek istemiş, ancak şikâyet süreci sırasında adil olmayan muamele görmüş ve savunma yapma şansı eşit olmamış olduğunu iddia et\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-14T06:00:00.000Z",
+      "posted": true,
+      "postedAt": "2026-05-14T18:43:27.855Z",
+      "tweetId": null,
+      "error": "test-skip"
+    },
+    {
+      "id": "2026-05-14-2",
+      "highlightId": "aym-2021-60219",
+      "text": "AYM: Birisi polis tarafından tutuklandıktan sonra dövüldüğünü veya kötü muameleye maruz kaldığını iddia ederek Anayasa Mahkemesi'ne şikayetçi olmuş, mahkeme de 2026'da bu şikayeti in\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-14T10:00:00.000Z",
+      "posted": true,
+      "postedAt": "2026-05-14T18:43:27.857Z",
+      "tweetId": null,
+      "error": "test-skip"
+    },
+    {
+      "id": "2026-05-14-3",
+      "highlightId": "aym-2020-35930",
+      "text": "AYM: Bir kamu çalışanı sendikasının nöbet kararına uymadığı için disiplin cezası aldığında, bunun sendika üyesi olma hakkını ihlal edip etmediğini Anayasa Mahkemesi incelemiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-14T14:00:00.000Z",
+      "posted": true,
+      "postedAt": "2026-05-14T18:43:27.857Z",
+      "tweetId": null,
+      "error": "test-skip"
+    },
+    {
+      "id": "2026-05-14-4",
+      "highlightId": "aym-2023-108631",
+      "text": "AYM: Kişi terör örgütü üyeliği suçundan mahkûm edilirken, mahkemenin kararının gerekçesinde önemli savunma noktalarına cevap vermemesi nedeniyle haksızlığa uğradığını söylüyor ve Anayasa Mahk\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-14T18:42:27.857Z",
+      "posted": false,
+      "postedAt": null,
+      "tweetId": null,
+      "error": null
+    }
+  ]
+}
