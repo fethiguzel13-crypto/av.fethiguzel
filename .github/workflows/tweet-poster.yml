@@ -1,0 +1,40 @@
+name: Tweet Poster
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # her 30 dakika
+  workflow_dispatch:
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '20'
+      - run: npm ci
+
+      - name: Post due tweets
+        env:
+          TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+        run: node scripts/post-due-tweets.js public/data/twitter-queue.json
+
+      - name: Commit queue if changed
+        run: |
+          git config user.name "icthat-bot"
+          git config user.email "bot@fethiguzel.com"
+          git add public/data/twitter-queue.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "chore: tweet status update $(date -u +%Y-%m-%dT%H:%M)"
+            git pull --rebase origin main || true
+            git push
+          fi
