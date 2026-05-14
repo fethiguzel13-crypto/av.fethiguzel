@@ -71,3 +71,21 @@ npm run test:scripts
 
 - [Spec](docs/superpowers/specs/2026-05-14-gunluk-icthat-web-design.md)
 - [Implementation Plan](docs/superpowers/plans/2026-05-14-gunluk-icthat-web.md)
+
+## Twitter/X Otomasyonu
+
+Günlük içtihat verisinin 4 öne çıkan öğesi otomatik olarak Twitter/X'e paylaşılır.
+
+**Pipeline:**
+1. Sabah daily workflow `scripts/generate-tweets.js`'i çağırır → `public/data/twitter-queue.json` üretir (4 tweet, scheduledFor: 06/10/14/17 UTC)
+2. `.github/workflows/tweet-poster.yml` her 30 dakikada çalışır
+3. `scripts/post-due-tweets.js` queue'yu okur, vakti gelen tweetleri Twitter API ile post eder (OAuth 1.0a)
+4. Slotlar (TR): 09:00, 13:00, 17:00, 20:00
+
+**Secret gereksinimi:**
+- `TWITTER_API_KEY`, `TWITTER_API_SECRET`, `TWITTER_ACCESS_TOKEN`, `TWITTER_ACCESS_TOKEN_SECRET` (X Developer Portal — Read+Write app permissions)
+- `SITE_DOMAIN` (opsiyonel, varsayılan `avfethiguzel.com`)
+
+**Spec ve Plan:**
+- [Spec](docs/superpowers/specs/2026-05-14-twitter-otomasyon-design.md)
+- [Implementation Plan](docs/superpowers/plans/2026-05-14-twitter-otomasyon.md)
