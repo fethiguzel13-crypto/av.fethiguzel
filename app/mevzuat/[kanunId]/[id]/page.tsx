@@ -104,47 +104,55 @@ export default async function ArticlePage({ params }: Props) {
 
       <main className="pt-48 pb-20 px-6 max-w-5xl mx-auto">
         <ArticleClient>
-          {/* Resmi Metin Kutusu (Karanlık) */}
-          <section className="article-section-official mb-12">
-            <div className="bg-charcoal rounded-[2.5rem] p-8 md:p-14 shadow-2xl relative overflow-hidden group">
-              <div className="absolute top-0 right-0 p-8 opacity-5">
+          {/* Resmi Metin Kutusu (Koyu Yeşil — sitenin primary rengi, göze yumuşak) */}
+          <section className="article-section-official mb-16">
+            <div className="bg-primary rounded-[2.5rem] p-8 md:p-14 shadow-2xl relative overflow-hidden group">
+              <div className="absolute top-0 right-0 p-8 opacity-[0.07]">
                 <Book size={120} className="text-cream" />
               </div>
-              
+
               <div className="flex items-center gap-3 text-accent font-mono text-[10px] tracking-[0.3em] uppercase mb-8">
-                <span className="w-8 h-px bg-accent/30"></span>
+                <span className="w-8 h-px bg-accent/40"></span>
                 RESMİ METİN
               </div>
 
-              <div 
-                className="prose prose-invert prose-lg max-w-none 
-                           text-cream/90
+              <div
+                className="prose prose-invert prose-lg max-w-none
+                           text-cream/95
                            prose-headings:text-cream prose-headings:font-bold
-                           prose-p:text-cream/90 prose-p:leading-[1.9] prose-p:font-light
+                           prose-p:text-cream/95 prose-p:leading-[1.95] prose-p:font-light
                            prose-strong:text-accent prose-strong:font-bold
-                           prose-hr:border-cream/10
-                           prose-li:text-cream/90"
-                dangerouslySetInnerHTML={{ __html: articleData.officialHtml }} 
+                           prose-hr:border-cream/15
+                           prose-li:text-cream/95"
+                dangerouslySetInnerHTML={{ __html: articleData.officialHtml }}
               />
             </div>
           </section>
 
-          {/* Yorum ve Analiz Kutusu (Açık) */}
+          {/* Yorum ve Analiz Kutusu (Açık krem zemin, sol kenarda accent şerit — net ayrım) */}
           {articleData.commentaryHtml && (
             <section className="article-section-commentary mb-16">
-              <div className="bg-white border border-charcoal/5 rounded-[2.5rem] p-8 md:p-14 shadow-sm relative">
-                <div className="flex items-center gap-3 text-accent font-mono text-[10px] tracking-[0.3em] uppercase mb-8">
-                  <span className="w-8 h-px bg-accent/30"></span>
+              <div className="bg-cream/60 border border-charcoal/10 rounded-[2.5rem] p-8 md:p-16 shadow-sm relative overflow-hidden">
+                {/* Sol üstte accent şerit — net görsel ayrım */}
+                <div className="absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-accent via-accent/70 to-transparent"></div>
+
+                <div className="flex items-center gap-3 text-accent font-mono text-[10px] tracking-[0.3em] uppercase mb-16 mt-4">
+                  <span className="w-12 h-px bg-accent/40"></span>
                   AKADEMİK YORUM VE ANALİZ
+                  <span className="flex-1 h-px bg-accent/15"></span>
                 </div>
 
-                <div 
-                  className="prose prose-lg prose-charcoal max-w-none 
-                             prose-p:text-charcoal/80 prose-p:leading-[1.9]
-                             prose-headings:font-heading prose-headings:text-charcoal
+                <div
+                  className="commentary-prose prose prose-lg prose-charcoal max-w-3xl mx-auto
+                             prose-p:text-charcoal/85 prose-p:text-[17px]
+                             prose-headings:font-heading prose-headings:text-charcoal prose-headings:font-bold prose-headings:tracking-tight
                              prose-strong:text-charcoal prose-strong:font-bold
-                             prose-blockquote:border-accent prose-blockquote:bg-charcoal/5 prose-blockquote:p-6 prose-blockquote:rounded-xl"
-                  dangerouslySetInnerHTML={{ __html: articleData.commentaryHtml }} 
+                             prose-em:text-charcoal/90 prose-em:italic
+                             prose-li:text-charcoal/85
+                             prose-blockquote:border-l-4 prose-blockquote:border-accent prose-blockquote:bg-white prose-blockquote:py-6 prose-blockquote:px-8 prose-blockquote:rounded-r-xl prose-blockquote:not-italic prose-blockquote:font-normal prose-blockquote:shadow-sm
+                             prose-hr:border-charcoal/10
+                             prose-a:text-accent prose-a:no-underline hover:prose-a:underline"
+                  dangerouslySetInnerHTML={{ __html: articleData.commentaryHtml }}
                 />
               </div>
             </section>

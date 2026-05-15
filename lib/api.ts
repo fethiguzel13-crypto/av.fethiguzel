@@ -82,12 +82,18 @@ export async function getArticleData(kanunId: string, id: string): Promise<Artic
   const matterResult = matter(fileContents);
   const rawContent = matterResult.content;
   
-  // Split content by "### Bizim Yorumumuz"
-  const splitMarker = "### Bizim Yorumumuz";
-  const parts = rawContent.split(splitMarker);
-  
+  // Split content by either old placeholder ("### Bizim Yorumumuz")
+  // or new commentary marker ("### Akademik Yorum ve Analiz")
+  const splitRegex = /\n### (?:Bizim Yorumumuz|Akademik Yorum ve Analiz)\s*\n/;
+  const parts = rawContent.split(splitRegex);
+
   const officialText = (parts[0] || "").trim();
-  const commentaryText = parts.length > 1 ? parts[1].trim() : "";
+  let commentaryText = parts.length > 1 ? parts[1].trim() : "";
+
+  // If the only commentary content is the legacy placeholder line, treat as empty
+  if (commentaryText === "Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.") {
+    commentaryText = "";
+  }
   
   // Fallback: If officialText is somehow empty but rawContent isn't, use rawContent
   const finalOfficialText = officialText || rawContent;
