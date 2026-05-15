@@ -89,3 +89,45 @@ Günlük içtihat verisinin 4 öne çıkan öğesi otomatik olarak Twitter/X'e p
 **Spec ve Plan:**
 - [Spec](docs/superpowers/specs/2026-05-14-twitter-otomasyon-design.md)
 - [Implementation Plan](docs/superpowers/plans/2026-05-14-twitter-otomasyon.md)
+
+## Akademik Şerh Üretimi (kanun-maddesi-yorumla)
+
+Her TBK/TMK/TTK maddesi için akademik kalitede şerh üretimi: Claude Code skill kurulu (`~/.claude/skills/kanun-maddesi-yorumla/`).
+
+**Kapsam:** ~3214 madde (TBK 649 + TMK 1030 + TTK 1535).
+
+**Pilot durumu (2026-05-14):**
+- TBK Madde 1 — Sözleşmenin kuruluşu ✓
+- TMK Madde 1 — Hukukun uygulanması & hâkimin hukuk yaratma yetkisi ✓
+- TTK Madde 18 — Tacir olmanın hükümleri ✓
+
+**Şablon (her madde, ~4200-4800 kelime markdown):**
+
+1. Maddenin Sistematiği ve Genel Açıklama
+2. Maddedeki Kavramların Analizi
+3. Sistematik İlişkiler
+4. Uygulama: Yargıtay İçtihadı
+5. Pratik Örnek Olaylar
+6. Pratik Uygulama Notları
+7. Eleştirel Değerlendirme
++ Metodolojik Not
+
+**Halüsinasyon kontrolü (sıkı):**
+- Yargıtay künyeleri: yalnız scraper çıktısı veya kullanıcı yapıştırması
+- Doktrin: yalnız `references/doctrine-{kanun}.md` listesindeki yazarlar
+- Sayfa numarası: ASLA
+- Çapraz referans: yalnız gerçek sistematik ilişki
+
+**Skill kullanımı:** Claude Code session'da "TBK Madde 5 yorumla" gibi söyle.
+
+**Frontmatter alanları (yorumlanmış maddeler için):**
+- `commentaryStatus: "completed" | "draft" | "placeholder"`
+- `lastReviewed: "YYYY-MM-DD"`
+- `wordCount: <kelime sayısı>`
+- `keywords: [...]`
+
+**Tipografi:** `app/globals.css` içinde `.commentary-prose` class'ı başlıklar arası bol boşluk, paragraf rahat satır aralığı, h3/h4/h5 renk hiyerarşisi (charcoal/primary/accent) sağlar.
+
+**Spec ve Plan:**
+- [Spec](docs/superpowers/specs/2026-05-14-kanun-maddesi-yorumla-design.md)
+- [Plan](docs/superpowers/plans/2026-05-14-kanun-maddesi-yorumla.md)
