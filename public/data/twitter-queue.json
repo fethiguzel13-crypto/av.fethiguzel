@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-14T18:43:19.012Z",
-  "dateLabel": "14 Mayıs 2026",
+  "generatedAt": "2026-05-15T12:29:08.611Z",
+  "dateLabel": "15 Mayıs 2026",
   "tweets": [
     {
-      "id": "2026-05-14-1",
+      "id": "2026-05-15-1",
       "highlightId": "aym-2022-41459",
-      "text": "AYM: Bir mahpus cezaevi yönetiminin kendisine verdiği ceza için şikâyet etmek istemiş, ancak şikâyet süreci sırasında adil olmayan muamele görmüş ve savunma yapma şansı eşit olmamış olduğunu iddia et\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-14T06:00:00.000Z",
-      "posted": true,
-      "postedAt": "2026-05-14T18:43:27.855Z",
-      "tweetId": null,
-      "error": "test-skip"
-    },
-    {
-      "id": "2026-05-14-2",
-      "highlightId": "aym-2021-60219",
-      "text": "AYM: Birisi polis tarafından tutuklandıktan sonra dövüldüğünü veya kötü muameleye maruz kaldığını iddia ederek Anayasa Mahkemesi'ne şikayetçi olmuş, mahkeme de 2026'da bu şikayeti in\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-14T10:00:00.000Z",
-      "posted": true,
-      "postedAt": "2026-05-14T18:43:27.857Z",
-      "tweetId": null,
-      "error": "test-skip"
-    },
-    {
-      "id": "2026-05-14-3",
-      "highlightId": "aym-2020-35930",
-      "text": "AYM: Bir kamu çalışanı sendikasının nöbet kararına uymadığı için disiplin cezası aldığında, bunun sendika üyesi olma hakkını ihlal edip etmediğini Anayasa Mahkemesi incelemiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-14T14:00:00.000Z",
-      "posted": true,
-      "postedAt": "2026-05-14T18:43:27.857Z",
-      "tweetId": null,
-      "error": "test-skip"
-    },
-    {
-      "id": "2026-05-14-4",
-      "highlightId": "aym-2023-108631",
-      "text": "AYM: Kişi terör örgütü üyeliği suçundan mahkûm edilirken, mahkemenin kararının gerekçesinde önemli savunma noktalarına cevap vermemesi nedeniyle haksızlığa uğradığını söylüyor ve Anayasa Mahk\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-14T18:42:27.857Z",
+      "text": "AYM: Hapishane yönetimi tarafından verilen ceza nedeniyle şikâyet eden kişi, mahkemede savunma yapma olanakları başka tarafa göre daha az olduğu için adaletsiz muamele gördüğünü iddia etmiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-15T06:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
+    },
+    {
+      "id": "2026-05-15-2",
+      "highlightId": "aym-2021-60219",
+      "text": "AYM: Birisi polis tarafından gözaltında döverek yaralanırsa, devlet buna karşı çıkış yapabileceğin bir hakkın olduğu Anayasa Mahkemesi tarafından onaylanmıştır.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-15T10:00:00.000Z",
+      "posted": false,
+      "postedAt": null,
+      "tweetId": null,
+      "error": null
+    },
+    {
+      "id": "2026-05-15-3",
+      "highlightId": "aym-2020-35930",
+      "text": "AYM: Bir kamu çalışanı sendikasının nöbet kararı nedeniyle işten uzaklaştırıldığını ve bunun sendika üyeliğinin korunmasını ihlal ettiğini mahkemeye şikayet etmiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-15T14:00:00.000Z",
+      "posted": false,
+      "postedAt": null,
+      "tweetId": null,
+      "error": null
+    },
+    {
+      "id": "2026-05-15-4",
+      "highlightId": "aym-2023-108631",
+      "text": "AYM: Bir kişi terör örgütüne üye olmaktan mahkûm edildiğinde, mahkemenin kararının gerekçesinde kendisini savunan önemli delilleri ve argümanları göz ardı etmesi, bu kişinin adil yargılanma hakkını ve diğ\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-15T17:00:00.000Z",
+      "posted": false,
+      "postedAt": null,
+      "tweetId": null,
+      "error": null
     }
   ]
 }
