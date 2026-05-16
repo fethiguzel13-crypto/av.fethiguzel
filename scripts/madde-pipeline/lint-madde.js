@@ -67,10 +67,18 @@ function lintFile(filePath) {
     issues.push('Sayfa numarası kalıntısı (s. N veya sf. N)');
   }
 
-  // 4) Şüpheli yazar
+  // 4) Şüpheli yazar — sadece "yazar atıfı kalıbı" durumunda uyar
+  //    Yazar atıfı kalıpları: "Yazar, *Eser*", "Yazar/Yazar2", "Yazar'ın", "Yazar'a göre"
   for (const sus of SUSPECT_AUTHORS) {
-    if (text.includes(sus)) {
-      issues.push(`Şüpheli/liste-dışı yazar: "${sus}"`);
+    const patterns = [
+      new RegExp(`\\b${sus}\\s*,\\s*\\*`),       // "Antalya, *Eser*"
+      new RegExp(`\\b${sus}\\s*/\\s*[A-ZÇĞİÖŞÜ]`), // "Antalya/Diğer"
+      new RegExp(`\\b${sus}'?ın\\s+(eserinde|görüşüne|sistematiğinde)`),
+      new RegExp(`\\b${sus}'?ye?\\s+göre`),
+      new RegExp(`\\bdoktrinde\\s+${sus}\\b`, 'i'),
+    ];
+    if (patterns.some((p) => p.test(text))) {
+      issues.push(`Şüpheli/liste-dışı yazar atfı: "${sus}"`);
     }
   }
 
