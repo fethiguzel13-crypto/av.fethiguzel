@@ -10,7 +10,7 @@
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": null
+      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
     },
     {
       "id": "2026-05-16-2",
@@ -20,7 +20,7 @@
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": null
+      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
     },
     {
       "id": "2026-05-16-3",
