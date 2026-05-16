@@ -9,6 +9,9 @@ gsap.registerPlugin(ScrollTrigger);
 
 const TypewriterCard = () => {
   const fullText = "Ağır Ceza Mahkemesi... Asliye Ceza Mahkemesi... Soruşturma Aşaması... Savunma Stratejisi Belirleniyor.";
+  const [text, setText] = useState("");
+
+  useEffect(() => {
     let i = 0;
     const interval = setInterval(() => {
       setText(fullText.slice(0, i));
