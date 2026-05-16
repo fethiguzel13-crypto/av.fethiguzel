@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-15T12:29:08.611Z",
-  "dateLabel": "15 Mayıs 2026",
+  "generatedAt": "2026-05-16T10:49:05.940Z",
+  "dateLabel": "16 Mayıs 2026",
   "tweets": [
     {
-      "id": "2026-05-15-1",
+      "id": "2026-05-16-1",
       "highlightId": "aym-2022-41459",
-      "text": "AYM: Hapishane yönetimi tarafından verilen ceza nedeniyle şikâyet eden kişi, mahkemede savunma yapma olanakları başka tarafa göre daha az olduğu için adaletsiz muamele gördüğünü iddia etmiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-15T06:00:00.000Z",
+      "text": "AYM: Cezaevinde disiplin cezası alan biri, mahkemeye şikâyet ederken savunma yapma şansı az verildiği için adil yargılanmadığını söylüyor.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-16T06:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-15-2",
+      "id": "2026-05-16-2",
       "highlightId": "aym-2021-60219",
-      "text": "AYM: Birisi polis tarafından gözaltında döverek yaralanırsa, devlet buna karşı çıkış yapabileceğin bir hakkın olduğu Anayasa Mahkemesi tarafından onaylanmıştır.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-15T10:00:00.000Z",
+      "text": "AYM: Bir kişi polis tarafından gözaltında dövüldüğünü söyleyerek Anayasa Mahkemesi'ne başvurmuş ve mahkeme bu şikayeti incelemiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-16T10:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-15-3",
+      "id": "2026-05-16-3",
       "highlightId": "aym-2020-35930",
-      "text": "AYM: Bir kamu çalışanı sendikasının nöbet kararı nedeniyle işten uzaklaştırıldığını ve bunun sendika üyeliğinin korunmasını ihlal ettiğini mahkemeye şikayet etmiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-15T14:00:00.000Z",
+      "text": "AYM: Bir kamu çalışanı sendikasının grev kararına uyup işe gitmeyince disiplin cezası aldı ve bunun sendika özgürlüğünü ihlal ettiğini Anayasa Mahkemesi'ne şikâyet etti.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-16T14:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-15-4",
+      "id": "2026-05-16-4",
       "highlightId": "aym-2023-108631",
-      "text": "AYM: Bir kişi terör örgütüne üye olmaktan mahkûm edildiğinde, mahkemenin kararının gerekçesinde kendisini savunan önemli delilleri ve argümanları göz ardı etmesi, bu kişinin adil yargılanma hakkını ve diğ\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-15T17:00:00.000Z",
+      "text": "AYM: Mahkeme, birinin terör örgütüne üye olduğu için verilen ceza kararını gerekçelendirirken önemli savunmaları cevaplamadığında ve bundan dolayı insan kişi adil yargılanma hakkından mahrum kaldığında Anay\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-16T17:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     }
   ]
 }
