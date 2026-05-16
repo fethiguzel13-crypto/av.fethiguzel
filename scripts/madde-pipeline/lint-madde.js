@@ -82,15 +82,26 @@ function lintFile(filePath) {
     }
   }
 
-  // 5) Bölüm bütünlüğü
+  // 5) Bölüm bütünlüğü (eksik bölüm → ISSUE, sadece uyarı değil)
   const expected = ['#### 1.', '#### 2.', '#### 3.', '#### 4.', '#### 5.', '#### 6.', '#### 7.'];
   for (const e of expected) {
     if (!text.includes(e)) {
-      warnings.push(`Bölüm eksik olabilir: ${e}`);
+      issues.push(`Bölüm eksik: ${e}`);
     }
   }
   if (!/### Metodolojik Not/.test(text)) {
     issues.push('### Metodolojik Not bölümü eksik');
+  }
+
+  // 5b) Minimum gövde uzunluğu (NotebookLM yanıtının yarıda kesilip kesilmediği kontrolü)
+  // Yorum bölümü en az 2000 karakter olmalı
+  const yorumStart = text.search(/### Akademik Yorum ve Analiz/);
+  const metodolojikStart = text.search(/### Metodolojik Not/);
+  if (yorumStart >= 0 && metodolojikStart > yorumStart) {
+    const yorumBody = text.slice(yorumStart, metodolojikStart);
+    if (yorumBody.length < 2000) {
+      issues.push(`Yorum gövdesi çok kısa (${yorumBody.length} karakter) — NotebookLM yanıtı yarıda kesilmiş olabilir`);
+    }
   }
 
   // 6) Frontmatter
