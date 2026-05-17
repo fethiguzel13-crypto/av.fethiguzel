@@ -31,7 +31,7 @@ const ALLOWED_AUTHORS = [
 
 // Yasaklı / şüpheli yazar isimleri (geçmişte hatalı sızanlar)
 const SUSPECT_AUTHORS = [
-  'Antalya', 'Atamer', 'Oğuzman/Öz', 'Yenice', 'Şahiner', 'Çakırca',
+  'Antalya', 'Atamer', 'Yenice', 'Şahiner', 'Çakırca',
   'Hatemi', 'Helvacı',  // doktrin listelerimizde yoklar
   'Reisoğlu', 'Becker', 'Schwenzer',
 ];
