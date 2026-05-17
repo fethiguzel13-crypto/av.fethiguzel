@@ -79,7 +79,6 @@ kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir."*
 Sistematik açıdan yasa koyucu bu normla, üç temel unsuru bünyesinde barındıran 
 bir akit tipi yaratmıştır: **Tam İki Tarafa Borç Yükleyen (Synallagmatik) Yapı,
 İvazlılık ve Sürekli Borç İlişkisi (Dauerschuldverhältnis)**. Sisteminizdeki O.
-Gökhan Antalya ve Pelin Çavdar'a ait *"İfa Güçsüzlüğüne Genel Bakış ve Onun 
 Kira Sözleşmesindeki Görünümü"* başlıklı eserde de isabetle formüle edildiği 
 üzere; *"Kira sözleşmesi, kiraya verenin bir şeyin kullanımını veya kullanımla 
 birlikte ondan yararlanılmasını kiracıya bıraktığı, kiracının da buna karşılık 
@@ -149,7 +148,6 @@ radikal bir diyalektik bağ içindedir:
 
 **A. İfa Güçsüzlüğü (TBK m. 98) ve Kiracının İflası (TBK m. 332) Çatışması:**
 Borçlar hukuku dogmatiğinin kira sözleşmesindeki en muazzam ve teknik 
-yansımalarından biridir. Sisteminizdeki Antalya/Çavdar eserinde derinlemesine 
 incelendiği üzere, kural olarak bir borçlunun ifa güçsüzlüğüne (acze) düşmesi 
 TBK m. 98'de düzenlenmiştir. Ancak kira sözleşmesinin "sürekli" niteliği, 
 kanun koyucuyu özel bir ifa güçsüzlüğü normu ihdas etmeye zorlamıştır: 
@@ -223,7 +221,6 @@ teslim et" der.
 *Dogmatik Analiz:* Bu vakada TBK m. 98 (İfa Güçsüzlüğü) ile TBK m. 332 
 (Kiracının İflası) arasındaki çok ince dogmatik sınır (Trennungsprinzip) 
 sınanmaktadır. İflas İdaresinin savunması dogmatik bir hatadır. Sisteminizdeki 
-Antalya/Çavdar eserinde çok net biçimde ortaya konduğu üzere; TBK m. 332'deki 
 "güvence isteme ve derhâl fesih" mekanizmasının işleyebilmesi için, kiracının 
 **Kiralanan Teslim Edildikten Sonra** iflas etmiş olması şarttır. Olayda 
 iflas 15 Ocak'ta, yani anahtar tesliminden ÖNCE gerçekleşmiştir. *"Kira 
@@ -274,7 +271,6 @@ Ticari AVM veya büyük plaza kiralarında, kiraya verenler matbu sözleşmelere
 (GİK) "Kiracı iflas ederse, konkordato ilan ederse veya acze düşerse, kiraya 
 veren hiçbir ihtara veya güvence talebine gerek kalmaksızın sözleşmeyi derhâl 
 tek taraflı olarak feshedebilir" şeklinde kayıtlar koyarlar. Sisteminizdeki 
-Antalya/Çavdar eserinde net biçimde uyarıldığı üzere; *"Belirtmek gerekir ki, 
 TBK m.332 düzenlemesi her türlü kira ilişkisine uygulanabilir mutlak emredici 
 nitelikte bir hükümdür. Buna göre, kiracının iflası halinde kiraya verenin 
 güvence talep etmeksizin sözleşmeyi feshetmesi veya kiracının iflası halinde 
@@ -314,7 +310,6 @@ hükümlerinin uygulanması ve davanın kabulü ile tahliyeye karar verilmesi hu
 uygundur."*
 
 **Kiracının İflası (TBK m. 332) ve Güvence Talebi** hususunda Yargıtay 3. Hukuk
-Dairesi'nin (Sisteminizdeki Antalya/Çavdar eserinde atıf yapılan 
 paralellikteki) içtihadı şöyledir: *"Kira sözleşmesinin devamı sırasında kiracı
 şirketin iflasına karar verilmiştir. Kiraya veren, TBK m. 332 uyarınca 
 işleyecek kira bedelleri için güvence verilmesini talep etmek zorundadır. 
@@ -353,7 +348,6 @@ zorunluluğu" veya "sözleşmeyi zorla ayakta tutma zorunluluğu", özel hukukun
 genetiğine aykırı, kamusal nitelikli bir idari müdahaledir. 
 
 İkinci felsefi eleştiri, Sisteminizdeki *"İfa Güçsüzlüğüne Genel Bakış"* 
-(Antalya/Çavdar) ve *"Sözleşmenin Uyarlanması"* (Doğan) makaleleri ekseninde 
 değerlendirildiğinde; **Kira Sözleşmesinin Sürekli (Dauerschuldverhältnis) 
 Doğasının Yarattığı İfa Krizlerinde, Kanun Koyucunun Düzenleme Hataları ve 
 Kavramsal Dikkatsizlikleridir**. Kiralayanı kiracının iflasına karşı korumayı 
