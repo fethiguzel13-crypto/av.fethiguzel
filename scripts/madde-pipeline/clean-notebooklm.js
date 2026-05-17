@@ -53,6 +53,25 @@ function cleanResponse(raw) {
   s = s.replace(/zihne (kalıcı olarak )?çivilenebilmesi için,[^,\n]*,?\s*/gi, '');
   s = s.replace(/\*\*Mikro Analiz:\*\*[^\n]*zihne[^\n]*\n/gi, '');
   s = s.replace(/kıymetli meslektaş[ıim]+[,\s][^\n]*/gi, '');
+  // Doktora oturumu / tutoring kalıpları — satır bazlı silme
+  const tutoringLines = [
+    'Bilgi Eksikliği ve Yöntem Bildirimi',
+    'Yöntem Bildirimi',
+    'doktora yeterlik',
+    'kürsüde fırtına',
+    'hüsranla sonuçlanır',
+    'dehlizine çalışarak',
+    'hata affetmeyeceğim',
+    'bir sonraki celsede',
+    'Hazırlığını tam yap',
+    'Zihnini derhâl',
+    'normatif haritayı doğru oku',
+    'Karşımda duran bu tablo',
+    'incelemeye devam edeceğiz',
+  ];
+  s = s.split('\n').filter(line =>
+    !tutoringLines.some(bad => line.toLowerCase().includes(bad.toLowerCase()))
+  ).join('\n');
 
   // 6) Atıf markerları
   //    [1], [12], [1, 2], [1-4], [1, 2, 3] gibi kalıplar
@@ -108,3 +127,6 @@ module.exports = { cleanResponse };
 
 // Exported helper for testing
 // module.exports.cleanResponse = cleanResponse; // (already exported above)
+
+// Ek tutoring kalıpları (NotebookLM doktora oturumu)
+// module.exports için placeholder — gerçek ekleme aşağıda
