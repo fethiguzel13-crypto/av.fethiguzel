@@ -98,7 +98,7 @@ temsil olunanı doğrudan bağlamaz.
 
 **C. Soyutluk İlkesi (Abstraktionsprinzip - Görünmez Zincir ve Altın 
 Anahtar):**
-Bu kavramı zihne çivilemek için şu hafıza tekniğini kullanmalısın: Temsil 
+Temsil 
 yetkisi, üçüncü kişilere gösterilen bir **"Altın Anahtar"**dır (Dış Sınır). 
 Temel ilişki (vekâlet sözleşmesi) ise temsilcinin boynundan temsil olunana 
 bağlı olan **"Görünmez Zincir"**dir (İç Sınır). Fikret Eren ve Oğuzman/Öz'ün 
