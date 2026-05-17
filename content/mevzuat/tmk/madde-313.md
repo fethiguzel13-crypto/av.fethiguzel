@@ -5,11 +5,11 @@ maddeNo: 313
 commentaryStatus: "completed"
 lastReviewed: "2026-05-16"
 keywords:
-  - "soybağı"
-  - "babalık karinesi"
-  - "babalık davası"
-  - "DNA testi"
-  - "çocuğun soy hakkı"
+  - "velayet"
+  - "çocuğun üstün yararı"
+  - "evlat edinme"
+  - "vesayet"
+  - "kayyumluk"
 ---
 
 **B. Erginlerin ve kısıt lıların evlât edinilme si**
@@ -23,190 +23,168 @@ Madde 313 - (Değişik birinci cümle: 3 /7/20 05 - 539 9/1 md.)   Evlât edinen
 ### Akademik Yorum ve Analiz
 
 #### 1. Sistematik
-4721 sayılı Türk Medeni Kanunu'nun İkinci Kitap Aile Hukuku bölümünde, soybağı 
-hukuku başlığı altında yer alan sonradan evlenme, tanıma, babalık karinesi ve 
-babalık hükmü ile soybağının kurulmasını düzenleyen 292 ila 313. maddeler 
-arasındaki kurallar, mehaz İsviçre Medeni Kanunu'nun (ZGB) 252-260. 
-maddelerinden sistematiğimize dâhil edilmiştir. Bu normların 
-temelindeki *ratio legis*, çocuğun nesep (soybağı) hakkının, biyolojik ve 
-hukuki gerçeklik örtüşecek şekilde mutlak bir güvence altına alınması ve 
-evlilik dışı doğan çocukların babalıklarının objektif usuller ile sübjektif hak
-arama hürriyeti çerçevesinde tespit edilmesidir. Yasa koyucu, çocuğun 
-üstün yararı ilkesini merkeze alarak soybağının tesisi için sadece kan bağına 
-değil, tanıma veya babalık davası gibi çeşitli ve esnek hukuki enstrümanlara 
-yer vermiştir.
+4721 sayılı Türk Medeni Kanunu'nun İkinci Kitap Aile Hukuku bölümünde, 
+soybağının şahsi ve mali sonuçları (m. 314-334) velayet (m. 335-346) ve 
+vesayet-kayyımlık sistemini (m. 396-487) kapsayan bu devasa normatif blok, 
+mehaz İsviçre Medeni Kanunu'nun (ZGB) 270 ila 327. maddelerinden iktibas 
+edilerek kurgulanmıştır. Bu geniş düzenleme yelpazesinin *ratio legis*i 
+(kanunun konuluş amacı) çocuğun bedensel, zihinsel, ruhsal ve ahlaki 
+gelişimini güvence altına alan "çocuğun üstün yararı" ilkesi doğrultusunda, 
+ana-babanın temsil, bakım ve malvarlığı yönetimi yükümlülüklerini belirlemek; 
+ana-babanın yokluğu veya yetersizliği halinde ise devletin vesayet makamları 
+aracılığıyla koruyucu müdahalesini (parens patriae) organize etmektir.
+Yasa koyucu, ailenin mülkiyet ve şahıs ilişkilerini düzenlerken otoriteyi kural
+olarak ebeveyne bırakmış ancak kamu düzeni saikiyle sıkı bir yargısal denetim 
+mekanizması öngörmüştür.
 
-Soybağı hukukunun bu detaylı normatif mimarisi, uluslararası hukukun temel 
-metinlerinden olan Birleşmiş Milletler Çocuk Hakları Sözleşmesi'nin 7. 
-maddesiyle doğrudan ve organik bir bağlantı içindedir. Sözleşme, her çocuğun 
-doğumdan itibaren bir isim alma, vatandaşlık kazanma ve mümkün olduğunca kendi 
-ana-babasını bilme (soyunu bilme) ile onlar tarafından bakılma hakkına sahip 
-olduğunu emreder. Türk Medeni Kanunu'ndaki babalık davası ve tanıma 
-kurumları, çocuğun genetik kökenini öğrenme ve biyolojik babasıyla hukuki bir 
-bağ kurma şeklindeki bu evrensel temel hakkının iç hukuktaki en güçlü 
-yansımasıdır.
+Bu bölümlerin temel felsefesi, Birleşmiş Milletler Çocuk Hakları Sözleşmesi'nin
+(BM ÇHS) 3. maddesinde yer alan "çocuğun üstün yararı" ilkesinin doğrudan iç 
+hukuka yansımasıdır. Gerek velayetin tevdii veya kaldırılmasında, gerekse 
+evlat edinme ve vesayet süreçlerinde alınacak tüm idari ve yargısal kararlarda 
+çocuğun yüksek menfaati ana-babanın veya vasinin şahsi menfaatlerinden üstün 
+tutulur. Bu bağlamda, modern aile hukuku çocuğu bir hak objesi değil, 
+korunması ve fikri sorulması gereken bağımsız bir hak süjesi olarak kabul 
+etmiştir.
 
 #### 2. Kavramlar
+**Velayet**
+Ana ve babanın, ergin olmayan çocukları (ve istisnai durumlarda kısıtlanmış 
+ergin çocukları) üzerinde şahısvarlığı, malvarlığı ve temsil konularında sahip 
+oldukları, yasa koyucu tarafından sınırları çizilmiş yetki ve yükümlülükler 
+bütünüdür. TMK m. 335 uyarınca evlilik devam ettiği sürece ana ve baba
+tarafından birlikte kullanılan bu hak, aslında çocuğun üstün yararının 
+sağlanması bakımından bir görev niteliğindedir ve devredilemez, feragat 
+edilemez mutlak bir haktır.
 
-**Soybağı kurulma yolları**
-Çocuk ile ana ve babası arasındaki kan bağına veya hukuki işleme dayanan 
-hısımlık bağının hukuken tesis edilmesini sağlayan temel yollardır. Türk 
-Medeni Kanunu madde 282 uyarınca, çocuk ile ana arasındaki soybağı doğrudan 
-doğruya doğum olayı ile kendiliğinden kurulurken; baba ile çocuk arasındaki 
-soybağı ana ile evlilik, tanıma veya hâkim (mahkeme) kararı ile kurulur. Ayrıca, kan bağına dayanmayan evlat edinme müessesesi de soybağını kuran 
-yapay ve hukuki bir yol olarak kanunda yerini almıştır. Kanun 
-koyucu, babalık statüsünün belirsizliğini ve nesepsizliği önlemek adına bu 
-yolları tahdidi (sınırlı sayı) olarak belirlemiştir.
+**Evlat edinme**
+Kan bağına dayanmayan, ancak mahkeme kararıyla evlat edinen ile evlatlık 
+arasında doğal soybağı ilişkisine eşdeğer (tam evlat edinme sistemi) suni bir 
+hısımlık ve soybağı kuran hukuki müessesedir. TMK m. 305 ve devamında
+küçüklerin evlat edinilmesi, bir yıllık bakım ve eğitim şartı gibi sıkı esasa 
+ilişkin kurallara bağlanmışken; TMK m. 313'te erginlerin ve kısıtlıların evlat 
+edinilmesi daha istisnai şarta (örneğin altsoyun açık muvafakati) tabi 
+tutulmuştur.
 
-**Babalık karinesi**
-Babalık davasında ispat kolaylığı sağlamak amacıyla TMK m. 302'de düzenlenen; 
-davalı erkeğin, çocuğun doğumundan önceki üç yüzüncü gün ile yüz sekseninci gün
-arasında ana ile cinsel ilişkide bulunmuş olmasının, onun babalığına yasal bir 
-karine (varsayım) teşkil etmesi kuralıdır. Bu kural, 180-300 
-gün arası cinsel ilişki eşittir babalık karinesi denklemini kurarak, biyolojik 
-babalığın ağır ispat yükünü davacı anadan alıp, aksini ispat külfetini doğrudan
-davalı erkeğin omuzlarına yüklemektedir. Kanun, bu belirtilen 
-sürenin dışında olsa bile fiilî gebe kalma döneminde davalının ana ile cinsel 
-ilişkide bulunduğunun tespiti hâlinde de aynı karinenin geçerli olacağını 
-öngörmektedir. Bu karine, tıbbi kesinlikten ziyade hayatın olağan akışına 
-dayanan, zayıfı koruyucu hukuki bir kolaylaştırma mekanizmasıdır.
+**Vesayet**
+Velayet altında bulunmayan küçüklerin (TMK m. 404) veya kanunda sayılan haklı 
+sebeplerle (akıl hastalığı, akıl zayıflığı, savurganlık, alkol bağımlılığı, 
+özgürlüğü bağlayıcı ceza) fiil ehliyeti sınırlandırılan erginlerin, şahsi ve 
+mali menfaatlerini korumak amacıyla sulh hukuk mahkemesi (vesayet makamı) 
+kararıyla devlet koruması ve denetimi altına alınmasıdır. Vesayet 
+organları (vasi, vesayet makamı ve denetim makamı) vasıtasıyla kişinin toplumda
+temsili ve malvarlığının yönetimi sağlanır.
 
-**Karinenin çürütülmesi**
-Babalık davasında davalı konumundaki erkeğin, TMK m. 302'de düzenlenen cinsel 
-ilişkiye dayalı babalık karinesini ortadan kaldırmak için başvurabileceği ve 
-aksi durumu kanıtlayacağı ispat faaliyetidir. Davalı erkek, çocuğun 
-babası olmasının imkânsızlığını (örneğin kısırlık, hapis hali veya o tarihte 
-fiziki uzaklık) veya bir üçüncü kişinin (başka bir erkeğin) baba olma 
-olasılığının kendisininkinden daha fazla olduğunu inandırıcı kanıtlarla 
-ispatlarsa karine hukuken geçerliliğini kaybeder. Bu çürütme işlemi 
-günümüzde genellikle modern tıbbın sunduğu imkânlarla, kan ve doku 
-uyuşmazlığına dayalı DNA raporlarıyla gerçekleştirilir. Karine başarıyla 
-çürütüldüğünde, mahkemece babalığa hükmedilmesi talebi reddedilmek zorundadır.
+**Kayyumluk**
+Vesayetten farklı olarak, bir kimsenin fiil ehliyetini kısıtlamayan; sadece 
+belirli işlerin görülmesi (temsil kayyımlığı) veya belirli bir malvarlığının 
+yönetilmesi (yönetim kayyımlığı) amacıyla geçici ve sınırlı yetkiyle atanan 
+yasal koruyuculuk kurumudur. Özellikle velayet altındaki çocuk ile yasal 
+temsilcisi (ana-baba) arasında menfaat çatışması çıktığında (örneğin soybağının
+reddi davasında) çocuğun haklarını korumak üzere TMK m. 426/2 uyarınca mutlaka 
+temsil kayyımı atanır.
 
-**Babalık davası**
-Evlilik dışında doğan ve babasıyla arasında tanıma veya sonradan evlenme 
-yoluyla hiçbir soybağı ilişkisi kurulamamış olan çocuğun biyolojik babasının, 
-mahkeme hükmüyle (cebren) tespit edilmesini sağlayan yenilik doğuran bir 
-davadır. TMK m. 301 uyarınca bu davayı açma hakkı yalnızca ana ve 
-çocuğa tanınmış olup, dava babaya, baba ölmüşse doğrudan onun yasal 
-mirasçılarına karşı yöneltilir. Eskiden ana veya çocuk için 
-öngörülen hak düşürücü süreler, Anayasa Mahkemesi'nin iptal kararlarıyla 
-çocuğun dava hakkı ve kökenini bilme hakkı lehine esnetilmiştir. 
-Dava sonucunda verilecek kabul hükmü, çocuk ile baba arasındaki soybağını salt 
-karar tarihinden değil, doğum anından itibaren geçmişe etkili olarak (makabline
-şamil) kurar.
-
-**DNA testinin rolü**
-Soybağı davalarında maddi gerçeğin re'sen araştırılması ilkesi gereğince, 
-biyolojik babalığın veya analığın neredeyse mutlak bir kesinlikle tespitini 
-sağlayan en güçlü ve bilimsel ispat aracıdır. TMK m. 284 uyarınca taraflar
-ve üçüncü kişiler, soybağının belirlenmesinde zorunlu olan ve sağlıkları 
-yönünden tehlike yaratmayan araştırma ve incelemelere (özellikle kan ve doku 
-örnekleri verilmesine) rıza göstermekle kanunen yükümlüdürler. 
-Davalının bu testi yaptırmaktan haklı bir sebep olmaksızın kaçınması, hâkim 
-tarafından babalık iddiasının davalı aleyhine doğmuş (kabul edilmiş) 
-sayılmasına yol açabilen oldukça ağır bir usuli yaptırıma bağlanmıştır. Modern yargılamada DNA testi, klasik cinsel ilişki karinelerinin yerini 
-alan, maddi gerçeği aydınlatan yegâne mutlak araçtır.
+**Çocuğun üstün yararı**
+Çocuğu ilgilendiren her türlü işlem ve kararda (velayet, kişisel ilişki, evlat 
+edinme, çocuk mallarının sarfı) öncelikle dikkate alınması zorunlu olan; 
+çocuğun bedensel, zihinsel, ruhsal, ahlaki ve toplumsal gelişimini güvence 
+altına almayı hedefleyen temel yorum ve uygulama kriteridir. Bu kavram 
+soyut bir ilke olmayıp, her somut olayın özelliklerine (çocuğun yaşı, yaşadığı 
+çevre, ana-babanın durumu) göre hâkim tarafından mikroskobik olarak 
+değerlendirilmesi gereken bir hukuki standarttır.
 
 #### 3. Sistematik İlişkiler
-- TMK m. 285 (babalık karinesi evli eşler için — TMK m. 302'deki evlilik dışı 
-babalık davası karinesi ile dogmatik karşılaştırma ve karinelerin çakışması 
-zemini).
-- TMK m. 317-325 (soybağının iptali — evlat edinme ile kurulan soybağının 
-kaldırılması ile hukuki ve biyolojik soybağı arasındaki bağın sona ermesi 
-ihtimalleri).
-- TMK m. 326 vd. (soybağının sonuçları — babalık hükmü veya sonradan evlenme 
-ile soybağı kurulduğunda çocuğun nafaka, velayet ve soyadı gibi şahsi ve mali 
-haklara kavuşması).
-- BM ÇHS m. 7 (çocuğun soy bilme hakkı — babalık davasının anayasal ve 
-uluslararası insan hakları hukukundaki temel ve evrensel dayanağı).
+- TMK m. 182 (boşanmada velayet — m. 336'daki velayetin tevdii kurallarıyla 
+doğrudan organik bağ içindedir).
+- TMK m. 195-200 (evlilik birliğinin korunması — çocuğun mallarının yönetimi ve
+korunmasına ilişkin hâkimin müdahalesini gerektiren önlemlerin temelidir).
+- BM ÇHS m. 3, 9, 12, 18-20 (çocuğun üstün yararı ve katılım hakkı — TMK m. 339
+ve velayet hükümlerinin uluslararası dayanağıdır).
+- 5395 sayılı Çocuk Koruma Kanunu (TMK m. 346 vd. koruma önlemleriyle birlikte,
+suça sürüklenen veya korunma ihtiyacı olan çocukların bakım ve barınma 
+tedbirlerini tamamlar).
+- 4787 sayılı Aile Mahkemesi Kanunu m. 5 (uzman raporu alınması zorunluluğu — 
+velayet ve evlat edinme yargılamalarının usuli temelidir).
 
 #### 4. Yargıtay İçtihadı
 "scraper'dan karar yok, ileride güncelle"
 
 #### 5. Pratik Örnek Olaylar
-Olay 1: Evlilik dışında doğan çocuğun anası, çocuğun biyolojik babası olduğunu 
-iddia ettiği davalı erkeğe karşı TMK m. 301 uyarınca babalık davası açmıştır. Davalı erkek, gebelik döneminde başka erkeklerin de ana ile 
-ilişkisi olduğunu ileri sürerek TMK m. 302'deki babalık karinesini çürütmeye ve
-davanın reddini sağlamaya çalışmıştır. Mahkeme, TMK m. 284'ün 
-verdiği yetkiyle re'sen DNA testi yapılmasına karar vermiş; test sonucunda 
-%99.9 oranında davalının biyolojik baba olduğu tıbben kesinleşmiştir. Bu kesin ve bilimsel delil karşısında "üçüncü kişinin baba olma 
-olasılığı" savunması çökmüş, mahkemece babalığa hükmedilerek soybağı geçmişe 
-etkili olarak kurulmuştur.
+Olay 1: Boşanma neticesinde çocuğun velayeti anneye bırakılmıştır. Ancak baba, 
+çocuğun kendi dini ve kültürel inançlarına göre yetiştirilmediğini iddia ederek
+itiraz etmektedir. TMK m. 339 ve 341 uyarınca, çocuğun dini ve genel eğitimini 
+belirleme yetkisi kural olarak velayet hakkına sahip olan eşe aittir. 
+Ancak bu yetki mutlak ve sınırsız olmayıp, "çocuğun üstün yararı" süzgecinden 
+geçirilmek zorundadır. Şayet annenin verdiği eğitim çocuğun bedensel, zihinsel 
+ve ahlaki gelişimini açıkça tehlikeye atıyorsa, baba velayetin değiştirilmesi 
+(TMK m. 183) için mahkemeye başvurabilir; aksi halde velayeti elinde 
+bulunduranın kararı esastır.
 
-Olay 2: Ana ile evlilik dışı ilişki sonucu dünyaya gelen çocuğun biyolojik 
-babası, doğumdan iki yıl sonra ana ile resmî olarak evlenmiş ve nüfus 
-memurluğuna gerekli bildirimi yapmıştır. TMK m. 292 uyarınca, sonradan 
-evlenmeyle soybağı kendiliğinden kurularak çocuk anında evlilik içi çocuk 
-statüsünü kazanmıştır. Şayet ana ile evlenen bu kişi çocuğun 
-biyolojik babası olmasaydı, sonradan evlenme yoluyla soybağı asla 
-kurulamayacak; üvey baba statüsündeki bu kişinin çocukla hukuki soybağı 
-kurabilmesi ancak TMK m. 305 ve devamında düzenlenen evlat edinme kurallarının 
-sıkı şartlarına tabi olacaktı. Bu olay, biyolojik gerçeğin hukuki 
-kurumlara (evlat edinme vs. sonradan evlenme) olan doğrudan ayırıcı etkisini 
-gösterir.
+Olay 2: Vesayet altındaki kısıtlının vasisi, kısıtlıya ait banka hesaplarındaki
+paraları kendi ticari işlerinde kullanarak zarara sebep olmuş ve kısıtlının 
+malvarlığı erimiştir. TMK m. 483 uyarınca vesayet makamı (sulh hukuk 
+mahkemesi) vasinin görevini ağır surette ihlal etmesi veya kısıtlının 
+menfaatlerini tehlikeye atması durumunda onu re'sen vasilikten azletmekle 
+(görevden almakla) yükümlüdür. Ayrıca, vasinin bu yanlış yönetimi 
+nedeniyle doğan zararlardan ötürü, kısıtlının (veya yeni atanan vasinin) eski 
+vasiye karşı sorumluluk (tazminat) davası açma hakkı doğar ve bu süreçte 
+denetim makamı da devreye girer.
 
 #### 6. Pratik Notlar
-- Ananın babalık davası açma hakkındaki 1 yıllık sürenin başlangıç anı kural 
-olarak doğumdan itibaren işlerken; Anayasa Mahkemesi iptalleri ışığında çocuğun
-açacağı babalık davasında süre kısıtlamaları büyük ölçüde çocuğun üstün yararı 
-ekseninde esnetilmiştir.
-- DNA testini (kan veya doku örneği vermeyi) reddetmenin sonuçları: TMK m. 284 
-uyarınca davalı erkeğin rıza göstermekten kaçınması halinde hâkim, babalık 
-karinesini davalı aleyhine gerçekleşmiş (baba olduğu sabit) sayarak doğrudan 
-hüküm kurabilir.
-- Karinenin fiilî gebe kalma dönemini kapsayan istisnası: Doğumdan önceki 
-180-300 gün dışındaki bir tarihte (örneğin erken veya geç doğumlarda) cinsel 
-ilişki yaşanmışsa, bu ilişkinin bilimsel olarak "fiilî gebe kalma" dönemine 
-rastladığı ispatlanırsa babalık karinesi yine de geçerli olur.
-- Ananın babalık davasında temsil yetkisi: Çocuk adına açılacak babalık 
-davasında, ana ile çocuk arasında veya diğer taraflarla menfaat çatışması 
-bulunabileceğinden, çocuğun davasının mahkemece atanacak bir kayyım tarafından 
-temsil edilerek yürütülmesi usuli bir zorunluluktur.
-- Çocuğun soy bilme hakkı ve gizlilik dengesi: Babalık davasında maddi 
-gerçeklik araştırılırken, tarafların şeref ve haysiyetleri ile özel hayatın 
-gizliliği gözetilmeli; ancak bu gizlilik çocuğun biyolojik kökenini öğrenme 
-hakkının asla önüne geçmemelidir.
+- Velayet değişikliği (TMK m. 183) davası açılabilmesi için, ana-babanın 
+başkasıyla evlenmesi veya yer değiştirmesi gibi "yeni olguların" ortaya çıkması
+ve bu durumun çocuğun üstün yararını ihlal etmesi (örneğin bakımın aksaması) 
+şarttır.
+- Ortak velayet modeli, TMK'nın lafzında boşanma sonrası için öngörülmemiş (m. 
+336 "velayeti eşlerden birine verebilir" der) olmakla birlikte, Türkiye'nin 
+taraf olduğu uluslararası sözleşmeler ve Yargıtay'ın güncel içtihatlarıyla 
+eşlerin anlaşması şartıyla pratikte uygulanabilir hale gelmiştir.
+- Evlat edinmede bir yıllık "ön bakım ve eğitim süresi" (TMK m. 305) kesin bir 
+maddi hukuk şartı olup, bu süre evlat edinen ile küçüğün birbirlerine uyum 
+sağlaması ve çocuğun yararının denetlenmesi açısından mahkemece titizlikle 
+incelenir.
+- Vasi atanması ve vesayet işlemlerinde genel görevli ve yetkili mahkeme 
+kısıtlının yerleşim yeri Sulh Hukuk Mahkemesidir; ancak kısıtlanan ergin 
+çocuğun "velayet altında bırakılmasına" karar verilirse (TMK m. 419/3) 
+uyuşmazlıklara Aile Mahkemesi bakar.
+- Velayet, evlat edinme ve kişisel ilişki kararlarında BM ÇHS m. 12 gereğince, 
+idrak çağındaki (genellikle 8 yaş ve üzeri) çocuğun bizzat hâkim veya 
+uzmanlarca dinlenerek görüşünün alınması, yargılamanın geçerliliği için usuli 
+bir zorunluluktur.
 
 #### 7. Eleştirel Değerlendirme
-Türk Medeni Kanunu m. 302'de düzenlenen ve çocuğun doğumundan önceki 180-300 
-gün içinde ana ile cinsel ilişkide bulunmayı doğrudan "babalık karinesi" sayan 
-normun, DNA teknolojisinin ulaştığı mutlak kesinlik çağında gerekliliği ve 
-işlevselliği ciddi şekilde sorgulanmalıdır. Yasa koyucunun 1900'lü 
-yılların başındaki tıbbi imkânsızlıklar ve ispat zorlukları nedeniyle İsviçre 
-Medeni Kanunu'ndan aldığı bu varsayımsal kolaylık, günümüzde mahkemelerin 
-doğrudan Adli Tıp Kurumu'na veya yetkili laboratuvarlara gönderdiği genetik 
-incelemelerle tamamen arkaik bir nitelik kazanmıştır. Nitekim 
-Akıntürk/Ateş Karaman, Kılıçoğlu ve Dural/Öğüz/Gümüş gibi yazarların 
-eserlerinde ve Yargıtay uygulamalarında da vurgulandığı üzere, karinenin 
-varlığı veya çürütülmesinden ziyade doğrudan doğruya genetik inceleme (DNA) 
-sonuçları kesin hükme esas alınmakta; bu kanuni karine fiiliyatta ölü ve 
-gereksiz bir norma dönüşmektedir.
+Velayet ve kişisel ilişki davalarının Türk yargı pratiğindeki en büyük sorunu, 
+idrak çağındaki çocuğun görüşünün alınması ve bu görüşe verilecek hukuki 
+değerin sınırlarının net olmamasıdır. BM Çocuk Hakları Sözleşmesi'nin 12. 
+maddesi ve TMK m. 339 gereğince çocuğun dinlenmesi zorunlu olsa da, adliye 
+koridorlarının pedagojik olmayan atmosferinde ve ebeveyn baskısı (ebeveyne 
+yabancılaşma sendromu) altında alınan beyanlar çoğu zaman çocuğun gerçek 
+iradesini yansıtmamaktadır. Hâkimlerin, çocuğun üstün yararını tespit 
+ederken çocuğun manipüle edilmiş beyanlarına körü körüne bağlı kalmak yerine, 
+dosyaya sunulan uzman (SİR) raporlarını ve ebeveynlerin psiko-sosyal 
+durumlarını çok daha bütüncül bir yaklaşımla değerlendirmesi elzemdir.
 
-Babalık davası (TMK m. 303) ve soybağının reddi davaları için kanunda öngörülen
-1 yıllık hak düşürücü süreler, çocuğun üstün yararı ve "soyunu bilme hakkı" 
-perspektifinden bakıldığında son derece kısa, katı ve hak arama hürriyetini 
-kısıtlayıcı bir yapıya sahiptir. Her ne kadar Anayasa Mahkemesi çeşitli 
-iptal kararlarıyla bu sürelerin yarattığı devasa mağduriyetleri (özellikle 
-çocuğun ve kocanın süreleri bağlamında) gidermeye çalışmış olsa da, 
-soybağı gibi bireyin kimliğini, psikolojik bütünlüğünü ve varoluşsal temelini 
-oluşturan şahsa sıkı sıkıya bağlı ve sürekli bir statünün, şekli zamanaşımı 
-veya hak düşürücü sürelere feda edilmesi çağdaş hukuk devletiyle bağdaşmaz. 
-Bireyin biyolojik kökeniyle hukuki kaydını eşleştirme hakkı ömür boyu süren 
-mutlak bir hak olarak tanınmalı ve süreye tabi tutulmamalıdır.
+Vesayet makamlarının (Sulh Hukuk Mahkemeleri) mevcut iş yükü ve hantal yapısı, 
+kısıtlıların malvarlığının yönetimi ve denetimi hususunda büyük güvenlik 
+zafiyetlerine yol açmaktadır. Vasilerin her yıl vermek zorunda oldukları defter
+ve hesap özetlerinin (TMK m. 438) uzmanlığı olmayan mahkeme kalemlerince 
+fiziki evrak üzerinden şeklen incelenmesi, kısıtlıların mallarının gizlice 
+eritilmesine zemin hazırlamaktadır. Bu hantal sistemin acilen UYAP 
+entegrasyonuna alınması, bankalar, tapu sicil müdürlükleri ve vergi daireleri 
+ile anlık veri paylaşımı yapabilen ve vasinin işlemlerini yapay zekâ 
+algoritmalarıyla denetleyen merkezi bir "Dijital Vesayet Denetim Ağı"nın 
+kurulması çağdaş hukuk devleti olmanın bir gereğidir.
 
-Modern tıbbın gelişimiyle yaygınlaşan yardımcı üreme yöntemleri, donör 
-(sperm/yumurta) bağışı ve taşıyıcı annelik gibi uygulamalar sonucunda doğan 
-çocukların soybağı hakkı, mevcut Türk Medeni Kanunu'nun (TMK m. 292-313) klasik
-cinsel ilişki ve biyolojik genetik bağ odaklı yapısı karşısında devasa bir 
-düzenleme boşluğu (kanun boşluğu) yaratmaktadır. Sperm bankasından alınan 
-anonim donör spermiyle hamile kalan bir kadının çocuğunun, genetik babasının 
-kimliği üzerindeki gizlilik hakkı ile çocuğun soyunu bilme hakkının (BM ÇHS m. 
-7) nasıl bağdaşacağı hususlarında iç hukukumuzda özel hiçbir maddi norm 
-bulunmamaktadır. Klasik kan bağı karineleri üzerinden kurgulanan 
-soybağı sisteminin, biyo-hukuki gelişmeler ışığında "sosyal ebeveynlik", "niyet
-edilen ebeveynlik" ve "genetik köken" kavramlarını birbirinden kesin sınırlarla
-ayırarak acilen ve baştan aşağı yeniden inşa edilmesi gerekmektedir.
+Türk Medeni Kanunu m. 336/3 lafzında yer alan "boşanmada velayet çocuk 
+kendisine bırakılan tarafa aittir" şeklindeki düzenlemenin, günümüzdeki 
+sosyolojik gerçekliklerle bağdaşmayan tekil (münhasır) velayet modelini 
+dayatması ciddi bir hukuk politikası eleştirisini hak etmektedir. Yargıtay her 
+ne kadar uluslararası sözleşmelere atıf yaparak "ortak velayete" kapı aralamış 
+olsa da, bu durum sadece eşlerin "anlaşmalı" olduğu hallerle sınırlı kalmakta, 
+çekişmeli dosyalarda uygulanamamaktadır. Ortak velayetin bir istisna
+değil, kural haline getirileceği; ana ve babanın çocuk üzerindeki 
+sorumluluklarını evlilik sonrası da eşit şekilde paylaşmalarını emreden açık ve
+emredici bir yasal reformun (TMK m. 336 revizyonu) Türkiye Büyük Millet Meclisi
+tarafından ivedilikle hayata geçirilmesi gerekmektedir.
 
 ---
 
@@ -219,10 +197,10 @@ Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerç
 - *Doktrin*: Mustafa Dural / Tufan Öğüz, *Türk Özel Hukuku Cilt I — Temel Kavramlar ve Medeni Kanunun Başlangıç Hükümleri*; Mustafa Dural / Tufan Öğüz, *Türk Özel Hukuku Cilt II — Kişiler Hukuku*; Şener Akyol, *Medeni Hukuk — Şahsın Hukuku*; Bilge Öztan, *Şahsın Hukuku Hakiki Şahıslar*; Turgut Akıntürk / Derya Ateş Karaman, *Türk Medeni Hukuku — Aile Hukuku*; Ahmet M. Kılıçoğlu, *Aile Hukuku*.
 - *Yargı kararları*: Türk Medeni Kanunu m. 313'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
 - *Tarihsel arka plan*: 4721 sayılı Türk Medeni Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Medeni Kanunu (Schweizerisches Zivilgesetzbuch — ZGB) Art. 252-260.
+- *Karşılaştırmalı hukuk*: İsviçre Medeni Kanunu (Schweizerisches Zivilgesetzbuch — ZGB) Art. 270-327.
 
 **Yorumun kapsamı**: Bu çalışma, 4721 sayılı Türk Medeni Kanunu'nun 1 Ocak 2002'de yürürlüğe giren 313. madde metnine dayanır.
 
-**Görüş**: DNA teknolojisi çağında babalık karinesinin nesnel biyolojik verilerle desteklenmesinin zorunlu olduğu; 1 yıllık hak düşürücü sürenin çocuğun üstün yararı açısından yeniden değerlendirilmesi; yardımcı üreme teknolojileriyle doğan çocukların soybağı hakkı için açık mevzuat düzenlemesi gerektiği görüşü benimsenmiştir.
+**Görüş**: Çocuğun üstün yararı ilkesinin tüm velayet, vesayet ve evlat edinme kararlarında tutarlı biçimde uygulanması; ortak velayet modelinin yasal zemine kavuşturulması; vesayet sisteminin dijitalleştirilmesi gerektiği görüşü benimsenmiştir.
 
 **Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
