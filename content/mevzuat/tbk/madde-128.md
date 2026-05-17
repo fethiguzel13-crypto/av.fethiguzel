@@ -200,7 +200,7 @@ sert laboratuvarıdır. Normalde Yargıtay (1984 tarihli İBK) inşaat %90'ın
 işlemi ileriye etkili feshe çevirir. ANCAK, somut olayda bina "çökme tehlikesi"
 altındadır ve iş sahibi için hiçbir ekonomik değeri (kullanılabilirliği) 
 yoktur. Turgut Öz'ün eserlerinde de (İş Sahibinin Eser Sözleşmesinden Dönmesi, 
-s. 158 vd.) ifade edildiği gibi, eserin kullanılamayacak derecede ayıplı 
+[sayfa] vd.) ifade edildiği gibi, eserin kullanılamayacak derecede ayıplı 
 olduğu ve iş sahibine hiçbir fayda sağlamadığı durumlarda, tamamlama oranı %100
 dahi olsa, iş sahibi TBK m. 475 uyarınca sözleşmeden dönebilir (ex tunc). Bina 
 yıkılır, masrafı (X)'e yüklenir. Yargıtay'ın istisnai içtihadı da bu yöndedir; 

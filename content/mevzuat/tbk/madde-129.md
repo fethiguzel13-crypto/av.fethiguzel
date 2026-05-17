@@ -113,7 +113,7 @@ etme (kabza yetkili olma)" sıfatı vardır. Vaat edeni (vekili) ifaya zorlama,
 ona karşı dava açma hakkı yoktur. Asıl alacaklı hâlâ müvekkildir.
 2. *Tam Üçüncü Kişi Yararına Sözleşme:* Üçüncü kişinin, edimin ifasını 
 "doğrudan doğruya" vaat edenden (vekilden) talep ve dava etme hakkı vardır. 
-Şener Akyol'un eserinde (Tam Üçüncü Şahıs Yararına Sözleşme, s. 92) incelendiği
+Şener Akyol'un eserinde (Tam Üçüncü Şahıs Yararına Sözleşme, [sayfa]) incelendiği
 üzere, bu hakkın doğabilmesi için tarafların bu yönde açık veya zımni bir 
 iradelerinin olması veya âdetin bunu gerektirmesi şarttır.
 
@@ -300,7 +300,7 @@ Tandoğan'ın eserleri ekseninde; "Dolaylı Temsil ile Sınırların Belirsizli�
 eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
 
 Birinci ve en sert felsefi eleştiri, Sistemindeki Şener Akyol (Tam Üçüncü Şahıs
-Yararına Sözleşme, s. 92) ve Tandoğan atıflarında da işaret edildiği üzere;
+Yararına Sözleşme, [sayfa]) ve Tandoğan atıflarında da işaret edildiği üzere;
 **Türk Hukukunda Üçüncü Kişinin Hakkının Dogmatik Olarak Nereden Doğduğu 
 Konusundaki (Türevsel Kazanım vs. Asli Kazanım) Teorik Boşluktur**. Fikret Eren
 ve Turgut Öz'ün öğretilerinde de haklı olarak tartışıldığı gibi; üçüncü kişi, 
