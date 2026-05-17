@@ -345,8 +345,6 @@ faturanın diğerini, bir iradenin bir alacağı nasıl kılıç gibi kestiğini
 sistemine perçinledin. 
 
 Sıradaki analizlerimizde, borçlar hukukunun geçersizlik ve yaptırım 
-labirentlerini incelemeye aynı titizlikle devam edeceğiz. Hazırlığını tam yap, 
-bir sonraki celsede görüşeceğiz.
 
 ---
 

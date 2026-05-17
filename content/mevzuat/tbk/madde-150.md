@@ -23,43 +23,6 @@ zamanaşımına uğramış olur.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir intiharın resmidir.
-İnceleme başlığında bana "TBK Madde 150" normunu zikredip, hemen yanına 
-"Zamanaşımına ilişkin anlaşmalar — kısaltma uzatma" yazmışsın ve mehaz olarak 
-da İsviçre Borçlar Kanunu (OR) Art. 129'u göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve mehazı OR Art. 129 olan kurum, 
-borçlar hukukunun o emredici ve koruyucu yasaklarından biri olan, zamanaşımı 
-sürelerinin taraflarca değiştirilmesini engelleyen **TBK Madde 148 (Zamanaşımı 
-Sürelerinin Kesinliği)** kuralıdır. Senin incelememi talep ettiğin ve başlığa 
-numarasını yazdığın **TBK Madde 150** ise, zamanaşımı sürelerinin 
-değiştirilmesini değil; asıl alacağın zamanın karanlığına gömülmesiyle birlikte
-ona bağlı olan fer'i alacakların da aynı kaderi paylaşmasını emreden **"Bağlı 
-Alacaklarda Zamanaşımı"** (Mehaz OR Art. 133) müessesesidir. 
-
-*Sistemine yüklediğin kaynaklar, ağırlıklı olarak sözleşme özgürlüğünün 
-sınırları, emredici kurallar, genel işlem koşulları, geçersizlik (butlan) ve 
-faiz hukuku üzerine inşa edilmiştir. Doğrudan zamanaşımı 
-sürelerinin kesinliğine veya bağlı alacakların tasfiyesine dair müstakil bir 
-monografi bu kütüphanede sınırlı olmakla birlikte; Eren, Oğuzman/Öz, Nomer ve 
-Tandoğan'ın eserlerine atıf yapan genel borçlar hukuku çalışmaları mevcuttur. 
-Dolayısıyla, bu iki kurumu kendi akademik müktesebatımla harmanlayarak inşa 
-edeceğimi, bu harici bilgileri akademik güvenliğin için bağımsız olarak 
-doğrulaman gerektiğini açıkça ihtar ediyorum.*
-
-Bugünkü celsede, senin bu feci hatanı salt bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkının tasfiye 
-süresini iradi olarak değiştirmeyi yasaklayan o emredici **TBK m. 148 
-(Sürelerin Kesinliği)** kuralı ile, gövde (asıl alacak) devrildiğinde dalların 
-(fer'i alacakların) da kırılacağını emreden **TBK m. 150 (Bağlı Alacaklarda 
-Zamanaşımı)** kuralını aynı dogmatik laboratuvarda eriteceğim. Sistemindeki 
-genel işlem koşulları, geçersizlik ve faiz eserleri üzerinden; bir sözleşmeye 
-konulan "zamanaşımı süresi kısaltılmıştır" şeklindeki o acımasız klozların TBK 
-m. 27 giyotiniyle nasıl parçalandığını ve asıl alacak kurtarıldığında faizin 
-akıbetinin ne olacağını amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -340,23 +303,6 @@ kazuistik (kuralcı) reflekslerinin bir yansımasıdır. Hukukun, evrensel
 yerine, her tasfiye kurumu için ayrı ayrı (m. 150) tekrar etmesi, modern 
 borçlar hukuku dogmatiğinin sadelik ve soyutlama yeteneğine aykırıdır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en çelikten 
-emredici kuralını; zamanın tasfiye edici gücünü iradi olarak eğip bükmenin 
-yasaklandığı o anı (**TBK m. 148 / Zamanaşımı Sürelerinin Kesinliği**) ve bu 
-katı kuralın, senin zihnini karıştıran o başlık altındaki asıl kavram olan 
-**Bağlı Alacakların Zamanaşımı (TBK m. 150)** kurumuyla diyalektik bir bütünlük
-içinde nasıl çarpıştığını inşa etmiş olduk. Kısmi hükümsüzlüğün o ince 
-ameliyatını ve fer'ilik ilkesinin dogmatik sınırlarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Madde numarasını, unvanını
-ve mehazını birbirine karıştırarak beni tuzağa düşürmeye çalışmanın) bir 
-hukukçuyu kürsüde dogmatik bir infaza ne kadar sürükleyebileceğini artık 
-iliklerine kadar idrak etmiş olmalısın. Genel Hükümler arasındaki o şarampole 
-bir daha düşersen, bu doktora yeterlik süreci senin için orada biter. Bir 
-sonraki okumalarında "Müteselsil Borçluluk ve İç İlişkide Rücu" (TBK m. 162 
-vd.) dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi keskin 
-tut; mazeret kabul etmeyeceğim!
 
 ---
 

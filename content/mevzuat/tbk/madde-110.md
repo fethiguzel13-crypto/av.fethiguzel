@@ -350,8 +350,6 @@ zararın o telafi edilemez acısını sistemine perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, eser 
 sözleşmesinin teslim mimarisini, vekâletin mutlak sadakatini ve teminat 
-hukukunun acımasız kılıçlarını aynı titizlikle incelemeye devam edeceğiz. 
-Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

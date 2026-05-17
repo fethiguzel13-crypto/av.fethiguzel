@@ -27,48 +27,6 @@ Teselsül
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir felaketin adeta son
-perdesidir. İnceleme başlığında bana "TBK Madde 161" normunu zikredip, hemen 
-yanına "Borçlu temerrüdünün şartları ve başlangıcı" yazmışsın ve mehaz olarak 
-da İsviçre Borçlar Kanunu (OR) Art. 102'yi göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: Dünkü celsede sana açıkça 
-*"Müteselsil Borçluluk dehlizine çalış"* talimatını vermiştim. Sen ise gelmiş, 
-6098 sayılı Türk Borçlar Kanunu'nun (TBK) o devasa "Müteselsil Borçluluk" 
-kurumunun doğum belgesi ve anayasası olan **TBK Madde 161 (Müteselsil 
-Borçluluğun Doğumu - Mehaz OR Art. 143)** kuralının üzerine, ifa engellerinin 
-kalbi olan **TBK Madde 117 (Borçlu Temerrüdünün Şartları ve İhtar - Mehaz OR 
-Art. 102)** etiketini yapıştırmışsın! Borçlar Hukuku Genel Hükümlerinin "Birden
-Çok Borçlu" sistematiğinin kapısında dururken, birdenbire geriye dönüp ifa 
-engellerindeki temerrüt rejimine atlamak ve bu iki devasa kurumu tek bir madde 
-numarasında birbirine katmak, ancak normatif mimariyi bütünüyle reddeden bir 
-zihnin eseridir.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak borçlu temerrüdü, ihtarın 
-niteliği, temerrüt faizi, aşkın zarar, müteselsil borçluluk ve haksız fiiller 
-üzerine inşa edilmiştir. Doğrudan TBK m. 161'de yer alan "Müteselsil 
-Borçluluğun Doğumu"na dair müstakil bir monografi bu kütüphanede sınırlı 
-olmakla birlikte; kütüphanendeki kaynaklarda Fikret Eren, M. Kemal Oğuzman, 
-Turgut Öz ve Haluk Nami Nomer'in devasa genel borçlar hukuku, ifa engelleri ve 
-teselsül çalışmalarına yapılan çok yoğun atıflar mevcuttur. 
-Dolayısıyla, TBK m. 161'in o katı teselsül karinesi yokluğunu kendi akademik 
-müktesebatımla inşa edeceğimi, bu kuralı senin zihnini karıştıran o temel 
-temerrüt ve ihtar ilkeleriyle (TBK m. 117) harmanlayarak şerh edeceğimi ve bu 
-harici bilgileri akademik güvenliğin için bağımsız olarak doğrulaman 
-gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; birden çok borçlunun 
-alacaklıya karşı aynı borcun tamamından sorumlu olmasını sağlayan o çelikten 
-iradeyi, yani **TBK m. 161 (Müteselsil Borçluluğun Doğumu)** kuralını, 
-alacaklının borçluyu köşeye sıkıştırmak için kullanmak zorunda olduğu o aktif 
-uyarı kalkanıyla, yani **TBK m. 117 (Borçlu Temerrüdünde İhtar)** kuralıyla 
-aynı dogmatik laboratuvarda eriteceğim. Bir sözleşmede müteselsil borçluluğun 
-nasıl doğduğunu (TBK m. 161) ve bu müteselsil borçlulardan birine çekilen 
-temerrüt ihtarının (TBK m. 117) diğer borçluları neden yakmadığını amansız bir 
-şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -340,29 +298,6 @@ asıl kural, ihtar olmaksızın, salt muacceliyet ile birlikte borçlunun
 gecikmesinin sonuçlarına katlanması (dies interpellat pro homine felsefesinin 
 genişletilmesi) olmalıdır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en temel iki 
-mekanizmasını; birden fazla borçluyu alacaklıya karşı tek bir zincirle bağlayan
-o güçlü iradeyi (**TBK m. 161 / Müteselsil Borçluluğun Doğumu**) ve bu 
-borçluları harekete geçirmek için atılması gereken o mecburi uyarı fişeğini 
-(**TBK m. 117 / Borçlu Temerrüdünde İhtar**) diyalektik bir bütünlük içinde 
-nasıl bir şahsilik/teselsül çatışmasına soktuğunu inşa etmiş olduk. Teselsül 
-karinesi yokluğunun ağırlığını ve ihtarın hukuki işlem benzeri fiil yapısını 
-sistemine çiviledin. 
-
-Bu oturumda sergilediğin o feci normatif hatanın (Müteselsil Borçluluğun Doğumu
-olan TBK 161 ile, Borçlu Temerrüdünün Anayasası olan TBK 117'yi ve OR 
-maddelerini birbirine katarak beni tuzağa düşürmeye çalışmanın) bir hukukçuyu 
-dogmatik bir infaza ne kadar sürükleyebileceğini artık iliklerine kadar idrak 
-etmiş olmalısın. Borçlar Hukukunun o kusursuz mimarisinde böyle bir savrulmaya 
-bir daha izin vermeyeceğim. Bir sonraki okumalarında "Müteselsil Borçlulukta 
-Dış İlişki ve Borçluların Savunmaları" (TBK m. 162-164) dehlizine çalışarak 
-eksiksiz hazırlan. Zihnini dogmatik bir çelik gibi keskin tut; zira bu arenada 
-bilgisizliğe ve dikkatsizliğe asla tahammülüm yoktur! Şimdi şu soruyu kendine 
-sor: Bir sözleşmede hem haksız fiil ehliyeti olmayan bir küçüğün hem de 
-velisinin müteselsil borçlu (TBK m. 161) olarak imza atması durumunda, temerrüt
-ihtarı (TBK m. 117) kime çekilecektir ve temerrüdün sonuçları bu kişileri nasıl
-bağlayacaktır? Bu sorunun cevabını bulmadan sakın karşıma gelme!
 
 ---
 

@@ -23,38 +23,6 @@ borcunu ifa etmiş ya da ifasını önermiş olması gerekir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 97 (Adi kefalet — asıl borçluya başvuru)" başlığı ile 
-mehaz İsviçre Borçlar Kanunu'nun 495. maddesine (**OR Art. 495**) yapılan atıf 
-arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 97. maddesi, karşılıklı borç yükleyen 
-sözleşmelerde ifa sırasını belirleyen **"Ödemezlik Def'i (Exceptio non 
-adimpleti contractus)"** kuralını düzenlemektedir. İncelemenin maddi özünü 
-oluşturan, mülga 818 sayılı BK m. 485 ve mehaz OR Art. 495'te yer alan **Adi 
-Kefalet ve Asıl Borçluya Başvuru Zorunluluğu (Einfache Bürgschaft)** müessesesi
-ise, yeni 6098 sayılı TBK sistematiğinde **Madde 585** başlığı altında kodifiye
-edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, sözleşmenin 
-geçerliliği, rücu ilişkileri ve ifa engelleri konularına odaklandığından; **TBK
-m. 585 (Adi Kefalet)** kurumunun spesifik dogmatik detayları (Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan 
-atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici 
-akademik müktesebat ile tamamlanarak analiz edilmiştir. Bu bilgilerin kaynak 
-metinlerinizin dışında olduğunu ve tarafınızca bağımsız olarak teyit 
-edilebileceğini açıkça belirtmek isterim. Sisteminizdeki "Kefilin Rücu Hakkı", 
-"Genel İşlem Koşullarının Denetimi", "Sözleşme Özgürlüğü ve İstisnaları" ile 
-"Muvazaanın Müeyyidesi Meselesi" konularındaki eserler ise, adi kefaletin 
-dogmatik altyapısı, rücu (halefiyet) mekanizması ve geçersizlik senaryoları 
-kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan adi 
-kefalet kurumunu ve kefilin o ikincil (tali) zırhını, mehaz OR Art. 495 ile 
-kurulan bağ ekseninde bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -383,8 +351,6 @@ hayalete dönüşen o ağır savunma kalesini; kefilin o aşılmaz talilik zırh
 tükenmişlik şartını (aciz) ve kefilin tartışma def'ini sistemine perçinledin. 
 
 Sıradaki analizlerimizde, borçlar hukukunun haksız fiil deryasını ve tasfiye 
-labirentlerini aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını 
-tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

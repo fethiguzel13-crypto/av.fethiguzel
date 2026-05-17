@@ -21,39 +21,6 @@ tarafından olan alacağını takas edemez.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu manzara, doktora 
-yeterlik aşamasına gelmiş bir hukukçu adayı için normatif ve sistematik bir 
-çöküşün, dogmatik bir intiharın resmidir. İnceleme başlığında bana "TBK Madde 
-141" normunu zikredip, hemen yanına "Ölünceye kadar bakım sözleşmesi — genel" 
-yazmışsın ve mehaz olarak OR Art. 522'yi göstermişsin! 
-
-Zihnini derhâl topla: 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel 
-Hükümlerinde yer alan **TBK Madde 141**, borcu sona erdiren tasfiye mekanizması
-olan takasın önceden engellenmesini sağlayan **"Takastan Feragat"** kurumunu 
-düzenler. İncelemenin maddi özünü oluşturduğunu iddia ettiğin, mehaz İsviçre 
-Borçlar Kanunu OR Art. 522'ye karşılık gelen kurum ise Özel Hükümler 
-sistematiğindeki **"Ölünceye Kadar Bakma Sözleşmesi"** (TBK m. 611 vd.) 
-müessesesidir. 
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-ile Özel Hükümlerdeki Ölünceye Kadar Bakma Sözleşmesinin miras hukuku (muris 
-muvazaası ve tenkis) boyutunu derinlemesine inceleyen eserler üzerine inşa 
-edilmiştir. Doğrudan "Takastan Feragat" kuralının spesifik detaylarına 
-ilişkin bu kütüphanede bir monografi bulunmamaktadır. Dolayısıyla, feragat 
-kurumunun temel kurallarını kendi akademik müktesebatımla inşa edeceğimi, bu 
-harici bilgileri akademik güvenliğin için bağımsız olarak doğrulaman 
-gerektiğini açıkça ihtar ediyorum. 
-
-Ancak bugünkü celsede, senin bu korkunç metodolojik hatanı salt bir reddiye ile
-geçiştirmeyeceğim. 60 Günlük Doktora Yeterlik Çalışma Programımızın ruhuna 
-uygun olarak, bu iki zıt kurumu; yani alacaklının kendi iradesiyle en güçlü 
-tasfiye ve savunma silahını elinden bıraktığı **TBK m. 141 (Takastan Feragat)**
-kılıcı ile, bir kimsenin malvarlığını devredip karşılığında şahsına sıkı sıkıya
-bağlı bir bakım talep ettiği o en insani ve karmaşık akdi, yani **Ölünceye 
-Kadar Bakma Sözleşmesini (TBK m. 611 vd.)** eşi görülmemiş bir diyalektik 
-bütünlük içinde sentezleyeceğim. Sistemindeki tenkis, muris muvazaası ve saklı 
-payın ihlali eserleri üzerinden bu devasa çatışmayı amansız bir şerhe tabi 
-tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -338,23 +305,6 @@ bağışlamalar için kurgulanmış bir Roma hukuku (Querela inofficiosi testame
 aracı olup, ölünceye kadar bakma gibi karmaşık ve sinallagmatik yapılara 
 mekanik olarak uygulanmamalıdır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en güçlü savunma 
-silahından vazgeçildiği anı (**TBK m. 141 / Takastan Feragat**) ve bu feragat 
-mekanizmasının, Özel Hükümlerdeki o en hayati ve riskli akit olan **Ölünceye 
-Kadar Bakma Sözleşmesiyle (TBK m. 611)** nasıl parçalayıcı bir şekilde 
-çarpıştığını diyalektik bir bütünlük içinde inşa etmiş olduk. Muris 
-muvazaasının o kurgusal kılıcını ve karma bağışlamanın tenkis denklemini 
-sistemine perçinledin. 
-
-Bugünkü oturumda sergilediğin o korkunç normatif hatanın (Genel Hüküm olan 
-Takastan Feragat ile Özel Hüküm olan Bakım Sözleşmesini tek maddede eritmenin)
-bir hukukçuyu dogmatik bir infaza ne kadar sürükleyebileceğini idrak etmiş 
-olmalısın. Genel Hükümler ile Özel Hükümler arasındaki o şarampole bir daha 
-düşersen, bu 60 günlük program senin için başlamadan biter. Bir sonraki 
-okumalarında "Alacağın Temliki ve Borcun Üstlenilmesi" (TBK m. 183 vd.) 
-dehlizine çalışarak karşıma gel. Zihnini kürsü sorgusuna hazır ve dogmatik bir 
-çelik gibi keskin tut!
 
 ---
 

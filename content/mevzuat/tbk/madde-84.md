@@ -359,7 +359,6 @@ kestiğini sistemine perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun zamanaşımı labirentlerini ve eksik 
 borçların o gölgeli dünyasını aynı acımasız titizlikle incelemeye devam 
-edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

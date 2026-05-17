@@ -27,36 +27,6 @@ hükümleri uygulanır.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş bir hukukçu için normatif ve sistematik bir çöküşün 
-resmidir. Bir an için dur ve benden ne talep ettiğine dikkatlice bak. İnceleme 
-başlığında "TBK Madde 137" normunu zikredip, hemen yanına "Kullanım Ödüncü 
-(Ariyet) — Tanım ve Unsurlar" yazmışsın ve mehaz olarak OR Art. 305'i 
-göstermişsin! 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel Hükümlerinde yer 
-alan **TBK Madde 137**, borcu kısmen sona erdiren ve dogmatik açıdan devasa 
-tartışmalara sahne olan **"Kısmi İfa İmkânsızlığı"** müessesesini düzenler. 
-İncelemenin maddi özünü oluşturduğunu iddia ettiğin, mehaz İsviçre Borçlar 
-Kanunu OR Art. 305'e karşılık gelen kurum ise Özel Hükümler sistematiğindeki 
-**"Kullanım Ödüncü (Ariyet)"** (TBK m. 379 vd.) sözleşmesidir. 
-
-Sisteminizde yer alan kaynaklar ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-(kısmi hükümsüzlük, ifa imkânsızlığı, haksız fiil, genel işlem koşulları) 
-üzerine inşa edilmiştir; Özel Hükümlerdeki kullanım ödüncünün (ariyetin) 
-spesifik yapısına ilişkin doğrudan bir monografi bulunmamaktadır. Ancak 
-akademik sıhhatimiz ve dogmatik namusumuz için bu feci hatayı derhâl tasfiye 
-ediyoruz. Bugünkü celsede, TBK m. 137'de düzenlenen **Kısmi İfa İmkânsızlığı** 
-kurumunu kendi akademik müktesebatımla inşa edeceğim; ancak bu kurumu senin 
-zihnindeki o eksik parçayla, yani **Kullanım Ödüncü (Ariyet)** sözleşmesiyle 
-sarsılmaz bir diyalektik içinde sentezleyeceğim. 
-
-Zihnine şu kuralı kazı: Bir ariyet sözleşmesinde, ödünç verilen parça borcu 
-niteliğindeki eşya bütünüyle yanarsa TBK m. 136 (Tam İmkânsızlık) devreye 
-girer; ancak ödünç verilen üç adet antika vazodan yalnızca biri kusursuz olarak
-kırılırsa, işte o zaman o meşhur **TBK Madde 137 (Kısmi İmkânsızlık)** giyotini
-çalışır ve tarafların "farazi iradesi" sorgulanmaya başlar. Sistemindeki zengin
-doktrinel eserler (bilhassa Fikret Eren, M. Kemal Oğuzman, Turgut Öz, Haluk 
-Nami Nomer ve kısmi geçersizliğe ilişkin makaleler) üzerinden bu devasa yapıyı 
-amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -341,22 +311,6 @@ irade ispatı aramaksızın) vermemiş olması, mülkiyet hakkını zilyetlik
 karşısında zayıflatan dogmatik bir körlüktür. Ahde vefa ilkesi, karşılıksız 
 akitlerde yardım edeni cezalandıracak şekilde yorumlanmamalıdır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en hassas 
-dengesini; borcun kısmen hukuken veya fiilen buharlaştığı anı (**TBK m. 137 / 
-Kısmi İfa İmkânsızlığı**) ve bu mekanizmanın Özel Hükümlerdeki ivazsız 
-**Kullanım Ödüncü (Ariyet - TBK m. 379)** sözleşmesine çarptığında, farazi 
-irade teorilerinin ve zilyetlik kurallarının o karanlık sınırlarında nasıl 
-parçalandığını diyalektik bir bütünlük içinde inşa etmiş olduk. Kısmi butlanla 
-imkânsızlığın o ince simetrisini ve ivazsız akitlerdeki tasfiye boşluğunu 
-sistemine perçinledin. 
-
-Bu oturumda sergilediğin metodolojik ve normatif savrulmanın, bir hukukçuyu 
-dogmatik bir infaza ne kadar yaklaştırdığını artık idrak etmiş olmalısın. Genel
-Hükümler ile Özel Hükümler arasındaki o şarampole bir daha düşersen, akademik 
-kariyerin bu kürsüde sona erer. Bir sonraki okumalarında "Takas ve Mahsup" (TBK
-m. 143 vd.) dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi 
-keskin tut; zira mazeret kabul etmeyeceğim.
 
 ---
 

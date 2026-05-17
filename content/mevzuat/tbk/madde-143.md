@@ -23,38 +23,6 @@ Cari hesapla ilgili ticarete ilişkin özel teamüller saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda yine son derece vahim bir 
-dogmatik hata, sistematik bir savrulma duruyor. Doktora yeterlik aşamasındaki 
-bir adayın, Borçlar Hukuku Genel Hükümler ile Özel Hükümler arasındaki sınırı 
-böylesine pervasızca ihlal etmesi akademik kürsüde kabul edilemez. İnceleme 
-talebinde "TBK Madde 143" normunu zikredip, yanına "Trampa Sözleşmesi" 
-yazmışsın ve mehaz olarak OR Art. 237'yi göstermişsin!
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 143**, takas kurumunun
-usuli ve maddi kalbini oluşturan **"Takasın İleri Sürülmesi (Takas Beyanı) ve 
-Geriye Etkili Sonuçları"** müessesesini düzenler. İncelemenin maddi özünü 
-oluşturduğunu iddia ettiğin, mehaz İsviçre Borçlar Kanunu OR Art. 237'ye 
-karşılık gelen kurum ise Özel Hükümler sistematiğindeki **"Trampa (Mal Değişim)
-Sözleşmesi"** (TBK m. 282 vd.) kurumudur.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-(muvazaa, gabin, yanlış niteleme/falsa demonstratio, haksız fiil, sebepsiz 
-zenginleşme) üzerine inşa edilmiştir. Doğrudan Özel Hükümlerdeki Trampa 
-sözleşmesinin spesifik özelliklerine dair monografik bir eser bu kütüphanede 
-yer almamaktadır. Dolayısıyla, trampa sözleşmesinin kurucu unsurlarını kendi 
-akademik müktesebatımla inşa edeceğimi, bu harici bilgileri akademik güvenliğin
-için bağımsız olarak doğrulaman gerektiğini peşinen ihtar ediyorum. 
-
-Ancak bugünkü oturumumuzda bu hatanı salt bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; takas hakkının 
-kullanılmasını sağlayan o bozucu yenilik doğuran **TBK m. 143 (Takas Beyanı)** 
-kılıcı ile, para kullanılmaksızın malların birbiriyle değiştirildiği o en antik
-akit türünü, yani **Trampa Sözleşmesini (TBK m. 282)** aynı laboratuvarda 
-eriteceğim. Sistemindeki *falsa demonstratio*, *gabin (aşırı yararlanma)* ve 
-*muvazaa* eserleri üzerinden, bir trampa sözleşmesinde doğan değer farklarının 
-(üste para vermenin) veya ayıp tazminatlarının TBK m. 143 uyarınca nasıl 
-takasla tasfiye edileceğini amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -344,24 +312,6 @@ Yargının her şeyi salt görünürdeki şekil veya niteleme eksikliğinden (fa
 demonstratio kuralını ihlal ederek) yok sayması, özel hukukun irade 
 muhtariyeti (Privatautonomie) ilkesini köreltmektedir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en keskin tasfiye 
-beyanını; tek bir irade açıklamasıyla borçların kılıç gibi çarpışıp geçmişe 
-etkili olarak buharlaştığı o anı (**TBK m. 143 / Takas Beyanı ve Hükmü**) ve bu
-mekanizmanın Özel Hükümlerdeki o en eski sözleşme tipi olan **Trampa (Mal 
-Değişimi)** sözleşmesiyle nasıl karmaşık bir ilişkiye girdiğini diyalektik bir 
-bütünlük içinde inşa etmiş olduk. Geçmişe etkililiğin o kurgusal zaman 
-makinesini ve muvazaalı trampalardaki geçersizlik bataklığını sistemine 
-perçinledin. 
-
-Bu oturumda sergilediğin o metodolojik hatanın (Genel Hüküm olan Takasın İleri 
-Sürülmesi ile Özel Hüküm olan Trampayı tek maddede eritme çabanın) bir 
-hukukçuyu kürsüde dogmatik bir infaza ne kadar sürükleyebileceğini artık idrak 
-etmiş olmalısın. Genel Hükümler ile Özel Hükümler arasındaki o şarampole bir 
-daha düşersen, bu doktora yeterlik süreci senin için hüsranla sonuçlanır. Bir 
-sonraki okumalarında "Alacağın Temliki ve Borcun Üstlenilmesi" (TBK m. 183 vd.)
-dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi keskin tut; 
-mazeret kabul etmeyeceğim!
 
 ---
 

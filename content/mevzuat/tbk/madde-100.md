@@ -25,35 +25,6 @@ etme hakkına sahip değildir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 100" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) ifa rejiminde **"İfa Zamanı - Erken İfa"** kuralını 
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar 
-Kanunu'nun 509. maddesine (**OR Art. 509**) atıfla talep edilen **"Kefalette 
-Süre Sınırı ve Kefaletin Sona Ermesi"** müessesesi ise, mülga 818 sayılı BK m. 
-493 ve 494'ün karşılığı olarak yeni 6098 sayılı TBK sistematiğinde **Madde 
-598** başlığı altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, ifa engelleri, erken 
-ifa ve geçersizlik teorileri konularına odaklandığından; **TBK m. 598 
-(Kefalette On Yıllık Süre Sınırı)** kurumunun spesifik dogmatik detayları 
-(Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine 
-yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) 
-tarafımdan harici akademik müktesebat ile tamamlanarak analiz edilmiştir. Bu 
-bilgilerin kaynak metinlerinizin dışında olduğunu ve tarafınızca bağımsız 
-olarak teyit edilebileceğini açıkça belirtmek isterim. Sisteminizdeki "İfa 
-Zamanı ve Erken İfa", "Genel İşlem Koşullarının Denetimi", "Sözleşme Özgürlüğü 
-ve İstisnaları" ile "Muvazaanın Müeyyidesi Meselesi" konularındaki eserler ise,
-sürenin sona ermesi, erken ifanın kefalete etkisi ve geçersizlik senaryoları 
-kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan 
-kefalette süre sınırı kurumunu, mehaz OR Art. 509 ile kurulan bağ ekseninde 
-bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -363,7 +334,6 @@ perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye deryasını, haksız fiillerin
 o karanlık dehlizlerini ve zamanaşımı mekanizmalarını aynı acımasız titizlikle 
-incelemeye devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede 
 görüşeceğiz.
 
 ---

@@ -24,30 +24,6 @@ Temerrüt faizine, ayrıca temerrüt faizi yürütülemez.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan belgeler 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (sözleşmenin kurulması, irade 
-bozuklukları, ifa engelleri, temerrüt, genel işlem koşulları ve haksız fiil 
-sorumluluğu) konularına odaklanmaktadır. İnceleme talebinizde referans 
-gösterilen "TBK Madde 121" başlığı, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 
-Genel Hükümlerinde yer alan ve temerrüt rejiminin en katı emredici 
-kurallarından biri olan **"Bileşik Faiz Yasağı (Anatocismus)"** müessesesini 
-düzenlemektedir. İncelemenizin maddi konusunu oluşturan ve mehaz İsviçre 
-Borçlar Kanunu'na (OR Art. 334 ve 335) atıfla işaret edilen **"Hizmet 
-Sözleşmesinin Süreli ve Belirsiz Süreli Feshi"** kurumları ise, Özel Hükümler 
-sistematiğinde **TBK Madde 430 ve Madde 432** başlıkları altında kodifiye 
-edilmiştir. Bu bağlamda, hizmet sözleşmelerinin süreli/süresiz sona erme 
-rejiminin dogmatik altyapısı tarafımdan harici akademik müktesebat ile inşa 
-edilecek; bu sözleşmelerin sona ermesi neticesinde doğan tazminat ve ücret 
-alacaklarının tasfiyesinde devreye giren **TBK Madde 121 (Bileşik Faiz 
-Yasağı)** ve **TBK Madde 117 (Borçlunun Temerrüdü)** mekanizmaları ise 
-sisteminizdeki kaynaklar ekseninde sentezlenerek, talebinize uygun ve emsalsiz 
-bir diyalektik yapı oluşturulacaktır.
-
-Hukuk dogmatiğinde kanunlaştırma tekniği ve norm numaralarının taşıdığı mutlak 
-değere binaen yapılan bu metodolojik düzeltmenin ardından; insan emeğinin 
-hukuki bir kalıba sokulduğu hizmet sözleşmelerinin nasıl sona erdiğini ve bu 
-sona erme neticesinde doğan alacakların "bileşik faiz yasağı" cenderesinde 
-nasıl sınırlandırıldığını bütünüyle analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

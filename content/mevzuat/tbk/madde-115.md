@@ -27,41 +27,6 @@ olmayacağına ilişkin önceden yapılan anlaşma kesin olarak hükümsüzdür.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 115" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde **"Sorumsuzluk Anlaşması"** kuralını 
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar 
-Kanunu'na (OR Art. 257d) atıfla talep edilen **"Kiracının Temerrüdü — Kira 
-Bedelinin Ödenmemesi, İhtar ve Fesih"** müessesesi ise, mülga 818 sayılı BK m. 
-260'ın karşılığı olarak yeni 6098 sayılı TBK Özel Hükümler sistematiğinde 
-**Madde 315** başlığı altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (borçlu temerrüdü, ihtar ve ek 
-süre kavramları, sözleşmeden dönme, genel işlem koşulları ve faiz) konularına 
-odaklandığından; Özel Hükümlerin en katı tahliye prosedürünü barındıran **TBK 
-m. 315 (Kiracının Temerrüdü)** kurumunun spesifik dogmatik detayları (Fikret 
-Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan 
-doğrudan atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan 
-harici akademik müktesebat ile tamamlanarak analiz edilmiştir. Sisteminizdeki 
-Derya Ateş'e ait *"Borçlu Temerrüdünde İhtar ve Ek Süre Kavramları"*, A.E. 
-Bayram'a ait *"Temerrüdü Üzerine Sözleşmeden Dönen Borçlunun Tazminat İstemi"* 
-ve İ.H. Yılmaz Tekin'e ait *"Temerrüt Faizi ve Aşkın Zarar"* başlıklı bilimsel 
-makaleler ise, kira bedelinin ödenmemesi hâlinde ihtarın hukuki niteliği, 30 
-günlük yasal mehilin (ek sürenin) dogmatiği ve sözleşmenin feshi (dönme/fesih) 
-ekseninde azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, kira hukukunun kalbi olan ve mülkiyet 
-sahibinin en keskin tahliye silahını oluşturan kiracının temerrüdü 
-mekanizmasını (TBK m. 315) mehaz İsviçre Hukuku ve Genel Hükümlerin temerrüt 
-teorisi ekseninde bütünüyle parçalayarak analiz edeceğiz. Zihnine çakman 
-gereken hafıza çivisini şimdiden veriyorum: Konut kirasında tahliyenin şifresi 
-**"MÜFİT"**tir. (Muacceliyet, Üstlenilen borcun ödenmemesi, Fesih iradeli 
-ihtar, İhtarın tebliği, Tam 30 gün). Bu çiviyi unutma; zira tüm şerhi bu 
-sütunlar üzerine inşa edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -359,8 +324,6 @@ tıkırtısını sistemine perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, eser 
 sözleşmesinin eksik ifalarını, vekâletin hesap verme borcunu ve haksız fiilin 
-uygun illiyet ağlarını aynı titizlikle incelemeye devam edeceğiz. Hazırlığını 
-tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

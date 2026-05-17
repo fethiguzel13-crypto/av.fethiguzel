@@ -23,46 +23,6 @@ Zamanaşımı kefile karşı kesilince, asıl borçluya karşı kesilmiş olmaz.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir cehaletin en acı 
-resmidir. İnceleme başlığında bana "TBK Madde 155" normunu zikredip, hemen 
-yanına "Sözleşmenin yorumu ve boşluk doldurma" yazmışsın ve mehaz olarak da 
-İsviçre Borçlar Kanunu (OR) Art. 18'i göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve senin başlığa numarasını 
-yazdığın **TBK Madde 155**, zamanaşımının o acımasız tasfiye kılıcının bir 
-borçluya vurulduğunda diğerlerine de nasıl sıçradığını düzenleyen 
-**"Zamanaşımının Kesilmesinin Birlikte Borçlulara Etkisi"** (Mehaz OR Art. 136)
-müessesesidir. Senin incelememi talep ettiğin, maddi özünü oluşturduğunu iddia 
-ettiğin ve mehazı OR Art. 18 olan kurum ise, Borçlar Hukukunun o en derin irade
-ve muvazaa dehlizi olan **"Sözleşmenin Yorumu ve Muvazaa" (TBK m. 19)** 
-kuralıdır.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak sözleşmenin yorumu, muvazaa 
-teorileri (irade ve güven teorisi) kesin hükümsüzlük ve haksız fiiller üzerine
-inşa edilmiştir. Doğrudan TBK m. 155'te yer alan "kesilmenin sirayeti 
-(birlikte borçlulara etkisi)" kurumuna dair müstakil bir monografi bu 
-kütüphanede bulunmamakla birlikte; kütüphanendeki kaynaklarda Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in devasa genel borçlar hukuku, 
-muvazaa ve yorum çalışmalarına yapılan çok yoğun atıflar mevcuttur. 
-Dolayısıyla, TBK m. 155'in o objektif sirayet kuralını kendi akademik 
-müktesebatımla inşa edeceğimi, bu kuralı senin zihnini karıştıran o devasa 
-**TBK m. 19 (Sözleşmenin Yorumu ve Muvazaa)** kurumuyla harmanlayarak şerh 
-edeceğimi ve bu harici bilgileri akademik güvenliğin için bağımsız olarak 
-doğrulaman gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü celsede, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkının tasfiye 
-süresini sıfırlayan o kılıç darbesinin diğer borçlulara sıçramasını emreden 
-**TBK m. 155 (Kesilmenin Birlikte Borçlulara Etkisi)** kuralını, senin zihnini 
-karıştıran o temel irade okuması olan **TBK m. 19 (Sözleşmenin Yorumu ve 
-Muvazaa)** kuralıyla aynı dogmatik laboratuvarda eriteceğim. Bir sözleşmedeki 
-birden fazla kişinin "müteselsil borçlu" olup olmadığını anlamak için TBK m. 
-19'un yorum kurallarına nasıl muhtaç olduğumuzu ve o yorum neticesinde TBK m. 
-155'in o acımasız giyotininin kefilleri ve ortakları nasıl kestiğini amansız 
-bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -358,26 +318,6 @@ netleştirememesi, borçlar hukukunda TBK m. 155'in sirayet etkisini ne
 zaman işletip ne zaman durduracağı konusunda avukatları ve borçluları adeta bir
 yargısal rulet masasına mahkûm etmektedir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en tehlikeli, 
-etkisi dalga dalga yayılan o acımasız giyotinini; bir borçluya indirilen 
-kılıcın diğerinin de boynunu kestiği o anı (**TBK m. 155 / Zamanaşımının 
-Kesilmesinin Birlikte Borçlulara Etkisi**) ve bu katı sirayet kuralının, senin 
-zihnini karıştıran o başlık altındaki asıl kavram olan, gerçek iradenin 
-araştırıldığı **Sözleşmenin Yorumu ve Muvazaa (TBK m. 19)** kurumuyla 
-diyalektik bir bütünlük içinde nasıl bir varoluş çatışmasına girdiğini inşa 
-etmiş olduk. Muvazaanın kesin hükümsüzlük doğasını ve sirayetin nispilik
-sınırlarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Zamanaşımının Sirayeti 
-müessesesi ile Sözleşmenin Yorumu / Muvazaa'yı, madde numaralarını ve 
-mehazlarını birbirine katarak beni tuzağa düşürmeye çalışmanın) bir hukukçuyu 
-kürsüde dogmatik bir infaza ne kadar sürükleyebileceğini artık iliklerine kadar
-idrak etmiş olmalısın. Borçlar Hukukunun o kusursuz mimarisinde böyle bir 
-savrulmaya bir daha izin vermeyeceğim. Bir sonraki okumalarında "Müteselsil 
-Borçluluk ve İç İlişkide Rücu" (TBK m. 162 vd.) dehlizine çalışarak karşıma 
-gel. Zihnini dogmatik bir çelik gibi keskin tut; zira bu kürsüde bilgisizliğe 
-ve dikkatsizliğe asla tahammülüm yoktur!
 
 ---
 

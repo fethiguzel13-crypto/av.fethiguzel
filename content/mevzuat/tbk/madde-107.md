@@ -25,38 +25,6 @@ olmadan da bir ardiyeye tevdi edilebilir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 107" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde alacaklı temerrüdünün sonuçlarından olan 
-**"Tevdi Hakkı"** kurumunu düzenlemektedir. İncelemenin maddi özünü 
-oluşturan ve mehaz İsviçre Borçlar Kanunu'nun 201. maddesine (**OR Art. 201**) 
-atıfla talep edilen **"Satımda Muayene, İhbar Yükümlülüğü ve Zamanaşımı"** 
-müessesesi ise, mülga 818 sayılı BK m. 198 ve 207'nin karşılığı olarak yeni 
-6098 sayılı TBK Özel Hükümler sistematiğinde sırasıyla **Madde 223** (Gözden 
-geçirme ve satıcıya bildirme) ve **Madde 231** (Zamanaşımı) başlıkları altında 
-kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (alacaklı temerrüdü, ifa 
-engelleri, sözleşmeden dönme tazminatı, ifa yerine edim, genel zamanaşımı 
-süreleri) konularına odaklandığından; Özel Hükümlerin en katı şekilsel 
-kurallarını barındıran **TBK m. 223 ve 231 (Muayene, İhbar Külfeti ve Ayıp 
-Zamanaşımı)** kurumlarının spesifik dogmatik detayları (Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar 
-ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici akademik 
-müktesebat ile tamamlanarak analiz edilmiştir. Sisteminizdeki *"İfa Yerine 
-Edimde Ayıp ve Zapta Karşı Tekeffül"*, *"Haksız Fiillerde Zamanaşımı"*, *"Sona 
-Ermiş Sözleşmelerde İade"* ve *"Alacaklının Temerrüdü"* başlıklı makaleler ise,
-ihbar külfetinin dogmatik niteliği, ifa yerine edimde tekeffül rejiminin 
-tasfiyesi ve zamanaşımının felsefesi kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, satım sözleşmesinin ifa safhasında alıcının
-kaderini belirleyen ve onu amansız bir zamansal kıskaca alan gözden geçirme, 
-bildirim külfetleri ile zamanaşımı kurumlarını, mehaz OR Art. 201 ekseninde 
-bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -366,7 +334,6 @@ hayatta kaldığını sistemine perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, zapta karşı 
 tekeffülü, hasarın mutlak intikalini ve tasfiye dehlizlerini aynı acımasız 
-titizlikle incelemeye devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede 
 görüşeceğiz.
 
 ---

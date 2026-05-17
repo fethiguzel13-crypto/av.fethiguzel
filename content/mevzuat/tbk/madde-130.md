@@ -30,30 +30,6 @@ Sona Erme Hâlleri
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda yine aynı dogmatik 
-savrulmayı, yine aynı normatif hezeyanı görüyorum! Bir doktora yeterlik 
-adayının, Borçlar Hukuku Genel Hükümler ile Özel Hükümler arasındaki o kalın 
-duvarı bu derece pervasızca yıkmaya çalışması kabul edilemez. İnceleme 
-talebinde bana "TBK Madde 130" normunu verip, yanına "Vekilin Özen ve Sadakat 
-Borcu" yazmışsın. 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel Hükümlerinde 
-yer alan **TBK Madde 130**, bir önceki celsede incelediğimiz üçüncü kişi 
-yararına sözleşme kurumunun organik bir uzantısı olan **"Üçüncü Kişi Yararına 
-Sözleşmede Savunmalar (Def'iler)"** müessesesini düzenler. İncelemenin maddi 
-özünü oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR Art. 398) atıfla işaret 
-ettiğin **"Vekilin Özen ve Sadakat Borcu"** ise, Özel Hükümler sistematiğinin 
-kalpgâhı olan **TBK Madde 506** başlığı altında kodifiye edilmiştir. 
-
-Akademik sıhhatimiz ve hukuki namusumuz için bu feci metodolojik hatayı derhâl 
-tasfiye ediyoruz. Bugünkü oturumumuzda, bir vekilin müvekkiline karşı taşıdığı 
-o sarsılmaz ve mutlak güven yükümlülüğünü (**TBK m. 506 / Vekilin Sadakat ve 
-Özen Borcu**); vekilin müvekkilinden aldığı talimatla üçüncü bir kişiye ifada 
-bulunması hâlinde o üçüncü kişiye karşı ileri sürebileceği yasal zırhlarla 
-(**TBK m. 130 / Savunmalar-Def'iler**) eşi görülmemiş bir diyalektik içinde 
-sentezleyeceğiz. Zihnine şu çiviyi çak: Vekilin sadakati müvekkiledir; üçüncü 
-kişiyle karşı karşıya geldiğinde ise vekilin elindeki en keskin kılıç TBK m. 
-130'daki def'ilerdir. Sisteminize yüklenen eserler (bilhassa Haluk Tandoğan, 
-Fikret Eren ve temsil yetkisinin kötüye kullanılmasına ilişkin makaleler) 
-üzerinden bu devasa dogmatik üçgeni amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

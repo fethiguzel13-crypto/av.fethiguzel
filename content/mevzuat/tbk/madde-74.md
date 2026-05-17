@@ -387,7 +387,6 @@ talep edebilir mi? Yoksa Yargıtay'ın klasik dogmasına göre "enflasyon ve kur
 farkı herkesin maruz kaldığı genel bir risktir, aşkın zarar sayılamaz" mı 
 denilmelidir? Yargıtay'ın ve Anayasa Mahkemesi'nin son dönem kararları bu 
 konuda nasıl bir devrim yaratmıştır?* Bu kördüğümü "Temerrüt Faizi ve Aşkın 
-Zarar" bağlamında çözmeni bekliyorum. Hazırlığını tam yap, bir sonraki 
 celsede görüşeceğiz.
 
 ---

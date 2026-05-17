@@ -340,7 +340,6 @@ darbesiyle nasıl temerrüt yangınına dönüştüğünü sistemine perçinledi
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye mekanizmaları ve haksız 
 fiil sorumluluğunun o ince sınırlarında gezinmeye aynı acımasız titizlikle 
-devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

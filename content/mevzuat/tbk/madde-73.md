@@ -353,7 +353,6 @@ borçlu tarafından ifa edileceğine dair özel bir hüküm (şahsi ifa yüküml
 yoksa; alacaklı "Ben seni muhatap bilirim, başkasından ifa kabul etmiyorum" 
 diyerek bu ifayı reddedebilir mi? Üçüncü kişinin ifasını reddeden alacaklı, 
 asıl borçluyu temerrüde düşürebilir mi?* Bu dogmatik kördüğümü "İfayı Yapan 
-Kişi (TBK m. 83)" bağlamında çözmeni bekliyorum. Hazırlığını tam yap, bir 
 sonraki celsede görüşeceğiz.
 
 ---

@@ -19,36 +19,6 @@ Madde 94 - Borç, alışılmış iş saatlerinde ifa ve kabul edilir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 94 (Kefalet sözleşmesi — genel)" başlığı ile mehaz 
-İsviçre Borçlar Kanunu'nun 492. maddesine (**OR Art. 492**) yapılan atıf 
-arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 94. maddesi, borçların ifa rejiminde 
-**"Sürelerin Hesabı - Hafta ve Ay"** kuralını düzenlemektedir. İncelemenin 
-maddi özünü oluşturan, mülga 818 sayılı BK m. 483 ve mehaz OR Art. 492'de yer 
-alan **Kefalet Sözleşmesi (Bürgschaftsvertrag)** müessesesi ise, yeni 6098 
-sayılı TBK sistematiğinde **Madde 581 ve devamı** başlıkları altında kodifiye 
-edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, sözleşmenin geçerliliği
-ve sebepsiz zenginleşme konularına odaklandığından; **TBK m. 581 (Kefalet 
-Sözleşmesi - Tanımı ve Genel Hükümleri)** kurumunun spesifik dogmatik detayları
-(Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine 
-yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) 
-tarafımdan harici akademik müktesebat ile tamamlanarak analiz edilmiştir. Bu 
-bilgilerin tarafınızca bağımsız olarak teyit edilebileceğini açıkça belirtmek 
-isterim. Sisteminizdeki "Kefilin Rücu Hakkı", "Muvazaanın Müeyyidesi Meselesi",
-"Falsa Demonstratio Non Nocet" ve "Genel İşlem Koşullarının Denetimi" 
-konularındaki eserler ise, kefalet kurumunun rücu mekanizması ve geçersizlik 
-senaryoları kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan kefalet 
-sözleşmesi kurumunu, mehaz OR Art. 492 ile kurulan bağ ekseninde bütünüyle 
-parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -363,7 +333,6 @@ gücünü sistemine perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye mekanizmaları ve haksız 
 fiil deryasının o karanlık arka odalarını aynı acımasız titizlikle incelemeye 
-devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

@@ -26,49 +26,6 @@ borçluya ait olmak üzere kendisinin yetkili kılınmasını isteyebilir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 113" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde, borca aykırılık rejiminin özel bir 
-görünümü olan **"Yapma ve Yapmama Borçlarında Borçlunun Sorumluluğu (Nama / 
-Vekâleten İfa)"** kurumunu düzenlemektedir. İncelemenin maddi özünü oluşturan 
-ve mehaz İsviçre Borçlar Kanunu'nun 266. maddesine (**OR Art. 266**) atıfla 
-talep edilen **"Kira Sözleşmesinin Feshi — Bildirim Süreleri (Belirsiz Süreli 
-Kiralarda Olağan Fesih)"** müessesesi ise, mülga 818 sayılı BK m. 262'nin 
-karşılığı olarak yeni 6098 sayılı TBK Özel Hükümler sistematiğinde **Madde 328 
-ve devamı** başlıkları altında kodifiye edilmiştir. 
-
-Bununla birlikte, hukuk dogmatiğinde bu iki normatif alan birbirine kopmaz 
-zincirlerle bağlıdır. Zira belirsiz süreli bir kira sözleşmesi TBK m. 328 (OR 
-Art. 266) uyarınca feshedildiğinde, kiracının uhdesinde kiralananı tahliye 
-etme, eski hâline getirme ve teslim etme şeklinde bir **"Yapma Borcu 
-(Facere)"** doğar. Kiracının bu yapma borcuna aykırı davranması (örneğin 
-taşınmazdaki izinsiz eklentileri sökmemesi) hâlinde, kiralayanın başvuracağı 
-yegâne genel hüküm **TBK m. 113'teki "Masrafı borçluya ait olmak üzere edimin 
-kiralayan veya başkası tarafından ifasına izin verilmesi (Ersatzvornahme)"** 
-kurumudur.
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (sözleşme özgürlüğü, alacaklı 
-temerrüdü, ifa engelleri, haksız fiiller ve genel işlem koşulları) konularına 
-odaklandığından; Özel Hükümlerin usuli kalbini oluşturan **TBK m. 328 vd. 
-(Olağan Fesih Bildirimi)** ile **TBK m. 113 (Yapma Borcunda Nama İfa)** 
-kurumlarının spesifik dogmatik detayları (Fikret Eren, M. Kemal Oğuzman, Turgut
-Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre 
-hukukundaki teorik tartışmalar) tarafımdan harici akademik müktesebat ile 
-tamamlanarak analiz edilmiştir. Sisteminizdeki Semih Yünlü'ye ait *"Sözleşme 
-Özgürlüğü ve İstisnaları"*, Aziz Erman Bayram'a ait *"Alacaklının Temerrüdü"* 
-ve genel ifa teorilerine ilişkin makaleler ise, sözleşmeyi sona erdirme 
-özgürlüğünün (Beendigungsfreiheit) sınırlandırılması, fesih sonrası iade 
-sürecindeki temerrüt hâlleri ve borca aykırılık ekseninde azami ölçüde 
-kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, mülkiyetin kullanım değerinin geri 
-alınmasını sağlayan olağan fesih mekanizmasını (TBK m. 328 / OR 266) ve bu 
-feshin icrasını güvence altına alan yapma borcuna aykırılık (TBK m. 113) 
-rejimini bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

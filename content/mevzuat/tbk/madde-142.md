@@ -21,37 +21,6 @@ müflise olan borçları ile takas edebilirler.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu manzara, doktora 
-yeterlik aşamasına gelmiş bir hukukçu adayı için normatif ve sistematik bir 
-çöküşün, dogmatik bir intiharın resmidir. İnceleme başlığında bana "TBK Madde 
-142" normunu zikredip, hemen yanına "Kefaletin sona ermesi ve zamanaşımı" 
-yazmışsın ve mehaz olarak OR Art. 509'u göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 142**, takas kurumunda
-karşılıklılık (mutuality) ilkesinin en radikal istisnasını oluşturan **"Kefilin
-Takas İleri Sürmesi"** müessesesini (Mehaz OR Art. 121) düzenler. İncelemenin 
-maddi özünü oluşturduğunu iddia ettiğin, mehaz İsviçre Borçlar Kanunu OR Art. 
-509'a karşılık gelen kurum ise Özel Hükümler sistematiğindeki **"Kefaletin Sona
-Ermesi"** (TBK m. 598 vd.) kurumudur. 
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-ile Özel Hükümlerdeki kefalet sözleşmesinin fer'i niteliği ve rücu ilişkilerini
-derinlemesine inceleyen eserler (Özellikle "Kefilin Rücu Hakkı" başlıklı 
-çalışmalar) üzerine inşa edilmiştir. Doğrudan Özel Hükümlerdeki Kefaletin
-Sona Ermesi (TBK m. 598) kurumunun zamanaşımı boyutlarına ilişkin monografik 
-veriler bu kütüphanede sınırlı olduğundan, kefaletin sona erme mekaniğini kendi
-akademik müktesebatımla inşa edeceğimi, bu harici bilgileri akademik güvenliğin
-için bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum. 
-
-Ancak bugünkü celsede, senin bu korkunç metodolojik hatanı salt bir reddiye ile
-geçiştirmeyeceğim. 60 Günlük Doktora Yeterlik Çalışma Programımızın ruhuna 
-uygun olarak, bu iki kurumu; yani kefilin, asıl borçlunun alacağını bir kalkan 
-gibi kullanarak borcu kestiği o acımasız **TBK m. 142 (Kefilin Takas Hakkı)** 
-kılıcı ile, sürenin dolması veya asıl borcun bitimiyle kefili o ağır yükten 
-azat eden **Kefaletin Sona Ermesi (TBK m. 598)** rejimini aynı laboratuvarda 
-eriteceğim. Sistemindeki kefalet, rücu ve zamanaşımı eserleri üzerinden bu 
-devasa bütünü amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -326,23 +295,6 @@ kırmaktadır. Hukukun, tüketiciyi koruyan kurallar ile tacir/profesyonel
 aktörleri koruyan kuralları aynı potada (genel hüküm kisvesi altında) eritmesi,
 özel hukukun ticari hıza ayak uydurmasını engelleyen dogmatik bir körlüktür.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en istisnai ve 
-zihin zorlayıcı mekanizmasını; kefilin başkasının malvarlığını (alacağını) 
-kılıç gibi çekip takas ettiği o anı (**TBK m. 142 / Kefilin Takas Hakkı**) ve 
-bu savunmanın, Özel Hükümlerdeki o en ağır teminat akdi olan **Kefalet 
-Sözleşmesinin Sona Ermesi (TBK m. 598)** ile nasıl ayrılmaz bir biçimde 
-bütünleştiğini diyalektik bir sentez içinde inşa etmiş olduk. Fer'ilik 
-ilkesinin o felsefi sınırlarını ve 10 yıllık emredici hak düşürücü sürenin 
-giyotinini sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Kefaletin sona ermesini 
-genel hükümlerde arama hatasının) bir hukukçuyu dogmatik bir intihara ne kadar
-sürükleyebileceğini artık iliklerine kadar idrak etmiş olmalısın. Genel 
-Hükümler ile Özel Hükümler arasındaki o şarampole bir daha düşersen, bu doktora
-yeterlik süreci senin için orada biter. Bir sonraki okumalarında "Alacağın 
-Temliki ve Borcunu Üstlenilmesi" (TBK m. 183 vd.) dehlizine çalışarak karşıma 
-gel. Zihnini dogmatik bir çelik gibi keskin tut; mazeret kabul etmeyeceğim!
 
 ---
 

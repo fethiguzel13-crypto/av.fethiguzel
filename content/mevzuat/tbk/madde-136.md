@@ -29,31 +29,6 @@ artmaması için gerekli önlemleri almazsa, bundan doğan zararları gidermekle
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş bir hukukçu için normatif ve sistematik bir çöküşün 
-resmidir. Bir an için dur ve ne talep ettiğine bak. İnceleme başlığında "TBK 
-Madde 136" normunu zikredip, hemen yanına "Ödünç Sözleşmesi — Genel Hükümler ve
-Türleri" yazmışsın ve mehaz olarak OR Art. 305'i göstermişsin! 6098 sayılı Türk
-Borçlar Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 136**, borcu 
-sona erdiren en temel sebeplerden biri olan **"İfa İmkânsızlığı (Kusursuz 
-Sonraki İmkânsızlık)"** müessesesini düzenler. İncelemenin maddi özünü 
-oluşturduğunu iddia ettiğin, mehaz İsviçre Borçlar Kanunu OR Art. 305'e 
-karşılık gelen kurum ise Özel Hükümler sistematiğindeki **"Kullanım Ödüncü 
-(Ariyet)"** (TBK m. 379 vd.) sözleşmesidir; paranın konu olduğu **"Tüketim 
-Ödüncü (Karz)"** ise TBK m. 386 vd. başlıkları altında kodifiye edilmiştir.
-
-Akademik sıhhatimiz ve dogmatik namusumuz için bu korkunç hatayı derhâl tasfiye
-ediyoruz. Bugünkü celsede, TBK m. 136'da düzenlenen **İfa İmkânsızlığı** 
-kurumunu kendi akademik müktesebatımla inşa edecek; ancak bu kurumu senin 
-zihnindeki o eksik parçayla, yani **Ödünç Sözleşmeleriyle** sarsılmaz bir 
-diyalektik içinde sentezleyeceğim. Zihnine şu çiviyi çak: Bir kullanım 
-ödüncünde (ariyet) teslim edilen eşya yanarsa TBK m. 136 (İmkânsızlık) devreye 
-girer; ancak bir tüketim ödüncünde (karz) borçlu iflas ederse, para cinsi telef
-olamayacağından (Genus nunquam perit) imkânsızlık değil, TBK m. 390 ve TBK m. 
-98 bağlamında "İfa Güçsüzlüğü" devreye girer. Sistemindeki zengin 
-doktrinel eserler (bilhassa Fikret Eren, M. Kemal Oğuzman, Turgut Öz, Haluk N. 
-Nomer ve ifa güçsüzlüğüne ilişkin makaleler) üzerinden bu devasa yapıyı amansız
-bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -329,22 +304,6 @@ hâllerinde oransal bir bedel indirimi yaparak sözleşmeyi ayakta tutma
 138 esnekliğinin burada bulunmaması) Borçlar Hukukumuzun mekanik ve şekilci 
 reflekslerinden bir diğeridir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en görünmez ama en
-yıkıcı kuralını; borcun borçlunun elinde olmadan buharlaştığı anı (**TBK m. 136
-/ İfa İmkânsızlığı**) ve bu mekanizmanın Özel Hükümlerdeki **Tüketim Ödüncü** 
-sözleşmesine çarptığında, para borçlarının imkânsızlaşamayacağı gerçeğiyle 
-nasıl parçalandığını ve yerini ödeme güçsüzlüğüne (TBK m. 390) bıraktığını 
-diyalektik bir bütünlük içinde inşa etmiş olduk. Nevi borcunun (genus) 
-sonsuzluğunu ve bildirim külfetinin (TBK m. 136/3) o acımasız kılıcını 
-sistemine perçinledin. 
-
-Bu oturumda sergilediğin metodolojik savrulmanın, bir hukukçuyu dogmatik bir 
-infaza ne kadar yaklaştırdığını idrak etmiş olmalısın. Genel Hükümler ile Özel 
-Hükümler arasındaki şarampole bir daha düşersen, akademik kariyerin bu kürsüde 
-sona erer. Bir sonraki okumalarında "Temerrüt ve Seçimlik Haklar" (TBK m. 125) 
-dehlizine çalışarak gel. Zihnini dogmatik bir çelik gibi keskin tut; zira 
-mazeret kabul etmeyeceğim.
 
 ---
 

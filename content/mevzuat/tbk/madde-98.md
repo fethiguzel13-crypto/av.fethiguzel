@@ -25,38 +25,6 @@ sözleşmeden dönebilir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 98 (Müteselsil kefalet — doğrudan başvuru hakkı)" başlığı
-ile mehaz İsviçre Borçlar Kanunu'nun 499. maddesine (**OR Art. 499**) yapılan 
-atıf arasında numaralandırma ve içerik bazlı köklü bir sapma bulunmaktadır. 
-Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 98. maddesi, borçların 
-ifa rejiminde **"Kısmi İfa"** kuralını düzenlemektedir. İncelemenin başlığında 
-yer alan "Müteselsil kefalet — doğrudan başvuru hakkı" kurumu mülga 818 sayılı 
-BK m. 486 ve yeni TBK m. 586'da yer alırken; talebinizin mehaz atfını oluşturan
-**OR Art. 499** (mülga BK m. 489) kefaletin maddi sınırlarını çizen 
-**Kefaletin Kapsamı (Umfang der Haftung)** müessesesini düzenlemekte olup, yeni
-TBK sistematiğinde **Madde 589** başlığı altında kodifiye edilmiştir. Ayrıca 
-birden fazla kefilin aynı borca teminat olduğu **Birlikte Kefalet** (OR Art. 
-497) kurumu da TBK m. 587'de yer almaktadır.
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, temerrüt faizi, aşkın 
-zarar ve ifa engelleri konularına odaklandığından; **TBK m. 589 (Kefaletin 
-Kapsamı)** ve **TBK m. 587 (Birlikte Kefalet)** kurumlarının spesifik dogmatik 
-detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki teorik 
-tartışmalar) tarafımdan harici akademik müktesebat ile tamamlanarak analiz 
-edilmiştir. Sisteminizdeki "Faiz Hükümleri ve Sınırları", "Temerrüt Faizi ve 
-Aşkın Zarar", "Genel İşlem Koşullarının Denetimi" ve ifaya ilişkin kaynaklar 
-ise, kefilin sorumluluk kapsamının belirlenmesinde ve geçersizlik 
-senaryolarında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan 
-kefaletin kapsamı ve birlikte kefalet kurumlarını, mehaz OR Art. 499 ile 
-kurulan bağ ekseninde bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -372,8 +340,6 @@ mühürlemiş olduk. Azami miktarın o mutlak duvarını ve fer'iliğin faizle g
 savaşı sistemine perçinledin. 
 
 Sıradaki analizlerimizde, borçlar hukukunun haksız fiil deryasını ve tasfiye 
-labirentlerini aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını 
-tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

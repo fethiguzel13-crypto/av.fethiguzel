@@ -368,7 +368,6 @@ kurtulur. Peki, bu durumda alacaklıdan (hiçbir kusuru olmayan alacaklıdan)
 talebinin hukuki dayanağı sebepsiz zenginleşme midir, yoksa sözleşmenin 
 tasfiyesi bağlamında başka bir dogmatik kural mı devreye girer? Hasarın 
 intikali felsefesi burada nasıl işler?* Bu kördüğümü "İfa İmkânsızlığı ve 
-Hasar" bağlamında çözmeni bekliyorum. Hazırlığını tam yap, bir sonraki celsede 
 görüşeceğiz.
 
 ---

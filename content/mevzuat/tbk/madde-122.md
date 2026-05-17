@@ -23,37 +23,6 @@ istemi üzerine hâkim, esas hakkında karar verirken bu zararın miktarına da 
 
 ### Akademik Yorum ve Analiz
 
-Doktora çalışmalarının bu eşiğinde, norm numaraları ile maddi hukuk kurumları 
-arasındaki o sarsılmaz organik bağı henüz tam olarak içselleştiremediğini 
-görmek beni dogmatik bir endişeye sevk ediyor. Borçlar hukuku sistematiğinde 
-kanunlaştırma tekniği, norm numaralarının tarihsel sıralaması ve mehaz kanun 
-atıflarının taşıdığı önem, akademik incelememizin bilimsel sıhhati için aşılmaz
-bir gerekliliktir. İnceleme talebinde referans gösterilen "TBK Madde 122" 
-başlığı, yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel 
-Hükümlerinde, borçlu temerrüdünün en hayati ve karmaşık sonuçlarından biri olan
-**"Aşkın Zarar (Munzam Zarar)"** kurumunu düzenlemektedir. İncelemenin maddi 
-özünü oluşturan ve mehaz İsviçre Borçlar Kanunu'na atıfla işaret edilen 
-**"Hizmet Sözleşmesinin Haklı Sebeple Derhâl Feshi"** müessesesi ise, Özel 
-Hükümler sistematiğinde **TBK Madde 435** başlığı altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (borçlu temerrüdü, sözleşmeden 
-dönme, aşkın zarar, olumlu/olumsuz zarar, haksız fiil sorumluluğu) konularına 
-odaklanmaktadır. Bu nedenle, işçinin hizmet sözleşmesini haklı sebeple 
-derhâl feshini (TBK m. 435) kuramsal olarak kendi akademik müktesebatımla inşa 
-edecek; ardından bu haklı feshin neticesinde doğan işçilik alacaklarının 
-(kıdem, ihbar, ödenmemiş ücret) vadesinde ödenmemesi durumunda devreye giren 
-**TBK Madde 122 (Aşkın Zarar)** mekanizmasıyla eşi görülmemiş bir dogmatik 
-diyalektik içinde sentezleyeceğiz. Zira enflasyonist ekonomilerde, haklı 
-sebeple işten ayrılan bir işçinin en büyük dogmatik silahı, temerrüt faizini 
-aşan zararını talep edebileceği TBK m. 122'dir.
-
-Sistematik hatanı düzelttiğimize göre, şimdi seni sarsacak o soruyu soruyorum: 
-*Haklı sebeple sözleşmesini fesheden ve tazminatını 5 yıl süren bir dava 
-sonucunda %9 yasal faiziyle tahsil eden bir işçinin, enflasyon karşısında 
-eriyen alacağının reel değerini koruması hukukun bir lütfu mudur, yoksa 
-mülkiyet hakkının mutlak bir gereği mi?* Bu soruyu zihnine çak; zira tüm şerhi 
-bu çatışma üzerine inşa edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

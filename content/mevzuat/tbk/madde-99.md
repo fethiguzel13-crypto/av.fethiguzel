@@ -29,35 +29,6 @@ ya  da  bu  anlama  gelen  bir  ifade  de  bulunmadıkça,  borcun  ödeme  gün
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 99 (kefilin rücu hakkı — ödeme sonrası halefiyet)" 
-başlığı ile mehaz İsviçre Borçlar Kanunu'na yapılan atıf arasında 
-numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı 
-Türk Borçlar Kanunu'nun (TBK) 99. maddesi, borçların ifa rejiminde **"Ülke 
-Parası ile Ödeme"** kuralını düzenlemektedir. İncelemenin maddi özünü oluşturan
-ve talebinizde yer alan **Kefilin Rücu Hakkı ve Kanuni Halefiyet (Subrogation /
-Regress des Bürgen)** müessesesi, mülga 818 sayılı BK m. 496'nın karşılığı 
-olarak yeni 6098 sayılı TBK sistematiğinde **Madde 596** başlığı altında 
-kodifiye edilmiştir. Ayrıca talebinizde mehaz olarak gösterilen **OR Art. 
-497**, İsviçre hukukunda "Birlikte Kefaleti" düzenlerken; kefilin rücu ve 
-halefiyet hakkı **OR Art. 507**'de yer almaktadır. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-arasında özellikle Hakan Dağdelen'e ait *"Kefilin Rücu Hakkı"* başlıklı eser, 
-bu incelemenin temel omurgasını oluşturmaktadır. Ancak kurumun spesifik 
-dogmatik detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
-Nomer öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki 
-teorik tartışmalar) tarafımdan harici akademik müktesebat ile tamamlanarak 
-analiz edilmiştir. Sisteminizdeki "Muvazaanın Müeyyidesi Meselesi", "Sebepsiz 
-Zenginleşme Davasının Aslî Niteliği", "Genel İşlem Koşullarının Denetimi" ve 
-"İfa" konularındaki belgeler ise, rücu mekanizmasının sistematik ilişkilerinde,
-geçersizlik senaryolarında ve tasfiye süreçlerinde azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan kefilin 
-rücu hakkı ve kanuni halefiyet kurumunu bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -365,7 +336,6 @@ perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye deryasını, haksız fiillerin
 o karanlık dehlizlerini ve zamanaşımı mekanizmalarını aynı acımasız titizlikle 
-incelemeye devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede 
 görüşeceğiz.
 
 ---

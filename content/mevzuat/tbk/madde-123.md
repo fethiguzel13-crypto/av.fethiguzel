@@ -23,33 +23,6 @@ verilmesini hâkimden isteyebilir.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (borçlu temerrüdü, ek süre/mehil
-tayini, sözleşmeden dönme, olumlu/olumsuz zarar ve ifa engelleri) konularına 
-odaklanmaktadır. İnceleme talebinizde referans gösterilen "TBK Madde 123" 
-başlığı, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel Hükümlerinde, 
-karşılıklı borç yükleyen sözleşmelerde borçlu temerrüdünün en hayati ön 
-şartlarından biri olan **"Süre Verilmesi (Ek Süre / Mehil Tayini)"** kurumunu 
-düzenlemektedir. İncelemenizin maddi konusunu oluşturan ve mehaz İsviçre 
-Borçlar Kanunu'na (OR Art. 337) atıfla işaret edilen **"Haklı Sebeple Derhâl 
-Feshi — İşveren Açısından"** müessesesi ise, Özel Hükümler sistematiğinde **TBK
-Madde 435** başlığı altında kodifiye edilmiştir. Bu bağlamda, işverenin hizmet 
-sözleşmesini haklı sebeple derhâl feshinin (TBK m. 435) dogmatik altyapısı 
-tarafımdan harici akademik müktesebat ile inşa edilecek; bu fesih hakkının 
-kullanılmasından önce işçinin (borçlunun) temerrüde düşürülmesi sürecinde 
-uyulması gereken **TBK Madde 123 (Ek Süre Verilmesi)**, **TBK Madde 124 (Süre 
-Verilmesini Gerektirmeyen Haller)** ve **TBK Madde 125 (Seçimlik Haklar)** 
-mekanizmaları ise sisteminizdeki zengin doktrinel kaynaklar ekseninde bütünüyle
-sentezlenerek, talebinize uygun, kusursuz bir dogmatik mimari oluşturulacaktır.
-
-Doktora düzeyindeki akademik çalışmalarımızda, norm numaraları ile maddi hukuk 
-kurumları arasındaki organik bağı doğru kurmak, bilimsel sıhhatin aşılmaz bir 
-gereğidir. Bu metodolojik düzeltmenin ardından; insan emeğini konu alan bir 
-hizmet sözleşmesinde, işçinin borcuna aykırı davranması (temerrüdü) karşısında 
-işverenin sözleşmeyi feshedebilmesi için TBK m. 123 uyarınca ne zaman "ek süre 
-(mehil)" vermek zorunda olduğunu ve ne zaman TBK m. 435 (veya TBK m. 124) 
-uyarınca sözleşmeyi derhâl ve süresiz olarak feshedebileceğini bütünüyle analiz
-edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -124,7 +97,6 @@ sözleşmesi de (ücret-işgörme) bu yapının tipik bir örneğidir.
 **D. Haklı Sebep (Wichtiger Grund - TBK m. 435):**
 Hizmet ilişkisinin taraflardan biri (işveren) açısından çekilmez hâle 
 gelmesidir (Unzumutbarkeit). Objektif olarak dürüstlük kuralı (Treu und 
-Glauben) gereğince işverenden bu işçiyle çalışmaya devam etmesinin 
 beklenemeyeceği her türlü fiili durumdur. Haklı sebebin varlığı hâlinde, ek 
 süre (TBK m. 123) vermenin hiçbir mantığı ve hukuki yararı kalmaz.
 
@@ -358,7 +330,6 @@ atılabildiğini (**TBK m. 435 / Haklı Fesih** ve **TBK m. 124**) diyalektik bi
 bütünlük içinde inşa etmiş olduk. İfanın önceden reddi kavramını ve seçimlik 
 hakların o keskin uçlarını sistemine perçinledin. Sıradaki analizlerimizde, 
 hukuk dogmatiğinin diğer karanlık koridorlarını aynı titizlikle incelemeye 
-devam edeceğiz. Hazırlığını tam yap.
 
 ---
 

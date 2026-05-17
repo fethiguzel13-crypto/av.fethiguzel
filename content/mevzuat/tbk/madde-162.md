@@ -23,47 +23,6 @@ doğar.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir felaketin adeta son
-perdesidir. İnceleme başlığında bana "TBK Madde 162" normunu zikredip, hemen 
-yanına "Temerrüt faizi ve aşkın zarar tazminatı" yazmışsın ve mehaz olarak da 
-İsviçre Borçlar Kanunu (OR) Art. 105'i göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: Dünkü celsede sana açıkça 
-"Müteselsil Borçluluk dehlizine çalış" talimatını vermiştim. Sen ise gelmiş, 
-6098 sayılı Türk Borçlar Kanunu'nun (TBK) o devasa "Müteselsil Borçluluk" 
-kurumunun dış ilişkideki anayasası olan, alacaklıya dilediği borçluya başvurma 
-hakkı veren **TBK Madde 162 (Alacaklı ile Borçlular Arasındaki İlişki - Mehaz 
-OR Art. 144)** kuralının üzerine, ifa engellerinin parasal sonuçları olan **TBK
-Madde 120 (Temerrüt Faizi)** ve **TBK Madde 122 (Aşkın Zarar / Munzam Zarar - 
-Eski BK m. 105, Mehaz OR Art. 106)** etiketini yapıştırmışsın! Eski Borçlar 
-Kanunu'ndaki m. 105'i (Aşkın Zarar) ve İsviçre'deki OR 105'i (Temerrüt Faizi) 
-bugünkü TBK m. 162 ile aynı potada zikretmek, ancak normatif mimariyi bütünüyle
-reddeden bir zihnin eseridir.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak temerrüt faizi, aşkın zarar, 
-faiz sınırları, müteselsil borçluluk ve sözleşme teorisi üzerine inşa 
-edilmiştir. Doğrudan TBK m. 162'de yer alan "Müteselsil Borçlulukta Dış 
-İlişki" ile aşkın zararı birleştiren monografik bir eser bu kütüphanede 
-bulunmamakla birlikte; kütüphanendeki kaynaklarda Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer'in devasa genel borçlar hukuku, ifa 
-engelleri ve tazminat çalışmalarına yapılan çok yoğun atıflar mevcuttur.
-Dolayısıyla, TBK m. 162'nin o katı teselsül gücünü kendi akademik 
-müktesebatımla inşa edeceğimi, bu kuralı senin zihnini karıştıran o temel 
-temerrüt faizi ve aşkın zarar ilkeleriyle (TBK m. 120 ve 122) harmanlayarak 
-şerh edeceğimi ve bu harici bilgileri akademik güvenliğin için bağımsız olarak 
-doğrulaman gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacaklıya birden çok 
-borçludan dilediğine başvurma hakkı veren o çelikten iradeyi, yani **TBK m. 162
-(Müteselsil Borçlulukta Alacaklının Hakkı)** kuralını, borçlunun parayı 
-ödememesi hâlinde üzerine çöken o faiz ve tazminat yüküyle, yani **TBK m. 120 
-ve 122 (Temerrüt Faizi ve Aşkın Zarar)** kurallarıyla aynı dogmatik 
-laboratuvarda eriteceğim. Müteselsil borçlulardan birinin temerrüde düşüp aşkın
-zarar ve faiz sarmalına girmesinin, diğer müteselsil borçluyu TBK m. 165 duvarı
-karşısında nasıl etkileyeceğini amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -350,30 +309,6 @@ belirleyememesi, sözleşme özgürlüğü ve irade özerkliğini (Privatautonom
 zedeleyen, ticari hayatı bürokratik bir cendereye sokan kanunlaştırma 
 (Legistik) zafiyetidir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en güçlü iki 
-silahını; alacaklıya borçlular ordusundan dilediğini seçip vurma yetkisi veren 
-o mutlak iradeyi (**TBK m. 162 / Müteselsil Borçlulukta Dış İlişki**) ve 
-borçluyu parayı geciktirdiği her saniye için faiz ve ispatı zor bir tazminat 
-sarmalına sokan o patolojik bedeli (**TBK m. 120 ve 122 / Temerrüt Faizi ve 
-Aşkın Zarar**) diyalektik bir bütünlük içinde nasıl bir şahsilik/teselsül 
-çatışmasına soktuğunu inşa etmiş olduk. Aşkın zararın kusur karinesi yapısını 
-ve dış ilişkide seçim hakkının mutlaklığını sistemine çiviledin. 
-
-Bu oturumda sergilediğin o feci normatif hatanın (Müteselsil Borçluluğun dış 
-ilişkisi olan TBK 162 ile, Temerrüt Faizi ve Aşkın Zararı düzenleyen TBK 
-120/122'yi, üstüne bir de OR maddelerini birbirine katarak beni tuzağa 
-düşürmeye çalışmanın) bir hukukçuyu dogmatik bir infaza ne kadar 
-sürükleyebileceğini artık iliklerine kadar idrak etmiş olmalısın. Borçlar 
-Hukukunun o kusursuz mimarisinde böyle bir savrulmaya bir daha izin 
-vermeyeceğim. Bir sonraki okumalarında "Müteselsil Borçlulukta İç İlişki ve 
-Rücu" (TBK m. 167 vd.) dehlizine çalışarak eksiksiz hazırlan. Zihnini dogmatik 
-bir çelik gibi keskin tut; zira bu arenada bilgisizliğe ve dikkatsizliğe asla 
-tahammülüm yoktur! Şimdi sana şu dogmatik problemi bırakıyorum: Müteselsil 
-borçlulardan biri, alacaklı ile anlaşarak borcu yenilerse (novasyon) veya takas
-ederse, bu durum dış ilişkide (TBK m. 162) diğer borçluları nasıl etkiler ve 
-aşkın zarar sarmalını nasıl keser? Bu sorunun cevabını bulmadan sakın karşıma 
-gelme!
 
 ---
 

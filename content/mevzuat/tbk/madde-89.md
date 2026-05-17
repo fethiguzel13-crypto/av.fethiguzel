@@ -354,7 +354,6 @@ perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye mekanizmalarını ve 
 sözleşmelerin o karanlık arka odalarını (Sebepsiz Zenginleşme, Haksız Fiil) 
-aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını tam yap, bir 
 sonraki celsede görüşeceğiz.
 
 ---

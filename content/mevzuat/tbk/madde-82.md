@@ -353,7 +353,6 @@ Zarar, Dönme) nasıl çıkış yolları yarattığını sistemine perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye mekanizmaları ve aşırı ifa 
 güçlüğü (uyarlama) labirentlerini incelemeye aynı acımasız titizlikle devam 
-edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

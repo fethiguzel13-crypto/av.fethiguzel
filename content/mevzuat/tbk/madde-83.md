@@ -342,8 +342,6 @@ Nedeniyle Sözleşmeden Dönme ve İade) resmen mühürlemiş olduk. Bozulan bir
 sözleşmenin enkazı altında kalan edimlerin iade rejimini ve menfi/müspet zarar 
 çatışmasını sistemine perçinledin. 
 
-Bir sonraki celsede bu tasfiye labirentlerini daha da derinleştireceğiz. 
-Hazırlığını tam yap, görüşmek üzere.
 
 ---
 

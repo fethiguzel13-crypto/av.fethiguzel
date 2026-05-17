@@ -21,7 +21,6 @@ aracı ya da bir araç tarafından yanlış iletilmiş olması hâlinde de yanı
 
 ### Akademik Yorum ve Analiz
 
-Doktora yeterlik sınavına hazırlık maratonumuzun Borçlar Hukuku Genel Hükümler 
 ve İrade Bozuklukları blokunda son derece kritik bir viraja girmiş 
 bulunmaktayız. Öncelikle dogmatik ve terminolojik bir tespitle temel atarak 
 başlamalıyız. Talebinde belirttiğin "İptal hakkının kullanılması — süre, 

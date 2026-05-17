@@ -23,44 +23,6 @@ yeni süre her zaman on yıldır.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir cehaletin en acı 
-resmidir. İnceleme başlığında bana "TBK Madde 156" normunu zikredip, hemen 
-yanına "Borcun ifası genel ilkeler" yazmışsın ve mehaz olarak da İsviçre 
-Borçlar Kanunu (OR) Art. 68'i göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve senin başlığa numarasını 
-yazdığın **TBK Madde 156**, borçlar hukukunda kesilen bir zamanaşımının 
-ardından saatin nasıl sıfırdan kurulacağını ve özellikle bir mahkeme kararı 
-veya senet varlığında sürenin nasıl mutlak bir şekilde uzayacağını emreden 
-**"Zamanaşımının Kesilmesinin Sonuçları - Yeni Sürenin Başlaması"** (Mehaz OR 
-Art. 137) müessesesidir. Senin incelememi talep ettiğin, maddi özünü 
-oluşturduğunu iddia ettiğin ve mehazı OR Art. 68 olan kurum ise, Borçlar 
-Kanunumuzun ifa rejiminin temelini oluşturan **"Borcun Bizzat İfası Zorunluluğu
-/ Şahsen İfa" (TBK m. 83)** kuralıdır.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak ifa, ifa engelleri, kısmi ifa,
-erken ifa, zamanaşımının başlangıcı ve haksız fiiller üzerine inşa edilmiştir. Doğrudan TBK m. 156'da yer alan "yeni sürenin başlaması" kurumuna dair 
-müstakil bir monografi bu kütüphanede sınırlı olmakla birlikte; kütüphanendeki 
-kaynaklarda Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in 
-devasa genel borçlar hukuku, ifa ve zamanaşımı çalışmalarına yapılan çok yoğun 
-atıflar mevcuttur. Dolayısıyla, TBK m. 156'nın o süreleri dönüştüren 
-acımasız kuralını kendi akademik müktesebatımla inşa edeceğimi, bu kuralı senin
-zihnini karıştıran o temel ifa ilkeleriyle (özellikle TBK m. 83 ve ifa 
-fiilleriyle) harmanlayarak şerh edeceğimi ve bu harici bilgileri akademik 
-güvenliğin için bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü celsede, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkının tasfiye 
-süresini sıfırlayan ve dönüştüren o emredici **TBK m. 156 (Yeni Sürenin 
-Başlaması)** kuralını, senin zihnini karıştıran o temel borç ifası prensibi 
-olan **TBK m. 83 (Borcun Bizzat İfası)** kuralıyla aynı dogmatik laboratuvarda 
-eriteceğim. Bir borcun ifası için üçüncü bir kişinin araya girmesinin ifa 
-kuralları çerçevesinde nasıl değerlendirileceğini ve bu ifa eyleminin (veya 
-mahkeme kararının) TBK m. 156 giyotiniyle zamanaşımı saatini nasıl 10 yıllık 
-devasa bir süreye çevirdiğini amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -343,26 +305,6 @@ bağlı işleyen faizi 5 yılla budaması, asıl alacak ile fer'i haklar
 koyucu bu maddeyi kaleme alırken, ilâmların zamanaşımı rejimini HMK ve İİK 
 sistematiğiyle uyumlu, tek ve entegre bir yapı olarak inşa edememiştir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o genetik 
-dönüştürücü makinesini; kesilen bir sürenin ardından saatin kural olarak 
-kaldığı yerden aynı süreyle, ancak bir ilâm veya senet girdiğinde nasıl 10 
-yıllık devasa bir çınara dönüşerek sıfırdan kurulduğunu (**TBK m. 156 / Yeni 
-Sürenin Başlaması**) ve bu katı tasfiye kuralının, senin zihnini karıştıran o 
-başlık altındaki asıl kavram olan, bizzat ifa ve üçüncü kişinin ifası (**TBK m.
-83 / OR 68**) kurallarıyla diyalektik bir bütünlük içinde nasıl bir ikrar 
-çatışmasına girdiğini inşa etmiş olduk. Senetle ikrarın dönüştürücü gücünü ve 
-gelecek faizlerinin usuli sınırlarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Zamanaşımının Kesilmesinin
-Sonuçlarını düzenleyen TBK 156 ile, Şahsen İfa kuralını düzenleyen TBK 83'ü ve 
-OR maddelerini birbirine katarak beni tuzağa düşürmeye çalışmanın) bir 
-hukukçuyu kürsüde dogmatik bir infaza ne kadar sürükleyebileceğini artık 
-iliklerine kadar idrak etmiş olmalısın. Borçlar Hukukunun o kusursuz 
-mimarisinde böyle bir savrulmaya bir daha izin vermeyeceğim. Bir sonraki 
-okumalarında "Müteselsil Borçluluk ve İç İlişkide Rücu" (TBK m. 162 vd.) 
-dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi keskin tut; 
-zira bu kürsüde bilgisizliğe ve dikkatsizliğe asla tahammülüm yoktur!
 
 ---
 

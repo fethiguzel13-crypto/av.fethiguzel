@@ -25,42 +25,6 @@ kabul edilmiş olması, güvenceyi sona erdirmez.
 
 ### Akademik Yorum ve Analiz
 
-Yine aynı dogmatik körlük, yine aynı normatif hezeyan! Doktora yeterlik 
-sınavının eşiğinde bulunan bir adayın, Borçlar Hukuku Genel Hükümler ile Özel 
-Hükümler (ve hatta Ticaret Hukuku) arasındaki o aşılmaz duvarı bu derece 
-pervasızca yıkmaya çalışması, akademik kürsüde dehşet verici bir metodolojik 
-çöküş olarak nitelendirilir. İnceleme talebinde bana "TBK Madde 134" normunu 
-verip, yanına "Ticari Mümessil ve Ticari Vekil" yazmışsın ve mehaz olarak OR 
-Art. 462'yi göstermişsin. 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel 
-Hükümlerinde yer alan **TBK Madde 134**, borcu sona erdiren en istisnai ve 
-felsefi sebeplerden biri olan **"Alacaklı ve Borçlu Sıfatlarının Birleşmesi 
-(Konfüzyon / Confusio)"** kurumunu düzenlemektedir. İncelemenin maddi özünü 
-oluşturan **"Ticari Temsilci ve Ticari Vekil"** müessesesi ise, Özel Hükümler 
-sistematiğinde **TBK Madde 547 ve devamı** (Mehaz OR Art. 458 vd.) başlıkları 
-altında kodifiye edilmiştir.
-
-Akademik dürüstlüğümüz ve hukuki namusumuz gereği, bu feci norm karmaşasını 
-salt bir reddiye ile geçiştirmeyeceğiz. Bugünkü oturumumuzda, bir ticari 
-temsilcinin (prokuristin) işletme sahibi adına dış dünyada kurduğu o devasa 
-temsil ağını (**TBK m. 547 vd.**); bu temsilcinin günün birinde o işletmenin 
-maliki konumuna gelmesiyle (örneğin miras yoluyla veya devralarak) "alacaklı ve
-borçlu", "temsil eden ve temsil olunan" sıfatlarının aynı kişide nasıl eriyip 
-yok olduğunu (**TBK Madde 134 / Birleşme**) eşi görülmemiş bir diyalektik 
-bütünlük içinde sentezleyeceğiz. Zihnine şu temel dogmayı kazı: Temsil hukuku 
-"başkası (alter)" kavramı üzerine inşa edilir; birleşme (konfüzyon) ise bu 
-"başkası"nı yutarak tüm hukuki ilişkiyi tek bir bedende eritir. Sistemindeki 
-zengin doktrinel eserler (bilhassa Fikret Eren, M. Kemal Oğuzman, Turgut Öz, 
-Haluk Nami Nomer ve temsil yetkisinin kötüye kullanılmasına ilişkin makaleler) 
-üzerinden bu yapıyı amansız bir şerhe tabi tutacağız.
-
-*Bilgi Eksikliği ve Yöntem Bildirimi: Sisteminizde yer alan kaynaklar ağırlıklı
-olarak genel temsil (TBK m. 40 vd.) temsil yetkisinin kötüye kullanılması, 
-haksız fiil ve genel işlem koşulları konularına odaklanmaktadır. Ticari 
-temsilci ve ticari vekilin (TBK m. 547-554) spesifik ticaret hukuku yansımaları
-sisteminizde yalnızca Yargıtay kararları düzeyinde (örneğin 12. HD kararı) 
-mevcuttur. Bu nedenle, ticari temsilin alt unsurlarını kendi akademik 
-müktesebatımla inşa edecek, ancak bunu sisteminizdeki yetkisiz temsil ve 
-temsilin kötüye kullanılması eserleriyle harmanlayacağım.*
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -336,20 +300,6 @@ Roma kuralını (Confusio) modern şirketler ve ticari temsil hukukuyla uyumlu
 hâle getirecek esnetici istisnalar öngörmemesi, dogmatik bir tembellik ve 
 kanunlaştırma zaafiyetidir.
 
-
-İşte böylece, Borçlar Hukuku sistematiğinin o en çetrefilli koridorlarından 
-birini; bir ticari temsilcinin dış dünyada kurduğu o kanuni ve devasa yetki 
-zırhını (**TBK m. 547**) ve bu zırhın, temsilcinin bir gün asil konumuna 
-geçmesiyle ortaya çıkan o felsefi çekim kuvvetinde (**TBK m. 134 / Birleşme**) 
-nasıl anında eriyip yok olduğunu diyalektik bir bütünlük içinde inşa etmiş 
-olduk. Temsil yetkisinin bağımsızlığı ile hileli anlaşmanın (collusion) o 
-tehlikeli arafını sistemine perçinledin. 
-
-Bugünkü 60 GÜNLÜK DOKTORA YETERLİK ÇALIŞMA PROGRAMI oturumunda sergilediğin bu 
-normatif hataların, bir hukukçu için ne derece ölümcül olabileceğini idrak 
-etmiş olmalısın. Bir sonraki okumalarında "İfa İmkânsızlığı" ve "Aşırı İfa 
-Güçlüğü (Uyarlama)" kuramlarının o kırılgan sınırlarına (TBK m. 136-138) 
-çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi sert tut.
 
 ---
 

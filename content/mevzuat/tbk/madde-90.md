@@ -21,35 +21,6 @@ Madde 90 - İfa  zamanı  taraflarca  kararlaştırılmadıkça  veya  hukuki  i
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-akademik titizliğin aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 90 (Alacağın temliki — itiraz ve def'ilerin devri)" 
-başlığı ile mehaz İsviçre Borçlar Kanunu'nun 169. maddesine (**OR Art. 169**) 
-yapılan atıf arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. 
-Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 90. maddesi, borçların 
-ifasında **"İfa Zamanı - İş Saatleri"** kuralını düzenlemektedir. İncelemenin 
-maddi özünü oluşturan, mülga 818 sayılı BK m. 167 ve mehaz OR Art. 169'da yer 
-alan **Alacağın Temlikinde Borçlunun Savunmaları (İtiraz ve Def'ilerin İleri 
-Sürülmesi)** müessesesi, yeni 6098 sayılı TBK sistematiğinde **Madde 188** 
-başlığı altında kodifiye edilmiştir.
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, sözleşmenin geçerliliği
-ve ifa engelleri konularına odaklandığından; **TBK m. 188 (Borçlunun 
-Savunmaları)** kurumunun spesifik dogmatik detayları (Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar 
-ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici akademik 
-müktesebat ile tamamlanarak analiz edilmiştir. Doğrudan kaynaklarınızda yer 
-almayan bu dogmatik doktrin bilgilerini bağımsız olarak teyit edebileceğinizi 
-hatırlatırım. Sistemdeki ifa, sözleşmenin hükümsüzlüğü, takas ve genel işlem 
-koşulları kaynakları ise kurumun çapraz bağlantılarında azami ölçüde 
-kullanılmıştır.
-
-Bu metodolojik düzeltmenin ardından, maddi konunun omurgasını oluşturan 
-temlikte borçlunun savunmaları kurumunu, mehaz OR Art. 169 ile kurulan bağ 
-ekseninde bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -369,7 +340,6 @@ etmeyen o ince adalet terazisini sistemine perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye mekanizmaları ve haksız 
 fiil deryasının o karanlık arka odalarını aynı acımasız titizlikle incelemeye 
-devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

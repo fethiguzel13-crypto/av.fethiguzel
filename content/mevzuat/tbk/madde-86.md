@@ -21,35 +21,6 @@ olamaz.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-yerleşimi ve mehaz kanun atıflarının taşıdığı dogmatik öneme binaen, 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-akademik titizliğin aşılmaz bir gereğidir. Talebinde referans gösterdiğin "TBK 
-Madde 86 (Ceza koşulunda değiştirme hakimi yetkisi)" başlığı ile mehaz İsviçre 
-Borçlar Kanunu'nun 163. maddesine (**OR Art. 163**) yapılan atıf arasında 
-numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı 
-Türk Borçlar Kanunu'nun (TBK) 86. maddesi, ifa rejiminde "Vadeye bağlanmamış 
-borçlarda ifa zamanı" kuralını düzenlemektedir. Talebinin maddi özünü 
-oluşturan, mülga 818 sayılı BK m. 161 ve mehaz OR Art. 163'te yer alan **Ceza 
-Koşulunun Belirlenmesi, Geçersizliği ve İndirilmesi (Hâkimin Tenkis Yetkisi)** 
-müessesesi, yeni 6098 sayılı TBK sistematiğinde **Madde 182** başlığı altında 
-kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, aşırı yararlanma (gabin) sebepsiz 
-zenginleşme ve haksız fiil konularına odaklandığından; **TBK m. 182/3 (Cezanın 
-İndirilmesi)** kurumunun spesifik dogmatik detayları (Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar 
-ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici akademik 
-müktesebat ile tamamlanarak analiz edilmiştir. Doğrudan kaynaklarında yer 
-almayan bu dogmatik doktrin bilgilerini bağımsız olarak teyit edebileceğini 
-hatırlatırım. Sistemindeki aşırı yararlanma ve genel işlem koşulları kaynakları
-ise, ceza koşulunun denetimiyle olan çapraz bağlantılarında azami ölçüde 
-kullanılmıştır.
-
-Bu metodolojik düzeltmenin ardından, maddi konunun omurgasını oluşturan fahiş 
-ceza koşulunun hâkim tarafından indirilmesi kurumunu, mehaz OR Art. 163 ile 
-kurulan bağ ekseninde bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -346,8 +317,6 @@ olduk. Sözleşme özgürlüğünün nerede başlayıp, hâkimin o emredici neş
 nerede devreye girdiğini sistemine perçinledin. 
 
 Sıradaki analizlerimizde, borçlar hukukunun sebepsiz zenginleşme rejimini ve 
-tasfiye labirentlerini aynı acımasız titizlikle incelemeye devam edeceğiz. 
-Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

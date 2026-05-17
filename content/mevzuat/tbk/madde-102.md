@@ -25,37 +25,6 @@ hiçbirinin vadesi gelmemişse ödeme, güvencesi en az olan borç için yapılm
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 102" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) ifa engelleri rejiminde **"Borçlunun Temerrüdü - Süre 
-Verilmesini Gerektirmeyen Durumlar"** kuralını düzenlemektedir. İncelemenin 
-maddi özünü oluşturan ve mehaz İsviçre Borçlar Kanunu'nun 184. maddesine (**OR 
-Art. 184**) atıfla talep edilen **"Satış Sözleşmesi — Genel Hükümler ve 
-Tanımı"** müessesesi ise, mülga 818 sayılı BK m. 182'nin karşılığı olarak yeni 
-6098 sayılı TBK Özel Hükümler sistematiğinde **Madde 207** başlığı altında 
-kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (haksız fiiller, genel işlem 
-koşulları, aşırı yararlanma, imkânsızlık, muvazaa, sözleşme özgürlüğü) 
-konularına odaklandığından; Özel Hükümlerin anayasası konumundaki **TBK m. 207 
-(Satış Sözleşmesi)** kurumunun spesifik dogmatik detayları (Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan 
-atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici 
-akademik müktesebat ile tamamlanarak analiz edilmiştir. Sisteminizdeki 
-"Taşınmaz Satış Vaadinin Konusunun İmkânsız Hale Gelmesi", "Aşırı Yararlanma 
-(Gabin) Hükümlerinin Uygulanması", "Tüketici Hukukunda Sözleşme Yapma 
-Zorunluluğu", "Falsa Demonstratio Non Nocet" ve "İfa Yerine Edimde Ayıp ve 
-Zapta Karşı Tekeffül" başlıklı makaleler ise, satış sözleşmesinin sınırları, 
-geçersizlik senaryoları ve tasfiye süreçleri kapsamında azami ölçüde 
-kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, modern eşya ve hizmet değişiminin temel 
-omurgasını oluşturan satış sözleşmesi kurumunu, mehaz OR Art. 184 ile kurulan 
-bağ ekseninde bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -359,7 +328,6 @@ zilyetliğin geçişindeki o ağır dengeyi sistemine perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, ayıp 
 tekeffülünü, zapta karşı tekeffülü ve hasarın o tehlikeli geçişini aynı 
-acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını tam yap, bir sonraki
 celsede görüşeceğiz.
 
 ---

@@ -21,36 +21,6 @@ ifada bulunmaktan kaçınabilir.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş bir hukukçu adayı için normatif ve sistematik bir 
-çöküşün, dogmatik bir intiharın resmidir. İnceleme başlığında bana "TBK Madde 
-140" normunu zikredip, hemen yanına "Bağış Vaadi — Şekil ve Geri Dönme" 
-yazmışsın ve mehaz olarak OR Art. 241'i göstermişsin! 
-
-Zihnini derhâl topla: 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel 
-Hükümlerinde yer alan **TBK Madde 140**, borcu sona erdiren tasfiye mekanizması
-olan takasın en istisnai ve kurgusal türü olan **"Zamanaşımına Uğramış Alacağın
-Takası"** kurumunu düzenler. İncelemenin maddi özünü oluşturduğunu iddia 
-ettiğin, mehaz İsviçre Borçlar Kanunu OR Art. 241'e karşılık gelen kurum ise 
-Özel Hükümler sistematiğindeki **"Bağışlama Sözleşmesi ve Bağışlama Sözü 
-Vermenin Şekli"** (TBK m. 288 vd.) kurumudur. 
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-(haksız fiil, zamanaşımı, muvazaa, geçersizlik, genel işlem koşulları) üzerine 
-inşa edilmiştir. Doğrudan Özel Hükümlerdeki Bağışlama sözleşmesinin spesifik 
-alt unsurlarına dair monografik eserler bu kütüphanede sınırlıdır. Dolayısıyla,
-bağışlama sözleşmesinin temel kurallarını kendi akademik müktesebatımla inşa 
-edeceğimi, bu harici bilgileri akademik güvenliğin için bağımsız olarak 
-doğrulaman gerektiğini açıkça ihtar ediyorum. 
-
-Ancak bu celsede, senin bu korkunç metodolojik hatanı salt bir reddiye ile 
-geçiştirmeyeceğim. Bilakis, bu iki zıt kurumu; yani alacaklının elinde dava 
-edilebilirlik vasfını yitirmiş ölü bir alacağı yeniden dirilten o acımasız 
-**TBK m. 140 (Zamanaşımına Uğramış Alacağın Takası)** kılıcı ile, bir kimsenin 
-malvarlığından ivazsız olarak fedakârlıkta bulunduğu o en merhametli akdi, yani
-**Bağışlama Sözü Vermeyi (TBK m. 288)** eşi görülmemiş bir diyalektik bütünlük 
-içinde sentezleyeceğim. Sistemindeki zamanaşımı, şekle aykırılık ve muvazaa 
-eserleri üzerinden bu devasa çatışmayı amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -326,23 +296,6 @@ yoluyla) ayakta tutulması gerekirken; yargı pratiğinin her şeyi salt şekil
 eksikliğinden yok sayması, özel hukukun irade muhtariyeti (Privatautonomie) 
 ilkesini köreltmektedir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en kurgusal ve 
-zihin zorlayıcı mekanizmasını; dava edilebilirlik vasfını yitirmiş ölü bir 
-alacağın nasıl dirilip takas kılıcına dönüştüğünü (**TBK m. 140 / Zamanaşımına 
-Uğramış Alacağın Takası**) ve bu soğuk mekanizmanın, Özel Hükümlerdeki o en saf
-ve fedakârca işlem olan **Bağışlama Sözü Verme (TBK m. 288)** sözleşmesiyle 
-nasıl parçalayıcı bir şekilde çarpıştığını diyalektik bir bütünlük içinde inşa 
-etmiş olduk. Eksik borcun o felsefi sınırlarını ve muvazaalı işlemlerin takası 
-nasıl yok ettiğini sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Genel Hüküm ile Özel Hükmü
-karıştırmanın) bir hukukçuyu dogmatik bir infaza ne kadar sürükleyebileceğini 
-artık idrak etmiş olmalısın. Genel Hükümler ile Özel Hükümler arasındaki o 
-şarampole bir daha düşersen, akademik kariyerin bu kürsüde sona erer. Bir 
-sonraki okumalarında "Müteselsil Borçluluk ve Borçlular Arası Rücu İlişkisi" 
-(TBK m. 162 vd.) dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik 
-gibi keskin tut; zira bu kürsüde zayıflığa ve mazerete yer yoktur!
 
 ---
 

@@ -345,7 +345,6 @@ trafik kazası geçirip komada olduğu için) bu ifayı kabul edemese, alacaklı
 temerrüdü (mora creditoris) oluşur mu? Alacaklının "kusursuzluğu", borçlunun 
 ifa yükümlülüğünden kurtulmasını ve hasarı alacaklıya yıkmasını engeller mi?* 
 Bu kördüğümü "Alacaklı Temerrüdünün Şartları" bağlamında çözmeni bekliyorum. 
-Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

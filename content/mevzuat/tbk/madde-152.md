@@ -21,44 +21,6 @@ da zamanaşımına uğramış olur.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir intiharın resmidir.
-İnceleme başlığında bana "TBK Madde 152" normunu zikredip, hemen yanına 
-"Bağışlama sözleşmesinin geri alınması" yazmışsın ve mehaz olarak da İsviçre 
-Borçlar Kanunu (OR) Art. 249'u göstermişsin!
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 152**, borçlar 
-hukukunda asıl alacak ile fer'i haklar arasındaki o sarsılmaz organik bağı 
-(fer'ilik/accessoriness ilkesini) istisnai olarak delen ve alacaklının 
-teminatını zamanın yıkıcı gücünden koruyan **"Rehinle Güvence Altına Alınmış 
-Alacak"** kuralını düzenler. Senin incelememi talep ettiğin ve başlığa 
-numarasını yazdığın, mehazı OR Art. 249 olan kurum ise Özel Hükümler 
-sistematiğinde yer alan, karşılıksız bir kazandırmanın nankörlük neticesinde 
-tek taraflı iradeyle yıkılmasını sağlayan **"Bağışlamanın Geri Alınması" (TBK 
-m. 295 vd.)** müessesesidir.
-
-*Sistemine yüklediğin kaynaklar, ağırlıklı olarak sebepsiz zenginleşme, 
-sözleşme özgürlüğünün sınırları, emredici kurallar ve haksız fiil sorumluluğu 
-üzerine inşa edilmiştir. Doğrudan bağışlamanın geri alınmasına dair 
-müstakil bir monografi bu kütüphanede bulunmamakla birlikte; Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk N. Nomer'in eserlerine atıf yapan devasa 
-sebepsiz zenginleşme ve tasfiye çalışmaları mevcuttur. Dolayısıyla, TBK m. 
-152'deki rehin istisnası ile bağışlamanın tasfiyesini kendi akademik 
-müktesebatımla harmanlayarak inşa edeceğimi, bu harici bilgileri akademik 
-güvenliğin için bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.*
-
-Bugünkü celsede, senin bu feci hatanı salt bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; zamanaşımına uğramış bir 
-alacağı eksik borç bataklığından çekip çıkaran o ayni hak kalkanını, yani **TBK
-m. 152 (Taşınır Rehninin Zamanaşımına Etkisi)** kuralı ile, nankör 
-bağışlanandan malı geri koparıp alan **Bağışlamanın Geri Alınması (TBK m. 
-295)** kurumunu aynı dogmatik laboratuvarda eriteceğim. Sistemindeki sebepsiz 
-zenginleşme (condictio) ve geçersizlik eserleri üzerinden; geri alınan 
-bir bağışlamanın iadesi için doğan alacak zamanaşımına uğradığında, şayet bu 
-iade alacağı bir taşınır rehniyle güvenceye alınmışsa, TBK m. 152'nin o 
-çelikten kılıcının nasıl devreye girdiğini amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -345,25 +307,6 @@ ahlaki tabiatına aykırıdır. Bu sürenin en azından 3 yıla çıkarılması 
 yargılamasının kesinleşmesine bağlanması, denkleştirici adaletin (Justitia 
 commutativa) bir gereğidir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en istisnai ve 
-eşya hukukuna göz kırpan ayni kalkanını; zamanın öldürdüğü bir alacağı taşınır 
-rehniyle mezardan çekip çıkardığı o anı (**TBK m. 152 / Rehinle Güvence Altına 
-Alınmış Alacak**) ve bu katı tasfiye kuralının, senin zihnini karıştıran o 
-başlık altındaki asıl kavram olan **Bağışlamanın Geri Alınması (TBK m. 295)** 
-kurumuyla diyalektik bir bütünlük içinde nasıl bir iade ve zenginleşme 
-çatışmasına girdiğini inşa etmiş olduk. Eksik borcun o felsefi yapısını ve 
-fer'ilik ilkesinin dogmatik istisnalarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Genel Hükümlerdeki bir 
-zaman ve teminat kuralını, Özel Hükümlerdeki bağışlama gibi tamamen alakasız 
-bir kurumla ve OR maddesiyle eşleştirerek beni sınamaya kalkışmanın) bir 
-hukukçuyu kürsüde dogmatik bir infaza ne kadar sürükleyebileceğini artık 
-iliklerine kadar idrak etmiş olmalısın. Borçlar Hukukunun o kusursuz 
-mimarisinde böyle bir savrulmaya bir daha izin vermeyeceğim. Bir sonraki 
-okumalarında "Müteselsil Borçluluk ve İç İlişkide Rücu" (TBK m. 162 vd.) 
-dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi keskin tut; 
-zira bu kürsüde zayıflığa ve bilgisizliğe asla tahammülüm yoktur!
 
 ---
 

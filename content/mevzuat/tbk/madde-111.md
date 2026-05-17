@@ -26,41 +26,6 @@ Borçların İfa Edilmemesinin Sonuçları
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 111" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde, ifa engelleri ve alacaklı temerrüdü 
-rejiminin son halkası olan **"Diğer İfa Engelleri (Alacaklıda Haklı Tereddüt ve
-İfa İmkânsızlığı)"** kurumunu düzenlemektedir. İncelemenin maddi özünü 
-oluşturan ve mehaz İsviçre Borçlar Kanunu'na (Eski OR Art. 271 / Yeni OR Art. 
-259e) ve mülga 818 sayılı BK m. 258'e atıfla talep edilen **"Kiracının Bakım, 
-Temizlik ve Ufak Tefek Onarım Yükümlülüğü"** müessesesi ise, yeni 6098 sayılı 
-TBK Özel Hükümler sistematiğinde **Madde 317** başlığı altında kodifiye 
-edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (alacaklı temerrüdü, genel işlem
-koşulları, vekâletsiz iş görme, sebepsiz zenginleşme, ifa engelleri) konularına
-odaklandığından; Özel Hükümlerin en ihtilaflı alanlarından biri olan **TBK m. 
-317 (Kiracının Temizlik ve Bakım Giderlerini Ödeme Borcu)** kurumunun spesifik 
-dogmatik detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
-Nomer öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki 
-teorik tartışmalar) tarafımdan harici akademik müktesebat ile tamamlanarak 
-analiz edilmiştir. Sisteminizdeki *"Sebepsiz Zenginleşme Davasının Aslî 
-Niteliği ve Vekâletsiz İş Görme ile İlişkisi"*, *"Genel İşlem Koşullarının 
-Denetimi"* ve *"Alacaklının Temerrüdü Üzerine Sözleşmeden Dönen Borçlunun 
-Tazminat İstemi"* başlıklı bilimsel makaleler ise, kiracının kapsam dışı 
-tamiratları yapması hâlindeki tasfiye mekanizması, onarım yükünün standart 
-sözleşmelerle kiracıya yıkılmasının geçersizliği ve TBK m. 111 eksenindeki ifa 
-engelleri/temerrüt yansımaları kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, mülkiyetin kullanım değerinin devrini 
-simgeleyen kira ilişkisinde, kiraya verenin mutlak "bulundurma borcu" ile 
-kiracının "olağan bakım borcu" arasındaki o ince dogmatik fay hattını (TBK m. 
-317) ve bunun TBK m. 111 eksenindeki ifa engeli yansımalarını bütünüyle 
-parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -375,8 +340,6 @@ perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, hasılat 
 kirasının verimini, eser sözleşmesinin teslimiyetini ve vekâletin mutlak 
-sadakatini aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını tam 
-yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

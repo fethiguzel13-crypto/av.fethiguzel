@@ -367,8 +367,6 @@ perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, eser 
 sözleşmesinin teslim mimarisini, vekâletin mutlak sadakatini ve haksız fiilin 
-uygun illiyet ağlarını aynı acımasız titizlikle incelemeye devam edeceğiz. 
-Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

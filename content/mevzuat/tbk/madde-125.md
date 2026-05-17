@@ -29,28 +29,6 @@ zararın giderilmesini de isteyebilir.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar ve 
-akademik makaleler ağırlıklı olarak Borçlar Hukuku Genel Hükümler kapsamındaki 
-"borçlu temerrüdü, sözleşmeden dönme, alacaklı temerrüdü, müspet/menfi zarar 
-ayrımı ve seçimlik haklar" ile haksız fiil sorumluluğu gibi konulara 
-odaklanmaktadır. İnceleme talebinizde referans gösterilen "TBK Madde 125" 
-başlığı, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel Hükümlerinde, 
-karşılıklı borç yükleyen sözleşmelerde borçlu temerrüdünün sonuçlarını ve 
-alacaklının sahip olduğu **"Seçimlik Haklar"** müessesesini düzenlemektedir. 
-İncelemenizin maddi konusunu oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR 
-Art. 363) atıfla işaret edilen **"Eser Sözleşmesi — Genel Hükümler ve 
-Yüklenicinin Borçları"** kurumu ise, Özel Hükümler sistematiğinde **TBK Madde 
-470 ve devamı** başlıkları altında kodifiye edilmiştir. Hukuk dogmatiğinde 
-kanunlaştırma tekniği ve norm numaralarının taşıdığı mutlak öneme binaen, eser 
-sözleşmesinin temel yapısı tarafımdan harici akademik bilgilerle sunulacak; 
-ancak bu sözleşmede yüklenicinin asli edimini (eseri meydana getirme ve teslim)
-ifa etmemesi durumunda devreye giren yasal mekanizmalar, inceleme başlığınız 
-olan **TBK Madde 125 (Seçimlik Haklar)** ekseninde, sisteminizdeki zengin 
-doktrinel kaynaklar kullanılarak bütünüyle sentezlenecektir.
-
-Aşağıda, bir eser sözleşmesinde yüklenicinin edimini yerine getirmemesi 
-durumunda iş sahibinin TBK m. 125 uyarınca sahip olduğu hakların ve bu 
-mekanizmanın dogmatik mimarisinin detaylı akademik şerhi yer almaktadır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

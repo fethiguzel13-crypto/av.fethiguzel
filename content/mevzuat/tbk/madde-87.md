@@ -21,36 +21,6 @@ anlaşılmadıkça, edimlerden birinin seçimi borçluya aittir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı dogmatik öneme binaen, 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-akademik titizliğin aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 87 (Müteselsil borçluluk — iç ve dış ilişki)" başlığı ile
-mehaz İsviçre Borçlar Kanunu'nun 143. maddesine (**OR Art. 143**) yapılan atıf 
-arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 87. maddesi, ifa rejiminde "İfa zamanının 
-veya sürenin son gününün ayın başı, ortası veya sonu olarak belirlenmesi" 
-kuralını düzenlemektedir. İncelemenin maddi özünü oluşturan, mülga 818 sayılı 
-BK m. 141 ve mehaz OR Art. 143'te yer alan **Müteselsil Borçluluk 
-(Solidarschuld / Solidarité)** müessesesi, yeni 6098 sayılı TBK sistematiğinde 
-**Madde 162 ve devamı** (özellikle iç ve dış ilişki bakımından m. 162 - 168 
-arası) başlıkları altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sistemde yer alan kaynaklar ağırlıklı 
-olarak haksız fiil, genel işlem koşulları, aşırı yararlanma (gabin) ve ifa 
-engelleri konularına odaklandığından; **Müteselsil Borçluluğun İç ve Dış 
-İlişkisi** kurumunun spesifik dogmatik detayları (Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar 
-ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici akademik 
-müktesebat ile tamamlanarak analiz edilmiştir. Doğrudan kaynaklarda yer almayan
-bu dogmatik doktrin bilgilerini bağımsız olarak teyit edebileceğinizi 
-hatırlatırım. Sistemdeki haksız fiillerde ortak sorumluluk, kefilin rücu hakkı 
-ve adi ortaklık kaynakları ise müteselsil borçluluğun çapraz bağlantılarında 
-azami ölçüde kullanılmıştır.
-
-Bu metodolojik düzeltmenin ardından, maddi konunun omurgasını oluşturan 
-müteselsil borçluluk kurumunu, mehaz OR Art. 143 ile kurulan bağ ekseninde 
-bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

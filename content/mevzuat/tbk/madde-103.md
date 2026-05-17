@@ -24,39 +24,6 @@ ise borçlu, ancak makbuz verilmesini ve ödemenin borç senedine işlenmesini i
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 103" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) ifa engelleri ve temerrüt rejiminde **"Temerrüt Faizi - Temel 
-Kural"** kurumunu düzenlemektedir. İncelemenin maddi özünü oluşturan, 
-talebinizdeki "Satıcının borçları — teslim ve mülkiyetin devri" başlığı TBK m. 
-211'de yer alırken; mehaz İsviçre Borçlar Kanunu'nun 185. maddesine (**OR Art. 
-185**) atıfla işaret edilen **"Hasarın ve Yararın Geçişi (Übergang von Nutzen 
-und Gefahr)"** müessesesi ise, mülga 818 sayılı BK m. 152'nin karşılığı olarak 
-yeni 6098 sayılı TBK sistematiğinde **Madde 208** başlığı altında kodifiye 
-edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (ifa, alacaklı temerrüdü, ifa 
-imkânsızlığı, ifa yerine edim, faiz hükümleri) konularına odaklandığından; Özel
-Hükümlerin kalbini oluşturan **Satıcının Teslim Borcu ve Hasarın Geçişi (OR 
-Art. 185 / TBK m. 208 ve 211)** kurumlarının spesifik dogmatik detayları 
-(Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine 
-yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) 
-tarafımdan harici akademik müktesebat ile tamamlanarak analiz edilmiştir. 
-Sisteminizdeki "Taşınmaz Satış Vaadinin Konusunun İmkânsız Hale Gelmesi", 
-"Alacaklının Temerrüdü Üzerine Sözleşmeden Dönen Borçlunun Tazminat İstemi", 
-"Faiz Hükümleri ve Sınırları" ve "İfa Yerine Edimde Ayıp ve Zapta Karşı 
-Tekeffül" başlıklı bilimsel makaleler ise, satıcının borçlarının ifa 
-edilememesi, hasarın geçişi anındaki imkânsızlık senaryoları ve temerrüt 
-bağlamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, satım sözleşmesinin ifa safhasındaki en 
-kritik dogmatik fay hattını oluşturan teslim, mülkiyetin nakli ve hasarın 
-geçişi kurumlarını, mehaz OR Art. 185 ile kurulan bağ ekseninde bütünüyle 
-parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -366,7 +333,6 @@ sistemine perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, ayıp 
 tekeffülünün inceliklerini, zapta karşı tekeffülü ve tasfiye labirentlerini 
-aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını tam yap, bir 
 sonraki celsede görüşeceğiz.
 
 ---

@@ -25,42 +25,6 @@ Borç senedi borçluya geri verilmişse, borç sona ermiş sayılır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 104" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) temerrüt rejiminde **"Temerrüt Faizine Faiz Yürütülme Yasağı 
-(Bileşik Faiz Yasağı)"** kuralını düzenlemektedir. İncelemenin maddi özünü 
-oluşturan ve mehaz İsviçre Borçlar Kanunu'nun 211. maddesine (**OR Art. 211**) 
-atıfla talep edilen **"Alıcının Borçları — Satış Bedeli ve Teslim Alma"** 
-müessesesi ise, mülga 818 sayılı BK m. 205'in karşılığı olarak yeni 6098 sayılı
-TBK Özel Hükümler sistematiğinde **Madde 232** başlığı altında kodifiye 
-edilmiştir. 
-
-Bununla birlikte, alıcının asli borcu olan "bedeli ödeme" yükümlülüğünün ihlali
-doğrudan borçlu temerrüdünü ve dolayısıyla **TBK m. 104'teki bileşik faiz 
-yasağını**; "teslim alma" yükümlülüğünün ihlali ise doğrudan **Alacaklı 
-Temerrüdünü (TBK m. 106 vd.)** doğurduğundan, bu iki normatif alan birbiriyle 
-ayrılmaz bir bütünlük içindedir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (alacaklı temerrüdü, sözleşmeden
-dönme tazminatı, faiz hükümleri, ifa kuralları) konularına odaklandığından; 
-Özel Hükümlerin kalbini oluşturan **TBK m. 232 (Alıcının Borçları)** kurumunun 
-spesifik dogmatik detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
-Nami Nomer öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki 
-teorik tartışmalar) tarafımdan harici akademik müktesebat ile tamamlanarak 
-analiz edilmiştir. Sisteminizdeki *"Alacaklının Temerrüdü Üzerine Sözleşmeden 
-Dönen Borçlunun Tazminat İstemi"*, *"Temerrüdünde İhtar ve Ek Süre Kavramları"*
-ve *"Faiz Hükümleri ve Sınırları"* başlıklı bilimsel makaleler ise, alıcının 
-teslim almaktan kaçınması (alacaklı temerrüdü) bedeli ödememesi ve faiz 
-yaptırımları (TBK m. 104 bağlantısı) kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, satım sözleşmesinin ifa safhasındaki alıcı 
-cephesini oluşturan bedel ödeme ve teslim alma yükümlülüklerini, mehaz OR Art. 
-211 ve temerrüt hukuku ile kurulan bağ ekseninde bütünüyle parçalayarak analiz 
-edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -360,7 +324,6 @@ sözleşmeden dönmenin menfi zarar kılıcını sistemine perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, ayıp 
 tekeffülünün inceliklerini, zapta karşı tekeffülü ve tasfiye labirentlerini 
-aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını tam yap, bir 
 sonraki celsede görüşeceğiz.
 
 ---

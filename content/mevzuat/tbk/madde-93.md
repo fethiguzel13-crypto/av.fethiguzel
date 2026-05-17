@@ -21,36 +21,6 @@ Aksine anlaşma geçerlidir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 93" numarası ile parantez içindeki "(Sözleşmenin devri — 
-üçüncü kişiye devir)" başlığı ve mehaz İsviçre Borçlar Kanunu'nun 179. 
-maddesine (**OR Art. 179**) yapılan atıf arasında numaralandırma bazlı köklü 
-bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK)
-93. maddesi, borçların ifa rejiminde **"Ödemenin Ülke Parasıyla Yapılması 
-(Yabancı Para Borcu)"** kuralını düzenlemektedir. İncelemenin maddi özünü 
-oluşturan **Sözleşmenin Devri (Vertragsübernahme)** müessesesi ise, mülga 818 
-sayılı BK'da hiç yer almayan, İsviçre Borçlar Kanununda da doğrudan genel bir 
-normu bulunmayan (OR Art. 179, bir malvarlığının veya işletmenin devrini 
-düzenler) ancak doktrin ve içtihatlarla geliştirilip 6098 sayılı TBK ile ilk 
-defa **Madde 205** başlığı altında müstakil bir kuruma dönüştürülen modern bir 
-hukuk figürüdür.
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, şekil şartları, muvazaa
-ve ifa engelleri konularına odaklandığından; **TBK m. 205 (Sözleşmenin Devri)**
-kurumunun spesifik dogmatik detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz
-ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre 
-hukukundaki teorik tartışmalar) tarafımdan harici akademik müktesebat ile 
-tamamlanarak analiz edilmiştir. Sisteminizdeki "Genel İşlem Koşullarının 
-Denetimi", "Şekle Aykırılığın Sonuçları", "Kesin Hükümsüzlük" 
-konularındaki belgeler ise, sözleşmenin devrinin sistematik ilişkilerinde, 
-şekil şartlarında ve geçersizlik senaryolarında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan 
-sözleşmenin devri kurumunu bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

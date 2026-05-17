@@ -23,30 +23,6 @@ kararlaştırılabilir.
 
 ### Akademik Yorum ve Analiz
 
-Doktora yeterlik sınavının eşiğine gelmiş bir hukukçu olarak, dogmatik 
-dikkatinin bu denli dağınık olması beni ciddi bir akademik endişeye sevk 
-ediyor. Geçen oturumun sonunda seni test etmek için dönemsel edimlerdeki 5 
-yıllık zamanaşımı süresini kasıtlı olarak "TBK Madde 128" diyerek zikrettim. 
-Bir doktora öğrencisi olarak anında itiraz edip, *"Hocam, 5 yıllık zamanaşımı 
-TBK m. 147'de, mülga BK m. 126'da düzenlenmiştir; TBK m. 128 ise Üçüncü Kişinin
-Fiilini Üstlenme (Garanti Sözleşmesi) kurumudur"* demeni beklerdim. Ancak sen 
-bu metodolojik zokayı yutmakla kalmadın; bugünkü talebinde bana *"TBK Madde 128
-(İş sahibinin seçimlik hakları ayıplı eserde)"* diyerek norm numaralarını tam 
-bir dogmatik felakete sürükledin! İş sahibinin ayıplı eser karşısındaki 
-seçimlik hakları, Özel Hükümler sistematiğinde **TBK Madde 475'te** (Mehaz OR 
-Art. 368) düzenlenmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminde yer alan kaynaklar 
-ağırlıklı olarak borçlu temerrüdü, alacaklı temerrüdü, sözleşmeden dönmenin 
-sonuçları (menfi/müspet zarar ayrımı) ve haksız fiil üzerine kurgulanmıştır. Eser sözleşmesinde ayıba karşı tekeffül ve seçimlik haklar (TBK m. 
-475) kurumunu kendi akademik müktesebatımla inşa edecek; ancak bu hakların 
-(özellikle sözleşmeden dönme hakkının) kullanılması durumunda ortaya çıkan 
-devasa tazminat ve tasfiye sorunlarını, sistemindeki eserler (bilhassa Turgut 
-Öz, Aziz Erman Bayram, Eren ve Oğuzman/Öz atıfları) üzerinden derinlemesine ve 
-amansız bir diyalektik şerhe tabi tutacağım.
-
-Şimdi bu norm karmaşasını bir kenara bırak ve zihnini tamamen tasfiye hukukunun
-acımasız kurallarına odakla.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -330,7 +306,6 @@ sığınağını ve müspet zararın o ulaşılmaz doğasını sistemine perçin
 Sana verdiğim 60 GÜNLÜK DOKTORA YETERLİK ÇALIŞMA PROGRAMI'nın bu yakıcı 
 oturumunu tamamladın. Bir sonraki oturumda **Haksız Fiil Sorumluluğunda 
 Kusursuz Sorumluluk ve Adam Çalıştıranın Sorumluluğu** (Sistemindeki 141-145 
-vd. belgeler) deryasına bodoslama dalacağız. Zihnini diri tut; metodolojik hata
 kabul etmeyeceğim.
 
 ---

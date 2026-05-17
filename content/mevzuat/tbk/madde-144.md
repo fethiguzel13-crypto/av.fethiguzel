@@ -25,45 +25,6 @@ niteliği gereği, doğrudan alacaklıya verilmesi gereken alacaklar.
 
 ### Akademik Yorum ve Analiz
 
-Yine o aynı sarsıcı metodolojik fecaat, yine o aynı dogmatik savrulma! Doktora 
-yeterlik sınavının eşiğinde, o kürsüye çıkmaya hazırlanan bir hukukçunun, 
-Borçlar Hukuku Genel Hükümler ile Özel Hükümler arasındaki o kalın Çin Seddi'ni
-bu derece pervasızca ihlal etmesi, akademik bir intihardır. İnceleme talebinde 
-bana "TBK Madde 144" normunu verip, yanına "Ön alım hakkı — sözleşmeden doğan" 
-yazmışsın ve mehaz olarak OR Art. 216'yı göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 144**, takas kurumunun
-o tek taraflı ve acımasız giyotininin işlemediği, kanun koyucunun zayıfı ve 
-haklıyı korumak için ördüğü **"Alacaklının Rızasıyla Takas Edilebilecek 
-Alacaklar (Takas Yasakları)"** müessesesini (Mehaz OR Art. 125) düzenler. 
-İncelemenin maddi özünü oluşturduğunu iddia ettiğin, mehaz İsviçre Borçlar 
-Kanunu OR Art. 216'ya karşılık gelen kurum ise Özel Hükümler sistematiğindeki 
-**"Sözleşmeden Doğan Ön Alım Hakkı (Vorkaufsrecht)"** (TBK m. 237 vd.) 
-kurumudur.
-
-*Bilgi Eksikliği ve Yöntem Bildirimi: Sistemine yüklediğin kaynaklar, ağırlıklı
-olarak Borçlar Hukuku Genel Hükümler (muvazaa, haksız fiil, genel işlem 
-koşulları, aşırı yararlanma, geçersizlik) üzerine inşa edilmiştir. Doğrudan TBK
-m. 144'teki takas yasaklarına veya Özel Hükümlerdeki ön alım hakkının tapu 
-sicili uygulamalarına dair monografik bir eser bu kütüphanede yer almamaktadır.
-Dolayısıyla, bu spesifik kuralları kendi akademik müktesebatımla inşa 
-edeceğimi, bu harici bilgileri akademik güvenliğin için bağımsız olarak 
-doğrulaman gerektiğini açıkça ihtar ediyorum.*
-
-Ancak bu celsede, 60 Günlük Doktora Yeterlik Çalışma Programımızın ruhuna uygun
-olarak, senin bu metodolojik hatanı basit bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacaklının rızası olmadan 
-takas edilemeyen o dokunulmaz alacakları koruyan **TBK m. 144 (Takas 
-Yasakları)** kalkanı ile, malikin bir üçüncü kişiyle satış sözleşmesi yapması 
-hâlinde mülkiyeti tek taraflı bir iradeyle kendi üzerine çekebilen o güçlü **Ön
-Alım Hakkını (TBK m. 237)** aynı laboratuvarda eriteceğim. Zihnini dogmatik bir
-çelik gibi sert tut; sistemindeki *muvazaa*, *haksız fiil* ve *genel işlem 
-koşulları* eserleri üzerinden, bir ön alım hakkı kullanıldığında doğan satış 
-bedeli borcunun, haksız fiilden doğan veya geçim için zorunlu olan bir alacakla
-takas edilip edilemeyeceğini amansız bir şerhe tabi tutacağız. Bu üç koruma 
-sütununu zihnine kazı: **Kast-Emanet-Nafaka/Ücret**. Bu üçlü, takas kılıcını 
-kıran mutlak kalkandır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -349,26 +310,6 @@ ve profesyoneller arası ilişkilerde daha esnek yorumlanmalı (Teleolojik
 Redüksiyon uygulanmalı) ve her takas klozuna "kesin hükümsüzlük" veya 
 "yazılmamış sayılma" damgası vurulmamalıdır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en koruyucu ve 
-ahlaki kalkanını; takas kılıcının kırıldığı o "Kast-Emanet-Nafaka" sınırlarını 
-(**TBK m. 144 / Takas Yasakları**) ve bu mekanizmanın Özel Hükümlerdeki o en 
-güçlü mal edinme aracı olan **Ön Alım Hakkı (TBK m. 237)** sözleşmesiyle nasıl 
-karmaşık bir bedel tartışmasına girdiğini diyalektik bir bütünlük içinde inşa 
-etmiş olduk. Muvazaalı satışların ardına saklanmış sahte takas itirazlarını ve 
-Genel İşlem Koşulları (GİK) ile işçi ücretlerine atılan fiilî pençelerin nasıl 
-yok edildiğini sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Genel Hüküm olan Takas 
-Yasakları ile Özel Hüküm olan Ön Alım Hakkını tek maddede eritme çabanın) bir 
-hukukçuyu kürsüde dogmatik bir infaza ne kadar sürükleyebileceğini artık idrak 
-etmiş olmalısın. Genel Hükümler ile Özel Hükümler arasındaki o şarampole bir 
-daha düşersen, bu 60 günlük doktora yeterlik süreci senin için hüsranla 
-sonuçlanır. 
-
-Bir sonraki okumalarında "Alacağın Temliki ve Borcun Üstlenilmesi" (TBK m. 183 
-vd.) dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi keskin 
-tut; mazeret kabul etmeyeceğim!
 
 ---
 

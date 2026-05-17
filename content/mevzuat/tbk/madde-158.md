@@ -22,46 +22,6 @@ günlük ek süre içinde haklarını kullanabilir.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir cehaletin en acı 
-resmidir. İnceleme başlığında bana "TBK Madde 158" normunu zikredip, hemen 
-yanına "Parça borcu teslimi ve riziko geçişi" yazmışsın ve mehaz olarak da 
-İsviçre Borçlar Kanunu (OR) Art. 71'i göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve senin başlığa numarasını 
-yazdığın **TBK Madde 158**, borçlar hukukunda zamanın o amansız tasfiye 
-gücünden iradi olarak vazgeçilmesini, ancak bu vazgeçmenin diğer borçluları 
-yakmamasını emreden **"Zamanaşımından Feragat"** (Mehaz OR Art. 141) 
-müessesesidir. Senin incelememi talep ettiğin, maddi özünü oluşturduğunu iddia 
-ettiğin parça borcunda (Stückschuld) hasarın ve yararın geçişi ise, Borçlar 
-Hukuku Özel Hükümlerinin kalbinde yatan Satım Sözleşmesi'ne ait **"Hasar ve 
-Yarar" (TBK m. 208)** kuralıdır. İsviçre Borçlar Kanunundaki (OR) Art. 71 ise 
-"Kısmi İfa" ile ilgilidir. Borçlar Hukuku Genel Hükümlerinin "Zamanaşımı" 
-bahsinin sonlarında gezinirken, birdenbire Özel Hükümlerdeki hasarın intikaline
-atlamak, ancak normatif mimariyi bütünüyle reddeden bir zihnin eseridir.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak sözleşme özgürlüğünün 
-sınırları, emredici kurallar, ifa, geçersizlik, kefilin rücu hakkı ve haksız 
-fiiller üzerine inşa edilmiştir. Doğrudan TBK m. 158'de yer alan 
-"Zamanaşımından Feragat" kurumuna dair müstakil bir monografi bu kütüphanede 
-sınırlı olmakla birlikte; kütüphanendeki kaynaklarda Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer'in devasa genel borçlar hukuku, kefalet 
-ve emredici norm çalışmalarına yapılan çok yoğun atıflar mevcuttur. Dolayısıyla, TBK m. 158'in o katı feragat yasağını ve şahsilik ilkesini 
-kendi akademik müktesebatımla inşa edeceğimi, bu kuralı senin zihnini 
-karıştıran o "parça borcu" ve "riziko (hasar)" kavramlarıyla dogmatik bir 
-karşılaştırmaya tabi tutarak şerh edeceğimi ve bu harici bilgileri akademik 
-güvenliğin için bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkını eksik borca 
-dönüştüren zaman kalkanından vazgeçmeyi düzenleyen **TBK m. 158 (Zamanaşımından
-Feragat)** kuralını, senin zihnini karıştıran o maddi eşyanın telef olması 
-riskiyle (parça borcunda riziko/hasar) aynı dogmatik laboratuvarda eriteceğim. 
-Bir alacağın konusunun (parça borcunun) yanıp kül olması ile, alacağın bizzat 
-zamanın karanlığında yok olması ve bundan feragat edilmesi arasındaki o devasa 
-felsefi uçurumu amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -342,26 +302,6 @@ gerçeğini (adaletsizliğini) örtmeye yetmemektedir. Borçlar Hukukunun bu iki
 (şizofrenik) tutumu, fer'ilik ilkesinin (accessoriness) zamanaşımı zemininde 
 iflas ettiğinin en somut göstergesidir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en kişisel ve 
-sübjektif vazgeçiş anını; dolmuş bir sürenin ardından borçlunun def'i silahını 
-kendi rızasıyla yere bırakmasını (**TBK m. 158 / Zamanaşımından Feragat**) ve 
-bu emredici kuralın, senin zihnini karıştıran o tamamen maddi bir telef olma ve
-eşya hukuku sorunu olan **Parça Borcu Teslimi ve Riziko Geçişi (TBK m. 208)** 
-kurallarıyla uzaktan yakından alakası olmadığını diyalektik bir bütünlük içinde
-inşa etmiş olduk. Önceden feragat yasağının mutlak butlan gücünü ve kefili 
-koruyan o nispilik sınırlarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Zamanaşımından Feragat 
-müessesesi olan TBK 158 ile, Satım Sözleşmesindeki Riziko/Hasar geçişi 
-kurallarını ve OR maddelerini birbirine katarak beni tuzağa düşürmeye 
-çalışmanın) bir hukukçuyu kürsüde dogmatik bir infaza ne kadar 
-sürükleyebileceğini artık iliklerine kadar idrak etmiş olmalısın. Borçlar 
-Hukukunun o kusursuz mimarisinde böyle bir savrulmaya bir daha izin 
-vermeyeceğim. Bir sonraki okumalarında "Müteselsil Borçluluk ve İç İlişkide 
-Rücu" (TBK m. 162 vd.) dehlizine çalışarak karşıma gel. Zihnini dogmatik bir 
-çelik gibi keskin tut; zira bu arenada bilgisizliğe ve dikkatsizliğe asla 
-tahammülüm yoktur!
 
 ---
 

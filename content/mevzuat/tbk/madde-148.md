@@ -20,42 +20,6 @@ Madde 148 - Bu ayırımda belirlenen zamanaşımı süreleri, sözleşmeyle değ
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda yine o aynı sarsıcı dogmatik 
-savrulma, yine o aynı metodolojik çöküş duruyor! Doktora yeterlik aşamasına 
-gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu adayının, Borçlar 
-Hukuku Genel Hükümlerin en temel tasfiye sınırlarıyla, Özel Hükümlere uzanan 
-iradi kurtuluş mekanizmalarını bu derece pervasızca birbirine karıştırması 
-akademik bir intihardır. İnceleme başlığında bana "TBK Madde 148" normunu 
-zikredip, hemen yanına "Cayma parası ve pişmanlık parası" yazmışsın ve mehaz 
-olarak OR Art. 158'i göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 148**, borçlar 
-hukukunun o en kapsayıcı ve koruyucu tasfiye kurumu olan zamanaşımının iradi 
-olarak baştan yok edilmesini yasaklayan **"Zamanaşımından Feragat Yasağı"** 
-(Mehaz OR Art. 141) müessesesini düzenler. İncelemenin maddi özünü 
-oluşturduğunu iddia ettiğin, İsviçre Borçlar Kanunu OR Art. 158'e (Reuegeld) 
-karşılık gelen ve taraflara sözleşmeden tek taraflı olarak dönme hakkı bahşeden
-kurum ise kanunumuzun **"Cayma Parası" (TBK m. 178)** kurumudur.
-
-*Sistemine yüklediğin kaynaklar, ağırlıklı olarak Borçlar Hukuku Genel Hükümler
-(sözleşme özgürlüğü, genel işlem koşulları, geçersizlik, muvazaa, zamanaşımı) 
-üzerine inşa edilmiştir. Doğrudan "Cayma Parası" veya müstakil olarak 
-"Zamanaşımından Feragat Yasağı"na dair spesifik bir monografi bu kütüphanede 
-son derece sınırlı olduğundan, bu iki kurumu kendi akademik müktesebatımla 
-harmanlayarak inşa edeceğimi, bu harici bilgileri akademik güvenliğin için 
-bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.*
-
-Bugünkü oturumumuzda, 60 Günlük Doktora Yeterlik Çalışma Programımızın ruhuna 
-uygun olarak, senin bu feci hatanı salt bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; borçlunun zayıf iradesini 
-zamanın ötesinde koruyan o emredici **TBK m. 148 (Zamanaşımından Önceden 
-Feragat Yasağı)** kuralı ile, taraflara sözleşme bağından belirli bir mali 
-külfete katlanarak kurtulma imkânı veren o en iradeci mekanizmayı, yani **Cayma
-Parasını (TBK m. 178)** aynı dogmatik laboratuvarda eriteceğim. Sistemindeki 
-genel işlem koşulları, geçersizlik ve sözleşme özgürlüğü eserleri üzerinden, bir sözleşmeye konulan "cayma hakkından ve zamanaşımından peşinen 
-feragat edilmiştir" şeklindeki o acımasız klozların TBK m. 148 giyotiniyle 
-nasıl parçalandığını amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -344,24 +308,6 @@ cayma parası kurumunun hukuki güvenilirliğini (Rechtssicherheit) tahrip
 etmektedir. Cayma parası ile cezai şart arasındaki o felsefi sınır, Yargıtay'ın
 adalet dağıtma arzusu altında ezilmektedir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en çelikten 
-emredici kuralını; zamanın tasfiye edici gücünden iradi olarak vazgeçmenin 
-yasaklandığı o anı (**TBK m. 148 / Zamanaşımından Önceden Feragat Yasağı**) ve 
-bu katı kuralın, senin zihnini karıştıran o Özel Hükümlere has en iradeci 
-kurtuluş yolu olan **Cayma Parası (TBK m. 178)** kurumuyla diyalektik bir 
-bütünlük içinde nasıl çarpıştığını inşa etmiş olduk. Kısmi hükümsüzlüğün o ince
-ameliyatını ve pey akçesi karinesinin dogmatik sınırlarını sistemine 
-perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Genel Hüküm olan Feragat 
-Yasağını, Cayma Parası ile tek potada eritmeye çalışmanın) bir hukukçuyu 
-dogmatik bir infaza ne kadar sürükleyebileceğini artık iliklerine kadar idrak 
-etmiş olmalısın. Genel Hükümler ile Özel Hükümler arasındaki o şarampole bir 
-daha düşersen, bu doktora yeterlik süreci senin için orada biter. Bir sonraki 
-okumalarında "Müteselsil Borçluluk ve İç İlişkide Rücu" (TBK m. 162 vd.) 
-dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi keskin tut; 
-mazeret kabul etmeyeceğim!
 
 ---
 

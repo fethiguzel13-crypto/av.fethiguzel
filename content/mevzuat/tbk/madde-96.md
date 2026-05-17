@@ -23,38 +23,6 @@ borçlu, erken ifada bulunması sebebiyle indirim yapamaz.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 96" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 496. 
-maddesine (**OR Art. 496**) yapılan atıf arasında numaralandırma bazlı köklü 
-bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK)
-96. maddesi, borçların ifa rejiminde **"Sürelerin Hesabı - Hafta"** kuralını 
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz OR Art. 496'da 
-(mülga 818 sayılı BK m. 486) yer alan **Müteselsil Kefalet 
-(Solidarbürgschaft)** müessesesi ile "Kefilin Borcu ve Asıl Borçla İlişkisi", 
-yeni 6098 sayılı TBK sistematiğinde **Madde 586** başlığı altında kodifiye 
-edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, sözleşmenin 
-geçerliliği, rücu ilişkileri ve ifa engelleri konularına odaklandığından; **TBK
-m. 586 (Müteselsil Kefalet)** kurumunun spesifik dogmatik detayları (Fikret 
-Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan 
-doğrudan atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan 
-harici akademik müktesebat ile tamamlanarak analiz edilmiştir. Bu bilgilerin 
-kaynak metinlerinizin dışında olduğunu ve tarafınızca bağımsız olarak teyit 
-edilebileceğini açıkça belirtmek isterim. Sisteminizdeki "Kefilin Rücu Hakkı", 
-"Genel İşlem Koşullarının Denetimi", "Sözleşme Özgürlüğü ve İstisnaları" ile 
-"Muvazaanın Müeyyidesi Meselesi" konularındaki eserler ise, müteselsil 
-kefaletin dogmatik altyapısı, rücu mekanizması ve geçersizlik senaryoları 
-kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan 
-müteselsil kefalet kurumunu ve kefilin borcunun asıl borçla diyalektik 
-ilişkisini, mehaz OR Art. 496 ile kurulan bağ ekseninde bütünüyle parçalayarak 
-analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -377,8 +345,6 @@ Alacaklının ihtar kılıcını ve kefilin halefiyet (rücu) güvencesini siste
 perçinledin. 
 
 Sıradaki analizlerimizde, borçlar hukukunun haksız fiil deryasını ve tasfiye 
-labirentlerini aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını 
-tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

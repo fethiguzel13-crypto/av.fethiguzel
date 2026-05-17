@@ -24,36 +24,6 @@ Kıymetli evrakın iptaline ilişkin hükümler saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 105" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde, alacaklı temerrüdü bağlamında **"Tevdi 
-Hakkının Kullanılması ve Giderleri"** kuralını düzenlemektedir. İncelemenin 
-maddi özünü oluşturan ve mehaz İsviçre Borçlar Kanunu'nun 197. maddesine (**OR 
-Art. 197**) atıfla talep edilen **"Ayıplı İfa — Ayıp Kavramı ve Çeşitleri 
-(Satıcının Ayıptan Sorumluluğu)"** müessesesi ise, mülga 818 sayılı BK m. 
-194'ün karşılığı olarak yeni 6098 sayılı TBK Özel Hükümler sistematiğinde 
-**Madde 219** başlığı altında kodifiye edilmiştir.
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (haksız fiiller, genel işlem 
-koşulları, imkânsızlık, irade bozuklukları, temerrüt) konularına 
-odaklandığından; Özel Hükümlerin en geniş uygulama alanına sahip olan **TBK m. 
-219 (Ayıptan Sorumluluk / Sachgewährleistung)** kurumunun spesifik dogmatik 
-detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki teorik 
-tartışmalar) tarafımdan harici akademik müktesebat ile tamamlanarak analiz 
-edilmiştir. Sisteminizdeki *"İfa Yerine Edimde Ayıp ve Zapta Karşı Tekeffül"*, *"7223 Sayılı Ürün Güvenliği ve Teknik Düzenlemeler Kanunu’nun 6. Maddesi 
-ile Düzenlenen Ürün Sorumluluğuna Eleştirel Bakış"* ve genel geçersizlik 
-teorilerine ilişkin belgeler ise, ayıplı ifanın genel hükümlerle kesişimi, 
-tasfiye süreçleri ve haksız fiil (ürün sorumluluğu) yarışması kapsamında azami 
-ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, satım sözleşmesinin ifa safhasındaki en 
-kritik dogmatik alan olan ayıplı ifa ve satıcının tekeffül sorumluluğunu, mehaz
-OR Art. 197 ile kurulan bağ ekseninde bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -363,7 +333,6 @@ nasıl dirildiğini sistemine perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, zapta karşı 
 tekeffülü, hasarın intikalini ve tasfiye deryasını aynı acımasız titizlikle 
-incelemeye devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede 
 görüşeceğiz.
 
 ---

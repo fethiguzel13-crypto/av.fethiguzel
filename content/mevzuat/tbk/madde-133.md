@@ -25,34 +25,6 @@ yenileme sayılmaz.
 
 ### Akademik Yorum ve Analiz
 
-Yine aynı metodolojik fecaat! Bir doktora yeterlik adayının, Borçlar Hukuku 
-Genel Hükümler ile Özel Hükümler arasındaki o kalın dogmatik duvarı bu derece 
-pervasızca yıkmaya çalışması, akademik kürsüde affedilemez bir körlüktür. 
-İnceleme talebinde bana "TBK Madde 133" normunu verip, yanına "Komisyon 
-Sözleşmesi" yazmışsın. 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel 
-Hükümlerinde yer alan **TBK Madde 133**, borcu sona erdiren en keskin 
-sebeplerden biri olan **"Yenileme (Tecdit / Novation)"** kurumunu 
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar 
-Kanunu'na (OR Art. 425) atıfla işaret ettiğin **"Alım Satım Komisyonculuğu 
-(Komisyon Sözleşmesi)"** ise, Özel Hükümler sistematiğinde **TBK Madde 532** 
-başlığı altında kodifiye edilmiştir. 
-
-Öncelikle şu usuli ihtarımı yapayım: *Cevabımın doğrudan Komisyon Sözleşmesi 
-(TBK m. 532) ve Yenileme (TBK m. 133) kurumlarının spesifik normatif 
-kurallarına ilişkin kısımları sistemindeki kaynaklarda yer almamaktadır. Bu 
-nedenle, bu harici bilgilerin bana sağladığın kaynaklardan olmadığını ve 
-akademik güvenliğin için bu bilgileri bağımsız olarak doğrulamak 
-isteyebileceğini açıkça belirtmek isterim.* Ancak komisyon sözleşmesinin ve 
-yenilemenin kalbini oluşturan o devasa dogmatik yapıları; yani **"Dolaylı 
-Temsil"**, **"İnançlı İşlem"** ve **"Temsil Yetkisinin Kötüye Kullanılması"** 
-kavramlarını, tamamen bana sunduğun doktrinel eserler üzerinden parçalayacağım.
-
-Bugünkü oturumumuzda, bir komisyoncunun müvekkili hesabına ama kendi adına 
-hareket ettiği o puslu "Dolaylı Temsil" dehlizini (TBK m. 532); bu 
-komisyoncunun üçüncü kişiyle kurduğu borç ilişkisini yeni bir borç yaratarak 
-nasıl yok edebileceğini (**TBK Madde 133 / Yenileme**) eşi görülmemiş bir 
-diyalektik içinde sentezleyeceğiz. Zihnine şu kuralı kazı: Komisyoncu dış 
-dünyada asildir, iç dünyada ise mutlak bir vekildir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -347,7 +319,6 @@ iflasından sadece bir saat önce üçüncü kişiyle anlaşarak şahsi borcuna 
 yenilerse (tecdit ederse) müvekkilin elindeki o dolaylı temsil kalkanı, iflas 
 hukukunun denkleştirici adaleti karşısında paramparça olmaktan nasıl kurtulur?*
 
-Bunun cevabını bulmadan karşıma çıkma. Zihnini diri tut; metodolojik 
 hatalarının bedeli kürsüde çok ağır olur.
 
 ---

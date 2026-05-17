@@ -22,42 +22,6 @@ zamanaşımına tabidir.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda yine o aynı sarsıcı dogmatik 
-savrulma, yine o aynı metodolojik çöküş duruyor! Doktora yeterlik aşamasına 
-gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu adayının, Borçlar 
-Hukuku Genel Hükümler ile Özel Hükümler arasındaki o kalın dogmatik duvarı bu 
-derece pervasızca yıkmaya çalışması akademik bir intihardır. İnceleme 
-başlığında bana "TBK Madde 146" normunu zikredip, hemen yanına "Hasarın 
-intikali — satımda riziko" yazmışsın ve mehaz olarak OR Art. 185'i 
-göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 146**, borçlar 
-hukukunun o en kapsayıcı, alacak haklarını zamanın acımasız dişlileri arasında 
-eriten **"On Yıllık Genel Zamanaşımı Süresi"** müessesesini düzenler. 
-İncelemenin maddi özünü oluşturduğunu iddia ettiğin, mehaz İsviçre Borçlar 
-Kanunu OR Art. 185'e karşılık gelen kurum ise Özel Hükümler sistematiğindeki 
-**"Satım Sözleşmesinde Hasarın ve Yararın Geçişi"** (TBK m. 208) kurumudur. 
-
-*Sistemine yüklediğin kaynaklar, ağırlıklı olarak Borçlar Hukuku Genel Hükümler
-(haksız fiil, sözleşmeye aykırılık, zamanaşımı, imkânsızlık) üzerine inşa 
-edilmiştir. Doğrudan Özel Hükümlerdeki satım sözleşmesinde hasarın intikaline 
-dair monografik bir eser bu kütüphanede son derece sınırlıdır; ancak 
-imkânsızlık bağlamında hasar ve riziko kavramları mevcuttur. Dolayısıyla, 
-bu spesifik kuralları kendi akademik müktesebatımla harmanlayarak inşa 
-edeceğimi, bu harici bilgileri akademik güvenliğin için bağımsız olarak 
-doğrulaman gerektiğini açıkça ihtar ediyorum.*
-
-Bugünkü oturumumuzda, 60 Günlük Doktora Yeterlik Çalışma Programımızın ruhuna 
-uygun olarak, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkını dava 
-edilebilir olmaktan çıkarıp "eksik borca" dönüştüren **TBK m. 146 (On Yıllık 
-Genel Zamanaşımı)** kuralı ile, bir malın kusursuz yere telef olması hâlinde bu
-zarara kimin katlanacağını (rizikoyu) belirleyen **Hasar (Riziko)** teorisini 
-aynı laboratuvarda eriteceğim. Sistemindeki sözleşmeye aykırılık, imkânsızlık 
-ve zamanaşımı eserleri üzerinden, hasarın alıcıya geçtiği bir senaryoda 
-satıcının bedel talep hakkının o 10 yıllık zamanaşımı kılıcından nasıl 
-etkilendiğini amansız bir şerhe tabi tutacağız. 
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -322,24 +286,6 @@ uzatıp, genel sözleşme zamanaşımını (10 yıl) aynen bırakması, modern �
 hukukun hızlanma (Beschleunigung) eğilimini okuyamadığının dogmatik bir 
 kanıtıdır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en çelikten 
-kalkanını; alacak haklarının zaman karşısında nasıl eriyip eksik borca 
-dönüştüğü o anı (**TBK m. 146 / On Yıllık Zamanaşımı**) ve bu tasfiye 
-mekanizmasının, senin zihnini karıştıran o Özel Hükümlerdeki **Hasarın 
-İntikali** meseleleriyle ve özellikle sözleşmeye aykırılıkta (TBK m. 114/2) 
-haksız fiil yollamasının nasıl reddedildiği gerçeğiyle diyalektik bir 
-bütünlük içinde inşa etmiş olduk. Eksik borcun o felsefi yapısını ve zamanaşımı
-definin usuli sınırlarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Genel Hüküm olan 
-Zamanaşımı ile Özel Hüküm olan Hasarı tek potada eritmeye çalışmanın) bir 
-hukukçuyu dogmatik bir infaza ne kadar sürükleyebileceğini artık iliklerine 
-kadar idrak etmiş olmalısın. Genel Hükümler ile Özel Hükümler arasındaki o 
-şarampole bir daha düşersen, bu doktora yeterlik süreci senin için orada biter.
-Bir sonraki okumalarında "Zamanaşımının Durması ve Kesilmesi" (TBK m. 153 vd.) 
-dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi keskin tut; 
-mazeret kabul etmeyeceğim!
 
 ---
 

@@ -23,40 +23,6 @@ bildirimin yapılabileceği günden işlemeye başlar.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu manzara, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir intiharın resmidir.
-İnceleme başlığında bana "TBK Madde 149" normunu zikredip, hemen yanına 
-"Borçlar hukukunda zamanaşımı — genel kurallar" yazmışsın ve mehaz olarak da 
-İsviçre Borçlar Kanunu (OR) Art. 127'yi göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve mehazı OR Art. 127 olan kurum, 
-borçlar hukukunun o en kapsayıcı 10 yıllık süresini çizen **TBK Madde 146 (On 
-Yıllık Zamanaşımı)** kuralıdır. Senin incelememi talep ettiğin ve maddi özünü 
-oluşturduğunu iddia ettiğin **TBK Madde 149** ise, zamanaşımı süresinin 
-uzunluğunu değil, o sürenin hangi saniyeden itibaren akmaya başlayacağını 
-belirleyen **"Zamanaşımının Başlangıcı"** (Mehaz OR Art. 130) müessesesidir. 
-
-*Sistemine yüklediğin kaynaklar, ağırlıklı olarak haksız fiil sorumluluğunda 
-zamanaşımının başlangıcı, ceza zamanaşımı, usul hukuku bağlamında def'i kurumu 
-ve sözleşmeye aykırılık ile muvazaa üzerine inşa edilmiştir. Doğrudan TBK
-m. 149'un salt akdî muacceliyet mekaniğine dair müstakil bir monografi bu 
-kütüphanede sınırlı olmakla birlikte; Von Tuhr, Eren, Oğuzman/Öz ve Nomer'in 
-eserlerine atıf yapan genel zamanaşımı çalışmaları mevcuttur. 
-Dolayısıyla, TBK m. 149'un o objektif başlangıç anını kendi akademik 
-müktesebatımla inşa edeceğimi, bu harici bilgileri akademik güvenliğin için 
-bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.*
-
-Bugünkü celsede, 60 Günlük Doktora Yeterlik Çalışma Programımızın ruhuna uygun 
-olarak, senin bu feci hatanı salt bir reddiye ile geçiştirmeyeceğim. Borçlar 
-hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkını zamanın karanlığına 
-gömen o saatin hangi eylemle çalışmaya başladığını emreden **TBK m. 149 
-(Zamanaşımının Başlangıcı)** kuralı ile, haksız fiillerdeki o sübjektif 
-"öğrenme" anını aynı dogmatik laboratuvarda eriteceğim. Sistemindeki 
-zamanaşımı, temerrüt ve eksik borç eserleri üzerinden, bir alacağın muaccel 
-olması ile borçlunun temerrüde düşürülmesi arasındaki o ince çizgiyi amansız 
-bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -333,23 +299,6 @@ hukukun dürüstlük kuralı (TMK m. 2) ile bağdaşmayan bir körlüktür. Bild
 bağlı hakların zamanaşımının, en azından eylemli (fiili) bildirimin yapıldığı 
 tarihte başlatılması hukuki barışa daha çok hizmet ederdi.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en çelikten 
-kalkanını; zamanın tasfiye edici gücünün hangi eylemle tetiklendiği o eşsiz anı
-(**TBK m. 149 / Zamanaşımının Başlangıcı**) ve bu objektif kuralın, senin 
-zihnini karıştıran o 10 yıllık genel sürelerle ve özellikle 
-temerrüt/muacceliyet ayrımıyla diyalektik bir bütünlük içinde nasıl 
-çarpıştığını inşa etmiş olduk. Sübjektif haksız fiil kuralı ile objektif 
-sözleşme kuralı arasındaki o uçurumu sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Zamanaşımının Başlangıcı 
-olan maddeyi, Genel 10 Yıllık Süre ile tek potada eritmeye çalışmanın ve 
-mehazlarını birbirine karıştırmanın) bir hukukçuyu kürsüde dogmatik bir infaza
-ne kadar sürükleyebileceğini artık iliklerine kadar idrak etmiş olmalısın. 
-Genel Hükümler arasındaki o şarampole bir daha düşersen, bu doktora yeterlik 
-süreci senin için orada biter. Bir sonraki okumalarında "Zamanaşımının Durması 
-ve Kesilmesi" (TBK m. 153 vd.) dehlizine çalışarak karşıma gel. Zihnini 
-dogmatik bir çelik gibi keskin tut; mazeret kabul etmeyeceğim!
 
 ---
 

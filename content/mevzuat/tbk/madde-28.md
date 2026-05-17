@@ -106,7 +106,6 @@ aşırı heyecanı veya dikkatsizliği nedeniyle, giriştiği hukuki işlemin ke
 malvarlığında doğuracağı ağır sonuçları ölçüp tartamaması ve sonunu düşünmeden 
 hareket etmesi hâlidir.
 3. **Deneyimsizlik (Toyluk):** Kişinin genel yaşam tecrübesinde veya girdiği o 
-özel ticaret/işlem dalında bilgi eksikliğine sahip olmasıdır. Gerekli 
 bilgi birikimine sahip olmayan bir kişinin, piyasanın kurallarını bilmediği 
 için fahiş şartları kabul etmesi toyluk unsurunu doldurur.
 Doktrinde bu üç hâlin "sınırlı sayı" (numerus clausus) olup olmadığı 

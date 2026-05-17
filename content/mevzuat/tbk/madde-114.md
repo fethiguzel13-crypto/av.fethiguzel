@@ -25,32 +25,6 @@ hâllerine de uygulanır.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Harici Kaynak Bildirimi:** Sisteminizde yer alan kaynaklar
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (sözleşmeden doğan sorumluluk, 
-haksız fiiller, TBK m. 114 uyarınca giderim borcunun kapsamı ve genel işlem 
-koşulları) ile TMK m. 2 (Hakkın kötüye kullanılması) konularına 
-odaklanmaktadır. İnceleme talebinizin başlığında yer alan "Tahliye 
-Taahhütnamesi" (TBK m. 352/1) kurumu Özel Hükümlerin bir parçası olup, 
-sisteminizdeki belgelerde doğrudan yer almamaktadır. Bu nedenle, TBK m. 114 ve 
-TMK m. 2 eksenindeki dogmatik analizler sisteminizdeki belgelere dayandırılarak
-yapılacak olup; "Tahliye Taahhütnamesi" kurumunun spesifik detayları ve 
-yargısal uygulamaları tarafımdan harici akademik müktesebat ile 
-tamamlanacaktır. Bu harici bilgilerin sistem dışı olduğunu ve tarafınızca 
-bağımsız olarak teyit edilebileceğini belirtmek isterim. Sisteminizdeki, numaralı belgeler bu analizde azami ölçüde 
-kullanılmıştır.
-
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği ve norm numaralarının 
-tarihsel sistematiği büyük önem taşıdığından, incelememize temel bir 
-metodolojik düzeltme ile başlamak bilimsel sıhhatin gereğidir. İnceleme 
-talebinde referans gösterilen "TBK Madde 114" başlığı, yürürlükteki 6098 sayılı
-Türk Borçlar Kanunu'nun (TBK) genel hükümlerinde, borca aykırılık rejiminin 
-belkemiği olan **"Sorumluluk - Giderim Borcunun Kapsamı"** kurumunu 
-düzenlemektedir. İncelemenin maddi talebini oluşturan **"Tahliye 
-Taahhütnamesi"** müessesesi ise, Özel Hükümler sistematiğinde **TBK Madde 
-352/1** başlığı altında kodifiye edilmiştir. Bu incelemede, TBK m. 114'ün kusur
-ve tazminat kapsamını belirleyen evrensel yapısı ile tahliye taahhütnamelerinin
-TMK m. 2 (Hakkın kötüye kullanılması) eksenindeki ihtilaflı doğasını, eşi 
-görülmemiş bir diyalektik içinde sentezleyeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

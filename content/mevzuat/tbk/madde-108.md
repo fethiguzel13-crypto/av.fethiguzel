@@ -26,37 +26,6 @@ oranla değeri az ise, satışın açık artırma yoluyla yapılması zorunlu ol
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 108" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde, alacaklı temerrüdünün sonuçlarından olan 
-**"Tevdi Edilemeyen Eşyanın Satılması (Satma Hakkı)"** kurumunu 
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar 
-Kanunu'nun 253. maddesine (**OR Art. 253**) atıfla talep edilen **"Kira 
-Sözleşmesi — Genel Hükümler ve Tanımı"** müessesesi ise, mülga 818 sayılı BK m.
-248'in karşılığı olarak yeni 6098 sayılı TBK Özel Hükümler sistematiğinde 
-**Madde 299** başlığı altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (ifa güçsüzlüğü, sözleşme 
-özgürlüğü, aşırı ifa güçlüğü, sözleşmeden dönme) konularına odaklandığından; 
-Özel Hükümlerin omurgasını oluşturan **TBK m. 299 (Kira Sözleşmesinin Tanımı)**
-kurumunun spesifik dogmatik detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz
-ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre 
-hukukundaki teorik tartışmalar) tarafımdan harici akademik müktesebat ile 
-tamamlanarak analiz edilmiştir. Sisteminizdeki *"İfa Güçsüzlüğüne Genel Bakış 
-ve Onun Kira Sözleşmesindeki Görünümü"*, *"Sözleşme Özgürlüğü Ve İstisnaları"*,
-*"Sözleşmenin Değişen Koşullara Göre Uyarlanması"* ve genel temerrüt 
-teorilerine ilişkin belgeler ise, kira sözleşmesinin sürekli borç ilişkisi 
-doğuran yapısı, kiracının iflası, uyarlama ve fesih serbestisinin 
-sınırlandırılması kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, modern mülkiyetin devredilmeden ekonomik 
-olarak değerlendirilmesinin (kullandırmanın) en kusursuz hukuki kılıfı olan 
-kira sözleşmesini, mehaz OR Art. 253 ekseninde bütünüyle parçalayarak analiz 
-edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -377,8 +346,6 @@ perçinledin.
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, eser 
 sözleşmesinin inceliklerini, vekâletin sadakatini ve kefaletin tehlikeli 
-sularını aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını tam 
-yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

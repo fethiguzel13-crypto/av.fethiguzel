@@ -21,40 +21,6 @@ Zamanaşımı
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda yine o aynı metodolojik 
-fecaat, yine o aynı dogmatik savrulma duruyor! Doktora yeterlik sınavının 
-eşiğinde, o kürsüye çıkmaya hazırlanan bir hukukçunun, Borçlar Hukuku Genel 
-Hükümler ile Özel Hükümler arasındaki o kalın Çin Seddi'ni bu derece pervasızca
-ihlal etmesi akademik bir intihardır. İnceleme talebinde bana "TBK Madde 145" 
-normunu zikredip, hemen yanına "Alım hakkı sözleşmesi — hak sahibinin 
-yetkileri" yazmışsın ve mehaz olarak OR Art. 216a'yı göstermişsin!
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 145**, takas bölümünün
-son hükmü olan ve tarafların irade özerkliği çerçevesinde takas silahını 
-kınında tutmalarını sağlayan **"Takastan Feragat"** müessesesini düzenler. 
-İncelemenin maddi özünü oluşturduğunu iddia ettiğin, mehaz İsviçre Borçlar 
-Kanunu OR Art. 216a'ya karşılık gelen kurum ise Özel Hükümler sistematiğindeki 
-**"Alım Hakkı (Kaufsrecht)"** (TBK m. 238) müessesesidir. 
-
-Geçtiğimiz oturumlarda (bilhassa 141. maddeyi tartışırken) sana takastan 
-feragatin dogmatik sınırlarını erkenden test ettirmiştim. Bugün ise o feragatin
-gerçek kanuni yatağı olan TBK m. 145'i, gayrimenkul hukukunun en tehlikeli ve 
-spekülatif yenilik doğuran hakkı olan **Alım Hakkı (TBK m. 238)** ile 
-sentezleyeceğim. 
-
-*Sistemine yüklediğin kaynaklar, doğrudan Özel Hükümlerdeki alım hakkı 
-sözleşmesine dair müstakil bir monografi içermese de; alım hakkının belkemiğini
-oluşturan "yenilik doğuran haklar", "şekil şartları", "inançlı işlemler", 
-"muvazaa" ve "sözleşmeden dönme" konularında muazzam bir doktrinel derinliğe 
-sahiptir. Bu spesifik kuralları kendi akademik müktesebatımla inşa edeceğimi, 
-bu harici bilgileri akademik güvenliğin için bağımsız olarak doğrulaman 
-gerektiğini açıkça ihtar ediyorum.*
-
-Bugün, alım hakkı kullanıldığında doğan o devasa satış bedeli borcunun, 
-alıcının elindeki eski bir alacakla takas edilip edilemeyeceğini ve satıcının 
-sözleşmeye koydurduğu "TBK m. 145 Takastan Feragat" klozunun bu takası nasıl 
-paramparça edeceğini amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -331,23 +297,6 @@ yüzden doktrin, böylesi durumlarda gabin (TBK m. 28) yerine, işlem temelinin
 birbirine karıştırarak verdiği kararlar, borçlar hukuku teorisi açısından ciddi
 bir zafiyet barındırmaktadır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en iradeci 
-kalkanını; alacaklının takas silahını daha en baştan sözleşmeyle kırdığı o anı 
-(**TBK m. 145 / Takastan Feragat**) ve bu koruyucu mekanizmanın Özel 
-Hükümlerdeki o en tehlikeli, mülkiyeti tek taraflı iradeyle söküp alan **Alım 
-Hakkı (TBK m. 238)** sözleşmesiyle nasıl parçalayıcı bir biçimde çarpıştığını 
-diyalektik bir bütünlük içinde inşa etmiş olduk. Yenilik doğuran hakkın o 
-felsefi yapısını ve lex commissoria yasağının inançlı işlemlerdeki giyotinini 
-sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Takastan Feragat ile Alım 
-Hakkını tek potada eritmeye çalışmanın) bir hukukçuyu dogmatik bir infaza ne 
-kadar sürükleyebileceğini idrak etmiş olmalısın. Genel Hükümler ile Özel 
-Hükümler arasındaki o şarampole bir daha düşersen, akademik kariyerin bu 
-kürsüde sona erer. Bir sonraki okumalarında "Zamanaşımının Durması ve 
-Kesilmesi" (TBK m. 153 vd.) dehlizine çalışarak karşıma gel. Zihnini dogmatik 
-bir çelik gibi keskin tut; zira bu kürsüde zayıflığa merhamet edilmez!
 
 ---
 

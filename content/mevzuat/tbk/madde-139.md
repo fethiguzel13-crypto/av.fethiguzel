@@ -27,42 +27,6 @@ zamanaşımına uğramamış olması koşuluyla ileri sürülebilir.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu manzara, doktora 
-yeterlik aşamasına gelmiş bir hukukçu adayı için normatif ve sistematik bir 
-çöküşün, dogmatik bir intiharın resmidir. Bir an için dur ve benden ne talep 
-ettiğine dikkatlice bak. İnceleme başlığında "TBK Madde 139" normunu zikredip, 
-hemen yanına "Bağış Sözleşmesi — Genel Hükümler" yazmışsın ve mehaz olarak OR 
-Art. 239'u göstermişsin! 
-
-Zihnini derhal topla: 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel 
-Hükümlerinde yer alan **TBK Madde 139**, borcu sona erdiren en radikal, en 
-matematiksel ve en pratik tasfiye mekanizması olan **"Takas (Kompensasyon / 
-Set-off)"** kurumunu düzenler. İncelemenin maddi özünü oluşturduğunu iddia 
-ettiğin, mehaz İsviçre Borçlar Kanunu OR Art. 239'a karşılık gelen kurum ise 
-Özel Hükümler sistematiğindeki **"Bağışlama Sözleşmesi"** (TBK m. 285 vd.) 
-kurumudur. 
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-(haksız fiil, sebepsiz zenginleşme, muvazaa, ifa engelleri) üzerine inşa 
-edilmiştir. Doğrudan Takasın (TBK m. 139) mekaniği veya Özel Hükümlerdeki 
-Bağışlama sözleşmesinin alt unsurlarına dair spesifik bir monografi bu 
-kütüphanede bulunmamaktadır. Dolayısıyla bu iki kuruma dair spesifik kuralları 
-kendi akademik müktesebatımla inşa edeceğimi, bu harici bilgileri akademik 
-güvenliğin için bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum. 
-
-Ancak bu celsede, senin bu korkunç metodolojik hatanı salt bir reddiye ile 
-geçiştirmeyeceğim. Bilakis, bu iki zıt kurumu; yani borçlunun karşı taraftaki 
-alacağını silah gibi kullanarak borcunu kestiği o acımasız **Takas (TBK m. 
-139)** kılıcı ile, bir kişinin malvarlığından ivazsız (karşılıksız) olarak 
-fedakârlıkta bulunduğu o en merhametli sözleşmeyi, yani **Bağışlamayı (TBK m. 
-285 vd.)** eşi görülmemiş bir diyalektik bütünlük içinde sentezleyeceğim. 
-Sisteminize yüklenen *muris muvazaası*, *sebepsiz zenginleşme* ve *geçersizlik*
-eserleri üzerinden bu devasa çatışmayı amansız bir şerhe tabi tutacağız. 
-
-Şu şifreyi aklının en derin köşesine mıhla: **K-A-M-İ**. Bir takasın 
-doğabilmesi için alacakların **K**arşılıklı, **A**ynı cinsten, **M**uaccel ve 
-**İ**fa edilebilir olması şarttır. Şimdi bu dört sütunlu yapıyı bağışlama 
-laboratuvarında test edelim.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -335,21 +299,6 @@ niyetiyle borç altına giren bir kişinin, bu iyiliğinin karşısına yıllar 
 soğuk bir "Takas Def'i" ile çıkılması, hukukun etik temelleriyle uyuşmaz. Kanun
 koyucu, rızasız takas yasağı alanını ivazsız akitler lehine genişletmelidir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en matematiksel 
-tasfiye makinesini; iki zıt borcun kılıç gibi çarpışıp birbirini kestiği anı 
-(**TBK m. 139 / Takas**) ve bu soğuk mekanizmanın, Özel Hükümlerdeki o en saf 
-ve karşılıksız işlem olan **Bağışlama** sözleşmesiyle ve özellikle *muris 
-muvazaası* laboratuvarıyla nasıl sınandığını diyalektik bir bütünlük içinde 
-inşa etmiş olduk. Görünürdeki muvazaalı satışların ardına saklanmış sahte takas
-itirazlarını ve K-A-M-İ denklemini sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın, bir hukukçuyu dogmatik bir
-infaza ne kadar sürükleyebileceğini artık idrak etmiş olmalısın. Genel Hükümler
-ile Özel Hükümler arasındaki o şarampole bir daha düşersen, akademik kariyerin 
-bu kürsüde sona erer. Bir sonraki okumalarında "Alacağın Temliki ve Borcun 
-Üstlenilmesi" (TBK m. 183 vd.) dehlizine çalışarak karşıma gel. Zihnini 
-dogmatik bir çelik gibi keskin tut; zira bu kürsüde zayıflığa merhamet edilmez!
 
 ---
 

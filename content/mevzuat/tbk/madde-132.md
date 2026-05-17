@@ -21,29 +21,6 @@ tamamen veya kısmen ortadan kaldırılabilir.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** İnceleme talebinizde yer alan norm 
-numaraları ile maddi hukuk kurumları arasındaki eşleştirmede dogmatik bir hata 
-bulunduğunu tespit etmiş bulunmaktayım. Talebinizde "TBK Madde 132" başlığı ile
-"Vekâlet İlişkisinin Sona Ermesi" kurumu eşleştirilmiştir. Oysa 6098 sayılı 
-Türk Borçlar Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK m. 132**, borcu
-sona erdiren genel sebeplerden biri olan **"İbra (Borçtan Kurtarma)"** kurumunu
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar 
-Kanunu'na (OR Art. 404) atıfla işaret ettiğiniz **"Vekâlet Sözleşmesinin Sona 
-Ermesi (Ölüm, Ehliyetsizlik, İflas, Azil ve İstifa)"** müessesesi ise, Özel 
-Hükümler sistematiğinde **TBK m. 512 ve TBK m. 513** başlıkları altında 
-kodifiye edilmiştir. 
-
-Akademik dürüstlük ve bilimsel sıhhat gereği, bu norm karmaşasını salt bir 
-reddiye ile geçiştirmeyeceğim. Bilakis, vekâlet ilişkisinin tek taraflı 
-(azil/istifa) veya objektif nedenlerle (ölüm/iflas) sona ermesi kurumlarını 
-(TBK m. 512-513) harici akademik müktesebatımla inşa edecek; ancak bu sona erme
-sürecinin tasfiyesinde tarafların birbirlerini borçtan kurtarmalarını sağlayan 
-**TBK m. 132 (İbra)** sözleşmesini ve bilhassa sona ermiş (veya kötüye 
-kullanılmış) bir vekâlet ilişkisinde dış dünyadaki **Temsil Yetkisinin (TBK m. 
-40 vd.)** akıbetini, sisteminizdeki zengin doktrinel eserler ekseninde 
-bütünüyle sentezleyeceğim. Temsil yetkisinin bağımsızlığı, yetkinin kötüye 
-kullanılması (hileli anlaşma) ve sona erme anındaki tasfiye sorunları, 
-şerhimizin temel diyalektiğini oluşturacaktır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

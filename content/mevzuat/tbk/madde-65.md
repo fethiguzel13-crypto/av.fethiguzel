@@ -297,7 +297,6 @@ etmek isterse ve kanun alacaklıya "kısmi ifayı reddetme" hakkı tanımışsa;
 alacaklının bu kısmi ifayı reddetmesi onu alacaklı temerrüdüne düşürür mü? 
 Yoksa borçlu, "sen benim paramın bir kısmını bile almadın" diyerek kendini 
 temerrütten kurtarıp haklı çıkabilir mi?* Bu dogmatik kördüğümü İfa Engelleri 
-bağlamında çözmeni bekliyorum. Hazırlığını tam yap, bir sonraki celsede 
 görüşeceğiz.
 
 ---

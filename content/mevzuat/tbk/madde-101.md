@@ -24,35 +24,6 @@ olmadıkça, alacaklının makbuzda gösterdiği borç için yapılmış sayıl�
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 101" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) ifa engelleri ve temerrüt rejiminde **"Borçlunun Temerrüdü - 
-İhtar Şartı"** kuralını düzenlemektedir. İncelemenin maddi özünü oluşturan, 
-mehaz İsviçre Borçlar Kanunu'nun 18. maddesine (**OR Art. 18**) atıfla talep 
-edilen **"Sözleşmenin Yorumu, Falsa Demonstratio Non Nocet ve Muvazaa"** 
-müessesesi ise, mülga 818 sayılı BK m. 18'in karşılığı olarak yeni 6098 sayılı 
-TBK sistematiğinde **Madde 19** başlığı altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, muvazaa, irade 
-bozuklukları ve ifa engelleri konularına odaklandığından; **TBK m. 19 
-(Sözleşmelerin Yorumu)** kurumunun spesifik dogmatik detayları, Güven Teorisi 
-ve İrade Teorisi tartışmaları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve 
-Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre 
-hukukundaki kuramsal arka plan) tarafımdan harici akademik müktesebat ile 
-tamamlanarak analiz edilmiştir. Sisteminizde yer alan "Genel İşlem Koşullarının
-Yorumlanması (TBK m. 23)", "Borçlar Hukukunda Falsa Demonstratio Non Nocet 
-Kuralının Uygulanması", "Sigorta Sözleşmelerinin Yorumu Meselesi" ve 
-"Muvazaanın Müeyyidesi Meselesi" başlıklı makaleler ise, yorum ilkelerinin 
-pratik sonuçları ve geçersizlik senaryoları kapsamında azami ölçüde 
-kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, sözleşmeler hukukunun anayasası konumundaki
-irade beyanlarının yorumu ve nitelemesi kurumunu, mehaz OR Art. 18 ile kurulan 
-bağ ekseninde bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -360,7 +331,6 @@ karanlık uçurumu Güven Teorisi'nin ışığıyla aydınlattın.
 
 Sıradaki analizlerimizde, borçlar hukukunun haksız fiil deryasını, kusur 
 sorumluluğunu ve tasfiye labirentlerini aynı acımasız titizlikle incelemeye 
-devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

@@ -37,37 +37,6 @@ dolmasından önce ifa etmekle yükümlüdür.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 92 (Borcun nakli — borçlu değişikliği)" başlığı ile mehaz
-İsviçre Borçlar Kanunu'nun 176. maddesine (**OR Art. 176**) yapılan atıf 
-arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 92. maddesi, borçların ifa rejiminde 
-**"İfa Zamanı - Uzama (Tatil Günleri)"** kuralını düzenlemektedir. İncelemenin 
-maddi özünü oluşturan, mülga 818 sayılı BK m. 174 ve mehaz OR Art. 176'da yer 
-alan **Borcun Nakli (Dış Üstlenme Sözleşmesi / Externe Schuldübernahme)** 
-müessesesi ise, yeni 6098 sayılı TBK sistematiğinde **Madde 196 ve devamı** 
-başlıkları altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, sözleşmenin 
-geçerliliği, muvazaa ve ifa engelleri konularına odaklandığından; **TBK m. 196 
-(Borcun Dış Üstlenilmesi)** kurumunun spesifik dogmatik detayları (Fikret Eren,
-M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan 
-atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici 
-akademik müktesebat ile tamamlanarak analiz edilmiştir. Bu bilgilerin kaynak 
-metinlerinizin dışında olduğunu ve tarafınızca bağımsız olarak teyit 
-edilebileceğini açıkça belirtmek isterim. Sisteminizdeki "Muvazaanın Müeyyidesi
-Meselesi", "Hukukî İşlemlerde Geçersizlik Olgusuna Genel Bir Bakış", "Genel 
-İşlem Koşullarının Denetimi" ve "Müteselsil Borçluluk" konularındaki belgeler 
-ise, borcun naklinin sistematik ilişkilerinde ve geçersizlik senaryolarında 
-azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan borcun 
-üstlenilmesi kurumunu, mehaz OR Art. 176 ile kurulan bağ ekseninde bütünüyle 
-parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -359,7 +328,6 @@ perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye mekanizmalarını ve 
 sözleşmelerin o karanlık arka odalarını aynı acımasız titizlikle incelemeye 
-devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

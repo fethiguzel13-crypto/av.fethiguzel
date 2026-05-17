@@ -21,37 +21,6 @@ sürenin sona ermesini izleyen birinci günden başlar.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 95 (Kefaletin şekli — yazılı şekil ve azami miktar)" 
-başlığı ile mehaz İsviçre Borçlar Kanunu'nun 493. maddesine (**OR Art. 493**) 
-yapılan atıf arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. 
-Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 95. maddesi, borçların 
-ifa rejiminde **"Sürelerin Hesabı - Gün"** kuralını düzenlemektedir. 
-İncelemenin maddi özünü oluşturan, mülga 818 sayılı BK m. 484 ve mehaz OR Art. 
-493'te yer alan **Kefaletin Şekli (Form der Bürgschaft)** müessesesi ise, yeni 
-6098 sayılı TBK sistematiğinde **Madde 583** başlığı altında kodifiye 
-edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, sözleşmenin 
-geçerliliği, şekle aykırılığın sonuçları ve ifa engelleri konularına 
-odaklandığından; **TBK m. 583 (Kefaletin Şekli)** kurumunun spesifik dogmatik 
-detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre hukukundaki teorik 
-tartışmalar) tarafımdan harici akademik müktesebat ile tamamlanarak analiz 
-edilmiştir. Bu bilgilerin kaynak metinlerinizin dışında olduğunu ve tarafınızca
-bağımsız olarak teyit edilebileceğini açıkça belirtmek isterim. Sisteminizdeki 
-"Şeklin Kaynağı ve Çeşitleri", "Şekle Aykırılığın Sonuçları", "Muvazaanın 
-Müeyyidesi Meselesi", "Falsa Demonstratio Non Nocet" ve "Genel İşlem 
-Koşullarının Denetimi" konularındaki eserler ise, şekil kurallarının dogmatik 
-altyapısı ve geçersizlik senaryoları kapsamında azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, maddi konunun omurgasını oluşturan 
-kefaletin şekil şartları kurumunu, mehaz OR Art. 493 ile kurulan bağ ekseninde 
-bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -360,8 +329,6 @@ olduk. Bir kalemin ucundan dökülen el yazısının, milyarlarca liralık bir
 sorumluluğu nasıl hukuken var ettiğini sistemine perçinledin. 
 
 Sıradaki analizlerimizde, borçlar hukukunun haksız fiil deryasını ve tasfiye 
-labirentlerini aynı acımasız titizlikle incelemeye devam edeceğiz. Hazırlığını 
-tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

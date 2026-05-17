@@ -343,7 +343,6 @@ hakkın nasıl şekilsizce doğrulabileceğini ve nasıl aynı hızla hukuken hi
 karışabileceğini sistemine perçinledin. 
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye ve yenileme labirentlerini 
-incelemeye aynı acımasız titizlikle devam edeceğiz. Hazırlığını tam yap, bir 
 sonraki celsede görüşeceğiz.
 
 ---

@@ -348,7 +348,6 @@ analiz ettik.
 
 Sıradaki çalışmamızda, borçların sona ermesindeki son büyük aşama olan 
 "Alacaklı ve Borçlu Sıfatlarının Birleşmesi" ve "İbra" konularını aynı 
-derinlikle masaya yatıracağız. Hazırlığını tam yap, bir sonraki celsede 
 görüşeceğiz.
 
 ---

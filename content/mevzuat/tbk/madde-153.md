@@ -31,44 +31,6 @@ işlemeye başlar veya durmadan önce başlamış olan işlemesini sürdürür.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir hezimetin resmidir.
-İnceleme başlığında bana "TBK Madde 153" normunu zikredip, hemen yanına 
-"Sözleşmenin taraflarına yararı — üçüncü kişi lehine sözleşme" yazmışsın ve 
-mehaz olarak da İsviçre Borçlar Kanunu (OR) Art. 112'yi göstermişsin!
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve senin başlığa numarasını 
-yazdığın **TBK Madde 153**, borçlar hukukunda akıp giden zamanı adeta buz 
-kalıbına sokup donduran, alacaklının dava açma imkânının fiilen veya hukuken 
-engellendiği durumlarda süreyi durduran **"Zamanaşımının Durması"** (Mehaz OR 
-Art. 134) müessesesini düzenler. Senin incelememi talep ettiğin, maddi özünü 
-oluşturduğunu iddia ettiğin ve mehazı OR Art. 112 olan kurum ise, sözleşmenin 
-nispiliği (relativity) ilkesini paramparça ederek dışarıdaki bir üçüncü kişiye 
-alacak hakkı bahşeden **"Üçüncü Kişi Lehine Sözleşme" (TBK m. 129)** kuralıdır.
-
-*Sistemine yüklediğin kaynaklar, ağırlıklı olarak sözleşme özgürlüğü, 
-sözleşmenin kurulması, haksız fiiller ve genel işlem koşulları üzerine inşa 
-edilmiştir. Doğrudan zamanaşımının durması ile üçüncü kişi lehine sözleşmenin 
-dogmatik sentezine dair müstakil bir monografi bu kütüphanede sınırlı olmakla 
-birlikte; kütüphanendeki kaynaklarda Şener Akyol'un "Tam Üçüncü Şahıs Yararına 
-Sözleşme" eserine yapılan atıflar ve Fikret Eren, M. Kemal Oğuzman, Turgut 
-Öz, Haluk Nami Nomer'in devasa genel borçlar hukuku çalışmaları mevcuttur. 
-Dolayısıyla, bu iki kurumu kendi akademik müktesebatımla harmanlayarak inşa 
-edeceğimi, bu harici bilgileri akademik güvenliğin için bağımsız olarak 
-doğrulaman gerektiğini açıkça ihtar ediyorum.*
-
-Bugünkü celsede, senin bu feci hatanı salt bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkının tasfiye 
-süresini donduran o koruyucu **TBK m. 153 (Zamanaşımının Durması)** kuralı ile,
-akdî ilişkinin dışındaki bir şahsa edimi talep yetkisi veren **TBK m. 129 
-(Üçüncü Kişi Lehine Sözleşme)** kuralını aynı dogmatik laboratuvarda 
-eriteceğim. Sistemindeki sözleşme teorisi eserleri üzerinden; üç köşeli bir 
-hukuki ilişkide (vaat eden, vaat ettiren, lehtar) lehtarın (üçüncü kişinin) 
-vaat edene karşı sahip olduğu alacağın zamanaşımı süresinin, taraflar 
-arasındaki evlilik veya velayet gibi şahsi bağlar nedeniyle TBK m. 153 
-giyotiniyle nasıl durdurulduğunu amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -353,25 +315,6 @@ tarafıymış gibi objektif muacceliyet kuralıyla cezalandırması ve durma
 kalkanından mahrum bırakması, Rona Serozan'ın eserlerinde de işaret edildiği 
 gibi, güvenin korunması ilkesiyle bağdaşmayan devasa bir teorik boşluktur.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o zamanı donduran 
-mutlak kalkanını; alacaklının dava açma yeteneğini felç eden şahsi bağlar 
-nedeniyle saatin sustuğu o anı (**TBK m. 153 / Zamanaşımının Durması**) ve bu 
-koruyucu kuralın, senin zihnini karıştıran o başlık altındaki asıl kavram olan,
-sözleşmenin nispiliğini yırtıp atan **Üçüncü Kişi Lehine Sözleşme (TBK m. 
-129)** kurumuyla diyalektik bir bütünlük içinde nasıl çarpıştığını inşa etmiş 
-olduk. Valuta, provizyon ilişkilerinin o ince ameliyatını ve zamanaşımının 
-nispilik (şahsilik) sınırlarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Durma müessesesi ile 
-üçüncü kişi lehine sözleşmeyi, madde numaralarını ve mehazlarını birbirine 
-katarak beni tuzağa düşürmeye çalışmanın) bir hukukçuyu kürsüde dogmatik bir 
-infaza ne kadar sürükleyebileceğini artık iliklerine kadar idrak etmiş 
-olmalısın. Borçlar Hukukunun o kusursuz mimarisinde böyle bir savrulmaya bir 
-daha izin vermeyeceğim. Bir sonraki okumalarında "Müteselsil Borçluluk ve İç 
-İlişkide Rücu" (TBK m. 162 vd.) dehlizine çalışarak karşıma gel. Zihnini 
-dogmatik bir çelik gibi keskin tut; zira bu kürsüde zayıflığa ve bilgisizliğe 
-asla tahammülüm yoktur!
 
 ---
 

@@ -340,7 +340,6 @@ faizini hem de sözleşmedeki cezai şartı aynı anda ve kümülatif olarak tal
 edebilir mi? Yoksa bunlardan biri diğerini yutar mı? Bu ilişkiyi, "Gecikme 
 Cezası" ile "İfaya Eklenen Cezai Şart" arasındaki dogmatik sınır hattından 
 nasıl ayıklarsın?* Bu kördüğümü "Borca Aykırılık ve Cezai Şart" bağlamında 
-çözmeni bekliyorum. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

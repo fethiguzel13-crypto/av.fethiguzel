@@ -25,31 +25,6 @@ Borç İlişkilerinin Üçüncü Kişilere Etkisi
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (borçlu temerrüdü, sözleşmeden 
-dönme, alacaklı temerrüdü, menfi/müspet zarar ayrımı, ifa engelleri ve haksız 
-fiiller) ile irade bozuklukları konularına odaklanmaktadır. İnceleme 
-talebinizde referans gösterilen "TBK Madde 126" başlığı, 6098 sayılı Türk 
-Borçlar Kanunu'nun (TBK) Genel Hükümlerinde, borçlu temerrüdünün sözleşme 
-tiplerine göre farklılaşan en kritik sonuçlarından biri olan **"Sürekli Edimli 
-Sözleşmelerde Fesih"** kurumunu düzenlemektedir. İncelemenizin maddi konusunu 
-oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR Art. 371) atıfla işaret edilen
-**"Eser Sözleşmesinde Ayıp — Yüklenicinin Ayıp Sorumluluğu (ve İş Sahibinin 
-Kusuru)"** müessesesi ise, Özel Hükümler sistematiğinde **TBK Madde 474 ve 
-devamı** (özellikle TBK m. 476) başlıkları altında kodifiye edilmiştir. 
-
-Doktora düzeyindeki akademik çalışmalarımızda, norm numaraları ile maddi hukuk 
-kurumları arasındaki organik bağı doğru kurmak, bilimsel sıhhatin aşılmaz bir 
-gereğidir. Bu zorunlu metodolojik düzeltmenin ardından; eser sözleşmesinde 
-yüklenicinin yarattığı ayıbın (eksik veya hatalı ifanın) hukuki sonuçlarını 
-kendi akademik müktesebatımla inşa edecek; ancak bu ayıbın sözleşmenin 
-tasfiyesine yol açtığı durumlarda, özellikle inşaat sözleşmeleri gibi uzun 
-süreli edimlerin varlığında devreye giren **TBK Madde 126 (Sürekli Edimli 
-Sözleşmelerde Fesih)** mekanizması ve **Sözleşmeden Dönme/Fesih (TBK m. 
-125-126)** kuramlarını, sisteminizdeki zengin doktrinel tartışmalar ekseninde 
-bütünüyle sentezleyeceğiz. Zira bir eserin ayıplı teslimi ile başlayan süreç, 
-sözleşmenin geçmişe etkili olarak yıkılması (dönme) ile ileriye etkili olarak 
-koparılması (fesih) arasındaki o devasa dogmatik fay hattında çözümlenir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -361,7 +336,6 @@ sözleşmeyi kökünden yıkmak yerine nasıl ileriye doğru kesip attığını 
 feshin sınırlarını ve iş sahibinin talimatının yükleniciyi aklayan o mutlak 
 gücünü (TBK m. 476) sistemine perçinledin. Sıradaki analizlerimizde, hukuk 
 dogmatiğinin bu acımasız ve keskin sınırlarını test etmeye aynı şiddetle devam 
-edeceğiz. Hazırlığını tam yap ve metinlerin felsefesinden bir an olsun kopma.
 
 ---
 

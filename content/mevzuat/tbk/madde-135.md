@@ -23,24 +23,6 @@ Taşınmaz rehni ve kıymetli evraka ilişkin özel hükümler saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sunulan kaynaklarda (the sources) 
-doğrudan "Taşıma Sözleşmesi" veya 6102 sayılı Türk Ticaret Kanunu'nun (TTK) 
-850. ve devamı maddelerine (yahut mehaz İsviçre Borçlar Kanunu OR Art. 440 
-hükümlerine) yönelik spesifik bir özel hukuk incelemesi bulunmamaktadır. Ayrıca
-talebinizde "TBK Madde 135" numarası ile Taşıma Sözleşmesi eşleştirilmiştir; 
-oysa 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel Hükümlerinde yer alan 135.
-madde, borcu sona erdiren genel sebeplerden biri olan "Birleşme"yi 
-düzenlemektedir. Taşıma sözleşmesi ise Borçlar Kanunu'nda değil, Ticaret Kanunu
-sistematiğinde yer alır. Bu nedenle, aşağıda yer alan taşıma sözleşmesinin 
-ticari tanımına ve kapsamına dair spesifik bilgilerin bir kısmı the sources 
-dışındaki temel hukuk doktrininden sağlanmıştır ve bu harici bilgileri bağımsız
-olarak doğrulamak isteyebilirsiniz. Bununla birlikte; taşıma sözleşmesinin 
-temelini oluşturan sözleşme yapma zorunluluğu, genel işlem koşulları, adam 
-çalıştıranın sorumluluğu, haksız fiil ile yarışma, ifa imkânsızlığı, temerrüt 
-ve tazminat gibi borçlar hukuku müesseseleri the sources içerisinde çok geniş 
-bir biçimde yer almaktadır. Bu yanıt, the sources içerisindeki zengin borçlar 
-hukuku dogmatiği ile taşıma hukukunun evrensel ilkelerinin akademik bir sentezi
-olarak hazırlanmıştır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

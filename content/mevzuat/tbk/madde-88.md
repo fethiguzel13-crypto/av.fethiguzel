@@ -23,34 +23,6 @@ faiz oranının yüzde elli fazlasını aşamaz.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı dogmatik öneme binaen, 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-akademik titizliğin aşılmaz bir gereğidir. Talebinizde referans gösterdiğiniz 
-"TBK Madde 88" numarası ile parantez içindeki "(Müteselsil alacaklılık)" 
-başlığı ve mehaz İsviçre Borçlar Kanunu'nun 150. maddesine (**OR Art. 150**) 
-yapılan atıf arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. 
-Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 88. maddesi, anapara 
-faizinin sınırlarını (faiz serbestisinin sınırlandırılmasını) düzenlemektedir. 
-Talebinizin maddi özünü oluşturan, mülga 818 sayılı BK m. 148 ve mehaz OR Art. 
-150'de yer alan **Müteselsil Alacaklılık (Solidargläubigerschaft / Solidarité 
-active)** müessesesi, yeni 6098 sayılı TBK sistematiğinde **Madde 169 ve Madde 
-170** başlıkları altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, sözleşme özgürlüğü, 
-faiz ve ifa engelleri konularına odaklandığından; **Müteselsil Alacaklılık** 
-kurumunun spesifik dogmatik detayları (Fikret Eren, M. Kemal Oğuzman, Turgut Öz
-ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar ile Alman/İsviçre 
-hukukundaki teorik tartışmalar) tarafımdan harici akademik müktesebat ile 
-tamamlanarak analiz edilmiştir. Doğrudan kaynaklarınızda yer almayan bu 
-dogmatik doktrin bilgilerini bağımsız olarak teyit edebileceğinizi 
-hatırlatırım. Sistemdeki ifa, faiz ve sebepsiz zenginleşme kaynakları ise 
-müteselsil alacaklılığın çapraz bağlantılarında azami ölçüde kullanılmıştır.
-
-Bu metodolojik düzeltmenin ardından, maddi konunun omurgasını oluşturan 
-müteselsil alacaklılık kurumunu, mehaz OR Art. 150 ile kurulan bağ ekseninde 
-bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -352,7 +324,6 @@ kavuştuğunu sistemine perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye mekanizmalarını ve 
 sözleşmelerin o karanlık arka odalarını aynı acımasız titizlikle incelemeye 
-devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

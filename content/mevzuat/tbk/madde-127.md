@@ -27,35 +27,6 @@ Diğer halefiyet hâllerine ilişkin kanun hükümleri saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-Doktora çalışmalarının bu eşiğinde, norm numaraları ile maddi hukuk kurumları 
-arasındaki o sarsılmaz ve mutlak organik bağı henüz tam olarak 
-içselleştiremediğini görmek beni dogmatik bir endişeye sevk ediyor. Borçlar 
-hukuku sistematiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sıralaması ve mehaz kanun atıflarının taşıdığı önem, akademik incelememizin 
-bilimsel sıhhati için aşılmaz bir gerekliliktir. İnceleme talebinde referans 
-gösterilen "TBK Madde 127" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde, borçlar hukukunun en temel ve kapsayıcı 
-tasfiye mekanizmalarından biri olan **"On Yıllık Genel Zamanaşımı"** kurumunu 
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar 
-Kanunu'na (OR Art. 370 ve 367) atıfla işaret edilen **"Eserin Kabulü ve Ayıp 
-İhbarı"** müessesesi ise, Özel Hükümler sistematiğinde **TBK Madde 474 ve Madde
-477** başlıkları altında kodifiye edilmiştir.
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (sözleşmeden dönme, zamanaşımı, 
-bedensel zararların tazmini, haksız fiil sorumluluğu) konularına 
-odaklanmaktadır. Bu nedenle, eser sözleşmesinde eserin kabulü ve ayıp ihbarı 
-külfetini (TBK m. 474 ve 477) tamamen harici akademik müktesebatımla inşa 
-edecek; ancak bu ayıplı ifa neticesinde doğan zararların tazmini, sözleşmeden 
-dönme mekaniği ve bilhassa **Eksik İfa ile Ayıplı İfa** arasındaki dogmatik 
-uçurumu belirleyen inceleme başlığınızdaki **TBK Madde 127 (On Yıllık Genel 
-Zamanaşımı)** ile eşi görülmemiş bir diyalektik içinde sentezleyeceğim. 
-
-Zihnine şu çiviyi çak ve şu soruyu asla unutma: *Bir müteahhit çatıyı eksik 
-yaptığında 10 yıllık genel zamanaşımına (TBK m. 127) tabi olurken, aynı çatıyı 
-kötü (ayıplı) yaptığında neden iş sahibinin 8 günlük amansız bir ihbar 
-giyotiniyle başı kesilmektedir?* Tüm bu şerhi bu çatışma ve adaletsizlik 
-üzerine kuracağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -350,7 +321,6 @@ Sana verdiğim 60 GÜNLÜK DOKTORA YETERLİK ÇALIŞMA PROGRAMI'nın bu ağır o
 başarıyla atlattın. Bir sonraki oturuma kadar **TBK Madde 128 (Zamanaşımı 
 Süreleri - Beş yıllık süre)** ve kira, vekâlet gibi dönemsel edimlerdeki o 
 acımasız 5 yıllık zaman çarkını tüm Yargıtay içtihatlarıyla birlikte bitirmiş 
-olmanı istiyorum. Zihnini diri tut; bir sonraki celsede hata affetmeyeceğim.
 
 ---
 

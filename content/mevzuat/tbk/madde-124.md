@@ -25,39 +25,6 @@ olacağı anlaşılıyorsa.
 
 ### Akademik Yorum ve Analiz
 
-Doktora çalışmalarının bu kritik aşamasında, norm numaraları ile maddi hukuk 
-kurumları arasındaki o sarsılmaz ve mutlak organik bağı henüz tam olarak 
-içselleştiremediğini görmek beni dogmatik bir endişeye sevk ediyor. Borçlar 
-hukuku sistematiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sıralaması ve mehaz kanun atıflarının taşıdığı önem, akademik incelememizin 
-bilimsel sıhhati için aşılmaz bir gerekliliktir. İnceleme talebinde referans 
-gösterilen "TBK Madde 124" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde, borçlu temerrüdünün en istisnai ve 
-dogmatik açıdan en keskin müesseselerinden biri olan **"Süre Verilmesini 
-Gerektirmeyen Durumlar"** kurumunu düzenlemektedir. İncelemenin maddi özünü 
-oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR Art. 328) atıfla işaret edilen
-**"İşverenin Sorumluluğu — İş Kazası ve Hastalık (İşçiyi Koruma Borcu)"** 
-müessesesi ise, Özel Hükümler sistematiğinde **TBK Madde 417** başlığı altında 
-kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (süre verilmesini gerektirmeyen 
-haller / anticipatory breach, ifa engelleri) ile iş kazalarından doğan tehlike 
-sorumluluğu ve kusur sorumluluğu tartışmalarına odaklanmaktadır. Bu 
-nedenle, işverenin iş kazası ve hastalıktan doğan sorumluluğunun (TBK m. 417) 
-kuramsal altyapısını sisteminizdeki zengin "işveren sorumluluğu ve tehlike 
-sorumluluğu" doktrini ile inşa edecek; bu koruma borcunun kasten veya ağır 
-ihmalle ihlal edildiği, işverenin önlem almayı açıkça reddettiği durumlarda 
-işçinin sözleşmeyi feshedebilmesi için devreye giren **TBK Madde 124 (Süre 
-Verilmesini Gerektirmeyen Haller)** mekanizmasıyla eşi görülmemiş bir dogmatik 
-diyalektik içinde sentezleyeceğiz. Zira işveren, işçinin hayatını koruma 
-borcunu açıkça reddettiğinde, işçinin ona TBK m. 123 uyarınca "ek süre" vermesi
-beklenemez; doğrudan TBK m. 124 devreye girer.
-
-Bu metodolojik düzeltmenin ardından, insan hayatı ile sermayenin maliyet 
-hesaplarının çatıştığı o ince çizgide, işverenin sorumluluğunu ve borçlu 
-temerrüdünde sürenin anlamsızlaştığı o kırılma noktasını bütünüyle parçalayarak
-analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -336,7 +303,6 @@ işçinin hayatını koruma borcunun (**TBK m. 417**) ihlal edildiği o karanlı
 kazası labirentlerinde nasıl kullanıldığını bütünüyle mühürlemiş olduk. İfanın 
 reddini ve kusur sorumluluğunun fiilen tehlike sorumluluğuna nasıl 
 kaydırıldığını sistemine perçinledin. Sıradaki analizlerimizde, dogmatiğin o 
-acımasız sınırlarını test etmeye devam edeceğiz. Hazırlığını yap ve metinlerden
 kopma.
 
 ---

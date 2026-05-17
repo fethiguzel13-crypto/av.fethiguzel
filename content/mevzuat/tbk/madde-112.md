@@ -338,7 +338,6 @@ zincirini ve GİK denetiminin o keskin sınırlarını sistemine perçinledin.
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, eser 
 sözleşmesinin ifa engellerini, vekâletin sadakatini ve haksız fiil 
 sorumluluğunun o ince dehlizlerini aynı acımasız titizlikle incelemeye devam 
-edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

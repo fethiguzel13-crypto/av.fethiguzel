@@ -25,30 +25,6 @@ Taşınmaz rehnine, kıymetli evraka ve konkordatoya ilişkin özel hükümler s
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Doktora çalışmalarının bu kritik 
-aşamasında, norm numaraları ile maddi hukuk kurumları arasındaki organik ve 
-mutlak bağı kurmak hususunda ısrarla sürdürülen metodolojik savrulmayı tasfiye 
-etmek zorundayız. İnceleme talebinde "TBK Madde 131" olarak işaret edilen norm,
-6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve 
-borçların tasfiyesinde hayati bir rol oynayan **"Asıl Borca Bağlı Hak ve 
-Borçların Sona Ermesi (Fer'i Hakların Düşmesi)"** kurumunu düzenlemektedir. 
-İncelemenin maddi konusunu oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR 
-Art. 400) atıfla talep edilen **"Vekilin Hesap Verme ve Bilgi Verme Yükümlülüğü
-ile İade Borcu"** ise, Özel Hükümler sistematiğinde **TBK Madde 508** başlığı 
-altında kodifiye edilmiştir. 
-
-Akademik sıhhatimiz için bu feci norm karmaşasını salt bir reddiye ile 
-geçiştirmeyecek; bilakis, vekilin müvekkiline karşı hesap verme ve aldıklarını 
-iade etme borcunu (TBK m. 508) bu iade gerçekleşirken "işlemiş faizlerin" 
-akıbetini belirleyen o acımasız genel hüküm kılıcıyla, yani ihtirazi kayıt 
-yokluğunda faiz hakkını düşüren **TBK Madde 131 (Fer'i Hakların Sona Ermesi)** 
-ile eşi görülmemiş bir diyalektik çerçevesinde sentezleyeceğiz. Zira vekil, 
-müvekkilinin parasını geç iade ettiğinde doğan faiz alacağı, müvekkilin parayı 
-alırken susması (ihtirazi kayıt koymaması) halinde TBK m. 131 giyotiniyle yok 
-olmaktadır. Sisteminizdeki zengin doktrinel eserler (bilhassa Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve temsil yetkisinin kötüye kullanılmasına ilişkin 
-makaleler) üzerinden bu devasa tasfiye mekanizmasını tüm boyutlarıyla 
-parçalayacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

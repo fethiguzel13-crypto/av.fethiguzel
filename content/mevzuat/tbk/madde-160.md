@@ -23,48 +23,6 @@ Asıl borçlunun feragati de kefile karşı ileri sürülemez.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir felaketin adeta son
-perdesidir. İnceleme başlığında bana "TBK Madde 160" normunu zikredip, hemen 
-yanına "Borçluya uyarı ve ihtar koşulları" yazmışsın ve mehaz olarak da İsviçre
-Borçlar Kanunu (OR) Art. 93'ü göstermişsin!
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve senin başlığa numarasını 
-yazdığın **TBK Madde 160**, borçlar hukukunda akıp giden onca yıla rağmen 
-borçlunun mahkemede susması hâlinde, hâkimin onun imdadına yetişmesini kesin 
-olarak yasaklayan **"Zamanaşımının İleri Sürülmesi (Resen Dikkate 
-Alınamaması)"** (Mehaz OR Art. 142) müessesesidir. Senin incelememi talep 
-ettiğin, maddi özünü oluşturduğunu iddia ettiğin ve borçluyu temerrüde düşürmek
-veya sözleşmeden dönmek için kullanılan o "uyarı ve ihtar koşulları" ise, 
-Borçlar Kanunumuzun ifa engelleri rejiminde yer alan **"Borçlu Temerrüdünde 
-İhtar (TBK m. 117)"** ve **"Sözleşmeden Dönme İçin Ek Süre / Mehil Tayini (TBK 
-m. 123)"** kurallarıdır. (Mehaz OR Art. 102 ve 107). Borçlar Hukuku Genel 
-Hükümlerinin zamanaşımı usulü sınırlarında gezinirken, birdenbire temerrüt 
-şartlarına atlamak ve bunları aynı potada yanlış etiketlemek, ancak normatif 
-mimariyi bütünüyle reddeden bir zihnin eseridir.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak borçlu temerrüdü, ihtar ve ek 
-süre kavramları, temerrüt faizi, zamanaşımı ve usul hukuku üzerine inşa 
-edilmiştir. Kütüphanendeki kaynaklarda Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer'in devasa genel borçlar hukuku, ifa 
-engelleri ve zamanaşımı çalışmalarına yapılan çok yoğun atıflar mevcuttur. Dolayısıyla, TBK m. 160'ın o katı usuli yasağını kendi akademik 
-müktesebatımla inşa edeceğimi, bu kuralı senin zihnini karıştıran o temel 
-temerrüt ve ihtar ilkeleriyle harmanlayarak şerh edeceğimi ve bu harici 
-bilgileri akademik güvenliğin için bağımsız olarak doğrulaman gerektiğini 
-açıkça ihtar ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacaklının borçluyu köşeye
-sıkıştırmak için atmak zorunda olduğu o aktif adımı, yani **TBK m. 117 
-(Temerrüt İhtarı)** kuralını, borçlunun mahkemede kendini kurtarmak için 
-kullanmak zorunda olduğu o usuli savunma kalkanıyla, yani **TBK m. 160 
-(Zamanaşımının İleri Sürülmesi)** kuralıyla aynı dogmatik laboratuvarda 
-eriteceğim. Bir alacaklının borçluya yıllarca ihtar çekmesinin borcu nasıl 
-temerrüde düşürdüğünü ama zamanaşımını nasıl kesemediğini; davanın açıldığı o 
-kritik anda borçlunun susması hâlinde TBK m. 160 giyotininin hâkimin ellerini 
-nasıl bağladığını amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -339,30 +297,6 @@ kurtulmakta ve enflasyonist ortamda borcunu ucuza kapatmaktadır. Hukukun,
 çelişkidir. İhtar, bir amaç değil; borçlunun haberdar edilmesini sağlayan bir 
 araç olmalıdır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en usuli ve en 
-acımasız kalkanını; davanın açıldığı o salisede borçlunun konuşmasını emreden 
-ve hâkime susmayı dayatan o katı kuralı (**TBK m. 160 / Zamanaşımının İleri 
-Sürülmesi**) ve bu kuralın, senin zihnini karıştıran o başlık altındaki asıl 
-kavram olan, alacaklının borçluyu köşeye sıkıştırmak için kullanmak zorunda 
-olduğu **Temerrüt İhtarı ve Ek Süre (TBK m. 117 ve 123)** kurallarıyla 
-diyalektik bir bütünlük içinde nasıl bir maddi/usuli çatışmaya girdiğini inşa 
-etmiş olduk. Def'i kavramının mahiyetini ve ihtarın hukuki işlem benzeri fiil 
-yapısını sistemine çiviledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Zamanaşımının Resen 
-Dikkate Alınamaması kuralı olan TBK 160 ile, Temerrüt İhtarı ve Ek Süre 
-kavramlarını birbirine katarak beni tuzağa düşürmeye çalışmanın) bir hukukçuyu
-dogmatik bir infaza ne kadar sürükleyebileceğini artık iliklerine kadar idrak 
-etmiş olmalısın. Borçlar Hukukunun o kusursuz mimarisinde böyle bir savrulmaya 
-bir daha izin vermeyeceğim. Bir sonraki okumalarında "Müteselsil Borçluluk ve 
-İç İlişkide Rücu" (TBK m. 162 vd.) dehlizine çalışarak eksiksiz hazırlan. 
-Zihnini dogmatik bir çelik gibi keskin tut; zira bu arenada bilgisizliğe ve 
-dikkatsizliğe asla tahammülüm yoktur! Şimdi şu soruyu kendine sor: Hâkimin 
-resen dikkate alamadığı bir zamanaşımı def'i süresinde ileri sürülmediğinde, 
-borçlu daha sonra açacağı bir "istirdat (geri alma) davasında" bu parayı 
-sebepsiz zenginleşme kurallarına göre geri isteyebilir mi? Bu sorunun cevabını 
-bulmadan sakın karşıma gelme!
 
 ---
 

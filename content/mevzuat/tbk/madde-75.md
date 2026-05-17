@@ -373,7 +373,6 @@ edim yükümlülüğü, şekil değiştirerek (peruk takarak) "zararı tazmin et
 (tazminat)" şeklindeki yeni bir borca mı dönüşür (Dönüşüm / Surrogat Teorisi)? 
 Ve bu yeni tazminat borcu, eski eşya teslim borcunun zamanaşımı süresine ve 
 teminatlarına tabi olmaya devam eder mi?* Bu dogmatik kördüğümü "İfa Engelleri 
-ve Kusurlu İmkânsızlık" bağlamında çözmeni bekliyorum. Hazırlığını tam yap, bir
 sonraki celsede görüşeceğiz.
 
 ---

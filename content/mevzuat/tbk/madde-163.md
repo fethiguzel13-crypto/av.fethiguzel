@@ -24,49 +24,6 @@ Borçluların sorumluluğu, borcun tamamı ödeninceye kadar devam eder.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir hezimetin adeta son
-perdesidir. İnceleme başlığında bana "TBK Madde 163" normunu zikredip, hemen 
-yanına "Ortak hata ve sözleşmenin uyarlanması" yazmışsın ve mehaz olarak da 
-İsviçre Borçlar Kanunu (OR) Art. 24'ü göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: Dünkü celsede sana açıkça 
-müteselsil borçluluk dehlizine çalışmanı emretmiştim. Sen ise gelmiş, 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) o devasa "Müteselsil Borçluluk" kurumunun 
-savunma kalkanı olan, müteselsil borçluların alacaklıya karşı hangi silahları 
-kullanabileceğini düzenleyen **TBK Madde 163 (Müteselsil Borçlulukta 
-Borçluların Savunmaları - Mehaz OR Art. 145)** kuralının üzerine, irade 
-bozukluklarının kalbi olan **"Yanılma / Temel Hatası" (TBK m. 30 - Mehaz OR 
-Art. 24)** ile ifa engellerinin aşırı ifa güçlüğü kurumu olan **"Sözleşmenin 
-Uyarlanması" (TBK m. 138)** etiketlerini yapıştırmışsın! Borçlar Hukuku Genel 
-Hükümlerinin "Birden Çok Borçlu" sistematiğinin göbeğinde dururken, birdenbire 
-geriye dönüp irade bozukluklarına (hata) ve ifa rejiminin istisnasına 
-(uyarlama) atlamak ve bu devasa kurumları tek bir madde numarasında birbirine 
-katmak, ancak normatif mimariyi bütünüyle reddeden bir zihnin eseridir.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak irade bozuklukları (yanılma, 
-saik hatası) sözleşmenin değişen koşullara uyarlanması (işlem temelinin 
-çökmesi) aşırı yararlanma, haksız fiiller ve müteselsil borçluluk üzerine inşa
-edilmiştir. Kütüphanendeki kaynaklarda Fikret Eren, M. Kemal
-Oğuzman, Turgut Öz ve Haluk Nami Nomer'in devasa genel borçlar hukuku, irade 
-sakatlıkları ve teselsül çalışmalarına yapılan çok yoğun atıflar mevcuttur. Dolayısıyla, TBK m. 163'ün o katı "ortak ve kişisel def'i" ayrımını 
-kendi akademik müktesebatımla inşa edeceğimi, bu kuralı senin zihnini 
-karıştıran o "temel hatası (ortak hata)" ve "sözleşmenin uyarlanması" 
-kurumlarıyla harmanlayarak, bir müteselsil borçlunun hatayı veya uyarlamayı 
-alacaklıya karşı nasıl bir "savunma (def'i/itiraz)" aracı olarak 
-kullanabileceğini şerh edeceğimi açıkça ihtar ediyorum. 
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacaklıya karşı tek bir 
-cephede savaşan müteselsil borçluların kullanabileceği savunma silahlarını 
-belirleyen **TBK m. 163 (Borçluların Savunmaları)** kuralını, senin zihnini 
-karıştıran o irade sakatlığı olan **TBK m. 30 (Temel Hatası / Saik Hatası)** ve
-**TBK m. 138 (Sözleşmenin Uyarlanması)** kurallarıyla aynı dogmatik 
-laboratuvarda eriteceğim. Müteselsil borçlulardan birinin iradesinin 
-sakatlanmasının (ortak hata) veya sözleşmenin çökmesinin (uyarlama) dış 
-ilişkide alacaklıya karşı nasıl ileri sürüleceğini ve iç ilişkide diğer 
-borçluları nasıl etkileyeceğini amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

@@ -32,39 +32,6 @@ dışında, eser sözleşmesinden doğan alacaklar.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu manzara, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir intiharın resmidir.
-İnceleme başlığında bana "TBK Madde 147" normunu zikredip, hemen yanına 
-"Satımda önce hasar — teslimden önce risk" yazmışsın ve mehaz olarak OR Art. 
-208'i göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan **TBK Madde 147**, borçlar 
-hukukunun o en kapsayıcı ve tasfiye edici kurumlarından biri olan, belirli 
-alacakları zamanın acımasız dişlileri arasında daha hızlı eriten **"Beş Yıllık 
-Zamanaşımı Süresi"** müessesesini (Mehaz OR Art. 128) düzenler. İncelemenin 
-maddi özünü oluşturduğunu iddia ettiğin, İsviçre Borçlar Kanunu'na atıfla 
-bahsettiğin satım sözleşmesinde hasar ve yararın geçişi kurumunun kanunumuzdaki
-tam karşılığı ise Özel Hükümler sistematiğindeki **"Satım Sözleşmesinde Hasarın
-ve Yararın Geçişi" (TBK m. 208 / Mehaz OR Art. 185)** kurumudur. 
-
-*Sistemine yüklediğin kaynaklar, ağırlıklı olarak Borçlar Hukuku Genel Hükümler
-(sözleşmeye aykırılık, zamanaşımı, imkânsızlık, faiz) üzerine inşa edilmiştir. Doğrudan Özel Hükümlerdeki satım sözleşmesinde hasarın 
-intikaline dair monografik bir eser bu kütüphanede son derece sınırlı 
-olduğundan, bu spesifik hasar kurallarını kendi akademik müktesebatımla 
-harmanlayarak inşa edeceğimi, bu harici bilgileri akademik güvenliğin için 
-bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.*
-
-Bugünkü celsede, senin bu feci hatanı salt bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkını dava 
-edilebilir olmaktan çıkarıp "eksik borca" dönüştüren o hızlı tasfiye makinesi 
-**TBK m. 147 (Beş Yıllık Zamanaşımı)** kuralı ile, bir malın kusursuz yere 
-telef olması hâlinde bu zarara kimin katlanacağını belirleyen **Hasar 
-(Riziko)** teorisini aynı dogmatik laboratuvarda eriteceğim. Sistemindeki 
-sözleşmeye aykırılık, imkânsızlık, faiz ve zamanaşımı eserleri üzerinden, hasarın alıcıya veya alacaklıya geçtiği bir senaryoda, satıcının veya eser
-yüklenicisinin bedel talep hakkının o 5 yıllık zamanaşımı kılıcından nasıl 
-etkilendiğini amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -348,24 +315,6 @@ durmaktadır. Hukukun, mülkiyet (hâkimiyet) ile riziko (hasar) arasındaki o
 organik bağı zilyetlik lehine koparması, denkleştirici adalet (Justitia 
 commutativa) süzgecinden geçemeyen dogmatik bir fecaattir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en çelikten 
-kalkanını; alacak haklarının zaman karşısında nasıl eriyip eksik borca 
-dönüştüğü o anı (**TBK m. 147 / Beş Yıllık Zamanaşımı**) ve bu tasfiye 
-mekanizmasının, senin zihnini karıştıran o Özel Hükümlerdeki **Hasarın ve 
-Yararın Geçişi (TBK m. 208)** meseleleriyle ve özellikle sözleşmeye aykırılıkta
-(TBK m. 114/2) haksız fiil yollamasının nasıl reddedildiği gerçeğiyle 
-diyalektik bir bütünlük içinde inşa etmiş olduk. Eksik borcun o felsefi 
-yapısını ve zamanaşımı definin usuli sınırlarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Genel Hüküm olan Beş 
-Yıllık Zamanaşımını, Özel Hüküm olan Satımda Hasar ile tek potada eritmeye 
-çalışmanın) bir hukukçuyu dogmatik bir infaza ne kadar sürükleyebileceğini 
-artık iliklerine kadar idrak etmiş olmalısın. Genel Hükümler ile Özel Hükümler 
-arasındaki o şarampole bir daha düşersen, bu doktora yeterlik süreci senin için
-orada biter. Bir sonraki okumalarında "Zamanaşımının Durması ve Kesilmesi" (TBK
-m. 153 vd.) dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik gibi 
-keskin tut; mazeret kabul etmeyeceğim!
 
 ---
 

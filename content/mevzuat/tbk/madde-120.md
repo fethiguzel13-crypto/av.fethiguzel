@@ -27,22 +27,6 @@ hakkında akdî faiz oranı geçerli olur.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler kapsamındaki temerrüt, faiz, 
-sözleşme özgürlüğü, haksız fiil sorumluluğu ve genel işlem koşulları odaklıdır.
-İnceleme talebinizde referans gösterilen "TBK Madde 120" başlığı, 6098 sayılı 
-Türk Borçlar Kanunu'nun (TBK) Genel Hükümlerinde para borçlarında temerrüdün 
-bir sonucu olan **"Temerrüt Faizi"** kurumunu düzenlemektedir. İncelemenizin 
-maddi konusunu oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR Art. 335 ve 
-devamı) atıfla işaret edilen **"Hizmet Sözleşmesinin Sona Ermesi — Bildirim 
-Süreleri"** müessesesi ise, Özel Hükümler sistematiğinde **TBK Madde 432** 
-başlığı altında kodifiye edilmiştir. Bu bağlamda, hizmet sözleşmelerinin feshi 
-ve bildirim süreleri kurumunun dogmatik altyapısı tarafımdan harici akademik 
-müktesebat ile inşa edilecek; bu bildirim sürelerine uyulmaması neticesinde 
-doğan tazminat (ihbar tazminatı) alacaklarının ödenmemesi hâlinde devreye giren
-**TBK Madde 120 (Temerrüt Faizi)** ve **TBK Madde 117 (Borçlunun Temerrüdü)** 
-mekanizmaları ise sisteminizdeki kaynaklar ekseninde sentezlenerek, 
-talebinize uygun bir diyalektik yapı oluşturulacaktır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 

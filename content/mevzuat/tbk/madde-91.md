@@ -24,35 +24,6 @@ anlaşılır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 91 (Alacağın temliki — garanti borcu)" başlığı ile mehaz 
-İsviçre Borçlar Kanunu'nun 171. maddesine (**OR Art. 171**) yapılan atıf 
-arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 91. maddesi, ifa engelleri rejiminde 
-**"Alacaklının Temerrüdü - Şartları"** kuralını düzenlemektedir. İncelemenin 
-maddi özünü oluşturan, mülga 818 sayılı BK m. 169 ve mehaz OR Art. 171'de yer 
-alan **Alacağın Temlikinde Garanti Sorumluluğu (Gewährleistung bei der 
-Zession)** müessesesi, yeni 6098 sayılı TBK sistematiğinde **Madde 191** 
-başlığı altında kodifiye edilmiştir.
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiiller, sebepsiz zenginleşme, 
-muvazaa ve ifa engelleri konularına odaklandığından; **TBK m. 191 (Garanti 
-Borcu)** kurumunun spesifik dogmatik detayları (Fikret Eren, M. Kemal Oğuzman, 
-Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar ile 
-Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici akademik 
-müktesebat ile tamamlanarak analiz edilmiştir. Sisteminizdeki "İfa Yerine 
-Edimde Ayıp ve Zapta Karşı Tekeffül", "Culpa in Contrahendo Sorumluluğu", 
-"İnançlı İşlemler" ve "Muvazaanın Müeyyidesi" başlıklı makaleler ise, garanti 
-sorumluluğunun sistematik sınırlarının çizilmesinde azami ölçüde 
-kullanılmıştır.
-
-Bu metodolojik düzeltmenin ardından, maddi konunun omurgasını oluşturan temlik 
-edenin garanti borcu kurumunu, mehaz OR Art. 171 ile kurulan bağ ekseninde 
-bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -366,7 +337,6 @@ perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun tasfiye mekanizmaları ve haksız 
 fiil deryasının o karanlık arka odalarını aynı acımasız titizlikle incelemeye 
-devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

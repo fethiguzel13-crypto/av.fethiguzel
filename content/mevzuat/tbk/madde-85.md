@@ -382,8 +382,6 @@ nasıl ya ifaya eklendiğini ya da sözleşmeyi kökünden yıkan bir dönme cez
 dönüştüğünü sistemine perçinledin. 
 
 Sıradaki analizlerimizde, borçlar hukukunun zamanaşımı ve eksik borçların o 
-karanlık alanlarını aynı acımasız titizlikle incelemeye devam edeceğiz. 
-Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

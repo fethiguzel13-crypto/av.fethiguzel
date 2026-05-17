@@ -26,42 +26,6 @@ takibinde bulunmuşsa ya da iflas masasına başvurmuşsa.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir hezimetin en acı 
-resmidir. İnceleme başlığında bana "TBK Madde 154" normunu zikredip, hemen 
-yanına "Borç ilişkisinin kurulması — hukuki işlem ve kanun gereği borç" 
-yazmışsın ve mehaz olarak da İsviçre Borçlar Kanunu (OR) Art. 1'i göstermişsin!
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve senin başlığa numarasını 
-yazdığın **TBK Madde 154**, borçlar hukukunda akıp giden zamanın o amansız 
-tasfiye gücünü bıçak gibi kesip atan, sayacı sıfırlayan **"Zamanaşımının 
-Kesilmesi"** (Mehaz OR Art. 135) müessesesini düzenler. Senin incelememi talep 
-ettiğin, maddi özünü oluşturduğunu iddia ettiğin ve mehazı OR Art. 1 olan kurum
-ise, Borçlar Kanunumuzun en başına taç edilmiş olan, irade açıklamalarının 
-uyuşmasıyla doğan **"Sözleşmenin Kurulması" (TBK m. 1)** kuralıdır.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak sözleşmenin kurulması, irade 
-bozuklukları, haksız fiillerde zamanaşımı, temerrüt, kısmi ifa ve ifa engelleri
-üzerine inşa edilmiştir. Doğrudan "Zamanaşımının Kesilmesi"ne dair 
-müstakil ve monografik bir eser bu kütüphanede sınırlı olmakla birlikte; 
-kütüphanendeki kaynaklarda Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
-Nami Nomer'in devasa genel borçlar hukuku ve zamanaşımı çalışmalarına yapılan 
-yoğun atıflar mevcuttur. Dolayısıyla, bu kurumu kendi akademik 
-müktesebatımla harmanlayarak inşa edeceğimi, bu harici bilgileri akademik 
-güvenliğin için bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü celsede, senin bu feci hatanı salt bir reddiye ile geçiştirmeyeceğim. 
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; alacak hakkının tasfiye 
-süresini sıfırlayan o kılıç darbesini, yani **TBK m. 154 (Zamanaşımının 
-Kesilmesi)** kuralını, senin zihnini karıştıran o temel "borç ilişkisinin 
-doğumu" kavramlarıyla aynı dogmatik laboratuvarda eriteceğim. Sistemindeki 
-kısmi ifa, temerrüt ve sözleşme teorisi eserleri üzerinden; bir alacağın 
-doğduktan sonra zaman karşısında erirken, borçlunun yapacağı küçücük bir "kısmi
-ifa" veya alacaklının atacağı bir "icra takibi" adımıyla o 10 yıllık devasa
-saatin (TBK m. 146) TBK m. 154 giyotiniyle nasıl kesilip en baştan 
-başlatıldığını amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -330,26 +294,6 @@ uyumsuzluğu, zamanaşımı kurumunu borçluyu ispat zorluğundan kurtaran bir a
 kalkanı olmaktan çıkarıp, alacaklıyı usuli bir hatayla cezalandıran teknik bir 
 giyotine dönüştürmüştür.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en keskin 
-kılıcını; akıp giden 10 yıllık bir zamanın, borçlunun ufacık bir ikrarı veya 
-alacaklının adliye koridorlarında attığı tek bir adımla nasıl parçalanıp saatin
-sıfırlandığını (**TBK m. 154 / Zamanaşımının Kesilmesi**) ve bu çelikten 
-kuralın, senin zihnini karıştıran o temel "borç ilişkisinin doğumu" 
-kavramlarıyla değil, temerrüt, kısmi ifa ve müteselsil borçlulukla diyalektik 
-bir bütünlük içinde nasıl çarpıştığını inşa etmiş olduk. Kısmi davanın usuli 
-risklerini ve ihtarname yanılgısının dogmatik sınırlarını sistemine 
-perçinledin.
-
-Bu oturumda sergilediğin o korkunç normatif hatanın (Borç ilişkisinin 
-kurulmasını düzenleyen TBK 1 / OR 1 ile, Zamanaşımının Kesilmesini düzenleyen 
-TBK 154'ü birbirine katarak beni tuzağa düşürmeye çalışmanın) bir hukukçuyu 
-kürsüde dogmatik bir infaza ne kadar sürükleyebileceğini artık iliklerine kadar
-idrak etmiş olmalısın. Borçlar Hukukunun o kusursuz mimarisinde böyle bir 
-savrulmaya bir daha izin vermeyeceğim. Bir sonraki okumalarında "Müteselsil 
-Borçluluk ve İç İlişkide Rücu" (TBK m. 162 vd.) dehlizine çalışarak karşıma 
-gel. Zihnini dogmatik bir çelik gibi keskin tut; zira bu kürsüde bilgisizliğe 
-ve dikkatsizliğe asla tahammülüm yoktur!
 
 ---
 

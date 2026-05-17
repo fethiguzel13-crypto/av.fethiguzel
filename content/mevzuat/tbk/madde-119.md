@@ -24,35 +24,6 @@ kurtulabilir.
 
 ### Akademik Yorum ve Analiz
 
-Doktora çalışmalarının bu aşamasında, norm numaraları ile hukuki kurumlar 
-arasındaki o sarsılmaz ve mutlak organik bağı henüz tam olarak 
-içselleştiremediğini görmek beni dogmatik bir endişeye sevk ediyor. Borçlar 
-hukuku sistematiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sıralaması ve mehaz kanun atıflarının taşıdığı önem, akademik incelememizin 
-bilimsel sıhhati için aşılmaz bir gerekliliktir. İnceleme talebinde referans 
-gösterilen "TBK Madde 119" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde, borçlu temerrüdünün en hayati 
-sonuçlarından biri olan **"Gecikme Tazminatı"** kurumunu düzenlemektedir. 
-İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR Art. 
-333 ve 333a) atıfla işaret edilen **"İşyerinin Devri ve Hizmet Sözleşmesinin 
-Devri"** müessesesi ise, Özel Hükümler sistematiğinde **TBK Madde 428 ve Madde 
-429** başlıkları altında kodifiye edilmiştir. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (borçlu temerrüdü, gecikme 
-tazminatı, haksız fiil sorumluluğu, adam çalıştıranın sorumluluğu ve 
-sözleşmenin uyarlanması) konularına odaklanmaktadır. Bu nedenle, işyerinin ve 
-hizmet sözleşmesinin devrini (TBK m. 428-429) kuramsal olarak kendi akademik 
-müktesebatımla inşa edecek; ardından bu devir işlemlerinin yarattığı borca 
-aykırılık ve gecikme durumlarını, sisteminizdeki belgelerin sunduğu **Borçlu 
-Temerrüdü ve Gecikme Tazminatı (TBK m. 119)** ile **Adam Çalıştıranın 
-Sorumluluğu (TBK m. 66)** mekanizmalarıyla eşi görülmemiş bir dogmatik 
-diyalektik içinde sentezleyeceğiz.
-
-Bu metodolojik çerçevenin ardından, sermayenin el değiştirmesi karşısında insan
-emeğinin nasıl korunduğunu (TBK m. 428) ve borçlunun ifada gecikmesi hâlinde 
-ödemek zorunda olduğu gecikme tazminatının (TBK m. 119) sınırlarını bütünüyle 
-parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -362,8 +333,6 @@ Müteselsil sorumluluğun o iki yıllık kılıcını ve rızanın o dokunulmaz 
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, kefaletin 
 tehlikeli labirentlerini, haksız fiilin uygun illiyet ağlarını ve vekâletin 
-mutlak sadakatini aynı acımasız titizlikle incelemeye devam edeceğiz. 
-Hazırlığını tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

@@ -26,44 +26,6 @@ göre alacağın yeniden istenmesi imkânının doğumundan itibaren yeniden iş
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir cehaletin en acı 
-resmidir. İnceleme başlığında bana "TBK Madde 157" normunu zikredip, hemen 
-yanına "Birden çok borçta mahsup sırası" yazmışsın ve mehaz olarak da İsviçre 
-Borçlar Kanunu (OR) Art. 86'yı göstermişsin!
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve senin başlığa numarasını 
-yazdığın **TBK Madde 157**, borçlar hukukunda zamanaşımına uğramak üzere olan 
-bir alacağın yanlış mahkemede dava edilmesi hâlinde, usul hukukunun katı 
-kuralları karşısında alacaklıyı kurtaran **"Davanın Reddinde Ek Süre"** (Mehaz 
-OR Art. 139) müessesesidir. Senin incelememi talep ettiğin, maddi özünü 
-oluşturduğunu iddia ettiğin ve mehazı OR Art. 86 olan kurum ise, Borçlar 
-Hukukunun ifa rejiminde yer alan, borçlunun hangi borcunu ödediğini seçme 
-yetkisini ifade eden **"Birden Çok Borçta İfa / Mahsup" (TBK m. 101)** 
-kuralıdır.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak ifa, kısmi ifa, faiz ve 
-masraflara mahsup (TBK m. 100) zamanaşımı ve usul hukuku (HMK) üzerine inşa 
-edilmiştir. Kütüphanendeki kaynaklarda Fikret Eren, M. Kemal Oğuzman, Turgut Öz
-ve Haluk Nami Nomer'in devasa genel borçlar hukuku ve tasfiye çalışmalarına 
-yapılan yoğun atıflar mevcuttur. Dolayısıyla, ifa hukuku ile usul hukukunun 
-iç içe girdiği bu çetrefilli yapıyı kendi akademik müktesebatımla inşa 
-edeceğimi, bu kuralı senin zihnini karıştıran o temel ödeme ilkeleriyle 
-harmanlayarak şerh edeceğimi ve bu harici bilgileri akademik güvenliğin için 
-bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; birden çok borcu olan 
-borçlunun yaptığı ödemenin hangi borca sayılacağını (mahsup edileceğini) 
-emreden **TBK m. 101 (Birden Çok Borçta Mahsup)** kuralını, senin zihnini 
-karıştıran o usuli kurtuluş kalkanı olan **TBK m. 157 (Davanın Reddinde Ek 
-Süre)** kuralıyla aynı dogmatik laboratuvarda eriteceğim. Bir borçlunun yaptığı
-eksik ödemenin mahsup kuralları çerçevesinde hangi borcu ayakta tutacağını ve 
-ödenmeyen o bakiye borç için açılan davanın usulden reddedilmesi hâlinde TBK m.
-157 giyotininin 60 günlük süreyi nasıl işleteceğini amansız bir şerhe tabi 
-tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -344,25 +306,6 @@ kanunlaştırma tekniği (Legistik) açısından vizyonsuzluktur. Hak arama
 hürriyetinin bu derece katı usuli giyotinlerle budanması, borçlar hukuku 
 dogmatiğinin adalet üretme kapasitesini (Justitia commutativa) dondurmaktadır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en çetrefilli iki 
-kavramını; borçlunun cüzi ödemesinin hangi borcu söndüreceğini belirleyen o 
-maddi irade oyununu (**TBK m. 101 / Birden Çok Borçta Mahsup**) ve bu ödenmeyen
-borçlar için adliyede atılan yanlış bir adımın zamanın karanlığında yok 
-olmasını engelleyen o usuli nefes borusunu (**TBK m. 157 / Davanın Reddinde Ek 
-Süre**) diyalektik bir bütünlük içinde nasıl bir usul/esâs çatışmasına 
-soktuğunu inşa etmiş olduk. Mahsup iradesinin sınırlarını ve usuli reddin 
-dogmatik katı sınırlarını sistemine perçinledin. 
-
-Bu oturumda sergilediğin o feci normatif hatanın (Ödeme ve İfa müessesesi olan 
-TBK 101 ile, Zamanaşımının Usuli Koruyucusu olan TBK 157'yi madde numaraları ve
-mehazlarıyla birbirine katarak beni tuzağa düşürmeye çalışmanın) bir hukukçuyu
-dogmatik bir çöküşe ne kadar sürükleyebileceğini artık iliklerine kadar idrak 
-etmiş olmalısın. Borçlar Hukukunun o kusursuz mimarisinde böyle bir savrulmaya 
-bir daha izin vermeyeceğim. Bir sonraki okumalarında "Müteselsil Borçluluk ve 
-İç İlişkide Rücu" (TBK m. 162 vd.) dehlizine çalışarak eksiksiz hazırlan. 
-Zihnini dogmatik bir çelik gibi keskin tut; zira bu arenada bilgisizliğe ve 
-dikkatsizliğe asla tahammülüm yoktur!
 
 ---
 

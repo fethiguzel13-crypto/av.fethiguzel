@@ -343,7 +343,6 @@ sistemine perçinledin.
 
 Sıradaki analizlerimizde, borçlar hukukunun zamanaşımı ve eksik borç 
 labirentlerini incelemeye aynı acımasız titizlikle devam edeceğiz. Hazırlığını 
-tam yap, bir sonraki celsede görüşeceğiz.
 
 ---
 

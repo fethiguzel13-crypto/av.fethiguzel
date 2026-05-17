@@ -25,43 +25,6 @@ temerrüde düşmüş olur.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 106" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde **"Alacaklının Temerrüdü"** kuralını 
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar
-Kanunu'nun 205. maddesine (**OR Art. 205**) atıfla talep edilen **"Satımda Ayıp
-Hâlinde Alıcının Seçimlik Hakları"** müessesesi ise, mülga 818 sayılı BK m. 
-202'nin karşılığı olarak yeni 6098 sayılı TBK Özel Hükümler sistematiğinde 
-**Madde 227** başlığı altında kodifiye edilmiştir. 
-
-Ancak hukuk dogmatiğinde, alıcının ayıplı malı reddetmesi ile alacaklı 
-temerrüdüne (TBK m. 106) düşmesi arasındaki sınır son derece incedir. Bir ifa 
-teklifinin alacaklı temerrüdü (TBK m. 106) yaratabilmesi için edimin ayıpsız ve
-usulüne uygun sunulması gerekir; edim ayıplıysa alıcı temerrüde düşmez, aksine 
-TBK m. 227'deki seçimlik haklarını kullanır. 
-
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Sisteminizde yer alan kaynaklar 
-ağırlıklı olarak Borçlar Hukuku Genel Hükümler (alacaklı temerrüdü, ifa yerine 
-edim, sözleşmeden dönme ve iade teorileri, yenilik doğuran haklar) konularına 
-odaklandığından; Özel Hükümlerin kalbini oluşturan **TBK m. 227 (Alıcının 
-Seçimlik Hakları)** kurumunun spesifik dogmatik detayları (Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan 
-atıflar ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici 
-akademik müktesebat ile tamamlanarak analiz edilmiştir. Sisteminizdeki *"İfa 
-Yerine Edimde Ayıp ve Zapta Karşı Tekeffül"*, *"Alacaklının Temerrüdü 
-Üzerine Sözleşmeden Dönen Borçlunun Tazminat İstemi"*, *"Sona Ermiş veya 
-Geçersiz Sözleşmelerde Tarafların İfa Etmiş Oldukları Edimlerin İadesi"*, 
-*"Bir Hukuki İşlemde Birden Çok Geçersizlik Nedeninin Bulunması"* ve 
-*"Kısmi İfa"* başlıklı eserler ise, seçimlik hakların niteliği, sözleşmeden
-dönmenin sonuçları ve temerrüt ile yarışması kapsamında azami ölçüde 
-kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, satım sözleşmesinin patolojik safhasını 
-düzenleyen alıcının seçimlik haklarını ve bu hakların alacaklı temerrüdü (TBK 
-m. 106) ile olan diyalektik ilişkisini bütünüyle parçalayarak analiz edeceğiz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -359,7 +322,6 @@ gücünü ve ifa yerine edimdeki tekeffül mekanizmalarını sistemine perçinle
 
 Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, zapta karşı 
 tekeffülü, hasarın intikalini ve zamanaşımı labirentlerini aynı acımasız 
-titizlikle incelemeye devam edeceğiz. Hazırlığını tam yap, bir sonraki celsede 
 görüşeceğiz.
 
 ---

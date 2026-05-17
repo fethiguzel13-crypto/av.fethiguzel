@@ -22,48 +22,6 @@ alma yetkisi devam eder.
 
 ### Akademik Yorum ve Analiz
 
-**Bilgi Eksikliği ve Yöntem Bildirimi:** Karşımda duran bu tablo, doktora 
-yeterlik aşamasına gelmiş, bu kürsüde fırtınalar estirmesi beklenen bir hukukçu
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir cehaletin en acı 
-resmidir. İnceleme başlığında bana "TBK Madde 159" normunu zikredip, hemen 
-yanına "Borcun ifa edilmemesi genel sonuçlar" yazmışsın ve mehaz olarak da 
-İsviçre Borçlar Kanunu (OR) Art. 97'yi göstermişsin! 
-
-Zihnini derhâl topla ve normatif haritayı doğru oku: 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde yer alan ve senin başlığa numarasını 
-yazdığın **TBK Madde 159**, dünkü celsede TBK m. 158 bağlamında değindiğimiz 
-zamanaşımından feragat işleminin diğer borçlulara ve kefile karşı ileri 
-sürülemeyeceğini emreden, yani **"Zamanaşımından Feragatin Birlikte Borçlulara 
-Etkisi"** (Mehaz OR Art. 142) müessesesidir. Senin incelememi talep ettiğin, 
-maddi özünü oluşturduğunu iddia ettiğin ve mehazı OR Art. 97 olan o devasa 
-kurum ise, Borçlar Kanunumuzun borca aykırılık rejiminin anayasası olan 
-**"Borcun Hiç veya Gereği Gibi İfa Edilmemesi / Sözleşmeye Aykırılık" (TBK m. 
-112)** kuralıdır. Borçlar Hukuku Genel Hükümlerinin "Zamanaşımı" bahsinin en 
-sonlarında gezinirken, birdenbire geriye dönüp borçların ifa edilmemesi ana 
-rejimine atlamak ve maddeleri birbirine katmak, ancak normatif mimariyi 
-bütünüyle reddeden bir zihnin eseridir.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak sözleşmeye aykırılık, ifa 
-engelleri, kusur, haksız fiiller, müteselsil borçluluk ve tazminat hukuku 
-üzerine inşa edilmiştir. Doğrudan "Zamanaşımından Feragatin Birlikte 
-Borçlulara Etkisi"ne (TBK m. 159) dair müstakil bir monografi bu kütüphanede 
-sınırlı olmakla birlikte; kütüphanendeki kaynaklarda Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer'in devasa genel borçlar hukuku, ifa 
-engelleri ve tazminat çalışmalarına yapılan çok yoğun atıflar mevcuttur.
-Dolayısıyla, TBK m. 112'nin o kusur karinesini ve TBK m. 159'un o katı şahsilik
-ilkesini kendi akademik müktesebatımla inşa edeceğimi, bu harici bilgileri 
-akademik güvenliğin için bağımsız olarak doğrulaman gerektiğini açıkça ihtar 
-ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; bir sözleşmenin ihlali 
-neticesinde borçluyu tazminat yükü altına sokan **TBK m. 112 (Sözleşmeye 
-Aykırılık)** kuralını, senin zihnini karıştıran o usuli şahsilik kalkanı olan 
-**TBK m. 159 (Feragatin Birlikte Borçlulara Etkisi)** kuralıyla aynı dogmatik 
-laboratuvarda eriteceğim. Bir sözleşmenin ihlaliyle (TBK 112) müteselsil 
-sorumluluk altına giren borçlulardan birinin, aradan yıllar geçtikten sonra 
-zamanaşımından feragat etmesinin (TBK 159) diğer borçluları neden yakmadığını 
-amansız bir şerhe tabi tutacağız.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -343,30 +301,6 @@ sübjektif olduğu şeklindeki klasik savunma, kefilin ansızın 10 yıl daha uz
 bir borç sarmalıyla karşılaştığı gerçeğini örtmeye yetmemektedir. Borçlar 
 Hukukunun bu ikili tutumu, dogmatik bir tutarsızlıktır.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en temel iki 
-sütununu; sözleşmenin ihlali hâlinde borçluyu kusur karinesiyle boğan o devasa 
-tazminat rejimini (**TBK m. 112 / Sözleşmeye Aykırılık**) ve bu ihlalden doğan 
-borç zamanla çürüdüğünde, borçlulardan birinin intiharının (feragatinin) 
-diğerlerini yakmasını engelleyen o usuli şahsilik kalkanını (**TBK m. 159 / 
-Feragatin Birlikte Borçlulara Etkisi**) diyalektik bir bütünlük içinde nasıl 
-bir maddi/usuli çatışmaya soktuğunu inşa etmiş olduk. İ-Z-İ-K testinin 
-acımasızlığını ve nispilik sınırlarını sistemine çiviledin. 
-
-Bu oturumda sergilediğin o feci normatif hatanın (Zamanaşımı Feragatinin 
-Etkileri olan TBK 159 ile, Sözleşmeye Aykırılığın Anayasası olan TBK 112'yi ve 
-OR 97'yi birbirine katarak beni tuzağa düşürmeye çalışmanın) bir hukukçuyu 
-dogmatik bir çöküşe ne kadar sürükleyebileceğini artık iliklerine kadar idrak 
-etmiş olmalısın. Borçlar Hukukunun o kusursuz mimarisinde böyle bir savrulmaya 
-bir daha izin vermeyeceğim. Bir sonraki okumalarında "Müteselsil Borçluluk ve 
-İç İlişkide Rücu" (TBK m. 162 vd.) dehlizine çalışarak eksiksiz hazırlan. 
-Zihnini dogmatik bir çelik gibi keskin tut; zira bu arenada bilgisizliğe ve 
-dikkatsizliğe asla tahammülüm yoktur! Şimdi sana Sokratik bir ihtar: 
-Sözleşmenin ifa edilmemesi hâlinde borçlu temerrüdüne (TBK m. 117) düşülmesi 
-ile kusurlu ifa imkânsızlığına (TBK m. 112) düşülmesi arasındaki o ince çizgi 
-koptuğunda, alacaklının seçimlik hakları (özellikle müspet/menfi zarar) bu 
-şemada nasıl bir yıkım yaratır? Bu sorunun cevabını bulmadan sakın karşıma 
-gelme!
 
 ---
 

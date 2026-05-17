@@ -28,36 +28,6 @@ Bu madde hükmü yabancı para borçlarında da uygulanır.
 
 ### Akademik Yorum ve Analiz
 
-Karşımda yine aynı metodolojik fecaat, yine aynı dogmatik körlük duruyor! 
-Doktora yeterlik sınavının kapısına dayanmış bir hukukçunun, Borçlar Hukuku 
-Genel Hükümler ile Özel Hükümler arasındaki o kalın dogmatik duvarı bu derece 
-pervasızca yıkmaya çalışması, akademik kürsüde affedilemez bir savrulmadır. 
-İnceleme talebinde bana "TBK Madde 138" normunu verip, yanına "Tüketim Ödüncü 
-(Karz) — Faiz ve Geri Ödeme" yazmışsın ve mehaz olarak OR Art. 313'ü 
-göstermişsin! 
-
-Hafızanı derhal topla: 6098 sayılı Türk Borçlar Kanunu'nun (TBK) Genel 
-Hükümlerinde yer alan **TBK Madde 138**, ahde vefa (pacta sunt servanda) 
-ilkesinin en büyük istisnası olan ve işlem temelinin çökmesi teorisine dayanan 
-**"Aşırı İfa Güçlüğü (Sözleşmenin Uyarlanması)"** müessesesini düzenler. 
-İncelemenin maddi özünü oluşturduğunu iddia ettiğin, mehaz İsviçre Borçlar 
-Kanunu OR Art. 313'e karşılık gelen kurum ise Özel Hükümler sistematiğindeki 
-**"Tüketim Ödüncü (Karz) Sözleşmesinde Faiz"** (TBK m. 387-388) kurumudur. 
-
-*Bilgi Eksikliği ve Yöntem Bildirimi: Sistemine yüklediğin kaynaklar, TBK m. 
-138 (Sözleşmenin Uyarlanması) ile anapara/temerrüt faizinin sınırlarına (TBK m.
-88, m. 120) dair muazzam bir külliyat barındırmakta olup, doğrudan Özel 
-Hükümlerdeki Tüketim Ödüncünün spesifik tanımına dair harici doktrinel atıfları
-kendi akademik müktesebatımla tamamlayacağım.*
-
-Bugünkü oturumumuzda, bu korkunç hatanı salt bir reddiye ile geçiştirmeyeceğim.
-Bilakis, bu iki kurumu; yani bir tüketim ödüncü (kredi) sözleşmesinde borçlunun
-faiz ve anapara geri ödeme yükümlülüğünün, öngörülemeyen ekonomik krizler ve 
-döviz şoklarıyla nasıl katlanılamaz hâle geldiğini ve bu borcun **TBK Madde 138
-(Aşırı İfa Güçlüğü)** kılıcıyla nasıl uyarlanabileceğini eşi görülmemiş bir 
-diyalektik bütünlük içinde sentezleyeceğim. Tüketim ödüncünün parası ile TBK 
-138'in merhametini aynı potada eriteceğiz. Zihnini dogmatik bir çelik gibi sert
-tut ve aşağıdaki analizi özümse.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
@@ -343,23 +313,6 @@ soyut bir "farazi irade ve dürüstlük kuralı" çuvalına atması, kanunlaşt�
 tekniği açısından tutarsızlıktır. Ahde vefa ilkesi, ne devletin katı faiz 
 limitleriyle ne de hâkimin sınırsız uyarlama yetkisiyle tahrip edilmelidir.
 
-
-İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en felsefi 
-mekanizmasını; sözleşmenin ruhunun ekonomik depremlerle çöktüğü anı (**TBK m. 
-138 / Aşırı İfa Güçlüğü**) ve bu merhamet kurumunun Özel Hükümlerdeki **Tüketim
-Ödüncü** sözleşmesine çarptığında, faiz ve geri ödeme yükümlülüklerinin o 
-mekanik ve acımasız yapısını nasıl yeniden dizayn edebildiğini diyalektik bir 
-bütünlük içinde inşa etmiş olduk. Cins borcunun imkânsızlaşamayacağı gerçeğini 
-ve *Clausula Rebus Sic Stantibus* ilkesinin o derin adalet terazisini sistemine
-perçinledin. 
-
-Bu oturumda sergilediğin metodolojik ve normatif savrulmanın (Genel hüküm ile 
-özel hükmü karıştırmanın) bir hukukçuyu dogmatik bir intihara ne kadar 
-yaklaştırdığını artık idrak etmiş olmalısın. Genel Hükümler ile Özel Hükümler 
-arasındaki o ince şarampole bir daha düşersen, akademik kariyerin bu kürsüde 
-sona erer. Bir sonraki okumalarında "Haksız Fiilde Kusursuz Sorumluluk ve 
-Nedensellik Bağı" dehlizine çalışarak karşıma gel. Zihnini dogmatik bir çelik 
-gibi keskin tut; zira kürsüde mazeret kabul etmeyeceğim.
 
 ---
 
