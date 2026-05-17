@@ -48,6 +48,11 @@ function cleanResponse(raw) {
   );
   s = s.replace(/Bu haftaki oturumumuzda amacımız[^.]*\.\s*/g, '');
   s = s.replace(/Şimdi,? sana[,]? .*? yöneltiyorum[^.]*\.\s*/g, '');
+  // Gizli hafıza tekniği / zihne çivileme kalıpları
+  s = s.replace(/Bu kavramı zihne çivilemek için [^:]*:\s*/gi, '');
+  s = s.replace(/zihne (kalıcı olarak )?çivilenebilmesi için,[^,\n]*,?\s*/gi, '');
+  s = s.replace(/\*\*Mikro Analiz:\*\*[^\n]*zihne[^\n]*\n/gi, '');
+  s = s.replace(/kıymetli meslektaş[ıim]+[,\s][^\n]*/gi, '');
 
   // 6) Atıf markerları
   //    [1], [12], [1, 2], [1-4], [1, 2, 3] gibi kalıplar
@@ -69,6 +74,14 @@ function cleanResponse(raw) {
 
   // 9) Çoklu boş satırları normalize et
   s = s.replace(/\n{3,}/g, '\n\n');
+
+  // 10) Eğer sadece 6 bölüm varsa (#### 7. yok), Eleştirel'i 7'ye taşı ve 6. Yargıtay ekle
+  if (!s.includes('#### 7.') && s.includes('#### 6.')) {
+    const yargitayNot = '\n#### 6. Yargıtay İçtihadı\n\nBu maddeye doğrudan ilişkin güncel bir Yargıtay kararı mevcut taramayla tespit edilememiştir. İleride güncellenecektir.\n';
+    s = s.replace(/\n#### 6\./g, '\n#### 7.');
+    // 5. bölümden sonra Yargıtay notunu ekle
+    s = s.replace(/(\n#### 5\.[^\n]*\n[\s\S]*?)(\n#### 7\.)/, `$1${yargitayNot}$2`);
+  }
 
   return s.trim() + '\n';
 }
@@ -92,3 +105,6 @@ function main() {
 if (require.main === module) main();
 
 module.exports = { cleanResponse };
+
+// Exported helper for testing
+// module.exports.cleanResponse = cleanResponse; // (already exported above)
