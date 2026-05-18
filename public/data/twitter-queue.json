@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-16T10:49:05.940Z",
-  "dateLabel": "16 Mayıs 2026",
+  "generatedAt": "2026-05-18T16:55:16.439Z",
+  "dateLabel": "18 Mayıs 2026",
   "tweets": [
     {
-      "id": "2026-05-16-1",
+      "id": "2026-05-18-1",
       "highlightId": "aym-2022-41459",
-      "text": "AYM: Cezaevinde disiplin cezası alan biri, mahkemeye şikâyet ederken savunma yapma şansı az verildiği için adil yargılanmadığını söylüyor.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-16T06:00:00.000Z",
+      "text": "AYM: Hapishanede verilen ceza için şikayet ederken, mahkûm kendisini savunmak için gerekli bilgi ve fırsat almamış, bu yüzden hapishane yönetimi ile eşit şartlarda yarışamamış olduğu iddia ediliyor.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-18T06:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-16-2",
+      "id": "2026-05-18-2",
       "highlightId": "aym-2021-60219",
-      "text": "AYM: Bir kişi polis tarafından gözaltında dövüldüğünü söyleyerek Anayasa Mahkemesi'ne başvurmuş ve mahkeme bu şikayeti incelemiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-16T10:00:00.000Z",
+      "text": "AYM: Bir kişi polis tarafından gözaltına alındığı sırada dövüldüğünü veya işkence gördüğünü söyleyerek Anayasa Mahkemesi'ne başvurmuş ve mahkeme bu kişinin haklarının ihlal edilip edilmedi\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-18T10:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-16-3",
+      "id": "2026-05-18-3",
       "highlightId": "aym-2020-35930",
-      "text": "AYM: Bir kamu çalışanı sendikasının grev kararına uyup işe gitmeyince disiplin cezası aldı ve bunun sendika özgürlüğünü ihlal ettiğini Anayasa Mahkemesi'ne şikâyet etti.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-16T14:00:00.000Z",
+      "text": "AYM: Bir kamu çalışanı sendikasının kararı üzerine nöbetine gitmediği için disiplin cezası aldı ve bunun sendika hakkını ihlal ettiğini Anayasa Mahkemesi'ne şikayet etti.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-18T14:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-16-4",
+      "id": "2026-05-18-4",
       "highlightId": "aym-2023-108631",
-      "text": "AYM: Mahkeme, birinin terör örgütüne üye olduğu için verilen ceza kararını gerekçelendirirken önemli savunmaları cevaplamadığında ve bundan dolayı insan kişi adil yargılanma hakkından mahrum kaldığında Anay\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-16T17:00:00.000Z",
+      "text": "AYM: Birine terör örgütü üyesi olduğu için verilen cezada, mahkemenin önemli savunma nedenlerine cevap vermemesi ve kararını yeterince açıklamaması durumunda, kişinin anayasal hakları ihlal edilmiş olabilir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-18T17:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     }
   ]
 }
