@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-19T17:02:01.282Z",
-  "dateLabel": "19 Mayıs 2026",
+  "generatedAt": "2026-05-20T17:48:16.160Z",
+  "dateLabel": "20 Mayıs 2026",
   "tweets": [
     {
-      "id": "2026-05-19-1",
+      "id": "2026-05-20-1",
+      "highlightId": "aym-2022-7389",
+      "text": "AYM: Bir kişi polis tarafından gözaltında dövülüp hakaret edildiğini söyleyerek Anayasa Mahkemesi'ne başvurmuş ve mahkeme bu şiddete maruz kalmanın insan haklarını ihlal ettiğine karar vermiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-20T06:00:00.000Z",
+      "posted": false,
+      "postedAt": null,
+      "tweetId": null,
+      "error": null
+    },
+    {
+      "id": "2026-05-20-2",
+      "highlightId": "aym-2020-32715",
+      "text": "AYM: Bir kişi işkence görebileceği ülkeye gönderilmekten ve haksız gözaltıda tutulmaktan korunma hakkının ihlal edildiğini, ayrıca sınır dışı edilme davasında adaletli yargılanmadığını Anay\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-20T10:00:00.000Z",
+      "posted": false,
+      "postedAt": null,
+      "tweetId": null,
+      "error": null
+    },
+    {
+      "id": "2026-05-20-3",
       "highlightId": "aym-2022-41459",
-      "text": "AYM: Başvuru, ceza infaz kurumu tarafından verilen disiplin cezasına karşı yapılan şikâyette usule ilişkin imkânlar bakımından zayıf duruma düşürülme neden\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-19T06:00:00.000Z",
+      "text": "AYM: Cezaevinde verilen disiplin cezasına karşı şikâyet ederken, mahkemede kendi savunmasını yapamadığı için haksız duruma düşürüldüğünü iddia ediyor.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-20T14:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-19-2",
+      "id": "2026-05-20-4",
       "highlightId": "aym-2021-60219",
-      "text": "AYM: Başvuru, gözaltında fiziksel şiddete maruz kalınması nedeniyle kötü muamele yasağının ihlal edildiği iddiasına ilişkindir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-19T10:00:00.000Z",
+      "text": "AYM: Birisi gözaltında iken polis tarafından dövüldüğünü veya fiziksel şiddete maruz kaldığını iddia ederek Anayasa Mahkemesi'ne başvurmuş ve mahkeme bu şikayeti incelemiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-20T17:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
-    },
-    {
-      "id": "2026-05-19-3",
-      "highlightId": "aym-2020-35930",
-      "text": "AYM: Başvuru, üyesi olduğu sendikanın aldığı karar üzerine nöbet görevini yerine getirmeyen kamu görevlisinin disiplin cezası ile cezalandırılması nedeniyl\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-19T14:00:00.000Z",
-      "posted": false,
-      "postedAt": null,
-      "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
-    },
-    {
-      "id": "2026-05-19-4",
-      "highlightId": "aym-2023-108631",
-      "text": "AYM: Birisi terör örgütüne üye olmaktan mahkûm edildiğinde, mahkeme kararında önemli savunmaları cevaplamayıp gerekçe göstermezse, bu kişinin anayasal hakları ihlal edilmiş olabilir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-19T17:00:00.000Z",
-      "posted": false,
-      "postedAt": null,
-      "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     }
   ]
 }
