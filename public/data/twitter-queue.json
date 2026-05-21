@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-20T17:48:16.160Z",
-  "dateLabel": "20 Mayıs 2026",
+  "generatedAt": "2026-05-21T16:36:44.870Z",
+  "dateLabel": "21 Mayıs 2026",
   "tweets": [
     {
-      "id": "2026-05-20-1",
-      "highlightId": "aym-2022-7389",
-      "text": "AYM: Bir kişi polis tarafından gözaltında dövülüp hakaret edildiğini söyleyerek Anayasa Mahkemesi'ne başvurmuş ve mahkeme bu şiddete maruz kalmanın insan haklarını ihlal ettiğine karar vermiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-20T06:00:00.000Z",
+      "id": "2026-05-21-1",
+      "highlightId": "aym-2024-28913",
+      "text": "AYM: Başvuru, devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen Fetullahçı Terör Örgütü ve/veya Paralel Devlet Yapılanması ile irtibatl\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-21T06:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-20-2",
-      "highlightId": "aym-2020-32715",
-      "text": "AYM: Bir kişi işkence görebileceği ülkeye gönderilmekten ve haksız gözaltıda tutulmaktan korunma hakkının ihlal edildiğini, ayrıca sınır dışı edilme davasında adaletli yargılanmadığını Anay\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-20T10:00:00.000Z",
+      "id": "2026-05-21-2",
+      "highlightId": "aym-2023-68802",
+      "text": "AYM: Başvuru, Avrupa İnsan Hakları Mahkemesi tarafından verilen ihlal kararı sonrası yargılamanın yenilenmesi talebinin reddedilerek infazın devamına karar\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-21T10:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-20-3",
-      "highlightId": "aym-2022-41459",
-      "text": "AYM: Cezaevinde verilen disiplin cezasına karşı şikâyet ederken, mahkemede kendi savunmasını yapamadığı için haksız duruma düşürüldüğünü iddia ediyor.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-20T14:00:00.000Z",
+      "id": "2026-05-21-3",
+      "highlightId": "aym-2021-61490",
+      "text": "AYM: Bir işçi, aldığı maaşla ilgili dava açtıktan sonra talep ettiği parayı artırmak istemiş, ancak mahkeme bu değişiklik dilekçesini kabul etmeyerek işçinin adalete erişim hakkını ihlal ettiği\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-21T14:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-20-4",
-      "highlightId": "aym-2021-60219",
-      "text": "AYM: Birisi gözaltında iken polis tarafından dövüldüğünü veya fiziksel şiddete maruz kaldığını iddia ederek Anayasa Mahkemesi'ne başvurmuş ve mahkeme bu şikayeti incelemiştir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-20T17:00:00.000Z",
+      "id": "2026-05-21-4",
+      "highlightId": "aym-2021-57966",
+      "text": "AYM: Başvuru, ön alım (şufa) davasının hak düşürücü süreden reddine karar verilmesi nedeniyle mahkemeye erişim hakkının ihlal edildiği iddiasına ilişkindir\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-21T17:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     }
   ]
 }
