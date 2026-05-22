@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-21T16:36:44.870Z",
-  "dateLabel": "21 Mayıs 2026",
+  "generatedAt": "2026-05-22T16:03:24.412Z",
+  "dateLabel": "22 Mayıs 2026",
   "tweets": [
     {
-      "id": "2026-05-21-1",
+      "id": "2026-05-22-1",
       "highlightId": "aym-2024-28913",
-      "text": "AYM: Başvuru, devletin millî güvenliğine karşı faaliyette bulunduğuna karar verilen Fetullahçı Terör Örgütü ve/veya Paralel Devlet Yapılanması ile irtibatl\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-21T06:00:00.000Z",
+      "text": "AYM: Devlet, bir kişiyi terör örgütü ile bağlantılı olduğu gerekçesiyle işinden çıkardı ve bu kişi, mahkeme kararı olmadan hakkında böyle bir karar verilmesinin ve özel hayatına saygı gösterilmemes\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-22T06:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-21-2",
+      "id": "2026-05-22-2",
       "highlightId": "aym-2023-68802",
-      "text": "AYM: Başvuru, Avrupa İnsan Hakları Mahkemesi tarafından verilen ihlal kararı sonrası yargılamanın yenilenmesi talebinin reddedilerek infazın devamına karar\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-21T10:00:00.000Z",
+      "text": "AYM: Avrupa mahkemesi hak ihlali bulduğu halde, ülke mahkemeleri yargılamayı yeniden incelemeyi reddettiği ve cezanın devam ettirilmesi için kişi haklarının ihlal edildiğinin incelendiği bir davadır.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-22T10:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-21-3",
+      "id": "2026-05-22-3",
       "highlightId": "aym-2021-61490",
-      "text": "AYM: Bir işçi, aldığı maaşla ilgili dava açtıktan sonra talep ettiği parayı artırmak istemiş, ancak mahkeme bu değişiklik dilekçesini kabul etmeyerek işçinin adalete erişim hakkını ihlal ettiği\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-21T14:00:00.000Z",
+      "text": "AYM: Bir işçi, işyerinden aldığı zararın parasını istediği davada, mahkeme daha sonra gönderdiği ek talep dilekçesini dinlemediği için haksız muamele gördüğünü söylüyor.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-22T14:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-21-4",
+      "id": "2026-05-22-4",
       "highlightId": "aym-2021-57966",
-      "text": "AYM: Başvuru, ön alım (şufa) davasının hak düşürücü süreden reddine karar verilmesi nedeniyle mahkemeye erişim hakkının ihlal edildiği iddiasına ilişkindir\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-21T17:00:00.000Z",
+      "text": "AYM: Birisi bir mal satılırken kendisine önce satın alma hakkı verilmesini istedi, ama mahkeme zamanı geçtiği için bu hakkı reddetti ve kişi mahkemeye gidemeye engel olunduğunu düşünerek Anayasa Mahkem\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-22T17:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     }
   ]
 }
