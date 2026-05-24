@@ -1,46 +1,46 @@
 {
-  "generatedAt": "2026-05-23T11:04:12.830Z",
-  "dateLabel": "23 Mayıs 2026",
+  "generatedAt": "2026-05-24T11:05:48.966Z",
+  "dateLabel": "24 Mayıs 2026",
   "tweets": [
     {
-      "id": "2026-05-23-1",
+      "id": "2026-05-24-1",
       "highlightId": "aym-2024-28913",
-      "text": "AYM: Devlet, bir kişiyi terör örgütüyle bağlantılı olduğu gerekçesiyle işinden çıkarmış, bu kişi de mahkemede \"hiçbir suçum kanıtlanmadan bana bu ceza verildi, özel hayatıma da sayg\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-23T06:00:00.000Z",
+      "text": "AYM: Devletin güvenliğine tehdit oluşturdukları gerekçesiyle bir kişinin işinden çıkarılması ve mahkeme kararı olmadan meslekten men edilmesi, o kişinin özel yaşamına saygı hakkını ve masum sayılma hakkını ihlal et\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-24T06:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-23-2",
+      "id": "2026-05-24-2",
       "highlightId": "aym-2023-68802",
-      "text": "AYM: Avrupa İnsan Hakları Mahkemesi hak ihlali bulmuş olmasına rağmen, ülkemizdeki mahkeme yargılamayı yenilemeyi reddetmiş ve cezanın devamını emretmiş, bu yüzden kişinin özgürlü\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-23T10:00:00.000Z",
+      "text": "AYM: Birisi Avrupa İnsan Hakları Mahkemesi'nde hak ihlali olduğunu kanıtladığı halde, Türk mahkemelerinin yargılamayı yeniden yapmaması ve cezasının devamında ısrar etmesi nedeniyle şikayet\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-24T10:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-23-3",
+      "id": "2026-05-24-3",
       "highlightId": "aym-2021-61490",
-      "text": "AYM: Bir işçi mahkemede daha fazla para talep etmek istediğinde mahkemenin bunu dikkate almayıp reddetmesi, o kişinin mahkemeye başvuru hakkını ihlal etmiş sayılabilir.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-23T14:00:00.000Z",
+      "text": "AYM: İşçi, maaş borcu davası açmış ama sonradan daha fazla para istediğini söylemiş, mahkeme bu yeni isteği dinlememiş ve Anayasa Mahkemesi bunun adil yargılanma hakkını ihlal ettiğine karar vermi\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-24T14:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     },
     {
-      "id": "2026-05-23-4",
+      "id": "2026-05-24-4",
       "highlightId": "aym-2021-57966",
-      "text": "AYM: Birisi bir mülkü satın almak için yasal hakkını kullanmaya çalışırken mahkeme tarafından zaman geçtiği gerekçesiyle reddedildi ve bu kişi bu karara Anayasa Mahkemesi'ne itiraz etti.\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
-      "scheduledFor": "2026-05-23T17:00:00.000Z",
+      "text": "AYM: Bir kişi, komşusunun evini satması durumunda öncelik alarak satın alma hakkını kullanmak için mahkemeye başvurmuş, ancak çok geç kaldığı gerekçesiyle mahkeme davayı reddetmiş ve bu kişi Anayasa Mah\n\nKünye ve detay: avfethiguzel.com/icthat\n\n#hukuk #içtihat #AYM",
+      "scheduledFor": "2026-05-24T17:00:00.000Z",
       "posted": false,
       "postedAt": null,
       "tweetId": null,
-      "error": "HTTP 402: {\"account_id\":2054971603939623000,\"title\":\"CreditsDepleted\",\"detail\":\"Your enrolled account [2054971603939622912] does not have any credits to fulfill this request.\",\"type\":\"https://api.twitter.com/2/"
+      "error": null
     }
   ]
 }
