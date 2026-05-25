@@ -40,3 +40,9 @@ test('writeTweets appends correct hashtags for Yargıtay', async () => {
   const tweets = await writeTweets(highlights, 'avfethiguzel.com', mockClient);
   assert.ok(tweets[0].includes('#Yargıtay'));
 });
+
+test('writeTweets appends YİBK hashtags for Yargıtay+YİBK category', async () => {
+  const highlights = [{ source: 'Yargıtay', category: 'YİBK', publicSummary: 'Özet', id: 'yibk-1' }];
+  const tweets = await writeTweets(highlights, 'avfethiguzel.com', mockClient);
+  assert.ok(tweets[0].includes('#YİBK'));
+});

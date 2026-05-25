@@ -41,7 +41,9 @@ export async function writeTweets(highlights, siteDomain = 'avfethiguzel.com', c
         content: `Mahkeme: ${h.source}\nÖzet: ${summary}\n\nSadece tweet metnini yaz.`
       }]
     });
-    const body = msg.content[0].text.trim();
+    const raw = msg.content?.[0]?.text;
+    if (!raw) throw new Error(`Empty API response for highlight ${h.id || h.source}`);
+    const body = raw.trim();
     const hashtags = hashtagsFor(h.source, h.category);
     const link = `${siteDomain}/icthat`;
     const full = `${body}\n\n${link} ${hashtags}`;
