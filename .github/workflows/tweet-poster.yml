@@ -1,8 +1,6 @@
 name: Tweet Poster
 
 on:
-  schedule:
-    - cron: '*/30 * * * *'   # her 30 dakika
   workflow_dispatch:
 
 jobs:
