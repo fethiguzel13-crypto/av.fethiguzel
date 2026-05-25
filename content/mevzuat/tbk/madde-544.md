@@ -24,10 +24,6 @@ verene bildirirse, işlemi kendisiyle yapmış sayılır.
 
 ### Akademik Yorum ve Analiz
 
-Mevcut kaynak metinlerde yer almamakla birlikte, sorunuzda özel olarak talep edilen Türk Borçlar Hukuku doktrini (Fikret Eren, Kemal Oğuzman, Turgut Öz vb.) ve İsviçre Borçlar Kanunu (OR) mukayesesine ilişkin derinlemesine analizler, haricî akademik hukuki bilgiler ışığında hazırlanmış ve aşağıda ilgili bölümlere entegre edilmiştir. Kaynak metinlerden elde edilen bilgiler ise ilgili atıf numaralarıyla [i] gösterilmiştir.
-
-İlgili talimatlarınız uyarınca hazırlanan resmi, akademik ve detaylı şerh aşağıda sunulmaktadır:
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) Özel Borç İlişkilerini düzenleyen ikinci kısmının on birinci bölümünde "Komisyon Sözleşmesi" yer almaktadır [1]. Komisyon sözleşmesi, komisyoncunun ücret karşılığında kendi adına ve vekâlet verenin hesabına kıymetli evrak ve taşınırların alım veya satımını üstlendiği, temelinde "dolaylı temsil" ilişkisi barındıran bir işgörme sözleşmesidir [1, 2]. 
 

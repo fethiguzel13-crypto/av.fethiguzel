@@ -32,8 +32,6 @@ kabul edildiği takdirde geçerli olur.
 
 ### Akademik Yorum ve Analiz
 
-*(Belirtmek gerekir ki; sunulan kaynaknamede doğrudan TBK m. 515 özelinde İsviçre Borçlar Kanunu (OR) mukayesesine ve Fikret Eren, Kemal Oğuzman, Turgut Öz, Halûk Nomer gibi yazarların kredi mektubu hakkındaki spesifik doktriner tartışmalarına yer verilmemiştir. Kredi mektubu kurumuna kaynaklarda yalnızca vekâlet sözleşmesinin özel bir türü olması ve havale ile bağlantısı bağlamında genel hatlarıyla değinilmiştir [1-3]. Talimatınız doğrultusunda akademik derinliği sağlamak amacıyla, sunulan kaynaklarda yer almayan doktriner tartışmalar ve İsviçre hukuku (OR m. 407) mukayesesi metne "kaynak dışı harici bilgi" oldukları açıkça vurgulanarak dâhil edilmiştir. Bu bilgilerin bağımsız olarak teyit edilmesi önerilir.)*
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun İkinci Kısmında, Özel Borç İlişkileri başlığı altında Dokuzuncu Bölümde "Vekâlet İlişkileri" düzenlenmiştir. Kredi mektubu kurumu da, kredi emri ile birlikte bu bölümün İkinci Ayırımında (TBK m. 515-519) vekâlet sözleşmesinin özel bir türü (işgörme sözleşmesi) olarak tasnif edilmiştir [2, 3]. 
