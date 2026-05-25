@@ -7,11 +7,23 @@ const TWEET_DELAY_MS = 30_000;
 const COMPOSE_URL = 'https://x.com/compose/tweet';
 
 export async function postTweets(tweets) {
-  const context = await chromium.launchPersistentContext(CHROME_PROFILE, {
-    channel: 'chrome',
-    headless: false,
-    args: ['--no-first-run', '--no-default-browser-check'],
-  });
+  if (!tweets || tweets.length === 0) {
+    console.warn('[playwright-poster] no tweets to post');
+    return;
+  }
+
+  let context;
+  try {
+    context = await chromium.launchPersistentContext(CHROME_PROFILE, {
+      channel: 'chrome',
+      headless: false,
+      args: ['--no-first-run', '--no-default-browser-check'],
+    });
+  } catch (err) {
+    console.error(`[playwright-poster] failed to open Chrome profile at ${CHROME_PROFILE}`);
+    console.error('[playwright-poster] Run setup: New-Item -ItemType Directory -Force -Path "$env:LOCALAPPDATA\\Google\\Chrome\\User Data\\TwitterBot"');
+    throw err;
+  }
 
   const page = await context.newPage();
 
@@ -39,5 +51,5 @@ export async function postTweets(tweets) {
     }
   }
 
-  await context.close();
+  await context?.close();
 }
