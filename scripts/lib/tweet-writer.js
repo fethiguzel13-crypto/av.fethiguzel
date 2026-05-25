@@ -1,7 +1,5 @@
 import Anthropic from '@anthropic-ai/sdk';
 
-const client = new Anthropic();
-
 const SYSTEM = `Sen Av. Fethi Güzel adına Twitter'da hukuki içtihatları paylaşan bir asistansın.
 Görevin: Verilen içtihat özetini doğal, insansı ve yaratıcı bir tweet'e dönüştürmek.
 
@@ -30,7 +28,7 @@ function summaryFor(h) {
   return (h.publicSummary || h.konu || h.title || '').trim().slice(0, 500);
 }
 
-export async function writeTweets(highlights, siteDomain = 'avfethiguzel.com') {
+export async function writeTweets(highlights, siteDomain = 'avfethiguzel.com', client = new Anthropic()) {
   const tweets = [];
   for (const h of highlights) {
     const summary = summaryFor(h);
