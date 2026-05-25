@@ -24,8 +24,6 @@ sonunda geçerli olmak üzere sözleşmeyi feshettiğini bildirebilir.
 
 ### Akademik Yorum ve Analiz
 
-*(Belirtmek gerekir ki, bana sunulan kaynak metinlerde kefalet hukukunun genel ilkeleri ile Türk Borçlar Kanunu'nun ilgili yasa metinleri [1-3] bulunmakla birlikte, spesifik olarak TBK m. 602 hükmüne ilişkin derinlemesine doktrin tartışmaları doğrudan yer almamaktadır. Bu nedenle, hazırlanan bu akademik şerhin detaylı dogmatik analizleri, kaynaklarda yer alan genel kefalet prensipleri temel alınarak ve kaynak dışı tamamlayıcı hukuki bilgilerle zenginleştirilerek oluşturulmuştur. Dış kaynaklı bu doktriner hususların bağımsız olarak teyit edilmesi tavsiye olunur.)*
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) İkinci Kısım, On Beşinci Bölümü kefalet sözleşmesine ayrılmış olup, "Kefaletin Sona Ermesi" başlığı altındaki hükümlerden biri de TBK m. 602'dir [3]. Kanun koyucu, kefalet sözleşmelerinde kefili koruma amacı güden emredici nitelikteki yeni yaklaşımlarını bu bölüme hâkim kılmıştır [4, 5].

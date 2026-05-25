@@ -28,34 +28,6 @@ yerleşim yerinde ifa edilebilir.
 
 ### Akademik Yorum ve Analiz
 
-Sisteminizdeki kaynaklar ağırlıklı olarak genel işlem koşulları, haksız 
-fiiller, sözleşmenin geçerliliği, kusursuz sorumluluk ve aşırı yararlanma 
-(gabin) gibi konulara odaklandığından; bu analizde yer alan "Alacağın Temliki" 
-kurumuna ilişkin dogmatik bilgilerin, sağlanan belgeler haricindeki genel 
-borçlar hukuku müktesebatından (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve 
-Haluk Nami Nomer öğretilerinden) elde edildiğini ve bu bilgileri bağımsız 
-olarak teyit edebileceğinizi en baştan açıkça belirtmek isterim. Sisteminizdeki
-"İnançlı İşlemler", "Sona Ermiş veya Geçersiz Sözleşmelerde İade (Sebepsiz 
-Zenginleşme)" ve "Şekle Aykırılık" başlıklı kaynaklar ise kurumun sistematik 
-ilişkilerinde azami ölçüde kullanılmıştır.
-
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin 
-aşılmaz bir gereğidir. İnceleme talebinde referans gösterilen "TBK Madde 89 
-(Alacağın temliki — genel hükümler ve şekil)" başlığı ile mehaz İsviçre Borçlar
-Kanunu'nun 164. maddesine (**OR Art. 164**) yapılan atıf arasında 
-numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı 
-Türk Borçlar Kanunu'nun (TBK) 89. maddesi, borçların ifasında **"İfa Yeri"** 
-kuralını düzenlemektedir. İncelemenin maddi özünü oluşturan, mülga 818 sayılı 
-BK m. 162 ve mehaz OR Art. 164'te yer alan **Alacağın Temliki (Zession / 
-Cession)** müessesesi, yeni 6098 sayılı TBK sistematiğinde **Madde 183 ve 184**
-başlıkları altında kodifiye edilmiştir. 
-
-Bu metodolojik düzeltmenin ardından, maddi konunun omurgasını oluşturan 
-alacağın temliki kurumunu, mehaz OR Art. 164 ile kurulan bağ ekseninde 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde borç ilişkisi, alacaklı ve borçlu arasında kurulan 

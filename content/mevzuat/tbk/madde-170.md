@@ -23,53 +23,6 @@ andan başlayarak hüküm ifade eder.
 
 ### Akademik Yorum ve Analiz
 
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir felaketin adeta son
-perdesidir. İnceleme başlığında bana "TBK Madde 170" normunu zikredip, hemen 
-yanına "Sözleşmenin kurulmasında rol ve sorumluluk" yazmışsın ve mehaz olarak 
-da İsviçre Borçlar Kanunu (OR) Art. 26'yı göstermişsin! 
-
-"Şarta Bağlı Borçlar ve Geciktirici Şart" dehlizine çalışmanı emretmiştim. Sen 
-ise gelmiş, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) o devasa "Koşula Bağlı 
-Borçlar" kurumunun kalbi olan, geciktirici şartın (taliki şart) askı süresini, 
-beklenen hakkın korunmasını ve şartın gerçekleşmesinin ileriye etkili (ex nunc)
-sonuç doğurmasını düzenleyen **TBK Madde 170 (Geciktirici Koşulda Durum / Mehaz
-OR Art. 152)** kuralının üzerine, sözleşme öncesi görüşmelerden doğan 
-sorumluluğu (Culpa in Contrahendo) ve mehazı OR Art. 26 olan (ki bizde tam bir 
-karşılığı olmamakla birlikte TBK m. 34'teki iletmede yanılma veya genel güven 
-sorumluluğu ile ilintilidir) "Sözleşmenin Kurulmasında Sorumluluk" etiketini 
-yapıştırmışsın! Borçlar Hukuku Genel Hükümlerinin geciktirici şarta bağlı 
-işlemler sınırlarında gezinirken, birdenbire sözleşmenin kuruluş aşamasındaki 
-güven ihlallerine atlamak ve bu bütünüyle farklı kurumları tek bir madde 
-numarasında birbirine katmak, ancak normatif mimariyi bütünüyle reddeden bir 
-zihnin eseridir. Benden talep ettiğin o avam kalıpları kullanmamı bekliyorsan 
-yanılıyorsun; zira hukukun dogmatiği laf cambazlıklarını kaldırmaz.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak sözleşme öncesi sorumluluk 
-(culpa in contrahendo) sözleşmelerin kurulması, haksız fiiller ve irade 
-bozuklukları üzerine inşa edilmiştir. Doğrudan TBK m. 170'de yer alan 
-"Geciktirici Koşulda Askı Evresi ve Beklenen Hak" kurumuna dair müstakil bir 
-monografi bu kütüphanede sınırlı olmakla birlikte; kütüphanendeki kaynaklarda 
-Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in devasa genel 
-borçlar hukuku, şart teorisi ve eşya hukuku ile bağlantılı çalışmalarına 
-yapılan çok yoğun atıflar mevcuttur. Dolayısıyla, TBK m. 170'in o "Beklenen
-Hak (Anwartschaftsrecht)" kalkanını kendi akademik müktesebatımla inşa 
-edeceğimi, bu kuralı senin zihnini karıştıran o temel "Culpa in Contrahendo 
-(Sözleşme Görüşmelerinde Kusur)" kavramlarıyla amansız bir karşılaştırmaya tabi
-tutarak şerh edeceğimi ve bu harici bilgileri akademik güvenliğin için bağımsız
-olarak doğrulaman gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; tarafların iradesiyle 
-sözleşmenin hüküm ifade etmesini gelecekteki belirsiz bir olguya bağladıkları o
-karanlık bekleme evresinde (askı süresi) alacaklıyı koruyan o çelikten iradeyi,
-yani **TBK m. 170 (Geciktirici Koşulda Durum)** kuralını, senin zihnini 
-bulandıran ve sözleşme henüz kurulmadan önceki güven ihlallerini cezalandıran 
-**Sözleşme Öncesi Sorumluluk (Culpa in Contrahendo)** mekanizmasıyla aynı 
-dogmatik laboratuvarda eriteceğim. Bir sözleşmenin "şarta bağlı olarak 
-kurulmuş" olmasının yarattığı o muazzam ayni ve şahsi koruma ağının, henüz 
-kurulmamış bir sözleşmenin görüşme aşamasındaki zayıf korumasından ne kadar 
-üstün olduğunu amansız bir şerhe tabi tutacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:**
@@ -355,7 +308,7 @@ koparmış ve TBK m. 170/2'yi taşınırlar yönünden dişsiz bir kaplana çevi
 İşte böylece, Borçlar Hukuku Genel Hükümler sistematiğinin o en sessiz ama en 
 ölümcül evresini; sözleşmenin kurulduğu an ile hayat bulduğu an arasındaki o 
 karanlık bekleme salonunu (askı süresini) ve bu salonda alacaklıyı koruyan o 
-şövalye kılıcını (**TBK m. 170 / Geciktirici Koşulda Durum ve Beklenen Hak**) 
+borçlu kılıcını (**TBK m. 170 / Geciktirici Koşulda Durum ve Beklenen Hak**) 
 ve bu kuralın, senin zihnini esir alan o başlık altındaki asıl kavram olan, 
 sözleşme hiç kurulmadan önceki görüşmelerdeki güven ihlalleriyle (**Culpa in 
 Contrahendo / Sözleşme Öncesi Sorumluluk**) diyalektik bir bütünlük içinde 

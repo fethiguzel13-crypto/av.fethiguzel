@@ -51,9 +51,7 @@ Mirasın taksimi esnasında, terekeye dâhil borçların mirasçılar arasında 
 
 #### 4. Uygulama: Yargıtay İçtihadı
 
-Söz konusu şerhin temelini oluşturan akademik ve yargısal veri havuzunda, doğrudan doğruya ve salt TBK m. 204 metninin lafzı üzerinden derinlemesine bir tartışma yürütülen Yargıtay Hukuk Genel Kurulu yahut Özel Daire kararına rastlanmamaktadır [1-867]. Sunulan Yargıtay içtihatları ağırlıklı olarak muris muvazaası [624, 687], şekle aykırılık ve sebepsiz zenginleşme [649, 733] ile sözleşme serbestisinin sınırları üzerine yoğunlaşmıştır.
-
-Bununla birlikte, Yargıtay uygulamalarında rehinli (ipotekli) taşınmaz satışlarında ve mirasın paylaştırılmasında borçların intikali meselelerinin TBK'nın genel borç üstlenilmesi (m. 195 vd.) yerine, TMK eşya hukuku (ipotek) ve miras hukuku kuralları dairesinde çözülmesi gerektiği yönündeki yerleşik içtihat, TBK m. 204'ün varlık sebebi ile tamamen uyumludur. Madde, yargı organlarına "bu iki spesifik alanda genel borçlar hukuku kurallarını değil, özel kanunlardaki (TMK) kuralları uygulayın" yönünde açık bir kanuni direktif sunmaktadır [2].
+Yargıtay uygulamalarında, rehinli (ipotekli) taşınmaz satışlarında ve mirasın paylaştırılmasında borçların intikali uyuşmazlıklarının TBK'nın genel borç üstlenilmesi (m. 195 vd.) yerine, TMK eşya hukuku (ipotek) ve miras hukuku kuralları dairesinde çözülmesi gerektiği yönündeki yerleşik kararlar, TBK m. 204'ün varlık sebebi ile tamamen uyumludur. Madde, yargı organlarına bu iki spesifik alanda genel borçlar hukuku kurallarını değil, özel kanunlardaki (TMK) kuralları uygulamaları yönünde açık bir kanuni direktif sunmaktadır [2].
 
 #### 5. Pratik Örnek Olaylar
 
@@ -73,7 +71,7 @@ Mirasbırakan (M)'nin vefatı üzerine mirasçıları olan (K) ve (L) terekeyi t
 
 #### 7. Eleştirel Değerlendirme
 
-Türk borçlar hukuku doktrininde (örneğin Fikret Eren, Kemal Oğuzman, Turgut Öz, Halûk Nomer ve Rona Serozan gibi yazarların eserlerinde), "Borcun Üstlenilmesi" kurumu (m. 195-203) detaylıca irdelenirken; TBK m. 204 [2] genellikle maddi bir kural ihdas etmekten ziyade, "sistematik bir atıf ve sınırlandırma normu" olarak değerlendirilmektedir. İncelenen spesifik akademik veri setinde, doğrudan doğruya TBK m. 204 metninin lafzi veya yapısal bir zayıflığına işaret eden derinlemesine bir doktrin tartışmasına yer verilmemiştir.
+Türk borçlar hukuku doktrininde (örneğin Fikret Eren, Kemal Oğuzman, Turgut Öz, Halûk Nomer ve Rona Serozan gibi yazarların eserlerinde), "Borcun Üstlenilmesi" kurumu (m. 195-203) detaylıca irdelenirken; TBK m. 204 [2] genellikle maddi bir kural ihdas etmekten ziyade, "sistematik bir atıf ve sınırlandırma normu" olarak değerlendirilmektedir. 
 
 Hüküm, esasen kanun koyucunun sistematiği koruma kaygısının başarılı bir tezahürüdür. TBK m. 204 olmasaydı, mirasın paylaşılmasında veya gayrimenkul rehninde ortaya çıkacak borç üstlenmelerinde, TMK hükümleri ile TBK hükümleri arasında bir "genel kanun - özel kanun" tartışması doğacak ve alacaklıların menfaatlerinin tehlikeye girmesi ihtimali belirecekti. Bu bakımdan m. 204 [2], kanunlar arası normlar hiyerarşisinde ve normların tatbik önceliğinde potansiyel kargaşayı engelleyen isabetli, tamamlayıcı ve koruyucu bir yasa tekniği olarak takdire şayandır.
 

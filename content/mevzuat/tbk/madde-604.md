@@ -16,6 +16,6 @@ evrakın fiyat farkı esası üzerine yapılan vadeli satışlar hakkında da ay
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

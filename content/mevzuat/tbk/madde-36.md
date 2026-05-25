@@ -24,23 +24,6 @@ değildir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler ve İrade Muhtariyeti blokunda, hukuki işlem 
-ehliyetinin sınırlarını insanın fiziksel varlığının ötesine taşıyan en kudretli
-kurumlardan birini inceleme aşamasına gelmiş bulunmaktayız. Öncelikle dogmatik 
-ve terminolojik bir tespitle temel atarak başlamalıyız. Talebinde referans 
-gösterdiğin "Sözleşmede temsil yetkisinin kapsamı ve sınırları" konusu ve mehaz
-İsviçre Borçlar Kanunu'nun 33. maddesi (**OR Art. 33**) ile mülga 818 sayılı 
-Borçlar Kanunu'nun 33. maddesi, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) sistematiğinde "Madde 36" altında değil; **TBK Madde 41 
-(Temsil Yetkisinin Kapsamı)** başlığı altında kodifiye edilmiştir. Yeni 
-kanunumuzda TBK m. 36, "Aldatma (Hile)" kurumunu düzenlemektedir. Hukuk 
-dogmatiğinde norm numaralarının ve terminolojinin kesinliği, hukuki analizin 
-sıhhati açısından tartışılmaz bir öneme sahip olduğundan; maddi (içeriksel) 
-talebin olan "Temsil yetkisinin kapsamı, sınırları ve kötüye kullanılması" 
-müessesesini, doğru dogmatik zemin olan **TBK Madde 41** ekseninde, Fikret 
-Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ışığında 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinin belkemiğini oluşturan **Sözleşme 

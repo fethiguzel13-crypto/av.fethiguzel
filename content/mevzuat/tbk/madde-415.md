@@ -31,10 +31,6 @@ giderleri hizmet için kullanıldığı ölçüde karşılamakla yükümlüdür.
 
 ### Akademik Yorum ve Analiz
 
-*Önemli Not: Tarafıma sunulan kaynak metinler, ağırlıklı olarak 6098 sayılı Türk Borçlar Kanunu'nun (TBK) ilgili maddelerinin salt lafzi metinlerini (TBK m. 414, 415, 416 vb.) içermektedir. İsteminizde yer alan İsviçre Borçlar Kanunu (OR) mukayesesi, Yargıtay içtihatları, usul hukuku kuralları ve doktriner tartışmalara (Fikret Eren, Kemal Oğuzman, Turgut Öz vb. görüşlerine) ilişkin son derece detaylı akademik analizler, sağlanan kaynakların ötesine geçtiğinden harici uzmanlık bilgim kullanılarak hazırlanmıştır. Bu harici hukuki bilgileri bağımsız olarak teyit etmek isteyebilirsiniz.*
-
----
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) İkinci Kısmının, Altıncı Bölümünde "Hizmet Sözleşmeleri" ana başlığı altında yer alan 415. madde, işverenin borçlarından biri olan "Giderler" (TBK m. 414-416) alt ayrımında düzenlenmiştir [1-3]. İşverenin, işin görülmesinin gerektirdiği her türlü zorunlu harcamayı karşılamakla yükümlü olduğu TBK m. 414 ile genel bir ilke olarak ortaya konulmuştur [2]. TBK m. 415 ise bu genel ilkenin, işçinin işin ifası sırasında taşıma aracı kullanması durumuna ilişkin özel bir yansımasıdır [3].

@@ -24,30 +24,6 @@ bulunan, önerisi ile bağlı olmaktan kurtulur.
 
 ### Akademik Yorum ve Analiz
 
-Madde 197 (Kiraya verenin ayıba karşı tekeffülü)” ibaresi ile mehaz “İsviçre 
-Borçlar Kanunu (OR) Art. 258” zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 197. maddesi (Mülga 
-818 sayılı BK m. 174; Mehaz OR Art. 176/177) borçlar hukuku genel hükümlerinde
-yer alan "Borcun Üstlenilmesi" başlığı altındaki "Dış Üstlenmede Kabul" 
-kurumunu düzenlemektedir. Başlıkta konusuna atıf yapılan "Kiraya Verenin Ayıba 
-Karşı Tekeffülü" (kiralananın ayıplı tesliminden veya sonradan ayıplı hâle 
-gelmesinden doğan sorumluluk) meselesi ve mehazı olarak işaret edilen OR Art. 
-258 kuralı ise, Türk hukukunda TBK'nın Özel Hükümler kısmında m. 304 ve 
-devamında düzenlenen kurumun karşılığıdır. Borçlar hukuku dogmatiğinde; kiraya 
-verenin, kiralananı ayıpsız bulundurma borcundan veya mevcut ayıpların 
-yarattığı devasa maddi zararların tazmininden doğan borcunun, üçüncü bir kişi 
-(örneğin taşeron bir firma, yeni bir malik veya yönetim şirketi) tarafından 
-"dış ilişkide" üstlenilmesi ve alacaklı konumundaki kiracının bu üstlenmeyi 
-açık veya zımni olarak kabul etmesi (TBK m. 197) senaryolarında, bu normlar 
-organik bir biçimde kesişmektedir. Bu akademik şerhte, norm numarası olarak 
-anılan "Dış Üstlenmede Kabul (TBK m. 197)" kuralı ile, maddi hukuk talebinin 
-konusunu ve mehazını oluşturan "Kiraya Verenin Ayıba Karşı Tekeffülü (TBK m. 
-304 vd. / OR Art. 258)" kurumları sentezlenmiş; ayıptan doğan borçların üçüncü 
-kişilerce üstlenilmesinde alacaklının (kiracının) kabul iradesinin sınırları ve
-doğuracağı hukuki sonuçlar, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
-Nami Nomer’in öğretileri ekseninde sistematik bir bütünlük içerisinde 
-değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde tam iki tarafa borç yükleyen ve sürekli borç 

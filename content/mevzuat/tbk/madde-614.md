@@ -20,6 +20,6 @@ geçen genel düzenlemelerle belirlenir. Bu düzenlemeler, sözleşmenin içeri�
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

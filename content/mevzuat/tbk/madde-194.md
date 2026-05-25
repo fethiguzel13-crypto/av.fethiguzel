@@ -24,28 +24,6 @@ Borcun Üstlenilmesi
 
 ### Akademik Yorum ve Analiz
 
-Madde 194 (Kira bedelinin artırılması — TÜFE sınırı)” ibaresi ile mehaz 
-“İsviçre Borçlar Kanunu (OR) Art. 269” zikredilmiştir. Pozitif Türk Özel Hukuku
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 194. maddesi, borçlar 
-hukuku genel hükümlerinde yer alan "Alacağın Devri ve Borcun Üstlenilmesinde 
-Özel Hükümlerin Saklı Tutulması" müessesesini düzenleyen tamamlayıcı bir 
-normdur. Başlıkta konusuna atıf yapılan "Kira Bedelinin Artırılması ve TÜFE 
-Sınırı" meselesi ve mehazı olarak işaret edilen OR Art. 269 (ve devamı 
-niteliğindeki 269a vd.) kuralı ise, Türk hukukunda TBK'nın Özel Hükümler 
-kısmında m. 344'te düzenlenen "Kira Bedelinin Belirlenmesi" kurumunun 
-karşılığıdır. Borçlar hukuku dogmatiğinde; kiraya verenin, kira bedelinin 
-artırılmasından doğan alacak hakkını (özellikle devam eden kira ilişkilerindeki
-gelecekteki fark alacaklarını) üçüncü bir kişiye devretmesi (temliki) ile, bu 
-kira artışının kanuni (TÜFE) ve yargısal (uyarlama) sınırları organik bir 
-biçimde kesişmektedir. Bu akademik şerhte, norm numarası olarak anılan 
-"Alacağın Devrine İlişkin Tamamlayıcı Hükümler (TBK m. 194)" kuralı ile, maddi 
-hukuk talebinin konusunu ve mehazını oluşturan "Kira Bedelinin Belirlenmesi ve 
-TÜFE Sınırı (TBK m. 344 / OR Art. 269a)" kurumları sentezlenmiş; kira 
-alacaklarının devrinde artış sınırlarının ve uyarlama mekanizmalarının ifa 
-sürecine etkisi, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
-Nomer’in öğretileri ekseninde sistematik bir bütünlük içerisinde 
-değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Sürekli borç ilişkileri (Dauerschuldverhältnis) niteliği taşıyan kira 

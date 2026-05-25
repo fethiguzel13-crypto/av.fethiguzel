@@ -28,8 +28,6 @@ değişiklikler sebebiyle kiralananda ortaya çıkan değer artışının karş�
 
 ### Akademik Yorum ve Analiz
 
-Aşağıdaki şerh ve analiz, sunulan kaynaklardaki bilgiler ışığında ve kaynaklarda bulunmayan doktrinel tartışmalar ile Yargıtay içtihatlarına ilişkin *kaynaklar dışı ek bilgiler* entegre edilerek, akademik ve profesyonel bir metodolojiyle hazırlanmıştır.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun (TBK) "Özel durumlar" başlığı altında yer alan "Kiralananda yenilik ve değişiklik yapılması" alt başlığında; madde 320 kiraya veren tarafından yapılabilecek yenilik ve değişiklikleri düzenlerken [1], madde 321 kiracı tarafından yapılabilecek yenilik ve değişiklikleri, bunların tabi olduğu şekil şartlarını ve bu tasarrufların hukuki sonuçlarını düzenlemektedir [2].

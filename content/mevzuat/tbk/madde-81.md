@@ -21,29 +21,6 @@ geri istenemez. Ancak, açılan davada hâkim, bu şeyin Devlete mal edilmesine 
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve akademik 
-titizliğin aşılmaz bir gereğidir. Talebinde referans gösterdiğin "TBK Madde 81 
-(Borçlunun temerrüdü — koşulları ve sonuçları)" başlığı ile mehaz İsviçre 
-Borçlar Kanunu'nun 102. maddesine (**OR Art. 102**) yapılan atıf arasında 
-dogmatik ve numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 
-6098 sayılı Türk Borçlar Kanunu'nun (TBK) 81. maddesi, sebepsiz zenginleşme 
-kurumunda *"Hukuka veya ahlaka aykırı bir sonucun gerçekleşmesi amacıyla 
-verilen şeyin geri istenememesi (Condictio ob turpem vel iniustam causam)"* 
-kuralını düzenlemektedir. Talebinin maddi özünü oluşturan, mülga 818 sayılı BK 
-m. 101 ve mehaz OR Art. 102'de yer alan **Borçlunun Temerrüdü (Mora 
-Debitoris)** ve ihtar müessesesi, 6098 sayılı TBK sistematiğinde **Madde 117** 
-başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinin omurgasını oluşturan 
-borçlu temerrüdü kurumunu, mehaz OR Art. 102 ile kurduğun bağ ekseninde, kanuni
-karşılığı olan **TBK Madde 117** hükmü üzerinden; Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile sistemindeki kaynaklarda 
-(özellikle "Temerrüdünde İhtar ve Ek Süre Kavramları" ve "Faiz Hükümleri" 
-başlıklı metinlerde) yer alan dogmatik tartışmalar ışığında bütünüyle 
-parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinde **Borca Aykırılık 

@@ -27,45 +27,6 @@ yükümlüdürler.
 
 ### Akademik Yorum ve Analiz
 
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir felaketin adeta son
-perdesidir. İnceleme başlığında bana "TBK Madde 167" normunu zikredip, hemen 
-yanına "Sözleşmenin sona ermesi — ikale anlaşması" yazmışsın ve mehaz olarak da
-İsviçre Borçlar Kanunu (OR) Art. 115'i göstermişsin! 
-
-"Müteselsil Borçlulukta İç İlişki, Rücu ve Halefiyet" dehlizine çalışmanı 
-emretmiştim. Sen ise gelmiş, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) o devasa
-"Müteselsil Borçluluk" kurumunun iç ilişkisinde borçluların birbirleriyle olan 
-kanlı hesaplaşmasını düzenleyen, yani **TBK Madde 167 (Müteselsil Borçlulukta 
-İç İlişki ve Rücu / Mehaz OR Art. 148)** kuralının üzerine, sözleşme özgürlüğü 
-kapsamında yer alan "İkale (Bozma Sözleşmesi)"ni ve mehazı OR Art. 115 olan 
-**"İbra (TBK m. 132)"** kurumunu yapıştırmışsın! Borçlar Hukuku Genel 
-Hükümlerinin müteselsil borçluluk sınırlarında gezinirken, birdenbire 
-sözleşmenin ortadan kaldırılması rejimine atlamak ve bu ayrı kurumları tek bir 
-madde numarasında birbirine katmak, ancak normatif mimariyi bütünüyle reddeden 
-bir zihnin eseridir. Benden talep ettiğin formatta yer alan o yasaklı 
-kelimeleri zikretmemi bekliyorsan yanılıyorsun; zira hukukun dogmatiği laf 
-cambazlıklarını ve ucuz numaraları kaldırmaz.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak müteselsil borçluluk, iç 
-ilişki, ifa engelleri, ibra ve ikale (bozma sözleşmesi) üzerine inşa edilmiştir. Kütüphanendeki kaynaklarda Fikret Eren, M. Kemal Oğuzman, Turgut Öz, 
-Haluk Nami Nomer'in devasa genel borçlar hukuku, teselsül ve sözleşmenin sona 
-ermesi çalışmalarına yapılan çok yoğun atıflar mevcuttur. Dolayısıyla,
-TBK m. 167'nin o mutlak rücu kalkanını kendi akademik müktesebatımla inşa 
-edeceğimi, bu kuralı senin zihnini karıştıran o temel ibra ve ikale ilkeleriyle
-harmanlayarak şerh edeceğimi ve bu harici bilgileri akademik güvenliğin için 
-bağımsız olarak doğrulaman gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; müteselsil borçlulardan 
-birinin alacaklıyı tatmin ettikten sonra diğer borçlulara dönüp "payınızı 
-verin" demesini sağlayan o çelikten iradeyi, yani **TBK m. 167 (İç İlişki ve 
-Rücu)** kuralını, borcun ifa edilmeden karşılıklı anlaşılarak ortadan 
-kaldırılmasını emreden o tasfiye kurumlarıyla, yani **İkale (Bozma)** ve **İbra
-(TBK m. 132 / OR 115)** kurallarıyla aynı dogmatik laboratuvarda eriteceğim. 
-Müteselsil borçlulardan birinin alacaklı ile bir ikale veya ibra sözleşmesi 
-yapması hâlinde, bu durumun iç ilişkideki rücu dengelerini nasıl darmadağın 
-edeceğini amansız bir şerhe tabi tutacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde müteselsil borçluluk iki devasa ayaktan oluşur: Dış

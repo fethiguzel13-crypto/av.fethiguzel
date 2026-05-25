@@ -25,32 +25,6 @@ sorumlu değildir.
 
 ### Akademik Yorum ve Analiz
 
-Madde 191 (İşgal altındaki taşınmazın satımı)” ibaresi ile mehaz “İsviçre 
-Borçlar Kanunu (OR) Art. 218” zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 191. maddesi (Mülga 
-818 sayılı BK m. 169; Mehaz OR Art. 171) borçlar hukuku genel hükümlerinde yer
-alan "Alacağın Devrinde Devredenin Garanti Sorumluluğu" müessesesini 
-düzenlemektedir. Başlıkta konusuna atıf yapılan "İşgal altındaki taşınmazın 
-satımı" meselesi ise, eşya ve borçlar hukukunun kesişiminde yer alan; üçüncü 
-kişilerin hak iddiaları bağlamında "Zapta Karşı Tekeffül" (TBK m. 214 vd., m. 
-244) haksız işgal (fuzuli şagil) bağlamında "Zilyetliğin Devri ve İfa 
-Engelleri" veya kiracının işgali bağlamında "Kiralananın El Değiştirmesi" (TBK 
-m. 310) normlarıyla çözülen çok boyutlu bir hukuki durumdur. Başlıkta mehaz 
-olarak gösterilen OR Art. 218 ise, İsviçre hukukunda tarımsal taşınmazların 
-devrine ilişkin mülga bir düzenleme olup, taşınmaz satımında zapta karşı 
-tekeffül ve mülkiyetin geçişi gibi özel halleri barındırmaktaydı. Borçlar 
-hukuku dogmatiğinde; işgal altındaki bir taşınmazın satımından doğan semen 
-(bedel) alacağının, satıcı tarafından üçüncü bir kişiye (örneğin bir faktoring 
-şirketine) devredilmesi ve alıcının taşınmazdaki işgal (zapt tehlikesi veya ifa
-engeli) nedeniyle bedeli ödemekten kaçınması/sözleşmeden dönmesi 
-senaryolarında, bu kurumlar organik bir biçimde kesişmektedir. Bu akademik 
-şerhte, norm numarası olarak anılan "Alacağın Devrinde Garanti (TBK m. 191)" 
-kuralı ile, maddi hukuk talebinin konusunu oluşturan "İşgal Altındaki 
-Taşınmazın Satımı" kurumları sentezlenmiş; devredilen alacağın işgal/zapt 
-itirazlarıyla çökmesi halinde devredenin garanti yükümlülüğü, Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer’in öğretileri ekseninde sistematik
-bir bütünlük içerisinde değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar Hukukunda alacağın devri (temlik) alacaklının asıl borçlunun rızasını 

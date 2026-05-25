@@ -25,30 +25,6 @@ tamamını geri vermekle yükümlüdür.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin gereğidir. 
-Talebinizde referans gösterdiğiniz "TBK Madde 79" numarası ile parantez 
-içindeki "(Borcun yenilenmesi — novatio)" başlığı ve mehaz İsviçre Borçlar 
-Kanunu'nun 116. maddesine (**OR Art. 116**) yapılan atıf arasında 
-numaralandırma bazlı bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk 
-Borçlar Kanunu'nun (TBK) 79. maddesi, borç ilişkisinin kaynaklarından biri olan
-"Sebepsiz Zenginleşme" kurumunun zamanaşımı süresini düzenlemektedir. 
-Talebinizin maddi özünü oluşturan, mülga 818 sayılı BK m. 114 ve mehaz OR Art. 
-116'da yer alan **Borcun Yenilenmesi (Novatio / Tecdit)** müessesesi, 6098 
-sayılı TBK sistematiğinde **Madde 133** başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, incelememizi mehaz OR Art. 116 ile 
-kurduğunuz bağ ekseninde, kanuni karşılığı olan **TBK Madde 133** hükmü 
-üzerinden gerçekleştireceğiz. Sisteminizdeki kaynaklarda (özellikle "İfa Yerine
-Edimde Ayıp ve Zapta Karşı Tekeffül.pdf" metninde) **Yenileme (Tecdit)** 
-kurumuna, bunun ifa sözleşmesi niteliğine ve **İfa Yerine Edim** ile olan 
-sınırlarına dair atıflar bulunmakla birlikte; maddenin tüm dogmatik alt 
-unsurları, talep ettiğiniz üzere Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve 
-Haluk Nami Nomer öğretileri doğrultusunda, tarafımdan sağlanan dışsal dogmatik 
-bilgilerle sentezlenerek (bu dışsal bilgileri bağımsız olarak teyit 
-edebileceğinizi belirterek) bütünüyle parçalanıp analiz edilecektir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde kurulan her borç ilişkisi, kural olarak ifa 

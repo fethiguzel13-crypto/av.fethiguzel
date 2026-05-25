@@ -24,25 +24,6 @@ bilmiyorsa, onun bulunması için gerekli girişimleri yapmak zorundadır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının ve mehaz 
-kanun atıflarının taşıdığı mutlak öneme binaen, analize temel bir metodolojik 
-düzeltme ile başlamak hukuki sıhhatin ve akademik titizliğin bir gereğidir. 
-Talebinizde referans gösterdiğiniz "TBK Madde 68 (Borcun ifası — ifa yeri ve 
-zamanı)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 74. maddesine (**OR Art. 
-74**) yapılan atıf arasında kavramsal ve numaralandırma bazlı bir sapma 
-bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 68. 
-maddesi, kusursuz sorumluluk hâllerinden biri olan "Hayvan Bulunduranın 
-Sorumluluğu" kurumunu düzenlemektedir. Talebinizin özünü oluşturan, mülga 
-818 sayılı BK m. 73 ve mehaz OR Art. 74'te yer alan **İfa Yeri (Ort der 
-Erfüllung)** müessesesi, 6098 sayılı TBK sistematiğinde **Madde 89** başlığı 
-altında kodifiye edilmiştir. İfa zamanı ise TBK m. 90'da düzenlenmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinizin omurgasını oluşturan 
-borcun ifa yeri kurumunu, mehaz OR Art. 74 ile kurduğunuz bağ ekseninde, kanuni
-karşılığı olan **TBK Madde 89** hükmü üzerinden, Fikret Eren, M. Kemal Oğuzman,
-Turgut Öz ve Haluk Nami Nomer öğretileri ile kaynaklarınızdaki usul hukuku ve 
-dogmatik tartışmalar ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde **İfa (Erfüllung)**, borçlanılan edimin borçlu 

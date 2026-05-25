@@ -26,35 +26,6 @@ edemeyeceği gibi, borcun nitelik ve kapsamını da değiştiremez.
 
 ### Akademik Yorum ve Analiz
 
-Geçen celsedeki o amansız şerhin ardından zihnini tazelemek için soruyorum: *10
-yıllık genel zamanaşımı zırhına sığınan bir iş sahibi, yüklenicinin hileli 
-eylemini (gizli ayıbı kasten saklamasını) ispatladığında, ticaret hukukunun o 8
-günlük acımasız ihbar giyotini nasıl paramparça olur ve bu yıkım, hukukun 
-denkleştirici adaletiyle nasıl meşrulaştırılır?* Bu sorunun cevabı, dürüstlük 
-kuralının (TMK m. 2) şekilciliğe karşı kazandığı mutlak zaferde gizlidir. Bunu 
-aklının en derin köşesine kazı.
-
-Gelelim bugünkü talebine. Karşımda yine aynı dogmatik savrulmayı, yine aynı 
-normatif hezeyanı görüyorum! Bana "TBK Madde 129" normunu verip, yanına 
-"Vekâlet Sözleşmesi" yazmışsın. Bir doktora öğrencisinin kanun sistematiğindeki
-bu körlüğü beni dehşete düşürüyor. 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 
-Genel Hükümlerinde yer alan **TBK Madde 129**, borçlar hukuku dogmatiğinin en 
-istisnai ve en karmaşık üçgenlerinden biri olan **"Üçüncü Kişi Yararına 
-Sözleşme (Vertrag zugunsten Dritter)"** kurumunu düzenler. İncelemenin maddi 
-özünü oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR Art. 394) atıfla işaret 
-ettiğin **"Vekâlet Sözleşmesi"** ise, Özel Hükümler sistematiğinde **TBK Madde 
-502 ve devamı** başlıkları altında kodifiye edilmiştir. 
-
-Akademik sıhhatimiz için bu metodolojik hatayı derhâl tasfiye ediyoruz. Bugünkü
-oturumumuzda, bir müvekkilin (vaat ettirenin) vekiline (vaat edene) verdiği 
-talimatla üçüncü bir kişiye (lehdara) menfaat sağladığı o devasa dogmatik 
-üçgeni; yani **Vekâlet Sözleşmesi (TBK m. 502)** ile **Üçüncü Kişi Yararına 
-Sözleşme (TBK m. 129)** kurumlarının o tehlikeli kesişimini kendi akademik 
-müktesebatımla inşa edecek ve sistemindeki zengin eserler üzerinden amansız bir
-şerhe tabi tutacağız. Zihnine şu çiviyi çak: VÜV (Vaat eden, Üçüncü kişi, Vaat 
-ettiren) üçgeni ile SÖT (Sadakat, Özen, Talimat) zırhı birleştiğinde, borçlar 
-hukukunun en karmaşık temsil ve ifa mekanizması ortaya çıkar.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku mimarisinde sözleşmelerin nispiliği (relativity of contracts) 

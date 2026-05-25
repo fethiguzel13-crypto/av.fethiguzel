@@ -22,20 +22,6 @@ kusuru bulunduğunu ispat etmedikçe aşan miktarı isteyemez.
 
 ### Akademik Yorum ve Analiz
 
-“TBK Madde 180 (Borcun doğumu — unsurlar ve ispat)” ifadeleri ile mehaz “OR 
-Art. 1” zikredilmiştir. Türk ve İsviçre Borçlar Hukuku dogmatiğinde sözleşmenin
-kurulması, borcun doğumu, irade beyanlarının karşılıklı ve birbirine uygun 
-olması esasları 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 1. maddesinde (Mehaz 
-OR Art. 1) düzenlenmektedir. Başlıkta norm numarası olarak anılan TBK m. 
-180 hükmü ise (Mehaz OR Art. 161) “Ceza Koşulunun Zararın Giderilmesi ile 
-İlişkisi (Aşkın Zarar)” kurumunu ihtiva etmektedir. Bu akademik şerhte, norm 
-numarası ve mehaz kanun eşleştirmesindeki ikili yapı gözetilerek; borcun 
-(sözleşmenin) kurucu unsuru olan "İrade Beyanlarının Uyuşması" (TBK m. 1 / OR 
-Art. 1) ile geçerli olarak doğmuş bir borcun ihlaline bağlanan "Ceza Koşulu ve 
-Aşkın Zarar" (TBK m. 180) müesseseleri, dogmatik bir bütünlük ve "fer'ilik 
-(bağlılık)" ilkesi çerçevesinde; Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve 
-Haluk Nami Nomer’in öğretileri ekseninde incelenmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde irade özerkliği (Privatautonomie) ilkesinin temeli,

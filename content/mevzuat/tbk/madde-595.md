@@ -32,10 +32,6 @@ borçlunun kusuru sonucunda kefil için mevcut tehlike, kefaletin yapıldığı 
 
 ### Akademik Yorum ve Analiz
 
-*(Önemli Not: Aşağıdaki şerh ve analiz, tarafıma sunduğunuz kaynak metinlerde yer alan yasal düzenlemeler [1], [2] temel alınarak hazırlanmıştır. Talebiniz üzerine metne dâhil edilen İsviçre Borçlar Kanunu (OR) mukayeseleri, spesifik Yargıtay içtihat özetleri ve Fikret Eren, Kemal Oğuzman gibi yazarların doktrinel tartışmalarına ilişkin detaylar, sunulan kaynakların kapsamı dışında kalan ek bilgilerdir. Bu kısımları bağımsız hukuki kaynaklardan teyit etmeniz önerilir.)*
-
-***
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun (TBK) 15. Bölümünde yer alan Kefalet Sözleşmesi başlığı altındaki düzenlemeler, sistematik olarak "Kefil ile Alacaklı" (dış ilişki) ve "Kefil ile Borçlu" (iç ilişki) olmak üzere iki ana eksene ayrılmıştır. Kefalet sözleşmesi, esasen kefil ile alacaklı arasında kurulan ve borçlunun ifa etmemesi riskini teminat altına alan bir sözleşmedir [3]. Ancak kefil ile asıl borçlu arasında da çoğu zaman vekâlet (TBK m. 502 vd.) veya vekâletsiz işgörme (TBK m. 526 vd.) hükümlerine dayanan bir iç ilişki bulunur.

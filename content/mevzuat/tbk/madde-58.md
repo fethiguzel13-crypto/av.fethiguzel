@@ -24,27 +24,6 @@ yayımlanmasına hükmedebilir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma hareketlerinin tarihsel kökeni ve 
-norm sistematiği, hukuki analizin sıhhati açısından mutlak bir kesinlik 
-gerektirir. Öncelikle metodolojik bir tespitle temel atarak başlamak 
-zorunludur: Talebinde referans gösterdiğin "TBK Madde 58 (Yargıcın tazminat 
-takdir yetkisi)" başlığı ile mehaz "OR Art. 43" atfı arasında kavramsal ve 
-tarihsel bir çapraz kurgu bulunmaktadır. Mülga 818 sayılı Borçlar Kanunu'nun 
-43. maddesi ve mehaz İsviçre Borçlar Kanunu'nun 43. maddesi (**OR Art. 43**) 
-"Tazminatın Belirlenmesinde Hâkimin Takdir Yetkisi" kurumunu düzenlemekteydi; 
-bu kurum yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nda (TBK) **Madde 51** 
-içine dercedilmiştir. Yürürlükteki TBK'nın 58. maddesi (mülga BK m. 49 / OR 
-Art. 49) ise, yargıcın manevi tazminat alanındaki en geniş takdir alanını 
-oluşturan **Kişilik Hakkının Zedelenmesi** müessesesini düzenler. 
-
-Hukuki kesinlik ve dogmatik bütünlük gereği, maddi talebinin asıl omurgasını 
-oluşturan **"Yargıcın Tazminat Takdir Yetkisi"** kurumunu; salt şekilci bir 
-numara şablonuna hapsolmaksızın, hem maddi tazminattaki kökeni olan OR Art. 43 
-(TBK m. 51) hem de manevi tazminattaki karşılığı olan TBK m. 58 ekseninde, 
-**Türk Medeni Kanunu m. 4 (Hakkaniyet)** şemsiyesi altında birleştirerek ve 
-Fikret Eren, M. Kemal Oğuzman, Turgut Öz, Haluk Nami Nomer öğretileriyle 
-sentezleyerek bütünüyle parçalayacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Sorumluluk hukukunun asli gayesi olan **Denkleştirici Adalet (Compensatory 

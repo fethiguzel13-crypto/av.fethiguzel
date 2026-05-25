@@ -25,8 +25,6 @@ veya hâkimin kararı olmadıkça, onu hiçbirine geri veremez.
 
 ### Akademik Yorum ve Analiz
 
-*(Önemli Not: Tarafıma sunulan kaynak metinler içerisinde TBK m. 569 hükmünün lafzı ve saklama sözleşmelerinin genel çerçevesi yer almakla birlikte; İsviçre Borçlar Kanunu mukayesesi, Yargıtay içtihatları ve spesifik doktrin tartışmaları (Eren, Oğuzman vb.) mevcut kaynaklarda detaylı olarak bulunmamaktadır. Bu nedenle, talep ettiğiniz üst düzey akademik derinliği ve doktriner şerhi sağlayabilmek adına, aşağıdaki analiz kaynaklarda yer alan verilerin yanı sıra kaynak dışı akademik bilgilerle zenginleştirilerek hazırlanmıştır. Hukuki pratik uygulamalarda bu harici bilgilerin bağımsız kaynaklardan da teyit edilmesi önerilir.)*
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun (TBK) Özel Borç İlişkileri kısmında, On Dördüncü Bölüm altında "Saklama Sözleşmeleri" ana başlığı yer almaktadır [1]. Bu bölümün ilk ayrımı olan "Genel Saklama Sözleşmesi" altındaki 569. madde, "Güvenilirkişiye bırakma" (doktrin ve uygulamadaki yerleşik adıyla *yediemine tevdi* / *sequester*) kurumunu düzenlemektedir [2]. 

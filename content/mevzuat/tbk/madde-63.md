@@ -26,23 +26,6 @@ zorunluluk hâllerinde de fiil, hukuka aykırı sayılmaz.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde norm numaralarının ve mehaz kanun atıflarının 
-taşıdığı mutlak öneme binaen, analize metodolojik bir düzeltme ile başlamak 
-elzemdir. Talebinizde "TBK Madde 63 (Sebepsiz zenginleşme — iade yükümlülüğü)" 
-başlığı ve mehaz "OR Art. 63" atfı yer almaktadır. Ancak yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 63. maddesi, haksız fiil sorumluluğunda 
-"Hukuka Uygunluk Nedenleri" kurumunu düzenlemektedir. Talebinizin özünü 
-oluşturan, mehaz İsviçre Borçlar Kanunu'nun 63. maddesinde (**OR Art. 63**) ve 
-mülga 818 sayılı BK m. 62'de düzenlenen **Borçlanılmamış Şeyin İfası (Condictio
-Indebiti)** ve iade yükümlülüğü kurumu, yürürlükteki 6098 sayılı TBK 
-sistematiğinde **Madde 78** başlığı altında kodifiye edilmiştir. Zenginleşmenin
-geri verilmesinin kapsamı (OR Art. 64 / mülga BK m. 63) ise **TBK Madde 79**'da
-düzenlenmiştir. Bilimsel kesinlik ve metodoloji gereği, sebepsiz zenginleşmede 
-iade yükümlülüğü müessesesini, mehaz OR Art. 63 ile kurduğunuz bağ ekseninde, 
-kanuni karşılığı olan **TBK Madde 78 ve 79** hükümleri üzerinden, Fikret Eren, 
-M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ışığında bütünüyle 
-parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Özel hukukta malvarlıkları arasındaki her türlü değer kaymasının (geçişinin) 

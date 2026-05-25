@@ -24,25 +24,6 @@ sona ermiş bir sebebe dayanması durumunda doğmuş olur.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve akademik 
-titizliğin bir gereğidir. Talebinizde referans gösterdiğiniz "TBK Madde 77 
-(Takas — takas hakkı ve şartları)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun
-120. maddesine (**OR Art. 120**) yapılan atıf arasında numaralandırma bazlı bir
-sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 77.
-maddesi, borç ilişkisinin kaynaklarından biri olan "Sebepsiz Zenginleşme" 
-kurumunu düzenlemektedir. Talebinizin maddi özünü oluşturan, mülga 818 
-sayılı BK m. 118 ve mehaz OR Art. 120'de yer alan **Takas (Verrechnung / 
-Set-off)** müessesesi, 6098 sayılı TBK sistematiğinde **Madde 143** başlığı 
-altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinizin omurgasını oluşturan 
-takas kurumunu, mehaz OR Art. 120 ile kurduğunuz bağ ekseninde, kanuni 
-karşılığı olan **TBK Madde 143** hükmü üzerinden; Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile genel borçlar hukuku 
-dogmatiği ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde borcu sona erdiren sebeplerin başında ifa 

@@ -22,27 +22,6 @@ kişilere karşı ileri sürülebilir.
 
 ### Akademik Yorum ve Analiz
 
-(Satımda gizli ayıp ve muayene ihbar yükümlülüğü)” ifadeleri ile mehaz “İsviçre
-Borçlar Kanunu (OR) Art. 201” zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 185. maddesi (Mülga 
-818 sayılı BK m. 164; Mehaz OR Art. 166) borçlar hukuku genel hükümlerinde yer
-alan "Alacağın Devrinde Yasal ve Yargısal Devir (Kanuni ve Kazai Temlik)" 
-kurumunu düzenlemektedir. Başlıkta konusuna ve mehazına (OR Art. 201) atıf 
-yapılan "Satımda Gizli Ayıp ve Muayene/İhbar Külfeti" müessesesi ise mülga BK 
-m. 198'in karşılığı olup, güncel TBK m. 223'te (Alıcının Gözden Geçirme ve 
-Satıcıya Bildirme Külfeti) düzenlenmektedir. Borçlar hukuku dogmatiğinde; satım
-sözleşmelerinde gizli veya açık ayıpların tespitine yönelik külfetlerin 
-işletilmesi ile, bu ayıptan doğan tazminat veya bedel indirimi alacaklarının 
-kanun (örneğin sigorta halefiyeti) veya yargı kararı yoluyla üçüncü kişilere 
-(yasal devir) intikal etmesi senaryoları birbiriyle organik bir biçimde 
-kesişmektedir. Bu akademik şerhte, norm numarası olarak anılan "Yasal ve 
-Yargısal Devir (TBK m. 185)" kuralı ile, maddi hukuk talebinin konusunu ve 
-mehazını oluşturan "Satımda Gizli Ayıp ve İhbar Yükümlülüğü (TBK m. 223 / OR 
-Art. 201)" kurumları sentezlenmiş; alıcının ayıp ihbar külfetini yerine 
-getirmesinin yasal yolla devredilen alacaklara etkisi, Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer’in öğretileri ekseninde sistematik bir 
-bütünlük içerisinde değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar Hukukunda tam iki tarafa borç yükleyen (sinallagmatik) sözleşmelerin 

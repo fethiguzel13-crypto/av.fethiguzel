@@ -23,29 +23,6 @@ etmedikçe, borcun geç ifasından dolayı alacaklının uğradığı zararı gi
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın gereğidir. İnceleme talebinde referans gösterilen "TBK 
-Madde 118" başlığı, yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 
-genel hükümlerinde, borçlu temerrüdünün en ağır sonuçlarından biri olan 
-**"Beklenmedik Hâlden Sorumluluk"** kurumunu düzenlemektedir. İncelemenin maddi
-özünü oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR Art. 322 ve devamı) 
-atıfla talep edilen **"İşverenin Ücret Ödeme ve Güvenli Çalışma Ortamı Sağlama 
-Borçları"** müessesesi ise, Özel Hükümler sistematiğinde sırasıyla **TBK Madde 
-401** ve **TBK Madde 417** başlıkları altında kodifiye edilmiştir. 
-
-Sistemde yer alan kaynaklar ağırlıklı olarak genel işlem koşulları, ifa 
-engelleri, haksız fiil sorumluluğu, adam çalıştıranın sorumluluğu, bedensel 
-zararların tazmini, müterafik kusur ve destekten yoksun kalma tazminatı 
-konularına odaklanmaktadır. Bu incelemede, işverenin işçiyi koruma ve 
-güvenli çalışma ortamı sağlama borcunu (TBK m. 417) ve ücret ödeme borcunu (TBK
-m. 401) genel hükümlerdeki **TBK m. 118 (Beklenmedik Hâlden Sorumluluk)** ve 
-**TBK m. 117 (Temerrüt)** mekanizmalarıyla kapsamlı bir dogmatik diyalektik 
-içinde sentezleyeceğiz. İşverenin iş sağlığı ve güvenliği önlemlerini almayarak
-temerrüde düşmesi hâlinde, meydana gelen bir iş kazasındaki beklenmedik 
-hâllerden dahi nasıl sorumlu tutulacağını bu sistematik bağlamda ele alacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku mimarisinde hizmet sözleşmesi, işçinin işverene bağımlı olarak 

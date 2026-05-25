@@ -27,10 +27,6 @@ teamüller saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-**ÖNEMLİ BİLGİLENDİRME:** Tarafıma sunulan kaynak metinlerde Türk Borçlar Kanunu Madde 233’e ilişkin yalnızca kanunun lafzi metni yer almaktadır [1, 2]. Talebiniz doğrultusunda son derece detaylı, akademik kalitede bir şerh oluşturabilmek amacıyla; aşağıdaki doktriner tartışmalar, İsviçre Borçlar Kanunu (OR) mukayeseleri, Yargıtay içtihatları ve teorik analizlerin tamamı **sunulan kaynaklar dışındaki ek bilimsel hukuki bilgilerden** derlenmiştir. Hukuki güvenliğiniz açısından bu harici bilgileri bağımsız olarak teyit etmeniz önerilir.
-
-***
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun "Özel Borç İlişkileri"ni düzenleyen İkinci Kısmının, Birinci Bölümü "Satış Sözleşmesi"ne ayrılmıştır [3]. TBK m. 233 hükmü, bu bölümün Birinci Ayırımında (Genel Hükümler), "Alıcının Borçları" üst başlığı altında "Satış bedelinin belirlenmesi" kenar başlığıyla sistematize edilmiştir [1, 2].

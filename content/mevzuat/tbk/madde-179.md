@@ -28,19 +28,6 @@ sona erdirmeye yetkili olduğunu ispat etme hakkı saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-(Sözleşmelerde şekle aykırılık yaptırımı)” ifadeleri ile mehaz İsviçre Borçlar 
-Kanunu (OR) Art. 11 zikredilmiştir. Türk Özel Hukuku sistematiğinde 
-sözleşmelerin şekli, şekil serbestisi ilkesi ve şekle aykırılığın yaptırımı 
-6098 sayılı Türk Borçlar Kanunu’nun (TBK) 12. maddesinde (mülga 818 sayılı BK 
-m. 11; Mehaz OR Art. 11) düzenlenmektedir. Başlıkta norm numarası 
-olarak anılan TBK m. 179 hükmü ise (Mehaz OR Art. 163) "Ceza Koşulunun 
-Miktarı, Geçersizliği ve İndirilmesi" kurumunu ihtiva etmektedir. Bu akademik 
-şerhte, maddi hukuk talebinin özünü oluşturan "Sözleşmelerde Şekle Aykırılık ve
-Yaptırımı" (TBK m. 12 / OR Art. 11) müessesesi ile başlıkta numarası anılan 
-"Ceza Koşulunun Geçersizliği" (TBK m. 179) kurumu, dogmatik bir bütünlük ve 
-"fer'ilik (bağlılık)" ilkesi çerçevesinde; Fikret Eren, M. Kemal Oğuzman, 
-Turgut Öz ve Haluk Nami Nomer’in öğretileri ekseninde incelenmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinin temelini oluşturan irade özerkliği 

@@ -25,25 +25,6 @@ hayvanı bulunduranın, bu kişilere rücu hakkı saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının ve mehaz 
-kanun atıflarının taşıdığı mutlak öneme binaen, analize temel bir metodolojik 
-düzeltme ile başlamak hukuki sıhhatin ve akademik titizliğin bir gereğidir. 
-Talebinde referans gösterdiğin "TBK Madde 67 (Borç kaynağı olarak hukuki ilişki
-— sözleşme dışı sorumluluk)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 41. 
-maddesine (**OR Art. 41**) yapılan atıf arasında kavramsal ve numaralandırma 
-bazlı bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun
-(TBK) 67. maddesi, kusursuz sorumluluk hallerinden biri olan "Adam Çalıştıranın
-Sorumluluğunda Rücu Hakkı" kurumunu düzenlemektedir. Talebinin özünü 
-oluşturan, mülga 818 sayılı BK m. 41 ve mehaz OR Art. 41'de yer alan **Sözleşme
-Dışı Sorumluluk (Haksız Fiil Sorumluluğunun Genel Kuralı)** müessesesi, 6098 
-sayılı TBK sistematiğinde **Madde 49** başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinin özünü oluşturan haksız 
-fiil genel sorumluluk kuralını, mehaz OR Art. 41 ile kurduğun bağ ekseninde, 
-kanuni karşılığı olan **TBK Madde 49** hükmü üzerinden, Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile kaynaklarındaki doktriner
-tartışmalar ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde borç ilişkisinin kaynakları klasik olarak sözleşme,

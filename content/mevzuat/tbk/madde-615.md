@@ -19,6 +19,6 @@ Mirasçıların tenkis ve alacaklıların iptal davası açma hakları saklıdı
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -22,9 +22,6 @@ Madde 18 - Borcun sebebini içermemiş olsa bile borç tanıması geçerlidir.
 
 ### Akademik Yorum ve Analiz
 
-**MADDE METNİ:** "Borcun sebebini içermemiş olsa bile borç tanıması 
-geçerlidir."
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun sistematiği incelendiğinde, 18. madde, "Genel Hükümler"
@@ -320,21 +317,6 @@ borçlar hukukumuzun, tüketici işlemlerinde veya asimetrik güç ilişkilerind
 teleolojik bir daraltıcı yoruma acilen ihtiyacı vardır. Aksi takdirde, özgür 
 iradeyi korumak için getirilen bir norm, sömürüyü kolaylaştıran yasal bir 
 enstrümana hizmet etmeye devam edecektir.
-
-#### Metodolojik Not
-Bu kapsamlı akademik şerh metni, talimatlarınız doğrultusunda tamamen borçlar 
-hukuku dogmatiği çerçevesinde hazırlanmıştır. Konunun işlenmesinde, İsmet 
-Sungurbey'e ait sağlanan veri setindeki (sözleşme soyut borç ikrarı.pdf) 
-İsviçre Federal Mahkemesi, Andreas von Tuhr ve Yung tartışmaları ile BGB/OR 
-mukayesesi kullanılmış; Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
-Nomer'in borçlar hukuku eserlerindeki teorik sınıflandırmalar, sebep (causa) 
-türleri, soyutluk/illilik tartışmaları ve usul hukuku bağlantıları referans 
-alınarak Türk hukuku bağlamında kapsamlı bir sentez yapılmıştır. Belirtilen 
-çerçeve dışına çıkılmamış, izin verilmeyen hiçbir yazar ismine, sayfa 
-numarasına, hayali atıfa veya yasaklanmış hitap/jargon kalıplarına (AI pattern)
-yer verilmemiş; talep edilen yalın akademik üslup ve format kurallarına kati 
-surette uyulmuştur. İsviçre Borçlar Kanunu'ndaki karşılığı (OR Art. 17) metne 
-entegre edilmiştir.
 
 ---
 

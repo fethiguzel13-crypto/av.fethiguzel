@@ -21,20 +21,6 @@ cayarsa aldığının iki katını geri verir.
 
 ### Akademik Yorum ve Analiz
 
-(İrade sakatlıkları genel — yanılma hile korkutma)” ifadeleri ile mehaz İsviçre
-Borçlar Kanunu (OR) Art. 23 zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde "İrade Bozuklukları" (Yanılma, Aldatma ve Korkutma) 6098 sayılı 
-Türk Borçlar Kanunu’nun (TBK) 30 ila 39. maddelerinde (Mehaz OR Art. 23 vd.) 
-düzenlenmektedir. Başlıkta norm numarası olarak anılan TBK m. 178 hükmü 
-ise, asıl borcun ifa edilmemesi hâlinde alacaklıya ifa veya ceza talep etme 
-yetkisi veren "Ceza Koşulu (Seçimlik Ceza)" kurumunu ihtiva etmektedir. Bu 
-akademik şerhte, maddi hukuk talebinin özünü oluşturan "İrade Bozuklukları 
-(Yanılma, Hile, Korkutma)" müessesesi, Fikret Eren, M. Kemal Oğuzman, Turgut Öz
-ve Haluk Nami Nomer’in öğretileri ekseninde incelenmiş; irade bozukluğu 
-sebebiyle sözleşmenin iptal edilmesinin, TBK m. 178'de düzenlenen "Ceza Koşulu"
-gibi fer'i (bağlı) haklara olan dogmatik etkisi de sistematik bütünlük 
-içerisinde değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinin temelini oluşturan irade özerkliği 

@@ -24,23 +24,6 @@ yerine önceki devralanlardan birine iyiniyetle ifada bulunarak borcundan kurtul
 
 ### Akademik Yorum ve Analiz
 
-(Satımda zamanaşımı — 2 yıllık süre)” ifadeleri ile mehaz “OR Art. 210” 
-zikredilmiştir. Ne var ki, Türk Özel Hukuku sistematiğinde 6098 sayılı Türk 
-Borçlar Kanunu’nun (TBK) 186. maddesi (Mehaz İsviçre Borçlar Kanunu - OR Art. 
-167) “Alacağın Devrinde Borçlunun İyiniyetle İfası” kurumunu düzenlemektedir. 
-Başlıkta mehaz olarak gösterilen OR Art. 210 ise, mülga 818 sayılı BK m. 
-207’nin karşılığı olup, güncel TBK m. 231’de yer alan “Satıcının Ayıptan 
-Sorumluluğunda Zamanaşımı (2 Yıllık Süre)” kurumunun mehazıdır. Borçlar hukuku 
-dogmatiğinde satıcının ayıptan sorumluluğu ile alacağın devri kurumları, 
-özellikle "ayıptan doğan garanti taleplerinin üçüncü kişilere devredilmesi ve 
-ifası" senaryolarında organik bir biçimde kesişmektedir. Bu akademik şerhte, 
-maddi hukuk talebinin özünü oluşturan "Satımda Ayıptan Sorumlulukta Zamanaşımı"
-(TBK m. 231 / OR Art. 210) müessesesi kuramsal temelleriyle incelenmiş; 
-başlıkta numarası anılan "Alacağın Devrinde İyiniyetle İfa (TBK m. 186)" kurumu
-ise, devredilen ayıp taleplerinin ifası bağlamında, Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer’in öğretileri ekseninde sistematik bir 
-bütünlük içerisinde değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde tam iki tarafa borç yükleyen sözleşmelerin modeli 

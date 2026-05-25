@@ -21,21 +21,6 @@ Madde 54 - Bedensel zararlar özellikle şunlardır:
 
 ### Akademik Yorum ve Analiz
 
-Öncelikle metodolojik ve dogmatik bir tespitle temel atarak başlamak 
-zorunludur. Talebinizde "TBK Madde 54 (Kişilik hakkı ihlalinde tazminat)" 
-başlığını ve mehaz İsviçre Borçlar Kanunu'nun 49. maddesini (**OR Art. 49**) 
-referans göstermiş olsanız da; mülga 818 sayılı Borçlar Kanunumuzun 49. 
-maddesinde (ve mehaz OR Art. 49'da) yer alan "Şahsiyet hakkının zedelenmesi / 
-manevi tazminat" kurumu, yürürlükteki 6098 sayılı Türk Borçlar Kanunu (TBK) 
-sistematiğinde **Madde 58 (Kişilik hakkının zedelenmesi)** başlığı altına 
-taşınarak kodifiye edilmiştir. Yeni TBK m. 54 hükmü ise "Bedensel Zararlar" 
-(maddi tazminat) kurumunu düzenlemektedir. Hukuki kesinlik ve bilimsel 
-metodoloji gereği, maddi talebinizin özünü oluşturan "Kişilik hakkı ihlalinde 
-tazminat" müessesesini, mehaz OR Art. 49 ile organik bağını kurarak ve doğru 
-kanuni zemin olan **TBK Madde 58** ekseninde, Fikret Eren, M. Kemal Oğuzman, 
-Turgut Öz ve Haluk Nami Nomer öğretileri ışığında bütünüyle parçalayarak analiz
-edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde haksız fiil sorumluluğunun asli gayesi, bir 

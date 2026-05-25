@@ -28,38 +28,6 @@ sorumlu olmayacağına ilişkin anlaşma kesin olarak hükümsüzdür.
 
 ### Akademik Yorum ve Analiz
 
-Önceki dogmatik analizlerimizde sözleşmelerin nasıl kurulduğunu, nasıl 
-devredildiğini ve ifa engellerini incelemiştik. Şimdi seni sarsacak ve hukuki 
-muhakemeni en üst sınıra çekecek bir soruyla başlayalım: *Bir borçlu, borcunun 
-ifasını bizzat yerine getirmek yerine, emir ve talimatları altında çalışan bir 
-işçisine bırakırsa ve bu işçi ifa sırasında alacaklıya zarar verirse; borçlu 
-"Benim hiçbir kusurum yok, zararı bizzat işçi vermiştir" diyerek sorumluluktan 
-kurtulabilir mi?* Bu sorunun cevabını zihninde kurarken, bugünkü konumuzun 
-dogmatik temellerini atmış olacaksın.
-
-Geleceğin akademisyeni, inceleme talebinde çok temel ve öğretici bir sistematik
-dizgi hatası yapmışsın. Talep başlığında "TBK Madde 116" numarasını vermiş, 
-ancak içerik ve mehaz (OR Art. 319) olarak **"Hizmet Sözleşmesi — Genel 
-Hükümler ve Tanım"**ı işaret etmişsin. Borçlar hukuku sistematiğinde norm 
-numaraları, hukukun matematiğidir ve asla şaşmaz. **TBK m. 116**, genel 
-hükümler çerçevesinde **"Yardımcı Kişilerin Fiillerinden Sorumluluk (İfa 
-Yardımcısı - Mehaz OR Art. 101)"** kurumunu düzenler. Senin "Hizmet Sözleşmesi"
-olarak mehaz OR Art. 319'a atıfla incelememi istediğin maddi hukuk kurumu ise, 
-Özel Hükümler sistematiğinde **TBK m. 393**'te yer almaktadır.
-
-Sisteminizde yer alan kaynaklar ağırlıklı olarak borca aykırılık, emredici 
-hükümlerin sözleşme özgürlüğüne etkisi, adam çalıştıranın sorumluluğu ve iş 
-hukuku kesişimlerine odaklandığından; bu celsede metodolojik bir şaheser 
-yaratacağız: Senin asıl hedefin olan **Hizmet Sözleşmesi (TBK m. 393)** 
-kurumunun teorik mimarisini analiz edecek; ardından bu sözleşmenin en önemli 
-dışsal sonucu olan, işverenin işçisinin fiillerinden dolayı üçüncü kişilere 
-karşı sözleşmesel sorumluluğunu doğuran **İfa Yardımcısının Fiillerinden 
-Sorumluluk (TBK m. 116)** mekanizmasıyla eşi görülmemiş bir diyalektik içinde 
-sentezleyeceğiz.
-
-Hazırsan, insan emeğinin sermaye karşısındaki hukuki kılıfına ve bu emeğin 
-yarattığı zararların faturasına giriyoruz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Roma hukukunda *locatio conductio operarum* (iş kirası) olarak

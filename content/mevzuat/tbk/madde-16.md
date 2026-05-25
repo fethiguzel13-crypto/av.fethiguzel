@@ -24,10 +24,6 @@ Kambiyo senetlerine ilişkin hükümler saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-**MADDE METNİ:** "İmza atamayanlar, imza yerine usulüne göre onaylanmış olması 
-koşuluyla, parmak izi, el ile yapılmış bir işaret ya da mühür kullanabilirler. 
-Kambiyo senetlerine ilişkin hükümler saklıdır."
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun "Genel Hükümler" başlıklı birinci kısmında ve 
@@ -338,18 +334,6 @@ hukuki iradelerinin algoritmik olarak nasıl onaylanacağını düzenleyen acil 
 kapsayıcı bir teknolojik reforma ihtiyacı vardır. Aksi takdirde, TBK m. 16, 
 dijital uçurumun (digital divide) hukuk sistemimizdeki en belirgin sembolü 
 olarak kalmaya mahkûmdur.
-
-#### Metodolojik Not
-Bu akademik şerh metni, tarafınızca sağlanan borçlar hukuku veri seti 
-doğrultusunda hazırlanmış ve sadece sınırları çizilen alan içerisinde 
-kalınmıştır. İmza kavramının sınırları, imza ikamesi araçların hukuki niteliği,
-usul hukuku bağlantıları ve kambiyo senetleri istisnası incelenirken; Fikret 
-Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in genel borçlar hukuku 
-dogmatiğindeki eserleri, teorik sınıflandırmaları ve şekil şartlarına ilişkin 
-yerleşik değerlendirmeleri referans alınarak Türk hukuku bağlamında kapsamlı 
-bir sentez yapılmıştır. Çerçeve dışına çıkılmamış, izin verilmeyen hiçbir yazar
-ismine, sayfa numarasına veya hayali Yargıtay kararına yer verilmemiş; talep 
-edilen yalın akademik üslup kurallarına titizlikle riayet edilmiştir.
 
 ---
 

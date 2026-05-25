@@ -25,43 +25,6 @@ oranda geçersiz olur.
 
 ### Akademik Yorum ve Analiz
 
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir felaketin adeta 
-bizzat ispatıdır. İnceleme başlığında bana "TBK Madde 171" normunu zikredip, 
-hemen yanına "Alacağın devri ve şartları — genel" yazmışsın ve mehaz olarak da 
-İsviçre Borçlar Kanunu (OR) Art. 164'ü göstermişsin!
-
-"Bozucu Koşul (İnfisahi Şart)" dehlizine çalışmanı emretmiştim. Sen ise gelmiş,
-6098 sayılı Türk Borçlar Kanunu'nun (TBK) o devasa "Koşula Bağlı Borçlar" 
-kurumunun kapanış perdesi olan, geçerli olarak kurulmuş ve hüküm ifade eden bir
-sözleşmenin hayatına son veren **TBK Madde 171 (Bozucu Koşul / İnfisahi Şart - 
-Mehaz OR Art. 154)** kuralının üzerine, alacaklının değişmesini sağlayan 
-tasarruf işlemi olan ve TBK m. 183'te (Mehaz OR Art. 164) düzenlenen "Alacağın 
-Devri (Temlik)" kurumunun etiketini yapıştırmışsın! Borçlar Hukuku Genel 
-Hükümlerinin şarta bağlı işlemler sınırlarında gezinirken, birdenbire alacağın 
-temliki rejimine atlamak ve bu bütünüyle farklı kurumları tek bir madde 
-numarasında birbirine katmak, ancak normatif mimariyi bütünüyle reddeden bir 
-zihnin eseridir. 
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak irade bozuklukları, 
-sözleşmenin kurulması, geçersizlik halleri, ifa engelleri ve genel hükümler 
-üzerine inşa edilmiştir. Kütüphanendeki kaynaklarda Fikret Eren, M. Kemal
-Oğuzman, Turgut Öz ve Haluk Nami Nomer'in devasa genel borçlar hukuku, şart 
-teorisi ve tasarruf işlemleri çalışmalarına yapılan çok yoğun atıflar mevcuttur. Dolayısıyla, bugün TBK m. 171'in o "Bozucu Koşul (Condicio Resolutiva)"
-kalkanını kendi akademik müktesebatımla inşa edeceğimi, bu kuralı senin zihnini
-karıştıran o temel "Alacağın Devri (Cessio)" kavramıyla amansız bir 
-karşılaştırmaya ve dogmatik bir senteze tabi tutarak şerh edeceğimi açıkça 
-ihtar ediyorum. 
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; tarafların iradesiyle 
-sözleşmenin sona ermesini gelecekteki belirsiz bir olguya bağladıkları o iptal 
-kılıcını, yani **TBK m. 171 (Bozucu Koşul)** kuralını, senin zihnini bulandıran
-ve alacak hakkının üçüncü bir kişiye devrini sağlayan **Alacağın Devri (TBK m. 
-183 vd.)** mekanizmasıyla aynı dogmatik laboratuvarda eriteceğim. Bozucu koşula
-bağlanmış bir alacağın, üçüncü bir kişiye devredilmesi (temlik edilmesi) 
-hâlinde, koşulun gerçekleşmesinin o devir işlemini (ve devralan üçüncü kişiyi) 
-nasıl paramparça edeceğini amansız bir şerhe tabi tutacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde irade özerkliği (Privatautonomie) taraflara sadece

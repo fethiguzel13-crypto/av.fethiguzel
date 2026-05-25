@@ -32,15 +32,6 @@ yetinilir.
 
 ### Akademik Yorum ve Analiz
 
-Türk Borçlar Kanunu sistematiğinde irade bozuklukları incelenirken, TBK m. 31 
-esaslı yanılma (hata) hâllerini düzenlemekte olup; konumuz olan **Aldatma 
-(Hile)** müessesesi, mülga 818 sayılı Borçlar Kanunu m. 28 ve mehaz İsviçre 
-Borçlar Kanunu (**OR Art. 28**) hükümlerinin karşılığı olarak 6098 sayılı TBK 
-m. 36’da düzenlenmiştir. Bu dogmatik çalışmada, TBK m. 36 ekseninde "Aldatma 
-(Hile) Sebebiyle Sözleşmenin İptali" kurumu makro ve mikro düzeyde, doktrindeki
-temel eserler (Eren, Oğuzman/Öz, Nomer) ışığında bütünüyle parçalanarak tahlil 
-edilecektir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinin en temel prensibi olan **Sözleşme Özgürlüğü** ve 
@@ -74,7 +65,7 @@ iradesinin dokunulmazlığını (volonte interne) üstün tutmuştur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-Bilgiyi kalıcı hâle getirmek ve karmaşık şartları zihne çivilemek adına, 
+Bilgiyi kalıcı hâle getirmek ve karmaşık şartları akılda kalıcı kılmak adına, 
 aldatma (hile) kurumunun kurucu unsurlarını **H-İ-L-E** akronimi üzerinden 
 görselleştirerek analiz edeceğiz:
 

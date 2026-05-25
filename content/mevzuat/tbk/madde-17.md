@@ -25,15 +25,6 @@ ilişkin hükümler uygulanır.
 
 ### Akademik Yorum ve Analiz
 
-**6098 Sayılı Türk Borçlar Kanunu Madde 17 (İradi Şekil) Üzerine Akademik 
-Şerh**
-
-**MADDE METNİ:** "Kanunda şekle bağlanmamış bir sözleşmenin taraflarca belirli 
-bir şekle bağlı olarak yapılması kararlaştırılmışsa, belirlenen şekilde 
-yapılmayan sözleşme tarafları bağlamaz. Herhangi bir belirleme olmaksızın 
-yazılı şekil kararlaştırılmışsa, yasal yazılı şekle ilişkin hükümler 
-uygulanır."
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun sistematiği incelendiğinde, 17. madde, "Genel Hükümler"
@@ -337,18 +328,6 @@ kurban edilmesine yol açmaktadır. Bu itibarla, borçlar hukuku öğretisinin z
 feragat olgusunu daha somut, öngörülebilir ve objektif kriterlere bağlayan, 
 kısmi ifa hâllerinde sözleşmenin sadece ifa edilen kısmıyla ayakta kaldığı 
 "kısmi geçerlilik" gibi daha rafine teorik modeller geliştirmesi zorunludur.
-
-#### Metodolojik Not
-Bu akademik şerh metni, tarafınızca sınırları çizilen borçlar hukuku doktrini 
-doğrultusunda hazırlanmıştır. İradi şekil kavramının sınırları, geçerlilik 
-karinesi, ispat şekli ayrımı ve usul hukuku bağlantıları incelenirken sadece 
-Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in borçlar hukuku 
-dogmatiğindeki eserleri, teorik sınıflandırmaları ve şekil şartlarına ilişkin 
-değerlendirmeleri referans alınarak Türk hukuku bağlamında kapsamlı bir sentez 
-yapılmıştır. İncelenen TBK madde 17'nin mehazı, İsviçre Borçlar Kanunu (OR) 
-Art. 16 hükmüdür. Çerçeve dışına çıkılmamış, izin verilmeyen hiçbir yazar 
-ismine, sayfa numarasına veya hayali Yargıtay kararına yer verilmemiş; talep 
-edilen yalın akademik üslup kurallarına kati surette uyulmuştur.
 
 ---
 

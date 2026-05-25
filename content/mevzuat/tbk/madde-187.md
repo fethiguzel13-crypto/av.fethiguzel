@@ -25,26 +25,6 @@ ise, taraflardan her biri borçluyu, edimi tevdi etmeye zorlayabilir.
 
 ### Akademik Yorum ve Analiz
 
-Madde 187 (Taşınmaz satımında özel düzenlemeler)” ibaresi ile mehaz “İsviçre 
-Borçlar Kanunu (OR) Art. 216” zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) Özel Hükümler kısmında
-yer alan ve taşınmaz satışında şekil ile özel düzenlemeleri ihtiva eden norm 
-TBK m. 237’dir (Mülga 818 sayılı BK m. 213; Mehaz OR Art. 216). Başlıkta norm 
-numarası olarak anılan TBK m. 187 hükmü ise (Mehaz OR Art. 170) borçlar hukuku
-genel hükümlerinde "Alacağın Devrinde Hakların ve Senetlerin Geçişi" (Fer'i 
-hakların intikali) kurumunu düzenlemektedir. Borçlar hukuku dogmatiğinde, 
-taşınmaz satışına ve taşınmaz devir borcuna ilişkin hakların (nispi hakların) 
-üçüncü kişilere devredilmesi senaryolarında, bu iki kurum (Taşınmaz Satışında 
-Şekil ve Alacağın Devri) birbiriyle organik bir biçimde kesişmektedir. Bu 
-şerhte, maddi hukuk talebinin özünü oluşturan "Taşınmaz Satışında Şekil ve Özel
-Düzenlemeler" (TBK m. 237 / OR Art. 216) müessesesi kuramsal temelleriyle 
-incelenmiş; başlıkta numarası anılan "Alacağın Devrinde Fer'i Hakların Geçişi 
-(TBK m. 187)" kurumu ise, taşınmaz devir borcunun ve fer'i haklarının üçüncü 
-kişilere temliki (özellikle arsa payı karşılığı inşaat sözleşmelerinde 
-yüklenicinin temliki) bağlamında, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve 
-Haluk Nami Nomer’in öğretileri ekseninde sistematik bir bütünlük içerisinde 
-değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar Hukukuna egemen olan temel ilke şekil serbestisidir (TBK m. 12). 

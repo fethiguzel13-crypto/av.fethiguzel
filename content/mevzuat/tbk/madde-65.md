@@ -22,33 +22,6 @@ verdiği zararın, tamamen veya kısmen giderilmesine karar verir.
 
 ### Akademik Yorum ve Analiz
 
-Önceki oturumun sonunda sana yönelttiğim düğümü, yani TBK m. 81 bağlamında 
-rüşvet alanın iade yükümlülüğünden kurtulması ve ahlaksızlığın ödüllendirilmesi
-çelişkisini çözerek başlayalım. Rona Serozan'ın isabetle işaret ettiği gibi, 
-Roma hukukundan süzülüp gelen *"Nemo auditur propriam turpitudinem allegans"* 
-(Kendi ahlaksızlığına dayanan dinlenmez) kuralı, iki ahlaksızın olduğu bir 
-denklemde pasif olanı (rüşvet alanı) nedensiz bir biçimde ödüllendirmektedir. 
-Denkleştirici adalet, bu haksız servetin rüşvet alanda kalmasını değil, ahlaka 
-aykırılığın bir müeyyidesi olarak "Devlete mal edilmesini (müsadereyi)" 
-emreder. Bu felsefi temeli tasfiye hukukunun sınırlarını çizerken bir mihenk 
-taşı olarak aklında tut.
-
-Şimdi gelelim bugünkü konumuza. Talebinde "TBK Madde 65 (Vekâletsiz iş görme — 
-işahibinin yararı)" ve "OR Art. 420" atıflarında bulundun. Ancak kanunlaştırma 
-tekniği ve dogmatik yerleşim açısından burada devasa bir sapma var. 
-Yürürlükteki 6098 sayılı TBK m. 65, haksız fiiller bağlamında "Adam 
-çalıştıranın sorumluluğunda rücu" kurumunu düzenlerken; senin incelememi 
-istediğin **Vekâletsiz İş Görme (Geschäftsführung ohne Auftrag - GoA)** kurumu 
-TBK m. 526 ile m. 530 arasında, mehaz İsviçre Borçlar Kanunu'nda ise OR Art. 
-419-424 arasında yer almaktadır. "İşsahibinin yararı (menfaati)" nosyonu ise, 
-müessesenin şahdamarıdır; zira işin işsahibinin menfaatine yapılması **Gerçek 
-Vekâletsiz İş Görme (TBK m. 526, m. 529)** rejimini, işgörenin kendi menfaatine
-yapılması ise **Gerçek Olmayan Vekâletsiz İş Görme (TBK m. 530 / OR Art. 423)**
-rejimini tetikler. Bilimsel sıhhatimiz için, bu kurumu şekli bir numara 
-şablonuna hapsetmeksizin, kanuni temeli olan **TBK Madde 526 ve Madde 530** 
-ekseninde, sistemindeki Ece Baş Süzel, Fikret Eren ve Klaus Philipp gibi 
-yazarların öğretileriyle sentezleyerek bütünüyle parçalayacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinde borç ilişkisinin kaynakları klasik

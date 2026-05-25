@@ -22,26 +22,6 @@ Asıl alacakla birlikte işlemiş faizler de devredilmiş sayılır.
 
 ### Akademik Yorum ve Analiz
 
-(Taşınır satımında teslimat ve hasar)” ifadeleri ile mehaz “İsviçre Borçlar 
-Kanunu (OR) Art. 185” zikredilmiştir. Pozitif Türk Özel Hukuku sistematiğinde 
-6098 sayılı Türk Borçlar Kanunu’nun (TBK) 189. maddesi (Mülga 818 sayılı BK m. 
-168; Mehaz OR Art. 170) borçlar hukuku genel hükümlerinde yer alan "Alacağın 
-Devrinde Takas" (Temlikte Takas Def'i) kurumunu düzenlemektedir. Başlıkta 
-konusuna ve mehazına (OR Art. 185) atıf yapılan "Satım Sözleşmesinde Hasar ve 
-Yararın Geçişi" kurumu ise mülga BK m. 186'nın karşılığı olup, güncel TBK m. 
-208'de (Taşınır Satımında Hasar ve Yarar) düzenlenmektedir. Borçlar hukuku 
-dogmatiğinde, tam iki tarafa borç yükleyen satım sözleşmelerinde hasarın (ve 
-imkânsızlık riskinin) alıcıya geçip geçmediği hususu ile, satıcının bu 
-sözleşmeden doğan semen (bedel) alacağını üçüncü bir kişiye devretmesi hâlinde 
-alıcının takas hakkını kullanabilmesi senaryoları birbiriyle doğrudan ve 
-organik bir biçimde kesişmektedir. Bu akademik şerhte, norm numarası olarak 
-anılan "Alacağın Devrinde Takas (TBK m. 189)" kuralı ile, maddi hukuk talebinin
-konusunu ve mehazını oluşturan "Taşınır Satımında Hasarın Geçişi (OR Art. 185 /
-TBK m. 208)" kurumları sentezlenmiş; hasar riskinin gerçekleştiği durumlarda 
-alacağın devrinin akıbeti ve takas mekanizmasının işleyişi, Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer’in öğretileri ekseninde sistematik
-bir bütünlük içerisinde değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde tam iki tarafa borç yükleyen (sinallagmatik) 

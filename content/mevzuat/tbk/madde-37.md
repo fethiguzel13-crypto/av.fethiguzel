@@ -25,17 +25,6 @@ diğer tarafa tazminat ödemekle yükümlüdür.
 
 ### Akademik Yorum ve Analiz
 
-Öncelikle dogmatik ve terminolojik bir tespitle temel atarak başlayalım. Kanun 
-sistematiğimizde yetkisiz temsil ve buna bağlanan sonuçlar, mülga 818 sayılı 
-Borçlar Kanunu'nun 38. maddesinde (Mehaz **OR Art. 38**) düzenlenmekteydi. 
-Ancak 6098 sayılı yürürlükteki Türk Borçlar Kanunu’nda (TBK) yetkisiz temsil 
-kurumu **Madde 46 ve 47** içerisinde yer bulmuştur. TBK m. 37 ise bir önceki 
-periyotta derinlemesine incelediğimiz **Korkutma (İkrah)** kurumunu 
-düzenlemektedir. Bu nedenle, akademik analizimizi senin de referans gösterdiğin
-mehaz OR Art. 38 ve mülga BK m. 38 ekseninde, dogmatik olarak yürürlükteki 
-**TBK Madde 46 (Yetkisiz Temsil)** ve bunun **Vekâletsiz İş Görme** ile olan 
-organik bağı üzerinden inşa edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde **Temsil**, bir kişinin (temsilci) bir başkası 

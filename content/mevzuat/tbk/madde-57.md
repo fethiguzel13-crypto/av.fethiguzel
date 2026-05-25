@@ -24,23 +24,6 @@ Ticari işlere ait haksız rekabet hakkında Türk Ticaret Kanunu hükümleri sa
 
 ### Akademik Yorum ve Analiz
 
-Öncelikle, borçlar hukuku dogmatiğinde norm numaralarının, kenar başlıklarının 
-ve mehaz kanun atıflarının taşıdığı mutlak öneme dair metodolojik bir tespitle 
-temel atarak başlamak zorunludur. Talebinde referans gösterdiğin "TBK Madde 57 
-(Nesne zararı — maddi zarar hesabı)" başlığı ile mehaz "OR Art. 42" atfı 
-arasında kavramsal ve tarihsel bir uyumsuzluk bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 57. maddesi "Haksız Rekabet" kurumunu 
-düzenlemektedir; nesne zararı (eşya zararı) adı altında müstakil bir normumuz 
-bulunmamaktadır. Talebinde esas aldığın mehaz İsviçre Borçlar Kanunu'nun 42. 
-maddesi (**OR Art. 42**) ve mülga 818 sayılı Borçlar Kanunumuzun 42. maddesi, 
-hukuk sistemimizde **"Zararın ve Kusurun İspatı (Zarar Miktarının 
-Belirlenmesi)"** kenar başlığıyla yürürlükteki **TBK Madde 50** hükmü altında 
-kodifiye edilmiştir. Hukuki kesinlik ve bilimsel metodoloji gereği, maddi 
-talebinin özünü oluşturan "Nesne Zararı ve Maddi Zarar Hesabı" müessesesini, 
-kanuni karşılığı olan **TBK Madde 50** (mülga BK m. 42 / OR Art. 42) ekseninde,
-Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri 
-ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde haksız fiil sorumluluğunun en asli ve nihai gayesi,
@@ -144,7 +127,6 @@ ihlalinin) tazmini her koşulda güvence altındadır.
 TBK m. 50 ile TBK m. 51 arasındaki ilişki, hesaplamanın dogmatik sıralamasıdır.
 TBK m. 50 (OR Art. 42) "Zararın (Schaden)" doğa bilimleri ve ekonomi 
 kurallarına göre miktar olarak belirlenmesidir. Hâkim, m. 50/2 uyarınca farazi 
-rakamı tespit eder (Örneğin zarar 100.000 TL'dir). Bu aşamadan sonra hâkim, TBK
 m. 51'e geçer ve failin kusurunun hafifliğini, ekonomik durumunu göz önüne 
 alarak bu 100.000 TL'lik "zarar" tutarını, hukuki bir kavram olan "Tazminata" 
 dönüştürür (Örneğin 70.000 TL tazminat ödenmesine karar verir). Zarar ile 

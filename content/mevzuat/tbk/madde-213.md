@@ -30,12 +30,6 @@ fiyatı arasındaki farka göre hesaplanacak zararın giderilmesini isteyebilir.
 
 ### Akademik Yorum ve Analiz
 
-Türk Borçlar Kanunu Madde 213 (TBK m. 213) hükmünün hukuki, sistematik ve dogmatik çerçevede hazırlanan akademik şerhi aşağıda sunulmaktadır.
-
-*(Önemli Not: Tarafıma sunulan kaynaklar dışında, talebiniz üzerine Türk hukuk doktrinindeki -Fikret Eren, M. Kemal Oğuzman, M. Turgut Öz, Halûk N. Nomer vb.- tartışmalara ilişkin ek bilgiler de sentezlenerek sunulmuştur. Bu doktriner tartışmalar ve İsviçre Borçlar Kanunu mukayesesi, sağlanan belgelerin haricinde yer alan harici hukuki bilgi niteliğindedir ve bu bilgileri bağımsız hukuki kaynaklardan doğrulamak isteyebilirsiniz.)*
-
-### TBK Madde 213 Hükmünün Akademik Şerhi ve Analizi
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 Türk Borçlar Kanunu'nun (TBK) "Özel Borç İlişkileri" başlıklı İkinci Kısmının, Birinci Bölümünde "Satış Sözleşmesi" düzenlenmiştir. Satış sözleşmesi başlığı altında, İkinci Ayırım olan "Taşınır Satışı" kısmında "Satıcının Borçları" alt başlığında satıcının temerrüdü ve buna bağlanan sonuçlar yer almaktadır [1-4]. TBK m. 213, satıcının borcunu ifa etmemesi (temerrüdü) durumunda, alıcının müspet (olumlu) zararının hesaplanma yöntemlerini (giderim borcu ve kapsamını) düzenleyen özel bir hükümdür [4, 5].
 

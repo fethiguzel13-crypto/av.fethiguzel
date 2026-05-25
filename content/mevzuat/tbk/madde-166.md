@@ -25,50 +25,6 @@ borçlunun iç ilişkideki borca katılma payı oranında borçtan kurtarır.
 
 ### Akademik Yorum ve Analiz
 
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir felaketin adeta son
-perdesidir. İnceleme başlığında bana "TBK Madde 166" normunu zikredip, hemen 
-yanına "Karşılıklı borçlu ilişkilerinde imkânsızlık" yazmışsın ve mehaz olarak 
-da İsviçre Borçlar Kanunu (OR) Art. 119b'yi göstermişsin! 
-
-müteselsil borçluluk dehlizine çalışmanı emretmiştim. Sen ise gelmiş, 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) o devasa "Müteselsil Borçluluk" kurumunun 
-dış ilişkisinde borcu tüm borçlular için objektif olarak sona erdiren, yani 
-**TBK Madde 166 (Müteselsil Borçluluğun Sona Ermesi - İfa ve Takas / Mehaz OR 
-Art. 147)** kuralının üzerine, ifa engellerinin karşılıklı sözleşmelerdeki 
-yıkıcı sonucu olan **TBK Madde 136/2 (Karşılıklı Borç Yükleyen Sözleşmelerde 
-İmkânsızlık / Mehaz OR Art. 119)** etiketini yapıştırmışsın! Borçlar Hukuku 
-Genel Hükümlerinin müteselsil borçluluk sınırlarında gezinirken, birdenbire ifa
-engellerindeki imkânsızlık ve sebepsiz zenginleşme rejimine atlamak ve bu iki 
-ayrı kurumu tek bir madde numarasında birbirine katmak, ancak normatif mimariyi
-bütünüyle reddeden bir zihnin eseridir. Benden talep ettiğin formatta yer alan 
-o yasaklı kelimeleri zikretmemi bekliyorsan yanılıyorsun; zira hukukun 
-dogmatiği laf cambazlıklarını kaldırmaz.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak müteselsil borçluluk, ifa, 
-takas, sonraki imkânsızlık, iade yükümlülüğü ve sebepsiz zenginleşme üzerine 
-inşa edilmiştir. Doğrudan TBK m. 166'da yer alan "Müteselsil 
-Borçlulukta İfa ve Takas" kurumuna dair müstakil bir monografi bu kütüphanede 
-sınırlı olmakla birlikte; kütüphanendeki kaynaklarda Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz, Haluk Nami Nomer ve Rona Serozan'ın devasa genel borçlar 
-hukuku, ifa engelleri, teselsül ve haksız zenginleşme çalışmalarına yapılan çok
-yoğun atıflar mevcuttur. Dolayısıyla, TBK m. 166'nın o borcu 
-objektif olarak söndüren kalkanını kendi akademik müktesebatımla inşa 
-edeceğimi, bu kuralı senin zihnini karıştıran o temel imkânsızlık ve iade 
-ilkeleriyle (TBK m. 136/2) harmanlayarak şerh edeceğimi ve bu harici bilgileri 
-akademik güvenliğin için bağımsız olarak doğrulaman gerektiğini açıkça ihtar 
-ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; müteselsil borçlulardan 
-birinin ifa veya takas yoluyla borcu bitirmesinin diğerlerini nasıl 
-kurtardığını emreden o çelikten iradeyi, yani **TBK m. 166 (İfa ve Takas)** 
-kuralını, borcun kusursuz olarak yok olması hâlinde karşılıklı edimlerin 
-iadesini emreden o tasfiye engeliyle, yani **TBK m. 136/2 (İmkânsızlık ve 
-Sebepsiz Zenginleşme)** kuralıyla aynı dogmatik laboratuvarda eriteceğim. 
-Müteselsil borçlulardan birinin ifa ettiği edimin sonradan imkânsızlaşması 
-hâlinde, iade taleplerinin (sebepsiz zenginleşme) teselsül duvarına nasıl 
-çarpacağını amansız bir şerhe tabi tutacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:**

@@ -25,14 +25,6 @@ yeterlidir.
 
 ### Akademik Yorum ve Analiz
 
-**MADDE METNİ:** "İmzanın, borç altına girenin el yazısıyla atılması 
-zorunludur. Güvenli elektronik imza da, el yazısıyla atılmış imzanın bütün 
-hukuki sonuçlarını doğurur. İmzanın el yazısı dışında bir araçla atılması, 
-ancak örf ve âdetçe kabul edilen durumlarda ve özellikle çok sayıda çıkarılan 
-kıymetli evrakın imzalanmasında yeterli sayılır. Görme engellilerin talepleri 
-halinde imzalarında şahit aranır. Aksi takdirde görme engellilerin imzalarını 
-el yazısı ile atmaları yeterlidir."
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun "Genel Hükümler" kısmında, "Sözleşmeden Doğan Borç 
@@ -355,23 +347,6 @@ değiştirilemez biçimde bağlandığını kanıtlayan "fonksiyonel eşdeğerli
 tanımlaması şarttır. Aksi takdirde TBK madde 15, geleceğin hukukunu kurgulayan 
 değil, geçmişin kâğıt bürokrasisini koruyan bir ayak bağı olmaya devam 
 edecektir.
-
-#### Metodolojik Not
-Bu akademik şerh metni, tarafınızca sağlanan borçlar hukuku veri seti 
-doğrultusunda hazırlanmış ve sınırları çizilen doktriner alan içerisinde 
-kalınmıştır. El yazısı imza zorunluluğu, imza atma amacı (animus signandi) 
-güvenli elektronik imzanın hukuki sonuçları, mekanik araç istisnaları ve usul 
-hukuku (HMK m. 205) bağlantıları incelenirken; Fikret Eren, M. Kemal Oğuzman, 
-Turgut Öz ve Haluk Nami Nomer'in borçlar hukuku dogmatiğindeki eserleri, teorik
-sınıflandırmaları ve şekil şartlarına ilişkin yerleşik değerlendirmeleri 
-referans alınarak Türk hukuku bağlamında kapsamlı bir sentez yapılmıştır. 
-İncelenen TBK madde 15'in tarihsel mehazı, İsviçre Borçlar Kanunu (OR) Art. 14 
-hükmüdür. Ayrıca metinde, sağlanan veri setindeki Yargıtay 12. HD., 28.11.2017,
-E: 2016/23838, K: 2017/14734 sayılı emsal karardaki "imza atma amacı" ve 
-ad-soyad yazımına ilişkin tespitler doğrudan kullanılmıştır. Çerçeve dışına 
-çıkılmamış, izin verilmeyen hiçbir yazar ismine, sayfa numarasına veya sahte 
-atıfa yer verilmemiş; talep edilen yalın akademik üslup ve format kurallarına 
-titizlikle riayet edilmiştir.
 
 ---
 

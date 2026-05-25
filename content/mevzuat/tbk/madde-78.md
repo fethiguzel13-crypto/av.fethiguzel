@@ -25,26 +25,6 @@ saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve akademik 
-titizliğin aşılmaz bir gereğidir. Talebinizde referans gösterdiğiniz "TBK Madde
-78 (İbra — borcun ibra sözleşmesiyle sona ermesi)" başlığı ile mehaz İsviçre 
-Borçlar Kanunu'nun 115. maddesine (**OR Art. 115**) yapılan atıf arasında 
-dogmatik ve numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 
-6098 sayılı Türk Borçlar Kanunu'nun (TBK) 78. maddesi, borç ilişkisinin 
-kaynaklarından biri olan **Sebepsiz Zenginleşme (Condictio Indebiti)** kurumunu
-ve ifa engellerine dayalı iade taleplerini düzenlemektedir. Talebinizin 
-maddi özünü oluşturan, mülga 818 sayılı BK m. 105 ve mehaz OR Art. 115'te yer 
-alan **İbra (Erlass / Remise de dette)** müessesesi, 6098 sayılı TBK 
-sistematiğinde **Madde 132** başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinizin omurgasını oluşturan 
-ibra kurumunu, mehaz OR Art. 115 ile kurduğunuz bağ ekseninde, kanuni karşılığı
-olan **TBK Madde 132** hükmü üzerinden; Fikret Eren, M. Kemal Oğuzman, Turgut 
-Öz ve Haluk Nami Nomer öğretileri ile genel borçlar hukuku dogmatiği ışığında 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinde kurulan her borç ilişkisi, kural 

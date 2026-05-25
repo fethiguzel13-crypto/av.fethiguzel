@@ -26,12 +26,6 @@ da güvenli elektronik imza ile gönderilip saklanabilen metinler de yazılı ş
 
 ### Akademik Yorum ve Analiz
 
-6098 sayılı Türk Borçlar Kanunu Madde 14 metni şu şekildedir: "Kanunda aksi 
-öngörülmedikçe, imzalı bir mektup, asılları borç altına girenlerce imzalanmış 
-telgraf, teyit edilmiş olmaları kaydıyla faks veya buna benzer iletişim 
-araçları ya da güvenli elektronik imza ile gönderilip saklanabilen metinler de 
-yazılı şekil yerine geçer."
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun sistematiği incelendiğinde, 14. madde, "Genel Hükümler"
@@ -368,19 +362,6 @@ illüzyonundan kurtarıp, tarafların iradesini ve sözleşmenin içeriğini ş�
 yer bırakmaksızın kayıt altına alan ve değiştirilemezliğini garanti eden her 
 türlü teknolojik şifreleme ve onaylama yöntemini "şekil" şemsiyesi altına 
 alacak kapsayıcı bir reform yapması doktriner bir zorunluluktur.
-
-#### Metodolojik Not
-Bu akademik şerh hazırlanırken, talimatlarınız doğrultusunda yalnızca 
-belirlenen ve sınırları çizilen borçlar hukuku yazar ve kaynak seti temel 
-alınmıştır. Yazılı şeklin unsurları, metin ve imza kavramları, faks/telgraf 
-araçlarının hukuki niteliği ve elektronik imzanın borçlar hukukuna yansımaları 
-incelenirken Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in 
-borçlar hukuku dogmatiğindeki eserleri, teorik sınıflandırmaları ve şekil 
-şartlarına ilişkin doktriner değerlendirmeleri referans alınarak Türk hukuku 
-bağlamında kapsamlı bir sentez yapılmıştır. Çerçeve dışına çıkılmamış, izin 
-verilmeyen hiçbir yazar ismine, sayfa numarasına veya hayali Yargıtay kararına 
-yer verilmemiş; istenilen yalın akademik üslup kurallarına kati surette 
-uyulmuştur.
 
 ---
 

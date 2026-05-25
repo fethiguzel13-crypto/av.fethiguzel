@@ -26,25 +26,6 @@ saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde norm numaralarının, kurum başlıklarının ve mehaz 
-kanun atıflarının taşıdığı mutlak öneme binaen, analize temel bir metodolojik 
-düzeltme ile başlamak hukuki sıhhatin ve akademik titizliğin bir gereğidir. 
-Talebinizde referans gösterdiğiniz "TBK Madde 69 (Borcun ifa zamanı — vadeli ve
-vadesiz borçlar)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 75. maddesine 
-(**OR Art. 75**) yapılan atıf arasında kavramsal ve numaralandırma bazlı bir 
-sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 69.
-maddesi, kusursuz sorumluluk hâllerinden biri olan "Yapı Malikinin Sorumluluğu"
-kurumunu düzenlemektedir. Talebinizin özünü oluşturan, mülga 818 sayılı BK m. 
-74 ve mehaz OR Art. 75'te yer alan **İfa Zamanı (Erfüllungszeit)** ve borçların
-kural olarak derhal muaccel olacağı müessesesi, 6098 sayılı TBK sistematiğinde 
-**Madde 90** başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinizin omurgasını oluşturan 
-borcun ifa zamanı kurumunu, mehaz OR Art. 75 ile kurduğunuz bağ ekseninde, 
-kanuni karşılığı olan **TBK Madde 90** hükmü üzerinden, Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile dogmatik tartışmalar 
-ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde **İfa (Erfüllung)**, borçlanılan edimin borçlu 

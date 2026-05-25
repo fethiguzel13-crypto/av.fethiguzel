@@ -14,6 +14,6 @@ Vekil, vekâlet verene tesliminde geciktiği paranın faizini de ödemekle yük�
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

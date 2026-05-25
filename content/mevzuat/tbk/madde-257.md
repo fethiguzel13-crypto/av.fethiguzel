@@ -19,6 +19,6 @@ alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilm
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

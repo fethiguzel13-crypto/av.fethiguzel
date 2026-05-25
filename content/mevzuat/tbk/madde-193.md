@@ -26,25 +26,6 @@ yol açtığı giderleri.
 
 ### Akademik Yorum ve Analiz
 
-Madde 193 (Satımda döviz borcu ve ifa)” ibaresi ile mehaz “İsviçre Borçlar 
-Kanunu (OR) Art. 84” zikredilmiştir. Pozitif Türk Özel Hukuku sistematiğinde 
-6098 sayılı Türk Borçlar Kanunu’nun (TBK) 193. maddesi (Mülga 818 sayılı BK m. 
-171; Mehaz OR Art. 173) borçlar hukuku genel hükümlerinde yer alan "Alacağın 
-Devrinde Garanti Sorumluluğunun Kapsamı" müessesesini düzenlemektedir. Başlıkta
-konusuna atıf yapılan "Döviz Borcu ve İfa" meselesi ile mehazı (OR Art. 84) 
-işaret edilen kural ise, TBK m. 99'da düzenlenen "Yabancı Para Borcu" kurumunun
-karşılığıdır. Borçlar hukuku dogmatiğinde; satım sözleşmelerinden doğan yabancı
-para (döviz) alacaklarının tahsili, kur dalgalanmaları karşısında tarafların 
-seçimlik hakları ve bilhassa bu nitelikteki bir döviz alacağının üçüncü bir 
-kişiye (örneğin faktoring şirketine) devredilmesi sonrasında alacağın ifa 
-edilememesi halinde devredenin garanti yükümlülüğünün (TBK m. 193) nasıl 
-şekilleneceği hususları organik bir biçimde kesişmektedir. Bu akademik şerhte, 
-norm numarası olarak anılan "Alacağın Devrinde Garantinin Kapsamı (TBK m. 193)"
-kuralı ile, maddi hukuk talebinin konusunu ve mehazını oluşturan "Yabancı Para 
-Borcu ve İfası (TBK m. 99 / OR Art. 84)" kurumları sentezlenmiş; Fikret Eren, 
-M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer’in öğretileri ekseninde 
-sistematik bir bütünlük içerisinde değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde para borçları, niteliği gereği "cins borcu (genus)"

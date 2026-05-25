@@ -27,26 +27,6 @@ kaçınabilir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin gereğidir. 
-Talebinizde referans gösterdiğiniz "TBK Madde 72 (İfa sırası — karşılıklı 
-borçlarda eş anlı ifa)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 82. 
-maddesine (**OR Art. 82**) yapılan atıf arasında numaralandırma bazlı bir sapma
-bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 72. 
-maddesi, haksız fiil sorumluluğunda "Ceza Davası Zamanaşımı" kurumunu 
-düzenlemektedir. Talebinizin özünü oluşturan, mülga 818 sayılı BK m. 81 ve 
-mehaz OR Art. 82'de yer alan **İfa Sırası ve Ödemezlik Def'i (Exceptio non 
-adimpleti contractus)** müessesesi, 6098 sayılı TBK sistematiğinde **Madde 97**
-başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinizin omurgasını oluşturan 
-karşılıklı borçlarda ifa sırası kurumunu, mehaz OR Art. 82 ile kurduğunuz bağ 
-ekseninde, kanuni karşılığı olan **TBK Madde 97** hükmü üzerinden; Fikret Eren,
-M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile 
-kaynaklarımızdaki ifa, temerrüt ve ödemezlik def'i tartışmaları ışığında 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde borç ilişkileri, tarafların yüklendikleri edimlerin

@@ -27,15 +27,6 @@ Sebepsiz zenginleşmeden doğan haklar saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler ve İrade Muhtariyeti blokunda, temsil 
-müessesesinin en patolojik ve tasfiye edici aşamasına, yani "yetkisiz atılan 
-bir imzanın faturası kime kesilecek?" sorunsalına ulaşmış bulunmaktayız. Türk 
-Borçlar Kanunu’nun (TBK) 47. maddesi, hukuk dünyasında yaratılan sahte bir 
-güvenin yıkılması neticesinde ortaya çıkan enkazın hukuki, dogmatik ve ekonomik
-olarak nasıl temizleneceğini düzenleyen devasa bir sorumluluk rejimidir. 
-Aşağıda, TBK m. 47 hükmünü, mehaz kanun, doktrin ve Yargıtay içtihatları 
-ekseninde en ince ayrıntısına kadar parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Hukuk sistemimizde, irade muhtariyeti ve sözleşme özgürlüğü 

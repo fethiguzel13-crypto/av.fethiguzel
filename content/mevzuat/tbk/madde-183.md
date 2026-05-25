@@ -25,23 +25,6 @@ ileri süremez.
 
 ### Akademik Yorum ve Analiz
 
-(Edim kavramı — edim türleri ve nitelikleri)” ifadeleri ile mehaz “OR Art. 68” 
-zikredilmiştir. Ne var ki, Türk Özel Hukuku sistematiğinde 6098 sayılı Türk 
-Borçlar Kanunu’nun (TBK) 183. maddesi (Mehaz İsviçre Borçlar Kanunu - OR Art. 
-164) “Alacağın Devri (Temliki)” kurumunu düzenlemektedir. Başlıkta mehaz 
-olarak gösterilen OR Art. 68 ise, TBK m. 84’te yer alan “Kısmi İfa” kurumunun 
-karşılığıdır. Borçlar hukuku dogmatiğinin temel taşı olan “Edim (Leistung)” 
-kavramı, türleri ve nitelikleri ise tek bir kanun maddesine sıkıştırılmamış 
-olup; borç ilişkisinin kurucu unsuru olarak ifa hükümleri (TBK m. 83 vd.) ve 
-borcun kaynakları arasında kuramsal olarak yer almaktadır. Bu akademik şerhte, 
-maddi hukuk talebinin özünü oluşturan "Edim Kavramı, Türleri ve Nitelikleri" 
-kuramsal temelleriyle incelenmiş; başlıkta numarası anılan "Alacağın Devri (TBK
-m. 183)" ile mehazı anılan "Kısmi İfa (OR Art. 68 / TBK m. 84)" kurumlarının, 
-"edimin niteliği" ve "edimin bölünebilirliği" vasıflarıyla olan doğrudan 
-dogmatik bağlantıları, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
-Nomer’in öğretileri ekseninde sistematik bir bütünlük içerisinde 
-değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku, özünde alacaklı ve borçlu arasında kurulan ve borçluya belirli 

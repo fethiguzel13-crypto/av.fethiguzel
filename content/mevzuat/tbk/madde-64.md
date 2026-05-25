@@ -27,23 +27,6 @@ yoksa, verdiği zarardan sorumlu tutulamaz.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler müktesebatının, malvarlıkları arasındaki haksız 
-kaymaları dengeleyen tasfiye rejimine ilişkin zaman sınırlarını inceleme 
-aşamasına gelmiş bulunmaktayız. Öncelikle dogmatik ve kanunlaştırma tekniği 
-bakımından hayati bir metodolojik düzeltme ile analizimizin temelini atmak 
-zorunludur. Talebinizde referans gösterdiğiniz "TBK Madde 64 (Sebepsiz 
-zenginleşme — zamanaşımı)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 67. 
-maddesine (**OR Art. 67**) yapılan atıf arasında kavramsal ve numaralandırma 
-bazlı bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun
-(TBK) 64. maddesi, "Müteselsil Borçlulukta Karar" (hükmün sirayeti) kurumunu 
-düzenlemektedir. Talebinizin özünü oluşturan, mülga 818 sayılı BK m. 66 ve 
-mehaz OR Art. 67'de yer alan **Sebepsiz Zenginleşmede Zamanaşımı** müessesesi, 
-6098 sayılı TBK sistematiğinde **Madde 82** başlığı altında kodifiye 
-edilmiştir. Hukuki kesinlik ve bilimsel metodoloji gereği, maddi talebinizin 
-özünü oluşturan sebepsiz zenginleşmede zamanaşımı kurumunu, kanuni karşılığı 
-olan **TBK Madde 82** ekseninde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve 
-Haluk Nami Nomer öğretileri ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Özel hukuk dogmatiğinde **Zamanaşımı (Statute of Limitations / Verjährung)**, 

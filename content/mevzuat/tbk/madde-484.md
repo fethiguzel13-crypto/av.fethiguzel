@@ -13,6 +13,6 @@ Madde 484 - İşsahibi, eserin tamamlanmasından önce yapılmış olan kısmın
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -23,26 +23,6 @@ Borçlu, borcundan kurtarılmamışsa, diğer taraftan güvence isteyebilir.
 
 ### Akademik Yorum ve Analiz
 
-Madde 195 (Kiracının güvence vermesi ve depozito)” ibaresi ile mehaz “İsviçre 
-Borçlar Kanunu (OR) Art. 257b” zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 195. maddesi (Mülga 
-818 sayılı BK m. 173; Mehaz OR Art. 175) borçlar hukuku genel hükümlerinde yer
-alan "Borcun Üstlenilmesi" başlığı altındaki "İç Üstlenme Sözleşmesi" kurumunu 
-düzenlemektedir. Başlıkta konusuna atıf yapılan "Kiracının Güvence Vermesi 
-(Depozito)" meselesi ise TBK Özel Hükümler kısmında m. 342'de düzenlenmiş olup,
-bunun İsviçre Borçlar Kanunu'ndaki asıl mehazı OR Art. 257e'dir (Başlıkta 
-anılan OR 257b, yan giderlere -Nebenkosten- ilişkindir). Borçlar hukuku 
-dogmatiğinde; kiracının kira sözleşmesinden doğan güvence (depozito) verme 
-borcunun, kiracı ile anlaşan üçüncü bir kişi tarafından üstlenilmesi (iç 
-üstlenme) senaryolarında, bu normlar organik bir biçimde kesişmektedir. Bu 
-akademik şerhte, norm numarası olarak anılan "İç Üstlenme Sözleşmesi (TBK m. 
-195)" kuralı ile, maddi hukuk talebinin konusunu oluşturan "Kiracının Güvence 
-Vermesi (TBK m. 342 / OR Art. 257e)" kurumları sentezlenmiş; depozito borcunun 
-üçüncü kişilerce iç ilişkide üstlenilmesinin doğuracağı hukuki sonuçlar ve 
-depozito rejiminin sınırları, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk
-Nami Nomer’in öğretileri ekseninde sistematik bir bütünlük içerisinde 
-değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde sözleşme özgürlüğü ilkesi (TBK m. 26) tarafların 

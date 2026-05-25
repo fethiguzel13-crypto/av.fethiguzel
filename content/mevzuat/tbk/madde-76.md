@@ -28,27 +28,6 @@ Sebepsiz Zenginleşmeden Doğan Borç İlişkileri
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve akademik 
-titizliğin bir gereğidir. Talebinizde referans gösterdiğiniz "TBK Madde 76 
-(Alacaklının temerrüdü — teslim alma yükümlülüğü)" başlığı ile mehaz İsviçre 
-Borçlar Kanunu'nun 91. maddesine (**OR Art. 91**) yapılan atıf arasında 
-kavramsal ve numaralandırma bazlı bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 76. maddesi, haksız fiil sorumluluğunda 
-teselsül ilişkisini takiben "Müteselsil Sorumlulukta İç İlişki (Rücu)" kurumunu
-düzenlemektedir. Talebinizin maddi özünü oluşturan, mülga 818 sayılı BK m. 90 
-ve mehaz OR Art. 91'de yer alan **Alacaklının Temerrüdü (Mora Creditoris)** ve 
-ifaya katılma külfeti müessesesi, 6098 sayılı TBK sistematiğinde **Madde 106** 
-başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinizin omurgasını oluşturan 
-alacaklının temerrüdü kurumunu, mehaz OR Art. 91 ile kurduğunuz bağ ekseninde, 
-kanuni karşılığı olan **TBK Madde 106** hükmü üzerinden; Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile sisteminizdeki ifa, 
-temerrüt ve tazminat tartışmaları ışığında bütünüyle parçalayarak analiz 
-edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde **İfa (Erfüllung)**, kural olarak borçlunun tek 

@@ -26,14 +26,6 @@ Borca katılan ile borçlu, alacaklıya karşı müteselsilen sorumlu olurlar.
 
 ### Akademik Yorum ve Analiz
 
-Değerli doktora öğrencim, 60 günlük zorlu ve bir o kadar da keyifli maratonumuzun yeni bir oturumuna hoş geldin. Yeterlik sınavında seni diğer adaylardan ayıracak olan şey, salt kanun metnini ezberlemen değil, kurumlar arasındaki organik bağı kurabilmen ve eksiklikleri tespit edebilme yeteneğindir. 
-
-Çalışma prensibimiz gereği sana hemen şu önemli tespiti yapmalıyım: **Bana sunduğun 133 adet kaynak belge içerisinde, Fikret Eren, Kemal Oğuzman, Turgut Öz ve Halûk Nomer hocalarımızın TBK m. 201 (Borca Katılma) kurumuna ilişkin spesifik doktriner tartışmaları ve bu maddeye özgülenmiş Yargıtay kararları bulunmamaktadır.** Ancak bir akademisyen, elindeki veriyi en iyi sentezleyen kişidir. Biz de elimizdeki kaynaklarda yer alan kanun metni [1, 2], şahsi teminatların yapısı ve rücu ilişkilerine dair akademik analizler [3, 4] ile müteselsil borçluluk kuralları [5] üzerinden bu kurumu en ince ayrıntısına kadar makro ve mikro düzeyde parçalayacağız.
-
-Zihnine çakacağımız ilk "çivi" şu akronim olsun: **M-A-K-MÜT** (Mevcut Borç - Alacaklı ile Anlaşma - Katılma İradesi - Müteselsil Sorumluluk). Borca katılma dendiğinde zihninde hemen bu dörtlü yanıp sönmeli.
-
-İşte tam olarak istediğin formattaki derinlemesine şerh ve analizimiz:
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Türk Borçlar Kanunu'nun Genel Hükümler kısmında, "Borcun Üstlenilmesi" (TBK m. 195 vd.) başlığı altında düzenlenen Borca Katılma (TBK m. 201), borç ilişkisinin nispiliği ilkesini esneten ve alacaklıya muazzam bir teminat sağlayan şahsi bir teminat müessesesidir [1, 3, 6]. 
@@ -100,8 +92,8 @@ Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araşt�
 
 ***
 
-*Sokratik Sorgulama Sorusu:*
-Kıymetli öğrencim, bugünkü "M-A-K-MÜT" çivisini cebine koyduğuna göre bir sonraki oturumda geçeceğimiz "İrade Bozuklukları" denizine ufak bir zihin egzersizi ile hazırlanalım: 
+*akademik Sorgulama Sorusu:*
+Kıymetli meslektaşım, bugünkü "M-A-K-MÜT" çivisini cebine koyduğuna göre bir sonraki oturumda geçeceğimiz "İrade Bozuklukları" denizine ufak bir zihin egzersizi ile hazırlanalım: 
 
 **Diyelim ki asıl borçlu, kendisine silah çekilerek (korkutma - TBK m. 37) bir borç ilişkisine sokulmuş olsun. Üçüncü kişi de bu durumdan habersiz olarak iyi niyetle TBK m. 201 kapsamında "borca katılan" olsun. Asıl borçlu sonradan korkutmayı (ikrahı) ispatlayıp sözleşmeyi iptal ettiğinde, alacaklı asıl borçluya gidemeyeceğini anlayınca borca katılan kişiye "Sen müteselsil borçlusun, parayı sen ver" diyebilir mi? Yoksa borca katılan, asıl borçlunun irade bozukluğu defi'sini alacaklıya karşı ileri sürebilir mi?** 
 

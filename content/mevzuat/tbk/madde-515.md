@@ -21,6 +21,6 @@ kabul edildiği takdirde geçerli olur.
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

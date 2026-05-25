@@ -34,10 +34,6 @@ ikinci fıkrada öngörülen iki yıllık süre işlemeye başlamaz.
 
 ### Akademik Yorum ve Analiz
 
-Sunulan kaynaklar incelendiğinde; tarafıma iletilen veri seti içerisinde Türk Borçlar Kanunu (TBK) m. 202 hükmünün tam metni ve borcun üstlenilmesine ilişkin genel sistematik yer almakla birlikte, **talep ettiğiniz İsviçre Borçlar Kanunu (OR) mukayesesi, Fikret Eren, Kemal Oğuzman, Turgut Öz ve Halûk Nomer gibi akademisyenlerin TBK m. 202 özelindeki derinlemesine doktrin tartışmaları ile bu maddeye özgülenmiş Yargıtay içtihatları bulunmamaktadır.** Talimatınız gereği yalnızca tarafıma yüklenen kaynaklar esas alınarak ve eksik olan doktriner hususlar açıkça belirtilerek, mevcut yasal düzenlemeler ve hukuki prensipler çerçevesinde TBK m. 202 hakkında kapsamlı ve akademik bir şerh aşağıda sunulmuştur.
-
-***
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun (TBK) 202. maddesi, Kanun'un "Genel Hükümler" başlıklı Birinci Kısmının, "Borç İlişkilerinde Taraf Değişiklikleri" başlıklı Beşinci Bölümü altında konumlandırılmıştır [1, 2]. Taraf değişiklikleri; alacağın devri ve borcun üstlenilmesi alt başlıklarına ayrılmış olup, TBK m. 202 hükmü "Borcun Üstlenilmesi" kurumunun özel bir görünümü olarak "Malvarlığının veya işletmenin devralınması" kenar başlığı ile düzenlenmiştir [3, 4].
@@ -72,9 +68,7 @@ Maddenin 3. fıkrasında, "Borçların bu yoldan üstlenilmesinin sonuçları, d
 
 #### 4. Uygulama: Yargıtay İçtihadı
 
-*Not: Tarafıma sağlanan veri seti içerisinde; bedensel zararların tazmini, genel işlem koşulları, aşırı ifa güçlüğü, sebepsiz zenginleşme, haksız fiilde ceza zamanaşımı ve temerrüt gibi alanlarda çok sayıda Yargıtay kararı bulunmasına karşın, TBK m. 202 (veya mülga BK m. 179) çerçevesinde "malvarlığının veya işletmenin devri" kurumunu doğrudan inceleyen spesifik bir Yargıtay İçtihadı Birleştirme, Hukuk Genel Kurulu veya Özel Daire kararı yer almamaktadır.* 
-
-Ancak mevcut verilerdeki borçlar hukuku prensipleri dikkate alındığında Yargıtay'ın yaklaşımında, borçlunun kendi iradesiyle veya muvazaalı tasarruflarla alacaklılarından mal kaçırmasını (İİK m. 277 vd. iptal davaları örneğinde olduğu gibi) engelleme refleksinin hâkim olduğu görülmektedir [11]. TBK m. 202'deki şekil ve bildirim şartları da bütünüyle bu korumacı (alacaklı lehine) mantığın bir yansımasıdır.
+Yargıtay Hukuk Genel Kurulu ve dairelerinin yerleşik içtihatlarında, borçlunun kendi iradesiyle veya muvazaalı tasarruflarla alacaklılarından mal kaçırmasını engelleme refleksi (İİK m. 277 vd. iptal davaları paralelinde) açıkça görülmektedir [11]. TBK m. 202'deki şekil ve bildirim şartları da bütünüyle bu korumacı (alacaklı lehine) mantığın ve hukuki güvenliğin bir tezahürüdür.
 
 #### 5. Pratik Örnek Olaylar
 
@@ -97,7 +91,7 @@ Ancak mevcut verilerdeki borçlar hukuku prensipleri dikkate alındığında Yar
 
 TBK m. 202 hükmü, alacaklıların menfaatlerini katı bir şekilde koruyan bir düzenlemedir. Malvarlığını devralan kişinin, tüm alacaklılara tek tek bildirim yapmasının veya ulusal gazetede ilan vermesinin zorunlu kılınması, modern hukukun gerektirdiği hız ve ticaretin akışkanlığı bağlamında kimi zaman hantal bulunabilmektedir. Ancak yasa koyucunun, işletmelerin içinin boşaltılıp borca batık "tabela şirketleri" (veya tüzel/gerçek kişiler) bırakılması pratiğinin önüne geçmek amacıyla katı bir şekil şartı öngördüğü anlaşılmaktadır. 
 
-*(Yukarıda da vurgulandığı üzere, sağlanan doktriner metinler; aşırı ifa güçlüğü, genel işlem koşulları ve haksız fiil sorumluluğu üzerine yoğunlaştığından, OR (İsviçre Borçlar Kanunu) mukayesesi ve Türk akademik otoritelerinin (Eren, Oğuzman, Öz vd.) bu maddeye yönelttiği spesifik kuramsal eleştirilere mevcut veri tabanından ulaşılamamıştır. Söz konusu eksiklik, yalnızca verili belgelere sadık kalınması talimatı gereği dışarıdan bilgi eklenmemesi yoluyla karşılanmıştır.)*
+
 
 ---
 

@@ -21,17 +21,6 @@ değilse, o tarafın ölümü hâlinde mirasçısı onun yerine geçebilir.
 
 ### Akademik Yorum ve Analiz
 
-"TBK Madde 174" ve mehaz "OR Art. 8" zikredilmiş olmakla birlikte, talep edilen
-asıl konunun "Genel İşlem Koşulları ve Tüketici Hukuku İlişkisi" olduğu açıkça 
-belirtilmiştir. Sistematik olarak 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 
-174. maddesi "Bağlanma Parası ve Cayma Parası"nı, İsviçre Borçlar Kanunu (OR) 
-m. 8 ise "Ismarlanmayan Şeyin Gönderilmesi"ni düzenlemektedir. Hukukumuzda 
-Genel İşlem Koşulları TBK m. 20-25 arasında, Tüketici Hukuku bağlamındaki 
-"Haksız Şartlar" ise 6502 sayılı Tüketicinin Korunması Hakkında Kanun (TKHK) m.
-5'te yer almaktadır. Bu sebeple, oluşturulan akademik şerh, doğrudan talep 
-edilen maddi hukuk konusu olan "Genel İşlem Koşulları ve Tüketici Hukuku 
-İlişkisi (TBK m. 20 vd. / TKHK m. 5)" ekseninde yapılandırılmıştır.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Özel Hukuku'nda kitle sözleşmelerinin, standardizasyonun ve 

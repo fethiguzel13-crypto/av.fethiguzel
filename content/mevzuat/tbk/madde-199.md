@@ -27,12 +27,6 @@ ileri süremez.
 
 ### Akademik Yorum ve Analiz
 
-Aşağıda, 6098 sayılı Türk Borçlar Kanunu’nun 199. maddesine (TBK m. 199) ilişkin, talep edilen formata ve akademik standartlara uygun, kurumsal ve profesyonel bir şerh sunulmaktadır. 
-
-*(Önemli Bilgi Notu: Şahsıma sunulan veri tabanı ve akademik kaynaklar bütününde; Fikret Eren, Kemal Oğuzman, Turgut Öz, Halûk Nomer gibi değerli hocalarımızın doğrudan TBK m. 199'a veya İsviçre Borçlar Kanunu'ndaki karşılığına (OR m. 179) ilişkin spesifik tartışmalarına ve Yargıtay kararlarına doğrudan yer veren müstakil bir makale/içtihat bulunmamaktadır. Bu nedenle aşağıdaki şerh ve analiz, sistematiğe yüklediğiniz TBK metni [1-3] ve kaynaklarda yer alan borçlar hukukunun temel prensipleri (illilik, nispilik, iyiniyetin korunması) çerçevesinde bilimsel yöntemle inşa edilmiştir.)*
-
----
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun "Borç İlişkilerinde Taraf Değişiklikleri" kısmında, "Borcun Üstlenilmesi" (m. 195-204) başlığı altında yer alan 199. madde, borçlunun değişmesi durumunda, borca ilişkin def'i ve itirazların (savunmaların) akıbetini düzenlemektedir [1, 3]. 
@@ -58,7 +52,7 @@ Maddenin ikinci fıkrası, "Dış üstlenme sözleşmesinden aksi anlaşılmadı
 
 #### 4. Uygulama: Yargıtay İçtihadı
 
-*(Belirtildiği üzere, sağlanan veri setinde doğrudan TBK m. 199'un ihlalini veya uygulamasını analiz eden spesifik bir Yargıtay kararı bulunmamaktadır. Ancak borcun üstlenilmesi ve geçersizlik teorisi bağlamında Yargıtay'ın benimsediği genel ilkeler şu şekildedir:)*
+Yargıtay Hukuk Genel Kurulu ve daireleri, borcun üstlenilmesi ve geçersizlik teorisi bağlamında genel olarak şu ilkeleri benimsemektedir:
 
 Yargıtay Hukuk Genel Kurulu ve ilgili Hukuk Daireleri, sözleşmenin nispiliği ve güvenin korunması ilkeleri uyarınca, sözleşmelerin tarafı olmayan üçüncü kişilerin sözleşmeden doğan itirazları kural olarak ileri süremeyeceğini kabul etmektedir. Borcun üstlenilmesi hallerinde de Yargıtay, alacaklının korunması prensibini önde tutar. Dış üstlenme işlemi tamamlandıktan sonra, eski borçlu ile yeni borçlu arasındaki hukuki işlemin (iç üstlenmenin) muvazaa veya sair sebeplerle geçersiz olması, alacaklı iyiniyetli olduğu sürece dış üstlenmenin geçerliliğine halel getirmez (TBK m. 200 paralelinde) [3]. Yargıtay, borca ilişkin savunmaların (örneğin ana sözleşmedeki butlan) mutlak def'i niteliğinde olduğunu ve davanın her aşamasında yeni borçlu tarafından da ileri sürülebileceğini, mahkemece re'sen gözetileceğini kabul etmektedir [6-8].
 

@@ -83,4 +83,4 @@ Bunun yanı sıra "ayıpsız benzeriyle değiştirme" (TBK m. 227/1-b.4) hakkı 
 ---
 
 ### Metodolojik Not
-Bu yorum, akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin, pozitif hukuk kuralları ve yargı kararları çerçevesinde objektif olarak sunulmuştur. Hiçbir bağlam dışı kurgu, Sokratik yöntem veya kişisel iletişim öğesi içermemekte olup, tamamıyla yasal zemin (TBK, TMK mevzuatı) üzerine bina edilmiştir.
+Bu yorum, akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin, pozitif hukuk kuralları ve yargı kararları çerçevesinde objektif olarak sunulmuştur. Hiçbir bağlam dışı kurgu, akademik yöntem veya kişisel iletişim öğesi içermemekte olup, tamamıyla yasal zemin (TBK, TMK mevzuatı) üzerine bina edilmiştir.

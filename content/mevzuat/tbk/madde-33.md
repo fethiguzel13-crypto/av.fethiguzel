@@ -21,23 +21,6 @@ aracı ya da bir araç tarafından yanlış iletilmiş olması hâlinde de yanı
 
 ### Akademik Yorum ve Analiz
 
-ve İrade Bozuklukları blokunda son derece kritik bir viraja girmiş 
-bulunmaktayız. Öncelikle dogmatik ve terminolojik bir tespitle temel atarak 
-başlamalıyız. Talebinde belirttiğin "İptal hakkının kullanılması — süre, 
-bildirim ve sonuçları" konusu ve atıf yaptığın mehaz İsviçre Borçlar Kanunu'nun
-31. maddesi (**OR Art. 31**) ile mülga 818 sayılı Borçlar Kanunu'nun 31. 
-maddesi, yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nda (TBK) **Madde 33** 
-altında değil; **TBK Madde 39** (İrade Bozukluğunun Giderilmesi) başlığı 
-altında düzenlenmiştir. Yeni kanunumuzda **TBK Madde 33**, irade ile beyan 
-arasındaki uyumsuzluğun bir aracı vasıtasıyla gerçekleştiği **İletmede 
-Yanılma** kurumunu kodifiye etmektedir. Hukuk dogmatiğinde terimlerin ve madde 
-numaralarının hassasiyeti, bir cerrahın neşteri kullanması kadar keskin 
-olmalıdır. Bu nedenle, senin maddi (içeriksel) talebin olan "sözleşmenin 
-iptali, bildirimi, süresi ve sonuçları" konularını, doğru dogmatik zemin olan 
-**TBK Madde 39** ekseninde, ancak senin belirlediğin sistematik başlıklar ve 
-Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri 
-ışığında bütünüyle parçalayarak analiz edeceğiz. 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun 39. maddesi, kanunun "İrade Bozuklukları" (Yanılma, 

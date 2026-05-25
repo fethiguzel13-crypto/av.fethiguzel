@@ -24,30 +24,6 @@ sorumluluğa ilişkin hükümler uygulanır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler müktesebatının, zamanın tasfiye edici gücünü ve 
-hukuki güvenlik ilkesini en keskin biçimde yansıtan mekanizmalarından birini 
-inceleme aşamasına gelmiş bulunmaktayız. Öncelikle dogmatik ve kanunlaştırma 
-tekniği bakımından hayati bir metodolojik düzeltme ile temel atmak zorunludur: 
-Talebinde referans gösterdiğin "TBK Madde 61" numarası ile parantez içinde 
-belirttiğin "Zamanaşımının kesilmesi — dava borç ikrarı" başlığı ve mehaz 
-İsviçre Borçlar Kanunu'nun 135. maddesine (**OR Art. 135**) yapılan atıf 
-arasında tarihsel ve kavramsal bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 61. maddesi, "Müteselsil Sorumluluk (Dış 
-İlişki)" kurumunu düzenlemektedir. Talebinde esas aldığın, mülga 818 sayılı BK 
-m. 133 ve mehaz OR Art. 135'te yer alan **Zamanaşımının Kesilmesi (Interruption
-of Statute of Limitations / Unterbrechung der Verjährung)** müessesesi, 6098 
-sayılı TBK sistematiğinde **Madde 154** başlığı altında kodifiye edilmiştir. 
-
-Yüklemiş olduğun akademik kaynaklar, ağırlıklı olarak haksız fiillerde ve ceza 
-hukukunda zamanaşımı, ispat yükü ve taleplerin yarışması meselelerine 
-odaklanmakta olup; zamanaşımının kesilmesine ilişkin doğrudan TBK m. 154 
-hükmüne (ve m. 153-157 aralığına) çeşitli atıflar içermektedir. Hukuki 
-kesinlik ve bilimsel metodoloji gereği, maddi talebinin özünü oluşturan 
-"Zamanaşımının Kesilmesi" kurumunu, kanuni karşılığı olan **TBK Madde 154** 
-ekseninde, sistemindeki kaynakların dogmatiğiyle sentezleyerek ve Fikret Eren, 
-M. Kemal Oğuzman, Turgut Öz ile Haluk Nami Nomer öğretileri ışığında bütünüyle 
-parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Özel hukukta zamanaşımı, bir alacak hakkının kanunda öngörülen

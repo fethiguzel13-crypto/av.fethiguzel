@@ -27,47 +27,6 @@ ve diğer borçlulardan payları oranında alacağını isteyebilir.
 
 ### Akademik Yorum ve Analiz
 
-Önceki incelememizin sonunda kurduğumuz o teorik düğümü, yani borçlunun 
-temerrüdü hâlinde alacaklının hem **Temerrüt Faizini (TBK m. 120)** hem de 
-**İfaya Eklenen Ceza Koşulunu (TBK m. 179/2)** kümülatif olarak talep edip 
-edemeyeceği meselesini çözerek analizimize başlayalım. Borçlar hukuku 
-dogmatiğinde "Gecikme Cezası" ile "İfaya Eklenen Ceza Koşulu" yapısal olarak 
-aynı amaca (gecikmeyi önlemeye) hizmet etse de; temerrüt faizi kanundan doğan 
-asgari bir tazminattır, ceza koşulu ise iradi bir yaptırımdır. Fikret Eren ve 
-Haluk Nami Nomer’in eserlerinde titizlikle vurgulandığı üzere; alacaklı aynı 
-gecikme olgusu için bu iki kurumu "üst üste (kümülatif)" toplayarak sebepsiz 
-zenginleşemez. TBK m. 180/2 uyarınca, ceza koşulu miktarını aşan bir zarar 
-varsa bu ancak kusur ispatıyla talep edilebilir. Temerrüt faizi, doğası gereği 
-ceza koşulunun içinde erir (mahsup edilir). Eğer işlemiş temerrüt faizi ceza 
-koşulu miktarından düşükse, alacaklı sadece ceza koşulunu alır. Şayet faiz, 
-ceza koşulunu aşmışsa, alacaklı ceza koşulunu alır ve onu aşan faiz farkını 
-ayrıca talep edebilir. Bu durum, tazminat hukukundaki "zenginleşme yasağı" 
-ilkesinin doğrudan bir sonucudur.
-
-Bu dogmatik kördüğümü çözdükten sonra, bugünkü inceleme konumuza geçelim. 
-Kanunlaştırma tekniği, norm numaralarının dogmatik yerleşimi ve mehaz kanun 
-atıflarının taşıdığı mutlak öneme binaen, analize temel bir metodolojik 
-düzeltme ile başlamak bilimsel sıhhatin aşılmaz bir gereğidir. İnceleme 
-talebinde referans gösterilen "TBK Madde 85 (Ceza koşulu — genel hükümler)" 
-başlığı ile mehaz İsviçre Borçlar Kanunu'nun 160. maddesine (**OR Art. 160**) 
-yapılan atıf arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. 
-Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 85. maddesi, ifa 
-rejiminde "Birlikte İfa Kuralının İstisnalarını ve İfa Belgelerinin İadesini" 
-düzenlemektedir. İncelememizin maddi özünü oluşturan, mülga 818 sayılı BK m. 
-158 ve mehaz OR Art. 160'da yer alan **Ceza Koşulu (Cezai Şart / 
-Vertragsstrafe)** müessesesi ise, 6098 sayılı TBK sistematiğinde **Madde 179** 
-başlığı altında kodifiye edilmiştir. Bu husus, tarafımdan sağlanan ve Fikret 
-Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine dayanan 
-borçlar hukuku müktesebatından sentezlenmiştir ve bağımsız olarak teyit 
-edilebilir.
-
-Bilimsel kesinlik ve metodoloji gereği, maddi konunun omurgasını oluşturan ceza
-koşulu kurumunu, mehaz OR Art. 160 ile kurulan bağ ekseninde, kanuni karşılığı 
-olan **TBK Madde 179** hükmü üzerinden, öğretideki tartışmalar ve 
-sisteminizdeki (özellikle "Fahiş Cezai Şartın Tenkisi", "Aşırı Yararlanma" ve 
-"Genel İşlem Koşulları" başlıklı) metinler ışığında bütünüyle 
-parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinde **Ceza Koşulu (Cezai Şart / 

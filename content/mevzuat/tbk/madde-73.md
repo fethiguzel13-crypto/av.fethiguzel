@@ -25,30 +25,6 @@ göre yapılabileceği tarihte işlemeye başlar.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler müktesebatının ifa rejimini ve alacaklının ifayı 
-kabule icbar edilip edilemeyeceğini tayin eden en temel kurumlarından birini 
-inceleme aşamasına gelmiş bulunmaktayız. Öncelikle kanunlaştırma tekniği, norm 
-numaralarının dogmatik yerleşimi ve mehaz kanun atıflarının taşıdığı mutlak 
-öneme binaen, analize temel bir metodolojik düzeltme ile başlamak bilimsel 
-sıhhatin ve akademik titizliğin bir gereğidir. 
-
-Talebinde referans gösterdiğin "TBK Madde 73 (Kısmi ifa — alacaklının kabul 
-zorunluluğu)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 69. maddesine (**OR 
-Art. 69**) yapılan atıf arasında numaralandırma bazlı bir sapma bulunmaktadır. 
-Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 73. maddesi, haksız 
-fiillerden doğan müteselsil sorumlulukta "Rücu İstemi" ve bunun zamanaşımını 
-düzenlemektedir. Talebinin maddi özünü oluşturan, mülga 818 sayılı BK m. 68 ve 
-mehaz OR Art. 69'da yer alan **Kısmi İfa (Teilleistung)** müessesesi, 6098 
-sayılı TBK sistematiğinde **Madde 84** başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinin omurgasını oluşturan 
-kısmi ifa kurumunu, mehaz OR Art. 69 ile kurduğun bağ ekseninde, kanuni 
-karşılığı olan **TBK Madde 84** hükmü üzerinden; Fikret Eren, M. Kemal Oğuzman,
-Turgut Öz ve Haluk Nami Nomer öğretileri ile sistemindeki kaynaklarda 
-(özellikle "ifa kısmi ifa.pdf" ve "Sorumluluk Hukukunda Seçimlik 
-Nedensellik..." başlıklı metinlerde) yer alan dogmatik tartışmalar ışığında 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinde **İfa (Erfüllung)**, borçlanılan 

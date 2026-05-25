@@ -29,10 +29,6 @@ işletmenin borçları hakkında da aynı hüküm uygulanır.
 
 ### Akademik Yorum ve Analiz
 
-*Önemli Bilgilendirme: İletmiş olduğunuz talimatlar doğrultusunda sunulan kaynak dosyalar detaylıca incelenmiştir. Ancak sağlanan kaynaklar içerisinde 6098 sayılı Türk Borçlar Kanunu’nun 203. maddesine ilişkin spesifik Yargıtay içtihatları, İsviçre Borçlar Kanunu (OR) mukayesesi ve Fikret Eren, Kemal Oğuzman, Turgut Öz, Halûk Nomer gibi akademisyenlerin bu maddeye özgü doktrin tartışmaları ile eleştirileri **yer almamaktadır**. Sadece kaynakların dışına çıkmama kuralı gereğince, aşağıdaki şerh ve analiz, kaynaklarda yer alan pozitif hukuk metinleri (TBK m. 202, m. 203, m. 162 vd.) ve mevcut genel borçlar hukuku prensipleri çerçevesinde kaleme alınmıştır.*
-
-***
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun (TBK) 203. maddesi, kanunun "Borç İlişkilerinde Taraf Değişiklikleri" başlıklı Beşinci Bölümü'nün, "Borcun Üstlenilmesi"ni düzenleyen İkinci Ayırımı altında yer almaktadır [1-3]. Madde, işletmelerin birleşmesi ve şekil değiştirmesi hallerinde borçların akıbetini ve alacaklıların hukuki durumunu düzenlemektedir. 

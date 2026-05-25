@@ -27,26 +27,6 @@ alındığını iyiniyetli üçüncü kişilere karşı ileri süremez.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler ve İrade Muhtariyeti blokunda, hukuki işlem 
-ehliyetinin sınırlarını belirleyen ve temsil kurumunun "çıkış kapısı" olan en 
-stratejik aşamaya gelmiş bulunmaktayız. Öncelikle dogmatik ve terminolojik bir 
-tespitle temel atarak başlamalıyız. Talebinde referans gösterdiğin "Hukuki 
-işlemden doğan temsil yetkisi — ticari vekâlet" başlığı ve mehaz İsviçre 
-Borçlar Kanunu'nun 35. maddesi (**OR Art. 35**) yürürlükteki 6098 sayılı Türk 
-Borçlar Kanunu'nun (TBK) sistematiğinde **TBK Madde 42 (Temsil Yetkisinin 
-Sınırlanması ve Geri Alınması)** başlığı altında kodifiye edilmiştir. Her ne 
-kadar talebinde "ticari vekâlet" ibaresi yer alsa da, kanun sistematiğimizde 
-ticari temsil ve ticari vekâlet TBK m. 547 ve devamında (özellikle m. 551 vd.) 
-düzenlenmiştir. Ancak, sistemimize yüklenen akademik kaynaklarda da (Bkz. 
-Kaynak) açıkça vurgulandığı üzere; TBK m. 42'nin birinci fıkrasında yer 
-alan "iç ilişkiden doğan hakların saklı tutulması" kuralı, ticari vekil ve 
-ticari temsilcilerin azli (geri alınması) kurumunu düzenleyen TBK m. 554 
-hükmüyle birebir aynı dogmatik kökene dayanır. Bu organik bağ sebebiyle, maddi 
-talebin olan "Temsil yetkisinin sınırlanması, geri alınması ve ticari vekâlet 
-ile olan dogmatik bağlantısını", doğru kanuni zemin olan **TBK Madde 42** 
-ekseninde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretileri ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinin belkemiğini oluşturan **Sözleşme 

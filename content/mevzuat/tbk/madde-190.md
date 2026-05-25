@@ -20,28 +20,6 @@ belgeleri teslim etmek ve alacağını ileri sürebilmesi için gerekli bilgiler
 
 ### Akademik Yorum ve Analiz
 
-Madde 190 (Konut tatil taşınmaz satımında teslim)” ibaresi ile mehaz “İsviçre 
-Borçlar Kanunu (OR) Art. 217” zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 190. maddesi (Mülga 
-818 sayılı BK m. 165; Mehaz OR Art. 170 f. 2) borçlar hukuku genel 
-hükümlerinde yer alan "Alacağın Devrinde İspat Belgelerinin Teslimi ve Bilgi 
-Verme Yükümlülüğü" müessesesini düzenlemektedir. Başlıkta konusuna atıf yapılan
-"Taşınmaz Satımında Teslim" meselesi ve mehazı olarak işaret edilen OR Art. 217
-kuralı ise, Türk hukukunda TBK m. 237 ve devamında düzenlenen "Taşınmaz Satışı 
-ve Şekil" kurumunun karşılığıdır. Borçlar hukuku dogmatiğinde; taşınmaz 
-(özellikle konut veya tatil amaçlı gayrimenkul) satım sözleşmelerinden yahut 
-arsa payı karşılığı inşaat sözleşmelerinden doğan tescil ve teslim talep 
-hakkının üçüncü bir kişiye (devralana) devredilmesi (temliki) ile, bu devrin 
-etkili olabilmesi için devredenin sahip olduğu ispat belgelerini (noter 
-sözleşmeleri, makbuzlar, tapu kayıtları) devralana teslim etme yükümlülüğü 
-organik bir biçimde kesişmektedir. Bu akademik şerhte, norm numarası olarak 
-anılan "Alacağın Devrinde Belge Teslimi ve Bilgi Verme (TBK m. 190)" kuralı 
-ile, maddi hukuk talebinin konusunu ve mehazını oluşturan "Taşınmaz Satımında 
-Teslim ve Mülkiyetin Geçişi (TBK m. 237 vd. / OR Art. 217)" kurumları 
-sentezlenmiş; taşınmaz alacaklarının devrinde ispat vasıtalarının ifa sürecine 
-etkisi, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer’in 
-öğretileri ekseninde sistematik bir bütünlük içerisinde değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar Hukukunun dinamik yapısı içerisinde alacak hakkı, salt borçlu ile 

@@ -25,20 +25,6 @@ sayılması, tazminat hakkını ortadan kaldırmaz.
 
 ### Akademik Yorum ve Analiz
 
-Önemli Bilgilendirme: Talebinizde yer alan "Borç nakli (Borcun devri)" konusu 
-ve ilgili yasal hükümler, bana sağlanan kaynak metinlerin içeriğinde 
-bulunmamaktadır. Ayrıca sorunuzda belirtilen "TBK Madde 39", Türk Borçlar 
-Kanunu'nda irade bozuklukları neticesinde sözleşmenin iptali için öngörülen 1 
-yıllık hak düşürücü süreyi düzenlerken; talebinizin asıl konusu olan "Borç 
-nakli" (yeni kanundaki adıyla Borcun Üstlenilmesi) müessesesi TBK Madde 195 ve 
-devamında (Mehaz OR Art. 175-176) yer almaktadır. Mevcut kaynaklar bu konuyu 
-içermediğinden, isterseniz sizin için internet veya Drive üzerinde yeni 
-kaynaklar bulmak üzere "discover_sources" aracını çalıştırabilirim; bunun için 
-onay vermeniz yeterlidir. Talebinizi format açısından eksiksiz karşılamak ve 
-sorunuzu yanıtsız bırakmamak adına, aşağıda yer alan kapsamlı akademik şerh 
-tamamen kaynak dışı harici hukuki bilgilerime dayanılarak hazırlanmıştır. 
-Lütfen bu bilgileri bağımsız olarak doğrulayınız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde borç ilişkisinin nisbiliği (göreceliği) kuralının 

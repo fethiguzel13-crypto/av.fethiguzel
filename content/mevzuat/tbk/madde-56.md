@@ -24,19 +24,6 @@ manevi tazminat olarak uygun bir miktar paranın ödenmesine karar verilebilir.
 
 ### Akademik Yorum ve Analiz
 
-Türk Borçlar Hukuku dogmatiğinin şahıs varlığı değerlerini koruma altına alan 
-en kudretli ve hukuki felsefe açısından en derin tartışmaları barındıran 
-müesseselerinden biri, bedensel bütünlüğün ihlali ve ölüm hâllerinde hükmedilen
-manevi tazminattır. Hukuk sistemi, insanın salt bir malvarlığı yığınından 
-ibaret olmadığını; et, kemik, ruh ve duygulardan müteşekkil, acı çekebilen ve 
-yaşama sevinci elinden alınabilen bir varlık olduğunu bu normla tescil 
-etmiştir. Aşağıda, mehaz İsviçre Borçlar Kanunu'nun 47. maddesine (**OR Art. 
-47**) tekabül eden ve mülga 818 sayılı BK m. 47'nin revize edilmiş hâli olan 
-yürürlükteki 6098 sayılı Türk Borçlar Kanunu (TBK) **Madde 56** hükmünü, Fikret
-Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer gibi otorite yazarların 
-öğretileri ışığında, talep edilen başlıklar sadakatinde bütünüyle analiz 
-edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde sorumluluk hukukunun (haksız fiil rejiminin) asıl 

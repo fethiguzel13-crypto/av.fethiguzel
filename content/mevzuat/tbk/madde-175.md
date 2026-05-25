@@ -22,20 +22,6 @@ koşul gerçekleşmemiş sayılır.
 
 ### Akademik Yorum ve Analiz
 
-(Bağlayıcı olmayan hükümler — emredici kural ihlali)” ifadeleri ile mehaz 
-İsviçre Borçlar Kanunu (OR) Art. 20 zikredilmiştir. Ne var ki, pozitif hukuk 
-sistematiğinde sözleşme özgürlüğünün sınırları, emredici kurallara aykırılık ve
-bunun neticesi olan “kesin hükümsüzlük (butlan)” müessesesi 6098 sayılı Türk 
-Borçlar Kanunu’nun (TBK) 27. maddesinde (Mehaz OR Art. 20) düzenlenmektedir. Buna karşılık TBK m. 175 hükmü, şarta bağlı borçlar rejimi içerisinde
-yer alan “koşulun gerçekleşmesinin dürüstlük kuralına aykırı olarak 
-engellenmesi (fictio iuris)” kurumunu ihtiva etmektedir. Bu akademik 
-şerhte, talep edilen “emredici kural ihlali ve bağlayıcı olmama (butlan)” (TBK 
-m. 27 / OR Art. 20) kurumu ile başlıkta numarası anılan “koşulun dürüstlük 
-kuralına aykırı engellenmesi” (TBK m. 175) müessesesi, dürüstlük kuralının ve 
-kanunun emredici sınırlarının ihlali bağlamında dogmatik bir bütünlük 
-içerisinde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer’in 
-öğretileri ekseninde incelenmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk-İsviçre borçlar hukuku dogmatiğinin temelini “irade özerkliği” 

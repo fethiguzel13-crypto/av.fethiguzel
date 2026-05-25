@@ -22,23 +22,6 @@ uygun olarak belirler.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler ve İrade Muhtariyeti blokunda, haksız fiil 
-sorumluluğunun en karmaşık, çok aktörlü ve dogmatik tartışmaların merkezinde 
-yer alan aşamasına gelmiş bulunmaktayız. Öncelikle metodolojik ve dogmatik bir 
-tespitle temel atarak başlamak zorunludur. Talebinde "TBK Madde 50 (Haksız 
-fiilde birlikte sorumluluk)" başlığını ve mehaz İsviçre Borçlar Kanunu'nun 50. 
-maddesini (**OR Art. 50**) referans göstermiş olsan da; mülga 818 sayılı 
-Borçlar Kanunumuzun 50. maddesinde (ve mehaz OR Art. 50'de) yer alan "haksız 
-fiilde birlikte sorumluluk / müteselsil mesuliyet" kurumu, yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu (TBK) sistematiğinde **Madde 61 (Müteselsil 
-Sorumluluk - Dış İlişki)** ve **Madde 62 (İç İlişki)** başlıkları altına 
-taşınarak kodifiye edilmiştir. Yeni TBK m. 50 hükmü ise "Zararın ve Kusurun 
-İspatı" kurumunu düzenlemektedir. Doktriner analizin sıhhati açısından, 
-maddi talebin olan "Haksız fiilde birden çok kişinin birlikte sorumluluğu" 
-müessesesini, mehaz OR Art. 50 ile organik bağını kurarak ve doğru kanuni zemin
-olan **TBK Madde 61 ve 62** ekseninde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz
-ve Haluk Nami Nomer öğretileri ışığında bütünüyle parçalayarak inceleyeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Modern sorumluluk hukukunun temel gayesi faili cezalandırmak 

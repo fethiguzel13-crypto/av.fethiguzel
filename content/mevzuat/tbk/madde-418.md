@@ -30,10 +30,6 @@ getirmekle yükümlüdür.
 
 ### Akademik Yorum ve Analiz
 
-*Açıklama: Sunulan kaynaklarda Türk Borçlar Kanunu madde 418'in yasal metni [1, 2] ve ev hizmetleri ile evde hizmet sözleşmesi (TBK m. 461) arasındaki kavramsal farka [3] yer verilmiştir. İsteminizde yer alan İsviçre Borçlar Kanunu (OR) mukayesesi, doktrin tartışmaları (Fikret Eren, Kemal Oğuzman vb.), güncel Yargıtay içtihatları ve usul hukukuna ilişkin detaylı usuli bilgilerin tamamı, **sunulan kaynakların dışındaki genel ve güncel hukuki bilgilerim ışığında** hazırlanmıştır. Bu bilgileri bağımsız olarak teyit etmeniz önerilir.*
-
----
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) Özel Borç İlişkileri kısmında, Hizmet Sözleşmesine ayrılan Altıncı Bölümün "İşçinin Kişiliğinin Korunması" başlıklı dördüncü alt ayrımında yer alan 418. madde [1, 2], iş hukukunun temel prensiplerinden biri olan "işverenin işçiyi gözetme borcu"nun en somut ve spesifik görünümlerinden birini düzenlemektedir. 

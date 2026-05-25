@@ -19,6 +19,6 @@ yayımlatan eseri başka bir yayımcıya veremez.
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

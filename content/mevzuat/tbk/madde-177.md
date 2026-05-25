@@ -21,17 +21,6 @@ Aksine sözleşme veya yerel âdet olmadıkça, bağlanma parası esas alacaktan
 
 ### Akademik Yorum ve Analiz
 
-(Muvazaa — görünüşte ve gizli işlem)” ifadeleri ile mehaz İsviçre Borçlar 
-Kanunu (OR) Art. 18 zikredilmiştir. Türk Özel Hukuku sistematiğinde "Muvazaa" 
-(Görünüşte ve gizli işlem) kurumu, 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 
-19. maddesinde (mülga 818 sayılı BK m. 18; Mehaz OR Art. 18) düzenlenmektedir. Başlıkta norm numarası olarak anılan TBK m. 177 hükmü ise, taraflara 
-sözleşmeden dönme yetkisi veren "Cayma Parası" (Arrha poenitentialis) kurumunu 
-ihtiva etmektedir. Bu akademik şerhte, maddi hukuk talebinin özünü 
-oluşturan "Muvazaa" (TBK m. 19 / OR Art. 18) müessesesi, dogmatik bir bütünlük 
-içerisinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer’in 
-öğretileri ekseninde incelenmiş; cayma parası (TBK m. 177) ile olan kavramsal 
-ayrımlara ve sistematik ilişkilere de yeri geldikçe değinilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde sözleşmelerin kurulması, tarafların karşılıklı ve 

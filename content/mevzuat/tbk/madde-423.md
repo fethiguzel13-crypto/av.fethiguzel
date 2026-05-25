@@ -33,8 +33,6 @@ ikinci ve üçüncü fıkra hükümlerine aykırı düzenleme yapılamaz.
 
 ### Akademik Yorum ve Analiz
 
-*(Kısa bir not: Talebiniz üzerine sunulan bu akademik şerhin "İsviçre Borçlar Kanunu (OR) mukayesesi" ile "Fikret Eren, Kemal Oğuzman vb. yazarların doktrin tartışmalarına" ilişkin derinlemesine analiz kısımları, bana sunulan kaynak metinlerde yer almayan genel hukuki bilgilerle zenginleştirilmiştir. İlgili doktriner bilgileri bağımsız olarak teyit etmek isteyebilirsiniz.)*
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 423. maddesi, hizmet sözleşmelerinde işçinin yıllık ücretli izninden yapılabilecek indirimlerin maddi ve hukuki şartlarını düzenleyen son derece kritik bir normdur. Madde, kanunun "Hizmet Sözleşmeleri" başlıklı Altıncı Bölümü içerisinde, "Tatil ve İzinler" alt başlığında sistematize edilmiştir [1, 2]. 

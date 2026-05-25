@@ -22,25 +22,6 @@ borca mahsup edilecek miktarı belirlememişse devralan, ancak borçludan aldı�
 
 ### Akademik Yorum ve Analiz
 
-Madde 192 (Taşınmaz vaadi — ön sözleşme)” ibaresi ile mehaz “İsviçre Borçlar 
-Kanunu (OR) Art. 216” zikredilmiştir. Pozitif Türk Özel Hukuku sistematiğinde 
-6098 sayılı Türk Borçlar Kanunu’nun (TBK) 192. maddesi (Mülga 818 sayılı BK m. 
-172; Mehaz OR Art. 172) borçlar hukuku genel hükümlerinde yer alan "Alacağın 
-Ödeme Amacıyla (İfa Uğruna) Devri" müessesesini düzenlemektedir. Başlıkta 
-konusuna atıf yapılan "Ön Sözleşme" kurumu TBK m. 29'da; mehazı (OR Art. 216) 
-işaret edilen "Taşınmaz Satışı ve Taşınmaz Satış Vaadi" kurumu ise TBK m. 
-237'de düzenlenmektedir. Borçlar hukuku dogmatiğinde; bir kişinin, borçlusu 
-olduğu bir nakit meblağı ödemek yerine, üçüncü bir kişiden olan "taşınmaz satış
-vaadinden doğan tescil talep hakkını" alacaklısına devretmesi (ifa uğruna 
-temlik) senaryolarında, bu üç norm organik bir biçimde kesişmektedir. Bu 
-akademik şerhte, norm numarası olarak anılan "Alacağın Ödeme Amacıyla Devri 
-(TBK m. 192)" kuralı ile, maddi hukuk talebinin konusunu ve mehazını oluşturan 
-"Ön Sözleşme ve Taşınmaz Satış Vaadi (TBK m. 29, 237 / OR Art. 216)" kurumları 
-sentezlenmiş; taşınmaz vaadi alacağının ifa uğruna devredilmesi bağlamındaki 
-dogmatik sorunlar, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
-Nomer’in öğretileri ekseninde sistematik bir bütünlük içerisinde 
-değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinin temelini oluşturan irade özerkliği ve sözleşme 

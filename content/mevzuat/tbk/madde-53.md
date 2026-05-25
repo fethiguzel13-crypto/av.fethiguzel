@@ -25,20 +25,6 @@ ya da yitirilmesinden doğan kayıplar.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde normların tarihsel kökeni ve kanunlaştırma 
-sistematiği, hukuki analizin sıhhati açısından mutlak bir hassasiyet 
-gerektirir. Talebinizde referans gösterilen "TBK Madde 53 (Haksız fiilde ceza 
-mahkemesinin etkisi)" başlığı ve mehaz "OR Art. 53" atfı, mülga 818 sayılı 
-Borçlar Kanunu'nun 53. maddesine (ve mehaz İsviçre Borçlar Kanunu **OR Art. 
-53**) tekabül etmektedir. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu (TBK) 
-sistematiğinde, ceza mahkemesi kararlarının hukuk mahkemesine etkisi kurumu 
-**TBK Madde 74** başlığı altında kodifiye edilmiştir. Hukuki kesinlik ve 
-bilimsel metodoloji gereği, maddi talebinizin özünü oluşturan "haksız fiilde 
-ceza mahkemesi kararlarının etkisi" müessesesini, kanuni karşılığı olan TBK m. 
-74 (mülga BK m. 53 / OR Art. 53) ekseninde, Fikret Eren, M. Kemal Oğuzman, 
-Turgut Öz ve Haluk Nami Nomer öğretileri ışığında bütünüyle parçalayarak analiz
-edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Hukuk düzeninde haksız fiil teşkil eden bir eylemin aynı zamanda ceza kanunları

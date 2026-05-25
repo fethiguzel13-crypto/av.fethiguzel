@@ -22,25 +22,6 @@ Haksız Fiillerden Doğan Borç İlişkileri
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler ve İrade Muhtariyeti blokunda, "Temsil" 
-müessesesinin sınırlarını çizen ve bu devasa kurumu özel hukuk dallarına 
-bağlayan o nihayi sınır kapısına, yani **TBK Madde 48** hükmüne ulaşmış 
-bulunmaktayız. (Baştan belirtmeliyim ki, bana sunduğun kaynak dosyalarında TBK 
-m. 48'in doğrudan ve müstakil bir şerhi bulunmamaktadır. Bu nedenle aşağıdaki 
-akademik analizi, kaynaklarda yer alan "adi ortaklıkta temsil" ve "genel 
-temsil" öğretileri ile harici borçlar hukuku dogmatik müktesebatımı 
-sentezleyerek inşa ediyorum; bu harici dogmatik bilgileri bağımsız olarak 
-doğrulamanı tavsiye ederim).
-
-Borçlar hukuku dogmatiğinde norm numaralarının sistematiği, bir harita 
-mühendisinin koordinatları kadar kesin olmalıdır. Talebinde belirttiğin 
-"Temsile ilişkin saklı hükümler" başlığı, mehaz İsviçre Borçlar Kanunu'nun 40. 
-maddesine (**OR Art. 40**) tekabül eden, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) **Madde 48** hükmüdür. Bu madde, Temsil bölümünün kapanış 
-normudur. Şimdi bu normu, belirlediğin sistematik başlıklar ve Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ışığında bütünüyle 
-parçalayarak analiz edelim.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Türk Borçlar Kanunu'nun 40 ila 47. maddeleri arasında 

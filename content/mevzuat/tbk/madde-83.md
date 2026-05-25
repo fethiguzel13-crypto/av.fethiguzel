@@ -21,34 +21,6 @@ bulunmadıkça borçlu, borcunu şahsen ifa etmekle yükümlü değildir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-yerleşimi ve mehaz kanun atıflarının taşıdığı dogmatik öneme binaen, 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-akademik titizliğin aşılmaz bir gereğidir. Talebinizde referans gösterdiğiniz 
-"TBK Madde 83 (Karşılıklı borçlarda temerrüt — seçimlik haklar)" başlığı ile 
-mehaz İsviçre Borçlar Kanunu'nun 109. maddesine (**OR Art. 109**) yapılan atıf 
-arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 83. maddesi, önceki analizlerimizde 
-detaylandırdığımız üzere ifa rejimindeki "İfayı Yapacak Kişi (Üçüncü Kişi 
-Tarafından İfa)" kurumunu düzenlemektedir. 
-
-Talebinizin maddi özünü oluşturan, mülga 818 sayılı BK m. 108 ve mehaz OR Art. 
-109'da (Wirkung des Rücktritts / Dönmenin Sonuçları) yer alan **Karşılıklı Borç
-Yükleyen Sözleşmelerde Sözleşmeden Dönme ve İade Rejimi** müessesesi, yeni 6098
-sayılı TBK sistematiğinde Mülga BK 106 ve 107 ile birleştirilerek **TBK Madde 
-125 Fıkra 3** başlığı altında tek bir normda kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinizin omurgasını oluşturan 
-temerrüt sonrası sözleşmeden dönme, iade mekaniği ve tazminat kurumunu, mehaz 
-OR Art. 109 ile kurduğunuz bağ ekseninde, kanuni karşılığı olan **TBK Madde 
-125/3** hükmü üzerinden; Fikret Eren, M. Kemal Oğuzman, Turgut Öz, Haluk Nami 
-Nomer ve Rona Serozan öğretileri ile sisteminizdeki kaynaklarda (özellikle 
-"Temerrüdü Üzerine Sözleşmeden Dönen Borçlunun Tazminat İstemi", "Karşılıklı 
-Edimli Sözleşmelerde Alacaklı Temerrüdü Nedeniyle Sözleşmeden Dönen Borçlunun 
-Olumlu Zararının Tazmini" ve "Sona Ermiş veya Geçersiz Sözleşmelerde İade" 
-başlıklı metinlerde) yer alan en güncel dogmatik tartışmalar ışığında 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde, tarafların birbirlerine karşı hem alacaklı hem de 

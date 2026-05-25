@@ -22,17 +22,6 @@ uygulanmaz.
 
 ### Akademik Yorum ve Analiz
 
-**Önemli Bilgilendirme:** Talebinizde yer alan "TBK Madde 45 (Yetkinin sona 
-erdiğinin ileri sürülememesi — iyiniyet koruması)" spesifik düzenlemesi, bana 
-sağlanan kaynak metinlerin içeriğinde doğrudan ve müstakil bir başlık olarak 
-sınırlı ölçüde (genel temsil, yetkisiz temsil ve vekâlet ilişkileri bağlamında)
-yer almaktadır. Talebinizi eksiksiz, 2500+ kelimelik derinlikte ve tam 
-akademik formatta karşılayabilmek adına; aşağıdaki şerh, kaynaklarda yer alan 
-doktriner görüşlerin (Fikret Eren, M. Kemal Oğuzman, Turgut Öz, Haluk Nami 
-Nomer) genel borçlar hukuku prensipleriyle birlikte, harici hukuki dogmatik 
-bilgilerimle sentezlenerek hazırlanmıştır. Lütfen bu spesifik bilgileri 
-bağımsız olarak doğrulayınız. 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde kişilerin **İrade Muhtariyeti** (Privatautonomie) 

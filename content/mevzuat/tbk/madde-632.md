@@ -15,6 +15,6 @@ payını ona devrederse, bu üçüncü kişi ortak sıfatını kazanamaz.
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -30,23 +30,6 @@ Alacağın Devri
 
 ### Akademik Yorum ve Analiz
 
-(Sözleşmenin kurulması aşamasında iyi niyet)” ifadeleri ile mehaz “OR Art. 2” 
-zikredilmiştir. Türk Özel Hukuku sistematiğinde sözleşmenin kurulması 
-aşamasında tarafların iyi niyet (dürüstlük) kurallarına uygun davranma 
-yükümlülüğü ve ikinci derecedeki noktaların belirlenmesi, 4721 sayılı Türk 
-Medeni Kanunu (TMK) m. 2 ile 6098 sayılı Türk Borçlar Kanunu (TBK) m. 2 (Mehaz 
-OR Art. 2) çerçevesinde; sözleşme görüşmelerindeki kusurlu davranışlardan doğan
-sorumluluk ise "Culpa in Contrahendo" kurumu kapsamında 
-değerlendirilmektedir. Başlıkta norm numarası olarak anılan TBK m. 182 hükmü 
-ise (Mehaz OR Art. 163) "Ceza Koşulunun Miktarı, Geçersizliği ve İndirilmesi" 
-müessesesini ihtiva etmektedir. Bu akademik şerhte, norm numarası ve maddi 
-hukuk talebi eşleştirmesindeki ikili yapı gözetilerek; "Sözleşmenin Kurulması 
-Aşamasında İyi Niyet ve Culpa in Contrahendo" (TMK m. 2 / TBK m. 2) kurumu ile,
-"Ceza Koşulunun Miktarı ve İndirilmesi" (TBK m. 182) müessesesi, dürüstlük 
-kuralı, sözleşme adaleti ve hâkimin sözleşmeye müdahalesi eksenlerinde dogmatik
-bir bütünlük içerisinde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami
-Nomer’in öğretileri çerçevesinde incelenmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde irade özerkliği (Privatautonomie) tarafların bir 

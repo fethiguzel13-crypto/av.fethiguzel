@@ -24,22 +24,6 @@ müteselsil sorumlulara karşı rücu hakkına sahip ve zarar görenin hakların
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler müktesebatının tasfiye ve iade rejimini teşkil 
-eden, felsefi temelleri Roma hukukuna dek uzanan en köklü kurumlarından birini 
-inceleme aşamasına gelmiş bulunmaktayız. Öncelikle dogmatik ve kanunlaştırma 
-tekniği bakımından hayati bir metodolojik düzeltme ile temel atmak zorunludur. 
-Talebinde referans gösterdiğin "TBK Madde 62 (Sebepsiz zenginleşme — genel 
-şartlar)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 62. maddesine (**OR Art.
-62**) yapılan atıf arasında numara bazlı bir tarihsel kayma bulunmaktadır. 
-Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 62. maddesi, "Müteselsil
-Borçlulukta İç İlişki ve Rücu" kurumunu düzenlemektedir. Talebinde esas 
-aldığın, mülga 818 sayılı BK m. 61 ve mehaz OR Art. 62'de yer alan **Sebepsiz 
-Zenginleşme (Ungerechtfertigte Bereicherung / Unjust Enrichment)** müessesesi, 
-6098 sayılı TBK sistematiğinde **Madde 77** başlığı altında kodifiye edilmiştir. Hukuki kesinlik ve bilimsel metodoloji gereği, maddi talebinin özünü 
-oluşturan sebepsiz zenginleşme kurumunu, kanuni karşılığı olan **TBK Madde 77**
-ekseninde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretileri ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Sorumluluk hukukunun omurgasını oluşturan üç temel borç kaynağından biri 

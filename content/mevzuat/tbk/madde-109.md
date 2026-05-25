@@ -22,42 +22,6 @@ Tevdi edilen şey geri alındığı anda alacak, bütün yan haklarıyla birlikt
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 109" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde, alacaklı temerrüdünün sonuçlarından olan 
-**"Maddi Olmayan Edimlerde Sözleşmeden Dönme"** kurumunu düzenlemektedir. 
-İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR Art. 
-269 ve devamı) atıfla talep edilen **"Kira Bedelinin Belirlenmesi ve Artışı"** 
-müessesesi ise, yeni 6098 sayılı TBK Özel Hükümler sistematiğinde **Madde 344**
-başlığı altında kodifiye edilmiştir. 
-
-Bununla birlikte, kira ilişkisinde kiracının kira bedelini ödemesine rağmen 
-kiraya verenin bu bedeli almaktan haksız yere kaçınması (örneğin tahliye 
-zeminini hazırlamak için) doğrudan **Alacaklı Temerrüdünü (TBK m. 106 vd.)** 
-doğurduğundan ve TBK m. 109'un uygulama alanı bu noktada tartışıldığından, her 
-iki normatif alan birbiriyle usuli bir diyalektik içindedir.
-
-Sisteminizde yer alan kaynaklar ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-(alacaklı temerrüdü, sözleşmeden dönme, sözleşmenin uyarlanması, ifa 
-güçsüzlüğü, sözleşme özgürlüğü) konularına odaklandığından; Özel Hükümlerin en 
-kritik piyasa müdahalesini oluşturan **TBK m. 344 (Kira Bedelinin 
-Belirlenmesi)** kurumunun spesifik dogmatik detayları (Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretilerine yapılan doğrudan atıflar 
-ile Alman/İsviçre hukukundaki teorik tartışmalar) tarafımdan harici akademik 
-müktesebat ile tamamlanarak analiz edilmiştir. Sisteminizdeki *"Sözleşmenin 
-Değişen Koşullara Göre Uyarlanması"*, *"Sözleşme Özgürlüğü ve İstisnaları"*, ve *"Alacaklının Temerrüdü Üzerine Sözleşmeden Dönen Borçlunun 
-Tazminat İstemi"*, başlıklı bilimsel makaleler ise, kira artış 
-oranlarının sözleşme hürriyetine müdahalesi, enflasyon karşısında sözleşmenin 
-uyarlanması ve alacaklı temerrüdü ekseninde azami ölçüde kullanılmıştır.
-
-Bu metodolojik çerçevenin ardından, konut ve çatılı işyeri kiralarında devletin
-mülkiyet ve sözleşme özgürlüğüne en ağır müdahalesini teşkil eden kira 
-bedelinin belirlenmesi kurumunu ve bunun TBK m. 109 eksenindeki temerrüt 
-yansımalarını bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku sistematiğinde kira sözleşmesi, taraflara sürekli borç yükleyen 

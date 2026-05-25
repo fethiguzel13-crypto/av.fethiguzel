@@ -27,12 +27,6 @@ Bu kural, yazılı şekil dışındaki geçerlilik şekilleri hakkında da uygul
 
 ### Akademik Yorum ve Analiz
 
-6098 sayılı Türk Borçlar Kanunu Madde 13 metni şu şekildedir: "Kanunda yazılı 
-şekilde yapılması öngörülen bir sözleşmenin değiştirilmesinde de yazılı şekle 
-uyulması zorunludur. Ancak, sözleşme metniyle çelişmeyen tamamlayıcı yan 
-hükümler bu kuralın dışındadır. Bu kural, yazılı şekil dışındaki geçerlilik 
-şekilleri hakkında da uygulanır."
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun sistematiği incelendiğinde, 13. madde, "Genel Hükümler"

@@ -27,8 +27,6 @@ Tüketim Ödüncü
 
 ### Akademik Yorum ve Analiz
 
-*(Önemli Bilgilendirme: Sorunuzda özel olarak talep ettiğiniz İsviçre Borçlar Kanunu (OR) mukayesesi, Fikret Eren, Kemal Oğuzman, Turgut Öz ve Halûk Nomer gibi yazarların doktrin tartışmaları ile zamanaşımı, görevli mahkeme gibi usul hukuku kuralları tarafıma sunulan kaynak metinlerde yer almamaktadır. Bu nedenle, sunulan resmi kaynaklardaki veriler temel alınarak, eksik kalan doktriner, mukayeseli ve usuli kısımlar tarafımdan **kaynaklar dışı ek bilgi** olarak, akademik bütünlüğü sağlamak amacıyla eklenmiştir. Bu hususları bağımsız kaynaklardan teyit etmeniz önerilir.)*
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun (TBK) Özel Borç İlişkileri kısmında, kullandırma amacı güden sözleşmelerden biri olarak düzenlenen Kullanım Ödüncü (Ariyet) Sözleşmesi, TBK m. 379 ve devamı hükümlerinde yer almaktadır [1]. İlgili bölümün 385. maddesi, ödünç alanın ölümü konusunu düzenleyerek, *"Kullanım ödüncü sözleşmesi, ödünç alanın ölmesiyle kendiliğinden sona erer."* amir hükmünü ihdas etmiştir [2, 3]. 

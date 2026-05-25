@@ -26,8 +26,6 @@ yapıyorsa, kendisine en az ayda bir olmak üzere belirli aralıklarla uygun bir
 
 ### Akademik Yorum ve Analiz
 
-Aşağıda 6098 sayılı Türk Borçlar Kanunu’nun 416. maddesine ilişkin talep ettiğiniz akademik ve profesyonel şerh çalışması sunulmuştur. *(Belirtmek gerekir ki, bu şerhte atıf yapılan İsviçre Borçlar Kanunu (OR) m. 327c karşılığı ile Fikret Eren, Kemal Oğuzman, Turgut Öz ve Halûk Nomer gibi yazarların spesifik doktriner görüşlerine ve genel usul kurallarına ilişkin bazı dogmatik değerlendirmeler, tarafıma sunulan kaynak metinlerin haricindeki genel akademik hukuk biliminden derlenmiştir; bu bilgileri bağımsız olarak teyit etmek isteyebilirsiniz. Madde metinleri ve temel sistematik kurgu ise tamamen sunulan kaynaklara [1], [2] dayanmaktadır.)*
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) "Hizmet Sözleşmeleri" başlıklı Altıncı Bölümünün, "Genel Hizmet Sözleşmesi" ayrımında yer alan 416. maddesi, işverenin borçlarından biri olan "Giderler" (Masraflar) alt başlığı altında düzenlenmiştir [3], [4]. İşverenin işçiye karşı temel borcu ücret ödemek olmakla birlikte, işin görülmesi sırasında işçinin malvarlığında meydana gelen azalmaların (giderlerin) karşılanması da işverenin asli yükümlülükleri arasındadır. TBK m. 414 uyarınca işveren, işin görülmesinin gerektirdiği her türlü harcamayı ve işçiyi işyeri dışında çalıştırdığı takdirde geçimi için zorunlu olan harcamaları ödemekle yükümlüdür [5]. 

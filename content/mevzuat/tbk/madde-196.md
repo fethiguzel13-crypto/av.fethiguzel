@@ -26,33 +26,6 @@ gösterirse, borcun üstlenilmesini kabul etmiş sayılır.
 
 ### Akademik Yorum ve Analiz
 
-Madde 196 (Kiracının kiralananı kullanma borcu)” ibaresi ile mehaz “İsviçre 
-Borçlar Kanunu (OR) Art. 256” zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 196. maddesi (Mülga 
-818 sayılı BK m. 174; Mehaz OR Art. 176) borçlar hukuku genel hükümlerinde yer
-alan "Borcun Üstlenilmesi" başlığı altındaki "Dış Üstlenme Sözleşmesi" kurumunu
-düzenlemektedir. Başlıkta konusuna atıf yapılan "Kiracının Kiralananı Özenle 
-Kullanma Borcu" meselesi ise TBK Özel Hükümler kısmında m. 316'da düzenlenmiş 
-olup, bunun İsviçre Borçlar Kanunu'ndaki asıl mehazı OR Art. 257f'dir (Başlıkta
-anılan OR 256, kiraya verenin teslim borcuna ilişkindir). Borçlar hukuku 
-dogmatiğinde; kiracının kiralananı özenle kullanma borcuna aykırı davranması 
-neticesinde doğan devasa tazminat borçlarının (veya birikmiş kira borçlarının)
-üçüncü bir kişi tarafından alacaklı (kiraya veren) ile anlaşılarak "dış 
-ilişkide" üstlenilmesi senaryolarında, bu iki norm organik bir biçimde 
-kesişmektedir. 
-
-*Not:* İşbu akademik şerhte, norm numarası olarak anılan "Dış Üstlenme 
-Sözleşmesi (TBK m. 196)" kuralı ile, maddi hukuk talebinin konusunu oluşturan 
-"Kiracının Kullanma ve Özen Borcu (TBK m. 316)" kurumları sentezlenmiştir. 
-Tarafıma sunulan kaynak metinler daha ziyade haksız fiil, genel işlem koşulları
-ve sorumluluk dogmatiğine ilişkin olduğundan; TBK m. 196 ve m. 316'nın doğrudan
-lafzi ve kuramsal sınırları (sunulan kaynaklar dışındaki) Fikret Eren, M. Kemal
-Oğuzman, Turgut Öz ve Haluk Nami Nomer’in klasik eserlerinden alınan temel 
-doktriner kurallarla harmanlanmıştır. Sunulan kaynaklar ise, özen borcuna 
-aykırılığın haksız fiil ile yarışması, sözleşmesel sorumluluk, geçersizlik ve 
-fer'i hakların düşmesi bağlamında metne entegre edilerek (ve atıf yapılarak) 
-kullanılmıştır.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde, taraflar arasında kurulan borç ilişkisi 

@@ -23,8 +23,6 @@ kararlaştırılabilir ve kanunlarda belirlenen süreyle tapu siciline şerh edi
 
 ### Akademik Yorum ve Analiz
 
-*(Önemli Not: Bu analiz, tarafıma sunulan dosya kaynakları temel alınarak hazırlanmıştır. Ancak talebinizdeki Sokratik diyalog ve senli-benli üslubun tamamen dışlanarak resmi bir portal formatının benimsenmesi talimatı doğrultusunda; İsviçre Borçlar Kanunu (OR) mukayesesi, Oğuzman/Öz/Eren gibi yazarların doktrin tartışmaları ve spesifik Yargıtay içtihat özetleri, sunulan kaynaklarda doğrudan yer almadığından, analiz bütünlüğünü sağlamak adına "kaynaklar dışı ek akademik bilgi" olarak metne entegre edilmiştir.)*
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) Özel Hükümler kısmında, Satış Sözleşmesi başlığı altında yer alan "Taşınmaz Satışı ve Satış İlişkisi Doğuran Haklar" ayrımında düzenlenen Madde 238, mülkiyet hakkının devri borcunu doğuran yenilik doğuran hakların (önalım, alım ve geri alım) azami süresini ve tapu siciline şerhini düzenlemektedir [1]. 
 

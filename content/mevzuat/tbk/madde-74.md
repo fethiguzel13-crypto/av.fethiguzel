@@ -26,38 +26,6 @@ ilişkin kararı da, hukuk hâkimini bağlamaz.
 
 ### Akademik Yorum ve Analiz
 
-Önceki oturumun sonunda sana yönelttiğim ve uykularını kaçırmasını umduğum o 
-zehirli düğümü, yani alacaklının kusursuzluğunun alacaklı temerrüdünü 
-engelleyip engellemeyeceği meselesini çözerek başlayalım. Borçlar hukuku 
-dogmatiğinde, Fikret Eren ve M. Kemal Oğuzman'ın öğretilerinde de 
-isabetle ve hararetle altı çizildiği üzere; **Alacaklı Temerrüdü (Mora 
-Creditoris)** için alacaklının "kusurlu" olması aranmaz. Borçlu edimini 
-usulüne uygun olarak sunmuşsa ve alacaklı komada dahi olsa (kendi iradesi 
-dışında bir mücbir sebeple ifayı kabul edemese bile) objektif olarak ifa 
-gerçekleşemediği için alacaklı temerrüdü doğar. Zira borçlu, alacaklının
-şahsi talihsizliklerinin riskini taşımak zorunda değildir; ifayı sunarak kendi 
-borçlu temerrüdü riskinden kurtulur ve hasarı alacaklıya geçirir. Bu temel 
-ilkeyi sorumluluk ve ifa hukukunun nirengi noktası olarak sistemine kaydet.
-
-Şimdi gelelim bugünkü inceleme konumuza. Kanunlaştırma tekniği, norm 
-numaralarının dogmatik yerleşimi ve mehaz kanun atıflarının taşıdığı mutlak 
-öneme binaen, analize temel bir metodolojik düzeltme ile başlamak bilimsel 
-sıhhatin gereğidir. Talebinde referans gösterdiğin "TBK Madde 74 (Üçüncü kişi 
-tarafından ifa — borçlu yerine ödeme)" başlığı ile mehaz İsviçre Borçlar 
-Kanunu'nun 68. maddesine (**OR Art. 68**) yapılan atıf arasında numaralandırma 
-bazlı bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun
-(TBK) 74. maddesi, haksız fiil sorumluluğunda "Ceza Mahkemesi Kararlarının 
-Hukuk Hâkimi Üzerindeki Etkisi" kurumunu düzenlemektedir. Talebinin 
-maddi özünü oluşturan, mülga 818 sayılı BK m. 67 ve mehaz OR Art. 68'de yer 
-alan **İfayı Yapacak Kişi (Üçüncü Kişi Tarafından İfa)** müessesesi, 6098 
-sayılı TBK sistematiğinde **Madde 83** başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinin omurgasını oluşturan 
-ifayı yapacak kişi kurumunu, mehaz OR Art. 68 ile kurduğun bağ ekseninde, 
-kanuni karşılığı olan **TBK Madde 83** hükmü üzerinden; Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile ifa ve halefiyet 
-tartışmaları ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde **İfa (Erfüllung)**, borçlanılan edimin doğru kişi 

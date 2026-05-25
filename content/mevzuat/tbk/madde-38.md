@@ -26,21 +26,6 @@ kalmasından aşırı bir menfaat sağlamış olması hâlinde, korkutmanın var
 
 ### Akademik Yorum ve Analiz
 
-**Önemli Bilgilendirme:** Talebinizde yer alan "Alacağın Temliki (Devri)" 
-konusu, bana sağlanan kaynak metinlerin içeriğinde bulunmamaktadır (sadece 
-numaralı kaynakta bir bibliyografya künyesi olarak geçmektedir). Ayrıca 
-belirtmek gerekir ki, sorunuzda yazan "TBK Madde 38", Türk Borçlar Kanunu'nda 
-"Korkutma (Tehdit)" kurumunun şartlarını düzenlerken; "Alacağın Temliki" kurumu
-TBK Madde 183 ve devamında (Mehaz OR Art. 164) yer almaktadır. Mevcut kaynaklar
-bu konuyu içermediğinden, isterseniz sizin için internet veya Drive üzerinde 
-yeni kaynaklar bulmak üzere "discover_sources" aracını çalıştırabilirim; bunun 
-için onay vermeniz yeterlidir. Talebinizi format açısından eksiksiz karşılamak 
-ve sorunuzu yanıtsız bırakmamak adına, aşağıda yer alan kapsamlı akademik şerh 
-tamamen kaynak dışı harici hukuki bilgilerime dayanılarak hazırlanmıştır. Bu 
-bilgileri bağımsız olarak doğrulamanız tavsiye edilir. İlgili konu kaynaklarda 
-bulunmadığı için, önceki senaryo ve rol talimatları es geçilerek doğrudan 
-standart akademik şerh formatında yanıt verilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun (TBK) 183. maddesi (mülga 818 sayılı BK m. 162) 

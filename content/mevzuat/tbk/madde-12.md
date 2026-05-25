@@ -26,17 +26,6 @@ Kanunda sözleşmeler için öngörülen şekil, kural olarak geçerlilik şekli
 
 ### Akademik Yorum ve Analiz
 
-Türk Borçlar Kanunu’nun 12. maddesinde düzenlenen şekil serbestisi ve 
-geçerlilik şekli kurumları, borçlar hukukunun temel çatısını inşa eden, 
-sözleşme dogmatiğinin merkezinde yer alan prensiplerdir. Madde metni, hukuk 
-sistemimizin sözleşmelerin kurulması aşamasında irade özerkliğine tanıdığı 
-geniş alanı ve bu alanın kamu düzeni, ispat kolaylığı veya zayıfın korunması 
-gibi gerekçelerle kanun koyucu tarafından nasıl sınırlandırıldığını ifade eder.
-Aşağıda bu maddenin sistematik konumu, barındırdığı kavramlar, diğer hukuk 
-kurallarıyla organik ilişkisi, uygulamada karşılaşılan pratik olaylar ve 
-doktriner eleştiriler akademik bir üslupla, detaylı biçimde tahlil 
-edilmektedir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 6098 sayılı Türk Borçlar Kanunu’nun 12. maddesi, Kanun’un "Genel Hükümler" 

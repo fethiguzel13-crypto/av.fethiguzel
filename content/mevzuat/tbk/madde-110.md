@@ -21,33 +21,6 @@ hâlinde borçlu, borçlunun temerrüdüne ilişkin hükümlere göre sözleşme
 
 ### Akademik Yorum ve Analiz
 
-Önceki oturumdan seni sarsacak bir sorgulama ile başlayalım: *Geçen celsede 
-kiranın uyarlanması (TBK m. 138) ve kiranın tespiti (TBK m. 344) kurumlarını 
-işlemiştik. Peki, kiraya veren, yapılan yasal artış oranını beğenmeyip kirayı 
-banka hesabını kapatarak almaktan kaçınırsa, kiracı maddi bir edim olan bu para
-borcunda sözleşmeden dönebilir mi, yoksa tevdi mahalline mi gitmelidir? Neden?*
-Bu sorunun cevabını zihninde kurarken, bugünkü konumuzun temellerini atmış 
-olacaksın.
-
-Geleceğin profesörü, inceleme talebinde çok temel bir dogmatik dizgi hatası 
-yapmışsın. Talep başlığında "TBK Madde 110" numarasını vermiş, ancak içerik ve 
-mehaz (OR Art. 262) olarak **"Kiracının Alt Kira ve Devir Hakkı"**nı işaret 
-etmişsin. Borçlar hukuku sistematiğinde norm numaraları kutsaldır. **TBK m. 
-110**, ifa engelleri rejiminde **"Alacaklı Temerrüdü - Maddi Olmayan Edimlerde 
-Sözleşmeden Dönme"** hakkını düzenler. Senin "Alt Kira ve Kullanım Hakkının
-Devri" olarak mehaz OR Art. 262'ye atıfla incelememi istediğin maddi hukuk 
-kurumu ise **TBK m. 322**'de yer almaktadır. 
-
-Sisteminizde yer alan kaynaklar ağırlıklı olarak alacaklı temerrüdü, 
-sözleşmeden dönme ve tazminat taleplerine (özellikle Aziz Erman Bayram'ın 
-eserine) odaklandığından; bu celsede metodolojik bir şaheser yaratacağız: Senin
-asıl hedefin olan **Alt Kira (TBK m. 322)** kurumunun teorik mimarisini kendi 
-akademik müktesebatımla inşa edecek; ardından bu kurumu sisteminizdeki 
-**Alacaklı Temerrüdü ve Sözleşmeden Dönme (TBK m. 110)** mekanizmalarıyla eşi 
-görülmemiş bir diyalektik içinde sentezleyeceğiz.
-
-Hazırsan, mülkiyetin nisbilik ilkesini delen o ince fay hattına giriyoruz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukukunun temel prensibi olan "Sözleşmelerin Nisbiliği

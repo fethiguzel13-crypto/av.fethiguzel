@@ -25,26 +25,6 @@ ayrılması mümkün bulunan eklemeleri geri vermeden önce ayırıp alabilir.
 
 ### Akademik Yorum ve Analiz
 
-Sisteminizdeki kaynaklar ağırlıklı olarak haksız fiil, genel işlem koşulları, 
-aşırı yararlanma ve ifa engellerine odaklandığından; bu analizde yer alan 
-"Alacaklı ve Borçlu Sıfatlarının Birleşmesi (Confusion)" kurumuna ilişkin 
-dogmatik bilgilerin, sağlanan belgeler haricindeki genel borçlar hukuku 
-müktesebatından (Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretilerinden) elde edildiğini ve bu bilgileri bağımsız olarak teyit etmek 
-isteyebileceğinizi en baştan açıkça belirtmek isterim. 
-
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin gereğidir. 
-Talebinizde referans gösterdiğiniz "TBK Madde 80" numarası, yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nda (TBK) sebepsiz zenginleşmede geri verme 
-kapsamını düzenlemektedir. Talebinizin maddi özünü oluşturan, mülga 818 sayılı 
-BK m. 116 ve mehaz İsviçre Borçlar Kanunu'nun 118. maddesinde (**OR Art. 118**)
-yer alan **Alacaklı ve Borçlu Sıfatlarının Birleşmesi (Confusion / Konfüzyon)**
-müessesesi, 6098 sayılı TBK sistematiğinde **Madde 135** başlığı altında 
-kodifiye edilmiştir. Bu metodolojik düzeltmenin ardından, ilgili kurumu 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde borç ilişkisi, niteliği gereği "iki farklı 

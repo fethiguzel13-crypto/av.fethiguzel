@@ -23,31 +23,6 @@ kısmını ifadan kaçınamaz.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve akademik 
-titizliğin aşılmaz bir gereğidir. Talebinde referans gösterdiğin "TBK Madde 84"
-numarası ile parantez içindeki "(Para borçlarında temerrüt faizi)" başlığı ve 
-mehaz İsviçre Borçlar Kanunu'nun 104. maddesine (**OR Art. 104**) yapılan atıf 
-arasında numaralandırma bazlı köklü bir sapma bulunmaktadır. Yürürlükteki 6098 
-sayılı Türk Borçlar Kanunu'nun (TBK) 84. maddesi (mehaz OR Art. 85) ifa 
-rejiminde "Faiz ve masrafın ödenmesinde mahsup (Kısmen Ödemede Mahsup)" 
-kuralını düzenlemektedir. Talebinin maddi özünü oluşturan, mülga 818 sayılı BK 
-m. 103 ve mehaz OR Art. 104'te yer alan **Para Borçlarında Temerrüt Faizi 
-(Verzugszins)** müessesesi ise, 6098 sayılı TBK sistematiğinde **Madde 120** 
-başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, maddi talebinin omurgasını oluşturan 
-temerrüt faizi kurumunu, mehaz OR Art. 104 ile kurduğun bağ ekseninde, kanuni 
-karşılığı olan **TBK Madde 120** hükmü üzerinden inceleyeceğiz. Bununla 
-birlikte, numara olarak zikrettiğin **TBK Madde 84 (Kısmi İfada Mahsup)** 
-kuralını da temerrüt faizinin tahsil ve tasfiye mekaniğindeki en hayati kalkan 
-olarak "Sistematik İlişkiler" ve "Pratik Olay Analizleri" başlıkları altında 
-bütünüyle parçalayarak analizimize entegre edeceğiz. İncelememiz, Fikret Eren, 
-M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile sistemindeki 
-faiz hukuku kaynaklarında yer alan dogmatik tartışmalar ışığında 
-gerçekleştirilecektir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde edimler, niteliklerine göre parça borcu ve çeşit 

@@ -24,19 +24,6 @@ kaydıyla, daha fazla tazminata hükmedebilir.
 
 ### Akademik Yorum ve Analiz
 
-Öncelikle dogmatik ve terminolojik bir tespitle temel atarak başlamalıyız. 
-Talebinizde referans gösterdiğiniz mehaz İsviçre Borçlar Kanunu'nun 32. maddesi
-(**OR Art. 32**) ve mülga 818 sayılı Borçlar Kanunu'nun 32. maddesi, 
-yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) sistematiğinde "Madde 
-35" altında değil; **TBK Madde 40 (Temsilin Hükmü / Doğrudan Temsil)** başlığı 
-altında kodifiye edilmiştir. Yeni kanunumuzda TBK m. 35, "Kusurlu yanılmada 
-tazminat" kurumunu düzenlemektedir. Borçlar hukuku dogmatiğinde norm 
-numaralarının ve terminolojinin kesinliği, hukuki analizin sıhhati açısından 
-tartışılmaz bir öneme sahip olduğundan; maddi (içeriksel) talebiniz olan 
-"Temsil ve Vekâlet" kurumu, doğru dogmatik zemin olan **TBK Madde 40** 
-ekseninde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretileri ışığında bütünüyle parçalanarak analiz edilecektir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinin belkemiğini oluşturan **Sözleşme Özgürlüğü** ve 

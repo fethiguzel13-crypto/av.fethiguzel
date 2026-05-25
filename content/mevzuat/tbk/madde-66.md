@@ -30,24 +30,6 @@ sorumlu olduğu ölçüde rücu hakkına sahiptir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde norm numaralarının, kurum başlıklarının ve mehaz 
-kanun atıflarının taşıdığı mutlak öneme binaen, analize temel bir metodolojik 
-düzeltme ile başlamak hukuki sıhhatin gereğidir. Talebinizde "TBK Madde 66 
-(Vekâletsiz iş görme — gider ve zarar)" başlığı ve mehaz İsviçre Borçlar 
-Kanunu'nun 422. maddesine (**OR Art. 422**) atıf yer almaktadır. Ancak 
-yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 66. maddesi, kusursuz 
-sorumluluk hâllerinden biri olan **Adam Çalıştıranın Sorumluluğu** kurumunu 
-düzenlemektedir. Talebinizin özünü oluşturan, mülga 818 sayılı BK m. 
-413 ve mehaz OR Art. 422'de yer alan "Vekâletsiz iş görmede işgörenin hakları 
-(gider ve zarar)" müessesesi, 6098 sayılı TBK sistematiğinde **Madde 529** 
-başlığı altında kodifiye edilmiştir. 
-
-Bilimsel kesinlik ve metodoloji gereği, vekâletsiz iş görmede işgörenin talep 
-haklarını düzenleyen kurumu, mehaz OR Art. 422 ile kurduğunuz bağ ekseninde, 
-kanuni karşılığı olan **TBK Madde 529** hükmü üzerinden, Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ile kaynaklarınızdaki 
-doktriner tartışmalar ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde borç ilişkisinin kaynakları klasik olarak sözleşme,

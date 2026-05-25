@@ -12,6 +12,6 @@ Madde 522 - Ücret, belirlenmemişse tarifeye, tarife yoksa teamüle göre öden
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

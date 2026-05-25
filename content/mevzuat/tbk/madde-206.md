@@ -37,10 +37,6 @@ Genel Hükümler
 
 ### Akademik Yorum ve Analiz
 
-Önemli Not: Tarafıma sunulan kaynak metinlerde 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 206. maddesinin lafzı ile genel borçlar hukuku prensipleri yer almaktadır. Ancak, talebinizde özellikle vurgulanan Fikret Eren, Kemal Oğuzman, Turgut Öz, Halûk Nomer gibi yazarların doktriner tartışmaları, İsviçre Borçlar Kanunu (OR) mukayesesi ve spesifik Yargıtay içtihatları sunulan kaynak dosyalarında bulunmamaktadır. Verilen talimatlar doğrultusunda, talep ettiğiniz üst düzey akademik şerh ve analiz, sunulan kaynaklardaki kanun metinleri (TBK m. 206 ve bağlantılı maddeler) [1-3] temel alınarak, **kaynak dışı** akademik ve mesleki hukuk bilgimle zenginleştirilerek hazırlanmıştır. Kaynak dışı sunulan doktriner görüşlerin ve içtihat özetlerinin bağımsız olarak teyit edilmesi önerilir.
-
-***
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 6098 sayılı Türk Borçlar Kanunu'nun 206. maddesi, kanunun "Borç İlişkilerinde Özel Durumlar" başlıklı Dördüncü Bölümü'nün "Sözleşmenin Devri ve Sözleşmeye Katılma" isimli Üçüncü Ayırımı'nda, 205. maddenin hemen ardından düzenlenmiştir [1]. Mülga 818 sayılı Borçlar Kanunu'nda (eBK) açık bir yasal dayanağı bulunmayan "sözleşmeye katılma" kurumu, İsviçre ve Türk doktrinindeki gelişimler ile Yargıtay içtihatlarının kanunlaştırılması suretiyle 6098 sayılı TBK ile pozitif hukukumuza dâhil edilmiştir. 

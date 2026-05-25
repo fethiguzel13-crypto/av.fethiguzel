@@ -26,12 +26,6 @@ karşı, bu işlemin muvazaalı olduğu savunmasında bulunamaz.
 
 ### Akademik Yorum ve Analiz
 
-**MADDE METNİ:** "Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve 
-yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için 
-kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas alınır. 
-Borçlu, yazılı bir borç tanımasına güvenerek alacağı kazanmış olan üçüncü 
-kişiye karşı, bu işlemin muvazaalı olduğu savunmasında bulunamaz."
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun sistematiği incelendiğinde, 19. madde, "Genel Hükümler"
@@ -407,22 +401,6 @@ takdirine açık, belirsiz bir gri alan olmaktan çıkarılıp, ekonomik akla,
 sektörel teamüllere ve dürüstlük kuralına dayanan somut yargısal testlerden 
 geçirilmesi, hukuk güvenliği adına Borçlar Hukuku sistemimizin en önemli 
 vizyonlarından biri olmalıdır.
-
-#### Metodolojik Not
-Bu kapsamlı akademik şerh metni, talimatlarınız doğrultusunda tamamen borçlar 
-hukuku dogmatiği çerçevesinde ve belirlenen kurallara katı surette uyularak 
-hazırlanmıştır. Yorum ve muvazaa (TBK m. 19) kavramlarının sınırları, Falsa 
-demonstratio non nocet kuralı, mutlak ve nispi muvazaa ayrımları, 
-görünürdeki/gizli işlem ikiliği ve usul hukuku bağlantıları incelenirken; 
-yalnızca Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in genel 
-borçlar hukuku öğretisindeki teorik sınıflandırmaları, muvazaalı işlemlerin 
-geçersizlik türüne ilişkin değerlendirmeleri referans alınarak Türk hukuku 
-bağlamında kapsamlı bir analiz sunulmuştur. İncelenen TBK madde 19'un mehazı, 
-İsviçre Borçlar Kanunu (OR) Art. 18 hükmüdür. Çerçeve dışına çıkılmamış, izin 
-verilmeyen hiçbir yazar ismine, sayfa numarasına veya sahte atıfa yer 
-verilmemiş, sağlanan veri setindeki (Muvazaa ve Muris Muvazaası, Hukuki 
-İşlemlerde Geçersizlik) Yargıtay içtihatlarından (7.10.1953) faydalanılmış ve 
-talep edilen yapısal formata eksiksiz riayet edilmiştir.
 
 ---
 

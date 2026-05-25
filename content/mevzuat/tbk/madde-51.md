@@ -23,24 +23,6 @@ yükümlüdür.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde norm numaralarının ve kenar başlıklarının 
-sistematiği, hukuki analizin sıhhati açısından mutlak bir kesinlik taşımalıdır.
-Talebinde referans gösterdiğin "TBK Madde 51 (Ayni ve şahsi hakların aynı anda 
-bulunması — tazminat rekabeti)" başlığı ve mehaz "OR Art. 51" atfı, 
-kanunlaştırma hareketleri ve hukuk metodolojisi bakımından tarihsel ve 
-kavramsal bir karışıklığı barındırmaktadır. Mülga 818 sayılı Borçlar Kanunu'nun
-51. maddesi (ve mehaz İsviçre Borçlar Kanunu **OR Art. 51**) "Eksik Teselsül" 
-(çeşitli sebeplerden dolayı birlikte sorumluluk) kurumunu düzenlemekteydi; ki 
-bu kurum yeni 6098 sayılı Türk Borçlar Kanunu'nda (TBK) m. 61 içine 
-dercedilmiştir. Taleplerin yarışması (tazminat rekabeti) ise TBK m. 60'ın 
-konusudur. Yürürlükteki 6098 sayılı TBK'nın 51. maddesi ise, haksız fiil 
-sorumluluğunun en can alıcı noktası olan **Tazminatın Belirlenmesi** (Hâkimin 
-tazminatın kapsamını ve ödeme biçimini tayin etmesi) kurumunu düzenlemektedir. Bu dogmatik tespit ışığında, kanuni sistematiğe bütünüyle sadık kalarak, 
-maddi talebini TBK m. 51'in gerçek hukuki karşılığı olan **Tazminatın 
-Belirlenmesi ve Ödeme Biçimi** müessesesi ekseninde, Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ışığında en ince ayrıntısına 
-kadar analiz edeceğim.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Haksız fiil sorumluluğunun temel amacı, bir kişinin hukuka aykırı ve kusurlu 

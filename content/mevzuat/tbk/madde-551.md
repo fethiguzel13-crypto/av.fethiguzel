@@ -17,6 +17,6 @@ bulunamaz, dava açamaz ve açılmış davayı takip edemez.
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

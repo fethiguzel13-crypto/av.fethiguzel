@@ -23,26 +23,6 @@ Kişilerin ve malların korunması hakkındaki kamu hukuku kuralları saklıdır
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler sistematiğinin en hayati ve özellikle 
-enflasyonist ekonomilerde ticari hayatın merkezine oturan "Para Borçlarının 
-İfası" konusunu inceleme aşamasına gelmiş bulunmaktayız. Dogmatik ve 
-kanunlaştırma tekniği bakımından öncelikle temel bir metodolojik düzeltme 
-yapmak, bilimsel sıhhatin mutlak gereğidir. Talebinde referans gösterdiğin "TBK
-Madde 70" numarası ve parantez içindeki "(Para borçlarında ifa — döviz borçları
-ve seçimlik haklar)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 84. maddesine
-(**OR Art. 84**) yapılan atıf arasında numaralandırma bazlı bir sapma 
-bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 70. 
-maddesi, haksız fiillerde "Tehlike Sorumluluğu" kavramının bir uzantısına ve 
-rücu ilişkisine ilişkindir. Talebinin maddi özünü oluşturan, mülga 818 sayılı 
-BK m. 83 ve mehaz OR Art. 84'te yer alan **Ülke Parası ve Yabancı Para (Döviz) 
-Borçlarının İfası ile Seçimlik Haklar** müessesesi, 6098 sayılı TBK 
-sistematiğinde **Madde 99** başlığı altında kodifiye edilmiştir. Bu zorunlu 
-düzeltmenin ardından, para borçlarının ifa rejimini, mehaz OR Art. 84 ile 
-kurduğumuz bağ ekseninde, kanuni karşılığı olan **TBK Madde 99** hükmü 
-üzerinden; Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretileri ile kaynaklarımızdaki faiz ve temerrüt tartışmaları ışığında 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde **İfa (Erfüllung)**, borçlanılan edimin doğru kişi 

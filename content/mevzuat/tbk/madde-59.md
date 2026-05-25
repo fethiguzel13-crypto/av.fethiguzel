@@ -22,23 +22,6 @@ ispat ederse, sorumluluktan kurtulur.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler müktesebatının, zamanın dönüştürücü gücünü ve 
-hukuki güvenliği en keskin biçimde yansıtan tasfiye kurumlarından birini 
-inceleme aşamasına gelmiş bulunmaktayız. Öncelikle dogmatik ve kanunlaştırma 
-tekniği bakımından hayati bir metodolojik düzeltme ile temel atmak zorunludur. 
-Talebinde referans gösterdiğin "TBK Madde 59 (Zamanaşımı — genel süre ve 
-başlangıcı)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 60. maddesine (**OR 
-Art. 60**) yapılan atıf arasında tarihsel ve kavramsal bir sapma bulunmaktadır.
-Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 59. maddesi, "Ayırt etme
-gücü bulunmayanların sorumluluğu" (Hakkaniyet sorumluluğu) kurumunu 
-düzenlemektedir. Talebinde esas aldığın, mülga 818 sayılı BK m. 60 ve mehaz OR 
-Art. 60'ta yer alan **Haksız Fiillerde Zamanaşımı** müessesesi, 6098 sayılı TBK
-sistematiğinde **Madde 72** başlığı altında kodifiye edilmiştir. Hukuki 
-kesinlik ve bilimsel metodoloji gereği, maddi talebinin özünü oluşturan haksız 
-fiillerde zamanaşımı kurumunu, kanuni karşılığı olan **TBK Madde 72** 
-ekseninde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer 
-öğretileri ışığında bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Sorumluluk hukukunun asli gayesi mağdurun zararını telafi etmek 

@@ -13,6 +13,6 @@ de bunun karşılığında bir bedel ödemeyi üstlendiği sözleşmedir.
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -17,6 +17,6 @@ işi görmüş olsa bile, vekâlet borcunu ifa etmiş olmaz.
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

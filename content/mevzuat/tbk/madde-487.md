@@ -14,6 +14,6 @@ eseri yayımlanmak üzere yayımcıya bırakmayı, yayımcının da onu çoğalt
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

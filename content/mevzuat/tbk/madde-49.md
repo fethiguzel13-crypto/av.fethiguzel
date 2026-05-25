@@ -25,18 +25,6 @@ başkasına kasten zarar veren de, bu zararı gidermekle yükümlüdür.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler müktesebatının en sarsılmaz ve hacimli 
-sütunlarından biri olan, bireyler arası sözleşme dışı ilişkilerin anayasası 
-niteliğindeki haksız fiil sorumluluğunu inceleme aşamasına gelmiş 
-bulunmaktayız. Amacımız, bu kurumu yüzeysel bir kanun okumasıyla geçiştirmek 
-değil; doktrindeki en ağır felsefi tartışmaları, Yargıtay'ın satır aralarını ve
-kanun sistematiğinin ardındaki aklı deşifre ederek seni bu alanda en üst düzey 
-dogmatik analiz yeteneğine ulaştırmaktır. Bu hedef doğrultusunda, mehaz İsviçre
-Borçlar Kanunu'nun 41. maddesine (**OR Art. 41**) tekabül eden, yürürlükteki 
-6098 sayılı Türk Borçlar Kanunu'nun (TBK) **Madde 49** hükmünü, Fikret Eren, M.
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in bilimsel öğretileri ışığında 
-bütünüyle parçalayacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Modern hukuk sistemleri, bireylerin toplum içindeki 

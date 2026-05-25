@@ -21,6 +21,6 @@ Peşinattan vazgeçilmesi karşılığında, satış bedelinde yapılacak artır
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

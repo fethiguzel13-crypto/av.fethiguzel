@@ -26,31 +26,6 @@ olduğu hâllerde temerrüt için bildirim şarttır.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 117" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) Genel Hükümlerinde, borca aykırılık rejiminin en temel 
-müesseselerinden biri olan **"Borçlunun Temerrüdü"** kurumunu düzenlemektedir. 
-İncelemenin maddi talebini oluşturan ve mehaz İsviçre Borçlar Kanunu'na (OR 
-Art. 321a) atıfla işaret edilen **"İşçinin Bağlılık ve Özen Yükümlülüğü"** 
-müessesesi ise, Özel Hükümler sistematiğinde **TBK Madde 396** başlığı altında 
-kodifiye edilmiştir. 
-
-Sisteminizde yer alan kaynaklar ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-(borçlu temerrüdü, ihtar, ek süre, sözleşmeden dönme, kusur ve haksız fiiller) 
-konularına odaklanmaktadır. Sisteminizdeki Derya Ateş'e ait *"Borçlu 
-Temerrüdünde İhtar ve Ek Süre Kavramları"*, Gizem Zurnacı'ya ait *"Sözleşmeden 
-Dönen Borçlunun Olumlu Zararının Tazmini"* ve diğer temerrüt ile kusur odaklı 
-bilimsel makaleler, borçlunun edimini ifa etmemesi (veya sadakat/özen 
-yükümlülüğünü ihlal etmesi) hâlindeki hukuki tasfiye sürecini kavramak için 
-elzemdir. Bu nedenle, işçinin sadakat ve özen borcunu (TBK m. 396) kuramsal 
-olarak harici akademik müktesebatımla inşa edecek; ardından bu yükümlülüklerin 
-ihlalinin yarattığı patolojik durumu, sisteminizdeki belgelerin sunduğu 
-**Borçlu Temerrüdü ve İhtar (TBK m. 117)** mekanizmasıyla eşi görülmemiş bir 
-dogmatik diyalektik içinde sentezleyeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku mimarisinde hizmet sözleşmesi, işçinin işverene bağımlı olarak 

@@ -21,20 +21,6 @@ Taksitle satışa ilişkin hükümler saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-(Borç ilişkisinin türleri — mutlak nispi)” ve mehaz “OR Art. 1” ifadeleri 
-zikredilmiştir. Türk Özel Hukuku dogmatiğinde hakların mutlak ve nispi olarak 
-tasnif edilmesi ile borç ilişkisinin nisbiliği (nispilik ilkesi) genel bir 
-teori olup, sözleşmenin kurulmasına ilişkin olan TBK m. 1 (Mehaz OR Art. 1) 
-veya medeni hukukun diğer temel hükümlerinin teorik altyapısını oluşturur. 
-Başlıkta norm numarası olarak anılan 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 
-181. maddesi ise, nispi nitelikteki bir borç ilişkisinin fer'i teminatı olan 
-"Ceza Koşulunun Kısmi İfa Durumundaki Akıbeti" kurumunu ihtiva etmektedir. Bu 
-akademik şerhte, maddi hukuk talebinin kavramsal özünü oluşturan "Borç 
-İlişkisinin Nisbiliği ve Mutlak-Nispi Hak Ayrımı" teorisi ile, norm numarası 
-olarak belirtilen "Kısmi İfa ve Ceza Koşulu (TBK m. 181)" müessesesi, dogmatik 
-bir bütünlük ve nispilik ilkesi çerçevesinde; Fikret Eren, M. Kemal Oğuzman, 
-Turgut Öz ve Haluk Nami Nomer’in öğretileri ekseninde incelenmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinin merkezinde yer alan borç ilişkisi, niteliği 

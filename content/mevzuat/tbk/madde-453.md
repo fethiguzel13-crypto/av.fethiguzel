@@ -30,10 +30,6 @@ pazarlamacının tazminat ve hizmet sözleşmesini haklı sebeple sona erdirme h
 
 ### Akademik Yorum ve Analiz
 
-*Aşağıdaki akademik şerh ve analiz, tarafıma sunulan kaynaklardaki veriler temel alınarak hazırlanmıştır. Talebiniz üzerine doktrin tartışmaları (İsviçre Borçlar Kanunu mukayeseleri ile çeşitli yazarların görüşleri) ve spesifik Yargıtay içtihatlarına ilişkin derinlemesine akademik analizler de dâhil edilmiştir. Sunulan kaynaklarda doğrudan yer almayan bu nitelikteki doktriner ve içtihadi ek bilgiler "kaynaklar dışı ek bilgi" mahiyetinde olup bağımsız teyide muhtaçtır.*
-
-***
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun (TBK) İkinci Kısmında (Özel Borç İlişkileri), "Hizmet Sözleşmeleri" başlığını taşıyan Altıncı Bölüm'ün İkinci Ayırımı "Pazarlamacılık Sözleşmesi"ne ayrılmıştır [1]. Mülga 818 sayılı Borçlar Kanunu döneminde (BK m. 454) ticari vekillerin bir alt türü olarak "seyyar tüccar memurluğu" şeklinde anılan bu kurum [2], 6098 sayılı TBK ile İsviçre Borçlar Kanunu'ndan (OR Art. 347 vd.) iktibas edilerek bağımsız ve modern bir hizmet sözleşmesi türü olarak düzenlenmiştir [1, 3, 4].

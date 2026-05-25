@@ -23,28 +23,6 @@ yüklenemeyeceğini ispat etmedikçe, alacaklının bundan doğan zararını gid
 
 ### Akademik Yorum ve Analiz
 
-Borçlar hukuku dogmatiğinde kanunlaştırma tekniği, norm numaralarının tarihsel 
-sistematiği ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, akademik 
-incelememize temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin ve 
-dogmatik tutarlılığın aşılmaz bir gereğidir. İnceleme talebinde referans 
-gösterilen "TBK Madde 112" başlığı, yürürlükteki 6098 sayılı Türk Borçlar 
-Kanunu'nun (TBK) genel hükümlerinde, borca aykırılık rejiminin anayasası olan 
-**"Borcun İfa Edilmemesi - Borçlunun Sorumluluğu (Genel Olarak)"** kurumunu 
-düzenlemektedir. İncelemenin maddi özünü oluşturan ve mehaz İsviçre Borçlar
-Kanunu'na atıfla (OR Art. 253a / OR Art. 269a vd.) işaret edilen **"Konut ve 
-Çatılı İşyeri Kirası - Genel Hükümler"** müessesesi ise, mülga 6570 sayılı 
-Gayrimenkul Kiraları Hakkında Kanun'un karşılığı olarak yeni 6098 sayılı TBK 
-Özel Hükümler sistematiğinde **Madde 339** ve devamı başlıkları altında 
-kodifiye edilmiştir. 
-
-Sisteminizde yer alan kaynaklar ağırlıklı olarak Borçlar Hukuku Genel Hükümler 
-(sözleşmeden doğan sorumluluk, illiyet bağı, sözleşme özgürlüğü, genel işlem 
-koşulları ve ifa engelleri) konularına odaklandığından; bu incelemede, 
-sözleşmeden doğan genel kusur sorumluluğu kuralı (TBK m. 112) ile konut ve 
-çatılı işyeri kiralarındaki (TBK m. 339 vd.) katı emredici uygulama alanını 
-birleştirerek; kusur, borca aykırılık, illiyet bağı ve sözleşme özgürlüğünün 
-sınırları ekseninde dogmatik bir analiz gerçekleştireceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku mimarisinde sözleşme, tarafların serbest iradeleriyle kurdukları

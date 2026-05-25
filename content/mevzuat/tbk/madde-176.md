@@ -23,19 +23,6 @@ Bağlanma Parası, Cayma Parası ve Ceza Koşulu
 
 ### Akademik Yorum ve Analiz
 
-(Sözleşme özgürlüğünün sınırları — kamu düzeni)” ve mehaz “OR Art. 19-20” 
-ifadeleri yer almakla birlikte; Türk ve İsviçre Borçlar Hukuku sistematiğinde 
-sözleşme özgürlüğü ve bu özgürlüğün kamu düzeni, ahlak ve emredici kurallar 
-çerçevesindeki sınırları 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 26. ve 27. 
-maddelerinde (Mehaz OR Art. 19-20) düzenlenmektedir. TBK m. 176 hükmü ise, 
-uygulamada “kapora” olarak da bilinen ve sözleşmenin kurulduğuna kanıt teşkil 
-eden “Bağlanma Parası” (Arrha confirmatoria) kurumunu ihtiva etmektedir. Bu 
-akademik şerhte, talep edilen “sözleşme özgürlüğünün sınırları ve kamu düzeni” 
-(TBK m. 27) ile norm numarası olarak anılan “bağlanma parası” (TBK m. 176) 
-müesseseleri, dogmatik bir bütünlük ve fer’ilik (illilik) ilişkisi 
-çerçevesinde, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer’in 
-öğretileri ekseninde incelenmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Özel Hukuku'nun temel taşı olan irade özerkliği (Privatautonomie) borçlar

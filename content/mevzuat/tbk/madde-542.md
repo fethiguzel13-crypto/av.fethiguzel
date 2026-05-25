@@ -31,10 +31,6 @@ vekâlet verene bildirilmesi zorunludur.
 
 ### Akademik Yorum ve Analiz
 
-*Önemli Not: Tarafıma sunulan kaynak metinlerde yalnızca TBK m. 532-546 arasındaki komisyon sözleşmesi hükümleri (madde metinleri) [1-11], dolaylı temsil ilişkisi [12] ve müzayede evlerinin komisyoncu sıfatıyla hareket etmesine ilişkin temel bilgiler [13] yer almaktadır. Talebiniz üzerine şerhe dâhil edilen İsviçre Borçlar Kanunu (OR) mukayeseleri, spesifik Türk doktrini tartışmaları (Fikret Eren, Kemal Oğuzman, Turgut Öz, Halûk Nomer vb. atıfları) ve Yargıtay içtihatlarına dair derinlemesine analizler, sunulan kaynakların ötesine geçtiği için harici hukuki bilgi birikimimle hazırlanmıştır. Bu harici bilgilerin tarafınızca bağımsız olarak doğrulanması tavsiye edilir.*
-
-***
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu’nun "Komisyon Sözleşmesi" başlıklı Onbirinci Bölümü altında düzenlenen alım veya satım komisyonculuğu, TBK m. 532 uyarınca komisyoncunun ücret karşılığında, kendi adına ve vekâlet verenin hesabına kıymetli evrak ve taşınırların alım veya satımını üstlendiği, dolaylı temsil kurallarına dayanan bir iş görme sözleşmesidir [1, 12]. Komisyon sözleşmelerinde, vekâlet verenin (müvekkilin) satışa konu malı komisyoncuya teslim etmesiyle birlikte komisyoncu, malın zilyetliğini kazanır. 

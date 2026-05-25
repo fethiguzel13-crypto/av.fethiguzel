@@ -31,19 +31,6 @@ sözleşmelere de, niteliklerine bakılmaksızın uygulanır.
 
 ### Akademik Yorum ve Analiz
 
-**MADDE METNİ:** "Genel işlem koşulları, bir sözleşme yapılırken düzenleyenin, 
-ileride çok sayıdaki benzer sözleşmede kullanmak amacıyla, önceden, tek başına 
-hazırlayarak karşı tarafa sunduğu sözleşme hükümleridir. Bu koşulların, 
-sözleşme metninde veya ekinde yer alması, kapsamı, yazı türü ve şekli, 
-nitelendirmede önem taşımaz. Aynı amaçla düzenlenen sözleşmelerin metinlerinin 
-özdeş olmaması, bu sözleşmelerin içerdiği hükümlerin, genel işlem koşulu 
-sayılmasını engellemez. Genel işlem koşulları içeren sözleşmeye veya ayrı bir 
-sözleşmeye konulan bu koşulların her birinin tartışılarak kabul edildiğine 
-ilişkin kayıtlar, tek başına, onları genel işlem koşulu olmaktan çıkarmaz. 
-Genel işlem koşullarına ilişkin hükümler, sundukları hizmetleri kanun veya 
-yetkili makamlar tarafından verilen izinle yürütmekte olan kişi ve kuruluşların
-hazırladıkları sözleşmelere de, niteliklerine bakılmaksızın uygulanır."
-
 #### 1. Maddenin Sistematiği, Tarihsel Arka Plan ve Doktriner Temeller
 
 Türk Borçlar Kanunu'nun (TBK) sistematiğinde 20. madde, borçlar hukuku 
@@ -407,22 +394,6 @@ dijital mimariyi de "hüküm" şemsiyesi altında denetime tabi tutacak teknoloj
 bir rönesansa ihtiyacı vardır. Aksi takdirde TBK m. 20, siber uzayda dönen 
 devasa haksızlıkları seyreden arkaik bir müze kuralı olmaktan öteye 
 geçemeyecektir.
-
-#### Metodolojik Not
-Bu akademik şerh metni, tarafınızca sınırları çizilen borçlar hukuku doktrini 
-doğrultusunda hazırlanmıştır. Genel işlem koşullarının tanımı, ontolojik 
-unsurları, şahsi anlaşma kavramı ile yürürlük, yorum ve içerik denetimi 
-mekanizmaları incelenirken; Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
-Nami Nomer'in borçlar hukuku dogmatiğindeki eserleri, teorik sınıflandırmaları 
-(Sözleşme Teorisi) ve BGB/OR mukayeselerine ilişkin yerleşik değerlendirmeleri 
-referans alınarak Türk hukuku bağlamında kapsamlı bir sentez yapılmıştır. 
-İncelenen TBK madde 20 hükmünün İsviçre hukukundaki maddi karşılığının 
-ağırlıklı olarak Haksız Rekabet Kanunu'nda (UWG Art. 8) yer aldığı, TBK'nın ise
-sistematik olarak Alman BGB düzenlemelerinden ilham aldığı doktriner 
-tartışmalar ekseninde metne entegre edilmiştir. Çerçeve dışına çıkılmamış, izin
-verilmeyen hiçbir yazar ismine, sahte atıfa veya yasaklanmış jargona yer 
-verilmemiş; talep edilen yalın akademik üslup ve katı format kurallarına 
-titizlikle riayet edilmiştir.
 
 ---
 

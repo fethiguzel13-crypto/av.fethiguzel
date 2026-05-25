@@ -23,20 +23,6 @@ bundan dolayı iyiniyetli üçüncü kişilerin zararını gidermekle yükümlü
 
 ### Akademik Yorum ve Analiz
 
-Öncelikle dogmatik ve metodolojik bir tespitle temel atarak başlamalıyız. 
-Yüklemiş olduğun akademik kaynakların ve makalelerin içeriğinde, **TBK Madde 
-44** (Yetki belgesinin geri verilmesi ve iptali) düzenlemesine ilişkin 
-doğrudan, müstakil ve spesifik bir şerh bulunmamaktadır. Kaynaklarımızda temsil
-kurumunun genel ilkeleri, yetkisiz temsil, ticari temsil ve vekâlet ilişkileri 
-(örneğin Fikret Eren, M. Kemal Oğuzman, Turgut Öz, Haluk Nami Nomer 
-atıflarıyla) detaylıca işlenmiş olmakla birlikte, m. 44'ün ihtiva ettiği 
-fiziksel belgenin iadesi ve mahkemece iptali mekanizması özel bir başlık olarak
-yer almamaktadır. Ancak, çalışma yöntemimiz gereği "eğer kaynaklarda bir bilgi 
-eksikse bunu belirt" talimatına istinaden bu eksikliği tespit ediyor; 
-analizimizi, kaynaklarda yer alan borçlar hukuku genel prensipleri, **Güven 
-Teorisi** ve temsil dogmatiği üzerinden, harici akademik müktesebatımla 
-sentezleyerek bütünüyle inşa ediyorum.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinde kişilerin **İrade Muhtariyeti** 

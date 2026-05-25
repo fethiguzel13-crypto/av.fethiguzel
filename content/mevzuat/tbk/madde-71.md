@@ -32,37 +32,6 @@ bir bedelle denkleştirilmesini isteyebilirler.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler müktesebatının, edimin konusunu ve kalitesini 
-tayin ederek ifa, hasar ve imkânsızlık rejimlerinin tüm mimarisini 
-şekillendiren en temel kurumlarından birini inceleme aşamasına gelmiş 
-bulunmaktayız. Öncelikle kanunlaştırma tekniği, norm numaralarının dogmatik 
-yerleşimi ve mehaz kanun atıflarının taşıdığı mutlak öneme binaen, analize 
-temel bir metodolojik düzeltme ile başlamak bilimsel sıhhatin gereğidir. 
-
-Talebinde referans gösterdiğin "TBK Madde 71" numarası ve parantez içindeki 
-"(Parça ve cins borçları — kalitatif ifa)" başlığı ile mehaz İsviçre Borçlar 
-Kanunu'nun 71. maddesine (**OR Art. 71**) yapılan atıf arasında numaralandırma 
-bazlı bir sapma bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun
-(TBK) 71. maddesi, sistemine yüklediğin kaynaklarda da (örneğin "Kusursuz 
-Sorumluluk Hallerinden Adam Çalıştıranın Sorumluluğu.pdf" ve "Tehlike 
-Sorumluluğu.pdf") açıkça işaret edildiği üzere, kusursuz sorumluluğun en
-ağır formu olan **Tehlike Sorumluluğu** kurumunu düzenlemektedir. Talebinin 
-maddi özünü oluşturan, mülga 818 sayılı BK m. 71 ve mehaz OR Art. 71'de yer 
-alan **Çeşit (Cins) Borçları, Parça Borçları ve İfada Kalite Sınırı** 
-müessesesi, 6098 sayılı TBK sistematiğinde **Madde 86** başlığı altında 
-kodifiye edilmiştir. 
-
-Ayrıca belirtmek zorundayım ki; incelemem için sunduğun akademik kaynaklar 
-ağırlıklı olarak genel işlem koşulları, haksız fiil, aşırı yararlanma, 
-imkânsızlık ve seçimlik borçlara ilişkindir. Doğrudan doğruya "Çeşit Borçları 
-ve TBK m. 86" üzerine yazılmış monografik bir metin dosyalar arasında 
-bulunmamaktadır. Ancak çalışma yöntemimiz gereği bu eksikliği; sistemindeki 
-"İfa Seçimlik Borcun İfa ve İcrası", "İfanın Alacaklı Yüzünden 
-İmkânsızlaşması" ve "İfa Yerine Edimde Ayıp" başlıklı kaynaklardaki 
-genel dogmatik ilkelerden yola çıkarak ve Fikret Eren, M. Kemal Oğuzman, Turgut
-Öz ve Haluk Nami Nomer'in klasikleşmiş borçlar hukuku öğretileriyle 
-sentezleyerek bütünüyle tamamlayıp analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borç ilişkisinde borçlunun yerine getirmekle yükümlü olduğu 

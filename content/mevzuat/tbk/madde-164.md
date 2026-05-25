@@ -24,19 +24,6 @@ sorumlu olur.
 
 ### Akademik Yorum ve Analiz
 
-İnceleme başlığında ve talebinizde yer alan normatif eşleştirmelerde kavramsal 
-ve sistematik bir farklılık bulunduğunu belirtmek gerekir. Türk Borçlar Kanunu 
-(TBK) Madde 164 (Mehaz OR Art. 145) birden çok borçlunun bulunduğu müteselsil 
-borçluluk ilişkilerinde **"Müteselsil Borçlulukta Savunmalar (Ortak ve Kişisel 
-Def'i ve İtirazlar)"** konusunu düzenlemektedir. Talebinizde maddi özünü 
-oluşturduğunu belirttiğiniz **"İfa İmkânsızlığı - Sonradan İmkânsızlaşma 
-(Borçlunun Sorumlu Olmadığı Sonraki İmkânsızlık)"** kurumu ise, TBK Madde 
-136'da (Mehaz OR Art. 119) hüküm altına alınmıştır. Bu incelemede, borcu doğal 
-olmayan yollardan sona erdiren ve edimi ifa edilemez kılan "sonraki 
-imkânsızlık" kurumu (TBK m. 136) ile bu durumun müteselsil borçluların 
-alacaklıya karşı ileri sürebileceği "ortak savunmalar" rejimi (TBK m. 164) 
-dogmatik bir bütünlük içinde sentezlenerek analiz edilecektir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde borç ilişkisinin olağan ve beklenen sona erme 

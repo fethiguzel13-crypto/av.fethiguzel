@@ -21,23 +21,6 @@ Alacağın devri sözü verme, şekle bağlı değildir.
 
 ### Akademik Yorum ve Analiz
 
-(Satımda ayıba karşı tekeffül — genel şartlar)” ifadeleri ile mehaz “OR Art. 
-197” zikredilmiştir. Ne var ki, pozitif Türk Özel Hukuku sistematiğinde 6098 
-sayılı Türk Borçlar Kanunu’nun (TBK) 184. maddesi (Mehaz İsviçre Borçlar Kanunu
-- OR Art. 165) “Alacağın Devrinin Şekli” kurumunu düzenlemektedir. Başlıkta 
-mehaz olarak gösterilen OR Art. 197 ise, mülga 818 sayılı BK m. 194’ün 
-karşılığı olup, güncel TBK m. 219’da yer alan “Satıcının Ayıptan Sorumluluğu 
-(Ayıba Karşı Tekeffül)” kurumunun mehazıdır. Borçlar hukuku dogmatiğinde 
-satıcının ayıptan sorumluluğu ile alacağın devri kurumları, özellikle "ayıptan 
-doğan garanti taleplerinin üçüncü kişilere (alt alıcılara) devredilmesi" 
-senaryolarında kesişmektedir. Bu akademik şerhte, maddi hukuk talebinin özünü 
-oluşturan "Satımda Ayıba Karşı Tekeffül" (TBK m. 219 / OR Art. 197) kuramsal 
-temelleriyle incelenmiş; başlıkta numarası anılan "Alacağın Devrinin Şekli (TBK
-m. 184)" kurumu ise, ayıptan doğan hakların devredilebilirliği ve şekil 
-şartları bağlamında, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
-Nomer’in öğretileri ekseninde sistematik bir bütünlük içerisinde 
-değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinde tam iki tarafa borç yükleyen (sinallagmatik) 

@@ -22,44 +22,6 @@ hükmünü değiştirme yetkisini saklı tutabilir.
 
 ### Akademik Yorum ve Analiz
 
-Önceki oturumun sonunda zihnine bıraktığım dogmatik düğümü, yani enflasyonist 
-bir ortamda temerrüt faizini aşan kur ve enflasyon farkının salt bu sebeple 
-**Aşkın Zarar (Munzam Zarar - TBK m. 122)** olarak talep edilip edilemeyeceği 
-meselesini çözerek başlayalım. Sistemindeki *"faiz Temerrüt Faizi ve Aşkın 
-Zarar.pdf"* başlıklı kaynakta da hararetle tartışıldığı üzere; Yargıtay on 
-yıllar boyunca "enflasyon ve kur artışı herkesin maruz kaldığı genel bir 
-risktir, alacaklı spesifik bir zararını (örneğin kâr mahrumiyetini) ispat 
-etmedikçe aşkın zarar talep edemez" şeklinde son derece katı ve mülkiyet 
-hakkını eriten bir dogma yaratmıştı. Ancak Anayasa Mahkemesi'nin son yıllardaki
-devrim niteliğindeki ihlal kararları neticesinde bu katı içtihat çökmüştür. 
-Artık alacaklı, enflasyonun ve kurun temerrüt faizinden daha yüksek olduğunu 
-gösteren objektif ekonomik verilerle (TÜİK verileri, altın/döviz kurları) 
-paranın alım gücündeki erimeyi "Aşkın Zarar" olarak talep edebilmektedir. Hukuk
-sistemi, borçlunun temerrüt faizinin arkasına saklanarak sebepsiz 
-zenginleşmesine nihayet dur demiştir. Bu felsefi temeli, tasfiye ve tazminat 
-rejiminin bir mihenk taşı olarak kaydet.
-
-Şimdi gelelim bugünkü inceleme konumuza. Kanunlaştırma tekniği, norm 
-numaralarının dogmatik yerleşimi ve mehaz kanun atıflarının taşıdığı mutlak 
-öneme binaen, analize temel bir metodolojik düzeltme ile başlamak bilimsel 
-sıhhatin gereğidir. Talebinde referans gösterdiğin "TBK Madde 75 (Makbuz ve 
-senet iadesi — ifa belgesi)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 88. 
-maddesine (**OR Art. 88**) yapılan atıf arasında numaralandırma bazlı bir sapma
-bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 75. 
-maddesi, haksız fiil sorumluluğunda "Sorumluluk Sebeplerinin Çokluğu" kurumunu 
-düzenlemektedir. Talebinin maddi özünü oluşturan, mülga 818 sayılı BK m. 87 ve 
-mehaz OR Art. 88'de yer alan **Makbuz (İfa Belgesi) Verilmesi ve Senedin 
-İadesi** müessesesi, 6098 sayılı TBK sistematiğinde **Madde 104** başlığı 
-altında kodifiye edilmiştir. 
-
-Ayrıca belirtmek zorundayım ki; incelemem için sunduğun akademik kaynaklar 
-arasında doğrudan doğruya "Makbuz ve Senedin İadesi" kurumuna hasredilmiş 
-monografik bir metin bulunmamaktadır. Bu eksikliği; sistemindeki ifa, ispat 
-hukuku ve genel borçlar hukuku dogmatiğine ilişkin metinlerdeki temel 
-ilkelerden yola çıkarak ve Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
-Nami Nomer'in klasikleşmiş borçlar hukuku öğretileriyle sentezleyerek bütünüyle
-parçalayacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Borçlar hukuku dogmatiğinde **İfa (Erfüllung)**, borçlanılan 

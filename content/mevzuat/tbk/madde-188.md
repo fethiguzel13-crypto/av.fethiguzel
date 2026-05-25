@@ -22,28 +22,6 @@ veya onunla aynı anda muaccel olması koşuluyla borcu ile takas edebilir.
 
 ### Akademik Yorum ve Analiz
 
-Madde 188 (Temerrüt halinde satım sözleşmesi)” ibaresi ile mehaz “İsviçre 
-Borçlar Kanunu (OR) Art. 214” zikredilmiştir. Pozitif Türk Özel Hukuku 
-sistematiğinde 6098 sayılı Türk Borçlar Kanunu’nun (TBK) 188. maddesi (Mülga 
-818 sayılı BK m. 167; Mehaz OR Art. 169) borçlar hukuku genel hükümlerinde yer
-alan "Alacağın Devrinde Borçlunun Savunmaları (Def'i ve İtirazları)" kurumunu 
-düzenlemektedir. Başlıkta mehaz olarak gösterilen OR Art. 214 ise, mülga BK m. 
-211'in karşılığı olup, güncel TBK m. 236'da (ve bağlantılı olarak satıcının 
-temerrüdünü düzenleyen TBK m. 235'te) yer alan “Satım Sözleşmesinde 
-Alıcının/Satıcının Temerrüdü” müessesesinin mehazıdır. Borçlar hukuku 
-dogmatiğinde; tam iki tarafa borç yükleyen satım sözleşmelerinde taraflardan 
-birinin temerrüde düşmesi ile, satımdan doğan alacak hakkının (semen veya 
-teslim alacağının) üçüncü bir kişiye devredilmesi senaryoları birbiriyle 
-organik bir biçimde kesişmektedir. Satım sözleşmesinde temerrüt hâlinde 
-borçlunun, alacağı devralan üçüncü kişiye (örneğin faktoring şirketine) karşı 
-hangi savunmaları ileri sürebileceği sorunsalı, TBK m. 188 ile temerrüt 
-kurallarının (TBK m. 97, 106-125, 235-236) ortak uygulama alanıdır. Bu akademik
-şerhte, norm numarası olarak anılan "Alacağın Devrinde Savunmalar (TBK m. 188)"
-kuralı ile, maddi hukuk talebinin konusunu ve mehazını oluşturan "Satım 
-Sözleşmesinde Temerrüt (OR Art. 214 / TBK m. 236)" kurumları sentezlenerek; 
-Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer’in öğretileri 
-ekseninde sistematik bir bütünlük içerisinde değerlendirilmiştir.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Borçlar hukuku dogmatiğinin temelinde yer alan irade özerkliği 

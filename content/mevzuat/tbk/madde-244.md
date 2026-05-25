@@ -18,6 +18,6 @@ yılın ve satıcının ağır kusuru varsa yirmi yılın geçmesiyle zamanaşı
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

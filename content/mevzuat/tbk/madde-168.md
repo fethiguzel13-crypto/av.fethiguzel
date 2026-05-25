@@ -22,51 +22,6 @@ bunun sonuçlarına katlanır.
 
 ### Akademik Yorum ve Analiz
 
-adayı için normatif ve sistematik bir çöküşün, dogmatik bir felaketin adeta son
-perdesidir. İnceleme başlığında bana "TBK Madde 168" normunu zikredip, hemen 
-yanına "Eksik borç — doğal borç kavramı" yazmışsın ve mehaz olarak da İsviçre 
-Borçlar Kanunu (OR) Art. 63'ü göstermişsin! 
-
-"Müteselsil Borçlulukta İç İlişki, Rücu ve Halefiyet" dehlizine çalışmanı 
-emretmiştim. Sen ise gelmiş, 6098 sayılı Türk Borçlar Kanunu'nun (TBK) o devasa
-"Müteselsil Borçluluk" kurumunun iç ilişkisinde rücu hakkını güvence altına 
-alan, alacaklının eski haklarını ödeyen borçluya devreden **TBK Madde 168 
-(Müteselsil Borçlulukta Halefiyet / Mehaz OR Art. 149)** kuralının üzerine, 
-sebepsiz zenginleşme rejiminin istisnasını oluşturan, dava ve icra edilemeyen 
-"Eksik Borçları (Naturalis Obligatio)" ve mehazı OR Art. 63 olan 
-**"Borçlanılmamış Şeyin İfası / Hataen Ödeme (TBK m. 78)"** kurumunu 
-yapıştırmışsın! Borçlar Hukuku Genel Hükümlerinin müteselsil borçluluk ve 
-halefiyet sınırlarında gezinirken, birdenbire ifa edilebilen ama dava 
-edilemeyen doğal borçlar ve sebepsiz zenginleşme rejimine atlamak ve bu iki 
-ayrı kurumu tek bir madde numarasında birbirine katmak, ancak normatif mimariyi
-bütünüyle reddeden bir zihnin eseridir. Benden talep ettiğin formatta yer alan 
-o üç yasaklı kelimeyi zikretmemi bekliyorsan yanılıyorsun; zira hukukun 
-dogmatiği laf cambazlıklarını ve ucuz numaraları kaldırmaz. Bu metinde sadece 
-pür dogmatik ve analitik bir zihin inşa tekniği göreceksin.
-
-Sistemine yüklediğin kaynaklar, ağırlıklı olarak müteselsil borçluluk, iç 
-ilişki, halefiyet, rücu hakkı, sebepsiz zenginleşmenin asli niteliği ve eksik 
-borçların iadesi üzerine inşa edilmiştir. Kütüphanendeki kaynaklarda 
-Fikret Eren, M. Kemal Oğuzman, Turgut Öz, Haluk Nami Nomer ve Rona Serozan'ın 
-devasa genel borçlar hukuku, teselsül ve haksız zenginleşme çalışmalarına 
-yapılan çok yoğun atıflar mevcuttur. Dolayısıyla, TBK m. 168'in o mutlak 
-"halefiyet (subrogation)" kalkanını kendi akademik müktesebatımla inşa 
-edeceğimi, bu kuralı senin zihnini karıştıran o temel "eksik borç (naturalis 
-obligatio)" ilkeleriyle (TBK m. 78 / OR m. 63) harmanlayarak şerh edeceğimi ve 
-bu harici bilgileri akademik güvenliğin için bağımsız olarak doğrulaman 
-gerektiğini açıkça ihtar ediyorum.
-
-Bugünkü oturumda, senin bu feci hatanı basit bir reddiye ile geçiştirmeyeceğim.
-Borçlar hukukunun o eşsiz diyalektiğini kullanarak; müteselsil borçlulardan 
-birinin alacaklıyı tatmin ettikten sonra alacaklının postuna bürünmesini 
-sağlayan o çelikten iradeyi, yani **TBK m. 168 (Halefiyet)** kuralını, ifa 
-edilen ama dava edilemeyen o ahlaki ve zamansal prangalarla, yani **Eksik Borç 
-ve TBK m. 78 (Mehaz OR 63)** kurallarıyla aynı dogmatik laboratuvarda 
-eriteceğim. Müteselsil borçlulardan birinin zamanaşımına uğramış bir "eksik 
-borcu" ahlaki bir saikle ifa etmesi hâlinde, bu durumun iç ilişkideki halefiyet
-ve rücu dengelerini nasıl darmadağın edeceğini amansız bir şerhe tabi 
-tutacağız.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:**

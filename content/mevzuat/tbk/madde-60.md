@@ -23,30 +23,6 @@ giderim imkânı sağlayan sorumluluk sebebine göre karar verir.
 
 ### Akademik Yorum ve Analiz
 
-Borçlar Hukuku Genel Hükümler müktesebatının, zamanın dönüştürücü gücünü ve 
-hukuki güvenliği en keskin biçimde yansıtan tasfiye kurumlarından birini 
-inceleme aşamasına gelmiş bulunmaktayız. Öncelikle dogmatik ve kanunlaştırma 
-tekniği bakımından hayati bir metodolojik düzeltme ile temel atmak zorunludur. 
-Talebinde referans gösterdiğin "TBK Madde 60 (Zamanaşımının durması — aile 
-ilişkileri)" başlığı ile mehaz İsviçre Borçlar Kanunu'nun 134. maddesine (**OR 
-Art. 134**) yapılan atıf arasında tarihsel ve kavramsal bir sapma 
-bulunmaktadır. Yürürlükteki 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 60. 
-maddesi, "Sorumluluk Sebeplerinin Çokluğu (Taleplerin Yarışması)" kurumunu 
-düzenlemektedir. Talebinde esas aldığın, mülga 818 sayılı BK m. 132 ve mehaz OR
-Art. 134'te yer alan **Zamanaşımının Durması (Aile İlişkileri vb.)** 
-müessesesi, 6098 sayılı TBK sistematiğinde **Madde 153** başlığı altında 
-kodifiye edilmiştir. 
-
-Bununla birlikte çalışma yöntemimiz gereği kaynak tespitini de yapmak 
-zorundayım: Yüklemiş olduğun akademik metinler ağırlıklı olarak haksız 
-fiillerde zamanaşımı (TBK m. 72) olağanüstü zamanaşımı ve ceza zamanaşımı 
-meselelerine odaklanmakta olup; zamanaşımının durması ve kesilmesine 
-ilişkin olarak doğrudan TBK m. 153-157 hükümlerine genel atıflar içermektedir. Hukuki kesinlik ve bilimsel metodoloji gereği, maddi talebinin özünü 
-oluşturan "Zamanaşımının Durması" kurumunu, kanuni karşılığı olan **TBK Madde 
-153** ekseninde, kaynaklardaki zamanaşımı dogmatiğiyle sentezleyerek ve Fikret 
-Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer öğretileri ışığında 
-bütünüyle parçalayarak analiz edeceğiz.
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Makro Bakış:** Özel hukukta zamanaşımı, bir hakkın kazanılmasında ya da 

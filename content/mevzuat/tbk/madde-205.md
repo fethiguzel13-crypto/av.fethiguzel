@@ -30,10 +30,6 @@ Kanundan doğan halefiyet hâlleri ile diğer özel hükümler saklıdır.
 
 ### Akademik Yorum ve Analiz
 
-*(Önemli Not: Sağladığınız kaynaklar; genel işlem koşulları, aşırı ifa güçlüğü, muvazaa, temerrüt ve haksız fiil gibi çeşitli Borçlar Hukuku başlıklarını içermektedir. Kaynak setinizde 6098 sayılı Türk Borçlar Kanunu'nun (TBK) 205. maddesinin tam metni bulunmakla birlikte [1, 2], sorunuzda özel olarak talep ettiğiniz İsviçre Borçlar Kanunu (OR) mukayesesi ile Fikret Eren, Kemal Oğuzman, Turgut Öz, Halûk Nomer gibi otoritelerin doktrin tartışmaları ve spesifik Yargıtay içtihatları kaynaklarınızda yer almamaktadır. Bu nedenle, yanıtın ilgili bölümleri kaynak dışı genel akademik ve mesleki hukuk birikiminden sağlanmış olup, teyide muhtaç harici bilgiler içermektedir.)*
-
-***
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 6098 sayılı Türk Borçlar Kanunu’nun (TBK) "Borç İlişkilerinde Taraf Değişiklikleri" başlıklı Beşinci Bölümü'nün "Sözleşmenin Devri ve Sözleşmeye Katılma" başlıklı Üçüncü Ayırımı'nda yer alan 205. madde, mülga 818 sayılı Borçlar Kanunu'nda (eBK) doğrudan karşılığı bulunmayan, ancak doktrin ve içtihatlarla geliştirilen "sözleşmenin devri" kurumunu pozitif hukuka kazandıran temel normdur. Madde lafzında sözleşmenin devri, sözleşmeyi devralan ile devreden ve sözleşmede kalan taraf arasında yapılan ve devredenin bu sözleşmeden doğan taraf olma sıfatı ile birlikte bütün hak ve borçlarını devralana geçiren bir anlaşma olarak tanımlanmıştır [1].
@@ -85,4 +81,4 @@ TBK m. 205, İsviçre Borçlar Kanunu'nda (OR) dahi kodifiye edilmemiş bir kuru
 ---
 
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur. Lütfen analizdeki bazı doktrin ve içtihat referanslarının veri setinin dışından, alanın temel dogmatiğine dayanılarak sunulduğunu ve akademik bir ihtiyatla değerlendirilmesi gerektiğini göz önünde bulundurunuz.
+Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur. 

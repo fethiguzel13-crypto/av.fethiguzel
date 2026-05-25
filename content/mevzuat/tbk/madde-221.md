@@ -13,6 +13,6 @@ sorumluluğunu kaldıran veya sınırlayan her anlaşma kesin olarak hükümsüz
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
