@@ -1,0 +1,37 @@
+import { strict as assert } from 'node:assert';
+import { test, mock } from 'node:test';
+
+// Mock Anthropic SDK
+mock.module('@anthropic-ai/sdk', {
+  namedExports: {},
+  defaultExport: class MockAnthropic {
+    get messages() {
+      return {
+        create: async () => ({
+          content: [{ text: 'Bir vatandaş yıllarca bekledi ve sonunda hakkını aldı.' }]
+        })
+      };
+    }
+  }
+});
+
+const { writeTweets } = await import('../tweet-writer.js');
+
+test('writeTweets returns one tweet per highlight', async () => {
+  const highlights = [
+    { source: 'AYM', publicSummary: 'Test özeti', id: 'aym-1' }
+  ];
+  const tweets = await writeTweets(highlights, 'avfethiguzel.com');
+  assert.equal(tweets.length, 1);
+  assert.ok(tweets[0].includes('avfethiguzel.com/icthat'));
+  assert.ok(tweets[0].length <= 280);
+});
+
+test('writeTweets handles missing publicSummary', async () => {
+  const highlights = [
+    { source: 'Yargıtay', konu: 'Konu metni', id: 'yargitay-1' }
+  ];
+  const tweets = await writeTweets(highlights, 'avfethiguzel.com');
+  assert.equal(tweets.length, 1);
+  assert.ok(tweets[0].length <= 280);
+});
