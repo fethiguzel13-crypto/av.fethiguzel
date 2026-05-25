@@ -47,3 +47,7 @@ scraper/node_modules/
 
 # Editor scratch files
 app/mevzuat/Untitled-*.txt
+
+# Twitter startup agent
+.tweet-log.json
+logs/
