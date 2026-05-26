@@ -53,10 +53,7 @@ Maddenin ikinci fıkrası, iflas hukuku bağlamında "doğrudan iflas" müessese
 
 #### 4. Uygulama: Yargıtay İçtihadı ve Doktrin Yaklaşımları
 
-Kollektif şirkette ortakların sorumluluğu ve ilamların icrası hususu, Türk Ticaret Hukuku doktrininde (örneğin *kaynak metinlerde atıf yapılan Poroy, Tekinalp, Çamoğlu gibi otoritelerin eserlerinde*) "tüzel kişilik perdesi"nin kanuni bir düzenleme ile aralandığı, alacaklı menfaatinin maksimize edildiği özgün bir alan olarak incelenir. 
-
-*(Not: Sağlanan veri kapsamında doğrudan Yargıtay karar metni bulunmamakla birlikte, ilgili doktrin tartışmaları metinlerde şu şekilde geçer:)*
-Doktrinde ve yargı uygulamasında kabul edildiği üzere, TTK m. 238 bağlamında şirket aleyhine alınan ilamın icrası, "dava dışı diğer ortakların da ilamdan etkilenmesi" ve kesin hükmün taraflar dışına sirayeti sonucunu doğurmaktadır [4]. Yargıtay uygulamalarında, ilamlı takip yapılırken doğrudan ortağa icra emri gönderilemeyeceği; öncelikle şirket adına takip başlatılıp borcun ödenmemiş veya takibin semeresiz kalmış olmasının icra müdürü tarafından belgelenmesi (tespiti) gerektiği vurgulanmaktadır. Sorumluluğun fer'iliği (ikincilliği) ilkesi, alacaklının keyfi olarak şahsi malvarlıklarına yönelmesini engeller.
+Kollektif şirkette ortakların sorumluluğu ve ilamların icrası hususu, Türk Ticaret Hukuku doktrininde (örneğin Poroy, Tekinalp, Çamoğlu gibi otoritelerin eserlerinde) "tüzel kişilik perdesi"nin kanuni bir düzenleme ile aralandığı, alacaklı menfaatinin maksimize edildiği özgün bir alan olarak incelenir. Doktrinde ve yargı uygulamasında kabul edildiği üzere, TTK m. 238 bağlamında şirket aleyhine alınan ilamın icrası, "dava dışı diğer ortakların da ilamdan etkilenmesi" ve kesin hükmün taraflar dışına sirayeti sonucunu doğurmaktadır [4]. Yargıtay uygulamalarında, ilamlı takip yapılırken doğrudan ortağa icra emri gönderilemeyeceği; öncelikle şirket adına takip başlatılıp borcun ödenmemiş veya takibin semeresiz kalmış olmasının icra müdürü tarafından belgelenmesi (tespiti) gerektiği vurgulanmaktadır. Sorumluluğun fer'iliği (ikincilliği) ilkesi, alacaklının keyfi olarak şahsi malvarlıklarına yönelmesini engeller.
 
 #### 5. Pratik Örnek Olaylar
 
