@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { loadDaily } from '@/lib/daily-server';
+import { loadAvailableAnalysisIds } from '@/lib/analysis';
 import IcthatList from '@/components/IcthatList';
 
 export const metadata: Metadata = {
@@ -11,6 +12,7 @@ export const metadata: Metadata = {
 
 export default function IcthatPage() {
   const data = loadDaily();
+  const analysisIds = loadAvailableAnalysisIds();
 
   return (
     <div className="bg-cream min-h-screen">
@@ -37,7 +39,7 @@ export default function IcthatPage() {
             <p className="text-lg">Bugün için yeni gelişme bulunmuyor.</p>
           </div>
         ) : (
-          <IcthatList data={data} />
+          <IcthatList data={data} analysisIds={analysisIds} />
         )}
       </main>
 

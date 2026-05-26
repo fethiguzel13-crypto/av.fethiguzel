@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState } from 'react';
+import Link from 'next/link';
 import { ScrollText, Scale, Landmark, Flag, BookOpen, Copy, Check, ExternalLink } from 'lucide-react';
 import type { DailyData, DailyItem } from '@/lib/daily';
 import { itemTitle, formatTrDate } from '@/lib/daily';
@@ -34,7 +35,7 @@ function CopyButton({ text }: { text: string }) {
   );
 }
 
-function Item({ item }: { item: DailyItem }) {
+function Item({ item, hasAnalysis }: { item: DailyItem; hasAnalysis: boolean }) {
   return (
     <article className="bg-white border border-charcoal/5 rounded-[1.5rem] p-6 hover:border-charcoal/20 transition">
       <div className="flex justify-between items-start gap-4 mb-3">
@@ -60,17 +61,27 @@ function Item({ item }: { item: DailyItem }) {
       )}
       <div className="flex items-center justify-between pt-3 border-t border-charcoal/5">
         <span className="text-charcoal/40 text-xs font-mono uppercase tracking-widest">{formatTrDate(item.date)}</span>
-        {item.url && (
-          <a href={item.url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-accent font-bold tracking-widest uppercase">
-            Kaynak <ExternalLink size={12} />
-          </a>
-        )}
+        <div className="flex items-center gap-4">
+          {hasAnalysis && (
+            <Link
+              href={`/icthat/${item.id}`}
+              className="text-xs text-accent font-bold tracking-widest uppercase hover:underline"
+            >
+              Analizi Oku →
+            </Link>
+          )}
+          {item.url && (
+            <a href={item.url} target="_blank" rel="noopener noreferrer" className="flex items-center gap-1 text-xs text-accent font-bold tracking-widest uppercase">
+              Kaynak <ExternalLink size={12} />
+            </a>
+          )}
+        </div>
       </div>
     </article>
   );
 }
 
-function Section({ sourceKey, items }: { sourceKey: keyof DailyData['items']; items: DailyItem[] }) {
+function Section({ sourceKey, items, analysisIdSet }: { sourceKey: keyof DailyData['items']; items: DailyItem[]; analysisIdSet: Set<string> }) {
   if (!items || items.length === 0) return null;
   const header = SOURCE_HEADERS[sourceKey];
   const HeaderIcon = header.icon;
@@ -84,14 +95,15 @@ function Section({ sourceKey, items }: { sourceKey: keyof DailyData['items']; it
         <span className="text-xs font-mono text-charcoal/40 uppercase tracking-widest">{items.length} kayıt</span>
       </div>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {items.map((it) => <Item key={it.id} item={it} />)}
+        {items.map((it) => <Item key={it.id} item={it} hasAnalysis={analysisIdSet.has(it.id)} />)}
       </div>
     </section>
   );
 }
 
-export default function IcthatList({ data }: { data: DailyData }) {
+export default function IcthatList({ data, analysisIds = [] }: { data: DailyData; analysisIds?: string[] }) {
   const [filter, setFilter] = useState<string>('all');
+  const analysisIdSet = new Set(analysisIds);
 
   const visibleKeys = filter === 'all' ? SOURCE_ORDER : [filter as keyof DailyData['items']];
   const visibleSections = visibleKeys.filter((key) => (data.items[key] || []).length > 0);
@@ -106,7 +118,7 @@ export default function IcthatList({ data }: { data: DailyData }) {
       ) : (
         <div className="space-y-16">
           {visibleSections.map((key) => (
-            <Section key={key} sourceKey={key} items={data.items[key]} />
+            <Section key={key} sourceKey={key} items={data.items[key]} analysisIdSet={analysisIdSet} />
           ))}
         </div>
       )}
