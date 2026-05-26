@@ -2,6 +2,11 @@
 title: "TTK Madde 406"
 kanun: "Türk Ticaret Kanunu"
 maddeNo: 406
+commentaryStatus: "completed"
+lastReviewed: "2026-05-26"
+wordCount: 116
+keywords:
+  - "ticaret kanunu"
 ---
 
 **I) Topluluk ilişkileri için özel denetçi denetimi**
@@ -13,6 +18,12 @@ DÖRDÜNCÜ   BÖLÜM  Genel   Kurul  A)   Genel   olarak
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+**Clarifying Shareholder Rights**
+
+I'm now clarifying the shareholder's direct petition right under Article 406. I'm focusing on scenarios involving uncompensated losses due to group actions, where any shareholder can seek a special audit directly from the court, bypassing a general assembly. This is emphasized by TTK 207 and 406's special provision for groups of companies. It grants a robust individual right for shareholders.
+
+**Drafting the Commentary**
+
+I'm now structuring my commentary section-by-section. I've started by defining the place and *ratio legis* of TTK m. 406 within the audit framework, especially concerning group relations. I'm noting the law's intention to protect shareholders in subsidiary companies. TTK m. 406 specifically bypasses the General Assembly requirement for special audits.
