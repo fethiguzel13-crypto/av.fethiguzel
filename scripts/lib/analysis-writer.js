@@ -15,9 +15,14 @@ Yanıtı SADECE aşağıdaki JSON formatında ver, başka hiçbir şey ekleme:
   "pratikEtki": "Bu karar hangi durumlarda emsal oluşturur? Benzer durumda olan biri için ne anlam taşır?"
 }`;
 
-function parseResponse(text) {
-  const cleaned = text.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
-  return JSON.parse(cleaned);
+function parseResponse(text, id) {
+  const trimmed = text.trim();
+  const cleaned = trimmed.replace(/^```(?:json)?\s*/i, '').replace(/\s*```$/, '').trim();
+  try {
+    return JSON.parse(cleaned);
+  } catch (e) {
+    throw new Error(`JSON parse failed for ${id}: ${e.message}\n---\n${cleaned}`);
+  }
 }
 
 export async function writeAnalysis(highlight, client = new Anthropic()) {
@@ -31,7 +36,7 @@ export async function writeAnalysis(highlight, client = new Anthropic()) {
 
   const msg = await client.messages.create({
     model: 'claude-sonnet-4-6',
-    max_tokens: 1024,
+    max_tokens: 2048,
     system: SYSTEM,
     messages: [{ role: 'user', content }]
   });
@@ -39,7 +44,14 @@ export async function writeAnalysis(highlight, client = new Anthropic()) {
   const raw = msg.content?.[0]?.text;
   if (!raw) throw new Error(`Empty API response for highlight ${highlight.id}`);
 
-  const sections = parseResponse(raw);
+  const sections = parseResponse(raw, highlight.id);
+
+  const required = ['davaSozeti', 'mahkemeninKarari', 'benimGozlemim', 'pratikEtki'];
+  for (const key of required) {
+    if (typeof sections[key] !== 'string') {
+      throw new Error(`Missing section '${key}' in response for ${highlight.id}`);
+    }
+  }
 
   return {
     id: highlight.id,

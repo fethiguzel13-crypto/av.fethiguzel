@@ -60,4 +60,16 @@ describe('writeAnalysis', () => {
       /empty/i
     );
   });
+
+  it('throws when response text is blank', async () => {
+    const mockClient = {
+      messages: {
+        create: async () => ({ content: [{ type: 'text', text: '' }] })
+      }
+    };
+    await assert.rejects(
+      () => writeAnalysis(MOCK_HIGHLIGHT, mockClient),
+      /empty/i
+    );
+  });
 });
