@@ -16,17 +16,22 @@ async function main() {
   const daily = JSON.parse(await readFile(dailyPath, 'utf-8'));
   const highlights = daily.highlights || [];
 
+  await mkdir(outDir, { recursive: true });
+
   if (highlights.length === 0) {
     console.log('[build-analysis] no highlights found, nothing to do');
     return;
   }
 
-  await mkdir(outDir, { recursive: true });
-
   let generated = 0;
   let skipped = 0;
 
   for (const h of highlights) {
+    if (!h.id) {
+      console.warn(`[build-analysis] skip highlight with missing id (source: ${h.source || 'unknown'})`);
+      skipped++;
+      continue;
+    }
     const outPath = join(outDir, `${h.id}.json`);
     if (await exists(outPath)) {
       console.log(`[build-analysis] skip ${h.id} (already exists)`);
@@ -35,7 +40,7 @@ async function main() {
     }
     console.log(`[build-analysis] generating ${h.id}...`);
     const analysis = await writeAnalysis(h);
-    await writeFile(outPath, JSON.stringify(analysis, null, 2));
+    await writeFile(outPath, JSON.stringify(analysis, null, 2), 'utf-8');
     console.log(`[build-analysis] ✓ ${h.id}`);
     generated++;
   }
