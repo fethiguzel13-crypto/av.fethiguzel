@@ -44,7 +44,7 @@ TTK m. 442/3 uyarınca mahkeme, sırların korunmasına ilişkin süzgeçten ge�
 
 - **TTK m. 438 ve m. 440 (Özel Denetim İsteminin Şartları ve Atama)**: Rapor, 438. maddedeki şartların varlığı halinde mahkemece 440. maddeye göre atanan denetçinin faaliyetinin ürünüdür. Raporun kapsamı, mahkemenin m. 440/2 uyarınca çizdiği inceleme konusunun sınırlarını aşamaz [7, 8].
 - **TTK m. 443 (İşleme Konulma ve Açıklama)**: Mahkeme süreci tamamlandıktan sonra yönetim kurulu, raporu ve değerlendirmeleri ilk genel kurula sunmakla mükelleftir [9, 10].
-- **TTK m. 404 (Sır Saklama Yükümlülüğü)**: Özel denetçinin 442/1 uyarınca sırları koruma ödevi, 404. maddede düzenlenen hukuki (tazminat) sorumluluğunun temelini oluşturur [11, 12].
+- **TTK m. 404 (Sır Saklama Yükümlülüğü)**: Özel denetçinin 442/1 uyarınca sırları koruma yükümlülüğü, 404. maddede düzenlenen hukuki (tazminat) sorumluluğunun temelini oluşturur [11, 12].
 - **TMK m. 2 (Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması Yasağı)**: Pay sahiplerinin özel denetim raporundaki bilgileri şirkete zarar vermek kastıyla, örneğin rakip firmalara sızdırmak amacıyla kullanmaları dürüstlük kuralına aykırıdır ve kanun nezdinde himaye görmez [8, 13].
 
 #### 4. Uygulama: Yargıtay İçtihadı
