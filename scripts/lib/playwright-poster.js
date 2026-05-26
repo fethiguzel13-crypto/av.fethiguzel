@@ -42,7 +42,10 @@ export async function postTweets(tweets) {
       const textarea = page.locator('[data-testid="tweetTextarea_0"]');
       await textarea.waitFor({ timeout: 20_000 });
       await textarea.click();
-      await page.keyboard.type(text, { delay: 30 });
+
+      // Clipboard paste — most reliable way to trigger Twitter's React state
+      await page.evaluate(t => navigator.clipboard.writeText(t), text);
+      await page.keyboard.press('Control+v');
       await page.waitForTimeout(2_000);
 
       const postBtn = page.locator('[data-testid="tweetButtonInline"]:not([disabled])');
