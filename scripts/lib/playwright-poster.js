@@ -4,7 +4,7 @@ import { join } from 'node:path';
 
 const CHROME_PROFILE = join(homedir(), 'AppData', 'Local', 'Google', 'Chrome', 'User Data', 'TwitterBot');
 const TWEET_DELAY_MS = 30_000;
-const COMPOSE_URL = 'https://x.com/compose/tweet';
+const HOME_URL = 'https://x.com/home';
 
 export async function postTweets(tweets) {
   if (!tweets || tweets.length === 0) {
@@ -37,20 +37,20 @@ export async function postTweets(tweets) {
       const text = tweets[i];
       console.log(`[playwright-poster] posting tweet ${i + 1}/${tweets.length}`);
 
-      await page.goto(COMPOSE_URL, { waitUntil: 'domcontentloaded' });
-
-      const textarea = page.locator('[data-testid="tweetTextarea_0"]');
-      await textarea.waitFor({ timeout: 20_000 });
-      await textarea.click();
-
-      // Clipboard paste — most reliable way to trigger Twitter's React state
-      await page.evaluate(t => navigator.clipboard.writeText(t), text);
-      await page.keyboard.press('Control+v');
+      // Fresh page load before each tweet for clean compose state
+      await page.goto(HOME_URL, { waitUntil: 'domcontentloaded' });
       await page.waitForTimeout(2_000);
 
-      const postBtn = page.locator('[data-testid="tweetButtonInline"]:not([disabled])');
+      const textarea = page.locator('[data-testid="primaryColumn"] [data-testid="tweetTextarea_0"]');
+      await textarea.waitFor({ timeout: 20_000 });
+      await textarea.click();
+      await page.waitForTimeout(500);
+      await textarea.pressSequentially(text, { delay: 20 });
+      await page.waitForTimeout(2_000);
+
+      const postBtn = page.locator('[data-testid="primaryColumn"] [data-testid="tweetButtonInline"]:not([disabled])');
       await postBtn.waitFor({ timeout: 15_000 });
-      await postBtn.click();
+      await postBtn.click({ force: true });
       await page.waitForTimeout(3_000);
 
       console.log(`[playwright-poster] ✓ tweet ${i + 1} posted`);
