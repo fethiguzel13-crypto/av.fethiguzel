@@ -17,7 +17,12 @@ export async function postTweets(tweets) {
     context = await chromium.launchPersistentContext(CHROME_PROFILE, {
       channel: 'chrome',
       headless: false,
-      args: ['--no-first-run', '--no-default-browser-check'],
+      ignoreDefaultArgs: ['--enable-automation'],
+      args: [
+        '--disable-blink-features=AutomationControlled',
+        '--no-first-run',
+        '--no-default-browser-check',
+      ],
     });
   } catch (err) {
     console.error(`[playwright-poster] failed to open Chrome profile at ${CHROME_PROFILE}`);
@@ -36,11 +41,12 @@ export async function postTweets(tweets) {
 
       const textarea = page.locator('[data-testid="tweetTextarea_0"]');
       await textarea.waitFor({ timeout: 20_000 });
-      await textarea.fill(text);
-      await page.waitForTimeout(1_500);
+      await textarea.click();
+      await page.keyboard.type(text, { delay: 30 });
+      await page.waitForTimeout(2_000);
 
-      const postBtn = page.locator('[data-testid="tweetButtonInline"]');
-      await postBtn.waitFor({ timeout: 10_000 });
+      const postBtn = page.locator('[data-testid="tweetButtonInline"]:not([disabled])');
+      await postBtn.waitFor({ timeout: 15_000 });
       await postBtn.click();
       await page.waitForTimeout(3_000);
 
