@@ -2,6 +2,11 @@
 title: "TTK Madde 379"
 kanun: "Türk Ticaret Kanunu"
 maddeNo: 379
+commentaryStatus: "completed"
+lastReviewed: "2026-05-26"
+wordCount: 87
+keywords:
+  - "ticaret kanunu"
 ---
 
 **5. Şirketin kendi paylarını iktisap veya rehin olarak kabul etmesi
@@ -14,6 +19,8 @@ sözleşme   uyarınca   dağıtılmasına   izin   verilmeyen   yedek   akçele
 
 ---
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+**Dissecting the Article's Core**
+
+I am now thoroughly examining the core concepts within TTK m. 379, especially focusing on conditional permissions up to 10%, aligning it with EU harmonization via the Second Company Law Directive (2012/30/EU). I'm also actively analyzing the ratio legis, including capital maintenance, creditor protection, and preventing insider trading. I'm scrutinizing the scope of the prohibition on acquisitions and pledges, including the 10% limit. I am also assessing general assembly authorizations and net asset requirements, focusing on the five-year limits and the evaluation processes.
