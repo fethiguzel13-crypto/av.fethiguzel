@@ -37,6 +37,11 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: node scripts/build-daily.js /tmp/raw.json public/data/
 
+      - name: Build analyses
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/build-analysis.js public/data/daily.json public/data/analyses/
+
       - name: Commit if changed
         run: |
           git config user.name "icthat-bot"
