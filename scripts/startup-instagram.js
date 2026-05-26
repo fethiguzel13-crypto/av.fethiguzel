@@ -58,16 +58,22 @@ async function main() {
 
   const cardPaths = [];
   for (const h of highlights) {
-    console.log(`[startup-instagram] generating card for ${h.id}...`);
+    console.log(`[startup-instagram] generating card for ${h.id ?? h.title ?? 'unknown'}...`);
     const path = await generateCard(h);
     cardPaths.push(path);
   }
   console.log(`[startup-instagram] ${cardPaths.length} cards generated`);
 
-  const posts = cardPaths.map((imagePath, i) => ({ imagePath, caption: captions[i] }));
-  await postInstagram(posts);
+  if (captions.length !== cardPaths.length) {
+    throw new Error(`[startup-instagram] caption/card count mismatch: ${captions.length} captions vs ${cardPaths.length} cards`);
+  }
 
-  for (const p of cardPaths) await deleteCard(p);
+  const posts = cardPaths.map((imagePath, i) => ({ imagePath, caption: captions[i] }));
+  try {
+    await postInstagram(posts);
+  } finally {
+    for (const p of cardPaths) await deleteCard(p);
+  }
 
   await markPostedToday();
   console.log('[startup-instagram] done');
