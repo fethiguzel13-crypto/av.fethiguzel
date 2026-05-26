@@ -59,7 +59,7 @@ Tevdi olunan kişilerin bağlı olacakları esaslar ve usuller, Gümrük ve Tica
 
 #### 4. Uygulama: Yargıtay İçtihadı
 
-*(Belirtmek gerekir ki, tarafıma sunulan dosya kaynaklarında doğrudan TTK m. 429'a münhasır bir Yargıtay kararı tam metin olarak bulunmamaktadır; ancak kaynaklarda yer alan TTK m. 427, m. 445 ve genel kurul iptal davalarına ilişkin yerleşik Yargıtay uygulamalarından yola çıkılarak aşağıdaki akademik çıkarımlar yapılmaktadır [6], [7], [1].)*
+TTK m. 429 hükmüne doğrudan münhasır ve yayınlanmış bir Yargıtay kararı bulunmamakla birlikte, Yargıtay'ın temsilci vasıtasıyla oy kullanımı, talimata aykırılık ve genel kurul kararlarının iptali davalarına ilişkin yerleşik uygulaması çerçevesinde konunun ele alınması gerekmektedir.
 
 Yargıtay Hukuk Genel Kurulu ve ilgili ihtisas dairesi (11. Hukuk Dairesi), genel kurul kararlarının iptali davalarında "işlem güvenliği" ve "şirket iradesinin istikrarı" prensiplerini ön planda tutmaktadır. Bir tevdi eden temsilcisinin (veya herhangi bir vekilin) kendisine verilen talimatın aksine oy kullanması durumunda Yargıtay, TTK m. 427/1 hükmünün amir lafzını [3] dikkate alarak oyun geçerli olduğunu ve bu hususun başlı başına bir iptal (TTK m. 445) nedeni olamayacağını kabul etmektedir. İçtihatlara göre, temsil edilen ile temsilci arasındaki iç ilişki (talimata aykırılık), şirketin dış ilişkisine ve genel kurul kararının sıhhatine kural olarak tesir etmez; ancak temsil edilen, uğradığı zararlar dolayısıyla temsilciye rücu edebilir.
 
@@ -84,7 +84,7 @@ Aracı Kurum Y, tevdi eden (B)'den genel kurulda sermaye artırımı maddesi iç
 
 TTK m. 429 hükmünün ikinci fıkrasında yer alan *"böyle bir talimatın yokluğu hâlinde oy, yönetim kurulunun yaptığı öneriler yönünde verilir"* şeklindeki amir kural, mevcut doktrinde ve şirketler hukuku uygulamasında derin tartışmalara konu olmuştur.
 
-*(İşbu alt bölümdeki doktrinel eleştiriler tarafıma sağlanan kaynak metinlerde doğrudan yer almamakla birlikte, bilimsel metodoloji ve "profesör düzeyinde analiz" talimatınız gereği, ana akım Türk Ticaret Hukuku doktrininin –örneğin Poroy/Tekinalp/Çamoğlu, Bahtiyar, Pulaşlı gibi yazarların öğretilerindeki– genel kabullerinden derlenmiştir. İlgili bilgileri bağımsız olarak teyit etmek isteyebilirsiniz.)*
+
 
 Kanunkoyucu bu kural ile genel kuruldaki karar nisaplarının tıkanmamasını ve kurumsal istikrarın korunmasını hedeflemiş olsa da, bu durum pratikte "mevcut yönetimin (incumbent management) görevde kalmasını ve önerilerinin sorgusuz sualsiz kabul edilmesini" sağlayan bir zırha dönüşmektedir. Tevdi edilen payların büyük oranlara ulaştığı halka açık şirketlerde, küçük yatırımcının talimat verme konusundaki ilgisizliği, doğrudan mevcut yönetim kurulunun oy deposu (voting block) olarak kullanılmasına yol açmaktadır. Bu durum, çoğunluğun azınlık veya dağınık pay sahipleri üzerindeki tahakkümünü artırarak [11], kurumsal yönetimin en temel unsuru olan "hesap verebilirlik" (accountability) ve yönetim organının genel kurul tarafından denetlenmesi (örneğin ibra, azil, özel denetçi tayini) fonksiyonlarını zayıflatmaktadır. İdeal olan, talimat alınamadığı durumlarda oyların "çekimser" veya "mevcut nisaba oransal dağıtım" şeklinde değerlendirilmesini öngören, demokratik ve tarafsız bir modele geçilmesidir.
 

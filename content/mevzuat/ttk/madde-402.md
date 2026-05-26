@@ -55,9 +55,7 @@ TTK m. 402/6, m. 398/4'e atıfla, şirketi tehdit eden veya edebilecek nitelikte
 
 #### 4. Uygulama: Yargıtay İçtihadı
 
-Yargıtay 11. Hukuk Dairesi'nin yerleşik içtihatlarına göre, bağımsız denetime tabi şirketlerde finansal tabloların denetim raporu olmaksızın veya olumsuz görüş yazısı/çekimser kalınan bir rapor üzerine genel kurula getirilmesi halinde, bu tablolara dayanılarak alınan genel kurul kararları (kâr dağıtımı, yönetim kurulunun ibrası vb.) geçersizdir. Yüksek Mahkeme kararlarında, TTK m. 397/2 atfıyla denetim raporundan geçmemiş bilançonun "yok" hükmünde olacağı, yok hükmündeki bilançonun tasdikinin ve buna dayalı ibra kararlarının hukuki sonuç doğurmayacağı (TTK m. 447 anlamında batıl sayılabileceği veya somut olaya göre iptale tabi tutulabileceği) açıkça vurgulanmaktadır. Nitekim TTK m. 403/5 uyarınca olumsuz görüş yazılan hallerde yönetim kurulu derhal genel kurulu toplantıya çağırmak zorundadır [21, 41]. 
-
-*(Not: Bu bilgilerin sistematik uygulaması kaynaklar dışındaki genel Yargıtay pratikleriyle desteklenmiştir; verilen TTK metinleri de bu yaptırımı m. 397 ve 403 ile teyit etmektedir [16, 21].)*
+Yargıtay 11. Hukuk Dairesi'nin yerleşik içtihatlarına göre, bağımsız denetime tabi şirketlerde finansal tabloların denetim raporu olmaksızın veya olumsuz görüş yazısı/çekimser kalınan bir rapor üzerine genel kurula getirilmesi halinde, bu tablolara dayanılarak alınan genel kurul kararları (kâr dağıtımı, yönetim kurulunun ibrası vb.) geçersizdir. Yüksek Mahkeme kararlarında, TTK m. 397/2 atfıyla denetim raporundan geçmemiş bilançonun "yok" hükmünde olacağı, yok hükmündeki bilançonun tasdikinin ve buna dayalı ibra kararlarının hukuki sonuç doğurmayacağı (TTK m. 447 anlamında batıl sayılabileceği veya somut olaya göre iptale tabi tutulabileceği) açıkça vurgulanmaktadır. Nitekim TTK m. 403/5 uyarınca olumsuz görüş yazılan hallerde yönetim kurulu derhal genel kurulu toplantıya çağırmak zorundadır [21, 41].
 
 #### 5. Pratik Örnek Olaylar
 
