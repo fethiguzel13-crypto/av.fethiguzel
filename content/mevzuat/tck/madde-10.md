@@ -4,7 +4,7 @@ kanun: "Türk Ceza Kanunu"
 maddeNo: 10
 commentaryStatus: "completed"
 lastReviewed: "2026-05-27"
-wordCount: 1200
+wordCount: 1180
 keywords:
   - "görev"
   - "suçları"
@@ -25,39 +25,19 @@ mahkûmiyet hükmü verilmiş bulunsa bile, Türkiye'de yeniden yargılanır.
 
 ---
 
-## TCK Madde 10 — Görev Suçları
+## TCK Madde 10 – Görev Suçları
 
 ---
 
 ## 1. Maddenin Sistematiği ve Genel Açıklama
 
-### 1.1. Kanundaki Yeri ve İşlevi
+TCK m. 10, "Milletlerarası Ceza Hukukuna İlişkin Hükümler" başlıklı İkinci Kısım'ın, "Yer Bakımından Uygulama" alt başlığını taşıyan bölümü içinde yer almaktadır. Söz konusu bölüm, m. 8 ile başlayan ve m. 13'te son bulan bir sistematik bütünlük oluşturmakta; bu bütünlük içinde m. 10 özgül ve sınırlı bir işlev üstlenmektedir.
 
-TCK m. 10, Birinci Kitap'ın "Genel Hükümler" başlıklı birinci kısmında, "Ceza Kanununun Uygulanması" başlıklı birinci bölümde yer almaktadır. Bu bölüm; Türk ceza hukukunun yer, zaman ve kişi bakımından uygulanmasını düzenleyen temel normları barındırmaktadır. Madde 10, söz konusu bölümün bütünü içinde **aktif kişisellik ilkesinin** özel ve nitelikli bir görünümü olarak konumlandırılmıştır.
+Türk ceza hukukunun yer bakımından uygulanmasına ilişkin temel ilke, **mülkilik (ülkesellik) ilkesi**dir. Buna göre bir suçun Türkiye topraklarında işlenmiş olması, Türk ceza normunun uygulanması için kural olarak yeterlidir. Ancak bu ilke, günümüz ceza hukukunun gereksinimlerini tek başına karşılamamaktadır. Bu nedenle kanun koyucu mülkilik ilkesini; kişisellik ilkesi (m. 11, 12), koruma ilkesi (m. 13) ve evrensellik ilkesi (m. 13) gibi tamamlayıcı ilkelerle desteklemiştir.
 
-Türk ceza hukukunda yer bakımından uygulamaya ilişkin temel ilkeler şu sırayla öngörülmüştür:
+TCK m. 10, özünde **pasif kişisellik ilkesinin** değil, aksine **aktif kişisellik ilkesinin** özel ve nitelikli bir görünümüdür. Nitekim madde, yabancı ülkede Türkiye adına görev üstlenen kişilerin bu görevleriyle ilişkili olarak işledikleri suçlara odaklanmaktadır. Söz konusu düzenleme, devletin kendi temsilcileri veya görevlileri üzerindeki disipliner ve hukuki denetim yetkisinin ceza hukuku düzlemine yansımasıdır.
 
-| Madde | İlke |
-|---|---|
-| m. 8 | Ülkesellik (mülkilik) ilkesi |
-| m. 9 | Yabancı ülkede Türk tarafından işlenen suçlar (aktif kişisellik) |
-| m. 10 | Yabancı ülkede görev suçları (nitelikli aktif kişisellik) |
-| m. 11 | Yabancı ülkede yabancı tarafından Türklere karşı işlenen suçlar (pasif kişisellik) |
-| m. 12 | Yabancı ülkede yabancı tarafından Türkiye'ye karşı işlenen suçlar |
-| m. 13 | Evrensellik ilkesi |
-
-Bu sistematik içinde m. 10, özellikle **kamu otoritesini temsil eden veya Türk Devleti adına faaliyet gösteren bireylerin** yurt dışında işledikleri suçlara ilişkin olup, diğer maddelerden farklı olarak **ne bis in idem** (aynı suçtan iki kez yargılanmama) güvencesini açıkça bertaraf eden bir hüküm niteliği taşımaktadır.
-
-### 1.2. Tarihsel Arka Plan ve Düzenlemenin Amacı
-
-1926 tarihli ve 765 sayılı mülga Türk Ceza Kanunu'nun 9. maddesi de benzer bir düzenleme içermekteydi. 5237 sayılı Kanun bu düzenlemeyi büyük ölçüde muhafaza etmiş; ancak modern ceza hukukunun gereklilikleri doğrultusunda ifade düzeltmeleri yapılmıştır.
-
-Düzenlemenin temel amacı **ikili bir güvence** sağlamaktır:
-
-1. **Devlet egemenliğinin korunması:** Türk Devleti adına hareket eden kişilerin yurt dışındaki eylemlerinden kaynaklanabilecek cezasızlık boşluklarının önlenmesi.
-2. **Kamu görevinin denetimi:** Türkiye namına üstlenilen görevin ifasında meydana gelen suçların, yabancı devletin hukuk düzeninden bağımsız olarak Türk yargısı tarafından ele alınabilmesi; böylece hesap verebilirlik ilkesinin işletilmesi.
-
-Öğretide Özgenç, bu tür düzenlemelerin salt ulusal egemenlik anlayışından değil, aynı zamanda kamu görevine duyulan toplumsal güvenin sürdürülmesinden beslendiğini vurgulamaktadır.
+Maddenin en dikkat çekici özelliği, yabancı ülkede sanık hakkında **mahkûmiyet hükmü verilmiş olmasına rağmen** Türkiye'de yeniden yargılamanın önünü açmasıdır. Bu düzenleme, uluslararası ceza hukukundaki **ne bis in idem (aynı fiilden iki kez yargılanmama)** ilkesinin ülke dışı boyutuna doğrudan istisna getirmesi bakımından anayasal ve uluslararası hukuk açısından tartışmalı bir zemin oluşturmaktadır.
 
 ---
 
@@ -65,91 +45,79 @@ Düzenlemenin temel amacı **ikili bir güvence** sağlamaktır:
 
 ### 2.1. "Yabancı Ülke"
 
-Madde metnindeki "yabancı ülke" ifadesi, Türkiye Cumhuriyeti'nin egemenlik alanı dışında kalan her türlü devlet topraklarını kapsamaktadır. Bu kavram:
+Madde metninde geçen "yabancı ülke" ifadesi, Türkiye Cumhuriyeti'nin egemenlik alanı dışında kalan ve uluslararası hukuk tarafından tanınan devlet topraklarını kapsamaktadır. Bu kavramın sınırları belirlenirken uluslararası hukuktaki devlet tanımına başvurulması gerekmekte; meşruiyeti tartışmalı ya da uluslararası alanda tanınmamış toprak birimlerinin bu kapsama dahil edilip edilemeyeceği ayrıca değerlendirilmelidir.
 
-- Bağımsız devletlerin ülke topraklarını,
-- Sömürge veya bağımlı toprakları yöneten devletlerin idaresindeki alanları,
-- Uluslararası anlaşmalarla belirlenmiş ortak yönetim bölgelerini
+Uygulamada özellikle şu durum soru işareti doğurabilir: Türkiye'nin diplomatik temsilcilik açtığı ya da konsolosluk kurduğu devletin, Türkiye tarafından tanınıp tanınmadığı meselesinde cevap, uluslararası hukuktaki resmi tanıma statüsüne göre şekillenecektir.
 
-kapsamaktadır. Türk gemileri ve uçakları gibi uzatılmış ülke sayılan alanlar ise Türk ülkesi olarak değerlendirildiğinden m. 10'un değil m. 8'in uygulama alanı söz konusu olacaktır.
+### 2.2. "Türkiye Namına Memuriyet veya Görev Üstlenmek"
 
-### 2.2. "Türkiye Namına Memuriyet veya Görev Üstlenmiş Olmak"
+Bu kavram, maddenin uygulama alanını belirleyen **en kritik unsurudur.** İki alt kavramı birlikte içermektedir:
 
-Bu unsur, maddenin uygulanabilmesi için aranan en temel **kişisel koşulu** oluşturmaktadır ve iki alt bileşenden oluşmaktadır:
+**a) Memuriyet:** Türkiye adına yabancı ülkede resmi sıfatla görev yapan kişiyi ifade eder. Bunlar arasında öncelikle **diplomatik temsilciler** (büyükelçiler, maslahatgüzarlar), **konsolosluk personeli**, **askeri ataşeler** ve **dış temsilcilik bürosu çalışanları** sayılabilir. Devlet memuru statüsündeki kişilerin yurt dışı görevleri bu kapsamın çekirdeğini oluşturmaktadır.
 
-#### 2.2.1. "Türkiye Namına"
+**b) Görev:** "Memuriyet" kavramına kıyasla daha geniş kapsamlıdır. Resmi memur statüsünde olmayan ancak Türkiye adına belirli bir misyon veya işlev üstlenen kişileri de kapsar. Uluslararası kuruluşlardaki Türk delegeleri, devlet adına müzakere yetkisiyle donanmış kişiler, resmi görevle yurt dışına gönderilen uzmanlar ve sözleşmeli kamu çalışanları bu kategoride değerlendirilebilir.
 
-"Türkiye namına" ifadesi, Türk Devletini temsil eden, Türk Devleti adına hareket eden ya da Türk Devleti'nin hukuki ve siyasi mevcudiyetini yabancı topraklarda somutlaştıran kişileri işaret etmektedir. Bu bağlamda:
+Özgenç, kişisellik ilkesinin bu nitelikli görünümünde "görev" kavramının dar yorumlanmaması gerektiğini; Türkiye Devleti'nin kamusal otoritesinin yabancı ülkede temsil edildiği her durumun norm kapsamına girebileceğini vurgulamaktadır.
 
-- **Diplomatik temsilciler** (büyükelçiler, maslahatgüzarlar, konsolosluk personeli),
-- **Askeri ataşeler ve personel**,
-- **Devlet adına müzakere yürüten heyetler**,
-- **Türk devlet kurumlarının yurt dışı birimlerinde çalışanlar**,
-- **Türk devletinin taraf olduğu uluslararası örgütlerdeki görevliler**
-
-bu kapsamda değerlendirilebilir. Buna karşılık, Türk özel hukukuna tabi şirketlerin yurt dışı temsilcileri, Türk hükümetinin finansmanı olmaksızın faaliyet gösteren sivil toplum kuruluşları ve bireysel olarak yurt dışında çalışan Türk vatandaşları, "Türkiye namına" hareket etmediklerinden bu maddenin kapsamı dışında kalır.
-
-Koca/Üzülmez, "Türkiye namına" ölçütünün belirlenmesinde soyut bir unvan değil, fiilî temsil ilişkisinin ve görevin niteliğinin belirleyici olması gerektiğini ifade etmektedir.
-
-#### 2.2.2. "Memuriyet veya Görev"
-
-**Memuriyet**, kamusal nitelikte süregelen, hiyerarşik bir yapı içinde ifa edilen ve devletle organik bağ oluşturan pozisyonları; **görev** ise geçici, projeye özgü ya da özel hukuk sözleşmesine dayalı olmakla birlikte Türk Devleti adına icra edilen faaliyetleri kapsamaktadır. Bu ikili ayrım, maddenin uygulama alanını geniş tutmaya yönelik bilinçli bir tercih olarak değerlendirilmelidir.
-
-Şu örnekler kapsamın sınırlarını belirginleştirmektedir:
-
-| Kişi | Kapsam |
-|---|---|
-| Türk büyükelçisi | Kapsam içinde |
-| NATO bünyesindeki Türk subayı | Kapsam içinde |
-| Uluslararası kuruluşa geçici görevlendirilen Türk memur | Kapsam içinde |
-| Yurt dışında özel şirkette çalışan Türk vatandaşı | Kapsam dışında |
-| Türk devletinin bursuyla yurt dışında öğrenci olan kişi | Tartışmalı |
-
-Son örnek bakımından öğretide görüş ayrılığı mevcuttur. Centel/Zafer/Çakmut, devlet bursunu "görev üstlenme" saymanın mümkün olmadığını, zira öğrencinin Türkiye'yi temsil etmediğini savunmaktadır. Karşı görüşe göre ise öğrencinin resmî bir devlet programı çerçevesinde hareket etmesi, bağı kurmaya yeterlidir.
+Öte yandan Koca/Üzülmez, bu kavramın sınırsız biçimde genişletilmesinin suç ve cezanın kanuniliği ilkesiyle çelişeceğini; "görev" ifadesinin her hâlde devlet otoritesiyle organik bir bağ gerektirdiğini ileri sürmektedir.
 
 ### 2.3. "Bundan Dolayı Bir Suç İşlemek"
 
-Madde, suçun failin göreviyle nedensel ve işlevsel bağ içinde olmasını aramaktadır. Bu unsur iki boyutlu biçimde incelenmelidir:
+Bu ibare, normatif bağlantıyı kuran **nedensellik-işlevsellik köprüsüdür.** Failin işlediği suçun, üstlenilen memuriyet veya görevle **işlevsel bir bağ** taşıması gerekmektedir. Görevle ilgisi bulunmayan suçlar bu madde kapsamı dışında kalır; bu tür suçlar bakımından m. 11 veya m. 12 uygulanabilir.
 
-#### 2.3.1. Görevle İlgililik Koşulu
+"Bundan dolayı" ifadesi, iki farklı yoruma açık kapı bırakmaktadır:
 
-"Bundan dolayı" ibaresi, **işlenen suçun görevin ifasıyla ya da görevin sağladığı imkân, yetki veya konumla bağlantılı olması** gerektiğini ortaya koymaktadır. Bu bağlantı şu biçimlerde tezahür edebilir:
+- **Dar yorum:** Suçun, görevin icrası esnasında ve doğrudan görevin gerekliliklerini icra etmek amacıyla işlenmesi gerekmektedir.
+- **Geniş yorum:** Suçun görevle nedensel ilişki taşıması yeterlidir; görev ortamının sunduğu fırsatın kullanılması da bu kapsamda değerlendirilebilir.
 
-- **Görev sırasında işlenen suç:** Görevin doğrudan icrasında (örneğin, diplomatik müzakereler sırasında yapılan sahtecilik).
-- **Görevin sağladığı konumdan yararlanarak işlenen suç:** Görevin verdiği yetkinin araçsal olarak kullanılması (örneğin, konsolosluk personelinin resmî belgeler üzerinde sahtekârlık yapması).
-- **Görevin ifası amacıyla işlenen suç:** Resmi amaçla gerçekleştirilen ancak suç oluşturan eylemler (örneğin, casusluk faaliyeti kapsamında gerçekleştirilen bilişim suçları).
-
-Buna karşın, görevlinin yabancı ülkedeyken tamamen kişisel kapasitesiyle ve göreviyle hiçbir bağlantısı olmaksızın işlediği suçlar bu madde kapsamına girmez; bu durumda TCK m. 9'un şartlarının varlığına göre genel aktif kişisellik hükümleri uygulanır.
-
-#### 2.3.2. Suç Türü Bakımından Sınırlama
-
-Madde, "görev suçları" başlığını taşımasına karşın herhangi bir suç tipini münhasıran belirtmemektedir. Ancak "bundan dolayı" ifadesi, **göreve özgü suçların** (rüşvet, zimmet, görevi kötüye kullanma, irtikap, güveni kötüye kullanma vb.) bu madde kapsamında değerlendirilmesine özellikle elverişlidir. Görevle ilgisi bulunmayan adam öldürme, cinsel saldırı gibi suçlar ise görevli kişi tarafından işlense dahi, görevle bağlantısı kanıtlanmadıkça m. 9 çerçevesinde ele alınacaktır.
+Centel/Zafer/Çakmut, bu bağlamda "görevin yürütülmesi sırasında işlenen suçlar" ile "görevle bağlantılı fırsatçı suçlar" arasındaki ayrımın titizlikle gözetilmesi gerektiğini ifade etmektedir.
 
 ### 2.4. "Yabancı Ülkede Mahkûmiyet Hükmü Verilmiş Bulunsa Bile"
 
-Bu ibare, maddenin en özgün ve tartışmalı yönünü oluşturmaktadır. Söz konusu ifade, **ne bis in idem ilkesinin açıkça bertaraf edildiğini** ortaya koymaktadır.
+Bu koşul, maddenin en özgün ve en tartışmalı boyutunu oluşturmaktadır. Kanun koyucu, fail hakkında yabancı ülke mahkemesince mahkûmiyet kararı verilmiş olmasını, Türkiye'de yeniden yargılamaya engel saymamaktadır. Bu düzenleme ile milletlerarası ne bis in idem ilkesinin madde kapsamındaki suçlara uygulanmasının önüne geçilmektedir.
 
-#### 2.4.1. Ne Bis in İdem İlkesiyle İlişki
-
-Ne bis in idem ilkesi, aynı fiilden dolayı kişinin iki kez yargılanıp cezalandırılamamasını güvence altına alır. Bu ilke:
-
-- **Türkiye Cumhuriyeti Anayasası m. 38/4** ("Aynı suçtan dolayı iki kez yargılama olmaz"),
-- **Medeni ve Siyasi Haklar Uluslararası Sözleşmesi m. 14/7**,
-- **7 No'lu Protokol ek protokolü m. 4** (Avrupa İnsan Hakları Sözleşmesi'ne)
-
-gibi normlarla güvence altına alınmıştır. Ancak AİHM içtihadı ve ulusal düzenlemelerin çoğunluğuna göre **ne bis in idem ilkesinin uluslararası boyutu**, yani bir devletin başka bir devletin verdiği mahkûmiyeti tanıma yükümlülüğü, kural olarak uluslararası sözleşmelerin açık düzenlemesiyle koşulludur.
-
-Hafızoğulları/Özen, bu durumu şu şekilde açıklamaktadır: Ne bis in idem ilkesi, iç hukuk anlamında bir devletin kendi yargı çevresindeki kesinleşmiş kararlar arasında işlerken; farklı devletlerin yargı organlarınca verilen kararların oluşturduğu çatışmada uygulanması, ancak açık bir uluslararası hukuk normuna ya da ikili bir sözleşmeye dayanılmasıyla mümkündür. TCK m. 10 ise bu bağlamda açık bir tercih koyarak yabancı mahkûmiyetin Türk yargısını bağlamayacağını hükme bağlamıştır.
-
-#### 2.4.2. Mahsup Mekanizması: m. 16 ile Bağlantı
-
-Yeniden yargılama hakkının tanınmış olması, önceki yargılamada çekilen cezanın tamamen göz ardı edileceği anlamına gelmez. TCK m. 16, yabancı ülkede kesinleşmiş hüküm üzerine infaz edilen cezanın Türkiye'de verilecek cezadan mahsup edileceğini düzenlemektedir. Bu mahsup mekanizması, m. 10 ile birlikte değerlendirildiğinde şu dengeyi ortaya koymaktadır:
-
-- **Türk yargısının yetkisi:** Mutlak ve koşulsuz.
-- **Faille Adalet Dengesi:** Yabancı ülkede fiilen infaz edilen ceza, Türkiye'de verilecek cezadan düşülür.
-
-Bu yapı, teoride ne bis in idem ilkesini tamamen dışlamamakta; aksine onu farklı bir biçimde işletmektedir: Yargı tekrarlanabilir, ancak ceza ikiye katlanamaz.
+Dikkat edilmesi gereken husus, madde metninin yalnızca **mahkûmiyet** kararına açıkça yer vermesidir. **Beraat kararı** verilmesi hâlinde ne olacağı madde metninden doğrudan çözüme kavuşturulamamaktadır; bu eksiklik aşağıda eleştirel değerlendirme bölümünde ele alınacaktır.
 
 ### 2.5. "Türkiye'de Yeniden Yargılanır"
 
-Bu ifade, iki anlam katmanı içermekt
+Bu ifade, m. 10 kapsamında Türk mahkemelerinin **yargı yetkisini kullanacağını** ortaya koymaktadır. Ancak "yeniden yargılanır" ibaresi, madde metninin kesin ve emredici nitelikteki bir buyruğu olarak değerlendirilmelidir. Bununla birlikte TCK m. 16/2'deki mahsup hükmünün bu hâlde uygulanıp uygulanamayacağı meselesi pratik öneme sahiptir. Mahkûmiyet durumunda yabancı ülkede infaz edilen cezanın Türkiye'de verilecek cezadan mahsup edilmesi, hem adalet hem de çifte cezalandırmaya karşı geleneksel ilkeler açısından zorunlu görünmektedir.
+
+---
+
+## 3. Sistematik İlişkiler
+
+### 3.1. TCK m. 8 ile İlişki
+
+TCK m. 8, mülkilik ilkesini düzenlemekte ve kural olarak suçun Türkiye'de işlenmesi koşulunu aramaktadır. M. 10 ise suçun yabancı ülkede işlendiği hâllere özgüdür; dolayısıyla m. 8'e bir istisna değil, onunla birlikte işleyen ve onu tamamlayan bir norm olarak değerlendirilmelidir. M. 8 ve m. 10 birbirini dışlamaz; farklı coğrafi ve kişisel varsayımları kapsar.
+
+### 3.2. TCK m. 11 ile İlişki
+
+M. 11, yurt dışında suç işleyen Türk vatandaşlarına ilişkin aktif kişisellik ilkesini düzenlemektedir. M. 10 ise Türk vatandaşı olup olmadığından bağımsız biçimde Türkiye adına görev üstlenen kişiyi kapsamaktadır. Ancak uygulamada kapsam büyük ölçüde örtüşmektedir; zira yabancı ülkede Türkiye adına memuriyet üstlenen kişiler genellikle Türk vatandaşlarıdır. Bununla birlikte teorik olarak yabancı uyruklu bir kişinin de Türkiye adına görev üstlenebileceği göz ardı edilmemelidir; bu durumda m. 10 tek başına devreye girecektir.
+
+### 3.3. TCK m. 12 ile İlişki
+
+M. 12, yurt dışında suç işleyen yabancıların belirli koşullar altında Türk ceza hukukuna tabi kılınmasını düzenler. M. 10 ise yabancı ülkede Türkiye adına görev üstlenen ve bu görevle ilgili suç işleyen herkesi kapsar; failin uyruğu bakımından herhangi bir sınırlama öngörmemektedir. Bu çerçevede m. 10, m. 12'ye kıyasla özel norm niteliği taşımakta ve özel normun genel normu bertaraf etmesi ilkesi gereğince öncelikle uygulanmalıdır.
+
+### 3.4. TCK m. 13 ile İlişki
+
+M. 13, evrensellik ve koruma ilkelerini barındıran hükümleri düzenlemektedir. M. 10'un uygulama alanına giren suçlar eş zamanlı olarak m. 13 kapsamına da girebilirse bu yarışma teorik açıdan önem taşımakla birlikte pratikte m. 10 özel norm sıfatıyla belirleyici konumda olacaktır.
+
+### 3.5. TCK m. 16 ile İlişki (Mahsup)
+
+TCK m. 16/2'ye göre yabancı ülkede aynı suçtan dolayı verilen ceza tamamen veya kısmen infaz edilmiş ise bu ceza Türkiye'de verilen cezadan mahsup edilir. M. 10 kapsamında yeniden yargılama söz konusu olduğunda, yabancı ülkede infaz edilen cezanın Türkiye'de verilecek cezadan mahsubu adalet ilkesinin gereğidir. Doktrinde Hafızoğulları/Özen, mahsup hükmünün m. 10 bağlamında da kaçınılmaz biçimde uygulanması gerektiğini savunmaktadır.
+
+### 3.6. TCK m. 2 ve Kanunilik İlkesi
+
+Görev kavramının yorumunun genişletilmesi, suç ve cezanın kanuniliği ilkesiyle gerilime girebilir. Nitekim m. 2'nin öngördüğü belirlilik (Bestimmtheitsgebot) gerekliği, "görev" kavramının sınırlarının açık ve öngörülebilir biçimde çizilmesini zorunlu kılmaktadır.
+
+---
+
+## 4. Uygulama: Yargıtay İçtihadı
+
+Bu maddeye doğrudan ilişkin son 24 ayda Yargıtay kararı çekilemedi.
+
+Bununla birlikte bazı genel tespitler yapılabilir:
+
+Yargıtay, yer bakımından yetki ve milletlerarası yargı yetkisine ilişkin kararlarında, Türkiye adına görev yapan kişilerin yurt dışında işledikleri suçlarda **Türk mahkemelerinin yargı yetkisini kural olarak geniş yorumladığı** görülmektedir. Özellikle diplomatik ve konsüler görevlilerle ilgili davalarda yerel mahkemelerin zaman zaman farklı yorumlar benimsemesi üzerine bozma kararlarının verildiği bilinmekle birlikte, m. 10'u doğrudan yorumlayan kapsamlı içtihat henüz sistematik bir birikim oluşturamamıştır.
+
+Bu durumun başlıca nedeni, söz konusu
