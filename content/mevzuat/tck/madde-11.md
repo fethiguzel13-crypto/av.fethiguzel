@@ -4,7 +4,7 @@ kanun: "Türk Ceza Kanunu"
 maddeNo: 11
 commentaryStatus: "completed"
 lastReviewed: "2026-05-27"
-wordCount: 1213
+wordCount: 1152
 keywords:
   - "vatandaş"
   - "tarafından"
@@ -29,94 +29,72 @@ Türkiye'ye girdiği tarihten itibaren altı ay içinde yapılmalıdır.
 
 ### Akademik Yorum ve Analiz
 
-# TCK Madde 11 – Vatandaş Tarafından İşlenen Suç
+# TCK Madde 11 — Vatandaş Tarafından İşlenen Suç
 
 ---
 
 ## 1. Maddenin Sistematiği ve Genel Açıklama
 
-TCK m. 11, Türk ceza kanununun yer bakımından uygulanmasını düzenleyen normlar bütünü içinde yer almakta; bu bütün m. 8 ile başlayıp m. 13'e kadar uzanan bir sistematik oluşturmaktadır. Söz konusu normlar, ceza kanununun hangi coğrafi ve kişisel bağ noktalarında uygulanacağını belirleyen yetki kurallarıdır.
+TCK m. 11, Türk ceza hukukunun yer bakımından uygulama alanını düzenleyen **İkinci Bölüm** içinde yer almakta; ülke dışında suç işleyen Türk vatandaşlarına yönelik Türk yargı yetkisinin sınırlarını belirlemektedir. Madde, **aktif şahsilik ilkesinin** (failin tabiiyeti ilkesi) kanundaki en kapsamlı tezahürüdür. Bu ilkeye göre devlet, kendi vatandaşının yabancı ülkede işlediği suçlar üzerinde yargı yetkisini kullanabilir; bunun temel meşruiyet dayanağı, vatandaşlık bağının yarattığı hukukî sadakat ve devletin vatandaşı üzerindeki kişisel egemenlik hakkıdır.
 
-Maddenin dayandığı temel ilke **şahsilik ilkesidir (aktif şahsilik ilkesi / personalité active)**. Bu ilkeye göre bir devlet, kendi vatandaşlarının yurt dışında işlediği suçlar bakımından da yargı yetkisini kullanabilir; vatandaşın nerede bulunduğundan bağımsız olarak onu kendi hukukuna tabi kılar. Devlet ile vatandaş arasındaki kişisel bağ, salt toprak sınırını aşan bir yetki kaynağı olarak işlev görür.
+Maddenin tarihsel arka planına bakıldığında, 765 sayılı mülga TCK'nın 6. maddesinin benzer bir düzenleme içerdiği görülmektedir. 5237 sayılı Kanun, bu düzenlemeyi yeniden kaleme alarak bazı koşulları daha açık biçimde ifade etmiş; özellikle **kovuşturulabilirlik** ve **şikâyet** koşullarına ilişkin ifadeleri belirginleştirmiştir. Yeni düzenlemede iki fıkralı bir yapı benimsenmiş; birinci fıkrada ağır suçlara ilişkin genel rejim, ikinci fıkrada hafif suçlara ilişkin özel rejim ele alınmıştır.
 
-TCK m. 8, **mülkilik ilkesini** (ülkesellik) düzenleyerek Türkiye'de işlenen suçlara Türk hukukunun uygulanacağını hükme bağlar. Buna karşın m. 9 ile m. 13 arasındaki düzenlemeler, mülkilik ilkesinin ötesine geçen **evrensellik**, **koruma** ve **şahsilik** ilkelerine dayanan yetki normlarını içerir. Madde 11 bu sistematikte aktif şahsilik ilkesinin klasik görünümünü temsil ederken, m. 12 pasif şahsilik ilkesini yansıtır. Madde 13 ise koruma ilkesi ve evrensellik ilkesine dayanan özel suç kategorilerini kapsamakta olup m. 11'in uygulama alanının dışında tutulmuştur.
-
-Madde, iki fıkradan oluşmaktadır. **Birinci fıkra**, ağır suçlar (alt sınırı bir yıl veya daha fazla hapis cezasını gerektiren suçlar) için re'sen kovuşturma esasını benimsemekte; ikinci fıkra ise daha hafif suçlar için şikâyet koşulunu ve buna bağlı süreyi düzenlemektedir.
-
-Mukayeseli hukukta pek çok devlet aynı ilkeyi benimsemiştir. Alman Ceza Kanunu (StGB) § 7/2, Fransız Ceza Kanunu m. 113-6 ve İtalyan Ceza Kanunu m. 9 buna örnek gösterilebilir. Bu düzenlemeler, devletlerin vatandaşlarını dünyanın neresinde olursa olsun kendi hukuklarının disiplini altında tutma iradesinin ürünüdür.
+Madde, birden fazla koşulun eş zamanlı gerçekleşmesini zorunlu kılmaktadır. Bu koşullar; **failin Türk vatandaşı olması**, **suçun yabancı ülkede işlenmiş bulunması**, **suçun TCK m. 13 kapsamı dışında kalması**, **suçun Türk hukukuna göre öngörülen alt sınırının belirli bir eşiği aşması**, **failin Türkiye'de bulunması**, **yabancı ülkede hüküm verilmemiş olması** ve **Türkiye'de kovuşturulabilirliğin bulunması** şeklinde sıralanabilir. İkinci fıkra ise alt sınır eşiğinin altında kalan suçlar bakımından **şikâyet** ve **süre** koşullarını ek güvence olarak öngörmektedir.
 
 ---
 
 ## 2. Maddedeki Kavramların Analizi
 
-### 2.1. Türk Vatandaşlığı
+### 2.1. Türk Vatandaşı
 
-Maddenin birincil öznel koşulu, failin **Türk vatandaşı** olmasıdır. Türk vatandaşlığının belirlenmesinde esas alınacak kaynak, 5901 sayılı Türk Vatandaşlığı Kanunu'dur. Sonradan vatandaşlığa kabul edilenler, doğumla vatandaşlık kazananlar ve çifte vatandaşlar madde kapsamında değerlendirilir.
+Maddenin kişi bakımından uygulama alanı, **Türk vatandaşlığı** ölçütüne bağlanmıştır. Türk vatandaşlığının belirlenmesinde 5901 sayılı Türk Vatandaşlığı Kanunu esas alınır. Doğumla kazanılan ya da sonradan kazanılan vatandaşlık arasında bir ayrım gözetilmemekle birlikte, suçun işlendiği an itibarıyla kişinin Türk vatandaşlığını taşıması zorunludur; suç işlendikten sonra vatandaşlık kazanılması bu maddenin uygulanmasına zemin hazırlamaz.
 
-Tartışmalı bir mesele, failin suçu işlediği anda vatandaş olup olmadığı ile yargılama anında vatandaş olup olmadığı arasındaki ilişkidir. Öğretide hâkim görüş, her iki koşulun da ayrı öneme sahip olduğu yönündedir; ancak yargılama anındaki vatandaşlık durumunun belirleyici olduğunu savunan yazarlar da mevcuttur. Özgenç, "Türkiye'de bulunma" koşulunun yargılama sırasında aranmasından hareketle, vatandaşlık statüsünün de bu anla bağlantılı değerlendirilmesi gerektiği sonucuna ulaşmaktadır.
+Çifte vatandaşlık hâllerinde mesele daha karmaşık bir görünüm kazanmaktadır. Fail hem Türk hem de başka bir devletin vatandaşı ise ve suçu ikinci vatandaşlığının bulunduğu ülkede işlemişse, o ülke hukukuna göre suç işlendiği "kendi ülkesinde" olabilecektir. Bu durumda, Özgenç'in isabetli biçimde vurguladığı üzere, Türk yargısının yetkisini kullanıp kullanmayacağı somut koşullar çerçevesinde değerlendirilmelidir; özellikle yabancı ülkede hüküm verilip verilmediği belirleyici rol oynamaktadır.
 
-Tüzel kişiler bu madde kapsamında fail olamaz; zira madde kişisel bağı esas almakta ve tüzel kişilerin ceza sorumluluğu TCK'da yalnızca güvenlik tedbiri bağlamında düzenlenmektedir.
+Tüzel kişilerin bu madde kapsamında değerlendirilemeyeceği açıktır; zira Türk ceza hukukunda tüzel kişi ceza ehliyeti sınırlı biçimde kabul edilmekte, suçun faili her hâlükârda gerçek kişi olmaktadır.
 
-### 2.2. Yabancı Ülkede İşlenmiş Suç
+### 2.2. Yabancı Ülkede İşlenmiş Olma
 
-Suçun **yabancı ülkede** işlenmiş olması zorunludur. Türkiye'de işlenen suçlar m. 8 kapsamında değerlendirilir; m. 11'in devreye girebilmesi için suçun tamamının ya da belirleyici eylem unsurunun Türkiye toprakları dışında gerçekleşmiş olması gerekir. Suçun kısmen Türkiye'de kısmen yabancı ülkede işlendiği durumlarda m. 8/2'nin "bir kısmının Türkiye'de işlenmesi" kuralı uygulanır; bu durumda m. 11'e başvurmak gerekmez.
+Suçun **yabancı ülkede** işlenmiş olması koşulu, maddenin uygulama alanını territoriality (ülkesellik) ilkesinin dışına çıkan durumlara özgülemektedir. Suçun Türkiye'de işlenmesi hâlinde m. 8 devreye girecek; yabancı bir devletin ülkesindeki suç söz konusu olduğunda ise m. 11 uygulanacaktır.
 
-"Yabancı ülke" kavramı, devlet egemenliği altında bulunan toprakları kapsar. Hiçbir devletin egemenliğine tabi olmayan açık deniz veya Antarktika gibi alanlar, m. 11 kapsamı dışında kalır; bu tür durumlarda m. 13'ün özel hükümleri ya da uluslararası sözleşme kuralları devreye girebilir.
+Suçun işlendiği yer açısından TCK m. 8/2 hükmünün kılavuzluğundan yararlanılabilir. Buna göre suç, **hareketin yapıldığı** ya da **neticenin gerçekleştiği** yer itibarıyla değerlendirilebilir. Özellikle internet üzerinden ya da kısmen yurt içinde kısmen yurt dışında işlenen suçlarda hangi maddenin uygulanacağının tespiti önem kazanmaktadır. Doktrinde Koca/Üzülmez, hareket yabancı ülkede gerçekleşmişse sonucun Türkiye'de meydana geldiği durumlarda m. 8'in uygulanması gerektiğini savunmaktadır; bu yaklaşım ülkesellik ilkesinin genişletilmiş yorumuna dayanmaktadır.
 
-### 2.3. Türk Kanunlarına Göre Alt Sınırı Bir Yıldan Az Olmayan Hapis Cezası
+### 2.3. TCK m. 13 Dışında Kalma
 
-Maddenin uygulanabilmesi için suçun **Türk kanunlarına göre** alt sınırı bir yıl veya daha fazla hapis cezasını gerektirmesi aranır. Bu ölçüt değerlendirilirken iki husus önem taşır:
+Madde metninde açıkça ifade edildiği üzere, **TCK m. 13'te sayılan suçlar** m. 11'in kapsamı dışındadır. Bu suçlar, evrensellik ilkesi ya da koruma ilkesi kapsamında değerlendirilen ve Türkiye'de bulunma ya da vatandaşlık şartına bağlı olmaksızın kovuşturulabilen suçlardır. Dolayısıyla m. 11, m. 8 (ülkesellik), m. 9 (ülke dışında işlenen suç), m. 10 (yabancı tarafından işlenen suç) ve m. 13 dışında kalan ve yabancı ülkede Türk vatandaşı tarafından işlenen tüm suçlara uygulanacak genel normun niteliğini taşımaktadır.
 
-- **Ölçüt kanunu:** Türk hukukudur; yabancı ülkenin o suça verdiği ceza miktarının herhangi bir önemi yoktur. Bu yaklaşım, çift suçluluk (double criminality) koşulundan ayrılmayı ifade eder; zira Türk hukuku kendi normunu bağımsız biçimde uygular.
-- **Ceza türü:** Yalnızca hapis cezası esas alınır; adli para cezası ya da diğer yaptırımlar bu hesaplamaya dahil edilmez. Seçimlik ceza öngörülen suçlarda hapis cezasının alt sınırı bir yılın altında ise ikinci fıkra hükmü uygulanır.
+### 2.4. Alt Sınır Eşiği: Bir Yıl
 
-Söz konusu sınır, suçun **temel şekline** ilişkin yasal cezanın alt sınırı olarak anlaşılmalıdır; bireysel olarak uygulanacak ceza değil, kanunda öngörülen soyut ceza dikkate alınır.
+Birinci fıkra, uygulanabilirlik için **Türk kanunlarına göre alt sınırı bir yıldan az olmayan hapis cezası** gerektiren bir suçun işlenmiş olmasını aramaktadır. Bu eşik, Türk ceza yargısının yabancı ülkedeki her türlü eylem üzerinde yargı yetkisi kullanmasını engelleyen bir süzgeç işlevi görmektedir; böylece önemsiz suçlar bakımından egemenlik çatışmalarının önüne geçilmektedir.
 
-### 2.4. Türkiye'de Bulunma
+"Aşağı sınır" kavramının tespitinde, suç tipinin kanunda öngördüğü **temel suç tipinin alt sınırı** esas alınmalıdır. Nitelikli hâllere ait artırılmış cezaların ya da indirim sebeplerinin bu hesaplamada belirleyici olmadığı, öğretide genel kabul görmüştür. Hafızoğulları/Özen, bu eşiğin soyut bir ölçüt olduğunu, somut olayda hâkimin takdir yetkisini kullanarak ulaşacağı ceza miktarının değil kanun metninin esas alınması gerektiğini vurgulamaktadır.
 
-Fail, yargılamanın yapılabilmesi için **Türkiye'de bulunmalıdır.** Bu koşul, uygulanabilirlik için zorunlu olmakla birlikte yeterli değildir; diğer koşulların da eş zamanlı olarak gerçekleşmesi gerekir. Madde bu koşulu, yabancı ülkedeki mahkûmiyetin yokluğu ve Türkiye'de kovuşturulabilirliğin varlığı ile birlikte sıralamaktadır.
+Dikkat edilmesi gereken husus, bu eşiğin **hapis cezası** türü için öngörülmüş olmasıdır. Suç, yalnızca adlî para cezasını gerektiriyorsa ya da hapis cezasının alt sınırı bir yılın altında kalıyorsa, birinci fıkra işletilemez; ancak ikinci fıkra şartları çerçevesinde kovuşturma yoluna gidilebilir.
 
-Failin Türkiye'de geçici mi yoksa kalıcı mı bulunduğu sorusu öğretide tartışılmaktadır. Hâkim görüş, burada aranan koşulun salt fiziksel anlamda bulunmayı kapsadığı ve herhangi bir asgari süre ya da ikamet niteliği gerektirmediği yönündedir. Koca/Üzülmez, bu koşulun kovuşturmanın başlatıldığı an itibarıyla gerçekleşmiş olmasının yeterli olduğunu; failin daha sonra ülkeden ayrılmasının kovuşturmayı düşürmeyeceğini belirtir.
+### 2.5. Türkiye'de Bulunma Koşulu
 
-### 2.5. Yabancı Ülkede Hüküm Verilmemiş Olması
+Kovuşturma yapılabilmesinin vazgeçilmez ön koşullarından biri, **failin Türkiye'de bulunmasıdır**. Bu koşul, yalnızca yargılama anında değil, kovuşturmanın başlatılması aşamasında da aranır; iade ya da gıyabi yargılama prosedürleri bu madde kapsamında işletilemez.
 
-Bu koşul, **non bis in idem ilkesinin** (aynı suçtan iki kez yargılanmama) bir yansımasıdır. Yabancı bir mahkemenin aynı eylem nedeniyle hüküm kurmuş olması durumunda —bu hüküm mahkûmiyet de beraat de olsa— m. 11 kapsamında Türkiye'de yeniden yargılama yapılamaz.
+"Türkiye'de bulunma" kavramı, failin Türk topraklarındaki fiilî mevcudiyetini ifade eder. İkamet amacı, kalış süresi ya da hukukî statü (turistik giriş, vatandaş olarak dönüş vb.) belirleyici değildir; coğrafi mevcudiyet yeterlidir. Öte yandan suçun işlendiği tarihte değil, kovuşturmaya başlama tarihinde veya en azından dava sürecinin bir noktasında bu koşulun gerçekleşmiş olması yeterli görülmektedir.
 
-Öte yandan dikkat edilmesi gereken husus şudur: "Hüküm" ifadesi, bir mahkemenin esasa dair son kararını ifade eder. Soruşturmanın kovuşturmaya yer olmadığı kararıyla sonuçlandırılması ya da davanın düşmesi bu kapsamda değerlendirilemez; dolayısıyla bu hallerde m. 11 uyarınca Türkiye'de kovuşturma yolunun açık olduğu sonucuna ulaşılabilir.
+Bununla birlikte, fail Türkiye'ye girdikten sonra yurt dışına çıkarsa dava durur mu sorusu öğretide tartışmalı olmaya devam etmektedir. Demirbaş, bir kez başlayan kovuşturmanın usul ekonomisi ve adalet gereği sürdürülmesi gerektiğini ileri sürmektedir. Buna karşın karşı görüştekiler, maddenin lafzına dayanarak yargılama boyunca mevcudiyetin aranması gerektiğini savunmaktadır.
 
-Yabancı mahkemede verilen mahkûmiyet hükmünün infaz edilmiş olması ya da cezanın kısmen çekilmiş olması, TCK m. 16 uyarınca Türk mahkemesinin kararından mahsup edilmesini gerektiren ayrı bir mesele olarak ele alınır.
+### 2.6. Yabancı Ülkede Hüküm Verilmemiş Olması
 
-### 2.6. Türkiye'de Kovuşturulabilirliğin Bulunması
+Maddenin öngördüğü kritik koşullardan biri, **aynı suç nedeniyle yabancı ülkede daha önce hüküm kurulmamış olmasıdır**. Bu koşul, TCK m. 9 ile karşılaştırıldığında farklı bir tablo ortaya koymaktadır: m. 9'da yabancı mahkûmiyet Türkiye'deki kovuşturmayı engellemez, yalnızca mahsup imkânı doğurur; m. 11'de ise yabancı hüküm bizzat bir engel (dava şartı eksikliği) oluşturmaktadır.
 
-Bu koşul, Türk hukukundaki **genel dava şartlarının** ve **özel kovuşturma koşullarının** varlığını gerektirir. Dava zamanaşımının dolmamış olması, şikâyete tabi suçlarda şikâyetin yapılmış olması, sanığın akıl hastalığı gibi ceza sorumluluğunu ortadan kaldıran hallerin mevcut olmaması bu bağlamda değerlendirilir. Söz konusu koşul, usul hukuku niteliği ağır basan bir ön şart işlevi görmekte; maddi ceza hukukunun uygulanabilirliğine geçiş için bir filtre işlevi üstlenmektedir.
+"Hüküm" kavramının neyi kapsadığı önemlidir. Centel/Zafer/Çakmut'a göre bu kavram, hem mahkûmiyet hem de beraat kararlarını kapsar; zira her iki hâlde de sanık yabancı devletin yargı sürecinden geçmiş ve sonuçlanmıştır. Kovuşturmama kararları, iddianamenin reddi ya da takipsizlik kararları ise hüküm niteliği taşımadığından bu engeli oluşturmaz.
 
-### 2.7. İkinci Fıkra: Hafif Suçlarda Şikâyet Koşulu
+Bu düzenleme, **non bis in idem** (aynı suçtan iki kez yargılanmama) ilkesinin uluslararası boyutuna bir atıftır; ancak Türk hukukunda bu ilke m. 11 bağlamında yalnızca yabancı *hüküm* için geçerlidir, kovuşturma açılmış olması tek başına yeterli değildir.
 
-Alt sınırı bir yılın altında kalan suçlar için kovuşturma yapılabilmesi iki ayrı şikâyet hakkına bağlanmıştır:
+### 2.7. Kovuşturulabilirlik Koşulu
 
-- **Zarar görenin şikâyeti**
-- **Yabancı hükümetin şikâyeti**
+"**Türkiye'de kovuşturulabilirliğin bulunması**" ifadesi, Türk hukukunun genel dava şartlarının somut olayda gerçekleşmiş olmasını gerektirir. Bu bağlamda zamanaşımı, şikâyet (m. 73), uzlaşma gibi usul engelleri söz konusu olabilir. Hakeri'nin işaret ettiği üzere, bu ifade Türk ceza yargısının işleyebilmesi için gerekli tüm usul ön koşullarını bir bütün olarak gönderme yoluyla içermektedir.
 
-Bu iki hak birbirinin alternatifi niteliğindedir; herhangi birinin kullanılması kovuşturma için yeterlidir. "Yabancı hükümetin şikâyeti" ifadesi, suçun işlendiği ülkenin yetkili makamlarınca yapılacak diplomatik başvuruyu kapsar; bu başvurunun resmi niteliği, bir bireysel şikâyetten özünde farklılaşmaktadır.
+### 2.8. İkinci Fıkra: Hafif Suçlar İçin Şikâyet ve Süre Koşulu
 
-**Süre koşulu:** Şikâyetin, vatandaşın Türkiye'ye girdiği tarihten itibaren **altı ay içinde** yapılması zorunludur. Bu süre, hak düşürücü nitelikte bir süredir; şikâyet hakkı kullanılmadan bu süre geçirildiğinde kovuşturma imkânı ortadan kalkar. Sürenin başlangıcı, failin Türkiye'ye **her girişinde** yeniden başlar; bu durum, suç tarihinden veya şikâyet hakkını doğuran olaydan değil, failin ülkedeki fiziksel varlığından itibaren işlemeye başlar.
+Suçun **alt sınırı bir yılın altında** kalan hapis cezası gerektirdiği durumlarda m. 11/2 işletilir. Bu fıkra iki ek koşul öngörmektedir:
 
----
+**a) Şikâyet koşulu:** Yargılama yapılabilmesi, **zarar görenin** ya da **yabancı hükûmetin** şikâyetine bağlanmıştır. Mağdur olan devlet ya da bireyler arasında bir seçimlik yetki öngörülmüş; her ikisinden birinin şikâyetinin yeterliliği benimsenmiştir. Yabancı hükümete şikâyet hakkının tanınması, o ülkenin hukukî menfaatlerini koruyan bir düzenleme olarak değerlendirilebilir.
 
-## 3. Sistematik İlişkiler
-
-### 3.1. Madde 8 ile İlişki
-
-TCK m. 8, Türkiye'de işlenen suçlara uygulanır; m. 11 ise yurt dışında işlenip Türkiye'de kovuşturulan suçlara ilişkindir. İki madde arasında çakışma değil, tamamlayıcılık ilişkisi vardır. Suçun kısmen Türkiye'de kısmen yurt dışında işlendiği durumlarda m. 8/2 uygulanır ve m. 11'e gerek kalmaz.
-
-### 3.2. Madde 10 ile İlişki
-
-TCK m. 10, **pasif şahsilik ilkesini** düzenler: yabancının Türk aleyhine yurt dışında suç işlemesi halini kapsar. Madde 11 ise **aktif şahsilik ilkesini** esas alır: Türk vatandaşının yurt dışında suç işlemesini konu alır. İkisi birlikte şahsilik ilkesinin iki yüzünü oluşturur.
-
-### 3.3. Madde 12 ile İlişki
-
-TCK m. 12, yabancının Türk aleyhine veya yabancı aleyhine yurt dışında suç işlediği halleri düzenler. Madde 11 ile temel fark, failin vatandaş ya da yabancı olmasından kaynaklanır. Her iki madde de şikâyet koşulu ve ceza sınırları bakımından benzer mekanizmalar içermektedir; karşılaştırmalı okuma, maddelerin iç tutarlılığını kavramak açısından gereklidir.
-
-### 3.4. Madde 13 ile İlişki
-
-TCK m. 13 kapsamındaki suçlar —özellikle devlet aleyhine suçlar, insanlığa karşı suçlar— m. 11'in dışında tutulmuştur. Bu suçlar, m. 13 uyarınca fail kim olursa olsun ve nerede işlenirse işlensin Türk ceza hukukunun uygulanmas
+**b) Süre koşulu:** Şikâyet, **vatandaşın Türkiye'ye girdiği tarihten itibaren altı ay** içinde yapılmalıdır. Bu süre hak düşürücü nitelikte olup durma ya da kesilme kabul etmez. Sürenin başlangıcının "Türkiye'ye giriş tarihi" olarak belirlenmesi, şikâyete yetkili kişilerin failin ülkede bulunup bulunmadığından haberdar olmaları sorununu gündeme getirmektedir. Özbek/Kanbur/Doğan/Bacaksız/Tepe, bu düzenlemenin zarar göreni güç durumda bırakabileceğ
