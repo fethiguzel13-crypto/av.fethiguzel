@@ -2,7 +2,7 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { existsSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import { join, dirname } from 'node:path';
-import { writeCaptions } from './lib/instagram-caption-writer.js';
+import { writeCaptions, generateCardHeadlines } from './lib/instagram-caption-writer.js';
 import { generateCard, deleteCard } from './lib/instagram-card-writer.js';
 import { postInstagram } from './lib/instagram-poster.js';
 
@@ -35,7 +35,7 @@ async function fetchHighlights() {
   const res = await fetch(DAILY_URL);
   if (!res.ok) throw new Error(`daily.json fetch failed: ${res.status}`);
   const daily = await res.json();
-  return (daily.highlights || []).slice(0, 4);
+  return (daily.highlights || []).slice(0, 2);
 }
 
 async function main() {
@@ -53,13 +53,17 @@ async function main() {
   }
   console.log(`[startup-instagram] ${highlights.length} highlights fetched`);
 
-  const captions = await writeCaptions(highlights);
+  const [captions, headlines] = await Promise.all([
+    writeCaptions(highlights),
+    generateCardHeadlines(highlights),
+  ]);
   console.log(`[startup-instagram] ${captions.length} captions generated`);
 
   const cardPaths = [];
-  for (const h of highlights) {
+  for (let i = 0; i < highlights.length; i++) {
+    const h = highlights[i];
     console.log(`[startup-instagram] generating card for ${h.id ?? h.title ?? 'unknown'}...`);
-    const path = await generateCard(h);
+    const path = await generateCard({ ...h, cardText: headlines[i] });
     cardPaths.push(path);
   }
   console.log(`[startup-instagram] ${cardPaths.length} cards generated`);

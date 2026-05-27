@@ -3,7 +3,7 @@ import { homedir } from 'node:os';
 import { join } from 'node:path';
 
 const CHROME_PROFILE = join(homedir(), 'AppData', 'Local', 'Google', 'Chrome', 'User Data', 'TwitterBot');
-const TWEET_DELAY_MS = 30_000;
+const TWEET_DELAY_MS = 3 * 60 * 60 * 1000; // 3 saat — spam görünmesin
 const HOME_URL = 'https://x.com/home';
 
 export async function postTweets(tweets) {

@@ -5,35 +5,79 @@ import { join } from 'node:path';
 
 const CHROME_PROFILE = join(homedir(), 'AppData', 'Local', 'Google', 'Chrome', 'User Data', 'InstagramBot');
 const INSTAGRAM_URL = 'https://www.instagram.com';
-const POST_DELAY_MS = 60_000;
+const POST_DELAY_MS = 3 * 60 * 60 * 1000; // 3 saat — spam görünmesin
+
+async function clickByText(page, texts, label) {
+  const selectors = texts.flatMap(t => [
+    `button:has-text("${t}")`,
+    `[role="button"]:has-text("${t}")`,
+    `div:text-is("${t}")`,
+    `span:text-is("${t}")`,
+  ]);
+  for (const sel of selectors) {
+    try {
+      const el = page.locator(sel).first();
+      await el.waitFor({ timeout: 3_000 });
+      await el.click();
+      console.log(`[instagram-poster] ${label} clicked with: ${sel}`);
+      return;
+    } catch { /* try next */ }
+  }
+  throw new Error(`[instagram-poster] ${label} button not found`);
+}
 
 async function postSingle(page, imagePath, caption) {
   console.log('[instagram-poster] navigating to home...');
   await page.goto(INSTAGRAM_URL, { waitUntil: 'domcontentloaded' });
   await page.waitForTimeout(3_000);
 
-  // Click the Create / New Post button
-  const createBtn = page.locator('[aria-label="New post"], [aria-label="Yeni gönderi"], [aria-label="Create"]').first();
-  await createBtn.waitFor({ timeout: 20_000 });
-  await createBtn.click();
+  // Take debug screenshot so we can see what page looks like if selector fails
+  const { tmpdir } = await import('node:os');
+  const debugPath = join(tmpdir(), 'ig-debug.png');
+  await page.screenshot({ path: debugPath, fullPage: false });
+  console.log(`[instagram-poster] debug screenshot: ${debugPath}`);
+
+  // Click the Create / New Post button — try multiple selector variants
+  const createSelectors = [
+    '[aria-label="Yeni Gönderi"]',
+    '[aria-label="New post"]',
+    '[aria-label="Yeni gönderi"]',
+    '[aria-label="Create"]',
+    '[aria-label="Oluştur"]',
+    'svg[aria-label="New post"]',
+    'a[href*="create"]',
+  ];
+  let createBtnClicked = false;
+  for (const sel of createSelectors) {
+    try {
+      const el = page.locator(sel).first();
+      await el.waitFor({ timeout: 3_000 });
+      await el.click();
+      createBtnClicked = true;
+      console.log(`[instagram-poster] Create button found with selector: ${sel}`);
+      break;
+    } catch { /* try next */ }
+  }
+  if (!createBtnClicked) {
+    throw new Error(`[instagram-poster] Create button not found. Check debug screenshot: ${debugPath}`);
+  }
   await page.waitForTimeout(2_000);
 
-  // Set image file on the hidden file input
+  // Set image file on the hidden file input (Instagram hides it, so check attached not visible)
   const fileInput = page.locator('input[type="file"]').first();
-  await fileInput.waitFor({ timeout: 15_000 });
+  await fileInput.waitFor({ state: 'attached', timeout: 15_000 });
   await fileInput.setInputFiles(imagePath);
-  await page.waitForTimeout(3_000);
+  await page.waitForTimeout(6_000);
+  const afterUploadPath = join(tmpdir(), 'ig-after-upload.png');
+  await page.screenshot({ path: afterUploadPath, fullPage: false });
+  console.log(`[instagram-poster] after-upload screenshot: ${afterUploadPath}`);
 
   // Next → (crop screen)
-  const next1 = page.locator('button:has-text("Next"), button:has-text("İleri")').first();
-  await next1.waitFor({ timeout: 15_000 });
-  await next1.click();
+  await clickByText(page, ['Next', 'İleri'], 'Next (crop)');
   await page.waitForTimeout(2_000);
 
   // Next → (filter screen)
-  const next2 = page.locator('button:has-text("Next"), button:has-text("İleri")').first();
-  await next2.waitFor({ timeout: 15_000 });
-  await next2.click();
+  await clickByText(page, ['Next', 'İleri', 'Filtreler'], 'Next (filter)');
   await page.waitForTimeout(2_000);
 
   // Type caption (contenteditable div on share screen)
@@ -47,9 +91,7 @@ async function postSingle(page, imagePath, caption) {
   await page.waitForTimeout(1_000);
 
   // Share
-  const shareBtn = page.locator('button:has-text("Share"), button:has-text("Paylaş")').first();
-  await shareBtn.waitFor({ timeout: 15_000 });
-  await shareBtn.click({ force: true });
+  await clickByText(page, ['Share', 'Paylaş'], 'Share');
   await page.waitForTimeout(5_000);
 }
 

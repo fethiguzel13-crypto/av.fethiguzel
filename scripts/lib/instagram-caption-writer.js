@@ -31,6 +31,34 @@ function summaryFor(h) {
   return (h.publicSummary || h.konu || '').trim().slice(0, 500);
 }
 
+const HEADLINE_SYSTEM = `Sen bir hukuk editörüsün. Mahkeme kararlarını Instagram görsel kartları için tek bir çarpıcı cümleye dönüştürüyorsun.
+
+Kurallar:
+- Tam ve eksiksiz bir cümle — yarım bırakma, nokta ile bitir
+- Maksimum 120 karakter
+- Sade Türkçe, jargonsuz
+- Sonuç odaklı: "Mahkeme şuna hükmetti", "X yapan kişi kusurludur" gibi
+- Sadece cümleyi yaz, başka hiçbir şey ekleme`;
+
+export async function generateCardHeadlines(highlights, client = new Anthropic()) {
+  const headlines = [];
+  for (const h of highlights) {
+    const msg = await client.messages.create({
+      model: 'claude-sonnet-4-6',
+      max_tokens: 100,
+      system: HEADLINE_SYSTEM,
+      messages: [{
+        role: 'user',
+        content: `Mahkeme: ${h.source}\nKunye: ${h.kunye || ''}\nÖzet: ${summaryFor(h)}\n\nTek cümlelik kart başlığını yaz.`
+      }]
+    });
+    const raw = msg.content?.[0]?.text;
+    if (!raw) throw new Error(`Empty headline response for ${h.id || h.source}`);
+    headlines.push(raw.trim());
+  }
+  return headlines;
+}
+
 export async function writeCaptions(highlights, client = new Anthropic()) {
   const captions = [];
   for (const h of highlights) {

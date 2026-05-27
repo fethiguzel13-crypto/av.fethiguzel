@@ -34,7 +34,7 @@ async function fetchHighlights() {
   const res = await fetch(DAILY_URL);
   if (!res.ok) throw new Error(`daily.json fetch failed: ${res.status}`);
   const daily = await res.json();
-  return (daily.highlights || []).slice(0, 4);
+  return (daily.highlights || []).slice(0, 2);
 }
 
 async function main() {
