@@ -4,7 +4,7 @@ kanun: "Türk Ceza Kanunu"
 maddeNo: 9
 commentaryStatus: "completed"
 lastReviewed: "2026-05-27"
-wordCount: 1198
+wordCount: 1188
 keywords:
   - "yabancı"
   - "ülkede"
@@ -30,19 +30,23 @@ verilmiş olan kimse, Türkiye'de yeniden yargılanır.
 
 ## 1. Maddenin Sistematiği ve Genel Açıklama
 
-### 1.1. Kanundaki Yeri ve İşlevi
+### 1.1. Konumu ve Amacı
 
-TCK'nın "Birinci Kitap – Genel Hükümler" başlığı altında yer alan "Uluslararası Hukuk" başlıklı İkinci Bölüm'ün dokuzuncu maddesi, Türk ceza hukukunun yer bakımından uygulanması sorununu düzenleyen normlar dizisinin bir parçasını oluşturmaktadır. Bu bölüm; mülkilik ilkesini düzenleyen 8. madde, yabancı ülkede verilmiş mahkûmiyetin Türkiye'deki yargılamaya etkisini belirleyen 9. madde, yurt dışında Türklerin işlediği suçlara ilişkin 10. ve 11. maddeler, yurt dışında yabancıların işlediği suçlara ilişkin 12. ve 13. maddeler ile mahsup kuralını düzenleyen 16. maddeyi kapsamakta; bir bütün olarak Türk ceza hukukunun evrensel ve millî yer yetki ilkelerini sistemli biçimde ortaya koymaktadır.
+TCK m. 9, 5237 sayılı Kanun'un "Uygulama Alanı" başlıklı Birinci Kitap, Birinci Kısım, İkinci Bölümü'nde yer almaktadır. Bu bölüm; m. 8 (Ülkesellik ilkesi), m. 9 (Yabancı ülkede hüküm verilmesi), m. 10 (Yabancı ülkede mahkûm olan vatandaş), m. 11 (Yabancı ülkede mahkûm olan yabancı) ve m. 13 (Evrensellik ilkesi) maddelerinden oluşan bütünleşik bir sistem kurmaktadır. Söz konusu bölüm, Türk ceza hukukunun yer bakımından uygulanma alanını ve yabancı devlet yargı kararlarının Türk hukuku nezdindeki geçerliliğini düzenlemiştir.
 
-Madde 9, bu yapı içinde **mülkilik ilkesinin (teritoryalite)** doğal bir uzantısı olarak işlev görmektedir. Türkiye'de işlenmiş bir suç bakımından Türk devletinin yargı yetkisi, başka bir devletin o suça ilişkin hüküm kurmuş olmasından bağımsızdır. Diğer bir ifadeyle madde; yabancı devletin yargı kararına *ne bis in idem* (aynı eylemden iki kez yargılanmama) güvencesinin uygulanmasını açıkça reddeden, egemenlikçi bir normatif tercih içermektedir.
+Madde 9, yalnızca tek bir fıkradan oluşmakla birlikte içerdiği kural, özü itibarıyla **ne bis in idem ilkesinin sınırlandırılması** anlamına gelir. Düzenleme; bir kişinin Türkiye'de işlediği bir suç nedeniyle yabancı bir ülkede hakkında hüküm verilmiş olmasının, Türkiye'de tekrar yargılanmasının önünde engel teşkil etmeyeceğini açıkça hükme bağlamaktadır.
 
-### 1.2. Tarihsel Arka Plan
+### 1.2. Tarihsel Arka Plan ve Karşılaştırmalı Hukuk
 
-Mülga 765 sayılı TCK'nın 4. maddesi de benzer bir kuralı içermekteydi. 5237 sayılı Kanun, söz konusu düzenlemenin özünü korumakla birlikte sistematik açıdan daha tutarlı bir konuma yerleştirmiş; yabancı ülkede verilen kararın mahsuba etkisini ise ayrı bir madde olan 16. maddede düzenlemiştir. Bu ayrım, eski kanunda bütünleşik biçimde yer alan hususların birbirinden işlevsel olarak ayrıştırılması anlamında bir ilerleme sayılmalıdır.
+Mülga 765 sayılı Türk Ceza Kanunu döneminde de benzer bir düzenleme mevcuttu; 765 sayılı TCK m. 7 bu hususu kısmen ele almıştır. 5237 sayılı Kanun'un kabulüyle birlikte madde, hem dil hem de sistematik açıdan yeniden düzenlenmiş; ancak temel ilke korunmuştur.
 
-### 1.3. Karşılaştırmalı Hukuk Bağlamı
+Karşılaştırmalı hukukta bu mesele çeşitli biçimlerde çözüme kavuşturulmuştur:
 
-Avrupa hukuku geleneğinde *ne bis in idem* ilkesi, hem iç hukuk düzleminde hem de uluslararası belgeler aracılığıyla güçlü bir koruma alanı bulmaktadır. Schengen Uygulama Sözleşmesi'nin 54. maddesi, aynı eylemin Schengen alanı içindeki birden fazla devlette yargılanmasını açıkça yasaklamaktadır. Buna karşın Türkiye, Schengen sistemine dâhil olmadığı gibi genel uluslararası hukuk normu olarak *ne bis in idem*'in devletlerarası düzeyde bağlayıcılığını da tanımamaktadır. Bu perspektiften bakıldığında TCK'nın 9. maddesi, uluslararası standartların gerisinde kalan ancak devlet egemenliği doktrini açısından tutarlı olan bir tercih sergilemektedir.
+- **Alman hukuku** (StGB § 3-7): Ülke dışında verilen hükümlerin mahsup edilmesini öngörmekle birlikte yeniden yargılamayı mümkün kılmaktadır.
+- **Fransız hukuku** (Code Pénal Art. 113-9): Yabancı mahkemenin beraatiyle sonuçlanan davalarda yeniden kovuşturma yasağını tanıyan, ancak mahkûmiyetle biten durumlarda yeniden yargılamaya cevaz veren karma bir yaklaşım benimsemiştir.
+- **Avrupa İnsan Hakları Sözleşmesi 7 No'lu Protokol m. 4**: Ne bis in idem ilkesini güvence altına almış; ancak bu güvence yalnızca **aynı devlet** yargı yetkisi çerçevesinde geçerlidir; farklı devletlerin yargı yetkileri arasında uygulanmaz.
+
+Bu bağlamda TCK m. 9, uluslararası hukuk çerçevesiyle uyumludur; zira ne bis in idem ilkesinin devletlerarası boyuttaki uygulanması henüz evrensel bir zorunluluk olarak kabul görmemektedir.
 
 ---
 
@@ -50,66 +54,73 @@ Avrupa hukuku geleneğinde *ne bis in idem* ilkesi, hem iç hukuk düzleminde he
 
 ### 2.1. "Türkiye'de İşlediği Suç"
 
-Madde 9'un uygulanabilmesinin ilk ve en temel koşulu, söz konusu **suçun Türkiye'de işlenmiş olmasıdır.** Bu ibare doğrudan 8. maddeye atıfla anlaşılmalıdır. TCK m. 8, suçun Türkiye'de işlenmiş sayılması için iki ölçüt öngörmektedir: fiilin Türkiye'de **kısmen veya tamamen icra edilmesi** ya da **neticenin Türkiye'de gerçekleşmesi.** Dolayısıyla m. 9'daki "Türkiye'de işlenmiş suç" ibaresinin kapsamı, m. 8'in geniş yorumuyla şekillenmektedir.
+Madde 9'un uygulama alanının sınırı, suçun **Türkiye'de işlenmiş** olmasıdır. "Türkiye'de işlenme" ölçütü, m. 8 ile birlikte değerlendirilmelidir. TCK m. 8/1'e göre suç; Türkiye'de işlenen hareket veya bu hareketin sonucunun Türkiye'de gerçekleşmesi hâlinde Türkiye'de işlenmiş sayılır. Dolayısıyla şu durumlar söz konusu olabilir:
 
-Suçun Türkiye'de icra edilmesi ya da neticenin burada doğması durumunda Türk devleti, birincil yargı yetkisine sahip sayılır. Yabancı devletin aynı suç üzerinde yargılama yapmış olması, Türk yargı yetkisini ne sona erdirir ne de askıya alır. Aksi bir yorum, Türkiye'nin iç hukukunda açık bir düzenleme olmaksızın yabancı yargı kararlarına bağlı kılınması anlamına gelir ki bu, egemenlik ilkesiyle bağdaşmaz.
+- Failin hareketi Türkiye'de gerçekleştirdiği, sonucun başka bir ülkede doğduğu suçlar,
+- Failin hareketi yurt dışında gerçekleştirdiği, sonucun Türkiye'de doğduğu suçlar (bu durum m. 8 kapsamında Türkiye'de işlenmiş sayıldığından m. 9 uygulanabilecektir),
+- Hareket ve sonucun her ikisinin de Türkiye'de gerçekleştiği suçlar.
 
-### 2.2. "Yabancı Ülkede Hüküm"
+M. 9 açısından **belirleyici olan husus**, suçun m. 8 uyarınca Türkiye'de işlenmiş sayılmasıdır. Bu kapsamın dışında kalan suçlar, yani yalnızca yurt dışında işlenen suçlar m. 9 değil; m. 10, m. 11 veya m. 13 hükümlerine tabi olacaktır.
 
-Maddenin uygulanabilmesi için yabancı devlette **bir hüküm** kurulmuş olması gerekir. "Hüküm" kavramı, yabancı devletin yargı organı tarafından ortaya konulan, iç hukukundaki usul kurallarına göre kesinleşmiş ya da kesinleşmemiş olmakla birlikte sonuçları itibarıyla muhatap üzerinde etkili olan bir yargısal kararı ifade eder.
+### 2.2. "Yabancı Ülkede Hüküm Verilmesi"
 
-Bu bağlamda şu ayrımların önemi büyüktür:
+"Hüküm" kavramı, maddenin uygulanabilmesi için temel koşulu oluşturmaktadır. Bu kavramın doğru anlaşılması kritik önem taşır:
 
-- **Mahkûmiyet kararı:** Sanığın suçlu bulunarak cezalandırıldığı karardır. Madde 9 açısından en yaygın uygulanma alanı budur.
-- **Beraat kararı:** Sanığın suçsuz bulunduğu karardır. Madde 9'un lafzı yalnızca "hüküm" demekte; kararın mahkûmiyet mi beraat mi olduğunu ayırt etmemektedir. Öğretide hâkim görüş, yabancı ülkedeki beraat kararının da Türkiye'de yeniden yargılamayı engellemeyeceği yönündedir; zira madde, salt yargı yetkisinin münhasırlığına değil, Türkiye'nin hüküm kurma hakkını saklı tutmasına dayanmaktadır.
-- **Düşme veya takipsizlik kararları:** Kovuşturmaya yer olmadığına dair kararlar ya da davanın düşürülmesi gibi esasa ilişkin olmayan kararların "hüküm" sayılıp sayılmayacağı tartışmalıdır. Öğretinin büyük çoğunluğu, maddenin ancak **esasa dair** kararlar bakımından uygulanabileceğini kabul etmektedir.
+**a) Mahkûmiyet Hükmü:** Failin suçlu bulunarak cezalandırılmasına karar verilmesidir. Bu hâlde Türkiye'de yeniden yargılama yapılacağı açıktır. Yabancı mahkemenin verdiği ceza ne olursa olsun, Türk Devleti kendi yargı yetkisini kullanacaktır.
 
-### 2.3. "Yeniden Yargılanır"
+**b) Beraat Hükmü:** Burada ciddi bir yorum sorunu ortaya çıkmaktadır. Metnin lafzı, "hüküm verilmiş olan kimse" ifadesiyle yalnızca mahkûmiyet kararlarını mı, yoksa beraat kararlarını da mı kapsadığı konusunda tartışma yaratmaktadır. Öğretideki hâkim görüş, maddenin **her türlü yargısal sonuçlandırma kararını** kapsadığı yönündedir. Nitekim yabancı ülkedeki beraat kararı da Türkiye'de yeniden yargılamanın önünde bir engel değildir; aksi düşüncenin kabulü, yabancı devlet kararlarına Türk hukukunda bağlayıcı etki tanımak anlamına gelir ki bu, egemenlik ilkesiyle bağdaşmaz.
 
-Maddenin normatif özü bu ibarede yatmaktadır. "Yeniden yargılanır" ifadesi, **zorunlu** ve **mutlak** bir yargılama yükümlülüğü öngörmektedir. Madde, savcılığa ya da mahkemeye takdir yetkisi tanımamaktadır; yabancı ülkedeki hükmün varlığı, Türkiye'de yeniden yargılama yapılmasını ne otomatik olarak gereksiz kılar ne de usule ilişkin bir engel oluşturur.
+**c) Düşme veya Takipsizlik Kararları:** Dava zamanaşımı gibi usul engelleri nedeniyle verilen düşme kararları yahut kovuşturmaya yer olmadığına dair kararlar, "hüküm" kavramının dışında tutulmalıdır. Zira bu kararlar, esasa ilişkin bir değerlendirme içermemekte; dolayısıyla m. 9 anlamında "hüküm" niteliği taşımamaktadır. Bununla birlikte bu durum, m. 9'un uygulama alanını daraltmamakta; aksine yeniden yargılama yolunu daha açık bırakmaktadır.
 
-Bununla birlikte "yeniden yargılanır" ibaresi, önceki yargılamanın hiç yapılmamış sayılacağı anlamına gelmez. TCK'nın 16. maddesi, yabancı ülkede infaz edilen cezanın Türkiye'de verilecek cezadan mahsubunu mümkün kılmaktadır. Dolayısıyla 9. madde ile 16. madde birlikte yorumlandığında şu tablo ortaya çıkmaktadır: Yargılama Türkiye'de **her halükarda** yapılır; ancak yabancı ülkede fiilen çekilen ceza, Türkiye'de hükmedilecek cezadan düşülür.
+### 2.3. "Türkiye'de Yeniden Yargılanır"
+
+Bu ifade iki temel sonuç doğurmaktadır:
+
+**Birinci sonuç — Zorunluluk:** Madde, ihtiyari değil emredici bir nitelik taşımaktadır. "Yargılanır" fiilinin kullanımı, Türk savcılığına ve mahkemelerine takdir yetkisi tanımamakta; Türkiye'de yargı yetkisinin kullanılmasını **zorunlu** kılmaktadır.
+
+**İkinci sonuç — Bağımsızlık:** Yeniden yargılama, yabancı ülkedeki yargılamadan bağımsız olarak yürütülecektir. Yabancı mahkemenin ulaştığı sonuç, delil değerlendirmesi veya hukuki nitelendirme, Türk mahkemesi açısından bağlayıcı değildir. Türk mahkemesi davayı yeniden ve tamamen bağımsız biçimde ele alacaktır.
+
+**Üçüncü sonuç — Mahsup meselesi:** M. 9 tek başına değerlendirildiğinde, yabancı ülkede çekilen cezanın Türkiye'de verilecek cezadan mahsup edilip edilmeyeceği sorusu yanıtsız kalır. Bu mesele m. 16 hükmü kapsamında düzenlenmektedir. M. 16/1 uyarınca, yabancı mahkemece verilen ve infaz edilen ceza, Türk mahkemesince hükmedilecek cezadan mahsup edilir. Bu mahsup mekanizması, m. 9'un yarattığı yeniden yargılama kuralını, hakkaniyet çerçevesinde dengelemektedir.
+
+### 2.4. "Kimse" — Kişi Bakımından Kapsam
+
+Madde 9'da "kimse" ibaresi kullanılmış olup bu ifade, failin **Türk vatandaşı veya yabancı** olmasından bağımsız olarak uygulanacağına işaret etmektedir. Zira düzenlemenin odak noktası failin uyruğu değil, suçun işlendiği yer ve yabancı devlet yargı yetkisinin kullanılmış olmasıdır. Fail Türk vatandaşı, yabancı uyruklu ya da vatansız olabilir; bu durum m. 9'un uygulanmasını etkilemez.
 
 ---
 
 ## 3. Sistematik İlişkiler
 
-### 3.1. TCK Madde 8 ile İlişki
+### 3.1. TCK m. 8 ile İlişki
 
-Madde 9, madde 8 ile organik bir bütün oluşturur. Madde 8, hangi suçların Türkiye'de işlenmiş sayılacağını belirlerken madde 9, bu suçlara ilişkin yabancı ülke hükümlerinin etkisini düzenler. İki madde birlikte okunmadan madde 9'un uygulama koşullarının tespiti mümkün değildir.
+Madde 9'un uygulanabilmesi için temel ön koşul, suçun Türkiye'de işlenmiş olmasıdır. Bu koşul doğrudan m. 8 ile belirlenmektedir. M. 8'in ülkesellik ilkesini düzenlediği, m. 9'un ise bu ilkenin uluslararası boyutunu ele aldığı söylenebilir. M. 8 Türkiye'nin hangi suçlar üzerinde yargı yetkisine sahip olduğunu belirlerken, m. 9 bu yetki kapsamındaki suçlara ilişkin yabancı devlet kararlarının Türk hukukundaki statüsünü belirlemektedir.
 
-### 3.2. TCK Madde 16 ile İlişki (Mahsup Kuralı)
+### 3.2. TCK m. 10 ve m. 11 ile İlişki
 
-TCK'nın 16. maddesi, yabancı ülkede tutuklu kalınan veya infaz edilen sürenin Türkiye'de verilecek cezadan mahsubunu düzenlemektedir. Bu kural, 9. maddenin yarattığı sonuçların kısmen törpülenmesini sağlamaktadır. Zira 9. madde tek başına uygulandığında, bir kişinin aynı fiil nedeniyle birden fazla devlette ceza çekmesi gibi ağır bir sonuç doğabilir. Madde 16, bu fiilî adaletsizliği gidermek amacıyla devreye girmektedir. Ancak mahsubun gerçekleşebilmesi için yabancı ülkede infazın fiilen gerçekleşmiş olması gerekir; infaz edilmemiş bir ceza kararı, mahsuba konu olamaz.
+- **M. 10**: Yurt dışında suç işleyen Türk vatandaşının yabancı ülkede hüküm görmesini düzenlemektedir.
+- **M. 11**: Yurt dışında suç işleyen yabancının yabancı ülkede hüküm görmesini düzenlemektedir.
 
-### 3.3. TCK Madde 10 ve 11 ile İlişki
+M. 9 ise suçun yurt dışında değil, **Türkiye'de işlenmiş** olması durumuna özgüdür. Fail kim olursa olsun, suç Türkiye'de işlendiği için Türk ceza hukukunun esas yetkisi tartışmasızdır. M. 10 ve m. 11'de ise suç yurt dışında işlendiğinden yargı yetkisi tartışmalı bir alan oluşturmakta, bu nedenle söz konusu maddeler çeşitli koşullar öngörmektedir.
 
-Madde 10 ve 11, yurt dışında Türk vatandaşlarının ya da kamu görevlilerinin işlediği suçlara ilişkin yargılama koşullarını belirlemektedir. Bu maddelerde ise belirli suçlar bakımından yabancı ülkede beraat ya da mahkûmiyet kararı verilmiş olması Türkiye'deki yargılamayı **engelleyici** bir unsur olarak öngörülmüştür (m. 11/2). Bu farklılık son derece önemlidir: Madde 9, yer yetki temelinde (mülkilik ilkesi) bir düzenleme içerdiğinden mutlak yargılama yükümlülüğü öngörmekte; oysa madde 10 ve 11, şahsilik ilkesine dayalı ve bazı koşulları barındıran daha esnek bir sistem kurmaktadır.
+### 3.3. TCK m. 13 ile İlişki
 
-### 3.4. CMK Hükümleri ile İlişki
+Evrensellik ilkesini düzenleyen m. 13, suçun işlendiği yer veya failin uyruğundan bağımsız olarak belirli ağır suçlar bakımından Türkiye'nin yargı yetkisini tanımaktadır. M. 9 ise doğrudan ülkesellik ilkesine dayandığından, m. 13 kapsamındaki suçlar söz konusu olduğunda her iki madde birlikte uygulanabilir hâle gelebilir.
 
-Yabancı ülkede hüküm verilmiş olması, **CMK açısından bir yargılama engeli teşkil etmemektedir.** Bir davada yabancı ülkede verilmiş hükmün varlığı savcı ya da mahkeme tarafından tespit edilirse, bu durum kovuşturmaya yer olmadığı kararına ya da dava şartı yokluğuna gerekçe oluşturmaz; yargılamaya devam edilir. Ancak yargılama sürecinde mahsup talebi ileri sürülebilir.
+### 3.4. TCK m. 16 ile İlişki — Mahsup
 
-### 3.5. İade Hukuku ile İlişki
+Belirtildiği üzere m. 9, yeniden yargılamayı emretmekte; m. 16 ise bu yeniden yargılama sonucunda verilecek cezadan, yabancı ülkede fiilen infaz edilen cezanın mahsubunu düzenlemektedir. M. 9 ve m. 16 birlikte değerlendirildiğinde şu tablo ortaya çıkar:
 
-Uluslararası suçlu iadesi alanında *ne bis in idem* ilkesi, iade taleplerinin reddinde sıklıkla başvurulan bir gerekçedir. Türkiye'nin taraf olduğu bazı ikili iade sözleşmeleri, yabancı ülkede verilmiş mahkûmiyet kararını iade reddi sebebi olarak düzenleyebilmektedir. Bu durumda TCK m. 9 ile iade hukuku kuralları arasında bir gerilim doğabilir; özellikle kişinin iade edildiği ülke bakımından yeniden yargılama yasağının varlığı, uygulama açısından ciddi sorunlara yol açabilir.
+| Aşama | Düzenleyen Madde | İçerik |
+|---|---|---|
+| Yargılama yapılması | M. 9 | Türkiye'de yeniden yargılanma zorunlu |
+| Yabancı cezanın etkisi | M. 16 | Fiilen infaz edilen ceza mahsup edilir |
+| Sonuç | M. 9 + M. 16 | Yeniden yargılama + hakkaniyetli mahsup |
+
+### 3.5. AİHM 7 No'lu Protokol m. 4 ile İlişki
+
+7 No'lu Protokol'ün 4. maddesi ne bis in idem güvencesini düzenlemektedir. Ancak AİHM içtihadı bu güvencenin yalnızca **aynı devletin yargı sistemi** içinde uygulandığını teyit etmektedir (Zolotukhin / Rusya, 2009). Farklı devletlerin yargı organlarınca verilen kararlar arasında bu protokolden kaynaklanan bir engel söz konusu değildir. Dolayısıyla m. 9'un yarattığı yeniden yargılama zorunluluğu, AİHS bağlamında herhangi bir ihlal teşkil etmemektedir.
 
 ---
 
 ## 4. Uygulama: Yargıtay İçtihadı
 
-Bu maddeye doğrudan ilişkin son 24 ayda Yargıtay kararı çekilemedi.
-
-Bununla birlikte şu genel tespitler öğretiyle uyumlu biçimde yapılabilir:
-
-Yargıtay'ın, mülkilik ilkesini düzenleyen TCK m. 8 kapsamındaki kararlarında Türk mahkemelerinin yargı yetkisini geniş yorumladığı görülmektedir. Bu eğilim, m. 9'un uygulanma alanını dolaylı olarak genişletmektedir; zira m. 8 kapsamına giren her suç, m. 9 anlamında "Türkiye'de işlenmiş suç" niteliği taşıdığından yabancı ülke hükmü, Türk yargılamasının önünde bir engel oluşturmayacaktır.
-
-Yargıtay'ın ayrıca *ne bis in idem* ilkesini yalnızca iç hukuktaki boyutuyla tanıdığı ve bu ilkenin uluslararası geçerliliğini Türk mahkemelerini bağlayıcı bir kural olarak kabul etmediği genel çizgisi, m. 9'un yorumuyla da örtüşmektedir.
-
----
-
-## 5. Pratik Örnek Olaylar
-
-### Olay 1 — Türkiye'de İşlenen Dolandırıcılık, Almanya'da Yargılama (kurmaca senaryo)
-
-A, İstanbul'da kurduğu sahte yatırım şirketi aracılığıyla Almanya'da yerleşik Türk vatandaşlarını internet üzerinden dolandırır. Eylem hem Türkiye'de (sahte sistemin kurulduğu yer) hem de Almanya'da (mağdurların zarara uğradığı yer) gerçekleş
+Bu maddeye doğrudan ilişkin son 24 ay
