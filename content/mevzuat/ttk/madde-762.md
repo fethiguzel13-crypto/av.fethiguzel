@@ -78,7 +78,7 @@ Doktrinde Reha Poroy, Ünal Tekinalp, Fırat Öztan ve Abuzer Kendigelen gibi k�
 
 TTK m. 762 uyarınca ilanın Türkiye Ticaret Sicili Gazetesinde yapılması yasal bir zorunluluk olmakla birlikte, doktrinde haklı olarak şu eleştiri yöneltilmektedir: Senedi iyiniyetle iktisap eden kişilerin (örneğin sıradan bir tüketicinin, esnafın veya tüccar olmayan şahısların) günlük olarak TTSG'yi takip etme ihtimali hayatın olağan akışına aykırıdır [22, 23]. TTK m. 36 uyarınca ticaret sicili kayıtlarının ilanı üçüncü kişiler bakımından hukuki etki doğursa da, iptal davası kapsamındaki ilanın sadece bir "ihtar" niteliği taşıması ve doğrudan "bilinme karinesi" yaratmaması nedeniyle [22, 23], senedin yeni zilyedinin durumu öğrenmesi genellikle senedin vadesinde ödeme için ibraz edildiği ve muhatabın "mahkemece ödeme yasağı konulduğunu" bildirdiği anda gerçekleşmektedir [8].
 
-Bu noktada kanundaki lafzi düzenlemenin dijital çağa adapte edilmesi gerektiği, Merkezi Kayıt Kuruluşu (MKK) nezdinde veya Bankalararası Takas Odaları Merkezinde oluşturulacak herkese açık bir "Kayıp Kıymetli Evrak Veri Tabanı" üzerinden elektronik ilan sisteminin getirilmesinin, TTK m. 762'nin "potansiyel hamile ulaşma" amacına çok daha rasyonel biçimde hizmet edeceği değerlendirilmektedir.
+Bu noktada kanundaki lafzi düzenlemenin dijital çağa adapte edilmesi gerektiği, Merkezi Kayıt Kuruluşu (MKK) nezdinde veya Bankalararası Takas Odaları Merkezinde oluşturulacak herkese açık bir "Kayıp Kıymetli Evrak Bilgi Sistemi" üzerinden elektronik ilan sisteminin getirilmesinin, TTK m. 762'nin "potansiyel hamile ulaşma" amacına çok daha rasyonel biçimde hizmet edeceği değerlendirilmektedir.
 
 ---
 
