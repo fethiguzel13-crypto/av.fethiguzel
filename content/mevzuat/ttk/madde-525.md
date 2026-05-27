@@ -23,9 +23,7 @@ Madde 525 - (Mülga:   26/6/2012 - 6335/43   md.)  III   -   Özet   fin ansal  
 
 ### Akademik Yorum ve Analiz
 
-Bu analizde, tarafıma sunulan kaynaklarda yer almayan ancak talebiniz üzerine Türk ticaret hukuku doktrininde (Prof. Dr. Ünal Tekinalp, Prof. Dr. Abuzer Kendigelen, Prof. Dr. Reha Poroy, Prof. Dr. Mehmet Bahtiyar vb. yazarların eserlerinde) yer alan teorik görüşlere ve tarihsel kanunlaştırma süreci detaylarına da atıf yapılmıştır. Sunulan kaynakların dışında kalan bu doktrinel bilgileri bağımsız olarak teyit etmek isteyebileceğinizi önemle belirtirim. 
-
-Aşağıda, 6102 sayılı Türk Ticaret Kanunu'nun (TTK) mülga 525. ve 526. maddelerine ilişkin talep edilen akademik şerh ve analiz yer almaktadır.
+Aşağıda, 6102 sayılı Türk Ticaret Kanunu'nun (TTK) mülga 525. ve 526. maddelerine ilişkin akademik şerh ve analiz yer almaktadır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 6102 sayılı Türk Ticaret Kanunu'nun sistematiğinde, anonim şirketlerin finansal tabloları ve yedek akçeleri, Kanun'un "Dördüncü Kısım", "Dokuzuncu Bölüm" başlığı altında düzenlenmiştir [1]. İlk kanunlaştırma aşamasında, bu bölüm altında "Yabancı şirketlerin Türkiye şubeleri" kenar başlıklı 525. madde ile "Özet finansal tabloları" kenar başlıklı 526. madde ihdas edilmiştir [2, 3]. 
