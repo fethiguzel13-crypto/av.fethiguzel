@@ -4,7 +4,7 @@ kanun: "Türk Ceza Kanunu"
 maddeNo: 12
 commentaryStatus: "completed"
 lastReviewed: "2026-05-27"
-wordCount: 1162
+wordCount: 1169
 keywords:
   - "yabancı"
   - "tarafından"
@@ -41,23 +41,25 @@ ticareti suçlarından dolayı yargılama yapılması Adalet Bakanının istemin
 
 ### Akademik Yorum ve Analiz
 
-# TCK Madde 12 – Yabancı Tarafından İşlenen Suç
+**TCK Madde 12 – Yabancı Tarafından İşlenen Suç**
 
 ---
 
 ## 1. Maddenin Sistematiği ve Genel Açıklama
 
-### 1.1. Kanun İçindeki Yeri
+### 1.1. Kanundaki Yeri ve Amacı
 
-TCK'nın Birinci Kitabı, "Genel Hükümler" başlığını taşımakta; bu kitabın birinci kısmı ise "Ceza Kanununun Uygulanması" başlığı altında yer almaktadır. Madde 12, söz konusu bölümün "Yer Bakımından Uygulama" alt başlığı kapsamında, Türk ceza hukukunun mekânsal egemenlik sınırlarını düzenleyen madde grubu içinde konumlanmaktadır. Madde 8 (ülke içinde işlenen suçlar), Madde 9 (yabancı ülkede Türk tarafından işlenen suçlar), Madde 10 (yabancı ülkede yabancı kamu görevlisi tarafından işlenen suçlar) ve Madde 11 (yabancı ülkede Türk aleyhine işlenen suçlar) ile birlikte bir bütünlük oluşturmaktadır. Madde 12 ise bu bütünlüğün son halkası niteliğinde olup **yabancı tarafından yabancı ülkede işlenen suçlar** bakımından Türk ceza yargı yetkisinin koşullarını belirlemektedir.
+TCK'nın "Uluslararası Hukukta Suç" başlıklı Birinci Kitabı'nın "Ceza Kanununun Yer Bakımından Uygulanması" bölümünde düzenlenen 12. madde, **pasif şahsilik ilkesi** ile **evrensellik ilkesinin** birleştiği karma bir yapıya sahiptir. Madde, bir yabancı tarafından yabancı ülkede işlenen suçlar nedeniyle Türk mahkemelerinin yargı yetkisini hangi koşullar altında kullanabileceğini düzenlemektedir. Bu bağlamda madde, aynı bölümde yer alan 8. maddenin (mülkilik ilkesi), 9. maddenin (yurt içinde işlenen suç), 10. ve 11. maddelerin (Türk tarafından dışarıda işlenen suç) ardından, yabancıyı fail olarak merkeze alan son halkayı oluşturmaktadır.
 
-### 1.2. Düzenlendiği Temel İlke: Pasif Koruma ve Evrensellik
+Maddede dört farklı hüküm grubu yer almaktadır: (1) birinci fıkrada Türkiye'nin zararına işlenen suçlar bakımından koruma ilkesine dayanan düzenleme; (2) ikinci fıkrada Türk vatandaşı veya tüzel kişinin zararına işlenen suçlar bakımından pasif şahsilik ilkesine dayanan düzenleme; (3) üçüncü fıkrada mağdurun yabancı olduğu hallerde evrensellik ilkesine yaklaşan düzenleme; (4) dördüncü fıkrada yabancı mahkemede yargılama yapılmış olmasına karşın yeniden yargılama imkânı.
 
-Ceza hukukunun yer bakımından uygulama ilkeleri klasik olarak dörde ayrılmaktadır: mülkilik (ülkesellik) ilkesi, şahsilik ilkesi (aktif ve pasif), koruma ilkesi ve evrensellik ilkesi. Madde 12, esas itibarıyla **pasif koruma ilkesi** ile **evrensellik ilkesinin** bir bileşimini kodifiye etmektedir. Birinci fıkra, Türkiye'nin devlet olarak zarar gördüğü hallerde pasif devlet şahsiliği (pasif koruma) ilkesini benimserken; ikinci fıkra, mağdurun Türk vatandaşı ya da Türk hukukuna göre kurulmuş tüzel kişi olduğu hallerde pasif vatandaşlık ilkesini esas alır. Üçüncü fıkra ise mağdurun da yabancı olduğu durumlarda Türk mahkemelerinin yargı yetkisini sıkı koşullara bağlayarak sınırlı bir evrensellik görünümü arz etmektedir. Bu çok katmanlı yapı, maddeyi yer bakımından uygulama hükümleri arasında en karmaşık ve en fazla koşul içeren düzenleme hâline getirmektedir.
+### 1.2. Tarihsel Arka Plan
 
-### 1.3. Tarihsel Arka Plan ve Karşılaştırmalı Hukuk
+765 sayılı mülga TCK'nın 6. maddesi de yabancı tarafından dışarıda işlenen suçları düzenliyordu. 5237 sayılı TCK ise bu düzenlemeyi yeniden yapılandırmış; özellikle mağdurun kimliğine göre (Türkiye, Türk vatandaşı veya yabancı) birbirinden ayrışan fıkralar oluşturmuş ve böylece sistematiği önemli ölçüde netleştirmiştir. 2014 yılında 6545 sayılı Kanun ile eklenen beşinci fıkra ise rüşvet ve nüfuz ticareti suçlarını Adalet Bakanı izninden muaf tutarak uluslararası yolsuzlukla mücadele sözleşmeleriyle uyumu pekiştirmiştir.
 
-765 sayılı eski Türk Ceza Kanunu döneminde de benzer düzenlemeler mevcuttu; ancak 5237 sayılı Kanun bu ayrımları daha sistematik biçimde kodifiye etmiş, fıkra yapısını belirginleştirmiş ve 6545 sayılı Kanun ile 2014 yılında eklenen beşinci fıkra sayesinde rüşvet ve nüfuz ticareti suçlarını Adalet Bakanı izninin kapsamından çıkarmıştır. Karşılaştırmalı hukuk açısından değerlendirildiğinde, Almanya'da StGB §§ 3-9 kapsamındaki düzenlemeler ile İsviçre Ceza Kanunu'nun ilgili hükümleri de benzer ilkeleri benimsemekte; ancak yargılama koşullarını idari izne bağlama konusunda Türk hukukunun daha ihtiyatlı bir tutum sergilediği görülmektedir.
+### 1.3. Karşılaştırmalı Hukuk Perspektifi
+
+Pasif şahsilik ilkesini benimseyen pek çok kıta Avrupası hukuk sistemi (Almanya StGB §7, İtalya CPC md. 10) benzer düzenlemeler içermektedir. Türk hukukunun ayırt edici özelliği, mağdurun statüsüne göre suç için aranan asgari ceza sınırını ve kovuşturma koşulunu farklılaştırmasıdır. Bu tercih, yargı yetkisinin gereksiz genişlemesini önleme kaygısının bir ürünüdür.
 
 ---
 
@@ -65,56 +67,76 @@ Ceza hukukunun yer bakımından uygulama ilkeleri klasik olarak dörde ayrılmak
 
 ### 2.1. "Yabancı" Kavramı
 
-Madde 12'nin muhatabı **yabancı**, Türk vatandaşı olmayan bireydir. Bu kavramın sınırları 5901 sayılı Türk Vatandaşlığı Kanunu çerçevesinde belirlenir. Çifte vatandaşlık durumunda, kişinin Türk vatandaşlığını da taşıması hâlinde Madde 12 değil, Madde 9 uygulanacaktır; zira kanun vatandaşlık statüsünü kümülatif değil alternatif biçimde değerlendirmekte, Türk vatandaşlığının varlığı Türk sayılmayı sağlamaktadır. Vatansız kişiler ise yabancı olarak kabul edilmeli ve Madde 12 kapsamında değerlendirilmelidir.
+Madde başlığında ve metninde geçen "yabancı" ifadesi, fail bakımından Türk vatandaşı olmayan gerçek kişiyi ifade etmektedir. Burada "Türk vatandaşı" kavramı, 403 sayılı Türk Vatandaşlığı Kanunu kapsamında değerlendirilir. Çifte vatandaşlık halinde kişi aynı zamanda Türk vatandaşıysa bu madde değil, 11. madde uygulanır. Devlet başkanları ve diplomatik dokunulmazlığı olan kişiler bakımından özel uluslararası hukuk kuralları saklıdır.
 
-### 2.2. "Türkiye'nin Zararına" İşlenen Suç
+Tüzel kişiler bu madde kapsamında fail olamazlar; zira Türk ceza hukuku sistematik olarak tüzel kişilerin cezai ehliyetini değil, yaptırım sorumluluğunu tanımaktadır (TCK m. 20/2).
 
-Birinci fıkradaki bu ifade, devlet olarak Türkiye'nin maddi ya da manevi çıkarlarını, hâkimiyet alanını veya kurumsal işleyişini olumsuz etkileyen eylemleri kapsar. Buradaki zarar kavramı geniş yorumlanmalıdır: Türk devletine yönelik casusluk faaliyetleri, Türkiye'nin uluslararası itibarını zedeleyen sahtecilik eylemleri veya Türk kamu kurumlarına yönelik dolandırıcılık bu çerçevede değerlendirilebilir. "Zarar" kavramının soyut bir tehlike ile sınırlı kalıp kalmayacağı ise doktrinde tartışmalıdır.
+### 2.2. "Yabancı Ülke" İfadesi
 
-### 2.3. "Aşağı Sınırı En Az Bir Yıl Hapis Cezasını Gerektiren Suç"
+Suçun "yabancı ülkede" işlenmesi, fiilin Türkiye'nin egemenlik alanı dışında gerçekleşmesi anlamına gelir. Açık deniz, uluslararası hava sahası gibi alanlarda işlenen suçlar bakımından ise TCK m. 8/1 hükmü devreye girebilir. Suçun kısmen yurt içinde kısmen yurt dışında işlendiği hallerde mülkilik ilkesi egemen olmaya devam eder.
 
-Bu eşik, ağır ceza mahkemesi yargı yetkisinin genel sınırlarıyla örtüşen nesnel bir ağırlık kriteridir. Cezanın alt sınırı, kanunda yazılı soyut ceza miktarına göre belirlenir; hâkimin takdir yetkisine göre uygulanacak somut ceza değil, kanunun öngördüğü asgari sınır esas alınır. Bu sınır, Türk cezasının yasallığı ilkesi (TCK m. 2) gereği Türk hukukuna göre hesaplanır; suçun işlendiği ülkenin hukukundaki karşılığına bakılmaz.
+### 2.3. "Türkiye'nin Zararına" Kavramı (1. Fıkra)
 
-### 2.4. "Failin Türkiye'de Bulunması" Koşulu
+Bu ibare, devlet sıfatıyla Türkiye'nin hukuki, mali veya siyasi çıkarlarının ihlal edilmesini kapsar. Yalnızca Türk bireylerinin değil, Türk devletinin kurumsal çıkarlarının zarar görmesi aranmaktadır. Özgenç bu kavramın dar yorumlanması gerektiğini vurgular; salt Türk vatandaşlarına karşı işlenen suçlar bu fıkra kapsamına girmez, zira ikinci fıkra o tür durumlara özgülenmiştir.
 
-Hem birinci hem ikinci hem de üçüncü fıkra, failin fiilen Türkiye topraklarında bulunmasını zorunlu kılmaktadır. Bu koşul, Türk ceza yargı yetkisinin mekânsal bir bağ olmaksızın sonsuz biçimde genişlemesini önleyen temel bir sınırlamadır. "Bulunma" kavramı, gönüllü ya da zorunlu (iade talebi reddedilen kişi, sığınmacı gibi) her türlü fiziksel varlığı kapsamaktadır; ancak kısa süreli transit geçişin bu koşulu karşılayıp karşılamadığı tartışmalıdır.
+### 2.4. Asgari Ceza Sınırları
 
-### 2.5. "Yabancı Ülkede Hüküm Verilmemiş Olması" Koşulu (İkinci Fıkra)
+Madde, fıkradan fıkraya değişen asgari ceza eşikleri öngörmektedir:
 
-İkinci fıkrada öngörülen bu koşul, **ne bis in idem** (aynı fiilden iki kez yargılanmama) ilkesinin uluslararası yansıması olarak değerlendirilebilir. Yabancı mahkemenin verdiği mahkûmiyet, beraat veya düşme kararı, Türkiye'de yargılama yapılmasına engel oluşturmaktadır. Dikkat edilmesi gereken nokta, bu kısıtlamanın yalnızca ikinci fıkra için geçerli olduğu; birinci ve dördüncü fıkra bakımından açıkça farklı bir düzenleme benimsendiğidir.
+| Fıkra | Zarar Gören | Asgari Alt Sınır |
+|-------|-------------|-------------------|
+| 1. Fıkra | Türkiye (devlet) | 1 yıl hapis |
+| 2. Fıkra | Türk vatandaşı/özel hukuk tüzel kişisi | 1 yıl hapis (zımnen) |
+| 3. Fıkra | Yabancı mağdur | 3 yıl hapis |
 
-### 2.6. Adalet Bakanının İstemi
+"Alt sınır" ifadesi, suçun kanuni düzenlemesindeki temel cezanın alt sınırını ifade etmekte olup somut olayda uygulanacak bireysel ceza miktarıyla karıştırılmamalıdır. Koca/Üzülmez bu eşiğin suç tipi üzerinden belirlenmesi gerektiğini, cezayı ağırlaştıran ya da hafifleten nitelikli hallerin temel ölçütü değiştirmeyeceğini belirtmektedir.
 
-Birinci, üçüncü ve dördüncü fıkralarda yargılama koşulu olarak öngörülen Adalet Bakanının istemi, bir **kovuşturma koşulu** niteliği taşımaktadır. Bu istem, maddi ceza hukukuna değil usul hukukuna ilişkindir; ancak sonucu bakımından maddi hukuku doğrudan etkiler. Bakanlık istemi yapılmaksızın dava açılması, davanın esasına girişilmeden davanın düşürülmesini gerektirir. İstem, idarenin takdir yetkisi dahilindedir; uluslararası ilişkiler, iade anlaşmaları ve diplomatik dengeler bu takdirin şekillenmesinde belirleyici rol oynar.
+### 2.5. "Failin Türkiye'de Bulunması" Koşulu
 
-### 2.7. "Suçluların Geri Verilmesi Anlaşması" (Üçüncü Fıkra, b Bendi)
+Birinci, ikinci ve üçüncü fıkralar için ortak bir önkoşul olan bu şart, Türkiye'nin gerçek bir yargı yetkisi kullanabilmesinin pratik ön altyapısını oluşturur. Failin Türkiye'de bulunması; kovuşturma sırasında değil, yargılamanın başlatılması anında aranır. Özbek/Kanbur/Doğan/Bacaksız/Tepe bu koşulun sürekli ikamet ya da hukuki statü gerektirmeksizin fiili varlığı kapsadığını savunmaktadır.
 
-Üçüncü fıkranın (b) bendi, iade anlaşmasının yokluğunu ya da iade talebinin ilgili devlet tarafından reddini yargılama koşulu olarak aramaktadır. Bu düzenleme, Türkiye'nin öncelikle iade yolunu denemesini zorunlu kılmakta; iade imkânı olduğu hâllerde Türk mahkemelerinin evrensel yargı yetkisine başvurmayı gereksiz kılmaktadır. Böylece Türkiye, yabancı devletlerin egemenlik haklarına saygı gösteren ve uluslararası işbirliğini ön plana alan dengeli bir yaklaşımı tercih etmiştir.
+Kişi Türkiye'ye giriş yaptıktan sonra yargılama başlamadan ülkeyi terk ederse ne olacağı tartışmalıdır. Kanaatimizce bu durumda koşul geriye dönük olarak gerçekleşmiş sayılmamalı; kovuşturma, failin yeniden Türkiye'ye girmesine kadar askıya alınmış kabul edilmelidir.
 
-### 2.8. Beşinci Fıkra: Rüşvet ve Nüfuz Ticareti İstisnası
+### 2.6. "Yabancı Ülkede Hüküm Verilmemiş Olması" Koşulu (2. Fıkra)
 
-6545 sayılı Kanun ile 2014 yılında eklenen bu fıkra, birinci fıkra kapsamına giren hallerde rüşvet (TCK m. 252) ve nüfuz ticareti (TCK m. 255) suçları bakımından Adalet Bakanının iznini kaldırmıştır. Bu düzenleme, Türkiye'nin taraf olduğu **OECD Yabancı Kamu Görevlilerine Rüşvet Verilmesinin Önlenmesi Sözleşmesi** kapsamındaki yükümlülüklerin iç hukuka yansımasıdır. İstisna, yalnızca birinci fıkra kapsamıyla (yani Türkiye'nin zararına işlenen rüşvet ve nüfuz ticareti suçlarıyla) sınırlıdır; ikinci ve üçüncü fıkra kapsamındaki benzer suçlara bu muafiyet otomatik olarak uygulanamaz.
+İkinci fıkra, yabancı ülkede hüküm verilmemiş olmasını ek bir koşul olarak öngörmüştür. Bu düzenleme, aynı eylem nedeniyle kişinin iki kez yargılanmaması ilkesinin (ne bis in idem) uluslararası boyutuna saygıyı yansıtmaktadır. Buna karşılık birinci fıkrada bu koşul aranmamış; dördüncü fıkrada ise yabancı ülkede hüküm verilmiş olmasına karşın yeniden yargılamaya açıkça imkân tanınmıştır.
+
+### 2.7. Adalet Bakanının İstemi
+
+Madde, farklı fıkralarda Adalet Bakanının istemine farklı biçimde yer vermektedir:
+
+- **Birinci fıkra:** Yargılama yapılması Adalet Bakanının istemine bağlıdır.
+- **İkinci fıkra:** Koşullar gerçekleşirse savcılık, suçtan zarar görenin şikâyeti üzerine resen harekete geçer; Bakan istemi aranmaz.
+- **Üçüncü fıkra:** Yargılama yine Adalet Bakanının istemine bağlıdır.
+- **Dördüncü fıkra:** Yeniden yargılama Adalet Bakanının istemi üzerine yapılır.
+- **Beşinci fıkra:** Rüşvet ve nüfuz ticareti suçlarında Bakan istemi aranmaz.
+
+Adalet Bakanının istemi bir usul koşuludur; maddi hukuk kapsamında değerlendirilemez. Bakan istemine dayanılarak açılan bir davada, istem geri alınırsa davanın akıbeti tartışmalıdır. Centel/Zafer/Çakmut bu istemi bir kovuşturma şartı olarak nitelendirip geri alınması halinde davanın düşürülmesi gerektiğini savunmaktadır.
+
+### 2.8. Şikâyet Koşulu (2. Fıkra)
+
+İkinci fıkrada suçtan zarar görenin şikâyeti, Bakan istemine alternatif bir kovuşturma koşulu olarak öngörülmüştür. Bu şikâyet, TCK m. 73'te düzenlenen şikâyet hükümlerine tabi midir? Kanaatimizce bu şikâyet, olağan şikâyet hakkı değil, yargılama koşulu niteliğinde özel bir şikâyettir; dolayısıyla genel hükümlerdeki süre ve geri alma kuralları uygulanmaz.
+
+### 2.9. Suçluların Geri Verilmesi ve Alternatif Şart (3. Fıkra)
+
+Üçüncü fıkranın (b) bendi, iki alternatif düzenlemiştir: ya geri verme anlaşmasının bulunmaması ya da geri verme isteminin reddedilmiş olması. Bu düzenleme, evrensellik ilkesinin "aut dedere aut iudicare" (ya iade et ya yargıla) mantığını yansıtmaktadır. Türkiye, kişiyi ilgili devlete teslim edemiyorsa yargılamak yükümlülüğünü üstlenmektedir.
+
+### 2.10. Dördüncü Fıkrada Yeniden Yargılama
+
+Birinci fıkra kapsamındaki suçtan dolayı yabancı ülkede yargılanmış olan kişi, yabancı mahkemede mahkûm edilmiş, beraat etmiş, davası ya da cezası düşmüş ya da suç kovuşturulabilir olmaktan çıkmış olsa dahi Adalet Bakanının istemi üzerine Türkiye'de yeniden yargılanabilir. Bu fıkra, ne bis in idem ilkesinin uluslararası boyutuyla açık bir çatışma içindedir; ancak Türk hukuku söz konusu ilkeyi yalnızca iç hukukta bağlayıcı saymaktadır. Mahkûmiyet halinde yabancı ülkede çekilen cezanın mahsubu TCK m. 16 hükmüne göre gerçekleştirilir.
 
 ---
 
 ## 3. Sistematik İlişkiler
 
-### 3.1. Madde 13 ile İlişki
+### 3.1. TCK m. 8 ile İlişki (Mülkilik İlkesi)
 
-Madde 12'nin birinci fıkrası açıkça "13 üncü maddede yazılı suçlar dışında" ifadesini kullanmaktadır. Bu çapraz atıf, Madde 13'te sayılan **evrensel yetki ilkesine tabi suçların** (soykırım, insanlığa karşı suçlar, işkence, uyuşturucu kaçakçılığı vb.) Madde 12'nin kapsamı dışında kaldığını göstermektedir. Bu suçlar, Madde 12'deki sınırlandırıcı koşullara tabi olmaksızın, doğrudan ve geniş bir evrensel yetki çerçevesinde yargılanabilmektedir.
+TCK m. 8, Türkiye'de işlenen suçlar için mülkilik ilkesini düzenler. Madde 12 ise bu kuralın tamamlayıcısı olup suçun yurt dışında işlendiği hallere özgü bir yetki genişlemesi öngörür. İki madde arasında lex specialis ilişkisi yoktur; alanları yer itibarıyla birbirinden kesin şekilde ayrışır.
 
-### 3.2. Madde 9 ile İlişki
+### 3.2. TCK m. 11 ile İlişki (Türk Tarafından Dışarıda İşlenen Suç)
 
-Madde 9, yabancı ülkede **Türk vatandaşı** tarafından işlenen suçları düzenlemektedir. Madde 12 ile birlikte değerlendirildiğinde, fail unsuru bakımından kesin bir ayrım yapılmaktadır: fail Türk vatandaşı ise Madde 9, yabancı ise Madde 12 uygulanacaktır. Bu ayrım, çifte vatandaşlık halleri başta olmak üzere sınır durumların tespitinde kritik önem taşımaktadır.
+Madde 11, failin Türk vatandaşı olduğu, madde 12 ise failin yabancı olduğu halleri düzenlemektedir. Bu iki madde fail sıfatına göre birbirini dışlar. Ancak suç ortaklığı hallerinde (TCK m. 37 vd.) suça iştirak eden kişilerin farklı vatandaşlıkları bulunabilir; bu durumda her fail kendi statüsüne göre değerlendirilir.
 
-### 3.3. Madde 10 ve 11 ile İlişki
+### 3.3. TCK m. 13 ile İlişki (Evrensellik İlkesi)
 
-Madde 10, yabancı kamu görevlisi tarafından Türkiye zararına işlenen suçları; Madde 11 ise yabancı ülkede yabancı tarafından Türk vatandaşına karşı işlenen suçları düzenlemektedir. Madde 12'nin ikinci fıkrası ile Madde 11 arasında kapsam örtüşmesi söz konusu olabilir. Ancak Madde 11'de failin Türk vatandaşı olduğu varsayılmaktadır; madde başlığından ve metinden anlaşıldığı üzere Madde 12, failin **yabancı** olduğu durumları düzenleyerek bu boşluğu kapatmaktadır.
-
-### 3.4. Madde 2 (Kanunilik İlkesi) ile İlişki
-
-Yer bakımından uygulama hükümleri, kanunilik ilkesinin mekânsal boyutunu oluşturmaktadır. Madde 12, TCK'nın Türk kanunlarına göre suç teşkil eden ve Türk kanunlarında öngörülen ceza eşiğini karşılayan eylemlere uygulanmasını emrederek kanunilik ilkesiyle tam uyum içindedir. Suçun yabancı ülke hukukuna göre suç oluşturmaması, Türk yargı yetkisini ortadan kaldırmamaktadır; belirleyici olan yalnızca Türk hukukuna göre suç teşkil edip etmediğidir.
-
-### 3.5. Ne Bis in İdem İlkesi ile İlişki
-
-Madde 12'nin dördüncü fıkrası, birinci fıkra kapsamındaki suçlarda yabancı mahkemenin mahkûmiyet, beraat
+Madde 12/1, 13. maddede yazılı suçları açıkça dışlamaktadır. Bu sayede 13. madde kapsamındaki suçlar (soykırım, insanlığa karşı suçlar, işkence vb.) bakımından koşulsuz evrensel yargı yetkisi kullanılabilmekte; 12. maddedeki kısıtlayı
