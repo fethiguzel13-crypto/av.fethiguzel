@@ -60,7 +60,7 @@ Yargıtay Hukuk Genel Kurulu ve 11. Hukuk Dairesi kararlarında, bağlılık yü
 #### 5. Pratik Örnek Olaylar
 
 **Olay 1 (Kurmaca Senaryo):**
-X Medikal Ürünler Limited Şirketi'nin %20 pay sahibi ve müdür sıfatını taşımayan ortağı (A), şirketin piyasaya henüz sürmediği ve ar-ge aşamasında olan yeni nesil bir cerrahi cihazın tasarım dosyalarını, şirketin idari binasındaki veri tabanından inceleme hakkını (m. 614) kullanarak elde etmiş ve ardından aynı alanda faaliyet göstermek üzere kendi adına Y isimli bir şahıs işletmesi kurarak bu tasarımları kullanmaya başlamıştır. Şirket sözleşmesinde ortaklar için herhangi bir rekabet yasağı öngörülmemiştir.
+X Medikal Ürünler Limited Şirketi'nin %20 pay sahibi ve müdür sıfatını taşımayan ortağı (A), şirketin piyasaya henüz sürmediği ve ar-ge aşamasında olan yeni nesil bir cerrahi cihazın tasarım dosyalarını, şirketin idari binasındaki bilgi işlem sisteminden inceleme hakkını (m. 614) kullanarak elde etmiş ve ardından aynı alanda faaliyet göstermek üzere kendi adına Y isimli bir şahıs işletmesi kurarak bu tasarımları kullanmaya başlamıştır. Şirket sözleşmesinde ortaklar için herhangi bir rekabet yasağı öngörülmemiştir.
 *Hukuki Analiz:* (A)’nın eylemi, şirket sözleşmesinde rekabet yasağı öngörülmemiş olsa dahi, TTK m. 613/1 uyarınca mutlak emredici olan "sır saklama yükümlülüğü"nün ve m. 613/2 uyarınca "bağlılık yükümlülüğünün" ağır bir ihlalidir. Sözleşmede rekabet yasağı bulunmaması, ortağa şirket sırlarını çalma ve şirkete zarar verme serbestisi tanımaz. X şirketi, (A) hakkında tazminat davası açabileceği gibi, TTK m. 640 uyarınca haklı sebeple çıkarma davası da ikame edebilir. Ayrıca, m. 614/2 uyarınca (A)'nın şirketten bilgi alması derhal engellenmelidir.
 
 **Olay 2 (Kurmaca Senaryo):**
