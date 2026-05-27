@@ -1,0 +1,14 @@
+---
+title: "TCK Madde 16"
+kanun: "Türk Ceza Kanunu"
+maddeNo: 16
+commentaryStatus: "pending"
+---
+
+**Cezadan mahsup**
+
+---
+
+Madde 16- (1) Nerede işlenmiş olursa olsun bir suçtan dolayı, yabancı ülkede
+gözaltında, gözlem altında, tutuklulukta veya hükümlülükte geçen süre, aynı suçtan dolayı
+Türkiye'de verilecek cezadan mahsup edilir.

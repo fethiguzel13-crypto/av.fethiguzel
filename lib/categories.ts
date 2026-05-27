@@ -119,6 +119,56 @@ export const categories: Category[] = [
     startMadde: 1401,
     endMadde: 1520,
     icon: 'fa-solid fa-shield-halved'
+  },
+  {
+    id: 'tck-genel',
+    slug: 'tck-genel',
+    name: 'Genel Hükümler',
+    description: 'Türk Ceza Kanunu (Madde 1-75)',
+    kanunId: 'tck',
+    startMadde: 1,
+    endMadde: 75,
+    icon: 'fa-solid fa-scale-balanced'
+  },
+  {
+    id: 'tck-uluslararasi',
+    slug: 'tck-uluslararasi',
+    name: 'Uluslararası Suçlar',
+    description: 'Türk Ceza Kanunu (Madde 76-80)',
+    kanunId: 'tck',
+    startMadde: 76,
+    endMadde: 80,
+    icon: 'fa-solid fa-earth-europe'
+  },
+  {
+    id: 'tck-kisiler',
+    slug: 'tck-kisiler',
+    name: 'Kişilere Karşı Suçlar',
+    description: 'Türk Ceza Kanunu (Madde 81-173)',
+    kanunId: 'tck',
+    startMadde: 81,
+    endMadde: 173,
+    icon: 'fa-solid fa-person'
+  },
+  {
+    id: 'tck-toplum',
+    slug: 'tck-toplum',
+    name: 'Topluma Karşı Suçlar',
+    description: 'Türk Ceza Kanunu (Madde 174-246)',
+    kanunId: 'tck',
+    startMadde: 174,
+    endMadde: 246,
+    icon: 'fa-solid fa-people-group'
+  },
+  {
+    id: 'tck-devlet',
+    slug: 'tck-devlet',
+    name: 'Millete ve Devlete Karşı Suçlar',
+    description: 'Türk Ceza Kanunu (Madde 247-345)',
+    kanunId: 'tck',
+    startMadde: 247,
+    endMadde: 345,
+    icon: 'fa-solid fa-landmark-flag'
   }
 ];
 

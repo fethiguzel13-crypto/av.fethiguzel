@@ -1,0 +1,14 @@
+---
+title: "TCK Madde 177"
+kanun: "Türk Ceza Kanunu"
+maddeNo: 177
+commentaryStatus: "pending"
+---
+
+**Hayvanın tehlike yaratabilecek şekilde serbest bırakılması**
+
+---
+
+Madde 177- (1) Gözetimi altında bulunan hayvanı başkalarının hayatı veya sağlığı
+bakımından tehlikeli olabilecek şekilde serbest bırakan veya bunların kontrol altına
+alınmasında ihmal gösteren kişi, altı aya kadar hapis veya adlî para cezası ile cezalandırılır.

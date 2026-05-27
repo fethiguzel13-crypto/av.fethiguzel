@@ -1,0 +1,14 @@
+---
+title: "TCK Madde 110"
+kanun: "Türk Ceza Kanunu"
+maddeNo: 110
+commentaryStatus: "pending"
+---
+
+**Etkin pişmanlık**
+
+---
+
+Madde 110- (1) Yukarıdaki maddede tanımlanan suçu işleyen kişi, bu suç nedeniyle
+soruşturmaya başlanmadan önce mağdurun şahsına zararı dokunmaksızın, onu kendiliğinden
+güvenli bir yerde serbest bırakacak olursa cezanın üçte ikisine kadarı indirilir.

@@ -1,0 +1,14 @@
+---
+title: "TCK Madde 121"
+kanun: "Türk Ceza Kanunu"
+maddeNo: 121
+commentaryStatus: "pending"
+---
+
+**Dilekçe hakkının kullanılmasının engellenmesi**
+
+---
+
+Madde 121- (1) Kişinin belli bir hakkı kullanmak için yetkili kamu makamlarına
+verdiği dilekçenin hukuki bir neden olmaksızın kabul edilmemesi halinde, fail hakkında altı
+aya kadar hapis cezasına hükmolunur.

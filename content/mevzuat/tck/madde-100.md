@@ -1,0 +1,13 @@
+---
+title: "TCK Madde 100"
+kanun: "Türk Ceza Kanunu"
+maddeNo: 100
+commentaryStatus: "pending"
+---
+
+**Çocuk düşürme**
+
+---
+
+Madde 100- (1) Gebelik süresi on haftadan fazla olan kadının çocuğunu isteyerek
+düşürmesi halinde, bir yıla kadar hapis veya adlî para cezasına hükmolunur.
