@@ -4,7 +4,7 @@ kanun: "Türk Ceza Kanunu"
 maddeNo: 13
 commentaryStatus: "completed"
 lastReviewed: "2026-05-27"
-wordCount: 1160
+wordCount: 1120
 keywords:
   - "diğer"
   - "suçlar"
@@ -43,74 +43,82 @@ yargılama yapılır.3
 
 ### Akademik Yorum ve Analiz
 
-# TCK Madde 13 – Diğer Suçlarda Evrensellik İlkesi
+# TCK Madde 13 — "Diğer Suçlar" Üzerine Kapsamlı Şerh
 
 ---
 
 ## 1. Maddenin Sistematiği ve Genel Açıklama
 
-TCK'nın "Uygulama Alanı" başlıklı Birinci Kitabı'nın "Ceza Kanununun Yer Bakımından Uygulanması" faslında, 8 ila 13. maddeler arasında yer alan düzenlemeler, Türk ceza hukukunun coğrafi yetki sınırlarını ve yetki genişlemesinin koşullarını belirler. Bu fasılda yer alan maddeler birbirini mantıksal bir süreklilik içinde tamamlar: Madde 8 mülkilik (topraklılık) ilkesini, Madde 9 ve 10 suçun kısmen ya da tamamen Türkiye'de işlenmesine ilişkin özel hükümleri, Madde 11 vatandaşların yurt dışında işlediği suçlara uygulanmayı (faile göre şahsilik ilkesi), Madde 12 ise yabancıların yurt dışında Türkiye veya Türk vatandaşlarına karşı işlediği suçları (mağdura göre şahsilik ilkesi) düzenler.
+TCK m. 13, Türk ceza hukukunun yer bakımından uygulama alanını düzenleyen normlar dizisi içinde son ve en geniş kapsamlı halkayı oluşturmaktadır. Madde; m. 8'de düzenlenen **mülkilik (ülkesellik) ilkesi**, m. 11 ve 12'de yer alan **şahsilik ilkeleri** (faal-pasif) ile m. 10'da düzenlenen yabancı ülkede hüküm kurulmuş olmasının etkisine ilişkin düzenlemelerden sonra, bunların hiçbirine tam olarak sığmayan ve uluslararası toplum yararını ya da belirli evrensel değerleri koruyan suçlar bakımından **evrensellik ilkesi** ile desteklenmiş bir **katalog sistemi** öngörmektedir.
 
-**Madde 13**, bu düzeni tamamlayan ve nitelik bakımından diğer maddelerden belirgin biçimde ayrışan bir hükümdür. Söz konusu madde, failin Türk vatandaşı ya da yabancı olmasından bağımsız olarak ve suçun hangi devletin topraklarında işlendiğinden bağımsız olarak, belirli nitelikteki suçlar bakımından Türk hukukunun uygulanmasını öngörür. Bu yapısal özellik, madde 13'ü salt şahsilik ilkesinin ya da mülkilik ilkesinin bir yansıması olmaktan çıkarır; madde, ağırlıklı olarak **evrensellik ilkesi (universality principle)** üzerine bina edilmiştir.
+Maddenin temel kurgusu şöyle özetlenebilir: Kanun koyucu, m. 11 ve 12'de faillerin ya da mağdurların Türk uyrukluluğuna ya da suçun Türkiye aleyhine işlenmesine bağlı kriterler getirirken; m. 13'te **failin ya da mağdurun uyruğuna bakmaksızın**, yabancı ülkede işlenen belirli suçlar için Türk hukukunun uygulanacağını emretmektedir. Bu yaklaşım, doktrinde **"evrensel yetki ilkesi"** (universality principle) olarak adlandırılan ve uluslararası hukukta bazı ağır suçlar bakımından devletlere tanınan geniş yargı yetkisinin iç hukuka yansımasıdır.
 
-Evrensellik ilkesi, özü itibarıyla şu varsayıma dayanır: Belirli suçlar, uluslararası toplumun ortak değerlerine saldırı niteliği taşıdığından ya da her devletin eşit ölçüde mağdur olabileceği tehlikeleri barındırdığından, bu suçlar üzerinde her devletin yargı yetkisini kullanmasında meşru bir çıkar vardır. Nitekim madde 13'de sayılan suçlar incelendiğinde, uluslararası antlaşmalarla birçok devleti yargılama yükümlülüğü altına sokan ya da sınır aşan niteliğiyle tüm insanlığı potansiyel olarak etkileyen eylemler olduğu anlaşılmaktadır.
+5237 sayılı TCK, 765 sayılı eski Kanun'a kıyasla bu alanda köklü bir düzenleme getirmiştir. Eski Kanun'un m. 6 ve devamındaki dağınık yapısının yerini, sistematik biçimde kurgulanmış bir katalog almıştır. 5377 sayılı Kanun ile 2005'te yapılan değişiklikle ikinci fıkra eklenmiş, 5918 sayılı Kanun ile 2009'da (h) bendi yürürlükten kaldırılmış ve madde bugünkü şeklini almıştır.
 
-Ancak belirtmek gerekir ki madde 13 **salt evrensellik ilkesini** değil, doktrinde "**şartlı evrensellik**" veya "**karma ilke**" olarak da adlandırılan bir anlayışı benimsemektedir. Zira maddenin ikinci fıkrası, belirli suçlar bakımından Türkiye'de yargılama yapılabilmesi için **Adalet Bakanının talebini** şart koşmakta; böylece devletin siyasi takdir yetkisini yargılama sürecinin başlatılması aşamasında varlığını korumaktadır.
+Maddenin **yapısal mantığı** üç katmanlıdır:
+
+- **Birinci katman:** Yargılama, Adalet Bakanının talebi aranmaksızın doğrudan başlatılabilecek suçlar (ikinci fıkradaki istisna kapsamı).
+- **İkinci katman:** Yargılama, Adalet Bakanının talebine bağlı suçlar (m. 13/2).
+- **Üçüncü katman:** Yabancı ülkede mahkûmiyet veya beraat kararı verilmiş olsa dahi Türkiye'de yeniden yargılama yapılabilecek suçlar (m. 13/3); bu da **ne bis in idem** (aynı suçtan iki kez yargılanmama) ilkesinin açıkça bertaraf edildiği alandır.
 
 ---
 
 ## 2. Maddedeki Kavramların Analizi
 
-### 2.1. "Vatandaş veya Yabancı Tarafından" İbaresi
+### 2.1. "Vatandaş veya Yabancı Tarafından" İfadesi
 
-Madde 13'ün birinci fıkrasının açılış cümlesi, uygulamanın **faile bağlı olmaksızın** gerçekleşeceğini açıkça ortaya koyar. Madde 11 (vatandaşın yurt dışında suç işlemesi) ve Madde 12'nin (yabancının Türkiye'ye veya Türk vatandaşına karşı suç işlemesi) öngördüğü fail ya da mağdur eksenli yaklaşımın aksine, Madde 13'te belirleyici kriter failin tabiiyeti değil, **suçun niteliği**dir. Madde 11 veya 12 kapsamına girmeyen haller bakımından bile madde 13'ün uygulanabilirliği söz konusudur. Bu durum, saf evrensellik ilkesinin tipik görünümüdür.
+Bu ibare, maddenin evrensellik ilkesine dayandığını en açık biçimde gösteren unsurdur. TCK m. 11'de faal şahsilik ilkesi bakımından yalnızca "Türk vatandaşı", m. 12'de pasif şahsilik bakımından ise yine mağdurun Türklüğü esas alınmaktadır. Oysa m. 13, faile ilişkin herhangi bir uyruk şartı öngörmemektedir. Korunan değerin üstünlüğü, kimin tarafından ihlal edildiğini ikincil kılmaktadır. Özgenç, bu düzenlemenin ceza hukukunun bireysel ya da ulusal çıkara değil, **evrensel hukuki değerlere** hizmet ettiğinin somut göstergesi olduğunu vurgulamaktadır.
 
-### 2.2. "Yabancı Ülkede İşlenmesi" Şartı
+### 2.2. "Yabancı Ülkede İşlenmesi" Koşulu
 
-Madde 13'ün uygulanabilmesi için suçun yabancı bir devletin egemenlik alanında —kara, deniz veya hava sahasında— işlenmiş olması gerekir. Suçun Türkiye topraklarında işlenmesi hâlinde zaten Madde 8 devreye girer; suçun açık denizde ya da devlet egemenliğine tabi olmayan bir alanda işlenmesi ise genel hükümler ile Madde 8/2 bağlamında değerlendirilir. Dolayısıyla Madde 13'ün devreye girebilmesi için "**yabancı ülke toprakları**" şartının somutlaşmış olması zorunludur.
+Suçun **Türkiye toprakları dışında** gerçekleşmesi gerekmektedir. Türk karasularında, hava sahasında veya Türk bayrağı taşıyan gemilerde işlenen suçlar bakımından m. 8 devreye gireceğinden, m. 13 uygulanmayacaktır. "Yabancı ülke" kavramı, egemenlik hakkının başka bir devlete ait olduğu toprakları kapsamakta; **açık deniz** ve **terra nullius** gibi alanlarda işlenen suçlar bakımından ise ilgili özel düzenlemeler (deniz hukuku sözleşmeleri vb.) belirleyici olmaktadır.
 
-### 2.3. Sayılan Suç Kategorileri
+Koca/Üzülmez, suçun işlendiği yer bakımından **icra hareketleri** ile **neticenin gerçekleştiği yer** arasındaki ayrımın önem taşıdığına dikkat çekmekte; suçun işlenme yeri meselesi çözülmeden m. 13'ün devreye girip girmeyeceğinin belirlenemeyeceğini ileri sürmektedir. Bu noktada TCK m. 8/2'deki "kısmen Türkiye'de gerçekleşme" kuralıyla çatışma olasılığı gündeme gelebilir; mülkilik ilkesinin öncelikli uygulanması gerektiğinden, netice Türkiye'de gerçekleşmişse m. 8 devreye girecek ve m. 13'e gidilmeyecektir.
 
-#### 2.3.1. İkinci Kitap, Birinci Kısım — (a) Bendi: Uluslararası Suçlar
+### 2.3. Katalog Suçların İncelenmesi
 
-TCK İkinci Kitabı'nın Birinci Kısmı (Madde 76-88), uluslararası suçları düzenler: Soykırım (m. 76), insanlığa karşı suçlar (m. 77), göçmen kaçakçılığı (m. 79), insan ticareti (m. 80) ve benzerleri. Bu suçlar, bizzat uluslararası antlaşma hukukunun devletlere evrensel yargı yetkisi tanıdığı ya da bunu zorunlu kıldığı eylemlerdir. 1948 tarihli Soykırım Sözleşmesi, 1984 tarihli BM İşkence Sözleşmesi, Palermo Sözleşmesi ve diğer çok taraflı belgeler bu yükümlülükleri doğrular. Özgenç, bu kategorideki suçlar bakımından madde 13'ün bağımsız bir yargı yetkisi normu değil, uluslararası antlaşma yükümlülüklerini iç hukuka aktaran bir bağlantı kuralı işlevi gördüğünü vurgular.
+#### (a) Bendi: İkinci Kitap, Birinci Kısım — Uluslararası Suçlar
 
-#### 2.3.2. İkinci Kitap, Dördüncü Kısım — (b) Bendi: Özel Hayata ve Belirli Kamu Değerlerine Karşı Suçlar
+Bu kısım; soykırım (m. 76), insanlığa karşı suçlar (m. 77-78), göç (m. 79-80) ile savaş ve saldırı suçlarına ilişkin hükümleri içermektedir. Söz konusu suçlar, uluslararası toplumun ortak değerlerine yönelik en ağır ihlaller olduğundan, evrensellik ilkesinin en güçlü biçimde tezahür ettiği alan burasıdır. Centel/Zafer/Çakmut, bu suçlar bakımından m. 13/3'ün işlerliği sayesinde Türkiye'nin fiilî bir **uluslararası ceza yargı merkezi** işlevi görebileceğini belirtmektedir.
 
-Bu bent, İkinci Kitabın Dördüncü Kısmı altında yer alan Üçüncü (m. 132-140: Özel hayata ve hayatın gizli alanına karşı suçlar), Dördüncü (m. 141-147: Malvarlığına karşı suçlar — hırsızlık, yağma, dolandırıcılık vb.), Beşinci (m. 149-155: Güveni kötüye kullanma, hileli iflas vb.), Altıncı (m. 157-169: Bilişim suçları vb.) ve Yedinci ile Sekizinci Bölümlerdeki suçları kapsar. Bu kategorilerin evrensel yargı yetkisi çerçevesine alınması, özellikle organize suçluluk, sınır aşan bilişim suçları ve malvarlığına karşı suçlar bağlamında uluslararası düzeydeki işbirliği kaygılarını yansıtmaktadır. Koca/Üzülmez, bu genişliğin eleştiriye açık olduğuna dikkat çeker; zira malvarlığına karşı sıradan suçların evrensel yargı yetkisi kapsamına alınmasının geleneksel uluslararası hukuk anlayışıyla bağdaşması güçtür.
+#### (b) Bendi: İkinci Kitap, Dördüncü Kısım — Belirli Bölümler
 
-#### 2.3.3. İşkence — (c) Bendi
+Söz konusu kısımda yer alan Üçüncü (uyuşturucu), Dördüncü (çocuklara yönelik suçlar), Beşinci (müstehcenlik), Altıncı (fuhuş), Yedinci (kumar) ve Sekizinci (bilişim suçları) Bölümler bu bent kapsamına girmektedir. (b) bendi ile (a) bendi arasındaki temel fark, (b) bendi kapsamındaki suçlar bakımından m. 13/3'ün **uygulanmamasıdır**: Yabancı ülkede mahkûmiyet veya beraat kararı olması hâlinde yeniden Türkiye'de yargılama yapılamaz.
 
-Madde 94 ve 95'te düzenlenen işkence suçunun ayrıca sayılması, bir yandan BM İşkence Sözleşmesi'nin (1984) yüklediği "ya iade et ya yargıla" (aut dedere aut judicare) ilkesini yansıtmakta, öte yandan söz konusu suçun evrensel yargı yetkisini hak eden kanonik örneklerinden biri olduğunu vurgulamaktadır. İşkence, mutlak yasaklar arasında yer almakta ve herhangi bir istisnaya tabi tutulmaksızın uluslararası hukukta jus cogens niteliği taşımaktadır.
+#### (c) Bendi: İşkence (m. 94, 95)
 
-#### 2.3.4. Çevrenin Kasten Kirletilmesi — (d) Bendi
+İşkencenin m. 13 kataloğuna dahil edilmesi, BM İşkenceye Karşı Sözleşmesi'nin (1984) öngördüğü **aut dedere aut judicare** (ya iade et ya yargıla) yükümlülüğünün karşılanması amacıyla zorunludur. Türkiye bu sözleşmeyi 1988'de onaylamıştır. Hakeri, m. 95'teki ağırlaştırıcı hallerin de katalog kapsamına alınmasının, sözleşme yükümlülüklerinin eksiksiz karşılanması bakımından isabetli olduğunu belirtmektedir.
 
-TCK m. 181'de düzenlenen çevrenin kasten kirletilmesi suçunun bu listede yer alması, çevre hukukunun sınır aşan niteliğini yansıtır. Kirlilik, egemenlik sınırlarını aşar ve komşu devletlerin çevresini, ekosistemini doğrudan etkiler. Bu gerekçe, söz konusu suç bakımından evrensellik ilkesinin benimsenmesini destekler.
+#### (d) Bendi: Çevrenin Kasten Kirletilmesi (m. 181)
 
-#### 2.3.5. Uyuşturucu Suçları — (e) Bendi
+Bu düzenleme, çevre hukukunun ceza hukuku boyutundaki uluslararasılaşmasının yansımasıdır. Bir devletin sınırları içinde başlayan ancak komşu devletleri veya küresel ekosistemleri etkileyen kirlilik olayları bakımından evrensel yargı yetkisi tanınmıştır. Ancak yalnızca **kasten** kirletme suçunun kapsama alınmış olması; taksirle gerçekleştirilen ağır çevre ihlallerini dışarıda bıraktığından eleştiri konusu olmaktadır (bkz. aşağıda Bölüm 7).
 
-Uyuşturucu veya uyarıcı madde imal ve ticareti (m. 188) ile kullanımını kolaylaştırma (m. 190), uluslararası uyuşturucu kaçakçılığına karşı düzenlenen BM Viyana Sözleşmesi (1988) çerçevesinde değerlendirilmelidir. Sınır aşan uyuşturucu trafiğinin yarattığı tehdidin küresel niteliği, bu suçlar üzerinde geniş kapsamlı yargı yetkisi kullanılmasını meşrulaştırmaktadır. Özbek/Kanbur/Doğan/Bacaksız/Tepe, bu bent bakımından uluslararası sözleşme yükümlülükleri ile iç hukuk normunun uyumunu genel itibarıyla olumlu değerlendirir.
+#### (e) Bendi: Uyuşturucu Suçları (m. 188, 190)
 
-#### 2.3.6. Parada Sahtecilik ve İlgili Suçlar — (f) Bendi
+Uyuşturucu imal ve ticareti ile kullanımın kolaylaştırılması suçları, BM Uyuşturucu Sözleşmeleri çerçevesinde (1961, 1971, 1988) devletlere geniş yargı yetkisi tanınan alanlardır. Özbek/Kanbur/Doğan/Bacaksız/Tepe, bu düzenlemenin Türkiye'nin coğrafi konumu itibarıyla **transit ülke sorunuyla** bağlantılı pratik önemi olduğuna dikkat çekmektedir.
 
-Madde 197 (parada sahtecilik), Madde 200 (üretim araçlarının ticareti) ve Madde 202 (mühürde sahtecilik), para sisteminin bütünlüğüne saldırı niteliği taşır. Uluslararası Para Fonu çerçevesindeki düzenlemeler ile 1929 tarihli Cenevre Sahte Para Sözleşmesi, bu suçlar bakımından devletlere geniş yargı yetkisi tanınmasının tarihsel arka planını oluşturur. Sahte paranın sınır aşan dolaşımı, bu suçun evrensel yargı yetkisi kapsamına alınmasının temel gerekçesidir.
+#### (f) Bendi: Para ve Kıymetli Evrak Sahteciliği (m. 197, 200, 202)
 
-#### 2.3.7. Fuhuş — (g) Bendi
+Türk lirasına ve Türkiye'nin hukuki kıymetlerine yönelik sahtecilik suçlarının kataloğa alınması, salt evrensellik ilkesine değil; aynı zamanda devletin **egemenlik çıkarlarının** yabancı ülkedeki ihlallerine karşı korumaya da dayanmaktadır. Bu suçlar bakımından m. 13, pasif şahsilik ilkesiyle evrensellik ilkesinin örtüştüğü bir ara bölgede yer almaktadır.
 
-Madde 227'de düzenlenen fuhuş suçunun bu listede yer alması, insan ticareti ve seks ticareti ağlarıyla mücadeleye ilişkin uluslararası kaygıları yansıtmaktadır. Özellikle çocukların seks ticaretine kurban edilmesine karşı mücadeleye ilişkin Avrupa Konseyi sözleşmeleri ve BM Çocuk Hakları Sözleşmesine Ek Protokoller bu suçun uluslararasılaştırılmasına zemin hazırlar.
+#### (g) Bendi: Fuhuş (m. 227)
 
-#### 2.3.8. (h) Bendi — Mülga
+İnsan ticareti boyutuna sahip bu suç, 2000 tarihli Palermo Protokolü'nün yükümlülükleriyle örtüşmektedir. Toroslu/Toroslu, m. 227'nin kataloğa alınmasının, organizeli fuhuş ağlarının sınır ötesi faaliyetlerine karşı caydırıcı bir etki yaratmayı hedeflediğini vurgulamaktadır.
 
-5918 sayılı Kanun'la 2009 yılında yürürlükten kaldırılan (h) bendi, başlangıçta "Suç işlemek amacıyla örgüt kurma" (m. 220) suçunu kapsamaktaydı. Bu suçun ayrıca sayılması gereksiz görülmüş; nitekim organize suç örgütlerine yönelik eylemler, genel olarak başka bentler kapsamında değerlendirilebilmektedir.
+#### (h) Bendi: Mülga
 
-#### 2.3.9. Ulaşım Araçlarına Yönelik Suçlar — (i) Bendi
+26/6/2009 tarihli ve 5918 sayılı Kanun'la yürürlükten kaldırılmıştır. Bu değişiklikten önce (h) bendi, yabancı devlet görevlilerine rüşvet verilmesi suçunu kapsamaktaydı. Söz konusu düzenleme, OECD Yabancı Kamu Görevlilerine Rüşvet Verilmesinin Önlenmesi Sözleşmesi kapsamındaki yükümlülükler çerçevesinde kaleme alınmıştı; ancak (b) bendi kapsamında zaten düzenlenmiş olması nedeniyle mülga edilmiştir.
 
-Deniz, demiryolu ve havayolu ulaşım araçlarının kaçırılması veya alıkonulması (m. 223/2, 3) ile bu araçlara karşı işlenen zarar verme (m. 152) suçları, 1970 tarihli Lahey Sözleşmesi, 1971 tarihli Montreal Sözleşmesi ve 1988 tarihli Roma Sözleşmesi gibi çok taraflı uluslararası belgelerle ayrıntılı biçimde düzenlenmiş, devletlere "ya iade et ya yargıla" yükümlülüğü getiren klasik evrensel yargı yetkisi alanlarından birini oluşturur.
+#### (i) Bendi: Ulaşım Araçlarının Kaçırılması veya Alıkonulması (m. 223/2-3, m. 152)
 
----
+Uçak kaçırma ve deniz araçlarına yönelik suçlar, 1970 Lahey Sözleşmesi ve 1988 Roma Sözleşmesi gibi uluslararası antlaşmalarla devletlerin evrensel yargı yetkisi kullanması öngörülen alanlardır. Demirbaş, bu suçların sınır aşan niteliği nedeniyle yalnızca ülkesellik veya şahsilik ilkesine dayanmanın yargı boşlukları yaratacağını belirtmektedir.
 
-### 2.4. Adalet Bakanının Talebi Şartı
+### 2.4. Adalet Bakanı Talebi Koşulu (m. 13/2)
 
-Maddenin ikinci fıkrası, birinci fıkranın (b) bendinde yer alan Üçüncü, Dördüncü, Beşinci, Altıncı ve Yedinci Bölüm suçları ile birinci fıkranın diğer bentlerinde sayılan suçlar —(a) bendindeki uluslararası suçlar ile ilgili bentlerde sayılan diğer suçlar— bakımından farklı bir usul öngörür. Buna göre yargılama yapılabilmesi için **Adalet Bakanının talebinin** bulunması zorunludur. Ancak bu şart, (a) ve (b) bendinin belirli bölümleri (Üçüncü'den Yedinci'ye kadar olan Bölümler) bakımından **uygulanmaz**; o suçlar bakımından Adalet Bakanı talebi olmaksızın da yargılama yapılabilir.
+İkinci fıkra, **m. 13/1/(b) bendindeki** Üçüncü, Dördüncü, Beşinci, Altıncı ve Yedinci Bölümlerde yer alan suçlar **dışındaki** katalog suçlar için yargılama yapılmasını Adalet Bakanının talebine bağlamaktadır. Bu şart, **bir dava şartı** niteliğindedir; yokluğu hâlinde kamu davası açılması mümkün değildir. Hafızoğulları/Özen, Bakanın bu yetkisinin bir **takdir yetkisi** olduğunu ve siyasi-diplomatik değerlendirmelerin belirleyici olabileceğini kabul etmekle birlikte, bu durumun yargı bağımsızlığı açısından sorunlu bir görünüm arz ettiğini vurgulamaktadır.
 
-Bu yapı birkaç
+Uygulamada Adalet Bakanlığı bu talebi yaparken; iade taleplerinin sonuçsuz kalması, diplomatik ilişkilerin durumu ve suçun ağırlığı gibi kriterleri gözetmektedir. Talebin bir idari işlem niteliği taşıması nedeniyle idari yargı denetimine tabi olup olmadığı ise öğretide tartışmalıdır.
+
+### 2.5. Ne Bis In Idem İlkesinin Sınırlandırılması (m. 13/3)
+
+Üçüncü fıkra, (a) ve (b) bentlerindeki suçlar bakımından yabancı ülkede **mahkûmiyet veya beraat** kararı verilmiş olmasına rağmen Türkiye'de yeniden yargıl
