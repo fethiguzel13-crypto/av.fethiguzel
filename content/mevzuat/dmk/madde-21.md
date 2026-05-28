@@ -1,0 +1,25 @@
+---
+title: "Devlet Memurları Kanunu Madde 21"
+kanun: "Devlet Memurları Kanunu"
+maddeNo: 21
+commentaryStatus: "pending"
+---
+
+**Müracaat, şikayet ve dava açma**
+
+---
+
+Madde 21 – (Değişik: 12/5/1982 - 2670/9 md.)
+Devlet memurları kurumlarıyla ilgili resmi ve şahsi işlerinden dolayı müracaat;
+amirleri veya kurumları tarafından kendilerine uygulanan idari eylem ve işlemlerden dolayı
+şikayet ve dava açma hakkına sahiptirler.
+Müracaat ve şikayetler söz veya yazı ile en yakın amirden başlayarak silsile yolu ile
+şikayet edilen amirler atlanarak yapılır.
+Müracaat ve şikayetler incelenerek en kısa zamanda ilgiliye bildirilir. Müracaat ve
+şikayetlerle ilgili esas ve usuller Cumhurbaşkanınca hazırlanacak bir yönetmelikle
+düzenlenir.22
+Sendika kurma:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
