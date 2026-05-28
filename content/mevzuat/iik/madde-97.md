@@ -2,7 +2,9 @@
 title: "İcra ve İflas Kanunu Madde 97"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 97
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-05-28"
+wordCount: 867
 ---
 
 **2 – Üçüncü şahsın istihkak iddiası**
@@ -73,6 +75,111 @@ serbestce takdir eder.
 İstihkak davaları süratle ve diğer davalardan önce görülerek karara bağlanır.
 İstihkak davalarında mülkiyet karinesi:
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+İcra ve İflas Kanunu'nun (İİK) 97. maddesi, borçlunun elinde (zilyetliğinde) 
+haczedilen bir mal üzerinde üçüncü bir kişinin mülkiyet veya rehin hakkı 
+(istihkak) iddia etmesi halinde işletilecek dava prosedürünü düzenleyen temel 
+yasa hükmüdür. İİK m. 96 uyarınca başlayan hazırlık safhasında alacaklı veya 
+borçlunun istihkak iddiasına itiraz etmesiyle uyuşmazlık çekişmeli hale gelir 
+ve m. 97 mekanizması devreye girer. Kuru, *İcra ve İflas Hukuku* eserinde, bu 
+maddenin amacının, eşya hukukundaki zilyetlik karinesinin (mülkiyetin borçluya 
+ait olduğu karinesinin) bir sonucu olarak ispat ve dava açma yükünü üçüncü 
+kişiye yüklemek ve alacaklının icra takibinin haksız yere sürüncemede 
+bırakılmasını engellemek olduğunu ifade etmektedir. Madde, icra mahkemesinin 
+vereceği ön (talik) kararı ile asıl istihkak davası usulünü iç içe geçirmiş, 
+kendine özgü (sui generis) bir yargılama prosedürü ihdas etmiştir.
+
+#### 2. Maddedeki Kavramların Analizi
+*   **Takibin Taliki veya Devamı:** İcra mahkemesinin, asıl istihkak davası 
+sonuçlanıncaya kadar haczedilen malın satılıp satılmayacağına (takibin 
+durdurulup durdurulmayacağına) ilişkin verdiği geçici hukuki koruma (önlem) 
+kararıdır.
+*   **Teminat:** Üçüncü kişinin haksız çıkması ihtimaline binaen, takibin 
+taliki (satışın durdurulması) nedeniyle alacaklının uğrayacağı muhtemel 
+zararları karşılamak üzere icra mahkemesince belirlenen güvence bedelidir.
+*   **Yedi Günlük Dava Açma Süresi:** İcra mahkemesinin takibin devamı veya 
+taliki yönündeki kararının tefhim veya tebliğinden itibaren üçüncü kişinin asıl
+istihkak davasını açması gereken hak düşürücü süredir. 
+*   **Haksızlık (Kötüniyet) Tazminatı (%20 ve %15):** İstihkak davasının reddi 
+halinde (takip de talik edilmişse) alacaklıyı korumak için üçüncü kişi aleyhine
+hükmedilen asgari %20 oranındaki tazminat ile; davanın kabulü halinde haksız 
+itiraz eden alacaklı/borçlu aleyhine hükmedilen asgari %15 oranındaki 
+tazminattır.
+*   **Mütekabil İptal Davası:** Alacaklının, üçüncü kişinin açtığı istihkak 
+davasına karşı, "mal üçüncü kişiye ait olsa bile bu devir benden mal kaçırmak 
+için muvazaalı yapılmıştır" diyerek, aciz belgesi aramaksızın aynı dosyada 
+karşılık dava (tasarrufun iptali davası) açabilme hakkıdır.
+
+#### 3. Sistematik İlişkiler
+İİK m. 97, icra hukukunun mülkiyet uyuşmazlıklarını çözen omurgasıdır ve 
+doğrudan İİK m. 96 (İstihkak hazırlık safhası) ile İİK m. 99 (Üçüncü şahıs 
+elinde haciz) hükümleriyle ayrılmaz bir sistematik karşıtlık/bütünlük 
+içindedir. Haciz anında mal borçlunun elindeyse m. 97 uygulanır ve dava açma 
+külfeti üçüncü kişiye düşer; mal üçüncü kişinin elindeyse m. 99 uygulanır ve 
+dava açma külfeti alacaklıya düşer. Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra 
+ve İflas Hukuku* çalışmasında, bu ayrımın temelinde Türk Medeni Kanunu'ndaki 
+zilyetlik karinelerinin yattığını, kanun koyucunun malı elinde bulunduran 
+lehine usuli bir avantaj sağladığını belirtmektedir. Ayrıca, istihkak davası 
+süresince satış isteme sürelerinin (İİK m. 106) işlemeyeceği kuralı, haczin 
+düşmesini engelleyen koruyucu bir sistematik bağdır. Karşılık iptal davası 
+açılabilmesi yönüyle de İİK m. 277 ve devamı (Tasarrufun İptali) hükümleriyle 
+usuli bir köprü kurulmuştur.
+
+#### 4. Uygulama: Yargı İçtihadı
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.
+
+#### 5. Pratik Örnek Olaylar
+*(kurmaca senaryo)* Alacaklı A, borçlu B'nin fabrikasında haciz yaparken, 
+fabrikadaki paketleme makinesi üzerinde üçüncü kişi C mülkiyet iddiasında 
+bulunmuştur. A bu iddiaya itiraz etmiştir. İcra memuru dosyayı icra mahkemesine
+göndermiş, mahkeme makinenin faturasının C adına olmasını dikkate alarak "%20 
+teminat karşılığında takibin talikine (satışın durdurulmasına)" karar 
+vermiştir. Karar C'ye tebliğ edildikten sonra C, 7 gün içinde istihkak davasını
+açmıştır. Yargılama sonucunda makinenin aslında B'ye ait olduğu ve faturanın 
+muvazaalı (sahte) düzenlendiği anlaşılmış, dava reddedilmiştir. Mahkeme, C'nin 
+teminatından karşılanmak üzere, alacaklı A lehine makinenin değerinin %20'si 
+oranında tazminata hükmedecektir.
+
+*(kurmaca senaryo)* Borçlu D'nin evinde yapılan hacizde, D'nin kayınpederi E 
+televizyon ve koltuk takımlarının kendisine ait olduğunu iddia etmiştir. Dava 
+süreci başladığında E, malları aylar önce D'den satın aldığına dair bir 
+sözleşme sunmuştur. Alacaklı F, bu devre karşı m. 97/17 uyarınca mütekabil 
+(karşılık) iptal davası açmış ve devrin akrabalar arası mal kaçırma (İİK m. 
+278) amacı taşıdığını ileri sürmüştür. İcra mahkemesi, E'nin mülkiyet iddiasını
+doğru bulsa bile, alacaklı F'nin iptal davasını kabul ederek alacaklıya bu 
+malları sattırma yetkisi verecektir.
+
+#### 6. Pratik Uygulama Notları
+Uygulamada meslektaşların istihkak prosedüründe en sık yaptıkları usul hatası, 
+icra memurunun m. 96 uyarınca dosyayı icra mahkemesine göndermesinin ardından, 
+mahkemenin "takibin devamı veya taliki" yönündeki ön kararını beklemeden 
+doğrudan tevzi bürosundan istihkak davası açmalarıdır. Talih Uyar, *İcra ve 
+İflas Kanunu Şerhi* eserinde, icra mahkemesinin ön (talik) kararı vermeden 
+açılan istihkak davalarının usulden reddedilme riski taşıdığını, avukatların 
+mutlaka icra mahkemesinden gelecek 7 günlük kesin süreyi ihtiva eden tebligatı 
+beklemeleri (veya takip etmeleri) ve davayı bu 7 gün içinde açmaları 
+gerektiğini önemle vurgulamaktadır. Ayrıca, alacaklı vekillerinin, üçüncü 
+kişinin mülkiyet itirazının güçlü olduğu durumlarda davayı kaybetme riskine 
+karşılık, "mütekabil tasarrufun iptali davası" açma hakkını (aciz vesikası 
+aranmadığı için) mutlak surette stratejik bir savunma silahı olarak 
+kullanmaları gerekir.
+
+#### 7. Eleştirel Değerlendirme
+İİK m. 97'de düzenlenen "dosyanın icra memurunca mahkemeye gönderilmesi ve 
+mahkemenin takibin taliki hakkında ön karar vermesi" mekanizması, yargılamayı 
+hızlandırmak bir yana, süreci son derece bürokratik ve hantal bir hale 
+getirmektedir. Çoğu zaman icra mahkemeleri bu ön kararı vermek için aylarca 
+beklemekte, bu sürede malın satışı belirsizliğe sürüklenmektedir. Ejder Yılmaz,
+*İcra ve İflas Hukuku* eserinde, bu iki aşamalı (ön inceleme ve asıl dava) 
+yapının usul ekonomisine aykırı olduğunu, üçüncü kişiye tıpkı genel 
+hükümlerdeki gibi doğrudan dava açma ve mahkemeden ihtiyati tedbir talep etme 
+hakkı verilmesinin çok daha pratik bir çözüm olacağını eleştirel bir dille 
+ifade etmektedir. Ayrıca, takibin taliki halinde haksız çıkan davacıdan %20 
+tazminat alınırken, kötüniyetli alacaklıdan %15 tazminat alınması, kanunun 
+alacaklı ve borçlu/üçüncü kişi arasındaki eşitlik terazisini alacaklı lehine 
+bozduğunun somut bir göstergesidir; bu oranların eşitlenmesi adil yargılanma 
+ilkesinin bir gereğidir.
+
+Conversation: 14fd14ca-7253-4111-8964-96d48f2d3b60 (turn 1)
