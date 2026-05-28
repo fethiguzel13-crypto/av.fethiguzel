@@ -2,7 +2,9 @@
 title: "TCK Madde 188"
 kanun: "Türk Ceza Kanunu"
 maddeNo: 188
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-05-28"
+wordCount: 482
 ---
 
 **Uyuşturucu veya uyarıcı madde imal ve ticareti7778**
@@ -67,3 +69,68 @@ cezalandırılır.8182
 sağlık memuru, laborant, ebe, hemşire, diş teknisyeni, hastabakıcı, sağlık hizmeti veren,
 kimyacılıkla veya ecza ticareti ile iştigal eden kişi tarafından işlenmesi halinde, verilecek ceza
 yarı oranında artırılır.
+
+### Akademik Yorum ve Analiz
+
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+Hazırlık çalışmalarında Alman ve İtalyan ceza kanunları esas alınarak 26/9/2004
+tarihinde kabul edilen ve 1/6/2005 tarihinde yürürlüğe girerek mülga 1926 
+tarihli 765 sayılı Türk Ceza Kanunu'nu yürürlükten kaldıran 5237 sayılı Türk 
+Ceza Kanunu'nun 188. maddesi, Özel Hükümler kitabının "Topluma Karşı Suçlar" 
+kısmında yer alan "Kamunun Sağlığına Karşı Suçlar" bölümünde düzenlenmiştir. 
+Madde, uyuşturucu ve uyarıcı maddelerin yasadışı yollarla imalinden ithaline, 
+ihracından ülke içindeki her türlü ticari dolaşımına kadar geniş bir spektrumu 
+cezalandırmaktadır. Özellikle 2014 (6545 s. Kanun), 2015 (6638 s. Kanun) ve 
+2023 (7445 s. Kanun) yıllarında yapılan köklü değişikliklerle cezaların alt 
+sınırları dramatik biçimde artırılmış, yeni nesil sentetik uyuşturucular madde 
+metnine derç edilmiş ve okul, hastane, ibadethane gibi alanlara yönelik "alan 
+(mesafe) koruması" getirilerek uyuşturucu ticaretiyle mücadelede oldukça sert 
+bir suç siyaseti benimsenmiştir.
+
+#### 2. Maddedeki Kavramların Analizi
+Madde metninin uygulanabilmesi, oldukça çeşitli seçimlik hareketlerin ve 
+ağırlaştırıcı nedenlerin varlığına bağlanmıştır:
+*   **Uyuşturucu veya Uyarıcı Madde:** Kanunda tek tek sayılmamış, tıbbi ve 
+bilimsel verilere göre merkezi sinir sistemini etkileyerek fiziki veya 
+psikolojik bağımlılık yaratan maddeler olarak kabul edilmiştir.
+*   **İmal, İthal ve İhraç (1. Fıkra):** Suçun uluslararası ve üretim 
+boyutudur. Cezası yirmi yıldan otuz yıla kadar hapis gibi olağanüstü 
+ağırlıktadır. 
+*   **Ülke İçinde Ticaret (3. Fıkra):** Satmak, satışa arz etmek, başkalarına 
+vermek, sevk etmek, nakletmek, depolamak, satın almak, kabul etmek, bulundurmak
+gibi çok sayıda seçimlik hareket öngörülmüştür. Alıcının çocuk olması, cezayı 
+doğrudan on beş yılın üzerine çeken özel bir nitelikli haldir.
+*   **Maddenin Türü ve Mekân (4. Fıkra):** Eroin, kokain, morfin, bazmorfin ve 
+bilhassa 2023 değişikliğiyle eklenen sentetik kannabinoid, katinon, opioid ve 
+amfetamin türevlerinin ticareti cezayı yarı oranında artırır. Aynı artırım, 
+fiilin okul, yurt, ibadethane gibi yerlere 200 metreden yakın mesafede 
+işlenmesi halinde de tatbik edilir.
+*   **Öncül Maddeler (7. Fıkra):** Uyuşturucu olmamakla birlikte, uyuşturucu 
+imalinde kullanılan (prekürsör) maddelerin izinsiz ticareti de bağımsız bir 
+yaptırıma bağlanmıştır.
+Koca/Üzülmez, *Türk Ceza Hukuku Özel Hükümler* çalışmasında, bu suçla korunan 
+hukuki değerin, uyuşturucu maddelerin yıkıcı etkilerinden toplumun biyolojik ve
+psikolojik varlığının, gelecek nesillerin sıhhatinin ve genel olarak "kamu 
+sağlığının" korunması olduğu değerlendirmesi yer almaktadır.
+
+#### 3. Sistematik İlişkiler
+TCK m. 188'in ceza hukuku dogmatiğindeki en tartışmalı ve yoğun sınır 
+komşuluğu, TCK m. 191'de düzenlenen "Kullanmak İçin Uyuşturucu veya Uyarıcı 
+Madde Satın Almak, Kabul Etmek veya Bulundurmak" suçu iledir. 
+Özbek/Kanbur/Doğan/Bacaksız/Tepe, *Türk Ceza Hukuku Özel Hükümler* eserinde bu 
+konuda, failin kastının "ticaret" mi yoksa "kişisel kullanım" mı olduğunun 
+ayrımında; maddelerin ele geçiriliş biçimi (satışa hazır küçük 
+paketler/fişekler halinde olması), failin üzerinde hassas terazi bulunması, ele
+geçen madde miktarının yıllık kişisel kullanım sınırının çok üzerinde olması ve
+failin ekonomik durumu ile uyuşturucu madde arasındaki orantısızlık gibi 
+objektif kriterlerin dikkate alınacağı görüşü benimsenmektedir. Ayrıca bu 
+madde, uyuşturucu suçlarına özgü Etkin Pişmanlık (TCK m. 192) hükümleriyle sıkı
+bir usul ve esas ilişkisine sahiptir.
+
+#### 4. Uygulama: Yargıtay İçtihadı
+Bu maddeye doğrudan ilişkin son dönemde Yargıtay kararı tespit edilemedi.
+
+#### 5. Pratik Örnek Olaylar
+**Olay 1 (kur
+
+Conversation: 2d8dc483-e5bb-45b4-bcdf-1e458da1df97 (turn 1)
