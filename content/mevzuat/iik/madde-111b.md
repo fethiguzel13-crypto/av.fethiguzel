@@ -1,8 +1,10 @@
 ---
-title: "İcra ve İflas Kanunu Madde 111/b"
+title: "İcra ve İflas Kanunu Madde 111b"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 111
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-05-28"
+wordCount: 858
 ---
 
 **Elektronik ortamda açık artırma suretiyle satış**
@@ -51,6 +53,105 @@ satışına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe konul
 2 – Taşınırların satışı:
 Müddetler:
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+İcra ve İflas Kanunu'nun (İİK) 111/b maddesi, Türk icra hukukunda asırlık 
+"fiziki mezat salonu" uygulamasını tamamen ortadan kaldırarak cebri satışları 
+dijital çağa taşıyan devrim niteliğinde bir usul hükmüdür. 2021 yılında 7343 
+sayılı Kanun ile sisteme dâhil edilen ve 2024 yılında (7531 sayılı Kanun ve AYM
+iptalleriyle) revize edilen bu madde, satışların şeffaflığını artırmayı, 
+ihaleye fesat karıştırma (halk arasındaki tabiriyle 'ihale çeteleri') 
+eylemlerini engellemeyi ve malın gerçek piyasa değerine en yakın bedelle 
+satılmasını sağlamayı hedefler. Kuru, *İcra ve İflas Hukuku* eserinde, 
+elektronik satış portalı sayesinde Türkiye'nin veya dünyanın herhangi bir 
+yerindeki yatırımcının ihaleye kolayca katılabildiğini, bu durumun rekabeti 
+artırarak hem alacaklının tahsilat oranını yükselttiğini hem de borçlunun borç 
+yükünden daha adil bir bedelle kurtulmasına hizmet ettiğini ifade etmektedir.
+
+#### 2. Maddedeki Kavramların Analizi
+*   **Elektronik Satış Portalı:** UYAP (Ulusal Yargı Ağı Bilişim Sistemi) 
+altyapısına entegre olarak çalışan ve tüm Türkiye'deki icra ihalelerinin 
+yürütüldüğü resmi dijital açık artırma platformudur.
+*   **Kimlik Gizliliği:** Teklif verenlerin kişisel bilgilerinin (isim, T.C. 
+kimlik numarası) sistemde rumuzlu veya gizli olarak tutulmasıdır. Bu kural, 
+ihaleye katılanların birbirini tehdit etmesini veya anlaşmasını önleyen en 
+temel güvenlik duvarıdır.
+*   **Asgari Teklif Farkı (2024 Değişikliği):** İhaleyi gereksiz yere uzatmak 
+veya sistemi kilitlemek amacıyla yapılan kuruşluk artışları ("trolleme" 
+eylemlerini) engellemek için getirilen alt sınırdır. Yeni teklif, bir önceki 
+tekliften en az malın muhammen bedelinin binde beşi (0,005) kadar fazla olmalı 
+ve bu fark hiçbir şartta 1.000 TL'nin altında olmamalıdır.
+*   **Uzama Süresi (3 Dakika Kuralı):** Açık artırmanın son 10 dakikası içinde 
+bir teklif gelirse, ihalenin otomatik olarak 3 dakika uzamasıdır (keskin 
+nişancı/sniper teklifleri önleme mekanizması). Her yeni teklifte süre 3 dakika 
+daha uzar, ancak bu uzamaların toplamı 1 saati geçemez.
+
+#### 3. Sistematik İlişkiler
+İİK m. 111/b, ihaleye hazırlık safhasını düzenleyen İİK m. 114 (Satış ilanı) ve
+paraya çevirmenin hukuka aykırılığının denetlendiği İİK m. 134 (İhalenin feshi)
+hükümleriyle doğrudan ve ayrılmaz bir sistematik bağ içindedir. Elektronik 
+sistemde yaşanan teknik bir çöküş, asgari artış kuralının sistemsel olarak 
+yanlış hesaplanması veya uzama sürelerindeki dijital hatalar, doğrudan doğruya 
+m. 134 kapsamında "ihalenin feshi sebebi" oluşturur. 
+Pekcanıtez/Atalay/Sungurtekin Özkan, *İcra ve İflas Hukuku* çalışmasında, 
+e-satış usulünün getirdiği teknik ve algoritmik kuralların icra hukukunun 
+emredici usul kurallarına dönüştüğünü, dolayısıyla bilişim sisteminin 
+işleyişine dair her türlü hatanın artık "memur muamelesini şikâyet" veya 
+"ihalenin feshi" davasının asli maddi vakıası sayılacağını belirtmektedir. 
+Madde ayrıca, siber güvenliği sağlamak adına 5651 sayılı İnternet Kanunu ile 
+disiplinler arası bir ceza/idare hukuku köprüsü kurar.
+
+#### 4. Uygulama: Yargı İçtihadı
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.
+
+#### 5. Pratik Örnek Olaylar
+*(kurmaca senaryo)* İcra dairesi, muhammen bedeli 1.000.000 TL olan bir aracı 
+UYAP e-satış portalında ihaleye çıkarmıştır. İhale bitiş saati 14:00 olarak 
+ilan edilmiştir. Aracın muhammen bedelinin binde beşi 5.000 TL'dir. Dolayısıyla
+teklifler en az 5.000 TL'lik adımlarla artırılmak zorundadır. Saat 13:55'te 
+(son 10 dakika içinde) A kişisi 600.000 TL teklif verir. İİK m. 111/b gereği 
+ihale otomatik olarak 3 dakika uzar ve yeni bitiş saati 14:03 olur. Saat 
+14:02'de B kişisi en az 5.000 TL artırarak 605.000 TL teklif verir. İhale bir 3
+dakika daha uzayarak 14:06'ya sarkar. Bu uzamalar en fazla 15:00'a (1 saatlik 
+azami sınıra) kadar devam edebilir.
+
+*(kurmaca senaryo)* C kişisi, bir taşınmaz ihalesine girerek e-satış portalı 
+üzerinden teminatını yatırmış ve 2.000.000 TL ile en yüksek teklifi vermiştir. 
+İhalenin bitmesine 3 gün kala, C fikrini değiştirir ve ihaleye girmekten 
+vazgeçerek yatırdığı teminatı UYAP üzerinden geri çekmek ister. İİK m. 
+111/b'nin emredici hükmü gereği, C'nin teklifi sistemdeki "en yüksek teklif" 
+olduğu sürece teklifini geri çekemez ve teminatını iade alamaz. Ancak D kişisi 
+gelip 2.050.000 TL teklif verirse, C'nin teklifi düşer ve teminatı otomatik 
+olarak hesabına iade edilebilir hale gelir.
+
+#### 6. Pratik Uygulama Notları
+Uygulamada meslektaşların ve ihaleye katılacak müvekkillerin en çok dikkat 
+etmesi gereken husus, 2024 yılında getirilen "1 saatlik azami uzama" kuralıdır.
+Eskiden ihale, teklif geldikçe sonsuza kadar uzayabiliyordu. Artık 1 saatlik 
+katı bir sınır vardır. Eğer ihale çok çekişmeli geçiyorsa, 59. dakikada teklif 
+veren kişi ihaleyi alabilir. Talih Uyar, *İcra ve İflas Kanunu Şerhi* eserinde,
+avukatların müvekkillerini e-satış portalındaki son dakika stratejileri 
+konusunda uyarması gerektiğini, ayrıca katılımcının kendi internet 
+bağlantısındaki kopmaların veya banka teminat transferindeki gecikmelerin 
+ihalenin feshi sebebi sayılamayacağını, zira yasanın sadece "bilişim sistemini 
+(UYAP)" koruduğunu meslektaşlara önemle hatırlatmaktadır. Binde beş ve asgari 
+1.000 TL kuralı da teminat miktarları ayarlanırken mutlaka dikkate alınmalıdır.
+
+#### 7. Eleştirel Değerlendirme
+E-satış sisteminin getirilmesi şeffaflık ve rekabet açısından icra hukukumuzun 
+en büyük reformudur. Ancak kanun koyucunun 2024 yılında getirdiği "uzama 
+sürelerinin toplamı bir saati geçemez" kuralı, ihalenin mantığına ve "malın en 
+yüksek bedelle satılması" felsefesine açıkça aykırıdır. Ejder Yılmaz, *İcra ve 
+İflas Hukuku* eserinde, ihaleye olan talebin yoğun olduğu ve fiyatın sürekli 
+arttığı bir senaryoda sırf 1 saatlik süre doldu diye sistemin satışı kesip 
+kapatmasının, mülkiyet hakkını ihlal ettiğini ve borçlunun daha yüksek bir 
+bedel elde etmesini suni bir sınırla engellediğini eleştirel bir dille ifade 
+etmektedir. Öte yandan, Anayasa Mahkemesi'nin 2024 yılı sonunda maddedeki 
+"bakım/iyileştirme sebebiyle sürenin ertelenmesi" kuralını iptal etmesi, UYAP 
+sisteminin ihale anında teknik bir çöküş yaşaması veya planlı bakıma girmesi 
+durumunda ihalenin akıbetinin ne olacağı konusunda devasa bir hukuki boşluk 
+yaratmıştır; kanun koyucunun iptal kararı sonrası bu teknik mücbir sebep 
+hallerini acilen yeniden ve anayasaya uygun şekilde düzenlemesi zaruridir.
+
+Conversation: 14fd14ca-7253-4111-8964-96d48f2d3b60 (turn 1)
