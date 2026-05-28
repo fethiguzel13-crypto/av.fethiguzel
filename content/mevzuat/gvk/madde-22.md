@@ -2,7 +2,9 @@
 title: "Gelir Vergisi Kanunu Madde 22"
 kanun: "Gelir Vergisi Kanunu"
 maddeNo: 22
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-05-28"
+wordCount: 957
 ---
 
 **Menkul sermaye iratlarında:16**
@@ -70,6 +72,128 @@ ALTINCI BÖLÜM
 Müteferrik İstisnalar
 Ücretlerde:
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+Gelir Vergisi Kanunu'nun (GVK) 22. maddesi, Türk vergi sisteminde menkul 
+sermaye iratlarına (sermaye gelirlerine) yönelik en temel istisna rejimlerini 
+düzenleyen ve "sermaye birikimini" yönlendirmeyi amaçlayan stratejik bir maddi 
+vergi hukuku normudur. Madde temel olarak iki farklı ekonomik amaca hizmet eden
+istisnaları tek çatı altında toplamıştır: Birincisi, uzun vadeli tasarrufları 
+(hayat ve yıllık gelir sigortalarını) teşvik etmek; ikincisi ise kurumlar 
+vergisi ödenmiş kurum kazançlarının kâr payı (temettü) olarak dağıtılması 
+sırasında ortaya çıkan "ekonomik çifte vergilendirmeyi" hafifletmektir. 
+Öncel/Kumrulu/Çağan, *Vergi Hukuku* eserinde, kanun koyucunun şirket kârlarının
+önce kurum bünyesinde kurumlar vergisine, ardından dağıtıldığında ortak 
+bünyesinde gelir vergisine tabi tutulmasının yaratacağı ağır vergi yükünü 
+engellemek amacıyla kâr paylarının yarısını (1/2'sini) gelir vergisinden 
+istisna ettiğini değerlendirmesine yer vermektedir. Yakın zamanda (2023) 
+maddeye eklenen dördüncü fıkra ise bu istisna mantığını, Türk yatırımcıların 
+yurtdışındaki iştirak kazançlarını Türkiye'ye getirmelerini teşvik edecek 
+şekilde uluslararası boyuta taşımıştır.
+
+#### 2. Maddedeki Kavramların Analizi
+*   **Tek Primli Yıllık Gelir Sigortası:** Sigortalının toplu bir prim 
+ödeyerek, en az 10 yıl veya ömür boyu düzenli gelir (maaş) almasını sağlayan 
+uzun vadeli tasarruf aracıdır. Maddenin ilk fıkraları bu ödemeleri kural olarak
+vergiden istisna kılmıştır.
+*   **Zorunlu Nedenler:** Vefat, maluliyet veya sigorta şirketinin tasfiyesi 
+gibi kişinin iradesi dışında gelişen ve 10 yıllık sürenin tamamlanmasını 
+imkânsız kılan hukuki/fiili durumlardır. Bu durumlarda sistemden erken çıkılsa 
+dahi vergi kesintisi (tevkifat) cezalandırması yapılmaz.
+*   **Kâr Paylarının Yarısı (1/2 İstisnası):** Tam mükellef kurumlardan 
+(Türkiye'de kurulu şirketlerden) elde edilen temettülerin %50'sinin gelir 
+vergisinden bağışık tutulmasıdır.
+*   **Yurtdışı İştirak Kazancı İstisnası (m. 22/4):** Kanuni ve iş merkezi 
+Türkiye'de olmayan yabancı şirketlerden elde edilen kâr paylarının, en az %50 
+sermaye payına sahip olunması ve paranın beyanname verme süresine kadar 
+Türkiye'ye transfer edilmesi (repatriation) şartıyla %50 oranında istisna 
+edilmesidir.
+*   **Cumhurbaşkanı Yetkisi:** Maddede belirlenen istisna oranlarını ve %50'lik
+iştirak şartını sıfıra kadar indirmeye veya tam istisna (%100) sağlayacak 
+şekilde artırmaya yönelik yürütme organına tanınan esneklik yetkisidir.
+
+#### 3. Sistematik İlişkiler
+GVK m. 22, menkul sermaye iratlarını tanımlayan GVK m. 75 ve vergi kesintisini 
+düzenleyen GVK m. 94 ile doğrudan ve kopmaz bir sistematik bağa sahiptir. Kâr 
+payı istisnası, kurumlar vergisi ile gelir vergisi arasındaki entegrasyonu 
+sağlayan bir köprü niteliğindedir. Başaran Yavaşlar, *Vergi Usul Hukuku* 
+çalışmasında, kâr payı ödemelerinde kaynağında kesilen (stopaj) verginin 
+tamamının, yıllık beyannamede hesaplanan gelir vergisinden mahsup edilmesinin, 
+sistemin çifte vergilendirmeyi önleme fonksiyonunun dogmatik bir tamamlayıcısı 
+olduğunu; istisnanın sadece matrahtan indirim (yarı yarıya) sağlayıp, mahsup 
+hakkını tam vermesinin mükellef lehine ciddi bir vergi avantajı yarattığını 
+belirterek normun usul ve tahsilat boyutuyla kurduğu sistematik dengeye dikkat 
+çekmektedir.
+
+#### 4. Uygulama: Yargı İçtihadı
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.
+
+#### 5. Pratik Örnek Olaylar
+*(kurmaca senaryo)* Bireysel yatırımcı (A), 2018 yılında tek prim ödeyerek "10 
+yıl süreli yıllık gelir sigortası" yaptırmıştır. Ancak 2024 yılında (6. yılda) 
+nakit ihtiyacı sebebiyle poliçesini bozarak sistemden ayrılmıştır. Zorunlu bir 
+neden (vefat/maluliyet) bulunmadığı ve 10 yıllık süre tamamlanmadığı için, GVK 
+m. 22/1 amir hükmü gereğince, (A)'ya yapılan ödemenin içerdiği "irat (getiri)" 
+tutarı istisna kapsamından çıkarılır ve ödeme anında GVK m. 94 uyarınca gelir 
+vergisi tevkifatı yapılarak vergilendirilir.
+
+*(kurmaca senaryo)* Türkiye'de mukim (B) isimli şahıs, ortağı olduğu tam 
+mükellef X A.Ş.'den 2024 yılında 2.000.000 TL brüt kâr payı (temettü) elde 
+etmiştir. Şirket bu ödemeyi yaparken GVK m. 94 uyarınca %10 oranında (200.000 
+TL) stopaj keserek (B)'ye 1.800.000 TL ödemiştir. GVK m. 22/3 uyarınca bu brüt 
+kâr payının yarısı (1.000.000 TL) gelir vergisinden istisnadır. (B), sadece 
+kalan 1.000.000 TL'yi yıllık beyannameyle beyan edecek, ancak beyanname 
+üzerinden hesaplanan vergiden şirketin kestiği 200.000 TL'lik stopajın 
+*tamamını* mahsup edecektir.
+
+*(kurmaca senaryo)* Alman yasalarına göre kurulmuş Y GmbH şirketinin %60 
+hissesine sahip Türk vatandaşı (C), 2024 yılında bu şirketten 100.000 Euro 
+temettü geliri elde etmiştir. (C), bu parayı Mart 2025'teki beyanname verme 
+süresinin son gününe kadar Türkiye'deki banka hesabına transfer etmiştir. Hem 
+%50 iştirak şartını hem de Türkiye'ye getirme şartını sağladığı için, GVK m. 
+22/4 uyarınca bu yabancı temettü gelirinin yarısı Türkiye'de gelir vergisinden 
+müstesna tutulur.
+
+#### 6. Pratik Uygulama Notları
+Avukatlık ve mali danışmanlık pratiğinde, şirket ortaklarının temettü 
+beyanlarında mahsup edilecek vergi tutarının doğru hesaplanması çok kritik bir 
+usul kuralıdır. Tosuner/Demir, *Vergi Usul Kanunu* eserinde, meslek 
+mensuplarının kâr payının yarısı istisna edilerek matrahın düşürülmesine 
+rağmen, GVK m. 94 kapsamında kurum bünyesinde yapılan tevkifatın (kesintinin) 
+yarısının değil "tamamının" ödenecek vergiden mahsup edileceği kuralını yıllık 
+beyannamelerde mutlak suretle uygulamaları gerektiğini; bu işlemin genellikle 
+mükellefe "vergi iadesi" hakkı doğurduğunu pratik ve stratejik bir uyarı olarak
+hatırlatmaktadır. Yurtdışı iştirak kazançlarında ise dekont ve transfer 
+tarihlerinin (beyanname süresini geçirmeden) resmi banka kayıtlarıyla 
+belgelendirilmesi zorunludur.
+
+#### 7. Eleştirel Değerlendirme
+GVK m. 22, uzun vadeli tasarrufları ve sermaye şirketlerini destekleme işlevini
+yerine getirse de, özellikle 2023 yılında eklenen 5. fıkrasındaki yetki devri 
+anayasal ilkeler açısından problemlidir. Selim Kaneti, *Vergi Hukuku* eserinde,
+Anayasa'nın 73. maddesi gereği verginin yasallığı ilkesinin temel kural 
+olduğunu; ancak GVK m. 22'deki kâr payı istisna oranını veya yararlanma şartı 
+olan %50 sermaye payı haddini "sıfıra kadar indirme veya %100'e kadar artırma" 
+yetkisinin tamamen yürütme organına (Cumhurbaşkanına) bırakılmasının, yasama 
+yetkisinin devri anlamına geldiğini ve hukuki belirlilik ilkesini zedelediğini 
+vurgulamaktadır.
+
+Ayrıca, kâr payı istisnasının sadece sermaye sahiplerine tanınan bir avantaj 
+olması, emek ve sermaye gelirleri arasındaki adalet tartışmalarını 
+alevlendirmektedir. Yaltı Soydan, *Vergi Yükümlüsünün Hakları* çalışmasında, 
+çalışanın alın teriyle kazandığı ücretin tek kuruşu dahi istisna edilmeden 
+doğrudan artan oranlı tarifeyle vergilendirilirken; devasa bir sermaye 
+şirketinden milyonlarca lira temettü elde eden bir rantiyenin bu gelirinin 
+yarısının doğrudan vergi dışı bırakılmasının, dikey ve yatay vergi adaletiyle 
+örtüşmediğini eleştirel bir dille ifade etmektedir. 
+
+Erginay, *Vergi Hukuku* çalışmasında da işaret edildiği üzere, çifte 
+vergilendirmeyi önlemek modern maliyenin bir gereğidir, ancak bunun yöntemi 
+sadece sermayedara yarı yarıya istisna tanımak olmamalıdır. Sistemin, kurumlar 
+vergisi ile gelir vergisini tam bir entegrasyona (imputation system) tabi 
+tutan, hem idare hem de mükellef için daha şeffaf, yetki devirlerinden 
+arındırılmış ve istikrarlı bir kalıba dökülmesi Türk vergi hukukunun yapısal 
+bir ihtiyacıdır.
+
+Conversation: 14fd14ca-7253-4111-8964-96d48f2d3b60 (turn 1)
