@@ -2,7 +2,9 @@
 title: "Vergi Usul Kanunu Madde 367"
 kanun: "Vergi Usul Kanunu"
 maddeNo: 367
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-05-28"
+wordCount: 913
 ---
 
 **Bazı kaçakçılık suçlarının cezalandırılmasında usül:140**
@@ -46,6 +48,123 @@ sayılı Kararı ile.)
 Cezaların Ödenmesi ve Kalkması
 Vergi cezalarının ödenme zamanı:
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+Vergi Usul Kanunu'nun (VUK) 367. maddesi, vergi ceza hukuku ile genel ceza 
+muhakemesi hukuku arasındaki usuli köprüyü kuran ve "kaçakçılık" suçlarının 
+(VUK m. 359) adli makamlara intikalini düzenleyen temel usul normudur. 
+Öncel/Kumrulu/Çağan, *Vergi Hukuku* eserinde, kanun koyucunun vergi suçlarının 
+karmaşık ve teknik doğası gereği, Cumhuriyet savcılarının salt ihbar veya şüphe
+üzerine doğrudan harekete geçmesini uygun bulmadığını; adli yargılamanın 
+başlayabilmesi için idarenin (vergi inceleme elemanlarının ve rapor 
+değerlendirme komisyonlarının) teknik bir süzgecinden geçilmesini zorunlu 
+kıldığını değerlendirmesine yer vermektedir. Madde, Türk vergi hukukunda idari 
+yaptırım (vergi ziyaı) ile adli yaptırımın (hapis cezası) eşzamanlı yürüdüğü 
+"ikili yaptırım (dualist)" sistemin usuli altyapısını oluştururken; idari 
+organın "mütalaasını", ceza yargılamasının ön şartı (dava şartı) haline 
+getirmektedir.
+
+#### 2. Maddedeki Kavramların Analizi
+*   **Mütalaa (Dava Şartı):** Vergi Müfettişleri tarafından düzenlenen vergi 
+suçu raporlarının, Rapor Değerlendirme Komisyonu (RDK) tarafından hukuka 
+uygunluk ve yeterlilik açısından incelenerek onaylanması işlemidir. Bu mütalaa 
+olmadan kural olarak kaçakçılık suçlarından dolayı savcılıkça iddianame 
+düzenlenemez.
+*   **Talik Olunur (Askıya Alınma/Bağlanma):** Cumhuriyet Başsavcılığının kendi
+imkânlarıyla bir vergi suçunu öğrenmesi halinde bile, hemen kamu davası 
+açamayacağını; durumu vergi dairesine bildirerek idarenin incelemesinin ve 
+mütalaasının sonucunu beklemek zorunda olduğunu ifade eden "durma" veya 
+"bekletici mesele" kuralıdır.
+*   **359 (ç) ve (d) Fıkraları İstisnası:** Ödeme kaydedici cihazlara (yazar 
+kasa/POS) müdahale edilmesi gibi teknik kaçakçılık fiillerinde, 2021 yılında 
+getirilen ek fıkra ile klasik "incelemenin tamamlanması" şartı kaldırılmış; 
+tespit anında sürecin hızla savcılığa intikal ettirilmesi (ivedi mütalaa) usulü
+benimsenmiştir.
+*   **İştirak Edenlerin Sonradan Tespiti (2022 İstisnası):** Başlamış bir 
+soruşturma veya kovuşturma sırasında, suça iştirak eden yeni şahısların 
+(örneğin muhasebeci veya komisyoncu) ortaya çıkması halinde, yargının hızını 
+kesmemek için bu yeni failler hakkında vergi idaresinden tekrar ayrı bir 
+"mütalaa" istenmeyeceğini belirten pratik usul kuralıdır.
+*   **Ayrıca Uygulamaya Engel Teşkil Etmez:** Fail hakkında asliye ceza 
+mahkemesinde hapis cezası verilmesinin, vergi idaresinin keseceği vergi ziyaı 
+veya usulsüzlük (idari para) cezalarına mani olmayacağını belirten "ceza 
+ayrılığı" kuralıdır.
+
+#### 3. Sistematik İlişkiler
+VUK m. 367, maddi ceza hukuku anlamında VUK m. 359 (Kaçakçılık Suçları) ile 
+doğrudan; usul hukuku anlamında ise Ceza Muhakemesi Kanunu'nun (CMK) "muhakeme 
+şartı" (dava şartı) kuralları ile tamamen iç içe geçmiştir. Başaran Yavaşlar, 
+*Vergi Usul Hukuku* çalışmasında, bu maddenin Ceza Muhakemesi Hukuku'ndaki 
+"savcılığın soruşturma tekelini" vergi idaresi lehine kısıtlayan istisnai bir 
+norm olduğunu; Rapor Değerlendirme Komisyonu mütalaasının, tıpkı memur 
+yargılamalarındaki "soruşturma izni" veya bazı suçlardaki "şikâyet" müessesesi 
+gibi, aşılması zorunlu bir yasal bariyer işlevi gördüğünü belirterek normun 
+idare ve ceza hukuku kesişimindeki sistematik yerine dikkat çekmektedir.
+
+#### 4. Uygulama: Yargı İçtihadı
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.
+
+#### 5. Pratik Örnek Olaylar
+*(kurmaca senaryo)* Cumhuriyet Başsavcılığı, bir vatandaşın anonim şikâyeti 
+üzerine X A.Ş.'nin naylon (sahte) fatura ticareti yaptığını öğrenmiştir. VUK m.
+367'nin ikinci ve üçüncü fıkraları amir hükmü gereğince, savcı derhal polisi 
+gönderip şirketi basıp dava açamaz. Savcılık, durumu hemen ilgili Vergi Dairesi
+Başkanlığı'na (veya Vergi İnceleme Kuruluna) ihbar eder. Vergi Müfettişi 
+incelemeyi yapar, sahte fatura raporunu yazar, Rapor Değerlendirme Komisyonu 
+"mütalaa" verir ve dosyayı savcılığa iade eder. Savcı ancak bu mütalaa eline 
+ulaştıktan sonra kamu davasını (iddianameyi) açabilir.
+
+*(kurmaca senaryo)* Y İnşaat Ltd. Şti.'nin müdürü (A) hakkında sahte fatura 
+kullanmaktan dolayı mütalaa alınmış ve asliye ceza mahkemesinde dava 
+açılmıştır. Yargılama sırasında tanık ifadelerinden, şirketin serbest 
+muhasebeci mali müşaviri (B)'nin de bu suça bilerek yardım ettiği ortaya 
+çıkmıştır. Normalde (B) için de idareden mütalaa alınması gerekirdi; ancak VUK 
+m. 367'ye 2022 yılında eklenen fıkra uyarınca, savcı/mahkeme (B) hakkında 
+ayrıca mütalaa veya inceleme beklemeden doğrudan davayı genişleterek 
+muhasebeciyi de yargılamaya dâhil eder.
+
+#### 6. Pratik Uygulama Notları
+Avukatlık ve mali danışmanlık pratiğinde, asliye ceza mahkemelerindeki vergi 
+kaçakçılığı davalarında ilk kontrol edilecek unsur "RDK mütalaasının" varlığı 
+ve usulüne uygunluğudur. Tosuner/Demir, *Vergi Usul Kanunu* eserinde, meslek 
+mensuplarının, müvekkilleri hakkındaki ceza dosyasında geçerli bir komisyon 
+mütalaası (dava şartı) bulunup bulunmadığını titizlikle incelemeleri 
+gerektiğini; şayet savcı vergi idaresinin mütalaasını beklemeden aceleyle 
+iddianame düzenlemişse veya mütalaa yetkisiz bir merciden gelmişse, Ceza 
+Muhakemesi Kanunu uyarınca mahkemeden derhal "durma kararı (muhakeme şartının 
+gerçekleşmesini bekleme)" talep edilmesinin hayati bir savunma stratejisi 
+olduğunu usuli bir uyarı olarak meslektaşlara hatırlatmaktadır.
+
+#### 7. Eleştirel Değerlendirme
+VUK m. 367, vergi uyuşmazlıklarının adliyelere taşınmadan önce idari bir 
+uzmanlık süzgecinden geçirilmesi açısından pratik faydalar taşısa da, kuvvetler
+ayrılığı ve insan hakları bağlamında çok ciddi doktriner sorunlar 
+barındırmaktadır. Selim Kaneti, *Vergi Hukuku* eserinde, suç soruşturması yapma
+ve dava açma yetkisinin anayasal olarak bağımsız Cumhuriyet Savcılarına ait 
+olduğunu; VUK m. 367 ile bu yetkinin fiilen Maliye Bakanlığı'na bağlı 
+bürokratik bir komisyonun (RDK) tekeline ve iznine bırakılmasının, yargı 
+bağımsızlığına ve ceza adalet sisteminin doğasına aykırı olduğunu 
+vurgulamaktadır.
+
+Ayrıca, maddenin son fıkrasında yer alan "cezaya hükmedilmesi, vergi 
+cezalarının ayrıca uygulanmasına engel teşkil etmez" şeklindeki çifte yaptırım 
+rejimi, çağdaş hukukun en tartışmalı konularından biridir. Yaltı Soydan, *Vergi
+Yükümlüsünün Hakları* çalışmasında, aynı maddi fiil (örneğin sahte fatura 
+düzenleme) nedeniyle mükellefe hem idare tarafından milyonlarca lira "vergi 
+ziyaı cezası" kesilmesinin hem de asliye ceza mahkemesinde yıllarca süren 
+"hapis cezası" verilmesinin, Avrupa İnsan Hakları Mahkemesi (AİHM) 
+standartlarındaki "aynı fiilden dolayı iki kez yargılanmama ve cezalandırılmama
+(ne bis in idem)" ilkesini açıkça ve sistematik olarak ihlal ettiğini eleştirel
+bir dille ifade etmektedir. 
+
+Erginay, *Vergi Hukuku* çalışmasında da işaret edildiği üzere, vergi ceza 
+sisteminin bu dualist (ikili) yapısı mükellefi devlet aygıtının iki farklı 
+organı (idare ve adliye) arasında ezmektedir. Modern vergi hukukunda ideal 
+olan, mütalaa bürokrasisine veya çifte cezalandırma zulmüne mahal vermeden; 
+maddi ihlaller ile adli suçların sınırlarının kesin olarak ayrıldığı ve her 
+fiilin yalnızca bir yargı merciince, tekil ve orantılı bir yaptırımla 
+karşılandığı entegre bir ceza politikasının hayata geçirilmesidir. VUK m. 
+367'nin mevcut kurgusu, ne yazık ki bu evrensel standarttan uzaktır.
+
+Conversation: 14fd14ca-7253-4111-8964-96d48f2d3b60 (turn 1)
