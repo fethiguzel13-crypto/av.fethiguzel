@@ -1,4 +1,4 @@
-import { getArticleData, getAllArticles, getNavigationInfo } from '@/lib/api'
+import { getArticleData, getNavigationInfo } from '@/lib/api'
 import Link from 'next/link'
 import { Metadata } from 'next'
 import Navbar from '@/components/Navbar'
@@ -178,10 +178,4 @@ export default async function ArticlePage({ params }: Props) {
   )
 }
 
-export async function generateStaticParams() {
-  const articles = getAllArticles()
-  return articles.map((article) => ({
-    kanunId: article.kanunId,
-    id: article.id,
-  }))
-}
+export const dynamic = 'force-dynamic'
