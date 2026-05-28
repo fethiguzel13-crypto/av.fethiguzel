@@ -1,0 +1,21 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 18"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 18
+commentaryStatus: "pending"
+---
+
+**Yetki sözleşmesinin geçerlilik şartları**
+
+---
+
+MADDE 18- (1) Tarafların üzerinde serbestçe tasarruf edemeyecekleri konular ile
+kesin yetki hâllerinde, yetki sözleşmesi yapılamaz.
+(2) Yetki sözleşmesinin geçerli olabilmesi için yazılı olarak yapılması, uyuşmazlığın
+kaynaklandığı hukuki ilişkinin belirli veya belirlenebilir olması ve yetkili kılınan mahkeme
+veya mahkemelerin gösterilmesi şarttır.
+Yetki itirazının ileri sürülmesi
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

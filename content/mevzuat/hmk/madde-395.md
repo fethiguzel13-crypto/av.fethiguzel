@@ -1,0 +1,23 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 395"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 395
+commentaryStatus: "pending"
+---
+
+**Teminat karşılığı tedbirin değiştirilmesi veya kaldırılması**
+
+---
+
+MADDE 395- (1) Aleyhine ihtiyati tedbir kararı verilen veya hakkında bu tedbir
+kararı uygulanan kişi, mahkemece kabul edilecek teminatı gösterirse, mahkeme, duruma göre
+tedbirin değiştirilmesine veya kaldırılmasına karar verebilir.
+(2) Teminatın tutarı, tedbirin değiştirilmesi veya kaldırılmasına göre; türü ise 87 nci
+maddeye göre tayin edilir.
+(3) İtiraza ilişkin 394 üncü maddenin üçüncü ve dördüncü fıkrası, kıyas yoluyla
+uygulanır.
+Durum ve koşulların değişmesi sebebiyle tedbirin değiştirilmesi veya kaldırılması
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,23 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 256"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 256
+commentaryStatus: "pending"
+---
+
+**Tanığa görevinin önemini anlatma**
+
+---
+
+MADDE 256- (1) Tanığa dinlenmeden önce;
+a) Gerçeği söylemesinin önemi,
+b) Gerçeği söylememesi hâlinde yalan tanıklık suçundan dolayı cezalandırılacağı,
+c) Doğruyu söyleyeceği hususunda yemin edeceği,
+ç) Duruşmada mahkeme başkanı veya hâkimin açık izni olmadan mahkeme salonunu
+terk edemeyeceği ve gerekirse diğer tanıklarla yüzleştirilebileceği,
+anlatılır.
+Yeminsiz dinlenecekler
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

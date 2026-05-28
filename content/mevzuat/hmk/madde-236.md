@@ -1,0 +1,20 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 236"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 236
+commentaryStatus: "pending"
+---
+
+**Yemin edecek kimsenin mahkemenin yargı çevresi dışında olması**
+
+---
+
+MADDE 236- (1) Mahkemenin yargı çevresi dışında oturan kimse, yemin için davaya
+bakan mahkemeye gelmek zorundadır. Ancak, yemin edecek kişi, mahkemenin bulunduğu il
+dışında oturuyor ve bulunduğu yerde aynı anda ses ve görüntü nakledilmesi yolu ile yemin
+icrası mümkün değil ise istinabe yolu ile yemin ettirilir.
+Yemin konusunun açıklattırılması
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,26 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 278"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 278
+commentaryStatus: "pending"
+---
+
+**Bilirkişinin yetkileri**
+
+---
+
+MADDE 278- (1) Bilirkişi, görevini, mahkemenin sevk ve idaresi altında yürütür.
+(2) Bilirkişi, görev alanı veya sınırları hakkında tereddüde düşerse, bu tereddüdünün
+giderilmesini, her zaman mahkemeden isteyebilir.
+(3) Bilirkişi, incelemesini gerçekleştirirken ihtiyaç duyarsa, mahkemenin de uygun
+bulması kaydıyla, tarafların bilgisine başvurabilir. Taraflardan birinin bilgisine başvurulacağı
+hâllerde, mahkemece bilirkişiye taraflardan biri bulunmaksızın diğerinin dinlenemeyeceği
+hususu önceden hatırlatılır.
+(4) Bilirkişinin oy ve görüşünü açıklayabilmesi için bir şey üzerinde inceleme yapması
+zorunlu ise mahkeme kararı ile gerekli incelemeyi yapabilir. Bu işlemin icrası sırasında
+taraflar da hazır bulunabilir.
+Bilirkişi açıklamalarının tespiti ve rapor
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

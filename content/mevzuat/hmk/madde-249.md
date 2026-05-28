@@ -1,0 +1,20 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 249"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 249
+commentaryStatus: "pending"
+---
+
+**Sır nedeniyle tanıklıktan çekinme**
+
+---
+
+MADDE 249- (1) Kanun gereği sır olarak korunması gereken bilgiler hakkında
+tanıklığına başvurulacak kimseler, bu hususlar hakkında tanıklıktan çekinebilirler. Ancak,
+19/3/1969 tarihli ve 1136 sayılı Avukatlık Kanunu hükmü saklı kalmak üzere sır sahibi
+tarafından sırrın açıklanmasına izin verildiği takdirde, bu kimseler tanıklıktan çekinemezler.
+Menfaat ihlali tehlikesi nedeniyle tanıklıktan çekinme
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

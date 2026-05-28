@@ -1,0 +1,22 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 264"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 264
+commentaryStatus: "pending"
+---
+
+**Yalan yere veya menfaat temin ederek tanıklık edilmesi ve sonuçları**
+
+---
+
+MADDE 264- (1) Hâkim, tanığın tanıklığı esnasında yalan söylediği veya menfaat
+temin ederek tanıklık ettiği hakkında yeterli delil veya emare elde ederse bir tutanak düzenler
+ve bu tutanağı derhâl Cumhuriyet başsavcılığına gönderir.
+(2) Hâkim, tanığın ve suçta ortakları varsa onların tutuklanmasına da karar verebilir ve
+kovuşturma yapılmak üzere Cumhuriyet başsavcılığına sevk eder.
+
+Tanığa ödenecek ücret ve giderler28
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,23 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 112"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 112
+commentaryStatus: "pending"
+---
+
+**Seçimlik dava**
+
+---
+
+MADDE 112- (1) Seçimlik borçlarda, seçim hakkı kendisine ait olan borçlu veya
+üçüncü kişinin bu hakkı kullanmaktan kaçınması hâlinde, alacaklı seçimlik dava açabilir.
+(2) Seçimlik davada mahkeme, talebin hukuka uygun olduğu sonucuna varırsa,
+seçimlik mahkûmiyet hükmü verir.
+(3) Seçimlik mahkûmiyet hükmünü cebrî icraya koyan alacaklı, takibinin konusunu,
+mahkûmiyet hükmünde yer alan edimlerden birine hasretmek zorundadır. Ancak, bu durum,
+borçlunun, diğer edimi ifa etmek suretiyle borcundan kurtulma hakkını ortadan kaldırmaz.
+Topluluk davası
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

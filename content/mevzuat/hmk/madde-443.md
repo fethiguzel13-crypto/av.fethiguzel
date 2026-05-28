@@ -1,0 +1,25 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 443"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 443
+commentaryStatus: "pending"
+---
+
+**Yargılamanın iadesi**
+
+---
+
+MADDE 443- (1) Yargılamanın iadesine ilişkin yukarıdaki Sekizinci Kısmın Üçüncü
+Bölümü hükümleri, niteliğine uygun düştüğü şekilde tahkime de uygulanır.
+(2) Tahkimde, yargılamanın iadesi sebeplerinden sadece 375 inci maddenin birinci
+fıkrasının (b), (c), (e), (f), (g), (h), (ı) ve (i) bentleri uygulanır. Yargılamanın iadesi davası
+mahkemede görülür.
+(3) Yargılamanın iadesi talebi kabul edilirse mahkeme, hakem kararını iptal eder ve
+
+uyuşmazlığı yeniden bir karar verilebilmesi için yeni hakeme veya hakem kuruluna gönderir.
+Bu durumda hakem veya hakem kurulu 421 inci maddeye göre yeniden seçilir veya oluşturulur.
+Uygulanmayacak hükümler
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

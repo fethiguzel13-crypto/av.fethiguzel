@@ -1,0 +1,23 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 295"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 295
+commentaryStatus: "pending"
+---
+
+**Hükmün müzakeresi**
+
+---
+
+MADDE 295- (1) Hüküm, gizli müzakere edilerek hazırlanır ve alenen tefhim olunur.
+(2) Hükmü, yargılamanın sona erdiğinin bildirildiği duruşmada hazır bulunan hâkim
+veya hâkimler verir. Bu şekilde hüküm verebilecek hâkimlerin tamamı hazır bulunmadıkça
+hüküm hakkında görüşme yapılamaz.
+(3) Hükmün müzakeresi sırasında, yargılamanın sona erdiğinin bildirildiği duruşmada
+hazır bulunan hâkim bulunmuyorsa, gerekli görüldüğü takdirde tarafların sözlü açıklamaları
+tekrar dinlendikten sonra müzakere edilir ve hüküm verilir.
+Hükmün oylanması ve yeter sayı
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

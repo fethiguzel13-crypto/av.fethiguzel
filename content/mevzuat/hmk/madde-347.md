@@ -1,0 +1,21 @@
+---
+title: "Hukuk Muhakemeleri Kanunu Madde 347"
+kanun: "Hukuk Muhakemeleri Kanunu"
+maddeNo: 347
+commentaryStatus: "pending"
+---
+
+**İstinaf dilekçesine cevap**
+
+---
+
+MADDE 347- (1) İstinaf dilekçesi, kararı veren mahkemece karşı tarafa tebliğ olunur.
+(2) Karşı taraf, tebliğden itibaren iki hafta içinde cevap dilekçesini kararı veren
+mahkemeye veya bu mahkemeye gönderilmek üzere başka bir yer mahkemesine verebilir.
+(3) Kararı veren mahkeme, dilekçeler verildikten veya bunun için belli süreler
+geçtikten sonra, dosyayı dizi listesine bağlı olarak ilgili bölge adliye mahkemesine gönderir.
+Katılma yolu ile başvurma
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
