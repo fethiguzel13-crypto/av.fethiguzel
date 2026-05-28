@@ -199,7 +199,110 @@ export const categories: Category[] = [
     startMadde: 247,
     endMadde: 345,
     icon: 'fa-solid fa-landmark-flag'
-  }
+  },
+  // ── Usul Hukuku ──────────────────────────────────────────────────────────
+  {
+    id: 'hmk',
+    slug: 'hmk',
+    name: 'Hukuk Muhakemeleri Kanunu',
+    description: 'Hukuk Muhakemeleri Kanunu (Madde 1-445)',
+    kanunId: 'hmk',
+    startMadde: 1,
+    endMadde: 500,
+    icon: 'fa-solid fa-gavel'
+  },
+  {
+    id: 'iik',
+    slug: 'iik',
+    name: 'İcra ve İflas Kanunu',
+    description: 'İcra ve İflas Kanunu (Madde 1-433)',
+    kanunId: 'iik',
+    startMadde: 1,
+    endMadde: 500,
+    icon: 'fa-solid fa-file-invoice-dollar'
+  },
+  {
+    id: 'cmk',
+    slug: 'cmk',
+    name: 'Ceza Muhakemesi Kanunu',
+    description: 'Ceza Muhakemesi Kanunu (Madde 1-332)',
+    kanunId: 'cmk',
+    startMadde: 1,
+    endMadde: 400,
+    icon: 'fa-solid fa-magnifying-glass'
+  },
+  // ── Vergi Hukuku ─────────────────────────────────────────────────────────
+  {
+    id: 'vuk',
+    slug: 'vuk',
+    name: 'Vergi Usul Kanunu',
+    description: 'Vergi Usul Kanunu (Madde 1-416)',
+    kanunId: 'vuk',
+    startMadde: 1,
+    endMadde: 500,
+    icon: 'fa-solid fa-receipt'
+  },
+  {
+    id: 'gvk',
+    slug: 'gvk',
+    name: 'Gelir Vergisi Kanunu',
+    description: 'Gelir Vergisi Kanunu (Madde 1-126)',
+    kanunId: 'gvk',
+    startMadde: 1,
+    endMadde: 200,
+    icon: 'fa-solid fa-coins'
+  },
+  {
+    id: 'kvk',
+    slug: 'kvk',
+    name: 'Kurumlar Vergisi Kanunu',
+    description: 'Kurumlar Vergisi Kanunu (Madde 1-40)',
+    kanunId: 'kvk',
+    startMadde: 1,
+    endMadde: 50,
+    icon: 'fa-solid fa-building-columns'
+  },
+  {
+    id: 'kdvk',
+    slug: 'kdvk',
+    name: 'Katma Değer Vergisi Kanunu',
+    description: 'KDV Kanunu (Madde 1-63)',
+    kanunId: 'kdvk',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-percent'
+  },
+  {
+    id: 'aatuhk',
+    slug: 'aatuhk',
+    name: 'Amme Alacakları Tahsil Usulü',
+    description: 'AATUHK (Madde 1-116)',
+    kanunId: 'aatuhk',
+    startMadde: 1,
+    endMadde: 200,
+    icon: 'fa-solid fa-hand-holding-dollar'
+  },
+  // ── İdare Hukuku ─────────────────────────────────────────────────────────
+  {
+    id: 'dmk',
+    slug: 'dmk',
+    name: 'Devlet Memurları Kanunu',
+    description: 'Devlet Memurları Kanunu (Madde 1-231)',
+    kanunId: 'dmk',
+    startMadde: 1,
+    endMadde: 300,
+    icon: 'fa-solid fa-user-tie'
+  },
+  {
+    id: 'kmk',
+    slug: 'kmk',
+    name: 'Kaçakçılıkla Mücadele Kanunu',
+    description: 'Kaçakçılıkla Mücadele Kanunu (Madde 1-27)',
+    kanunId: 'kmk',
+    startMadde: 1,
+    endMadde: 30,
+    icon: 'fa-solid fa-shield-halved'
+  },
 ];
 
 export function getCategoryBySlug(slug: string): Category | undefined {

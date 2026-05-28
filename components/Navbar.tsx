@@ -53,11 +53,39 @@ export default function Navbar() {
       name: 'Ceza Hukuku',
       href: '/mevzuat',
       dropdown: [
-        { name: 'Genel Hükümler', href: '/kategori/tck-genel' },
+        { name: 'Genel Hükümler (TCK)', href: '/kategori/tck-genel' },
         { name: 'Uluslararası Suçlar', href: '/kategori/tck-uluslararasi' },
         { name: 'Kişilere Karşı Suçlar', href: '/kategori/tck-kisiler' },
         { name: 'Topluma Karşı Suçlar', href: '/kategori/tck-toplum' },
         { name: 'Millete ve Devlete Karşı Suçlar', href: '/kategori/tck-devlet' },
+        { name: 'Ceza Muhakemesi (CMK)', href: '/kategori/cmk' },
+      ]
+    },
+    {
+      name: 'Usul Hukuku',
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Hukuk Muhakemeleri (HMK)', href: '/kategori/hmk' },
+        { name: 'İcra ve İflas (İİK)', href: '/kategori/iik' },
+      ]
+    },
+    {
+      name: 'Vergi Hukuku',
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Vergi Usul Kanunu', href: '/kategori/vuk' },
+        { name: 'Gelir Vergisi Kanunu', href: '/kategori/gvk' },
+        { name: 'Kurumlar Vergisi', href: '/kategori/kvk' },
+        { name: 'KDV Kanunu', href: '/kategori/kdvk' },
+        { name: 'Amme Alacakları (AATUHK)', href: '/kategori/aatuhk' },
+      ]
+    },
+    {
+      name: 'İdare Hukuku',
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Devlet Memurları (DMK)', href: '/kategori/dmk' },
+        { name: 'Kaçakçılıkla Mücadele', href: '/kategori/kmk' },
       ]
     },
     { name: 'Makalelerim', href: '/makaleler' },
