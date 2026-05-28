@@ -1,0 +1,41 @@
+---
+title: "Gelir Vergisi Kanunu Madde 113"
+kanun: "Gelir Vergisi Kanunu"
+maddeNo: 113
+commentaryStatus: "pending"
+---
+
+**Hasılat esaslı kazanç tespiti**
+
+---
+
+Madde 113 – (Yeniden Düzenleme:17/7/2019-7186/1 md.)
+Şehir içi yolcu taşımacılığı faaliyetinde bulunan ve bu faaliyetlerinden kaynaklanan
+hasılatlarının tamamını elektronik ücret toplama sistemleri aracılığıyla elde eden
+mükelleflerin talep etmeleri hâlinde söz konusu faaliyetlerinden elde ettikleri gayrisafi
+hasılatlarının (25/10/1984 tarihli ve 3065 sayılı Katma Değer Vergisi Kanununun 38 inci
+maddesi kapsamında hasılat esaslı vergilendirme usulüne göre vergilendirilen mükellefler için
+hesapladıkları katma değer vergisi dâhil tutarın) %10’u bu faaliyetlerine ilişkin vergiye tabi
+kazanç olarak esas alınır. Vergiye tabi kazancın bu suretle tespitinde ilgili faaliyete ilişkin
+giderler dikkate alınmaz ve bu kazanca herhangi bir indirim veya istisna uygulanmaz.
+Kazançları birinci fıkra kapsamında tespit edilenlerin;
+a) Bu faaliyetlerine ilişkin gider veya maliyetleri, vergiye tabi diğer kazanç veya
+iratlarının tespitinde dikkate alınmaz.
+b) Bu kazançları dışındaki beyana tabi diğer kazanç veya iratları hakkında bu madde
+hükümleri uygulanmaz.
+c) İki yıl geçmedikçe bu usulden çıkmaları mümkün değildir.
+4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 353 üncü maddesinin birinci ve
+ikinci fıkrası hükümleri uyarınca bir takvim yılı içinde iki kez ceza kesilen mükellefler,
+cezanın kesildiği ve takip eden iki takvim yılına ait kazançları için bu madde hükümlerinden
+yararlanamaz.
+Bu madde hükümleri kurumlar vergisi mükellefleri hakkında da uygulanır.
+Cumhurbaşkanı, birinci fıkrada yer alan oranı iki katına kadar artırmaya, yarısına
+kadar indirmeye, kanuni oranına getirmeye; Hazine ve Maliye Bakanlığı, maddenin
+uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.
+SEKİZİNCİ BÖLÜM
+Servet Beyanı
+Beyanda bulunacaklar:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
