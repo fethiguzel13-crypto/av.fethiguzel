@@ -1,0 +1,20 @@
+---
+title: "Amme Alacaklarının Tahsil Usulü Hakkında Kanun Madde 75"
+kanun: "Amme Alacaklarının Tahsil Usulü Hakkında Kanun"
+maddeNo: 75
+commentaryStatus: "pending"
+---
+
+**Aciz hali**
+
+---
+
+Madde 75 – Yapılan takip sonunda, borçlunun haczi caiz malı olmadığı veya bulunan
+malların satış bedeli borcunu karşılamadığı takdirde borçlu aciz halinde sayılır.
+Yapılan takip safhalariyle bakıye borç miktarı bir aciz fişinde gösterilerek aciz hali
+tesbit olunur.
+Aczin neticeleri:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
