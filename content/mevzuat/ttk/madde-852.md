@@ -1,16 +1,19 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1510
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma hukuku"
-  - "saklı tutulan hükümler"
-  - "deniz ticareti"
-  - "sivil havacılık"
-  - "posta kanunu"
-  - "demiryolu taşıması"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma hukuku
+  - saklı tutulan hükümler
+  - deniz ticareti
+  - sivil havacılık
+  - posta kanunu
+  - demiryolu taşıması
+maddeNo: 852
+title: TTK Madde 852
+kanun: Türk Ticaret Kanunu
 ---
 
 **C) Saklı tutulan hükümler

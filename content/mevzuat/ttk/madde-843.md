@@ -1,17 +1,20 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1545
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "kısmen geri alma"
-  - "misli eşya"
-  - "orantılı ödeme"
-  - "deponun sorumluluğu"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - kısmen geri alma
+  - misli eşya
+  - orantılı ödeme
+  - deponun sorumluluğu
+maddeNo: 843
+title: TTK Madde 843
+kanun: Türk Ticaret Kanunu
 ---
 
 **2.   Kısmen   geri   alma**

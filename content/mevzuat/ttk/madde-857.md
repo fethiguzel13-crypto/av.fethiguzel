@@ -1,15 +1,18 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1565
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma senedi"
-  - "senedin içeriği"
-  - "zorunlu kayıtlar"
-  - "tehlikeli mallar"
-  - "teslimde ödemeli"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma senedi
+  - senedin içeriği
+  - zorunlu kayıtlar
+  - tehlikeli mallar
+  - teslimde ödemeli
+maddeNo: 857
+title: TTK Madde 857
+kanun: Türk Ticaret Kanunu
 ---
 
 **II

@@ -1,16 +1,19 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1530
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma hukuku"
-  - "taşıyıcının sorumluluğu"
-  - "taşıma işleri komisyoncusu"
-  - "özel kanunlar"
-  - "sorumluluğun hafifletilmesi"
-  - "fiili taşıyıcı"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma hukuku
+  - taşıyıcının sorumluluğu
+  - taşıma işleri komisyoncusu
+  - özel kanunlar
+  - sorumluluğun hafifletilmesi
+  - fiili taşıyıcı
+maddeNo: 853
+title: TTK Madde 853
+kanun: Türk Ticaret Kanunu
 ---
 
 **II

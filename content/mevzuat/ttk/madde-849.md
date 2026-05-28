@@ -1,17 +1,20 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1590
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "senetlerin zıyaı"
-  - "ikinci nüsha alma"
-  - "mahkeme izni"
-  - "itiraz ve ödeme"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - senetlerin zıyaı
+  - ikinci nüsha alma
+  - mahkeme izni
+  - itiraz ve ödeme
+maddeNo: 849
+title: TTK Madde 849
+kanun: Türk Ticaret Kanunu
 ---
 
 **E) Senetlerin zıyaı**

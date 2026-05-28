@@ -1,17 +1,20 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1510
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "haciz yasağı"
-  - "el koyma"
-  - "rehin yasağı"
-  - "iflas ve miras"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - haciz yasağı
+  - el koyma
+  - rehin yasağı
+  - iflas ve miras
+maddeNo: 841
+title: TTK Madde 841
+kanun: Türk Ticaret Kanunu
 ---
 
 **C) Mallar üzerinde tasarruflar

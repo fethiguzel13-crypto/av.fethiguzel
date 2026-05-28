@@ -1,16 +1,19 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1545
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma hukuku"
-  - "sorumsuzluk anlaşması"
-  - "emredici kurallar"
-  - "genel işlem şartları"
-  - "tüketicinin korunması"
-  - "hükümsüzlük"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma hukuku
+  - sorumsuzluk anlaşması
+  - emredici kurallar
+  - genel işlem şartları
+  - tüketicinin korunması
+  - hükümsüzlük
+maddeNo: 854
+title: TTK Madde 854
+kanun: Türk Ticaret Kanunu
 ---
 
 **D) Sorumluluğun kaldırılmasına veya hafifletilmesine ait hükümlerin geçersizliği**

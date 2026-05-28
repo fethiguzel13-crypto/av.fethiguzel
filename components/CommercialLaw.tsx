@@ -3,7 +3,7 @@
 import React, { useEffect, useRef } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { ShieldCheck, Briefcase, FileSignature, TrendingUp, AlertTriangle, Scale, Landmark } from 'lucide-react';
+import { ShieldCheck, Briefcase, FileSignature, TrendingUp, AlertTriangle, Landmark, Scale, Truck, ShieldAlert, FileText, CheckCircle2 } from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -52,18 +52,64 @@ export default function CommercialLaw() {
               
               <div className="commercial-fade grid grid-cols-1 md:grid-cols-2 gap-6">
                 {[
-                  { title: "Şirketler Hukuku", icon: <Landmark size={18} />, desc: "Anonim ve limited şirket kurulumu, genel kurul yönetimi ve pay devir işlemlerinin mevzuata uygunluğu." },
-                  { title: "Kıymetli Evrak Yönetimi", icon: <FileSignature size={18} />, desc: "Çek, bono ve poliçelerin kanuni şekil şartları ve kambiyo hukukundan kaynaklanan alacak takipleri." },
-                  { title: "Ticari İşletme Hukuku", icon: <TrendingUp size={18} />, desc: "Ticari unvan, marka tescilleri, haksız rekabet davaları ve cari hesap mutabakatları." },
-                  { title: "Sözleşmeler ve Risk Analizi", icon: <ShieldCheck size={18} />, desc: "Ticari alım-satım, acentelik, bayilik ve lojistik sözleşmelerinin hazırlanması ve denetlenmesi." }
+                  { title: "Şirketler Hukuku", icon: <Landmark size={18} />, desc: "Anonim ve limited şirket kurulumu, genel kurul yönetimi, pay devirleri ve ortaklar arası sözleşmelerin mevzuata uygunluğu." },
+                  { title: "Kıymetli Evrak Yönetimi", icon: <FileSignature size={18} />, desc: "Çek, bono ve poliçelerin kanuni şekil şartları, ciro zinciri denetimi ve kambiyo hukukundan kaynaklanan alacak takipleri." },
+                  { title: "Ticari İşletme Hukuku", icon: <TrendingUp size={18} />, desc: "Ticari unvan, marka tescilleri, haksız rekabet davaları, cari hesap mutabakatları ve ticari işletme devri." },
+                  { title: "Sözleşmeler ve Risk Analizi", icon: <ShieldCheck size={18} />, desc: "Ticari alım-satım, acentelik, distribütörlük, franchise ve bayilik sözleşmelerinin hazırlanması ve denetlenmesi." },
+                  { title: "Taşıma ve Lojistik Hukuku", icon: <Truck size={18} />, desc: "Taşıma sözleşmeleri, taşıyıcının sorumluluk limitleri (TTK m. 875 vd.), CMR Konvansiyonu ve lojistik uyuşmazlıkları." },
+                  { title: "Sigorta Uyuşmazlıkları", icon: <ShieldAlert size={18} />, desc: "Ticari ve sınai sigorta poliçelerinin analizi, hasar tazminat süreçlerinin takibi ve halefiyet davaları." }
                 ].map((item, i) => (
                   <div key={i} className="p-6 bg-white border border-charcoal/5 rounded-[2rem] hover:shadow-xl transition-all duration-500">
                     <h4 className="text-charcoal font-bold mb-2 flex items-center gap-2 text-sm">
                       <div className="text-accent">{item.icon}</div> {item.title}
                     </h4>
-                    <p className="text-charcoal/50 text-[10px] leading-relaxed">{item.desc}</p>
+                    <p className="text-charcoal/50 text-xs leading-relaxed">{item.desc}</p>
                   </div>
                 ))}
+              </div>
+            </div>
+
+            <div className="space-y-10 pt-10 border-t border-charcoal/5">
+              <h3 className="commercial-fade text-2xl font-bold text-charcoal flex items-center gap-3">
+                <Scale className="text-accent" /> Ticari Davalarda İspat ve Yargılama
+              </h3>
+              
+              <div className="commercial-fade space-y-8">
+                <div className="flex gap-6 items-start">
+                  <div className="w-12 h-12 bg-accent/5 rounded-full flex items-center justify-center text-accent shrink-0">
+                    <FileText size={24} />
+                  </div>
+                  <div>
+                    <h4 className="text-charcoal font-bold text-lg mb-2">Ticari Defterlerin İbrazı ve Delil Niteliği</h4>
+                    <p className="text-charcoal/60 text-sm leading-relaxed">
+                      Türk Ticaret Kanunu uyarınca, ticari defterlerin kanuna uygun tutulması ve birbirini doğrulaması, ticari davalarda sahibi lehine mutlak bir delil niteliği kazanmasını sağlar. Defterlerdeki tek bir usul hatası ispat yükünü tersine çevirebilir.
+                    </p>
+                  </div>
+                </div>
+
+                <div className="flex gap-6 items-start">
+                  <div className="w-12 h-12 bg-accent/5 rounded-full flex items-center justify-center text-accent shrink-0">
+                    <Briefcase size={24} />
+                  </div>
+                  <div>
+                    <h4 className="text-charcoal font-bold text-lg mb-2">Arabuluculuk Dava Şartı</h4>
+                    <p className="text-charcoal/60 text-sm leading-relaxed">
+                      Ticari alacak ve tazminat davalarında doğrudan dava açılmadan önce arabulucuya başvurulması yasal bir dava şartıdır. Bu süreçteki müzakerelerin ve anlaşma protokollerinin hukuki hassasiyetle yönetilmesi gerekir.
+                    </p>
+                  </div>
+                </div>
+
+                <div className="flex gap-6 items-start">
+                  <div className="w-12 h-12 bg-accent/5 rounded-full flex items-center justify-center text-accent shrink-0">
+                    <CheckCircle2 size={24} />
+                  </div>
+                  <div>
+                    <h4 className="text-charcoal font-bold text-lg mb-2">Zamanaşımı ve Hak Düşürücü Süreler</h4>
+                    <p className="text-charcoal/60 text-sm leading-relaxed">
+                      Ticari uyuşmazlıklarda ve özellikle kıymetli evrakta (çekte 3 yıl, bonoda 3 yıl, taşıma işlerinde genellikle 1 yıl) zamanaşımı süreleri genel borçlar hukukuna göre oldukça kısadır. Sürelerin kaçırılması hakkın tamamen yitirilmesine neden olur.
+                    </p>
+                  </div>
+                </div>
               </div>
             </div>
 

@@ -1,15 +1,18 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1485
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma işleri"
-  - "arizi taşıma"
-  - "uygulama alanı"
-  - "hukuki sorumluluk"
-  - "tarafların sıfatı"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma işleri
+  - arizi taşıma
+  - uygulama alanı
+  - hukuki sorumluluk
+  - tarafların sıfatı
+maddeNo: 851
+title: TTK Madde 851
+kanun: Türk Ticaret Kanunu
 ---
 
 **B) Hükümlerin uygulama alanı**

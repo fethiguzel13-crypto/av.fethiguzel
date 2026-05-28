@@ -1,17 +1,20 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1515
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "sigorta bedeli"
-  - "ayni ikame"
-  - "subrogasyon"
-  - "hasar ve zıya"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - sigorta bedeli
+  - ayni ikame
+  - subrogasyon
+  - hasar ve zıya
+maddeNo: 847
+title: TTK Madde 847
+kanun: Türk Ticaret Kanunu
 ---
 
 **4. Sigorta**

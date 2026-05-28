@@ -1,15 +1,18 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1550
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma sözleşmesi"
-  - "taşıyıcı"
-  - "gönderen"
-  - "taşıma ücreti"
-  - "ticari işletme faaliyeti"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma sözleşmesi
+  - taşıyıcı
+  - gönderen
+  - taşıma ücreti
+  - ticari işletme faaliyeti
+maddeNo: 850
+title: TTK Madde 850
+kanun: Türk Ticaret Kanunu
 ---
 
 **Madde 850**

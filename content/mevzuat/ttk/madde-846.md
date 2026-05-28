@@ -1,18 +1,21 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1570
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "başvurma hakkı"
-  - "müracaat hakkı"
-  - "ihmalin sonuçları"
-  - "protesto"
-  - "ciranta sorumluluğu"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - başvurma hakkı
+  - müracaat hakkı
+  - ihmalin sonuçları
+  - protesto
+  - ciranta sorumluluğu
+maddeNo: 846
+title: TTK Madde 846
+kanun: Türk Ticaret Kanunu
 ---
 
 **3. Başvurma hakkı**

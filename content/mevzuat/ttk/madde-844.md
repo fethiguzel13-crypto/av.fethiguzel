@@ -1,17 +1,20 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1560
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "sattırma hakkı"
-  - "protesto"
-  - "rehnin paraya çevrilmesi"
-  - "iflas ve miras durumunda satış"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - sattırma hakkı
+  - protesto
+  - rehnin paraya çevrilmesi
+  - iflas ve miras durumunda satış
+maddeNo: 844
+title: TTK Madde 844
+kanun: Türk Ticaret Kanunu
 ---
 
 **III

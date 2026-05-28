@@ -1,18 +1,21 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1540
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "satış bedeli"
-  - "rüçhan sırası"
-  - "gümrük resmi"
-  - "mağaza ücreti"
-  - "bakiye tutar"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - satış bedeli
+  - rüçhan sırası
+  - gümrük resmi
+  - mağaza ücreti
+  - bakiye tutar
+maddeNo: 845
+title: TTK Madde 845
+kanun: Türk Ticaret Kanunu
 ---
 
 **2. Satış bedeli**

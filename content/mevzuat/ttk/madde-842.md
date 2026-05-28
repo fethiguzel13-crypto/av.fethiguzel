@@ -1,17 +1,20 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1530
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "malın geri alınması"
-  - "erken ödeme"
-  - "depoya bloke"
-  - "rehnin çözülmesi"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - malın geri alınması
+  - erken ödeme
+  - depoya bloke
+  - rehnin çözülmesi
+maddeNo: 842
+title: TTK Madde 842
+kanun: Türk Ticaret Kanunu
 ---
 
 **II

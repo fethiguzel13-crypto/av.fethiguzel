@@ -1,18 +1,21 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1535
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "zamanaşımı"
-  - "poliçe zamanaşımı"
-  - "başlama anı"
-  - "satış günü"
-  - "cirantaya müracaat"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - zamanaşımı
+  - poliçe zamanaşımı
+  - başlama anı
+  - satış günü
+  - cirantaya müracaat
+maddeNo: 848
+title: TTK Madde 848
+kanun: Türk Ticaret Kanunu
 ---
 
 **D) Zamanaşımı**

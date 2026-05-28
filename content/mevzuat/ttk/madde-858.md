@@ -1,16 +1,19 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1585
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma senedi"
-  - "ispat gücü"
-  - "yasal karineler"
-  - "çekince"
-  - "net ağırlık"
-  - "kontrol yükümlülüğü"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma senedi
+  - ispat gücü
+  - yasal karineler
+  - çekince
+  - net ağırlık
+  - kontrol yükümlülüğü
+maddeNo: 858
+title: TTK Madde 858
+kanun: Türk Ticaret Kanunu
 ---
 
 **III

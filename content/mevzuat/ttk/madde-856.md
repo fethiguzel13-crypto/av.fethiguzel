@@ -1,15 +1,18 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1530
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma senedi"
-  - "üç nüsha"
-  - "rızai sözleşme"
-  - "ispat vasıtası"
-  - "teslim karinesi"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma senedi
+  - üç nüsha
+  - rızai sözleşme
+  - ispat vasıtası
+  - teslim karinesi
+maddeNo: 856
+title: TTK Madde 856
+kanun: Türk Ticaret Kanunu
 ---
 
 **Madde 856**

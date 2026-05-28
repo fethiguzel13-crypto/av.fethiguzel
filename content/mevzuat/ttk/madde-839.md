@@ -1,16 +1,19 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1475
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "yalnız varantın cirosu"
-  - "mülkiyetin devri"
-  - "rehin hakkı"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - yalnız varantın cirosu
+  - mülkiyetin devri
+  - rehin hakkı
+maddeNo: 839
+title: TTK Madde 839
+kanun: Türk Ticaret Kanunu
 ---
 
 **2. Hükümleri**

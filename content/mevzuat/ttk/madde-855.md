@@ -1,16 +1,19 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1610
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "taşıma hukuku"
-  - "zamanaşımı"
-  - "yolcu ölümü ve yaralanması"
-  - "rücu zamanaşımı"
-  - "nitelikli kusur"
-  - "karayolları trafik kanunu"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - taşıma hukuku
+  - zamanaşımı
+  - yolcu ölümü ve yaralanması
+  - rücu zamanaşımı
+  - nitelikli kusur
+  - karayolları trafik kanunu
+maddeNo: 855
+title: TTK Madde 855
+kanun: Türk Ticaret Kanunu
 ---
 
 **E)   Zamanaşımı**

@@ -1,16 +1,19 @@
 ---
-commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
+commentaryStatus: completed
+lastReviewed: '2026-05-27'
 wordCount: 1490
 keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "kıymetli evrak"
-  - "makbuz senedi"
-  - "varant"
-  - "varantın ilk cirosu"
-  - "rehin kaydı"
-  - "faiz ve vade"
+  - ticaret kanunu
+  - türk ticaret kanunu
+  - kıymetli evrak
+  - makbuz senedi
+  - varant
+  - varantın ilk cirosu
+  - rehin kaydı
+  - faiz ve vade
+maddeNo: 840
+title: TTK Madde 840
+kanun: Türk Ticaret Kanunu
 ---
 
 **3. Varantın cirosu**
