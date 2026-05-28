@@ -22,7 +22,10 @@ function getOldSlug(parentSlug: string, subSlug: string): string | null {
       'ticari-isletme-hukuku': 'ticari-isletme',
       'sirketler-hukuku': 'ticari-sirketler',
       'kiymetli-evrak-hukuku': 'kiymetli-evrak',
+      'tasima-hukuku': 'tasima-hukuku',
+      'deniz-ticareti-hukuku': 'deniz-ticareti',
       'sigorta-hukuku': 'sigorta-hukuku',
+      'ttk-son-hukumler': 'ttk-son-hukumler',
     },
   };
   return mapping[parentSlug]?.[subSlug] ?? null;

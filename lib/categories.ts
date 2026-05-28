@@ -111,6 +111,26 @@ export const categories: Category[] = [
     icon: 'fa-solid fa-file-invoice-dollar'
   },
   {
+    id: 'tasima-hukuku',
+    slug: 'tasima-hukuku',
+    name: 'Taşıma Hukuku',
+    description: 'Türk Ticaret Kanunu (Madde 850-930)',
+    kanunId: 'ttk',
+    startMadde: 850,
+    endMadde: 930,
+    icon: 'fa-solid fa-truck-fast'
+  },
+  {
+    id: 'deniz-ticareti',
+    slug: 'deniz-ticareti',
+    name: 'Deniz Ticareti Hukuku',
+    description: 'Türk Ticaret Kanunu (Madde 931-1400)',
+    kanunId: 'ttk',
+    startMadde: 931,
+    endMadde: 1400,
+    icon: 'fa-solid fa-ship'
+  },
+  {
     id: 'sigorta-hukuku',
     slug: 'sigorta-hukuku',
     name: 'Sigorta Hukuku',
@@ -119,6 +139,16 @@ export const categories: Category[] = [
     startMadde: 1401,
     endMadde: 1520,
     icon: 'fa-solid fa-shield-halved'
+  },
+  {
+    id: 'ttk-son-hukumler',
+    slug: 'ttk-son-hukumler',
+    name: 'Yürürlük ve Son Hükümler',
+    description: 'Türk Ticaret Kanunu (Madde 1521-1535)',
+    kanunId: 'ttk',
+    startMadde: 1521,
+    endMadde: 1535,
+    icon: 'fa-solid fa-calendar-check'
   },
   {
     id: 'tck-genel',

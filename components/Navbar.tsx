@@ -43,7 +43,10 @@ export default function Navbar() {
         { name: 'Ticari İşletme Hukuku', href: '/kategori/ticari-isletme' },
         { name: 'Şirketler Hukuku', href: '/kategori/ticari-sirketler' },
         { name: 'Kıymetli Evrak Hukuku', href: '/kategori/kiymetli-evrak' },
+        { name: 'Taşıma Hukuku', href: '/kategori/tasima-hukuku' },
+        { name: 'Deniz Ticareti Hukuku', href: '/kategori/deniz-ticareti' },
         { name: 'Sigorta Hukuku', href: '/kategori/sigorta-hukuku' },
+        { name: 'Yürürlük ve Son Hükümler', href: '/kategori/ttk-son-hukumler' },
       ]
     },
     { name: 'Makalelerim', href: '/makaleler' },

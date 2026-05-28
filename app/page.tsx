@@ -6,6 +6,7 @@ import Protocol from "@/components/Protocol";
 import FamilyLaw from "@/components/FamilyLaw";
 import InsuranceLaw from "@/components/InsuranceLaw";
 import PropertyLaw from "@/components/PropertyLaw";
+import CommercialLaw from "@/components/CommercialLaw";
 import Articles from "@/components/Articles";
 import DailyNews from "@/components/DailyNews";
 import Footer from "@/components/Footer";
@@ -19,6 +20,7 @@ export default function Home() {
       <About />
       <Protocol />
       <FamilyLaw />
+      <CommercialLaw />
       <InsuranceLaw />
       <PropertyLaw />
       <DailyNews />
@@ -27,3 +29,4 @@ export default function Home() {
     </main>
   );
 }
+

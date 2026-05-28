@@ -152,6 +152,24 @@ export const lawCategories: LawCategory[] = [
         seoKeywords: ['kıymetli evrak', 'çek', 'bono', 'poliçe', 'kambiyo senetleri']
       },
       {
+        slug: 'tasima-hukuku',
+        name: 'Taşıma Hukuku',
+        description: 'Türk Ticaret Kanunu Taşıma Hukuku (Madde 850-930) – Taşıma sözleşmesi, taşıyıcının hak ve yükümlülükleri, gönderenin sorumluluğu ve zayi/hasar halleri.',
+        kanunId: 'ttk',
+        startMadde: 850,
+        endMadde: 930,
+        seoKeywords: ['taşıma hukuku', 'lojistik', 'taşıyıcının sorumluluğu', 'navlun', 'CMR']
+      },
+      {
+        slug: 'deniz-ticareti-hukuku',
+        name: 'Deniz Ticareti Hukuku',
+        description: 'Türk Ticaret Kanunu Deniz Ticareti Hukuku (Madde 931-1400) – Gemi, gemi sicili, mülkiyet, rehin hakları, donatan, kaptan, çarter sözleşmeleri ve deniz kazaları.',
+        kanunId: 'ttk',
+        startMadde: 931,
+        endMadde: 1400,
+        seoKeywords: ['deniz ticareti', 'gemi sicili', 'donatan', 'kaptan', 'çarter sözleşmesi', 'deniz kazası', 'avarya']
+      },
+      {
         slug: 'sigorta-hukuku',
         name: 'Sigorta Hukuku',
         description: 'Türk Ticaret Kanunu Sigorta Hukuku (Madde 1401-1520) – Sigorta sözleşmesi, hasar, tazminat, rücu ve sigorta türleri.',
@@ -159,6 +177,15 @@ export const lawCategories: LawCategory[] = [
         startMadde: 1401,
         endMadde: 1520,
         seoKeywords: ['sigorta hukuku', 'sigorta sözleşmesi', 'hasar tazminat', 'kasko', 'trafik sigortası']
+      },
+      {
+        slug: 'ttk-son-hukumler',
+        name: 'Yürürlük ve Son Hükümler',
+        description: 'Türk Ticaret Kanunu Yürürlük ve Son Hükümler (Madde 1521-1535) – Kanunun yürürlük tarihi, uygulama alanı ve geçiş hükümleri.',
+        kanunId: 'ttk',
+        startMadde: 1521,
+        endMadde: 1535,
+        seoKeywords: ['yürürlük', 'son hükümler', 'ttk yürürlük']
       },
     ]
   }
