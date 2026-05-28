@@ -1,0 +1,21 @@
+---
+title: "Ceza Muhakemesi Kanunu Madde 123"
+kanun: "Ceza Muhakemesi Kanunu"
+maddeNo: 123
+commentaryStatus: "pending"
+---
+
+**Eşya veya kazancın muhafaza altına alınması ve bunlara elkonulması**
+
+---
+
+Madde 123 – (1) İspat aracı olarak yararlı görülen ya da eşya veya kazanç
+müsaderesinin konusunu oluşturan malvarlığı değerleri, muhafaza altına alınır.
+(2) Yanında bulunduran kişinin rızasıyla teslim etmediği bu tür eşyaya elkonulabilir.
+(3) (Ek:27/12/2020-7262/19 md.) Muhafaza altına alınan veya elkonulan eşya ya da
+malvarlığı değerlerinin kıymeti tespit edilir.
+İstenen eşyayı vermeyenler hakkında yapılacak işlem
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

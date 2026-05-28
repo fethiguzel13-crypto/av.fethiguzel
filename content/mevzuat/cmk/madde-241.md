@@ -1,0 +1,19 @@
+---
+title: "Ceza Muhakemesi Kanunu Madde 241"
+kanun: "Ceza Muhakemesi Kanunu"
+maddeNo: 241
+commentaryStatus: "pending"
+---
+
+**Katılmadan önceki kararlara itiraz**
+
+---
+
+Madde 241 – (1) Katılmadan önce verilmiş olan kararlar katılana tebliğ edilmez.
+(2) Bu kararlara karşı kanun yoluna başvurabilmesi için Cumhuriyet savcısı için
+öngörülen sürenin geçmesiyle katılan da başvuru hakkını kaybeder.
+Katılanın kanun yoluna başvurması
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,25 @@
+---
+title: "Ceza Muhakemesi Kanunu Madde 125"
+kanun: "Ceza Muhakemesi Kanunu"
+maddeNo: 125
+commentaryStatus: "pending"
+---
+
+**İçeriği Devlet sırrı niteliğindeki belgelerin mahkemece incelenmesi**
+
+---
+
+Madde 125 – (1) Bir suç olgusuna ilişkin bilgileri içeren belgeler, Devlet sırrı olarak
+mahkemeye karşı gizli tutulamaz.
+(2) Devlet sırrı niteliğindeki bilgileri içeren belgeler, ancak mahkeme hâkimi veya
+heyeti tarafından incelenebilir. Bu belgelerde yer alan ve sadece yüklenen suçu açıklığa
+kavuşturabilecek nitelikte olan bilgiler, hâkim veya mahkeme başkanı tarafından tutanağa
+kaydettirilir.
+(3) Bu madde hükmü, hapis cezasının alt sınırı beş yıl veya daha fazla olan suçlarla
+
+ilgili olarak uygulanır.
+Elkonulamayacak mektuplar, belgeler
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

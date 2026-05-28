@@ -1,0 +1,23 @@
+---
+title: "Ceza Muhakemesi Kanunu Madde 277"
+kanun: "Ceza Muhakemesi Kanunu"
+maddeNo: 277
+commentaryStatus: "pending"
+---
+
+**İstinaf isteminin tebliği ve cevabı**
+
+---
+
+Madde 277 – (1) 276 ncı maddeye göre hükmü veren mahkemece reddedilmeyen
+istinaf dilekçesi veya beyana ilişkin tutanağın bir örneği karşı tarafa tebliğ olunur. Karşı taraf,
+tebliğ tarihinden itibaren iki hafta içinde yazılı olarak cevabını verebilir. 117
+(2) Karşı taraf sanık ise, bir tutanağa bağlanmak üzere zabıt kâtibine yapılacak bir
+beyanla da cevabını verebilir. Cevap verildikten veya bunun için belirli süre bittikten sonra
+dava dosyası, bölge adliye mahkemesine gönderilir.118
+(3) 262 ve 263 üncü madde hükümleri saklıdır.
+Dosyanın bölge adliye mahkemesinde tevzii119
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

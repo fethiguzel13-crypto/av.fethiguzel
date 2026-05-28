@@ -1,0 +1,23 @@
+---
+title: "Ceza Muhakemesi Kanunu Madde 24"
+kanun: "Ceza Muhakemesi Kanunu"
+maddeNo: 24
+commentaryStatus: "pending"
+---
+
+**Hâkimin reddi sebepleri ve ret isteminde bulunabilecekler**
+
+---
+
+Madde 24 – (1) Hâkimin davaya bakamayacağı hâllerde reddi istenebileceği gibi,
+tarafsızlığını şüpheye düşürecek diğer sebeplerden dolayı da reddi istenebilir.
+(2) Cumhuriyet savcısı; şüpheli, sanık veya bunların müdafii; katılan veya vekili,
+hâkimin reddi isteminde bulunabilirler.
+
+(3) Bunlardan herhangi biri istediği takdirde, karar veya hükme katılacak hâkimlerin
+isimleri kendisine bildirilir.
+Tarafsızlığını şüpheye düşürecek sebeplerden dolayı hâkimin reddi isteminin süresi
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,26 @@
+---
+title: "Ceza Muhakemesi Kanunu Madde 121"
+kanun: "Ceza Muhakemesi Kanunu"
+maddeNo: 121
+commentaryStatus: "pending"
+---
+
+**Arama sonunda verilecek belge**
+
+---
+
+Madde 121 – (1) Aramanın sonunda hakkında arama işlemi uygulanan kimseye istemi
+üzerine aramanın 116 ve 117 nci maddelere göre yapıldığını ve 116 ncı maddede gösterilen
+durumda soruşturma veya kovuşturma konusu fiilin niteliğini belirten bir belge ve istemi
+
+üzerine elkonulan veya koruma altına alınan eşyanın listesini içeren bir defter ve eğer şüpheyi
+haklı kılan bir şey elde edilmemiş ise bunu belirten bir belge verilir.
+(2) Birinci fıkrada belirtilen belgelerde, hakkında arama işlemi uygulanan kimsenin,
+elkonulan eşyanın mülkiyetine ilişkin görüş ve iddialarına da yer verilir.
+(3) Koruma altına alınan veya elkonulan eşyanın tam bir defteri yapılır ve bu eşya
+resmî mühürle mühürlenir veya bir işaret konulur.
+Belge veya kâğıtları inceleme yetkisi
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

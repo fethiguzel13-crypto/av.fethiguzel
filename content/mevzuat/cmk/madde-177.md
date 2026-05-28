@@ -1,0 +1,21 @@
+---
+title: "Ceza Muhakemesi Kanunu Madde 177"
+kanun: "Ceza Muhakemesi Kanunu"
+maddeNo: 177
+commentaryStatus: "pending"
+---
+
+**Sanığın savunma delillerinin toplanması istemi**
+
+---
+
+Madde 177 – (1) Sanık, tanık veya bilirkişinin davetini veya savunma delillerinin
+toplanmasını istediğinde, bunların ilişkin olduğu olayları göstermek suretiyle bu husustaki
+dilekçesini duruşma gününden en az beş gün önce mahkeme başkanına veya hâkime verir.
+(2) Bu dilekçe üzerine verilecek karar, kendisine derhâl bildirilir.
+(3) Sanığın kabul edilen istemleri, Cumhuriyet savcısına da bildirilir.
+Çağrılması reddedilen tanığın ve uzman kişinin doğrudan mahkemeye getirilmesi
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

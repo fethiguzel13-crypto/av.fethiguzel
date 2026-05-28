@@ -1,0 +1,22 @@
+---
+title: "Ceza Muhakemesi Kanunu Madde 55"
+kanun: "Ceza Muhakemesi Kanunu"
+maddeNo: 55
+commentaryStatus: "pending"
+---
+
+**Yeminin biçimi**
+
+---
+
+Madde 55 – (1) Tanığa verilecek yemin, tanıklıktan önce "Bildiğimi dosdoğru
+söyleyeceğime namusum ve vicdanım üzerine yemin ederim." ve 54 üncü maddeye göre
+
+tanıklıktan sonra verilmesi hâlinde "Bildiğimi dosdoğru söylediğime namusum ve vicdanım
+üzerine yemin ederim." biçiminde olur.
+(2) Yemin edilirken herkes ayağa kalkar.
+Yeminin yerine getirilmesi, sağır veya dilsizin yemini
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
