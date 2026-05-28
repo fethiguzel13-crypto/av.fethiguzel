@@ -1,0 +1,23 @@
+---
+title: "İcra ve İflas Kanunu Madde 105"
+kanun: "İcra ve İflas Kanunu"
+maddeNo: 105
+commentaryStatus: "pending"
+---
+
+**Borç ödemeden aciz vesikası**
+
+---
+
+Madde 105 – Haczi kabil mal bulunmazsa haciz tutanağı 143 üncü maddedeki aciz
+vesikası hükmündedir.
+İcraca takdir edilen kıymete göre haczi kabil malların kifayetsizliği anlaşıldığı surette
+dahi tutanak muvakkat aciz vesikası yerine geçerek alacaklıya 277 nci maddede yazılı hakları
+verir.
+III. PARAYA ÇEVİRME
+1 – Satış Talebi
+Talep için müddetler ve giderlerin yatırılması:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

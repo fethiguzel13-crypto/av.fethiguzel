@@ -1,0 +1,21 @@
+---
+title: "İcra ve İflas Kanunu Madde 274"
+kanun: "İcra ve İflas Kanunu"
+maddeNo: 274
+commentaryStatus: "pending"
+---
+
+**1 – Müddet ve şekli**
+
+---
+
+Madde 274 – (Değişik: 3/7/1940-3890/1 md.)
+İtiraz etmek isteyen kiracı itirazını tahliye emrinin tebliğinden itibaren yedi gün içinde
+dilekçe ile veya şifahen icra dairesine bildirir.
+Bu suretle yapılan itiraz tahliye takibini durdurur.
+63, 64 ve 65 inci maddeler hükmü tahliye takiplerinde de caridir.
+2 – İtirazın kaldırılması:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

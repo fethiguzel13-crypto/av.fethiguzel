@@ -1,0 +1,19 @@
+---
+title: "İcra ve İflas Kanunu Madde 187"
+kanun: "İcra ve İflas Kanunu"
+maddeNo: 187
+commentaryStatus: "pending"
+---
+
+**İptal davasına tabi haklar**
+
+---
+
+Madde 187 – 201 inci madde ile 277 den 284 üncüye kadar olan maddeler mucibince
+iptal davasına mevzu olabilecek bütün şeylerin masaya intikali için iflas idaresi lazımgelen
+davaları açar.
+Bedelinin tahsili için verilmiş emre veya hamiline muharrer senetler:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

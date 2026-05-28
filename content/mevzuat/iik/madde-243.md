@@ -1,0 +1,20 @@
+---
+title: "İcra ve İflas Kanunu Madde 243"
+kanun: "İcra ve İflas Kanunu"
+maddeNo: 243
+commentaryStatus: "pending"
+---
+
+**Artırma ve İhale**
+
+---
+
+Madde 243 – İflas idaresi tarafından artırma ile satılacak taşınır ve taşınmaz malların
+ihalesi 115 ve 129 uncu maddelerin 185 inci maddeye muhalif olmıyan hükümlerine göre
+yapılır.
+Taşınır satışlarında 242 nci madde hükmü tatbik olunur.77
+Artırma suretiyle satışın şartları:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

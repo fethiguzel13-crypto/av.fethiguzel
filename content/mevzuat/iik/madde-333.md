@@ -1,0 +1,24 @@
+---
+title: "İcra ve İflas Kanunu Madde 333"
+kanun: "İcra ve İflas Kanunu"
+maddeNo: 333
+commentaryStatus: "pending"
+---
+
+**İflas ve konkordato işlerinde hususi menfaat temin edenlerin cezası**
+
+---
+
+Madde 333 – (Değişik: 31/5/2005-5358/3 md.)
+Her kim iflas bürosu veya idaresinin yahut bir alacaklının veya alacaklılar
+toplanmasındaki mümessilinin reyini yahut konkordatoya muvafakatini kazanmak için ona
+hususi bir menfaat temin veya vaat ederse altı aydan iki seneye kadar hapis cezası ile
+cezalandırılır.
+Menfaat temin eden alacaklı yahut mümessili de aynı ceza ile cezalandırılır.
+Suçun iflas bürosu veya idaresi üyesi tarafından işlenmesi halinde, ceza yarı oranında
+artırılır.
+Ticari işletmede yöneticinin sorumluluğu:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,20 @@
+---
+title: "İcra ve İflas Kanunu Madde 98"
+kanun: "İcra ve İflas Kanunu"
+maddeNo: 98
+commentaryStatus: "pending"
+---
+
+**3 – Çalınmış ve zayi olmuş şeyler**
+
+---
+
+Madde 98 – Çalınmış ve zayi edilmiş şeyler hakkında Kanunu Medeninin 902,903 ve
+904 üncü maddeleri hükmü mahfuzdur.
+İcra dairesi tarafından pazarlık suretiyle yapılan satış Kanunu Medeninin 902 nci
+maddesinde mezkür resmi artırma hükmündedir.
+B – Üçüncü şahsın zilyetıği:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
