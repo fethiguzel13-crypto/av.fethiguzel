@@ -49,6 +49,17 @@ export default function Navbar() {
         { name: 'Yürürlük ve Son Hükümler', href: '/kategori/ttk-son-hukumler' },
       ]
     },
+    {
+      name: 'Ceza Hukuku',
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Genel Hükümler', href: '/kategori/tck-genel' },
+        { name: 'Uluslararası Suçlar', href: '/kategori/tck-uluslararasi' },
+        { name: 'Kişilere Karşı Suçlar', href: '/kategori/tck-kisiler' },
+        { name: 'Topluma Karşı Suçlar', href: '/kategori/tck-toplum' },
+        { name: 'Millete ve Devlete Karşı Suçlar', href: '/kategori/tck-devlet' },
+      ]
+    },
     { name: 'Makalelerim', href: '/makaleler' },
     { name: 'Eserlerim', href: '/eserlerim' },
   ];
