@@ -1,0 +1,18 @@
+---
+title: "Yabancılar ve Uluslararası Koruma Kanunu Madde 47"
+kanun: "Yabancılar ve Uluslararası Koruma Kanunu"
+maddeNo: 47
+commentaryStatus: "pending"
+---
+
+**İnsani ikamet izninin iptali veya uzatılmaması**
+
+---
+
+MADDE 47 – (1) İnsani ikamet izni Bakanlığın onayı alınmak kaydıyla, iznin
+verilmesini zorunlu kılan şartlar ortadan kalktığında valiliklerce iptal edilir ve uzatılmaz.
+İnsan ticareti mağduru ikamet izni
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

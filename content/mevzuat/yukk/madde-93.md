@@ -1,0 +1,23 @@
+---
+title: "Yabancılar ve Uluslararası Koruma Kanunu Madde 93"
+kanun: "Yabancılar ve Uluslararası Koruma Kanunu"
+maddeNo: 93
+commentaryStatus: "pending"
+---
+
+**Menşe ülke bilgisi**
+
+---
+
+MADDE 93 – (1) Uluslararası koruma başvuruları incelenirken, etkin ve adil karar
+verebilmek, başvuran tarafından iddia edilen hususların doğruluğunu tespit edebilmek
+amacıyla menşe, ikamet ve transit ülkelerle ilgili Birleşmiş Milletler Mülteciler Yüksek
+Komiserliği kaynakları ve diğer kaynaklardan güncel bilgi toplanır.
+(2) Menşe ülke bilgi sisteminin kurulması, bilgilerin toplanması, depolanması,
+sistemin işletilmesi, ilgili kamu kurum ve kuruluşlarının kullanımına açılması Genel
+Müdürlükçe belirlenecek usul ve esaslar çerçevesinde yapılır.
+Gizlilik ilkesi ve kişisel dosyaya erişim
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
