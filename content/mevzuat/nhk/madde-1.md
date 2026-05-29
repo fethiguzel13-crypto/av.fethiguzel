@@ -1,0 +1,21 @@
+---
+title: "Nüfus Hizmetleri Kanunu Madde 1"
+kanun: "Nüfus Hizmetleri Kanunu"
+maddeNo: 1
+commentaryStatus: "pending"
+---
+
+**Amaç**
+
+---
+
+MADDE 1- (1) Bu Kanunun amacı; kişinin doğumundan ölümüne kadar kişisel ve
+medenî durumuna, uyrukluğuna ve bunlarda meydana gelebilecek değişikliklere ait doğal ve
+hukukî olayların belirlenip saptanması, bu amaçla düzenlenmiş kütüklere yazılması, elektronik
+ortamda ulusal adres veri tabanının oluşturulması, nüfus kayıtları ile adres bilgilerinin
+ilişkilendirilmesini sağlamaktır.
+Kapsam
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
