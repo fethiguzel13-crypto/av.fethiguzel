@@ -1,0 +1,23 @@
+---
+title: "Belediye Kanunu Madde 74"
+kanun: "Belediye Kanunu"
+maddeNo: 74
+commentaryStatus: "pending"
+---
+
+**Yurt dışı ilişkileri**
+
+---
+
+Madde 74- Belediye, belediye meclisinin kararına bağlı olarak görev alanıyla ilgili
+konularda faaliyet gösteren uluslararası teşekkül ve organizasyonlara, kurucu üye veya üye olabilir.
+Belediye bu teşekkül, organizasyon ve yabancı mahallî idarelerle ortak faaliyet ve
+hizmet projeleri gerçekleştirebilir veya kardeş kent ilişkisi kurabilir.
+Birinci ve ikinci fıkra gereğince yapılacak faaliyetlerin, dış politikaya ve uluslararası
+anlaşmalara uygun olarak yürütülmesi ve önceden Çevre ve Şehircilik Bakanlığının izninin
+alınması zorunludur.48
+Diğer kuruluşlarla ilişkiler
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

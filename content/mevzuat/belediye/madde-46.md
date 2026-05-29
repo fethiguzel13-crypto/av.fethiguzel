@@ -1,0 +1,25 @@
+---
+title: "Belediye Kanunu Madde 46"
+kanun: "Belediye Kanunu"
+maddeNo: 46
+commentaryStatus: "pending"
+---
+
+**Belediye başkanı görevlendirilmesi**
+
+---
+
+Madde 46- Belediye başkanlığının herhangi bir nedenle boşalması ve yeni belediye
+
+
+başkanı veya başkan vekili seçiminin yapılamaması durumunda, seçim yapılıncaya kadar
+belediye başkanlığına büyükşehir ve il belediyelerinde İçişleri Bakanı, diğer belediyelerde
+vali tarafından görevlendirme yapılır. Görevlendirilecek kişinin belediye başkanı seçilme
+yeterliğine sahip olması şarttır.
+DÖRDÜNCÜ BÖLÜM
+Organlara İlişkin Ortak Hükümler
+Görevden uzaklaştırma
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
