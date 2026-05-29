@@ -28,13 +28,17 @@ export default function DailyNewsCards({ highlights }: { highlights: DailyItem[]
   useEffect(() => {
     if (!containerRef.current) return;
     const ctx = gsap.context(() => {
-      gsap.from('.daily-card', {
-        scrollTrigger: { trigger: containerRef.current, start: 'top 80%' },
-        y: 30,
-        opacity: 0,
-        stagger: 0.1,
-        duration: 1,
-        ease: 'power3.out'
+      // Animasyon yalnızca masaüstünde; mobilde içerik her zaman görünür kalır
+      const mm = gsap.matchMedia();
+      mm.add('(min-width: 768px)', () => {
+        gsap.from('.daily-card', {
+          scrollTrigger: { trigger: containerRef.current, start: 'top 85%', once: true },
+          y: 30,
+          opacity: 0,
+          stagger: 0.1,
+          duration: 1,
+          ease: 'power3.out'
+        });
       });
     }, containerRef);
     return () => ctx.revert();

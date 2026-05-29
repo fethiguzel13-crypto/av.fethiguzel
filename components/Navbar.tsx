@@ -228,7 +228,7 @@ export default function Navbar() {
 
       {/* Mobile panel */}
       {mobileOpen && (
-        <div className="absolute top-full left-0 right-0 mt-3 glass rounded-[2rem] p-6 lg:hidden max-h-[82vh] overflow-y-auto flex flex-col gap-1">
+        <div className="absolute top-full left-0 right-0 mt-3 bg-cream rounded-[2rem] p-6 lg:hidden max-h-[82vh] overflow-y-auto flex flex-col gap-1 z-[9999] shadow-2xl border border-charcoal/10">
           {simpleLinks.map(item => (
             <Link
               key={item.name}
