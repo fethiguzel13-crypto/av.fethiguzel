@@ -1,0 +1,20 @@
+---
+title: "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun Madde 12"
+kanun: "Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanun"
+maddeNo: 12
+commentaryStatus: "pending"
+---
+
+**Teknik yöntemlerle takip**
+
+---
+
+MADDE 12 – (1) Bu Kanun hükümlerine göre verilen tedbir kararlarının
+uygulanmasında hâkim kararı ile teknik araç ve yöntemler kullanılabilir. Ancak, bu suretle,
+kişilerin ses ve görüntüleri dinlenemez, izlenemez ve kayda alınamaz.
+(2) Teknik araç ve yöntemlerle takibe ilişkin usul ve esaslar yönetmelikle düzenlenir.
+Tedbir kararlarına aykırılık
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
