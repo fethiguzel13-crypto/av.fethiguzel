@@ -1,0 +1,23 @@
+---
+title: "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu Madde 7"
+kanun: "Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu"
+maddeNo: 7
+commentaryStatus: "pending"
+---
+
+**Ücret ve masrafların istenmesi**
+
+---
+
+MADDE 7 – (1) Arabulucu yapmış olduğu faaliyet karşılığı ücret ve masrafları isteme
+hakkına sahiptir. Arabulucu, ücret ve masraflar için avans da talep edebilir.
+(2) Aksi kararlaştırılmadıkça arabulucunun ücreti, faaliyetin sona erdiği tarihte
+yürürlükte bulunan Arabulucu Asgari Ücret Tarifesine göre belirlenir ve ücret ile masraf
+taraflarca eşit olarak karşılanır.
+(3) Arabulucu, arabuluculuk sürecine ilişkin olarak belirli kişiler için aracılık yapma veya
+belirli kişileri tavsiye etmenin karşılığı olarak ücret alamaz. Bu yasağa aykırı işlemler batıldır.
+Taraflarla görüşme ve iletişim kurulması
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
