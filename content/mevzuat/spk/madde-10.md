@@ -1,0 +1,24 @@
+---
+title: "Sermaye Piyasası Kanunu Madde 10"
+kanun: "Sermaye Piyasası Kanunu"
+maddeNo: 10
+commentaryStatus: "pending"
+---
+
+**İzahnameden sorumlu kişiler**
+
+---
+
+MADDE 10 – (1) İzahnamede yer alan yanlış, yanıltıcı ve eksik bilgilerden
+kaynaklanan zararlardan ihraççılar sorumludur. Zararın söz konusu kişilerden tazmin
+edilememesi veya edilemeyeceğinin açıkça belli olması hâlinde; halka arz edenler, ihraca
+aracılık eden lider aracı kurum, varsa garantör ve ihraççının yönetim kurulu üyeleri kusurlarına
+ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde sorumludur.
+(2) Bağımsız denetim, derecelendirme ve değerleme kuruluşları gibi izahnamede yer
+almak üzere hazırlanan raporları hazırlayan kişi ve kurumlar da hazırladıkları raporlarda yer
+alan yanlış, yanıltıcı ve eksik bilgilerden bu Kanun hükümleri çerçevesinde sorumludur.
+Sermaye piyasası araçlarının halka arz edilmeksizin ihracı
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

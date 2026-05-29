@@ -1,0 +1,23 @@
+---
+title: "Sermaye Piyasası Kanunu Madde 98"
+kanun: "Sermaye Piyasası Kanunu"
+maddeNo: 98
+commentaryStatus: "pending"
+---
+
+**Tedricî tasfiye ve iflas durumlarında uygulanacak tedbirler**
+
+---
+
+MADDE 98 – (1) Kurul, sermaye piyasası kurumlarının iflası veya 86 ncı madde
+uyarınca tedricî tasfiyeye girmesi durumlarında, 97 nci madde uyarınca sorumlulukları tespit
+edilmiş bulunmak kaydıyla; doğrudan veya dolaylı yüzde onundan fazla paya sahip ortaklarının,
+görevden ayrılmış olan veya görevde bulunan, yönetim kurulu üyelerinin ve imzaya yetkili
+yöneticilerinin, portföy yönetim şirketi yöneticilerinin ve konut finansmanı fonları ile varlık
+finansmanı fonlarının fon kurulu üyelerinin şahsen iflaslarını istemeye yetkilidir.
+
+İzinsiz sermaye piyasası faaliyetinde uygulanacak tedbirler
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
