@@ -1,0 +1,19 @@
+---
+title: "Kat Mülkiyeti Kanunu Madde 53"
+kanun: "Kat Mülkiyeti Kanunu"
+maddeNo: 53
+commentaryStatus: "pending"
+---
+
+**III - Medeni Kanuna göre kurulmuş kat irtifaklarının yönetimi**
+
+---
+
+Madde 53 – Bu Kanun yürürlüğe girdiği tarihten önce bir gayrimenkulün paydaşlarından birinin o gayrimenkulün bir bölümünden kat maliki gibi tek başına faydalanmasını
+sağlamak için kurulmuş olan irtifak hakları, bu Kanuna göre kat mülkiyetine çevrilinceye kadar anagayrimenkulün yönetimi, yönetim planı yapılması mecburiyeti ve giderlere ve sigorta
+mecburiyetine ve bunun primlerine katılma hususlarında bu kanun hükümleri uygulanır.
+C) Özel kanuna göre ortaklaştırma (Şüyulandırma) halinde kat mülkiyetinin durumu:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
