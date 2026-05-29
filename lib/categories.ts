@@ -406,6 +406,68 @@ export const categories: Category[] = [
     endMadde: 200,
     icon: 'fa-solid fa-car'
   },
+  // ── Aile & Kişiler ───────────────────────────────────────────────────────
+  {
+    id: 'aile-koruma',
+    slug: 'aile-koruma',
+    name: 'Ailenin Korunması Kanunu',
+    description: 'Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesi (Madde 1-25)',
+    kanunId: 'aile-koruma',
+    startMadde: 1,
+    endMadde: 30,
+    icon: 'fa-solid fa-house-chimney-crack'
+  },
+  {
+    id: 'cck',
+    slug: 'cck',
+    name: 'Çocuk Koruma Kanunu',
+    description: 'Çocuk Koruma Kanunu (Madde 1-57)',
+    kanunId: 'cck',
+    startMadde: 1,
+    endMadde: 70,
+    icon: 'fa-solid fa-child-reaching'
+  },
+  {
+    id: 'katmulkiyeti',
+    slug: 'katmulkiyeti',
+    name: 'Kat Mülkiyeti Kanunu',
+    description: 'Kat Mülkiyeti Kanunu (Madde 1-75)',
+    kanunId: 'katmulkiyeti',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-building'
+  },
+  // ── Vatandaşlık & Yabancılar ─────────────────────────────────────────────
+  {
+    id: 'tvk',
+    slug: 'tvk',
+    name: 'Türk Vatandaşlığı Kanunu',
+    description: 'Türk Vatandaşlığı Kanunu (Madde 1-48)',
+    kanunId: 'tvk',
+    startMadde: 1,
+    endMadde: 60,
+    icon: 'fa-solid fa-passport'
+  },
+  {
+    id: 'nhk',
+    slug: 'nhk',
+    name: 'Nüfus Hizmetleri Kanunu',
+    description: 'Nüfus Hizmetleri Kanunu (Madde 1-77)',
+    kanunId: 'nhk',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-id-card'
+  },
+  {
+    id: 'yukk',
+    slug: 'yukk',
+    name: 'Yabancılar ve Uluslararası Koruma Kanunu',
+    description: 'YUKK (Madde 1-123)',
+    kanunId: 'yukk',
+    startMadde: 1,
+    endMadde: 150,
+    icon: 'fa-solid fa-earth-europe'
+  },
 ];
 
 export function getCategoryBySlug(slug: string): Category | undefined {

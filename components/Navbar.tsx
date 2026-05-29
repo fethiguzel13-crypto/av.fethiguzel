@@ -24,8 +24,10 @@ export default function Navbar() {
         { name: 'Başlangıç Hükümleri', href: '/kategori/tmk-baslangic' },
         { name: 'Kişiler Hukuku', href: '/kategori/kisiler-hukuku' },
         { name: 'Aile Hukuku', href: '/kategori/aile-hukuku' },
+        { name: 'Ailenin Korunması', href: '/kategori/aile-koruma' },
         { name: 'Miras Hukuku', href: '/kategori/miras-hukuku' },
         { name: 'Eşya Hukuku', href: '/kategori/esya-hukuku' },
+        { name: 'Kat Mülkiyeti Kanunu', href: '/kategori/katmulkiyeti' },
       ]
     },
     { 
@@ -61,6 +63,7 @@ export default function Navbar() {
         { name: 'Topluma Karşı Suçlar', href: '/kategori/tck-toplum' },
         { name: 'Millete ve Devlete Karşı Suçlar', href: '/kategori/tck-devlet' },
         { name: 'Ceza Muhakemesi (CMK)', href: '/kategori/cmk' },
+        { name: 'Çocuk Koruma Kanunu', href: '/kategori/cck' },
       ]
     },
     {
@@ -103,11 +106,13 @@ export default function Navbar() {
       href: '/mevzuat',
       dropdown: [
         { name: 'Devlet Memurları (DMK)', href: '/kategori/dmk' },
-        { name: 'Kaçakçılıkla Mücadele', href: '/kategori/kmk' },
         { name: 'İmar Kanunu', href: '/kategori/imar' },
         { name: 'Dernekler Kanunu', href: '/kategori/dernekler' },
         { name: 'Vakıflar Kanunu', href: '/kategori/vakiflar' },
         { name: 'Karayolları Trafik Kanunu', href: '/kategori/ktk' },
+        { name: 'Türk Vatandaşlığı Kanunu', href: '/kategori/tvk' },
+        { name: 'Nüfus Hizmetleri Kanunu', href: '/kategori/nhk' },
+        { name: 'Yabancılar ve Uluslararası Koruma', href: '/kategori/yukk' },
       ]
     },
     { name: 'Makalelerim', href: '/makaleler' },
