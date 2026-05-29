@@ -1,0 +1,20 @@
+---
+title: "İş Kanunu Madde 50"
+kanun: "İş Kanunu"
+maddeNo: 50
+commentaryStatus: "pending"
+---
+
+**Tatil ücretine girmeyen kısımlar**
+
+---
+
+Madde 50 - Fazla çalışma karşılığı olarak alınan ücretler, primler, işyerinin temelli
+işçisi olarak normal çalışma saatleri dışında hazırlama, tamamlama, temizleme işlerinde
+çalışan işçilerin bu işler için aldıkları ücretler ve sosyal yardımlar, ulusal bayram, hafta tatili
+ve genel tatil günleri için verilen ücretlerin tespitinde hesaba katılmaz.
+Yüzdelerin ödenmesi
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

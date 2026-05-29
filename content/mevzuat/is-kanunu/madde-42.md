@@ -1,0 +1,23 @@
+---
+title: "İş Kanunu Madde 42"
+kanun: "İş Kanunu"
+maddeNo: 42
+commentaryStatus: "pending"
+---
+
+**Zorunlu nedenlerle fazla çalışma**
+
+---
+
+Madde 42 - Gerek bir arıza sırasında, gerek bir arızanın mümkün görülmesi halinde
+yahut makineler veya araç ve gereç için hemen yapılması gerekli acele işlerde, yahut zorlayıcı
+sebeplerin ortaya çıkmasında, işyerinin normal çalışmasını sağlayacak dereceyi aşmamak
+koşulu ile işçilerin hepsi veya bir kısmına fazla çalışma yaptırılabilir. Bu durumda fazla
+çalışma yapan işçilere uygun bir dinlenme süresi verilmesi zorunludur.
+Şu kadar ki, zorunlu sebeplerle yapılan fazla çalışmalar için 41 inci maddenin birinci,
+ikinci ve üçüncü fıkraları hükümleri uygulanır.
+Olağanüstü hallerde fazla çalışma
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
