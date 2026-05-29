@@ -1,0 +1,21 @@
+---
+title: "Dernekler Kanunu Madde 24"
+kanun: "Dernekler Kanunu"
+maddeNo: 24
+commentaryStatus: "pending"
+---
+
+**Temsilcilik**
+
+---
+
+Madde 24- Dernekler, gerekli gördükleri yerlerde dernek faaliyetlerini yürütmek
+amacıyla temsilcilik açabilirler. Temsilcilikler, şube veya dernek genel kurullarında temsil
+edilmezler. Şubeler temsilcilik açamazlar. Temsilciliğin adresi, yönetim kurulu kararıyla
+temsilci olarak görevlendirilen kişi veya kişiler tarafından o yerin mülkî idare amirliğine
+yazılı olarak bildirilir.
+Plâtform oluşturma
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

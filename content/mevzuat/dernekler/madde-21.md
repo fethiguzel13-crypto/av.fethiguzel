@@ -1,0 +1,22 @@
+---
+title: "Dernekler Kanunu Madde 21"
+kanun: "Dernekler Kanunu"
+maddeNo: 21
+commentaryStatus: "pending"
+---
+
+**Yurt dışı yardımlar6**
+
+---
+
+Madde 21- Dernekler mülkî idare amirliğine önceden bildirimde bulunmak şartıyla yurt
+dışındaki kişi, kurum ve kuruluşlardan aynî ve nakdî yardım alabilirler. Bildirimin şekli ve
+içeriği yönetmelikte düzenlenir. Nakdî yardımların bankalar aracılığıyla alınması zorunludur.
+(Ek fıkra:27/12/2020-7262/14 md.) Yurt dışına yapılacak yardımlar ise, yardım
+yapılmadan önce dernekler tarafından mülki idare amirliğine bildirilir. Bildirimin şekli ve
+içeriği ile yurt dışına yapılacak yardımlara ilişkin usul ve esaslar yönetmelikte düzenlenir.
+Taşınmaz mal edinme
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

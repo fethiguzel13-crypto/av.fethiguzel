@@ -1,0 +1,21 @@
+---
+title: "Dernekler Kanunu Madde 37"
+kanun: "Dernekler Kanunu"
+maddeNo: 37
+commentaryStatus: "pending"
+---
+
+**Yönetmelik**
+
+---
+
+Madde 37- Bu Kanunun ilgili maddelerinde düzenlenmesi öngörülen yönetmelikler
+İçişleri Bakanlığınca, kulüp adını alan derneklerle ilgili yönetmelik ise Gençlik ve Spor Genel
+Müdürlüğünün bağlı olduğu Bakanlıkça en geç altı ay içinde Resmi Gazetede yayımlanarak
+yürürlüğe konulur. Bu yönetmelikler çıkarılıncaya kadar mevcut yönetmeliklerin bu Kanuna
+aykırı olmayan hükümlerinin uygulanmasına devam olunur.
+Değiştirilen ve yürürlükten kaldırılan hükümler
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

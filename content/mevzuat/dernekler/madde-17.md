@@ -1,0 +1,20 @@
+---
+title: "Dernekler Kanunu Madde 17"
+kanun: "Dernekler Kanunu"
+maddeNo: 17
+commentaryStatus: "pending"
+---
+
+**Hata ve noksanlıkların giderilmesi**
+
+---
+
+Madde 17- Derneklerin iş ve işlemlerinde, bu Kanun ve 4721 sayılı Türk Medenî
+Kanunu ile bunlara dayanılarak çıkarılan yönetmeliklerin hükümlerine aykırılık tespit
+edilmesi halinde, konusu suç teşkil etmeyen hata ve noksanlıkların mülkî idare amirinin yazılı
+istemi üzerine, ilgili dernek tarafından otuz gün içerisinde giderilmesi zorunludur.
+Yargılama usulü
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
