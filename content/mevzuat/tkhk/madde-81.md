@@ -1,0 +1,22 @@
+---
+title: "Tüketicinin Korunması Hakkında Kanun Madde 81"
+kanun: "Tüketicinin Korunması Hakkında Kanun"
+maddeNo: 81
+commentaryStatus: "pending"
+---
+
+**Test, muayene ve analizler**
+
+---
+
+MADDE 81- (1) Bakanlık, bu Kanunun uygulaması için resmi veya özel kuruluşların
+laboratuvarlarından yararlanabilir. Test ve muayene ücretleri Bakanlık bütçesinden karşılanır.
+(2) Test ve muayene sonuçlarının ilgili idari ve teknik düzenlemesine aykırı çıkması
+hâlinde buna ilişkin tüm giderler üretici veya ithalatçıdan Amme Alacaklarının Tahsil Usulü
+Hakkında Kanun hükümlerine göre tahsil olunur. Tahsil olunan test ve muayene ücretleri
+bütçeye gelir kaydedilir.
+Ödenek
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -1,0 +1,24 @@
+---
+title: "Tüketicinin Korunması Hakkında Kanun Madde 84"
+kanun: "Tüketicinin Korunması Hakkında Kanun"
+maddeNo: 84
+commentaryStatus: "pending"
+---
+
+**Yönetmelikler ve diğer düzenleyici işlemler**
+
+---
+
+MADDE 84- (1) Bakanlık, bu Kanunun uygulanmasıyla ilgili olarak mevzuat
+çerçevesinde gerekli tedbirleri almaya ve düzenlemeleri yapmaya yetkilidir.
+(2) Bu Kanunda öngörülen yönetmelikler, Kanunun yürürlüğe girdiği tarihten itibaren
+altı ay içinde Bakanlık tarafından çıkarılır.
+(3) Bakanlıkça çıkarılacak ikincil düzenlemelerde ilgili kamu kurum ve kuruluşlarının,
+kamu kurumu niteliğindeki meslek kuruluşlarının, sivil toplum kuruluşlarının ve meslek
+örgütlerinin görüşleri alınır.
+
+Kadro ihdası28
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
