@@ -38,6 +38,7 @@ function Card({ id, icon, title, tag, children }: {
   const TAG_COLORS: Record<string, string> = {
     "İş Hukuku": "bg-blue-50 text-blue-700",
     "Aile Hukuku": "bg-pink-50 text-pink-700",
+    "Miras Hukuku": "bg-indigo-50 text-indigo-700",
     "Alacak": "bg-orange-50 text-orange-700",
     "Gayrimenkul": "bg-green-50 text-green-700",
     "Dava Masrafı": "bg-purple-50 text-purple-700",
@@ -1323,9 +1324,197 @@ function DavaRiskAnalizi() {
   );
 }
 
+// ─── 19. MİRAS PAYLAŞIMI (TMK Zümre Sistemi) ─────────────────────────────────
+// Yasal mirasçılık — TMK md.495-501 ve sağ kalan eşin payı md.499
+
+type Frac = { n: number; d: number };
+function fgcd(a: number, b: number): number { a = Math.abs(a); b = Math.abs(b); return b ? fgcd(b, a % b) : a || 1; }
+function fr(n: number, d: number): Frac { if (d < 0) { n = -n; d = -d; } const g = fgcd(n, d); return { n: n / g, d: d / g }; }
+function fmul(a: Frac, b: Frac): Frac { return fr(a.n * b.n, a.d * b.d); }
+function fsub(a: Frac, b: Frac): Frac { return fr(a.n * b.d - b.n * a.d, a.d * b.d); }
+function fdiv(a: Frac, k: number): Frac { return fr(a.n, a.d * k); }
+function fval(a: Frac): number { return a.n / a.d; }
+function fstr(a: Frac): string { if (a.n === 0) return "0"; if (a.d === 1) return `${a.n}`; return `${a.n}/${a.d}`; }
+
+function MirasPaylasimi() {
+  const [tereke, setTereke] = useState("3000000");
+  const [esVar, setEsVar] = useState<"evet" | "hayir">("evet");
+
+  // 1. Zümre — altsoy
+  const [yasayanCocuk, setYasayanCocuk] = useState("2");
+  const [olenCocukDal, setOlenCocukDal] = useState("0");
+
+  // 2. Zümre — ana/baba ve altsoyu (yalnız altsoy yoksa)
+  const [anneSag, setAnneSag] = useState<"evet" | "hayir">("evet");
+  const [babaSag, setBabaSag] = useState<"evet" | "hayir">("evet");
+  const [kardesSayisi, setKardesSayisi] = useState("0");
+
+  // 3. Zümre — büyük ana-baba (yalnız 1. ve 2. zümre yoksa)
+  const [buyukSayisi, setBuyukSayisi] = useState("0");
+
+  const cocukDal = (parseInt(yasayanCocuk) || 0) + (parseInt(olenCocukDal) || 0);
+  const z1 = cocukDal > 0;
+  const z2 = !z1 && (anneSag === "evet" || babaSag === "evet" || (parseInt(kardesSayisi) || 0) > 0);
+  const z3 = !z1 && !z2 && (parseInt(buyukSayisi) || 0) > 0;
+
+  const result = useMemo(() => {
+    const T = parseFloat(tereke.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const es = esVar === "evet";
+    const rows: { ad: string; pay: Frac }[] = [];
+
+    // Eş payı (TMK 499)
+    let esPay: Frac = fr(0, 1);
+    if (z1) esPay = fr(1, 4);
+    else if (z2) esPay = fr(1, 2);
+    else if (z3) esPay = fr(3, 4);
+    else esPay = fr(1, 1); // hiç kan hısmı yoksa eş tamamını alır
+    if (!es) esPay = fr(0, 1);
+
+    if (es) rows.push({ ad: "Sağ Kalan Eş", pay: esPay });
+
+    const kalan: Frac = fsub(fr(1, 1), esPay);
+
+    if (z1) {
+      const yc = parseInt(yasayanCocuk) || 0;
+      const oc = parseInt(olenCocukDal) || 0;
+      const dalPay = fdiv(kalan, cocukDal);
+      if (yc > 0) {
+        for (let i = 1; i <= yc; i++) rows.push({ ad: `${i}. Çocuk (yaşayan)`, pay: dalPay });
+      }
+      for (let i = 1; i <= oc; i++) {
+        rows.push({ ad: `Vefat eden ${i}. çocuğun altsoyu (temsilen)`, pay: dalPay });
+      }
+    } else if (z2) {
+      const as = anneSag === "evet";
+      const bs = babaSag === "evet";
+      const ks = parseInt(kardesSayisi) || 0;
+      const yariAnne = fdiv(kalan, 2);
+      const yariBaba = fdiv(kalan, 2);
+
+      if (as && bs) {
+        rows.push({ ad: "Anne", pay: yariAnne });
+        rows.push({ ad: "Baba", pay: yariBaba });
+      } else if (as && !bs) {
+        rows.push({ ad: "Anne", pay: yariAnne });
+        if (ks > 0) {
+          const kp = fdiv(yariBaba, ks);
+          for (let i = 1; i <= ks; i++) rows.push({ ad: `${i}. Kardeş (baba payından)`, pay: kp });
+        } else {
+          // baba ölü, altsoyu yok → payı anneye (TMK 496/3)
+          rows.length = 0;
+          if (es) rows.push({ ad: "Sağ Kalan Eş", pay: esPay });
+          rows.push({ ad: "Anne (tamamı)", pay: kalan });
+        }
+      } else if (!as && bs) {
+        rows.push({ ad: "Baba", pay: yariBaba });
+        if (ks > 0) {
+          const kp = fdiv(yariAnne, ks);
+          for (let i = 1; i <= ks; i++) rows.push({ ad: `${i}. Kardeş (anne payından)`, pay: kp });
+        } else {
+          rows.length = 0;
+          if (es) rows.push({ ad: "Sağ Kalan Eş", pay: esPay });
+          rows.push({ ad: "Baba (tamamı)", pay: kalan });
+        }
+      } else {
+        // ikisi de ölü → öz kardeşler tüm kalanı eşit paylaşır (temsil)
+        if (ks > 0) {
+          const kp = fdiv(kalan, ks);
+          for (let i = 1; i <= ks; i++) rows.push({ ad: `${i}. Kardeş`, pay: kp });
+        }
+      }
+    } else if (z3) {
+      const bk = parseInt(buyukSayisi) || 0;
+      const bp = fdiv(kalan, bk);
+      for (let i = 1; i <= bk; i++) rows.push({ ad: `${i}. Büyük ana/baba (veya dalı)`, pay: bp });
+    } else if (!es) {
+      // ne eş ne kan hısmı → Hazine
+      rows.push({ ad: "Mirasçı yok — Hazine (TMK 501)", pay: fr(1, 1) });
+    }
+
+    const display = rows.map(r => ({
+      ad: r.ad,
+      payStr: fstr(r.pay),
+      yuzde: fval(r.pay) * 100,
+      tutar: T * fval(r.pay),
+    }));
+
+    // zümre etiketi
+    let zumreEtiket = "—";
+    if (z1) zumreEtiket = "1. Zümre — Altsoy (TMK 495)";
+    else if (z2) zumreEtiket = "2. Zümre — Ana/Baba ve altsoyu (TMK 496)";
+    else if (z3) zumreEtiket = "3. Zümre — Büyük ana/baba (TMK 497)";
+    else if (es) zumreEtiket = "Yalnızca sağ kalan eş (TMK 499)";
+    else zumreEtiket = "Mirasçı yok — Hazine (TMK 501)";
+
+    return { display, esPay, zumreEtiket };
+  }, [tereke, esVar, yasayanCocuk, olenCocukDal, anneSag, babaSag, kardesSayisi, buyukSayisi, z1, z2, z3, cocukDal]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Tereke (Toplam Miras) Değeri (TL)">
+        <input type="text" value={tereke} onChange={e => setTereke(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Sağ Kalan Eş Var mı?">
+        <select value={esVar} onChange={e => setEsVar(e.target.value as "evet" | "hayir")} className={sel}>
+          <option value="evet">Evet</option>
+          <option value="hayir">Hayır</option>
+        </select>
+      </Field>
+
+      {/* 1. Zümre */}
+      <Field label="Yaşayan Çocuk Sayısı">
+        <input type="number" min="0" value={yasayanCocuk} onChange={e => setYasayanCocuk(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Vefat Eden (Altsoyu Olan) Çocuk Sayısı">
+        <input type="number" min="0" value={olenCocukDal} onChange={e => setOlenCocukDal(e.target.value)} className={inp} />
+      </Field>
+
+      {/* 2. Zümre — yalnız altsoy yoksa */}
+      {!z1 && (
+        <>
+          <Field label="Anne Sağ mı?">
+            <select value={anneSag} onChange={e => setAnneSag(e.target.value as "evet" | "hayir")} className={sel}>
+              <option value="evet">Evet</option>
+              <option value="hayir">Hayır</option>
+            </select>
+          </Field>
+          <Field label="Baba Sağ mı?">
+            <select value={babaSag} onChange={e => setBabaSag(e.target.value as "evet" | "hayir")} className={sel}>
+              <option value="evet">Evet</option>
+              <option value="hayir">Hayır</option>
+            </select>
+          </Field>
+          <Field label="Kardeş Sayısı (öz kardeş)">
+            <input type="number" min="0" value={kardesSayisi} onChange={e => setKardesSayisi(e.target.value)} className={inp} />
+          </Field>
+        </>
+      )}
+
+      {/* 3. Zümre — yalnız 1 ve 2 yoksa */}
+      {!z1 && !z2 && (
+        <Field label="Yaşayan Büyük Ana/Baba Sayısı (0-4)">
+          <input type="number" min="0" max="4" value={buyukSayisi} onChange={e => setBuyukSayisi(e.target.value)} className={inp} />
+        </Field>
+      )}
+
+      <div className="col-span-full">
+        <div className="mb-3 text-[11px] font-mono uppercase tracking-widest text-accent">{result.zumreEtiket}</div>
+        <Result
+          rows={result.display.map(d => [
+            d.ad,
+            `${d.payStr}  ·  %${fmt(d.yuzde, 2)}  ·  ${fmt(d.tutar)} TL`,
+          ] as [string, string])}
+          note="Hesaplama TMK md.495-501 (zümre/parantel sistemi) ve md.499 (sağ kalan eşin payı) esas alınarak yapılmıştır. Eş; altsoyla 1/4, ana-baba zümresiyle 1/2, büyük ana-baba zümresiyle 3/4 pay alır. Vefat eden mirasçının payı kendi altsoyuna geçer (halefiyet/temsil). Saklı pay, ölüme bağlı tasarruflar (vasiyet), mal rejimi tasfiyesi, evlatlık ve üvey/yarım kan kardeş gibi özel durumlar bu araçta dikkate alınmaz; somut olay için danışmanlık alınız."
+        />
+      </div>
+    </div>
+  );
+}
+
 // ─── ARAÇLAR LİSTESİ ──────────────────────────────────────────────────────────
 
 const ARACLAR = [
+  { id: "miras", icon: "🏛️", baslik: "Miras Paylaşımı (Yasal Mirasçılık)", tag: "Miras Hukuku", comp: <MirasPaylasimi /> },
   { id: "kidem", icon: "💼", baslik: "Kıdem Tazminatı", tag: "İş Hukuku", comp: <KidemTazminati /> },
   { id: "ihbar", icon: "📋", baslik: "İhbar Tazminatı", tag: "İş Hukuku", comp: <IhbarTazminati /> },
   { id: "fazla-mesai", icon: "⏰", baslik: "Fazla Mesai Ücreti", tag: "İş Hukuku", comp: <FazlaMesai /> },

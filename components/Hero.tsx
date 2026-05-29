@@ -8,7 +8,7 @@ import { ArrowRight, Calculator, BookOpen, Scale } from 'lucide-react';
 const STAT_ITEMS = [
   { num: '50+', label: 'Kanun' },
   { num: '8000+', label: 'Madde' },
-  { num: '18', label: 'Araç' },
+  { num: '19', label: 'Araç' },
 ];
 
 export default function Hero() {

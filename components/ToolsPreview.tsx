@@ -6,6 +6,13 @@ import { ArrowRight } from 'lucide-react';
 
 const FEATURED_TOOLS = [
   {
+    id: 'miras',
+    icon: '🏛️',
+    baslik: 'Miras Paylaşımı',
+    aciklama: 'TMK zümre sistemine göre yasal mirasçı paylarını hesaplar.',
+    etiket: 'Miras Hukuku',
+  },
+  {
     id: 'kidem',
     icon: '💼',
     baslik: 'Kıdem & İhbar Tazminatı',
@@ -64,6 +71,7 @@ const FEATURED_TOOLS = [
 ];
 
 const ETIKET_RENK: Record<string, string> = {
+  'Miras Hukuku': 'bg-indigo-50 text-indigo-700',
   'İş Hukuku':   'bg-blue-50 text-blue-700',
   'Alacak':      'bg-orange-50 text-orange-700',
   'Gayrimenkul': 'bg-green-50 text-green-700',
@@ -97,7 +105,7 @@ export default function ToolsPreview() {
             href="/hesaplama"
             className="group self-start flex items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full font-bold text-sm transition-all hover:bg-accent"
           >
-            Tüm Araçlar (18)
+            Tüm Araçlar (19)
             <ArrowRight size={15} className="group-hover:translate-x-1 transition-transform" />
           </Link>
         </div>

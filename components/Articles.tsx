@@ -59,21 +59,21 @@ export default function Articles() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
           {articles.map((item, index) => (
-            <div key={index} className="article-card group p-5 sm:p-8 md:p-10 bg-white border border-charcoal/5 rounded-2xl sm:rounded-[2rem] md:rounded-[2.5rem] hover:shadow-xl transition-all duration-500">
+            <Link href="/makaleler" key={index} className="article-card group p-5 sm:p-8 md:p-10 bg-white border border-charcoal/5 rounded-2xl sm:rounded-[2rem] md:rounded-[2.5rem] hover:shadow-xl transition-all duration-500 flex flex-col">
               <div className="flex justify-between items-start mb-4 sm:mb-6 md:mb-8">
                 <div className="w-9 h-9 sm:w-10 sm:h-10 bg-accent/5 rounded-full flex items-center justify-center text-accent shrink-0">
                   <FileText size={18} />
                 </div>
-                <span className="text-[9px] sm:text-[10px] font-mono font-bold text-charcoal/30 uppercase tracking-widest">Akademik // 2024</span>
+                <span className="text-[9px] sm:text-[10px] font-mono font-bold text-charcoal/30 uppercase tracking-widest">{item.category}</span>
               </div>
               <h4 className="text-base sm:text-lg md:text-xl font-heading font-bold text-charcoal mb-2 sm:mb-4 group-hover:text-accent transition-colors leading-snug">{item.title}</h4>
-              <p className="text-charcoal/60 text-xs sm:text-sm leading-relaxed mb-4 sm:mb-8">
+              <p className="text-charcoal/60 text-xs sm:text-sm leading-relaxed mb-4 sm:mb-8 flex-1">
                 {item.desc}
               </p>
-              <button className="text-[10px] font-bold text-accent tracking-[0.2em] uppercase opacity-0 group-hover:opacity-100 transition-opacity">
-                TAMAMINI OKU
-              </button>
-            </div>
+              <span className="inline-flex items-center gap-1 text-[10px] font-bold text-accent tracking-[0.2em] uppercase">
+                ARŞİVİ İNCELE <ArrowUpRight size={13} />
+              </span>
+            </Link>
           ))}
         </div>
       </div>
