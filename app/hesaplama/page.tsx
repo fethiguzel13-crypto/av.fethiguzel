@@ -108,10 +108,10 @@ function Result({ rows, note }: { rows: [string, string][]; note?: string }) {
 
 function KidemTazminati() {
   // Kıdem tazminatı tavanı — her 6 ayda Resmi Gazete'de güncellenir
-  const TAVAN_2024_II = 47268.37; // 01.07.2024–31.12.2024
+  const TAVAN_2026_I = 64948.77; // 01.01.2026–30.06.2026
   const [baslangic, setBaslangic] = useState("2015-01-01");
   const [bitis, setBitis] = useState(() => new Date().toISOString().slice(0, 10));
-  const [brutUcret, setBrutUcret] = useState("50000");
+  const [brutUcret, setBrutUcret] = useState("60000");
   const [ozelTavan, setOzelTavan] = useState("");
 
   const result = useMemo(() => {
@@ -121,16 +121,17 @@ function KidemTazminati() {
     const gun = daysBetween(b, e);
     const yil = gun / 365;
     const brutNum = parseFloat(brutUcret.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const tavanNum = ozelTavan ? parseFloat(ozelTavan.replace(/[^0-9.,]/g, "").replace(",", ".")) : TAVAN_2024_II;
+    const tavanNum = ozelTavan ? parseFloat(ozelTavan.replace(/[^0-9.,]/g, "").replace(",", ".")) : TAVAN_2026_I;
     const gunlukBrut = brutNum / 30;
     const gunlukTavan = tavanNum / 30;
     const esas = Math.min(gunlukBrut, gunlukTavan);
+    const tavanAsildi = gunlukBrut > gunlukTavan;
     const brutKidem = esas * 30 * yil;
     const damagaVergi = brutKidem * 0.00759; // damga vergisi ‰7,59
     const netKidem = brutKidem - damagaVergi;
     const tam = Math.floor(yil);
     const kistGun = gun - tam * 365;
-    return { brutKidem, damagaVergi, netKidem, yil, tam, kistGun, esas, gunlukBrut };
+    return { brutKidem, damagaVergi, netKidem, yil, tam, kistGun, esas, gunlukBrut, tavanAsildi, tavanNum };
   }, [baslangic, bitis, brutUcret, ozelTavan]);
 
   return (
@@ -142,14 +143,14 @@ function KidemTazminati() {
         <input type="date" value={bitis} onChange={e => setBitis(e.target.value)} className={inp} />
       </Field>
       <Field label="Brüt Aylık Ücret (TL)">
-        <input type="text" value={brutUcret} onChange={e => setBrutUcret(e.target.value)} placeholder="50.000" className={inp} />
+        <input type="text" value={brutUcret} onChange={e => setBrutUcret(e.target.value)} placeholder="60.000" className={inp} />
       </Field>
-      <Field label="Kıdem Tazminatı Tavanı (TL) — opsiyonel">
+      <Field label="Kıdem Tavanı (TL) — opsiyonel">
         <input
           type="text"
           value={ozelTavan}
           onChange={e => setOzelTavan(e.target.value)}
-          placeholder={`Varsayılan: ${fmt(TAVAN_2024_II)} (2024/II)`}
+          placeholder={`Varsayılan: ${fmt(TAVAN_2026_I)} (2026/I)`}
           className={inp}
         />
       </Field>
@@ -159,12 +160,13 @@ function KidemTazminati() {
           <Result
             rows={[
               ["Toplam Çalışma Süresi", `${result.tam} tam yıl + ${result.kistGun} gün (${fmt(result.yil, 4)} yıl)`],
-              ["Esas Alınan Günlük Ücret", `${fmt(result.esas)} TL (brüt günlük: ${fmt(result.gunlukBrut)} TL)`],
+              ["Esas Alınan Günlük Ücret", `${fmt(result.esas)} TL`],
+              ...(result.tavanAsildi ? [["Tavan Uygulandı", `Brüt ücret tavanı (${fmt(result.tavanNum)} TL) aştı`] as [string, string]] : []),
               ["Brüt Kıdem Tazminatı", `${fmt(result.brutKidem)} TL`],
-              ["Damga Vergisi (‰7,59)", `${fmt(result.damagaVergi)} TL`],
+              ["Damga Vergisi (‰7,59)", `− ${fmt(result.damagaVergi)} TL`],
               ["Net Kıdem Tazminatı", `${fmt(result.netKidem)} TL`],
             ]}
-            note="Kıdem tazminatı tavanı her 6 ayda Resmi Gazete'de yayımlanır. 2024/II dönemi tavanı 47.268,37 TL'dir. Net hesaplamada yalnızca damga vergisi kesilir; SGK ve gelir vergisi kesintisi yapılmaz."
+            note="2026/I dönemi (01.01–30.06.2026) kıdem tazminatı tavanı 64.948,77 TL'dir. Tavanı aşan brüt ücretlerde hesap tavandan yapılır. Kıdem tazminatından yalnızca damga vergisi (‰7,59) kesilir; SGK primi ve gelir vergisi kesilmez."
           />
         </div>
       ) : (
@@ -449,11 +451,10 @@ function IddetMuddeti() {
 // ─── 8. FAİZ HESAPLAMA ────────────────────────────────────────────────────────
 
 const FAIZ_ORANLARI = [
-  { etiket: "Yasal Faiz (3095 md.1) — 2009–güncel", oran: 9.00 },
-  { etiket: "Ticari Avans Faizi — 2024 (approx.)", oran: 52.0 },
-  { etiket: "Yasal Faiz — 2006–2008", oran: 19.0 },
-  { etiket: "Yasal Faiz — 2004–2005", oran: 28.0 },
-  { etiket: "Yasal Faiz — 2003", oran: 50.0 },
+  { etiket: "Yasal Faiz (3095 md.1) — %24", oran: 24.0 },
+  { etiket: "Ticari Temerrüt / Avans Faizi (TCMB 2026) — %49,25", oran: 49.25 },
+  { etiket: "TCMB Reeskont Faizi (2026) — %48,25", oran: 48.25 },
+  { etiket: "Eski Yasal Faiz (2005–2024) — %9", oran: 9.0 },
   { etiket: "Özel oran (girin)", oran: 0 },
 ];
 
@@ -521,7 +522,7 @@ function FaizHesaplama() {
               ["Faiz Miktarı", `${fmt(result.faizMiktari)} TL`],
               ["Anapara + Faiz", `${fmt(result.toplam)} TL`],
             ]}
-            note="3095 sayılı Kanun md.1 uyarınca yasal faiz %9'dur. Ticari borçlarda Merkez Bankası kısa vadeli faiz oranları esas alınır ve yılda iki kez güncellenebilir."
+            note="3095 sayılı Kanun md.1 uyarınca yasal faiz oranı 2024'ten itibaren %24'tür. Ticari işlerde TCMB'nin kısa vadeli avans faiz oranı (2026: %49,25) esas alınabilir ve bu oran yıl içinde güncellenebilir. Değişken dönemli faiz için her dönemi ayrı hesaplayın."
           />
         </div>
       ) : (
@@ -644,87 +645,107 @@ function AracDegerKaybi() {
 // ─── 11. TAPU HARCI ───────────────────────────────────────────────────────────
 
 function TapuHarci() {
-  const [deger, setDeger] = useState("2000000");
-  const DÖNER = 1500; // 2024 yaklaşık döner sermaye
+  const [deger, setDeger] = useState("3000000");
+  const [doner, setDoner] = useState("4500"); // 2026 yaklaşık döner sermaye
 
   const result = useMemo(() => {
     const d = parseFloat(deger.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const donerN = parseFloat(doner.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const alici = d * 0.02;
     const satici = d * 0.02;
-    const toplam = alici + satici + DÖNER;
-    return { alici, satici, toplam };
-  }, [deger]);
+    const toplamHarc = alici + satici;
+    const toplam = toplamHarc + donerN;
+    return { alici, satici, toplamHarc, toplam };
+  }, [deger, doner]);
 
   return (
-    <div className="grid grid-cols-1 gap-5">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="Beyan Edilen Satış Bedeli (TL)">
         <input type="text" value={deger} onChange={e => setDeger(e.target.value)} className={inp} />
       </Field>
-      <Result
-        rows={[
-          ["Alıcı Harcı (%2)", `${fmt(result.alici)} TL`],
-          ["Satıcı Harcı (%2)", `${fmt(result.satici)} TL`],
-          ["Döner Sermaye (approx.)", `${fmt(DÖNER, 0)} TL`],
-          ["Toplam Maliyet", `${fmt(result.toplam)} TL`],
-        ]}
-        note="Harçlar Kanunu md.492/5 uyarınca alıcı ve satıcı ayrı ayrı %2 harç öder. Gerçek bedel esas alınır; beyan edilen bedel emsalin altında olamaz. Döner sermaye tutarı yıllık güncellenir."
-      />
+      <Field label="Döner Sermaye Bedeli (TL)">
+        <input type="text" value={doner} onChange={e => setDoner(e.target.value)} className={inp} />
+      </Field>
+      <div className="col-span-full">
+        <Result
+          rows={[
+            ["Alıcı Tapu Harcı (%2)", `${fmt(result.alici)} TL`],
+            ["Satıcı Tapu Harcı (%2)", `${fmt(result.satici)} TL`],
+            ["Toplam Tapu Harcı (%4)", `${fmt(result.toplamHarc)} TL`],
+            ["Döner Sermaye Bedeli", `${fmt(result.toplam - result.toplamHarc)} TL`],
+            ["Genel Toplam Maliyet", `${fmt(result.toplam)} TL`],
+          ]}
+          note="Harçlar Kanunu (492 s. Tarife) uyarınca tapu devrinde alıcı ve satıcı ayrı ayrı %2 (toplam %4) harç öder. Harç, gerçek devir bedeli üzerinden hesaplanır; beyan edilen bedel emsal/rayiç bedelin altında olamaz. Döner sermaye bedeli yıllık güncellenir (2026 yaklaşık)."
+        />
+      </div>
     </div>
   );
 }
 
 // ─── 12. NİSPİ VEKALET ÜCRETİ ─────────────────────────────────────────────────
 
-// 2024 AAÜT md.13 basamakları (yaklaşık)
+// 2026 AAÜT Üçüncü Kısım — nispi vekalet basamakları (RG 04.11.2025)
+// Her dilim için: dilim genişliği (TL) ve oran
 const AAUT_BASAMAKLAR = [
-  { limit: 16000, oran: 0.25 },
-  { limit: 46000, oran: 0.20 },
-  { limit: 92000, oran: 0.17 },
-  { limit: 460000, oran: 0.15 },
-  { limit: 920000, oran: 0.13 },
-  { limit: 2300000, oran: 0.11 },
-  { limit: 4600000, oran: 0.09 },
-  { limit: 23000000, oran: 0.07 },
-  { limit: 92000000, oran: 0.05 },
-  { limit: Infinity, oran: 0.03 },
+  { dilim: 600000,   oran: 0.16 },
+  { dilim: 600000,   oran: 0.15 },
+  { dilim: 1200000,  oran: 0.14 },
+  { dilim: 1200000,  oran: 0.13 },
+  { dilim: 1800000,  oran: 0.11 },
+  { dilim: 2400000,  oran: 0.08 },
+  { dilim: 3000000,  oran: 0.05 },
+  { dilim: 3600000,  oran: 0.03 },
+  { dilim: 4200000,  oran: 0.02 },
+  { dilim: Infinity, oran: 0.01 },
 ];
-const AAUT_MIN = 8500; // 2024 min. maktu vekalet ücreti
+const AAUT_MAKTU_ASLIYE = 30000; // 2026 asliye hukuk maktu vekalet ücreti (alt sınır)
 
 function nispiVekalet(dava: number): number {
   let kalan = dava;
   let toplam = 0;
-  let onceki = 0;
   for (const b of AAUT_BASAMAKLAR) {
-    const dilimdeki = Math.min(kalan, b.limit - onceki);
+    const dilimdeki = Math.min(kalan, b.dilim);
     if (dilimdeki <= 0) break;
     toplam += dilimdeki * b.oran;
     kalan -= dilimdeki;
-    onceki = b.limit;
     if (kalan <= 0) break;
   }
-  return Math.max(toplam, AAUT_MIN);
+  return Math.max(toplam, AAUT_MAKTU_ASLIYE);
 }
 
 function NispiVekalet() {
   const [davaD, setDavaD] = useState("500000");
+  const [kabulOrani, setKabulOrani] = useState("100");
 
   const result = useMemo(() => {
     const d = parseFloat(davaD.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const vekalet = nispiVekalet(d);
-    return { vekalet };
-  }, [davaD]);
+    const oran = Math.min(100, Math.max(0, parseFloat(kabulOrani) || 0)) / 100;
+    const tamVekalet = nispiVekalet(d);
+    const kabulEdilen = d * oran;
+    const lehVekalet = nispiVekalet(kabulEdilen);
+    const reddedilen = d * (1 - oran);
+    const aleyhVekalet = nispiVekalet(reddedilen);
+    return { tamVekalet, lehVekalet, aleyhVekalet, kabulEdilen, reddedilen };
+  }, [davaD, kabulOrani]);
 
   return (
-    <div className="grid grid-cols-1 gap-5">
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="Dava Değeri / Müddeabih (TL)">
         <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
       </Field>
-      <Result
-        rows={[
-          ["Karşı Taraf Vekalet Ücreti", `${fmt(result.vekalet)} TL`],
-        ]}
-        note="2024 AAÜT md.13 basamaklı oranlar (yaklaşık). Minimum maktu vekalet ücreti 8.500 TL'dir. Gerçek tutar için güncel Avukatlık Asgari Ücret Tarifesini kontrol edin."
-      />
+      <Field label="Davanın Kabul Oranı (%)">
+        <input type="number" min="0" max="100" value={kabulOrani} onChange={e => setKabulOrani(e.target.value)} className={inp} />
+      </Field>
+      <div className="col-span-full">
+        <Result
+          rows={[
+            ["Tam Kabulde Vekalet Ücreti", `${fmt(result.tamVekalet)} TL`],
+            ["Kabul Edilen Kısım İçin (davacı lehine)", `${fmt(result.lehVekalet)} TL`],
+            ["Reddedilen Kısım İçin (davalı lehine)", `${fmt(result.aleyhVekalet)} TL`],
+          ]}
+          note="2026 AAÜT Üçüncü Kısım basamaklı oranları uygulanmıştır (%16, %15, %14, %13, %11, %8, %5, %3, %2, %1). Kısmen kabul/ret halinde her iki taraf lehine ayrı vekalet ücretine hükmedilir. Vekalet ücreti yargılama giderlerine dahildir; davanın türü ve mahkemeye göre maktu alt sınır değişebilir (asliye hukuk: 30.000 TL)."
+        />
+      </div>
     </div>
   );
 }
@@ -860,84 +881,282 @@ function IcraInkarTazminati() {
   );
 }
 
-// ─── 16. ARABULUCULUK ASGARİ ÜCRET ───────────────────────────────────────────
+// ─── 16. ARABULUCULUK ASGARİ ÜCRET (2026 Resmî Tarife) ───────────────────────
+// Kaynak: 2026 Yılı Arabuluculuk Asgari Ücret Tarifesi (RG 26.12.2025 / 33119)
 
-// 2024 Arabuluculuk Asgari Ücret Tarifesi (yaklaşık)
-const ARABULUCULUK_BASAMAKLAR = [
-  { limit: 40000, oran: 0.06 },
-  { limit: 120000, oran: 0.05 },
-  { limit: 400000, oran: 0.04 },
-  { limit: 1000000, oran: 0.03 },
-  { limit: Infinity, oran: 0.02 },
+// İKİNCİ KISIM — konusu para olan/para ile ölçülebilen + ANLAŞMA → nispi basamaklar
+// Her dilim için: dilim genişliği (TL), tek arabulucu oranı, birden fazla arabulucu oranı
+const ARB_NISPI = [
+  { dilim: 600000,         tek: 0.06,  coklu: 0.09 },
+  { dilim: 960000,         tek: 0.05,  coklu: 0.075 },
+  { dilim: 1560000,        tek: 0.04,  coklu: 0.06 },
+  { dilim: 3120000,        tek: 0.03,  coklu: 0.045 },
+  { dilim: 9360000,        tek: 0.02,  coklu: 0.03 },
+  { dilim: 12480000,       tek: 0.015, coklu: 0.025 },
+  { dilim: 24960000,       tek: 0.01,  coklu: 0.015 },
+  { dilim: Infinity,       tek: 0.005, coklu: 0.01 },
 ];
-const ARABULUCULUK_MIN_ANLAŞMAZ = 2500; // min. anlaşamama hali
-const ARABULUCULUK_MIN_ANLAŞMA = 5000;  // min. anlaşma hali
+
+// BİRİNCİ KISIM — konusu para olmayan VEYA anlaşmama → maktu saatlik ücretler
+// [2 kişi (taraf başına), 3-5 kişi, 6-10 kişi, 11+ kişi]
+const ARB_MAKTU: Record<string, { iki: number; uc: number; alti: number; onbir: number; ad: string }> = {
+  aile:     { iki: 1000, uc: 2200, alti: 2300, onbir: 2400, ad: "Aile Hukuku" },
+  ticari:   { iki: 1500, uc: 3200, alti: 3300, onbir: 3400, ad: "Ticari Uyuşmazlık" },
+  isci:     { iki: 1130, uc: 2460, alti: 2560, onbir: 2660, ad: "İşçi-İşveren" },
+  tuketici: { iki: 1000, uc: 2200, alti: 2300, onbir: 2400, ad: "Tüketici" },
+  kira:     { iki: 1170, uc: 2540, alti: 2640, onbir: 2740, ad: "Kira / Komşu Hakkı / Kat Mülkiyeti" },
+  ortaklik: { iki: 1170, uc: 2540, alti: 2640, onbir: 2740, ad: "Ortaklığın Giderilmesi" },
+  diger:    { iki: 1000, uc: 2200, alti: 2300, onbir: 2400, ad: "Diğer Uyuşmazlıklar" },
+};
+
+const ARB_MIN_ANLASMA = 9000;       // md.7/7 — anlaşma halinde genel asgari
+const ARB_MIN_TICARI_ORTAK = 13000; // md.7/6 — ticari + ortaklığın giderilmesi asgari
+const ARB_SERI_TICARI = 7500;       // md.7/4 — seri uyuşmazlık, ticari (her uyuşmazlık)
+const ARB_SERI_DIGER = 6000;        // md.7/4 — seri uyuşmazlık, diğer (her uyuşmazlık)
+
+function arbNispiUcret(tutar: number, coklu: boolean): number {
+  let kalan = tutar, toplam = 0;
+  for (const b of ARB_NISPI) {
+    const d = Math.min(kalan, b.dilim);
+    if (d <= 0) break;
+    toplam += d * (coklu ? b.coklu : b.tek);
+    kalan -= d;
+    if (kalan <= 0) break;
+  }
+  return toplam;
+}
+
+function arbSaatlik(alanKey: string, tarafGrubu: string): number {
+  const baseKey = alanKey === "kira-tahliye" || alanKey === "kira-tespiti" ? "kira" : alanKey;
+  const a = ARB_MAKTU[baseKey] ?? ARB_MAKTU.diger;
+  if (tarafGrubu === "iki") return a.iki * 2; // 2 kişi: ücret "taraf başına" → toplam ×2
+  if (tarafGrubu === "uc") return a.uc;
+  if (tarafGrubu === "alti") return a.alti;
+  return a.onbir;
+}
 
 function ArabuluculukUcret() {
-  const [tur, setTur] = useState("ihtiyari");
-  const [davaD, setDavaD] = useState("200000");
-  const [anlasma, setAnlasma] = useState("anlasmadi");
-  const [tarafSayisi, setTarafSayisi] = useState("2");
+  const [tur, setTur] = useState("dava-sarti");
+  const [alan, setAlan] = useState("isci");
+  const [sonuc, setSonuc] = useState<"anlasti" | "anlasmadi">("anlasti");
+  const [paraOlcu, setParaOlcu] = useState<"evet" | "hayir">("evet");
+  const [tutar, setTutar] = useState("300000");
+  const [yillikKira, setYillikKira] = useState("180000");
+  const [tarafGrubu, setTarafGrubu] = useState("iki");
+  const [saat, setSaat] = useState("2");
+  const [arabulucu, setArabulucu] = useState<"tek" | "coklu">("tek");
+  const [seri, setSeri] = useState(false);
+  const [seriAdet, setSeriAdet] = useState("10");
+
+  // Kira tahliye/tespiti her zaman para ile ölçülür
+  const isKiraOzel = alan === "kira-tahliye" || alan === "kira-tespiti";
+  const effParaOlcu = isKiraOzel ? "evet" : paraOlcu;
+  const ticariVeyaOrtak = alan === "ticari" || alan === "ortaklik";
 
   const result = useMemo(() => {
-    const d = parseFloat(davaD.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const taraf = parseInt(tarafSayisi) || 2;
+    const coklu = arabulucu === "coklu";
 
-    let ucret = 0;
-    let kalan = d;
-    let prev = 0;
-    for (const b of ARABULUCULUK_BASAMAKLAR) {
-      const dilimdeki = Math.min(kalan, b.limit - prev);
-      if (dilimdeki <= 0) break;
-      ucret += dilimdeki * b.oran;
-      kalan -= dilimdeki;
-      prev = b.limit;
-      if (kalan <= 0) break;
+    // SERİ UYUŞMAZLIK + ANLAŞMA (md.7/4)
+    if (seri && sonuc === "anlasti") {
+      const adet = parseInt(seriAdet) || 1;
+      const birim = alan === "ticari" ? ARB_SERI_TICARI : ARB_SERI_DIGER;
+      const toplam = birim * adet;
+      return {
+        mod: "seri" as const,
+        rows: [
+          ["Uyuşmazlık Başına Ücret", `${fmt(birim)} TL`],
+          ["Uyuşmazlık Adedi", `${adet}`],
+          ["Toplam Arabuluculuk Ücreti", `${fmt(toplam)} TL`],
+        ],
+        note: "Md.7/4 — Aynı taraf, bir ay içinde en az 10 başvuru = seri uyuşmazlık. Anlaşma halinde her uyuşmazlık için ticaride 7.500 TL, diğerlerinde 6.000 TL ücret uygulanır.",
+      };
     }
 
-    const min = anlasma === "anlasti" ? ARABULUCULUK_MIN_ANLAŞMA : ARABULUCULUK_MIN_ANLAŞMAZ;
-    ucret = Math.max(ucret, min);
-
-    if (tur === "dava-sarti" && anlasma === "anlasmadi") {
-      // dava şartında anlaşamama → Bakanlık öder 2 saatlik ücret (~2.500 TL)
-      const devletOdeyecek = Math.min(ucret, ARABULUCULUK_MIN_ANLAŞMAZ);
-      const tarafOdeyecek = Math.max(0, ucret - devletOdeyecek);
-      return { ucret, devletOdeyecek, tarafOdeyecek, tarafBasi: tarafOdeyecek / taraf, anlasma };
+    // ANLAŞMA + PARA İLE ÖLÇÜLEBİLİR → İKİNCİ KISIM (nispi)
+    if (sonuc === "anlasti" && effParaOlcu === "evet") {
+      let baz = parseFloat(tutar.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+      let bazAciklama = "Anlaşılan tutar";
+      if (alan === "kira-tahliye") {
+        const yk = parseFloat(yillikKira.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+        baz = yk / 2;
+        bazAciklama = "Bir yıllık kira bedelinin yarısı (md.7/5)";
+      } else if (alan === "kira-tespiti") {
+        const yk = parseFloat(yillikKira.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+        baz = yk;
+        bazAciklama = "Bir yıllık kira farkı tutarı (md.7/5)";
+      }
+      let ucret = arbNispiUcret(baz, coklu);
+      const min = ticariVeyaOrtak ? ARB_MIN_TICARI_ORTAK : ARB_MIN_ANLASMA;
+      const minUygulandi = ucret < min;
+      ucret = Math.max(ucret, min);
+      const tarafBasi = ucret / 2;
+      return {
+        mod: "nispi" as const,
+        rows: [
+          ["Hesaplamaya Esas Tutar", `${fmt(baz)} TL`],
+          ["Esas Açıklaması", bazAciklama],
+          ["Tarifeye Göre Ücret", `${fmt(arbNispiUcret(baz, coklu))} TL`],
+          ...(minUygulandi ? [[`Uygulanan Asgari Ücret`, `${fmt(min)} TL`] as [string, string]] : []),
+          ["Toplam Arabuluculuk Ücreti", `${fmt(ucret)} TL`],
+          ["Taraf Başına (eşit bölüşüm)", `${fmt(tarafBasi)} TL`],
+        ],
+        note: `İkinci Kısım basamaklı nispi tarife uygulandı (${coklu ? "birden fazla arabulucu" : "tek arabulucu"}). ${ticariVeyaOrtak ? "Ticari/ortaklığın giderilmesi anlaşmasında asgari 13.000 TL." : "Anlaşma halinde asgari 9.000 TL (md.7/7)."} Ücret aksi kararlaştırılmadıkça taraflarca eşit ödenir (md.3/1).`,
+      };
     }
 
-    return { ucret, devletOdeyecek: 0, tarafOdeyecek: ucret, tarafBasi: ucret / taraf, anlasma };
-  }, [tur, davaD, anlasma, tarafSayisi]);
+    // ANLAŞMA + PARA İLE ÖLÇÜLEMEZ → BİRİNCİ KISIM (maktu, ama anlaşma asgarisi)
+    // VEYA ANLAŞMAMA → BİRİNCİ KISIM (maktu saatlik, md.7/3)
+    const saatNum = Math.max(parseFloat(saat) || 0, 0);
+    const saatlik = arbSaatlik(alan, tarafGrubu);
+
+    if (sonuc === "anlasti") {
+      // para ile ölçülemeyen anlaşma — maktu × saat, ancak 9.000 TL asgari
+      let ucret = saatlik * saatNum;
+      const min = ticariVeyaOrtak ? ARB_MIN_TICARI_ORTAK : ARB_MIN_ANLASMA;
+      const minUygulandi = ucret < min;
+      ucret = Math.max(ucret, min);
+      return {
+        mod: "maktu-anlasma" as const,
+        rows: [
+          ["Saatlik Ücret", `${fmt(saatlik)} TL/saat`],
+          ["Görüşme Süresi", `${fmt(saatNum, 1)} saat`],
+          ["Maktu Hesap", `${fmt(saatlik * saatNum)} TL`],
+          ...(minUygulandi ? [["Uygulanan Asgari Ücret", `${fmt(min)} TL`] as [string, string]] : []),
+          ["Toplam Arabuluculuk Ücreti", `${fmt(ucret)} TL`],
+          ["Taraf Başına", `${fmt(ucret / 2)} TL`],
+        ],
+        note: "Konusu para ile ölçülemeyen uyuşmazlıkta anlaşma — Birinci Kısım saatlik maktu ücret. Anlaşma halinde asgari ücret uygulanır (md.7/7).",
+      };
+    }
+
+    // ANLAŞMAMA → Birinci Kısım saatlik (md.7/3)
+    const toplamMaktu = saatlik * saatNum;
+    if (tur === "dava-sarti") {
+      // Dava şartı + anlaşmama: ilk 2 saat Adalet Bakanlığı bütçesinden (6325 md.18/A)
+      const asanSaat = Math.max(0, saatNum - 2);
+      const taraf = saatlik * asanSaat;
+      return {
+        mod: "maktu-anlasmama-dava" as const,
+        rows: [
+          ["Saatlik Ücret", `${fmt(saatlik)} TL/saat`],
+          ["Görüşme Süresi", `${fmt(saatNum, 1)} saat`],
+          ["İlk 2 Saat — Devlet Öder", `${fmt(saatlik * 2)} TL`],
+          ["2 Saati Aşan — Taraflar Öder", `${fmt(taraf)} TL`],
+          ["Toplam Ücret", `${fmt(saatlik * Math.max(saatNum, 2))} TL`],
+        ],
+        note: "Dava şartı arabuluculukta anlaşmama — Birinci Kısım saatlik maktu (md.7/3). 6325 sayılı Kanun md.18/A: taraflar anlaşamazsa ilk 2 saatlik ücret Adalet Bakanlığı bütçesinden, 2 saati aşan kısım taraflarca ödenir.",
+      };
+    }
+    // İhtiyari + anlaşmama: tamamı taraflarca
+    return {
+      mod: "maktu-anlasmama-ihtiyari" as const,
+      rows: [
+        ["Saatlik Ücret", `${fmt(saatlik)} TL/saat`],
+        ["Görüşme Süresi", `${fmt(saatNum, 1)} saat`],
+        ["Toplam Arabuluculuk Ücreti", `${fmt(toplamMaktu)} TL`],
+        ["Taraf Başına", `${fmt(toplamMaktu / 2)} TL`],
+      ],
+      note: "İhtiyari arabuluculukta anlaşmama — Birinci Kısım saatlik maktu ücret (md.7/3). Ücret taraflarca eşit ödenir.",
+    };
+  }, [tur, alan, sonuc, effParaOlcu, tutar, yillikKira, tarafGrubu, saat, arabulucu, seri, seriAdet, ticariVeyaOrtak]);
+
+  // Hangi alanlarda anlaşma+para sorulacak?
+  const nispiGirisGoster = sonuc === "anlasti" && effParaOlcu === "evet" && !seri;
+  const maktuGirisGoster = (sonuc === "anlasmadi" || (sonuc === "anlasti" && effParaOlcu === "hayir")) && !seri;
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="Arabuluculuk Türü">
         <select value={tur} onChange={e => setTur(e.target.value)} className={sel}>
+          <option value="dava-sarti">Dava Şartı (Zorunlu) Arabuluculuk</option>
           <option value="ihtiyari">İhtiyari Arabuluculuk</option>
-          <option value="dava-sarti">Dava Şartı Arabuluculuk</option>
         </select>
       </Field>
-      <Field label="Uyuşmazlık Değeri (TL)">
-        <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
+      <Field label="Uyuşmazlık Alanı">
+        <select value={alan} onChange={e => setAlan(e.target.value)} className={sel}>
+          <option value="ticari">Ticari Uyuşmazlık</option>
+          <option value="isci">İşçi - İşveren</option>
+          <option value="tuketici">Tüketici</option>
+          <option value="aile">Aile Hukuku</option>
+          <option value="kira">Kira / Komşu Hakkı / Kat Mülkiyeti</option>
+          <option value="kira-tahliye">Kira — Tahliye Talepli</option>
+          <option value="kira-tespiti">Kira — Tespit Talepli</option>
+          <option value="ortaklik">Ortaklığın Giderilmesi</option>
+          <option value="diger">Diğer Uyuşmazlıklar</option>
+        </select>
       </Field>
+
       <Field label="Sonuç">
-        <select value={anlasma} onChange={e => setAnlasma(e.target.value)} className={sel}>
-          <option value="anlasti">Anlaşma sağlandı</option>
-          <option value="anlasmadi">Anlaşma sağlanamadı</option>
+        <select value={sonuc} onChange={e => setSonuc(e.target.value as "anlasti" | "anlasmadi")} className={sel}>
+          <option value="anlasti">Anlaşma Sağlandı</option>
+          <option value="anlasmadi">Anlaşma Sağlanamadı</option>
         </select>
       </Field>
-      <Field label="Taraf Sayısı">
-        <input type="number" min="2" value={tarafSayisi} onChange={e => setTarafSayisi(e.target.value)} className={inp} />
+      <Field label="Arabulucu Sayısı">
+        <select value={arabulucu} onChange={e => setArabulucu(e.target.value as "tek" | "coklu")} className={sel}>
+          <option value="tek">Tek Arabulucu</option>
+          <option value="coklu">Birden Fazla Arabulucu</option>
+        </select>
       </Field>
+
+      {!isKiraOzel && (
+        <Field label="Konusu Para ile Ölçülebilir mi?">
+          <select value={paraOlcu} onChange={e => setParaOlcu(e.target.value as "evet" | "hayir")} className={sel}>
+            <option value="evet">Evet (alacak, tazminat vb.)</option>
+            <option value="hayir">Hayır (boşanma, velayet vb.)</option>
+          </select>
+        </Field>
+      )}
+
+      <Field label="Seri Uyuşmazlık mı?">
+        <select value={seri ? "evet" : "hayir"} onChange={e => setSeri(e.target.value === "evet")} className={sel}>
+          <option value="hayir">Hayır</option>
+          <option value="evet">Evet (aynı taraf, 1 ayda 10+ başvuru)</option>
+        </select>
+      </Field>
+
+      {seri && sonuc === "anlasti" && (
+        <Field label="Uyuşmazlık Adedi">
+          <input type="number" min="10" value={seriAdet} onChange={e => setSeriAdet(e.target.value)} className={inp} />
+        </Field>
+      )}
+
+      {/* Nispi giriş (anlaşma + para) */}
+      {nispiGirisGoster && alan === "kira-tahliye" && (
+        <Field label="Bir Yıllık Kira Bedeli (TL)">
+          <input type="text" value={yillikKira} onChange={e => setYillikKira(e.target.value)} className={inp} />
+        </Field>
+      )}
+      {nispiGirisGoster && alan === "kira-tespiti" && (
+        <Field label="Yıllık Kira Farkı (TL)">
+          <input type="text" value={yillikKira} onChange={e => setYillikKira(e.target.value)} className={inp} />
+        </Field>
+      )}
+      {nispiGirisGoster && !isKiraOzel && (
+        <Field label="Anlaşılan Tutar (TL)">
+          <input type="text" value={tutar} onChange={e => setTutar(e.target.value)} className={inp} />
+        </Field>
+      )}
+
+      {/* Maktu giriş (anlaşmama veya para ölçülemez) */}
+      {maktuGirisGoster && (
+        <>
+          <Field label="Taraf Sayısı">
+            <select value={tarafGrubu} onChange={e => setTarafGrubu(e.target.value)} className={sel}>
+              <option value="iki">2 Taraf</option>
+              <option value="uc">3 - 5 Taraf</option>
+              <option value="alti">6 - 10 Taraf</option>
+              <option value="onbir">11 ve Üzeri Taraf</option>
+            </select>
+          </Field>
+          <Field label="Görüşme Süresi (saat)">
+            <input type="number" min="0" step="0.5" value={saat} onChange={e => setSaat(e.target.value)} className={inp} />
+          </Field>
+        </>
+      )}
+
       <div className="col-span-full">
-        <Result
-          rows={[
-            ["Toplam Arabuluculuk Ücreti", `${fmt(result.ucret)} TL`],
-            ["Devlet Ödeyecek (dava şartı/anlaşamama)", `${fmt(result.devletOdeyecek)} TL`],
-            ["Taraflarca Ödenecek", `${fmt(result.tarafOdeyecek)} TL`],
-            ["Taraf Başına Düşen", `${fmt(result.tarafBasi)} TL`],
-          ]}
-          note="2024 Arabuluculuk Asgari Ücret Tarifesi (yaklaşık). Dava şartı arabuluculukta anlaşamama halinde 2 saatlik ücret Adalet Bakanlığı bütçesinden ödenir. Kesin tutar için güncel tarifeyi inceleyin."
-        />
+        <Result rows={result.rows as [string, string][]} note={result.note} />
       </div>
     </div>
   );
