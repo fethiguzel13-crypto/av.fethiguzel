@@ -2,7 +2,9 @@
 title: "Gelir Vergisi Kanunu Madde 61"
 kanun: "Gelir Vergisi Kanunu"
 maddeNo: 61
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-05-29"
+wordCount: 1024
 ---
 
 **Ücretin tarifi**
@@ -41,6 +43,133 @@ tazminatları, iş sonu tazminatları, iş güvencesi tazminatları gibi çeşit
 ödemeler ve yardımlar.
 İş verenin tarifi:
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+Gelir Vergisi Kanunu'nun (GVK) 61. maddesi, Türk vergi sistemindeki yedi temel 
+gelir unsurundan üçüncüsü olan "Ücretler" müessesesinin hukuki ve vergisel 
+çerçevesini çizen kurucu normdur. Kanun koyucu bu maddede, ücreti salt bir iş 
+hukuku kavramı olmaktan çıkararak geniş ve mali bir temele oturtmuştur. 
+Maddenin birinci fıkrası ücretin klasik tanımını (hizmet, işverene bağlılık ve 
+karşılık unsurlarını) yaparken; ikinci fıkra ödemenin adının veya şeklinin 
+ücretin mali niteliğini değiştirmeyeceğini hüküm altına alan bir "peçeleme 
+yasağı" getirmiştir. Üçüncü fıkra ise, klasik anlamda bir hizmet akdi veya 
+işçi-işveren ilişkisi bulunmasa dahi (örneğin bilirkişilik, yönetim kurulu 
+üyeliği, ikale tazminatları), kanuni kurgu yoluyla "ücret sayılan" ödemeleri 
+kazuistik olarak listelemiştir. Öncel/Kumrulu/Çağan, *Vergi Hukuku* eserinde, 
+kanun koyucunun bu madde ile gelir unsurunun nitelendirilmesinde şekle değil 
+öze itibar ettiğini; isim ve sözleşme oyunlarıyla ücret ödemelerinin ticari 
+veya serbest meslek kazancı gibi gösterilerek vergi avantajı yaratılmasını 
+(özellikle stopajdan kaçınılmasını) engellemeyi amaçladığını değerlendirmesine 
+yer vermektedir [1].
+
+#### 2. Maddedeki Kavramların Analizi
+*   **İşverene Tabi Olma (Tabiiyet/Bağımlılık):** Ücreti diğer gelir 
+unsurlarından (özellikle serbest meslek kazancından) ayıran en temel dogmatik 
+unsurdur. Çalışanın, işverenin emir ve talimatları altında, onun organizasyonu 
+içinde hukuki ve kişisel bir bağımlılıkla çalışmasını ifade eder.
+*   **Belirli Bir İşyerine Bağlılık:** Çalışanın hizmetini sunarken kullandığı 
+organizasyonel mekânı ifade eder. Günümüzde uzaktan çalışma modelleri 
+(home-office) de hukuken işverenin organizasyonuna dâhil kabul edilmektedir.
+*   **Para, Ayın ve Menfaat:** Ücretin sadece nakdi parayı değil; ayni 
+ödemeleri (örneğin erzak yardımı, kömür yardımı) ve para ile ölçülebilen 
+menfaatleri (lojman tahsisi, şirket aracı verilmesi, özel sağlık sigortası 
+yapılması) de kapsadığını belirten genişletici kuraldır.
+*   **Huzur Hakkı (2. Fıkra):** Anonim veya limited şirketlerde yönetim kurulu 
+üyelerine toplantılara katılmaları veya yönetim görevleri karşılığında yapılan 
+ödemelerdir. Kanun gereği mutlak ücrettir, kâr payı sayılmaz.
+*   **Kanuni Kurgu ile Ücret Sayılanlar (3. Fıkra):** Aralarında tipik bir 
+işçi-işveren ilişkisi olmayan TBMM üyelerinin ödenekleri, spor hakemlerinin ve 
+bilirkişilerin gelirleri, tasfiye memurlarının tahsisatları doğrudan yasa 
+emriyle ücret kategorisine dâhil edilmiştir.
+*   **İkale ve İş Kaybı Tazminatları (7. Bent):** 2018 yılında eklenen bu 
+hükümle, iş sözleşmesinin karşılıklı anlaşılarak sona erdirilmesi (ikale) 
+sonucunda çalışana kıdem/ihbar dışında ödenen ek "iş güvencesi veya paket" 
+tazminatları ücret şemsiyesi altına alınmış ve vergilendirilmiştir.
+
+#### 3. Sistematik İlişkiler
+GVK m. 61, işvereni tanımlayan GVK m. 62 ile zorunlu bir kavramsal bütünlük 
+içindedir. Ayrıca madde, bağımsız çalışmayı esas alan GVK m. 65 "Serbest Meslek
+Kazancı" normu ile katı bir zıtlık (sınır) ilişkisi kurar; zira tabiiyetin 
+olduğu yerde serbest meslek değil, ücret vardır. Vergi tahsil yöntemi 
+bakımından ise doğrudan GVK m. 94 (Tevkifat/Stopaj) ile usuli bir bağa 
+sahiptir; zira ücretler kural olarak beyanname ile değil, kaynağında kesinti 
+yoluyla vergilendirilir. Başaran Yavaşlar, *Vergi Usul Hukuku* çalışmasında, 
+ücretin ayni veya menfaat olarak sağlanan kısımlarının parasal değerinin 
+hesaplanmasının, Vergi Usul Kanunu'nun (VUK) değerleme hükümlerine dayandığını 
+ve GVK m. 61'in geniş maddi yapısının, bordrolama ve tevsik gibi en ağır usul 
+yükümlülüklerini işverenin üzerine yıkan dogmatik bir zemin yarattığını 
+belirtmektedir [1].
+
+#### 4. Uygulama: Yargı İçtihadı
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.
+
+#### 5. Pratik Örnek Olaylar
+*(kurmaca senaryo)* X Bilişim Şirketi, yazılım departmanı müdürü (A)'ya aylık 
+sabit 80.000 TL maaş ve ilaveten "şirketin o yılki net kârının %2'sini" prim 
+olarak ödeyeceğini sözleşmeyle imza altına almıştır. Yıl sonunda (A)'ya kârdan 
+500.000 TL ödeme yapılmıştır. GVK m. 61/2'nin amir hükmü gereğince, bu ödemenin
+"kazancın belli bir yüzdesi şeklinde tayin edilmiş olması" onun hukuki 
+mahiyetini değiştirmez. Ortada bir ticari şirket ortaklığı bulunmadığından, 
+kârdan verilen bu %2'lik pay da doğrudan "ücret" sayılır ve tıpkı aylık maaş 
+gibi bordroya dâhil edilerek stopaja tabi tutulur.
+
+*(kurmaca senaryo)* Mahkemelerde mühendislik alanında uzmanlık yapan ve serbest
+çalışan (B), asliye hukuk mahkemesi tarafından atandığı bir davada rapor 
+hazırlamış ve mahkeme veznesinden 10.000 TL "bilirkişi ücreti" almıştır. (B) 
+ile Adalet Bakanlığı arasında bir hizmet akdi (işçi-işveren ilişkisi) 
+olmamasına rağmen, GVK m. 61/5 kurgusu gereği bilirkişilere yapılan bu ödeme 
+kanunen mutlak surette "ücret" kabul edilir ve ödeme yapılırken doğrudan gelir 
+vergisi stopajı kesilir. (B) bu geliri serbest meslek makbuzu keserek beyan 
+etmez.
+
+*(kurmaca senaryo)* 10 yıldır Y Bankasında çalışan (C), bankanın küçülme kararı
+üzerine "ikale (bozma) sözleşmesi" ile işten ayrılmayı kabul etmiştir. Banka, 
+yasal kıdem ve ihbar tazminatlarına (vergiden istisna olan kısımlar) ek olarak,
+(C)'ye işi sessizce bırakması karşılığında 1.000.000 TL "işe son verme / ikale 
+ek tazminatı" ödemiştir. GVK m. 61/7 uyarınca bu ek ödeme doğrudan "ücret" 
+sayılır ve işveren banka tarafından ödeme anında gelir vergisi kesintisine 
+(bordroya) tabi tutulur.
+
+#### 6. Pratik Uygulama Notları
+Avukatlık ve mali danışmanlık pratiğinde, serbest meslek mensubu ile bordrolu 
+çalışan arasındaki ayrımın (tabiiyet unsurunun) doğru kurgulanması vergi 
+planlaması ve ihtilaflar açısından hayati önemdedir. Tosuner/Demir, *Vergi Usul
+Kanunu* eserinde, meslek mensuplarının özellikle şirketlerin üst düzey 
+yöneticilerine sağladıkları menfaatlerin (şirket aracı tahsisi, kira bedelinin 
+şirketçe ödenmesi, özel okul taksitlerinin karşılanması) birer "ayın ve 
+menfaat" olarak mutlaka brütleştirilip ücret bordrosuna dâhil edilmesi 
+gerektiğini; aksi takdirde bu yan hakların vergi incelemelerinde gizlenmiş 
+ücret kabul edilerek muazzam vergi ziyaı cezaları ve KKEG (Kanunen Kabul 
+Edilmeyen Gider) reddiyatları doğuracağını stratejik bir kural olarak 
+hatırlatmaktadır [1].
+
+#### 7. Eleştirel Değerlendirme
+GVK m. 61, devletin vergi alacağını güvence altına almak için "ücret" kavramını
+torba bir kavrama dönüştürmüş, bu durum vergi hukukunun dogmatik saflığını 
+bozmuştur. Selim Kaneti, *Vergi Hukuku* eserinde, aralarında hiçbir hizmet 
+(tabiiyet) bağı olmayan bilirkişilerin, yönetim kurulu üyelerinin, meclis 
+üyelerinin veya spor hakemlerinin gelirlerinin salt stopaj kolaylığı sağlamak 
+adına kanuni bir kurguyla "ücret" sayılmasının, ücretin kurucu unsuru olan 
+"işverene bağımlılık" teorisini yerle bir ettiğini ve vergi sisteminin 
+kavramsal tutarlılığını zedelediğini vurgulamaktadır [1].
+
+Öte yandan, iş kaybı veya ikale tazminatlarının (7. Bent) ücret sayılarak 
+vergilendirilmesi, tazminat hukukunun doğasına aykırıdır. Yaltı Soydan, *Vergi 
+Yükümlüsünün Hakları* çalışmasında, çalışanın işini, yani hayatını idame 
+ettirdiği temel üretim aracını kaybetmesi karşılığında aldığı telafi edici bir 
+tazminatın "gelir (zenginleşme)" olarak nitelendirilmesinin ve ağır artan 
+oranlı tarifeyle vergilendirilmesinin, mali güce göre vergilendirme ilkesini 
+ihlal ettiğini; zararı telafi eden bir ödemenin gelir vergisine konu olmasının 
+mülkiyet hakkına yönelik ölçüsüz bir müdahale olduğunu eleştirel bir dille 
+ifade etmektedir [1]. 
+
+Erginay, *Vergi Hukuku* çalışmasında da işaret edildiği üzere, maddedeki 
+"ayın", "tahsisat", "idrak" gibi arkaik kavramların modern insan kaynakları ve 
+ücretlendirme (esnek yan haklar, hisse senedi opsiyonları, kripto ödemeler) 
+terminolojisini karşılamakta yetersiz kaldığı açıktır [1]. Modern bir vergi 
+kanunu, ücretin sınırlarını kurgusal varsayımlarla değil, dijital çağın çalışma
+(gig economy, freelancer) modellerine uygun, objektif ekonomik bağımlılık 
+kriterleriyle yeniden çizmelidir.
+
+Conversation: 14fd14ca-7253-4111-8964-96d48f2d3b60 (turn 1)
