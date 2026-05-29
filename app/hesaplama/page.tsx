@@ -46,24 +46,24 @@ function Card({ id, icon, title, tag, children }: {
     "Analiz": "bg-teal-50 text-teal-700",
   };
   return (
-    <div id={id} className="bg-white border border-charcoal/6 rounded-[2rem] overflow-hidden shadow-sm">
+    <div id={id} className="bg-white border border-charcoal/6 rounded-2xl sm:rounded-[2rem] overflow-hidden shadow-sm">
       <button
         onClick={() => setOpen(v => !v)}
-        className="w-full flex items-center justify-between p-7 text-left hover:bg-charcoal/2 transition-colors"
+        className="w-full flex items-center justify-between p-4 sm:p-6 text-left hover:bg-charcoal/2 transition-colors"
       >
-        <div className="flex items-center gap-4">
-          <span className="text-3xl">{icon}</span>
-          <div>
-            <span className={`text-[10px] font-bold uppercase tracking-widest px-2.5 py-0.5 rounded-full ${TAG_COLORS[tag] ?? "bg-charcoal/5 text-charcoal/40"}`}>
+        <div className="flex items-center gap-3 sm:gap-4 min-w-0">
+          <span className="text-2xl sm:text-3xl shrink-0">{icon}</span>
+          <div className="min-w-0">
+            <span className={`text-[9px] sm:text-[10px] font-bold uppercase tracking-widest px-2 sm:px-2.5 py-0.5 rounded-full ${TAG_COLORS[tag] ?? "bg-charcoal/5 text-charcoal/40"}`}>
               {tag}
             </span>
-            <h2 className="text-lg font-heading font-bold text-charcoal mt-1">{title}</h2>
+            <h2 className="text-sm sm:text-base md:text-lg font-heading font-bold text-charcoal mt-1 leading-snug">{title}</h2>
           </div>
         </div>
-        {open ? <ChevronUp size={20} className="text-charcoal/30 shrink-0" /> : <ChevronDown size={20} className="text-charcoal/30 shrink-0" />}
+        {open ? <ChevronUp size={18} className="text-charcoal/30 shrink-0 ml-2" /> : <ChevronDown size={18} className="text-charcoal/30 shrink-0 ml-2" />}
       </button>
       {open && (
-        <div className="px-7 pb-8 border-t border-charcoal/5 pt-6">
+        <div className="px-4 sm:px-6 pb-5 sm:pb-7 border-t border-charcoal/5 pt-4 sm:pt-6">
           {children}
         </div>
       )}
@@ -80,23 +80,23 @@ function Field({ label, children }: { label: string; children: React.ReactNode }
   );
 }
 
-const inp = "border border-charcoal/15 rounded-xl px-4 py-2.5 text-charcoal text-sm focus:outline-none focus:border-accent transition-colors bg-cream/60";
+const inp = "w-full border border-charcoal/15 rounded-xl px-3 sm:px-4 py-2.5 text-charcoal text-sm focus:outline-none focus:border-accent transition-colors bg-cream/60";
 const sel = inp + " cursor-pointer";
 
 function Result({ rows, note }: { rows: [string, string][]; note?: string }) {
   return (
-    <div className="mt-6 bg-primary/5 border border-primary/10 rounded-2xl p-5">
+    <div className="mt-5 bg-primary/5 border border-primary/10 rounded-xl sm:rounded-2xl p-4 sm:p-5">
       <div className="divide-y divide-charcoal/8">
         {rows.map(([k, v]) => (
-          <div key={k} className="flex justify-between items-center py-2.5 first:pt-0 last:pb-0">
-            <span className="text-sm text-charcoal/60">{k}</span>
-            <span className="text-sm font-bold text-charcoal">{v}</span>
+          <div key={k} className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-2.5 first:pt-0 last:pb-0 gap-0.5 sm:gap-3">
+            <span className="text-xs sm:text-sm text-charcoal/55 leading-snug">{k}</span>
+            <span className="text-sm sm:text-sm font-bold text-charcoal sm:text-right shrink-0">{v}</span>
           </div>
         ))}
       </div>
       {note && (
-        <p className="mt-4 flex items-start gap-2 text-[11px] text-charcoal/40 leading-relaxed">
-          <Info size={12} className="shrink-0 mt-0.5" />
+        <p className="mt-3 sm:mt-4 flex items-start gap-2 text-[10px] sm:text-[11px] text-charcoal/40 leading-relaxed">
+          <Info size={11} className="shrink-0 mt-0.5" />
           {note}
         </p>
       )}
@@ -155,7 +155,7 @@ function KidemTazminati() {
       </Field>
 
       {result ? (
-        <div className="md:col-span-2">
+        <div className="col-span-full">
           <Result
             rows={[
               ["Toplam Çalışma Süresi", `${result.tam} tam yıl + ${result.kistGun} gün (${fmt(result.yil, 4)} yıl)`],
@@ -168,7 +168,7 @@ function KidemTazminati() {
           />
         </div>
       ) : (
-        <div className="md:col-span-2 text-sm text-charcoal/35 italic">Tarihleri ve ücreti girin.</div>
+        <div className="col-span-full text-sm text-charcoal/35 italic">Tarihleri ve ücreti girin.</div>
       )}
     </div>
   );
@@ -202,7 +202,7 @@ function IhbarTazminati() {
       <Field label="Brüt Aylık Ücret (TL)">
         <input type="text" value={brutUcret} onChange={e => setBrutUcret(e.target.value)} className={inp} />
       </Field>
-      <div className="md:col-span-2">
+      <div className="col-span-full">
         <Result
           rows={[
             ["Bildirim Süresi", `${result.haftaSayisi} hafta (${result.haftaSayisi * 7} gün)`],
@@ -341,7 +341,7 @@ function SmmHesaplama() {
       <Field label={mod === "brut" ? "Hizmet Bedeli / Matrah (TL)" : "Avukatın Alacağı Net Tutar (TL)"}>
         <input type="text" value={tutar} onChange={e => setTutar(e.target.value)} className={inp} />
       </Field>
-      <div className="md:col-span-2">
+      <div className="col-span-full">
         <Result
           rows={[
             ["Matrah (Hizmet Bedeli)", `${fmt(result.matrah)} TL`],
@@ -513,7 +513,7 @@ function FaizHesaplama() {
       </Field>
 
       {result ? (
-        <div className="md:col-span-2">
+        <div className="col-span-full">
           <Result
             rows={[
               ["Süre", `${result.gun} gün`],
@@ -525,7 +525,7 @@ function FaizHesaplama() {
           />
         </div>
       ) : (
-        <div className="md:col-span-2 text-sm text-charcoal/35 italic">Bilgileri doldurun.</div>
+        <div className="col-span-full text-sm text-charcoal/35 italic">Bilgileri doldurun.</div>
       )}
     </div>
   );
@@ -625,7 +625,7 @@ function AracDegerKaybi() {
         <input type="number" min="0" value={yas} onChange={e => setYas(e.target.value)} className={inp} />
       </Field>
       {result ? (
-        <div className="md:col-span-2">
+        <div className="col-span-full">
           <Result
             rows={[
               ["Hasar Oranı (H/R)", `%${fmt(result.hasarOrani * 100, 2)}`],
@@ -635,7 +635,7 @@ function AracDegerKaybi() {
           />
         </div>
       ) : (
-        <div className="md:col-span-2 text-sm text-charcoal/35 italic">Bilgileri doldurun.</div>
+        <div className="col-span-full text-sm text-charcoal/35 italic">Bilgileri doldurun.</div>
       )}
     </div>
   );
@@ -771,7 +771,7 @@ function DavaAcmaHarci() {
           <option value="evet">Evet</option>
         </select>
       </Field>
-      <div className="md:col-span-2">
+      <div className="col-span-full">
         <Result
           rows={[
             ["Başvuru Harcı (maktu)", `${fmt(result.basvuruHarci)} TL`],
@@ -928,7 +928,7 @@ function ArabuluculukUcret() {
       <Field label="Taraf Sayısı">
         <input type="number" min="2" value={tarafSayisi} onChange={e => setTarafSayisi(e.target.value)} className={inp} />
       </Field>
-      <div className="md:col-span-2">
+      <div className="col-span-full">
         <Result
           rows={[
             ["Toplam Arabuluculuk Ücreti", `${fmt(result.ucret)} TL`],
@@ -1088,7 +1088,7 @@ function DavaRiskAnalizi() {
           <option value="evet">Evet</option>
         </select>
       </Field>
-      <div className="md:col-span-2">
+      <div className="col-span-full">
         <Result
           rows={[
             ["Tahmini Dava Maliyeti", `${fmt(result.maliyet)} TL`],
@@ -1133,30 +1133,30 @@ export default function HesaplamaPage() {
   return (
     <>
       <Navbar />
-      <main className="min-h-screen bg-cream pt-36 pb-24 px-6">
+      <main className="min-h-screen bg-cream pt-24 sm:pt-32 md:pt-36 pb-16 sm:pb-24 px-4 sm:px-6">
         <div className="max-w-4xl mx-auto">
 
           {/* Hero */}
-          <div className="mb-16">
-            <p className="text-accent font-mono text-[11px] tracking-widest uppercase mb-4">
+          <div className="mb-10 sm:mb-16">
+            <p className="text-accent font-mono text-[10px] sm:text-[11px] tracking-widest uppercase mb-3 sm:mb-4">
               Hukuki Hesaplama Araçları
             </p>
-            <h1 className="text-4xl md:text-5xl font-bold text-charcoal mb-5">
+            <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-charcoal mb-3 sm:mb-5 leading-tight">
               Doğru Hesap,{" "}
               <span className="font-drama italic text-accent">Güçlü Pozisyon.</span>
             </h1>
-            <p className="text-charcoal/55 text-lg max-w-2xl leading-relaxed">
+            <p className="text-charcoal/55 text-sm sm:text-base md:text-lg max-w-2xl leading-relaxed">
               Kıdem tazminatından faize, tapu harcından vekalet ücretine — güncel mevzuat
-              esas alınarak hazırlanmış {ARACLAR.length} hesaplama aracı. Her araç anlık sonuç verir.
+              esas alınarak hazırlanmış {ARACLAR.length} hesaplama aracı.
             </p>
-            <p className="mt-4 inline-flex items-center gap-2 text-[11px] text-charcoal/35 font-mono bg-charcoal/4 px-4 py-2 rounded-full">
-              <Info size={12} />
+            <p className="mt-3 sm:mt-4 inline-flex items-center gap-2 text-[10px] sm:text-[11px] text-charcoal/35 font-mono bg-charcoal/4 px-3 sm:px-4 py-1.5 sm:py-2 rounded-full">
+              <Info size={11} />
               Hesaplamalar bilgi amaçlıdır · Kesin sonuç için avukatınıza danışın
             </p>
           </div>
 
           {/* Araçlar */}
-          <div className="flex flex-col gap-4">
+          <div className="flex flex-col gap-3 sm:gap-4">
             {ARACLAR.map(a => (
               <Card key={a.id} id={a.id} icon={a.icon} title={a.baslik} tag={a.tag}>
                 {a.comp}
@@ -1165,16 +1165,16 @@ export default function HesaplamaPage() {
           </div>
 
           {/* Alt CTA */}
-          <div className="mt-16 bg-charcoal rounded-[2.5rem] p-10 text-center">
-            <h3 className="text-2xl font-bold text-cream mb-3">
+          <div className="mt-10 sm:mt-16 bg-charcoal rounded-2xl sm:rounded-[2.5rem] p-6 sm:p-10 text-center">
+            <h3 className="text-xl sm:text-2xl font-bold text-cream mb-2 sm:mb-3">
               Hesaplamanın Ötesine Mi İhtiyacınız Var?
             </h3>
-            <p className="text-cream/55 mb-6 text-sm leading-relaxed max-w-md mx-auto">
+            <p className="text-cream/55 mb-5 sm:mb-6 text-sm leading-relaxed max-w-md mx-auto">
               Hesaplama araçları genel bilgi verir. Davanızı tartışmak için avukata danışın.
             </p>
             <Link
               href="/#iletisim"
-              className="inline-block bg-accent text-white px-8 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors"
+              className="inline-block bg-accent text-white px-6 sm:px-8 py-3 sm:py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors"
             >
               Danışmanlık İçin İletişime Geçin
             </Link>

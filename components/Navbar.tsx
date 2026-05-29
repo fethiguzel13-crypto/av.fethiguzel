@@ -169,7 +169,7 @@ export default function Navbar() {
             {megaOpen && (
               <div
                 onMouseLeave={() => setMegaOpen(false)}
-                className="absolute top-full mt-3 left-1/2 -translate-x-1/2 w-[860px] max-w-[90vw] glass rounded-[2rem] shadow-2xl border border-charcoal/8 z-[9999] p-8"
+                className="absolute top-full mt-3 left-1/2 -translate-x-1/2 w-[860px] max-w-[calc(100vw-2rem)] glass rounded-[2rem] shadow-2xl border border-charcoal/8 z-[9999] p-6 lg:p-8"
               >
                 <div className="grid grid-cols-3 gap-x-10 gap-y-6">
                   {MEVZUAT_GRUPLARI.map(g => (

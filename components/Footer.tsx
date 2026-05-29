@@ -6,16 +6,16 @@ import { MapPin, Mail, Phone, Scale, ShieldCheck } from 'lucide-react';
 
 export default function Footer() {
   return (
-    <footer className="bg-charcoal pt-32 pb-12 px-6 rounded-t-[4rem] overflow-hidden" id="iletisim">
+    <footer className="bg-charcoal pt-16 sm:pt-24 md:pt-32 pb-8 sm:pb-12 px-5 sm:px-6 rounded-t-[2rem] sm:rounded-t-[3rem] md:rounded-t-[4rem] overflow-hidden" id="iletisim">
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-1 lg:grid-cols-2 gap-24 mb-32">
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 sm:gap-16 md:gap-24 mb-16 sm:mb-24 md:mb-32">
           <div>
-            <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-8">İletişim & Ofis</h2>
-            <h3 className="text-4xl md:text-6xl text-cream font-bold mb-12">
+            <h2 className="text-accent font-heading text-xs sm:text-sm tracking-widest uppercase mb-5 sm:mb-8">İletişim & Ofis</h2>
+            <h3 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl text-cream font-bold mb-8 sm:mb-12 leading-tight">
               Çözüm için <span className="font-drama italic text-accent">Buradayız.</span>
             </h3>
-            
-            <div className="space-y-12">
+
+            <div className="space-y-8 sm:space-y-12">
               <div className="flex gap-6 items-start">
                 <div className="w-12 h-12 bg-cream/5 rounded-full flex items-center justify-center text-accent shrink-0">
                   <MapPin size={24} />
@@ -62,7 +62,7 @@ export default function Footer() {
             </div>
           </div>
 
-          <div className="h-[400px] md:h-full min-h-[400px] rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700 relative group">
+          <div className="h-[280px] sm:h-[380px] md:h-full md:min-h-[400px] rounded-2xl sm:rounded-[2.5rem] md:rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700 relative group">
             <iframe 
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.4754512457813!2d43.35!3d39.02!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDAxJzEyLjAiTiA0M8KwMjEnMDAuMCJF!5e0!3m2!1str!2str!4v1715340000000!5m2!1str!2str&q=Van+Yolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+EYC+I%C5%9F+Merkezi+Erci%C5%9F+Van" 
               width="100%" 
@@ -75,7 +75,7 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="pt-20 border-t border-cream/5 flex flex-col md:flex-row justify-between items-center gap-12">
+        <div className="pt-10 sm:pt-16 md:pt-20 border-t border-cream/5 flex flex-col md:flex-row justify-between items-center gap-6 sm:gap-10 md:gap-12">
           <div className="flex flex-col items-center md:items-start gap-4">
             <Link href="/" className="flex items-center gap-2">
               <div className="w-6 h-6 bg-accent rounded-full flex items-center justify-center text-cream">

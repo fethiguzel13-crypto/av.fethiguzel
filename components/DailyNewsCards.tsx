@@ -41,28 +41,28 @@ export default function DailyNewsCards({ highlights }: { highlights: DailyItem[]
   }, []);
 
   return (
-    <div ref={containerRef} className="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div ref={containerRef} className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
       {highlights.map((item) => (
         <article
           key={item.id}
-          className="daily-card group p-10 bg-white border border-charcoal/5 rounded-[2.5rem] hover:shadow-2xl transition-all duration-500 flex flex-col"
+          className="daily-card group p-5 sm:p-8 md:p-10 bg-white border border-charcoal/5 rounded-2xl sm:rounded-[2rem] md:rounded-[2.5rem] hover:shadow-xl transition-all duration-500 flex flex-col"
         >
-          <div className="flex justify-between items-start mb-8">
-            <div className="w-10 h-10 bg-accent/5 rounded-full flex items-center justify-center text-accent">
+          <div className="flex justify-between items-start mb-4 sm:mb-6 md:mb-8">
+            <div className="w-9 h-9 sm:w-10 sm:h-10 bg-accent/5 rounded-full flex items-center justify-center text-accent shrink-0">
               <ItemIcon name={item.icon} />
             </div>
-            <span className="text-[10px] font-mono font-bold text-charcoal/30 uppercase tracking-widest">
+            <span className="text-[9px] sm:text-[10px] font-mono font-bold text-charcoal/30 uppercase tracking-widest">
               {item.sourceLabel}
             </span>
           </div>
-          <h4 className="text-xl font-heading font-bold text-charcoal mb-4 group-hover:text-accent transition-colors line-clamp-3">
+          <h4 className="text-base sm:text-lg md:text-xl font-heading font-bold text-charcoal mb-2 sm:mb-4 group-hover:text-accent transition-colors line-clamp-3 leading-snug">
             {itemTitle(item)}
           </h4>
-          <p className="text-charcoal/60 text-sm leading-relaxed mb-8 line-clamp-3 flex-1">
+          <p className="text-charcoal/60 text-xs sm:text-sm leading-relaxed mb-4 sm:mb-8 line-clamp-3 flex-1">
             {item.publicSummary || item.konu.slice(0, 200)}
           </p>
-          <div className="flex items-center justify-between pt-6 border-t border-charcoal/5">
-            <span className="text-charcoal/40 text-xs font-mono uppercase tracking-widest">
+          <div className="flex items-center justify-between pt-4 sm:pt-6 border-t border-charcoal/5">
+            <span className="text-charcoal/40 text-[10px] sm:text-xs font-mono uppercase tracking-widest">
               {formatTrDate(item.date)}
             </span>
             {item.url && (
