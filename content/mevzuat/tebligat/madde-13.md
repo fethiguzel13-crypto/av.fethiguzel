@@ -1,0 +1,20 @@
+---
+title: "Tebligat Kanunu Madde 13"
+kanun: "Tebligat Kanunu"
+maddeNo: 13
+commentaryStatus: "pending"
+---
+
+**Hükmi şahısların memur ve müstahdemlerine tebligat**
+
+---
+
+Madde 13 – Hükmi şahıslar namına kendilerine tebliğ yapılacak kimseler her hangi
+bir sebeple mütat iş saatlerinde iş yerinde bulunmadıkları veya o sırada evrakı bizzat
+alamıyacak bir halde oldukları takdirde tebliğ, orada hazır bulunan memur veya
+müstahdemlerinden birine yapılır.
+Askeri şahıslara tebligat:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
