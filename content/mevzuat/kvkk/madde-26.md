@@ -1,0 +1,20 @@
+---
+title: "Kişisel Verilerin Korunması Kanunu Madde 26"
+kanun: "Kişisel Verilerin Korunması Kanunu"
+maddeNo: 26
+commentaryStatus: "pending"
+---
+
+**Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları**
+
+---
+
+MADDE 26- (1) Kurumda, Kişisel Verileri Koruma Uzmanı ve Kişisel Verileri
+Koruma Uzman Yardımcısı istihdam edilebilir. Bunlardan 657 sayılı Kanunun ek 41 inci
+maddesi çerçevesinde Kişisel Verileri Koruma Uzmanı kadrosuna atananlara bir defaya
+mahsus olmak üzere bir derece yükseltilmesi uygulanır.
+Personele ve özlük haklarına ilişkin hükümler
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

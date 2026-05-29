@@ -1,0 +1,24 @@
+---
+title: "Kişisel Verilerin Korunması Kanunu Madde 8"
+kanun: "Kişisel Verilerin Korunması Kanunu"
+maddeNo: 8
+commentaryStatus: "pending"
+---
+
+**Kişisel verilerin aktarılması**
+
+---
+
+MADDE 8- (1) Kişisel veriler, ilgili kişinin açık rızası olmaksızın aktarılamaz.
+(2) Kişisel veriler;
+a) 5 inci maddenin ikinci fıkrasında,
+
+b) Yeterli önlemler alınmak kaydıyla, 6 ncı maddenin üçüncü fıkrasında,
+belirtilen şartlardan birinin bulunması hâlinde, ilgili kişinin açık rızası aranmaksızın
+aktarılabilir.
+(3) Kişisel verilerin aktarılmasına ilişkin diğer kanunlarda yer alan hükümler saklıdır.
+Kişisel verilerin yurt dışına aktarılması
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
