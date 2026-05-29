@@ -36,8 +36,8 @@ export default function Navbar() {
         { name: 'Özel Hükümler', href: '/kategori/borclar-ozel' },
       ]
     },
-    { 
-      name: 'Ticaret Hukuku', 
+    {
+      name: 'Ticaret Hukuku',
       href: '/mevzuat',
       dropdown: [
         { name: 'Ticari İşletme Hukuku', href: '/kategori/ticari-isletme' },
@@ -47,6 +47,8 @@ export default function Navbar() {
         { name: 'Deniz Ticareti Hukuku', href: '/kategori/deniz-ticareti' },
         { name: 'Sigorta Hukuku', href: '/kategori/sigorta-hukuku' },
         { name: 'Yürürlük ve Son Hükümler', href: '/kategori/ttk-son-hukumler' },
+        { name: 'Çek Kanunu', href: '/kategori/cek' },
+        { name: 'Rekabetin Korunması', href: '/kategori/rkhk' },
       ]
     },
     {
@@ -81,11 +83,31 @@ export default function Navbar() {
       ]
     },
     {
+      name: 'Finans Hukuku',
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Bankacılık Kanunu', href: '/kategori/bk' },
+        { name: 'Sermaye Piyasası Kanunu', href: '/kategori/spk' },
+      ]
+    },
+    {
+      name: 'Tüketici Hukuku',
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'Tüketicinin Korunması (TKHK)', href: '/kategori/tkhk' },
+        { name: 'Kişisel Verilerin Korunması (KVKK)', href: '/kategori/kvkk' },
+      ]
+    },
+    {
       name: 'İdare Hukuku',
       href: '/mevzuat',
       dropdown: [
         { name: 'Devlet Memurları (DMK)', href: '/kategori/dmk' },
         { name: 'Kaçakçılıkla Mücadele', href: '/kategori/kmk' },
+        { name: 'İmar Kanunu', href: '/kategori/imar' },
+        { name: 'Dernekler Kanunu', href: '/kategori/dernekler' },
+        { name: 'Vakıflar Kanunu', href: '/kategori/vakiflar' },
+        { name: 'Karayolları Trafik Kanunu', href: '/kategori/ktk' },
       ]
     },
     { name: 'Makalelerim', href: '/makaleler' },

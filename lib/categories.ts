@@ -303,6 +303,109 @@ export const categories: Category[] = [
     endMadde: 30,
     icon: 'fa-solid fa-shield-halved'
   },
+  // ── Ticaret & Finans ─────────────────────────────────────────────────────
+  {
+    id: 'bk',
+    slug: 'bk',
+    name: 'Bankacılık Kanunu',
+    description: 'Bankacılık Kanunu (Madde 1-167)',
+    kanunId: 'bk',
+    startMadde: 1,
+    endMadde: 200,
+    icon: 'fa-solid fa-building-columns'
+  },
+  {
+    id: 'spk',
+    slug: 'spk',
+    name: 'Sermaye Piyasası Kanunu',
+    description: 'Sermaye Piyasası Kanunu (Madde 1-158)',
+    kanunId: 'spk',
+    startMadde: 1,
+    endMadde: 200,
+    icon: 'fa-solid fa-chart-line'
+  },
+  {
+    id: 'rkhk',
+    slug: 'rkhk',
+    name: 'Rekabetin Korunması Hakkında Kanun',
+    description: 'Rekabet Kanunu (Madde 1-65)',
+    kanunId: 'rkhk',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-scale-unbalanced'
+  },
+  {
+    id: 'cek',
+    slug: 'cek',
+    name: 'Çek Kanunu',
+    description: 'Çek Kanunu (Madde 1-11)',
+    kanunId: 'cek',
+    startMadde: 1,
+    endMadde: 20,
+    icon: 'fa-solid fa-money-check'
+  },
+  // ── Tüketici & Özel ──────────────────────────────────────────────────────
+  {
+    id: 'tkhk',
+    slug: 'tkhk',
+    name: 'Tüketicinin Korunması Hakkında Kanun',
+    description: 'Tüketici Kanunu (Madde 1-90)',
+    kanunId: 'tkhk',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-cart-shopping'
+  },
+  {
+    id: 'kvkk',
+    slug: 'kvkk',
+    name: 'Kişisel Verilerin Korunması Kanunu',
+    description: 'KVKK (Madde 1-32)',
+    kanunId: 'kvkk',
+    startMadde: 1,
+    endMadde: 50,
+    icon: 'fa-solid fa-lock'
+  },
+  // ── İdare (ek) ───────────────────────────────────────────────────────────
+  {
+    id: 'imar',
+    slug: 'imar',
+    name: 'İmar Kanunu',
+    description: 'İmar Kanunu (Madde 1-50)',
+    kanunId: 'imar',
+    startMadde: 1,
+    endMadde: 60,
+    icon: 'fa-solid fa-city'
+  },
+  {
+    id: 'dernekler',
+    slug: 'dernekler',
+    name: 'Dernekler Kanunu',
+    description: 'Dernekler Kanunu (Madde 1-42)',
+    kanunId: 'dernekler',
+    startMadde: 1,
+    endMadde: 50,
+    icon: 'fa-solid fa-people-group'
+  },
+  {
+    id: 'vakiflar',
+    slug: 'vakiflar',
+    name: 'Vakıflar Kanunu',
+    description: 'Vakıflar Kanunu (Madde 1-82)',
+    kanunId: 'vakiflar',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-hand-holding-heart'
+  },
+  {
+    id: 'ktk',
+    slug: 'ktk',
+    name: 'Karayolları Trafik Kanunu',
+    description: 'Karayolları Trafik Kanunu (Madde 1-141)',
+    kanunId: 'ktk',
+    startMadde: 1,
+    endMadde: 200,
+    icon: 'fa-solid fa-car'
+  },
 ];
 
 export function getCategoryBySlug(slug: string): Category | undefined {
