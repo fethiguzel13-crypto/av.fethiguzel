@@ -1,0 +1,22 @@
+---
+title: "Türk Vatandaşlığı Kanunu Madde 19"
+kanun: "Türk Vatandaşlığı Kanunu"
+maddeNo: 19
+commentaryStatus: "pending"
+---
+
+**Yetkili makam kararı ile Türk vatandaşlığının kazanılmasında usul ve esaslar**
+
+---
+
+MADDE 19 – (1) Yetkili makam kararı ile Türk vatandaşlığını kazanmak isteyen
+yabancılardan başvuru için gerekli şartları taşıyanların adına vatandaşlık dosyası düzenlenir ve
+karar verilmek üzere Bakanlığa gönderilir. Bakanlıkça yapılacak inceleme ve araştırma
+sonucunda durumu uygun bulunanlar Bakanlık kararı ile Türk vatandaşlığını kazanabilirler,
+uygun görülmeyenlerin talepleri ise Bakanlıkça reddedilir.
+(2) 12 nci madde uyarınca Türk vatandaşlığını kazanma işlemleri Bakanlıkça yürütülür.
+Yetkili makam kararı ile Türk vatandaşlığının kazanılmasının geçerliliği ve sonuçları
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
