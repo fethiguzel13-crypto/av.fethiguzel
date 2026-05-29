@@ -468,6 +468,173 @@ export const categories: Category[] = [
     endMadde: 150,
     icon: 'fa-solid fa-earth-europe'
   },
+  // ── İş Hukuku ────────────────────────────────────────────────────────────
+  {
+    id: 'is-kanunu',
+    slug: 'is-kanunu',
+    name: 'İş Kanunu',
+    description: 'İş Kanunu (Madde 1-119)',
+    kanunId: 'is-kanunu',
+    startMadde: 1,
+    endMadde: 150,
+    icon: 'fa-solid fa-briefcase'
+  },
+  {
+    id: 'ssgssk',
+    slug: 'ssgssk',
+    name: 'Sosyal Sigortalar ve GSS Kanunu',
+    description: 'SSGSSK (Madde 1-106)',
+    kanunId: 'ssgssk',
+    startMadde: 1,
+    endMadde: 150,
+    icon: 'fa-solid fa-hospital'
+  },
+  {
+    id: 'sendikalar',
+    slug: 'sendikalar',
+    name: 'Sendikalar ve Toplu İş Sözleşmesi Kanunu',
+    description: 'Sendikalar Kanunu (Madde 1-83)',
+    kanunId: 'sendikalar',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-people-carry-box'
+  },
+  {
+    id: 'isg',
+    slug: 'isg',
+    name: 'İş Sağlığı ve Güvenliği Kanunu',
+    description: 'İSG Kanunu (Madde 1-40)',
+    kanunId: 'isg',
+    startMadde: 1,
+    endMadde: 50,
+    icon: 'fa-solid fa-hard-hat'
+  },
+  // ── Usul (ek) ─────────────────────────────────────────────────────────────
+  {
+    id: 'tebligat',
+    slug: 'tebligat',
+    name: 'Tebligat Kanunu',
+    description: 'Tebligat Kanunu (Madde 1-64)',
+    kanunId: 'tebligat',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-envelope'
+  },
+  {
+    id: 'arabuluculuk',
+    slug: 'arabuluculuk',
+    name: 'Arabuluculuk Kanunu',
+    description: 'Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu (Madde 1-38)',
+    kanunId: 'arabuluculuk',
+    startMadde: 1,
+    endMadde: 50,
+    icon: 'fa-solid fa-handshake-angle'
+  },
+  // ── Güvenlik Hukuku ───────────────────────────────────────────────────────
+  {
+    id: 'pvsk',
+    slug: 'pvsk',
+    name: 'Polis Vazife ve Salâhiyet Kanunu',
+    description: 'PVSK (Madde 1-30)',
+    kanunId: 'pvsk',
+    startMadde: 1,
+    endMadde: 40,
+    icon: 'fa-solid fa-shield-halved'
+  },
+  {
+    id: 'jandarma',
+    slug: 'jandarma',
+    name: 'Jandarma Teşkilat, Görev ve Yetkileri Kanunu',
+    description: 'Jandarma Kanunu (Madde 1-29)',
+    kanunId: 'jandarma',
+    startMadde: 1,
+    endMadde: 40,
+    icon: 'fa-solid fa-star-of-life'
+  },
+  {
+    id: 'tsk-ic-hizmet',
+    slug: 'tsk-ic-hizmet',
+    name: 'TSK İç Hizmet Kanunu',
+    description: 'TSK İç Hizmet Kanunu (Madde 1-118)',
+    kanunId: 'tsk-ic-hizmet',
+    startMadde: 1,
+    endMadde: 150,
+    icon: 'fa-solid fa-star'
+  },
+  // ── Vergi (ek) ────────────────────────────────────────────────────────────
+  {
+    id: 'otv',
+    slug: 'otv',
+    name: 'Özel Tüketim Vergisi Kanunu',
+    description: 'ÖTV Kanunu (Madde 1-22)',
+    kanunId: 'otv',
+    startMadde: 1,
+    endMadde: 30,
+    icon: 'fa-solid fa-gas-pump'
+  },
+  // ── Yerel Yönetimler ──────────────────────────────────────────────────────
+  {
+    id: 'il-idaresi',
+    slug: 'il-idaresi',
+    name: 'İl İdaresi Kanunu',
+    description: 'İl İdaresi Kanunu (Madde 1-65)',
+    kanunId: 'il-idaresi',
+    startMadde: 1,
+    endMadde: 80,
+    icon: 'fa-solid fa-landmark'
+  },
+  {
+    id: 'belediye',
+    slug: 'belediye',
+    name: 'Belediye Kanunu',
+    description: 'Belediye Kanunu (Madde 1-87)',
+    kanunId: 'belediye',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-city'
+  },
+  {
+    id: 'buyuksehir',
+    slug: 'buyuksehir',
+    name: 'Büyükşehir Belediyesi Kanunu',
+    description: 'Büyükşehir Belediyesi Kanunu (Madde 1-31)',
+    kanunId: 'buyuksehir',
+    startMadde: 1,
+    endMadde: 40,
+    icon: 'fa-solid fa-city'
+  },
+  // ── Kamu İhale ────────────────────────────────────────────────────────────
+  {
+    id: 'kamu-ihale-sozlesmeleri',
+    slug: 'kamu-ihale-sozlesmeleri',
+    name: 'Kamu İhale Sözleşmeleri Kanunu',
+    description: 'Kamu İhale Sözleşmeleri Kanunu (Madde 1-41)',
+    kanunId: 'kamu-ihale-sozlesmeleri',
+    startMadde: 1,
+    endMadde: 50,
+    icon: 'fa-solid fa-file-signature'
+  },
+  {
+    id: 'devlet-ihale',
+    slug: 'devlet-ihale',
+    name: 'Devlet İhale Kanunu',
+    description: 'Devlet İhale Kanunu (Madde 1-93)',
+    kanunId: 'devlet-ihale',
+    startMadde: 1,
+    endMadde: 100,
+    icon: 'fa-solid fa-file-contract'
+  },
+  // ── Mülkiyet (ek) ─────────────────────────────────────────────────────────
+  {
+    id: 'kamulastirma',
+    slug: 'kamulastirma',
+    name: 'Kamulaştırma Kanunu',
+    description: 'Kamulaştırma Kanunu (Madde 1-43)',
+    kanunId: 'kamulastirma',
+    startMadde: 1,
+    endMadde: 50,
+    icon: 'fa-solid fa-map-location-dot'
+  },
 ];
 
 export function getCategoryBySlug(slug: string): Category | undefined {

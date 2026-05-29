@@ -72,6 +72,8 @@ export default function Navbar() {
       dropdown: [
         { name: 'Hukuk Muhakemeleri (HMK)', href: '/kategori/hmk' },
         { name: 'İcra ve İflas (İİK)', href: '/kategori/iik' },
+        { name: 'Tebligat Kanunu', href: '/kategori/tebligat' },
+        { name: 'Arabuluculuk Kanunu', href: '/kategori/arabuluculuk' },
       ]
     },
     {
@@ -82,6 +84,7 @@ export default function Navbar() {
         { name: 'Gelir Vergisi Kanunu', href: '/kategori/gvk' },
         { name: 'Kurumlar Vergisi', href: '/kategori/kvk' },
         { name: 'KDV Kanunu', href: '/kategori/kdvk' },
+        { name: 'Özel Tüketim Vergisi', href: '/kategori/otv' },
         { name: 'Amme Alacakları (AATUHK)', href: '/kategori/aatuhk' },
       ]
     },
@@ -102,11 +105,30 @@ export default function Navbar() {
       ]
     },
     {
+      name: 'İş Hukuku',
+      href: '/mevzuat',
+      dropdown: [
+        { name: 'İş Kanunu', href: '/kategori/is-kanunu' },
+        { name: 'Sosyal Sigortalar ve GSS', href: '/kategori/ssgssk' },
+        { name: 'Sendikalar ve Toplu İş Sözleşmesi', href: '/kategori/sendikalar' },
+        { name: 'İş Sağlığı ve Güvenliği', href: '/kategori/isg' },
+      ]
+    },
+    {
       name: 'İdare Hukuku',
       href: '/mevzuat',
       dropdown: [
         { name: 'Devlet Memurları (DMK)', href: '/kategori/dmk' },
+        { name: 'Polis Vazife ve Salâhiyet', href: '/kategori/pvsk' },
+        { name: 'Jandarma Teşkilat Kanunu', href: '/kategori/jandarma' },
+        { name: 'TSK İç Hizmet Kanunu', href: '/kategori/tsk-ic-hizmet' },
+        { name: 'İl İdaresi Kanunu', href: '/kategori/il-idaresi' },
+        { name: 'Belediye Kanunu', href: '/kategori/belediye' },
+        { name: 'Büyükşehir Belediyesi', href: '/kategori/buyuksehir' },
         { name: 'İmar Kanunu', href: '/kategori/imar' },
+        { name: 'Kamulaştırma Kanunu', href: '/kategori/kamulastirma' },
+        { name: 'Devlet İhale Kanunu', href: '/kategori/devlet-ihale' },
+        { name: 'Kamu İhale Sözleşmeleri', href: '/kategori/kamu-ihale-sozlesmeleri' },
         { name: 'Dernekler Kanunu', href: '/kategori/dernekler' },
         { name: 'Vakıflar Kanunu', href: '/kategori/vakiflar' },
         { name: 'Karayolları Trafik Kanunu', href: '/kategori/ktk' },
