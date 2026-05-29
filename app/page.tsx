@@ -1,14 +1,8 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
-import About from "@/components/About";
-import Expertise from "@/components/Expertise";
-import Protocol from "@/components/Protocol";
-import FamilyLaw from "@/components/FamilyLaw";
-import InsuranceLaw from "@/components/InsuranceLaw";
-import PropertyLaw from "@/components/PropertyLaw";
-import CommercialLaw from "@/components/CommercialLaw";
-import Articles from "@/components/Articles";
+import ToolsPreview from "@/components/ToolsPreview";
 import DailyNews from "@/components/DailyNews";
+import Articles from "@/components/Articles";
 import Footer from "@/components/Footer";
 
 export default function Home() {
@@ -16,17 +10,10 @@ export default function Home() {
     <main className="relative w-full bg-cream overflow-hidden">
       <Navbar />
       <Hero />
-      <Expertise />
-      <About />
-      <Protocol />
-      <FamilyLaw />
-      <CommercialLaw />
-      <InsuranceLaw />
-      <PropertyLaw />
+      <ToolsPreview />
       <DailyNews />
       <Articles />
       <Footer />
     </main>
   );
 }
-

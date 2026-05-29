@@ -101,6 +101,14 @@ export default function Footer() {
             <Link href="#" className="hover:text-accent transition-colors">Yasal Uyarı</Link>
           </div>
         </div>
+
+        {/* SEO yerel metin */}
+        <p className="mt-12 text-center text-cream/15 text-[10px] font-sans leading-relaxed max-w-3xl mx-auto">
+          Av. Fethi Güzel — Van, Erciş, Muradiye, Çaldıran, Özalp, Başkale, Gürpınar, Ağrı ve çevre ilçelerde hukuki danışmanlık,
+          dava vekilliği, arabuluculuk ve akademik hukuk danışmanlığı hizmetleri sunulmaktadır.
+          Ceza hukuku, medeni hukuk, aile hukuku, iş hukuku, gayrimenkul hukuku, idare hukuku ve ticaret hukuku alanlarında
+          profesyonel temsil için iletişime geçebilirsiniz.
+        </p>
       </div>
     </footer>
   );

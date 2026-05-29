@@ -1,230 +1,271 @@
 "use client";
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 import { Menu, X, Scale, ChevronDown } from 'lucide-react';
 
+const MEVZUAT_GRUPLARI = [
+  {
+    grup: 'Medeni & Aile Hukuku',
+    maddeler: [
+      { ad: 'Başlangıç Hükümleri', href: '/kategori/tmk-baslangic' },
+      { ad: 'Kişiler Hukuku', href: '/kategori/kisiler-hukuku' },
+      { ad: 'Aile Hukuku', href: '/kategori/aile-hukuku' },
+      { ad: 'Ailenin Korunması', href: '/kategori/aile-koruma' },
+      { ad: 'Miras Hukuku', href: '/kategori/miras-hukuku' },
+      { ad: 'Eşya Hukuku', href: '/kategori/esya-hukuku' },
+      { ad: 'Kat Mülkiyeti', href: '/kategori/katmulkiyeti' },
+    ],
+  },
+  {
+    grup: 'Borçlar & Ticaret',
+    maddeler: [
+      { ad: 'Borçlar Genel', href: '/kategori/borclar-genel' },
+      { ad: 'Borçlar Özel', href: '/kategori/borclar-ozel' },
+      { ad: 'Ticari İşletme', href: '/kategori/ticari-isletme' },
+      { ad: 'Şirketler', href: '/kategori/ticari-sirketler' },
+      { ad: 'Kıymetli Evrak', href: '/kategori/kiymetli-evrak' },
+      { ad: 'Çek Kanunu', href: '/kategori/cek' },
+      { ad: 'Rekabetin Korunması', href: '/kategori/rkhk' },
+      { ad: 'Bankacılık', href: '/kategori/bk' },
+      { ad: 'Sermaye Piyasası', href: '/kategori/spk' },
+    ],
+  },
+  {
+    grup: 'Ceza & Usul',
+    maddeler: [
+      { ad: 'TCK Genel', href: '/kategori/tck-genel' },
+      { ad: 'Kişilere Karşı Suçlar', href: '/kategori/tck-kisiler' },
+      { ad: 'Topluma Karşı Suçlar', href: '/kategori/tck-toplum' },
+      { ad: 'Millete/Devlete Karşı', href: '/kategori/tck-devlet' },
+      { ad: 'Ceza Muhakemesi (CMK)', href: '/kategori/cmk' },
+      { ad: 'Çocuk Koruma', href: '/kategori/cck' },
+      { ad: 'HMK', href: '/kategori/hmk' },
+      { ad: 'İcra ve İflas (İİK)', href: '/kategori/iik' },
+      { ad: 'Tebligat Kanunu', href: '/kategori/tebligat' },
+      { ad: 'Arabuluculuk', href: '/kategori/arabuluculuk' },
+    ],
+  },
+  {
+    grup: 'Vergi & Finans',
+    maddeler: [
+      { ad: 'Vergi Usul (VUK)', href: '/kategori/vuk' },
+      { ad: 'Gelir Vergisi (GVK)', href: '/kategori/gvk' },
+      { ad: 'Kurumlar Vergisi', href: '/kategori/kvk' },
+      { ad: 'KDV Kanunu', href: '/kategori/kdvk' },
+      { ad: 'ÖTV Kanunu', href: '/kategori/otv' },
+      { ad: 'AATUHK', href: '/kategori/aatuhk' },
+      { ad: 'Kaçakçılıkla Mücadele', href: '/kategori/kmk' },
+    ],
+  },
+  {
+    grup: 'İdare & Kamu',
+    maddeler: [
+      { ad: 'Devlet Memurları (DMK)', href: '/kategori/dmk' },
+      { ad: 'Polis Vazife (PVSK)', href: '/kategori/pvsk' },
+      { ad: 'Jandarma Teşkilat', href: '/kategori/jandarma' },
+      { ad: 'TSK İç Hizmet', href: '/kategori/tsk-ic-hizmet' },
+      { ad: 'İl İdaresi', href: '/kategori/il-idaresi' },
+      { ad: 'Belediye', href: '/kategori/belediye' },
+      { ad: 'Büyükşehir Belediyesi', href: '/kategori/buyuksehir' },
+      { ad: 'İmar Kanunu', href: '/kategori/imar' },
+      { ad: 'Kamulaştırma', href: '/kategori/kamulastirma' },
+      { ad: 'Devlet İhale', href: '/kategori/devlet-ihale' },
+      { ad: 'Kamu İhale Sözleşmeleri', href: '/kategori/kamu-ihale-sozlesmeleri' },
+      { ad: 'Dernekler', href: '/kategori/dernekler' },
+      { ad: 'Vakıflar', href: '/kategori/vakiflar' },
+    ],
+  },
+  {
+    grup: 'İş & Tüketici',
+    maddeler: [
+      { ad: 'İş Kanunu', href: '/kategori/is-kanunu' },
+      { ad: 'SSGSSK', href: '/kategori/ssgssk' },
+      { ad: 'Sendikalar ve TİS', href: '/kategori/sendikalar' },
+      { ad: 'İş Sağlığı ve Güvenliği', href: '/kategori/isg' },
+      { ad: 'Tüketicinin Korunması', href: '/kategori/tkhk' },
+      { ad: 'KVKK', href: '/kategori/kvkk' },
+      { ad: 'Karayolları Trafik', href: '/kategori/ktk' },
+      { ad: 'Türk Vatandaşlığı', href: '/kategori/tvk' },
+      { ad: 'Nüfus Hizmetleri', href: '/kategori/nhk' },
+      { ad: 'Yabancılar (YUKK)', href: '/kategori/yukk' },
+    ],
+  },
+];
+
 export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
-  const [mobileMenu, setMobileMenu] = useState(false);
+  const [mobileOpen, setMobileOpen] = useState(false);
+  const [megaOpen, setMegaOpen] = useState(false);
+  const megaRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    const handleScroll = () => setScrolled(window.scrollY > 50);
-    window.addEventListener('scroll', handleScroll);
-    return () => window.removeEventListener('scroll', handleScroll);
+    const onScroll = () => setScrolled(window.scrollY > 50);
+    window.addEventListener('scroll', onScroll);
+    return () => window.removeEventListener('scroll', onScroll);
   }, []);
 
-  const menuItems = [
+  // Close mega on outside click
+  useEffect(() => {
+    const handler = (e: MouseEvent) => {
+      if (megaRef.current && !megaRef.current.contains(e.target as Node)) {
+        setMegaOpen(false);
+      }
+    };
+    document.addEventListener('mousedown', handler);
+    return () => document.removeEventListener('mousedown', handler);
+  }, []);
+
+  const simpleLinks = [
     { name: 'Hakkımda', href: '/#manifesto' },
     { name: 'Güncel', href: '/icthat' },
-    {
-      name: 'Medeni Hukuk',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Başlangıç Hükümleri', href: '/kategori/tmk-baslangic' },
-        { name: 'Kişiler Hukuku', href: '/kategori/kisiler-hukuku' },
-        { name: 'Aile Hukuku', href: '/kategori/aile-hukuku' },
-        { name: 'Ailenin Korunması', href: '/kategori/aile-koruma' },
-        { name: 'Miras Hukuku', href: '/kategori/miras-hukuku' },
-        { name: 'Eşya Hukuku', href: '/kategori/esya-hukuku' },
-        { name: 'Kat Mülkiyeti Kanunu', href: '/kategori/katmulkiyeti' },
-      ]
-    },
-    { 
-      name: 'Borçlar Hukuku', 
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Genel Hükümler', href: '/kategori/borclar-genel' },
-        { name: 'Özel Hükümler', href: '/kategori/borclar-ozel' },
-      ]
-    },
-    {
-      name: 'Ticaret Hukuku',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Ticari İşletme Hukuku', href: '/kategori/ticari-isletme' },
-        { name: 'Şirketler Hukuku', href: '/kategori/ticari-sirketler' },
-        { name: 'Kıymetli Evrak Hukuku', href: '/kategori/kiymetli-evrak' },
-        { name: 'Taşıma Hukuku', href: '/kategori/tasima-hukuku' },
-        { name: 'Deniz Ticareti Hukuku', href: '/kategori/deniz-ticareti' },
-        { name: 'Sigorta Hukuku', href: '/kategori/sigorta-hukuku' },
-        { name: 'Yürürlük ve Son Hükümler', href: '/kategori/ttk-son-hukumler' },
-        { name: 'Çek Kanunu', href: '/kategori/cek' },
-        { name: 'Rekabetin Korunması', href: '/kategori/rkhk' },
-      ]
-    },
-    {
-      name: 'Ceza Hukuku',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Genel Hükümler (TCK)', href: '/kategori/tck-genel' },
-        { name: 'Uluslararası Suçlar', href: '/kategori/tck-uluslararasi' },
-        { name: 'Kişilere Karşı Suçlar', href: '/kategori/tck-kisiler' },
-        { name: 'Topluma Karşı Suçlar', href: '/kategori/tck-toplum' },
-        { name: 'Millete ve Devlete Karşı Suçlar', href: '/kategori/tck-devlet' },
-        { name: 'Ceza Muhakemesi (CMK)', href: '/kategori/cmk' },
-        { name: 'Çocuk Koruma Kanunu', href: '/kategori/cck' },
-      ]
-    },
-    {
-      name: 'Usul Hukuku',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Hukuk Muhakemeleri (HMK)', href: '/kategori/hmk' },
-        { name: 'İcra ve İflas (İİK)', href: '/kategori/iik' },
-        { name: 'Tebligat Kanunu', href: '/kategori/tebligat' },
-        { name: 'Arabuluculuk Kanunu', href: '/kategori/arabuluculuk' },
-      ]
-    },
-    {
-      name: 'Vergi Hukuku',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Vergi Usul Kanunu', href: '/kategori/vuk' },
-        { name: 'Gelir Vergisi Kanunu', href: '/kategori/gvk' },
-        { name: 'Kurumlar Vergisi', href: '/kategori/kvk' },
-        { name: 'KDV Kanunu', href: '/kategori/kdvk' },
-        { name: 'Özel Tüketim Vergisi', href: '/kategori/otv' },
-        { name: 'Amme Alacakları (AATUHK)', href: '/kategori/aatuhk' },
-      ]
-    },
-    {
-      name: 'Finans Hukuku',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Bankacılık Kanunu', href: '/kategori/bk' },
-        { name: 'Sermaye Piyasası Kanunu', href: '/kategori/spk' },
-      ]
-    },
-    {
-      name: 'Tüketici Hukuku',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Tüketicinin Korunması (TKHK)', href: '/kategori/tkhk' },
-        { name: 'Kişisel Verilerin Korunması (KVKK)', href: '/kategori/kvkk' },
-      ]
-    },
-    {
-      name: 'İş Hukuku',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'İş Kanunu', href: '/kategori/is-kanunu' },
-        { name: 'Sosyal Sigortalar ve GSS', href: '/kategori/ssgssk' },
-        { name: 'Sendikalar ve Toplu İş Sözleşmesi', href: '/kategori/sendikalar' },
-        { name: 'İş Sağlığı ve Güvenliği', href: '/kategori/isg' },
-      ]
-    },
-    {
-      name: 'İdare Hukuku',
-      href: '/mevzuat',
-      dropdown: [
-        { name: 'Devlet Memurları (DMK)', href: '/kategori/dmk' },
-        { name: 'Polis Vazife ve Salâhiyet', href: '/kategori/pvsk' },
-        { name: 'Jandarma Teşkilat Kanunu', href: '/kategori/jandarma' },
-        { name: 'TSK İç Hizmet Kanunu', href: '/kategori/tsk-ic-hizmet' },
-        { name: 'İl İdaresi Kanunu', href: '/kategori/il-idaresi' },
-        { name: 'Belediye Kanunu', href: '/kategori/belediye' },
-        { name: 'Büyükşehir Belediyesi', href: '/kategori/buyuksehir' },
-        { name: 'İmar Kanunu', href: '/kategori/imar' },
-        { name: 'Kamulaştırma Kanunu', href: '/kategori/kamulastirma' },
-        { name: 'Devlet İhale Kanunu', href: '/kategori/devlet-ihale' },
-        { name: 'Kamu İhale Sözleşmeleri', href: '/kategori/kamu-ihale-sozlesmeleri' },
-        { name: 'Dernekler Kanunu', href: '/kategori/dernekler' },
-        { name: 'Vakıflar Kanunu', href: '/kategori/vakiflar' },
-        { name: 'Karayolları Trafik Kanunu', href: '/kategori/ktk' },
-        { name: 'Türk Vatandaşlığı Kanunu', href: '/kategori/tvk' },
-        { name: 'Nüfus Hizmetleri Kanunu', href: '/kategori/nhk' },
-        { name: 'Yabancılar ve Uluslararası Koruma', href: '/kategori/yukk' },
-      ]
-    },
+    { name: 'Hesaplama', href: '/hesaplama' },
     { name: 'Makalelerim', href: '/makaleler' },
     { name: 'Eserlerim', href: '/eserlerim' },
   ];
 
+  const linkCls = scrolled ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';
+
   return (
-    <nav className={`fixed top-8 left-1/2 -translate-x-1/2 z-[1000] w-[95%] max-w-7xl transition-all duration-500 rounded-pill ${
-      scrolled ? 'glass py-3 px-8' : 'bg-transparent py-6 px-4'
+    <nav className={`fixed top-6 left-1/2 -translate-x-1/2 z-[900] w-[95%] max-w-7xl transition-all duration-500 rounded-[3rem] ${
+      scrolled ? 'glass py-3 px-6' : 'bg-transparent py-4 px-4'
     }`}>
-      <div className="flex items-center justify-between">
-        <Link href="/" className="text-xl font-bold font-heading tracking-tight flex items-center gap-2 group shrink-0">
-          <div className="w-8 h-8 bg-accent rounded-full flex items-center justify-center text-cream transition-transform group-hover:rotate-12">
-            <Scale size={18} />
+      <div className="flex items-center justify-between gap-3">
+
+        {/* Logo */}
+        <Link
+          href="/"
+          className="flex items-center gap-2 font-heading font-bold text-lg tracking-tight group shrink-0"
+        >
+          <div className="w-8 h-8 bg-accent rounded-full flex items-center justify-center text-cream group-hover:rotate-12 transition-transform">
+            <Scale size={16} />
           </div>
           <span className={scrolled ? 'text-charcoal' : 'text-cream'}>AV. FETHİ GÜZEL</span>
         </Link>
 
-        {/* Desktop Navigation */}
-        <div className="hidden lg:flex items-center gap-6 font-heading text-[13px] font-bold tracking-wide">
-          {menuItems.map((item) => (
-            <div key={item.name} className="relative group/item py-2">
-              <Link 
-                href={item.href} 
-                className={`flex items-center gap-1 ${scrolled ? 'text-charcoal' : 'text-cream/80'} hover:text-accent transition-colors uppercase`}
-              >
-                {item.name}
-                {item.dropdown && <ChevronDown size={14} className="opacity-40 group-hover/item:rotate-180 transition-transform" />}
-              </Link>
-
-              {item.dropdown && (
-                <div className="absolute top-full left-0 mt-2 w-64 glass rounded-2xl p-4 opacity-0 invisible group-hover/item:opacity-100 group-hover/item:visible transition-all duration-300 transform translate-y-2 group-hover/item:translate-y-0 shadow-2xl border border-charcoal/5">
-                  <div className="flex flex-col gap-2">
-                    {item.dropdown.map((sub) => (
-                      <Link 
-                        key={sub.name} 
-                        href={sub.href} 
-                        className="text-charcoal/70 hover:text-accent hover:bg-accent/5 px-4 py-2 rounded-xl transition-all text-xs"
-                      >
-                        {sub.name}
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-              )}
-            </div>
+        {/* Desktop nav */}
+        <div className="hidden lg:flex items-center gap-1 font-heading text-[12px] font-bold tracking-wide uppercase">
+          {simpleLinks.map(item => (
+            <Link
+              key={item.name}
+              href={item.href}
+              className={`px-3 py-2 rounded-full transition-colors ${linkCls}`}
+            >
+              {item.name}
+            </Link>
           ))}
+
+          {/* Mevzuat mega trigger */}
+          <div ref={megaRef} className="relative">
+            <button
+              onMouseEnter={() => setMegaOpen(true)}
+              onClick={() => setMegaOpen(v => !v)}
+              className={`flex items-center gap-1 px-3 py-2 rounded-full transition-colors ${linkCls}`}
+            >
+              Mevzuat
+              <ChevronDown size={13} className={`transition-transform duration-300 ${megaOpen ? 'rotate-180' : ''}`} />
+            </button>
+
+            {megaOpen && (
+              <div
+                onMouseLeave={() => setMegaOpen(false)}
+                className="absolute top-full mt-3 left-1/2 -translate-x-1/2 w-[860px] max-w-[90vw] glass rounded-[2rem] shadow-2xl border border-charcoal/8 z-[9999] p-8"
+              >
+                <div className="grid grid-cols-3 gap-x-10 gap-y-6">
+                  {MEVZUAT_GRUPLARI.map(g => (
+                    <div key={g.grup}>
+                      <p className="text-[10px] font-bold uppercase tracking-widest text-accent mb-3">{g.grup}</p>
+                      <div className="flex flex-col gap-[3px]">
+                        {g.maddeler.map(m => (
+                          <Link
+                            key={m.href}
+                            href={m.href}
+                            onClick={() => setMegaOpen(false)}
+                            className="text-charcoal/65 hover:text-accent text-[11px] leading-5 transition-colors"
+                          >
+                            {m.ad}
+                          </Link>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+                <div className="mt-6 pt-5 border-t border-charcoal/8 flex items-center justify-between">
+                  <Link
+                    href="/mevzuat"
+                    onClick={() => setMegaOpen(false)}
+                    className="text-[11px] font-bold text-accent hover:underline"
+                  >
+                    Tüm Mevzuatı Görüntüle →
+                  </Link>
+                  <span className="text-[10px] font-mono text-charcoal/30 uppercase tracking-widest">
+                    50+ Kanun · Güncel
+                  </span>
+                </div>
+              </div>
+            )}
+          </div>
         </div>
 
-        <Link 
-          href="/#iletisim" 
-          className="hidden lg:block relative overflow-hidden group magnetic-btn bg-accent text-white px-6 py-2.5 rounded-full text-xs font-bold shrink-0"
+        {/* CTA */}
+        <Link
+          href="/#iletisim"
+          className="hidden lg:block relative overflow-hidden group bg-accent text-white px-5 py-2.5 rounded-full text-[11px] font-bold shrink-0 transition-all"
         >
           <span className="relative z-10">DANIŞMANLIK</span>
-          <div className="absolute inset-0 w-0 bg-charcoal transition-all duration-500 ease-out group-hover:w-full"></div>
+          <div className="absolute inset-0 w-0 bg-charcoal transition-all duration-500 group-hover:w-full rounded-full" />
         </Link>
 
-        <button className={scrolled ? 'lg:hidden text-charcoal' : 'lg:hidden text-cream'} onClick={() => setMobileMenu(!mobileMenu)}>
-          {mobileMenu ? <X /> : <Menu />}
+        {/* Mobile burger */}
+        <button
+          className={`lg:hidden transition-colors ${scrolled ? 'text-charcoal' : 'text-cream'}`}
+          onClick={() => setMobileOpen(v => !v)}
+          aria-label="Menü"
+        >
+          {mobileOpen ? <X size={22} /> : <Menu size={22} />}
         </button>
       </div>
 
-      {/* Mobile Menu */}
-      {mobileMenu && (
-        <div className="absolute top-full left-0 right-0 mt-4 glass rounded-[2rem] p-6 flex flex-col gap-2 lg:hidden max-h-[80vh] overflow-y-auto">
-          {menuItems.map((item) => (
-            <div key={item.name} className="flex flex-col gap-2">
-              <Link 
-                href={item.href} 
-                className="text-charcoal font-heading text-lg font-bold uppercase py-2 border-b border-charcoal/5" 
-                onClick={() => !item.dropdown && setMobileMenu(false)}
-              >
-                {item.name}
-              </Link>
-              {item.dropdown && (
-                <div className="pl-4 flex flex-col gap-2 mb-4">
-                  {item.dropdown.map((sub) => (
-                    <Link 
-                      key={sub.name} 
-                      href={sub.href} 
-                      className="text-charcoal/60 text-sm font-medium" 
-                      onClick={() => setMobileMenu(false)}
+      {/* Mobile panel */}
+      {mobileOpen && (
+        <div className="absolute top-full left-0 right-0 mt-3 glass rounded-[2rem] p-6 lg:hidden max-h-[82vh] overflow-y-auto flex flex-col gap-1">
+          {simpleLinks.map(item => (
+            <Link
+              key={item.name}
+              href={item.href}
+              onClick={() => setMobileOpen(false)}
+              className="text-charcoal font-heading font-bold uppercase text-base py-2.5 border-b border-charcoal/6"
+            >
+              {item.name}
+            </Link>
+          ))}
+          <div className="mt-3">
+            <p className="text-[10px] font-mono uppercase tracking-widest text-charcoal/30 mb-4">Mevzuat</p>
+            {MEVZUAT_GRUPLARI.map(g => (
+              <div key={g.grup} className="mb-5">
+                <p className="text-[10px] font-bold uppercase tracking-widest text-accent mb-2">{g.grup}</p>
+                <div className="pl-3 flex flex-col gap-1">
+                  {g.maddeler.map(m => (
+                    <Link
+                      key={m.href}
+                      href={m.href}
+                      onClick={() => setMobileOpen(false)}
+                      className="text-charcoal/60 text-sm py-0.5"
                     >
-                      {sub.name}
+                      {m.ad}
                     </Link>
                   ))}
                 </div>
-              )}
-            </div>
-          ))}
+              </div>
+            ))}
+          </div>
+          <Link
+            href="/#iletisim"
+            onClick={() => setMobileOpen(false)}
+            className="mt-4 block text-center bg-accent text-white py-3 rounded-2xl font-bold text-sm"
+          >
+            DANIŞMANLIK
+          </Link>
         </div>
       )}
     </nav>
