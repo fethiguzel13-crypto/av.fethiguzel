@@ -1,0 +1,22 @@
+---
+title: "Rekabetin Korunması Hakkında Kanun Madde 8"
+kanun: "Rekabetin Korunması Hakkında Kanun"
+maddeNo: 8
+commentaryStatus: "pending"
+---
+
+**Menfi Tespit**
+
+---
+
+Madde 8 – İlgili teşebbüs veya teşebbüs birliklerinin başvurusu üzerine Kurul, elinde
+bulunan bilgiler çerçevesinde bir anlaşmanın, kararın, eylemin veya birleşme ve devralmanın bu
+Kanunun 4, 6 ve 7 nci maddelerine aykırı olmadığını gösteren bir menfi tespit belgesi verebilir.
+Kurul, bu belgenin düzenlenmesinden sonra 13 üncü maddedeki şartlar çerçevesinde
+görüşünden her zaman dönebilir. Ancak bu durumda taraflara Kurulun görüş değiştirmesine
+kadar geçen süre için cezai müeyyide uygulanmaz.
+İhlale Son Verme
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

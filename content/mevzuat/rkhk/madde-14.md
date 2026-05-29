@@ -1,0 +1,21 @@
+---
+title: "Rekabetin Korunması Hakkında Kanun Madde 14"
+kanun: "Rekabetin Korunması Hakkında Kanun"
+maddeNo: 14
+commentaryStatus: "pending"
+---
+
+**Bilgi isteme**
+
+---
+
+Madde 14 – Kurul, bu Kanunun kendisine verdiği görevleri yerine getirirken, gerekli
+gördüğü her türlü bilgiyi tüm kamu kurum ve kuruluşlarından, teşebbüslerden ve teşebbüs
+birliklerinden isteyebilir.
+Bu makamlar, teşebbüsler ve teşebbüs birliklerinin yetkilileri istenen bilgileri Kurulun
+belirleyeceği süre içinde vermek zorundadır.
+Yerinde İnceleme
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

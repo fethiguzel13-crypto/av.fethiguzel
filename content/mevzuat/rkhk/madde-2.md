@@ -1,0 +1,22 @@
+---
+title: "Rekabetin Korunması Hakkında Kanun Madde 2"
+kanun: "Rekabetin Korunması Hakkında Kanun"
+maddeNo: 2
+commentaryStatus: "pending"
+---
+
+**Kapsam**
+
+---
+
+Madde 2 – Türkiye Cumhuriyeti sınırları içinde mal ve hizmet piyasalarında faaliyet
+gösteren ya da bu piyasaları etkileyen her türlü teşebbüsün aralarında yaptığı rekabeti
+engelleyici, bozucu ve kısıtlayıcı anlaşma, uygulama ve kararlar ile piyasaya hakim olan
+teşebbüslerin bu hakimiyetlerini kötüye kullanmaları ve rekabeti önemli ölçüde azaltacak
+birleşme ve devralma niteliğindeki her türlü hukuki işlem ve davranışlar, rekabetin korunmasına
+yönelik tedbir, tespit, düzenleme ve denetlemeye ilişkin işlemler bu Kanun kapsamına girer.
+Tanımlar
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
