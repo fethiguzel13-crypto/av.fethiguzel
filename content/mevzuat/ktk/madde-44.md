@@ -1,0 +1,24 @@
+---
+title: "Karayolları Trafik Kanunu Madde 44"
+kanun: "Karayolları Trafik Kanunu"
+maddeNo: 44
+commentaryStatus: "pending"
+---
+
+**Adres değişikliklerinin bildirilmesi ve sürücü belgelerinin taşınması zorunluluğu**
+
+---
+
+Madde 44 – Sürücü belgesi sahipleri:
+a) İkamet adresi değişikliklerini belgeyi veren kuruluşa otuz gün içinde bildirmek,
+b) Araç kullanırken sürücü belgelerini yanlarında bulundurmak ve yetkililerin her
+isteyişinde göstermek,
+Zorundadırlar.
+
+(Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler, 3 600 000
+lira para cezası ile cezalandırılırlar.
+Sürücülerin sağlık şartlarında sonradan meydana gelen değişiklikler:39
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

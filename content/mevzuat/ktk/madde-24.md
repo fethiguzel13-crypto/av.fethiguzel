@@ -1,0 +1,22 @@
+---
+title: "Karayolları Trafik Kanunu Madde 24"
+kanun: "Karayolları Trafik Kanunu"
+maddeNo: 24
+commentaryStatus: "pending"
+---
+
+**Araç muayene raporu:25**
+
+---
+
+Madde 24 – (Değişik: 2/1/2017 – KHK-680/53 md.; Aynen kabul: 1/2/20187072/52 md.)
+Bu Kanunun 35 inci maddesiyle yetkilendirilen kuruluşlarca araç muayene raporu
+tanzim edilebilmesi için araç tescil belgesi veya sahiplik belgesi ile zorunlu mali sorumluluk
+sigortasının ibrazı zorunludur.
+Tescil belgesi ve tescil plakalarının verilmesi şartları, geçerlilikleri, süreleri, nitelik ve
+nicelikleri ile diğer esaslar yönetmelikte gösterilir.
+Geçici trafik belgeleri ile geçici tescil plakaları:
+
+### Bizim Yorumumuz
+
+Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
