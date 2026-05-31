@@ -179,41 +179,82 @@ function KidemTazminati() {
 
 // ─── 2. İHBAR TAZMİNATI ───────────────────────────────────────────────────────
 
+// 2026 Gelir Vergisi Dilimleri (ücret gelirleri)
+const GELIR_VERGISI_DILIMLERI = [
+  { ust: 190000,   oran: 0.15 },
+  { ust: 400000,   oran: 0.20 },
+  { ust: 1500000,  oran: 0.27 },
+  { ust: 5300000,  oran: 0.35 },
+  { ust: Infinity, oran: 0.40 },
+];
+
+function hesaplaGelirVergisi(kumulatifMatrah: number, ekGelir: number): number {
+  // Kümülatif matraha eklenen gelir üzerindeki vergiyi hesaplar (dilim geçişlerini dikkate alarak)
+  const oncekiVergi = gelirVergisiTopla(kumulatifMatrah);
+  const sonrakiVergi = gelirVergisiTopla(kumulatifMatrah + ekGelir);
+  return sonrakiVergi - oncekiVergi;
+}
+
+function gelirVergisiTopla(matrah: number): number {
+  let toplam = 0;
+  let kalan = matrah;
+  let oncekiUst = 0;
+  for (const d of GELIR_VERGISI_DILIMLERI) {
+    const dilimGenisligi = d.ust - oncekiUst;
+    const dilimdeki = Math.min(kalan, dilimGenisligi);
+    if (dilimdeki <= 0) break;
+    toplam += dilimdeki * d.oran;
+    kalan -= dilimdeki;
+    oncekiUst = d.ust;
+    if (kalan <= 0) break;
+  }
+  return toplam;
+}
+
 function IhbarTazminati() {
   const [yil, setYil] = useState("5");
   const [brutUcret, setBrutUcret] = useState("50000");
+  const [kumulatifMatrah, setKumulatifMatrah] = useState("0");
 
   const result = useMemo(() => {
     const y = parseFloat(yil) || 0;
     const brut = parseFloat(brutUcret.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const kumMatrah = parseFloat(kumulatifMatrah.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     let haftaSayisi = 2;
     if (y >= 0.5 && y < 1.5) haftaSayisi = 4;
     else if (y >= 1.5 && y < 3) haftaSayisi = 6;
     else if (y >= 3) haftaSayisi = 8;
     const gunluk = brut / 30;
     const brutIhbar = gunluk * haftaSayisi * 7;
+    const gelirVergisi = hesaplaGelirVergisi(kumMatrah, brutIhbar);
     const damga = brutIhbar * 0.00759;
-    const net = brutIhbar - damga;
-    return { haftaSayisi, brutIhbar, damga, net };
-  }, [yil, brutUcret]);
+    const net = brutIhbar - gelirVergisi - damga;
+    // Efektif vergi oranı
+    const efektifOran = brutIhbar > 0 ? (gelirVergisi / brutIhbar) * 100 : 0;
+    return { haftaSayisi, brutIhbar, gelirVergisi, damga, net, efektifOran };
+  }, [yil, brutUcret, kumulatifMatrah]);
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+    <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
       <Field label="Çalışma Süresi (yıl)">
         <input type="number" min="0" step="0.5" value={yil} onChange={e => setYil(e.target.value)} className={inp} />
       </Field>
       <Field label="Brüt Aylık Ücret (TL)">
         <input type="text" value={brutUcret} onChange={e => setBrutUcret(e.target.value)} className={inp} />
       </Field>
-      <div className="col-span-full">
+      <Field label="Kümülatif Vergi Matrahı (TL)">
+        <input type="text" value={kumulatifMatrah} onChange={e => setKumulatifMatrah(e.target.value)} placeholder="Yılbaşından bugüne toplam matrah" className={inp} />
+      </Field>
+      <div className="md:col-span-3">
         <Result
           rows={[
             ["Bildirim Süresi", `${result.haftaSayisi} hafta (${result.haftaSayisi * 7} gün)`],
             ["Brüt İhbar Tazminatı", `${fmt(result.brutIhbar)} TL`],
-            ["Damga Vergisi", `${fmt(result.damga)} TL`],
+            ["Gelir Vergisi (efektif %" + fmt(result.efektifOran, 1) + ")", `− ${fmt(result.gelirVergisi)} TL`],
+            ["Damga Vergisi (‰7,59)", `− ${fmt(result.damga)} TL`],
             ["Net İhbar Tazminatı", `${fmt(result.net)} TL`],
           ]}
-          note="0–6 ay: 2 hafta | 6 ay–1,5 yıl: 4 hafta | 1,5–3 yıl: 6 hafta | 3+ yıl: 8 hafta (4857 sayılı İK md.17)"
+          note="0–6 ay: 2 hafta | 6 ay–1,5 yıl: 4 hafta | 1,5–3 yıl: 6 hafta | 3+ yıl: 8 hafta (4857 İK md.17). İhbar tazminatından gelir vergisi (kümülatif matrah dilimine göre) ve damga vergisi (‰7,59) kesilir; SGK primi kesilmez. Kümülatif matrah: yılbaşından işten ayrılma tarihine kadar elde edilen vergiye tabi ücretlerin toplamıdır."
         />
       </div>
     </div>
@@ -453,8 +494,9 @@ function IddetMuddeti() {
 
 const FAIZ_ORANLARI = [
   { etiket: "Yasal Faiz (3095 md.1) — %24", oran: 24.0 },
-  { etiket: "Ticari Temerrüt / Avans Faizi (TCMB 2026) — %49,25", oran: 49.25 },
-  { etiket: "TCMB Reeskont Faizi (2026) — %48,25", oran: 48.25 },
+  { etiket: "Ticari Avans Faizi (TCMB 20.12.2025) — %39,75", oran: 39.75 },
+  { etiket: "TCMB Reeskont Faizi (20.12.2025) — %38,75", oran: 38.75 },
+  { etiket: "TTK md.1530 Mal/Hizmet Temerrüt (01.01.2026) — %43", oran: 43.0 },
   { etiket: "Eski Yasal Faiz (2005–2024) — %9", oran: 9.0 },
   { etiket: "Özel oran (girin)", oran: 0 },
 ];
@@ -633,7 +675,7 @@ function AracDegerKaybi() {
               ["Hasar Oranı (H/R)", `%${fmt(result.hasarOrani * 100, 2)}`],
               ["Tahmini Değer Kaybı Aralığı", `${fmt(result.min)} TL — ${fmt(result.max)} TL`],
             ]}
-            note="Bu hesaplama Yargıtay içtihatlarına dayalı genel bir tahminden ibarettir. Mahkemelerde fiilen uygulanacak değer, bilirkişi tespiti, sigorta genel şartları ve aracın özel durumuna göre değişir."
+            note="Bu hesaplama genel bir tahminden ibarettir. AYM'nin sigorta genel şartlarına ilişkin iptal kararları sonrası sabit formül uygulanmamakta; araç değer kaybı, bilirkişi tarafından aracın kaza öncesi ve sonrası piyasa rayiç değeri arasındaki fark olarak somut analiz ile belirlenmektedir. Mahkemelerde uygulanacak değer, bilirkişi tespiti ve aracın özel durumuna göre değişir."
           />
         </div>
       ) : (
@@ -647,7 +689,7 @@ function AracDegerKaybi() {
 
 function TapuHarci() {
   const [deger, setDeger] = useState("3000000");
-  const [doner, setDoner] = useState("4500"); // 2026 yaklaşık döner sermaye
+  const [doner, setDoner] = useState("2534"); // 2026 döner sermaye (gösterge 2.227 + ilave 307 TL)
 
   const result = useMemo(() => {
     const d = parseFloat(deger.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
@@ -691,12 +733,11 @@ const AAUT_BASAMAKLAR = [
   { dilim: 600000,   oran: 0.16 },
   { dilim: 600000,   oran: 0.15 },
   { dilim: 1200000,  oran: 0.14 },
-  { dilim: 1200000,  oran: 0.13 },
-  { dilim: 1800000,  oran: 0.11 },
+  { dilim: 2400000,  oran: 0.11 },
   { dilim: 2400000,  oran: 0.08 },
-  { dilim: 3000000,  oran: 0.05 },
-  { dilim: 3600000,  oran: 0.03 },
-  { dilim: 4200000,  oran: 0.02 },
+  { dilim: 2400000,  oran: 0.05 },
+  { dilim: 2400000,  oran: 0.03 },
+  { dilim: 3000000,  oran: 0.02 },
   { dilim: Infinity, oran: 0.01 },
 ];
 const AAUT_MAKTU_ASLIYE = 30000; // 2026 asliye hukuk maktu vekalet ücreti (alt sınır)
@@ -744,7 +785,7 @@ function NispiVekalet() {
             ["Kabul Edilen Kısım İçin (davacı lehine)", `${fmt(result.lehVekalet)} TL`],
             ["Reddedilen Kısım İçin (davalı lehine)", `${fmt(result.aleyhVekalet)} TL`],
           ]}
-          note="2026 AAÜT Üçüncü Kısım basamaklı oranları uygulanmıştır (%16, %15, %14, %13, %11, %8, %5, %3, %2, %1). Kısmen kabul/ret halinde her iki taraf lehine ayrı vekalet ücretine hükmedilir. Vekalet ücreti yargılama giderlerine dahildir; davanın türü ve mahkemeye göre maktu alt sınır değişebilir (asliye hukuk: 30.000 TL)."
+          note="2026 AAÜT Üçüncü Kısım basamaklı oranları uygulanmıştır (%16, %15, %14, %11, %8, %5, %3, %2, %1). Kısmen kabul/ret halinde her iki taraf lehine ayrı vekalet ücretine hükmedilir. Vekalet ücreti yargılama giderlerine dahildir; davanın türü ve mahkemeye göre maktu alt sınır değişebilir (asliye hukuk: 30.000 TL)."
         />
       </div>
     </div>
@@ -762,11 +803,12 @@ function DavaAcmaHarci() {
   const result = useMemo(() => {
     const d = parseFloat(davaD.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const taraf = parseInt(tarafSayisi) || 2;
-    // Harçlar Kanunu Tarife No.1 — 2024 yaklaşık oranlar
-    const basvuruHarci = 680; // maktu (yıllık güncellenir)
-    const pesinHarc = d * 0.0068; // ‰6,831 yaklaşık
-    // Gider avansı (HMK md.120)
-    let giderAvans = taraf * 850 + 500; // taraf başı tebligat vb.
+    // Harçlar Kanunu Tarife No.1 — 2026 tutarları
+    const basvuruHarci = 732; // Asliye mahkemeleri maktu başvuru harcı (2026)
+    const nispiHarc = d * 0.06831; // ‰68,31 nispi karar ve ilam harcı
+    const pesinHarc = nispiHarc / 4; // Peşin harç = nispi harcın 1/4'ü
+    // Gider avansı (HMK md.120) — 2026 tarifesi
+    let giderAvans = taraf * 5 * 265 + 530; // taraf × 5 × tebligat ücreti + diğer işlemler
     if (bilirkisi) giderAvans += 3000;
     if (kesif) giderAvans += 2500;
     const toplam = basvuruHarci + pesinHarc + giderAvans;
@@ -797,11 +839,11 @@ function DavaAcmaHarci() {
         <Result
           rows={[
             ["Başvuru Harcı (maktu)", `${fmt(result.basvuruHarci)} TL`],
-            ["Peşin Harç (‰6,831 approx.)", `${fmt(result.pesinHarc)} TL`],
+            ["Peşin Harç (nispi harcın 1/4'ü)", `${fmt(result.pesinHarc)} TL`],
             ["Gider Avansı (tahmini)", `${fmt(result.giderAvans)} TL`],
             ["Toplam Başlangıç Masrafı", `${fmt(result.toplam)} TL`],
           ]}
-          note="Harç tutarları Harçlar Kanunu Tarife No.1 esasında hesaplanmıştır (2024 approx.). Gider avansı tahminidir; mahkeme türü ve davaya göre değişir. Yargılama sonunda kabul oranında iade yapılabilir."
+          note="Harç tutarları 492 sayılı Harçlar Kanunu Tarife No.1 (2026) esasında hesaplanmıştır. Nispi harç oranı ‰68,31 olup peşin harç bunun 1/4'üdür. Başvuru harcı asliye mahkemeleri için 732 TL'dir (sulh: 335,20 TL). Gider avansı HMK md.120 ve 2026 tarifesine göre hesaplanmıştır (tebligat birim: 265 TL). Yargılama sonunda kullanılmayan kısım iade edilir."
         />
       </div>
     </div>
@@ -821,9 +863,9 @@ function IcraKapakHesabi() {
     const fz = parseFloat(faiz.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const hrc = parseFloat(harc.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const alacak = ap + fz;
-    // Tahsil harcı (Harçlar Kanunu Tarife No.1)
-    const tahsilHarc = alacak * 0.04545; // ‰45,45
-    const cezaeviHarc = alacak * 0.00455; // ‰4,55
+    // Tahsil harcı (Harçlar Kanunu Tarife No.1 — 2026)
+    const tahsilHarc = alacak * 0.0455; // %4,55 (hacizden evvel ödeme)
+    const cezaeviHarc = alacak * 0.02; // %2 Cezaevi Yapı Harcı
     const icraVekalet = nispiVekalet(ap) * 0.5; // icra vekalet ücreti (nispi × 0.5 yaklaşık)
     const toplam = alacak + tahsilHarc + cezaeviHarc + hrc + icraVekalet;
     return { alacak, tahsilHarc, cezaeviHarc, icraVekalet, toplam };
@@ -844,12 +886,12 @@ function IcraKapakHesabi() {
         <Result
           rows={[
             ["Alacak Toplamı", `${fmt(result.alacak)} TL`],
-            ["Tahsil Harcı (‰45,45)", `${fmt(result.tahsilHarc)} TL`],
-            ["Cezaevi Harcı (‰4,55)", `${fmt(result.cezaeviHarc)} TL`],
+            ["Tahsil Harcı (%4,55 — hacizden evvel)", `${fmt(result.tahsilHarc)} TL`],
+            ["Cezaevi Yapı Harcı (%2)", `${fmt(result.cezaeviHarc)} TL`],
             ["İcra Vekalet Ücreti (approx.)", `${fmt(result.icraVekalet)} TL`],
             ["Kapak Dosya Toplamı", `${fmt(result.toplam)} TL`],
           ]}
-          note="Tahsil ve cezaevi harcı Harçlar Kanunu Tarife No.1 esas alınmıştır. Vekalet ücreti AAÜT icra tarifesine göre değişir. Kesin tutar için dosya avukatınızla çalışın."
+          note="Tahsil harcı %4,55 (hacizden evvel ödeme aşaması); hacizden sonra %9,10; satış sonrası %11,38'dir. Cezaevi Yapı Harcı %2 olup alacaklı öder. Harçlar Kanunu Tarife No.1 (2026) esas alınmıştır. Vekalet ücreti AAÜT icra tarifesine göre değişir. Kesin tutar için dosya avukatınızla çalışın."
         />
       </div>
     </div>
