@@ -394,43 +394,104 @@ function FazlaMesai() {
 // ─── 4. YILLIK İZİN ───────────────────────────────────────────────────────────
 
 function YillikIzin() {
-  const [calismaSuresi, setCalismaSuresi] = useState("5");
-  const [brutUcret, setBrutUcret] = useState("50000");
+  const [dogum, setDogum] = useState("1985-01-01");
+  const [baslama, setBaslama] = useState("2010-01-01");
+  const [ayrilma, setAyrilma] = useState(() => new Date().toISOString().slice(0, 10));
   const [kullanilanGun, setKullanilanGun] = useState("0");
+  const [mod, setMod] = useState<"net" | "brut">("net");
+  const [maas, setMaas] = useState("50000");
+  const [kumulatifMatrah, setKumulatifMatrah] = useState("0");
 
   const result = useMemo(() => {
-    const yil = parseFloat(calismaSuresi) || 0;
-    const brut = parseFloat(brutUcret.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const num = (s: string) => parseFloat(s.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const d = new Date(dogum), b = new Date(baslama), a = new Date(ayrilma);
+    if (isNaN(d.getTime()) || isNaN(b.getTime()) || isNaN(a.getTime()) || a <= b) return null;
+
+    const toplamGun = daysBetween(b, a);
+    const yilTam = Math.floor(toplamGun / 365);
+
+    // Kademeli toplam hak ediş (her tam hizmet yılı için), yaş kuralı ile
+    let hakGun = 0;
+    for (let i = 1; i <= yilTam; i++) {
+      let gun = i <= 5 ? 14 : i <= 14 ? 20 : 26; // 1-5:14 · 6-14:20 · 15+:26
+      // O hizmet yılının sonundaki yaş (18 dahil altı veya 50 dahil üstü → min 20)
+      const yilSonu = new Date(b); yilSonu.setFullYear(b.getFullYear() + i);
+      const yas = Math.floor(daysBetween(d, yilSonu) / 365);
+      if (yas <= 18 || yas >= 50) gun = Math.max(gun, 20);
+      hakGun += gun;
+    }
+
     const kullanilan = parseInt(kullanilanGun) || 0;
-    let hakGun = 14;
-    if (yil >= 5 && yil < 15) hakGun = 20;
-    else if (yil >= 15) hakGun = 26;
     const kalan = Math.max(0, hakGun - kullanilan);
-    const gunlukBrut = brut / 30;
-    const ucret = kalan * gunlukBrut;
-    return { hakGun, kalan, ucret };
-  }, [calismaSuresi, brutUcret, kullanilanGun]);
+
+    const aylik = num(maas);
+    const gunluk = aylik / 30;
+
+    let brutIzin = 0, gvIzin = 0, damgaIzin = 0, netIzin = 0;
+    if (mod === "net") {
+      netIzin = kalan * gunluk; // net maaş üzerinden net izin ücreti
+    } else {
+      brutIzin = kalan * gunluk;
+      // Fesihte ödenen kullanılmayan izin ücretinden SGK primi KESİLMEZ (5510); yalnız GV + damga
+      gvIzin = hesaplaGelirVergisi(num(kumulatifMatrah), brutIzin);
+      damgaIzin = brutIzin * 0.00759;
+      netIzin = brutIzin - gvIzin - damgaIzin;
+    }
+
+    return { yilTam, hakGun, kalan, gunluk, brutIzin, gvIzin, damgaIzin, netIzin };
+  }, [dogum, baslama, ayrilma, kullanilanGun, mod, maas, kumulatifMatrah]);
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-      <Field label="Çalışma Süresi (yıl)">
-        <input type="number" min="1" value={calismaSuresi} onChange={e => setCalismaSuresi(e.target.value)} className={inp} />
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Doğum Tarihi">
+        <input type="date" value={dogum} onChange={e => setDogum(e.target.value)} className={inp} />
       </Field>
-      <Field label="Brüt Aylık Ücret (TL)">
-        <input type="text" value={brutUcret} onChange={e => setBrutUcret(e.target.value)} className={inp} />
+      <Field label="İşe Başlama Tarihi (deneme süresi dahil)">
+        <input type="date" value={baslama} onChange={e => setBaslama(e.target.value)} className={inp} />
       </Field>
-      <Field label="Kullanılan İzin Günü">
-        <input type="number" min="0" value={kullanilanGun} onChange={e => setKullanilanGun(e.target.value)} className={inp} />
+      <Field label="İşten Ayrılma Tarihi">
+        <input type="date" value={ayrilma} onChange={e => setAyrilma(e.target.value)} className={inp} />
       </Field>
-      <div className="md:col-span-3">
-        <Result
-          rows={[
-            ["Hak Edilen İzin", `${result.hakGun} gün`],
-            ["Kalan İzin", `${result.kalan} gün`],
-            ["İzin Ücreti", `${fmt(result.ucret)} TL`],
-          ]}
-          note="1–5 yıl: 14 gün | 5–15 yıl: 20 gün | 15+ yıl: 26 gün (4857 md.53). 18 yaş altı ve 50+ çalışanlara min. 20 gün."
-        />
+      <Field label="Kullanılan Toplam İzin Günü">
+        <input type="number" min="0" value={kullanilanGun} onChange={e => setKullanilanGun(e.target.value)} placeholder="Tüm hizmet boyunca kullanılan" className={inp} />
+      </Field>
+      <Field label="Hesaplama Şekli">
+        <select value={mod} onChange={e => setMod(e.target.value as "net" | "brut")} className={sel}>
+          <option value="net">Net maaş ile hesapla</option>
+          <option value="brut">Brüt maaş ile hesapla</option>
+        </select>
+      </Field>
+      <Field label={mod === "net" ? "Aylık Net Maaş (TL)" : "Aylık Brüt Maaş (TL)"}>
+        <input type="text" value={maas} onChange={e => setMaas(e.target.value)} placeholder="Son çalışma ayı" className={inp} />
+      </Field>
+      {mod === "brut" && (
+        <Field label="Kümüle Gelir Vergisi Matrahı (TL)">
+          <input type="text" value={kumulatifMatrah} onChange={e => setKumulatifMatrah(e.target.value)} className={inp} />
+        </Field>
+      )}
+
+      <div className="md:col-span-2">
+        {result ? (
+          <Result
+            rows={[
+              ["Toplam Hizmet Süresi", `${result.yilTam} tam yıl`],
+              ["Hak Edilen Toplam İzin", `${result.hakGun} gün`],
+              ["Kullanılmayan (Kalan) İzin", `${result.kalan} gün`],
+              ["Günlük Ücret", `${fmt(result.gunluk)} TL`],
+              ...(mod === "brut"
+                ? [
+                    ["Brüt İzin Ücreti", `${fmt(result.brutIzin)} TL`] as [string, string],
+                    ["Gelir Vergisi", `− ${fmt(result.gvIzin)} TL`] as [string, string],
+                    ["Damga Vergisi (‰7,59)", `− ${fmt(result.damgaIzin)} TL`] as [string, string],
+                    ["Net İzin Ücreti", `${fmt(result.netIzin)} TL`] as [string, string],
+                  ]
+                : [["Net İzin Ücreti", `${fmt(result.netIzin)} TL`] as [string, string]]),
+            ]}
+            note="4857 md.53: hizmet süresi 1–5 yıl 14 gün, 5–15 yıl 20 gün, 15+ yıl 26 gün; her tam hizmet yılı için kademeli hesaplanır. 18 yaşından küçük (18 dahil) ve 50 yaşından büyük (50 dahil) işçilere yılda en az 20 gün verilir (doğum tarihinden hesaplanır). İlk yıl dolmadan izne hak kazanılmaz. İzin günlük ücreti çıplak brüt/net maaşın 30'a bölümüdür; yol/yemek gibi ek ödemeler dahil edilmez. ÖNEMLİ: İş sözleşmesi sona erdiğinde ödenen kullanılmayan yıllık izin ücretinden SGK primi KESİLMEZ (5510 s.K.); yalnızca gelir vergisi (brüt modda kümüle matraha göre) ve damga vergisi kesilir. Net modda girilen net maaş doğrudan esas alınır. İzin alacağı zamanaşımı, iş sözleşmesinin sona erdiği tarihte işlemeye başlar (5 yıl)."
+          />
+        ) : (
+          <div className="text-sm text-charcoal/35 italic">Tarihleri ve maaş bilgisini girin (ayrılma, başlamadan sonra olmalı).</div>
+        )}
       </div>
     </div>
   );
