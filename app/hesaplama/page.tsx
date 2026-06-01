@@ -273,41 +273,119 @@ function gelirVergisiTopla(matrah: number): number {
 // ─── 3. FAZLA MESAİ ───────────────────────────────────────────────────────────
 
 function FazlaMesai() {
-  const [haftaSaati, setHaftaSaati] = useState("50");
-  const [brutUcret, setBrutUcret] = useState("50000");
-  const [haftaSayisi, setHaftaSayisi] = useState("4");
+  // Yarım saat yuvarlama: yarım saatten az → 0,5 saat; yarım saati aşan → 1 saat (md.41)
+  const yuvarla = (h: number) => {
+    if (h <= 0) return 0;
+    const tam = Math.floor(h);
+    const frac = h - tam;
+    if (frac === 0) return h;
+    return frac <= 0.5 ? tam + 0.5 : tam + 1;
+  };
+
+  const [halen, setHalen] = useState<"evet" | "hayir">("hayir");
+  const [yeralti, setYeralti] = useState<"hayir" | "evet">("hayir");
+  const [iseGiris, setIseGiris] = useState("2020-01-01");
+  const [istenAyrilma, setIstenAyrilma] = useState(() => new Date().toISOString().slice(0, 10));
+  const [anlasmaSaat, setAnlasmaSaat] = useState("45");
+  const [fiiliSaat, setFiiliSaat] = useState("55");
+  const [aylikBrut, setAylikBrut] = useState("50000");
+  const [tanikIndirim, setTanikIndirim] = useState<"hayir" | "evet">("hayir");
 
   const result = useMemo(() => {
-    const hs = parseFloat(haftaSaati) || 0;
-    const brut = parseFloat(brutUcret.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const hn = parseInt(haftaSayisi) || 1;
-    const fazlaSaat = Math.max(0, hs - 45);
-    const saatlikBrut = brut / 225; // aylık 30 gün × 7.5 saat
-    const fazlaUcret = fazlaSaat * saatlikBrut * 1.5 * hn;
-    const yillikAzami = fazlaSaat * 52; // max 270 saat/yıl
-    return { fazlaSaat, saatlikBrut, fazlaUcret, yillikAzami };
-  }, [haftaSaati, brutUcret, haftaSayisi]);
+    const num = (s: string) => parseFloat(s.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const brut = num(aylikBrut);
+    const limit = yeralti === "evet" ? 37.5 : 45;       // haftalık yasal sınır
+    const fazlaCalismaCarpan = yeralti === "evet" ? 2.0 : 1.5; // yeraltı %100, normal %50
+    const anlasma = Math.min(Math.max(0, num(anlasmaSaat)), limit);
+    const fiili = num(fiiliSaat);
+
+    // Haftalık fazla saatler (yuvarlanmış)
+    const fazlaSurelerleHam = Math.max(0, Math.min(fiili, limit) - anlasma); // anlaşma→limit, %25
+    const fazlaCalismaHam = Math.max(0, fiili - limit);                       // limit üstü, %50/%100
+    const fazlaSurelerle = yuvarla(fazlaSurelerleHam);
+    const fazlaCalisma = yuvarla(fazlaCalismaHam);
+
+    const saatlik = brut / 225; // aylık 30 gün × 7,5 saat
+    const haftalikUcret = fazlaSurelerle * saatlik * 1.25 + fazlaCalisma * saatlik * fazlaCalismaCarpan;
+
+    // Dönem ve zamanaşımı (5 yıl = 260 hafta)
+    const b = new Date(iseGiris);
+    const e = halen === "evet" ? new Date() : new Date(istenAyrilma);
+    const gecerli = !isNaN(b.getTime()) && !isNaN(e.getTime()) && e > b;
+    const toplamGun = gecerli ? daysBetween(b, e) : 0;
+    const toplamHafta = toplamGun / 7;
+    const ZAMANASIMI_HAFTA = 5 * 52; // 260
+    const hesapHafta = Math.min(toplamHafta, ZAMANASIMI_HAFTA);
+    const zamanasimiVar = toplamHafta > ZAMANASIMI_HAFTA;
+
+    let toplamBrut = haftalikUcret * hesapHafta;
+    const indirimliBrut = tanikIndirim === "evet" ? toplamBrut * 0.7 : toplamBrut;
+
+    return {
+      limit, fazlaCalismaCarpan, anlasma, fiili,
+      fazlaSurelerle, fazlaCalisma, saatlik, haftalikUcret,
+      toplamHafta, hesapHafta, zamanasimiVar, toplamBrut, indirimliBrut, gecerli,
+    };
+  }, [halen, yeralti, iseGiris, istenAyrilma, anlasmaSaat, fiiliSaat, aylikBrut, tanikIndirim]);
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-      <Field label="Haftalık Çalışma Saati">
-        <input type="number" min="45" max="60" value={haftaSaati} onChange={e => setHaftaSaati(e.target.value)} className={inp} />
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Halen Çalışmakta mısınız?">
+        <select value={halen} onChange={e => setHalen(e.target.value as "evet" | "hayir")} className={sel}>
+          <option value="hayir">Hayır (işten ayrıldım)</option>
+          <option value="evet">Evet</option>
+        </select>
       </Field>
-      <Field label="Brüt Aylık Ücret (TL)">
-        <input type="text" value={brutUcret} onChange={e => setBrutUcret(e.target.value)} className={inp} />
+      <Field label="Yeraltı İşçisi misiniz?">
+        <select value={yeralti} onChange={e => setYeralti(e.target.value as "hayir" | "evet")} className={sel}>
+          <option value="hayir">Hayır</option>
+          <option value="evet">Evet (yeraltı maden işi)</option>
+        </select>
       </Field>
-      <Field label="Hesaplama Süresi (hafta)">
-        <input type="number" min="1" value={haftaSayisi} onChange={e => setHaftaSayisi(e.target.value)} className={inp} />
+      <Field label="İşe Giriş Tarihi">
+        <input type="date" value={iseGiris} onChange={e => setIseGiris(e.target.value)} className={inp} />
       </Field>
-      <div className="md:col-span-3">
-        <Result
-          rows={[
-            ["Haftalık Fazla Saat", `${fmt(result.fazlaSaat, 1)} saat`],
-            ["Saatlik Ücret", `${fmt(result.saatlikBrut)} TL`],
-            ["Brüt Fazla Mesai Ücreti", `${fmt(result.fazlaUcret)} TL`],
-          ]}
-          note="45 saati aşan çalışmalar %50 zamlıdır (4857 md.41). Yılda azami 270 saat fazla mesai yapılabilir."
-        />
+      <Field label="İşten Ayrılma Tarihi">
+        <input type="date" value={istenAyrilma} onChange={e => setIstenAyrilma(e.target.value)} disabled={halen === "evet"} className={inp + (halen === "evet" ? " opacity-50" : "")} />
+      </Field>
+      <Field label="Anlaşmadaki Haftalık Çalışma Süresi (saat)">
+        <input type="number" min="0" max="45" step="0.5" value={anlasmaSaat} onChange={e => setAnlasmaSaat(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Haftalık Fiilen Çalıştığınız Süre (saat)">
+        <input type="number" min="0" step="0.5" value={fiiliSaat} onChange={e => setFiiliSaat(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Aylık Brüt Maaş (TL)">
+        <input type="text" value={aylikBrut} onChange={e => setAylikBrut(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Sadece Tanık Beyanına mı Dayanıyor?">
+        <select value={tanikIndirim} onChange={e => setTanikIndirim(e.target.value as "hayir" | "evet")} className={sel}>
+          <option value="hayir">Hayır (yazılı delil var)</option>
+          <option value="evet">Evet (hakkaniyet indirimi %30)</option>
+        </select>
+      </Field>
+
+      <div className="md:col-span-2">
+        {result.gecerli ? (
+          <Result
+            rows={[
+              ["Haftalık Yasal Sınır", `${fmt(result.limit, 1)} saat ${yeralti === "evet" ? "(yeraltı)" : ""}`],
+              ["Saatlik Ücret (brüt ÷ 225)", `${fmt(result.saatlik)} TL`],
+              ["Haftalık Fazla Sürelerle Çalışma (%25)", `${fmt(result.fazlaSurelerle, 1)} saat`],
+              [`Haftalık Fazla Çalışma (%${result.fazlaCalismaCarpan === 2 ? "100" : "50"})`, `${fmt(result.fazlaCalisma, 1)} saat`],
+              ["Haftalık Fazla Mesai Ücreti (brüt)", `${fmt(result.haftalikUcret)} TL`],
+              ["Toplam Süre", `${fmt(result.toplamHafta, 0)} hafta${result.zamanasimiVar ? " (zamanaşımı: son 260 hafta hesaplandı)" : ""}`],
+              ["Hesaplanan Hafta", `${fmt(result.hesapHafta, 0)} hafta`],
+              ...(result.indirimliBrut !== result.toplamBrut
+                ? [["Toplam Brüt (indirimsiz)", `${fmt(result.toplamBrut)} TL`] as [string, string],
+                   ["Hakkaniyet İndirimi (−%30)", `− ${fmt(result.toplamBrut - result.indirimliBrut)} TL`] as [string, string]]
+                : []),
+              ["TOPLAM BRÜT FAZLA MESAİ ÜCRETİ", `${fmt(result.indirimliBrut)} TL`],
+            ]}
+            note="4857 md.41 — Haftalık yasal çalışma süresi 45 saattir (yeraltı maden işlerinde 37,5 saat). ANLAŞILAN süre ile 45 saat (yeraltında 37,5) arasındaki çalışma 'fazla sürelerle çalışma' olup %25 zamlıdır; 45 saati (yeraltında 37,5) aşan çalışma 'fazla çalışma' olup %50 (yeraltında %100) zamlıdır. Hesapta yarım saatten az süreler yarım saat, yarım saati aşanlar bir saat sayılır. Saatlik ücret = aylık brüt ÷ 225. Fazla mesai alacağı 5 yıllık zamanaşımına tabidir; bu nedenle hesap son 260 hafta ile sınırlandırılmıştır. Tutar brüttür; gelir ve damga vergisi ile SGK primi ayrıca kesilir. İşçi iddiasını yalnızca tanık beyanıyla ispatlıyorsa mahkemeler genellikle ~%30 hakkaniyet/takdiri indirim uygular. Ayrıca fazla çalışma yılda 270 saatle sınırlıdır."
+          />
+        ) : (
+          <div className="text-sm text-charcoal/35 italic">Geçerli tarih aralığı ve ücret bilgilerini girin.</div>
+        )}
       </div>
     </div>
   );
