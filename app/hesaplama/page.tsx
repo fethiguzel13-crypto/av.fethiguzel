@@ -107,71 +107,127 @@ function Result({ rows, note }: { rows: [string, string][]; note?: string }) {
 
 // ─── 1. KIDEM TAZMİNATI ────────────────────────────────────────────────────────
 
-function KidemTazminati() {
+function KidemIhbarTazminati() {
   // Kıdem tazminatı tavanı — her 6 ayda Resmi Gazete'de güncellenir
   const TAVAN_2026_I = 64948.77; // 01.01.2026–30.06.2026
   const [baslangic, setBaslangic] = useState("2015-01-01");
   const [bitis, setBitis] = useState(() => new Date().toISOString().slice(0, 10));
-  const [brutUcret, setBrutUcret] = useState("60000");
+  const [maas, setMaas] = useState("60000");
+  const [yemekYol, setYemekYol] = useState("0");
+  const [ikramiye, setIkramiye] = useState("0");
+  const [digerYillik, setDigerYillik] = useState("0");
+  const [kumulatifMatrah, setKumulatifMatrah] = useState("0");
   const [ozelTavan, setOzelTavan] = useState("");
 
   const result = useMemo(() => {
     const b = new Date(baslangic);
     const e = new Date(bitis);
     if (isNaN(b.getTime()) || isNaN(e.getTime()) || e <= b) return null;
+    const num = (s: string) => parseFloat(s.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const gun = daysBetween(b, e);
     const yil = gun / 365;
-    const brutNum = parseFloat(brutUcret.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const tavanNum = ozelTavan ? parseFloat(ozelTavan.replace(/[^0-9.,]/g, "").replace(",", ".")) : TAVAN_2026_I;
-    const gunlukBrut = brutNum / 30;
-    const gunlukTavan = tavanNum / 30;
-    const esas = Math.min(gunlukBrut, gunlukTavan);
-    const tavanAsildi = gunlukBrut > gunlukTavan;
-    const brutKidem = esas * 30 * yil;
-    const damagaVergi = brutKidem * 0.00759; // damga vergisi ‰7,59
-    const netKidem = brutKidem - damagaVergi;
     const tam = Math.floor(yil);
     const kistGun = gun - tam * 365;
-    return { brutKidem, damagaVergi, netKidem, yil, tam, kistGun, esas, gunlukBrut, tavanAsildi, tavanNum };
-  }, [baslangic, bitis, brutUcret, ozelTavan]);
+
+    // Giydirilmiş brüt ücret = maaş + yemek/yol + ikramiye/12 + diğer yıllık/12
+    const giydirilmisAylik = num(maas) + num(yemekYol) + num(ikramiye) / 12 + num(digerYillik) / 12;
+    const gunlukGiydirilmis = giydirilmisAylik / 30;
+
+    // ── KIDEM (tavana tabi, gelir vergisinden muaf) ──
+    const tavanNum = ozelTavan ? num(ozelTavan) : TAVAN_2026_I;
+    const gunlukTavan = tavanNum / 30;
+    const esasKidem = Math.min(gunlukGiydirilmis, gunlukTavan);
+    const tavanAsildi = gunlukGiydirilmis > gunlukTavan;
+    const brutKidem = esasKidem * 30 * yil;
+    const damgaKidem = brutKidem * 0.00759;
+    const netKidem = brutKidem - damgaKidem;
+
+    // ── İHBAR (tavansız, gelir vergisine tabi) ──
+    let hafta = 2;
+    if (yil >= 0.5 && yil < 1.5) hafta = 4;
+    else if (yil >= 1.5 && yil < 3) hafta = 6;
+    else if (yil >= 3) hafta = 8;
+    const brutIhbar = gunlukGiydirilmis * hafta * 7;
+    const gvIhbar = hesaplaGelirVergisi(num(kumulatifMatrah), brutIhbar);
+    const damgaIhbar = brutIhbar * 0.00759;
+    const netIhbar = brutIhbar - gvIhbar - damgaIhbar;
+
+    return {
+      yil, tam, kistGun, giydirilmisAylik, gunlukGiydirilmis,
+      esasKidem, tavanAsildi, tavanNum, brutKidem, damgaKidem, netKidem,
+      hafta, brutIhbar, gvIhbar, damgaIhbar, netIhbar,
+    };
+  }, [baslangic, bitis, maas, yemekYol, ikramiye, digerYillik, kumulatifMatrah, ozelTavan]);
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="İşe Giriş Tarihi">
         <input type="date" value={baslangic} onChange={e => setBaslangic(e.target.value)} className={inp} />
       </Field>
-      <Field label="İşten Çıkış Tarihi">
+      <Field label="İşten Ayrılış Tarihi">
         <input type="date" value={bitis} onChange={e => setBitis(e.target.value)} className={inp} />
       </Field>
-      <Field label="Brüt Aylık Ücret (TL)">
-        <input type="text" value={brutUcret} onChange={e => setBrutUcret(e.target.value)} placeholder="60.000" className={inp} />
+      <Field label="Aylık Brüt Maaş (TL)">
+        <input type="text" value={maas} onChange={e => setMaas(e.target.value)} placeholder="60.000" className={inp} />
+      </Field>
+      <Field label="Aylık Brüt Yemek ve Yol (TL)">
+        <input type="text" value={yemekYol} onChange={e => setYemekYol(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Yıllık Brüt İkramiye (TL)">
+        <input type="text" value={ikramiye} onChange={e => setIkramiye(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Diğer Yıllık Brüt Kazanç (TL)">
+        <input type="text" value={digerYillik} onChange={e => setDigerYillik(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Kümüle Gelir Vergisi Matrahı (TL)">
+        <input type="text" value={kumulatifMatrah} onChange={e => setKumulatifMatrah(e.target.value)} placeholder="İhbar gelir vergisi için" className={inp} />
       </Field>
       <Field label="Kıdem Tavanı (TL) — opsiyonel">
-        <input
-          type="text"
-          value={ozelTavan}
-          onChange={e => setOzelTavan(e.target.value)}
-          placeholder={`Varsayılan: ${fmt(TAVAN_2026_I)} (2026/I)`}
-          className={inp}
-        />
+        <input type="text" value={ozelTavan} onChange={e => setOzelTavan(e.target.value)} placeholder={`Varsayılan: ${fmt(TAVAN_2026_I)} (2026/I)`} className={inp} />
       </Field>
 
       {result ? (
-        <div className="col-span-full">
-          <Result
-            rows={[
-              ["Toplam Çalışma Süresi", `${result.tam} tam yıl + ${result.kistGun} gün (${fmt(result.yil, 4)} yıl)`],
-              ["Esas Alınan Günlük Ücret", `${fmt(result.esas)} TL`],
-              ...(result.tavanAsildi ? [["Tavan Uygulandı", `Brüt ücret tavanı (${fmt(result.tavanNum)} TL) aştı`] as [string, string]] : []),
-              ["Brüt Kıdem Tazminatı", `${fmt(result.brutKidem)} TL`],
-              ["Damga Vergisi (‰7,59)", `− ${fmt(result.damagaVergi)} TL`],
-              ["Net Kıdem Tazminatı", `${fmt(result.netKidem)} TL`],
-            ]}
-            note="2026/I dönemi (01.01–30.06.2026) kıdem tazminatı tavanı 64.948,77 TL'dir. Tavanı aşan brüt ücretlerde hesap tavandan yapılır. Kıdem tazminatından yalnızca damga vergisi (‰7,59) kesilir; SGK primi ve gelir vergisi kesilmez."
-          />
+        <div className="col-span-full flex flex-col gap-4">
+          <div>
+            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">Giydirilmiş Ücret & Süre</div>
+            <Result
+              rows={[
+                ["Toplam Çalışma Süresi", `${result.tam} tam yıl + ${result.kistGun} gün (${fmt(result.yil, 4)} yıl)`],
+                ["Giydirilmiş Aylık Brüt Ücret", `${fmt(result.giydirilmisAylik)} TL`],
+                ["Giydirilmiş Günlük Brüt Ücret", `${fmt(result.gunlukGiydirilmis)} TL`],
+              ]}
+              note="Giydirilmiş brüt ücret = aylık brüt maaş + aylık brüt yemek/yol + (yıllık ikramiye ÷ 12) + (diğer yıllık brüt kazanç ÷ 12). Kıdem ve ihbar tazminatı bu giydirilmiş ücret üzerinden hesaplanır (Yargıtay yerleşik içtihadı)."
+            />
+          </div>
+          <div>
+            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">Kıdem Tazminatı</div>
+            <Result
+              rows={[
+                ["Esas Alınan Günlük Ücret", `${fmt(result.esasKidem)} TL`],
+                ...(result.tavanAsildi ? [["Tavan Uygulandı", `Giydirilmiş ücret tavanı (${fmt(result.tavanNum)} TL) aştı`] as [string, string]] : []),
+                ["Brüt Kıdem Tazminatı", `${fmt(result.brutKidem)} TL`],
+                ["Damga Vergisi (‰7,59)", `− ${fmt(result.damgaKidem)} TL`],
+                ["Net Kıdem Tazminatı", `${fmt(result.netKidem)} TL`],
+              ]}
+              note="2026/I dönemi (01.01–30.06.2026) kıdem tavanı 64.948,77 TL'dir; giydirilmiş aylık ücret tavanı aşarsa hesap tavandan yapılır. Her tam yıl için 30 günlük giydirilmiş ücret + artan süre için kıst hesap. Kıdem tazminatından yalnızca damga vergisi (‰7,59) kesilir; SGK primi ve gelir vergisi kesilmez."
+            />
+          </div>
+          <div>
+            <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">İhbar Tazminatı</div>
+            <Result
+              rows={[
+                ["Bildirim Süresi", `${result.hafta} hafta (${result.hafta * 7} gün)`],
+                ["Brüt İhbar Tazminatı", `${fmt(result.brutIhbar)} TL`],
+                ["Gelir Vergisi", `− ${fmt(result.gvIhbar)} TL`],
+                ["Damga Vergisi (‰7,59)", `− ${fmt(result.damgaIhbar)} TL`],
+                ["Net İhbar Tazminatı", `${fmt(result.netIhbar)} TL`],
+              ]}
+              note="İhbar süresi (İş K. md.17): 0–6 ay 2 hafta · 6 ay–1,5 yıl 4 hafta · 1,5–3 yıl 6 hafta · 3+ yıl 8 hafta. İhbar tazminatı giydirilmiş ücret üzerinden, TAVANSIZ hesaplanır. İhbar tazminatından gelir vergisi (kümüle matrah dilimine göre) ve damga vergisi (‰7,59) kesilir; SGK primi kesilmez."
+            />
+          </div>
         </div>
       ) : (
-        <div className="col-span-full text-sm text-charcoal/35 italic">Tarihleri ve ücreti girin.</div>
+        <div className="col-span-full text-sm text-charcoal/35 italic">Tarihleri ve ücret bilgilerini girin.</div>
       )}
     </div>
   );
@@ -211,55 +267,8 @@ function gelirVergisiTopla(matrah: number): number {
   return toplam;
 }
 
-function IhbarTazminati() {
-  const [yil, setYil] = useState("5");
-  const [brutUcret, setBrutUcret] = useState("50000");
-  const [kumulatifMatrah, setKumulatifMatrah] = useState("0");
-
-  const result = useMemo(() => {
-    const y = parseFloat(yil) || 0;
-    const brut = parseFloat(brutUcret.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const kumMatrah = parseFloat(kumulatifMatrah.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    let haftaSayisi = 2;
-    if (y >= 0.5 && y < 1.5) haftaSayisi = 4;
-    else if (y >= 1.5 && y < 3) haftaSayisi = 6;
-    else if (y >= 3) haftaSayisi = 8;
-    const gunluk = brut / 30;
-    const brutIhbar = gunluk * haftaSayisi * 7;
-    const gelirVergisi = hesaplaGelirVergisi(kumMatrah, brutIhbar);
-    const damga = brutIhbar * 0.00759;
-    const net = brutIhbar - gelirVergisi - damga;
-    // Efektif vergi oranı
-    const efektifOran = brutIhbar > 0 ? (gelirVergisi / brutIhbar) * 100 : 0;
-    return { haftaSayisi, brutIhbar, gelirVergisi, damga, net, efektifOran };
-  }, [yil, brutUcret, kumulatifMatrah]);
-
-  return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-      <Field label="Çalışma Süresi (yıl)">
-        <input type="number" min="0" step="0.5" value={yil} onChange={e => setYil(e.target.value)} className={inp} />
-      </Field>
-      <Field label="Brüt Aylık Ücret (TL)">
-        <input type="text" value={brutUcret} onChange={e => setBrutUcret(e.target.value)} className={inp} />
-      </Field>
-      <Field label="Kümülatif Vergi Matrahı (TL)">
-        <input type="text" value={kumulatifMatrah} onChange={e => setKumulatifMatrah(e.target.value)} placeholder="Yılbaşından bugüne toplam matrah" className={inp} />
-      </Field>
-      <div className="md:col-span-3">
-        <Result
-          rows={[
-            ["Bildirim Süresi", `${result.haftaSayisi} hafta (${result.haftaSayisi * 7} gün)`],
-            ["Brüt İhbar Tazminatı", `${fmt(result.brutIhbar)} TL`],
-            ["Gelir Vergisi (efektif %" + fmt(result.efektifOran, 1) + ")", `− ${fmt(result.gelirVergisi)} TL`],
-            ["Damga Vergisi (‰7,59)", `− ${fmt(result.damga)} TL`],
-            ["Net İhbar Tazminatı", `${fmt(result.net)} TL`],
-          ]}
-          note="0–6 ay: 2 hafta | 6 ay–1,5 yıl: 4 hafta | 1,5–3 yıl: 6 hafta | 3+ yıl: 8 hafta (4857 İK md.17). İhbar tazminatından gelir vergisi (kümülatif matrah dilimine göre) ve damga vergisi (‰7,59) kesilir; SGK primi kesilmez. Kümülatif matrah: yılbaşından işten ayrılma tarihine kadar elde edilen vergiye tabi ücretlerin toplamıdır."
-        />
-      </div>
-    </div>
-  );
-}
+// İhbar Tazminatı, yukarıdaki birleşik "Kıdem & İhbar Tazminatı" aracına (KidemIhbarTazminati) taşındı.
+// Gelir vergisi yardımcıları (GELIR_VERGISI_DILIMLERI, hesaplaGelirVergisi) birleşik araç ve diğer hesaplamalarca kullanılır.
 
 // ─── 3. FAZLA MESAİ ───────────────────────────────────────────────────────────
 
@@ -1636,8 +1645,7 @@ function MirasPaylasimi() {
 
 const ARACLAR = [
   { id: "miras", icon: "🏛️", baslik: "Miras Paylaşımı (Yasal Mirasçılık)", tag: "Miras Hukuku", comp: <MirasPaylasimi /> },
-  { id: "kidem", icon: "💼", baslik: "Kıdem Tazminatı", tag: "İş Hukuku", comp: <KidemTazminati /> },
-  { id: "ihbar", icon: "📋", baslik: "İhbar Tazminatı", tag: "İş Hukuku", comp: <IhbarTazminati /> },
+  { id: "kidem", icon: "💼", baslik: "Kıdem & İhbar Tazminatı", tag: "İş Hukuku", comp: <KidemIhbarTazminati /> },
   { id: "fazla-mesai", icon: "⏰", baslik: "Fazla Mesai Ücreti", tag: "İş Hukuku", comp: <FazlaMesai /> },
   { id: "yillik-izin", icon: "🏖️", baslik: "Yıllık İzin Ücreti", tag: "İş Hukuku", comp: <YillikIzin /> },
   { id: "smm", icon: "🧾", baslik: "Serbest Meslek Makbuzu (SMM)", tag: "İş Hukuku", comp: <SmmHesaplama /> },
