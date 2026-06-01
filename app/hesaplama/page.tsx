@@ -45,6 +45,7 @@ function Card({ id, icon, title, tag, children }: {
     "Sigorta": "bg-red-50 text-red-700",
     "Usul": "bg-amber-50 text-amber-700",
     "Analiz": "bg-teal-50 text-teal-700",
+    "Ceza İnfaz": "bg-rose-50 text-rose-700",
   };
   return (
     <div id={id} className="bg-white border border-charcoal/6 rounded-2xl sm:rounded-[2rem] overflow-hidden shadow-sm">
@@ -2210,6 +2211,130 @@ function MirasPaylasimi() {
   );
 }
 
+// ─── 20. İNFAZ (YATAR) HESAPLAMA ──────────────────────────────────────────────
+// 5275 sayılı Kanun + 7242 (30.03.2020) + 7571 (11. Yargı Paketi). Tahminî hesap.
+
+const INFAZ_SUC = [
+  { ad: "Adi Suçlar (genel)", oran: 1 / 2, istisna: false },
+  { ad: "Kasten öldürme · işkence · eziyet · basit cinsel suç · özel hayat · örgüt kurma (2/3)", oran: 2 / 3, istisna: true },
+  { ad: "Nitelikli cinsel suç · uyuşturucu ticareti (TCK 188) · terör · devletin güvenliği (3/4)", oran: 3 / 4, istisna: true },
+];
+
+const INFAZ_OZEL = [
+  { ad: "Yok / Standart", key: "yok" },
+  { ad: "Mükerrir (1. tekerrür — CGTİK 108/1)", key: "mukerrir" },
+  { ad: "İkinci kez mükerrir (CGTİK 108/3)", key: "ikinci" },
+  { ad: "Çocuk hükümlü (suç tarihinde 18 yaş altı)", key: "cocuk" },
+  { ad: "0-6 yaş çocuğu olan kadın hükümlü", key: "kadin06" },
+  { ad: "70 yaşını bitirmiş hükümlü", key: "yas70" },
+  { ad: "Ağır hastalık / engellilik / yaşlılık", key: "hastalik" },
+];
+
+function InfazHesaplama() {
+  const [sucIdx, setSucIdx] = useState("0");
+  const [sucTarihi, setSucTarihi] = useState("");
+  const [cY, setCY] = useState("3"); const [cA, setCA] = useState("0"); const [cG, setCG] = useState("0");
+  const [girisTarihi, setGirisTarihi] = useState(() => new Date().toISOString().slice(0, 10));
+  const [mY, setMY] = useState("0"); const [mA, setMA] = useState("0"); const [mG, setMG] = useState("0");
+  const [ozel, setOzel] = useState("yok");
+
+  const r = useMemo(() => {
+    const gun = (y: string, a: string, g: string) => (parseInt(y) || 0) * 365 + (parseInt(a) || 0) * 30 + (parseInt(g) || 0);
+    const T = gun(cY, cA, cG);
+    const mahsup = gun(mY, mA, mG);
+    if (T <= 0) return null;
+    const suc = INFAZ_SUC[parseInt(sucIdx) || 0];
+    const st = sucTarihi ? new Date(sucTarihi) : null;
+    const eski2023 = st ? st <= new Date("2023-07-31") : false;
+
+    let oran = suc.oran;
+    let kosulluYok = false;
+    const cocuk = ozel === "cocuk";
+    if (ozel === "mukerrir") oran = Math.max(oran, 0.75); // CGTİK 108/1 süreli hapis 3/4
+    if (ozel === "ikinci") kosulluYok = true;             // CGTİK 108/3 koşullu salıverilme yok
+    if (cocuk) oran = suc.istisna ? 2 / 3 : 1 / 2;
+
+    const KS = kosulluYok ? T : T * oran;
+
+    let DS = 365;
+    if (!suc.istisna && eski2023) DS = 1095; // 11. paket: suç ≤ 31.07.2023 adi suç → 3 yıl
+    const dogrudanDS = ozel === "kadin06" || ozel === "yas70" || ozel === "hastalik";
+    if (dogrudanDS) DS = KS;
+    if (kosulluYok) DS = 0;
+
+    const taban = Math.max(5, KS / 10); // 7571 — 1/10 ve asgari 5 gün
+    const kalinacakInfaz = kosulluYok ? T : Math.max(KS - DS, taban);
+    const fiilenKalan = Math.max(0, kalinacakInfaz - mahsup);
+
+    const G = new Date(girisTarihi);
+    const ok = !isNaN(G.getTime());
+    const KSdate = ok ? addDays(G, Math.max(0, KS - mahsup)) : null;
+    const DSdate = (ok && !kosulluYok) ? addDays(G, Math.max(0, (KS - DS) - mahsup)) : null;
+    const bihakkin = ok ? addDays(G, Math.max(0, T - mahsup)) : null;
+
+    return { T, mahsup, suc, oran, kosulluYok, cocuk, KS, DS, dogrudanDS, kalinacakInfaz, fiilenKalan, KSdate, DSdate, bihakkin, eski2023 };
+  }, [sucIdx, sucTarihi, cY, cA, cG, girisTarihi, mY, mA, mG, ozel]);
+
+  const gunStr = (g: number) => {
+    const y = Math.floor(g / 365); const a = Math.floor((g % 365) / 30); const d = Math.round(g % 30);
+    return `${y} yıl ${a} ay ${d} gün`;
+  };
+  const oranStr = !r ? "" : r.kosulluYok ? "Koşullu salıverilme YOK" : r.oran === 0.5 ? "1/2" : r.oran === 2 / 3 ? "2/3" : r.oran === 0.75 ? "3/4" : `%${fmt(r.oran * 100, 0)}`;
+
+  const triple = (label: string, vy: string, sy: (v: string) => void, va: string, sa: (v: string) => void, vg: string, sg: (v: string) => void) => (
+    <Field label={label}>
+      <div className="flex gap-2">
+        <input type="number" min="0" value={vy} onChange={e => sy(e.target.value)} className={inp} placeholder="Yıl" />
+        <input type="number" min="0" value={va} onChange={e => sa(e.target.value)} className={inp} placeholder="Ay" />
+        <input type="number" min="0" value={vg} onChange={e => sg(e.target.value)} className={inp} placeholder="Gün" />
+      </div>
+    </Field>
+  );
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="İşlenen Suç Türü">
+        <select value={sucIdx} onChange={e => setSucIdx(e.target.value)} className={sel}>
+          {INFAZ_SUC.map((s, i) => <option key={i} value={i}>{s.ad}</option>)}
+        </select>
+      </Field>
+      <Field label="Hükümlünün Özel Durumu">
+        <select value={ozel} onChange={e => setOzel(e.target.value)} className={sel}>
+          {INFAZ_OZEL.map((o, i) => <option key={i} value={o.key}>{o.ad}</option>)}
+        </select>
+      </Field>
+      <Field label="Suçun Gerçekleştiği Tarih">
+        <input type="date" value={sucTarihi} onChange={e => setSucTarihi(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Hüküm / Cezaevine Giriş Tarihi">
+        <input type="date" value={girisTarihi} onChange={e => setGirisTarihi(e.target.value)} className={inp} />
+      </Field>
+      {triple("Hükmedilen Ceza (Yıl / Ay / Gün)", cY, setCY, cA, setCA, cG, setCG)}
+      {triple("Mahsup — Tutukluluk/Gözaltı (Yıl / Ay / Gün)", mY, setMY, mA, setMA, mG, setMG)}
+
+      <div className="col-span-full">
+        {r ? (
+          <Result
+            rows={[
+              ["Toplam Ceza", `${gunStr(r.T)} (${r.T} gün)`],
+              ["Koşullu Salıverilme Oranı", oranStr],
+              ...(r.mahsup > 0 ? [["Mahsup (tutukluluk/gözaltı)", gunStr(r.mahsup)] as [string, string]] : []),
+              ["Denetimli Serbestlik Süresi", r.kosulluYok ? "—" : r.dogrudanDS ? "Doğrudan DS (özel durum)" : gunStr(r.DS)],
+              ["Cezaevinde Fiilen Kalınacak (tahmini)", gunStr(r.fiilenKalan)],
+              ...(r.DSdate ? [["Denetimli Serbestliğe Ayrılma Tarihi", fmtDate(r.DSdate)] as [string, string]] : []),
+              ...(!r.kosulluYok && r.KSdate ? [["Koşullu Salıverilme Tarihi", fmtDate(r.KSdate)] as [string, string]] : []),
+              ...(r.bihakkin ? [["Bihakkın (Cezanın Tamamı) Tarihi", fmtDate(r.bihakkin)] as [string, string]] : []),
+            ]}
+            note="⚠️ TAHMİNÎ hesaptır; bağlayıcı değildir. Gerçek infaz, infaz savcılığının düzenlediği MÜDDETNAME ile ve iyi hâl değerlendirmesiyle belirlenir. 5275 sayılı Kanun + 7242 sayılı Kanun (30.03.2020) + 7571 sayılı Kanun (11. Yargı Paketi) esas alınmıştır. Koşullu salıverilme: adi suçlarda 1/2, istisna suçlarda 2/3 veya 3/4; mükerrirde 3/4 (CGTİK 108/1); ikinci kez tekerrürde koşullu salıverilme yoktur (108/3). Denetimli serbestlik kural olarak 1 yıldır; 31.07.2023 ve öncesi işlenen adi suçlarda 3 yıl uygulanır (geçici düzenleme). 7571 ile: koşullu salıverilmeye kadar kurumda geçirilecek sürenin en az 1/10'u fiilen kurumda geçirilmeli ve bu süre 5 günden az olamaz. Çocuk hükümlülerde 18 yaş altı infazda 1 gün 2 gün sayılır (bu avantaj burada hesaba dahil EDİLMEMİŞTİR — fiilî süre daha kısa olabilir). 0-6 yaş çocuklu kadın, 70+ yaş ve ağır hastalıkta doğrudan denetimli serbestlik / infazın ertelenmesi mümkündür. Açık-kapalı kurum dağılımı idarece belirlenir. Kesin sonuç için bir ceza avukatına ve infaz savcılığına başvurun."
+          />
+        ) : (
+          <div className="text-sm text-charcoal/35 italic">Ceza miktarını girin.</div>
+        )}
+      </div>
+    </div>
+  );
+}
+
 // ─── ARAÇLAR LİSTESİ ──────────────────────────────────────────────────────────
 
 const ARACLAR = [
@@ -2231,6 +2356,7 @@ const ARACLAR = [
   { id: "arabuluculuk", icon: "🤝", baslik: "Arabuluculuk Asgari Ücret", tag: "Dava Masrafı", comp: <ArabuluculukUcret /> },
   { id: "zamanasimi", icon: "⏱️", baslik: "Zamanaşımı Kontrol Sihirbazı", tag: "Usul", comp: <ZamanAsimiKontrol /> },
   { id: "risk", icon: "🔍", baslik: "Dava Risk ve Maliyet Analizi", tag: "Analiz", comp: <DavaRiskAnalizi /> },
+  { id: "infaz", icon: "⛓️", baslik: "İnfaz (Yatar) Hesaplama 2026", tag: "Ceza İnfaz", comp: <InfazHesaplama /> },
 ];
 
 // ─── SAYFA ─────────────────────────────────────────────────────────────────────
