@@ -20,7 +20,6 @@ b) Tekliflerin daha ayrıntılı bir şekilde incelenmesi için süreye ihtiyaç
 c) İhalenin yapılmadığı,
 Hususlarından birine karar verilir ve bu husus gerekçeli bir karar veya karar özeti halinde
 yazılarak, komisyon başkan ve üyeleri tarafından imzalanır ve durum hazır bulunanlara bildirilir.
-Tekliflerin aynı olması:
 
 ### Bizim Yorumumuz
 

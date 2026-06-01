@@ -35,7 +35,6 @@ ibaresi de “Bakanlar Kurulu, bu tutarları topluca veya ayrı ayrı on katına
 
 ettikleri takdirde birinci fıkra hükmüne göre cezalandırılırlar. Bu bilgilerin verilmesine ilişkin
 usul ve esaslar Maliye Bakanlığınca belirlenir.37
-Artırmalara katılamıyacak ve artırmalardan mal satınalamıyacak olanlar:
 
 ### Bizim Yorumumuz
 

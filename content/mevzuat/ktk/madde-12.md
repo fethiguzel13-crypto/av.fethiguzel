@@ -52,10 +52,6 @@ müsait boş alan, arazi ve arsaları geçici otopark yeri olarak ilan etmek ve 
 veya üçüncü kişilere işletilmesi için izin vermek,
 5. Bu Kanunla ve diğer mevzuatla verilen görevleri yapmak.
 
-ÜÇÜNCÜ KISIM
-Karayolu Trafik Güvenliği, Trafik İşaretleri, Yapı ve Tesisler
-Karayolu trafik güvenliği:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

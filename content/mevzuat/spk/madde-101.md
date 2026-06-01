@@ -36,7 +36,6 @@ ilgili kişilerin söz konusu halka açık ortaklığın paylarında işlem yapm
 uyarınca gerçekleştirilen inceleme ve denetimler kapsamında, Kurulca internet aracılığıyla
 yapılan yayınlarla ilgili olarak içeriğin çıkarılmasına ve/veya erişimin engellenmesine karar
 verilebilir. Bu durumda karar uygulanmak üzere Erişim Sağlayıcıları Birliğine gönderilir.
-Bildirim yükümlülüğü
 
 ### Bizim Yorumumuz
 

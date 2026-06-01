@@ -22,9 +22,6 @@ c) Taşınır ve taşınmaz mallarda, sadece zilyetliğin korunmasına yönelik 
 ç) Bu Kanun ile diğer kanunların, sulh hukuk mahkemesi veya sulh hukuk hâkimini
 görevlendirdiği davaları,
 görürler.
-İKİNCİ AYIRIM
-Yetki
-Genel kural
 
 ### Bizim Yorumumuz
 

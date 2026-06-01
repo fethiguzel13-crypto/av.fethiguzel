@@ -23,7 +23,6 @@ tutuklunun bulunduğu ceza infaz kurumunda cezaevi kâtibi veya bu işle görevl
 personel yanına getirilerek tutanak tutulmak suretiyle yapılır.
 (4) Yukarıdaki fıkralar gereğince, çağrı kâğıdının tebliğiyle duruşma günü arasında en
 az bir hafta süre bulunması gerekir.
-Sanığın savunma delillerinin toplanması istemi
 
 ### Bizim Yorumumuz
 

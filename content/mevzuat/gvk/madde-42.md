@@ -19,7 +19,6 @@ Mükellefler bu madde kapsamına giren hallerde her inşaat ve onarım işinin h
 giderlerini ayrı bir defterde veya tutmakta oldukları defterlerin ayrı sayfalarında göstermeye
 ve düzenleyecekleri beyannamaleri işlerin ikmal edildiği takvim yılını takip eden yılın Mart
 ayının başından yirmibeşinci günü akşamına kadar vermeye mecburdurlar.46
-Müşterek genel giderler ve amortismanların dağıtılması:
 
 ### Akademik Yorum ve Analiz
 

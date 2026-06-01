@@ -20,9 +20,6 @@ mümkün olmadığı hallerde kamulaştırmayı yapan idare, mahkemece takdir ed
 bedelini tazmin etmek şartıyla, arazinin boşaltılmasını talep edebilir. Ekin bedeli 11 ve 12 nci
 maddeler uyarınca yapılan kamulaştırma değerinin tespitinde nazara alınmış ise, taşınmaz
 malın boşaltılması için tekrar bu bedelin tespit ve ödenmesi gerekmez.
-İKİNCİ BÖLÜM
-Kamulaştırmadan Vazgeçme ve Geri Alma
-İdarenin tek taraflı vazgeçmesi
 
 ### Bizim Yorumumuz
 

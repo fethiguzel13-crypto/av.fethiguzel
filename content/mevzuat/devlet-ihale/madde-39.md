@@ -16,7 +16,6 @@ istenilen belgelerin ve geçici teminatın tam olarak verilmiş olup olmadığı
 Belgeleri ile teminatı usulüne uygun ve tam olmayan isteklilerin teklif mektubunu
 taşıyan iş zarfları açılmayarak başkaca işleme konulmadan, diğer belgelerle birlikte
 kendilerine veya vekillerine iade olunur. Bunlar ihaleye katılamazlar.
-İç zarfların açılması ve son tekliflerin alınması:12
 
 ### Bizim Yorumumuz
 

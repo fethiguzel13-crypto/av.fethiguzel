@@ -23,7 +23,6 @@ kabul görmüş ve yaygın olarak kullanılan endekslerden en düşük olanı ba
 değiştirilebilir. Oranların değişken olarak belirlenmesi hâlinde bu yöntemin muhtemel etkileri
 konusunda tüketicilerin bilgilendirilmesi şarttır. Bu amaçlarla kullanılabilecek referans faizler
 ve endeksler Türkiye Cumhuriyet Merkez Bankası tarafından belirlenir.
-Erken ödeme
 
 ### Bizim Yorumumuz
 

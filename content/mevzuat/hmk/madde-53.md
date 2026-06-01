@@ -13,7 +13,6 @@ MADDE 53- (1) Dava takip yetkisi, talep sonucu hakkında hüküm alabilme yetkis
 Bu yetki, kanunda belirtilen istisnai durumlar dışında, maddi hukuktaki tasarruf yetkisine göre
 
 tayin edilir.
-Temsil veya izin belgelerinin verilmesi
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ hakındaki hükümlere tabi bulunanlar ile özel kanunlarına göre tacir olmad�
 bu kimseler hakkında haciz yolu ile de takipte bulunabilir.
 Bu yollardan birini seçen alacaklı bir defaya mahsus olmak üzere o yolu bırakıp harc
 ödemeksizin diğerine yeni baştan müracaat edebilir.
-Ticareti terk edenler:
 
 ### Bizim Yorumumuz
 

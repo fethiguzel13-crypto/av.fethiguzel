@@ -26,7 +26,6 @@ Batıl bir tasarruf neticesinde kendisine ödenilen şeyi geri veren alacaklı e
 muhafaza eder.
 Kendisine bağış yapılan iyi niyetli ise yalnız dava zamanında elinde bulunan miktarı
 geri vermeye mecburdur.
-Hak düşürücü müddet:
 
 ### Bizim Yorumumuz
 

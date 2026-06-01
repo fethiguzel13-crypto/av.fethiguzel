@@ -15,7 +15,6 @@ olan mükellef bunlar için borçlandığı vergiyi bu işlemlere muhatap olan m
 hakkı bulunan vergiyi değişikliğin mahiyetine uygun şekilde ve değişikliğin vukubulduğu
 dönem içinde düzeltilir. Şu kadar ki, iade olunan malların fiilen işletmeye girmiş olması ve bu
 girişin defter kayıtları ile beyannamede gösterilmesi şarttır.
-Yetki:
 
 ### Bizim Yorumumuz
 

@@ -19,7 +19,6 @@ Belediye meclisi üyeliğine seçilme yeterliğinin kaybedilmesi durumunda, vali
 
 
 bildirmesi üzerine Danıştay tarafından üyeliğin düşmesine karar verilir.
-Meclisin feshi
 
 ### Bizim Yorumumuz
 

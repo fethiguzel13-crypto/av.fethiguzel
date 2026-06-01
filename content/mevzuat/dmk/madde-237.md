@@ -40,8 +40,6 @@ Anayasa Mahkemesinin 19/10/1976 tarihli ve E. 1973/42, K.1976/48 sayılı Karar�
 1757 sayılı Toprak ve Tarım Reformu Kanunu iptal edilmiştir.
 323
 
-Madde 238 – (Mülga : 23/12/1972 – KHK-2/5)
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -18,9 +18,6 @@ MADDE 21 – (1) Daire Başkanlığı, arabuluculuk için aranan koşulları ta�
 tespit ettiği arabulucuyu yazılı olarak uyarır; bu uyarıya uyulmaması hâlinde arabulucunun
 savunmasını aldıktan sonra, gerekirse adının sicilden silinmesini Kuruldan talep eder.
 (3) Arabulucu, arabulucular sicilinden kaydının silinmesini her zaman isteyebilir.
-YEDİNCİ BÖLÜM
-Arabuluculuk Eğitimi ve Eğitim Kuruluşları
-Arabuluculuk eğitimi
 
 ### Bizim Yorumumuz
 

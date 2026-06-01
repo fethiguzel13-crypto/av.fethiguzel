@@ -16,7 +16,6 @@ b) Dava şartlarına aykırılık bulunması.
 c) Taraflardan birinin davasını ispat için dayandığı delillerin kanuni bir sebep olmaksızın
 kabul edilmemesi.
 ç) Karara etki eden yargılama hatası veya eksiklikleri bulunması.
-Yargıtay kararlarının tebliği
 
 ### Bizim Yorumumuz
 

@@ -20,9 +20,6 @@ bu Kanunun 14, 15, 16, 18, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 3
 ve bu maddelere ilişkin ceza hükümleri uygulanır.
 Finansal holding şirketleri bakımından belirlenecek standart oranlar ve sınırlamalar ile
 yapılacak hesaplamalar yalnızca konsolide bazda dikkate alınır.
-DOKUZUNCU KISIM
-Kuruluş Birlikleri
-Türkiye Bankalar Birliği ve Türkiye Katılım Bankaları Birliği
 
 ### Bizim Yorumumuz
 

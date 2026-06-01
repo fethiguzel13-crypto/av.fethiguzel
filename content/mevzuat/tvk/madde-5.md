@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 5 – (1) Türk vatandaşlığı, doğumla veya sonradan kazanılır.
-Doğumla kazanılan vatandaşlık
 
 ### Bizim Yorumumuz
 

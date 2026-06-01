@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 448- (1) Bu Kanun hükümleri, tamamlanmış işlemleri etkilememek kaydıyla
 derhâl uygulanır.
-Yönetmelik
 
 ### Bizim Yorumumuz
 

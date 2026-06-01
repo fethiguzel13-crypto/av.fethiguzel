@@ -162,7 +162,6 @@ sorumluluklar ile sivil hava ulaşımına açık havaalanları ve bu havaalanlar
 alan tüm tesisler bu Kanunun kapsamı dışındadır.
 (Ek fıkra: 12/11/2012-6360/7 md.) Büyükşehir ve ilçe belediyeleri tarım ve hayvancılığı
 desteklemek amacıyla her türlü faaliyet ve hizmette bulunabilirler.
-Alt yapı hizmetleri
 
 ### Bizim Yorumumuz
 

@@ -33,7 +33,6 @@ tanınmış müracaat hakları saklı kalmak kaydıyla üyeler ve bireysel müş
 ihtilafların değerlendirilmesi ve çözüme kavuşturulmasını temin etmek üzere hazırlayacakları
 ve Kurulca onaylanan usûl ve esaslar dâhilinde hakem heyeti oluşturmak,
 ile görevli ve yetkilidir.
-Organlar ve statü
 
 ### Bizim Yorumumuz
 

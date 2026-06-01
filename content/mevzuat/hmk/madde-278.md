@@ -19,7 +19,6 @@ hususu önceden hatırlatılır.
 (4) Bilirkişinin oy ve görüşünü açıklayabilmesi için bir şey üzerinde inceleme yapması
 zorunlu ise mahkeme kararı ile gerekli incelemeyi yapabilir. Bu işlemin icrası sırasında
 taraflar da hazır bulunabilir.
-Bilirkişi açıklamalarının tespiti ve rapor
 
 ### Bizim Yorumumuz
 

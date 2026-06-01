@@ -23,8 +23,6 @@ sonra gelmek üzere başlığı ile birlikte Dördüncü Kısım eklenmiş, mevc
 Kısım olarak teselsül ettirilmiştir.
 6
 
-Kamu görevlisi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

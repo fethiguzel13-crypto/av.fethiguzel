@@ -38,7 +38,6 @@ kolluk kuvvetine gönderilir. Bu iş yerleri genel güvenlik ve asayiş yönünd
 tarafından denetlenir.
 Bu yerlerin ruhsatlandırılmasında 14.6.1989 tarihli ve 3572 sayılı İş Yeri Açma ve
 Çalışma Ruhsatlarına Dair Kanun Hükmünde Kararnamenin Değiştirilerek Kabulüne Dair
-Kanunun 5 inci ve 6 ncı maddelerinin hükümleri uygulanmaz.
 
 ### Bizim Yorumumuz
 

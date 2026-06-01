@@ -92,9 +92,6 @@ Anayasa Mahkemesi’nin 22/10/2015 tarihli ve E.: 2015/29, K.: 2015/95 sayılı 
 türlü idari ve adli talepler münhasıran MKK’nın üyeleri tarafından yerine getirilir. İlgili
 kanunlar uyarınca elektronik ortamda tebligatı yapılan alacakların takip ve tahsiline ilişkin
 hükümler saklıdır.
-İKİNCİ BÖLÜM
-Kamunun Aydınlatılmasına İlişkin Esaslar
-Finansal raporlama ve bağımsız denetim
 
 ### Bizim Yorumumuz
 

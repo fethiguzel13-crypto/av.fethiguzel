@@ -18,7 +18,6 @@ bulunmuyorsa müracaat tarihinden itibaren en geç otuz gün içinde yapı ruhsa
 Eksik veya yanlış olduğu takdirde; müracaat tarihinden itibaren onbeş gün içinde
 müracaatçıya ilgili bütün eksik ve yanlışları yazı ile bildirilir. Eksik ve yanlışlar giderildikten
 sonra yapılacak müracaattan itibaren en geç onbeş gün içinde yapı ruhsatiyesi verilir.
-Geliştirme alanlarında yapı ruhsatı:
 
 ### Bizim Yorumumuz
 

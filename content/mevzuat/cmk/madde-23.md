@@ -15,7 +15,6 @@ hükme ilişkin olarak verilecek karar veya hükme katılamaz.
 görev yapamaz.
 (3) Yargılamanın yenilenmesi halinde, önceki yargılamada görev yapan hâkim, aynı
 işte görev alamaz.
-Hâkimin reddi sebepleri ve ret isteminde bulunabilecekler
 
 ### Bizim Yorumumuz
 

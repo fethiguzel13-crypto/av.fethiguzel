@@ -67,8 +67,6 @@ ve araziye ait asgari ölçüde birim değer tespitlerine ilişkin süreleri ger
 Maliye Bakanlığı yetkilidir.
 ÜÇÜNCÜ KISIM
 Tahrir Usulü
-BİRİNCİ BÖLÜM
-Genel Esaslar
 
 ### Bizim Yorumumuz
 

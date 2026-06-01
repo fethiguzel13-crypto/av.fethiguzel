@@ -120,9 +120,6 @@ toplu taşıma hizmetlerinden ücretsiz veya indirimli olarak yararlananlara ili
 ödemesi yapabilir.
 16 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 17 a) 10/9/2014 tarihli ve 6552 sayılı Kanunun 121 inci maddesiyle; bu fıkranın birinci cümlesinde yer alan “arsa” ibaresi “taşınmaz” olarak değiştirilmiştir. b) 28/11/2017 tarihli ve 7061 sayılı Kanunun 85 inci maddesi ile bu fıkranın ikinci cümlesine “meclis kararıyla mabetlere” ibaresinden sonra gelmek üzere “, eğitim kurumlarına, yurtlara, okul pansiyonlarına ve hastanelere” ibaresi eklenmiştir. 18 16/11/2022 tarihli ve 7421 sayılı Kanunun 16 ncı maddesiyle, bu fıkranın ikinci cümlesinde yer alan “ve hastanelere” ibaresi “, hastanelere ve cemevlerine” şeklinde değiştirilmiştir. 19 Anayasa Mahkemesinin 17/6/2015 tarihli ve E.: 2014/194, K.: 2015/55 sayılı Kararı ile bu fıkranın birinci cümlesinde yer alan “...ve haciz işlemi sadece gösterilen bu mal üzerine uygulanır” ibaresi ile aynı fıkranın ikinci cümlesinde yer alan “ ...veya kamu hizmetlerini aksatacak ...” ibaresi iptal edilmiştir.
 
-
-Belediyeye tanınan muafiyet
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

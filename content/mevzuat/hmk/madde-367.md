@@ -14,7 +14,6 @@ icranın geri bırakılmasıyla ilgili 36 ncı maddesi hükmü saklıdır. Nafak
 geri bırakılmasına karar verilemez.
 (2) Kişiler hukuku, aile hukuku ve taşınmaz mal ile ilgili ayni haklara ilişkin kararlar
 kesinleşmedikçe yerine getirilemez.
-Kötüniyetle temyiz
 
 ### Bizim Yorumumuz
 

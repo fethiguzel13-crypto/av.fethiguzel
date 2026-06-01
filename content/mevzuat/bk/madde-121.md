@@ -64,9 +64,6 @@ sınavda iki defa başarısız olanlar diğer kamu kurum ve kuruluşlarındaki �
 uygun kadrolara atanmak üzere Devlet Personel Başkanlığına bildirilir.
 Fonun meslek ve idarî personelinin yeterlik ve yarışma sınavları, (…)51 çalışma usûl
 ve esasları ile ilgili diğer hususlar Fon tarafından çıkarılacak bir yönetmelikle belirlenir.
-DÖRDÜNCÜ BÖLÜM
-Görev, Yetki ve Sorumluluk
-Fonun görev ve yetkileri
 
 ### Bizim Yorumumuz
 

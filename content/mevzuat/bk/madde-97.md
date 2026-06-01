@@ -23,7 +23,6 @@ Kurul tarafından yapılan düzenlemeler, değişiklikleri de içerecek şekilde
 güncellenmek suretiyle Kurumun internet sayfasında yayınlanır.
 Kurumca hazırlanacak süreli raporların biçim ve içerikleri ile usûl ve esasları Kurulca
 belirlenir.
-Kurumlararası işbirliği
 
 ### Bizim Yorumumuz
 

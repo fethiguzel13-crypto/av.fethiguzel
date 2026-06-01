@@ -31,9 +31,6 @@ Fon, görev ve yetkilerini etkin şekilde yerine getirmek amacıyla, yeterli say
 nitelikte personeli istihdam eder.
 Fonun malları Devlet malı hükmündedir. Fonun mal, hak ve alacakları haczedilemez
 ve rehnedilemez.
-İKİNCİ BÖLÜM
-Tasarruf Mevduatı Sigorta Fonu Kurulu
-Tasarruf Mevduatı Sigorta Fonu Kurulu
 
 ### Bizim Yorumumuz
 

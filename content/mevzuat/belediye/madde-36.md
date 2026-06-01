@@ -15,9 +15,6 @@ belediyelerde (3.500), nüfusu 10.001-50.000'e kadar olan belediyelerde (4.500),
 (7.500) gösterge rakamının Devlet memurları için belirlenen aylık katsayı ile çarpımı sonucu
 bulunacak tutarda aylık brüt ödenek verilir. Encümenin memur üyelerine bu tutarların yarısı
 ödenir.
-ÜÇÜNCÜ BÖLÜM
-Belediye Başkanı
-Belediye başkanı
 
 ### Bizim Yorumumuz
 

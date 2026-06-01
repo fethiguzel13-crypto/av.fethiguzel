@@ -53,7 +53,6 @@ sayılır. Daha önce yapılan vergilendirme işlemleri, tam mükellef kurumlar 
 düzeltmede örtülü sermayeye ilişkin kur farklarını da kapsayacak şekilde, taraf olan
 mükellefler nezdinde buna göre düzeltilir. Şu kadar ki, bu düzeltmenin yapılması için örtülü
 sermaye kullanan kurum adına tarh edilen vergilerin kesinleşmiş ve ödenmiş olması şarttır.
-Transfer fiyatlandırması yoluyla örtülü kazanç dağıtımı
 
 ### Bizim Yorumumuz
 

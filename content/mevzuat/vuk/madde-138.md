@@ -34,7 +34,6 @@ iş yerinde tespit yapılmasına ve çalışmalarda bulunulmasına mani değildi
 yerinin müsait olması halinde inceleme iş yerinde de yapılabilir.
 (Ek: 14/10/2021-7338/17 md.) Bu maddenin uygulamasına ilişkin usul ve esaslar
 Hazine ve Maliye Bakanlığınca çıkarılan yönetmelikle belirlenir.
-İncelemede uyulacak esaslar:35
 
 ### Bizim Yorumumuz
 

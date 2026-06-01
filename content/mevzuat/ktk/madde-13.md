@@ -29,7 +29,6 @@ sorumlulara ödetilir.
 (Dördüncü fıkra mülga: 18/1/1985 - KHK 245/16 md.)
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayanlar fiil başka bir
 suç oluştursa bile ayrıca 7 200 000 lira para cezası ile cezalandırırlar.
-Karayolu yapısı ve trafik işaretlerinin korunması:
 
 ### Bizim Yorumumuz
 

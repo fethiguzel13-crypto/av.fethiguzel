@@ -41,7 +41,6 @@ Hasılatı paraya çevirme masraflarını ve icabında muhafaza ve idare masrafl
 tecavüz etmeyeceği muhakkak olan şeyler haczolunmaz.
 Haczi koyan memur borçlu ile alacaklının menfaatlerini mümkün olduğu kadar telif
 etmekle mükelleftir.
-Taşınır mallarda haczin neticeleri:
 
 ### Akademik Yorum ve Analiz
 

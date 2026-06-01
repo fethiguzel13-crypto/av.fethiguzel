@@ -17,7 +17,6 @@ aynı sayıda yedek üyeyi seçerek adlarını valiye bildirir.
 Üyeler bu süre içinde seçilip bildirilmedikleri takdirde vali tarafından seçilir.
 Ziraat odası bulunmayan yerlerde bunların seçeceği üyeler, aynı esaslar dairesinde
 belediyelerce seçilir.
-Zirai kazançlar merkez komisyonu:
 
 ### Bizim Yorumumuz
 

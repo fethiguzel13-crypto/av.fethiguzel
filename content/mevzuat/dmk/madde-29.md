@@ -16,7 +16,6 @@ veya iş sahiplerinden borç para istemeleri ve almaları yasaktır.
 yasağının kapsamını belirlemeye ve en az genel müdür veya eşiti seviyedeki üst düzey kamu
 görevlilerince alınan hediyelerin listesini gerektiğinde her takvim yılı sonunda bu
 görevlilerden istemeye yetkilidir.
-Denetimindeki teşebbüsten menfaat sağlama yasağı:
 
 ### Bizim Yorumumuz
 

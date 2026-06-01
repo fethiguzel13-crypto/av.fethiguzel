@@ -14,7 +14,6 @@ borçlunun ikametgahının bulunduğu yer tahsil dairesine ödenir.
 Hususi kanunlarında ödeme yeri gösterilmiş olsun olmasın borçlunun alacaklı
 tahsil dairesindeki hesabı bildirmek şartiyle diğer tahsil dairelerine de ödeme yapılabilir. Bu
 fıkra gereğince yapılacak ödemeler tahsildarlara yapılamaz.11
-Ödeme şekli, makbuz:
 
 ### Bizim Yorumumuz
 

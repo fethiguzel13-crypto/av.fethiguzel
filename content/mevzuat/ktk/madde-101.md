@@ -14,9 +14,6 @@ kaza sigortası dalında çalışmaya yetkili olan sigorta şirketleri tarafınd
 şirketleri zorunlu mali sorumluluk sigortasını yapmakla yükümlüdürler.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayan sigorta şirketleri, 108
 000 000 lira hafif para cezası ile cezalandırılırlar.
-ÜÇÜNCÜ BÖLÜM
-Özel Durumlar
-Motorlu araç römorkları:
 
 ### Bizim Yorumumuz
 

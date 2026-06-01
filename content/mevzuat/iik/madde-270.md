@@ -16,7 +16,6 @@ Teahhurunda tehlike varsa zabıtanın yahut nahiye müdürünün de yardımı is
 İcra dairesi üzerlerinde hapis hakkı bulunan eşyanın bir defterini yapar ve rehinleri
 paraya çevirme yoliyle takip talebinde bulunması için kiralıyana on beş günü geçmemek
 üzere münasip bir mühlet verir.
-Kaçırılan eşyayı takip hakkı:
 
 ### Bizim Yorumumuz
 

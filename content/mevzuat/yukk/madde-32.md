@@ -17,7 +17,6 @@ c) Genel sağlık ve güvenlik standartlarına uygun barınma şartlarına sahip
 ç) İstenilmesi hâlinde, vatandaşı olduğu veya yasal olarak ikamet ettiği ülkenin yetkili
 makamları tarafından düzenlenmiş adli sicil kaydını gösteren belgeyi sunmak
 d) Türkiye’de kalacağı adres bilgilerini vermek
-Kısa dönem ikamet izninin reddi, iptali veya uzatılmaması
 
 ### Bizim Yorumumuz
 

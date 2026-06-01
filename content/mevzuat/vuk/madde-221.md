@@ -22,7 +22,6 @@ yeni bir mükellefiyete girenler, işe başlama, sınıf değiştirme ve yeni m�
 içinde;
 4. Tasdike tabi defterlerin dolması dolayısiyle veya sair sebeplerle yıl içinde yeni
 defter kullanmaya mecbur olanlar bunları kullanmaya başlamadan önce.
-Tasdiki yenileme:
 
 ### Bizim Yorumumuz
 

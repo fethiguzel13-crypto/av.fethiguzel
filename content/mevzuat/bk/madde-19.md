@@ -24,7 +24,6 @@ yükümlülükleri devralan bankaya geçer ve devredilen kuruluşun tüzel kişi
 kaydı Ticaret Sicilinden silinir.
 Bu madde hükmünün uygulanmasına ilişkin usûl ve esaslar Kurum tarafından
 çıkarılacak yönetmelik ile belirlenir.
-İradi tasfiye
 
 ### Bizim Yorumumuz
 

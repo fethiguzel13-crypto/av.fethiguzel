@@ -14,7 +14,6 @@ müsaderesinin konusunu oluşturan malvarlığı değerleri, muhafaza altına al
 (2) Yanında bulunduran kişinin rızasıyla teslim etmediği bu tür eşyaya elkonulabilir.
 (3) (Ek:27/12/2020-7262/19 md.) Muhafaza altına alınan veya elkonulan eşya ya da
 malvarlığı değerlerinin kıymeti tespit edilir.
-İstenen eşyayı vermeyenler hakkında yapılacak işlem
 
 ### Bizim Yorumumuz
 

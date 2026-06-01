@@ -14,7 +14,6 @@ temsilcisidir. Belediye başkanı, ilgili kanunda gösterilen esas ve usûllere 
 Belediye başkanı, görevinin devamı süresince siyasî partilerin yönetim ve denetim
 organlarında görev alamaz; profesyonel spor kulüplerinin başkanlığını yapamaz ve yönetiminde
 bulunamaz.
-Belediye başkanının görev ve yetkileri
 
 ### Bizim Yorumumuz
 

@@ -40,7 +40,6 @@ gerekçesinde hata edilmiş ise düzelterek yeniden esas hakkında,
 3) Yargılamada bulunan eksiklikler duruşma yapılmaksızın tamamlanacak nitelikte ise
 bunların tamamlanmasından sonra başvurunun esastan reddine veya yeniden esas hakkında,49
 duruşma yapılmadan karar verilir.
-İnceleme
 
 ### Bizim Yorumumuz
 

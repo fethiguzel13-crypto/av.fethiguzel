@@ -12,7 +12,6 @@ wordCount: 720
 ---
 
 Madde 214 – Deftere geçirilen her malın kıymeti takdir olunur.
-Defterin müflis tarafından tanınması:
 
 ### Akademik Yorum ve Analiz
 

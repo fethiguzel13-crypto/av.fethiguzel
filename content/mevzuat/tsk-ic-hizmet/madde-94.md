@@ -17,7 +17,6 @@ yakın polis ve jandarma kuvvetlerine de müracaat olunur. Askeri inzibatlar tar
 
 olacak yardım talepleri üzerine polis ve jandarmalar tarafından yardımda bulunulacağı gibi
 polis ve jandarmalar tarafından vaki olacak yardım talepleri de askeri inzibatlarca yerine
-getirilir.
 
 ### Bizim Yorumumuz
 

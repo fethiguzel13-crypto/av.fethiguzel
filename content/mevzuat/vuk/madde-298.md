@@ -346,10 +346,6 @@ dönemlerine ilişkin olarak bu fıkra kapsamında yeniden değerleme yapılabil
 Bakanlığı yetkilidir.
 İKİNCİ KISIM
 Vergi Değerleri
-BİRİNCİ BÖLÜM
-Gayrisafi İratların Tesbiti
-
-Tahmin esası:
 
 ### Bizim Yorumumuz
 

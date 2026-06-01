@@ -21,7 +21,6 @@ teşebbüs etmek, taahhüdünü kötü niyetle yerine getirmemek, taahhüdünü 
 idareye zarar verecek işler yapmak veya işin yapılması veya teslimi sırasında hileli malzeme,
 araç veya usuller kullanmak,
 Yasaktır.
-İdarelerce ihalelere katılmaktan geçici yasaklama:
 
 ### Bizim Yorumumuz
 

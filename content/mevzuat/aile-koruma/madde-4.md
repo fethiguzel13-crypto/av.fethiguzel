@@ -20,7 +20,6 @@ ve korunan kişinin talebi üzerine tapu kütüğüne aile konutu şerhi konulma
 için diğer tedbirlerin yeterli olmayacağının anlaşılması hâlinde ve ilgilinin aydınlatılmış
 rızasına dayalı olarak 27/12/2007 tarihli ve 5726 sayılı Tanık Koruma Kanunu hükümlerine
 göre kimlik ve ilgili diğer bilgi ve belgelerinin değiştirilmesi.
-Hâkim tarafından verilecek önleyici tedbir kararları
 
 ### Bizim Yorumumuz
 

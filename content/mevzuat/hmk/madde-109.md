@@ -15,7 +15,6 @@ sadece bir kısmı da dava yoluyla ileri sürülebilir.
 (3) Dava açılırken, talep konusunun kalan kısmından açıkça feragat edilmiş olması
 hâli dışında, kısmi dava açılması, talep konusunun geri kalan kısmından feragat edildiği
 anlamına gelmez.
-Davaların yığılması
 
 ### Bizim Yorumumuz
 

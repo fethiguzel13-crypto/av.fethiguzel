@@ -24,7 +24,6 @@ serbestçe kullanır.
 kullanmak amacıyla yeterli sayı ve nitelikte personeli istihdam eder.
 (5) Kurulun para, evrak ve her türlü malları devlet malı hükmündedir, haczedilemez ve
 rehnedilemez.
-Kurul Karar Organı
 
 ### Bizim Yorumumuz
 

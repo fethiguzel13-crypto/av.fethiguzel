@@ -18,7 +18,6 @@ Müracaat ve şikayetler söz veya yazı ile en yakın amirden başlayarak silsi
 Müracaat ve şikayetler incelenerek en kısa zamanda ilgiliye bildirilir. Müracaat ve
 şikayetlerle ilgili esas ve usuller Cumhurbaşkanınca hazırlanacak bir yönetmelikle
 düzenlenir.22
-Sendika kurma:
 
 ### Bizim Yorumumuz
 

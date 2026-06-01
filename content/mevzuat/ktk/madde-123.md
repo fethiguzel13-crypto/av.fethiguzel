@@ -34,8 +34,6 @@ uzatılır.
 altı aya kadar hafif hapis cezası ve 108 000 000 lira hafif para cezası ile cezalandırılır. Ayrıca,
 belge alınmadan açılan kurslar zabıtaca kapatılır.
 
-Çocuk trafik eğitim parkları:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

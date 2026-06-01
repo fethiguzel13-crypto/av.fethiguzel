@@ -14,7 +14,6 @@ hukuken imkân kalmaması halinde; vakfedenin iradesine aykırı olmamak kaydıy
 vakıflarda Genel Müdürlüğün; mülhak, cemaat ve esnaf vakıflarında, vakıf yöneticilerinin
 teklifi üzerine bu şartları değiştirmeye; hayır şartlarındaki parasal değerleri güncel vakıf
 gelirlerine uyarlamaya Meclis yetkilidir.
-Hayrat taşınmazların nitelikleri ve değerlendirilmesi
 
 ### Bizim Yorumumuz
 

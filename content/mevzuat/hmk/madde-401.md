@@ -18,7 +18,6 @@ vakıa tespitine ilişkin hükümler saklıdır.
 olduğu ileri sürülemez.
 (4) Dava açıldıktan sonra yapılan her türlü delil tespiti talebi hakkında sadece davanın
 görülmekte olduğu mahkeme yetkili ve görevlidir.
-Delil tespiti talebi ve karar
 
 ### Bizim Yorumumuz
 

@@ -34,7 +34,6 @@ gerekçesini belirterek bir aydan sonrası için de duruşma günü belirleyebil
 duruşma yapabilir.
 (4) Basit yargılama usulüne tabi davalarda, işlemden kaldırılmasına karar verilmiş
 olan dosya, yenilenmesinden sonra takipsiz bırakılırsa, dava açılmamış sayılır.
-Hüküm
 
 ### Bizim Yorumumuz
 

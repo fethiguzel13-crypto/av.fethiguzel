@@ -73,7 +73,6 @@ h) Tuğgeneral (Tuğamiral) ˥
 i) Tümgeneral (Tümamiral) _
 j) Korgeneral (Koramiral) } General veya amiraller
 k) Orgeneral (Oramiral) _
-l) Mareşal (Büyük amiral) ˩
 
 ### Bizim Yorumumuz
 

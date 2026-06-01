@@ -15,7 +15,6 @@ motorsuz taşıtları kullananlar ile hayvan sürücülerinin 13 yaşını bitir
 ruhsal bakımdan sağlıklı bulunmaları zorunludur.36
 (Değişik : 21/5/1997-4262/4 md.) Durumları bu madde hükmüne uymayanlara araç
 kullandıran ve hayvanları tevdi edenler 1 800 000 lira para cezası ile cezalandırılırlar.
-Sürücü belgesi sınıfları:
 
 ### Bizim Yorumumuz
 

@@ -21,7 +21,6 @@ vergilendirme dönemlerine uygulanmak ve 1/1/2006 tarihinden itibaren geçerli o
 yayımı tarihinde,
 e) Diğer hükümleri 1/1/2006 tarihinden itibaren geçerli olmak üzere yayımı tarihinde,
 yürürlüğe girer.
-Yürütme
 
 ### Bizim Yorumumuz
 

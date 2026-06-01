@@ -20,7 +20,6 @@ Bu maddenin uygulanması ile ilgili olarak Geçici 22 nci Maddeye bakınız.
 Sürücü belgesi sınıfları, belge sahiplerine sürme yetkisi verilen motorlu araçların
 cinsleri, özellikleri, sürücü belgelerinin şekli, içeriği ve verilmesine ilişkin hususlar ile
 Uluslararası Sürücü Belgesinin verilmesine dair usul ve esaslar yönetmelikle belirlenir.
-Sürücü belgelerine ait esaslar:
 
 ### Bizim Yorumumuz
 

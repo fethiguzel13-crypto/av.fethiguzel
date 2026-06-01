@@ -35,7 +35,6 @@ kanuni faizi ile birlikte iade etmek zorundadır. Örtülü kazanç aktarımı y
 ilgili 94 üncü ve 110 uncu maddeler ile ilgili mevzuatta öngörülen hukuki, cezai ve idari
 
 yaptırımlar saklıdır.
-Ortaklıkların kendi paylarını satın ve rehin alması
 
 ### Bizim Yorumumuz
 

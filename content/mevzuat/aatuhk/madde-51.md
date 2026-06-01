@@ -30,7 +30,6 @@ ayrı ayrı, yüzde onuna kadar indirmeye, gecikme zammı oranı ile gecikme zam
 tutarını iki katına kadar artırmaya, ayrıca gecikme zammı oranını aylar itibarıyla farklı olarak
 belirlemeye ve gecikme zammını bileşik faiz usulüyle aylık, üç aylık, altı aylık veya yıllık
 olarak hesaplatmaya yetkilidir.25
-Gecikme zammında tatbik müddeti ve diğer hükümler:
 
 ### Bizim Yorumumuz
 

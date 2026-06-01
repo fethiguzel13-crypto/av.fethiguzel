@@ -22,7 +22,6 @@ dairesi dahi iflas takibi için yetkili sayılır. Şu kadar ki, iflas davaları
 yapılamaz ve iflas davası mutlaka borçlunun muamele merkezinin bulunduğu yer ticaret
 mahkemesinde açılır.
 II – İFLAS YOLİYLE ADİ TAKİP:
-Ödeme emri ve münderecatı:
 
 ### Akademik Yorum ve Analiz
 

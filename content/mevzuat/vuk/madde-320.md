@@ -53,7 +53,6 @@ keyfiyeti beyannamelerinde veya eki bilançolarda belirtmeye mecburdurlar. Kabul
 usul bu bildirimin yapıldığı beyannamenin taallük ettiği dönemden itibaren nazara alınır. Bu
 takdirde henüz yok edilmemiş olan değer kısmı, bakıye amortisman süresine bölünmek
 suretiyle eşit miktarlarla yok edilir.
-Amortisman hesapları:
 
 ### Akademik Yorum ve Analiz
 

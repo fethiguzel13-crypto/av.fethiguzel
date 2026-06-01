@@ -16,8 +16,6 @@ görevden ayrılmış olan veya görevde bulunan, yönetim kurulu üyelerinin ve
 yöneticilerinin, portföy yönetim şirketi yöneticilerinin ve konut finansmanı fonları ile varlık
 finansmanı fonlarının fon kurulu üyelerinin şahsen iflaslarını istemeye yetkilidir.
 
-İzinsiz sermaye piyasası faaliyetinde uygulanacak tedbirler
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

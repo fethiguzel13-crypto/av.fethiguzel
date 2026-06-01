@@ -14,7 +14,6 @@ medenî durumuna, uyrukluğuna ve bunlarda meydana gelebilecek değişikliklere 
 hukukî olayların belirlenip saptanması, bu amaçla düzenlenmiş kütüklere yazılması, elektronik
 ortamda ulusal adres veri tabanının oluşturulması, nüfus kayıtları ile adres bilgilerinin
 ilişkilendirilmesini sağlamaktır.
-Kapsam
 
 ### Bizim Yorumumuz
 

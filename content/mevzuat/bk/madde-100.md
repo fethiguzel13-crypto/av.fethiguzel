@@ -22,10 +22,6 @@ Tarafların bir diğerinden talep edeceği bilgilerin ve belgelerin diğer taraf
 içerisinde verilmesi esastır.
 Bu Kanun hükümlerinin uygulanmasında her iki kurumu ilgilendiren konularda ve
 bilgi paylaşımında izlenecek usûl ve esaslar Kurum ve Fon tarafından müştereken belirlenir.
-BEŞİNCİ BÖLÜM
-
-Çeşitli Hükümler
-Kurumun bütçesi, hesap ve harcamaların denetimi
 
 ### Bizim Yorumumuz
 

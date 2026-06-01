@@ -21,7 +21,6 @@ hâkim, karşı tarafın görüşünü aldıktan sonra derhâl bu konuda kararı
 uygun cevap vereceğime ve hiçbir şey saklamayacağıma namusum, şerefim ve kutsal saydığım
 bütün inanç ve değerlerim üzerine yemin ediyorum." demekle yemin eda edilmiş sayılır.
 (5) Yemin eda edilirken, hâkim de dâhil olmak üzere hazır bulunan herkes ayağa kalkar.
-Sağır ve dilsizlerin yemini
 
 ### Bizim Yorumumuz
 

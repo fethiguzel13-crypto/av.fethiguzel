@@ -35,8 +35,6 @@ Müsteşarı” ifadesi “Cumhurbaşkanlığı Strateji ve Bütçe Başkanı”
 Yardımcıları” ibaresi “Bakanlık Genel Müdürleri” şeklinde değiştirilmiştir.
 10
 
-Kurumun Gelirleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

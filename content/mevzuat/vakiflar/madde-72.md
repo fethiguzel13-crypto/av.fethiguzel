@@ -16,9 +16,6 @@ karşı taraftan tahsil olunan vekalet ücretlerinin; avukatlara ve hukuk servis
 yapan memurlara dağıtımı hakkında 2/2/1929 tarihli ve 1389 sayılı Devlet Davalarını İntaç
 Eden Avukat ve Saireye Verilecek Ücreti Vekalet Hakkında Kanun hükümleri kıyas yoluyla
 uygulanır.
-DÖRDÜNCÜ KISIM
-Çeşitli Hükümler
-Görev ve yetki
 
 ### Bizim Yorumumuz
 

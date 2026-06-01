@@ -41,7 +41,6 @@ ray üzerinde hareket eden taşıtlara ilk geçiş hakkını vermek zorundadır.
 (Değişik ikinci fıkra:12/2/2026-7574/17 md.) Birinci fıkranın (d) ve (e) bentlerine
 uymayan sürücüler 1.000 Türk lirası, diğer hükümlerine uymayan sürücüler ise 5.000 Türk lirası
 idari para cezası ile cezalandırılırlar.
-İndirme ve bindirme kuralları:
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ yarısında, memleketin ekonomik gelişmesi genel geçim şartları ve Devletin 
 gözönünde bulundurulmak suretiyle Cumhurbaşkanı bu katsayıları ikinci yarının tamamı veya
 üçer aylık dönemleri itibariyle uygulanmak üzere değiştirmeye yetkilidir.266
 Katsayılardaki değişiklik aylıklarda artış veya eksiliş sayılmaz.
-Memurlara ödenecek aylık tutarları:
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ muamelelere başlanmış olduğu takdirde vergi incelemesine yetkili memurlarca 
 hesaplara göre belirtilen miktar üzerinden tahsil dairelerince teminat istenir.3
 Türkiye'de ikametgahı bulunmıyan amme borçlusunun durumu amme alacağının
 tahsilinin tehlikede olduğunu gösteriyorsa, tahsil dairesi kendisinden teminat istiyebilir.
-Teminat ve değerlenmesi:
 
 ### Bizim Yorumumuz
 

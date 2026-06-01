@@ -43,7 +43,6 @@ yere bir kimse refakatinde gitmesi resmî tabip raporuyla gerekli görülenlerin
 gidiş ve dönüş yol ücreti ile gidiş ve dönüş süresi için gündelik, sevk eden askerlik şubesi
 tarafından peşin veya avans olarak ödenir. Yol ücretinin ödenmesinde şehirlerarası karayolu
 toplu taşım vasıtası ücretleri; gündelikte ise en düşük dereceli devlet memuru gündeliği esas
-alınır.13
 
 ### Bizim Yorumumuz
 

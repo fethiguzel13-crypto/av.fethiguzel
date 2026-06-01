@@ -41,7 +41,6 @@ geçici 15 inci maddesi kapsamında ilgili kadrolara atananlar veya atanmış sa
 sayılı Kanun Hükmünde Kararnamenin 221 inci maddesinin ilgili hükümleri kapsamında
 Türkiye Büyük Millet Meclisi Başkanlığı İdari Teşkilatında müşavir unvanlı kadrolara
 atananlar hakkında da uygulanır.
-Emeklilerin yeniden hizmete alınması:
 
 ### Bizim Yorumumuz
 

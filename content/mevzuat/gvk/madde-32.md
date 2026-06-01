@@ -12,7 +12,6 @@ wordCount: 779
 ---
 
 Madde 32 – (Mülga: 4/12/1985-3239/138 md.; Yeniden düzenleme: 28/3/20075615/2 md.) (Mülga:22/12/2021-7349/3 md.)
-Yurt dışına hizmet veren işletmelerde indirim:
 
 ### Akademik Yorum ve Analiz
 

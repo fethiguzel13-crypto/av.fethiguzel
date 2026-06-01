@@ -18,7 +18,6 @@ b) 37 nci maddesinin birinci fıkrasının ikinci cümlesi ile 5 inci maddesinin
 fıkrasının (a) bendi yayımı tarihinden itibaren bir yıl sonra,
 c) Diğer hükümleri yayımı tarihinde,
 Yürürlüğe girer.
-Yürütme
 
 ### Bizim Yorumumuz
 

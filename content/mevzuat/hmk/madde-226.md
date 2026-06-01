@@ -15,7 +15,6 @@ b) Bir işlemin geçerliliği için, kanunen iki tarafın irade açıklamaların
 görülmediği hâller.
 c) Yemin edecek kimsenin namus ve onurunu etkileyecek veya onu ceza soruşturması
 ya da kovuşturması ile karşı karşıya bırakacak vakıalar.
-Yemin teklifi
 
 ### Bizim Yorumumuz
 

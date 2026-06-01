@@ -40,7 +40,6 @@ ve bağımsız denetim kuruluşlarından bilgi ve belge almaya, bedeli banka tar
 karşılanmak suretiyle konularında ihtisas sahibi kişilerden yönetim kurulunun onayına bağlı
 olarak danışmanlık hizmeti sağlamaya yetkilidir. Denetim komitesinin görev, yetki ve
 sorumlulukları ile çalışma usûl ve esasları yönetim kurulu tarafından düzenlenir.
-Genel müdür ve yardımcıları
 
 ### Bizim Yorumumuz
 

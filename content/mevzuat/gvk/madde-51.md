@@ -47,9 +47,6 @@ Cumhurbaşkanınca kararlaştırılan iş grupları, sektörler, il ve ilçeler,
 dahil olmak üzere il ve ilçelerin belediye sınırları(mücavir alanlar dahil) belediyelerin
 nüfusları,yöreler itibariyle veya sabit bir işyerinde faaliyette bulunup bulunulmadığına göre
 gerçek usulde vergilendirilmesi gerekli görülenler.6061
-İKİNCİ BÖLÜM
-Zirai Kazanç
-Zirai kazanç, zirai faaliyet, zirai işletme, çiftçi ve mahsulün tarifi:
 
 ### Akademik Yorum ve Analiz
 

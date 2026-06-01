@@ -23,7 +23,6 @@ vatandaşlığını kazandığı tarihte” ibaresi madde metninden çıkarılm�
 (3) Ana veya babanın Türk vatandaşlığını kazandığı tarihte kendileri ile birlikte işlem
 görmeyen çocukları, ergin olduktan sonra Türk vatandaşlığını kazanmak üzere başvurdukları
 takdirde haklarında 11 inci madde hükümleri uygulanır.
-Türk vatandaşlığının seçme hakkı ile kazanılması
 
 ### Bizim Yorumumuz
 

@@ -31,7 +31,6 @@ tüm yolcu ve mürettebat bilgilerini isteyebilir.
 (3) Birinci ve ikinci fıkralarda yer alan yükümlülüklere ilişkin uygulanacak usul ve
 esaslar, Bakanlık ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca müştereken çıkarılacak
 yönetmelikle belirlenir.
-Kişisel veriler
 
 ### Bizim Yorumumuz
 

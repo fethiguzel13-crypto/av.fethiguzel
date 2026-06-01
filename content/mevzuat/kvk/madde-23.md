@@ -32,10 +32,6 @@ c) Türkiye dışındaki taşımacılık faaliyeti için diğer kurumlar hesabı
 sattıkları yolcu ve bagaj biletleri ile Türkiye’de yaptıkları navlun sözleşmeleri dolayısıyla
 kendilerine verilen komisyonlar ve ücretler.
 
-İKİNCİ BÖLÜM
-Beyan
-Beyan esası
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

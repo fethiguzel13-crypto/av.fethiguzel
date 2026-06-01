@@ -14,7 +14,6 @@ Madde 37- Bu Kanunun ilgili maddelerinde düzenlenmesi öngörülen yönetmelikl
 Müdürlüğünün bağlı olduğu Bakanlıkça en geç altı ay içinde Resmi Gazetede yayımlanarak
 yürürlüğe konulur. Bu yönetmelikler çıkarılıncaya kadar mevcut yönetmeliklerin bu Kanuna
 aykırı olmayan hükümlerinin uygulanmasına devam olunur.
-Değiştirilen ve yürürlükten kaldırılan hükümler
 
 ### Bizim Yorumumuz
 

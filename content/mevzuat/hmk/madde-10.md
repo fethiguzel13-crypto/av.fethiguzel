@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 10- (1) Sözleşmeden doğan davalar, sözleşmenin ifa edileceği yer
 mahkemesinde de açılabilir.
-Mirastan doğan davalarda yetki
 
 ### Bizim Yorumumuz
 

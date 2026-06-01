@@ -13,7 +13,6 @@ MADDE 308- (1) Kabul, davacının talep sonucuna, davalının kısmen veya tamam
 muvafakat etmesidir.
 (2) Kabul, ancak tarafların üzerinde serbestçe tasarruf edebilecekleri davalarda hüküm
 doğurur.
-Feragat ve kabulün şekli
 
 ### Bizim Yorumumuz
 

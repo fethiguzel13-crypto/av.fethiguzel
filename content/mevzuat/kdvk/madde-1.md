@@ -45,7 +45,6 @@ olmaması işlemlerin mahiyetini değiştirmez ve vergilendirmeye mani teşkil e
 İthalatın kamu sektörü, özel sektör veya herhangi bir gerçek veya tüzelkişi tarafından
 yapılması veya herhangi bir şekil ve surette gerçekleştirilmesi, özellik taşıması vergilendirmeye
 tesir etmez.
-Teslim:
 
 ### Bizim Yorumumuz
 

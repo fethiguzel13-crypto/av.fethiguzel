@@ -19,7 +19,6 @@ kararın tefhim tarihinden başlayarak bir ay içinde yazılması gerekir.
 (5) Hükmün tefhimini, duruşmada bulunanlar ayakta dinler.
 (6) Hükme ilişkin hususlar, niteliğine aykırı düşmedikçe, usule ilişkin nihai kararlar
 hakkında da uygulanır.
-Hükmün müzakeresi
 
 ### Bizim Yorumumuz
 

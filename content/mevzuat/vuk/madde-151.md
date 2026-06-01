@@ -24,7 +24,6 @@ dışındaki sıfatları dolayısıyla muttali oldukları ahval ve hususlara şa
 teslimi caiz olmıyan evrakın muhteviyatı hakkında bilgi istenemez. Şu kadar ki, doğrudan
 doğruya vergi ile ilgili olmak üzere, bu gibi evraka müsteniden doğan borçların miktarlarına
 ve alacaklıların adlarına bilgiler istenebilir.
-İstihbarat arşivi:
 
 ### Bizim Yorumumuz
 

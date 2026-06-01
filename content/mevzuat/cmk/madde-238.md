@@ -18,7 +18,6 @@ katılmak isteyip istemediği sorulur.
 (3) Cumhuriyet savcısının, sanık ve varsa müdafiinin dinlenmesinden sonra davaya
 katılma isteminin uygun olup olmadığına karar verilir.
 (4) (Mülga: 18/6/2014 - 6545/103 md.)
-Katılanın hakları
 
 ### Bizim Yorumumuz
 

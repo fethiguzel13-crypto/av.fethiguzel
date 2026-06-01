@@ -36,7 +36,6 @@ hakkında kovuşturma yapılabilir. Ancak, daha önce sorgusu yapılmamış ise,
 ceza verilmesine yer olmadığı kararı verilemez.86
 (4) Duruşma yapılan hâllerde kaçak sanığın müdafii yoksa, mahkeme barodan bir
 avukat görevlendirilmesini ister.
-Zorlama amaçlı elkoyma ve teminat belgesi87
 
 ### Bizim Yorumumuz
 

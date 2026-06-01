@@ -13,9 +13,6 @@ Madde 225 – (1) Hüküm, ancak iddianamede unsurları gösterilen suça ilişk
 faili hakkında verilir.
 
 (2) Mahkeme, fiilin nitelendirilmesinde iddia ve savunmalarla bağlı değildir.
-İKİNCİ BÖLÜM
-Suç Niteliğinde Değişiklik
-Suçun niteliğinin değişmesi
 
 ### Bizim Yorumumuz
 

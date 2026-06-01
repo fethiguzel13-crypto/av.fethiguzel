@@ -22,7 +22,6 @@ günü içinde 6 ncı maddede yer alan esaslar çerçevesinde onaylanır ve 7 nc
 araçlarını satın almak için talepte bulunmuş olan yatırımcılar, izahnamede yapılan ek ve
 değişikliklerin yayımlanmasından itibaren iki iş günü içinde taleplerini geri alma hakkına
 sahiptirler.
-İzahnamenin geçerlilik süresi
 
 ### Bizim Yorumumuz
 

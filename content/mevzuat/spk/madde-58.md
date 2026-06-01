@@ -52,7 +52,6 @@ bağlı olan ve konut veya varlık finansmanı fonu portföyüne alınan varlık
 siciline veya ilgili sicile fon adına tescil edilir. Tapuda, ticaret sicilinde ve diğer resmî
 sicillerde fon adına yapılacak işlemler, fon kurucusu ile fon kurulunu temsil eden birer
 yetkilinin müşterek imzalarıyla gerçekleştirilir.
-İpotek ve varlık teminatlı menkul kıymetler
 
 ### Bizim Yorumumuz
 

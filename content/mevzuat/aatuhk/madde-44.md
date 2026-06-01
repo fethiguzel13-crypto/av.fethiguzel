@@ -15,7 +15,6 @@ postaneye yatırıldığı, banka kartı, kredi kartı ve benzeri kartlar ile ya
 kartla yapıldığı, münakale emri üzerine paranın tahsil dairesi hesabına geçtiği gün ödeme
 yapılmış sayılır.16
 42 nci maddenin 2 numaralı fıkrası hükmü mahfuzdur.
-Vergi cüzdanları:
 
 ### Bizim Yorumumuz
 

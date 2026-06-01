@@ -43,10 +43,6 @@ malların 5.000 adedi aşması hâlinde ise müteselsilen sorumlu olmak üzere, 
 bulunduranlar ile ithal veya imal edenlerden herhangi biri adına; malların tespit tarihindeki emsal
 bedeli veya miktarı üzerinden 11 inci maddedeki esaslara göre özel tüketim vergisi resen tarh
 edilir. Bu tarhiyata ayrıca vergi ziyaı cezası uygulanır.37
-DÖRDÜNCÜ BÖLÜM
-Verginin Beyanı, Tarhı ve Ödenmesi, Verginin Belgelerde Gösterilmesi, Matrahta,
-Vergide ve Mükellefiyette Değişiklikler
-Verginin beyanı, tarhı ve ödenmesi
 
 ### Bizim Yorumumuz
 

@@ -16,9 +16,6 @@ savunma makamı yanında yer alan sıfatıyla duruşmaya kabul edilir.
 sağladığı haklardan yararlanır.
 (3) Birinci fıkra hükmü, sanığın aynı zamanda tüzel kişinin organ veya temsilcisi
 sıfatını taşıması hâlinde uygulanmaz.
-DÖRDÜNCÜ BÖLÜM
-Bazı Suçlara İlişkin Muhakeme
-Seri muhakeme usulü
 
 ### Bizim Yorumumuz
 

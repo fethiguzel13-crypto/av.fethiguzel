@@ -46,7 +46,6 @@ Sürücüler, 15 yaşını doldurmamış çocukların birinci fıkrada belirtile
 sistemleri kullanmalarını sağlamak zorundadırlar. 15 yaşını doldurmamış çocukların
 koruyucu sistemleri kullanmadan veya usulüne uygun olarak kullanılmasını sağlamadan
 seyahatine izin veren araç sürücüsüne 5.000 Türk lirası idari para cezası uygulanır.
-Park ücretinin alınması, araçların çektirilmesi ve kaldırılması ile muhafazası:67
 
 ### Bizim Yorumumuz
 

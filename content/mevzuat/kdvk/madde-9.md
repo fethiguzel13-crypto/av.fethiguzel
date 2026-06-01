@@ -40,9 +40,6 @@ uygulanmaz..." ibaresi “… vergi ziyaı cezası uygulanır.” şeklinde değ
 3. (Ek: 16/6/2009-5904/9 md.) 5300 sayılı Tarım Ürünleri Lisanslı Depoculuk
 Kanununa göre düzenlenen ürün senetlerinin, senedin temsil ettiği ürünü depodan çekecek
 olanlara teslimine ait katma değer vergisinin ödenmesinden lisanslı depo işleticileri sorumludur.
-ÜÇÜNCÜ BÖLÜM
-Vergiyi Doğuran Olay
-Vergiyi doğuran olayın meydana gelmesi:
 
 ### Bizim Yorumumuz
 

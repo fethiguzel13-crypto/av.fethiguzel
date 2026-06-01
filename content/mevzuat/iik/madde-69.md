@@ -30,7 +30,6 @@ madde hükümlerini yerine getirmek şartiyle, icra dairesinden mühlet istiyebi
 (Değişik: 9/11/1988-3494/5 md.) Borçtan kurtulma davasında haksız çıkan taraf, dava
 veya hükmolunan şeyin yüzde yirmisinden aşağı olmamak üzere münasip bir tazminatla
 mahkum edilir.34
-Karar ve müddet
 
 ### Bizim Yorumumuz
 

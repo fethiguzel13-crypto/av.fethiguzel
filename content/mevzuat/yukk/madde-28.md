@@ -17,7 +17,6 @@ bir yılı aşan Türkiye dışında kalışlar ikamette kesinti sayılır. İka
 süreleri hesaba katılmaz.
 (2) Kesintisiz ikamet izin sürelerinin hesaplanmasında, öğrenci ikamet izinlerinin
 yarısı, diğer ikamet izinlerinin ise tamamı sayılır.
-İkamet izinleri arasında geçişler
 
 ### Bizim Yorumumuz
 

@@ -52,7 +52,6 @@ hükmündedir.
 Bir çiftçiye veya ortaklığa ait olup aynı köy sınırları içinde veya birbirine bitişik arazi
 üzerinde bulunan yahut istihsal şartlarına göre birbirine bağlılık ve beraberlik arz eden
 işletmeler tek işletme sayılır.
-Zirai kazançta vergileme
 
 ### Akademik Yorum ve Analiz
 

@@ -18,7 +18,6 @@ yürürlüğe girer.
 Nüfusu 50.000'in altında olan belediyelerde stratejik plân yapılması zorunlu değildir.
 Stratejik plân ve performans programı bütçenin hazırlanmasına esas teşkil eder ve
 belediye meclisinde bütçeden önce görüşülerek kabul edilir.
-Yetki devri
 
 ### Bizim Yorumumuz
 

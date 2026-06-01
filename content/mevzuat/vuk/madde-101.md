@@ -28,7 +28,6 @@ olmayan teşekküllerde ise bunları idare edenler veya varsa temsilcilerinden h
 adres kayıt sisteminde bulunan yerleşim yeri adresinde yapılır.
 İşyeri adresi olmayanlara tebliğ, doğrudan adres kayıt sisteminde bulunan yerleşim
 yeri adresinde yapılır.
-Tebliğ evrakının teslimi:
 
 ### Bizim Yorumumuz
 

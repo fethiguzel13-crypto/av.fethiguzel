@@ -18,7 +18,6 @@ bulunması hâlinde asliye hukuk mahkemesine, aile mahkemesi hâkimi ile asliye 
 mahkemesi hâkiminin aynı hâkim olması hâlinde ise en yakın asliye hukuk mahkemesine
 gecikmeksizin gönderilir.
 (3) İtiraz mercii kararını bir hafta içinde verir. İtiraz üzerine verilen kararlar kesindir.
-Tedbir kararlarının bildirimi ve uygulanması
 
 ### Bizim Yorumumuz
 

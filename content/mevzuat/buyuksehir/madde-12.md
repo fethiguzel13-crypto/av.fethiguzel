@@ -15,7 +15,6 @@ Büyükşehir belediye başkanı büyükşehir belediye meclisinin başkanı olu
 içindeki diğer belediyelerin başkanları, büyükşehir belediye meclisinin doğal üyesidir.
 Büyükşehir ilçe (...)19 belediye meclisleri ile bunların çalışma usul ve esaslarına
 ilişkin diğer hususlarda Belediye Kanunu hükümleri uygulanır.
-Meclis toplantısı
 
 ### Bizim Yorumumuz
 

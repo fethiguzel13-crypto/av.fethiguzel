@@ -15,9 +15,6 @@ görevlisi, köy muhtarı ya da sağlık veya cenaze işleriyle görevli kişile
 Cumhuriyet Başsavcılığına bildirmekle yükümlüdürler.
 (2) Birinci fıkra kapsamına giren hallerde ölünün gömülmesi ancak Cumhuriyet
 savcısı tarafından verilecek yazılı izne bağlıdır.
-İKİNCİ BÖLÜM
-Soruşturma İşlemleri
-Bir suçun işlendiğini öğrenen Cumhuriyet savcısının görevi
 
 ### Bizim Yorumumuz
 

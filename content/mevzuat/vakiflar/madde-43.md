@@ -21,7 +21,6 @@ durumunda otuz gün içinde eski kurumlarına başvurmaları halinde mükteseple
 kadroya atanırlar. Bu durumda Genel Müdürlükte geçirdikleri süreler atandığı kurumda
 geçmiş gibi değerlendirilir. Akademik unvanların kazanılmasına ilişkin hükümler saklı
 kalmak kaydıyla üniversitelerden gelen personel hakkında da aynı hükümler uygulanır.
-Meclis üyelerinin yenilenmesi ve huzur hakkı
 
 ### Bizim Yorumumuz
 

@@ -46,7 +46,6 @@ emsal bedelleri masraf yazılır. (Bu giderlerin sene sonunda bir kalemde yazıl
 devreden ürünleri Vergi Usul Kanununun 45 inci maddesinde belirtilen ortalama maliyet
 bedeli esasına göre değerlendirilerek gider yazılır.66
 (Ek fıkra: 25/5/1995-4108/21 md.; Mülga: 17/12/2003-5024/9 md.)
-Hasılattan indirilemiyecek giderler:
 
 ### Akademik Yorum ve Analiz
 

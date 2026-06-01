@@ -26,7 +26,6 @@ statik ve tesisat sorumluluğunun kurumlarına ait olduğunun ilgili belediyesin
 yazı ile bildirdiği takdirde, 22 nci maddede sayılan belgeler aranmadan yapı ruhsatı verilir.
 (Üçüncü fıkra iptal: Anayasa Mahkemesinin 11/12/1986 tarihli ve E. 1985/11, K.
 1986/29 sayılı Kararı ile.)
-Köylerde yapılacak yapılar ve uyulacak esaslar29
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ Blok yöneticisi ve denetçisi, bloktaki kat maliklerinin; blok niteliğinde olm
 payı bakımından çoğunluğu tarafından seçilir. Toplu yapı kapsamındaki bütün ortak yapı, yer
 ve tesisler için yönetici ve denetçi ise, toplu yapı temsilciler kuruluna katılan yönetici ve temsilcilerin, yönettikleri ve temsil ettikleri bağımsız bölüm sayısının salt çoğunluğunun oyu ile
 atanır.
-Ortak giderlere katılma
 
 ### Bizim Yorumumuz
 

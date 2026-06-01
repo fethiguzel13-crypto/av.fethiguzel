@@ -15,9 +15,6 @@ seyahat etmek zorunda kalmışsa yol giderleri ile tanıklığa çağrıldığı
 beslenme giderleri de karşılanır.
 (2) Birinci fıkra hükmüne göre ödenmesi gereken ücret ve giderler, hiçbir vergi, resim
 ve harca tabi değildir.
-BEŞİNCİ BÖLÜM
-Bilirkişi İncelemesi
-Bilirkişiye başvurulmasını gerektiren hâller
 
 ### Bizim Yorumumuz
 

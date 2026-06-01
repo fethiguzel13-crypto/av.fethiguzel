@@ -55,7 +55,6 @@ Ancak, Maliye Bakanlığı tasdik raporlarının ibraz süresini iki aya kadar u
 (Ek: 25/5/1995-4108/5 md.) 233 Sayılı Kanun Hükmünde Kararname hükümlerine
 tabi olan Kamu İktisadi Teşebbüsleri ile bunlara ait müesseseler hakkında bu madde
 hükümleri uygulanmaz.
-Tevsiki zaruri olmıyan kayıtlar:
 
 ### Bizim Yorumumuz
 

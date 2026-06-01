@@ -16,9 +16,6 @@ tarafından genel şartları belirlenecek ya da bu şartlara uygunluğu teyit ed
 sigortası yaptırmakla yükümlüdürler. Değerleme, derecelendirme ve destek hizmeti kuruluşları,
 hizmet verdikleri bankalarca talep edilmesi ya da Kurulca gerekli görülmesi halinde sorumluluk
 sigortası yaptırırlar.
-DÖRDÜNCÜ BÖLÜM
-Finansal Raporlama
-Muhasebe ve raporlama sistemi
 
 ### Bizim Yorumumuz
 

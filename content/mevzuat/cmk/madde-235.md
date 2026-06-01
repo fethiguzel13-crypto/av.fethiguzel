@@ -16,7 +16,6 @@ geçirilmiş olan beyanlarında belirttikleri adresleri tebligata esas alınır.
 nedeniyle tebligat yapılamaması hâllerinde adresin araştırılması gerekmez.
 (4) Bu kimselerin beyanının alınması zorunlu görüldüğü hâllerde üçüncü fıkra
 uygulanmaz.
-Mağdur ile şikâyetçinin dinlenmesi
 
 ### Bizim Yorumumuz
 

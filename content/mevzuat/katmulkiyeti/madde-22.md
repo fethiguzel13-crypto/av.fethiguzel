@@ -19,7 +19,6 @@ yazılı istemiyle bu borç tutarı için, diğer kat malikleri lehine kanuni ip
 üncü maddesinin son fıkrası hükmü burada da uygulanır.
 (Değişik: 13/4/1983 - 2814/10 md.) Kat maliklerinin, gider borcunu ödemeyen kat
 maliki veya diğer sorumlulardan olan alacakları önceliklidir.
-VI - Müsaade mecburiyeti:
 
 ### Bizim Yorumumuz
 

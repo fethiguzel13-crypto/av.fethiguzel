@@ -48,7 +48,6 @@ yükümlülüklerine uymayan (…)62 çiftçiler, çeşitli kamu kurum ve kurulu
 verilen avans, kredi, sübvansiyon, prim gibi ayni ve nakdi destek unsurlarından
 yararlanamazlar. Bu hükmün uygulanmasına ilişkin usuller, ilgili kuruluşların görüşleri de
 alınarak Maliye Bakanlığınca belirlenir.
-İşletme büyüklüğü ölçüleri
 
 ### Akademik Yorum ve Analiz
 

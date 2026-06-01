@@ -20,7 +20,6 @@ ilgili olarak açılmış olan hukuk davalarına tatbik olunmaz.
 Dava durduğu müddetçe zamanaşımı ve hakkı düşüren müddetler işlemez.
 
 II. ALACAKLILARIN HAKLARI ÜZERİNE İFLASIN TESİRLERİ
-Müflisin borçlarının muacceliyet kesbetmesi:
 
 ### Akademik Yorum ve Analiz
 

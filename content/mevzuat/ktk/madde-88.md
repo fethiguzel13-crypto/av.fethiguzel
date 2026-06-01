@@ -22,7 +22,6 @@ bunlar arasındaki ilişki bakımından zarar, olayın bütün şartları değer
 paylaştırılmasını haklı göstermedikçe, işletenler ve araç işleticisinin bağlı olduğu teşebbüs
 sahipleri kusurları oranında zarara katlanırlar.
 İşletenler veya araç işleticisinin bağlı olduğu teşebbüs sahipleri arasında zararın
-tazmini:70
 
 ### Bizim Yorumumuz
 

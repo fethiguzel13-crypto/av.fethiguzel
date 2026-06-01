@@ -58,7 +58,6 @@ sağlanması için Sermaye Piyasası Kurulundan gerekli tedbirlerin alınmasın�
 gibi Birliğin her türlü işlem ve hesaplarını denetlemeye de yetkilidir. Birliğin yetkili
 organlarınca alınan kararlara karşı, kararın ilgiliye tebliğini izleyen on iş günü içinde Kurul
 nezdinde itiraz edilebilir. İtiraza ilişkin olarak Kurulca verilecek kararlar kesindir.
-Merkezî takas kuruluşları
 
 ### Bizim Yorumumuz
 

@@ -84,7 +84,6 @@ işlenen kasten yaralama suçu.
 (4) (Değişik: 2/7/2012-6352/96 md.) Sadece adlî para cezasını gerektiren suçlarda
 veya vücut dokunulmazlığına karşı kasten işlenenler hariç olmak üzere hapis cezasının üst
 sınırı iki yıldan fazla olmayan suçlarda tutuklama kararı verilemez.18
-Tutuklama kararı
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ Menkul ve gayrimenkullerle haklara, mükelleflerin müracaatları üzerine ve il
 Bakanlıkların mütalaası alınmak suretiyle, Maliye Bakanlığınca her işletme için işin
 mahiyetine göre ayrı ayrı belli edilen "Fevkalade ekonomik ve teknik amortisman nispetleri"
 uygulanır.
-Amortisman nispetlerinin itibar tarihi:
 
 ### Akademik Yorum ve Analiz
 

@@ -17,7 +17,6 @@ yanlarında bulunduranlar ile 24/5/1983 tarihli ve 2828 sayılı Sosyal Hizmetle
 Esirgeme Kurumu Kanununun yetkili kıldığı kuruluş yetkilileri görevlidirler.3
 (2) Türk vatandaşlığını sonradan kazanmış olanlar da vatandaşlığı kazandıkları tarihten
 itibaren nüfus kütüğüne geçirilir.
-Tescilde dayanak belgesi zorunluluğu
 
 ### Bizim Yorumumuz
 

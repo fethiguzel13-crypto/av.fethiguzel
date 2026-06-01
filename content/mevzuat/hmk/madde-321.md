@@ -16,7 +16,6 @@ beyanda bulunabilmeleri için ayrıca süre verilmez.
 açıklanması ile gerçekleşir. Ancak zorunlu hâllerde, hâkim bu durumun sebebini de tutanağa
 geçirmek suretiyle, sadece hüküm özetini tutanağa yazdırarak kararı tefhim edebilir. Bu
 durumda gerekçeli kararın en geç bir ay içinde yazılarak tebliğe çıkartılması gerekir.
-Uygulanacak hükümler
 
 ### Bizim Yorumumuz
 

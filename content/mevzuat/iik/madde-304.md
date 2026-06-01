@@ -20,7 +20,6 @@ Konkordato hakkında yapılan yargılamada kesin mühlet içinde bir karar
 verilemeyeceği anlaşılırsa; mahkeme, gerekli görürse komiserden gerekçeli bir rapor da
 alarak, karar verilinceye kadar mühlet hükümlerinin devamına karar verebilir. Bu süre altı
 aydan fazla olamaz.
-Konkordatonun tasdiki şartları:
 
 ### Bizim Yorumumuz
 

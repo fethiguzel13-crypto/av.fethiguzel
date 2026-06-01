@@ -40,7 +40,6 @@ olarak” ibaresi “veya” şeklinde, “plân” ibaresi “program” şekli
 
 De dâhil olmak üzere, uygun göreceği her türlü tedbirin alınmasını ve ivedilikle
 uygulanmasını banka yönetim kurulundan ister.
-Kısıtlayıcı önlemler
 
 ### Bizim Yorumumuz
 

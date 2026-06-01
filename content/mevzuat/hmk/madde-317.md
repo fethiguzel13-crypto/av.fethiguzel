@@ -19,7 +19,6 @@ taraflara derhâl bildirilir.36
 (3) Taraflar cevaba cevap ve ikinci cevap dilekçesi veremezler.
 (4) Dava ve cevap dilekçeleri yönetmelikte belirlenecek formun doldurulması suretiyle
 de verilebilir.
-Delillerin ikamesi
 
 ### Bizim Yorumumuz
 

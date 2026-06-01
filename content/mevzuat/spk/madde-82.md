@@ -18,7 +18,6 @@ Kurulun, bu Kanun kapsamındaki tedbir yetkileri saklıdır.
 Bankacılık Düzenleme ve Denetleme Kurumunun görüşü alınır. Bankacılık mevzuatı uyarınca
 mevduat veya katılım fonu olarak kabul edilen nakit ödeme yükümlülüklerine, bu Kanunun
 yatırımcıların tazminine ilişkin hükümleri uygulanmaz.
-Yatırımcı Tazmin Merkezi
 
 ### Bizim Yorumumuz
 

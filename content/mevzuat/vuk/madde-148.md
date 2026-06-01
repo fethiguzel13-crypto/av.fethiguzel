@@ -17,7 +17,6 @@ tekit ve cevap vermeleri için kendilerine münasip bir mühlet tayin olunur. Bi
 üzere ilgililer vergi dairesine zorla getirilemez.
 Memleket dışı imtiyazlarından faydalanan yabancı Devlet memurları bilgi verme
 mecburiyetine tabi olamazlar.
-Devamlı bilgi verme:
 
 ### Bizim Yorumumuz
 

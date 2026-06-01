@@ -17,7 +17,6 @@ kimlik numarası verilebilir.
 (2) Konsolosluklardan ikamet ve çalışma izni alarak Türkiye’ye gelen yabancılar, giriş
 tarihinden itibaren en geç yirmi iş günü içinde adres kayıt sistemine kayıtlarını yaptırmak
 zorundadırlar.
-Çalışma izninin ikamet izni sayılması
 
 ### Bizim Yorumumuz
 

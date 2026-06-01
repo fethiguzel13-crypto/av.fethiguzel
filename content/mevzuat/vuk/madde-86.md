@@ -25,8 +25,6 @@ Bu fıkrada yeralan "361 inci madde" ibaresi, 11/8/1999 tarih ve 4444 sayılı K
 "mükerrer 355 inci madde" olarak değiştirilmiştir.
 20
 
-Komisyonlara seçilecek üyelerde aranacak vasıflar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

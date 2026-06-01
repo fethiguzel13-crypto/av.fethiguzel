@@ -27,7 +27,6 @@ c) Kurulun bu Kanun kapsamındaki fiyat istikrarını sağlayıcı işlemlere ve
 yapıcılığına ilişkin düzenlemelerine uygun olarak icra edilmeleri kaydıyla, münhasıran bu
 araçların piyasa fiyatının önceden belirlenmiş bir süre için desteklenmesi amacıyla sermaye
 piyasası araçlarının alım veya satımının yapılması yahut emir verilmesi veya emir iptal edilmesi
-Usulsüz halka arz ve izinsiz sermaye piyasası faaliyeti
 
 ### Bizim Yorumumuz
 

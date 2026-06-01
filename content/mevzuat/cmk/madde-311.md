@@ -40,7 +40,6 @@ itibaren bir yıl içinde istenebilir.146
 (2) Birinci fıkranın (f) bendi hükümleri, 4.2.2003 tarihinde Avrupa İnsan Hakları
 Mahkemesinin kesinleşmiş kararları ile, 4.2.2003 tarihinden sonra Avrupa İnsan Hakları
 Mahkemesine yapılan başvurular üzerine verilecek kararlar hakkında uygulanır.
-İnfazın geri bırakılması veya durdurulması
 
 ### Bizim Yorumumuz
 

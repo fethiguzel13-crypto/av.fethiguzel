@@ -22,7 +22,6 @@ Takdir kararlarında aşağıda yazılı malümat bulunur:
 7. Takdir edilen matrah;
 
 8. Takdirin müstenidatı ve takdir hakkında izahat.
-Takdir kararlarının tevdii:
 
 ### Bizim Yorumumuz
 

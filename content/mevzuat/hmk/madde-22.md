@@ -16,7 +16,6 @@ bölge adliye mahkemelerine, bölge adliye mahkemeleri için Yargıtaya başvuru
 (2) İki mahkemenin aynı dava hakkında göreve veya yetkiye ilişkin olarak verdikleri
 kararlar kanun yoluna başvurulmaksızın kesinleştiği takdirde, görevli veya yetkili mahkeme,
 ilgisine göre bölge adliye mahkemesince veya Yargıtayca belirlenir.
-İnceleme usulü ve sonucu
 
 ### Bizim Yorumumuz
 

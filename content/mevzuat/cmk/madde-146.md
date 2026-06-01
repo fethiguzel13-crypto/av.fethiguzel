@@ -26,9 +26,6 @@ veya ifade almanın sonuna kadar devam eder.
 muhtarı ile kolluk görevlisinin birlikte imzalayacakları bir tutanakla saptanır.
 (7) (Ek: 6/12/2006 – 5560/20 md.) Çağrıya rağmen gelmeyen tanık, bilirkişi, mağdur
 ve şikâyetçi ile ilgili olarak da zorla getirme kararı verilebilir.
-İKİNCİ BÖLÜM
-İfade ve Sorgu Usulü
-İfade ve sorgunun tarzı
 
 ### Bizim Yorumumuz
 

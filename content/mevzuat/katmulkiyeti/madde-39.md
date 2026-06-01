@@ -14,8 +14,6 @@ tarihe kadar elde edilen gelirlerin ve yapılmış olan giderlerin hesabına ver
 Kat maliklerinin yarısı isterse, bunların arsa payları ne olursa, olsun yönetim planında
 yazılı zamanlar dışında da hesabın gösterilmesi yöneticiden istenebilir.
 
-IV - Hakları:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

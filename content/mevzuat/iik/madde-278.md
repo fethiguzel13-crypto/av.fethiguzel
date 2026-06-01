@@ -24,8 +24,6 @@ c) Uygun bir karşılığın sağlandığı ispatlanmadıkça, borçlunun kendis
 bir kişi yararına ömür boyu gelir sözleşmesi ya da intifa hakkı tesis ettiği sözleşmeler yahut
 ölünceye kadar bakma sözleşmeleri.
 
-Acizden dolayı butlan:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

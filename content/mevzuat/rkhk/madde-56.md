@@ -14,7 +14,6 @@ birlikleri kararı geçersizdir. Bu anlaşmalardan ve kararlardan doğan edimler
 Daha önce yerine getirilmiş edimlerin geçersizliği nedeniyle geri istenmesi halinde tarafların
 iade borcu Borçlar Kanununun 63 ve 64 üncü maddelerine tabidir.
 Borçlar Kanununun 65 inci maddesi hükmü bu Kanundan doğan ihtilaflara uygulanmaz.
-Tazminat Hakkı
 
 ### Bizim Yorumumuz
 

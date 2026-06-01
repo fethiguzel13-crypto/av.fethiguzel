@@ -14,7 +14,6 @@ hükme katılmış olan hâkimlerden başkanın seçeceği bir üye tarafından 
 (2) Gerekçeli karar, tefhim edilen hüküm sonucuna aykırı olamaz.
 (3) Hükümde gerekçesi ile birlikte karşı oya da yer verilir.
 (4) Hüküm, hükmü veren hâkim veya hâkimler ile zabıt kâtibi tarafından imzalanır.
-Hükmün imza edilememesi
 
 ### Bizim Yorumumuz
 

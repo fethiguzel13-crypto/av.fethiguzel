@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 69 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Müfettiş ve Müfettiş Yardımcısı
 
 ### Bizim Yorumumuz
 

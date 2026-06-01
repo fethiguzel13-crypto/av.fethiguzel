@@ -106,7 +106,6 @@ etmiş sayılacakları.
 İhalenin kesinleşmesi üzerine taşınırın ihale alıcısına teslimi veya sicile kayıtlı malın
 ihale alıcısı adına tescili, damga vergisi ve katma değer vergisinin yatırılmasından sonra
 gerçekleştirilir.
-İhalenin yapılması:49
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ Eklentiler kat mülkiyeti kütüğünün (Beyanlar) hanesine kaydedilir ve bunla
 Bağımsız bölüm üzerinde kat mülkiyetiyle ve diğer kat maliklerinin haklariyle bağdaşması mümkün olmayan irtifaklar kurulamaz.
 Bağımsız bölümlerin başkasına devri, kayıtlanması veya kiralanması halinde, eklentiler ve ortak yerler de kendiliğinden devredilmiş, kayıtlanmış vaya kiralanmış olur.
 C) Ortaklığın (Şüyuun) giderilmesi ve öncelikle satınalma (Şüf'a) hakkı:
-I - Ortaklığın giderilmesi:
 
 ### Bizim Yorumumuz
 

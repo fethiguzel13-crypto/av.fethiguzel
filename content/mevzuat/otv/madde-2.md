@@ -38,7 +38,6 @@ a) Vergiye tâbi malların, vergiye tâbi olan malların imali dışında her ne
 olsun kullanılması, sarfı, işletmeden çekilmesi veya işletme personeline ücret, prim, ikramiye,
 hediye, teberru gibi namlarla verilmesi,
 b) Mülkiyeti muhafaza kaydıyla yapılan satışlarda zilyetliğin devri.
-Vergiyi doğuran olay
 
 ### Bizim Yorumumuz
 

@@ -27,7 +27,6 @@ a) Henüz soruşturma başlamadan önce ödediği takdirde, hakkında cezaya hü
 b) Soruşturma evresinde ödediği takdirde, verilecek ceza yarısı oranında indirilir.
 c) Kovuşturma evresinde hüküm verilinceye kadar ödediği takdirde, verilecek ceza
 üçte biri oranında indirilir.
-Bilgi suistimali ve piyasa dolandırıcılığı sayılmayan hâller
 
 ### Bizim Yorumumuz
 

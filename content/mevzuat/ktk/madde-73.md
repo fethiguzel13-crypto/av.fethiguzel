@@ -25,7 +25,6 @@ hükümlerine uymayanlara 1.000 Türk lirası idari para cezası uygulanır.
 ncı maddesinde sayılan görevliler tarafından yapılır. Bu madde kapsamında geri alınan sürücü
 belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para cezalarının
 tamamının tahsil edilmiş olması şarttır.
-Yayalara ilk geçiş hakkı verilmesi:
 
 ### Bizim Yorumumuz
 

@@ -27,7 +27,6 @@ için zorunlu belgeler’’ iken ‘’ Araç muayene raporu’’ şeklinde de
 25
 
 menedilir.26
-Araçlara ait trafik ayırım işaretleri ve diğer işaretler:
 
 ### Bizim Yorumumuz
 

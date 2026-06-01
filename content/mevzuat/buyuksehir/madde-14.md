@@ -31,7 +31,6 @@ kararlar, kararın gelişinden itibaren üç ay içinde büyükşehir belediye m
 imar plânına uygunluğu yönünden incelenerek aynen veya değiştirilerek kabul edildikten
 sonra büyükşehir belediye başkanına gönderilir. (Ek cümle: 6/3/2008-5747/3 md.) Üç ay
 içinde büyükşehir belediye meclisinde görüşülmeyen kararlar onaylanmış sayılır.
-İhtisas komisyonları
 
 ### Bizim Yorumumuz
 

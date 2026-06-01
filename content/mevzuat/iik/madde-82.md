@@ -57,7 +57,6 @@ bentlerinde sayılan malların kıymetinin fazla olması durumunda, bedelinden h
 bir kısmı, ihtiyacını karşılayabilmesi amacıyla borçluya bırakılmak üzere haczedilerek satılır.
 (Ek fıkra: 2/7/2012-6352/16 md.) İcra memuru, haczi talep edilen mal veya hakların
 haczinin caiz olup olmadığını değerlendirir ve talebin kabulüne veya reddine karar verir.
-Kısmen haczi caiz olan şeyler:
 
 ### Akademik Yorum ve Analiz
 

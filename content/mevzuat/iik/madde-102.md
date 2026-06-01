@@ -22,7 +22,6 @@ Evvelce ihtiyaten haczedilen şeylere icra haczi vazedildiği surette tutanağa 
 haciz sahibinin dahi iştirak hakkı işaret olunur.
 
 Haczi kabil mallar kafi gelmezse veya hiç bulunmazsa bu hal tutanağa kaydolunur.
-Davet:
 
 ### Akademik Yorum ve Analiz
 

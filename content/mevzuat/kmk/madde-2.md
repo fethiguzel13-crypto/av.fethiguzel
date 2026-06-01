@@ -181,8 +181,6 @@ yapanlar ile ticari amaçla” ibaresi “Ticari amaçla” şeklinde değiştir
 gelmek üzere yirmibirinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 6
 
-Nitelikli haller9
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

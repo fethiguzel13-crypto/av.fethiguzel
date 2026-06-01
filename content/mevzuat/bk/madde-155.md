@@ -14,7 +14,6 @@ ile denetim görevlilerine ve mahkemelere verdikleri veya yayımladıkları belg
 aykırı beyanlardan dolayı, bunları ve bunların düzenlenmesine esas teşkil eden her türlü
 belgeleri imza edenler, bir yıldan üç yıla kadar hapis ve binbeşyüz günden az olmamak üzere
 adlî para cezası ile cezalandırılır.
-İşlemlerin kayıt dışı bırakılması ve gerçeğe aykırı muhasebeleştirme
 
 ### Bizim Yorumumuz
 

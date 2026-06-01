@@ -15,7 +15,6 @@ nafakalar, emeklilik aylıkları, sigorta ve emeklilik sandıkları tarafından 
 kısmen haczolunabilir. Ancak haczolunacak miktar bunların üçte birinden çok dörtte birinden
 az olamaz.
 Asgari ücreti aşmayan aylık gelirlerin onda birinden fazlası haczolunamaz.
-Yetişmemiş mahsullerin haczi:
 
 ### Bizim Yorumumuz
 

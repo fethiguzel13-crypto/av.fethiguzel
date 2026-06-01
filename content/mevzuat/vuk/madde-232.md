@@ -24,7 +24,6 @@ olan çiftçilerden satın aldıkları emtia veya onlara yaptırdıkları iş be
 TL) lirayı geçmesi veya bedeli 50.000.000 (12.000 TL) liradan az olsa dahi istemleri halinde
 emtiayı satanın veya işi yapanın fatura vermesi mecburidir.
 (Mülga dördüncü fıkra: 4/12/1985-3239/136 md.)
-Perakende satış vesikaları:
 
 ### Bizim Yorumumuz
 

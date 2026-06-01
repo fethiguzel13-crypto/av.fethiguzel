@@ -16,7 +16,6 @@ geç katıldığını veya yanında katıldığı tarafın iddia ve savunma imk�
 engellediğini ya da kendisince bilinmeyen iddia ve savunma imkânlarının, tarafın ağır kusuru
 sebebiyle kullanılamadığını belirterek, yanında katıldığı tarafın yargılamayı hatalı yürüttüğünü
 ileri sürebilir.
-Cumhuriyet savcısının davada yer alması
 
 ### Bizim Yorumumuz
 

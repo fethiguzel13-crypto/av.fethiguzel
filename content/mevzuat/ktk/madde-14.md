@@ -23,8 +23,6 @@ karşılıkları ve masrafları sorumlulara ödetilir.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayanlara 7 200 000 lira
 para cezası verilir.
 
-Trafik işaretleri:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

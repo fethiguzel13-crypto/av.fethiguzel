@@ -23,7 +23,6 @@ yerleşim yeri veya mümessili bulunan borçlu dinlenmek için kısa bir müddet
 çağırılır.
 (Ek: 9/11/1988-3494/36 md.) Bu Kanunun 178 inci maddesinin ikinci fikrası burada
 da uygulanır.
-B – Borçlunun müracaatiyle:
 
 ### Akademik Yorum ve Analiz
 

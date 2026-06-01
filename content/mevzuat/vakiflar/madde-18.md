@@ -20,7 +20,6 @@ Bu Kanun hükümleri gereğince taviz bedelinin tamamı vakfı adına ödenmedik
 taşınmaz üzerindeki temliki tasarruflar tapu dairelerince tescil olunmaz.
 Vakıf şerhleri ile ilgili olarak, diğer kanunlarda yer alan zamanaşımı ve hak düşürücü
 sürelere ilişkin hükümler uygulanmaz.
-Taviz bedelinin tahsil şekli
 
 ### Bizim Yorumumuz
 

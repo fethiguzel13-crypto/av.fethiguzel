@@ -19,7 +19,6 @@ alanına giren konularda uluslararası kuruluşlarla iş birliği yapmak, toplan
 ç) Yıllık faaliyet raporunu Cumhurbaşkanlığına, Türkiye Büyük Millet Meclisi İnsan
 Haklarını İnceleme Komisyonuna (…)3 sunmak.
 d) Kanunlarla verilen diğer görevleri yerine getirmek.
-Kişisel Verileri Koruma Kurulu
 
 ### Bizim Yorumumuz
 

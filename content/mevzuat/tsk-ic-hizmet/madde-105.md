@@ -20,7 +20,6 @@ Varlıklarını Koruma Kanununa göre askerî müzeler kurulur.
 Askerî müzelerden elde edilen gelirler, bu yerlerin yenilenmesine ve yeniden inşasına
 veya idamesi ile modern hâle getirilmesine ve kitaplıkların tesis ve zenginleştirilmesine sarf
 olunur.
-IV - Muafiyet ve istisnalar21
 
 ### Bizim Yorumumuz
 

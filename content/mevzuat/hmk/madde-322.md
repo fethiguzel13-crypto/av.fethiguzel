@@ -16,9 +16,6 @@ satış için bir memur görevlendirir. Taşınır ve taşınmaz malların satı
 hükümlerine göre yapılır.
 YEDİNCİ KISIM
 Yargılama Giderleri ve Adli Yardım
-BİRİNCİ BÖLÜM
-Yargılama Giderleri
-Yargılama giderlerinin kapsamı
 
 ### Bizim Yorumumuz
 

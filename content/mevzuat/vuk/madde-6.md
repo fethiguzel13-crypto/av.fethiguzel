@@ -34,9 +34,6 @@ zorundadırlar.” ibaresi “levhayı almak zorundadırlar.” şeklinde deği�
 başkanları, köy muhtarları ve kamu müesseseleri vergi kanunlarının uygulanmasında
 uygulama ile ilgili memurlara ve komisyonlara ellerindeki bütün imkanlarla kolaylık
 göstermeye ve yardımda bulunmaya mecburdurlar.
-İKİNCİ BÖLÜM
-Vergi Sorumluluğu
-Mükellef ve vergi sorumlusu:
 
 ### Bizim Yorumumuz
 

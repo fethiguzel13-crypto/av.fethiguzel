@@ -18,9 +18,6 @@ sürücü belgesi kişiye iade edilir.
 Bu maddenin uygulanmasına ilişkin diğer usul ve esaslar yönetmelikle belirlenir.
 ALTINCI KISIM
 Trafik Kuralları
-BİRİNCİ BÖLÜM
-Genel Kurallar
-Karayollarında trafiğin akışı:
 
 ### Bizim Yorumumuz
 

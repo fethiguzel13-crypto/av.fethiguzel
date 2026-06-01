@@ -24,7 +24,6 @@ ise teminat aranmaz. Devlet ve adli yardıma nail kimseler de teminat göstermek
 mecburiyetinde değillerdir.
 Bu maddeye göre alınan muhafaza tedbirleri borçlu aleyhindeki icra takiplerine tesir
 etmez.
-Masrafların peşin verilmesi:
 
 ### Akademik Yorum ve Analiz
 

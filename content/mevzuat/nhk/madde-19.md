@@ -27,7 +27,6 @@ fıkrasında yer alan “özürlü” ibareleri “engelli” şeklinde değişt
 (3) Bu kişiler hakkında düzenlenen tutanaklarda doğum tarihi, adı ve soyadı ile ana ve
 baba adı belirtilmemiş ise; nüfus müdürlüğünce ad ve soyad ile ana ve baba adı verilir. Doğum
 tarihi belirlenmemişse resmî sağlık kuruluşunca tespit edilmesi sağlanır.
-Türk vatandaşlığını kazananlar
 
 ### Bizim Yorumumuz
 

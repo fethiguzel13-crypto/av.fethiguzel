@@ -13,7 +13,6 @@ Madde 242 – (1) Katılan, Cumhuriyet savcısına bağlı olmaksızın kanun yo
 başvurabilir.
 (2) Karar, katılanın başvurusu üzerine bozulursa, Cumhuriyet savcısı işi yeniden takip
 eder.
-Katılmanın hükümsüz kalması
 
 ### Bizim Yorumumuz
 

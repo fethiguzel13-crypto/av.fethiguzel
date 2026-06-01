@@ -28,7 +28,6 @@ tırnak gibi örnekler alınamaz.
 (6) Bu madde gereğince alınacak hâkim veya mahkeme kararlarına itiraz edilebilir.
 (7) Özel kanunlardaki alkol muayenesine ve kan örneği alınmasına ilişkin hükümler
 saklıdır.
-Diğer kişilerin beden muayenesi ve vücuttan örnek alınması8
 
 ### Bizim Yorumumuz
 

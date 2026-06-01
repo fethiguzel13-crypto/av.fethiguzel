@@ -33,7 +33,6 @@ Faaliyet izni kaldırılan kredi kuruluşları bu Kanunda yer alan hükümlere g
 kalkınma ve yatırım bankaları ise genel hükümlere göre tasfiye edilir.
 Bu madde kapsamında alınan Kurul kararları Resmî Gazete’de yayımlanır. Yayım
 tarihi ilgililer bakımından tebliğ tarihi olarak kabul edilir.
-Sistemik riske karşı alınacak önlemler
 
 ### Bizim Yorumumuz
 

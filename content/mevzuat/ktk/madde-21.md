@@ -44,7 +44,6 @@ idari para cezası verilir ve bu araçlar trafikten menedilir. Ayrıca mülki am
 konulur ve aracın mülkiyeti kamuya geçer.24
 (Ek:18/10/2018-7148/15 md.) Araçların hurdaya çıkarılmasına dair usul ve esaslar
 Yönetmelikte belirlenir.
-Belge ve plaka vermeye yetkili kuruluşlar:
 
 ### Bizim Yorumumuz
 

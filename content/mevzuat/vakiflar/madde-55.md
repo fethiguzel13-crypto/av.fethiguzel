@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 55 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Kültür ve Tescil Daire Başkanlığı
 
 ### Bizim Yorumumuz
 

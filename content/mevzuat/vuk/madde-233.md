@@ -40,7 +40,6 @@ müşteriye verilir. Makineli kasa kullanılıp da müşteriye fiş (makineli ka
 belirtilen malumatı ihtiva eden fişi) verilmemesi halinde, perakende satış fişi tanzimi ve
 müşteriye verilmesi mecburidir.
 (Dördüncü fıkra mülga: 4/12/1985-3239/136 md.)
-Gider pusulası:
 
 ### Bizim Yorumumuz
 

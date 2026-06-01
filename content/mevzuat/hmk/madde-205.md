@@ -16,8 +16,6 @@ hükmündedir.
 (3) Hâkim, mahkemeye delil olarak sunulan elektronik imzalı belgenin, güvenli
 elektronik imza ile oluşturulmuş olup olmadığını resen inceler.
 
-İmza atamayanların durumu21
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

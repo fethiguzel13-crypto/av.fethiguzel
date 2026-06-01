@@ -46,7 +46,6 @@ kimlik numarası kullanılır.
 ortamda tutulmasına ilişkin usul ve esaslar Bakanlıkça belirlenir.
 (10) Kamu kurum ve kuruluşları, bu madde hükümlerinin uygulanması amacıyla her
 türlü tedbiri alır ve gerekli düzenlemeleri yapar.
-Türk vatandaşlığını kaybettirme7
 
 ### Bizim Yorumumuz
 

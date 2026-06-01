@@ -18,9 +18,6 @@ basması gibi afetler;
 4. Sahibinin iradesi dışındaki sebepler dolayısiyle defter ve vesikalarının elinden
 çıkmış bulunması;
 gibi hallerdir.
-ÜÇÜNCÜ BÖLÜM
-Süreler
-Kanuni ve idari süreler:
 
 ### Bizim Yorumumuz
 

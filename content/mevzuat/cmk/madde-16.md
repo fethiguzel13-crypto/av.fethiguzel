@@ -19,7 +19,6 @@ uyuşma üzerine, bu davaların hepsi veya bir kısmı bu mahkemelerin birinde b
 mahkeme birleştirmeye gerek olup olmadığına ve gerek varsa hangi mahkemede birleştirileceğine
 karar verir.
 (4) Birleştirilmiş olan davaların ayrılması da bu suretle olur.
-Yetkide olumlu veya olumsuz uyuşmazlık
 
 ### Bizim Yorumumuz
 

@@ -85,7 +85,6 @@ mahkeme tarafından istenmesi hâlinde, bu maddede belirtilen amaç için kullan
 (14) (Değişik:2/3/2024-7499/15 md.) Bu maddenin hükmün açıklanmasının geri
 bırakılmasına ilişkin hükümleri, Anayasanın 174 üncü maddesinde koruma altına alınan
 inkılâp kanunlarında yer alan suçlarla ilgili olarak uygulanmaz.
-Hükmün gerekçesi ve hüküm fıkrasının içereceği hususlar
 
 ### Bizim Yorumumuz
 

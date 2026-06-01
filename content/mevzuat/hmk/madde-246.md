@@ -14,7 +14,6 @@ belirlenecek süre içinde cevaplarını yazılı olarak bildirmesi için tanı�
 gönderilmesine karar verebilir. Bu şekilde işlem yapılması, tanığın vereceği cevabın hükme
 yeterli olup olmadığı hususunu hâkimin takdir etmesine engel olamaz. Hâkim, verilen yazılı
 cevapların yetersiz olması hâlinde, tanığı dinlemek üzere davet edebilir.
-Tanıklıktan çekinme hakkı
 
 ### Bizim Yorumumuz
 

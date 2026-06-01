@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 4 – Vakıflar, özel hukuk tüzel kişiliğine sahiptir.
-Yeni vakıfların kuruluşu, mal varlığı, şube ve temsilcilikleri
 
 ### Bizim Yorumumuz
 

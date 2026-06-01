@@ -18,8 +18,6 @@ bulunan, oraya dönemeyen veya söz konusu korku nedeniyle dönmek istemeyen vat
 kişiye statü belirleme işlemleri sonrasında şartlı mülteci statüsü verilir. Üçüncü ülkeye
 yerleştirilinceye kadar, şartlı mültecinin Türkiye’de kalmasına izin verilir.
 
-İkincil koruma
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

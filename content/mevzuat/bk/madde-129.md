@@ -27,7 +27,6 @@ uyarınca görevlendirilen, atanan veya aday gösterilerek seçilen” şeklinde
 Fonun giderleri Fon Kurulu kararıyla yürürlüğe giren, stratejik plânları ve performans
 hedefleri ile kurumsal, işlevsel ve ekonomik sınıflandırma sistemine göre hazırlanan yıllık
 bütçeye göre yapılır.
-Fonun gelirleri
 
 ### Bizim Yorumumuz
 

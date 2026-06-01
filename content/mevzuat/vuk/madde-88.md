@@ -16,7 +16,6 @@ başkanları şehir ve kasabalarda idare heyeti, köylerde ihtiyar meclisi huzur
 tabi kalacağıma; hiçbir sebep ve tesir altında adaletten ve doğruluktan ayrılmıyacağıma, gerek
 Devlet gerek mükellef haklarını bir tutacağıma, takdir ve tahminlerde her hangi bir tarafa
 temayül suretiyle görevimi kötüye kullanmıyacağıma namusum üzerine yemin ederim."
-Nisap:
 
 ### Bizim Yorumumuz
 

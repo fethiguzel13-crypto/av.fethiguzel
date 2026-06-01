@@ -16,7 +16,6 @@ soruşturma açılmasına ya da soruşturma açılmasına gerek olup olmadığı
 uzmanlardan bir ya da birkaçını raportör olarak görevlendirir.
 Önaraştırma yapmakla görevlendirilen raportör 30 gün içinde elde ettiği bilgileri, her
 türlü delilleri ve konu hakkındaki görüşlerini Kurula yazılı olarak bildirir.
-Önaraştırmanın Sonuçlanması
 
 ### Bizim Yorumumuz
 

@@ -23,7 +23,6 @@ izni süreleri sona ermiş olsa dahi haklarında karar verilinceye kadar bu belg
 ikamet edebilir.
 (3) Uzatılan ikamet izinleri, yasal izin sürelerinin bitim tarihinden itibaren başlatılır.
 (4) Uzatma başvuruları, valiliklerce sonuçlandırılır.
-Türkiye içinden yapılan ikamet izni talebinin reddi, iptali veya uzatılmaması
 
 ### Bizim Yorumumuz
 

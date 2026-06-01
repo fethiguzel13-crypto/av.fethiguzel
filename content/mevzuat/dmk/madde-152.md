@@ -586,7 +586,6 @@ maddesiyle aynen kabul edilerek kanunlaşmıştır.
 ödeyebilirler.
 Bu maddenin ikinci bölümünde yer alan tazminatlar damga vergisi hariç herhangi bir
 vergiye tabi değildir.
-Her sınıfın son aylık derecesi ve en çok aylık miktarı:
 
 ### Bizim Yorumumuz
 

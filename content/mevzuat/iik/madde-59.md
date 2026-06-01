@@ -15,7 +15,6 @@ masrafını ve ayrıca takip talebinde bulunurken borçlunun 62 nci maddeye gör
 itirazın kendisine tebliğ masrafını da avans olarak peşinen öder.
 Alacaklı ilk ödenen paradan masraflarını alabilir.
 VI. ÖDEME EMRİ VE İTİRAZ
-1 – Ödeme emri ve muhtevası:
 
 ### Bizim Yorumumuz
 

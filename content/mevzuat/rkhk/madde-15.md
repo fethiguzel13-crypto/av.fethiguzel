@@ -25,10 +25,6 @@ vasıtaların suretlerini vermekle yükümlüdür. Yerinde incelemenin engellenm
 engellenme olasılığının bulunması durumunda sulh ceza hakimi kararı ile yerinde inceleme
 yapılır.
 
-ÜÇÜNCÜ BÖLÜM
-İdari Para Cezaları
-İdarî Para Cezası34
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

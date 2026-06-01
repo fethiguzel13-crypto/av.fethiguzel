@@ -34,7 +34,6 @@ denetim organında görev alamazlar.3
 Vakıf yönetiminde yer alan kişiler ile vakıf çalışanları kusurlu fiilleri nedeniyle vakfa
 verdikleri zararlardan sorumludurlar.
 Vakıf yöneticileri mahkeme kararı olmaksızın görevlerinden uzaklaştırılamazlar.
-İdarî para cezası
 
 ### Bizim Yorumumuz
 

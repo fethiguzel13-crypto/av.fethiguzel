@@ -23,7 +23,6 @@ Esnaf vakıfları, mülhak vakıfların tabi olduğu hükümlere tabidir. Bu vak
 seçtiği yönetim kurulu tarafından yönetilir.
 Yeni vakıfların yönetim organı vakıf senedine göre oluşturulur ve bu vakıfların
 yönetim organlarında görev alanların çoğunluğunun, Türkiye’de yerleşik bulunması gerekir.
-Genel Müdürlükçe yönetilecek ve temsil edilecek vakıflar
 
 ### Bizim Yorumumuz
 

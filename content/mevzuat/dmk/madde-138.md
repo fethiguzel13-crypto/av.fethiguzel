@@ -17,7 +17,6 @@ c) İllerde valiler;
 şarttır.)
 Valiler ve kaymakamlar tarafından alınan görevden uzaklaştırma tedbiri, memurun
 kurumuna derhal bildirilir.
-Görevden uzaklaştıran amirin sorumluluğu:
 
 ### Bizim Yorumumuz
 

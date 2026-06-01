@@ -16,9 +16,6 @@ yaptığı mahkeme tarafından karara bağlanır. Bu konuda verilecek kararlar k
 gereken karar, görev yaptığı mahkeme tarafından verilir.
 (3) Zabıt kâtibinin aynı işte hâkim ile birlikte reddi veya çekinmesinin istenmesi hâlinde,
 hâkim hakkında ret veya çekinmeyi inceleyecek olan merci, her ikisi hakkında karar verir.
-İKİNCİ AYIRIM
-Hâkimin Hukuki Sorumluluğu
-Devletin sorumluluğu ve rücu
 
 ### Bizim Yorumumuz
 

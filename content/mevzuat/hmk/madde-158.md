@@ -14,7 +14,6 @@ taraflara veya fer’î müdahile verilir. Bu örneklere mahkemenin mührü bas�
 olduğu yazı işleri müdürü tarafından imza olunarak onaylanır.
 (2) Tutanağın eki niteliğinde bulunan ve gizlilik kararı kapsamında kalan belgelerin
 örneği ancak hâkimin izni ile verilebilir.
-Dosyaya belge konulması ve dosyanın başka yere gönderilmesi
 
 ### Bizim Yorumumuz
 

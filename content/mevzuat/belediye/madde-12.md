@@ -42,7 +42,6 @@ tanınan hak, sorumluluk ve imtiyazlardan yararlanan mahalleye dönüştürülen
 geçerlidir. Bir belediyeye katılarak mahalleye dönüşen köy, köy bağlısı ve belediyelerce
 kullanılan mera, yaylak, kışlak gibi yerlerden bu mahalle sakinleri ve varsa diğer hak sahipleri
 25/2/1998 tarihli ve 4342 sayılı Mera Kanunu hükümleri çerçevesinde yararlanmaya devam eder.
-Hemşehri hukuku
 
 ### Bizim Yorumumuz
 

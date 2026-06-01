@@ -176,7 +176,6 @@ teknik, yönetsel amaçlar ve kullanım amacı nedeniyle zorunlu olduğuna karar
 değişiklikler müellifinin izni alınmaksızın yapılabilir. Bu durumda ilk müellif tarafından talep
 edilebilecek telif ücreti; ilgili meslek odasınca belirlenen mimari proje asgari hizmet bedelinin,
 tamamlanan yapılarda yüzde yirmisini, inşaatı süren yapılarda yüzde on beşini geçemez.
-İmar planlarında Bakanlığın yetkisi:
 
 ### Akademik Yorum ve Analiz
 

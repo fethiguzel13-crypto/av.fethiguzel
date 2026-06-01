@@ -20,7 +20,6 @@ eden hileli işlemlerde bulunursa;
 Bu suretle ihtiyati haciz konulursa borç yalnız borçlu hakkında muacceliyet kesbeder.
 (Ek fıkra: 29/6/1956-6763/42 md.; Mülga dördüncü fıkra: 14/1/2011-6103/41 md.)
 (Ek fıkra: 29/6/1956-6763/42 md.; Mülga beşinci fıkra: 14/1/2011-6103/41 md.)
-İhtiyati haciz kararı:
 
 ### Bizim Yorumumuz
 

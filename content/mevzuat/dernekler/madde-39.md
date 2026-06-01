@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 39- Bu Kanun yayımı tarihinde yürürlüğe girer.
-Yürütme
 
 ### Bizim Yorumumuz
 

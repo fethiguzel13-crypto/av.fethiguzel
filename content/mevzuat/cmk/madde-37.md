@@ -19,7 +19,6 @@ olarak değiştirilmiştir.
 (2) Uluslararası andlaşmalar, yazılı belgelerin doğrudan doğruya postayla veya diğer
 iletişim araçlarıyla gönderilmesini kabul ettiğinde; yurt dışına yapılan tebligat, iadeli
 taahhütlü posta veya diğer iletişim araçları ile gerçekleştirilir.
-Cumhuriyet Başsavcılığına yapılan tebligat
 
 ### Bizim Yorumumuz
 

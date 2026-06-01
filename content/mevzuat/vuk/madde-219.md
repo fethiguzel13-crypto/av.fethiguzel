@@ -25,9 +25,6 @@ muamelelerin bunlara işlenmesi, deftere işlenmesi hükmündedir. Ancak bu kay�
 muamelelerin esas defterlere 45 günden daha geç intikal ettirilmesine cevap vermez.
 c) Günlük kasa, günlük, parakende satış ve hasılat defterleri ile serbest meslek kazanç
 defterine muameleler günü gününe kaydedilir.
-ONUNCU BÖLÜM
-Defterlerin Tasdıki
-Tasdike tabi defterler:
 
 ### Bizim Yorumumuz
 

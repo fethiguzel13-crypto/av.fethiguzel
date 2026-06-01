@@ -19,9 +19,6 @@ gösterilir.
 sermayeyi) teşkil eder.
 Öz sermaye pasif tablosuna kaydolunur ve bu suretle aktif ve pasif tablolarının
 toplamları denkleşir. İhtiyatlar ve kar ayrı gösterilseler dahi öz sermayenin cüzüleri sayılırlar.
-DÖRDÜNCÜ BÖLÜM
-İşletme Hesabı Esasına Göre Defter Tutma
-İşletme hesabı esasında tutulacak defterler:
 
 ### Bizim Yorumumuz
 

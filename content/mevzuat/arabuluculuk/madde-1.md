@@ -15,7 +15,6 @@ MADDE 1 – (1) Bu Kanunun amacı, hukuk uyuşmazlıklarının arabuluculuk yolu
 serbestçe tasarruf edebilecekleri iş veya işlemlerden doğan özel hukuk uyuşmazlıklarının
 çözümlenmesinde uygulanır. Şu kadar ki, aile içi şiddet iddiasını içeren uyuşmazlıklar
 arabuluculuğa elverişli değildir.
-Tanımlar1
 
 ### Bizim Yorumumuz
 

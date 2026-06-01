@@ -15,7 +15,6 @@ belgenin çıktısı alınarak ve talep edildiğinde incelemeye elverişli şeki
 kaydedilerek mahkemeye ibraz edilir.
 (2) Ticari defterler gibi devamlı kullanılan belgelerin sadece ilgili kısımlarının onaylı
 örnekleri mahkemeye ibraz edilebilir.
-Tarafın belgeyi ibraz etmemesi
 
 ### Bizim Yorumumuz
 

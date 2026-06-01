@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 87- (1) Bu Kanun yayımı tarihinden itibaren altı ay sonra yürürlüğe girer.
-Yürütme
 
 ### Bizim Yorumumuz
 

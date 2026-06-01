@@ -17,7 +17,6 @@ taksitlerin tamamı muaccel olur.
 Genel Müdürlükçe tahakkuk ettirilen taviz bedelleri, yapılacak tebligata rağmen
 ödenmediği takdirde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
 hükümlerine göre gecikme zammı ile birlikte tahsil edilerek vakfı adına gelir kaydedilir.
-Kiralama4
 
 ### Bizim Yorumumuz
 

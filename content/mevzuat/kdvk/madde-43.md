@@ -33,7 +33,6 @@ motorlu kara taşıtlarıyla Türkiye ile yabancı ülkeler arasında yapılan t
 taşımacılığa ait Katma Değer Vergisi de, ilgili gümrük idaresince tarholunur.
 6. Maliye ve Gümrük Bakanlığı, faaliyetin gereğini göz önünde tutarak mükellefin
 müracaatı üzerine veya resen tarh yerini tayin etmeye yetkilidir.
-Tarhiyatın muhatabı:
 
 ### Bizim Yorumumuz
 

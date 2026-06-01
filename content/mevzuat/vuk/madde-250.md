@@ -34,7 +34,6 @@ zamanında ödenmemiş olan vergisi ve gecikme zammı, yanında çalıştığı 
 verenden tahsil olunur.
 İş verenler, yukarıki hükümlere göre ödedikleri vergiler için asıl mükelleflere rücu
 edebilirler.
-Karnelerin şekli, resim ve harçlardan muaf olduğu:75
 
 ### Akademik Yorum ve Analiz
 

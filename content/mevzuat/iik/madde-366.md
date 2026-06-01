@@ -20,7 +20,6 @@ işlerden sayılır.
 Yargıtayın bozma kararı veya bölge adliye mahkemesinin kaldırma, düzelterek veya
 yeniden esas hakkında vereceği kararları üzerine icra ve iflâs işlerinde 40 ıncı madde hükmü
 kıyas yoluyla uygulanır.
-Borçlunun mevcudu hakkında malümat vermek mecburiyeti:
 
 ### Bizim Yorumumuz
 

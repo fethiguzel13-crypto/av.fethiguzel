@@ -61,7 +61,6 @@ Alacağın tamamının dava edilmiş olması hâlinde, kararda asıl talebinin k
 bölümü kırk bin Türk Lirasını geçmeyen tarafın temyiz hakkı yoktur. Ancak, karşı taraf
 temyiz yoluna başvurduğu takdirde, diğer taraf da düzenleyeceği cevap dilekçesiyle kararı
 temyiz edebilir.
-Kanun yararına temyiz
 
 ### Bizim Yorumumuz
 

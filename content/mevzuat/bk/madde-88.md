@@ -26,9 +26,6 @@ ibaresi yürürlükten kaldırılmıştır.
 e) Başkanın önerisi üzerine, başkan yardımcıları ve daire başkanlarını atamak.
 f) Taşınmaz alımı, satımı, kiralanması konularındaki önerileri görüşüp karara bağlamak.
 g) Kanunlarla verilen diğer görevleri yapmak.
-ÜÇÜNCÜ BÖLÜM
-Başkanlık Teşkilatı
-Başkan
 
 ### Bizim Yorumumuz
 

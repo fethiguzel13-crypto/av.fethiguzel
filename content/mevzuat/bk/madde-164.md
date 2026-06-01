@@ -39,7 +39,6 @@ takdirde görev, ücret ödenmeksizin bilirkişiden alınır ve yeni bilirkişi 
 görevi bu şekilde kendisinden alınan kişiler, bir yıl süreyle bu Kanun kapsamında hiçbir
 davada bilirkişi olarak atanamazlar. Bu kişiler, raporların süresinde verilmemesinin sebep
 olduğu masrafları ödemeye ve ayrıca beşyüz güne kadar adlî para cezasına mahkûm edilirler.
-Özel soruşturma ve kovuşturma
 
 ### Bizim Yorumumuz
 

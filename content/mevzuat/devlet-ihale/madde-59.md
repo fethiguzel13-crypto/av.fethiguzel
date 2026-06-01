@@ -18,7 +18,6 @@ bedeli idarenin masraflarını ve alacaklarını karşılamazsa, farkı teminatt
 artanı müşteriye geri verilir.
 Sözleşmenin akdedilmiş olması halinde feshedilerek yukarıdaki hükümlere göre işlem
 yapılır.
-İdarenin görev ve sorumluluğu:
 
 ### Bizim Yorumumuz
 

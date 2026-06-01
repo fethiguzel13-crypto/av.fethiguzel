@@ -57,9 +57,6 @@ fıkrasının (b) bendine göre gerçekleştirilen kısmî bölünme işlemlerin
 bölünme tarihine kadar tahakkuk etmiş ve edecek vergi borçlarından bölünen kurumun
 varlıklarını devralan kurumlar, devraldıkları varlıkların emsal bedeli ile sınırlı olarak
 müteselsilen sorumlu olurlar.
-BEŞİNCİ BÖLÜM
-Verginin Ödenmesi
-Ödeme süresi
 
 ### Bizim Yorumumuz
 

@@ -22,8 +22,6 @@ gösterge rakamları, sırasıyla 1999 yılında 90 ve 100'e, 2000 yılından it
 uygulanacağı hüküm altına alınmıştır.
 270
 
-Fazla çalışma ücreti:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

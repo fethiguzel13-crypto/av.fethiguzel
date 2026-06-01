@@ -16,7 +16,6 @@ ve ilk derece mahkemesi veya bölge adliye mahkemesince sulh doğrultusunda ek k
 (3) (Ek:22/7/2020-7251/30 md.) Sulh, dosyanın temyiz incelemesine gönderilmesinden
 sonra yapılmışsa, Yargıtay temyiz incelemesi yapmaksızın dosyayı sulh hususunda ek karar
 verilmek üzere hükmü veren mahkemeye gönderir.
-Sulhun etkisi
 
 ### Bizim Yorumumuz
 

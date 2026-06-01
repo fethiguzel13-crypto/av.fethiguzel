@@ -52,7 +52,6 @@ yapıp yapmamasına bakılmaksızın, vergiye tabi işlemlere taraf veya aracı 
 kesintisi yaptırmaya, iş grupları, iş nevileri, sektörler ve emtia grupları itibarıyla, vergiye tabi
 işlemle ilgili, vergi kanunlarında belirtilen alt ve üst limitler arasında olmak şartıyla, farklı
 kesinti oranları tespit etmeye yetkilidir.6
-Mirasçıların sorumluluğu:
 
 ### Bizim Yorumumuz
 

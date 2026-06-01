@@ -23,8 +23,6 @@ Bu madde başlığı “Atik veya işlemden kaldırılmış kütükler” iken, 
 Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 23
 
-Formların düzenlenmesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

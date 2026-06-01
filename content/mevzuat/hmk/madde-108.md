@@ -19,7 +19,6 @@ tespit davası” iken metne işlendiği şekilde değiştirilmiştir.
 (2) Bir inşaî hakkın, dava yoluyla kullanılmasının zorunlu olduğu hâllerde, inşaî dava
 açılır.
 (3) Kanunlarda aksi belirtilmedikçe, inşaî hükümler, geçmişe etkili değildir.
-Kısmi dava
 
 ### Bizim Yorumumuz
 

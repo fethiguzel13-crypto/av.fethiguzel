@@ -14,7 +14,6 @@ MADDE 26 – (1) Eğitim kuruluşları, her yıl ocak ayında bir önceki yıl i
 
 gerçekleştirdikleri eğitim faaliyetinin kapsamı, içeriği ve başarısı konusunda Daire Başkanlığına
 bir rapor sunar.
-Eğitim kuruluşuna verilen iznin iptali
 
 ### Bizim Yorumumuz
 

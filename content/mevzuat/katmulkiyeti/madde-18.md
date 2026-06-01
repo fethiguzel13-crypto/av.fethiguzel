@@ -14,8 +14,6 @@ kullanırken doğruluk kaidelerine uymak, özellikle birbirini rahatsız etmemek
 Bu kanunda kat maliklerinin borçlarına dair olan hükümler, bağımsız bölümlerdeki kiracılara ve oturma (Sükna) hakkı sahiplerine veya bu bölümlerden herhangi bir suretle devamlı olarak faydalananlara da uygulanır; bu borçları yerine getirmiyenler kat malikleriyle birlikte, müteselsil olarak sorumlu olur.
 (Mülga son fıkra: 14/11/2007-5711/24 md.)
 
-II - Anagayrimenkulün bakımı, korunması ve zarardan sorumluluk:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -19,7 +19,6 @@ incelemek;
 5. (Değişik: 30/12/1980-2365/23 md.) Mükellefin hesap ve kayıtlarının yardımıyla
 üçüncü şahısların vergi karşısındaki durumlarını (emanet mahiyetindeki değerler dahil)
 kontrol etmek ve incelemek.
-Defter tutacaklar:
 
 ### Bizim Yorumumuz
 

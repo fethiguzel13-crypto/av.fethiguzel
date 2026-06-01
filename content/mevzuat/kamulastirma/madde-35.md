@@ -14,7 +14,6 @@ düzenleme ortaklık payı karşılığı olarak bir defaya mahsus alınan yol, 
 gibi kamu hizmet ve tesislerine ayrılan yerlerle, özel parselasyon sonunda malikinin
 muvafakatı ile kamu hizmet ve tesisleri için ayrılmış bulunan yerler için eski malikleri
 tarafından mülkiyet iddiasında bulunulamaz ve karşılığı istenemez.
-Kamulaştırmadan sonra alınan tapu kaydının iptali
 
 ### Bizim Yorumumuz
 

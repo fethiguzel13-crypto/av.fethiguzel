@@ -15,7 +15,6 @@ yedi gündür. Devir teslim süresinin aylık ödeme zamanına rastlaması halin
 aylıkları eski görev yerinde, kadro tasarrufundan ödenir.
 Sayman mutemetleri için devir süresi iki gündür.
 Görev yeri değiştirilenlerden eski görevlerine devamları tebliğ edilenlerin
-aylıkları:
 
 ### Bizim Yorumumuz
 

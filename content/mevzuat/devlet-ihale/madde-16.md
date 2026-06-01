@@ -18,7 +18,6 @@ Yapım işleriyle her türlü etüt, proje, kontrollük ve müşavirlik hizmetle
 isteklilerde aranacak niteliklerin ve istenecek belgelerin neler olacağı, ne yolda ve kimlerce
 verileceği ve müteahhit sicillerinin ne biçimde tutulacağı Cumhurbaşkanınca çıkarılan
 yönetmelikle gösterilir.6
-İhalenin ilanı:7
 
 ### Bizim Yorumumuz
 

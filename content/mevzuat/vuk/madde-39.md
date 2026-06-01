@@ -18,8 +18,6 @@ Tekalif cetvellerinde aşağıdaki malümat bulunur:
 binaların iradı ve arazinin kıymeti toplam olarak gösterilir);
 4. Binaların safi iradı;
 5. Tahakkuk eden vergi.
-DÖRDÜNCÜ BÖLÜM
-Götürü Matrahların Tespiti
 
 ### Bizim Yorumumuz
 

@@ -53,7 +53,6 @@ mülki amiri veya bu konu ile ilgili olarak yetkilendireceği trafik tescil biri
 on bin Türk Lirası idarî para cezası verilir.
 (Ek fıkra: 13/2/2011-6111/57 md.) Tescile ilişkin geçici belge, 5237 sayılı Türk Ceza
 Kanununun uygulanmasında resmî belge sayılır.
-Belge ve plakaların araçlar üzerinde bulundurulması zorunluluğu:
 
 ### Bizim Yorumumuz
 

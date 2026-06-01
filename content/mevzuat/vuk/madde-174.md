@@ -19,7 +19,6 @@ Yeniden işe başlama veya işi bırakma hallerinde, hesap dönemi içinde bir y
 olan faaliyet süresi, hesap dönemi sayılır.
 Bu maddeye göre özel hesap dönemi tayin edilenlerin ticari ve zirai kazançları, hesap
 dönemlerinin kapandığı takvim yılının kazancı sayılır.
-Muhasebe usulünü seçmekte serbestlik:
 
 ### Bizim Yorumumuz
 

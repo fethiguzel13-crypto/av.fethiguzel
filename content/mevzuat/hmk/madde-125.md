@@ -24,9 +24,6 @@ devralmış olan kişi, görülmekte olan davada davacı yerine geçer ve dava k
 itibaren devam eder. (Ek cümle:22/7/2020-7251/11 md.) Bu takdirde dava davacı aleyhine
 sonuçlanırsa, dava konusunu devreden ve devralan yargılama giderlerinden müteselsilen
 sorumlu olur.
-İKİNCİ BÖLÜM
-Cevap Dilekçesi
-Cevap dilekçesinin verilmesi
 
 ### Bizim Yorumumuz
 

@@ -31,10 +31,6 @@ Tescil (…) Belgeleri, Tescil Plakaları, Motorlu Araçlara Ait
 Şartlar ve Muayene
 16
 
-BİRİNCİ BÖLÜM
-Tescil (…)16 Belgeleri, Tescil Plakaları
-Tescil belgesi alma zorunluluğu:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

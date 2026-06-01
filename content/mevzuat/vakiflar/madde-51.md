@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 51 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Hayır Hizmetleri Daire Başkanlığı1112
 
 ### Bizim Yorumumuz
 

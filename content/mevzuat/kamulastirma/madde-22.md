@@ -30,7 +30,6 @@ Ancak, kamulaştırılan taşınmaz mala kamulaştırmayı yapan idare dışınd
 idare, kamulaştırma yoluyla gerçekleştirebileceği bir kamu hizmeti amacıyla istekli olduğu
 takdirde, yukarıdaki fıkra hükmü uygulanmayarak bu Kanunun 30 uncu veya 1050 sayılı
 Muhasebei Umumiye Kanununun 23 üncü maddesine göre işlem yapılır.
-Mal sahibinin geri alma hakkı
 
 ### Bizim Yorumumuz
 

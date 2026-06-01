@@ -32,7 +32,6 @@ kayıt örneklerini, kendileri ve ergin olmayan çocuklarının ise yerleşim ye
 kimlik doğrulama araçlarını kullanarak e-Devlet kapısı üzerinden sorgulayabilir, sonucu fiziki
 veya elektronik ortamda merciine verebilirler. E-Devlet kapısı üzerinden alınan belgeler, nüfus
 müdürlüklerinden alınmış diğer belgelerle aynı hukuki değere sahiptir.
-Kimlik Paylaşımı Sisteminin kullanılması1516
 
 ### Bizim Yorumumuz
 

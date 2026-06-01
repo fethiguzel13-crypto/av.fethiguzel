@@ -20,7 +20,6 @@ vasıtasıyla yaptırılır.
 Zor kullanılmasını gerektiren veya hazırlık tahkikatına taallük eden vazifelerini zabıta
 tarafından yapılacağına dair olan hükümlerle bu kanunun ikinci babında yazılı hususi
 hükümler mahfuzdur.
-Ücret tarifesi:
 
 ### Bizim Yorumumuz
 

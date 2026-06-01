@@ -208,7 +208,6 @@ almış oldukları en yüksek ek gösterge üzerinden ödeme yapılır.
 Kadroları Milli İstihbarat Hizmetleri Sınıfına dahil olanlara, bu maddede gösterilen
 emsallerini geçmemek üzere Cumhurbaşkanı tarafından tespit edilecek ek gösterge rakamları
 uygulanır.109
-Çalışma yaş hadleri:
 
 ### Bizim Yorumumuz
 

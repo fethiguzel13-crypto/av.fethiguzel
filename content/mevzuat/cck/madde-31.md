@@ -27,8 +27,6 @@ gösteren nedenlerin varlığı hâlinde kolluğun çocuk birimi, durumun gerekt
 almak suretiyle çocuğun güvenliğini sağlar ve mümkün olan en kısa sürede Sosyal Hizmetler
 ve Çocuk Esirgeme Kurumuna teslim eder.
 
-Görevlilerin eğitimleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

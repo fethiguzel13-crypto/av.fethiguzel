@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 56- (Mülga: 19/10/2017-7039/27 md.)
-Vekiller
 
 ### Bizim Yorumumuz
 

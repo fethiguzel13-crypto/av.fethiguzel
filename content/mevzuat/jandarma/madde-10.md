@@ -35,8 +35,6 @@ kalacaklarının değerlendirilmesi halinde, mahalli mülki amirler tarafından 
 sorumluluk sahalarında geçici olarak görevlendirilebilirler.
 Jandarmanın diğer güvenlik kuvvetleriyle işbirliği ve koordinasyon esasları ve emir
 komuta ilişkileri yönetmelikle belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Silah Kullanma Yetkisi
 
 ### Bizim Yorumumuz
 

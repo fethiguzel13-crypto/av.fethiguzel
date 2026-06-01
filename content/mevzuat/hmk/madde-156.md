@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 MADDE 156- (1) Ön inceleme, tahkikat ve yargılama işlemleri, ancak tutanakla ispat
 
 olunabilir.
-Zabıt kâtibi bulundurulması zorunluluğu
 
 ### Bizim Yorumumuz
 

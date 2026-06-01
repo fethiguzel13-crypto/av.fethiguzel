@@ -50,7 +50,6 @@ ve özelliklerini gösterir bir tutanakla yakalandığı yerde teslim edilir. Ka
 
 muhafazası, depolanması, yüklenmesi, boşaltılması ve nakliyesi gibi nedenlerle yapılan masraflar
 duruma göre il özel idaresi veya yatırım izleme ve koordinasyon başkanlığı tarafından karşılanır.13
-Yasak eşyanın geri gönderilmesi
 
 ### Bizim Yorumumuz
 

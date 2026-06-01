@@ -16,7 +16,6 @@ hükmün dışındadır.
 Mirasın tutulan defter mucibince kabulü halinde, mirasçı, deftere kaydedilmemiş olsa
 dahi amme alacağından mirastan kendisine düşen miktar ile mesuldür.
 Defter tutma muamelesinin devamı müddetince satış yapılamaz.
-Tebliğler ve müddetlerin hesaplanması:
 
 ### Bizim Yorumumuz
 

@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 152 – (1) Yararları birbirine uygun olan birden fazla şüpheli veya sanığın
 savunması aynı müdafie verilebilir.
-Müdafiin dosyayı inceleme yetkisi
 
 ### Bizim Yorumumuz
 

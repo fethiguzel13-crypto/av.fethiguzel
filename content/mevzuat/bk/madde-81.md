@@ -40,9 +40,6 @@ kararıyla” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 
 ONUNCU KISIM
 Bankacılık Düzenleme ve Denetleme Kurumuna İlişkin Hükümler
-BİRİNCİ BÖLÜM
-Bankacılık Düzenleme ve Denetleme Kurumu
-Kuruluş ve bağımsızlık
 
 ### Bizim Yorumumuz
 

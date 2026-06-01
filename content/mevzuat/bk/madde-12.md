@@ -26,7 +26,6 @@ tasfiyelerine karar verilmesi veya konkordato ilân etmeleri hâlinde, bunların
 Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) veya (b) bentleri kapsamında bir
 kredi kuruluşuna verilen yetkinin Kurul tarafından kaldırılması, faaliyet izninin kaldırılması
 hükmündedir.
-Yurt içinde şube açma
 
 ### Bizim Yorumumuz
 

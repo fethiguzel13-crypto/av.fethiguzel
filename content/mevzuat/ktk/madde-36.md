@@ -23,7 +23,6 @@ kullananlara 200.000 Türk lirası,
 c) Sürücü belgesi iptal edildiği halde motorlu araçları kullananlara 200.000 Türk lirası,
 idari para cezası verilir. Ayrıca, bu fıkra kapsamında motorlu araçların sürülmesine
 izin veren işletene de tescil plakası üzerinden 40.000 Türk lirası idari para cezası verilir.
-Sürücü belgesi alması zorunlu olmayanlarda aranacak şartlar:
 
 ### Bizim Yorumumuz
 

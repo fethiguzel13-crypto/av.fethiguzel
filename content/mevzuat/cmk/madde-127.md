@@ -25,7 +25,6 @@ Cumhuriyet savcısının nezaretinde askerî makamların katılımıyla adlî ko
 tarafından yerine getirilir. Gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının
 yazılı emriyle de askerî makamların katılımıyla adlî kolluk görevlileri tarafından elkoyma
 işlemi yapılabilir.
-Taşınmazlara, hak ve alacaklara elkoyma
 
 ### Bizim Yorumumuz
 

@@ -90,9 +90,6 @@ aa) (Ek: 15/8/2017-KHK-694/169 md.; Aynen kabul: 1/2/2018-7078/163 md.)
 Taşıyıcı: Yabancı uyruklu yolcuları taşıyan kara, hava, deniz ve demiryolu taşıtlarının gerçek
 veya tüzel kişi olan sahiplerini veya ticari kara, hava, deniz ve demiryolu işletmecilerini,
 ifade eder.
-İKİNCİ BÖLÜM
-Geri Gönderme Yasağı
-Geri gönderme yasağı
 
 ### Bizim Yorumumuz
 

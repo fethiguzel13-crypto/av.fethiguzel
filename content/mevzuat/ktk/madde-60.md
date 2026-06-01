@@ -23,7 +23,6 @@ birimi içinde onbeş metre ve yerleşim birimi dışında yüz metre mesafede,
 Duraklamak yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 1 800 000
 lira para cezası ile cezalandırılırlar.
-Park etmenin yasak olduğu yerler ve haller:
 
 ### Bizim Yorumumuz
 

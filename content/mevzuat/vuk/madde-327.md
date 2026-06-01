@@ -18,9 +18,6 @@ süresine göre eşit yüzdelerle itfa edilir. Kira veya işletme hakkı süresi
 veya işletme hakkı alınan şeyin boşaltılması veya işletme hakkının herhangi bir sebepten sona
 ermesi halinde henüz itfa edilmemiş olan giderler, boşaltma veya hakkın sona erdiği yılda bir
 defada gider yazılır.
-ÜÇÜNCÜ BÖLÜM
-Özel Haller
-Amortismana tabi malların satılması:
 
 ### Akademik Yorum ve Analiz
 

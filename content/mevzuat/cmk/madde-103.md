@@ -15,7 +15,6 @@ müdafii de aynı istemde bulunabilirler. (Mülga üçüncü cümle: 25/5/2005 �
 (2) Soruşturma evresinde Cumhuriyet savcısı adlî kontrol veya tutuklamanın artık
 gereksiz olduğu kanısına varacak olursa, şüpheliyi re'sen serbest bırakır. Kovuşturmaya yer
 olmadığı kararı verildiğinde şüpheli serbest kalır.
-Şüpheli veya sanığın salıverilme istemleri
 
 ### Bizim Yorumumuz
 

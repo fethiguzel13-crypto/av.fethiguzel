@@ -29,7 +29,6 @@ g) Kurulca belirlenecek esas ve süreler çerçevesinde elden çıkarılması ka
 arza aracılık yüklenimleri kapsamında edinilen ortaklık payları.
 h) Özkaynak hesabında indirilecek değer olarak dikkate alınan işlemler.
 i) Kurulca belirlenecek diğer işlemler.
-Ortaklık paylarına ilişkin sınırlamalar
 
 ### Bizim Yorumumuz
 

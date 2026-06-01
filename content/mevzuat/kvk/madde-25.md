@@ -26,9 +26,6 @@ halinde ise ülkeyi terk etmesinden önceki onbeş gün içinde verilir.
 (6) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir. Mükellefler
 beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak
 bildirmek zorundadır.
-ÜÇÜNCÜ BÖLÜM
-Özel Beyan
-Özel beyan zamanı tayin olunan gelirler
 
 ### Bizim Yorumumuz
 

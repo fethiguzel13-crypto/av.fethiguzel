@@ -31,7 +31,6 @@ işlenmek üzere de ilgili meslek odalarına bildirilir.
 Sürekli olarak kamu ihalelerine katılmaktan yasaklanmış olanlara ilişkin mahkeme kararları,
 Kamu İhale Kurumunca bildirimi izleyen onbeş gün içinde Resmi Gazetede yayımlanmak suretiyle
 duyurulur.
-Görevlilerin ceza sorumluluğu
 
 ### Bizim Yorumumuz
 

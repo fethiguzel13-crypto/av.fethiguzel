@@ -47,9 +47,6 @@ ilişkin hususlar yönetmelikte belirlenir.
 Araç kullanmak üzere birden fazla sürücünün görevlendirilmesinin zorunlu olduğu
 hallerde araçta bulunması gereken sürücülere ilişkin yönetmelikte belirtilen hususlara
 uymayan işletene 10.000 Türk lirası idari para cezası uygulanır.
-İKİNCİ BÖLÜM
-Hız Kuralları
-Hız sınırları:
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ Karar hakkında tebliğ tarihinden itibaren iki hafta içinde borçlu ile alacak
 biri istinaf yoluna başvurabilir.122
 İcra mahkemesi tarafından verilmiş olan fevkalâde mühletin hükmü, bölge adliye
 mahkemesinin kesin kararına kadar geçerlidir.
-Defter tanzimi, komiser:
 
 ### Bizim Yorumumuz
 

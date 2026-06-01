@@ -20,7 +20,6 @@ geri ödenme teminatını sağlama amacıyla, meblağ sigortalarında kalan bor�
 vadesiyle uyumlu olması gerekir.
 (3) Konut finansmanı sözleşmesi, kredi ile ilgili olanlar hariç yan finansal ürün ve
 hizmetlerin satın alınması şartına bağlanamaz.
-Diğer hususlar
 
 ### Bizim Yorumumuz
 

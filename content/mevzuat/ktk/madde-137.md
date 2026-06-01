@@ -18,7 +18,6 @@ c) (Değişik: 16/10/1984 – 3058/2 md.) Diğer maddeleri de bu Kanunun yayım�
 
 20 ay sonra,
 Yürürlüğe girer.
-Yürütme:
 
 ### Bizim Yorumumuz
 

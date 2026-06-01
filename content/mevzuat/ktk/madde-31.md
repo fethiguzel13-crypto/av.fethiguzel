@@ -89,7 +89,6 @@ karayolundaki denetimine ilişkin görev ve yetkileri saklı kalmak üzere işye
 gereken takograf kayıtlarının çalışma ve dinlenme sürelerine ilişkin denetim, Ulaştırma ve
 Altyapı Bakanlığı tarafından oluşturulan veri tabanı kullanılarak Çalışma ve Sosyal Güvenlik
 Bakanlığı tarafından veya bağlı ve ilgili kuruluşlarınca yapılabilir.
-Araç üzerindeki teknik değişiklikler ve bildirim zorunluluğu:29
 
 ### Bizim Yorumumuz
 

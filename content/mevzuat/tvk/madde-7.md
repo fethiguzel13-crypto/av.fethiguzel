@@ -15,7 +15,6 @@ birliği içinde doğan çocuk Türk vatandaşıdır.
 vatandaşıdır.
 (3) Türk vatandaşı baba ve yabancı anadan evlilik birliği dışında doğan çocuk ise soy bağı
 kurulmasını sağlayan usul ve esasların yerine getirilmesi halinde Türk vatandaşlığını kazanır.
-Doğum yeri
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ ilgili vergi ve cezalar kesinleşinceye kadar kendisine geri verilmez.
 İlgililer tutanaklara diledikleri itiraz ve mülahazaları kaydedebilirler.
 İlgililer bu tutanakları her zaman imzalıyarak defter ve vesikalarını geri alabilirler.
 Ancak, bu defter ve vesikaların suç delili teşkil etmemesi şarttır.
-Kayıtların yeniden işlenmesi:
 
 ### Bizim Yorumumuz
 

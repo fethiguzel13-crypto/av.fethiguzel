@@ -17,7 +17,6 @@ tamamen kullanılsınlar - değerlerinin tamamı üzerinden envantere alınır.
 apartmanların yarısından fazlası işletmede kullanıldığı takdirde envantere ithal edilir.
 3. Envantere alınan gayrimenkullerin kullanış tarzlarında sonradan vakı olacak
 değişiklikler, hesap yılı içinde nazara alınmaz.
-Bilançonun tanziminde envanter listeleri:
 
 ### Bizim Yorumumuz
 

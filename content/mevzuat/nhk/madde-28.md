@@ -29,8 +29,6 @@ Bu madde başlığı “Tanıma işlemi” iken, 19/10/2017 tarihli ve 7039 say�
 metne işlendiği şekilde değiştirilmiştir.
 8
 
-Evlât edinme işlemi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

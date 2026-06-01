@@ -20,7 +20,6 @@ gümrük idaresine verilir.
 3. (Mülga : 25/5/1995 - 4108/39 md.)
 4. (Ek : 3/6/1986 - 3297/13 md.) İşi bırakan mükelleflerin katma değer vergisi
 beyannamesi, işin bırakıldığı tarihi izleyen ayın yirmidördüncü günü akşamına kadar verilir.100
-Beyannamelerin şekil ve muhtevası:
 
 ### Bizim Yorumumuz
 

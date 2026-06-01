@@ -16,7 +16,6 @@ gerektiriyorsa, mahkeme gerekçesini açıkça belirtmek şartıyla teminat alı
 verebilir. Adli yardımdan yararlanan kimsenin teminat göstermesi gerekmez.
 (2) Asıl davaya ilişkin hükmün kesinleşmesinden veya ihtiyati tedbir kararının
 kalkmasından itibaren bir ay içinde tazminat davasının açılmaması üzerine teminat iade edilir.
-İhtiyati tedbir kararının uygulanması
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ evrakının kabulden çekinme halinde tebligat, 21 inci maddeye göre yapılır.
 cümle: 19/3/2003-4829/4 md.) Bu maddeye göre yapılacak tebligatlarda tebliğ, tebliğ
 evrakının 13, 14, 16, 17 ve 18 inci maddelerde yazılı kişilere verildiği tarihte veya ihbarname
 kapıya yapıştırılmışsa bu tarihten itibaren onbeş gün sonra yapılmış sayılır.6
-Tebliğ imkansızlığı ve tebellüğden imtina:
 
 ### Bizim Yorumumuz
 

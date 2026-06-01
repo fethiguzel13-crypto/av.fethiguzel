@@ -16,7 +16,6 @@ faaliyete geçmek demektir. Bir yerin ne maksatla olursa olsun sadece tutulmuş 
 içinde tertibat ve tesisat yapılmakta bulunması iş yerinin açıldığını göstermez);
 2. İş yeri açılmamış olsa bile ticaret siciline veya mesleki bir teşekkülle kaydolunmak;
 3. Kazançları basit usulde tesbit edilen tüccarlar için işle bilfiil uğraşmaya başlamak.48
-Serbest meslek erbabında işe başlamanın belirtileri:
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ değerleme gününe kadar geçen süreye isabet eden kısmının eklenmesi suret
 Ancak, borsa rayici bulunmayan, getirisi ihraç edenin kar ve zararına bağlı olarak doğan ve
 değerleme günü itibariyle hesaplanması mümkün olmayan menkul kıymetler, alış bedeli ile
 değerlenir.
-Yabancı paralar:89
 
 ### Akademik Yorum ve Analiz
 

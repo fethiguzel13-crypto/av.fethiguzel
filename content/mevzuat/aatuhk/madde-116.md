@@ -183,7 +183,6 @@ tespit davası açma hakkı bulunmayanlar ile takip konusu amme alacağının as
 tarafından ödenmiş olması nedeniyle borçlu sıfatı sona ermiş olanlardan, bu Kanunun 58 inci
 maddesinin beşinci fıkrası uyarınca hesaplanmış ve tahsil edilmemiş olan haksız çıkma
 zammının tahsilinden vazgeçilir.
-Yürürlük:
 
 ### Bizim Yorumumuz
 

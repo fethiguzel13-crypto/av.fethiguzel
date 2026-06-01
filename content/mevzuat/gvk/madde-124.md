@@ -2068,7 +2068,6 @@ Bakanlığı, madde kapsamına giren varlıkların Türkiye’ye getirilmesi ve 
 dâhil edilmelerine ilişkin hususları, bildirime esas değerlerin tespiti, bildirimin şekli, içeriği
 ve ekleri ile yapılacağı yeri, maddenin uygulanmasında kullanılacak bilgi ve belgeler ile
 uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
-Yürürlük maddeleri:
 
 ### Bizim Yorumumuz
 

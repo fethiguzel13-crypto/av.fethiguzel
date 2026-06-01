@@ -20,7 +20,6 @@ Keşfe karşı koyma hâlinde hâkim, üçüncü kişiyi karşı koymanın sebep
 beşyüz Türk Lirasından beşbin Türk Lirasına kadar disiplin para cezasına mahkûm eder;
 gerektiğinde zor kullanılmasına karar verebilir. Ancak, üçüncü kişi tanıklıktan çekinme
 sebeplerine dayanarak keşfe katlanma yükümlülüğünden kaçınabilir.
-Soybağı tespiti için inceleme
 
 ### Bizim Yorumumuz
 

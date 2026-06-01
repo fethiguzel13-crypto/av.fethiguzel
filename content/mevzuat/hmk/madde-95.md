@@ -15,7 +15,6 @@ bulunabilir.
 
 (2) Süresinde yapılamayan işlemle ulaşılmak istenen aynı sonuca, eski hâle getirme
 dışında, başka bir hukuki yoldan ulaşılabiliyorsa, eski hâle getirme talebinde bulunulamaz.
-Süre
 
 ### Bizim Yorumumuz
 

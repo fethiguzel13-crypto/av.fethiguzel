@@ -41,9 +41,6 @@ esas alınarak değişiklik uyarınca adına kayıt ve tescil işlemi yapılanda
 tescili tarihinde dönüştürülen mallar için geçerli olan oran üzerinden, bu tarihte özel tüketim
 vergisi alınır.39
 3. Bu Maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
-BEŞİNCİ BÖLÜM
-Gümrük İdarelerince Alınan Özel Tüketim Vergisine İlişkin Hükümler
-Gümrük idarelerince alınan özel tüketim vergisine ilişkin hükümler
 
 ### Bizim Yorumumuz
 

@@ -39,7 +39,6 @@ itibaren iki hafta” şeklinde, üçüncü ve beşinci fıkralarında yer alan 
 isteminde bulunabilir. Eski hâle getirme süresi içinde de istinaf süresi işler. Sanığın eski hâle
 getirme isteminde bulunduğu hâllerde, ayrıca istinaf isteminde bulunması gerekir. Bu hâlde istinaf
 istemi ile ilişkili işler, eski hâle getirme istemi hakkında karar verilinceye kadar ertelenir.
-İstinaf başvurusunun etkisi
 
 ### Bizim Yorumumuz
 

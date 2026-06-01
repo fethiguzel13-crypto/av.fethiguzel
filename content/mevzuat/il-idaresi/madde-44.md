@@ -16,7 +16,6 @@ koymak gibi hallerde, kişi ve mülk güven ve düzenini bozan sair beklenilmiye
 karşısında kalındığı takdirde bucak müdürü lüzumlu tedbirleri almak ve kolluk kuvvetlerini
 harekete getirmekle beraber kaymakamı haberdar eder ve yardım ister. Bu gibi olağanüstü
 hallerde kaymakam ile muhabere mümkün olmadığı takdirde en yakın idare üstüne keyfiyeti
-bildirir ve valiliğin haberdar edilmesini ister.
 
 ### Bizim Yorumumuz
 

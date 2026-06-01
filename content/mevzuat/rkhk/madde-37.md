@@ -15,7 +15,6 @@ olunur. En yüksek devlet memuruna ödenenlerden gelir vergisine tabi olmayanlar
 göre de Gelir Vergisine tabi tutulmaz.1112
 Kurum personelinin ücret ve diğer mali hakları, birinci fıkradaki ücretler ve bunlarda
 değişiklik yapılmasına ilişkin esaslar çerçevesinde Başkanlığın teklifi üzerine Kurulca belirlenir.
-Emeklilik ve Hizmet Sürelerinin Değerlendirilmesi
 
 ### Bizim Yorumumuz
 

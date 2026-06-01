@@ -15,9 +15,6 @@ oranı, dört katına kadar artırmaya, % 1 'e kadar indirmeye, bu oranlar dahil
 ve hizmetler ile bazı malların perakende safhası ve inşaatın yapıldığı arsanın veya konutun
 vergi değeri ve bulunduğu yeri esas alarak konut teslimleri için farklı vergi oranları tespit
 etmeye yetkilidir.
-ÜÇÜNCÜ BÖLÜM
-İndirim
-Vergi indirimi:7677
 
 ### Bizim Yorumumuz
 

@@ -16,9 +16,6 @@ gelecekteki haklarının ihlal edilmesinin önüne geçilmesi için dava açabil
 İKİNCİ BÖLÜM
 
 Dava Şartları ve İlk İtirazlar
-BİRİNCİ AYIRIM
-Dava Şartları
-Dava şartları
 
 ### Bizim Yorumumuz
 

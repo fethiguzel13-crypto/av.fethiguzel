@@ -58,7 +58,6 @@ karayolunda araç kullanma yetkisi vermez. Sürücü sertifikasını sürücü b
 dönüştürmeden karayolunda araç kullandığı tespit edilen sürücüye 700 Türk Lirası idari para
 cezası verilir. Bu kişilere araç kullandıran araç sahibine de tescil plakası üzerinden aynı
 miktarda idari para cezası verilir.
-Askeri araç sürücülerinin sınavları:
 
 ### Bizim Yorumumuz
 

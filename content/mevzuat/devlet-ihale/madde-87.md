@@ -17,9 +17,6 @@ gereğince ve 363 üncü maddesindeki sürede müteahhide ikmal ve tazmin ettiri
 yapılması için durumu ilgili mercilere bildirmekle ödevlidirler.
 İşin nezareti kendisine tevdi edilen mühendis, mimar ve memurlar hakkında da ayrıca
 bu Kanunun 86 ncı maddesi uygulanır.
-BEŞİNCİ KISIM
-Çeşitli Hükümler
-Erken bitirme primi:
 
 ### Bizim Yorumumuz
 

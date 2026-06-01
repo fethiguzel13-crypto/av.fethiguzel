@@ -35,7 +35,6 @@ birisi mevcut ise,
 2. Mükellef hakkında 110 uncu madde gereğince takibata girişilmişse,
 3. Teşebbüsün muvazaalı olduğu ve hakikatte başkasına aidiyeti hakkında deliller elde
 edilmişse.
-İhtiyati tahakkukun neticeleri:
 
 ### Bizim Yorumumuz
 

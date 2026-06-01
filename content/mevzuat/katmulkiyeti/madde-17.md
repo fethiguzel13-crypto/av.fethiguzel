@@ -15,10 +15,6 @@ yazılı süre içinde başlaması ve tamamlanması için kendilerine düşen bo
 aralarından veya dışarıdan bir veya birkaç kişiyi yönetici olarak tayin edebilirler. Kat mülkiyeti
 yöneticisinin görev, yetki ve sorumluluklarına dair hükümler, bu yönetici hakkında da uygulanır.
 (Ek: 13/4/1983 - 2814/7 md.) Kat irtifakı kurulmuş gayrimenkullerde yapı fiilen tamamlanmış ve bağımsız bölümlerin üçte ikisi fiilen kullanılmaya başlanmışsa, kat mülkiyetine geçilmemiş olsa dahi anagayrimenkulün yönetiminde kat mülkiyeti hükümleri uygulanır.
-DÖRDÜNCÜ BÖLÜM
-Kat Maliklerinin ve Kat İrtifakı Sahiplerinin Borçları
-A) Kat Maliklerinin borçları:
-I - Genel kural:
 
 ### Bizim Yorumumuz
 

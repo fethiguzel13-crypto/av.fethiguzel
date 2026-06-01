@@ -36,9 +36,6 @@ Birleşme ve katılma işlemlerinde bu maddede düzenlenmeyen hususlarda 4 ünc�
 madde hükmüne göre işlem yapılır.
 3 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 4 12/11/2012 tarihli ve 6360 sayılı Kanunun 14 üncü maddesiyle bu fıkrada yer alan “50.000” ibaresi “20.000” şeklinde değiştirilmiştir.
 
-
-Mahalle ve yönetimi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

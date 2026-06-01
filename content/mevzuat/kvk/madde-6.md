@@ -19,7 +19,6 @@ dikkate alınır.
 Kanununun 376 ncı maddesi uyarınca sermayenin tamamlanmasına karar verilen şirketin
 ortakları tarafından zarar sebebiyle karşılıksız kalan kısmı kapatacak miktarda aktarılan
 tutarlar kurum kazancının tespitinde dikkate alınmaz.
-Kontrol edilen yabancı kurum kazancı
 
 ### Bizim Yorumumuz
 

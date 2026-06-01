@@ -24,8 +24,6 @@ Bu madde başlığı “Cüzdan talep belgesi” iken 14/1/2016 tarihli ve 6661 
 maddesiyle metne işlendiği şekilde değiştirilmiştir.
 13
 
-Nüfus kayıt örneğini almaya yetkili olanlar
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

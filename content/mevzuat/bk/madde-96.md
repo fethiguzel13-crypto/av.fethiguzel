@@ -29,7 +29,6 @@ kayıtlara erişim veya kayıtları okunabilir hale getirmek için gerekli tüm 
 incelemek için ibraz etmeye ve işletmeye mecburdurlar.
 Bu madde kapsamında ilgili kişi, kurum ve kuruluşlar Kurumun belirleyeceği süre
 içerisinde söz konusu talebe cevap vermek ve gereken kolaylığı göstermekle yükümlüdürler.
-Şeffaflık ve hesap verebilirlik32
 
 ### Bizim Yorumumuz
 

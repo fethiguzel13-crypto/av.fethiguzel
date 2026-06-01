@@ -58,7 +58,6 @@ tazminatlar.
 Her türlü para cezaları ve vergi cezaları ile serbest meslek erbabının suçlarından doğan
 tazminatlar gider olarak indirilemez.
 Ticari ve mesleki kazançlarda günlük hasılat tespiti ve gelir vergisi matrahının
-belirlenmesi:
 
 ### Bizim Yorumumuz
 

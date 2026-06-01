@@ -33,7 +33,6 @@ iratları.87
 2. Dar mükellefiyette, tamamı Türkiye'de tevkif suretiyle vergilendirilmiş olan;
 ücretler, serbest meslek kazançları, menkul ve gayrimenkul sermaye iratları ile diğer kazanç
 ve iratlar.
-İhtiyari toplama ve beyan:
 
 ### Bizim Yorumumuz
 

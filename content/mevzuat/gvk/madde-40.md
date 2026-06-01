@@ -89,7 +89,6 @@ eğitim programlarından faydalananlara, programı yürüten işverenlerce fiile
 (Bu kapsamda işverenler tarafından ticari kazancın tespitinde ücretle ilişkilendirilmeksizin her
 bir katılımcı itibarıyla indirim konusu yapılacak tutar aylık olarak asgari ücretin brüt tutarının
 yarısını aşamaz.).
-Gider kabul edilmiyen ödemeler:
 
 ### Bizim Yorumumuz
 

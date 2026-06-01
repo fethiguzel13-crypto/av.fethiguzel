@@ -26,7 +26,6 @@ kiraların seviyesi;
 7. Kullanış tarzı.
 Fabrika, değirmen ve imalathanelerin iratlarının takdirinde içerlerinde bulunan sabit
 istihsal tesisatı dahi nazara alınır.
-Yıllık irat:
 
 ### Akademik Yorum ve Analiz
 

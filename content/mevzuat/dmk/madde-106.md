@@ -20,7 +20,6 @@ işlendiği şekilde değiştirilmiştir.
 170
 
 Madde 107 – (Mülga: 31/5/2006 - 5510/106 md.)
-Aylıksız izin:172
 
 ### Bizim Yorumumuz
 

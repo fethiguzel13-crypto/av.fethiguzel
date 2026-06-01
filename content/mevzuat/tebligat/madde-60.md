@@ -15,9 +15,6 @@ bakanlıklarının görüşü alınmak suretiyle, Adalet Bakanlığı tarafında
 yönetmelikle belirlenir.
 15 Bu madde başlığı “Nizamname yapılması:” iken, 11/1/2011 tarihli ve 6099 sayılı Kanunun 12 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
-
-Diğer kanunlardaki atıflar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

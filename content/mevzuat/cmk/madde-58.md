@@ -26,7 +26,6 @@ Tanığın dinlenmesi sırasında ses ve görüntülü aktarma yapılır. Soru s
 güvenliğinin sağlanması hususunda alınacak önlemler, ilgili kanunda düzenlenir.
 (5) İkinci, üçüncü ve dördüncü fıkra hükümleri, ancak bir örgütün faaliyeti
 çerçevesinde işlenen suçlarla ilgili olarak uygulanabilir.
-Tanığa söylenecek şeyler ve sorulacak sorular
 
 ### Bizim Yorumumuz
 

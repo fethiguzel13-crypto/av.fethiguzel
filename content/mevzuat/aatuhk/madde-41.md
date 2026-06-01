@@ -70,7 +70,6 @@ sayılı Kanunun Mükerrer 66 ncı maddesine bakınız.
 
 ödemelerin; komisyonsuz veya komisyon karşılığı yapılma şekillerinden birini veya her
 ikisini birlikte kullandırmaya yetkilidir.14
-Çekle veya münakale emri ile ödemeye ait hususi hükümler:
 
 ### Bizim Yorumumuz
 

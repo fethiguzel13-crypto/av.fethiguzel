@@ -30,7 +30,6 @@ uygulanır.
 Bu maddede yer alan %85 oranını, hizmet alanları itibarıyla veya kazanç tutarına bağlı
 olarak ayrı ayrı veya birlikte %50’ye kadar indirmeye veya %100’e kadar artırmaya
 Cumhurbaşkanı, bu maddenin uygulamasına ilişkin usul ve esasları belirlemeye Maliye
-Bakanlığı yetkilidir.32
 
 ### Akademik Yorum ve Analiz
 

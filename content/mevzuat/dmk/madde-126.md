@@ -21,7 +21,6 @@ cezayı kabul veya reddeder. Ret halinde atamaya yetkili amirler 15 gün içinde
 disiplin cezası vermekte serbesttirler.
 Özel kanunların disiplin cezası vermeye yetkili amir ve kurullarla ilgili hükümleri
 saklıdır.
-Zamanaşımı:
 
 ### Bizim Yorumumuz
 

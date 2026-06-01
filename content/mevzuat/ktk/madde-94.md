@@ -22,7 +22,6 @@ Sayılı Kararı ile.)
 3672/4 md.)
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayanlar 1 800 000 lira para
 cezası ile cezalandırılırlar.
-Tazminatın azaltılması veya kaldırılması sonucunu doğuran haller:
 
 ### Bizim Yorumumuz
 

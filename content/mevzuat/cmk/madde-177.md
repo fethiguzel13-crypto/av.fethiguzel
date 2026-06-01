@@ -14,7 +14,6 @@ toplanmasını istediğinde, bunların ilişkin olduğu olayları göstermek sur
 dilekçesini duruşma gününden en az beş gün önce mahkeme başkanına veya hâkime verir.
 (2) Bu dilekçe üzerine verilecek karar, kendisine derhâl bildirilir.
 (3) Sanığın kabul edilen istemleri, Cumhuriyet savcısına da bildirilir.
-Çağrılması reddedilen tanığın ve uzman kişinin doğrudan mahkemeye getirilmesi
 
 ### Bizim Yorumumuz
 

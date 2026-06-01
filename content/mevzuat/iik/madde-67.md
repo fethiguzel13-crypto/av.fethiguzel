@@ -24,7 +24,6 @@ Birinci fıkrada yazılı itirazın iptali süresini geçiren alacaklının umum
 dairesinde alacağını dava etmek hakkı saklıdır.
 (Ek fıkra: 2/7/2012-6352/11 md.) Bu Kanunda öngörülen icra inkar tazminatı, kötü
 niyet tazminatı ve benzeri tazminatların tespitinde, takip talebi veya davadaki talep esas alınır.
-b) İtirazın kesin olarak kaldırılması:28
 
 ### Bizim Yorumumuz
 

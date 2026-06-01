@@ -14,7 +14,6 @@ Devlet Memurları için lüzum ve ihtiyaç görülen yerlerde çocuk bakımevi v
 tesisler kurulabilir.
 Bunların kuruluş ve işletme esas ve usulleri Devlet Personel Başkanlığı ile Maliye ve
 Gümrük Bakanlığınca birlikte hazırlanacak genel yönetmelikle belirlenir.
-Devlet memurları için konut kredisi:
 
 ### Bizim Yorumumuz
 

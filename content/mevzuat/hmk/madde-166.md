@@ -28,7 +28,6 @@ ikinci cümlesinde yer alan “…ve bu karar, diğer mahkemeyi bağlar.” ibar
 
 davalarda uyuşmazlığı doğuran asıl hukuki ilişkiye ait kararı inceleyen bölge adliye
 mahkemesi dairesinde yapılır.
-Davaların ayrılması
 
 ### Bizim Yorumumuz
 

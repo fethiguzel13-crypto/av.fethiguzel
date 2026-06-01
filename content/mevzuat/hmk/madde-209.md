@@ -24,7 +24,6 @@ sahteliği, ancak mahkeme kararıyla sabit olursa, bu senet herhangi bir işleme
 (3) Senede dayanılarak verilmiş olan ihtiyati tedbir, o senet hakkındaki sahtelik
 iddiasından etkilenmez ve gerektiğinde senet sahibi haklarının korunması için yeni tedbirler
 talep edebilir.
-Güvenli elektronik imzalı belgenin inkârı
 
 ### Bizim Yorumumuz
 

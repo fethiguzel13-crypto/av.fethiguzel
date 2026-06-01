@@ -20,7 +20,6 @@ tedbirleri alır veya istendiğinde tekrar verilmek üzere belgeyi ibraz edene g
 verilmesini talep edebilir. Bu takdirde hâkim, belgenin aslının verilip verilmeyeceğine karar
 verir. Geri verilmesine karar verildiğinde, aslına uygun olduğu mahkeme mührü ve yazı işleri
 müdürünün imzasıyla onanmış örneği dosyaya konur.
-Belge aslının ibrazı usulü
 
 ### Bizim Yorumumuz
 

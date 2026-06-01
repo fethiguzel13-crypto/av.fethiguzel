@@ -51,7 +51,6 @@ değildir.
 ilgili olduğu aktif veya pasif hesapla birlikte devrolunur.
 (5) Maliye Bakanlığı devir, bölünme ve hisse değişimi işlemleri ile ilgili usûlleri
 belirlemeye yetkilidir.
-Devir, bölünme ve hisse değişimi hallerinde vergilendirme
 
 ### Bizim Yorumumuz
 

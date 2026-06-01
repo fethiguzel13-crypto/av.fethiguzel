@@ -30,8 +30,6 @@ alan tedbirler, ilgili kolluk amirlerince de alınabilir. Kolluk amiri evrakı e
 alındığı tarihi takip eden ilk işgünü içinde mülkî amirin onayına sunar. Mülkî amir tarafından
 kırksekiz saat içinde onaylanmayan tedbirler kendiliğinden kalkar.
 
-Hâkim tarafından verilecek koruyucu tedbir kararları
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

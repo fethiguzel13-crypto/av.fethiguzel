@@ -21,9 +21,6 @@ cezasının miktarı bu menfaat veya zararın üç katından az olamaz.
 yüzde ellisi gelir kaydedilmek üzere YTM’ye aktarılır.
 (4) Bu Kanun uyarınca verilen idari para cezası kararlarına karşı idari yargı yoluna
 başvurulabilir.
-İKİNCİ BÖLÜM
-Sermaye Piyasası Suçları
-Bilgi suistimali
 
 ### Bizim Yorumumuz
 

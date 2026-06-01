@@ -14,7 +14,6 @@ bunların bir kısmından mahkûm olmuş ise, beraat ettiği suçların duruşma
 giderleri ödemekle yükümlü değildir.
 (2) İştirak halinde işlenmiş bir suç nedeniyle mahkûm edilmiş olanlara, sebebiyet
 verdikleri yargılama giderleri ayrı ayrı yükletilir.
-Beraat veya ceza verilmesine yer olmadığı kararı verilmesi hâlinde gider
 
 ### Bizim Yorumumuz
 

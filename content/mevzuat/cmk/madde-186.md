@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 186 – (1) Açıklığın kaldırılması kararı, nedenleriyle birlikte tutanağa geçirilir.
-Kapalı duruşmada bulunabilme
 
 ### Bizim Yorumumuz
 

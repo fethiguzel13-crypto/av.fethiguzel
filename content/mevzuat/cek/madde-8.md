@@ -30,7 +30,6 @@ bankanın sorumluluk tutarını ödeme yükümlülüğünü ortadan kaldırmaz. 
 aracılığıyla ibraz edilen çekin, hesapta yeterli karşılığının olmadığının belirlenmesi hâlinde
 muhatap banka tarafından, hesapta bulunan kısmî karşılık tutarı, çeki ibraz eden hamil lehine
 onbeş gün süreyle bloke edilir.
-Yürürlükten kaldırılan mevzuat
 
 ### Bizim Yorumumuz
 

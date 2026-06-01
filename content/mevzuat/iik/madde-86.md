@@ -20,7 +20,6 @@ iyi niyetle iktisabettiği haklar saklıdır.
 İyi niyet kaidelerine aykırı olarak mahcuz taşınır mal üzerinde üçüncü şahsın
 iktisabettiği, haklar, alacaklının hacizle o mala taallük eden haklarını ihlal ettiği nispette
 batıldır.
-Kıymet takdiri:
 
 ### Akademik Yorum ve Analiz
 

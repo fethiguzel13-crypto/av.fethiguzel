@@ -18,7 +18,6 @@ Acele hâllerde tanığın daha önce gelmesine karar verilebilir.
 (3) Tanığı davet, gerektiğinde telefon, faks, elektronik posta gibi araçlardan
 yararlanılmak suretiyle de yapılabilir. Ancak, davete rağmen gelmemeye bağlanan sonuçlar,
 bu durumda uygulanmaz.
-Davetiyenin içeriği
 
 ### Bizim Yorumumuz
 

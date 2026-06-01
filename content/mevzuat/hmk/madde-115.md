@@ -18,9 +18,6 @@ yokluğu sebebiyle usulden reddeder.
 (3) Dava şartı noksanlığı, mahkemece, davanın esasına girilmesinden önce fark
 edilmemiş, taraflarca ileri sürülmemiş ve fakat hüküm anında bu noksanlık giderilmişse,
 başlangıçtaki dava şartı noksanlığından ötürü, dava usulden reddedilemez.
-İKİNCİ AYIRIM
-İlk İtirazlar
-Konusu
 
 ### Bizim Yorumumuz
 

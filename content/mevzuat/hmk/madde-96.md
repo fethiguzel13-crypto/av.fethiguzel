@@ -15,7 +15,6 @@ engelin ortadan kalkmasından itibaren iki hafta içinde talep edilmelidir.
 hâle getirme talebinde bulunmak mümkündür. Ancak, nihai karar bir tarafın yokluğunda
 verilmişse, tahkikat aşamasında kaçırılan süreler için kararın verilmesinden sonra da eski hâle
 getirme talebinde bulunulabilir.
-Talebin şekli ve kapsamı
 
 ### Bizim Yorumumuz
 

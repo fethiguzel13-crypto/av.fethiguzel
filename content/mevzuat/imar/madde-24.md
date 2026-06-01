@@ -19,8 +19,6 @@ edilmiştir. Kararın Resmi Gazete'de yayımlanmasından başlayarak dokuz ay so
 yürürlüğe gireceği hüküm altına alınmıştır.
 28
 
-Yeminli serbest mimarlık ve mühendislik bürolarının sınıflandırılması:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

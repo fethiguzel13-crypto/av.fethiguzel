@@ -23,7 +23,6 @@ esnasında karşı tarafın da hazır bulunabileceği, varsa itiraz ve ilave sor
 bildirilmesi gerektiği belirtilir.
 (4) (Ek:22/7/2020-7251/44 md.) Tespitin yapılmasından sonra, tespit tutanağı ve
 varsa bilirkişi raporunun bir örneği mahkemece karşı tarafa resen tebliğ olunur.
-Acele hâllerde tespit
 
 ### Bizim Yorumumuz
 

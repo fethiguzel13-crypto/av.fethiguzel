@@ -28,8 +28,6 @@ Bu maddede yer alan “noter senetleri ve” ibaresi, 2/3/2005 tarihli ve 5311 s
 “noter sanetleri, istinaf ve” şeklinde değiştirilmiştir.
 22
 
-Zamanaşımı:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

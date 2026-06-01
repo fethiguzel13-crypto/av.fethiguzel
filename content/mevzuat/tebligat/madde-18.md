@@ -14,7 +14,6 @@ mektep, talebe yurdu gibi içine serbestçe girilemiyen veya arananın kolayca b
 mümkün olmıyan bir yerde bulunuyorsa, tebliğin yapılmasını o yeri idare eden veya
 muhatabın bulunduğu kısmın amiri temin eder. Bunlar tarafından muhatabın derhal
 buldurulması veya tebliğin temini mümkün olmazsa, tebliğ kendilerine yapılır.
-Mevkuf ve mahkümlara tebligat:
 
 ### Bizim Yorumumuz
 

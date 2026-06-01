@@ -35,8 +35,6 @@ ikinci fıkrasında yer alan “Bakanlığın teklifi ve Bakanlar Kurulu” ibar
 değiştirilmiştir.
 7
 
-Türk vatandaşlığının kaybettirilmesinin geçerliliği ve sonuçları
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

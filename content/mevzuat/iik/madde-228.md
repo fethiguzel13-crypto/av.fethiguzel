@@ -25,7 +25,6 @@ davası açması için yedi günlük bir mühlet tayin ve tebliğ eder. Bu mühl
 İstihkak davasına, genel hükümler dairesinde ve basit yargılama usulüne göre bakılır.
 İcra mahkemesi, icabında istihkak davacısından masanın muhtemel zararına karşı
 teminat istiyebilir.
-Masa alacaklarının tahsili, müstacel satış:
 
 ### Akademik Yorum ve Analiz
 

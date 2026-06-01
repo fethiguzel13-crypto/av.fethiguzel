@@ -22,7 +22,6 @@ Cumhurbaşkanlığı Kararnamesinde belirtilen diğer görevler.
 f) (Mülga: 2/7/2018/KHK/703/102 md.)
 g) (Ek: 28/11/2017-7061/95 md.;Mülga: 2/7/2018/KHK/703/102 md.)
 h) (Mülga: 2/7/2018/KHK/703/102 md.)
-Sanat Eserleri ve Yapı İşleri Daire Başkanlığı
 
 ### Bizim Yorumumuz
 

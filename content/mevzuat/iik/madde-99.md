@@ -20,7 +20,6 @@ davası açılmaz ise üçüncü kişinin iddiası kabul edilmiş sayılır. Ala
 açılan dava sonuçlanıncaya kadar, haczedilen malın satışı yapılamaz. Haczin, üçüncü kişinin
 yokluğunda yapılması ve üçüncü kişi lehine istihkak iddiasında bulunulması halinde de bu
 fıkra hükmü uygulanır.
-Hacze iştirak derecelerinin teşkili:
 
 ### Akademik Yorum ve Analiz
 

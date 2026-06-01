@@ -26,8 +26,6 @@ Bu madde başlığı “Bölge adliye mahkemesi Cumhuriyet savcısının görevi
 10/11/2016 tarihli ve 6758 sayılı Kanunun 14 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 117
 
-Dosya üzerinde ön inceleme
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

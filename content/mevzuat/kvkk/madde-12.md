@@ -28,9 +28,6 @@ yükümlülük görevden ayrılmalarından sonra da devam eder.
 hâlinde, veri sorumlusu bu durumu en kısa sürede ilgilisine ve Kurula bildirir. Kurul,
 gerekmesi hâlinde bu durumu, kendi internet sitesinde ya da uygun göreceği başka bir
 yöntemle ilan edebilir.
-DÖRDÜNCÜ BÖLÜM
-Başvuru, Şikâyet ve Veri Sorumluları Sicili
-Veri sorumlusuna başvuru
 
 ### Bizim Yorumumuz
 

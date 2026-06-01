@@ -15,7 +15,6 @@ maddede belirtilen esaslar çerçevesinde onaylanması ve 7 nci maddeye uygun ş
 edilmesi yeterlidir. Bu sürenin geçmesinden sonra yapılacak halka arzlarda izahnamenin
 
 tümünün onaylanması gereklidir.
-İzahnameden sorumlu kişiler
 
 ### Bizim Yorumumuz
 

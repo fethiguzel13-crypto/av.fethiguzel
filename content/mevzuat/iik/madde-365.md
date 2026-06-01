@@ -36,8 +36,6 @@ Kanunun 1 inci maddesiyle bu ibare“elli sekiz bin sekiz yüz” şeklinde değ
 talebini reddetmesi:” iken, metne işlendiği şekilde değiştirilmiştir.
 135
 
-Bölge adliye mahkemesi ve Yargıtay kararları140
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

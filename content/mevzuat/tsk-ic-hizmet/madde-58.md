@@ -20,7 +20,6 @@ kullanımının önlenmesi, iş sağlığı ve güvenliği, okul sağlığı, sa
 ilişkin diğer tedbirler alınır.
 Askerî sağlık hizmetleri; göreve uyarlık ve elverişlilik kontrolleri ile periyodik veya
 zorunlu kontrolleri, sağlık raporu kontrolünü, tıbbi tehditlerin önlenmesini ve ortadan
-kaldırılmasını, tahliye, tedavi, sağlık lojistiği ve askerî sağlığa ilişkin diğer ihtiyaçları kapsar.
 
 ### Bizim Yorumumuz
 

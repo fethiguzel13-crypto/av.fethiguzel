@@ -19,7 +19,6 @@ sonucunda soruşturma raporundaki görüşlerinde bir değişiklik olması halin
 yazılı görüşlerini tüm Kurul üyeleri ile ilgili taraflara bildirir. Taraflar 30 gün içinde bu
 görüşe cevap verebilirler.
 Tarafların süresi içinde verilmeyen savunmaları dikkate alınmaz.
-Sözlü Savunma Toplantısı
 
 ### Bizim Yorumumuz
 

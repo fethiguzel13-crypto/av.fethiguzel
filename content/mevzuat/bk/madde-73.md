@@ -89,7 +89,6 @@ bilgilerin öğrenilmesi sır saklama yükümlülüğü dışındadır.
 (Ek fıkra:20/2/2020-7222/10 md.) Sır niteliğindeki bilgilerin, üçüncü ve dördüncü
 fıkralar uyarınca yapılacak paylaşım ve aktarımlarına ilişkin kapsam, şekil, usul ve esasları
 belirlemeye veya bunlara ilişkin sınırlamalar getirmeye Kurul yetkilidir.
-İtibarın korunması
 
 ### Bizim Yorumumuz
 

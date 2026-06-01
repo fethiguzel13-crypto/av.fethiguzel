@@ -43,7 +43,6 @@ nitelikte görülürse, isteğinin yerine getirilmesine karar verilerek bu karar
 işlenir.
 Kademe ilerlemesinin durdurulması cezasının özlük dosyasından çıkarılmasında
 disiplin kurulunun mütalaası alındıktan sonra yukarıdaki fıkra hükmü uygulanır.
-Disiplin kurulları ve disiplin amirleri:
 
 ### Bizim Yorumumuz
 

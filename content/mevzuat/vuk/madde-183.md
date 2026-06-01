@@ -16,7 +16,6 @@ numaralı olur. Mükellefler diledikleri takdirde yevmiye defteri ve tutulması 
 defterlerini müteharrik yapraklı olarak kullanabilirler.
 
 (Üçüncü fıkra mülga: 4/12/1985-3239/16 md.)
-Defterikebir:
 
 ### Bizim Yorumumuz
 

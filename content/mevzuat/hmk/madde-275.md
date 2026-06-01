@@ -17,7 +17,6 @@ mahkemeye bildirir.
 (2) Bilirkişi, incelemesini gerçekleştirebilmek için, bazı hususların önceden soruşturulması
 ve tespiti ile bazı kayıt ve belgelerin getirtilmesine ihtiyaç duyuyorsa, bunun sağlanması için, bir
 hafta içinde kendisini görevlendiren mahkemeye bilgi verir ve talepte bulunur.
-Bilirkişinin görevini bizzat yerine getirme yükümlülüğü
 
 ### Bizim Yorumumuz
 

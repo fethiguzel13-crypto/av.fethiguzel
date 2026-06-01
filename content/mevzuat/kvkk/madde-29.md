@@ -17,7 +17,6 @@ b) Kuruma ait taşınır ve taşınmazlardan elde edilen gelirler.
 c) Alınan bağış ve yardımlar.
 ç) Gelirlerinin değerlendirilmesinden elde edilen gelirler.
 d) Diğer gelirler.
-Değiştirilen ve eklenen hükümler
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ Kurumuna bildirmekle yükümlüdür. Çocuk ile çocuğun bakımından sorumlu k
 başvurabilir.
 (2) Sosyal Hizmetler ve Çocuk Esirgeme Kurumu kendisine bildirilen olaylarla ilgili
 olarak gerekli araştırmayı derhâl yapar.
-Koruyucu ve destekleyici tedbir kararı alınması
 
 ### Bizim Yorumumuz
 

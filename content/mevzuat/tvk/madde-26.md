@@ -19,7 +19,6 @@ bu süre içerisinde yurt içinde ikamet edilen yer valiliğine, yurt dışında
 yabancı devlet vatandaşlığını kazandıklarına dair bilgi ve belgeleri vermek zorundadır. Süresi
 içinde yabancı devlet vatandaşlığının kazanılamaması durumunda çıkma izin belgesi geçersiz
 hale gelir.
-Türk vatandaşlığından çıkmanın geçerliliği ve sonuçları
 
 ### Bizim Yorumumuz
 

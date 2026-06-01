@@ -19,7 +19,6 @@ gerekçeli bilgi verilir.
 (3) Başvuruda sunulan belgelere dayalı olarak, eğitimin amacına ulaşacağı ve eğitim
 kuruluşlarında eğitim faaliyetinin devamlılığının sağlanacağı tespit edilirse, ilgili eğitim
 kuruluşuna en çok üç yıl için geçerli olmak üzere izin verilir.
-İzin süresinin uzatılması
 
 ### Bizim Yorumumuz
 

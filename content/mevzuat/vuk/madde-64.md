@@ -17,7 +17,6 @@ yüzünden tarıma elverişsiz hale gelmesi;
 4. Tarım yapılmıyan bir arazinin tarıma elverişli hale getirilmesi;
 5. Arazinin üzerine veya altına inşaat yapılması;
 6. Arazinin parsellenmek suretiyle arsalar haline getirilmesi.
-Mevzii ve ferdi tadilat:
 
 ### Bizim Yorumumuz
 

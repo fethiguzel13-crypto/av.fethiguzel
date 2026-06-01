@@ -29,7 +29,6 @@ yapılan haciz borçlunun yarı mevcudunun elinden çıkmasına sebep olup da ka
 
 vadesi bir sene içinde hülül edecek diğer borçlarını ödemeye yetişmiyorsa borçlu derhal
 aczini bildirerek iflasını istemeye mecburdur.
-Sermaye şirketleri ile kooperatiflerin iflâsı:68
 
 ### Akademik Yorum ve Analiz
 

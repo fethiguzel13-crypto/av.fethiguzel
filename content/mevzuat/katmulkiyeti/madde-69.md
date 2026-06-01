@@ -34,7 +34,6 @@ bölüm maliklerince seçilen temsilcilerden oluşur. Toplu yapı temsilciler ku
 sayısı ve nasıl seçileceği toplu yapının özelliği dikkate alınarak yönetim plânında belirtilir.
 Toplu yapı temsilciler kurulunda bu yöneticiler ve temsilciler yönettikleri ve temsil ettikleri
 bağımsız bölüm sayısı kadar oy hakkına sahiptirler.
-Yönetim plânı ve değiştirilmesi
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ temyiz olunan bölge adliye veya ilk derece mahkemesi bir karar ile temyiz istem
 (2) Temyiz eden, ret kararının kendisine tebliğinden itibaren iki hafta içinde
 Yargıtaydan bu hususta bir karar vermesini isteyebilir. Bu takdirde dosya Yargıtaya gönderilir.
 Ancak, bu nedenden dolayı hükmün infazı ertelenemez.135
-Temyiz dilekçesinin tebliği ve cevabı, Yargıtay Cumhuriyet Başsavcılığının görevi
 
 ### Bizim Yorumumuz
 

@@ -33,7 +33,6 @@ kullanmak suretiyle ahlak ve adaba aykırı harekette bulunması.
 konusunda kat maliklerince alınan dava açma kararının öğrenilmesi tarihinden başlayarak altı
 ay ve her halde dava hakkının doğumundan başlayarak beş yıl içinde kullanılmazsa veya dava
 sebebi ortadan kalkmışsa düşer.
-B) Kat irtifakı sahiplerinin borçları:
 
 ### Bizim Yorumumuz
 

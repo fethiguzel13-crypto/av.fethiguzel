@@ -24,7 +24,6 @@ c) Sanığa, yüklenen suç hakkında açıklamada bulunmamasının kanunî hakk
 147 nci maddede belirtilen diğer hakları bildirilir,
 d) Sanık açıklamada bulunmaya hazır olduğunu bildirdiğinde, usulüne göre sorgusu
 yapılır.
-Başkan veya hâkimin görevi
 
 ### Bizim Yorumumuz
 

@@ -21,7 +21,6 @@ Aile, Çalışma ve Sosyal Hizmetler Bakanlığı il müdürlüklerine teslim ed
 c) Refakatsiz çocuğun görüşü dikkate alınarak Aile, Çalışma ve Sosyal Hizmetler
 Bakanlığı tarafından, uygun konaklama yerlerine veya yetişkin akrabalarının veya koruyucu
 bir ailenin yanına yerleştirilir.
-Özel ihtiyaç sahipleri
 
 ### Bizim Yorumumuz
 

@@ -23,7 +23,6 @@ evrakın ve mümkünse elde edilmiş olan her türlü delilin bir nüshasının 
 isteyebilir.
 Kurul, tarafları bilgilendirmediği ve savunma hakkı vermediği konuları kararlarına
 dayanak yapamaz.
-Tebligat ve Cevap Verme
 
 ### Bizim Yorumumuz
 

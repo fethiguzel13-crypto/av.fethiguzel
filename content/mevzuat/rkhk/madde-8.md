@@ -15,7 +15,6 @@ Kanunun 4, 6 ve 7 nci maddelerine aykırı olmadığını gösteren bir menfi te
 Kurul, bu belgenin düzenlenmesinden sonra 13 üncü maddedeki şartlar çerçevesinde
 görüşünden her zaman dönebilir. Ancak bu durumda taraflara Kurulun görüş değiştirmesine
 kadar geçen süre için cezai müeyyide uygulanmaz.
-İhlale Son Verme
 
 ### Bizim Yorumumuz
 

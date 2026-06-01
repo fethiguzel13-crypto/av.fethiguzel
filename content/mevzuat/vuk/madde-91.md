@@ -15,7 +15,6 @@ Takdir, tadilat ve zirai kazançlar il komisyonlarına seçilen üyelerin görev
 yıldır. Bunları seçen daire, meclis ve mesleki teşekküllerin seçimlerinin yenilenmesi bu
 üyelerin görev sürelerini kısaltmaz.
 Süreleri dolanların yeniden seçilmesi caizdir.
-Ücretler:
 
 ### Bizim Yorumumuz
 

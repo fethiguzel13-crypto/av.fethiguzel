@@ -16,7 +16,6 @@ yapma izni verebilir.
 (Değişik: 17/10/1996-4199/40 md.) Çocuk trafik eğitim parklarının yapılma, açılma,
 eğitim, denetim ve çalışma esasları ile diğer hususlar İçişleri, Bayındırlık ve İskan Bakanlıklarının
 görüşleri alınarak Milli Eğitim Bakanlığınca çıkarılacak Yönetmelikle düzenlenir.
-Okul, radyo ve televizyonlarda trafik eğitimi:86
 
 ### Bizim Yorumumuz
 

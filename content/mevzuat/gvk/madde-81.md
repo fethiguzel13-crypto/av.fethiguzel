@@ -76,7 +76,6 @@ elden çıkarıldığı ay hariç olmak üzere Devlet İstatistik Enstitüsünce
 fiyat endeksindeki artış oranında artırılarak tespit edilir. (Ek cümle: 30/12/2004-5281/28
 md.) Şu kadar ki, bu endekslemenin yapılabilmesi için artış oranının % 10 veya üzerinde
 olması şarttır.
-Arızi kazançlar
 
 ### Bizim Yorumumuz
 

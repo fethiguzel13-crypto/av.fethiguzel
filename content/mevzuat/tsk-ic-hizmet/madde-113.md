@@ -24,7 +24,6 @@ c) (Mülga: 25/7/2016-KHK-669/10 md.; Aynen kabul: 9/11/2016-6756/10 md.)
 d) Bütün askeri öğrencilerin yalnız kendileri bu kanunun (G) bölümünde belirtilen
 sağlık işleri ile ilgili hükümlerden ve şehiriçi ve şehirlerarası seyahatten emsali sivil talebeler
 gibi tenzilatlı tarifeden istifade ederler. (J) bölümünde gösterilen hükümler dahilinde nöbet
-hizmetlerine sokulabilirler.
 
 ### Bizim Yorumumuz
 

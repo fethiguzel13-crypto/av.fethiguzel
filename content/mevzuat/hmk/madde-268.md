@@ -31,7 +31,6 @@ Kanunun 156 ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
 (3) Kanunların görüş bildirmekle yükümlü kıldığı kişi ve kuruluşlara görevlendirildikleri
 konularda bilirkişi olarak öncelikle başvurulur. Ancak kamu görevlilerine, bağlı bulundukları
 kurumlarla ilgili dava ve işlerde, bilirkişi olarak görev verilemez.
-Bilirkişilik görevinin kapsamı
 
 ### Bizim Yorumumuz
 

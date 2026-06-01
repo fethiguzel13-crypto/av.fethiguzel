@@ -19,7 +19,6 @@ adresi yoksa; yetkili mahkeme, Adalet Bakanının istemi ve Yargıtay Cumhuriyet
 başvurusu üzerine Yargıtay tarafından belirlenir.
 (4) Yabancı ülkelerde bulunup da diplomatik bağışıklıktan yararlanan Türk kamu
 görevlilerinin işledikleri suçlardan dolayı yetkili mahkeme Ankara mahkemesidir.
-Deniz, hava ve demiryolu taşıtlarında veya bu taşıtlarla işlenen suçlarda yetki
 
 ### Bizim Yorumumuz
 

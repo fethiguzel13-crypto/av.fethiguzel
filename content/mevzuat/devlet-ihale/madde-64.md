@@ -21,7 +21,6 @@ alınması şarttır. Katma bütçeli idarelerde bu izin, idarelerin bağlı bul
 alınır. Özel İdare ve belediyeler için kendi özel kanunları uygulanır.
 Üç yıldan fazla süre ile kiraya verme işlerinde, kira bedeli her yıl şartname ve
 sözleşmesindeki esaslara göre yeniden tespit edilir.
-Su ürünleri istihsali hakkı kiralarında süre:
 
 ### Bizim Yorumumuz
 

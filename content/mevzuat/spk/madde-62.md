@@ -25,7 +25,6 @@ uluslararası standartlara uyumunun sağlanması amacıyla düzenleme, gözetim 
 yapar. Bu kuruluşların yetkilendirilmesi, yönetici ve çalışanlarının lisanslanması ve bu
 kuruluşlar hakkındaki sicil bilgileri ile bu bilgilerin kamuya açıklanmasına ilişkin usul ve
 esaslar Kurul tarafından belirlenir.
-Sorumluluk
 
 ### Bizim Yorumumuz
 

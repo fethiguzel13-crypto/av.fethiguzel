@@ -35,7 +35,6 @@ Bu maddede yazılı fiiller sebebiyle bir yıl içinde üç defa faaliyetten men
 işyerlerinde, bu fiiller tekrar işlendiği takdirde, işyeri açma ve çalışma ruhsatları, mahallin en
 büyük mülkî amirinin bildirimi üzerine, belediye veya il özel idaresi tarafından beş iş günü
 içinde iptal edilir.
-Önleme araması
 
 ### Bizim Yorumumuz
 

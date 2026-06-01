@@ -17,7 +17,6 @@ usul ve esaslar Bakanlıkça düzenlenir.2223
 (2) (Mülga:6/12/2019-7196/83 md.)
 (3) Kimlik belgesinin şekli ve içeriği Genel Müdürlükçe belirlenir.
 (4) Kimlik belgesi, hiçbir harca tabi olmayıp ikamet izni yerine geçer.
-Başvurunun geri çekilmesi veya geri çekilmiş sayılması
 
 ### Bizim Yorumumuz
 

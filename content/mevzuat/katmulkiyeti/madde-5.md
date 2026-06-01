@@ -23,7 +23,6 @@ Kat mülkiyetini kayıtlayan haklar, kendiliğinden arsa payını da kayıtlar.
 Kat irtifakına konu olan arsa üzerinde bu hakla bağdaşması mümkün olmayan irtifaklar kurulamaz.
 Anagayrimenkulde kat mülkiyetinin kurulmasından önce o gayrimenkulün kütükteki
 sayfasına tescil veya şerhedilmiş olan haklar kat mülkiyetini de, kaide olarak arsa payı oranında, kendiliğinden kayıtlar.
-II - Bağımsız bölümlerle eklentiler ve ortak yerler arasındaki bağlantı:
 
 ### Bizim Yorumumuz
 

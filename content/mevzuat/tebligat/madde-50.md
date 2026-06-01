@@ -15,9 +15,6 @@ mahalli mülkiye amiri vasıtasıyla yaptırılır
 Adresin tesbit olunamaması veya tebellüğden imtina hallerinde tebligat, bu kanunun
 umumi hükümleri dairesinde yapılır.
 
-
-Diğer mali tebligat:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

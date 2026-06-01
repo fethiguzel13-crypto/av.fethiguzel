@@ -29,7 +29,6 @@ mükellefiyet türü ile düzeltmeye konu tutarı ayrı ayrı veya birlikte dikk
 yetkisinin devredilmesi ile düzeltmenin bağlı olunan vergi dairesi dışındaki vergi daireleri
 tarafından yapılmasına izin vermeye ve uygulamaya ilişkin usul ve esasları belirlemeye
 yetkilidir.
-Re'sen düzeltme:
 
 ### Bizim Yorumumuz
 

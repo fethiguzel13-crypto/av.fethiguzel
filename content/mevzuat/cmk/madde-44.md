@@ -17,7 +17,6 @@ md.) Zorla getirme kararı; telefon, telgraf, faks, elektronik posta gibi ileti�
 bulunması hâlinde bu araçlardan yararlanılmak suretiyle de tanığa bildirilir.
 (2) Fiilî hizmette bulunan askerler hakkındaki zorla getirme kararı askerî makamlar
 aracılığıyla infaz olunur.
-Tanıklıktan çekinme
 
 ### Bizim Yorumumuz
 

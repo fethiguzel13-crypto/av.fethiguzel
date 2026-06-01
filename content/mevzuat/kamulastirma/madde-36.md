@@ -15,7 +15,6 @@ sağlanmasından sonra, kamulaştırılan yer için herhangi bir nedenle gerçek
 yeniden tapu tesis edildiği takdirde, idarenin isteği üzerine hakim, evrak üzerinde ve lüzum
 gördüğü takdirde mahallinde inceleme yaparak sonraki kaydın iptali hakkında bir karar verir.
 Bu işlemler harca ve resme bağlı değildir.
-Yetkili ve görevli mahkeme ve yargılama usulü
 
 ### Bizim Yorumumuz
 

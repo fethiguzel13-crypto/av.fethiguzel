@@ -60,7 +60,6 @@ göre ilgili idarece verilecek esaslar dahilinde gayrimenkulün içinde, lüzuml
 mecburidir. Bu bağlantılar mal sahibi tarafından ilgili idarece yapılacak tebligatla verilecek
 müddet zarfında yaptırılmadığı takdirde ilgili idare tarafından yıktırılır.
 Yeminli serbest mimarlık ve mühendislik bürolarının kuruluşu, yetki alanları ve
-sorumlulukları:
 
 ### Bizim Yorumumuz
 

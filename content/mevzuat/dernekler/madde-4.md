@@ -27,7 +27,6 @@ h) Üyelerin ödeyecekleri giriş ve yıllık aidat miktarının belirlenme şek
 j) Derneğin iç denetim şekilleri.
 k) Tüzüğün ne şekilde değiştirileceği.
 l) Derneğin feshi halinde mal varlığının tasfiye şekli.
-Uluslararası faaliyet
 
 ### Bizim Yorumumuz
 

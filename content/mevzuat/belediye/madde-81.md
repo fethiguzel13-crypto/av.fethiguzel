@@ -14,7 +14,6 @@ tanıtıcı amblem, flama ve benzerlerinin tespitine ilişkin kararlarda; beledi
 tam sayısının salt çoğunluğu, bunların değiştirilmesine ilişkin kararlarda ise meclis üye tam
 sayısının üçte iki çoğunluğunun kararı aranır. Bu kararlar mülkî idare amirinin onayı ile
 yürürlüğe girer.
-Avukatlık ücretinin dağıtımı
 
 ### Bizim Yorumumuz
 

@@ -57,7 +57,6 @@ Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumunun Teşkilat ve Görevl
 Hakkında Kanun Hükmünde Kararname hükümleri uygulanır.
 (Ek fıkra:6/12/2018-7155/13 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esaslar Adalet Bakanlığınca yürürlüğe konulan yönetmelikle belirlenir.
-Geçici mühlet:87
 
 ### Bizim Yorumumuz
 

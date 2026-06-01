@@ -37,9 +37,6 @@ kolluk görevlisinin iş yeri adresine tebliğ edilir. Bu kişilere ait ifade ve
 adres olarak iş yeri adresleri gösterilir.
 İKİNCİ KISIM
 Kamu Davasının Açılması
-BİRİNCİ BÖLÜM
-Kamu Davasının Açılması
-Kamu davasını açma görevi
 
 ### Bizim Yorumumuz
 

@@ -437,9 +437,6 @@ tekerrür hesaplamalarında dikkate alınmaz.
 Ek Geçici Madde – (Ek: 27/8/1991 – 3759/2 md.)
 Trafik hizmetlerinin yurt sathında yürütülmesi için gerekli personel, araç ve gereçler
 Emniyet Genel Müdürlüğünce 2 yıl içinde sağlanır.
-ONÜÇÜNCÜ KISIM
-Kaldırılan Hükümler, Yürürlük ve Yürütme
-Yürürlükten kaldırılan hükümler:
 
 ### Bizim Yorumumuz
 

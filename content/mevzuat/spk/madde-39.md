@@ -41,7 +41,6 @@ madde kapsamında yürütecekleri yatırım hizmet ve faaliyetlerine ilişkin us
 Kurulca belirlenir. İşbu hizmet ve faaliyetlerde Kurul, sermaye piyasası araçlarının ve
 Bankacılık Düzenleme ve Denetleme Kurulunun görüşüyle bankaların niteliklerine göre farklı
 usul ve esaslar belirleyebilir.
-Yetki belgesi
 
 ### Bizim Yorumumuz
 

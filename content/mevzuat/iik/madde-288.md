@@ -21,7 +21,6 @@ gerektiren bir hâl bulunmadığını delilleriyle birlikte ileri sürebilecekle
 mahkemeden konkordato talebinin reddini isteyebilecekleri belirtilir.
 Geçici mühletin uzatılmasına ve geçici mühletin kaldırılarak konkordato talebinin
 reddine ilişkin kararlar da ikinci fıkra uyarınca ilân olunur ve ilgili yerlere bildirilir.
-Kesin mühlet:89
 
 ### Bizim Yorumumuz
 

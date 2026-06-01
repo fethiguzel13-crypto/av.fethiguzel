@@ -86,7 +86,6 @@ Yönetim ve denetimi Fon tarafından devir alınmamış şirketlere Fon tarafın
 yönetim ve denetim kurulu üyeleri ile müdürler, ortaklar genel kurulunca görevden
 alınamayacağı gibi, ibra edilmeyerek haklarında görev yaptıkları dönem veya dönemler
 dışında şahsi sorumluluk davası açılamaz.
-Fon Kurulu kararlarına karşı yargı yolu
 
 ### Bizim Yorumumuz
 

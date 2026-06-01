@@ -71,7 +71,6 @@ yokluğu halinde görev ve yetkileri, adli yargı ilk derece mahkemesi adalet ko
 tarafından görevlendirilecek yazı işleri müdürü veya zabıt katibi tarafından yerine getirilir.
 Adalet Bakanlığı, icra dairelerini bir arada bulundurmaya ve aynı icra mahkemesine
 bağlamaya yetkilidir.
-İflas daireleri:
 
 ### Bizim Yorumumuz
 

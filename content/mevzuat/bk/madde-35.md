@@ -28,7 +28,6 @@ Merkez Bankası tarafından kurulmuş ya da Merkez Bankası bünyesinde faaliyet
 gösterenler ile Sermaye Piyasası Kurulunun denetiminde bulunan takas, saklama ve merkezi
 kayıt hizmeti kuruluşları bu Kanunun uygulamasında destek hizmeti kuruluşu olarak
 değerlendirilmez.
-Sorumluluk sigortası
 
 ### Bizim Yorumumuz
 

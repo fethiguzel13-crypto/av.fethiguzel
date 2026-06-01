@@ -23,7 +23,6 @@ on yıldır.” bölümü anılan fıkranın (e) bendi yönünden iptal edilmiş
 
 kendiliğinden inceler.
 (2) Bu koşullardan biri eksik ise hâkim davayı esasa girmeden reddeder.
-Yeniden yargılama veya hükmün iptali
 
 ### Bizim Yorumumuz
 

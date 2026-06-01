@@ -48,7 +48,6 @@ Milli piyango bileti, akaryakıt, şeker ve bunlar gibi kar hadleri emsallerine 
 bariz şekilde düşük olarak tespit edilmiş bulunan emtia için, bu maddenin 1 ve 3 numaralı
 bentlerinde yazılı hadler yerine ilgili bakanlıkların mütalaası alınmak suretiyle, Maliye
 Bakanlığınca belirlenecek alım satım hadleri uygulanır.5758
-Özel şartlar gösterilmiyen işler;
 
 ### Akademik Yorum ve Analiz
 

@@ -25,7 +25,6 @@ Babının Sekizinci Faslında düzenlenen her türlü delil ve ispat vasıtasın
 Oturumlara bu Kanunu ihlal ettiği iddia edilen taraflar veya bunların temsilcileri ile doğrudan
 ya da dolaylı menfaati olduğunu oturumdan önce Kurula ispatlayanlar ya da onların
 temsilcileri katılabilir.
-Nihai Karar
 
 ### Bizim Yorumumuz
 

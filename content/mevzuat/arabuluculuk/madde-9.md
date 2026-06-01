@@ -19,9 +19,6 @@ bu görevi üstlenebilir yahut üstlenmiş olduğu görevi sürdürebilir.
 (4) Arabulucu, bu sıfatla görev yaptığı uyuşmazlıkla ilgili olarak açılan davada, daha
 sonra taraflardan birinin avukatı olarak görev üstlenemez.
 
-
-Reklam yasağı
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

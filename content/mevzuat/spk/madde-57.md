@@ -30,7 +30,6 @@ nitelikleri haiz değerleme kuruluşları tarafından değerleme yapılmasını 
 ilgili usul ve esasları; Gümrük ve Ticaret Bakanlığı ise konut finansmanı ve varlık finansmanı
 kapsamında tüketicilere kullandırılan kredilerin veya alacakların yeniden finansmanına ilişkin
 usul ve esasları belirlemeye yetkilidir.
-Konut ve varlık finansmanı fonları
 
 ### Bizim Yorumumuz
 

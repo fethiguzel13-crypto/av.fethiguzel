@@ -21,7 +21,6 @@ yetkilidir.
 Genel Müdür bu yetkisini kısmen veya tamamen Genel Müdür yardımcılarına, I.
 Hukuk Müşavirine veya bölge müdürlerine devredebilir.
 Bu maddenin uygulanmasına ve miktarların tespitine ilişkin hususlar Meclisçe belirlenir.
-Değiştirilen hükümler
 
 ### Bizim Yorumumuz
 

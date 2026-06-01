@@ -20,9 +20,6 @@ yetkili kılınmış olması koşuluna bağlıdır.
 vazgeçildiğinde şüpheli veya sanık ile müdafiin iradesi çelişirse müdafiin iradesi geçerli sayılır.
 İKİNCİ KISIM
 Olağan Kanun Yolları
-BİRİNCİ BÖLÜM
-İtiraz
-İtiraz olunabilecek kararlar
 
 ### Bizim Yorumumuz
 

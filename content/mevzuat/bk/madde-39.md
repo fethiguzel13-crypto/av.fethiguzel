@@ -20,7 +20,6 @@ Bankaların genel kurullarına sunacağı yıllık finansal raporların bağıms
 kuruluşlarınca onaylanması şarttır.
 Bankalar, düzenleyecekleri finansal raporlarını, Kurulun belirleyeceği usûl ve esaslar
 çerçevesinde ilgili mercilere sunmak ve ilân etmek zorundadırlar.
-Yıllık faaliyet raporu
 
 ### Bizim Yorumumuz
 

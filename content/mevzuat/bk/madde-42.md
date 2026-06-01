@@ -17,9 +17,6 @@ yazıların makine ile alınmış, tarih ve numara sırası verilerek düzenlene
 maddenin uygulanmasına ilişkin usûl ve esaslar Kurulca belirlenir.
 DÖRDÜNCÜ KISIM
 Koruyucu Hükümler
-BİRİNCİ BÖLÜM
-Özkaynaklar ve Standart Oranlar
-Koruyucu düzenlemeler
 
 ### Bizim Yorumumuz
 

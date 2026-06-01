@@ -30,7 +30,6 @@ aylığı olarak ödenir.270
 (Değişik: 22/8/1989 – KHK-378/4 md) Açıktan vekil olarak atananlar bu Kanunla
 memurlara tanınan sosyal haklardan da yararlanırlar ve bunlara ödenecek vekalet aylığının
 hesabına memuriyet taban aylığı da dahil edilir.
-Ders ve konferans ücretleri:
 
 ### Bizim Yorumumuz
 

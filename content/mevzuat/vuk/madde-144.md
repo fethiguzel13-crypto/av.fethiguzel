@@ -22,7 +22,6 @@ husustaki yazılı isteği yetkililerce derhal yerine getirilir.
 beyannamesinin verileceği tarihe kadar olan süre bir aydan az ise beyanname verme süresi
 kendiliğinden bir ay uzar ve ek süre bu müddetin sonundan başlar. (13 üncü maddenin 1 - 3
 üncü fıkralariyle 17 inci madde hükümleri saklıdır.)
-İncelemenin bitmesi:
 
 ### Bizim Yorumumuz
 

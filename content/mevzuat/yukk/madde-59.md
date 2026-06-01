@@ -22,7 +22,6 @@ d) Çocukların eğitim ve öğretimden yararlandırılmaları hususunda, Millî
 Bakanlığınca gerekli tedbirler alınır.
 (2) Göç alanında uzmanlığı bulunan ilgili sivil toplum kuruluşu temsilcileri, Genel
 Müdürlüğün izniyle geri gönderme merkezlerini ziyaret edebilirler.
-Sınır dışı etme kararının yerine getirilmesi
 
 ### Bizim Yorumumuz
 

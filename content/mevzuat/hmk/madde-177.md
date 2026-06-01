@@ -25,7 +25,6 @@ kaldırılamaz.
 (3) Islah, sözlü veya yazılı olarak yapılabilir. Karşı taraf duruşmada hazır değilse veya
 ıslah talebi duruşma dışında yapılıyorsa, bu yazılı talep veya tutanak örneği, haber vermek
 amacıyla karşı tarafa bildirilir.
-Islah sebebiyle ortaya çıkan yargılama giderleri ve karşı tarafın zararının ödenmesi
 
 ### Bizim Yorumumuz
 

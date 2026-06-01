@@ -25,8 +25,6 @@ işlendikleri şekilde değiştirilmiştir. Daha sonra 23/1/2008 tarihli ve 5728
 “Vergi ziyaı suçu ve cezası” iken, metne işlendiği şekilde değiştirilmiştir.
 114
 
-Teşvik:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

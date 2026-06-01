@@ -26,9 +26,6 @@ gibi, bildirim yapan kişiler bakımından hukuki ve cezai sorumluluk da doğurm
 DÖRDÜNCÜ KISIM
 Sermaye Piyasalarında Borsalar,
 Türkiye Sermaye Piyasaları Birliği ve Diğer Kurumlar
-BİRİNCİ BÖLÜM
-Borsalar
-Borsalar ve piyasa işleticileri
 
 ### Bizim Yorumumuz
 

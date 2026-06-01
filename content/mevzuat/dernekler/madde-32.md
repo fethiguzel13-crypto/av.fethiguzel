@@ -109,7 +109,6 @@ rağmen yedi gün içerisinde sonlandırmayan dernek yöneticilerine bin beş y�
 para cezası verilir. Mülki idare amirince yapılan ikinci yazılı uyarıya rağmen otuz gün içinde
 bu kişilerin organlardaki görevlerinin sonlandırılmaması hâlinde Türk Medenî Kanununun 89
 uncu maddesine göre işlem tesis edilir.
-Cezaların uygulanması
 
 ### Bizim Yorumumuz
 

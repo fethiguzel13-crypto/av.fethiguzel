@@ -22,7 +22,6 @@ yardımcı olan bir toplumdur.Karargahlar bir kuruluş ve kadro ile tesbit edili
 c) (Değişik: 2/1/2017-KHK-681/2 md.; Aynen kabul: 1/2/2018-7073/2 md.) Askeri
 kurum: Kıta ve karargah anlamı dışında kalan okul, ordu evi, dikim evi, fabrika, tersane,
 askerlik şubesi, ikmal merkezi ve depo gibi askeri tesis ve teşkillerdir.
-II - Disiplin
 
 ### Bizim Yorumumuz
 

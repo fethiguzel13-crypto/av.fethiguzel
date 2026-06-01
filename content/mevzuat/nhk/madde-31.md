@@ -31,8 +31,6 @@ bir taşıt içinde olmuşsa bu taşıttan çıkarıldığı yerin nüfus müdü
 edildiği takdirde doğum tutanağı düzenlenerek aile kütüğüne önce doğum, sonra ölüm olayı
 işlenir.
 
-Ölüm karinesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

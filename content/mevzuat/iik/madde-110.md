@@ -26,8 +26,6 @@ verilecek karar gereği gerekli gider onbeş gün içinde depo edilmezse veya”
 çıkarılmıştır.
 44
 
-Taksitle ödeme:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

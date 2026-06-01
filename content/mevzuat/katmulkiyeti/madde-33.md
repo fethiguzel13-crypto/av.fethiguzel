@@ -23,7 +23,6 @@ tesbit edeceği kısa bir süre içinde yerine getirilmesi lüzumunu ilgiliye te
 kararını yerine getirmeyenlere, aynı mahkemece, ikiyüz elli Türk Lirasından ikibin Türk Lirasına kadar idarî para cezası verilir. 25 inci madde hükmü saklıdır.
 
 D) Yönetici:
-I - Atanması:
 
 ### Bizim Yorumumuz
 

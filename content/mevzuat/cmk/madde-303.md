@@ -30,7 +30,6 @@ g) Türk Ceza Kanununun 61 inci maddesindeki sıralamanın gözetilmemesi yüzü
 eksik veya fazla ceza verilmiş ise.
 h) Harçlar Kanunu ile yargılama giderlerine ilişkin hükümlere ve Avukatlık Kanununa
 göre düzenlenen ücret tarifesine aykırılık mevcutsa.
-Yargıtay kararının gönderileceği merci
 
 ### Bizim Yorumumuz
 

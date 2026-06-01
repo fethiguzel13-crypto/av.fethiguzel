@@ -16,7 +16,6 @@ verilebilir.
 Bu krediden faydalanma şartları ile kredi borcunun memurlardan tahsili ve her yıl
 ödenecek toplam kredi tutarı gibi diğer hususlar Toplu Konut ve Kamu Ortaklığı İdaresi
 Başkanlığınca hazırlanacak yönetmelikle düzenlenir.
-Devlet memurları için konut:
 
 ### Bizim Yorumumuz
 

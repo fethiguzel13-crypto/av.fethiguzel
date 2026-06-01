@@ -25,8 +25,6 @@ Yarı mamuller teslim edildiği takdirde, bunlar tam mamul hükmüne girer.
 esnasında miktarlarının tesbitine imkan ve lüzum olmıyanlar yalnız teslim sırasında kayıtlarda
 gösterilir.
 
-Kombine imalat:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -60,7 +60,6 @@ fazlasının 500.000 TL’si (5.300.000 TL) için 159.460 TL), (1.697.500 TL) fa
 40
 
 oranında vergilendirilir.
-Verginin hesaplanması:
 
 ### Bizim Yorumumuz
 

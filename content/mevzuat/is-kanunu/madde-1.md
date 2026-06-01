@@ -23,7 +23,6 @@ Bu Kanun, 4 üncü Maddedeki istisnalar dışında kalan bütün işyerlerine, b
 işverenleri ile işveren vekillerine ve işçilerine faaliyet konularına bakılmaksızın uygulanır.
 İşyerleri, işverenler, işveren vekilleri ve işçiler, 3 üncü maddedeki bildirim gününe
 bakılmaksızın bu Kanun hükümleri ile bağlı olurlar.
-Tanımlar
 
 ### Akademik Yorum ve Analiz
 

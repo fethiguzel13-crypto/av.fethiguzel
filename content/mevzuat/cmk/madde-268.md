@@ -47,7 +47,6 @@ e) Bölge adliye mahkemesi ceza dairelerinin kararları ile Yargıtay ceza daire
 esas mahkeme olarak baktıkları davalarda verdikleri kararlara yapılan itirazlarda; üyenin
 kararını görevli olduğu dairenin başkanı, daire başkanı ile ceza dairesinin kararını numara
 itibarıyla izleyen ceza dairesi; son numaralı daire söz konusu ise birinci ceza dairesi inceler.
-İtirazın kararın yerine getirilmesinde etkisi
 
 ### Bizim Yorumumuz
 

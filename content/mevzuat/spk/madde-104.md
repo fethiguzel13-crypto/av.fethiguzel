@@ -16,7 +16,6 @@ sayılır. Kurulca belirlenen piyasa bozucu eylemleri gerçekleştiren kişilere
 yirmi bin Türk Lirasından beş yüz bin Türk Lirasına kadar idari para cezası verilir. Ancak, bu
 suretle menfaat temin edilmiş olması hâlinde verilecek idari para cezasının miktarı bu
 menfaatin iki katından az olamaz.
-İdari para cezalarının uygulanması
 
 ### Bizim Yorumumuz
 

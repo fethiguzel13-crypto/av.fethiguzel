@@ -18,10 +18,6 @@ ihtiyatî veya icrai haciz bulunması hâlinde âmme alacağı dahil hiçbir hac
 hacze iştirak edemez.
 İhtiyati haciz masrafları satış tutarından alınır.
 İhtiyati haciz diğer rüçhan hakkını vermez.
-ONUNCU BAP
-Kiralar hakkında hususi hükümler ve kiralanan taşınmazların tahliyesi
-
-Adi kira ve hasılat kiraları için ödeme emri ve itiraz müddeti:
 
 ### Bizim Yorumumuz
 

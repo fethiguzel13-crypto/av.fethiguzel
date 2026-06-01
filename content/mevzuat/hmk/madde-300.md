@@ -20,7 +20,6 @@ nüshası da dosyasında saklanır.
 (2) Taraflardan her birine verilen hüküm nüshası ilamdır.
 (3) Tarafların elinde bulunan hüküm nüshalarının farklı olması hâlinde karar
 kartonundaki esas alınır.
-İlamın alınması, kesinleşme kaydı ve harçlar
 
 ### Bizim Yorumumuz
 

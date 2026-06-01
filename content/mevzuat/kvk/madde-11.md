@@ -59,7 +59,6 @@ Edilmesi Hakkında Kanunun ek 4 üncü maddesi kapsamında hakkında reklam yasa
 uygulananlara verilen reklamların giderleri.
 k) (Ek:2/4/2026-7577/11 md.) Her türlü şans ve bahis oyunlarına ait ilan ve reklam
 giderleri.
-Örtülü sermaye
 
 ### Bizim Yorumumuz
 

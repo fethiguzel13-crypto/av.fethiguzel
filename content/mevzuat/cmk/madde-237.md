@@ -15,7 +15,6 @@ kadar şikâyetçi olduklarını bildirerek kamu davasına katılabilirler.
 (2) Kanun yolu muhakemesinde davaya katılma isteğinde bulunulamaz. Ancak, ilk
 derece mahkemesinde ileri sürülüp reddolunan veya karara bağlanmayan katılma istekleri,
 kanun yolu başvurusunda açıkça belirtilmişse incelenip karara bağlanır.
-Katılma usulü
 
 ### Bizim Yorumumuz
 

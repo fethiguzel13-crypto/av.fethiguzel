@@ -36,8 +36,6 @@ veya masraflı olan mallar” ibaresi eklenmiştir.
 1/7/2022 tarihli ve 7417 sayılı Kanunun 25 inci maddesiyle bu fıkrada yer alan “teminat mektubu” ibaresi
 “10 uncu maddenin birinci fıkrasının (2) numaralı bendinde yazılı teminatların” şeklinde değiştirilmiştir.
 
-Satılamıyan menkul mallar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

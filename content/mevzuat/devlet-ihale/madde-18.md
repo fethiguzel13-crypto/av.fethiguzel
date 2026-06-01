@@ -17,7 +17,6 @@ d) Varsa tahmin edilen bedel ve geçici teminat miktarı,
 e) İsteklilerden aranılan belgelerin neler olduğu,
 f) Kapalı teklif usulüyle yapılacak ihalelerde, tekliflerin hangi tarih ve saate kadar
 nereye verileceği.
-Şartname ve eklerinde değişiklik halinde ilan:
 
 ### Bizim Yorumumuz
 

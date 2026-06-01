@@ -56,7 +56,6 @@ bozukluğunun olması hâlinde, bir sağlık kuruluşunda muayene veya tedavi ol
 yönelik faaliyetlerde bulunmak.
 (4) Şiddet mağduru ile şiddet uygulayana yönelik hizmetler, zorunlu hâller dışında
 farklı birimlerde sunulur.
-Kurumlararası koordinasyon ve eğitim
 
 ### Bizim Yorumumuz
 

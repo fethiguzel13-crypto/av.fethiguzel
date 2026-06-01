@@ -29,7 +29,6 @@ terk tarihinden en az üç ay evvel keyfiyetin yazılı olarak bildirildiğini v
 bulunduğu yerde görülebilir levhaları asmakla beraber Ticaret Sicili Gazetesiyle; bu mümkün
 olmadığı takdirde bütün alacaklıların ıttılaını temin edecek şekilde münasip vasıtalarla ilan
 olunduğunu ispatla çürütülebilir.
-İptal davalarında yargılama usulü:
 
 ### Bizim Yorumumuz
 

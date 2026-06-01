@@ -17,7 +17,6 @@ kişinin ağır kusurundan ileri geldiğini ispat ederse sorumluluktan kurtulur.
 Sorumluluktan kurtulamayan işleten veya araç işleticisinin bağlı olduğu teşebbüs
 sahibi, kazanın oluşunda zarar görenin kusurunun bulunduğunu ispat ederse, hakim, durum ve
 şartlara göre tazminat miktarını indirebilir.
-Genel hükümlerin uygulanması:
 
 ### Bizim Yorumumuz
 

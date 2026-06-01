@@ -15,7 +15,6 @@ kurumlararası eğitim merkezleri de açılabilir.281
 Eğitim birim ve merkezlerinin kuruluş ve işleyişleri Başbakanlık Devlet Personel
 Başkanlığının görüşü alınmak suretiyle kurumlarınca hazırlanacak yönetmeliklerle
 düzenlenir.
-Devlet memurları eğitimi genel planı:
 
 ### Bizim Yorumumuz
 

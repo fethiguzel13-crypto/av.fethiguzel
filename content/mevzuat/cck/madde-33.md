@@ -42,7 +42,6 @@ değiştirilmiştir.
 çocuğun bulunduğu yerdeki mahkemece inceleme yaptırılır. Büyükşehir belediye sınırları
 içinde kalan yerlerde bu inceleme, davayı gören mahkemeye bağlı olarak çalışan sosyal
 çalışma görevlilerince yapılabilir.
-Sosyal çalışma görevlilerinin görevleri
 
 ### Bizim Yorumumuz
 

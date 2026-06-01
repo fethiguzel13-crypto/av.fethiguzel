@@ -36,7 +36,6 @@ hizmetleri yürütmek ve engelliler merkezini oluşturmak.23
 o) Temsil ve ağırlama giderleri için ayrılan ödeneği kullanmak.
 p) Kanunlarla belediyeye verilen ve belediye meclisi veya belediye encümeni kararını
 gerektirmeyen görevleri yapmak ve yetkileri kullanmak.
-Belediye başkanının özlük hakları
 
 ### Bizim Yorumumuz
 

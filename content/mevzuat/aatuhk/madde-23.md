@@ -15,7 +15,6 @@ edilmek suretiyle reddolunur.
 Umumi bütçeden reddedilen paralar arasında hususi idarelerle belediyelere ait olan
 kısımları ret ve mahsup olunduğu senede bu idareler nam ve hesabına ayrılacak hisselerden
 Hazinece tevkif ve mahsup olunur.
-İptal davası açılması:
 
 ### Bizim Yorumumuz
 

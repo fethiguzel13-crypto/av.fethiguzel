@@ -28,7 +28,6 @@ yer alan “yukarda adı geçen dairelere” ibaresi “tapu siciline” olarak 
 41
 
 (Mülga dördüncü fıkra: 14/1/2011-6103/41 md.)
-Mahsullerin toplanması, borçlunun hakkı:
 
 ### Akademik Yorum ve Analiz
 

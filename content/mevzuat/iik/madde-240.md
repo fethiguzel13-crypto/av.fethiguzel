@@ -19,7 +19,6 @@ maddesiyle metne işlendiği şekilde değiştirilmiştir.
 76
 
 Nisap hakkında 221 inci madde hükümleri uygulanır.
-Malların paraya çevrilmesi usulü:
 
 ### Bizim Yorumumuz
 

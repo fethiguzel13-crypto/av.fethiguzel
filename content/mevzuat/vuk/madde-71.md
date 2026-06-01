@@ -34,9 +34,6 @@ bulduğu;
 tarihi takip eden mali yıldan başlıyarak yürürlüğe konulur.
 DÖRDÜNCÜ KISIM
 Takdir, Zirai Kazançlar ve Özel Komisyonları14
-BİRİNCİ BÖLÜM
-Takdir Komisyonu
-Kuruluş:
 
 ### Bizim Yorumumuz
 

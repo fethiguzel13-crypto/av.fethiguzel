@@ -35,7 +35,6 @@ içinde herhangi bir disiplin cezası almayanların” olarak değiştirilmişti
 Bir meslek veya sanat okulunu bitirenler en az 15 yaşını doldurmuş olmak ve Türk
 Medeni Kanununun 12 nci maddesine göre kazai rüşt kararı almak şartiyle Devlet
 memurluklarına atanabilirler.
-Sınıflandırmada öğrenim unsuru:
 
 ### Bizim Yorumumuz
 

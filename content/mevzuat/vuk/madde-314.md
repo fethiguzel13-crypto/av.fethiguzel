@@ -17,7 +17,6 @@ Ancak:
 güllüklerle incir bahçeleri ve bağlar gibi tarım tesisleri;
 2. İşletmede inşa edilmiş olan her nevi yollar ve harklar;
 Amortismana tabi tutulur.
-Normal amortisman:
 
 ### Akademik Yorum ve Analiz
 

@@ -16,7 +16,6 @@ Alınan örnekler üzerinde bu amaçlar dışında tespitler yapılmasına yöne
 (2) Birinci fıkra uyarınca yapılabilen incelemeler, bulunan ve kime ait olduğu belli
 olmayan beden parçaları üzerinde de yapılabilir. Birinci fıkranın ikinci cümlesi, bu hâlde de
 uygulanır.
-Hâkimin kararı ve inceleme yapılması
 
 ### Bizim Yorumumuz
 

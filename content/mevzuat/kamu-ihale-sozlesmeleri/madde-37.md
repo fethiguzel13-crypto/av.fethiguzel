@@ -12,9 +12,6 @@ commentaryStatus: "pending"
 Madde 37- Bu Kanunda hüküm bulunmayan hallerde yapılacak tebliğler hakkında
 Tebligat Kanunu hükümleri uygulanır.
 
-
-Değişiklik yapılması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

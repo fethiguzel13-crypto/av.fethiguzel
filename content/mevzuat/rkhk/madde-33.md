@@ -10,8 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 33 – Kurumun hesapları Sayıştayın denetimine tabidir.
-ÜÇÜNCÜ BÖLÜM
-Kurum Personelinin Statüsü
 
 ### Bizim Yorumumuz
 

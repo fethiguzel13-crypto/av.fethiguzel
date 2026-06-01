@@ -20,8 +20,6 @@ sınır kapılarında 4458 sayılı Gümrük Kanununun ihracat rejimi kapsamınd
 depolarına (araçların ve soğutucu ünitelerin standart yakıt deposu miktarlarını aşmamak
 kaydıyla) yalnızca yurt dışına çıkışlarında yapılacak motorin teslimi vergiden istisnadır.
 Maliye Bakanlığı, bu istisna uygulamasına ilişkin usûl ve esasları belirlemeye yetkilidir.
-DÖRDÜNCÜ BÖLÜM
-Diplomatik İstisnalar
 
 ### Bizim Yorumumuz
 

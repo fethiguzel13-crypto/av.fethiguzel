@@ -32,9 +32,6 @@ gerekli soruları sorabilir.
 olduğu rapor mahkemece değerlendirmeye tabi tutulmaz.
 BEŞİNCİ KISIM
 Hüküm ve Davaya Son Veren Taraf İşlemleri
-BİRİNCİ BÖLÜM
-Hüküm
-Hüküm, hükmün verilmesi ve tefhimi
 
 ### Bizim Yorumumuz
 

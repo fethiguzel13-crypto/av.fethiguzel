@@ -68,7 +68,6 @@ hükümlerine göre vergi dairelerince takip ve tahsil edilir.
 Bu maddenin uygulamasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca
 belirlenir.
 Son Hükümler
-Özel kanunlardaki hükümlerin saklı olduğu:
 
 ### Akademik Yorum ve Analiz
 

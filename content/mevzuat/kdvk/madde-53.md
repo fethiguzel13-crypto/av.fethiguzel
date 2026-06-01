@@ -27,7 +27,6 @@ olunan vergiler.
 2. Emtia üzerine iş yapanlar, emtia envanterinde veya envanter defterinde, hesap
 dönemi sonunda mevcut emtiayı Katma Değer Vergisine tabi olan ve olmayanlar itibariyle
 tefrik edip göstermeye mecburdurlar.
-Vergi teminatı:
 
 ### Bizim Yorumumuz
 

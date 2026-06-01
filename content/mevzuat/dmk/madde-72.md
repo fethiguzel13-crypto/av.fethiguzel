@@ -55,7 +55,6 @@ kademelerde ne kadar hizmet etmeleri gerektiği ve yer değiştirme ile ilgili a
 Devlet Personel Başkanlığınca hazırlanacak bir yönetmelikle belirlenir. Kurumlar atamaya
 tabi olacak personeli için bu yönetmelik esaslarına göre Devlet Personel Başkanlığının
 görüşünü almak suretiyle bir personel ve atama planı hazırlar.
-Karşılıklı olarak yer değiştirme:
 
 ### Bizim Yorumumuz
 

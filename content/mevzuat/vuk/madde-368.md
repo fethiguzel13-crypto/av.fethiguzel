@@ -27,7 +27,6 @@ fıkrasında” ibaresi “(ç) ve (d) fıkralarında” şeklinde değiştirilm
 141
 
 (Ek fıkra: 22/7/1998-4369/16 md.; Mülga: 11/8/1999-4444/14 md.)143
-Yanılma ve görüş değişikliği:144
 
 ### Akademik Yorum ve Analiz
 

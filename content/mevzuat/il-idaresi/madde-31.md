@@ -57,7 +57,6 @@ K) Kaymakamlar, halkın askerlik muameleleri hakkındaki müracaat ve şikayetle
 kabul ederler. Askerlik şubelerine ve dairelerine yazarlar. Cevabı kafi görmedikleri takdirde
 keyfiyeti valiye bildirirler;
 L) Kaymakam, Cumhuriyet Bayramında ilçede yapılacak resmi törenlere başkanlık
-yapar ve tebrikleri kabul eder.
 
 ### Bizim Yorumumuz
 

@@ -42,7 +42,6 @@ Kurulca belirlenir.
 portföyünde bulunan varlıkların ve hakların değerlemesine, varlıklarının saklanmasına, portföy
 sınırlamalarına, izahnameye ve izahnamenin yayımlanmasına, paylarının ihraç, satış, itfa ve
 itfasının durdurulmasına, tasfiye ve sona ermelerine ilişkin usul ve esaslar Kurulca belirlenir.
-Değişken sermayeli yatırım ortaklıklarında uygulanmayacak hükümler
 
 ### Bizim Yorumumuz
 

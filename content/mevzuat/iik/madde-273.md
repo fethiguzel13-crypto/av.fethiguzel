@@ -15,7 +15,6 @@ müddetin geçmesi lazımdır.
 Tahliye edilecek yerde kiralıyana ait olmıyan eşya bulunursa 26 ncı maddenin hükmü
 kıyas yoliyle tatbik olunur.
 İtiraz:
-1 – Müddet ve şekli:
 
 ### Bizim Yorumumuz
 

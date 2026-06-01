@@ -13,7 +13,6 @@ Madde 64- Her yıl bütçesinin kesinhesabı, belediye başkanı tarafından hes
 döneminin bitiminden sonra nisan ayı içinde encümene sunulur. Kesinhesap, belediye
 meclisinin mayıs ayı toplantısında görüşülerek karara bağlanır.
 Kesinhesabın görüşülmesi ve kesinleşmesinde, bütçeye ilişkin hükümler uygulanır.
-Bütçe sistemi
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ inceleme başlayıncaya kadar hâkimin reddi istenebilir.
 (2) Sonradan ortaya çıkan veya öğrenilen sebeplerle duruşma veya inceleme bitinceye
 kadar da hâkimin reddi istenebilir. Ancak bu istemin, ret sebebinin öğrenilmesinden itibaren
 yedi gün içinde yapılması şarttır.
-Ret isteminin usulü
 
 ### Bizim Yorumumuz
 

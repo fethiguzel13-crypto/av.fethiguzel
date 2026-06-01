@@ -33,7 +33,6 @@ da Bakanlığın belirlediği şartlara uyan yabancılara, Bakanlığın onayıy
 süresiz ikamet izni verilir.17
 (2) Mülteci, şartlı mülteci ve ikincil koruma statüsü sahipleri ile insani ikamet izni
 sahiplerine ve geçici koruma sağlananlara, uzun dönem ikamet iznine geçiş hakkı tanınmaz.
-Uzun dönem ikamet izninin şartları
 
 ### Bizim Yorumumuz
 

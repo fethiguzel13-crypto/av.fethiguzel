@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 Madde 35 – İlçe çevresindeki belediyelerin başkanlariyle köy muhtarları, üst
 makamlara kendi idarelerinin iş ve ihtiyaçlariyle ilgili yazışmalarını kaymakamlık vasıtasiyle
 yaparlar.
-III - Devir ve teftiş
 
 ### Bizim Yorumumuz
 

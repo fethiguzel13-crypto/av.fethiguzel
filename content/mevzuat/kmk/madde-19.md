@@ -27,7 +27,6 @@ cümle: 28/3/2023-7445/29 md.) Bu Kanunun 3 üncü maddesi ile 23 üncü maddesi
 fıkrasının (a) ve (b) bentlerinde belirtilen suçlardan elde edilen malvarlığı değerlerini ihbar
 edenler ile bu suçlardan kaynaklanan malvarlığı değerlerini aklama suçunu ihbar edenler
 hakkında da bu fıkra hükümleri uygulanır.
-Tutanaklar
 
 ### Bizim Yorumumuz
 

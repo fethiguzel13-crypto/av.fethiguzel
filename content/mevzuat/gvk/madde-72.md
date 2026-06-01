@@ -31,7 +31,6 @@ bakılmaz. İvazlı temliklerde ivazın tahsil şartı aranmaz.) veya kiracısı
 tahsil hükmündedir.
 Yabancı parasiyle yapılan ödemeler, ödeme gününün borsa rayici ile, borsada rayici
 yoksa Maliye Bakanlığınca tesbit edilecek kur üzerinden Türk Parasına çevrilir.
-Emsal kira bedeli esası:
 
 ### Bizim Yorumumuz
 

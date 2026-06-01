@@ -18,7 +18,6 @@ b) Diğer karargah, birlik ve kurumlarda % 40,21
 tutarını geçmemek üzere İçişleri Bakanlığınca belirlenecek usul ve esaslara göre fazla
 çalışma karşılığı asayiş tazminatı ödenir. Bu tazminattan damga vergisi hariç herhangi bir
 vergi ve kesinti yapılmaz.22
-Uzman jandarma ile erbaş ve erlerin diğer özlük hakları:
 
 ### Bizim Yorumumuz
 

@@ -24,7 +24,6 @@ geçmekle düşer.
 almaya hak kazanıldığını gösteren mahkeme kararının kesinleştiği tarihten itibaren, vakfın
 son beş yıl içindeki malvarlığı, gelirleri ve giderleri ile sınırlı olmak ve galle fazlasının
 mevcudiyeti şartıyla Genel Müdürlükçe belirlenir.
-Yeni vakıf organlarının tamamlanması
 
 ### Bizim Yorumumuz
 

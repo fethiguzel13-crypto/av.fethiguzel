@@ -16,7 +16,6 @@ hukuki işlemlerin miktar veya değeri ödeme veya borçtan kurtarma gibi bir ne
 ikibinbeşyüz Türk Lirasından aşağı düşse bile senetsiz ispat olunamaz.
 (2) Bu madde uyarınca senetle ispatı gereken hususlarda birinci fıkradaki düzenleme
 hatırlatılarak karşı tarafın açık muvafakati hâlinde tanık dinlenebilir.
-Senede karşı tanıkla ispat yasağı
 
 ### Bizim Yorumumuz
 

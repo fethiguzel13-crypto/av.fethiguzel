@@ -93,9 +93,6 @@ alınır. Kesilmesi gereken verginin ödemeyi yapan tarafından üstlenilmesi ha
 kesintisi, ödenen tutar ile ödemeyi yapanın yüklendiği verginin toplamı üzerinden hesaplanır.
 (8) Bu maddede belirtilen ödemelerden yapılan vergi kesintisi, kesinti yapanların kayıt
 ve hesaplarında ayrıca gösterilir.
-ÜÇÜNCÜ BÖLÜM
-Verginin Tarhı
-Vergilendirme dönemi ve tarhiyat
 
 ### Bizim Yorumumuz
 

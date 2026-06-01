@@ -23,7 +23,6 @@ içinde yapılmış olması şarttır. Ret sebeplerinin ispatı için, yemin tek
 bilirkişiyi görevlendiren mahkemece dosya üzerinden incelenir ve karara bağlanır. Kabule
 ilişkin kararlar kesindir. Redde ilişkin kararlara karşı ise ancak esas hakkındaki kararla
 birlikte kanun yoluna başvurulabilir.
-Bilirkişinin görev alanının belirlenmesi
 
 ### Bizim Yorumumuz
 

@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 17- Belediye meclisi, belediyenin karar organıdır ve ilgili kanunda gösterilen
 esas ve usûllere göre seçilmiş üyelerden oluşur.
-Meclisin görev ve yetkileri
 
 ### Bizim Yorumumuz
 

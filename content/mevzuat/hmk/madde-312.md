@@ -24,7 +24,6 @@ sözleşmedir.
 konu alan davalarda yapılabilir.
 (3) Dava konusunun dışında kalan hususlar da sulhun kapsamına dâhil edilebilir.
 (4) Sulh, şarta bağlı olarak da yapılabilir.
-Sulhun zamanı
 
 ### Bizim Yorumumuz
 

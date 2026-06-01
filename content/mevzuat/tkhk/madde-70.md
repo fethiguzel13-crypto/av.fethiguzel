@@ -52,7 +52,6 @@ ibaresi eklenmiştir.
 
 ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre karşı
 taraftan tahsil olunarak bütçeye gelir kaydedilir.
-Huzur hakkı ve ücreti
 
 ### Bizim Yorumumuz
 

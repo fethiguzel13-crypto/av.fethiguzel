@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 423- (1) Taraflar, tahkim yargılamasında eşit hak ve yetkiye sahiptirler.
 Taraflara hukuki dinlenilme hakkını kullanma imkânı tanınır.
-Yargılama usulünün belirlenmesi
 
 ### Bizim Yorumumuz
 

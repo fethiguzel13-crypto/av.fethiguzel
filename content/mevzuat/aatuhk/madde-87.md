@@ -17,9 +17,6 @@ Menkul mallar yerinde veya başka yere götürüldüğü halde yine satılmaz ve
 giderlerinin çokluğu yüzünden başka yere götürülmesi uygun görülmezse yukardaki 15
 günlük sürenin bitmesinden itibaren 6 ay içinde pazarlıkla satılır. Bu suretle de satılamadığı
 takdirde haczedilen mallar borçluya geri verilebilir.
-ÜÇÜNCÜ BÖLÜM
-Gayrimenkul malların haczi ve satışı
-Gayrimenkul malların, gemilerin haczi:
 
 ### Bizim Yorumumuz
 

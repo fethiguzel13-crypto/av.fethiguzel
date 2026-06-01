@@ -34,9 +34,6 @@ fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 
 ÜÇÜNCÜ KISIM
 Olağanüstü Kanun Yolları
-BİRİNCİ BÖLÜM
-Cumhuriyet Başsavcısının İtiraz Yetkisi140
-Yargıtay Cumhuriyet Başsavcısının itiraz yetkisi
 
 ### Bizim Yorumumuz
 

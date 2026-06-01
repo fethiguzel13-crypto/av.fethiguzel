@@ -36,7 +36,6 @@ c) Evliliği aile ikamet izni alabilmek amacıyla yapmamış olmak
 d) 7 nci madde kapsamına girmemek
 (4) Türkiye’de bulunan mülteciler ve ikincil koruma statüsü sahiplerinde, bu maddenin
 birinci fıkrasında belirtilen şartlar aranmayabilir.
-Aile ikamet izni talebinin reddi, iptali veya uzatılmaması
 
 ### Bizim Yorumumuz
 

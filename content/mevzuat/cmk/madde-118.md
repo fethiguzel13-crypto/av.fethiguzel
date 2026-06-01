@@ -20,7 +20,6 @@ Kanunun 40 ıncı maddesiyle bu fıkrada yer alan “somut delillere dayalı kuv
 (2) Suçüstü veya gecikmesinde sakınca bulunan hâller ile yakalanmış veya gözaltına
 alınmış olup da firar eden kişi veya tutuklu veya hükümlünün tekrar yakalanması amacıyla
 yapılan aramalarda, birinci fıkra hükmü uygulanmaz.
-Arama kararı
 
 ### Bizim Yorumumuz
 

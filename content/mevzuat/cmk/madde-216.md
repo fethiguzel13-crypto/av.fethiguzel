@@ -16,7 +16,6 @@ açıklamalarına; sanık ve müdafii ya da kanunî temsilcisi de Cumhuriyet sav
 veya vekilinin açıklamalarına cevap verebilir.
 (3) Hükümden önce son söz, hazır bulunan sanığa verilir. (Ek cümle: 15/8/2017KHK-694/148 md.; Aynen kabul: 1/2/2018-7078/143 md.) Bu aşamada zorunlu müdafiin
 hazır bulunmaması hükmün açıklanmasına engel teşkil etmez.
-Delilleri takdir yetkisi
 
 ### Bizim Yorumumuz
 

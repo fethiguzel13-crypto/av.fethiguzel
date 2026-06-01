@@ -14,7 +14,6 @@ dosyasını inceleyebilir. Dava ile ilgili olanlar da bunu ispatlamak kaydı ve 
 dosyayı inceleyebilir.
 (2) Gizli olarak saklanmasına karar verilen belge ve tutanakların incelenebilmesi
 hâkimin açık iznine bağlıdır.
-Dosyanın hâkimin incelemesine hazır tutulması
 
 ### Bizim Yorumumuz
 

@@ -73,7 +73,6 @@ hakkında da uygulanır.
 bildirimi ve bu ihbarnamelere verilecek cevaplar, güvenli elektronik imza kullanılmak
 suretiyle Ulusal Yargı Ağı Bilişim Sistemi ve bu sisteme entegre bilişim sistemleri üzerinden
 de yapılabilir. Bu usulle yapılan bildirim tebliğ yerine geçer.
-3 – Diğer haklar için:
 
 ### Bizim Yorumumuz
 

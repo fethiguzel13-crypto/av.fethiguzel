@@ -14,7 +14,6 @@ il idare şube başkanlarının inhası üzerine valilerce tayin ve aynı usule 
 edilirler. İlçenin sekizinci maddenin (B) fıkrası dışında kalan memurları ilçe idare şube
 başkanlarının inhası üzerine kaymakamlarca tayin ve memuriyetleri valilerce tasdik ve aynı
 usule göre nakil ve tahvil olunurlar.
-II - Kaymakamların hukuki durumları, görev ve yetkileri
 
 ### Bizim Yorumumuz
 

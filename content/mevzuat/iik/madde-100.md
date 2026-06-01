@@ -24,7 +24,6 @@ Bu suretle iştirak halinde icra dairesi müracaat üzerine aynı derecedeki ala
 bütün alacaklarına yetecek nispette ilave suretiyle hacizler yapar.
 Bunların haricindeki alacaklılar ancak, evvelki dereceden artacak bedeller için hacze
 iştirak edebilirler.
-Önce icrası lazım gelen merasime lüzum olmaksızın iştirak:
 
 ### Akademik Yorum ve Analiz
 

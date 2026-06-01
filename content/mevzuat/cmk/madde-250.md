@@ -106,7 +106,6 @@ kurulan hükme itiraz edilebilir. İtiraz mercii, itirazı üçüncü ve dokuzun
 yönünden inceler.
 (15) Bu maddenin uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığı tarafından
 çıkarılan yönetmelikle belirlenir.
-Basit yargılama usulü
 
 ### Bizim Yorumumuz
 

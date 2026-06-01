@@ -17,7 +17,6 @@ olarak mütalâa edilir.
 Konak: Askerlerin hazar ve seferde muvakkat bir zaman için meskün yerlerde
 yerleşmesidir.
 Ordugah: Askerlerin muvakkat bir zaman için açıkta çadır veya baraka ve
-zeminliklerde yerleştirildiği sahaya denir.
 
 ### Bizim Yorumumuz
 

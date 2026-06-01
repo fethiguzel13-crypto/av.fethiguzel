@@ -15,7 +15,6 @@ Fona ve ilgili bankaya tebliğ edilir. Kurum, Fon ve ilgili banka kendisine tebl
 kararlara karşı 5271 sayılı Ceza Muhakemesi Kanununa göre itiraza yetkilidir.
 Kamu davası açılması hâlinde, iddianamenin bir örneği ilgisine göre Kuruma veya
 Fona tebliğ edilir.
-Özel görev
 
 ### Bizim Yorumumuz
 

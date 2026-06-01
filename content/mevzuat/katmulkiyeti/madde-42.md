@@ -35,7 +35,6 @@ Bakanlığı tarafından yürürlüğe konulacak yönetmelikle düzenlenir.
 (Değişik beşinci fıkra: 18/4/2007-5627/16 md.) Isıtma sisteminin merkezi sistemden
 ferdi sisteme veya ferdi sistemden merkezi sisteme dönüştürülmesine karar verilmesi halinde,
 yönetim planının bu karara aykırı hükümleri değiştirilmiş sayılır.
-II - Çok masraflı ve lüks olanlar:
 
 ### Bizim Yorumumuz
 

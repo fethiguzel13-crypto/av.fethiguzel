@@ -29,7 +29,6 @@ Bu Kanun kapsamında öngörülen sınırlamalara ve standart oranlara ilişkin 
 erişilmesi veya aşımların oluşması hâlinde, ilgili banka durumu derhal Kuruma bildirmek
 
 zorundadır.
-Ödenmiş sermaye, yedek akçeler ve özkaynak
 
 ### Bizim Yorumumuz
 

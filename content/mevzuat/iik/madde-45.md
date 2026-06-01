@@ -24,7 +24,6 @@ borçlunun sıfatına göre, rehinin paraya çevrilmesi veya haciz yahut iflas y
 olunabilir.
 (Ek fıkra: 27/5/1933-2228/1 md.; Mülga: 29/6/1956-6763/42 md.)
 Haciz yoliyle takip:
-1 – Umumiyetle:
 
 ### Bizim Yorumumuz
 

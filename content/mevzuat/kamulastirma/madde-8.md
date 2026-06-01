@@ -49,7 +49,6 @@ hakkı, sahibinden kamulaştırma yolu ile alınmış sayılır ve bu şekilde y
 veya bedeline karşı itiraz davaları açılamaz.
 Anlaşma olmaması veya ferağ verilmemesi halinde bu Kanunun 10 uncu maddesine
 göre işlem yapılır.
-Kadastro görmemiş yerlerde tespit işlemi
 
 ### Akademik Yorum ve Analiz
 

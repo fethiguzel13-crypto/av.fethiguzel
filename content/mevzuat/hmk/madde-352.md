@@ -21,7 +21,6 @@ d) Başvuru sebeplerinin veya gerekçesinin hiç gösterilmemesi
 (2) Ön inceleme heyetçe veya görevlendirilecek bir üye tarafından yapılır ve ön
 inceleme sonunda karar heyetçe verilir.
 (3) Eksiklik bulunmadığı anlaşılan dosya incelemeye alınır.
-Duruşma yapılmadan verilecek kararlar48
 
 ### Bizim Yorumumuz
 

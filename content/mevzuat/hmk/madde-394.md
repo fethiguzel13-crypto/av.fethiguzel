@@ -26,7 +26,6 @@ verir. İtiraz üzerine mahkeme, tedbir kararını değiştirebilir veya kaldır
 (5) İtiraz hakkında verilen karara karşı, kanun yoluna başvurulabilir. Bu başvuru
 öncelikle incelenir ve kesin olarak karara bağlanır. Kanun yoluna başvurulmuş olması, tedbirin
 uygulanmasını durdurmaz.
-Teminat karşılığı tedbirin değiştirilmesi veya kaldırılması
 
 ### Bizim Yorumumuz
 

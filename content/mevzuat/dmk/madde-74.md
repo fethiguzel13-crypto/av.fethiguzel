@@ -30,7 +30,6 @@ kanunun 4 üncü maddesi kapsamına giren kurumlarda çalışıp 657 sayılı Ka
 personelden, hizmete giriş dereceleri 36 ncı madde ile tespit edilen giriş derecelerinin
 üzerinde olanların ilk ilerleme ve yükselmeleri için kanuni bekleme sürelerine yukarıda yazılı
 dereceler arasındaki sürelere tekabül eden süre kadar ilave edilir.145
-Memurların diğer kurumlardan bu Kanuna tabi kurumlara geçmeleri:
 
 ### Bizim Yorumumuz
 

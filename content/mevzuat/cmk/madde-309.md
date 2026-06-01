@@ -29,7 +29,6 @@ sonuç doğurmaz ve yeniden yargılamayı gerektirmez.
 d) Hükümlünün cezasının kaldırılmasını gerektiriyorsa cezanın kaldırılmasına, daha hafif
 bir cezanın verilmesini gerektiriyorsa bu hafif cezaya Yargıtay ceza dairesi doğrudan hükmeder.
 (5) Bu madde uyarınca verilen bozma kararına karşı direnilemez.
-Yargıtay Cumhuriyet Başsavcısının kanun yararına başvurması
 
 ### Bizim Yorumumuz
 

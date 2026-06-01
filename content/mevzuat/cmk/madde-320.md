@@ -16,7 +16,6 @@ gibi; kendisi de bu hususları yerine getirebilir.
 toplanması sırasında, soruşturmaya ilişkin hükümler uygulanır.
 (3) Delillerin toplanması bittikten sonra Cumhuriyet savcısı ve hakkında hüküm
 kurulmuş olan kişiden iki haftalık süre içinde görüş ve düşüncelerini bildirmeleri istenir.148
-Yenileme isteminin esassız olmasından dolayı reddi, aksi takdirde kabulü
 
 ### Bizim Yorumumuz
 

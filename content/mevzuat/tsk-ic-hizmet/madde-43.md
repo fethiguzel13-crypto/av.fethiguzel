@@ -51,7 +51,6 @@ bunlardan herhangi birini içeren resim, yazı, fotoğraf, ses kaydı, video gib
 materyallerin, Millî Savunma Bakanlığınca yetki verilen durumlar hariç, radyo, televizyon,
 internet, sosyal medya, gazete, dergi, kitap ve diğer tüm medya araçları ile her türlü yazılı,
 görsel, işitsel ve elektronik kitle iletişim araçları vasıtasıyla yayınlanması veya açıklanması
-yasaktır.
 
 ### Bizim Yorumumuz
 

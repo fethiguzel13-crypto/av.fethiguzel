@@ -33,9 +33,6 @@ bakılmaksızın, hukuk davası ve tahkimde uygulanır.
 (5) Birinci fıkrada belirtilen sınırlamalar saklı kalmak koşuluyla, hukuk davası ve
 tahkimde ileri sürülebilen deliller, sadece arabuluculukta sunulmaları sebebiyle kabul
 edilemeyecek deliller haline gelmez.
-ÜÇÜNCÜ BÖLÜM
-Arabulucuların Hak ve Yükümlülükleri
-Unvanın kullanılması
 
 ### Bizim Yorumumuz
 

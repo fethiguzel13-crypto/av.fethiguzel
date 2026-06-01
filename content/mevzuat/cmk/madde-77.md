@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 77 – (1) Kadının muayenesi, istemi halinde ve olanaklar elverdiğinde bir kadın
 hekim tarafından yapılır.
-Moleküler genetik incelemeler
 
 ### Bizim Yorumumuz
 

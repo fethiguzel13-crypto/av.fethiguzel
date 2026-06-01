@@ -15,7 +15,6 @@ Madde 166 – (1) Cumhuriyet başsavcıları her yılın sonunda, o yerdeki adl�
 62
 
 sorumluları hakkında değerlendirme raporları düzenleyerek, mülkî idare amirlerine gönderir.
-Yönetmelik
 
 ### Bizim Yorumumuz
 

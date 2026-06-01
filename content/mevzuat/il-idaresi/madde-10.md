@@ -195,7 +195,6 @@ korucular ile bu maddenin (D) fıkrası uyarınca görevlendirilen Türk Silahl�
 personeli hakkında da uygulanır.
 Bu fıkra kapsamında verilen görevlerin yerine getirilmesi sırasında doğan acil ve
 zaruri ihtiyaçları karşılamak amacıyla yapılacak harcamalar, ilgisine göre Millî Savunma
-Bakanlığı veya İçişleri Bakanlığı bütçesine konulan ödenekten karşılanır.
 
 ### Bizim Yorumumuz
 

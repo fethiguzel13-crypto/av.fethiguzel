@@ -15,7 +15,6 @@ delillerle ispatını kararlaştırabilecekleri gibi; belirli delillerle ispatı
 da sadece belirli delil veya delillerle ispatını kabul edebilirler.
 (2) Taraflardan birinin ispat hakkının kullanımını imkânsız kılan veya fevkalade
 güçleştiren delil sözleşmeleri geçersizdir.
-Somutlaştırma yükü ve delillerin gösterilmesi
 
 ### Bizim Yorumumuz
 

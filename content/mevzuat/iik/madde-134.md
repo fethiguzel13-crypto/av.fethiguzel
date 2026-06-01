@@ -93,7 +93,6 @@ Tescil için tapu idaresine yapılacak tebligat, şikayet için muayyen müddeti
 geçmesinden veya şikayet edilmişse şikayeti neticelendiren kararın kesinleşmesinden sonra
 yapılır.
 (Mülga son fıkra: 17/7/2003-4949/103 md.)
-Tescil için tapuya tebliğ ve zorla çıkarma:
 
 ### Bizim Yorumumuz
 

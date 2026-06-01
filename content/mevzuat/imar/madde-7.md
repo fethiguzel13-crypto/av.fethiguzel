@@ -26,7 +26,6 @@ esaslarına göre uygulama yapılır.
 Haritaların alınmasına veya imar planlarının tatbikatına memur edilen vazifeliler,
 vazifelerini yaparlarken 2613 sayılı Kadastro ve Tapu Tahriri Kanununun 7 nci maddesindeki
 selahiyeti haizdirler.
-Planların hazırlanması ve yürürlüğe konulması:5
 
 ### Bizim Yorumumuz
 

@@ -13,7 +13,6 @@ wordCount: 760
 
 Madde 212 – Üçüncü şahısların mülkü olarak gösterilen yahut bunlar tarafından
 mülkiyeti iddia olunan mallar, bu cihetler de şerh verilerek deftere kaydolunur.
-Taşınmazlar üzerinde üçüncü şahısların hakları:
 
 ### Akademik Yorum ve Analiz
 

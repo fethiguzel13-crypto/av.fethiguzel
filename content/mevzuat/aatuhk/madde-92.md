@@ -22,7 +22,6 @@ ipotekli borç senetleri, irat senetleriyle birlikte yapılacağı,
 6. Gayrimenkulün rehni suretiyle sağlanmış muaccel borçlar varsa bunların müşteriye
 devredilmeyip satış bedelinden tercihan ödeneceği,
 7. Ne gibi giderlerin alıcıya ait olacağı.
-Gayrimenkul satışında ilan:
 
 ### Bizim Yorumumuz
 

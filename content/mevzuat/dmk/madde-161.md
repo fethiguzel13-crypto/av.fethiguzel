@@ -26,7 +26,6 @@ a) Atandığı derecede eski derecesinde almakta olduğu kademe göstergesine,
 b) Atandığı derecede eşit gösterge yok ise, eski göstergesine en yakın kademenin
 göstergesine,
 Tekabül eden aylığı alır.
-Başka sınıfa geçen memurun alacağı aylık:
 
 ### Bizim Yorumumuz
 

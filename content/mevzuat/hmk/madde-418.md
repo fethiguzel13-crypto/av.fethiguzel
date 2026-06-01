@@ -30,7 +30,6 @@ ibaresi “kanun yoluna” şeklinde değiştirilmiştir.
 kaldıracak sayıda hakemin ret talebini mahkemenin kabul etmesi hâlinde tahkim sona erer.
 Ancak tahkim sözleşmesinde hakem veya hakemlerin isimleri belirlenmemişse yeniden
 hakem seçimi yoluna gidilir.
-Hakemlerin sorumluluğu
 
 ### Bizim Yorumumuz
 

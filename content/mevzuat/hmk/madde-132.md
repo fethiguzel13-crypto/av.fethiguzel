@@ -18,7 +18,6 @@ takas veya mahsup ilişkisinin bulunması yahut bu davalar arasında bağlantın
 üzerine yahut resen, karşı davanın asıl davadan ayrılmasına; gerekiyorsa dosyanın görevli
 mahkemeye gönderilmesine karar verir.
 (3) Karşı davaya karşı, dava açılamaz.
-Karşı davanın açılması ve süresi
 
 ### Bizim Yorumumuz
 

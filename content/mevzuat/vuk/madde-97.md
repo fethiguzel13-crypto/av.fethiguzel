@@ -34,7 +34,6 @@ Yabancı memlekette resmi görevle bulunan Türk memurlarına tebliğ Dışişle
 Bakanlığı vasıtasiyle yapılır.
 Yabancı memlekette bulunan askeri şahıslara yapılacak tebliğ, bağlı bulundukları kara,
 deniz, hava kuvvetleri komutanlıklariyle Jandarma Genel Komutanlığı vasıtasiyle yapılır.
-Kamu idare ve müesseselerine tebliğ:
 
 ### Bizim Yorumumuz
 

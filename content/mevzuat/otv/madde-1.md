@@ -23,7 +23,6 @@ Kanuna ekli listeler dışında yapılacak değişiklikler Özel Tüketim Vergis
 uygulanmasında hüküm ifade etmez. (Ek cümle: 4/6/2008-5766/19 md.) Bu Kanuna ekli listelerdeki
 malların tarife numaralarında veya tanımlarındaki değişikliğin mahiyetini, Türk Gümrük Tarife
 Cetvelinde yapılan değişikliklere bağlı olarak açıklamaya Maliye Bakanlığı yetkilidir.
-Tanımlar, teslim ve teslim sayılan haller
 
 ### Bizim Yorumumuz
 

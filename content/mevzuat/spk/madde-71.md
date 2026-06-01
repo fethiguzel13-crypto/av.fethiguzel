@@ -25,7 +25,6 @@ borsalar ve uluslararası kuruluşlar ile karşılıklılık ilkesi çerçevesin
 paylaşımında bulunma yetkisine sahiptirler. Bu kapsamda yapılan işlem ve eylemler bu
 Kanun ve diğer kanunlarda yer alan sır saklama yükümlülüğüne ve gizlilik kurallarına
 aykırılık oluşturmaz.
-Borsa ve piyasa işleticilerinin mali ve bilgi sistemleri denetimi
 
 ### Bizim Yorumumuz
 

@@ -17,9 +17,6 @@ Bu Kanun kapsamında yapılan kamu sözleşmelerinin tarafları, sözleşme hük
 uygulanmasında eşit hak ve yükümlülüklere sahiptir. İhale dokümanı ve sözleşme hükümlerinde
 bu prensibe aykırı maddelere yer verilemez. Kanunun yorum ve uygulanmasında bu prensip göz
 önünde bulundurulur.
-İKİNCİ BÖLÜM
-Sözleşmelerin Düzenlenmesi
-Tip sözleşmeler
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ kurulunun ilk toplantı tutanağının düzenlendiği tarihten itibaren bir yıl
 hakem kurulunca esas hakkında karar verilir.
 (2) Tahkim süresi, tarafların anlaşmasıyla; anlaşamamaları hâlinde ise taraflardan
 birinin başvurusu üzerine mahkemece uzatılabilir. Mahkemenin, bu konudaki kararı kesindir.
-Dava ve cevap dilekçesi
 
 ### Bizim Yorumumuz
 

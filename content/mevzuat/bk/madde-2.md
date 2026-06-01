@@ -17,7 +17,6 @@ faaliyetleri bu Kanun hükümlerine tâbidir.
 Özel kanunlarla kurulmuş olan bankalar hakkında da kanunlarında yer alan hükümler
 saklı kalmak kaydıyla bu Kanun hükümleri uygulanır.
 Bu Kanunda hüküm bulunmayan hallerde genel hükümler tatbik olunur.
-Tanımlar ve kısaltmalar
 
 ### Bizim Yorumumuz
 

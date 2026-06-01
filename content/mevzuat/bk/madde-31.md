@@ -14,8 +14,6 @@ belirlenen esaslar çerçevesinde oluşturmak, uygulamak ve raporlamak zorundad�
 yönetimi faaliyetleri yönetim kuruluna bağlı olarak çalışacak risk yönetimi birimi ve personeli
 tarafından yürütülür.
 
-İç denetim sistemi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

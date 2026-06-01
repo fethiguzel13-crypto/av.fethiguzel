@@ -26,7 +26,6 @@ alacaklının şikâyeti üzerine, üç aya kadar tazyik hapsine karar verilir. 
 başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesine yatırmak
 zorunda olduğu meblağı öderse tahliye edilir; ödemelerini tekrar keserse, hakkında tazyik
 hapsine yeniden karar verilir. Ancak, bir borçtan dolayı tazyik hapsinin süresi üç ayı geçemez.
-Çocuk teslimi emrine muhalefetin cezası:
 
 ### Bizim Yorumumuz
 

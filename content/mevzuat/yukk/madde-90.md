@@ -25,9 +25,6 @@ haklardan faydalanmaları bakımından sınırlama getirilebilir. Sınırlamaya 
 değerlendirme bireysel yapılır. Karar, ilgili kişiye veya yasal temsilcisine ya da avukatına
 yazılı olarak tebliğ edilir. İlgili kişi bir avukat tarafından temsil edilmiyorsa kararın sonucu,
 itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
-DÖRDÜNCÜ BÖLÜM
-Geçici Koruma ve Uluslararası Korumaya İlişkin Diğer Hükümler
-Geçici koruma25
 
 ### Bizim Yorumumuz
 

@@ -159,7 +159,6 @@ araçlarına ilişkin temel özellik, hak ve riskleri içerecek şekilde kısa, 
 ifadelerden oluşur.
 (5) Halka arz eden tarafından izahnamenin düzenlenmesi sırasında, ihraççının
 izahname hazırlanmasında kolaylaştırıcı tedbirleri alması zorunludur.
-Kurulun yetkisi
 
 ### Bizim Yorumumuz
 

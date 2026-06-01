@@ -47,9 +47,6 @@ ilişkin olarak ihtiyaç duyulan imar planı değişiklikleri Çevre ve Şehirci
 yapılır veya yaptırılır.31
 YEDİNCİ KISIM
 Yasak İşler ve Ceza Hükümleri
-BİRİNCİ BÖLÜM
-Yasak İşler
-Yasak işler ve eylemler
 
 ### Bizim Yorumumuz
 

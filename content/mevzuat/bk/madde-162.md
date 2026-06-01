@@ -19,7 +19,6 @@ neticesinde açılan kamu davalarında, Kurumun veya Fonun başvuruda bulunması
 bunlar başvuru tarihinde müdahil sıfatını kazanırlar.
 İtibarın zedelenmesi, sırların açıklanması ve zimmet suçlarından dolayı ilgililerin dava
 hakkı ile 4.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanunu hükümleri saklıdır.
-İtiraz ve bildirim
 
 ### Bizim Yorumumuz
 

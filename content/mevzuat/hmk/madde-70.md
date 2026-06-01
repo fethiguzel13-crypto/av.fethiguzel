@@ -18,9 +18,6 @@ resmî daire, Cumhuriyet savcısının yargı çevresinde görev yaptığı ağ�
 ve 5271 sayılı Ceza Muhakemesi Kanununun 172 ve 173 üncü maddeleri kıyasen uygulanır.
 (3) Cumhuriyet savcısının yer aldığı dava ve işler üzerinde taraflar serbestçe tasarruf
 edemezler.
-DÖRDÜNCÜ AYIRIM
-Davaya Vekâlet
-Genel olarak
 
 ### Bizim Yorumumuz
 

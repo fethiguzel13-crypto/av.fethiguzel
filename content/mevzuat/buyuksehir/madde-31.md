@@ -177,7 +177,6 @@ Geçici Madde 4- Bu Kanunun yayımı tarihinde profesyonel spor kulüplerinin
 başkanlığını yapan veya yönetiminde bulunan belediye başkanları, en geç 1.1.2005 tarihine
 kadar bu kulüplerin başkanlığından ve yönetimindeki görevlerinden ayrılırlar.
 Geçici Madde 5 – (Ek: 26/12/2006-5568/7 md.; Mülga: 28/1/2010-5951/13 md.)
-Yürürlük
 
 ### Bizim Yorumumuz
 

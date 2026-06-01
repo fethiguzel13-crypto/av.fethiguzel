@@ -40,9 +40,6 @@ yapıştırıldığı tarihten itibaren on beş gün içerisinde muhatabı taraf
 sayılır.
 Maliye Bakanlığı, bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye
 yetkilidir.
-ÜÇÜNCÜ BÖLÜM
-İlan Yoliyle Tebliğ Usulü
-Tebliğin ilanla yapılacağı haller:
 
 ### Bizim Yorumumuz
 

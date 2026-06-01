@@ -18,7 +18,6 @@ adli hakimler tarafından yürütülür ve tahkikat tamamlanıncaya kadar askeri
 nezaret altında tutulurlar. (Ek cümle: 24/11/2016-6763/7 md.) Suçun Türk Ceza Kanununun
 İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde tanımlanan
 suçlar ile Terörle Mücadele Kanunu kapsamına giren suçlardan olması durumunda, kişi
-Cumhuriyet savcısının talimatı ile adli kolluk görevlilerine teslim edilir.
 
 ### Bizim Yorumumuz
 

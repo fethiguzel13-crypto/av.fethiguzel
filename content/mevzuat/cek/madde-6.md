@@ -26,7 +26,6 @@ karara itiraz edebilir. Bu itiraz bakımından İcra ve İflas Kanununun 353 ün
 birinci fıkrası hükmü uygulanır. Çek düzenleme ve çek hesabı açma yasağının kaldırılmasına
 ilişkin karar kesinleştiğinde, yasağın kaldırıldığı, MERSİS ile Risk Merkezine 5 inci
 maddenin sekizinci fıkrasındaki usullere göre bildirilir ve ilan olunur.
-Diğer ceza hükümleri
 
 ### Bizim Yorumumuz
 

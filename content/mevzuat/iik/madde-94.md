@@ -45,7 +45,6 @@ Mahcuz malların muhafazası masrafları:
 masraflarını istenildiği takdirde peşin vermeğe mecburdur.
 İstihkak iddiasına itiraz:
 A – Borçlunun zilyedliği:
-1 – Hazırlık safhası:
 
 ### Akademik Yorum ve Analiz
 

@@ -54,7 +54,6 @@ ihraçlarda uygulanacak tedbirler” iken metne işlendiği şekilde değiştiri
 saklıdır.
 
 İhraççıların hukuka aykırı işlemleri ile sermayeyi veya mal varlığını azaltıcı
-işlemlerinde uygulanacak tedbirler
 
 ### Bizim Yorumumuz
 

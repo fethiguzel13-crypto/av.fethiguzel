@@ -42,7 +42,6 @@ kitlesel göç ve teröre maruz kalan yerleşim birimlerinin belediyeleri (...)5
 başkanı, aksayan belediye hizmetinin başka bir belediye tarafından yerine getirilmesini talep
 edebilir. Yardım istenilen belediye, meclis kararına gerek olmaksızın İçişleri Bakanının izniyle
 bu talebi yerine getirebilir.
-Kent konseyi
 
 ### Bizim Yorumumuz
 

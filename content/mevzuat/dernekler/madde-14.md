@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 14- (Mülga:22/4/2022-7405/58 md.)
-Tasfiye
 
 ### Bizim Yorumumuz
 

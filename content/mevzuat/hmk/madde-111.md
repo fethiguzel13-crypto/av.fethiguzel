@@ -13,7 +13,6 @@ MADDE 111- (1) Davacı, aynı davalıya karşı birden fazla talebini, araların
 arasında hukuki veya ekonomik bir bağlantının bulunması şarttır.
 (2) Mahkeme, davacının asli talebinin esastan reddine karar vermedikçe, fer’î talebini
 inceleyemez ve hükme bağlayamaz.
-Seçimlik dava
 
 ### Bizim Yorumumuz
 

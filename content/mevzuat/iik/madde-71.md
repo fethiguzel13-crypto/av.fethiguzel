@@ -15,7 +15,6 @@ yahut alacaklının kendisine bir mühlet verdiğini noterden tasdikli veya imza
 bir belge ile ispat ederse, takibin iptal veya talikini her zaman icra mahkemesinden istiyebilir.
 Borçlu, takibin kesinleşmesinden sonraki devrede borcun zamanaşımına uğradığını
 ileri sürecek olursa, 33 a. Maddesi hükmü kıyasen uygulanır.
-Menfi tesbit ve istirdat davaları:35
 
 ### Bizim Yorumumuz
 

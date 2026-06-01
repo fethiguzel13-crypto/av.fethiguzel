@@ -14,7 +14,6 @@ Kanunu veya 2908 sayılı Dernekler Kanunu ile bunların ek ve değişikliklerin
 maddelerine yapılan atıflar, bu Kanuna veya bu Kanunun aynı konuları düzenleyen madde
 veya maddelerine yapılmış sayılır. Bu Kanunda hüküm bulunmayan hallerde aynı konuları
 düzenleyen 4721 sayılı Türk Medeni Kanununun ilgili hükümlerine atıf yapılmış sayılır.
-Kanunun meslekî kuruluşlara uygulanacak hükümleri
 
 ### Bizim Yorumumuz
 

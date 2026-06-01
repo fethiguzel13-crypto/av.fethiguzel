@@ -20,7 +20,6 @@ ikametgahlarını Maliye Bakanlığına bildirirler);
 4. Banka, bankerler ve şirketler ile emanet kabul eden gerçek ve tüzel kişiler
 (Mevduat, şirket hissesi, emanet para ve eşya veya sair suretle alacak sahiplerinden birinin
 ölümü halinde, ölenin soyadını, adını, alacağının nev'ini ve miktarını bildirirler).
-Bilgi vermekten imtina edememek:
 
 ### Bizim Yorumumuz
 

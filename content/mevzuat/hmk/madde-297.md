@@ -26,7 +26,6 @@ e) Gerekçeli kararın yazıldığı tarihi.
 (2) Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin,
 taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların,
 sıra numarası altında; açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir.
-Hükmün yazılması
 
 ### Bizim Yorumumuz
 

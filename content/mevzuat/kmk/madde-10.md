@@ -42,7 +42,6 @@ alan “araç” ibaresi “taşıt, elkoyma kararı veren mercilerce” şeklin
 (5) İkinci fıkra hükmünün uygulanmasındaki değerden, kara taşıtlarında kasko değeri;
 deniz taşıtlarında, tekne ve makine sigortasına esas teşkil eden değer; sigortasız taşıtlar ile
 hava ve demiryolu taşıtlarında ise piyasa değeri anlaşılır.
-Elkonulan eşyanın muhafazası
 
 ### Bizim Yorumumuz
 

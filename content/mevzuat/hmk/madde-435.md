@@ -25,7 +25,6 @@ oybirliğiyle karar veremezse.
 e) 442 nci maddenin ikinci fıkrası uyarınca yargılama giderleri için avans yatırılmazsa.
 (2) 437 nci madde hükmü saklı kalmak üzere, hakem veya hakem kurulunun yetkisi,
 yargılamanın sona ermesiyle ortadan kalkar.
-Hakem kararının şekli, içeriği ve saklanması
 
 ### Bizim Yorumumuz
 

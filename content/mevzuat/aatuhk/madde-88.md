@@ -21,7 +21,6 @@ başkaca bir geliri yoksa kendisinin ve ailesinin geçimleri için kafi miktarda
 satıldıkça bedelinden münasip miktarı borçluya bırakılır.
 Alacaklı tahsil dairesi, haczedilen gayrimenkul ve gemilerin idaresi ve işletilmesi,
 menfaat ve hasılatın toplanması için gereken tedbirleri alır.
-Haczin rehinli alacaklılara bildirilmesi:
 
 ### Bizim Yorumumuz
 

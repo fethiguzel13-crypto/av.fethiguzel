@@ -28,7 +28,6 @@ hazırlanacak bir yönetmelikle belirtilir.
 Komisyon, defterdarın yazılı isteği tarihinden başlayarak üç ay içinde takdir işini
 tamamlar, lüzum görülen yerlerde ve hallerde bu süre Maliye Bakanlığınca bir yıla kadar
 uzatılabilir.
-Ortalama kar hadlerinin kesinleşmesi ve ilanı:
 
 ### Bizim Yorumumuz
 

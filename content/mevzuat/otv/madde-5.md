@@ -32,7 +32,6 @@ belgeler üzerinde gösterilen ve beyan edilen özel tüketim vergisi ihracatç�
 mağazalarında satılmak üzere bu mağazalara veya bunların depolarına mal teslim edenlere iade
 edilir. Maliye Bakanlığı, bu mallara ait verginin iadesine ilişkin usul ve esasları belirlemeye
 yetkilidir.4
-Diplomatik istisna
 
 ### Bizim Yorumumuz
 

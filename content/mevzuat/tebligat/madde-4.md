@@ -17,7 +17,6 @@ kendisine tebliğ yapılacak şahsın bulunduğu yerin mesafesine nazaran her ma
 idare heyetleri tarafından o ilin gerek merkez, gerekse bağlı ilçeleri için ayrı ayrı tesbit olunur.
 Yukarıki fıkraya göre kendilerine zaruri masraf verilen memurlara yaptıkları tebliğ
 dolayısiyle 6245 sayılı kanun mucibince ayrıca harcırah verilmez.
-Ücret ve masrafın peşin ödenmesi:
 
 ### Bizim Yorumumuz
 

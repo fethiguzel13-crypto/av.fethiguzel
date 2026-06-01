@@ -15,7 +15,6 @@ duruşmanın bir kısmının veya tamamının kapalı yapılmasına mahkemece ka
 
 (3) Duruşmanın kapalı yapılması konusundaki gerekçeli karar ile hüküm açık duruşmada
 açıklanır.
-Ses ve görüntü alıcı aletlerin kullanılması yasağı
 
 ### Bizim Yorumumuz
 

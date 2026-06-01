@@ -35,9 +35,6 @@ ihaleden yasaklama kararı verilmez.
 karşılaştıkları takdirde, gereğinin yapılması için bu durumu ilgili bakanlığa bildirmekle
 yükümlüdürler.
 
-
-Ceza sorumluluğu ve sonuçları:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

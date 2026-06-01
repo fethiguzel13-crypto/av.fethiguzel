@@ -28,8 +28,6 @@ bu fıkrada yer alan “, bu mahkemece davanın açılmamış sayılmasına” i
 ve görevsizlik veya yetkisizlik kararı veren mahkemece bu konuda resen” şeklinde değiştirilmiştir.
 1
 
-Yargı yeri belirlenmesini gerektiren sebepler
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

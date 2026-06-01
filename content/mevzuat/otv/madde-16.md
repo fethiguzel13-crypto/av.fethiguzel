@@ -23,9 +23,6 @@ uyarınca ithalat vergileri noksanlıklarında uygulanacak esaslara göre para c
 4. (I) sayılı listedeki malların ithalinde, ödenecek özel tüketim vergisine karşılık olmak
 üzere türü, tutarı ve çözümüne ilişkin usul ve esasları Maliye Bakanlığınca belirlenmek suretiyle
 teminat alınır.
-ALTINCI BÖLÜM
-Diğer Hükümler
-Özel tüketim vergisi hâsılatının paylaşımı
 
 ### Bizim Yorumumuz
 

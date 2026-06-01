@@ -25,7 +25,6 @@ bildirmesi ihtarı,
 4. Beş gün içinde borç ödenmediği, itiraz ve şikayet edilmediği takdirde, alacaklının
 ticaret mahkemesinden borçlunun iflasını talep edebileceği ihtarı.
 60 ıncı maddenin son iki fıkrası burada da tatbik olunur.
-İtiraz veya şikayet:
 
 ### Akademik Yorum ve Analiz
 

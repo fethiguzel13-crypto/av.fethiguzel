@@ -44,7 +44,6 @@ içinde ilgili vergi dairesine verilmesi mecburidir.131
 Geliri telif ve patent haklarının satışından ibaret olan ve tamamı üzerinden tevkif
 suretiyle gelir vergisi ödemiş bulunan dar mükellefiyete tabi kimselerin bu gelirleri için
 münferit beyanname vermeleri ihtiyaridir.
-Münferit beyannamenin muhteviyatı:
 
 ### Bizim Yorumumuz
 

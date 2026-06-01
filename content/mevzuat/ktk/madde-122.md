@@ -15,7 +15,6 @@ yönünden denetlemeye Emniyet Genel Müdürlüğünün koordinatörlüğünde E
 Karayolları Genel Müdürlükleri yetkilidir.
 Eğitim çalışmalarının konu ve kapsamı ile uygulama esasları, denetleme usulleri
 yönetmelikte gösterilir.
-Sürücü kursları:
 
 ### Bizim Yorumumuz
 

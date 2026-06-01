@@ -20,7 +20,6 @@ metne işlendiği şekilde değiştirilmiştir.
 
 doğurduğu haklara halel gelmez. Yeniden haczedilen mallar ayrıca satış talebine hacet
 kalmaksızın ve mümkün olduğu kadar çabuk satılır.
-Sıra cetveli:
 
 ### Akademik Yorum ve Analiz
 

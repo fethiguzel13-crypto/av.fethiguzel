@@ -110,7 +110,6 @@ oldukları her türlü ödemeler Kurum tarafından ödenmeye devam edilir ve bu 
 sona erenlere Kurum tarafından yapılacak ödeme üç ayı geçemez. Bunların Kurumda
 geçirdiği süreler, özlük ve diğer hakları açısından önceki kurum veya kuruluşlarında
 geçirilmiş sayılır.
-Kurulun görev ve yetkileri
 
 ### Bizim Yorumumuz
 

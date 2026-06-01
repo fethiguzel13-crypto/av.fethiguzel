@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 71 –(Mülga: 2/7/2018/KHK/703/102 md.)
-Performans ve vekalet ücreti
 
 ### Bizim Yorumumuz
 

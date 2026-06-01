@@ -46,8 +46,6 @@ zararın meydana geldiği tarihten itibaren altı ay içinde zamanaşımına uğ
 (7) Kamuyu aydınlatma belgelerinden doğan sorumluluğu hafifleten ya da kaldıran
 anlaşmalar, hüküm veya ifadeler geçersizdir.
 
-Diğer ortak hükümler
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -23,7 +23,6 @@ teminat göstermeksizin ihtiyati haciz kararı verilemez.
 Davalılardan herhangi biri davacının alacağını ödediği takdirde, dava reddolunur. Bu
 halde hakim, duruma göre herbirini masrafla ilzam veya bu masrafı aralarında takdir ettiği
 surette taksim eder.
-İptal davasında davalı:
 
 ### Bizim Yorumumuz
 

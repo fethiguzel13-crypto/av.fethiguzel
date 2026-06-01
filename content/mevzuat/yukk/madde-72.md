@@ -23,7 +23,6 @@ ortaya çıkması hâlinde değerlendirme durdurulur.
 (3) Başvurunun kabul edilemez olduğuna ilişkin karar, ilgiliye veya yasal temsilcisine
 ya da avukatına tebliğ edilir. İlgili kişi bir avukat tarafından temsil edilmiyorsa kararın
 sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
-İlk iltica ülkesinden gelenler
 
 ### Bizim Yorumumuz
 

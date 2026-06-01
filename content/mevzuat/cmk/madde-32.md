@@ -18,9 +18,6 @@ tarafından verilir.
 çekinmelerine karar verecek merci, hâkime göre belirlenir.
 İKİNCİ KISIM
 Kararlar, Açıklanması ve Tebliği, Süreler ve Eski Hâle Getirme
-BİRİNCİ BÖLÜM
-Kararlar, Açıklanması ve Tebliği
-Kararların verilmesi usulü
 
 ### Bizim Yorumumuz
 

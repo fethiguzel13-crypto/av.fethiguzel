@@ -17,7 +17,6 @@ sigorta muameleleri vergisi defterinde, diğer işlemlerinden ayırmak suretiyle
 (Ek : 30/12/1980-2365/31 md.) Bankalar ile mevduat faizi ödeyen bankerler yukarıda
 belirtilen defter kayıtlarında bu hususlara ilişkin bilgileri müfredatlı olarak göstermeye
 mecburdurlar.
-Damga resmi kayıtlar:
 
 ### Bizim Yorumumuz
 

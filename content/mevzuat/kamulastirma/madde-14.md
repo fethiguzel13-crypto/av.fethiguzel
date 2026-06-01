@@ -25,7 +25,6 @@ anlaşıldığı takdirde, davaya bu gerçek malik, tapu malikinin daha önce ö
 mirasçıları da dahil edilmek suretiyle devam olunur.
 (İptal altıncı fıkra: Anayasa Mahkemesinin 25/12/2024 Tarihli ve E: 2024/101, K:
 2024/232 Sayılı Kararı ile.)
-Bilirkişiler
 
 ### Bizim Yorumumuz
 

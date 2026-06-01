@@ -23,7 +23,6 @@ bulunan, bu uygulamasının haksız ticari uygulama olmadığını ispatla yük�
 (4) Haksız ticari uygulamaların tespit edilmesine ve bunların denetlenmesine ilişkin
 usul ve esaslar ile her hâlükârda haksız ticari uygulama olarak kabul edilecek uygulamalar
 yönetmelikle belirlenir.
-Reklam Kurulu
 
 ### Bizim Yorumumuz
 

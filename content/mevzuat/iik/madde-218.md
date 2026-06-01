@@ -21,7 +21,6 @@ Basit tasfiyede iflas dairesi alacaklıların menfaatlerine muvafık surette mal
 çevirir ve başka merasime mahal kalmaksızın alacakları tahkik ve sıralarını tayin ederek
 bedellerini dağıtır.
 Tasfiyenin kapandığı ilan olunur.
-Adi tasfiye ve iflasın açılmasının ilanı:
 
 ### Akademik Yorum ve Analiz
 

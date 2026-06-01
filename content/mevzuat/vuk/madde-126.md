@@ -21,9 +21,6 @@ vergilerde 6183 sayılı Kanuna göre hacizin yapıldığı;
 Tarihten başlayarak bir yıldan aşağı olamaz.
 YEDİNCİ KISIM
 Yoklama ve inceleme
-BİRİNCİ BÖLÜM
-Yoklama
-Maksat ve yetki:
 
 ### Bizim Yorumumuz
 

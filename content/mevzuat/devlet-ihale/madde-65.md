@@ -16,7 +16,6 @@ Ancak, kiracı tarafından kurulacak ve tesisat yapılacak olan üretme yerleri 
 kadar kiraya verilebilir.
 Bu madde kapsamına giren kira işlerinde, kira bedeli her yıl şartname ve sözleşmesindeki
 esaslara göre yeniden tespit olunur.
-Sözleşmenin devri:
 
 ### Bizim Yorumumuz
 

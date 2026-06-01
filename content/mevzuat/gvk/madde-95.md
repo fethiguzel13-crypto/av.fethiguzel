@@ -18,7 +18,6 @@ memur ve hizmetlileri:
 3. Maliye Bakanlığınca yıllık beyanname ile bildirilmesinde zaruret görülen ödemeler.
 Bunlar gelirlerini, bu kısmın 2 nci bölümündeki hükümlere göre, yıllık beyanname ile
 bildirirler.
-Vergi tevkifatında uyulacak esaslar:
 
 ### Bizim Yorumumuz
 

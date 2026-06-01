@@ -25,8 +25,6 @@ inci maddesi hükümleri tatbik olunur.
 “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 34
 
-Tahsil imkansızlığı sebebiyle terkin:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

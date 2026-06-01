@@ -19,7 +19,6 @@ yüklenmesinin hakkaniyete aykırı olacağı anlaşıldığında mahkeme, bunla
 tamamen Devlet Hazinesine yüklenmesine karar verir.
 (4) Hüküm kesinleşmeden sanık ölürse, mirasçılar giderleri ödemekle yükümlü
 tutulmazlar.
-Bağlantılı davalarda giderler
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ yılda bir defadan az olmamak üzere yönetim plânlarında gösterilen zamanlar
 kat maliklerine imzalattırılacak bir çağrı veya bir taahhütlü mektupla, toplantı sebebi de bildirilmek şartiyle, kat malikleri kurulu her zaman toplanabilir.
 İlk çağrı yapılırken, birinci toplantıda, yeter sayının sağlanamaması halinde, ikinci toplantının nerede ve hangi tarihte yapılacağı da belirtilir. (Ek cümle: 14/11/2007-5711/14 md.)
 İlk toplantı ile ikinci toplantı arasında bırakılacak zaman yedi günden az olamaz.
-II - Yeter sayı:
 
 ### Bizim Yorumumuz
 

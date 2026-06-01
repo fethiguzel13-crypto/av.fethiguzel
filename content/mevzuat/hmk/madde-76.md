@@ -15,7 +15,6 @@ uygun örneğini, dava yahut takip dosyasına konulmak üzere ibraz etmek zorund
 (2) Kamu kurum ve kuruluşlarının avukatlarına, yetkili amirleri tarafından usulüne
 uygun olarak düzenlenip verilmiş olan temsil belgeleri de geçerli olup, ayrıca noterce
 onaylanmasına gerek yoktur.
-Vekâletnamesiz dava açılması ve işlem yapılması
 
 ### Bizim Yorumumuz
 

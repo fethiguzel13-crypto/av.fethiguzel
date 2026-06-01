@@ -21,7 +21,6 @@ En çok ve en az hız sınırlarını gösteren işaret levhaları, gerekli gör
 Bu Kanunla yetki verilen kuruluşlar tarafından yönetmelikte belirtilen hız sınırları yol
 ve trafik durumuna göre azaltılabilir veya çoğaltılabilir. Bu hallerde durum trafik işaretleri ile
 belirtilir ve uygun vasıtalarla duyurulur.
-Hız sınırlarına uyma zorunluluğu:45
 
 ### Bizim Yorumumuz
 

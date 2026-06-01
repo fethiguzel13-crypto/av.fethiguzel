@@ -50,7 +50,6 @@ bulunmaması durumunda vali tarafından görevlendirilecek bir kamu görevlisi t
 yürütülür.
 Belediye başkanı veya başkan vekili seçimi en geç onbeş gün içinde tamamlanmadığı
 takdirde belediye meclisinin feshine ilişkin hükümler uygulanır.
-Belediye başkanı görevlendirilmesi
 
 ### Bizim Yorumumuz
 

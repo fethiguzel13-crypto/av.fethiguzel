@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 MADDE 241- (1) Mahkeme, gösterilen tanıklardan bir kısmının tanıklığı ile ispat
 edilmek istenen husus hakkında yeter derecede bilgi edindiği takdirde, geri kalanların
 dinlenilmemesine karar verebilir.
-Tanıklığın izne bağlı olduğu hâller
 
 ### Bizim Yorumumuz
 

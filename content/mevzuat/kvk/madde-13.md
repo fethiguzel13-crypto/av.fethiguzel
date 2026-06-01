@@ -135,7 +135,6 @@ merkezlerine bakmaksızın belirlemeye yetkilidir.
 (8) Beyannamelerin şekil, içerik ve ekleri Maliye Bakanlığınca belirlenir. Mükellefler
 beyanlarını bu beyanname ile yapmak veya bu beyannamelerde yazılı bilgilere uygun olarak
 bildirmek zorundadır.
-Vergi kesintisi36
 
 ### Bizim Yorumumuz
 

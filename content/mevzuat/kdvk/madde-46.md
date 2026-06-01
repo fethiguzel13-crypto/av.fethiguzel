@@ -31,9 +31,6 @@ tutan mükelleflerin ödeme zamanını, beyannamenin verildiği ayı takip eden 
 sonuna kadar uzatmaya, işlemin mahiyetini göz önünde tutarak Katma Değer Vergisinin
 işlemden önce ödenmiş olması şartını koymaya yetkilidir.103
 6. (Ek : 6/12/1984 - 3094/4 md.; Mülga : 26/12/1993 - 3946/38 md.)
-BEŞİNCİ BÖLÜM
-Gümrük İdarelerince Alınan Katma Değer Vergisine İlişkin Hükümler
-Gümrük makbuzu:
 
 ### Bizim Yorumumuz
 

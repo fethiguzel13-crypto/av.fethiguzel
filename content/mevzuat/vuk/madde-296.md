@@ -39,7 +39,6 @@ sayılır. İntifa hakkı sahibinin yaşı, ödemenin başladığı tarihte kır
 her tam on yıllık bir devre için yirmi katın dörtte biri indirilmek suretiyle rantın değeri takdir
 olunur. İntifa hakkı sahibinin yaşı, ödemenin başladığı tarihte yetmişi aşmış ise rantın değeri
 bir yıllık tutarıdır.
-Bina ve arazi:
 
 ### Akademik Yorum ve Analiz
 

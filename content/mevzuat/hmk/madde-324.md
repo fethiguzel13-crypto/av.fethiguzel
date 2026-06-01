@@ -16,7 +16,6 @@ ikamesini talep etmişlerse, gereken gideri yarı yarıya avans olarak öderler.
 yatırabilir. Aksi hâlde talep olunan delilin ikamesinden vazgeçilmiş sayılır.
 (3) Tarafların üzerinde serbestçe tasarruf edemeyeceği dava ve işler hakkındaki
 hükümler saklıdır.
-Resen yapılması gereken işlemlere ilişkin giderler
 
 ### Bizim Yorumumuz
 

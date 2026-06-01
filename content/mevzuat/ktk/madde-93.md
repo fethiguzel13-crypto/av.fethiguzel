@@ -17,8 +17,6 @@ herhangi bir hasar ödemesine neden olmayan işletenlerin primlerinin indirilmes
 ödüllendirilmesi, hasar ödemesine neden olan işletenlerin primlerinin yükseltilmesi yoluyla
 cezalandırılması ve gerekli görülen diğer hususlar dikkate alınır.
 
-Sigorta sözleşmesinin verilmesi ve işletenin değişmesi halinde yapılacak işlemler:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

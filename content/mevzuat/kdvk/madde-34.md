@@ -15,7 +15,6 @@ gösterilmek ve bu vesikalar kanuni defterlere kaydedilmek şartıyla indirilebi
 2. Katma Değer Vergisinin fatura ve benzeri vesikalarda ayrıca gösterilmesine gerek
 görülmeyen işlemlerde Vergi indiriminin nasıl belgelendirileceği Maliye ve Gümrük Bakanlığınca
 tespit olunur.
-Matrah ve indirim miktarlarının değişmesi:
 
 ### Bizim Yorumumuz
 

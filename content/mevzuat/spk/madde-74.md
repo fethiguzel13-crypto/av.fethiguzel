@@ -34,7 +34,6 @@ tahkim yoluyla çözümüne ilişkin gerekli altyapıyı kurmak ve yönetmek,
 ile görevli ve yetkilidir.
 (3) Birlik, yapacağı düzenlemelerde ve alacağı kararlarda, bu Kanuna ve ilgili
 mevzuata uymakla yükümlüdür.
-Türkiye Sermaye Piyasaları Birliğinin organları ve Statüsü
 
 ### Bizim Yorumumuz
 

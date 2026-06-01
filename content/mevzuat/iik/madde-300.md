@@ -14,7 +14,6 @@ Komiser, borçluyu iddia olunan alacaklar hakkında açıklamada bulunmaya davet
 Komiser, alacakların varit olup olmadığı hakkında borçlunun defterleri ve belgeleri üzerinde
 gerekli incelemelerde bulunarak bunların neticesini 302 nci madde gereğince vereceği raporda
 belirtir.
-Alacaklılar toplantısına davet:
 
 ### Bizim Yorumumuz
 

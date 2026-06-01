@@ -34,7 +34,6 @@ veli veya vasisinin ya da bakım ve gözetiminden sorumlu kimsenin desteklenmesi
 tehlikenin bertaraf edileceğinin anlaşılması hâlinde; çocuk, bu kişilere teslim edilir. Bu
 fıkranın uygulanmasında, çocuk hakkında birinci fıkrada belirtilen tedbirlerden birisine de
 karar verilebilir.
-Kuruma başvuru
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ Kiralayanın ve kiracının ve varsa mümessillerinin isim, şöhret ve yerleşi
 mukavele tarihi ve kiranın yenilendiğine veya uzatıldığına dair bir itirazı varsa yedi gün
 içinde daireye müracaatla beyan etmez ve itirazda bulunmaz veya kendiliğinden tahliye
 etmezse zorla çıkarılacağı yazılır.
-2 – Tahliye ve teslim:
 
 ### Bizim Yorumumuz
 

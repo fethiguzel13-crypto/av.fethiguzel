@@ -25,7 +25,6 @@ edilmeyen bölümü üç bin Türk Lirasını geçmeyen taraf, istinaf yoluna ba
 (5) İlk derece mahkemelerinin diğer kanunlarda temyiz edilebileceği veya haklarında
 Yargıtaya başvurulabileceği belirtilmiş olup da bölge adliye mahkemelerinin görev alanına
 giren dava ve işlere ilişkin nihai kararlarına karşı, bölge adliye mahkemelerine başvurulabilir.
-İstinaf dilekçesi
 
 ### Bizim Yorumumuz
 

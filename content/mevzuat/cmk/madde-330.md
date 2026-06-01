@@ -20,9 +20,6 @@ gördüğü şekilde giderleri bölüştürür.
 yenilenmesi isteminden ileri gelen giderler hakkında da aynı hüküm geçerlidir.
 (4) Eski hâle getirme isteminden doğan giderler, hasım tarafının esassız karşı
 koymasından meydana gelmiş değilse, bu istemi ileri sürene yükletilir.
-İKİNCİ KISIM
-Çeşitli Hükümler
-Adlî tatil
 
 ### Bizim Yorumumuz
 

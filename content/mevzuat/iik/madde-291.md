@@ -42,7 +42,6 @@ verir.
 Mahkeme, bu madde uyarınca karar vermeden önce borçlu ve varsa konkordato talep
 eden alacaklı ve alacaklılar kurulunu duruşmaya davet eder; diğer alacaklıları ise gerekli
 görürse davet eder.
-Kanun yolları:94
 
 ### Bizim Yorumumuz
 

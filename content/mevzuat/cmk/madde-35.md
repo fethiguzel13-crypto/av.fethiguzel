@@ -15,7 +15,6 @@ kararın bir örneği de verilir.
 hâkim veya mahkeme kararları, hazır bulunamayan ilgilisine tebliğ olunur.2
 (3) İlgili taraf serbest olmayan bir kişi veya tutuklu ise tebliğ edilen karar, kendisine
 okunup anlatılır.
-Tebligat ve yazışma usulü
 
 ### Bizim Yorumumuz
 

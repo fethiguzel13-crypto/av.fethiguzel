@@ -15,7 +15,6 @@ da karar verebilir.
 başkanı, yargılama usulü ile ilgili belirli konularda tek başına karar verebilir.
 (3) Hakem veya hakem kurulu, ancak tarafların açıkça yetkili kılmış olmaları şartıyla
 hakkaniyet ve nasafet kurallarına göre veya dostane çözüm yoluyla karar verebilir.
-Sulh
 
 ### Bizim Yorumumuz
 

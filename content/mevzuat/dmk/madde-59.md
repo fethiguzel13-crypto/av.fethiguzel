@@ -126,7 +126,6 @@ hesabında ve diğer memurluklara naklen atanmalarında herhangi bir sınıf iç
 sayılmaz. Bu görevlerde bulunan memurların emeklilik kıdemleri yürümekte devam eder.
 (Son fıkra mülga: 11/9/1987 – KHK-276/13 md.; Aynen kabul: 24/2/1988 - 3409/13
 md.)
-İstisnai memurluklara atanmada aranacak şartlar:
 
 ### Bizim Yorumumuz
 

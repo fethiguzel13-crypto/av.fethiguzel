@@ -17,7 +17,6 @@ Bakanlığınca hazırlanacak yönetmelikle tayin ve tesbit olunur.12
 (Ek fıkra: 17/7/2003-4949/3 md.) Yargıtay, icra ve iflâs işlerine ait kararların
 tamamını düzenli olarak yayımlar. Buna ilişkin esaslar Yargıtay tarafından yönetmelikle
 düzenlenir.
-Harçlar:
 
 ### Bizim Yorumumuz
 

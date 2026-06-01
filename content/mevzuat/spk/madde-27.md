@@ -24,8 +24,6 @@ kişilerden ve bunlarla birlikte hareket edenlerden talep edebilirler.
 (3) 6102 sayılı Kanunun 208 inci maddesi halka açık ortaklıklara uygulanmaz.
 (4) Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurulca belirlenir.
 
-İmtiyazlı paylar
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

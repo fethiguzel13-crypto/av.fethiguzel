@@ -16,9 +16,6 @@ dışındaki konularda genel esaslar tespit etmeye,
 Yetkilidir.
 İKİNCİ KISIM
 İhale İşlemleri
-BİRİNCİ BÖLÜM
-İhaleye Hazırlık
-Tahmin edilen bedelin tespiti:
 
 ### Bizim Yorumumuz
 

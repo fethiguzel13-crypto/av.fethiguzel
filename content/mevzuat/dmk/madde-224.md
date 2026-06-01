@@ -31,7 +31,6 @@ hizmet yüklenir.
 Mecburi hizmet yükümlülüğünün 13/12/1960 tarihli ve 160 sayılı Kanunun 4 üncü
 maddesinin a, b, d fıkraları kapsamına giren kurumlar arasında devri mümkündür. Mecburi
 hizmetle yükümlü bulunanlar, yarışma sınavına tabi tutulmaksızın atanırlar.284
-Mecburi hizmetle ilgili yükümlülükler:
 
 ### Bizim Yorumumuz
 

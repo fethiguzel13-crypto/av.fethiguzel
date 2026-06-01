@@ -24,7 +24,6 @@ sözlü yargılama için duruşmanın ertelenmesi hâlinde taraflara ayrıca dav
 yargılamaya geçileceği, sözlü yargılama için duruşmanın ertelenmesi hâlinde taraflara ayrıca
 davetiye gönderilmeyeceği ve 150 nci madde hükmü saklı kalmak kaydıyla, yokluklarında
 hüküm verileceği bildirilir.
-Mahkemenin çalışma zamanı
 
 ### Bizim Yorumumuz
 

@@ -26,7 +26,6 @@ maddesi hükümleri uyarınca tespit ve ilan edilen yeniden değerleme oranında
 uygulanır. Bu artışların hesabında bin Türk Lirasının küsuru dikkate alınmaz. 19
 (5) Bu madde tüketicilerin ilgili mevzuatına göre alternatif uyuşmazlık çözüm
 mercilerine başvurmasına engel değildir.
-İnceleme
 
 ### Bizim Yorumumuz
 

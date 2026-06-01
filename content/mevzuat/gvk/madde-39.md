@@ -21,7 +21,6 @@ giderlere ilave olunur.
 Ticari kazancın bu suretle tesbit edilmesi sırasında Vergi Usul Kanununun
 değerlemeye ait hükümleri ile bu kanunun 40 ve 41 inci maddeleri hükümlerine uyulur.
 Mükerrer Madde 39 – (Ek: 4/12/1985-3239/47 md.; Mülga: 26/12/1993-3946/38 md.)
-İndirilecek giderler:35
 
 ### Akademik Yorum ve Analiz
 

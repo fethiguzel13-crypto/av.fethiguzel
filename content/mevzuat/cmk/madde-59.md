@@ -16,7 +16,6 @@ ilişkin bildiklerini söylemesi istenir ve tanıklık ederken sözü kesilmez.
 (2) Tanıklık edilen konuları aydınlatmak, tamamlamak ve bilgilerinin dayandığı
 
 durumları gereğince değerlendirebilmek için tanığa ayrıca soru yöneltilebilir.
-Tanıklıktan ve yeminden sebepsiz çekinme
 
 ### Bizim Yorumumuz
 

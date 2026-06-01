@@ -14,7 +14,6 @@ hâkim tarafından resen başvurulan deliller için gereken giderlerin, bir haft
 taraflardan birisi veya belirtilecek oranda her ikisi tarafından ödenmesine karar verilir.
 Belirlenen süre içinde bu işlemlere ait giderleri karşılayacak miktarda avans yatırılmazsa,
 ileride bu gideri ödemesi gereken taraftan alınmak üzere Hazineden ödenmesine hükmedilir.
-Yargılama giderlerinden sorumluluk
 
 ### Bizim Yorumumuz
 

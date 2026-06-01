@@ -28,7 +28,6 @@ Maliye Bakanlığı, elektronik ortamda yapılacak tebliğle ilgili her türlü 
 kurmaya veya kurulmuş olanları kullanmaya, tebliğe elverişli elektronik adres kullanma
 zorunluluğu getirmeye ve kendisine elektronik ortamda tebliğ yapılacakları ve elektronik tebliğe
 ilişkin diğer usul ve esasları belirlemeye yetkilidir.25
-Hatalı tebliğler:
 
 ### Bizim Yorumumuz
 

@@ -28,8 +28,6 @@ için, Kanunun sonundaki "ÇEŞİTLİ MEVZUAT İLE YAPILAN DEĞİŞİKLİKLER CE
 bakınız.
 85
 
-Zararların karlara takas ve mahsubu:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

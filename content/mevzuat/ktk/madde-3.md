@@ -224,9 +224,6 @@ skuter kullanımı için özel olarak belirlenmiş ve yer işaretlemesi ile ayr�
 Bu Kanunun uygulaması ile ilgili diğer tanım ve terimler yönetmelikte gösterilir. (Ek
 cümle: 12/7/2013-6495/13 md.) Bu maddedeki tanım ve terimlerle ilgili olarak vergi kanunları
 hükümleri saklıdır.
-İKİNCİ KISIM
-Kuruluşlar, Komisyonlar, Görev ve Yetkileri4
-Görevli kurullar ve kuruluşlar:4
 
 ### Bizim Yorumumuz
 

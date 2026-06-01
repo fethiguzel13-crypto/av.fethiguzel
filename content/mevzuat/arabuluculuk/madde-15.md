@@ -39,7 +39,6 @@ hareket etmek suretiyle görevini kötüye kullanan üyelere ödeme tarihinden i
 içinde rücu eder.
 (10) (Ek: 12/10/2017-7036/22 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esaslar Bakanlıkça yürürlüğe konulan yönetmelikle düzenlenir.
-Arabuluculuk sürecinin başlaması ve sürelere etkisi
 
 ### Bizim Yorumumuz
 

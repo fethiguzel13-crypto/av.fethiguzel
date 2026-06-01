@@ -17,9 +17,6 @@ belediyesine, mahallî tapu dairesine, il özel idaresine ve o yerin mülkî ida
 Kesinleşen sınırlar zorunlu nedenler olmadıkça beş yıl süre ile değiştirilemez.
 1 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 2 18/6/2025 tarihli ve 7551 sayılı Kanunun 13 üncü maddesi ile bu fıkrada yer alan “gönderilir” ibaresi “gönderilir ve o yerde belediye kurulabilir” şeklinde değiştirilmiştir.
 
-
-Sınır uyuşmazlıklarının çözümü
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

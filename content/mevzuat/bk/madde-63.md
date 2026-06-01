@@ -59,9 +59,6 @@ c) 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 282 nci maddesindeki 
 kaynaklanan malvarlığı değerleri kapsamına giren mevduat ve katılım fonu ile diğer hesaplar.
 d) (Değişik:26/5/2022-7407/2 md.) Fon Kurulu tarafından Kurulun görüşü alınmak
 suretiyle belirlenen diğer mevduat, katılım fonu ve hesaplar.
-ALTINCI KISIM
-Denetim ve Alınacak Önlemler
-Denetim
 
 ### Bizim Yorumumuz
 

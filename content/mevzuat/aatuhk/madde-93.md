@@ -16,7 +16,6 @@ Maliye Vekaletince tayin olunur.
 vasıfları gösterilir.
 İlanın birer örneği, borçluya, vekil veya mümessiline ve gayrimenkulün tapu sicilinde
 hakkı kayıtlı bulunanlardan adresi belli olanlara tebliğ olunur.
-Gayrimenkul mallarda artırma ve ihale:
 
 ### Bizim Yorumumuz
 

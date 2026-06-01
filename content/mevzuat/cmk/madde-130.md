@@ -23,7 +23,6 @@ belirten tutanaklar ortadan kaldırılır. Bu fıkrada öngörülen kararlar, yi
 verilir.
 (3) Postada elkoyma durumunda bürosunda arama yapılan avukat veya baro başkanı
 veya onu temsil eden avukatın karşı koyması üzerine ikinci fıkrada belirtilen usuller uygulanır.
-Elkonulan eşyanın iadesi
 
 ### Bizim Yorumumuz
 

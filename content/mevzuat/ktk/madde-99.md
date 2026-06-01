@@ -18,7 +18,6 @@ diğer sigortacılardan yazılı olarak talep eder. Diğer sigortacılar talep t
 iş günü içinde kendilerine düşen miktarı talepte bulunana öder.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayan sigortacılar, 108 000 000
 lira hafif para cezası ile cezalandırılırlar.
-İhtiyari mali sorumluluk sigortasına uygulanacak hükümler:
 
 ### Bizim Yorumumuz
 

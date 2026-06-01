@@ -22,7 +22,6 @@ antenler sıcak ve soğuk hava tesisleri,
 c) Çatılar, bacalar, genel dam terasları, yağmur olukları, yangın emniyet merdivenleri.
 Yukarıda sayılanların dışında kalıp da, yine ortaklaşa kullanma, korunma veya faydalanma için zaruri olan diğer yerler ve şeyler de (Ortak yer) konusuna girer.
 B) Bağlantılar :
-I - Bağımsız bölümlerle arsa payı arasındaki bağlantı:
 
 ### Bizim Yorumumuz
 

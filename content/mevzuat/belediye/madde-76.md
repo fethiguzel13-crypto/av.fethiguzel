@@ -20,7 +20,6 @@ konseyinin faaliyetlerinin etkili ve verimli yürütülmesi konusunda yardım ve
 Kent konseyinde oluşturulan görüşler belediye meclisinin ilk toplantısında gündeme
 alınarak değerlendirilir. Kent konseyinin çalışma usûl ve esasları Çevre ve Şehircilik
 Bakanlığınca hazırlanacak yönetmelikle belirlenir.51
-Belediye hizmetlerine gönüllü katılım
 
 ### Bizim Yorumumuz
 

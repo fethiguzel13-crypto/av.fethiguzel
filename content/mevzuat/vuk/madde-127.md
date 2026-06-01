@@ -41,7 +41,6 @@ belirlemeye, yoklamaya yetkili olanların bu husustaki görev ve yetkilerini sı
 ve Gümrük Bakanlığı yetkilidir.
 Yoklama ve denetimde görevli memurların görevlerini ifa sırasında, güvenliklerinin
 sağlanmasına ilişkin esaslar Cumhurbaşkanınca belirlenir.33
-Yoklamaya yetkililer:
 
 ### Bizim Yorumumuz
 

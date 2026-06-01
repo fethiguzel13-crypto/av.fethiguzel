@@ -25,7 +25,6 @@ Hallerinde, gerekli sosyal sigorta yardımları sağlanır.
 Bu sigorta yardımları özel kanunlarla düzenlenir.
 Bu sigortalardan tanınan hak ve sağlanan yardımlar, genel sosyal sigorta rejimleri ile
 kabul edilen hak ve yardımlardan az olamaz.
-Yeniden işe alıştırma:
 
 ### Bizim Yorumumuz
 

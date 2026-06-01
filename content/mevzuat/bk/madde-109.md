@@ -38,7 +38,6 @@ Faaliyet izninin kaldırıldığı veya Fona devredildiği tarihten itibaren ban
 alacaklılarından temlik yoluyla alacak edinen borçlular, temlik yoluyla edindikleri alacakları
 ile bankaya olan borçlarının takasının yapılması veya mahsup edilmesi talebinde bulunamaz.
 Bu sonucu doğuracak takas ve mahsup işlemleri banka açısından geçersizdir.
-Şahsi sorumluluk
 
 ### Bizim Yorumumuz
 

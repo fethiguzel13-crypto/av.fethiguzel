@@ -42,7 +42,6 @@ başkanlık eder.
 Büyükşehir belediye encümeninin başkanı ve seçilmiş üyelerine, (12.000) gösterge
 rakamının Devlet memur aylıkları için belirlenen katsayı ile çarpımı sonucu bulunacak
 miktarda aylık brüt ödenek verilir. Encümenin memur üyelerine bu miktarın yarısı ödenir.
-Büyükşehir belediye başkanı
 
 ### Bizim Yorumumuz
 

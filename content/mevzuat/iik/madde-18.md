@@ -22,7 +22,6 @@ Duruşma yapılmayan işlerde icra mahkemesi, işin kendisine geldiği tarihten 
 gün içinde kararını verir. Duruşmalar, ancak zorunluluk hâlinde ve otuz günü geçmemek
 üzere ertelenebilir.
 MÜDDETLER
-Başlaması ve bitmesi:
 
 ### Bizim Yorumumuz
 

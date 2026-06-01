@@ -24,7 +24,6 @@ gösterilir.
 (3) (Değişik:22/7/2020-7251/45 md.) Hakem kararı; hakem, hakem kurulu başkanı
 veya ilgili tahkim kurumu tarafından taraflara bildirilir. Ayrıca kararın aslı dosya ile birlikte
 mahkemeye gönderilir ve mahkemece saklanır.
-Hakem kararının tavzihi, düzeltilmesi ve tamamlanması
 
 ### Bizim Yorumumuz
 

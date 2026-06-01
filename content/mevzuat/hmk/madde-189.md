@@ -18,7 +18,6 @@ olunamaz.
 (4) Bir vakıanın ispatı için gösterilen delilin caiz olup olmadığına mahkemece karar
 
 verilir.
-İspat yükü
 
 ### Bizim Yorumumuz
 

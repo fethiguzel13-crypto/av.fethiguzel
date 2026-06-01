@@ -22,7 +22,6 @@ taşınmazların satış dahil değerlendirilmesine Maliye Bakanlığınca belir
 esaslara göre izin verilebilir.
 Beş yıl içinde kuruluş gayesine uygun olarak kullanılmadığı takdirde, taşınmaz mal,
 satış bedeli üzerinden Hazinece geri alınır.
-Tarihi ve bedii değeri olan taşınmaz malların kiraya verilmesi:
 
 ### Bizim Yorumumuz
 

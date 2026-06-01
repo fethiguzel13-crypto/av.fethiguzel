@@ -17,7 +17,6 @@ tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabilir; temyiz yolu
 incelemesi Hukuk Muhakemeleri Kanunu hükümlerine göre yapılır. Bu durumda da 363 üncü
 maddenin ikinci ve üçüncü fıkra hükümleri uygulanır.
 Temyiz yoluna başvurma, satıştan başka icra işlemlerini durdurmaz.
-İstinaf dilekçesinin reddi139
 
 ### Bizim Yorumumuz
 

@@ -17,9 +17,6 @@ elde ettikleri kazançlar (Türkiye'de başkaca iş yeri veya daimi temsilcileri
 şartiyle);
 2. Bu sergi ve panayırlarda yaptıkları serbest meslek faaliyetlerinden elde ettikleri
 kazançlar; Gelir Vergisinden müstesnadır.
-YEDİNCİ BÖLÜM
-İndirimler28
-Engellilik indirimi:293031
 
 ### Akademik Yorum ve Analiz
 

@@ -20,7 +20,6 @@ müracaatı için kesin süre verilir. Bu süre içinde mahkemeye başvurulması
 karar verilinceye kadar beklenir.
 (3) Süresi içinde belgelerin ibraz edilmemesi veya mahkemeye başvurulmaması
 hâlinde, dava açılmamış veya gerçekleştirilen işlemler yapılmamış sayılır.
-Dava sırasında taraflardan birinin ölümü
 
 ### Bizim Yorumumuz
 

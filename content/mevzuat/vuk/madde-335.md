@@ -14,7 +14,6 @@ wordCount: 908
 Madde 335 – (Değişik: 30/12/1980-2365/61 md.)
 Vergi ziyaı cezasında cezayı istilzam eden tek bir fiil ile başka neviden birkaç vergi
 ziyaa uğramış olursa her vergi bakımından ayrı ayrı ceza kesilir.
-b) Muhtelif cezayı istilzam etmesi:112
 
 ### Akademik Yorum ve Analiz
 

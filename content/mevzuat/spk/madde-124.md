@@ -42,7 +42,6 @@ gerektiren alanlara ilişkin olması hâlinde, kamu kurum ve kuruluşlarından b
 üzere uzman personel ya da belirli bir konuda çalışma raporu talep etmek
 (3) Başkan, Kurul Karar Organına ilişkin olmayan görev ve yetkilerinden bir
 bölümünü, sınırlarını açıkça belirlemek ve yazılı olmak kaydıyla alt kademelere devredebilir.
-Kurul başkan yardımcıları
 
 ### Bizim Yorumumuz
 

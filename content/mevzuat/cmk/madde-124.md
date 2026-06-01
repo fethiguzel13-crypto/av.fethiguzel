@@ -14,7 +14,6 @@ yanında bulunduran kişi, istem üzerine bu şeyi göstermek ve teslim etmekle 
 (2) Kaçınma hâlinde bu şeyin zilyedi hakkında 60 ıncı maddede yer alan disiplin hapsine
 ilişkin hükümler uygulanır. Ancak, şüpheli veya sanık ya da tanıklıktan çekinebilecekler hakkında
 bu hüküm uygulanmaz.
-İçeriği Devlet sırrı niteliğindeki belgelerin mahkemece incelenmesi
 
 ### Bizim Yorumumuz
 

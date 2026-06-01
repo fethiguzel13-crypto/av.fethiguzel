@@ -16,7 +16,6 @@ Akademiler dahil), okul, kurs veya yaygın eğitim yapan kurumlarda ve benzeri k
 diğer memurlara veyahut açıktan atanacaklara ücret ile ek ders görevi verilebilir.
 Ücretle okutulacak ders saatlerinin sayısı, ders görevi alacakların nitelikleri ve diğer
 hususlar Cumhurbaşkanı kararı ile tespit olunur.158
-Birleşemiyecek görevler:
 
 ### Bizim Yorumumuz
 

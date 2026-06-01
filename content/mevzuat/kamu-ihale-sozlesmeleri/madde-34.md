@@ -15,9 +15,6 @@ denetim eksikliği, taahhüdün sözleşme ve şartname hükümlerine uygun olar
 getirilmemesi ve benzeri nedenlerle ortaya çıkan zarar ve ziyandan doğrudan sorumludur. Bu
 zarar ve ziyan genel hükümlere göre hizmet sunucusuna ikmal ve tazmin ettirilir. Ayrıca
 haklarında 27 nci madde hükümleri uygulanır.
-DÖRDÜNCÜ KISIM
-Çeşitli Hükümler
-Teminat
 
 ### Bizim Yorumumuz
 

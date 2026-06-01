@@ -14,7 +14,6 @@ geçerlilik süresinden altmış gün daha kısa süreli, kalış amacına bağl
 düzenlenir.
 (2) İkamet izninin şekli ve içeriği Bakanlıkça, ikamet izni yerine geçen çalışma izninin
 şekli ve içeriği ise Bakanlık ve ilgili kurumlarca birlikte belirlenir.
-İkamet izinlerinin uzatılması
 
 ### Bizim Yorumumuz
 

@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 61 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Basın ve Halkla İlişkiler Müşavirliği
 
 ### Bizim Yorumumuz
 

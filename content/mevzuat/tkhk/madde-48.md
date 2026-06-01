@@ -75,7 +75,6 @@ sorumludur.
 mesafeli sözleşme kurulmasına aracılık eden aracı hizmet sağlayıcının hak ve yükümlülükleri,
 cayma hakkı, bilgilendirme yükümlülüğü, teslimat ile diğer uygulama usul ve esasları
 yönetmelikle belirlenir.13
-Finansal hizmetlere ilişkin mesafeli sözleşmeler
 
 ### Bizim Yorumumuz
 

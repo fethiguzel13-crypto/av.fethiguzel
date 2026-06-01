@@ -18,9 +18,6 @@ uygulanır.
 işlerde hazır bulundurulmasını isteyebilir. Ancak, hâkim veya mahkeme tarafından zorunlu
 sayılan hâllerde tutuklu bulunan şüpheli veya sanığın da bu tür işlerde hazır bulunmasına
 karar verilebilir.
-İKİNCİ BÖLÜM
-Duruşma
-Duruşmanın açıklığı
 
 ### Bizim Yorumumuz
 

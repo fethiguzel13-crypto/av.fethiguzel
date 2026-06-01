@@ -16,7 +16,6 @@ mühendisler, mimarlar, şehir plancıları deruhte ederler.
 resim ve hesaplarının hazırlanmasını ve bunların uygulanmasıyla ilgili fenni mesuliyetleri,
 uzmanlık konularına ve ilgili kanunlarına göre mühendisler, mimarlar ile görev, yetki ve
 sorumlulukları yönetmelikle düzenlenecek olan fen adamları deruhte ederler.
-Yıkılacak derecede tehlikeli yapılar:
 
 ### Bizim Yorumumuz
 

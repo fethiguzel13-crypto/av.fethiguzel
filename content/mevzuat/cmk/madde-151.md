@@ -38,7 +38,6 @@ hükümlü ile yeni bir müdafi görevlendirilmesi için derhal ilgili baro baş
 (6) (Ek:25/5/2005 - 5353/22 md.) Müdafi veya vekil görevden yasaklanmış
 bulunduğu sürece başka davalarla ilgili olsa bile müdafiliğini veya vekilliğini üstlendiği kişiyi
 ceza infaz kurumunda veya tutukevinde ziyaret edemez.
-Şüpheli veya sanığın birden fazla olması hâlinde savunma
 
 ### Bizim Yorumumuz
 

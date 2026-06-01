@@ -92,7 +92,6 @@ elektronik ortamda düzenlenmesi ile vergi incelemelerinde uyulacak diğer usul 
 komisyonların teşekkülü ile çalışma usul ve esasları ve Merkezi Rapor Değerlendirme
 Komisyonu tarafından doğrudan değerlendirmeye tabi tutulacak vergi inceleme raporlarının
 tutarları, (…)39 Maliye Bakanlığınca çıkarılan yönetmelikle belirlenir.40
-İnceleme tutanakları:
 
 ### Bizim Yorumumuz
 

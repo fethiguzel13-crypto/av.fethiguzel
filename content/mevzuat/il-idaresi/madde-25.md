@@ -14,7 +14,6 @@ bayındırlık işleriyle ilgili hizmetlerin ahenkli olarak yürütülmesi için
 uygun tedbirler görüşülmek üzere kaymakamları yılda bir defa toplantıya çağırır.
 İşler, önemlerine ve eldeki imkanlara göre sıralanarak programlanır ve ilçeye düşen
 vazifeler ayrılır ve bir yıl önceki programın uygulama neticeleri gözden geçirilir.
-V - Devir ve teftiş
 
 ### Bizim Yorumumuz
 

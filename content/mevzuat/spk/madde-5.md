@@ -16,7 +16,6 @@ bilgilere, garantöre ve garantinin niteliğine, izahnameyi oluşturan belgelere
 yayımlanmış bilgilere atıfta bulunulmasına, satış şartlarına, onaylanan izahnamede değişiklik
 yapılmasına ve izahname hazırlama ve yayımlanmasından kısmen veya tamamen muafiyete
 ilişkin usul ve esasları belirler.
-İzahnamenin onaylanması
 
 ### Bizim Yorumumuz
 

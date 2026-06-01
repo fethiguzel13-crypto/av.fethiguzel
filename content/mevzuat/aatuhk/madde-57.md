@@ -16,8 +16,6 @@ olarak değiştirilmiş olup aynı Kanunun 123 üncü maddesi uyarınca söz kon
 yürürlüğe girmiştir.
 26
 
-Ödeme emrine itiraz:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

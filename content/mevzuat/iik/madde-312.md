@@ -15,7 +15,6 @@ mezkür fasılda yazılı şartların ifasından başka dilekçesine, masaya kab
 
 alacaklıların alacakları tamamen itfa edildiğine dair makbuzlarını veya sair vesikalarını
 raptetmesi lazımdır.
-B – Taksiratlı müflis:
 
 ### Bizim Yorumumuz
 

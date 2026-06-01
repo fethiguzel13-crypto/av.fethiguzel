@@ -29,8 +29,6 @@ Bu maddenin, ikinci ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı
 ile birleştirilmek suretiyle maddenin ikinci fıkrası olarak yeniden düzenlenmiştir.
 62
 
-Yarış ve koşulara ait kurallar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

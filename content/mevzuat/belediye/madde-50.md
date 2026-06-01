@@ -32,9 +32,6 @@ olmaksızın tazminat olarak ödenir.
 Tüzel kişiliği kaldırılan belediyelerde 657 sayılı Devlet Memurları Kanununun 4 üncü
 maddesinin (B) fıkrasına göre istihdam edilen sözleşmeli personelin pozisyonları, (...)30 başka bir
 işleme gerek kalmaksızın devredildikleri belediye veya il özel idaresi adına vize edilmiş sayılır.
-İKİNCİ BÖLÜM
-Belediye Zabıtası, İtfaiye ve Acil Durum Plânlaması
-Zabıtanın görev ve yetkileri
 
 ### Bizim Yorumumuz
 

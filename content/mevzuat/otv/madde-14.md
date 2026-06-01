@@ -42,7 +42,6 @@ veya resen tarh yerini tayin etmeye, işlemin mahiyetine göre verginin işlemde
 şartını koymaya, müzayede yoluyla yapılan satışlarla ilgili vergilerin beyanı ve ödeme zamanı ile
 tahsiline ilişkin usul ve esasları belirlemeye, (III) sayılı listedeki mallara ait verginin bandrol
 usulü ile tahsiline ve bu Maddenin uygulanmasına ilişkin usulleri tespit etmeye yetkilidir.
-Verginin belgelerde gösterilmesi, matrahta, vergide ve mükellefiyette değişiklikler
 
 ### Bizim Yorumumuz
 

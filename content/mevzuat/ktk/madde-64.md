@@ -39,7 +39,6 @@ Yasaktır.
 (3) numaralı alt bentleri ile (b) bendi hükümlerine uymayanlar 1 800 000 lira, birinci
 fıkrasının (a) bendinin (2) numaralı alt bendi hükümlerine uymayan sürücüler 3 600 000 lira
 para cezası ile cezalandırılırlar.
-Yüklü ve yüksüz araçlar:48
 
 ### Bizim Yorumumuz
 

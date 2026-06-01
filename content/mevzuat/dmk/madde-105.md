@@ -35,7 +35,6 @@ hayatı tehlikeye girecek ana, baba, eş ve çocukları ile kardeşlerinden biri
 geçirmesi veya tedavisi uzun süren bir hastalığının bulunması hâllerinde, bu hâllerin sağlık
 kurulu raporuyla belgelendirilmesi şartıyla, aylık ve özlük hakları korunarak, üç aya kadar
 izin verilir. Gerektiğinde bu süre bir katına kadar uzatılır.
-İyileşme halinde göreve dönüş:
 
 ### Bizim Yorumumuz
 

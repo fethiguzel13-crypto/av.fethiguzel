@@ -47,7 +47,6 @@ de uzatma talebi kesin mühletin sonra ermesinden önce yapılır ve uzatma kara
 Kesin mühlet verilmesine, kesin mühletin uzatılmasına ve kesin mühletin kaldırılarak
 konkordato talebinin reddine ilişkin kararlar, 288 inci madde uyarınca ilân edilir ve ilgili
 yerlere bildirilir.
-Konkordato komiseri ve alacaklılar kurulu ile bunların görevleri:90
 
 ### Bizim Yorumumuz
 

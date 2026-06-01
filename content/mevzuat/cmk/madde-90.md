@@ -30,7 +30,6 @@ savcısına hemen bilgi verilerek, emri doğrultusunda işlem yapılır.
 (6) Yakalama emrine konu işlemin yerine getirilmesi nedeniyle yakalama emrinin
 çıkarılma amacının ortadan kalkması durumunda mahkeme, hâkim veya Cumhuriyet savcısı
 tarafından yakalama emrinin derhâl iadesi istenir.
-Gözaltı
 
 ### Bizim Yorumumuz
 

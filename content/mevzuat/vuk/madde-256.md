@@ -24,7 +24,6 @@ hesap ve işlemlerin doğrulanması için gerekli kayıt ve belgelerle sınırl�
 ve işlemlere doğrudan ya da silsile yoluyla taraf olanlara, defter ve belgelerinin tetkiki
 amacıyla yeminli mali müşavirler ve serbest muhasebeci mali müşavirler tarafından yapılan
 talepler için de geçerlidir.
-Diğer ödevler:
 
 ### Akademik Yorum ve Analiz
 

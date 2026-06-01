@@ -26,7 +26,6 @@ TL) aşmamak.55
 olmamak.
 2 ve 3 numaralı bent hükümleri öteden beri işe devam edenlerde takvim yılı başındaki,
 yeniden işe başlayanlarda ise işe başlama tarihindeki duruma göre uygulanır.
-Basit usule tabi olmanın özel şartları
 
 ### Akademik Yorum ve Analiz
 

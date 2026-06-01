@@ -14,7 +14,6 @@ nihai kararlar ile hakem kararlarının iptali talebi üzerine verilen kararlara
 tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabilir.55
 (2) Davada haklı çıkmış olan taraf da hukuki yararı bulunmak şartıyla temyiz yoluna
 başvurabilir.
-Temyiz edilemeyen kararlar56
 
 ### Bizim Yorumumuz
 

@@ -13,7 +13,6 @@ MADDE 409- (1) Tarafların aksini kararlaştırabilecekleri bir hükme veya tahk
 sözleşmesine uyulmaz ise ilgili taraf bu aykırılığa itiraz edebilir. İlgili taraf, aykırılığı öğrendiği
 tarihten itibaren iki hafta veya hakemlerin bu konuda kararlaştırdıkları süre içinde itiraz
 etmeden tahkime devam ederse, itiraz hakkından feragat etmiş sayılır.
-Tahkimde görevli ve yetkili mahkeme
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ muhasebe ilkelerine uygunluğunun Kurumca belirlenecek esaslar dahilinde 1.6.198
 3568 sayılı Kanuna göre ruhsat almış, denetim yetkisine sahip meslek mensupları tarafından
 onaylanması şarttır.
 Bu maddenin uygulanmasıyla ilgili usûl ve esaslar Kurulca belirlenir.
-Karşılıklar, teminatlar ve kayıttan düşme
 
 ### Bizim Yorumumuz
 

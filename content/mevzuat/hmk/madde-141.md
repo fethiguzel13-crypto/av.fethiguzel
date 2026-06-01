@@ -15,7 +15,6 @@ Dilekçelerin karşılıklı verilmesinden sonra iddia veya savunma genişletile
 değiştirilemez.
 (2) İddia ve savunmanın genişletilip değiştirilmesi konusunda ıslah ve karşı tarafın
 açık muvafakati hükümleri saklıdır.
-Süreler hakkında karar
 
 ### Bizim Yorumumuz
 

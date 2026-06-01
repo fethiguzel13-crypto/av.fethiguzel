@@ -44,7 +44,6 @@ hükmüne aykırı hareket edilmesi veya çekin karşılıksız çıkması dolay
 talep edilmesi üzerine düzenleyicinin banka kayıtlarındaki adreslerinin kendisine verilmemesi
 hâlinde, ilgili bankaya Cumhuriyet savcısı tarafından beşyüz Türk Lirasından beşbin Türk
 Lirasına kadar idarî para cezası verilir.
-Hesaben ödeme
 
 ### Bizim Yorumumuz
 

@@ -28,7 +28,6 @@ giderilmesi istenir. Bu takdirde, ikinci fıkrada öngörülen süreler, söz ko
 bilgi ve belgelerin Kurula sunulduğu tarihten itibaren işlemeye başlar.
 (4) Bu madde çerçevesinde yapılan inceleme neticesinde başvuruların onaylanmaması
 hâlinde bu durum gerekçesi belirtilerek ilgilisine bildirilir.
-İzahnamenin yayımlanması, ilan ve reklamlar
 
 ### Bizim Yorumumuz
 

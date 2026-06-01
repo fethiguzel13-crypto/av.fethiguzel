@@ -16,9 +16,6 @@ teminatların değerlemesi ve kendilerinin ya da kredi müşterilerinin derecele
 faaliyetlerini gerçekleştirecek olan kuruluşların yetkilendirilmesine, yetkilerinin geçici veya
 sürekli olarak kaldırılmasına Kurulca karar verilir. Bu maddenin uygulamasına ilişkin usûl ve
 esaslar ilgili meslek birliklerinin görüşü alınarak Kurulca belirlenir.
-İKİNCİ BÖLÜM
-Ana Sözleşmeye İlişkin Hükümler
-Ana sözleşme değişiklikleri
 
 ### Bizim Yorumumuz
 

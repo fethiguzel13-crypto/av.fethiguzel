@@ -26,8 +26,6 @@ Defter Tutma Bakımından Tüccarlar
 usulüne tabi olan çiftçiler" ibaresi “Gelir Vergisi Kanununa göre kazançları basit usulde tesbit edilenler;”
 şeklinde değiştirilmiştir.
 
-Tüccar sınıfları:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

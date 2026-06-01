@@ -21,7 +21,6 @@ sermaye karşılığında elde edilen menkul kıymetler ile iştirak hisselerini
 sırasında oluşan kur farkı kazancına dair hükümler hariç olmak üzere, Gelir Vergisi Kanununda
 yer alan vergilendirmeme hususundaki istisna, kayıt, şart ve sürelere ait sınırlamalar dikkate
 alınmaz.
-Beyannamenin verilme yeri
 
 ### Bizim Yorumumuz
 

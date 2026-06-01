@@ -16,7 +16,6 @@ için gereken işlemleri yapar, tarafların üzerinde serbestçe tasarruf edebil
 sulhe veya arabuluculuğa teşvik eder ve bu hususları tutanağa geçirir.14
 (2) Ön inceleme tamamlanmadan ve gerekli kararlar alınmadan tahkikata geçilemez ve
 tahkikat için duruşma günü verilemez.
-Dava şartları ve ilk itirazlar hakkında karar
 
 ### Bizim Yorumumuz
 

@@ -32,7 +32,6 @@ mahiyette yapılan ödemeler;
 erbabına işin icabı olarak verilen ve bunların işten ayrılmaları halinde geri alınan giyim
 eşyası);
 3. Tahsilde bulunanlar için yapılan giyim giderleri.
-Tahsil ve tatbikat ödemelerinde:
 
 ### Akademik Yorum ve Analiz
 

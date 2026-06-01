@@ -25,7 +25,6 @@ ve muhtemel zarara karşı kafi teminat alınmak suretiyle takibin tehirine mahk
 verilebilir.
 İstihkak davası üzerine takibin tehirine karar verilir ve neticede dava reddolunursa,
 dava mevzuunu teşkil eden mahcuz malın değerinin % 10 u tutarında tazminat hükmolunur.
-Amme idareleri arasında hacze iştirak:
 
 ### Bizim Yorumumuz
 

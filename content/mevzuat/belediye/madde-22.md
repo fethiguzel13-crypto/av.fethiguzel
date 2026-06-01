@@ -25,7 +25,6 @@ Oylama gizli, işaretle veya ad okunarak yapılır. Oy verme kabul, ret veya çe
 şeklinde olur.
 Kararlar, meclis başkanı ve kâtip üyeler tarafından imzalanır ve bir sonraki toplantıda
 üyelere dağıtılır.
-Meclis kararlarının kesinleşmesi
 
 ### Bizim Yorumumuz
 

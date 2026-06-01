@@ -18,9 +18,6 @@ b) Fonun ana stratejisi ile amaç ve hedeflerine uygun olarak hazırlanan bütç
 görüşmek ve karara bağlamak.
 c) Fonun performansını ve malî durumunu gösteren raporları onaylamak.
 d) Fon Başkanının önerisi üzerine, başkan yardımcıları ve daire başkanlarını atamak.
-ÜÇÜNCÜ BÖLÜM
-Başkanlık Teşkilatı
-Fon Başkanı
 
 ### Bizim Yorumumuz
 

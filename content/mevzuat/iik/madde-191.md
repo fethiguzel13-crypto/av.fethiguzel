@@ -17,7 +17,6 @@ tasarrufu alacaklılara karşı hükümsüzdür.
 üzerine keşide olunmuş bir poliçe iflasın ilanından evvel vadesinde müflis tarafından ödenmiş
 olursa iflastan haberdar olmıyan ve ödemenin reddi halinde üçüncü bir şahsa rücu hakkını
 kullanabilecek vaziyette bulunan hamilden ödenen meblağ geri alınamaz.
-Müflise ödeme:
 
 ### Akademik Yorum ve Analiz
 

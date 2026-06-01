@@ -14,7 +14,6 @@ MADDE 170- (1) Tüzel kişiler adına, temsil yetkisine sahip kimseler isticvap 
 kişinin kanuni mümessili isticvap olunur.
 (3) Ergin olmayan veya kısıtlı kimselere bizzat dava hakkı tanınan hâllerde, ikinci
 fıkra hükmü uygulanmaz.
-İsticvap olunacak tarafın davet edilmesi
 
 ### Bizim Yorumumuz
 

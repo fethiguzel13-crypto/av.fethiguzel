@@ -22,7 +22,6 @@ sürelerinin toplanmasında hesaba katılır.
 birlikte geçerliliğini kaybeder.
 (5) Vatansızlık durumlarının tespiti ve Vatansız Kişi Kimlik Belgesiyle ilgili usul ve
 esaslar yönetmelikle belirlenir.
-Vatansız kişilere tanınan haklar ve güvenceler
 
 ### Bizim Yorumumuz
 

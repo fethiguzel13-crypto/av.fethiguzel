@@ -25,7 +25,6 @@ bedel takdiri suretiyle satmaya, ilgililer satın almaktan imtina ederse, şüyu
 sattırmaya yetkilidir.
 Bu maddeye göre bedel takdirleri ve bu bedellere itiraz şekilleri 2942 sayılı
 Kamulaştırma Kanunu hükümlerine göre yapılır.
-Parselasyon planlarının hazırlanması:18
 
 ### Bizim Yorumumuz
 

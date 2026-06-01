@@ -15,7 +15,6 @@ ve kazancında ve gelirinde vukua gelen tezayütleri yedi gün içinde mezkür d
 mektupla veya şifahi olarak bildirmeğe mecburdur.
 II. HACİZ
 Haciz:
-1 – Talep Müddeti
 
 ### Bizim Yorumumuz
 

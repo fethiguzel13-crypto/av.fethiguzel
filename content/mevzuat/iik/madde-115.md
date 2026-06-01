@@ -52,7 +52,6 @@ portalında derhâl duyurur. Bu durumda artırmanın başlangıç tarihi, artır
 uzatılmasına karar verildiği tarihten itibaren üç günü geçemez. Bu süre içinde, daha önce en
 yüksek teklif veren teklifiyle bağlı olacağı gibi yeni istekliler de teminatı yatırmak suretiyle
 artırmaya katılabilir.
-İkinci artırma:
 
 ### Akademik Yorum ve Analiz
 

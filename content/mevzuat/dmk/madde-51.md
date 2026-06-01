@@ -14,7 +14,6 @@ Sınav sonuçları, ilgili kurumda teşkil edilen sınav komisyonlarının sorum
 belirlenecek başarılı olanların isimleri başarı sıralarına göre ilan edilir ve yazı ile de ilgililere
 bildirilir.
 İlan edilen sınav sonuçları müteakip sınav tarihine kadar geçerlidir.
-Kurumların memur ihtiyaçlarını karşılama şekli:
 
 ### Bizim Yorumumuz
 

@@ -27,10 +27,6 @@ alınır ve bu bedel her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tarihl
 Usul Kanununun mükerrer 298 inci maddesi uyarınca tespit ve ilan edilen yeniden değerleme
 oranında artırılarak uygulanır. Bu hizmet bedeli genel bütçeye gelir kaydedilir.
 
-ÜÇÜNCÜ BÖLÜM
-Araçların Muayenesi ve Muayeneye Yetkili Kuruluşlar
-Araçların muayenesi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

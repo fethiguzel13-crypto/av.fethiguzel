@@ -37,7 +37,6 @@ asgari maktu vergi tutarlarına göre hesaplanacak vergi tutarından az olmamak 
 nispi vergi uygulanır. (B) cetvelindeki mallar için maktu vergi ile birlikte, asgari maktu vergi
 tutarına göre hesaplanacak vergi tutarından az olmamak üzere nispi vergi uygulanır.
 Cumhurbaşkanı bu maddede yer alan vergileme ölçülerini değiştirmeye yetkilidir.
-Oran veya tutar
 
 ### Bizim Yorumumuz
 

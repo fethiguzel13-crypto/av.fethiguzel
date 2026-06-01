@@ -24,7 +24,6 @@ sorumlulukları, büyük onarım için ayrılacak dönem, bakım masrafları gib
 sözleşmesi resmi senede eklenir ve tapu kütüğünün beyanlar hanesinde gösterilir.
 Devre mülk hakkı kurulan her yapı veya bağımsız bölüm için ortak malikler, kendi
 aralarından veya dışardan bir gerçek veya tüzelkişiyi yönetici ve kat malikleri kuruluna temsilci olarak tayin ederler. Bu Kanunun genel hükümlerine göre atanan yöneticilere devre mülk
-yöneticiliği ile ilgili görevler de verilebilir.
 
 ### Bizim Yorumumuz
 

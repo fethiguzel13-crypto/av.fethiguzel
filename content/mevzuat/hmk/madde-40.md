@@ -24,7 +24,6 @@ yerdeki sulh hukuk hâkimi tarafından incelenir.
 (4) Bölge adliye mahkemesi hukuk dairelerinin başkan ve üyelerinin reddi talebi,
 reddedilen başkan ve üye katılmaksızın görevli olduğu dairece karara bağlanır. Hukuk
 dairelerinin toplanmasını engelleyecek şekildeki toplu ret talepleri dinlenmez.
-Ret talebinin geri çevrilmesi
 
 ### Bizim Yorumumuz
 

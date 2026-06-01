@@ -20,7 +20,6 @@ GEÇİCİ MADDE 1 – (1) Bu Kanunun 14 üncü maddesinde kurulması öngörüle
 Bakanlık tarafından belirlenecek illerde pilot uygulama yapılmak üzere kurulur. Kuruluşları
 tamamlanıncaya kadar merkezlerin görevlerinin Bakanlığın hangi birimlerince yürütüleceği
 Bakanlık tarafından belirlenir.
-Yürürlük
 
 ### Bizim Yorumumuz
 

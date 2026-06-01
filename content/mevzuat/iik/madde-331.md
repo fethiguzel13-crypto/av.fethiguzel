@@ -27,7 +27,6 @@ ile taşınmaz dışına çıkarılması halinde, eklentinin zilyedi iki yıldan
 bin güne kadar adlî para cezası ile cezalandırılır.
 Bu suçlar alacaklının şikâyeti üzerine takip olunur.
 Aczine kendi fiiliyle sebebiyet veren veya vaziyetinin fenalığını bilerek
-ağırlaştıran borçlunun cezası:
 
 ### Bizim Yorumumuz
 

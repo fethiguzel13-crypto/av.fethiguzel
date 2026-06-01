@@ -19,7 +19,6 @@ tutmaya mecburdurlar:
 6. Çiftçiler.
 (Değişik: 30/12/1980-2365/24 md.) iktisadi kamu müesseseleriyle dernek ve vakıflara
 ait iktisadi işletmeler defter tutma bakımından tüccarların tabi oldukları hükümlere tabidirler.
-İstisnalar:
 
 ### Bizim Yorumumuz
 

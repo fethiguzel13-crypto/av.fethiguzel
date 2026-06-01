@@ -14,8 +14,6 @@ başkanı idare eder. Müzakere yapıldıktan sonra, başkan, müzakereye katıl
 üyeden başlayarak her üyenin ayrı ayrı oyunu alır ve en son kendi oyunu açıklar.
 (2) Hüküm, oy çokluğu ile de verilebilir.
 
-Hükmün kapsamı
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

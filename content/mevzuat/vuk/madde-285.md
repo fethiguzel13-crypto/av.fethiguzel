@@ -22,7 +22,6 @@ resmi iskonto haddi veya muamelelerinde uyguladıkları faiz haddiyle, değerlem
 kıymetine irca ederler.
 (Ek: 4/12/1985-3239/22 md.) Alacak senetlerini değerleme gününün kıymetine irca
 eden mükellefler, borç senetlerini de aynı şekilde işleme tabi tutmak zorundadırlar.
-Tahviller:
 
 ### Akademik Yorum ve Analiz
 

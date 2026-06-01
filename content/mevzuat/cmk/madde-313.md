@@ -21,8 +21,6 @@ Mahkemesine yapılan başvuru hakkında dostane çözüm ya da tek taraflı dekl
 düşme kararı verilmesi” ibaresi eklenmiştir.
 146
 
-Sanık veya hükümlünün aleyhine yargılamanın yenilenmesi nedenleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -15,7 +15,6 @@ takdirde, kendisine yemin için bir davetiye çıkarılır.
 bir özrü olmaksızın yemin için tayin olunan gün ve saatte mahkemeye bizzat gelmediği veya
 gelip de yemini iade etmediği yahut yemini eda etmekten kaçındığı takdirde, yemin konusu
 vakıaları ikrar etmiş sayılacağı yazılır.
-Yemin etmemenin sonuçları
 
 ### Bizim Yorumumuz
 

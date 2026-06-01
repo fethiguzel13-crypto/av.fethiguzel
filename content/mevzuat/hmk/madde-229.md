@@ -15,7 +15,6 @@ iade etmez ya da yemini eda etmekten kaçınırsa yemin konusu vakıaları ikrar
 (2) Kendisine yemin iade olunan kimse, yemin etmekten kaçınırsa yemin konusu vakıa
 
 ispat edilememiş sayılır.
-Yeminin iade olunamayacağı hâller
 
 ### Bizim Yorumumuz
 

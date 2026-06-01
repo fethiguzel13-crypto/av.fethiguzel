@@ -14,7 +14,6 @@ asıllarıyla birlikte harç ve vergiye tabi olmaksızın davalı sayısından b
 örneklerinin veya sadece örneklerinin dilekçeye eklenerek, mahkemeye verilmesi ve başka
 yerlerden getirtilecek belge ve dosyalar için de bunların bulunabilmesini sağlayıcı açıklamanın
 dilekçede yer alması zorunludur.
-Dava dilekçesinin tebliği
 
 ### Bizim Yorumumuz
 

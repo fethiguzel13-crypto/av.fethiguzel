@@ -18,7 +18,6 @@ aleyhine kullanılması” iken metne işlendiği şekilde değiştirilmiştir.
 edileceği yerdeki asliye mahkemesi tarafından örneği onaylanarak aslı mahkemeye gönderilir
 yahut teslim edilir.
 (2) Mahkemece onaylanmış belge örneği, aslı gibi hüküm ifade eder.
-Belgenin yerinde incelenmesi
 
 ### Bizim Yorumumuz
 

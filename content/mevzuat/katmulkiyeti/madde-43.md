@@ -15,7 +15,6 @@ ilavelerin giderini, onların yapılmasına karar vermiş olan kat malikleri öd
 Bununla beraber, başlangıçta giderlere katılmıyan kat maliki veya onun külli veya cüzi
 halefleri yenilik ve ilavelerin yapılması ve korunması giderlerine sonradan, kendi arsa payları
 oranında katılırlarsa, yapılan lüks yenilik veya ilaveden faydalanma hakkını kazanırlar.
-III- Bağımsız bölüm ilavesi:
 
 ### Bizim Yorumumuz
 

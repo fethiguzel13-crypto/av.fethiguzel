@@ -45,7 +45,6 @@ nezdinde açılan hesaplar banka muhasebesinde ayrı bir hesapta izlenir. Bankal
 kuruluşu müşteri nakitlerinin kaydedildiği hesaplara ilişkin olarak Kurulca belirlenen şekilde
 ve sıklıkta Kurula bildirim yapmak zorundadır. Bu yükümlülük Bankacılık Düzenleme ve
 Denetleme Kurumu tarafından Kurula tahsis edilen bir sistem yoluyla da yerine getirilebilir.
-Sermaye piyasası araçlarını konu alan teminat sözleşmeleri
 
 ### Bizim Yorumumuz
 

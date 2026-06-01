@@ -21,7 +21,6 @@ göre, bu madde uyarınca tespit edilen çalışma saat ve süreleri ile görev 
 olmaksızın çalışabilmeleri mümkündür. Bu hususa ilişkin usûl ve esaslar, Cumhurbaşkanınca
 belirlenir.
 Günün 24 saatinde devamlılık gösteren hizmetlerde çalışma saat ve usulünün
-tesbiti:
 
 ### Bizim Yorumumuz
 

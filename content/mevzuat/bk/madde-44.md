@@ -21,7 +21,6 @@ Konsolide özkaynak, konsolide esasa göre uygulanacak kredi sınırları ile st
 oranların hesaplanmasında bu maddenin üçüncü fıkrası hükmüne göre hesaplanarak dikkate
 alınır.
 Bu maddeye ilişkin usûl ve esaslar Kurulca belirlenir.
-Sermaye yeterliliği
 
 ### Bizim Yorumumuz
 

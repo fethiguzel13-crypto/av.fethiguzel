@@ -56,9 +56,6 @@ Kanunu hükümleri uyarınca bilanço esasına göre defter tutan gelir ve kurum
 mükelleflerini, sektörler ve meslek grupları itibarıyla belirleyeceği yıllık iş hacimlerine göre
 hasılat esaslı vergilendirme usulü kapsamına almaya, Maliye Bakanlığı bu maddenin
 uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.
-İKİNCİ BÖLÜM
-Vergilendirme Dönemi ve Beyan Esası
-Vergilendirme dönemi:
 
 ### Bizim Yorumumuz
 

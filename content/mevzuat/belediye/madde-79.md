@@ -16,7 +16,6 @@ arsaları ve enkazı ve benzeri yerler belediyenin tasarrufundadır.
 Belediye tarafından deniz, akarsu ve gölden doldurma suretiyle kazanılan alanlar, Kıyı
 Kanunu ve ilgili mevzuata uygun olarak kullanılmak şartıyla Maliye Bakanlığı tarafından
 belediyelerin, büyükşehirlerde büyükşehir belediyelerinin tasarrufuna bırakılır.
-Şehirlerarası özel otobüs terminali işletmesi ve akaryakıt istasyonları
 
 ### Bizim Yorumumuz
 

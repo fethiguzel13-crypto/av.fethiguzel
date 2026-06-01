@@ -29,7 +29,6 @@ etmesine engel olabilecekse, o işte şüpheli veya sanığın bulunmamasına ka
 koşuluyla, işlerin yapılması gününden önce haberdar edilirler.
 (5) Şüpheli veya sanık tutuklu ise, hâkim veya mahkeme tarafından ancak zorunlu
 sayılan hâllerde keşifte hazır bulundurulmasına karar verilebilir.
-Yer gösterme
 
 ### Bizim Yorumumuz
 

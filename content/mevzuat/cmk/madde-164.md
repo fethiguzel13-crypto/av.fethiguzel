@@ -19,7 +19,6 @@ maddesinde belirtilen soruşturma işlemlerini yapan güvenlik görevlilerini if
 öncelikle adlî kolluğa yaptırılır. Adlî kolluk görevlileri, Cumhuriyet savcısının adlî görevlere
 ilişkin emirlerini yerine getirir.
 (3) Adlî kolluk, adlî görevlerin haricindeki hizmetlerde, üstlerinin emrindedir.
-Diğer kolluk birimlerinin adlî kolluk görevi
 
 ### Bizim Yorumumuz
 

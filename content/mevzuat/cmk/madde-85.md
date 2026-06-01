@@ -16,7 +16,6 @@ suçlar söz konusu olduğunda, adli kolluk amiri de yer gösterme işlemi yapt�
 (2) Soruşturmayı geciktirmemek kaydıyla, müdafi de yer gösterme işlemi sırasında
 hazır bulunabilir.
 (3) Yer gösterme işlemi, 169 uncu maddeye uygun olarak tutanağa bağlanır.
-Ölünün kimliğini belirleme ve adlî muayene
 
 ### Bizim Yorumumuz
 

@@ -17,8 +17,6 @@ altı ay içinde Bakanlık tarafından çıkarılır.
 kamu kurumu niteliğindeki meslek kuruluşlarının, sivil toplum kuruluşlarının ve meslek
 örgütlerinin görüşleri alınır.
 
-Kadro ihdası28
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

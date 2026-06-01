@@ -204,7 +204,6 @@ değilse Vergi Usul Kanunu hükümlerine göre takdir komisyonlarınca tespit ed
 esas alınır.
 (3) Bu maddenin uygulanmasına ilişkin usûlleri belirlemeye Maliye Bakanlığı
 yetkilidir.
-Kabul edilmeyen indirimler
 
 ### Bizim Yorumumuz
 

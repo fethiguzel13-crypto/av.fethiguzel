@@ -31,7 +31,6 @@ bulunması,
 h) Doğan zararın özkaynaktan indirilmesi,
 Tedbirlerinden bir ya da birkaçının veya uygun göreceği diğer tedbirlerin alınmasını
 ve uygulanmasını ister.
-Faaliyet izninin kaldırılması veya Fona devir
 
 ### Bizim Yorumumuz
 

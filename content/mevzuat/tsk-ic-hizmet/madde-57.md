@@ -16,7 +16,6 @@ sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu hükümleri sakl�
 Bu hizmetin yerine getirilmesinden kıta komutanları, karargâh veya askerî kurum
 amirleri ile bunların tabipleri sorumludur.
 Türk Silâhlı Kuvvetleri sağlık teşkillerindeki sağlık hizmetleri, harekât ihtiyaçları
-hariç ulusal sağlık mevzuatında yer alan hizmet standartlarına göre yürütülür.
 
 ### Bizim Yorumumuz
 

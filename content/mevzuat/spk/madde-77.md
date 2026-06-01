@@ -47,7 +47,6 @@ gönderilmesini merkezî takas kuruluşları ile bu kuruluşların üyelerinden 
 hususlarda üyelerinden bilgi ve belge istemeye ve inceleme yapmaya yetkilidirler. Üyeler,
 merkezî takas kuruluşlarının görev alanına giren hususlarda özel mevzuatında yer alan
 hükümlere dayanarak bilgi vermekten imtina edemezler.
-Merkezî karşı taraf
 
 ### Bizim Yorumumuz
 

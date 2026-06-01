@@ -28,10 +28,6 @@ yürütülebilir.
 Müdürlüğün izniyle kabul ve barınma merkezlerini ziyaret edebilirler.
 (9) Kabul ve barınma merkezlerinin kurulması, yönetimi ve işletilmesiyle ilgili usul ve
 esaslar yönetmelikle düzenlenir.
-DÖRDÜNCÜ KISIM
-Yabancılar ve Uluslararası Korumaya İlişkin
-Ortak Hükümler
-Uyum
 
 ### Bizim Yorumumuz
 

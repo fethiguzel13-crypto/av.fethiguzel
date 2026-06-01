@@ -14,9 +14,6 @@ uygun olarak yapılıp yapılmadığı, ancak tutanakla ispat olunabilir. Tutana
 sahtecilik iddiası yöneltilebilir.
 İKİNCİ KISIM
 Kamu Davasının Sona Ermesi
-BİRİNCİ BÖLÜM
-Duruşmanın Sona Ermesi ve Hüküm
-Duruşmanın sona ermesi ve hüküm
 
 ### Bizim Yorumumuz
 

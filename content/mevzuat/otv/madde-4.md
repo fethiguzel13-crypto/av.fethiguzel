@@ -28,9 +28,6 @@ göre hesaplanacak vergiden az olamaz. Bu tarhiyata vergi ziyaı cezası uygulan
 (Ek: 4/6/2008-5766/19 md.) Ancak, belgesiz mal bulunduran mükelleflere bu malları
 satanlara, bu satışları ile ilgili vergi inceleme raporuna dayanılarak özel tüketim vergisi tarhiyatı
 yapıldığı takdirde, ayrıca alıcıdan özel tüketim vergisi ve buna ilişkin ceza aranmaz.
-İKİNCİ BÖLÜM
-İstisnalar
-İhracat istisnası
 
 ### Bizim Yorumumuz
 

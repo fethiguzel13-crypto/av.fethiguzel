@@ -59,7 +59,6 @@ kaydedilir.
 aykırılıkların giderilemeyeceği tespit edilen yapıların ruhsatı üçüncü fıkrada düzenlenen bir
 aylık süre beklenmeden iptal edilir ve mevzuata aykırı imalatlar hakkında beşinci fıkra
 hükümleri uygulanır.
-Umumi hizmetlere ayrılan yerlerde muvakkat yapılar:
 
 ### Akademik Yorum ve Analiz
 

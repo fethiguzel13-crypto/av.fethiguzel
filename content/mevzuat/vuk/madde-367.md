@@ -44,9 +44,6 @@ aranmaz.
 veya usulsüzlük cezalarının ayrıca uygulanmasına engel teşkil etmez.
 (İptal fıkra: Anayasa Mahkemesi’nin 4/11/2021 tarihli ve E.: 2019/4, K.: 2021/78
 sayılı Kararı ile.)
-İKİNCİ BÖLÜM
-Cezaların Ödenmesi ve Kalkması
-Vergi cezalarının ödenme zamanı:
 
 ### Akademik Yorum ve Analiz
 

@@ -27,9 +27,6 @@ uygulama, ilgili belediye tarafından üç ay içinde giderilmediği takdirde, b
 3.5.1985 tarihli ve 3194 sayılı İmar Kanununun 32 ve 42 nci maddelerinde belirtilen
 yetkilerini kullanma hakkını haizdir. Ancak 3194 sayılı Kanunun 42 nci madde kapsamındaki
 konulardan dolayı iki kez ceza verilemez.
-DÖRDÜNCÜ BÖLÜM
-Büyükşehir Belediyesinin Organları
-Büyükşehir belediye meclisi
 
 ### Bizim Yorumumuz
 

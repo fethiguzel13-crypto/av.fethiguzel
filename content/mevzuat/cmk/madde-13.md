@@ -15,7 +15,6 @@ yer, yakalanmamışsa yerleşim yeri mahkemesi yetkilidir.
 bulunduğu yer mahkemesi yetkilidir.
 (3) Mahkemenin bu suretle de belirlenmesi olanağı yoksa, ilk usul işleminin yapıldığı
 yer mahkemesi yetkilidir.
-Yabancı ülkede işlenen suçlarda yetki
 
 ### Bizim Yorumumuz
 

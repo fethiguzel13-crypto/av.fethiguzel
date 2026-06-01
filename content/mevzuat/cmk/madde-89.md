@@ -16,9 +16,6 @@ maddeler, görevlendirilen uzman tarafından incelenerek tahlil edilir.
 onun yönetiminde yapılmasına karar verebilir.
 DÖRDÜNCÜ KISIM
 Koruma Tedbirleri
-BİRİNCİ BÖLÜM
-Yakalama ve Gözaltı
-Yakalama ve yakalanan kişi hakkında yapılacak işlemler
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ Vergi dairesinin ilgili servisi düzeltme talebini kendi mütalaasını da ilave
 düzeltme merciine gönderir.
 Düzeltme mercii talebi yerinde gördüğü takdirde, düzeltmenin yapılmasını emreder;
 yerinde görmediği takdirde, keyfiyet düzeltmeyi isteyene yazı ile tebliğ olunur.
-Şikayet yolu ile müracaat:
 
 ### Bizim Yorumumuz
 

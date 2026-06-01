@@ -38,7 +38,6 @@ tahsis edilmesi bunların iktisadî niteliğini değiştirmez.
 ortaklıkları ya da gerçek kişilerle, belli bir işin birlikte yapılmasını ortaklaşa yüklenmek ve
 kazancını paylaşmak amacıyla kurdukları ortaklıklardan bu şekilde mükellefiyet tesis edilmesini
 talep edenler iş ortaklıklarıdır. Bunların tüzel kişiliklerinin olmaması mükellefiyetlerini etkilemez.
-Tam ve dar mükellefiyet
 
 ### Bizim Yorumumuz
 

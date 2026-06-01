@@ -31,7 +31,6 @@ hususlarda ortaklıkların niteliğine göre farklı usul ve esaslar belirleyebi
 (4) Ayrılma hakkının doğmadığı hâller ile bu hakkın kullanımına ve payları borsada
 işlem görmeyen ortaklıklarda satım fiyatının hesaplanmasına ilişkin usul ve esaslar Kurul
 tarafından belirlenir.
-Pay alım teklifi
 
 ### Bizim Yorumumuz
 

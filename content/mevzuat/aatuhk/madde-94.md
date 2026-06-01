@@ -24,7 +24,6 @@ alacağını karşılamaya yettiği takdirde, borçlu yazı ile istemedikçe art
 Gerekirse tapu dairesine satılacak kısım tefrik ettirilir.
 İhale kararının bir örneği borçluya veya vekil veya mümessiline ve gayrimenkulün
 tapu sicilinde hakkı kayıtlı bulunanlardan adresi belli olanlara tebliğ olunur.
-Artırmanın uzatılması:
 
 ### Bizim Yorumumuz
 

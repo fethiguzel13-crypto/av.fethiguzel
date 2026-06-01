@@ -20,7 +20,6 @@ Cumhuriyet Merkez Bankasının resmi iskonto haddi uygulanır.
 Bankalar ve bankerler ile sigorta şirketleri alacaklarını ya Cumhuriyet Merkez
 Bankasının resmi iskonto haddi veya muamelelerinde uyguladıkları faiz haddi ile, değerleme
 günü kıymetine irca ederler.
-İlk tesis ve taazzuv giderleri ve peştemallıklar:
 
 ### Akademik Yorum ve Analiz
 

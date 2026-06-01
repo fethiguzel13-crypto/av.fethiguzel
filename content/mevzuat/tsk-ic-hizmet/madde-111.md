@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 111 – Harb esirleri hakkında 6020 ve mülteciler hakkında da 4104 sayılı
 kanun hükümleri tatbik olunur.
-S) TABİİ AFETLERDE YARDIM
 
 ### Bizim Yorumumuz
 

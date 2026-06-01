@@ -13,8 +13,6 @@ Madde 34 — Bu Kanun ve bu Kanuna istinaden çıkarılan düzenlemelerde öngö
 değerlemeler ve derecelendirmeler, Kurulca belirlenecek usûl ve esaslar çerçevesinde, değerleme
 ve derecelendirme kuruluşlarına yaptırılır.
 
-Destek hizmeti kuruluşları
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

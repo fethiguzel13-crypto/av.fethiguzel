@@ -23,7 +23,6 @@ malzemesinin bedeli.
 Mükellefler, imal ettikleri emtianın maliyet bedellerini yukarıki unsurları ihtiva etmek
 şartiyle diledikleri usulde tayin edebilirler.
 (Üçüncü fıkra mülga: 30/12/1980-2365/51 md.)
-Zirai mahsuller:
 
 ### Akademik Yorum ve Analiz
 

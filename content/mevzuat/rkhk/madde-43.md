@@ -55,7 +55,6 @@ para cezası ve uzlaşma metninde yer alan hususlar uzlaşmanın taraflarınca d
 yapılamaz.
 (Ek fıkra:16/6/2020-7246/9 md.) Uzlaşmaya ilişkin diğer usul ve esaslar Kurul
 tarafından çıkarılan yönetmelik ile belirlenir.
-Delillerin Toplanması ve Tarafların Bilgilendirilmesi
 
 ### Bizim Yorumumuz
 

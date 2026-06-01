@@ -31,9 +31,6 @@ Sözleşme bedelinin % 80'inden daha düşük bedelle tamamlanacağı anlaşıla
 yüklenici işi bitirmek zorundadır. Bu durumda yükleniciye, yapmış olduğu gerçek giderleri ve
 yüklenici kârına karşılık olarak, sözleşme bedelinin % 80'i ile sözleşme fiyatlarıyla yaptığı işin
 tutarı arasındaki bedel farkının % 5'i geçici kabul tarihindeki fiyatlar üzerinden ödenir.
-ÜÇÜNCÜ KISIM
-Yasaklar ve Sorumluluklar
-Yasak fiil ve davranışlar
 
 ### Bizim Yorumumuz
 

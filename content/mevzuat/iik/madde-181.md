@@ -40,7 +40,6 @@ hafta içinde istinaf yoluna başvurulabilir. Bölge adliye mahkemesi kararına 
 tarihinden itibaren iki hafta içinde temyiz yoluna başvurulabilir. İstinaf ve temyiz
 incelemeleri, Hukuk Usulü Muhakemeleri Kanunu hükümlerine göre yapılır.71
 İflasın kaldırıldığı ilan olunur.
-Reddolunmuş bir miras tasfiyesinin durdurulması:
 
 ### Akademik Yorum ve Analiz
 

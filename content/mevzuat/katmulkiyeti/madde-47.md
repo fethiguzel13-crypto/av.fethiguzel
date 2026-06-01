@@ -27,7 +27,6 @@ Harabolan bağımsız bölümler üzerindeki kat mülkiyeti bu maddede yazılı 
 geçici şerh verilir. Bağımsız bölüm yapılınca onun üzerindeki kat mülkiyeti yeniden doğar ve
 
 geçici şerh kütükten silinir.
-III - Bildirme ödevi ve kaydın silinmesi:
 
 ### Bizim Yorumumuz
 

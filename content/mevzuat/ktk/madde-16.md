@@ -25,7 +25,6 @@ Verilen izinler, ilgili valiliğe bildirilir.
 (Değişik son fıkra: 25/6/2010-6001/34 md.) Ayrıca bunlar, bütün sorumluluk ve
 giderler mal sahibine ait olmak üzere yolun yapımı, bakımı, işletilmesi ile ilgili kuruluşça
 kaldırılır.
-Belediye sınırları dışında karayolu kenarındaki yapı ve tesisler:
 
 ### Bizim Yorumumuz
 

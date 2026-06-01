@@ -35,7 +35,6 @@ içinde yenilenmezse dosya muameleden kaldırılır.
 Yeniden haciz istemek, alacaklı tarafından vukubulan yenileme talebinin borçluya
 tebliğine mütevakkıftır. İlama müstenit olmayan takiplerde yenileme talebi üzerine yeniden
 harc alınır. Yenileme masraf ve harcları borçluya tahmil edilmez.
-2 – Hacze başlama müddeti:
 
 ### Bizim Yorumumuz
 

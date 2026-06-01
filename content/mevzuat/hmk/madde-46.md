@@ -31,8 +31,6 @@ yıl içinde rücu eder.
 madde metninden çıkarılmış ve “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
 8
 
-Davaların açılacağı mahkeme
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

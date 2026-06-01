@@ -19,7 +19,6 @@ incelemesini veya diğer delillerin incelenmesi için yapacağı toplantı ve du
 tarafların gelmemeleri hâlinde bunun sonuçlarını uygun bir süre önce taraflara bildirir.
 (3) Hakem veya hakem kuruluna verilen dilekçeler, bilgiler ve diğer belgeler taraflara
 bildirilir.
-Taraflardan birinin yargılamaya katılmaması
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ Borsa veya piyasada fiyatı bulunan esham ve eşya derhal paraya çevrilebilir. 
 ancak ikinci alacaklılar toplanmasından sonra satılır.
 Üzerinde rehin hakkı bulunan mallar 185 inci madde hükmüne tabidir.
 IV. ALACAKLARIN TAHKİKİ VE SIRALARIN TAYİNİ
-İddia edilen alacakların tetkiki:
 
 ### Akademik Yorum ve Analiz
 

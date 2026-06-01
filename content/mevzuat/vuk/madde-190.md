@@ -16,7 +16,6 @@ Büyük mağazalardan maksat, çeşitli mal üzerine geniş ölçüde ve peraken
 ticarethanelerdir.
 Maliye Bakanlığı büyük sınai işletmelerin, icabına göre, iki veya üç yılda bir
 envanter çıkarmalarına müsaade edebilir. Bu takdirde yukarıki hüküm uygulanır.
-Envantere alınan kıymetleri değerleme:
 
 ### Bizim Yorumumuz
 

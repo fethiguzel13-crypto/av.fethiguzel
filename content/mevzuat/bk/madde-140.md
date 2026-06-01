@@ -54,7 +54,6 @@ Kanunun 1 inci maddesi hükmünden istisnadır.
 Faaliyet izni kaldırılan bankaların, Fon bankalarının sandıklarının Sosyal Sigortalar
 Kurumuna devri hâlinde, aktüerlerce tespit edilen fiili ve teknik açıklar için, faaliyet izni
 kaldırılan bankaya, Fona ve/veya Fon bankalarına rücu edilemez.
-Zamanaşımı
 
 ### Bizim Yorumumuz
 

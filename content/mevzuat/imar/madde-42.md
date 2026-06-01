@@ -159,7 +159,6 @@ ibaresinden sonra gelmek üzere “veya yangın güvenliği açısından kullan�
 madde kapsamında izin alınmaksızın yapılacak yapılarda kullanılmak amacıyla hazır betonu
 piyasaya arz eden ya da piyasada bulunduran kişiler ilgili idare tarafından beşyüzbin Türk
 lirası idari para cezası ile cezalandırılır.
-Yürürlükten kaldırılan hükümler:
 
 ### Akademik Yorum ve Analiz
 

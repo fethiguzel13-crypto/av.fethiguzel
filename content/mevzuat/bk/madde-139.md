@@ -18,7 +18,6 @@ Ticaret Kanunu hükümleri uygulanmaksızın yapılacak sermaye artırımları d
 mal, hak ve alacaklarının korunması ve değerlendirilmesi amacıyla Fon Kurulunca
 belirlenecek usûl ve esaslar çerçevesinde malî kaynak sağlamak da dâhil gerekli her türlü
 tedbiri almaya yetkilidir.
-Fon ve faaliyet izni kaldırılan bankalara ilişkin malî istisnalar
 
 ### Bizim Yorumumuz
 

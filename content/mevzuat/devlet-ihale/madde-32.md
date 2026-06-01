@@ -15,7 +15,6 @@ taahhütlü mektupla tebligat adresine postalanır. (İptal ikinci cümle: Anaya
 18/6/2013 tarihli ve E.: 2013/71, K.: 2013/77 sayılı Kararı ile.)
 İhale kararlarının ita amirince iptal edilmesi halinde de, durum istekliye aynı şekilde
 bildirilir.
-Zam ve indirim teklifleri:
 
 ### Bizim Yorumumuz
 

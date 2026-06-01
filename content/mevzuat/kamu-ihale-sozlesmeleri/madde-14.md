@@ -15,9 +15,6 @@ kabul tarihinden veya varsa garanti süresinin bitim tarihinden itibaren iki yı
 uyarısına rağmen talep edilmemesi nedeniyle iade edilemeyen kesin teminat mektupları hükümsüz
 kalır ve bankasına iade edilir. Teminat mektubu dışındaki teminatlar sürenin bitiminde Hazineye
 gelir kaydedilir.
-ÜÇÜNCÜ BÖLÜM
-Sözleşmede Değişiklik, Sözleşmenin Devri ve Feshi
-Sözleşmede değişiklik yapılması
 
 ### Bizim Yorumumuz
 

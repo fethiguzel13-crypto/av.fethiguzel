@@ -16,7 +16,6 @@ inceleme yapılarak karar verilebilir.
 (2) Tashih kararı verildiği takdirde, düzeltilen hususlarla ilgili karar, mahkemede
 bulunan nüshalar ile verilmiş olan suretlerin altına veya bunlara eklenecek ayrı bir kâğıda
 yazılır, imzalanır ve mühürlenir.
-Hükmün tavzihi
 
 ### Bizim Yorumumuz
 

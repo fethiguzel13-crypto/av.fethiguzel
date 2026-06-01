@@ -35,7 +35,6 @@ hükûmet programında” ibaresi “ve programlarda” şeklinde değiştirilmi
 52
 
 Fon Kurulu Başkan ve üyeleri ile Fon personelinin ücretleri, malî ve diğer sosyal
-hakları54
 
 ### Bizim Yorumumuz
 

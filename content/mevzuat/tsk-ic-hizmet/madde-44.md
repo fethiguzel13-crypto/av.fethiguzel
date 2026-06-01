@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 44 – Askerler her zaman ve her yerde birbirlerini selamlamaya mecburdurlar.
 Bunun tatbik tarzı talimatnamede gösterilmiştir.
-D) GARNİZON KUMANDANLIĞI
 
 ### Bizim Yorumumuz
 

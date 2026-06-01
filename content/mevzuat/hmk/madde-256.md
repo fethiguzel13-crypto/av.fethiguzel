@@ -16,7 +16,6 @@ c) Doğruyu söyleyeceği hususunda yemin edeceği,
 ç) Duruşmada mahkeme başkanı veya hâkimin açık izni olmadan mahkeme salonunu
 terk edemeyeceği ve gerekirse diğer tanıklarla yüzleştirilebileceği,
 anlatılır.
-Yeminsiz dinlenecekler
 
 ### Bizim Yorumumuz
 

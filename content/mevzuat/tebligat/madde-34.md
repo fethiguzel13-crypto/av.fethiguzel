@@ -15,7 +15,6 @@ işlerinde tatbik olunur.12
 giderler 5 inci maddeye göre ödenir. Verilen süreye rağmen ödenmeyen tebligat gideri dava
 dilekçesinin tebliğine ilişkin ise Hukuk Usulü Muhakemeleri Kanununun 409 uncu maddesi
 uyarınca işlem yapılır. Diğer hallerde tebligat konusu talepten vazgeçilmiş sayılır.
-Adres değiştirmenin bildirilmesi mecburiyeti:
 
 ### Bizim Yorumumuz
 

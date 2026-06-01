@@ -25,7 +25,6 @@ kişiye teslim edilebilir. Bu bırakma, teminat gösterilmesi koşuluna da bağl
 (6) Elkonulan eşya, delil olarak saklanmasına gerek kalmaması halinde, rayiç
 değerinin derhâl ödenmesi karşılığında, ilgiliye teslim edilebilir. Bu durumda müsadere
 kararının konusunu, ödenen rayiç değer oluşturur.
-Şirket yönetimi için kayyım tayini
 
 ### Bizim Yorumumuz
 

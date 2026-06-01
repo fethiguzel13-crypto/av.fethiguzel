@@ -22,7 +22,6 @@ ihtar edilir.1819
 (Ek fıkra: 2/7/2012-6352/7 md.) Yabancı devlet aleyhine başlatılan ilamlı icra
 takiplerine ilişkin icra emrinde uluslararası andlaşmalar saklı kalmak kaydıyla, borçlu devlete
 ait olan mallar hakkında cebri icra yapılabileceği hususu ayrıca ihtar edilir.
-İcranın geri bırakılması:
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ Madde başlığı, 30/12/1980 tarih ve 2365 sayılı Kanunun 11 inci maddesi ile
 
 kurulur. Ormancılığa ilişkin konuların görüşülmesinde komisyona veteriner müdürü yerine
 orman işletme müdürü veya tevkil edeceği bir temsilci katılır.
-Üyelerin seçilmesi:
 
 ### Bizim Yorumumuz
 

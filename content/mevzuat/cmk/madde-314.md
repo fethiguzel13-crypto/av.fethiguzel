@@ -19,7 +19,6 @@ ile mahkûmiyetini gerektirecek nitelikte olarak görevlerini yapmada sanık vey
 lehine kusur etmiş ise.
 c) Sanık beraat ettikten sonra suçla ilgili olarak hâkim önünde güvenilebilir nitelikte
 ikrarda bulunmuşsa.
-Yargılamanın yenilenmesinin kabul edilmeyeceği hâl
 
 ### Bizim Yorumumuz
 

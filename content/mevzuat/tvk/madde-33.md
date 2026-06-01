@@ -17,7 +17,6 @@ Hazinece satılarak bedelleri nam ve hesaplarına kamu haznedarlığı sistemine
 bankasına yatırılır.
 (2) Bu kişiler iptal kararı aleyhine yargı yoluna başvurdukları takdirde malların tasfiyesi
 dava sonuna bırakılır.
-Türk vatandaşlığının seçme hakkı ile kaybı
 
 ### Bizim Yorumumuz
 

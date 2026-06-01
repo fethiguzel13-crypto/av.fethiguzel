@@ -19,7 +19,6 @@ tutuklama kararı verebilir.
 dolması nedeniyle verilen adli kontrol tedbirinin ihlali hâlinde de uygulanabilir. Ancak, bu
 durumda tutuklama süresi ağır ceza mahkemesinin görevine giren işlerde dokuz aydan, diğer
 işlerde iki aydan fazla olamaz.
-Güvence
 
 ### Bizim Yorumumuz
 

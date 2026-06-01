@@ -21,7 +21,6 @@ bütçelerine konulur.
 İmar programlarında, umumi hizmetlere ayrılan yerler ile özel kanunları gereğince
 kısıtlama konulan gayrimenkuller kamulaştırılıncaya veya umumi hizmetlerle ilgili projeler
 gerçekleştirilinceye kadar bu yerlerle ilgili olarak diğer kanunlarla verilen haklar devam eder.
-Kamuya ait gayrimenkuller:
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ bunların amortismanlarının evvelki yıllara ait kayıtlarda devam ettirilmesi
 Amortisman defteri veya listelerinin kayıtları envanter kaydı hükmündedir.
 Yukarıdaki esaslara göre kayıtlarda gösterilen iktisadi kıymetlere ait değerler envanter
 defterine toplu olarak geçirilebilir.
-Büyük mağazalarda envanter:
 
 ### Bizim Yorumumuz
 

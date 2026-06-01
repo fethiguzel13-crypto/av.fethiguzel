@@ -30,7 +30,6 @@ dolayı bozulmuşsa, Yargıtay aynı zamanda dosyayı görevli veya yetkili mahk
 (4) İlk derece mahkemesi tarafından doğrudan temyiz yolu açık bulunan hükümlerle
 ilgili olarak verilen karara ilişkin dosya, hükmü veren ilk derece mahkemesine gönderilmek
 üzere Yargıtay Cumhuriyet Başsavcılığına verilir.
-Yargıtayda hükmün açıklanması
 
 ### Bizim Yorumumuz
 

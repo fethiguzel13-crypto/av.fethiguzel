@@ -15,7 +15,6 @@ yöneltebilirler. Taraflar ise hâkim aracılığıyla soru sorabilirler. Yönel
 edildiğinde, sorunun yöneltilmesinin gerekip gerekmediğine hâkim karar verir.
 (2) Toplu mahkemelerde, hâkimlerden her biri, birinci fıkrada belirtilen kişilere soru
 sorabilir.
-Kayıt ve yayın yasağı
 
 ### Bizim Yorumumuz
 

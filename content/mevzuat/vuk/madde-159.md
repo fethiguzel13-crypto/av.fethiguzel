@@ -18,10 +18,6 @@ ikamet” ibaresi madde metninden çıkarılmıştır.
 49
 50
 
-ÜÇÜNCÜ BÖLÜM
-İşi Bırakma
-İşi bırakmanın bildirilmesi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

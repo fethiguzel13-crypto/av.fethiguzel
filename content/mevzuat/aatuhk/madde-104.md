@@ -14,7 +14,6 @@ terekesinin tasfiyesi dolayısiyle hakkında takibat yapılmasına imkan yoksa b
 müddetince zamanaşımı işlemez.
 Zamanaşımı, işlememesi sebeplerinin kalktığı günün bitmesinden itibaren başlar veya
 durmasından evvel başlamış olan cereyanına devam eder.
-Tabii afetler sebebiyle terkin:
 
 ### Bizim Yorumumuz
 

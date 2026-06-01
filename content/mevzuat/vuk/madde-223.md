@@ -18,7 +18,6 @@ eder.
 (Ek: 11/6/2003-4884/7 md.; Değişik: 15/2/2018-7099/2 md.) Defterler anonim ve
 limited şirketler ile kooperatiflerin kuruluş aşamasında, şirket merkezinin bulunduğu yer
 ticaret sicili müdürlüğünce tasdik edilir.57
-Tasdik şerhi:
 
 ### Bizim Yorumumuz
 

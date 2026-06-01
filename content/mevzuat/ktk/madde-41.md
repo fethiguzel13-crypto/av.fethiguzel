@@ -40,7 +40,6 @@ Sürücü belgesi alındıktan sonra bu maddenin birinci fıkrasının (e) bendi
 suçlardan biri ile mahkûmiyet hâlinde bu kişilerin sürücü belgeleri, bu Kanunun 6 ncı
 maddesinde sayılan görevliler tarafından bu maddenin birinci fıkrasının (e) bendinde
 belirtilen şartlar sağlanıncaya kadar geri alınır. Bu Kanunun 48 inci madde hükümleri saklıdır.
-Sürücü adaylarının sınavları ile sürücü belgelerinin verilmesi esasları:38
 
 ### Bizim Yorumumuz
 

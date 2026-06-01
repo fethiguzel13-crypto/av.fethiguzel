@@ -16,7 +16,6 @@ süresinde oy ve görüşünü mahkemeye bildirmeyi kapsar.
 saatte mahkemede hazır bulunmayan yahut mahkemeye gelip de yemin etmekten veya
 süresinde oy ve görüş bildirmekten kaçınan bilirkişiler hakkında, tanıklığa ilişkin disiplin
 hükümleri uygulanır ve durum bilirkişilik bölge kuruluna bildirilir.30
-Bilirkişilik görevini kabulle yükümlü olanlar
 
 ### Bizim Yorumumuz
 

@@ -45,7 +45,6 @@ u) Sigorta acenteliği ve bireysel emeklilik aracılık hizmetleri.
 v) Kurulca belirlenecek diğer faaliyetler.
 Mevduat bankaları birinci fıkranın (b) ve (t), katılım bankaları (a), kalkınma ve yatırım
 bankaları (a) ve (b) bentlerinde belirtilen faaliyetleri gerçekleştiremezler.
-Dolaylı pay sahipliği
 
 ### Bizim Yorumumuz
 

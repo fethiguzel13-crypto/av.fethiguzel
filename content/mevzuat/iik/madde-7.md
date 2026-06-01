@@ -15,7 +15,6 @@ uğrar.
 Şu kadar ki zarar ve ziyan cezayı mucip bir fiilin neticesi olupta ceza kanunları bu fiili
 daha uzun bir müddetle zamanaşımına tabi tutmakta ise hukuk davasında da ceza zamanaşımı
 cari olur.
-Tutanaklar:
 
 ### Bizim Yorumumuz
 

@@ -39,9 +39,6 @@ gerekçesi” ibaresinden sonra gelmek üzere “ve varsa karşı oy gerekçesi�
 
 DÖRDÜNCÜ KİTAP
 Mağdur, Şikâyetçi, Malen Sorumlu, Katılan
-BİRİNCİ KISIM
-Suçun Mağduru ile Şikâyetçinin Hakları
-Suçun mağduru ile şikâyetçinin çağırılması
 
 ### Bizim Yorumumuz
 

@@ -17,10 +17,6 @@ verilmemişse tetkik icra mahkemesi icabına göre müddeti uzatır.
 şeklinde değiştirilmiştir.
 79
 
-DOKUZUNCU BAP
-İhtiyati haciz
-İhtiyati haciz şartları:80
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

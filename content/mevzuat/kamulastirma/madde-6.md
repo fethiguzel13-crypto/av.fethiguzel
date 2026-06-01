@@ -28,7 +28,6 @@ onaylanması gerekmez.5
 Onaylı imar planına veya ilgili bakanlıklarca onaylı özel plan ve projesine göre yapılacak
 hizmetler için ayrıca kamu yararı kararı alınmasına ve onaylanmasına gerek yoktur. Bu
 durumlarda yetkili icra organınca kamulaştırma işlemine başlanıldığını gösteren bir karar alınır.
-Kamulaştırmada önce yapılacak işlemler ve idari şerh
 
 ### Bizim Yorumumuz
 

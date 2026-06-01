@@ -14,7 +14,6 @@ Borçlu, para veya mahkemece kabul edilecek rehin veya esham yahut tahvilat depo
 etmek veya taşınmaz rehin yahut muteber bir banka kefaleti göstermek şartı ile ihtiyati haczin
 kaldırılmasını mahkemeden istiyebilir. Takibe başlandıktan sonra bu yetki, icra mahkemesine
 geçer.
-İhtiyati hacizde iflas yolu ile takip:
 
 ### Bizim Yorumumuz
 

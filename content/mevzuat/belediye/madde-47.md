@@ -23,9 +23,6 @@ Görevden uzaklaştırılan belediye başkanına, görevden uzak kaldığı sür
 devam eder.
 ÜÇÜNCÜ KISIM
 Belediye Teşkilâtı
-BİRİNCİ BÖLÜM
-Belediye Teşkilâtı ve Personeli
-Belediye teşkilâtı
 
 ### Bizim Yorumumuz
 

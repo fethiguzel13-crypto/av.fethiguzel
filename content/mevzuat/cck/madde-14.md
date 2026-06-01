@@ -14,9 +14,6 @@ kararlarına karşı itiraz yolu açıktır. İtiraz, 4.12.2004 tarihli ve 5271 
 Kanununun itiraza ilişkin hükümlerine göre en yakın çocuk mahkemesine yapılır.
 İKİNCİ KISIM
 Soruşturma ve Kovuşturma
-BİRİNCİ BÖLÜM
-Soruşturma
-Soruşturma
 
 ### Bizim Yorumumuz
 

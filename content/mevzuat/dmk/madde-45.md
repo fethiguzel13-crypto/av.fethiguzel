@@ -23,9 +23,6 @@ devam ederler ve kazanılmış aylıklarındaki kademe ilerlemesi ve derece yük
 esaslara göre yapılır. Karşılık gösterilen kadrolar, ilgililer için kazanılmış hak teşkil etmez.
 KISIM - III
 Devlet Memurluğuna Alınma
-BÖLÜM:1
-Usul
-Atama yapılacak boş kadroların bildirilmesi:
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ kesinleşinceye veya takip sonuçlanıncaya kadar devam eder. Mahkemece karara b
 alacaklar, tedbir konulan para, mal, her türlü hak ve alacakların bedelinden, Devletin ve
 sosyal güvenlik kuruluşlarının 6183 sayılı Kanun kapsamındaki alacaklarından sonra gelmek
 üzere, imtiyazlı alacak olarak öncelikle tahsil olunur.60
-İspat külfeti
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ avukatın bürosunda yapılacak tebligatlar, resmî çalışma gün ve saatleri 
 
 Kanuni mümessilleri bulunanlara veya bulunması gerekenlere yapılacak tebligat
 kanunlara göre bizzat kendilerine yapılması icabetmedikçe bu mümessillere yapılır.
-Hükmi şahıslara ve ticarethanelere tebligat:
 
 ### Bizim Yorumumuz
 

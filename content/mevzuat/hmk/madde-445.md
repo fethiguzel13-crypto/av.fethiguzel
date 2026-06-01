@@ -24,7 +24,6 @@ tarafından imzalanır ve mühürlenir.
 (4) Elektronik ortamda yapılan işlemlerde süre gün sonunda biter.
 (5) Mahkemelerde görülmekte olan dava, çekişmesiz yargı, geçici hukuki koruma ve
 diğer tüm işlemlerde UYAP’ın kullanılmasına dair usul ve esaslar yönetmelikle düzenlenir.
-Disiplin para cezası
 
 ### Bizim Yorumumuz
 

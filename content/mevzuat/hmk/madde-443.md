@@ -18,7 +18,6 @@ mahkemede görülür.
 
 uyuşmazlığı yeniden bir karar verilebilmesi için yeni hakeme veya hakem kuruluna gönderir.
 Bu durumda hakem veya hakem kurulu 421 inci maddeye göre yeniden seçilir veya oluşturulur.
-Uygulanmayacak hükümler
 
 ### Bizim Yorumumuz
 

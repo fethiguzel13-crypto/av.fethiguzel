@@ -26,7 +26,6 @@ biten kısmının kullanılmasına izin verilmiş sayılır.(...)35
 Bu maddeye göre verilen izin yapı sahibini kanuna, ruhsat ve eklerine riayetsizlikten
 doğacak mesuliyetten kurtarmayacağı gibi her türlü vergi, resim ve harç ödeme mükellefiyetinden
 de kurtarmaz.
-Kullanma izni alınmamış yapılar:
 
 ### Bizim Yorumumuz
 

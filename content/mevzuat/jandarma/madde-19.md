@@ -38,7 +38,6 @@ Kuvvetlerinin yararlandığı hak ve imkânlardan aynen yararlanır.
 kanunları ve diğer kanunlarla Milli Savunma Bakanlığı ile Türk Silahlı Kuvvetlerine tanınan
 gümrük, her türlü vergi, resim, harç ve ardiye ücretlerine ilişkin muafiyet ve istisna hükümleri
 Jandarma Genel Komutanlığı hakkında da uygulanır.
-Özlük hakları:
 
 ### Bizim Yorumumuz
 

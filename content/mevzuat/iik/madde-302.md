@@ -32,7 +32,6 @@ içinde gerçekleşen iltihaklar da kabul olunur.
 Komiser, iltihak süresinin bitmesinden itibaren en geç yedi gün içinde konkordatoya
 ilişkin bütün belgeleri, konkordato projesinin kabul edilip edilmediğine ve tasdikinin uygun
 olup olmadığına dair gerekçeli raporunu mahkemeye tevdi eder.
-Borçtan birlikte sorumlu olanlara karşı haklar:
 
 ### Bizim Yorumumuz
 

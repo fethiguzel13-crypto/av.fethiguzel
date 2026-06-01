@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 Madde 157 – 101 inci maddede yazılı bilinen iş (…)50 yeri adreslerini değiştiren
 mükellefler, yeni adreslerini vergi dairesine bildirmeye mecburdurlar.
 (İkinci fıkra Mülga : 22/7/1998-4369/82 md.)
-İş değişikliklerinin bildirilmesi:
 
 ### Bizim Yorumumuz
 

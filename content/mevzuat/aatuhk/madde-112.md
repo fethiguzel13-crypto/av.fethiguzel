@@ -14,7 +14,6 @@ Usulü dairesinde mal bildiriminde bulunduktan sonra, edinilen mallarla, her tü
 mallarında, kazanç ve gelirlerinde olan artmaları 61 inci madde hükümleri gereğince
 zamanında bildirmemek suretiyle amme alacağının tahsilini engellemiş veya zorlaştırmış
 olanlar bir seneye kadar hapis cezası ile cezalandırılır.
-Amme borçlusuna ait ellerinde bulundurdukları malları bildirmiyenler:
 
 ### Bizim Yorumumuz
 

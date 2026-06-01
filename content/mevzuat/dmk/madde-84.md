@@ -15,7 +15,6 @@ esaslarına tabi olurlar ve muvazzaf askerlikte geçen süreleri asaletlerinin t
 kademe ilerlemesi yapılmak ve sınav veya seçmeye tabi tutulmak suretiyle derece
 yükseltilmesinde de değerlendirilir.
 Seferde veya talim ve manevra için hazarda silah altına alınanların askerlik
-sürelerinin kademe ve derece intibakları:
 
 ### Bizim Yorumumuz
 

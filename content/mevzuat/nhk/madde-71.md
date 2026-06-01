@@ -15,7 +15,6 @@ Nüfus Kütüklerine Tescilleri Hakkında Kanun, 26/6/1973 tarihli ve 1774 sayı
 Kanununun 5 inci maddesi, 6 ncı maddesinin (a) ve (d) bentleri, 8 inci maddesi, 16 ncı maddesi ve
 17 nci maddesinde yer alan "8" ibaresi ile 10/4/1927 tarihli ve 1003 sayılı Binaların Numaralanması
 ve Sokaklara İsim Verilmesi Hakkında Kanun yürürlükten kaldırılmıştır.
-Diğer kanunların değiştirilen hükümleri
 
 ### Bizim Yorumumuz
 

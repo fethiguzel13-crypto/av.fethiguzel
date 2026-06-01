@@ -18,7 +18,6 @@ tetkik ve diyeceği varsa söylemesi için icra dairesine davet olunur. Kanunen 
 müddetler mahfuzdur. Haciz sırasında borçlu veya alacaklı adına Tebligat Kanunu
 hükümlerine göre tebellüğe yetkili kimse bulunduğu takdirde haciz tutanağının bir örneği
 bulunan şahsa verilir. Borçluya veya alacaklıya ayrıca haber verilmez.
-Hacze iştirak halinde davet:
 
 ### Akademik Yorum ve Analiz
 

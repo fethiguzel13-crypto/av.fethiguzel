@@ -15,7 +15,6 @@ Katma Değer Vergisinin ancak indirim hakkı tanınan işlemlere isabet eden kı
 konusu yapılır.
 2. Kısmi vergi indirimine ilişkin usul ve esasları tespite Maliye ve Gümrük Bakanlığı
 yetkilidir.
-İndirimin belgelendirilmesi:
 
 ### Bizim Yorumumuz
 

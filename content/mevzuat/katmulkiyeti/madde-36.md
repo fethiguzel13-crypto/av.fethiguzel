@@ -16,7 +16,6 @@ saklamaya mecburdur.
 Bu defterin, her takvim yılının bitmesinden başlıyarak bir ay içinde yönetici tarafından
 notere kapattırılması mecburidir.
 Bu maddede yazılı görevleri yerine getirmiyen yöneticiye 33 üncü maddenin son fıkrasında yazılı cezalar uygulanır.
-3. İşletme projesinin yapılması:
 
 ### Bizim Yorumumuz
 

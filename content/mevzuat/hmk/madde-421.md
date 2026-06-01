@@ -17,7 +17,6 @@ sayılmaz.
 soyadları belirtilmiş ise hakemin, hakem kurulunun ya da kurulun karar çoğunluğunu ortadan
 kaldıracak sayıda hakemin görevinin herhangi bir sebeple sona ermesi hâlinde, tahkim de
 sona erer.
-Hakemin kendi yetkisi hakkında karar vermesi
 
 ### Bizim Yorumumuz
 

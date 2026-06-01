@@ -16,7 +16,6 @@ haftalık kesin süre içinde tamamlanması, aksi hâlde başvurudan vazgeçmiş
 başvurana yazılı olarak bildirilir. Verilen kesin süre içinde harç ve giderler tamamlanmadığı
 takdirde, mahkeme başvurunun yapılmamış sayılmasına karar verir. Bu karara karşı istinaf
 yoluna başvurulması hâlinde, 346 ncı maddenin ikinci fıkrası hükmü kıyas yoluyla uygulanır.
-Başvuru süresi
 
 ### Bizim Yorumumuz
 

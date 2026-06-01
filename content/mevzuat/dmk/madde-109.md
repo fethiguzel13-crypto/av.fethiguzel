@@ -20,7 +20,6 @@ derece yükselmelerinde, emekliye ayrılmalarında veya hizmetle ilişkilerinin 
 hizmet gerekleri yanında özlük dosyaları göz önünde bulundurulur.
 Özlük dosyalarının tutulma esasları ile özlük dosyalarında yer alacak belgelere ilişkin
 usûl ve esaslar Devlet Personel Başkanlığınca belirlenir.
-Sicil dosyası:
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ itibaren iki hafta süreyle devam eder.
 vekil de görevlendirmez ise tarafın yokluğu hâlinde uygulanacak hükümlere göre işlem yapılır.
 (3) Yukarıdaki fıkralarda yer alan hususlar, istifa eden vekilin istifa dilekçesi ile
 birlikte vekâlet verene ihtaren bildirilir.
-Vekilin azli
 
 ### Bizim Yorumumuz
 

@@ -28,9 +28,6 @@ sonra gelmek üzere “yalnız” ibaresi eklenmiştir.
 127
 
 hükümlerine karşı istinaf yoluna başvurulur.130
-ÜÇÜNCÜ BÖLÜM
-Temyiz
-Temyiz
 
 ### Bizim Yorumumuz
 

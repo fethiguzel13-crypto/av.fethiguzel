@@ -22,7 +22,6 @@ metne işlendiği şekilde değiştirilmiştir.
 
 (Ek: 9/11/1988-3494/29 md.) İflasa karar verilmesinden sonra iflas davasından
 feragat geçersizdir.
-İflas kararının tebliği ve ilanı:
 
 ### Akademik Yorum ve Analiz
 

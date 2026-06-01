@@ -71,7 +71,6 @@ ilan vergi dairesinin ilan koymaya mahsus mahalline asılır.
 (Değişik: 23/6/1982-2686/6 md.) Verginin tahakkuku ve cezanın kesinleşmesi için
 geçmesi gereken vergi mahkemesinde dava açma süresi; mükellefin bilinen adresinde tebligat
 yapıldığı hallerde tebliğ tarihinden, aksi halde tutanakla tespit olunan ilan tarihinden başlar.
-Takdir kararı:
 
 ### Bizim Yorumumuz
 

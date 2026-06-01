@@ -14,7 +14,6 @@ rekabeti engeller, bozar ya da kısıtlarsa yahut belirli bir mal veya hizmet pi
 durumunu kötüye kullanırsa, bundan zarar görenlerin her türlü zararını tazmine mecburdur.
 Zararın oluşması birden fazla kişinin davranışları sonucu ortaya çıkmış ise bunlar zarardan
 müteselsilen sorumludur.
-Zararın Tazmini
 
 ### Bizim Yorumumuz
 

@@ -29,7 +29,6 @@ g) Duruşma istenmesi hâlinde bu istek.
 (3) Temyiz dilekçesinin, temyiz edenin kimliği ve imzasıyla temyiz olunan kararı yeteri
 kadar belli edecek kayıtları taşıması hâlinde, diğer şartlar bulunmasa bile reddolunmayıp temyiz
 incelemesi yapılır.
-Temyiz dilekçesinin verilmesi
 
 ### Bizim Yorumumuz
 

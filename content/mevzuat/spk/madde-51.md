@@ -15,7 +15,6 @@ içeriğine, ayni sermaye taahhütlerine, nominal değere, ortaklığın kendi p
 rehin olarak kabul etmesine, sermaye artırım ve azaltımı usulüne, pay taahhüdü ve
 ödenmesine, pay devrine ilişkin kısıtlamalarına, kâr-zarar hesabı ve kârın dağıtımına, yedek
 akçelere ve tasfiyeye ilişkin hükümleri uygulanmaz.
-Yatırım fonları
 
 ### Bizim Yorumumuz
 

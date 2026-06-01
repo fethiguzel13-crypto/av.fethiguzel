@@ -33,7 +33,6 @@ geçerli olmak üzere, her yıl, bir önceki yıla ilişkin olarak 4/1/1961 tari
 Usul Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen yeniden
 değerleme oranından fazla olmamak kaydıyla belirlenir ve yukarıda belirlenen usulde kat malikleri kuruluna sunulur.
 III - Sorumluluğu:
-1.Genel kural:
 
 ### Bizim Yorumumuz
 

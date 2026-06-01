@@ -18,8 +18,6 @@ bendinden sonra gelmek üzere (d) bendi eklenmiş ve mevcut bentler buna göre t
 bendinden sonra gelmek üzere (g) bendi eklenmiş ve mevcut (g) bendi (h) bendi olarak teselsül ettirilmiştir.
 11
 
-Yatırım ve Emlak Daire Başkanlığı
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

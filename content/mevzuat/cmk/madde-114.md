@@ -16,7 +16,6 @@ kısımlarının, istedikleri takdirde, mağdura veya nafaka alacaklılarına ve
 (2) Soruşturma ve kovuşturmanın konusunu oluşturan olaylar nedeniyle, mağdur veya
 nafaka alacaklısı lehinde bir yargı kararı verilmiş ise, şüpheli veya sanığın rızası olmasa da
 ödemenin yapılması emredilebilir.
-Güvencenin geri verilmesi
 
 ### Bizim Yorumumuz
 

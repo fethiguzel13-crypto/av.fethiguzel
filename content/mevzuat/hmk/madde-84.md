@@ -21,7 +21,6 @@ suretiyle yeniden yapılandırma işlemlerinin başlatılmış bulunması; borç
 çıkması hâlinde de mahkeme teminat gösterilmesine karar verir.
 (3) Mecburi dava ve takip arkadaşlığında teminat gösterme yükümlülüğü, bu
 yükümlülüğün tüm davacılar bakımından mevcut olması hâlinde doğar.
-Teminat gerektirmeyen hâller
 
 ### Bizim Yorumumuz
 

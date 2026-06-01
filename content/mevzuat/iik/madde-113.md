@@ -14,7 +14,6 @@ wordCount: 826
 Madde 113 – Alacaklı talep etmeden borçlunun talebiyle de satış yapılabilir.
 İcra memuru kıymeti süratle düşen veyahut muhafazası masraflı olan malların
 satılmasına her zaman karar verebilir.
-Artırma hazırlık tedbirleri:48
 
 ### Akademik Yorum ve Analiz
 

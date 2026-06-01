@@ -19,7 +19,6 @@ sorumluluk altında kendi nam ve hesabına yapılmasıdır.
 Tahkim işleri dolayısiyle hakemlerin aldıkları ücretler ile kollektif, adi komandit ve
 adi şirketler tarafından yapılan serbest meslek faaliyeti neticesinde doğan kazançlar da,
 serbest meslek kazancıdır.
-Serbest meslek erbabı:
 
 ### Akademik Yorum ve Analiz
 

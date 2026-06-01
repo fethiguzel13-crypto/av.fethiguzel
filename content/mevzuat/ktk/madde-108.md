@@ -25,7 +25,6 @@ Motorlu araç kazalarında tazminat yükümlülerinin birbirlerine karşı rücu
 kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kimseyi öğrendikleri
 günden başlayarak iki yılda zamanaşımına uğrar.
 Diğer hususlarda, genel hükümler uygulanır.
-Görevli ve Yetkili Mahkeme:78
 
 ### Bizim Yorumumuz
 

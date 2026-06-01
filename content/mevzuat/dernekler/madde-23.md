@@ -28,7 +28,6 @@ dernekler birimine” şeklinde ve “bildiriminin” ibaresi “bildirimi ile �
 birimine bildirmekle yükümlüdür. Dernek organlarında ve yerleşim yerinde meydana gelen
 değişiklikler de aynı usule tâbidir. Genel kurul sonuç bildirimi ile üyeliğe ilişkin bildirimlerin
 şekli, içeriği ve gerekli belgeler yönetmelikte düzenlenir.
-Temsilcilik
 
 ### Bizim Yorumumuz
 

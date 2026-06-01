@@ -32,7 +32,6 @@ iştirak eder. Ticaret Odası ve mesleki teşekkül bulunmayan yerlerde bunlar t
 seçilecek üyeler, yukarıdaki esaslara göre belediyeler tarafından seçilir.
 Komisyonlar kendilerine tahsis edilen dairede, yoksa, vergi dairesinde toplanır ve
 keyfiyet bir tutanakla tesbit olunur.
-Komisyonların görevleri:
 
 ### Bizim Yorumumuz
 

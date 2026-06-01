@@ -34,7 +34,6 @@ düzenlemelere uygun şekilde yaptırılması ve bu işlemlere ilişkin ücretle
 (Ek fıkra: 4/4/2015-6645/82 md.) Bu Kanunun 34 üncü maddesinde belirtilen şartları
 taşımasına rağmen yönetici ataması yapılmayan anagayrimenkulde, birinci fıkrada sayılan
 işlerin yaptırılmasından kat malikleri müştereken sorumludur.
-2. Defter tutulması ve belgelerin saklanması:
 
 ### Bizim Yorumumuz
 

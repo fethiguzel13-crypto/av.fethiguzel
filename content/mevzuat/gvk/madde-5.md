@@ -18,9 +18,6 @@ uzmanlar, memurlar, basın ve yayın muhabirleri ve durumları bunlara benziyen 
 kimselerle tahsil veya tedavi veya istirahat veya seyahat maksadiyle gelenler;
 2. Tutukluk, hükümlülük veya hastalık gibi elde olmıyan sebeplerle Türkiye'de
 alıkonulmuş veya kalmış olanlar.
-ÜÇÜNCÜ BÖLÜM
-Dar Mükellefiyet
-Mükellefler ve mevzuu:
 
 ### Akademik Yorum ve Analiz
 

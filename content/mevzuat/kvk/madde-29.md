@@ -18,9 +18,6 @@ günü akşamına kadar,
 veya tasfiye ve birleşme hallerinde verilecek beyannamelerde ise beyanname verme süresi
 içinde,
 ödenir.
-BEŞİNCİ BÖLÜM
-Vergi Kesintisi ve Muhtasar Beyanname
-Dar mükellefiyette vergi kesintisi4445
 
 ### Bizim Yorumumuz
 

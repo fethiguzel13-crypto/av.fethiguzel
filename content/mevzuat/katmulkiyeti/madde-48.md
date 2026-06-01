@@ -19,7 +19,6 @@ Kat mülkiyeti sona erince, kat mülkiyeti kütüğündeki sayfalar kapatılarak
 ortak mülkiyet hükümleri yürür.
 Tümü harabolan anayapının arsasında malik veya ortak malikler tarafından yine kat
 mülkiyeti esasına göre yeni bir yapı yapılmak istenirse, kat irtifakı ve kat mülkiyeti kurulmasına dair hükümler uygulanır.
-B) Kat irtifakının sona ermesi:
 
 ### Bizim Yorumumuz
 

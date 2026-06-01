@@ -16,10 +16,6 @@ taraflarca kamuya açıklanır.
 ihraççıya bildirimi, istisnai hâllerde açıklamanın ertelenmesi veya açıklama yapılmamasına
 ilişkin usul ve esaslar Kurulca belirlenir.
 
-ÜÇÜNCÜ BÖLÜM
-Halka Açık Ortaklıklar
-Halka açık ortaklık statüsünün kazanılması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

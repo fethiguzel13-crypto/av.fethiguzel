@@ -25,7 +25,6 @@ Bu madde kapsamında ücretle ders vermek üzere yükseköğretim kurumlarından
 görevlendirilen öğretim elemanlarına 2914 sayılı Kanun hükümlerine göre ek ders ücreti
 ödenir.
 Konferans ücreti her yıl bütçe kanunlarında gösterilir.271
-Yolluk giderleri ve gündelikleri:
 
 ### Bizim Yorumumuz
 

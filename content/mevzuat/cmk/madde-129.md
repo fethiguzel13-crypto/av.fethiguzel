@@ -35,7 +35,6 @@ c) 21/7/1983 tarihli ve 2863 sayılı Kültür ve Tabiat Varlıklarını Koruma 
 alınmış tedbirler ilgililere bildirilir.
 (5) Açılmamasına veya açılıp da içeriği bakımından adliyenin eli altında tutulmasına
 gerek bulunmadığına karar verilen gönderiler, hemen ilgililerine teslim olunur.
-Avukat bürolarında arama, elkoyma ve postada elkoyma
 
 ### Bizim Yorumumuz
 

@@ -50,7 +50,6 @@ Kanununun görevi kötüye kullanmaya ilişkin hükümleri uygulanır.
 Belediye, varlık ve yükümlülüklerinin ayrıntılı bir şekilde yer aldığı malî tablolarını
 üçer aylık dönemler hâlinde Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, Hazine ve
 Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığına gönderir.4243
-Arsa ve konut üretimi
 
 ### Bizim Yorumumuz
 

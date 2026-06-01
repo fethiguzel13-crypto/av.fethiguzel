@@ -31,7 +31,6 @@ tarihinde kiralandığının, 26/6/1973 tarihli ve 1774 sayılı Kimlik Bildirme
 karar tutanağı kiracı adına düzenlenerek tebliğ edilir ve ceza kiracıdan tahsil edilir. Ancak bu
 kiralama 4925 sayılı Kanun kapsamında bulunan yetki belgesi sahibi taşımacının sorumluluk
 ve yükümlülüklerini ortadan kaldırmaz.
-Ceza yerine getirilmeden işlem yapılmaması:
 
 ### Bizim Yorumumuz
 

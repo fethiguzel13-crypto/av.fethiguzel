@@ -22,8 +22,6 @@ Bu maddenin parantez içi hükmünde yeralan “kaçakçılık, ağır kusur, ku
 4369 sayılı Kanunun 81 inci maddesiyle “vergi ziyaı cezası...” şeklinde değiştirilmiştir.
 110
 
-Damga vergisi ve damga resminde sorumluluk:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -15,7 +15,6 @@ laboratuvarlarından yararlanabilir. Test ve muayene ücretleri Bakanlık bütç
 hâlinde buna ilişkin tüm giderler üretici veya ithalatçıdan Amme Alacaklarının Tahsil Usulü
 Hakkında Kanun hükümlerine göre tahsil olunur. Tahsil olunan test ve muayene ücretleri
 bütçeye gelir kaydedilir.
-Ödenek
 
 ### Bizim Yorumumuz
 

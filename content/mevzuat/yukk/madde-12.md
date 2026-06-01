@@ -22,7 +22,6 @@ a) Mücbir nedenlerle, Türk hava ve deniz limanlarını kullanmak zorunda kalan
 taşıtlardaki yabancılardan liman şehrine çıkacak kişiler
 b) Deniz limanlarına gelip, yetmiş iki saati geçmemek kaydıyla, liman şehrini veya
 civar illeri turizm amaçlı gezecek kişiler
-Sınır kapılarında verilen vizeler8
 
 ### Bizim Yorumumuz
 

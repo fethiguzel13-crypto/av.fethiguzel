@@ -20,7 +20,6 @@ bulunmaması halinde ikametgah adresinde bulunanlardan veya işyerlerinde memur 
 müsdahdemlerinden birine yapılır. (Muhatap yerine bu şekilde kendisine tebliğ yapılacak
 kimsenin görünüşüne nazaran 18 yaşından aşağı olmaması ve bariz bir surette ehliyetsiz
 bulunmaması gerekir.)
-Veli, vasi ve kayyımlara tebliğ:
 
 ### Bizim Yorumumuz
 

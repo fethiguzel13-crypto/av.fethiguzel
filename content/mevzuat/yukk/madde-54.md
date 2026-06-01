@@ -44,7 +44,6 @@ değerlendirilenler.
 maddenin birinci fıkrasının (b), (d) ve (k) bentleri kapsamında oldukları değerlendirilen
 uluslararası koruma başvuru sahibi veya uluslararası koruma statüsü sahibi kişiler hakkında
 uluslararası koruma işlemlerinin her aşamasında sınır dışı etme kararı alınabilir.
-Sınır dışı etme kararı alınmayacaklar
 
 ### Bizim Yorumumuz
 

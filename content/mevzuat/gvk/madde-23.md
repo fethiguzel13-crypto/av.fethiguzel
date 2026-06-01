@@ -129,7 +129,6 @@ olan ücrete uygulanır.).
 19. (Ek:3/11/2022-7420/2 md.) Yurt dışında yapılan inşaat, onarım, montaj işleri ile
 teknik hizmetlerde çalışan hizmet erbabına, fiilen yurt dışındaki çalışmaları karşılığı işverenin
 yurt dışı kazançlarından karşılanarak yapılan ücret ödemeleri.
-Gider karşılıklarında:
 
 ### Bizim Yorumumuz
 

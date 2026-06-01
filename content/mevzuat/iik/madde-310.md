@@ -61,10 +61,6 @@ muvaza ile temellük eden veya bu hususlarda yataklık veya tavassut eden veya i
 müracaat ile kısmen veya tamamen asılsız alacaklarını kaydettiren veya müflisin tediye
 kabiliyetini azaltmak maksadiyle kendi adına veya müstear adla ticari faaliyetlere girişen
 kimseler hakkında dahi aynı cezalar uygulanır.
-ON DÖRDÜNCÜ BAP
-İtibarın yerine gelmesi
-İtibarın yerine gelmesi:
-A – Hileli müflis:
 
 ### Bizim Yorumumuz
 

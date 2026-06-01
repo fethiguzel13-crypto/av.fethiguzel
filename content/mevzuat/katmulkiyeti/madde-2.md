@@ -24,8 +24,6 @@ d) Arsanın, bu Kanunda yazılı esasa göre bağımsız bölümlere tahsis edil
 e) Kat mülkiyetinin veya irtifakının kurulmasına ait resmi senede (Sözleşme);
 denir.
 
-III - Kat mülkiyetinin ve kat irtifakının niteliği:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

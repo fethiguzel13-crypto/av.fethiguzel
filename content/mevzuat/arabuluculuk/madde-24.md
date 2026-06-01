@@ -16,7 +16,6 @@ arabuluculuk eğitiminin başarılı şekilde devam ettiğinin anlaşıldığı 
 belirtilen sebeplerin bulunmadığı hâllerde, verilmiş bulunan iznin geçerlilik süresi her
 defasında üç yıl uzatılabilir. Eğitim kuruluşu, süresi içinde yaptığı başvuru hakkında karar
 verilinceye kadar listede kayıtlı kalır.
-Arabuluculuk yetki belgesi
 
 ### Bizim Yorumumuz
 

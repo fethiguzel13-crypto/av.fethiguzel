@@ -43,7 +43,6 @@ borçluya borcunu ödeyerek aciz vesikasını sicilden terkin ettirdiğine dair 
 Aynı şekilde, icra takibi batıl ise veya iptal edilirse yahut borçlunun borçlu olmadığı
 mahkeme kararıyla sabit olursa ya da alacaklı icra takibini geri alırsa, aciz vesikası sicilden
 terkin edilir ve borçluya buna ilişkin bir belge verilir.
-Senedin geri verilmesi ve ilamın icrası vesikası:
 
 ### Akademik Yorum ve Analiz
 

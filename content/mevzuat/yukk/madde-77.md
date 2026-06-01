@@ -25,7 +25,6 @@ madde metninden çıkarılmıştır.
 d) Kişisel verilerinin alınmasına karşı çıkması,
 e) Kayıt ve mülakattaki yükümlülüklerine uymaması,
 hâllerinde başvurusu geri çekilmiş kabul edilerek değerlendirme durdurulur.
-Karar
 
 ### Bizim Yorumumuz
 

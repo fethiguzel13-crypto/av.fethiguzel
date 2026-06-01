@@ -27,9 +27,6 @@ sözleşmeler, tüketici ile kredi verenin hak ve yükümlülükleri, cayma hakk
 efektif yıllık faizin hesaplanması, tüketici kredilerine ilişkin reklamların zorunlu içeriği, fesih
 hakkının kullanılması, temerrüt, kredinin devri, bağlı kredi ile diğer hususlara ilişkin usul ve
 esaslar yönetmelikle belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Konut Finansmanı
-Konut finansmanı sözleşmeleri
 
 ### Bizim Yorumumuz
 

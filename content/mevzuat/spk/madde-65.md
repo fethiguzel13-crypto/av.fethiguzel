@@ -82,7 +82,6 @@ hükümlerine, kısıtlamalarına ve uygulamalarına tabi tutulamaz.
 ve 4857 sayılı İş Kanununa göre çalışan personel ile ihtilaflarında iş mahkemeleri görevlidir.
 (12) Borsa başkanı ve yönetim kurulu üyeleri ve üst yönetimi hakkında, bu Kanunda
 yer alan faaliyetleri nedeniyle soruşturma yapılabilmesi Kurulun yazılı iznine bağlıdır.
-Teşkilatlanmış diğer pazar yerleri
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ bunu doğrulayacak deliller açıklanmamış ise, bu istem kabule değer görül
 (2) Aksi hâlde yargılamanın yenilenmesi istemi, bir diyeceği varsa iki hafta içinde
 bildirmek üzere Cumhuriyet savcısı ve ilgili tarafa tebliğ olunur.147
 (3) Bu madde gereğince verilen kararlara itiraz edilebilir.
-Delillerin toplanması
 
 ### Bizim Yorumumuz
 

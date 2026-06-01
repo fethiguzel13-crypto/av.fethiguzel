@@ -100,9 +100,6 @@ avukat çalıştırılabilir.
 (Ek: 20/6/2013-6493/40 md.) Özel uzmanlık gerektiren ve geçici nitelikteki işler için,
 ödemeler ve sözleşme şartları Kurulca belirlenmek kaydıyla, 4734 sayılı Kamu İhale Kanunu
 hükümlerine tabi olmaksızın hizmet satın alınabilir.
-DÖRDÜNCÜ BÖLÜM
-Görev, Yetki ve Sorumluluk
-Kurumun görev ve yetkileri
 
 ### Bizim Yorumumuz
 

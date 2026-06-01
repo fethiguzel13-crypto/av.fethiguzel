@@ -17,7 +17,6 @@ Türkiye’den çıkışlarında yapılacak işlemler, kitlesel hareketlere kar�
 ulusal ve uluslararası kurum ve kuruluşlar arasındaki iş birliği ve koordinasyon, merkez ve
 taşrada görev alacak kurum ve kuruluşların görev ve yetkilerinin belirlenmesi,
 Cumhurbaşkanı tarafından çıkarılacak yönetmelikle düzenlenir.
-Uluslararası koruma süreçlerinde iş birliği
 
 ### Bizim Yorumumuz
 

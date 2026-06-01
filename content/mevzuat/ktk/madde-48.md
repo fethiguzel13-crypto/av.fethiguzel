@@ -90,7 +90,6 @@ kursuna ibrazı zorunludur.
 Alkol, uyuşturucu veya uyarıcı maddelerin tespiti için kullanılacak teknik
 cihazların/test kitlerinin sahip olacağı asgari koşullar ile diğer usul ve esaslar yönetmelikte
 gösterilir.44
-Taşıt kullanma sürelerine uyma zorunluluğu:
 
 ### Bizim Yorumumuz
 

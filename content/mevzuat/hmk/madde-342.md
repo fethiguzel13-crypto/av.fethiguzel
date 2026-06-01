@@ -31,7 +31,6 @@ g) Başvuranın veya varsa kanuni temsilci yahut vekilinin imzası.
 (3) İstinaf dilekçesi, başvuranın kimliği ve imzasıyla, başvurulan kararı yeteri kadar
 belli edecek kayıtları taşıması durumunda diğer hususlar bulunmasa bile reddolunmayıp, 355
 inci madde çerçevesinde gerekli inceleme yapılır.
-İstinaf dilekçesinin verilmesi
 
 ### Bizim Yorumumuz
 

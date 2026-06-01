@@ -21,8 +21,6 @@ BEŞİNCİ KISIM
 Vergi Karnesi
 Vergi karnesi:
 
-Karne mecburiyeti:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

@@ -42,7 +42,6 @@ ulaşım ana planlarında bisikletli ulaşıma yer verilmesi ya da bisikletli ul
 hazırlanması esastır. Bakanlıkça, talep hâlinde mahalli idarelere teknik destek verilebilir. Bu
 fıkraya ilişkin idari ve teknik usul ve esaslar Çevre ve Şehircilik Bakanlığınca çıkarılan
 yönetmelikle belirlenir.
-Büyükşehir belediyesi ve ilçe belediyelerinin yetkileri ve imtiyazları17
 
 ### Bizim Yorumumuz
 

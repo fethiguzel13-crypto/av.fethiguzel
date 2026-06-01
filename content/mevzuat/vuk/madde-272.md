@@ -29,7 +29,6 @@ giderler de bu hükümdedir.
 Gayrimenkuller veya elektrik üretim ve dağıtım varlıkları için yapılan giderler hem
 tamir, hem de kıymet artırma giderlerinden terekküp ettiği takdirde, mükellef bu giderlerden
 maliyet bedeline eklenecek kısmı ayrı göstermek mecburiyetindedir.
-Demirbaş eşya:
 
 ### Akademik Yorum ve Analiz
 

@@ -80,7 +80,6 @@ kuruluşlarca yapılan etüt, proje, proje uygunluk görüşü için resim, har�
 ücreti ve herhangi bir ad altında bedel alınmaz.
 Bu maddenin uygulanmasına ilişkin hususlar Bakanlıkça hazırlanan yönetmelikle
 belirlenir.
-Müelliflik, fenni mesuliyet, şantiye şefliği, yapı müteahhitliği ve kayıtlar:32
 
 ### Bizim Yorumumuz
 

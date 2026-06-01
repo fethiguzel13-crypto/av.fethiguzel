@@ -17,7 +17,6 @@ hükmü vermiş olan mahkemeye başvurulur.
 duruşma yapılmaksızın verilir.
 
 Yenileme isteminin kabule değer görülmemesi nedenleri ve kabulü hâlinde
-yapılacak işlem
 
 ### Bizim Yorumumuz
 

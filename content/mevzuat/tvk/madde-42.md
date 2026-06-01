@@ -14,7 +14,6 @@ Türk Cumhuriyeti vatandaşları, Türk vatandaşı olmak istediklerini yazılı
 takdirde Türk vatandaşlığını kazanırlar.
 (2) Kuzey Kıbrıs Türk Cumhuriyeti vatandaşlığını sonradan kazanmış olanlar hakkında
 11 inci maddede belirtilen hükümler uygulanır.
-Türk vatandaşlığını kaybedenler veya vatandaşlıktan ıskat edilenler
 
 ### Bizim Yorumumuz
 

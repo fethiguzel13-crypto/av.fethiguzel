@@ -17,10 +17,6 @@ ile ilişkilendirilen sınırlama ve oranlarda aşımların oluşması ve şartl
 bu aşımlar Kurumca belirlenecek bir süre içinde giderilir. Aşımların giderilmesi için
 belirlenen süre içinde bu Kanunun idarî para cezalarına ilişkin hükümleri uygulanmaz.
 
-İKİNCİ BÖLÜM
-Krediler ve Risk Grubu
-Krediler
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

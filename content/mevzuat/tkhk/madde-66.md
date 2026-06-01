@@ -32,7 +32,6 @@ Türkiye Barolar Birliği tarafından hazırlanan yönetmelikte gösterilir.
 (3) Tüketici hakem heyetinin oluşumunun sağlanamadığı yerlerde noksan üyelikler,
 yönetmelikle belirlenen üyelik niteliklerine sahip Devlet memurları arasından illerde ticaret il
 müdürü, ilçelerde ise kaymakam tarafından tamamlanır.
-Raportör
 
 ### Bizim Yorumumuz
 

@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 70 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Kadro iptal ve ihdasları
 
 ### Bizim Yorumumuz
 

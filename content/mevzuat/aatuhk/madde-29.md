@@ -19,7 +19,6 @@ tasarruflardan aşağıda belirtilenler hükümsüzdür:
 2. Borca karşılık para veya mütat ödeme vasıtalarından gayrı bir suretle yapılan
 ödemeler,
 3. Vadesi gelmemiş bir borç için yapılan ödemeler.
-Amme alacağının tahsiline imkan bırakmamak maksadiyle yapılan tasarruflar:
 
 ### Bizim Yorumumuz
 

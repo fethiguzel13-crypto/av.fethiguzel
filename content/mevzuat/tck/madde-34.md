@@ -22,8 +22,6 @@ etkisiyle, işlediği fiilin hukuki anlam ve sonuçlarını algılayamayan veya 
 davranışlarını yönlendirme yeteneği önemli derecede azalmış olan kişiye ceza verilmez.
 (2) İradi olarak alınan alkol veya uyuşturucu madde etkisinde suç işleyen kişi
 hakkında birinci fıkra hükmü uygulanmaz.
-ÜÇÜNCÜ BÖLÜM
-Suça Teşebbüs
 
 ### Akademik Yorum ve Analiz
 

@@ -49,7 +49,6 @@ Bu madde uyarınca istinaf ve temyiz yolundan vazgeçilen davaya ilişkin kararl
 hükmedilen yargılama giderleri, avukatlık ücretleri ve fer’ileri karşılıklı olarak talep edilmez
 ve bu alacaklar için icra takibi yapılamaz.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Hazine ve Maliye Bakanlığınca
-belirlenir.
 
 ### Akademik Yorum ve Analiz
 

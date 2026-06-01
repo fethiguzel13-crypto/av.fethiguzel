@@ -34,7 +34,6 @@ bu süre en çok bir yıl altı ay olup, gerekçesi gösterilerek altı ay daha 
 (5) (Ek:17/10/2019-7188/18 md.) Bu maddede öngörülen tutukluluk süreleri, fiili
 işlediği sırada on beş yaşını doldurmamış çocuklar bakımından yarı oranında, on sekiz yaşını
 doldurmamış çocuklar bakımından ise dörtte üç oranında uygulanır.
-Cumhuriyet savcısının tutuklama kararının geri alınmasını istemesi
 
 ### Bizim Yorumumuz
 

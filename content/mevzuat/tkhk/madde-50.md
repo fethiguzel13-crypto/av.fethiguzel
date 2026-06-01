@@ -67,7 +67,6 @@ herhangi bir isim altında bedel talep edilemez.
 (11) Devre tatil, uzun süreli tatil hizmeti, yeniden satım, değişim sözleşmeleri ve ön
 bilgilendirmenin içeriği, tüketici ile satıcı ve sağlayıcının hak ve yükümlülükleri, cayma hakkı
 (…)15 ile diğer uygulama usul ve esasları yönetmelikle belirlenir.
-Paket tur sözleşmeleri
 
 ### Bizim Yorumumuz
 

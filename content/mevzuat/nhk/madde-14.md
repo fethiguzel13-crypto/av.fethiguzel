@@ -22,9 +22,6 @@ ibaresi “kimlik kartı” ve “nüfus cüzdanlarını” ibaresi “kimlik ka
 
 ÜÇÜNCÜ KISIM
 Nüfus Olayları
-BİRİNCİ BÖLÜM
-Doğum
-Bildirim yükümlülüğü ve süresi
 
 ### Bizim Yorumumuz
 

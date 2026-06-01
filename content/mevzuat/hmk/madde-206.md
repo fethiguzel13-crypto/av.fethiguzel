@@ -23,7 +23,6 @@ başlangıcında hesap defterine veya cüzdanına basılmış olması veya önce
 değildir.
 (4) Yukarıda belirtilen hükümler dairesinde noterlerce onaylanacak veya düzenlenecek
 olan senetler için ilgilisinden harç, vergi ve değerli kâğıt bedeli alınmaz.22
-Senette çıkıntı, kazıntı ve silinti
 
 ### Bizim Yorumumuz
 

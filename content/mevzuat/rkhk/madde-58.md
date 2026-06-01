@@ -23,7 +23,6 @@ Gazetede” ibaresi, “Kurum internet sayfasında” olarak değiştirilmiştir
 
 ya da zarara neden olanların elde ettiği veya elde etmesi muhtemel olan karların üç katı
 oranında tazminata hükmedebilir.
-İspat Yükü
 
 ### Bizim Yorumumuz
 

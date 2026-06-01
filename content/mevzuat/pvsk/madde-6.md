@@ -27,7 +27,6 @@ karar kesindir. İtiraz, zaruret görülmeyen hallerde evrak üzerinde inceleme 
 sürede sonuçlandırılır. İdarî para cezaları 6183 sayılı Âmme Alacaklarının Tahsil Usulü
 Hakkında Kanun hükümlerine göre tahsil olunur.
 Bu maddede belirtilen aynı fiillerin bir yıl içinde tekrarı halinde, en son uygulanan
-para cezası bir kat artırılarak uygulanır.
 
 ### Bizim Yorumumuz
 

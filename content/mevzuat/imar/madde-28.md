@@ -99,7 +99,6 @@ raporların hazırlanması amacıyla belediyeler gerekli tedbirleri alır.
 (Ek fıkra:7/5/2026-7579/12 md.) Yapı denetim kuruluşlarında görev alan denetçilerin
 hangi yapılarda hangi tarih aralığında görev aldıkları, Bakanlıkça kurulacak elektronik sistem
 üzerinden takip edilir. Yapı ruhsatında bu kişilerin isim ve imzaları yer almaz.
-Ruhsat müddeti:
 
 ### Bizim Yorumumuz
 

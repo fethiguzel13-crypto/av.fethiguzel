@@ -15,7 +15,6 @@ mülkiyeti kütüğüne yapılacak tescillerde de uygulanır.
 Henüz kadastrosu yapılmamış olan yerlerde kat mülkiyeti ve kat irtifakı, Tapu Sicili
 Tüzüğündeki formüle göre, ayrıca tutulacak Kat Mülkiyeti Zabıt Defterine tescil olunur.
 C) Kat mülkiyetinin kurulması:
-I - İstem ve belgeler:
 
 ### Bizim Yorumumuz
 

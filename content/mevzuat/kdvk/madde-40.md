@@ -30,7 +30,6 @@ inci fıkrasında sayılan kurum ve kuruluşlara sadece vergiye tabi işlemlerin
 dönemler için beyanname verdirmeye, beyanname yerine kaim olmak üzere işleme esas olan
 belgeleri kabul etmeye, bu mükelleflere ait verginin beyan ve ödeme zamanı ile tahsiline
 ilişkin usul ve esasları belirlemeye yetkilidir.
-Beyanname verme zamanı:
 
 ### Bizim Yorumumuz
 

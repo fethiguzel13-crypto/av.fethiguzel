@@ -21,9 +21,6 @@ para cezasıyla, (b) ve (c) bentlerine aykırı hareket edenler, altı aydan iki
 ikiyüz milyon liradan dörtyüz milyon liraya kadar ağır para cezasıyla cezalandırılırlar. Bu
 maddedeki para cezaları her yıl 1/3/1926 tarihli ve 765 sayılı TürkCeza Kanununun ek 2 nci
 maddesi hükümleri uyarınca artırılır.
-SEKİZİNCİ KISIM
-Çeşitli Hükümler
-Mal sahibinin sağladığı yararları geri alma hakkı
 
 ### Bizim Yorumumuz
 

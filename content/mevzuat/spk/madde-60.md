@@ -34,7 +34,6 @@ ve organizasyon yapısına, faaliyet ilke ve esaslarına, faaliyet izin esaslar�
 
 piyasası aracı ihracına ve tabi olacakları diğer yükümlülüklere ilişkin usul ve esaslar Kurul
 tarafından belirlenir.
-Kira sertifikası ve varlık kiralama şirketleri
 
 ### Bizim Yorumumuz
 

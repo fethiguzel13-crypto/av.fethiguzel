@@ -28,7 +28,6 @@ Hakem veya hakem kurulu, talebi haklı bulursa, tamamlayıcı hakem kararını b
 verir. İcap ederse, bu süre hakem veya hakem kurulunca en fazla bir ay uzatılabilir.
 (5) Düzeltme, tavzih ve tamamlama kararları, taraflara bildirilir ve hakem kararının bir
 parçasını oluşturur.
-Tebligat
 
 ### Bizim Yorumumuz
 

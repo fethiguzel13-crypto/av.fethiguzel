@@ -20,7 +20,6 @@ d) (Değişik: 2/3/1984 - 2990/2 md.) (a), (b) ve (c) bentlerinde belirtilen şa
 ortakları (bu şahısların yönetim kurullarında görevli olmadıkları anonim ortaklıklar hariç).
 2. Bu Kanun ve diğer kanunlardaki hükümler gereğince geçici veya sürekli olarak
 kamu ihalelerine katılmaktan yasaklanmış olanlar.
-Şartnameler:
 
 ### Bizim Yorumumuz
 

@@ -43,7 +43,6 @@ teklifi zorunluluğu getirebilir.
 birlikte hareket edenlerin sahip olduğu oy hakları, Kurulca belirlenecek süre içinde bu
 zorunluluğun yerine getirilmemesi hâlinde kendiliğinden donar. Söz konusu paylar, genel
 kurul toplantı nisabında dikkate alınmaz.
-Ortaklıktan çıkarma hakkı ve satma hakkı
 
 ### Bizim Yorumumuz
 

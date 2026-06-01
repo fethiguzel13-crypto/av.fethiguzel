@@ -54,9 +54,6 @@ aktarmaları zamanında yapmayan büyükşehir belediye başkanı, bağlı kurul
 müdürleri ve saymanları hakkında da uygulanır.
 30 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “veya ilk kademe” ibaresi madde metninden çıkarılmıştır.
 
-
-Büyükşehir belediyesinin giderleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

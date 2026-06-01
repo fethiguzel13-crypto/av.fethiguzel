@@ -26,7 +26,6 @@ Bakanlığı, Sağlık Bakanlığı, ilgili diğer bakanlıklar ile kamu kurum v
 geciktirilmeksizin yerine getirilir.
 (3) Bu tedbirlerin yerine getirilmesinde kurumların koordinasyonu Adalet Bakanlığınca
 sağlanır.
-Kadrolar
 
 ### Bizim Yorumumuz
 

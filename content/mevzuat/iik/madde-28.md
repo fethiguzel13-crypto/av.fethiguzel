@@ -16,7 +16,6 @@ talebine hacet kalmaksızın hükmün tefhimi ile beraber hulasasını tapu sici
 Kanununun 1010 uncu maddesinin ikinci fıkrası hükmüne tâbidir.
 Taşınmaz davası üzerine verilen karar ileride davacının aleyhine kesinleşirse
 mahkeme, derhal bu hükmün hulasasını da tapu sicili dairesine bildirir.
-Taşınmaz hakkındaki hükümden sonra yedin tebeddülü:
 
 ### Bizim Yorumumuz
 

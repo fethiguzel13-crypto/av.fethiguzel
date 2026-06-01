@@ -16,8 +16,6 @@ lüzum üzerine Köy Kanununun 47, 48 ve Belediye Kanununun 133 üncü maddeleri
 birlik kurarlarsa bucak meclis ve komisyonu bu birliğin karar ve murakabe heyetleri, bucak
 müdürleri de icra vasıtası görevini yaparlar.
 Bu suretle birliğin kuruluşu valinin tasdikıyla tamamlanır.
-BÖLÜM : V
-İl ve İlçe İdare Kurulları
 
 ### Bizim Yorumumuz
 

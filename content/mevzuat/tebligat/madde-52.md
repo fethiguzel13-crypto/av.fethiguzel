@@ -14,7 +14,6 @@ vazifeli bulunan memur ve hizmetliler ile mahalle, köy muhtar ve ihtiyar heyeti
 azaları işledikleri suçlar ile kendilerine karşı işlenen suçlardan dolayı, Türk Ceza Kanununun
 kamu görevlisine ilişkin hükümlerine göre cezalandırılır.
 Yukardaki fıkra hükmüne göre yapılacak takibat inzıbati ceza tatbikına mani değildir.
-Yanlış adres bildirmek:
 
 ### Bizim Yorumumuz
 

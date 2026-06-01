@@ -20,7 +20,6 @@ bulunduran işletmeler bir bütün olarak satılır. Satışta işletmenin devam
 olan katkısı gözetilir. Bu hâlde taşınmazın paraya çevrilmesi hükümleri uygulanır. Bir bütün
 olarak satış gerçekleşmezse mal ve haklar ayrı ayrı satılır. Bu fıkranın uygulanmasına ilişkin
 usul ve esaslar Adalet Bakanlığı tarafından çıkarılan yönetmelikte düzenlenir.
-Artırmanın ilanı:
 
 ### Bizim Yorumumuz
 

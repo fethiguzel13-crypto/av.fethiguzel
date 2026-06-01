@@ -26,7 +26,6 @@ valilikçe yapılır ve masrafı % 20 fazlası ile yapı sahibinden tahsil edili
 Alakalının fakruhali tevsik olunursa masraf belediye veya valilikçe bütçesinden
 karşılanır. Tehlike durumu o yapı ve civarının boşaltılmasını icabettiriyorsa mahkeme
 kararına lüzum kalmaksızın zabıta marifetiyle derhal tahliye ettirilir.
-Kamunun selameti için alınması gereken tedbirler:
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ savcıları, adlî görevlerinin gereği olarak, gözaltına alınan kişilerin 
 nezarethaneleri, varsa ifade alma odalarını, bu kişilerin durumlarını, gözaltına alınma neden
 ve sürelerini, gözaltına alınma ile ilgili tüm kayıt ve işlemleri denetler; sonucunu
 Nezarethaneye Alınanlar Defterine kaydederler.
-Yakalanan veya tutuklanan kişilerin nakli
 
 ### Bizim Yorumumuz
 

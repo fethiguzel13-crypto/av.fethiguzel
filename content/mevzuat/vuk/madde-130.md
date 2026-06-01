@@ -15,8 +15,6 @@ Yoklamanın ne zaman yapılacağı ilgiliye haber verilmez.
 “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 33
 
-Yoklama fişi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

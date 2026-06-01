@@ -19,7 +19,6 @@ b) Duruşmaya getirilmesi mümkün olmayan ve tanıklığı maddî gerçeğin or
 Tanıklığında bu kayıt zorunludur.
 (4) Üçüncü fıkra hükmünün uygulanması suretiyle elde edilen ses ve görüntü kayıtları,
 sadece ceza muhakemesinde kullanılır.
-Tanığa görevinin önemini anlatma
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ Madde 13 – Disiplin: Kanunlara, nizamlara ve amirlere mutlak bir itaat ve ast�
 Askerliğin temeli disiplindir.
 Disiplinin muhafazası ve idamesi için hususi kanunlarla cezai ve hususi kanun ve
 nizamlarla idari tedbirler alınır.
-III- Astın vazifeleri
 
 ### Bizim Yorumumuz
 

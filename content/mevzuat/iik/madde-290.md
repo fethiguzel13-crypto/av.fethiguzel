@@ -47,7 +47,6 @@ bulunabilir ve kanunun öngördüğü hâllerde mahkemeye görüş bildirir. Ala
 komiserin faaliyetlerini yeterli bulmazsa, mahkemeden komiserin değiştirilmesini gerekçeli
 bir raporla isteyebilir. Mahkeme bu talep hakkında borçluyu ve komiseri dinledikten sonra
 kesin olarak karar verir.
-Borçlunun malî durumunun düzelmesi nedeniyle kesin mühletin kaldırılması:91
 
 ### Bizim Yorumumuz
 

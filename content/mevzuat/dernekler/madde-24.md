@@ -14,7 +14,6 @@ amacıyla temsilcilik açabilirler. Temsilcilikler, şube veya dernek genel kuru
 edilmezler. Şubeler temsilcilik açamazlar. Temsilciliğin adresi, yönetim kurulu kararıyla
 temsilci olarak görevlendirilen kişi veya kişiler tarafından o yerin mülkî idare amirliğine
 yazılı olarak bildirilir.
-Plâtform oluşturma
 
 ### Bizim Yorumumuz
 

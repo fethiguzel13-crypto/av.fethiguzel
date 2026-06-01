@@ -14,7 +14,6 @@ muhalif ikinci bir emir daha alınacak olursa,ikinci emri veren amire evvelki em
 Eğer ikinci amir kendi emrinin yapılmasında israr ederse bu amirin emri yapılır. Ve birinci
 amire malumat verilir. Eğer daha büyük amire birinci amirin emrini bildirmeye hal ve zaman
 müsait değilse vaziyete uygun olan emir kendi mesuliyeti dahilinde yapılır ve amirlere
-bildirilir.
 
 ### Bizim Yorumumuz
 

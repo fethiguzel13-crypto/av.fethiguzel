@@ -22,7 +22,6 @@ belgeleri mahkemeye sunmak zorundadır.
 (3) Kanun yollarına başvuru sırasında adli yardım talebi bölge adliye mahkemesine
 veya Yargıtaya yapılır.
 (4) Adli yardım talebine ilişkin evrak, her türlü harç ve vergiden muaftır.
-Adli yardım talebinin incelenmesi
 
 ### Bizim Yorumumuz
 

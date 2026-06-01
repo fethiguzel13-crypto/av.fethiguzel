@@ -51,7 +51,6 @@ Faaliyetine devam eden ticarî bir işletmenin kısmen veya tamamen satılmasın
 ticarî işletmeye dahil amortismana tâbi iktisadî kıymetlerle birinci fıkrada yazılı hakların
 elden çıkarılmasından doğan kazançlar ticarî kazanç sayılır ve bunlara ticarî kazanç
 hakkındaki hükümler uygulanır.
-Vergilendirilmeyecek değer artışı kazançları
 
 ### Bizim Yorumumuz
 

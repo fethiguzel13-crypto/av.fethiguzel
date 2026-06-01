@@ -24,7 +24,6 @@ yerin nüfus müdürlüğüne bildirmekle görevlidirler.
 (4) Kamu veya özel kurumlar iş verecekleri kişilerden kimlik kartı istemekle, nüfusta
 kayıtlı olmadıklarını anladıkları kişilerin beyana dayalı kimlik ve adreslerini nüfus
 müdürlüklerine bildirmekle yükümlüdürler.
-Bulunmuş çocuklar ve zihinsel engelli kişiler5
 
 ### Bizim Yorumumuz
 

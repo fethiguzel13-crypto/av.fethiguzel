@@ -21,7 +21,6 @@ müracaat hakları saklıdır.
 (Değişik: 9/11/1988-3494/52 md.) Mahkemede açılan davada icra takibi sırasında
 inkar olunan imzanın kendisine ait olduğu anlaşılan kiracı veya kiralayan yüzbin liradan
 beşyüzbin liraya kadar para cezasına mahküm edilir.
-Kiralanan taşınmazda üçüncü şahıs bulunursa:
 
 ### Bizim Yorumumuz
 

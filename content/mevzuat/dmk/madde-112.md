@@ -19,8 +19,6 @@ işlendiği şekilde değiştirilmiştir.
 cüzdanı, özlük dosyası:” iken, metne işlendiği şekilde değiştirilmiştir.
 175
 
-Madde 113 – (Mülga: 13/2/2011 - 6111/117 md.)
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

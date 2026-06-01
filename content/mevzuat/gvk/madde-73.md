@@ -29,7 +29,6 @@ hesaplanmaz. Kardeşler evli ise eşlerden sadece biri için emsal kira bedeli h
 4. (Ek: 4/12/1985-3239/56 md.) Genel bütçeye dahil daireler ve katma bütçeli
 idareler, il özel idareleri ve belediyeler ile diğer kamu kurum ve kuruluşlarınca yapılan
 kiralamalarda.
-Giderler:
 
 ### Bizim Yorumumuz
 

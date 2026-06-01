@@ -13,7 +13,6 @@ Madde 4 – (1) Davaya bakan mahkeme, görevli olup olmadığına kovuşturma
 evresinin her aşamasında re'sen karar verebilir. 6 ncı madde hükmü saklıdır.
 (2) Görev konusunda mahkemeler arasında uyuşmazlık çıktığında, görevli mahkemeyi
 ortak yüksek görevli mahkeme belirler.
-Görevsizlik kararı verilmesi gereken hâl ve sonucu
 
 ### Bizim Yorumumuz
 

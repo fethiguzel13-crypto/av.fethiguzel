@@ -24,7 +24,6 @@ başvurulabilir. İstinaf yoluna başvurulduğu ve gerekli giderler de yatırıl
 kararı veren mahkemece yetkili bölge adliye mahkemesine gönderilir. Bölge adliye
 mahkemesi ilgili dairesi istinaf dilekçesinin reddine ilişkin kararı yerinde görmezse, ilk istinaf
 dilekçesine göre gerekli incelemeyi yapar.47
-İstinaf dilekçesine cevap
 
 ### Bizim Yorumumuz
 

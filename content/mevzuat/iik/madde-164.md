@@ -23,7 +23,6 @@ mâni değildir. Yalnız ikinci alacaklılar toplantısı, iflâs kararı kesinl
 Bölge adliye mahkemesince iflâs kararı kaldırılırsa, borçlunun malları üzerindeki
 tedbirler devam eder. Şu kadar ki, ticaret mahkemesi davanın seyrine göre bu tedbirleri
 değiştirmeye veya kaldırmaya yetkilidir.
-İflas tarihi:
 
 ### Akademik Yorum ve Analiz
 

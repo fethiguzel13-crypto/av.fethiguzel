@@ -16,8 +16,6 @@ bağımsız denetim raporunu da içeren yıllık faaliyet raporu hazırlamak zor
 raporunun hazırlanmasına, ilgili mercilere bildirilmesine ve kamuya açıklanmasına ilişkin
 usûl ve esaslar Kurulca belirlenir.
 
-Sorumluluk
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

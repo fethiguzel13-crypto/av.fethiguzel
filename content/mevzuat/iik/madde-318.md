@@ -26,7 +26,6 @@ tabi ise dilekçesine fazla olarak bilanço ve defterlerini de rapteder.
 326 ncı maddede öngörülen alacaklar hariç, tedbir yoluyla derdest takipleri durdurabilir. İcra
 mahkemesi, takiplerin durdurulması süresinin fevkalâde mühletten indirilip indirilmeyeceğini
 ve indirilecekse ne ölçüde indirileceğini belirler.
-İcra mahkemesince yapılacak tetkikler:
 
 ### Bizim Yorumumuz
 

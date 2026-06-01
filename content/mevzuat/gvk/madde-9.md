@@ -145,9 +145,6 @@ muhtevasının tayin ve tespiti ile iptali ve uygulamaya ilişkin usul ve esasla
 Maliye Bakanlığı yetkilidir.
 (Ek fıkra: 26/12/1993-3946/6 md.) Bu muaflığın, 94 üncü madde uyarınca tevkif
 suretiyle kesilen vergiye şümulü yoktur.
-İKİNCİ BÖLÜM
-Vergiden Muaf Çiftçiler
-Küçük çiftçi muaflığı:
 
 ### Bizim Yorumumuz
 

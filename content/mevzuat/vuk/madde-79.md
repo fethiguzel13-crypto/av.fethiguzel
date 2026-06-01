@@ -27,9 +27,6 @@ edebilirler.
 Çalışma saatleri dışında veya tatil günlerinde, bina ve arazi, bunları işgal edenlerin
 muvafakati olmaksızın gezilemez. Binaların gezilmesi sırasında, komisyon başkan ve üyeleri,
 ev halkının rahatsız edilmemesine dikkat etmiye mecburdurlar.
-ÜÇÜNCÜ BÖLÜM
-Tadilat Komisyonları
-Görev ve kuruluş:
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ ertelenebilir.
 (2) İkamet izni talebinin reddi, iznin uzatılmaması veya iptali, yabancıya ya da yasal
 temsilcisine veya avukatına tebliğ edilir. Tebligatta, yabancının karara karşı itiraz haklarını
 etkin şekilde nasıl kullanabileceği ve bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
-İkamet izinlerine ilişkin diğer hükümler
 
 ### Bizim Yorumumuz
 

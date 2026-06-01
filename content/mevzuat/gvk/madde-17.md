@@ -35,7 +35,6 @@ iken metne işlendiği şekilde değiştirilmiştir.
 9
 
 Kazançlarda İstisnalar
-Serbest meslek kazançlarında:
 
 ### Akademik Yorum ve Analiz
 

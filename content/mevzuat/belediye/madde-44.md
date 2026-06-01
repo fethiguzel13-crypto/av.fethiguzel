@@ -19,7 +19,6 @@ kuruluşu raporuyla belgelenmesi,24
 d) Meclisin feshine neden olan eylem ve işlemlere katılması,
 Hâllerinden birinin meydana gelmesi durumunda İçişleri Bakanlığının başvurusu
 üzerine Danıştay kararıyla başkanlık sıfatı sona erer.
-Belediye başkanlığının boşalması hâlinde yapılacak işlemler
 
 ### Bizim Yorumumuz
 

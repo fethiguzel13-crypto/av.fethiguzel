@@ -17,7 +17,6 @@ Vakıf yöneticileri, en az yılda bir defa yapılacak iç denetim raporları il
 rapor tarihini takip eden iki ay içerisinde Genel Müdürlüğe bildirir.
 Vakıfların amaca ve yasalara uygunluk denetimi ile iktisadî işletmelerinin faaliyet ve
 mevzuata uygunluk denetimi Genel Müdürlükçe yapılır.
-Yönetim ve temsil masrafı
 
 ### Bizim Yorumumuz
 

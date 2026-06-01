@@ -19,8 +19,6 @@ Bakanlığınca tesbit edilecek esaslar dairesinde hesaplanır.
 
 Bu madde başlığı, 24/6/1994 tarih ve 4008 sayılı Kanunun 8 inci maddesi ile değiştirilmiştir.
 
-Hayvanlar:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

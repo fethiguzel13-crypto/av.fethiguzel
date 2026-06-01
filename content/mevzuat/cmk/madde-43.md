@@ -25,7 +25,6 @@ tanıkların belirteceği gün ve saatte hazır bulundurulmasını görevlilere 
 halinde beyanı konutunda alınabilir ya da yazılı olarak gönderebilir.
 (5) Bu madde hükümleri, kişinin ancak Cumhuriyet savcısı, hâkim veya mahkeme
 önünde tanık olarak dinlenmesi halinde uygulanabilir.
-Çağrıya uymayan tanıklar
 
 ### Bizim Yorumumuz
 

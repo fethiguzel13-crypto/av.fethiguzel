@@ -35,7 +35,6 @@ Kurumun yıllık faaliyet raporu, malî tabloları ve bütçe kesin hesabı Tür
 Millet Meclisine sunulur. Kesinhesabın bir örneği de Maliye Bakanlığına gönderilir.
 Kurum, faaliyetleri hakkında internet ortamı ve resmî bültenler aracılığıyla kamuoyunu
 azamî ölçüde bilgilendirir.
-Ücretler, malî ve diğer sosyal haklar
 
 ### Bizim Yorumumuz
 

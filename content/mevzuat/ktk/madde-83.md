@@ -29,7 +29,6 @@ yapılıp araç ve ölüler kenara alınarak durum bir tutanakla tespit edildikt
 Trafik zabıtası, usul kanunlarına göre görevlendirilirse, trafik kazalarında bilirkişilik yapar.
 Trafik kazaları, kaza tahkik memurluğu, bilirkişilik ve bunlarda aranacak şartlar ile
 diğer esaslar yönetmelikte gösterilir.
-Trafik kazalarında sürücü kusurlarının tespiti ve asli kusur sayılan haller:
 
 ### Bizim Yorumumuz
 

@@ -32,7 +32,6 @@ izin ile 181 inci maddede belirtilen hal dışında, yurt içinde geçirilen sü
 aylığı ödenmez. Ancak, yurt dışı görev süresince toplam dört ayı geçmemek üzere, yurt içinde
 yataklı tedavi kurumlarında yatarak görülen tedavi süresince 156 ncı maddeye göre belirlenen
 emsal katsayının 1/3’ü esas alınarak yurt dışı aylığı ödenir.
-Yurt dışındaki memurlardan geçici görevle merkeze çağrılanların aylıkları:
 
 ### Bizim Yorumumuz
 

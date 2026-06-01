@@ -31,7 +31,6 @@ süresi, 6102 sayılı Kanunun 456 ncı maddesindeki sermayenin tescil edilmesin
 sürenin hesaplanmasında dikkate alınmaz.
 (6) 6102 sayılı Kanunun 346 ncı maddesi ile 462 nci maddesinin üçüncü fıkrası halka
 açık ve halka açılmak üzere Kurula başvuran ortaklıklara uygulanmaz.
-Sermaye piyasası araçlarının kaydileştirilmesi
 
 ### Bizim Yorumumuz
 

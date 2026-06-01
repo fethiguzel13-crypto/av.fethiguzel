@@ -22,7 +22,6 @@ bu kararın kendisine tebliğinden itibaren üç gün içinde yukarıdaki madded
 beyanda bulunmaya mecburdur.
 İptal veya kaldırma kararı borçlunun vicahında verilmiş ise bu müddet, kararın
 tefhiminden başlar.
-Hapis ile tazyik:
 
 ### Bizim Yorumumuz
 

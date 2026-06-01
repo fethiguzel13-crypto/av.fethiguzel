@@ -22,7 +22,6 @@ denetim sonuçlarını bir rapor halinde yönetim kuruluna ve toplandığında g
 Denetim kurulu üyelerinin istemi üzerine, her türlü bilgi, belge ve kayıtların, dernek
 yetkilileri tarafından gösterilmesi veya verilmesi, yönetim yerleri, müesseseler ve
 eklentilerine girme isteğinin yerine getirilmesi zorunludur.
-Yardım ve işbirliği
 
 ### Bizim Yorumumuz
 

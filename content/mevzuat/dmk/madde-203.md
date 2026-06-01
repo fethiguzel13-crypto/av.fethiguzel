@@ -30,8 +30,6 @@ ibaresi eklenmiştir.
 “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 275
 
-Aile yardımı ödeneğine hak kazanma:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

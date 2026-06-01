@@ -29,7 +29,6 @@ yapabilmek için o yer ihtiyar heyetinden veya komşulardan iki kişi bulundurul
 savcısının nezaretinde askerî makamların katılımıyla adlî kolluk görevlileri tarafından yerine
 getirilir. Gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının yazılı emriyle de askerî
 makamların katılımıyla adlî kolluk görevlileri tarafından arama yapılabilir.
-Aramada hazır bulunabilecekler
 
 ### Bizim Yorumumuz
 

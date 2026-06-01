@@ -14,9 +14,6 @@ aleyhlerine de birlikte dava açılabilir. Bu tür dava arkadaşlığında, dava
 hareket etmek zorundadır. Ancak, duruşmaya gelmiş olan dava arkadaşlarının yapmış
 oldukları usul işlemleri, usulüne uygun olarak davet edildiği hâlde duruşmaya gelmemiş olan
 dava arkadaşları bakımından da hüküm ifade eder.
-ÜÇÜNCÜ AYIRIM
-Davanın İhbarı ve Davaya Müdahale
-İhbar ve şartları
 
 ### Bizim Yorumumuz
 

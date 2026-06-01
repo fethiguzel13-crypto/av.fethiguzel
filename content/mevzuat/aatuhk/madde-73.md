@@ -18,7 +18,6 @@ hüsnüniyetle elde ettiği haklar mahfuzdur.
 Hüsnüniyet kaidelerine aykırı olarak hacizli mal üzerinde üçüncü şahsın elde ettiği
 hakların, alacaklının haczi ile o mala taallük eden haklarını ihlal ettiği nispette butlanına
 mahkemece hükmolunur.
-Paraya çevirme:
 
 ### Bizim Yorumumuz
 

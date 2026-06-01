@@ -18,9 +18,6 @@ ettirilir. Her teminat mektubunda daha önce ilgili banka şubesince verilen tem
 toplamı ile aynı şubenin limitlerinin de gösterilmesi zorunludur. Yabancı bankaların ve
 benzeri kredi kuruluşlarının kontrgarantilerine dayanarak bankaların verecekleri teminat
 mektupları, yukarıdaki miktarlara dahil değildir.
-İKİNCİ BÖLÜM
-Tekliflerin Değerlendirilmesi ve İhale Kararları
-Uygun bedelin tespiti:
 
 ### Bizim Yorumumuz
 

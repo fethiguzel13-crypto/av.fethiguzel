@@ -15,7 +15,6 @@ tutuklunun bir yakınına veya belirlediği bir kişiye, hâkimin kararıyla gec
 tutuklamayı bir yakınına veya belirlediği bir kişiye bizzat bildirmesine de izin verilir.
 (3) Şüpheli veya sanık yabancı olduğunda tutuklanma durumu, yazılı olarak karşı
 çıkmaması halinde, vatandaşı olduğu devletin konsolosluğuna bildirilir.
-Tutukluluğun incelenmesi
 
 ### Bizim Yorumumuz
 

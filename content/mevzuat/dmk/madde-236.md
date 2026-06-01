@@ -1775,7 +1775,6 @@ Ek Geçici Madde – (Ek: 9/4/1990 – KHK-418/15 md.; İptal: Anayasa
 Mahkemenin 5/2/1992 tarihli ve E. 1990/22, K. 1992/6 sayılı Kararı ile.)
 Ek Geçici Madde – (Ek : 22/9/1991 – KHK-458/1 md.; Mülga: 13/2/2011-6111/117
 md.)
-Yürürlükten kaldırılan hükümler:
 
 ### Bizim Yorumumuz
 

@@ -78,7 +78,6 @@ kaynaklar, alınan teminatlar ve oluşturulan garanti fonları amaçları dış�
 Sermaye piyasalarına ilişkin olarak sunulan merkezî karşı taraf hizmeti kapsamında alınan
 teminatlar ve garanti fonu varlıkları, para piyasalarına ilişkin olarak aynı kapsamda alınan
 teminatlar ve garanti fonu varlıklarından ayrı olarak izlenir.
-Takas kesinliği ve rehin hakkı
 
 ### Bizim Yorumumuz
 

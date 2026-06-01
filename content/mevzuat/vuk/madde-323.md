@@ -36,7 +36,6 @@ YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
 mükellefler, yukarıdaki fıkralar kapsamında tespit edilen şüpheli alacaklarını defterlerinin
 gider kısmına ve bunlardan sonradan tahsil edilen miktarları ise tahsil edildikleri dönemde
 defterlerinin gelir kısmına, hangi alacaklara ait olduğunu gösterecek şekilde, kaydederler.
-Vazgeçilen alacaklar:
 
 ### Akademik Yorum ve Analiz
 

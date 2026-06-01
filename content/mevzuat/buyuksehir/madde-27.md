@@ -46,9 +46,6 @@ programına göre hazırlanan kamulaştırma projesi karşılığında bölge ot
 alımları ile inşasında kullanılır. Bu gelirler bu fıkrada belirtilen amaç dışında kullanılamaz.
 37 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “Yeni kurulan” ibaresi madde metninden çıkarılmıştır. 38 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır. 39 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “veya ilk kademe” ibaresi madde metninden çıkarılmıştır. 40 12/11/2012 tarihli ve 6360 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “ve ilk kademe” ibaresi madde metninden çıkarılmıştır. 41 Bu fıkrada yer alan “% 3’ünü” ibaresi 21/4/2005 tarihli ve 5335 sayılı Kanunun 28 inci maddesiyle “% 10’unu” olarak değiştirilmiştir.
 
-
-Diğer hükümler42
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

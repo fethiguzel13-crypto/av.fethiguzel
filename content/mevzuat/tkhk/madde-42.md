@@ -23,7 +23,6 @@ eklenmiştir.
 (2) Bina tamamlama sigortası kapsamında sağlanan tazminat, teminat ve benzeri
 güvenceler iflas veya tasfiye masasına dâhil edilemez, haczolunamaz, üzerlerine ihtiyati
 tedbir ve ihtiyati haciz konulamaz.
-Cayma hakkı
 
 ### Bizim Yorumumuz
 

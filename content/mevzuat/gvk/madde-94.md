@@ -321,7 +321,6 @@ ulaştırması işiyle iştigal eden dar mükellefler için, ülkeler itibariyle
 yeniden tespit etmeye yetkilidir.128
 (Ek: 12/6/2002-4761/2 md.) Maliye Bakanlığı, vergiye tâbi işlemlere taraf veya aracı
 olanları verginin ödenmesinden sorumlu tutabilir.
-Tevkifata tabi olmıyan ücretler:
 
 ### Bizim Yorumumuz
 

@@ -31,8 +31,6 @@ rüçhan haklarından mahrum kalacakları;
 ve müflis ile müşterek borçlu olanlar ve kefillerinin ve borcu tekeffül eden sair kimselerin
 toplanmada bulunmağa hakları olduğu yazılır.
 
-Reddedilen miraslarda alacaklıları davet:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

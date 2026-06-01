@@ -46,7 +46,6 @@ sayılı kanun gereğince verilen tekel beyiyeleri,
 münasip bir yer alınabilecek miktarı borçluya bırakılmak üzere haczedilerek satılabilir",
 12. (Değişik: 26/11/1980 - 2347/8 md.) Harcırah Kanununa göre yapılan ödemeler,
 13. (Ek: 26/11/1980-2347/8 md.) 2022 sayılı Kanun uyarınca bağlanan aylıklar.
-Kısmen haczedilebilen gelirler:
 
 ### Bizim Yorumumuz
 

@@ -18,8 +18,6 @@ b) Ortak bir işlemle hepsinin yararına bir hak doğmuş olması veya kendileri
 c) Davaların temelini oluşturan vakıaların ve hukuki sebeplerin aynı veya birbirine
 benzer olması.
 
-İhtiyari dava arkadaşlarının davadaki durumu
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

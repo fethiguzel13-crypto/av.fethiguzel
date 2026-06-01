@@ -16,7 +16,6 @@ aranabilir.
 yerlerde bulunduğunun kabul edilebilmesine olanak sağlayan olayların varlığına bağlıdır.
 (3) Bu sınırlama, şüphelinin veya sanığın bulunduğu yerler ile, izlendiği sırada girdiği
 yerler hakkında geçerli değildir.
-Gece yapılacak arama
 
 ### Bizim Yorumumuz
 

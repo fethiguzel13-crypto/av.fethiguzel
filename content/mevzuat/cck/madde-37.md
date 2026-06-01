@@ -18,7 +18,6 @@ korunma ihtiyacı olan çocuklar veya suç tarihinde oniki yaşını bitirmemiş
 tarafından yerine getirilir.
 (2) Görevlendirme sırasında çocuğun kişisel özellik ve ihtiyaçları dikkate alınır ve
 çocuğa kolay ulaşabilecek olanlar tercih edilir.
-Denetim görevlisinin görevleri
 
 ### Bizim Yorumumuz
 

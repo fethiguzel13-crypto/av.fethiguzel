@@ -46,7 +46,6 @@ b) Borçlunun serveti ve gelirleri artmış ve borçlu, ekonomik varlığını t
 sokmadan borcu ödeyebilecek hâle gelmişse.
 c) Rehinli malın paraya çevrilmesi veya finansal kiralama konusu malın iadesi,
 borçlunun ekonomik varlığını artık tehlikeye sokmayacaksa.
-Konkordatonun tasdik edilmemesi ve borçlunun iflâsı:
 
 ### Bizim Yorumumuz
 

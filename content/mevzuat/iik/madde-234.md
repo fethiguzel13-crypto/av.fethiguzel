@@ -16,7 +16,6 @@ sıra cetvelini iflas dairesine verir ve alacaklıları 166 ncı maddenin 2 nci 
 göre ilan yoluyla haberdar eder.
 İddialarının tamamı veya bir kısmı reddedilen yahut iddia ettikleri sıraya kabul
 edilmiyen alacaklılara doğrudan doğruya haber verilir.
-Sıra cetveline itiraz ve neticeleri:
 
 ### Akademik Yorum ve Analiz
 

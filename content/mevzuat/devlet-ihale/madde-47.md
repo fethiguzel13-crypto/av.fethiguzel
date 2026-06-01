@@ -25,7 +25,6 @@ isteklilerin bu durumları ihaleye ait artırma ve eksiltme kağıdına yazılı
 Teklifler yapıldığı sırada, yapılan indirim veya artırımların işi uzatacağı anlaşılırsa;
 isteklilerden komisyon huzurunda son tekliflerini yazılı olarak bildirmeleri istenebilir. Daha
 önce ihaleden çekilmiş olanlar bu durumda yazılı teklif veremezler.
-İhale sonucunun karara bağlanması:
 
 ### Bizim Yorumumuz
 

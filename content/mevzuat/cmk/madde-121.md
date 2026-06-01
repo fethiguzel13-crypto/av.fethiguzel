@@ -19,7 +19,6 @@ haklı kılan bir şey elde edilmemiş ise bunu belirten bir belge verilir.
 elkonulan eşyanın mülkiyetine ilişkin görüş ve iddialarına da yer verilir.
 (3) Koruma altına alınan veya elkonulan eşyanın tam bir defteri yapılır ve bu eşya
 resmî mühürle mühürlenir veya bir işaret konulur.
-Belge veya kâğıtları inceleme yetkisi
 
 ### Bizim Yorumumuz
 

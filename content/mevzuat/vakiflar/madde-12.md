@@ -22,7 +22,6 @@ Vakıf yöneticileri, iktisap ettikleri veya değiştirdikleri taşınmaz mallar
 tarihinden itibaren bir ay içerisinde Genel Müdürlüğe bildirirler.
 Kurucularının çoğunluğu yabancı uyruklu olan vakıfların, taşınmaz mal edinmeleri
 hakkında, 22/12/1934 tarihli ve 2644 sayılı Tapu Kanununun 35 inci maddesi uygulanır.
-Taşınmazların vakıfları adına tescili
 
 ### Bizim Yorumumuz
 

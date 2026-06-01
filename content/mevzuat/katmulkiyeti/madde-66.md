@@ -24,7 +24,6 @@ fazla imar parselini içeriyorsa, münferit parseller üzerinde toplu yapı hük
 şekilde kat mülkiyeti ilişkisi kurulamaz.
 Yapılar tamamlandıkça, tamamlanan yapılara ilişkin kat irtifakları kat mülkiyetine
 çevrilebilir.
-Ortak yerler
 
 ### Bizim Yorumumuz
 

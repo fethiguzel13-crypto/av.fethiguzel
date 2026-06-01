@@ -21,7 +21,6 @@ analiz yapılması veya genel tavsiyede bulunulması
 d) Borçlanma veya başka yollardan finansman sağlanmasında aracılık hizmeti sunulması
 e) Servet yönetimi ve finansal planlama yapılması
 f) Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması
-Faaliyet izni alma zorunluluğu
 
 ### Bizim Yorumumuz
 

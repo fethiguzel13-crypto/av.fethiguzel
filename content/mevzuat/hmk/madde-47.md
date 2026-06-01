@@ -19,7 +19,6 @@ kararların temyiz incelemesi Hukuk Genel Kurulunca yapılır. Temyiz incelemesi
 veren başkan ile üyeler katılamaz.
 (2) Devletin sorumlu hâkime karşı açacağı rücu davası, tazminat davasını karara
 bağlamış olan mahkemede görülür.
-Dava dilekçesi ve davanın ihbarı
 
 ### Bizim Yorumumuz
 

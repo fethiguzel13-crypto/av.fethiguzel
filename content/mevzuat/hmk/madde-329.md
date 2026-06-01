@@ -17,7 +17,6 @@ doğrudan mahkemece takdir olunur.
 (2) Kötüniyet sahibi davalı veya hiçbir hakkı olmadığı hâlde dava açan taraf, bundan
 başka beşyüz Türk Lirasından beşbin Türk Lirasına kadar disiplin para cezası ile mahkûm
 edilebilir. Bu hâllere vekil sebebiyet vermiş ise disiplin para cezası vekil hakkında uygulanır.
-Vekâlet ücretinin taraf lehine hükmedilmesi
 
 ### Bizim Yorumumuz
 

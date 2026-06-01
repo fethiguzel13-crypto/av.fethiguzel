@@ -14,8 +14,6 @@ liradan aşağı alacaklara ve 206 ncı maddenin birinci sırasındaki alacaklar
 Bu alacaklar, borçlu iflas yoliyle takibe tabi bulunmuş olsa bile fevkalade mühlet
 esnasında ancak haciz yoliyle yahut rehinin paraya çevrilmesi suretiyle takip olunabilir.
 
-Uzatma:123
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

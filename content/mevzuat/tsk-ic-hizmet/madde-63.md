@@ -27,7 +27,6 @@ sonuçlarını amirlerine mümkün olan en kısa sürede bildirirler.
 personel birinci fıkrada yazılı esaslara tabi olmadan tercihlerine göre askerî veya sivil sağlık
 hizmet sunucularına müracaat edebilirler. Bunlar, durumları ile tedavi safahat ve sonuçlarını
 mümkün olan en kısa sürede amirlerine bildirirler. İzindeyken hastalanan uzman erbaşlar
-hariç erbaş ve erler ile öğrenciler hakkında birinci fıkra hükümleri uygulanır.
 
 ### Bizim Yorumumuz
 

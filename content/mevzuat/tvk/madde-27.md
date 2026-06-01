@@ -18,7 +18,6 @@ ana ya da babanın talebinin bulunması ve diğer ebeveynin de muvafakat etmesi 
 çocukları da kendileri ile birlikte Türk vatandaşlığını kaybederler. Muvafakat verilmemesi
 halinde hakim kararına göre işlem yapılır.
 (3) Vatandaşlığın kaybı, çocukları vatansız kılacak ise bu madde hükümleri uygulanmaz.
-Çıkma izni almak suretiyle Türk vatandaşlığını kaybeden kişilere tanınan haklar
 
 ### Bizim Yorumumuz
 

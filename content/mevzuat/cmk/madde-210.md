@@ -21,7 +21,6 @@ edilerek kanunlaşmıştır.
 veya yazılı bir açıklamanın okunması dinleme yerine geçemez.
 (2) Tanıklıktan çekinebilecek olan kişi, duruşmada tanıklıktan çekindiğinde, önceki
 ifadesine ilişkin tutanak okunamaz.
-Duruşmada okunmasıyla yetinilebilecek belgeler
 
 ### Bizim Yorumumuz
 

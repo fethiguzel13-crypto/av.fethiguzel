@@ -16,7 +16,6 @@ merci, bir başka hâkimi veya mahkemeyi davaya bakmakla görevlendirir.
 bakmakla bir başka hâkim veya mahkeme görevlendirilir.
 (3) Gecikmesinde sakınca bulunan hâllerde yapılan işler hakkında 29 uncu madde
 hükmü uygulanır.
-Ret isteminin geri çevrilmesi
 
 ### Bizim Yorumumuz
 

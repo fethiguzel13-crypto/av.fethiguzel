@@ -22,7 +22,6 @@ tabiyetinde bulunan her gerçek kişi ile tüzel kişilere bir vergi numarası v
 uygulanmasına ilişkin usul ve esasları tespit etmeye ve vergi numarasının kamu kurum ve
 kuruluşları ile gerçek ve tüzel kişilerce yapılacak işlemlerle ilgili kayıtlarda ve düzenlenecek
 belgelerde kullanılması mecburiyetini getirmeye Maliye Bakanlığı yetkilidir.
-Vergi ehliyeti:
 
 ### Bizim Yorumumuz
 

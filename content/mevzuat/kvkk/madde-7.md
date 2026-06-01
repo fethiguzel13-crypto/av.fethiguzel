@@ -17,7 +17,6 @@ anonim hâle getirilir.
 diğer kanunlarda yer alan hükümler saklıdır.
 (3) Kişisel verilerin silinmesine, yok edilmesine veya anonim hâle getirilmesine ilişkin
 usul ve esaslar yönetmelikle düzenlenir.
-Kişisel verilerin aktarılması
 
 ### Bizim Yorumumuz
 

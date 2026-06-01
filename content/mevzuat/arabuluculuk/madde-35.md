@@ -21,7 +21,6 @@ ibaresi,
 c) 320 nci maddesinin ikinci fıkrasına “tarafları sulhe” ibaresinden sonra gelmek üzere
 “veya arabuluculuğa” ibaresi,
 eklenmiştir.
-Yönetmelikler
 
 ### Bizim Yorumumuz
 

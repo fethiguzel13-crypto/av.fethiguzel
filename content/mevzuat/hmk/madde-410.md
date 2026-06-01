@@ -14,7 +14,6 @@ mahkeme tarafından yapılacağı belirtilen işlerde görevli ve yetkili mahkem
 tahkim yeri asliye hukuk veya asliye ticaret mahkemesidir. Tahkim yeri belirlenmemiş ise
 görevli mahkeme, konusuna göre asliye hukuk veya asliye ticaret mahkemesi, yetkili
 mahkeme ise davalının Türkiye’deki yerleşim yeri, oturduğu yer veya işyeri mahkemesidir.
-Mahkemenin yardımı
 
 ### Bizim Yorumumuz
 

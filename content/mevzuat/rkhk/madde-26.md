@@ -15,7 +15,6 @@ görevlerinin devamı süresince Kurulun işlerini tam bir dikkat ve dürüstlü
 Kanun hükümlerine aykırı hareket etmeyeceklerine ve ettirmeyeceklerine dair yemin eder.
 Yemin için yapılan başvuru Yargıtayca acele işlerden sayılır. Kurul Başkan ve üyeleri
 yemin etmedikçe göreve başlayamazlar.
-Kurulun Görev ve Yetkileri
 
 ### Bizim Yorumumuz
 

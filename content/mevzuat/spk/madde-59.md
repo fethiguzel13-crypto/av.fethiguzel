@@ -36,7 +36,6 @@ teminat sorumlusunun sahip olması gereken nitelikler ve sorumlulukları, YTM’
 karşılığında teminat varlıklardan ödeme yapılması hâlinde bu ödemenin hesaplanmasına
 ilişkin usul ve esaslar ile ipotek ve varlık teminatlı menkul kıymetlerle ilgili diğer hususlar
 Kurulca belirlenir.
-İpotek finansmanı kuruluşları
 
 ### Bizim Yorumumuz
 

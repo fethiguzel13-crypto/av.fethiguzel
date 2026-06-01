@@ -20,7 +20,6 @@ sirkülerde değişiklik yapmak suretiyle görüş ve kanaatini değiştirmesi h
 görüş ve kanaate ilişkin genel tebliğ veya sirküler yayımlandığı tarihten itibaren geçerli olup,
 geriye dönük olarak uygulanamaz. Şu kadar ki, bu hüküm yargı mercileri tarafından iptal
 edilen genel tebliğ ve sirküler hakkında uygulanmaz.
-İzaha davet:145146
 
 ### Akademik Yorum ve Analiz
 

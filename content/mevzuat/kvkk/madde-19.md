@@ -18,7 +18,6 @@ MADDE 19- (1) Bu Kanunla verilen görevleri yerine getirmek üzere, idari ve mal
 
 (3) Kurumun merkezi Ankara’dadır.
 (4) Kurum, Kurul ve Başkanlıktan oluşur. Kurumun karar organı Kuruldur.
-Kurumun görevleri
 
 ### Bizim Yorumumuz
 

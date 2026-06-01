@@ -43,7 +43,6 @@ satılan ikinci el motorlu kara taşıtı veya taşınmazların tesliminde matra
 düşüldükten sonra kalan tutardır.
 g) (Ek : 6/12/1984 - 3099/2 md.) Maliye ve Gümrük Bakanlığı işin mahiyetini
 gözönünde tutarak özel matrah şekilleri tespit etmeye yetkilidir.
-Matraha dahil olan unsurlar:
 
 ### Bizim Yorumumuz
 

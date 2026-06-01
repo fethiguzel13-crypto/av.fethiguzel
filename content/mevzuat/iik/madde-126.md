@@ -27,7 +27,6 @@ bulundurulması:” iken metne işlendiği şekilde değiştirilmiştir.
 
 satış bedelinin paylaşmasından hariç kalacakları ve bu hususların irtifak hakkı sahipleri için
 de geçerli olacağı belirtilir.
-Ayrıca tebliğler:
 
 ### Akademik Yorum ve Analiz
 

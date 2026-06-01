@@ -94,9 +94,6 @@ sağlayan sistemi,
 ifade eder.
 İKİNCİ KISIM
 Nüfus Hizmetlerinin Yürütülmesi
-BİRİNCİ BÖLÜM
-Yetkililer ve Nüfus Kütükleri
-Nüfus hizmetleri yetkilileri
 
 ### Bizim Yorumumuz
 

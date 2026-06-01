@@ -35,7 +35,6 @@ veya Fona devrettiği takdirde, ilgili ülkenin muadil merciine durumu ivedilikl
 Yurt içi ve yurt dışı yetkili mercilerle denetime, bilgi paylaşımına ve diğer hususlara
 dair yapılacak işbirliğine ilişkin usûl ve esaslar ilgili tarafların görüşü alınmak suretiyle
 Kurulca belirlenir.
-Finansal Sektör Komisyonu
 
 ### Bizim Yorumumuz
 

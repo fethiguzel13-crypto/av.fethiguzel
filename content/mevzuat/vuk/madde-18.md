@@ -18,9 +18,6 @@ süre o ayın son gününün tatil saatinde biter;
 3. Sonu belli bir gün ile tayin edilen sürelerde, süre o günün tatil saatinde biter;
 4. Resmi tatil günleri süreye dahildir. Şu kadar ki, sürenin son günü resmi tatile
 rastlarsa tatili takibeden ilk iş gününün tatil saatinde biter.
-DÖRDÜNCÜ BÖLÜM
-Vergi Alacağının Tayini
-Vergiyi doğuran olay:
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ vukuunda bölge adliye mahkemesi de aynı veçhile hareket eder. Refi kararı m�
 tabi olduğu şartlar dairesinde ilan olunur.124
 Refi kararı ikinci ve üçüncü numaralara göre verilmiş ise borçluya konkordato mühleti
 veya yeni bir fevkalade mühlet verilemez.
-Fevkalade mühlet içinde kondordato ve yeniden mühlet verilmemesi:
 
 ### Bizim Yorumumuz
 

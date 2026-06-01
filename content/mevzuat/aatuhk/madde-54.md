@@ -21,7 +21,6 @@ yahut kefilin takibi,
 2. Amme borçlusunun borcuna yetecek miktardaki mallarının haczedilerek paraya
 çevrilmesi,
 3. Gerekli şartlar bulunduğu takdirde borçlunun iflasının istenmesi.
-Ödeme emri: (1)
 
 ### Bizim Yorumumuz
 

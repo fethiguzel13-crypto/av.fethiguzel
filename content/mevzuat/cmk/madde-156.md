@@ -22,9 +22,6 @@ görevlendirilen avukatın görevi sona erer.
 Soruşturma
 BİRİNCİ KISIM
 Suçlara İlişkin İhbarlar ve Soruşturma
-BİRİNCİ BÖLÜM
-Soruşturmanın Gizliliği, Suçların İhbarı
-Soruşturmanın gizliliği
 
 ### Bizim Yorumumuz
 

@@ -38,8 +38,6 @@ mühürlenmesine veya onaylanmasına izin vermeye, elektronik imza, mühür veya
 esaslarını düzenlemeye” ibaresi eklenmiştir.
 1
 
-Vergi mahremiyeti:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

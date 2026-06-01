@@ -45,9 +45,6 @@ verilmek ve Resmî Gazete'de ilan edilmek suretiyle tespit olunur.
 Askerlikte geçen süre mecburi hizmetten sayılmaz.
 Mecburi hizmetini yapmakta iken yasama organına seçilenlerin yükümlülükleri
 seçildikleri sürece ertelenir.
-KISIM - VIII
-Çeşitli Hükümler
-Danışma kurulları:
 
 ### Bizim Yorumumuz
 

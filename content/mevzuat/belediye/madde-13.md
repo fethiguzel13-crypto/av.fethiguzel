@@ -20,9 +20,6 @@ uzman kişilerin katılımını sağlayacak önlemler alınır.
 Belediye sınırları içinde oturan, bulunan veya ilişiği olan her şahıs, belediyenin
 kanunlara dayanan kararlarına, emirlerine ve duyurularına uymakla ve belediye vergi, resim,
 harç, katkı ve katılma paylarını ödemekle yükümlüdür.
-ÜÇÜNCÜ BÖLÜM
-Belediyenin Görev, Yetki ve Sorumlulukları
-Belediyenin görev ve sorumlulukları
 
 ### Bizim Yorumumuz
 

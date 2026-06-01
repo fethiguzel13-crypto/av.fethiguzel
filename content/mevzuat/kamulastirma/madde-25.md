@@ -25,9 +25,6 @@ kamulaştırılacak taşınmazlar üzerine yapılan sabit tesisler ile dikilen a
 kamulaştırma bedelinin tespitinde dikkate alınmaz. (Değişik üçüncü cümle: 19/4/2018
 7139/28 md.) Taşınmazlardaki bu sınırlama ilan tarihinin bitiminden itibaren beş yıl olup,
 (...)28
-ÜÇÜNCÜ BÖLÜM
-Trampa Yolu ve Acele Kamulaştırma
-Trampa yolu ile kamulaştırma
 
 ### Bizim Yorumumuz
 

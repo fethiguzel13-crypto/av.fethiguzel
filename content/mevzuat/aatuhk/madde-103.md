@@ -34,7 +34,6 @@ yeniden işlemeye başlar. Zamanaşımının bir bozma karariyle kesilmesi halin
 başlangıcı yeni vade gününün rasladığı; amme alacağının teminata bağlanması veya icranın
 kaza mercilerince durdurulması hallerinde zamanaşımı başlangıcı teminatın kalktığı ve durma
 süresinin sona erdiği tarihin rasladığı; takvim yılını takip eden takvim yılının ilk günüdür.
-Zamanaşımının işlememesi:
 
 ### Bizim Yorumumuz
 

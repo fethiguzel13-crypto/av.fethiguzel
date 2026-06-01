@@ -36,9 +36,6 @@ p) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer
 r) Şartlı bağışlarla ilgili yapılacak harcamalar.
 s) İmar düzenleme giderleri.
 t) Her türlü proje giderleri.
-İKİNCİ BÖLÜM
-Belediye Bütçesi
-Belediye bütçesi
 
 ### Bizim Yorumumuz
 

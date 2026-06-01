@@ -28,7 +28,6 @@ dikkat, dürüstlük ve tarafsızlık ile yürüteceklerine, kanun hükümlerine
 etmeyeceklerine ve ettirmeyeceklerine dair Yargıtay Birinci Başkanlık Kurulu huzurunda
 yemin ederler. Yemin için yapılan başvuru Yargıtay tarafından acele işlerden sayılır. Fon
 Kurulu üyeleri, yemin etmedikçe göreve başlayamazlar.
-Fon Kurulu Başkan ve üyelerinin görev süreleri
 
 ### Bizim Yorumumuz
 

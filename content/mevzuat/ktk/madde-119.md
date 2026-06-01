@@ -14,7 +14,6 @@ Diğer cürümlerden mahkümiyeti halinde, mahkemece ceza süresini geçmemek ü
 geçici olarak sürücü belgelerinin geri alınmasına da karar verilebilir.
 Geçici olarak sürücü belgesinin geri alınması hürriyeti bağlayıcı ceza hükümlerinin
 infazından sonra yerine getirilir.
-Zamanaşımı:
 
 ### Bizim Yorumumuz
 

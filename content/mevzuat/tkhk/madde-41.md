@@ -15,7 +15,6 @@ sonradan sözleşmenin geçersizliğini tüketicinin aleyhine olacak şekilde il
 (2) Satıcı, geçerli bir sözleşme yapılmış olmadıkça tüketiciden herhangi bir isim
 altında ödeme yapmasını veya tüketiciyi borç altına sokan herhangi bir belge vermesini
 isteyemez.
-Teminat
 
 ### Bizim Yorumumuz
 

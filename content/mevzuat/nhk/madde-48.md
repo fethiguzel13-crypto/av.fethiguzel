@@ -29,7 +29,6 @@ hukuki değere sahiptir. Kurumlar yürütecekleri iş ve işlemlerde yerleşim y
 adres bilgilerini de esas alır.
 (5) (Ek: 19/10/2017-7039/12 md.) 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu
 hükümleri saklıdır.
-Adres bilgisi ve güncellenmesi
 
 ### Bizim Yorumumuz
 

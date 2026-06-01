@@ -45,7 +45,6 @@ adliye mahkemesi tarafından” ibaresinden sonra gelmek üzere “resen” ibar
 (4) (Ek: 20/7/2017-7035/30 md.)Temyizi kabil olmayan kararlar, ilk derece mahkemesi
 tarafından; temyizi kabil olan kararlar ise bölge adliye mahkemesi tarafından resen tebliğe
 çıkarılır.
-Uygulanacak diğer hükümler
 
 ### Bizim Yorumumuz
 

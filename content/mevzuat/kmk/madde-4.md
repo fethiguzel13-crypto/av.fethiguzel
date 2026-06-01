@@ -36,7 +36,6 @@ gıda maddeleri ile gerekli görülen hallerde diğer kaçakçılık türleri il
 hükmü kesinleşenler, Gümrük ve Ticaret Bakanlığınca kamuoyuna ilan edilebilir. Bu ilanın
 süresi, nasıl yapılacağı ve ilan edilecek kaçakçılık türleri gibi hususlar Gümrük ve Ticaret
 Bakanlığınca çıkarılan yönetmelikle belirlenir.
-Etkin pişmanlık
 
 ### Bizim Yorumumuz
 

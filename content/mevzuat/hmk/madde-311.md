@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 311- (1) Feragat ve kabul, kesin hüküm gibi hukuki sonuç doğurur. İrade
 bozukluğu hâllerinde, feragat ve kabulün iptali istenebilir.
-Feragat ve kabul hâlinde yargılama giderleri
 
 ### Bizim Yorumumuz
 

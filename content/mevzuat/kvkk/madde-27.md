@@ -58,9 +58,6 @@ cetvelde gösterilmiştir. Toplam kadro sayısını geçmemek üzere 13/12/1983 
 sayılı Genel Kadro ve Usulü Hakkında Kanun Hükmünde Kararnamenin eki cetvellerde yer
 alan kadro unvanlarıyla sınırlı olmak kaydıyla unvan ve derece değişikliği yapma, yeni unvan
 ekleme ve boş kadroların iptali Kurul kararıyla yapılır.
-YEDİNCİ BÖLÜM
-Çeşitli Hükümler
-İstisnalar
 
 ### Bizim Yorumumuz
 

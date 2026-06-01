@@ -39,7 +39,6 @@ getirilmediği, bu işlemler yerine getirilmemiş ise nedenleri.
 4. Tutanak içeriğinin ifade veren veya sorguya çekilen ile hazır olan müdafi tarafından
 okunduğu ve imzalarının alındığı.
 5. İmzadan çekinme hâlinde bunun nedenleri.
-İfade alma ve sorguda yasak usuller
 
 ### Bizim Yorumumuz
 

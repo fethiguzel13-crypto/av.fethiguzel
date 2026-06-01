@@ -21,7 +21,6 @@ temsilcinin mevcudiyeti halinde, mükellefin tayin edeceği, tarhiyat tarihine k
 tayin yapılmamışsa temsilcilerden herhangi birisi), daimi temsilci mevcut değilse, kazanç ve
 iratları yabancı kişiye sağlıyanlar;
 Tarhiyata muhatap tutulurlar.
-Vergilendirme dönemi:
 
 ### Bizim Yorumumuz
 

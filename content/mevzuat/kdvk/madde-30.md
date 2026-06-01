@@ -54,7 +54,6 @@ ifasında bulunan mükellefler tarafından ilgili vergilendirme döneminde beyan
 katma değer vergisi hariç)86
 e) (Ek: 29/3/2018-7104/9 md.) Vergi Usul Kanununun 322 nci maddesine göre
 değersiz hale gelen alacaklara ilişkin alıcı tarafından ödenmeyen katma değer vergisi.87
-Amortismana tabi iktisadi kıymetlere ait indirim:
 
 ### Bizim Yorumumuz
 

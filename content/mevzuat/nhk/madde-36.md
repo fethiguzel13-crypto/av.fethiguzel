@@ -22,7 +22,6 @@ olmayan çocukların soyadını da düzeltir.
 c) Tespit davaları, kaydın iptali veya düzeltilmesi için açılacak davalara karine teşkil eder.
 (2) Kişilerin başkasına ait kaydı kullandıklarına ilişkin başvurular Bakanlıkça incelenip
 sonuçlandırılır.
-Nüfus müdürlüklerinin yetkisi
 
 ### Bizim Yorumumuz
 

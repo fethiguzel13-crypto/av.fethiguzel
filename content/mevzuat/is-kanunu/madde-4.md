@@ -46,7 +46,6 @@ işleri,
 f) Deniz İş Kanunu kapsamına girmeyen ve tarım işlerinden sayılmayan, denizlerde
 çalışan su ürünleri üreticileri ile ilgili işler,
 Bu Kanun hükümlerine tabidir.
-Eşit davranma ilkesi
 
 ### Akademik Yorum ve Analiz
 

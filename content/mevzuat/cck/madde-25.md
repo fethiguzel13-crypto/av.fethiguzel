@@ -22,7 +22,6 @@ mahkeme bir başkan ve iki üye ile toplanır. Bu mahkemeler bölgelerin coğraf
 yoğunluğu göz önünde tutularak belirlenen yerlerde Hâkimler ve Savcılar Yüksek Kurulunun
 olumlu görüşü alınarak kurulur. İş durumunun gerekli kıldığı yerlerde çocuk ağır ceza
 mahkemelerinin birden fazla dairesi oluşturulabilir. Bu daireler numaralandırılır.
-Mahkemelerin görevi
 
 ### Bizim Yorumumuz
 

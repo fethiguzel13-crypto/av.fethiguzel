@@ -17,7 +17,6 @@ tasfiyeye tabi tutulmamış yahut mirasçılar arasında aile şirketi tesis olu
 hayatta olsaydı hangi usul tatbik olunacak idi ise terekeye karşı ona göre takip devam eder.
 Bu takibin mirasçıya karşı devam edebilmesi ancak rehinin paraya çevrilmesi veya
 haciz yollariyle kabildir.
-4 – Tutukluluk ve hükümlülük halinde:
 
 ### Bizim Yorumumuz
 

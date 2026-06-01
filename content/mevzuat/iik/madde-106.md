@@ -31,7 +31,6 @@ işlemleri sırasında yetersiz kaldığı anlaşılırsa icra müdürü tarafı
 günlük süre verilir ve bu sürede eksik miktar tamamlanmazsa satış talebi vaki olmamış sayılır.
 Bu maddede belirtilen giderler Adalet Bakanlığınca her yıl yürürlüğe konulan tarifede
 belirlenir.
-Talep hakkı:
 
 ### Akademik Yorum ve Analiz
 

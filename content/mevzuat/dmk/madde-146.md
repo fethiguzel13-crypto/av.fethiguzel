@@ -25,7 +25,6 @@ aylığı, kıdem aylığı zam ve tazminatlar ile diğer ödemeler toplamının
 yerde İş Kanunu gereğince işçiler için tespit olunan asgari ücretin aylık tutarından az olamaz:
 az olması halinde, aradaki fark memurun diğer özlük hakları ile ilgilendirilmeksizin tazminat
 olarak ödenir.195
-Deyimler:
 
 ### Bizim Yorumumuz
 

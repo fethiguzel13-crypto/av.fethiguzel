@@ -22,7 +22,6 @@ mahkemesine borçlu aleyhine iflas davası açıldığını bildirir.
 Bu Kanun hükümleri ile Fona verilen yetki ve görevler gereğince açılmış ve açılacak
 her türlü davalara adlî tatilde de bakılır, bu davalarda bilirkişiler resmî kurum ve kuruluşlarda
 görev yapanlar arasından seçilir, duruşmalara otuz günden fazla ara verilmez.
-Varlık yönetim şirketi
 
 ### Bizim Yorumumuz
 

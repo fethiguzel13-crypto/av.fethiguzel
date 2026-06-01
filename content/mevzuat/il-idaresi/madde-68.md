@@ -76,7 +76,6 @@ Bu maddenin yürürlüğe girdiği tarihten önce 11 inci maddenin (D) fıkrası
 tarihli ve 3201 sayılı Emniyet Teşkilât Kanununun 1 inci maddesi uyarınca görevlendirilmiş
 olan Türk Silahlı Kuvvetleri personeli, memurlar, geçici köy korucuları ve gönüllü korucular
 dâhil diğer kamu görevlileri hakkında da 11 inci maddenin (J) fıkrasının beşinci ve altıncı
-bentlerinde yer alan hükümler uygulanır.
 
 ### Bizim Yorumumuz
 

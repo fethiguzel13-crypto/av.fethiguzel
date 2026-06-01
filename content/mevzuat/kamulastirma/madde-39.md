@@ -16,7 +16,6 @@ vergi değeri arasındaki fark üzerinden, cezalı emlak vergisi tarh olunur.
 Emlak vergisi beyannamesinin ek süreye rağmen verilmemiş olması halinde, kesinleşen
 kamulaştırma bedeli, kamulaştırmanın yapıldığı yıla ait vergi değeri yerine geçer ve bu değer
 üzerinden cezalı emlak vergisi tarhiyatı yapılır.
-Kaldırılan ve saklı tutulan hükümler
 
 ### Bizim Yorumumuz
 

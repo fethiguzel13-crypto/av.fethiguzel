@@ -15,7 +15,6 @@ tutanakları gibi delil olarak kullanılacak belgeler ve diğer yazılar, adlî 
 kişisel ve ekonomik durumuna ilişkin bilgilerin yer aldığı belgeler, duruşmada anlatılır.
 (2) Sanığa veya mağdura ait kişisel verilerin yer aldığı belgelerin, açıkça istemeleri
 halinde, kapalı oturumda anlatılmasına mahkemece karar verilebilir.
-Duruşmada okunmayacak belgeler
 
 ### Bizim Yorumumuz
 

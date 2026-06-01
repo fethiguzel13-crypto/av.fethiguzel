@@ -21,7 +21,6 @@ kontrole tabi tutulabilirler.
 en fazla dört saat bekletilebilir. Yabancı, bu süre içerisinde her an ülkesine dönebileceği gibi
 dört saatlik süreyle sınırlı kalmaksızın ülkeye kabulle ilgili işlemlerin sonuçlanmasını da
 bekleyebilir. Kapsamlı kontrol işlemlerine dair usul ve esaslar yönetmelikle düzenlenir.
-Türkiye’ye girişlerine izin verilmeyecek yabancılar
 
 ### Bizim Yorumumuz
 

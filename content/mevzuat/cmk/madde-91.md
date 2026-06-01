@@ -72,7 +72,6 @@ kişi hakkında yakalamaya neden olan fiille ilgili yeni ve yeterli delil elde e
 Cumhuriyet savcısının kararı olmadıkça bir daha aynı nedenle yakalama işlemi uygulanamaz.
 (7) Gözaltına alınan kişi bırakılmazsa, en geç bu süreler sonunda sulh ceza hâkimi
 önüne çıkarılıp sorguya çekilir. Sorguda müdafii de hazır bulunur.
-Gözaltı işlemlerinin denetimi
 
 ### Bizim Yorumumuz
 

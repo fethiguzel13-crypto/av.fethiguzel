@@ -34,7 +34,6 @@ gereken alacakları ödemeyi kabul etmeyenler veya 26/9/2004 tarihli ve 5237 say
 Kanununa göre takip edilen borç ve cezalarını ödemeyi kabul etmeyenler
 (2) Bu madde kapsamında olmasına rağmen vize verilmesinde yarar görülenlere
 Bakanın onayıyla vize verilebilir.
-Vizenin iptali
 
 ### Bizim Yorumumuz
 

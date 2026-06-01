@@ -22,7 +22,6 @@ veya memuriyet dolayısiyle alınan ücretler bu istisnaya dahil değildir);
 öğrenciye iaşe, ibate ve tahsil gideri olarak ödenen paralar;
 3. Öğrencilere tatbikat dolayısiyle öğretim müesseseleri veya tahsil masraflarını
 deruhde edenler tarafından verilen paralar.
-Teşvik ikramiye ve mükafatları:
 
 ### Akademik Yorum ve Analiz
 

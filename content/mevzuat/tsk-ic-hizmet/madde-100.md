@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 100 – Ordu evleri, askeri gazinoları ve kışla gazinoları askeri bina olup askeri
-mahal vasıf ve mahiyetini haizdir.
 
 ### Bizim Yorumumuz
 

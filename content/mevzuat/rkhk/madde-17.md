@@ -26,7 +26,6 @@ kararlardaki yükümlülüklere uyulması için belirlenen sürenin dolmasından
 bendindeki fiile ilişkin idarî para cezası, yükümlülük getirilen kararda herhangi bir süre
 belirlenmemiş ise, bu kararın tebliğini takip eden günden itibaren verilebilir. (b) bendindeki
 fiillere ilişkin idarî para cezası ise, fiilin gerçekleştiği günü takip eden günden itibaren verilebilir.
-Bu Kanuna Göre Verilen Para Cezalarının Niteliği ve Uygulanması
 
 ### Bizim Yorumumuz
 

@@ -17,9 +17,6 @@ bulunsun veya bulunmasın sözlü yargılama için taraflara ayrıca davetiye g�
 cümle:22/7/2020-7251/20 md.) Şu kadar ki, 150 nci madde hükmü saklıdır.
 DÖRDÜNCÜ KISIM
 İspat ve Deliller
-BİRİNCİ BÖLÜM
-Genel Hükümler
-İspatın konusu
 
 ### Bizim Yorumumuz
 

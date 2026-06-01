@@ -17,7 +17,6 @@ evvelki son muamele gününde borsadaki muamelelerinin ortalama değerlerini ifa
 Normal temevvüçler dışında fiyatlarda bariz kararsızlıklar görülen hallerde, son
 muamele günü yerine değerlemeye takaddüm eden 30 gün içindeki ortalama rayici esas olarak
 aldırmaya Maliye Bakanlığı yetkilidir.
-Tasarruf değeri:
 
 ### Akademik Yorum ve Analiz
 

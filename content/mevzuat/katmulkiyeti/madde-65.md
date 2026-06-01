@@ -15,7 +15,6 @@ uyuşmazlıkların çözümlenmesinde bu Kanunda, sözleşmede veya yönetim pla
 bulunmayan hallerde Türk Medeni Kanunu ve ilgili diğer kanun hükümleri uygulanır.
 DOKUZUNCU BÖLÜM12
 Toplu Yapılara İlişkin Özel Hükümler
-Kapsam
 
 ### Bizim Yorumumuz
 

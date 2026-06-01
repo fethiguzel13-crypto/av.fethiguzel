@@ -16,7 +16,6 @@ c) Doğruyu söyleyeceği hususunda yemin edeceği,
 d) Duruşmada mahkeme başkanı veya hâkimin açık izni olmadan mahkeme salonunu
 terk edemeyeceği,
 Anlatılır.
-Tanıklara yemin verilmesi
 
 ### Bizim Yorumumuz
 

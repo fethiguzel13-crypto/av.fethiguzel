@@ -40,7 +40,6 @@ Okur yazar bir komşu bulunmaz veya bulunan komşu imzadan imtina ederse, tebli�
 memuru o mahalle veya köyün muhtar veya ihtiyar heyeti azasından birini veyahut bir zabıta
 memurunu, tebliğ sırasında hazır bulunmak üzere davet eder ve tebligat bunların huzurunda
 yapılır.
-Yabancı memlekette tebligat usulü:
 
 ### Bizim Yorumumuz
 

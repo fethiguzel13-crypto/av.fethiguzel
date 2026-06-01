@@ -21,7 +21,6 @@ nafaka borçları.
 3. Para cezaları.
 (2) Şüpheli veya sanığı güvence göstermeye zorunlu kılan kararda, güvencenin
 karşıladığı kısımlar ayrı ayrı gösterilir.
-Önceden ödetme
 
 ### Bizim Yorumumuz
 

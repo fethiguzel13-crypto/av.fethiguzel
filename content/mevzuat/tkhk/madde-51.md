@@ -54,7 +54,6 @@ yapılmasının koşulları ve bu hâllerde tüketicinin hakları, paket turun i
 sonuçları, paket tur düzenleyicisinin ve aracısının sorumlulukları, tüketicinin hangi hâllerde
 tazminat talep edebileceği, sözleşmeden dönme ve sonuçları ile diğer uygulama usul ve
 esasları yönetmelikle belirlenir.
-Abonelik sözleşmeleri
 
 ### Bizim Yorumumuz
 

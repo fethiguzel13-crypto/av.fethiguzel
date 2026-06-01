@@ -16,7 +16,6 @@ belirtilen süre içinde yeni görevlerinde işe başlayan memurlarla,yer deği�
 kurumlara atanan memurların aylıkları, işe başladıkları tarihi takip eden aybaşından itibaren
 yeni görev yerinde ödenir. Eski görev yerinde alınan aylıklar için kurumlar arasında herhangi
 bir hesaplaşma yapılmaz.
-İzin veya geçici görevde iken görev yeri değiştirilen memurların aylıkları:
 
 ### Bizim Yorumumuz
 

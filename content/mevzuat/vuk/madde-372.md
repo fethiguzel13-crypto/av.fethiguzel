@@ -12,7 +12,6 @@ wordCount: 855
 ---
 
 Madde 372 – Ölüm halinde vergi cezası düşer.
-Mücbir sebepler:
 
 ### Akademik Yorum ve Analiz
 

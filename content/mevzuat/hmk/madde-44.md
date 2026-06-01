@@ -25,7 +25,6 @@ kararın temyizi üzerine Yargıtayca bozulması veya ret talebinin kabulüne il
 Yargıtayca onanması hâlinde, ret sebebinin doğduğu tarihten itibaren reddedilen hâkimce
 yapılmış olan ve ret talebinde bulunan tarafça itiraz edilen esasa ilişkin işlemler, davaya daha
 sonra bakacak olan bölge adliye mahkemesi tarafından iptal olunur.
-Zabıt kâtibinin yasaklılığı ve reddi
 
 ### Bizim Yorumumuz
 

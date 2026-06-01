@@ -33,8 +33,6 @@ yayımlanan “Hukuk Muhakemeleri Kanunu Hakem Ücret Tarifesi”ne bakınız.
 kararının” ibaresi “Aksi kararlaştırılmadıkça hakem kararının” şeklinde değiştirilmiştir.
 71
 
-Yargılama giderleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

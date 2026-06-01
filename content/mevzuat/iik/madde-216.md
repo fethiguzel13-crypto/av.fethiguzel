@@ -16,8 +16,6 @@ müddetince iflas idaresinin emri altında bulunmakla mükelleftir ve icabında 
 kuvvetleriyle getirilir. İflas idaresi müflise hususiyle emri altında tuttukça münasip miktarda
 muavenette bulunabilir.
 
-Tasfiyenin tatili:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

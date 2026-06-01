@@ -38,7 +38,6 @@ hükümsüz kalır ve alakadarlar isterse lazım gelenlere bildirilir.
 Borçlu müddeti içinde ödeme emrine itiraz etmez veya itirazı icra mahkemesince
 kesin olarak kaldırılır veya mahkemece iptal edilirse, ihtiyati haciz kendiliğinden icrai hacze
 inkılabeder.
-İhtiyati haciz kararına itiraz ve temyiz:81
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ yapılan açıklamalar, sorulan sorular ve verilen cevaplar tutanağa yazılır.
 huzurunda okunduktan sonra altı isticvap olunan tarafa imzalatılır. İsticvap olunan taraf haklı
 bir gerekçe göstermeksizin tutanağı imzalamaktan kaçınırsa, bu durum hâkim tarafından
 tutanakla tespit olunur.
-Kıyasen uygulanacak hükümler
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ Müracaattan evvel kararlaştırılmış paylaşmıya alacaklının iştirak hak
 alacaklılara bildirir.
 235 inci madde hükmü burada da caridir.
 V. MASANIN TASFİYESİ
-İkinci alacaklılar toplanması:
 
 ### Bizim Yorumumuz
 

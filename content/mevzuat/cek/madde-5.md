@@ -88,7 +88,6 @@ uyarınca verilen adli para cezalarının ödenmemesi durumunda, bu ceza, 13/12/
 5275 sayılı Ceza ve Güvenlik Tedbirlerinin İnfazı Hakkında Kanunun 106 ncı maddesinin
 üçüncü fıkrasında yer alan kamuya yararlı bir işte çalıştırma kararı verilmeksizin doğrudan
 hapis cezasına çevrilir.
-Etkin pişmanlık ve çek düzenleme ve çek hesabı açma yasağının kaldırılması
 
 ### Bizim Yorumumuz
 

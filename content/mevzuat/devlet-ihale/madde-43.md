@@ -18,7 +18,6 @@ korunarak günlük ihtiyaçlar oranında pazarlıkla mal alınabilir. Ancak ihal
 belirtilen nitelikte mal bulunmaması sebebiyle geri kalmış ise günlük ihtiyaçlar şartnameye
 bağlı kalmaksızın temin edilebilir.
 BELLİ İSTEKLİLER ARASINDA KAPALI TEKLİF USULÜ
-Belli istekliler arasında yapılacak ihaleler:
 
 ### Bizim Yorumumuz
 

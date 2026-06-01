@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 64 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Destek Hizmetleri Daire Başkanlığı
 
 ### Bizim Yorumumuz
 

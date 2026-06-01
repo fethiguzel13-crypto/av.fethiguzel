@@ -18,7 +18,6 @@ Başkan vekiline, görev süresince başkana ödenen aylık brüt ödeneğin gü
 
 
 üzerinden ödenek verilir.
-Stratejik plân ve performans programı
 
 ### Bizim Yorumumuz
 

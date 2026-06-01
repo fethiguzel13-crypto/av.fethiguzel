@@ -62,7 +62,6 @@ kiralama, onarım, yaptırma, keşfettirme, montaj, sigorta, taşıma ve hizmet 
 tahmini bedel tespiti, teminat alınması ve sözleşme yapılması zorunlu değildir.
 (i), (l) ve (p) bendlerinde yazılı işlerde Maliye Bakanlığının uygun görüşü alınır.
 YARIŞMA USULÜ
-Yarışma usulünün Uygulanması:
 
 ### Bizim Yorumumuz
 

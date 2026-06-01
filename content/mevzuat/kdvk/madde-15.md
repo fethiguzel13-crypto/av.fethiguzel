@@ -27,8 +27,6 @@ b) Uluslararası anlaşmalar gereğince vergi muafiyeti tanınan uluslararası k
 ve bunların mensuplarına yapılan teslim ve hizmetler,
 2. Bu istisnaların uygulamasına ilişkin usul ve esaslar ile istisnanın uygulanacağı
 asgari miktarları tespite Maliye ve Gümrük Bakanlığı yetkilidir.
-BEŞİNCİ BÖLÜM
-İthalat İstisnası
 
 ### Bizim Yorumumuz
 

@@ -86,7 +86,6 @@ yeniden belirlenmiş sayılır. Bu hesaplama sonucunda ortaya çıkan vergi tuta
 sonraki dört hane dikkate alınır. Cumhurbaşkanı, uygulama dönemlerini gün veya ay olarak
 belirlemeye veya belirleyeceği mallar ve aylar itibarıyla yeniden belirlenmiş sayılan tutarların
 uygulanmamasına karar vermeye yetkilidir.
-Müteselsil sorumluluk ve ceza uygulaması
 
 ### Bizim Yorumumuz
 

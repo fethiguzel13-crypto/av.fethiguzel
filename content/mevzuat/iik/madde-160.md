@@ -17,7 +17,6 @@ Madde 160 – (Değişik: 18/2/1965-538/77 md.)
 yolları için gerekli bütün tebliğ masraflarının peşin verilmesini ister.
 
 Defter tutulması:
-1 – Usulü:
 
 ### Akademik Yorum ve Analiz
 

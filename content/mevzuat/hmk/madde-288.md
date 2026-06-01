@@ -14,7 +14,6 @@ yardımıyla bulunduğu yerde veya mahkemede inceleme yaparak bilgi sahibi olmak
 keşif yapılmasına karar verebilir. Hâkim gerektiğinde bilirkişi yardımına başvurur.
 (2) Keşif kararı, mahkemece, sözlü yargılamaya kadar taraflardan birinin talebi
 üzerine veya resen alınır.
-Keşfe yetkili mahkeme
 
 ### Bizim Yorumumuz
 

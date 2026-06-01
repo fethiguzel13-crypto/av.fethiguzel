@@ -79,7 +79,6 @@ r) Bu Kanunla ve bu Kanuna göre çıkarılmış olan yönetmeliklerle verilen d
 yapmaktır.
 (Son fıkra Mülga: 28/3/1985 - 3176/16 md.)
 Millî Eğitim Bakanlığı, Sağlık Bakanlığı ve Ulaştırma, Denizcilik ve Haberleşme
-Bakanlığının görev ve yetkileri:13
 
 ### Bizim Yorumumuz
 

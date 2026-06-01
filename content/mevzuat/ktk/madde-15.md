@@ -17,7 +17,6 @@ sürekliliği ve işlerliği sağlanır.
 Görülen eksiklikler ilgili kuruluşlara bildirilerek giderilmesi sağlatılır.
 Trafik işaretlerinin standart, anlam, nicelik ve nitelikleri ile diğer esasları İçişleri
 Bakanlığının görüşü alınarak Bayındırlık Bakanlığınca çıkarılacak yönetmelikte gösterilir.
-Karayolu dışında, kenarında veya üzerindeki diğer levhalar, ışıklar ve işaretlemeler:
 
 ### Bizim Yorumumuz
 

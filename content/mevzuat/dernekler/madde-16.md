@@ -16,8 +16,6 @@ Anayasa Mahkemesinin 5/4/2007 tarihli ve E.:2004/107, K.:2007/44 sayılı Karar�
 alan “Üye sayısının 100 kişiden çok olması şartıyla ...” ibaresi, iptal edilmiştir.
 4
 
-Hata ve noksanlıkların giderilmesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

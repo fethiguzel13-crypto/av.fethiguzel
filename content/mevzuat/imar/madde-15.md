@@ -31,7 +31,6 @@ idare yetkilidir.
 cephe genişlikleri ve büyüklükleri yönetmelikte belirtilen esaslara göre tespit edilir.
 İmar planı dışında kalan alanlarda yönetmeliklerinde tayin edilecek miktarlardan
 küçük ifrazlara izin verilmez.
-Tescil ve şüyuun izalesi:
 
 ### Bizim Yorumumuz
 

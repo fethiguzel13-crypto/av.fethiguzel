@@ -35,9 +35,6 @@ iddianamenin iadesi yoluna gidilemez.
 Kovuşturma Evresi
 BİRİNCİ KISIM
 Kamu Davasının Yürütülmesi
-BİRİNCİ BÖLÜM
-Duruşma Hazırlığı
-İddianamenin kabulü ve duruşma hazırlığı
 
 ### Bizim Yorumumuz
 

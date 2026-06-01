@@ -17,8 +17,6 @@ için dava açmaya yetkilidir.
 (2) (Değişik: 2/1/2017-KHK-684/7 md.; Aynen kabul: 1/2/2018-7074/6 md.) 92 nci
 maddenin birinci ve üçüncü fıkraları bu madde bakımından da uygulanır.
 
-Genel kurul toplantılarına gözlemci gönderilmesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

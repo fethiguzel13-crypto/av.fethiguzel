@@ -15,7 +15,6 @@ cümle: 2/7/2018 - KHK/703/128 md.)
 Jandarma Genel Komutanı, Teşkilatın sevk ve idaresinden, kanun ve nizam hükümlerinin
 icrasını sağlamaktan, bunlara dayalı olarak verilen emir ve kararların uygulanmasından
 sorumludur.
-Jandarmanın genel olarak görevleri:
 
 ### Bizim Yorumumuz
 

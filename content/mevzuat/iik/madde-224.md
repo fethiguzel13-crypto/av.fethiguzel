@@ -18,7 +18,6 @@ bilhassa müflisin sanat veya ticaretinin devamı, fabrikaları, imalathaneleri 
 devam edip etmemesi, muallak davalar ve pazarlıkla satışlar hakkında müstacel kararlar
 verebilir.
 Müflis bir konkordato teklif ederse alacaklılar tasfiyeyi tatil edebilirler.
-Kararlar aleyhine müracaat:
 
 ### Akademik Yorum ve Analiz
 

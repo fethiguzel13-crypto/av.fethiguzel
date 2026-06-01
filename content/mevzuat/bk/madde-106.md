@@ -52,7 +52,6 @@ Müflise ait menkul ve gayrimenkullerin satışında 2004 sayılı İcra ve İfl
 2886 sayılı Devlet İhale Kanunu ve 4734 sayılı Kamu İhale Kanunu hükümleri uygulanmaz.
 Bu madde hükümlerinin uygulanmasına ilişkin usûl ve esaslar, Kurulun görüşü alınmak
 suretiyle Fon tarafından yönetmelikle düzenlenir.
-Fona devredilen bankalar ile ilgili hükümler
 
 ### Bizim Yorumumuz
 

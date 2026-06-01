@@ -395,9 +395,6 @@ yürürlüğe girmesi hüküm altına alınmıştır.
 65
 
 Kanunun 30 uncu maddesinin birinci fıkrasının (a) bendi hükmü uygulanmaz.).
-YEDİNCİ BÖLÜM
-İstisnadan Vazgeçme ve İstisnaların Sınırı
-İstisnadan vazgeçme:
 
 ### Bizim Yorumumuz
 

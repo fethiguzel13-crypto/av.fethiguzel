@@ -13,9 +13,6 @@ MADDE 37- (1) Genel Müdürlük ve nüfus müdürlükleri, mahkemece verilen kar
 hakkında her türlü kanun yoluna başvurmaya yetkilidir.
 (2) Genel Müdürlük ve nüfus müdürlükleri kanunî harç ve her türlü mahkeme
 masraflarından muaftır.
-İKİNCİ BÖLÜM
-Maddî Hatalar ve Nüfus Kaydının İptali
-Maddî hatalar
 
 ### Bizim Yorumumuz
 

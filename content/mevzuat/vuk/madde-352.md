@@ -80,7 +80,6 @@ düzenlemelere ilişkin hükümlere uyulmamış olması;
 vesikaların bulunmaması veya ibraz edilmemesi.
 Özel usulsüzlükler ve cezaları:
 a) Fatura ve benzeri evrak verilmemesi ve alınmaması ile diğer şekil ve usul
-hükümlerine uyulmaması
 
 ### Akademik Yorum ve Analiz
 

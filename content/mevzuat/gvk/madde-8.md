@@ -33,9 +33,6 @@ Bir kimsenin birkaç kişiyi aynı zamanda temsil etmesi daimi temsilcilik vasf�
 değiştirmez.
 İKİNCİ KISIM
 Muaflık ve İstisnalar
-BİRİNCİ BÖLÜM
-Esnaf Muaflığı
-Vergiden muaf esnaf:234
 
 ### Akademik Yorum ve Analiz
 

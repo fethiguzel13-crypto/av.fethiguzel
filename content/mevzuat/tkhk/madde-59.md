@@ -24,8 +24,6 @@ ibaresinden sonra gelmek üzere “ve tüm yetkili servis istasyonlarına ilişk
 Bakanlıkça oluşturulan sisteme kaydetmek” ibaresi eklenmiştir.
 16
 
-Tüketici ödülleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

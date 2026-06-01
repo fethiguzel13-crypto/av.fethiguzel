@@ -43,7 +43,6 @@ düzenleme görevlerinin yürütülmesi ile disiplin soruşturma veya kovuşturm
 olması.
 ç) Kişisel veri işlemenin bütçe, vergi ve mali konulara ilişkin olarak Devletin
 ekonomik ve mali çıkarlarının korunması için gerekli olması.
-Kurumun bütçesi ve gelirleri
 
 ### Bizim Yorumumuz
 

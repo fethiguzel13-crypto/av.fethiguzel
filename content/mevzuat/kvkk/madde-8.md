@@ -17,7 +17,6 @@ a) 5 inci maddenin ikinci fıkrasında,
 belirtilen şartlardan birinin bulunması hâlinde, ilgili kişinin açık rızası aranmaksızın
 aktarılabilir.
 (3) Kişisel verilerin aktarılmasına ilişkin diğer kanunlarda yer alan hükümler saklıdır.
-Kişisel verilerin yurt dışına aktarılması
 
 ### Bizim Yorumumuz
 

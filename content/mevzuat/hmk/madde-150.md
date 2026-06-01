@@ -33,7 +33,6 @@ kayıt kapatılır.
 yenilenmeden sonra bir defadan fazla takipsiz bırakılamaz. Aksi hâlde dava açılmamış sayılır.
 (7) Hangi sebeple olursa olsun açılmamış sayılan davadaki talep dahi vaki olmamış
 sayılır.
-Duruşma düzeni
 
 ### Bizim Yorumumuz
 

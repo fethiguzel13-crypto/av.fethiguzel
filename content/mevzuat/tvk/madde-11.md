@@ -23,8 +23,6 @@ g) Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali b
 şartları aranır.
 (2) (Mülga: 19/10/2017-7039/34 md.)
 
-Türk vatandaşlığının kazanılmasında istisnai haller
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

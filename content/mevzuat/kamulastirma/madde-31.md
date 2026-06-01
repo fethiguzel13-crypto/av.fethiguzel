@@ -24,9 +24,6 @@ e) Kamulaştırma bedelinin tamamının veya bir kısmının avukat veya dava ve
 onlar adına hareket edenlere ait olacağının kararlaştırılması.
 f)Yukarıda yazılı bentlerde yasaklanan fiillerin avukat veya dava vekillerince bizzat
 veya aracı ile mal sahibine teklif edilmesi veya bunlara yardımcı olunması.
-İKİNCİ BÖLÜM
-Görevli Kişilerin Suçları ve Ceza Hükümleri
-Görevli kişilerin suçları
 
 ### Bizim Yorumumuz
 

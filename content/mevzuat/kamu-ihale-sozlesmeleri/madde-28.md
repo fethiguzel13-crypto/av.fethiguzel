@@ -21,7 +21,6 @@ görevlileri, bu Kanun kapsamına giren işlerde görevlendirilemezler.
 Bu Kanun kapsamına giren işlerden dolayı yargı organlarınca herhangi bir ceza verilmiş
 olanlar, bu Kanun kapsamına giren bütün kamu kurum ve kuruluşlarınca bu Kanunun ve ilgili
 diğer mevzuatın uygulanması ile görevli ve yetkili kadrolara atanamaz ve görev alamazlar.
-Bilgi ve belgeleri açıklama yasağı
 
 ### Bizim Yorumumuz
 

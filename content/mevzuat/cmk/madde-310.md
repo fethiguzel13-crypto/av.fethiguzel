@@ -14,9 +14,6 @@ fıkrasının (d) bendindeki hâllere özgü olmak üzere ve kanun yararına ola
 Cumhuriyet Başsavcısı tarafından da kullanılabilir.
 (2) 309 uncu madde gereğince Adalet Bakanlığı tarafından başvurulduğunda bu yetki,
 artık Yargıtay Cumhuriyet Başsavcısı tarafından kullanılamaz.145
-ÜÇÜNCÜ BÖLÜM
-Yargılamanın Yenilenmesi
-Hükümlü lehine yargılamanın yenilenmesi nedenleri
 
 ### Bizim Yorumumuz
 

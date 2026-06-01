@@ -22,7 +22,6 @@ verilecekse şartları, ihalede uygulanacak usul, yapılacaksa ilanın şekli ve
 geçici teminat miktarı belirtilir.
 Onay belgesinde ayrıca, Şartname ve eklerinin bir bedel karşılığında verilip verilmeyeceği,
 bedel karşılığı verilecekse bedelin ne olacağı gösterilir.
-Şartnamelerin verilmesi:
 
 ### Bizim Yorumumuz
 

@@ -13,7 +13,6 @@ Madde 29- Bu Kanunun uygulanmasında görevliler ile danışmanlık hizmeti suna
 yüklenicilerin iş ve işlemlerine, teknik ve mali yapılarına ilişkin olarak gizli kalması gereken bilgi
 ve belgeleri ifşa edemezler, kendilerinin veya üçüncü şahısların yararına kullanamazlar. Aksine
 hareket edenler hakkında ilgisine göre 26 veya 28 inci maddede belirtilen müeyyideler uygulanır.
-Yapım işlerinde yüklenicilerin ve alt yüklenicilerin sorumluluğu
 
 ### Bizim Yorumumuz
 

@@ -21,7 +21,6 @@ mahkûmiyet kararı kesinleşen Fon Kurulu Başkan ve üyelerinin görevleri Cum
 onayı ile sona erdirilir. Bunların yerine en geç bir ay içinde atama yapılır. Ayrıca, geçici iş
 göremezlik halinin üç aydan fazla sürmesi hâlinde, bu durumda olan üyelerin üyelikleri düşer
 ve bunların yerlerine bir ay içinde atama yapılır.4243
-Fon Kurulu Başkan ve üyeleri ile Fon personeline ilişkin yasaklar
 
 ### Bizim Yorumumuz
 

@@ -15,9 +15,6 @@ orantılı bir tazminat verilir. Tanık hazır olmak için seyahat etmek zorunda
 giderleriyle tanıklığa çağrıldığı yerdeki ikamet ve beslenme giderleri de karşılanır.
 (2) Birinci fıkra hükmüne istinaden ödenmesi gereken tazminat ve giderler, hiçbir
 vergi, resim ve harç alınmaksızın, ödenir.
-İKİNCİ BÖLÜM
-Bilirkişi İncelemesi
-Bilirkişilere uygulanacak hükümler
 
 ### Bizim Yorumumuz
 

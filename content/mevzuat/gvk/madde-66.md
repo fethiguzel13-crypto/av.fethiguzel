@@ -38,7 +38,6 @@ gelir vergisinden muaftır);
 anılan Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında; sigortalı sayılan
 hekimler ile tıpta uzmanlık mevzuatına göre uzman olan kişiler;
 Bu işleri dolayısiyle serbest meslek erbabı sayılırlar.
-Serbest meslek kazancının tesbiti:
 
 ### Akademik Yorum ve Analiz
 

@@ -19,7 +19,6 @@ ortadan kalkmış olsa bile üçüncü (bu derece dahil) dereceye kadar olan civ
 3. Kanuni temsilcisi veya vekili bulundukları kimselere,
 ait işlerin takdir muamelelerine ve bu işler hakkında verilecek kararlara iştirak
 edemezler.
-Amme alacağının tahsiline engel olanlar:
 
 ### Bizim Yorumumuz
 

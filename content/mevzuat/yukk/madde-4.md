@@ -15,9 +15,6 @@ gruba mensubiyeti veya siyasi fikirleri dolayısıyla hayatının veya hürriyet
 bulunacağı bir yere gönderilemez.
 İKİNCİ KISIM
 Yabancılar
-BİRİNCİ BÖLÜM
-Türkiye’ye Giriş ve Vize
-Türkiye’ye giriş ve Türkiye’den çıkış
 
 ### Bizim Yorumumuz
 

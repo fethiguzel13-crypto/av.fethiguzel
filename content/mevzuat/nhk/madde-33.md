@@ -18,7 +18,6 @@ tutanağı, mülkî idare amirinin emri ile işleme konulur.
 süre işlem görmeyen ve yaşı itibarıyla ölü olması muhtemel kişiler Genel Müdürlükçe tespit
 edilir. Tespit edilen kayıtların araştırılması mülkî idare amirinin emriyle kolluk kuvvetlerine
 yaptırılır. Araştırma sonucu ölü oldukları tespit edilenlerin ölümleri tescil edilir.
-Gaiplik işlemi
 
 ### Bizim Yorumumuz
 

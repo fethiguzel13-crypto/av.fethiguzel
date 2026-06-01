@@ -18,7 +18,6 @@ Gider ve hasılat kayıtlarının en az aşağıdaki bilgileri ihtiva etmesi laz
 2. Kayıt tarihi,
 3. Muamelenin nev'i
 4. Meblağ.
-Amortisman kayıtları:
 
 ### Bizim Yorumumuz
 

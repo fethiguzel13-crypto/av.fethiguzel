@@ -261,7 +261,6 @@ veya Fon iştiraklerince alınan tescile tabi tüm kararlar, yönergeler, sirkü
 beyannameleri Fonun talebi üzerine noter onayı şartı aranmaksızın ticaret sicil
 müdürlüklerince vergi, resim ve harca tabi olmaksızın resen tescil ve ilan edilir.
 Sigortaya tâbi mevduat ve katılım fonu tutarının eksik beyanı hâlinde uygulanacak
-takip ve tahsil usulleri
 
 ### Bizim Yorumumuz
 

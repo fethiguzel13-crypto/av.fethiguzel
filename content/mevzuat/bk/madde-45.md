@@ -18,7 +18,6 @@ Bankaların iç sistemleri, aktif ve malî yapıları dikkate alınarak asgarî 
 yeterliliği oranını artırmaya, bankalar bazında farklılaştırmaya, kaynağı katılma hesabı olan
 aktiflerin risk ağırlıklarının belirlenmesinde bu hesapların özelliklerini dikkate almak suretiyle
 düzenleme yapmaya Kurul yetkilidir.
-Likidite yeterliliği
 
 ### Bizim Yorumumuz
 

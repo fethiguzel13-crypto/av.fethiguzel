@@ -19,7 +19,6 @@ tasfiyesi halinde ortaklara dağıtılan değerler yerine geçer. Birleşilen ku
 Vergi Usul Kanununda yazılı esaslara göre değerlenir.
 (3) Kanunun 17 nci maddesine göre tasfiye memurlarına düşen sorumluluk ve ödevler,
 birleşme halinde birleşilen kuruma ait olur.
-Devir, bölünme ve hisse değişimi
 
 ### Bizim Yorumumuz
 

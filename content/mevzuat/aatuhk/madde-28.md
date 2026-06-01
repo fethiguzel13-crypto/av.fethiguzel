@@ -18,7 +18,6 @@ K.:2023/116 sayılı Kararı ile)
 pek aşağı bir fiyat kabul ettiği akitler,
 3. Borçlunun kendisine yahut üçüncü bir şahıs menfaatine kaydı hayat şartiyle irat ve
 intifa hakkı tesis ettiği akitler.
-Hükümsüz sayılan diğer tasarruflar:
 
 ### Bizim Yorumumuz
 

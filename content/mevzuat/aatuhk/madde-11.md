@@ -16,7 +16,6 @@ olunur.
 Şahsi kefaleti ve gösterilen şahsı kabul edip etmemekte alacaklı tahsil dairesi
 muhtardır.
 Amme alacağını ödiyen kefile buna dair bir belge verilir.
-Teminat hükmünde olan eşya:
 
 ### Bizim Yorumumuz
 

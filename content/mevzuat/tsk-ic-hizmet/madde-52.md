@@ -16,7 +16,6 @@ kumandanıdır.
 
 
 Muhtelif birlik ve kurumların bir arada bulunduğu kışla, konak ve ordugahlarda
-kumandanlık en büyük rütbeli kumandan veya amire aittir.
 
 ### Bizim Yorumumuz
 

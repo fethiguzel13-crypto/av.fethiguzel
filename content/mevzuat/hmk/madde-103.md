@@ -41,9 +41,6 @@ sürelerin bitmesi tatil zamanına rastlarsa, bu süreler ayrıca bir karara ger
 tatilin bittiği günden itibaren bir hafta uzatılmış sayılır.
 İKİNCİ KISIM
 Dava Çeşitleri, Dava Şartları ve İlk İtirazlar
-BİRİNCİ BÖLÜM
-Dava Çeşitleri
-Eda davası
 
 ### Bizim Yorumumuz
 

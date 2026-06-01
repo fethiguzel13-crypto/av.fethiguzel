@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 47 – (Değişik: 9/7/1953-6125/1 md.)
 Nahiye müdürleri İçişleri Vekaletince 8 inci maddenin B fıkrasına göre valilikler
-emrine tayin olunurlar.
 
 ### Bizim Yorumumuz
 

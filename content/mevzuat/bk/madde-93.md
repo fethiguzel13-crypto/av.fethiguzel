@@ -62,7 +62,6 @@ görev alanlarında Kuruma gerekli yardımı sağlamakla yükümlüdür.30
 banka kartı ve kredi kartlarının, 29/4/1959 tarihli ve 7258 sayılı Futbol ve Diğer Spor
 Müsabakalarında Bahis ve Şans Oyunları Düzenlenmesi Hakkında Kanunun 5 inci
 maddesinde yazılı suçların işlenmesinde kullanılmasını önlemekle yükümlü ve yetkilidir.
-Sektörün geliştirilmesi
 
 ### Bizim Yorumumuz
 

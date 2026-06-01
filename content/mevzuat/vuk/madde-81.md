@@ -20,7 +20,6 @@ Belediyeler ve belediye teşkilatı bulunmıyan köy ihtiyar meclisleri mahallin
 mülkiye memurunun yapacağı tebliğden başlıyarak en geç bir ay içinde tadilat komisyonuna
 girecek üyeleri ve onların bir misli yedek üyeleri seçmeye ve adlarını en büyük mülkiye
 memuruna bildirmeye mecburdurlar.
-Yetki:
 
 ### Bizim Yorumumuz
 

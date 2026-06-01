@@ -13,7 +13,6 @@ Madde 262 – (1) Şüpheli veya sanığın yasal temsilcisi ve eşi, şüpheli 
 olan kanun yollarına süresi içinde kendiliklerinden başvurabilirler. Şüphelinin veya sanığın
 başvurusuna ilişkin hükümler, bunlar tarafından yapılacak başvuru ve onu izleyen işlemler
 için de geçerlidir.
-Tutuklunun kanun yollarına başvurması
 
 ### Bizim Yorumumuz
 

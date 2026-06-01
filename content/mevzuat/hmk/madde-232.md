@@ -15,7 +15,6 @@ yapılmış bir işleme ilişkin vakıanın ispatı için yemin, tüzel kişiyi 
 organ yahut kanuni mümessil tarafından eda ya da iade olunabilir.
 (3) Ergin olmayan veya kısıtlı kimselere bizzat dava hakkı tanınan hâllerde, ikinci
 fıkra hükmü uygulanmaz.
-Yeminin şekli
 
 ### Bizim Yorumumuz
 

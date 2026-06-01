@@ -21,7 +21,6 @@ eklentilerinin veya ortak yerlerin veya bağımsız bölümdeki tesislerin yenid
 sağlam kalan bağımsız bölümlerin içinden veya dışından faydalanılması gerekiyorsa, o bölümlerin malikleri veya orada başka sıfatla oturanlar buna müsaade etmeye mecburdurlar.
 Yukarıdaki fıkralarda yazılı müsaade yüzünden, kat maliklerinin veya orada başka sıfatla oturanların uğrayacakları zararı, lehine müsaade verilen bağımsız bölüm malikleri derhal
 ödemekle yükümlüdürler.
-VII - Yasak işler:
 
 ### Bizim Yorumumuz
 

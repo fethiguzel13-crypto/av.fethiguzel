@@ -25,7 +25,6 @@ yapılması hâlinde de tahkim sözleşmesi yapılmış sayılır.
 sözleşmesinin henüz doğmamış olan bir uyuşmazlığa ilişkin olduğu itirazında bulunulamaz.
 (5) Yargılama sırasında tarafların tahkim yoluna başvurma konusunda anlaşmaları
 hâlinde, dava dosyası mahkemece ilgili hakem veya hakem kuruluna gönderilir.
-Tahkim itirazı
 
 ### Bizim Yorumumuz
 

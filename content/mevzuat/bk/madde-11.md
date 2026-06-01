@@ -22,7 +22,6 @@ g) Devrolunan bankanın birleşme veya bölünme işlemlerinin tamamlanması,
 h) Bu Kanunun 106 ncı maddesi kapsamında tasfiye veya iflas takibatının tamamlanması,
 Hâllerinden herhangi birinin gerçekleşmesi durumunda, Kurulun en az beş üyesinin
 aynı yöndeki oyuyla alınan kararla iptal edilir.
-Faaliyet izninin iptali veya sınırlandırılması
 
 ### Bizim Yorumumuz
 

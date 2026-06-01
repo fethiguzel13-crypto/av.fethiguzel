@@ -25,7 +25,6 @@ olarak yetkililere bildirir.
 Kurul, bu madde ve 50 nci madde hükümlerine aykırı olarak kullandırıldığı tespit edilen
 kredilerin, ilgili bankanın özkaynak hesabında indirim kalemi olarak dikkate alınmasına karar
 vermeye veya bu krediler tutarında ilave özkaynak temin edilmesini zorunlu tutmaya yetkilidir.
-Kredilerin izlenmesi
 
 ### Bizim Yorumumuz
 

@@ -17,8 +17,6 @@ ancak yeterli kadro olmaması nedeni ile ataması yapılamayanlardan; yayınlana
 sırasına göre karşılanabilir.
 Yapılan atamalar, ilgili kurumlarca derhal Devlet Personel Başkanlığına bildirilir.
 
-Engelli personel çalıştırma yükümlülüğü:114115
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

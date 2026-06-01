@@ -15,9 +15,6 @@ amacı gerçekleştirmek üzere ve yetkili organlarının kararı ile plâtforml
 Plâtformlar, kanunların dernekler için yasakladığı amaç ve faaliyet konuları
 doğrultusunda kurulamazlar ve faaliyet gösteremezler. Bu yasağa aykırı hareket edenler
 hakkında, bu Kanun ve ilgili kanunların cezaî hükümleri uygulanır.
-DÖRDÜNCÜ BÖLÜM
-İzne Tâbi Faaliyetler
-Derneklerin izinle kurabileceği tesisler
 
 ### Bizim Yorumumuz
 

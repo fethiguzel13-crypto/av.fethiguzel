@@ -27,7 +27,6 @@ arasında imzalanan münferit sözleşme,
 düzenlenir.
 (Ek fıkra: 1/6/2007-5680/3 md.) Çerçeve anlaşma ve münferit sözleşmede belirtilmesi
 zorunlu olan hususları belirlemeye Kurum yetkilidir.1
-Sözleşmede yer alması zorunlu hususlar
 
 ### Bizim Yorumumuz
 

@@ -25,7 +25,6 @@ değişikliğe uğramasından dolayı yeni kalış amacına uygun ikamet izni al
 başvurularda
 h) 20 nci maddenin ikinci fıkrası kapsamında yapılacak ikamet izni başvurularında
 ı) Türkiye’de yükseköğrenimini tamamlayanların, kısa dönem ikamet iznine geçişlerinde
-İkamet izinlerinin tanzimi ve şekli
 
 ### Bizim Yorumumuz
 

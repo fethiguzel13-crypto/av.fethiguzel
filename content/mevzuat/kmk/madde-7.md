@@ -14,7 +14,6 @@ bölgesine girerek sahile veya bir başka gemiye yanaşan geminin kaptanı, gemi
 ya da yükleme veya taşıma belgelerinde yer almayan eşya bulunması hallerinde, bu
 Kanundaki kaçakçılık suçuna ilişkin hükümlere göre cezalandırılır.
 (2) (Mülga: 28/3/2013-6455/66 md.)
-Tekerrür
 
 ### Bizim Yorumumuz
 

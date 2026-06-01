@@ -42,7 +42,6 @@ icra dairesince paraya çevrilir. (Ek cümle:24/11/2021-7343/5 md.) Bölge adliy
 mahkemesinin başvurunun esastan reddine ilişkin kararına karşı temyiz yolunun açık olması
 hâlinde, temyiz yoluna başvurma süresinin dolmasına kadar icranın geri bırakılması kararının
 etkisi devam eder. İlâm alacaklısının teminat üzerinde rüçhan hakkı vardır.24
-Haciz veya iflas istemek yetkisi:
 
 ### Bizim Yorumumuz
 

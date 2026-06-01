@@ -37,8 +37,6 @@ edilmesi de ifraz hükmündedir.);
 10. Mütaaddit arazi ve arsaların tek bir arazi ve arsa haline getirilmesi veya mütaaddit
 hisselere ayrılmış olan bir binanın bütün hisselerinin birleştirilmesi.
 
-Arazinin hal ve heyetinde değişiklik:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

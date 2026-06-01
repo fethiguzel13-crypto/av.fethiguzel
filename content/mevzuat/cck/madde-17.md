@@ -17,7 +17,6 @@ kadar bekletebilir.
 (3) Davaların birlikte yürütülmesinin zorunlu görülmesi hâlinde, genel mahkemelerde,
 yargılamanın her aşamasında, mahkemelerin uygun bulması şartıyla birleştirme kararı
 verilebilir. Bu takdirde birleştirilen davalar genel mahkemelerde görülür.
-Çocuğun nakli
 
 ### Bizim Yorumumuz
 

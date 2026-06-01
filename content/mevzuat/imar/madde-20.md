@@ -14,7 +14,6 @@ a) Kuruluş veya kişilerce kendilerine ait tapusu bulunan arazi, arsa veya pars
 b) Kuruluş veya kişilerce, kendisine ait tapusu bulunmamakla beraber kamu kurum ve
 kuruluşlarının vermiş oldukları tahsis veya irtifak hakkı tesis belgeleri ile,
 İmar planı, yönetmelik, ruhsat ve eklerine uygun olarak yapılabilir.
-Yapı ruhsatiyesi:
 
 ### Bizim Yorumumuz
 

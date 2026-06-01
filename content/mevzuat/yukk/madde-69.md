@@ -27,7 +27,6 @@ korumaya ilişkin bilgi ve belgeleri alınır.
 (6) Kamu sağlığını tehlikeye düşürebileceği değerlendirilen başvuru sahibi sağlık
 kontrolünden geçirilir.
 (7) (Mülga:18/10/2018-7148/35 md.)
-Başvuru sahibinin bilgilendirilmesi ve tercümanlık
 
 ### Bizim Yorumumuz
 

@@ -19,7 +19,6 @@ bütçesinden ödenir.
 Ancak, memurlar çocuklarını daha yüksek ücretli okul pansiyonlarından veya Milli
 Eğitim Bakanlığının denetimi altında faaliyette bulunan özel pansiyonlardan faydalandırmak
 isterlerse aradaki ücret farkı kendileri tarafından ödenir.
-Sınıfta kalan çocuklar için burs verilemiyeceği:
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ Alacağı taşınmaz rehinle temin edilmiş olan alacaklının mütemmim cüz ol
 merhunun yetişmemiş mahsulleri üzerinde haiz olduğu hakka halel gelmez. Şu kadar ki
 mürtehin rehinin icraca paraya çevrilmesi için mahsullerin yetişmesinden evvel takip
 talebinde bulunmuş olmalıdır.
-Taşınır ve taşınmaz malların haczi:
 
 ### Akademik Yorum ve Analiz
 

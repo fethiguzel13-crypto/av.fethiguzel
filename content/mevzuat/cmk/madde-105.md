@@ -29,7 +29,6 @@ reddine veya adlî kontrol uygulanmasına karar verilir. (Ek cümle: 24/11/2016-
 üzere örgüt faaliyeti çerçevesinde işlenen suçlar bakımından bu süre yedi gün olarak uygulanır.
 (Ek cümle: 11/4/2013-6459/15 md.) Duruşma dışında bu karar verilirken Cumhuriyet savcısı,
 şüpheli, sanık veya müdafiinin görüşü alınmaz. Bu kararlara itiraz edilebilir.
-Salıverilenin yükümlülükleri
 
 ### Bizim Yorumumuz
 

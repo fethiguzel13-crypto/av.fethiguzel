@@ -30,7 +30,6 @@ verginin eksik veya fazla hesaplanmış veya gösterilmiş olmasıdır.
 3. Verginin mükerrer olması: Aynı vergi kanununun uygulanmasında belli bir
 vergilendirme dönemi için aynı matrah üzerinden bir defadan fazla vergi istenmesi veya
 alınmasıdır.
-Vergilendirme hataları:
 
 ### Bizim Yorumumuz
 

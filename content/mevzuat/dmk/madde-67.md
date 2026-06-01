@@ -14,7 +14,6 @@ Diğer şartları taşımakla birlikte üst derecelerde (...)141 kadro olmadığ
 yükselmesi yapamayan memurların kazanılmış hak aylıkları, öğrenim durumları itibariyle
 yükselebilecekleri dereceyi aşmamak şartıyla işgal etmekte oldukları kadroların üst derecelerine
 yükseltilir.141
-Derece yükselmesinin usul ve şartları:
 
 ### Bizim Yorumumuz
 

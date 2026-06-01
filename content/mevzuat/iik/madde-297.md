@@ -24,7 +24,6 @@ Borçlu bu hükme yahut komiserin ihtarlarına aykırı davranırsa mahkeme, bor
 malları üzerindeki tasarruf yetkisini kaldırabilir veya 292 nci madde çerçevesinde karar verir.
 Birinci ve üçüncü fıkra kapsamında alınan kararlar 288 inci madde uyarınca ilân edilir
 ve ilgili yerlere bildirilir.
-Defter tutulması ve rehinli malların kıymetinin takdiri:103
 
 ### Bizim Yorumumuz
 

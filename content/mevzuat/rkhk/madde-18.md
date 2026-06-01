@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 18 – (Mülga: 23/1/2008-5728/578 md.)
-Para Cezaları ve Süreli Para Cezalarında Zamanaşımı
 
 ### Bizim Yorumumuz
 

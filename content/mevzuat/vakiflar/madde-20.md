@@ -80,7 +80,6 @@ tahakkuk ettirilir. 8
 sözleşme süresinin bitiminden önce günün koşullarına göre, emsal ve rayiç bedeller
 gözetilerek tespit edilecek kira bedelinin yüklenici tarafından kabul edilmesi halinde sözleşme
 süresinin bitiminden itibaren yüklenici ile yıllık kira sözleşmesi yapılabilir.
-Vakıf ormanları
 
 ### Bizim Yorumumuz
 

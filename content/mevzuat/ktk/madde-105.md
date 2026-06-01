@@ -38,7 +38,6 @@ hıza göre değerlendirme yapılması öngörülen motorlu araç veya bisiklet 
 uygulanır. Bu hükümler, yarış güzergahının diğer trafiğe kapatılması halinde de geçerlidir.
 İçişleri Bakanlığı bu madde hükümlerinin, başka yarışlar bakımından da uygulanmasına karar
 verebilir.
-Devlete ve Kamu Kuruluşlarına Ait Araçlar:
 
 ### Bizim Yorumumuz
 

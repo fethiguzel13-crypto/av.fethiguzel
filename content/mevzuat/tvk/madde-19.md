@@ -15,7 +15,6 @@ karar verilmek üzere Bakanlığa gönderilir. Bakanlıkça yapılacak inceleme 
 sonucunda durumu uygun bulunanlar Bakanlık kararı ile Türk vatandaşlığını kazanabilirler,
 uygun görülmeyenlerin talepleri ise Bakanlıkça reddedilir.
 (2) 12 nci madde uyarınca Türk vatandaşlığını kazanma işlemleri Bakanlıkça yürütülür.
-Yetkili makam kararı ile Türk vatandaşlığının kazanılmasının geçerliliği ve sonuçları
 
 ### Bizim Yorumumuz
 

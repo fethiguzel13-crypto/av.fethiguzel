@@ -16,7 +16,6 @@ olarak bildirmek zorundadır.
 günde mahkemeye gelmek zorunda değildir.
 (3) Mahkeme, duruşmada bulunan tarafları dinledikten sonra tanıklıktan çekinmenin
 haklı olup olmadığına karar verir.
-Çekinmenin kabul edilmemesinin sonucu
 
 ### Bizim Yorumumuz
 

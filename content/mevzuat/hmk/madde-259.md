@@ -22,7 +22,6 @@ tarafından dinlenmesine karar verilebilir. İstinabe yolu ile dinlenilmesine ka
 
 tanığın, nerede, hangi gün ve saatte dinleneceği hususu, talepleri hâlinde taraflara tebliğ edilir.
 Bu durumda, tanığın, hangi hususlardan dolayı dinleneceğini hâkim belirler.
-Tanığın bilgilendirilmesi
 
 ### Bizim Yorumumuz
 

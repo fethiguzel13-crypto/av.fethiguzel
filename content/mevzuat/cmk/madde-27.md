@@ -27,8 +27,6 @@ reddedilen başkan ve üye katılmaksızın görevli olduğu dairece incelenerek
 (4) Ret isteminin kabulü halinde, davaya bakmakla bir başka hâkim veya mahkeme
 görevlendirilir.
 
-Ret istemi üzerine verilecek kararlar ve başvurulacak kanun yolları
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

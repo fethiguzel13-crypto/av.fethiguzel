@@ -43,7 +43,6 @@ ibaresi madde metninden çıkarılmış ve “bir hafta” ibaresi “iki hafta�
 67
 
 yerine getirilemez.
-Tazminat
 
 ### Bizim Yorumumuz
 

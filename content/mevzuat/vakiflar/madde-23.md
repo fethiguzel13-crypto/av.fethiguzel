@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 23 – Vakıfların malları üzerinde zilyetlik yoluyla kazanma hükümleri
 uygulanmaz.
-Sigorta
 
 ### Bizim Yorumumuz
 

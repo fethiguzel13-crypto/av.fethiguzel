@@ -30,7 +30,6 @@ kararıyla tespit edilmesi veya bu karar aleyhine Avrupa İnsan Hakları Mahkeme
 başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı
 verilmesi üzerine, kararın kesinleşmesinden itibaren üç ay içinde talep edilmesi hâlinde
 yeniden soruşturma açılır.66
-Cumhuriyet savcısının kararına itiraz6768
 
 ### Bizim Yorumumuz
 

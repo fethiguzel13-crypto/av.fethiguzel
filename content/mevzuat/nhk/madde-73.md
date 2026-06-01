@@ -173,8 +173,6 @@ değiştirilen kadın ise kendisi ile birlikte ergin olmayan evlilik dışı ço
 soyadları düzeltilir. Bu maddede belirlenen sürenin bir katına kadar uzatılmasında
 Cumhurbaşkanı yetkilidir.
 
-Yürürlük
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

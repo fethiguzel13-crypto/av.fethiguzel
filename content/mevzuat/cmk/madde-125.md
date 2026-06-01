@@ -18,7 +18,6 @@ kaydettirilir.
 (3) Bu madde hükmü, hapis cezasının alt sınırı beş yıl veya daha fazla olan suçlarla
 
 ilgili olarak uygulanır.
-Elkonulamayacak mektuplar, belgeler
 
 ### Bizim Yorumumuz
 

@@ -23,8 +23,6 @@ olmalıdır.
 Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair Kanun hükümlerine
 göre yerine getirmekle görevlidir.
 
-Yaptırım hükümleri222324
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

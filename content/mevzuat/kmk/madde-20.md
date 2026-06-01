@@ -20,7 +20,6 @@ kapsaması ve imza altına alınması gereklidir.
 (2) İşlemde hazır bulunan ilgililerce onanmak üzere tutanağın kendilerini ilgilendiren
 kısımları okunur veya okumaları için kendilerine verilir. Bu husus tutanağa yazılarak ilgililere
 imza ettirilir. İmzadan kaçınma halinde nedenleri tutanağa geçirilir.
-Kontrollü teslimat
 
 ### Bizim Yorumumuz
 

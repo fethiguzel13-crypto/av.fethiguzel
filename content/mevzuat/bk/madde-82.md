@@ -24,9 +24,6 @@ kullanır.
 Kurum, görev ve yetkilerini etkin şekilde yerine getirmek amacıyla yeterli sayı ve
 nitelikte personeli istihdam eder.
 Kurumun malları Devlet malı hükmündedir, haczedilemez ve rehnedilemez.
-İKİNCİ BÖLÜM
-Bankacılık Düzenleme ve Denetleme Kurulu
-Bankacılık Düzenleme ve Denetleme Kurulu
 
 ### Bizim Yorumumuz
 

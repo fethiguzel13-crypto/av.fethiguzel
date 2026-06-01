@@ -17,7 +17,6 @@ c) İşlenen kişisel verilerin kimlere ve hangi amaçla aktarılabileceği,
 ç) Kişisel veri toplamanın yöntemi ve hukuki sebebi,
 d) 11 inci maddede sayılan diğer hakları,
 konusunda bilgi vermekle yükümlüdür.
-İlgili kişinin hakları
 
 ### Bizim Yorumumuz
 

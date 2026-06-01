@@ -42,7 +42,6 @@ hesap sayısı, türü ve para birimine bakılmaksızın, bir yatırımcının a
 taleplerinin tümünü kapsar. YTM tarafından ödenecek azami tutarın üzerinde kalan tutarın
 başka bir yatırımcıya ödenmesi amacıyla devredilmiş olması hâlinde devralana YTM
 tarafından ödeme yapılmaz.8
-Tazmin süreci
 
 ### Bizim Yorumumuz
 

@@ -54,7 +54,6 @@ maddeye göre mal beyanında bulunması ve bulunmazsa hapisle tazyik edileceği,
 beyanında bulunmaz veya hakikate aykırı beyanda bulunursa ayrıca hapisle cezalandırılacağı
 ihtarı.
 60 ıncı maddenin son iki fıkrası burada da tatbik olunur.
-a) Borca itiraz:
 
 ### Akademik Yorum ve Analiz
 

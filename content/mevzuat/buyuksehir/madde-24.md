@@ -37,7 +37,6 @@ o) Spor, sosyal, kültürel ve bilimsel etkinlikler için yapılan giderler.
 p) Büyükşehir belediye hizmetleriyle ilgili olarak yapılan kamuoyu yoklaması ve
 araştırması giderleri.
 r) Kanunla verilen görevler ve hizmetlerin yürütülmesi için yapılan diğer giderler.
-Büyükşehir belediye bütçesi33
 
 ### Bizim Yorumumuz
 

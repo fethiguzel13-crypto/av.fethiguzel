@@ -24,7 +24,6 @@ yasak veya toplum veya çevre sağlığı açısından zararlı maddelerden olma
 (2) Etkin pişmanlık nedeniyle fail hakkında cezaya hükmolunmaması veya kamu
 davasının düşmesine karar verilmesi, sadece suç konusu eşya ile ilgili olarak müsadere
 hükümlerinin uygulanmasına engel teşkil etmez.
-Mülkiyetin kamuya geçirilmesi
 
 ### Bizim Yorumumuz
 

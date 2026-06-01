@@ -34,7 +34,6 @@ hallerden hangisine dayanıldığının gösterilmesi gerekir.
 gerekir.
 (4) Yukarıdaki fıkralarda belirtilen hükümlerin dışında başka bir karar veya hükmün
 verilmesi hâlinde bunun nedenleri gerekçede gösterilir.
-Hükmün açıklanması ve hükmün açıklanmasının geri bırakılması75 76
 
 ### Bizim Yorumumuz
 

@@ -23,7 +23,6 @@ d) İlgili kişinin kendisi tarafından alenileştirilmiş olması.
 e) Bir hakkın tesisi, kullanılması veya korunması için veri işlemenin zorunlu olması.
 f) İlgili kişinin temel hak ve özgürlüklerine zarar vermemek kaydıyla, veri
 sorumlusunun meşru menfaatleri için veri işlenmesinin zorunlu olması.
-Özel nitelikli kişisel verilerin işlenme şartları
 
 ### Bizim Yorumumuz
 

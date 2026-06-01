@@ -29,7 +29,6 @@ yetkisizlik veya gönderme” ibareleri “Görevsizlik veya yetkisizlik” şek
 hüküm altında gösterilir.
 (3) Hükümden sonraki yargılama giderlerini hangi tarafın ödeyeceği, miktarı ve
 dökümü ile bu giderlerin hangi tarafa yükletileceği, mahkemece ilamın altına yazılır.
-Avansın iadesi
 
 ### Bizim Yorumumuz
 

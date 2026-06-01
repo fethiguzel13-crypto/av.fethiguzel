@@ -32,9 +32,6 @@ ayının sonuna kadar meclis başkanlığına sunar.
 Konusu suç teşkil eden hususlarla ilgili olarak meclis başkanlığı tarafından yetkili
 mercilere suç duyurusunda bulunulur.
 
-
-Meclisin bilgi edinme ve denetim yolları
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

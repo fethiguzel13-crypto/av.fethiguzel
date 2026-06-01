@@ -15,9 +15,6 @@ sağlayan ve diğer kanunların ve Cumhurbaşkanlığı kararnamelerinin verdiğ
 getiren silahlı genel kolluk kuvvetidir.2
 İKİNCİ KISIM
 Bağlılık, Konuş, Kuruluş, Görev, Sorumluluk ve Silah Kullanma Yetkileri
-BİRİNCİ BÖLÜM
-Bağlılık, Konuş ve Kuruluş
-Bağlılık:
 
 ### Bizim Yorumumuz
 

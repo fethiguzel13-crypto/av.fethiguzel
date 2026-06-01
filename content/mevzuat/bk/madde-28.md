@@ -17,9 +17,6 @@ onaylanmış müteselsil sayfa numaralı ayrı birer deftere metnin doğruluğun
 karar tarihinden itibaren en geç bir ay içinde imza olunur. Kurulca belirlenecek usûl ve esaslar
 çerçevesinde, yıl sonlarında ciltlettirilmeleri kaydıyla karar defterleri yerine yaprakları
 noterce tasdikli ve müteselsil sıra numaralı ayrı kalamoza kullanılabilir.
-İKİNCİ BÖLÜM
-İç Sistemler
-İç sistemlere ilişkin yükümlülükler
 
 ### Bizim Yorumumuz
 

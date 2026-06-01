@@ -14,7 +14,6 @@ olmayan malzeme verilmesi veya kullanılması, taahhüdün sözleşme ve şartna
 uygun olarak yerine getirilmemesi ve benzeri nedenlerle ortaya çıkan zarar ve ziyandan doğrudan
 sorumludur. Bu zarar ve ziyan genel hükümlere göre tedarikçiye ikmal ve tazmin ettirilir. Ayrıca
 haklarında 27 nci madde hükümleri uygulanır.
-Hizmet sunucularının sorumluluğu
 
 ### Bizim Yorumumuz
 

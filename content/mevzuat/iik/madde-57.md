@@ -16,7 +16,6 @@ mümessil tayin edilmesini ait olduğu makamdan ister.
 Tebliğ, Medeni Kanunun 159 ve 396 ncı maddelerine göre mezun olanların meslek
 veya sanatına mütaallik muamelelerden doğmuş bir borca dair ise kendilerine yapılır.
 V. TAKİP TALEBİ
-Takip talebi ve muhtevası:
 
 ### Bizim Yorumumuz
 

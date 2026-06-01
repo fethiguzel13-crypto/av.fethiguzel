@@ -16,9 +16,6 @@ ermesi halinde kaydı, kayıtlı bulunduğu kütüğün sonuna taşınır.
 taşındığı haneye tescil edilir. Evliliğin ölüm dışında sona ermesi halinde kadının kaydı
 evlenmeden önce kayıtlı bulunduğu haneye taşınır, erkeğin kaydı ise kayıtlı bulunduğu hanede
 kalır.
-ÜÇÜNCÜ BÖLÜM
-Boşanma ve Evliliğin İptali
-Kadının bekleme süresinin başlangıcı
 
 ### Bizim Yorumumuz
 

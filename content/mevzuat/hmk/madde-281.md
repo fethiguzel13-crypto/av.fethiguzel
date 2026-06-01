@@ -23,7 +23,6 @@ rapor alabileceği gibi, tayin edeceği duruşmada, sözlü olarak açıklamalar
 kendiliğinden isteyebilir.
 (3) Mahkeme, gerçeğin ortaya çıkması için gerekli görürse, yeni görevlendireceği
 bilirkişi aracılığıyla, tekrar inceleme de yaptırabilir.
-Bilirkişinin oy ve görüşünün değerlendirilmesi
 
 ### Bizim Yorumumuz
 

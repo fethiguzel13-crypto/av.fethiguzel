@@ -28,7 +28,6 @@ tüketiciyi borç altına sokan her türlü belge, dönme bildiriminin satıcıy
 itibaren en geç yüzseksen gün içinde tüketiciye geri verilir. Satıcının aldığı bedeli ve
 tüketiciyi borç altına sokan her türlü belgeyi iade ettiği tarihten itibaren, tüketici on gün içinde
 edinimlerini iade eder.8
-Diğer hususlar
 
 ### Bizim Yorumumuz
 

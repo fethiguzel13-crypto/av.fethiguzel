@@ -56,7 +56,6 @@ gören bütün Devlet dairelerini mahallin hizmet şartlarına ve Hazine menfaat
 şekilde bir veya birkaç binada toplamak üzere gereken tedbirleri aldırır ve uygulanmasını
 denetler.
 K) Vali, Cumhuriyet Bayramında ilde yapılacak resmi törenlere başkanlık yapar ve
-tebrikleri kabul eder.
 
 ### Bizim Yorumumuz
 

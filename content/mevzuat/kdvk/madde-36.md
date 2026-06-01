@@ -37,9 +37,6 @@ uyum seviyelerine göre farklı iade yöntemleri tespit etmeye, iade alacağın�
 vergi borçları ile iadeye ilişkin diğer usul ve esasları belirlemeye yetkilidir.95
 DÖRDÜNCÜ KISIM
 Verginin Tarhı ve Ödenmesi
-BİRİNCİ BÖLÜM
-Vergilendirme Usulleri
-Gerçek usulde vergilendirme:
 
 ### Bizim Yorumumuz
 

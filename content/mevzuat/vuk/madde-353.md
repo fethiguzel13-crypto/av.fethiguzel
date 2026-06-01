@@ -148,7 +148,6 @@ bu ziyaın gerektirdiği vergi cezaları ayrıca kesilir ve bu cezalar hakkında
 hükmü uygulanmaz.
 Bu maddenin uygulanmasına ilişkin diğer usul ve esasları belirlemeye Maliye
 Bakanlığı yetkilidir.
-b) Veraset ve intikal vergisine;
 
 ### Bizim Yorumumuz
 

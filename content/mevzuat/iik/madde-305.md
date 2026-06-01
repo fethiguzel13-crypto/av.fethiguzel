@@ -44,7 +44,6 @@ rapor verir; alacaklılar bu raporu inceleyebilirler.
 Tasdik kararı mahkemece, 288 inci madde uyarınca ilân olunur ve ilgili yerlere
 bildirilir.
 Rehinli malların muhafaza ve satışı ile finansal kiralama konusu malların
-iadesinin ertelenmesi:
 
 ### Bizim Yorumumuz
 

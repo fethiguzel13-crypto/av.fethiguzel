@@ -21,7 +21,6 @@ kullanma izin belgesi.
 b) Bağımsız bölümlerin kullanılış tarzına, birden çok yapının varlığı halinde bu yapıların özelliğine göre 28 inci maddedeki esaslar çerçevesinde hazırlanmış, kat mülkiyetini kuran
 malik veya malikler tarafından imzalanmış bir yönetim plânı.
 c) (Mülga: 23/6/2009-5912/2 md.)
-II - Sözleşme ve tescil:
 
 ### Bizim Yorumumuz
 

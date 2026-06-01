@@ -32,9 +32,6 @@ Bu madde hükümleri kurumlar vergisi mükellefleri hakkında da uygulanır.
 Cumhurbaşkanı, birinci fıkrada yer alan oranı iki katına kadar artırmaya, yarısına
 kadar indirmeye, kanuni oranına getirmeye; Hazine ve Maliye Bakanlığı, maddenin
 uygulanmasına ilişkin usul ve esasları belirlemeye yetkilidir.
-SEKİZİNCİ BÖLÜM
-Servet Beyanı
-Beyanda bulunacaklar:
 
 ### Bizim Yorumumuz
 

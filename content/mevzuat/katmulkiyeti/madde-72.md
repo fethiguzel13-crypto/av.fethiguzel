@@ -18,7 +18,6 @@ Blok kat malikleri, toplu yapı temsilcileri ve geçici yönetim kurulu kararlar
 Kat malikleri, toplu yapı kapsamındaki ortak yapı, yer ve tesisler üzerindeki kullanma
 hakkından vazgeçmek veya bunların başka bir parselde veya kamuya ait alanlarda bulunduğunu veya bağımsız bölümlerinin veya kendilerinin durumu dolayısıyla bunlardan faydalanmaya lüzum ve ihtiyaç bulunmadığını ileri sürmek suretiyle toplu yapı ortak gider payını ve
 toplanacak avansı ödemekten kaçınamazlar.
-Geçici yönetim
 
 ### Bizim Yorumumuz
 

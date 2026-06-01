@@ -28,7 +28,6 @@ cümle: 24/4/2001 - 4650/2 md.) İdare tarafından, şerh tarihinden itibaren al
 maddeye göre kamulaştırma bedelinin tespitiyle idare adına tescili isteğinde bulunulduğuna dair
 mahkemeden alınacak belge tapu idaresine ibraz edilmediği takdirde, bu şerh tapu idaresince
 resen sicilden silinir.
-Satın alma usulü
 
 ### Bizim Yorumumuz
 

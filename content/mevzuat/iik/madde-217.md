@@ -16,7 +16,6 @@ verir ve ilan eder. Bu ilanda alacaklılar tarafından otuz gün içinde iflasa 
 muamelelerin tatbikına devam edilmesi istenilerek masrafı peşin verilmediği takdirde iflasın
 kapatılacağı yazılır.
 II. ALACAKLILARI DAVET
-Basit tasfiye:
 
 ### Akademik Yorum ve Analiz
 

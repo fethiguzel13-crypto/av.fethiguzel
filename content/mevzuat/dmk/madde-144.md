@@ -21,9 +21,6 @@ Bir ceza kovuşturması icabından olduğu takdirde görevinden uzaklaştırmaya
 amir (Müfettişlerin görevinden uzaklaştırdıkları memurlar hakkında atamaya yetkili amir)
 ilgilinin durumunu her iki ayda bir inceliyerek görevine dönüp dönmemesi hakkında bir karar
 verir ve ilgiliye de yazı ile tebliğ eder.
-KISIM - V
-Mali Hükümler
-Kapsam:
 
 ### Bizim Yorumumuz
 

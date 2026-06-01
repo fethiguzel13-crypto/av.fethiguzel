@@ -33,7 +33,6 @@ tutulanlar, genel hükümler uyarınca ayrıca amortismana tabi tutulamazlar.
 peştemallıklar ile işletmede kullanılan ve değeri 50.000.000 (12.000 TL) lirayı aşmayan alet,
 edavat, mefruşat ve demirbaşlar amortismana tabi tutulmayarak doğrudan doğruya gider
 yazılabilir. İktisadi ve teknik bakımdan bütünlük arz edenlerde bu had topluca dikkate alınır.
-Arazide amortisman:
 
 ### Akademik Yorum ve Analiz
 

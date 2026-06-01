@@ -19,9 +19,6 @@ malın değeri 50.000 Yeni Türk Lirasını aştığı takdirde murafaa istenebi
 kaydın tashihi hakkında başkaca mahkemeye veya idari kaza mercilerine müracaat olunamaz.
 Tescil için tapu dairesine yapılacak tebligat şikayet için muayyen müddetin geçmesinden ve
 eğer şikayet edilmişse şikayetin intacından sonra yapılır.33
-DÖRDÜNCÜ BÖLÜM
-İflas yoliyle takip ve konkordato
-İflas yoliyle takip:
 
 ### Bizim Yorumumuz
 

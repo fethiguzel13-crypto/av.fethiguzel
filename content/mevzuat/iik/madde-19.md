@@ -19,8 +19,6 @@ Bir müddetin sonuncu günü resmi bir tatil gününe rastlarsa, müddet tatili 
 günde biter.
 Müddet, son günün tatil saatinde bitmiş sayılır.
 
-Müddetlerin değiştirilmemesi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

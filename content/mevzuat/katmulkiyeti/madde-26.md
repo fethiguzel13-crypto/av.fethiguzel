@@ -19,9 +19,6 @@ içinde yerine getirmezse diğerlerinin yazılı istemi üzerine hâkim, onun ar
 irtifakının hükme en yakın tarihteki değeri karşılığında, öteki paydaşlara, arsa payları oranında devrine karar verir.
 Kat irtifakı sahiplerinden birinin kusuru yüzünden, yapının kanuni süre içinde yapılamaması sebebiyle kat irtifakı düşerse, kusurlu taraf diğerlerinin bu yüzden uğradıkları zararı
 tazminle yükümlüdür.
-BEŞİNCİ BÖLÜM
-Anagayrimenkulün Yönetimi
-A) Genel kurul:
 
 ### Bizim Yorumumuz
 

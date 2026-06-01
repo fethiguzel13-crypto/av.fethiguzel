@@ -25,7 +25,6 @@ kesin bir kanaat oluşmamışsa, bilirkişi incelemesine karar verir. Bilirkişi
 yerlerden getirtilir. Bilirkişi, bu yazı ve imzalarla, o mahkemede elde edilen yazı ve imzaları
 esas alarak inceleme yapar. Bilirkişi, inceleme için gerekli görürse, kendi huzurunda tarafın
 yeniden yazı yazması veya imza atmasını mahkemeden talep edebilir.
-Sahte senedin iptali
 
 ### Bizim Yorumumuz
 

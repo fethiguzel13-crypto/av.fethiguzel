@@ -24,7 +24,6 @@ f) Dahil olduğu grubun ortaklık yapısının şeffaf ve açık olması,
 şarttır.
 Merkezinin bulunduğu ülkedeki yerel düzenlemelere aykırılıkları nedeniyle faaliyeti
 yasaklanan konularda faaliyet izni verilmez.
-Faaliyet izni
 
 ### Bizim Yorumumuz
 

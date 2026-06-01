@@ -14,7 +14,6 @@ hizmet içi eğitimi, diğer hizmet birimleri ile ilişkileri, değerlendirme ra
 düzenlenmesi, uzmanlık dallarına göre hangi bölümlerde çalıştırılacakları ve diğer hususlar;
 bu Kanunun yürürlük tarihinden itibaren altı ay içinde Adalet ve İçişleri Bakanlıklarınca
 müştereken çıkarılacak yönetmelikte belirlenir.
-Adlî kolluğun olay yerinde aldığı tedbirlere uyulmaması halinde yetkisi
 
 ### Bizim Yorumumuz
 

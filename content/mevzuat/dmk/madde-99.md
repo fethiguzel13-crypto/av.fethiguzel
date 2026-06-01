@@ -27,7 +27,6 @@ dayanılarak çıkarılacak yönetmeliklerle, kurumların ve hizmetlerin özelli
 suretiyle farklı çalışma süreleri tespit olunabilir.
 Cumhurbaşkanı, yurt dışı kuruluşlarda hizmetin gerektirdiği hallerde, hafta tatilini
 Cumartesi ve Pazardan başka günler olarak tespit edebilir.
-Günlük çalışma saatlerinin tesbiti:161
 
 ### Bizim Yorumumuz
 

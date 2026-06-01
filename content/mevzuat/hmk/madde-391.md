@@ -23,7 +23,6 @@ yazılır.
 olarak verilir ve bu karara karşı kanun yoluna başvurulabilir. Yüzüne karşı aleyhine ihtiyati
 tedbir kararı verilen taraf da kanun yoluna başvurabilir. Bu başvurular öncelikle incelenir ve
 kesin olarak karara bağlanır.
-İhtiyati tedbirde teminat gösterilmesi
 
 ### Bizim Yorumumuz
 

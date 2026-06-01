@@ -20,7 +20,6 @@ hakkın takdir edilecek kıymeti ödenmek üzere bedelin fazlası hak sahibine t
 İpotek yapılmış olan taşınmazı borçlu alacaklının rızası olmaksızın başkasına kiraya
 verir ve keyfiyeti tapuya tescil ettirirse bu tescil ipotekli alacaklının hakkına tesir etmez.
 Bu hüküm haczedilmiş olan taşınmazlarda da caridir.
-İhalenin feshi ve farkının tahsili:
 
 ### Akademik Yorum ve Analiz
 

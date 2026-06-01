@@ -33,7 +33,6 @@ h) Karar veya hükmün açıklanma biçimi.
 sayılır.
 (5) Tahkikat ve yargılama sırasında yapılan işlemler teknik araçlarla kayda alınırsa, bu
 durum bir tutanakla tespit olunur.
-Tutanağın imzalanması ve imza atamayanların durumu
 
 ### Bizim Yorumumuz
 

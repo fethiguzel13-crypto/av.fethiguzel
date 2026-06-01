@@ -18,9 +18,6 @@ Gönüllülerin nitelikleri ve çalıştırılmalarına ilişkin usûl ve esasla
 Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.53
 50 Anayasa Mahkemesi’nin 14/11/2019 tarihli ve E.: 2018/90, K.: 2019/85 sayılı Kararı ile bu fıkrada yer alan "... ile bu Kanunun 45 inci maddesinin ikinci fıkrası gereğince belediye başkanı veya başkan vekili görevlendirilen belediyelerde," ibaresi iptal edilmiştir. 51 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibareleri “Çevre ve Şehircilik” şeklinde değiştirilmiştir. 52 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlülere” ibaresi “engellilere” şeklinde değiştirilmiştir. 53 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkralarda yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
 
-
-Yazışma
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

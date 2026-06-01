@@ -46,7 +46,6 @@ kamu kurum ve kuruluş temsilcileri, Çevre ve Şehircilik Bakanlığı tarafın
 yönetmelikle belirlenir. Çevre ve Şehircilik Bakanlığı, çıkarılacak bu yönetmeliğin, alt yapı
 yatırım hesabının kullanılması ve ödenek tahsisi ve aktarmasına ilişkin kısımları hakkında,
 Maliye Bakanlığı ve Devlet Plânlama Teşkilâtı Müsteşarlığının görüşünü alır.15
-Ulaşım hizmetleri
 
 ### Bizim Yorumumuz
 

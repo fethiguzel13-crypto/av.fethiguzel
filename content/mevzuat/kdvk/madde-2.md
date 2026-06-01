@@ -26,7 +26,6 @@ maddelerin geri verilmesinde de aynı hüküm uygulanır.
 Kanunun uygulanmasında arsa karşılığı inşaat işlerinde; arsa sahibi tarafından konut veya
 işyerine karşılık müteahhide arsa payı teslimi, müteahhit tarafından arsa payına karşılık arsa
 sahibine konut veya işyeri teslimi yapılmış sayılır.1
-Teslim sayılan haller:
 
 ### Bizim Yorumumuz
 

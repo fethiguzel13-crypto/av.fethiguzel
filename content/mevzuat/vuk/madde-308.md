@@ -14,8 +14,6 @@ wordCount: 818
 Madde 308 – Arazinin vergi değerine esas tutulan kıymetleri, tahrir ve tadilat
 komisyonlarınca bu bölümde yazılı esaslara göre tahmin olunur.
 
-Arazi kıymeti:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

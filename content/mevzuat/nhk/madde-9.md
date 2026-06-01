@@ -16,7 +16,6 @@ tarafından görülüp incelenemez. Mahkemeler bu hükmün dışındadır.
 kapsamında nüfus kayıtlarından faydalanan diğer görevliler de bu gizliliğe uymak
 zorundadırlar. Bu yükümlülük, kamu görevlilerinin görevlerinden ayrılmalarından sonra da
 devam eder.
-Resmî işlemlerde esas alınması
 
 ### Bizim Yorumumuz
 

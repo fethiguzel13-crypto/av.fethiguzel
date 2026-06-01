@@ -16,7 +16,6 @@ yetkili kılacağı görevli illerde valiler veya yetkili kılacağı görevli t
 Askeri hizmet ile ilgili bilgiler özel kanunların ve Cumhurbaşkanlığı kararnamelerinin
 yetkili, kıldığı personel dışın da hiç bir kimse tarafından açıklanamaz.20
 Resmi belge, araç ve gereçlerin yetki verilen mahaller dışına çıkarılmaması ve
-iadesi:
 
 ### Bizim Yorumumuz
 

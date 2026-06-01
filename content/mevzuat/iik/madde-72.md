@@ -51,7 +51,6 @@ umumi hükümler dairesinde mahkemeye başvurarak paranın geriye alınmasını 
 Menfi tesbit ve istirdat davaları, takibi yapan icra dairesinin bulunduğu yer
 mahkemesinde açılabileceği gibi, davalının yerleşim yeri mahkemesinde de açılabilir. Davacı
 istirdat davasında yalnız paranın verilmesi lazımgelmediğini ispata mecburdur.
-Hususi hükümler:
 
 ### Bizim Yorumumuz
 

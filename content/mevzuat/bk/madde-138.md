@@ -26,7 +26,6 @@ borçlular dışındaki ilgililere tebliği, ilânda belirtilen süreler geçerl
 bilinen son adreslerine yapılacak tebligat ile yoksa keyfiyetin ilanen tebliği suretiyle yapılır.
 Fonun alacaklısı olduğu icra dosyalarında Fona ödenmesi gereken satış bedelleri sıra
 cetvelinin kesinleşmesi beklenmeksizin teminatsız olarak ödenir.
-Fonun iştirakleri ile ilgili yetkileri
 
 ### Bizim Yorumumuz
 

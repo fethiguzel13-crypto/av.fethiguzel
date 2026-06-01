@@ -17,7 +17,6 @@ Okul geçitlerinde görevli olarak çalışabileceklerde aranacak nitelikler, bu
 diğer hususlar yönetmelikte belirtilir.
 Okul geçidi görevlisinin talimatına uymayanlar hakkında duyuru üzerine trafik
 zabıtasınca, eylemine uyan madde hükmüne göre işlem yapılır.
-Yönetmelikler:
 
 ### Bizim Yorumumuz
 

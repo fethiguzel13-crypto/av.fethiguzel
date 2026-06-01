@@ -24,10 +24,6 @@ arabuluculuğa” ibaresi “sulh ve arabuluculuğun esasları, süreci ve hukuk
 aydınlatarak sulhe veya arabuluculuğa” şeklinde değiştirilmiştir.
 15
 
-BİRİNCİ AYIRIM
-Tahkikat
-Tahkikatın konusu
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

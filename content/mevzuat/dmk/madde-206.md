@@ -18,7 +18,6 @@ raporuyla tespit edilenler için süresiz olarak ödeneğin verilmesine devam ol
 şekilde olursa olsun menfeat karşılığı çalışan çocuklar (Öğrenim yapmakta iken tatil
 devresinde çalışanlar hariç),
 4. Burs alan veya Devletçe okutulan çocuklar.
-Doğum yardımı ödeneği:
 
 ### Bizim Yorumumuz
 

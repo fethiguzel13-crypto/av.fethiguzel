@@ -92,7 +92,6 @@ Kanunun 6 ncı maddesinde sayılan görevliler tarafından yapılır.
 (Ek fıkra:12/2/2026-7574/10 md.) Kanunda öngörülen şekil, şart ve usullere uygun
 olarak düzenlenen toplantı ve gösteri yürüyüşleri esnasında ikinci fıkranın (n) bendinde
 belirtilen fiillerin işlenmesi halinde bu bentteki ihlale konu kabahat oluşmaz.
-Trafik işaret ve kurallarına uyma zorunluluğu:41
 
 ### Bizim Yorumumuz
 

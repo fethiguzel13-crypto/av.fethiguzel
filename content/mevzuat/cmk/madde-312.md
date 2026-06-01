@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 312 – (1) Yargılamanın yenilenmesi istemi hükmün infazını ertelemez. Ancak
 mahkeme, infazın geri bırakılmasına veya durdurulmasına karar verebilir.
-Yargılamanın yenilenmesine engel olmayan hâller
 
 ### Bizim Yorumumuz
 

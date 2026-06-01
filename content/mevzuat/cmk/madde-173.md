@@ -46,7 +46,6 @@ bulunduğu yerdeki sulh ceza hâkimliğine” şeklinde; dördüncü fıkrasınd
 
 İtirazın reddedilmesi halinde aynı fiilden dolayı kamu davası açılabilmesi için 172 nci
 maddenin ikinci fıkrası uygulanır.
-İddianamenin iadesi
 
 ### Bizim Yorumumuz
 

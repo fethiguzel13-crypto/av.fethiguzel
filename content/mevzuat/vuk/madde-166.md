@@ -14,8 +14,6 @@ bitmeden kullanılmaya başlanan kısımlarını vergi dairesine bildirmeye mecb
 Mevcut binalara yapılan ilaveler ve konulan sabit istihsal, asansör ve kalorifer tesisleri
 yeni inşaat hükmündedir.
 
-Bina ve arazideki değişikliklerin bildirilmesi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

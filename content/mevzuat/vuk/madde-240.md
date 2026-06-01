@@ -45,7 +45,6 @@ Bu listelerde aşağıdaki bilgiler bulunur:
 1. Mükellefin adı, soyadı, varsa unvanı ve adresi,
 2. Oda numaraları yazılmak suretiyle müşterinin adı, soyadı ve oda ücreti,
 3. Düzenleme tarihi.
-Muhabere evrakı:
 
 ### Akademik Yorum ve Analiz
 

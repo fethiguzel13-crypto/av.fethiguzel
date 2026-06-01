@@ -21,10 +21,6 @@ miktarı Asgari Ücret Tespit Komisyonu tarafından her yıl belirlenen aylık e
 asgari ücret tutarının altında kalan takiplerde bu Kanunda öngörülen disiplin ve tazyik hapsi
 uygulanmaz.
 
-ONYEDİNCİ BAP
-Hususi hükümler
-Maaş ve ücretlerin kesilmesinde usul:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

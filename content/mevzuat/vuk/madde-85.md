@@ -16,7 +16,6 @@ Gelirler Genel Müdürü ile Gelirler Genel Müdürlüğünün iki, Tarım ve Or
 temsilcisinden kurulur.
 Başkanın mazereti halinde komisyona, başkanın, üyelerden veya hariçten tevkil
 edeceği kimse başkanlık eder.
-Komisyonların yetkileri:
 
 ### Bizim Yorumumuz
 

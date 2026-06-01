@@ -36,7 +36,6 @@ SEKİZİNCİ KISIM
 Hukuki Sorumluluk ve Sigorta
 BİRİNCİ BÖLÜM69
 İşletenin Hukuki Sorumluluğu
-İşleten ve araç işleticisinin bağlı olduğu teşebbüs sahibinin hukuki sorumluluğu:69
 
 ### Bizim Yorumumuz
 

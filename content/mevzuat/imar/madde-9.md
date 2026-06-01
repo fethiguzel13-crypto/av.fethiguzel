@@ -53,7 +53,6 @@ yapılan hizmet özelleştirilmesi niteliğindeki yatırımların yapılacağı 
 hazırlattırılan plânları, Özelleştirme İdaresince değerlendirilmek ve sözleşmeye uygunluğu
 konusundaki görüşü de alınmak kaydı ile (…)12 re'sen onaylamaya Bayındırlık ve İskan
 Bakanlığı yetkili olup, her türlü ruhsatı ilgili belediye en geç iki ay içinde verir.
-İmar programları, kamulaştırma ve kısıtlılık hali:
 
 ### Bizim Yorumumuz
 

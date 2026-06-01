@@ -20,7 +20,6 @@ bulunamaması hâlinde kişinin adı, soyadı, baba adı, ana adı, doğum tarih
 ilişkin maddi hataların düzeltilmesi ya da eksikliklerin tamamlanması, işlemden kaldırılmış eski
 aile kütüklerine istinaden yapılır. Bu defterlerden çıkartılan kayıtlara ise “İşbu kayıtlar güncel
 kayıtların yerine esas alınamaz.” açıklaması yapılır.
-Askerlik çağına girenlerin listesi
 
 ### Bizim Yorumumuz
 

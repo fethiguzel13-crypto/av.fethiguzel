@@ -35,7 +35,6 @@ b) Diş hekimlerine ve veterinerlere, meslekleri ile ilgili baştabiplik,
 c) Veteriner, dişhekimi ve eczacılara; baştabip yardımcılığı,
 d) Öğretmenlere; okul ve enstitü müdürlüğü, başyardımcılığı ve yardımcılığı görevleri,
 ikinci görev olarak yaptırılabilir.
-Ders görevi:
 
 ### Bizim Yorumumuz
 

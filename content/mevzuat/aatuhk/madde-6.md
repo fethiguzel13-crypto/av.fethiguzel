@@ -20,7 +20,6 @@ talimatnameler” ibaresi “mevzuat” şeklinde değiştirilmiştir.
 
 Makbul bir özre dayanmadan bu mecburiyeti ifa etmiyenler hakkında Cumhuriyet
 Savcılığınca umumi hükümlere göre doğrudan doğruya takibat yapılır.
-Borçlunun ölümü:
 
 ### Bizim Yorumumuz
 

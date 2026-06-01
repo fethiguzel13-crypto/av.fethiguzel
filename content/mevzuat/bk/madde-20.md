@@ -25,10 +25,6 @@ ilân tarihinden itibaren altı ay içinde aranmayan bu değerler Fona gelir kay
 Bu madde hükmünün uygulanmasına ilişkin usûl ve esaslar Kurum tarafından
 çıkarılacak yönetmelik ile belirlenir.
 
-DÖRDÜNCÜ BÖLÜM
-İzin Başvurularının Reddi
-İzin başvurularının reddi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

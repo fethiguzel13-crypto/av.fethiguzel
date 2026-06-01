@@ -17,7 +17,6 @@ Toplanan hisseler alacak yekünundan fazla ise bu fazla müşterek borçlusuna k
 mükellef olduğu hisseden ziyade ödemede bulunmuş olan masalara intikal eder.
 Ödedikleri hisselerin mecmuu alacak miktarını geçmedikçe masaların yekdiğerine
 rücu hakları yoktur.
-Müflisle birlikte borçlu tarafından borcun kısmen ödenmesi:
 
 ### Akademik Yorum ve Analiz
 

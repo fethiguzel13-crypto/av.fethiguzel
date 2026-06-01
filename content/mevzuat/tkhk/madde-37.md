@@ -20,7 +20,6 @@ gerekli faiz indirimi yapılarak hesaplanan ve tüketici tarafından konut finan
 erken ödenen tutarın kalan vadesi otuz altı ayı aşmayan kredilerde yüzde birini, kalan vadesi
 otuz altı ayı aşan kredilerde ise yüzde ikisini geçemez. Oranların değişken olarak belirlenmesi
 hâlinde tüketiciden erken ödeme tazminatı talep edilemez.
-Sigorta, yan finansal ürün ve hizmet sunumu
 
 ### Bizim Yorumumuz
 

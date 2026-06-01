@@ -22,7 +22,6 @@ Alacaklı, satış yapılmamışsa artırma gününden, satış yapılması hali
 kesinleşmesi tarihinden itibaren bir sene içinde haciz yolu ile takip talebinde bulunursa
 yeniden icra veya ödeme emri tebliğine lüzum yoktur.
 Rehin açığı belgesi, borç ikrarını mutazammın senet mahiyetindedir.
-İpotekli alacakta alacaklının gaip bulunması veya borcu almaktan imtinaı:
 
 ### Akademik Yorum ve Analiz
 

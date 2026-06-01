@@ -70,7 +70,6 @@ c) Hazine ve Maliye Bakanlığı bu madde uyarınca ön tespiti ve/veya izaha da
 yapacak ve yapılan izahı değerlendirecek mercii, yapılacak ön tespitin ve/veya izaha davetin
 şekli ve kapsamını, davet yapılacakları, yapılan izahın değerlendirme süresini, yapılan izahta
 kullanılacak bilgi ve belgeler ile uygulamaya ilişkin usul ve esasları belirlemeye yetkilidir.
-Pişmanlık ve ıslah:
 
 ### Akademik Yorum ve Analiz
 

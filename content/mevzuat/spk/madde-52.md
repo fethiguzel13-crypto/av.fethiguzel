@@ -38,7 +38,6 @@ temsil eden birer yetkilinin müşterek imzalarıyla gerçekleştirilir.
 (6) Kurul, TCMB ve Hazine Müsteşarlığının görüşünü alarak fon katılma paylarının
 alım satımının TCMB tarafından günlük alım satım kurları ilan edilen yabancı para birimleri
 üzerinden yapılmasına izin verebilir.
-Fon mal varlığının ayrılığı
 
 ### Bizim Yorumumuz
 

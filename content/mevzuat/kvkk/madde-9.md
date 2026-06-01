@@ -84,9 +84,6 @@ kurum veya kuruluşunun görüşü alınarak Kurulun izniyle yurt dışına akta
 hükümler saklıdır.
 
 (11) Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.
-ÜÇÜNCÜ BÖLÜM
-Haklar ve Yükümlülükler
-Veri sorumlusunun aydınlatma yükümlülüğü
 
 ### Bizim Yorumumuz
 

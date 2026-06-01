@@ -19,7 +19,6 @@ gayrisafi hasılatının %1’i en geç takip eden ayın 20’sine kadar genel b
 kaydedilmek üzere ilgili muhasebe birimine yatırılır. Bu oranı, sayılan tesislerin faaliyet
 türleri itibarıyla topluca veya ayrı ayrı ya da her bir tesis için ayrı ayrı sıfıra kadar indirmeye
 Maliye Bakanı yetkilidir.
-VI - Askeri nakil vasıtalarından istifade
 
 ### Bizim Yorumumuz
 

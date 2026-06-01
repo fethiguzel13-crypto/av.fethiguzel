@@ -21,7 +21,6 @@ c) Malî işlerde görevlendirilmiş müşavirler ve noterlerin bu sıfatları d
 verdikleri kişiler hakkında öğrendikleri bilgiler.
 (2) Yukarıdaki fıkranın (a) bendinde belirtilenler dışında kalan kişiler, ilgilinin
 rızasının varlığı halinde, tanıklıktan çekinemez.
-Devlet sırrı niteliğindeki bilgilerle ilgili tanıklık
 
 ### Bizim Yorumumuz
 

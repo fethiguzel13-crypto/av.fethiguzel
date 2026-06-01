@@ -24,8 +24,6 @@ ilişkin tespit tutanağını veya bilirkişi raporunu” ibaresi “zorunlu mal
 şartlarıyla belirlenen belgeleri” şeklinde değiştirilmiştir.
 76
 
-Motorsuz taşıtlar ve motorlu bisiklet:77
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

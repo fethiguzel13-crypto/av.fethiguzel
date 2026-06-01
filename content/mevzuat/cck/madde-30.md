@@ -21,7 +21,6 @@ bildirmek,
 d) Bu Kanunla ve diğer kanunlarla verilen görevleri yerine getirmektir.
 (2) Gecikmesinde sakınca bulunan hâllerde, bu görevler çocuk bürosunda görevli
 olmayan Cumhuriyet savcıları tarafından da yerine getirilebilir.
-Kolluğun çocuk birimi
 
 ### Bizim Yorumumuz
 

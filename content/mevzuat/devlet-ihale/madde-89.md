@@ -17,7 +17,6 @@ Kuvvetlerinin Stratejik Hedef Planının gerçekleşmesi için temin edilecek ma
 ihalesinde; ilgili bakanlığın teklif edeceği ihaleler için bu Kanun hükümleri dışında
 kalınmasına Cumhurbaşkanınca karar verilebilir. Bu ihalelerde uygulanacak usul ve esaslar
 idarelerince hazırlanarak ilgili bakanın onayı ile belirlenir.
-Tarım ve orman ürünlerinde tercihli usuller ve tekel maddelerine ilişkin özel hükümler:
 
 ### Bizim Yorumumuz
 

@@ -26,7 +26,6 @@ c) 38 inci maddesine aykırılık hâlinde, elli bin Türk Lirasından iki yüz 
 Lirasına kadar,
 idarî para cezası uygulanır.
 Sınırlamalara, kararlara ve düzenlemelere aykırı hareketler dolayısıyla idarî
-para cezaları
 
 ### Bizim Yorumumuz
 

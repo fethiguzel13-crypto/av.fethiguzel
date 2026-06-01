@@ -24,7 +24,6 @@ Babının Üçüncü Faslında yer alan rüşvet verme suçu ile 339, 340 ve 342
 göre, bu Kanun kapsamındaki suçlar nedeniyle haklarında tekerrür hükümleri uygulananlar,
 mesleklerini icradan men olunurlar ve herhangi bir ad altında müteahhitlik yapamazlar.
 Bu mahkümiyete ilişkin kararlar, ilgililerin meslek ve müteahhitlik sicillerine işlenir.
-Görevlilerin Sorumluluğu:
 
 ### Bizim Yorumumuz
 

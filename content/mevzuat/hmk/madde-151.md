@@ -19,7 +19,6 @@ uygulanmaz.
 olmayan söz veya davranış, ayrıca bir suç oluşturuyor ise bu durum bir tutanak ile Cumhuriyet
 başsavcılığına gönderilir ve gerekiyorsa, avukatlar hariç, fiili işleyenin tutuklanmasına da karar
 verilir.
-Soru yöneltme
 
 ### Bizim Yorumumuz
 

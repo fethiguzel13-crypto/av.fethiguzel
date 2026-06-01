@@ -23,7 +23,6 @@ Danıştay ve Vergi Mahkemelerinde yapılacak duruşmalarda, iddia ve savunmanı
 gerekli kıldığı hallerde, mahkeme vergi davasına konu olan tarhiyatın dayanağı incelemeyi
 yapmış bulunan inceleme elemanları ile, mükellefin duruşmada hazır bulundurduğu mali
 müşaviri veya muhasebecisini de dinler.
-Kanun yolundan vazgeçme:
 
 ### Akademik Yorum ve Analiz
 

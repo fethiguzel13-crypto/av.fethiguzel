@@ -20,7 +20,6 @@ işyerleri geçici olarak kapatılabilir.
 (2) Kurul, 7 nci maddenin üçüncü fıkrasına aykırı olduğu tespit edilen ilan, reklam ve
 açıklamaların durdurulmasını ve kaldırılmasını isteyebilir.
 Piyasa bozucu eylemler, bilgi suistimali ve piyasa dolandırıcılığı incelemelerinde
-uygulanacak tedbirler 12
 
 ### Bizim Yorumumuz
 

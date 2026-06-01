@@ -15,7 +15,6 @@ geleceğinden veya gecikme sebebiyle bir sakıncanın yahut ciddi bir zararın d
 endişe edilmesi hâllerinde, uyuşmazlık konusu hakkında ihtiyati tedbir kararı verilebilir.
 (2) Birinci fıkra hükmü niteliğine uygun düştüğü ölçüde çekişmesiz yargı işlerinde de
 uygulanır.
-İhtiyati tedbir talebi
 
 ### Bizim Yorumumuz
 

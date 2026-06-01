@@ -24,7 +24,6 @@ ilanlar yapmak;
 kaydolunmak.
 Mesleki teşekküllere kaydolunanlardan görevleri veya durumları icabı bilfiil mesleki
 faaliyette bulunmıyacak olanlar bildirmelerinde bu ciheti de açıklarlar.
-İş yeri:
 
 ### Bizim Yorumumuz
 

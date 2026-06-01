@@ -53,7 +53,6 @@ Kamulaştırma işlemine karşı idari yargıda iptal veya maddi hatalara karş�
 mahkemelerde açılacak düzeltim davalarında hangi idareye husumet yöneltileceğinin tebligat ve
 ilan belgelerinde açıkça belirtilmemiş veya yanlış gösterilmiş olması nedeniyle davada husumet
 yanlış yöneltilmiş ise, gerçek hasma tebligat yapılmak suretiyle davaya devam olunur.
-Tapuda kayıtlı olmayan taşınmaz malların tescili ve zilyedin hakları
 
 ### Bizim Yorumumuz
 

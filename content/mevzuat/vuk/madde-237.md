@@ -24,9 +24,6 @@ sayılı Kanunun 13 üncü maddesiyle de metne işlendiği şekilde değiştiril
 4. Paranın alındığı tarih;
 Yazılır ve bu makbuzlar serbest meslek erbabı tarafından imzalanır.
 Serbest meslek makbuzları seri ve sıra numarası dahilinde teselsül ettirilir.
-DÖRDÜNCÜ BÖLÜM
-Ücretlere Ait Kayıt ve Vesikalar
-Ücret bordrosu:
 
 ### Akademik Yorum ve Analiz
 

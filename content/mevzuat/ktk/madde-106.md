@@ -17,7 +17,6 @@ oldukları zararlardan dolayı, bu Kanunun işletenin hukuki sorumluluğuna ili�
 uygulanır. Bu kuruluşlar, 85 inci maddenin birinci fıkrasına göre olan sorumluluklarının
 karşılanmasını sağlamak üzere 101 inci maddedeki şartları haiz milli sigorta şirketlerine mali
 sorumluluk sigortası yaptırmakla yükümlüdürler.
-Çalınan veya gasbedilen araçlarda sorumluluk:
 
 ### Bizim Yorumumuz
 

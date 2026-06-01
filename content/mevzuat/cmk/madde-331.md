@@ -21,7 +21,6 @@ ilişkin veya Meşhud Suçların Muhakeme Usulü Kanunu gereğince görülen iş
 incelemelerini yapar.
 (4) Adlî tatile rastlayan süreler işlemez. Bu süreler tatilin bittiği günden itibaren üç
 gün uzatılmış sayılır.
-Bilgi isteme
 
 ### Bizim Yorumumuz
 

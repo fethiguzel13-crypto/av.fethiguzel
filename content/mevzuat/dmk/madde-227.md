@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 227 – (Mülga: 13/2/2011 - 6111/117 md.)
-Kamu personeli yüksek kurulu karar verme usulü:
 
 ### Bizim Yorumumuz
 

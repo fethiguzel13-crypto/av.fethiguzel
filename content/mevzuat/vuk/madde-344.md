@@ -27,7 +27,6 @@ mesleki faaliyette bulunmak suretiyle vergi ziyaına sebebiyet verilmesi durumun
 ikinci ve üçüncü fıkralara göre kesilecek vergi ziyaı cezası yüzde elli artırılarak uygulanır.
 Aynı vergi türü ve dönemine ilişkin daha sonra yapılacak tarhiyatlar nedeniyle kesilecek
 vergi ziyaı cezalarına da aynı artırım hükmü tatbik edilir.
-Kaçakçılıkta ceza:
 
 ### Akademik Yorum ve Analiz
 

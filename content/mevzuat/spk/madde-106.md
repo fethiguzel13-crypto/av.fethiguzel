@@ -25,7 +25,6 @@ edilmesi hâlinde bilmesi gereken kişiler,
 üç yıldan beş yıla kadar hapis veya adli para cezası ile cezalandırılırlar. Ancak, bu
 suçtan dolayı adli para cezasına hükmedilmesi hâlinde verilecek ceza elde edilen menfaatin
 iki katından az olamaz.14
-Piyasa dolandırıcılığı
 
 ### Bizim Yorumumuz
 

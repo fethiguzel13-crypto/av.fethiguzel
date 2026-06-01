@@ -17,10 +17,6 @@ kılınan mercilerden başkasına açıklayamaz, kendilerinin veya üçüncü ş
 aleyhine kullanamazlar. Bu yükümlülük görevden ayrılmalarından sonra da devam eder.
 (Mülga üçüncü fıkra: 2/7/2018/KHK/703/102 md.)
 
-ÜÇÜNCÜ BÖLÜM
-Teşkilât
-Merkez teşkilâtı
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

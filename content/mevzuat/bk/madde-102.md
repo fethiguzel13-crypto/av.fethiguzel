@@ -66,7 +66,6 @@ ibaresi “Cumhurbaşkanlığı Strateji ve Bütçe Başkanı” şeklinde, “b
 35
 
 vergisi hariç herhangi bir kesintiye tâbi tutulmaksızın, her ay tazminat verilir.
-Kurul üyelerinin görevden ayrılması
 
 ### Bizim Yorumumuz
 

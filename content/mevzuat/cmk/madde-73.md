@@ -14,9 +14,6 @@ değerler üzerinde işlenen sahtecilik suçlarında, elkonulan para ve değerle
 asıllarını tedavüle çıkaran kurumların merkez veya taşra birimlerine incelettirilir.
 (2) Yabancı devletlerin paraları ve değerleri hakkında da, yetkili Türk makamlarının
 görüşlerinin alınmasına karar verilir.
-ÜÇÜNCÜ BÖLÜM
-Gözlem Altına Alınma, Muayene, Keşif ve Otopsi
-Gözlem altına alınma
 
 ### Bizim Yorumumuz
 

@@ -27,7 +27,6 @@ haftalık” şeklinde değiştirilmiştir.
 (4) Yargılamanın yenilenmesi isteminde bulunan kimse isterse, gideri Devlet
 Hazinesine ait olmak üzere önceki hükmün iptaline ilişkin karar Resmî Gazete ile ilân
 olunacağı gibi mahkemenin takdirine göre diğer gazetelerle de ilân edilebilir.
-Yeniden duruşma sonucunda verilecek hüküm
 
 ### Bizim Yorumumuz
 

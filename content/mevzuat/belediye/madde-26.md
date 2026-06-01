@@ -28,7 +28,6 @@ Meclis üye tam sayısının en az üçte biri oranındaki üyenin imzasıyla be
 hakkında gensoru önergesi verilebilir. Gensoru önergesi, meclis üye tam sayısının salt
 çoğunluğunun oyu ile gündeme alınır ve üç tam gün geçmedikçe görüşülemez.
 Gensoru önergesinin karara bağlanmasında dördüncü fıkraya göre işlem yapılır.
-Başkan ve meclis üyelerinin görüşmelere katılamayacağı durumlar
 
 ### Bizim Yorumumuz
 

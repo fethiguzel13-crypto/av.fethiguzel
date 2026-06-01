@@ -26,7 +26,6 @@ kanunlaşmıştır.
 138
 
 (5) 289 uncu madde hükümleri saklıdır.
-Yargıtayca davanın esasına hükmedilecek hâller, hukuka aykırılığın düzeltilmesi
 
 ### Bizim Yorumumuz
 

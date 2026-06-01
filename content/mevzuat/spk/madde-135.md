@@ -32,9 +32,6 @@ sorumlu tutulamaz.
 yetkisi veriyorsa veya mutabakat zaptında karşılıklılık esası yoksa veya karşı taraf aynı
 derecede sır saklama yükümlülüğüne tabi değilse, fıkrada bahsedilen sır saklama ile ilgili
 hükümler kıyasen uygulanır.
-SEKİZİNCİ KISIM
-Son ve Geçici Hükümler
-Saklı tutulan hükümler ve istisnalar
 
 ### Bizim Yorumumuz
 

@@ -19,7 +19,6 @@ tutanak, mahkemenin ve ilgili kişilerin açık izni olmadıkça hiçbir yerde y
 uygulanır.
 (3) Kayıt ve yayın yasağına aykırı davranan kişi hakkında, ayrıca Türk Ceza Kanununun
 286 ncı maddesi hükümleri uygulanır.
-Tutanak
 
 ### Bizim Yorumumuz
 

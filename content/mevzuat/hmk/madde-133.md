@@ -13,7 +13,6 @@ MADDE 133- (1) Karşı dava, cevap dilekçesiyle veya esasa cevap süresi içind
 bir dilekçe verilmek suretiyle açılır.
 (2) Süresinden sonra karşı dava açılması hâlinde, mahkeme davaların ayrılmasına
 karar verir.
-Asıl davanın sona ermesi
 
 ### Bizim Yorumumuz
 

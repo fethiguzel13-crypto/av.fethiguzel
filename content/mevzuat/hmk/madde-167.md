@@ -13,7 +13,6 @@ MADDE 167- (1) Mahkeme, yargılamanın iyi bir şekilde yürütülmesini sağlam
 için, birlikte açılmış veya sonradan birleştirilmiş davaların ayrılmasına, davanın her
 aşamasında, talep üzerine veya kendiliğinden karar verebilir. Bu durumda mahkeme,
 ayrılmasına karar verilen davalara bakmaya devam eder.
-Kanun yolları
 
 ### Bizim Yorumumuz
 

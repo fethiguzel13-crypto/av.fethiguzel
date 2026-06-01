@@ -13,7 +13,6 @@ MADDE 130- (1) 129 uncu maddenin birinci fıkrasının (a), (b), (c), (ç) ve (�
 bentlerinin cevap dilekçesinde eksik olması hâlinde, bunun giderilmesi için hâkim tarafından
 bir haftalık süre verilir; eksikliğin bu süre zarfında da giderilmemesi hâlinde cevap dilekçesi
 verilmemiş sayılır.
-Cevap dilekçesi verilmesinin sonucu
 
 ### Bizim Yorumumuz
 

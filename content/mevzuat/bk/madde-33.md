@@ -25,7 +25,6 @@ sokabilecek veya yöneticilerin Kanun veya esas sözleşmeyi ihlâl etmiş olduk
 hususları tespit ederse, durumu derhal Kuruma bildirir. Bu bildirim, meslekî gizlilik
 prensiplerinin ve anlaşmalarının veya bankacılık sırlarına ilişkin yükümlülüklerin ihlâl
 edildiği anlamına gelmez.
-Değerleme ve derecelendirme kuruluşları
 
 ### Bizim Yorumumuz
 

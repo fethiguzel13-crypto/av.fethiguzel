@@ -40,7 +40,6 @@ konularındaki önerileri görüşüp karara bağlamak, bu konuda gerekli düzen
 m) Kurumun üçüncü kişilerle olan alacak, hak ve borçları hakkında her türlü işleme
 karar vermek,
 n) Kanunla verilen diğer görevleri yerine getirmek.
-Kurulun Çalışma Esasları
 
 ### Bizim Yorumumuz
 

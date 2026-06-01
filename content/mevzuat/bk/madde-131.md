@@ -89,7 +89,6 @@ davalara bağlı şahsî haklar dahi Fona ait olur.
 (İptal onüçüncü fıkra: 22/7/2008 tarihli ve E.: 2008/66, K.: 2008/131 sayılı Kararı ile.)
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Fon tarafından yönetmelik ile
 düzenlenir.
-Sorumluluk davalarına ilişkin istisnai yetkiler
 
 ### Bizim Yorumumuz
 

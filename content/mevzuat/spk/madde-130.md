@@ -70,7 +70,6 @@ personele mali ve sosyal haklar kapsamında yapılan ödemeler aynı usul ve esa
 bakımından da emsali olarak belirlenen personel ile denk kabul edilir. Emsali personele
 yapılan ödemelerden vergi ve diğer yasal kesintilere tabi olmayanlar bu Kanuna göre de vergi
 ve diğer kesintilere tabi olmaz.
-Kurul Başkan ve üyelerinin görevden ayrılması
 
 ### Bizim Yorumumuz
 

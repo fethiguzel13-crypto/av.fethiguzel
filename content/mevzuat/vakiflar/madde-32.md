@@ -14,7 +14,6 @@ bir önceki yıla ait faaliyet raporlarını, bütçe ve bilançolarını, gayri
 tablolarını ve bu tabloların uygun araçlarla yayınlandığına dair belgeyi, işletme ve
 iştiraklerinin malî tabloları ile yönetmelikle belirlenecek diğer bilgileri içeren beyannameyi
 her takvim yılının ilk altı ayı içerisinde Genel Müdürlüğe verir.
-Vakıfların denetimi
 
 ### Bizim Yorumumuz
 

@@ -14,9 +14,6 @@ dava veya hükmün niteliğine ve diğer hâllere göre talep üzerine icranın 
 ihtiyaç duyulursa, yargılamanın iadesi talebinde bulunan kimseden teminat alınmak şartıyla
 iade talebini inceleyen mahkemece icranın durdurulması kararı verilebilir. Yargılamanın
 iadesi sebebi bir mahkeme kararına dayanıyorsa bu takdirde teminat istenmez.
-DOKUZUNCU KISIM
-Çekişmesiz Yargı
-Çekişmesiz yargı işleri
 
 ### Bizim Yorumumuz
 

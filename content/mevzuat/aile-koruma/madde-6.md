@@ -16,7 +16,6 @@ tedbirlerine,
 b) Mahkûmiyet hâlinde ceza veya güvenlik tedbirlerinin infazına ve bu çerçevede
 uygulanabilecek olan denetimli serbestlik tedbirlerine,
 ilişkin kanun hükümleri saklıdır.
-İhbar
 
 ### Bizim Yorumumuz
 

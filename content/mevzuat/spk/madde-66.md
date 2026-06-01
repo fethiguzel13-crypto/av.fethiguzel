@@ -16,7 +16,6 @@ diğer piyasaların kuruluşuna, yetkilendirilmesine, sermayelerine, bunlarda i�
 sermaye piyasası araçlarına, rekabet şartlarına ve bu kuruluşların çalışma ilkelerine ilişkin
 usul ve esaslar Kurulca çıkarılacak yönetmeliklerle düzenlenir. Kurul, bunların gözetim ve
 denetim merciidir.
-Borsacılık faaliyetlerine ilişkin esaslar
 
 ### Bizim Yorumumuz
 

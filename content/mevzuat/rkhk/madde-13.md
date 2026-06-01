@@ -19,7 +19,6 @@ Geri alma kararı (a) bendinde değişikliğin olduğu tarihten, diğer hallerde
 veya menfi tespit kararının verildiği tarihten itibaren geçerlidir.
 (c) bendinde belirtilen yanlış ve eksikliğin ilgili teşebbüsün hilesi veya kastı ile
 gerçekleşmesi halinde karar hiç alınmamış sayılır.
-Bilgi isteme
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ uygun olmak üzere birer ödeme emri gönderir:
 1. Ödeme müddeti onbeş gündür.
 2. Yedi gün içinde itiraz olunmaz ve 1 numaralı bendde yazılı müddet içinde borç
 ödenmezse rehnin satılacağı bildirilir.
-Ödeme emrine itiraz:
 
 ### Akademik Yorum ve Analiz
 

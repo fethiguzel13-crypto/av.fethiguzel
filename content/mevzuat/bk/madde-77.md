@@ -29,7 +29,6 @@ yüzde ellisini aşamaz ve 56 ncı maddenin birinci fıkrasında belirtilen sın
 dikkate alınmaz. Katılım bankalarınca faizsiz yöntemlerle finansman sağlanması nedeniyle
 üstlenilen yükümlülüklerden dolayı gayrimenkul ve emtia üzerine yapılan işlemler 57 nci
 madde kapsamında değerlendirilmez.
-Finansal holding şirketi
 
 ### Bizim Yorumumuz
 

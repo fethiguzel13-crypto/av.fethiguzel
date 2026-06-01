@@ -23,8 +23,6 @@ sayılır.
 değiştirilmiştir.
 25
 
-Tanıklardan bir kısmının dinlenilmesiyle yetinilmesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

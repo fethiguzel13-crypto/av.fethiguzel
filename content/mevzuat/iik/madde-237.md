@@ -19,7 +19,6 @@ Konkordato teklifi hakkında müzakere cereyan edecekse davette bu cihet de
 bildirilmelidir.
 Toplanmıya iflas memuru veya yardımcısı reislik eder. 221 inci maddenin 2 ve 3 üncü
 fıkraları burada da caridir.
-İkinci alacaklılar toplanmasının yetkisi:
 
 ### Bizim Yorumumuz
 

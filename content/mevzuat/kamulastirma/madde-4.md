@@ -19,7 +19,6 @@ ulaşım hatları ile her türlü köprü, taşınmazların altında metro ve be
 sistemleri ile tünel yapılabilir. Taşınmazların mülkiyet hakkının kullanımının engellenmemesi
 hâlinde, taşınmazlara ilişkin herhangi bir kamulaştırma yapılmaz. (İptal üçüncü cümle:
 Anayasa Mahkemesi’nin 14/5/2015 tarihli ve E.: 2014/177, K.: 2015/49 sayılı Kararı ile.) (...) Yapılan yatırım nedeniyle taşınmaz maliklerinden değer artış bedeli alınamaz.3
-Kamu yararı kararı verecek merciler
 
 ### Bizim Yorumumuz
 

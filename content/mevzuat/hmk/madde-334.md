@@ -17,7 +17,6 @@ yararlanabilirler.42
 (2) (İptal:Anayasa Mahkemesinin 24/9/2024 Tarihli ve E: 2024/78, K: 2024/164
 Sayılı Kararı ile.)
 (3) Yabancıların adli yardımdan yararlanabilmeleri ayrıca karşılıklılık şartına bağlıdır.
-Adli yardımın kapsamı
 
 ### Bizim Yorumumuz
 

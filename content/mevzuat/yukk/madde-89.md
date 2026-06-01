@@ -47,8 +47,6 @@ belirlenir.
 edilen başvuru sahibine, Maliye Bakanlığının uygun görüşü alınarak Bakanlığın belirleyeceği
 usul ve esaslar çerçevesinde harçlık verilebilir.
 
-Yükümlülükler
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -29,7 +29,6 @@ uygulanmasına belli bir süre daha devam edilmesine karar verebilir.
 kararının yanında 22.11.2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine göre
 velayet, vesayet, kayyım, nafaka ve kişisel ilişki kurulması hususlarında da karar vermeye
 yetkilidir.
-Tedbirlerde yetki
 
 ### Bizim Yorumumuz
 

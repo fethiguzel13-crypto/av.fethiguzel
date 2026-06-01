@@ -17,7 +17,6 @@ uzmanlığı bulunanlarla protokol yaparak bu merkezleri işlettirebilir.
 (3) Geri gönderme merkezlerinin kurulması, yönetimi, işletilmesi, devri, denetimi ve
 sınır dışı edilmek amacıyla idari gözetimde bulunan yabancıların geri gönderme merkezlerine
 nakil işlemleriyle ilgili usul ve esaslar yönetmelikle düzenlenir.
-Geri gönderme merkezlerinde sağlanacak hizmetler
 
 ### Bizim Yorumumuz
 

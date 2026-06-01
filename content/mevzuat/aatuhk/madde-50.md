@@ -15,7 +15,6 @@ Borçlunun ölümü halinde terekenin borçlarından dolayı ölüm günü ile b
 için takip geri bırakılır. Üç günün bitiminde terekenin borçları için takibata devam olunur.
 Mirasçılar, mirası kabul veya ret etmemişlerse bu hususta Medeni Kanundaki
 muayyen müddetler geçinceye kadar takip geri bırakılır.
-Gecikme Zammı, Nispet ve Hesabı:
 
 ### Bizim Yorumumuz
 

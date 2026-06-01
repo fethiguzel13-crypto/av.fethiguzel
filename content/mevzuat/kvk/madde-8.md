@@ -41,7 +41,6 @@ katastrofik riskleri karşılamak üzere sadece deprem ve mühendislik sigorta b
 deprem teminatı için hesaplanan dengeleme karşılıklarından oluşur.
 5) Bir bilânço döneminde ayrılan sigorta teknik karşılıkları, ertesi bilânço döneminde
 aynen kâra eklenir.
-Zarar mahsubu
 
 ### Bizim Yorumumuz
 

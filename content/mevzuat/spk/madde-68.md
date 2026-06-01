@@ -20,7 +20,6 @@ kalma şartlarına uyduğunu düzenli olarak gözden geçirmeye yönelik gerekli
 yaparlar.
 (4) Bir borsa kotunda bulunan bir sermaye piyasası aracı, bu Kanun ve ilgili
 düzenlemeler çerçevesinde başka bir borsada da kota alınabilir.
-İşlemlerin durdurulması ve kottan çıkarma
 
 ### Bizim Yorumumuz
 

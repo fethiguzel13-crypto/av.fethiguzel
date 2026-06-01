@@ -20,8 +20,6 @@ Muhakemeleri Kanununun 25 inci maddesi hükmü tatbik olunur.
 III. TATİLLER VE TALİKLER
 Tatiller:
 
-1 – Bütün borçlular hakkında:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

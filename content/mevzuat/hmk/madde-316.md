@@ -24,7 +24,6 @@ f) Tahkim hükümlerine göre, mahkemenin görev alanına giren dava ve işler.
 g) Diğer kanunlarda yer alan ve yazılı yargılama usulü dışındaki yargılama usullerinin
 
 uygulanacağı belirtilen dava ve işler.
-Dilekçelerin verilmesi
 
 ### Bizim Yorumumuz
 

@@ -26,7 +26,6 @@ güne bırakılamaz.
 yargılama başka bir güne bırakılamaz. Ancak, dosyanın incelenmemiş olması geçerli bir özre
 dayanıyorsa, hâkim bir defaya mahsus olmak üzere, kısa bir süre verebilir. Verilen süre
 sonunda, dosya incelenmemiş olsa bile davaya devam olunur.
-Vekilin vekâlet veren huzurundaki beyanı
 
 ### Bizim Yorumumuz
 

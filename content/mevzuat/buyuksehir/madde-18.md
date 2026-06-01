@@ -42,7 +42,6 @@ Kararı ile.)
 m) Bütçede yoksul ve muhtaçlar için ayrılan ödeneği kullanmak, engellilerle ilgili
 faaliyetlere destek olmak üzere engelli merkezleri oluşturmak.26
 (Mülga son fıkra: 12/11/2012-6360/13 md.)
-Belediye başkanlığının sona ermesi
 
 ### Bizim Yorumumuz
 

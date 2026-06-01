@@ -15,7 +15,6 @@ kısmen ödenmesinden sonra taşınmazı tüketiciye devir veya teslim etmeyi ü
 (2) Tüketicilere sözleşmenin kurulmasından en az bir gün önce, Bakanlıkça belirlenen
 hususları içeren ön bilgilendirme formu verilmek zorundadır.
 (3) Yapı ruhsatı alınmadan, tüketicilerle ön ödemeli konut satış sözleşmesi yapılamaz.
-Şekil şartı
 
 ### Bizim Yorumumuz
 

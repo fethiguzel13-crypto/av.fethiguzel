@@ -19,9 +19,6 @@ alınamaz. İzinsiz devredilen veya devir alınan veya bir sözleşmenin devredi
 
 hakkında 20, 22 ve 26 ncı madde hükümleri uygulanır.
 
-
-Yüklenicinin ölümü, iflası, ağır hastalığı, tutukluluğu veya mahkumiyeti
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

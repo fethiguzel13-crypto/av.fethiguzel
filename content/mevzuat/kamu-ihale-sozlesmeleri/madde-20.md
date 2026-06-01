@@ -18,7 +18,6 @@ b) Sözleşmenin uygulanması sırasında yüklenicinin 25 inci maddede sayılan
 veya davranışlarda bulunduğunun tespit edilmesi,
 Hallerinde, ayrıca protesto çekmeye gerek kalmaksızın kesin teminat ve varsa ek kesin
 teminatlar gelir kaydedilir ve sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
-Sözleşmeden önceki yasak fiil veya davranışlar nedeniyle fesih
 
 ### Bizim Yorumumuz
 

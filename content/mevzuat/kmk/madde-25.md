@@ -172,7 +172,6 @@ kullanılan her türlü tesis, depo, araç ve gereç ile diğer tüm teknik teç
 başkanlığına devredilir. Söz konusu devirler gerçekleşene kadar akaryakıt tasfiyesi için
 gerekli işlemler ilgili defterdarlık veya çevre, şehircilik ve iklim değişikliği il müdürlüklerince
 yürütülmeye devam edilir.
-Yürürlük
 
 ### Bizim Yorumumuz
 

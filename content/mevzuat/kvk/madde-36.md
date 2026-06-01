@@ -1401,7 +1401,6 @@ Türkiye’de bulunmayan katılımcı takımlar ve organizasyonda görevli tüze
 kurumlar vergisinden muaftır. Bu muafiyet, tevkif yoluyla alınan vergileri de kapsar. UEFA
 Türkiye Ofisinin bu müsabakalar ve Şampiyona kapsamında elde ettiği gelirler dolayısıyla
 iktisadi işletme oluşmuş sayılmaz.
-Yürürlük
 
 ### Bizim Yorumumuz
 

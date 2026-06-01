@@ -21,7 +21,6 @@ Personelin askerî veya sivil sağlık teşkillerindeki muayene ve tedavi sonucu
 Silâhlı Kuvvetlerindeki görevlere uyarlık bakımından takibi, gerekiyorsa 59 uncu madde
 kapsamında kontrolü sağlanmak suretiyle, kıta komutanları, karargâh veya askerî kurum
 amirleri ile bunların tabipleri tarafından yapılır.
-(...)12
 
 ### Bizim Yorumumuz
 

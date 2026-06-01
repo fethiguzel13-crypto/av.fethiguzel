@@ -15,7 +15,6 @@ hâllerde, bu Kanunun basit yargılama usulü ile ilgili hükümleri uygulanır.
 
 Muhakemeleri Kanununa yapılan yollamalar, Hukuk Muhakemeleri Kanununun bu hükümlerin
 karşılığını oluşturan maddelerine yapılmış sayılır.
-Zaman bakımından uygulanma
 
 ### Bizim Yorumumuz
 

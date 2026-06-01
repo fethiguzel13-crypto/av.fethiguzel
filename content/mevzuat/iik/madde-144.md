@@ -33,9 +33,6 @@ Türk gemi siciline kayıtlı olan gemiyi paraya çeviren icra dairesi, sicile k
 ve intifa haklarına ait kayıtların terkin veya nakillerini yaptırır; yabancı sicile kayıtlı
 gemilerde, bu işlemin yapılması için geminin bayrağını taşıdığı devletin en yakın
 konsolosluğuna bildirimde bulunur.
-BEŞİNCİ BAP
-I – TAŞINIR REHNİNİN PARAYA ÇEVRİLMESİ
-Takip talebi:
 
 ### Akademik Yorum ve Analiz
 

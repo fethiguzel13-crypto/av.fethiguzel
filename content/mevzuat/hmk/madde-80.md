@@ -13,7 +13,6 @@ MADDE 80- (1) Hâkim, taraflardan birisinin, davasını bizzat takip edecek yete
 olmadığını görürse, ona uygun bir süre tanıyarak, davasını vekil aracılığıyla takip etmesine
 karar verebilir. Verilen karara uymayan taraf hakkında, yokluğu hâlindeki hükümlere göre
 işlem yapılır.
-Vekilin azli ve istifasının şekli
 
 ### Bizim Yorumumuz
 

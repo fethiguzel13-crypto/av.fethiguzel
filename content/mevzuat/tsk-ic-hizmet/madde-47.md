@@ -24,7 +24,6 @@ karakol, karakol nöbetçisi ve devriye sıfat ve yetkilerine sahiptir. Koruma g
 Kanunun, 2559 sayılı Polis Vazife ve Selahiyet Kanununun ve diğer kanunların silah
 kullanmayı öngördüğü hal ve şartlardan herhangi birinin tahakkuku halinde silah kullanmaya
 yetkilidir. Bunlar, korudukları kişiye karşı silahlı bir saldırıya teşebbüs edilmesi halinde
-doğruca ve duraksamadan hedefe ateş edebilirler.
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ c) Hükümden evvel haklarındaki kovuşturma genel af ile kaldırılanlar;
 olmıyacak bir ceza ile hükümlü olup cezası ertelenenler;
 Bu kararların kesinleşmesi üzerine haklarındaki görevden uzaklaştırma tedbiri
 kaldırılır.
-Görevden uzaklaştırma tedbirinin kaldırılmasında amirin takdiri:
 
 ### Bizim Yorumumuz
 

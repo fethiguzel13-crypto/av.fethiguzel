@@ -30,7 +30,6 @@ değiştirilmiştir.
 
 cihazları ile sürücünün izleme ve kullanma sahası içinde kalan görüntü cihazları araçlardan
 söktürülür.
-Tedbirsiz ve saygısız araç sürme:
 
 ### Bizim Yorumumuz
 

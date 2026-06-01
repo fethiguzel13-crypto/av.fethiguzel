@@ -29,7 +29,6 @@ uygulanır.
 İşe başlamasıyla iş sözleşmesi kurulan işçilere ücretlerini işveren veya işveren vekili
 her birine ayrı ayrı ödemek zorundadır. Takım kılavuzu için, takıma dahil işçilerin
 ücretlerinden işe aracılık veya benzeri bir nedenle kesinti yapılamaz.
-Süreli fesih
 
 ### Akademik Yorum ve Analiz
 

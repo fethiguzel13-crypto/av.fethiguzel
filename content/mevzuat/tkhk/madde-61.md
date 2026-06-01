@@ -31,7 +31,6 @@ yükümlüdür.
 uymakla yükümlüdür.
 (8) Ticari reklamlara ilişkin getirilecek sınırlamalar ile bu reklamlarda uyulması
 gereken usul ve esaslar yönetmelikle belirlenir.
-Haksız ticari uygulamalar
 
 ### Bizim Yorumumuz
 

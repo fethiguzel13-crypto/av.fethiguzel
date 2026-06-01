@@ -24,8 +24,6 @@ bilgilerinin verilmesi sırrın ifşaı sayılmaz; bu kurum ve kuruluşlarda vaz
 bilgileri ifşa ettikleri takdirde birinci fıkra hükmüne göre cezalandırılırlar.” olarak değiştirilmiştir.
 37
 
-Gerçeğe aykırı bildirimde bulunanlar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

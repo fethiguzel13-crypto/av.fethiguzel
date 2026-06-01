@@ -23,7 +23,6 @@ Anonim Şirketi veya Türkiye Varlık Fonuyla” şeklinde değiştirilmiştir.
 Bankalar, kendilerinde doğrudan veya dolaylı olarak pay sahibi olan ortaklık ve
 kuruluşlarda doğrudan veya dolaylı olarak pay sahibi olamazlar, bunların hisse senetlerini
 rehin olarak kabul edemezler ve karşılığında avans veremezler.
-Gayrimenkul ve emtia üzerine işlemler
 
 ### Bizim Yorumumuz
 

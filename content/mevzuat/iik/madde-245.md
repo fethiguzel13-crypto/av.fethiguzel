@@ -20,8 +20,6 @@ ibaresi “242 nci madde” şeklinde değiştirilmiştir.
 üzere “111/b,” ibaresi eklenmiş ve fıkrada yer alan “133,” ibaresi madde metninden çıkarılmıştır.
 77
 
-Aile yurtları:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

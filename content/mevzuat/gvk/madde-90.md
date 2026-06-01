@@ -15,7 +15,6 @@ para cezaları, Amme Alacaklarının Tahsili Usulü hakkındaki Kanun hükümler
 cezalar, gecikme zamları ve faizler Gelir Vergisinin matrahından ve gelir unsurlarından
 indirilmez.
 (Ek: 3/12/1988-3505/12 md.) Vergi Usul Kanunu hükümlerine göre ödenen gecikme
-faizleri, vergi matrahından ve gelir unsurlarından indirilmez.
 
 ### Bizim Yorumumuz
 

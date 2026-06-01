@@ -34,7 +34,6 @@ hizmeti sunacak yetkili aracı kurumlar (…)11 görevlendirilebilir. (İptal ü
 cümle: Anayasa Mahkemesi’nin 25/1/2023 Tarihli ve E: 2020/30, K: 2023/12 Sayılı
 Kararı ile.) Alınacak payın genel bütçeye özel gelir olarak kaydedilmesine ve bakanlık
 bütçesinin ilgili tertiplerine özel ödenek yazılmasına (…)11 yetkilidir.
-Türkiye içinden yapılabilecek ikamet izni başvuruları
 
 ### Bizim Yorumumuz
 

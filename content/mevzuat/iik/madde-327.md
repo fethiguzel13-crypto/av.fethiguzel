@@ -21,7 +21,6 @@ Müddet bittikten sonra icra mahkemesi kararını verir ve bu karar aynı şartl
 ilan olunur. Fevkalade mühlette olduğu gibi bu karar hakkında da istinaf yoluna
 başvurulabilir.
 Bölge adliye mahkemesi bu halde dosya üzerine kararını verir.
-Refi:
 
 ### Bizim Yorumumuz
 

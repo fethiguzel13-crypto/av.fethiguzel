@@ -39,7 +39,6 @@ istasyonuna gönderilirler.
 (Değişik: 18/10/2018-7148/18 md.) Araç muayene sonuçları, Karayolu Düzenleme
 Genel Müdürlüğü ile Emniyet Genel Müdürlüğü arasında yapılacak bir protokol çerçevesinde,
 Emniyet Genel Müdürlüğü ile paylaşılır.
-Muayeneye yetkili kuruluşlar:
 
 ### Bizim Yorumumuz
 

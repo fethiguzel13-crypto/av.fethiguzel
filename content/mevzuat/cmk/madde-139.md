@@ -50,8 +50,6 @@ kaçakçılığı (madde 12) suçları.
 c) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde
 tanımlanan suçlar.
 
-Teknik araçlarla izleme
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

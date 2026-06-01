@@ -19,8 +19,6 @@ uyulmadığında veya uyulmayacağına ilişkin ciddi şüphe olması durumunda 
 edilmeksizin kolluk tarafından getirilebilirler. Bu işlem, idari gözetim olarak uygulanamaz ve
 bilgi alma süresi dört saati geçemez.
 
-Taşıyıcıların yükümlülükleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -49,7 +49,6 @@ Yabancı parasiyle ödenen ücretler ödeme gününün borsa rayiciyle Türk par
 Hizmet erbabına verilen ayınlar, verildiği gün ve yerdeki ortalama perakende
 fiyatlarına göre; konut tedariki ve sair suretle sağlanan menfaatler, konutun emsal kirasına
 veya menfaatin emsal bedeline göre değerlenir.
-Diğer ücretler
 
 ### Akademik Yorum ve Analiz
 

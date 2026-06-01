@@ -22,7 +22,6 @@ Borçlu hakkında bir icra dairesinde ayrı ayrı günlerde birden ziyade takip 
 bulunulmuş ise bunlardan hiçbirinde kendisinden daha eski olan talepten önce ödeme emri
 tebliğe gönderilemez.
 İTİRAZ
-1 – Süresi ve şekli:
 
 ### Bizim Yorumumuz
 

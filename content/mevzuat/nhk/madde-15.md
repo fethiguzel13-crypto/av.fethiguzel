@@ -36,7 +36,6 @@ adın belirtildiği dilekçe, ana ve babanın kimlik bilgilerini gösteren belge
 temsilciliğe gönderilmesi suretiyle de yapılabilir.
 (7) Ölü doğan çocuklar aile kütüğüne yazılmaz. Bir doğumda birden fazla çocuk
 doğması hâlinde bunlar, doğuş sırasıyla yazılır.
-Süresi içinde bildirilmeyen doğumlar
 
 ### Bizim Yorumumuz
 

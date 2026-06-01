@@ -74,7 +74,6 @@ Bankalarda yerinde denetim yapan kişiler, bu Kanunda belirtilen düzenlemeler d
 diğer kanunlara aykırılıkları tespit ettikleri takdirde bu tespitleri ilgili mercilere derhal
 bildirmek zorundadırlar.
 Denetim ve gözetime ilişkin usûl ve esaslar Kurulca düzenlenecek yönetmelikle belirlenir.
-Bilgi ve belge isteme
 
 ### Bizim Yorumumuz
 

@@ -14,8 +14,6 @@ MADDE 88 – (1) Uluslararası koruma statüsü sahibi kişiler, karşılıklıl
 kişilere sağlanan hak ve imkânlar, Türk vatandaşlarına sağlanan hak ve imkânlardan fazla
 olacak şekilde yorumlanamaz.
 
-Yardım ve hizmetlere erişim
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

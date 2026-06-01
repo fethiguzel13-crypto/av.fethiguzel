@@ -139,9 +139,6 @@ belirlemeye, bu ürünlerin denetim ve kontrolünü sağlamaya Tarım ve Orman B
 maddenin uygulamasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı
 yetkilidir.
 
-
-Yürürlük
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

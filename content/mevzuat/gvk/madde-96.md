@@ -33,7 +33,6 @@ hesaplarında ayrıca gösterilir.
 sonunda mevduat hesabı yılı içinde kapatılmışsa hesabın kapatıldığı tarihte vergi kesenin
 kayıt ve hesaplarında gösterilir.
 Muhtasar beyanname: 129
-a) Verilme zamanı:
 
 ### Bizim Yorumumuz
 

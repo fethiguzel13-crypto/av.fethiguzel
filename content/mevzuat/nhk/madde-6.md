@@ -19,7 +19,6 @@ mahkemesince mühürlenerek sonu onaylanır.
 (4) Nüfus kütüklerinin tutulmasına ilişkin usûl ve esasları belirlemeye, mevzuat ve
 sistemdeki gelişmelere bağlı olarak değiştirmeye ve kâğıt ortamında tutulan aile kütüklerini
 uygulamadan kaldırmaya Bakanlık yetkilidir.
-Aile kütüklerinde bulunması gereken kişisel bilgiler
 
 ### Bizim Yorumumuz
 

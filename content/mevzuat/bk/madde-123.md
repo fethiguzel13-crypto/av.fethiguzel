@@ -17,9 +17,6 @@ verilen görevler ile sınırlı olmak üzere istenecek her türlü bilgi ve bel
 sürekli veya münferit olarak vermeye, istenecek defter ve belgeleri ibraz etmeye mecburdurlar.
 Bu madde kapsamında, ilgili kişi, kurum ve kuruluşlar Fonun belirleyeceği süre
 içerisinde söz konusu talebe cevap vermek ve gereken kolaylığı göstermekle yükümlüdürler.
-BEŞİNCİ BÖLÜM
-Çeşitli Hükümler
-Fonun hesap ve harcamalarının denetimi
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ Alacaklılar toplanmasının kararlarından dolayı her alacaklı tarafından ye
 icra mahkemesine şikayet olunabilir. İcra mahkemesi iflas Dairesinin mütalaasını aldıktan ve
 icabında şikayet edeni ve dinlenmelerini istiyen alacaklıları da dinledikten sonra kısa bir
 zamanda kararını verir.
-İflas idaresinin vazifesi:
 
 ### Akademik Yorum ve Analiz
 

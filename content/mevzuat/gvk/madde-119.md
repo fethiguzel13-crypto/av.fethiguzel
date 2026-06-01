@@ -17,7 +17,6 @@ verecekleri ayın yirmialtıncı günü akşamına kadar bağlı bulundukları v
 yapacaklardan on ve daha az hizmet erbabı çalıştıranlar ile hizmet erbabı çalıştırmayanlara
 ilişkin olarak beyanname verme süresinden itibaren üç ayı geçmeyecek şekilde, ödeme
 zamanı belirlemeye yetkilidir.
-Münferit beyanname ile bildirilen kazançların vergisi:
 
 ### Bizim Yorumumuz
 

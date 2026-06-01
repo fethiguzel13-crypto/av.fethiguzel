@@ -20,7 +20,6 @@ maddesiyle metne işlendiği şekilde değiştirilmiştir.
 az on beş gün sonra olmak zorundadır. İlanda alacaklıların, toplantıdan önceki yedi gün içinde
 belgeleri inceleyebilecekleri de bildirilir. Ayrıca, ilânın birer sureti adresi belli olan
 alacaklılara posta ile gönderilir.
-Alacaklılar toplantısı ve projenin kabulü için gerekli çoğunluk:
 
 ### Bizim Yorumumuz
 

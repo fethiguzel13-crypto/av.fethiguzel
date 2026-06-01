@@ -16,7 +16,6 @@ c) İktisadî kamu kuruluşları.
 ç) Dernek veya vakıflara ait iktisadî işletmeler.
 d) İş ortaklıkları.
 (2) Kurum kazancı, gelir vergisinin konusuna giren gelir unsurlarından oluşur.
-Mükellefler
 
 ### Bizim Yorumumuz
 

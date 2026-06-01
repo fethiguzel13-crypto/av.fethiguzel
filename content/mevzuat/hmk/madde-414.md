@@ -27,7 +27,6 @@ veya hakem kurulu kararının icra edilebilir hâle gelmesiyle ya da davanın ha
 kurulu tarafından reddedilmesi hâlinde kendiliğinden ortadan kalkar.
 (5) Mahkemenin verdiği ihtiyati tedbir kararı, hakem veya hakem kurulu tarafından
 değiştirilebilir veya ortadan kaldırılabilir.
-Hakem sayısı
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ olarak bilgi vermek amacıyla 37 nci maddeye istinaden Kurulca düzenlenen usûl
 çerçevesinde konsolide finansal raporlar düzenlemek zorundadır. Konsolide finansal rapor
 kapsamında bulunan kuruluşlar, kendilerinden konsolide finansal raporların düzenlenmesine
 ilişkin olarak istenecek her türlü bilgi ve belgeyi ilgili ana ortaklığa vermekle yükümlüdür.
-Finansal raporların imzalanması, sunulması, ilânı ve denetimi
 
 ### Bizim Yorumumuz
 

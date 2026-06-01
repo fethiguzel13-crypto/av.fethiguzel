@@ -14,7 +14,6 @@ incelenir.
 (2) Mahkeme, dayanılan sebebin niteliğine göre yargılamanın iadesi talebinde
 bulunandan karşı tarafın zarar ve ziyanını karşılayacak uygun bir miktar teminat göstermesini
 isteyebilir.
-Talebin ön incelemesi
 
 ### Bizim Yorumumuz
 

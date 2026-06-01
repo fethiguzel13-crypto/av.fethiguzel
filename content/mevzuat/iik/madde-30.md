@@ -26,7 +26,6 @@ hükmü borçluya aynı müddetli bir emirle tebliğ olunur. Bu emirde ilam hük
 olan ilâm hükmü yerine getirildikten sonra borçlu, ilâm hükmünü ortadan kaldıracak bir
 eylemde bulunursa, mahkemeden ayrıca hüküm almaya gerek kalmadan, önceki ilâm hükmü
 tekrar zorla yerine getirilir.
-İrtifak haklarına mütedair ilamlar:17
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ ilişkinse, rizikonun gerçekleştiği yerde de açılabilir.
 (2) Can sigortalarında, sigorta ettirenin, sigortalının veya lehtarın leh veya aleyhine
 açılacak davalarda onların yerleşim yeri mahkemesi kesin yetkilidir.
 (3) Bu hüküm deniz sigortalarından doğan davalarda uygulanmaz.
-Haksız fiilden doğan davalarda yetki
 
 ### Bizim Yorumumuz
 

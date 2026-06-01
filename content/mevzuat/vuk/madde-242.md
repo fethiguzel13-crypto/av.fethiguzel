@@ -93,9 +93,6 @@ bu kapsamda kurulan şirketin ortak, yönetici ve çalışanları ile elektronik
 kayıtların oluşturulması, imzalanması, iletilmesi ve saklanması hususlarından herhangi biri
 için hizmet verme konusunda yetkilendirilenlerin ortak, yönetici ve çalışanları hakkında da
 uygulanır.7172
-DÖRDÜNCÜ KISIM
-Ekim ve Sayım Beyanı
-Ekim sayım beyanı:
 
 ### Bizim Yorumumuz
 

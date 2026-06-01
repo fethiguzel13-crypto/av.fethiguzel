@@ -44,7 +44,6 @@ ibaresinden sonra gelmek üzere “bilirkişilik bölge kurulu veya bulunduğu y
 5
 
 Ancak bu hâle ilişkin gerekçenin kararda gösterilmesi zorunludur.
-Bilirkişiliği kabul yükümlülüğü
 
 ### Bizim Yorumumuz
 

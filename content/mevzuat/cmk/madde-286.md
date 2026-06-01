@@ -76,7 +76,6 @@ b) Terörle Mücadele Kanununun 6 ncı maddesinin ikinci ve dördüncü fıkras�
 maddesinin ikinci fıkrasında yer alan suçlar.
 c) Toplantı ve Gösteri Yürüyüşleri Kanununun 28 inci maddesinin birinci fıkrası, 31
 inci maddesi ve 32 nci maddesinde yer alan suçlar.
-Hükümden önceki kararların temyizi
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ dosyayı aldığı tarihten itibaren 30 gün içinde soruşturma evrakına göre
 Memurluktan çıkarma cezası için disiplin amirleri tarafından yaptırılan soruşturmaya
 ait dosya, memurun bağlı bulunduğu kurumun yüksek disiplin kuruluna tevdiinden itibaren
 azami altı ay içinde bu kurulca, karara bağlanır.
-Yüksek disiplin kurullarının karar usulü, memurun hakkı:
 
 ### Bizim Yorumumuz
 

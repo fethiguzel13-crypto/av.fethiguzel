@@ -20,8 +20,6 @@ daireler hakkında da uygulanır.
 Nerelerde ve hangi binalarda kapıcı dairesi ve sığınak ayrılması gerektiği imar
 yönetmeliklerinde gösterilir.
 
-Otoparklar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

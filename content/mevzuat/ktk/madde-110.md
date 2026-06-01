@@ -17,7 +17,6 @@ geçitte meydana gelen tren-trafik kazalarında da bu Kanun hükümleri uygulan�
 Motorlu araç kazalarından dolayı hukuki sorumluluğa ilişkin davalar, sigortacının
 şubesinin veya sigorta sözleşmesini yapan acentenin bulunduğu yer mahkemelerinden birinde
 açılabileceği gibi kazanın vuku bulduğu yer mahkemesinde de açılabilir.79
-Sorumluluğa ilişkin anlaşmalar:
 
 ### Bizim Yorumumuz
 

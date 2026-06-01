@@ -27,9 +27,6 @@ BİRİNCİ KİTAP
 Vergilendirme
 BİRİNCİ KISIM
 Genel Esaslar
-BİRİNCİ BÖLÜM
-Vergi Uygulanmasında Yetki
-Vergi dairesi:
 
 ### Bizim Yorumumuz
 

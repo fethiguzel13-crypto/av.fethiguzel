@@ -31,7 +31,6 @@ değiştirilmiştir.
 
 (8) Hâkimi çekilmeye davet, hâkimin reddi hükmündedir.
 (9) (Mülga:22/7/2020-7251/4 md.)
-Çekilme kararının incelenmesi
 
 ### Bizim Yorumumuz
 

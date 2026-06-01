@@ -16,9 +16,6 @@ sınır dışı edilmezler,
 c) Yabancılarla ilgili işlemlerde aranan karşılıklılık şartından muaf tutulurlar,
 ç) Çalışma izniyle ilgili iş ve işlemlerde 4817 sayılı Kanun hükümlerine tabidirler,
 d) 5682 sayılı Kanunun 18 inci maddesi hükümlerinden yararlanabilirler.
-DÖRDÜNCÜ BÖLÜM
-Sınır Dışı Etme
-Sınır dışı etme
 
 ### Bizim Yorumumuz
 

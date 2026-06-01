@@ -18,9 +18,6 @@ borçlulara bu zam, tahsildarın ilk uğradığı zaman içinde borçlarını ö
 tatbik olunur.
 İKİNCİ KISIM
 Amme alacağının cebren tahsili
-BİRİNCİ BÖLÜM
-Cebren tahsil ve takip esasları
-Cebren tahsil ve şekilleri:
 
 ### Bizim Yorumumuz
 

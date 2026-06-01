@@ -146,7 +146,6 @@ kapsamında ayrıca ikramiye ödemesi yapılmaz.
 ödemelerinde muhbir ve elkoyma ikramiyesine hak kazananlara ödenecek ikramiye tutarı
 3.000 gösterge rakamının olayın olduğu tarihteki memur maaş katsayısı ile çarpımı sonucu
 bulunacak tutardan az olması durumunda ikramiye talep dosyası hazırlanmaz.
-Kriminal laboratuvar
 
 ### Bizim Yorumumuz
 

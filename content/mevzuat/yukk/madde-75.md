@@ -26,7 +26,6 @@ kişiye tebliğ edilir. Mülakat tarihleri arasında en az on gün bulunur.
 (6) Mülakatlar sesli veya görsel olarak kayıt altına alınabilir. Bu durumda mülakat
 yapılan kişi bilgilendirilir. Her mülakatın sonunda tutanak düzenlenir, bir örneği mülakat
 yapılan kişiye verilir.
-Uluslararası koruma başvuru sahibi kimlik belgesi
 
 ### Bizim Yorumumuz
 

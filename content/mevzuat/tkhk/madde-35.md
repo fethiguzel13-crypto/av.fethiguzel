@@ -27,7 +27,6 @@ devam eder. Krediyi devralan kuruluş bu madde kapsamında sorumlu olmaz.
 bir sözleşme olmaksızın, tüketicinin kendisi tarafından belirlenen konutun bedelinin kredi
 veren konut finansmanı kuruluşu tarafından ödenmesi suretiyle kullandırılan krediler bağlı
 kredi sayılmaz.
-Faiz oranı
 
 ### Bizim Yorumumuz
 

@@ -25,9 +25,6 @@ gelmek üzere “internet haber sitesi,” ibaresi eklenmiş ve aynı fıkrada y
 
 Sınavsız atama yapılacak yerlere kadro adedinden fazla istekli bulunduğu takdirde
 açılacak sınavın gün ve yeri yukarıdaki şartlara uygun olarak ayrıca duyurulur.
-BÖLÜM : 2
-Şartlar
-Genel ve özel şartlar:
 
 ### Bizim Yorumumuz
 

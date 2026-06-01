@@ -21,8 +21,6 @@ hâlinde kişinin kanunî mirasçılarının kaydına açıklama yapılır.
 “kesinleşme” ibaresi “kesinleştirme işlemi” şeklinde değiştirilmiştir.
 22
 
-Tutanakların imzalanması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

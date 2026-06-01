@@ -19,8 +19,6 @@ saklamaları zorunludur.
 Tedbirler
 Kanuna aykırı ihraçlar ile izahnamede yer alan bilgi ve açıklamalara aykırılık
 
-hâlinde uygulanacak tedbirler9
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

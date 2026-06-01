@@ -22,7 +22,6 @@ yüzde ellisi ile verilecek idarî para cezalarının yüzde doksanından,
 f) Fon mevcudunun gelirleri ile sair gelirlerden,
 g) 20 nci madde uyarınca Fona gelir kaydedilecek değerlerden,
 oluşur.
-Fonun borçlanma ve avans yetkisi
 
 ### Bizim Yorumumuz
 

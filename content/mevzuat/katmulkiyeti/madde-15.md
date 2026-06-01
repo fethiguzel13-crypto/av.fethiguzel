@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 15 – Kat malikleri kendilerine ait bağımsız bölümler üzerinde, bu kanunun ilgili hükümleri saklı kalmak şartiyle, Medeni Kanunun maliklere tanıdığı bütün hak ve yetkilere sahiptirler.
-II - Ortak yerler üzerinde :
 
 ### Bizim Yorumumuz
 

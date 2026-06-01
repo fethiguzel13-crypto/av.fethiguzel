@@ -19,9 +19,6 @@ c) Belde: Belediyesi bulunan yerleşim yerini,
 d) Mahalle: Belediye sınırları içinde, ihtiyaç ve öncelikleri benzer özellikler gösteren
 ve sakinleri arasında komşuluk ilişkisi bulunan idarî birimi,
 İfade eder.
-İKİNCİ BÖLÜM
-Belediyenin Kuruluşu ve Sınırları
-Kuruluş
 
 ### Bizim Yorumumuz
 

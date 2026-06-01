@@ -55,7 +55,6 @@ uzman yardımcılığına atanacaklar hakkında 657 sayılı Kanunun ek 41 inci 
 uygulanır.
 (6) Kurul personelinin çalışma usul ve esasları Kurul tarafından çıkarılacak yönetmelikle
 düzenlenir.
-Kurulun görev, yetki ve sorumlulukları
 
 ### Bizim Yorumumuz
 

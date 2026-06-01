@@ -33,7 +33,6 @@ Bakanlığının belirleyeceği usul ve esaslara göre işlemi yapan mükellefe 
 cümle: 29/3/2018-7104/2 md.) Şu kadar ki söz konusu iadenin yapılabilmesi için işlemle
 ilgili beyanların düzeltilmesi ve fazla veya yersiz hesaplanan verginin satıcı tarafından alıcıya
 geri verilmesi şarttır.
-Vergi sorumlusu:
 
 ### Bizim Yorumumuz
 

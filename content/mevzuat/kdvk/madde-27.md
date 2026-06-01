@@ -28,9 +28,6 @@ varsa, hizmetin bedeli, bu tarifede gösterilen ücretten düşük olamaz.
 müteahhit tarafından arsa sahibine bırakılan konut veya işyerinin, Vergi Usul Kanununun 267
 nci maddesinin ikinci fıkrasında yer alan ikinci sıradaki maliyet bedeli esasına göre belirlenen
 tutarı esas alınır.71
-İKİNCİ BÖLÜM
-Oran
-Oran:72737475
 
 ### Bizim Yorumumuz
 

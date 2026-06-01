@@ -18,7 +18,6 @@ taraf değişikliği talebi, karşı tarafın rızası aranmaksızın hâkim tar
 yanılgıya dayanıyorsa, hâkim karşı tarafın rızasını aramaksızın taraf değişikliği talebini kabul
 edebilir. Bu durumda hâkim, davanın tarafı olmaktan çıkarılan ve aleyhine dava açılmasına
 sebebiyet vermeyen kişi lehine yargılama giderlerine hükmeder.
-Dava konusunun devri
 
 ### Bizim Yorumumuz
 

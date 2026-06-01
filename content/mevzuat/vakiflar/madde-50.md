@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 50 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Vakıf Hizmetleri Daire Başkanlığı
 
 ### Bizim Yorumumuz
 

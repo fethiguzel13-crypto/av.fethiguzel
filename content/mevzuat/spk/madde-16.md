@@ -23,7 +23,6 @@ sahibi sayısı tek başına ya da toplam olarak en az beş yüz olan kooperatif
 kooperatif merkez birliklerinin yönetim kontrolüne sahip olduğu ve yıllık en az elli milyon
 Türk lirası satış hasılatı yapmış olan anonim ortaklıkların payları halka arz olunmuş sayılır.
 Bu ortaklıklar halka açık ortaklık hükümlerine de tabi olurlar. (Mülga cümle:27/12/20187159/8 md.) (…) Bu fıkra kapsamına giren ortaklıklara ikinci fıkra hükümleri uygulanmaz.
-Kurumsal yönetim ilkeleri
 
 ### Bizim Yorumumuz
 

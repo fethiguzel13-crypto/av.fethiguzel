@@ -22,7 +22,6 @@ onay veya olumlu görüş başvuruları, yetkili mercilerce onbeş iş günü i�
 Bankalar ana sözleşmelerini güncel olarak internet sayfalarında yayınlar. Ana
 sözleşmelerin güncelleştirilmesi, değişikliklerin gerçekleştiği tarihten itibaren on iş günü
 içerisinde yapılmak zorundadır.
-Sermaye artırımları
 
 ### Bizim Yorumumuz
 

@@ -337,9 +337,6 @@ ve
 cezaların tahsilatını durdurmaz.
 Karşılıklı anlaşma usulü hükümlerinin uygulanmasına ilişkin usul ve esasları
 belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.
-BEŞİNCİ KİTAP
-Vergi Davaları167
-Vergi mahkemesinde dava açmaya yetkili olanlar:
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ bedel, bunun dayanaklarının da eklendiği bir hesap tutanağında gösterilir 
 arasında saklanır. Bu bedel gerektiğinde ihale komisyonlarınca tahkik ettirilir.
 Ancak, yapım işlerinde bu işler için kanunların verdiği yetkiye dayanılarak ilgili
 dairelerce tespit edilmiş birim fiyatları varsa, bunlar uygulanır.
-Bedelin tahmin edilememesi:
 
 ### Bizim Yorumumuz
 

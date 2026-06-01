@@ -32,7 +32,6 @@ suretle de bulundurulamazsa muhakeme gıyabında görülür.
 Gelmeyen şahitlere yapılacak muamele ile borçlunun gıyabında verilen karara karşı
 eski hale getirme talebi hakkında Ceza Muhakemeleri Usulü Kanununda yazılı hükümler
 tatbik olunur.
-Duruşma:
 
 ### Bizim Yorumumuz
 

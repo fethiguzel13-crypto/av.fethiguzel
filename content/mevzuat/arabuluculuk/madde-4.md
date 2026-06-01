@@ -14,7 +14,6 @@ MADDE 4 – (1) Taraflarca aksi kararlaştırılmadıkça arabulucu, arabuluculu
 kayıtları gizli tutmakla yükümlüdür.
 (2) Aksi kararlaştırılmadıkça taraflar ve görüşmelere katılan diğer kişiler de bu
 konudaki gizliliğe uymak zorundadırlar.2
-Beyan veya belgelerin kullanılamaması
 
 ### Bizim Yorumumuz
 

@@ -17,9 +17,6 @@ bekletici sorun kararı verebilir.
 (2) Kovuşturma evresinde mağdur veya sanığın yaşının ceza hükümleri bakımından
 tespitiyle ilgili bir sorunla karşılaşılması halinde; mahkeme, ilgili kanunda belirlenen usule
 göre bu sorunu çözerek hükmünü verir.
-BEŞİNCİ BÖLÜM
-Duruşma Tutanağı
-Duruşma tutanağı
 
 ### Bizim Yorumumuz
 

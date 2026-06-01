@@ -23,7 +23,6 @@ b) Bu Kanuna tabi olmıyan kurumlardan atananlar, bu Kanuna tabi kurumlarda bir
 göreve atanmayı istedikleri takdirde, istisnai memuriyette geçirilen süre (a) fıkrasındaki
 esaslara göre ve girilecek derecenin sınav veya seçmesini başarmak kaydiyle, derece ve
 kademe ilerlemesine sayılır. Bu gibiler için adaylık hükümleri uygulanmaz.
-Aylığın ödeme zamanı ve Esasları:269
 
 ### Bizim Yorumumuz
 

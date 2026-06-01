@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 39 – Bu kanuna tabi kurumlarda sınıflar dışında memurluk kadroları ihdas
 edilemez.
-Memuriyete girişte yaş:
 
 ### Bizim Yorumumuz
 

@@ -89,7 +89,6 @@ Posta ve Telgraf Teşkilatı Anonim Şirketi oluşturulan elektronik tebligat ad
 adres sahiplerine teslim edilmek üzere, ilgili kurum, kuruluş veya birliğe gönderir ve teslim
 işlemi gerçekleştikten sonra bu adresleri, 1 inci madde uyarınca tebligat çıkarmaya yetkili
 makam ve mercilerin kullanımına sunar.
-Kanunun mer'iyete girmesi:
 
 ### Bizim Yorumumuz
 

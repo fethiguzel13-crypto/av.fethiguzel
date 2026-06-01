@@ -27,8 +27,6 @@ Bu hakların tapu idaresince kat mülkiyetine veya kat irtifakına doğrudan do�
 kanun hükümlerine göre hak sahiplerinden alınır.
 Hak sahipleri tapu idaresinin kararına karşı, bunun kendilerine bildirilmesinden başlıyarak bir ay içinde, sulh mahkemesine dava açmak suretiyle itiraz edebilirler.
 
-III - Medeni Kanuna göre kurulmuş kat irtifaklarının yönetimi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -263,7 +263,6 @@ TÜBİTAK bütçesine gelir kaydedilmesi uygulamasına 2024 yılı gelirleri üz
 yılında başlanır.
 (7) Bu Kanunun 35/B ve 35/C maddeleri uyarınca çıkarılacak ikincil düzenlemeler, bu
 maddenin yürürlüğe girdiği tarihten itibaren altı ay içinde yürürlüğe konulur.
-Yürürlük
 
 ### Bizim Yorumumuz
 

@@ -15,10 +15,6 @@ Bu suçlar bir hükmi şahsın idare ve muamelelerini görme sırasında işlenm
 hükmi şahsın ortaklarından, mümessil ve vekillerinden, tasfiye memurlarından idare meclisi
 reis ve azasından, murakıp ve müfettişlerinden veya müstahdemlerinden muameleyi yapmış
 olanlar hakkında hükmolunur.
-ÜÇÜNCÜ BÖLÜM
-
-Son hükümler
-Kaldırılan kanun ve hükümler:
 
 ### Bizim Yorumumuz
 

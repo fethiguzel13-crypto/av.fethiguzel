@@ -25,7 +25,6 @@ Alınan kararlar başkan ve toplantıya katılan üyeler tarafından imzalanır.
 muhalif kalanlar gerekçelerini de açıklar.
 Encümen başkan ve üyeleri, münhasıran kendileri, ikinci derece dâhil kan ve kayın
 hısımları ve evlatlıkları ile ilgili işlerin görüşüldüğü encümen toplantılarına katılamazlar.
-Encümen üyelerine verilecek ödenek
 
 ### Bizim Yorumumuz
 

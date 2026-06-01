@@ -20,7 +20,6 @@ başlıyanlarda ise işe başlama tarihinden itibaren hüküm ifade eder. Bu sur
 kabul edenler iki yıl geçmedikçe bu usulden dönemezler.
 Zirai kazancın bilanço esasına göre tesbitinde, 56, 57 ve 58 inci maddeler hükmü de
 gözönünde tutularak, ticari kazancın bu husustaki hükümleri uygulanır.
-Götürü gider usulünden gerçek kazanç esasına veya bu usulden diğerine intikal:
 
 ### Akademik Yorum ve Analiz
 

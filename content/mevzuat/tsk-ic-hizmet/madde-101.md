@@ -28,7 +28,6 @@ veya kış eğitim merkezlerinin sermayeleri birinci fıkrada belirtilenlere ila
 
 
 Savunma Bakanlığı, Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı bütçelerine
-konulacak ödeneklerden oluşur.
 
 ### Bizim Yorumumuz
 

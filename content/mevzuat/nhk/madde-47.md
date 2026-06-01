@@ -16,9 +16,6 @@ Cumhuriyeti kimlik numarasına yer verilir.
 her türlü işlem ve kayıtlarında esas alınır.
 (3) Kimlik numarasının uygulanmasında ortaya çıkan sorunlar ile tereddüt edilen
 hususlarda Genel Müdürlüğün görüşü alınır.
-SEKİZİNCİ KISIM
-Adres Kayıt Sistemi
-Adres bilgilerinin tutulması ve adres standardı
 
 ### Bizim Yorumumuz
 

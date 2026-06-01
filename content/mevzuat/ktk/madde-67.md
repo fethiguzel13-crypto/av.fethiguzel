@@ -46,10 +46,6 @@ muayenesi sonucunda sürücülüğe engel hâli bulunmadığını gösterir belg
 ibrazı zorunludur.60
 (Ek fıkra:12/2/2026-7574/21 md.) Sürücü belgesi geri alma ve iptal işlemleri bu
 Kanunun 6 ncı maddesinde sayılan görevliler tarafından gerçekleştirilir.
-DÖRDÜNCÜ BÖLÜM
-Yayalar, Hayvanla Çekilen veya Elle Sürülen Araçlarla
-Hayvan Sürücüleri ve Yarışlar Hakkında Kurallar
-Yayaların uyacakları kurallar:
 
 ### Bizim Yorumumuz
 

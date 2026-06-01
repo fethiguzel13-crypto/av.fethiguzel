@@ -18,9 +18,6 @@ kovuşturmaya yer olmadığı veya beraat kararları verildiğinde de şüpheli 
 verilir. Aksi hâlde, geçerli mazereti dışında, güvence Devlet Hazinesine gelir yazılır.
 (3) Hükümlülük hâlinde güvence 113 üncü maddenin birinci fıkrasının (b) bendinde
 yer alan hükümlere göre kullanılır, fazlası geri verilir.
-DÖRDÜNCÜ BÖLÜM
-Arama ve Elkoyma
-Şüpheli veya sanıkla ilgili arama
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ Mahkeme, sanığın duruşmada hazır bulunmasını dosyanın durumuna göre sav
 bakımından zorunlu görmezse, oturumu yokluğunda sürdürür ve bitirir. Ancak, sanığın
 müdafii yoksa, mahkeme barodan bir müdafi görevlendirilmesini ister. Oturuma yeniden
 alınmasına karar verilen sanığa, yokluğunda yapılan işlemler açıklanır.
-Duruşma sırasında işlenen suç hakkında işlem
 
 ### Bizim Yorumumuz
 

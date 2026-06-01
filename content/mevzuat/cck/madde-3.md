@@ -29,7 +29,6 @@ e) (Değişik: 13/6/2012-6327/38 md.) Sosyal çalışma görevlisi: Psikolojik d
 ve rehberlik, psikoloji, sosyoloji, çocuk gelişimi, öğretmenlik, aile ve tüketici bilimleri ve
 sosyal hizmet alanlarında eğitim veren kurumlardan mezun meslek mensuplarını,
 İfade eder.
-Temel ilkeler
 
 ### Bizim Yorumumuz
 

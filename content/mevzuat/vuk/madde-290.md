@@ -84,9 +84,6 @@ toplamının bugünkü değerini, kiralamaya konu iktisadî kıymetin rayiç bed
 iskonto oranıdır.
 4. Maliye Bakanlığı, bu maddenin uygulamasına yönelik usul ve esasları belirlemeye
 yetkilidir.
-ÜÇÜNCÜ BÖLÜM
-Servetleri Değerleme
-Esaslar:
 
 ### Bizim Yorumumuz
 

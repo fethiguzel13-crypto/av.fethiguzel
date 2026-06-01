@@ -19,7 +19,6 @@ karar verebilir.
 kurulunun gerekli görmesi üzerine bilirkişiler, yazılı veya sözlü raporlarını vermelerinden
 sonra çağrılacakları duruşmaya katılırlar. Bu duruşmada taraflar, bilirkişilere soru sorabilir ve
 uyuşmazlık konusunda kendi seçtikleri özel bilirkişileri dinletebilirler.
-Delillerin toplanması
 
 ### Bizim Yorumumuz
 

@@ -25,7 +25,6 @@ Kurulunun” ibareleri “Bakanlığın” şeklinde değiştirilmiştir.
 (2) Birinci fıkranın (b) bendi kapsamında uzun dönem ikamet izni iptal edilen
 yabancıların, bu izni tekrar almak üzere yapacakları başvurular ve bunların sonuçlandırılmasına
 ilişkin usul ve esaslar yönetmelikle belirlenir.
-İnsani ikamet izni
 
 ### Bizim Yorumumuz
 

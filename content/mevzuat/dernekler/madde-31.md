@@ -11,9 +11,6 @@ commentaryStatus: "pending"
 
 Madde 31- Dernekler, defterlerinde ve kayıtlarında ve Türkiye Cumhuriyetinin resmi
 kurumlarıyla yazışmalarında Türkçe kullanırlar.
-ALTINCI BÖLÜM
-Ceza Hükümleri
-Ceza hükümleri
 
 ### Bizim Yorumumuz
 

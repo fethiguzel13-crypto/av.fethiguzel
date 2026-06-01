@@ -19,7 +19,6 @@ bulunabilir.
 (3) Soruşturma ve kovuşturma evrelerinin her aşamasında avukatın, şüpheli veya
 sanıkla görüşme, ifade alma veya sorgu süresince yanında olma ve hukukî yardımda bulunma
 hakkı engellenemez, kısıtlanamaz.
-Müdafiin görevlendirilmesi
 
 ### Bizim Yorumumuz
 

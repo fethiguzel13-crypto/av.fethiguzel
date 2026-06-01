@@ -28,7 +28,6 @@ karar verilir. Şu kadar ki, borçlu ödeme emrinde yazılı müddetin geçmesin
 ödediğine dair resmi bir belge ibraz ederse iflas yolu ile takip talebi ve iflas davası düşer.
 Borçlu, ticaret mahkemesine 65 inci maddeye göre gecikmiş itirazda bulunabilir.
 Mahkeme mazereti yerinde görürse iflas davasını 174 üncü madde uyarınca karara bağlar.
-b) İtiraz veya şikayet olunması:
 
 ### Akademik Yorum ve Analiz
 

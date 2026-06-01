@@ -21,7 +21,6 @@ Bu görüşmelerde istihsalin artırılması, ticaret ve ulaştırma işlerinin 
 ve geliştirilmesi, çiftçinin kalkındırılması, umumi refahın sağlanması gibi konular üzerinde
 gerekli tedbirler planlaştırılır.
 Bu toplantılara kaymakamlar ve belediye ve ticaret ve ziraat odası başkanlariyle diğer
-memur ve ilgililer çağrılabilir.
 
 ### Bizim Yorumumuz
 

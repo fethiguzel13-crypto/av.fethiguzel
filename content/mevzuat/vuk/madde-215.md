@@ -37,7 +37,6 @@ edilir. Vergi ödeme, mahsup ve iade işlemlerinde de Türk Lirası tutarlar kul
 bb) Bu mükellefler, diğer para birimleriyle kayıt tuttukları sürece mükerrer 298 inci
 maddenin (A) fıkrası uyarınca enflasyon düzeltmesi yapamazlar. Türk para birimiyle kayıt
 yapmaya başlamaları halinde ise üç yıl süreyle anılan madde hükmünden yararlanamazlar.
-Defterlerin mürekkeple yazılacağı:
 
 ### Bizim Yorumumuz
 

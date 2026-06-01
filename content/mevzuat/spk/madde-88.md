@@ -18,7 +18,6 @@ değerlendirmelerinde dikkate alınacak ölçütleri ve uygulama esaslarını be
 faaliyeti, önemlilik ve öncelik ilkeleri ile risk değerlendirmeleri kapsamında Kurul Başkanı
 tarafından oluşturulacak program uyarınca yürütülür. Kurul Başkanı, oluşturulan program
 dışında incelenmesini gerekli gördüğü hususlarda program dışı denetim yaptırabilir.
-Denetim faaliyetinin icrası
 
 ### Bizim Yorumumuz
 

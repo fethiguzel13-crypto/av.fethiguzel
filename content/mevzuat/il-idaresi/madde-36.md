@@ -23,7 +23,6 @@ görevlerin sürat ve intizam dahilinde görülmesinden doğrudan doğruya kayma
 sorumludur.21
 İlçe idare şube başkanları, kaymakam tarafından verilen emirleri yerine getirmek ve
 tevdi edilen işler hakkında gereken tetkikleri yaparak mütalaalarını zamanın da bildirmek ve
-istenilen her türlü malümatı vermekle mükelleftirler.
 
 ### Bizim Yorumumuz
 

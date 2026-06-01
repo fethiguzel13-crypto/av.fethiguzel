@@ -23,7 +23,6 @@ daireleri başkanlığı kurulmayan yerlerde bu dairelerin gözetim ve denetimle
 işlerine bakar.5
 İcra yetkisini haiz sulh mahkemelerinin muamelelerine karşı vuku bulacak şikayet ve
 itirazların icra mahkemesi o mahkemenin hakimidir.
-Sorumluluk:
 
 ### Bizim Yorumumuz
 

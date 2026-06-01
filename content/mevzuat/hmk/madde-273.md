@@ -17,7 +17,6 @@ c) Raporun verilme süresi.
 (2) Bilirkişiye, görevlendirme yazısının ekinde, inceleyeceği şeyler, dizi pusulasına
 bağlı olarak ve gerekiyorsa mühürlü bir biçimde teslim edilir; ayrıca bu husus tutanakta
 gösterilir.
-Bilirkişinin görev süresi
 
 ### Bizim Yorumumuz
 

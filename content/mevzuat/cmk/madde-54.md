@@ -13,7 +13,6 @@ Madde 54 – (1) Tanıklar, tanıklıktan önce ayrı ayrı yemin ederler. Gerek
 bir kimsenin tanık sıfatıyla dinlenilmesinin uygun olup olmadığında tereddüt varsa yemin,
 tanıklığından sonraya bırakılabilir.
 (2) Soruşturma evresinde Cumhuriyet savcıları da tanıklara yemin verirler.
-Yeminin biçimi
 
 ### Bizim Yorumumuz
 

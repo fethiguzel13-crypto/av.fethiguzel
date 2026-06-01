@@ -22,7 +22,6 @@ gireceği hüküm altına alınmıştır.
 1
 
 d) (Mülga : 22/7/1998 - 4369/82 md.)
-Hizmet:
 
 ### Bizim Yorumumuz
 

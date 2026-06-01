@@ -65,7 +65,6 @@ Haberleşme Bakanlığınca yetkilendirme yapılması hâlinde tahsis edilen ta�
 devredilen tesisat ve teçhizatın kullanılması hususunda, Maliye Bakanlığının görüşü alınarak,
 Ulaştırma, Denizcilik ve Haberleşme Bakanlığı ile yetkilendirilenler arasında özel hukuk
 hükümleri gereğince sözleşme yapılabilir.
-Tarım Orman ve Köyişleri Bakanlığının görev ve yetkileri:
 
 ### Bizim Yorumumuz
 

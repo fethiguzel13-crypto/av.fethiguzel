@@ -15,7 +15,6 @@ başvurma hakkından feragat edemez.
 gönderilmez ve kararı veren mahkemece başvurunun reddine karar verilir. Dosya, bölge
 adliye mahkemesine gönderilmiş ve henüz karara bağlanmamış ise başvuru feragat nedeniyle
 reddolunur.
-Başvurunun icraya etkisi
 
 ### Bizim Yorumumuz
 

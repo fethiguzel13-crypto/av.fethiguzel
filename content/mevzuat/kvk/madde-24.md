@@ -15,7 +15,6 @@ MADDE 24- (1) Kurumlar vergisi, mükellefin veya vergi sorumlusunun beyanı
 (3) Mükelleflerin şubeleri, ajansları, alım-satım büro ve mağazaları, imalâthaneleri
 veya kendilerine bağlı diğer iş yerleri için, bunların bağımsız muhasebeleri ve ayrılmış
 sermayeleri olsa dahi ayrı beyanname verilmez.
-Vergilendirme dönemi ve beyan
 
 ### Bizim Yorumumuz
 

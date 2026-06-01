@@ -24,7 +24,6 @@ Kurul başkan ve üyelerinin bu görevlerinde geçirdikleri süreler, tâbi oldu
 hükümlerine göre hizmetlerinde değerlendirilir. Bu hüküm, akademik unvanların kazanılması
 için gerekli şartlar saklı kalmak üzere, üniversite akademik kadrolarından gelen Kurul başkan
 ve üyeleri hakkında da uygulanır.
-Kurul üyeleri ile Kurum personelinin cezaî ve hukukî sorumluluğu
 
 ### Bizim Yorumumuz
 

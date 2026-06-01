@@ -30,7 +30,6 @@ sürekli borç ilişkilerini, komiserin uygun görüşü ve mahkemenin izniyle h
 zamanda sona erecek şekilde feshedebilir. Bu çerçevede ödenmesi gereken tazminat,
 konkordato projesine tabi olur. Hizmet sözleşmelerinin feshine ilişkin özel hükümler
 saklıdır.100
-Kesin mühletin borçlu bakımından sonuçları:101
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ gider sorumlulara ait olmak üzere yolun yapım ve bakımı ile ilgili kuruluşc
 
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayanlar 72 000 000 lira
 para cezası ile cezalandırılırlar.
-Belediye sınırları içinde bulunan karayolu kenarındaki yapı ve tesisler:
 
 ### Bizim Yorumumuz
 

@@ -21,7 +21,6 @@ borçluya karşı rücu hakkı mahfuzdur.15
 2 numaralı fıkra gereğince muamele yapıldığı takdirde çek veya münakale emrinin
 kabul edilmemesi keyfiyeti tevsik ve bu durum münakale istiyene, keşideciye veya bunların
 temsilcilerine tebliğ edilerek kabul edilmiyen çek iade olunur.
-Çeklerde tanzim tarihi:
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ verilir.26
 (2) Tanıklık kamu yararına aykırı bulunmadıkça izin verilmesinden kaçınılamaz.
 (3) Bu izin, mahkeme kararı üzerine yazı ile istenir ve izin verilince tanık davet
 edilerek dinlenir.
-Tanığın davet edilmesi
 
 ### Bizim Yorumumuz
 

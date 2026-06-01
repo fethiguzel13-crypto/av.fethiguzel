@@ -23,7 +23,6 @@ sonra” ibaresi yürürlükten kaldırılmıştır.
 18
 
 internet sayfasında yayınlanır.20
-Sürelerin Başlama Tarihi
 
 ### Bizim Yorumumuz
 

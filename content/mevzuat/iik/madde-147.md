@@ -21,7 +21,6 @@ yoliyle takipten vazgeçerek, takibin haciz yolu ile devamını istiyebilir. Bu 
 mal beyanında bulunması için yedi gün mühlet verilir.
 
 II – İPOTEĞİN PARAYA ÇEVRİLMESİ
-Takip talebi:
 
 ### Akademik Yorum ve Analiz
 

@@ -17,9 +17,6 @@ Muvakkat yakalananlar adli takibatı mucip bir sebep varsa salahiyetli askeri ve
 makamlara teslim olunur. Aksi takdirde nihayet muvakkat yakalandığının ertesi günü serbest
 bırakılır.
 
-
-K) HAZIR KITA
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

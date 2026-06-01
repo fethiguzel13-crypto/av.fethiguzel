@@ -46,7 +46,6 @@ değiştirilmiştir.
 Engellilik derecelerinin tespit şekli ile uygulamaya ilişkin esas ve usuller Maliye,
 Sağlık ve Çalışma ve Sosyal Güvenlik bakanlıklarınca bu konuda müştereken hazırlanacak bir
 yönetmelik ile belirlenir.
-Asgarî geçim indirimi
 
 ### Akademik Yorum ve Analiz
 

@@ -15,7 +15,6 @@ Ancak, 44 üncü maddede gösterilen işler belli istekliler arasında kapalı t
 45 inci maddede gösterilen işler açık teklif usulüyle, 51 inci maddede sayılan işler pazarlık,
 52 nci maddede gösterilen işler de yarışma usulüyle yaptırılabilir.
 KAPALI TEKLİF USULÜ
-Tekliflerin hazırlanması:
 
 ### Bizim Yorumumuz
 

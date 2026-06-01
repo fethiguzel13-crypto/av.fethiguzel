@@ -14,7 +14,6 @@ Bu kanun hükümlerine göre öğrenim durumları, hizmet sınıfları ve görev
 itibariyle azami yükselebilecekleri derecelerin dördüncü kademesinden aylık almaya hak
 kazanan ve son sekiz yıllık süre içinde herhangi bir disiplin cezası almayanların kazanılmış
 hak aylıkları kadro şartı aranmaksızın bir üst dereceye yükseltilir.105
-Kademe:
 
 ### Bizim Yorumumuz
 

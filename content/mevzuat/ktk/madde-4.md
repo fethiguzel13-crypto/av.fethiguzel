@@ -35,7 +35,6 @@ a) İçişleri Bakanlığınca,
 b) Bu Kanunla yetkili kılınan diğer bakanlık, kuruluş ve belediyelerce, İçişleri Bakanlığı
 ile işbirliği içinde,
 Yürütülür.
-İçişleri Bakanlığının görev ve yetkileri:5
 
 ### Bizim Yorumumuz
 

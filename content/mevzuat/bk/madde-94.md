@@ -28,7 +28,6 @@ d) Birimler, kurumlar, meslek mensupları ve uluslararası diyalog ve işbirliğ
 artırılması suretiyle malî piyasalarda meslek mensupları arasında bütünleşmenin sağlanması,
 e) Malî piyasalara ilişkin düzenlemelerin ilgili taraflarla istişare edilerek hazırlanması,
 hususlarında strateji belirlemeye yetkilidir.
-Yerinde denetim ve gözetim
 
 ### Bizim Yorumumuz
 

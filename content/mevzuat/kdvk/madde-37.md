@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 37 – Aksine hüküm bulunmadıkça mükellefler gerçek usulde vergilendirilirler.
-Hasılat esaslı vergilendirme9697
 
 ### Bizim Yorumumuz
 

@@ -15,9 +15,6 @@ Madde 312 – Bir arazinin getireceği kiranın bilinmesi icabeden hallerde araz
 kıymetinin onda biri emsal kirası sayılır.
 ÜÇÜNCÜ KISIM
 Amortismanlar
-BİRİNCİ BÖLÜM
-Mevcutlarda Amortisman
-Amortisman mevzuu:105
 
 ### Akademik Yorum ve Analiz
 

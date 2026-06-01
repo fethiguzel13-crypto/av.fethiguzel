@@ -16,8 +16,6 @@ Ticari sermayeye dahil olsun olmasın bilümum binalarla arazi vergi değeri ile
 değerlenir.
 (İkinci ve üçüncü fıkralar mülga: 30/12/1980-2365/52 md.)
 
-Yetki:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

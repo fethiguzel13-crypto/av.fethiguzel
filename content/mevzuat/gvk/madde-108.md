@@ -26,7 +26,6 @@ gezici olarak çalışanların” ibaresi “Gezici olarak çalışanların” �
 
 5. Münferit beyanname ile bildirilmesi gereken gelirlerin vergilendirilmesinde
 vergilendirme dönemi yerine gelirin iktisap tarihi esas tutulur.
-Tarh zamanı:
 
 ### Bizim Yorumumuz
 

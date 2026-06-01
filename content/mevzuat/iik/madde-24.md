@@ -27,7 +27,6 @@ Hükmolunan taşınırın değeri, borsa veya ticaret odalarından, olmıyan yer
 memuru tarafından seçilecek bilirkişiden sorulup alınacak cevaba göre tayin edilir.
 İlgililerin bu hususta icra mahkemesine şikayet hakları vardır.
 (Mülga yedinci fıkra: 14/1/2011-6103/41 md.)
-Çocuk teslimi:
 
 ### Bizim Yorumumuz
 

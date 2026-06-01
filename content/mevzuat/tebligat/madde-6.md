@@ -14,7 +14,6 @@ uğrıyan tebliğ evrakının yeniden tanzim ve tebliği için gerekli masraflar
 taahhütlü müraselata mütaallik hükümlerine göre ödenir.
 Telgraf servisinde zıya veya gecikme vukuunda Telgraf ve Telefon Kanunu hükümleri
 tatbik olunur.
-Uçak, telgraf ve diğer vasıtalarla tebligat ve ücretleri:
 
 ### Bizim Yorumumuz
 

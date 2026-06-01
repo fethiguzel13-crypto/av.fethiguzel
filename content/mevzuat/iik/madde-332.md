@@ -26,7 +26,6 @@ borçlu hakkında da bu hükümler uygulanır.
 Bu suç alacaklının şikâyeti üzerine takip olunur. Borçluyu fazla borç altına girmeye
 veya talih oyunu ile spekülasyonlarda bulunmaya sevk etmiş yahut ağır faiz almak suretiyle
 zaafından istifade etmiş olan alacaklıların şikâyet hakkı yoktur.
-İflas ve konkordato işlerinde hususi menfaat temin edenlerin cezası:
 
 ### Bizim Yorumumuz
 

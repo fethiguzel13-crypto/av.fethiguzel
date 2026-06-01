@@ -23,7 +23,6 @@ bulunmamaktan dolayı cezai işlem yapılmaz.
 (5) Hürriyeti kısıtlanan kişilerin uluslararası koruma başvuruları, valiliğe derhâl
 bildirilir. Başvuruların alınması ve değerlendirilmesi, diğer adli ve idari işlemlerin ya da
 tedbir ve yaptırımların uygulanmasını engellemez.
-Refakatsiz çocuklar
 
 ### Bizim Yorumumuz
 

@@ -51,8 +51,6 @@ alan “Hazine Müsteşarlığının bağlı bulunduğu Bakanlığın teklifi ü
 “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 73
 
-Tazminat ve giderlerin ödenmesi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

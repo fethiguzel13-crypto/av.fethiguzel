@@ -17,8 +17,6 @@ eklenir ve bildirim Kurul kayıtlarına intikal ettiği tarihte yapılmış say�
 ibaresi madde başlığından çıkarılmıştır.
 2
 
-Muafiyet ve Menfi Tespit Kararlarının Geri Alınması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

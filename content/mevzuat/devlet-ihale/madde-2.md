@@ -28,7 +28,6 @@ gerekli olduğu halde imar durumu, tip yapılarda tatbikat, diğerlerinde avan p
 (Ek: 2/3/1984 - 2990/1 md.) Ancak, arsa temin edilmesi, mülkiyet ve kamulaştırma
 işlemlerinin tamamlanması şartı; bina ve benzeri mahiyetteki inşaatlar dışındaki ihalelerde
 aranmaz.
-İhale yetkilisi:
 
 ### Bizim Yorumumuz
 

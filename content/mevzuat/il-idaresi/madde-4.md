@@ -15,7 +15,6 @@ göre illerde lüzumu kadar teşkilat bulunur. Bu teşkilatın her birinin baş�
 teşkilat valinin emri altındadır.5
 Hakimler Kanunu ile İcra ve İflas Kanununda yazılı yargıç, Cumhuriyet savcısı ve
 yargıç sınıfında bulunanlarla bu kanunlarda yazılı adalet memurları, askeri birlikler, askeri
-fabrika ve müesseseler, askerlik daire ve şubeleri bu madde hükmünden müstesnadır.
 
 ### Bizim Yorumumuz
 

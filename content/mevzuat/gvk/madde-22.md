@@ -68,9 +68,6 @@ transfer edilmesi şartıyla gelir vergisinden müstesnadır.
 5. (Ek: 27/12/2023-7491/8 md.) Cumhurbaşkanı, üçüncü ve dördüncü fıkralarda yer
 alan kâr paylarına uygulanacak istisna oranı ile dördüncü fıkradaki %50 oranını ayrı ayrı veya
 birlikte sıfıra kadar indirmeye veya %100’e kadar artırmaya yetkilidir.
-ALTINCI BÖLÜM
-Müteferrik İstisnalar
-Ücretlerde:
 
 ### Akademik Yorum ve Analiz
 

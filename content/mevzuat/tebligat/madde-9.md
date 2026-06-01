@@ -18,7 +18,6 @@ lazımgeldiğini ve bu merciin yerini,
 4. Kanunlarına göre davetiye ve celpnamelere derci icabeden sair hususları,
 5. Davetiyeyi çıkaran merciin mührünü ve mahkeme başkatibinin ve diğer mercilerde
 salahiyetli memurun imzasını.
-Bilinen adreste tebligat:
 
 ### Bizim Yorumumuz
 

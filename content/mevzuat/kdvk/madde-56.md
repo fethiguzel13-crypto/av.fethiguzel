@@ -15,7 +15,6 @@ asgari randıman oranları tespit etmeye, alım - satım ve hizmet işlerinde is
 bedellerini belirlemeye yetkilidir.
 2. Mükelleflerin Katma Değer Vergisi, bu oranlara ve birim satış bedellerine göre
 hesaplanacak Katma Değer Vergisinden aşağı olamaz.
-Verginin etikette gösterilme mecburiyeti:
 
 ### Bizim Yorumumuz
 

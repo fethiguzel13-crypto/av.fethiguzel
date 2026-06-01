@@ -43,9 +43,6 @@ y) Anlaşmazlıkların çözümü.
 z) (Ek: 4/4/2015-6645/33 md.) İş sağlığı ve güvenliğine ilişkin yükümlülükler.
 İKİNCİ KISIM
 Sözleşmenin Uygulanması
-BİRİNCİ BÖLÜM
-Fiyat Farkı, Sigorta, Mücbir Sebepler, Denetim, Muayene ve Kabul İşlemleri
-Fiyat farkı verilebilmesi
 
 ### Bizim Yorumumuz
 

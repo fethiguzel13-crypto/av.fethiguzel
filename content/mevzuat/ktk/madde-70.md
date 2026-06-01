@@ -38,9 +38,6 @@ psiko-teknik değerlendirme sonucunda sürücülüğe engel hâli bulunmadığı
 sürücü kursuna ibrazı zorunludur.
 (Ek fıkra:12/2/2026-7574/22 md.) Sürücü belgesi geri alma ve iptal işlemleri bu
 Kanunun 6 ncı maddesinde sayılan görevliler tarafından gerçekleştirilir.
-BEŞİNCİ BÖLÜM
-Çeşitli Kurallar
-Geçiş üstünlüğüne sahip araçlar ve sürme kuralları:
 
 ### Bizim Yorumumuz
 

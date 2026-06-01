@@ -22,7 +22,6 @@ sermaye iradı ile diğer kazanç ve iratlarının gayri safi tutarları toplam�
 yazılı tarifenin üçüncü diliminde ücret gelirleri için yer alan tutarı aşanlar bu istisnadan
 faydalanmazlar.15
 Mükerrer Madde 21 – (Mülga: 9/4/2003-4842/37 md.)
-Menkul sermaye iratlarında:16
 
 ### Akademik Yorum ve Analiz
 

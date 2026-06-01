@@ -21,7 +21,6 @@ işlemin gecikerek yapılmış olduğunu veya diğer taraf için haksız bir şe
 yarattığını ve diğer durum ve koşulları dikkate alarak, böyle bir değişiklik veya genişletmeye
 izin vermeyebilir. İddia veya savunma tahkim sözleşmesinin kapsamı dışına çıkacak şekilde
 değiştirilemez veya genişletilemez.
-Duruşma yapılması veya dosya üzerinden inceleme
 
 ### Bizim Yorumumuz
 

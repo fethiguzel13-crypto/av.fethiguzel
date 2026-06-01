@@ -31,9 +31,6 @@ Ticaret Bakanlığını” ibaresi “Ticaret Bakanlığını” şeklinde deği
 Kurul : Rekabet Kurulunu,
 ifade eder.
 İKİNCİ KISIM
-BİRİNCİ BÖLÜM
-Yasaklanan Faaliyetler
-Rekabeti Sınırlayıcı Anlaşma, Uyumlu Eylem ve Kararlar
 
 ### Bizim Yorumumuz
 

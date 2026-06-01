@@ -23,7 +23,6 @@ g) Aynı davada Cumhuriyet savcılığı, adlî kolluk görevi, şüpheli veya s
 veya mağdur vekilliği yapmışsa,
 h) Aynı davada tanık veya bilirkişi sıfatıyla dinlenmişse,
 Hâkimlik görevini yapamaz.
-Yargılamaya katılamayacak hâkim
 
 ### Bizim Yorumumuz
 

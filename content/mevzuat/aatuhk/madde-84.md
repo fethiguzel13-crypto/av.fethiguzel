@@ -14,7 +14,6 @@ yapıldığı tarihin üçüncü gününden itibaren üç ay içinde satışa ç
 Bozulma, çürüme ve benzeri sebeplerle muhafazasına imkan olmıyan veyahut
 beklediği takdirde mühim bir değer düşüklüğüne uğraması muhtemel bulunan malların paraya
 çevrilmesine derhal başlanabilir.
-Satış şekli, artırma ve ilan:
 
 ### Bizim Yorumumuz
 

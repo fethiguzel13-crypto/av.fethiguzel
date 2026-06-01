@@ -26,7 +26,6 @@ halinde, borçlu ret kararının kendisine tebliği tarihinden itibaren 15 gün 
 bildiriminde bulunmak mecburiyetindedir.28
 Borcun bir kısmına karşı bu madde gereğince vakı itirazlar mal bildiriminde bulunma
 müddetini uzatamaz.
-Mal bildirimi:
 
 ### Bizim Yorumumuz
 

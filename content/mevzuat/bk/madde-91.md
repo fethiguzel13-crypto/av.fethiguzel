@@ -25,7 +25,6 @@ Kurum, düzenlemekle görevli olduğu alanın yoğun olduğu illerde olmak ve sa
 geçmemek kaydıyla Cumhurbaşkanı kararıyla yurt içi temsilcilik açabilir. (Ek cümle:
 20/6/2013-6493/40 md.) Kurul, üyelerin talebi hâlinde Kurum merkezi dışında yurt içi
 temsilciliklerini ilgili üyenin daimi çalışma yeri olarak belirleyebilir.24
-Kurum personeli
 
 ### Bizim Yorumumuz
 

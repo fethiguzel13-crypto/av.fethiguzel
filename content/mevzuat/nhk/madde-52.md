@@ -31,8 +31,6 @@ alan “Adres Paylaşımı Sistemi ve Kimlik Paylaşımı Sistemi” ibaresi “
 Sistemine” ibaresi “Kimlik Paylaşımı Sistemine” şeklinde değiştirilmiştir.
 20
 
-Koordinasyon ve işbirliği
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

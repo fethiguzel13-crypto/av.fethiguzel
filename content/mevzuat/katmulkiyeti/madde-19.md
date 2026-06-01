@@ -17,7 +17,6 @@ onarılması gerektiğinin veya anayapının güçlendirilmesinin zorunlu olduğ
 tespit edilmiş olması halinde, bu onarım ve güçlendirmenin projesine ve tekniğine uygun biçimde yapılması konusunda kat maliklerinin rızası aranmaz. Kat maliki kendi bağımsız bölümünde anayapıya zarar verecek nitelikte onarım, tesis ve değişiklik yapamaz. Tavan, taban veya
 duvar ile birbirine bağlantılı bulunan bağımsız bölümlerin bağlantılı yerlerinde, bu bölüm maliklerinin ortak rızası ile anayapıya zarar vermeyecek onarım, tesis ve değişiklik yapılabilir.
 Her kat maliki anagayrimenkule ve diğer bağımsız bölümlere, kusuru ile verdiği zarardan dolayı diğer kat maliklerine karşı sorumludur.
-III - Anagayrimenkulün genel giderlerine katılma:
 
 ### Bizim Yorumumuz
 

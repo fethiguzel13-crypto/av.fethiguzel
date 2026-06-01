@@ -18,7 +18,6 @@ Birinci fıkrada belirtilen önlemleri almamak, bankanın nitelikli paya sahip o
 veya bunların iştirak ve kuruluşlarına yarar sağlamak amacıyla yapıldığı takdirde dört yıldan
 altı yıla kadar hapis cezasına ve onbin güne kadar adlî para cezasına hükmedilir.
 Yetkili merciler ile denetim görevlilerince istenen bilgi ve belgeleri vermemek ve
-görevlerini yapmalarını engellemek
 
 ### Bizim Yorumumuz
 

@@ -44,9 +44,6 @@ müdafii, mağdur, vekil veya kanuni temsilciye verilir. Beyan ve görüntü kay
 soruşturma ve kovuşturma makamlarının gözetiminde gizliliği korunmak suretiyle izletilebilir.
 (9) (Ek:14/11/2024-7532/17 md.) Beşinci ve altıncı fıkrada belirtilen merkezler, devlet
 üniversiteleri tarafından da kurulabilir.
-İKİNCİ KISIM
-Kamu Davasına Katılma
-Kamu davasına katılma
 
 ### Bizim Yorumumuz
 

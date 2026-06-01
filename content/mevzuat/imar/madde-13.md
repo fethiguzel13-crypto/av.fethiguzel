@@ -65,7 +65,6 @@ mülkiyetindeki alanlarla trampa yapılması hâlinde, şahıs veya özel hukuk 
 vergi, resim, harç, ücret, döner sermaye ücreti ve herhangi bir ad altında bedel alınmaz.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Bakanlıkça hazırlanan yönetmelikle
 belirlenir.
-İrtifak hakları:
 
 ### Bizim Yorumumuz
 

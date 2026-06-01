@@ -39,9 +39,6 @@ Hisseleri borsada işlem gören bankaların hisselerinin borsadan alınması ve 
 bankanın hisselerinin 2004 sayılı İcra ve İflas Kanunu hükümlerine göre icra dairesinden satın
 alınması durumunda gerçekleştirilecek işlemlere ve bu maddenin uygulanmasına dair usûl ve
 esaslar Kurulca belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Birleşme, Bölünme, Hisse Değişimi ve İradi Tasfiye
-Birleşme, bölünme ve hisse değişimi
 
 ### Bizim Yorumumuz
 

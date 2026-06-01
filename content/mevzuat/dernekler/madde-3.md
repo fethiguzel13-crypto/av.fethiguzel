@@ -30,7 +30,6 @@ olabilirler.
 Oniki yaşını bitiren küçükler yasal temsilcilerinin izni ile çocuk derneklerine üye
 olabilirler ancak yönetim ve denetim kurullarında görev alamazlar.
 Çocuk derneklerine onsekiz yaşından büyükler kurucu veya üye olamazlar.
-Dernek tüzüğü
 
 ### Bizim Yorumumuz
 

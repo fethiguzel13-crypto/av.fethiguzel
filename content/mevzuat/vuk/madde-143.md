@@ -33,8 +33,6 @@ açıkça yazılmamış olsa bile, inceleme yapanın çalıştığı yere sevk v
 Yukardaki hükümlere göre alınan defter ve vesikaların iyi saklanması şarttır.
 Bunların iyi saklanmamasından doğacak zararı idare tazmine mecburdur.
 
-İncelemede usul:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

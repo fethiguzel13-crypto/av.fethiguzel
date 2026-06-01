@@ -40,8 +40,6 @@ Muafiyet ve İstisnalar
 ibaresinden sonra gelmek üzere “Cumhurbaşkanlığı kararnamelerinde,” ibaresi eklenmiştir.
 1
 
-Muafiyetler
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -18,7 +18,6 @@ gayrimenkul 95 inci madde hükümleri dairesinde en çok artırana ihale olunur.
 teferruğ edilinceye kadar bir istekli çıkmadığı takdirde tahsil dairesi mahcuz malı uygun
 gördüğü zamanlarda satışa çıkarabilir. Bu takdirde satış ve ilan hakkında yukardaki hükümler
 ve ihale için de 95 inci madde hükümleri tatbik olunur.
-Gayrimenkul satış bedelinin tahsili:
 
 ### Bizim Yorumumuz
 

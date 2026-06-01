@@ -48,7 +48,6 @@ memuru veya mevcut askeri makamın tayin edeceği bir subay bulunur.
 Kanununun İkinci Kitap Dördüncü Kısım Dördüncü, Beşinci, Altıncı ve Yedinci Bölümünde
 tanımlanan suçlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu kapsamına
 giren suçlardan olması durumunda, dördüncü fıkra hükümleri uygulanmaz ve yakalanan kişi
-Cumhuriyet savcısının talimatı ile adli kolluk görevlilerine teslim edilir.
 
 ### Bizim Yorumumuz
 

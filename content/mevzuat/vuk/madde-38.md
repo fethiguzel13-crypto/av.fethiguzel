@@ -24,7 +24,6 @@ Madde 38 – Tahrir ihbarnamesi aşağıda yazılı malümatı ihtiva eder:
 12. Verginin miktarı;
 13. İtiraz süresi;
 14. İtiraz şekli.
-Tekalif cetveli:
 
 ### Bizim Yorumumuz
 

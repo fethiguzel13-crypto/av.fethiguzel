@@ -25,9 +25,6 @@ kapsamak üzere, yabancılar için pasaporta dair kayıt ve şartlar koymaya,
 c) Yabancıların Türkiye’ye girişlerini belli şartlara bağlayıcı veya kısıtlayıcı her tür
 önlemi almaya,
 yetkilidir.
-İKİNCİ BÖLÜM
-İkamet
-İkamet izni
 
 ### Bizim Yorumumuz
 

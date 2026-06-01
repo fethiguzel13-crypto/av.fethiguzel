@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 51- (1) Dava ehliyeti, medenî hakları kullanma ehliyetine göre belirlenir.
-Davada kanuni temsil
 
 ### Bizim Yorumumuz
 

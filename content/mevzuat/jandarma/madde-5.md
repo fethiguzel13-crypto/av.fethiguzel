@@ -18,9 +18,6 @@ görüşü alınır.
 Jandarma birliklerinin kuruluş ve konuşlarının düzenlenmesinde mülki taksimat esas
 alınır. Ancak geçici olarak birden çok ili içine alan bölge teşkilatı da kurulabilir. Bölge
 komutanı, bölge teşkilatının konuşlu bulunduğu ilin valisine karşı sorumlu olarak görev yapar.
-İKİNCİ BÖLÜM
-Görev, Hizmet Sınırı ve Sorumlulukları
-Jandarma Genel Komutanı:4
 
 ### Bizim Yorumumuz
 

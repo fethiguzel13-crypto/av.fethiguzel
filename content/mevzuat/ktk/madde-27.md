@@ -13,7 +13,6 @@ Madde 27 – Esasları yönetmelikte açıklanan ve araçların tanınmasına ya
 tescil belgesi verilmez.27
 Tanınma işareti bulunmayan veya bilinmeyen araçların, işaretleri tescil bürolarınca
 belirlenir ve belgelerine işlenir.
-Devlet malı araçların ayırım işaretleri ve tescil plakaları:
 
 ### Bizim Yorumumuz
 

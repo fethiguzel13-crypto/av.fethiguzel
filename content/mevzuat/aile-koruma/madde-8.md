@@ -33,7 +33,6 @@ resmi kayıtlarda gizli tutulur. Yapılacak tebligatlara ilişkin ayrı bir adre
 bilgileri hukuka aykırı olarak başkasına veren, ifşa eden veya açıklayan kişi hakkında
 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun ilgili hükümleri uygulanır.
 (7) Talep hâlinde ilgililere kişisel eşya ve belgelerinin kolluk marifetiyle teslimi sağlanır.
-İtiraz
 
 ### Bizim Yorumumuz
 

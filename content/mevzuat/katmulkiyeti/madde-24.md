@@ -22,7 +22,6 @@ itibaren iki yıldır. Bu hüküm 3568 sayılı Serbest Muhasebeci Mali Müşavi
 Mali Müşavirlik Kanununda ilgili düzenleme yapılıncaya kadar meslek mensupları tarafından
 açılan bürolar hakkında da uygulanır.
 Bu karar yöneticinin veya kat maliklerinden birinin istemi üzerine bütün bağımsız bölümlerin kat mülkiyeti kütüğündeki sahifelerine şerh verilir.
-VIII - Kat mülkiyetinin devri mecburiyeti:
 
 ### Bizim Yorumumuz
 

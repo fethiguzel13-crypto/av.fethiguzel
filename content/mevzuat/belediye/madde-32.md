@@ -18,9 +18,6 @@ günü sayısından fazla olamaz ve meclis üyelerine aynı gün için birden fa
 Meclis üyeleri hastalıkları süresince izinli sayılır. Ayrıca mazeretleri durumunda, bir
 yıl içindeki toplantı süresinin yarısını aşmamak şartıyla istekleri üzerine meclis tarafından izin
 verilebilir.
-İKİNCİ BÖLÜM
-Belediye Encümeni
-Belediye encümeni
 
 ### Bizim Yorumumuz
 

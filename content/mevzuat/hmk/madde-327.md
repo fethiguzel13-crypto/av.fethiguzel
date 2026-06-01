@@ -22,7 +22,6 @@ Anayasa Mahkemesinin 25/12/2024 tarihli ve E: 2024/29, K: 2024/226 sayılı Kara
 (2) Bir kişi davada sıfatı olmadığı hâlde, davacıyı, davalı sıfatı kendisine aitmiş gibi
 yanıltıp, kendisine karşı dava açılmasına sebebiyet verirse, davanın sıfat yokluğu nedeniyle
 reddi hâlinde, davalı yararına yargılama giderlerine hükmedilemez.
-Fer’î müdahale gideri
 
 ### Bizim Yorumumuz
 

@@ -44,7 +44,6 @@ bağımsız bölümlerin tahsisi suretiyle yapılmasını isterse, hakim, o gayr
 12 nci maddede yazılı belgelere dayanılarak kat mülkiyetine çevrilmesine ve paylar denkleştirilmek suretiyle bağımsız bölümlerin ortaklara ayrı ayrı tahsisine karar verebilir.
 (Ek fıkra: 14/11/2007-5711/3 md.) Gelirinin ortak giderlere harcanması için veya
 başka bir amaçla ortak yararlanmaya tahsis edilen bağımsız bölümlerin malik hanesine, bunlardan yararlanan "bağımsız bölümlerin numaraları" yazılmak suretiyle kat mülkiyeti kütüğüne tescil edilir. Bu husus bağımsız bölümlerin beyanlar hanesinde gösterilir.
-B) Kat mülkiyeti kütüğü:
 
 ### Bizim Yorumumuz
 

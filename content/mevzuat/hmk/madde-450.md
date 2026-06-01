@@ -60,7 +60,6 @@ geçici 2 nci maddesi uyarınca ilgili daire tarafından incelenen dosyalar, kar
 daireye yeniden gönderilmez.
 (4) Daire, mümkün olan en kısa sürede direnme kararını inceler ve yerinde görürse
 kararını düzeltir; görmezse dosyayı Yargıtay Hukuk Genel Kuruluna gönderir.
-Yürürlük
 
 ### Bizim Yorumumuz
 

@@ -44,7 +44,6 @@ mahallin en büyük mülki idare amiri tarafından el konulur. Bu fıkra kapsam�
 tespit edilen belediye veya bağlı idare personelinin vali veya kaymakam tarafından görevden
 uzaklaştırılması halinde göreve iade işlemi ancak uzaklaştırma işlemini yapan makam
 tarafından yapılır.
-Denetimle ilgili diğer hükümler
 
 ### Bizim Yorumumuz
 

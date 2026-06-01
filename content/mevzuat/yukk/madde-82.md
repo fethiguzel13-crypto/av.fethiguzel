@@ -14,7 +14,6 @@ Müdürlükçe, kamu düzeni veya kamu güvenliği nedeniyle belirli bir ilde ik
 belirlenen süre ve usullerle bildirimde bulunma yükümlülüğü getirilebilir.
 (2) Bu kişiler, adres kayıt sistemine kayıt yaptırmak ve ikamet adresini valiliğe
 bildirmekle yükümlüdür.
-Uluslararası koruma statüsü sahibi kimlik belgesi
 
 ### Bizim Yorumumuz
 

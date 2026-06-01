@@ -38,7 +38,6 @@ görüşleri alınır.
 ilgili olarak düzenlemeler yapmaya ve bunları uygulamaya, bu düzenlemelere tabi kurum ve
 kuruluşlar nezdinde bunlara uygun hareket edilip edilmediğini ve kendilerine gönderilen
 bilgilerin doğru olup olmadığını denetlemeye görevli ve yetkilidir.
-Borsada kotasyon
 
 ### Bizim Yorumumuz
 

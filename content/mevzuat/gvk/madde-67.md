@@ -44,7 +44,6 @@ yoksa Maliye Bakanlığınca tesbit edilecek kur üzerinden Türk parasına çev
 mükellefiyete tabi serbest meslek erbabı diledikleri takdirde, bilet bedelleri tutarından, bu
 bedellere dahil resimler düşüldükten sonra kalan miktarın yarısı safi kazanç sayılmak suretiyle
 vergilendirilirler.
-Mesleki giderler:73
 
 ### Bizim Yorumumuz
 

@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 9 – (1) Bağlantılı suçlardan her biri değişik mahkemelerin görevine giriyorsa,
 bunlar hakkında birleştirilmek suretiyle yüksek görevli mahkemede dava açılabilir.
-Görülmekte olan davaların birleştirilmesi ve ayrılması
 
 ### Bizim Yorumumuz
 

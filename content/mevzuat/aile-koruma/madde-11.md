@@ -13,7 +13,6 @@ MADDE 11 – (1) Kolluk görevleri, kolluğun merkez ve taşra teşkilâtında b
 belirtilen hizmetlerle ilgili olarak, çocuk ve kadının insan hakları ile kadın erkek eşitliği
 konusunda eğitim almış ve ilgili kolluk birimlerince belirlenmiş olan yeteri kadar personel
 tarafından yerine getirilir.
-Teknik yöntemlerle takip
 
 ### Bizim Yorumumuz
 

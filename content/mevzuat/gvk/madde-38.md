@@ -26,7 +26,6 @@ değerlemeye ait hükümleri ile bu kanunun 40 ve 41 inci maddeleri hükümlerin
 (Mülga üçüncü fıkra: 4/12/1985-3239/138 md.)
 (Ek: 26/12/1993-3946/8 md.; Mülga dördüncü fıkra: 17/12/2003-5024/9 md.)
 (Ek: 9/4/2003-4842/5 md.; Mülga beşinci fıkra: 17/12/2003-5024/9 md.)
-İşletme hesabı esnasında ticari kazancın tesbiti:
 
 ### Akademik Yorum ve Analiz
 

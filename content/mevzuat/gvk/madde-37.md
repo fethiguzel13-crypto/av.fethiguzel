@@ -31,7 +31,6 @@ Ticari kazanç, Vergi Usul Kanunu hükümlerine ve bu kanunda yazılı gerçek (
 veya işletme hesabı esası) veya basit usullere göre tesbit edilir.34
 Özel okul ve hastanelerle benzeri yerleri işleten serbest meslek erbabı, serbest meslek
 kazançlarını da işletmenin kayıtlarına ithal edebilirler.
-Bilanço esasında ticari kazancın tesbiti:
 
 ### Akademik Yorum ve Analiz
 

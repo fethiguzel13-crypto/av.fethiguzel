@@ -14,7 +14,6 @@ incelemelerini uygun görmesi halinde duruşma yoluyla yapabilir. Duruşma gün�
 katılana, müdafi ve vekile haber verilir. Sanık, duruşmada hazır bulunabileceği gibi, kendisini
 bir müdafi ile de temsil ettirebilir.138
 (2) Sanık, tutuklu ise duruşmaya katılmak isteminde bulunamaz.
-Duruşmada usul
 
 ### Bizim Yorumumuz
 

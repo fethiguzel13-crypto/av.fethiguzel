@@ -27,7 +27,6 @@ d) 72 nci ve 79 uncu maddeler çerçevesinde mahkemeye yapılan başvurular on b
 gün içinde sonuçlandırılır. Mahkemenin bu konuda vermiş olduğu karar kesindir.
 e) İtiraz veya yargılama süreci sonuçlanıncaya kadar ilgili kişinin ülkede kalışına izin
 verilir.
-Avukatlık hizmetleri ve danışmanlık
 
 ### Bizim Yorumumuz
 

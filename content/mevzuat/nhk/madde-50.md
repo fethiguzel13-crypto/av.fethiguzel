@@ -36,7 +36,6 @@ muhtarlar tarafından yapılır.
 istenebilir.
 (8) Yetkili idareler adres oluşumuna dayanak teşkil eden yapı belgelerini, belgelerin
 oluşturulması ile eş zamanlı olarak ulusal adres veri tabanına işlemekle yükümlüdür.
-Adrese dayalı hizmet sunan kuruluşların yükümlülüğü20
 
 ### Bizim Yorumumuz
 

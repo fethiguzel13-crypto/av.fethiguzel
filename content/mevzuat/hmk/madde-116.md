@@ -21,9 +21,6 @@ aksi hâlde dinlenemez.
 (3) İlk itirazlar, ön sorunlar gibi incelenir ve karara bağlanır.
 ÜÇÜNCÜ KISIM
 Yazılı Yargılama Usulü
-BİRİNCİ BÖLÜM
-Davanın Açılması
-Davanın açılma zamanı
 
 ### Bizim Yorumumuz
 

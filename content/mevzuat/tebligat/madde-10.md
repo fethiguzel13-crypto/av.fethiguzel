@@ -16,7 +16,6 @@ sisteminde bulunan yerleşim yeri adresi, bilinen en son adresi olarak kabul edi
 buraya yapılır.
 Şu kadar ki; kendisine tebliğ yapılacak şahsın müracaatı veya kabulü şartiyle her yerde
 tebligat yapılması caizdir.
-Vekile ve kanuni mümesile tebligat:
 
 ### Bizim Yorumumuz
 

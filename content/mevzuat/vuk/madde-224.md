@@ -30,7 +30,6 @@ Bu fıkranın 15/2/2018 tarihli ve 7099 sayılı Kanunun 2 nci maddesiyle deği�
 
 9. Tasdik numarası;
 10.Tasdiki yapan makamın resmi mühür ve imzası.
-Tasdik şekli:
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ md.)
 Olağanüstü hal, seferberlik ve savaş hallerinde veya genel hayata müessir afetlere
 uğrayan yerlerdeki Devlet memurları, çekilme istekleri kabul edilmedikçe veya yerine
 atanacaklar gelip işe başlamadıkça görevlerini bırakamazlar.
-Çekilen ve çekilmiş sayılanların yeniden atanmaları:
 
 ### Bizim Yorumumuz
 

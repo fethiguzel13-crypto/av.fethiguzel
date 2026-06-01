@@ -39,7 +39,6 @@ veya zilyetliğin devredilmiş olması hâlinde zilyetliği elinde bulunduran ü
 konutu tahliye etmekle yükümlüdür. Konutun tahliye edilmemesi hâlinde konut sahibi,
 9/6/1932 tarihli ve 2004 sayılı İcra ve İflâs Kanununun 26 ncı ve 27 nci maddeleri uyarınca
 tüketici veya zilyetliği elinde bulunduran üçüncü şahıslar aleyhine icra yoluna başvurabilir.
-Bağlı krediler
 
 ### Bizim Yorumumuz
 

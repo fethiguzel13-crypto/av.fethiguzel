@@ -15,8 +15,6 @@ ve bu tutanağı derhâl Cumhuriyet başsavcılığına gönderir.
 (2) Hâkim, tanığın ve suçta ortakları varsa onların tutuklanmasına da karar verebilir ve
 kovuşturma yapılmak üzere Cumhuriyet başsavcılığına sevk eder.
 
-Tanığa ödenecek ücret ve giderler28
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

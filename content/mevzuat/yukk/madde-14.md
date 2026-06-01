@@ -14,7 +14,6 @@ MADDE 14 – (1) Türkiye’den transit geçecek yabancılara, havalimanı trans
 konsolosluklar tarafından verilir.
 (2) Havalimanı transit vizesi istenecek yabancılar, Bakanlık ve Dışişleri Bakanlığınca
 müştereken belirlenir.
-Vize verilmeyecek yabancılar
 
 ### Bizim Yorumumuz
 

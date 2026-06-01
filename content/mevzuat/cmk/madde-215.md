@@ -13,7 +13,6 @@ Madde 215 – (1) Suç ortağının, tanığın veya bilirkişinin dinlenmesinde
 bir belgenin okunmasından sonra bunlara karşı bir diyecekleri olup olmadığı katılana veya
 
 vekiline, Cumhuriyet savcısına, sanığa ve müdafiine sorulur.
-Delillerin tartışılması
 
 ### Bizim Yorumumuz
 

@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 13 – (Mülga: 24/4/2001-4650/21 md.)
-Dava hakkı
 
 ### Bizim Yorumumuz
 

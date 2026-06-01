@@ -19,7 +19,6 @@ görebileceği bir yerine de asılır.
 (Değişik: 6/6/1985 - 3220/9 md.) Merci, icabına göre ikinci defa ilan yapılmasına
 karar verebilir. İki ilan arasındaki müddet bir haftadan aşağı olamaz. Gerekiyorsa ikinci ilan,
 yabancı memleket gazeteleriyle de yaptırılabilir.
-İlanın ihtiva edeceği kayıtlar:
 
 ### Bizim Yorumumuz
 

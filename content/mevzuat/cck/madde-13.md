@@ -16,7 +16,6 @@ gördüğü hâllerde duruşma yapabilir.
 (2) Tedbir kararının verilmesinden önce yeterli idrak gücüne sahip olan çocuğun
 görüşü alınır, ilgililer dinlenebilir, çocuk hakkında sosyal inceleme raporu düzenlenmesi
 istenebilir.
-Kanun yolu
 
 ### Bizim Yorumumuz
 

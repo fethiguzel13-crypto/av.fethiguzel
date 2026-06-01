@@ -18,7 +18,6 @@ ve işletmeler ile belediye ortaklıklarına ilişkin söz konusu bilgi ve değe
 verilir.
 Faaliyet raporu nisan ayı toplantısında belediye başkanı tarafından meclise sunulur.
 Raporun bir örneği Çevre ve Şehircilik Bakanlığına gönderilir ve kamuoyuna da açıklanır.34
-Hizmetlerde aksama
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ tarafından ticaret il müdürlüğü personeli arasından, ilçelerde ise kayma
 görevli Devlet memurları arasından yeterli sayıda raportör görevlendirilir.
 (2) Tüketici hakem heyeti raportörleri, heyetin çalışmalarına ve kararlarına esas olacak
 dosyaları hazırlamak ve uyuşmazlığa ilişkin raporu sunmakla görevlidir.
-Başvuru18
 
 ### Bizim Yorumumuz
 

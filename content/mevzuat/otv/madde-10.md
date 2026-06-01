@@ -16,9 +16,6 @@ hükümleri saklıdır.
 2. Maliye Bakanlığı, bu Kanunda yer alan istisna ve muafiyetlerin uygulanması ile
 verginin tecilinde alınacak teminatların türü ve miktarları ile tecil edilen verginin terkinine ilişkin
 usul ve esasları belirlemeye yetkilidir.
-ÜÇÜNCÜ BÖLÜM
-Verginin Matrahı, Oranı veya Tutarı
-Vergileme ölçüleri ve matrah
 
 ### Bizim Yorumumuz
 

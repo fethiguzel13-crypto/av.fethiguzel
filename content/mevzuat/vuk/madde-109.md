@@ -32,8 +32,6 @@ erbabının" ibaresi, 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyl
 erbabının” şeklinde değiştirilmiştir.
 25
 
-Verginin ödeneceği daire:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

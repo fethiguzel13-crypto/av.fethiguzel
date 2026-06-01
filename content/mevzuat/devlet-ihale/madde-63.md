@@ -24,7 +24,6 @@ Keşif bedelinin % 70 inden daha düşük bedelle tamamlanacağı anlaşılan i�
 müteahhit işi bitirmeye zorunludur. Bu durumda, müteahhide, belgelemek şartı ile yapmış
 olduğu gerçek giderlerine karşılık olarak, ihale bedelinin % 70'i ile yaptığı işin tutarı
 arasındaki bedel farkının % 5'ine kadar ödeme yapılabilir.
-Kiralarda sözleşme süresi:
 
 ### Bizim Yorumumuz
 

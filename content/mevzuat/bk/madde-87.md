@@ -49,7 +49,6 @@ açısından sakıncalı olan denetleyici nitelikteki kararların yayımlanmamas
 Kurul üyeleri ile Kurum personelinin uyacakları meslekî ve etik ilkeler ile Kurulun
 çalışma usûl ve esaslarına ilişkin diğer hususlar Kurul tarafından çıkarılacak yönetmelikle
 düzenlenir.
-Kurulun görev ve yetkileri
 
 ### Bizim Yorumumuz
 

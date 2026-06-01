@@ -18,7 +18,6 @@ Bu suretle atanan memurların aylıkları kazanılmış hak dereceleri üzerinde
 Ancak kazanılmış aylık dereceleri ve kariyer hizmet sınıfları için tesbit edilen ek gösterge,
 zam ve tazminatlar ile atandıkları görevlerin ek gösterge, zam ve tazminatlarının farklı olması
 halinde fazla olanı ödenir.
-İstisnai memurluklarda derece yükselmeleri ve kademe ilerlemeleri:
 
 ### Bizim Yorumumuz
 

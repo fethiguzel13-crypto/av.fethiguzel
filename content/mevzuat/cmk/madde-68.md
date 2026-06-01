@@ -19,7 +19,6 @@ birbirinden ayrı olarak dinlenmeleri zorunlu değildir.
 kanunî temsilcinin istemi üzerine bilimsel mütalaa hazırlayan uzmanın duruşmada dinlenmesi
 
 hususunda da yukarıdaki fıkralar hükümleri uygulanır.
-Bilirkişinin reddi
 
 ### Bizim Yorumumuz
 

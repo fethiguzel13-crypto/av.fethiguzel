@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 246 – Aile yurtları hakkındaki Kanunu Medeni hükümleri mahfuzdur.
 VI. PARALARIN PAYLAŞTlRlLMASl
-Pay cetveli ve son hesap:
 
 ### Bizim Yorumumuz
 

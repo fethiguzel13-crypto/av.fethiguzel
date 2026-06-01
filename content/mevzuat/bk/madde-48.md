@@ -22,7 +22,6 @@ bankalarının taşınır ve taşınmaz mal ve hizmet bedellerinin ödenmesi sur
 zarar ortaklığı yatırımları, taşınmaz, ekipman veya emtia temini veya finansal kiralama, mal
 karşılığı vesaikin finansmanı, ortak yatırımlar veya Kurulca belirlenecek diğer yöntemlerle
 sağladıkları finansmanlar da bu Kanun uygulamasında kredi sayılır.5
-Risk grubu
 
 ### Bizim Yorumumuz
 

@@ -19,9 +19,6 @@ olarak yapılır.
 Amme alacağına karşılık cebren tahsil olunan paralar; önce parayı tahsil eden dairenin,
 artarsa aynı amme idaresinin takibe iştirak etmiş olan diğer alacaklı tahsil dairelerinin takip
 konusu alacak aslı ve fer'ilerine orantılı olarak mahsup edilir.
-DÖRDÜNCÜ BÖLÜM
-Tecil, tehir, gecikme zammı
-Tecil:
 
 ### Bizim Yorumumuz
 

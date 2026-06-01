@@ -15,7 +15,6 @@ yazıldığı takdirde düzeltmeler ancak yanlış rakam ve yazı okunacak şeki
 yan tarafına veyahut ilgili bulunduğu hesaba doğrusu yazılmak suretiyle yapılabilir.
 Defterlere geçirilen bir kaydı kazımak, çizmek veya silmek suretiyle okunamaz bir
 hale getirmek yasaktır.
-Boş satır bırakılamıyacağı, sayfaların yok edilmiyeceği:
 
 ### Bizim Yorumumuz
 

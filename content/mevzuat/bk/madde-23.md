@@ -28,8 +28,6 @@ edilmesi, işlerliğinin, uygunluğunun ve yeterliliğinin sağlanması, finansa
 sistemlerinin güvence altına alınması, banka içindeki yetki ve sorumlulukların belirlenmesi
 yönetim kurulunun sorumluluğundadır.
 
-Denetim komitesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -18,7 +18,6 @@ Müteahhit veya müşterinin bu zorunluluğa uymaması halinde, protesto çekmey
 hüküm almaya gerek kalmaksızın ihale bozulur ve varsa geçici teminatı gelir kaydedilir.
 Verilen kesin teminat, teminat olarak kabul edilen diğer değerlerle değiştirilebilir.
 Sözleşmenin yapılmasından sonra geçici teminat iade edilir.
-Yapım işlerinde kesin teminat:
 
 ### Bizim Yorumumuz
 

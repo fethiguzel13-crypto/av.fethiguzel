@@ -35,7 +35,6 @@ da talep edebilir. 2821 sayılı Sendikalar Kanununun 31 inci maddesi hükümler
 aykırı davrandığını işçi ispat etmekle yükümlüdür. Ancak, işçi bir ihlalin varlığı ihtimalini
 güçlü bir biçimde gösteren bir durumu ortaya koyduğunda, işveren böyle bir ihlalin mevcut
 olmadığını ispat etmekle yükümlü olur.
-İşyerinin veya bir bölümünün devri
 
 ### Akademik Yorum ve Analiz
 

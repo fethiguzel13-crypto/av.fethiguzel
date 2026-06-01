@@ -16,7 +16,6 @@ Alacaklılar tayin olunan günden evvel dosyayı tetkik edebilirler; alacaklıla
 talebine karşı tahriri itirazlarını dermeyan etmek yetkileri de vardır.
 İcra mahkemesi kısa bir müddette kararını verir; mühlet vermekle beraber borçluyu bir
 veya mütaaddit taksitlerle ödemeğe de mecbur edebilir.
-İstinaf yoluna başvurma121
 
 ### Bizim Yorumumuz
 

@@ -39,7 +39,6 @@ uncu maddesinin birinci fıkrasının (a) bendi” olarak değiştirilmiştir.
 (b) ve (c) fıkralarına göre yapılacak değer tespitinde, Emlak Vergisi Kanununun 31
 inci maddesinin ikinci fıkrasında yer alan normlardan ve bu maddeye göre hazırlanmış
 bulunan yönetmelik hükümleri ile gerektiğinde bilirkişiden yararlanılır.1718
-Komisyonun yetkileri:
 
 ### Bizim Yorumumuz
 

@@ -23,7 +23,6 @@ Dul memurların çocukları için yukarıki fıkralar hükmü uygulanır.
 Boşanma veya ayrılık vukuunda mahkeme bu yardımın hangi tarafa ve ne oranda
 verileceğini de kararında belirtir.
 Devlet memurunun, geçimini sağladığı üvey çocukları için de bu ödenek verilir.
-Aile yardımı ödeneğinin ödeme usulü:
 
 ### Bizim Yorumumuz
 

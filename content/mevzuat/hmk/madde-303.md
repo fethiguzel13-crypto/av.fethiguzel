@@ -28,8 +28,6 @@ Hükmün Tashihi, Tavzihi ve Tamamlanması34
 Tavzihi” iken metne işlendiği şekilde değiştirilmiştir.
 34
 
-Hükmün tashihi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -17,7 +17,6 @@ iflas idaresi ipotekle temin edilmiş alacakla ilgili olarak bunu doğuran sebep
 limiti miktarı bakımından red kararı vermeyip, kabul etmediğini ikinci alacaklılar toplantısına
 bildirir. İpoteğin iptali veya miktarının tenzili iddiasını takip hakkı, isteyen alacaklıya 245 inci
 madde hükmü çerçevesinde devrolunur.
-Alacaklılar sıra cetveli, ilan ve ihbar:
 
 ### Akademik Yorum ve Analiz
 

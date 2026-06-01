@@ -42,7 +42,6 @@ depolar ve sair uzman, fen adamı, teknisyen ve işçi gibi personel bulunduran 
 yerler Devlet ve memleket emniyet ve asayişi ve iş hayatının düzenlenmesi bakımından
 kaymakamın gözetim ve denetimi altındadır.
 Buralarda bulunan veya çalışanların kimlik ve nitelikleri hakkında kaymakamlar bu
-yerlerden bilgi istiyebilir, istenilen bilgiler hemen verilir.
 
 ### Bizim Yorumumuz
 

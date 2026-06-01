@@ -14,7 +14,6 @@ Vergi incelemesi; Vergi Müfettişleri, Vergi Müfettiş Yardımcıları, ilin e
 memuru veya vergi dairesi müdürleri tarafından yapılır.
 Gelir İdaresi Başkanlığının merkez ve taşra teşkilatında müdür kadrolarında görev
 yapanlar her hal ve takdirde vergi inceleme yetkisini haizdir.
-Hüviyet ibrazı:
 
 ### Bizim Yorumumuz
 

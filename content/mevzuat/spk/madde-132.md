@@ -24,7 +24,6 @@ edilir. Bu maddede belirtilen nedenlerle üyeliği sona erenlere Kurul tarafınd
 kanun hükümlerine göre hizmetlerinde değerlendirilir. Bu hüküm, akademik unvanların
 kazanılması için gerekli şartlar saklı kalmak üzere, üniversite akademik kadrolarından gelen
 Kurul Başkan ve üyeleri hakkında da uygulanır.
-Kurul Başkan ve üyeleri ile Kurul personelinin hukuki ve cezai sorumluluğu
 
 ### Bizim Yorumumuz
 

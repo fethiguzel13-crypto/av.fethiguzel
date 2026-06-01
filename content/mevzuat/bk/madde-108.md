@@ -48,7 +48,6 @@ oylarıyla alınan Fon Kurulu kararıyla hâkim ortaklar dışındaki ortaklara 
 ödenmiş sermaye tutarından düşülmesi suretiyle hesaplanacak sermaye esas alınmak üzere
 bulunacak bedel üzerinden Fon Kurulunca belirlenecek süre içinde banka hissedarlarına
 ödenmesi karşılığında devralmaya yetkilidir.
-Faaliyet izni kaldırılan veya Fona devredilen bankalara ilişkin ortak hükümler
 
 ### Bizim Yorumumuz
 

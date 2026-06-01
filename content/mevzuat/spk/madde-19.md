@@ -27,7 +27,6 @@ kişilere kârdan pay dağıtılabilmesi için esas sözleşmede hüküm bulunma
 bağışın sınırı halka açık ortaklık genel kurulunca belirlenir. Kurul, bağış tutarına üst sınır
 getirmeye yetkilidir. Ortaklıkların ilgili mali yıl içinde yapmış olduğu bağışlar, dağıtılabilir
 kâr matrahına eklenir.
-Kâr payı avansı
 
 ### Bizim Yorumumuz
 

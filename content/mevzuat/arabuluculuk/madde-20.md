@@ -33,7 +33,6 @@ gerekir.
 yapmak istedikleri adli yargı ilk derece mahkemesi adalet komisyonlarına göre listeler ve
 listeleri ilgili komisyon başkanlıklarına gönderir. Bir arabulucu, en fazla üç komisyon
 listesine kaydolabilir.
-Arabulucular sicilinden silinme
 
 ### Bizim Yorumumuz
 

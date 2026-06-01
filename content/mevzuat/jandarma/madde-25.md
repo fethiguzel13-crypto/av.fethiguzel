@@ -556,9 +556,6 @@ Yarbay 57
 Albay 60
 37 3/10/2016 tarihli ve 676 sayılı KHK’nin 42 nci maddesiyle eklenen bu maddenin numarası teselsülü sağlamak amacıyla “Geçici Madde 8” olarak değiştirilmiştir.
 
-
-Yürürlük:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -14,7 +14,6 @@ Takip borçlunun mümessil tayin edemiyecek derecede ağır hastalığı halinde
 bir zaman için icra memurluğunca talik olunabilir. Ağır hastalığın resmi belge ile tahakkuku
 lazımdır.
 Mal kaçırılması ihtimali olan hallerde hastalığın devamı sırasında da haciz yapılabilir.
-Talikın müddetlerin cereyanına tesiri:
 
 ### Bizim Yorumumuz
 

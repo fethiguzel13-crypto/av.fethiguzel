@@ -19,9 +19,6 @@ Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurul tarafından belirleni
 
 İKİNCİ KISIM
 İzne Tâbi İşlemler
-BİRİNCİ BÖLÜM
-Kuruluş ve Faaliyet İzinleri
-Kuruluş veya Türkiye'de şube ve temsilcilik açma izni
 
 ### Bizim Yorumumuz
 

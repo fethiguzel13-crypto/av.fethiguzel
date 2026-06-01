@@ -18,7 +18,6 @@ c) Uluslararası veya ülke genelindeki silahlı çatışma durumlarında, ayrı
 olması nedeniyle menşe ülkesinin veya ikamet ülkesinin korumasından yararlanamayan
 veya söz konusu tehdit nedeniyle yararlanmak istemeyen yabancı ya da vatansız kişiye, statü
 belirleme işlemleri sonrasında ikincil koruma statüsü verilir.
-Uluslararası korumanın haricinde tutulma
 
 ### Bizim Yorumumuz
 

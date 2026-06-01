@@ -57,7 +57,6 @@ Talih oyunları salonları işletmeciliği faaliyetinde bulunan kurumlar vergisi
 mükellefleri de cari vergilenderme döneminin kurumlar vergisine mahsup edilmek üzere bu
 maddede belirtilen esaslar çerçevesinde asgari vergi öderler.
 Bu uygulamanın usul ve esasları Maliye Bakanlığınca tayin ve tespit olunur.
-Asgari zirai kazanç esası:
 
 ### Bizim Yorumumuz
 

@@ -25,9 +25,6 @@ mahsustur.
 3. Münferit beyanname, dar mükellefiyete tabi olanların yıllık beyanname ile
 bildirmeye mecbur olmadıkları kazanç ve iratlardan, vergisi tevkif suretiyle alınmamış
 olanların bildirilmesine mahsustur.
-İKİNCİ BÖLÜM
-Gelirin Toplanması ve Yıllık Beyanname
-Gelirin toplanması ve beyan
 
 ### Bizim Yorumumuz
 

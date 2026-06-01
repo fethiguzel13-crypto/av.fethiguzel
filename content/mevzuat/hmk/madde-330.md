@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 330- (1) Vekil ile takip edilen davalarda mahkemece, kanuna göre takdir
 olunacak vekâlet ücreti, taraf lehine hükmedilir.
-Esastan sonuçlanmayan davada yargılama gideri
 
 ### Bizim Yorumumuz
 

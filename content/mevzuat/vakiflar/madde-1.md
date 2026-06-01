@@ -13,7 +13,6 @@ MADDE 1 – Bu Kanun; vakıfların yönetimi, faaliyetleri ve denetimine, yurt i
 yurt dışındaki taşınır ve taşınmaz vakıf kültür varlıklarının tescili, muhafazası, onarımı ve
 yaşatılmasına, vakıf varlıklarının ekonomik şekilde işletilmesi ve değerlendirilmesinin
 sağlanmasına ilişkin usûl ve esasların belirlenmesi (…)2 amacıyla hazırlanmıştır.
-Kapsam
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ Bu hüküm alacağı gayrimenkul rehni ile sağlanmış olan alacaklının, müt
 olarak gayrimenkulün yetişmemiş mahsulleri üzerinde haiz olduğu hakkı kaldırmaz. Şu kadar
 ki, alacaklı rehnin paraya çevrilmesi için mahsullerin yetişmesinden önce takip isteğinde
 bulunmuş olmalıdır.
-Haczin neticeleri:
 
 ### Bizim Yorumumuz
 

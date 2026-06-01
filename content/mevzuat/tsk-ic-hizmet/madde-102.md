@@ -14,7 +14,6 @@ Milli Savunma Bakanlığının izni ile lüzum ve ihtiyaç görülen yerlerde, r
 merkezleri, gazi uyum evleri ve refakatçi misafirhaneleri ile kreş, gündüz bakımevleri ve özel
 bakım merkezleri açılıp işletilebilir.19
 Bu tesislerin işletilmesi ve diğer hususlara ilişkin usul ve esaslar yönetmelikle
-belirlenir.
 
 ### Bizim Yorumumuz
 

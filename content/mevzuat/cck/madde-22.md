@@ -17,7 +17,6 @@ sırasında çocuğun yanında sosyal çalışma görevlisi bulundurabilir.
 (3) Duruşmalarda hazır bulunan çocuk, yararı gerektirdiği takdirde duruşma salonundan
 çıkarılabileceği gibi sorgusu yapılmış çocuğun duruşmada hazır bulundurulmasına da gerek
 görülmeyebilir.
-Hükmün açıklanmasının geri bırakılması
 
 ### Bizim Yorumumuz
 

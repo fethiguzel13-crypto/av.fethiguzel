@@ -16,9 +16,6 @@ konuda kesin bir karar verilinceye kadar yargılama ertelenebilir.
 başkalarıyla görüşmekten yasaklanmış olup da kendisi veya vekilinin mahkemede bulunması
 mümkün değilse, o kimse hakkında davayı takip için kayyım atanıncaya kadar yargılama
 ertelenebilir.
-İKİNCİ AYIRIM
-Dava Arkadaşlığı
-İhtiyari dava arkadaşlığı
 
 ### Bizim Yorumumuz
 

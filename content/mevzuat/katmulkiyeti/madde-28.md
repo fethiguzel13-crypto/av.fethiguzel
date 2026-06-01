@@ -22,7 +22,6 @@ cüzi haleflerini ve yönetici ve denetçileri bağlar.
 Yönetim planının ve onda sonradan yapılan değişikliklerin tarihi, kat mülkiyeti kütüğünün (Beyanlar) hanesinde gösterilir ve bu değişiklikler yönetim planına bağlanarak kat
 mülkiyetinin kuruluş belgeleri arasında saklanır.
 C) Kat malikleri kurulunun toplantısı ve kararları:
-I - Toplantı zamanı:
 
 ### Bizim Yorumumuz
 

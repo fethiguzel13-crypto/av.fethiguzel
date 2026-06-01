@@ -37,7 +37,6 @@ j) Fon Başkanı adına imzaya yetkili personelin görev ve yetki alanını beli
 k) Fonun yönetim ve işleyişine ilişkin diğer görevleri yerine getirmek.
 Başkan, Fon Kuruluna ilişkin olmayan görev ve yetkilerinden bir bölümünü, sınırlarını
 açıkça belirlemek ve yazılı olmak kaydıyla, alt kademelere devredebilir.
-Fon başkan yardımcıları
 
 ### Bizim Yorumumuz
 

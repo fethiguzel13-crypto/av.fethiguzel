@@ -19,7 +19,6 @@ Başkanlığına bağlanır.)
 d) 3/6/1937 tarih ve 3196 sayılı Kanun,
 e) 18/1/1966 tarih ve 710 sayılı Kanun,
 İle diğer kanunların bu Kanuna aykırı hükümleri yürürlükten kaldırılmıştır.
-Yönetmelik:
 
 ### Bizim Yorumumuz
 

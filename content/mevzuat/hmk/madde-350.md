@@ -18,8 +18,6 @@ kesinleşmedikçe yerine getirilemez.
 “iki hafta” şeklinde değiştirilmiştir.
 47
 
-Kötüniyetle istinaf yoluna başvurma
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

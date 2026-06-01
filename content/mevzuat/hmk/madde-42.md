@@ -31,7 +31,6 @@ Türk Lirasına kadar disiplin para cezasına hükmolunur.
 verilecek disiplin para cezası, bir önceki disiplin para cezasının iki katından az olamaz.
 (8) Disiplin para cezasının tahsili için, davaya bakan mahkeme, dosyanın geliş
 tarihinden başlayarak iki hafta içinde gereğini yapar.
-Ret talebine ilişkin kararlara karşı istinaf
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ md.)
 Adaylık süresi sonunda bu Kanun hükümlerine göre asıl memurluğa atananların
 adaylıkta geçirdikleri süreler, kademe ilerlemelerinde ve derece yükselmelerinde
 değerlendirilir.
-Kademe ilerlemesinde verilecek aylık:
 
 ### Bizim Yorumumuz
 

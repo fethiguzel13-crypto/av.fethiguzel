@@ -211,7 +211,6 @@ giderleri taraflar üzerinde bırakılır ve vekalet ücretine hükmedilmez. Bu 
 girdiği tarihten önce verilen ve infaz edilmeyen mahkeme kararlarına konu alacaklar hakkında
 da bu madde hükümleri uygulanır ve yargılama gideri ile vekalet ücretinin tahsilinden
 vazgeçilir.
-Yürürlük
 
 ### Bizim Yorumumuz
 

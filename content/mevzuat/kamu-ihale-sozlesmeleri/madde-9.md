@@ -17,7 +17,6 @@ içinde oluşabilecek deprem, su baskını, toprak kayması, fırtına, yangın 
 hırsızlık, sabotaj gibi risklere karşı, geçici kabul tarihinden kesin kabul tarihine kadar geçecek
 süreye ilişkin ise kapsamı ihale dokümanında belirtilen genişletilmiş bakım devresi teminatını
 içeren sigorta yaptırmak zorundadır.
-Mücbir sebepler
 
 ### Bizim Yorumumuz
 

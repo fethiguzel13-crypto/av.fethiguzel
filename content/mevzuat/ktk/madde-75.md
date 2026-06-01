@@ -27,7 +27,6 @@ sürücülerin durmaları, herhangi bir demiryolu aracının yaklaşmadığına 
 geçmeleri zorunludur.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 3 600 000
 lira para cezası ile cezalandırılırlar.
-Çocuk, hasta ve engelli taşıtları, gözleri görmeyen yayalar, yürüyüş kolları:66
 
 ### Bizim Yorumumuz
 

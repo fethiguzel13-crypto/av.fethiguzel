@@ -18,7 +18,6 @@ mahkemece yukarıdaki fıkraya göre işlem yapıldıktan sonra kararı veren ma
 (3) İstinaf yoluna başvurma tarihi konusunda 118 inci madde hükmü uygulanır.
 (4) Dosya, kararı veren mahkemece, istinaf dilekçesinde gösterilen daire ile bağlı
 kalınmaksızın, ilgili bölge adliye mahkemesine gönderilir.
-Harç ve giderlerin yatırılması46
 
 ### Bizim Yorumumuz
 

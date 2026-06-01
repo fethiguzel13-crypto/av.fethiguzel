@@ -11,8 +11,6 @@ commentaryStatus: "pending"
 
 Madde 41 – (Mülga: 26/12/1993-3946/38 md.)
 
-Ortalama kar hadlerinin tespiti:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

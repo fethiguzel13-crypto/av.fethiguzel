@@ -16,7 +16,6 @@ korunması amacıyla gerekli işlemleri yapar.
 (3) Bu işlemler naip hâkim veya istinabe olunan mahkeme aracılığıyla da yapılabilir.
 (4) Bu işlemler sırasında sanığın müdafii veya kanunî temsilcisi veya eşi hazır
 bulunabilir. Gerektiğinde, mahkemece barodan bir müdafi görevlendirilmesi istenir.
-Gaibe ihtar
 
 ### Bizim Yorumumuz
 

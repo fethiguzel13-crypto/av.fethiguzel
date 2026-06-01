@@ -114,7 +114,6 @@ Kentsel dönüşüm ve gelişim projesi kapsamındaki işler, kamu idareleriyle 
 madde çerçevesinde ortak hizmet projeleri aracılığıyla gerçekleştirilebilir.
 Bu Kanunun konusu ile ilgili hususlarda Başbakanlık Toplu Konut İdaresine 2985
 sayılı Kanun ve diğer kanunlarla verilen yetkiler saklıdır.
-Yurt dışı ilişkileri
 
 ### Bizim Yorumumuz
 

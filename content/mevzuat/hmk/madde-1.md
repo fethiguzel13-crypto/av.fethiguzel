@@ -13,7 +13,6 @@ wordCount: 618
 
 MADDE 1- (1) Mahkemelerin görevi, ancak kanunla düzenlenir. Göreve ilişkin
 kurallar, kamu düzenindendir.
-Asliye hukuk mahkemelerinin görevi
 
 ### Akademik Yorum ve Analiz
 

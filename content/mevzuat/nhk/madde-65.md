@@ -29,7 +29,6 @@ göre vergi dairelerince takip ve tahsil edilir. Katılma payları genel bütçe
 (4) Köy ve mahalle muhtarlıkları katılma payından muaftır.
 (5) Bu maddenin uygulamasına ilişkin usul ve esaslar Bakanlık ile Maliye Bakanlığınca
 müştereken belirlenir.
-Fazla çalışma ücreti
 
 ### Bizim Yorumumuz
 

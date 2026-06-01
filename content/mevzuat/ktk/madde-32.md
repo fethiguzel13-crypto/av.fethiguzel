@@ -40,7 +40,6 @@ ibaresi “tescil belgesine/kayıtlarına” şeklinde değiştirilmiştir.
 olan araçlarda bu teçhizatın bulunmaması veya teknik şartlara uygun olmaması halinde
 işletene 16.000 Türk lirası idari para cezası uygulanır ve araç mevzuata uygun duruma
 getirilinceye kadar trafikten menedilir.
-Taşınması özel izne bağlı yükler ile trafiğe çıkışları özel izne bağlı araçlar:32
 
 ### Bizim Yorumumuz
 

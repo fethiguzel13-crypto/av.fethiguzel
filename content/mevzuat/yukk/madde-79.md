@@ -30,7 +30,6 @@ gün içinde sonuçlandırılır.
 (3) Bu maddeye göre değerlendirilen başvurulardan, incelenmesinin uzun süreceği
 anlaşılanlar, hızlandırılmış değerlendirmeden çıkarılabilir.
 (4) Refakatsiz çocukların başvuruları hızlandırılmış olarak değerlendirilemez.
-İdari itiraz ve yargı yolu
 
 ### Bizim Yorumumuz
 

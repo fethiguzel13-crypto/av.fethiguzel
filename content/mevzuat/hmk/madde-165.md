@@ -18,9 +18,6 @@ makamın çözümüne bağlı ise mahkeme, ilgili tarafa görevli mahkemeye veya
 başvurması için uygun bir süre verir. Bu süre içinde görevli mahkemeye veya idari makama
 başvurulmadığı takdirde, ilgili taraf bu husustaki iddiasından vazgeçmiş sayılarak esas dava
 hakkında karar verilir.
-DÖRDÜNCÜ AYIRIM
-Davaların Birleştirilmesi ve Ayrılması
-Davaların birleştirilmesi
 
 ### Bizim Yorumumuz
 

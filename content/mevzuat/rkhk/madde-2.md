@@ -15,7 +15,6 @@ engelleyici, bozucu ve kısıtlayıcı anlaşma, uygulama ve kararlar ile piyasa
 teşebbüslerin bu hakimiyetlerini kötüye kullanmaları ve rekabeti önemli ölçüde azaltacak
 birleşme ve devralma niteliğindeki her türlü hukuki işlem ve davranışlar, rekabetin korunmasına
 yönelik tedbir, tespit, düzenleme ve denetlemeye ilişkin işlemler bu Kanun kapsamına girer.
-Tanımlar
 
 ### Bizim Yorumumuz
 

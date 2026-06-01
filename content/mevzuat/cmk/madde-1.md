@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 1 – (1) Bu Kanun, ceza muhakemesinin nasıl yapılacağı hususundaki kurallar
 ile bu sürece katılan kişilerin hak, yetki ve yükümlülüklerini düzenler.
-Tanımlar
 
 ### Bizim Yorumumuz
 

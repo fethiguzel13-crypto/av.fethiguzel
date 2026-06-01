@@ -26,7 +26,6 @@ hasar ve masrafı müşteriye ait olmak üzere taşınmaz, icra dairesi tarafın
 müddet içinde icra dairesinin müsaadesi olmaksızın tapuca hiç bir tescil yapılamaz. İcra
 dairesi satış bedelini temin için ayrıca teminat gösterilmesini isteyebilir.
 Sonradan tesis edilen taşınmaz mükellefiyetleri ve ipotekli ve mahcuz
-taşınmazların kiralanmasında hüküm:
 
 ### Akademik Yorum ve Analiz
 

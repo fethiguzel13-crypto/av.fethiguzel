@@ -51,7 +51,6 @@ maddesi ile birleştirilmek suretiyle üçüncü fıkra olarak düzenlenmiştir.
 muayenesinden geçirilerek sürücü belgesi almasına mâni hâli olmadığının anlaşılması halinde
 iade edilir. Bu madde kapsamında geri alınan sürücü belgeleri bu Kanun kapsamında verilen
 trafik idari para cezalarının tamamının tahsil edilmiş olması şartıyla iade edilir.
-Tanınma işaretleri:
 
 ### Bizim Yorumumuz
 

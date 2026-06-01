@@ -13,7 +13,6 @@ wordCount: 780
 
 Madde 265 -– Mukayyet değer, bir iktisadi kıymetin muhasebe kayıtlarında gösterilen
 hesap değeridir.
-İtibari değer:
 
 ### Akademik Yorum ve Analiz
 

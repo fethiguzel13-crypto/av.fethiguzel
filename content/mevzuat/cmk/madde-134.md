@@ -163,7 +163,6 @@ bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
 
 (9) Bu maddede belirlenen esas ve usuller dışında hiç kimse, bir başkasının
 telekomünikasyon yoluyla iletişimini dinleyemez ve kayda alamaz.
-Müdafiin bürosu ve yerleşim yeri
 
 ### Bizim Yorumumuz
 

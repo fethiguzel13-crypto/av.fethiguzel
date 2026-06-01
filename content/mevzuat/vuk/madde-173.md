@@ -25,7 +25,6 @@ b) (Değişik: 30/12/1980-2365/25 md.) Dernek ve vakıflara ait iktisadi işletm
 Yukardaki istisna hükümlerinin gelir veya kurumlar vergilerinden muaf olmakla
 beraber diğer vergilerden birine tabi olan ve bu vergileri götürü usulde tesbit edilmiyen
 mükelleflerin muaf olmadıkları vergiler için tutacakları defterlere şümulü yoktur.
-Hesap dönemi:
 
 ### Bizim Yorumumuz
 

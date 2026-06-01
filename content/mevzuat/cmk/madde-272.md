@@ -23,7 +23,6 @@ hükümlerine,
 c) Kanunlarda kesin olduğu yazılı bulunan hükümlere,
 Karşı istinaf yoluna başvurulamaz. (Ek cümle:14/4/2020-7242/17 md.) Bu suretle
 verilen hükümler tekerrüre esas olmaz.
-İstinaf istemi ve süresi
 
 ### Bizim Yorumumuz
 

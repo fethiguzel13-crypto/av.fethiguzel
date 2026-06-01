@@ -673,7 +673,6 @@ ruhsatı hükümsüz hale gelmiş olan parsellerdeki eksik kalan yapılar için;
 statik projesinde deprem güvenliği bakımından yapılması zorunlu olan değişiklikler hariç,
 yapı projelerinde herhangi bir değişiklik olmaksızın yapılacak yeniden ruhsat başvurularında,
 ruhsat başvurusunda bulunulan ilgili yapı maliklerinin tamamının muvafakati aranır.
-Yürürlük:
 
 ### Bizim Yorumumuz
 

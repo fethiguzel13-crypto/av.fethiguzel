@@ -22,7 +22,6 @@ kira sözleşmeleri hariç olmak üzere” ibaresi eklenmiştir.
 8
 
 dikkate alınarak Genel Müdürlükçe belirlenir.
-Uluslararası faaliyet
 
 ### Bizim Yorumumuz
 

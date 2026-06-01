@@ -24,9 +24,6 @@ hükümleri burada da uygulanır. Dava etmiyen taraf iddiasından vazgeçmiş sa
 Borçlunun nesep ve sebepten usul ve füruu, karı veya kocası, ikinci dereceye kadar
 kan ve sıhri hısımları ve iş ortakları ile borçluya tebaan mecurda oturdukları anlaşılan diğer
 şahıslar, bu madde hükmünün tatbikında üçüncü şahıs sayılmazlar.
-ONBİRİNCİ BAP
-İptal davası
-İptal davası ve davacılar:
 
 ### Bizim Yorumumuz
 

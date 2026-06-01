@@ -23,7 +23,6 @@ görevli en yakın mahkemeye gönderir. İtiraz incelemesi neticesinde verilen k
 Adli yardım talebi reddedilirse, ödeme gücünde sonradan gerçekleşen ciddi bir azalmaya
 dayanılarak tekrar talepte bulunulabilir.43
 (3) Adli yardım, daha önce yapılan yargılama giderlerini kapsamaz.
-Adli yardım kararının kaldırılması
 
 ### Bizim Yorumumuz
 

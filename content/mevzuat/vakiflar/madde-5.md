@@ -18,7 +18,6 @@ Müdürlüğe beyanda bulunmak şartıyla şube ve temsilcilik açabilirler. Bey
 düzenlenmesine ilişkin usûl ve esaslar yönetmelikle düzenlenir.
 Yabancılar, Türkiye’de, hukukî ve fiilî mütekabiliyet esasına göre yeni vakıf
 kurabilirler.
-Yönetim ve temsil şekli
 
 ### Bizim Yorumumuz
 

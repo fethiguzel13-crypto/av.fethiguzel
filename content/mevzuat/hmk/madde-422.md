@@ -28,7 +28,6 @@ sürülmelidir.
 sebebe dayandığı sonucuna varırsa, süresinde ileri sürülmeyen itirazı kabul edebilir.
 (5) Hakem veya hakem kurulu, yetkisizlik itirazını, ön sorun şeklinde inceler ve karara
 bağlar; yetkili olduğuna karar verirse, tahkim yargılamasını sürdürür ve davayı karara bağlar.
-Tarafların eşitliği ve hukuki dinlenilme hakkı
 
 ### Bizim Yorumumuz
 

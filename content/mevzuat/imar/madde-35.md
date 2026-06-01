@@ -17,7 +17,6 @@ metreden daha aşağıda teşekkül etmiş bulunan binalarla bu gibi arsaların 
 geçenlerin emniyetini temin etmek üzere, yol kenarına yönetmelikle belirtilen veya civarın
 karakterine göre ilgili idarece tespit edilen şekilde bahçe duvarı veya parmaklık yapmaya ve
 gereken emniyet tedbirlerini almaya mecburdurlar.
-Kapıcı daireleri ve sığınaklar:
 
 ### Bizim Yorumumuz
 

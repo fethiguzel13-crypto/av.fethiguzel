@@ -46,7 +46,6 @@ uyarınca tazminat ödenmesini gerektirir.
 ücretin hesabında 32 nci maddenin birinci fıkrasında yazılan ücrete ek olarak işçiye sağlanmış
 para veya para ile ölçülmesi mümkün sözleşme ve Kanundan doğan menfaatler de göz önünde
 tutulur.
-Feshin geçerli sebebe dayandırılması
 
 ### Akademik Yorum ve Analiz
 

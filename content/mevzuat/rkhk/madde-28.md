@@ -16,8 +16,6 @@ ve diğer hallerde İkinci Başkan tarafından yönetilir ve temsil edilir.
 bağlanacak gündemi toplantıdan önce belirleyerek Kurul üyelerine bildirir.
 Kurul üyeleri kendileri ve üçüncü dereceye kadar kan ve ikinci dereceye kadar sıhri
 hısımlarıyla ilgili olaylarda müzakere ve oylamaya katılamaz.
-İKİNCİ BÖLÜM
-Başkanlık
 
 ### Bizim Yorumumuz
 

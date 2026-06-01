@@ -16,7 +16,6 @@ yapma yetkisini kazanmış kişilerin sicilini tutar. Bu sicilde yer alan kişil
 Daire Başkanlığı tarafından elektronik ortamda da duyurulur.
 (2) Arabulucular sicilinin tutulmasına ilişkin usul ve esaslar Bakanlıkça hazırlanacak
 yönetmelikle düzenlenir.
-Arabulucular siciline kayıt şartları
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ taşıma işleri bu Kanunda yazılı hükümlere göre yürütülür.1
 Birinci fıkrada sayılan daire ve idarelere bağlı döner sermayeli kuruluşlar ile özel
 kanunlarla veya özel kanunların vermiş olduğu yetkiyle kurulmuş bulunan fonların yukarıda
 belirtilen işlerinin nasıl yapılacağı Cumhurbaşkanınca çıkarılacak yönetmelikte belirtilir.2
-İlkeler:
 
 ### Bizim Yorumumuz
 

@@ -28,7 +28,6 @@ yürürlüğe gireceği hüküm altına alınmıştır.
 başarılı olmak,
 d) Sınavın yapıldığı yılın Ocak ayının ilk günü itibariyle otuz yaşını doldurmamış olmak.
 Gerekli diğer şartlar Kurulca çıkarılacak sınav yönetmeliğinde belirlenir.
-Rekabet Uzmanlığı
 
 ### Bizim Yorumumuz
 

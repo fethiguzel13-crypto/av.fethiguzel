@@ -40,7 +40,6 @@ Banka, bankanın risk grubunda yer alan kişilere açtığı kredileri Kuruma d�
 raporlar.
 Sonradan bu madde hükümlerine aykırı hale gelen kredilerin en geç altı ay içinde
 tasfiye edilmesi zorunludur.
-Kredi açma
 
 ### Bizim Yorumumuz
 

@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 20 – (1) Yetkili olmayan hâkim veya mahkemece yapılan işlemler, sadece
 yetkisizlik nedeniyle hükümsüz sayılmaz.
-Gecikmesinde sakınca bulunan hâllerde yapılan işlemler
 
 ### Bizim Yorumumuz
 

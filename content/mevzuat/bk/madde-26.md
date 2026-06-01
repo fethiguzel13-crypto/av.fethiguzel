@@ -18,7 +18,6 @@ ettikleri ve bankacılık sistemini ya da bankanın emin bir şekilde çalışma
 düşürdükleri tespit edilen ve haklarında Cumhuriyet Başsavcılığına yazılı başvuruda bulunulan
 banka mensuplarının, imza yetkileri Kurul kararı ile geçici olarak kaldırılır. Bu kimseler, Kurulun
 izni olmadıkça imza yetkisini haiz personel olarak hiçbir bankada çalıştırılamazlar.3
-Yemin ve mal beyanı
 
 ### Bizim Yorumumuz
 

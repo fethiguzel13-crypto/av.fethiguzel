@@ -44,7 +44,6 @@ Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanununa tabidir.
 (6) Kurul meslek personeli, görevden ayrıldıktan sonra, son iki yılda incelemiş veya
 denetlemiş oldukları halka açık ortaklıklarda ve sermaye piyasası kurumlarında iki yıl
 boyunca görev alamazlar.
-Kurul Karar Organının görev ve yetkileri
 
 ### Bizim Yorumumuz
 

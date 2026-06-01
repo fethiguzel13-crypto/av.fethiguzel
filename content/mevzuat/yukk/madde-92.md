@@ -30,7 +30,6 @@ başvurusunda bulunmuş kişilere sınır kapıları da dâhil olmak üzere eri�
 sahibinin de kabul etmesi şartıyla, başvurusuyla ilgili bilgilere erişimi sağlanır. Birleşmiş
 Milletler Mülteciler Yüksek Komiserliği, başvurunun her aşamasında görüşlerini yetkililere
 iletebilir.
-Menşe ülke bilgisi
 
 ### Bizim Yorumumuz
 

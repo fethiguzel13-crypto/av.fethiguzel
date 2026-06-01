@@ -15,7 +15,6 @@ talebi ise temyiz usulüne göre yapılır ve incelenir.
 (2) Mahkeme, eski hâle getirme talebinin kabulü hâlinde, hangi işlemlerin geçersiz
 hâle geldiğini kararında belirtir. Islahla geçersiz kılınamayan işlemler, eski hâle getirme
 talebinden de etkilenmez.
-Giderler
 
 ### Bizim Yorumumuz
 

@@ -19,7 +19,6 @@ Tarh edilir.
 (Mülga ikinci fıkra:22/12/2021-7349/3 md.)
 (Mülga üçüncü fıkra:22/12/2021-7349/3 md.)
 Vergilendirme dönemi içinde işe başlıyan diğer ücret sahiplerinin vergi matrahı
-ve vergileri:135
 
 ### Bizim Yorumumuz
 

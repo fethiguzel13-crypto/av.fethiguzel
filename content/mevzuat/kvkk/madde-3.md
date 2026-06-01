@@ -32,9 +32,6 @@ kayıt sistemini,
 ı) Veri sorumlusu: Kişisel verilerin işleme amaçlarını ve vasıtalarını belirleyen, veri
 kayıt sisteminin kurulmasından ve yönetilmesinden sorumlu olan gerçek veya tüzel kişiyi,
 ifade eder.
-İKİNCİ BÖLÜM
-Kişisel Verilerin İşlenmesi
-Genel ilkeler
 
 ### Bizim Yorumumuz
 

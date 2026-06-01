@@ -31,8 +31,6 @@ değiştirilmesinde ve (B, C, Ç) fıkralarında yazılı hallerde ilgili vilaye
 (Mülga cümle: 2/3/2014-6529/16 md.)
 E) İllere, ilçelere, bucaklara, merkez yapılan şehir, kasaba veya köyün adı verilir. Şu
 Kadar ki, bunların coğrafi veya tarihi bir sanı varsa o da isim olarak verilebilir.
-BÖLÜM: II
-İl İdaresi
 
 ### Bizim Yorumumuz
 

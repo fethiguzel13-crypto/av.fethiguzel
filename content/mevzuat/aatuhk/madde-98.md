@@ -21,7 +21,6 @@ alacağını, gecikme zamları ile birlikte ödediği takdirde gayrimenkul kendi
 Ferağ masrafı borçluya aittir.
 Teferruğ kararı verilmeden evvel biçilen rayiç bedelin % 75 i veya fazlasiyle hariçten
 talip çıkarsa alacaklı amme idaresi teferruğdan vazgeçer.
-İhalenin neticesi fesih ve tescil:
 
 ### Bizim Yorumumuz
 

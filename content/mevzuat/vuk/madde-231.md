@@ -40,7 +40,6 @@ olarak değiştirilmiştir.
 maddenin 2 nci fıkrasının uygulandığı halleri kapsamaz.) Fatura düzenleyenin istemesi
 halinde müşteri kimliğini ve vergi dairesi hesap numarasını gösterir belgeyi ibraz etmek
 zorundadır.
-Fatura kullanma mecburiyeti:6263
 
 ### Bizim Yorumumuz
 

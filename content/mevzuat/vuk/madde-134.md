@@ -15,7 +15,6 @@ maksat, ödenmesi gereken vergilerin doğruluğunu araştırmak tespit etmek ve 
 dahil iktisadi kıymetlerin fiili envanterinin yapılmasına ve beyannamelerde gösterilmesi
 gereken unsurların tetkikına da teşmil edilebilir. Fiili envanterin yapılmasının gerektirdiği ve
 incelemeyi yapan tarafından tasdik edilen giderler Hazinece mükellefe ödenir.
-İncelemeye yetkililer:
 
 ### Bizim Yorumumuz
 

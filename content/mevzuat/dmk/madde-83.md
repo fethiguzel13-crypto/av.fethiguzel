@@ -21,7 +21,6 @@ ilerlemeleri ayrıca gözönünde bulundurulur. Askerlik öncesi kademe ilerleme
 geçen süre toplamının 3 yılı aşan kısmı usulü dairesinde üst dereceye terfi ettikleri zaman bu
 derecede kademe ilerlemesi yapılmak suretiyle değerlendirilir.
 Muvazzaf askerliğini yaptıktan sonra Devlet memurluğuna girenlerin kademe
-intibakları:
 
 ### Bizim Yorumumuz
 

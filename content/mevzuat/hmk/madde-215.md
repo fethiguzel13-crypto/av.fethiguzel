@@ -18,7 +18,6 @@ edenlerden birinin imza etmesine fiilen imkân kalmamışsa bu imkânı ortadan 
 meydana geldiği tarih üçüncü kişiler hakkında da hüküm ifade eder. Adi senette bahsedilen
 diğer senetlerin tarihleri, üçüncü kişiler hakkında ancak son senet tarihinin onaylanmış
 olduğunun kabul edildiği tarihte hüküm ifade eder.
-Mahkemece belge aslının istenmesi ve geri verilmesi
 
 ### Bizim Yorumumuz
 

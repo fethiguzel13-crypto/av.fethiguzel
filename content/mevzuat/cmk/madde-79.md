@@ -20,8 +20,6 @@ birimine mensup olan görevliler, bilirkişi olarak görevlendirilebilirler. Bu 
 yetkisiz üçüncü kişilerin bilgi edinmesini önlemekle yükümlüdürler. İncelenecek bulgu,
 bilirkişiye ilgilinin adı ve soyadı, adresi, doğum tarihi bildirilmeksizin verilir.
 
-Genetik inceleme sonuçlarının gizliliği
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

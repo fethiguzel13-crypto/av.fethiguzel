@@ -25,7 +25,6 @@ sahtecilik suçundan dolayı cezaya hükmedebilmek için, sahte belgenin kullan�
 (3) Yatırım kuruluşları ile bu Kanunun Üçüncü Kısmının Dördüncü Bölümünde yer
 alan kurumlar, 5237 sayılı Kanunun 244 üncü maddesinde tanımlanan sistemi engelleme,
 bozma, verileri yok etme veya değiştirme suçu açısından banka veya kredi kurumu sayılır.
-Sır saklama yükümlülüğü
 
 ### Bizim Yorumumuz
 

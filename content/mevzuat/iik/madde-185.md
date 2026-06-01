@@ -30,7 +30,6 @@ mühürlenen yerlerin, üzerinde rehin bulunmasa dahi, ilk alacaklılar toplanma
 uygun bulunması hâlinde iflâs idaresince derhâl satışı yapılır.
 (Ek fıkra: 9/11/1988-3494/38 md.) Bu maddeye göre yapılacak satışlar, 166 ncı
 maddenin ikinci fıkrasındaki usulle ilan edilir.
-İhtiyaten veya icraen haczedilen şeyler:
 
 ### Akademik Yorum ve Analiz
 

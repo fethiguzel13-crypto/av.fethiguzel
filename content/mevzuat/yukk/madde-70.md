@@ -15,7 +15,6 @@ bu yükümlülüklere uymaması ya da yetkililerle iş birliğinde bulunmaması 
 çıkabilecek muhtemel sonuçlar, itiraz usulleri ve süreleri konusunda kayıt esnasında bilgilendirilir.
 (2) Başvuru sahibinin talep etmesi hâlinde, başvuru, kayıt ve mülakat aşamalarındaki
 kişisel görüşmelerde tercümanlık hizmetleri sağlanır.
-İkamet zorunluluğu ve bildirim yükümlülüğü
 
 ### Bizim Yorumumuz
 

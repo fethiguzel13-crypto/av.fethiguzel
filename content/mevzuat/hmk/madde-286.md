@@ -15,7 +15,6 @@ yargı çevresi içinde yer aldığı bölge adliye mahkemesi hukuk dairesinde; 
 mahkemesince hükme esas alındığı hâllerde ise Yargıtay ilgili hukuk dairesinde görülür.
 (2) Devletin sorumlu bilirkişiye karşı açacağı rücu davası, tazminat davasını karara
 bağlamış olan mahkemede görülür.
-Rücu davasında zamanaşımı
 
 ### Bizim Yorumumuz
 

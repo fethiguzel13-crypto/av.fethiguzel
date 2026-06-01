@@ -31,7 +31,6 @@ gözetim merciidir. Kurul, merkezî saklama faaliyetlerine ilişkin olarak gerek
 hususların yerine getirilmesini, her türlü bilgi ve belgenin talebi üzerine veya düzenli olarak
 gönderilmesini merkezî saklama kuruluşları ile bu kuruluşların üyelerinden isteyebilir.
 (5) 44 üncü madde merkezî saklama kuruluşlarına da uygulanır.
-Merkezî Kayıt Kuruluşu
 
 ### Bizim Yorumumuz
 

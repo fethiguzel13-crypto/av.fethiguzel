@@ -14,7 +14,6 @@ veya yazı işleri müdürüne havale ettirildikten sonra, zabıt kâtibi taraf�
 (2) Dosyanın başka bir resmî mercie gönderilmesi gerektiğinde, hâkim resen veya
 talep üzerine dosyada yer alan bir belgenin aslı yerine onaylı bir örneğinin gönderilmesine
 karar verebilir.
-Dizi listesi
 
 ### Bizim Yorumumuz
 

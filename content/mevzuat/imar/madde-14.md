@@ -19,10 +19,6 @@ bedelsiz irtifak hakkı verme karşılığında, bedelsiz irtifak hakkı tesis e
 fıkranın (a) ve (b) bentlerine” ibaresi “bu madde hükümlerine” şeklinde değiştirilmiştir.
 16
 
-ÜÇÜNCÜ BÖLÜM
-Arazi ve Arsa Düzenleme Esasları17
-İfraz ve tevhid:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -16,7 +16,6 @@ tecrübeyle ya da hâkimlik mesleğinin gerektirdiği hukukî bilgiyle çözüml
 konularda bilirkişiye başvurulamaz. (Ek cümle: 3/11/2016-6754/49 md.) Hukuk öğrenimi
 görmüş kişiler, hukuk alanı dışında ayrı bir uzmanlığa sahip olduğunu belgelendirmedikçe,
 bilirkişi olarak görevlendirilemez.
-Bilirkişi sayısının belirlenmesi
 
 ### Bizim Yorumumuz
 

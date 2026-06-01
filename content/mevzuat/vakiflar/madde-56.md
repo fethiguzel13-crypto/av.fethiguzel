@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 MADDE 56 – (Mülga: 2/7/2018/KHK/703/102 md.)
 Dış İlişkiler Daire Başkanlığı
 MADDE 57 (Mülga: 2/7/2018/KHK/703/102 md.)
-Danışma ve denetim birimleri
 
 ### Bizim Yorumumuz
 

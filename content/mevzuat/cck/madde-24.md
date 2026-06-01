@@ -14,9 +14,6 @@ Madde 24- (Değişik: 6/12/2006-5560/41 md.)
 çocuklar bakımından da uygulanır.
 ÜÇÜNCÜ KISIM
 Mahkemeler ve Cumhuriyet Savcılığı
-BİRİNCİ BÖLÜM
-Mahkemelerin Kuruluş, Görev ve Yetkisi
-Mahkemelerin kuruluşu
 
 ### Bizim Yorumumuz
 

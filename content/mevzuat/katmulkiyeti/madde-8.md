@@ -17,8 +17,6 @@ Bir bağımsız bölümün paydaşlarından birinin kendi payını başkasına s
 öteki paydaşlar, öncelikle satınalma hakkını kullanabilirler.
 Sözleşmede bu maddenin aksine hüküm konulabilir.
 
-D) Genel hükümlerin uygulanma alanı:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

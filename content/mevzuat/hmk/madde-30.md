@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 30- (1) Hâkim, yargılamanın makul süre içinde ve düzenli bir biçimde
 yürütülmesini ve gereksiz gider yapılmamasını sağlamakla yükümlüdür.
-Hâkimin davayı aydınlatma ödevi
 
 ### Bizim Yorumumuz
 

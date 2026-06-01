@@ -21,7 +21,6 @@ kabulüne kadar görevine devam eder. Yerine atanan kimse bir aya kadar gelmedi�
 yerine bir vekil atanmadığı takdirde, üstüne haber vererek görevini bırakabilir.
 Olağanüstü mazeretle çekilenler, üstüne haber vermek şartiyle bir ay kaydına tabi
 değildirler.
-Çekilmede devir ve teslim süresi:
 
 ### Akademik Yorum ve Analiz
 

@@ -24,7 +24,6 @@ dürüstlük ve tarafsızlık ile yürüteceklerine, kanun hükümlerine aykır�
 ve ettirmeyeceklerine dair Yargıtay Birinci Başkanlık Kurulu huzurunda yemin ederler.
 Yemin için yapılan başvuru Yargıtay tarafından acele işlerden sayılır. Kurul üyeleri, yemin
 etmedikçe göreve başlayamazlar.
-Başkan ve üyelerin görev süreleri
 
 ### Bizim Yorumumuz
 

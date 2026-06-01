@@ -22,9 +22,6 @@ Gelire giren kazanç ve iratlar şunlardır:
 7. Diğer kazanç ve iratlar.
 Bu Kanunda aksine hüküm olmadıkça, yukarıda yazılı kazanç ve iratlar gelirin
 tespitinde gerçek ve safi miktarları ile nazara alınır.
-İKİNCİ BÖLÜM
-Tam Mükellefiyet
-Mükellefler:
 
 ### Akademik Yorum ve Analiz
 

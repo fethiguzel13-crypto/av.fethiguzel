@@ -14,7 +14,6 @@ MADDE 69 – (1) Borsa veya piyasa işleticisi, kendi düzenlemelerinde öngör�
 gibi kottan da çıkarabilir. Bu durum derhâl Kurula bildirilir ve kamuya açıklanır.
 (2) Kurulun, sermaye piyasası araçlarının borsada işlem görmesini durdurma ve borsa
 kotundan çıkarma yetkisi saklıdır.
-Uyuşmazlıkların çözümü ve borsa işlemlerinin gözetimi
 
 ### Bizim Yorumumuz
 

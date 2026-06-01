@@ -21,9 +21,6 @@ işlenen kasten yaralama, işkence veya eziyet suçlarında ve” şeklinde değ
 BİRİNCİ KISIM
 Gaiplerin ve Kaçakların Yargılanması, Tüzel Kişilerin Soruşturmada ve
 Kovuşturmada Temsili, Bazı Suçlara İlişkin Muhakeme Usulü
-BİRİNCİ BÖLÜM
-Gaiplerin Yargılanması
-Gaibin tanımı ve yapılabilecek işlemler
 
 ### Bizim Yorumumuz
 

@@ -21,8 +21,6 @@ neden olacağı mahkemece açıkça anlaşılırsa, mahkeme, hükümde tamamen v
 “iki hafta” şeklinde değiştirilmiştir.
 43
 
-Adli yardım kararıyla atanan avukatın ücretinin ödenmesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -20,7 +20,6 @@ b) Terekenin kesin paylaşımına kadar mirasçılara karşı açılacak tüm da
 yazımı ve tespiti zamanında mal nerede bulunuyorsa, orada da açılabilir.
 (3) Mirasçılık belgesinin iptali ve yeni mirasçılık belgesi verilmesine ilişkin davalarda,
 mirasçıların her birinin oturduğu yer mahkemesi de yetkilidir.
-Taşınmazın aynından doğan davalarda yetki
 
 ### Bizim Yorumumuz
 

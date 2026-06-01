@@ -15,9 +15,6 @@ mahaller dışına çıkaramazlar, hususi işlerinde kullanamazlar.
 Devlet memurları görevleri icabı kendilerine teslim edilen resmi belge, araç ve
 gereçleri görevleri sona erdiği zaman iade etmek zorundadırlar. Bu zorunluluk memurun
 mirasçılarına da şamildir.
-BÖLÜM: 3
-Genel Haklar
-Uygulamayı isteme hakkı:
 
 ### Bizim Yorumumuz
 

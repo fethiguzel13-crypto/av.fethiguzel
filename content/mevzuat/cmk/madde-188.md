@@ -21,7 +21,6 @@ olarak” ibaresinden sonra gelmek üzere “duruşmaya gelmemesi veya” ibares
 
 (3) Bir oturumda bitmeyecek davada, herhangi bir nedenle bulunamayacak üyenin
 yerine geçmek ve oya katılmak üzere yedek üye bulundurulabilir.
-Birden çok Cumhuriyet savcısı ve avukatın duruşmaya katılması
 
 ### Bizim Yorumumuz
 

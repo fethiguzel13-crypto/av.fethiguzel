@@ -48,7 +48,6 @@ sahip gerçek kişi ortaklarının bu maddenin birinci fıkrasının (a), (b), (
 bentlerinde yer alan şartları taşıması gerekir.
 Türkiye'nin taraf olduğu uluslararası anlaşmalarla kurulmuş çok taraflı kredi kuruluşları
 ve finansal kuruluşlar hakkında bu maddenin birinci fıkrasının (b) ve (c) bentleri uygulanmaz.
-Merkezi yurt dışında bulunan bankaların Türkiye'de şube açma şartları
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ nedeniyle muhafaza tedbirleri alınamaz ve rehinli malın satışı gerçekleşt
 işletme tarafından kullanılması öngörülmüyor veya kıymeti düşecek ya da muhafazası
 masraflı olacak ise 297 nci maddenin ikinci fıkrasındaki usule göre satışına izin verilebilir.
 Satış gelirinden rehinli alacaklıya rehin bedeli kadar ödeme yapılır.
-Kesin mühletin sözleşmeler bakımından sonuçları:98
 
 ### Bizim Yorumumuz
 

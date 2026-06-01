@@ -48,7 +48,6 @@ verme süresinin geçmesiyle dosya tekemmül etmiş sayılır. Davacının göst
 tebligat yapılamaması halinde, 6/1/1982 tarihli ve 2577 sayılı İdari Yargılama Usulü
 Kanununun 26 ncı maddesinin üçüncü fıkrasında öngörülen süre iki ay olarak uygulanır.
 Duruşma yapılması mahkemenin takdirine bağlıdır.
-Kısa dönem ikamet izninin şartları
 
 ### Bizim Yorumumuz
 

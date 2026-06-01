@@ -23,7 +23,6 @@ BEŞİNCİ BÖLÜM
 
 
 Büyükşehir Belediyesi Teşkilâtı ve Personeli
-Büyükşehir belediyesi teşkilâtı
 
 ### Bizim Yorumumuz
 

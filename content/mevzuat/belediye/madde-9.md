@@ -22,7 +22,6 @@ Belediye, mahallenin ve muhtarlığın ihtiyaçlarının karşılanması ve soru
 çözümü için bütçe imkânları ölçüsünde gerekli ayni yardım ve desteği sağlar; kararlarında
 mahallelinin ortak isteklerini göz önünde bulundurur ve hizmetlerin mahallenin ihtiyaçlarına
 uygun biçimde yürütülmesini sağlamaya çalışır.
-Belde adının değiştirilmesi
 
 ### Bizim Yorumumuz
 

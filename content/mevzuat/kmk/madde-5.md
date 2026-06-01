@@ -33,7 +33,6 @@ edilir. Soruşturma evresinde ihtar yapılmaması hâlinde kovuşturma evresinde
 tarafından sanığa ihtar yapılır.
 (3) (Ek:14/4/2020-7242/62 md.) İkinci fıkra hükmü, mükerrirler hakkında veya suçun
 bir örgütün faaliyeti çerçevesinde işlenmesi hâlinde uygulanmaz.
-Yolcu beraberinde getirilen kaçak eşya
 
 ### Bizim Yorumumuz
 

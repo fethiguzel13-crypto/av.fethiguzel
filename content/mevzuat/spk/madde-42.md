@@ -20,9 +20,6 @@ olmasın Kurulun yazılı şeklin yerine geçebileceğini belirlediği ve bir bi
 haberleşme cihazı üzerinden gerçekleştirilecek ve müşteri kimliğinin doğrulanmasına imkân
 verecek yöntemler yoluyla kurulacak sözleşmeler ile düzenlenir ve buna ilişkin usul ve esaslar
 Kurul tarafından belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Yatırım Kuruluşları
-Kuruluş şartları
 
 ### Bizim Yorumumuz
 

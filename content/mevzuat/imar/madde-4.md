@@ -32,7 +32,6 @@ alınmıştır.
 1
 
 ile Çevre ve Şehircilik Bakanlığı tarafından müştereken belirlenir.
-Tanımlar:
 
 ### Bizim Yorumumuz
 

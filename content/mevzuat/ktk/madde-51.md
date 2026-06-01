@@ -65,7 +65,6 @@ Bu cihazları imal ve ithal edenlere fiil başka bir suç oluştursa bile ayrıc
 lirası, cihazları araçlarında bulunduran işletene ise 185.000 Türk lirası idari para cezası
 uygulanır. Ayrıca bu cihazlara mülki amir tarafından el konulur ve mülki amir tarafından
 mülkiyetinin kamuya geçirilmesine karar verilir.
-Hızın gerekli şartlara uygunluğunu sağlamak:
 
 ### Bizim Yorumumuz
 

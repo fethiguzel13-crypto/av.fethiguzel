@@ -31,7 +31,6 @@ Yardımcısı veya bunların tevkil edeceği kimselerle Türkiye Ticaret Odalar�
 ve Ticaret Borsaları Birliğinin iki temsilcisinden kurulur
 89 uncu maddedeki nisap hükmü, Ortalama Kar Hadleri Merkez Komisyonu hakkında
 da uygulanır.
-Uygulama süresi:
 
 ### Bizim Yorumumuz
 

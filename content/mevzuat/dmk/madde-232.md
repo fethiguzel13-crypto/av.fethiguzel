@@ -21,7 +21,6 @@ hakkındaki 101 inci, fazla çalışma ücreti hakkındaki 178 inci,
 Görevden uzaklaştırmaya yetkilileri sayan 138 inci,
 maddeleri hükümleri uygulanmaz.
 Türk Silahlı Kuvvetlerinde çalışan memurlara uygulanmaya devam olunacak
-hükümler:
 
 ### Bizim Yorumumuz
 

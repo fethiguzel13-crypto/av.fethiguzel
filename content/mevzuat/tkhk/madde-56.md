@@ -23,7 +23,6 @@ azami sürenin aşılması veya tamirinin mümkün bulunmadığının anlaşılm
 Bu talebin yerine getirilmemesi durumunda satıcı, üretici ve ithalatçı müteselsilen sorumludur.
 (4) Hangi malların garanti belgesi ile satılmak zorunda olduğu ile diğer uygulama usul
 ve esasları yönetmelikle belirlenir.
-İhtiyari garanti
 
 ### Bizim Yorumumuz
 

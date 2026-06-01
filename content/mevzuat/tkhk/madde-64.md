@@ -18,7 +18,6 @@ az bir kez Bakanlığın koordinatörlüğünde Tüketici Konseyi toplanır.
 hiçbir şekilde Konseyin toplam üye sayısının yüzde ellisinden fazla olamaz.
 (3) Tüketici Konseyinin üyeleri, çalışma usul ve esasları ile diğer hususlar yönetmelikle
 belirlenir.
-Reklam Konseyi
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ gerektirmesi hâlinde, Kurulca belirlenen tarifedeki ücret alınabilir.
 cevabını ilgili kişiye yazılı olarak veya elektronik ortamda bildirir. Başvuruda yer alan talebin
 kabul edilmesi hâlinde veri sorumlusunca gereği yerine getirilir. Başvurunun veri
 sorumlusunun hatasından kaynaklanması hâlinde alınan ücret ilgiliye iade edilir.
-Kurula şikâyet
 
 ### Bizim Yorumumuz
 

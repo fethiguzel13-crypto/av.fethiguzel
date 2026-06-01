@@ -38,7 +38,6 @@ ettiği her türlü haksız kazanımın transferi sonucu elde edilen, kan ve kay
 emri ile el konulur.
 g) El koyma kararı yirmidört saat içinde yetkili ve görevli sulh ceza hâkiminin onayına
 sunulur. Hâkim kırksekiz saat içinde kararını açıklar. Aksi halde el koyma hükümsüz kalır.
-İnfaz
 
 ### Bizim Yorumumuz
 

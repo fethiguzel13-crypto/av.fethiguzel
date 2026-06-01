@@ -35,7 +35,6 @@ Belediyeler veya valilikler mahallin ve çevrenin özelliklerine göre yapılar 
 uyum sağlamak, güzel bir görünüm elde etmek amacıyla dış cephe boya ve kaplamaları ile
 çatının malzemesini ve rengini tayin etmeye yetkilidir. Bu Kanunun yürürlüğe girmesinden
 önce yapılmış olan yapılar da bu hükme tabidir.
-Ruhsat alma şartları:
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ değiştirilmiştir.
 (2) Adres ve numaralamaya ilişkin yönetmelik ise doksan gün içerisinde Bakanlık,
 Türkiye İstatistik Kurumu ve Türk Standartları Enstitüsü Kurumu tarafından müştereken
 hazırlanarak yürürlüğe konulur.
-Kadrolar
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ Kurul Başkanı Kurumun en üst amiri olup, Kurumun genel yönetim ve temsilinde
 sorumludur.
 Bu sorumluluk, Kurumun çalışmalarının genel çerçevede düzenlenmesi, denetlenmesi,
 değerlendirilmesi ve gerektiğinde kamuya duyurulması görev ve yetkilerini kapsar.
-Başkanlığın Görev ve Yetkileri
 
 ### Bizim Yorumumuz
 

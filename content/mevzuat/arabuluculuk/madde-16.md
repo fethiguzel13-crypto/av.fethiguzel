@@ -19,7 +19,6 @@ olarak beyan ettikleri ya da duruşmada bu beyanlarının tutanağa geçirildiğ
 işlemeye başlar.
 (2) Arabuluculuk sürecinin başlamasından sona ermesine kadar geçirilen süre,
 zamanaşımı ve hak düşürücü sürelerin hesaplanmasında dikkate alınmaz.
-Arabuluculuğun sona ermesi
 
 ### Bizim Yorumumuz
 

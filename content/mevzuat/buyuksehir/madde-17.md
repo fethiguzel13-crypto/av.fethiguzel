@@ -18,7 +18,6 @@ vekili olamaz.
 Büyükşehir ve ilçe belediye başkanları görevlerinin devamı süresince siyasi partilerin
 yönetim ve denetim organlarında görev alamaz; profesyonel spor klüplerinin başkanlığını
 yapamaz ve yönetiminde bulunamaz.25
-Büyükşehir belediye başkanının görev ve yetkileri
 
 ### Bizim Yorumumuz
 

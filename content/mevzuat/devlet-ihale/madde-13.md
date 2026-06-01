@@ -23,7 +23,6 @@ Maliye Bakanlığınca belirlenecek usule göre tespit edilir.
 encümenince bu Kanun hükümlerine güre yürütülür.
 Komisyonlara yardımcı olmak üzere, ihale kararlarına katılmamak şartı ile gereği
 kadar memur ve uzman da görevlendirilebilir.
-Komisyonların çalışması:
 
 ### Bizim Yorumumuz
 

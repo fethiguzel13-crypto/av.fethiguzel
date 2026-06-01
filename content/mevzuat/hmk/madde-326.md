@@ -15,7 +15,6 @@ hüküm verilen taraftan alınmasına karar verilir.
 tarafların haklılık oranına göre paylaştırır.3940
 (3) Aleyhine hüküm verilenler birden fazla ise mahkeme yargılama giderlerini, bunlar
 arasında paylaştırabileceği gibi, müteselsilen sorumlu tutulmalarına da karar verebilir.
-Dürüstlük kuralına aykırılık sebebiyle yargılama giderlerinden sorumluluk
 
 ### Bizim Yorumumuz
 

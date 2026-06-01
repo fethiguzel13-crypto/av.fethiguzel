@@ -17,7 +17,6 @@ bakımından uyarılırlar ve bu husus tutanağa yazılır.
 saygınlık, onur ve haklarına dokunacak veya suç işlemeye kışkırtacak nitelikte ise; mahkeme,
 bunları önlemek amacı ile ve gerektiği ölçüde duruşmanın içeriğinin kısmen veya tamamen
 yayımlanmasını yasaklar ve kararını açık duruşmada açıklar.
-Duruşmada hazır bulunacaklar
 
 ### Bizim Yorumumuz
 

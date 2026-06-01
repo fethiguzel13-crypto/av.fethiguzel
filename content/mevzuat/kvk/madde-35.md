@@ -15,7 +15,6 @@ kurumlar vergisi bakımından geçersizdir.
 bu Kanun, Gelir Vergisi Kanunu ve Vergi Usul Kanununa hüküm eklenmek veya bu
 kanunlarda değişiklik yapılmak suretiyle düzenlenir.
 (3) Uluslararası anlaşma hükümleri saklıdır.
-Yürürlükten kaldırılan hükümler
 
 ### Bizim Yorumumuz
 

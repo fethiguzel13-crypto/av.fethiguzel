@@ -29,9 +29,6 @@ iştirak edilmemesi karşılığında elde edilen diğer kazanç ve iratlarda ö
 yapıldığı,
 f) Diğer hallerde Maliye Bakanlığınca belirlenen,
 yerin vergi dairesine verilir.
-DÖRDÜNCÜ BÖLÜM
-Verginin Tarhı ve Ödenmesi
-Tarhiyatın muhatabı, tarh zamanı ve tarh yeri
 
 ### Bizim Yorumumuz
 

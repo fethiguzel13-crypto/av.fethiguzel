@@ -16,7 +16,6 @@ Madde 284 – (Değişik: 18/2/1965-538/119 md.)
 Konkordato ile Sermaye Şirketleri ve Kooperatiflerin
 Uzlaşma Yoluyla Yeniden Yapılandırılması8384
 I. ADÎ KONKORDATO85
-Konkordato talebi:
 
 ### Bizim Yorumumuz
 

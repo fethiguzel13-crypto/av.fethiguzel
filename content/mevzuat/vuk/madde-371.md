@@ -37,7 +37,6 @@ onbeş gün içinde ödenmesi.
 Bu madde hükümleri, emlak vergisi ile ilgili olarak uygulanmaz.
 (Ek fıkra:14/10/2021-7338/42 md.) Hazine ve Maliye Bakanlığı maddenin
 uygulamasına ilişkin usul ve esasları belirlemeye yetkilidir.
-Ölüm:
 
 ### Akademik Yorum ve Analiz
 

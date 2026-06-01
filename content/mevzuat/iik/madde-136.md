@@ -16,7 +16,6 @@ Taşınmaz malların satışına ilişkin hükümler, bayrağı dikkate alınmak
 siciline kayıtlı bütün gemiler hakkında da uygulanır. Bu hükümlerde geçen “tapu sicili” terimi
 gemi sicilini, “ipotek” terimi gemi ipoteklerini ve “irtifak hakkı” terimi sicile kayıtlı gemiler
 üzerindeki intifa hakkını ifade eder.
-Aile yurtları:
 
 ### Akademik Yorum ve Analiz
 

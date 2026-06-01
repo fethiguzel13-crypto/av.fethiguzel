@@ -20,7 +20,6 @@ yapılması zorunlu olan giderler de birinci fıkrada yazılı makamlarca ödeni
 
 
 Askerlik hizmetini yapmakta iken vefat eden erbaş ve erlerin mezarlarının yapım
-giderleri, birinci fıkra hükümlerine göre ayrıca ödenir.
 
 ### Bizim Yorumumuz
 

@@ -64,7 +64,6 @@ ticari sırları, görevlerinden ayrılmış olsalar bile kanunen yetkili kılı
 açıklayamazlar, kendilerinin veya başkalarının menfaatine kullanamazlar.
 Kurul Başkan ve üyeleri 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve
 Yolsuzluklarla Mücadele Kanununa tâbidir.
-Kurulun çalışma esasları
 
 ### Bizim Yorumumuz
 

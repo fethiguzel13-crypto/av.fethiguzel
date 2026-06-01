@@ -15,7 +15,6 @@ veya kendisiyle birlikte oturmakta olan bir kişi veya komşusu hazır bulunduru
 (2) 117 nci maddenin birinci fıkrasında gösterilen hâllerde zilyet ve bulunmazsa yerine
 çağrılacak kişiye, aramaya başlamadan önce aramanın amacı hakkında bilgi verilir.
 (3) Kişinin avukatının aramada hazır bulunmasına engel olunamaz.
-Arama sonunda verilecek belge
 
 ### Bizim Yorumumuz
 

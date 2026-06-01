@@ -17,7 +17,6 @@ idareler arasında taşınmaz malların devir işlemlerini, karşılıklı hak v
 bunlara dayalı uyuşmazlıkların çözüm usul ve yöntemlerini düzenler.
 Özel kanunlarına dayanılarak gerçek ve özel hukuk tüzelkişileri adına yapılacak
 kamulaştırmalarda da, bu Kanun hükümleri uygulanır.
-Tanımlar
 
 ### Bizim Yorumumuz
 

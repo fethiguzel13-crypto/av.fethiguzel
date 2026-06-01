@@ -42,7 +42,6 @@ suretiyle Merkez Bankasınca tespit edilecek vade ve türlerine göre tasnif etm
 ve gerçek kişilere ait katılım fonunu diğer hesaplardan ayırmak zorundadırlar.
 2499 sayılı Sermaye Piyasası Kanunu hükümlerine göre ihraç edilen sermaye piyasası
 araçları hakkında bu madde hükümleri uygulanmaz.
-Mevduatın ve katılım fonunun çekilmesi
 
 ### Bizim Yorumumuz
 

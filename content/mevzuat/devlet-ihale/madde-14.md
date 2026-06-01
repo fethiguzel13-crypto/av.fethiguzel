@@ -26,7 +26,6 @@ ve şartların bulunduğu anlaşıldığı takdirde, komisyonlar ilgili idareye 
 düzelttirmek üzere ihaleyi erteler. Bu durumda ihale, yeniden düzenlenecek şartnameye ve 19
 uncu madde uyarınca yapılacak ilana göre göre yürütülür.
 (Son fıkra Mülga: 2/3/1984 - 2990/5 md.)
-İsteklilerde aranacak nitelikler ve istenecek belgeler:
 
 ### Bizim Yorumumuz
 

@@ -20,9 +20,6 @@ belli yol süresi sonunda yeni görevlerine başlamıyanlara, eski görevlerinde
 görevlerine başlayış tarihleri arasında aylık verilmemek şartı ile 10 günlük bir süre daha
 verilebilir. Belge ile isbatı mümkün zorlayıcı sebepler olmaksızın bu süre sonunda da yeni
 görevlerinde işe başlamıyanlar memuriyetten çekilmiş sayılırlar.
-BÖLÜM : 2
-Devlet Memurluğunda İlerleme ve Yükselmeler
-Kademe ve kademe ilerlemesi:140
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ Bütçe Komisyonuna bilgi verir.
 olarak güncellenmek suretiyle Kurulun internet sayfasında yayınlanır.
 (4) Kurulca hazırlanacak süreli raporların biçim ve içerikleri ile usul ve esasları
 Kurulca belirlenir.
-Kurulun bütçesi, harcama ve işlemlerinin denetimi22
 
 ### Bizim Yorumumuz
 

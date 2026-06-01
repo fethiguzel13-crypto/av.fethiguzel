@@ -18,10 +18,6 @@ mahkeme varsa seçtiği mahkemeyi bildirir. Aksi takdirde yetki itirazı dikkate
 (3) Mahkeme, yetkisizlik kararında yetkili mahkemeyi de gösterir.
 (4) Yetkinin kesin olmadığı davalarda, davalı, süresi içinde ve usulüne uygun olarak
 yetki itirazında bulunmazsa, davanın açıldığı mahkeme yetkili hâle gelir.
-ÜÇÜNCÜ AYIRIM
-Görevsizlik veya Yetkisizlik Kararı Üzerine Yapılacak İşlemler ve
-Yargı Yeri Belirlenmesi
-Görevsizlik veya yetkisizlik kararı üzerine yapılacak işlemler
 
 ### Bizim Yorumumuz
 

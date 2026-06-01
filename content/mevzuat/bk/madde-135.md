@@ -79,7 +79,6 @@ Bu Kanunun yürürlüğe girdiği tarihten önce gerçekleştirilen fiiller nede
 madde hükümlerine göre Fon tarafından ödeme yapılmasına veya yapılacak olmasına
 sebebiyet veren kişiler ile bunların eş ve çocuklarına ait her türlü mal, hak ve alacaklar
 hakkında da bu madde hükümleri uygulanır.
-Fon alacaklarının yasal teminatı
 
 ### Bizim Yorumumuz
 

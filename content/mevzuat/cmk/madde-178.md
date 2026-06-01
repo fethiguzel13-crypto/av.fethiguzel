@@ -13,7 +13,6 @@ Madde 178 – (1) Mahkeme başkanı veya hâkim, sanığın veya katılanın gö
 tanık veya uzman kişinin çağrılması hakkındaki dilekçeyi reddettiğinde, sanık veya katılan o
 kişileri mahkemeye getirebilir. Bu kişiler duruşmada dinlenir. (Ek cümle: 3/10/2016-KHK676/4 md.; Aynen kabul: 1/2/2018-7070/4 md.) Ancak, davayı uzatmak amacıyla yapılan
 talepler reddedilir.
-Çağrılan tanıkların ad ve adreslerinin sanığa ve Cumhuriyet savcısına bildirilmesi
 
 ### Bizim Yorumumuz
 

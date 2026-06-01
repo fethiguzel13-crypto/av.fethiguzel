@@ -49,7 +49,6 @@ kayıtlı sermayeyi aşamaz.
 Kurulca çıkarılma ve şarta bağlı sermaye artırımı usul ve esasları Kurulca belirlenir. Daha
 önce 6102 sayılı Kanun uyarınca bu sisteme geçmiş olup da sonradan halka açık hâle gelen
 ortaklıklar da bu fıkra hükmüne tabidir.
-Kâr payı ve bedelsiz pay dağıtımı ile bağış yapılması
 
 ### Bizim Yorumumuz
 

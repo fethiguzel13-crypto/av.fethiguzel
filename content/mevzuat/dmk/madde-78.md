@@ -17,7 +17,6 @@ b) Dış burslara dayanılarak gönderilenlere,
 İki yıla kadar ayrılma müsaadesi verilebilir.
 Gerekirse bu süre en çok bir kat uzatılabilir.
 Bilgilerini artırmak için yabancı memlekete gönderilenlerin hak ve
-yükümlülükleri:
 
 ### Bizim Yorumumuz
 

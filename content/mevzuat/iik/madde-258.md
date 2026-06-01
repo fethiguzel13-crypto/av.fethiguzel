@@ -18,7 +18,6 @@ Mahkeme iki tarafı dinleyip dinlememekte serbesttir.
 başvurulabilir. Yüzüne karşı aleyhinde ihtiyati haciz kararı verilen taraf da istinaf yoluna
 başvurabilir. Bölge adliye mahkemesi bu başvuruları öncelikle inceler ve verdiği karar
 kesindir.
-İhtiyati hacizde teminat:
 
 ### Bizim Yorumumuz
 

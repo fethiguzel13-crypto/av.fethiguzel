@@ -22,7 +22,6 @@ veya kıymeti olur.
 Birleştirilen parçalardan bir kısmının vergide kayıtlı gayrısafi irat veya kıymeti
 bulunmadığı hallerde yalnız bu parça veya hisselere gayrısafi irat veya kıymet takdir olunarak
 yukarıki fıkra gereğince işlem yapılır.
-Yüz ölçümü fazla veya noksan tesbit edilen arazi:
 
 ### Bizim Yorumumuz
 

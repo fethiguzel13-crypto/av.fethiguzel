@@ -28,7 +28,6 @@ sonra, anagayrimenkulün leh ve aleyhine tesis edilecek irtifak hakları da anag
 tapu kütüğü sayfasına tescil edilir ve kat mülkiyeti kütüğünün beyanlar hanesinde belirtilir.
 Kat mülkiyeti kütüğüne tescil edilen her bağımsız bölüm ayrı bir gayrimenkul niteliğini kazanır ve kütükte o bölümün tasdikli planındaki numarayı alır.
 (Değişik: 13/4/1983-2814/5 md.) Kat malikine, anagayrimenkulun çaplı tasarruf belgesinden başka, istem halinde, 12 nci maddenin (a) bendinde belirtilen projeden kendi bağımsız bölümüne ait olan kısmının tasdikli bir örneği de verilir.
-D) Kat irtifakının kurulması:
 
 ### Bizim Yorumumuz
 

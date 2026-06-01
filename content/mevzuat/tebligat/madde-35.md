@@ -27,7 +27,6 @@ kayıt sisteminden de yerleşim yeri adresi tespit edilemezse, bu kişinin yurt 
 tebligat yapılan adresine Türkiye Büyükelçiliği veya Konsolosluğunca 25/a maddesine göre
 gönderilen bildirimin adrese ulaştığının belgelendiği tarihten itibaren otuz gün sonra tebligat
 yapılmış sayılır.
-Celse esnasında veya kalemde tebligat:13
 
 ### Bizim Yorumumuz
 

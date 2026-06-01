@@ -14,9 +14,6 @@ Bakanlığının görüşü alınarak, Maliye Bakanlığınca çıkarılacak bir
 olunacak esas ve şartlara göre, Maliye Bakanlığınca kiraya verilebilir.
 Vakıflara ait özel hükümler saklıdır.
 
-
-Tarihi ve bedii değeri olmayan taşınmaz mallarla ilgili işlemler:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

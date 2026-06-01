@@ -19,7 +19,6 @@ olunan mahkemede hazır bulunabilir ve delillerle ilgili açıklama haklarını 
 hususu sağlamak için, taraflara incelemenin yapılacağı tarih ve yer bildirilir. Bu davet üzerine
 taraflar istinabe olunan mahkemede hazır bulunmasalar dahi deliller incelenir veya beyanlar
 dinlenir.
-Delillerin değerlendirilmesi
 
 ### Bizim Yorumumuz
 

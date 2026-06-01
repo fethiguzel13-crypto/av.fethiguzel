@@ -17,7 +17,6 @@ içinde aranmayanlar zamanaşımına tâbidir.
 tarafından hak sahibine ulaşılamaması hâlinde, yapılacak ilânı müteakiben Fona gelir
 kaydedilir.
 Bu maddenin uygulanması ile ilgili usûl ve esaslar Kurulca belirlenir.
-Mevduatın ve katılım fonunun sigortalanması
 
 ### Bizim Yorumumuz
 

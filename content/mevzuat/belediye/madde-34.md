@@ -23,7 +23,6 @@ g) Taşınmaz mal satımına, trampasına ve tahsisine ilişkin meclis kararlar�
 süresi üç yılı geçmemek üzere kiralanmasına karar vermek.
 h) Umuma açık yerlerin açılış ve kapanış saatlerini belirlemek.
 i) Diğer kanunlarda belediye encümenine verilen görevleri yerine getirmek.
-Encümen toplantısı
 
 ### Bizim Yorumumuz
 

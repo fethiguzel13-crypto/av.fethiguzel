@@ -16,7 +16,6 @@ denetim sistemi kurmak ve işletmekle yükümlüdürler.
 İç kontrol, risk yönetimi ve iç denetim sistemlerinin kuruluşuna, işleyişine, yeterliliğine,
 oluşturulacak birimlere, icra edilecek faaliyetlere, üst yönetimin görev ve sorumlulukları ile
 Kuruma yapılacak raporlamalara ilişkin usûl ve esaslar Kurulca belirlenir.
-İç kontrol sistemi
 
 ### Bizim Yorumumuz
 

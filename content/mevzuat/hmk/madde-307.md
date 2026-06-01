@@ -17,8 +17,6 @@ usulü” iken metne işlendiği şekilde değiştirilmiş, birinci fıkraya “
 üzere “veya tamamlama” ibareleri eklenmiştir.
 35
 
-Davayı kabul
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

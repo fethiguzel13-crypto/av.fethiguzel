@@ -58,7 +58,6 @@ s) Belediye başkanıyla encümen arasındaki anlaşmazlıkları karara bağlama
 t) Mücavir alanlara belediye hizmetlerinin götürülmesine karar vermek.
 u) İmar plânlarına uygun şekilde hazırlanmış belediye imar programlarını görüşerek
 kabul etmek.
-Başkanlık divanı
 
 ### Bizim Yorumumuz
 

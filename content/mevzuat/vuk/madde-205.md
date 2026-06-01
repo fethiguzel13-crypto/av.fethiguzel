@@ -15,7 +15,6 @@ Madde 205 – Damga Resmi Kanununa göre yolcu bilet ücretleri, sigorta primler
 mecburdurlar.
 Tüccarlar bu kayıtları muhasebe defterlerinde tuttukları hesaplarda gösterebilirler.
 Kayıtların muhasebe defterinde gösterilmemesi halinde ayrı bir "Damga Resmi defteri"
-tutulur. Devlet müesseselerinin resmi defter ve kayıtları Damga Resmi defteri yerine geçer.54
 
 ### Bizim Yorumumuz
 

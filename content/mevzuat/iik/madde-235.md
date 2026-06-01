@@ -25,7 +25,6 @@ verilir ve artanı da diğer alacaklılara sıra cetveline göre dağıtılır. 
 ile görülür.
 Ancak, itiraz alacağın esas veya miktarına taallük etmeyip yalnız sıraya dair ise
 şikayet yoliyle icra mahkemesine arz olunur.
-Geç kalan müracaatlar:
 
 ### Bizim Yorumumuz
 

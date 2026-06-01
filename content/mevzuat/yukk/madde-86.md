@@ -18,7 +18,6 @@ statüsü iptal edilir.
 (2) Maddi gerekçelerini ve hukuki dayanaklarını içeren iptal kararı, ilgiliye veya yasal
 temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir avukat tarafından temsil edilmiyorsa
 kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi bilgilendirilir.
-Gönüllü geri dönüş desteği
 
 ### Bizim Yorumumuz
 

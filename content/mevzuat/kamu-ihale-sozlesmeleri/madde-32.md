@@ -17,7 +17,6 @@ hizmetinin sunulduğu durumda ise yapım işini üstlenen yüklenici ve alt yük
 onbeş yıl süre ile müteselsilen sorumludur.
 Bu zarar ve ziyan genel hükümlere göre hizmet sunucusuna ikmal ve tazmin ettirilir.
 Ayrıca haklarında 27 nci madde hükümleri uygulanır.
-Tedarikçilerin sorumluluğu
 
 ### Bizim Yorumumuz
 

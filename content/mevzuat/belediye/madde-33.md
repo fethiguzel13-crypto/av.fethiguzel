@@ -24,7 +24,6 @@ Belediye başkanının katılamadığı toplantılarda, belediye başkanının g
 başkan yardımcısı veya encümen üyesi, encümene başkanlık eder.
 Encümen toplantılarına gündemdeki konularla ilgili olarak ilgili birim amirleri,
 belediye başkanı tarafından oy hakkı olmaksızın görüşleri alınmak üzere çağrılabilir.
-Encümenin görev ve yetkileri
 
 ### Bizim Yorumumuz
 

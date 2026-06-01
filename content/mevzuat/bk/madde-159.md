@@ -18,7 +18,6 @@ Yukarıdaki fıkrada belirtilen kimseler sırları kendileri ya da başkaları i
 sağlamak amacıyla açıklamış olursa verilecek cezalar altıda bir oranında artırılır. Ayrıca, fiilin
 önemine göre sorumluların bu Kanun kapsamına giren kuruluşlarda görev yapmaları, iki
 yıldan aşağı olmamak üzere geçici veya sürekli olarak yasaklanır.
-Zimmet
 
 ### Bizim Yorumumuz
 

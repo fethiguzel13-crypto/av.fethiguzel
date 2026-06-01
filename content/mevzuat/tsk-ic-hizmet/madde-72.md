@@ -17,7 +17,6 @@ bulunmayan yerlerde hasta hayvanların muayene ve tedavisi sırasıyla; bölgede
 hayvan klinikleri, kamu veya üniversite veteriner hekimleri veya hayvan hastaneleri
 tarafından yapılır. Bu da yoksa muayene ve tedavi hizmeti temin edilebilir. Bunların yem,
 tedavi, yer ve malzeme giderleri ilgisine göre Millî Savunma Bakanlığı, Jandarma Genel
-Komutanlığı veya Sahil Güvenlik Komutanlığı bütçelerinden karşılanır.
 
 ### Bizim Yorumumuz
 

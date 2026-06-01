@@ -16,9 +16,6 @@ yeterliliklerin izin başvurusu esnasında ya da değerlendirme sürecinde sağl
 kaybedilmesi hâlinde Kurulca reddedilir. Ret kararları ilgililere gerekçeli olarak bildirilir.
 ÜÇÜNCÜ KISIM
 Kurumsal Yönetim
-BİRİNCİ BÖLÜM
-Yönetim
-Kurumsal yönetim ilkeleri
 
 ### Bizim Yorumumuz
 

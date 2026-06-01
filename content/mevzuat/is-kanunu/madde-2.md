@@ -73,7 +73,6 @@ kuruluşları ve ortaklıklarına bırakılması,
 b) Hizmet alım sözleşmeleri çerçevesinde ya da geçici işçi olarak aynı iş yerinde daha
 önce çalışmış olanların çalıştırılmasına devam olunması,
 yönünde hükümler konulamaz.
-İşyerini bildirme
 
 ### Akademik Yorum ve Analiz
 

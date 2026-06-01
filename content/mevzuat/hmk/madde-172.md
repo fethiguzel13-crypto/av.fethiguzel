@@ -15,7 +15,6 @@ anda ses ve görüntü nakledilmesi yolu ile isticvap olunması mümkün değil 
 ile isticvap olunur.
 (2) İsticvap olunacak kimse hastalık, engellilik veya benzeri sebeplerle mahkemeye
 bizzat gelemeyecek durumda ise bulunduğu yerde isticvap olunur.19
-İsticvabın yapılması
 
 ### Bizim Yorumumuz
 

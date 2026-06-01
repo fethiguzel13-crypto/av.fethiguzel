@@ -21,7 +21,6 @@ herhangi bir görev veya işe başlayıncaya kadar, almakta oldukları her türl
 tarafından verilmeye devam edilir. Bu maddede belirtilen nedenlerle üyeliği sona erenlere Fon
 tarafından yapılacak ödeme iki yılı geçemez.55
 Fon Kurulu üyeleri, Fon personeli, Fonun atadığı veya Fonu temsilen seçilen
-yöneticilerin, iflas idare memurlarının ve Fon personelinin sorumlulukları
 
 ### Bizim Yorumumuz
 

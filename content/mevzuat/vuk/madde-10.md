@@ -36,7 +36,6 @@ tarihinden önceki dönemlere ilişkin her türlü vergi tarhiyatı ve ceza kesm
 müteselsilen sorumlu olmak üzere, tüzel kişiliği olanların kanuni temsilcilerinden, tüzel
 kişiliği olmayan teşekküllerde ise bunları idare edenler (adi ortaklıklarda ortaklardan herhangi
 biri) ve varsa bunların temsilcilerinden herhangi biri adına yapılır.
-Vergi kesenlerin sorumluluğu:
 
 ### Bizim Yorumumuz
 

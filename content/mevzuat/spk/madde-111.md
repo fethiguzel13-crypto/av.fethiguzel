@@ -17,7 +17,6 @@ kişi bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.
 engelleyen kişi altı aydan iki yıla kadar hapis cezası ile cezalandırılır. Bu engelleme sırasında
 görevli kişilere karşı cebir veya tehdit kullanılmış olması hâlinde ayrıca 5237 sayılı Kanunun
 ilgili maddelerine göre cezaya hükmolunur.
-Yasal defterlerde, muhasebe kayıtlarında ve finansal tablo ve raporlarda usulsüzlük
 
 ### Bizim Yorumumuz
 

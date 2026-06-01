@@ -36,7 +36,6 @@ almak,
 trafikle ilgili diğer görevleri yapmak.
 Köy yolları için sayılan görev ve hizmetlerden zorunlu ve gerekli görülenler orman
 yolları için de uygulanabilir.
-Belediye trafik birimleri, görev ve yetkileri:
 
 ### Bizim Yorumumuz
 

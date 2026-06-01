@@ -25,9 +25,6 @@ Büyükşehir belediyelerinde büyükşehir sınırları ve mücavir alanları i
 tahsil edilen emlak vergisi tutarının tamamı ilgili ilçe ve ilk kademe belediyeleri tarafından alınır.
 Bunlardan büyükşehir belediyesine veya özel idareye ayrıca pay kesilmez.
 
-
-Belediyenin giderleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

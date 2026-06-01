@@ -17,7 +17,6 @@ inceleme raporunun okunmasından önce bildirir.
 duruşmalı işlerde inceleme raporu okunmadan önce verilir. Bu aşamalardan sonra yetkisizlik
 iddiasında bulunulamayacağı gibi mahkemeler de bu hususta re'sen karar veremez.
 (3) Yetkisizlik kararlarına karşı itiraz yoluna gidilebilir.
-Davanın nakli ve duruşmanın başka yerde yapılması1
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ dahi tutanak muvakkat aciz vesikası yerine geçerek alacaklıya 277 nci maddede
 verir.
 III. PARAYA ÇEVİRME
 1 – Satış Talebi
-Talep için müddetler ve giderlerin yatırılması:
 
 ### Akademik Yorum ve Analiz
 

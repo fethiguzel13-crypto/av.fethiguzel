@@ -23,7 +23,6 @@ sağlık teşkillerine sevklerin emniyetli şekilde ve zamanında yapılamadığ
 birlik/kurum envanterindeki mevcut ilaç ve tıbbi sarf malzemesi personel tedavisinde
 kullanılabilir. Bu kapsamda kullanılan ilaç ve tıbbi sarf malzemesi için personelden herhangi
 bir ücret veya katılım payı alınmaz. Bu amaçla kullanılan ilaç ve tıbbi sarf malzemesinin
-kullanımına ilişkin usul ve esaslar Millî Savunma Bakanlığınca belirlenir.
 
 ### Bizim Yorumumuz
 

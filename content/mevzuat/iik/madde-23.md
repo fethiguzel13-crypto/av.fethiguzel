@@ -25,11 +25,6 @@ bakılmaksızın bütün gemiler hakkında bu Kanunun taşınırlara ilişkin h�
 Kanun uyarınca gemi siciline verilecek şerhler, Türk Ticaret Kanununun 977 nci maddesi
 hükmüne tâbidir.
 
-İKİNCİ BAP
-İlamların İcrası
-I. Para ve Teminattan başka Borçlar Hakkında İlamların İcrası:
-Taşınır teslimi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

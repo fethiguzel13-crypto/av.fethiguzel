@@ -30,7 +30,6 @@ vekâlet toplanmasına ve vekâleten oy kullanmaya ilişkin usul ve esaslar Kuru
 6102 sayılı Kanunun 428 inci maddesi bu Kanun kapsamında uygulanmaz.
 (5) Payları kayden izlenen anonim ortaklık genel kurullarına elektronik ortamda
 katılım, MKK tarafından sağlanan elektronik ortam üzerinden gerçekleştirilir.
-Borçlanma aracı niteliğindeki sermaye piyasası araçlarının ihraç limiti ve yetkisi
 
 ### Bizim Yorumumuz
 

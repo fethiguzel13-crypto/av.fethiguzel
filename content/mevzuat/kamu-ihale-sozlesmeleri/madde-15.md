@@ -15,7 +15,6 @@ hükümlerinde değişiklik yapılabilir:
 a) İşin yapılma veya teslim yeri.
 b) İşin süresinden önce yapılması veya teslim edilmesi kaydıyla işin süresi ve bu süreye
 uygun olarak ödeme şartları.
-Sözleşmenin devri
 
 ### Bizim Yorumumuz
 

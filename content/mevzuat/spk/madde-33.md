@@ -35,9 +35,6 @@ yükümlülüklerden kısmen veya tamamen muaf tutabileceği gibi tamamen bu Kan
 kapsamından da çıkarılabilir.
 ÜÇÜNCÜ KISIM
 Sermaye Piyasası Kurumları ve Faaliyetleri
-BİRİNCİ BÖLÜM
-Genel Hükümler
-Sermaye piyasası faaliyetleri
 
 ### Bizim Yorumumuz
 

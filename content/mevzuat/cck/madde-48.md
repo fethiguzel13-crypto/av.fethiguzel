@@ -102,7 +102,6 @@ karşılanır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Adalet Baka
 (8) Bu maddede kabul edilen usul ve esaslar, 22/11/2007 tarihli ve 5717 sayılı
 Uluslararası Çocuk Kaçırmanın Hukuki Yön ve Kapsamına Dair Kanun uyarınca yapılacak
 çocuk teslim işlemleri bakımından da uygulanır.
-Yürürlük
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ doğrultusunda ek karar verilir.
 (3) (Ek:22/7/2020-7251/29 md.) Feragat veya kabul, dosyanın temyiz incelemesine
 gönderilmesinden sonra yapılmışsa, Yargıtay temyiz incelemesi yapmaksızın dosyayı feragat
 veya kabul hususunda ek karar verilmek üzere hükmü veren mahkemeye gönderir.
-Feragat ve kabulün sonuçları
 
 ### Bizim Yorumumuz
 

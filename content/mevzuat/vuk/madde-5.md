@@ -68,7 +68,6 @@ Açıklanan bu bilgiler ele alınarak mükelleflerin haysiyet, şeref ve haklar�
 (Ek: 4/12/1985-3239/1 md.; Mülga: 22/7/1998-4369/1 md.)
 (Ek: 24/3/1988-3418/29 md.; Mülga: 22/7/1998-4369/1 md.)
 (Ek: 26/10/1988-3482/6 md.; Mülga: 22/7/1998-4369/1 md.)
-Yasaklar:
 
 ### Bizim Yorumumuz
 

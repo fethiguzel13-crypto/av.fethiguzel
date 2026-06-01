@@ -44,7 +44,6 @@ maruz kalınan vade, kur veya faiz riskinin azaltılması için gerekli önlemle
 Tedbirlerinden bir veya birkaçının ya da tamamının ve Kurumca uygun görülecek
 diğer tedbirlerin, Kurumun uygun göreceği bir süre ve onaylayacağı bir program dahilinde
 alınmasını ve uygulanmasını bankanın yönetim kurulundan ister.11
-İyileştirici önlemler
 
 ### Bizim Yorumumuz
 

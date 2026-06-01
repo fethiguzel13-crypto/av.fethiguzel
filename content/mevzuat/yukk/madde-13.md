@@ -17,7 +17,6 @@ sınırda görevli kolluk birimine devredebilir. Cumhurbaşkanınca farklı bir 
 sürece, bu vize Türkiye’de en fazla on beş gün kalma hakkı sağlar.
 (3) Sınır vizesinin verilmesinde, insani nedenlere bağlı olarak sağlık sigortası şartı
 aranmayabilir.
-Havalimanı transit vizeleri
 
 ### Bizim Yorumumuz
 

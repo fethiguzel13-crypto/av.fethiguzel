@@ -21,8 +21,6 @@ Madde 44- (1) İşlediği bir fiil ile birden fazla farklı suçun oluşmasına 
 kişi, bunlardan en ağır cezayı gerektiren suçtan dolayı cezalandırılır.
 ÜÇÜNCÜ KISIM
 Yaptırımlar
-BİRİNCİ BÖLÜM
-Cezalar
 
 ### Akademik Yorum ve Analiz
 

@@ -59,9 +59,6 @@ bitiminde veya mazeret sebebinin kalkmasını izleyen on gün içinde görevine 
 memuriyetten çekilmiş sayılır.
 G) Muvazzaf askerliğe ayrılan memurlar askerlik süresince görev yeri saklı kalarak
 aylıksız izinli sayılır.
-BÖLÜM: 6175
-Özlük Dosyası
-Memur bilgi sistemi, özlük dosyası:176
 
 ### Bizim Yorumumuz
 

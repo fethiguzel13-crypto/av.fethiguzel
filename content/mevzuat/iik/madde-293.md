@@ -56,7 +56,6 @@ devir hükümsüzdür.
 Konusu para olmayan alacaklar, alacaklı tarafından, ona eşit kıymette para alacağına
 çevrilerek komisere bildirilir. Şu kadar ki borçlu, komiserin onayıyla taahhüdün aynen ifasını
 üstlenmekte serbesttir.
-Kesin mühletin rehinli alacaklılar bakımından sonuçları:97
 
 ### Bizim Yorumumuz
 

@@ -53,7 +53,6 @@ bağlanır. Temyiz, kararın icrasını durdurmaz.
 (b), (c), (ç), (d), (e) ve (f) bentlerindeki hâllerin varlığı sebebiyle kabulü hâlinde, taraflar
 aksini kararlaştırmamışlarsa hakemleri ve tahkim süresini yeniden belirleyebilirler. Taraflar
 isterlerse eski hakemleri tayin edebilirler.
-Hakem ücreti
 
 ### Bizim Yorumumuz
 

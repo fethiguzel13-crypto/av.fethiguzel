@@ -33,7 +33,6 @@ hükümlerine göre hazırlanacak bağımsız denetim raporu istemeye yetkilidir
 (5) Kurulca düzenlenmesi istenilen finansal tablo ve raporlar ile bağımsız denetime
 tabi olunması durumunda bağımsız denetim raporu, Kurulca belirlenen usul ve esaslar
 çerçevesinde kamuya duyurulur.
-Kamunun aydınlatılmasında özel durumlar
 
 ### Bizim Yorumumuz
 

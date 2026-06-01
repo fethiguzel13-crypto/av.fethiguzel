@@ -15,7 +15,6 @@ düzenlenmiş belgelere dayandırılması zorunludur.
 (2) Nüfus olaylarını tescil eden memurlar tarafından her işlem sonunda dayanak
 belgeleri aile kütüklerine işlendikten sonra imzalanır ve bir nüshası arşivlenmek üzere Genel
 Müdürlüğe gönderilecek olan ilgili özel kütüğe konulur.
-Tescil
 
 ### Bizim Yorumumuz
 

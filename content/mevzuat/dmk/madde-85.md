@@ -16,8 +16,6 @@ yükselmesi gerektiğinde terhislerinden sonra açık kadro bulunması ve sınav
 başarı göstermeleri şartiyle silah altında geçen süreleri yükselecekleri üst derecenin
 kademelerinde dikkate alınır.
 
-Vekalet görevi ve aylık verilmesinin şartları:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

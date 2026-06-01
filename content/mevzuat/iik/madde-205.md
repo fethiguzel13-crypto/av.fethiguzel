@@ -19,7 +19,6 @@ mütaaddit şerikler tarafından ödenmesi halinde 203 ve 204 üncü maddeler ta
 Şirket iflas etmeksizin şeriklerden birisi iflas ederse şirketin alacaklıları alacaklarının
 tamamıyle masaya kabul olunurlar. Müflis şerikin masası 202 nci maddede yazılı olduğu gibi
 şirket alacaklıları yerine geçer.
-Adi ve rehinli alacakların sırası:
 
 ### Akademik Yorum ve Analiz
 

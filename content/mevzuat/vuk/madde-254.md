@@ -23,7 +23,6 @@ YAPILAN DEĞİŞİKLİKLER CETVELİ" ne bakınız.
 
 makbuzlarını tarih sırası ile tanzim tarihlerini takip eden takvim yılından başlıyarak beş yıl
 süre ile muhafaza etmeye mecburdurlar.
-Karnelerin muhafazası:
 
 ### Akademik Yorum ve Analiz
 

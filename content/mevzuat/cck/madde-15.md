@@ -16,8 +16,6 @@ görevli Cumhuriyet savcısı tarafından bizzat yapılır.
 (3) Cumhuriyet savcısı soruşturma sırasında gerekli görüldüğünde çocuk hakkında
 koruyucu ve destekleyici tedbirlerin uygulanmasını çocuk hâkiminden isteyebilir.
 
-Çocuğun gözaltında tutulması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

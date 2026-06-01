@@ -35,7 +35,6 @@ Bu maddenin (a) bendinde belirtilen eksiklik ve bozuklukları bulunan araçlar, 
 bendindeki şartlara uymayan ve uyumsuzluğu trafik emniyetini tehlikeye düşürmeyecek nitelikte
 olan araçların şartlara uygun duruma getirilmesi ihtar olunur. İhtarda verilen süre için teknik
 şartlara uygun duruma getirilmediğinin tespiti halinde araç trafik zabıtasınca trafikten men edilir.
-Araçlarda bulundurulması zorunlu gereçler:
 
 ### Bizim Yorumumuz
 

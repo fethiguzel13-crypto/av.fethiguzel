@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 284- (1) Bilirkişi, Türk Ceza Kanunu anlamında kamu görevlisidir.
-Bilirkişinin hukuki sorumluluğu
 
 ### Bizim Yorumumuz
 

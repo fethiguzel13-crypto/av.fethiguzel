@@ -35,7 +35,6 @@ gerçekçi olmayan veya gerçekleşmesi çok güç olan kazanç beklentisi siste
 (3) Bakanlık, piramit satış sistemleri ile ilgili gerekli incelemeleri yapmaya ve varsa
 elektronik sistemin ülkemizde durdurulması dâhil ilgili kamu kurum veya kuruluşlarıyla iş
 birliği içinde gerekli önlemleri almaya yetkilidir.
-Test, muayene ve analizler
 
 ### Bizim Yorumumuz
 

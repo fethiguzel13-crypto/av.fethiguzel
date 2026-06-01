@@ -28,7 +28,6 @@ g) (Ek: 22/11/1990-3683/9 md.) Milli Savunma Bakanlığı (...)25 kadrolarında 
 kadro açıklamalar bölümünde özel nitelikli olarak gösterilen görev yerlerine atanan sivil
 memurlar Milli Savunma Bakanlığı sosyal tesislerinden görevlendirildikleri kadro
 derecesindeki subaylar gibi istifade ederler. Bu statüdeki sivil memurlar ile askeri personel
-arasındaki protokol münasebetlerinin düzenlenmesinde de aynı esas uygulanır.2425
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ teslim olunur.
 doğrudan doğruya işgal etmekte bulunduğunu bildiren bir tapu sicili kaydı gösterirse
 mahkemeye müracaatla dava açması için kendisine yedi gün mühlet verilir. Bu müddet içinde
 dava açılırsa icra geri bırakılır.
-Bir işin yapılmasına veya yapılmamasına dair olan ilamlar:16
 
 ### Bizim Yorumumuz
 

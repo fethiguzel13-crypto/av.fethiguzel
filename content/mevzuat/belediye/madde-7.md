@@ -16,7 +16,6 @@ Büyükşehir belediyesi sınırları içinde kalan ilçe ve ilk kademe belediye
 değişikliklerinde büyükşehir belediye meclisinin de görüşü alınır.
 İl ve ilçe sınırlarının değiştirilmesini gerektirecek sınır uyuşmazlıklarında 5442 sayılı
 İl İdaresi Kanunu hükümleri uygulanır.
-Birleşme ve katılma
 
 ### Bizim Yorumumuz
 

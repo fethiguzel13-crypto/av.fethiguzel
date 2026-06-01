@@ -16,7 +16,6 @@ gaz (LNG) istasyonlarına nazım imar ve uygulama imar plânına uygun olmak kay
 belediye tarafından izin verilebilir. Akaryakıt istasyonlarına izin verilmesi için nazım imar
 plânında akaryakıt istasyonu olarak gösterilmesi şarttır. Bu istasyonlara çalışma ruhsatı
 büyükşehirlerde büyükşehir belediyesi tarafından verilir.
-Ad verme, tanıtıcı amblem ve flama kullanımı
 
 ### Bizim Yorumumuz
 

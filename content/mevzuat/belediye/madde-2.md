@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 2- Bu Kanun belediyeleri kapsar.
-Tanımlar
 
 ### Bizim Yorumumuz
 

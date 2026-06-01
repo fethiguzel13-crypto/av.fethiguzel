@@ -21,7 +21,6 @@ yatırımcılara sağlanacak korumanın belirlenmesi amacıyla yatırımcıları
 şekilde sundukları yatırım hizmet ve faaliyetlerine uygun, yatırımcı hak ve yararlarını gözeten
 ve bu hizmet ve faaliyetlerden doğan yatırımcı şikâyetlerinin takibi ve sonuçlanmasını
 sağlamak üzere gerekli iç kontrol birim ve sistemlerini oluşturmakla yükümlüdürler.
-Teminatlar, yatırımcı varlıkları ve kullanım esasları
 
 ### Bizim Yorumumuz
 

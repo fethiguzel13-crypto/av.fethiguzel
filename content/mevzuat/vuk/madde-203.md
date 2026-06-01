@@ -21,10 +21,6 @@ gösterebilirler.
 Maliye Bakanlığından müsaade almak şartiyle ayrıca imalat defteri tutmazlar.
 (Mülga beşinci fıkra: 4/12/1985-3239/136 md.)
 
-ALTINCI BÖLÜM
-Diğer Müesseselerin Tutacakları Özel Kayıtlar
-Banka, banker ve sigorta şirketlerinin gider vergisine ait kayıtları:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

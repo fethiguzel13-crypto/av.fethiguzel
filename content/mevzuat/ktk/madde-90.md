@@ -28,7 +28,6 @@ olduğuna ve iptaline karar verilmiştir.
 71
 
 Sigorta
-Mali sorumluluk sigortası yaptırma zorunluluğu:
 
 ### Bizim Yorumumuz
 

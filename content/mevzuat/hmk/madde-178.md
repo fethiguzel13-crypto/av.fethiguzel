@@ -15,7 +15,6 @@ yapılan yargılama giderleri ile karşı tarafın uğradığı ve uğrayabilece
 zorundadır. Aksi hâlde, ıslah yapılmamış sayılır.
 (2) Karşı tarafın zararının kesin olarak tespit edilmesinden sonra, mahkeme veznesine
 yatırılan miktar eksikse tamamlattırılır, fazla ise iade edilir.
-Islahın etkisi
 
 ### Bizim Yorumumuz
 

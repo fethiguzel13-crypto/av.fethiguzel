@@ -29,7 +29,6 @@ açması lüzumu bildirilir. Bu süre içinde dava açmazsa iştirak hakkı dü�
 basit yargılama usulüne göre bakılır.
 Nafaka ilamına istinat eden alacaklı önce takip merasiminin icrasına lüzum olmaksızın
 her zaman aynı derecede hacze iştirak edebilir. Suiniyet hali müstesnadır.
-Haciz tutanağı tanzimi:
 
 ### Akademik Yorum ve Analiz
 

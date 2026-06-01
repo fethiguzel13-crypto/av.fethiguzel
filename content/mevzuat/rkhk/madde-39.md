@@ -19,9 +19,6 @@ binde dördü nispetinde yapılacak ödemeler,
 d) Yayın ve sair gelirler.
 Kuruma ait gelirler T.C. Merkez Bankası veya bir devlet bankası nezdinde açılacak bir
 hesapta toplanır. (Mülga son cümle: 1/8/2003-4971/25 md.)
-DÖRDÜNCÜ KISIM
-Kurulun İnceleme ve Araştırmalarında Usul
-Önaraştırma
 
 ### Bizim Yorumumuz
 

@@ -28,9 +28,6 @@ c) (Mülga: 14/1/2016-6661/14 md.)
 d) (Değişik: 19/10/2017-7039/24 md.) Bu Kanunun 15 inci maddesinde belirtilen sağlık
 personeline ve 31 inci maddesinde belirtilen Cumhuriyet savcılıklarına,
 bu maddede belirtilen idarî para cezaları uygulanmaz.
-ONİKİNCİ KISIM
-Çeşitli Hükümler
-Yönetmelik
 
 ### Bizim Yorumumuz
 

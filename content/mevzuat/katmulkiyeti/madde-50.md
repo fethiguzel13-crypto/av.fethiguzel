@@ -25,7 +25,6 @@ tapu idaresindeki belgelere ve bu kanunun 12 nci maddesinin (b) bendinde yazıl�
 dayanılarak yapılır; bu halde fotoğrafın, tapu idaresine başvuran ortak malikin imzasiyle tasdik edilmesi yeter.
 Diğer ortak malikler bu çevrilmeye itiraz edemiyecekleri gibi bunun giderlerine katılmaktan ve yönetim planı yapmaktan kaçınamazlar; kaçınılırsa, hakimin müdahalasine dair
 olan 33 üncü madde hükmü uygulanır.
-II - Medeni Kanundan önce kurulmuş olan haklarda :
 
 ### Bizim Yorumumuz
 

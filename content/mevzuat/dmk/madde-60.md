@@ -17,7 +17,6 @@ saklıdır.137
 Ancak, Devlet sanatçılarında aranacak nitelikler bir yönetmelikle belirtilir. Dışişleri
 Bakanlığı Hukuk Müşavirliğine atanabilmek için ise, bir yabancı dili çok iyi bilmek ve özel
 yönetmeliğinde belirtilecek diğer nitelikleri taşımak şarttır.
-İstisnai memurluklara atananlara bu Kanunun uygulanacak hükümleri:
 
 ### Bizim Yorumumuz
 

@@ -27,7 +27,6 @@ Bankalar, kanunî ve yardımcı defter ve kayıtlarını, şubeleri, yurt içi v
 muhabirleri ile hesap mutabakatı sağlamadan bilançolarını kapatamazlar.
 Yayımlanan finansal tabloların gerçeğe aykırı olduğunun tespiti hâlinde Kurul gerekli
 tedbirleri almaya yetkilidir.
-Konsolide finansal raporlar
 
 ### Bizim Yorumumuz
 

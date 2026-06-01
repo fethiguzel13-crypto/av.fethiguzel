@@ -31,7 +31,6 @@ ana ve babası, vasisi, bakım ve gözetiminden sorumlu kimselerin veya kurumlar
 sorumluluklarını gereğince yerine getirip getirmedikleri, kararın değiştirilmesini gerektirir bir
 durum olup olmadığı ve istenen diğer hususlarda her ay, ayrıca talep hâlinde mahkeme veya
 çocuk hâkimine rapor verir.
-Denetimin sona ermesi
 
 ### Bizim Yorumumuz
 

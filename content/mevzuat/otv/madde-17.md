@@ -27,7 +27,6 @@ kullanılmak üzere %0,2 oranında pay ayrılır.
 4. (Değişik: 14/7/2004-5217/18 md.) Cumhurbaşkanı, bu madde uyarınca özel tüketim
 vergisi hasılatından verilecek paylara ilişkin oranları topluca veya ayrı ayrı sıfıra kadar indirmeye
 yetkilidir.
-Yürürlükten kaldırılan hükümler
 
 ### Bizim Yorumumuz
 

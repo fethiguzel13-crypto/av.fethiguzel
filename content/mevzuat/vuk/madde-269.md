@@ -22,7 +22,6 @@ Bu kanuna göre, aşağıda yazılı kıymetler gayrimenkuller gibi değerlenir:
 86
 
 4. Gayrimaddi haklar.
-Gayrimenkullerde maliyet bedeline giren giderler:
 
 ### Akademik Yorum ve Analiz
 

@@ -17,7 +17,6 @@ b) Açıklama ve ispat hakkını,
 c) Mahkemenin, açıklamaları dikkate alarak değerlendirmesini ve kararların somut ve
 açık olarak gerekçelendirilmesini,
 içerir.
-Aleniyet ilkesi
 
 ### Bizim Yorumumuz
 

@@ -46,7 +46,6 @@ Türkiye’de indirim konusu yapılan yurt dışı zararın, ilgili ülkede de m
 mahsup veya gider yazılmadan önceki tutardır.
 (2) Bu maddenin uygulanmasına ilişkin usûlleri belirlemeye Maliye Bakanlığı
 yetkilidir.
-Diğer indirimler
 
 ### Bizim Yorumumuz
 

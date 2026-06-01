@@ -35,7 +35,6 @@ davalarına da bu mahkemelerde bakılır.
 Askeri görev ve hizmetlerin yürütülmesi sırasında askeri araç sürücülerinin asker
 kişilere karşı işledikleri trafik kazalarıyla ilgili suçlarda 25/10/1963 tarihli ve 353 sayılı
 Askeri Mahkemeler Kuruluşu ve Yargılama Usulü Kanunu hükümleri saklıdır.
-Duruşmasız olarak bakılacak davalar:
 
 ### Bizim Yorumumuz
 

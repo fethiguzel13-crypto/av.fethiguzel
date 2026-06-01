@@ -35,7 +35,6 @@ kurumlarınca izleyen yılın Ocak ayı sonuna kadar Devlet Personel Başkanlı�
 Kamu kurum ve kuruluşları yürütmekte oldukları hizmetlerin özelliklerini göz önünde
 bulundurarak memurlarının başarı, verimlilik ve gayretlerini ölçmek üzere, Devlet Personel
 Başkanlığının uygun görüşü alınmak kaydıyla, değerlendirme ölçütleri belirleyebilir.
-Ödül:
 
 ### Bizim Yorumumuz
 

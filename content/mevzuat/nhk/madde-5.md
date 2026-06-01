@@ -20,7 +20,6 @@ sabit oluncaya kadar kayda esas olan dayanak belgesi geçerlidir.
 kişiye ait tek bir kaydın tutulmasına, kişi ve olay kayıtlarının Türkiye Cumhuriyeti kimlik
 numarası ile ilişkilendirilmesine yetkilidir. Bu durumda diğer kanunların bu maddeye aykırı
 hükümleri uygulanmaz.
-Nüfus kütüklerinin tutulması
 
 ### Bizim Yorumumuz
 

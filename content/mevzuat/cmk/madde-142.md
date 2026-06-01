@@ -57,8 +57,6 @@ yapılmaması halinde, karar genel hükümler dairesinde infaz ve icra olunur.
 hafta” şeklinde değiştirilmiştir.
 51
 
-Tazminatın geri alınması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -63,7 +63,6 @@ III - Otopark ayrılması gereken bina ve tesisler ile diğer hususlar Bakanlık
 Otopark yapılmasını gerektiren bina ve tesislerin neler olduğu, otopark ihtiyacının
 miktar, ölçü ve diğer şartları ile bu ihtiyacın nasıl tespit olunup giderileceği ise, bu
 yönetmelikte belirtilir.
-Mücavir alan:
 
 ### Bizim Yorumumuz
 

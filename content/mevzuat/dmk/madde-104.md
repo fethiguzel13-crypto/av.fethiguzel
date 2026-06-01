@@ -81,7 +81,6 @@ kurum tarafından belirlenir.” cümlesi eklenerek düzeltilmiştir.
 
 G) Yıllık izin ve mazeret izinleri sırasında fiili çalışmaya bağlı her türlü ödemeler
 hariç malî haklar ile sosyal yardımlara dokunulmaz.170
-Hastalık ve refakat izni:171
 
 ### Bizim Yorumumuz
 

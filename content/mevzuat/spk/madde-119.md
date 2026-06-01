@@ -21,8 +21,6 @@ ve ettirmeyeceklerine dair Yargıtay Birinci Başkanlık Kurulu huzurunda yemin 
 Yemin için yapılan başvuru Yargıtay tarafından acele işlerden sayılır. Kurul Başkan ve
 üyeleri, yemin etmedikçe göreve başlamış sayılmazlar.
 
-Kurul Başkan ve üyelerinin görev süreleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

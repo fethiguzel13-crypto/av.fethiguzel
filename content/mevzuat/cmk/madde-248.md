@@ -89,9 +89,6 @@ ibaresi “Sulh ceza hâkimi veya mahkeme” şeklinde değiştirilmiştir.
 89
 
 (8) Bu kararlara karşı itiraz edilebilir.
-ÜÇÜNCÜ BÖLÜM
-Tüzel Kişilerin Soruşturmada ve Kovuşturmada Temsili
-Tüzel kişinin temsili
 
 ### Bizim Yorumumuz
 

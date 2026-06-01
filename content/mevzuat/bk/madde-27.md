@@ -22,8 +22,6 @@ ibaresinden sonra gelmek üzere “bankacılık sistemini ya da” ibaresi eklen
 talep edilen” ibaresi “Cumhuriyet Başsavcılığına yazılı başvuruda bulunulan” şeklinde değiştirilmiştir.
 3
 
-Karar defteri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

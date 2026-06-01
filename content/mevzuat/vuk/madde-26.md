@@ -28,7 +28,6 @@ Tahakkuk fişinin kesinliği:
 verilen tahakkuk fişini almaması, beyannamede yazılı matrah üzerinden tarhı gereken
 verginin tahakkukuna engel olmaz. Bu takdirde tahakkuk fişinin mükellefe verilecek nüshası
 28 nci maddede yazılı olduğu şekilde posta ile mükellefe gönderilir.
-Vergi beyannamesinin postayla veya elektronik ortamda gönderilmesi7
 
 ### Bizim Yorumumuz
 

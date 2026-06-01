@@ -20,7 +20,6 @@ konmak ve başkan veya hâkim tarafından imzalanmak suretiyle belirtilir.
 (5) (Ek: 20/7/2017-7035/27 md.) Kanun yollarından geçmek suretiyle kesinleşen
 kararların kesinleşme kaydı ile kesinleşme kaydı yapılan kararların yerine getirilmesi için
 gerekli bildirimler de ilk derece mahkemesince yapılır.
-Kesin hüküm
 
 ### Bizim Yorumumuz
 

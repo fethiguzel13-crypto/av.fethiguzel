@@ -32,8 +32,6 @@ ibareleri sırasıyla “engelliler” ve “engel” şeklinde değiştirilmiş
 süreyle” ibaresi “doğumdan sonraki iki yıl süreyle” şeklinde değiştirilmiştir.
 161
 
-Yıllık izin:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

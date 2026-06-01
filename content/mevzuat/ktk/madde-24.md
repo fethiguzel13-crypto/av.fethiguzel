@@ -15,7 +15,6 @@ tanzim edilebilmesi için araç tescil belgesi veya sahiplik belgesi ile zorunlu
 sigortasının ibrazı zorunludur.
 Tescil belgesi ve tescil plakalarının verilmesi şartları, geçerlilikleri, süreleri, nitelik ve
 nicelikleri ile diğer esaslar yönetmelikte gösterilir.
-Geçici trafik belgeleri ile geçici tescil plakaları:
 
 ### Bizim Yorumumuz
 

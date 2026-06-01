@@ -21,7 +21,6 @@ teşebbüslerin işleri dolayısiyle yabancı memleketlerde oturan Türk vatanda
 gibilerden, bulundukları memleketlerde elde ettikleri kazanç ve iratları dolayısiyle Gelir
 Vergisine veya benzeri bir vergiye tabi tutulmuş bulunanlar, mezkür kazanç ve iratları
 üzerinden ayrıca vergilendirilmezler.)
-Türkiye'de yerleşme:
 
 ### Akademik Yorum ve Analiz
 

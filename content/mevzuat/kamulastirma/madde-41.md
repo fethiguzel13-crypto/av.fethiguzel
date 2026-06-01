@@ -285,7 +285,6 @@ gerçekleştirilir. Taksitlendirmede, bütçe imkânları ile alacakların tutar
 dördüncü cümle: Anayasa Mahkemesinin 27/6/2024 Tarihli ve E: 2024/4, K: 2024/129
 Sayılı Kararı ile.)
 Birinci fıkra, bu maddenin yürürlüğe girdiği tarih itibarıyla bedel ve tazminatı ödenmemiş
-olan tüm davalarda ve icra takiplerinde de uygulanır.
 
 ### Bizim Yorumumuz
 

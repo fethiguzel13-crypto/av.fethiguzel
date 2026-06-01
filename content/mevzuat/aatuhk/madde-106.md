@@ -21,9 +21,6 @@ katına kadar artırmaya yetkilidir.3536
 göre terkin edilecek amme alacağının miktarını belirlemeye yetkilidir.
 Terkin selahiyetini haiz olanlar bu selahiyetlerin tamamını veya bir kısmını mahalli
 makamlara bırakabilirler.
-İKİNCİ BÖLÜM
-Yasaklar ve cezalar
-Sırrın ifşası:
 
 ### Bizim Yorumumuz
 

@@ -15,9 +15,6 @@ Kat irtifakı, buna konu olan arsanın tamamiyle yok olması veya üzerinde yap�
 irtifakın kurulması sırasında verilen plana göre beş yıl içinde yapı yapılmazsa maliklerden
 birinin istemi üzerine, sulh hakimi, gerektiğinde ilgilileri de dinleyerek, duruma göre kat irtifakının sona ermesine veya belli bir süre için uzatılmasına karar verir. Süre istem üzerine yeniden uzatılabilir.
 (Değişik fıkra: 13/4/1983 - 2814/14 md.) Yukarıdaki fıkra uyarınca kat irtifakı kaldırıldığında tapu kütüğündeki kayıt silinir.
-YEDİNCİ BÖLÜM
-Son Hükümler
-A) Yasaklar:
 
 ### Bizim Yorumumuz
 

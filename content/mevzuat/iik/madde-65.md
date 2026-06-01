@@ -27,8 +27,6 @@ veya tebliği tarihinden itibaren alacaklı yedi gün içinde, icra mahkemesinde
 kaldırılmasını istemez veya aynı süre içinde 67 nci maddeye göre mahkemeye başvurmazsa
 haciz kalkar.
 
-5 – İtirazın hükmü:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

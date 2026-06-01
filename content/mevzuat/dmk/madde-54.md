@@ -27,8 +27,6 @@ ve “engelli”, dördüncü fıkrasında yer alan “Özürlülerin”, “öz
 “Engellilerin”, “engel”, “engellilerin” ve “engelli” şeklinde değiştirilmiştir.
 114
 
-Adayların yetiştirilmesi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

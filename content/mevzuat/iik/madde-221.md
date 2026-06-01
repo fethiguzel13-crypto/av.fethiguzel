@@ -24,7 +24,6 @@ Reylerin muteber olup olmayacağı hakkındaki ihtilafı büro halleder. Büronu
 işlemlerine karşı ilgililer toplantı tarihinden itibaren yedi gün içinde icra mahkemesine
 şikayette bulunabilirler. Şikayet sebebinin yerinde görülmesi ancak karar ekseriyetinin
 bozulması halinde nazara alınır. Aksi takdirde şikayet red olunur.
-Toplantı veya karar nisabının oluşmaması:73
 
 ### Akademik Yorum ve Analiz
 

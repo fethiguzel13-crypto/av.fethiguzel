@@ -23,8 +23,6 @@ Yabancı memleketlerde elde edilen kazanç ve iratlar:
 sebeplerden ileri geldiği tevsik olunan hallerde, mükellefin bunlara tasarruf edebildiği yılda;
 Elde edilmiş sayılır.
 
-Toplama yapılmayan haller:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -17,7 +17,6 @@ esassız olması nedeniyle duruşma yapılmaksızın reddedilir.
 (2) Aksi hâlde mahkeme, yargılamanın yenilenmesine ve duruşmanın açılmasına karar
 verir.
 (3) Bu madde gereğince verilen kararlara karşı itiraz yoluna gidilebilir.
-Duruşma yapılmaksızın yenileme isteminin incelenmesi
 
 ### Bizim Yorumumuz
 

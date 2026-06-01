@@ -39,7 +39,6 @@ ve ticari sırları, görevlerinden ayrılmış olsalar bile kanunen yetkili kı
 başkasına açıklayamazlar, kendilerinin veya başkalarının menfaatine kullanamazlar.
 Fon Kurulu Başkan ve üyeleri 3628 sayılı Mal Bildiriminde Bulunulması, Rüşvet ve
 Yolsuzluklarla Mücadele Kanununa tâbidir.
-Fon Kurulunun çalışma esasları
 
 ### Bizim Yorumumuz
 

@@ -67,7 +67,6 @@ hüküm kurar.
 sanık lehine olması hâlinde, bu hususların istinaf isteminde bulunmamış olan diğer sanıklara
 da uygulanma olanağı varsa bu sanıklar da istinaf isteminde bulunmuşçasına verilen
 kararlardan yararlanırlar.
-Duruşma hazırlığı
 
 ### Bizim Yorumumuz
 

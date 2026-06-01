@@ -24,7 +24,6 @@ hükmü uygulanmaz.66
 talep tarihinden itibaren tesis olunur. Bu şekilde mükellef olanlar üç yıl geçmedikçe
 mükellefiyetten çıkamazlar. Mükellefler üç yıllık sürenin bitiminden önce mükellefiyetten
 çıkma talebinde bulunmadıkları takdirde mükellefiyet yeniden üç yıl süre ile uzatılmış sayılır.
-İstisnaların sınırı:
 
 ### Bizim Yorumumuz
 

@@ -22,7 +22,6 @@ bulunabilir, fakat oya katılamaz.
 vekil eliyle kullanabilir. Bir kişi, oy sayısının yüzde beşinden fazlasını kullanmak üzere vekil
 tayin edilemez. Ancak, kırk ve daha az sayıdaki kat mülkiyetine tâbi taşınmazlarda bir kişi, en
 fazla iki kişiye vekâlet edebilir.
-IV - Kararlar:
 
 ### Bizim Yorumumuz
 

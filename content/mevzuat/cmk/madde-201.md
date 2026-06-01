@@ -17,7 +17,6 @@ yöneltilmesinin gerekip gerekmediğine, mahkeme başkanı karar verir. Gerekti�
 yeniden soru sorabilir.
 (2) Heyet halinde görev yapan mahkemelerde, heyeti oluşturan hâkimler, birinci
 fıkrada belirtilen kişilere soru sorabilir.
-Tercüman bulundurulacak hâller
 
 ### Bizim Yorumumuz
 

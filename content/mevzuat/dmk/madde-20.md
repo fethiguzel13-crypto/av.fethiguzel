@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 20 – Devlet memurları, bu kanunda belirtilen esaslara göre memurluktan
 çekilebilirler.
-Müracaat, şikayet ve dava açma:
 
 ### Bizim Yorumumuz
 

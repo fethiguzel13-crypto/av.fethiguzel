@@ -15,7 +15,6 @@ hükmettirmektir. Bu davayı aşağıdaki şahıslar açabilirler:
 1 – Elinde muvakkat yahut kati aciz vesikası bulunan her alacaklı,
 2 – İflas idaresi yahut 245 inci maddede ve 255 inci maddenin 3 üncü fıkrasında yazılı
 hallerde alacaklıların kendileri.
-İvazsız tasarrufların butlanı:
 
 ### Bizim Yorumumuz
 

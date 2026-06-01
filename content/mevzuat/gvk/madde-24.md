@@ -36,7 +36,6 @@ fark ücret olarak vergiye tabi tutulur.)
 ve Bağ-Kur emeklilerine avans olarak ödenenler dahil);
 5. Sayım işleriyle, seçim işlerinde çalıştırılanlara özel kanunlarına göre verilen zaruri
 gider karşılıkları.
-Tazminat ve yardımlarda:24
 
 ### Akademik Yorum ve Analiz
 

@@ -16,7 +16,6 @@ olmak şartıyla, 37 nci madde hükümlerine uygun olarak düzenleyecekleri tekl
 taahhütlü bir mektupla da gönderebilirler.
 Teklif sahibi komisyonda hazır bulunmadığı takdirde posta ile gönderilen teklif son ve
 kesin teklif olarak kabul edilir.
-Açık teklif usulünde ihale:
 
 ### Bizim Yorumumuz
 

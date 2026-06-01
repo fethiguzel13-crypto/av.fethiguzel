@@ -16,9 +16,6 @@ Resmi ve adli tatil günlerinde de tebligat caizdir.
 
 İKİNCİ BAP
 Hususi Hükümler
-BİRİNCİ FASIL
-Kazai tebligat
-Şümulü:
 
 ### Bizim Yorumumuz
 

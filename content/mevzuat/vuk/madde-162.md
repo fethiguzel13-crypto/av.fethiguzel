@@ -15,7 +15,6 @@ Bu hallerde tasfiye memurları veya iflas dairesi:
 1. Tasfiye veya iflas kararlarını;
 2. Tasfiyenin veya iflasın kapandığını;
 vergi dairesine ayrı ayrı bildirmeye mecburdurlar.
-Nakil:
 
 ### Bizim Yorumumuz
 

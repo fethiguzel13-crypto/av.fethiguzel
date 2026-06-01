@@ -16,7 +16,6 @@ c) Genel Müdürlük: Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünü,
 ç) Türk vatandaşı: Türkiye Cumhuriyeti Devletine vatandaşlık bağı ile bağlı olan kişiyi,
 d) Yabancı: Türkiye Cumhuriyeti Devleti ile vatandaşlık bağı bulunmayan kişiyi,
 ifade eder.
-Vatandaşlık hizmetlerinin yürütülmesi
 
 ### Bizim Yorumumuz
 

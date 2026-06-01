@@ -19,7 +19,6 @@ verir. Edimin yerine getirilmesinin ileri tarihe bırakılması, takside bağlan
 süreklilik arzetmesi halinde durma kararı verilir. Durma süresince zamanaşımı işlemez.
 Uzlaşmanın gereklerinin yerine getirilmemesi halinde, mahkemece yargılamaya kaldığı yerden
 devam olunur.
-Birden çok fail bulunması hâlinde uzlaşma
 
 ### Bizim Yorumumuz
 

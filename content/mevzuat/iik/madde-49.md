@@ -14,7 +14,6 @@ Rehin karşılığı yapılan ödünç verme işlerinde Medeni Kanun ile Türkiy
 Ziraat Bankası ve Türkiye Emlak Kredi Bankasının özel kanunlarında paraya çevirmeye dair
 hükümleri saklıdır.
 II. YETKİ
-Yetki ve itirazları:
 
 ### Bizim Yorumumuz
 

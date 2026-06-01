@@ -17,7 +17,6 @@ ve yardımcı malzeme dahildir. Emtia envanteri, muamelelere ait kayıtlarla kar
 şartiyle yeniden işe başlama halinde işletme defterinin baş tarafına, mütaakıben de her hesap
 dönemi kapandıktan sonra muamele kayıtlarını takip eden sayfalara yazılır. İstiyenler ayrı bir
 envanter defteri tutarak emtia envanterlerini bu deftere kaydedebilirler.
-İşletme hesabı hulasası:
 
 ### Bizim Yorumumuz
 

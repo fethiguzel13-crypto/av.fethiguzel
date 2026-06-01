@@ -26,7 +26,6 @@ verilemez. Ancak, Kurul kararı ile, atanmaları için gerekli şartları kaybet
 durumlarının bu Kanunun 25 inci maddesine aykırı düştüğü anlaşılan ya da Kanunla verilen
 görevle ilgili olarak suç işledikleri mahkeme kararı ile sabit olan Kurul Başkan ve üyelerinin
 görevleri sona erer.
-Yasaklar
 
 ### Bizim Yorumumuz
 

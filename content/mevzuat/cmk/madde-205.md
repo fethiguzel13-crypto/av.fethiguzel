@@ -19,9 +19,6 @@ ibaresi “anlatılması” şeklinde değiştirilmiştir.
 71
 
 tutuklanmasına da karar verebilir.
-DÖRDÜNCÜ BÖLÜM
-Delillerin Ortaya Konulması ve Tartışılması
-Delillerin ortaya konulması ve reddi
 
 ### Bizim Yorumumuz
 

@@ -23,7 +23,6 @@ payın veya mal varlığının eğer mümkünse eski maliklerine iadesine, bu m�
 takdirde üçüncü kişilere temlikine ve devrine; bunların eski malik veya üçüncü kişilere temlik
 edilmesine kadar geçen süre içinde devralan kişilerin devralınan teşebbüslerin yönetimine
 hiçbir şekilde katılamayacağına ve gerekli gördüğü diğer tedbirlerin alınmasına karar verir.
-Bildirim
 
 ### Bizim Yorumumuz
 

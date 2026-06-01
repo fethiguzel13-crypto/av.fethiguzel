@@ -35,10 +35,6 @@ programlarına katılmasını sağlar.
 (6) İlköğretim ve ortaöğretim müfredatına, kadının insan hakları ve kadın erkek eşitliği
 konusunda eğitime yönelik dersler konulur.
 
-DÖRDÜNCÜ BÖLÜM
-Mali Hükümler
-Geçici maddi yardım yapılması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

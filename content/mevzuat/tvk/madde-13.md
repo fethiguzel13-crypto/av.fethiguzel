@@ -15,7 +15,6 @@ vatandaşlığını Bakanlık kararıyla yeniden kazanabilirler.
 a) Çıkma izni almak suretiyle Türk vatandaşlığını kaybedenler.
 b) Ana veya babalarına bağlı olarak Türk vatandaşlığını kaybedenlerden 21 inci
 maddede öngörülen süre içerisinde seçme hakkını kullanmayanlar.
-Türk vatandaşlığının ikamet şartına bağlı olarak yeniden kazanılması
 
 ### Bizim Yorumumuz
 

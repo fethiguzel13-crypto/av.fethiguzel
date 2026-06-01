@@ -22,9 +22,6 @@ huzurunda şüpheli veya sanık tarafından doğrulanmadıkça hükme esas alın
 
 ALTINCI KISIM
 Savunma
-BİRİNCİ BÖLÜM
-Müdafi Seçimi, Görevlendirilmesi, Görev ve Yetkileri
-Şüphelinin veya sanığın müdafi seçimi
 
 ### Bizim Yorumumuz
 

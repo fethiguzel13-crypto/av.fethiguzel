@@ -20,7 +20,6 @@ olmak üzere borçlu tarafından mevcut bir borcu temin için yapılan rehinler;
 verilen şerhler.
 Bu tasarruflardan istifade eden kimse borçlunun hal ve vaziyetini bilmediğini ispat
 eylerse iptal davası dinlenmez.
-Zarar verme kastından dolayı iptal82
 
 ### Bizim Yorumumuz
 

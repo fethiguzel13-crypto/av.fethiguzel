@@ -14,7 +14,6 @@ bulunan hâllerde, karşı tarafa tebligat yapılmaksızın da delil tespiti yap
 yapılmasından sonra, tespit dilekçesi, tespit kararı, tespit tutanağı ve varsa bilirkişi raporunun
 bir örneği mahkemece kendiliğinden diğer tarafa tebliğ olunur. Karşı taraf tebliğden itibaren
 bir hafta içinde delil tespiti kararına itiraz edebilir.
-Delil tespiti kararında uygulanacak hükümler
 
 ### Bizim Yorumumuz
 

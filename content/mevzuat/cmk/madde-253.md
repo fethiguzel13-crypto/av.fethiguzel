@@ -184,7 +184,6 @@ düzenlenmesi, Cumhuriyet başsavcılığı bünyesinde kurulan uzlaştırma bü
 ve esasları, uzlaştırma teklifi ile müzakere usulü, uzlaştırma anlaşması ve raporda yer alacak
 konular ile uygulamaya dair diğer hususlara ilişkin usul ve esaslar, Adalet Bakanlığınca
 çıkarılan yönetmelikle düzenlenir.
-Mahkeme tarafından uzlaştırma
 
 ### Bizim Yorumumuz
 

@@ -19,7 +19,6 @@ Mahkeme yapılan açıklamayı yeterli görmezse, bu kimseyi tanık olarak dinle
 (3) Belgeyi ibraz zorunda olanlar, tanıklıktan çekinmeye ilişkin hükümlere göre,
 belgeyi ibrazdan veya bu konudaki tanıklıktan çekinebilirler. Belgeyi ibraz veya bu konuda
 tanıklık yapmak zorunda olanlar hakkında, tanıklara ilişkin hükümler uygulanır.
-Ticari defterlerin ibrazı ve delil olması
 
 ### Bizim Yorumumuz
 

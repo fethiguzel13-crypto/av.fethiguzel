@@ -31,7 +31,6 @@ Bozulmaya maruz veya muhafazası külfetli olan veya tayin edilen kanuni müddet
 içinde değerinin düşmesi kuvvetle muhtemel bulunan mallar hakkında, tacirin talebi üzerine,
 mahkemece icra memuru marifetiyle ve bu kanun hükümleri dairesinde bu malların
 satılmasına ve bedelinin 9 uncu maddede yazılı bir bankaya depo edilmesine karar verilebilir.
-Rehin ve ipotekle temin edilmiş alacaklar:
 
 ### Bizim Yorumumuz
 

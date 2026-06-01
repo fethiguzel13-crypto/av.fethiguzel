@@ -15,9 +15,6 @@ hususundaki ilk derece mahkemesi kararlarına karşı istinaf yoluna; bölge adl
 kararları hakkında ise temyiz yoluna, ancak hükümle birlikte gidilebilir. Şu kadar ki, bu husus
 tek başına, bölge adliye mahkemesinde hükmün kaldırılarak esastan incelenme; Yargıtayda
 ise bozma sebebi teşkil etmez.
-BEŞİNCİ AYIRIM
-İsticvap
-Konusu
 
 ### Bizim Yorumumuz
 

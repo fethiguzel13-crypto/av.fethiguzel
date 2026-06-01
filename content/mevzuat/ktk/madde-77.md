@@ -19,7 +19,6 @@ c) Bir yetkili veya görevli yönetimindeki yürüyüş kolları arasından geç
 (Değişik: 21/5/1997-4262/4 md.) Bu maddenin birinci fıkrasının (b) bendi hükmüne
 uymayan sürücüler 3 600 000 lira, (c) bendi hükmüne uymayan sürücüler 1 800 000 lira para
 cezası ile cezalandırılırlar.
-Sürücülerin ve yolcuların koruyucu sistemleri kullanma zorunluluğu:
 
 ### Bizim Yorumumuz
 

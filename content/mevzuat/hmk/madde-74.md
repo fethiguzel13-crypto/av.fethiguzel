@@ -18,7 +18,6 @@ uyuşmazlık çözüm yollarına başvuramaz, davadan veya kanun yollarından fe
 karşı tarafı ibra ve davasını kabul edemez, yargılamanın iadesi yoluna gidemez, hâkimlerin
 fiilleri sebebiyle Devlet aleyhine tazminat davası açamaz, hangileri hakkında yetki verildiği
 açıklanmadıkça kişiye sıkı sıkıya bağlı haklarla ilgili davaları açamaz ve takip edemez.
-Birden fazla vekil görevlendirilmesi
 
 ### Bizim Yorumumuz
 

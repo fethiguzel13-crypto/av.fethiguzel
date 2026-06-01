@@ -54,7 +54,6 @@ eden Kanunla değiştirilen 50 nci maddenin onuncu fıkrası hükmü uygulanır.
 (4) 66 ncı, 68 inci ve 73 üncü maddeler gereğince tüketici hakem heyetlerine yapılan
 başvurular ile mahkemelerde açılmış olan davalar için söz konusu başvuruların yapıldığı ve
 davaların açıldığı tarihte yürürlükte bulunan görev ve yetkiye ilişkin hükümler uygulanır.
-Yürürlük
 
 ### Bizim Yorumumuz
 

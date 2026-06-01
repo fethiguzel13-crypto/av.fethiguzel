@@ -18,7 +18,6 @@ yanlış veya hakikate aykırı beyanda bulunmuş olanları beyanlarını düzel
 Buna rağmen beyanda bulunmayanların veya beyanlarını düzeltmiyenleri verilen sürenin
 sonundan başlıyarak 15 gün içinde, mütalaaları ile birlikte ve yazılı olarak vergi dairesine
 bildirirler. Bu ihbar üzerine vergi dairesince yapılacak tahkikat neticesine göre işlem yapılır.
-Ücret ve sorumluluk:
 
 ### Akademik Yorum ve Analiz
 

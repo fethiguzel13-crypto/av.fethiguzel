@@ -16,7 +16,6 @@ kuvvetleri, dernek ve eklentilerine giremez, arama yapamaz ve buradaki eşyaya e
 Mülkî idare amirinin kararı yirmidört saat içinde görevli hâkimin onayına sunulur. Hâkim,
 kararını el koymadan itibaren kırksekiz saat içinde açıklar; aksi halde, el koyma kendiliğinden
 kalkar. Hâkim kararı, mülkî idare amiri tarafından dernek yöneticilerine yazıyla duyurulur.
-Yurt dışı yardımlar6
 
 ### Bizim Yorumumuz
 

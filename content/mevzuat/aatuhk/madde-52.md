@@ -14,7 +14,6 @@ Gecikme zammının tatbik müddeti, amme alacağının tecilinde tecilin yapıld
 halinde iflasın açıldığı, aciz halinde bu durumun sabit olduğu güne kadar olan müddettir.
 Gecikme zammının önceden borçluya bildirilmesi gerekmez.
 Aslın ödenmiş olması gecikme zammının takip ve tahsiline mani değildir.
-Köylerde gecikme zammı:
 
 ### Bizim Yorumumuz
 

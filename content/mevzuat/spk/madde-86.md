@@ -90,7 +90,6 @@ hakkı genel zamanaşımı süresine tabidir. 2004 sayılı Kanunun 278 inci, 27
 maddelerinde belirtilen hâllerin varlığı hâlinde, aciz vesikası ibrazına gerek olmaksızın YTM
 tarafından iptal davası açılabilir. YTM, bu maddeden kaynaklanan görevlerinin ifası sırasında
 her türlü teminattan muaf olarak ihtiyati tedbir ve ihtiyati haciz istemeye yetkilidir.
-Veri depolama kuruluşları
 
 ### Bizim Yorumumuz
 

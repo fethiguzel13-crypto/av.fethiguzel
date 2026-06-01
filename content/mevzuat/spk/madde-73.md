@@ -24,7 +24,6 @@ borsalara, piyasa işleticilerine ve teşkilatlanmış diğer pazar yerlerine k�
 Türkiye Sermaye Piyasaları Birliği, Türkiye Değerleme Uzmanları Birliği,
 Merkezî Takas Kuruluşları, Merkezî Saklama Kuruluşları ve
 Merkezî Kayıt Kuruluşu
-Türkiye Sermaye Piyasaları Birliği
 
 ### Bizim Yorumumuz
 

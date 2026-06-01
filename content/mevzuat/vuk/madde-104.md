@@ -41,7 +41,6 @@ adresine ayrıca posta ile gönderilir.
 numaralı bendinde yer alan tutarı on katına kadar artırmaya, sıfıra kadar indirmeye,
 duyurunun kapsamı, şekli, zamanı ve süresi ile maddenin uygulamasına ilişkin usul ve
 esasları belirlemeye yetkilidir.
-İlanın muhteviyatı:
 
 ### Bizim Yorumumuz
 

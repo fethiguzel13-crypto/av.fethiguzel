@@ -14,7 +14,6 @@ dolayı kesinleşmiş bir mahkûmiyet hükmü verilmiş veya mahkûmiyeti gerekt
 kuvvetli delil bulunmaması dışında bir nedenle ceza soruşturmasına başlanamamış veya
 sürdürülememişse kabul edilebilir. Bu madde, 311 inci maddenin birinci fıkrasının (e)
 bendinde yazılı hâlde uygulanmaz.
-Yenileme istemi hakkında uygulanacak hükümler
 
 ### Bizim Yorumumuz
 

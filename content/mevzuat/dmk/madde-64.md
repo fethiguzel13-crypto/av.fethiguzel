@@ -38,7 +38,6 @@ Kademe ilerlemesine hak kazanamayan memurlar, kurumlarınca her ay alınacak top
 onaylarla belirlenir. Kademe ilerlemesi yapmış sayılanlardan ilerlemeye müstahak olmadıkları
 sonradan tespit edilenlerin kademe ilerlemeleri, ilerlemiş sayıldıkları tarihten geçerli olmak
 üzere iptal edilir.
-Kademe ilerlemelerinin toplu onayla yapılması:
 
 ### Bizim Yorumumuz
 

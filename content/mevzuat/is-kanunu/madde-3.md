@@ -48,7 +48,6 @@ gönderilir.
 bildirimi ve işyerinin tescili ile yapılacak sözleşmede bulunması gerekli diğer hususlara ilişkin
 usul ve esaslar, Çalışma ve Sosyal Güvenlik Bakanlığı tarafından çıkarılacak yönetmelikle
 belirlenir.
-İstisnalar
 
 ### Akademik Yorum ve Analiz
 

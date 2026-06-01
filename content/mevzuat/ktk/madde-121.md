@@ -23,9 +23,6 @@ Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 37 nci maddesi i
 
 üretilebilir ve düzenlenebilir. Buna dair usul ve esaslar İçişleri ve Maliye bakanlıklarınca
 müştereken belirlenir.
-ONUNCU KISIM
-Eğitim, Okullar ve Çocuk Eğitimi Parkları
-Trafik eğitimi ve denetimi:
 
 ### Bizim Yorumumuz
 

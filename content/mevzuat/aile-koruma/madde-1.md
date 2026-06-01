@@ -26,7 +26,6 @@ c) Şiddet mağduru ve şiddet uygulayan için alınan tedbir kararları insan o
 yaraşır bir şekilde yerine getirilir.
 ç) Bu Kanun kapsamında kadınlara yönelik cinsiyete dayalı şiddeti önleyen ve
 kadınları cinsiyete dayalı şiddetten koruyan özel tedbirler ayrımcılık olarak yorumlanamaz.
-Tanımlar
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ Kat malikleri kurulu kararları (1) den başlayıp sırayla giden sayfa numarala
 her sayfası noter mühüriyle tasdikli bir deftere yazılarak, toplantıda bulunan bütün kat maliklerince imzalanır; karara aykırı oy verenler bu aykırılığın sebebini belirterek imza koyarlar.
 Bir husus hakkında ilerde çıkan anlaşmazlıklar, karar defterinde aynı hususa dair daha
 önce verilmiş bir karar varsa kaide olarak ona göre çözülür.
-V - Hakimin müdahalesi:
 
 ### Bizim Yorumumuz
 

@@ -51,7 +51,6 @@ XIII – Yukardaki maddeler dışında diğer kanunlarda istisnai olarak zabıta
 emirle yapmaya mecbur tutulduğu haller için,
 Yetkili amir tarafından verilecek sözlü emirler derhal yerine getirilir. Bu emirlerin
 yazılı olarak verilmesi istenilemez. Bu hallerde emrin yerine getirilmesinden doğabilecek
-sorumluluk emri verene aittir.7
 
 ### Bizim Yorumumuz
 

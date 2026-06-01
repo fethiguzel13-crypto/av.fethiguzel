@@ -18,7 +18,6 @@ yurda getirmek için yapılması zorunlu olan giderler kurumlarınca karşılan�
 209 uncu madde ile bu madde hükümleri Maliye ve Sağlık ve Sosyal Yardım
 Bakanlıklarının görüşleri alınmak suretiyle Devlet Personel Başkanlığınca hazırlanacak
 yönetmeliğe göre uygulanır.
-Giyecek yardımı:
 
 ### Bizim Yorumumuz
 

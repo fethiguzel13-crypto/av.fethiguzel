@@ -26,7 +26,6 @@ Kanunlarla ve Cumhurbaşkanlığı kararnameleriyle verilen askeri hizmetleri ye
 
 
 getirmek.5
-Jandarmanın (...)6 seferberlik ve savaş halindeki görevleri:
 
 ### Bizim Yorumumuz
 

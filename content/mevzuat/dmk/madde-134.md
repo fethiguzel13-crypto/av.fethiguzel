@@ -18,7 +18,6 @@ Kurulu bulunur.191
 görüşme ve karar usulü, hangi memurlar hakkında karar verebilecekleri ve disiplin amirlerinin
 tayin ve tespitinde uygulanacak esaslar ile bunların yetki ve sorumlulukları gibi hususlar
 Cumhurbaşkanınca çıkarılacak yönetmelikle düzenlenir.192
-İtiraz:
 
 ### Bizim Yorumumuz
 

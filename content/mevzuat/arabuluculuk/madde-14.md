@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 14 – (1) Başkaca bir usul kararlaştırılmadıkça arabulucu veya arabulucular
 taraflarca seçilir.
-Arabuluculuk faaliyetinin yürütülmesi
 
 ### Bizim Yorumumuz
 

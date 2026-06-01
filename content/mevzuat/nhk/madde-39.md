@@ -20,8 +20,6 @@ belli olmayanlar için de o ayın birinci günü başlangıç olarak alınır.
 ve” ibaresi yürürlükten kaldırılmıştır.
 10
 
-Nüfus kaydının iptali
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

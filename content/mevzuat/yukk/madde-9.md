@@ -38,7 +38,6 @@ sağlığı sebebiyle Genel Müdürlükçe; idari para cezaları ve kamu alacakl
 valiliklerce yabancıların ülkeye kabulü ön izin şartına bağlanabilir.
 (8) (Ek:6/12/2019-7196/71 md.) Bu maddenin uygulanmasına ilişkin usul ve esaslar
 Bakanlıkça belirlenir.
-Türkiye’ye giriş yasağının tebliği
 
 ### Bizim Yorumumuz
 

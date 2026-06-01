@@ -31,7 +31,6 @@ almadan vergi mahkemesi kararları aleyhine temyiz yoluna gidemezler.
 İdaresi Başkanlığı, tespit edeceği hadlerle sınırlı olmak şartıyla, muvafakat verme yetkisini
 vergi dairesi müdürlüklerinin taraf bulunduğu davalar için vergi dairesi başkanlıklarına
 ve/veya defterdarlıklara devredebilir.
-Dava konusu:168
 
 ### Akademik Yorum ve Analiz
 

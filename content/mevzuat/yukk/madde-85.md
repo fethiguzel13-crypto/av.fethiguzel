@@ -45,7 +45,6 @@ yazılı şekilde sunabilmesine fırsat verilir.
 yasal temsilcisine ya da avukatına tebliğ edilir. İlgili kişi bir avukat tarafından temsil
 edilmiyorsa kararın sonucu, itiraz usulleri ve süreleri hakkında kendisi veya yasal temsilcisi
 bilgilendirilir.
-Uluslararası koruma statüsünün iptali
 
 ### Bizim Yorumumuz
 

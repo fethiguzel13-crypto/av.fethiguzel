@@ -19,7 +19,6 @@ işyerinin, işyeri birden fazla ise bu işyerlerinden herhangi birisinin bulund
 dairesine verilir veya taahhütlü olarak posta ile gönderilir.107
 Takvim yılı içinde memleketi terk edenlerin beyannameleri memleketi terke takaddüm
 eden 15 gün, ölüm halinde, ölüm tarihinden itibaren 4 ay içinde verilir.
-Aile reisi beyanı:
 
 ### Bizim Yorumumuz
 

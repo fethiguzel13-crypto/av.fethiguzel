@@ -22,7 +22,6 @@ zararın vuku bulduğunu ispat etmesi halinde zarar veren işleten veya işletic
 teşebbüs sahibi tazminatla yükümlü tutulur.
 Tazminatla yükümlü olan işletenler veya işleticinin bağlı olduğu teşebbüs sahipleri zarar
 gören işletene veya işleticinin bağlı olduğu teşebbüs sahibine karşı müteselsilen sorumludurlar.
-Maddi ve manevi tazminat:
 
 ### Bizim Yorumumuz
 

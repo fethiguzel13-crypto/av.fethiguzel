@@ -23,8 +23,6 @@ alan “Başbakanlıkça” ibaresi “Cumhurbaşkanınca” şeklinde değişti
 adaylar sicil amirlerinin teklifi” ibaresi “adaylar disiplin amirlerinin teklifi” olarak değiştirilmiştir.
 117
 
-İstisnai memurluklar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

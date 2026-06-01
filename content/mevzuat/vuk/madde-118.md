@@ -20,7 +20,6 @@ alınmasıdır.
 4. Vergilendirme veya muafiyet döneminde hata: Aranan verginin ilgili bulunduğu
 vergilendirme döneminin yanlış gösterilmiş veya süre itibariyle eksik veya fazla hesaplanmış
 olmasıdır.
-Hataların meydana çıkarılması:
 
 ### Bizim Yorumumuz
 

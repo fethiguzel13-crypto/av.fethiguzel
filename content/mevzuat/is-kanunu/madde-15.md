@@ -23,9 +23,6 @@ Deneme süresi içinde taraflar iş sözleşmesini bildirim süresine gerek olma
 tazminatsız feshedebilir. İşçinin çalıştığı günler için ücret ve diğer hakları saklıdır.
 5 6/5/2016 tarih ve 6715 sayılı Kanınun 2 nci maddesiyle bu madde başlığı “Çağrı üzerine çalışma” iken metne işlendiği şekilde değiştirilmiştir.
 
-
-Takım sözleşmesi ile oluşturulan iş sözleşmeleri
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

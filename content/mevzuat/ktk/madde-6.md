@@ -23,7 +23,6 @@ b) (Değişik: 21/5/1997-4262/1 md.) Genel Zabıta:
 Trafik zabıtasının bulunmadığı veya yeterli olmadığı yerlerde sorumluluk bölgesine
 göre genel zabıta ilgili mevzuatta belirtilen esas ve usullere uygun olarak trafiği düzenlemeye
 ve trafik suçlarına el koymaya görevli ve yetkilidir.6
-Karayolları Genel Müdürlüğünün görev ve yetkileri:
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ Fon Kurulu kararıyla üç başkan yardımcısı atanır. Başkan yardımcılar�
 belirtilen şartları taşıması gerekir.45
 Fon başkan yardımcıları gerektiğinde sınırlarını yazılı olarak açıkça belirlemek
 şartıyla yetkilerinden bir kısmını alt kademelere devredebilir.
-Fonun hizmet birimleri
 
 ### Bizim Yorumumuz
 

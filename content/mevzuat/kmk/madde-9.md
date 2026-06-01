@@ -22,7 +22,6 @@ yerlerden girmek, çıkmak veya geçmek yasaktır. Bu yerlerde rastlanacak kişi
 taşıma araçları yetkili memurlar tarafından durdurulur ve kişilerin eşya, yük ve üzerleri ile
 varsa taşıma araçları aranır. Yapılan arama sonucunda tespit edilen kaçak eşyaya derhal
 elkonulur.
-Kaçak eşya naklinde kullanılan taşıta elkoyma11
 
 ### Bizim Yorumumuz
 

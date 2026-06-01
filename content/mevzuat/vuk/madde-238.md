@@ -27,7 +27,6 @@ yirminci gününe kadar hazırlanıp tarihlenerek, müessese sahibi veya müdür
 tanzim eden memur tarafından imzalanır.
 İş verenler ücret bordrolarını, yukarıki esaslara uymak şartiyle diledikleri şekilde
 tanzim edebilirler.
-Bordro yerine geçen vesikalar:
 
 ### Akademik Yorum ve Analiz
 

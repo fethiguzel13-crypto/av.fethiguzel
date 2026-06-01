@@ -15,7 +15,6 @@ bilgi ve belgelerinde gizlilik esastır.
 veya avukatı, başvuru sahibi ve uluslararası koruma statüsü sahibinin kişisel dosyasında yer
 alan belgeleri inceleyebilir, birer örneğini alabilir. Millî güvenlik ve kamu düzeninin
 korunması ile suç işlenmesinin önlenmesine ilişkin belgeler incelenemez ve verilemez.
-Kabul ve barınma merkezleri
 
 ### Bizim Yorumumuz
 

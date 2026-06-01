@@ -21,7 +21,6 @@ Kanunun 3 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 7
 
 Özel kanunlarında ikmalen tarhiyata ilişkin olarak yer alan hükümler saklıdır.
-Re'sen vergi tarhı:
 
 ### Bizim Yorumumuz
 

@@ -44,7 +44,6 @@ düzenledikleri belgeler,
 gider pusulası yerine geçer.
 (Ek fıkra:14/10/2021-7338/23 md.) Bu maddenin uygulamasına ilişkin usul ve esasları
 belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.
-Müstahsil makbuzu:
 
 ### Bizim Yorumumuz
 

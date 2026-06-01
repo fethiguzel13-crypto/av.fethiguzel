@@ -29,7 +29,6 @@ alma konusunda hiçbir hak sağlamaz.
 (4) Öğrenim süresi bir yıldan kısa ise öğrenci ikamet izni süresi öğrenim süresini aşamaz.
 (5) (Ek: 28/7/2016-6735/27 md.) Kamu kurum ve kuruluşları aracılığıyla gelerek
 Türkiye’de öğrenim görecek yabancılara, öğrenim süresince ikamet izni verilebilir.
-Öğrenci ikamet izninin şartları
 
 ### Bizim Yorumumuz
 

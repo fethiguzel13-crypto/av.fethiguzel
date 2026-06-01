@@ -29,9 +29,6 @@ kamulaştırmalarda yatırılacak miktar, ödenecek ilk taksit bedelidir.
 ALTINCI KISIM
 Bedelsiz Kullanma, Giderlerin Ödenmesi ve
 İdareler Arasında Taşınmaz Mal Devri
-BİRİNCİ BÖLÜM
-Bedelsiz Kullanma ve Giderler
-Bedelsiz kullanma yetkisi
 
 ### Akademik Yorum ve Analiz
 

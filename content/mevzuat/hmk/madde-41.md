@@ -19,7 +19,6 @@ katılmasıyla; tek hâkimli mahkemelerde ise reddedilen hâkimin kendisi taraf�
 (3) İlk derece mahkemesinin bu kararlarına karşı istinaf yoluna, bölge adliye
 mahkemesi hukuk dairelerinin başkan ve üyeleri hakkındaki kararlarına karşı da temyiz
 yoluna ancak hükümle birlikte başvurulabilir.
-Ret talebinin incelenmesi6
 
 ### Bizim Yorumumuz
 

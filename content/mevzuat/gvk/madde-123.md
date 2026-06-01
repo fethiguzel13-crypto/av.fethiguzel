@@ -73,7 +73,6 @@ numaralı bendinde” şeklinde değiştirilmiştir.
 3. Bu Kanunun 103 üncü maddesinde yer alan vergi tarifesinin gelir dilim tutarları
 hakkında, bu maddenin (2) numaralı fıkrası uygulanır.
 Son Hükümler
-Kaldırılan hükümler:
 
 ### Bizim Yorumumuz
 

@@ -110,7 +110,6 @@ durumlarına göre toplam memur sayısının yüzde onunu ve Devlet memurlarına
 aylık katsayının (20.000) gösterge rakamı ile çarpımı sonucu bulunacak miktarı geçmemek
 üzere, hastalık ve yıllık izinleri dâhil olmak üzere, çalıştıkları sürelerle orantılı olarak
 encümen kararıyla yılda en fazla iki kez ikramiye ödenebilir.
-Personel devri
 
 ### Bizim Yorumumuz
 

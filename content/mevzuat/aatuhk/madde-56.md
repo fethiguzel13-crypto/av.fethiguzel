@@ -14,7 +14,6 @@ Madde 56 – Karşılığında teminat gösterilmiş bulunan amme alacağı vade
 veya diğer şekillerle cebren tahsile devam olunacağı borçluya bildirilir. 15 gün içinde borç
 ödenmediği takdirde teminat bu kanun hükümlerine göre paraya çevrilerek amme alacağı
 tahsil edilir.26
-Kefil ve yabancı şahıs veya kurumlar mümessillerini takip:
 
 ### Bizim Yorumumuz
 

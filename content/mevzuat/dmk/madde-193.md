@@ -15,7 +15,6 @@ Madde 193 – (Değişik: 31/7/1970 - 1327/69 md.)
 Cumhurbaşkanınca onanacak programlar gereğince, genel ve katma bütçelere her yıl
 konulacak ödeneklerle tesis edilecek fondan karşılanır.274
 Bu madde hükmü özel kanunlarla düzenlenir.
-Bazı devlet memurları için konut tahsisi:
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ takip eden hesap döneminden başlıyarak I inci sınıfa geçerler.
 nispette fazla olursa, veya;
 2. Arka arkaya 2 dönemin iş hacmı 177 nci maddede yazılı hadlere nazaran % 20 ye
 kadar bir fazlalık gösterirse.
-İhtiyari sınıf değiştirme:
 
 ### Bizim Yorumumuz
 

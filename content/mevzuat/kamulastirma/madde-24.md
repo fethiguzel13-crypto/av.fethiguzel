@@ -18,9 +18,6 @@ geri alınan taşınmaz mal üzerindeki bina, sabit tesisler ve ekili dikili şe
 tarihindeki değerine göre farkının, ödeyeceği kamulaştırma bedelinden düşülmesini isteyebilir.
 Bu madde ile 21, 22 ve 23 üncü maddelerin uygulamasından doğacak anlaşmazlıklar
 adli yargıda çözümlenir.
-İKİNCİ BÖLÜM
-Tebliğ ile Doğacak Haklar ve Borçlar
-Hakların sınırlandırılması ve mülkiyetin idareye geçmesi
 
 ### Bizim Yorumumuz
 

@@ -18,9 +18,6 @@ arasındaki fark taraflarca nakit olarak karşılanır. Ancak idarenin vereceği
 değeri, kamulaştırma bedelinin yüzde yüzyirmisini aşamaz.
 28 Anayasa Mahkemesinin 16/7/2020 tarihli ve Esas No.:2018/104; Karar No.:2020/39 sayılı Kararı ile bu fıkranın üçüncü cümlesinde yer alan “bu süre” ve “bir defaya mahsus olmak üzere beş yıl süre ile uzatılabilir.” ibareleri ile “Cumhurbaşkanı tarafından” ibaresinin iptaline karar verilmiştir.
 
-
-Acele kamulaştırma
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

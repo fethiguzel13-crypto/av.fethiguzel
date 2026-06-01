@@ -44,7 +44,6 @@ vermeye yetkilidir.
 kişi ise 4721 sayılı Kanun hükümlerine göre nafakaya hükmedilmemiş olması kaydıyla
 hâkim, şiddet mağdurunun yaşam düzeyini göz önünde bulundurarak talep edilmese dahi
 tedbir nafakasına hükmedebilir.
-Suçlara ilişkin saklı tutulan hükümler
 
 ### Bizim Yorumumuz
 

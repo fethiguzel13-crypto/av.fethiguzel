@@ -48,9 +48,6 @@ davalarında, alacağın devralındığı veya borcun, taahhüdün yüklenildiğ
 suçtan zarar gören olarak, varlık yönetim şirketi kendiliğinden müdahil sıfatını kazanır.
 Bu Kanunun yayımı tarihinden önce kurulmuş olan varlık yönetim şirketleri bu Kanun
 hükümlerine tâbi olarak faaliyetlerini yürütürler.
-ONÜÇÜNCÜ KISIM
-Diğer Hükümler
-Faiz oranları ile diğer menfaatler63
 
 ### Bizim Yorumumuz
 

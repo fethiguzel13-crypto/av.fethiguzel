@@ -34,8 +34,6 @@ Başsavcılığı” ibaresi yürürlükten kaldırılmış olup, daha sonra bu 
 sayılı Kanunun 15 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 137
 
-Temyiz isteminin reddi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

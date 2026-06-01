@@ -29,7 +29,6 @@ dinlemeye ilişkin kayıtlar, hâkim denetimi altında aynı usulle yok edilir.
 kovuşturma evresinin bitiminden itibaren, en geç onbeş gün içinde, Cumhuriyet başsavcılığı
 veya mahkeme, tedbirin nedeni, kapsamı, süresi ve sonucu hakkında ilgilisine yazılı olarak
 bilgi verir.4243
-Tesadüfen elde edilen deliller
 
 ### Bizim Yorumumuz
 

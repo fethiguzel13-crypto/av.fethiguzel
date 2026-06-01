@@ -20,9 +20,6 @@ hazırlaması için süre verilir.
 ve varsa müdafie yapılır. Müdafii sanığa tanınan haklardan onun gibi yararlanır. Sanığın
 dosyada var olan son adresine bildirim yapılamaması veya bildirime rağmen duruşmaya
 gelmemesi halinde müdafie yapılan bildirimler yeterli kabul edilir.
-ÜÇÜNCÜ BÖLÜM
-Karar ve Hüküm
-Müzakereye katılacak hâkimler
 
 ### Bizim Yorumumuz
 

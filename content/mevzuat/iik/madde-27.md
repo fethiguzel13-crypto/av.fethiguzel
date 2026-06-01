@@ -14,7 +14,6 @@ tapuya tescil edilmiş bir akte müsteniden işgal edilmekte ise alacaklı borç
 malik olduğu hakları haiz olur. Bu şıkkı ihtiyar etmezse borçlusuna karşı tazminat davası
 açabilir. Şu kadar ki suiniyet sahibi üçüncü şahıslara karşı umumi hükümler mahfuzdur.
 (Ek: 29/6/1956-6763/42 md.; Mülga ikinci fıkra: 14/1/2011-6103/41 md.)
-Taşınmaz davalarında hükümlerin tapu sicil dairesine tebliği:15
 
 ### Bizim Yorumumuz
 

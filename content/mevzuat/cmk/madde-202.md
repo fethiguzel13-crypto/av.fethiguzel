@@ -31,9 +31,6 @@ yıl düzenlenen listede yer alan kişiler arasından seçilirler. Cumhuriyet sa
 yalnız bulundukları il bakımından oluşturulmuş listelerden değil, diğer illerde oluşturulmuş
 listelerden de tercüman seçebilirler. Bu listelerin düzenlenmesine ilişkin usul ve esaslar
 yönetmelikle belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Duruşmanın Düzen ve Disiplini
-Hâkim veya başkanın yetkisi
 
 ### Bizim Yorumumuz
 

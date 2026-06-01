@@ -29,9 +29,6 @@ yirmialtıncı günü akşamına kadar ödenir.
 ÜÇÜNCÜ KISIM
 Dar Mükellefiyet Esasında
 Verginin Tarhı ve Ödenmesi
-BİRİNCİ BÖLÜM
-Matrahın Tayini
-Safî kurum kazancı
 
 ### Bizim Yorumumuz
 

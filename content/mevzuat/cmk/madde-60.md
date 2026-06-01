@@ -20,7 +20,6 @@ evresinde sulh ceza hâkimi yetkilidir.
 türüne göre tümüyle uygulandıktan sonra o dava veya aynı işe ilişkin diğer davada tekrar
 edilmez.
 (4) Disiplin hapsi kararına itiraz edilebilir.
-Tanığa verilecek tazminat ve giderler4
 
 ### Bizim Yorumumuz
 

@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 Madde 168 – (1) Olay yerinde görevine ait işlemlere başlayan adlî kolluk görevlisi,
 bunların yapılmasına engel olan veya yetkisi içinde aldığı tedbirlere aykırı davranan kişileri,
 işlemler sonuçlanıncaya kadar ve gerektiğinde zor kullanarak bundan men eder.
-Soruşturma evresinde yapılan işlemlerin tutanağa bağlanması
 
 ### Bizim Yorumumuz
 

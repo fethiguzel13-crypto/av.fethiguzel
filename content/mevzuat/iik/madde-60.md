@@ -39,7 +39,6 @@ cezalandırılacağı ihtarını,
 dosyasına konulur. Alacaklı isterse kendisine ayrıca tasdikli bir nüsha verilir. Nüshalar
 arasında fark bulunduğu takdirde borçludaki muteber sayılır.
 Alacaklıya verilen nüsha hiçbir resim ve harca tabi değildir.
-2 – Ödeme emrinin tebliği:
 
 ### Bizim Yorumumuz
 

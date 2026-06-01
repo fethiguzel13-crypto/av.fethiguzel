@@ -61,7 +61,6 @@ Fon tarafından bu Kanun hükümleri çerçevesinde yönetim ve denetimi devral�
 şirketlerin yönetim, denetim veya tasfiye kurullarına atanan memurlar ve diğer kamu
 görevlilerine kamu iktisadi teşebbüsleri yönetim kurulu üyeleri için belirlenen aylık ücretin üç
 katını geçmemek üzere Fon Kurulunca belirlenecek miktarda ücret ödenebilir.
-Fon Kurulu üyelerinin görevden ayrılması
 
 ### Bizim Yorumumuz
 

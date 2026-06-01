@@ -16,7 +16,6 @@ ilişkin makbuz vermesine ve bu işlemlerin tamamının kendisine karşı da yap
 ilişkin yetkiyi kapsar.
 (2) Belirtilen bu yetkiyi kısıtlamaya yönelik bütün sınırlandırıcı işlemler, karşı taraf
 yönünden geçersizdir.
-Davaya vekâlette özel yetki verilmesini gerektiren hâller
 
 ### Bizim Yorumumuz
 

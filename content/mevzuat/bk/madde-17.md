@@ -15,7 +15,6 @@ ilâve edilmesine izin verilen kaynaklar hariç, iç kaynaklara başvurulmadan n
 Sermayenin mevzuata aykırı olarak artırıldığı tespit edilen kısmı, özkaynak hesabında
 dikkate alınmaz.
 Bu madde kapsamında sermaye artırımına ilişkin usûl ve esaslar Kurulca belirlenir.
-Pay edinim ve devirleri
 
 ### Bizim Yorumumuz
 

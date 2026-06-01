@@ -21,9 +21,6 @@ veya ruhsatname ile intifaları altında bulunmayan kireç, taş ve kum ocaklar�
 ücrete tabi olmadan kullanabilirler.
 29 Bu fıkrada yer alan; sırasıyla, “11 ve 12 nci” ve “milli bir bankaya” ibareleri; “10 uncu” ve “10 uncu maddeye göre yapılacak davetiye ve ilanda belirtilen bankaya” şeklinde 24/4/2001 tarihli ve 4650 sayılı Kanunun 15 inci maddesiyle değiştirilmiş ve metne işlenmiştir. 30 2/7/2018 tarihli ve 700 sayılı KHK’nin 86 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 
-
-Giderlerin ödenmesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

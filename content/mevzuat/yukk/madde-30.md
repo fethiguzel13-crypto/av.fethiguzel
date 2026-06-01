@@ -16,7 +16,6 @@ c) Öğrenci ikamet izni
 ç) Uzun dönem ikamet izni
 d) İnsani ikamet izni
 e) İnsan ticareti mağduru ikamet izni
-Kısa dönem ikamet izni
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ süresi uzatıldığında, Cumhuriyet savcısının emriyle bir yakınına veya 
 gecikmeksizin haber verilir.
 (2) Yakalanan veya gözaltına alınan yabancı ise, yazılı olarak karşı çıkmaması
 halinde, durumu, vatandaşı olduğu devletin konsolosluğuna bildirilir.
-Yakalamanın ilgililere bildirilmesi
 
 ### Bizim Yorumumuz
 

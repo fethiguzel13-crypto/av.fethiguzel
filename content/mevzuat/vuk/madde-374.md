@@ -31,7 +31,6 @@ incelemesine başlandığı veya olayın ve ilgili olduğu vergi türünün” �
 
 Madde 375 – Vergi cezalarında yapılan hatalar, bu kanunda vergi hataları için belli
 edilen usul ve şartlara göre düzeltilir.
-Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme
 
 ### Akademik Yorum ve Analiz
 

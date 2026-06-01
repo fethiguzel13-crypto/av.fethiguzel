@@ -39,7 +39,6 @@ kişilere yapılması gerekir.
 sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin kusurundan kendi kusuru
 gibi sorumludur.
 İşletenin veya araç işleticisinin bağlı olduğu teşebbüs sahibinin, sorumluluktan
-kurtulması veya sorumluluğun azaltılması:70
 
 ### Bizim Yorumumuz
 

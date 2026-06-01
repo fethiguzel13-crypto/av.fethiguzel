@@ -50,7 +50,6 @@ olduğunun anlaşılması halinde, ertelenen vergiler için Amme Alacaklarının
 Hakkında Kanun hükümlerine göre gecikme zammı hesaplanır.
 (9) Bu madde hükmünün uygulanmasında, yabancı para ile ödenen vergilere, bunların
 ilgili bulunduğu kazançların genel sonuç hesaplarına intikali esnasındaki kur uygulanır.
-Yurt içinde kesilen vergilerin mahsubu
 
 ### Bizim Yorumumuz
 

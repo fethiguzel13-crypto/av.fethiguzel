@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 26 – (1) Bu Kanun yayımı tarihinde yürürlüğe girer.
-Yürütme
 
 ### Bizim Yorumumuz
 

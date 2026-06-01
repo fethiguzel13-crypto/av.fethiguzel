@@ -16,7 +16,6 @@ jandarmanın teşkilat, görev, yetki ve sorumlulukları, diğer makamlarla ili�
 çalışma ve işbirliği esasları dahil komuta ve kontrol ilişkileri ile Jandarma (...)23 personelinin
 terfi işleri, değerlendirme, ödüllendirme, kılık ve kıyafet ve Kanunun uygulanmasına ilişkin
 diğer hususlar; Cumhurbaşkanınca yürürlüğe konulan yönetmelikle düzenlenir.24
-Yürürlükten kaldırılan ve uygulanmayacak olan hükümler:
 
 ### Bizim Yorumumuz
 

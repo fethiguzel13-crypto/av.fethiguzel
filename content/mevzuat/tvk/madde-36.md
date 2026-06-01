@@ -17,7 +17,6 @@ b) Nüfus cüzdanları.
 c) Pasaport veya pasaport yerine geçen belgeler.
 (3) Bir kişinin Türk vatandaşı olup olmadığı konusunda herhangi bir tereddüde
 düşüldüğü takdirde bu husus Bakanlıktan sorulur.
-Vatandaşlık işlemlerinde müracaat makamı ve usul
 
 ### Bizim Yorumumuz
 

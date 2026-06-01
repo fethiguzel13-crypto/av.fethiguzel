@@ -16,8 +16,6 @@ tutarları bütçeye gelir kaydedilir.
 işlem gören ergin olmayan çocukları için birinci fıkra uyarınca belirlenen hizmet bedeli
 alınmaz.
 
-Yönetmelik
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

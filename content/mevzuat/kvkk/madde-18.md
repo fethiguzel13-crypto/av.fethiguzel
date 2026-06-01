@@ -33,9 +33,6 @@ niteliğindeki meslek kuruluşları bünyesinde işlenmesi hâlinde, Kurulun yap
 üzerine, ilgili kamu kurum ve kuruluşunda görev yapan memurlar ve diğer kamu görevlileri
 ile kamu kurumu niteliğindeki meslek kuruluşlarında görev yapanlar hakkında disiplin
 hükümlerine göre işlem yapılır ve sonucu Kurula bildirilir.
-ALTINCI BÖLÜM
-Kişisel Verileri Koruma Kurumu ve Teşkilat
-Kişisel Verileri Koruma Kurumu
 
 ### Bizim Yorumumuz
 

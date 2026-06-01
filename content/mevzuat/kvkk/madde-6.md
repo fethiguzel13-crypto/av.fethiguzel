@@ -39,7 +39,6 @@ temasta olan kişilere yönelik olması,
 halinde mümkündür.
 (4) Özel nitelikli kişisel verilerin işlenmesinde, ayrıca Kurul tarafından belirlenen
 yeterli önlemlerin alınması şarttır.
-Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi
 
 ### Bizim Yorumumuz
 

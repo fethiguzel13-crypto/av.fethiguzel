@@ -16,7 +16,6 @@ alınan payların elden çıkarılması veya itfası ve bu hususların kamuya a�
 usul ve esasları düzenler.
 (2) Halka açık ortaklık paylarının, söz konusu ortaklığın konsolide bilançosuna dâhil
 edilen ortaklıklar tarafından satın alınması da bu madde hükümlerine tabidir.
-Ortaklıkların önemli nitelikteki işlemleri
 
 ### Bizim Yorumumuz
 

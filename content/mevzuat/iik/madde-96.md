@@ -24,7 +24,6 @@ kaybeder. İstihkak iddiasının yapıldığı veya istihkak davasının açıld
 müddeisi ile birlikte oturan kimseler yahut bu şahısların iş ortakları, iddianın yapıldığı tarihte
 veya istihkak davası 97 nci maddenin 9 uncu fıkrası gereğince açılmışsa davanın açıldığı
 tarihte malın haczine ıttıla kesbetmiş sayılırlar.
-2 – Üçüncü şahsın istihkak iddiası:
 
 ### Akademik Yorum ve Analiz
 

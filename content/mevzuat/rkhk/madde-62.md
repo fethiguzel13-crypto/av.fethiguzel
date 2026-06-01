@@ -23,8 +23,6 @@ yıl içinde çıkarılır.
 kararı ile” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 21
 
-Uygulanmayacak Hükümler22
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

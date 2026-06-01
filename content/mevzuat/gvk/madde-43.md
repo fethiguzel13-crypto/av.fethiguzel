@@ -45,7 +45,6 @@ tamamlandığı veya fiilen bırakıldığı tarih bitim tarihi olarak kabul edi
 Bitim tarihinden sonra bu işlerle ilgili olarak yapılan giderler ve her nam ile olursa
 olsun elde edilen hasılat, bu giderlerin yapıldığı veya hasılatın elde edildiği yılın kar veya
 zararının tespitinde dikkate alınır.
-Ulaştırma işlerinde matrah:
 
 ### Akademik Yorum ve Analiz
 

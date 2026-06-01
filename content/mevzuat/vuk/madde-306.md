@@ -16,7 +16,6 @@ Madde 306 – Aşağıda yazılı bina kısımları için ayrı ayrı irat tahmi
 2. Sahipleri arasında ifraz ve taksim edilmiş olan binaların müfrez kısımları (İfraz
 olunmayıp da şayian tasarruf olunan binaların iradı binanın genel heyeti itibariyle tahmin
 olunur).
-İrat ve kıymet münasebeti:
 
 ### Akademik Yorum ve Analiz
 

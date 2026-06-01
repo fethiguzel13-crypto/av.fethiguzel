@@ -18,7 +18,6 @@ sorumludur. İşleten, kendisinin veya eylemlerinden sorumlu olduğu kişilerden
 Aracın çalındığını veya gasbedildiğini bilerek binen yolculara karşı sorumluluk, genel
 hükümlere tabidir.
 (Mülga üçüncü fıkra : 3/6/2007-5684/45 md.)
-Karayolu Trafik Garanti Sigortası Hesabı:
 
 ### Bizim Yorumumuz
 

@@ -76,7 +76,6 @@ kanunlarla veya Cumhurbaşkanlığı kararnameleriyle kurulan araştırma kuruml
 idareyle ilgili olarak yapılan inceleme ve araştırma çalışmalarına katılanlar için özel
 kanunlarınca gösterilen veya bu kanunlara dayanılarak tespit edilen ücretlerin ödenmesine
 ilişkin hükümler saklıdır.
-İkinci görev verilecek memurlar ve görevler:
 
 ### Bizim Yorumumuz
 

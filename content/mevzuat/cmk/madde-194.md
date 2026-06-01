@@ -13,7 +13,6 @@ Madde 194 – (1) Mahkemeye gelen sanığın duruşmanın devamı süresince haz
 bulunması sağlanır ve savuşmasının önüne geçmek için mahkeme gereken tedbirleri alır.
 (2) Sanık savuşur veya ara vermeyi izleyen oturuma gelmezse, önceden sorguya çekilmiş
 ve artık hazır bulunmasına mahkemece gerek görülmezse, dava yokluğunda bitirilebilir.
-Sanığın yokluğunda duruşma
 
 ### Bizim Yorumumuz
 

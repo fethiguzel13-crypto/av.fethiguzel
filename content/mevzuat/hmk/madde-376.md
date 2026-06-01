@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 MADDE 376- (1) Davanın taraflarından birisinin alacaklıları veya aleyhine hüküm
 verilen tarafın yerine geçenler, borçluları veya yerine geçmiş oldukları kimselerin aralarında
 anlaşarak, kendilerine karşı hile yapmaları nedeniyle hükmün iptalini isteyebilirler.
-Süre
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ Devlet Personel Başkanlığının birlikte hazırlıyacakları yönetmeliklerde
 Öğrenimi sırasında Devlet hesabına okuma hakkını kaybeden veya öğrenim kurumunu
 terk edenler için kurumlarınca yapılmış masraflar kendilerinden faizi ile birlikte tahsil olunur.
 Özel kanun ve yüklenme senedi hükümleri saklıdır.
-Mecburi hizmet:
 
 ### Bizim Yorumumuz
 

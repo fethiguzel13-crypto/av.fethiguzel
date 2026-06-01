@@ -19,10 +19,6 @@ sayılı Resmi Gazete’de yayımlanan Anayasa Mahkemesi’nin 27/12/2012 tarihl
 2012/205 sayılı Kararı ile iptal edilmiştir.
 26
 
-ONBİRİNCİ KISIM
-Ceza Hükümleri
-Gerçek dışı beyan
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

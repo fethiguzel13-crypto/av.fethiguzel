@@ -14,7 +14,6 @@ evresi başlar.
 
 (2) Mahkeme, iddianamenin kabulünden sonra duruşma gününü belirler ve duruşmada
 hazır bulunması gereken kişileri çağırır.
-İddianamenin sanığa tebliği ve sanığın çağrılması
 
 ### Bizim Yorumumuz
 

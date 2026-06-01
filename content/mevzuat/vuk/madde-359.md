@@ -86,7 +86,6 @@ yılı veya vergilendirme dönemi içinde aynı suç işleme kararının icrası
 halinde, Türk Ceza Kanununun 43 üncü maddesi uygulanır.
 Kaçakçılık suçlarını işleyenler hakkında bu maddede yazılı cezaların uygulanması 344
 üncü maddede yazılı vergi ziyaı cezasının ayrıca uygulanmasına engel teşkil etmez.
-Cezadan indirim139
 
 ### Bizim Yorumumuz
 

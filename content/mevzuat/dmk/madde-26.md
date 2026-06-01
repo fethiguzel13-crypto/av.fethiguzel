@@ -15,7 +15,6 @@ Devlet memurlarının kamu hizmetlerini aksatacak şekilde memurluktan kasıtlı
 birlikte çekilmeleri veya görevlerine gelmemeleri veya görevlerine gelipte Devlet
 hizmetlerinin ve işlerinin yavaşlatılması veya aksatılması sonucunu doğuracak eylem ve
 hareketlerde bulunmaları yasaktır.
-Grev yasağı:
 
 ### Bizim Yorumumuz
 

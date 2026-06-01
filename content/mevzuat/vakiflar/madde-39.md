@@ -14,8 +14,6 @@ MADDE 39 – (Mülga: 2/7/2018/KHK/703/102 md.)
 şeklinde değiştirilmiştir.
 10
 
-Bazı gelirler ile bağışların harcanması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

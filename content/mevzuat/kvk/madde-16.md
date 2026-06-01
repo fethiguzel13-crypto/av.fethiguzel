@@ -41,9 +41,6 @@ olmak üzere yönetici ortak veya ortaklardan herhangi birisi adına tarh olunur
 (5) Kurumlar vergisi, bağlı olunan vergi dairesine beyannamenin verildiği günde,
 beyanname posta ile gönderilmişse, vergiyi tarh edecek daireye geldiği tarihi izleyen üç gün
 içinde tarh edilir.
-DÖRDÜNCÜ BÖLÜM
-Tasfiye, Birleşme, Devir, Bölünme ve Hisse Değişimi
-Tasfiye
 
 ### Bizim Yorumumuz
 

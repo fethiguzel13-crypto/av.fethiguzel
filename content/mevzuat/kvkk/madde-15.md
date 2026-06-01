@@ -29,7 +29,6 @@ almadan önce ihtiyaç duyması hâlinde, ilgili kurum ve kuruluşların görü�
 (7) Kurul, telafisi güç veya imkânsız zararların doğması ve açıkça hukuka aykırılık
 olması hâlinde, veri işlenmesinin veya verinin yurt dışına aktarılmasının durdurulmasına karar
 verebilir.
-Veri Sorumluları Sicili
 
 ### Bizim Yorumumuz
 

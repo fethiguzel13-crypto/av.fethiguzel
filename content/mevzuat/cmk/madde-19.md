@@ -22,8 +22,6 @@ Bu madde başlığı “Davanın nakli” iken, 24/11/2016 tarihli ve 6763 sayı
 maddesiyle metne işlendiği şekilde değiştirilmiştir.
 1
 
-Yetkili olmayan hâkim veya mahkemenin işlemleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

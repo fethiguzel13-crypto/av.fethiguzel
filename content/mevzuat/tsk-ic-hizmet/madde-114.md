@@ -23,7 +23,6 @@ icabettirdiği emirleri verebilir. (Mülga ikinci ve üçüncü cümle: 3/10/201
 md.; Aynen kabul: 1/2/2018-7070/46 md.) (...)
 b) Bütün sivil personel emrinde çalıştıkları askeri amirlere karşı ast durumunda olup
 bu kanunun 14 üncü maddesinin asta tahmil ettiği vazifeleri aynen yapmaya mecburdurlar.
-(Mülga ikinci cümle: 31/1/2013-6413/45 md.) (...)
 
 ### Bizim Yorumumuz
 

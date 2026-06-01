@@ -13,7 +13,6 @@ Madde 43- Belediye başkanının kendisinin, birinci ve ikinci derecedeki kan ve
 hısımlarının ve evlatlıklarının, belediye ile ihtilâflı olduğu durumlarda dava açılması ve bu
 davada belediyenin temsili, meclis birinci başkan vekili, bulunmadığı takdirde ikinci başkan
 vekili veya bunların yetkilendireceği kişiler tarafından yerine getirilir.
-Belediye başkanlığının sona ermesi
 
 ### Bizim Yorumumuz
 

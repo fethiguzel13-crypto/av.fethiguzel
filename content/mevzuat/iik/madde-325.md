@@ -19,7 +19,6 @@ uncu maddenin üçüncü fıkrasında bahsolunan taksitlerin tediyesi için muva
 lüzum yoktur.
 Fevkalade mühlet kararında yukardaki kayıtlar bulunursa bunlar da ilana yazılır ve
 fevkalade mühlet tapu siciline temlik hakkının tahdidi suretiyle geçirilir.
-Fevkalade mühlete tabi olmıyan alacaklar:
 
 ### Bizim Yorumumuz
 

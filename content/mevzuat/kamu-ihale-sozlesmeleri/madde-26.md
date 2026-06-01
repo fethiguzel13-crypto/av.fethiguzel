@@ -37,7 +37,6 @@ Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı olanlara ilişkin si
 İdareler, 25 inci maddede belirtilen yasaklamayı gerektirir bir durumla karşılaştıkları
 takdirde, gereğinin yapılması için bu durumu ilgili veya bağlı bulunulan bakanlığa bildirmekle
 yükümlüdür.
-Yüklenicilerin ceza sorumluluğu
 
 ### Bizim Yorumumuz
 

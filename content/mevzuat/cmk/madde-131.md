@@ -21,7 +21,6 @@ Kanunun 89 uncu maddesiyle aynen kabul edilerek kanunlaşmıştır.
 (2) 128 inci madde hükümlerine göre elkonulan eşya veya diğer malvarlığı değerleri,
 suçtan zarar gören mağdura ait olması ve bunlara delil olarak artık ihtiyaç bulunmaması
 halinde, sahibine iade edilir.
-Elkonulan eşyanın muhafazası veya elden çıkarılması
 
 ### Bizim Yorumumuz
 

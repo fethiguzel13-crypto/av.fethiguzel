@@ -17,8 +17,6 @@ ibaresi “yakalanan, adli kontrol altına alınan” şeklinde ve fıkranın (e
 alınmasına” ibaresi “gözaltına alınmasına, adli kontrol altına alınmasına” şeklinde değiştirilmiştir.
 52
 
-Zorla getirme53
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

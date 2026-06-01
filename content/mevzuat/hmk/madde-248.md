@@ -17,7 +17,6 @@ c) Kendisi veya eşinin altsoy veya üstsoyu.
 d) Üçüncü derece de dâhil olmak üzere kan veya kendisini oluşturan evlilik bağı
 ortadan kalkmış olsa dahi kayın hısımları.
 e) Koruyucu aile ve onların çocukları ile koruma altına alınan çocuk.
-Sır nedeniyle tanıklıktan çekinme
 
 ### Bizim Yorumumuz
 

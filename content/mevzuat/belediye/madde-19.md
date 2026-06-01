@@ -26,7 +26,6 @@ yenisi seçilir.
 Meclis başkanı, meclis çalışmalarında düzeni sağlamakla yükümlüdür.
 Meclisin çalışması ve katılıma ilişkin esas ve usûller Çevre ve Şehircilik Bakanlığı
 tarafından çıkarılacak yönetmelikle düzenlenir.22
-Meclis toplantısı
 
 ### Bizim Yorumumuz
 

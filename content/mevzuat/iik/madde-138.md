@@ -23,7 +23,6 @@ tarafından avukatlık ücret tarifesine göre hasaplanır. Bu şekilde tayin ol
 takip masraflarına dahildir.
 Muvakkat hacizler için ayrılmış hisseler vaziyet anlaşılıncaya kadar sağlam bir
 bankaya, banka bulunmıyan yerlerde mahkeme veya icra sandıklarına yatırılır.
-İcra dairesinin tamamlama hacizleri:
 
 ### Akademik Yorum ve Analiz
 

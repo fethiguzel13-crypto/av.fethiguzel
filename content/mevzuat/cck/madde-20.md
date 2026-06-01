@@ -21,7 +21,6 @@ veya tedbirlere uyulmaması durumunda tutuklama kararı verilebilir.
 
 edilen çocuk için adli kontrol süresince rehberlik edecek bir uzman görevlendirilir ve çocuk
 hakkında yapılacak ihtiyaç değerlendirmesine göre iyileştirme çalışmaları yürütülür.
-Tutuklama yasağı
 
 ### Bizim Yorumumuz
 

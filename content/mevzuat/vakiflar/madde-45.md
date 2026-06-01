@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 45 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Meclis üyelerince uyulması gereken hususlar
 
 ### Bizim Yorumumuz
 

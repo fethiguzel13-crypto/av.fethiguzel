@@ -23,7 +23,6 @@ kaynaklanan bir kusurdan ileri gelmemiş olması, taahhüdün yerine getirilmesi
 olması, yüklenicinin bu engeli ortadan kaldırmaya gücünün yetmemiş bulunması, mücbir sebebin
 meydana geldiği tarihi izleyen yirmi gün içinde yüklenicinin idareye yazılı olarak bildirimde
 bulunması ve yetkili merciler tarafından belgelendirilmesi zorunludur.
-Denetim, muayene ve kabul işlemleri
 
 ### Bizim Yorumumuz
 

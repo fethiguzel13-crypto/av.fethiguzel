@@ -15,7 +15,6 @@ karıştırma, edimin ifasına fesat karıştırma, güveni kötüye kullanma, k
 güvenliğine karşı işlenen suçların birinden mahkûm olanlar yönetici olamazlar.
 Vakıf yöneticisi seçildikten sonra yukarıdaki suçlardan mahkûm olanların yöneticiliği
 sona erer.
-Vakıf yöneticilerinin sorumlulukları ve görevden alınması
 
 ### Bizim Yorumumuz
 

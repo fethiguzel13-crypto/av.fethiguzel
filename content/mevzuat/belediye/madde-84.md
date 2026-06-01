@@ -23,8 +23,6 @@ Değiştirilerek Kabulüne Dair Kanun, (...)54, 10.7.2003 tarihli ve 4925 sayıl
 Kanunu, 1.5.2003 tarihli ve 4856 sayılı Çevre ve Orman Bakanlığı Teşkilat ve Görevleri
 Hakkında Kanun ile 14.7.1965 tarihli ve 657 sayılı Devlet Memurları Kanununda bu Kanun
 hükümlerine aykırılık bulunması durumunda bu Kanun hükümleri uygulanır.
-İKİNCİ BÖLÜM
-Değiştirilen, Eklenen ve Yürürlükten Kaldırılan Hükümler
 
 ### Bizim Yorumumuz
 

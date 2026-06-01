@@ -14,7 +14,6 @@ milli egitim, bayındırlık, sağlık ve sosyal yardım, tarım ve veteriner m�
 
 
 eder.
-Vali, idare kuruluna başkanlık etmek üzere vali muavinini görevlendirebilir.
 
 ### Bizim Yorumumuz
 

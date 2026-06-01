@@ -18,7 +18,6 @@ görev alanına giren suçlarla ilgili davalara bakar.
 almakla görevlidir.
 (4) Çocuklar hakkında açılan kamu davaları, Kanunun 17 nci maddesi hükümleri saklı
 kalmak kaydıyla bu Kanunla kurulan mahkemelerde görülür.
-Mahkemelerin yargı çevresi
 
 ### Bizim Yorumumuz
 

@@ -53,7 +53,6 @@ Emanet komisyonları eliyle yapılabilecek işlere ait uygulama esasları, Cumhu
 çıkarılacak bir yönetmelikte gösterilir.24
 Yukarıdaki bentlerde sayılan işlerle ilgili olarak idarelere zorunluluk yükleyen özel
 hükümler saklıdır.
-Uluslararası antlaşmalar uyarınca yapılacak işler:
 
 ### Bizim Yorumumuz
 

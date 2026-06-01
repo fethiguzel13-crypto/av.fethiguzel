@@ -25,9 +25,6 @@ tutukluluğu, özgürlüğü kısıtlayıcı bir cezaya mahkum olması veya dağ
 teminat dahil işin o ortağa yüklediği sorumlulukları da üstlenerek taahhüdü yerine getirirler.
 3 Bu maddede geçen “pilot” ibareleri, 30/7/2003 tarihli ve 4964 sayılı Kanunun 45 inci maddesiyle “pilot veya koordinatör” olarak değiştirilmiştir.
 
-
-Yüklenicinin sözleşmeyi feshetmesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

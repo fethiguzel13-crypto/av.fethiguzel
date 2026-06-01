@@ -20,7 +20,6 @@ Bütçe yılı Devlet malî yılı ile aynıdır.
 Bütçe dışı harcama yapılamaz.
 Belediye başkanı ve harcama yetkisi verilen diğer görevliler, bütçe ödeneklerinin
 verimli, tutumlu ve yerinde harcanmasından sorumludur.
-Bütçenin hazırlanması ve kabulü
 
 ### Bizim Yorumumuz
 

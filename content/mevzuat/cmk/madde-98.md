@@ -21,7 +21,6 @@ savcıları ve kolluk kuvvetleri de yakalama emri düzenleyebilirler.
 Cumhuriyet savcısının istemi üzerine hâkim veya mahkeme tarafından düzenlenir.
 (4) Yakalama emrinde, kişinin açık eşkâli, bilindiğinde kimliği ve yüklenen suç ile
 yakalandığında nereye gönderileceği gösterilir.
-Yönetmelik
 
 ### Bizim Yorumumuz
 

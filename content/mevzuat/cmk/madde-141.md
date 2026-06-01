@@ -55,7 +55,6 @@ nedeniyle tazminat davaları ancak Devlet aleyhine açılabilir.
 (4) (Ek:18/6/2014-6545/70 md.) Devlet, ödediği tazminattan dolayı görevinin
 gereklerine aykırı hareket etmek suretiyle görevini kötüye kullanan hâkimler ve Cumhuriyet
 savcılarına bir yıl içinde rücu eder.
-Tazminat isteminin koşulları
 
 ### Bizim Yorumumuz
 

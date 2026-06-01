@@ -19,9 +19,6 @@ edilmesi dolayısıyla kişinin uğradığı maddî ve manevî zararlar bu Kanun
 maddeleri hükümlerine göre tazmin edilir.
 YEDİNCİ KİTAP
 Yargılama Giderleri ve Çeşitli Hükümler
-BİRİNCİ KISIM
-Yargılama Giderleri
-Yargılama giderleri
 
 ### Bizim Yorumumuz
 

@@ -48,7 +48,6 @@ Sisteme kayıtlı olan parmak izi ve fotoğraflar, kişinin ölümünden itibare
 halde kayıt tarihinden itibaren seksen yıl geçtikten sonra sistemden silinir.
 Parmak izi ile fotoğrafların sistemde kaydedilmesi ve saklanması ile bu kayıtlardan
 yararlanmaya ilişkin diğer esas ve usûller, İçişleri Bakanlığı tarafından Adalet Bakanlığının
-görüşü alınarak çıkarılacak yönetmelikle düzenlenir.
 
 ### Bizim Yorumumuz
 

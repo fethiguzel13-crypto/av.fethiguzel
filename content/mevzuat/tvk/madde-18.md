@@ -13,7 +13,6 @@ MADDE 18 – (1) 11 inci ve 16 ncı maddeler uyarınca Türk vatandaşlığını
 isteyen yabancıların başvuru için gerekli şartları taşıyıp taşımadıklarının tespiti, illerde
 oluşturulan vatandaşlık başvuru inceleme komisyonu tarafından yapılır. Komisyonun oluşumu
 ve çalışma esasları yönetmelikle belirlenir.
-Yetkili makam kararı ile Türk vatandaşlığının kazanılmasında usul ve esaslar
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ c) (8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanunu ile ilgili olup yerin
 işlenmiştir.)
 d) (4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanunu ile ilgili olup yerine
 işlenmiştir.)
-Yürürlükten kaldırılan hükümler
 
 ### Bizim Yorumumuz
 

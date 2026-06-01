@@ -43,7 +43,6 @@ yöneltebilir.
 (7) Bilirkişiye inceleyeceği şeyler mühür altında verilmeden önce bunların listesi ve
 sayımı yapılır. Bu hususlar bir tutanakla belirlenir. Bilirkişi, mühürlerin açılmasını ve yeniden
 konulmasını yine tutanakla belirtmek ve bir liste düzenlemekle yükümlüdür.
-Bilirkişi raporu, uzman mütalaası
 
 ### Bizim Yorumumuz
 

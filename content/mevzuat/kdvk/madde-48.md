@@ -35,7 +35,6 @@ girmesi hüküm altına alınmıştır.
 vergisinden müstesna olduğu halde yanlışlıkla alınan veya fazla alındığı anlaşılan katma
 değer vergisi, indirim hakkına sahip olmayan mükelleflere, Gümrük Kanununa göre iade
 olunur.
-Teminatlı işlemler:
 
 ### Bizim Yorumumuz
 

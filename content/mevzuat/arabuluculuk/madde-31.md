@@ -41,7 +41,6 @@ süresi dolan üyeler yeniden görevlendirilebilir.
 zorunlu giderleri 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine göre Bakanlıkça
 karşılanır.
 (8) Kurulun çalışma usul ve esasları yönetmelikle düzenlenir.
-Kurulun görevleri
 
 ### Bizim Yorumumuz
 

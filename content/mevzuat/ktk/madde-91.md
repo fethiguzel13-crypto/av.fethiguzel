@@ -33,7 +33,6 @@ ve zararların tazmini konularının özel bir anlaşmayla düzenlendiği haller
 Türkiye’ye girecek yabancı askerî araçlar bakımından bu madde hükmü uygulanmaz.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayanlar 1 800 000 lira para
 cezası ile cezalandırılırlar.
-Zorunlu mali sorumluluk sigortası dışında kalan hususlar:
 
 ### Bizim Yorumumuz
 

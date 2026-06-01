@@ -29,7 +29,6 @@ vasisi, bakım ve gözetiminden sorumlu kimse ve öğretmenleriyle işbirliği y
 devam ettiği okul, işyeri veya çocukla ilgili bilgiye sahip kurumların yetkilileri, denetim
 görevlisine yardımcı olmak, görevi gereğince istediği bilgileri vermek zorundadırlar.
 (4) Çocuğun yakınları denetim görevlisinin yetkilerine müdahale edemezler.
-Denetim plânı ve raporu
 
 ### Bizim Yorumumuz
 

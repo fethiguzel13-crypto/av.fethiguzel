@@ -15,7 +15,6 @@ başvurabilir. İstinaf yoluna asıl başvuran taraf, buna karşı iki hafta iç
 (2) İstinaf yoluna başvuran, bu talebinden feragat eder veya talebi bölge adliye
 mahkemesi tarafından esasa girilmeden reddedilirse, katılma yolu ile başvuranın talebi de
 reddedilir.
-Başvurma hakkından feragat
 
 ### Bizim Yorumumuz
 

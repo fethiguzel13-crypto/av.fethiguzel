@@ -19,7 +19,6 @@ saklı kalmak ve bu hakların kullanımında ilgili mevzuat hükümlerine tabi o
 Türk vatandaşlarına tanınan haklardan yararlanırlar.
 (2) Birinci fıkradaki haklara kısmen veya tamamen kısıtlamalar getirmeye Cumhurbaşkanı
 yetkilidir.
-Uzun dönem ikamet izninin iptali
 
 ### Bizim Yorumumuz
 

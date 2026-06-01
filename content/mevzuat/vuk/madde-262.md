@@ -45,7 +45,6 @@ Bentteki sıra numarası, 30/12/1980 tarih ve 2365 sayılı Kanunun 46 ncı madd
 
 (Ek fıkra:14/10/2021-7338/27 md.) Bu maddenin uygulamasına ilişkin usul ve
 esasları belirlemeye Hazine ve Maliye Bakanlığı yetkilidir.
-Borsa rayici:
 
 ### Akademik Yorum ve Analiz
 

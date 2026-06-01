@@ -51,9 +51,6 @@ uygulanır. Mercii bu sebepler yönünden incelemesini yapar ve kararını gere�
 mahkemesine gönderir.
 İKİNCİ KISIM
 Uzlaşma ve Müsadere
-BİRİNCİ BÖLÜM
-Uzlaşma
-Uzlaştırma99100101
 
 ### Bizim Yorumumuz
 

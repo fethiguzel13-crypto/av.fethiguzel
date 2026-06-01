@@ -20,7 +20,6 @@ yapılmak üzere mahkemece vekilin kayıtlı olduğu baroya ve gerekiyorsa Cumhu
 bulunursa, hâkim kendisini uyarır; bu uyarılara uyulmaz ve gerekli görülürse kendisini vekil ile
 temsil ettirmesine karar verip, hemen duruşma salonundan dışarıya çıkartılmasını sağlar; vekil ile
 temsil ettirmemesi hâlinde, tarafın yokluğu hâlinde uygulanacak hükümlere göre işlem yapılır.
-Tarafın davasını takip edebilecek ehliyette olmaması
 
 ### Bizim Yorumumuz
 

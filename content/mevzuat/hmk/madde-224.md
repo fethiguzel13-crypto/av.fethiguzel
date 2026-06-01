@@ -18,9 +18,6 @@ bir kayıt içermemesi” ibaresi “diğer tarafın ticari defterlerini ibraz e
 konsolosluk makamı tarafından onaylanmasına bağlıdır.
 (2) Türkiye’nin taraf olduğu milletlerarası sözleşmelerin yabancı resmî belgelerin
 tasdiki ile ilgili hükümleri saklıdır.
-ÜÇÜNCÜ BÖLÜM
-Yemin
-Yeminin konusu
 
 ### Bizim Yorumumuz
 

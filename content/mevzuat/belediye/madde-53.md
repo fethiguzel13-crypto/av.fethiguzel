@@ -19,9 +19,6 @@ Plânlar doğrultusunda halkın eğitimi için gerekli önlemler alınarak ikinc
 sayılan idareler, kurumlar ve örgütlerle ortak programlar yapılabilir.
 Belediye, belediye sınırları dışında yangın ve doğal afetler meydana gelmesi
 durumunda, bu bölgelere gerekli yardım ve destek sağlayabilir.
-DÖRDÜNCÜ KISIM
-Belediyelerin Denetimi
-Denetimin amacı
 
 ### Bizim Yorumumuz
 

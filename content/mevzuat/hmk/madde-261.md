@@ -22,7 +22,6 @@ tamamlanması amacıyla başka sorular da sorabilir.
 sormasına izin verir.
 (5) Tanığın sözleri tutanağa yazılarak önünde okunur ve tutanağın altı kendisine imza
 ettirilir.
-Yasak davranışlar
 
 ### Bizim Yorumumuz
 

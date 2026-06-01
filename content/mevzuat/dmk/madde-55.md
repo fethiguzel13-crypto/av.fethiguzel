@@ -17,7 +17,6 @@ Temel eğitim ile hazırlayıcı eğitim aynı kurumda yapılır.
 Eğitim süreleri, programları, değerlendirme esasları ve hangi kurumların
 sorumluluğunda yapılacağı ve diğer hususlar Cumhurbaşkanınca hazırlanacak bir
 yönetmelikle düzenlenir.116
-Adaylık devresi içinde göreve son verme:
 
 ### Bizim Yorumumuz
 

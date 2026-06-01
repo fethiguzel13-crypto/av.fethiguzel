@@ -16,7 +16,6 @@ sebebinin doğduğu tarihten itibaren, o hâkimin huzuru ile yapılan bütün i�
 durumda, hâkim yargılama giderlerine mahkûm edilebilir.
 (2) Çekinme kararının ilk derece mahkemesi hâkimince verildiği hâllerde, başvuru
 üzerine bölge adliye mahkemesinin vereceği karar kesindir.
-Ret sebepleri
 
 ### Bizim Yorumumuz
 

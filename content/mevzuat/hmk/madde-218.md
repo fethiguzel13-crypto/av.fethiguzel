@@ -17,7 +17,6 @@ gerekli görülürse uygun teknik araçlarla belgenin aslı kaydedilir.
 engel olunması hâlinde hâkim tarafından, engel olan kişi hakkında sebep olduğu giderlere ve
 beşyüz Türk Lirasından beşbin Türk Lirasına kadar disiplin para cezasına hükmolunur.
 Gerektiğinde zor kullanılmasına da karar verilebilir.
-Tarafların belgeleri ibrazı zorunluluğu
 
 ### Bizim Yorumumuz
 

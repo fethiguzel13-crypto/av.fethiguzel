@@ -35,7 +35,6 @@ artırılmak suretiyle uygulanır. Şu kadar ki, artırım tutarı kesinleşen c
 fazla ceza olması durumunda bunlardan tutar itibarıyla en yükseğinden) fazla olamaz.
 Birinci fıkrada yer alan beş ve iki yıllık sürelerin hesabında, artırıma esas alınan
 cezaların kesinleşme tarihi dikkate alınır.
-Suçlarda birleşme:
 
 ### Akademik Yorum ve Analiz
 

@@ -25,9 +25,6 @@ Bu Kanunun 106 ncı ve 109 uncu maddeleri hükümleri, bu maddeye göre şahsi i
 istenenler hakkında da uygulanır.
 ONİKİNCİ KISIM
 Tasarruf Mevduatı Sigorta Fonuna İlişkin Hükümler
-BİRİNCİ BÖLÜM
-Tasarruf Mevduatı Sigorta Fonu
-Fonun kuruluş ve bağımsızlığı
 
 ### Bizim Yorumumuz
 

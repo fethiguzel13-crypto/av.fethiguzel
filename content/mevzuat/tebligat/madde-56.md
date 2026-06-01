@@ -14,7 +14,6 @@ Bu Kanun hükümlerine göre tebliğ evrakının veya ihbarnamenin talikine kar�
 koyanlar ile talik edilen bu kabil evrakı bulunduğu yerden koparan, imha eden veya
 okunamaz hale getirenler hakkında, üç aydan bir yıla kadar hapis ve yirmibeş günden yüzelli
 güne kadar adlî para cezasına hükmolunur.
-Tebliğ memurları aleyhine işlenen suçlar:
 
 ### Bizim Yorumumuz
 

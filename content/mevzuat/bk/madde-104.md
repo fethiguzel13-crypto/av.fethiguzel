@@ -43,7 +43,6 @@ davaları için de aynen geçerlidir. Yargılama sonucunda Kurum aleyhine karar 
 kararın kesinleşmesi nedeniyle Kurumun ödeme yapması hâlinde, Kurum bu meblağı,
 ilgililerinden talep eder. Kurumun, yaptığı ödemeleri ilgililerinden talep edebilmesi için, bu
 kişiler hakkında kusurlu olduklarına ilişkin mahkeme kararının kesinleşmesi gerekir.
-Kurul kararlarına karşı yargı yolu
 
 ### Bizim Yorumumuz
 

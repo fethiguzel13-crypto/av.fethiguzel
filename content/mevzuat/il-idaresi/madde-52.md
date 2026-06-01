@@ -26,7 +26,6 @@ Bu meclis ve komisyonların başkanlık ve üyelikleri fahridir.
 Kasaba ve köy adedi 12 den aşağı olursa meclise seçilen üye adedi 12 den az olmamak
 üzere kasaba ve köylerce eşit sayıda üye seçilir.
 Meclise seçilen üyelerin görevleri dört yıl sürer, yeniden seçilmeleri caizdir. Meclisin
-müzakere usulü İçişleri Bakanlığınca yönetmelikle tesbit edilir.
 
 ### Bizim Yorumumuz
 

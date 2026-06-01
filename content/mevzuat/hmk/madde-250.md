@@ -17,7 +17,6 @@ b) Tanığın beyanı kendisinin veya 248 inci maddede yazılı kimselerden biri
 veya itibarını ihlal edecek ya da ceza soruşturmasına veya kovuşturmasına sebep olacaksa.
 c) Tanığın beyanı, meslek veya sanatına ait olan sırların ortaya çıkmasına sebebiyet
 verecekse.
-Tanıklıktan çekinme hakkının istisnaları
 
 ### Bizim Yorumumuz
 

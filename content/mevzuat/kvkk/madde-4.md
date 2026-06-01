@@ -18,7 +18,6 @@ c) Belirli, açık ve meşru amaçlar için işlenme.
 ç) İşlendikleri amaçla bağlantılı, sınırlı ve ölçülü olma.
 d) İlgili mevzuatta öngörülen veya işlendikleri amaç için gerekli olan süre kadar
 muhafaza edilme.
-Kişisel verilerin işlenme şartları
 
 ### Bizim Yorumumuz
 

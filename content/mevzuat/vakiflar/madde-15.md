@@ -18,7 +18,6 @@ mazbut vakıflarda Meclis kararı ile mülhak vakıflarda vakıf yöneticisinin 
 Meclis kararı ile gayece aynı veya en yakın başka bir hayrata dönüştürülebilir, akara
 devredilebilir veya paraya çevrilebilir. Bu paralar aynı surette diğer bir hayrata tahsis olunur.
 Aynı vakıf içerisindeki dönüştürme veya devirlerde bedel ödenmez.
-Hayrat taşınmazların tahsisi
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ yerde denetleme, inceleme ve araştırma yapmaya yetkilidir.
 (2) Bu Kanun kapsamına giren hususlarda, yetkili ve görevli kişi veya kuruluşlara her
 türlü bilgi ve belgenin doğru olarak gösterilmesi veya istenmesi hâlinde belgelerin aslının
 veya onaylı kopyalarının verilmesi zorunludur.
-Tüketici ürünü ve hizmet denetimi
 
 ### Bizim Yorumumuz
 

@@ -10,9 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 23 – (Mülga: 24/5/2007-5668/12 md.)
-ALTINCI KISIM
-Yönetmelik, Yürürlükten Kaldırma, Geçici Hükümler ve Yürürlük
-Yönetmelik:
 
 ### Bizim Yorumumuz
 

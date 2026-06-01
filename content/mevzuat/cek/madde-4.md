@@ -32,7 +32,6 @@ bulunduğu banka şubesi durumu Gelir İdaresi Başkanlığına bildirir.
 tespit etmeleri hâlinde, mevcut delilleriyle birlikte durumu, tespit tarihinden itibaren en geç
 bir hafta içinde Cumhuriyet başsavcılığına ve Gelir İdaresi Başkanlığına bildirmekle
 yükümlüdür.
-Ceza sorumluluğu, çek düzenleme ve çek hesabı açma yasağı7
 
 ### Bizim Yorumumuz
 

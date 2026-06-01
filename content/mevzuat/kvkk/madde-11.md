@@ -26,7 +26,6 @@ kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,
 ğ) Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde
 zararın giderilmesini talep etme,
 haklarına sahiptir.
-Veri güvenliğine ilişkin yükümlülükler
 
 ### Bizim Yorumumuz
 

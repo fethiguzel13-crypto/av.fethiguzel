@@ -25,7 +25,6 @@ zorundadırlar.
 (Değişik: 31/12/1981-2574/7 md.) Bu bentte yazılı vergi karnesinin ihtiva edeceği
 hususlar, karne almaya ilişkin şekil ve esaslar ile uygulama zamanı Maliye Bakanlığı
 tarafından tespit edilir.
-İndirimin uygulanmıyacağı gelirler:
 
 ### Akademik Yorum ve Analiz
 

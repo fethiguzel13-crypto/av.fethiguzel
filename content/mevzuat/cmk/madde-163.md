@@ -14,7 +14,6 @@ savcısına erişilemiyorsa veya olay genişliği itibarıyla Cumhuriyet savcıs
 aşıyorsa, sulh ceza hâkimi de bütün soruşturma işlemlerini yapabilir.
 (2) Kolluk âmir ve memurları, sulh ceza hâkimi tarafından emredilen tedbirleri alır ve
 araştırmaları yerine getirirler.
-Adlî kolluk ve görevi
 
 ### Bizim Yorumumuz
 

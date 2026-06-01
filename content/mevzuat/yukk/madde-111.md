@@ -15,8 +15,6 @@ maksadıyla” ibaresi madde metninden çıkarılmış ve bu fıkraya “Bakanl�
 “bu Kanun kapsamında” ibaresi eklenmiştir.
 30
 
-Yöneticilerin sorumlulukları ve yetki devri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

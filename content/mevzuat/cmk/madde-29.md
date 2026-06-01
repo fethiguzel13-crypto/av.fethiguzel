@@ -18,7 +18,6 @@ konusunda bir karar verilmeden reddedilen hâkim tarafından veya onun katılım
 sonraki oturuma başlanamaz.
 (3) Ret isteminin kabulüne karar verildiğinde, gecikmesinde sakınca bulunan hâl
 nedeniyle yapılmış işlemler dışında, duruşma tekrarlanır.
-Hâkimin çekinmesi ve inceleme mercii
 
 ### Bizim Yorumumuz
 

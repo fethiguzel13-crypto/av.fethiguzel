@@ -81,9 +81,6 @@ kimlik kartı örneğine erişebilen kurum ve tüzel kişiler bu belgeleri ilgil
 müdürlüğünden talep etmeksizin Kimlik Paylaşımı Sisteminden temin ederler.
 (8) Bu Kanun ile kurulan veri tabanlarının istatistik amaçlı kullanımında 10/11/2005
 tarihli ve 5429 sayılı Türkiye İstatistik Kanunu hükümleri uygulanır.
-YEDİNCİ KISIM
-Türkiye Cumhuriyeti Kimlik Numarası
-Kimlik numarası
 
 ### Bizim Yorumumuz
 

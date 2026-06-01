@@ -16,7 +16,6 @@ veya raporda imzası bulunanlar, açıklamada bulunmak üzere duruşmaya çağr�
 görüşünü açıklamak üzere görevi, üyelerden birine vermeyi kurula önerebilir.
 (3) Bilimsel görüşlere ilişkin açıklama, bu Kanunun 68 inci madde hükümlerine göre
 yapılır.
-Dinleme ve okumadan sonra diyeceğin sorulması
 
 ### Bizim Yorumumuz
 

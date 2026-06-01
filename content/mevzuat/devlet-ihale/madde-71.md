@@ -44,7 +44,6 @@ Satış fiyatları Devletçe veya görevli mercilerce tespit olunan mallar, dağ
 kuruluşlarda bulunmadığı belgelenmek şartıyla bu fiyatlarla en yakın piyasadan da satın
 alınabilir.
 İdarelere zorunluluk yükleyen özel hükümler saklıdır.
-Kamu yararına çalışan derneklere taşınmaz malların satımı:
 
 ### Bizim Yorumumuz
 

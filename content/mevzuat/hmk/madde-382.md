@@ -136,7 +136,6 @@ mühürlenmesi.
 tarafından tasdiki.
 4) Kamu görevlilerinin mahkeme huzurunda kanunen yemin etme zorunluluğunun
 öngörüldüğü diğer durumlar.
-Görevli mahkeme
 
 ### Bizim Yorumumuz
 

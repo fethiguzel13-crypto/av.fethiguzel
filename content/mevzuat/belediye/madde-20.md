@@ -28,7 +28,6 @@ halinde belediye meclisini bir yılda üç defadan fazla olmamak ve her toplant�
 geçmemek üzere toplantıya çağırır. Olağanüstü toplantı çağrısı ve gündem en az üç gün
 önceden meclis üyelerine yazılı olarak duyurulur ve ayrıca mutat usûllerle ilan edilir.
 Olağanüstü toplantılarda çağrıyı gerektiren konuların dışında hiçbir konu görüşülemez.
-Gündem
 
 ### Bizim Yorumumuz
 

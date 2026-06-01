@@ -186,7 +186,6 @@ tarih itibarıyla uzlaşmanın sağlanmış olduğu dosyalar bakımından bu mad
 Kanunla 253 üncü maddenin üçüncü fıkrasında yapılan değişiklik ve 5237 sayılı Kanunun 75
 inci maddesinin altıncı fıkrasında yapılan değişiklik uygulanmaz. Bu dosyalar, 253 üncü
 maddenin üçüncü fıkrasının değişiklikten önceki hükümlerine göre sonuçlandırılır.
-Yürürlük
 
 ### Bizim Yorumumuz
 

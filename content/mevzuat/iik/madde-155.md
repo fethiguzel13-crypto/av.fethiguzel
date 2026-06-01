@@ -17,7 +17,6 @@ gün içinde borç ödenmediği takdirde alacaklının mahkemeye müracaatla ifl
 bulunabileceği ve borçlunun gerek borcu olmadığına ve gerek kendisinin iflasa tabi
 kimselerden bulunmadığına dair itirazı varsa bu müddet içinde dilekçe ile icra dairesine
 bildirmesi lüzumu ve konkordato teklif edebileceği ilave olunur.
-İflas talebi ve müddeti:
 
 ### Akademik Yorum ve Analiz
 

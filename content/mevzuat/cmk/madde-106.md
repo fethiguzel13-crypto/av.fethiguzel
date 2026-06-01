@@ -17,7 +17,6 @@ adreslerdeki her türlü değişiklikleri bildirmesi ihtar olunur; ayrıca, ihta
 etmediğinde, önceden bildirdiği adrese tebligatın yapılacağı bildirilir. Bu ihtarların yapıldığını
 belirten ve yeni adresleri içeren tutanak veya tutukevi müdürünün düzenleyeceği belgenin aslı
 veya örneği yargı merciine gönderilir.
-Tutuklananın durumunun yakınlarına bildirilmesi
 
 ### Bizim Yorumumuz
 

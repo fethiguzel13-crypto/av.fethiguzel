@@ -25,8 +25,6 @@ antrepo rejimleri ile geçici depolama ve serbest bölge hükümlerinin uyguland
 2) (Değişik: 27/1/2000-4503/1 md.) Gümrük Kanununa göre geri gelen eşyanın
 dışarıda bir işleme tabi tutulması veya asli kısmına bir ilave yapılması halinde eşyanın
 kazandığı değer farkı istisnaya dahil değildir.
-ALTINCI BÖLÜM
-Sosyal ve Askeri Amaçlı İstisnalarla Diğer İstisnalar
 
 ### Bizim Yorumumuz
 

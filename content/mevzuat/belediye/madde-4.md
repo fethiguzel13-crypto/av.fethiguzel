@@ -31,7 +31,6 @@ ve E.:2018/117; K.:2023/212 sayılı Kararı ile)12
 K.:2023/212 sayılı Kararı ile) (Yeniden Düzenlenen fıkra:18/6/2025-7551/13 md.) Yeni
 iskân nedeniyle oluşturulan ve nüfusu 5.000 ve üzerinde olan herhangi bir yerleşim yerinde
 belediye kurulabilir.
-Sınırların tespiti
 
 ### Bizim Yorumumuz
 

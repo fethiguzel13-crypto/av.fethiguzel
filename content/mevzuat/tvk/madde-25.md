@@ -16,7 +16,6 @@ b) Yabancı bir devlet vatandaşlığını kazanmış olmak veya kazanacağına 
 inandırıcı belirtiler bulunmak.
 c) Herhangi bir suç veya askerlik hizmeti nedeniyle aranan kişilerden olmamak.
 ç) Hakkında herhangi bir mali ve cezai tahdit bulunmamak.
-Türk vatandaşlığından çıkma belgeleri
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ görevleri yerine getirmektir.
 olmak ve çocuk hakkında istenen bilgileri vermek zorundadır.
 (3) Sosyal çalışma görevlilerinin, görevleri sırasında yaptıkları ve hâkim tarafından
 takdir edilen masrafları Cumhuriyet başsavcılığının suçüstü ödeneğinden ödenir.
-Sosyal inceleme
 
 ### Bizim Yorumumuz
 

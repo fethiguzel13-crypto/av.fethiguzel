@@ -39,9 +39,6 @@ bulunması durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına 
 
 üzerinde kamu hizmeti gören araçların, karayolu araçlarına ayrılan kısımlarında da,
 Bu Kanun hükümleri uygulanır.
-İKİNCİ BÖLÜM
-Tanımlar
-Tanımlar:
 
 ### Bizim Yorumumuz
 

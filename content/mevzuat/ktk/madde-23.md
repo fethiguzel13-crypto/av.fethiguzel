@@ -51,7 +51,6 @@ konusunda gerekli tedbirleri almak ve denetimini yapmakla yükümlüdür.
 ncı maddesinde sayılan görevliler tarafından yapılır. Bu madde kapsamında geri alınan sürücü
 belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para cezalarının
 tamamının tahsil edilmiş olması şarttır.
-Araç muayene raporu:25
 
 ### Bizim Yorumumuz
 

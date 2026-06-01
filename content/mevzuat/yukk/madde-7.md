@@ -22,7 +22,6 @@ Tebligatta, yabancıların karara karşı itiraz haklarını etkin şekilde nas�
 bu süreçteki diğer yasal hak ve yükümlülükleri de yer alır.
 (3) (Ek:6/12/2019-7196/70 md.) Bu madde kapsamındaki yabancılar, işlemleri
 sonuçlanıncaya kadar sınır kapılarında kendileri için belirlenen alanlarda bekletilir.
-Uluslararası koruma başvurusuna ilişkin uygulama
 
 ### Bizim Yorumumuz
 

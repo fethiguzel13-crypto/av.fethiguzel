@@ -16,7 +16,6 @@ davalarda, taşınmazın bulunduğu yer mahkemesi kesin yetkilidir.
 yer mahkemesinde açılır.
 (3) Bu davalar, birden fazla taşınmaza ilişkinse, taşınmazlardan birinin bulunduğu
 yerde, diğerleri hakkında da açılabilir.
-Karşı davada yetki
 
 ### Bizim Yorumumuz
 

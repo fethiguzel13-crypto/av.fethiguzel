@@ -16,7 +16,6 @@ yavaşlamak, varsa buralardan geçen veya geçmek üzere bulunan yayalara durara
 hakkını vermek zorundadırlar.
 Bu madde hükümlerine uymayan sürücüler 488 Türk lirası idari para cezası ile
 cezalandırılırlar.
-Okul taşıtları:
 
 ### Bizim Yorumumuz
 

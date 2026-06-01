@@ -75,9 +75,6 @@ kararına göre iade edilip yine yargı kararı uyarınca tahsili gereken vergil
 yargı kararının vergi dairesine tebliği tarihine kadar geçen süre için bu maddede yer alan
 esaslar dahilinde 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanuna göre
 belirlenen tecil faizi oranında gecikme faizi hesaplanır.
-İKİNCİ BÖLÜM
-Zamanaşımı ve Terkin
-Zamanaşımının mahiyeti:
 
 ### Bizim Yorumumuz
 

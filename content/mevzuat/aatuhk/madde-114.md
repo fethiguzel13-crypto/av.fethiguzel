@@ -19,7 +19,6 @@ mecburiyetindedirler.
 (Değişik ikinci fıkra: 23/1/2008-5728/166 md.) Bu vazifeyi makbul bir özre
 dayanmadan zamanında yerine getirmeyenler elli güne kadar adlî para cezası ile
 cezalandırılır.
-Suçların takibi:
 
 ### Bizim Yorumumuz
 

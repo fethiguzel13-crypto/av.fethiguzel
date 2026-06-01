@@ -43,7 +43,6 @@ olması lazımdır.
 İhtiyati tahakkuk mevzuu olan devre beyannamesinin, verildiği tarihten itibaren en geç
 iki ay içinde tetkikı mecburidir. Bu müddet içinde tetkik yapılmadığı takdirde, bu sebeple
 düzeltme geciktirilmez.
-İhtiyati tahakkuka itiraz:
 
 ### Bizim Yorumumuz
 

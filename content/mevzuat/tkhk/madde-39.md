@@ -22,9 +22,6 @@ ortakları da tüketici olarak kabul edilir.
 yükümlülükleri, sözleşmenin zorunlu içeriği, konut finansmanı reklamları, yeniden
 finansman, bağlı kredi, temerrüt, erken ödeme ve yıllık maliyet oranının hesaplanması ile
 diğer hususlara ilişkin usul ve esaslar yönetmelikle belirlenir.
-DÖRDÜNCÜ BÖLÜM
-Ön Ödemeli Konut Satışı
-Ön ödemeli konut satış sözleşmeleri
 
 ### Bizim Yorumumuz
 

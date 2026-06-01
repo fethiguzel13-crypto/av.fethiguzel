@@ -33,7 +33,6 @@ tahliye emri tebliğ edilir. Bu müddet içinde tahliye edilmezse zorla çıkar�
 teslim olunur. (Ek cümle:24/11/2021-7343/28 md.) Taşınmazın ihale alıcısı adına tescilinden
 sonra henüz tahliye yapılmadan taşınmazı ihale alıcısından satın alan da bu fıkra gereğince
 tahliye isteme hakkına sahiptir.
-Taşınmazların satışına ilişkin hükümlerin gemilere uygulanması:57
 
 ### Akademik Yorum ve Analiz
 

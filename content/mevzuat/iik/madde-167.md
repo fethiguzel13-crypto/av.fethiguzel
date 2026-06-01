@@ -19,7 +19,6 @@ Alacaklı, takip talebinde 58 inci maddedeki hususlardan başka iflasa tabi bor�
 aleyhine haciz ve iflas yollarından hangisini istediğini bildirmeğe ve takip talebine kambiyo
 senedinin aslını ve borçlu adedi kadar tasdikli örneğini eklemeğe mecburdur.
 A) Haciz yolu ile takip:
-Ödeme emri:
 
 ### Akademik Yorum ve Analiz
 

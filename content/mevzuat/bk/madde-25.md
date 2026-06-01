@@ -31,7 +31,6 @@ Bu madde uygulamasında, genel müdürün sahip olması gereken nitelikler ve
 atanmalarına veya görevden ayrılmalarına ilişkin yükümlülükler bakımından, yurt dışında
 kurulu bankaların Türkiye'deki merkez şubesi müdürü, genel müdür gibi değerlendirilir.
 (Mülga altıncı fıkra: 13/2/2011/6111/144 md.)
-Çalışma ve imza yetkisi yasağı
 
 ### Bizim Yorumumuz
 

@@ -21,7 +21,6 @@ muvakketen yakalanması zaruri görülen şahsı.
 yapan, hakaret eden bir şahsın bu fiillere devamının men'i ancak muvakkat yakalanması ile
 kabil olduğu takdirde bu şahsı.
 c) Disiplin maksadı ile: İzinsiz kıtası haricinde rastlanan veyahut himayesi için
-yakalanması lüzumlu görülen askerleri.
 
 ### Bizim Yorumumuz
 

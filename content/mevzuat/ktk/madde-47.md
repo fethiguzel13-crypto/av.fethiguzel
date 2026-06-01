@@ -60,7 +60,6 @@ ibrazı zorunludur.
 Kanunun 6 ncı maddesinde sayılan görevliler tarafından yapılır. Bu madde kapsamında geri
 alınan sürücü belgeleri bu Kanun kapsamında verilen idari para cezalarının tamamının tahsil
 edilmiş olması şartıyla iade edilir.
-Alkol, uyuşturucu veya uyarıcı maddelerin etkisi altında araç sürme yasağı:
 
 ### Bizim Yorumumuz
 

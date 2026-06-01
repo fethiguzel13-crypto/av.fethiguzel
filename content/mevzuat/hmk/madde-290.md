@@ -17,7 +17,6 @@ Tutanağa, hâkimin keşif konusu ve mahalliyle ilgili gözlemleri de yazılır.
 fotoğraf gibi belgeler de tutanağa eklenir.
 (3) Mahkeme, bir olayın nasıl geçmiş olabileceğini tespit için temsili uygulama da
 yaptırabilir.
-Keşfe katlanma zorunluluğu
 
 ### Bizim Yorumumuz
 

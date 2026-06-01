@@ -21,7 +21,6 @@ itibaren bir sene içinde kendisine bildirmemiş olmasına bağlıdır. (K. M. 8
 Taşınmaz rehinle temin edilmiş muaccel borçlar, müşteriye devredilmeyip satış
 bedelinden tercihen ödenir.
 Artırma şartnamesinde hangi masrafların müşteriye ait olacağı tasrih olunur.
-Artırma hazırlık tedbirleri:
 
 ### Akademik Yorum ve Analiz
 

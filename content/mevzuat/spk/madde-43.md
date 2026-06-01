@@ -26,7 +26,6 @@ sınırlarına ve çalışanlara ilişkin esaslar” iken metne işlendiği şek
 (2) Bankalar dışındaki diğer yatırım kuruluşları için de birinci fıkradaki şartlar aranır.
 Kurul bu kuruluşlar için ilave şartlar öngörebilir.
 (3) Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurulca belirlenir.
-Kuruculara ilişkin şartlar
 
 ### Bizim Yorumumuz
 

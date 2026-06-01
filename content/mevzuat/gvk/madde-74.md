@@ -64,9 +64,6 @@ götürü olarak indirebilirler. Götürü gider usulünü kabul edenler iki yı
 dönemezler.76
 Bu madde hükmünün uygulanmasında para cezaları ve vergi cezaları hasılattan gider
 olarak indirilemez.
-ALTINCI BÖLÜM
-Menkul Sermaye İradı
-Tarifi:
 
 ### Bizim Yorumumuz
 

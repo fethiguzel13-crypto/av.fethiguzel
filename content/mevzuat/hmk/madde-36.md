@@ -19,7 +19,6 @@ c) Davada, tanık veya bilirkişi olarak dinlenmiş veya hâkim ya da hakem sıf
 hareket etmiş olması; uyuşmazlıkta arabuluculuk veya uzlaştırmacılık yapmış bulunması.5
 ç) Davanın, dördüncü derece de dâhil yansoy hısımlarına ait olması.
 d) Dava esnasında, iki taraftan birisi ile davası veya aralarında bir düşmanlık bulunması.
-Hâkimin bizzat çekilmemesi hâli
 
 ### Bizim Yorumumuz
 

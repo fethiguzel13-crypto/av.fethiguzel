@@ -17,7 +17,6 @@ ve durumun gereklerine göre zararlar kendilerine yükletilebildiği ölçüde s
 (2) Bağımsız denetim, derecelendirme ve değerleme kuruluşları gibi izahnamede yer
 almak üzere hazırlanan raporları hazırlayan kişi ve kurumlar da hazırladıkları raporlarda yer
 alan yanlış, yanıltıcı ve eksik bilgilerden bu Kanun hükümleri çerçevesinde sorumludur.
-Sermaye piyasası araçlarının halka arz edilmeksizin ihracı
 
 ### Bizim Yorumumuz
 

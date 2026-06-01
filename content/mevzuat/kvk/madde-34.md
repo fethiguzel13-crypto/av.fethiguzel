@@ -49,7 +49,6 @@ kendilerinden kesilen vergileri, vergi kesintisi yapanlarca ilgili vergi dairesi
 şartıyla, Kanunun 15 inci maddesinin üçüncü fıkrasına göre kurum bünyesinde yapacakları vergi
 kesintisinden mahsup edebilirler. Mahsup edilemeyen kesinti tutarı mükellefin başvurusu halinde
 red ve iade edilir.
-Muafiyet, istisna ve indirimlerin sınırı
 
 ### Bizim Yorumumuz
 

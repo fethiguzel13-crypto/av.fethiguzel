@@ -24,7 +24,6 @@ tespitinden itibaren üç ay içinde bu şartların yeniden sağlanamaması
 üzere ilgili hükümleri yatırım hizmetleri ve faaliyetleri kapsamayacak şekilde değiştirmeleri
 zorunludur.
 Mali sorumluluk sınırlarına ve çalışanlara ilişkin esaslar ve müşterilerle akdedilecek
-sözleşmeler3
 
 ### Bizim Yorumumuz
 

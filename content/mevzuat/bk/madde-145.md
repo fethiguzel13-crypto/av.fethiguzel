@@ -31,9 +31,6 @@ ibaresi “her türlü işlemlerinden elde edecekleri ücret, masraf, komisyon v
 
 ONDÖRDÜNCÜ KISIM
 Yaptırımlar, Soruşturma ve Kovuşturma Hükümleri
-BİRİNCİ BÖLÜM
-İdarî Para Cezaları
-Kuruluşlara ilişkin idarî para cezaları
 
 ### Bizim Yorumumuz
 

@@ -41,7 +41,6 @@ maddesinin birinci fıkrasında düzenlenmiş yükümlülüklerini MKK tarafınd
 elektronik ortam vasıtasıyla da yerine getirebilirler.
 (5) Bu maddenin halka açık bankalar hakkında uygulanmasına ilişkin usul ve esaslar
 Bankacılık Düzenleme ve Denetleme Kurulunun uygun görüşü alınmak suretiyle belirlenir.
-Kayıtlı sermaye sistemi
 
 ### Bizim Yorumumuz
 

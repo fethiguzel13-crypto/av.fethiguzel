@@ -14,7 +14,6 @@ esaslar dahilinde tutmak zorundadırlar. Tutulacak defter ve kayıtlar ile ilgil
 yönetmelikle düzenlenir.
 Mazbut vakıfların her birinin gelir ve giderleri ayrı ayrı takip edilir.
 Vakıflar, varlıklarını, ekonomik kural ve riskleri gözetmek suretiyle değerlendirirler.
-Beyanname verme yükümlülüğü
 
 ### Bizim Yorumumuz
 

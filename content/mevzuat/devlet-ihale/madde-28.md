@@ -30,7 +30,6 @@ mali yeterliği ile ilgili diğer hususlar da gözönünde bulundurulmak ve gere
 bakanlıkların da görüşleri alınmak suretiyle her yıl Bayındırlık ve İskan Bakanının
 koordinatörlüğünde Milli Savunma, Maliye ve Gümrük, Tarım Orman ve Köy İşleri, Enerji ve
 Tabii Kaynaklar Bakanlarınca tespit olunarak Resmi Gazete'de yayımlanır.
-Komisyonların ihaleyi yapıp yapmamakta serbest olması:
 
 ### Bizim Yorumumuz
 

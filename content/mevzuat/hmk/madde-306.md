@@ -17,9 +17,6 @@ talebinde bulunan tarafa tebliğ olunur.
 verir; ancak gerekli görürse iki tarafı sözlü açıklamalarını yapabilmeleri için davet edebilir.
 (3) Mahkeme tavzih veya tamamlama talebini yerinde gördüğü takdirde 304 üncü
 madde uyarınca işlem yapar.
-ÜÇÜNCÜ BÖLÜM
-Davaya Son Veren Taraf İşlemleri
-Davadan feragat
 
 ### Bizim Yorumumuz
 

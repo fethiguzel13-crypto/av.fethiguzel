@@ -16,7 +16,6 @@ gösterilmek suretiyle tapu siciline kaydedilir ve bu suretle tahsis edildikleri
 Toplu yapı kapsamında bulunan birden çok yapının ortak sosyal ve alt yapı tesisleri
 bulundukları parsel veya yapıya bakılmaksızın, tahsis edildikleri bağımsız bölümlerin ortak
 yeri sayılır.
-Vaziyet plân ve projeleri
 
 ### Bizim Yorumumuz
 

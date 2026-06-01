@@ -23,7 +23,6 @@ saatleri 657 sayılı Devlet Memurları Kanununda belirtilen çalışma süre ve
 olmaksızın, hizmetin aksatılmadan yürütülmesini sağlayacak şekilde düzenlenir. Belediye
 itfaiye teşkilâtında fiilen çalışanlara fazla mesai ücreti olarak yılı bütçe kanununda belirlenen
 üst sınırı aşmamak kaydıyla belediye meclisi kararı ile tespit edilen maktu tutar ödenir.
-Acil durum plânlaması
 
 ### Bizim Yorumumuz
 

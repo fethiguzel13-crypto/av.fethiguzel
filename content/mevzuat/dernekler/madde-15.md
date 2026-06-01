@@ -22,7 +22,6 @@ buna bağlı olarak dernek mallarının devrine dair bir karar aldığı takdird
 sonuçlanıncaya kadar devir işlemi yapılmaz.
 Tasfiye işlemleri sonucu derneklerin defter ve belgelerinin saklanma usulü, süresi ve
 tasfiyeye ilişkin gerekli belgeler yönetmelikte düzenlenir.
-Basımevlerinin sorumluluğu
 
 ### Bizim Yorumumuz
 

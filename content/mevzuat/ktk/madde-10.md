@@ -31,8 +31,6 @@ yerlerde, yetkililerce teklif edilen tedbirleri almak,
 7. Bu Kanun ve bu Kanuna göre çıkarılan yönetmeliklerle verilen diğer görevleri
 yapmak.
 
-(Ek fıkra: 25/6/1988 - KHK 330/2 md.)15
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

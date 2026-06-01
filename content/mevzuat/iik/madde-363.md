@@ -40,7 +40,6 @@ fıkra hükmü uygulanır.
 İstinaf yoluna başvuru satıştan başka icra işlemlerini durdurmaz. İcranın devamı için
 gereken evrak alıkonularak bunların birer örneği bölge adliye mahkemesine gönderilecek
 dosyaya konulur.
-Temyiz yoluna başvurma ve incelenmesi137
 
 ### Bizim Yorumumuz
 

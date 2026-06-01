@@ -16,7 +16,6 @@ hâller saklı kalmak kaydıyla, mevzuata uygun olarak hazırlanmış finansal t
 üste beş yıl dönem zararı eden halka açık ortaklıklarda, oy hakkına ve yönetim kurulunda
 temsil edilmeye ilişkin imtiyazlar Kurul kararı ile kalkar. Söz konusu imtiyazlı payların kamu
 kurum ve kuruluşlarına ait olması hâlinde bu hüküm uygulanmaz.
-Genel kurul toplantılarına ilişkin esaslar
 
 ### Bizim Yorumumuz
 

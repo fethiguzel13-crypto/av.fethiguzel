@@ -20,9 +20,6 @@ nevinin kaydedilmesiyle iktifa edilir);
 6. Alınan nakliye ücreti tutarı.
 Kendi işlerinin icabı olarak yukarıdaki malümatı ihtiva edecek şekilde defter tutanlar
 ayrıca ambar defteri tutmazlar.
-YEDİNCİ BÖLÜM
-Serbest Mesleklerde Defter Tutma
-Serbest meslek kazanç defteri:
 
 ### Bizim Yorumumuz
 

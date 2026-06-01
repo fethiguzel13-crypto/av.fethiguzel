@@ -20,9 +20,6 @@ DÖRDÜNCÜ BÖLÜM
 Sözleşme
 15 6/11/2019 tarihli ve 7191 sayılı Kanunun 17 nci maddesiyle bu bentte yer alan “il özel idarelerince” ibaresi “Tarım ve Orman Bakanlığınca” şeklinde değiştirilmiştir. 16 2/7/2018 tarihli ve 700 sayılı KHK’nin 81 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir. 17 2/7/2018 tarihli ve 700 sayılı KHK’nin 81 inci maddesiyle, bu fıkrada yer alan “kanunlarında” ibaresi “kanunları ile Cumhurbaşkanlığı kararnamelerinde” şeklinde değiştirilmiştir.
 
-
-İhalenin sözleşmeye bağlanması:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

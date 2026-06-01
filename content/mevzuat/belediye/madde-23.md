@@ -21,7 +21,6 @@ idare amirine gönderilir. Mülkî idare amirine gönderilmeyen kararlar yürür
 2010/9 sayılı Kararı ile.)
 Kesinleşen meclis kararlarının özetleri yedi gün içinde uygun araçlarla halka
 duyurulur.
-İhtisas komisyonları
 
 ### Bizim Yorumumuz
 

@@ -33,7 +33,6 @@ g) Hükmün 230 uncu madde gereğince gerekçeyi içermemesi.
 h) Hüküm için önemli olan hususlarda mahkeme kararı ile savunma hakkının
 sınırlandırılmış olması.
 i) Hükmün hukuka aykırı yöntemlerle elde edilen delile dayanması.
-Sanığın yararına olan kurallara aykırılık
 
 ### Bizim Yorumumuz
 

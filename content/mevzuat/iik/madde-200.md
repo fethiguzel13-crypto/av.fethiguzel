@@ -21,7 +21,6 @@ Aşağıdaki hallerde takas yapılamaz.
 halinde esas mukavele gereğince verilmesi lazımgelen hisse senedi bedellerinin henüz
 ödenmemiş olan kısımları veya konması taahhüt edilen ve fakat konmamış olan sermayeler bu
 şirketlerin borçlariyle takas edilemez.
-Takasa itiraz:
 
 ### Akademik Yorum ve Analiz
 

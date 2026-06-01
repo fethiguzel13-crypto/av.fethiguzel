@@ -18,7 +18,6 @@ bentlerinde” ibaresi “(c) ve (e) bentlerinde” şeklinde değiştirilmişti
 Mazbut ve mülhak vakıflara ait akar taşınmazların satış ve taviz bedelleri ile satın
 alınacak, trampa ile edinilecek veya yeniden yaptırılacak taşınmazlar, vakıfları adına hisseleri
 oranında tapuya tescil ettirilerek kayıtlara işlenir.
-Amaç ve işlev değişikliği
 
 ### Bizim Yorumumuz
 

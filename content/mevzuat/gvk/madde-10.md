@@ -12,7 +12,6 @@ wordCount: 636
 ---
 
 Madde 10 – (Mülga: 22/7/1998-4369/82 md.)
-Küçük çiftçi muaflığının hududu:
 
 ### Akademik Yorum ve Analiz
 

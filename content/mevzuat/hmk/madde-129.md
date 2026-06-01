@@ -26,7 +26,6 @@ sonra gelmek üzere “cevap süresinin bitiminden itibaren işlemeye başlamak,
 
 ğ) Davalının veya varsa kanuni temsilcisinin yahut vekilinin imzası.
 (2) 121 inci madde hükmü cevap dilekçesi hakkında da uygulanır.
-Cevap dilekçesinde eksiklik bulunması
 
 ### Bizim Yorumumuz
 

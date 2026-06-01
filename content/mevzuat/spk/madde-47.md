@@ -57,9 +57,6 @@ işlemler bakımından da teminatın söz konusu karardan önce verilmiş ve tem
 niyetli olması kaydıyla geçerlidir.
 (6) Bu madde hükümleri, hüküm ve sonuçları özel kanunlarla düzenlenen teminat
 sözleşmeleri ve teminat hükümleri hakkında uygulanmaz.
-DÖRDÜNCÜ BÖLÜM
-Kolektif Yatırım Kuruluşları
-Yatırım ortaklıkları
 
 ### Bizim Yorumumuz
 

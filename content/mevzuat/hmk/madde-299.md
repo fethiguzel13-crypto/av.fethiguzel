@@ -15,7 +15,6 @@ hâkim, tefhim edilen hükme uygun olarak gerekçeli kararı bizzat yazarak imza
 mahkemelerde böyle bir durumun gerçekleşmesi hâlinde, hüküm diğer hâkimler tarafından
 imzalanır ve başkan veya en kıdemli hâkim tarafından, hükmün altına diğer hâkimin imza
 edememesinin sebebi yazılarak imza olunur.
-Hükmün korunması
 
 ### Bizim Yorumumuz
 

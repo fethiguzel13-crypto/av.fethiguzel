@@ -17,9 +17,6 @@ kurulu başkanını ifade eder.
 yaptırımlara karar vermeye mahalli mülki amir yetkilidir.
 (Mülga dördüncü fıkra: 23/1/2008-5728/578 md.)
 (Mülga beşinci fıkra: 23/1/2008-5728/578 md.)
-YEDİNCİ BÖLÜM
-Diğer Hükümler
-Cemiyetler ve Dernekler kanunlarına yapılan atıflar
 
 ### Bizim Yorumumuz
 

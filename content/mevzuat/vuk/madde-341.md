@@ -19,7 +19,6 @@ suretlerle verginin noksan tahakkuk ettirilmesine veya haksız yere geri verilme
 vermek de vergi ziyaı hükmündedir.
 Yukarıki fıkralarda yazılı hallerde verginin sonradan tahakkuk ettirilmesi veya
 tamamlanması veyahut haksız iadenin geri alınması ceza uygulanmasına mani teşkil etmez.
-Veraset ve intikal vergisinde ek süre:
 
 ### Akademik Yorum ve Analiz
 

@@ -31,7 +31,6 @@ kalmış olmak kaydıyla kısa dönem ikamet izni verilebilir. Ancak yabancı e�
 gerekçesiyle mağdur olduğu ilgili mahkeme kararıyla sabit ise, üç yıllık süre şartı aranmaz.
 (7) Destekleyicinin ölümü hâlinde, bu kişiye bağlı aile ikamet izniyle kalanlara, süre
 şartı aranmadan kısa dönem ikamet izni verilebilir.
-Aile ikamet izninin şartları
 
 ### Bizim Yorumumuz
 

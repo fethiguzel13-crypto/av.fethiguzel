@@ -20,7 +20,6 @@ ve idarenin bütünlüğü açısından İçişleri Bakanlığı tarafından da 
 
 Belediyelere bağlı kuruluş ve işletmeler de yukarıdaki esaslara göre denetlenir.
 Denetime ilişkin sonuçlar kamuoyuna açıklanır ve meclisin bilgisine sunulur.
-Faaliyet raporu
 
 ### Bizim Yorumumuz
 

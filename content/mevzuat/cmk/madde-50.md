@@ -17,7 +17,6 @@ kavrayamayanlar.
 c) Soruşturma veya kovuşturma konusu suçlara iştirakten veya bu suçlar nedeniyle
 suçluyu kayırmaktan ya da suç delillerini yok etme, gizleme veya değiştirmekten şüpheli,
 sanık veya hükümlü olanlar.
-Tanıklıktan çekinebilecek kimsenin çekinmemesi
 
 ### Bizim Yorumumuz
 

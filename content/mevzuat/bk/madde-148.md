@@ -21,7 +21,6 @@ idarî para cezası uygulanır. (Ek cümle:20/2/2020-7222/16 md.) Kurul, yaptır
 verilinceye kadar aykırılığın birden fazla işlenmiş olmasını veya idari para cezasının
 uygulanmasından itibaren iki yıl içerisinde aynı aykırılığın tekrarlanmasını dikkate alarak bu
 fıkrada yer alan tutarları iki katına kadar artırarak uygulamaya yetkilidir.
-Savunma hakkı ve kapatma kararı
 
 ### Bizim Yorumumuz
 

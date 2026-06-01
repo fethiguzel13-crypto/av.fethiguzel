@@ -18,7 +18,6 @@ bulunabilir.
 (Değişik: 29/6/1956-6763/42 md.) Bu mallar iflasın ilanından evvel taşıma senedi,
 konişmento, makbuz senedi, varant gibi emtiayı temsil eden bir senetle iyi niyet sahibi üçüncü
 bir şahsa satılmış veya rehnedilmiş olurlarsa artık geri alınamazlar.
-Müflisin tasarrufa ehliyetsizliği ve poliçe ödenmesi hükümleri:
 
 ### Akademik Yorum ve Analiz
 

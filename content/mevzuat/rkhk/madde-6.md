@@ -28,7 +28,6 @@ bozmayı amaçlayan eylemler,
 
 e) Tüketicinin zararına olarak üretimin, pazarlamanın ya da teknik gelişmenin
 kısıtlanması.
-Birleşme veya Devralma
 
 ### Bizim Yorumumuz
 

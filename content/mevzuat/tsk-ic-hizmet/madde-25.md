@@ -17,7 +17,6 @@ geçemez.
 
 
 Birden fazla kimselerin toplu olarak söz veya yazı ile müracaatleri yasaktır.
-II - Şikayetler
 
 ### Bizim Yorumumuz
 

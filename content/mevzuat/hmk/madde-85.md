@@ -15,7 +15,6 @@ b) Davacının, yurt içinde istenen teminatı karşılamaya yeterli taşınmaz 
 ayni teminatla güvence altına alınmış bir alacağının bulunması.
 c) Davanın, sırf küçüğün menfaatlerini korumaya yönelik olarak açılmış olması.
 ç) İlama bağlı alacak için ilamlı icra takibi yapılmış olması.
-Teminat kararı
 
 ### Bizim Yorumumuz
 

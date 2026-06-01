@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 MADDE 238- (1) Hâkim, yemin eden kimsenin beyanını dinleyip tutanağa geçirir ve
 yazılanları yüksek sesle huzurunda okur; beyanında ısrar edip etmediğini sorar ve verilen
 cevabı tutanağa kaydeder.
-Yalan yere yemin iddiası
 
 ### Bizim Yorumumuz
 

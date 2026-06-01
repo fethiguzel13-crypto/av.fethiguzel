@@ -14,7 +14,6 @@ MADDE 173- (1) İsticvabına karar verilen kimse bizzat isticvap olunur.
 gerektiği hususunu hatırlatır.
 (3) İsticvap esnasında, karşı taraf ve taraf vekilleri hazır bulunabilirler.
 (4) İsticvap olunan taraf, mahkemenin izni olmadıkça, yazılı notlar kullanamaz.
-Tutanak düzenlenmesi
 
 ### Bizim Yorumumuz
 

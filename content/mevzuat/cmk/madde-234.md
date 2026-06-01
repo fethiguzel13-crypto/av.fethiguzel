@@ -54,7 +54,6 @@ yazılır.
 veya adlî tıp işlemleri nedeniyle yerleşim yeri dışında bir yere gitme zorunluluğu doğması
 hâlinde mağdurun yapmış olduğu konaklama, iaşe ve ulaşım giderleri, 10/2/1954 tarihli ve
 6245 sayılı Harcırah Kanunu hükümlerine göre Adalet Bakanlığı bütçesinden karşılanır.
-Mağdur ile şikâyetçinin davete uymamaları
 
 ### Bizim Yorumumuz
 

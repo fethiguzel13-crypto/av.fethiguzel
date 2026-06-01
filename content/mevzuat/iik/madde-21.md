@@ -20,7 +20,6 @@ Adres değişikliği, yukarıdaki fıkra gereğince alacaklı veya borçlu taraf
 tarafa tebliğ olunduğu halde eski adrese tebligat yaptırarak Tebligat Kanununun 35 inci
 maddesinden faydalanmış olan taraf bu suretle diğer tarafa verdiği bütün zararları yüzde 15
 fazlasiyle ödemeye mecbur olduğu gibi hakkında 343 üncü maddedeki ceza da uygulanır.
-İcranın durdurulması:
 
 ### Bizim Yorumumuz
 

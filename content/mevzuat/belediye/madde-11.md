@@ -37,7 +37,6 @@ yürütmek üzere hizmet birimleri kurulabilir. Büyükşehir belediye sınırla
 hizmet birimlerini yönetmek üzere, büyükşehir belediye meclis üyeleri veya diğer belediye
 personeli arasından görevlendirme yapılabilir. Mahalli hizmetlerin aksamadan yürütülmesi için
 vali veya kaymakamlar ilgili kuruluşlar arasında koordinasyonu sağlar ve gerekli tedbirleri alır.
-Kararlarının uygulanması ve nüfus
 
 ### Bizim Yorumumuz
 

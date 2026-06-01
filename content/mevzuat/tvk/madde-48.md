@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 48 – (1) Bu Kanun yayımı tarihinde yürürlüğe girer.
-Yürütme
 
 ### Bizim Yorumumuz
 

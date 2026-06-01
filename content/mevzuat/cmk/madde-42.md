@@ -17,9 +17,6 @@ karşı itiraz yoluna gidilebilir.
 mahkeme yerine getirmeyi erteleyebilir.
 ÜÇÜNCÜ KISIM
 Tanıklık, Bilirkişi İncelemesi ve Keşif
-BİRİNCİ BÖLÜM
-Tanıklık
-Tanıkların çağrılması
 
 ### Bizim Yorumumuz
 

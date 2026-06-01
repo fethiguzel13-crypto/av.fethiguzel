@@ -20,9 +20,6 @@ yerlerin belediye veya bağlı kuruluşlarının % 50’sinden fazlasına ortak 
 Devlet İhale Kanunu hükümlerine tabi olmaksızın belediye meclisince belirlenecek süre ve
 bedelle işletilmesini devredebilir. (Ek cümle: 12/11/2012-6360/10 md.) Ancak, bu yerlerin
 belediye şirketlerince üçüncü kişilere devri 2886 sayılı Kanun hükümlerine tabidir.
-YEDİNCİ BÖLÜM
-Çeşitli Hükümler
-Belediyeler arası hizmet ilişkileri ve koordinasyon
 
 ### Bizim Yorumumuz
 

@@ -27,8 +27,6 @@ karar verileceği.
 sonra gelmek üzere “veya arabuluculuğa” ibaresi eklenmiştir.
 14
 
-Ön inceleme duruşması15
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

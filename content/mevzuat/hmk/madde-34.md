@@ -20,7 +20,6 @@ kalksa dahi kayın hısımlığı bulunanların davasında.
 e) Nişanlısının davasında.
 f) İki taraftan birinin vekili, vasisi, kayyımı veya yasal danışmanı sıfatıyla hareket
 ettiği davada.
-Çekinme kararının sonuçları
 
 ### Bizim Yorumumuz
 

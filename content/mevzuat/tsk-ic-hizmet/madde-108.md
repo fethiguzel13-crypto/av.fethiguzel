@@ -28,7 +28,6 @@ ulaştırma araçlarından yararlandırılabilirler.
 emri ile önemli kişiler veya görev ve hizmetler için hava ulaştırma araçları tahsis edilebilir.23
 Yukarıdaki maksatlar için nakil vasıtalarının tahsisi ve bunlardan istifade şekli
 talimatname ile tesbit olunur.
-VII - Sivil nakil vasıtalarından tenzilatlı istifade
 
 ### Bizim Yorumumuz
 

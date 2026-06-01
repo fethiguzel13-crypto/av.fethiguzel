@@ -26,7 +26,6 @@ edecek durumda olmaması halinde, yerine ilgililerce aynı süre içinde genel h
 yasal temsilci tayin edilmesi istenebilir. Bu hükümlerin uygulanmaması halinde, sözleşme
 feshedilerek yasaklama hariç haklarında 20 ve 22 nci maddeye göre işlem yapılır.
 Yüklenicinin ortak girişim olması halinde ölüm, iflas, ağır hastalık, tutukluluk veya
-mahkumiyet3
 
 ### Bizim Yorumumuz
 

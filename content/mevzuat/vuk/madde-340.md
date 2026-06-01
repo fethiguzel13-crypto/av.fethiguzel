@@ -17,7 +17,6 @@ tekerrür hükümleri bakımından birleştirilemez.
 Bu Kanunla vergi cezasiyle cezalandırılan fiiller, aynı zamanda 359 uncu maddeye
 göre suç teşkil ettiği takdirde vergi cezası kesilmesi söz konusu madde hükmüne göre takibat
 yapılmasına engel olmaz.
-Vergi ziyaı:
 
 ### Akademik Yorum ve Analiz
 

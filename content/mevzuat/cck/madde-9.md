@@ -22,7 +22,6 @@ sağlayacağı hizmetleri hâkime bildirir. Çocuğun, ailesine teslim edilip ed
 uygun görülen başkaca bir tedbire hâkim tarafından karar verilir.
 (3) Kurum, çocuk hakkında tedbir kararı alınması gerektiği sonucuna varırsa
 hâkimden koruyucu ve destekleyici tedbir kararı verilmesini talep eder.
-Bakım ve barınma kararlarının yerine getirilmesi
 
 ### Bizim Yorumumuz
 

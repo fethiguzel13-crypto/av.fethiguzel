@@ -14,7 +14,6 @@ haksız çıkarsa, yalnızca fer’î müdahale giderinden sorumlu tutulur, aksi
 diğer tarafa yükletilir. Ancak, hüküm üçüncü kişinin katıldığı taraf lehine verilmiş olsa bile,
 lehine hükmolunan tarafın hâl ve davranışı, üçüncü kişinin davaya katılmasını gerektirmişse,
 müdahale giderinin tamamı veya bir kısmı, lehine hüküm verilen tarafa yükletilebilir.
-Kötüniyetle veya haksız dava açılmasının sonuçları
 
 ### Bizim Yorumumuz
 

@@ -26,7 +26,6 @@ Kurulun görev alanıyla ilgili projelerine katkıda bulunulması konularında k
 (2) Kurul Karar Organı, 128 inci maddenin birinci fıkrasında yer alan Kurulun görev
 ve yetkilerinden (d), (e), (ı) bentlerinde belirtilenleri, kapsamını açıkça belirtmek ve yazılı
 olmak kaydıyla Kurul Başkanına devredebilir.
-Kurul Karar Organının çalışma esasları
 
 ### Bizim Yorumumuz
 

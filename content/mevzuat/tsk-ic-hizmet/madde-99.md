@@ -16,7 +16,6 @@ veya kış eğitim merkezleri kurulabilir.18
 Bu tesislerin işletilmesi ve diğer hususlara ilişkin usul ve esaslar yönetmelikle
 belirlenir.
 Özel, yerel veya kış eğitim merkezlerinin yılı merkezî yönetim bütçe kanunu ile
-belirlenen giderleri genel bütçeden karşılanabilir.
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ Evvelce bankaya yatırılmış olupta tasarrufu kabil bir hale gelen paralar hak
 hüküm böyledir.
 Şüpheli bir hak mevzuubahis oldukta iflas dairesi alacaklılara keyfiyeti ilan eder yahut
 mektupla bildirir ve 245 inci madde mucibince muamele yapılır.
-İflasın tasfiyesi müddeti:
 
 ### Bizim Yorumumuz
 

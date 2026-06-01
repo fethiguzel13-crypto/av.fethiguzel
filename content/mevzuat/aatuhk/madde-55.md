@@ -28,7 +28,6 @@ ve indirilirken keyfiyet muhtarlıkça zabıt varakasiyle tesbit edilir. Cebren 
 ödeme emrinin tebliği veya ödeme cetvelinin indirilmesi tarihinde başlamış olur.
 Borcunu vadesinde ödemiyenlere ait malları elinde bulunduran üçüncü şahıslardan bu
 malları 15 gün içinde bildirmeleri istenir.
-Teminatlı alacaklarda takip:
 
 ### Bizim Yorumumuz
 

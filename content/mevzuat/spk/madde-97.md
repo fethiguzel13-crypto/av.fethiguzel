@@ -57,7 +57,6 @@ fıkrada belirlenen tedbirlerin uygulanmasına Bankacılık Düzenleme ve Denetl
 Kurumunca karar verilir. Söz konusu tedbirlerin, 5411 sayılı Kanunun ilgili hükümleri
 uyarınca yönetim veya denetimi Tasarruf Mevduatı Sigorta Fonuna devredilen bankalar
 hakkında uygulanmasına ise Tasarruf Mevduatı Sigorta Fonu tarafından karar verilir.
-Tedricî tasfiye ve iflas durumlarında uygulanacak tedbirler
 
 ### Bizim Yorumumuz
 

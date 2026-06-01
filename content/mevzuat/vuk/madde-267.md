@@ -40,7 +40,6 @@ Yukarıdaki esaslarla mukayyet olmaksızın kaza mercilerinin re'sen biçtikleri
 ile zirai kazanç ölçülerini tesbit eden kararlarda yer alan unsurlar emsal bedeli yerine geçer. 86
 Ücretle yapılan imalatta ücretin gerçek miktarının bilinmemesi veya doğru olarak
 tayin edilememesi hallerinde tesbit edilecek emsal ücret de aynı esaslara göre tayin olunur.
-Vergi değeri:
 
 ### Akademik Yorum ve Analiz
 

@@ -23,8 +23,6 @@ bulunma imkânını sağlamak niyetiyle üçüncü kişinin hak sahibi kılınd�
 tasarruf ettiği mallar, üçüncü kişi bu durumu biliyor veya bilmesi gerekiyorsa, yeni mal
 sayılır.
 
-Muvakkat dağıtmalar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

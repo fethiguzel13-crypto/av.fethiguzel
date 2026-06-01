@@ -15,8 +15,6 @@ Madde 38 – (Mülga: 22/7/1998 – 4369/82 md.)
 metne işlendiği şekilde değiştirilmiştir.
 10
 
-Ödeme yeri:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

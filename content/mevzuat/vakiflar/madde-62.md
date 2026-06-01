@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 62 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Yardımcı hizmet birimleri
 
 ### Bizim Yorumumuz
 

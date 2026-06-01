@@ -16,7 +16,6 @@ katılım fonu sahiplerine ödenmesi gereken tutarları geri alma hakları hiçb
 sınırlandırılamaz. Mevduat veya katılma hesabı sahipleri ile kredi kuruluşları arasında vade ve
 ihbar süresi hakkında kararlaştırılan şartlar saklıdır.
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurulca belirlenir.
-Zamanaşımı
 
 ### Bizim Yorumumuz
 

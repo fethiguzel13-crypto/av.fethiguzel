@@ -135,7 +135,6 @@ yetkilidir. Mahkemece bu madde uyarınca verilecek tüm kararlar alacaklıya teb
 incelenmesinde İcra ve İflas Kanununun 353 üncü maddesinin birinci fıkrasında belirlenen
 itiraz usulü uygulanır.
 (6) Bu madde hükümleri her bir suç için ancak bir kez uygulanabilir.
-Yürürlük
 
 ### Bizim Yorumumuz
 

@@ -19,7 +19,6 @@ tarafın oyu üstün sayılır.
 Nihai karar haricindeki diğer kararlar ve özellikle tedbir ve tavsiye niteliğindeki kararlar
 ve işlemler için Kurul üyelerinden en az üçte birinin toplanması ve toplantıya katılanların salt
 çoğunluğunun kararı gerekir.
-Kararlarda Bulunması Gereken Hususlar
 
 ### Bizim Yorumumuz
 

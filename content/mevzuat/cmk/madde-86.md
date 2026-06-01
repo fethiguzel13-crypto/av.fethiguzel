@@ -16,7 +16,6 @@ elde edilmiş bir şüpheli veya sanık varsa, teşhis edilmek üzere ölü ona 
 belirlemek için tüm bulgular saptanır.
 (3) Bu muayene, Cumhuriyet savcısının huzurunda ve bir hekim görevlendirilerek
 yapılır.
-Otopsi
 
 ### Bizim Yorumumuz
 

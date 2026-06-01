@@ -23,7 +23,6 @@ incelenmek üzere kendisine teslim edilmiş bulunan dosya ve eklerini mahkemeye 
 sorumluluğuna ilişkin hükümler saklı kalmak kaydıyla, bilirkişiye ücret ve masraf adı altında
 hiçbir ödeme yapılmamasına karar verilebilir ve gerekçesi gösterilerek gerekli yaptırımların
 uygulanması bilirkişilik bölge kurulundan talep edilir.
-Bilirkişinin haber verme yükümlülüğü
 
 ### Bizim Yorumumuz
 

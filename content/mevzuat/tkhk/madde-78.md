@@ -20,9 +20,6 @@ otuz gün içinde açılır. İdare mahkemesinde iptal davası açılmış olmas
 getirilmesini durdurmaz.
 (3) Bu Kanuna göre verilen idari para cezalarının, tebliğinden itibaren bir ay içinde
 ödenmesi zorunludur.
-DOKUZUNCU KISIM
-Çeşitli Hükümler
-Yiyecek taklidi ürünler
 
 ### Bizim Yorumumuz
 

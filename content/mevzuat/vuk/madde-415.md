@@ -672,7 +672,6 @@ değer tespitlerine ilişkin süreleri Emlak Vergisi 1983 Genel Beyan Dönemi il
 b) 1983 yılında yapılacak olan Genel Beyan dolayısıyla vergi dairelerine verilecek
 Emlak Vergisi beyannamelerini iki ay önceden kabul etmeye;
 Maliye Bakanı yetkilidir.
-Yürürlük:
 
 ### Bizim Yorumumuz
 

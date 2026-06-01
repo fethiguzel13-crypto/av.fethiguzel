@@ -52,7 +52,6 @@ koşullar içeren bir yöntem kullanmak zorunda bırakılamaz.
 (7) Finansal hizmetlere ilişkin mesafeli sözleşmelerde, uzaktan iletişim araçlarının
 kullanılması, kapsam dışı sözleşmeler, kartla ödeme, tüketici ile sağlayıcının hak ve
 yükümlülükleri, cayma hakkı ile diğer uygulama usul ve esasları yönetmelikle belirlenir.
-Devre tatil ve uzun süreli tatil hizmeti sözleşmeleri
 
 ### Bizim Yorumumuz
 

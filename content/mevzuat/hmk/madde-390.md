@@ -18,7 +18,6 @@ karşı tarafı dinlemeden de tedbire karar verebilir.
 
 açıkça belirtmek ve davanın esası yönünden kendisinin haklılığını yaklaşık olarak ispat etmek
 zorundadır.
-İhtiyati tedbir kararı
 
 ### Bizim Yorumumuz
 

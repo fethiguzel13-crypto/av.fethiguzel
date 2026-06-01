@@ -18,9 +18,6 @@ hakaret için, uydurma bir suç isnadı suretiyle yapıldığı ve soruşturma v
 olduğu kanuni işlem sonucunda bu isnat sabit olmadığı takdirde, merkezde bu memurun en
 büyük amiri, illerde valiler, isnatta bulunanlar hakkında kamu davası açılmasını Cumhuriyet
 Savcılığından isterler.
-BÖLÜM: 4
-Yasaklar
-Toplu eylem ve hareketlerde bulunma yasağı:
 
 ### Bizim Yorumumuz
 

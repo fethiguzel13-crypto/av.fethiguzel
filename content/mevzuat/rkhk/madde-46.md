@@ -19,7 +19,6 @@ ibaresi madde metninden çıkarılmıştır.
 Sözlü savunma toplantısı, soruşturma safhasının bitiminden en az 30 gün en çok 60
 gün içinde yapılır. Sözlü savunma toplantısı davetiyeleri sözlü savunma toplantısı gününden
 en az 30 gün önce taraflara gönderilir.
-Sözlü Savunma Toplantısına İlişkin Esaslar
 
 ### Bizim Yorumumuz
 

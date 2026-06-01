@@ -71,7 +71,6 @@ benzer kapsamda olduğu değerlendirilen diğer maliyetler dikkate alınmaksız�
 menfaatin nakde çevrilip çevrilmediğine bakılmaksızın hesaplama yapılır. Alım satım
 işlemleriyle ilgili olarak yapılacak menfaat hesaplamalarında dikkate alınacak fiyatlar,
 maliyet yöntemleri ile diğer hususlara ilişkin esaslar Kurulca belirlenir.
-Piyasa bozucu eylemler
 
 ### Bizim Yorumumuz
 

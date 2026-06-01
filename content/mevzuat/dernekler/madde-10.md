@@ -20,7 +20,6 @@ sağlayabilirler. (Ek cümle: 18/2/2009-5838/7 md.) 4857 sayılı İş Kanununun
 maddesi çerçevesinde engellilerin ve eski hükümlülerin mesleki eğitim ve mesleki
 rehabilitasyonu, kendi işlerini kurmaları, engellilerin iş bulmasını sağlayacak destek
 teknolojilerine ilişkin projeler ile benzeri projelerde bu oran aranmaz.3
-Gelir ve giderlerde usul ile dernek defterleri
 
 ### Bizim Yorumumuz
 

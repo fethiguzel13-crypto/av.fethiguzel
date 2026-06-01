@@ -24,7 +24,6 @@ Davada her iki taraf da kısmen haklı çıkarsa, yargılama giderleri haklılı
 taraflar arasında paylaştırılır.
 (5) Hakem veya hakem kurulunun yargılamayı sona erdiren veya taraflar arasındaki
 sulhü tespit eden kararında da yargılama giderleri gösterilir.
-Yargılamanın iadesi
 
 ### Bizim Yorumumuz
 

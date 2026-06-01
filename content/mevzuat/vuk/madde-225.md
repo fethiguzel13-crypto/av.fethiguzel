@@ -19,7 +19,6 @@ evvel tasdike arzolunur.
 Bunların sayfa numaraları tasdikli yaprakların sayfa numaralarını takiben teselsül
 ettirilir. Tasdik makamı, ilave yaprakların sayısını ilk tasdik şerhinin altına kaydeder ve bu
 kaydı usulüne göre tasdik eder.
-Defter tasdikine ait bordrolar:
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ incelenir.
 (2) Hâkim, muhakemeyi basitleştirmek veya kısaltmak için resen veya taraflardan
 birinin talebi üzerine tahkikatın her aşamasında iddia veya savunmalardan birinin veya bir
 kısmının diğerinden önce incelenmesine karar verebilir.
-Tarafların dinlenilmesi
 
 ### Bizim Yorumumuz
 

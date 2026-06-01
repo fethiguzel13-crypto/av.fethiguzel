@@ -18,8 +18,6 @@ içinde verilirse vergi ziyaı olmamış sayılır.
 Ayrıca mükellefe tebliğ edilmek şartı ile yeniden 15 günlük bir mühlet verilir. Bu
 hususta da yukarıdaki hüküm cari olur.
 
-En az ceza haddi:114
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

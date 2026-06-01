@@ -20,7 +20,6 @@ vergilendirilmeyenler ile mal bedeli üzerinden hesaplanan fiyat farkı, kur far
 ç) (Ek : 20/7/2025-7555/8 md.) 4760 sayılı Kanunun 16 ncı maddesinin (4) numaralı
 fıkrası uyarınca teminat karşılığı ithal edilen malın teminatının hesaplanmasına esas özel
 tüketim vergisi tutarı.
-Uluslararası yük ve yolcu taşımalarında matrah:
 
 ### Bizim Yorumumuz
 

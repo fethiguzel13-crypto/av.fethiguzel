@@ -24,7 +24,6 @@ Fonda anahizmet birimi olarak Strateji Geliştirme Daire Başkanlığı kurulur.
 basın ve halkla ilişkiler, yönetim ve finans gibi alanlarda ihtiyaca göre sayıları toplam onbeşi
 geçmemek üzere Başkanlık müşaviri görevlendirilebilir.49
 (Mülga dördüncü fıkra:26/5/2022-7407/5 md.)
-Fon personeli
 
 ### Bizim Yorumumuz
 

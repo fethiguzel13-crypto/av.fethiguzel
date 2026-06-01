@@ -16,7 +16,6 @@ kurumdan aldıkları aylık tutarından fazla olanlara, aradaki fark askeri kuru
 veya yeni rütbeyi kazandıkları tarihten itibaren silah altında bulundukları sürece Milli
 Savunma Bakanlığı tarafından ödenir.
 Seferde muvazzaflık hizmeti dışında silah altına alınan memurların aylıklarının
-ödenmesi:
 
 ### Bizim Yorumumuz
 

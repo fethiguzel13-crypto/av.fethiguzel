@@ -26,8 +26,6 @@ kamuoyuna duyurur.
 (7) Kurulun çalışma usul ve esasları ile kararların yazımı ve diğer hususlar
 yönetmelikle düzenlenir.
 
-Başkan
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

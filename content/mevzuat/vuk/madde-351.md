@@ -13,7 +13,6 @@ wordCount: 828
 
 Madde 351 – Usulsüzlük vergi kanunlarının şekle ve usule mütaallik hükümlerine
 riayet edilmemesidir.
-Usulsüzlük dereceleri ve cezaları:118
 
 ### Akademik Yorum ve Analiz
 

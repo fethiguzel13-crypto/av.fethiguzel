@@ -16,7 +16,6 @@ gereği yerine getirilirse, borçlu tahliye edilir.
 Borçlunun, nafakanın kaldırılması veya azaltılması talebiyle dava açmış olması
 halinde, ileri sürdüğü sebepler göz önünde bulundurularak, tazyik hapsinin uygulanması bu
 davanın sonuna bırakılabilir.
-Hükmi şahısların muamelelerinde kimlerin ceza göreceği:
 
 ### Bizim Yorumumuz
 

@@ -121,7 +121,6 @@ ve Devlet katkısının hak edilen kısmı indirilerek bulunur.
 edilen irat tutarının tespitinde kur farkı dikkate alınmaz.
 Vergi Alacağı
 Mükerrer Madde 75 – (Mülga: 9/4/2003-4842/37 md.)
-İrat sayılmayan haller:
 
 ### Bizim Yorumumuz
 

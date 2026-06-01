@@ -17,7 +17,6 @@ yirmidört saat esasına göre yürüten, çalışma usul ve esasları yönetmel
 
 (2) Kurulan merkezlerde şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin
 olarak uygulanmasına yönelik izleme çalışmaları yapılır ve destek hizmetleri verilir.
-Destek hizmetleri
 
 ### Bizim Yorumumuz
 

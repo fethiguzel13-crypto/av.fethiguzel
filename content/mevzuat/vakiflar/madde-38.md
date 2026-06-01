@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 38 – (Mülga: 2/7/2018/KHK/703/102 md.)
-Genel Müdürlüğün gelirleri
 
 ### Bizim Yorumumuz
 

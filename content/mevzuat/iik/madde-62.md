@@ -31,7 +31,6 @@ Borçlu takibin müstenidi olan senet altındaki imzayı reddediyorsa, bunu itir
 ayrıca ve açıkça beyan etmelidir. Aksi takdirde icra takibi yönünden senetteki imzayı kabul
 etmiş sayılır.
 Borçluya, itiraz eylediğine dair bedava ve pulsuz bir belge verilir.
-2 – İtiraz sebepleri:
 
 ### Bizim Yorumumuz
 

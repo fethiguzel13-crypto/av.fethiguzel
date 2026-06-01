@@ -42,7 +42,6 @@ mütaakıp tahsil dairesinin yazılı talebi üzerine icra tetkik mercii hakimi 
 Bu kararlar Cumhuriyet Savcılığınca derhal infaz olunur.
 İcra tetkik mercii hakimi tarafından verilen hapsen tazyik kararları her türlü harc ve
 resimden muaftır.
-Mal edinme ve mal artmaları:
 
 ### Bizim Yorumumuz
 

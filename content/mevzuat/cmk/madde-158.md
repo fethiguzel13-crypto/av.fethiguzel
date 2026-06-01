@@ -32,7 +32,6 @@ savcısı, hâkim veya mahkeme tarafından görülebilir.
 (7) Yürütülen soruşturma sonucunda kovuşturma evresine geçildikten sonra suçun
 şikâyete bağlı olduğunun anlaşılması halinde; mağdur açıkça şikâyetten vazgeçmediği
 takdirde, yargılamaya devam olunur.
-Şüpheli ölümün ihbarı
 
 ### Bizim Yorumumuz
 

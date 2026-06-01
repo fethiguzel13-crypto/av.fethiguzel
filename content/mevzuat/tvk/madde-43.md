@@ -20,7 +20,6 @@ teşkil edecek bir hâli bulunmamak kaydıyla, Türkiye’de ikamet etme şartı
 Bakanlık kararı ile yeniden Türk vatandaşlığına alınabilirler.
 (3) Millî güvenlik bakımından engel teşkil edecek hali bulunanların talepleri Bakanlıkça
 reddedilir.
-Çok vatandaşlık
 
 ### Bizim Yorumumuz
 

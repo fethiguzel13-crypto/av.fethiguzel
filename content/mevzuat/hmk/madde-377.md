@@ -26,7 +26,6 @@ tarihten itibaren üç ay ve her hâlde iade talebine konu olan hükmün kesinle
 itibaren on yıldır.
 (2) 375 inci maddenin birinci fıkrasının (ı) bendinde yazılan sebepten dolayı
 yargılamanın yenilenmesi süresi ilama ilişkin zamanaşımı süresi kadardır.
-İnceleyecek mahkeme ve teminat
 
 ### Bizim Yorumumuz
 

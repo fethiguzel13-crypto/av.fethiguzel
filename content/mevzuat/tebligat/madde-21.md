@@ -29,7 +29,6 @@ tesellüm edenin adresini ihtiva eden ihbarnameyi gösterilen adresteki binanın
 yapıştırır. İhbarnamenin kapıya yapıştırıldığı tarih, tebliğ tarihi sayılır.
 (Ek: 19/3/2003-4829/5 md.) Muhtar, ihtiyar heyeti azaları, zabıta amir ve memurları
 yukarıdaki fıkralar uyarınca kendilerine teslim edilen evrakı kabule mecburdurlar.7
-Yaş ve ehliyet şartı:
 
 ### Bizim Yorumumuz
 

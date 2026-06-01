@@ -20,7 +20,6 @@ kararı ile birlikte açıklar.
 edindikleri bilgileri açıklamamaları hususunda uyarır ve 26/9/2004 tarihli ve 5237 sayılı Türk
 Ceza Kanununun gizliliğin ihlaline ilişkin hükmünün uygulanacağını ihtar ederek bu hususu
 tutanağa geçirir.
-Dürüst davranma ve doğruyu söyleme yükümlülüğü
 
 ### Bizim Yorumumuz
 

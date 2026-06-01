@@ -16,7 +16,6 @@ geçici yönetimin nasıl oluşacağına ve ne zamana kadar devam edeceğine ili
 yer verilir. Geçici yönetim en geç toplu yapının bitimini izleyen bir yıl sonrasına kadar devam
 edebilir. Bu süre, her halde toplu yapı kapsamındaki ilk yapı ruhsatının alınmasından itibaren
 on yıl geçmekle sona erer.
-Uygulanacak diğer hükümler
 
 ### Bizim Yorumumuz
 

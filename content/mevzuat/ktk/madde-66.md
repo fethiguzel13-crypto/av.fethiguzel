@@ -66,7 +66,6 @@ cezası uygulanır.
 (Ek fıkra: 24/12/2020-7261/26 md.) Elektrikli skuter ve kullanımına ilişkin diğer
 hususlar İçişleri Bakanlığı, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ile Ulaştırma ve
 Altyapı Bakanlığı tarafından müştereken çıkarılan yönetmelikle belirlenir.57
-Araç manevralarını düzenleyen kurallar:
 
 ### Bizim Yorumumuz
 

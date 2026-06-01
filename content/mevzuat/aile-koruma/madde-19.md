@@ -23,8 +23,6 @@ hâlinde, genel sağlık sigortası kapsamında karşılanmayan rehabilitasyon h
 giderler ile rehabilitasyon hizmetleri kapsamında verilmesi gereken diğer sağlık hizmetlerinin
 giderleri Bakanlık bütçesinin ilgili tertiplerinden karşılanır.
 
-Harçlar ve masraflardan, vergilerden muafiyet ve davaya katılma
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

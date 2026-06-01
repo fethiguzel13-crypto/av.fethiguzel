@@ -16,8 +16,6 @@ ibaresinden sonra gelmek üzere "Devletin ve sosyal güvenlik kuruluşlarının 
 kapsamındaki alacaklarından sonra gelmek üzere," ibaresi eklenmiştir.
 60
 
-Fon alacaklarının takip ve tahsiline ilişkin istisnalar
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

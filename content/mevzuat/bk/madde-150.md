@@ -39,7 +39,6 @@ açıktır.
 ve yer sağlayıcıları yurt dışında bulunan internet siteleri aracılığıyla gerçekleştirilmesi
 durumunda bu internet sitelerine erişim, Kurumun başvurusu üzerine Bilgi Teknolojileri ve
 İletişim Kurumu tarafından engellenir.
-Mevduat ve katılım fonu sahiplerinin haklarını engellemek
 
 ### Bizim Yorumumuz
 

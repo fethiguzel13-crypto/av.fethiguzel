@@ -16,7 +16,6 @@ ve soyadı, engel sebepler olmadıkça ret hakkına sahip olanlara bildirilir.
 (3) Ret istemini davayı görmekte olan hâkim veya mahkeme inceler. Soruşturma
 evresinde, Cumhuriyet savcısınca kabul edilmeyen ret istemi sulh ceza hâkimince incelenir.
 Reddi isteyen kişi, bunun nedenini, dayandığı olguları göstererek açıklamakla yükümlüdür.
-Bilirkişilikten çekinme, bilirkişi olarak dinlenemeyenler
 
 ### Bizim Yorumumuz
 

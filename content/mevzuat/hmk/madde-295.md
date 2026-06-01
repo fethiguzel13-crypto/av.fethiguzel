@@ -16,7 +16,6 @@ hüküm hakkında görüşme yapılamaz.
 (3) Hükmün müzakeresi sırasında, yargılamanın sona erdiğinin bildirildiği duruşmada
 hazır bulunan hâkim bulunmuyorsa, gerekli görüldüğü takdirde tarafların sözlü açıklamaları
 tekrar dinlendikten sonra müzakere edilir ve hüküm verilir.
-Hükmün oylanması ve yeter sayı
 
 ### Bizim Yorumumuz
 

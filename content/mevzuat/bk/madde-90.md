@@ -19,8 +19,6 @@ görev ve yetkilerinden bir kısmını alt kademelere devredebilir.
 olarak değiştirilmiştir.
 19
 
-Kurumun hizmet birimleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -56,7 +56,6 @@ b) Fason hizmetten serbest bölgelerde faydalanılmalıdır.
 İKİNCİ BÖLÜM9
 Araçlar, Petrol Aramaları ve Teşvik Belgeli Yatırımlarda İstisna
 Araçlar, kıymetli maden ve petrol aramaları ile ulusal güvenlik
-harcamaları ve yatırımlarda istisna9
 
 ### Bizim Yorumumuz
 

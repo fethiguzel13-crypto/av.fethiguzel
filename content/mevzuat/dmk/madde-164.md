@@ -37,7 +37,6 @@ md.) Üçüncü fıkra kapsamına giren personelin her türlü özlük hakların
 işlemlerinin belli merkezlerden yapılabilmesi ve ödemelerin bankacılık sistemi aracılığı ile
 gerçekleştirilmesi için gerekli düzenlemeleri yapmaya ve gerekli tedbirleri almaya Maliye
 Bakanlığı yetkilidir.
-Açıktan atanmada aylığa hak kazanma:
 
 ### Bizim Yorumumuz
 

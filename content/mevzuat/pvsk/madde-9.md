@@ -48,7 +48,6 @@ ve eşyasını teknik cihazlarla, gerektiğinde el ile kontrol etmeye ve aramaya
 yerlere girmek isteyenler kimliklerini sorulmaksızın ibraz etmek zorundadırlar. Milletlerarası
 anlaşmalar hükümleri saklıdır.
 Önleme aramasının sonucu, arama kararı veya emri veren merci veya makama bir
-tutanakla bildirilir.
 
 ### Bizim Yorumumuz
 

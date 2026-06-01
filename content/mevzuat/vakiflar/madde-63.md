@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 63 – (Mülga: 2/7/2018/KHK/703/102 md.)
-İnsan Kaynakları Daire Başkanlığı
 
 ### Bizim Yorumumuz
 

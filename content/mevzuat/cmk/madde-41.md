@@ -14,7 +14,6 @@ içinde, süreye uyulduğunda usule ilişkin işlemleri yapacak olan mahkemeye v
 (2) Dilekçe sahibi, sürenin geçmesinde kusuru olmadığına ilişkin olguları, varsa
 belgelerini de ekleyerek açıklar. Dilekçe verildiği anda usule ilişkin yapılamayan işlemler de
 yerine getirilir.
-Eski hâle getirme dilekçesi üzerine verilecek karar
 
 ### Bizim Yorumumuz
 

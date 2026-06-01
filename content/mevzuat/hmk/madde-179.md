@@ -17,7 +17,6 @@ tarafın yerine getireceğini ıslahtan önce bildirmiş olması koşuluyla, yem
 veya iadesi ıslah ile geçersiz kılınamaz.
 (3) Şu kadar ki, ıslahtan sonra yapılacak tahkikat sonucuna göre, bu işlemlerin göz
 önünde tutulması gerekmiyorsa, bunlar da yapılmamış sayılır.
-Davanın tamamen ıslahı
 
 ### Bizim Yorumumuz
 

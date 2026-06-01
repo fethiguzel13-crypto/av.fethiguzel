@@ -43,7 +43,6 @@ md.) Maddenin uygulamasına ilişkin usul ve esasları belirlemeye Hazine ve Mal
 yetkilidir.
 (Ek fıkra: 30/12/1980-2365/57 md.) (Mülga dördüncü fıkra:14/10/2021-7338/37
 md.)
-Emtia sigorta tazminatı:
 
 ### Akademik Yorum ve Analiz
 

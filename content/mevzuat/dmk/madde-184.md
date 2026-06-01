@@ -19,7 +19,6 @@ aylıkları Milli Savunma Bakanlığınca ödenir.
 aradaki fark kurumlarınca ödenir
 B) (A) bendi dışında kalan ve rütbesiz memurların aylıklarının tamamı kurumlarınca
 ödenir.
-Sefer haline geçişte silah altında bulunan memurların aylıkları:
 
 ### Bizim Yorumumuz
 

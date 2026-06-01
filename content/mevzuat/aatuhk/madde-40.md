@@ -25,7 +25,6 @@ Makbuzun borçluya posta ile gönderilmesi gerektiği hallerde posta masrafı al
 amme idaresine aittir.
 Hususi kanunlarındaki makbuz verilmesinden başka şekillerde yapılan tahsilata ait
 hükümler mahfuzdur.
-Hususi ödeme şekilleri:12
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ getirtilmemiş olan delillerin verilmesini veya getirtilmesini de kararlaştıra
 gördüğü tahkikatı kendisi tamamlayabileceği gibi hâkimlerden birine de verebilir.
 (3) Toplu mahkeme, tarafların tahkikatın tümü hakkındaki açıklamalarından sonra,
 tahkikatı gerektiren bir husus kalmadığını görürse, tahkikatın bittiğini tefhim eder.
-Sözlü yargılama
 
 ### Bizim Yorumumuz
 

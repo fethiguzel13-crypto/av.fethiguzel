@@ -17,7 +17,6 @@ haklarını, imtiyazları, madenleri, mücevheratı, eski eserleri ve sanat eser
 bilirkişiye müracaat edebilir.
 (Ek fıkra: 4/12/1985-3239/7 md.) 72 nci maddenin ikinci ve üçüncü fıkralarına göre
 kurulan takdir komisyonları 79 uncu maddede yazılı yetkileri haizdir.
-Beyana bağlılık:
 
 ### Bizim Yorumumuz
 

@@ -33,7 +33,6 @@ alınması halinde alınan madde veya vasıtaların emsal bedeli hasılat sayıl
 mahsullerin emsal bedeli hasılat sayılır; bu hasılatın sene sonunda bir kalemde yazılması
 caizdir.
 (Son fıkra mülga: 24/12/1980-2361/40 md.)
-Zirai işletme hesabı esasında giderler:
 
 ### Akademik Yorum ve Analiz
 

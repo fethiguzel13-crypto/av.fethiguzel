@@ -15,7 +15,6 @@ kıymetlerini kaybetmezler; yalnız vergi ihbarı ile ilgili vesikalarda mükell
 nevi veya miktarının, vergi mahkemesinde dava açma süresinin hiç yazılmamış olması
 veyahut bu vesikaların görevli bir makam tarafından tanzim edilmemiş bulunması vesikayı
 hükümsüz kılar.
-Tebliğ yerine geçen muameleler:
 
 ### Bizim Yorumumuz
 

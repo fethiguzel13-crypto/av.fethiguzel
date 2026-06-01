@@ -20,7 +20,6 @@ tarafından yararlanılan yayla, çayır, mera, koru, kaynak ve mesirelik gibi y
 yararlanma hakları devam eder. Bu haklar için sınır kâğıdına şerh konulur.
 d) Çizilen sınırların geçtiği yerlerin bilinen adları sınır kâğıdına yazılır. Ayrıca yetkili
 fen elemanı tarafından düzenlenen kroki sınır tespit tutanağına eklenir.
-Sınırların kesinleşmesi
 
 ### Bizim Yorumumuz
 

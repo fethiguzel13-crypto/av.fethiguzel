@@ -38,7 +38,6 @@ yatırılmış olması kaydıyla, taraflar mazeretsiz olarak duruşmaya katılma
 tahkikat yokluklarında yapılarak karar verilir. Belirlenen gider, süresi içinde yatırılmadığı
 takdirde, dosyanın mevcut durumuna göre karar verilir. Şu kadar ki, öngörülen tahkikat
 yapılmaksızın karar verilmesine olanak bulunmayan hâllerde başvuru reddedilir.
-Karar ve tebliği5253
 
 ### Bizim Yorumumuz
 

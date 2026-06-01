@@ -16,7 +16,6 @@ kurumlarda görevli bir tabip yahut Sağlık Bakanlığı tarafından görevlend
 sayıda tabip kıta, karargâh veya askerî kurum tabibi olarak görevlendirilir. Tabip
 görevlendirilmesinin mümkün olmadığı hâllerde, en yakın resmî sağlık hizmet sunucusundan
 ya da Sosyal Güvenlik Kurumu ile sözleşmeli sağlık hizmet sunucularından istifade edilerek
-sağlık hizmetleri yürütülür.
 
 ### Bizim Yorumumuz
 

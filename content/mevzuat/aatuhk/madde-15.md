@@ -15,7 +15,6 @@ işlerine bakan vergi itiraz komisyonu nezdinde ihtiyati haciz sebebine itiraz e
 İtirazın şekli ve incelenmesi hususunda Vergi Usul Kanunu hükümleri tatbik olunur.
 Bu ihtilaflar itiraz komisyonlarınca diğer işlere takdimen incelenir ve karara bağlanır. İtiraz
 komisyonlarının bu konuda verecekleri kararlar kesindir.
-İhtiyati haczin kaldırılması:
 
 ### Bizim Yorumumuz
 

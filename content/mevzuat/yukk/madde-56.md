@@ -17,7 +17,6 @@ güne kadar süre tanınır. Ancak, kaçma ve kaybolma riski bulunanlara, yasal 
 açısından tehdit oluşturanlara bu süre tanınmaz.
 (2) Türkiye’den çıkış için süre tanınan kişilere, Çıkış İzin Belgesi verilir. Bu belge hiçbir
 harca tabi değildir. Vize ve ikamet harçları ile bunların cezalarına ilişkin yükümlülükler saklıdır.
-Sınır dışı etmek üzere idari gözetim ve süresi
 
 ### Bizim Yorumumuz
 

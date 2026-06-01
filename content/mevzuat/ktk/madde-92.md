@@ -43,7 +43,6 @@ ve Genel Sağlık Sigortası Kanunu kapsamında Sosyal Güvenlik Kurumu tarafın
 gelir kaybına ilişkin ödemelerde, 5510 sayılı Kanunun 21 inci maddesi uyarınca sigortacının
 Sosyal Güvenlik Kurumuna karşı sorumluluğu varsa, bu sorumluluk sigortacının kendi
 sigortalısının kusuru oranında devam eder.
-En az sigorta tutarları:
 
 ### Bizim Yorumumuz
 

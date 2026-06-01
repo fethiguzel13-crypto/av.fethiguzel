@@ -42,7 +42,6 @@ zarar hesabına eklenir.
 (Ek: 19/2/1963-205/21 md.) (Değişik beşinci fıkra:14/10/2021-7338/36 md.)
 Maddenin uygulamasına ilişkin usul ve esasları belirlemeye Hazine ve Maliye Bakanlığı
 yetkilidir.
-Amortismana tabi malların sigorta tazminatı:
 
 ### Akademik Yorum ve Analiz
 

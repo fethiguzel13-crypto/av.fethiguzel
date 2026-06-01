@@ -19,7 +19,6 @@ ibaresinden sonra gelmek üzere “icra daireleri başkanlığı kurulmayan yerl
 paraların, ilgili memur tarafından zimmete geçirilmesi halinde, zimmete geçirilen miktar,
 cezai takibat sonucu beklenmeden ve tazmin yolunda bir hükme hacet kalmaksızın hazine
 tarafından derhal icra veznesine yatırılır. Devletin asıl sorumlulara rücu hakkı saklıdır.
-Zarar ve ziyan davasının zamanaşımı:
 
 ### Bizim Yorumumuz
 

@@ -25,7 +25,6 @@ bunun sebepleri tutanakta açıkça belirtilir.
 yerlerde kolluk yardımı ile arama yapılabilir. Aramada bulunan ve incelenmesine lüzum
 görülen defterler ve belgeler ayrıntılı bir tutanakla tespit olunur ve yerinde incelemenin
 mümkün olmadığı hâllerde, muhafaza altına alınarak inceleme yapanın çalıştığı yere sevk edilir.
-Gizlilik ve sır saklama
 
 ### Bizim Yorumumuz
 

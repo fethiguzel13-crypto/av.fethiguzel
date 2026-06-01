@@ -23,7 +23,6 @@ borçlanılan para, mal ve diğer suretlerde sağlanan ve para ile temsil edileb
 4. Belli bir tarifeye göre fiyatı tespit edilen işler ile bedelin biletle tahsil edildiği
 hallerde tarife ve bilet bedeli Katma Değer Vergisi dahil edilerek tespit olunur ve vergi
 müşteriye ayrıca intikal ettirilmez.
-İthalatta matrah:
 
 ### Bizim Yorumumuz
 

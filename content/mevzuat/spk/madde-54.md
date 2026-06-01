@@ -20,7 +20,6 @@ c) Katılma paylarının ihracına,
 
 ç) Fonların izahname ve diğer kamuyu aydınlatma yükümlülüklerine,
 ilişkin usul ve esasları belirler.
-Portföy yönetim şirketi
 
 ### Bizim Yorumumuz
 

@@ -31,7 +31,6 @@ maddesiyle metne işlendiği şekilde değiştirilmiştir.
 verilen karara karşı istinaf yoluna başvurulabilir. Bölge adliye mahkemesi bu başvuruyu
 öncelikle inceler ve verdiği karar kesindir. İstinaf yoluna başvuru, ihtiyatî haciz kararının
 icrasını durdurmaz.
-İhtiyati haczin kaldırılması:
 
 ### Bizim Yorumumuz
 

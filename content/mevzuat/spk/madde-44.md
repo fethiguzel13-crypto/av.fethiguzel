@@ -44,8 +44,6 @@ destek hizmeti alımına ilişkin usul ve esaslar Kurulca belirlenir.
 (5) Bankalar dışındaki diğer yatırım kuruluşlarının kurucularında aranacak şartlar
 Kurulca belirlenir.
 
-Faaliyette bulunulmasına ilişkin şartlar
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

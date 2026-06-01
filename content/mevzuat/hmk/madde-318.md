@@ -13,7 +13,6 @@ MADDE 318- (1) Taraflar dilekçeleri ile birlikte, tüm delillerini açıkça ve
 vakıanın delili olduğunu da belirterek bildirmek; ellerinde bulunan delillerini dilekçelerine
 eklemek ve başka yerlerden getirilecek belge ve dosyalar için de bunların bulunabilmesini
 sağlayan bilgilere dilekçelerinde yer vermek zorundadır.
-İddia ve savunmanın genişletilmesi veya değiştirilmesi yasağı
 
 ### Bizim Yorumumuz
 

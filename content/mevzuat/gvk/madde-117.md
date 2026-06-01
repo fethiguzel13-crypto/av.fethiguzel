@@ -17,7 +17,6 @@ Maliye Bakanlığı, gelirlerinin büyük bir kısmı ziraî kazançtan oluşan 
 hakkında gerekli görülen hallerde, iki taksitten fazla olmamak üzere, belli üretim bölgeleri ve
 ziraat ürünlerine göre, özel ödeme zamanları tayin edebilir.
 Mükerrer Madde 117 – (Mülga: 31/12/1982-2772/20 md.)
-Diğer ücretler üzerinden tahakkuk eden vergilerde ödeme:138
 
 ### Bizim Yorumumuz
 

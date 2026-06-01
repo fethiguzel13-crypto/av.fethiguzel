@@ -28,7 +28,6 @@ kabul tarihine, diğer işlerde kabul tarihine veya varsa garanti süresinin bit
 paraya çevrilerek borçlarına karşılık mahsup edilir, varsa kalanı yükleniciye geri verilir.
 İşin konusunun piyasadan hazır halde alınıp satılan mal alımı olması halinde, Sosyal
 Sigortalar Kurumundan ilişiksiz belgesi getirilmesi şartı aranmaz.
-İade edilemeyen teminatlar
 
 ### Bizim Yorumumuz
 

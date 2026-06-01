@@ -22,7 +22,6 @@ Genel Müdürlükçe yürütülür.
 Yeterli geliri bulunmayan mazbut vakıflara ait vakıf kültür varlığı niteliğindeki
 taşınmazların, benzer amaçlı mazbut vakıfların gelirleriyle korunmasına ve yaşatılmasına
 Meclis yetkilidir.
-Vakıf kültür ve tabiat varlıklarının korunması
 
 ### Bizim Yorumumuz
 

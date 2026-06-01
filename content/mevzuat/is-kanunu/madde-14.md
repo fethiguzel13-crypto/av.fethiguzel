@@ -46,7 +46,6 @@ yükümlüdür.
 dikkate alınarak hangi işlerde uzaktan çalışmanın yapılamayacağı, verilerin korunması ve
 paylaşılmasına ilişkin işletme kurallarının uygulanması ile diğer hususlar Çalışma ve Sosyal
 Güvenlik Bakanlığı tarafından çıkarılan yönetmelikle belirlenir.
-Deneme süreli iş sözleşmesi
 
 ### Akademik Yorum ve Analiz
 

@@ -31,7 +31,6 @@ uymak zorunda oldukları hükümleri gösteren yazılı bir belge vermekle yük�
 ayı geçmeyen belirli süreli iş sözleşmelerinde bu fıkra hükmü uygulanmaz. İş sözleşmesi iki
 aylık süre dolmadan sona ermiş ise, bu bilgilerin en geç sona erme tarihinde işçiye yazılı
 olarak verilmesi zorunludur.
-Türü ve çalışma biçimlerini belirleme serbestisi
 
 ### Akademik Yorum ve Analiz
 

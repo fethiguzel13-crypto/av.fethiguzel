@@ -26,7 +26,6 @@ esasına göre defter tutmalarına imkan veya lüzum görülmeyenlerin, işletme
 defter tutmalarına Maliye Bakanlığınca müsaade edilir.);
 6. İhtiyari olarak bilanço esasına göre defter tutmayı tercih edenler.
 (Ek fıkra: 21/1/1983-2791/4 md.; Mülga: 4/12/1985-3239/136 md.)
-İkinci sınıf tüccarlar:
 
 ### Bizim Yorumumuz
 

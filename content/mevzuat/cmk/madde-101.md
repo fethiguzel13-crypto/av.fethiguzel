@@ -27,7 +27,6 @@ verilir ve bu husus kararda belirtilir.
 tarafından görevlendirilecek bir müdafiin yardımından yararlanır.
 (4) Tutuklama kararı verilmezse, şüpheli veya sanık derhâl serbest bırakılır.
 (5) Bu madde ile 100 üncü madde gereğince verilen kararlara itiraz edilebilir.
-Tutuklulukta geçecek süre
 
 ### Bizim Yorumumuz
 

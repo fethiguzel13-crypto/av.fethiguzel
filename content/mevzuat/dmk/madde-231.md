@@ -23,7 +23,6 @@ yönetmelik:” iken, metne işlendiği şekilde değiştirilmiştir.
 
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar ile istisna tutulacak kamu kurum
 ve kuruluşları Cumhurbaşkanınca belirlenir.287
-Türk silahlı kuvvetlerinde çalışan memurlara uygulanmıyacak maddeler:
 
 ### Bizim Yorumumuz
 

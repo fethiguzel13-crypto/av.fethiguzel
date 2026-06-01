@@ -15,8 +15,6 @@ halinde tasarruf olunan bir mal hissesi gibi malların paraya çevrilebilir hale
 hükümler dairesinde sağlar. Bu suretle paraya çevrilebilir hale gelen mallar hakkında da bu
 kanun hükümleri tatbik olunur.
 
-Haciz varakası:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

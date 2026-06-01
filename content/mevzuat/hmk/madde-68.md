@@ -15,7 +15,6 @@ savunma vasıtalarını ileri sürebilir; onun işlem ve açıklamalarına aykı
 usul işlemlerini yapabilir.
 (2) Mahkeme, katıldığı noktadan itibaren, taraflara bildirilen işlemleri müdahile de
 tebliğ eder.
-Fer’î müdahalenin etkisi
 
 ### Bizim Yorumumuz
 

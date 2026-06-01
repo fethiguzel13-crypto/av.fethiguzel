@@ -17,9 +17,6 @@ gabari ölçüleri ile yük ve yolcu taşınması ile ilgili diğer kurallar ve 
 67
 
 gösterilir.
-YEDİNCİ KISIM
-Trafik Kazaları
-Trafik kazalarına karışanlar ile ilgili kurallar:
 
 ### Bizim Yorumumuz
 

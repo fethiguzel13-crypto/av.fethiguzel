@@ -34,7 +34,6 @@ uygulanır. İrsaliyelerde malın nereye ve kime gönderildiği ayrıca belirtil
 Şu kadar ki nihai tüketicilerin tüketim amacıyla perakende olarak satın aldıkları
 malları kendilerinin taşıması veya taşıttırması halinde bu mallara ait fatura veya perakende
 satış fişinin bulunması şartıyla sevk irsaliyesi aranmaz.)
-Fatura nizamı:
 
 ### Bizim Yorumumuz
 

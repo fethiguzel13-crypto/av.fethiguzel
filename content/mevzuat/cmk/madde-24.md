@@ -16,7 +16,6 @@ hâkimin reddi isteminde bulunabilirler.
 
 (3) Bunlardan herhangi biri istediği takdirde, karar veya hükme katılacak hâkimlerin
 isimleri kendisine bildirilir.
-Tarafsızlığını şüpheye düşürecek sebeplerden dolayı hâkimin reddi isteminin süresi
 
 ### Bizim Yorumumuz
 

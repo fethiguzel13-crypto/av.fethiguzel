@@ -27,9 +27,6 @@ varsa ek kesin teminatların tutarı kadar ceza tahsil edilir. Bu ceza hakedişl
 suretiyle de tahsil edilebilir.
 4 20/11/2008 tarihli ve 5812 sayılı Kanunun 34 üncü maddesiyle; bu bentte yer alan “yirmi gün” ibaresi “on gün” olarak değiştirilmiştir.
 
-
-Sözleşmenin feshine ilişkin düzenlemeler
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

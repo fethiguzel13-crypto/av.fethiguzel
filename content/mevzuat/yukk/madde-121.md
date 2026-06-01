@@ -31,7 +31,6 @@ ilişkin usul ve esaslar, Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe 
 görüşü alınarak Göç İdaresi Başkanlığınca belirlenir.
 (2) Göç İdaresi Başkanlığı bu madde kapsamında belirlenen görevlerini yerine
 getirirken hizmet satın alabilir.
-Atıf yapılan hükümler
 
 ### Bizim Yorumumuz
 

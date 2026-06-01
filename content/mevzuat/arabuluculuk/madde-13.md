@@ -18,7 +18,6 @@ gün içinde olumlu cevap verilmez ise bu teklif reddedilmiş sayılır.
 ihtiyaç duyan taraf, arabuluculuk bürosunun bulunduğu yerdeki sulh hukuk mahkemesinin
 kararıyla adli yardımdan yararlanabilir. Bu konuda 12/1/2011 tarihli ve 6100 sayılı Hukuk
 Muhakemeleri Kanununun 334 ila 340 ıncı maddeleri kıyasen uygulanır.
-Arabulucunun seçilmesi
 
 ### Bizim Yorumumuz
 

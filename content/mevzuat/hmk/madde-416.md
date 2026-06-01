@@ -36,7 +36,6 @@ tarafından yapılır. Mahkemenin, gerektiğinde tarafları dinledikten sonra bu
 göre verdiği kararlara karşı kanun yoluna başvurulamaz. Mahkeme, hakem seçiminde
 tarafların sözleşmesini ve hakemlerin bağımsız ve tarafsız olması ilkelerini göz önünde
 bulundurur. Üçten fazla hakem seçilecek hâllerde de aynı usul uygulanır.68
-Ret sebepleri
 
 ### Bizim Yorumumuz
 

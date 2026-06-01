@@ -18,7 +18,6 @@ avans olarak ödenmesi.
 (2) Mahkeme, talepte bulunanın, yukarıdaki bentlerde düzenlenen hususlardan bir
 kısmından yararlanmasına da karar verebilir.
 (3) Adli yardım, hükmün kesinleşmesine kadar devam eder.
-Adli yardım talebi
 
 ### Bizim Yorumumuz
 

@@ -30,9 +30,6 @@ kurumlarınca temin edileceğine, kamu kurum ve kuruluşlarınca engelli persone
 ilgili istatistiksel verilerin bildirilmesine ilişkin usul ve esaslar ile diğer hususlar Özürlüler
 İdaresi Başkanlığının görüşü alınarak Devlet Personel Başkanlığınca hazırlanacak
 yönetmelikle düzenlenir.
-BÖLÜM: 3
-Adaylık
-Adaylığa kabul edilme:
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ yardım alabilirler, yurt içi ve yurt dışındaki benzer amaçlı vakıf ve de
 bağış ve yardımda bulunabilirler. Nakdi yardımların yurt dışından alınması veya yurt dışına
 yapılması banka aracılığı ile olur ve sonuç Genel Müdürlüğe bildirilir. Bildirimin şekli ve
 içeriği yönetmelikle düzenlenir.
-İktisadî işletme ve şirket kurulması
 
 ### Bizim Yorumumuz
 

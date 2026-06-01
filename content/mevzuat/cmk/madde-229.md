@@ -15,7 +15,6 @@ toplar ve en sonra kendi oyunu verir.
 azınlıkta kaldığını ileri sürerek oylamaya katılmaktan çekinemez.
 (3) Oylar dağılırsa sanığın en çok aleyhine olan oy, çoğunluk meydana gelinceye
 kadar kendisine daha yakın olan oya eklenir.
-Hükmün gerekçesinde gösterilmesi gereken hususlar
 
 ### Bizim Yorumumuz
 

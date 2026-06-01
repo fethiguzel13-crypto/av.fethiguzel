@@ -26,7 +26,6 @@ görüş, tutanakla tespit edilip; tutanağın altı, bilirkişilere imza ettiri
 sırasında çözümü uzmanlığı, özel veya teknik bilgiyi gerektiren hususlar dışında açıklama
 yapamaz; hâkim tarafından yapılması gereken hukuki nitelendirme ve değerlendirmelerde
 bulunamaz.
-Bilirkişi raporunun verilmesi
 
 ### Bizim Yorumumuz
 

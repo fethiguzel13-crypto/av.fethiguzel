@@ -28,7 +28,6 @@ tabi tutulmasını engellemez.
 kararın tebliğinde, kararın maddi gerekçeleri ve hukuki dayanakları da belirtilir. İlgili kişi bir
 avukat tarafından temsil edilmiyorsa, kararın sonucu, itiraz usulleri ve süreleri hakkında
 kendisi veya yasal temsilcisi bilgilendirilir.
-Hızlandırılmış değerlendirme
 
 ### Bizim Yorumumuz
 

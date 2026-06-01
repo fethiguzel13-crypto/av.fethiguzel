@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 1- Bu Kanunun amacı, Kamu İhale Kanununa göre yapılan ihalelere ilişkin
 sözleşmelerin düzenlenmesi ve uygulanması ile ilgili esas ve usulleri belirlemektir.
-Kapsam
 
 ### Bizim Yorumumuz
 

@@ -41,7 +41,6 @@ Bu maddenin 3 üncü, 4 üncü, 5 inci ve 7 nci bentlerinde sözü edilen değer
 maksat, ödemenin Türkiye'de yapılması veya ödeme yabancı memlekette yapılmışsa,
 Türkiye'de ödiyenin veya nam ve hesabına ödeme yapılanın hesaplarına intikal ettirilmesi
 veya karından ayrılmasıdır.
-İş yeri ve daimi temsilci:
 
 ### Akademik Yorum ve Analiz
 

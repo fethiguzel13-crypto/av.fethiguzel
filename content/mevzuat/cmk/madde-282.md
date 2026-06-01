@@ -39,7 +39,6 @@ edilmesine rağmen duruşmaya gelmemesi hâlinde duruşmaya devam edilerek sanı
 tutanakları anlatılmak suretiyle dava yokluklarında bitirilebilir. Ancak, 195 inci madde
 hükümleri saklı kalmak üzere, sanık hakkında verilecek ceza, ilk derece mahkemesinin
 verdiği cezadan daha ağır ise, her hâlde sanığın dinlenmesi gerekir.
-Sanık lehine başvurma hâlinde verilecek hüküm
 
 ### Bizim Yorumumuz
 

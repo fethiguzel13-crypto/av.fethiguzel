@@ -23,7 +23,6 @@ bulunursa;” olarak değiştirilmiş metne işlenmiştir.
 80
 
 Tazminat davası ihtiyati haczi koyan mahkemede dahi görülür.
-İhtiyati haciz kararının muhtevası:
 
 ### Bizim Yorumumuz
 

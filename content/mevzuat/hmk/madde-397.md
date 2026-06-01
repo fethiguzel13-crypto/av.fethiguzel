@@ -18,7 +18,6 @@ koydurtmak ve karşılığında bir belge almak zorundadır. Aksi hâlde tedbir 
 kadar devam eder.
 (3) Tedbir kalkmış veya kaldırılmış ise bu husus ilgili yerlere bildirilir.
 (4) İhtiyati tedbir dosyası, asıl dava dosyasının eki sayılır.
-Tedbire muhalefetin cezası
 
 ### Bizim Yorumumuz
 

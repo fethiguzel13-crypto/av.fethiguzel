@@ -21,7 +21,6 @@ mahrum ise, yerine ilgililerce aynı süre içinde genel hükümlere göre bir k
 edilmesi istenebilir.
 Yukarıdaki hükümlerin uygulanmaması halinde sözleşme bozulur. Bundan bir zarar
 doğarsa 62 nci maddeye göre işlem yapılır.
-Müteahhit veya müşterinin birden fazla olması hali:
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ yazılır. Kopye kağıdı kullanılması ve ıstampa ve sair damga aletleriyle 
 caizdir.
 Bilümum defterlerde hesaplar kapatılıncaya kadar toplamlar geçici olarak kurşun
 kalemi ile yapılabilir.
-Yanlış kayıtların düzeltilmesi:
 
 ### Bizim Yorumumuz
 

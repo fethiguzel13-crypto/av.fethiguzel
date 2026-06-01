@@ -58,7 +58,6 @@ Bakanlık ve Maliye Bakanlığınca müştereken belirlenir.
 (15) (Ek:23/7/2020-7252/8 md.) Elektronik Kimlik Doğrulama Sisteminin
 uygulanmasında; 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu
 hükümlerine göre ve kişinin açık rızası alınarak işlem yapılır.
-Talep belgesi13
 
 ### Bizim Yorumumuz
 

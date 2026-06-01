@@ -33,7 +33,6 @@ uygulanır. Bu şekilde hesaplanan maktu had ve miktarların yüzde beşini aşm
 dikkate alınmaz. Cumhurbaşkanı, bu suretle tespit edilen had ve miktarları yarısına kadar
 artırmaya veya indirmeye, nispi hadleri ise iki katına kadar artırmaya veya yarısına kadar
 indirmeye veya tekrar kanuni seviyesine getirmeye yetkilidir.171
-Kaldırılan hükümler:
 
 ### Akademik Yorum ve Analiz
 

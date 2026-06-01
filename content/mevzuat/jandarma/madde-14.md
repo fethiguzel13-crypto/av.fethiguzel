@@ -17,7 +17,6 @@ Nokta ataması yapılmayan subay, astsubay ve uzman jandarmalar valilik emrine a
 bunların istihdam yerleri, il içi yer değiştirmeleri vali tarafından yapılır.
 Hizmet gerekleri bakımından uygun görülmesi halinde il jandarma komutanlıklarına
 general rütbesindeki subaylar da atanabilir.
-Disiplin ve soruşturma usulleri:
 
 ### Bizim Yorumumuz
 

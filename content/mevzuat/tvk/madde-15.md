@@ -26,8 +26,6 @@ alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilm
 alan “altı” ibaresi “oniki” şeklinde değiştirilmiştir.
 1
 
-Türk vatandaşlığının evlenme yoluyla kazanılması
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

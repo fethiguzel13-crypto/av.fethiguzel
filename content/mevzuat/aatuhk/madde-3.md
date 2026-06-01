@@ -39,7 +39,6 @@ amme borçlusundan tahsil edilemeyeceği ortaya çıkan amme alacaklarını,
 Takibat giderleri terimi:
 Cebri icradan mütevellit muameleler sırasında yapılan zor kullanma, ilan, haciz, nakil
 ve muhafaza giderleri gibi her türlü giderleri, ifade eder.
-Salahiyetliler ve mesuliyetleri:
 
 ### Bizim Yorumumuz
 

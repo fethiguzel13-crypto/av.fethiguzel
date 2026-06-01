@@ -43,9 +43,6 @@ ibaresi "gümrük bölgesine girilmesi veya gümrük bölgesinden çıkılması"
 
 İKİNCİ KISIM
 İstisnalar
-BİRİNCİ BÖLÜM
-İhracat İstisnası
-Mal ve hizmet ihracatı:
 
 ### Bizim Yorumumuz
 

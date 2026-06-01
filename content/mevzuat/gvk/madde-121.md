@@ -112,7 +112,6 @@ uygulanır. Bu şekilde hesaplanan tutarın %5’ini aşmayan kesirler dikkate a
 Cumhurbaşkanı, birinci fıkrada yer alan oranı ve tutarı iki katına kadar artırmaya, sıfıra kadar
 indirmeye, kanuni oran ve tutarına getirmeye; Maliye Bakanlığı, maddenin uygulanmasına
 ilişkin usul ve esasları belirlemeye yetkilidir.149
-Diğer ücret vergisinin mahsubu:150
 
 ### Bizim Yorumumuz
 

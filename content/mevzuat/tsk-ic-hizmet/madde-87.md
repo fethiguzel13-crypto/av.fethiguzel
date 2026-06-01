@@ -74,7 +74,6 @@ Olayın mahiyetine ve kusurun derecesine göre sanığın mensup olduğu Bakanl�
 uygun görülenlerin vekalet verdiği avukatın ücreti, bu bakanlıkların bütçesine konulacak
 ödenekten karşılanır. Avukat tutma ve avukatlık ücretinin ödeme usul ve esasları, Milli
 Savunma ve İçişleri bakanlıklarınca bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay
-içinde çıkarılacak yönetmelikle düzenlenir.
 
 ### Bizim Yorumumuz
 

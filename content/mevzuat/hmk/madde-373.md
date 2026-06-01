@@ -39,10 +39,6 @@ Hukuk Genel Kurulunca yapılır.” ibaresi “kararına direnilen dairece yapı
 Yargıtay Hukuk Genel Kuruluna gönderir.” şeklinde değiştirilmiştir.
 62
 
-ÜÇÜNCÜ BÖLÜM
-Yargılamanın İadesi
-Konu
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

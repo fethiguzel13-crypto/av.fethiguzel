@@ -17,7 +17,6 @@ rakipler arasında fiyat tespiti, bölge veya müşteri paylaşımı ve arz mikt
 açık ve ağır ihlaller hariç olmak üzere, piyasada rekabeti kayda değer ölçüde kısıtlamayan
 anlaşma, uyumlu eylem ve teşebbüs birliği karar ve eylemlerini soruşturma konusu yapmayabilir.
 Bu fıkranın uygulanmasına ilişkin usul ve esaslar Kurul tarafından çıkarılan tebliğ ile belirlenir.
-Başvuru Sahiplerine Bildirim
 
 ### Bizim Yorumumuz
 

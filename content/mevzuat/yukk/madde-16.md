@@ -21,7 +21,6 @@ f) Vizenin verilmesine temel olan şartların veya belgelerin geçerli olmadığ
 hâllerinde, vizeyi veren makamlar veya valiliklerce iptal edilir.
 (2) Vizenin geçerlilik süresi içinde yabancıyla ilgili sınır dışı etme kararı alınması
 hâlinde vize iptal edilir.
-Vize işlemlerinin tebliği
 
 ### Bizim Yorumumuz
 

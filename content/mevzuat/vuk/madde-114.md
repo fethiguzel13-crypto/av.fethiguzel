@@ -29,8 +29,6 @@ faydalanıldığı takdirde mezkür evraka ait vergi alacağı yeniden doğar.
 mevcut (5) numaralı fıkra (6) numaralı fıkra olarak teselsül ettirilmiştir.
 30
 
-Verginin terkini:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

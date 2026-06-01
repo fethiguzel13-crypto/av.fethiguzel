@@ -71,7 +71,6 @@ dikkate alarak bu maddede yer alan tutarları iki katına kadar artırarak uygul
 Kurul bu madde uyarınca verilecek cezaları bu Kanunun 68, 69 ve 70 inci maddeleri
 uygulanan bankalar için yüzde ellisine, 71 inci maddesi uygulanan bankalar için ise yüzde
 yüzüne kadar indirmeye yetkilidir.
-İlgili kişilere ilişkin idarî para cezaları
 
 ### Bizim Yorumumuz
 

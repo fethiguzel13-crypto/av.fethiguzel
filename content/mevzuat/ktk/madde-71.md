@@ -38,7 +38,6 @@ Zorunluluk olmadığı hallerde geçiş üstünlüğünü kullanmak yasaktır.
 kullanan sürücülere 46.000 Türk lirası idari para cezası uygulanır.65
 (Ek fıkra: 6/12/2019-7196/42 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esaslar İçişleri Bakanlığınca çıkarılan yönetmelikte belirlenir.
-Ses, müzik, görüntü ve haberleşme cihazlarının kullanılması:
 
 ### Bizim Yorumumuz
 

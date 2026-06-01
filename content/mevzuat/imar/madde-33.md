@@ -30,8 +30,6 @@ müddeti dolduktan sonra veya on yıl dolmadan yıktırılması veya kamulaştı
 muvakkat bina ve tesislerin 2942 sayılı Kamulaştırma Kanunu hükümlerine göre takdir
 olunacak bedeli sahibine ödenir.
 
-İnşaat, tamirat ve bahçe tanzimi ile ilgili tedbirler ve mükellefiyetler:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

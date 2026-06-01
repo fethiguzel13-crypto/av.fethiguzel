@@ -30,7 +30,6 @@ iflası, iflasının ertelenmesi veya 2004 sayılı Kanun çerçevesindeki diğe
 
 da bu Kanunun tedricî tasfiye ile ilgili hükümleri merkezî takas kuruluşunun söz konusu
 teminatlar üzerindeki hak ve yetkileri kullanmasını hiçbir şekilde sınırlandıramaz.
-Merkezî saklama kuruluşları
 
 ### Bizim Yorumumuz
 

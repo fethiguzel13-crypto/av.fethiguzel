@@ -15,9 +15,6 @@ masrafı olarak Genel Müdürlük bütçesine gelir kaydedilir.10
 ÜÇÜNCÜ KISIM
 Vakıflar Genel Müdürlüğü, Vakıflar Meclisi,
 Genel Müdürlük Teşkilâtı ve İstihdam
-BİRİNCİ BÖLÜM
-Vakıflar Genel Müdürlüğü
-Vakıflar Genel Müdürlüğü
 
 ### Bizim Yorumumuz
 

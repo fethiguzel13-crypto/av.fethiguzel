@@ -19,7 +19,6 @@ inci maddeye aykırı olduğu tespit edilen veya görevleri ile ilgili olarak i�
 dolayı haklarında verilen mahkûmiyet kararı kesinleşen Kurul Başkan ve üyeleri, süreleri
 dolmadan Cumhurbaşkanının onayı ile görevden alınırlar. Ayrıca, geçici iş göremezlik hâlinin
 altı aydan fazla sürmesi hâlinde, bu durumda olan üyelerin üyelikleri düşer.1718
-Yasaklar
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ gayrimenkulün maliki veya ortak malikleri tarafından, bu Kanun hükümlerine g
 mülkiyet hakları kurulabilir.
 Yapılmakta veya ileride yapılacak olan bir yapının, birinci fıkrada yazılı nitelikteki bölümleri üzerinde, yapı tamamlandıktan sonra geçilecek kat mülkiyetine esas olmak üzere, arsa maliki
 veya arsanın ortak malikleri tarafından, bu Kanun hükümlerine göre irtifak hakları kurulabilir.
-II – Tarifler:
 
 ### Bizim Yorumumuz
 

@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 75 – (Mülga: 23/12/1972 – KHK-2/5 md.)
-Memurların kurumlarınca görevlerinin ve yerlerinin değiştirilmesi:
 
 ### Bizim Yorumumuz
 

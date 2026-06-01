@@ -18,7 +18,6 @@ Kanunu ile 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu uyarınca 
 vergi kesintilerini kapsamaz.
 Bu maddede sayılan tesisler emlak vergisinden, bu tesislerin mal ve hizmet alımları
 nedeniyle düzenlediği ödemeye ilişkin kâğıtlar damga vergisinden istisnadır.
-V - Hazine payı22
 
 ### Bizim Yorumumuz
 

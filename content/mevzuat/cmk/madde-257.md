@@ -15,7 +15,6 @@ verilir.
 olan kimseler de duruşmaya çağrılır. Bu kişiler, sanığın sahip olduğu hakları kullanabilirler.
 (3) Çağrıya uymamaları, işlemin ertelenmesine neden olmaz ve hükmün verilmesini
 engellemez.
-Kanun yolu
 
 ### Bizim Yorumumuz
 

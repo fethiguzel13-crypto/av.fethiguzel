@@ -20,7 +20,6 @@ bedel ile satılamaz.
 itibaren yedi gün içinde satış bedelini nakden ödemek zorundadır.
 Satılan mal, ihale kesinleşmeden teslim olunmaz ve resmî sicilde alıcı adına tescil
 edilmez.
-Pazarlık suretiyle satış:
 
 ### Akademik Yorum ve Analiz
 

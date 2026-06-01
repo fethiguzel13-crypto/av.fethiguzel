@@ -38,7 +38,6 @@ sonucunda Kurul aleyhine karar verilmesi ve kararın kesinleşmesi nedeniyle Kur
 yapması hâlinde, Kurul bu meblağı, ilgililerinden talep eder. Kurulun, yaptığı ödemeleri
 ilgililerinden talep edebilmesi için, bu kişiler hakkında kusurlu olduklarına ilişkin mahkeme
 kararının kesinleşmesi gerekir.
-Kurul kararlarına karşı yargı yolu
 
 ### Bizim Yorumumuz
 

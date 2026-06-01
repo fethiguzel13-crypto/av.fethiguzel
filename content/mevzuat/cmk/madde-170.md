@@ -36,7 +36,6 @@ lehine olan hususlar da ileri sürülür.
 ceza ve güvenlik tedbirlerinden hangilerine hükmedilmesinin istendiği; suçun tüzel kişinin
 faaliyeti çerçevesinde işlenmesi halinde, ilgili tüzel kişi hakkında uygulanabilecek olan
 güvenlik tedbiri açıkça belirtilir.
-Kamu davasını açmada takdir yetkisi
 
 ### Bizim Yorumumuz
 

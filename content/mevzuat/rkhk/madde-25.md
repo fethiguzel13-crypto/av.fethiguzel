@@ -37,7 +37,6 @@ nezdinde temsil edemez.
 (Ek yedinci fıkra:18/7/2021-7333/12 md.) Beşinci ve altıncı fıkralara aykırı hareket
 edenlere 2/10/1981 tarihli ve 2531 sayılı Kamu Görevlerinden Ayrılanların Yapamayacakları
 İşler Hakkında Kanunun 4 üncü maddesinde belirtilen ceza verilir.
-Yemin
 
 ### Bizim Yorumumuz
 

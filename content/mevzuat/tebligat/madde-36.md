@@ -17,7 +17,6 @@ Madde 36 – (Değişik: 11/1/2011-6099/10 md.)
 taraflara, ilgili üçüncü kişilere, katılana veya vekillerine tutanağa geçirilmek suretiyle veya
 imza karşılığında, tebliğ konusu belirtilerek tevdii, tebliğ hükmündedir. Bu durumda ayrıca
 tebliğ mazbatası düzenlenmesi gerekmez ve masraf da alınmaz.
-Avukat katiplerine ve stajyerlerine tebligat:
 
 ### Bizim Yorumumuz
 

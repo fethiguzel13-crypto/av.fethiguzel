@@ -25,7 +25,6 @@ seviyedeki ön bahçeleri yayaya açık bulundurulacak, yayaların can emniyetin
 düşürecek duvar ve manialar yapılamaz.
 Bu gibi yerlerde ve parsel hudutlarına merdiven yapılması zaruri hallerde rıht
 yüksekliği 0,15 metreden fazla olamaz.
-Bina ön cephe hattı ile yol arası ve tabii zeminin kazılması:
 
 ### Bizim Yorumumuz
 

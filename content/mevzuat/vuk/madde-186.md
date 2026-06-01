@@ -15,7 +15,6 @@ etmektir.
 Şu kadar ki, ticari teamüle göre tartılması, sayılması ve ölçülmesi mutat olmıyan
 malların değerleri tahminen tesbit olunur.
 Mevcutlar, alacaklar ve borçlar işletmeye dahil iktisadi kıymetleri ifade eder.
-Bina ve arazinin envantere alınması:
 
 ### Bizim Yorumumuz
 

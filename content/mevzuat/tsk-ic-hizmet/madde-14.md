@@ -16,7 +16,6 @@ Ast muayyen olan vazifeleri, aldığı emri vaktinde yapar ve değiştiremez, ha
 aşamaz. İcradan doğacak mesuliyetler emri verene aittir.
 İtaat hissini tehdit eden her türlü tezahürler, sözler, yazılar ve fiil ve hareketler cezai
 müeyyidelerle men olunur.
-IV - Amirin vazifeleri
 
 ### Bizim Yorumumuz
 

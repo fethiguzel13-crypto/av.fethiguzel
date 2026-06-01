@@ -14,7 +14,6 @@ hâkim veya mahkeme ile gecikmesinde sakınca bulunan hâllerde Cumhuriyet savc�
 tarafından yapılır.
 (2) Keşif tutanağına, var olan durum ile olayın özel niteliğine göre varlığı umulup da
 elde edilemeyen delillerin yokluğu da yazılır.
-Keşifte, tanık veya bilirkişinin dinlenmesinde bulunabilecekler
 
 ### Bizim Yorumumuz
 

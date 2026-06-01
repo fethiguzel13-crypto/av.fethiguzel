@@ -18,7 +18,6 @@ Vergi muamelelerinde süreler vergi kanunları ile belli edilir.
 
 Kanunda açıkça yazılı olmayan hallerde 15 günden aşağı olmamak şartıyla bu süreyi,
 tebliği yapacak olan idare belirler ve ilgiliye tebliğ eder.
-Mücbir sebeplerle gecikme:
 
 ### Bizim Yorumumuz
 

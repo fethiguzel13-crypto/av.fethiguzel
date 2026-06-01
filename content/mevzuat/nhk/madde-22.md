@@ -16,7 +16,6 @@ görevlendireceği memur, köylerde muhtardır. Bakanlık, il nüfus ve vatanda�
 nüfus müdürlüklerine ve dış temsilciliklere, il ve ilçe müftülüklerine evlendirme memurluğu
 yetkisi ve görevi verebilir. Eşlerden birinin yabancı olması halinde evlendirmeye, (...)6 belediye
 evlendirme memurlukları ile nüfus müdürleri yetkilidir.7
-Evlenmenin bildirilmesi ve tescili
 
 ### Bizim Yorumumuz
 

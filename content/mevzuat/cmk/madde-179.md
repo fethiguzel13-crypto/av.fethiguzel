@@ -17,7 +17,6 @@ edilen tanık ve bilirkişiler dışında gerek mahkeme başkanı veya hâkim ka
 
 kendiliğinden başka kimseleri davet ettirecek ise bunların ad ve adreslerini sanığa yine makul
 süre içinde bildirir.
-Tanık ve bilirkişinin naiple veya istinabe yoluyla dinlenmeleri
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ yedi üyeden oluşur. Kurul Başkanı, Başkanlık teşkilatının da başıdır
 (2) Başkanın izin, hastalık, yurt içi ve yurt dışı görevlendirme ve görevde bulunmadığı
 diğer hâller ile görevden alınması veya üyeliğinin düşmesi durumlarında ikinci başkan, onun
 da bulunmadığı hâllerde başkan vekili Başkana vekâlet eder.
-Kurul Başkanı ve üyeleri ile ilgili esaslar
 
 ### Bizim Yorumumuz
 

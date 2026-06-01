@@ -35,9 +35,6 @@ uygulayan veya uygulama tehlikesi bulunan kişileri,
 hakkında hâkim, kolluk görevlileri ve mülkî amirler tarafından, istem üzerine veya resen
 verilecek tedbir kararlarını,
 ifade eder.
-İKİNCİ BÖLÜM
-Koruyucu ve Önleyici Tedbirlere İlişkin Hükümler
-Mülkî amir tarafından verilecek koruyucu tedbir kararları
 
 ### Bizim Yorumumuz
 

@@ -31,7 +31,6 @@ Büyükşehir belediye meclisince ilçe (...)33 belediye bütçelerinde yapılan
 karşı on gün içinde Danıştaya itiraz edilebilir. Danıştay, itirazı otuz gün içinde karara bağlar.
 Bütçenin hazırlanması ve uygulanmasına ilişkin diğer hususlarda Belediye Kanunu
 hükümleri uygulanır.
-Şirket kurulması
 
 ### Bizim Yorumumuz
 

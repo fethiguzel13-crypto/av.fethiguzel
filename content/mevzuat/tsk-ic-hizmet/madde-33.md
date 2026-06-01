@@ -24,7 +24,6 @@ b) Kıta, karargah ve kurumlarda günlük çalışma saatleri mevsim, iklim, ahv
 hizmetin özelliklerine göre bir talimatla tesbit edilir.
 Kıtalarda umumi mesai ve hizmet zamanı kalk borusunda başlar. Gece yoklamasından
 sonra biter. Karargah ve kurumlarda günlük vazife müddeti en az 6 saattır.
-V - Kıyafet
 
 ### Bizim Yorumumuz
 

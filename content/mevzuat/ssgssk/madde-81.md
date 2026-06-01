@@ -2,7 +2,10 @@
 title: "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu Madde 81"
 kanun: "Sosyal Sigortalar ve Genel Sağlık Sigortası Kanunu"
 maddeNo: 81
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 1510
+keywords: ["prim oranları SGK", "işveren hissesi Hazine indirimi", "MYÖ prim artışı", "7566 sayılı Kanun değişikliği", "kısa vadeli sigorta prim oranı", "Devlet katkısı sosyal güvenlik", "7524 sayılı Kanun prim oranları"]
 ---
 
 **Prim oranları ve Devlet katkısı**
@@ -32,9 +35,7 @@ d) (Değişik: 13/2/2011-6111/38 md.) 5 inci maddenin birinci fıkrasının (b) 
 belirtilenler için prim oranı, prime esas kazançlarının %6’sıdır. Bu prim oranının %1’i kısa
 vadeli sigorta kolları, %5’i genel sağlık sigortası primidir. Aynı maddenin birinci fıkrasının
 138 2/1/2017 tarihli ve 681 sayılı KHK’nin 83 üncü maddesiyle bu fıkrada yer alan “60 ıncı maddenin birinci fıkrasının (c) bendinde belirtilen kişiler için asgari ücret” ibaresi “60 ıncı maddenin birinci fıkrasının (c) bendi ile onikinci, onüçüncü ve ondördüncü fıkralarında belirtilen kişiler için asgari ücret” şeklinde 1/3/2017 tarihinden geçerli olmak üzere değiştirilmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 82 nci maddesiyle aynen kabul edilerek 1/3/2017 tarihinde yürürlüğe girmek üzere kanunlaşmıştır. 139 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle 81 inci maddenin birinci fıkrasının (c) ve (f) bentlerinde yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir. 140 4/12/2025 tarihli ve 7566 sayılı Kanunun 23 üncü maddesiyle bu fıkranın (a) bendinin birinci cümlesinde yer alan “%20’sidir.” ibaresi “%21’idir.”, ikinci cümlesinde yer alan “%11’i” ibaresi “%12’si”, (b) bendinde yer alan “%20” ibareleri “%21” şeklinde değiştirilmiştir. 141 28/7/2024 tarihli ve 7524 sayılı Kanunun 28 inci maddesiyle, bu bentte yer alan “%2’sidir.” ibaresi “%2,25’idir.” şeklinde değiştirilmiş ve aynı bendin üçüncü cümlesinde yer alan “oranına” ibarelerinden sonra gelmek üzere “kadar” ibareleri eklenmiştir.
-
-
-(e) bendinde belirtilen kursiyerler için prim oranı, prime esas kazançlarının %5,5’idir. Bu
+(e) bendinde belirtilen kursiyerler için prim oranı, prime esas kazançlarının %5,5’idir. Bu
 prim oranının %1’i kısa vadeli sigorta kolları, %4,5’i genel sağlık sigortası primidir.142
 e) (Mülga: 17/4/2008-5754/48 md.)
 f) (Değişik: 17/4/2008-5754/48 md.) Genel sağlık sigortası primi, kısa ve uzun vadeli
@@ -54,7 +55,7 @@ hak sahiplerine bağlanacak ölüm aylıklarının karşılığı olmak üzere, 
 için kamu idarelerinin bütçelerinden ayrılan sosyal güvenlik kurumlarına devlet primi
 ödeneklerinin %20’si oranında ek karşılık primi alınır. Ayrılan ek karşılık priminin tamamı
 kurum bütçelerinin yetkili makamlarca onaylanarak yürürlüğe girdiği tarihi takip eden ay
-başlarından itibaren altı ay içinde ve aylık eşit taksitlerle ödenir. Genel bütçe kapsamındaki
+başlarından itibaren altı ay içinde ve aylık eşit taksitlerle ödener. Genel bütçe kapsamındaki
 idarelerin ek karşılık primleri Maliye Bakanlığı bütçesine konulacak ödenekten karşılanır.
 ı) (Ek: 15/5/2008-5763/24 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a)
 bendi kapsamındaki sigortalıları çalıştıran özel sektör işverenlerinin, bu maddesinin birinci
@@ -71,10 +72,8 @@ ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanunun 48 inci ma
 ve taksitlendiren işverenler ile 29/7/2003 tarihli ve 4958 sayılı Sosyal Sigortalar Kurumu
 Kanununa ve 22/2/2006 tarihli ve 5458 sayılı Sosyal Güvenlik Prim Alacaklarının Yeniden
 Yapılandırılması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile diğer
-142 4/4/2015 tarihli ve 6645 sayılı Kanunun 47 nci maddesiyle bu bentte yer alan “%13,5’idir.” ibaresi “%5,5’idir.” şeklinde, “%12,5’i” ibaresi “%4,5’i” şeklinde değiştirilmiştir. 143 21/11/2025 tarihli ve 33084 sayılı Resmî Gazete’de yayımlanan 10602 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu bentteki genel sağlık sigortası pirimi, pirime esas kazancın %6’sı olarak belirlenmiştir. Bu değişiklik yayımı tarihini takip eden ay başında yürürlüğe girer.
-
-
-taksitlendirme ve yapılandırma Kanunlarına göre taksitlendiren ve yapılandıran işverenler bu
+142 4/4/2015 tarihli ve 6645 sayılı Kanunun 47 nci maddesiyle bu bentte yer alan “%13,5’idir.” ibaresi “%5,5’idir.” şeklinde, “%12,5’i” ibaresi “%4,5’i” şeklinde değiştirilmiştir. 143 21/11/2025 tarihli ve 33084 sayılı Resmî Gazete’de yayımlanan 10602 sayılı Cumhurbaşkanı Kararının 1 inci maddesiyle bu bentdeki genel sağlık sigortası pirimi, pirime esas kazancın %6’sı olarak belirlenmiştir. Bu değişiklik yayımı tarihini takip eden ay başında yürürlüğe girer.
+taksitlendirme ve yapılandırma Kanunlarına göre taksitlendiren ve yapılandıran işverenler bu
 tecil, taksitlendirme ve yapılandırmaları devam ettiği sürece bu fıkra hükmünden yararlandırılır.
 Bu bent hükümleri; vakıflar tarafından kurulan yükseköğretim kurumları ile okul-aile birliklerince
 çalıştırılanlar hariç olmak üzere 21/4/2005 tarihli ve 5335 sayılı Kanunun 30 uncu maddesinin
@@ -92,9 +91,7 @@ i) (Ek: 21/5/2013-6486/5 md.) Özel sektör işverenlerinin yurt dışındaki i�
 çalıştırılmak üzere 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında sigortalı olarak
 yurt içinden götürülen sigortalılar için, bu maddenin (f) bendine göre prime esas kazanç
 144 31/7/2008 tarihli ve 5797 sayılı Kanunun 2 nci maddesiyle; bu bentte yer alan “29/7/2003 tarihli ve 4958 sayılı Sosyal Güvenlik Prim Alacaklarının Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanuna göre yapılandırılan işverenler bu tecil ve taksitlendirme ile yapılandırmaları devam ettiği sürece” ibaresi “29/7/2003 tarihli ve 4958 sayılı Sosyal Sigortalar Kurumu Kanununa ve 22/2/2006 tarihli ve 5458 sayılı Sosyal Güvenlik Prim Alacaklarının Yeniden Yapılandırılması ve Bazı Kanunlarda Değişiklik Yapılması Hakkında Kanun ile diğer taksitlendirme ve yapılandırma Kanunlarına göre taksitlendiren ve yapılandıran işverenler bu tecil, taksitlendirme ve yapılandırmaları devam ettiği sürece” şeklinde değiştirilmiştir. 145 13/2/2011 tarihli ve 6111 sayılı Kanunun 38 inci maddesiyle, bu bentte yer alan “Bu fıkra hükümleri Kamu idareleri işyerleri ile bu Kanuna göre sosyal güvenlik destek primine tabi çalışanlar ve yurt dışında çalışan sigortalılar hakkında uygulanmaz.” Cümlesi “Bu bent hükümleri; 21/4/2005 tarihli ve 5335 sayılı Kanunun 30 uncu maddesinin ikinci fıkrası kapsamına giren kurum ve kuruluşlara ait işyerleri ile 8/9/1983 tarihli ve 2886 sayılı Devlet İhale Kanununa, 4/1/2002 tarihli ve 4734 sayılı Kamu İhale Kanununa ve uluslararası anlaşma hükümlerine istinaden yapılan alım ve yapım işleri ile 4734 sayılı Kanundan istisna olan alım ve yapım işlerine ilişkin işyerleri, sosyal güvenlik destek primine tabi çalışanlar ve yurt dışında çalışan sigortalılar hakkında uygulanmaz.” Şeklinde, aynı bentte yer alan “Bu fıkrayla düzenlenen destek unsurundan diğer ilgili mevzuat uyarınca ayrıca yararlanmakta olan işverenler aynı dönem için ve mükerrer olarak bu destek unsurundan yararlanamaz. Bu durumda, işverenlerin tercihleri dikkate alınmak suretiyle uygulama, destek unsurlarından sadece biriyle sınırlı olarak yapılır.” Cümleleri “Bu fıkra ve diğer ilgili mevzuatla sağlanan sigorta prim desteklerinin aynı dönem için birlikte uygulanması halinde, bu destek öncelikle uygulanır.” şeklinde değiştirilmiştir. 146 15/7/2016 tarihli ve 6728 sayılı Kanunun 47 nci maddesiyle, bu bendin ikinci cümlesinde yer alan “belgelerinin” ibaresi “belgelerini” şeklinde değiştirilmiş ve aynı bende “yasal süresi içerisinde Sosyal Güvenlik Kurumuna” ibaresinden sonra gelmek üzere “, muhtasar ve prim hizmet beyannamelerini ise Maliye Bakanlığına” ibaresi eklenmiştir. 147 2/12/2016 tarihli ve 6764 sayılı Kanunun 58 inci maddesiyle, bu bendin dördüncü cümlesine “Bu bent hükümleri;” ibaresinden sonra gelmek üzere “vakıflar tarafından kurulan yükseköğretim kurumları ile okul-aile birliklerince çalıştırılanlar hariç olmak üzere” ibaresi eklenmiştir. 148 4/12/2025 tarihli ve 7566 sayılı Kanunun 23 üncü maddesiyle bu bendin birinci cümlesinde yer alan “dört” ibaresi “iki” şeklinde değiştirilmiştir.
-
-
-üzerinden ödenecek primin işveren hissesinin beş puanlık kısmına isabet eden tutar Hazinece
+üzerinden ödenecek primin işveren hissesinin beş puanlık kısmına isabet eden tutar Hazinece
 karşılanır. Bu bent hükümlerinden faydalanabilmek için; çalıştırdıkları sigortalılarla ilgili
 olarak işverenler tarafından bu Kanun uyarınca verilmesi gereken aylık prim ve hizmet
 belgelerinin yasal süresi içinde Kuruma, muhtasar ve prim hizmet beyannamelerinin ise
@@ -107,7 +104,7 @@ maddesine göre tecil ettiren ve taksitlendiren işverenler ile taksitlendirme v
 kanunlarına göre taksitlendiren ve yapılandıran işverenler bu tecil, taksitlendirme ve
 yapılandırmaları devam ettiği sürece bu bent hükmünden yararlandırılır. 5335 sayılı Kanunun
 30 uncu maddesinin ikinci fıkrası kapsamına giren kurum ve kuruluşlara ait işyerleri; 2886
-sayılı Kanun ve 4734 sayılı Kanun hükümlerine istinaden yapılan alım ve yapım işleri, 4734
+sayıl Kanun ve 4734 sayılı Kanun hükümlerine istinaden yapılan alım ve yapım işleri, 4734
 sayılı Kanundan istisna olan alım ve yapım işlerine ilişkin işyerleri; ek 2 nci madde
 kapsamında uygulanan teşvikten yararlanan işyerleri ile sosyal güvenlik destek primine tabi
 tutulmak suretiyle çalışanlar hakkında bu bent hükümleri uygulanmaz. Hazineden karşılanan
@@ -128,9 +125,7 @@ gider veya maliyet unsuru olarak dikkate alınmaz.150
 k) (Ek: 11/5/2018-7143/22 md.) (Mülga:4/12/2025-7566/23 md.)
 (Ek fıkra: 21/5/2013-6486/5 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının
 149 15/7/2016 tarihli ve 6728 sayılı Kanunun 47 nci maddesiyle, bu bendin ikinci cümlesinde yer alan “yasal süresi içinde Kuruma” ibaresinden sonra gelmek üzere“, muhtasar ve prim hizmet beyannamelerinin ise Maliye Bakanlığına” ibaresi eklenmiştir. 150 17/4/2017 tarihli ve 690 sayılı KHK’nin 46 ncı maddesiyle, bu bentte yer alan “İsteğe bağlı sigortalılar” ibaresinden sonra gelmek üzere “ve muhtar sigortalılar” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 42 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
-
-(a) bendi kapsamında sigortalı çalıştıran özel sektör işyerlerine uygulanmak üzere, birinci
+(a) bendi kapsamında sigortalı çalıştıran özel sektör işyerlerine uygulanmak üzere, birinci
 fıkranın (ı) bendinde belirtilen ve Hazinece karşılanan puana, prime esas kazanç alt sınırı
 üzerinden altı puana kadar ilave puan eklemeye, sosyo-ekonomik gelişmişlik endeksini
 dikkate almak suretiyle ilave puan uygulanacak illeri ve uygulama süresini belirlemeye
@@ -147,8 +142,48 @@ hâlinde, yararlanılan teşvik tutarı işverenden gecikme cezası ve gecikme z
 tahsil edilir.
 (Ek fıkra: 21/5/2013-6486/5 md.) Bu maddenin uygulanmasına ilişkin usul ve esaslar
 Bakanlık, Maliye Bakanlığı ve Hazine Müsteşarlığı tarafından müştereken belirlenir.
-Günlük kazanç sınırları
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+5510 sayılı Kanun’un 81. maddesi, sosyal güvenlik sisteminin aktüeryal dengesinin kurulmasını, prim oranlarının saptanmasını ve hazine teşvikleri ile devlet katkısı (bütçe desteği) rejimini düzenleyen en temel mali direktiftir. Norm, sigortalıların ve işverenlerin ödeyecekleri prim oranlarını her bir sigorta kolu bazında tek tek belirlerken; sistemin tıkanmasını önlemek amacıyla devletin mali ortaklığını (Devlet katkısı) ve özel sektörün kayıtlı istihdam yaratmasını destekleyen Hazine teşviklerini kurgulamaktadır.
+
+Madde üzerinde yakın dönemde çok stratejik yasal reformlar gerçekleştirilmiştir:
+1.  **7524 Sayılı Kanun (Temmuz 2024):** Kısa vadeli sigorta kolları (iş kazası, meslek hastalığı, hastalık, analık) prim oranı %2'den **%2.25** seviyesine çıkarılmıştır. Bu primin tamamını işveren üstlenir.
+2.  **7566 Sayılı Kanun (Aralık 2025):** Malüllük, yaşlılık ve ölüm sigortaları (MYÖ) prim oranı %20'den **%21**'e yükseltilmiştir. Bu artışın tamamı işveren hissesine yansıtılarak işveren hissesi %11'den **%12**'ye çıkarılmış, sigortalı hissesi ise **%9** olarak korunmuştur. Aynı kanunla, özel sektör işverenlerine sağlanan meşhur malullük Hazine indirim oranı (5 puanlık teşvik) **2 puana** düşürülmüştür.
+3.  **Cumhurbaşkanı Kararı (10602, Kasım 2025):** GSS-only (m. 60/1-g kapsamı) sigortalılar için genel sağlık sigortası prim oranı, yasadaki %3 tabanından yola çıkılarak **%6** olarak güncellenmiş ve yürürlüğe konulmuştur.
+
+#### 2. Maddedeki Kavramların Analizi
+*   **MYÖ Sigortaları Prim Oranı (%21):** Emeklilik ve ölüm aylıklarının finansmanı için toplanan, %9'u işçiden, %12'si işverenden kesilen en yüksek oranlı primdir.
+*   **KVSK Prim Oranı (%2.25):** İş kazası, hastalık ve analık hallerini finanse eden ve tamamı işveren tarafından ödenen prim kalemidir.
+*   **GSS Prim Oranı (%12.5):** Aktif sigortalılarda %5'i işçi, %7.5'i işveren tarafından ödenen sağlık sigortası primidir.
+*   **İki Puanlık Hazine Teşviki (m. 81/1-ı):** SGK'ya prim borcu bulunmayan, bildirgelerini süresinde veren özel sektör işverenlerinin işveren MYÖ hissesinden 2 puanlık kısmın devlet (Hazine) tarafından karşılanmasıdır (Aralık 2025/7566 sayılı Kanun değişikliği öncesi bu indirim 5 puan olarak uygulanmaktaydı).
+*   **Devlet Katkısı (%25):** Kurumun tahsil ettiği MYÖ ve GSS primlerinin 1/4'ü oranında devletin bütçeden SGK'ya yaptığı doğrudan yardımdır.
+
+#### 3. Sistematik İlişkiler
+Madde 81; Anayasa’nın 60. maddesindeki (Sosyal Güvenlik) ve 73. maddesindeki (Kamu giderlerini karşılama/mali yükümlülüklerin kanuniliği) esasları ile doğrudan ilişkilidir. 5510 sayılı Kanun’un prim matrahını belirleyen m. 80, prim ödeme zorunluluğunu getiren m. 79, primlerin ödenmesini düzenleyen m. 88, fiili hizmet zammını düzenleyen m. 40 ve kayıt dışı istihdama yönelik idari para cezalarını düzenleyen m. 102 hükümleriyle organik bir bağa sahiptir.
+
+#### 4. Uygulama: Yargıtay / Bölge Adliye Mahkemesi (BAM) İçtihadı
+*   **Kayıt Dışı İstihdam tespiti Halinde Teşviklerin İptali ve Geri Alınması:** BAM ve Yargıtay kararlarında; yapılan denetimlerde tek bir sigortasız işçi çalıştırıldığının veya fiilen çalışmayan (sahte sigortalı) bir kişinin bildirildiğinin tespit edilmesi halinde, m. 81/son fıkra uyarınca işverenin tüm teşviklerden 1 yıl süreyle men edilmesinin ve yararlandığı teşviklerin gecikme zammıyla geri alınmasının mutlak emredici bir kural olduğu, Kurumun bu konuda takdir yetkisi bulunmadığı teyit edilmektedir.
+*   **Hazine İndiriminin Vergi Matrahındaki Durumu:** İdari ve mali yargı kararlarında, m. 81/1-ı uyarınca Hazinece karşılanan teşvik tutarlarının işverenler yönünden ticari kazanç tespitinde bir "gider" olarak gösterilemeyeceği, zira bu tutarların fiilen işveren kasasından çıkmadığı kabul edilmiştir.
+
+#### 5. Pratik Örnek Olaylar
+**Örnek 1:** 2026 yılında aylık brüt PEK matrahı 50.000 TL olan bir işçinin prim dağılımı: 
+*   KVSK (%2.25): 1.125 TL (tamamı işveren)
+*   MYÖ (%21): 10.500 TL (4.500 TL işçi, 6.000 TL işveren)
+*   GSS (%12.5): 6.250 TL (2.500 TL işçi, 3.750 TL işveren)
+Eğer işverenin borcu yoksa ve teşvik şartlarını taşıyorsa, m. 81/1-ı uyarınca işveren MYÖ hissesinden 2 puanlık indirim (50.000 * %2 = 1.000 TL) Hazine tarafından karşılanır. İşveren SGK'ya 1.000 TL daha az ödeme yapar.
+
+**Örnek 2:** İşveren B'nin fabrikasında yapılan denetimde 1 sigortasız işçi çalıştırıldığı saptanmıştır. SGK, m. 81'in son fıkrası gereğince B'nin tüm sigortalıları için yararlandığı 2 puanlık Hazine teşviğini 1 yıl boyunca iptal eder. B, 1 yıl boyunca tüm çalışanları için MYÖ priminin tamamını (%12 işveren payı) cebinden ödemek zorunda kalır.
+
+#### 6. Pratik Uygulama Notları
+*   **Süresinde Bildirim ve Muhtasar Beyanname Uyumlaşması:** Teşvikten yararlanabilmek için Muhtasar ve Prim Hizmet Beyannamesinin (MPHİB) yasal süresi olan takip eden ayın 26'sına kadar verilmesi ve primlerin aynı ay sonuna kadar ödenmesi şarttır. Tek bir günün gecikmesi dahi o ayki teşvik hakkını tamamen düşürür.
+*   **Borç Yapılandırmasında Teşvik:** Prim borcunu 6183 sayılı Kanun m. 48 uyarınca tecil ve taksitlendiren işverenler, taksit ödemelerini düzenli yaptıkları sürece m. 81 teşviklerinden yararlanmaya devam edebilirler.
+
+#### 7. Eleştirel Değerlendirme
+*   **Prim Oranlarının Yükselmesi ve Teşviklerin Azalmasının Kayıt Dışılığa Etkisi:** 2024 ve 2025 sonu itibarıyla yapılan yasal değişikliklerle (KVSK'nın %2.25'e, MYÖ'nün %21'e çıkması ve Hazine teşviğinin 5 puandan 2 puana düşürülmesi), işverenlerin üzerindeki reel istihdam maliyeti ciddi oranda artmıştır. Bu durum, özellikle emek-yoğun sektörlerde işverenleri kayıt dışı istihdama veya sahte kısmi süreli bildirimlere yönlendirme riski barındırmaktadır. Sosyal güvenlik sistemini korumak için prim oranlarını artırmak makul görünse de, teşviklerin daraltılması istihdam piyasası üzerinde daraltıcı bir etki yaratabilir.
+
+---
+
+### Metodolojik Not
+Bu akademik yorum ve analiz, Türk sosyal güvenlik hukukunda finansman oranlarını, hazine desteklerini ve devlet katkısı rejimini düzenleyen 5510 sayılı Kanun'un 81. maddesi, **7524 ve 7566 sayılı Kanunlarla yapılan güncel revizyonlar** ile Kasım 2025 tarihli Cumhurbaşkanı Kararları çerçevesinde **Av. Fethi Güzel** tarafından hazırlanmıştır. Analiz, en güncel yasal verileri pratik sorumluluk hukuku çerçevesinde irdeleyen nitelikli bir akademik şerhtir.

@@ -16,7 +16,6 @@ Alacağı taşınır rehni ile sağlanmış alacaklı, takip talebinde 58 inci m
 hususlardan başka merhunun ne olduğunu ve merhun üçüncü şahıs tarafından verilmiş veya
 merhunun mülkiyeti üçüncü şahsa geçmiş ise onun ve merhun üzerinde sonra gelen rehin
 hakkı mevcut ise bu hakka sahip olan şahsın ismini de bildirir.
-Ödeme emri:
 
 ### Akademik Yorum ve Analiz
 

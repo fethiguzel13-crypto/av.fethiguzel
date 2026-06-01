@@ -31,7 +31,6 @@ konuların görüşüldüğü ihtisas komisyonu toplantılarına katılabilir ve
 Komisyon çalışmalarında uzman kişilerden yararlanılabilir.
 Komisyon raporları alenîdir, çeşitli yollarla halka duyurulur ve isteyenlere meclis
 tarafından maliyetlerini aşmamak üzere belirlenecek bedel karşılığında verilir.
-Denetim komisyonu
 
 ### Bizim Yorumumuz
 

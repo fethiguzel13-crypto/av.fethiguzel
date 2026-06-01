@@ -32,7 +32,6 @@ Memurin Kanunundaki usulüne göre savunmalarını aldıktan sonra uyarma cezas�
 uygular. Bu ceza kesindir ve tebliğ tarihinden itibaren sicile geçer. Daha ağır disiplin cezaIarı
 ile takdirname verilmesini gerektiren hallerde vali ve kaymakama tekliflerde bulunur.22
 F) Cumhuriyet Bayramlarında bucakta yapılacak törene başkanlık yapar ve ziyaretleri
-kabul eyler.
 
 ### Bizim Yorumumuz
 

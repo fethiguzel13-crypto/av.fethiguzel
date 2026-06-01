@@ -20,7 +20,6 @@ eşyaları bu hükümden hariçtir.
 müsteniden yapacakları istihkak iddiaları mahfuz kalmak şartiyle, bu yerlerdeki mallar
 üzerindeki istihkak iddiaları alacaklı amme idaresinin bu teminat hakkını ihlal etmez.
 II – İhtiyati haciz
-İhtiyati haciz:
 
 ### Bizim Yorumumuz
 

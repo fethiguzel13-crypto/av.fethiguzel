@@ -23,7 +23,6 @@ haber verilir.
 maddesi uygulanır.
 I – Taşınmaz haczinin şümulü,
 II – Alacakları rehinle sağlanmış alacaklıların mahfuz hakları,
-III – İdare ve işletme.
 
 ### Akademik Yorum ve Analiz
 

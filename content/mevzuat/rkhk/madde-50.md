@@ -16,7 +16,6 @@ olarak değiştirilmiştir.
 
 durumlarda İkinci Başkan yönetir ve karara bağlanacak konuları belirler. Bu konular serbestçe
 tartışıldıktan sonra Başkan oyları toplar ve en son kendi oyunu verir.
-Toplantı ve Karar Yeter Sayısı
 
 ### Bizim Yorumumuz
 

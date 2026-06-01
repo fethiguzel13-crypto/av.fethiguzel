@@ -18,9 +18,6 @@ uygun görüşü ve birinci derece ita amirinin onayı ile geçerli sayılabilir
 kadar yapmış olduğu gerçek masrafları ile, varsa, tahakkuk etmiş hakedişleri verilir.
 8 13/10/2022 tarihli ve 7418 sayılı Kanunun 26 ncı maddesiyle, bu bentte yer alan “başka gazeteler veya” ibaresinden sonra gelmek üzere “internet haber siteleri ya da” ibaresi eklenmiştir.
 
-
-İlanı sakıncalı görülen hususlar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

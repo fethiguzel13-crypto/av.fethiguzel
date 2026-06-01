@@ -19,7 +19,6 @@ Bu kişilerin dinlenmesi yerine, daha önce yapılan dinleme sırasında düzenl
 tutanaklar ile kendilerinin yazmış olduğu belgeler okunabilir.
 (2) Cumhuriyet savcısı, katılan veya vekili, sanık veya müdafii birinci fıkrada
 belirtilenlerin dışında kalan tutanakların okunmasına birlikte rıza gösterebilirler.
-Tanığın önceki ifadesinin okunması
 
 ### Bizim Yorumumuz
 

@@ -26,7 +26,6 @@ iken metne işlendiği şekilde değiştirilmiştir.
 
 Tarafların rızası veya mahkeme kararı ile şüyuun izalesi ve arazi taksimi de yukarıdaki
 hükümlere tabidir.
-Kamulaştırmadan arta kalan kısımlar:
 
 ### Bizim Yorumumuz
 

@@ -38,7 +38,6 @@ yaparak Genel Müdürlüğe öneride bulunmak.
 h) Yıllık faaliyet raporunu ve izleyen yıl faaliyet planını hazırlayarak Kurulun
 bilgisine sunmak.
 ı) Yıllık Arabuluculuk Asgari Ücret Tarifesini hazırlamak.
-Kurul
 
 ### Bizim Yorumumuz
 

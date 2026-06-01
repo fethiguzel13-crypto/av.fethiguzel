@@ -14,7 +14,6 @@ ayrı kısımlarında gösterirler. Bu takdirde bir safhanın mamulü mütaakıp
 gösterilmek suretiyle bu safhanın iptidai maddesini teşkil eder.
 Kombine imalatta istenildiği takdirde her müstakil imal safhası için ayrı bir imalat
 defteri kullanılması caizdir.
-Bitim işleri defteri:
 
 ### Bizim Yorumumuz
 

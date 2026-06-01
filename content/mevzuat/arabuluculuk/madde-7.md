@@ -16,7 +16,6 @@ yürürlükte bulunan Arabulucu Asgari Ücret Tarifesine göre belirlenir ve üc
 taraflarca eşit olarak karşılanır.
 (3) Arabulucu, arabuluculuk sürecine ilişkin olarak belirli kişiler için aracılık yapma veya
 belirli kişileri tavsiye etmenin karşılığı olarak ücret alamaz. Bu yasağa aykırı işlemler batıldır.
-Taraflarla görüşme ve iletişim kurulması
 
 ### Bizim Yorumumuz
 

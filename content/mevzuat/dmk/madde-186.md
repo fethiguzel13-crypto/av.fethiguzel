@@ -18,9 +18,6 @@ aylıklarının açık aylıklarından fazla veya eksik olmasına göre hakları
 madde hükümleri uygulanır.
 B) (A) bendi dışında kalan ve rütbesiz memurlara kanuni hakları olan açık aylığının
 verilmesine devam olunur.
-KISIM - VI
-Sosyal Haklar ve Yardımlar
-Emeklilik hakları:
 
 ### Bizim Yorumumuz
 

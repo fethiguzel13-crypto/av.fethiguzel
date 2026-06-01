@@ -917,8 +917,6 @@ DARGEÇİT
 
 53
 
-Yürürlük
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -34,7 +34,6 @@ Konusu suç teşkil eden emir, hiçbir suretle yerine getirilmez; yerine getiren
 sorumluluktan kurtulamaz.
 Acele hallerde kamu düzeninin ve kamu güvenliğinin korunması için kanunla
 gösterilen istisnalar saklıdır.
-Kişisel sorumluluk ve zarar:
 
 ### Akademik Yorum ve Analiz
 

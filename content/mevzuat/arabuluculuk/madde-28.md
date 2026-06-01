@@ -22,7 +22,6 @@ ve Savcılar Kurulu tarafından belirlenen sulh hukuk hâkiminin gözetim ve den
 görev yapar. Arabuluculuk bürosu kurulmayan yerlerde bu büroların görevi, adli yargı ilk
 derece mahkemesi adalet komisyonunca görevlendirilen sulh hukuk mahkemesi yazı işleri
 müdürlüğü tarafından ilgili hâkimin gözetim ve denetimi altında yerine getirilir.
-Daire Başkanlığı
 
 ### Bizim Yorumumuz
 

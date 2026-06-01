@@ -15,9 +15,6 @@ yapılacağı, gözaltı işlemlerine ilişkin kayıt ve defterlerin nasıl tutu
 başlangıcında ve bu tedbire son verildiğinde hangi tutanakların tutulacağı ve gözaltına alınan
 kişiye hangi belgelerin verileceği ile kolluk tarafından gerçekleştirilen yakalama işlemlerinin
 yürütülmesinde uyulacak kurallar, yönetmelikte gösterilir.
-İKİNCİ BÖLÜM
-Tutuklama
-Tutuklama nedenleri
 
 ### Bizim Yorumumuz
 

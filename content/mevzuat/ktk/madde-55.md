@@ -45,7 +45,6 @@ gösterir belgenin sürücü kursuna ibrazı zorunludur.
 Kanunun 6 ncı maddesinde sayılan görevliler tarafından gerçekleştirilir.
 
 Şerit izleme, gelen trafikle karşılaşma, araçlar arasındaki mesafe, yavaş sürme ve
-geçiş kolaylığı sağlama:
 
 ### Bizim Yorumumuz
 

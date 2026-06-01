@@ -58,7 +58,6 @@ maddesinin birinci fıkrasına göre cezalandırılmasını ve borçlu bulunduğ
 hükmedilmesini isteyebilir.
 Menkul malların aynen teslimi mümkün olmadığı takdirde değeri ödenir. Üçüncü
 şahısların genel hükümler gereğince asıl borçluya rücu hakları saklıdır.
-Zor kullanma:
 
 ### Bizim Yorumumuz
 

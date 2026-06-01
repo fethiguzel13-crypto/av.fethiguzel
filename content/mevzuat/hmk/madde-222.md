@@ -27,7 +27,6 @@ ticari defter kayıtları, sahibi aleyhine delil olur.
 (5) Taraflardan biri tacir olmasa dahi, tacir olan diğer tarafın ticari defterlerindeki
 kayıtları kabul edeceğini belirtir; ancak, karşı taraf defterlerini ibrazdan kaçınırsa, ibrazı talep
 eden taraf iddiasını ispat etmiş sayılır.
-Yabancı dilde yazılmış belgeler
 
 ### Bizim Yorumumuz
 

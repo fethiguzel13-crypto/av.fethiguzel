@@ -31,7 +31,6 @@ saymanlıklarca derhal ödenir. Memurun izinli ve raporlu olması tebligata enge
 beraber (a) ve (b) bentlerindeki süreler izin ve rapor müddetinin bitmesinde başlar.
 Bu maddede geçen "yer" deyiminin kapsamı İçişleri ve Maliye Bakanlıklarınca
 birlikte belirtilir.
-İşe başlamama halinde yapılacak işlem:
 
 ### Bizim Yorumumuz
 

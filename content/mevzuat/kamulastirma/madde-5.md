@@ -37,7 +37,6 @@ c) Gerçek kişiler yararına kamulaştırmalarda bu kişilerin, özel hukuk tü
 yararına kamulaştırmalarda ise; yönetim kurulları veya idare meclislerinin, yoksa yetkili
 yönetim organlarının başvuruları üzerine gördükleri hizmet bakımından denetimine bağlı
 oldukları köy, belediye, özel idare veya bakanlık.
-Onay mercii
 
 ### Bizim Yorumumuz
 

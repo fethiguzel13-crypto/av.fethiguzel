@@ -15,7 +15,6 @@ Defterin gider tarafına, yapılan giderlerin nevi ile yapıldığı tarih ve ha
 ücretin alındığı tarih ve miktarı ile kimden alındığı yazılır.
 Hekimler diledikleri takdirde, yukarıda yazılı malümatı protokol defterinde göstermek
 şartiyle ayrı kazanç defteri tutmıyabilirler.
-Amortisman kayıtları:
 
 ### Bizim Yorumumuz
 

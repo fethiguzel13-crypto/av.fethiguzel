@@ -40,9 +40,6 @@ uğrayacağı zararlardan kusurları oranında sorumludur.
 araçlarının kayden izlenmesi ile gerekli gördüğü diğer hususların yerine getirilmesini, her
 türlü bilgi ve belgenin yazılı ya da elektronik ortamda, talebi üzerine veya düzenli olarak
 gönderilmesini MKK ile bu kuruluşun üyelerinden isteyebilir.
-ÜÇÜNCÜ BÖLÜM
-Diğer Kurumlar
-Yatırımcıların tazmini
 
 ### Bizim Yorumumuz
 

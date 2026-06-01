@@ -58,9 +58,6 @@ sonra gelmek üzere “gerçek kişiler tarafından” ibaresi eklenmiştir.
 Lirasına kadar idari para cezası verilebilir.30
 BEŞİNCİ KISIM
 Göç İdaresi Genel Müdürlüğü
-BİRİNCİ BÖLÜM
-Kuruluş, Görev ve Yetki
-Kuruluş
 
 ### Bizim Yorumumuz
 

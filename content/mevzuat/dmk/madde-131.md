@@ -20,7 +20,6 @@ veya görevi sırasında işledikleri suçlarla kişisel suçları sebebiyle Cum
 kurullarca yapılan soruşturma sonunda düzenlenen takipsizlik, meni muhakeme, iddianame,
 talepname veya lüzumu muhakeme karar suretleri ile ilgili mahkemelerce verilen kesinleşmiş
 karar suretleri bu personelin bağlı olduğu bakanlık veya kurum veya kuruluşa gönderilir.188
-Uygulama:
 
 ### Bizim Yorumumuz
 

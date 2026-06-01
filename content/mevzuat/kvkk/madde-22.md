@@ -39,7 +39,6 @@ hakkında hazırlanan rapor taslaklarını onaylamak ve yayımlamak.
 k) Taşınmaz alımı, satımı ve kiralanması konularındaki önerileri görüşüp karara
 bağlamak.
 l) Kanunlarla verilen diğer görevleri yerine getirmek.
-Kurulun çalışma esasları
 
 ### Bizim Yorumumuz
 

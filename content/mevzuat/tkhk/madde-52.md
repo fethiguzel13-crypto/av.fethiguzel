@@ -37,7 +37,6 @@ taleplere ilişkin işlemleri yerine getirmek üzere gerekli tedbirleri almak ve
 bir sistem kurup bu sistemi kesintisiz olarak açık tutmakla yükümlüdür.
 (7) Sözleşmenin zorunlu içeriği, tüketici ile satıcı ve sağlayıcının hak ve
 yükümlülükleri ile diğer uygulama usul ve esasları yönetmelikle belirlenir.
-Süreli yayın kuruluşlarınca düzenlenen promosyon uygulamaları
 
 ### Bizim Yorumumuz
 

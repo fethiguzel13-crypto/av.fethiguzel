@@ -19,8 +19,6 @@ Alacaklı müracaat hakkına halel gelmeksizin borçtan birlikte sorumlu olan ki
 konkordato müzakerelerine katılma yetkisini verebilir ve onların kararını kabul taahhüdünde
 bulunabilir.
 
-Konkordatonun mahkemede incelenmesi:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

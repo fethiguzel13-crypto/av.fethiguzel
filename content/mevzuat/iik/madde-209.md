@@ -22,8 +22,6 @@ ihtar eder.
 değiştirilmiştir.
 72
 
-Teminat tedbirleri:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

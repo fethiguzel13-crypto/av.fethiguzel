@@ -17,9 +17,6 @@ tabi her varaka, senet ve ilan için 500.000 (150 TL) liradan az olmaz. Diğer v
 vergi için 1.000.000 (300 TL) liraya baliğ olmayan cezalar kesilmez.
 İKİNCİ KISIM
 Vergi Cezaları
-BİRİNCİ BÖLÜM
-Vergi Ziyaı Cezası115
-Vergi ziyaı cezası
 
 ### Akademik Yorum ve Analiz
 

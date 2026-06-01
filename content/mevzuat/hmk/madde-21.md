@@ -19,7 +19,6 @@ c) İki mahkeme de görevsizlik kararı verir ve bu kararlar kanun yoluna başvu
 kesinleşirse.
 ç) Kesin yetki hâllerinde, iki mahkeme de yetkisizlik kararı verir ve bu kararlar kanun
 yoluna başvurulmaksızın kesinleşirse.
-İnceleme yeri
 
 ### Bizim Yorumumuz
 

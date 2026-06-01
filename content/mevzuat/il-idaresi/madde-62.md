@@ -20,7 +20,6 @@ Bu davalar Danıştay Muhakeme Usulüne tabidir. Bu kabil iptal davaları birinc
 derecede Danıştayda açılamaz. Merci tecavüzü ile Danıştaya dava açıldığı takdirde dava
 evrakı vasifesizlik kararı ile ilgili il idare kuruluna tevdi olunur.
 Bu madde özel kanunlarla il ve ilçe idare kurullarına verilen diğer kazai işlerdeki
-yetkilerine halel vermez.
 
 ### Bizim Yorumumuz
 

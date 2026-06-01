@@ -18,9 +18,6 @@ niteliğine ve aykırılığın ağırlığına göre zorlama hapsinin süresi o
 kadardır. Ancak zorlama hapsinin toplam süresi altı ayı geçemez.
 (3) Zorlama hapsine ilişkin kararlar, Cumhuriyet başsavcılığınca yerine getirilir. Bu
 kararlar Bakanlığın ilgili il ve ilçe müdürlüklerine bildirilir.
-ÜÇÜNCÜ BÖLÜM
-Merkezlerin Kurulması, Destek Hizmetleri ve Kurumlararası Koordinasyon
-Şiddet önleme ve izleme merkezlerinin kurulması
 
 ### Bizim Yorumumuz
 

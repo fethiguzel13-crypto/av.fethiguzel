@@ -17,7 +17,6 @@ Zorundadırlar.
 
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler, 3 600 000
 lira para cezası ile cezalandırılırlar.
-Sürücülerin sağlık şartlarında sonradan meydana gelen değişiklikler:39
 
 ### Bizim Yorumumuz
 

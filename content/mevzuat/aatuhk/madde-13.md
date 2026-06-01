@@ -26,7 +26,6 @@ amme davası açılmış ise,
 7. İptali istenen muamele ve tasarrufun mevzuunu teşkil eden mallar, bu mallar elden
 çıkarılmışsa elden çıkaranın diğer malları hakkında uygulanmak üzere, bu kanunun 27, 29, 30
 uncu maddelerinin tatbikını icabettiren haller varsa.
-İhtiyati hacizde borçlu tarafından gösterilecek teminat:
 
 ### Bizim Yorumumuz
 

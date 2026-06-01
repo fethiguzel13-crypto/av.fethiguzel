@@ -16,8 +16,6 @@ kuruluşunun başvuru tarihinden itibaren en geç 15 gün içinde başvuruyu yaz
 cevaplamaması veya verilen cevabın talebi karşılamadığına ilişkin uyuşmazlık olması hâlinde,
 zarar gören dava açabilir veya 5684 sayılı Kanun çerçevesinde tahkime başvurabilir.
 
-Sağlık hizmet bedellerinin ödenmesi:73
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

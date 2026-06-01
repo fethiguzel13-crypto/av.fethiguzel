@@ -13,7 +13,6 @@ Madde 140 – Haklarında mahkemelerce cezai kovuşturma yapılan Devlet memurla
 da 138 inci maddedeki yetkililer tarafından görevden uzaklaştırılabilirler.
 
 Görevden uzaklaştırılan veya görevinden uzak kalan memurların hak ve
-yükümlülüğü:
 
 ### Bizim Yorumumuz
 

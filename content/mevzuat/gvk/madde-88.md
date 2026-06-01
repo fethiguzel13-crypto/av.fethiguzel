@@ -257,7 +257,6 @@ ve esasları belirlemeye yetkilidir.
 Bağış ve yardımın nakden yapılmaması halinde, bağışlanan veya yardımın konusunu
 teşkil eden mal veya hakkın varsa mukayyet değeri, yoksa Vergi Usul Kanunu hükümlerine
 göre Takdir Komisyonunca tespit edilecek değeri esas alınır.
-Matrahtan ve gelir unsurlarından indirilmiyecek giderler:
 
 ### Bizim Yorumumuz
 

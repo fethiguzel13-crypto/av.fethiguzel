@@ -102,7 +102,6 @@ tespitinde gelir olarak dikkate alınması şarttır.).
 aksaklıkları, vergi mükerrerliğine ve vergi muafiyetine meydan vermeyecek şekilde, bu
 Kanunun anailkelerine uygun olarak gidermeye ve indirimle ilgili usul ve esasları
 düzenlemeye yetkilidir.83
-İndirilemeyecek katma değer vergisi:
 
 ### Bizim Yorumumuz
 

@@ -25,7 +25,6 @@ a) 6 ve 7 nci maddeleri;
 b) 9, 31, 33, 34, 35, 36 ve 38 inci maddeleri ile geçici 4, geçici 5, geçici 6, geçici 7 ve geçici 8 inci maddeleri yayımı tarihinde,
 c) Diğer maddeleri yayımı tarihinden itibaren altı ay sonra,
 yürürlüğe girer.
-Yürütme
 
 ### Bizim Yorumumuz
 

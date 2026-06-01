@@ -52,7 +52,6 @@ Beyan varakaları iki nüsha olarak tanzim ve bir nüshası beyan süresinin son
 itibaren 15 gün içinde ilgili vergi dairesine makbuz karşılığında teslim edilir.
 Kayıt işlerini kendi imkanları ile tekemmül ettiremiyecek durumda olan muhtarlıklara
 valiliklerce gerekli yardımda bulunulur.
-Ekim ve sayım ilmühaberi:
 
 ### Akademik Yorum ve Analiz
 

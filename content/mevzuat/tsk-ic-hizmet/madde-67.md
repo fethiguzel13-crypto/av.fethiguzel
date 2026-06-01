@@ -14,7 +14,6 @@ Subay, astsubay, uzman jandarma, sivil personel ve askerî öğrenciler ile erba
 hakkında askerî veya sivil sağlık sunucuları tarafından düzenlenen sağlık raporları neticesinde
 yapılacak işlemler yönetmelikle belirlenir.
 Askerî veya sivil sağlık hizmet sunucuları tarafından düzenlenen raporlar ve diğer
-sağlık kayıtları, personel ve sağlık bilgi sistemleri ile özlük dosyalarında muhafaza edilir.
 
 ### Bizim Yorumumuz
 

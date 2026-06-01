@@ -28,10 +28,6 @@ kod veya numara almalarını zorunlu tutabilir. Bu fıkranın uygulanmasına ili
 esaslar Kurulca düzenlenir.
 BEŞİNCİ KISIM
 Sermaye Piyasalarında Denetim ve Tedbirler
-BİRİNCİ BÖLÜM
-Denetim, Arama ve El Koyma
-
-Denetim faaliyeti ve denetim yetkilileri
 
 ### Bizim Yorumumuz
 

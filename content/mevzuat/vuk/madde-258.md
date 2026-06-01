@@ -13,7 +13,6 @@ wordCount: 737
 
 Madde 258 – Değerleme, vergi matrahlarının hesaplanmasiyle ilgili iktisadi
 kıymetlerin takdir ve tesbitidir.
-Değerleme günü:
 
 ### Akademik Yorum ve Analiz
 

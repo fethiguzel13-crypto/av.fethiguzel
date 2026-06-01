@@ -18,7 +18,6 @@ işe ait olduğu, isteklinin adı ve soyadı ile açık adresi yazılır. Posta 
 ilanda belirtilen saate kadar komisyon başkanlığına ulaşması şarttır. Postadaki gecikme
 nedeniyle işleme konulmayacak olan tekliflerin alınış zamanı bir tutanakla tespit edilir.
 Komisyon başkanlığına verilen teklifler herhangi bir sebeple geri alınamaz.
-Dış zarfların açılması:
 
 ### Bizim Yorumumuz
 

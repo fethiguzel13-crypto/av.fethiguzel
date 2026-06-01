@@ -35,7 +35,6 @@ paylaştırmamak, gelir, faiz veya başka adlarla üyelerine aktarmamak şartıy
 yiyecek, giyecek gibi zarurî ihtiyaç maddelerini ve diğer mal ve hizmetlerle kısa vadeli kredi
 ihtiyaçlarını karşılamak amacıyla sandık kurabilirler.
 Bu sandıkların kuruluş ve çalışma esasları yönetmelikte düzenlenir.
-Dernek görevlileri ve ücretleri
 
 ### Bizim Yorumumuz
 

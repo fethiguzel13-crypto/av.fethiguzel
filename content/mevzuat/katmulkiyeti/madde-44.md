@@ -28,7 +28,6 @@ Bu nitelikteki ilave ve genişletmelere muvafakat etmekle beraber kendisi katıl
 Bu takdirde, yeni bağımsız bölümün yapılmasına katılmıyan kat maliklerinin arsa paylarından yeni tahsis sebebiyle azalan kısmın bedeli kendilerine ödenmek şartiyle, yeni yapılan
 bağımsız bölüm, kat irtifakı kurulmasına dair olan eski resmi senet gereğince kat mülkiyetine
 çevrilerek onu yaptıranın mülkü veya yaptıranların ortak mülkü olur ve kat mülkiyeti kütüğünün ayrı bir sayfasına yeni malik veya malikler adına tescil edilir.
-G) Temliki tasarruflar ve önemli işler:
 
 ### Bizim Yorumumuz
 

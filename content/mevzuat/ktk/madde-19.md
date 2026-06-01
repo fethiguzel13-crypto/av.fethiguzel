@@ -27,7 +27,6 @@ motorlu araçlar.
 d) Tescil zorunluluğu bulunan motorlu taşıtlarla çekilenler ile 22 nci maddenin (c)
 bendine göre tescili gerekli görülenler hariç, bütün motorsuz taşıtlar,
 Bu hükmün dışındadır.
-Araçların satış, devir ve tescili ile bu işlemlerle ilgili yetki ve sorumluluk:17
 
 ### Bizim Yorumumuz
 

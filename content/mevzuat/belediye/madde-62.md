@@ -18,7 +18,6 @@ birlikte kasım ayının birinci gününden önce belediye meclisine sunar.36
 Meclis bütçe tasarısını yılbaşından önce, aynen veya değiştirerek kabul eder. Ancak,
 meclis bütçe denkliğini bozacak biçimde gider artırıcı ve gelir azaltıcı değişiklikler yapamaz.
 Kabul edilen bütçe, malî yılbaşından itibaren yürürlüğe girer.
-Harcama yetkilisi
 
 ### Bizim Yorumumuz
 

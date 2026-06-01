@@ -60,10 +60,6 @@ zorunluluğundan muafiyet getirebilir.
 (9) Portföy saklama hizmetini yürütecek kuruluşların niteliklerine ve bu faaliyetin
 yürütülmesine ilişkin usul ve esaslar Kurul tarafından belirlenir.
 
-BEŞİNCİ BÖLÜM
-Konut ve Varlık Finansmanı ile İpotek Finansmanı Kuruluşları
-Konut ve varlık finansmanı
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

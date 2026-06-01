@@ -41,8 +41,6 @@ Zimmet suçunun konusunu oluşturan para veya para yerine geçen evrak veya
 senetlerin veya diğer malların değerinin azlığı nedeniyle, verilecek ceza üçte birden yarıya
 kadar indirilir.
 
-Diğer kanunlara aykırılıklar
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

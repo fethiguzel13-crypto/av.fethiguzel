@@ -15,7 +15,6 @@ nedeniyle doğabilecek zararlardan raporu imzalayanlarla birlikte sorumludur. Ba
 denetim kuruluşları ile derecelendirme ve değerleme kuruluşları, faaliyetleri neticesinde
 düzenledikleri raporlarda yer alan yanlış, yanıltıcı ve eksik bilgiler dolayısıyla neden oldukları
 zararlardan sorumludurlar.
-Yükümlülük
 
 ### Bizim Yorumumuz
 

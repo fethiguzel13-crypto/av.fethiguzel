@@ -17,7 +17,6 @@ giderler;
 bilvekale iştirak gibi sermayenin idaresi için yapılan giderler irattan indirilmez);
 3. Menkul kıymetler ve bunların iratları için ödenen her türlü vergi, resim ve harçlar
 (Gelir Vergisi irattan indirilmez).
-Yabancı parası ile ödenen faiz ve temettüler:
 
 ### Bizim Yorumumuz
 

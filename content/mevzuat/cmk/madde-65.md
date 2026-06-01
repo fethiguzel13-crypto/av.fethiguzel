@@ -15,7 +15,6 @@ a) Resmî bilirkişilikle görevlendirilmiş olanlar ve 64 üncü maddede belirt
 listelerde yer almış bulunanlar.
 b) İncelemenin yapılması için bilinmesi gerekli fen ve sanatları meslek edinenler.
 c) İncelemenin yapılması için gerekli mesleği yapmaya resmen yetkili olanlar.
-Atama kararı ve incelemelerin yürütülmesi
 
 ### Bizim Yorumumuz
 

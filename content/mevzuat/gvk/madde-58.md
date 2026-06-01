@@ -20,8 +20,6 @@ ibaresi, 22/7/1998 tarih ve 4369 sayılı Kanunun 81 inci maddesiyle metne işle
 değiştirilmiştir.
 66
 
-Kazancın bilanço esasına göre tesbiti:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

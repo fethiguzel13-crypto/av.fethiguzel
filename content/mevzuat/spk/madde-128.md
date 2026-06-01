@@ -83,7 +83,6 @@ mutabakat zaptı çerçevesinde ilgili mercilere intikal ettirebilir ve kullanab
 resmî ve özel kuruluşlar ve kişilerden görüş ve bilgi isteyebilir. Bunlar söz konusu isteğe
 cevap vermek ve Kurulun görevlilerine gereken kolaylığı göstermekle yükümlüdürler. Kurul,
 kanunen başka merciler tarafından takibi gereken hususları ilgili mercilere intikal ettirir.
-Şeffaflık ve hesap verebilirlik
 
 ### Bizim Yorumumuz
 

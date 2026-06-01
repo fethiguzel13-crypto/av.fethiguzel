@@ -35,7 +35,6 @@ l) Süre uzatımı verilebilecek haller ve şartları,
 m) İşin süresinden önce bitirilmesinde fayda görülen hallerde erken bitirme primi
 verilecekse miktarı, şartları ve ödeme şekli,
 n) İhtilafların çözüm şekli.
-Şartname genel esasları:
 
 ### Bizim Yorumumuz
 

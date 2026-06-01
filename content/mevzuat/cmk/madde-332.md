@@ -17,7 +17,6 @@ hangi tarihte cevap verilebileceği aynı süre içinde bildirilir.
 Ceza Kanununun 257 nci maddesine aykırılık oluşturabileceği yazılır. Bu durumda haklarında
 kamu davasının açılması, izin veya karar alınmasına bağlı bulunan kişiler hakkında, yasama
 dokunulmazlığı saklı kalmak üzere, doğrudan soruşturma yapılır.
-Yönetmelik
 
 ### Bizim Yorumumuz
 

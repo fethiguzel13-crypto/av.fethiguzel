@@ -41,7 +41,6 @@ menfaatler;
 sonlandırma sözleşmesi veya ikale sözleşmesi kapsamında ödenen tazminatlar, iş kaybı
 tazminatları, iş sonu tazminatları, iş güvencesi tazminatları gibi çeşitli adlar altında yapılan
 ödemeler ve yardımlar.
-İş verenin tarifi:
 
 ### Akademik Yorum ve Analiz
 

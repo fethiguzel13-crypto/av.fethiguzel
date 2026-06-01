@@ -28,7 +28,6 @@ ibaresinden sonra gelmek üzere “bilirkişilik bölge kurulu veya bulunduğu y
 
 belirtilen şekilde yemin verdirilir. Yemine ilişkin tutanak, hâkim, zabıt kâtibi ve bilirkişi
 tarafından imzalanır.
-Bilirkişinin görevini yapmaktan yasaklı olması ve reddi
 
 ### Bizim Yorumumuz
 

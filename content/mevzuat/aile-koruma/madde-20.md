@@ -16,9 +16,6 @@ ve intikal vergisinden, bu ödemeler için düzenlenen kâğıtlar ise damga ver
 (2) Bakanlık, gerekli görmesi hâlinde kadın, çocuk ve aile bireylerine yönelik olarak
 uygulanan şiddet veya şiddet tehlikesi dolayısıyla açılan idarî, cezaî, hukukî her tür davaya ve
 çekişmesiz yargıya katılabilir.
-BEŞİNCİ BÖLÜM
-Çeşitli ve Son Hükümler
-Kadrolar1
 
 ### Bizim Yorumumuz
 

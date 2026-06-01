@@ -16,7 +16,6 @@ tarzda artırma şartlarını tesbit eder.
 (Mülga ikinci fıkra:24/11/2021-7343/19 md.)
 (Mülga üçüncü fıkra:24/11/2021-7343/19 md.)
 (Mülga dördüncü fıkra:24/11/2021-7343/19 md.)
-2 – Münderecatı:
 
 ### Akademik Yorum ve Analiz
 

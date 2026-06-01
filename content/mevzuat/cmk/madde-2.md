@@ -60,9 +60,6 @@ dolayısıyla verilen, seçenek yaptırımlara çevrilemeyen, önödeme uygulana
 esas olmayan, şartla salıverilme hükümleri uygulanamayan, ertelenemeyen ve adlî sicil
 kayıtlarına geçirilmeyen hapsi,
 İfade eder.
-İKİNCİ BÖLÜM
-Görev
-Görev
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ uluslararası korumayı, ayrılmaya zorlandıkları ülkeye geri dönemeyen ve k
 Türkiye’ye gelen yabancılara acil olarak sağlanacak geçici korumayı (…)2 kapsar.
 (2) Bu Kanunun uygulanmasında, Türkiye’nin taraf olduğu milletlerarası anlaşmalar
 ile özel kanunlardaki hükümler saklıdır.
-Tanımlar3
 
 ### Bizim Yorumumuz
 

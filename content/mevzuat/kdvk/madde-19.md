@@ -15,9 +15,6 @@ hüküm eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir.
 2.Uluslararası anlaşma hükümleri saklıdır.
 ÜÇÜNCÜ KISIM
 Matrah, Nispet ve İndirim
-BİRİNCİ BÖLÜM
-Matrah
-Teslim ve hizmet işlemlerinde matrah:
 
 ### Bizim Yorumumuz
 

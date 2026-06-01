@@ -23,7 +23,6 @@ resen karar verebilir.
 bir yerde yapılmasına, yargı çevresi içinde yer aldığı bölge adliye mahkemesi adalet
 komisyonunun uygun görüşünü alarak karar verebilir.
 (5) Bu maddenin uygulanmasına ilişkin usul ve esaslar yönetmelikte belirlenir.
-Tarafların duruşmaya gelmemesi, sonuçları ve davanın açılmamış sayılması
 
 ### Bizim Yorumumuz
 

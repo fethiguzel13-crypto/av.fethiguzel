@@ -20,7 +20,6 @@ kıymetlerinin seviyesi;
 4. Tarımda kullanılan arazinin yetiştirme kuvveti, sulaklık derecesi, tarımın nev'i;
 5. Arazinin büyüklüğü ve küçüklüğü;
 6. Meskün yerlere, iskele ve istasyonlara yakınlığı.
-Kıymet rayiçleri:
 
 ### Akademik Yorum ve Analiz
 

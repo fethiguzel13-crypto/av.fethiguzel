@@ -16,9 +16,6 @@ geçerlidir.
 ülkenin hukukuna göre kesinleşmiş olan veya kesin hüküm gibi sonuç doğuran karar ve
 belgelerin Türkiye'de icra olunabilmesi, yetkili Türk mahkemesi tarafından tenfiz veya tanıma
 kararı verilmesine bağlıdır.
-BEŞİNCİ BÖLÜM
-Ölüm ve Gaiplik
-Bildirim süresi ve yükümlü olanlar
 
 ### Bizim Yorumumuz
 

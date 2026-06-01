@@ -27,8 +27,6 @@ seçme hakkı kullanılamaz.
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 8
 
-Seçme hakkı ile Türk vatandaşlığını kaybetmenin geçerliliği ve sonuçları
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

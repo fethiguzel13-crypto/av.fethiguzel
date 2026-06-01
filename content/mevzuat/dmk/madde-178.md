@@ -32,7 +32,6 @@ Fazla çalışmanın uygulama esas ve usulleri Devlet Personel Başkanlığı il
 Bakanlığınca müştereken belirlenir.
 Milli İstihbarat Teşkilatı mensuplarına ödenecek fazla çalışma ücretleri ve diğer
 hususlar Cumhurbaşkanı tarafından onaylanacak bir talimatla tesbit edilir.273
-Temsil giderleri ve yönetmeliği:
 
 ### Bizim Yorumumuz
 

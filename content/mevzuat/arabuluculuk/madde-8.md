@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 MADDE 8 – (1) Arabulucu, tarafların her biri ile ayrı ayrı veya birlikte görüşebilir ve
 iletişim kurabilir. (Mülga ikinci cümle: 12/10/2017-7036/20 md.) (...)
-Görevin özenle ve tarafsız biçimde yerine getirilmesi
 
 ### Bizim Yorumumuz
 

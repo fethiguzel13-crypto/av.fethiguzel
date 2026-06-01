@@ -41,7 +41,6 @@ kaldırılıp götürüleceği, götürülme sırasında zarara ve ziyana uğrat
 önlemler ile kaldırma ve götürme giderlerinin tahsili usul ve esasları yönetmelikte gösterilir.
 Kaldırılıp götürülen araçların giderleri ile verilen ceza, sürücüsü veya sahibince
 ödenmeden araç teslim edilmez.
-Karayolu üzerinde park etme izni verilmeyen araçlar:
 
 ### Bizim Yorumumuz
 

@@ -25,7 +25,6 @@ Gelir kaydedilen teminatlar, yüklenicinin borcuna mahsup edilemez.
 19, 20 ve 21 inci maddelere göre sözleşmenin feshedilmesi halinde, yükleniciler hakkında
 26 ncı madde hükümlerine göre işlem yapılır. Ayrıca, sözleşmenin feshi nedeniyle idarenin
 uğradığı zarar ve ziyan yükleniciye tazmin ettirilir.
-Mücbir sebeplerden dolayı sözleşmenin feshi
 
 ### Bizim Yorumumuz
 

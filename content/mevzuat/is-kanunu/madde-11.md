@@ -24,7 +24,6 @@ yapılan iş sözleşmesi belirli süreli iş sözleşmesidir.
 Belirli süreli iş sözleşmesi, esaslı bir neden olmadıkça, birden fazla üst üste (zincirleme)
 yapılamaz. Aksi halde iş sözleşmesi başlangıçtan itibaren belirsiz süreli kabul edilir.
 Esaslı nedene dayalı zincirleme iş sözleşmeleri, belirli süreli olma özelliğini korurlar.
-Belirli ve belirsiz süreli iş sözleşmesi ayırımın sınırları
 
 ### Akademik Yorum ve Analiz
 

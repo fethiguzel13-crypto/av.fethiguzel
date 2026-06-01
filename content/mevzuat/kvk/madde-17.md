@@ -88,7 +88,6 @@ sonucu tasfiye memurlarına yazı ile bildirir. Buna göre kurumdan aranan vergi
 (10) Maliye Bakanlığı, mükelleflerin hukukî statülerini, faaliyet gösterdikleri alanları
 ve tasfiyeye giriş tarihindeki aktif büyüklüklerini dikkate almak suretiyle tasfiye işlemlerine
 yönelik inceleme yaptırmamaya yetkilidir.42
-Birleşme
 
 ### Bizim Yorumumuz
 

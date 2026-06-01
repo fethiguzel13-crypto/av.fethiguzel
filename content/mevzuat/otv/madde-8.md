@@ -44,7 +44,6 @@ uygun görmesi halinde vergi dairelerince üç aya kadar ek süre verilebilir.
 3. (III) sayılı listede yer alan malların tamamının ya da bir kısmının tesliminde veya
 ithalinde tahakkuk eden vergiyi, teminat alınmak suretiyle, bu malların tüketiciye teslimine kadar
 (bu safha dahil) tecil ettirmeye Cumhurbaşkanı yetkilidir.
-Vergi indirimi
 
 ### Bizim Yorumumuz
 

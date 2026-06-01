@@ -16,8 +16,6 @@ hakkını talep etmeye zorlanamaz.
 (3) Tarafların üzerinde serbestçe tasarruf edebilecekleri dava konusu hakkında, dava
 açıldıktan sonra da tasarruf yetkisi devam eder.
 
-Taraflarca getirilme ilkesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

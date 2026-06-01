@@ -18,7 +18,6 @@ arasındaki müspet farktır.
 (Ek: 1/5/1981-2454/11 md.) Zirai kazancın işletme hesabı esasına göre tespitinde;
 hesap dönemi başındaki mahsullerin değeri giderlere, hesap dönemi sonundaki mahsullerin
 değeri ise hasılata ilave olunur.
-Zirai işletme hesabı esasına göre hasılat:
 
 ### Akademik Yorum ve Analiz
 

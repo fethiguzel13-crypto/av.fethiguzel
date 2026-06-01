@@ -17,7 +17,6 @@ yayımlanan “2026 Yılı Bilirkişilik Asgari Ücret Tarifesi”ne bakınız.
 mahkemenin yargı çevresi dışında ise inceleme istinabe suretiyle yapılır.
 (2) Keşif konusu, büyükşehir belediye sınırları içerisinde ise inceleme, davaya bakan
 mahkeme tarafından da yerine getirilebilir.
-Keşfin yapılması
 
 ### Bizim Yorumumuz
 

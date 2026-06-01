@@ -20,9 +20,6 @@ Mali Suçları Araştırma Kurulu Başkanlığı dışında, işleme taraf olanl
 ile kurum ve kuruluşlara bilgi veremez.
 ALTINCI KISIM
 İdari Para Cezası Gerektiren Fiiller ve Sermaye Piyasası Suçları
-BİRİNCİ BÖLÜM
-İdari Para Cezası Gerektiren Fiiller
-Genel esaslar
 
 ### Bizim Yorumumuz
 

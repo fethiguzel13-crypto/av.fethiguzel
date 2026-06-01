@@ -18,7 +18,6 @@ kovuşturma işlemlerine ilişkin dosyaya konulur.
 (2) Kovuşturmaya yer olmadığı kararına itiraz süresinin dolması, itirazın reddi, beraat
 veya ceza verilmesine yer olmadığı kararı verilip kesinleşmesi hâllerinde söz konusu kayıtlar
 Cumhuriyet savcısının huzurunda derhâl yok edilir ve bu husus tutanağa geçirilir.
-Yönetmelik
 
 ### Bizim Yorumumuz
 

@@ -67,7 +67,6 @@ komisyonlarınca verilen ısrar kararları uygun görülmediği takdirde uygun g
 yerine merkez komisyonunca re'sen ve nihai olarak yeni ölçüler tayin ve tespit olunur.
 (Mülga yedinci fıkra: 1/5/1981-2455/2 md.)
 (Ek sekizinci fıkra: 30/12/1980-2365/7 md.; Mülga: 1/5/1981-2455/2 md.)
-Ziraat birimleri:
 
 ### Bizim Yorumumuz
 

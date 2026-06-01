@@ -32,7 +32,6 @@ yetkisi zamanaşımına uğrar. Disiplin cezasının yargı kararıyla iptal edi
 idareye ulaştığı tarihten itibaren kalan disiplin ceza zamanaşımı süresi içinde; zamanaşımı
 süresinin dolması veya altı aydan daha az süre kalması hâlinde en geç altı ay içinde karar
 gerekçesi dikkate alınarak yeniden disiplin cezası tesis edilebilir.
-Karar süresi:
 
 ### Bizim Yorumumuz
 

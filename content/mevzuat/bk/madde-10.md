@@ -40,7 +40,6 @@ belirlenecek ödeme plânı çerçevesinde Fon hesabına yatırılacağına ili�
 Kuruma ibrazı zorunludur. Sisteme giriş payı bir defaya mahsus olmak üzere alınır. Banka
 hissedarları sisteme giriş payının ödenmesinden müteselsilen sorumludurlar.
 Bu maddenin uygulanmasına ilişkin usûl ve esasları belirlemeye Kurul yetkilidir.
-Kuruluş izninin iptali
 
 ### Bizim Yorumumuz
 

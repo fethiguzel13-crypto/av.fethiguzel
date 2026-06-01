@@ -17,7 +17,6 @@ eder.7
 Ayrıca, Jandarma birlikleri; Genelkurmay Başkanlığının talebi üzerine İçişleri Bakanının,
 illerde ise garnizon komutanının talep etmesi halinde valinin onayıyla kendilerine verilen askeri
 görevleri de yaparlar.
-Hizmet sınırı:
 
 ### Bizim Yorumumuz
 

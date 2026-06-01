@@ -16,11 +16,6 @@ tasfiyenin kapanmasından evvel mirasçılardan biri gelerek mirası kabul eyled
 borçların ödenmesi için mirasçının teminat göstermesi mukabilinde mahkeme tasfiyeyi
 durdurur.
 
-YEDİNCİ BAP
-İflasın hukuki neticeleri
-I – BORÇLUNUN MALLARI HAKKINDA İFLASIN NETİCELERİ:
-İflas masası:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

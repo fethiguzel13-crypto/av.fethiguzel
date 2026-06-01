@@ -72,9 +72,6 @@ ifade eder.
 
 İKİNCİ KISIM
 Vakıflarla İlgili Hükümler
-BİRİNCİ BÖLÜM
-Tüzel Kişilik, Ehliyet, Yönetim, Temsil
-Tüzel kişilik
 
 ### Bizim Yorumumuz
 

@@ -102,7 +102,6 @@ sonunda mirasçılar adına tescil edilmeden karayoluna çıkarıldığının te
 3.000 Türk lirası idari para cezası verilir ve mirasçılar adına tescil ettirilinceye kadar araç
 trafikten menedilir.
 Tescil belgesi ve tescil plakası alma zorunluluğu ile hurdaya ayrılan ve trafikten
-çekilen araçlar:202122
 
 ### Bizim Yorumumuz
 

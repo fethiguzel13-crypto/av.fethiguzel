@@ -27,7 +27,6 @@ görülmüşse o yer mahkemesi de yetkilidir.
 (6) (Ek:8/7/2021-7331/10 md.) Bilişim sistemlerinin, banka veya kredi kurumlarının
 ya da banka veya kredi kartlarının araç olarak kullanılması suretiyle işlenen suçlarda
 mağdurun yerleşim yeri mahkemeleri de yetkilidir.
-Özel yetki
 
 ### Bizim Yorumumuz
 

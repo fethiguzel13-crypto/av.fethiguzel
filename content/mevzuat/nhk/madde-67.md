@@ -15,7 +15,6 @@ bulunanlar ve bunlara tanıklık edenler altı aydan dört yıla kadar hapis cez
 (2) Adrese ilişkin yükümlülükleri yerine getirmeyen ve yasaklara aykırı hareket eden
 kamu görevlileri 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun kamu idaresinin
 güvenirliğine ve işleyişine karşı suçlara ilişkin hükümlerine göre cezalandırılır.
-İdarî para cezaları
 
 ### Bizim Yorumumuz
 

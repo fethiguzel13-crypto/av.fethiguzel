@@ -29,7 +29,6 @@ edilecek isteklilerin seçimi için 17, 18 ve 19 uncu maddeleri hükümlerine ba
 
 
 AÇIK TEKLİF USULÜ
-Açık teklif usulü ile yapılabilecek ihaleler:
 
 ### Bizim Yorumumuz
 

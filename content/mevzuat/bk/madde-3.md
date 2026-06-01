@@ -110,7 +110,6 @@ Kıyı bankacılığı: Bankacılık faaliyetleri, kurulu bulunulan ülke harici
 veya ülke genelinde uygulanan ekonomik ve malî mevzuata tâbi olmayan ya da kurulu
 bulunulan ülkede yerleşik olanlardan mevduat ve fon kabulünün yasaklandığı bankacılığı,
 ifade eder.
-Faaliyet konuları
 
 ### Bizim Yorumumuz
 

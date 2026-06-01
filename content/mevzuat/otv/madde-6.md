@@ -17,7 +17,6 @@ ile ev sahibi hükümet anlaşmaları veya ülkemizin taraf olduğu diğer anla�
 Türkiye’deki uluslararası kuruluşlar ve bunların yönetici kadrolarında görev yapan Türkiye
 Cumhuriyeti vatandaşı olmayan mensupları tarafından Türkiye’de görevde bulundukları süre
 içinde kendi ihtiyaçları için ilk iktisabı, ithali veya bunlara teslimi vergiden müstesnadır.5
-Diğer istisnalar
 
 ### Bizim Yorumumuz
 

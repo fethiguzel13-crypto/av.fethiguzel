@@ -22,7 +22,6 @@ tasarruf edilemez, kamu alacaklarının tahsili amacı da dâhil olmak üzere ha
 yapılabilir.
 (4) Portföy yönetim şirketlerinin üçüncü kişilere olan borçları ve yükümlülükleri ile
 yatırım fonlarının aynı üçüncü kişilerden olan alacakları birbirlerine karşı mahsup edilemez.
-Yatırım fonlarında Kurula tanınan diğer yetkiler
 
 ### Bizim Yorumumuz
 

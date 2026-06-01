@@ -17,7 +17,6 @@ kendisine teslim olunan silah, araç, gereç ve sair bütün askeri eşyayı, ya
 hayvanatı korumaya memur ve mecburdur.
 Her rütbe sahibinin bu maddeye göre vazifeleri de talimatname ile gösterilir.
 J) ASKERLİKTE NÖBET HİZMETLERİ
-I - Genel
 
 ### Bizim Yorumumuz
 

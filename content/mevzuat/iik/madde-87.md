@@ -20,7 +20,6 @@ kayıtlı diğer bilirkişilere yaptırılması zorunludur.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar, Adalet Bakanlığınca yürürlüğe
 konulan yönetmelikle belirlenir.
 Mahcuz malları muhafaza tedbirleri:
-1 – Taşınırlar hakkında:
 
 ### Akademik Yorum ve Analiz
 

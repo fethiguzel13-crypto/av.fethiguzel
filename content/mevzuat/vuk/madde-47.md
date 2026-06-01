@@ -18,7 +18,6 @@ dır.
 Özellik gösteren ziraat nevilerinde Maliye ve Tarım Bakanlıklarınca bu zi raat
 çeşitlerinin mahiyetlerine uygun olarak müştereken belli edilecek diğer birimler kullanılır.
 Bu kanunun uygulanmasında dönüm bin metre karelik toprak parçasıdır.
-Tasdik ve ilan:
 
 ### Bizim Yorumumuz
 

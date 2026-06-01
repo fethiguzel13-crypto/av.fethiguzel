@@ -15,10 +15,6 @@ takdirde, mezkür iratlar, tahsil edildikleri veya kayıtlara intikal ettirildik
 olundukları günün borsa rayici üzerinden, borsada rayici yoksa, Maliye Bakanlığınca tayin
 olunacak kur üzerinden Türk Parasına çevrilir.
 
-YEDİNCİ BÖLÜM
-Diğer Kazanç ve İratlar
-Gelire giren diğer kazanç ve iratlar:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

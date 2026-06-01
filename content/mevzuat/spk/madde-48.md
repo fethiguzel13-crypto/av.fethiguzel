@@ -54,7 +54,6 @@ edebilirler.
 (6) Gayrimenkul yatırım ortaklıklarının, azami oranı Kurulca belirlenecek miktarda
 varlıklarının toptan satışında 6102 sayılı Kanunun 408 inci maddesinin ikinci fıkrasının (f)
 bendi ile bu Kanunun 23 üncü maddesi hükümleri uygulanmaz.
-Değişken sermayeli yatırım ortaklıkları
 
 ### Bizim Yorumumuz
 

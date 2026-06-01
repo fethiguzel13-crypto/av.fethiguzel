@@ -23,7 +23,6 @@ görülmelidir.
 yetkisini tamamen veya kısmen mahalline devredebileceği gibi bölgeler, iller, ilçeler veya
 sektörler ile iş kolları ya da mükellef grupları itibarıyla yazılı başvuru şartı aramaksızın da
 kullanabilir.
-Sürelerin hesaplanması:
 
 ### Bizim Yorumumuz
 

@@ -25,7 +25,6 @@ istinabe evrakını geri çevirmeksizin gereğini yapar.
 sesli iletişim tekniğinin kullanılması suretiyle dinlenebilmeleri olanağının varlığı hâlinde bu
 yöntem uygulanarak ifade alınır. Buna olanak verecek teknik donanımın kurulmasına ve
 kullanılmasına ilişkin esas ve usuller yönetmelikte gösterilir.
-Tanık ve bilirkişinin dinleneceği günün bildirilmesi
 
 ### Bizim Yorumumuz
 

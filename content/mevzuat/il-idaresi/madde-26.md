@@ -16,8 +16,6 @@ dilek ve ihtiyaçlarını yerli yerinde gözden geçirerek gereğini yaparlar.
 alınmış bulunan karar ve tedbirlerin sonuçları ve bunların halk üzerindeki etkileri hakkında yıl
 sonunda veya lüzum gördükleri sair zamanlarda Cumhurbaşkanlığına ve ilgili Bakanlıklara
 rapor verirler.17
-BÖLÜM: III
-İlçe İdaresi ve Teşkilatı
 
 ### Bizim Yorumumuz
 

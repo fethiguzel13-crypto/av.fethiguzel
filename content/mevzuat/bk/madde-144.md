@@ -14,7 +14,6 @@ kabulünde uygulanacak azamî faiz oranlarını, katılma hesaplarında kâr ve 
 oranlarını, özel cari hesaplar dâhil her türlü işlemlerinden elde edecekleri ücret, masraf,
 komisyon ve diğer menfaatlerin nitelikleri ile azamî miktar ya da oranlarını tespit etmeye,
 bunları kısmen veya tamamen serbest bırakmaya yetkilidir. (Mülga cümle:20/2/20207222/13 md.) (…)64
-Parasal tutarlar
 
 ### Bizim Yorumumuz
 

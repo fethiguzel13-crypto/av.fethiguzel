@@ -34,7 +34,6 @@ Fonun hazırlayacağı düzenleme taslakları en az yedi gün süreyle Fonun int
 sayfası başta olmak üzere uygun vasıtalarla kamuoyunun bilgisine sunulur.
 Kamu kurum ve kuruluşları, Kanun ve Cumhurbaşkanlığı Kararnameleriyle
 belirlenmiş görev alanlarında Fona gerekli yardımı sağlamakla yükümlüdür.53
-Fonun bilgi ve belge isteme yetkisi
 
 ### Bizim Yorumumuz
 

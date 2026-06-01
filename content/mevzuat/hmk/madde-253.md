@@ -16,7 +16,6 @@ cezasına ve bu yüzden doğan giderleri ödemesine hükmedilerek, yeniden dinle
 yargılama başka güne bırakılır.
 (2) Tanık kendisine sorulan sorulara cevap vermez veya yemin etmemekte direnirse o
 mahkemece iki haftayı geçmemek üzere disiplin hapsine mahkûm edilir.
-Tanığın kimliğinin tespiti
 
 ### Bizim Yorumumuz
 

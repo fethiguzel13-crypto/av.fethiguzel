@@ -16,7 +16,6 @@ inci maddeye göre kazandığı kademe aylığını alır.
 (Ek: 12/2/1982 - 2595/12 md.) Ancak, yürütülmekte olan görevin niteliğinde bir
 değişme olmaması halinde derece yükselmesine ilişkin onayın geçerlilik tarihini takip eden ay
 başından itibaren bu derecenin 161 inci maddeye göre kazandığı kademe aylığını alır.
-Başka bir sınıfa geçmede aylığa hak kazanma:
 
 ### Bizim Yorumumuz
 

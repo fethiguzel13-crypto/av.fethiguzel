@@ -185,9 +185,6 @@ Kanununun 232 nci maddesinde yer alan ve ilgili yılda uygulanmakta olan haddi, 
 uygulamasında asgari tutar olarak belirlemeye ve belirlenen bu tutarı iki katına kadar
 artırmaya, sıfıra kadar indirmeye yetkilidir. Maliye Bakanlığı, istisna kapsamına girecek
 teslim ve hizmetleri tanımlamaya, istisnaya ilişkin usul ve esasları belirlemeye yetkilidir.20
-ÜÇÜNCÜ BÖLÜM
-Taşımacılık İstisnası
-Transit taşımacılık:21
 
 ### Bizim Yorumumuz
 

@@ -33,7 +33,6 @@ olması hâlinde, görüşü de alınır. Kanunî temsilci de şüpheli veya san
 tarafından karar verilir. Ancak, bu hâlde elde edilen deliller davanın ileri aşamalarında
 şüpheli veya sanık olmayan kanunî temsilcinin izni olmadıkça kullanılamaz.
 (5) Bu madde gereğince verilen hâkim veya mahkeme kararlarına itiraz edilebilir.
-Kadının muayenesi
 
 ### Bizim Yorumumuz
 

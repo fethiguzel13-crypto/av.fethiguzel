@@ -25,7 +25,6 @@ h) Davacının, dava açmakta hukuki yararının bulunması.
 ı) Aynı davanın, daha önceden açılmış ve hâlen görülmekte olmaması.
 i) Aynı davanın, daha önceden kesin hükme bağlanmamış olması.
 (2) Diğer kanunlarda yer alan dava şartlarına ilişkin hükümler saklıdır.
-Dava şartlarının incelenmesi
 
 ### Bizim Yorumumuz
 

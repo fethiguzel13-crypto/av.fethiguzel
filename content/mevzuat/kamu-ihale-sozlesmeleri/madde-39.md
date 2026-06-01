@@ -178,7 +178,6 @@ uygulanmasına ilişkin esas ve usulleri, 8 inci maddeye göre belirlenen esas v
 alınmak suretiyle tespite Cumhurbaşkanı yetkilidir.11
 Geçici 5 inci maddenin altıncı ve yedinci fıkraları kapsamındaki yapım işleri sözleşmeleri
 için bu maddeye uygun olarak ilgili mevzuatında düzenleme yapılabilir.12
-Yürürlük
 
 ### Bizim Yorumumuz
 

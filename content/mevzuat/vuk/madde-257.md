@@ -215,9 +215,6 @@ fişi ve/veya ihbarnamenin muhatabına tebliği yerine geçer.
 Değerleme
 BİRİNCİ KISIM
 İktisadi Kıymet Değerleri
-BİRİNCİ BÖLÜM
-Değerleme Esasları
-Değerlemenin tarifi:
 
 ### Bizim Yorumumuz
 

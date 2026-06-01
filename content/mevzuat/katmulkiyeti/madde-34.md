@@ -28,7 +28,6 @@ yöneticiden teminat göstermesini istiyebilir.
 başvurması üzerine aynı mahkemece, elli Türk Lirasından ikiyüzelli Türk Lirasına kadar idarî
 para cezası verilir.
 II - Yöneticinin görevleri:
-1. Genel yönetim işlerinin görülmesi:
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ başvurmak ve beyanda bulunmakla görevlidir.
 (2) Verilen süre içerisinde bildirim yapılmaması halinde mülkî idare amirinin göreceği
 lüzum üzerine kolluk kuvvetlerince bunların zorla getirilmesi için gereken işlem yapılarak
 çocuğun aile kütüklerine tescili sağlanır.
-Bildirimle yükümlü diğer görevliler4
 
 ### Bizim Yorumumuz
 

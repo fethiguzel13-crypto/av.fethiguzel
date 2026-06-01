@@ -22,7 +22,6 @@ g) İstemler, reddi halinde gerekçesi,
 h) Verilen kararlar,
 i) Hüküm,
 yer alır.
-Duruşma tutanağının ispat gücü
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ Kat malikleri anagayrimenkulün sigortasıyla giderilemeyecek olan zararlarını
 halde alınacak sigorta bedeli, anagayrimenkulün sigorta bedelindeki payları da ayrıca saklı
 kalmak üzere, yalnız kendilerine ait olur.
 Sigorta hakkındaki emredici hükümler saklıdır.
-V - Ortak giderlerin teminatı:
 
 ### Bizim Yorumumuz
 

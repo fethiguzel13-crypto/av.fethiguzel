@@ -54,7 +54,6 @@ yayaların, trafiği engelleyecek veya tehlikeye düşürecek şekilde davranı�
 veya buraları saygısızca kullanmaları yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan yayalar 1 800 000
 lira para cezası ile cezalandırılırlar.
-Hayvanla çekilen, elle sürülen araçları sürenler ile hayvan sürücülerine ait kurallar:
 
 ### Bizim Yorumumuz
 

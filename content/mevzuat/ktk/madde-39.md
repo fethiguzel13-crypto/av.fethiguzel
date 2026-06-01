@@ -24,7 +24,6 @@ belgelerinden harç alınmaz. Geçerlilik süresi dolan sürücü belgesi ile ar
 343 Türk Lirası idari para cezası verilir ve sürücü belgesi geri alınır.
 Dış ülkelerden aldıkları sürücü belgeleri ile yönetmelikte belirtilen süre ve şartlara
 aykırı olarak araç kullananlar hakkında her seferinde 343 Türk Lirası idari para cezası verilir.
-Dış ülkelerden alınmış olan sürücü belgeleri:
 
 ### Bizim Yorumumuz
 

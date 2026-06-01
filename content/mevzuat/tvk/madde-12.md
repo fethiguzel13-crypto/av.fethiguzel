@@ -23,7 +23,6 @@ c) Vatandaşlığa alınması zaruri görülen kişiler.
 d) Göçmen olarak kabul edilen kişiler.
 (2) (Ek: 19/10/2017-7039/29 md.) Millî güvenlik ve kamu düzeni bakımından engel
 teşkil edecek hali bulunanların talepleri Bakanlıkça reddedilir.
-Türk vatandaşlığının ikamet şartı aranmaksızın yeniden kazanılması
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ düzenlenmesine esas olan her türlü belgeleri imza edenler bir yıldan üç y�
 binbeşyüz günden az olmamak üzere adlî para cezası ile cezalandırılır. Gerçeğe aykırı olarak
 düzenlendiğini bildiği halde bu belgeleri onaylayan bağımsız denetim kuruluşu görevlileri de
 aynı şekilde cezalandırılır.
-Sistemi engelleme, bozma, verileri yok etme veya değiştirme
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ ortak yetkiyi taşıyan bir mahkeme belirtilmişse, davaya o yer mahkemesinde ba
 yerleşim yeri mahkemesinden başka bir mahkemeye getirmek amacıyla açıldığı, deliller veya
 belirtilerle anlaşılırsa, mahkeme, ilgili davalının itirazı üzerine, onun hakkındaki davayı
 ayırarak yetkisizlik kararı verir.
-Bir yerde geçici olarak oturanlara karşı açılacak davalarda yetki
 
 ### Bizim Yorumumuz
 

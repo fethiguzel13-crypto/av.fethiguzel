@@ -18,7 +18,6 @@ verebilir.
 Keşfin ve sözleşmenin dışında kalmış fakat yapılması ihaleden sonra kararlaştırılmış
 işlerle, değişken fiyat esasına göre ihale edilmiş işlerde kesin teminat, artan iş veya fiyat farkı
 olarak ödenecek bedel oranında artırılır.
-Kesin teminatın geri verilmesi:
 
 ### Bizim Yorumumuz
 

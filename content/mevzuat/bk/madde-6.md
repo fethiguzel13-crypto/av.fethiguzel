@@ -25,7 +25,6 @@ durdurulması hususları Kurul kararıyla belirlenir.
 Yurt dışında kurulu bankalar, mevduat veya katılım fonu kabul etmemek ve Kurulca
 belirlenecek esaslara göre faaliyet göstermek kaydıyla, Kurulun izni ile Türkiye'de temsilcilik
 açabilirler.
-Kuruluş şartları
 
 ### Bizim Yorumumuz
 

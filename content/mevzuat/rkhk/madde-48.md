@@ -17,7 +17,6 @@ yapılacak incelemeye göre, soruşturma safhasının bitiminden sonra 30 gün i
 Sözlü savunma yapılmasına karar verilmesine rağmen ilgili tarafların sözlü savunmaya
 gelmemesi halinde karar, belirlenmiş toplantı tarihinden sonraki bir hafta içinde dosya
 üzerinde yapılacak incelemeye göre verilir.
-Görüşmelerin Gizliliği
 
 ### Bizim Yorumumuz
 

@@ -81,8 +81,6 @@ suretle basit usulde vergilendirilmezler.” ibaresi “edilenlerin kazançları
 tespit edilmez.” şeklinde değiştirilmiştir.
 50
 
-Basit usule tabi olmanın genel şartları:53
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

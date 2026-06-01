@@ -18,9 +18,6 @@ mahkeme tarafından takdirinde göz önünde bulundurulur.
 yaptırılabilir.
 (3) Mahkeme veya çocuk hâkimi tarafından çocuk hakkında sosyal inceleme
 yaptırılmaması hâlinde, gerekçesi kararda gösterilir.
-DÖRDÜNCÜ BÖLÜM
-Denetim
-Denetim altına alma kararı
 
 ### Bizim Yorumumuz
 

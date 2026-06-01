@@ -40,7 +40,6 @@ kararlarını internet ortamı başta olmak üzere uygun vasıtalarla kamuoyuna 
 (7) Kurul üyeleri ile Kurul personelinin uyacakları mesleki ve etik ilkeler ile Kurul
 Karar Organının çalışma usul ve esaslarına ilişkin diğer hususlar Kurul tarafından çıkarılacak
 yönetmelikle düzenlenir.
-Başkan
 
 ### Bizim Yorumumuz
 

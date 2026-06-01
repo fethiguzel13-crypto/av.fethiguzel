@@ -36,7 +36,6 @@ Vergi cüzdanlarındaki her türlü bilgiler tahsil daireleri tarafından, tahsi
 ise tahsil daireleri, postaneler veya bankalar tarafından yazılır, imzalanır ve mühürlenir.
 Tahsil daireleri, bankalar ve postaneler tarafından vergi cüzdanlarına yapılan kayıtlar
 damga vergisinden muaftır.
-Ödemenin ispatı:
 
 ### Bizim Yorumumuz
 

@@ -30,7 +30,6 @@ Bakanlığı tarafından hazırlanacak çerçeve yönetmeliğe uygun olarak bele
 
 
 tarafından çıkarılacak bir yönetmelikle düzenlenir.44
-Şirket kurulması
 
 ### Bizim Yorumumuz
 

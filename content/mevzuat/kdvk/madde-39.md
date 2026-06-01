@@ -22,7 +22,6 @@ c) İthalat, transit ve Türkiye ile yabancı ülkeler arasındaki taşımacıl�
 3. Maliye ve Gümrük Bakanlığı, mükellefleri gruplar içinde toplamaya ve gruplar için
 vergilendirme dönemlerinin başlangıç aylarını tespit etmeye yetkilidir. Bu takdirde üçer aylık
 dönemlerin aynı takvim yılı içinde olması şartı aranmaz.
-Beyan esası:
 
 ### Bizim Yorumumuz
 

@@ -40,7 +40,6 @@ kuruluşuna intikalinden itibaren otuz gün içinde bu kurum ve kuruluş tarafı
 işlemlerinin yapılması zorunludur. Bunlardan unvanları müdür ve daha üst olanlar ile danışma
 işlevlerine ilişkin kadrolarda çalışanlar Araştırmacı kadrolarına, diğerleri ise durumlarına
 uygun kadrolara atanırlar.
-Memurluktan çekilenlerin yeniden atanmaları:
 
 ### Bizim Yorumumuz
 

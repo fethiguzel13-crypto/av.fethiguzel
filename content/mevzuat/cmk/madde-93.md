@@ -13,8 +13,6 @@ Madde 93 – (1) Yakalanan veya tutuklanarak bir yerden diğer bir yere nakledil
 kişilere, kaçacaklarına ya da kendisi veya başkalarının hayat ve beden bütünlükleri
 bakımından tehlike arz ettiğine ilişkin belirtilerin varlığı hâllerinde kelepçe takılabilir.
 
-Yakalanan kişinin mahkemeye götürülmesi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

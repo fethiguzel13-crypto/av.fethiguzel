@@ -28,7 +28,6 @@ Tedbiri uygulayan memur, bu tutanağın bir örneğini tedbir sırasında hazır
 taraflara ve duruma göre üçüncü kişiye tebliğ eder.
 (5) İhtiyati tedbir kararları hakkında kanun yoluna başvurulması hâlinde, tedbire
 ilişkin dosya ve delillerin sadece örnekleri ilgili mahkemeye gönderilir.
-İhtiyati tedbir kararına karşı itiraz
 
 ### Bizim Yorumumuz
 

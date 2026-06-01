@@ -18,7 +18,6 @@ hazırlanacak bir genel yönetmelikle düzenlenir.
 (Mülga üçüncü fıkra: 13/2/2011-6111/99 md.)
 (Ek: 30/5/1997 – KHK-572/14 md.; Mülga dördüncü fıkra: 13/2/2011 - 6111/99
 md.)
-Sınav sonuçları:
 
 ### Bizim Yorumumuz
 

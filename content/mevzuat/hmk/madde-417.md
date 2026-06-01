@@ -18,7 +18,6 @@ tahkim usulünde öngörülen bir ret sebebi mevcut bulunduğu veya tarafsızlı
 edilmeyi haklı gösteren durum ve koşullar gerçekleştiği takdirde reddedilebilir. Taraflardan
 birisinin kendisinin atadığı veya atanmasına katıldığı hakemi reddetmesi, yalnızca hakemin
 atanma tarihinden sonra öğrenilen ret sebeplerine dayanılarak yapılabilir.
-Hakemin reddi usulü
 
 ### Bizim Yorumumuz
 

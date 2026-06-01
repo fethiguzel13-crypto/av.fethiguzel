@@ -15,8 +15,6 @@ bunun miktarı ayrıca gösterilir.
 2. Katma Değer Vergisinin fatura ve benzeri vesikalarda ayrıca gösterilmesine gerek
 görülmeyen işlemlerde yukardaki hüküm uygulanmaz.
 
-Verginin gider kaydedilemeyeceği:104
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

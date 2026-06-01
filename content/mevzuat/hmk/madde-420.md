@@ -17,7 +17,6 @@ aralarında uyuşmazlık olursa, mahkemeden hakemin yetkisinin sona erdirilmesi 
 karar verilmesini isteyebilir. Mahkemenin vereceği karar kesindir.
 (3) Hakemin görevinden çekilmesi veya diğer tarafın hakemin yetkisinin sona
 ermesine muvafakat etmesi, hakemin ret sebeplerinin varlığının kabulü anlamına gelmez.
-Yeni hakem seçilmesi
 
 ### Bizim Yorumumuz
 

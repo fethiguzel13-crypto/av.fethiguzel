@@ -26,7 +26,6 @@ evresinde mahkeme tarafından verilir. Mezardan çıkarma kararı, araştırman�
 tehlikeye düşürmeyecekse ve ulaşılması da zor değilse ölünün bir yakınına derhâl bildirilir.
 (5) Yukarıdaki fıkralarda sözü edilen işlemler yapılırken, cesedin görüntüleri kayda
 alınır.
-Yeni doğanın cesedinin adlî muayenesi veya otopsi
 
 ### Bizim Yorumumuz
 

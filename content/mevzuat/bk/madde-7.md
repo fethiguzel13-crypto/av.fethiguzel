@@ -32,7 +32,6 @@ sistemi de dahil olmak üzere ibraz etmesi,
 Kalkınma ve yatırım bankaları için ödenmiş sermaye, birinci fıkranın (f) bendinde
 belirtilen tutarın üçte ikisinden az olamaz.
 Bu maddenin uygulamasına ilişkin usûl ve esaslar Kurulca belirlenir.
-Kurucularda aranan şartlar
 
 ### Bizim Yorumumuz
 

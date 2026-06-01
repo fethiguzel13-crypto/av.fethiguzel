@@ -34,7 +34,6 @@ Kanunun geçici maddesine bakınız.
 İtirazın kabulü hâlinde, disiplin amirleri kararı gözden geçirerek verilen cezayı
 hafifletebilir veya tamamen kaldırabilirler.
 Disiplin cezalarına karşı idari yargı yoluna başvurulabilir.
-İtiraz süresi ve yapılacak işlem:
 
 ### Bizim Yorumumuz
 

@@ -15,7 +15,6 @@ haciz varakası üzerine köy ihtiyar kurullarınca yapılır.
 Bakanlığınca tespit ve ilan edilecek vergiler için muhtarın veya ihtiyar kurulu üyelerinden
 birinin huzuriyle tahsil dairesine menkul mal haczi yaptırmaya o mahallin en büyük mal
 memuru yetkilidir.
-Borçlu elinde haczedilen mallara karşı istihkak iddiaları:
 
 ### Bizim Yorumumuz
 

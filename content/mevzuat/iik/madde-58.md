@@ -35,7 +35,6 @@ tarafından tasdik edilmiş, borçlu sayısından bir fazla örneğinin takip ta
 dairesine tevdii mecburidir.
 Alacaklıya takip talebinde bulunduğuna ve verdiği belgelere, talep ve takip
 masraflarına dair bedava ve pulsuz bir makbuz verilir.
-Takip masrafları:
 
 ### Bizim Yorumumuz
 

@@ -13,7 +13,6 @@ Madde 200 – (1) Sanığın yüzüne karşı suç ortaklarından birinin veya b
 gerçeği söylemeyeceğinden endişe edilirse, mahkeme, sorgu ve dinleme sırasında o sanığın
 mahkeme salonundan çıkarılmasına karar verebilir.
 (2) Sanık tekrar getirildiğinde, tutanaklar okunur ve gerektiğinde içeriği anlatılır.
-Doğrudan soru yöneltme
 
 ### Bizim Yorumumuz
 

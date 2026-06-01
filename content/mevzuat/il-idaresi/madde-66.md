@@ -18,7 +18,6 @@ uyarınca cezalandırılır. (Ek cümle: 27/3/2015 - 6638/16 md.) Ancak, kamu d�
 güvenliğini veya kişilerin can ve mal emniyetini tehlikeye düşürecek toplumsal olayların baş
 göstermesi hâlinde vali tarafından kamu düzenini sağlamak amacıyla alınan ve usulüne göre
 ilan olunan karar ve tedbirlere aykırı davrananlar, üç aydan bir yıla kadar hapis cezasıyla
-cezalandırılır.
 
 ### Bizim Yorumumuz
 

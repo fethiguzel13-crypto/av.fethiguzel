@@ -37,7 +37,6 @@ organizasyonu değişikliğinin gerekli kıldığı fesih hakları veya işçi v
 sebeplerden derhal fesih hakları saklıdır.
 Yukarıdaki hükümler, iflas dolayısıyla malvarlığının tasfiyesi sonucu işyerinin veya
 bir bölümünün başkasına devri halinde uygulanmaz.
-Geçici iş ilişkisi
 
 ### Akademik Yorum ve Analiz
 

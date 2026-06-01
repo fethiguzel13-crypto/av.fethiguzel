@@ -26,7 +26,6 @@ geliştirmek için çalışacağıma; insan haklarına ve Anayasanın temel ilke
 demokratik, laik, bir hukuk devleti olan Türkiye Cumhuriyetine karşı görev ve
 sorumluluklarını bilerek, bunları davranış halinde göstereceğime namusum ve şerefim üzerine
 yemin ederim.
-Tarafsızlık ve devlete bağlılık:
 
 ### Akademik Yorum ve Analiz
 

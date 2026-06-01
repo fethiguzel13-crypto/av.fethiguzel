@@ -33,7 +33,6 @@ Bu maddenin uygulanmasına ait usul ve esaslar yönetmelikle düzenlenir.
 (Ek fıkra: 3/7/2003-4916/32 md.) Trafik para cezaları kredi kartı ile de ödenebilir.
 Kredi kartı ile yapılan tahsilatın saymanlık hesaplarına aktarılma süresi ile uygulamaya ilişkin
 usul ve esaslar Hazine ve Maliye Bakanlığınca belirlenir.82
-Para cezalarının ödenme süresi:
 
 ### Bizim Yorumumuz
 

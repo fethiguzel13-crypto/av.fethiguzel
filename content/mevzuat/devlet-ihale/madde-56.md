@@ -25,7 +25,6 @@ Müteahhidin bu iş nedeniyle idareye ve Sosyal Sigortalar Kurumuna olan borçla
 ücret ve ücret sayılan ödemelerden yapılan kanuni vergi kesintilerinin kesin kabul tarihine
 kadar ödenmemesi halinde, teminat 54 üncü madde hükmüne göre paraya çevrilerek
 borçlarına karşılık tutulur. Varsa kalanı müteahhide geri verilir.
-Sözleşme yapılmasında müteahhit veya müşterinin görev ve sorumluluğu:
 
 ### Bizim Yorumumuz
 

@@ -57,7 +57,6 @@ kuruluna bildirilir. Bir iflâs idare memuru, eş zamanlı olarak beşten fazla 
 alamaz. İflâs idare memurlarının nitelikleri, denetimi, eğitimi, eğitim verecek kurumlar ve
 eğitimden muaf tutulacaklar ile bu maddenin uygulanmasına ilişkin diğer hususlar Adalet
 Bakanlığınca yürürlüğe konulan yönetmelikte belirlenir.
-Toplanmada verilen kararlar:
 
 ### Akademik Yorum ve Analiz
 

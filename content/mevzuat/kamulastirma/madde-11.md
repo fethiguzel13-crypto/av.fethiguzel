@@ -42,7 +42,6 @@ getireceği kâr dikkate alınmaz.
 Kamulaştırma yoluyla irtifak hakkı tesisinde, bu kamulaştırma sebebiyle taşınmaz mal
 veya kaynakta meydana gelecek kıymet düşüklüğü gerekçeleriyle belirtilir. Bu kıymet
 düşüklüğü kamulaştırma bedelidir.
-Kısmen kamulaştırma
 
 ### Akademik Yorum ve Analiz
 

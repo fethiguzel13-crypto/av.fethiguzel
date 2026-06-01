@@ -41,8 +41,6 @@ payların çoğunluğu ile karar alınır. Bu işlemlerde, 6102 sayılı Kanunun
 fıkrasına göre taraf olan ortaklar bu işlemlerin onaylanacağı genel kurul toplantılarında oy
 kullanamazlar. Bu fıkrada belirtilen nisapları hafifleten esas sözleşme hükümleri geçersizdir.
 
-Genel kurul toplantısına katılım ve oy kullanma
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

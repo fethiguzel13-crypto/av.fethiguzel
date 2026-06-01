@@ -20,7 +20,6 @@ iddianın genişletilmesi yasağına tabi olmaksızın talebini tam ve kesin ola
 Aksi takdirde dava, talep sonucunda belirtilen miktar veya değer üzerinden görülüp karara
 bağlanır.
 (3) (Mülga:22/7/2020-7251/7 md.)
-İnşaî dava
 
 ### Bizim Yorumumuz
 

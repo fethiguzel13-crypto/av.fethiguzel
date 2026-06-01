@@ -20,7 +20,6 @@ c) İstem, sadece davayı uzatmak maksadıyla yapılmışsa.
 (3) Cumhuriyet savcısı ile sanık veya müdafii birlikte rıza gösterirlerse, tanığın
 dinlenmesinden veya başka herhangi bir delilin ortaya konulmasından vazgeçilebilir.
 (4) (Mülga: 25/5/2005 - 5353/29 md.)
-Delil ve olayın geç bildirilmesi
 
 ### Bizim Yorumumuz
 

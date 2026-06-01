@@ -50,7 +50,6 @@ yargıçlarının salahiyetine dahil bulunanlar hakkında da karar vermeye yetki
 İhbar üzerine yapılan aramada ihbar sabit olmazsa nezdinde arama yapılan kimse
 muhbirin adının bildirilmesini istiyebilir, bu takdirde, vergi dairesi muhbirin ismini
 bildirmeye mecburdur.
-Aramada bulunan defter ve vesikalar:
 
 ### Bizim Yorumumuz
 

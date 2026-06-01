@@ -14,9 +14,6 @@ bulunan tarafa yükletilir. Ancak, karşı taraf eski hâle getirme talebine kar
 
 ileri sürerek giderlerin artmasına sebep olmuşsa, hâkim, giderlerin tümünün veya bir kısmının
 karşı tarafa yükletilmesine karar verebilir.
-ÜÇÜNCÜ AYIRIM
-Adli Tatil
-Adli tatil süresi
 
 ### Bizim Yorumumuz
 

@@ -28,7 +28,6 @@ tedbir konulamaz.
 (Ek fıkra: 17/9/2004 – 5234/9 md.) Bu Kanun kapsamında teminat olarak kabul
 edilecek geçici, kesin ve avans teminat mektuplarının kapsam ve şeklini tespite Maliye
 Bakanlığı yetkilidir.
-Teminat mektupları:10
 
 ### Bizim Yorumumuz
 

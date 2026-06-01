@@ -25,8 +25,6 @@ giderin Devlet Hazinesine yüklenmesine karar verilir.
 görevlendirilen tercümanın giderleri, yargılama gideri sayılmaz ve bu giderler Devlet
 Hazinesince karşılanır.
 
-Sanığın yükümlülüğü
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

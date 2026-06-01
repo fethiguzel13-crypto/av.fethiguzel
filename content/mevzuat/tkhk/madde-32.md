@@ -16,7 +16,6 @@ bu kredilerin yeniden finansmanı amacıyla kredi kullandırılmasına yönelik 
 (2) Konut finansmanı sözleşmesi yazılı veya mesafeli olarak kurulmadıkça geçerli
 olmaz. Geçerli bir sözleşme yapmamış olan konut finansmanı kuruluşu, sonradan sözleşmenin
 geçersizliğini tüketicinin aleyhine olacak şekilde ileri süremez.6
-Sözleşme öncesi bilgilendirme yükümlülüğü
 
 ### Bizim Yorumumuz
 

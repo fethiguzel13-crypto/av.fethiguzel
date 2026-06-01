@@ -21,7 +21,6 @@ kavuşturabilecek nitelikte olan bilgileri tutanağa kaydettirir.
 ilgili olarak uygulanır.
 (4) Cumhurbaşkanının tanıklığı söz konusu olduğunda sırrın niteliğini ve mahkemeye
 bildirilmesi hususunu kendisi takdir eder.
-Kendisi veya yakınları aleyhine tanıklıktan çekinme
 
 ### Bizim Yorumumuz
 

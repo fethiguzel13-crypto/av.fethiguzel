@@ -33,7 +33,6 @@ sermaye veya oy hakkı şartı aranmaz.
 bendi aynı şartlarla dar mükellef kurumlar hakkında da uygulanır. Şu kadar ki, devralan
 kurum tarafından devralınan değerlere karşılık olarak verilen iştirak hisseleri, Türkiye’deki iş
 yeri veya daimî temsilcinin aktifine kaydedilir.
-Yabancı ulaştırma kurumlarında kurum kazancının tespiti
 
 ### Bizim Yorumumuz
 

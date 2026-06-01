@@ -17,7 +17,6 @@ zorunludur.
 kamuya duyurulmasına ilişkin usul ve esasları belirler.
 (3) İhraç belgesinde yer alan bilgilerin yanlış, yanıltıcı ve eksik olmasından
 kaynaklanan sorumluluk hakkında 32 nci madde uygulanır.
-Sermaye piyasası araçlarının satışı
 
 ### Bizim Yorumumuz
 

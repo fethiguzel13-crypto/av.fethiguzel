@@ -32,7 +32,6 @@ DOKUZUNCU BÖLÜM
 
 
 Ceza Hükümleri
-Gizliliğin ihlali
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ yargılama usulü uygulanır.
 geçerlidir.
 (3) Mahkemeler dışındaki resmî makamlara bırakılan çekişmesiz yargı işlerinde
 uygulanacak usul, ilgili özel kanunlarında belirtilen hükümlere tabidir.
-Mühürleme, deftere geçirme ve yemin tutanağı düzenlenmesi usulü
 
 ### Bizim Yorumumuz
 

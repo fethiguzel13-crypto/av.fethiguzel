@@ -40,7 +40,6 @@ Bu kimselerin görevlerine dönmek istemeleri halinde; bu Kanunun sınav veya se
 ile ilgili hükümleri dikkate alınmak suretiyle, birinci fıkra kapsamındaki görevlerde
 geçirdikleri hizmet sürelerinin her yılı bir kademe ilerlemesine ve her 3 yılı bir derece
 yükselmesine esas olacak şekilde ve boş kadro bulunduğu takdirde değerlendirilir.
-Bilgilerini artırmak üzere dış memleketlere gönderilme:
 
 ### Akademik Yorum ve Analiz
 

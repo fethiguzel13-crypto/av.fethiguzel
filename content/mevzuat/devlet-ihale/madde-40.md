@@ -25,7 +25,6 @@ bu istekliler dahil edilmek suretiyle yapılır.
 (Ek fıkra: 25/1/2007-5577/1 md.) Komisyon, uygun gördüğü her aşamada oturumda
 hazır bulunan isteklilerden yazılı son tekliflerini alarak ihaleyi sonuçlandırabilir. Bu husus,
 ihale komisyonunca ikinci bir tutanakla tespit edilir.
-İhale sonucunun karara bağlanması:
 
 ### Bizim Yorumumuz
 

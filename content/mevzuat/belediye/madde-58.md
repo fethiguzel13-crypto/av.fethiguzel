@@ -14,9 +14,6 @@ Kanunda hüküm bulunmayan durumlarda 5018 sayılı Kamu Malî Yönetimi ve Kont
 ile diğer kanunların ilgili hükümleri uygulanır.
 BEŞİNCİ KISIM
 Malî Hükümler
-BİRİNCİ BÖLÜM
-Belediyenin Gelir ve Giderleri
-Belediyenin gelirleri
 
 ### Bizim Yorumumuz
 

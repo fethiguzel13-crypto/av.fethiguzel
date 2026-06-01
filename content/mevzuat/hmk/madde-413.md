@@ -15,8 +15,6 @@ tahkim sözleşmesi hükümsüz, tesirsiz veya uygulanması imkânsız değil is
 itirazını kabul eder ve davayı usulden reddeder.
 (2) Tahkim itirazının ileri sürülmesi, tahkim yargılamasına engel değildir.
 
-İhtiyati tedbir ve delil tespiti
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

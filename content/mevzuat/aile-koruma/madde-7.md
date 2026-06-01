@@ -13,7 +13,6 @@ MADDE 7 – (1) Şiddet veya şiddet uygulanma tehlikesinin varlığı hâlinde 
 durumu resmi makam veya mercilere ihbar edebilir. İhbarı alan kamu görevlileri bu Kanun
 kapsamındaki görevlerini gecikmeksizin yerine getirmek ve uygulanması gereken diğer
 tedbirlere ilişkin olarak yetkilileri haberdar etmekle yükümlüdür.
-Tedbir kararının verilmesi, tebliği ve gizlilik
 
 ### Bizim Yorumumuz
 

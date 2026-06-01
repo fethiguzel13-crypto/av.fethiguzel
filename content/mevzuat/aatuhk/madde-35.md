@@ -43,7 +43,6 @@ tutarlar için asıl amme borçlusuna rücu edebilirler.
 tarihli ve E.: 2014/144, K.: 2015/29 sayılı Kararı ile.)
 (Ek fıkra: 4/6/2008-5766/4 md.; İptal fıkra: Anayasa Mahkemesi’nin 19/3/2015
 tarihli ve E.: 2014/144, K.: 2015/29 sayılı Kararı ile.)
-Birleşme, devir, bölünme ve şekil değiştirme halleri:10
 
 ### Bizim Yorumumuz
 

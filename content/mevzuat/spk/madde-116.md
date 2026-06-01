@@ -13,9 +13,6 @@ MADDE 116 – (1) Bu Kanunda tanımlanan veya atıfta bulunulan suçlardan dolay
 yargılama yapmaya Hâkimler ve Savcılar Yüksek Kurulunun ihtisas mahkemesi olarak
 
 görevlendireceği asliye ceza mahkemeleri yetkilidir.
-YEDİNCİ KISIM
-Sermaye Piyasası Kuruluna İlişkin Esaslar
-Kuruluş ve bağımsızlık
 
 ### Bizim Yorumumuz
 

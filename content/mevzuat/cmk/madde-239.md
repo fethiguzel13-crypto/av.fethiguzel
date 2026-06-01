@@ -16,7 +16,6 @@ fazla hapis cezasını gerektiren suçlarda, baro tarafından kendisine avukat g
 isteyebilir.82
 (2) Mağdur veya suçtan zarar görenin çocuk, sağır ve dilsiz veya kendisini
 savunamayacak derecede akıl hastası olması halinde avukat görevlendirilmesi için istem aranmaz.
-Katılmanın davaya etkisi
 
 ### Bizim Yorumumuz
 

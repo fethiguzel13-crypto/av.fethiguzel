@@ -15,7 +15,6 @@ almadan karar verir. Ayrıca hâkim, kötüniyetle ıslaha başvuranı, karşı 
 uğradığı bütün zararlarını ödemeye ve beşyüz Türk Lirasından beşbin Türk Lirasına kadar
 
 disiplin para cezasına mahkûm eder.
-Maddi hataların düzeltilmesi
 
 ### Bizim Yorumumuz
 

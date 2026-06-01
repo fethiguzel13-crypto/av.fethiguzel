@@ -27,9 +27,6 @@ adı, unvanı ve adresi;
 Bu maddede yazılı makbuzlar hiçbir resim ve harca tabi değildir.
 (Ek: 30/12/1980-2365/38 md.) Müstahsil makbuzları seri ve sıra numarası dahilinde
 teselsül ettirilir.
-ÜÇÜNCÜ BÖLÜM
-Serbest Meslek Makbuzları
-Makbuz mecburiyeti:
 
 ### Bizim Yorumumuz
 

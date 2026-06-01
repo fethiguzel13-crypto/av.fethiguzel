@@ -21,7 +21,6 @@ d) Hukuki işlemlere ve senetlere karşı üçüncü kişilerin muvazaa iddialar
 e) Bir senedin sahibi elinde beklenmeyen bir olay veya zorlayıcı bir nedenle yahut
 usulüne göre teslim edilen bir memur elinde veya noterlikte herhangi bir şekilde kaybolduğu
 kanısını kuvvetlendirecek delil veya emarelerin bulunması hâli.
-İlamların ve resmî senetlerin ispat gücü
 
 ### Bizim Yorumumuz
 

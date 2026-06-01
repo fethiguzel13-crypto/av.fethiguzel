@@ -14,9 +14,6 @@ kere dolaşarak halkın müracaat ve şikayetlerini dinler ve yetkileri içindek
 yapamadıklarını kaymakama bildirir.
 22 Bu bent için, bu Kanunun 13 üncü maddesinin dipnotuna bakınız.
 
-
-II- Bucak müdür ve memurlarının tayin şekilleri ve istihdam usulleri
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

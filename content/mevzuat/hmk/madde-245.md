@@ -15,7 +15,6 @@ bildirmeksizin gelmeyen tanık zorla getirtilir, gelmemesinin sebep olduğu gide
 Türk Lirasına kadar disiplin para cezasına hükmolunur. Zorla getirtilen tanık, evvelce
 gelmemesini haklı gösterecek sebepleri sonradan bildirirse, aleyhine hükmedilen giderler ve
 disiplin para cezası kaldırılır.
-Tanığa soru kâğıdı gönderilmesi
 
 ### Bizim Yorumumuz
 

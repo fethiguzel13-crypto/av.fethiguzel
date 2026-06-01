@@ -13,9 +13,6 @@ Madde 259 – (1) Suç konusu olmayıp sadece müsadereye tâbi bulunan eşyanı
 müsaderesine sulh ceza hâkimi tarafından duruşma yapılmaksızın karar verilir.
 ALTINCI KİTAP
 Kanun Yolları
-BİRİNCİ KISIM
-Genel Hükümler
-Kanun yollarına başvurma hakkı
 
 ### Bizim Yorumumuz
 

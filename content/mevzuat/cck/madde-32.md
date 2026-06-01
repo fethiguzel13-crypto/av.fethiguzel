@@ -17,9 +17,6 @@ verilir.
 (2) Mahkemelere görevlendirilenlerin, görevleri süresince, alanlarında uzmanlaşmalarını
 sağlama ve kendilerini geliştirmelerine yönelik hizmet içi eğitim almaları sağlanır.1
 (3) Hizmet öncesi ve hizmet içi eğitimin usûl ve esasları yönetmelikle belirlenir.
-ÜÇÜNCÜ BÖLÜM
-Sosyal İnceleme
-Sosyal çalışma görevlileri
 
 ### Bizim Yorumumuz
 

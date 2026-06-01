@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 MADDE 18 – (1) Bu Kanunda tanımlanan suçlar dolayısıyla açılan davalarda
 mahkeme, iddianamenin bir örneğini ilgili gümrük idaresine de gönderir. Başvurusu üzerine,
 ilgili gümrük idaresi açılan davaya katılan olarak kabul edilir.
-Kaçakçılığı önleme, izleme ve araştırmakla görevli olanlar
 
 ### Bizim Yorumumuz
 

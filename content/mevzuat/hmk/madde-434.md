@@ -13,7 +13,6 @@ MADDE 434- (1) Tahkim yargılaması sırasında taraflar uyuşmazlık konusunda 
 olurlarsa, tahkim yargılamasına son verilir. Tarafların talebi, ahlâka veya kamu düzenine
 aykırı değilse ya da tahkime elverişli olan bir konuya ilişkin ise sulh, hakem kararı olarak
 tespit edilir.
-Tahkim yargılamasının sona ermesi
 
 ### Bizim Yorumumuz
 

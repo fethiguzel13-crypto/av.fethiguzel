@@ -22,7 +22,6 @@ b) İkamet izninin, veriliş amacı dışında kullanıldığının belirlenmesi
 ç) Hakkında geçerli sınır dışı etme veya Türkiye’ye giriş yasağı kararı bulunması
 (2) (Ek: 28/7/2016-6735/27 md.) İkamet izninin yurt dışında kalış süresi bakımından
 iptaline ilişkin usul ve esaslar yönetmelikle düzenlenir.
-Aile ikamet izni
 
 ### Bizim Yorumumuz
 

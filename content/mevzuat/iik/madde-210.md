@@ -22,7 +22,6 @@ ehemmiyeti haiz evrakı muhafaza altına alır.
 Başka malları defter tutuluncıya kadar mühürler. Daire lüzum görürse defter
 tutulduktan sonra tekrar mühürler.
 Daire müflisin kullandığı yerler haricinde bulunan eşyayı da muhafaza altına alır.
-Haczi caiz olmıyan eşya hakkında:
 
 ### Akademik Yorum ve Analiz
 

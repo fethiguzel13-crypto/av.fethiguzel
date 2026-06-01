@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 MADDE 17 – (1) Bir Türk vatandaşı tarafından evlat edinilen ergin olmayan kişi, millî
 güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali bulunmamak şartıyla, karar
 tarihinden itibaren Türk vatandaşlığını kazanabilir.
-Vatandaşlık başvuru inceleme komisyonu
 
 ### Bizim Yorumumuz
 

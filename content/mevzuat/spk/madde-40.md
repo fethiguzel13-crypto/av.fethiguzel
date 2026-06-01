@@ -16,7 +16,6 @@ yetki belgesi ile bir veya birden fazla yatırım hizmeti ve faaliyetinde bulunm
 aldıkları izinler iptal olanlar, bu hizmet ve faaliyetlerde bulunamayacakları gibi esas
 sözleşmelerinde, ticaret unvanlarında veya ilan ve reklamlarında bu hizmetler ve faaliyetlerde
 bulundukları intibaını uyandıracak hiçbir kelime veya ibare kullanamazlar.
-Yetki belgesi ve faaliyet izninin iptali
 
 ### Bizim Yorumumuz
 

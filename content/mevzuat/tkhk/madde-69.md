@@ -20,8 +20,6 @@ Maddelerinde Yer Alan Parasal Sınırların Artırılmasına İlişkin Tebliğ�
 şeklinde değiştirilmiştir.
 18
 
-Karar ve karara itiraz
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

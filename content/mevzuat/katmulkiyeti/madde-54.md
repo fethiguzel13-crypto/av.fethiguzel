@@ -23,7 +23,6 @@ Kesinleşen sulh mahkemesi kararının tebliğinden başlıyarak bir ay içinde 
 eğer bu mümkün değilse kat mülkiyeti kaldırılarak, açık artırma yoliyle satılıp ortaklık
 giderilir ve satış bedeli her gayrimenkulün, ikinci fıkra uyarınca takdir edilmiş olan değerleri
 arasındaki orana göre, maliklere paylaştırılır.
-D) Harç ve vergiler:
 
 ### Bizim Yorumumuz
 

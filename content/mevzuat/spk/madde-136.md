@@ -50,7 +50,6 @@ yürütülen hizmetlerde grev ve lokavt yapılamaz.
 (3) Halka açık ortaklıkların borsada gerçekleştirilen işlemler neticesinde satın alınan
 paylarının pay defterine kaydedilmesinden imtina edilemez. Bu ortaklıkların borsada işlem
 görmeyen payları için ise 6102 sayılı Kanunun 493 üncü ve 494 üncü maddeleri uygulanır.
-Borsa İstanbul Anonim Şirketi
 
 ### Bizim Yorumumuz
 

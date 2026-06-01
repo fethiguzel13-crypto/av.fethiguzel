@@ -19,9 +19,6 @@ encümeni ve büyükşehir belediye başkanını,
 c) İlçe belediyesi: Büyükşehir belediyesi sınırları içinde kalan ilçe belediyesini,
 d) (Mülga: 12/11/2012-6360/4 md.)
 ifade eder.
-İKİNCİ BÖLÜM
-Büyükşehir Belediyesinin Kuruluşu ve Sınırları
-Kuruluş
 
 ### Bizim Yorumumuz
 

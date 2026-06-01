@@ -17,7 +17,6 @@ birlikte yeniden taksite bağlanarak alınır. Kaza mercilerinin tehir müddeti 
 çok ise; evvelce yapılan tecil hükümsüzdür.
 Takibatın kaza mercilerince tehiri kanuni tecil müddetini aştığı takdirde tecil müddeti
 uzatılmaz.23
-Ölüm halinde takibin geri bırakılması:
 
 ### Bizim Yorumumuz
 

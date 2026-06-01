@@ -19,8 +19,6 @@ verilmez, aylık ve başka hakları elinden alınamaz.
 kanuna dayanılarak yayınlanan tüzük ve yönetmeliklere” ibaresi “diğer mevzuata” şeklinde değiştirilmiştir.
 20
 
-Emeklilik:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

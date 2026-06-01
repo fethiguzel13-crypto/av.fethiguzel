@@ -27,7 +27,6 @@ yıl süreyle uzatmaya yetkilidir. Bu yetki; bölge, il, ilçe, mahal ve afetten
 afetten zarar görme derecesi veya vergi türleri itibarıyla farklı süreler tespit etmek suretiyle de
 kullanılabilir.
 Bu suretle belli edilen günler verginin vadesi yerine geçer.
-Özel ödeme zamanları:
 
 ### Bizim Yorumumuz
 

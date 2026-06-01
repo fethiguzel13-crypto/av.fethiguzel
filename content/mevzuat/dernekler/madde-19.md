@@ -41,7 +41,6 @@ Bilirkişiye verilecek ücretin tutarı İçişleri Bakanlığı ile Hazine ve M
 tespit olunur ve bu ücret İçişleri Bakanlığı bütçesine konulacak ödenekten karşılanır.
 Denetim sırasında, suç teşkil eden fiillerin tespit edilmesi hâlinde, mülkî idare amiri
 durumu derhal Cumhuriyet savcılığına ve derneğe bildirir.
-Kolluk kuvvetlerinin yetkisi
 
 ### Bizim Yorumumuz
 

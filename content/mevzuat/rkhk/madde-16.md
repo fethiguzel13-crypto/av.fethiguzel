@@ -59,7 +59,6 @@ indirim yapılabilir.
 Bu maddeye göre verilecek idarî para cezalarının tespitinde dikkate alınan hususlar,
 işbirliği halinde para cezasından bağışıklık veya indirim şartları, işbirliğine ilişkin usul ve
 esaslar Kurulca çıkarılacak yönetmeliklerle belirlenir.
-Nispi İdarî Para Cezası5
 
 ### Bizim Yorumumuz
 

@@ -16,7 +16,6 @@ bu ülkenin korumasından yararlanamayan ya da söz konusu korku nedeniyle yarar
 istemeyen yabancıya veya bu tür olaylar sonucu önceden yaşadığı ikamet ülkesinin dışında
 bulunan, oraya dönemeyen veya söz konusu korku nedeniyle dönmek istemeyen vatansız
 kişiye statü belirleme işlemleri sonrasında mülteci statüsü verilir.
-Şartlı mülteci
 
 ### Bizim Yorumumuz
 

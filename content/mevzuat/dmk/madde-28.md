@@ -31,7 +31,6 @@ Cumhurbaşkanlığı kararnamesiyle kurulmuş yardım sandıklarının yönetim,
 dışındadır.23
 Eşleri, reşit olmayan veya mahcur olan çocukları, yasaklanan faaliyetlerde bulunan
 memurlar bu durumu 15 gün içinde bağlı oldukları kuruma bildirmekle yükümlüdürler,
-Hediye alma, menfaat sağlama yasağı:
 
 ### Bizim Yorumumuz
 

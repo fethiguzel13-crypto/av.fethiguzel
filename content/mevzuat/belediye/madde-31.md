@@ -17,7 +17,6 @@ düşmesi,
 d) Geçici olarak görevden uzaklaştırılması,
 Hâllerinde, meclis çalışabilir duruma gelinceye veya yeni meclis seçimi yapılıncaya
 kadar meclis görevi, belediye encümeninin memur üyeleri tarafından yürütülür.
-Huzur ve izin hakkı
 
 ### Bizim Yorumumuz
 

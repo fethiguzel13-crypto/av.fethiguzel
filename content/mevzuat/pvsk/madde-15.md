@@ -16,7 +16,6 @@ kimseleri çağırır ve kendilerine lüzumu olan şeyleri sorar.
 (Ek fıkra: 27/3/2015-6638/3 md.) Polis; müşteki, mağdur veya tanık ifadelerini,
 talepleri hâlinde ikamet ettikleri yerlerde veya işyerlerinde de alabilir. Bu fıkranın kapsamı ile
 uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığınca belirlenir.
-Zor ve silah kullanma
 
 ### Bizim Yorumumuz
 

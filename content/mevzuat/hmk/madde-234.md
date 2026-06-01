@@ -14,8 +14,6 @@ beyanlarını yazıp imzalayarak yemin ederler.
 (2) Okuma ve yazma bilmeyen sağır veya dilsizler, işaretlerinden anlayan bir bilirkişi
 aracılığıyla yemin ederler.
 
-Hasta veya engellilerin mahkeme dışında yemini25
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

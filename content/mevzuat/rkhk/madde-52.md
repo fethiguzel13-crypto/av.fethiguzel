@@ -22,7 +22,6 @@ h) Gerekçe ve kararın hukuki dayanağı,
 k) Varsa karşı oy yazıları.
 Verilen karar ile taraflara yüklenen görevler ve tanınan haklar şüphe ve tereddüde yol
 açmayacak şekilde açık yazılmalıdır.
-Kararların Yazılması
 
 ### Bizim Yorumumuz
 

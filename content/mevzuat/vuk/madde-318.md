@@ -27,7 +27,6 @@ oranının iki katıdır."olarak değiştirilmiştir.
 107
 
 Madde 319 – (Mülga: 17/12/2003-5024/9 md.)
-b) Süre bakımından:
 
 ### Akademik Yorum ve Analiz
 

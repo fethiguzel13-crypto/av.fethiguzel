@@ -63,11 +63,6 @@ adına tescil olunur.
 Bu maddenin uygulanmasından doğacak anlaşmazlıklar adli yargıda çözümlenir.
 18 2/7/2018 tarihli ve 700 sayılı KHK’nin 86 ncı maddesiyle, bu fıkrada yer alan “İçişleri, Maliye, Çevre ve Şehircilik, Gıda, Tarım ve Hayvancılık ile Enerji ve Tabii Kaynaklar Bakanlıklarının görüşü alınmak suretiyle Devlet Su İşleri Genel Müdürlüğünün bağlı bulunduğu Bakanlıkça hazırlanarak Bakanlar Kurulunca bir yıl içinde” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 
-
-İKİNCİ BÖLÜM
-Dava Hakkı ve Bilirkişiler19
-Tebligat
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

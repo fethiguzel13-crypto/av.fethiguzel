@@ -30,7 +30,6 @@ Cumhuriyet savcısı veya katılan, davayı görmeye yetkili mahkemeye başvurab
 (2) Kamu davası açılmış olup da iade edilmesi gereken eşya veya malvarlığı değerleri
 ile ilgili olarak esasla birlikte bir karar verilmemiş olması durumunda, mahkemece re'sen veya
 ilgililerin istemi üzerine bunların iadesine karar verilir.
-Duruşma ve karar
 
 ### Bizim Yorumumuz
 

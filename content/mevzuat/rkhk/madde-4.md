@@ -37,8 +37,6 @@ eylem içinde olduklarına karine teşkil eder.
 Ekonomik ve rasyonel gerçeklere dayanmak koşuluyla taraflardan her biri uyumlu
 eylemde bulunmadığını ispatlayarak sorumluluktan kurtulabilir.
 
-Muafiyet
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

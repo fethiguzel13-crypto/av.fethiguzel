@@ -18,7 +18,6 @@ Usulsüzlük cezası kesilen bir fiil ile vergi ziyaına da sebebiyet verildiği
 anlaşıldığı takdirde, evvelce usulsüzlük cezası kesilmiş olması, bu cezanın ziyaa uğratılan
 vergiden dolayı kesilmesi gereken vergi ziyaı cezası ile mukayesesine ve noksan kesilen
 cezanın ikmalina mani değildir.
-Fiil ayrılığı:
 
 ### Akademik Yorum ve Analiz
 

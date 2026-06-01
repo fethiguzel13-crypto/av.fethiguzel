@@ -19,9 +19,6 @@ bankanın iç denetiminde görev alanlar konsolidasyona tâbi ortaklıklarda iç
 ifa edebilir. İç denetimle görevli birimce veya yetkili müfettişlerce bu Kanunun 29 uncu
 maddesinin ikinci fıkrası kapsamında düzenlenecek iç denetim raporunun, en az üçer aylık
 dönemler itibarıyla ve denetim komitesi aracılığıyla yönetim kuruluna tevdii zorunludur.
-ÜÇÜNCÜ BÖLÜM
-Yetkili Kuruluşlar
-Bağımsız denetim kuruluşları
 
 ### Bizim Yorumumuz
 

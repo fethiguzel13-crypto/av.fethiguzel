@@ -21,7 +21,6 @@ hapis ve beş bin güne kadar adli para cezası ile cezalandırılır.
 Trafikten men edilen veya çeşitli nedenlerle muhafaza altına alınan araçların, çektirilmesi
 ya da kaldırılıp götürülmesi ile bu araçların koyulacağı yerler ve bu işlemlerin ücretlerine ilişkin
 usul ve esaslar yönetmelikte belirtilir.
-Diğer kurallar:
 
 ### Bizim Yorumumuz
 

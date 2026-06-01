@@ -33,7 +33,6 @@ D) Valiler, emir ve denetimi altında bulunan teşkilatın aldığı kararla yap
 muamelelerden şikayet edenlerin müracaatlarını tetkik eder; memurun haksız veya kanunsuz
 muamelelerini görürse hakkında kanuni muameleye başvurur.
 İnceleme neticesinde vardığı sonuca göre alacağı kararı derhal tatbik ettirir ve ilgiliye
-bildirir.
 
 ### Bizim Yorumumuz
 

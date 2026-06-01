@@ -36,7 +36,6 @@ sonra, taraflardan hiçbiri gelmemiş ise dosya üzerinde inceleme yaparak karar
 zorunludur.
 (7) Kanunda ivedi olduğu bildirilen dava ve işlere ait temyiz incelemesi öncelikle
 yapılır.
-Onama kararları
 
 ### Bizim Yorumumuz
 

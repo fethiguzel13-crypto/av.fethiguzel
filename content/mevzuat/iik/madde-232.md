@@ -23,8 +23,6 @@ verilir ve sebketmiş hizmetleri için kendilerine bir ücret tahakkuk ettirilme
 bu üyelerin bir yıldan az olmamak ve üç yılı geçmemek kaydıyla herhangi bir iflâs idaresinde
 görev almalarını yasaklayabilir, bu karar kesindir.
 
-Reddedilen alacaklar:
-
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama

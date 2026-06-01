@@ -28,7 +28,6 @@ izinlerinden birini alma imkânı bulunmadığında
 f) Olağanüstü durumlarda
 (2) İnsani ikamet izni alan yabancılar, iznin veriliş tarihinden itibaren en geç yirmi iş
 günü içinde adres kayıt sistemine kayıt yaptırmak zorundadır.
-İnsani ikamet izninin iptali veya uzatılmaması
 
 ### Bizim Yorumumuz
 

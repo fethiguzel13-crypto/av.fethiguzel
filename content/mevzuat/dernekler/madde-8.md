@@ -14,7 +14,6 @@ Madde 8- Federasyonların üye sayısının beşten ve konfederasyonların üye 
 sona erme hükümleri uygulanır.
 Federasyonlar ve konfederasyonlar temsilcilik dışında her ne ad altında olursa olsun,
 başka bir örgüt kuramazlar.
-İç denetim
 
 ### Bizim Yorumumuz
 

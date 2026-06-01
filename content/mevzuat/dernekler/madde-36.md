@@ -16,8 +16,6 @@ Türkiye’deki şube veya temsilcilikleri ile Türkiye’de faaliyette veya iş
 izinleri hakkında da ceza hükümleri ile birlikte uygulanır. Bu Kanunda hüküm bulunmayan
 hâllerde Türk Medenî Kanunu hükümleri uygulanır.
 
-Yönetmelik
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

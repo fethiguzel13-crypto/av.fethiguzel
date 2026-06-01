@@ -27,9 +27,6 @@ standartlara uymayanlarının rafinerilere teslim edilmesi halinde vergiyi doğu
 rafineriler tarafından tesliminde gerçekleşir ve verginin mükellefi bu teslimi gerçekleştirenlerdir.
 1 27/12/2023 tarihli ve 7491 sayılı Kanunun 43 üncü maddesi ile bu bende “ana bayi” ibaresinden önce gelmek üzere “resmî şekilde düzenlenen sözleşmesi bulunan;” ibaresi eklenmiştir. 2 15/4/2021 tarihli ve 7316 sayılı Kanunun 8 inci maddesiyle, bu bentte yer alan “satışlarda malların alıcıya teslimi” ibaresi “satışlarda, (I), (II) ve (IV) sayılı listelerdeki malların alıcıya, (III) sayılı listedeki malların komisyoncuya veya konsinyi işletmeye teslimi” şeklinde değiştirilmiştir.
 
-
-Mükellef ve vergi sorumlusu
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

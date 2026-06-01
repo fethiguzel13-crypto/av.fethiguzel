@@ -19,9 +19,6 @@ c) Memurluktan çekilmesi;
 ç) İstek, yaş haddi, malûllük (…)159 sebeplerinden biri ile emekliye ayrılması;
 d) Ölümü;
 hallerinde memurluğu sona erer.
-BÖLÜM: 5
-Çalışma Saatleri, İzinler
-Çalışma saatleri:160
 
 ### Akademik Yorum ve Analiz
 

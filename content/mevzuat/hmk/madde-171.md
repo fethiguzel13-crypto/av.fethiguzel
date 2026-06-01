@@ -17,8 +17,6 @@ vakıaları ikrar etmiş sayılacağı ihtarı da yapılır.
 (2) Çağrılan taraf özürsüz olarak gelmediği veya gelip de soruları cevapsız bıraktığı
 takdirde, mahkemece sorulan vakıalar ikrar edilmiş sayılır.
 
-Bizzat isticvap olunma
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

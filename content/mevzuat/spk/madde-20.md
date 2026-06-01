@@ -24,7 +24,6 @@ iktisap etmiş bulunan kişilere karşı sorumludurlar. Hukuki sorumluluk doğur
 varlığı hâlinde, pay sahipleri ve yönetim kurulu üyeleri tarafından kararın ilanından itibaren
 otuz gün içinde, 18 inci maddenin altıncı fıkrasına göre iptal davası açılabilir.
 (3) Bu maddenin uygulanmasına ilişkin usul ve esaslar Kurul tarafından düzenlenir.
-Örtülü kazanç aktarımı yasağı
 
 ### Bizim Yorumumuz
 

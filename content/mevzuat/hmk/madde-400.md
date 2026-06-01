@@ -16,7 +16,6 @@ yapılmasını talep edebilir.
 (2) Delil tespiti istenebilmesi için hukuki yararın varlığı gerekir. Kanunda açıkça
 öngörülen hâller dışında, delilin hemen tespit edilmemesi hâlinde kaybolacağı yahut ileri
 sürülmesinin önemli ölçüde zorlaşacağı ihtimal dâhilinde bulunuyorsa hukuki yarar var sayılır.
-Görev ve yetki
 
 ### Bizim Yorumumuz
 

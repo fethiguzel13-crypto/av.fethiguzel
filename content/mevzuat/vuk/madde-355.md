@@ -197,7 +197,6 @@ uyarınca usulsüzlük veya özel usulsüzlük cezası kesilmesini gerektirmesi 
 fiillerden dolayı 3100 sayılı Kanun uyarınca ayrıca ceza kesilmez.
 
 (Ek fıkra:28/7/2024-7524/13 md.) Tek bir fiilin bu maddede yer alan birden fazla
-özel usulsüzlük cezası kesilmesini gerektirmesi halinde bu cezalardan en ağırı kesilir.
 
 ### Bizim Yorumumuz
 

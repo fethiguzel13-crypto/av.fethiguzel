@@ -16,7 +16,6 @@ verilebilir.
 (2) Temyiz dilekçesi, kararı veren mahkemeden başka bir mahkemeye verilmişse
 temyiz defterine kaydolunur ve durum derhâl kararı temyiz edilen mahkemeye bildirilir.
 (3) Temyiz edene ücretsiz bir alındı belgesi verilir.
-Kıyas yoluyla uygulanacak hükümler
 
 ### Bizim Yorumumuz
 

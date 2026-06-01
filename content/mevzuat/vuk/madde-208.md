@@ -24,7 +24,6 @@ Bu maddenin yolcu biletleri ve sigorta primleri üzerinden alınacak damga resmi
 mecburdurlar.
 Şu kadar ki, bu hesap mükellefin diğer kazançlarını tesbit için tuttuğu hesaplara
 karıştırılmaz ve onlar ile birleştirilmez.
-Ambar defteri:
 
 ### Bizim Yorumumuz
 

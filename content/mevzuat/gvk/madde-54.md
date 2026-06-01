@@ -85,8 +85,6 @@ Resmi Gazete'de yayımlanan 26/11/1998 tarih ve 98/12095 sayılı Kararname ile 
 ile işlenmiştir.
 63
 
-Kazancın zirai işletme hesabı esasına göre tespiti:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

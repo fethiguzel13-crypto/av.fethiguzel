@@ -31,7 +31,6 @@ Kantinlerin; teşkili, idaresi, işletilmesi ve kontrol şekilleri, gelirleri ve
 harcanması, işletilmesi, işlettirilmesi veya kiraya verilmesinden sağlanan gelirlerin dağıtım
 yerleri ve oranlarına ilişkin usul ve esaslar ile yapılacak denetlemelere ilişkin hususlar Maliye
 Bakanlığının uygun görüşü üzerine yönetmelik ile belirlenir.
-III - Askerî müzeler20
 
 ### Bizim Yorumumuz
 

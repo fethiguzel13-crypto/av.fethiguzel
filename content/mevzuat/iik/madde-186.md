@@ -17,7 +17,6 @@ masaya girer.
 İflasın açılmasından evvel paraya çevrilmiş bulunan mahcuz malların bedeli, 138 ila
 144 üncü maddeler hükümlerine göre haciz koyduran alacaklılara paylaştırılır. Artan kısım
 iflas masasına intikal eder.
-İptal davasına tabi haklar:
 
 ### Akademik Yorum ve Analiz
 

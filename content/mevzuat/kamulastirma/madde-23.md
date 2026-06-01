@@ -28,9 +28,6 @@ Arsa Ofisi Kanununa dayanılarak yapılan kamulaştırmalarda ve bu Kanunun 3 ü
 nci fıkrasında belirtilen hallerde yapılacak kamulaştırmalarda bu madde hükmü uygulanmaz.
 BEŞİNCİ KISIM
 Hasar, Doğacak Hak ve Borçlar, Trampa Yolu ile ve Acele Kamulaştırma
-BİRİNCİ BÖLÜM
-Hasar
-Kamulaştırma bedelinden düşülebilecek hasar
 
 ### Bizim Yorumumuz
 

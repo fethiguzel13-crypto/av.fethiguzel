@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 283 – (1) İstinaf yoluna yalnız sanık lehine başvurulmuşsa, yeniden verilen
 hüküm, önceki hükümle belirlenmiş olan cezadan daha ağır olamaz.129
-Direnme yasağı
 
 ### Bizim Yorumumuz
 

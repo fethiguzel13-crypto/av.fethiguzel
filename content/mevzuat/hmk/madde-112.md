@@ -16,7 +16,6 @@ seçimlik mahkûmiyet hükmü verir.
 (3) Seçimlik mahkûmiyet hükmünü cebrî icraya koyan alacaklı, takibinin konusunu,
 mahkûmiyet hükmünde yer alan edimlerden birine hasretmek zorundadır. Ancak, bu durum,
 borçlunun, diğer edimi ifa etmek suretiyle borcundan kurtulma hakkını ortadan kaldırmaz.
-Topluluk davası
 
 ### Bizim Yorumumuz
 

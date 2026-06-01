@@ -17,7 +17,6 @@ tarafından tespit olunur. Yönetim ve denetim kurulu üyeleri dışındaki üye
 hakkı veya başka bir ad altında herhangi bir karşılık ödenemez.
 Dernek hizmetleri için görevlendirilecek üyelere verilecek gündelik ve yolluk miktarları
 genel kurul tarafından tespit olunur.
-Gençlik ve spor kulüpleri
 
 ### Bizim Yorumumuz
 

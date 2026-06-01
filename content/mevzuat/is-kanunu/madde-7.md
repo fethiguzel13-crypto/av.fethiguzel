@@ -117,9 +117,6 @@ eder. Geçici iş ilişkisi kurulan işveren, işçinin kendisinde çalıştığ
 birlikte sorumludur. Dördüncü, beşinci, onuncu ve on dördüncü fıkralar ve dokuzuncu
 fıkranın (a) ve (f) bentleri ile (d) bendinin birinci cümlesinde düzenlenen hak ve
 yükümlülükler bu fıkraya göre kurulan geçici iş ilişkisinde de uygulanır.
-İKİNCİ BÖLÜM
-İş Sözleşmesi, Türleri ve Feshi
-Tanım ve şekil
 
 ### Akademik Yorum ve Analiz
 

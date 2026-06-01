@@ -20,7 +20,6 @@ c) Millî güvenlik ve kamu düzeni bakımından engel teşkil edecek bir hali b
 birinci fıkranın (a) bendindeki şart aranmaz.
 (3) Evlenme ile Türk vatandaşlığını kazanan yabancılar evlenmenin butlanına karar
 verilmesi halinde evlenmede iyiniyetli iseler Türk vatandaşlığını muhafaza ederler.
-Türk vatandaşlığının evlat edinilme ile kazanılması
 
 ### Bizim Yorumumuz
 

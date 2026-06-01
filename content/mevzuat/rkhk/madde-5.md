@@ -29,7 +29,6 @@ itibaren geçerlidir.
 Kurul, birinci fıkrada gösterilen şartların gerçekleşmesi halinde, belirli konulardaki
 anlaşma türlerine bir grup olarak muafiyet tanınmasını sağlayan ve bunların şartlarını
 gösteren tebliğler çıkarabilir.
-Hakim Durumun Kötüye Kullanılması
 
 ### Bizim Yorumumuz
 

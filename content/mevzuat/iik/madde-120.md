@@ -21,7 +21,6 @@ kullanılmasını, masraf kendilerine ait olmak ve fakat haklarına halel gelmem
 üzerlerine alabilirler.
 Bu suretle elde edilecek para ilk önce üzerlerine alanların alacak ve masraflarının
 ödenmesine karşılık tutulur.
-Paraya çevirmenin diğer tarzı. İştirak halinde mülkiyet hisseleri:
 
 ### Akademik Yorum ve Analiz
 

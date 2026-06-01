@@ -14,7 +14,6 @@ Subay, astsubay, uzman jandarma, sivil personel, askerî öğrenciler, erbaş ve
 bunların adayları, yönetmelikle belirlenen usul ve esaslar çerçevesinde sağlık açısından;
 göreve uyarlık ve elverişlilik ile periyodik veya zorunlu kontrollere ya da sağlık raporu
 kontrolüne tabi tutulabilir.
-(...)12
 
 ### Bizim Yorumumuz
 

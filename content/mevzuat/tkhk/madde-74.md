@@ -23,7 +23,6 @@ ettirilir. İmha edilen malla ilgili tüketicinin dava ve tazminat hakları sakl
 (3) Satışa sunulan bir seri malın, tüketicinin güvenliğini tehlikeye sokan bir ayıp
 taşıması durumunda Ürünlere İlişkin Teknik Mevzuatın Hazırlanması ve Uygulanmasına Dair
 Kanun hükümleri saklıdır.
-Denetim
 
 ### Bizim Yorumumuz
 

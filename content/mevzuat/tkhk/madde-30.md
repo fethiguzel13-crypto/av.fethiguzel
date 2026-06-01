@@ -36,7 +36,6 @@ edildiği tarihten itibaren, kullanılan kredi miktarı ile sınırlı olmak üz
 tedarikine ilişkin bir sözleşme olmaksızın, tüketicinin kendisi tarafından belirlenen malın
 veya hizmetin bedelinin kredi veren tarafından ödenmesi suretiyle kullandırılan krediler bağlı
 kredi sayılmaz.
-Diğer hususlar
 
 ### Bizim Yorumumuz
 

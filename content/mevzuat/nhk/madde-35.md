@@ -16,8 +16,6 @@ dayanak belgesine uygun olarak düzeltilir.
 (2) Aile kütüklerindeki din bilgisine ilişkin talepler, kişinin yazılı beyanına uygun olarak
 tescil edilir, değiştirilir, boş bırakılır veya silinir.
 
-Nüfus davaları
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

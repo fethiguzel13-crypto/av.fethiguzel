@@ -19,7 +19,6 @@ deftere kaydedildikten sonra bu hususları belirten bir tutanak düzenlenerek tu
 ve dilekçe derhâl ilgili mahkemeye gönderilir. Zabıt kâtibi başvuruyu ilgili deftere kaydeder.
 (4) Zabıt kâtibi veya kurum müdürü tarafından ikinci fıkra hükmüne göre işlem yapıldığı
 zaman kanun yolları için bu Kanunda belirlenen süreler kesilmiş sayılır.
-Kanun yolunun belirlenmesinde yanılma
 
 ### Bizim Yorumumuz
 

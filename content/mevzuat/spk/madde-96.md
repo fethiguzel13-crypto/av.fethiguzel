@@ -24,7 +24,6 @@ mahkeme kararıyla tespit edilen yönetim kurulu üyelerini görevden almaya ve 
 kurul toplantısına kadar yerlerine yenilerini atamaya yetkilidir. Banka yönetim kurulu üyelerinin
 görevden alınması yönünde işlem tesis edilmeden önce Bankacılık Düzenleme ve Denetleme
 Kurumunun görüşü alınır.
-Mali durumun bozulması hâlinde uygulanacak tedbirler
 
 ### Bizim Yorumumuz
 

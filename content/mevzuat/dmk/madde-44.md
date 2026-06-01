@@ -19,8 +19,6 @@ Madde 44 – (Mülga: 31/7/1970 - 1327/15 md.)
 maddesiyle aynen kabul edilerek kanunlaşmıştır.
 108
 
-Memurun başka sınıfta ve derecesinin altında bir görevde çalıştırılmıyacağı:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

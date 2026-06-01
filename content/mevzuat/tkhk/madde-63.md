@@ -73,9 +73,6 @@ ihtisas sahibi üniversiteler, özel hukuk tüzel kişileri ile gerçek kişiler
 ve esasları ile sekretarya hizmetleri ve diğer hususlar yönetmelikle belirlenir.
 YEDİNCİ KISIM
 Tüketici Kuruluşları
-BİRİNCİ BÖLÜM
-Tüketici Konseyi ve Reklam Konseyi
-Tüketici Konseyi
 
 ### Bizim Yorumumuz
 

@@ -28,7 +28,6 @@ Borçlunun nafaka borçluları dahil üçüncü şahıstan yardım görmesi, asg
 veznesine yatırmak mükellefiyetini ortadan kaldırmaz.
 İkinci fıkradaki hükmün tatbikini birden fazla aciz vesikası hamili alacaklı talep etmiş
 ise, bunlar talep tarihi sırasıyla öncelik hakkını haizdir.
-Beyandan sonra mal ve kazançta olan tezayüdü bildirmeyen borçlunun cezası:
 
 ### Bizim Yorumumuz
 

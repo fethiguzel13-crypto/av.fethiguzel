@@ -23,8 +23,6 @@ itibaren otuz gün içinde işlem öncesi durumun aynen sağlanmaması hâlinde 
 verebilir ve bu işlemlerin iptali için 6102 sayılı Kanunun genel kurul kararlarının iptaline
 ilişkin hükümleri çerçevesinde dava açabilir.
 
-Ayrılma hakkı
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

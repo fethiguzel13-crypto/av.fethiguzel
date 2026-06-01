@@ -17,8 +17,6 @@ düzenlenir.
 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
 13
 
-Mülhak vakıflarda hasım gösterilme
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

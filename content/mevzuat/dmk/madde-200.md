@@ -18,7 +18,6 @@ değiştirilmiştir.
 274
 
 Mahrumiyet yerinden başka yere atanan, ölen, emekliye ayrılanların burs
-haklarının devamı:
 
 ### Bizim Yorumumuz
 

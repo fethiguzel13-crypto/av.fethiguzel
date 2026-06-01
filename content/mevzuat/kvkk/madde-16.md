@@ -37,7 +37,6 @@ Suçlar
 sayılı Türk Ceza Kanununun 135 ila 140 ıncı madde hükümleri uygulanır.
 (2) Bu Kanunun 7 nci maddesi hükmüne aykırı olarak; kişisel verileri silmeyen veya
 anonim hâle getirmeyenler 5237 sayılı Kanunun 138 inci maddesine göre cezalandırılır.
-Kabahatler1
 
 ### Bizim Yorumumuz
 

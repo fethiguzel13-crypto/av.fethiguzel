@@ -33,7 +33,6 @@ ihale konusu işler, ihale tarihinden en az 10 gün önce bir defa da Resmi Gaze
 4. İdareler, işin önem ve özelliğine göre bu ilanları yurt içinde ve yurt dışında çıkan başka
 gazeteler veya internet haber siteleri ya da öteki yayın araçları ile de ayrıca yayınlatabilirler.8
 5. Pazarlık usulü ile yapılacak ihaleler için idareler, ilan yapıp yapmamakta serbesttirler.
-İlanlarda bulunması zorunlu hususlar:
 
 ### Bizim Yorumumuz
 

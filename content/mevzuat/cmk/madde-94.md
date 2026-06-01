@@ -23,7 +23,6 @@ bulunmayı taahhüt eden kişinin serbest bırakılması, Cumhuriyet savcısı t
 emredilebilir. Bu hüküm her yakalama emri için ancak bir kez uygulanabilir. Taahhüdünü
 yerine getirmeyen kişiye, yakalama emrinin düzenlendiği yer Cumhuriyet savcısı tarafından
 bin Türk lirası idari para cezası verilir.
-Yakalanan veya gözaltına alınanın durumunun yakınlarına bildirilmesi
 
 ### Bizim Yorumumuz
 

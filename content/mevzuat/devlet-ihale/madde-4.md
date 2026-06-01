@@ -43,7 +43,6 @@ Müşteri: Artırma sonunda kendisine ihale yapılan istekli veya isteklileri,
 belge veya belgeleri,
 Sözleşme: İdare ile müteahhit veya müşteri arasında yapılan yazılı anlaşmayı,
 İfade eder.
-İhaleye katılabilme şartları:
 
 ### Bizim Yorumumuz
 

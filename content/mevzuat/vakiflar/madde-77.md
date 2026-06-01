@@ -54,7 +54,6 @@ sonra gelmek üzere “ceza ve ihalelerden yasaklama hükümleri hariç” ibare
 Gelir ve Kurumlar Vergisi matrahından düşülür.
 Kuruluşunda veya kurulduktan sonra vakıflara bağışlanan taşınır ve taşınmaz mallar
 Veraset ve İntikal Vergisinden istisnadır.
-Dava ve icra takibi ile alacaklardan vazgeçme
 
 ### Bizim Yorumumuz
 

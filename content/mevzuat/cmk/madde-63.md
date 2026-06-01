@@ -28,7 +28,6 @@ hâkim veya mahkemeye aittir. Birden çok bilirkişi atanmasına ilişkin isteml
 de aynı biçimde karar verilir.
 (3) Soruşturma evresinde Cumhuriyet savcısı da bu maddede gösterilen yetkileri
 kullanabilir.
-Bilirkişi olarak atanabilecekler
 
 ### Bizim Yorumumuz
 

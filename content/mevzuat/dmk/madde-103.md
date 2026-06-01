@@ -17,7 +17,6 @@ kullanılmayan izin hakları düşer.
 diğer mazeret izinleri dışında, ayrıca yıllık izin verilmez.
 Hizmetleri sırasında radyoaktif ışınlarla çalışan personele, her yıl yıllık izinlerine
 ilaveten bir aylık sağlık izni verilir.
-Mazeret izni:165166167
 
 ### Bizim Yorumumuz
 

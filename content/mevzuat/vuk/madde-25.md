@@ -17,7 +17,6 @@ tevdi edene verilir. Bu suretle vergi tahakkuk etmiş olur. Tahakkuk fişinin m�
 nüshası aynı zamanda beyannamenin makbuzu yerine geçer.
 Lüzum görülen hallerde beyana dayanan vergi tahakkuk fişi yerine ihbarname ile
 tebliğ olunabilir. Kanunen belli hallerde tebliğ tekalif cetvelinin ilaniyle yapılır.
-Tahakkuk fişinin muhteviyatı:
 
 ### Bizim Yorumumuz
 

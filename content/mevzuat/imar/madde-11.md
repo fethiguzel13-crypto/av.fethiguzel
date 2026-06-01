@@ -38,7 +38,6 @@ onaylanmış imar planı kararı ile getirilen kullanma amacına konu ve tabi ol
 (Ek fıkra: 24/7/2008-5793/14 md.) Hazinenin özel mülkiyetinde veya Devletin
 hüküm ve tasarrufu altında bulunan ve ağaçlandırılmak üzere izin verilen taşınmazlardan
 projesine uygun olarak ağaçlandırılanlar, imar planı kararıyla başka amaca ayrılamaz.
-Cephe hattı:
 
 ### Bizim Yorumumuz
 

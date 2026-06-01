@@ -70,9 +70,6 @@ gazetede ve” ibaresi “bir yerel gazete ve bir internet haber sitesi ile” �
 ağaçların ise 11 inci madde çerçevesinde takdir olunan bedeli zilyedine ödenir.
 DÖRDÜNCÜ KISIM
 Kamulaştırmada Boşaltma, Vazgeçme ve Geri Alma
-BİRİNCİ BÖLÜM
-Boşaltma
-Taşınmaz malın boşaltılması
 
 ### Bizim Yorumumuz
 

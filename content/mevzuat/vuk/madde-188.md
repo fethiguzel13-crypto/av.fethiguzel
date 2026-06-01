@@ -21,7 +21,6 @@ Bu takdirde envanter listelerinin:
 şarttır.
 Yukardaki esaslara göre envanter listeleri tanzim edenler envanter defterine listeler
 muhteviyatını icmalen kaydederler.
-Envanterde amortisman kayıtları:
 
 ### Bizim Yorumumuz
 

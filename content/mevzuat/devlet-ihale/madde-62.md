@@ -16,7 +16,6 @@ nedenleri açıkça belirtilen ihtarına rağmen aynı durumun devam etmesi hali
 protesto çekmeye ve hüküm almaya gerek kalmaksızın kesin teminatı gelir kaydedilir ve
 sözleşme feshedilerek hesabı genel hükümlere göre tasfiye edilir.
 Gelir kaydedilen kesin teminat, müteahhit veya müşterinin borcuna mahsup edilemez.
-Sözleşmede belirtilen işin artış ve eksilişi:
 
 ### Bizim Yorumumuz
 

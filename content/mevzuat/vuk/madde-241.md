@@ -30,7 +30,6 @@ zorunludur.
 Bono, poliçe, çek, senet, tahvil, hisse senedi, finansman bonosu, kar ortaklığı belgesi
 ve benzeri kıymetli evrakın vergi belge düzenini sağlamak açısından ihtiva edeceği bilgileri
 belirlemeye Maliye ve Gümrük Bakanlığı yetkilidir.
-Diğer vesikalar:
 
 ### Akademik Yorum ve Analiz
 

@@ -51,7 +51,6 @@ yerlerde istihdam edilmesinde güçlük bulunan elemanlar için ödenen parayı,
 d) Mali sorumluluk tazminatı: Sayıştay'a hesap vermekle yükümlü olan saymanlarla
 vezne açığından sorumlu veznedarlara ödenen parayı,
 İfade eder
-Gösterge tabloları:
 
 ### Bizim Yorumumuz
 

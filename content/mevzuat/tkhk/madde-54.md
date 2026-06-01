@@ -26,7 +26,6 @@ satıcı veya sağlayıcıya aittir.
 izlenmesine ilişkin işleri yürütmekle görevlidirler.
 (5) Etiket, tarife ve fiyat listeleri, indirimli satışlara ilişkin süre ile diğer uygulama usul
 ve esasları yönetmelikle belirlenir.
-Tanıtma ve kullanma kılavuzu
 
 ### Bizim Yorumumuz
 

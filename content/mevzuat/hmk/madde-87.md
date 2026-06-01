@@ -14,7 +14,6 @@ tayin eder. Ancak, tarafların teminatın şeklini sözleşmeyle kararlaştırma
 ona göre belirlenir.
 (2) Teminatı gerektiren durum ve koşullarda değişiklik olması hâlinde, hâkim
 teminatın azaltılması, artırılması, değiştirilmesi ya da kaldırılmasına karar verebilir.
-Teminat gösterilmemesinin sonuçları
 
 ### Bizim Yorumumuz
 

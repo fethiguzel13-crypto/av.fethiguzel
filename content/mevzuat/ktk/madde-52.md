@@ -22,10 +22,6 @@ esaslara uygun olarak diğer araçların güvenle girebilecekleri açıklıklar 
 Zorundadırlar.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayan sürücüler 1 800 000
 lira para cezası ile cezalandırılırlar.
-ÜÇÜNCÜ BÖLÜM
-Sürücülerin Uyacağı Diğer Kurallar
-
-Dönüş kuralları:
 
 ### Bizim Yorumumuz
 

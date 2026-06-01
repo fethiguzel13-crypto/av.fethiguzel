@@ -40,7 +40,6 @@ ihtiyati tedbir konulamaz.
 damga vergisinden müstesnadır. YTM’nin bu Kanun kapsamındaki faaliyetleri dolayısıyla
 13/6/2006 tarihli ve 5520 sayılı Kurumlar Vergisi Kanunu açısından iktisadi işletme oluşmuş
 sayılmaz.
-Tazminin kapsamı
 
 ### Bizim Yorumumuz
 

@@ -19,9 +19,6 @@ yapılması.
 ç) 26 ncı maddedeki rapor verme yükümlülüğünün yapılan ihtara rağmen yerine
 getirilmemesi.
 d) Eğitim faaliyetinin devamlılığının sağlanmadığının tespit edilmesi.
-SEKİZİNCİ BÖLÜM
-Kuruluş ve Görevler
-Kuruluş ve teşkilat
 
 ### Bizim Yorumumuz
 

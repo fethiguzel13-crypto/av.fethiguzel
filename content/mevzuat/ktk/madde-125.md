@@ -26,9 +26,6 @@ uymayan ulusal, bölgesel, yerel radyo ve televizyonlar hakkında 13.4.1994 tari
 sayılı Radyo ve Televizyonların Kuruluş ve Yayınları Hakkında Kanun hükümleri uygulanır.
 Silahlı Kuvvetler bünyesindeki birlik ve er eğitimi merkezlerine eğitim amacı ile
 yeteri kadar trafik dersi konulması Genelkurmay Başkanlığınca düzenlenir.
-ONBİRİNCİ KISIM
-Çeşitli Hükümler
-Olağanüstü hallerde ve savaşta karayolunda trafiğin düzenlenmesi ve denetimi:
 
 ### Bizim Yorumumuz
 

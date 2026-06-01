@@ -38,7 +38,6 @@ edilen bono, tahvil ve benzeri sermaye piyasası araçları, verilen diğer gara
 yapılan işlemler kredi sınırlarının hesabında Kurulca belirlenen esaslar ve oranlar dâhilinde
 dikkate alınır.
 Bu madde hükümleri, ana ortaklık bakımından konsolide esasa göre uygulanır.
-Kredi sınırlamalarına tâbi olmayan işlemler
 
 ### Bizim Yorumumuz
 

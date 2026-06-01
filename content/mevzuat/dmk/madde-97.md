@@ -18,7 +18,6 @@ görevlerinden ayrılanlar bir yıl geçmeden,
 C) 95 inci maddede yazılı zorunluluklara uymayanlar 3 yıl geçmeden,
 D) 96 ncı maddeye aykırı hareket edenler hiçbir surette,
 Devlet memurluğuna alınamazlar.
-Memurluğun sona ermesi:
 
 ### Bizim Yorumumuz
 

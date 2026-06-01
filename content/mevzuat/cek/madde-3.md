@@ -74,7 +74,6 @@ aldığı çeki Türk Ticaret Kanununun 780 inci maddesinin üçüncü fıkrası
 kaydeder. Karekodlu çekin sisteme kaydedildiği tarihten sonra çek düzenleyen tüzel kişinin
 temsilcilerinde meydana gelen değişiklikler, çek hesabı sahibi tüzel kişinin sorumluluğunu
 ortadan kaldırmaz.
-Bankaların bildirim yükümlülüğü
 
 ### Bizim Yorumumuz
 

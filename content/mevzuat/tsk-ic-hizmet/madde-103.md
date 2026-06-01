@@ -21,7 +21,6 @@ ilişkilendirilmeksizin tesis gelirlerine dâhil edilir.
 Tesislerin kiraya verilmesi, mal ve hizmet alımı sonucu sağlanan gelirlerin dağıtım
 yerleri, oranları ve kullanılması, yapılacak denetlemeler ve diğer hususlara ilişkin usul ve
 esaslar Maliye Bakanlığının uygun görüşü üzerine yönetmelik ile belirlenir.
-Askerî kantinler
 
 ### Bizim Yorumumuz
 

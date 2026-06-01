@@ -19,7 +19,6 @@ vakıalar hakkında,
 ç) Taraflardan birinin hukuki selefi veya temsilcisi olarak kendisinin yaptığı işler
 hakkında,
 tanıklıktan çekinilemez.
-Çekinme sebeplerinin bildirilmesi ve incelenmesi
 
 ### Bizim Yorumumuz
 

@@ -13,7 +13,6 @@ MADDE 6- (1) Genel yetkili mahkeme, davalı gerçek veya tüzel kişinin davanı
 açıldığı tarihteki yerleşim yeri mahkemesidir.
 (2) Yerleşim yeri, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine
 göre belirlenir.
-Davalının birden fazla olması hâlinde yetki
 
 ### Bizim Yorumumuz
 

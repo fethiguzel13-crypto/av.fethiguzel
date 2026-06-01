@@ -53,8 +53,6 @@ belirlenmek üzere ziyaretçi kabul edebilir. İdari gözetim altına alınan ki
 avukat, noter ve Birleşmiş Milletler Mülteciler Yüksek Komiserliği görevlileriyle görüşme
 imkânı sağlanır.
 
-Kayıt ve kontrol
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -21,7 +21,6 @@ takdirde, evlenme bildirimi; yabancı makamlardan alınan evlenme belgesinin Tü
 usûlüne göre onaylanmış ve Dışişleri Bakanlığınca tasdik edilmiş olması şartıyla yurt içinde
 nüfus müdürlüğüne verilmek suretiyle de yapılabilir. Bu belgeye dayanılarak düzenlenecek
 evlenme bildirimi ile kütüğe tescil işlemi yapılır.
-Evlenmekle Türk vatandaşlığını kazananların tescili
 
 ### Bizim Yorumumuz
 

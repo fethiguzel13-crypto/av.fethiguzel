@@ -69,8 +69,6 @@ akşamına kadar" olarak değiştirilmiştir.
 “üçer” şeklinde değiştirilmiştir.
 141
 
-Vergi tevkifatının mahsubu:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

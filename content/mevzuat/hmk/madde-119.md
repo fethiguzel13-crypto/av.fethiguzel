@@ -23,7 +23,6 @@ h) Davacının, varsa kanuni temsilcisinin veya vekilinin imzası.
 (2) Birinci fıkranın (a), (d), (e), (f) ve (g) bentleri dışında kalan hususların eksik
 olması hâlinde, hâkim davacıya eksikliği tamamlaması için bir haftalık kesin süre verir. Bu
 süre içinde eksikliğin tamamlanmaması hâlinde dava açılmamış sayılır.
-Harç ve gider avansının ödenmesi1011
 
 ### Bizim Yorumumuz
 

@@ -20,7 +20,6 @@ kıldığı hâllerde, taraflardan birinin talebi” ibaresi “yahut yargılama
 3
 
 biçimde yapmakla yükümlüdürler.
-Usul ekonomisi ilkesi
 
 ### Bizim Yorumumuz
 

@@ -31,7 +31,6 @@ Bu madde başlığı “İştirak”iken, 23/1/2008 tarihli ve 5728 sayılı Kan
 vergi incelemesine yetkili olanlar tarafından tesbit olunur. Yoklama ve vergi incelemesi
 sırasında raslanan, vergi cezasını gerektirici olayların, raporlarda gösterilmesi, delillerin
 kaybolması ihtimalinin bulunduğu hallerde bunların tutanakla tesbit edilmesi mecburidir.
-Ceza kesme yetkisi:
 
 ### Akademik Yorum ve Analiz
 

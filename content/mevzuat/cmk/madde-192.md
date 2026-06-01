@@ -22,7 +22,6 @@ getirilmesine karar verilir.
 (2) (Değişik: 28/3/2023-7445/20 md.) Sanık hakkında, toplanan delillere göre
 mahkûmiyet, ceza verilmesine yer olmadığı ve güvenlik tedbiri dışında bir karar verilmesi
 gerektiği kanısına varılırsa, sorgusu yapılmamış olsa da dava yokluğunda bitirilebilir.
-Sanığın mahkemeden uzaklaşması
 
 ### Bizim Yorumumuz
 

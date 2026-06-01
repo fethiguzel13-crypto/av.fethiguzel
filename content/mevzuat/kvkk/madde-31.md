@@ -54,7 +54,6 @@ fıkrası, maddenin yürürlüğe giren değişik haliyle birlikte 1/9/2024 tari
 uygulanmaya devam olunur.
 (2) 1/6/2024 tarihi itibarıyla sulh ceza hâkimliklerinde görülmekte olan başvurular, bu
 hâkimliklerce görülmeye devam olunur.
-Yürürlük
 
 ### Bizim Yorumumuz
 

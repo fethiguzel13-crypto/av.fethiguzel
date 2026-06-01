@@ -21,7 +21,6 @@ kanun ve diğer mevzuatta belirtilen esaslar içinde kullanır.
 Amir, maiyetindeki memurlara kanunlara ve Cumhurbaşkanlığı kararnamelerine aykırı
 emir veremez ve maiyetindeki memurdan hususi bir menfaat temin edecek bir talepte
 bulunamaz, hediyesini kabul edemez ve borç alamaz.
-Devlet memurlarının görev ve sorumlulukları:
 
 ### Akademik Yorum ve Analiz
 

@@ -30,7 +30,6 @@ belirtilen kayıtlar sadece elektronik ortamda tutulur.
 (2) Türkiye'de aile kütüğü bulunmayan ve yabancı ülkelerde oturan vatandaşlar
 
 Bakanlığın göstereceği bir nüfus müdürlüğünde açılacak aile kütüğüne kaydedilir.
-Yabancıların kayıtlarının tutulması
 
 ### Bizim Yorumumuz
 

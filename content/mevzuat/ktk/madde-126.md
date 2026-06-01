@@ -20,7 +20,6 @@ Genelkurmay Başkanlığının istemi üzerine özel uygulamalar yapılabilir.
 Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 41 inci maddesi ile değiştirilmiştir.
 
 Madde 127 – (Mülga: 18/1/1985 – KHK 245/16 md.)
-Terkedilen, hasara uğrayan veya uzun süre park edilen araçlar:
 
 ### Bizim Yorumumuz
 

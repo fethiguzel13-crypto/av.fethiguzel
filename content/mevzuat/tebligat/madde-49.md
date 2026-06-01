@@ -15,9 +15,6 @@ iktisapta bulunan hak sahipleri, adreslerini ve değiştirdikleri takdirde yenis
 yerin tapu idaresine bildirmeye mecburdur. Davetiye veya tebliğ evrakı, bu suretle bilinen son
 adrese gönderilir. Hak sahiplerinin adres bildirmemeleri hâlinde adres kayıt sistemindeki
 adresleri tebligat adresleri olarak kabul edilir.
-ÜÇÜNCÜ FASIL
-Mali Tebligat
-Divanı Muhasebat tarafından yapılacak tebligat:
 
 ### Bizim Yorumumuz
 

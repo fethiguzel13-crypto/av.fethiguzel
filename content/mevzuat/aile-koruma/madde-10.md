@@ -34,7 +34,6 @@ Bakanlığın talebi üzerine kamu kurum ve kuruluşlarına ait sosyal tesis, yu
 yerlerde geçici olarak barındırılabilir.
 (7) İşyerinin değiştirilmesi yönündeki tedbir kararı, kişinin tabi olduğu ilgili mevzuat
 hükümlerine göre yetkili merci veya kişi tarafından yerine getirilir.
-Kolluk görevleri
 
 ### Bizim Yorumumuz
 

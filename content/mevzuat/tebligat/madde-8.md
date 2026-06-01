@@ -15,7 +15,6 @@ sahibi veya vekilinin imzası bulunur.
 Tebliğ olunmak üzere salahiyetli mercilere verilecek evrakın her nüshasına bu
 mercilerce, verildiği tarih yazılır ve istenirse makbuz verilir.
 Her nevi evrakın tebliğine ve davetiyelere ait tebliğ mazbataları dosyasına konur.
-Davetiyenin ihtiva edeceği kayıtlar:
 
 ### Bizim Yorumumuz
 

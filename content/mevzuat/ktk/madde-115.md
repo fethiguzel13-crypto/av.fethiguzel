@@ -48,7 +48,6 @@ Bakanlığınca” ibaresi “Hazine ve Maliye Bakanlığınca” şeklinde değ
 kurallarına aykırılık nedeniyle; yabancı uyruklu kişiye uygulanan ve ülkemizden çıkışına
 kadar tahsil edilemeyen idari para cezaları bu kişinin tekrar yurda girişi sırasında tahsil edilir.
 Bu şekilde tahsil edilememesi halinde yabancının yurda girişine izin verilmez.
-Tescil plakasına göre tutanak düzenlenmesi:
 
 ### Bizim Yorumumuz
 

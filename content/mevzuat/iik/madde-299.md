@@ -15,7 +15,6 @@ tarihinden itibaren onbeş gün içinde alacaklarını bildirmeye davet olunur. 
 sureti adresi belli olan alacaklılara posta ile gönderilir. İlânda, alacaklarını bildirmeyen
 alacaklıların bilançoda kayıtlı olmadıkça konkordato projesinin müzakerelerine kabul
 edilmeyecekleri ihtarı da yazılır.
-Alacaklar hakkında borçlunun beyana daveti:
 
 ### Bizim Yorumumuz
 

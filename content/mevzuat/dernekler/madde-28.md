@@ -30,7 +30,6 @@ sonra gelmek üzere “, Şehit, Gazi” ibaresi eklenmiştir.
 bir siyasî partinin, bir sendikanın veya üst kuruluşun, bir derneğin veya üst kuruluşun adını,
 amblemini, rumuzunu, rozetini ve benzeri işaretleri ya da başka bir ülkeye ve daha önce
 kurulmuş Türk devletlerine ait bayrak, amblem ve flamaları kullanmaları yasaktır.
-Kurulması yasak olan dernekler ve yasak faaliyetler
 
 ### Bizim Yorumumuz
 

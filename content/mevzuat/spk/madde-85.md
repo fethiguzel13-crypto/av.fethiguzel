@@ -44,7 +44,6 @@ yatırımcıları bilgilendirme yükümlülükleri, YTM’nin hak ve yükümlül
 değerlendirilmesine ilişkin hususlar, YTM’nin mali tablo, defter ve raporları ile diğer
 hususlara ilişkin usul ve esaslar genel hükümler çerçevesinde Kurulca çıkarılacak bir
 yönetmelikle belirlenir.
-Tedricî tasfiye
 
 ### Bizim Yorumumuz
 

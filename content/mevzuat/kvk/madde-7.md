@@ -36,7 +36,6 @@ itibarıyla tam mükellef kurumların, kurumlar vergisi matrahına hisseleri ora
 (5) Bu maddeye göre Türkiye’de vergilenmiş kazancın yurt dışındaki kurum
 tarafından sonradan dağıtılması durumunda, elde edilen kâr paylarının vergilenmemiş kısmı
 kurumlar vergisine tâbi tutulur.
-İndirilecek giderler
 
 ### Bizim Yorumumuz
 

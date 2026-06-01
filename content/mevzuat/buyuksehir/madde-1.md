@@ -12,7 +12,6 @@ commentaryStatus: "pending"
 Madde 1- Bu Kanunun amacı, büyükşehir belediyesi yönetiminin hukukî statüsünü
 düzenlemek, hizmetlerin plânlı, programlı, etkin, verimli ve uyum içinde yürütülmesini
 sağlamaktır.
-Kapsam
 
 ### Bizim Yorumumuz
 

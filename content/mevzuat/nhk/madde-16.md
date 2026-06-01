@@ -15,8 +15,6 @@ bildirilen altı yaşını bitirmemiş olan çocukların doğum tarihinin tespit
 tespit edilmesi sağlanır. Doğuma ait resmî belge ibraz edilmesi halinde, yaş tespitine gerek
 kalmaz.
 
-Nüfus müdürlüklerinin yetkisi
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

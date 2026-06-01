@@ -22,7 +22,6 @@ ilişkilendirerek elektronik ortamda, yedekleme sistemleri ile birlikte güncel 
 Aynen kabul: 1/2/2018-7072/78 md.) Yerleşim yeri adresi yurt dışında olan Türk
 vatandaşlarının adres kayıtları, yaşadıkları ülkede kullanılan adres verilerine veya o ülke ve bağlı
 olduğu temsilcilik bilgisine göre tutulur.
-Bildirim yükümlülüğü ve süresi19
 
 ### Bizim Yorumumuz
 

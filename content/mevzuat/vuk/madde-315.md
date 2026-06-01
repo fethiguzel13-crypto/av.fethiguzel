@@ -34,7 +34,6 @@ gelmek üzere “, 320 nci maddenin dördüncü fıkrası saklı kalmak üzere,�
 50'yi geçmemek üzere normal amortisman oranının iki katıdır.107
 3. Bu usulde amortisman süresi normal amortisman nispetlerine göre hesaplanır.
 Bu sürenin son yılına devreden bakıye değer, o yıl tamamen yok edilir.
-Madenlerde amortisman:
 
 ### Akademik Yorum ve Analiz
 

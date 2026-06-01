@@ -24,9 +24,6 @@ bildirerek gözaltına alınmasına, adli kontrol altına alınmasına veya tutu
 olanlar.52
 BEŞİNCİ KISIM
 İfade ve Sorgu
-BİRİNCİ BÖLÜM
-İfade veya Sorgu İçin Çağrı
-İfade veya sorgu için çağrı
 
 ### Bizim Yorumumuz
 

@@ -21,7 +21,6 @@ sesli ve görüntülü eserleri, kaydedildiği materyale bakılmaksızın ürete
 Herhangi bir müracaat veya şikayet olmasa bile engeller, davranışlarının devamını
 durdurarak yasaklar, sanıklar hakkında tanzim olunacak evrakı derhal şikayete bağlı suçlar
 hakkındaki evrakı da şikayet ve müracaat vukubulduğu takdirde adliyeye tevdi eder.
-(Mülga: 3/8/2002-4771/12 md.)
 
 ### Bizim Yorumumuz
 

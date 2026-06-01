@@ -13,9 +13,6 @@ MADDE 22 – (1) Seçme hakkı ile Türk vatandaşlığının kazanılması, bu 
 kullanılmasına dair şartların tespitine ilişkin karar tarihinden itibaren hüküm ifade eder.
 (2) Seçme hakkını kullanarak Türk vatandaşlığını kazanan kişilerin eşleri ve çocukları
 hakkında 20 nci madde hükümleri uygulanır.
-ÜÇÜNCÜ BÖLÜM
-Türk Vatandaşlığının Kaybı
-Türk vatandaşlığının kaybı halleri
 
 ### Bizim Yorumumuz
 

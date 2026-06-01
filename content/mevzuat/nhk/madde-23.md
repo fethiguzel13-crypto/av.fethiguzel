@@ -27,8 +27,6 @@ yürürlükten kaldırılmıştır.
 ibaresinden sonra gelmek üzere “, il ve ilçe müftülüklerine” ibaresi eklenmiştir.
 6
 
-Yurt dışında yapılan evlendirmeler
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

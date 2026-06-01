@@ -16,7 +16,6 @@ tebliğ tarihinden itibaren iki hafta içinde yazılı olarak cevabını verebil
 beyanla da cevabını verebilir. Cevap verildikten veya bunun için belirli süre bittikten sonra
 dava dosyası, bölge adliye mahkemesine gönderilir.118
 (3) 262 ve 263 üncü madde hükümleri saklıdır.
-Dosyanın bölge adliye mahkemesinde tevzii119
 
 ### Bizim Yorumumuz
 

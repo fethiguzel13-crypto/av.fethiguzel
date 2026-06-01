@@ -115,7 +115,6 @@ kurulan kurumlar ile katılım bankalarının ortağı olduğu ve katılım bank
 esaslarına uygun her türlü finansman için kefalet vermek amacıyla kurulan Katılım Finans
 Kefalet Anonim Şirketi.5
 (2) Bu maddenin uygulanmasına ilişkin usuller Maliye Bakanlığınca belirlenir.
-İstisnalar
 
 ### Bizim Yorumumuz
 

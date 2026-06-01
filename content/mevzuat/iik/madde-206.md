@@ -56,7 +56,6 @@ verilmesine kadar geçen süre.
 (Ek fıkra: 14/1/2011-6103/41 md.) Gemilerin paraya çevrilmesi hâlinde yapılacak
 sıra cetveli, bayrağına ve sicile kayıtlı olup olmadığına bakılmaksızın bütün gemiler için Türk
 Ticaret Kanununun 1389 ilâ 1397 nci maddesi hükümlerine göre düzenlenir.
-Sıralar arasındaki münasebet:
 
 ### Akademik Yorum ve Analiz
 

@@ -19,7 +19,6 @@ soruşturma ve kovuşturmada ikinci fıkra hükmü uygulanır.
 (4) Zorunlu müdafilikle ilgili diğer hususlar, Türkiye Barolar Birliğinin görüşü
 alınarak çıkarılacak yönetmelikle düzenlenir.
 Müdafi görevini yerine getirmediğinde yapılacak işlem ve müdafilik görevinden
-yasaklanma54
 
 ### Bizim Yorumumuz
 

@@ -42,7 +42,6 @@ k) Kurul veya Başkan tarafından verilen diğer görevleri yapmak.
 (5) Hizmet birimleri ile bu birimlerin çalışma usul ve esasları, bu Kanunda belirtilen
 faaliyet alanı, görev ve yetkilere uygun olarak Kurumun teklifi üzerine Cumhurbaşkanınca
 yürürlüğe konulan yönetmelikle belirlenir.7
-Kişisel Verileri Koruma Uzmanı ve uzman yardımcıları
 
 ### Bizim Yorumumuz
 

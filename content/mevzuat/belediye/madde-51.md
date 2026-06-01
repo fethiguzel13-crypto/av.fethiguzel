@@ -26,7 +26,6 @@ Zabıta hizmetleri kesintisiz olarak yürütülür. Zabıta personelinin çalı�
 hizmetin aksatılmadan yürütülmesini sağlayacak şekilde düzenlenir. Belediye zabıta ve özel
 güvenlik hizmetlerinde fiilen çalışanlara, fazla mesai ücreti olarak yılı bütçe kanununda belirlenen
 üst sınırı aşmamak kaydıyla belediye meclisi kararı ile tespit edilen maktu tutar ödenir.
-İtfaiye
 
 ### Bizim Yorumumuz
 

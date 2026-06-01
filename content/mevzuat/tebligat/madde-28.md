@@ -22,7 +22,6 @@ tebliği çıkaran merci, tebliğ olunacak evrak ile ilan suretlerini yabancı m
 
 kimsenin malüm adresine ayrıca iadeli taahhütlü mektupla gönderir ve posta makbuzunu
 dosyasına koyar.
-İlan şekli:10
 
 ### Bizim Yorumumuz
 

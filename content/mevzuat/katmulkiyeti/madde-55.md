@@ -13,8 +13,6 @@ Madde 55 – Bu kanuna göre kat mülkiyeti ve kat irtifakı kurulması, mülkiy
 Kurulan kat mülkiyetleri tapu memurunca derhal anagayrimenkulün kayıtlı bulunduğu
 yerin belediyesine ve vergi dairesine bildirilir.
 
-E) Belediyesi olmıyan yerlerdeki durum:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

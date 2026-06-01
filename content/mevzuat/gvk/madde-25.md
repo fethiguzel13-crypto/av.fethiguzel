@@ -63,7 +63,6 @@ hastalık, doğum, evlenme gibi sebeplerle yapılan yardımlar. (...)26
 kurumları tarafından ödenen emekli, dul, yetim ve evlenme ikramiyeleri veya iade olunan
 mevduat, sürelerini doldurmamış bulunanlarla, dul ve yetimlerine toptan ödenen tazminat ve
 yardımlar.
-Vatan hizmetleri yardımlarında:
 
 ### Akademik Yorum ve Analiz
 

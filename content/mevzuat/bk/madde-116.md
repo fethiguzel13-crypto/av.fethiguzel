@@ -55,7 +55,6 @@ kanunî faiz uygulanır. Para cezaları 6183 sayılı Kanun hükümlerine göre 
 Fon Kurulu üyeleri ile Fon personelinin uyacakları meslekî ve etik ilkeler ile Fon
 Kurulunun çalışma usûl ve esaslarına ilişkin diğer hususlar Fon tarafından çıkarılacak
 yönetmelikle düzenlenir.
-Fon Kurulunun görev ve yetkileri
 
 ### Bizim Yorumumuz
 

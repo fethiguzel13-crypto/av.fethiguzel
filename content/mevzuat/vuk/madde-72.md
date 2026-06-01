@@ -27,7 +27,6 @@ Takdir komisyonları daimi veya geçici olurlar. (Değişik ikinci cümle: 16/6/
 komisyonların çalışma usul ve esaslarını belirlemeye Maliye Bakanlığı yetkilidir.
 Daimi komisyon bulunmayan yerlerde takdir işleri geçici komisyonlar tarafından
 görülür.
-Üyelerin seçilmesi:
 
 ### Bizim Yorumumuz
 

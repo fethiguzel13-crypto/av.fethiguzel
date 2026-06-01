@@ -16,7 +16,6 @@ Bu mecburiyeti yerine getirmiyenler, haklarında yapılacak ceza takibinden baş
 malların kendilerine atfolunamıyacak bir sebepten dolayı telef veya zayi olduğunu ispat
 edemedikleri takdirde, geri verilmiyen malların değerleri tutarınca borçlu sayılıp bu kanun
 hükümleri gereğince takip olunurlar.
-Menkul malların satışı:
 
 ### Bizim Yorumumuz
 

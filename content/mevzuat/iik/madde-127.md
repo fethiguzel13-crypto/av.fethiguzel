@@ -17,7 +17,6 @@ ilgililerinin tapuda kayıtlı adresleri varsa bu adreslerine tebliğ olunur. Ad
 olmaması hâlinde, varsa adres kayıt sistemindeki adresleri tebligat adresleri olarak kabul
 edilir. Bunların dışında ayrıca adres tahkiki yapılmaz, gazetede veya elektronik satış
 portalında yapılan satış ilanı tebligat yerine geçer.52
-Mükellefiyetlerin listesi:
 
 ### Akademik Yorum ve Analiz
 

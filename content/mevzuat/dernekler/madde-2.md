@@ -37,9 +37,6 @@ dışında bulunan dernekler ve vakıflar ile diğer” şeklinde ve “ile dern
 gerçekleştirmek üzere mülki idare amiri izni ile açılan, üyelerinin bir araya geldiği sosyal
 mekânı,
 İfade eder.
-İKİNCİ BÖLÜM
-Genel Hükümler
-Dernek kurma hakkı
 
 ### Bizim Yorumumuz
 

@@ -14,7 +14,6 @@ tarafı, müdahale sebebini ve bunun dayanaklarını belirten bir dilekçeyle ma
 (2) Müdahale dilekçesi, davanın taraflarına tebliğ edilir. Mahkeme, gerekirse taraflarla
 birlikte üçüncü kişiyi de dinlemek üzere davet eder, gelmeseler dahi müdahale talebi hakkında
 karar verir.
-Fer’î müdahilin durumu
 
 ### Bizim Yorumumuz
 

@@ -67,7 +67,6 @@ Başsavcı veya vekili, suçun işlendiği yer Cumhuriyet savcısından soruştu
 tamamen yapılmasını isteyebilir. Gecikmesinde sakınca bulunan hâllerde suçun işlendiği yer
 Cumhuriyet savcısı zorunlu olan delilleri toplar ve gerekmesi hâlinde alınacak kararlar
 bakımından bulunduğu yer sulh ceza hâkimliğinden talepte bulunur.
-Soruşturmada Cumhuriyet savcısının hâkim kararı istemi
 
 ### Bizim Yorumumuz
 

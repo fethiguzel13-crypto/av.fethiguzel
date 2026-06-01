@@ -17,7 +17,6 @@ memleketin uyrukluğunda bulunan memurları, Türkiye'de resmi bir göreve memur
 bu sıfatlarından dolayı ve karşılıklı olmak şartiyle Gelir Vergisinden muaftırlar.
 Bu muaflığın menkul sermaye iradı üzerinden tevkif suretiyle alınan vergiye şümulü
 yoktur.
-Ücret istisnası:
 
 ### Akademik Yorum ve Analiz
 

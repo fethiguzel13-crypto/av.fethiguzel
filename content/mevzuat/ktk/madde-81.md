@@ -37,7 +37,6 @@ belgesi bu Kanunun 6 ncı maddesinde sayılan görevliler tarafından iki yıl s
 Bu şekilde geri alınan sürücü belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen
 idari para cezalarının tamamının tahsil edilmiş olması şarttır.
 Bu maddenin diğer hükümlerine uymayanlar 3 600 000 lira para cezası ile cezalandırılırlar.
-Trafik kazalarında yükümlülük:
 
 ### Bizim Yorumumuz
 

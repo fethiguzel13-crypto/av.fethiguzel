@@ -15,7 +15,6 @@ b) Oturum tarihleri,
 c) Hâkimin, Cumhuriyet savcısının ve zabıt kâtibinin adı ve soyadı,
 
 belirtilir.
-Duruşma tutanağının içeriği
 
 ### Bizim Yorumumuz
 

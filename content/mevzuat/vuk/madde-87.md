@@ -25,7 +25,6 @@ değerlerini aklama, kaçakçılık veya vergi kaçakçılığı suçlarından m
 5. Tadilat ve zirai kazançlar il komisyonlarına seçileceklerde ayrıca mensup olduğu
 şehir veya kasabanın iktisadi şartlarına ve emlak ve ziraat işlerine vukufu olmak ve yirmibeş
 yaşını bitirmiş bulunmak.
-Yemin:
 
 ### Bizim Yorumumuz
 

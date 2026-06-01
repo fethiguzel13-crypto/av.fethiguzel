@@ -31,7 +31,6 @@ hakkında esas alınan kıdem uygulanır.
 Emsal işçi, işyerinde aynı veya benzeri işte belirsiz süreli iş sözleşmesiyle çalıştırılan
 işçidir. İşyerinde böyle bir işçi bulunmadığı takdirde, o işkolunda şartlara uygun bir işyerinde
 aynı veya benzer işi üstlenen belirsiz süreli iş sözleşmesiyle çalıştırılan işçi dikkate alınır.
-Kısmî süreli ve tam süreli iş sözleşmesi
 
 ### Akademik Yorum ve Analiz
 

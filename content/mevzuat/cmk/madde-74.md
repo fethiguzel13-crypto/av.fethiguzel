@@ -28,7 +28,6 @@ ancak sürelerin toplamı üç ayı geçemez.
 getirilmesini durdurur.
 (5) Bu madde hükmü, 223 üncü maddenin sekizinci fıkrası gereğince yargılamanın
 durması kararı verilmesi gereken hâllerde de uygulanır.
-Şüpheli veya sanığın beden muayenesi ve vücudundan örnek alınması
 
 ### Bizim Yorumumuz
 

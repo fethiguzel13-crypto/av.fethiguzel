@@ -15,7 +15,6 @@ takdirde, borçlunun sermayesi eshama münkasim olmıyan ortaklıklardaki hissel
 alacağının tahsili için genel hükümler dairesinde ortaklığın feshi istenebilir.
 Sermayesi eshama münkasim komandit şirketlerinin komandite şeriklerinin borçları
 için bu madde hükmü mezkür şirketler hakkında da tatbik olunur.
-Limited şirketlerin amme borçları89
 
 ### Bizim Yorumumuz
 

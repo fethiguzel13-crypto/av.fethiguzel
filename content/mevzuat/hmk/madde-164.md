@@ -15,7 +15,6 @@ tarafa tefhim veya tebliğ eder.
 (2) Ön sorun hakkında iki taraf arasında uyuşmazlık varsa, hâkim gerekirse tarafları
 davet edip dinledikten sonra kararını verir.
 (3) Hâkim, ön sorun hakkındaki kararını taraflara tefhim veya tebliğ eder.
-Bekletici sorun
 
 ### Bizim Yorumumuz
 

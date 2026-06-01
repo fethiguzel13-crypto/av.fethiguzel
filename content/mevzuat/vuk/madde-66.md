@@ -16,7 +16,6 @@ bulunması,
 ihtiyar meclisinin, mevzii tadilatı gerektiren sebepleri muhtevi olarak tanzim edeceği mazbata
 üzerine il idare kurulunca tadilatın lüzumuna karar verilmesi,
 3. Maliye Bakanlığınca mevzii tadilatın yapılmasına izin verilmesi şarttır.
-Ferdi tadilat isteği:
 
 ### Bizim Yorumumuz
 

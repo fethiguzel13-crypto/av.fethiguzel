@@ -39,7 +39,6 @@ geçemez.
 291 inci ve 292 nci maddeler, geçici mühlet hakkında kıyasen uygulanır.
 Geçici mühlet talebinin kabulü, geçici komiser görevlendirilmesi, geçici mühletin
 uzatılması ve tedbirlere ilişkin kararlara karşı kanun yoluna başvurulamaz.
-Geçici mühletin sonuçları, ilânı ve bildirimi:88
 
 ### Bizim Yorumumuz
 

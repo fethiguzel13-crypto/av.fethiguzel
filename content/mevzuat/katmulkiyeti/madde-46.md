@@ -27,7 +27,6 @@ hakkının yalnız borçluya ait mülkiyet payına veya hakkın niteliğine gör
 adi mülkiyet gayrimenkuldeki bütün ortak mülkiyet payları üzerine geçirilmek suretiyle genel kütüğe tescil olunur.
 Anagayrimenkulün arsasiyle birlikte tamamen yok olması veya kamulaştırılması halinde sicil kaydının silinmesi genel hükümlere göre yapılır.
 Anagayrimenkul kamulaştırılırsa, her bağımsız bölümün kamulaştırma bedeli bağlantılı bulunduğu arsa payı ve eklentileri de gözönünde tutularak ayrı ayrı takdir olunur ve o bölümün malikine ödenir.
-II - Anayapının harap olması:
 
 ### Bizim Yorumumuz
 

@@ -17,10 +17,6 @@ sonra müdafi veya vekil dinlenir.
 (4) Merciin, itiraz üzerine verdiği kararları kesindir; ancak ilk defa merci tarafından
 verilen tutuklama kararlarına karşı itiraz yoluna gidilebilir.
 
-İKİNCİ BÖLÜM
-İstinaf
-İstinaf
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

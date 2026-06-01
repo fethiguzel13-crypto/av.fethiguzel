@@ -20,7 +20,6 @@ uncu maddeleri hükümleri uygulanır.
 Kurulun, süresi içinde birleşme veya devralmaya ilişkin müracaata herhangi bir cevap
 vermediği ya da herhangi bir işlem yapmadığı hallerde, birleşme veya devralma anlaşmaları
 bildirim tarihinden 30 gün sonra yürürlüğe girerek hukuki geçerlilik kazanır.
-Birleşme ve Devralmanın Kurula Bildirilmemesi
 
 ### Bizim Yorumumuz
 

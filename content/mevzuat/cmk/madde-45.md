@@ -23,7 +23,6 @@ dinlenebilirler. Kanunî temsilci şüpheli veya sanık ise, bu kişilerin çeki
 karar veremez.
 (3) Tanıklıktan çekinebilecek olan kimselere, dinlenmeden önce tanıklıktan
 çekinebilecekleri bildirilir. Bu kimseler, dinlenirken de her zaman tanıklıktan çekinebilirler.
-Meslek ve sürekli uğraşıları sebebiyle tanıklıktan çekinme
 
 ### Bizim Yorumumuz
 

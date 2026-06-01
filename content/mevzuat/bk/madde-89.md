@@ -33,7 +33,6 @@ j) Kurum başkanı adına imzaya yetkili personelin görev ve yetki alanını be
 k) Kurumun yönetim ve işleyişine ilişkin diğer görevleri yerine getirmek.
 Başkan, Kurula ilişkin olmayan görev ve yetkilerinden bir bölümünü, sınırlarını açıkça
 belirlemek ve yazılı olmak kaydıyla alt kademelere devredebilir.
-Başkan yardımcıları
 
 ### Bizim Yorumumuz
 

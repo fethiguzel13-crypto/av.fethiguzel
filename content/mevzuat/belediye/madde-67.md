@@ -21,9 +21,6 @@ temizleme, alt yapı ve asfalt yapım ve onarımı, trafik sinyalizasyon ve ayd�
 okuma ve sayaç sökme-takma işleri ile ilgili hizmetler; toplu ulaşım ve taşıma hizmetleri; sosyal
 tesislerin işletilmesi ile ilgili işler, süresi ilk mahallî idareler genel seçimlerini izleyen altıncı ayın
 sonunu geçmemek üzere ihale yoluyla üçüncü şahıslara gördürülebilir.
-ÜÇÜNCÜ BÖLÜM
-Borçlanma ve İktisadî Girişimler
-Borçlanma
 
 ### Bizim Yorumumuz
 

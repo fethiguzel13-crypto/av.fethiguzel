@@ -14,7 +14,6 @@ vakıaya bağlanan hukuki sonuçtan kendi lehine hak çıkaran tarafa aittir.
 (2) Kanuni bir karineye dayanan taraf, sadece karinenin temelini oluşturan vakıaya
 ilişkin ispat yükü altındadır. Kanunda öngörülen istisnalar dışında, karşı taraf, kanuni
 karinenin aksini ispat edebilir.
-Karşı ispat
 
 ### Bizim Yorumumuz
 

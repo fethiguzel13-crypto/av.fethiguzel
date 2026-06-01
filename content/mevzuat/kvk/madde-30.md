@@ -106,7 +106,6 @@ kesintisi, fiilen ödenen tutar ile ödemeyi yapanın yüklendiği verginin topl
 hesaplanır.
 (12) Bu Kanuna göre vergi kesintisi yapanlar, yaptıkları vergi kesintisini kayıt ve
 hesaplarında ayrıca gösterirler.
-Muhtasar beyanname
 
 ### Bizim Yorumumuz
 

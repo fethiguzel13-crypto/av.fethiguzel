@@ -24,7 +24,6 @@ faaliyetlere erişim, sosyal ve kültürel iletişim, temel sağlık hizmeti alm
 kurslar, uzaktan eğitim ve benzeri sistemlerle tanıtım ve bilgilendirme etkinlikleri Genel
 Müdürlükçe kamu kurum ve kuruluşları ile sivil toplum kuruluşlarıyla da iş birliği yapılarak
 yaygınlaştırılır.
-Davete uyma yükümlülüğü
 
 ### Bizim Yorumumuz
 

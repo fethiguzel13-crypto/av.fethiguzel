@@ -19,9 +19,6 @@ dokümanında belirtilen kalite ve özelliklere göre yapılıp yapılmadığı 
 tarafından belirli aşamalarda ve aralıklarla denetlenebilir.
 Taahhüdün tamamlanan ve müstakil kullanıma elverişli bölümleri için kısmî kabul
 yapılabilir.
-İKİNCİ BÖLÜM
-Kesin Teminata İlişkin Hükümler
-Ek kesin teminat
 
 ### Bizim Yorumumuz
 

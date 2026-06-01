@@ -17,7 +17,6 @@ tabi tutulur.
 maddelerin ithalinde ödenmesi gereken katma değer vergisini teminata bağlatmak suretiyle
 işlem yaptırmaya, teminata tabi işlemleri tespit etmeye, teminatın türü, şekli ve miktarı ile
 uygulamaya ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.
-Muhatap:
 
 ### Bizim Yorumumuz
 

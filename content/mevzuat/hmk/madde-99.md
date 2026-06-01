@@ -14,7 +14,6 @@ hükmün icrasına engel olmaz. Ancak, talebi inceleyen mahkeme, talebi haklı g
 gösterilmek şartıyla, yargılamanın ertelenmesine veya hükmün icrasının geri bırakılmasına
 karar verebilir. Mahkeme, gerektiğinde teminat gösterilmeden de yargılamanın ertelenmesine
 veya icranın geri bırakılmasına karar verebilir.
-İnceleme ve karar
 
 ### Bizim Yorumumuz
 

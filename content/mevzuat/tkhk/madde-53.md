@@ -33,9 +33,6 @@ uygulaması olarak kabul edilir.
 (6) Süreli yayın kuruluşları tarafından düzenlenmeyen ancak süreli yayınla doğrudan
 veya dolaylı ilişkilendirilen promosyon uygulamaları da bu madde hükümlerine tabidir.
 (7) Promosyon uygulamalarına ilişkin usul ve esaslar yönetmelikle belirlenir.
-BEŞİNCİ KISIM
-Tüketicinin Bilgilendirilmesi ve Menfaatlerinin Korunması
-Fiyat etiketi
 
 ### Bizim Yorumumuz
 

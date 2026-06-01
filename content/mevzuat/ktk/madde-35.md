@@ -82,9 +82,6 @@ edilir. Para cezasına dava açılması tahsilatı durdurmaz.
 Özelleştirme İdaresi Başkanlığı tarafından yürütülmekte olan Araç Muayene İstasyonları/
 Hizmetinin özelleştirilmesinde değer tespit işlemleri indirgenmiş nakit akımları (net bugünkü
 değer) yöntemine göre yürütülür.
-BEŞİNCİ KISIM
-Sürücü Belgeleri ve Sürücüler
-Sürücü belgesi alma zorunluluğu:
 
 ### Bizim Yorumumuz
 

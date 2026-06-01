@@ -20,7 +20,6 @@ davanın kabulü olarak değerlendirilmeyip yargılamaya devam edilir.
 c) Taraflardan biri, geçerli bir neden göstermeksizin duruşmaya katılmaz veya delillerini
 sunmaktan kaçınırsa; hakem veya hakem kurulu, tahkim yargılamasına devam ederek mevcut
 delillere göre karar verebilir.
-Hakem veya hakem kurulunca bilirkişi seçimi
 
 ### Bizim Yorumumuz
 

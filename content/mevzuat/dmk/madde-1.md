@@ -46,7 +46,6 @@ durumunda mezkur kanun hükümlerinin uygulanacağı hüküm altına alınmışt
 sanatkar memurları, uzman memurları, uygulatıcı uzman memurları ve stajyerleri; Spor-Toto
 Teşkilatında çalışan personel; subay, astsubay, uzman jandarma, uzman erbaş ve sözleşmeli
 erbaş ve erler ile Emniyet Teşkilatı mensupları özel kanunları hükümlerine tabidir.4
-Amaç:
 
 ### Akademik Yorum ve Analiz
 

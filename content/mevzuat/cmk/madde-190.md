@@ -14,7 +14,6 @@ zorunlu hâllerde davanın makul sürede sonuçlandırılmasını olanaklı kıl
 ara verilebilir.
 (2) 176 ncı maddede belirlenen süreye uyulmamış ise duruşmaya ara verilmesini
 istemeye hakkı olduğu sanığa hatırlatılır.
-Duruşmanın başlaması
 
 ### Bizim Yorumumuz
 

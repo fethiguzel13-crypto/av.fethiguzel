@@ -32,8 +32,6 @@ sonra gelmek üzere ", güçlendirme" ibaresi eklenmiştir.
 "yüzde beş" olarak değiştirilmiştir.
 4
 
-IV - Sigorta anlaşması:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

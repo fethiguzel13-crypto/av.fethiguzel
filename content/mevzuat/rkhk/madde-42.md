@@ -19,7 +19,6 @@ mevcut “(c)” bendi ise, “(d)” bendi olarak teselsül ettirilmiştir.
 14
 
 belgeleyen herkes Kurulun red kararına karşı yargı yoluna başvurabilir.
-Soruşturmaya Başlanması, Taahhüt ve Uzlaşma15
 
 ### Bizim Yorumumuz
 

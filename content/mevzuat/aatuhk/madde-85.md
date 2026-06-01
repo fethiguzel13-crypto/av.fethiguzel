@@ -35,7 +35,6 @@ Satılan mal, bedeli alınmadan teslim edilmez. Tahsil dairesi mal bedelinin iha
 gününü takip eden günden itibaren üç gün içinde ödenmesi için mühlet verebilir.
 Bir kısım malların satışı ile amme alacağı karşılandığı takdirde geriye kalan malların
 satışından vazgeçilir ve bunlar üzerindeki haciz kaldırılır.
-Müşterinin malı almaktan vazgeçmesi:
 
 ### Bizim Yorumumuz
 

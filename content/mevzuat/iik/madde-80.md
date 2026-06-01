@@ -20,7 +20,6 @@ mecburdur. Bu yerler icabında zorla açtırılır.
 (Değişik: 18/2/1965-538/45 md.) Haczi yapan memur, borçlunun üzerinde para,
 kıymetli evrak, altın veya gümüş veya diğer kıymetli şeyleri sakladığını anlar ve borçlu
 bunları vermekten kaçınırsa, borçlunun şahsına karşı kuvvet istimal edilebilir.
-Zabıta memurlariyle muhtarların vazifeleri:
 
 ### Bizim Yorumumuz
 

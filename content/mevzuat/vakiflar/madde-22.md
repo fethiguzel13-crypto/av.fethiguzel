@@ -20,7 +20,6 @@ Genel Müdürlüğe ve mazbut vakıflara ait olup uygulama imar planlarında oku
 veya spor alanlarında kalan taşınmazlar; ilgili kurumlar tarafından, imar planının tasdik
 tarihinden itibaren iki yıl içerisinde kamulaştırılmadığı takdirde ilgili bakanlığın görüşü alınarak
 Genel Müdürlükçe özel okul, özel hastane veya özel spor tesisi olarak değerlendirilebilir.
-Zilyetlik yoluyla kazanım
 
 ### Bizim Yorumumuz
 

@@ -21,10 +21,6 @@ Bu tespitte görev yapan muhtar veya vekili, ihtiyar kurulu üyeleri ile bilirki
 İKİNCİ KISIM
 Kamulaştırma Bedelinin Mahkemece Tespiti, İdare Adına Tescil ve
 Bedelin Tespiti Esasları, Dava Hakkı ve Bilirkişiler6
-BİRİNCİ BÖLÜM
-Kamulaştırma Bedelinin Mahkemece Tespiti ve İdare Adına Tescil,
-Bedelin Tespiti Esasları7
-Kamulaştırma bedelinin mahkemece tespiti ve taşınmaz malın idare adına tescili8
 
 ### Bizim Yorumumuz
 

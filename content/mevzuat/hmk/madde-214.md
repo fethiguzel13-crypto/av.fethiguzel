@@ -15,7 +15,6 @@ kesinleştikten sonra, söz konusu belge hakkında ceza mahkemesinde de sahtelik
 ya da beraat kararı verilmiş olması, hukuk mahkemesinin belgenin sahteliğini incelemesini
 engellemez.
 Belgelerin halefler aleyhine kullanılması ve adi senetlerin üçüncü kişiler için
-hüküm ifade etmesi23
 
 ### Bizim Yorumumuz
 

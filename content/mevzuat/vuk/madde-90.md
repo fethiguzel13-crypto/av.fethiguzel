@@ -21,7 +21,6 @@ iptal edilmiştir.
 Mücbir sebep veya mezuniyetle devam edemiyecek olan asil üyeye yedek üye vekalet
 eder.
 (Dördüncü fıkra mülga: 30/12/1980-2365/16 md.)
-Görev süresi:
 
 ### Bizim Yorumumuz
 

@@ -20,8 +20,6 @@ metne işlendiği şekilde değiştirilmiştir.
 şeklinde değiştirilmiştir.
 120
 
-Neticeler, takipler ve müddetler:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

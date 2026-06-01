@@ -25,7 +25,6 @@ olmak üzere yeni bir duruşma günü tayin edilir.
 (5) (Değişik:22/7/2020-7251/14 md.) 139 uncu madde uyarınca yapılan ihtara rağmen
 dilekçelerinde gösterdikleri belgeleri sunmayan veya belgelerin getirtilmesi için gerekli
 açıklamayı yapmayan tarafın bu delillere dayanmaktan vazgeçmiş sayılmasına karar verilir.
-İddia ve savunmanın genişletilmesi veya değiştirilmesi
 
 ### Bizim Yorumumuz
 

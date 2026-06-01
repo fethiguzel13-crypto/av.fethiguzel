@@ -17,7 +17,6 @@ Satışlara ilişkin ihalelerde müşterinin aynı süre içinde ihale bedelini 
 bulunan vergi, resim ve harçları yatırması, diğer giderleri ödemesi gerekir.
 Bu zorunluluklara uyulmadığı takdirde, protesto çekmeye ve hüküm almaya gerek
 kalmaksızın ihale bozulur ve varsa geçici teminat gelir kaydedilir.
-Taşınmaz malların müşteri tarafından adına tescil ettirilmesi:
 
 ### Bizim Yorumumuz
 

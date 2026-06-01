@@ -16,7 +16,6 @@ suretiyle cereyan eder.
 başvurulamaz.
 (Ek fıkra: 15/8/2017-KHK-694/8 md.; Aynen kabul: 1/2/2018-7078/8 md.) İdari
 yargının görev alanına giren konularda ilamsız takip yoluna başvurulamaz.
-İflasa tabi şahıslar hakkındaki takip:
 
 ### Bizim Yorumumuz
 

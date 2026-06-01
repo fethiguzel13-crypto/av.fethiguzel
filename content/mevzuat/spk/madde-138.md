@@ -145,7 +145,6 @@ hakkında uygulanmaz. (İptal ikinci cümle: Anayasa Mahkemesi’nin 14/11/2013 
 E.: 2013/24, K.: 2013/133 sayılı Kararı ile.)
 (14) Bu maddenin uygulanması sırasında ortaya çıkabilecek tereddütleri gidermeye
 ilgili Bakan yetkilidir.
-Değiştirilen ve yürürlükten kaldırılan hükümler
 
 ### Bizim Yorumumuz
 

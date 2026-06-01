@@ -17,7 +17,6 @@ Türkiye Ticaret Sicili Gazetesi’nde ilan edilir.
 edilmesi mümkündür.
 (3) İhraca ilişkin ilan, reklam ve açıklamalar izahname ile tutarlı olmalı, gerçeğe
 aykırı, abartılmış ve yanıltıcı bilgiler içermemelidir.
-İzahnamedeki değişiklikler ve yeni hususların izahnameye eklenmesi
 
 ### Bizim Yorumumuz
 

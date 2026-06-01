@@ -18,7 +18,6 @@ edilenler İçişleri Vekaleti Meslek Kursuna iştirak ettirilir. Bu kursu da ba
 nci maddeye göre asaleten nahiye müdürlüklerine tayin edilirler.
 Kurs süresi bir yıldır. Gerek adaylık devresinde kifayeti tasdik edilmiyenler, gerek
 adaylığını bitirip de kursta başarı gösteremiyenler nahiye müdürlüğüne tayin edilmiyerek
-vazifelerine son verilir.
 
 ### Bizim Yorumumuz
 

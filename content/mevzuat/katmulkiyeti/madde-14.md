@@ -25,10 +25,6 @@ değiştirilmiştir.
 
 (Değişik üçüncü fıkra: 23/6/2009-5912/3 md.) (Mülga fıkra:9/6/2021-7327/12 md.)
 (Ek fıkra: 14/11/2007-5711/7 md.; Mülga: 23/6/2009-5912/3 md.)
-ÜÇÜNCÜ BÖLÜM
-Kat Maliklerinin ve Kat İrtifakı Sahiplerinin Hakları
-A) Kat maliklerinin hakları:
-I - Bağımsız bölüm üzerinde:
 
 ### Bizim Yorumumuz
 

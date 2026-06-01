@@ -31,7 +31,6 @@ menkul ve gayrimenkul mallar.
 Teminat sonradan tamamen veya kısmen değerini kaybeder veya borç miktarı artarsa,
 teminatın tamamlanması veya yerine başka teminat gösterilmesi istenir.
 Borçlu verdiği teminatı kısmen veya tamamen aynı değerde başkalariyle değiştirebilir.
-Şahsi kefalet:
 
 ### Bizim Yorumumuz
 

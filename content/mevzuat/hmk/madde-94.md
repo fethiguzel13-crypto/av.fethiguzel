@@ -17,9 +17,6 @@ geçirerek ihtar eder. Kesin olduğu belirtilmeyen süreyi geçirmiş olan taraf
 isteyebilir; bu şekilde verilecek ikinci süre kesindir ve yeniden süre verilemez.
 (3) Kesin süre içinde yapılması gereken işlemi, süresinde yapmayan tarafın, o işlemi
 yapma hakkı ortadan kalkar.
-İKİNCİ AYIRIM
-Eski Hâle Getirme
-Talep
 
 ### Bizim Yorumumuz
 

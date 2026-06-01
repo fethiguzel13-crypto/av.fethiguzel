@@ -23,7 +23,6 @@ Resmi Gazete’de yayımlanan “Hukuk Muhakemeleri Kanunu Gider Avansı Tarifes
 
 (3) (Ek:22/7/2020-7251/9 md.) Taraflardan her birinin ikamesini talep ettiği delil için
 mahkemece belirlenen delil avansına ilişkin 324 üncü madde hükümleri saklıdır.
-Belgelerin birlikte verilmesi
 
 ### Bizim Yorumumuz
 

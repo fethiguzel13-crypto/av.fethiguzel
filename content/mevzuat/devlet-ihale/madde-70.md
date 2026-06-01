@@ -19,9 +19,6 @@ sözleşme yenilenerek işe devam edilir.
 Birlikte yapılan taahhütlerde gruba dahil pilot firmadan başka herhangi bir ortak şahsın
 ölümü veya ortak şirketin herhangi bir sebeple dağılması halinde, pilot firma ve grubun diğer
 ortakları, teminat dahil işin o ortağa yüklediği sorumlulukları da üzerlerine alarak işi bitirirler.
-ÜÇÜNCÜ KISIM
-İhale Usullerine Tabi Olmayan İşler
-İhtiyaçların kamu kuruluşlarından karşılanması:20
 
 ### Bizim Yorumumuz
 

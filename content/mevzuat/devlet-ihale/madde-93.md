@@ -37,7 +37,6 @@ kaynaklanan ve 84 üncü maddenin üçüncü fıkrasında belirtilen fiil veya d
 haklarında ihalelere katılmaktan yasaklama kararı verilmesi gerektiği idarece tespit
 edilenlerden henüz yasaklama kararı verilememiş olanlar hakkında da 84 üncü maddenin
 dördüncü fıkrası hükmü uygulanır.
-Kaldırılan hükümler:
 
 ### Bizim Yorumumuz
 

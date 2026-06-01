@@ -44,7 +44,6 @@ ile diğer hususlar İçişleri Bakanlığınca belirlenir.
 kâğıtlar ve tescil plakalarının yetkilendirilenler dışında basımını veya dağıtımını yapanlara
 10.000 Türk Lirası idari para cezası verilir. Ayrıca bu kişiler Türk Ceza Kanununun 204 üncü
 maddesi hükmüne göre cezalandırılır.
-Bilgi işlem merkezinin faaliyeti:
 
 ### Bizim Yorumumuz
 

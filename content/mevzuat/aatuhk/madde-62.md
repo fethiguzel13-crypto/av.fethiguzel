@@ -25,7 +25,6 @@ baki kalmak üzere gösterilen menkul veya alacak da haczolunur.
 menfaatlerine tahsil dairesi müdahale etmez.
 Tahsil dairesi alacaklı amme idaresi ile borçlunun menfaatlerini mümkün olduğu kadar
 telif etmekle mükelleftir.
-Diğer hakların paraya çevrilmesi:
 
 ### Bizim Yorumumuz
 

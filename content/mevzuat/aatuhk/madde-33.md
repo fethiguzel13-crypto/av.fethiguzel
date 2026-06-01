@@ -20,7 +20,6 @@ müteselsilen mesul olurlar. Bu mesuliyet yapılan tasarrufların ifade ettiği 
 geçemez.
 Bunların ödedikleri borçlar için amme alacağı ödenmeden kendilerine dağıtım
 yapılmış olanlara rücu hakları mahfuzdur.
-Ortaklığın feshini isteme:
 
 ### Bizim Yorumumuz
 

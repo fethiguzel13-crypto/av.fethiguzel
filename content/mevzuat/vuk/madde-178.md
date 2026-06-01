@@ -31,7 +31,6 @@ takip eden hesap döneminden başlıyarak, II nci sınıfa geçebilirler:
 nispette düşük olursa, veya;
 2. Arka arkaya üç dönemin iş hacmı 177 nci maddede yazılı hadlere nazaran % 20 ye
 kadar bir düşüklük gösterirse.
-Sınıf değiştirme:
 
 ### Bizim Yorumumuz
 

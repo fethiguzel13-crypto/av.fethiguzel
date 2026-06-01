@@ -19,9 +19,6 @@ Bir parsel üzerinde birden fazla bina ve tesislerin yapımı gerektiğinde (Koo
 evleri, siteler, toplu konut inşatı gibi) imar parselasyon planları ifraza gerek kalmadan bu
 ihtiyacı karşılayacak şekilde düzenlenir veya değiştirilir ve burada, talep halinde, Kat Mülkiyeti
 Kanunu hükümleri uygulanır.
-DÖRDÜNCÜ BÖLÜM
-Yapı ve Yapı ile İlgili Esaslar
-Yapı:
 
 ### Bizim Yorumumuz
 

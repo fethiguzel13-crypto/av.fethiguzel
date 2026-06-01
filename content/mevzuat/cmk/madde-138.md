@@ -25,9 +25,6 @@ sonra gelmek üzere “veya kovuşturma” ibaresi eklenmiş ve fıkrada yer ala
 olan soruşturma veya kovuşturmayla ilgisi olmayan ve ancak, 135 inci maddenin altıncı
 fıkrasında sayılan suçlardan birinin işlendiği şüphesini uyandırabilecek bir delil elde edilirse;
 bu delil muhafaza altına alınır ve durum Cumhuriyet Savcılığına derhâl bildirilir.
-ALTINCI BÖLÜM
-Gizli Soruşturmacı ve Teknik Araçlarla İzleme
-Gizli soruşturmacı görevlendirilmesi44
 
 ### Bizim Yorumumuz
 

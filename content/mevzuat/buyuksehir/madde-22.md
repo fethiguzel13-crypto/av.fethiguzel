@@ -25,9 +25,6 @@ durumlarına göre toplam memur sayısının % 10'unu ve Devlet memurlarına uyg
 katsayının (30.000) gösterge rakamı ile çarpımı sonucu bulunacak miktarı geçmemek üzere
 hastalık ve yıllık izinleri dahil olmak üzere, çalıştıkları sürelerle orantılı olarak encümen
 kararıyla yılda en fazla iki kez ikramiye ödenebilir.
-ALTINCI BÖLÜM
-Malî Hükümler
-Büyükşehir belediyesinin gelirleri29
 
 ### Bizim Yorumumuz
 

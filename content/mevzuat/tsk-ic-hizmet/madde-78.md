@@ -29,7 +29,6 @@ b) Eğer bir kışlada, konakta veya ordugahta başka başka sınıflardan birli
 bulunuyorsa nizam karakol vazifesi kumandanın tertibi üzerine münavebe ile yapılır.
 Kıtası olmıyan karargah ve askeri kurumların karakol nöbetçi ve devriyeleri o
 mevkideki en yakın nizam karakolundan temin olunur.
-III - Karakol, karakol nöbetçisi ve devriyelerin muvakkat yakalama salahiyetleri
 
 ### Bizim Yorumumuz
 

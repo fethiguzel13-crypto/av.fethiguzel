@@ -19,8 +19,6 @@ hizmeti sağlanır.
 (3) Başvuru sahibi ve uluslararası koruma statüsü sahibi kişi, sivil toplum kuruluşları
 tarafından sağlanan danışmanlık hizmetlerinden faydalanabilir.
 
-Şartlı mültecinin ve ikincil koruma statüsü sahibinin ikameti
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

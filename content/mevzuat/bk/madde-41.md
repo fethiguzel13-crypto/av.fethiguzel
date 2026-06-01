@@ -14,7 +14,6 @@ muhasebeleştirilmesi, finansal tabloların hazırlanması, onaylanması, denetl
 mercilere sunulması ve yayımlanması dâhil finansal raporlama sistemini, görev, yetki ve
 sorumlulukları belirlemek, bilgi sistemlerini yeterli hale getirmek ve uygulamayı gözetmekle
 yükümlüdür.
-Belgelerin saklanması
 
 ### Bizim Yorumumuz
 

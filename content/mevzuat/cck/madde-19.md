@@ -16,7 +16,6 @@ erteleme süresi üç yıldır.
 (2) (Ek:17/10/2019-7188/33 md.) Ceza Muhakemesi Kanununun 171 inci maddesinin
 ikinci fıkrasında belirtilen hapis cezasının üst sınırı, on beş yaşını doldurmamış çocuklar
 bakımından beş yıl olarak uygulanır.
-Adlî kontrol
 
 ### Bizim Yorumumuz
 

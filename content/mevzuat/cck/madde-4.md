@@ -31,9 +31,6 @@ yetişkinlerden ayrı tutulmaları,
 l) Çocuklar hakkında yürütülen işlemlerde, yargılama ve kararların yerine
 getirilmesinde kimliğinin başkaları tarafından belirlenememesine yönelik önlemler alınması,
 İlkeleri gözetilir.
-İKİNCİ BÖLÜM
-Koruyucu ve Destekleyici Tedbirler
-Koruyucu ve destekleyici tedbirler
 
 ### Bizim Yorumumuz
 

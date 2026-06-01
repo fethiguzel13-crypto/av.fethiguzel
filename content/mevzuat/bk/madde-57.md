@@ -20,7 +20,6 @@ konusu gayrimenkul ticareti olan ortaklıklara katılamazlar.
 (Mülga fıkra:20/2/2020-7222/18 md.)
 Alacaklardan dolayı edinilmek zorunda kalınan emtia ve gayrimenkullerin elden
 çıkarılmasına ilişkin usûl ve esaslar Kurul tarafından belirlenir.
-Sandık ve vakıflara ilişkin işlemler
 
 ### Bizim Yorumumuz
 

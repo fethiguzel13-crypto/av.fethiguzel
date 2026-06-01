@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 78- Belediye, kamu kurum ve kuruluşlarıyla doğrudan yazışabilir.
-Belediye tasarrufundaki yerler
 
 ### Bizim Yorumumuz
 

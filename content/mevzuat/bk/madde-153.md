@@ -17,7 +17,6 @@ vermeyen kişi bir yıldan üç yıla kadar hapis ve beşyüz günden binbeşyü
 cezası ile cezalandırılır.
 Bu Kanunla yetkilendirilen denetim görevlilerinin görevlerini yapmalarına engel olan
 kişi iki yıldan beş yıla kadar hapis cezası ile cezalandırılır.
-Belgelerin saklanması yükümlülüğüne aykırı davranmak
 
 ### Bizim Yorumumuz
 

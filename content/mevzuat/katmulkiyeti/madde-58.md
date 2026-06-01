@@ -15,7 +15,6 @@ Devre mülk hakkı ancak mesken nitelikli, kat mülkiyetine veya kat irtifakına
 yahut müstakil yapılarda kurulabilir.
 Devre mülk üzerinde bu hakla bağdaşan ayni haklar tesis edilebilir.
 Devre mülk hakkı bağlı olduğu müşterek mülkiyet payına bağlı olarak devir ve temlik
-edilebilir ve mirasçılara geçer.
 
 ### Bizim Yorumumuz
 

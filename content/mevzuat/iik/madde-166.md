@@ -25,7 +25,6 @@ mahalli gazetede ilan yapılmaz.616263
 İflasın kapandığı veya kaldırıldığı da aynı suretle bildirilir ve ilan olunur.
 III – KAMBİYO SENETLERİ (ÇEK, POLİÇE VE EMRE MUHARRER
 SENET) HAKKINDAKİ HUSUSİ TAKİP USULLERİ:64
-Takibin kabulü şartları:
 
 ### Akademik Yorum ve Analiz
 

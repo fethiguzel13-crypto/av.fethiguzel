@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 Madde 5 – Nizam: Tüzükler, kararnameler, yönetmelikler, talimnamelerin ve
-talimatların hükümleridir.
 
 ### Bizim Yorumumuz
 

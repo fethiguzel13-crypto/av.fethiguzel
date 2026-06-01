@@ -48,9 +48,6 @@ b) Kamu görevlisi tarafından görevi sebebiyle veya kamu görevlisine karşı 
 dolayı işlenen suçlar ile asker kişiler tarafından işlenen askerî suçlar,
 c) Cinsel dokunulmazlığa karşı işlenen suçlar,
 hakkında uygulanmaz.
-İKİNCİ BÖLÜM
-Kovuşturmaya Yer Olmadığına Dair Karar, İtiraz ve İddianamenin İadesi
-Kovuşturmaya yer olmadığına dair karar
 
 ### Bizim Yorumumuz
 

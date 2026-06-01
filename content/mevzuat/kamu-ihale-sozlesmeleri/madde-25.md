@@ -22,7 +22,6 @@ aykırı hareket etmek.
 f) Mücbir sebepler dışında, ihale dokümanı ve sözleşme hükümlerine uygun olarak
 taahhüdünü yerine getirmemek.
 g) Sözleşmenin 16 ncı madde hükmüne aykırı olarak devredilmesi veya devir alınması.
-İhalelere katılmaktan yasaklama
 
 ### Bizim Yorumumuz
 

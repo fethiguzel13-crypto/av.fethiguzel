@@ -19,7 +19,6 @@ ihraçları, bu Kanun kapsamı dışındadır.
 (2) Bu Kanunda ve bu Kanuna dayanılarak yürürlüğe konulan ikincil mevzuatta hüküm
 bulunmayan ve diğer kanunlarda bu Kanunun uygulanmayacağının belirtildiği hâllerde genel
 hükümler uygulanır.
-Kısaltmalar ve tanımlar
 
 ### Bizim Yorumumuz
 

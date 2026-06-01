@@ -50,7 +50,6 @@ her aşamada duruşma açmak suretiyle genel hükümler uyarınca yargılamaya d
 veya kovuşturma yapılması izne ya da talebe bağlı olan suçlar hakkında uygulanmaz.
 (8) Basit yargılama usulü, bu kapsama giren bir suçun, kapsama girmeyen başka bir
 suçla birlikte işlenmiş olması hâlinde uygulanmaz.
-Basit yargılama usulünde itiraz
 
 ### Bizim Yorumumuz
 

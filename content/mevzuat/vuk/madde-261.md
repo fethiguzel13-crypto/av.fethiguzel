@@ -23,7 +23,6 @@ Madde 261 – Değerleme, iktisadi kıymetin nevi ve mahiyetine göre, aşağıd
 7. (Ek: 30/12/1980-2365/46 md.) Rayiç bedel,
 8. Emsal bedeli ve ücreti.84
 9. (Ek:14/10/2021-7338/26 md.) Alış bedeli.
-Maliyet bedeli:
 
 ### Akademik Yorum ve Analiz
 

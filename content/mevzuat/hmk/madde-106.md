@@ -15,7 +15,6 @@ talep edilir.
 (2) Tespit davası açanın, kanunlarda belirtilen istisnai durumlar dışında, bu davayı
 açmakta hukuken korunmaya değer güncel bir yararı bulunmalıdır.
 (3) Maddi vakıalar, tek başlarına tespit davasının konusunu oluşturamaz.
-Belirsiz alacak davası9
 
 ### Bizim Yorumumuz
 

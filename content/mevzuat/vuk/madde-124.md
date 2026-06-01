@@ -14,7 +14,6 @@ Vergi mahkemesinde dava açma süresi geçtikten sonra yaptıkları düzeltme ta
 reddolunanlar şikayet yolu ile Maliye Bakanlığına müracaat edebilirler.
 Bu madde gereğince il özel idare vergileri hakında valiliğe ve belediye vergileri
 hakkında belediye başkanlığına müracaat edilir.
-Düzeltme şümulü:
 
 ### Bizim Yorumumuz
 

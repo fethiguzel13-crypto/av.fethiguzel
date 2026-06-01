@@ -25,9 +25,6 @@ ve kademeden başlamış olup da sınıf değiştirenlerin yeni görevlerindeki 
 eski sınıflarında kazandıkları derece ve kademelere tekabül eden süre kadar uzatılır ve bu süre
 tamamlanıncaya kadar kendilerine sınıf değiştirmeleri sırasında bulundukları derecede
 kademe ilerlemesi verilmez.
-BÖLÜM: 3
-Yer Değiştirmeler
-Yer değiştirme suretiyle atanma:
 
 ### Bizim Yorumumuz
 

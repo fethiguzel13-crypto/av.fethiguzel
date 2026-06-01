@@ -24,10 +24,6 @@ da birinci fıkrada öngörülen süre içinde de re'sen karar verir.
 ibaresinden sonra gelmek üzere “, şüpheli veya müdafii dinlenilmek suretiyle” ibaresi eklenmiştir.
 21
 
-ÜÇÜNCÜ BÖLÜM
-Adlî Kontrol
-Adlî kontrol
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

@@ -21,7 +21,6 @@ asgari ücret tarifesine göre takdir ettiği vekâlet ücretini,
 e) Bu Kanuna göre mahkemelere yapılacak başvurularda alınan yargı harçlarını,
 f) Tahkim yargılamasına ilişkin tebligat giderlerini,
 kapsar.
-Avans yatırılması ve giderlerin ödenmesi
 
 ### Bizim Yorumumuz
 

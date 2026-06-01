@@ -26,7 +26,6 @@ mucip olacak surette vukubulacak tebeddülleri ve hizmetine nihayet verildiği t
 keyfiyeti de malmemuru veya daire amiri yahut hususi müesseselerin kanuni muhatapları
 derhal icra dairesine bildirmeğe ve ikinci halde haciz muamelesinden o şube veya amirini
 haberdar etmeğe mecburdur.
-Yukarıdaki maddeye riayet etmeyenler hakkında hükümler:
 
 ### Bizim Yorumumuz
 

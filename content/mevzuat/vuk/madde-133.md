@@ -15,10 +15,6 @@ Yoklama cetvellerinin kullanılacağı halleri Maliye Bakanlığı belli eder.
 Yoklama cetveli kullanılan hallerde ihtilaflı olaylar yoklama fişi mahiyetinde ayarı bir
 tutanakla tesbit olunur.
 
-İKİNCİ BÖLÜM
-Vergi İncelemeleri
-Maksat:
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

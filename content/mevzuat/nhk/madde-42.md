@@ -15,9 +15,6 @@ Bakanlıkça belirlenen ve bastırılan talep belgeleri kullanılır. Doğum tut
 kimlik kartı düzenlemesinde talep belgesi aranmaz.
 (2) Talep belgelerini uygulamaya koymaya veya uygulamadan kaldırmaya ve bunların
 saklama sürelerini belirlemeye Bakanlık yetkilidir.
-ALTINCI KISIM
-Nüfus Kayıtlarındaki Bilgilerin Verilmesi
-Nüfus kayıt örneği verilmesi
 
 ### Bizim Yorumumuz
 

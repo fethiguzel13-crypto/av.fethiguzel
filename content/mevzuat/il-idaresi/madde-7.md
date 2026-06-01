@@ -32,7 +32,6 @@ Yukarda (A, B) fıkraları dışında kalan il merkez teşkilatına bağlı memu
 şube başkanının inhası ile valiler tarafından tayin, nakil ve tahvil olunurlar.
 Tayin, nakil ve tahviller için gereken yolluk ödenekleri bütçe yılı başında ilgili
 Bakanlık veya genel müdürlüklerce valiler emrine gönderilir.
-II - Valilerin hukuki durumları, görev ve yetkileri
 
 ### Bizim Yorumumuz
 

@@ -87,7 +87,6 @@ punto ile işlenmiştir.
 giderleri.
 Bu maddenin uygulanmasında, kolektif şirketlerin ortakları ile adi ve eshamlı
 komandit şirketlerin komandite ortakları teşebbüs sahibi sayılır.
-Birden fazla takvim yılına sirayet eden inşaat ve onarma işleri:
 
 ### Bizim Yorumumuz
 

@@ -18,7 +18,6 @@ Madde 260 – (Değişik: 18/2/1965-538/100 md.)
 5. Alacaklının zararın tazminiyle mükellef olduğu ve gösterilen teminatın nelerden
 ibaret bulunduğu,
 Yazılır.
-İhtiyati haciz kararının icrası:
 
 ### Bizim Yorumumuz
 

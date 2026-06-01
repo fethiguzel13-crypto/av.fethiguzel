@@ -18,9 +18,6 @@ paylarının tümünü veya bir kısmını ya da kendisine yönetimde hak sahibi
 araçları, miras yoluyla iktisap durumu hariç olmak üzere, devralması hukuka aykırı ve yasaktır.
 Hangi tür birleşme ve devralmaların hukuki geçerlilik kazanabilmesi için Kurula
 bildirilerek izin alınması gerektiğini Kurul, çıkaracağı tebliğlerle ilan eder.
-İKİNCİ BÖLÜM
-Kurulun Yetkileri
-Menfi Tespit
 
 ### Bizim Yorumumuz
 

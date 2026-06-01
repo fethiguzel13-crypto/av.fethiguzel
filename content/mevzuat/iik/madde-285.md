@@ -22,7 +22,6 @@ Konkordato talebinde bulunan, Adalet Bakanlığı tarafından yürürlüğe konu
 belirtilen konkordato gider avansını yatırmaya mecburdur. Bu durumda 12/1/2011 tarihli ve
 6100 sayılı Hukuk Muhakemeleri Kanununun 114 üncü ve 115 inci maddeleri kıyasen
 uygulanır.
-Konkordato talebine eklenecek belgeler:86
 
 ### Bizim Yorumumuz
 

@@ -19,7 +19,6 @@ veya azalma sebebiyle değiştirilemez. 44 üncü madde hükmü saklıdır.
 (Değişik üçüncü fıkra: 23/6/2009-5912/1 md.) Kat irtifakı arsa payına bağlı bir irtifak çeşidi olup, yapının tamamı için düzenlenecek yapı kullanma izin belgesine dayalı olarak,
 bu Kanunda gösterilen şartlar uyarınca kat mülkiyetine resen çevrilir. Bu işlem, arsa malikinin
 veya kat irtifakına sahip ortak maliklerden birinin istemi ile dahi gerçekleştirilebilir.
-IV - Ortak yerler:
 
 ### Bizim Yorumumuz
 

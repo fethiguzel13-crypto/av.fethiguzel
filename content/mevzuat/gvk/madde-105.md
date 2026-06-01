@@ -29,7 +29,6 @@ faaliyetlerini icra ettikleri;133
 3. Dar mükellefiyete tabi olanların vergileri, beyannamelerini vermeye mecbur
 oldukları;
 Yerin vergi dairesince tarh olunur.
-Tarhiyatın muhatabı:
 
 ### Bizim Yorumumuz
 

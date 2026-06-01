@@ -23,7 +23,6 @@ Denetçiler bu raporu ve verecekleri kararları ve gerekli gördükleri diğer h
 den başlayıp sıra ile giden sayfa numaraları taşıyan ve her sayfası noter mührüyle tasdikli bir
 deftere geçirip tarih koyarak altını imza ederler.
 F) Yenilik ve ilaveler:
-I - Faydalı olanlar:
 
 ### Bizim Yorumumuz
 

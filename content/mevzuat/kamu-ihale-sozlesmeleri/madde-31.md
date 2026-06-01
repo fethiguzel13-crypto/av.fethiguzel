@@ -14,9 +14,6 @@ işin fen ve sanat kurallarına uygun olarak yapılmamasından ortaya çıkan za
 yıl süre ile yüklenici ile birlikte müteselsilen sorumludur. Ayrıca haklarında 28 inci madde
 hükümleri uygulanır.
 
-
-Danışmanlık hizmeti sunucularının sorumluluğu
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

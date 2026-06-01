@@ -11,7 +11,6 @@ commentaryStatus: "pending"
 
 Madde 63- Belediye bütçesiyle ödenek tahsis edilen her bir harcama biriminin en üst
 yöneticisi harcama yetkilisidir.
-Kesinhesap
 
 ### Bizim Yorumumuz
 

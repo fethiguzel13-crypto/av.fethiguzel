@@ -83,7 +83,6 @@ kapatıldıktan sonra, üzerinde yazılı bulunan düzenleme tarihine göre kanu
 içinde ibraz edilen çekler karşılıksızdır işlemine tabi tutulur.
 (11) Esnaf ve sanatkâr odalarına kayıtlı olanlardan, tacir kişilere özgü çek hesabı
 açtıranlar hakkında bu Kanunun tacirlere ilişkin hükümleri uygulanır.
-İbraz, ödeme, çekin karşılıksız olduğunun tespiti ve gecikme cezası
 
 ### Bizim Yorumumuz
 

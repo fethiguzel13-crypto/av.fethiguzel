@@ -18,7 +18,6 @@ aylık sürelerle incelettirilir.
 gözetimini üstlenen kimselerin, tedbir kararını yerine getiren kişi ve kuruluşun temsilcisi ile
 Cumhuriyet savcısının talebi üzerine veya re'sen çocuğa uygulanan tedbirin sonuçlarını
 inceleyerek kaldırabilir, süresini uzatabilir veya değiştirebilir.
-Acil korunma kararı alınması
 
 ### Bizim Yorumumuz
 

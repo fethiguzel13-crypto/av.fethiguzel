@@ -17,7 +17,6 @@ içeriğini öğrenme yetkisine sahip bulunan kişiler tarafından bir başkası
 reddi, beraat veya ceza verilmesine yer olmadığı kararı verilip kesinleşmesi hâllerinde
 Cumhuriyet savcısının huzurunda derhâl yok edilir ve bu husus dosyasında muhafaza edilmek
 üzere tutanağa geçirilir.9
-Fizik kimliğin tespiti
 
 ### Bizim Yorumumuz
 

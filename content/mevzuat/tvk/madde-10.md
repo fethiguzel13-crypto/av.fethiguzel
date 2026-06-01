@@ -15,7 +15,6 @@ Ancak, aranan şartları taşımak vatandaşlığın kazanılmasında kişiye mu
 (2) (Ek: 19/10/2017-7039/28 md.) Bu Kanun uyarınca sonradan Türk vatandaşlığının
 kazanılmasında uygulanacak temel ilke ve esaslar ilgili kamu kurum ve kuruluşlarının görüşleri
 alınmak suretiyle Bakanlıkça belirlenir.
-Başvuru için aranan şartlar
 
 ### Bizim Yorumumuz
 

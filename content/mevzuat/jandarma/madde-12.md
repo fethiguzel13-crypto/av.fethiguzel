@@ -21,9 +21,6 @@ Bu maddenin uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığınca 
 konulan yönetmelikle belirlenir.
 DÖRDÜNCÜ KISIM
 Personel, Kaynakları ve Özlük Hakları
-BİRİNCİ BÖLÜM
-Personel ve Kaynakları
-Personel, kaynakları ve uygulanacak mevzuat:
 
 ### Bizim Yorumumuz
 

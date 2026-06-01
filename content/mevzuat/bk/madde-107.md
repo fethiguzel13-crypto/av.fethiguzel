@@ -87,7 +87,6 @@ devri, birleştirilmesi ve satışı ile ilgili süreç devrin yapıldığı tar
 aylık bir süre içerisinde tamamlanır. Fon Kurulu kararı ile bu süre üç ayı geçmemek üzere
 uzatılabilir. Bu süre içinde devir, birleşme veya satışın tamamlanamamış olması hâlinde
 Fonun talebi üzerine Kurul bankanın faaliyet iznini kaldırır.
-Banka kaynaklarının istismarı
 
 ### Bizim Yorumumuz
 

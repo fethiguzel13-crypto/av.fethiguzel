@@ -25,7 +25,6 @@ yerlerinin işletilmesi
 ğ) Sermaye piyasası araçlarının müşteri namına saklanması ve yönetimi ile portföy
 saklanması
 h) Kurulca belirlenecek diğer hizmet ve faaliyetlerde bulunulması
-Yan hizmetler
 
 ### Bizim Yorumumuz
 

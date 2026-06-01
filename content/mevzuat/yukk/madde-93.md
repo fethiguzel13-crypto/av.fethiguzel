@@ -16,7 +16,6 @@ Komiserliği kaynakları ve diğer kaynaklardan güncel bilgi toplanır.
 (2) Menşe ülke bilgi sisteminin kurulması, bilgilerin toplanması, depolanması,
 sistemin işletilmesi, ilgili kamu kurum ve kuruluşlarının kullanımına açılması Genel
 Müdürlükçe belirlenecek usul ve esaslar çerçevesinde yapılır.
-Gizlilik ilkesi ve kişisel dosyaya erişim
 
 ### Bizim Yorumumuz
 

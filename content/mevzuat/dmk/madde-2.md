@@ -17,7 +17,6 @@ yetiştirilmelerini, ilerleme ve yükselmelerini, ödev, hak, yüküm ve sorumlu
 aylıklarını ve ödeneklerini ve diğer özlük işlerini düzenler.
 (Mülga birinci cümle: 13/2/2011 - 6111/117 md.) Bu Kanunda öngörülen
 yönetmelikler Cumhurbaşkanınca yürürlüğe konulur.5
-Temel ilkeler:
 
 ### Akademik Yorum ve Analiz
 

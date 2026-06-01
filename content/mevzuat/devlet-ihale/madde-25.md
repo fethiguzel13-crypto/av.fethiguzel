@@ -14,7 +14,6 @@ konusu olan işin tahmin edilen bedelinin % 3'ü oranında geçici teminat alın
 uyarınca yapılacak ihalelerde geçici teminat teklif edilen bedelin, tasfiye idaresince yapılan
 taşınır mal satışlarında ise satışa esas bedelin % 3'ünden az olamaz.
 Pazarlık usulü ile yapılacak ihalelerde, geçici teminat alıp almamakta idareler serbesttir.
-Teminat olarak kabul edilecek değerler:
 
 ### Bizim Yorumumuz
 

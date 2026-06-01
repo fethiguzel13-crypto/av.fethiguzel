@@ -19,7 +19,6 @@ Aşağıda yazılı olanlar vergi karnesi almaya mecburdurlar:
 zorunda olanlar.
 Durumu yukarıdaki şartların birden fazlasına girse bile, bir mükellef tek vergi karnesi
 alır.
-Karne alınması:
 
 ### Akademik Yorum ve Analiz
 

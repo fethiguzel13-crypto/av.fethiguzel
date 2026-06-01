@@ -28,7 +28,6 @@ bulunduğu hâlde mahkemece bizzat dinlenmek, isticvap olunmak veya yemin etmek 
 çağrılan taraf için takdir edilecek gündelik, yol ve konaklama giderleri.
 ğ) Vekille takip edilen davalarda kanun gereğince takdir olunacak vekâlet ücreti.
 h) Yargılama sırasında yapılan diğer giderler.
-Delil ikamesi için avans
 
 ### Bizim Yorumumuz
 

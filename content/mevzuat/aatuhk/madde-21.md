@@ -23,7 +23,6 @@ terekenin resmi tasfiyeye tabi tutulması hallerinde amme alacakları imtiyazlı
 2004 sayılı İcra ve İflas Kanununun 206 ncı maddesinin üçüncü sırasında, bu sıranın
 önceliğini alan alacaklar da dahil olmak üzere tüm imtiyazlı alacaklar ile birlikte işleme tabi
 tutulur.
-Amme alacaklarını kesip ödemek mecburiyetinde olanlar:
 
 ### Bizim Yorumumuz
 

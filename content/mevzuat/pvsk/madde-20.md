@@ -25,7 +25,6 @@ Fıkranın (A) bendinde gösterilen hallerde talep derhal yerine getirilir, (...
 
 
 İlgili kurumlar kovuşturma dolayısiyle zabıta kuvvetlerine gereken her türlü yardım ve
-kolaylığı göstermekle yükümlüdürler.
 
 ### Bizim Yorumumuz
 

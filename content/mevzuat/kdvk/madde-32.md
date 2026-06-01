@@ -43,7 +43,6 @@ ibaresinden sonra gelmek üzere "ile 17 nci maddenin (4) numaralı fıkrasının
 
 vergisi yerine sektörler itibarıyla ihracat bedelinin belli bir oranına kadar iade yaptırmaya
 yetkilidir.90
-Kısmi vergi indirimi:
 
 ### Bizim Yorumumuz
 

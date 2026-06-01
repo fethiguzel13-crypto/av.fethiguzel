@@ -25,9 +25,6 @@ ayrıldıkları yılda kurumlar vergisi matrahının tespitinde gider olarak kab
 Bu madde uyarınca özel karşılık ayrıldıktan sonra tahsil imkânı kalmaması nedeniyle
 kayıttan düşülen krediler, 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanununun 322 nci
 maddesi hükümleri kapsamında değersiz alacak addolunur.
-ÜÇÜNCÜ BÖLÜM
-Sınırlamalar
-Kredi sınırları
 
 ### Bizim Yorumumuz
 

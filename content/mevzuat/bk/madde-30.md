@@ -19,7 +19,6 @@ kontrol altında tutulmasını temin etmek, maruz kalınan her türlü riskin ta
 değerlendirilmesi ve yönetimi için gerekli alt yapıyı hazırlamak ve yeterli iletişim ağını
 oluşturmak zorundadır. İç kontrol faaliyetleri yönetim kuruluna bağlı olarak çalışacak iç
 kontrol birimi ve personeli tarafından yürütülür.
-Risk yönetimi sistemi
 
 ### Bizim Yorumumuz
 

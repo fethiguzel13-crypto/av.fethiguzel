@@ -17,7 +17,6 @@ itibaren beş gün içinde her türlü itiraz veya şikayetini sebepleri ile bir
 edilecek nüshadan bir fazla dilekçe ile icra dairesine bildirmeye mecburdur. Bu dilekçenin bir
 nüshası derhal alacaklıya tebliğ olunur.
 İflas davası:
-a) İtiraz veya şikayet olunmaması:
 
 ### Akademik Yorum ve Analiz
 

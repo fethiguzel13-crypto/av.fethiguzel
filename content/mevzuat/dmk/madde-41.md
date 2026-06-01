@@ -18,7 +18,6 @@ bu kanun, Cumhurbaşkanlığı kararnameleri ve kuruluş kanunlarına dayanılar
 yönetmelikler ile işin gereğine göre daha yüksek öğrenim dereceleri veya muayyen fakülte,
 okul veya öğrenim dallarını veya meslek içi veya meslekle ilgili eğitim programlarını bitirmiş
 olmak veya yabancı dil bilmek gibi şartlar konulabilir.106
-Yetişme ve deneme süresi:
 
 ### Bizim Yorumumuz
 

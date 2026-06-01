@@ -18,7 +18,6 @@ edilebilir.
 (2) (Mülga: 18/6/2014 - 6545/103 md.)
 (3) İftira konusunu oluşturan suç veya yalan tanıklık nedeniyle gözaltına alınma ve
 tutuklama halinde; Devlet, iftira eden veya yalan tanıklıkta bulunan kişiye de rücu eder.
-Tazminat isteyemeyecek kişiler
 
 ### Bizim Yorumumuz
 

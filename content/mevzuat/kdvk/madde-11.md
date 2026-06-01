@@ -63,7 +63,6 @@ Vergisi tahsil edilmeden teslim edilecek mal miktarını; ihracatçı ve ihracat
 edenlerin her biri için bir önceki yıl iş hacmi, cari yıldaki işlemler ve vergi alacağının emniyet
 altına alınması amacıyla gerekli görülen hallerde sınırlamaya ve bu istisnaların uygulamasına
 ilişkin usul ve esaslar ile istisnanın uygulanacağı asgari miktarları tespite yetkilidir.
-İhracat teslimi ve yurt dışındaki müşteriler için yapılan hizmetler:8
 
 ### Bizim Yorumumuz
 

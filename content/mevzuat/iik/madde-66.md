@@ -16,7 +16,6 @@ borcun yalnız bir kısmına itirazda bulunmuşsa takibe, kabul ettiği miktar i
 Borçlu itirazında imzayı reddetmişse alacaklı derhal icra dairesinden tatbika medar
 imzaların celbini istiyebilir.
 6 – İtirazın hükümden düşürülmesi:26
-a) İtirazın iptali:
 
 ### Bizim Yorumumuz
 

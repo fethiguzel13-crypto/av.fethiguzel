@@ -17,7 +17,6 @@ Geçici yönetimle ilgili yönetim plânı hükümleri, toplu yapı alanındaki 
 maliklerinin üçte ikisinin oylarıyla değiştirilebilir.
 (Ek fıkra:7/5/2026-7579/5 md.) Yönetim planlarının bu maddeye aykırı hükümleri
 uygulanmaz.
-Yönetici ve denetçi atama
 
 ### Bizim Yorumumuz
 

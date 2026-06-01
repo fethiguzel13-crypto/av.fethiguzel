@@ -22,9 +22,6 @@ yönetmelik hükümlerine göre kurulan Komisyonun Başkan ve Üyelerine bu komi
 çalışmaları dolayısıyla verilecek ücret Cumhurbaşkanı kararıyla tayin olunur.22
 BEŞİNCİ KISIM
 Tebliğler
-BİRİNCİ BÖLÜM
-Tebliğ Esasları ve Muhataplar
-Tebliğ esasları:
 
 ### Bizim Yorumumuz
 

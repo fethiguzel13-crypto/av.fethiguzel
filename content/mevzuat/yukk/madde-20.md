@@ -25,7 +25,6 @@ g) 76 ncı ve 83 üncü maddelerin birinci fıkraları kapsamında belge sahibi 
 Bakanlık ve Dışişleri Bakanlığınca birlikte belirlenen belge tanzim edilir. Bu yabancılar, ikamet
 izninden muafiyet sağlayan durumları sona erdikten sonra da Türkiye’de kalmaya devam
 edeceklerse, en geç on gün içinde ikamet izni almak üzere valiliklere başvurmakla yükümlüdür.
-İkamet izni başvurusu
 
 ### Bizim Yorumumuz
 

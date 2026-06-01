@@ -23,10 +23,6 @@ edilir.
 muvafakati, araç giriş ve çıkışlarının trafiği aksatmaması ve ilgili idaresinden izin alınmak
 kaydıyla, zemini geçirimli malzeme ile kaplanarak ve gerekli işaretlemeler yapılarak, yapı
 kapsamına girmeyecek şekilde açık otopark olarak işletilebilir.
-BEŞİNCİ BÖLÜM
-Çeşitli Hükümler
-Halihazır haritaların, imar planlarının ve yapı projelerinin hazırlanması ve
-uygulanması:
 
 ### Bizim Yorumumuz
 

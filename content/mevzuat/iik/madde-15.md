@@ -35,7 +35,6 @@ bulunmamasından dolayı icra mahkemesine şikayet olunabilir. Şikayet bu muame
 öğrenildiği tarihten yedi gün içinde yapılır.
 Bir hakkın yerine getirilmemesinden veya sebepsiz sürüncemede bırakılmasından
 dolayı her zaman şikayet olunabilir.
-Şikayet üzerine yapılacak muameleler:
 
 ### Bizim Yorumumuz
 

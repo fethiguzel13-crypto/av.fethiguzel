@@ -15,7 +15,6 @@ herhangi biri paraya çevrilinceye kadar iştirak edebilir.
 Hacze iştirak halinde, hacizli malın bedelinden ilk önce haczi yapan dairenin alacağı
 tahsil olunur. Artanı hacze iştirak tarihi sırası ile alacaklarına mahsup edilmek üzere, hacze
 iştirak eden dairelere ödenir.
-Haczedilemiyecek mallar:
 
 ### Bizim Yorumumuz
 

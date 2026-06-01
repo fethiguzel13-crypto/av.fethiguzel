@@ -39,7 +39,6 @@ yapılmış işler ile devam eden işlerin, 22/9/2012 tarihinden sonra gerçekle
 kullanılan akaryakıta ilişkin olarak özel tüketim vergisinde gerçekleşen artış nedeniyle fiyat farkı
 hesaplanmasında 3l/8/20l3 tarihli ve 28751 sayılı Resmî Gazete’de yayımlanan 2013/5217 sayılı
 Bakanlar Kurulu Kararı hükümleri uygulanır.
-İş ve işyerinin sigortalanması
 
 ### Bizim Yorumumuz
 

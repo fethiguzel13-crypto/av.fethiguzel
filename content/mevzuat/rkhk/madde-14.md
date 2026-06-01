@@ -14,7 +14,6 @@ gördüğü her türlü bilgiyi tüm kamu kurum ve kuruluşlarından, teşebbüs
 birliklerinden isteyebilir.
 Bu makamlar, teşebbüsler ve teşebbüs birliklerinin yetkilileri istenen bilgileri Kurulun
 belirleyeceği süre içinde vermek zorundadır.
-Yerinde İnceleme
 
 ### Bizim Yorumumuz
 

@@ -58,7 +58,6 @@ amacıyla ve sağlayacak ölçüde silahla ateş edilebilir.
 Polis, direnişi kırmak ya da yakalamak amacıyla zor veya silah kullanma yetkisini
 kullanırken, kendisine karşı silahla saldırıya teşebbüs edilmesi halinde, silahla saldırıya
 teşebbüs eden kişiye karşı saldırı tehlikesini etkisiz kılacak ölçüde duraksamadan silahla ateş
-edebilir.
 
 ### Bizim Yorumumuz
 

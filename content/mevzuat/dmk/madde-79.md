@@ -38,7 +38,6 @@ yapılmış bulunan bütün masrafları iki kat olarak ödemeye mecburdurlar.
 Görevlerine başlayıp da yükümlü bulundukları mecburi hizmetini bitirmeden
 ayrılanlar veya bir ceza sebebi ile memurluktan çıkarılmış olanlar mecburi hizmetlerinin eksik
 kalan kısmı ile orantılı miktarı iki kat olarak ödemek zorundadırlar.
-Bilgilerini artırmak üzere dış memleketlere gönderilme esasları148
 
 ### Bizim Yorumumuz
 

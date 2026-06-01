@@ -15,7 +15,6 @@ hakkında uygulanır.
 Yukarıda yazılı vergi, resim ve harçlara bağlı olan vergi, resim ve zamlar da bu
 kanuna tabidir.
 Bu kanunun hükümleri kaldırılan vergi, resim ve harçlar hakkında da uygulanır.
-Gümrük ve tekel vergileri:
 
 ### Bizim Yorumumuz
 

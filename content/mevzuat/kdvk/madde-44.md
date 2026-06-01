@@ -22,7 +22,6 @@ temsilcisinin mevcudiyeti halinde mükellefin tayin edeceği temsilci; tarhiyat 
 böyle bir tayin yapılmamışsa temsilci lerden herhangi birisi, daimi temsilci mevcut değilse
 işlemleri mükellef adına yapanlar,
 Tarhiyata muhatap tutulurlar.
-Tarh zamanı:
 
 ### Bizim Yorumumuz
 

@@ -17,9 +17,6 @@ alınır.
 İşletme hesabı esasında tutulan defterde bu tazminat hasılat kaydedilir.
 DÖRDÜNCÜ KİTAP
 Ceza Hükümleri
-BİRİNCİ KISIM
-Genel Esaslar
-Cezalar:
 
 ### Akademik Yorum ve Analiz
 

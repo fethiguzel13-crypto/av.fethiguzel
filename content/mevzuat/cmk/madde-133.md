@@ -54,7 +54,6 @@ ilgili iş ve işlemlerinden dolayı tazminat davaları, 142 ila 144 üncü madd
 aleyhine açılır. Devlet, ödediği tazminattan dolayı görevinin gereklerine aykırı hareket etmek
 suretiyle görevini kötüye kullanan kayyımlara bir yıl içinde rücu eder.
 Bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama
-ve elkoyma3132
 
 ### Bizim Yorumumuz
 

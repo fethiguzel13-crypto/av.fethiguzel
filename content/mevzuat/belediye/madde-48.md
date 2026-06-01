@@ -16,7 +16,6 @@ gelişme potansiyeli dikkate alınarak, norm kadro ilke ve standartlarına uygun
 gerektiğinde sağlık, itfaiye, imar, insan kaynakları, hukuk işleri ve ihtiyaca göre diğer birimler
 oluşturulabilir. Bu birimlerin kurulması, kaldırılması veya birleştirilmesi belediye meclisinin
 kararıyla olur.
-Norm kadro ve personel istihdamı
 
 ### Bizim Yorumumuz
 

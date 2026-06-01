@@ -27,8 +27,6 @@ Bu kurumlar tek bir borsaya hizmet sağlayabilecekleri gibi birden fazla borsaya
 verebilirler. Borsaların bu kurumlardan hizmet almaları görevleri ile ilgili sorumluluklarını
 ortadan kaldırmaz.
 
-İş birliği
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

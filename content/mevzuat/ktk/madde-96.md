@@ -16,7 +16,6 @@ tutulur.
 Başka tazminat taleplerinin bulunduğunu bilmeksizin zarar görenlerin birine veya
 birkaçına kendilerine düşecek olandan daha fazla ödemede bulunan iyiniyetli sigortacı,
 yaptığı ödeme çerçevesinde, diğer zarar görenlere karşı da borcundan kurtulmuş sayılır.
-Doğrudan doğruya talep ve dava hakkı:
 
 ### Bizim Yorumumuz
 

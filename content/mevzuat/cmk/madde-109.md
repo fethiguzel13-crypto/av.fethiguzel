@@ -62,7 +62,6 @@ etmemek yükümlülüğü altında geçen her iki gün, cezanın mahsubunda bir 
 alınır.23
 (7) (Ek: 6/12/2006 – 5560/19 md.) Kanunlarda öngörülen tutukluluk sürelerinin dolması
 nedeniyle salıverilenler hakkında adlî kontrole ilişkin hükümler uygulanabilir.24
-Adlî kontrol kararı ve hükmedecek merciler
 
 ### Bizim Yorumumuz
 

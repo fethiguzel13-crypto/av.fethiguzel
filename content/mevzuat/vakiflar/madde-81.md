@@ -10,7 +10,6 @@ commentaryStatus: "pending"
 ---
 
 MADDE 81 – Bu Kanun yayımı tarihinde yürürlüğe girer.
-Yürütme
 
 ### Bizim Yorumumuz
 

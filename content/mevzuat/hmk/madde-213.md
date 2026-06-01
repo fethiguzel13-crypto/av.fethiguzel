@@ -18,7 +18,6 @@ olarak uygulanır.
 
 ilişkin iddialarından vazgeçmeleri hâlinde, hâkim, tazminattan indirim yapabileceği gibi
 tazminata hükmetmeyebilir.
-Sahtelik hakkında hukuk ve ceza mahkemesi kararlarının etkisi
 
 ### Bizim Yorumumuz
 

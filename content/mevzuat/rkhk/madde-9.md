@@ -26,7 +26,6 @@ birliklerine ihlale ne şekilde son vereceklerine ilişkin görüşlerini yazıl
 Kurul, nihai karara kadar ciddi ve telafi olunamayacak zararların ortaya çıkma
 ihtimalinin bulunduğu durumlarda, ihlalden önceki durumu koruyucu nitelikte ve nihai
 kararın kapsamını aşmayacak şekilde geçici tedbirler alabilir.
-Birleşme ve Devralmaların Kurula Bildirilmesi2
 
 ### Bizim Yorumumuz
 

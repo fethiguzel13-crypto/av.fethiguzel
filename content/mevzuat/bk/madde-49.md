@@ -41,7 +41,6 @@ her biri, sermaye, yönetim ve denetimlerine hâkim oldukları bağlı ortaklık
 müesseseler ile birlikte ayrı bir risk grubu oluşturur.
 (Değişik fıkra:20/2/2020-7222/3 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esasları belirlemeye Kurul yetkilidir.
-Dâhil olunan risk grubu ve mensuplara kredi kullandırma koşulları
 
 ### Bizim Yorumumuz
 

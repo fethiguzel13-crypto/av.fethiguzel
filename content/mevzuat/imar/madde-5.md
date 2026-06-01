@@ -61,9 +61,6 @@ kararları yönlendiren, ülke bütününde ve gerekli görülen bölgelerde haz
 bütün olan plandır.
 Ayrıca, bu Kanunda adı geçen diğer tanımlar Bakanlıkça hazırlanacak yönetmelikte
 tarif edilir.
-İKİNCİ BÖLÜM
-İmar Planları ile İlgili Esaslar
-Mekânsal planlama kademeleri:
 
 ### Bizim Yorumumuz
 

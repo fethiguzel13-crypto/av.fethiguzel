@@ -23,7 +23,6 @@ ithalatçıya; tüketiciye verilmesi ve teslim edildiğinin ispat sorumluluğu i
 (5) Hangi malların tanıtma ve kullanma kılavuzu ve etiket ile satılmak zorunda olduğu
 ve bunlarda bulunması gereken asgari unsurlar ile diğer uygulama usul ve esasları
 yönetmelikle belirlenir.
-Garanti belgesi
 
 ### Bizim Yorumumuz
 

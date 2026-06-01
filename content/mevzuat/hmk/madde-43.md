@@ -20,7 +20,6 @@ bulunmayarak kaldırılması veya ret talebinin kabulüne ilişkin merci kararı
 mahkemesince uygun bulunması hâlinde, ret sebebinin doğduğu tarihten itibaren reddedilen
 hâkimce yapılmış olan ve ret talebinde bulunan tarafça itiraz edilen esasa etkili işlemler,
 davaya daha sonra bakacak hâkim tarafından iptal olunur.
-Ret talebine ilişkin kararların temyizi
 
 ### Bizim Yorumumuz
 

@@ -52,7 +52,6 @@ verilir. Bu karara itiraz edilebilir.
 olmadığı kararı verilemez.
 (10) Adlî yargı dışındaki bir yargı merciine yönelik görevsizlik kararı kanun yolu
 bakımından hüküm sayılır.
-Karar ve hükümlerde gerekli oy sayısı
 
 ### Bizim Yorumumuz
 

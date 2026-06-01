@@ -15,9 +15,6 @@ türlü dava öncelikli işlerden sayılır.
 İlişkili Bakanlık, Kurulun düzenleyici nitelikteki kararlarına karşı iptal davası açabilir.
 (İptal üçüncü fıkra: Ana. Mah.nin 22/2/2006 tarihli ve E:2006/20, K:2006/25
 sayılı Kararı ile.)
-ONBİRİNCİ KISIM
-Faaliyet İzni Kaldırılan ve Fona Devredilen Bankalara İlişkin Hükümler
-Faaliyet izninin kaldırılması
 
 ### Bizim Yorumumuz
 

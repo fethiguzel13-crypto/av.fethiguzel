@@ -17,7 +17,6 @@ c) Ret isteminin duruşmayı uzatmak amacı ile yapıldığı açıkça anlaşı
 (2) Bu hâllerde ret istemi, toplu mahkemelerde reddedilen hâkimin müzakereye
 katılmasıyla, tek hâkimli mahkemelerde de reddedilen hâkimin kendisi tarafından geri çevrilir.
 (3) Bu konudaki kararlara karşı itiraz yoluna başvurulabilir.
-Zabıt kâtibinin reddi veya çekinmesi
 
 ### Bizim Yorumumuz
 

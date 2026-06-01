@@ -20,7 +20,6 @@ ihaleye girmek ve teminat vermek için yaptığı masrafları istemeye hak kazan
 
 Tebligatın 32 nci maddedeki sürede yapılmamasından dolayı idarenin zararına sebep
 olanlar hakkında kanuni işlem yapılır.
-Sözleşme yapılması ve kesin teminat alınması zorunlu olmayan haller:
 
 ### Bizim Yorumumuz
 

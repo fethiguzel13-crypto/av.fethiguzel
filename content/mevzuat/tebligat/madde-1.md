@@ -17,7 +17,6 @@ kurumlar, (IV) sayılı cetvelde yer alan sosyal güvenlik kurumları ile vakıf
 kurumları, il özel idareleri, belediyeler, köy hükmî şahsiyetleri, barolar ve noterler tarafından
 yapılacak elektronik ortam da dâhil tüm tebligat, bu Kanun hükümlerine göre Posta ve Telgraf
 Teşkilatı Genel Müdürlüğü veya memur vasıtasıyla yapılır.
-Tebligatın memur vasıtasiyle yapılması:
 
 ### Bizim Yorumumuz
 

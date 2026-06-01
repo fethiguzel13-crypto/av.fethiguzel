@@ -27,7 +27,6 @@ uygun görüşü üzerine yönetmelik ile belirlenir.
 Orduevi ve bağlısı şubeler, askerî gazinolar, kışla gazinoları ve vardiya
 yatakhanelerinin yılı merkezî yönetim bütçe kanunu ile belirlenen giderleri genel bütçeden
 karşılanabilir.
-II - Özel, yerel veya kış eğitim merkezleri17
 
 ### Bizim Yorumumuz
 

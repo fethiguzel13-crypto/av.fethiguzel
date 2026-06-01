@@ -30,7 +30,6 @@ kişilerin istemleri reddedildiğinde, üç gün içinde bu hususta gerekçeli b
 temsilci, yargılama konusu olayla ilgili olarak veya bilirkişi raporunun hazırlanmasında
 değerlendirilmek üzere ya da bilirkişi raporu hakkında, uzmanından bilimsel mütalaa
 alabilirler. Sadece bu nedenle ayrıca süre istenemez.
-Duruşmada bilirkişinin açıklaması
 
 ### Bizim Yorumumuz
 

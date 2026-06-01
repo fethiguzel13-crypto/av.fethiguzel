@@ -42,7 +42,6 @@ kolaylığı sağlamak zorundadırlar.
 (Değişik ikinci fıkra:12/2/2026-7574/16 md.) Birinci fıkranın (c) bendi hükmüne
 uymayan sürücüler 5.000 Türk lirası, diğer hükümlerine uymayan sürücüler ise 1.000 Türk lirası
 idari para cezası ile cezalandırılırlar.
-Kavşaklarda geçiş hakkı:
 
 ### Bizim Yorumumuz
 

@@ -63,7 +63,6 @@ hakkında, ikinci fıkra hükmü uygulanmaz.
 içeriğini ve muhafaza altına alınmış delilleri inceleyebilir; bütün tutanak ve belgelerin
 örneklerini harçsız olarak alabilir.
 (5) Bu maddenin içerdiği haklardan suçtan zarar görenin vekili de yararlanır.
-Müdafi ile görüşme
 
 ### Bizim Yorumumuz
 

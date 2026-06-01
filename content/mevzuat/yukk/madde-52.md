@@ -31,7 +31,6 @@ hâllerde bunların tamamlanmasından itibaren on beş gün içinde sonuçlandı
 bu konuda vermiş olduğu karar kesindir. Yabancının rızası saklı kalmak kaydıyla, dava açma
 süresi içinde veya yargı yoluna başvurulması hâlinde yargılama sonuçlanıncaya kadar yabancı
 sınır dışı edilmez.
-Sınır dışı etme kararı alınacaklar
 
 ### Bizim Yorumumuz
 

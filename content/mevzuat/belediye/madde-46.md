@@ -16,9 +16,6 @@ Madde 46- Belediye başkanlığının herhangi bir nedenle boşalması ve yeni b
 belediye başkanlığına büyükşehir ve il belediyelerinde İçişleri Bakanı, diğer belediyelerde
 vali tarafından görevlendirme yapılır. Görevlendirilecek kişinin belediye başkanı seçilme
 yeterliğine sahip olması şarttır.
-DÖRDÜNCÜ BÖLÜM
-Organlara İlişkin Ortak Hükümler
-Görevden uzaklaştırma
 
 ### Bizim Yorumumuz
 

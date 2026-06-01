@@ -18,7 +18,6 @@ girmesini meneder.
 
 
 Bu madde hükümlerine aykırı hareket edenler hakkında 17 nci, işyerleri hakkında da 6
-ncı madde hükümlerine göre işlem yapılır.10
 
 ### Bizim Yorumumuz
 

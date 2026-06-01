@@ -26,7 +26,6 @@ işlerde çalışacak personel hakkında vekalet veya istisna akdi hükümleri u
 istihdam edileceklerden sosyal güvenlik kuruluşlarından almakta oldukları aylıkları kesilmez.
 Yabancı uzmanlar da Başkanlığın hazırlayıp Kurulun onayı ile yürürlüğe konacak
 yönetmelik esaslarına göre istihdam edilebilir.
-Rekabet Uzman Yardımcılığına Atama
 
 ### Bizim Yorumumuz
 

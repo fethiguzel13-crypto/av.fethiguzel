@@ -17,8 +17,6 @@ mahkemesinde görüleceği Hâkimler ve Savcılar Kurulu tarafından belirlenir.
 Kurulu” ibaresi “Hâkimler ve Savcılar Kurulu” şeklinde değiştirilmiştir.
 26
 
-İdari para cezası
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

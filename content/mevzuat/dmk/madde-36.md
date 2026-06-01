@@ -855,7 +855,6 @@ aittir.103
 Milli İstihbarat hizmetleri sınıfına yapılan atamalarda bu maddenin (A) bendinin (8/ab) fıkralarındaki derece ve kademe ilerlemesi ile ilgili hükümleri uygulanır.
 G) Bu maddede sayılan sınıfların ve fıkraların kapsamının tayininde, benzeri veya
 eşdeğer öğrenim veya hizmetler Cumhurbaşkanınca tespit olunur.104
-Yükselinebilecek derecenin üstünde bir dereceye yükselme:
 
 ### Bizim Yorumumuz
 

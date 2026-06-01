@@ -34,9 +34,6 @@ yüzde ellisinden fazlası kamuya ait diğer ortaklıkları,
 f) Kurul: Arabuluculuk Kurulunu,
 g) Sicil: Arabulucular sicilini,
 ifade eder.
-İKİNCİ BÖLÜM
-Arabuluculuğa İlişkin Temel İlkeler
-İradi olma ve eşitlik
 
 ### Bizim Yorumumuz
 

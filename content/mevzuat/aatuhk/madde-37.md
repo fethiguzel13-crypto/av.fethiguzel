@@ -14,7 +14,6 @@ Hususi kanunlarında ödeme zamanı tesbit edilmemiş amme alacakları Maliye
 Vekaletince belirtilecek usule göre yapılacak tebliğden itibaren bir ay içinde ödenir.
 Bu ödeme müddetinin son günü amme alacağının vadesi günüdür.
 Amme borçlusu isterse borcunu belli zamanlardan önce ödiyebilir.
-Taksitlerin zamanında ödenmemesi:
 
 ### Bizim Yorumumuz
 

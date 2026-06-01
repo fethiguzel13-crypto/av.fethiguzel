@@ -13,7 +13,6 @@ Madde 162 – (1) Cumhuriyet savcısı, ancak hâkim tarafından yapılabilecek 
 soruşturma işlemine gerek görürse, istemlerini bu işlemin yapılacağı yerin sulh ceza hâkimine
 bildirir. Sulh ceza hâkimi istenilen işlem hakkında, kanuna uygun olup olmadığını inceleyerek
 karar verir ve gereğini yerine getirir.
-Soruşturmanın sulh ceza hâkimi tarafından yapılması
 
 ### Bizim Yorumumuz
 

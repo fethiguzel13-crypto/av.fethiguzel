@@ -13,7 +13,6 @@ Madde 31 – 27, 28, 29 ve 30 uncu maddelerde sözü edilen tasarruf ve muamelel
 faydalananlar elde ettiklerini, elden çıkarmışlarsa takdir edilecek bedelini vermeye bu kanun
 hükümleri dairesinde vermeye mecburdurlar. Bunlar karşılık olarak verdikleri şeyden dolayı
 alacaklı amme idaresinden bir talepte bulunamazlar.
-Tasfiye halinde vazifeliler:
 
 ### Bizim Yorumumuz
 

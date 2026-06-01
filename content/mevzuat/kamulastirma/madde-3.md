@@ -28,7 +28,6 @@ Kamulaştırılan topraktan, o toprağı doğrudan doğruya işleten küçük ç
 olanların bedeli, her halde peşin ödenir.
 (Ek fıkra: 24/4/2001 - 4650/1 md.) İdarelerce yeterli ödenek temin edilmeden
 kamulaştırma işlemlerine başlanılamaz.
-İrtifak hakkı kurulması
 
 ### Bizim Yorumumuz
 

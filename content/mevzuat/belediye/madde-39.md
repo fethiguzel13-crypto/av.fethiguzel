@@ -27,7 +27,6 @@ hâlinde belediye başkanlığında geçen süreleri memuriyette geçmiş sayıl
 657 sayılı Devlet Memurları Kanunu uyarınca Devlet memurları ile bakmakla
 yükümlü bulundukları için uygulanan sosyal hak ve yardımlar, aynı esas ve usûllere göre
 belediye başkanları ile bakmakla yükümlü bulundukları için de uygulanır.
-Başkan vekili
 
 ### Bizim Yorumumuz
 

@@ -17,7 +17,6 @@ kutsal saydığınız bütün inanç ve değerler üzerine yemin ediyor musunuz?
 da cevaben, “Sorulacak sorulara, hiçbir şey saklamadan doğru cevap vereceğime namusum,
 şerefim ve kutsal saydığım bütün inanç ve değerlerim üzerine yemin ediyorum.” demekle
 yemin eda edilmiş sayılır.
-Tanıkların mahkemede dinlenilmesi
 
 ### Bizim Yorumumuz
 

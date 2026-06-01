@@ -19,9 +19,6 @@ teklifleri; toplantıya katılanların salt çoğunluğunun kabulü hâlinde kom
 edilmeksizin belediye meclisince görüşülerek karara bağlanabilir.
 22 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “İçişleri” ibaresi “Çevre ve Şehircilik” şeklinde değiştirilmiştir.
 
-
-Toplantı ve karar yeter sayısı
-
 ### Bizim Yorumumuz
 
 Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.

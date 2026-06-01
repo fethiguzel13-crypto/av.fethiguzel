@@ -15,9 +15,6 @@ idare mahkemesinde dava açılabilir. Kurul kararlarına karşı açılan her t�
 işlerden sayılır.
 Kurul kararlarına karşı yargı yoluna başvurulması kararların uygulanmasını ve idarî
 para cezalarının takip ve tahsilini durdurmaz.
-BEŞİNCİ KISIM
-Rekabetin Sınırlanmasının Özel Hukuk Alanındaki Sonuçları
-Bu Kanuna Aykırı Anlaşma ve Kararların Hukuki Niteliği
 
 ### Bizim Yorumumuz
 
