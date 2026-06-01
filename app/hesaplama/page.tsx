@@ -613,44 +613,205 @@ function SmmHesaplama() {
 // ─── 6. NAFAKA ARTIŞI ──────────────────────────────────────────────────────────
 
 function NafakaArtisi() {
-  const [mevcutNafaka, setMevcutNafaka] = useState("3000");
-  const [tufeOrani, setTufeOrani] = useState("45");
-  const [ay, setAy] = useState("12");
+  const [yon, setYon] = useState<"artir" | "azalt">("artir");
+  const [mevcutNafaka, setMevcutNafaka] = useState("5000");
+  // TÜİK 12 aylık ortalama oranlar — aylık değişir; güncel değeri TÜİK'ten girin
+  const [tufe, setTufe] = useState("32.82");
+  const [ufe, setUfe] = useState("25.98");
+  const [oranTuru, setOranTuru] = useState<"tufe" | "ufe" | "ortalama" | "ozel">("tufe");
+  const [ozelOran, setOzelOran] = useState("30");
+  const [nafakaTuru, setNafakaTuru] = useState<"istirak" | "yoksulluk" | "tedbir">("istirak");
+  const [kararTarihi, setKararTarihi] = useState("");
+  const [baslangicNafaka, setBaslangicNafaka] = useState("");
+  const [odemeDurumu, setOdemeDurumu] = useState<"duzenli" | "aksiyor" | "odenmiyor">("duzenli");
+  const [odenenYuzde, setOdenenYuzde] = useState("50");
+  const [birikenAy, setBirikenAy] = useState("12");
+  const [cocuk, setCocuk] = useState("0");
+  const [aylikMasraf, setAylikMasraf] = useState("");
+  const [borcluGelir, setBorcluGelir] = useState("");
+  const [tab, setTab] = useState<"artis" | "gelecek" | "sans" | "biriken">("artis");
 
-  const result = useMemo(() => {
-    const nafaka = parseFloat(mevcutNafaka.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const oran = parseFloat(tufeOrani) / 100;
-    const aylar = parseInt(ay) || 12;
-    const artisOrani = oran * (aylar / 12);
-    const yeniNafaka = nafaka * (1 + artisOrani);
-    const artis = yeniNafaka - nafaka;
-    return { yeniNafaka, artis, artisOrani };
-  }, [mevcutNafaka, tufeOrani, ay]);
+  const r = useMemo(() => {
+    const num = (s: string) => parseFloat(s.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const mevcut = num(mevcutNafaka);
+    const tufeN = num(tufe), ufeN = num(ufe);
+    const oran = oranTuru === "tufe" ? tufeN : oranTuru === "ufe" ? ufeN : oranTuru === "ortalama" ? (tufeN + ufeN) / 2 : num(ozelOran);
+    const yeni = mevcut * (1 + oran / 100);
+    const artis = yeni - mevcut;
+
+    // Gelecek 5 yıl projeksiyonu (bileşik)
+    const gelecek: { yil: number; tutar: number }[] = [];
+    let acc = mevcut;
+    const buYil = new Date().getFullYear();
+    for (let i = 1; i <= 5; i++) { acc = acc * (1 + oran / 100); gelecek.push({ yil: buYil + i, tutar: acc }); }
+
+    // Enflasyon kaybı (karar tarihi + başlangıç nafaka varsa) — tahmini, güncel oran bileşik
+    let enflasyonKaybi: { yilSayisi: number; olmasiGereken: number; kayip: number } | null = null;
+    if (kararTarihi && baslangicNafaka) {
+      const k = new Date(kararTarihi);
+      if (!isNaN(k.getTime())) {
+        const yilSayisi = daysBetween(k, new Date()) / 365;
+        const bas = num(baslangicNafaka);
+        const olmasiGereken = bas * Math.pow(1 + oran / 100, yilSayisi);
+        enflasyonKaybi = { yilSayisi, olmasiGereken, kayip: olmasiGereken - mevcut };
+      }
+    }
+
+    // Biriken alacak (ödeme durumu)
+    const ay = parseInt(birikenAy) || 0;
+    const aylikAcik = odemeDurumu === "odenmiyor" ? mevcut : odemeDurumu === "aksiyor" ? mevcut * (1 - num(odenenYuzde) / 100) : 0;
+    const birikenAnapara = aylikAcik * ay;
+
+    // Dava şansı (kaba tahmin, 0-95)
+    const masraf = num(aylikMasraf), gelir = num(borcluGelir);
+    let puan = 35;
+    if (yon === "artir") {
+      if (enflasyonKaybi && enflasyonKaybi.yilSayisi >= 1) puan += Math.min(25, enflasyonKaybi.yilSayisi * 8);
+      if (odemeDurumu === "odenmiyor") puan += 15; else if (odemeDurumu === "aksiyor") puan += 8;
+      if (nafakaTuru === "istirak" && (parseInt(cocuk) || 0) > 0) puan += 10;
+      if (gelir > 0 && mevcut > 0) { const k = (gelir) / (mevcut * 4); if (k >= 1) puan += 12; else puan += Math.round(k * 12); }
+      if (gelir > 0 && masraf > 0 && masraf / gelir >= 0.4) puan += 8;
+    } else {
+      // azaltma: borçlu lehine — gelir düşük / masraf düşük / çocuk reşit vb.
+      if (gelir > 0 && mevcut > 0 && gelir < mevcut * 3) puan += 18;
+      if (nafakaTuru === "yoksulluk") puan += 10; // yoksulluk nafakası kaldırma/azaltma şartları
+      if (gelir > 0 && masraf > 0 && masraf / gelir < 0.25) puan += 8;
+    }
+    puan = Math.max(5, Math.min(95, puan));
+    const band = puan >= 66 ? "Yüksek" : puan >= 40 ? "Orta" : "Düşük";
+
+    return { mevcut, oran, yeni, artis, gelecek, enflasyonKaybi, aylikAcik, birikenAnapara, ay, puan, band };
+  }, [yon, mevcutNafaka, tufe, ufe, oranTuru, ozelOran, nafakaTuru, kararTarihi, baslangicNafaka, odemeDurumu, odenenYuzde, birikenAy, cocuk, aylikMasraf, borcluGelir]);
+
+  const tabBtn = (key: typeof tab, label: string) => (
+    <button
+      onClick={() => setTab(key)}
+      className={`px-3 py-1.5 rounded-full text-xs font-bold transition-colors ${tab === key ? "bg-accent text-white" : "bg-charcoal/5 text-charcoal/50 hover:bg-charcoal/10"}`}
+    >{label}</button>
+  );
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-      <Field label="Mevcut Nafaka Miktarı (TL)">
-        <input type="text" value={mevcutNafaka} onChange={e => setMevcutNafaka(e.target.value)} className={inp} />
-      </Field>
-      <Field label="TÜFE Değişim Oranı (%)">
-        <input type="number" step="0.01" value={tufeOrani} onChange={e => setTufeOrani(e.target.value)} className={inp} />
-      </Field>
-      <Field label="Dönem (ay)">
-        <select value={ay} onChange={e => setAy(e.target.value)} className={sel}>
-          <option value="12">12 ay (yıllık)</option>
-          <option value="6">6 ay</option>
-          <option value="3">3 ay</option>
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Durumunuz">
+        <select value={yon} onChange={e => setYon(e.target.value as "artir" | "azalt")} className={sel}>
+          <option value="artir">Nafaka Alacaklısıyım — artırmak istiyorum</option>
+          <option value="azalt">Nafaka Yükümlüsüyüm — azaltmak istiyorum</option>
         </select>
       </Field>
-      <div className="md:col-span-3">
-        <Result
-          rows={[
-            ["Artış Oranı", `%${fmt(result.artisOrani * 100, 2)}`],
-            ["Artış Miktarı", `${fmt(result.artis)} TL`],
-            ["Yeni Nafaka", `${fmt(result.yeniNafaka)} TL`],
-          ]}
-          note="Nafaka artışında TBK md.176/4 uyarınca hâkim TÜFE'yi esas alır. Güncel TÜFE oranı için TÜİK'in aylık açıklamalarını kontrol edin."
-        />
+      <Field label="Nafaka Türü">
+        <select value={nafakaTuru} onChange={e => setNafakaTuru(e.target.value as "istirak" | "yoksulluk" | "tedbir")} className={sel}>
+          <option value="istirak">Çocuk için (İştirak — TMK 330)</option>
+          <option value="yoksulluk">Eşe (Yoksulluk — TMK 175-176)</option>
+          <option value="tedbir">Dava süresince (Tedbir — TMK 169)</option>
+        </select>
+      </Field>
+      <Field label="Mevcut Aylık Nafaka (₺)">
+        <input type="text" value={mevcutNafaka} onChange={e => setMevcutNafaka(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Artış Oranı Türü">
+        <select value={oranTuru} onChange={e => setOranTuru(e.target.value as "tufe" | "ufe" | "ortalama" | "ozel")} className={sel}>
+          <option value="tufe">TÜFE (%{tufe})</option>
+          <option value="ufe">ÜFE (%{ufe})</option>
+          <option value="ortalama">Ortalama (TÜFE+ÜFE)/2</option>
+          <option value="ozel">Özel %</option>
+        </select>
+      </Field>
+      <Field label="TÜFE 12 Aylık Ort. (%) — güncel">
+        <input type="number" step="0.01" value={tufe} onChange={e => setTufe(e.target.value)} className={inp} />
+      </Field>
+      <Field label="ÜFE 12 Aylık Ort. (%) — güncel">
+        <input type="number" step="0.01" value={ufe} onChange={e => setUfe(e.target.value)} className={inp} />
+      </Field>
+      {oranTuru === "ozel" && (
+        <Field label="Özel Artış Oranı (%)">
+          <input type="number" step="0.01" value={ozelOran} onChange={e => setOzelOran(e.target.value)} className={inp} />
+        </Field>
+      )}
+      <Field label="Ödeme Durumu">
+        <select value={odemeDurumu} onChange={e => setOdemeDurumu(e.target.value as "duzenli" | "aksiyor" | "odenmiyor")} className={sel}>
+          <option value="duzenli">Düzenli ödeniyor</option>
+          <option value="aksiyor">Aksıyor (kısmi)</option>
+          <option value="odenmiyor">Hiç ödenmiyor</option>
+        </select>
+      </Field>
+      {odemeDurumu === "aksiyor" && (
+        <Field label="Ödenen Oran (%)">
+          <input type="number" min="0" max="100" value={odenenYuzde} onChange={e => setOdenenYuzde(e.target.value)} className={inp} />
+        </Field>
+      )}
+      {odemeDurumu !== "duzenli" && (
+        <Field label="Biriken Ay Sayısı">
+          <input type="number" min="0" value={birikenAy} onChange={e => setBirikenAy(e.target.value)} className={inp} />
+        </Field>
+      )}
+      <Field label="Nafaka Kararı Tarihi (ops. — enflasyon kaybı)">
+        <input type="date" value={kararTarihi} onChange={e => setKararTarihi(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Başlangıçtaki Nafaka (₺) (ops.)">
+        <input type="text" value={baslangicNafaka} onChange={e => setBaslangicNafaka(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Çocuk Sayısı">
+        <input type="number" min="0" value={cocuk} onChange={e => setCocuk(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Aylık Toplam Masraflarınız (₺) (ops.)">
+        <input type="text" value={aylikMasraf} onChange={e => setAylikMasraf(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Borçlunun Tahmini Aylık Geliri (₺) (ops.)">
+        <input type="text" value={borcluGelir} onChange={e => setBorcluGelir(e.target.value)} className={inp} />
+      </Field>
+
+      <div className="col-span-full">
+        <div className="flex flex-wrap gap-2 mb-3">
+          {tabBtn("artis", "Artış Tutarı")}
+          {tabBtn("gelecek", "Gelecek Yıllar")}
+          {tabBtn("sans", "Dava Şansı")}
+          {tabBtn("biriken", "Biriken Alacak")}
+        </div>
+
+        {tab === "artis" && (
+          <Result
+            rows={[
+              ["Uygulanan Artış Oranı", `%${fmt(r.oran, 2)}`],
+              ["Mevcut Aylık Nafaka", `${fmt(r.mevcut)} ₺`],
+              ["Artış Miktarı", `${fmt(r.artis)} ₺`],
+              ["Yeni Aylık Nafaka", `${fmt(r.yeni)} ₺`],
+              ...(r.enflasyonKaybi
+                ? [["Karardan Bu Yana Süre", `${fmt(r.enflasyonKaybi.yilSayisi, 1)} yıl`] as [string, string],
+                   ["Endekslenmiş Olması Gereken (tahmini)", `${fmt(r.enflasyonKaybi.olmasiGereken)} ₺`] as [string, string],
+                   ["Enflasyon Kaybı (tahmini)", `${fmt(r.enflasyonKaybi.kayip)} ₺`] as [string, string]]
+                : []),
+            ]}
+            note="Yeni nafaka = mevcut nafaka × (1 + artış oranı). Nafaka artırım/uyarlamada (TMK 176/son ve 331) hâkim TÜFE'yi (12 aylık ortalama) esas alma eğilimindedir; ÜFE veya ortalama da uygulanabilir. Oranlar TÜİK'ten güncellenmelidir; buradaki değerler örnektir. Enflasyon kaybı, başlangıç nafakasının güncel oranla bileşik endekslenmesiyle yapılan TAHMİNÎ bir hesaptır (gerçek hesap dönem dönem TÜİK endeksiyle yapılır)."
+          />
+        )}
+        {tab === "gelecek" && (
+          <Result
+            rows={r.gelecek.map(g => [`${g.yil}`, `${fmt(g.tutar)} ₺`] as [string, string])}
+            note="Gelecek yıllar, seçilen artış oranının her yıl bileşik uygulanmasıyla projekte edilmiştir (her yıl bir önceki yılın tutarı × (1+oran)). Gerçek artış, ilgili yılın TÜİK oranına göre değişir; bu yalnızca mevcut orana dayalı bir öngörüdür."
+          />
+        )}
+        {tab === "sans" && (
+          <Result
+            rows={[
+              [yon === "artir" ? "Artırım Davası Tahmini Şans" : "Azaltım/Kaldırma Davası Tahmini Şans", `%${r.puan} (${r.band})`],
+              ["Değerlendirme", yon === "artir"
+                ? "Enflasyon kaybı, ödeme düzeni, çocuk sayısı ve borçlunun gelir durumu birlikte değerlendirildi."
+                : "Borçlunun gelir durumu, masraf oranı ve nafaka türü birlikte değerlendirildi."],
+            ]}
+            note="⚠️ Bu yüzde KABA BİR TAHMİNDİR, hukuki bir sonuç veya garanti değildir. Nafaka davalarında sonuç; tarafların ekonomik-sosyal durumu, çocuğun ihtiyaçları (TMK 330), hakkaniyet (TMK 4) ve somut delillere göre hâkimin takdirindedir (Yargıtay 3. HD emsalleri). Avukatla yürütülen dosyalarda talebin somut gerekçelendirilmesi sonucu olumlu etkiler. Kesin değerlendirme için avukata danışın."
+          />
+        )}
+        {tab === "biriken" && (
+          <Result
+            rows={[
+              ["Ödeme Durumu", odemeDurumu === "duzenli" ? "Düzenli — birikme yok" : odemeDurumu === "aksiyor" ? "Aksıyor (kısmi)" : "Hiç ödenmiyor"],
+              ["Aylık Açık (ödenmeyen)", `${fmt(r.aylikAcik)} ₺`],
+              ["Biriken Ay", `${r.ay} ay`],
+              ["Biriken Anapara", `${fmt(r.birikenAnapara)} ₺`],
+            ]}
+            note="Biriken alacak = aylık ödenmeyen tutar × birikme süresi (anapara). Her nafaka taksiti muaccel olduğu tarihten itibaren değişen oranlı YASAL FAİZE tabidir; faiz buraya dâhil edilmemiştir (dönemsel oranlarla ayrıca hesaplanır). Nafaka alacakları İİK m.206 uyarınca hacizde imtiyazlıdır; ödenmemesi İİK m.344 uyarınca tazyik hapsi yaptırımına yol açabilir. Birikmiş nafaka için icra takibi ve faiz talebi mümkündür."
+          />
+        )}
       </div>
     </div>
   );
@@ -1850,7 +2011,7 @@ const ARACLAR = [
   { id: "fazla-mesai", icon: "⏰", baslik: "Fazla Mesai Ücreti", tag: "İş Hukuku", comp: <FazlaMesai /> },
   { id: "yillik-izin", icon: "🏖️", baslik: "Yıllık İzin Ücreti", tag: "İş Hukuku", comp: <YillikIzin /> },
   { id: "smm", icon: "🧾", baslik: "Serbest Meslek Makbuzu (SMM)", tag: "İş Hukuku", comp: <SmmHesaplama /> },
-  { id: "nafaka", icon: "👨‍👩‍👧", baslik: "Nafaka Artış Hesabı", tag: "Aile Hukuku", comp: <NafakaArtisi /> },
+  { id: "nafaka", icon: "👨‍👩‍👧", baslik: "Nafaka Artış / Azaltış Hesaplayıcı", tag: "Aile Hukuku", comp: <NafakaArtisi /> },
   { id: "iddet", icon: "📅", baslik: "İddet Müddeti Hesabı", tag: "Aile Hukuku", comp: <IddetMuddeti /> },
   { id: "faiz", icon: "📊", baslik: "Faiz Hesaplama (Yasal / Ticari / Avans)", tag: "Alacak", comp: <FaizHesaplama /> },
   { id: "icra-kapak", icon: "📁", baslik: "İcra Dosyası Kapak Hesabı & Harçlar (2026)", tag: "Alacak", comp: <IcraKapakHesabi /> },
