@@ -237,10 +237,10 @@ function KidemIhbarTazminati() {
 
 // 2026 Gelir Vergisi Dilimleri (ücret gelirleri)
 const GELIR_VERGISI_DILIMLERI = [
-  { ust: 190000,   oran: 0.15 },
-  { ust: 400000,   oran: 0.20 },
-  { ust: 1500000,  oran: 0.27 },
-  { ust: 5300000,  oran: 0.35 },
+  { ust: 190000, oran: 0.15 },
+  { ust: 400000, oran: 0.20 },
+  { ust: 1500000, oran: 0.27 },
+  { ust: 5300000, oran: 0.35 },
   { ust: Infinity, oran: 0.40 },
 ];
 
@@ -739,14 +739,14 @@ function TapuHarci() {
 // 2026 AAÜT Üçüncü Kısım — nispi vekalet basamakları (RG 04.11.2025)
 // Her dilim için: dilim genişliği (TL) ve oran
 const AAUT_BASAMAKLAR = [
-  { dilim: 600000,   oran: 0.16 },
-  { dilim: 600000,   oran: 0.15 },
-  { dilim: 1200000,  oran: 0.14 },
-  { dilim: 2400000,  oran: 0.11 },
-  { dilim: 2400000,  oran: 0.08 },
-  { dilim: 2400000,  oran: 0.05 },
-  { dilim: 2400000,  oran: 0.03 },
-  { dilim: 3000000,  oran: 0.02 },
+  { dilim: 600000, oran: 0.16 },
+  { dilim: 600000, oran: 0.15 },
+  { dilim: 1200000, oran: 0.14 },
+  { dilim: 2400000, oran: 0.11 },
+  { dilim: 2400000, oran: 0.08 },
+  { dilim: 2400000, oran: 0.05 },
+  { dilim: 2400000, oran: 0.03 },
+  { dilim: 3000000, oran: 0.02 },
   { dilim: Infinity, oran: 0.01 },
 ];
 const AAUT_MAKTU_ASLIYE = 30000; // 2026 asliye hukuk maktu vekalet ücreti (alt sınır)
@@ -867,14 +867,14 @@ function IcraKapakHesabi() {
   const PESIN_HARC_ORAN = 0.005;     // Peşin harç ‰5 (binde 5) — yalnız İLAMSIZ takipte
   const TAHSIL = { once: 0.0455, satisOnce: 0.0910, satisSonra: 0.1138 }; // %4,55 / %9,10 / %11,38
   const CEZAEVI_ORAN = 0.02;         // Cezaevi harcı: tahsil edilen asıl alacağın %2'si
-  const TEBLIGAT = { normal: 265, aps: 530, uets: 15 }; // 2026 (UETS: borçlu şirketse)
+  const TEBLIGAT = { normal: 265, aps: 530, uets: 15, mts: 310 }; // 2026 (UETS: borçlu şirketse; MTS: Merkezi Takip Sistemi)
   const AAUT_ICRA_MAKTU = 9000;      // 2026 AAÜT icra maktu vekalet ücreti
 
   const [tur, setTur] = useState<"ilamsiz" | "ilamli">("ilamsiz");
   const [asilAlacak, setAsilAlacak] = useState("100000");
   const [islemisFaiz, setIslemisFaiz] = useState("0");
   const [borcluSayisi, setBorcluSayisi] = useState("1");
-  const [tebligat, setTebligat] = useState<"normal" | "aps" | "uets">("normal");
+  const [tebligat, setTebligat] = useState<"normal" | "aps" | "uets" | "mts">("normal");
   const [vekilVar, setVekilVar] = useState(true);
   const [dosyaGideri, setDosyaGideri] = useState("500");
   const [digerAvans, setDigerAvans] = useState("0");
@@ -898,9 +898,10 @@ function IcraKapakHesabi() {
     const tahsilSatisSonra = takipTutari * TAHSIL.satisSonra;
     // Cezaevi harcı: tahsil edilen ASIL alacağın %2'si (takip sonrası faiz hariç) — ALACAKLI öder
     const cezaeviHarc = takipTutari * CEZAEVI_ORAN;
-    // İcra vekalet ücreti (AAÜT Üçüncü Kısım basamakları, asgari maktu 9.000 TL)
+    // İcra vekalet ücreti (AAÜT Üçüncü Kısım basamakları; asgari maktu 9.000 TL,
+    // üst sınır: asıl alacağı/takip tutarını geçemez — AAÜT m.13)
     let vek = 0;
-    if (vekilVar) {
+    if (vekilVar && takipTutari > 0) {
       let kalan = takipTutari, step = 0;
       for (const b of AAUT_BASAMAKLAR) {
         const d = Math.min(kalan, b.dilim);
@@ -908,7 +909,7 @@ function IcraKapakHesabi() {
         step += d * b.oran; kalan -= d;
         if (kalan <= 0) break;
       }
-      vek = Math.max(step, AAUT_ICRA_MAKTU);
+      vek = Math.min(Math.max(step, AAUT_ICRA_MAKTU), takipTutari);
     }
 
     return { takipTutari, pesinHarc, tebligatGideri, acilis, tahsilOnce, tahsilSatisOnce, tahsilSatisSonra, cezaeviHarc, vek, dg, da, bs };
@@ -923,10 +924,11 @@ function IcraKapakHesabi() {
         </select>
       </Field>
       <Field label="Tebligat Türü">
-        <select value={tebligat} onChange={e => setTebligat(e.target.value as "normal" | "aps" | "uets")} className={sel}>
+        <select value={tebligat} onChange={e => setTebligat(e.target.value as "normal" | "aps" | "uets" | "mts")} className={sel}>
           <option value="normal">Normal Tebligat (PTT) — 265 TL</option>
           <option value="aps">Hızlı Tebligat (APS) — 530 TL</option>
           <option value="uets">E-Tebligat (UETS, borçlu şirket) — 15 TL</option>
+          <option value="mts">MTS — Merkezi Takip Sistemi — 310 TL</option>
         </select>
       </Field>
       <Field label="Asıl Alacak / Takip Tutarı (TL)">
@@ -964,7 +966,7 @@ function IcraKapakHesabi() {
             ...(result.da > 0 ? [["Diğer İşlemler Avansı", `${fmt(result.da)} TL`] as [string, string]] : []),
             ["TOPLAM AÇILIŞ MASRAFI", `${fmt(result.acilis)} TL`],
           ]}
-          note="İlamsız takipte peşin harç, takip tutarının binde 5'idir (492 s.K.); ilamlı takipte peşin (nispi) harç alınmaz, yalnız maktu başvurma harcı yatırılır. Başvurma harcı 2026 için 732 TL. Tebligat: normal 265 TL, APS 530 TL, UETS (borçlu şirket) 15 TL (2026). Bu masraflar alacaklı tarafından yatırılır, dosya hesabına eklenir ve tahsilatta borçludan alınır. Dosya gideri/baro pulu değişkendir; kendi tutarınızı girebilirsiniz."
+          note={"İlamsız takipte peşin harç, takip tutarının binde 5'idir (492 s.K.); ilamlı takipte peşin (nispi) harç alınmaz, yalnız maktu başvurma harcı yatırılır. Başvurma harcı 2026 için 732 TL. Tebligat: normal 265 TL, APS 530 TL, UETS (borçlu şirket) 15 TL, MTS 310 TL (2026). Bu masraflar alacaklı tarafından yatırılır, dosya hesabına eklenir ve tahsilatta borçludan alınır. Dosya gideri/baro pulu değişkendir; kendi tutarınızı girebilirsiniz." + (tebligat === "mts" ? " ⚠️ MTS (Merkezi Takip Sistemi), abonelik sözleşmelerinden doğan para alacakları için elektronik bir takip yoludur; burada MTS harcı PEŞİN alınır ve takip haciz aşamasına geçilmeden biterse ayrıca icraya başvurma harcı ile tahsil harcı ALINMAZ. Bu nedenle MTS'de yukarıdaki başvurma/peşin harç ve tahsil harcı kalemleri farklılaşır; tablo yaklaşık bilgi içindir." : "")}
         />
       </div>
 
@@ -975,11 +977,11 @@ function IcraKapakHesabi() {
             ["Tahsil Harcı — hacizden önce ödeme (%4,55)", `${fmt(result.tahsilOnce)} TL`],
             ["Tahsil Harcı — haciz sonrası / satış öncesi (%9,10)", `${fmt(result.tahsilSatisOnce)} TL`],
             ["Tahsil Harcı — satış sonrası (%11,38)", `${fmt(result.tahsilSatisSonra)} TL`],
-            ...(result.vek > 0 ? [["İcra Vekalet Ücreti (AAÜT — tam)", `${fmt(result.vek)} TL`] as [string, string]] : []),
+            ...(result.vek > 0 ? [["İcra Vekalet Ücreti (AAÜT — tam, asıl alacağı geçemez)", `${fmt(result.vek)} TL`] as [string, string]] : []),
             ...(result.vek > 0 ? [["İcra Vekalet Ücreti — borçlu süresinde öderse (3/4)", `${fmt(result.vek * 0.75)} TL`] as [string, string]] : []),
             ["Cezaevi Harcı (%2) — ALACAKLI öder · kapağa dâhil DEĞİL", `${fmt(result.cezaeviHarc)} TL`],
           ]}
-          note="Tahsil harcı borçludan, tahsilatın yapıldığı aşamaya göre TEK olarak alınır (%4,55 / %9,10 / %11,38 — aşamalar alternatiftir, toplanmaz). İcra vekalet ücreti borçludan tahsil edilir; AAÜT 2026 icra maktu alt sınırı 9.000 TL'dir. Borçlu, ödeme/itiraz süresi içinde borcu öderse vekalet ücreti tarifedeki tutarın 3/4'ü (dörtte üçü) oranında uygulanır (AAÜT). CEZAEVİ HARCI (2548 s.K.): tahsil edilen asıl alacağın %2'sidir — takipten SONRA işleyen faiz matraha dâhil edilmez (Danıştay). Bu harcı ALACAKLI öder; tahsil edilen paradan alacaklı aleyhine kesilir, kanun ve Yargıtay içtihadı gereği BORÇLUYA YÜKLETİLEMEZ ve dosya kapak hesabına EKLENMEZ. Yalnızca bilgi amacıyla gösterilmiştir. İcra vekalet ücreti tutarı AAÜT icra tarifesine göre belirlenir; kesin tutarı doğrulayınız."
+          note="Tahsil harcı borçludan, tahsilatın yapıldığı aşamaya göre TEK olarak alınır (%4,55 / %9,10 / %11,38 — aşamalar alternatiftir, toplanmaz). İcra vekalet ücreti borçludan tahsil edilir; AAÜT Üçüncü Kısım nispi tarifesine göre hesaplanır, 2026 icra maktu alt sınırı 9.000 TL'dir ve hiçbir hâlde asıl alacağı (takip tutarını) geçemez (AAÜT m.13). Borçlu, ödeme/itiraz süresi içinde borcu öderse vekalet ücreti tarifedeki tutarın 3/4'ü (dörtte üçü) oranında uygulanır. CEZAEVİ HARCI (2548 s.K.): tahsil edilen asıl alacağın %2'sidir — takipten SONRA işleyen faiz matraha dâhil edilmez (Danıştay). Bu harcı ALACAKLI öder; tahsil edilen paradan alacaklı aleyhine kesilir, kanun ve Yargıtay içtihadı gereği BORÇLUYA YÜKLETİLEMEZ ve dosya kapak hesabına EKLENMEZ. Yalnızca bilgi amacıyla gösterilmiştir. İcra vekalet ücreti tutarı AAÜT icra tarifesine göre belirlenir; kesin tutarı doğrulayınız."
         />
       </div>
     </div>
@@ -1018,26 +1020,26 @@ function IcraInkarTazminati() {
 // İKİNCİ KISIM — konusu para olan/para ile ölçülebilen + ANLAŞMA → nispi basamaklar
 // Her dilim için: dilim genişliği (TL), tek arabulucu oranı, birden fazla arabulucu oranı
 const ARB_NISPI = [
-  { dilim: 600000,         tek: 0.06,  coklu: 0.09 },
-  { dilim: 960000,         tek: 0.05,  coklu: 0.075 },
-  { dilim: 1560000,        tek: 0.04,  coklu: 0.06 },
-  { dilim: 3120000,        tek: 0.03,  coklu: 0.045 },
-  { dilim: 9360000,        tek: 0.02,  coklu: 0.03 },
-  { dilim: 12480000,       tek: 0.015, coklu: 0.025 },
-  { dilim: 24960000,       tek: 0.01,  coklu: 0.015 },
-  { dilim: Infinity,       tek: 0.005, coklu: 0.01 },
+  { dilim: 600000, tek: 0.06, coklu: 0.09 },
+  { dilim: 960000, tek: 0.05, coklu: 0.075 },
+  { dilim: 1560000, tek: 0.04, coklu: 0.06 },
+  { dilim: 3120000, tek: 0.03, coklu: 0.045 },
+  { dilim: 9360000, tek: 0.02, coklu: 0.03 },
+  { dilim: 12480000, tek: 0.015, coklu: 0.025 },
+  { dilim: 24960000, tek: 0.01, coklu: 0.015 },
+  { dilim: Infinity, tek: 0.005, coklu: 0.01 },
 ];
 
 // BİRİNCİ KISIM — konusu para olmayan VEYA anlaşmama → maktu saatlik ücretler
 // [2 kişi (taraf başına), 3-5 kişi, 6-10 kişi, 11+ kişi]
 const ARB_MAKTU: Record<string, { iki: number; uc: number; alti: number; onbir: number; ad: string }> = {
-  aile:     { iki: 1000, uc: 2200, alti: 2300, onbir: 2400, ad: "Aile Hukuku" },
-  ticari:   { iki: 1500, uc: 3200, alti: 3300, onbir: 3400, ad: "Ticari Uyuşmazlık" },
-  isci:     { iki: 1130, uc: 2460, alti: 2560, onbir: 2660, ad: "İşçi-İşveren" },
+  aile: { iki: 1000, uc: 2200, alti: 2300, onbir: 2400, ad: "Aile Hukuku" },
+  ticari: { iki: 1500, uc: 3200, alti: 3300, onbir: 3400, ad: "Ticari Uyuşmazlık" },
+  isci: { iki: 1130, uc: 2460, alti: 2560, onbir: 2660, ad: "İşçi-İşveren" },
   tuketici: { iki: 1000, uc: 2200, alti: 2300, onbir: 2400, ad: "Tüketici" },
-  kira:     { iki: 1170, uc: 2540, alti: 2640, onbir: 2740, ad: "Kira / Komşu Hakkı / Kat Mülkiyeti" },
+  kira: { iki: 1170, uc: 2540, alti: 2640, onbir: 2740, ad: "Kira / Komşu Hakkı / Kat Mülkiyeti" },
   ortaklik: { iki: 1170, uc: 2540, alti: 2640, onbir: 2740, ad: "Ortaklığın Giderilmesi" },
-  diger:    { iki: 1000, uc: 2200, alti: 2300, onbir: 2400, ad: "Diğer Uyuşmazlıklar" },
+  diger: { iki: 1000, uc: 2200, alti: 2300, onbir: 2400, ad: "Diğer Uyuşmazlıklar" },
 };
 
 const ARB_MIN_ANLASMA = 9000;       // md.7/7 — anlaşma halinde genel asgari
