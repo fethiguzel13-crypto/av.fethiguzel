@@ -1044,11 +1044,33 @@ function KiraArtis() {
 
 // ─── 10. ARAÇ DEĞER KAYBI ─────────────────────────────────────────────────────
 
+const ARAC_TIPLERI = [
+  { ad: "A — Otomobil", faktor: 1.0 },
+  { ad: "B — Minibüs / Otobüs", faktor: 0.85 },
+  { ad: "C — Kamyon / Kamyonet / Çekici", faktor: 0.80 },
+  { ad: "Ç — Tanker / Özel Amaçlı Araç", faktor: 0.75 },
+  { ad: "D — İş Makinesi / Traktör / Tarım Makinesi", faktor: 0.70 },
+  { ad: "E — Römork", faktor: 0.60 },
+  { ad: "F — Motosiklet", faktor: 0.90 },
+];
+
+const HASAR_KAYDI = [
+  { ad: "Geçmiş hasar kaydı yok", faktor: 1.0 },
+  { ad: "1 hasar kaydı", faktor: 0.85 },
+  { ad: "2 hasar kaydı", faktor: 0.72 },
+  { ad: "3 hasar kaydı", faktor: 0.60 },
+  { ad: "4 hasar kaydı", faktor: 0.50 },
+  { ad: "5 veya daha fazla hasar kaydı", faktor: 0.40 },
+];
+
 function AracDegerKaybi() {
-  const [rayicDeger, setRayicDeger] = useState("500000");
-  const [hasarBedeli, setHasarBedeli] = useState("50000");
+  const [aracTipi, setAracTipi] = useState("0");
+  const [rayicDeger, setRayicDeger] = useState("1000000");
+  const [hasarBedeli, setHasarBedeli] = useState("80000");
   const [km, setKm] = useState("80000");
   const [yas, setYas] = useState("3");
+  const [hasarKaydi, setHasarKaydi] = useState("0");
+  const [ticari, setTicari] = useState<"hayir" | "evet">("hayir");
 
   const result = useMemo(() => {
     const R = parseFloat(rayicDeger.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
@@ -1057,41 +1079,61 @@ function AracDegerKaybi() {
     const yasN = parseInt(yas) || 0;
     if (R === 0) return null;
 
-    // Km faktörü (0–1: düşük km yüksek değer kaybı oranı)
     const kmFaktor = kmN <= 30000 ? 1.0 : kmN <= 60000 ? 0.90 : kmN <= 100000 ? 0.80 : kmN <= 150000 ? 0.70 : 0.60;
-    // Yaş faktörü
     const yasFaktor = yasN <= 1 ? 1.0 : yasN <= 3 ? 0.95 : yasN <= 5 ? 0.85 : yasN <= 8 ? 0.75 : 0.65;
-    // Hasar oranı
-    const hasarOrani = H / R;
-    // Değer kaybı aralığı
-    const base = R * hasarOrani * 0.15;
-    const min = base * kmFaktor * yasFaktor;
-    const max = base * kmFaktor * yasFaktor * 1.4;
-    return { min, max, hasarOrani };
-  }, [rayicDeger, hasarBedeli, km, yas]);
+    const tipFaktor = ARAC_TIPLERI[parseInt(aracTipi) || 0].faktor;
+    const hasarKaydiFaktor = HASAR_KAYDI[parseInt(hasarKaydi) || 0].faktor;
+    const durumFaktor = ticari === "evet" ? 0.70 : 1.0; // ticari/kiralık araçta değer kaybı daha sınırlı
+
+    const hasarOrani = R > 0 ? H / R : 0;
+    // Onarım bedelinin bir oranı, çoklu katsayılarla düzeltilmiş tahmin
+    const base = H * 0.15;
+    const merkez = base * kmFaktor * yasFaktor * tipFaktor * hasarKaydiFaktor * durumFaktor;
+    const min = merkez * 0.8;
+    const max = merkez * 1.25;
+    return { min, max, merkez, hasarOrani };
+  }, [aracTipi, rayicDeger, hasarBedeli, km, yas, hasarKaydi, ticari]);
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-      <Field label="Araç Rayiç Değeri (TL)">
+      <Field label="Araç Tipi">
+        <select value={aracTipi} onChange={e => setAracTipi(e.target.value)} className={sel}>
+          {ARAC_TIPLERI.map((t, i) => <option key={i} value={i}>{t.ad}</option>)}
+        </select>
+      </Field>
+      <Field label="Araç Durumu">
+        <select value={ticari} onChange={e => setTicari(e.target.value as "hayir" | "evet")} className={sel}>
+          <option value="hayir">Hususi (ticari/kiralık değil)</option>
+          <option value="evet">Ticari / Kiralık araç</option>
+        </select>
+      </Field>
+      <Field label="Araç Rayiç (Kasko) Değeri (TL)">
         <input type="text" value={rayicDeger} onChange={e => setRayicDeger(e.target.value)} className={inp} />
       </Field>
-      <Field label="Tamir Bedeli / Hasar (TL)">
+      <Field label="Onarım / Hasar Tutarı (TL)">
         <input type="text" value={hasarBedeli} onChange={e => setHasarBedeli(e.target.value)} className={inp} />
       </Field>
-      <Field label="Kilometre">
+      <Field label="Kaza Anındaki Kilometre">
         <input type="text" value={km} onChange={e => setKm(e.target.value)} className={inp} />
       </Field>
       <Field label="Araç Yaşı">
         <input type="number" min="0" value={yas} onChange={e => setYas(e.target.value)} className={inp} />
       </Field>
+      <Field label="Geçmiş Hasar Kaydı">
+        <select value={hasarKaydi} onChange={e => setHasarKaydi(e.target.value)} className={sel}>
+          {HASAR_KAYDI.map((h, i) => <option key={i} value={i}>{h.ad}</option>)}
+        </select>
+      </Field>
+
       {result ? (
         <div className="col-span-full">
           <Result
             rows={[
-              ["Hasar Oranı (H/R)", `%${fmt(result.hasarOrani * 100, 2)}`],
+              ["Hasar Oranı (Onarım / Rayiç)", `%${fmt(result.hasarOrani * 100, 2)}`],
+              ["Tahmini Değer Kaybı (orta)", `${fmt(result.merkez)} TL`],
               ["Tahmini Değer Kaybı Aralığı", `${fmt(result.min)} TL — ${fmt(result.max)} TL`],
             ]}
-            note="Bu hesaplama genel bir tahminden ibarettir. AYM'nin sigorta genel şartlarına ilişkin iptal kararları sonrası sabit formül uygulanmamakta; araç değer kaybı, bilirkişi tarafından aracın kaza öncesi ve sonrası piyasa rayiç değeri arasındaki fark olarak somut analiz ile belirlenmektedir. Mahkemelerde uygulanacak değer, bilirkişi tespiti ve aracın özel durumuna göre değişir."
+            note="Bu sonuç; araç tipi/segmenti, onarım bedeli, kilometre, yaş, geçmiş hasar kaydı ve kullanım amacı (ticari/kiralık) dikkate alınarak hesaplanan ORTALAMA bir tahmindir. AYM'nin sigorta genel şartlarındaki sabit değer kaybı formülünü iptali sonrası bağlayıcı tek bir formül yoktur; gerçek değer kaybı, bilirkişi tarafından aracın kaza öncesi ve sonrası piyasa rayiç değeri farkı olarak somut biçimde belirlenir. Geçmiş hasar kaydı arttıkça ve araç ticari/kiralık ise değer kaybı azalır; araç yeni ve düşük km ise artar. Hukuki dayanak: TBK haksız fiil hükümleri ve Yargıtay içtihadı. Kesin tutar için eksper/bilirkişi değerlendirmesi gereklidir."
           />
         </div>
       ) : (
@@ -1104,26 +1146,22 @@ function AracDegerKaybi() {
 // ─── 11. TAPU HARCI ───────────────────────────────────────────────────────────
 
 function TapuHarci() {
+  const DONER_2026 = 2534; // 2026 döner sermaye (tapu) hizmet bedeli — yıllık güncellenir (yaklaşık)
   const [deger, setDeger] = useState("3000000");
-  const [doner, setDoner] = useState("2534"); // 2026 döner sermaye (gösterge 2.227 + ilave 307 TL)
 
   const result = useMemo(() => {
     const d = parseFloat(deger.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const donerN = parseFloat(doner.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const alici = d * 0.02;
     const satici = d * 0.02;
     const toplamHarc = alici + satici;
-    const toplam = toplamHarc + donerN;
+    const toplam = toplamHarc + DONER_2026;
     return { alici, satici, toplamHarc, toplam };
-  }, [deger, doner]);
+  }, [deger]);
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="Beyan Edilen Satış Bedeli (TL)">
         <input type="text" value={deger} onChange={e => setDeger(e.target.value)} className={inp} />
-      </Field>
-      <Field label="Döner Sermaye Bedeli (TL)">
-        <input type="text" value={doner} onChange={e => setDoner(e.target.value)} className={inp} />
       </Field>
       <div className="col-span-full">
         <Result
@@ -1131,10 +1169,10 @@ function TapuHarci() {
             ["Alıcı Tapu Harcı (%2)", `${fmt(result.alici)} TL`],
             ["Satıcı Tapu Harcı (%2)", `${fmt(result.satici)} TL`],
             ["Toplam Tapu Harcı (%4)", `${fmt(result.toplamHarc)} TL`],
-            ["Döner Sermaye Bedeli", `${fmt(result.toplam - result.toplamHarc)} TL`],
+            ["Döner Sermaye Hizmet Bedeli (sabit)", `${fmt(DONER_2026)} TL`],
             ["Genel Toplam Maliyet", `${fmt(result.toplam)} TL`],
           ]}
-          note="Harçlar Kanunu (492 s. Tarife) uyarınca tapu devrinde alıcı ve satıcı ayrı ayrı %2 (toplam %4) harç öder. Harç, gerçek devir bedeli üzerinden hesaplanır; beyan edilen bedel emsal/rayiç bedelin altında olamaz. Döner sermaye bedeli yıllık güncellenir (2026 yaklaşık)."
+          note="Harçlar Kanunu (492 s. Tarife) uyarınca tapu devrinde alıcı ve satıcı ayrı ayrı %2 (toplam %4) harç öder. Harç, gerçek devir bedeli üzerinden hesaplanır; beyan edilen bedel emsal/rayiç bedelin altında olamaz. Döner sermaye hizmet bedeli her yıl güncellenen sabit bir tutardır (2026 için yaklaşık değer dahil edilmiştir); ayrıca girmenize gerek yoktur."
         />
       </div>
     </div>
