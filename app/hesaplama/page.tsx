@@ -1322,56 +1322,104 @@ function NispiVekalet() {
 
 // ─── 13. DAVA AÇMA HARCI ──────────────────────────────────────────────────────
 
+const DAVA_MAHKEME = [
+  { ad: "Sulh Hukuk Mahkemesi", basvurma: 335.20, muaf: false },
+  { ad: "Asliye Hukuk Mahkemesi", basvurma: 732, muaf: false },
+  { ad: "Asliye Ticaret Mahkemesi", basvurma: 732, muaf: false },
+  { ad: "İş Mahkemesi", basvurma: 732, muaf: false },
+  { ad: "Aile Mahkemesi", basvurma: 732, muaf: false },
+  { ad: "Tüketici Mahkemesi (harçtan muaf)", basvurma: 0, muaf: true },
+  { ad: "İdare / Vergi Mahkemesi", basvurma: 732, muaf: false },
+];
+
 function DavaAcmaHarci() {
+  // 2026 sabitleri
+  const NISPI_ORAN = 0.06831;   // ‰68,31 nispi karar ve ilam harcı
+  const VEKALET_HARCI = 104;    // vekaletname harcı (maktu)
+  const BARO_PULU = 164;        // vekalet (baro) pulu
+  const GIDER_BASE = 2500;      // gider avansı taban (~2 taraf, tebligat dahil)
+  const TANIK_BIRIM = 350;      // tanık başına gider (tahmini — Bakanlık tarifesi)
+  const BILIRKISI_BIRIM = 4000; // bilirkişi başına ücret (tahmini)
+  const KESIF_BEDELI = 4000;    // keşif gideri (tahmini)
+
+  const [mahkemeIdx, setMahkemeIdx] = useState("1"); // Asliye Hukuk
+  const [tip, setTip] = useState<"nispi" | "maktu">("nispi");
   const [davaD, setDavaD] = useState("500000");
-  const [tarafSayisi, setTarafSayisi] = useState("2");
-  const [bilirkisi, setBilirkisi] = useState(false);
-  const [kesif, setKesif] = useState(false);
+  const [tanik, setTanik] = useState("0");
+  const [bilirkisiSayi, setBilirkisiSayi] = useState("0");
+  const [kesif, setKesif] = useState<"hayir" | "evet">("hayir");
+  const [avukatli, setAvukatli] = useState<"evet" | "hayir">("evet");
 
   const result = useMemo(() => {
+    const m = DAVA_MAHKEME[parseInt(mahkemeIdx) || 0];
     const d = parseFloat(davaD.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const taraf = parseInt(tarafSayisi) || 2;
-    // Harçlar Kanunu Tarife No.1 — 2026 tutarları
-    const basvuruHarci = 732; // Asliye mahkemeleri maktu başvuru harcı (2026)
-    const nispiHarc = d * 0.06831; // ‰68,31 nispi karar ve ilam harcı
-    const pesinHarc = nispiHarc / 4; // Peşin harç = nispi harcın 1/4'ü
-    // Gider avansı (HMK md.120) — 2026 tarifesi
-    let giderAvans = taraf * 5 * 265 + 530; // taraf × 5 × tebligat ücreti + diğer işlemler
-    if (bilirkisi) giderAvans += 3000;
-    if (kesif) giderAvans += 2500;
-    const toplam = basvuruHarci + pesinHarc + giderAvans;
-    return { basvuruHarci, pesinHarc, giderAvans, toplam };
-  }, [davaD, tarafSayisi, bilirkisi, kesif]);
+    const tn = parseInt(tanik) || 0;
+    const bk = parseInt(bilirkisiSayi) || 0;
+
+    const basvurma = m.muaf ? 0 : m.basvurma;
+    const nispiHarc = tip === "nispi" ? d * NISPI_ORAN : 0;
+    const pesinHarc = m.muaf ? 0 : (tip === "nispi" ? nispiHarc / 4 : 0);
+    const vekaletHarci = avukatli === "evet" && !m.muaf ? VEKALET_HARCI : 0;
+    const baroPulu = avukatli === "evet" ? BARO_PULU : 0;
+
+    const giderAvans = GIDER_BASE + tn * TANIK_BIRIM + bk * BILIRKISI_BIRIM + (kesif === "evet" ? KESIF_BEDELI : 0);
+
+    const toplam = basvurma + pesinHarc + vekaletHarci + baroPulu + giderAvans;
+    return { m, basvurma, nispiHarc, pesinHarc, vekaletHarci, baroPulu, giderAvans, toplam };
+  }, [mahkemeIdx, tip, davaD, tanik, bilirkisiSayi, kesif, avukatli]);
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-      <Field label="Dava Değeri (TL)">
-        <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
+      <Field label="Mahkeme Türü">
+        <select value={mahkemeIdx} onChange={e => setMahkemeIdx(e.target.value)} className={sel}>
+          {DAVA_MAHKEME.map((m, i) => <option key={i} value={i}>{m.ad}</option>)}
+        </select>
       </Field>
-      <Field label="Toplam Taraf Sayısı">
-        <input type="number" min="2" value={tarafSayisi} onChange={e => setTarafSayisi(e.target.value)} className={inp} />
+      <Field label="Hesaplama Tipi">
+        <select value={tip} onChange={e => setTip(e.target.value as "nispi" | "maktu")} className={sel}>
+          <option value="nispi">Nispi (Konusu Para Olan)</option>
+          <option value="maktu">Maktu (Konusu Para Olmayan)</option>
+        </select>
       </Field>
-      <Field label="Bilirkişi İncelemesi?">
-        <select value={bilirkisi ? "evet" : "hayir"} onChange={e => setBilirkisi(e.target.value === "evet")} className={sel}>
+      {tip === "nispi" && (
+        <Field label="Dava Değeri (TL)">
+          <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
+        </Field>
+      )}
+      <Field label="Tanık Sayısı">
+        <input type="number" min="0" value={tanik} onChange={e => setTanik(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Bilirkişi Sayısı">
+        <input type="number" min="0" value={bilirkisiSayi} onChange={e => setBilirkisiSayi(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Keşif Harcı Dahil Et">
+        <select value={kesif} onChange={e => setKesif(e.target.value as "hayir" | "evet")} className={sel}>
           <option value="hayir">Hayır</option>
           <option value="evet">Evet</option>
         </select>
       </Field>
-      <Field label="Keşif?">
-        <select value={kesif ? "evet" : "hayir"} onChange={e => setKesif(e.target.value === "evet")} className={sel}>
-          <option value="hayir">Hayır</option>
+      <Field label="Avukatla mı?">
+        <select value={avukatli} onChange={e => setAvukatli(e.target.value as "evet" | "hayir")} className={sel}>
           <option value="evet">Evet</option>
+          <option value="hayir">Hayır</option>
         </select>
       </Field>
+
       <div className="col-span-full">
         <Result
           rows={[
-            ["Başvuru Harcı (maktu)", `${fmt(result.basvuruHarci)} TL`],
-            ["Peşin Harç (nispi harcın 1/4'ü)", `${fmt(result.pesinHarc)} TL`],
+            ["Mahkeme", result.m.ad],
+            ["Başvurma Harcı", result.m.muaf ? "Muaf (0 TL)" : `${fmt(result.basvurma)} TL`],
+            ...(tip === "nispi"
+              ? [["Nispi Karar ve İlam Harcı (‰68,31)", `${fmt(result.nispiHarc)} TL`] as [string, string],
+                 ["Peşin Harç (nispi harcın 1/4'ü)", result.m.muaf ? "Muaf" : `${fmt(result.pesinHarc)} TL`] as [string, string]]
+              : []),
+            ...(result.vekaletHarci > 0 ? [["Vekalet Harcı", `${fmt(result.vekaletHarci)} TL`] as [string, string]] : []),
+            ...(result.baroPulu > 0 ? [["Vekalet (Baro) Pulu", `${fmt(result.baroPulu)} TL`] as [string, string]] : []),
             ["Gider Avansı (tahmini)", `${fmt(result.giderAvans)} TL`],
-            ["Toplam Başlangıç Masrafı", `${fmt(result.toplam)} TL`],
+            ["TOPLAM BAŞLANGIÇ MASRAFI", `${fmt(result.toplam)} TL`],
           ]}
-          note="Harç tutarları 492 sayılı Harçlar Kanunu Tarife No.1 (2026) esasında hesaplanmıştır. Nispi harç oranı ‰68,31 olup peşin harç bunun 1/4'üdür. Başvuru harcı asliye mahkemeleri için 732 TL'dir (sulh: 335,20 TL). Gider avansı HMK md.120 ve 2026 tarifesine göre hesaplanmıştır (tebligat birim: 265 TL). Yargılama sonunda kullanılmayan kısım iade edilir."
+          note={`492 sayılı Harçlar Kanunu Tarife No.1 (2026) esasındadır. Başvurma harcı: sulh 335,20 TL; asliye/aile/idare 732 TL. Nispi davalarda karar ve ilam harcı dava değerinin ‰68,31'i olup, açılışta bunun 1/4'ü PEŞİN alınır; kalan 3/4 karar sonrası tamamlanır. Maktu davalarda (boşanma, tespit vb.) maktu karar/ilam harcı yargılama sonunda alınır. Vekalet harcı 104 TL, baro pulu 164 TL (avukatlı dosyada). Gider avansı (HMK md.120) tabanı ~2.500 TL olup tanık (~${TANIK_BIRIM} TL/tanık), bilirkişi (~${BILIRKISI_BIRIM} TL/kişi) ve keşif (~${KESIF_BEDELI} TL) eklenir; bu birim tutarlar her yıl Adalet Bakanlığı tarifesiyle belirlenir, buradakiler TAHMİNÎDİR. Tüketici davaları her türlü harçtan muaftır (TKHK m.73); gider avansı yine alınır. Kullanılmayan gider avansı dava sonunda iade edilir.`}
         />
       </div>
     </div>
