@@ -946,49 +946,96 @@ function FaizHesaplama() {
 
 // ─── 9. KİRA ARTIŞ ORANI ──────────────────────────────────────────────────────
 
+const AYLAR = ["Ocak", "Şubat", "Mart", "Nisan", "Mayıs", "Haziran", "Temmuz", "Ağustos", "Eylül", "Ekim", "Kasım", "Aralık"];
+
 function KiraArtis() {
-  const [tur, setTur] = useState("konut");
-  const [mevcutKira, setMevcutKira] = useState("10000");
-  const [tufe12, setTufe12] = useState("38.5");
+  const now = new Date();
+  const [ay, setAy] = useState(String(now.getMonth())); // 0-11
+  const [yil, setYil] = useState(String(now.getFullYear()));
+  const [tur, setTur] = useState<"konut" | "isyeri">("konut");
+  const [oranTuru, setOranTuru] = useState<"tufe" | "ozel">("tufe");
+  const [tufe12, setTufe12] = useState("35.0");
+  const [ozelOran, setOzelOran] = useState("25");
+  const [mevcutKira, setMevcutKira] = useState("16750.25");
 
   const result = useMemo(() => {
     const kira = parseFloat(mevcutKira.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const tufe = parseFloat(tufe12) || 0;
-    let uygulanacak = tufe;
-    let aciklama = `TÜFE 12 aylık ortalama: %${fmt(tufe, 2)} uygulanır.`;
-    if (tur === "konut") {
-      // 2022 Temmuz'a kadar %25 sınırı vardı, sona erdi. Artık TÜFE uygulanıyor.
-      aciklama = `Konut kira artışında 12 aylık TÜFE ortalaması esas alınır (%${fmt(tufe, 2)}).`;
+    const ozel = parseFloat(ozelOran) || 0;
+
+    // Artış ayı M ise, M-1 ayının 12 aylık ortalama TÜFE'si esas alınır
+    const ayIdx = parseInt(ay) || 0;
+    const yilN = parseInt(yil) || now.getFullYear();
+    const refAyIdx = (ayIdx + 11) % 12;
+    const refYil = ayIdx === 0 ? yilN - 1 : yilN;
+    const refAy = `${AYLAR[refAyIdx]} ${refYil}`;
+
+    // TBK 344: kararlaştırılan (özel) oran, TÜFE 12 aylık ortalamayı GEÇEMEZ
+    let uygulanacak: number;
+    let capUygulandi = false;
+    if (oranTuru === "tufe") {
+      uygulanacak = tufe;
     } else {
-      aciklama = `İşyeri kiralarında yasal sınır yoktur; TÜFE esas alınmakla birlikte taraflar farklı oran kararlaştırabilir.`;
+      capUygulandi = ozel > tufe;
+      uygulanacak = Math.min(ozel, tufe);
     }
     const yeniKira = kira * (1 + uygulanacak / 100);
     const artis = yeniKira - kira;
-    return { yeniKira, artis, uygulanacak, aciklama };
-  }, [tur, mevcutKira, tufe12]);
+    return { kira, tufe, ozel, uygulanacak, capUygulandi, yeniKira, artis, refAy };
+  }, [ay, yil, tur, oranTuru, tufe12, ozelOran, mevcutKira]);
+
+  const yillar = Array.from({ length: 6 }, (_, i) => now.getFullYear() - 2 + i);
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-      <Field label="Kira Türü">
-        <select value={tur} onChange={e => setTur(e.target.value)} className={sel}>
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Artış Yapılacak Ay">
+        <div className="flex gap-2">
+          <select value={ay} onChange={e => setAy(e.target.value)} className={sel}>
+            {AYLAR.map((a, i) => <option key={i} value={i}>{a}</option>)}
+          </select>
+          <select value={yil} onChange={e => setYil(e.target.value)} className={sel}>
+            {yillar.map(y => <option key={y} value={y}>{y}</option>)}
+          </select>
+        </div>
+      </Field>
+      <Field label="Kiralanan">
+        <select value={tur} onChange={e => setTur(e.target.value as "konut" | "isyeri")} className={sel}>
           <option value="konut">Konut</option>
-          <option value="isyeri">İşyeri</option>
+          <option value="isyeri">İş yeri</option>
         </select>
       </Field>
-      <Field label="Mevcut Aylık Kira (TL)">
-        <input type="text" value={mevcutKira} onChange={e => setMevcutKira(e.target.value)} className={inp} />
+      <Field label="Artış Oranı Türü">
+        <select value={oranTuru} onChange={e => setOranTuru(e.target.value as "tufe" | "ozel")} className={sel}>
+          <option value="tufe">Tüketici Fiyat Endeksi (TÜFE)</option>
+          <option value="ozel">Sözleşmedeki Özel Artış Oranı %</option>
+        </select>
       </Field>
-      <Field label="12 Aylık TÜFE Ort. (%)">
+      <Field label={`12 Aylık TÜFE Ort. (%) — ${result.refAy}`}>
         <input type="number" step="0.01" value={tufe12} onChange={e => setTufe12(e.target.value)} className={inp} />
       </Field>
-      <div className="md:col-span-3">
+      {oranTuru === "ozel" && (
+        <Field label="Sözleşmedeki Özel Oran (%)">
+          <input type="number" step="0.01" value={ozelOran} onChange={e => setOzelOran(e.target.value)} className={inp} />
+        </Field>
+      )}
+      <Field label="Mevcut Kira Tutarı (TL)">
+        <input type="text" value={mevcutKira} onChange={e => setMevcutKira(e.target.value)} className={inp} />
+      </Field>
+
+      <div className="md:col-span-2">
         <Result
           rows={[
-            ["Artış Oranı", `%${fmt(result.uygulanacak, 2)}`],
+            ["Referans Endeks Ayı", result.refAy],
+            ["12 Aylık TÜFE Ortalaması", `%${fmt(result.tufe, 2)}`],
+            ...(oranTuru === "ozel"
+              ? [["Sözleşmedeki Özel Oran", `%${fmt(result.ozel, 2)}`] as [string, string],
+                 ...(result.capUygulandi ? [["⚠️ TBK 344 Üst Sınırı", `Özel oran TÜFE'yi (%${fmt(result.tufe, 2)}) aştığından TÜFE uygulanır`] as [string, string]] : [])]
+              : []),
+            ["Uygulanacak Artış Oranı", `%${fmt(result.uygulanacak, 2)}`],
             ["Artış Miktarı", `${fmt(result.artis)} TL`],
             ["Yeni Kira Bedeli", `${fmt(result.yeniKira)} TL`],
           ]}
-          note={result.aciklama + " Güncel TÜFE 12 aylık ortalaması için TÜİK resmi sitesini kontrol edin."}
+          note={`Artış ayı seçildiğinde, bir önceki ayın (${result.refAy}) TÜİK 12 aylık ortalama TÜFE değişim oranı esas alınır; güncel oranı TÜİK'ten girin. TBK md.344 uyarınca hem KONUT hem İŞ YERİ kiralarında artış, 12 aylık TÜFE ortalamasını GEÇEMEZ (işyeri için 01.07.2020'den itibaren). Sözleşmede kararlaştırılan özel oran TÜFE'yi aşarsa, aşan kısım geçersizdir ve TÜFE uygulanır. Konutlarda uygulanan geçici %25 üst sınırı 01.07.2024 itibarıyla sona ermiştir. Yeni kira = mevcut kira × (1 + uygulanacak oran).`}
         />
       </div>
     </div>
