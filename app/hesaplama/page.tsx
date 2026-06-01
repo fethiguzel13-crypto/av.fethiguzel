@@ -853,45 +853,124 @@ function DavaAcmaHarci() {
 // ─── 14. İCRA KAPAK HESABI ────────────────────────────────────────────────────
 
 function IcraKapakHesabi() {
-  const [anapara, setAnapara] = useState("100000");
-  const [faiz, setFaiz] = useState("20000");
-  const [harc, setHarc] = useState("2000");
-  const [davaVekalet, setDavaVekalet] = useState(false);
+  // ─── 2026 İcra harç ve gider tarifeleri (düzenlenebilir sabitler) ───
+  const BASVURMA_HARCI = 732;        // İcra başvurma harcı (maktu) — 2026
+  const PESIN_HARC_ORAN = 0.005;     // Peşin harç ‰5 (binde 5) — yalnız İLAMSIZ takipte
+  const TAHSIL = { once: 0.0455, satisOnce: 0.0910, satisSonra: 0.1138 }; // %4,55 / %9,10 / %11,38
+  const CEZAEVI_ORAN = 0.02;         // Cezaevi harcı: tahsil edilen asıl alacağın %2'si
+  const TEBLIGAT = { normal: 265, aps: 530, uets: 15 }; // 2026 (UETS: borçlu şirketse)
+  const AAUT_ICRA_MAKTU = 9000;      // 2026 AAÜT icra maktu vekalet ücreti
+
+  const [tur, setTur] = useState<"ilamsiz" | "ilamli">("ilamsiz");
+  const [asilAlacak, setAsilAlacak] = useState("100000");
+  const [islemisFaiz, setIslemisFaiz] = useState("0");
+  const [borcluSayisi, setBorcluSayisi] = useState("1");
+  const [tebligat, setTebligat] = useState<"normal" | "aps" | "uets">("normal");
+  const [vekilVar, setVekilVar] = useState(true);
+  const [dosyaGideri, setDosyaGideri] = useState("500");
+  const [digerAvans, setDigerAvans] = useState("0");
 
   const result = useMemo(() => {
-    const ap = parseFloat(anapara.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const fz = parseFloat(faiz.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const hrc = parseFloat(harc.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const alacak = ap + fz;
-    // Tahsil harcı (Harçlar Kanunu Tarife No.1 — 2026)
-    const tahsilHarc = alacak * 0.0455; // %4,55 (hacizden evvel ödeme)
-    const cezaeviHarc = alacak * 0.02; // %2 Cezaevi Yapı Harcı
-    const icraVekalet = nispiVekalet(ap) * 0.5; // icra vekalet ücreti (nispi × 0.5 yaklaşık)
-    const toplam = alacak + tahsilHarc + cezaeviHarc + hrc + icraVekalet;
-    return { alacak, tahsilHarc, cezaeviHarc, icraVekalet, toplam };
-  }, [anapara, faiz, harc, davaVekalet]);
+    const ap = parseFloat(asilAlacak.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const fz = parseFloat(islemisFaiz.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const bs = Math.max(1, parseInt(borcluSayisi) || 1);
+    const dg = parseFloat(dosyaGideri.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const da = parseFloat(digerAvans.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const takipTutari = ap + fz; // asıl alacak + takip öncesi işlemiş faiz
+
+    // ── 1) AÇILIŞ MASRAFI (alacaklının icra dairesine yatıracağı) ──
+    const pesinHarc = tur === "ilamsiz" ? takipTutari * PESIN_HARC_ORAN : 0;
+    const tebligatGideri = TEBLIGAT[tebligat] * bs;
+    const acilis = BASVURMA_HARCI + pesinHarc + tebligatGideri + dg + da;
+
+    // ── 2) TAHSİL AŞAMASI ──
+    const tahsilOnce = takipTutari * TAHSIL.once;
+    const tahsilSatisOnce = takipTutari * TAHSIL.satisOnce;
+    const tahsilSatisSonra = takipTutari * TAHSIL.satisSonra;
+    // Cezaevi harcı: tahsil edilen ASIL alacağın %2'si (takip sonrası faiz hariç) — ALACAKLI öder
+    const cezaeviHarc = takipTutari * CEZAEVI_ORAN;
+    // İcra vekalet ücreti (AAÜT Üçüncü Kısım basamakları, asgari maktu 9.000 TL)
+    let vek = 0;
+    if (vekilVar) {
+      let kalan = takipTutari, step = 0;
+      for (const b of AAUT_BASAMAKLAR) {
+        const d = Math.min(kalan, b.dilim);
+        if (d <= 0) break;
+        step += d * b.oran; kalan -= d;
+        if (kalan <= 0) break;
+      }
+      vek = Math.max(step, AAUT_ICRA_MAKTU);
+    }
+
+    return { takipTutari, pesinHarc, tebligatGideri, acilis, tahsilOnce, tahsilSatisOnce, tahsilSatisSonra, cezaeviHarc, vek, dg, da, bs };
+  }, [tur, asilAlacak, islemisFaiz, borcluSayisi, tebligat, vekilVar, dosyaGideri, digerAvans]);
 
   return (
-    <div className="grid grid-cols-1 md:grid-cols-3 gap-5">
-      <Field label="Anapara Alacak (TL)">
-        <input type="text" value={anapara} onChange={e => setAnapara(e.target.value)} className={inp} />
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Dosya Türü">
+        <select value={tur} onChange={e => setTur(e.target.value as "ilamsiz" | "ilamli")} className={sel}>
+          <option value="ilamsiz">İlamsız İcra</option>
+          <option value="ilamli">İlamlı İcra</option>
+        </select>
       </Field>
-      <Field label="Birikmiş Faiz (TL)">
-        <input type="text" value={faiz} onChange={e => setFaiz(e.target.value)} className={inp} />
+      <Field label="Tebligat Türü">
+        <select value={tebligat} onChange={e => setTebligat(e.target.value as "normal" | "aps" | "uets")} className={sel}>
+          <option value="normal">Normal Tebligat (PTT) — 265 TL</option>
+          <option value="aps">Hızlı Tebligat (APS) — 530 TL</option>
+          <option value="uets">E-Tebligat (UETS, borçlu şirket) — 15 TL</option>
+        </select>
       </Field>
-      <Field label="Diğer Masraflar (TL)">
-        <input type="text" value={harc} onChange={e => setHarc(e.target.value)} className={inp} />
+      <Field label="Asıl Alacak / Takip Tutarı (TL)">
+        <input type="text" value={asilAlacak} onChange={e => setAsilAlacak(e.target.value)} className={inp} />
       </Field>
-      <div className="md:col-span-3">
+      <Field label="İşlemiş Faiz (takip öncesi, TL)">
+        <input type="text" value={islemisFaiz} onChange={e => setIslemisFaiz(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Borçlu Sayısı">
+        <input type="number" min="1" value={borcluSayisi} onChange={e => setBorcluSayisi(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Avukatla Takip mi?">
+        <select value={vekilVar ? "evet" : "hayir"} onChange={e => setVekilVar(e.target.value === "evet")} className={sel}>
+          <option value="evet">Evet (vekalet ücreti dahil)</option>
+          <option value="hayir">Hayır</option>
+        </select>
+      </Field>
+      <Field label="Dosya Gideri & Baro Pulu (TL) — düzenlenebilir">
+        <input type="text" value={dosyaGideri} onChange={e => setDosyaGideri(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Diğer İşlemler Avansı (TL) — opsiyonel">
+        <input type="text" value={digerAvans} onChange={e => setDigerAvans(e.target.value)} className={inp} />
+      </Field>
+
+      <div className="md:col-span-2">
+        <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">1 · Açılış Masrafı — Alacaklının Yatıracağı</div>
         <Result
           rows={[
-            ["Alacak Toplamı", `${fmt(result.alacak)} TL`],
-            ["Tahsil Harcı (%4,55 — hacizden evvel)", `${fmt(result.tahsilHarc)} TL`],
-            ["Cezaevi Yapı Harcı (%2)", `${fmt(result.cezaeviHarc)} TL`],
-            ["İcra Vekalet Ücreti (approx.)", `${fmt(result.icraVekalet)} TL`],
-            ["Kapak Dosya Toplamı", `${fmt(result.toplam)} TL`],
+            ["Başvurma Harcı (maktu)", `${fmt(BASVURMA_HARCI)} TL`],
+            tur === "ilamsiz"
+              ? ["Peşin Harç (takip tutarının binde 5'i)", `${fmt(result.pesinHarc)} TL`]
+              : ["Peşin Harç", "İlamlı takipte alınmaz"],
+            [`Tebligat Gideri (${result.bs} borçlu)`, `${fmt(result.tebligatGideri)} TL`],
+            ["Dosya Gideri & Baro Pulu", `${fmt(result.dg)} TL`],
+            ...(result.da > 0 ? [["Diğer İşlemler Avansı", `${fmt(result.da)} TL`] as [string, string]] : []),
+            ["TOPLAM AÇILIŞ MASRAFI", `${fmt(result.acilis)} TL`],
           ]}
-          note="Tahsil harcı %4,55 (hacizden evvel ödeme aşaması); hacizden sonra %9,10; satış sonrası %11,38'dir. Cezaevi Yapı Harcı %2 olup alacaklı öder. Harçlar Kanunu Tarife No.1 (2026) esas alınmıştır. Vekalet ücreti AAÜT icra tarifesine göre değişir. Kesin tutar için dosya avukatınızla çalışın."
+          note="İlamsız takipte peşin harç, takip tutarının binde 5'idir (492 s.K.); ilamlı takipte peşin (nispi) harç alınmaz, yalnız maktu başvurma harcı yatırılır. Başvurma harcı 2026 için 732 TL. Tebligat: normal 265 TL, APS 530 TL, UETS (borçlu şirket) 15 TL (2026). Bu masraflar alacaklı tarafından yatırılır, dosya hesabına eklenir ve tahsilatta borçludan alınır. Dosya gideri/baro pulu değişkendir; kendi tutarınızı girebilirsiniz."
+        />
+      </div>
+
+      <div className="md:col-span-2">
+        <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">2 · Tahsil Aşaması — Harçlar & Vekalet</div>
+        <Result
+          rows={[
+            ["Tahsil Harcı — hacizden önce ödeme (%4,55)", `${fmt(result.tahsilOnce)} TL`],
+            ["Tahsil Harcı — haciz sonrası / satış öncesi (%9,10)", `${fmt(result.tahsilSatisOnce)} TL`],
+            ["Tahsil Harcı — satış sonrası (%11,38)", `${fmt(result.tahsilSatisSonra)} TL`],
+            ...(result.vek > 0 ? [["İcra Vekalet Ücreti (AAÜT — tam)", `${fmt(result.vek)} TL`] as [string, string]] : []),
+            ...(result.vek > 0 ? [["İcra Vekalet Ücreti — borçlu süresinde öderse (3/4)", `${fmt(result.vek * 0.75)} TL`] as [string, string]] : []),
+            ["Cezaevi Harcı (%2) — ALACAKLI öder · kapağa dâhil DEĞİL", `${fmt(result.cezaeviHarc)} TL`],
+          ]}
+          note="Tahsil harcı borçludan, tahsilatın yapıldığı aşamaya göre TEK olarak alınır (%4,55 / %9,10 / %11,38 — aşamalar alternatiftir, toplanmaz). İcra vekalet ücreti borçludan tahsil edilir; AAÜT 2026 icra maktu alt sınırı 9.000 TL'dir. Borçlu, ödeme/itiraz süresi içinde borcu öderse vekalet ücreti tarifedeki tutarın 3/4'ü (dörtte üçü) oranında uygulanır (AAÜT). CEZAEVİ HARCI (2548 s.K.): tahsil edilen asıl alacağın %2'sidir — takipten SONRA işleyen faiz matraha dâhil edilmez (Danıştay). Bu harcı ALACAKLI öder; tahsil edilen paradan alacaklı aleyhine kesilir, kanun ve Yargıtay içtihadı gereği BORÇLUYA YÜKLETİLEMEZ ve dosya kapak hesabına EKLENMEZ. Yalnızca bilgi amacıyla gösterilmiştir. İcra vekalet ücreti tutarı AAÜT icra tarifesine göre belirlenir; kesin tutarı doğrulayınız."
         />
       </div>
     </div>
@@ -1565,7 +1644,7 @@ const ARACLAR = [
   { id: "nafaka", icon: "👨‍👩‍👧", baslik: "Nafaka Artış Hesabı", tag: "Aile Hukuku", comp: <NafakaArtisi /> },
   { id: "iddet", icon: "📅", baslik: "İddet Müddeti Hesabı", tag: "Aile Hukuku", comp: <IddetMuddeti /> },
   { id: "faiz", icon: "📊", baslik: "Faiz Hesaplama (Yasal / Ticari / Avans)", tag: "Alacak", comp: <FaizHesaplama /> },
-  { id: "icra-kapak", icon: "📁", baslik: "İcra Dosyası Kapak Hesabı", tag: "Alacak", comp: <IcraKapakHesabi /> },
+  { id: "icra-kapak", icon: "📁", baslik: "İcra Dosyası Kapak Hesabı & Harçlar (2026)", tag: "Alacak", comp: <IcraKapakHesabi /> },
   { id: "inkar-tazminati", icon: "⚖️", baslik: "İcra İnkâr Tazminatı", tag: "Alacak", comp: <IcraInkarTazminati /> },
   { id: "kira", icon: "🏠", baslik: "Kira Artış Oranı", tag: "Gayrimenkul", comp: <KiraArtis /> },
   { id: "tapu", icon: "📋", baslik: "Tapu Harcı Hesaplama", tag: "Gayrimenkul", comp: <TapuHarci /> },
