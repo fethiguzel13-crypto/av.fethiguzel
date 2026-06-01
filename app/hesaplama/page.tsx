@@ -499,51 +499,111 @@ function YillikIzin() {
 
 // ─── 5. SMM HESAPLAMA ─────────────────────────────────────────────────────────
 
+// KDV kısmi tevkifatı — işin türü ve oranı (KDV Genel Uygulama Tebliği)
+const SMM_ISIN_TURU = [
+  { ad: "Tevkifat Yok (nihai tüketici / belirlenmiş alıcı değil)", pay: 0, payda: 1 },
+  { ad: "Etüt, plan-proje, danışmanlık, denetim ve benzeri", pay: 9, payda: 10 },
+  { ad: "Yapı denetim hizmetleri", pay: 9, payda: 10 },
+  { ad: "Temizlik, çevre ve bahçe bakım hizmetleri", pay: 9, payda: 10 },
+  { ad: "İşgücü temini (özel güvenlik dahil)", pay: 9, payda: 10 },
+  { ad: "Makine, teçhizat, demirbaş bakım ve onarım", pay: 7, payda: 10 },
+  { ad: "Fason tekstil, konfeksiyon, çanta, ayakkabı dikim", pay: 7, payda: 10 },
+  { ad: "Baskı ve basım hizmetleri", pay: 7, payda: 10 },
+  { ad: "Servis taşımacılığı hizmeti", pay: 5, payda: 10 },
+  { ad: "Yemek servisi ve organizasyon hizmetleri", pay: 5, payda: 10 },
+  { ad: "Diğer hizmetler (belirlenmiş alıcılara)", pay: 5, payda: 10 },
+  { ad: "Yapım işleri ile mühendislik-mimarlık-etüt/proje", pay: 4, payda: 10 },
+  { ad: "Ticari reklam hizmetleri", pay: 3, payda: 10 },
+];
+
 function SmmHesaplama() {
-  const [mod, setMod] = useState<"brut" | "net">("brut");
+  const [mod, setMod] = useState<"brut" | "net" | "tahsil">("brut");
   const [tutar, setTutar] = useState("10000");
-  const KDV = 0.20;
-  const STOPAJ = 0.20;
+  const [stopajOran, setStopajOran] = useState("0.20"); // GVK md.94 serbest meslek stopajı
+  const [kdvOran, setKdvOran] = useState("0.20");
+  const [isinTuru, setIsinTuru] = useState("0"); // SMM_ISIN_TURU index
 
   const result = useMemo(() => {
     const n = parseFloat(tutar.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    let matrah: number;
+    const st = parseFloat(stopajOran) || 0;
+    const kd = parseFloat(kdvOran) || 0;
+    const it = SMM_ISIN_TURU[parseInt(isinTuru) || 0];
+    const tevk = it.pay / it.payda; // KDV tevkifat oranı (örn. 9/10 = 0,9)
+
+    // Brüt matrahı moda göre çöz
+    let brut: number;
     if (mod === "brut") {
-      matrah = n;
+      brut = n;
+    } else if (mod === "net") {
+      brut = st < 1 ? n / (1 - st) : 0; // net = brüt(1−stopaj)
     } else {
-      // net = matrah - stopaj → matrah = net / (1 - stopaj)
-      matrah = n / (1 - STOPAJ);
+      // Tahsil Edilen = net + (KDV − KDV tevkifatı) = brüt[(1−stopaj) + kdv(1−tevk)]
+      const kat = (1 - st) + kd * (1 - tevk);
+      brut = kat > 0 ? n / kat : 0;
     }
-    const kdv = matrah * KDV;
-    const stopaj = matrah * STOPAJ;
-    const faturaToplamı = matrah + kdv;
-    const netTahsilat = faturaToplamı - stopaj;
-    const avukatNetGercek = netTahsilat - kdv; // avukat kdv'yi devlete ödeyecek
-    return { matrah, kdv, stopaj, faturaToplamı, netTahsilat, avukatNetGercek };
-  }, [tutar, mod]);
+
+    const stopaj = brut * st;
+    const net = brut - stopaj;
+    const kdv = brut * kd;
+    const kdvTevkifat = kdv * tevk;        // alıcı tarafından sorumlu sıfatıyla kesilir
+    const kdvTahsil = kdv - kdvTevkifat;   // makbuzda nakden tahsil edilen KDV
+    const tahsilEdilen = net + kdvTahsil;
+
+    return { brut, st, kd, tevk, it, stopaj, net, kdv, kdvTevkifat, kdvTahsil, tahsilEdilen };
+  }, [tutar, mod, stopajOran, kdvOran, isinTuru]);
+
+  const inputLabel = mod === "brut" ? "Brüt Tutar / Matrah (TL)"
+    : mod === "net" ? "Net Tutar (TL)"
+    : "Tahsil Edilen Tutar (TL)";
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-      <Field label="Hesaplama Yönü">
-        <select value={mod} onChange={e => setMod(e.target.value as "brut" | "net")} className={sel}>
-          <option value="brut">Brütten Nete (matrah belli)</option>
-          <option value="net">Netten Brüte (avukatın alacağı belli)</option>
+      <Field label="Hesap Türü">
+        <select value={mod} onChange={e => setMod(e.target.value as "brut" | "net" | "tahsil")} className={sel}>
+          <option value="brut">Brütten Nete</option>
+          <option value="net">Netten Brüte</option>
+          <option value="tahsil">Tahsil Edilenden</option>
         </select>
       </Field>
-      <Field label={mod === "brut" ? "Hizmet Bedeli / Matrah (TL)" : "Avukatın Alacağı Net Tutar (TL)"}>
+      <Field label={inputLabel}>
         <input type="text" value={tutar} onChange={e => setTutar(e.target.value)} className={inp} />
       </Field>
+      <Field label="G.V. Stopaj (Tevkifat) Oranı">
+        <select value={stopajOran} onChange={e => setStopajOran(e.target.value)} className={sel}>
+          <option value="0.20">%20 (serbest meslek — GVK md.94)</option>
+          <option value="0.17">%17 (telif kazançları)</option>
+          <option value="0">Yok (alıcı vergi sorumlusu değil)</option>
+        </select>
+      </Field>
+      <Field label="KDV Oranı">
+        <select value={kdvOran} onChange={e => setKdvOran(e.target.value)} className={sel}>
+          <option value="0.20">%20</option>
+          <option value="0.10">%10</option>
+          <option value="0.01">%1</option>
+        </select>
+      </Field>
+      <Field label="İşin Türü (KDV Tevkifatı)">
+        <select value={isinTuru} onChange={e => setIsinTuru(e.target.value)} className={sel}>
+          {SMM_ISIN_TURU.map((t, i) => (
+            <option key={i} value={i}>{t.pay > 0 ? `${t.ad} — ${t.pay}/${t.payda}` : t.ad}</option>
+          ))}
+        </select>
+      </Field>
+
       <div className="col-span-full">
         <Result
           rows={[
-            ["Matrah (Hizmet Bedeli)", `${fmt(result.matrah)} TL`],
-            ["KDV (%20)", `+ ${fmt(result.kdv)} TL`],
-            ["Fatura Toplamı", `${fmt(result.faturaToplamı)} TL`],
-            ["Stopaj (%20 — müvekkilce kesilir)", `− ${fmt(result.stopaj)} TL`],
-            ["Avukatın Tahsil Edeceği Nakit", `${fmt(result.netTahsilat)} TL`],
-            ["Avukatın Gerçek Net Kazancı (KDV öd. sonrası)", `${fmt(result.avukatNetGercek)} TL`],
+            ["Brüt Tutar (Matrah)", `${fmt(result.brut)} TL`],
+            [`G.V. Tevkifatı (Stopaj) — %${fmt(result.st * 100, 0)}`, `− ${fmt(result.stopaj)} TL`],
+            ["Net Tutar", `${fmt(result.net)} TL`],
+            [`KDV — %${fmt(result.kd * 100, 0)}`, `+ ${fmt(result.kdv)} TL`],
+            ...(result.tevk > 0
+              ? [[`KDV Tevkifatı (${result.it.pay}/${result.it.payda}) — alıcı keser`, `− ${fmt(result.kdvTevkifat)} TL`] as [string, string],
+                 ["Makbuzda Tahsil Edilen KDV", `${fmt(result.kdvTahsil)} TL`] as [string, string]]
+              : []),
+            ["TAHSİL EDİLEN (Net + Tahsil KDV)", `${fmt(result.tahsilEdilen)} TL`],
           ]}
-          note="GVK md.94/2 gereği avukatlık hizmetlerinde stopaj %20, KDV %20'dir. Avukat KDV mükellefiyse tahsil ettiği KDV'yi devlete öder."
+          note="Serbest meslek kazancında, ödeme yapan vergi sorumlusu ise GVK md.94/2 uyarınca brüt üzerinden %20 gelir vergisi stopajı (telif kazançlarında %17) kesilir; nihai tüketiciye düzenlenen makbuzda stopaj olmaz. KDV genel oran %20'dir. KDV tevkifatı yalnızca 'belirlenmiş alıcılara' (kamu, banka, büyük şirket vb.) verilen ve tevkifat listesindeki hizmetlerde, işlem bedeli alt sınırı aşıyorsa uygulanır; bu hâlde KDV'nin işin türüne göre belirlenen kısmı (ör. 9/10) alıcı tarafından sorumlu sıfatıyla beyan edilir, kalan kısım makbuzda nakden tahsil edilir. Oranlar KDV Genel Uygulama Tebliği esasındadır; somut işlemde alıcının niteliği ve bedel sınırı kontrol edilmelidir."
         />
       </div>
     </div>
