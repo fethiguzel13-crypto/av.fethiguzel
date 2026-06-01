@@ -2232,7 +2232,9 @@ const INFAZ_OZEL = [
 
 function InfazHesaplama() {
   const [sucIdx, setSucIdx] = useState("0");
+  const [cezaTuru, setCezaTuru] = useState<"sureli" | "muebbet" | "agir">("sureli");
   const [sucTarihi, setSucTarihi] = useState("");
+  const [dogum, setDogum] = useState("");
   const [cY, setCY] = useState("3"); const [cA, setCA] = useState("0"); const [cG, setCG] = useState("0");
   const [girisTarihi, setGirisTarihi] = useState(() => new Date().toISOString().slice(0, 10));
   const [mY, setMY] = useState("0"); const [mA, setMA] = useState("0"); const [mG, setMG] = useState("0");
@@ -2240,46 +2242,74 @@ function InfazHesaplama() {
 
   const r = useMemo(() => {
     const gun = (y: string, a: string, g: string) => (parseInt(y) || 0) * 365 + (parseInt(a) || 0) * 30 + (parseInt(g) || 0);
-    const T = gun(cY, cA, cG);
     const mahsup = gun(mY, mA, mG);
-    if (T <= 0) return null;
+    const T = gun(cY, cA, cG); // süreli ceza günü
+    if (cezaTuru === "sureli" && T <= 0) return null;
     const suc = INFAZ_SUC[parseInt(sucIdx) || 0];
     const st = sucTarihi ? new Date(sucTarihi) : null;
     const eski2023 = st ? st <= new Date("2023-07-31") : false;
-
-    let oran = suc.oran;
-    let kosulluYok = false;
+    const mukerrir = ozel === "mukerrir";
+    let kosulluYok = ozel === "ikinci";
     const cocuk = ozel === "cocuk";
-    if (ozel === "mukerrir") oran = Math.max(oran, 0.75); // CGTİK 108/1 süreli hapis 3/4
-    if (ozel === "ikinci") kosulluYok = true;             // CGTİK 108/3 koşullu salıverilme yok
+
+    // Yaş bilgisi (doğum tarihinden)
+    const dg = dogum ? new Date(dogum) : null;
+    const G = new Date(girisTarihi);
+    const ok = !isNaN(G.getTime());
+    const yasSuc = (dg && st && !isNaN(dg.getTime())) ? Math.floor(daysBetween(dg, st) / 365) : null;
+    const yasGiris = (dg && ok && !isNaN(dg.getTime())) ? Math.floor(daysBetween(dg, G) / 365) : null;
+
+    // Koşullu salıverilmeye kadar infaz kurumunda geçecek süre (gün) — KS
+    let oran = suc.oran;
     if (cocuk) oran = suc.istisna ? 2 / 3 : 1 / 2;
+    if (mukerrir) oran = Math.max(oran, 0.75); // CGTİK 108/1 süreli hapis 3/4
+    let KS: number;
+    let muebbetYil = 0;
+    if (cezaTuru === "sureli") {
+      KS = kosulluYok ? T : T * oran;
+    } else if (cezaTuru === "muebbet") {
+      muebbetYil = mukerrir ? 33 : 24; // 5275 m.107 / 108
+      KS = muebbetYil * 365;
+    } else {
+      muebbetYil = mukerrir ? 39 : 30;
+      KS = muebbetYil * 365;
+    }
 
-    const KS = kosulluYok ? T : T * oran;
-
+    // Denetimli serbestlik süresi
     let DS = 365;
-    if (!suc.istisna && eski2023) DS = 1095; // 11. paket: suç ≤ 31.07.2023 adi suç → 3 yıl
-    const dogrudanDS = ozel === "kadin06" || ozel === "yas70" || ozel === "hastalik";
+    if (cezaTuru === "sureli" && !suc.istisna && eski2023) DS = 1095; // geçici 3 yıl
+    const dogrudanDS = ozel === "kadin06" || ozel === "yas70" || ozel === "hastalik" || (yasGiris !== null && yasGiris >= 65);
     if (dogrudanDS) DS = KS;
     if (kosulluYok) DS = 0;
 
-    const taban = Math.max(5, KS / 10); // 7571 — 1/10 ve asgari 5 gün
-    const kalinacakInfaz = kosulluYok ? T : Math.max(KS - DS, taban);
-    const fiilenKalan = Math.max(0, kalinacakInfaz - mahsup);
+    const taban = Math.max(5, KS / 10); // 7571: 1/10 ve asgari 5 gün
+    const kalinacakInfaz = kosulluYok
+      ? (cezaTuru === "sureli" ? T : Infinity)
+      : Math.max(KS - DS, taban);
+    const fiilenKalan = isFinite(kalinacakInfaz) ? Math.max(0, kalinacakInfaz - mahsup) : Infinity;
 
-    const G = new Date(girisTarihi);
-    const ok = !isNaN(G.getTime());
-    const KSdate = ok ? addDays(G, Math.max(0, KS - mahsup)) : null;
-    const DSdate = (ok && !kosulluYok) ? addDays(G, Math.max(0, (KS - DS) - mahsup)) : null;
-    const bihakkin = ok ? addDays(G, Math.max(0, T - mahsup)) : null;
+    // Açık / kapalı kurum dağılımı
+    const cezaUzun = cezaTuru !== "sureli" || T > 10 * 365;
+    const kapaliSure = cezaUzun ? 90 : 30; // 10 yıl üstü 3 ay, altı 1 ay
+    const kapali = isFinite(fiilenKalan) ? Math.min(fiilenKalan, kapaliSure) : kapaliSure;
+    const acik = isFinite(fiilenKalan) ? Math.max(0, fiilenKalan - kapali) : Infinity;
 
-    return { T, mahsup, suc, oran, kosulluYok, cocuk, KS, DS, dogrudanDS, kalinacakInfaz, fiilenKalan, KSdate, DSdate, bihakkin, eski2023 };
-  }, [sucIdx, sucTarihi, cY, cA, cG, girisTarihi, mY, mA, mG, ozel]);
+    const acigaAyrilma = (ok && isFinite(fiilenKalan)) ? addDays(G, Math.max(0, kapali - mahsup)) : null;
+    const KSdate = (ok && isFinite(KS)) ? addDays(G, Math.max(0, KS - mahsup)) : null;
+    const DSdate = (ok && !kosulluYok && isFinite(KS)) ? addDays(G, Math.max(0, (KS - DS) - mahsup)) : null;
+    const bihakkin = (ok && cezaTuru === "sureli") ? addDays(G, Math.max(0, T - mahsup)) : null;
+
+    return { T, mahsup, suc, oran, mukerrir, kosulluYok, cocuk, cezaTuru, muebbetYil, KS, DS, dogrudanDS, fiilenKalan, kapali, acik, acigaAyrilma, KSdate, DSdate, bihakkin, eski2023, yasSuc, yasGiris };
+  }, [sucIdx, cezaTuru, sucTarihi, dogum, cY, cA, cG, girisTarihi, mY, mA, mG, ozel]);
 
   const gunStr = (g: number) => {
+    if (!isFinite(g)) return "ömür boyu (koşullu salıverilme yok)";
     const y = Math.floor(g / 365); const a = Math.floor((g % 365) / 30); const d = Math.round(g % 30);
     return `${y} yıl ${a} ay ${d} gün`;
   };
-  const oranStr = !r ? "" : r.kosulluYok ? "Koşullu salıverilme YOK" : r.oran === 0.5 ? "1/2" : r.oran === 2 / 3 ? "2/3" : r.oran === 0.75 ? "3/4" : `%${fmt(r.oran * 100, 0)}`;
+  const oranStr = !r ? "" : r.kosulluYok ? "Koşullu salıverilme YOK"
+    : r.cezaTuru !== "sureli" ? `${r.muebbetYil} yıl (sabit)`
+    : r.oran === 0.5 ? "1/2" : r.oran === 2 / 3 ? "2/3" : r.oran === 0.75 ? "3/4" : `%${fmt(r.oran * 100, 0)}`;
 
   const triple = (label: string, vy: string, sy: (v: string) => void, va: string, sa: (v: string) => void, vg: string, sg: (v: string) => void) => (
     <Field label={label}>
@@ -2298,6 +2328,13 @@ function InfazHesaplama() {
           {INFAZ_SUC.map((s, i) => <option key={i} value={i}>{s.ad}</option>)}
         </select>
       </Field>
+      <Field label="Ceza Türü">
+        <select value={cezaTuru} onChange={e => setCezaTuru(e.target.value as "sureli" | "muebbet" | "agir")} className={sel}>
+          <option value="sureli">Süreli Hapis</option>
+          <option value="muebbet">Müebbet Hapis</option>
+          <option value="agir">Ağırlaştırılmış Müebbet</option>
+        </select>
+      </Field>
       <Field label="Hükümlünün Özel Durumu">
         <select value={ozel} onChange={e => setOzel(e.target.value)} className={sel}>
           {INFAZ_OZEL.map((o, i) => <option key={i} value={o.key}>{o.ad}</option>)}
@@ -2306,29 +2343,35 @@ function InfazHesaplama() {
       <Field label="Suçun Gerçekleştiği Tarih">
         <input type="date" value={sucTarihi} onChange={e => setSucTarihi(e.target.value)} className={inp} />
       </Field>
+      <Field label="Hükümlünün Doğum Tarihi (ops.)">
+        <input type="date" value={dogum} onChange={e => setDogum(e.target.value)} className={inp} />
+      </Field>
       <Field label="Hüküm / Cezaevine Giriş Tarihi">
         <input type="date" value={girisTarihi} onChange={e => setGirisTarihi(e.target.value)} className={inp} />
       </Field>
-      {triple("Hükmedilen Ceza (Yıl / Ay / Gün)", cY, setCY, cA, setCA, cG, setCG)}
+      {cezaTuru === "sureli" && triple("Hükmedilen Ceza (Yıl / Ay / Gün)", cY, setCY, cA, setCA, cG, setCG)}
       {triple("Mahsup — Tutukluluk/Gözaltı (Yıl / Ay / Gün)", mY, setMY, mA, setMA, mG, setMG)}
 
       <div className="col-span-full">
         {r ? (
           <Result
             rows={[
-              ["Toplam Ceza", `${gunStr(r.T)} (${r.T} gün)`],
-              ["Koşullu Salıverilme Oranı", oranStr],
+              ["Ceza", r.cezaTuru === "sureli" ? `${gunStr(r.T)} (${r.T} gün)` : r.cezaTuru === "muebbet" ? "Müebbet hapis" : "Ağırlaştırılmış müebbet"],
+              ...(r.yasSuc !== null ? [["Suç Tarihindeki Yaş", `${r.yasSuc}${r.yasSuc < 18 ? " (çocuk)" : ""}`] as [string, string]] : []),
+              ["Koşullu Salıverilme Oranı / Süresi", oranStr],
               ...(r.mahsup > 0 ? [["Mahsup (tutukluluk/gözaltı)", gunStr(r.mahsup)] as [string, string]] : []),
-              ["Denetimli Serbestlik Süresi", r.kosulluYok ? "—" : r.dogrudanDS ? "Doğrudan DS (özel durum)" : gunStr(r.DS)],
+              ["Denetimli Serbestlik Süresi", r.kosulluYok ? "—" : r.dogrudanDS ? "Doğrudan DS (özel durum / 65+ yaş)" : gunStr(r.DS)],
               ["Cezaevinde Fiilen Kalınacak (tahmini)", gunStr(r.fiilenKalan)],
+              ...(isFinite(r.fiilenKalan) ? [["• Kapalı Kurumda", gunStr(r.kapali)] as [string, string], ["• Açık Kuruma Ayrıldıktan Sonra", gunStr(r.acik)] as [string, string]] : []),
+              ...(r.acigaAyrilma ? [["Açık Kuruma Ayrılma Tarihi", fmtDate(r.acigaAyrilma)] as [string, string]] : []),
               ...(r.DSdate ? [["Denetimli Serbestliğe Ayrılma Tarihi", fmtDate(r.DSdate)] as [string, string]] : []),
               ...(!r.kosulluYok && r.KSdate ? [["Koşullu Salıverilme Tarihi", fmtDate(r.KSdate)] as [string, string]] : []),
               ...(r.bihakkin ? [["Bihakkın (Cezanın Tamamı) Tarihi", fmtDate(r.bihakkin)] as [string, string]] : []),
             ]}
-            note="⚠️ TAHMİNÎ hesaptır; bağlayıcı değildir. Gerçek infaz, infaz savcılığının düzenlediği MÜDDETNAME ile ve iyi hâl değerlendirmesiyle belirlenir. 5275 sayılı Kanun + 7242 sayılı Kanun (30.03.2020) + 7571 sayılı Kanun (11. Yargı Paketi) esas alınmıştır. Koşullu salıverilme: adi suçlarda 1/2, istisna suçlarda 2/3 veya 3/4; mükerrirde 3/4 (CGTİK 108/1); ikinci kez tekerrürde koşullu salıverilme yoktur (108/3). Denetimli serbestlik kural olarak 1 yıldır; 31.07.2023 ve öncesi işlenen adi suçlarda 3 yıl uygulanır (geçici düzenleme). 7571 ile: koşullu salıverilmeye kadar kurumda geçirilecek sürenin en az 1/10'u fiilen kurumda geçirilmeli ve bu süre 5 günden az olamaz. Çocuk hükümlülerde 18 yaş altı infazda 1 gün 2 gün sayılır (bu avantaj burada hesaba dahil EDİLMEMİŞTİR — fiilî süre daha kısa olabilir). 0-6 yaş çocuklu kadın, 70+ yaş ve ağır hastalıkta doğrudan denetimli serbestlik / infazın ertelenmesi mümkündür. Açık-kapalı kurum dağılımı idarece belirlenir. Kesin sonuç için bir ceza avukatına ve infaz savcılığına başvurun."
+            note="⚠️ TAHMİNÎ hesaptır; bağlayıcı değildir. Gerçek infaz, infaz savcılığının düzenlediği MÜDDETNAME ile ve iyi hâl değerlendirmesiyle belirlenir. 5275 + 7242 (30.03.2020) + 7571 (11. Yargı Paketi) esas alınmıştır. Koşullu salıverilme: adi suçlarda 1/2, istisna suçlarda 2/3 veya 3/4; mükerrirde süreli hapiste 3/4 (CGTİK 108/1); ikinci kez tekerrürde koşullu salıverilme yoktur (108/3). Müebbette koşullu salıverilme 24 yıl (mükerrir 33), ağırlaştırılmış müebbette 30 yıl (mükerrir 39); istisna/terör suçlarında bu süreler artar veya koşullu salıverilme uygulanmayabilir. Denetimli serbestlik kural olarak 1 yıldır; 31.07.2023 ve öncesi adi suçlarda 3 yıl. 7571 ile koşullu salıverilmeye kadarki sürenin en az 1/10'u (asgari 5 gün) fiilen kurumda geçirilir. Açık/kapalı: 10 yıl üstü cezada ~3 ay, altında ~1 ay kapalı kurumda kalınır; gerçek dağılım idarece belirlenir. Çocuk hükümlülerde 18 yaş altı infazda 1 gün 2 gün sayılır (bu avantaj hesaba DAHİL EDİLMEMİŞTİR; fiilî süre daha kısa olabilir). 0-6 yaş çocuklu kadın, 70+/65+ yaş ve ağır hastalıkta doğrudan DS / infazın ertelenmesi mümkündür. Kesin sonuç için ceza avukatına ve infaz savcılığına başvurun."
           />
         ) : (
-          <div className="text-sm text-charcoal/35 italic">Ceza miktarını girin.</div>
+          <div className="text-sm text-charcoal/35 italic">Süreli hapiste ceza miktarını girin.</div>
         )}
       </div>
     </div>
