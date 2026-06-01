@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 import { Menu, X, Scale, ChevronDown } from 'lucide-react';
 
 const MEVZUAT_GRUPLARI = [
@@ -98,6 +99,12 @@ export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [megaOpen, setMegaOpen] = useState(false);
   const megaRef = useRef<HTMLDivElement>(null);
+  const pathname = usePathname();
+
+  // Ana sayfa dışındaki sayfaların üstü açık zeminli olduğundan, navbar
+  // oralarda her zaman "solid" (koyu yazı + glass) görünmeli; yoksa açık
+  // krem yazı açık zeminde kaybolur. Ana sayfada eski davranış (scroll'a bağlı).
+  const solid = scrolled || pathname !== '/';
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 50);
@@ -124,11 +131,11 @@ export default function Navbar() {
     { name: 'Eserlerim', href: '/eserlerim' },
   ];
 
-  const linkCls = scrolled ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';
+  const linkCls = solid ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';
 
   return (
     <nav className={`fixed top-6 left-1/2 -translate-x-1/2 z-[900] w-[95%] max-w-7xl transition-all duration-500 rounded-[3rem] ${
-      scrolled ? 'glass py-3 px-6' : 'bg-transparent py-4 px-4'
+      solid ? 'glass py-3 px-6' : 'bg-transparent py-4 px-4'
     }`}>
       <div className="flex items-center justify-between gap-3">
 
@@ -140,7 +147,7 @@ export default function Navbar() {
           <div className="w-8 h-8 bg-accent rounded-full flex items-center justify-center text-cream group-hover:rotate-12 transition-transform">
             <Scale size={16} />
           </div>
-          <span className={scrolled ? 'text-charcoal' : 'text-cream'}>AV. FETHİ GÜZEL</span>
+          <span className={solid ? 'text-charcoal' : 'text-cream'}>AV. FETHİ GÜZEL</span>
         </Link>
 
         {/* Desktop nav */}
@@ -218,7 +225,7 @@ export default function Navbar() {
 
         {/* Mobile burger */}
         <button
-          className={`lg:hidden transition-colors ${scrolled ? 'text-charcoal' : 'text-cream'}`}
+          className={`lg:hidden transition-colors ${solid ? 'text-charcoal' : 'text-cream'}`}
           onClick={() => setMobileOpen(v => !v)}
           aria-label="Menü"
         >
