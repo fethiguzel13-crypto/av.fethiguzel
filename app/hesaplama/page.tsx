@@ -1187,18 +1187,19 @@ const AAUT_BASAMAKLAR = [
   { dilim: 600000, oran: 0.16 },
   { dilim: 600000, oran: 0.15 },
   { dilim: 1200000, oran: 0.14 },
-  { dilim: 2400000, oran: 0.11 },
+  { dilim: 1200000, oran: 0.13 },
+  { dilim: 1800000, oran: 0.11 },
   { dilim: 2400000, oran: 0.08 },
-  { dilim: 2400000, oran: 0.05 },
-  { dilim: 2400000, oran: 0.03 },
-  { dilim: 3000000, oran: 0.02 },
+  { dilim: 3000000, oran: 0.05 },
+  { dilim: 3600000, oran: 0.03 },
+  { dilim: 4200000, oran: 0.02 },
   { dilim: Infinity, oran: 0.01 },
 ];
-const AAUT_MAKTU_ASLIYE = 30000; // 2026 asliye hukuk maktu vekalet ücreti (alt sınır)
+const AAUT_MAKTU_ASLIYE = 45000; // 2026 asliye maktu vekalet ücreti (alt sınır)
 
-function nispiVekalet(dava: number): number {
-  let kalan = dava;
-  let toplam = 0;
+// Üçüncü Kısım basamaklı nispi ücret (alt sınır uygulanmadan)
+function nispiVekaletHam(dava: number): number {
+  let kalan = dava, toplam = 0;
   for (const b of AAUT_BASAMAKLAR) {
     const dilimdeki = Math.min(kalan, b.dilim);
     if (dilimdeki <= 0) break;
@@ -1206,41 +1207,114 @@ function nispiVekalet(dava: number): number {
     kalan -= dilimdeki;
     if (kalan <= 0) break;
   }
-  return Math.max(toplam, AAUT_MAKTU_ASLIYE);
+  return toplam;
 }
 
+function nispiVekalet(dava: number): number {
+  return Math.max(nispiVekaletHam(dava), AAUT_MAKTU_ASLIYE);
+}
+
+// 2026 AAÜT İkinci Kısım — mahkeme/işlem bazında maktu vekalet ücretleri (kaynak: kadimhukuk; resmî tarifeden teyit edilmelidir)
+const VEKALET_MAHKEME = [
+  { ad: "İcra Dairelerinde Takip", maktu: 9000, cap: true },
+  { ad: "İcra Mahkemelerinde Dava (duruşmalı)", maktu: 18000, cap: true },
+  { ad: "Tahliyeye İlişkin İcra Takibi", maktu: 20000, cap: true },
+  { ad: "Sulh Hukuk Mahkemesi", maktu: 30000, cap: false },
+  { ad: "Asliye Hukuk / Ticaret / İş Mahkemesi", maktu: 45000, cap: false },
+  { ad: "Aile Mahkemesi", maktu: 45000, cap: false },
+  { ad: "Tüketici Mahkemesi", maktu: 22500, cap: false },
+  { ad: "Fikrî ve Sınai Haklar Mahkemesi", maktu: 55000, cap: false },
+  { ad: "İdare / Vergi Mahkemesi (duruşmasız)", maktu: 30000, cap: false },
+  { ad: "İdare / Vergi Mahkemesi (duruşmalı)", maktu: 40000, cap: false },
+  { ad: "Ağır Ceza Mahkemesi", maktu: 65000, cap: false },
+];
+
 function NispiVekalet() {
+  const [davaTipi, setDavaTipi] = useState<"nispi" | "maktu">("nispi");
+  const [mahkemeIdx, setMahkemeIdx] = useState("4"); // Asliye varsayılan
+  const [maktuTutar, setMaktuTutar] = useState(String(VEKALET_MAHKEME[4].maktu));
   const [davaD, setDavaD] = useState("500000");
   const [kabulOrani, setKabulOrani] = useState("100");
 
+  const onMahkeme = (v: string) => {
+    setMahkemeIdx(v);
+    setMaktuTutar(String(VEKALET_MAHKEME[parseInt(v) || 0].maktu));
+  };
+
   const result = useMemo(() => {
+    const m = VEKALET_MAHKEME[parseInt(mahkemeIdx) || 0];
+    const maktu = parseFloat(maktuTutar.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const d = parseFloat(davaD.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const oran = Math.min(100, Math.max(0, parseFloat(kabulOrani) || 0)) / 100;
-    const tamVekalet = nispiVekalet(d);
+
+    if (davaTipi === "maktu") {
+      return { tip: "maktu" as const, maktu, m, tam: maktu, leh: 0, aleyh: 0, kabulEdilen: 0, reddedilen: 0, capUyg: false };
+    }
+    // Nispi: Üçüncü Kısım basamaklı; mahkeme maktusunun altına inilemez; icra/icra mah. için tutarı geçemez
+    const hesapla = (tutar: number) => {
+      let v = Math.max(nispiVekaletHam(tutar), maktu);
+      if (m.cap && v > tutar) v = tutar;
+      return v;
+    };
     const kabulEdilen = d * oran;
-    const lehVekalet = nispiVekalet(kabulEdilen);
     const reddedilen = d * (1 - oran);
-    const aleyhVekalet = nispiVekalet(reddedilen);
-    return { tamVekalet, lehVekalet, aleyhVekalet, kabulEdilen, reddedilen };
-  }, [davaD, kabulOrani]);
+    return {
+      tip: "nispi" as const, maktu, m,
+      tam: hesapla(d), leh: hesapla(kabulEdilen), aleyh: hesapla(reddedilen),
+      kabulEdilen, reddedilen, capUyg: m.cap,
+    };
+  }, [davaTipi, mahkemeIdx, maktuTutar, davaD, kabulOrani]);
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
-      <Field label="Dava Değeri / Müddeabih (TL)">
-        <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
+      <Field label="Dava Tipi">
+        <select value={davaTipi} onChange={e => setDavaTipi(e.target.value as "nispi" | "maktu")} className={sel}>
+          <option value="nispi">Nispi (Konusu Para Olan Davalar)</option>
+          <option value="maktu">Maktu (Konusu Para Olmayan)</option>
+        </select>
       </Field>
-      <Field label="Davanın Kabul Oranı (%)">
-        <input type="number" min="0" max="100" value={kabulOrani} onChange={e => setKabulOrani(e.target.value)} className={inp} />
+      <Field label="Mahkeme / İşlem Tipi">
+        <select value={mahkemeIdx} onChange={e => onMahkeme(e.target.value)} className={sel}>
+          {VEKALET_MAHKEME.map((m, i) => <option key={i} value={i}>{m.ad}</option>)}
+        </select>
       </Field>
+      <Field label="Maktu Vekalet Ücreti (TL) — düzenlenebilir">
+        <input type="text" value={maktuTutar} onChange={e => setMaktuTutar(e.target.value)} className={inp} />
+      </Field>
+      {davaTipi === "nispi" && (
+        <Field label="Dava Değeri / Müddeabih (TL)">
+          <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
+        </Field>
+      )}
+      {davaTipi === "nispi" && (
+        <Field label="Davanın Kabul Oranı (%)">
+          <input type="number" min="0" max="100" value={kabulOrani} onChange={e => setKabulOrani(e.target.value)} className={inp} />
+        </Field>
+      )}
+
       <div className="col-span-full">
-        <Result
-          rows={[
-            ["Tam Kabulde Vekalet Ücreti", `${fmt(result.tamVekalet)} TL`],
-            ["Kabul Edilen Kısım İçin (davacı lehine)", `${fmt(result.lehVekalet)} TL`],
-            ["Reddedilen Kısım İçin (davalı lehine)", `${fmt(result.aleyhVekalet)} TL`],
-          ]}
-          note="2026 AAÜT Üçüncü Kısım basamaklı oranları uygulanmıştır (%16, %15, %14, %11, %8, %5, %3, %2, %1). Kısmen kabul/ret halinde her iki taraf lehine ayrı vekalet ücretine hükmedilir. Vekalet ücreti yargılama giderlerine dahildir; davanın türü ve mahkemeye göre maktu alt sınır değişebilir (asliye hukuk: 30.000 TL)."
-        />
+        {result.tip === "maktu" ? (
+          <Result
+            rows={[
+              ["Mahkeme / İşlem", result.m.ad],
+              ["Maktu Vekalet Ücreti", `${fmt(result.maktu)} TL`],
+            ]}
+            note="Konusu para olmayan davalarda (boşanma, velayet, tespit, iptal vb.) AAÜT İkinci Kısım maktu vekalet ücreti uygulanır. Tutarlar 2026 AAÜT'ye göredir; resmî tarifeden teyit ediniz. Taraflar maktu tutarın üzerinde anlaşabilir, altına inemez."
+          />
+        ) : (
+          <Result
+            rows={[
+              ["Mahkeme / İşlem", result.m.ad],
+              ["Maktu Alt Sınır", `${fmt(result.maktu)} TL`],
+              ["Tam Kabulde Vekalet Ücreti", `${fmt(result.tam)} TL`],
+              ...(parseFloat(kabulOrani) < 100
+                ? [["Kabul Edilen Kısım (davacı lehine)", `${fmt(result.leh)} TL`] as [string, string],
+                   ["Reddedilen Kısım (davalı lehine)", `${fmt(result.aleyh)} TL`] as [string, string]]
+                : []),
+            ]}
+            note={`2026 AAÜT Üçüncü Kısım basamaklı oranları uygulanır (%16, %15, %14, %13, %11, %8, %5, %3, %2, %1). Hesaplanan nispi ücret, seçilen mahkemenin maktu alt sınırının (${fmt(result.maktu)} TL) altına inemez.${result.capUyg ? " İcra/icra mahkemesi işlerinde vekalet ücreti asıl alacağı (takip/dava değerini) geçemez." : ""} Kısmen kabul/ret hâlinde her iki taraf lehine ayrı vekalet ücretine hükmedilir. Maktu değerler resmî AAÜT 2026 tarifesinden teyit edilmelidir.`}
+          />
+        )}
       </div>
     </div>
   );
@@ -2104,7 +2178,7 @@ const ARACLAR = [
   { id: "kira", icon: "🏠", baslik: "Kira Artış Oranı", tag: "Gayrimenkul", comp: <KiraArtis /> },
   { id: "tapu", icon: "📋", baslik: "Tapu Harcı Hesaplama", tag: "Gayrimenkul", comp: <TapuHarci /> },
   { id: "arac-deger-kaybi", icon: "🚗", baslik: "Araç Değer Kaybı Analizi", tag: "Sigorta", comp: <AracDegerKaybi /> },
-  { id: "vekalet", icon: "⚖️", baslik: "Nispi Vekalet Ücreti (AAÜT)", tag: "Dava Masrafı", comp: <NispiVekalet /> },
+  { id: "vekalet", icon: "⚖️", baslik: "Vekalet Ücreti (Nispi / Maktu — AAÜT)", tag: "Dava Masrafı", comp: <NispiVekalet /> },
   { id: "dava-harci", icon: "🏛️", baslik: "Dava Açma Harcı ve Gider Avansı", tag: "Dava Masrafı", comp: <DavaAcmaHarci /> },
   { id: "arabuluculuk", icon: "🤝", baslik: "Arabuluculuk Asgari Ücret", tag: "Dava Masrafı", comp: <ArabuluculukUcret /> },
   { id: "zamanasimi", icon: "⏱️", baslik: "Zamanaşımı Kontrol Sihirbazı", tag: "Usul", comp: <ZamanAsimiKontrol /> },
