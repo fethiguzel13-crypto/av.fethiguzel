@@ -2,7 +2,15 @@
 title: "Ceza Muhakemesi Kanunu Madde 128"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 128
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 950
+keywords:
+  - "malvarlığına elkoyma"
+  - "taşınmaz hak alacak"
+  - "katalog suçlar"
+  - "uzman kurum raporu"
+  - "yalnız hâkim kararı"
 ---
 
 **Taşınmazlara, hak ve alacaklara elkoyma**
@@ -97,6 +105,82 @@ kıyasen uygulanır.
 Bilişim suçlarının işlenmesi suretiyle elde edilen menfaatin bulunduğu hesabın
 askıya alınması ve elkoyma
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+128. madde, sıradan eşyaya elkoymadan (m. 123, 127) farklı olarak, **taşınmazlara, hak ve alacaklara, banka hesaplarına, şirket paylarına ve diğer malvarlığı değerlerine elkoymayı** düzenleyen, malvarlığına yönelik en kapsamlı elkoyma hükmüdür. Bu tür elkoyma, özellikle **suç gelirinin (kara para) müsadereye hazır tutulması** amacına hizmet eder; suç işleyerek elde edilen malvarlığının failin elinde kalmasını veya kaçırılmasını önler. Ancak bu denli geniş bir malvarlığı müdahalesi, mülkiyet hakkına ağır bir kısıtlama getirdiğinden, madde bunu **somut delillere dayanan kuvvetli şüphe**, **sınırlı katalog suçlar**, **uzman kurum raporu** ve **yalnız hâkim kararı** gibi sıkı güvencelere bağlar.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Koşullar ve Kapsam (Fıkra 1)
+
+Elkoyma için: (i) suçun işlendiğine **ve bu suçtan elde edildiğine** dair **somut delillere dayanan kuvvetli şüphe** bulunmalıdır. Kapsam geniştir: **taşınmazlar, ulaşım araçları, banka hesapları, hak ve alacaklar, kıymetli evrak, şirket payları, kiralık kasa ve diğer malvarlığı değerleri.** Değerler **somut olarak belirlenmiş** olmalıdır. Önemli bir genişletme: Bu değerler **şüpheli/sanıktan başka birinin zilyetliğinde** olsa dahi elkoyma yapılabilir (suç gelirinin başkasına devredilerek kaçırılmasının önlenmesi). 2014 ekiyle, elkoyma kararı için ilgili **uzman kurumdan** (BDDK, SPK, MASAK vb.) **suçtan elde edilen değere ilişkin rapor** alınması şartı getirilmiştir (en geç üç ay, iki ay uzatılabilir); bu, elkoymanın somut bir malî tespite dayanmasını sağlar.
+
+##### 2.2. Katalog Suçlar (Fıkra 2)
+
+Bu elkoyma, yalnız sayılan **katalog suçlarda** uygulanabilir: soykırım, insan ticareti, hırsızlık, yağma, güveni kötüye kullanma, dolandırıcılık, hileli iflas, uyuşturucu ticareti, parada sahtecilik, örgüt, ihaleye/edime fesat, tefecilik, zimmet, irtikâp, rüşvet, devlet güvenliği/anayasal düzene karşı suçlar, casusluk ve diğer kanunlardaki belirli suçlar (silah kaçakçılığı, bankacılık zimmeti, kaçakçılık, kültür varlıkları). Bu sınırlama, geniş malvarlığı elkoymasının yalnız ciddi ekonomik/örgütlü suçlarla sınırlı kalmasını sağlar (orantılılık).
+
+##### 2.3. Elkoymanın İcrası (Fıkra 3-7)
+
+Elkoyma, değerin türüne göre farklı icra edilir: taşınmazda **tapuya şerh**; araçta **sicile şerh**; banka hesabında **bankaya derhâl bildirim** (elkoymayı etkisiz kılmaya yönelik işlemler geçersizdir); şirket payında **ticaret siciline bildirim**; hak/alacakta ilgili kişiye bildirim. Bu icra yöntemleri, elkoymanın üçüncü kişilere karşı da etkili olmasını sağlar.
+
+##### 2.4. Yalnız Hâkim Kararı ve Kayyım (Fıkra 8-10)
+
+En kritik güvence: Bu madde uyarınca elkoymaya ve kayyım atanmasına **ancak hâkim karar verebilir** (savcı/kolluk yetkisi yoktur). Bu, geniş malvarlığı müdahalesinin yalnız yargısal güvenceyle yapılmasını sağlar. Elkonulan değerlerin idaresi için gerektiğinde **kayyım** atanabilir (m. 133 kıyasen). Elkoyma kararının gereklerine aykırı hareket, TCK m. 289 (muhafaza görevini kötüye kullanma) kapsamında yaptırıma tabidir.
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 123, 127** — Eşyaya elkoyma; 128 malvarlığı değerlerine özgü kapsamlı rejim.
+- **CMK m. 133** — Şirket yönetimi için kayyım; 128/10 atfı.
+- **TCK m. 54-55** — Eşya ve kazanç müsaderesi; elkoymanın nihai amacı.
+- **TCK m. 289** — Muhafaza görevini kötüye kullanma; elkoymaya aykırılık yaptırımı.
+- **Anayasa m. 35** — Mülkiyet hakkı; geniş malvarlığı elkoymasının anayasal sınırı.
+
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Bu maddeye doğrudan ilişkin, doğrulanmış güncel bir Yargıtay (CGK / ilgili Ceza Dairesi) kararı künyesi bu çalışmada temin edilememiştir. Mevcut otomatik tarama altyapısı yalnızca hukuk dairelerini sorgulayabildiğinden ceza dairesi kararlarına erişilememiş; kullanıcı tarafından sağlanan ek karar da bulunmamaktadır. Künye uydurmaktan kaçınmak akademik dürüstlüğün gereğidir.
+
+Uygulamada, bu kapsamlı elkoymanın yalnız katalog suçlarda, somut delillere dayanan kuvvetli şüpheyle, uzman kurum raporuna ve **yalnız hâkim kararına** dayanması esastır; bu güvencelere uyulmadan yapılan elkoyma, mülkiyet hakkının ihlali sayılabilir.
+
+#### 5. Pratik Örnek Olaylar
+
+**Olay 1 (kurmaca senaryo):** Bir dolandırıcılık (katalog suçu) soruşturmasında, suçtan elde edildiğine dair somut delillere dayanan kuvvetli şüphe bulunan banka hesaplarına elkonulmak istenir.
+
+*Hukuki analiz:* Katalog suç (m. 128/2-a-6) kapsamında, uzman kurum raporu alınarak (m. 128/1) ve **hâkim kararıyla** (m. 128/9) banka hesaplarına elkonulabilir; karar bankaya derhâl bildirilir ve elkoymayı etkisiz kılan işlemler geçersizdir (m. 128/5).
+
+**Olay 2 (kurmaca senaryo):** Suç geliri, şüpheli tarafından bir yakınının üzerine geçirilmiştir.
+
+*Hukuki analiz:* Değerler şüpheliden başkasının zilyetliğinde olsa dahi elkoyma yapılabilir (m. 128/1); böylece suç gelirinin devirle kaçırılması önlenir.
+
+#### 6. Pratik Uygulama Notları
+
+- **Koşul:** Somut delillere dayanan kuvvetli şüphe + suçtan elde edilme.
+- **Suçlar:** Yalnız sayılan katalog suçlar.
+- **Rapor:** Uzman kurumdan (BDDK/SPK/MASAK vb.) değer raporu.
+- **Karar:** Yalnız hâkim (savcı/kolluk yetkisi yok).
+- **İcra:** Tapu/sicil şerhi, bankaya/şirkete bildirim; üçüncü kişide bile mümkün.
+
+#### 7. Eleştirel Değerlendirme
+
+128. madde, suç gelirinin müsadereye hazır tutulması ve organize/ekonomik suçlarla mücadele bakımından son derece önemli bir araçtır; suç işleyerek elde edilen malvarlığının failin elinde kalmasını veya kaçırılmasını önler. Madde, bu güçlü aracı sıkı güvencelere bağlamakla isabetli davranır: **Somut delillere dayanan kuvvetli şüphe** eşiği, katalog suçlarla sınırlama, **uzman kurum raporu** şartı ve özellikle **yalnız hâkim kararı** (savcı/kolluk yetkisinin bulunmaması), geniş malvarlığı müdahalesinin keyfî olmasını önler.
+
+Bununla birlikte, kanaatimizce maddenin hassas noktaları vardır. Birincisi, elkoymanın **üçüncü kişilerin** zilyetliğindeki değerlere de uzanması, suç geliriyle ilgisiz iyiniyetli üçüncü kişilerin mülkiyet hakkını zedeleme riski taşır; bu nedenle "somut olarak belirlenmiş" ve "suçtan elde edildiğine dair somut delil" koşulları titizlikle aranmalıdır. İkincisi, banka hesapları, şirket payları gibi değerlere elkoyma, kişinin ekonomik hayatını ve hatta bir şirketin faaliyetini felç edebileceğinden, ölçülülük ilkesi (elkoymanın kapsamının suç geliriyle sınırlı tutulması) özenle gözetilmelidir. Uzman kurum raporu şartı, bu bakımdan elkoymanın somut bir malî temele oturmasını sağlayan değerli bir güvencedir. Sonuç olarak madde, suç gelirine karşı etkili bir mücadele aracı sunarken, mülkiyet hakkının korunması için gerekli güvenceleri içerir; etkinliği ve adilliği, bu güvencelerin (özellikle hâkim kararı, somut delil ve uzman raporu) gerçekten uygulanmasına ve elkoymanın suç geliriyle orantılı tutulmasına bağlıdır.
+
+---
+
+### Metodolojik Not
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin:* Ceza muhakemesi hukuku ve suç geliriyle mücadele öğretisinin genel kabul görmüş yaklaşımlarına atıfsız genel ifadelerle başvurulmuştur; bu kanun için onaylı yazar listesi bulunmadığından spesifik yazar/eser/sayfa atfı yapılmamıştır.
+- *Yargıtay kararları:* Maddeye özgü doğrulanmış güncel karar temin edilememiştir (bkz. § 4); mevcut tarama altyapısı ceza dairelerini kapsamamaktadır.
+- *Mevzuat:* 5271 sayılı Ceza Muhakemesi Kanunu m. 128 (2014/6526, 2014/6572, 2016/KHK-674 ve 6758, 2016/6763 değişiklikleri dâhil); sistematik ilişkilerde m. 123, m. 127, m. 133, 5237 sayılı TCK m. 54-55, m. 289, Anayasa m. 35.
+
+**Yorumun kapsamı:** Bu çalışma, 5271 sayılı Ceza Muhakemesi Kanunu'nun yürürlükteki metnine dayanır.
+
+**Görüş:** Malvarlığı değerlerine elkoyma, suç geliriyle mücadelede etkili bir araçtır ve somut delil, katalog suç, uzman raporu ve yalnız hâkim kararı güvenceleriyle çerçevelenmiştir. Ancak üçüncü kişilerin malvarlığına uzanması ve ekonomik hayatı felç etme riski nedeniyle, elkoyma suç geliriyle orantılı tutulmalı ve güvenceler titizlikle uygulanmalıdır.
+
+**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir. Yeni Yargıtay İBK/CGK kararları veya kanun değişiklikleri sonrası revize edilebilir.
