@@ -2,7 +2,15 @@
 title: "Ceza Muhakemesi Kanunu Madde 91"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 91
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 900
+keywords:
+  - "gözaltı"
+  - "yirmidört saat"
+  - "somut delil"
+  - "sulh ceza hâkimine başvuru"
+  - "gözaltının uzatılması"
 ---
 
 **Gözaltı**
@@ -73,6 +81,90 @@ Cumhuriyet savcısının kararı olmadıkça bir daha aynı nedenle yakalama iş
 (7) Gözaltına alınan kişi bırakılmazsa, en geç bu süreler sonunda sulh ceza hâkimi
 önüne çıkarılıp sorguya çekilir. Sorguda müdafii de hazır bulunur.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+91. madde, yakalamayı izleyen ve kişiyi belirli bir süre özgürlüğünden yoksun bırakan **gözaltı** tedbirini düzenler. Gözaltı, soruşturmanın tamamlanması için kişinin kolluk nezaretinde tutulmasıdır ve kişi özgürlüğüne ciddi bir müdahale oluşturduğundan, sıkı süre sınırlarına, somut delil koşuluna ve güçlü yargısal denetim güvencelerine bağlanmıştır. Madde, gözaltının koşullarını, sürelerini, uzatma rejimini ve en önemlisi **sulh ceza hâkimine başvuru** yoluyla hızlı yargısal denetimini düzenleyerek, özgürlükten yoksun bırakmanın keyfî olmasını önler. Bu, Anayasa m. 19 ve AİHS m. 5'in somutlaştığı temel hükümlerden biridir.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Gözaltı Kararı ve Süre (Fıkra 1)
+
+Yakalanan kişi savcılıkça bırakılmazsa, soruşturmanın tamamlanması için **gözaltına alınmasına** karar verilebilir. Gözaltı süresi, en yakın hâkim/mahkemeye gönderilme için zorunlu süre (en çok **oniki saat**) hariç, yakalama anından itibaren **yirmidört saati** geçemez. Bu kesin süre sınırı, özgürlükten yoksun bırakmanın sınırsız uzamasını önleyen temel güvencedir.
+
+##### 2.2. Somut Delil Koşulu (Fıkra 2)
+
+Gözaltı, tedbirin soruşturma yönünden **zorunlu** olmasına ve kişinin **suç işlediği şüphesini gösteren somut delillerin** varlığına bağlıdır. "Somut delil" ifadesi (2014 değişikliğiyle "emare"den güçlendirilmiştir) önemlidir: Soyut şüphe veya zayıf belirti yetmez; gözaltı için nesnel, somut delil gerekir. Bu, gözaltının keyfî uygulanmasını engelleyen kritik bir koşuldur.
+
+##### 2.3. Toplu Suçlarda Uzatma (Fıkra 3)
+
+Toplu suçlarda, delil toplama güçlüğü veya şüpheli çokluğu nedeniyle savcı, gözaltı süresini her seferinde bir günü geçmemek üzere **üç gün** uzatabilir; uzatma emri kişiye derhâl tebliğ edilir. Bu istisna, karmaşık toplu suçların soruşturulması için süre tanırken, tebliğ şartıyla kişiyi bilgilendirir.
+
+##### 2.4. Kolluk Amirince Gözaltı (Fıkra 4 — 2015 eki)
+
+Suçüstü hâlleriyle sınırlı olarak, sayılan belirli suçlarda (terör, cinsel saldırı, uyuşturucu ticareti, toplumsal olay suçları vb.) mülki amirlerce belirlenen **kolluk amirleri** 24 saate (toplumsal olaylarda 48 saate) kadar gözaltı kararı verebilir. Ancak kişi en geç 48 saat (toplu suçlarda dört gün) içinde hâkim önüne çıkarılır; savcının talimatı esastır. Bu, tartışmalı bir genişlemedir; kolluğa tanınan bu yetki, hâkim güvencesine kadar geçen sürede özgürlük kısıtlamasını artırır.
+
+##### 2.5. Sulh Ceza Hâkimine Başvuru (Fıkra 5)
+
+Yakalama, gözaltı ve uzatma emrine karşı; yakalanan, müdafii, kanunî temsilcisi, eşi veya birinci/ikinci derece kan hısımı, **serbest bırakılma için sulh ceza hâkimine başvurabilir.** Hâkim, evrak üzerinde, **derhâl ve nihayet 24 saat dolmadan** karar verir. Bu, gözaltına karşı **hızlı yargısal denetim** (habeas corpus benzeri) güvencesidir ve AİHS m. 5/4 ile uyumludur.
+
+##### 2.6. Yeniden Yakalama Yasağı ve Sorgu (Fıkra 6-7)
+
+Serbest bırakılan kişi hakkında, **yeni ve yeterli delil** olmadıkça ve savcı kararı bulunmadıkça aynı nedenle yeniden yakalama yapılamaz. Gözaltı süresi sonunda bırakılmayan kişi, **sulh ceza hâkimi önüne çıkarılıp sorguya** çekilir; sorguda **müdafi** hazır bulunur.
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 90** — Yakalama; gözaltının ön aşaması.
+- **CMK m. 92** — Gözaltı işlemlerinin denetimi.
+- **CMK m. 100 vd.** — Tutuklama; gözaltıyı izleyebilen ağır tedbir.
+- **CMK m. 147, 150** — İfade/sorgu hakları ve müdafilik.
+- **Anayasa m. 19** — Kişi özgürlüğü; gözaltı sürelerinin anayasal çerçevesi.
+- **AİHS m. 5** — Özgürlük ve güvenlik; özellikle 5/3 (derhâl hâkim önüne çıkarma) ve 5/4 (denetim).
+
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Bu maddeye doğrudan ilişkin, doğrulanmış güncel bir Yargıtay (CGK / ilgili Ceza Dairesi) kararı künyesi bu çalışmada temin edilememiştir. Mevcut otomatik tarama altyapısı yalnızca hukuk dairelerini sorgulayabildiğinden ceza dairesi kararlarına erişilememiş; kullanıcı tarafından sağlanan ek karar da bulunmamaktadır. Künye uydurmaktan kaçınmak akademik dürüstlüğün gereğidir.
+
+Uygulamada, gözaltı sürelerinin aşılması, somut delil bulunmadan gözaltına alınması veya sulh ceza hâkimine başvuru hakkının engellenmesi, kişi özgürlüğünün ihlali olarak değerlendirilir; bu hâller tazminat (m. 141) ve hak ihlali sonuçları doğurabilir.
+
+#### 5. Pratik Örnek Olaylar
+
+**Olay 1 (kurmaca senaryo):** Yakalanan kişi savcılıkça bırakılmaz; soruşturma için gözaltına alınır.
+
+*Hukuki analiz:* Gözaltı, somut delil ve zorunluluk koşuluyla mümkündür (m. 91/2); süre, yol süresi hariç 24 saati geçemez (m. 91/1).
+
+**Olay 2 (kurmaca senaryo):** Gözaltına alınan kişinin eşi, gözaltının haksız olduğunu düşünür.
+
+*Hukuki analiz:* Eş, serbest bırakılma için sulh ceza hâkimine başvurabilir (m. 91/5); hâkim 24 saat dolmadan evrak üzerinden karar verir.
+
+#### 6. Pratik Uygulama Notları
+
+- **Süre:** Yol süresi (en çok 12 saat) hariç 24 saat; toplu suçta savcı 3 güne uzatabilir.
+- **Koşul:** Zorunluluk + suç işlediğine dair somut delil.
+- **Denetim:** Yakalanan/yakını sulh ceza hâkimine başvurabilir; hâkim 24 saatte karar verir.
+- **Sorgu:** Bırakılmazsa sulh ceza hâkimi önünde, müdafi huzurunda sorgu.
+
+#### 7. Eleştirel Değerlendirme
+
+91. madde, gözaltı tedbirini, kişi özgürlüğünü koruyan güçlü güvencelerle çerçeveleyen, hukuk devletinin temel hükümlerinden biridir. Kesin süre sınırları (24 saat + en çok 12 saat yol), gözaltının sınırsız uzamasını önler; "somut delil" koşulu, gözaltını keyfî şüpheden ayırır; sulh ceza hâkimine hızlı başvuru imkânı ise gözaltına karşı etkili bir yargısal denetim (AİHS m. 5/4) sağlar. Bu güvenceler, gözaltını bir baskı aracı olmaktan çıkarıp denetlenebilir bir soruşturma tedbirine dönüştürür.
+
+Bununla birlikte, kanaatimizce maddenin tartışmaya en açık yönü, 2015'te eklenen 4. fıkrayla **kolluk amirlerine** tanınan gözaltı yetkisidir; özgürlükten yoksun bırakma kararının, yargısal/savcılık denetimi öncesinde kolluğa bırakılması, kişi özgürlüğü güvenceleri bakımından risk taşır. Bu yetkinin yalnız suçüstü ve sayılan ağır suçlarla sınırlı tutulması ve kişinin en geç belirli sürede hâkim önüne çıkarılması bu riski sınırlamakla birlikte, denetimin gevşemesi tehlikesi gözetilmelidir. Genel olarak madde, gözaltı sürelerinin ve denetiminin sıkı uygulanması koşuluyla, kişi özgürlüğü ile soruşturma etkinliği arasında dengeli bir çerçeve sunar.
+
+---
+
+### Metodolojik Not
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin:* Ceza muhakemesi hukuku öğretisinin genel kabul görmüş yaklaşımlarına atıfsız genel ifadelerle başvurulmuştur; bu kanun için onaylı yazar listesi bulunmadığından spesifik yazar/eser/sayfa atfı yapılmamıştır.
+- *Yargıtay kararları:* Maddeye özgü doğrulanmış güncel karar temin edilememiştir (bkz. § 4); mevcut tarama altyapısı ceza dairelerini kapsamamaktadır. Gözaltıya ilişkin süre ve denetim ilkeleri, Anayasa m. 19 ve AİHS m. 5 çerçevesinde atıfsız genel ifade edilmiştir.
+- *Mevzuat:* 5271 sayılı Ceza Muhakemesi Kanunu m. 91 (2005/5353, 2014/6526, 2015/6638 değişiklikleri dâhil); sistematik ilişkilerde m. 90, m. 92, m. 100 vd., m. 141, m. 147, m. 150, Anayasa m. 19 ve AİHS m. 5.
+
+**Yorumun kapsamı:** Bu çalışma, 5271 sayılı Ceza Muhakemesi Kanunu'nun yürürlükteki metnine dayanır.
+
+**Görüş:** Kesin gözaltı süreleri, somut delil koşulu ve sulh ceza hâkimine hızlı başvuru; kişi özgürlüğünü koruyan güçlü güvencelerdir. Ancak kolluk amirlerine tanınan gözaltı yetkisi (4. fıkra), yargısal/savcılık denetimi öncesi özgürlük kısıtlamasını artırması bakımından tartışmaya açıktır ve dar uygulanmalıdır.
+
+**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir. Yeni Yargıtay İBK/CGK kararları veya kanun değişiklikleri sonrası revize edilebilir.
