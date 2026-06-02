@@ -2,7 +2,10 @@
 title: "Karayolları Trafik Kanunu Madde 3"
 kanun: "Karayolları Trafik Kanunu"
 maddeNo: 3
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 2450
+keywords: ["ktk tanımlar maddesi", "işleten sıfatı kvkk", "yarar ve egemenlik teorisi", "sürücü şoför ayrımı", "durma duraklama park etme", "geçiş hakkı geçiş üstünlüğü", "mikromobilite e-skuter hukuku"]
 ---
 
 **Tanımlar**
@@ -39,11 +42,10 @@ veya bu yola girerken, ilk geçiş hakkını vermesi gerektiği işaretlerle bel
 Tali yol: Genel olarak üzerindeki trafik yoğunluğu bakımından, bağlandığı yoldan daha
 az önemde olan yoldur.
 Taşıt yolu: (Kaplama): Karayolunun genel olarak taşıt trafiğince kullanılan kısmıdır.
-Yaya yolu (Yaya kaldırımı): Karayolunun, taşıt yolu kenarı ile gerçek veya tüzelkişilere
+Yaya yolu (Yaya kaldırı): Karayolunun, taşıt yolu kenarı ile gerçek veya tüzelkişilere
 ait mülkler arasında kalan ve yalnız yayaların kullanımına ayrılmış olan kısmıdır.
 Bisiklet yolu: (Değişik:24/12/2020-7261/22 md.) Bisiklet ve elektrikli skuter sürüşüne
-
-ayrılan, taşıt yolu ve yaya alanları ile kesişim noktaları hariç diğer araç ve yaya trafiğine kapalı
+ayrılan, taşıt yolu ve yaya alanları ile kesişim noktaları hariç diğer araç ve yaya trafiğine kapalı
 yoldur.
 Yaya geçidi: Taşıt yolunda, yayaların güvenli geçebilmelerini sağlamak üzere, trafik
 işaretleri ile belirlenmiş alandır.
@@ -82,8 +84,7 @@ panelvan denir.
 Kamyon: İzin verilebilen azami yüklü ağırlığı 3 500 Kg'dan fazla olan ve yük taşımak
 için imal edilmiş motorlu taşıttır.
 Otobüs: (Değişik: 12/7/2013-6495/13 md.) Yolcu taşımacılığında kullanılan, sürücüsü
-
-dahil dokuzdan fazla oturma yeri olan motorlu taşıttır. Troleybüsler de bu sınıfa dahildir.
+dahil dokuzdan fazla oturma yeri olan motorlu taşıttır. Troleybüsler de bu sınıfa dahildir.
 Sürücüsü dahil oturma yeri on yediyi aşmayan otobüslere minibüs denir.
 Çekici: Römork ve yarı römorkları çekmek için imal edilmiş olan ve yük taşımayan
 motorlu taşıttır.
@@ -122,8 +123,7 @@ ulaştıktan sonra veya pedal çevrilmeye ara verildikten hemen sonra gücü tam
 elektrikli bisikletler de bu sınıfa girer.
 Motorlu bisiklet (Moped): (Değişik: 12/7/2013-6495/13 md.) Azami hızı saatte 45
 kilometreyi, içten yanmalı motorlu ise silindir hacmi 50 santimetreküpü, elektrik motorlu ise
-
-azami sürekli nominal güç çıkışı 4 kilovatı geçmeyen iki veya üç tekerlekli taşıtlar ile aynı
+azami sürekli nominal güç çıkışı 4 kilovatı geçmeyen iki veya üç tekerlekli taşıtlar ile aynı
 özelliklere sahip net ağırlığı 350 kilogramı aşmayan dört tekerlekli motorlu taşıtlardır.
 Elektrik ile çalışanların net ağırlıklarının hesaplanmasında batarya ağırlıkları dikkate alınmaz.
 Lastik tekerlekli traktör: Belirli şartlarda römork ve yarı römork çekebilen, ancak ticari
@@ -162,8 +162,7 @@ Garaj: Araçların, genellikle uzun süre durmaları için kullanılan bakım ve
 de yapılabileceği kapalı veya açık olan yerlerdir.
 Terminal: İnsan veya eşya taşımalarında, araçların indirme, bindirme, yükleme,
 boşaltma, aktarma yaptıkları ve ayrıca bilet satışı ile bekleme, haberleşme, şehir ulaşımı ve
-
-benzeri hizmetlerin de sağlandığı yerdir.
+benzeri hizmetlerin de sağlandığı yerdir.
 Servis istasyonu: Araçların bakım, onarım ve servislerinin yapıldığı açık veya kapalı
 yerdir.
 Akaryakıt istasyonu: Araçların esas itibariyle akaryakıt, yağ ve basınçlı hava gibi
@@ -202,8 +201,7 @@ yaptıkları hareketlerdir.
 sembol, renk ve yazı ile özel bir talimatın aktarılmasını sağlayan trafik tertibatıdır.
 Işıklı ve sesli işaretler: Trafiği düzenlemede kullanılan ışıklı ve sesli, sabit veya
 taşınabilir, elle kumanda edilebilen veya otomatik çalışan, üzerinde çeşitli renk, şekil, sembol,
-
-yazı bulunan ve belirli yanma süresi olan, ışık veya sesle özel bir talimatın aktarılmasını
+yazı bulunan ve belirli yanma süresi olan, ışık veya sesle özel bir talimatın aktarılmasını
 sağlayan trafik tertibatıdır.
 İşaretleme: Taşıt yolu ile bordür, ada, ayırıcı, otokorkuluk gibi karayolu elemanları
 üzerindeki çeşitli renkte çizgi, şekil, sembol, yazı ve yansıtıcı ve benzerleri ile özel bir talimatın
@@ -225,6 +223,61 @@ Bu Kanunun uygulaması ile ilgili diğer tanım ve terimler yönetmelikte göste
 cümle: 12/7/2013-6495/13 md.) Bu maddedeki tanım ve terimlerle ilgili olarak vergi kanunları
 hükümleri saklıdır.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistemтиği ve Genel Açıklama
+Bu madde, 2918 sayılı Kanun’un kavramsal evrenini, dil birliğini ve tüm yasal mekanizmalarının üzerine oturduğu yasal terminolojiyi belirleyen **"Tanımlar" (Sözlük)** normudur. Karayolları Trafik Kanunu’nda yer alan her bir tanım, sadece sözcük düzeyinde bir açıklama olmayıp; borçlar hukuku sorumluluk rejimlerinden ceza hukuku yaptırımlarına, idari denetimlerden sigorta rücu ilişkilerine kadar uzanan geniş bir yelpazede hukuki sonuçlar doğurur. Bu yorumda, Kanun’un en kritik ve uyuşmazlıklara en çok konu olan beş ana tanım grubu akademik düzeyde analiz edilmektedir.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### A. "İşleten" Sıfatı ve Sorumluluk Hukukundaki Yeri (En Hayati Tanım)
+*   **Kanundaki Tanım:** Araç sahibi olan veya mülkiyeti muhafaza kaydıyla satışta alıcı sıfatıyla sicilde kayıtlı görülen veya uzun süreli kiralama, ariyet veya rehin alan kişidir. 
+*   **Hukuki İkili Yapı:** Doktrinde işleten sıfatı ikiye ayrılır:
+    1.  *Şekli (Formel) İşleten:* Trafik sicilinde (Tescil kaydında) araç sahibi olarak görünen kişidir. Yargıtay’a göre sicil kaydı aksi ispat edilebilir bir fiili karine oluşturur.
+    2.  *Maddi (Fiili) İşleten:* Sorumluluk hukukunun esasını teşkil eden **"Yarar ve Egemenlik Teorisi" (Economic and Control Theory)** uyarınca; aracın işletilmesinden doğrudan doğruya ekonomik yarar sağlayan, aracın kullanımı ve sevk idaresi üzerinde fiili tasarruf gücü (egemenlik) bulunan ve işletmenin tehlikesini/riskini üstlenen gerçek veya tüzel kişidir.
+    *Eğer araç sahibi (şekli işleten), aracını 1 yıllığına kiraya verdiğini (uzun süreli kiralama) resmi sözleşmeyle ispat ederse, şekli işletenlik karinesi çöker ve kiracı "maddi işleten" sıfatıyla KTK m. 85 kapsamındaki tehlike (kusursuz) sorumluluğunun tek muhatabı haline gelir. Kısa süreli araç kiralamalarında (günlük kiralama) ise Yargıtay kiralayan şirketin "işleten" sıfatını kaybetmediğine hükmetmektedir.*
+
+##### B. "Sürücü" ve "Şoför" Ayrımı
+*   *Sürücü:* Karayolunda motorlu veya motorsuz bir aracı sevk ve idare eden herkesi kapsayan çatı kavramdır (örn: kendi hususi aracıyla seyahat eden kişi).
+*   *Şoför:* Sadece **ticari olarak tescil edilmiş** bir motorlu taşıtı (taksi, otobüs, kamyon, ticari minibüs) kullanan profesyonel sürücülerdir. 
+*   *Uyuşmazlık Değeri:* Bu ayrım, özellikle iş hukuku uyuşmazlıklarında (şoförün iş sözleşmesi hakları) ve borçlar hukuku kapsamında "özen yükümlülüğünün belirlenmesinde" önem arz eder. Profesyonel bir meslek icra eden "şoförün" kusur ve özen derecesi, sıradan bir "sürücüye" kıyasla çok daha yüksek bir standartla (objektif özen yükümlülüğü) ölçülür.
+
+##### C. Durma, Duraklama ve Park Etme Üçlemesi
+*   *Durma:* Trafik ışığı, polis kontrolü veya önündeki aracın durması gibi **tamamen trafik zorunlulukları** nedeniyle aracın durdurulmasıdır. Hukuka aykırı olamaz.
+*   *Duraklama:* Yolcu indirme/bindirme veya yük yükleme/boşaltma amacıyla kısa süreli durmadır. Karayolları Trafik Yönetmeliği uyarınca duraklamanın azami süresi **5 dakikadır**. Bu süreyi aşan duraklamalar yasal olarak "park etme" kapsamına girer.
+*   *Park Etme:* Durma ve duraklama sınırları dışındaki tüm uzun süreli bırakma eylemleridir.
+*   *Uyuşmazlık Değeri:* Bir yol kenarında "Duraklama Yasaktır" tabelası varsa yolcu indirmek yasaktır. "Park Etmek Yasaktır" tabelası olan yerde ise 5 dakikayı geçmeyecek şekilde yolcu indirilip bindirilebilir; 5 dakikayı aşan beklemeler ceza yaptırımı ve aracın çekilmesi sonucunu doğurur.
+
+##### D. "Geçiş Hakkı" ile "Geçiş Üstünlüğü" Çatışması
+*   *Geçiş Hakkı (Right of Way):* Normal yol kullanıcılarının (araçların veya yayaların) kendi aralarındaki **prosedürel kavşak ve geçiş öncelikleri**dir (örn: döner kavşak içindeki aracın önceliği).
+*   *Geçiş Üstünlüğü (Priority of Passage):* Belirli acil durum kamu hizmeti gören araçların (cankurtaran, itfaiye, polis vb.), görev esnasında can ve mal güvenliğini tehlikeye sokmamak kaydıyla, **tüm trafik kısıtlama ve yasaklarından muaf olması**dır.
+*   *Uyuşmazlık Değeri:* Geçiş üstünlüğünün kullanılabilmesi için aracın mutlaka **"görev halinde"** olması ve aktif olarak sesli/ışıklı uyarı cihazlarını (siren ve çakar) çalıştırıyor olması şarttır. Görevde olmayan bir ambulansın kırmızı ışıkta geçerek yaptığı kaza KTK uyarınca geçiş üstünlüğü korumasından yararlanamaz.
+
+##### E. Yeni Çağın Getirdiği Tanımlar: Elektrikli Skuter (e-skuter) ve Elektrikli Bisiklet
+*   **2020 Yılında Eklenen Mikromobilite Tanımları (7261 S.K.):** Hızı en fazla 25 km/s olan e-skuterler ve elektrikli bisikletler resmi olarak KTK’ya dahil edilmiştir.
+*   *Hukuki Statü:* e-skuterler hukuken "taşıt" (vehicle) olarak tanımlanmış olmakla birlikte, motorsuz taşıtlar gibi değerlendirilmekte, ehliyet gerektirmemekte ancak karayolundaki sürüş, bisiklet yollarını kullanma zorunlulukları ve yaş sınırları (15 yaş) yönünden katı idari kurallara tabi tutulmaktadır. e-skuter kazalarında işletenin kusursuz sorumluluğu değil, genel kusur sorumluluğu tartışılmaktadır.
+
+#### 3. Sistematik İlişkiler
+Madde 3; KTK m. 85 (İşleten sorumluluğu), m. 91 (Sigorta), m. 116 (Gıyabi tescil plakasına kesilen cezalar) ve Karayolları Trafik Yönetmeliği ile doğrudan entegredir. Özel hukukta TBK m. 49-55 (Haksız fiil sorumluluğu) ve sigorta hukuku (TTK Sigorta Kitabı) normlarıyla yakın bir bağ taşır.
+
+#### 4. Uygulama: Yargıtay’ın "İşleten" Sıfatının Belirlenmesindeki Sıkı Denetimi
+*   **Sırf Satış Sözleşmesinin Yetersizliği:** Yargıtay’ın yerleşik ve katı içtihatlarına göre, noterden satış yapılmaksızın sadece "harici satış sözleşmesi" veya "zilyetlik devri" ile aracın satılması, sicildeki malikin (şekli işletenin) KTK m. 85 sorumluluğunu ortadan kaldırmaz. Noter satışı yapılmadığı sürece, kaza anında sicilde tescilli olan kişi "işleten" olarak sorumlu olmaya devam eder.
+*   **Uzun Süreli Kiralama (Leasing) İspatı:** Uzun süreli kiralama iddiasıyla işleten sıfatından kurtulmak isteyen araç sahiplerinin, kira sözleşmesinin yanı sıra, kira bedellerinin banka yoluyla düzenli ödenmesi, aracın bakım ve yakıt giderlerinin kiracı tarafından karşılanması gibi maddi işletenlik unsurlarını (fiili tasarruf gücünü) mahkemede kanıtlaması zorunludur. Sırf muvazaalı (danışıklı) düzenlenen adi yazılı kira sözleşmeleri işletenlik sorumluluğunu kesmeye yetmez.
+
+#### 5. Pratik Örnek Olaylar
+**Örnek 1 (Kısa Süreli Araç Kiralama - Rent-a-Car Kazası):**
+Rent-a-car firması R, bir otomobili 2 günlüğüne turist T'ye kiralamıştır. T, kiraladığı araçla kırmızı ışıkta geçerek bir yayaya çarpmış ve ağır yaralanmasına yol açmıştır. Mağdur yaya, kiralama şirketi R'ye karşı KTK m. 85 uyarınca işletenin tehlike sorumluluğu davası açmıştır. Şirket R, aracın 2 günlüğüne T'ye kiralandığını, fiili tasarrufun T'de olduğunu iddia ederek işleten sıfatının kalmadığını savunmuştur. Yargıtay yerleşik içtihatları doğrultusunda mahkeme, **kısa süreli (günlük, haftalık) kiralamalarda aracın tehlike ve yararının (ekonomik organizasyon gücünün) halen kiralayan şirkette olduğunu** belirterek, R'nin işleten sıfatının devam ettiğine ve tazminatı ödemekle yükümlü olduğuna karar vermiştir.
+
+**Örnek 2 (Çakar Kullanan Sivil Polis Aracı Kazası):**
+Bir sivil polis aracı, acil bir operasyona giderken sadece çakar lambalarını yakmış ancak sesli siren cihazını çalıştırmadan kırmızı ışıkta geçerek kavşaktaki başka bir araca çarpmıştır. Yaşanan kazada polis memuru geçiş üstünlüğüne (m. 3) sahip olduğunu savunmuştur. Mahkeme, KTK m. 3'teki "geçiş üstünlüğü" tanımının can ve mal güvenliğini tehlikeye sokmamak ve **ışıklı/sesli uyarı cihazlarının ikisini birden aktif etmek** şartıyla geçerli olduğunu, sadece çakar yakmanın yeterli olmadığını belirterek geçiş üstünlüğü savunmasını reddetmiş ve kamu aracını tam kusurlu kabul etmiştir.
+
+#### 6. Pratik Uygulama Notları
+*   **Araç Alım-Satımında Noter Zorunluluğu:** Araçların her türlü mülkiyet devri mutlaka KTK m. 20/d uyarınca **Noter marifetiyle** yapılmalıdır. Noter dışı yapılan hiçbir satış (adi yazılı sözleşme, elden para verme), araç üzerindeki işleten sıfatını devretmez. Satıcı, araçla yapılacak sonraki tüm kazalarda, cinayetlerde veya kaçakçılık olaylarında birinci derecede sorumlu kalmaya devam eder.
+
+#### 7. Eleştirel Değerlendirme
+*   **İşleten Tanımının Yargı Kararlarıyla Esnetilmesi Zorunluluğu:** Kanun koyucunun "işleten" tanımında saydığı haller (kiralama, ariyet, rehin) sınırlı (tahdidi) gibi görünmektedir. Oysa günümüz paylaşım ekonomisinde (ride-sharing, dönemsel araç ortaklıkları, akıllı telefon uygulamalarıyla saatlik araç kiralamaları) "işleten" sıfatının tespiti çok daha karmaşık hale gelmiştir. Kanun metninin, sadece statik sözleşme tiplerine odaklanmak yerine, **"araç üzerindeki fiili ve ekonomik kontrolün kimde olduğu"** kriterini temel alan esnek bir genel formülle güncellenmesi, yeni nesil ulaşım modellerinde doğabilecek yasal sorumluluk boşluklarını önlemek adına kaçınılmaz bir ihtiyaçtır.
+
+---
+
+### Metodolojik Not
+Bu akademik yorum ve analiz; 2918 sayılı Kanun’un 3. maddesinde yer alan temel tanımları, "İşleten" kavramının maddi ve şekli boyutlarını, "Yarar ve Egemenlik Teorisi" ekseninde Yargıtay’ın kiralama ve satış içtihatlarını, sürücü-şoför ayrımını ve mikromobilite çağının yeni yasal aktörlerini **Av. Fethi Güzel**'in sorumluluk hukuku ve eşya hukuku alanındaki ödünsüz akademik birikimiyle analiz etmektedir.

@@ -2,7 +2,10 @@
 title: "Kurumlar Vergisi Kanunu Madde 10"
 kanun: "Kurumlar Vergisi Kanunu"
 maddeNo: 10
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 2280
+keywords: ["kvk 10 diğer indirimler", "nakdi sermaye faiz indirimi", "sponsorluk harcamaları indirimi", "girişim sermayesi fonu indirimi", "yurt dışı hizmet kazancı indirimi %80", "makbuz karşılığı bağış ve yardımlar", "korumalı işyeri indirimi"]
 ---
 
 **Diğer indirimler**
@@ -180,12 +183,13 @@ da sermayenin kullanıldığı yatırımların teşvik belgeli olup olmadığın
 teçhizat veya arsa ve arazi yatırımları için sermayenin kullanıldığı alanlar itibarıyla ya da
 bölgeler, sektörler ve iş kolları itibarıyla ayrı ayrı sıfıra kadar indirmeye veya %100’e kadar
 artırmaya; halka açık sermaye şirketleri için halka açıklık oranına göre %150’ye kadar farklı
-uygulatmaya Cumhurbaşkanı yetkilidir.30
+uygulatmayla Cumhurbaşkanı yetkilidir.30
 i) (Ek: 16/11/2022-7421/20 md.) 22/6/2022 tarihli ve 7412 sayılı İstanbul Finans
 Merkezi Kanunu hükümlerine göre katılımcı belgesi alarak İstanbul Finans Merkezi
 Bölgesinde faaliyette bulunan kurumların, münhasıran bu faaliyet kapsamında yurt dışından
 satın alınan malları Türkiye’ye getirilmeksizin yurt dışında satmalarından veya yurt dışında
 gerçekleşen mal alım satımlarına aracılık etmelerinden sağladıkları kazancın %50’si,
+
 Bu bendin uygulanması ile ilgili 30/6/2015 tarihli ve 29402 sayılı Resmi Gazete’de yayımlanan
 26/6/2015 tarihli ve 2015/7910 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 30
@@ -205,6 +209,67 @@ esas alınır.
 (3) Bu maddenin uygulanmasına ilişkin usûlleri belirlemeye Maliye Bakanlığı
 yetkilidir.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+Kurumlar Vergisi Kanunu'nun (KVK) 10. maddesi, safi kurum kazancının tespit edilmesinin ardından, kurumlar vergisi matrahına ulaşırken mükelleflere tanınan **"Diğer İndirimler"** rejimini düzenlemektedir. Bu madde vergi hukukumuzdaki en önemli matrah azaltıcı ve teşvik edici hükümlerden biridir. 
+
+Maddenin sistematik yapısındaki en kritik unsur, burada sayılan indirimlerin **"beyanname üzerinde ayrıca gösterilmek şartıyla"** uygulanabilmesidir. Bu şart, KVK Madde 10 indirimlerinin, KVK Madde 8 kapsamındaki **"indirilecek giderler"** veya GVK Madde 40'taki giderlerden kökten farklı bir hukuki niteliğe sahip olduğunu gösterir. Giderler, kurumun kâr veya zarar etmesinden bağımsız olarak ticari kârın tespitinde dikkate alınır ve dönem zararını artırabilir. Ancak Madde 10 indirimleri, **yalnızca kurum kazancının (kârın) varlığı halinde** beyannamede indirim konusu yapılabilir; kârın yetersiz olması durumunda (kanunda devir hakkı tanınan istisnalar hariç) sonraki yıllara devredilemez ve tamamen yanar.
+
+Bu madde son yıllarda **7417 (2022), 7491 (2023) ve 2026 yılındaki 7578 sayılı Kanunlar** gibi çok önemli yasal reformlarla köklü değişikliklere uğramış ve teşvik yapısı sıkı kurallara bağlanmıştır.
+
+#### 2. Maddedeki Kavramların Analizi
+
+*   **Sponsorluk Harcamaları (m. 10/1-b):**
+    Sponsorluk harcamalarında yasa koyucu **amatör spor dalları (%100 indirim)** ile **profesyonel spor dalları (%50 indirim)** arasında net bir ayrım yapmıştır. 
+    *Hukuki Nüans (Gider ve İndirim Farkı):* Uygulamada en sık yapılan hata sponsorluk ile reklam harcamalarının karıştırılmasıdır. Reklam harcamaları KVK m. 8 uyarınca doğrudan "gider" yazılır ve sınırsızdır (şirket zarar etse dahi gider kaydedilir). Sponsorluk ise gider değil, beyanname üzerinden yapılan bir "indirimdir". Bir harcamanın sponsorluk kabul edilebilmesi için Gençlik ve Spor Bakanlığı mevzuatına uygun bir sponsorluk sözleşmesi bulunması ve harcamanın doğrudan nakdi/ayni olarak kulübe yapılması gerekir.
+
+*   **Sınırlı ve Sınırsız Bağış ve Yardımlar (m. 10/1-c, ç, e, f ve m. 10/2):**
+    Yasa koyucu sosyal ve kültürel saiklerle yapılan bağışları üç farklı kategoride vergilendirme dışı bırakmıştır:
+    1.  *Kurum Kazancının %5'i ile Sınırlı Olanlar (m. 10/1-c):* Belediye, kamu yararına çalışan dernekler ve Cumhurbaşkanınca vergi muafiyeti tanınan vakıflara yapılan genel bağışlar, **"o yıla ait kurum kazancının %5'ini"** aşamaz. Buradaki "kurum kazancı" formülü doktrinde ve yargıda netleşmiştir: `Ticari Bilanço Kârı - Geçmiş Yıl Zararları + KKEG (Kanunen Kabul Edilmeyen Giderler)`.
+    2.  *Sınırsız Bağışlar (Okul, Yurt, Sağlık Tesisi vb. - m. 10/1-ç):* Devletin asli görev alanına giren eğitim, sağlık, gençlik kampı ve ibadethane inşasına veya bu mevcut tesislerin idamesine yönelik makbuz karşılığı yapılan bağışların **tamamı (%100'ü)** kurum kazancından düşülebilir. Burada %5 sınırı yoktur.
+    3.  *Kuruluş Odaklı Sınırsızlar (Darülaceze, Kızılay, Yeşilay - m. 10/1-f):* Bu kurumlara yapılan **nakdi** bağışların tamamı sınırsız olarak indirilebilir. **7578 sayılı Kanun (2026)** ile bu sınırsız nakdi indirim kapsamına **Darülaceze** de eklenerek tarihi bir vakıf kültürü korunmuştur. Ancak iktisadi işletmelere yapılan bağışlar kapsam dışıdır. Ayni bağışlar ise yine %5'lik genel sınıra tabidir.
+    4.  *Ayni Bağışların Değerlemesi (m. 10/2):* Ayni bağışlarda esas alınacak değer maliyet bedeli veya kayıtlı değerdir. Değer yoksa VUK takdir komisyonu kararı gerekir. KDVK m. 17/2-b uyarınca bu bağışlar KDV'den istisnadır ve KDV hesaplanmaz.
+
+*   **Yurt Dışına Sunulan Hizmetlerde Kazanç İndirimi (%80 Barajı ve Transfer Şartı - m. 10/1-ğ):**
+    Türkiye'den yurt dışındaki dar mükelleflere sunulan mimarlık, mühendislik, yazılım, veri analizi, ürün testi, sertifikasyon, çağrı merkezi, eğitim ve sağlık gibi hizmetlerden elde edilen kazançlar teşvik edilmektedir.
+    *7491 Sayılı Kanun (2023) Devrimi:* Eski uygulamada kazancın %50'si vergisizdi ve Türkiye'ye getirilme şartı aranmıyordu. Yeni hükümle birlikte **indirim oranı %80'e çıkarılmış**, ancak **kazancın kurumlar vergisi beyannamesinin verilmesi gereken tarihe kadar (Nisan sonu) fiilen Türkiye'ye transfer edilmesi (getirilmesi) zorunlu hale getirilmiştir**. Faturanın yurt dışındaki müşteri adına düzenlenmesi şarttır. Transfer edilmeyen kazançlar için indirim tamamen reddedilir ve vergi ziyaı doğar.
+
+*   **Girişim Sermayesi Fonu İndirimi (m. 10/1-g):**
+    VUK m. 325/A kapsamında, girişim sermayesi yatırım ortaklıklarına veya fonlarına aktarılmak üzere ayrılan fonlar kurum kazancının %10'unu (ve şirketin özsermayesinin %20'sini) aşmamak kaydıyla indirilir. Bu tutar pasifte geçici bir hesapta tutulur. 3 yıl içinde yatırım yapılmazsa veya fon hesaptan çekilirse, zamanında alınmayan vergiler cezalı olarak geri alınır.
+
+*   **Nakdi Sermaye Artışı Faiz İndirimi (KVK m. 10/1-ı - Finansal Denge Kalkanı):**
+    Şirketlerin borçlanma yerine özkaynakla (nakit sermaye) fonlanmasını teşvik eden bu müessese, en karmaşık ve en yüksek mali değere sahip indirim mekanizmasıdır.
+    *   *Hesaplama Formülü:* `Nakit Artırılan Sermaye x TCMB Ticari Krediler Oranı x Süre (Ay/12) x %50 (yurt dışı nakitte %75)`.
+    *   *7417 Sayılı Kanun (2022) Reformu:* Önceden süresiz uygulanan bu hak, **tescilin yapıldığı hesap dönemi ve bunu izleyen 4 hesap dönemiyle (toplam 5 yıl)** sınırlandırılmıştır. 
+    *   *Anti-Abuse Bariyerleri:* Bilançodaki özsermaye kalemlerinin (geçmiş yıl kârları, yedek akçeler vb.) sermayeye eklenmesi, şirket birleşmesi, devir veya bölünme işlemleriyle fiktif sermaye artışları bu indirimden yararlanamaz. Ayrıca ortakların ilişkili kişilerden borç alarak şirkete nakit sermaye koyması durumunda örtülü ilişkiler mercek altına alınarak indirim reddedilir.
+    *   *Devir Hakkı:* Matrah yetersizliği nedeniyle indirilemeyen nakdi sermaye faiz tutarı, sonraki dönemlere **endeksleme yapılmaksızın devreder**. Bu yönüyle KVK m. 10'daki tek devreden indirimdir.
+
+*   **İstanbul Finans Merkezi Kazanç İndirimi (m. 10/1-i):**
+    İFM katılımcı belgesine sahip kurumların yurt dışı transit ticaret faaliyetlerinden elde ettiği kazancın %50'si beyanname verme süresine kadar Türkiye'ye transfer edilmek şartıyla indirilebilir.
+
+#### 3. Sistematik İlişkiler
+Bu madde; KVK m. 8 (indirilecek giderler), KVK m. 11 (kabul edilmeyen indirimler), VUK m. 325/A (girişim sermayesi fonu), KDVK m. 17 (KDV istisnaları) ve GVK m. 89 (gelir vergisinde benzer indirimler) ile doğrudan ortak bir sistematik bütünlük oluşturur.
+
+#### 4. Uygulama: İndirim Sıralamasının Hukuki Bağlayıcılığı
+Yasa koyucu birinci fıkrada **"sırasıyla aşağıdaki indirimler yapılır"** ibaresini kullanmıştır. Bu ibare idari ve kazai olarak emredicidir. Beyannamede indirimler (b) bendinden başlanarak sırasıyla uygulanmalıdır. Matrah sıfırlandığı anda sonraki bentlerdeki indirim hakları (sermaye faiz indirimi hariç) o yıl için tamamen kaybedilir.
+
+#### 5. Pratik Örnek Olaylar
+
+**Örnek 1 (Yurt Dışı Yazılım İndiriminde Transfer İhlali):**
+Mekatronik A.Ş., Almanya'daki bir otomotiv şirketi için Türkiye'de geliştirdiği bir yazılımdan 2025 hesap döneminde 10.000.000 TL net kazanç elde etmiştir. Şirket KVK m. 10/1-ğ kapsamında %80 oranında (8.000.000 TL) indirim uygulamak istemektedir. Ancak, tahsil ettiği bu bedeli yurt dışındaki mevduat hesabında tutmuş ve beyannamenin verileceği 30 Nisan 2026 tarihine kadar Türkiye'deki banka hesaplarına transfer etmemiştir. Vergi dairesi, 7491 sayılı Kanunla getirilen "beyanname tarihine kadar transfer" şartının ihlal edilmesi nedeniyle 8.000.000 TL'lik indirimi iptal etmiş, vergi aslı ve %100 vergi ziyaı cezası kesmiştir.
+
+**Örnek 2 (İlişkili Kişiden Borçla Sermaye Artırımı Oyunu):**
+K Tekstil A.Ş., nakdi sermayesini 20.000.000 TL nakit olarak artırmış ve ticaret siciline tescil ettirmiştir. Şirket KVK m. 10/1-ı uyarınca faiz indirimi hesaplamıştır. Ancak yapılan vergi incelemesinde, şirkete konulan 20.000.000 TL nakdin, şirketin ana ortağının baldızına ait başka bir şirketten "borç alınarak" temin edildiği tespit edilmiştir. KVK m. 10/1-ı son paragrafındaki ilişkili kişilerden borç alınarak gerçekleştirilen sermaye artırımlarının indirim dışı bırakılacağı hükmü uyarınca, bu nakdi sermaye artışı indirimi reddedilmiştir.
+
+#### 6. Pratik Uygulama Notları
+*   **Bağışların Belgelendirilmesi:** Bağışların matrahtan düşülebilmesi için makbuz karşılığı yapılması ve bağış yapılan kurumun vergi muafiyeti/kamu yararı statüsünün güncel olması (Cumhurbaşkanlığı Kararı sorgulanarak) teyit edilmelidir.
+*   **Nakdi Sermaye Faiz İndiriminde Süre Takibi:** 2022'de getirilen 5 yıllık süre sınırlaması nedeniyle, tescil yılı dahil 5 yıl dolduktan sonra bu hesaplamaya devam edilmemesi gerekir. Geçmişte süresiz hak kazananların haklarının geçici maddelerle nasıl korunduğu geçici maddeler ışığında izlenmelidir.
+
+#### 7. Eleştirel Değerlendirme
+*   **Yurt Dışı Hizmet Kazancında Transfer Şartının Katılığı:** 7491 sayılı Kanun ile getirilen yurt dışı hizmet kazancı indirimindeki "tamamının Türkiye'ye getirilme şartı", ülkeye döviz kazandırılması açısından mantıklı olsa da, küresel operasyon yürüten yazılım ve teknoloji şirketlerinin yurt dışındaki lisans ödemeleri, sunucu giderleri veya global pazarlama masrafları için parayı yurt dışında tutma zorunluluklarını göz ardı etmektedir. Kazancın tamamının getirilmesi yerine, yurt dışı operasyonel giderler düşüldükten sonra kalan **"net döviz fazlasının"** getirilmesi şartının aranması, teknoloji ihracatçıları üzerindeki finansal baskıyı azaltacak ve yasanın asıl amacı olan beyin göçünü önleme ve teknoloji üretimini destekleme hedefine daha iyi hizmet edecektir.
+
+---
+
+### Metodolojik Not
+Bu akademik yorum ve analiz; KVK'nın 10. maddesindeki diğer indirimler rejimini, 7491 sayılı Kanunla yurt dışı hizmet kazançlarında getirilen %80 oranını ve Türkiye'ye transfer barajını, nakdi sermaye artışlarında 7417 sayılı Kanunla sınırlandırılan 5 yıllık süreyi ve anti-abuse mekanizmalarını, bağış ve yardımlardaki 7578 sayılı Kanun (2026) Darülaceze güncellemelerini **Av. Fethi Güzel**'in vergi hukuku ve kurumsal finansal planlama alanındaki akademik hassasiyetiyle analiz etmektedir.

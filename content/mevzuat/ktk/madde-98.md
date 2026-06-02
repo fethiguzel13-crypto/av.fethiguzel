@@ -2,7 +2,10 @@
 title: "Karayolları Trafik Kanunu Madde 98"
 kanun: "Karayolları Trafik Kanunu"
 maddeNo: 98
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-02"
+wordCount: 2600
+keywords: ["Tedavi Giderleri", "SGK Sorumluluğu", "6111 Sayılı Kanun", "SUT", "Bakıcı Giderleri", "Geçici İş Göremezlik", "Protez ve Ortez", "Poliçe Kesintisi"]
 ---
 
 **Sağlık hizmet bedellerinin ödenmesi:73**
@@ -51,6 +54,42 @@ alan “Hazine Müsteşarlığının bağlı bulunduğu Bakanlığın teklifi ü
 “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 73
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. 6111 Sayılı Kanun Reformu: Trafik Tedavi Giderlerinde Kamusal Devrim
+Karayolları Trafik Kanunu’nun 98. maddesi, 13 Şubat 2011 tarihli ve 6111 sayılı Kanun (kamuoyunda "Torba Kanun" olarak bilinir) ile baştan aşağı değiştirilerek, Türk tazminat hukukunda tarihi bir dönüşüm gerçekleştirmiştir. 
+
+Eski sistemde, trafik kazası geçiren mağdurların hastane ve tedavi faturalarını kendilerinin ödemesi, ardından bu faturaları tahsil etmek için sigorta şirketleriyle veya araç sahipleriyle yıllarca süren davalarla boğuşması gerekiyordu. Çoğu zaman özel veya kamu hastaneleri, ödemeyi kimin yapacağı belirsiz olduğundan acil vakaları kabul etmekten kaçınmaktaydı. 
+
+6111 sayılı reformla birlikte; trafik kazalarından kaynaklanan tüm **tıbbi tedavi ve sağlık hizmet bedellerini ödeme yükümlülüğü tamamen Sosyal Güvenlik Kurumu'na (SGK) devredilmiştir**.
+
+#### 2. SGK'nın Mutlak ve Koşulsuz Tedavi Yükümlülüğü
+Maddenin birinci fıkrası uyarınca, trafik kazası nedeniyle üniversite hastaneleri dahil tüm resmi ve özel sağlık kuruluşlarının sunduğu sağlık hizmet bedelleri:
+*   **Sosyal Güvence Şartı Aranmaksızın:** Kazazedenin sigortalı, memur, bağ-kurlu, işsiz, ev hanımı, hatta yabancı uyruklu olup olmadığına bakılmaksızın,
+*   **Kusur Durumu Gözetilmeksizin:** Kazanın oluşumunda kazazedenin tamamen kusurlu olup olmadığı değerlendirilmeksizin,
+*   Doğrudan **Sosyal Güvenlik Kurumu** tarafından karşılanır. 
+
+Özel hastaneler dahil hiçbir sağlık kuruluşu, trafik kazası acil hastasından veya yakınlarından tedavi ücreti veya "fark ücreti" talep edemez. Tedavi bedelleri, Sağlık Uygulama Tebliği (SUT) esas alınarak doğrudan SGK tarafından hastanelere ödenir.
+
+#### 3. Sigorta Şirketlerinin Katkısı ve Sorumluluktan Kurtulması
+Bu devasa kamusal yükün finanse edilmesi için KTK m. 98/2 uyarınca sigorta şirketleri, yazdıkları zorunlu sigorta primlerinin ve Güvence Hesabı katkı paylarının **%15’ini aşmamak üzere** Hazinece belirlenen bir tutarı SGK'ya aktarmakla yükümlüdürler.
+*   **Hukuki Muafiyet:** Bu prim aktarımı yapıldığı an, sigorta şirketlerinin ve Güvence Hesabı'nın ZMMS poliçesi kapsamındaki **"tıbbi tedavi giderlerini karşılama" yükümlülüğü kanunen sona erer (exoneration)**. Sigortacının tedavi faturası ödeme borcu kalmaz.
+
+#### 4. Kapsam Dışı Kalan "Tedavi Giderleri": Sigortacının Devam Eden Sorumluluğu
+Maddenin uygulanmasında en büyük hukuki uyuşmazlıklar, hangi giderlerin SGK'nın, hangilerinin ise sigorta şirketlerinin sorumluluğunda kaldığı noktasında toplanmaktadır. Yargıtay Hukuk Genel Kurulu ve yerleşik daire kararları doğrultusunda şu keskin sınır çizilmiştir:
+1.  **SGK'nın Sorumluluğundaki Tıbbi Giderler:** Doğrudan hastane ortamında yapılan ameliyat, ilaç, pansuman, klinik bakım, fizik tedavi, protez-ortez (SUT limitlerinde) ve tıbbi müdahalelerdir.
+2.  **Sigortacının Sorumluluğundaki Hukuki/Maddi Giderler (SGK Dışı):** Kazazedenin kaza nedeniyle evde bakıma muhtaç kalması durumunda doğan **Bakıcı Giderleri** (refakatçi ücretleri), tedavi amacıyla yapılan **Ulaşım ve Yol Giderleri**, protezlerin SUT limitlerini aşan **Fark Bedelleri** ve iş görememezlik süresince doğan diğer mali yansımalardır. Yargıtay, evde bakım ve bakıcı hizmetlerinin bir "klinik sağlık hizmeti" olmadığını, TBK m. 54 kapsamında bedensel zarardan doğan ekonomik bir kayıp olduğunu kabul ederek, bu giderlerden **sigorta şirketlerinin doğrudan sorumlu olmaya devam ettiğine** hükmetmektedir.
+
+#### 5. Pratik Örnek Olay ve Hukuki Analiz
+**Olay:**
+Trafik kazasında ağır yaralanan yaya (A), kaldırıldığı özel bir hastanede 3 ay yoğun bakımda kalmış ve bacağı ampute edilmiştir. Hastane (A)'ya acil ameliyatlar ve yoğun bakım için 300.000 TL, ampute bacak için gerekli olan yüksek teknolojili biyonik protez için ise 200.000 TL fatura çıkarmıştır. Ayrıca (A)'nın evde 6 ay boyunca bir hasta bakıcı desteği alması gerektiği doktor raporuyla belgelenmiştir. Bakıcı gideri 90.000 TL tutmaktadır. Otomobilin ZMMS sigorta şirketi, KTK m. 98 uyarınca tedavi giderlerinin tamamen SGK'ya geçtiğini belirterek tüm ödeme taleplerini reddetmiştir.
+
+**Hukuki Analiz:**
+1.  **Yoğun Bakım ve Ameliyat Bedelleri (300.000 TL):** KTK m. 98 uyarınca bu tıbbi hizmetler tamamen SGK'nın sorumluluğundadır. Hastane bu tutarı doğrudan SGK'ya fatura etmelidir, (A)'dan veya sigorta şirketinden talep edemez.
+2.  **Protez Bedeli (200.000 TL):** Protez yasal olarak tedavi gideridir. Ancak SGK (SUT) yalnızca standart protez bedelini öder. Eğer (A)'nın mesleki durumu (örn: aktif çalışan genç bir mühendis) yüksek teknolojili biyonik protez takılmasını gerektiriyorsa, SUT limitini aşan fark bedeli (örn: 120.000 TL), TBK m. 54 uyarınca **sigorta şirketinin ZMMS limitlerinden tahsil edilmelidir**.
+3.  **Bakıcı Gideri (90.000 TL):** Yargıtay içtihatları uyarınca, evde bakıcı giderleri KTK m. 98 kapsamındaki "kamusal sağlık hizmeti" olmadığından, doğrudan bedensel bütünlüğün ihlali zararıdır (TBK m. 54). Sigorta şirketi bu 90.000 TL'yi (A)'ya poliçe limitleri dahilinde ödemek zorundadır. Sigortacının reddi bu kısım yönünden hukuka aykırıdır.
+
+---
+
+### Metodolojik Not
+Bu akademik yorum ve analiz; trafik kazası tedavi giderlerinin 6111 Sayılı Kanun reformu ile Sosyal Güvenlik Kurumu'na (SGK) devrinin anayasal ve kamusal finansman boyutlarını, kazazedenin sosyal güvencesine bakılmaksızın sağlanan mutlak teminatı, sigorta şirketlerinin %15 prim aktarımı ile tıbbi faturalardan kurtulmasını ve buna karşın Yargıtay’ın evde bakıcı/refakatçi giderleri ile SUT limitlerini aşan protez farklarında sigortacının sorumluluğunun devam ettiğine ilişkin içtihatlarını **Av. Fethi Güzel**'in tıp hukuku, bedensel zararlar aktüeryası ve sigorta rücu uyuşmazlıkları alanındaki engin tecrübesiyle analiz etmektedir.

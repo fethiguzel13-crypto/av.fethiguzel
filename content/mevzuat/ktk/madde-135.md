@@ -438,6 +438,51 @@ Ek Geçici Madde – (Ek: 27/8/1991 – 3759/2 md.)
 Trafik hizmetlerinin yurt sathında yürütülmesi için gerekli personel, araç ve gereçler
 Emniyet Genel Müdürlüğünce 2 yıl içinde sağlanır.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Korsan Taşımacılıkla Mücadelede Yeni Ceza Eşikleri: Ek Madde 2 ve 12 Şubat 2026 Reformu (7574 S.K.)
+Karayolları Trafik Kanunu’nun Ek 2. maddesi, büyükşehirlerde ve yerleşim alanlarında belediyelerden lisans (çalışma ruhsatı) almaksızın yapılan ticari yolcu taşımacılığını, yani **"Korsan Taşımacılık" (korsan taksi, yetkisiz paylaşımlı yolculuk vb.)** eylemlerini yasaklar ve cezalandırır.
+*   **7574 Sayılı Kanun (12/02/2026) ile Getirilen Astronomik Artışlar:** Yeni yasa, korsan taşımacılık fiillerine yönelik cezaları caydırıcılık sınırlarını aşacak şekilde yükseltmiştir:
+    *   **a) Çalışma izni/ruhsatı olmadan yolcu taşıma (Korsan Taksi):** İdari para cezası **100.000 Türk Lirasına** yükseltilmiştir. Ayrıca sürücünün ehliyeti 30 gün süreyle geri alınır ve araç 60 gün süreyle trafikten menedilir. Bir yıl içinde tekerrür halinde para cezası iki katına (**200.000 TL**) çıkar. Ehliyetin iade edilebilmesi için tüm para cezalarının tahsil edilmiş olması şarttır.
+    *   **b) Ruhsattaki faaliyet konusu dışında yolcu taşıma:** İdari para cezası **46.000 Türk Lirası** olarak belirlenmiştir. Araç 30 gün trafikten menedilir.
+    *   **c) Çalışma bölgesi/güzergahı dışında yolcu taşıma:** İdari para cezası **20.000 Türk Lirasına** çıkarılmıştır. Araç 15 gün trafikten menedilir.
+*   **Hizmet Alanların Cezalandırılması:** Ayırıcı işareti olmayan korsan araçlardan taşımacılık hizmeti alan yolculara da idari para cezası uygulanarak, talebin azaltılması amaçlanmıştır.
+
+#### 2. Yediemin Otoparklarında Bekleyen Araçların Tasfiye Devrimi: Ek Madde 14 ve 7 Kasım 2024 Reformu (7531 S.K.)
+Ek 14. maddeye **7 Kasım 2024 tarihli ve 7531 sayılı Kanun** ile eklenen fıkralar, yediemin otoparklarında yıllarca çürümeye terk edilen ve sahiplerince alınmayan araçların tasfiyesi hususunda devrim niteliğinde kurallar getirmiştir.
+*   **6 Aylık Hak Düşürücü Süre:** Trafikten men edilen veya buluntu olup da 6 ay içinde teslim alınmayan araçların satış süreci derhal başlatılır.
+*   **Şerhlerin Satış Anında Kalkması Karinesi:** En büyük usuli engel olan araç üzerindeki "satılamaz, devredilemez, haciz, rehin" gibi şerhler, satış tarihi itibarıyla başka bir işleme gerek kalmaksızın **otomatik olarak kalkmış sayılır**. Tescil kayıtları temizlenir ve alıcı, aracı tüm borçlarından ari (temiz) olarak devralır.
+*   **Hak Sahiplerinin Haklarının Korunması:** Rehin veya haciz şerhleri araç üzerinden kalkar, ancak **satıştan elde edilen para üzerinde (dosyada) devam eder**. Satış bedelinden masraflar ve vergiler düşüldükten sonra kalan tutar sıra cetveli yapılarak alacaklılara dağıtılır. Bakiye tutar kamu bankalarında nemalandırılarak 5 yıl boyunca sahibi adına saklanır; 5 yılın sonunda aranmayan paralar Hazineye irat (gelir) kaydedilir.
+*   **Şasi/Motor Numarası Kayıpları:** Numarası silinmiş veya tahrip olmuş araçlar, satışı yapacak kurum tarafından re'sen tamamlanarak satışa hazır hale getirilir.
+
+#### 3. Sosyal Medyada Trafik İhlali Paylaşma ve Özendirme Yasağı: Ek Madde 20 (12 Şubat 2026 Yepyeni Dijital Yasak)
+Teknolojinin ve sosyal medyanın gelişmesiyle birlikte sürücülerin trafikte drift yapma, yüksek hız yapma veya makas atma görüntülerini çekip sosyal ağlarda (Instagram, TikTok, YouTube vb.) paylaşarak izlenme elde etmeleri yeni bir toplumsal tehlike doğurmuştur. **12 Şubat 2026 tarihli 7574 Sayılı Kanun** ile eklenen **Ek 20. madde** bu duruma müdahale etmiştir:
+*   **Yasaklanan Eylem:** KTK'nın idari yaptırıma bağladığı kural ihlallerini (drift, yarış, hız, makas) alenen yaymak, sosyal medya üzerinden paylaşarak özendirmek ve övmek yasaktır.
+*   **Yaptırım:** Bu yasağa uymayan hesap sahiplerine veya paylaşımı yapan kişilere **25.000 Türk Lirası idari para cezası** uygulanır ve içeriklerin kaldırılması için sulh ceza hakimlikleri vasıtasıyla erişim engelleme kararları alınır.
+
+#### 4. Aday Sürücülük (Stajyer Ehliyet) ve Anayasa Mahkemesi’nin 2025 Tarihli İptal Kararı (Ek Madde 17)
+İlk kez ehliyet alanların 1 yıl (yönetmelikle 2 yıl) süreyle stajyer sürücü kabul edilmesini öngören Ek 17. maddede yer alan **"sürücü belgelerinin iptal edilme"** ibaresi, **Anayasa Mahkemesi'nin 17 Haziran 2025 tarihli kararı (E: 2025/28, K: 2025/139)** ile iptal edilmiştir.
+*   **Gerekçe:** AYM, aday sürücülerin ehliyetlerinin hangi durumlarda iptal edileceğine dair somut sınırların kanunda gösterilmeksizin doğrudan yönetmeliğe (idareye) bırakılmasını, yasama yetkisinin devredilemezliği ilkesine ve mülkiyet/çalışma haklarına aykırı bulmuştur. Bu iptal kararı 2 Eylül 2026 tarihinde yürürlüğe girecektir.
+
+#### 5. Geçici Madde 27 ve Yeni Takograf Geçiş Takvimi (7574 S.K. - 2026)
+7574 sayılı Kanun ile getirilen takograf zorunluluğunun eski model araç sahiplerini mağdur etmemesi amacıyla, Geçici 27. madde ile kademeli bir geçiş takvimi belirlenmiştir:
+*   2021 ve sonrası model araçlar için son tarih: **31/12/2026**
+*   2016-2020 model araçlar için son tarih: **31/12/2027**
+*   2011-2015 model araçlar için son tarih: **31/12/2028**
+*   1996-2010 model araçlar için son tarih: **31/12/2029**
+*   1985-1995 model araçlar için son tarih: **31/12/2030**
+Bu tarihlerden sonraki ilk araç muayenesine kadar takograf taktırılması zorunlu kılınmıştır.
+
+#### 6. Pratik Örnek Olay ve Hukuki Analiz
+**Olay:**
+Sürücü (T), 18 Şubat 2026 tarihinde boş bir caddede aracıyla drift yapmış, bu esnada arkadaşı tarafından çekilen yüksek kaliteli videoyu kendi TikTok hesabında "Otoyolun Kralı" başlığıyla paylaşmıştır. Video viral olmuş ve binlerce izlenme almıştır. Trafik polisi siber denetim ekipleri, videodaki plakayı ve paylaşımı yapan (T)'yi tespit etmiştir. Sürücü (T)'ye drift yapmaktan dolayı (m. 67) 140.000 TL, ayrıca bu ihlal videosunu sosyal medyada yayınlayarak özendirmekten dolayı Ek Madde 20 kapsamında **25.000 TL** idari para cezası kesilmiştir. Sürücü (T) avukatı aracılığıyla, "Sosyal medyada paylaşım yapmanın ifade özgürlüğü olduğunu, tek bir fiil nedeniyle iki kez cezalandırılamayacağını" iddia ederek 25.000 TL'lik cezanın iptali için **Sulh Ceza Hakimliğine** başvurmuştur.
+
+**Hukuki Analiz:**
+1.  **Ek 20. Maddenin Uygulama Şartları:** 12 Şubat 2026 tarihli 7574 sayılı reform ile eklenen Ek 20. madde, kural ihlallerinin sosyal medyada yayılmasını ve özendirilmesini müstakil bir kabahat olarak düzenlemiştir.
+2.  **İçtima Yönünden Değerlendirme:** Sürücünün fiili drift yapmak (m. 67) ve bu videoyu alenen yayarak özendirmek (Ek m. 20) olmak üzere iki farklı eylemden oluşur. Biri fiziki ihlal, diğeri ise dijital alandaki yayma eylemidir. Bu nedenle çifte ceza uygulanması ne bis in idem (mükerrer ceza yasağı) oluşturmaz; hukuka uygundur. İfade özgürlüğü, kamu düzeni ve trafik güvenliğini tehlikeye sokacak ihlallerin propagandasını yapmayı kapsamaz.
+3.  **Karar:** Sulh Ceza Hakimliği, sanık (T)'nin sosyal medya paylaşımının Ek Madde 20'deki tüm yasal unsurları taşıdığını ve cezanın yasal oranda kesildiğini tespit ederek, 25.000 TL'lik idari para cezasına karşı yapılan itirazı **kesin olarak reddedecektir**.
+
+---
+
+### Metodolojik Not
+Bu akademik yorum ve analiz; korsan taşımacılıkla mücadelede 12 Şubat 2026 tarihli 7574 Sayılı Kanun ile getirilen rekor 100.000 TL'lik yaptırım rejimini, yediemin otoparklarındaki tıkanıklığı çözen 7 Kasım 2024 tarihli 7531 Sayılı Kanun tasfiye devrimini, sosyal medyada tehlikeli sürüş videoları yayınlama yasağını (Ek m. 20), stajyer ehliyet iptalinde AYM'nin 2025 yılı tarihi duruşunu ve takograf geçiş sürelerini **Av. Fethi Güzel**'in idare hukuku, eşya hukuku (mülkiyet güvencesi), ceza hukuku dogmatiği, bilişim/sosyal medya hukuku ve anayasa yargısı alanındaki en üst düzey akademik uzmanlığıyla analiz etmektedir.

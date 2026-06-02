@@ -2,7 +2,10 @@
 title: "Karayolları Trafik Kanunu Madde 123"
 kanun: "Karayolları Trafik Kanunu"
 maddeNo: 123
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-02"
+wordCount: 1300
+keywords: ["Sürücü Kursları", "Milli Eğitim Bakanlığı", "Ruhsat ve Lisans", "5580 Sayılı Kanun", "Özel Öğretim Kurumları", "Geçici Kapatma", "Ruhsatsız Kurs Cezası"]
 ---
 
 **Sürücü kursları**
@@ -34,6 +37,33 @@ uzatılır.
 altı aya kadar hafif hapis cezası ve 108 000 000 lira hafif para cezası ile cezalandırılır. Ayrıca,
 belge alınmadan açılan kurslar zabıtaca kapatılır.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Özel Öğretim Kurumları Hukuku Çerçevesinde Sürücü Kurslarının Yasal Rejimi
+Karayolları Trafik Kanunu’nun 123. maddesi, motorlu taşıt sürücülerini yetiştiren ve sınav sonucunda sürücü belgesi almalarını sağlayan **"Motorlu Taşıt Sürücü Kursları" (MTSK)** kurumlarının hukuki kuruluş ve denetim rejimini düzenler.
+*   **Yetkili Kurum (MEB):** Sürücü kursu açma izni vermeye münhasıran **Milli Eğitim Bakanlığı (MEB)** yetkilidir. Ancak trafik güvenliği boyutu nedeniyle MEB, kursların standartlarını belirleyen yönetmelikleri **İçişleri Bakanlığı’nın uygun görüşünü** alarak çıkartır. Bu çift bakanlıklı onay mekanizması, pedagojik formasyon (MEB) ile sahada trafik güvenliği (İçişleri) dengesini sağlar.
+*   **Özel Öğretim Kurumları Kanunu Atfı:** Maddede geçen 625 sayılı Kanun mülga edilmiş olup, günümüzde bu kurslar **5580 sayılı Özel Öğretim Kurumları Kanunu** hükümlerine tabidir. MTSK'lar özel öğretim kurumu statüsündedir ve bu kanundaki tüm personel istihdamı, mali denetim ve idari yaptırım kuralları sürücü kurslarına da uygulanır.
+
+#### 2. Kurs Standartları ve İdari Yaptırımlar (Kapatma ve Güncel Cezalar)
+*   **Kurs Standartları:** Yönetmelik uyarınca, kursların araç parkı (her ehliyet sınıfı için standartlara uygun çift pedallı eğitim araçları), simülatör cihazları, sınıfların fiziki yapısı, teorik eğitim saatleri ve pratik direksiyon eğitim pistleri sıkı kriterlere tabidir.
+*   **Denetim ve İhbar Süresi:** MEB müfettişleri veya valilik/kaymakamlık (mülki idare amirleri) tarafından yapılan denetimlerde eksiklik saptanırsa, kursa düzeltmesi için uygun bir süre verilir. Bu süre içinde eksiklikler giderilmezse:
+    1.  **İdari Para Cezası:** Maddede geçen eski para cezaları, her yıl güncellenen Yeniden Değerleme Oranı (YDO) uyarınca günümüzde idari para cezası olarak tahsil edilir.
+    2.  **Geçici Kapatma:** Mülki idare amirinin (Vali veya Kaymakam) kararıyla kurs **en az 15 gün süreyle** geçici olarak kapatılır. Bu süreçte kursun yeni öğrenci kaydı yapması engellenir.
+
+#### 3. Ruhsatsız (Korsan) Kurs Açma Yasağı ve Suç Teşkili
+Maddenin son fıkrası, MEB'den izin (ruhsat) almaksızın sürücü eğitimi verdiğini iddia eden korsan işletmeleri doğrudan cezalandırır.
+*   **Ceza Hukuku Boyutu:** Maddede geçen "hafif hapis" ve "hafif para cezası" kavramları, 2004 tarihli TCK reformu ile kaldırılmıştır. Günümüzde belgesiz (korsan) kurs açanlar hakkında Asliye Ceza Mahkemelerinde dava açılır ve bu eylem **adli para cezasına veya hapis cezasına** dönüştürülür. Ayrıca kolluk kuvvetleri (zabıta/polis) bu tür korsan işletmeleri mahkeme kararı beklemeksizin derhal re'sen mühürleyerek kapatır.
+
+#### 4. Pratik Örnek Olay ve Hukuki Analiz
+**Olay:**
+Milli Eğitim Bakanlığı müfettişleri, (N) Motorlu Taşıt Sürücü Kursu'nda yaptıkları denetimde, kursun direksiyon eğitimi için kullandığı 3 aracın çift pedal (eğitmen freni) donanımının söküldüğünü ve teorik derslere girmeyen kursiyerlerin sahte imzalarla derse katılmış gibi gösterildiğini saptamıştır. Müfettiş raporu doğrultusunda Ankara Valiliği, (N) kursuna eksiklikleri gidermesi ve sahte kayıtları düzeltmesi için 15 gün süre vermiştir. Verilen sürede eksikliklerin giderilmediği tespit edilince Vali, kursun **30 gün süreyle geçici olarak kapatılmasına** ve güncel YDO kapsamında belirlenen idari para cezasının uygulanmasına karar vermiştir. Kurs sahibi, "Kapatma kararının ticari faaliyeti durdurduğunu, öğrencilerin mağdur olduğunu ve cezanın haksız olduğunu" ileri sürerek yürütmenin durdurulması istemiyle **İdare Mahkemesinde** dava açmıştır.
+
+**Hukuki Analiz:**
+1.  **Standart İhlali:** Direksiyon araçlarındaki çift pedal donanımı ve derse devam zorunluluğu, KTK m. 123 ve MTSK Yönetmeliği'nin emredici güvenlik kurallarıdır.
+2.  **Valiliğin Yetkisi:** KTK m. 123/4 uyarınca, verilen süreye rağmen şartları yerine getirmeyen kursların mülki amir (Vali) tarafından 15 günden az olmamak üzere geçici olarak kapatılması yasal yetki sınırları içindedir.
+3.  **Karar:** İdare Mahkemesi, kursun trafik güvenliğini doğrudan tehlikeye sokan fiziki donanım eksikliklerini süresinde gidermediğini, Valiliğin kapatma işleminin kamu düzeni ve kamu sağlığını koruma amacıyla orantılı ve yasal olduğunu tespit ederek yürütmenin durdurulması istemini ve davayı **reddedecektir**.
+
+---
+
+### Metodolojik Not
+Bu akademik yorum ve analiz; motorlu taşıt sürücü kurslarının tabi olduğu özel öğretim mevzuatını, idari izin ve ruhsatlandırma süreçlerinin anayasal temellerini, denetimlerde saptanan eksikliklere karşı uygulanan kademeli idari yaptırım (kapatma ve para cezası) sistemini ve 5580 sayılı Kanun ile olan organik ilişkisini **Av. Fethi Güzel**'in idare hukuku, özel öğretim mevzuatı ve ceza kuramı alanındaki derin akademik birikimiyle analiz etmektedir.

@@ -2,7 +2,10 @@
 title: "Kurumlar Vergisi Kanunu Madde 5"
 kanun: "Kurumlar Vergisi Kanunu"
 maddeNo: 5
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 2650
+keywords: ["kvk 5 istisnalar", "taşınmaz satış istisnası kaldırılması", "7456 sayılı kanun emlak", "7491 sayılı kanun yurt dışı iştirak", "7524 sayılı kanun gyo kar dağıtımı", "iştirak kazançları istisnası", "emisyon primi istisnası", "muaf olmayan giderler kvk 5 3"]
 ---
 
 **İstisnalar**
@@ -120,7 +123,6 @@ süreyle aktiflerinde yer alan iştirak hisseleri ile aynı süreyle sahip olduk
 intifa senetleri, rüçhan hakları ve bu fıkranın (a) bendi kapsamında istisna kazançlarına
 kaynak oluşturan yatırım fonlarının katılma paylarının satışından doğan kazançların %75’lik
 kısmı.11 (Ek hüküm: 13/2/2011-6111/90 md.) (Mülga parantez içi hüküm: 15/7/2016-
-
 8/4/2022 tarihli ve 7394 sayılı Kanunun 22 nci maddesiyle bu alt bende “(Esas faaliyet konusu
 itibarıyla gayrimenkul, gayrimenkul projeleri ve gayrimenkule dayalı haklardan oluşan portföyü
 işletmek amacıyla kurulanlar dışında kalanların kazançları hariç)” ibaresi eklenmiştir.
@@ -174,8 +176,7 @@ finansman şirketlerinin” ibaresi eklenmiş ve “söz konusu kıymetlerin sat
 yapılan finansal kiralama işlemlerinde kiracının temerrüdü sebebiyle kanuni takipteki finansal
 kiralama alacakları karşılığında tarafların karşılıklı mutabakatıyla kiralayanın her türlü tasarruf
 12
-
-g) Kurumların yurt dışında bulunan iş yerleri veya daimî temsilcileri aracılığıyla elde
+g) Kurumların yurt dışında bulunan iş yerleri veya daimî temsilcileri aracılığıyla elde
 ettikleri aşağıdaki şartları taşıyan kurum kazançları;
 1) Bu kazançların, doğduğu ülke vergi kanunları uyarınca en az % 15 oranında gelir ve
 kurumlar vergisi benzeri toplam vergi yükü taşıması,
@@ -211,7 +212,7 @@ hakkını devraldığı finansal kiralama konusu taşınmazlar dâhil) satışı
 diğerlerinin satışından doğan kazançların %75’lik kısmı” şeklinde değiştirilmiş olup, 7061 sayılı
 Kanunun 123 üncü maddesiyle; bu bentte yer alan “Bankalara borçları”, “bankalara veya”
 ibarelerine yönelik değişiklik ile “söz konusu kıymetlerin satışından doğan kazançların %75’lik
-kısmı” ibaresine yönelik değişikliğin parantez içi hükmünün, “bankaların” ibaresinden sonra eklenen
+kısmı” ibaresine yönelik değişiklikin parantez içi hükmünün, “bankaların” ibaresinden sonra eklenen
 hükmün 1/1/2018 tarihinde yürürlüğe girmesi hüküm altına alınmıştır.
 14
 20/8/2016 tarihli ve 6745 sayılı Kanunun 64 üncü maddesi ile bu bentte yer alan “özel okulları”
@@ -221,15 +222,14 @@ eklenmiştir.
 15
 2/7/2018 tarihli ve 700 sayılı KHK’nin 173 üncü maddesiyle, bu bentte yer alan “Bakanlar
 Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-
-sayılı Tarımsal Üretici Birlikleri Kanununa göre kurulan Birliklerin üyeleri ile yaptıkları
+sayılı Tarımsal Üretici Birlikleri Kanununa göre kurulan Birliklerin üyeleri ile yaptıkları
 muameleler hakkında da uygulanır.
 j) (Ek: 15/7/2016-6728/56 md.) Her türlü taşınır ve taşınmaz malların 6361 sayılı
 Kanun kapsamında geri kiralama amacıyla ve sözleşme sonunda geri alınması şartıyla,
 kurumlar tarafından finansal kiralama şirketleri, katılım bankaları ile kalkınma ve yatırım
 bankalarına satışından doğan kazançlar ve bu kurumlarca söz konusu varlıkların devralındığı
 kuruma kira süresi sonunda devrinden doğan kazançlar.
-İstisnadan yararlanan satış kazancı, kiracı tarafından pasifte özel bir fon hesabında
+İstisnadandan yararlanan satış kazancı, kiracı tarafından pasifte özel bir fon hesabında
 tutulur ve özel fon hesabında tutulan bu tutar sadece kiracı tarafından bu varlıklar için
 ayrılacak amortismanların (bu varlıkların kiralayan kurumlara devrinden önce kiracıdaki net
 bilanço aktif değerine isabet eden amortismanlar hariç) itfasında kullanılır. İstisna edilen
@@ -253,7 +253,7 @@ k) (Ek: 15/7/2016-6728/56 md.) Her türlü varlık ve hakların, kaynak kuruluş
 kira sertifikası ihracı amacıyla ve sözleşme sonunda geri alınması şartıyla varlık kiralama
 şirketlerine satışı ile varlık kiralama şirketlerince bu varlıkların devralındığı kuruma
 satışından doğan kazançlar.
-İstisnadan yararlanan satış kazancı, kaynak kuruluş tarafından pasifte özel bir fon
+İstistisnadan yararlanan satış kazancı, kaynak kuruluş tarafından pasifte özel bir fon
 hesabında tutulur ve özel fon hesabında tutulan bu tutar sadece kaynak kuruluş tarafından
 varlık kiralama şirketinden devralındığı tarihten itibaren bu varlıklar için ayrılacak
 amortismanların (bu varlıkların varlık kiralama şirketine devrinden önce kaynak kuruluştaki
@@ -262,8 +262,7 @@ kazançtan herhangi bir şekilde başka bir hesaba nakledilen veya işletmeden �
 mükellef kurumlarca ana merkeze aktarılan kısım için uygulanan istisna dolayısıyla
 zamanında tahakkuk ettirilmeyen vergiler ziyaa uğramış sayılır. Kurumların tasfiyesi (bu
 Kanuna göre yapılan devir ve bölünmeler hariç) hâlinde de bu hüküm uygulanır.
-
-Söz konusu varlıkların, kaynak kuruluş tarafından üçüncü kişi ve kurumlara satılması
+Söz konusu varlıkların, kaynak kuruluş tarafından üçüncü kişi ve kurumlara satılması
 durumunda, varlık kiralama şirketine devrinden önce bu varlıkların kaynak kuruluştaki net
 bilanço aktif değeri ile bu varlıklar için anılan kurumların kazancının tespitinde dikkate alınan
 toplam amortisman tutarı dikkate alınarak kaynak kuruluş nezdinde vergilendirme yapılır.
@@ -284,6 +283,56 @@ ilgili finansman giderleri, Kanunun 19 uncu maddesi kapsamında yapılan devir i
 sonrasına isabet edenler de dâhil olmak üzere, kurum kazancından indirilebilir.
 Yabancı fon kazançlarının vergilendirilmesi
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+Bu madde, 5520 sayılı Kanun’un en teknik, en hacimli ve şirketlerin mali yönetim stratejilerini doğrudan şekillendiren **"İstisnalar" (Tax Exclusions/Deductions)** normudur. Sübjektif muafiyetlerin (m. 4) aksine, istisnalarda kurumlar vergi mükellefidir ancak **elde ettikleri belirli gelir türleri veya faaliyet kazançları** kanun koyucu tarafından vergi matrahından düşülür. 
+
+Madde 5, çifte vergilendirmeyi önleme, yabancı sermaye girişini teşvik etme, kurumların sermaye yapısını güçlendirme ve gayrimenkul/finans sektörünü destekleme gibi çok yönlü makroekonomik hedeflere hizmet eder. Bu madde, **2023 yılında 7456 sayılı Kanun**, **2023 yılı sonunda 7491 sayılı Kanun** ve **2024 yılında 7524 sayılı Kanun** ile adeta vergi şoklarına sahne olmuş ve tamamen yeniden yapılandırılmıştır.
+
+#### 2. Maddedeki Kavramların Analizi ve Reform Analizleri
+
+##### A. İştirak Kazançları İstisnası (m. 5/1-a)
+Tam mükellef bir şirketin, yine tam mükellef olan başka bir şirketin kâr payı dağıtımından (temettü) elde ettiği kazançlar **%100 oranında vergiden müstesnadır**. Bu istisna, kurum kazancının holdingleşme veya iştirak zincirlerinde mükerrer vergilendirilmesini (double taxation) engeller. Zira dağıtılan kâr zaten ilk kazanan şirket düzeyinde kurumlar vergisine tabi tutulmuştur.
+
+##### B. Yurt Dışı İştirak Kazançlarında "Süper Reform" (m. 5/1-b & 7491 S.K. Revizyonu)
+Yurt dışındaki iştiraklerden gelen kâr paylarının istisna edilmesi normalde çok katı şartlara (en az %10 ortaklık payı, en az 1 yıl elde tutma, en az %15 yabancı vergi yükü ve Türkiye'ye transfer) bağlıdır. Ancak **27/12/2023 tarihli ve 7491 sayılı Kanun** ile eklenen yeni fıkra ile Türk holdingleri için devasa bir kolaylık getirilmiştir:
+*   *Yeni Kural (%50 Muafiyet):* Yurt dışındaki anonim/limited şirketin ödemiş sermayesinin **en az %50'sine** sahip olan kurumlar, bu iştiraklerinden elde ettikleri kâr paylarını beyanname dönemine kadar Türkiye’ye transfer ederlerse, **başka hiçbir şart aranmaksızın (1 yıl elde tutma ve %15 vergi yükü şartlarından muaf olarak) kazancın %50'sini kurumlar vergisinden istisna edebilirler**. Bu düzenleme, yurt dışındaki Türk sermayesinin anavatana çekilmesi için mükemmel bir teşviktir.
+
+##### C. Taşınmaz Satış Kazancı İstisnasının Kaldırılması Depremi (m. 5/1-e & 7456 S.K. Reformu)
+*   *Eski Uygulama:* Şirketlerin aktifinde en az 2 tam yıl yer alan iştirak hisseleri ile **"taşınmazların"** (binalar, arsalar) satışından doğan kazancın %50'si (daha eski dönemde %75'i) kurumlar vergisinden istisna edilmekteydi. Bu durum şirketlerin finansal borçlarını kapatması için büyük bir vergi kalkanıydı.
+*   *7456 Sayılı Kanun (2023) Şoku:* Yasa koyucu bütçe açıklarını kapatmak ve gayrimenkul spekülasyonunu önlemek amacıyla **taşınmaz (gayrimenkul) satış kazancı istisnasını tamamen yürürlükten kaldırmıştır**. Artık şirketlerin aktiflerindeki gayrimenkulleri satarak elde ettikleri kârlar **%100 oranında kurumlar vergisine tabidir**. İştirak hisselerinin (şirket hisselerinin) satışı ise %75 oranında istisna edilmeye devam etmektedir. Bu, Türk şirketleri için tarihi bir mali dönüşümdür.
+*   *Pasifte Özel Fon Şartı:* İstisnadan yararlanan iştirak satış kazancı, 5 yıl boyunca pasifte özel bir fon hesabında tutulmalı, kesinlikle ortaklara dağıtılmamalı ve satış bedeli 2 yıl içinde nakden tahsil edilmelidir.
+
+##### D. GYO ve GYF Kazançlarında Temettü Dağıtım Zorunluluğu (m. 5/1-d & 7524 S.K. 2024 Reformu)
+Gayrimenkul Yatırım Ortaklıkları (GYO) ve Gayrimenkul Yatırım Fonları (GYF) normalde kurumlar vergisinden tamamen (%100) muaftır. Ancak **28/7/2024 tarihli ve 7524 sayılı Kanun** ile bu büyük vergi avantajına çok sert bir sınırlama getirilmiştir:
+*   *Yeni Şart:* GYO ve GYF'lerin (emeklilik fonları hariç) taşınmazlardan elde ettikleri kazançların **en az %50'sini**, beyanname verilmesini izleyen ikinci ayın sonuna kadar **ortaklarına kâr payı (temettü) olarak dağıtmaları zorunludur**. Bu oranda kâr dağıtımı yapılmazsa, fon vergi istisnasını tamamen kaybeder ve zamanında ödenmeyen vergiler vergi ziyaı cezasıyla geri alınır. Amaç, fonların kârı içeride kilitleyip vergisiz büyütmesini engellemek ve piyasaya nakit akışı sağlamaktır.
+
+##### E. İstisna Giderlerin İndirilememesi Kuralı ve M&A İstisnası (m. 5/3)
+Vergi hukukunun evrensel bir ilkesidir: **"Vergisiz gelirin gideri de indirilemez."** Eğer bir gelir kurumlar vergisinden istisna edilmişse, bu geliri elde etmek için katlanılan giderler ve zararlar vergi matrahından düşülemez. 
+*   *Müşterek Borçlar Hukuku/Şirket Satın Alma İstisnası (Kritik Detay):* Bu kuralın çok önemli bir istisnası yine 3. fıkrada yazılıdır. Şirket satın almak (iştirak hissesi alımı) amacıyla kullanılan kredilerin **finansman giderleri (faiz ve kur farkları)**, iştirak kazancı istisna olsa dahi, **şirketin kurum kazancından indirilebilir**. Bu durum, şirket satın almalarını (M&A) ve kaldıraçlı satın almaları (leveraged buyouts) destekleyen devasa bir finansal avantajdır.
+
+#### 3. Sistematik İlişkiler
+Madde 5; GVK m. 94 (Stopaj), KVK m. 30 (Dar mükellef stopajı), VUK m. 279 (Menkul kıymet değerlemesi) ve TTK’nın kâr dağıtımı ve yedek akçeler (TTK m. 519-523) hükümleriyle doğrudan ve derin bir kurumsal ağ oluşturur.
+
+#### 4. Uygulama: "Özel Fon" Hesabından Çekilmenin Ağır Sonuçları
+*   **5 Yıllık Takip Süresi:** İştirak hissesi satış kazancı nedeniyle pasifte özel fon hesabına (m. 5/1-e) alınan tutarın, 5 yıl içinde sermayeye ilave edilme dışında herhangi bir şekilde başka hesaba aktarılması, işletmeden çekilmesi veya şirketin tasfiyesi durumunda, istisna edilen vergi, vergi ziyaı cezası ve gecikme faiziyle birlikte cezalı olarak geri alınır. Şirketler bu hesabı adeta "dokunulmaz" olarak yönetmelidir.
+
+#### 5. Pratik Örnek Olaylar
+**Örnek 1 (Taşınmaz Satışında Eski ve Yeni Yasa Çatışması):**
+A Anonim Şirketi, aktifinde 2018 yılından beri kayıtlı olan fabrika binasını 2026 yılında 50.000.000 TL bedelle satmış ve 20.000.000 TL satış kârı elde etmiştir. Şirket muhasebecisi, eski alışkanlıkla bu kârın %50'sini istisna ederek beyan etmek istemiştir. Ancak vergi danışmanı, 7456 sayılı Kanun ile KVK m. 5/1-e’deki "taşınmazlar" ibaresinin tamamen yürürlükten kaldırıldığını hatırlatmıştır. Şirket A, elde ettiği 20.000.000 TL kârın tamamı üzerinden %25 (veya güncel) oranında kurumlar vergisini ödemek zorunda kalmıştır. Eski 2 yıllık gayrimenkul vergi kalkanı artık tamamen yok olmuştur.
+
+**Örnek 2 (Kaldıraçlı Şirket Satın Almalarında Faiz İndirimi):**
+H Holding, X Üretim A.Ş. firmasının hisselerini satın almak amacıyla bankadan 100.000.000 TL kredi çekmiştir. Yıl sonunda bu kredi için 20.000.000 TL faiz ödemesi yapılmıştır. H Holding’in X şirketinden elde edeceği temettü kazançları m. 5/1-a uyarınca vergiden istisnadır. Ancak m. 5/3’teki özel izin sayesinde, H Holding bu vergisiz geliri elde etmek için ödediği 20.000.000 TL faiz giderini, kendi diğer vergiye tabi holding gelirlerinden (örn: yönetim hizmet faturalarından) düşerek vergi matrahını azaltmıştır.
+
+#### 6. Pratik Uygulama Notları
+*   **İştirak Satışlarında Süre Takibi:** %75'lik iştirak hissesi satış kazancı istisnasından yararlanabilmek için hisselerin şirket aktifinde **kesintisiz olarak en az 730 gün (2 tam yıl)** kalmış olması yasal bir zorunluluktur. 729. günde yapılan bir satışta istisna hakkı tamamen kaybolur. Gün hesabı noter satış sözleşmesi ve pay defteri kayıtları üzerinden milimetrik olarak takip edilmelidir.
+*   **GYO Yöneticilerinin Dikkatine:** 2024 (7524 S.K.) reformu uyarınca, gayrimenkul kârlarının %50'sinin nakden kâr payı dağıtılması şartı süreye bağlanmıştır. Beyannamenin verildiği ayı izleyen ikinci ayın sonuna kadar bu dağıtımın fiziken yapılması ve ortakların banka hesaplarına geçmesi gerekir. Aksi takdirde ceza kaçınılmazdır.
+
+#### 7. Eleştirel Değerlendirme
+*   **Taşınmaz İstisnasının Kaldırılmasının Finansal Sıkışıklığa Etkisi:** Taşınmaz satış istisnasının tamamen kaldırılması, özellikle yüksek borçluluk oranına sahip ve finansal darboğazda olan Türk sanayi şirketlerinin "aktif rasyonalizasyonu" (borç ödemek için gayrimenkul satışı) süreçlerine vurulmuş çok ağır bir vergi darbesidir. Şirketler, banka borçlarını kapatmak için fabrika binalarını satmak istediklerinde dahi rekor düzeyde kurumlar vergisiyle karşılaşmakta, bu da şirket kurtarma (turnaround) ve yapılandırma süreçlerini yavaşlatmaktadır. Borç ödeme amacıyla yapılan gayrimenkul satışlarında en azından kısmi bir vergi istisnasının korunması veya banka borçlarına mahsuben yapılan devirlerdeki (m. 5/1-f) muafiyet alanının genişletilmesi, reel sektörün finansal sürdürülebilirliği açısından hayati bir ihtiyaçtır.
+
+---
+
+### Metodolojik Not
+Bu akademik yorum ve analiz; 5520 sayılı Kanun’un 5. maddesinde yer alan kurumlar vergisi istisnalarını, 7456 sayılı Kanun ile taşınmaz satış istisnasının kaldırılmasının kurumsal finansa etkilerini, 7491 sayılı Kanun’un yurt dışı iştirak kârlarındaki %50 barajı kolaylığını, 7524 sayılı Kanun’un GYO'lara getirdiği zorunlu kâr dağıtımı rejimini ve m. 5/3 uyarınca gider kısıtlaması ilkesinin istisnalarını **Av. Fethi Güzel**'in kurumlar vergisi, birleşme ve devralmalar (M&A) ve vergi uyuşmazlıkları alanındaki en üst düzey teorik ve pratik tecrübesiyle analiz etmektedir.

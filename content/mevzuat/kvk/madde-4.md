@@ -2,7 +2,10 @@
 title: "Kurumlar Vergisi Kanunu Madde 4"
 kanun: "Kurumlar Vergisi Kanunu"
 maddeNo: 4
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 2250
+keywords: ["kvk 4 muafiyetler", "muafiyet istisna farkı", "kooperatif ortak dışı işlem", "7061 sayılı kanun kooperatif", "spor kulüpleri vergi muafiyeti", "belediye yolcu taşıma muafiyeti"]
 ---
 
 **Muafiyetler**
@@ -27,6 +30,7 @@ c) Kamu idare ve kuruluşları tarafından sosyal amaçlarla işletilen şefkat,
 yardım sandıkları, sosyal yardım kurumları, yoksul aşevleri, ceza ve infaz kurumları ile
 tutukevlerine ait işyurtları, darülaceze atölyeleri, öğrenci yurtları, pansiyonları ve benzeri
 kuruluşlar.
+            
 ç) Kamu idare ve kuruluşları tarafından yetkili idarî makamların izniyle açılan yerel,
 ulusal veya uluslararası nitelikteki sergiler, fuarlar ve panayırlar.
 d) Genel yönetim kapsamındaki kamu idarelerine ait olup sadece kamu görevlilerine
@@ -116,6 +120,60 @@ esaslarına uygun her türlü finansman için kefalet vermek amacıyla kurulan K
 Kefalet Anonim Şirketi.5
 (2) Bu maddenin uygulanmasına ilişkin usuller Maliye Bakanlığınca belirlenir.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+Bu madde, Kurumlar Vergisi Kanunu’nun vergi dışı bırakma rejiminin en temel sütununu oluşturan **"Sübjektif Muafiyetler" (Tax Exemptions)** normudur. Vergi hukukunun en temel ve klasik ayrımlarından biri **"Muafiyet"** ile **"İstisna"** arasındaki dogmatik farktır:
+*   **Muafiyet (Sübjektif):** Doğrudan **"mükellefin şahsına/tüzel kişiliğine"** yöneliktir. Muafiyet kapsamındaki bir kurum, vergi mükellefiyeti sınırlarının dışına çıkarılır. Madde 4, tamamen bu sübjektif muafiyetleri düzenler.
+*   **İstisna (Objektif):** Doğrudan **"kazancın/gelirin türüne"** yöneliktir. Kurum normalde mükelleftir ancak elde ettiği belirli kazançlar (örn: iştirak kazançları, yurt dışı şube kazançları) vergi dışı tutulur (bkz. m. 5).
+
+Madde 4, kamu yararı, sosyal politika destekleri, sporun teşviki, kooperatifçiliğin korunması ve yerel yönetimlerin temel hizmetlerini desteklemek amacıyla yirmiye yakın spesifik kurumu vergi dışı bırakmaktadır.
+
+#### 2. Maddedeki Kavramların Analizi
+
+*   **Belediyelerin ve Yerel Yönetimlerin Muafiyet Sınırları (ı bendi):**
+    Belediyelerin veya il özel idarelerinin işlettiği her işletme muaf değildir. Kanun koyucu muafiyeti sadece üç kritik kamu hizmetiyle sınırlamıştır:
+    1.  *Su Dağıtım İşletmeleri:* Kanal veya borularla dağıtım yapan su işletmeleri (İSKİ, ASKİ vb.).
+    2.  *Yolcu Taşıma İşletmeleri:* Sadece **belediye sınırları içinde** çalışan ESHOT, İETT gibi otobüs/metro işletmeleri (Sınırları aşan taşımacılık muafiyeti bozar).
+    3.  *Mezbahalar:* Sadece kesim, taşıma ve muhafaza işleriyle sınırlı kalmak kaydıyla.
+    *Eğer belediye bir ekmek fabrikası (halk ekmek), otopark işletmesi veya beton santrali işletiyorsa, bu işletmeler kurumlar vergisine tabidir. Sosyal politika amacı muafiyeti genişletmeye yetmez.*
+
+*   **Spor Kulüplerinin Muafiyet Rejimi ve Sınırları (j bendi):**
+    Özerk federasyonlara tescilli spor kulüplerinin sadece **"idman ve spor faaliyetlerinde bulunan iktisadi işletmeleri ile A.Ş.'leri"** kurumlar vergisinden muaftır (bilet satışları, sporcu transferleri, üye aidatları vb.). 
+    *Ancak kulüplerin spor dışı ticari faaliyetleri (örn: lisanslı ürün satışı yapan GS Store, Kartal Yuvası, Fenerium mağazaları veya kulüp lokalleri) tamamen vergiye tabidir.* Bu ince çizgi, spor kulüplerinin ticari rekabet alanına girdiklerinde normal mükellef gibi muamele görmelerini sağlar.
+
+*   **Kooperatiflerde 2017 Yılı Tarihi Reformu ("Ortak Dışı İşlem" - k bendi):**
+    Kooperatiflerin muaf kalabilmesi için ana sözleşmelerinde; sermaye üzerinden kazanç dağıtmama, yöneticilere pay vermeme, yedek akçeleri dağıtmama ve **"sadece ortaklarla iş görme"** şartları bulunmalı ve buna fiilen uyulmalıdır.
+    *   *Eski Yıkıcı Uygulama:* 2017 yılı öncesinde, bir kooperatif tek bir kez dahi ortağı olmayan bir kişiye mal veya hizmet satsa (ortak dışı işlem), kooperatifin **tüm vergi muafiyeti geçmişe dönük olarak tamamen iptal edilmekteydi** ve tüm kazançlar vergilendirilmekteydi. Bu durum kooperatifçiliği yok etme noktasına getirmişti.
+    *   *7061 Sayılı Kanun (2017) Reformu:* Yasa koyucu bu yıkıcı uygulamaya son vermiştir. Eklenen parantez içi hükümle; kooperatiflerin ortak dışı işlemleri nedeniyle **kooperatif tüzel kişiliğinin muafiyetinin kaybolmayacağı**, ortak dışı işlemlerin kooperatife bağlı **bağımsız bir "iktisadi işletme" doğuracağı** ve sadece bu ortak dışı işlemlerden elde edilen kârın kurumlar vergisine tabi tutulacağı kuralı getirilmiştir. Bu reform, kooperatifçilik hukuku açısından devasa bir güvence olmuştur.
+
+*   **İhracat ve Finansal Destek Muafiyetleri (p bendi - 2021 Ek):**
+    İhracatı teşvik etmek amacıyla kurulan İhracatı Geliştirme A.Ş. (İGE) ile faizsiz bankacılık ilkeleri doğrultusunda kefalet veren Katılım Finans Kefalet A.Ş., finansal istikrarı tahkim etmek amacıyla sübjektif muafiyet kapsamına alınmıştır.
+
+#### 3. Sistematik İlişkiler
+KVK Madde 4; Gelir Vergisi Kanunu, Belediye Kanunu, Dernekler ve Vakıflar Kanunu, Spor Genel Müdürlüğü Mevzuatı, Kooperatifler Kanunu ve Vergi Usul Kanunu’nun "mükellefiyet" ve "muafiyet" hükümleriyle doğrudan temas halindedir.
+
+#### 4. Uygulama: Danıştay ve Vergi İdaresinin "Sadece Ortaklarla İş Görme" Denetimi
+*   **Kat Karşılığı İnşaatta Ortak Dışı İşlem Muafiyeti:** 7061 sayılı Kanun reformuyla, yapı kooperatiflerinin kendilerine ait arsaları kat karşılığı vererek her bir hisse için bir konut/işyeri elde etmeleri, teknik olarak müteahhitle (ortak dışı kişiyle) işlem yapılmış olsa dahi **"ortak dışı işlem sayılmayacağı"** kanun hükmü haline getirilmiştir. Bu pratik düzenleme, kentsel dönüşüm süreçlerindeki kooperatifleri büyük ceza risklerinden korumaktadır.
+*   **Huzurevi ve Kreş Muafiyeti:** Kamu kurumlarına ait kreş ve konukevlerinin muaf kalabilmesi için sadece kendi personeline hizmet vermesi ve kesinlikle **dışarıdan (üçüncü kişilerden) müşteri almaması** şarttır. Dışarıya oda kiralayan bir kamu konukevi muafiyetini kaybeder.
+
+#### 5. Pratik Örnek Olaylar
+**Örnek 1 (Yapı Kooperatifinin Ortak Dışı İşlem Cezası ve Yeni Rejim):**
+Bir konut yapı kooperatifinin inşaatı devam ederken, şantiye alanındaki bazı demirbaşlar ve fazla tuğlalar çevre esnafa nakit karşılığı satılmıştır. Vergi müfettişleri yaptıkları denetimde bu satışı "ortak dışı işlem" olarak tespit etmiştir. 
+*   *Eski kanun dönemi olsaydı:* Kooperatifin tüm muafiyeti iptal edilir ve tüm daire inşaat maliyetleri üzerinden kurumlar vergisi tarh edilirdi.
+*   *Yeni KVK m. 4/k uyarınca:* Müfettiş, kooperatifin muafiyetine dokunmamış; ancak bu tuğla satışı faaliyeti için kooperatife bağlı bağımsız bir "iktisadi işletme" kurdurarak sadece tuğla satışından elde edilen 50.000 TL'lik kârı kurumlar vergisine tabi tutmuştur.
+
+**Örnek 2 (Belediyenin Çöp Toplama Araçları Kiralama Şirketi):**
+B Belediyesi, ilçe genelinde çöp toplama işlerini yürütmek üzere bir temizlik şirketi kurmuştur. Şirket belediyeye aittir ve sadece belediyeye hizmet vermektedir. Belediye, bu şirketin belediye hizmeti yürüttüğünü iddia ederek muafiyet talep etmiştir. Vergi Mahkemesi, KVK m. 4/ı’da sayılan muaf belediye işletmeleri arasında "çöp toplama/temizlik şirketlerinin" yer almadığını, belediyeye bağlı da olsa sermaye şirketi şeklinde kurulan bu yapının kurumlar vergisine tabi olduğunu belirterek muafiyet talebini reddetmiştir.
+
+#### 6. Pratik Uygulama Notları
+*   **Kooperatiflerde Ayrı Defter Tutulması:** Ortak dışı işlem yapan kooperatifler, bu işlemlerden doğan gelir ve giderlerini ana kooperatif defterlerinden ayrı olarak takip etmeli veya muhakemat sisteminde net olarak ayrıştırmalıdır. Bu ayrım, vergi incelemelerinde matrahın doğru tespiti ve ceza risklerinin önlenmesi açısından hayati bir idari tedbirdir.
+*   **Spor Anonim Şirketleri:** Sadece "idman ve spor" faaliyetinde bulunan spor kulübü anonim şirketleri de muafiyete tabidir. Ancak bu şirketlerin spor dışı reklam, yayın veya mağazacılık gelirlerini spordan tamamen ayırması gerekir.
+
+#### 7. Eleştirel Değerlendirme
+*   **Kamu İdarelerinin Kreş ve Konukevlerindeki Haksız Rekabet:** Genel yönetim kapsamındaki kamu kurumlarına ait kreş ve konukevlerinin sadece kamu personeline hizmet vermek kaydıyla vergi dışı bırakılması, özel kreş ve otel işletmeleri karşısında ciddi bir **"haksız rekabet"** yaratmaktadır. Kamu kreşleri vergisiz çalıştıkları için çok daha düşük fiyatlarla hizmet sunabilmekte, bu da piyasadaki özel girişimcileri finansal olarak ezmektedir. Sosyal politika hedefleri korunmakla birlikte, bu tip kamu işletmelerinin de en azından piyasa fiyatlandırma politikalarına tabi kılınması veya muafiyet sınırlarının daraltılması, serbest piyasa dengeleri ve anayasal teşebbüs hürriyeti açısından daha adil olacaktır.
+
+---
+
+### Metodolojik Not
+Bu akademik yorum ve analiz; 5520 sayılı Kanun’un 4. maddesinde düzenlenen kurumlar vergisi muafiyet rejimini, yerel yönetimlerin ve spor kulüplerinin vergi dışı sınırlarını, 7061 sayılı Kanun’un kooperatifleri kurtaran "Ortak Dışı İşlem" reformunun hukuki anatomisini ve muafiyet-istisna arasındaki temel dogmatik farkları **Av. Fethi Güzel**'in vergi hukuku ve idare hukuku alanındaki derin teorik uzmanlığıyla tahlil etmektedir.

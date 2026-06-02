@@ -2,7 +2,15 @@
 title: "Ceza Muhakemesi Kanunu Madde 113"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 113
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 550
+keywords:
+  - "güvence"
+  - "adlî kontrol"
+  - "kefalet"
+  - "mağdur zararı"
+  - "ödeme sırası"
 ---
 
 **Güvence**
