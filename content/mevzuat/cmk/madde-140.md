@@ -2,7 +2,15 @@
 title: "Ceza Muhakemesi Kanunu Madde 140"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 140
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 700
+keywords:
+  - "teknik araçlarla izleme"
+  - "ses ve görüntü kaydı"
+  - "konut yasağı"
+  - "katalog suçlar"
+  - "süre sınırı"
 ---
 
 **Teknik araçlarla izleme**
@@ -78,6 +86,81 @@ savcısının gözetiminde derhâl yok edilir.
 (5) Bu madde hükümleri, kişinin konutunda uygulanamaz.
 Yönetmelik
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+140. madde, organize/ağır suçlulukla mücadelenin bir başka özel aracı olan **teknik araçlarla izlemeyi** (gizli kamera/dinleme cihazlarıyla şüphelinin faaliyetlerinin ve işyerinin izlenmesi, ses-görüntü kaydı) düzenler. Bu tedbir, kişinin davranışlarının gizlice gözlenmesi ve kaydedilmesi yoluyla özel hayatına müdahale eder; bu nedenle yine **somut delile dayanan kuvvetli şüphe**, **son çare ilkesi**, **katalog suçlar**, **süre sınırı**, **hâkim güvencesi** ve özellikle **konut yasağı** gibi sıkı güvencelere bağlanmıştır. Maddenin en belirgin sınırı, izlemenin **konutta uygulanamamasıdır** — konut dokunulmazlığının çekirdek korumasını yansıtır.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Koşullar, Kapsam ve Katalog Suçlar (Fıkra 1)
+
+Sayılan **katalog suçlarda** (insan ticareti, kasten öldürme, nitelikli hırsızlık/yağma/dolandırıcılık, uyuşturucu, örgüt, terör, casusluk vb.), (i) **somut delile dayanan kuvvetli şüphe** ve (ii) **başka türlü delil elde edilememesi** hâlinde, şüpheli/sanığın **kamuya açık yerlerdeki faaliyetleri ve işyeri** teknik araçlarla izlenebilir, ses-görüntü kaydı alınabilir. İzlemenin yeri **kamuya açık yerler ve işyeri** ile sınırlıdır; bu, mahremiyetin en yüksek olduğu konutu dışarıda bırakır.
+
+##### 2.2. Karar, Hâkim Onayı (Fıkra 2)
+
+İzlemeye **hâkim**, gecikmesinde sakınca bulunan hâllerde **savcı** karar verir; savcı kararı 24 saatte hâkim onayına sunulur, hâkim 24 saatte karar verir, aksi hâlde **kayıtlar derhâl imha** edilir. Bu, m. 135'tekiyle paralel hâkim güvencesidir.
+
+##### 2.3. Süre Sınırı (Fıkra 3)
+
+İzleme en çok **üç hafta**; bir hafta daha uzatılabilir. Örgüt suçlarında, her seferinde bir haftayı geçmemek ve **toplam dört haftayı geçmemek** üzere ek uzatma mümkündür. Gizli soruşturmacıyla birlikte uygulanırsa süreler bir kat artar. Süre sınırı, izlemenin sınırsız sürmesini engeller.
+
+##### 2.4. Veri Sınırı ve Konut Yasağı (Fıkra 4-5)
+
+Elde edilen deliller, sayılan suçların soruşturma/kovuşturması **dışında kullanılamaz**; gerekli olmadığında savcı gözetiminde **derhâl yok edilir.** Ve en kritik sınır: **Bu madde hükümleri kişinin konutunda uygulanamaz** (5. fıkra). Konut, mahremiyetin çekirdek alanı olduğundan, teknik izleme konutta kesinlikle yapılamaz; bu mutlak yasak, konut dokunulmazlığının (Anayasa m. 21) güçlü bir korumasıdır.
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 135, 139** — İletişim denetimi ve gizli soruşturmacı; örgütlü suç tedbirleri ailesi.
+- **CMK m. 118** — Gece araması yasağı; konut korumasının başka yansıması.
+- **Anayasa m. 20, m. 21** — Özel hayat ve konut dokunulmazlığı; konut yasağının temeli.
+- **AİHS m. 8** — Özel hayata saygı.
+
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Bu maddeye doğrudan ilişkin, doğrulanmış güncel bir Yargıtay (CGK / ilgili Ceza Dairesi) kararı künyesi bu çalışmada temin edilememiştir. Mevcut otomatik tarama altyapısı yalnızca hukuk dairelerini sorgulayabildiğinden ceza dairesi kararlarına erişilememiş; kullanıcı tarafından sağlanan ek karar da bulunmamaktadır. Künye uydurmaktan kaçınmak akademik dürüstlüğün gereğidir.
+
+Uygulamada, teknik izlemenin konutta yapılamayacağı (m. 140/5); kamuya açık yer/işyeri ile sınırlı olduğu; katalog dışı suçlarda veya konutta yapılan izlemeyle elde edilen delilin hukuka aykırı sayılacağı esastır.
+
+#### 5. Pratik Örnek Olaylar
+
+**Olay 1 (kurmaca senaryo):** Bir uyuşturucu örgütü soruşturmasında, şüphelinin işyerindeki faaliyetleri teknik araçlarla izlenmek istenir.
+
+*Hukuki analiz:* Katalog suç, somut delile dayanan kuvvetli şüphe ve son çare koşulu karşılandığından, hâkim kararıyla işyeri izlenebilir (m. 140/1-2); süre en çok üç hafta + uzatma (m. 140/3).
+
+**Olay 2 (kurmaca senaryo):** Şüphelinin konutuna gizli kamera yerleştirilmek istenir.
+
+*Hukuki analiz:* Teknik izleme kişinin konutunda uygulanamaz (m. 140/5); bu mutlak yasak nedeniyle konutta izleme yapılamaz.
+
+#### 6. Pratik Uygulama Notları
+
+- **Koşul:** Katalog suç + somut delile dayanan kuvvetli şüphe + son çare.
+- **Yer:** Kamuya açık yerler ve işyeri (konut hariç).
+- **Karar:** Hâkim; acil hâlde savcı + 24 saatte onay (yoksa imha).
+- **Süre:** En çok 3 hafta + 1 hafta; örgütte toplam +4 hafta.
+- **Mutlak yasak:** Konutta teknik izleme yapılamaz (m. 140/5).
+
+#### 7. Eleştirel Değerlendirme
+
+140. madde, teknik izlemeyi organize/ağır suçlulukla mücadeleye tahsis ederken, özel hayatın gizliliğini katmanlı güvencelerle koruyan dengeli bir hükümdür. Katalog suç sınırı, son çare ilkesi, süre sınırı ve hâkim güvencesi, tedbirin istisnaî kalmasını sağlar. Maddenin en belirleyici ve isabetli sınırı, kanaatimizce, **konut yasağıdır (m. 140/5)**: İzlemenin yalnız kamuya açık yerler ve işyeriyle sınırlanması, konutu — mahremiyetin çekirdek alanını — teknik izlemenin tümüyle dışında tutar. Konut, kişinin en mahrem yaşam alanı olduğundan, bu mutlak yasak konut dokunulmazlığının (Anayasa m. 21) güçlü bir teyididir; suçla mücadele menfaati dahi konutta gizli izlemeyi haklı kılamaz.
+
+Kanaatimizce maddenin uygulamadaki kritik noktaları, konut yasağının ve kamuya açık yer/işyeri sınırının titizlikle gözetilmesi ile son çare ilkesinin gerçekten uygulanmasıdır. Teknik izleme, en mahrem alana (konuta) sızmadığı ve yalnız başka türlü delil elde edilemeyen ağır suçlarda kullanıldığı sürece meşru bir araçtır; bu sınırlar gevşetilirse, gözetim devletine doğru tehlikeli bir kayma riski doğar. Verilerin görevle sınırlı kullanımı ve gereksiz olanların imhası da kişisel verilerin korunmasına hizmet eden isabetli güvencelerdir.
+
+---
+
+### Metodolojik Not
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin:* Ceza muhakemesi hukuku öğretisinin genel kabul görmüş yaklaşımlarına (konut dokunulmazlığı, son çare ilkesi) atıfsız genel ifadelerle başvurulmuştur; bu kanun için onaylı yazar listesi bulunmadığından spesifik yazar/eser/sayfa atfı yapılmamıştır.
+- *Yargıtay kararları:* Maddeye özgü doğrulanmış güncel karar temin edilememiştir (bkz. § 4); mevcut tarama altyapısı ceza dairelerini kapsamamaktadır.
+- *Mevzuat:* 5271 sayılı Ceza Muhakemesi Kanunu m. 140 (2005/5353, 2014/6526, 2014/6572, 2016/6763, 2017/KHK-694 değişiklikleri dâhil); sistematik ilişkilerde m. 118, m. 135, m. 139, Anayasa m. 20 ve m. 21, AİHS m. 8.
+
+**Yorumun kapsamı:** Bu çalışma, 5271 sayılı Ceza Muhakemesi Kanunu'nun yürürlükteki metnine dayanır.
+
+**Görüş:** Teknik izlemenin katalog suç, son çare ve süre sınırına bağlanması; özellikle konutta uygulanamaması (m. 140/5), konut dokunulmazlığının güçlü bir teyididir. Konut yasağı ve kamuya açık yer/işyeri sınırı titizlikle gözetilmeli; aksi hâlde gözetim devletine kayma riski doğar.
+
+**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir. Yeni Yargıtay İBK/CGK kararları veya kanun değişiklikleri sonrası revize edilebilir.
