@@ -2,7 +2,15 @@
 title: "Ceza Muhakemesi Kanunu Madde 134"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 134
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 750
+keywords:
+  - "bilgisayarda arama"
+  - "dijital delil"
+  - "kopyalama"
+  - "yedekleme"
+  - "hâkim onayı"
 ---
 
 **ve elkoyma3132**
@@ -43,127 +51,82 @@ verilir ve bu husus tutanağa geçirilerek imza altına alınır.
 (5) Bilgisayar veya bilgisayar kütüklerine elkoymaksızın da, sistemdeki verilerin
 tamamının veya bir kısmının kopyası alınabilir. Kopyası alınan veriler kâğıda yazdırılarak, bu
 husus tutanağa kaydedilir ve ilgililer tarafından imza altına alınır.
-BEŞİNCİ BÖLÜM
-Telekomünikasyon Yoluyla Yapılan İletişimin Denetlenmesi
-İletişimin tespiti, dinlenmesi ve kayda alınması3334353637
-21/2/2014 tarihli ve 6526 sayılı Kanunun 12 nci maddesiyle, bu maddeye birinci fıkrasından sonra
-gelmek üzere ikinci fıkra eklenmiş ve fıkra numaraları buna göre teselsül ettirilmiş; dördüncü
-fıkrasında yer alan “üç ay”, “bir defa” ve “hâkim bir aydan fazla olmamak üzere sürenin müteaddit
-defalar” ibareleri sırasıyla, “iki ay”, “bir ay” ve “mahkeme yukarıdaki sürelere ek olarak her
-defasında bir aydan fazla olmamak ve toplam üç ayı geçmemek üzere” şeklinde değiştirilmiştir.
-34
-24/11/2016 tarihli ve 6763 sayılı Kanunun 26 ncı maddesiyle, bu maddenin birinci birinci fıkrasında
-yer alan “ağır ceza mahkemesi” ibaresi “hâkim” şeklinde, “mahkemenin” ibaresi “hâkimin”
-şeklinde, “mahkeme” ibareleri “hâkim” şeklinde, aynı maddenin dördüncü fıkrasında yer alan
-“mahkeme” ibaresi “hâkim” şeklinde değiştirilmiştir.
-35
-21/2/2014 tarihli ve 6526 sayılı Kanunun 12 nci maddesiyle, bu maddenin beşinci fıkrasında yer
-alan “üç ay” ve “bir defa” ibareleri sırasıyla “iki ay” ve “bir ay” şeklinde değiştirilmiş; mevcut
-altıncı fıkrasının (a) bendinin (5) numaralı alt bendinden sonra gelmek üzere “6. Nitelikli hırsızlık
-(madde 142) ve yağma (madde 148, 149),” alt bendi eklenmiş, diğer alt bentler buna göre teselsül
-ettirilmiş ve yedinci fıkrasının (a) bendinin (10) numaralı alt bendinde yer alan “, fıkra 3” ibaresi
-madde metninden çıkarılmıştır.
-36
-2/12/2014 tarihli ve 6572 sayılı Kanunun 42 nci maddesiyle, bu maddeye beşinci fıkradan sonra
-gelmek üzere (6) numaralı fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiş, mevcut yedinci
-fıkranın (a) bendinin (14) numaralı alt bendi metne işlendiği şekilde değiştirilmiş, bu alt bentten sonra
-gelmek üzere (15) numaralı alt bent eklenmiş ve diğer alt bent buna göre teselsül ettirilmiştir.
-37
-24/11/2016 tarihli ve 6763 sayılı Kanunun 26 ncı maddesiyle, 135 inci maddenin altıncı fıkrasına
-“hâkim” ibaresinden sonra gelmek üzere “veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet
-savcısı” ibaresi eklenmiş; sekizinci fıkrasının (a) bendinin (1) numaralı alt bendine “(madde 79, 80)”
-ibaresinden sonra gelmek üzere “ile organ veya doku ticareti (madde 91)” ibaresi eklenmiş, aynı
-33
 
-Madde 135 – (1) (Değişik: 21/2/2014–6526/12 md.) Bir suç dolayısıyla yapılan
-soruşturma ve kovuşturmada, suç işlendiğine ilişkin somut delillere dayanan kuvvetli şüphe
-sebeplerinin varlığı ve başka suretle delil elde edilmesi imkânının bulunmaması durumunda,
-hâkim veya gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının kararıyla şüpheli
-veya sanığın telekomünikasyon yoluyla iletişimi dinlenebilir, kayda alınabilir ve sinyal
-bilgileri değerlendirilebilir. Cumhuriyet savcısı kararını derhâl hâkimin onayına sunar ve
-hâkim, kararını en geç yirmi dört saat içinde verir. Sürenin dolması veya hâkim tarafından
-aksine karar verilmesi hâlinde tedbir Cumhuriyet savcısı tarafından derhâl kaldırılır.38 (Mülga
-son iki cümle: 24/11/2016-6763/26 md.)
-(2) (Ek: 21/2/2014–6526/12 md.) Talepte bulunulurken hakkında bu madde uyarınca
-tedbir kararı verilecek hattın veya iletişim aracının sahibini ve biliniyorsa kullanıcısını
-gösterir belge veya rapor eklenir.
-(3) Şüpheli veya sanığın tanıklıktan çekinebilecek kişilerle arasındaki iletişimi kayda
-alınamaz. Kayda alma gerçekleştikten sonra bu durumun anlaşılması hâlinde, alınan kayıtlar
-derhâl yok edilir.39
-(4) Birinci fıkra hükmüne göre verilen kararda, yüklenen suçun türü, hakkında tedbir
-uygulanacak kişinin kimliği, iletişim aracının türü, telefon numarası veya iletişim bağlantısını
-tespite imkân veren kodu, tedbirin türü, kapsamı ve süresi belirtilir. Tedbir kararı en çok iki
-ay için verilebilir; bu süre, bir ay daha uzatılabilir. (Ek cümle: 25/5/2005 – 5353/17 md.)
-Ancak, örgütün faaliyeti çerçevesinde işlenen suçlarla ilgili olarak gerekli görülmesi halinde,
-hâkim yukarıdaki sürelere ek olarak her defasında bir aydan fazla olmamak ve toplam üç ayı
-geçmemek üzere uzatılmasına karar verebilir.
-(5) Şüpheli veya sanığın yakalanabilmesi için, mobil telefonun yeri, hâkim veya
-gecikmesinde sakınca bulunan hallerde Cumhuriyet savcısının kararına istinaden tespit edilebilir.
-Bu hususa ilişkin olarak verilen kararda, mobil telefon numarası ve tespit işleminin süresi
-belirtilir. Tespit işlemi en çok iki ay için yapılabilir; bu süre, bir ay daha uzatılabilir.40
-(6) (Ek: 2/12/2014-6572/42 md.) Şüpheli ve sanığın telekomünikasyon yoluyla
-iletişiminin tespiti, soruşturma aşamasında hâkim veya gecikmesinde sakınca bulunan
-hâllerde Cumhuriyet savcısı, kovuşturma aşamasında mahkeme kararına istinaden yapılır.
-Kararda, yüklenen suçun türü, hakkında tedbir uygulanacak kişinin kimliği, iletişim aracının
-türü, telefon numarası veya iletişim bağlantısını tespite imkân veren kodu ve tedbirin süresi
-bendin (6) numaralı alt bendine “(madde 148, 149)” ibaresinden sonra gelmek üzere “ile nitelikli
-dolandırıcılık (madde 158)” ibaresi eklenmiş, aynı bende (11) numaralı alt bendinden sonra gelmek
-üzere (12) numaralı bent eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
-38
-2/12/2014 tarihli ve 6572 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “tespit edilebilir,”
-ibaresi madde metninden çıkarılmıştır.
-39
-25/5/2005 tarihli ve 5353 sayılı Kanunun 17 nci maddesiyle; bu fıkrada geçen "Şüphelinin" ibaresi
-"Şüpheli veya sanığın" olarak değiştirilmiştir.
-40
-25/5/2005 tarihli ve 5353 sayılı Kanunun 17 nci maddesiyle; bu fıkrada geçen "kullanmakta olduğu"
-ve "kullanılan" ibareleri madde metninden çıkarılmıştır.
+### Akademik Yorum ve Analiz
 
-belirtilir. (Ek cümleler: 24/11/2016-6763/26 md.) Cumhuriyet savcısı kararını yirmi dört saat
-içinde hâkimin onayına sunar ve hâkim, kararını en geç yirmi dört saat içinde verir. Sürenin
-dolması veya hâkim tarafından aksine karar verilmesi hâlinde kayıtlar derhâl imha edilir.
-(7) Bu madde hükümlerine göre alınan karar ve yapılan işlemler, tedbir süresince gizli
-tutulur.
-(8) Bu madde kapsamında dinleme, kayda alma ve sinyal bilgilerinin değerlendirilmesine
-ilişkin hükümler ancak aşağıda sayılan suçlarla ilgili olarak uygulanabilir:
-a) Türk Ceza Kanununda yer alan;
-1. Göçmen kaçakçılığı ve insan ticareti (madde 79, 80) ile organ veya doku ticareti
-(madde 91),
-2. Kasten öldürme (madde 81, 82, 83),
-3. İşkence (madde 94, 95),
-4. Cinsel saldırı (birinci fıkra hariç, madde 102),
-5. Çocukların cinsel istismarı (madde 103),
-6. (Ek: 21/2/2014 – 6526/12 md.) Nitelikli hırsızlık (madde 142) ve yağma (madde
-148, 149) ile nitelikli dolandırıcılık (madde 158),
-7. Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188),
-8. Parada sahtecilik (madde 197),
-9. (Mülga: 21/2/2014 – 6526/12 md.; Yeniden düzenleme: 24/11/2016-6763/26 md.)
-Suç işlemek amacıyla örgüt kurma (madde 220, fıkra üç),
-10. (Ek: 25/5/2005 – 5353/17 md.) Fuhuş (madde 227),
-11. İhaleye fesat karıştırma (madde 235),
-12. (Ek: 24/11/2016-6763/26 md.) Tefecilik (madde 241),
-13. Rüşvet (madde 252),
-14. Suçtan kaynaklanan malvarlığı değerlerini aklama (madde 282),
-15. (Değişik: 2/12/2014-6572/42 md.) Devletin birliğini ve ülke bütünlüğünü bozmak
-(madde 302) ,
-16. (Ek: 2/12/2014-6572/42 md.) Anayasal Düzene ve Bu Düzenin İşleyişine Karşı
-Suçlar (madde 309, 311, 312, 313, 314, 315, 316),
-17. Devlet Sırlarına Karşı Suçlar ve Casusluk (madde 328, 329, 330, 331, 333, 334,
-335, 336, 337) suçları.
-b) Ateşli Silahlar ve Bıçaklar ile Diğer Aletler Hakkında Kanunda tanımlanan silah
-kaçakçılığı (madde 12) suçları.
-c) (Ek: 25/5/2005 – 5353/17 md.) Bankalar Kanununun 22 nci maddesinin (3) ve (4)
-numaralı fıkralarında tanımlanan zimmet suçu,41
-d) Kaçakçılıkla Mücadele Kanununda tanımlanan ve hapis cezasını gerektiren suçlar.
-e) Kültür ve Tabiat Varlıklarını Koruma Kanununun 68 ve 74 üncü maddelerinde
-tanımlanan suçlar.
-25/5/2005 tarihli ve 5353 sayılı Kanunun 17 nci maddesiyle (b) bendinden sonra gelmek üzere (c)
-bendi eklenmiş ve diğer bentler buna göre teselsül ettirilmiştir.
-41
+#### 1. Maddenin Sistematiği ve Genel Açıklama
 
-(9) Bu maddede belirlenen esas ve usuller dışında hiç kimse, bir başkasının
-telekomünikasyon yoluyla iletişimini dinleyemez ve kayda alamaz.
+134. madde, dijital çağın en önemli koruma tedbirlerinden biri olan **bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama ve elkoymayı** düzenler. Bugün suç delillerinin büyük bölümü dijital ortamda bulunduğundan, bu tedbir maddî gerçeğe ulaşmada hayatî önem taşır. Ancak dijital cihazlar (bilgisayar, telefon vb.) kişinin en mahrem bilgilerini — yazışmalar, fotoğraflar, sağlık/finans verileri, konum geçmişi — yoğun biçimde barındırdığından, bu tedbir özel hayatın gizliliğine (Anayasa m. 20) ağır müdahale oluşturur. Madde, bu nedenle dijital aramayı **somut delillere dayanan kuvvetli şüphe**, **başka türlü delil elde edememe (ikincillik/son çare)** ve **hâkim güvencesi** gibi sıkı koşullara bağlar.
 
-### Bizim Yorumumuz
+#### 2. Maddedeki Kavramların Analizi
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+##### 2.1. Koşullar ve Hâkim Onayı (Fıkra 1)
+
+Dijital arama için: (i) **somut delillere dayanan kuvvetli şüphe**; (ii) **başka surette delil elde etme imkânının bulunmaması** (ikincillik ilkesi — dijital arama son çaredir). Karar, **hâkim** veya gecikmesinde sakınca bulunan hâllerde **savcı** tarafından verilir; savcı kararı **24 saatte hâkim onayına** sunulur, hâkim 24 saatte karar verir. Onay alınmazsa veya aksine karar verilirse, çıkarılan kopyalar ve metinler **derhâl imha edilir.** Bu, dijital aramada hâkim güvencesini ve hukuka aykırı elde edilen verinin yok edilmesini sağlar.
+
+##### 2.2. Elkoyma — Yalnız Zorunlu Hâlde ve İade (Fıkra 2)
+
+Cihaza **elkoyma**, ancak şifrenin çözülememesi, gizli bilgilere ulaşılamaması ya da **işlemin uzun sürecek olması** hâlinde mümkündür. Kural, cihaza el koymadan yerinde kopyalama; elkoyma istisnadır. Şifre çözülüp kopyalar alınınca, cihazlar **gecikme olmaksızın iade** edilir. Bu, kişinin cihazından (ve dolayısıyla mesleki/özel hayatından) gereksiz yere mahrum bırakılmamasını sağlar.
+
+##### 2.3. Yedekleme ve Şüpheliye Kopya (Fıkra 3-4)
+
+Elkoyma sırasında sistemdeki **bütün verilerin yedeği** alınır; bu yedekten bir **kopya şüpheliye/vekiline verilir** ve tutanağa geçirilir. Bu çok önemli bir güvencedir: Hem verinin bütünlüğü (delilin değiştirilmediğinin denetimi) hem savunmanın aynı veriye erişimi (silahların eşitliği) sağlanır; soruşturma makamının verdiyi seçici kullanması veya manipüle etmesi denetlenebilir kılınır.
+
+##### 2.4. Elkoymadan Kopyalama (Fıkra 5)
+
+Cihaza elkoymaksızın da verilerin tamamı/bir kısmı **kopyalanabilir**; kopya kâğıda yazdırılıp tutanağa kaydedilir. Bu, en az müdahaleci yöntemdir (cihaz kişide kalır, yalnız veri kopyalanır).
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 116-122** — Genel arama; 134 dijital ortama özgü rejim.
+- **CMK m. 123-128** — Elkoyma; dijital elkoymanın özel hâli.
+- **CMK m. 135** — İletişimin denetlenmesi; dijital iletişime müdahalenin diğer türü.
+- **Anayasa m. 20** — Özel hayatın gizliliği ve kişisel verilerin korunması.
+- **AİHS m. 8** — Özel hayata saygı.
+
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Bu maddeye doğrudan ilişkin, doğrulanmış güncel bir Yargıtay (CGK / ilgili Ceza Dairesi) kararı künyesi bu çalışmada temin edilememiştir. Mevcut otomatik tarama altyapısı yalnızca hukuk dairelerini sorgulayabildiğinden ceza dairesi kararlarına erişilememiş; kullanıcı tarafından sağlanan ek karar da bulunmamaktadır. Künye uydurmaktan kaçınmak akademik dürüstlüğün gereğidir.
+
+Uygulamanın yerleşik ilkesi, dijital aramanın hâkim kararına (veya savcı kararının süresinde onaylanmasına) dayanması, imaj/yedek alınıp şüpheliye kopya verilmesi gerektiğidir; bu güvencelere (özellikle yedekleme ve kopya verme) uyulmadan elde edilen dijital delilin güvenilirliği ve hukuka uygunluğu tartışmalı sayılır.
+
+#### 5. Pratik Örnek Olaylar
+
+**Olay 1 (kurmaca senaryo):** Bir suçta, delilin yalnızca şüphelinin bilgisayarında bulunabileceği ve başka türlü elde edilemeyeceği anlaşılır.
+
+*Hukuki analiz:* Somut delile dayanan kuvvetli şüphe ve başka türlü delil elde edilememesi koşuluyla, hâkim kararıyla dijital arama yapılabilir (m. 134/1); yedek alınır ve bir kopya şüpheliye verilir (m. 134/3-4).
+
+**Olay 2 (kurmaca senaryo):** Cihazın şifresi çözülemediğinden yerinde inceleme mümkün değildir.
+
+*Hukuki analiz:* Bu zorunlu hâlde cihaza elkonulabilir (m. 134/2); şifre çözülüp kopyalar alınınca cihaz gecikme olmaksızın iade edilir.
+
+#### 6. Pratik Uygulama Notları
+
+- **Koşul:** Somut delile dayanan kuvvetli şüphe + başka türlü delil elde edilememesi (son çare).
+- **Karar:** Hâkim; acil hâlde savcı (24 saatte onay; yoksa kopyalar imha).
+- **Elkoyma:** Yalnız şifre/gizli bilgi/uzun işlem hâlinde; sonra cihaz derhâl iade.
+- **Yedek + kopya:** Tüm veri yedeklenir; bir kopya şüpheliye verilir (silahların eşitliği).
+
+#### 7. Eleştirel Değerlendirme
+
+134. madde, dijital delillerin hayatî önemi ile dijital cihazların barındırdığı yoğun mahrem veri arasındaki gerilimi, güçlü güvencelerle dengelemeye çalışan, çağdaş ve kritik bir hükümdür. **İkincillik (başka türlü delil elde edememe)** koşulu, dijital aramayı son çare kılarak ölçülülüğü sağlar; hâkim onayı ve onaylanmayan kopyaların imhası, hukuka aykırı veri elde edilmesini engeller. En değerli güvence, kanaatimizce, **tüm verinin yedeklenmesi ve bir kopyasının şüpheliye verilmesidir**: Bu, hem verinin bütünlüğünü (delilin sonradan değiştirilmediğinin denetimini) hem savunmanın aynı veriye erişimini (silahların eşitliği) güvence altına alır. Cihaza elkoymanın istisna tutulması ve iade zorunluluğu da kişiyi cihazından gereksiz mahrumiyetten korur.
+
+Bununla birlikte, kanaatimizce maddenin uygulamadaki en büyük zorluğu, dijital cihazların **devasa ve karışık veri** içermesidir: Bir suç delili ararken, kişinin tüm özel hayatına erişilmesi riski vardır. Bu nedenle, aramanın **somut şüpheyle ilgili veriyle sınırlı** tutulması, ilgisiz mahrem verilerin (sağlık, özel yazışma vb.) gözardı edilmesi ve "genel dijital tarama"ya (fishing expedition) dönüşmemesi büyük önem taşır. Madde, güvenceleriyle güçlü bir koruma sunsa da, dijital aramanın kapsamının orantılı tutulması, uygulamadaki asıl sınavdır.
+
+---
+
+### Metodolojik Not
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin:* Ceza muhakemesi hukuku ve dijital delil öğretisinin genel kabul görmüş yaklaşımlarına atıfsız genel ifadelerle başvurulmuştur; bu kanun için onaylı yazar listesi bulunmadığından spesifik yazar/eser/sayfa atfı yapılmamıştır.
+- *Yargıtay kararları:* Maddeye özgü doğrulanmış güncel karar temin edilememiştir (bkz. § 4); mevcut tarama altyapısı ceza dairelerini kapsamamaktadır. Yedekleme/kopya verme güvencesinin önemi, yerleşik içtihat yaklaşımı olarak atıfsız ifade edilmiştir.
+- *Mevzuat:* 5271 sayılı Ceza Muhakemesi Kanunu m. 134 (2014/6526, 2018/7145 değişiklikleri); sistematik ilişkilerde m. 116-122, m. 123-128, m. 135, Anayasa m. 20, AİHS m. 8.
+
+**Yorumun kapsamı:** Bu çalışma, 5271 sayılı Ceza Muhakemesi Kanunu'nun yürürlükteki metnine dayanır.
+
+**Görüş:** Dijital aramanın ikincillik (son çare) koşuluna, hâkim güvencesine ve özellikle tüm verinin yedeklenip bir kopyasının şüpheliye verilmesine bağlanması; veri bütünlüğünü ve silahların eşitliğini koruyan isabetli güvencelerdir. Asıl sınav, aramanın somut şüpheyle sınırlı tutulup "genel dijital taramaya" dönüşmemesidir.
+
+**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir. Yeni Yargıtay İBK/CGK kararları veya kanun değişiklikleri sonrası revize edilebilir.

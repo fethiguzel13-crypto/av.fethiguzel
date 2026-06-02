@@ -2,7 +2,15 @@
 title: "Ceza Muhakemesi Kanunu Madde 133"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 133
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 700
+keywords:
+  - "şirket yönetimine kayyım"
+  - "kuvvetli şüphe"
+  - "katalog suçlar"
+  - "kayyımın yetkileri"
+  - "ticaret özgürlüğü"
 ---
 
 **Şirket yönetimi için kayyım tayini**
@@ -55,6 +63,76 @@ aleyhine açılır. Devlet, ödediği tazminattan dolayı görevinin gereklerine
 suretiyle görevini kötüye kullanan kayyımlara bir yıl içinde rücu eder.
 Bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+133. madde, bir suçun bir **şirketin faaliyeti çerçevesinde** işlenmesi hâlinde, şirket işlerinin yürütülmesi için **kayyım atanmasını** düzenler. Bu, hem maddî gerçeğin ortaya çıkarılmasına hem suç işlemeye devam edilmesinin/delillerin karartılmasının önlenmesine hizmet eden bir koruma tedbiridir. Şirket, suç işlemenin aracı hâline geldiğinde, mevcut yönetimin işbaşında kalması soruşturmayı engelleyebilir veya suçun sürmesine yol açabilir. Ancak kayyım atanması, ticaret özgürlüğüne ve mülkiyet hakkına ağır bir müdahale oluşturduğundan, madde bunu kuvvetli şüphe, sınırlı katalog suçlar ve yalnız hâkim/mahkeme kararı gibi sıkı güvencelere bağlar.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Koşullar ve Kayyımın Yetkileri (Fıkra 1)
+
+Suçun şirket faaliyeti çerçevesinde işlenmekte olduğu hususunda **kuvvetli şüphe** ve maddî gerçeğin ortaya çıkarılması için **gereklilik** hâlinde, hâkim/mahkeme kayyım atayabilir. Atama kararında kayyımın yetki düzeyi açıkça belirtilir: (i) yönetim organının karar/işlemlerinin **kayyımın onayına** bağlanması (en hafif), (ii) yönetim yetkilerinin **tümüyle kayyıma** verilmesi, ya da (iii) yönetim yetkileriyle birlikte **ortaklık payları/menkul kıymet idare yetkilerinin** kayyıma verilmesi (en ağır). Bu kademeli yetki, ölçülülük ilkesine göre somut ihtiyaca uygun müdahale düzeyinin seçilmesini sağlar. Karar ticaret sicili gazetesinde ilan olunur (üçüncü kişilerin korunması).
+
+##### 2.2. Kayyım Ücreti ve Beraat Hâli (Fıkra 2)
+
+Kayyım ücreti **şirket bütçesinden** karşılanır; ancak **kovuşturmaya yer olmadığı veya beraat** kararı verilirse, ödenen ücretin tamamı **kanunî faiziyle Devlet Hazinesinden** karşılanır. Bu, haksız çıkan tedbirin malî yükünün şirkete bırakılmamasını sağlayan adil bir kuraldır.
+
+##### 2.3. İtiraz, Katalog Suçlar ve Tazminat (Fıkra 3-5)
+
+İlgililer kayyımın işlemlerine karşı MK/TTK hükümlerine göre **görevli mahkemeye başvurabilir.** Bu madde yalnız sayılan **katalog suçlarda** (insan ticareti, uyuşturucu, parada sahtecilik, fuhuş, zimmet, aklama, silahlı örgüt, casusluk vb.) uygulanır (sınırlılık). Kayyımların iş/işlemlerinden doğan **tazminat davaları Devlet aleyhine** açılır; Devlet, görevini kötüye kullanan kayyıma rücu eder. (Maddenin sonundaki "Bilgisayarlarda... arama, kopyalama" ibaresi, izleyen maddenin başlığının başlangıcıdır.)
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 128/10** — Malvarlığına elkoymada kayyım; 133 kıyasen uygulanır.
+- **CMK m. 142-144** — Tazminat; kayyım tazminatının Devlet aleyhine açılması.
+- **TTK / MK** — Şirketler hukuku ve kayyımlık; itiraz mercii.
+- **Anayasa m. 35, m. 48** — Mülkiyet ve teşebbüs (ticaret) özgürlüğü.
+
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Bu maddeye doğrudan ilişkin, doğrulanmış güncel bir Yargıtay (CGK / ilgili Ceza Dairesi) kararı künyesi bu çalışmada temin edilememiştir. Mevcut otomatik tarama altyapısı yalnızca hukuk dairelerini sorgulayabildiğinden ceza dairesi kararlarına erişilememiş; kullanıcı tarafından sağlanan ek karar da bulunmamaktadır. Künye uydurmaktan kaçınmak akademik dürüstlüğün gereğidir.
+
+Uygulamada, şirket kayyımının yalnız katalog suçlarda, kuvvetli şüpheyle ve gereklilik koşuluyla, hâkim/mahkeme kararıyla atanması; yetki düzeyinin ölçülü belirlenmesi esastır.
+
+#### 5. Pratik Örnek Olaylar
+
+**Olay 1 (kurmaca senaryo):** Bir şirketin faaliyeti çerçevesinde suçtan kaynaklanan malvarlığının aklandığına (katalog suç) dair kuvvetli şüphe vardır ve maddî gerçeğin ortaya çıkarılması için yönetimin denetlenmesi gerekir.
+
+*Hukuki analiz:* Hâkim/mahkeme, somut ihtiyaca göre (örneğin işlemleri onayına bağlayarak) kayyım atayabilir (m. 133/1); karar ticaret sicili gazetesinde ilan edilir.
+
+**Olay 2 (kurmaca senaryo):** Kayyım atanan şirketin sahibi sonradan beraat eder.
+
+*Hukuki analiz:* Şirket bütçesinden ödenen kayyım ücretinin tamamı, kanunî faiziyle Devlet Hazinesinden karşılanır (m. 133/2).
+
+#### 6. Pratik Uygulama Notları
+
+- **Koşul:** Suçun şirket faaliyetinde işlenmesine dair kuvvetli şüphe + gereklilik.
+- **Yetki düzeyi:** Onaya bağlama / tüm yönetim / yönetim+pay yetkileri (kademeli).
+- **Suçlar:** Yalnız sayılan katalog suçlar; karar hâkim/mahkemeye ait.
+- **Beraat:** Ücret faiziyle Hazineden karşılanır; tazminat Devlet aleyhine.
+
+#### 7. Eleştirel Değerlendirme
+
+133. madde, şirketin suç aracına dönüştüğü hâllerde maddî gerçeğe ulaşmayı ve suçun sürmesini önlemeyi sağlayan, ancak ticaret özgürlüğüne ağır müdahalesi nedeniyle sıkı güvencelere bağlanan bir tedbirdir. Kademeli yetki düzeyi (onaya bağlamadan tam devire), ölçülülük ilkesine göre somut ihtiyaca uygun müdahale seçimini mümkün kılması bakımından isabetlidir; katalog suçlarla sınırlama ve yalnız hâkim/mahkeme kararı da keyfîliği önler. Beraat hâlinde ücretin Hazineden karşılanması ve tazminatın Devlet aleyhine açılması, haksız tedbirin yükünü şirkete bırakmayan adil çözümlerdir.
+
+Kanaatimizce maddenin hassas noktası, kayyım atamasının bir şirketin faaliyetini ve dolayısıyla pek çok kişinin (çalışanlar, ortaklar, alacaklılar) menfaatini etkileyebilmesidir; bu nedenle "gereklilik" koşulu titizlikle aranmalı ve en az kısıtlayıcı yetki düzeyi (mümkünse yalnız onaya bağlama) tercih edilmelidir. Madde, doğru ve ölçülü uygulandığında suçla mücadeleye hizmet eder; gevşek uygulandığında ise meşru ticari faaliyeti felç etme riski taşır.
+
+---
+
+### Metodolojik Not
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin:* Ceza muhakemesi hukuku öğretisinin genel kabul görmüş yaklaşımlarına atıfsız genel ifadelerle başvurulmuştur; bu kanun için onaylı yazar listesi bulunmadığından spesifik yazar/eser/sayfa atfı yapılmamıştır.
+- *Yargıtay kararları:* Maddeye özgü doğrulanmış güncel karar temin edilememiştir (bkz. § 4); mevcut tarama altyapısı ceza dairelerini kapsamamaktadır.
+- *Mevzuat:* 5271 sayılı Ceza Muhakemesi Kanunu m. 133 (2016/6723 değişikliği dâhil); sistematik ilişkilerde m. 128/10, m. 142-144, TTK ve MK ilgili hükümleri, Anayasa m. 35 ve m. 48.
+
+**Yorumun kapsamı:** Bu çalışma, 5271 sayılı Ceza Muhakemesi Kanunu'nun yürürlükteki metnine dayanır.
+
+**Görüş:** Şirket kayyımının kademeli yetki düzeyi, katalog suç sınırı ve yalnız hâkim/mahkeme kararıyla atanması; suçla mücadele ile ticaret özgürlüğünü dengeleyen isabetli güvencelerdir. "Gereklilik" titizlikle aranmalı, en az kısıtlayıcı yetki düzeyi tercih edilmelidir.
+
+**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir. Yeni Yargıtay İBK/CGK kararları veya kanun değişiklikleri sonrası revize edilebilir.
