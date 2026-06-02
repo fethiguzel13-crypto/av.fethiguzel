@@ -2,7 +2,15 @@
 title: "Ceza Muhakemesi Kanunu Madde 173"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 173
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-06-01"
+wordCount: 700
+keywords:
+  - "KYOK'a itiraz"
+  - "suçtan zarar gören"
+  - "sulh ceza hâkimliği"
+  - "soruşturmanın denetimi"
+  - "iki hafta"
 ---
 
 **Cumhuriyet savcısının kararına itiraz6768**
@@ -47,6 +55,76 @@ bulunduğu yerdeki sulh ceza hâkimliğine” şeklinde; dördüncü fıkrasınd
 İtirazın reddedilmesi halinde aynı fiilden dolayı kamu davası açılabilmesi için 172 nci
 maddenin ikinci fıkrası uygulanır.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+173. madde, savcının verdiği **kovuşturmaya yer olmadığı (KYOK)** kararına karşı **suçtan zarar görenin itirazını** düzenler. KYOK, savcının kamu davası açmama kararıdır; ancak savcı tek başına ve denetimsiz biçimde dava açmama yetkisine sahip olsaydı, bu cezasızlığa ve mağdurun adalete erişiminin engellenmesine yol açabilirdi. Madde, suçtan zarar görene KYOK'u **yargısal denetime taşıma** (sulh ceza hâkimliğine itiraz) hakkı tanıyarak, savcının dava açmama kararının bağımsız bir merci tarafından gözden geçirilmesini sağlar. Bu, hem mağdurun adalete erişim hakkının hem savcılık kararlarının denetlenebilirliğinin güvencesidir.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. İtiraz Hakkı ve Süresi (Fıkra 1-2)
+
+**Suçtan zarar gören**, KYOK'un tebliğinden itibaren **iki hafta** içinde, ilgili **sulh ceza hâkimliğine** itiraz edebilir. İtiraz dilekçesinde, kamu davasının açılmasını gerektirebilecek **olaylar ve deliller** belirtilir. Böylece KYOK'a karşı, mağdurun başvurabileceği bir yargısal denetim yolu açılır.
+
+##### 2.2. Hâkimliğin İncelemesi ve Kararı (Fıkra 3-4)
+
+Sulh ceza hâkimliği, gerekirse **soruşturmanın genişletilmesini** isteyebilir. Kamu davası açmaya yeterli neden yoksa istemi **gerekçeli reddeder** (itiraz edeni giderlere mahkûm eder). İstemi **yerinde bulursa**, savcı **iddianame düzenleyerek** mahkemeye verir; yani hâkimliğin kararı savcıyı dava açmaya yöneltir. Bu, savcının dava açmama kararı üzerinde yargısal bir denetim ve düzeltme mekanizmasıdır.
+
+##### 2.3. Takdir Yetkisi ve Yeniden Dava (Fıkra 5-6)
+
+Savcının **takdir yetkisini kullandığı** hâllerde (m. 171 KDAE) bu madde uygulanmaz (KDAE'nin kendi itiraz rejimi vardır). İtirazın reddi hâlinde, aynı fiilden dava açılabilmesi için m. 172/2 (yeni delil) uygulanır.
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 172** — KYOK; 173 buna itirazı düzenler.
+- **CMK m. 171/2** — KDAE; kendi itiraz rejimi (173 uygulanmaz — m. 173/5).
+- **CMK m. 170** — İddianame; itiraz kabul edilirse savcı düzenler.
+- **Anayasa m. 36** — Adalete erişim/hak arama hürriyeti; AİHS m. 13 etkili başvuru.
+
+#### 4. Uygulama: Yargıtay İçtihadı
+
+Bu maddeye doğrudan ilişkin, doğrulanmış güncel bir Yargıtay (CGK / ilgili Ceza Dairesi) kararı künyesi bu çalışmada temin edilememiştir. Mevcut otomatik tarama altyapısı yalnızca hukuk dairelerini sorgulayabildiğinden ceza dairesi kararlarına erişilememiş; kullanıcı tarafından sağlanan ek karar da bulunmamaktadır. Künye uydurmaktan kaçınmak akademik dürüstlüğün gereğidir.
+
+Uygulamada, KYOK'a itirazın suçtan zarar görenin adalete erişim hakkının önemli bir güvencesi olduğu; sulh ceza hâkimliğinin gerçek bir inceleme yaparak (gerekirse soruşturmayı genişleterek) karar vermesi gerektiği esastır.
+
+#### 5. Pratik Örnek Olaylar
+
+**Olay 1 (kurmaca senaryo):** Suçtan zarar gören, hakkında KYOK verilen olayda aslında yeterli delil bulunduğunu düşünür.
+
+*Hukuki analiz:* Tebliğden itibaren iki hafta içinde sulh ceza hâkimliğine itiraz edebilir; dilekçede dava açılmasını gerektiren olay ve delilleri belirtir (m. 173/1-2); hâkimlik yerinde bulursa savcı iddianame düzenler.
+
+**Olay 2 (kurmaca senaryo):** Sulh ceza hâkimliği, karar için soruşturmanın genişletilmesi gerektiğini görür.
+
+*Hukuki analiz:* Hâkimlik, bunu açıkça belirterek başsavcılıktan soruşturmanın genişletilmesini isteyebilir (m. 173/3).
+
+#### 6. Pratik Uygulama Notları
+
+- **İtiraz:** Suçtan zarar gören, KYOK tebliğinden 2 hafta içinde sulh ceza hâkimliğine.
+- **İçerik:** Dava açmayı gerektiren olay ve deliller.
+- **Sonuç:** Yerinde bulunursa savcı iddianame düzenler; reddedilirse giderlere mahkûmiyet.
+- **İstisna:** Savcının takdir yetkisi (KDAE) hâllerinde 173 uygulanmaz.
+
+#### 7. Eleştirel Değerlendirme
+
+173. madde, savcının KYOK kararını **yargısal denetime** açarak, hem suçtan zarar görenin adalete erişim hakkını hem savcılık kararlarının denetlenebilirliğini güvence altına alan, hukuk devletinin önemli bir hükmüdür. Savcı denetimsiz bir dava açmama yetkisine sahip olsaydı, bu cezasızlık ve mağdurun korunmasızlığı riski doğururdu; itiraz yolu, bu riski bağımsız bir yargısal merci (sulh ceza hâkimliği) eliyle dengeler. Hâkimliğin **soruşturmayı genişletme** ve **savcıyı iddianame düzenlemeye yöneltme** yetkisi, denetimin gerçek ve etkili olmasını sağlar.
+
+Kanaatimizce maddenin uygulamadaki gerçek değeri, sulh ceza hâkimliğinin itirazı **gerçek bir incelemeye** tabi tutmasına bağlıdır; itirazın şablon biçimde reddedilmesi, bu denetimi içi boş bir formaliteye dönüştürür ve mağdurun adalete erişimini fiilen engeller. AİHM içtihadında, özellikle yaşam hakkı/işkence gibi konularda KYOK'a karşı etkili bir denetim yolunun bulunması, etkili başvuru hakkının (AİHS m. 13) gereğidir. Madde, bu denetimin etkili işlemesi koşuluyla, savcının takdir alanı ile mağdur haklarının korunması arasında dengeli bir çözüm sunar.
+
+---
+
+### Metodolojik Not
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
+
+**Kullanılan kaynaklar:**
+
+- *Doktrin:* Ceza muhakemesi hukuku öğretisinin genel kabul görmüş yaklaşımlarına (adalete erişim, etkili başvuru) atıfsız genel ifadelerle başvurulmuştur; bu kanun için onaylı yazar listesi bulunmadığından spesifik yazar/eser/sayfa atfı yapılmamıştır.
+- *Yargıtay kararları:* Maddeye özgü doğrulanmış güncel karar temin edilememiştir (bkz. § 4); mevcut tarama altyapısı ceza dairelerini kapsamamaktadır. KYOK'a karşı etkili denetim yolunun önemi, AİHM içtihadının (m. 13) yerleşik ilkesi olarak atıfsız ifade edilmiştir.
+- *Mevzuat:* 5271 sayılı Ceza Muhakemesi Kanunu m. 173 (2005/5353, 2011/6217, 2014/6545, 2017/KHK-680, 2024/7499 değişiklikleri dâhil); sistematik ilişkilerde m. 170, m. 171/2, m. 172, Anayasa m. 36, AİHS m. 13.
+
+**Yorumun kapsamı:** Bu çalışma, 5271 sayılı Ceza Muhakemesi Kanunu'nun yürürlükteki metnine dayanır.
+
+**Görüş:** KYOK'a karşı suçtan zarar görenin sulh ceza hâkimliğine itirazı; savcının dava açmama kararını yargısal denetime açan, mağdurun adalete erişimini ve savcılık kararlarının denetlenebilirliğini koruyan kritik bir güvencedir. Etkinliği, itirazın gerçek bir incelemeye tabi tutulmasına bağlıdır.
+
+**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir. Yeni Yargıtay İBK/CGK kararları veya kanun değişiklikleri sonrası revize edilebilir.
