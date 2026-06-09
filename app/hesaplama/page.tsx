@@ -1,10 +1,10 @@
 "use client";
 
-import React, { useState, useMemo } from "react";
+import React, { useState, useMemo, useEffect } from "react";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
-import { ChevronDown, ChevronUp, Info } from "lucide-react";
+import { ChevronDown, ChevronUp, Info, Copy, Check, Search, Printer } from "lucide-react";
 
 // ─── YARDIMCI ─────────────────────────────────────────────────────────────────
 
@@ -31,10 +31,23 @@ function daysBetween(a: Date, b: Date) {
 
 // ─── KART SARMALAYICI ──────────────────────────────────────────────────────────
 
+// Açık kartın başlığını, içindeki Result bileşenlerinin "Kopyala" çıktısına taşır.
+const KartBaslikContext = React.createContext<string>("Hesaplama Sonucu");
+
 function Card({ id, icon, title, tag, children }: {
   id: string; icon: string; title: string; tag: string; children: React.ReactNode;
 }) {
   const [open, setOpen] = useState(false);
+
+  // /hesaplama#araç-id ile paylaşılan bağlantıda ilgili kartı otomatik aç ve kaydır
+  useEffect(() => {
+    if (typeof window !== "undefined" && window.location.hash === `#${id}`) {
+      setOpen(true);
+      window.requestAnimationFrame(() => {
+        document.getElementById(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
+      });
+    }
+  }, [id]);
   const TAG_COLORS: Record<string, string> = {
     "İş Hukuku": "bg-blue-50 text-blue-700",
     "Aile Hukuku": "bg-pink-50 text-pink-700",
@@ -46,6 +59,7 @@ function Card({ id, icon, title, tag, children }: {
     "Usul": "bg-amber-50 text-amber-700",
     "Analiz": "bg-teal-50 text-teal-700",
     "Ceza İnfaz": "bg-rose-50 text-rose-700",
+    "Vergi": "bg-yellow-50 text-yellow-700",
   };
   return (
     <div id={id} className="bg-white border border-charcoal/6 rounded-2xl sm:rounded-[2rem] overflow-hidden shadow-sm">
@@ -66,28 +80,111 @@ function Card({ id, icon, title, tag, children }: {
       </button>
       {open && (
         <div className="px-4 sm:px-6 pb-5 sm:pb-7 border-t border-charcoal/5 pt-4 sm:pt-6">
-          {children}
+          <KartBaslikContext.Provider value={title}>
+            {children}
+          </KartBaslikContext.Provider>
         </div>
       )}
     </div>
   );
 }
 
+// label, input'u sarmalar → ekran okuyucu uyumu + etikete tıklayınca alan odaklanır
 function Field({ label, children }: { label: string; children: React.ReactNode }) {
   return (
-    <div className="flex flex-col gap-1.5">
-      <label className="text-[11px] font-bold text-charcoal/50 uppercase tracking-wider">{label}</label>
+    <label className="flex flex-col gap-1.5">
+      <span className="text-[11px] font-bold text-charcoal/50 uppercase tracking-wider">{label}</span>
       {children}
-    </div>
+    </label>
   );
 }
 
 const inp = "w-full border border-charcoal/15 rounded-xl px-3 sm:px-4 py-2.5 text-charcoal text-sm focus:outline-none focus:border-accent transition-colors bg-cream/60";
 const sel = inp + " cursor-pointer";
 
-function Result({ rows, note }: { rows: [string, string][]; note?: string }) {
+// ─── BİNLİK AYRAÇLI PARA GİRİŞİ ───────────────────────────────────────────────
+// Ham değeri (nokta ondalıklı: "33030.25") saklar, ekranda tr-TR gruplar ("33.030,25").
+// Böylece tüm hesaplayıcıların mevcut parse mantığı (nokta ondalık) korunur.
+function paraGrupla(ham: string): string {
+  if (!ham) return "";
+  const temiz = ham.replace(/[^\d.]/g, "");
+  const parcalar = temiz.split(".");
+  const tam = parcalar[0] ?? "";
+  const tamGr = tam.replace(/\B(?=(\d{3})+(?!\d))/g, ".");
+  return parcalar.length > 1 ? `${tamGr},${parcalar.slice(1).join("")}` : tamGr;
+}
+function MoneyInput({ value, onChange, placeholder }: { value: string; onChange: (v: string) => void; placeholder?: string }) {
+  return (
+    <input
+      type="text"
+      inputMode="decimal"
+      value={paraGrupla(value)}
+      placeholder={placeholder}
+      onChange={e => onChange(e.target.value.replace(/\./g, "").replace(",", ".").replace(/[^\d.]/g, ""))}
+      className={inp}
+    />
+  );
+}
+
+function Result({ rows, note, baslik }: { rows: [string, string][]; note?: string; baslik?: string }) {
+  const kartBaslik = React.useContext(KartBaslikContext);
+  const [kopyalandi, setKopyalandi] = useState(false);
+  const kopyala = async () => {
+    const metin = [
+      baslik ?? kartBaslik,
+      "─────────────────────────",
+      ...rows.map(([k, v]) => `${k}: ${v}`),
+      note ? `\nNot: ${note}` : "",
+      "\nKaynak: Av. Fethi Güzel — Hukuki Hesaplama Araçları (bilgi amaçlıdır)",
+    ].filter(Boolean).join("\n");
+    try {
+      await navigator.clipboard?.writeText(metin);
+      setKopyalandi(true);
+      window.setTimeout(() => setKopyalandi(false), 2000);
+    } catch {
+      /* pano erişimi yoksa sessizce geç */
+    }
+  };
+  const yazdir = () => {
+    const satirlar = rows.map(([k, v]) => `<tr><td style="padding:5px 16px 5px 0;color:#555;vertical-align:top">${k}</td><td style="padding:5px 0;font-weight:700;text-align:right">${v}</td></tr>`).join("");
+    const baslikMetin = baslik ?? kartBaslik;
+    const html = `<!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${baslikMetin}</title></head>`
+      + `<body style="font-family:system-ui,'Segoe UI',Arial,sans-serif;max-width:640px;margin:32px auto;padding:0 20px;color:#1a1a1a">`
+      + `<h2 style="font-size:18px;margin:0 0 2px">${baslikMetin}</h2>`
+      + `<div style="font-size:12px;color:#999;margin-bottom:18px;border-bottom:1px solid #eee;padding-bottom:10px">Av. Fethi Güzel — Hukuki Hesaplama Araçları</div>`
+      + `<table style="width:100%;border-collapse:collapse;font-size:14px">${satirlar}</table>`
+      + (note ? `<p style="font-size:11px;color:#666;margin-top:18px;line-height:1.6">${note}</p>` : "")
+      + `<p style="font-size:10px;color:#bbb;margin-top:28px">Bu çıktı bilgi amaçlıdır · Kesin sonuç için avukatınıza danışın</p>`
+      + `</body></html>`;
+    const w = window.open("", "_blank", "width=720,height=840");
+    if (!w) return;
+    w.document.write(html);
+    w.document.close();
+    w.focus();
+    w.setTimeout(() => w.print(), 300);
+  };
   return (
     <div className="mt-5 bg-primary/5 border border-primary/10 rounded-xl sm:rounded-2xl p-4 sm:p-5">
+      {rows.length > 0 && (
+        <div className="flex justify-end gap-3 -mt-1 mb-1.5">
+          <button
+            type="button"
+            onClick={kopyala}
+            aria-label="Sonucu panoya kopyala"
+            className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-charcoal/40 hover:text-accent transition-colors"
+          >
+            {kopyalandi ? <><Check size={12} /> Kopyalandı</> : <><Copy size={12} /> Kopyala</>}
+          </button>
+          <button
+            type="button"
+            onClick={yazdir}
+            aria-label="Sonucu yazdır veya PDF olarak kaydet"
+            className="inline-flex items-center gap-1 text-[10px] font-bold uppercase tracking-wider text-charcoal/40 hover:text-accent transition-colors"
+          >
+            <Printer size={12} /> Yazdır
+          </button>
+        </div>
+      )}
       <div className="divide-y divide-charcoal/8">
         {rows.map(([k, v]) => (
           <div key={k} className="flex flex-col sm:flex-row sm:justify-between sm:items-center py-2.5 first:pt-0 last:pb-0 gap-0.5 sm:gap-3">
@@ -169,22 +266,22 @@ function KidemIhbarTazminati() {
         <input type="date" value={bitis} onChange={e => setBitis(e.target.value)} className={inp} />
       </Field>
       <Field label="Aylık Brüt Maaş (TL)">
-        <input type="text" value={maas} onChange={e => setMaas(e.target.value)} placeholder="60.000" className={inp} />
+        <MoneyInput value={maas} onChange={setMaas} placeholder="60.000" />
       </Field>
       <Field label="Aylık Brüt Yemek ve Yol (TL)">
-        <input type="text" value={yemekYol} onChange={e => setYemekYol(e.target.value)} className={inp} />
+        <MoneyInput value={yemekYol} onChange={setYemekYol} />
       </Field>
       <Field label="Yıllık Brüt İkramiye (TL)">
-        <input type="text" value={ikramiye} onChange={e => setIkramiye(e.target.value)} className={inp} />
+        <MoneyInput value={ikramiye} onChange={setIkramiye} />
       </Field>
       <Field label="Diğer Yıllık Brüt Kazanç (TL)">
-        <input type="text" value={digerYillik} onChange={e => setDigerYillik(e.target.value)} className={inp} />
+        <MoneyInput value={digerYillik} onChange={setDigerYillik} />
       </Field>
       <Field label="Kümüle Gelir Vergisi Matrahı (TL)">
-        <input type="text" value={kumulatifMatrah} onChange={e => setKumulatifMatrah(e.target.value)} placeholder="İhbar gelir vergisi için" className={inp} />
+        <MoneyInput value={kumulatifMatrah} onChange={setKumulatifMatrah} placeholder="İhbar gelir vergisi için" />
       </Field>
       <Field label="Kıdem Tavanı (TL) — opsiyonel">
-        <input type="text" value={ozelTavan} onChange={e => setOzelTavan(e.target.value)} placeholder={`Varsayılan: ${fmt(TAVAN_2026_I)} (2026/I)`} className={inp} />
+        <MoneyInput value={ozelTavan} onChange={setOzelTavan} placeholder={`Varsayılan: ${fmt(TAVAN_2026_I)} (2026/I)`} />
       </Field>
 
       {result ? (
@@ -210,7 +307,7 @@ function KidemIhbarTazminati() {
                 ["Damga Vergisi (‰7,59)", `− ${fmt(result.damgaKidem)} TL`],
                 ["Net Kıdem Tazminatı", `${fmt(result.netKidem)} TL`],
               ]}
-              note="2026/I dönemi (01.01–30.06.2026) kıdem tavanı 64.948,77 TL'dir; giydirilmiş aylık ücret tavanı aşarsa hesap tavandan yapılır. Her tam yıl için 30 günlük giydirilmiş ücret + artan süre için kıst hesap. Kıdem tazminatından yalnızca damga vergisi (‰7,59) kesilir; SGK primi ve gelir vergisi kesilmez."
+              note="2026/I dönemi (01.01–30.06.2026) kıdem tavanı 64.948,77 TL'dir; giydirilmiş aylık ücret tavanı aşarsa hesap tavandan yapılır. Tavan her 6 ayda güncellenir: 01.07.2026'dan itibaren 2026/II dönemi tavanı açıklandığında üstteki 'Kıdem Tavanı' alanına güncel tutarı girin. Her tam yıl için 30 günlük giydirilmiş ücret + artan süre için kıst hesap. Kıdem tazminatından yalnızca damga vergisi (‰7,59) kesilir; SGK primi ve gelir vergisi kesilmez."
             />
           </div>
           <div>
@@ -356,7 +453,7 @@ function FazlaMesai() {
         <input type="number" min="0" step="0.5" value={fiiliSaat} onChange={e => setFiiliSaat(e.target.value)} className={inp} />
       </Field>
       <Field label="Aylık Brüt Maaş (TL)">
-        <input type="text" value={aylikBrut} onChange={e => setAylikBrut(e.target.value)} className={inp} />
+        <MoneyInput value={aylikBrut} onChange={setAylikBrut} />
       </Field>
       <Field label="Sadece Tanık Beyanına mı Dayanıyor?">
         <select value={tanikIndirim} onChange={e => setTanikIndirim(e.target.value as "hayir" | "evet")} className={sel}>
@@ -463,11 +560,11 @@ function YillikIzin() {
         </select>
       </Field>
       <Field label={mod === "net" ? "Aylık Net Maaş (TL)" : "Aylık Brüt Maaş (TL)"}>
-        <input type="text" value={maas} onChange={e => setMaas(e.target.value)} placeholder="Son çalışma ayı" className={inp} />
+        <MoneyInput value={maas} onChange={setMaas} placeholder="Son çalışma ayı" />
       </Field>
       {mod === "brut" && (
         <Field label="Kümüle Gelir Vergisi Matrahı (TL)">
-          <input type="text" value={kumulatifMatrah} onChange={e => setKumulatifMatrah(e.target.value)} className={inp} />
+          <MoneyInput value={kumulatifMatrah} onChange={setKumulatifMatrah} />
         </Field>
       )}
 
@@ -567,7 +664,7 @@ function SmmHesaplama() {
         </select>
       </Field>
       <Field label={inputLabel}>
-        <input type="text" value={tutar} onChange={e => setTutar(e.target.value)} className={inp} />
+        <MoneyInput value={tutar} onChange={setTutar} />
       </Field>
       <Field label="G.V. Stopaj (Tevkifat) Oranı">
         <select value={stopajOran} onChange={e => setStopajOran(e.target.value)} className={sel}>
@@ -707,7 +804,7 @@ function NafakaArtisi() {
         </select>
       </Field>
       <Field label="Mevcut Aylık Nafaka (₺)">
-        <input type="text" value={mevcutNafaka} onChange={e => setMevcutNafaka(e.target.value)} className={inp} />
+        <MoneyInput value={mevcutNafaka} onChange={setMevcutNafaka} />
       </Field>
       <Field label="Artış Oranı Türü">
         <select value={oranTuru} onChange={e => setOranTuru(e.target.value as "tufe" | "ufe" | "ortalama" | "ozel")} className={sel}>
@@ -749,16 +846,16 @@ function NafakaArtisi() {
         <input type="date" value={kararTarihi} onChange={e => setKararTarihi(e.target.value)} className={inp} />
       </Field>
       <Field label="Başlangıçtaki Nafaka (₺) (ops.)">
-        <input type="text" value={baslangicNafaka} onChange={e => setBaslangicNafaka(e.target.value)} className={inp} />
+        <MoneyInput value={baslangicNafaka} onChange={setBaslangicNafaka} />
       </Field>
       <Field label="Çocuk Sayısı">
         <input type="number" min="0" value={cocuk} onChange={e => setCocuk(e.target.value)} className={inp} />
       </Field>
       <Field label="Aylık Toplam Masraflarınız (₺) (ops.)">
-        <input type="text" value={aylikMasraf} onChange={e => setAylikMasraf(e.target.value)} className={inp} />
+        <MoneyInput value={aylikMasraf} onChange={setAylikMasraf} />
       </Field>
       <Field label="Borçlunun Tahmini Aylık Geliri (₺) (ops.)">
-        <input type="text" value={borcluGelir} onChange={e => setBorcluGelir(e.target.value)} className={inp} />
+        <MoneyInput value={borcluGelir} onChange={setBorcluGelir} />
       </Field>
 
       <div className="col-span-full">
@@ -899,7 +996,7 @@ function FaizHesaplama() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="Anapara (TL)">
-        <input type="text" value={anapara} onChange={e => setAnapara(e.target.value)} className={inp} />
+        <MoneyInput value={anapara} onChange={setAnapara} />
       </Field>
       <Field label="Faiz Oranı">
         <select value={oranIdx} onChange={e => setOranIdx(parseInt(e.target.value))} className={sel}>
@@ -935,7 +1032,7 @@ function FaizHesaplama() {
               ["Faiz Miktarı", `${fmt(result.faizMiktari)} TL`],
               ["Anapara + Faiz", `${fmt(result.toplam)} TL`],
             ]}
-            note="3095 sayılı Kanun md.1 uyarınca yasal faiz oranı 2024'ten itibaren %24'tür. Ticari işlerde TCMB'nin kısa vadeli avans faiz oranı (2026: %49,25) esas alınabilir ve bu oran yıl içinde güncellenebilir. Değişken dönemli faiz için her dönemi ayrı hesaplayın."
+            note="3095 sayılı Kanun md.1 uyarınca yasal (kanuni) faiz uygulanır; ticari işlerde TCMB kısa vadeli avans faiz oranı esas alınabilir. Faiz oranları TCMB / Resmî Gazete ile yıl içinde değişebildiğinden, listedeki oranları işlem tarihinize göre TEYİT EDİN; gerekiyorsa 'Özel oran' seçeneğiyle güncel oranı elle girin. Oranın değiştiği (değişken dönemli) alacaklarda her dönemi ayrı hesaplayıp toplayın. Bileşik (mürekkep) faiz kural olarak yasaktır; yalnızca kanunen izin verilen hâllerde (örn. TTK kapsamı) kullanın. ⚠️ AYM'nin 22.07.2025 tarihli E.2024/24, K.2025/164 sayılı kararıyla, sözleşmeden doğmayan borçlarda (haksız fiil, sebepsiz zenginleşme) %24 yasal faiz hükmü iptal edilmiş olup karar 01.09.2026'da yürürlüğe girer; bu tarihten sonra sözleşme dışı alacaklarda uygulanacak oranı güncel düzenlemeden kontrol edin."
           />
         </div>
       ) : (
@@ -1020,7 +1117,7 @@ function KiraArtis() {
         </Field>
       )}
       <Field label="Mevcut Kira Tutarı (TL)">
-        <input type="text" value={mevcutKira} onChange={e => setMevcutKira(e.target.value)} className={inp} />
+        <MoneyInput value={mevcutKira} onChange={setMevcutKira} />
       </Field>
 
       <div className="md:col-span-2">
@@ -1109,13 +1206,13 @@ function AracDegerKaybi() {
         </select>
       </Field>
       <Field label="Araç Rayiç (Kasko) Değeri (TL)">
-        <input type="text" value={rayicDeger} onChange={e => setRayicDeger(e.target.value)} className={inp} />
+        <MoneyInput value={rayicDeger} onChange={setRayicDeger} />
       </Field>
       <Field label="Onarım / Hasar Tutarı (TL)">
-        <input type="text" value={hasarBedeli} onChange={e => setHasarBedeli(e.target.value)} className={inp} />
+        <MoneyInput value={hasarBedeli} onChange={setHasarBedeli} />
       </Field>
       <Field label="Kaza Anındaki Kilometre">
-        <input type="text" value={km} onChange={e => setKm(e.target.value)} className={inp} />
+        <MoneyInput value={km} onChange={setKm} />
       </Field>
       <Field label="Araç Yaşı">
         <input type="number" min="0" value={yas} onChange={e => setYas(e.target.value)} className={inp} />
@@ -1147,22 +1244,26 @@ function AracDegerKaybi() {
 // ─── 11. TAPU HARCI ───────────────────────────────────────────────────────────
 
 function TapuHarci() {
-  const DONER_2026 = 2534; // 2026 döner sermaye (tapu) hizmet bedeli — yıllık güncellenir (yaklaşık)
   const [deger, setDeger] = useState("3000000");
+  const [donerSermaye, setDonerSermaye] = useState("2534"); // 2026 döner sermaye taban (yaklaşık) — şehir/işleme göre değişir, düzenlenebilir
 
   const result = useMemo(() => {
     const d = parseFloat(deger.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const ds = parseFloat(donerSermaye.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     const alici = d * 0.02;
     const satici = d * 0.02;
     const toplamHarc = alici + satici;
-    const toplam = toplamHarc + DONER_2026;
-    return { alici, satici, toplamHarc, toplam };
-  }, [deger]);
+    const toplam = toplamHarc + ds;
+    return { alici, satici, toplamHarc, toplam, ds };
+  }, [deger, donerSermaye]);
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="Beyan Edilen Satış Bedeli (TL)">
-        <input type="text" value={deger} onChange={e => setDeger(e.target.value)} className={inp} />
+        <MoneyInput value={deger} onChange={setDeger} />
+      </Field>
+      <Field label="Döner Sermaye Bedeli (TL) — düzenlenebilir">
+        <MoneyInput value={donerSermaye} onChange={setDonerSermaye} />
       </Field>
       <div className="col-span-full">
         <Result
@@ -1170,10 +1271,10 @@ function TapuHarci() {
             ["Alıcı Tapu Harcı (%2)", `${fmt(result.alici)} TL`],
             ["Satıcı Tapu Harcı (%2)", `${fmt(result.satici)} TL`],
             ["Toplam Tapu Harcı (%4)", `${fmt(result.toplamHarc)} TL`],
-            ["Döner Sermaye Hizmet Bedeli (sabit)", `${fmt(DONER_2026)} TL`],
+            ["Döner Sermaye Hizmet Bedeli", `${fmt(result.ds)} TL`],
             ["Genel Toplam Maliyet", `${fmt(result.toplam)} TL`],
           ]}
-          note="Harçlar Kanunu (492 s. Tarife) uyarınca tapu devrinde alıcı ve satıcı ayrı ayrı %2 (toplam %4) harç öder. Harç, gerçek devir bedeli üzerinden hesaplanır; beyan edilen bedel emsal/rayiç bedelin altında olamaz. Döner sermaye hizmet bedeli her yıl güncellenen sabit bir tutardır (2026 için yaklaşık değer dahil edilmiştir); ayrıca girmenize gerek yoktur."
+          note="Harçlar Kanunu (492 s. Tarife) uyarınca tapu devrinde alıcı ve satıcı ayrı ayrı %2 (toplam %4) harç öder. Harç, gerçek devir bedeli üzerinden hesaplanır; beyan edilen bedel emsal/rayiç bedelin altında olamaz. Döner sermaye hizmet bedeli her yıl TKGM tarifesiyle güncellenir ve şehir/işlem türüne göre değişir (2026 taban yaklaşık 2.534 TL); kendi işleminize ait kesin tutarı yukarıdaki alana girebilirsiniz."
         />
       </div>
     </div>
@@ -1280,11 +1381,11 @@ function NispiVekalet() {
         </select>
       </Field>
       <Field label="Maktu Vekalet Ücreti (TL) — düzenlenebilir">
-        <input type="text" value={maktuTutar} onChange={e => setMaktuTutar(e.target.value)} className={inp} />
+        <MoneyInput value={maktuTutar} onChange={setMaktuTutar} />
       </Field>
       {davaTipi === "nispi" && (
         <Field label="Dava Değeri / Müddeabih (TL)">
-          <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
+          <MoneyInput value={davaD} onChange={setDavaD} />
         </Field>
       )}
       {davaTipi === "nispi" && (
@@ -1384,7 +1485,7 @@ function DavaAcmaHarci() {
       </Field>
       {tip === "nispi" && (
         <Field label="Dava Değeri (TL)">
-          <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
+          <MoneyInput value={davaD} onChange={setDavaD} />
         </Field>
       )}
       <Field label="Tanık Sayısı">
@@ -1500,10 +1601,10 @@ function IcraKapakHesabi() {
         </select>
       </Field>
       <Field label="Asıl Alacak / Takip Tutarı (TL)">
-        <input type="text" value={asilAlacak} onChange={e => setAsilAlacak(e.target.value)} className={inp} />
+        <MoneyInput value={asilAlacak} onChange={setAsilAlacak} />
       </Field>
       <Field label="İşlemiş Faiz (takip öncesi, TL)">
-        <input type="text" value={islemisFaiz} onChange={e => setIslemisFaiz(e.target.value)} className={inp} />
+        <MoneyInput value={islemisFaiz} onChange={setIslemisFaiz} />
       </Field>
       <Field label="Borçlu Sayısı">
         <input type="number" min="1" value={borcluSayisi} onChange={e => setBorcluSayisi(e.target.value)} className={inp} />
@@ -1515,10 +1616,10 @@ function IcraKapakHesabi() {
         </select>
       </Field>
       <Field label="Dosya Gideri & Baro Pulu (TL) — düzenlenebilir">
-        <input type="text" value={dosyaGideri} onChange={e => setDosyaGideri(e.target.value)} className={inp} />
+        <MoneyInput value={dosyaGideri} onChange={setDosyaGideri} />
       </Field>
       <Field label="Diğer İşlemler Avansı (TL) — opsiyonel">
-        <input type="text" value={digerAvans} onChange={e => setDigerAvans(e.target.value)} className={inp} />
+        <MoneyInput value={digerAvans} onChange={setDigerAvans} />
       </Field>
 
       <div className="md:col-span-2">
@@ -1570,7 +1671,7 @@ function IcraInkarTazminati() {
   return (
     <div className="grid grid-cols-1 gap-5">
       <Field label="İtiraz Edilen Alacak (TL)">
-        <input type="text" value={alacak} onChange={e => setAlacak(e.target.value)} className={inp} />
+        <MoneyInput value={alacak} onChange={setAlacak} />
       </Field>
       <Result
         rows={[
@@ -1825,17 +1926,17 @@ function ArabuluculukUcret() {
       {/* Nispi giriş (anlaşma + para) */}
       {nispiGirisGoster && alan === "kira-tahliye" && (
         <Field label="Bir Yıllık Kira Bedeli (TL)">
-          <input type="text" value={yillikKira} onChange={e => setYillikKira(e.target.value)} className={inp} />
+          <MoneyInput value={yillikKira} onChange={setYillikKira} />
         </Field>
       )}
       {nispiGirisGoster && alan === "kira-tespiti" && (
         <Field label="Yıllık Kira Farkı (TL)">
-          <input type="text" value={yillikKira} onChange={e => setYillikKira(e.target.value)} className={inp} />
+          <MoneyInput value={yillikKira} onChange={setYillikKira} />
         </Field>
       )}
       {nispiGirisGoster && !isKiraOzel && (
         <Field label="Anlaşılan Tutar (TL)">
-          <input type="text" value={tutar} onChange={e => setTutar(e.target.value)} className={inp} />
+          <MoneyInput value={tutar} onChange={setTutar} />
         </Field>
       )}
 
@@ -1953,11 +2054,11 @@ function DavaRiskAnalizi() {
   const result = useMemo(() => {
     const d = parseFloat(davaD.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
     // Maliyet tahmini
-    let maliyet = nispiVekalet(d); // vekalet ücreti
-    maliyet += d * 0.0068; // harç
-    maliyet += 680; // başvuru harcı
+    let maliyet = nispiVekalet(d); // kendi vekalet ücreti (tam kabul varsayımı)
+    maliyet += d * 0.06831 / 4; // peşin karar ve ilam harcı (nispi harcın 1/4'ü — Dava Açma Harcı aracıyla tutarlı)
+    maliyet += 732; // başvurma harcı
     if (bilirkisi) maliyet += 4000;
-    if (kesif) maliyet += 3000;
+    if (kesif) maliyet += 4000;
     if (tanik) maliyet += 1000;
     // Kayıp riski: karşı taraf lehine vekalet
     const karsıVekalet = nispiVekalet(d);
@@ -1974,7 +2075,7 @@ function DavaRiskAnalizi() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="Dava Değeri (TL)">
-        <input type="text" value={davaD} onChange={e => setDavaD(e.target.value)} className={inp} />
+        <MoneyInput value={davaD} onChange={setDavaD} />
       </Field>
       <Field label="Delil Gücü">
         <select value={kanit} onChange={e => setKanit(e.target.value)} className={sel}>
@@ -2152,7 +2253,7 @@ function MirasPaylasimi() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
       <Field label="Tereke (Toplam Miras) Değeri (TL)">
-        <input type="text" value={tereke} onChange={e => setTereke(e.target.value)} className={inp} />
+        <MoneyInput value={tereke} onChange={setTereke} />
       </Field>
       <Field label="Sağ Kalan Eş Var mı?">
         <select value={esVar} onChange={e => setEsVar(e.target.value as "evet" | "hayir")} className={sel}>
@@ -2378,6 +2479,292 @@ function InfazHesaplama() {
   );
 }
 
+// ─── 21. NET / BRÜT MAAŞ (2026 BORDRO) ───────────────────────────────────────
+// 2026 asgari ücret: brüt 33.030 TL, net 28.075,50 TL (01.01.2026)
+const ASGARI_BRUT_2026 = 33030;
+const ASGARI_GV_MATRAH_2026 = 28075.50;                  // 33.030 × 0,85 (SGK %15 sonrası gelir vergisi matrahı)
+const ASGARI_DAMGA_2026 = ASGARI_BRUT_2026 * 0.00759;    // asgari ücret damga vergisi istisnası
+const SGK_TAVAN_2026 = ASGARI_BRUT_2026 * 7.5;           // 247.725 — SGK prime esas kazanç tavanı
+
+function bordroNet(brut: number, ay: number) {
+  const sgkMatrah = Math.min(brut, SGK_TAVAN_2026);
+  const sgkIsci = sgkMatrah * 0.14;
+  const issizlik = sgkMatrah * 0.01;
+  const gvMatrah = brut - sgkIsci - issizlik;
+  const gvCalisan = hesaplaGelirVergisi((ay - 1) * gvMatrah, gvMatrah);
+  const gvIstisna = hesaplaGelirVergisi((ay - 1) * ASGARI_GV_MATRAH_2026, ASGARI_GV_MATRAH_2026);
+  const netGV = Math.max(0, gvCalisan - gvIstisna);
+  const damga = brut * 0.00759;
+  const netDamga = Math.max(0, damga - ASGARI_DAMGA_2026);
+  const net = brut - sgkIsci - issizlik - netGV - netDamga;
+  const sgkIsveren = sgkMatrah * 0.2075;   // %20,75 (5 puanlık indirim hariç genel oran)
+  const issizlikIsveren = sgkMatrah * 0.02;
+  const isverenMaliyet = brut + sgkIsveren + issizlikIsveren;
+  return { sgkIsci, issizlik, netGV, netDamga, gvIstisna, net, sgkIsveren, issizlikIsveren, isverenMaliyet };
+}
+function bordroFromNet(hedefNet: number, ay: number) {
+  let lo = hedefNet, hi = hedefNet * 3 + 1000;
+  for (let i = 0; i < 60; i++) {
+    const mid = (lo + hi) / 2;
+    if (bordroNet(mid, ay).net < hedefNet) lo = mid; else hi = mid;
+  }
+  return (lo + hi) / 2;
+}
+
+function NetBrutMaas() {
+  const [yon, setYon] = useState<"brutten" | "netten">("brutten");
+  const [tutar, setTutar] = useState("50000");
+  const [ay, setAy] = useState("1");
+
+  const result = useMemo(() => {
+    const t = parseFloat(tutar.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const ayN = Math.min(12, Math.max(1, parseInt(ay) || 1));
+    if (t <= 0) return null;
+    const brut = yon === "brutten" ? t : bordroFromNet(t, ayN);
+    return { brut, ayN, ...bordroNet(brut, ayN) };
+  }, [yon, tutar, ay]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Hesaplama Yönü">
+        <select value={yon} onChange={e => setYon(e.target.value as "brutten" | "netten")} className={sel}>
+          <option value="brutten">Brütten Nete (brütüm belli)</option>
+          <option value="netten">Netten Brüte (elime geçen belli)</option>
+        </select>
+      </Field>
+      <Field label={yon === "brutten" ? "Brüt Aylık Ücret (TL)" : "Net (Ele Geçen) Aylık Ücret (TL)"}>
+        <MoneyInput value={tutar} onChange={setTutar} />
+      </Field>
+      <Field label="Bordro Ayı (1–12)">
+        <input type="number" min="1" max="12" value={ay} onChange={e => setAy(e.target.value)} className={inp} />
+      </Field>
+
+      <div className="col-span-full">
+        {result ? (
+          <Result
+            rows={[
+              ["Brüt Ücret", `${fmt(result.brut)} TL`],
+              ["SGK İşçi Primi (%14)", `−${fmt(result.sgkIsci)} TL`],
+              ["İşsizlik Primi (%1)", `−${fmt(result.issizlik)} TL`],
+              ["Gelir Vergisi (asgari ücret istisnası düşülmüş)", `−${fmt(result.netGV)} TL`],
+              ["Damga Vergisi (asgari ücret istisnası düşülmüş)", `−${fmt(result.netDamga)} TL`],
+              ["NET ELE GEÇEN", `${fmt(result.net)} TL`],
+              ["İşverene Toplam Maliyeti (indirim hariç)", `${fmt(result.isverenMaliyet)} TL`],
+            ]}
+            note="2026 bordro: asgari ücret brüt 33.030 TL. Kesintiler — SGK işçi %14, işsizlik %1; gelir vergisi (kümülatif matrah dilimine göre) ve damga vergisi (‰7,59). 2022'den beri asgari ücret tutarına isabet eden gelir ve damga vergisi tüm ücretlerde İSTİSNADIR; bu nedenle her ücretten asgari ücret kadar gelir/damga vergisi düşülmez. Hesap, yıl boyunca aynı brütle çalışıldığı varsayımıyla seçilen aya kadar kümülatif gelir vergisi matrahını dikkate alır (üst dilime geçildikçe net düşer). SGK tavanı 247.725 TL. İşveren maliyetinde %20,75 SGK + %2 işsizlik esas alınmıştır; 5 puanlık işveren indirimi (5510 m.81) uygulanabilen işverende maliyet daha düşüktür. Kesin bordro için mali müşavirinize danışın."
+          />
+        ) : (
+          <div className="text-sm text-charcoal/35 italic">Ücret tutarını girin.</div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+// ─── 22. İŞSİZLİK MAAŞI (İŞSİZLİK ÖDENEĞİ) 2026 ──────────────────────────────
+function IssizlikMaasi() {
+  const [ortBrut, setOrtBrut] = useState("45000");
+  const [primGun, setPrimGun] = useState("600");
+
+  const result = useMemo(() => {
+    const brut = parseFloat(ortBrut.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const gun = parseInt(primGun) || 0;
+    const TAVAN = ASGARI_BRUT_2026 * 0.80;          // 26.424 (asgari brütün %80'i)
+    const hesap = brut * 0.40;
+    const brutOdenek = Math.min(hesap, TAVAN);
+    const damga = brutOdenek * 0.00759;
+    const netOdenek = brutOdenek - damga;
+    const sure = gun >= 1080 ? 300 : gun >= 900 ? 240 : gun >= 600 ? 180 : 0;
+    const toplam = netOdenek * (sure / 30);
+    return { brutOdenek, netOdenek, damga, sure, toplam, tavanUyg: hesap > TAVAN, yeterli: gun >= 600 };
+  }, [ortBrut, primGun]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Son 4 Ay Ortalama Brüt Ücret (TL)">
+        <MoneyInput value={ortBrut} onChange={setOrtBrut} />
+      </Field>
+      <Field label="Toplam İşsizlik Sigortası Prim Günü">
+        <input type="number" min="0" value={primGun} onChange={e => setPrimGun(e.target.value)} className={inp} />
+      </Field>
+
+      <div className="col-span-full">
+        <Result
+          rows={[
+            ...(result.yeterli
+              ? []
+              : [["⚠️ Şart", "Son 3 yılda en az 600 gün prim gerekir; 600 günün altında ödenek yok"] as [string, string]]),
+            ["Brüt Aylık Ödenek (%40)", `${fmt(result.brutOdenek)} TL${result.tavanUyg ? " (tavan uygulandı)" : ""}`],
+            ["Damga Vergisi (‰7,59)", `−${fmt(result.damga)} TL`],
+            ["Net Aylık Ödenek", `${fmt(result.netOdenek)} TL`],
+            ["Ödeme Süresi", result.sure > 0 ? `${result.sure} gün (${result.sure / 30} ay)` : "—"],
+            ["Toplam Net Ödenek (tüm süre)", `${fmt(result.toplam)} TL`],
+          ]}
+          note="4447 sayılı Kanun: günlük işsizlik ödeneği, son 4 aylık prime esas kazançların günlük ortalamasının %40'ıdır ve aylık tutarı asgari ücretin brüt tutarının %80'ini (2026: 26.424 TL) geçemez; alt sınır asgari brütün %40'ıdır (2026: 13.212 TL). Ödenekten yalnızca damga vergisi (‰7,59) kesilir. Süre: 600 gün prim → 180 gün, 900 gün → 240 gün, 1.080 gün → 300 gün. Şartlar: hizmet akdinin feshinden önceki son 120 gün kesintisiz prim, son 3 yılda en az 600 gün işsizlik primi, kendi istek/kusuru dışında işsiz kalma ve fesihten itibaren 30 gün içinde İŞKUR'a başvuru."
+        />
+      </div>
+    </div>
+  );
+}
+
+// ─── 23. GECİKME ZAMMI (AMME ALACAĞI · 6183) ─────────────────────────────────
+function GecikmeZammi() {
+  const AYLIK_2026 = 3.7;   // 2026: aylık %3,7 (RG 13.11.2025); değişirse "özel oran"
+  const [anapara, setAnapara] = useState("100000");
+  const [baslangic, setBaslangic] = useState("2025-01-01");
+  const [bitis, setBitis] = useState(() => new Date().toISOString().slice(0, 10));
+  const [ozelOran, setOzelOran] = useState("");
+
+  const result = useMemo(() => {
+    const para = parseFloat(anapara.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const aylik = (ozelOran ? parseFloat(ozelOran) : AYLIK_2026) || 0;
+    const b = new Date(baslangic), e = new Date(bitis);
+    if (isNaN(b.getTime()) || isNaN(e.getTime()) || e <= b || para <= 0) return null;
+    const gun = daysBetween(b, e);
+    // 6183: tam aylara aylık oran, ay kesrine günlük oran (aylık/30) → toplam = anapara × aylık% × gün/30
+    const zam = para * (aylik / 100) * (gun / 30);
+    return { gun, aylik, zam, toplam: para + zam };
+  }, [anapara, baslangic, bitis, ozelOran]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Asıl Alacak / Borç (TL)">
+        <MoneyInput value={anapara} onChange={setAnapara} />
+      </Field>
+      <Field label="Aylık Gecikme Zammı Oranı (%) — boş bırakılırsa 2026: %3,7">
+        <input type="number" step="0.01" value={ozelOran} onChange={e => setOzelOran(e.target.value)} placeholder="3,7" className={inp} />
+      </Field>
+      <Field label="Vade (Başlangıç) Tarihi">
+        <input type="date" value={baslangic} onChange={e => setBaslangic(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Ödeme (Bitiş) Tarihi">
+        <input type="date" value={bitis} onChange={e => setBitis(e.target.value)} className={inp} />
+      </Field>
+
+      <div className="col-span-full">
+        {result ? (
+          <Result
+            rows={[
+              ["Gecikilen Süre", `${result.gun} gün`],
+              ["Uygulanan Aylık Oran", `%${fmt(result.aylik, 2)}`],
+              ["Gecikme Zammı", `${fmt(result.zam)} TL`],
+              ["Toplam (Asıl + Zam)", `${fmt(result.toplam)} TL`],
+            ]}
+            note="6183 sayılı Kanun md.51 — Amme (vergi, SGK, harç, idarî para cezası vb.) alacaklarında gecikme zammı her ay için aylık oranla, ay kesirleri için günlük oran (aylık/30) uygulanarak hesaplanır. 2026 yılı aylık oran %3,7'dir (RG 13.11.2025; önceki dönem %4,5). Oranın değiştiği dönemleri kapsayan borçlarda her dönemi ayrı hesaplayıp toplayın ('özel oran' alanından dönem oranını girebilirsiniz). 1 TL'nin altındaki tutarlar dikkate alınmaz; gecikme zammı asıl alacağı geçemez sınırı yoktur."
+          />
+        ) : (
+          <div className="text-sm text-charcoal/35 italic">Tarih ve tutarları girin (bitiş, başlangıçtan sonra olmalı).</div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+// ─── 24. DAMGA VERGİSİ (SÖZLEŞME / KÂĞIT) 2026 ───────────────────────────────
+const DAMGA_TURLERI = [
+  { ad: "Sözleşme / taahhütname (belli bedelli) — ‰9,48", oran: 0.00948 },
+  { ad: "Kira sözleşmesi — ‰1,89", oran: 0.00189 },
+  { ad: "Kefalet / teminat / rehin senedi — ‰9,48", oran: 0.00948 },
+  { ad: "Sulhname / ibraname (belli bedelli) — ‰9,48", oran: 0.00948 },
+];
+const DAMGA_AZAMI_2026 = 29115961.10;   // 2026 her bir kâğıt için azami damga vergisi
+
+function DamgaVergisi() {
+  const [turIdx, setTurIdx] = useState(0);
+  const [bedel, setBedel] = useState("1000000");
+
+  const result = useMemo(() => {
+    const b = parseFloat(bedel.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const oran = DAMGA_TURLERI[turIdx].oran;
+    const ham = b * oran;
+    const azamiUyg = ham > DAMGA_AZAMI_2026;
+    const damga = Math.min(ham, DAMGA_AZAMI_2026);
+    return { oran, damga, azamiUyg };
+  }, [turIdx, bedel]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Kâğıt / Sözleşme Türü">
+        <select value={turIdx} onChange={e => setTurIdx(parseInt(e.target.value))} className={sel}>
+          {DAMGA_TURLERI.map((t, i) => <option key={i} value={i}>{t.ad}</option>)}
+        </select>
+      </Field>
+      <Field label="Sözleşme Bedeli / Matrah (TL)">
+        <MoneyInput value={bedel} onChange={setBedel} />
+      </Field>
+
+      <div className="col-span-full">
+        <Result
+          rows={[
+            ["Uygulanan Oran", `‰${fmt(result.oran * 1000, 2)}`],
+            ["Damga Vergisi", `${fmt(result.damga)} TL`],
+            ...(result.azamiUyg ? [["Azami Sınır Uygulandı", `${fmt(DAMGA_AZAMI_2026)} TL (2026 üst sınır)`] as [string, string]] : []),
+          ]}
+          note="488 sayılı Damga Vergisi Kanunu (2026): belli parayı içeren sözleşme, taahhütname, kefalet, sulh/ibra kâğıtlarında damga vergisi binde 9,48; kira sözleşmelerinde (toplam kira bedeli üzerinden) binde 1,89'dur. 2026 yılında her bir kâğıt için azami damga vergisi 29.115.961,10 TL'dir; hesaplanan vergi bu tutarı aşamaz. Damga vergisi kural olarak kâğıdı imzalayan taraflarca müteselsilen ödenir. Resmî dairelerle yapılan işlemler ve bazı kâğıtlar istisna kapsamında olabilir; nüsha ve istisna durumları için 488 s. Kanun'a bakınız."
+        />
+      </div>
+    </div>
+  );
+}
+
+// ─── 25. İSTİNAF / TEMYİZ HARÇ VE SÜRE 2026 ──────────────────────────────────
+function IstinafTemyizHarc() {
+  const ISTINAF_BASVURMA = 2002;       // 2026 BAM (istinaf) başvurma harcı
+  const TEMYIZ_BASVURMA = 3608.50;     // 2026 Yargıtay (temyiz) başvurma harcı
+  const NISPI_ORAN = 0.06831;          // nispi karar ve ilam harcı ‰68,31
+
+  const [asama, setAsama] = useState<"istinaf" | "temyiz">("istinaf");
+  const [tip, setTip] = useState<"maktu" | "nispi">("nispi");
+  const [davaD, setDavaD] = useState("500000");
+
+  const result = useMemo(() => {
+    const d = parseFloat(davaD.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const basvurma = asama === "istinaf" ? ISTINAF_BASVURMA : TEMYIZ_BASVURMA;
+    const nispiHarc = tip === "nispi" ? d * NISPI_ORAN : 0;
+    const pesin = nispiHarc / 4;   // karar ve ilam harcının peşin (1/4) kısmı
+    const toplam = basvurma + pesin;
+    return { basvurma, nispiHarc, pesin, toplam };
+  }, [asama, tip, davaD]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Kanun Yolu Aşaması">
+        <select value={asama} onChange={e => setAsama(e.target.value as "istinaf" | "temyiz")} className={sel}>
+          <option value="istinaf">İstinaf (Bölge Adliye Mahkemesi)</option>
+          <option value="temyiz">Temyiz (Yargıtay)</option>
+        </select>
+      </Field>
+      <Field label="Hesaplama Tipi">
+        <select value={tip} onChange={e => setTip(e.target.value as "maktu" | "nispi")} className={sel}>
+          <option value="nispi">Nispi (konusu para olan)</option>
+          <option value="maktu">Maktu (konusu para olmayan)</option>
+        </select>
+      </Field>
+      {tip === "nispi" && (
+        <Field label="Dava Değeri / Reddedilen-Kabul Edilen Tutar (TL)">
+          <MoneyInput value={davaD} onChange={setDavaD} />
+        </Field>
+      )}
+
+      <div className="col-span-full">
+        <Result
+          rows={[
+            ["Aşama", asama === "istinaf" ? "İstinaf (BAM)" : "Temyiz (Yargıtay)"],
+            ["Başvurma Harcı (maktu)", `${fmt(result.basvurma)} TL`],
+            ...(tip === "nispi"
+              ? [["Karar ve İlam Harcı (‰68,31)", `${fmt(result.nispiHarc)} TL`] as [string, string],
+                 ["Peşin Harç (1/4)", `${fmt(result.pesin)} TL`] as [string, string]]
+              : []),
+            ["Başvuruda Yatırılacak (yaklaşık)", `${fmt(result.toplam)} TL`],
+            ["Başvuru Süresi", "Tebliğden itibaren 2 hafta"],
+          ]}
+          note="492 sayılı Harçlar Kanunu (2026): istinaf başvurma harcı 2.002 TL, temyiz başvurma harcı 3.608,50 TL'dir. Konusu para olan işlerde ayrıca karar ve ilam harcı (‰68,31) hesaplanır ve başvuruda peşin (1/4) yatırılır; bakiye karar sonrası tamamlanır. Süre (HMK): istinaf ve temyiz başvurusu, kararın tebliğinden itibaren 2 HAFTADIR (iş davalarında da 2 hafta). İstinafta gerekli harç ve gider avansı eksik yatırılırsa kesin süreli muhtıra gönderilir; tamamlanmazsa başvuru yapılmamış sayılır (HMK m.344). Ceza yargılamasında süreler ve harç rejimi farklıdır (CMK); bu araç hukuk yargılaması içindir. Maktu karar harçları yıl sonu işlemine göre değişebilir; resmî tarifeden teyit ediniz."
+        />
+      </div>
+    </div>
+  );
+}
+
 // ─── ARAÇLAR LİSTESİ ──────────────────────────────────────────────────────────
 
 const ARACLAR = [
@@ -2400,11 +2787,25 @@ const ARACLAR = [
   { id: "zamanasimi", icon: "⏱️", baslik: "Zamanaşımı Kontrol Sihirbazı", tag: "Usul", comp: <ZamanAsimiKontrol /> },
   { id: "risk", icon: "🔍", baslik: "Dava Risk ve Maliyet Analizi", tag: "Analiz", comp: <DavaRiskAnalizi /> },
   { id: "infaz", icon: "⛓️", baslik: "İnfaz (Yatar) Hesaplama 2026", tag: "Ceza İnfaz", comp: <InfazHesaplama /> },
+  { id: "net-brut-maas", icon: "💵", baslik: "Net / Brüt Maaş (2026 Bordro)", tag: "İş Hukuku", comp: <NetBrutMaas /> },
+  { id: "issizlik-maasi", icon: "🛟", baslik: "İşsizlik Maaşı (Ödeneği) 2026", tag: "İş Hukuku", comp: <IssizlikMaasi /> },
+  { id: "gecikme-zammi", icon: "⏳", baslik: "Gecikme Zammı (Amme Alacağı 2026)", tag: "Vergi", comp: <GecikmeZammi /> },
+  { id: "damga-vergisi", icon: "📜", baslik: "Damga Vergisi (Sözleşme) 2026", tag: "Vergi", comp: <DamgaVergisi /> },
+  { id: "istinaf-temyiz", icon: "📨", baslik: "İstinaf / Temyiz Harç ve Süre 2026", tag: "Usul", comp: <IstinafTemyizHarc /> },
 ];
 
 // ─── SAYFA ─────────────────────────────────────────────────────────────────────
 
 export default function HesaplamaPage() {
+  const [arama, setArama] = useState("");
+  const [aktifTag, setAktifTag] = useState<string | null>(null);
+  const tumTagler = Array.from(new Set(ARACLAR.map(a => a.tag)));
+  const q = arama.trim().toLocaleLowerCase("tr-TR");
+  const filtrelenmis = ARACLAR.filter(a => {
+    const aramaUyar = !q || a.baslik.toLocaleLowerCase("tr-TR").includes(q) || a.tag.toLocaleLowerCase("tr-TR").includes(q);
+    const tagUyar = !aktifTag || a.tag === aktifTag;
+    return aramaUyar && tagUyar;
+  });
   return (
     <>
       <Navbar />
@@ -2424,19 +2825,58 @@ export default function HesaplamaPage() {
               Kıdem tazminatından faize, tapu harcından vekalet ücretine — güncel mevzuat
               esas alınarak hazırlanmış {ARACLAR.length} hesaplama aracı.
             </p>
-            <p className="mt-3 sm:mt-4 inline-flex items-center gap-2 text-[10px] sm:text-[11px] text-charcoal/35 font-mono bg-charcoal/4 px-3 sm:px-4 py-1.5 sm:py-2 rounded-full">
-              <Info size={11} />
-              Hesaplamalar bilgi amaçlıdır · Kesin sonuç için avukatınıza danışın
+            <p className="mt-3 sm:mt-4 inline-flex items-start gap-2 text-[10px] sm:text-[11px] text-charcoal/35 font-mono bg-charcoal/4 px-3 sm:px-4 py-1.5 sm:py-2 rounded-2xl leading-relaxed">
+              <Info size={11} className="shrink-0 mt-0.5" />
+              <span>2026 mevzuat değerleriyle hazırlanmıştır · Oran ve harçları işlem tarihinize göre teyit edin · Kesin sonuç için avukatınıza danışın</span>
             </p>
+          </div>
+
+          {/* Arama + Kategori Filtresi */}
+          <div className="mb-5 sm:mb-7">
+            <div className="relative mb-3">
+              <Search size={16} className="absolute left-3.5 top-1/2 -translate-y-1/2 text-charcoal/30 pointer-events-none" />
+              <input
+                type="text"
+                value={arama}
+                onChange={e => setArama(e.target.value)}
+                placeholder="Araç ara — örn. kıdem, faiz, vekalet, infaz, miras..."
+                aria-label="Hesaplama aracı ara"
+                className="w-full border border-charcoal/15 rounded-full pl-10 pr-4 py-2.5 sm:py-3 text-sm text-charcoal bg-white focus:outline-none focus:border-accent transition-colors"
+              />
+            </div>
+            <div className="flex flex-wrap gap-1.5 sm:gap-2">
+              <button
+                type="button"
+                onClick={() => setAktifTag(null)}
+                className={`text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${aktifTag === null ? "bg-charcoal text-cream" : "bg-charcoal/5 text-charcoal/45 hover:bg-charcoal/10"}`}
+              >
+                Tümü ({ARACLAR.length})
+              </button>
+              {tumTagler.map(t => (
+                <button
+                  key={t}
+                  type="button"
+                  onClick={() => setAktifTag(aktifTag === t ? null : t)}
+                  className={`text-[10px] sm:text-[11px] font-bold uppercase tracking-wider px-3 py-1.5 rounded-full transition-colors ${aktifTag === t ? "bg-charcoal text-cream" : "bg-charcoal/5 text-charcoal/45 hover:bg-charcoal/10"}`}
+                >
+                  {t}
+                </button>
+              ))}
+            </div>
           </div>
 
           {/* Araçlar */}
           <div className="flex flex-col gap-3 sm:gap-4">
-            {ARACLAR.map(a => (
+            {filtrelenmis.map(a => (
               <Card key={a.id} id={a.id} icon={a.icon} title={a.baslik} tag={a.tag}>
                 {a.comp}
               </Card>
             ))}
+            {filtrelenmis.length === 0 && (
+              <div className="text-center py-10 text-sm text-charcoal/40">
+                Aramanızla eşleşen araç bulunamadı. Farklı bir terim deneyin veya filtreyi temizleyin.
+              </div>
+            )}
           </div>
 
           {/* Alt CTA */}
