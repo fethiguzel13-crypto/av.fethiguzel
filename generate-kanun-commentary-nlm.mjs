@@ -126,6 +126,11 @@ async function processArticle(kanunId, maddeId) {
   const meta = KANUN_META[kanunId];
   console.log(`[process] ${kanunId.toUpperCase()} Madde ${maddeId}: ${title || '(başlıksız)'}`);
 
+  const MAX_ARTICLE_LENGTH = 25000;
+  const safeArticleText = articleText.length > MAX_ARTICLE_LENGTH
+    ? articleText.substring(0, MAX_ARTICLE_LENGTH) + '\n\n[...METİN ÇOK UZUN OLDUĞU İÇİN KESİLDİ...]'
+    : articleText;
+
   const systemPrompt = getSystemPrompt(kanunId);
   const prompt = `${systemPrompt}
 
@@ -133,7 +138,7 @@ async function processArticle(kanunId, maddeId) {
 Aşağıdaki madde için eksiksiz akademik şerh yaz. ### Akademik Yorum ve Analiz başlığıyla başlat.
 
 ${meta.ad} Madde ${maddeId} — ${title || ''}
-${articleText}`;
+${safeArticleText}`;
 
   try {
     const commentary = askNotebookLM(prompt);
