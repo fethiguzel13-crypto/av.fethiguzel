@@ -38,7 +38,6 @@ const ALAN_YAZARLAR = {
 
 function getSystemPrompt(kanunId) {
   const meta = KANUN_META[kanunId];
-  const yazarlar = ALAN_YAZARLAR[meta.alan];
   return `Sen Av. Fethi Güzel'sin. ${meta.ad} alanında uzman Türk hukukçusun.
 
 Şerh şu 7 bölümden oluşur:
@@ -55,9 +54,9 @@ function getSystemPrompt(kanunId) {
 
 ZORUNLU KURALLAR (halüsinasyon önleme — kesinlikle uyulacak):
 - Yargıtay/Danıştay/AYM kararı UYDURMA. Gerçek karar yoksa: "Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi." yaz.
-- Elindeki kaynaklarda (doctrine-genel.md) bu alanın yazarlarının (${yazarlar}) GERÇEK, SPESİFİK görüşlerine veya eserlerine dair içerik YOKTUR — bu dosya sadece atıf formatı örneğidir. Bu nedenle isim vererek "X, eserinde ... belirtmektedir" tarzında SPESİFİK bir görüş UYDURMA ve gerçek bir yazara ATFETME. Bunun yerine doktrin bölümlerinde İSİMSİZ/ATIFSIZ genel ifadeler kullan: "Öğretide genel kabul gören görüşe göre...", "Doktrinde bu husus şu şekilde değerlendirilmektedir..." gibi.
+- Doktrin/öğreti bölümlerinde HİÇBİR YAZARIN İSMİNİ ANMA (ne "X, eserinde belirtmektedir" ne "X'e göre" ne italik eser adıyla). Gerçek bir yazara ait gerçek bir görüşü doğrulayabileceğin bir kaynağın yok; isim anman doğrudan UYDURMA ATIF olur. Bunun yerine SADECE isimsiz/atıfsız genel ifadeler kullan: "Öğretide genel kabul gören görüşe göre...", "Doktrinde bu husus şu şekilde değerlendirilmektedir...", "Öğretide yapılan eleştirilere göre..." gibi.
 - Köşeli parantez içi referans numarası [1], [2] gibi KULLANMA — bunlar gerçek kaynağa dayanmayan sahte atıf izlenimi verir.
-- Sayfa numarası, baskı yılı, yazar adı+eser adı birlikte anma YAZMA
+- Sayfa numarası, baskı yılı, yazar adı, eser adı YAZMA
 - Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretle
 - Akademik Türkçe, net cümleler
 - SADECE şerhi yaz; soru sorma, izin isteme, ek araştırma teklif etme.`;
@@ -114,6 +113,7 @@ function askNotebookLM(prompt) {
 const REDDETME_KALIPLARI = [
   /ister misiniz/i, /yapmam[iı] ister/i, /izin verir misiniz/i, /onayl[iı]yor musunuz/i,
   /ara[şs]t[iı]rma yapmam[iı]/i, /devam edeyim mi/i, /payla[şs]abilir misiniz/i,
+  /dilerseniz/i, /isterseniz/i, /hazırlayabilirim/i, /haz[iı]r[iı]m/i, /yard[iı]mc[iı] olabilirim/i,
 ];
 const GEREKLI_BASLIKLAR = [
   '### Akademik Yorum ve Analiz',
@@ -123,7 +123,22 @@ const GEREKLI_BASLIKLAR = [
 // "[1]" / "[2]" gibi referans numaralari veya "Yazar, *Eser*" kalibi tespit edilirse reddet.
 const SAHTE_ATIF_KALIPLARI = [/\[\d+\]/, /\*[^*]{3,60}\*\s*(çalışmasında|eserinde|kitabında)/i];
 
-function gecerliMi(commentary) {
+// Onayli yazar listesindeki soyisimlerin METINDE HIC GECMEMESI gerekir (format ne olursa olsun) —
+// guvenli kalip "oğretide genel kabul goren gorus" gibi atifsiz ifadedir, isim gecmesi
+// regex-kacagi bir uydurma atif olabilir (orn. "Kuru'ya gore" — koseli parantez/italik yok ama yine atif).
+function yazarIsimGeciyorMu(commentary, kanunId) {
+  const meta = KANUN_META[kanunId];
+  const yazarlar = ALAN_YAZARLAR[meta.alan];
+  const isimler = yazarlar.split(/[,/]/).map(s => s.trim()).filter(Boolean);
+  for (const isim of isimler) {
+    // Turkce iyelik/hal ekleri (Kuru'ya, Kuru'nun vb.) de yakalansin diye kok+kesme isareti kontrolu
+    const re = new RegExp(`\\b${isim.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(['’]|\\b)`, 'i');
+    if (re.test(commentary)) return isim;
+  }
+  return null;
+}
+
+function gecerliMi(commentary, kanunId) {
   if (!commentary || commentary.length < 1500) return { ok: false, sebep: `cok kisa (${commentary?.length ?? 0} karakter)` };
   for (const kalip of REDDETME_KALIPLARI) {
     if (kalip.test(commentary)) return { ok: false, sebep: `reddetme/soru kalibi tespit edildi: ${kalip}` };
@@ -134,6 +149,8 @@ function gecerliMi(commentary) {
   for (const kalip of SAHTE_ATIF_KALIPLARI) {
     if (kalip.test(commentary)) return { ok: false, sebep: `olasi uydurma atif kalibi tespit edildi: ${kalip}` };
   }
+  const isimBulundu = yazarIsimGeciyorMu(commentary, kanunId);
+  if (isimBulundu) return { ok: false, sebep: `onayli yazar ismi metinde geciyor (uydurma atif riski): ${isimBulundu}` };
   return { ok: true };
 }
 
@@ -169,12 +186,12 @@ ${safeArticleText}`;
 
   try {
     let commentary = askNotebookLM(basePrompt);
-    let kontrol = gecerliMi(commentary);
+    let kontrol = gecerliMi(commentary, kanunId);
     if (!kontrol.ok) {
       console.warn(`[retry] ${kanunId}/madde-${maddeId}: ${kontrol.sebep} — guclendirilmis istekle tekrar deneniyor`);
-      const retryPrompt = `${basePrompt}\n\nUYARI: Onceki yanitin gecersizdi (${kontrol.sebep}). Isim vererek spesifik gorus uydurma, koseli parantez referans numarasi kullanma, soru sormadan dogrudan 7 bolumlu tam serhi ### Akademik Yorum ve Analiz basligiyla yaz.`;
+      const retryPrompt = `${basePrompt}\n\nUYARI: Onceki yanitin gecersizdi (${kontrol.sebep}). Hicbir yazarin ismini ANMA (ne italik eser ismiyle ne "X'e gore" seklinde), koseli parantez referans numarasi kullanma, soru sormadan dogrudan 7 bolumlu tam serhi sadece "ogretide genel kabul goren gorus" tarzi atifsiz ifadelerle ### Akademik Yorum ve Analiz basligiyla yaz.`;
       commentary = askNotebookLM(retryPrompt);
-      kontrol = gecerliMi(commentary);
+      kontrol = gecerliMi(commentary, kanunId);
     }
     if (!kontrol.ok) {
       console.error(`[error] ${kanunId}/madde-${maddeId}: gecersiz yanit (retry sonrasi da) — ${kontrol.sebep}`);
