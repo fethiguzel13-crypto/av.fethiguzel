@@ -53,16 +53,18 @@ function getSystemPrompt(kanunId) {
 ---
 ### Metodolojik Not
 
-ZORUNLU KURALLAR:
+ZORUNLU KURALLAR (halüsinasyon önleme — kesinlikle uyulacak):
 - Yargıtay/Danıştay/AYM kararı UYDURMA. Gerçek karar yoksa: "Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi." yaz.
-- Sadece şu yazarlardan atıf yap: ${yazarlar}
-- Sayfa numarası, baskı yılı YAZMA
+- Elindeki kaynaklarda (doctrine-genel.md) bu alanın yazarlarının (${yazarlar}) GERÇEK, SPESİFİK görüşlerine veya eserlerine dair içerik YOKTUR — bu dosya sadece atıf formatı örneğidir. Bu nedenle isim vererek "X, eserinde ... belirtmektedir" tarzında SPESİFİK bir görüş UYDURMA ve gerçek bir yazara ATFETME. Bunun yerine doktrin bölümlerinde İSİMSİZ/ATIFSIZ genel ifadeler kullan: "Öğretide genel kabul gören görüşe göre...", "Doktrinde bu husus şu şekilde değerlendirilmektedir..." gibi.
+- Köşeli parantez içi referans numarası [1], [2] gibi KULLANMA — bunlar gerçek kaynağa dayanmayan sahte atıf izlenimi verir.
+- Sayfa numarası, baskı yılı, yazar adı+eser adı birlikte anma YAZMA
 - Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretle
-- Akademik Türkçe, net cümleler`;
+- Akademik Türkçe, net cümleler
+- SADECE şerhi yaz; soru sorma, izin isteme, ek araştırma teklif etme.`;
 }
 
 function parseFile(filePath) {
-  const content = readFileSync(filePath, 'utf-8');
+  const content = readFileSync(filePath, 'utf-8').replace(/\r\n/g, '\n');
   const body = content.replace(/^---\n[\s\S]*?\n---\n/, '').trim();
   const titleMatch = body.match(/^\*\*(.+?)\*\*/);
   const title = titleMatch ? titleMatch[1] : '';
@@ -91,7 +93,8 @@ function buildNewFile(kanunId, maddeNo, title, articleText, commentary) {
 }
 
 function askNotebookLM(prompt) {
-  const result = spawnSync('notebooklm', ['ask', prompt, '--notebook', NLM_NOTEBOOK], {
+  // --json: kirilgan "Answer:" metin ayristirmasi yerine guvenilir yapisal cikti.
+  const result = spawnSync('notebooklm', ['ask', prompt, '--notebook', NLM_NOTEBOOK, '--json'], {
     cwd: __dir,
     timeout: 120000,
     maxBuffer: 1024 * 1024 * 5,
@@ -99,15 +102,39 @@ function askNotebookLM(prompt) {
   });
   if (result.error) throw new Error(`spawn: ${result.error.message}`);
   if (result.status !== 0) throw new Error(`exit ${result.status}: ${result.stderr?.slice(0, 200)}`);
-  const lines = (result.stdout || '').split('\n');
-  const answerStart = lines.findIndex(l => l.trim() === 'Answer:');
-  const resumedIdx = lines.findLastIndex(l =>
-    l.startsWith('Resumed conversation:') || l.startsWith('New conversation:')
-  );
-  return lines
-    .slice(answerStart >= 0 ? answerStart + 1 : 0, resumedIdx > 0 ? resumedIdx : undefined)
-    .join('\n')
-    .trim();
+  let parsed;
+  try {
+    parsed = JSON.parse(result.stdout);
+  } catch {
+    throw new Error(`json parse hatasi: ${(result.stdout || '').slice(0, 200)}`);
+  }
+  return (parsed.answer || '').trim();
+}
+
+const REDDETME_KALIPLARI = [
+  /ister misiniz/i, /yapmam[iı] ister/i, /izin verir misiniz/i, /onayl[iı]yor musunuz/i,
+  /ara[şs]t[iı]rma yapmam[iı]/i, /devam edeyim mi/i, /payla[şs]abilir misiniz/i,
+];
+const GEREKLI_BASLIKLAR = [
+  '### Akademik Yorum ve Analiz',
+  '#### 7. Eleştirel Değerlendirme',
+];
+// Gercek kaynak yokken isme baglanmis spesifik atif = halusinasyon riski.
+// "[1]" / "[2]" gibi referans numaralari veya "Yazar, *Eser*" kalibi tespit edilirse reddet.
+const SAHTE_ATIF_KALIPLARI = [/\[\d+\]/, /\*[^*]{3,60}\*\s*(çalışmasında|eserinde|kitabında)/i];
+
+function gecerliMi(commentary) {
+  if (!commentary || commentary.length < 1500) return { ok: false, sebep: `cok kisa (${commentary?.length ?? 0} karakter)` };
+  for (const kalip of REDDETME_KALIPLARI) {
+    if (kalip.test(commentary)) return { ok: false, sebep: `reddetme/soru kalibi tespit edildi: ${kalip}` };
+  }
+  for (const baslik of GEREKLI_BASLIKLAR) {
+    if (!commentary.includes(baslik)) return { ok: false, sebep: `gerekli baslik eksik: ${baslik}` };
+  }
+  for (const kalip of SAHTE_ATIF_KALIPLARI) {
+    if (kalip.test(commentary)) return { ok: false, sebep: `olasi uydurma atif kalibi tespit edildi: ${kalip}` };
+  }
+  return { ok: true };
 }
 
 async function processArticle(kanunId, maddeId) {
@@ -132,7 +159,7 @@ async function processArticle(kanunId, maddeId) {
     : articleText;
 
   const systemPrompt = getSystemPrompt(kanunId);
-  const prompt = `${systemPrompt}
+  const basePrompt = `${systemPrompt}
 
 ---
 Aşağıdaki madde için eksiksiz akademik şerh yaz. ### Akademik Yorum ve Analiz başlığıyla başlat.
@@ -141,9 +168,16 @@ ${meta.ad} Madde ${maddeId} — ${title || ''}
 ${safeArticleText}`;
 
   try {
-    const commentary = askNotebookLM(prompt);
-    if (!commentary || commentary.length < 150) {
-      console.error(`[error] ${kanunId}/madde-${maddeId}: yanıt kısa`);
+    let commentary = askNotebookLM(basePrompt);
+    let kontrol = gecerliMi(commentary);
+    if (!kontrol.ok) {
+      console.warn(`[retry] ${kanunId}/madde-${maddeId}: ${kontrol.sebep} — guclendirilmis istekle tekrar deneniyor`);
+      const retryPrompt = `${basePrompt}\n\nUYARI: Onceki yanitin gecersizdi (${kontrol.sebep}). Isim vererek spesifik gorus uydurma, koseli parantez referans numarasi kullanma, soru sormadan dogrudan 7 bolumlu tam serhi ### Akademik Yorum ve Analiz basligiyla yaz.`;
+      commentary = askNotebookLM(retryPrompt);
+      kontrol = gecerliMi(commentary);
+    }
+    if (!kontrol.ok) {
+      console.error(`[error] ${kanunId}/madde-${maddeId}: gecersiz yanit (retry sonrasi da) — ${kontrol.sebep}`);
       return false;
     }
     const newContent = buildNewFile(kanunId, maddeId, title, articleText, commentary);
