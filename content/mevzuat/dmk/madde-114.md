@@ -2,7 +2,9 @@
 title: "Devlet Memurları Kanunu Madde 114"
 kanun: "Devlet Memurları Kanunu"
 maddeNo: 114
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-07-08"
+wordCount: 1451
 ---
 
 **Madde 113 – (Mülga: 13/2/2011 - 6111/117 md.)**
@@ -11,6 +13,47 @@ commentaryStatus: "pending"
 
 Madde 114 – (Mülga: 12/5/1989 – KHK-368/2 md.)
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+**Devlet Memurları Kanunu’nun mülga 113. ve 114. maddeleri, Türk kamu personel rejiminin tarihsel gelişim sürecinde memurların mesleki yeterliliklerinin ve liyakat düzeylerinin üst amirler ile idari kurullar tarafından denetlenmesi sürecindeki süre şartlarını ve kurul yapılarını tanzim eden; ancak idari şeffaflık, öngörülebilirlik ve statü güvencelerinin artırılması amacıyla sırasıyla 2011 ve 1989 yıllarında hukuk sisteminden tasfiye edilen tarihsel usul ve yetki normlarıdır.** Kanun koyucu bu düzenlemeleri, Kanun’un "Hizmet Şartları ve Şekilleri" başlıklı dördüncü kısmının mülga "Siciller" başlıklı eski bölümünde konumlandırmıştı. Bu sistematik yerleşim; memurun meslek hayatındaki yeterlilik değerlendirmelerinin hem zamansal bir asgari çalışma barajına (mülga m. 113) hem de idari kurulların denetim süzgecine (mülga m. 114) tabi tutularak hiyerarşik bir kontrol zinciri içinde yürütüldüğünü göstermekteydi.
+
+Öğretide genel kabul gören görüşe göre, mülga m. 113 ("Sicil raporu doldurmak için gereken süre") memur hakkında bir değerlendirme yapılabilmesi için amirle memurun en az ne kadar süre (historik olarak 6 ay) birlikte çalışması gerektiğini tanzim etmekteydi. Mülga m. 114 ise bu raporların nihai hale gelmesinde veya uyuşmazlıkların çözümünde rol oynayan "Değerlendirme Kurulları / Sicil Kurulları"nın yapısını ve yetkilerini belirlemekteydi. Yasa koyucu, 12/5/1989 tarihli ve KHK-368 sayılı kararnameyle m. 114'ü; ardından 13/2/2011 tarihli ve 6111 sayılı Kanun’un 117. maddesiyle m. 113'ü mülga ederek bu katı ve hiyerarşik yapıları tamamen ortadan kaldırmıştır. **Bu ilga adımları, idarenin memur üzerindeki tek taraflı sübjektif değerlendirme tekelini kırmış ve kariyer adımlarını doğrudan DMK m. 109 özlük dosyası ve m. 122 başarı değerlendirmesi gibi nesnel mekanizmalara bağlamıştır.**
+
+#### 2. Maddedeki Kavramların Analizi
+Mülga maddelerin tarihsel muhtevası ve günümüz memur hukukuna sirayet eden temel kavramsal mirasları şu şekildedir:
+*   **Değerlendirme Asgari Süresi (Mülga m. 113):** Bir sicil amirinin memur hakkında sıhhatli ve hukuken geçerli bir performans notu (sicil raporu) verebilmesi için, memur ile amirin fiilen ve kesintisiz olarak birlikte çalışmak zorunda olduğu yasal asgari süredir.
+*   **Değerlendirme / Sicil Kurulları (Mülga m. 114):** Amirlerin verdikleri sübjektif değerlendirme notlarını denetleyen, onaylayan veya memurun itirazı üzerine revize eden, idarenin kendi içindeki hiyerarşik ve merkezi kurumsal kurullarıdır.
+*   **Hukuki Tasfiye ve Konsolidasyon:** Çağ dışı kalmış, subjektif değerlendirmelere kapı aralayan ve memur güvencesini zedeleyen idari mekanizmaların, normlar hiyerarşisine uygun olarak kanun koyucu tarafından sistem dışına çıkarılması işlemidir.
+
+#### 3. Sistematik İlişkiler
+DMK mülga m. 113 ve m. 114, idare hukuku ve anayasa hukuku sistematiğinde kamu görevlilerinin statü güvencelerini tanzim eden **Anayasa m. 128**, kamu hizmetine girme ve liyakat ilkelerini belirleyen **Anayasa m. 70**, özel hayatın gizliliğini güvenceye alan **Anayasa m. 20** ve disiplin işlemleri ile memur haklarının yargısal denetimini tanzim eden **Anayasa m. 129** hükümleriyle doğrudan dikey ilişki içerisindedir. Kanun içi sistematiğinde ise; güncel özlük dosyası rejimini düzenleyen aktif **DMK m. 109**, memurların başarı değerlendirmelerini tanzim eden **DMK m. 122**, derece ve kademe ilerlemesi şartlarını koyan **DMK m. 64 ve m. 68** hükümleriyle sarmal bir bütünlük sergiler.
+
+Doktrinde bu husus şu şekilde değerlendirilmektedir: M. 113 ve m. 114’ün yürürlükten kaldırılması, kamu personel rejiminde amirin memur üzerindeki mutlak ve denetlenemeyen takdir yetkisinin sınırlandırılması yönünde atılmış en önemli adımlardandır. Eski sistemde "çalışma süresinin yetersizliği" veya "değerlendirme kurullarının gizli kararları" nedeniyle terfi edemeyen veya görevden alınan memurların açtığı davalarda idari yargı, idarenin iç işleyişine müdahale edememekteydi. Günümüzde bu hiyerarşik denetim yetkisi, mülga maddelerin ilgasıyla birlikte "sicil" boyutundan tamamen arındırılmış; liyakat değerlendirmeleri m. 109 ve m. 122 altındaki nesnel, şeffaf ve belgeye dayalı bir kontrol mekanizmasına dönüştürülmüştür.
+
+#### 4. Uygulama: Yargı İçtihadı
+**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+#### 5. Pratik Örnek Olaylar
+*   **(kurmaca senaryo) 1 (Mülga Birlikte Çalışma Süresi Sınırına Dayanarak Terfinin Engellenmesi):** Bir kamu kurumunda mühendis olarak görev yapan A, 2025 yılında derece yükselmesi şartlarını tamamlamıştır. Ancak yeni atanan daire başkanı, "A ile henüz 3 aydır birlikte çalıştıklarını, mülga m. 113'ün ruhuna uygun olarak bir memurun performansını ölçmek için en az 6 ay birlikte çalışılması gerektiğini, bu süre dolmadan terfi onayını vermeyeceğini" belirterek işlemi askıya almıştır. Memur A dava açmıştır. Mahkeme, mülga m. 113 ile sicil raporu düzenlemek için gereken asgari süre şartının yasal sistemden tamamen temizlendiğini; günümüzde terfi işlemlerinin amirin sübjektif değerlendirme sürelerine değil, m. 64 ve m. 68’deki nesnel şartların (süre ve boş kadro) gerçekleşmesine bağlı olduğunu, idarenin mülga kuralları canlandırarak memuriyet adımlarını geciktiremeyeceğini belirterek idari erteleme işlemini iptal etmiştir.
+*   **(kurmaca senaryo) 2 (Kurumun Kendi İçinde Yasa Dışı "Değerlendirme Kurulu" Kurması):** Bir taşra belediyesi, belediye meclisi kararıyla belediye bünyesinde çalışan memurların verimliliğini ölçmek amacıyla "Değerlendirme ve Sicil Komisyonu" adı altında bir kurul ihdas etmiştir. Bu kurul, memurlara gizli puanlar vermiş ve düşük puan alan memurların görev yerlerini değiştirmiştir. Mağdur memurlar dava açmıştır. Mahkeme, mülga m. 114 ile değerlendirme kurullarının yasal dayanağının ortadan kalktığını; idarenin kanunda (DMK içinde) açıkça yetkilendirilmediği sürece kendi inisiyatifiyle memurları gizli kriterlerle puanlayacak kurul veya komisyonlar ihdas edemeyeceğini, bu durumun anayasal "kanunilik" ve "statü güvencesi" ilkelerini ihlal ettiğini belirterek kurul kararlarını ve buna bağlı görev yeri değişikliklerini iptal etmiştir.
+*   **(kurmaca senaryo) 3 (Geçmiş Dönem Hak Kaybı Davasında Süre Kuralının Uygulanması):** Memur C, 2008 yılında (sicil sisteminin aktif olduğu dönemde) sicil amirinin kendisiyle sadece 2 ay birlikte çalışmış olmasına rağmen hakkında düşük sicil notu düzenlediğini ve bu not nedeniyle 2009 yılında terfi edemediğini, arşiv kayıtlarını incelerken 2024 yılında öğrenmiştir. C, geçmiş sicil notunun iptali için dava açmıştır. İdare, "sicil sisteminin ve m. 113'ün mülga olduğunu" savunmuştur. Mahkeme, uyuşmazlığın olayın gerçekleştiği tarihteki (2008 yılındaki) mevzuat hükümlerine göre çözülmesi gerektiğini; o dönem yürürlükte olan mülga m. 113 uyarınca asgari çalışma süresi (6 ay) dolmadan düzenlenen sicil raporunun usulsüz olduğunu vurgulayarak geçmiş idari işlemi iptal etmiş ve C'nin mali haklarının geriye dönük ödenmesine karar vermiştir.
+
+#### 6. Pratik Uygulama Notları
+Uygulamada mülga maddelerin idari arşivlere olan etkilerini ve güncel liyakat denetimlerini yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
+
+*   **Zaman Bakımından Uygulama İlkesi (Intertemporal Law):** 1989 (m. 114 için) ve 2011 (m. 113 için) yılları öncesine ait kademe ilerlemesi engelleri, terfi alamama durumları veya sicil notunun düşüklüğünden kaynaklanan tazminat uyuşmazlıklarında; olayın meydana geldiği tarihte yürürlükte olan mülga m. 113, m. 114 ve bağlı sicil yönetmelikleri uygulanmalıdır. Güncel uyuşmazlıklarda ise bu mülga hükümlere kesinlikle dayanılmamalıdır.
+*   **Gölge Değerlendirme Kurullarının Engellenmesi:** Bazı kurumlar, norm kadro fazlası belirleme veya görevde yükselme mülakatlarında yasal dayanağı olmayan "değerlendirme komisyonları" kurarak mülga m. 114 benzeri sübjektif eliminasyon yöntemleri uygulamaktadır. Hukukçular, müvekkillerinin davalarında bu kurulların yasal dayanağının bulunmadığını, mülga m. 114’ün tasfiyesinden sonra bu tür gizli puanlama kurullarının kurulmasının hukuka açıkça aykırı olduğunu savunmalıdır.
+*   **Çalışma Sürelerinin Nesnel Takibi:** Memurun görev yerinin değiştirilmesinde veya terfi adımlarında amirin "personeli tanıma süresi" gibi yasal dayanağı olmayan soyut engeller ileri sürmesi halinde, idareye karşı doğrudan yürütmenin durdurulması istemli iptal davaları açılmalıdır.
+
+#### 7. Eleştirel Değerlendirme
+DMK mülga m. 113 ve m. 114 hükümlerinin sistemden çıkarılması ve sübjektif sicil kurullarının tasfiye edilmesi, demokratik hukuk devleti, şeffaf yönetim ve memuriyet güvenceleri açısından tarihi bir dönüm noktası olmakla birlikte, bu tasfiyenin ardından ortaya çıkan yönetsel boşluklar yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, mülga m. 113 ve m. 114 ile kaldırılan asgari çalışma süreleri ve değerlendirme kurulları yapısının yerine; memurların kurumsal verimliliğini, çalışkanlığını ve liyakatini sürekli, nesnel ve şeffaf kriterlerle ölçecek çağdaş bir "performans yönetim ve değerlendirme kurulu" modelinin DMK sistematiğine halen entegre edilememiş olması; kamu hizmetlerinin kalitesinin ölçülmesi yönünden büyük bir yasal boşluk doğurmuştur.**
+
+Doktrinde bu husus şu şekilde değerlendirilmektedir: Sübjektif ve cezalandırıcı nitelikteki eski gizli sicil kurullarının kaldırılması isabetlidir; ancak bunun yerine m. 109’da sadece "belge saklama" odaklı statik bir arşiv modelinin getirilmesi, dinamik bir insan kaynakları yönetimi sağlamak için yetersizdir. Çalışan memur ile çalışmayan memur arasındaki farkı ölçecek objektif standartların bulunmaması, kamu hizmeti verimliliğini düşürmektedir. Kanun koyucu, anayasal rasyonellik, liyakat ve eşitlik ilkelerini tam tahkim etmek adına, **mülga m. 113 ve m. 114’ün tasfiyesiyle oluşan bu boşluğu kapatacak; amirlerin memurlar üzerindeki değerlendirme yetkisini gizli kanaatlerden tamamen arındırarak, önceden belirlenmiş somut performans hedefleri ve 360 derece çoklu değerlendirme yöntemleriyle tanzim eden**; sonuçları memurun erişimine ve yargısal denetimine açık tutan çağdaş, demokratik ve bilimsel bir performans-kurul reformu gerçekleştirmelidir.
+
+---
+
+### Metodolojik Not
+Bu şerh çalışması, Devlet Memurları Kanunu’nun mülga m. 113 ve m. 114 hükümlerinin tarihsel gelişimi, ilga gerekçeleri, Türk kamu personel rejimindeki dönüşümleri ve günümüz memur hukuku normatif yapısına (özellikle DMK m. 109 özlük dosyası rejimine) olan etkileri boyutlarında teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk idare hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın genel akademik yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+⏳ Bu akademik şerh çalışması ile Devlet Memurları Kanunu’nun mülga m. 113 ve m. 114 hükümlerine ilişkin yedi bölümlü sistematik analiz tamamlanmıştır. Eski sicil süreleri ve değerlendirme kurulları rejiminin bu tasfiyesinin tahlilinin ardından; kamu görevlilerinin memuriyet statüsü içindeki başarı, üstün başarı ve ödüllendirme kriterlerini daha derinlemesine incelemek adına, bir sonraki aşama olarak **DMK Madde 122 — "Başarı, üstün başarı değerlendirmesi ve ödül"** hükmünün kapsamlı şerhine geçebiliriz.
