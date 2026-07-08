@@ -2,7 +2,9 @@
 title: "Ceza Muhakemesi Kanunu Madde 280"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 280
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-07-08"
+wordCount: 1321
 ---
 
 **Bölge adliye mahkemesinde inceleme ve kovuşturma**
@@ -68,6 +70,48 @@ sanık lehine olması hâlinde, bu hususların istinaf isteminde bulunmamış ol
 da uygulanma olanağı varsa bu sanıklar da istinaf isteminde bulunmuşçasına verilen
 kararlardan yararlanırlar.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+**Ceza Muhakemesi Kanunu’nun 280. maddesi, Bölge Adliye Mahkemesi ceza dairelerinin istinaf incelemesi neticesinde verebilecekleri karar türlerini, bu kararların usuli sınırlarını ve yargılama yöntemlerini tanzim eden, ilk derece mahkemesi hükmünün akıbetini belirleyen en kapsamlı ve merkezi usul normudur.** İstinaf kanun yolu, hem maddi vakıa denetimi hem de hukuk denetimi yapan iki dereceli yargı modelinin bel kemiğidir. Bu doğrultuda m. 280, üst mahkemeye dosyayı tamamen yerel mahkemeye geri gönderme (bozma), kararı revize ederek onaylama (düzelterek esastan ret), başvuruyu tamamen reddetme (esastan ret) veya uyuşmazlığı bizzat çözmek üzere duruşma açma yetkilerini tanzim etmektedir.
+
+**Öğretide genel kabul gören görüşe göre, bu madde Bölge Adliye Mahkemelerinin birer "vakıa mahkemesi" olarak kurulmasının en temel yasal dayanağıdır.** Kanun koyucu, ilk derece mahkemesinin kararında usule, esasa veya ispat değerlendirmesine ilişkin bir hata görmediğinde istinaf başvurusunun esastan reddine karar verilmesini öngörmüştür. Bunun yanı sıra, dosyanın yeniden duruşma açılmaksızın düzeltilebileceği basit ve sınırlı hukuka aykırılık hallerinde "düzelterek esastan ret" mekanizması işletilmektedir. Kararın tamamen usulsüz olduğu ağır hallerde ise "bozma" ve dosyanın geri gönderilmesi kararı verilmektedir. Eğer uyuşmazlığın çözümü için yeniden delil toplanması ve tartışılması gerekiyorsa, daire duruşma açarak davayı bizzat karara bağlamak zorundadır.
+
+#### 2. Maddedeki Kavramların Analizi
+Madde metninde yer alan ve istinaf karar mekanizmasını şekillendiren temel usul hukuku kavramlarının analizi şu şekildedir:
+*   **İstinaf Başvurusunun Esastan Reddi (m. 280/1-a):** İlk derece mahkemesi hükmünün hem usul kurallarına hem de maddi hukuka tamamen uygun olduğunu, delillerin takdirinde ve ispat değerlendirmesinde herhangi bir hata bulunmadığını tespit eden onama niteliğindeki karardır.
+*   **Hukuka Aykırılığın Düzeltilerek Esastan Reddi:** Kararda yer alan ve duruşma açılmasını gerektirmeyen (örneğin hesap hataları, kanun maddesinin yanlış yazılması, cezanın asgari hadden belirlenmesi talepleri, şahsi cezasızlık sebepleri vb.) basit hataların üst mahkemece doğrudan düzeltilmesi ve başvurunun reddedilmesidir.
+*   **Hükmün Bozulması (m. 280/1-e, f):** İlk derece mahkemesinin kararında CMK m. 289'da sayılan mutlak hukuka aykırılık hallerinin bulunması veya soruşturma/kovuşturma şartlarının gerçekleşmemesi gibi ağır usul hatalarının saptanması durumunda, kararın kaldırılarak dosyanın yerel mahkemeye geri gönderilmesidir.
+*   **Davanın Yeniden Görülmesi ve Duruşma Hazırlığı (m. 280/1-g):** Dosya üzerinde yapılan incelemede karar verilemeyen, esasa etkili yeni delillerin toplanmasını veya duruşmalı inceleme yapılmasını gerektiren tüm diğer hallerde, dairenin bizzat duruşma açma yönünde tesis ettiği ara karardır.
+*   **Lehe Kararın Sirayeti (m. 280/3):** İstinaf yoluna başvuran sanık lehine verilen kararların (örneğin beraat veya ceza indirimi), aynı konumda olan ancak istinaf yoluna başvurmamış olan diğer müşterek sanıklara da kendiliğinden uygulanması kuralıdır.
+
+#### 3. Sistematik İlişkiler
+CMK m. 280, ceza usulü sistematiğinde istinaf başvurusunun sınırlarını belirleyen **CMK m. 272**, ön inceleme aşamasını tanzim eden **CMK m. 279**, Bölge Adliye Mahkemesi duruşmasında uyulacak kuralları düzenleyen **CMK m. 281-282**, kesin hukuka aykırılık hallerini listeleyen **CMK m. 289** ve Yargıtay temyiz incelemesindeki düzeltme yetkisini düzenleyen **CMK m. 303** hükümleriyle sarsılmaz bir organik bütünlük içerisindedir.
+
+**Doktrinde bu husus şu şekilde değerlendirilmektedir: CMK m. 280, istinaf mahkemesinin ikincil nitelikteki bozma yetkisi ile birincil nitelikteki bizzat yargılama yetkisi arasındaki hiyerarşiyi kurmaktadır.** İstinaf sisteminin felsefi amacı, dava dosyalarının sürekli olarak alt ve üst mahkemeler arasında gidip gelmesini engellemektir. Bu nedenle, m. 280/1-e ve f bentlerindeki sınırlı haller (m. 289'daki mutlak bozma nedenleri ile dava şartlarının yokluğu) haricinde Bölge Adliye Mahkemesinin bozma kararı vererek dosyayı yerel mahkemeye göndermesi yasaklanmıştır. Bu iki istisna dışındaki tüm hukuka aykırılık ve eksikliklerde, daire m. 280/1-g uyarınca duruşma açarak yargılamayı bizzat tamamlamakla yükümlüdür. Bu yönüyle madde, ceza yargılamasının makul sürede bitirilmesini hedefleyen usul ekonomisi ilkesinin en güçlü koruyucusudur.
+
+#### 4. Uygulama: Yargı İçtihadı
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.
+
+#### 5. Pratik Örnek Olaylar
+*   **(kurmaca senaryo) 1 (Mutlak Bozma Sebebinin Varlığında Bozma Kararı):** Sanık A hakkında nitelikli hırsızlık suçundan asliye ceza mahkemesince mahkûmiyet kararı verilmiştir. Sanık müdafi, hüküm duruşmasında hazır bulunmadığı halde mahkemenin karar tesis ettiğini iddia ederek istinaf yoluna başvurmuştur. Bölge Adliye Mahkemesi ceza dairesi, zorunlu müdafiin duruşmada hazır bulunmamasını CMK m. 289/1-e kapsamında mutlak hukuka aykırılık sayarak, CMK m. 280/1-e uyarınca hükmün bozulmasına ve dosyanın yeniden incelenmek üzere ilk derece mahkemesine gönderilmesine karar vermiştir.
+*   **(kurmaca senaryo) 2 (Savcının Lehe İstinafında Düzelterek Esastan Ret):** Sanık B hakkında kasten yaralama suçundan dava açılmıştır. Mahkeme temel cezayı belirlerken yasal sınırın üzerinde ceza tayin etmiş, ancak gerekçesinde asgari hadden ayrılmayı gerektiren hiçbir somut neden göstermemiştir. Cumhuriyet savcısı, cezanın alt sınırdan verilmesi gerektiği gerekçesiyle sanık lehine istinaf etmiştir. Daire, olayın daha fazla araştırılmasına ihtiyaç duymayarak, CMK m. 280/1-b uyarınca ceza miktarını en alt dereceye indirerek hukuka aykırılığı düzeltmiş ve istinaf başvurusunun esastan reddine karar vermiştir.
+*   **(kurmaca senaryo) 3 (Duruşma Açılması Gereken Halde Bozma Hatası):** Sanık C hakkında dolandırıcılık suçundan beraat kararı verilmiştir. Katılan vekili, yerel mahkemenin eksik tanık dinlediğini ve delilleri eksik topladığını belirterek istinaf etmiştir. Daire, tanıkların dinlenmesi gerektiğini saptamış ancak duruşma açmak yerine "eksikliğin giderilmesi" gerekçesiyle yerel mahkemenin kararını bozup dosyayı geri göndermiştir. CMK m. 280/1 sistematiğinde mutlak bozma nedenleri dışında yerel mahkemeye dosya iade edilemeyeceğinden, dairenin duruşma açmayıp bozma kararı vermesi ağır bir usul ihlalidir.
+*   **(kurmaca senaryo) 4 (Lehe Kararın Başvurmayan Sanığa Sirayeti):** Ortak failler D ve E hakkında uyuşturucu ticareti suçundan mahkûmiyet kararı verilmiştir. Sadece sanık D süresi içinde istinaf yoluna başvurmuş ve daire yaptığı incelemede ele geçen maddelerin uyuşturucu niteliğinde olmadığı gerekçesiyle sanık D hakkındaki hükmü kaldırarak beraatine karar vermiştir. Sanık E kanun yoluna başvurmamış olsa dahi, CMK m. 280/3 uyarınca bu lehe durumun kendisine de sirayet etmesi olanaklı olduğundan, sanık E de istinaf etmişçesine beraat hükmünden yararlandırılır.
+
+#### 6. Pratik Uygulama Notları
+Uygulamada ceza müdafiiliği veya katılan vekilliği üstlenen avukatların, CMK m. 280 hükmünün getirdiği karar türlerini ve özellikle dairenin karar verme sınırlarını çok proaktif yönetmeleri gerekir. **Doktrinde bu husus şu şekilde değerlendirilmektedir: İstinaf dilekçelerinde talep edilen neticenin, m. 280'deki karar kalıplarına uygun olarak formüle edilmesi, üst mahkemenin dosya üzerindeki inceleme refleksini doğrudan etkilemektedir.**
+
+*   **Bozma Taleplerinin Temellendirilmesi:** Eğer müdafi dosyanın yerel mahkemeye geri gönderilmesini (bozulmasını) hedefliyorsa, dilekçesinde sadece genel hukuka aykırılık iddialarında bulunmamalı; **CMK m. 289'da yer alan mutlak bozma nedenlerinden en az birinin (örneğin savunma hakkının kısıtlanması, gerekçesizlik vb.) varlığını** somut verilerle ispat ederek daireyi CMK m. 280/1-e uygulamasına zorlamalıdır.
+*   **Duruşma Açılması Talebinin Vurgulanması:** Maddi vakıa yönünden delillerin yeniden tartışılması ve yerel mahkemenin eksik bıraktığı araştırmaların tamamlanması isteniyorsa, dilekçede açıkça **CMK m. 280/1-g uyarınca duruşma açılması ve duruşma hazırlığı işlemlerine başlanması** talep edilmeli; hangi delillerin neden duruşmada ikame edilmesi gerektiği somutlaştırılmalıdır.
+*   **Sirayet Etkisine Yönelik Takip:** Birden fazla sanıklı dosyalarda, müvekkili yönünden istinaf süresini kaçırmış olan avukat, diğer sanıkların istinaf başvurularını ve bu müracaatlar neticesinde verilecek kararları anlık takip etmeli; lehe bir karar kurulduğunda **CMK m. 280/3 uyarınca bu kararın müvekkiline sirayet ettirilmesini** infaz aşamasında veya ek karar talebiyle yerel mahkemeden istemelidir.
+
+#### 7. Eleştirel Değerlendirme
+CMK m. 280 hükümleri, ceza yargılamasında dosyaların süratle karara bağlanması adına güçlü usuli araçlar sunsa da, "bozma yetkisinin fiili genişlemesi" ve "duruşmasız adalet" tehlikesi yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, yasada bozma nedenlerinin m. 280/1-e ve f bentleri ile çok dar bir şekilde sınırlandırılmış olmasına rağmen, uygulamada Bölge Adliye Mahkemeleri iş yükünü azaltmak amacıyla bu sınırları aşırı esnetmektedir.**
+
+Daireler, esasa ve delil takdirine ilişkin neredeyse her hatayı bir şekilde CMK m. 289 kapsamında "gerekçesizlik" veya "savunma hakkının kısıtlanması" torbasına sokarak dosyaları yerel mahkemelere geri göndermekte (bozmakta) ve duruşma açmaktan kaçınmaktadır. Bu durum, istinaf mahkemelerinin birer "vakıa denetim mercii" olma niteliğini fiilen ortadan kaldırmakta ve onları klasik birer temyiz organına dönüştürmektedir. Ayrıca, m. 280/1'deki "düzelterek esastan ret" yetkisinin kapsamının genişletilmesi, sanıkların üst mahkeme önünde "sözlü savunma" yapma ve duruşmalı olarak dinlenme haklarını şeklen kısıtlamaktadır. Kanun koyucu, yargısal kaliteyi korumak adına, **Bölge Adliye Mahkemelerinin keyfi ve yasal sınırları aşan bozma kararlarına karşı katı idari ve usuli denetimler getirmeli** ve dairelerin duruşma açma yükümlülüklerini (m. 280/1-g) daha emredici yaptırımlarla güvence altına almalıdır.
+
+---
+
+### Metodolojik Not
+Bu şerh çalışması, Ceza Muhakemesi Kanunu m. 280 hükmünün ceza usul hukukundaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk ceza muhakemesi hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın genel akademik yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
