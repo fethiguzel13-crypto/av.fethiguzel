@@ -2,7 +2,9 @@
 title: "Ceza Muhakemesi Kanunu Madde 286"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 286
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-07-08"
+wordCount: 900
 ---
 
 **Temyiz**
@@ -77,6 +79,56 @@ maddesinin ikinci fıkrasında yer alan suçlar.
 c) Toplantı ve Gösteri Yürüyüşleri Kanununun 28 inci maddesinin birinci fıkrası, 31
 inci maddesi ve 32 nci maddesinde yer alan suçlar.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+CMK m. 286, istinaf incelemesinden geçmiş bölge adliye mahkemesi (BAM) kararlarına karşı **temyiz** yolunun kapsamını belirler. 2016 yılında istinaf mahkemelerinin fiilen faaliyete geçmesiyle birlikte, Yargıtay'ın iş yükünü makul seviyede tutabilmek amacıyla, kanun koyucu temyizi istisnai bir kanun yolu hâline getirmiş ve BAM kararlarının önemli bir kısmını "kesin" (temyiz edilemez) kılmıştır. Madde, bu kesinlik kuralının hangi hâllerde geçerli olduğunu (fıkra 2) ve hangi ağır/toplumsal öneme sahip suçlarda istisnaen temyiz yolunun yine de açık tutulduğunu (fıkra 3) düzenler.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Genel Kural: Temyiz Edilebilirlik (Fıkra 1)
+
+BAM ceza dairelerinin, bozma dışında kalan (yani esas hakkında verilen) hükümleri kural olarak temyize tabidir.
+
+##### 2.2. İstisna: Temyiz Edilemeyen Kararlar (Fıkra 2)
+
+Kanun koyucu, cezanın ağırlığına göre bir eşik belirlemiştir: beş yıl veya daha az hapis cezalarına ilişkin istinaf başvurusunun esastan reddi kararları, miktarı ne olursa olsun adli para cezalarına ilişkin kararlar, seçenek yaptırımlara ilişkin kararlar, iki yıla kadar (dâhil) hapis cezasını gerektiren suçlara ilişkin BAM kararları (ilk defa BAM'ca verilen mahkûmiyetler hariç), müsadere kararları, on yıl veya daha az hapis/adli para cezası gerektiren suçlardan beraat kararlarının onanması gibi kararlar **temyiz edilemez** — bu kararlar BAM aşamasında kesinleşir. Bu düzenleme, "küçük/orta ağırlıktaki cezalarda iki dereceli yargılama (ilk derece + istinaf) yeterlidir" varsayımına dayanır.
+
+##### 2.3. İstisnanın İstisnası: Toplumsal Öneme Sahip Suçlar (Fıkra 3)
+
+2019'da (7188 sayılı Kanun) eklenen bu fıkra, fıkra 2 kapsamında kesin olması gereken kararları dahi, belirli **ifade özgürlüğü ve kamu düzenine ilişkin hassas suçlarda** (hakaret, halkı korku ve panik yaratma amaçlı tehdit, suça tahrik, suçu/suçluyu övme, halkı kin ve düşmanlığa tahrik, Cumhurbaşkanına hakaret, devletin egemenlik alametlerini/kurumlarını aşağılama, silahlı örgüt, askerlikten soğutma, terör suçları, toplantı ve gösteri yürüyüşü suçları) temyize açık tutar. Bu istisna, söz konusu suç tiplerinin ifade özgürlüğü ile kamu düzeni arasındaki hassas dengeyi ilgilendirmesi ve Yargıtay'ın bu alanda içtihat birliğini sağlama ihtiyacının, iş yükü kaygısının önüne geçmesi nedeniyledir.
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 272-291** — İstinaf ve temyiz genel hükümleri; m. 286 temyizin kapsamını sınırlayan özel bir hükümdür.
+- **CMK m. 231** — HAGB kararlarına karşı kanun yolu; m. 231/12, ilk derece mahkemesi/BAM tarafından ilk defa verilen HAGB kararlarında m. 286 hükümlerinin uygulanacağını belirtir.
+- **Anayasa m. 26, 28, 34** — İfade, basın ve toplanma özgürlükleri; fıkra 3'teki suç kataloğunun anayasal temeli.
+
+#### 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin, scraper altyapısının ceza dairelerini kapsamaması nedeniyle güncel bir Yargıtay kararı temin edilememiştir. Maddenin kendi tarihçesinden anlaşıldığı üzere (kanuna ekli değişiklik tablosu), fıkra 2 ve 3 sık sık (2014, 2017, 2019, 2022 tarihli kanunlarla) revize edilmiş; bu da temyiz kapsamının siyasi ve toplumsal gündemle yakından ilişkili, dinamik bir alan olduğunu göstermektedir.
+
+#### 5. Pratik Örnek Olaylar
+
+*   **(kurmaca senaryo) 1:** Sanık, basit yaralama suçundan ilk derece mahkemesince 8 ay hapis cezasına mahkûm edilmiş, istinaf başvurusu BAM'ca esastan reddedilmiştir. Ceza 5 yılın altında olduğundan, bu karar fıkra 2/a uyarınca temyiz edilemez ve kesinleşir.
+*   **(kurmaca senaryo) 2:** Sanık, Cumhurbaşkanına hakaret suçundan (TCK m. 299) mahkûm olmuş, BAM istinaf başvurusunu esastan reddetmiştir. Ceza miktarı fıkra 2 kapsamında kalsa dahi, bu suç fıkra 3/a-8 kapsamında sayıldığından, karar YİNE DE temyiz edilebilir.
+*   **(kurmaca senaryo) 3:** Sanık, adli para cezasına mahkûm edilmiş ve BAM bu kararı onamıştır. Miktarı ne olursa olsun, adli para cezalarına ilişkin BAM kararları fıkra 2/e uyarınca temyiz edilemez; karar kesinleşir.
+
+#### 6. Pratik Uygulama Notları
+
+- **Öncelikli kontrol:** Müdafi, önce fıkra 3'teki istisna suç kataloğunu kontrol etmeli; suç bu listede ise ceza miktarından bağımsız olarak temyiz yolu açıktır.
+- **Ceza eşiği:** Fıkra 3 kapsamı dışındaki suçlarda, 5 yıl (hapis) ve 2 yıl (BAM'ın ilk kez baktığı düşük cezalı suçlar) eşikleri temyiz yolunun açık olup olmadığını belirler.
+- **Süre kaçırma riski:** Kararın temyize tabi olup olmadığı tereddütlü ise, ihtiyaten süresi içinde temyiz dilekçesi verilmesi, hak kaybını önler (Yargıtay kabul edilemez bulursa reddeder, ancak süre kaçırılmamış olur).
+
+#### 7. Eleştirel Değerlendirme
+
+CMK m. 286, istinaf sisteminin işlevselliğini korumak için Yargıtay'ın iş yükünü sınırlandırma ihtiyacı ile bireysel adalet ve içtihat birliği ihtiyacı arasında bir denge kurmaya çalışır. Fıkra 3'teki istisna kataloğu, ifade özgürlüğü ve kamu düzenine ilişkin suçların hassasiyetini doğru tespit etmekle birlikte, maddenin sürekli değişikliğe uğraması (tabloda görüldüğü üzere neredeyse her yıl bir revizyon), temyiz kapsamının öngörülebilirliğini zayıflatmaktadır. Kanaatimizce, hangi kararların kesin olduğu sorusunun bu denli sık değişmesi, hem savunma hem iddia makamı için hukuki belirlilik ilkesi bakımından risk taşımaktadır; sanığın adil yargılanma hakkının bir parçası olan "kanun yoluna başvurabilme" hakkının kapsamının istikrarlı olması arzu edilir.
+
+---
+
+### Metodolojik Not
+
+Bu şerh çalışması, Ceza Muhakemesi Kanunu m. 286 hükmünün ceza usul hukukundaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Doktrin bölümlerinde, herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmamıştır. Yargıtay içtihadına ilişkin güncel, doğrulanmış bir karar temin edilememiştir; mevcut tarama altyapısı ceza dairelerini kapsamamaktadır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+**Güncellik:** 08.07.2026 tarihi itibarıyla günceldir.

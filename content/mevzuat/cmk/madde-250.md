@@ -2,7 +2,9 @@
 title: "Ceza Muhakemesi Kanunu Madde 250"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 250
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-07-08"
+wordCount: 920
 ---
 
 **Seri muhakeme usulü**
@@ -107,6 +109,65 @@ yönünden inceler.
 (15) Bu maddenin uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığı tarafından
 çıkarılan yönetmelikle belirlenir.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+CMK m. 250, 2019'da (7188 sayılı Kanun) yeniden düzenlenen **seri muhakeme usulünü** tanzim eder. Bu usul, kanunda tek tek sayılan, nispeten hafif ve kitlesel biçimde işlenen suçlarda (trafik güvenliğini tehlikeye sokma, gürültüye neden olma, mühür bozma, kimlik bilgilerinin kullanılması vb.), soruşturma aşamasında Cumhuriyet savcısının şüpheliye bir ceza teklif etmesi, şüphelinin müdafii huzurunda bunu kabul etmesi ve mahkemenin bu teklifi onaylamasıyla, klasik duruşmalı yargılamaya gidilmeden hızlı ve etkin biçimde sonuçlandırılmasını sağlayan bir **tüketici/kitlesel adalet mekanizmasıdır**. Amaç, mahkemelerin iş yükünü hafifletirken, basit ve ikrara dayalı olaylarda süratli bir çözüm sunmaktır — bu yönüyle ceza muhakemesinde "plea bargaining" (itirafla anlaşma) modeline yakın bir kurumdur.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Kapsam (Fıkra 1)
+
+Seri muhakeme usulü, kamu davasının açılmasının ertelenmesine karar verilmediği takdirde, kanunda sınırlı sayıda sayılan TCK suçları (hakkı olmayan yere tecavüz, genel güvenliğin tehlikeye sokulması, trafik güvenliğinin tehlikeye sokulması, gürültüye neden olma, parada sahtecilik, mühür bozma, resmî belgede yalan beyan, kumar için yer sağlama, kimlik bilgilerinin kullanılması) ile özel kanunlardaki (silah, orman, kumar makineleri, kooperatifler) belirli suçlarda uygulanır. Bu, "hangi suçlarda seri usul uygulanabilir" sorusuna kanun koyucunun sınırlı sayma yoluyla kesin bir cevap verdiğini gösterir.
+
+##### 2.2. Teklif ve Kabul Süreci (Fıkra 2-3)
+
+Savcı veya kolluk, şüpheliyi seri muhakeme usulü hakkında bilgilendirir; savcı bu usulü teklif eder ve şüphelinin **müdafii huzurunda** kabulü şarttır. Müdafi zorunluluğu, şüphelinin haklarından bilinçli biçimde feragat etmesini güvence altına alan kritik bir usul güvencesidir.
+
+##### 2.3. Ceza Belirleme (Fıkra 4-7)
+
+Savcı, TCK m. 61/1'deki temel ceza belirleme ölçütlerini gözeterek belirlediği cezadan **yarı oranında indirim** uygular; sonuç ceza seçenek yaptırımlara çevrilebilir veya ertelenebilir; HAGB (m. 231) kıyasen uygulanabilir. Bu, savcının klasik iddia makamı rolünün ötesine geçip âdeta "cezayı belirleyen" bir işlev üstlendiğini gösterir — bu nedenle mahkeme onayı (fıkra 9), sürecin anayasal yargı denetiminden geçmesini sağlayan vazgeçilmez bir güvencedir.
+
+##### 2.4. Mahkeme Denetimi (Fıkra 8-9)
+
+Savcı, talebini yazılı olarak mahkemeye sunar; talep yazısında şüphelinin kimliği, suç, olay özeti, tutukluluk durumu ve önerilen yaptırım yer alır. Mahkeme şüpheliyi müdafii huzurunda dinledikten sonra şartların oluştuğu ve mahkûmiyet gerektiği kanaatine varırsa, önerilen yaptırımdan daha ağır olmamak kaydıyla hüküm kurar; aksi hâlde talebi reddedip dosyayı genel hükümlere göre sonuçlandırılmak üzere savcılığa iade eder.
+
+##### 2.5. Sınırlamalar (Fıkra 11-13)
+
+İştirak hâlinde işlenen suçlarda şüphelilerden birinin kabul etmemesi, seri usulün tamamen uygulanmamasına yol açar (fıkra 11); yaş küçüklüğü, akıl hastalığı hâllerinde ve şüpheliye ulaşılamadığında (fıkra 12-13) bu usul uygulanmaz — bu istisnalar, seri usulün yalnızca gerçekten rıza ehliyeti tam olan ve sürece bizzat katılabilen kişiler için tasarlandığını gösterir.
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 231** — HAGB; fıkra 6'da seri usul sonucu belirlenen yaptırıma kıyasen uygulanabilir.
+- **CMK m. 251-252** — Basit yargılama usulü; seri muhakemeyle birlikte 2019 reformunun iki ayağını oluşturur.
+- **TCK m. 50, 51, 61** — Seçenek yaptırım, erteleme ve temel ceza belirleme kuralları; madde bunlara doğrudan atıf yapar.
+
+#### 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin, scraper altyapısının ceza dairelerini kapsamaması nedeniyle güncel bir Yargıtay kararı temin edilememiştir. Maddenin kendi metninde, 5/11/2024 tarihli Anayasa Mahkemesi kararıyla maddede değişiklik yapıldığı ve 24/12/2025 tarihli 7571 sayılı Kanunla suç kataloğunda güncelleme yapıldığı (madde 170'e ilişkin) belirtilmektedir; bu, kurumun hâlâ aktif olarak revize edildiğini göstermektedir.
+
+#### 5. Pratik Örnek Olaylar
+
+*   **(kurmaca senaryo) 1:** Şüpheli, trafik güvenliğini tehlikeye sokma suçundan (madde 179/2) hakkında soruşturma yürütülürken, savcı seri muhakeme usulünü teklif eder. Şüpheli, müdafii huzurunda teklifi kabul eder; savcı, temel cezadan yarı indirim uygulayarak belirlediği hapis cezasını erteleme önerisiyle mahkemeye sunar; mahkeme şartları uygun bularak hükmü kurar.
+*   **(kurmaca senaryo) 2:** İki şüpheliden biri seri usulü kabul ederken diğeri reddeder. Bu durumda, iştirak hükmü gereği seri muhakeme usulü HİÇBİRİ için uygulanamaz; soruşturma genel hükümlere göre sürdürülür.
+*   **(kurmaca senaryo) 3:** Mahkeme, savcının talep yazısındaki cezanın mahiyetine uygun güvenlik tedbirinin belirtilmediğini tespit eder; talep yazısını eksikliğin tamamlanması için Cumhuriyet başsavcılığına iade eder.
+
+#### 6. Pratik Uygulama Notları
+
+- **Müdafi zorunluluğu:** Şüphelinin kabulü ancak müdafii huzurunda geçerlidir; müdafisiz kabul beyanı hükümsüzdür.
+- **Yarı indirim sabittir:** Savcının takdir yetkisi temel cezanın belirlenmesinde vardır, ancak indirim oranı (½) kanunda sabittir.
+- **Mahkemenin son sözü:** Seri usul, savcı-şüpheli anlaşmasıyla otomatik sonuçlanmaz; mahkemenin onayı zorunludur.
+- **Delil kullanım yasağı:** Usulün tamamlanamaması hâlinde, kabul beyanları sonraki işlemlerde delil olarak kullanılamaz (fıkra 10).
+
+#### 7. Eleştirel Değerlendirme
+
+Seri muhakeme usulü, kitlesel ve nispeten hafif suçlarda yargı sisteminin hızlandırılması bakımından işlevsel bir araçtır; mahkeme onayı ve müdafi zorunluluğu gibi güvenceler, sürecin bir "pazarlık" değil, denetimli bir usul olmasını sağlar. Ancak savcının aynı anda hem iddia makamı hem de fiilen ceza belirleyen konumda olması, güçler ayrılığı ve yargısal bağımsızlık açısından tartışmaya açıktır; mahkemenin denetimi kâğıt üzerinde güçlü görünse de, uygulamada dosya üzerinden ve şüpheliyi kısaca dinleyerek yapılan bir onay sürecine dönüşme riski taşır. Kanaatimizce, seri usulün asıl güvencesi, şüphelinin müdafii huzurunda özgür iradesiyle kabul etmesi ve her zaman bu usulü reddedip genel hükümlere göre yargılanmayı talep edebilmesidir; bu seçme özgürlüğünün fiilen (baskı, zaman kısıtı vb. olmaksızın) kullanılabilmesi, kurumun meşruiyetinin temelini oluşturur.
+
+---
+
+### Metodolojik Not
+
+Bu şerh çalışması, Ceza Muhakemesi Kanunu m. 250 hükmünün ceza usul hukukundaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Doktrin bölümlerinde, herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmamıştır. Yargıtay içtihadına ilişkin güncel, doğrulanmış bir karar temin edilememiştir; mevcut tarama altyapısı ceza dairelerini kapsamamaktadır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+**Güncellik:** 08.07.2026 tarihi itibarıyla günceldir.

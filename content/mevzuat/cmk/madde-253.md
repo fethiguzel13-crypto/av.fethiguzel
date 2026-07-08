@@ -2,7 +2,9 @@
 title: "Ceza Muhakemesi Kanunu Madde 253"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 253
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-07-08"
+wordCount: 980
 ---
 
 **Uzlaştırma99100101**
@@ -185,6 +187,61 @@ ve esasları, uzlaştırma teklifi ile müzakere usulü, uzlaştırma anlaşmas�
 konular ile uygulamaya dair diğer hususlara ilişkin usul ve esaslar, Adalet Bakanlığınca
 çıkarılan yönetmelikle düzenlenir.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+CMK m. 253, Türk ceza muhakemesinin en köklü **onarıcı adalet (restorative justice)** kurumu olan **uzlaştırmayı** düzenler. Uzlaştırma, şikâyete bağlı suçlar ile kanunda tek tek sayılan belirli suçlarda (kasten/taksirle yaralama, tehdit, konut dokunulmazlığının ihlali, hırsızlık, dolandırıcılık vb.), şüpheli ile mağdur/suçtan zarar görenin, bağımsız bir uzlaştırmacı aracılığıyla, ceza yargılamasına alternatif olarak kendi aralarında anlaşmasını ve bu anlaşma gerçekleşirse kovuşturmaya yer olmadığı kararı verilmesini sağlayan bir kurumdur. Klasik ceza adaletinin devlet-fail merkezli yapısından farklı olarak, uzlaştırma mağduru sürecin merkezine alır ve zararın giderilmesini cezalandırmanın önüne koyar.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Kapsam (Fıkra 1-3)
+
+Uzlaştırma iki eksende uygulanır: (a) tüm şikâyete bağlı suçlar, (b) şikâyete bağlı olsun olmasın kanunda tek tek sayılan suçlar (kasten yaralama, taksirle yaralama, tehdit, konut dokunulmazlığının ihlali, hırsızlık, dolandırıcılık, güveni kötüye kullanma vb.). Buna karşılık, **cinsel dokunulmazlığa karşı suçlar, ısrarlı takip ve hakaret suçlarında uzlaştırma yoluna gidilemez** (fıkra 3) — bu istisna, mağdurun onurunu ve cinsel özerkliğini ilgilendiren suçlarda, failin ekonomik/sosyal baskıyla mağduru "uzlaşmaya" zorlayabileceği endişesinden kaynaklanır. 2025 yılında (7571 sayılı Kanun) bu istisnaya, önödeme kapsamına giren bir suçla uzlaştırma kapsamındaki bir suçun birlikte işlenmesi hâlinde uzlaştırma kapsamındaki suç yönünden uzlaşmanın yine de uygulanabileceği yönünde bir netleştirme eklenmiştir.
+
+##### 2.2. Uzlaştırma Süreci (Fıkra 4-15)
+
+Dosya uzlaştırma bürosuna gönderilir; büronun görevlendirdiği uzlaştırmacı, taraflara (küçüklerde kanuni temsilciye) teklifte bulunur; 7 gün içinde cevap verilmezse teklif reddedilmiş sayılır (fıkra 4). Süreç **gizlidir** (fıkra 13); müzakerelere şüpheli, mağdur, kanuni temsilci, müdafi ve vekil katılabilir. Uzlaştırmacı en geç 30 gün içinde (iki kez 20'şer gün uzatılabilir) süreci sonuçlandırıp rapor hazırlar (fıkra 12, 15).
+
+##### 2.3. Uzlaşmanın Sonuçları (Fıkra 19-20)
+
+Edimin def'aten (bir kerede) yerine getirilmesi hâlinde kovuşturmaya yer olmadığı kararı verilir; edim ileri tarihe bırakılır/taksitlendirilirse, kamu davasının açılmasının ertelenmesi kararı verilir ve erteleme süresince zamanaşımı işlemez. Uzlaşmanın sağlanması hâlinde, **uzlaşma anında tespit edilemeyen veya sonradan ortaya çıkan zararlar hariç**, aynı olay nedeniyle tazminat davası açılamaz — bu sınırlama, Anayasa Mahkemesinin 26/7/2023 tarihli E.:2023/43, K.:2023/141 sayılı kararıyla kısmen iptal edilmiş, sonradan 7531 sayılı Kanunla (2024) yeniden ve daha dar kapsamlı biçimde düzenlenmiştir. Uzlaşma sağlanamazsa rapor/belge, sonraki yargılamada delil olarak kullanılamaz (fıkra 20) — bu, tarafların müzakere sürecinde özgürce konuşabilmesini güvence altına alan kritik bir usul ilkesidir.
+
+##### 2.4. Uzlaştırmacı ve Kurumsal Yapı (Fıkra 22, 24-25)
+
+Uzlaştırmacıya Adalet Bakanlığı tarifesine göre ücret ödenir; bu gider, uzlaşma gerçekleşirse Devlet Hazinesince karşılanır (fıkra 22). Her Cumhuriyet başsavcılığında bir uzlaştırma bürosu kurulur; uzlaştırmacılar, hukuk fakültesi mezunları arasından Adalet Bakanlığınca belirlenen listelerden görevlendirilir (fıkra 24).
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 171-172** — Kamu davasının açılmasının ertelenmesi; uzlaşmada edimin taksitli/ileri tarihli ifasında bu kurum devreye girer.
+- **TCK m. 73-75** — Şikâyet ve etkin pişmanlık; uzlaştırmanın maddi ceza hukukundaki karşılığı.
+- **6325 sayılı Hukuk Uyuşmazlıklarında Arabuluculuk Kanunu** — Hukuk davalarındaki paralel onarıcı adalet kurumu.
+
+#### 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin, scraper altyapısının ceza dairelerini kapsamaması nedeniyle güncel bir Yargıtay kararı temin edilememiştir. Maddenin kendi metninde yer alan Anayasa Mahkemesinin 26/7/2023 tarihli ve E.:2023/43, K.:2023/141 sayılı kararı (tazminat davası yasağının kısmen iptali) doğrudan kanun metninden alınmıştır.
+
+#### 5. Pratik Örnek Olaylar
+
+*   **(kurmaca senaryo) 1:** Basit kasten yaralama suçu şüphelisi ile mağdur, uzlaştırma bürosunca görevlendirilen uzlaştırmacı huzurunda bir araya gelir; şüpheli tazminatı def'aten öder, mağdur şikâyetinden vazgeçtiğini beyan eder. Cumhuriyet savcısı, uzlaşmanın özgür iradeye dayandığını tespit ederek kovuşturmaya yer olmadığı kararı verir.
+*   **(kurmaca senaryo) 2:** Cinsel taciz suçu şüphelisi, mağdurla "uzlaşma" teklif eder; ancak bu suç tipi CMK m. 253/3 kapsamında uzlaştırmadan kesin olarak istisna tutulduğundan, savcı uzlaştırma yoluna gitmeksizin soruşturmayı sürdürür.
+*   **(kurmaca senaryo) 3:** Şüpheli, edimini taksitler hâlinde ödemeyi kabul eder; savcı kamu davasının açılmasının ertelenmesine karar verir. Erteleme süresi içinde şüpheli taksitleri ödemeye devam ettiğinden zamanaşımı işlemez; süre sonunda edim tamamlanınca dava açılmaz.
+
+#### 6. Pratik Uygulama Notları
+
+- **İstisna suçlar:** Cinsel dokunulmazlığa karşı suçlar, ısrarlı takip ve hakaret suçlarında uzlaştırma KESİNLİKLE uygulanamaz.
+- **Gizlilik:** Müzakerelerdeki açıklamalar hiçbir şekilde delil olarak kullanılamaz; müdafi bu güvenceyi müvekkiline açıkça anlatmalıdır.
+- **Tekrar deneme yasağı:** Uzlaştırma sonuçsuz kalırsa aynı olay için tekrar uzlaştırma yoluna gidilemez (fıkra 18).
+- **Süre takibi:** 7 günlük cevap süresi ve 30(+20+20) günlük uzlaştırmacı süresi kesin sürelerdir; müdafi bunları yakından izlemelidir.
+
+#### 7. Eleştirel Değerlendirme
+
+Uzlaştırma, ceza adaletine mağdur-odaklı ve onarıcı bir boyut kazandıran, yargı yükünü de hafifleten değerli bir kurumdur. İstisna suçların (cinsel dokunulmazlık, ısrarlı takip, hakaret) kanun koyucu tarafından açıkça dışlanması, mağdurun ekonomik/toplumsal baskı altında "gönülsüz uzlaşmaya" zorlanması riskine karşı isabetli bir korumadır. Tazminat davası yasağının Anayasa Mahkemesince kısmen iptal edilip yeniden düzenlenmesi (2023-2024), uzlaşmanın mağdurun TÜM haklarından feragati anlamına gelmemesi gerektiği yönünde önemli bir anayasal düzeltmedir. Kanaatimizce, kurumun asıl sınavı, uzlaştırmacıların bağımsızlığı ve mesleki yeterliliğinin denetimidir; uzlaştırmacı listesine kayıt ve denetim mekanizmalarının güçlü işlemesi, uzlaşmanın gerçekten "tarafların özgür iradesine dayanan" bir süreç olmasının (fıkra 17) teminatıdır.
+
+---
+
+### Metodolojik Not
+
+Bu şerh çalışması, Ceza Muhakemesi Kanunu m. 253 hükmünün ceza usul hukukundaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Doktrin bölümlerinde, herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmamıştır. Anayasa Mahkemesinin 26/7/2023 tarihli E.:2023/43, K.:2023/141 sayılı kararına ilişkin bilgi doğrudan 5271 sayılı Kanunun resmî metnindeki dipnottan alınmıştır. Yargıtay içtihadına ilişkin güncel, doğrulanmış bir karar temin edilememiştir; mevcut tarama altyapısı ceza dairelerini kapsamamaktadır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+**Güncellik:** 08.07.2026 tarihi itibarıyla günceldir.

@@ -2,7 +2,9 @@
 title: "Ceza Muhakemesi Kanunu Madde 333"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 333
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-07-08"
+wordCount: 780
 ---
 
 **Yönetmelik**
@@ -187,6 +189,56 @@ Kanunla 253 üncü maddenin üçüncü fıkrasında yapılan değişiklik ve 523
 inci maddesinin altıncı fıkrasında yapılan değişiklik uygulanmaz. Bu dosyalar, 253 üncü
 maddenin üçüncü fıkrasının değişiklikten önceki hükümlerine göre sonuçlandırılır.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+CMK m. 333, esasen kanunda öngörülen yönetmeliklerin çıkarılma yetkisini (fıkra 1) düzenleyen kısa bir hükümdür; ancak madde metnine zamanla eklenen **Ek Madde 1** ve çok sayıda **Geçici Madde**, asıl önemli normatif içeriği taşır. Bu ek/geçici maddeler, kanunun ana gövdesine sığmayan ama yürürlükte kalan özel düzenlemeleri bir araya toplayan bir "teknik ek" işlevi görür. Bunlar arasında en önemlisi, kolluk görevlilerinin işlediği ağır suçlarda öncelikli soruşturma yükümlülüğünü getiren Ek Madde 1'dir.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Yönetmelik Çıkarma Yetkisi (Fıkra 1)
+
+Kanunda öngörülen yönetmelikler, aksine hüküm yoksa, ilgili bakanlıkların görüşü alınarak Adalet Bakanlığınca çıkarılır. Bu, ceza muhakemesi alanındaki ikincil mevzuatın yürütme organı içinde hangi makamda toplandığını gösteren bir yetki paylaşımı hükmüdür.
+
+##### 2.2. Kolluk Görevlilerine Yönelik Öncelikli Soruşturma (Ek Madde 1)
+
+2016 yılında eklenen bu hüküm, kolluk görevlileri hakkındaki **öldürme, kasten yaralama, işkence, zor kullanma yetkisinin sınırının aşılması ve örgüt suçları** iddialarına ilişkin soruşturmaların Cumhuriyet savcıları tarafından **bizzat ve öncelikle** yürütülmesini; bu suçlardan açılan davaların **acele işlerden** sayılmasını ve kanun yolu incelemesinin de öncelikli yapılmasını emreder. Bu düzenleme, kolluk şiddetine ilişkin iddiaların savcı yardımcıları veya bizzat kolluğun kendisi eliyle değil, doğrudan savcı tarafından, gecikmeksizin soruşturulmasını sağlayarak, devletin yaşam hakkı ve işkence yasağına ilişkin **usul boyutundaki pozitif yükümlülüklerini** (etkili soruşturma yükümlülüğü) somutlaştırır.
+
+##### 2.3. Geçici Maddeler
+
+Madde metnindeki çok sayıda geçici madde, çeşitli kanun değişikliklerinin (5560, 5728, 5918, 6008, 6763, 7035, 7165, 7188, 7499, 7531, 7571 sayılı kanunlarla yapılan) yürürlüğe girdiği tarihte derdest olan dosyalara hangi hükümlerin uygulanacağını düzenleyen **intertemporal (zaman bakımından uygulama) hükümlerdir**. Bunların ortak paydası, "kanun değiştiğinde, değişiklik öncesi başlamış işlemlere hangi kuralın uygulanacağı" sorusuna cevap vermeleridir — ceza muhakemesi hukukunda genel ilke, derhal uygulanabilirlik (yeni usul kuralının, aksi öngörülmedikçe, devam eden işlemlere de uygulanması) olmakla birlikte, kazanılmış usul haklarının korunması gerektiği hâllerde kanun koyucu bu geçiş hükümleriyle istisnalar getirmiştir.
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 250 vd.** — Seri muhakeme usulü; Geçici Madde 5, bu usulün hangi tarihten itibaren uygulanacağını düzenler.
+- **CMK m. 231** — HAGB; Geçici Madde 6, 2024 değişikliğinin hangi tarihten itibaren uygulanacağını netleştirir.
+- **Anayasa m. 17** — Yaşama hakkı ve işkence yasağı; Ek Madde 1'in anayasal temeli.
+- **AİHS m. 2-3** — Etkili soruşturma yükümlülüğü; Ek Madde 1'in Strasbourg içtihadıyla uyumlu yapısı.
+
+#### 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin, scraper altyapısının ceza dairelerini kapsamaması nedeniyle güncel bir Yargıtay kararı temin edilememiştir.
+
+#### 5. Pratik Örnek Olaylar
+
+*   **(kurmaca senaryo) 1:** Gözaltına alınan bir şüphelinin, kolluk görevlilerince aşırı güç kullanılarak yaralandığı iddia edilir. Ek Madde 1 uyarınca, bu soruşturma adli kolluğa devredilmeksizin doğrudan Cumhuriyet savcısı tarafından bizzat ve öncelikle yürütülür.
+*   **(kurmaca senaryo) 2:** Kolluk görevlisi hakkında zor kullanma yetkisinin sınırının aşılması suçundan açılan dava, mahkemece "acele işlerden" sayılarak diğer dosyalardan önce görülür ve kanun yolu incelemesi de öncelikli olarak tamamlanır.
+*   **(kurmaca senaryo) 3:** 2019 tarihli 7188 sayılı Kanunla seri muhakeme usulü yeniden düzenlendiğinde, Geçici Madde 5 uyarınca bu usul ancak 1/1/2020'den itibaren uygulanmaya başlanmış; bu tarihten önce kovuşturma evresine geçilmiş dosyalarda uygulanmamıştır.
+
+#### 6. Pratik Uygulama Notları
+
+- **Kolluk şiddeti iddiaları:** Müdafi, müvekkili hakkında kolluk tarafından işkence/aşırı güç iddiası varsa, Ek Madde 1'e dayanarak soruşturmanın bizzat savcı tarafından ve öncelikle yürütülmesini talep edebilir.
+- **Geçiş hükümleri:** Devam eden bir dosyada hangi kanun hükmünün uygulanacağı tartışmalıysa, ilgili geçici maddenin tarihi kesin olarak kontrol edilmelidir.
+
+#### 7. Eleştirel Değerlendirme
+
+Ek Madde 1, kolluk şiddetine karşı etkili soruşturma yükümlülüğünü somutlaştırması bakımından önemli bir kazanımdır; ancak "bizzat ve öncelikle soruşturma" yükümlülüğünün fiilen ne ölçüde uygulandığının bağımsız denetimi zayıf kalabilir. Geçici maddelerin sayısının ve karmaşıklığının artması ise, CMK'nın zaman içindeki değişim yoğunluğunu ve uygulayıcılar için mevzuat takibinin güçlüğünü göstermektedir; kanaatimizce bu tür intertemporal hükümlerin bir kodifikasyon çalışmasıyla sadeleştirilmesi, hukuki belirlilik açısından faydalı olurdu.
+
+---
+
+### Metodolojik Not
+
+Bu şerh çalışması, Ceza Muhakemesi Kanunu m. 333 hükmünün (Yönetmelik, Ek Madde 1 ve geçici maddeler) ceza usul hukukundaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Doktrin bölümlerinde, herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmamıştır. Yargıtay içtihadına ilişkin güncel, doğrulanmış bir karar temin edilememiştir; mevcut tarama altyapısı ceza dairelerini kapsamamaktadır. Madde, esas itibarıyla teknik/geçiş nitelikli hükümler içerdiğinden, analiz ağırlıklı olarak Ek Madde 1'in maddi/anayasal önemine yoğunlaşmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+**Güncellik:** 08.07.2026 tarihi itibarıyla günceldir.

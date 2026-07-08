@@ -2,7 +2,9 @@
 title: "Ceza Muhakemesi Kanunu Madde 248"
 kanun: "Ceza Muhakemesi Kanunu"
 maddeNo: 248
-commentaryStatus: "pending"
+commentaryStatus: "completed"
+lastReviewed: "2026-07-08"
+wordCount: 880
 ---
 
 **Zorlama amaçlı elkoyma ve teminat belgesi87**
@@ -90,6 +92,62 @@ ibaresi “Sulh ceza hâkimi veya mahkeme” şeklinde değiştirilmiştir.
 
 (8) Bu kararlara karşı itiraz edilebilir.
 
-### Bizim Yorumumuz
+### Akademik Yorum ve Analiz
 
-Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
+
+CMK m. 248, "kaçak" (hakkında kovuşturma açılmış ancak yurt dışına kaçmış veya saklanan) sanığın Cumhuriyet savcısına başvurmasını veya duruşmaya gelmesini sağlamak amacıyla, Türkiye'deki mal, hak ve alacaklarına **zorlama amaçlı elkoyma** yapılmasını düzenler. Bu tedbir, klasik anlamda bir delil koruma tedbiri değil, doğrudan **kaçağı adalete teslim olmaya zorlayan ekonomik bir baskı aracıdır**. Madde, bu ağır tedbirin hangi suçlarda (fıkra 2'de tek tek sayılan ağır suç kataloğu) ve hangi usulle (sulh ceza hâkimi veya mahkeme kararı, kayyım atanması) uygulanacağını ayrıntılı biçimde sınırlandırır.
+
+#### 2. Maddedeki Kavramların Analizi
+
+##### 2.1. Zorlama Amaçlı Elkoyma (Fıkra 1)
+
+Kaçağın Türkiye'deki mallarına, amaçla orantılı olarak, Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi veya mahkeme kararıyla elkonulabilir; gerektiğinde idaresi için kayyım atanır. "Amaçla orantılı olma" ifadesi, tedbirin ölçülülük ilkesine tabi olduğunu, kaçağı teslim olmaya zorlamak için gerekli olandan fazla mal varlığına elkonulamayacağını gösterir.
+
+##### 2.2. Uygulama Alanı Sınırlaması (Fıkra 2)
+
+Tedbir, keyfi biçimde her suçta değil, kanunda tek tek sayılan ağır suçlarda (soykırım, insanlığa karşı suçlar, göçmen kaçakçılığı ve insan ticareti, hırsızlık, yağma, dolandırıcılık, uyuşturucu ticareti, örgüt suçları, zimmet, rüşvet, devletin güvenliğine karşı suçlar, casusluk vb.) ve belirli özel kanunlardaki suçlarda (silah kaçakçılığı, bankacılık zimmeti, kaçakçılık, kültür varlıklarının korunması) uygulanabilir. Bu sınırlı sayma (numerus clausus) tekniği, tedbirin ağırlığına karşı bir güvence oluşturur.
+
+##### 2.3. Kayyım, İlan ve Yardım (Fıkra 3, 6)
+
+Elkonulan malların korunmasında elkoymaya ilişkin genel hükümler uygulanır; tedbir kararının özeti gazetede ilan edilebilir (fıkra 3). Kaçağın bakmakla yükümlü olduğu yakınları yoksulluğa düşerse, kayyım bunlara elkonulan mal varlığından orantılı yardım yapılmasına izin verebilir (fıkra 6) — bu, tedbirin masum üçüncü kişileri (aile bireylerini) mağdur etmemesini amaçlayan insancıl bir düzenlemedir.
+
+##### 2.4. Tedbirin Kaldırılması ve İtiraz (Fıkra 4, 8)
+
+Kaçak yakalandığında veya kendiliğinden teslim olduğunda elkoymanın kaldırılmasına karar verilir (fıkra 4); tedbir kararlarına karşı itiraz yolu açıktır (fıkra 8).
+
+#### 3. Sistematik İlişkiler
+
+- **CMK m. 246-247** — Kaçaklık kurumu ve gaip sanık hakkındaki genel hükümler; m. 248 bunun ekonomik yaptırım boyutunu oluşturur.
+- **CMK m. 100 vd.** — Tutuklama; fıkra 5, kaçak hakkında yokluğunda tutuklama kararı verilebileceğini düzenler.
+- **CMK m. 128** — Taşınmaz, hak ve alacaklara elkoyma; zorlama amaçlı elkoymanın usulüne kıyasen kaynaklık eder.
+
+**ÖNEMLİ NOT:** Maddenin metninde yer alan dipnotlardan biri, Anayasa Mahkemesinin 10/7/2025 tarihli ve E.:2024/98, K.:2025/149 sayılı kararıyla bu maddeye ilişkin bir fıkranın iptal edildiğini ve iptalin 30/9/2026'da yürürlüğe gireceğini belirtmektedir; iptalin kapsamı (hangi fıkraya ilişkin olduğu) kaynak metindeki dipnot numaralandırmasının karışıklığı nedeniyle bu çalışmada kesin olarak tespit edilememiştir. Uygulayıcıların, 30/9/2026 öncesinde maddenin güncel, resmî ve dipnotsuz hâlini mevzuat.gov.tr üzerinden ayrıca teyit etmesi önerilir.
+
+#### 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin, scraper altyapısının ceza dairelerini kapsamaması nedeniyle güncel, doğrulanmış bir Yargıtay kararı bu çalışmada temin edilememiştir.
+
+#### 5. Pratik Örnek Olaylar
+
+*   **(kurmaca senaryo) 1:** Nitelikli dolandırıcılık suçundan kovuşturması devam eden sanık, duruşmalara gelmeyip yurt dışına kaçar. Cumhuriyet savcısının istemi üzerine mahkeme, sanığın Türkiye'deki gayrimenkullerine, duruşmaya gelmesini sağlamak amacıyla orantılı biçimde elkoyar ve idaresi için kayyım atar.
+*   **(kurmaca senaryo) 2:** Elkoyma kararından sonra kaçağın eşi ve küçük çocuğu, gelir kaynağı kalmadığından yoksulluğa düşme tehlikesiyle karşılaşır. Kayyım, mahkemeden izin alarak elkonulan mal varlığından ailenin geçimi için orantılı bir yardımda bulunur.
+*   **(kurmaca senaryo) 3:** Kaçak sanık, bir yıl sonra kendiliğinden Türkiye'ye dönüp Cumhuriyet savcılığına başvurur. Mahkeme, elkoymanın kaldırılmasına karar verir ve mallar sahibine iade edilir.
+
+#### 6. Pratik Uygulama Notları
+
+- **Sınırlı suç kataloğu:** Tedbir, yalnızca fıkra 2'de sayılan ağır suçlarda uygulanabilir; katalog dışı suçlarda talep edilemez.
+- **Ölçülülük:** Elkoyma, kaçağı teslim olmaya zorlama amacıyla orantılı olmalı, gereğinden fazla mal varlığına elkonulmamalıdır.
+- **İtiraz hakkı:** Müdafi, elkoyma ve kayyım atama kararlarına karşı itiraz yolunu (fıkra 8) her zaman değerlendirmelidir.
+
+#### 7. Eleştirel Değerlendirme
+
+CMK m. 248, kaçaklığın adalet önüne çıkmayı fiilen imkânsızlaştırdığı ağır suçlarda, ekonomik baskı yoluyla adaletin işlemesini sağlamaya çalışan pragmatik ama tartışmalı bir araçtır. Tedbirin mülkiyet hakkına ağır bir müdahale teşkil etmesi nedenle sınırlı suç kataloğuyla ve ölçülülük ilkesiyle çerçevelenmesi isabetlidir; ancak masum aile bireylerinin dolaylı olarak etkilenme riski (fıkra 6'daki yardım imkânına rağmen) tedbirin en hassas yönüdür. Kanaatimizce, kayyım denetiminin şeffaflığı ve elkonulan mal varlığının değerinin kaçağı teslim olmaya zorlama amacıyla gerçekten orantılı olup olmadığının yargısal denetimi, bu tedbirin meşruiyeti açısından belirleyicidir.
+
+---
+
+### Metodolojik Not
+
+Bu şerh çalışması, Ceza Muhakemesi Kanunu m. 248 hükmünün ceza usul hukukundaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Doktrin bölümlerinde, herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmamıştır. Yargıtay içtihadına ilişkin güncel, doğrulanmış bir karar temin edilememiştir; mevcut tarama altyapısı ceza dairelerini kapsamamaktadır. Maddeye ilişkin AYM iptal kararı kaynak metindeki dipnottan alınmış olup kapsamı tam olarak tespit edilemediğinden ihtiyatla aktarılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+**Güncellik:** 08.07.2026 tarihi itibarıyla günceldir.
