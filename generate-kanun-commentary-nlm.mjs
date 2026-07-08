@@ -126,13 +126,17 @@ const SAHTE_ATIF_KALIPLARI = [/\[\d+\]/, /\*[^*]{3,60}\*\s*(çalışmasında|ese
 // Onayli yazar listesindeki soyisimlerin METINDE HIC GECMEMESI gerekir (format ne olursa olsun) —
 // guvenli kalip "oğretide genel kabul goren gorus" gibi atifsiz ifadedir, isim gecmesi
 // regex-kacagi bir uydurma atif olabilir (orn. "Kuru'ya gore" — koseli parantez/italik yok ama yine atif).
+// NOT: JS \b, Turkce harfleri (ı,ğ,ş,ç,ö,ü,İ) "kelime karakteri" saymaz — bu yuzden \bTan\b gibi bir
+// kalip "TANım/tanı" icinde sahte eslesir. Bunun yerine Turkce harfleri de kapsayan elle kurulmus
+// kelime-siniri kullanilir; iyelik eki icin apostrof+ek istisnasi taninir.
+const TR_WORDCHAR = "A-Za-zÇĞİIÖŞÜçğıiöşü0-9";
 function yazarIsimGeciyorMu(commentary, kanunId) {
   const meta = KANUN_META[kanunId];
   const yazarlar = ALAN_YAZARLAR[meta.alan];
-  const isimler = yazarlar.split(/[,/]/).map(s => s.trim()).filter(Boolean);
+  const isimler = yazarlar.split(/[,/]/).map(s => s.trim()).filter(Boolean).filter(s => s.length >= 3);
   for (const isim of isimler) {
-    // Turkce iyelik/hal ekleri (Kuru'ya, Kuru'nun vb.) de yakalansin diye kok+kesme isareti kontrolu
-    const re = new RegExp(`\\b${isim.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}(['’]|\\b)`, 'i');
+    const escaped = isim.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const re = new RegExp(`(?<![${TR_WORDCHAR}])${escaped}(?:['’][${TR_WORDCHAR}]*)?(?![${TR_WORDCHAR}])`, 'i');
     if (re.test(commentary)) return isim;
   }
   return null;
