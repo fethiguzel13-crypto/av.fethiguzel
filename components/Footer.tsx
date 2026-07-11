@@ -102,10 +102,27 @@ export default function Footer() {
           </div>
         </div>
 
+        {/* Hizmet bölgeleri — dahili bağlantı */}
+        <div className="mt-12 flex flex-wrap justify-center gap-x-6 gap-y-2 text-[11px] font-bold uppercase tracking-widest">
+          {[
+            { ad: 'Van Avukat', href: '/van-avukat' },
+            { ad: 'Erciş Avukat', href: '/ercis-avukat' },
+            { ad: 'Ağrı Avukat', href: '/agri-avukat' },
+            { ad: 'Patnos Avukat', href: '/patnos-avukat' },
+            { ad: 'Muradiye Avukat', href: '/muradiye-avukat' },
+          ].map(l => (
+            <Link key={l.href} href={l.href} className="text-cream/40 hover:text-accent transition-colors">
+              {l.ad}
+            </Link>
+          ))}
+        </div>
+
         {/* SEO yerel metin */}
-        <p className="mt-12 text-center text-cream/15 text-[10px] font-sans leading-relaxed max-w-3xl mx-auto">
-          Av. Fethi Güzel — Van, Erciş, Muradiye, Çaldıran, Özalp, Başkale, Gürpınar, Ağrı ve çevre ilçelerde hukuki danışmanlık,
-          dava vekilliği, arabuluculuk ve akademik hukuk danışmanlığı hizmetleri sunulmaktadır.
+        <p className="mt-6 text-center text-cream/45 text-xs font-sans leading-relaxed max-w-3xl mx-auto">
+          Av. Fethi Güzel — <strong className="text-cream/60">Van avukat</strong>, <strong className="text-cream/60">Erciş avukat</strong>,{' '}
+          <strong className="text-cream/60">Ağrı avukat</strong>, <strong className="text-cream/60">Patnos avukat</strong> ve{' '}
+          <strong className="text-cream/60">Muradiye avukat</strong> arayışında olanlara; Çaldıran, Özalp, Başkale, Gürpınar ve çevre
+          ilçelerde hukuki danışmanlık, dava vekilliği, arabuluculuk ve akademik hukuk danışmanlığı hizmetleri sunulmaktadır.
           Ceza hukuku, medeni hukuk, aile hukuku, iş hukuku, gayrimenkul hukuku, idare hukuku ve ticaret hukuku alanlarında
           profesyonel temsil için iletişime geçebilirsiniz.
         </p>

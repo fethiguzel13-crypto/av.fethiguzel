@@ -12,9 +12,10 @@ export const metadata: Metadata = {
     default: 'Av. Fethi Güzel | Özel Hukuk Uzmanı & Arabulucu',
     template: '%s | Av. Fethi Güzel',
   },
-  description: 'Van ve Erciş\'te hukuki danışmanlık ve dava vekilliği. Ceza, medeni, gayrimenkul, idare, iş, borçlar ve ticaret hukuku alanlarında profesyonel temsil.',
+  description: 'Van, Erciş, Ağrı, Patnos ve Muradiye\'de hukuki danışmanlık ve dava vekilliği. Ceza, medeni, gayrimenkul, idare, iş, borçlar ve ticaret hukuku alanlarında profesyonel temsil.',
   keywords: [
     'Fethi Güzel', 'Avukat Fethi Güzel', 'Van avukat', 'Erciş avukat',
+    'Ağrı avukat', 'Patnos avukat', 'Muradiye avukat',
     'ceza hukuku', 'ağır ceza', 'asliye ceza',
     'medeni hukuk', 'aile hukuku', 'boşanma avukatı', 'miras avukatı',
     'gayrimenkul hukuku', 'tapu iptal', 'izale-i şüyu',
@@ -67,7 +68,7 @@ export default function RootLayout({
               "@type": "Person",
               "name": "Av. Fethi Güzel",
               "jobTitle": "Avukat & Arabulucu",
-              "description": "Özel Hukuk alanında akademik uzmanlık. Medeni Hukuk, Borçlar Hukuku ve Ticaret Hukuku.",
+              "description": "Van, Erciş, Ağrı, Patnos ve Muradiye'de özel hukuk alanında akademik uzmanlık. Medeni Hukuk, Borçlar Hukuku ve Ticaret Hukuku.",
               "url": "https://avfethiguzel.com",
               "sameAs": [],
               "address": {
@@ -78,6 +79,17 @@ export default function RootLayout({
                 "postalCode": "65400",
                 "addressCountry": "TR"
               },
+              "areaServed": [
+                { "@type": "City", "name": "Van" },
+                { "@type": "City", "name": "Erciş" },
+                { "@type": "City", "name": "Ağrı" },
+                { "@type": "City", "name": "Patnos" },
+                { "@type": "City", "name": "Muradiye" },
+                { "@type": "City", "name": "Çaldıran" },
+                { "@type": "City", "name": "Özalp" },
+                { "@type": "City", "name": "Başkale" },
+                { "@type": "City", "name": "Gürpınar" }
+              ],
               "worksFor": {
                 "@type": "LegalService",
                 "name": "Av. Fethi Güzel Hukuk Bürosu",
@@ -86,7 +98,14 @@ export default function RootLayout({
                   "addressLocality": "Erciş",
                   "addressRegion": "Van",
                   "addressCountry": "TR"
-                }
+                },
+                "areaServed": [
+                  { "@type": "City", "name": "Van" },
+                  { "@type": "City", "name": "Erciş" },
+                  { "@type": "City", "name": "Ağrı" },
+                  { "@type": "City", "name": "Patnos" },
+                  { "@type": "City", "name": "Muradiye" }
+                ]
               }
             })
           }}

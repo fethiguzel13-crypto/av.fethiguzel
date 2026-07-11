@@ -61,6 +61,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     },
   ];
 
+  // 1b. İlçe/İl Avukat Sayfaları (yerel SEO)
+  const ilceSlugs = ['ercis-avukat', 'van-avukat', 'muradiye-avukat', 'agri-avukat', 'patnos-avukat'];
+  const ilceRoutes: MetadataRoute.Sitemap = ilceSlugs.map((slug) => ({
+    url: `${baseUrl}/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly',
+    priority: 0.9,
+  }));
+
   // 2. Ana Kategori Sayfaları (/medeni-hukuk, /borclar-hukuku, /ticaret-hukuku)
   const categoryRoutes: MetadataRoute.Sitemap = lawCategories.map((cat) => ({
     url: `${baseUrl}/${cat.slug}`,
@@ -128,6 +137,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     ...staticRoutes,
+    ...ilceRoutes,
     ...categoryRoutes,
     ...subCategoryRoutes,
     ...articleRoutes,
