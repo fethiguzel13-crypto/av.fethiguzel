@@ -16,7 +16,7 @@ const veri: IlceVerisi = {
     "Van il merkezinde ikamet eden veya Van'daki mahkemelerde, icra dairelerinde ya da idari makamlarda süreci bulunan müvekkillerimize, Erciş'teki ofisimizden kesintisiz hukuki destek sağlanmaktadır.",
     "İl merkezinin yoğun iş hacmi göz önünde bulundurularak; ticaret hukuku, şirket danışmanlığı, gayrimenkul uyuşmazlıkları ve idari işlemlerde dava takibi başta olmak üzere geniş kapsamlı bir hizmet sunulmaktadır.",
   ],
-  neden: "Van'da yürütülen dava ve icra dosyalarında, gerektiğinde ilgili adliye ve kurumlara giderek işlemler bizzat takip edilir; müvekkillerimiz dosyanın her aşamasında düzenli olarak bilgilendirilir. Uzak mesafeden ön değerlendirme için telefon veya video görüşmesi de mümkündür; ilk temas sonrası süreç netleştirilir.",
+  neden: "Van'da yürütülen dava ve icra dosyalarında, gerektiğinde ilgili adliye ve kurumlara giderek işlemler bizzat takip edilir; müvekkillerimiz dosyanın her aşamasında düzenli olarak bilgilendirilir. Uzak mesafeden ön değerlendirme için e-posta veya video görüşmesi de mümkündür; ilk temas sonrası süreç netleştirilir.",
 };
 
 export default function VanAvukatPage() {

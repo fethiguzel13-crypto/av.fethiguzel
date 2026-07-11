@@ -73,7 +73,7 @@ export default function RootLayout({
               "sameAs": [],
               "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "Van Yolu Mah. Karayusuf Bey Bulvarı EYC İş Merkezi A Blok Kat 4 Daire 37",
+                "streetAddress": "Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı Kat 4 No 26",
                 "addressLocality": "Erciş",
                 "addressRegion": "Van",
                 "postalCode": "65400",

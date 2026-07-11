@@ -16,7 +16,7 @@ const veri: IlceVerisi = {
     "Van iline bağlı bir ilçe olan Muradiye'den gelen müvekkillerimize, Erciş'teki merkez ofisimizden hukuki danışmanlık ve dava vekilliği hizmeti sunulmaktadır. Muradiye'nin Erciş'e yakın konumu, ofisimize ulaşımı ve yüz yüze görüşmeyi kolaylaştırmaktadır.",
     "Aile hukukundan miras paylaşımına, tarımsal arazi ve gayrimenkul uyuşmazlıklarından icra takiplerine kadar, ilçede sıkça karşılaşılan hukuki meselelerde tecrübeli ve akademik bir yaklaşımla destek verilmektedir.",
   ],
-  neden: "Muradiye'den ofisimize gelmekte güçlük yaşayan müvekkillerimiz için telefonla veya video görüşmesiyle ön değerlendirme yapılabilir; gerekli evraklar dijital ortamda kolayca paylaşılabilir. Dava sürecinin her aşamasında açık ve düzenli bilgilendirme esastır.",
+  neden: "Muradiye'den ofisimize gelmekte güçlük yaşayan müvekkillerimiz için e-posta veya video görüşmesiyle ön değerlendirme yapılabilir; gerekli evraklar dijital ortamda kolayca paylaşılabilir. Dava sürecinin her aşamasında açık ve düzenli bilgilendirme esastır.",
 };
 
 export default function MuradiyeAvukatPage() {

@@ -14,9 +14,9 @@ const veri: IlceVerisi = {
   eyebrow: "Ağrı İli — Komşu Bölge Hizmeti",
   giris: [
     "Van iline komşu Ağrı ilinde ikamet eden veya bu ilde hukuki bir süreci bulunan müvekkillerimize, Erciş'teki ofisimizden hukuki danışmanlık ve dava vekilliği hizmeti sunulmaktadır.",
-    "Mesafe göz önünde bulundurularak, ilk değerlendirme ve dosya takibinin büyük bölümü telefon ve video görüşmesi üzerinden yürütülebilir; duruşma ve resmi işlemler için gerektiğinde ilgili adliyeye gidilerek temsil sağlanır.",
+    "Mesafe göz önünde bulundurularak, ilk değerlendirme ve dosya takibinin büyük bölümü e-posta ve video görüşmesi üzerinden yürütülebilir; duruşma ve resmi işlemler için gerektiğinde ilgili adliyeye gidilerek temsil sağlanır.",
   ],
-  neden: "Ağrı'dan bizimle iletişime geçen müvekkillerimize önce telefon veya video görüşmesiyle ön bilgilendirme yapılır, dosyanın niteliğine göre süreç ve olası masraflar netleştirilir. Uzaktan iletişimde de aynı özen ve şeffaflıkla, her aşamada düzenli bilgilendirme sağlanır.",
+  neden: "Ağrı'dan bizimle iletişime geçen müvekkillerimize önce e-posta veya video görüşmesiyle ön bilgilendirme yapılır, dosyanın niteliğine göre süreç ve olası masraflar netleştirilir. Uzaktan iletişimde de aynı özen ve şeffaflıkla, her aşamada düzenli bilgilendirme sağlanır.",
 };
 
 export default function AgriAvukatPage() {

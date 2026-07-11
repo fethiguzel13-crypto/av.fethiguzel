@@ -2,7 +2,7 @@
 
 import React from 'react';
 import Link from 'next/link';
-import { MapPin, Mail, Phone, Scale, ShieldCheck } from 'lucide-react';
+import { MapPin, Mail, Scale, ShieldCheck } from 'lucide-react';
 
 export default function Footer() {
   return (
@@ -23,13 +23,13 @@ export default function Footer() {
                 <div>
                   <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-2 font-bold">Ofis Adresi</h4>
                   <p className="text-cream text-lg leading-relaxed">
-                    Van Yolu Mah. Karayusuf Bey Bulvarı<br />
-                    EYC İş Merkezi A Blok Kat 4 Daire 37<br />
+                    Vanyolu Mah. Karayusuf Bey Bulvarı<br />
+                    Zenginler İş Hanı Kat 4 No 26<br />
                     Erciş / VAN
                   </p>
-                  <a 
-                    href="https://www.google.com/maps/search/?api=1&query=Van+Yolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+EYC+I%C5%9F+Merkezi+Erci%C5%9F+Van" 
-                    target="_blank" 
+                  <a
+                    href="https://www.google.com/maps/search/?api=1&query=Vanyolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+Zenginler+I%C5%9F+Han%C4%B1+Erci%C5%9F+Van"
+                    target="_blank"
                     rel="noopener noreferrer"
                     className="inline-block mt-4 text-accent text-xs font-bold uppercase tracking-widest hover:underline"
                   >
@@ -48,23 +48,12 @@ export default function Footer() {
                 </div>
               </div>
 
-              <div className="flex gap-6 items-start">
-                <div className="w-12 h-12 bg-cream/5 rounded-full flex items-center justify-center text-accent shrink-0">
-                  <Phone size={24} />
-                </div>
-                <div>
-                  <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-2 font-bold">WhatsApp</h4>
-                  <a href="https://wa.me/905454095442" target="_blank" rel="noopener noreferrer" className="text-cream text-lg hover:text-accent transition-colors">
-                    +90 545 409 54 42
-                  </a>
-                </div>
-              </div>
             </div>
           </div>
 
           <div className="h-[280px] sm:h-[380px] md:h-full md:min-h-[400px] rounded-2xl sm:rounded-[2.5rem] md:rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700 relative group">
-            <iframe 
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.4754512457813!2d43.35!3d39.02!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDAxJzEyLjAiTiA0M8KwMjEnMDAuMCJF!5e0!3m2!1str!2str!4v1715340000000!5m2!1str!2str&q=Van+Yolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+EYC+I%C5%9F+Merkezi+Erci%C5%9F+Van" 
+            <iframe
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.4754512457813!2d43.35!3d39.02!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDAxJzEyLjAiTiA0M8KwMjEnMDAuMCJF!5e0!3m2!1str!2str!4v1715340000000!5m2!1str!2str&q=Vanyolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+Zenginler+I%C5%9F+Han%C4%B1+Erci%C5%9F+Van"
               width="100%" 
               height="100%" 
               style={{ border: 0 }} 

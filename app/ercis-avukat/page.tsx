@@ -13,7 +13,7 @@ const veri: IlceVerisi = {
   slug: "ercis-avukat",
   eyebrow: "Erciş · Van — Merkez Ofis",
   giris: [
-    "Av. Fethi Güzel Hukuk Bürosu'nun merkez ofisi Erciş'te, Van Yolu Mahallesi'nde yer almaktadır. Erciş ve çevresinde yaşayan müvekkillerimize yüz yüze görüşme imkânıyla, randevu alarak veya doğrudan ofisimize gelerek danışmanlık alabilirsiniz.",
+    "Av. Fethi Güzel Hukuk Bürosu'nun merkez ofisi Erciş'te, Vanyolu Mahallesi'nde yer almaktadır. Erciş ve çevresinde yaşayan müvekkillerimize yüz yüze görüşme imkânıyla, randevu alarak veya doğrudan ofisimize gelerek danışmanlık alabilirsiniz.",
     "Ceza davalarından aile hukukuna, miras paylaşımından gayrimenkul uyuşmazlıklarına kadar geniş bir yelpazede, akademik bilgi birikimini pratik dava tecrübesiyle birleştiren bir yaklaşımla hizmet verilmektedir.",
   ],
   neden: "Erciş'te ikamet eden veya Erciş'teki mahkeme ve icra dairelerinde işi bulunan müvekkillerimiz için ofisimize kolayca ulaşabilir, dosyanızla ilgili yüz yüze ve ayrıntılı bir görüşme yapabilirsiniz. Şeffaf ücretlendirme, düzenli bilgilendirme ve akademik titizlikle hazırlanan dilekçe ve savunmalar, süreç boyunca önceliğimizdir.",

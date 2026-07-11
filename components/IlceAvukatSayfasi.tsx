@@ -6,7 +6,7 @@ import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import {
   Scale, Users, Home as HomeIcon, Briefcase, Landmark, Gavel,
-  Phone, Video, MapPin, ArrowRight, ChevronDown,
+  Mail, Video, MapPin, ArrowRight, ChevronDown,
 } from "lucide-react";
 
 const HIZMET_ALANLARI = [
@@ -26,8 +26,8 @@ const SSS = [
     cevap: "Ücretlendirme, Avukatlık Asgari Ücret Tarifesi esas alınarak davanın niteliği, değeri ve iş yüküne göre belirlenir. İlk görüşmede size özel, şeffaf bir ücret bilgisi verilir.",
   },
   {
-    soru: "Yüz yüze gelmeden önce telefon veya video ile görüşebilir miyim?",
-    cevap: "Evet. Uzak ilçe veya illerden müvekkillerimizle telefon ve video görüşmesi yoluyla ön değerlendirme yapılabilir; evrak ve belgeler dijital ortamda paylaşılabilir.",
+    soru: "Yüz yüze gelmeden önce e-posta veya video ile görüşebilir miyim?",
+    cevap: "Evet. Uzak ilçe veya illerden müvekkillerimizle e-posta ve video görüşmesi yoluyla ön değerlendirme yapılabilir; evrak ve belgeler dijital ortamda paylaşılabilir.",
   },
   {
     soru: "Davamı bulunduğum yerdeki mahkemede takip edebilir misiniz?",
@@ -68,13 +68,12 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
             "areaServed": { "@type": "City", "name": veri.ilce },
             "address": {
               "@type": "PostalAddress",
-              "streetAddress": "Van Yolu Mah. Karayusuf Bey Bulvarı EYC İş Merkezi A Blok Kat 4 Daire 37",
+              "streetAddress": "Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı Kat 4 No 26",
               "addressLocality": "Erciş",
               "addressRegion": "Van",
               "postalCode": "65400",
               "addressCountry": "TR",
             },
-            "telephone": "+905454095442",
           }),
         }}
       />
@@ -109,13 +108,11 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
           ))}
           <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 mt-7 sm:mt-8">
             <a
-              href="https://wa.me/905454095442"
-              target="_blank"
-              rel="noopener noreferrer"
+              href="mailto:av.fethiguzel@hotmail.com"
               className="group flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors"
             >
-              <Phone size={16} />
-              <span>WhatsApp / Telefonla Ulaşın</span>
+              <Mail size={16} />
+              <span>E-posta ile İletişime Geçin</span>
               <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
             </a>
             <Link
@@ -162,8 +159,8 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
           <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-6 sm:mb-8">Nasıl Çalışıyoruz?</h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6">
             {[
-              { no: "01", baslik: "İletişime Geçin", aciklama: "Telefon, WhatsApp veya web sitesi üzerinden talebinizi iletin." },
-              { no: "02", baslik: "Ön Değerlendirme", aciklama: "Yüz yüze, telefon veya video görüşmeyle dosyanız değerlendirilir." },
+              { no: "01", baslik: "İletişime Geçin", aciklama: "E-posta veya web sitesi üzerinden talebinizi iletin." },
+              { no: "02", baslik: "Ön Değerlendirme", aciklama: "Yüz yüze, e-posta veya video görüşmeyle dosyanız değerlendirilir." },
               { no: "03", baslik: "Süreç Takibi", aciklama: "Vekillik anlaşması sonrası dosyanız titizlikle ve düzenli bilgilendirmeyle takip edilir." },
             ].map(a => (
               <div key={a.no} className="bg-charcoal rounded-2xl sm:rounded-[2rem] p-6 sm:p-8">
@@ -206,8 +203,8 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
             Ofisimiz Erciş&apos;te, Hizmetimiz {veri.ilce}&apos;de
           </h3>
           <p className="text-cream/55 mb-5 sm:mb-6 text-sm leading-relaxed max-w-md mx-auto">
-            Van Yolu Mah. Karayusuf Bey Bulvarı, EYC İş Merkezi A Blok Kat 4 Daire 37, Erciş / Van.
-            Talebinize göre yüz yüze, telefon veya video görüşmesiyle destek sağlanır.
+            Vanyolu Mah. Karayusuf Bey Bulvarı, Zenginler İş Hanı Kat 4 No 26, Erciş / Van.
+            Talebinize göre yüz yüze, e-posta veya video görüşmesiyle destek sağlanır.
           </p>
           <Link
             href="/#iletisim"
