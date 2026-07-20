@@ -35,7 +35,7 @@ function getOldSlug(parentSlug: string, subSlug: string): string | null {
 
 function getAllFiles(dirPath: string, arrayOfFiles: string[] = []) {
   if (!fs.existsSync(dirPath)) return arrayOfFiles;
-  
+
   const files = fs.readdirSync(dirPath);
 
   files.forEach((file) => {
@@ -53,12 +53,13 @@ function getAllFiles(dirPath: string, arrayOfFiles: string[] = []) {
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // 1. Statik Rotalar
   const staticRoutes: MetadataRoute.Sitemap = [
-    {
-      url: baseUrl,
-      lastModified: new Date(),
-      changeFrequency: 'daily',
-      priority: 1,
-    },
+    { url: baseUrl, lastModified: new Date(), changeFrequency: 'daily', priority: 1 },
+    { url: `${baseUrl}/mevzuat`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.95 },
+    { url: `${baseUrl}/ara`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.95 },
+    { url: `${baseUrl}/icthat`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.9 },
+    { url: `${baseUrl}/hesaplama`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
+    { url: `${baseUrl}/makaleler`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/eserlerim`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.65 },
   ];
 
   // 1b. İlçe/İl Avukat Sayfaları (yerel SEO)
@@ -97,11 +98,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     for (const sub of cat.subCategories) {
       const oldSlug = getOldSlug(cat.slug, sub.slug);
       if (!oldSlug) continue;
-      
+
       // Import getArticlesByCategory dynamically
       const { getArticlesByCategory } = await import('@/lib/api');
       const articles = getArticlesByCategory(oldSlug);
-      
+
       for (const article of articles) {
         articleRoutes.push({
           url: `${baseUrl}/${cat.slug}/${sub.slug}/${article.id}`,
@@ -116,7 +117,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // 5. Kişisel Makaleler (PDF/DOCX)
   const makalelerDir = path.join(process.cwd(), 'public', 'makaleler');
   let personalArticleRoutes: MetadataRoute.Sitemap = [];
-  
+
   if (fs.existsSync(makalelerDir)) {
     const files = getAllFiles(makalelerDir);
     personalArticleRoutes = files
@@ -125,7 +126,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
         const relativePath = path.relative(makalelerDir, file);
         const normalizedPath = relativePath.split(path.sep).join('/');
         const slug = normalizedPath.split('/').map(s => encodeURIComponent(s)).join('/');
-        
+
         return {
           url: `${baseUrl}/makale-oku/${slug}`,
           lastModified: fs.statSync(file).mtime,
@@ -135,12 +136,43 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       });
   }
 
+  // 6. Tüm mevzuat madde sayfaları (/mevzuat/{kanunId}/{id})
+  const mevzuatDir = path.join(process.cwd(), 'content', 'mevzuat');
+  const mevzuatRoutes: MetadataRoute.Sitemap = [];
+  if (fs.existsSync(mevzuatDir)) {
+    for (const kanunId of fs.readdirSync(mevzuatDir)) {
+      const kanunPath = path.join(mevzuatDir, kanunId);
+      if (!fs.statSync(kanunPath).isDirectory()) continue;
+      for (const file of fs.readdirSync(kanunPath)) {
+        if (!file.endsWith('.md') || file.startsWith('_')) continue;
+        const id = file.replace(/\.md$/, '');
+        mevzuatRoutes.push({
+          url: `${baseUrl}/mevzuat/${kanunId}/${id}`,
+          lastModified: fs.statSync(path.join(kanunPath, file)).mtime,
+          changeFrequency: 'monthly',
+          priority: 0.75,
+        });
+      }
+    }
+  }
+
+  // 7. Kategori arşiv sayfaları (/kategori/{slug})
+  const { categories } = await import('@/lib/categories');
+  const kategoriRoutes: MetadataRoute.Sitemap = categories.map((c) => ({
+    url: `${baseUrl}/kategori/${c.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+  }));
+
   return [
     ...staticRoutes,
     ...ilceRoutes,
     ...categoryRoutes,
     ...subCategoryRoutes,
     ...articleRoutes,
+    ...mevzuatRoutes,
+    ...kategoriRoutes,
     ...personalArticleRoutes,
   ];
 }

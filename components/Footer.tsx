@@ -54,13 +54,49 @@ export default function Footer() {
           <div className="h-[280px] sm:h-[380px] md:h-full md:min-h-[400px] rounded-2xl sm:rounded-[2.5rem] md:rounded-[3rem] overflow-hidden border border-cream/10 grayscale hover:grayscale-0 transition-all duration-700 relative group">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3089.4754512457813!2d43.35!3d39.02!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDAxJzEyLjAiTiA0M8KwMjEnMDAuMCJF!5e0!3m2!1str!2str!4v1715340000000!5m2!1str!2str&q=Vanyolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+Zenginler+I%C5%9F+Han%C4%B1+Erci%C5%9F+Van"
-              width="100%" 
-              height="100%" 
-              style={{ border: 0 }} 
-              allowFullScreen 
-              loading="lazy" 
+              width="100%"
+              height="100%"
+              style={{ border: 0 }}
+              allowFullScreen
+              loading="lazy"
               className="opacity-60 group-hover:opacity-100 transition-opacity duration-700"
             ></iframe>
+          </div>
+        </div>
+
+        <div className="mb-12 sm:mb-16 grid grid-cols-2 sm:grid-cols-4 gap-6 text-center sm:text-left">
+          <div>
+            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Kütüphane</p>
+            <div className="flex flex-col gap-2 text-sm text-cream/70">
+              <Link href="/ara" className="hover:text-accent transition-colors">Mevzuat Ara</Link>
+              <Link href="/mevzuat" className="hover:text-accent transition-colors">Tüm Kanunlar</Link>
+              <Link href="/icthat" className="hover:text-accent transition-colors">Günlük İçtihat</Link>
+              <Link href="/hesaplama" className="hover:text-accent transition-colors">Hesaplama Araçları</Link>
+            </div>
+          </div>
+          <div>
+            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">İçerik</p>
+            <div className="flex flex-col gap-2 text-sm text-cream/70">
+              <Link href="/makaleler" className="hover:text-accent transition-colors">Makaleler</Link>
+              <Link href="/eserlerim" className="hover:text-accent transition-colors">Eserler</Link>
+              <Link href="/kategori/borclar-genel" className="hover:text-accent transition-colors">TBK Genel</Link>
+              <Link href="/kategori/aile-hukuku" className="hover:text-accent transition-colors">Aile Hukuku</Link>
+            </div>
+          </div>
+          <div>
+            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Bölge</p>
+            <div className="flex flex-col gap-2 text-sm text-cream/70">
+              <Link href="/van-avukat" className="hover:text-accent transition-colors">Van Avukat</Link>
+              <Link href="/ercis-avukat" className="hover:text-accent transition-colors">Erciş Avukat</Link>
+              <Link href="/agri-avukat" className="hover:text-accent transition-colors">Ağrı Avukat</Link>
+              <Link href="/patnos-avukat" className="hover:text-accent transition-colors">Patnos Avukat</Link>
+            </div>
+          </div>
+          <div>
+            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Kapsam</p>
+            <p className="text-cream/50 text-xs leading-relaxed">
+              45+ kanun · 7800+ madde ve akademik şerh · günlük içtihat taraması · hukuki hesaplama araçları
+            </p>
           </div>
         </div>
 

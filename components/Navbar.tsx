@@ -125,6 +125,7 @@ export default function Navbar() {
 
   const simpleLinks = [
     { name: 'Hakkımda', href: '/#manifesto' },
+    { name: 'Ara', href: '/ara' },
     { name: 'Güncel', href: '/icthat' },
     { name: 'Hesaplama', href: '/hesaplama' },
     { name: 'Makalelerim', href: '/makaleler' },
@@ -134,9 +135,8 @@ export default function Navbar() {
   const linkCls = solid ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';
 
   return (
-    <nav className={`fixed top-6 left-1/2 -translate-x-1/2 z-[900] w-[95%] max-w-7xl transition-all duration-500 rounded-[3rem] ${
-      solid ? 'glass py-3 px-6' : 'bg-transparent py-4 px-4'
-    }`}>
+    <nav className={`fixed top-6 left-1/2 -translate-x-1/2 z-[900] w-[95%] max-w-7xl transition-all duration-500 rounded-[3rem] ${solid ? 'glass py-3 px-6' : 'bg-transparent py-4 px-4'
+      }`}>
       <div className="flex items-center justify-between gap-3">
 
         {/* Logo */}

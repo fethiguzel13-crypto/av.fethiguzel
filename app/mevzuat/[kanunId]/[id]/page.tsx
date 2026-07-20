@@ -5,6 +5,7 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import { ArrowLeft, ArrowRight, Book, ChevronLeft, ChevronRight, RotateCcw } from 'lucide-react'
 import ArticleClient from './ArticleClient'
+import ArticleToc from '@/components/ArticleToc'
 
 type Props = {
   params: Promise<{
@@ -141,10 +142,14 @@ export default async function ArticlePage({ params }: Props) {
                 {/* Sol üstte accent şerit — net görsel ayrım */}
                 <div className="absolute top-0 left-0 h-2 w-full bg-gradient-to-r from-accent via-accent/70 to-transparent"></div>
 
-                <div className="flex items-center gap-3 text-accent font-mono text-[10px] tracking-[0.3em] uppercase mb-16 mt-4">
+                <div className="flex items-center gap-3 text-accent font-mono text-[10px] tracking-[0.3em] uppercase mb-10 mt-4">
                   <span className="w-12 h-px bg-accent/40"></span>
                   AKADEMİK YORUM VE ANALİZ
                   <span className="flex-1 h-px bg-accent/15"></span>
+                </div>
+
+                <div className="max-w-3xl mx-auto">
+                  <ArticleToc />
                 </div>
 
                 <div

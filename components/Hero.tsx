@@ -64,7 +64,7 @@ export default function Hero() {
 
           {/* Açıklama */}
           <p className="hero-fade text-cream/65 text-base sm:text-lg max-w-xl mb-7 sm:mb-10 font-sans leading-relaxed">
-            50&apos;den fazla kanunun madde metinleri, Yargıtay içtihatları ve
+            45+ kanun, 7800+ madde ve akademik şerh; günlük içtihat ve
             hukuki hesaplama araçları tek platformda.
           </p>
 
@@ -89,11 +89,17 @@ export default function Hero() {
               <ArrowRight size={16} className="shrink-0 transition-transform group-hover:translate-x-1" />
             </Link>
             <Link
-              href="/mevzuat"
+              href="/ara"
               className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/10 backdrop-blur-md text-cream border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/20"
             >
               <BookOpen size={16} className="shrink-0" />
-              <span>MEVZUAT ARŞİVİ</span>
+              <span>MEVZUAT ARA</span>
+            </Link>
+            <Link
+              href="/mevzuat"
+              className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/5 backdrop-blur-md text-cream/80 border border-cream/15 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/15"
+            >
+              <span>TÜM KANUNLAR</span>
             </Link>
             <Link
               href="/#iletisim"
