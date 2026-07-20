@@ -36,6 +36,10 @@ yarn-error.log*
 # vercel
 .vercel
 
+# generated at prebuild (content-packs/ may be committed for cold starts)
+public/content-packs/
+build-out*.txt
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

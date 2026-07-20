@@ -5,10 +5,12 @@ import { marked } from 'marked';
 import { getCategoryBySlug } from './categories';
 
 /**
- * Content is served from gzip packs (content-packs/*.json.gz), not raw markdown.
- * Raw content/mevzuat is ~380MB and exceeds Vercel serverless tracing limits.
+ * Content packs live in content-packs/ (build + local) and are also copied to
+ * public/content-packs/ so Vercel can serve them as static assets and SSR can
+ * fetch them when the serverless FS trace is incomplete.
  */
-const packsDirectory = path.join(process.cwd(), 'content-packs');
+const packsDirectory = path.join(/*turbopackIgnore: true*/ process.cwd(), 'content-packs');
+const publicPacksDirectory = path.join(/*turbopackIgnore: true*/ process.cwd(), 'public', 'content-packs');
 
 export interface ArticleData {
   id: string;
@@ -41,35 +43,67 @@ type Pack = Record<string, PackArticle>;
 
 const packCache = new Map<string, Pack>();
 
-function loadPack(kanunId: string): Pack {
+function siteBaseUrl(): string {
+  if (process.env.NEXT_PUBLIC_SITE_URL) return process.env.NEXT_PUBLIC_SITE_URL.replace(/\/$/, '');
+  if (process.env.VERCEL_URL) return `https://${process.env.VERCEL_URL.replace(/\/$/, '')}`;
+  return 'https://avfethiguzel.com';
+}
+
+function parsePackBuffer(buf: Buffer): Pack {
+  return JSON.parse(gunzipSync(buf).toString('utf8')) as Pack;
+}
+
+function readPackFromDisk(kanunId: string): Pack | null {
+  for (const dir of [packsDirectory, publicPacksDirectory]) {
+    const gzPath = path.join(dir, `${kanunId}.json.gz`);
+    if (fs.existsSync(gzPath)) {
+      return parsePackBuffer(fs.readFileSync(gzPath));
+    }
+  }
+  return null;
+}
+
+async function loadPack(kanunId: string): Promise<Pack> {
   if (packCache.has(kanunId)) return packCache.get(kanunId)!;
 
-  const gzPath = path.join(packsDirectory, `${kanunId}.json.gz`);
-  if (!fs.existsSync(gzPath)) {
-    throw new Error(
-      `content-packs/${kanunId}.json.gz bulunamadı. Çalıştırın: npm run build:packs`
-    );
+  const fromDisk = readPackFromDisk(kanunId);
+  if (fromDisk) {
+    packCache.set(kanunId, fromDisk);
+    return fromDisk;
   }
 
-  const gz = fs.readFileSync(gzPath);
-  const json = gunzipSync(gz).toString('utf8');
-  const pack = JSON.parse(json) as Pack;
+  // Vercel fallback: static public asset via HTTP (CDN), not serverless FS.
+  const url = `${siteBaseUrl()}/content-packs/${kanunId}.json.gz`;
+  const res = await fetch(url, { next: { revalidate: 86400 } });
+  if (!res.ok) {
+    throw new Error(`content-packs/${kanunId}.json.gz yok (disk+fetch ${res.status})`);
+  }
+  const buf = Buffer.from(await res.arrayBuffer());
+  const pack = parsePackBuffer(buf);
   packCache.set(kanunId, pack);
   return pack;
 }
 
-export function getAllKanunDirs(): string[] {
-  if (!fs.existsSync(packsDirectory)) return [];
-  return fs
-    .readdirSync(packsDirectory)
-    .filter((f) => f.endsWith('.json.gz'))
-    .map((f) => f.replace(/\.json\.gz$/, ''))
-    .sort();
+function listKanunIdsFromDisk(): string[] {
+  for (const dir of [packsDirectory, publicPacksDirectory]) {
+    if (!fs.existsSync(dir)) continue;
+    const ids = fs
+      .readdirSync(dir)
+      .filter((f) => f.endsWith('.json.gz'))
+      .map((f) => f.replace(/\.json\.gz$/, ''))
+      .sort();
+    if (ids.length) return ids;
+  }
+  return [];
 }
 
-export function getArticlesByKanun(kanunId: string): ArticleMeta[] {
+export function getAllKanunDirs(): string[] {
+  return listKanunIdsFromDisk();
+}
+
+export async function getArticlesByKanun(kanunId: string): Promise<ArticleMeta[]> {
   try {
-    const pack = loadPack(kanunId);
+    const pack = await loadPack(kanunId);
     return Object.entries(pack)
       .map(([id, a]) => ({
         id,
@@ -84,33 +118,33 @@ export function getArticlesByKanun(kanunId: string): ArticleMeta[] {
   }
 }
 
-export function getAllArticles(): ArticleMeta[] {
+export async function getAllArticles(): Promise<ArticleMeta[]> {
   const allArticles: ArticleMeta[] = [];
   for (const kanunId of getAllKanunDirs()) {
-    allArticles.push(...getArticlesByKanun(kanunId));
+    allArticles.push(...(await getArticlesByKanun(kanunId)));
   }
   return allArticles.sort((a, b) => a.maddeNo - b.maddeNo);
 }
 
-export function getArticlesByCategory(categorySlug: string): ArticleMeta[] {
+export async function getArticlesByCategory(categorySlug: string): Promise<ArticleMeta[]> {
   const category = getCategoryBySlug(categorySlug);
   if (!category) return [];
-  return getArticlesByKanun(category.kanunId).filter(
+  return (await getArticlesByKanun(category.kanunId)).filter(
     (article) =>
       article.maddeNo >= category.startMadde &&
       article.maddeNo <= category.endMadde
   );
 }
 
-export function getNavigationInfo(kanunId: string, currentMaddeNo: number) {
-  const articles = getArticlesByKanun(kanunId);
+export async function getNavigationInfo(kanunId: string, currentMaddeNo: number) {
+  const articles = await getArticlesByKanun(kanunId);
   const prev = articles.find((a) => a.maddeNo === currentMaddeNo - 1);
   const next = articles.find((a) => a.maddeNo === currentMaddeNo + 1);
   return { prev, next };
 }
 
 export async function getArticleData(kanunId: string, id: string): Promise<ArticleData> {
-  const pack = loadPack(kanunId);
+  const pack = await loadPack(kanunId);
   const a = pack[id];
   if (!a) {
     throw new Error(`Madde bulunamadı: ${kanunId}/${id}`);

@@ -1,18 +1,20 @@
 import type { NextConfig } from "next";
 
 /**
- * Large raw markdown (~380MB) must NOT be traced into serverless functions
- * (Vercel limit ~250MB). Runtime reads gzip packs from content-packs/ (~60MB).
+ * Raw content/mevzuat (~380MB) must not be traced into serverless functions.
+ * Runtime reads gzip packs from content-packs/ (~32MB).
+ *
+ * Route keys use Next.js route globs (not filesystem globs).
  */
 const nextConfig: NextConfig = {
+  // Keep server traces lean; do not use a bare "*" key (can mis-match).
   outputFileTracingExcludes: {
-    "*": [
+    "/**": [
       "./content/**/*",
       "./scraper/**/*",
       "./scripts/**/*",
       "./docs/**/*",
       "./logs/**/*",
-      "./.next/cache/**/*",
       "./node_modules/playwright/**/*",
       "./node_modules/playwright-core/**/*",
       "./node_modules/@anthropic-ai/**/*",
@@ -21,7 +23,12 @@ const nextConfig: NextConfig = {
     ],
   },
   outputFileTracingIncludes: {
-    "/*": ["./content-packs/**/*"],
+    "/mevzuat": ["./content-packs/**/*"],
+    "/mevzuat/**/*": ["./content-packs/**/*"],
+    "/kategori/**/*": ["./content-packs/**/*"],
+    "/[category]/[slug]": ["./content-packs/**/*"],
+    "/[category]/[slug]/**/*": ["./content-packs/**/*"],
+    "/sitemap.xml": ["./content-packs/**/*"],
   },
 };
 

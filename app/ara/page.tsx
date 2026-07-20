@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Suspense } from "react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import MevzuatSearch from "@/components/MevzuatSearch";
@@ -15,12 +16,8 @@ export const metadata: Metadata = {
     },
 };
 
-type Props = { searchParams: Promise<{ q?: string }> };
-
-export default async function AraPage({ searchParams }: Props) {
-    const sp = await searchParams;
-    const initialQuery = typeof sp.q === "string" ? sp.q : "";
-
+// Static shell — ?q= handled client-side via useSearchParams.
+export default function AraPage() {
     return (
         <div className="bg-cream min-h-screen font-sans">
             <Navbar />
@@ -35,7 +32,9 @@ export default async function AraPage({ searchParams }: Props) {
                         şerhe tek tıkla ulaşın.
                     </p>
                 </header>
-                <MevzuatSearch autoFocus initialQuery={initialQuery} />
+                <Suspense fallback={<div className="h-40 animate-pulse rounded-2xl bg-charcoal/5" />}>
+                    <MevzuatSearch autoFocus />
+                </Suspense>
             </main>
             <Footer />
         </div>

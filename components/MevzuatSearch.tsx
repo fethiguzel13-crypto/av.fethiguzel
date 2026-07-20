@@ -1,7 +1,8 @@
 "use client";
 
-import React, { useCallback, useEffect, useMemo, useState } from "react";
+import React, { Suspense, useCallback, useEffect, useMemo, useState } from "react";
 import Link from "next/link";
+import { useSearchParams } from "next/navigation";
 import { Search, BookOpen, Loader2, X } from "lucide-react";
 
 type IndexItem = {
@@ -29,24 +30,29 @@ function normalize(s: string) {
         .replace(/İ/g, "i");
 }
 
-export default function MevzuatSearch({
-    compact = false,
-    autoFocus = false,
-    initialQuery = "",
-}: {
+type SearchProps = {
     compact?: boolean;
     autoFocus?: boolean;
     initialQuery?: string;
-}) {
-    const [q, setQ] = useState(initialQuery);
+};
+
+function MevzuatSearchInner({
+    compact = false,
+    autoFocus = false,
+    initialQuery = "",
+}: SearchProps) {
+    const searchParams = useSearchParams();
+    const urlQuery = searchParams?.get("q") ?? "";
+    const [q, setQ] = useState(initialQuery || urlQuery);
     const [kanunFilter, setKanunFilter] = useState("all");
     const [index, setIndex] = useState<IndexItem[] | null>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
 
     useEffect(() => {
-        if (initialQuery) setQ(initialQuery);
-    }, [initialQuery]);
+        const next = initialQuery || urlQuery;
+        if (next) setQ(next);
+    }, [initialQuery, urlQuery]);
 
     useEffect(() => {
         let cancelled = false;
@@ -226,5 +232,23 @@ export default function MevzuatSearch({
                 </div>
             )}
         </div>
+    );
+}
+
+export default function MevzuatSearch(props: SearchProps) {
+    return (
+        <Suspense
+            fallback={
+                <div
+                    className={
+                        props.compact
+                            ? "h-12 rounded-full bg-charcoal/5 animate-pulse"
+                            : "h-40 rounded-2xl bg-charcoal/5 animate-pulse"
+                    }
+                />
+            }
+        >
+            <MevzuatSearchInner {...props} />
+        </Suspense>
     );
 }

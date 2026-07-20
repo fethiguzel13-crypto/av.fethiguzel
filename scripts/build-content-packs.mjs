@@ -1,23 +1,25 @@
 /**
  * Packs content/mevzuat/{kanun}/*.md into content-packs/{kanun}.json.gz
- * so Vercel serverless tracing stays under the ~250MB limit.
+ * and public/content-packs/ (CDN fallback for Vercel SSR).
  */
 import { readdirSync, readFileSync, writeFileSync, existsSync, mkdirSync, statSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { gzipSync, gunzipSync } from 'node:zlib';
+import { gzipSync } from 'node:zlib';
 import matter from 'gray-matter';
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const root = join(__dir, '..');
 const contentDir = join(root, 'content', 'mevzuat');
 const packsDir = join(root, 'content-packs');
+const publicPacksDir = join(root, 'public', 'content-packs');
 
 if (!existsSync(contentDir)) {
     console.error('content/mevzuat missing');
     process.exit(1);
 }
 mkdirSync(packsDir, { recursive: true });
+mkdirSync(publicPacksDir, { recursive: true });
 
 const splitRegex = /\n### (?:Bizim Yorumumuz|Akademik Yorum ve Analiz)\s*\n/;
 const kanuns = readdirSync(contentDir).filter((k) =>
@@ -59,21 +61,20 @@ for (const kanunId of kanuns) {
     const gz = gzipSync(Buffer.from(json, 'utf8'), { level: 6 });
     totalGz += gz.length;
     writeFileSync(join(packsDir, `${kanunId}.json.gz`), gz);
+    writeFileSync(join(publicPacksDir, `${kanunId}.json.gz`), gz);
     console.log(`pack ${kanunId}: ${files.length} articles, gz=${(gz.length / 1024).toFixed(0)}KB`);
 }
 
-// Manifest for runtime discovery
-writeFileSync(
-    join(packsDir, 'manifest.json'),
-    JSON.stringify({
-        generatedAt: new Date().toISOString(),
-        kanuns,
-        totalArticles,
-        rawBytes: totalRaw,
-        gzBytes: totalGz,
-    })
-);
+const manifest = JSON.stringify({
+    generatedAt: new Date().toISOString(),
+    kanuns,
+    totalArticles,
+    rawBytes: totalRaw,
+    gzBytes: totalGz,
+});
+writeFileSync(join(packsDir, 'manifest.json'), manifest);
+writeFileSync(join(publicPacksDir, 'manifest.json'), manifest);
 
 console.log(
-    `content-packs: ${totalArticles} articles, raw=${(totalRaw / 1e6).toFixed(1)}MB → gz=${(totalGz / 1e6).toFixed(1)}MB`
+    `content-packs: ${totalArticles} articles, raw=${(totalRaw / 1e6).toFixed(1)}MB → gz=${(totalGz / 1e6).toFixed(1)}MB (+ public/)`
 );

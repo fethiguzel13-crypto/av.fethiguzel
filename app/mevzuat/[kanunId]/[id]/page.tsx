@@ -16,22 +16,33 @@ type Props = {
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const resolvedParams = await params;
-  const articleData = await getArticleData(resolvedParams.kanunId, resolvedParams.id)
-  return {
-    title: `${articleData.title} | Av. Fethi Güzel — Akademik Şerh`,
-    description: `${articleData.title}: resmî madde metni ve akademik şerh. Kavram analizi, sistematik ilişkiler, uygulama notları ve pratik örnekler. Av. Fethi Güzel dijital hukuk kütüphanesi.`,
-    openGraph: {
-      title: `${articleData.title} | Av. Fethi Güzel`,
-      description: `${articleData.kanun} — akademik madde şerhi ve resmî metin.`,
-      type: 'article',
-    },
+  try {
+    const articleData = await getArticleData(resolvedParams.kanunId, resolvedParams.id)
+    return {
+      title: `${articleData.title} | Av. Fethi Güzel — Akademik Şerh`,
+      description: `${articleData.title}: resmî madde metni ve akademik şerh. Kavram analizi, sistematik ilişkiler, uygulama notları ve pratik örnekler. Av. Fethi Güzel dijital hukuk kütüphanesi.`,
+      openGraph: {
+        title: `${articleData.title} | Av. Fethi Güzel`,
+        description: `${articleData.kanun} — akademik madde şerhi ve resmî metin.`,
+        type: 'article',
+      },
+    }
+  } catch {
+    return { title: 'Madde bulunamadı | Av. Fethi Güzel' }
   }
 }
 
 export default async function ArticlePage({ params }: Props) {
   const resolvedParams = await params;
-  const articleData = await getArticleData(resolvedParams.kanunId, resolvedParams.id)
-  const navInfo = getNavigationInfo(resolvedParams.kanunId, articleData.maddeNo)
+  const { notFound } = await import('next/navigation')
+  let articleData: Awaited<ReturnType<typeof getArticleData>>
+  try {
+    articleData = await getArticleData(resolvedParams.kanunId, resolvedParams.id)
+  } catch {
+    return notFound()
+  }
+
+  const navInfo = await getNavigationInfo(resolvedParams.kanunId, articleData.maddeNo)
 
   const breadcrumb = `Ana Sayfa / ${articleData.kanun} / ${articleData.title}`
   const jsonLd = {

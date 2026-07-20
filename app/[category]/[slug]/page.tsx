@@ -1,4 +1,4 @@
-import { getLawCategoryBySlug, getLawSubCategoryBySlug } from '@/lib/laws';
+import { getLawCategoryBySlug, getLawSubCategoryBySlug, lawCategories } from '@/lib/laws';
 import { getArticlesByCategory } from '@/lib/api';
 import { categories as oldCategories } from '@/lib/categories';
 import Link from 'next/link';
@@ -32,9 +32,16 @@ function getOldSlug(parentSlug: string, subSlug: string): string | null {
   return mapping[parentSlug]?.[subSlug] ?? null;
 }
 
-// Lightweight SSG of subcategory shells is fine, but listing reads markdown meta —
-// keep on-demand to avoid build-time content scans on Vercel.
-export const dynamic = 'force-dynamic';
+export function generateStaticParams() {
+  const params: { category: string; slug: string }[] = [];
+  for (const cat of lawCategories) {
+    for (const sub of cat.subCategories) {
+      params.push({ category: cat.slug, slug: sub.slug });
+    }
+  }
+  return params;
+}
+
 export const dynamicParams = true;
 
 export async function generateMetadata({ params }: { params: Promise<{ category: string; slug: string }> }): Promise<Metadata> {
@@ -73,7 +80,7 @@ export default async function SubCategoryPage({ params }: { params: Promise<{ ca
 
   // Get articles using old category system
   const oldSlug = getOldSlug(category, slug);
-  const articles = oldSlug ? getArticlesByCategory(oldSlug) : [];
+  const articles = oldSlug ? await getArticlesByCategory(oldSlug) : [];
 
   return (
     <main className="min-h-screen bg-primary text-light">

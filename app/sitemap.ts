@@ -98,7 +98,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     for (const sub of cat.subCategories) {
       const oldSlug = getOldSlug(cat.slug, sub.slug);
       if (!oldSlug) continue;
-      const articles = getArticlesByCategory(oldSlug);
+      const articles = await getArticlesByCategory(oldSlug);
       for (const article of articles) {
         articleRoutes.push({
           url: `${baseUrl}/${cat.slug}/${sub.slug}/${article.id}`,
@@ -134,7 +134,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   // 6. Tüm mevzuat madde sayfaları (/mevzuat/{kanunId}/{id}) — packs
   const { getAllArticles } = await import('@/lib/api');
-  const mevzuatRoutes: MetadataRoute.Sitemap = getAllArticles().map((article) => ({
+  const allMevzuat = await getAllArticles();
+  const mevzuatRoutes: MetadataRoute.Sitemap = allMevzuat.map((article) => ({
     url: `${baseUrl}/mevzuat/${article.kanunId}/${article.id}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
