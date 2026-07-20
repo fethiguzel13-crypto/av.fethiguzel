@@ -1,11 +1,18 @@
 import type { NextConfig } from "next";
 
 /**
- * Do not force-include content packs in serverless traces.
- * Packs are served from public/content-packs via CDN and fetched at runtime.
- * Raw content/ is excluded so deploy stays under Vercel limits.
+ * Madde detail pretty URLs are served by a pure static HTML viewer in /public
+ * so Vercel does not need serverless SSR for 7800+ content pages.
  */
 const nextConfig: NextConfig = {
+  async rewrites() {
+    return [
+      {
+        source: "/mevzuat/:kanunId/:id",
+        destination: "/mevzuat-viewer.html",
+      },
+    ];
+  },
   outputFileTracingExcludes: {
     "/**": [
       "./content/**/*",
