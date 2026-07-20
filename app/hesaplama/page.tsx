@@ -205,9 +205,25 @@ function Result({ rows, note, baslik }: { rows: [string, string][]; note?: strin
 
 // ─── 1. KIDEM TAZMİNATI ────────────────────────────────────────────────────────
 
+// Kıdem tavanı dönemleri (Hazine ve Maliye B. genelgeleri)
+const KIDEM_TAVAN_DONEMLERI = [
+  { bas: "2025-07-01", bit: "2025-12-31", tutar: 53919.68, etiket: "2025/II" },
+  { bas: "2026-01-01", bit: "2026-06-30", tutar: 64948.77, etiket: "2026/I" },
+  { bas: "2026-07-01", bit: "2026-12-31", tutar: 73729.87, etiket: "2026/II" },
+];
+
+function kidemTavanByDate(d: Date): { tutar: number; etiket: string } {
+  const iso = d.toISOString().slice(0, 10);
+  for (let i = KIDEM_TAVAN_DONEMLERI.length - 1; i >= 0; i--) {
+    const p = KIDEM_TAVAN_DONEMLERI[i];
+    if (iso >= p.bas && iso <= p.bit) return { tutar: p.tutar, etiket: p.etiket };
+  }
+  // bilinen son dönem
+  const last = KIDEM_TAVAN_DONEMLERI[KIDEM_TAVAN_DONEMLERI.length - 1];
+  return { tutar: last.tutar, etiket: `${last.etiket} (en son bilinen)` };
+}
+
 function KidemIhbarTazminati() {
-  // Kıdem tazminatı tavanı — her 6 ayda Resmi Gazete'de güncellenir
-  const TAVAN_2026_I = 64948.77; // 01.01.2026–30.06.2026
   const [baslangic, setBaslangic] = useState("2015-01-01");
   const [bitis, setBitis] = useState(() => new Date().toISOString().slice(0, 10));
   const [maas, setMaas] = useState("60000");
@@ -231,8 +247,10 @@ function KidemIhbarTazminati() {
     const giydirilmisAylik = num(maas) + num(yemekYol) + num(ikramiye) / 12 + num(digerYillik) / 12;
     const gunlukGiydirilmis = giydirilmisAylik / 30;
 
-    // ── KIDEM (tavana tabi, gelir vergisinden muaf) ──
-    const tavanNum = ozelTavan ? num(ozelTavan) : TAVAN_2026_I;
+    // ── KIDEM (tavana tabi, gelir vergisinden muaf) — tavan işten ayrılış tarihine göre ──
+    const auto = kidemTavanByDate(e);
+    const tavanNum = ozelTavan ? num(ozelTavan) : auto.tutar;
+    const tavanEtiket = ozelTavan ? "manuel" : auto.etiket;
     const gunlukTavan = tavanNum / 30;
     const esasKidem = Math.min(gunlukGiydirilmis, gunlukTavan);
     const tavanAsildi = gunlukGiydirilmis > gunlukTavan;
@@ -252,7 +270,7 @@ function KidemIhbarTazminati() {
 
     return {
       yil, tam, kistGun, giydirilmisAylik, gunlukGiydirilmis,
-      esasKidem, tavanAsildi, tavanNum, brutKidem, damgaKidem, netKidem,
+      esasKidem, tavanAsildi, tavanNum, tavanEtiket, brutKidem, damgaKidem, netKidem,
       hafta, brutIhbar, gvIhbar, damgaIhbar, netIhbar,
     };
   }, [baslangic, bitis, maas, yemekYol, ikramiye, digerYillik, kumulatifMatrah, ozelTavan]);
@@ -280,9 +298,14 @@ function KidemIhbarTazminati() {
       <Field label="Kümüle Gelir Vergisi Matrahı (TL)">
         <MoneyInput value={kumulatifMatrah} onChange={setKumulatifMatrah} placeholder="İhbar gelir vergisi için" />
       </Field>
-      <Field label="Kıdem Tavanı (TL) — opsiyonel">
-        <MoneyInput value={ozelTavan} onChange={setOzelTavan} placeholder={`Varsayılan: ${fmt(TAVAN_2026_I)} (2026/I)`} />
+      <Field label="Kıdem Tavanı (TL) — opsiyonel (boşsa ayrılış tarihine göre otomatik)">
+        <MoneyInput value={ozelTavan} onChange={setOzelTavan} placeholder="Örn. 2026/II: 73.729,87" />
       </Field>
+      <div className="col-span-full text-[11px] text-charcoal/45 leading-relaxed bg-charcoal/4 rounded-xl px-4 py-3">
+        <strong className="text-charcoal/70">Otomatik tavan dönemleri:</strong>{" "}
+        2026/I (01.01–30.06) = 64.948,77 TL · 2026/II (01.07–31.12) = 73.729,87 TL · 2025/II = 53.919,68 TL.
+        Ayrılış tarihine göre seçilir; isterseniz alanı elle geçersiz kılın.
+      </div>
       <div className="col-span-full text-[11px] text-charcoal/45 leading-relaxed bg-amber-50/80 border border-amber-100 rounded-xl px-4 py-3">
         <strong className="text-charcoal/70">Kıdem hakkı notu:</strong> Kıdem tazminatı her feshde doğmaz.
         İşveren haksız fesih, emeklilik, muvazzaf askerlik, kadın işçinin evlilik sonrası 1 yıl içinde ayrılması,
@@ -307,13 +330,15 @@ function KidemIhbarTazminati() {
             <div className="mb-2 text-[11px] font-mono uppercase tracking-widest text-accent">Kıdem Tazminatı</div>
             <Result
               rows={[
+                ["Uygulanan tavan dönemi", result.tavanEtiket],
+                ["Aylık tavan tutarı", `${fmt(result.tavanNum)} TL`],
                 ["Esas Alınan Günlük Ücret", `${fmt(result.esasKidem)} TL`],
                 ...(result.tavanAsildi ? [["Tavan Uygulandı", `Giydirilmiş ücret tavanı (${fmt(result.tavanNum)} TL) aştı`] as [string, string]] : []),
                 ["Brüt Kıdem Tazminatı", `${fmt(result.brutKidem)} TL`],
                 ["Damga Vergisi (‰7,59)", `− ${fmt(result.damgaKidem)} TL`],
                 ["Net Kıdem Tazminatı", `${fmt(result.netKidem)} TL`],
               ]}
-              note="2026/I dönemi (01.01–30.06.2026) kıdem tavanı 64.948,77 TL'dir; giydirilmiş aylık ücret tavanı aşarsa hesap tavandan yapılır. Tavan her 6 ayda güncellenir: 01.07.2026'dan itibaren 2026/II dönemi tavanı açıklandığında üstteki 'Kıdem Tavanı' alanına güncel tutarı girin. Her tam yıl için 30 günlük giydirilmiş ücret + artan süre için kıst hesap. Kıdem tazminatından yalnızca damga vergisi (‰7,59) kesilir; SGK primi ve gelir vergisi kesilmez."
+              note="Tavan, işten ayrılış tarihinin düştüğü 6 aylık döneme göre otomatik seçilir (2026/I: 64.948,77 TL · 2026/II: 73.729,87 TL). Giydirilmiş aylık ücret tavanı aşarsa hesap tavandan yapılır. Her tam yıl için 30 günlük giydirilmiş ücret + artan süre için kıst. Kıdemden yalnızca damga vergisi (‰7,59) kesilir; SGK ve gelir vergisi kesilmez."
             />
           </div>
           <div>
@@ -974,7 +999,10 @@ const FAIZ_ORANLARI = [
   { etiket: "Özel oran (girin)", oran: 0 },
 ];
 
+type FaizDonem = { id: string; bas: string; bit: string; oran: string };
+
 function FaizHesaplama() {
+  const [mod, setMod] = useState<"tek" | "donemsel">("tek");
   const [anapara, setAnapara] = useState("100000");
   const [oranIdx, setOranIdx] = useState(0);
   const [ozelOran, setOzelOran] = useState("");
@@ -982,49 +1010,145 @@ function FaizHesaplama() {
   const [bitis, setBitis] = useState(() => new Date().toISOString().slice(0, 10));
   const [bilesik, setBilesik] = useState(false);
   const [yilGun, setYilGun] = useState<"365" | "360">("365");
+  const [donemler, setDonemler] = useState<FaizDonem[]>([
+    { id: "1", bas: "2024-01-01", bit: "2024-05-31", oran: "9" },
+    { id: "2", bas: "2024-06-01", bit: "2025-12-31", oran: "24" },
+    { id: "3", bas: "2026-01-01", bit: new Date().toISOString().slice(0, 10), oran: "24" },
+  ]);
+
+  const ekleDonem = () => {
+    const last = donemler[donemler.length - 1];
+    const nextBas = last ? addDays(new Date(last.bit), 1).toISOString().slice(0, 10) : baslangic;
+    setDonemler(d => [...d, { id: String(Date.now()), bas: nextBas, bit: nextBas, oran: "24" }]);
+  };
+  const silDonem = (id: string) => setDonemler(d => d.filter(x => x.id !== id));
+  const guncelleDonem = (id: string, patch: Partial<FaizDonem>) =>
+    setDonemler(d => d.map(x => (x.id === id ? { ...x, ...patch } : x)));
 
   const result = useMemo(() => {
     const para = parseFloat(anapara.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
-    const secilen = FAIZ_ORANLARI[oranIdx];
-    const oran = oranIdx === FAIZ_ORANLARI.length - 1
-      ? parseFloat(ozelOran) || 0
-      : secilen.oran;
-    const b = new Date(baslangic);
-    const e = new Date(bitis);
-    if (isNaN(b.getTime()) || isNaN(e.getTime()) || e <= b || para === 0) return null;
-    const gun = daysBetween(b, e);
     const yilBaz = yilGun === "360" ? 360 : 365;
-    const faizMiktari = bilesik
-      ? para * (Math.pow(1 + oran / 100 / yilBaz, gun) - 1)
-      : para * (oran / 100) * (gun / yilBaz);
-    const toplam = para + faizMiktari;
-    const gunluk = para * (oran / 100) / yilBaz;
-    return { gun, faizMiktari, toplam, oran, yilBaz, gunluk };
-  }, [anapara, oranIdx, ozelOran, baslangic, bitis, bilesik, yilGun]);
+    if (para === 0) return null;
+
+    if (mod === "tek") {
+      const secilen = FAIZ_ORANLARI[oranIdx];
+      const oran = oranIdx === FAIZ_ORANLARI.length - 1 ? parseFloat(ozelOran) || 0 : secilen.oran;
+      const b = new Date(baslangic);
+      const e = new Date(bitis);
+      if (isNaN(b.getTime()) || isNaN(e.getTime()) || e <= b) return null;
+      const gun = daysBetween(b, e);
+      const faizMiktari = bilesik
+        ? para * (Math.pow(1 + oran / 100 / yilBaz, gun) - 1)
+        : para * (oran / 100) * (gun / yilBaz);
+      return {
+        mod: "tek" as const,
+        gun,
+        faizMiktari,
+        toplam: para + faizMiktari,
+        oran,
+        yilBaz,
+        gunluk: para * (oran / 100) / yilBaz,
+        dilimler: [] as { bas: string; bit: string; gun: number; oran: number; faiz: number }[],
+      };
+    }
+
+    // Dönemsel: her dilim basit faiz (bileşik dilimler arası birikmez; yasal uygulama genelde dilim dilim basit)
+    const dilimler: { bas: string; bit: string; gun: number; oran: number; faiz: number }[] = [];
+    let faizToplam = 0;
+    let gunToplam = 0;
+    for (const d of donemler) {
+      const b = new Date(d.bas);
+      const e = new Date(d.bit);
+      const oran = parseFloat(d.oran.replace(",", ".")) || 0;
+      if (isNaN(b.getTime()) || isNaN(e.getTime()) || e <= b || oran <= 0) continue;
+      const gun = daysBetween(b, e);
+      const faiz = bilesik
+        ? para * (Math.pow(1 + oran / 100 / yilBaz, gun) - 1)
+        : para * (oran / 100) * (gun / yilBaz);
+      dilimler.push({ bas: d.bas, bit: d.bit, gun, oran, faiz });
+      faizToplam += faiz;
+      gunToplam += gun;
+    }
+    if (!dilimler.length) return null;
+    return {
+      mod: "donemsel" as const,
+      gun: gunToplam,
+      faizMiktari: faizToplam,
+      toplam: para + faizToplam,
+      oran: 0,
+      yilBaz,
+      gunluk: 0,
+      dilimler,
+    };
+  }, [mod, anapara, oranIdx, ozelOran, baslangic, bitis, bilesik, yilGun, donemler]);
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Hesap modu">
+        <select value={mod} onChange={e => setMod(e.target.value as "tek" | "donemsel")} className={sel}>
+          <option value="tek">Tek oran (dönem boyu sabit)</option>
+          <option value="donemsel">Dönemsel (oran değişince dilim dilim)</option>
+        </select>
+      </Field>
       <Field label="Anapara (TL)">
         <MoneyInput value={anapara} onChange={setAnapara} />
       </Field>
-      <Field label="Faiz Oranı">
-        <select value={oranIdx} onChange={e => setOranIdx(parseInt(e.target.value))} className={sel}>
-          {FAIZ_ORANLARI.map((o, i) => (
-            <option key={i} value={i}>{o.etiket} {o.oran > 0 ? `(${o.oran}%)` : ""}</option>
+
+      {mod === "tek" ? (
+        <>
+          <Field label="Faiz Oranı">
+            <select value={oranIdx} onChange={e => setOranIdx(parseInt(e.target.value))} className={sel}>
+              {FAIZ_ORANLARI.map((o, i) => (
+                <option key={i} value={i}>{o.etiket} {o.oran > 0 ? `(${o.oran}%)` : ""}</option>
+              ))}
+            </select>
+          </Field>
+          {oranIdx === FAIZ_ORANLARI.length - 1 && (
+            <Field label="Özel Yıllık Faiz Oranı (%)">
+              <input type="number" value={ozelOran} onChange={e => setOzelOran(e.target.value)} placeholder="Örn: 15" className={inp} />
+            </Field>
+          )}
+          <Field label="Başlangıç Tarihi">
+            <input type="date" value={baslangic} onChange={e => setBaslangic(e.target.value)} className={inp} />
+          </Field>
+          <Field label="Bitiş Tarihi">
+            <input type="date" value={bitis} onChange={e => setBitis(e.target.value)} className={inp} />
+          </Field>
+        </>
+      ) : (
+        <div className="col-span-full space-y-3">
+          <div className="flex items-center justify-between">
+            <span className="text-[11px] font-bold text-charcoal/50 uppercase tracking-wider">Oran dilimleri</span>
+            <button type="button" onClick={ekleDonem} className="text-xs font-bold text-accent hover:underline">
+              + Dilim ekle
+            </button>
+          </div>
+          {donemler.map((d, i) => (
+            <div key={d.id} className="grid grid-cols-1 sm:grid-cols-4 gap-2 p-3 rounded-xl bg-cream/80 border border-charcoal/8">
+              <Field label={`Dilim ${i + 1} baş`}>
+                <input type="date" value={d.bas} onChange={e => guncelleDonem(d.id, { bas: e.target.value })} className={inp} />
+              </Field>
+              <Field label="Bitiş">
+                <input type="date" value={d.bit} onChange={e => guncelleDonem(d.id, { bit: e.target.value })} className={inp} />
+              </Field>
+              <Field label="Yıllık oran (%)">
+                <input type="number" step="0.01" value={d.oran} onChange={e => guncelleDonem(d.id, { oran: e.target.value })} className={inp} />
+              </Field>
+              <div className="flex items-end pb-1">
+                <button
+                  type="button"
+                  disabled={donemler.length <= 1}
+                  onClick={() => silDonem(d.id)}
+                  className="text-xs font-bold text-red-600/70 hover:text-red-700 disabled:opacity-30"
+                >
+                  Sil
+                </button>
+              </div>
+            </div>
           ))}
-        </select>
-      </Field>
-      {oranIdx === FAIZ_ORANLARI.length - 1 && (
-        <Field label="Özel Yıllık Faiz Oranı (%)">
-          <input type="number" value={ozelOran} onChange={e => setOzelOran(e.target.value)} placeholder="Örn: 15" className={inp} />
-        </Field>
+        </div>
       )}
-      <Field label="Başlangıç Tarihi">
-        <input type="date" value={baslangic} onChange={e => setBaslangic(e.target.value)} className={inp} />
-      </Field>
-      <Field label="Bitiş Tarihi">
-        <input type="date" value={bitis} onChange={e => setBitis(e.target.value)} className={inp} />
-      </Field>
+
       <Field label="Hesaplama Yöntemi">
         <select value={bilesik ? "bilesik" : "basit"} onChange={e => setBilesik(e.target.value === "bilesik")} className={sel}>
           <option value="basit">Basit faiz</option>
@@ -1039,17 +1163,46 @@ function FaizHesaplama() {
       </Field>
 
       {result ? (
-        <div className="col-span-full">
+        <div className="col-span-full flex flex-col gap-3">
+          {result.mod === "donemsel" && result.dilimler.length > 0 && (
+            <div className="overflow-x-auto rounded-xl border border-charcoal/8">
+              <table className="w-full text-sm">
+                <thead className="bg-charcoal/5 text-[10px] uppercase tracking-wider text-charcoal/50">
+                  <tr>
+                    <th className="text-left p-2.5">Dönem</th>
+                    <th className="text-right p-2.5">Gün</th>
+                    <th className="text-right p-2.5">Oran</th>
+                    <th className="text-right p-2.5">Faiz</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {result.dilimler.map((d, i) => (
+                    <tr key={i} className="border-t border-charcoal/5">
+                      <td className="p-2.5 text-charcoal/80">{fmtDate(new Date(d.bas))} – {fmtDate(new Date(d.bit))}</td>
+                      <td className="p-2.5 text-right">{d.gun}</td>
+                      <td className="p-2.5 text-right">%{fmt(d.oran, 2)}</td>
+                      <td className="p-2.5 text-right font-bold">{fmt(d.faiz)} TL</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
           <Result
             rows={[
-              ["Süre", `${result.gun} gün`],
+              ["Mod", result.mod === "tek" ? "Tek oran" : "Dönemsel dilimler"],
+              ["Toplam süre", `${result.gun} gün`],
               ["Yıl gün baz", `${result.yilBaz} gün`],
-              ["Yıllık Faiz Oranı", `%${fmt(result.oran, 2)}`],
-              ["Günlük faiz (yaklaşık)", `${fmt(result.gunluk)} TL/gün`],
-              ["Faiz Miktarı", `${fmt(result.faizMiktari)} TL`],
+              ...(result.mod === "tek"
+                ? [
+                  ["Yıllık Faiz Oranı", `%${fmt(result.oran, 2)}`] as [string, string],
+                  ["Günlük faiz (yaklaşık)", `${fmt(result.gunluk)} TL/gün`] as [string, string],
+                ]
+                : [["Dilim sayısı", `${result.dilimler.length}`] as [string, string]]),
+              ["Toplam faiz", `${fmt(result.faizMiktari)} TL`],
               ["Anapara + Faiz", `${fmt(result.toplam)} TL`],
             ]}
-            note="3095 sayılı Kanun md.1 uyarınca yasal (kanuni) faiz uygulanır; ticari işlerde TCMB kısa vadeli avans faiz oranı esas alınabilir. Faiz oranları TCMB / Resmî Gazete ile yıl içinde değişebildiğinden, listedeki oranları işlem tarihinize göre TEYİT EDİN; gerekiyorsa 'Özel oran' seçeneğiyle güncel oranı elle girin. Oranın değiştiği (değişken dönemli) alacaklarda her dönemi ayrı hesaplayıp toplayın. Bileşik (mürekkep) faiz kural olarak yasaktır; yalnızca kanunen izin verilen hâllerde (örn. TTK kapsamı) kullanın. ⚠️ AYM'nin 22.07.2025 tarihli E.2024/24, K.2025/164 sayılı kararıyla, sözleşmeden doğmayan borçlarda (haksız fiil, sebepsiz zenginleşme) %24 yasal faiz hükmü iptal edilmiş olup karar 01.09.2026'da yürürlüğe girer; bu tarihten sonra sözleşme dışı alacaklarda uygulanacak oranı güncel düzenlemeden kontrol edin."
+            note="Dönemsel modda her dilim için faiz ayrı hesaplanır ve toplanır (oran değişen yasal/ticari faiz pratikleri). 3095 sayılı Kanun / TCMB oranlarını işlem tarihinize göre TEYİT EDİN. Bileşik faiz kural olarak yasaktır. ⚠️ AYM E.2024/24, K.2025/164: sözleşmeden doğmayan borçlarda %24 yasal faiz iptali 01.09.2026'da yürürlüğe girer."
           />
         </div>
       ) : (
@@ -3173,6 +3326,147 @@ function IseIadeTazminat() {
   );
 }
 
+// ─── KIDEM + İŞE İADE BİRLEŞİK RAPOR ─────────────────────────────────────────
+
+function KidemIseIadeBirlesik() {
+  const [baslangic, setBaslangic] = useState("2018-01-01");
+  const [bitis, setBitis] = useState(() => new Date().toISOString().slice(0, 10));
+  const [maas, setMaas] = useState("55000");
+  const [yemekYol, setYemekYol] = useState("3000");
+  const [ikramiye, setIkramiye] = useState("0");
+  const [kumulatifMatrah, setKumulatifMatrah] = useState("0");
+  const [boslukAy, setBoslukAy] = useState("4");
+  const [iseBaslatilacak, setIseBaslatilacak] = useState<"hayir" | "evet">("hayir");
+  const [kidemHakki, setKidemHakki] = useState<"evet" | "hayir">("evet");
+  const [ihbarHakki, setIhbarHakki] = useState<"evet" | "hayir">("evet");
+
+  const result = useMemo(() => {
+    const b = new Date(baslangic);
+    const e = new Date(bitis);
+    if (isNaN(b.getTime()) || isNaN(e.getTime()) || e <= b) return null;
+    const num = (s: string) => parseFloat(s.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const gun = daysBetween(b, e);
+    const yil = gun / 365;
+    const giydirilmisAylik = num(maas) + num(yemekYol) + num(ikramiye) / 12;
+    const gunluk = giydirilmisAylik / 30;
+    const auto = kidemTavanByDate(e);
+    const tavan = auto.tutar;
+    const esasKidemGunluk = Math.min(gunluk, tavan / 30);
+    const brutKidem = kidemHakki === "evet" ? esasKidemGunluk * 30 * yil : 0;
+    const damgaKidem = brutKidem * 0.00759;
+    const netKidem = brutKidem - damgaKidem;
+
+    let hafta = 2;
+    if (yil >= 0.5 && yil < 1.5) hafta = 4;
+    else if (yil >= 1.5 && yil < 3) hafta = 6;
+    else if (yil >= 3) hafta = 8;
+    const brutIhbar = ihbarHakki === "evet" ? gunluk * hafta * 7 : 0;
+    const gvIhbar = hesaplaGelirVergisi(num(kumulatifMatrah), brutIhbar);
+    const damgaIhbar = brutIhbar * 0.00759;
+    const netIhbar = brutIhbar - gvIhbar - damgaIhbar;
+
+    const ay = Math.min(8, Math.max(0, parseFloat(boslukAy) || 0));
+    const bostagecen = giydirilmisAylik * Math.min(4, ay);
+    let baslatmamaAy = 4;
+    if (yil >= 6) baslatmamaAy = 6;
+    if (yil >= 10) baslatmamaAy = 8;
+    const baslatmama = iseBaslatilacak === "hayir" ? giydirilmisAylik * baslatmamaAy : 0;
+    const iseIadeToplam = bostagecen + baslatmama;
+
+    const genelBrut = brutKidem + brutIhbar + iseIadeToplam;
+    const genelNetYaklasik = netKidem + netIhbar + iseIadeToplam; // işe iade brüt; kesinti ayrı
+
+    return {
+      yil, giydirilmisAylik, tavan, tavanEtiket: auto.etiket,
+      brutKidem, netKidem, damgaKidem,
+      hafta, brutIhbar, netIhbar, gvIhbar, damgaIhbar,
+      bostagecen, baslatmamaAy, baslatmama, iseIadeToplam,
+      genelBrut, genelNetYaklasik,
+    };
+  }, [baslangic, bitis, maas, yemekYol, ikramiye, kumulatifMatrah, boslukAy, iseBaslatilacak, kidemHakki, ihbarHakki]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <div className="col-span-full text-xs text-charcoal/50 leading-relaxed">
+        Fesih geçersiz sayıldığında / işe iade davasında sık istenen kalemleri tek raporda toplar:
+        kıdem + ihbar (hak varsa) + boşta geçen süre + işe başlatmama tazminatı.
+      </div>
+      <Field label="İşe giriş">
+        <input type="date" value={baslangic} onChange={e => setBaslangic(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Fesih / ayrılış">
+        <input type="date" value={bitis} onChange={e => setBitis(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Aylık brüt maaş (TL)">
+        <MoneyInput value={maas} onChange={setMaas} />
+      </Field>
+      <Field label="Aylık brüt yemek/yol (TL)">
+        <MoneyInput value={yemekYol} onChange={setYemekYol} />
+      </Field>
+      <Field label="Yıllık brüt ikramiye (TL)">
+        <MoneyInput value={ikramiye} onChange={setIkramiye} />
+      </Field>
+      <Field label="Kümüle GV matrahı (ihbar için)">
+        <MoneyInput value={kumulatifMatrah} onChange={setKumulatifMatrah} />
+      </Field>
+      <Field label="Kıdem hakkı var mı?">
+        <select value={kidemHakki} onChange={e => setKidemHakki(e.target.value as "evet" | "hayir")} className={sel}>
+          <option value="evet">Evet — hesapla</option>
+          <option value="hayir">Hayır — 0</option>
+        </select>
+      </Field>
+      <Field label="İhbar tazminatı hakkı var mı?">
+        <select value={ihbarHakki} onChange={e => setIhbarHakki(e.target.value as "evet" | "hayir")} className={sel}>
+          <option value="evet">Evet — hesapla</option>
+          <option value="hayir">Hayır (bildirimli fesih vb.) — 0</option>
+        </select>
+      </Field>
+      <Field label="Boşta geçen süre (ay)">
+        <input type="number" min="0" max="24" value={boslukAy} onChange={e => setBoslukAy(e.target.value)} className={inp} />
+      </Field>
+      <Field label="İşveren işe başlatacak mı?">
+        <select value={iseBaslatilacak} onChange={e => setIseBaslatilacak(e.target.value as "evet" | "hayir")} className={sel}>
+          <option value="hayir">Hayır — başlatmama tazminatı hesapla</option>
+          <option value="evet">Evet — başlatmama yok</option>
+        </select>
+      </Field>
+      {result ? (
+        <div className="col-span-full flex flex-col gap-4">
+          <Result
+            baslik="Özet — birleşik işçilik alacağı tahmini"
+            rows={[
+              ["Kıdem (yıl)", fmt(result.yil, 2)],
+              ["Giydirilmiş aylık brüt", `${fmt(result.giydirilmisAylik)} TL`],
+              ["Kıdem tavan dönemi", `${result.tavanEtiket} (${fmt(result.tavan)} TL)`],
+              ["Net kıdem", `${fmt(result.netKidem)} TL`],
+              ["Net ihbar", `${fmt(result.netIhbar)} TL`],
+              ["Boşta geçen (max 4 ay)", `${fmt(result.bostagecen)} TL`],
+              ["İşe başlatmama", result.baslatmama > 0 ? `${fmt(result.baslatmama)} TL (${result.baslatmamaAy} ay)` : "0 TL"],
+              ["İşe iade kalemleri toplamı (brüt)", `${fmt(result.iseIadeToplam)} TL`],
+              ["GENEL TOPLAM (yaklaşık)", `${fmt(result.genelNetYaklasik)} TL`],
+            ]}
+            note="Bu rapor bilgilendirme amaçlıdır. İşe iade tazminatları genelde brüt esastır; kıdem net (damga sonrası), ihbar net (GV+damga sonrası) gösterilir. Mahkeme/arabuluculuk sonucuna göre kalemler değişir. Detay için ayrı 'Kıdem & İhbar' ve 'İşe İade' araçlarını da kullanın."
+          />
+          <Result
+            baslik="Kalem dökümü"
+            rows={[
+              ["Brüt kıdem", `${fmt(result.brutKidem)} TL`],
+              ["Kıdem damga", `− ${fmt(result.damgaKidem)} TL`],
+              ["Brüt ihbar", `${fmt(result.brutIhbar)} TL`],
+              ["İhbar GV", `− ${fmt(result.gvIhbar)} TL`],
+              ["İhbar damga", `− ${fmt(result.damgaIhbar)} TL`],
+              ["Boşta geçen ücret", `${fmt(result.bostagecen)} TL`],
+              ["Başlatmama tazminatı", `${fmt(result.baslatmama)} TL`],
+            ]}
+          />
+        </div>
+      ) : (
+        <div className="col-span-full text-sm text-charcoal/35 italic">Tarih ve ücret girin.</div>
+      )}
+    </div>
+  );
+}
+
 // ─── ARAÇLAR LİSTESİ ──────────────────────────────────────────────────────────
 
 const ARACLAR = [
@@ -3180,6 +3474,7 @@ const ARACLAR = [
   { id: "sakli-pay", icon: "🔏", baslik: "Saklı Pay Hesabı (TMK)", tag: "Miras Hukuku", comp: <SakliPayHesabi /> },
   { id: "kidem", icon: "💼", baslik: "Kıdem & İhbar Tazminatı", tag: "İş Hukuku", comp: <KidemIhbarTazminati /> },
   { id: "ise-iade", icon: "🔄", baslik: "İşe İade Tazminatı Tahmini", tag: "İş Hukuku", comp: <IseIadeTazminat /> },
+  { id: "kidem-ise-iade", icon: "📑", baslik: "Kıdem + İhbar + İşe İade (Birleşik Rapor)", tag: "İş Hukuku", comp: <KidemIseIadeBirlesik /> },
   { id: "fazla-mesai", icon: "⏰", baslik: "Fazla Mesai Ücreti", tag: "İş Hukuku", comp: <FazlaMesai /> },
   { id: "yillik-izin", icon: "🏖️", baslik: "Yıllık İzin Ücreti", tag: "İş Hukuku", comp: <YillikIzin /> },
   { id: "smm", icon: "🧾", baslik: "Serbest Meslek Makbuzu (SMM)", tag: "İş Hukuku", comp: <SmmHesaplama /> },

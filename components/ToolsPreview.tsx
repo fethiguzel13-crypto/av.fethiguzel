@@ -27,17 +27,17 @@ const FEATURED_TOOLS = [
     etiket: 'İş Hukuku',
   },
   {
-    id: 'ise-iade',
-    icon: '🔄',
-    baslik: 'İşe İade Tazminatı',
-    aciklama: 'Boşta geçen süre + işe başlatmama tahmini.',
+    id: 'kidem-ise-iade',
+    icon: '📑',
+    baslik: 'Birleşik İşçilik Raporu',
+    aciklama: 'Kıdem + ihbar + işe iade tek sayfada.',
     etiket: 'İş Hukuku',
   },
   {
     id: 'faiz',
     icon: '📊',
-    baslik: 'Faiz Hesaplama',
-    aciklama: 'Yasal, ticari, avans — 365/360 gün seçenekli.',
+    baslik: 'Faiz (Dönemsel)',
+    aciklama: 'Tek oran veya dilim dilim değişken faiz.',
     etiket: 'Alacak',
   },
   {
