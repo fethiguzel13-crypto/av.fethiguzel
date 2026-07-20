@@ -8,10 +8,20 @@ type Props = {
   params: Promise<{ kanunId: string; id: string }>
 }
 
-/** Fully static shell — article body loads client-side from CDN packs. */
+/** Pre-render static shells for every madde (body still client-loaded from CDN). */
 export function generateStaticParams() {
-  // Empty: pages generated on first request as static shell (no serverless body).
-  return [] as { kanunId: string; id: string }[]
+  try {
+    // Relative path — available at build; keeps pages static on Vercel CDN.
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const fs = require('fs') as typeof import('fs')
+    const raw = fs.readFileSync('public/data/mevzuat-index.json', 'utf8')
+    const data = JSON.parse(raw) as {
+      items: { kanunId: string; id: string }[]
+    }
+    return data.items.map((i) => ({ kanunId: i.kanunId, id: i.id }))
+  } catch {
+    return [] as { kanunId: string; id: string }[]
+  }
 }
 
 export const dynamicParams = true
