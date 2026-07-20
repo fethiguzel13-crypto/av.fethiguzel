@@ -246,6 +246,13 @@ export default function Navbar() {
               {item.name}
             </Link>
           ))}
+          <Link
+            href="/ara"
+            onClick={() => setMobileOpen(false)}
+            className="mt-2 mb-3 block text-center bg-charcoal text-white py-3 rounded-2xl font-bold text-sm"
+          >
+            MEVZUAT ARA
+          </Link>
           <div className="mt-3">
             <p className="text-[10px] font-mono uppercase tracking-widest text-charcoal/30 mb-4">Mevzuat</p>
             {MEVZUAT_GRUPLARI.map(g => (
