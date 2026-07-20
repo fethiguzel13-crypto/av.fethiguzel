@@ -1,6 +1,7 @@
 "use client";
 
 import React from "react";
+import Image from "next/image";
 import Link from "next/link";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
@@ -39,6 +40,16 @@ const SSS = [
   },
 ];
 
+const TUM_BOLGELER = [
+  { ad: "Van Avukat", href: "/van-avukat" },
+  { ad: "Erciş Avukat", href: "/ercis-avukat" },
+  { ad: "Çaldıran Avukat", href: "/caldiran-avukat" },
+  { ad: "Özalp Avukat", href: "/ozalp-avukat" },
+  { ad: "Muradiye Avukat", href: "/muradiye-avukat" },
+  { ad: "Patnos Avukat", href: "/patnos-avukat" },
+  { ad: "Ağrı Avukat", href: "/agri-avukat" },
+];
+
 export interface IlceVerisi {
   ilce: string;
   il: string;
@@ -50,30 +61,40 @@ export interface IlceVerisi {
 
 export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
   const [openFaq, setOpenFaq] = React.useState<number | null>(0);
+  const pageUrl = `https://avfethiguzel.com/${veri.slug}`;
+  const photo = "/images/av-fethi-guzel-van-ercis-avukat.jpg";
 
   return (
     <div className="bg-cream min-h-screen">
       <Navbar />
 
-      {/* JSON-LD: bu sayfaya özel LegalService + FAQPage */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify({
             "@context": "https://schema.org",
-            "@type": "Attorney",
-            "name": "Av. Fethi Güzel",
-            "description": `${veri.ilce} ve çevresinde hukuki danışmanlık ve dava vekilliği hizmeti veren Av. Fethi Güzel Hukuk Bürosu.`,
-            "url": `https://avfethiguzel.com/${veri.slug}`,
-            "areaServed": { "@type": "City", "name": veri.ilce },
-            "address": {
-              "@type": "PostalAddress",
-              "streetAddress": "Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı Kat 4 No 26",
-              "addressLocality": "Erciş",
-              "addressRegion": "Van",
-              "postalCode": "65400",
-              "addressCountry": "TR",
+            "@type": "LegalService",
+            name: `Av. Fethi Güzel — ${veri.ilce} Avukat`,
+            alternateName: `${veri.ilce} avukat`,
+            description: `${veri.ilce} avukat arayanlar için Av. Fethi Güzel Hukuk Bürosu. Ceza, aile, miras, iş ve ticaret hukuku.`,
+            url: pageUrl,
+            image: `https://avfethiguzel.com${photo}`,
+            provider: {
+              "@type": "Attorney",
+              name: "Av. Fethi Güzel",
+              image: `https://avfethiguzel.com${photo}`,
+              url: "https://avfethiguzel.com/avukat-fethi-guzel",
             },
+            areaServed: { "@type": "City", name: veri.ilce },
+            address: {
+              "@type": "PostalAddress",
+              streetAddress: "Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı Kat 4 No 26",
+              addressLocality: "Erciş",
+              addressRegion: "Van",
+              postalCode: "65400",
+              addressCountry: "TR",
+            },
+            priceRange: "$$",
           }),
         }}
       />
@@ -83,66 +104,104 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "FAQPage",
-            "mainEntity": SSS.map(s => ({
+            mainEntity: SSS.map((s) => ({
               "@type": "Question",
-              "name": s.soru,
-              "acceptedAnswer": { "@type": "Answer", "text": s.cevap },
+              name: s.soru,
+              acceptedAnswer: { "@type": "Answer", text: s.cevap },
             })),
+          }),
+        }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              { "@type": "ListItem", position: 1, name: "Ana Sayfa", item: "https://avfethiguzel.com/" },
+              { "@type": "ListItem", position: 2, name: `${veri.ilce} Avukat`, item: pageUrl },
+            ],
           }),
         }}
       />
 
       <main className="pt-32 sm:pt-40 pb-16 sm:pb-24 px-5 sm:px-6 max-w-5xl mx-auto">
-        {/* Başlık */}
         <header className="mb-12 sm:mb-16">
-          <p className="text-accent font-mono text-[10px] sm:text-[11px] tracking-widest uppercase mb-3 sm:mb-4">
-            {veri.eyebrow}
-          </p>
-          <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-charcoal mb-4 sm:mb-5 leading-tight">
-            {veri.ilce} <span className="font-drama italic text-accent">Avukat</span>
-          </h1>
-          {veri.giris.map((p, i) => (
-            <p key={i} className="text-charcoal/60 text-base sm:text-lg leading-relaxed max-w-3xl mb-4">
-              {p}
-            </p>
-          ))}
-          <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 mt-7 sm:mt-8">
-            <a
-              href="mailto:av.fethiguzel@hotmail.com"
-              className="group flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors"
-            >
-              <Mail size={16} />
-              <span>E-posta ile İletişime Geçin</span>
-              <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
-            </a>
-            <Link
-              href="/#iletisim"
-              className="flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10 transition-colors"
-            >
-              <Video size={16} />
-              <span>Online Danışmanlık Talep Et</span>
-            </Link>
+          <div className="flex flex-col md:flex-row gap-8 md:gap-10 md:items-start">
+            <div className="shrink-0 mx-auto md:mx-0">
+              <div className="relative w-36 h-36 sm:w-44 sm:h-44 rounded-3xl overflow-hidden border border-charcoal/10 shadow-soft bg-charcoal/5">
+                <Image
+                  src={photo}
+                  alt={`Av. Fethi Güzel — ${veri.ilce} avukat`}
+                  title={`${veri.ilce} avukat Av. Fethi Güzel`}
+                  width={176}
+                  height={176}
+                  className="object-cover w-full h-full"
+                  priority
+                />
+              </div>
+              <p className="mt-2 text-center text-[11px] text-charcoal/45 font-medium">
+                Av. Fethi Güzel
+              </p>
+            </div>
+
+            <div className="flex-1 text-center md:text-left">
+              <p className="text-accent font-mono text-[10px] sm:text-[11px] tracking-widest uppercase mb-3 sm:mb-4">
+                {veri.eyebrow}
+              </p>
+              <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold text-charcoal mb-4 sm:mb-5 leading-tight">
+                {veri.ilce} <span className="font-drama italic text-accent">Avukat</span>
+              </h1>
+              <p className="text-charcoal/50 text-sm mb-4">
+                <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
+                  Av. Fethi Güzel
+                </Link>
+                {" · "}
+                {veri.il} bölgesi hukuki danışmanlık ve dava vekilliği
+              </p>
+              {veri.giris.map((p, i) => (
+                <p key={i} className="text-charcoal/60 text-base sm:text-lg leading-relaxed max-w-3xl mb-4 mx-auto md:mx-0">
+                  {p}
+                </p>
+              ))}
+              <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 mt-7 sm:mt-8 justify-center md:justify-start">
+                <a
+                  href="mailto:av.fethiguzel@hotmail.com"
+                  className="group flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors"
+                >
+                  <Mail size={16} />
+                  <span>E-posta ile İletişime Geçin</span>
+                  <ArrowRight size={16} className="transition-transform group-hover:translate-x-1" />
+                </a>
+                <Link
+                  href="/avukat-fethi-guzel"
+                  className="flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10 transition-colors"
+                >
+                  <Video size={16} />
+                  <span>Profil ve Ofis</span>
+                </Link>
+              </div>
+            </div>
           </div>
         </header>
 
-        {/* Neden bölümü */}
         <section className="mb-14 sm:mb-20 bg-white border border-charcoal/6 rounded-2xl sm:rounded-[2rem] p-6 sm:p-10">
           <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-4">
-            {veri.ilce}&apos;de Hukuki Destek
+            {veri.ilce}&apos;de Hukuki Destek — Av. Fethi Güzel
           </h2>
           <p className="text-charcoal/60 leading-relaxed text-sm sm:text-base">{veri.neden}</p>
         </section>
 
-        {/* Hizmet Alanları */}
         <section className="mb-14 sm:mb-20">
           <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-2">
-            {veri.ilce}&apos;de Sunulan Hukuki Hizmetler
+            {veri.ilce} Avukat — Sunulan Hukuki Hizmetler
           </h2>
           <p className="text-charcoal/50 text-sm mb-6 sm:mb-8">
             Aşağıdaki alanların tümünde {veri.ilce} ve çevresinden gelen müvekkillere danışmanlık ve dava vekilliği sağlanmaktadır.
           </p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-3 sm:gap-4">
-            {HIZMET_ALANLARI.map(h => (
+            {HIZMET_ALANLARI.map((h) => (
               <div key={h.ad} className="bg-white border border-charcoal/6 rounded-xl sm:rounded-2xl p-4 sm:p-5 flex gap-3 sm:gap-4">
                 <h.icon size={20} className="text-accent shrink-0 mt-0.5" />
                 <div>
@@ -154,7 +213,6 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
           </div>
         </section>
 
-        {/* Nasıl Çalışıyoruz */}
         <section className="mb-14 sm:mb-20">
           <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-6 sm:mb-8">Nasıl Çalışıyoruz?</h2>
           <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 sm:gap-6">
@@ -162,7 +220,7 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
               { no: "01", baslik: "İletişime Geçin", aciklama: "E-posta veya web sitesi üzerinden talebinizi iletin." },
               { no: "02", baslik: "Ön Değerlendirme", aciklama: "Yüz yüze, e-posta veya video görüşmeyle dosyanız değerlendirilir." },
               { no: "03", baslik: "Süreç Takibi", aciklama: "Vekillik anlaşması sonrası dosyanız titizlikle ve düzenli bilgilendirmeyle takip edilir." },
-            ].map(a => (
+            ].map((a) => (
               <div key={a.no} className="bg-charcoal rounded-2xl sm:rounded-[2rem] p-6 sm:p-8">
                 <span className="text-accent font-heading text-3xl font-bold">{a.no}</span>
                 <h3 className="text-cream font-bold text-sm mt-3 mb-2">{a.baslik}</h3>
@@ -172,9 +230,10 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
           </div>
         </section>
 
-        {/* SSS */}
         <section className="mb-14 sm:mb-20">
-          <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-6 sm:mb-8">Sıkça Sorulan Sorular</h2>
+          <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-6 sm:mb-8">
+            {veri.ilce} Avukat — Sıkça Sorulan Sorular
+          </h2>
           <div className="flex flex-col gap-3">
             {SSS.map((s, i) => (
               <div key={i} className="bg-white border border-charcoal/6 rounded-xl sm:rounded-2xl overflow-hidden">
@@ -196,21 +255,41 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
           </div>
         </section>
 
-        {/* Ofis / İletişim */}
+        <section className="mb-14 sm:mb-20">
+          <h2 className="text-lg font-heading font-bold text-charcoal mb-4">Diğer hizmet bölgeleri</h2>
+          <div className="flex flex-wrap gap-2">
+            {TUM_BOLGELER.filter((b) => b.href !== `/${veri.slug}`).map((b) => (
+              <Link
+                key={b.href}
+                href={b.href}
+                className="text-xs font-bold uppercase tracking-wider px-3 py-2 rounded-full bg-white border border-charcoal/8 text-charcoal/70 hover:text-accent hover:border-accent/30"
+              >
+                {b.ad}
+              </Link>
+            ))}
+            <Link
+              href="/avukat-fethi-guzel"
+              className="text-xs font-bold uppercase tracking-wider px-3 py-2 rounded-full bg-accent/10 border border-accent/20 text-accent"
+            >
+              Av. Fethi Güzel Profil
+            </Link>
+          </div>
+        </section>
+
         <section className="bg-charcoal rounded-2xl sm:rounded-[2.5rem] p-6 sm:p-10 text-center">
           <MapPin className="text-accent mx-auto mb-3" size={24} />
           <h3 className="text-xl sm:text-2xl font-bold text-cream mb-2 sm:mb-3">
-            Ofisimiz Erciş&apos;te, Hizmetimiz {veri.ilce}&apos;de
+            Ofis Erciş&apos;te — Hizmet {veri.ilce}&apos;de
           </h3>
           <p className="text-cream/55 mb-5 sm:mb-6 text-sm leading-relaxed max-w-md mx-auto">
             Vanyolu Mah. Karayusuf Bey Bulvarı, Zenginler İş Hanı Kat 4 No 26, Erciş / Van.
-            Talebinize göre yüz yüze, e-posta veya video görüşmesiyle destek sağlanır.
+            {veri.ilce} avukat arayışınızda yüz yüze, e-posta veya video görüşmesiyle destek.
           </p>
           <Link
-            href="/#iletisim"
+            href="/avukat-fethi-guzel"
             className="inline-block bg-accent text-white px-6 sm:px-8 py-3 sm:py-3.5 rounded-full font-bold text-sm hover:bg-accent/90 transition-colors"
           >
-            İletişime Geçin
+            Av. Fethi Güzel ile iletişime geçin
           </Link>
         </section>
       </main>

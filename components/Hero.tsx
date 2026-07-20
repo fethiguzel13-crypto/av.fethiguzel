@@ -82,7 +82,24 @@ export default function Hero() {
             ))}
           </div>
 
-          <div className="hero-fade flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-3.5">
+          <div className="hero-fade flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-3.5 items-stretch sm:items-center">
+            <Link
+              href="/avukat-fethi-guzel"
+              className="hidden sm:flex items-center gap-3 pr-4 pl-1.5 py-1.5 rounded-full bg-cream/10 border border-cream/15 backdrop-blur-md hover:bg-cream/15 transition-colors"
+            >
+              <img
+                src="/images/av-fethi-guzel-square.jpg"
+                alt="Av. Fethi Güzel — Van Erciş avukat"
+                title="Avukat Fethi Güzel"
+                width={44}
+                height={44}
+                className="w-11 h-11 rounded-full object-cover border border-cream/20"
+              />
+              <span className="text-left pr-1">
+                <span className="block text-cream text-sm font-bold leading-tight">Av. Fethi Güzel</span>
+                <span className="block text-cream/50 text-[10px] uppercase tracking-wider">Van · Erciş avukat</span>
+              </span>
+            </Link>
             <Link
               href="/ara"
               className="group flex items-center justify-center gap-2 sm:gap-3 bg-accent text-white px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all shadow-lg shadow-accent/30 hover:bg-accent/90 hover:-translate-y-0.5"

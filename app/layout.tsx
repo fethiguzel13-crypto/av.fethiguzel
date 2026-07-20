@@ -51,9 +51,12 @@ export const metadata: Metadata = {
     'Avukat Fethi Güzel',
     'Van avukat',
     'Erciş avukat',
+    'Çaldıran avukat',
+    'Özalp avukat',
     'Ağrı avukat',
     'Patnos avukat',
     'Muradiye avukat',
+    'avukat Fethi Güzel',
     'kanun maddesi',
     'akademik şerh',
     'mevzuat bankası',
@@ -92,10 +95,16 @@ export const metadata: Metadata = {
       '7800+ madde şerhi, günlük içtihat ve hukuki hesaplama araçları. Türkiye\'nin kapsamlı dijital hukuk arşivi.',
     images: [
       {
-        url: '/fethi-guzel.jpg',
+        url: '/images/av-fethi-guzel-og.jpg',
         width: 1200,
         height: 630,
-        alt: 'Av. Fethi Güzel',
+        alt: 'Av. Fethi Güzel — Van Erciş avukat',
+      },
+      {
+        url: '/images/av-fethi-guzel-van-ercis-avukat.jpg',
+        width: 640,
+        height: 640,
+        alt: 'Avukat Fethi Güzel portresi',
       },
     ],
   },
@@ -103,7 +112,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Av. Fethi Güzel | Mevzuat & Akademik Şerh',
     description: '7800+ kanun maddesi, akademik şerhler, günlük içtihat, hesaplama araçları.',
-    images: ['/fethi-guzel.jpg'],
+    images: ['/images/av-fethi-guzel-og.jpg'],
   },
   robots: {
     index: true,
@@ -141,7 +150,7 @@ const personSchema = {
   description:
     'Van ve Erciş merkezli avukat; medeni, borçlar, ticaret, ceza ve usul hukuku. Dijital mevzuat ve akademik şerh arşivi.',
   url: siteUrl,
-  image: `${siteUrl}/fethi-guzel.jpg`,
+  image: `${siteUrl}/images/av-fethi-guzel-van-ercis-avukat.jpg`,
   email: 'av.fethiguzel@hotmail.com',
   address: {
     '@type': 'PostalAddress',
@@ -151,7 +160,7 @@ const personSchema = {
     postalCode: '65400',
     addressCountry: 'TR',
   },
-  areaServed: ['Van', 'Erciş', 'Ağrı', 'Patnos', 'Muradiye'].map((name) => ({
+  areaServed: ['Van', 'Erciş', 'Çaldıran', 'Özalp', 'Muradiye', 'Patnos', 'Ağrı'].map((name) => ({
     '@type': 'City',
     name,
   })),

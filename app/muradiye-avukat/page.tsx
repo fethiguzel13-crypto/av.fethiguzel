@@ -2,9 +2,16 @@ import type { Metadata } from "next";
 import IlceAvukatSayfasi, { IlceVerisi } from "@/components/IlceAvukatSayfasi";
 
 export const metadata: Metadata = {
-  title: "Muradiye Avukat | Av. Fethi Güzel Hukuk Bürosu",
-  description: "Van'a bağlı Muradiye ilçesinde avukat arayışındaysanız, Erciş'teki ofisimizden ceza, aile, miras, gayrimenkul ve iş hukuku alanlarında danışmanlık ve dava vekilliği hizmeti alabilirsiniz.",
+  title: "Muradiye Avukat | Av. Fethi Güzel — Van Muradiye",
+  description:
+    "Muradiye avukat: Av. Fethi Güzel — ceza, aile, miras, gayrimenkul ve iş hukuku. Van Muradiye için danışmanlık ve dava vekilliği.",
+  keywords: "Muradiye avukat, Muradiye avukatı, Van Muradiye avukat, Fethi Güzel",
   alternates: { canonical: "https://avfethiguzel.com/muradiye-avukat" },
+  openGraph: {
+    title: "Muradiye Avukat | Av. Fethi Güzel",
+    url: "https://avfethiguzel.com/muradiye-avukat",
+    images: [{ url: "/images/av-fethi-guzel-og.jpg", width: 1200, height: 630, alt: "Av. Fethi Güzel Muradiye avukat" }],
+  },
 };
 
 const veri: IlceVerisi = {

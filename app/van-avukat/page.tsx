@@ -2,9 +2,17 @@ import type { Metadata } from "next";
 import IlceAvukatSayfasi, { IlceVerisi } from "@/components/IlceAvukatSayfasi";
 
 export const metadata: Metadata = {
-  title: "Van Avukat | Av. Fethi Güzel Hukuk Bürosu",
-  description: "Van il merkezinde avukat mı arıyorsunuz? Ceza, aile, miras, gayrimenkul, iş ve ticaret hukuku alanlarında Av. Fethi Güzel'den danışmanlık ve dava vekilliği hizmeti alın.",
+  title: "Van Avukat | Av. Fethi Güzel — Van Avukatlık Bürosu",
+  description:
+    "Van avukat arıyorsanız: Av. Fethi Güzel — ceza, aile, miras, gayrimenkul, iş ve ticaret hukuku. Van il merkezi dava vekilliği ve danışmanlık.",
+  keywords: "Van avukat, Van avukatı, Avukat Fethi Güzel, Van boşanma avukatı, Van miras avukatı, Erciş avukat",
   alternates: { canonical: "https://avfethiguzel.com/van-avukat" },
+  openGraph: {
+    title: "Van Avukat | Av. Fethi Güzel",
+    description: "Van'da hukuki danışmanlık ve dava vekilliği — Av. Fethi Güzel.",
+    url: "https://avfethiguzel.com/van-avukat",
+    images: [{ url: "/images/av-fethi-guzel-og.jpg", width: 1200, height: 630, alt: "Av. Fethi Güzel Van avukat" }],
+  },
 };
 
 const veri: IlceVerisi = {

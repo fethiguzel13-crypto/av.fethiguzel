@@ -88,8 +88,10 @@ export default function Footer() {
             <div className="flex flex-col gap-2 text-sm text-cream/70">
               <Link href="/van-avukat" className="hover:text-accent transition-colors">Van Avukat</Link>
               <Link href="/ercis-avukat" className="hover:text-accent transition-colors">Erciş Avukat</Link>
-              <Link href="/agri-avukat" className="hover:text-accent transition-colors">Ağrı Avukat</Link>
+              <Link href="/caldiran-avukat" className="hover:text-accent transition-colors">Çaldıran Avukat</Link>
+              <Link href="/ozalp-avukat" className="hover:text-accent transition-colors">Özalp Avukat</Link>
               <Link href="/patnos-avukat" className="hover:text-accent transition-colors">Patnos Avukat</Link>
+              <Link href="/avukat-fethi-guzel" className="hover:text-accent transition-colors">Av. Fethi Güzel</Link>
             </div>
           </div>
           <div>
@@ -132,9 +134,12 @@ export default function Footer() {
           {[
             { ad: 'Van Avukat', href: '/van-avukat' },
             { ad: 'Erciş Avukat', href: '/ercis-avukat' },
-            { ad: 'Ağrı Avukat', href: '/agri-avukat' },
-            { ad: 'Patnos Avukat', href: '/patnos-avukat' },
+            { ad: 'Çaldıran Avukat', href: '/caldiran-avukat' },
+            { ad: 'Özalp Avukat', href: '/ozalp-avukat' },
             { ad: 'Muradiye Avukat', href: '/muradiye-avukat' },
+            { ad: 'Patnos Avukat', href: '/patnos-avukat' },
+            { ad: 'Ağrı Avukat', href: '/agri-avukat' },
+            { ad: 'Av. Fethi Güzel', href: '/avukat-fethi-guzel' },
           ].map(l => (
             <Link key={l.href} href={l.href} className="text-cream/40 hover:text-accent transition-colors">
               {l.ad}
@@ -145,8 +150,9 @@ export default function Footer() {
         {/* SEO yerel metin */}
         <p className="mt-6 text-center text-cream/45 text-xs font-sans leading-relaxed max-w-3xl mx-auto">
           Av. Fethi Güzel — <strong className="text-cream/60">Van avukat</strong>, <strong className="text-cream/60">Erciş avukat</strong>,{' '}
-          <strong className="text-cream/60">Ağrı avukat</strong>, <strong className="text-cream/60">Patnos avukat</strong> ve{' '}
-          <strong className="text-cream/60">Muradiye avukat</strong> arayışında olanlara; Çaldıran, Özalp, Başkale, Gürpınar ve çevre
+          <strong className="text-cream/60">Çaldıran avukat</strong>, <strong className="text-cream/60">Özalp avukat</strong>,{' '}
+          <strong className="text-cream/60">Muradiye avukat</strong>, <strong className="text-cream/60">Patnos avukat</strong> ve{' '}
+          <strong className="text-cream/60">Ağrı avukat</strong> arayışında olanlara; Başkale, Gürpınar ve çevre
           ilçelerde hukuki danışmanlık, dava vekilliği, arabuluculuk ve akademik hukuk danışmanlığı hizmetleri sunulmaktadır.
           Ceza hukuku, medeni hukuk, aile hukuku, iş hukuku, gayrimenkul hukuku, idare hukuku ve ticaret hukuku alanlarında
           profesyonel temsil için iletişime geçebilirsiniz.

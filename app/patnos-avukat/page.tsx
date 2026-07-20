@@ -2,9 +2,16 @@ import type { Metadata } from "next";
 import IlceAvukatSayfasi, { IlceVerisi } from "@/components/IlceAvukatSayfasi";
 
 export const metadata: Metadata = {
-  title: "Patnos Avukat | Av. Fethi Güzel Hukuk Bürosu",
-  description: "Ağrı'ya bağlı Patnos ilçesinde avukat arayışındaysanız, ceza, aile, miras, gayrimenkul ve iş hukuku alanlarında Av. Fethi Güzel'den danışmanlık ve dava vekilliği hizmeti alabilirsiniz.",
+  title: "Patnos Avukat | Av. Fethi Güzel — Ağrı Patnos",
+  description:
+    "Patnos avukat: Av. Fethi Güzel — ceza, aile, miras, gayrimenkul ve iş hukuku. Ağrı Patnos için danışmanlık ve dava vekilliği.",
+  keywords: "Patnos avukat, Patnos avukatı, Ağrı Patnos avukat, Fethi Güzel",
   alternates: { canonical: "https://avfethiguzel.com/patnos-avukat" },
+  openGraph: {
+    title: "Patnos Avukat | Av. Fethi Güzel",
+    url: "https://avfethiguzel.com/patnos-avukat",
+    images: [{ url: "/images/av-fethi-guzel-og.jpg", width: 1200, height: 630, alt: "Av. Fethi Güzel Patnos avukat" }],
+  },
 };
 
 const veri: IlceVerisi = {

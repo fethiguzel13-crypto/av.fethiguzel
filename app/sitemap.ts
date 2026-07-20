@@ -62,12 +62,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   ];
 
   // 1b. İlçe/İl Avukat Sayfaları (yerel SEO)
-  const ilceSlugs = ['ercis-avukat', 'van-avukat', 'muradiye-avukat', 'agri-avukat', 'patnos-avukat'];
+  const ilceSlugs = [
+    'ercis-avukat',
+    'van-avukat',
+    'muradiye-avukat',
+    'agri-avukat',
+    'patnos-avukat',
+    'caldiran-avukat',
+    'ozalp-avukat',
+    'avukat-fethi-guzel',
+  ];
   const ilceRoutes: MetadataRoute.Sitemap = ilceSlugs.map((slug) => ({
     url: `${baseUrl}/${slug}`,
     lastModified: new Date(),
-    changeFrequency: 'monthly',
-    priority: 0.9,
+    changeFrequency: 'weekly',
+    priority: slug === 'avukat-fethi-guzel' ? 0.95 : 0.9,
   }));
 
   // 2. Ana Kategori Sayfaları (/medeni-hukuk, /borclar-hukuku, /ticaret-hukuku)
