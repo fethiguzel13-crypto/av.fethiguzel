@@ -3,7 +3,8 @@ import { homedir } from 'node:os';
 import { join } from 'node:path';
 
 const CHROME_PROFILE = join(homedir(), 'AppData', 'Local', 'Google', 'Chrome', 'User Data', 'TwitterBot');
-const TWEET_DELAY_MS = 3 * 60 * 60 * 1000; // 3 saat — spam görünmesin
+// Between posts: 45s default (override SOCIAL_TWEET_DELAY_MS). Was 3h — blocked multi-post runs.
+const TWEET_DELAY_MS = Number(process.env.SOCIAL_TWEET_DELAY_MS || 45_000);
 const HOME_URL = 'https://x.com/home';
 
 export async function postTweets(tweets) {

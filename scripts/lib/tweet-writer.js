@@ -1,58 +1,72 @@
-import Anthropic from '@anthropic-ai/sdk';
+import { completeText } from './llm-client.js';
 
-const SYSTEM = `Sen Av. Fethi Güzel'sin. Hukuku seven ama hukuk eğitimi almamış meraklı insanlara Twitter'da içtihat paylaşıyorsun.
+const SYSTEM = `Sen Av. Fethi Güzel adına X/Twitter için hukuki içerik yazıyorsun.
 
-Hedef kitle: Hukuku takip eden, gazete okur gibi içtihat okuyan, "bu nasıl bir karar?" diye merak eden vatandaşlar.
-
-Ton: Deneyimli bir avukatın kahvede arkadaşına anlattığı gibi. Bilgili ama gösteriş yapmayan. Kısa, net, akılda kalıcı.
-
-Bağlam: Tüm kararlar Türkiye'deki gerçek davalar — Türk vatandaşları, Türk mahkemeleri.
+Kimlik: Tecrübeli, sakin, akademik üsluba yakın bir avukat. Popüler hukukçu pozları yok.
+Kitle: Hukukçular, stajyerler, hukuk meraklısı okuyucular — ciddi ton.
 
 Kurallar:
-- Maksimum 200 karakter (link ve hashtag ayrıca ekleniyor)
-- Kararın özündeki çarpıcı noktayı öne çıkar — hukuki jargon yok
-- Her tweet farklı bir açıdan gir: bazen sonuçtan başla, bazen davacının durumundan, bazen beklenmedik karardan
-- "Mahkeme şuna karar verdi" kalıbından kaçın — daha çekici bir giriş bul
-- Siyasi taraf tutma yok, eleştiri yok — sadece kararın hikayesini anlat
-- Okuyucuyu "devamını okumak istiyorum" dedirtecek bir şey bırak
-- Sadece tweet metnini döndür`;
+1) Metin hukuki olarak isabetli olsun; abartı, sansasyon, "şok karar" dili YOK.
+2) Jargonu tamamen silme; teknik terimi kullanıyorsan bir cümlede anlaşılır kıl.
+3) Maksimum 210 karakter (link ve hashtag ayrıca eklenecek).
+4) "Devamı sitede", "link bio'da", "profildeki link", "tıkla oku" gibi tuzak cümleler YASAK.
+5) Siyaset, parti, ideoloji yok.
+6) Okuyucuya emir kipi verme; bilgilendir.
+7) Karar/metin özünü tek net fikirle ver.
+8) Sadece tweet gövdesini yaz; hashtag, URL, tırnak açıklaması ekleme.`;
 
 const HASHTAGS = {
   AYM: '#hukuk #AYM',
   Yargıtay: '#hukuk #Yargıtay',
   YİBK: '#hukuk #YİBK',
   AİHM: '#hukuk #AİHM',
+  TBK: '#hukuk #TBK',
+  TMK: '#hukuk #TMK',
+  İşK: '#hukuk #işhukuku',
+  HMK: '#hukuk #HMK',
+  İİK: '#hukuk #İİK',
+  TCK: '#hukuk #TCK',
   RG: '#hukuk #mevzuat',
 };
 
 function hashtagsFor(source, category) {
   if (source === 'Yargıtay' && category === 'YİBK') return HASHTAGS.YİBK;
-  return HASHTAGS[source] || '#hukuk #içtihat';
+  return HASHTAGS[source] || '#hukuk';
 }
 
 function summaryFor(h) {
-  return (h.publicSummary || h.konu || h.title || '').trim().slice(0, 500);
+  return (h.publicSummary || h.konu || h.title || '').trim().slice(0, 600);
 }
 
-export async function writeTweets(highlights, siteDomain = 'avfethiguzel.com', client = new Anthropic()) {
+/** Soft site reference: bare domain only, no "continue on site" language */
+function softLink(h) {
+  if (h.url && h.url.includes('avfethiguzel.com')) {
+    return h.url.replace(/^https?:\/\//, '');
+  }
+  return 'avfethiguzel.com';
+}
+
+export async function writeTweets(highlights) {
   const tweets = [];
   for (const h of highlights) {
     const summary = summaryFor(h);
-    const msg = await client.messages.create({
-      model: 'claude-sonnet-4-6',
-      max_tokens: 200,
+    const body = await completeText({
       system: SYSTEM,
-      messages: [{
-        role: 'user',
-        content: `Mahkeme: ${h.source}\nÖzet: ${summary}\n\nSadece tweet metnini yaz.`
-      }]
+      maxTokens: 220,
+      user: `Kaynak: ${h.source}
+Künye: ${h.kunye || h.title || ''}
+Özet: ${summary}
+
+Tek tweet gövdesi yaz (hashtag ve link yok).`,
     });
-    const raw = msg.content?.[0]?.text;
-    if (!raw) throw new Error(`Empty API response for highlight ${h.id || h.source}`);
-    const body = raw.trim();
+    const clean = body
+      .replace(/^["«»]|["«»]$/g, '')
+      .replace(/\n+/g, ' ')
+      .trim();
     const hashtags = hashtagsFor(h.source, h.category);
-    const link = `${siteDomain}/icthat`;
-    const full = `${body}\n\n${link} ${hashtags}`;
+    const link = softLink(h);
+    // Link as plain reference at end — not "devamı için"
+    const full = `${clean}\n\n${link}\n${hashtags}`;
     tweets.push(full.slice(0, 280));
   }
   return tweets;

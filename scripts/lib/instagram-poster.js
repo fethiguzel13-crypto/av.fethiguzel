@@ -5,7 +5,7 @@ import { join } from 'node:path';
 
 const CHROME_PROFILE = join(homedir(), 'AppData', 'Local', 'Google', 'Chrome', 'User Data', 'InstagramBot');
 const INSTAGRAM_URL = 'https://www.instagram.com';
-const POST_DELAY_MS = 3 * 60 * 60 * 1000; // 3 saat — spam görünmesin
+const POST_DELAY_MS = Number(process.env.SOCIAL_IG_DELAY_MS || 60_000); // default 60s
 
 async function clickByText(page, texts, label) {
   const selectors = texts.flatMap(t => [

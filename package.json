@@ -12,7 +12,11 @@
     "lint": "eslint",
     "test:scripts": "node --test \"scripts/lib/__tests__/*.test.js\"",
     "build:daily": "node scripts/build-daily.js",
-    "build:index": "node scripts/build-mevzuat-index.mjs"
+    "build:index": "node scripts/build-mevzuat-index.mjs",
+    "social:draft": "node scripts/social-draft.js",
+    "social:seed": "node scripts/social-draft-seed.js",
+    "social:publish": "node scripts/social-publish.js",
+    "social:daily": "node scripts/startup-social.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.0",

@@ -1,25 +1,31 @@
-import Anthropic from '@anthropic-ai/sdk';
+import { completeText } from './llm-client.js';
 
-const SYSTEM = `Sen Av. Fethi Güzel'sin. Mahkeme kararlarını Instagram'da hukuk meraklısı vatandaşlarla paylaşıyorsun.
+const SYSTEM = `Sen Av. Fethi Güzel adına Instagram için hukuki içerik yazıyorsun.
 
-Hedef kitle: Hukuku takip eden, merak eden, öğrenmek isteyen takipçiler.
-
-Ton: Sohbet dili, bilgili ama samimi. Merak uyandırıcı ama didaktik değil.
+Kimlik: Ciddi, ölçülü, akademik-pratik denge. Influencer dili yok.
+Kitle: Hukukçu ve bilinçli vatandaş.
 
 Kurallar:
-- 150-250 karakter (hashtag hariç)
-- Kararın en çarpıcı noktasını öne çıkar
-- "Bu kararda dikkat çeken..." gibi kişisel girişler dene
-- Siyasi taraf tutma yok
-- Son satır: "Kararın tam analizi için bağlantı profilde 🔗"
-- Sadece caption metnini döndür, hashtag dahil etme`;
+1) 400–700 karakter (hashtag hariç). Paragraflı, okunaklı.
+2) Konunun hukuki özünü doğru ver; sansasyon yok.
+3) "Devamı profilde", "link bio", "hikâyede", "kaydetmeyi unutma" YASAK.
+4) Site referansı en fazla bir kez ve sade: satır olarak avfethiguzel.com veya ilgili madde yolu.
+5) Siyaset yok.
+6) Emoji en fazla 1 adet veya hiç.
+7) Sadece caption gövdesini yaz; hashtag listesini ekleme.`;
 
 const HASHTAGS = {
-  AYM:     '#hukuk #içtihat #AYM #anayasaMahkemesi #avukatlık',
-  Yargıtay:'#hukuk #içtihat #Yargıtay #avukatlık',
-  YİBK:    '#hukuk #içtihat #Yargıtay #YİBK #avukatlık',
-  AİHM:    '#hukuk #içtihat #AİHM #insanHakları #avukatlık',
-  RG:      '#hukuk #mevzuat #resmiGazete #avukatlık',
+  AYM: '#hukuk #içtihat #AYM #anayasahukuku',
+  Yargıtay: '#hukuk #içtihat #Yargıtay',
+  YİBK: '#hukuk #Yargıtay #YİBK',
+  AİHM: '#hukuk #AİHM #insanHakları',
+  TBK: '#hukuk #TBK #borçlarhukuku',
+  TMK: '#hukuk #TMK #medeniHukuk',
+  İşK: '#hukuk #işhukuku',
+  HMK: '#hukuk #HMK #usul',
+  İİK: '#hukuk #İİK #icra',
+  TCK: '#hukuk #TCK #cezahukuku',
+  RG: '#hukuk #mevzuat',
 };
 
 function hashtagsFor(source, category) {
@@ -28,53 +34,52 @@ function hashtagsFor(source, category) {
 }
 
 function summaryFor(h) {
-  return (h.publicSummary || h.konu || '').trim().slice(0, 500);
+  return (h.publicSummary || h.konu || '').trim().slice(0, 700);
 }
 
-const HEADLINE_SYSTEM = `Sen bir hukuk editörüsün. Mahkeme kararlarını Instagram görsel kartları için tek bir çarpıcı cümleye dönüştürüyorsun.
+const HEADLINE_SYSTEM = `Instagram kartı için tek cümlelik başlık yazıyorsun (hukuk editörü).
 
 Kurallar:
-- Tam ve eksiksiz bir cümle — yarım bırakma, nokta ile bitir
-- Maksimum 120 karakter
-- Sade Türkçe, jargonsuz
-- Sonuç odaklı: "Mahkeme şuna hükmetti", "X yapan kişi kusurludur" gibi
-- Sadece cümleyi yaz, başka hiçbir şey ekleme`;
+- Tam cümle, nokta ile bitsin
+- En fazla 110 karakter
+- Sansasyon yok ("şok", "bomba" yok)
+- Teknik isabetli, sade Türkçe
+- Sadece cümleyi yaz`;
 
-export async function generateCardHeadlines(highlights, client = new Anthropic()) {
+export async function generateCardHeadlines(highlights) {
   const headlines = [];
   for (const h of highlights) {
-    const msg = await client.messages.create({
-      model: 'claude-sonnet-4-6',
-      max_tokens: 100,
+    const raw = await completeText({
       system: HEADLINE_SYSTEM,
-      messages: [{
-        role: 'user',
-        content: `Mahkeme: ${h.source}\nKunye: ${h.kunye || ''}\nÖzet: ${summaryFor(h)}\n\nTek cümlelik kart başlığını yaz.`
-      }]
+      maxTokens: 80,
+      user: `Kaynak: ${h.source}\nKünye: ${h.kunye || ''}\nÖzet: ${summaryFor(h)}\n\nTek cümle.`,
     });
-    const raw = msg.content?.[0]?.text;
-    if (!raw) throw new Error(`Empty headline response for ${h.id || h.source}`);
-    headlines.push(raw.trim());
+    headlines.push(raw.replace(/^["']|["']$/g, '').trim());
   }
   return headlines;
 }
 
-export async function writeCaptions(highlights, client = new Anthropic()) {
+export async function writeCaptions(highlights) {
   const captions = [];
   for (const h of highlights) {
-    const msg = await client.messages.create({
-      model: 'claude-sonnet-4-6',
-      max_tokens: 300,
+    const raw = await completeText({
       system: SYSTEM,
-      messages: [{
-        role: 'user',
-        content: `Mahkeme: ${h.source}\nÖzet: ${summaryFor(h)}\n\nSadece caption metnini yaz.`
-      }]
+      maxTokens: 500,
+      user: `Kaynak: ${h.source}
+Künye: ${h.kunye || h.title || ''}
+Özet: ${summaryFor(h)}
+İlgili sayfa (istersen satır olarak kullan): ${(h.url || 'avfethiguzel.com').replace(/^https?:\/\//, '')}
+
+Caption gövdesi yaz (hashtag yok).`,
     });
-    const raw = msg.content?.[0]?.text;
-    if (!raw) throw new Error(`Empty API response for highlight ${h.id || h.source}`);
     const hashtags = hashtagsFor(h.source, h.category);
-    captions.push(`${raw.trim()}\n\n${hashtags}`);
+    const body = raw.trim();
+    // Ensure soft site line if model omitted it
+    const hasSite = /avfethiguzel\.com/i.test(body);
+    const withSite = hasSite
+      ? body
+      : `${body}\n\n${(h.url || 'https://avfethiguzel.com').replace(/^https?:\/\//, '')}`;
+    captions.push(`${withSite}\n\n${hashtags}`);
   }
   return captions;
 }

@@ -168,16 +168,17 @@ export function buildCardHtml(h) {
 </html>`;
 }
 
-export async function generateCard(highlight) {
+export async function generateCard(highlight, outPath = null) {
   const html = buildCardHtml(highlight);
-  const imgPath = join(tmpdir(), `ig-card-${highlight.id}-${Date.now()}.png`);
+  const safeId = String(highlight.id || 'card').replace(/[^\w.-]+/g, '_');
+  const imgPath = outPath || join(tmpdir(), `ig-card-${safeId}-${Date.now()}.png`);
 
   const browser = await chromium.launch({ headless: true });
   try {
     const page = await browser.newPage();
     await page.setViewportSize({ width: 1080, height: 1080 });
     await page.setContent(html, { waitUntil: 'domcontentloaded' });
-    await page.screenshot({ path: imgPath });
+    await page.screenshot({ path: imgPath, type: 'png' });
   } finally {
     await browser.close();
   }
