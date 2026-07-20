@@ -3,16 +3,42 @@
     "short_name": "Fethi Güzel",
     "description": "7800+ kanun maddesi, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları.",
     "start_url": "/",
+    "scope": "/",
     "display": "standalone",
+    "orientation": "portrait-primary",
     "background_color": "#F2F0E9",
     "theme_color": "#2E4036",
     "lang": "tr-TR",
+    "categories": [
+        "business",
+        "education",
+        "productivity"
+    ],
     "icons": [
         {
-            "src": "/fethi-guzel.jpg",
-            "sizes": "512x512",
-            "type": "image/jpeg",
+            "src": "/icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
             "purpose": "any"
+        },
+        {
+            "src": "/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "related_applications": [
+        {
+            "platform": "play",
+            "id": "com.avfethiguzel.hukuk",
+            "url": "https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk"
         }
     ]
 }

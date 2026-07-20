@@ -1,0 +1,76 @@
+name: Build Android AAB
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'mobile/**'
+      - '.github/workflows/android-aab.yml'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: mobile
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Java 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Install deps
+        run: npm install
+
+      - name: Generate icons
+        run: npm run icons
+
+      - name: Prepare web + Capacitor Android
+        run: |
+          npm run build:web
+          npx cap add android || true
+          npx cap sync android
+
+      - name: Decode keystore (optional secret)
+        env:
+          KEYSTORE_B64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+        run: |
+          if [ -n "$KEYSTORE_B64" ]; then
+            echo "$KEYSTORE_B64" | base64 -d > upload.jks
+            cat > android/keystore.properties <<EOF
+          storeFile=../upload.jks
+          storePassword=${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+          keyAlias=${{ secrets.ANDROID_KEY_ALIAS }}
+          keyPassword=${{ secrets.ANDROID_KEY_PASSWORD }}
+          EOF
+          fi
+
+      - name: Build release bundle
+        working-directory: mobile/android
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleRelease bundleRelease --no-daemon || ./gradlew assembleDebug --no-daemon
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: fethiguzel-android
+          path: |
+            mobile/android/app/build/outputs/**/*.aab
+            mobile/android/app/build/outputs/**/*.apk
+            mobile/assets/play-*.png
+            mobile/assets/icon-*.png
+          if-no-files-found: warn

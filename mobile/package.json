@@ -1,0 +1,24 @@
+{
+  "name": "fethiguzel-app",
+  "version": "1.0.0",
+  "description": "Av. Fethi Güzel Hukuk Portalı — Android (Play Store)",
+  "private": true,
+  "scripts": {
+    "build:web": "node scripts/prepare-www.mjs",
+    "icons": "node scripts/generate-icons.mjs",
+    "cap:sync": "npm run build:web && npx cap sync android",
+    "open:android": "npx cap open android",
+    "build:android": "npm run cap:sync && cd android && ./gradlew bundleRelease"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/app": "^7.0.2",
+    "@capacitor/core": "^7.4.3",
+    "@capacitor/splash-screen": "^7.0.2",
+    "@capacitor/status-bar": "^7.0.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3",
+    "sharp": "^0.34.3"
+  }
+}
