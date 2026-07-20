@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T12:56:58.299Z",
+  "generatedAt": "2026-07-20T12:57:19.823Z",
   "dateLabel": "20 Temmuz 2026",
   "highlights": [
     {
@@ -400,5 +400,6 @@
       "mevzuat": 0
     }
   },
-  "errors": []
+  "errors": [],
+  "_note": "manual AYM highlights after empty scrape"
 }
