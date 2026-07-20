@@ -1,16 +1,15 @@
 import type { NextConfig } from "next";
 
 /**
- * Raw content/mevzuat (~380MB) must not be traced into serverless functions.
- * Runtime reads gzip packs from content-packs/ (~32MB).
- *
- * Route keys use Next.js route globs (not filesystem globs).
+ * Do not force-include content packs in serverless traces.
+ * Packs are served from public/content-packs via CDN and fetched at runtime.
+ * Raw content/ is excluded so deploy stays under Vercel limits.
  */
 const nextConfig: NextConfig = {
-  // Keep server traces lean; do not use a bare "*" key (can mis-match).
   outputFileTracingExcludes: {
     "/**": [
       "./content/**/*",
+      "./content-packs/**/*",
       "./scraper/**/*",
       "./scripts/**/*",
       "./docs/**/*",
@@ -21,14 +20,6 @@ const nextConfig: NextConfig = {
       "./node_modules/pdfjs-dist/**/*",
       "./node_modules/pdf-parse/**/*",
     ],
-  },
-  outputFileTracingIncludes: {
-    "/mevzuat": ["./content-packs/**/*"],
-    "/mevzuat/**/*": ["./content-packs/**/*"],
-    "/kategori/**/*": ["./content-packs/**/*"],
-    "/[category]/[slug]": ["./content-packs/**/*"],
-    "/[category]/[slug]/**/*": ["./content-packs/**/*"],
-    "/sitemap.xml": ["./content-packs/**/*"],
   },
 };
 
