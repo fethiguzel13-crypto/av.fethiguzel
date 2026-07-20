@@ -1,8 +1,6 @@
 import { getLawCategoryBySlug, getLawSubCategoryBySlug } from '@/lib/laws'
-import Link from 'next/link'
-import { notFound } from 'next/navigation'
+import { notFound, redirect } from 'next/navigation'
 import type { Metadata } from 'next'
-import MaddeClient from '@/app/mevzuat/[kanunId]/[id]/MaddeClient'
 
 export function generateStaticParams() {
   return [] as { category: string; slug: string; maddeId: string }[]
@@ -24,11 +22,12 @@ export async function generateMetadata({
     title: `${parent.kanunAdi} ${sub.name} Madde ${maddeNo} | Av. Fethi Güzel`,
     description: `${parent.kanunAdi} Madde ${maddeNo} resmi metni ve akademik yorum.`,
     alternates: {
-      canonical: `https://avfethiguzel.com/${category}/${slug}/${maddeId}`,
+      canonical: `https://avfethiguzel.com/mevzuat/${sub.kanunId}/${maddeId}`,
     },
   }
 }
 
+/** Category pretty URLs → canonical /mevzuat/{kanun}/{madde} static viewer */
 export default async function MaddeDetailPage({
   params,
 }: {
@@ -38,27 +37,5 @@ export default async function MaddeDetailPage({
   const parent = getLawCategoryBySlug(category)
   const sub = getLawSubCategoryBySlug(category, slug)
   if (!parent || !sub) notFound()
-
-  return (
-    <main className="min-h-screen bg-cream pt-32 pb-16 px-6">
-      <div className="max-w-4xl mx-auto">
-        <nav className="flex flex-wrap items-center gap-2 text-sm text-charcoal/50 mb-8">
-          <Link href="/" className="hover:text-accent">
-            Ana Sayfa
-          </Link>
-          <span>/</span>
-          <Link href={`/${category}`} className="hover:text-accent">
-            {parent.name}
-          </Link>
-          <span>/</span>
-          <Link href={`/${category}/${slug}`} className="hover:text-accent">
-            {sub.name}
-          </Link>
-          <span>/</span>
-          <span className="text-accent">{maddeId}</span>
-        </nav>
-        <MaddeClient kanunId={sub.kanunId} id={maddeId} />
-      </div>
-    </main>
-  )
+  redirect(`/mevzuat/${sub.kanunId}/${maddeId}`)
 }
