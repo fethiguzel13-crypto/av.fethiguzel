@@ -34,6 +34,20 @@ export default async function ArticlePage({ params }: Props) {
   const navInfo = getNavigationInfo(resolvedParams.kanunId, articleData.maddeNo)
 
   const breadcrumb = `Ana Sayfa / ${articleData.kanun} / ${articleData.title}`
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'Article',
+    headline: articleData.title,
+    about: articleData.kanun,
+    inLanguage: 'tr-TR',
+    author: { '@type': 'Person', name: 'Av. Fethi Güzel' },
+    publisher: {
+      '@type': 'Organization',
+      name: 'Av. Fethi Güzel Hukuk Portalı',
+      url: 'https://avfethiguzel.com',
+    },
+    mainEntityOfPage: `https://avfethiguzel.com/mevzuat/${resolvedParams.kanunId}/${resolvedParams.id}`,
+  }
 
   const NavContent = ({ isFooter = false }) => (
     <div className={`flex items-center justify-between w-full max-w-7xl mx-auto px-6 py-4 ${isFooter ? 'border-t' : 'border-b'} border-charcoal/5`}>
@@ -101,6 +115,10 @@ export default async function ArticlePage({ params }: Props) {
 
   return (
     <div className="bg-cream min-h-screen selection:bg-accent selection:text-white">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <Navbar />
 
       {/* Article Header Navigation */}

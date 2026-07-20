@@ -1,5 +1,6 @@
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import LibraryStrip from "@/components/LibraryStrip";
 import ToolsPreview from "@/components/ToolsPreview";
 import DailyNews from "@/components/DailyNews";
 import Articles from "@/components/Articles";
@@ -10,6 +11,7 @@ export default function Home() {
     <main className="relative w-full bg-cream overflow-hidden">
       <Navbar />
       <Hero />
+      <LibraryStrip />
       <ToolsPreview />
       <DailyNews />
       <Articles />
