@@ -3,7 +3,6 @@ import Link from 'next/link'
 import { Suspense } from 'react'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
-import MaddeClient from '../[kanunId]/[id]/MaddeClient'
 import GosterParams from './GosterParams'
 
 export const dynamic = 'force-static'
@@ -29,9 +28,7 @@ export default function MaddeGosterPage() {
                     {' / '}
                     <span className="text-charcoal/80">Madde</span>
                 </nav>
-                <Suspense
-                    fallback={<div className="h-64 animate-pulse rounded-2xl bg-charcoal/5" />}
-                >
+                <Suspense fallback={<div className="h-64 animate-pulse rounded-2xl bg-charcoal/5" />}>
                     <GosterParams />
                 </Suspense>
             </main>

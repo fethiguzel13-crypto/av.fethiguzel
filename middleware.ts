@@ -24,5 +24,6 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-    matcher: ['/mevzuat/:kanunId/:id'],
+    // Explicit path pattern (Next matcher)
+    matcher: ['/mevzuat/:kanunId/:id*'],
 }
