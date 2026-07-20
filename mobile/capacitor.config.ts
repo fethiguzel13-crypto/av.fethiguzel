@@ -1,6 +1,9 @@
-import type { CapacitorConfig } from '@capacitor/cli';
-
-const config: CapacitorConfig = {
+/**
+ * Capacitor config for the Android wrapper app.
+ * Kept free of @capacitor/cli imports so the root Next.js tsconfig
+ * never fails typecheck on Vercel (mobile deps are not installed there).
+ */
+const config = {
     appId: 'com.avfethiguzel.hukuk',
     appName: 'Av. Fethi Güzel',
     webDir: 'www',
@@ -32,4 +35,4 @@ const config: CapacitorConfig = {
     },
 };
 
-export default config;
+export default config as const;

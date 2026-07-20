@@ -1,0 +1,10 @@
+# Android/Capacitor app — separate package; not part of Next.js deploy
+mobile
+# Local scrapers, scripts, night-shift logs
+scraper
+logs
+# Source markdown (packs built at prebuild into public/content-packs)
+content
+docs
+*.log
+.env*
