@@ -4,33 +4,38 @@ import Footer from "@/components/Footer";
 import MevzuatSearch from "@/components/MevzuatSearch";
 
 export const metadata: Metadata = {
-    title: "Mevzuat Ara",
+    title: "Mevzuat Ara — 7800+ Madde ve Akademik Şerh",
     description:
-        "7800+ kanun maddesi ve akademik şerh içinde anında arama. TBK, TMK, TTK, TCK, HMK, İİK ve onlarca kanun.",
+        "TBK, TMK, TTK, TCK, HMK, İİK ve 40+ kanunda anında arama. Madde metni ve akademik şerhe tek tıkla ulaşın.",
+    alternates: { canonical: "https://avfethiguzel.com/ara" },
     openGraph: {
         title: "Mevzuat Ara | Av. Fethi Güzel",
-        description: "Türkiye'nin en kapsamlı dijital hukuk arşivinde madde ve şerh arayın.",
+        description: "Türkiye'nin kapsamlı dijital hukuk arşivinde madde ve şerh arayın.",
+        url: "https://avfethiguzel.com/ara",
     },
 };
 
-export default function AraPage() {
+type Props = { searchParams: Promise<{ q?: string }> };
+
+export default async function AraPage({ searchParams }: Props) {
+    const sp = await searchParams;
+    const initialQuery = typeof sp.q === "string" ? sp.q : "";
+
     return (
         <div className="bg-cream min-h-screen font-sans">
             <Navbar />
             <main className="pt-36 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
                 <header className="mb-10 sm:mb-14 text-center">
-                    <p className="text-accent font-heading text-xs sm:text-sm tracking-widest uppercase mb-3">
-                        Anında Arama
-                    </p>
-                    <h1 className="text-3xl sm:text-5xl text-charcoal font-bold mb-4">
+                    <p className="section-label mb-3">Anında Arama</p>
+                    <h1 className="text-3xl sm:text-5xl text-charcoal font-bold mb-4 text-balance">
                         Mevzuat <span className="font-drama italic text-accent">Ara</span>
                     </h1>
-                    <p className="text-charcoal/55 max-w-xl mx-auto text-base sm:text-lg">
+                    <p className="text-charcoal/55 max-w-xl mx-auto text-base sm:text-lg leading-relaxed">
                         Madde numarası, kanun adı veya hukuki kavram yazın; resmî metin ve akademik
                         şerhe tek tıkla ulaşın.
                     </p>
                 </header>
-                <MevzuatSearch autoFocus />
+                <MevzuatSearch autoFocus initialQuery={initialQuery} />
             </main>
             <Footer />
         </div>

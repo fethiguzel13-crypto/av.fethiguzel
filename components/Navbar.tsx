@@ -142,12 +142,12 @@ export default function Navbar() {
         {/* Logo */}
         <Link
           href="/"
-          className="flex items-center gap-2 font-heading font-bold text-lg tracking-tight group shrink-0"
+          className="flex items-center gap-2.5 font-heading font-bold text-lg tracking-tight group shrink-0"
         >
-          <div className="w-8 h-8 bg-accent rounded-full flex items-center justify-center text-cream group-hover:rotate-12 transition-transform">
-            <Scale size={16} />
+          <div className="w-9 h-9 bg-accent rounded-full flex items-center justify-center text-cream shadow-md shadow-accent/25 group-hover:rotate-12 transition-transform">
+            <Scale size={17} />
           </div>
-          <span className={solid ? 'text-charcoal' : 'text-cream'}>AV. FETHİ GÜZEL</span>
+          <span className={`${solid ? 'text-charcoal' : 'text-cream'} tracking-tight`}>AV. FETHİ GÜZEL</span>
         </Link>
 
         {/* Desktop nav */}
@@ -197,16 +197,25 @@ export default function Navbar() {
                     </div>
                   ))}
                 </div>
-                <div className="mt-6 pt-5 border-t border-charcoal/8 flex items-center justify-between">
-                  <Link
-                    href="/mevzuat"
-                    onClick={() => setMegaOpen(false)}
-                    className="text-[11px] font-bold text-accent hover:underline"
-                  >
-                    Tüm Mevzuatı Görüntüle →
-                  </Link>
+                <div className="mt-6 pt-5 border-t border-charcoal/8 flex items-center justify-between gap-4">
+                  <div className="flex flex-wrap gap-4">
+                    <Link
+                      href="/ara"
+                      onClick={() => setMegaOpen(false)}
+                      className="text-[11px] font-bold text-accent hover:underline"
+                    >
+                      Mevzuat Ara →
+                    </Link>
+                    <Link
+                      href="/mevzuat"
+                      onClick={() => setMegaOpen(false)}
+                      className="text-[11px] font-bold text-charcoal/50 hover:text-accent"
+                    >
+                      Tüm Kanunlar
+                    </Link>
+                  </div>
                   <span className="text-[10px] font-mono text-charcoal/30 uppercase tracking-widest">
-                    50+ Kanun · Güncel
+                    45+ Kanun · 7800+ Madde
                   </span>
                 </div>
               </div>

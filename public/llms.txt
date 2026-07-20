@@ -1,0 +1,26 @@
+# Av. Fethi Güzel Hukuk Portalı
+
+> Türkiye merkezli dijital hukuk kütüphanesi: kanun maddeleri, akademik şerhler, günlük içtihat ve hesaplama araçları.
+
+Site: https://avfethiguzel.com
+İletişim: av.fethiguzel@hotmail.com
+Konum: Erciş / Van
+
+## Ana bölümler
+
+- [Mevzuat arama](https://avfethiguzel.com/ara): 7800+ madde indeksi
+- [Mevzuat arşivi](https://avfethiguzel.com/mevzuat): kanun kategorileri
+- [Günlük içtihat](https://avfethiguzel.com/icthat)
+- [Hesaplama araçları](https://avfethiguzel.com/hesaplama)
+- [Makaleler](https://avfethiguzel.com/makaleler)
+
+## Kanun örnekleri
+
+- TBK: https://avfethiguzel.com/mevzuat/tbk/madde-1
+- TMK: https://avfethiguzel.com/mevzuat/tmk/madde-1
+- TTK: https://avfethiguzel.com/mevzuat/ttk/madde-18
+- TCK: https://avfethiguzel.com/mevzuat/tck/madde-1
+
+## Not
+
+İçerik bilgilendirme amaçlıdır; somut uyuşmazlıklarda avukata danışılmalıdır.

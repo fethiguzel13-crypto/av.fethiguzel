@@ -8,7 +8,7 @@ import { ArrowRight, Calculator, BookOpen, Scale } from 'lucide-react';
 const STAT_ITEMS = [
   { num: '45+', label: 'Kanun' },
   { num: '7800+', label: 'Madde + Şerh' },
-  { num: '19', label: 'Hukuki Araç' },
+  { num: '30', label: 'Hukuki Araç' },
 ];
 
 export default function Hero() {
@@ -32,78 +32,81 @@ export default function Hero() {
       ref={containerRef}
       className="relative min-h-[100dvh] w-full flex items-end overflow-hidden bg-charcoal"
     >
-      {/* Arka plan */}
       <div className="absolute inset-0">
         <img
           src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?auto=format&fit=crop&q=80&w=2000"
-          alt="Hukuk kütüphanesi"
-          className="w-full h-full object-cover opacity-40"
+          alt="Hukuk kütüphanesi — Av. Fethi Güzel dijital arşiv"
+          width={2000}
+          height={1333}
+          fetchPriority="high"
+          className="w-full h-full object-cover opacity-[0.38] scale-105"
         />
-        <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/60 to-charcoal/20" />
+        <div className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/70 to-charcoal/30" />
+        <div className="absolute inset-0 bg-gradient-to-r from-charcoal/50 via-transparent to-transparent" />
       </div>
 
-      {/* İçerik */}
       <div className="relative z-10 w-full max-w-7xl mx-auto px-5 sm:px-6 pt-32 pb-14 sm:pb-20 md:pb-28">
         <div className="max-w-4xl">
-
-          {/* Badge */}
-          <div className="hero-fade flex items-center gap-2 mb-5 sm:mb-7">
-            <div className="w-2 h-2 bg-accent rounded-full animate-pulse shrink-0" />
-            <span className="font-mono text-accent text-[10px] sm:text-[11px] tracking-[0.2em] sm:tracking-[0.25em] uppercase">
+          <div className="hero-fade inline-flex items-center gap-2.5 mb-5 sm:mb-7 px-3.5 py-1.5 rounded-full bg-cream/8 border border-cream/12 backdrop-blur-md">
+            <div className="w-1.5 h-1.5 bg-accent rounded-full animate-pulse shrink-0" />
+            <span className="font-mono text-accent text-[10px] sm:text-[11px] tracking-[0.22em] uppercase">
               Türk Hukuku · Akademik Portal
             </span>
           </div>
 
-          {/* Başlık */}
-          <h1 className="hero-fade text-[2.2rem] sm:text-5xl md:text-6xl lg:text-7xl text-cream font-bold leading-[1.08] mb-4 sm:mb-6">
-            <span className="block font-sans">Kanunlar, İçtihatlar</span>
-            <span className="block font-drama italic text-accent mt-1">
+          <h1 className="hero-fade text-[2.35rem] sm:text-5xl md:text-6xl lg:text-[4.25rem] text-cream font-bold leading-[1.05] mb-5 sm:mb-6 tracking-tight text-balance">
+            <span className="block font-heading">Kanunlar, İçtihatlar</span>
+            <span className="block font-drama italic text-accent mt-1 sm:mt-2 font-medium">
               ve Hesaplama Araçları.
             </span>
           </h1>
 
-          {/* Açıklama */}
-          <p className="hero-fade text-cream/65 text-base sm:text-lg max-w-xl mb-7 sm:mb-10 font-sans leading-relaxed">
+          <p className="hero-fade text-cream/70 text-base sm:text-lg max-w-xl mb-8 sm:mb-10 font-sans leading-relaxed">
             45+ kanun, 7800+ madde ve akademik şerh; günlük içtihat ve
             hukuki hesaplama araçları tek platformda.
           </p>
 
-          {/* İstatistikler */}
-          <div className="hero-fade flex items-center gap-6 sm:gap-8 mb-8 sm:mb-12">
-            {STAT_ITEMS.map(s => (
-              <div key={s.label} className="text-center">
-                <span className="block text-xl sm:text-2xl font-bold text-accent font-heading">{s.num}</span>
-                <span className="block text-[9px] sm:text-[10px] font-mono text-cream/40 uppercase tracking-widest">{s.label}</span>
+          <div className="hero-fade flex items-stretch gap-4 sm:gap-8 mb-9 sm:mb-12">
+            {STAT_ITEMS.map((s) => (
+              <div
+                key={s.label}
+                className="px-3 sm:px-5 py-3 rounded-2xl bg-cream/6 border border-cream/10 backdrop-blur-sm text-center min-w-[4.5rem]"
+              >
+                <span className="block text-xl sm:text-2xl font-bold text-accent font-heading tracking-tight">
+                  {s.num}
+                </span>
+                <span className="block text-[9px] sm:text-[10px] font-mono text-cream/45 uppercase tracking-widest mt-0.5">
+                  {s.label}
+                </span>
               </div>
             ))}
           </div>
 
-          {/* CTA butonları — mobilde dikey, geniş ekranda yatay */}
-          <div className="hero-fade flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-4">
-            <Link
-              href="/hesaplama"
-              className="group flex items-center justify-center gap-2 sm:gap-3 bg-accent text-white px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all shadow-lg shadow-accent/20 hover:bg-accent/90"
-            >
-              <Calculator size={16} className="shrink-0" />
-              <span>HESAPLAMA ARAÇLARI</span>
-              <ArrowRight size={16} className="shrink-0 transition-transform group-hover:translate-x-1" />
-            </Link>
+          <div className="hero-fade flex flex-col sm:flex-row flex-wrap gap-3 sm:gap-3.5">
             <Link
               href="/ara"
-              className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/10 backdrop-blur-md text-cream border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/20"
+              className="group flex items-center justify-center gap-2 sm:gap-3 bg-accent text-white px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all shadow-lg shadow-accent/30 hover:bg-accent/90 hover:-translate-y-0.5"
             >
               <BookOpen size={16} className="shrink-0" />
               <span>MEVZUAT ARA</span>
+              <ArrowRight size={16} className="shrink-0 transition-transform group-hover:translate-x-1" />
+            </Link>
+            <Link
+              href="/hesaplama"
+              className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/12 backdrop-blur-md text-cream border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/20 hover:-translate-y-0.5"
+            >
+              <Calculator size={16} className="shrink-0" />
+              <span>HESAPLAMA</span>
             </Link>
             <Link
               href="/mevzuat"
-              className="group flex items-center justify-center gap-2 sm:gap-3 bg-cream/5 backdrop-blur-md text-cream/80 border border-cream/15 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:bg-cream/15"
+              className="group flex items-center justify-center gap-2 sm:gap-3 bg-transparent text-cream/75 border border-cream/15 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:text-cream hover:border-cream/30"
             >
               <span>TÜM KANUNLAR</span>
             </Link>
             <Link
               href="/#iletisim"
-              className="group flex items-center justify-center gap-2 sm:gap-3 bg-transparent text-cream/60 border border-cream/10 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:text-cream hover:border-cream/30"
+              className="group flex items-center justify-center gap-2 sm:gap-3 text-cream/55 border border-cream/10 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:text-cream hover:border-cream/25"
             >
               <Scale size={16} className="shrink-0" />
               <span>DANIŞMANLIK</span>

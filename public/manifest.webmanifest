@@ -1,0 +1,18 @@
+{
+    "name": "Av. Fethi Güzel Hukuk Portalı",
+    "short_name": "Fethi Güzel",
+    "description": "7800+ kanun maddesi, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#F2F0E9",
+    "theme_color": "#2E4036",
+    "lang": "tr-TR",
+    "icons": [
+        {
+            "src": "/fethi-guzel.jpg",
+            "sizes": "512x512",
+            "type": "image/jpeg",
+            "purpose": "any"
+        }
+    ]
+}

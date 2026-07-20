@@ -7,119 +7,232 @@
   --accent: #CC5833;
   --cream: #F2F0E9;
   --charcoal: #1A1A1A;
+  --surface: #FFFEFA;
+  --muted: rgba(26, 26, 26, 0.55);
+  --ring: rgba(204, 88, 51, 0.35);
+  --shadow-soft: 0 4px 24px -4px rgba(26, 26, 26, 0.08), 0 1px 3px rgba(26, 26, 26, 0.04);
+  --shadow-lift: 0 20px 50px -16px rgba(26, 26, 26, 0.14), 0 4px 12px rgba(26, 26, 26, 0.06);
 }
 
-body {
-  @apply bg-cream text-charcoal selection:bg-accent selection:text-white;
-  overflow-x: hidden;
+@layer base {
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  body {
+    @apply bg-cream text-charcoal selection:bg-accent selection:text-white;
+    overflow-x: hidden;
+    background-image:
+      radial-gradient(ellipse 120% 80% at 0% -20%, rgba(204, 88, 51, 0.06), transparent 50%),
+      radial-gradient(ellipse 100% 60% at 100% 0%, rgba(46, 64, 54, 0.07), transparent 45%);
+    background-attachment: fixed;
+  }
+
+  ::selection {
+    background: var(--accent);
+    color: white;
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  /* Daha okunaklı scrollbar */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: rgba(26, 26, 26, 0.15);
+    border-radius: 999px;
+    border: 2px solid transparent;
+    background-clip: padding-box;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgba(204, 88, 51, 0.45);
+    background-clip: padding-box;
+    border: 2px solid transparent;
+  }
 }
 
-/* Global Noise Overlay */
+/* Hafif doku — abartısız */
 body::before {
   content: "";
   position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+  inset: 0;
   pointer-events: none;
-  z-index: 9999;
-  opacity: 0.05;
-  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+  z-index: 9998;
+  opacity: 0.028;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
 }
 
-/* Custom Utilities */
+@layer components {
+  .surface-card {
+    @apply bg-white/90 backdrop-blur-sm border border-charcoal/5 rounded-2xl sm:rounded-3xl;
+    box-shadow: var(--shadow-soft);
+  }
+
+  .surface-card-hover {
+    @apply surface-card transition-all duration-300;
+  }
+  .surface-card-hover:hover {
+    box-shadow: var(--shadow-lift);
+    border-color: rgba(204, 88, 51, 0.18);
+    transform: translateY(-2px);
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 bg-accent text-white font-bold text-sm px-6 py-3.5 rounded-full transition-all;
+    box-shadow: 0 8px 24px -6px rgba(204, 88, 51, 0.45);
+  }
+  .btn-primary:hover {
+    @apply bg-accent/90;
+    transform: translateY(-1px);
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 bg-white/10 text-cream border border-white/20 font-bold text-sm px-6 py-3.5 rounded-full transition-all hover:bg-white/20;
+  }
+
+  .section-label {
+    @apply text-accent font-heading text-xs sm:text-sm tracking-[0.2em] uppercase font-semibold;
+  }
+
+  .prose-legal {
+    @apply prose prose-lg max-w-none;
+  }
+}
+
 @layer utilities {
   .rounded-pill {
     @apply rounded-[3rem];
   }
   .glass {
-    @apply bg-cream/60 backdrop-blur-xl border border-charcoal/10;
+    @apply bg-cream/70 backdrop-blur-xl border border-charcoal/8;
+  }
+  .text-balance {
+    text-wrap: balance;
+  }
+  .shadow-soft {
+    box-shadow: var(--shadow-soft);
+  }
+  .shadow-lift {
+    box-shadow: var(--shadow-lift);
   }
 }
 
 .magnetic-btn {
-  transition: transform 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  transition: transform 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.35s ease;
 }
-
 .magnetic-btn:hover {
-  transform: scale(1.03);
+  transform: scale(1.02);
 }
 
 .btn-hover-layer {
   @apply absolute inset-0 w-0 bg-primary transition-all duration-500 ease-out;
 }
-
 .magnetic-btn:hover .btn-hover-layer {
   @apply w-full;
 }
 
-/* Stacking Archive Interactions */
 .stack-card {
-  transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1), 
-              filter 0.6s cubic-bezier(0.22, 1, 0.36, 1), 
-              opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1);
+  transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1),
+    filter 0.6s cubic-bezier(0.22, 1, 0.36, 1),
+    opacity 0.6s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 /* ============================
    Akademik Yorum Tipografisi
-   Tailwind Typography varsayılanlarını sıkı override
    ============================ */
 .commentary-prose h3 {
-  margin-top: 8rem !important;
-  margin-bottom: 3rem !important;
-  padding-bottom: 1rem !important;
-  border-bottom: 2px solid rgba(204, 88, 51, 0.3) !important;
-  font-size: 1.875rem !important;
-  line-height: 1.3 !important;
+  margin-top: 3.5rem !important;
+  margin-bottom: 1.25rem !important;
+  padding-bottom: 0.75rem !important;
+  border-bottom: 2px solid rgba(204, 88, 51, 0.28) !important;
+  font-size: 1.5rem !important;
+  line-height: 1.35 !important;
+  letter-spacing: -0.02em !important;
+}
+@media (min-width: 768px) {
+  .commentary-prose h3 {
+    margin-top: 5rem !important;
+    margin-bottom: 1.75rem !important;
+    font-size: 1.75rem !important;
+  }
 }
 
 .commentary-prose h4 {
-  margin-top: 6rem !important;
-  margin-bottom: 2.5rem !important;
-  color: #2E4036 !important;
-  font-size: 1.5rem !important;
+  margin-top: 2.75rem !important;
+  margin-bottom: 1rem !important;
+  color: #2e4036 !important;
+  font-size: 1.2rem !important;
   line-height: 1.4 !important;
+}
+@media (min-width: 768px) {
+  .commentary-prose h4 {
+    margin-top: 3.5rem !important;
+    font-size: 1.35rem !important;
+  }
 }
 
 .commentary-prose h5 {
-  margin-top: 4rem !important;
-  margin-bottom: 2rem !important;
-  color: #CC5833 !important;
-  font-size: 1.25rem !important;
-  line-height: 1.4 !important;
+  margin-top: 2rem !important;
+  margin-bottom: 0.85rem !important;
+  color: #cc5833 !important;
+  font-size: 1.05rem !important;
+  line-height: 1.45 !important;
 }
 
 .commentary-prose p {
-  margin-top: 2rem !important;
-  margin-bottom: 2rem !important;
-  line-height: 2.1 !important;
+  margin-top: 1.1rem !important;
+  margin-bottom: 1.1rem !important;
+  line-height: 1.9 !important;
+  color: rgba(26, 26, 26, 0.88) !important;
 }
 
 .commentary-prose hr {
-  margin-top: 6rem !important;
-  margin-bottom: 6rem !important;
+  margin-top: 3rem !important;
+  margin-bottom: 3rem !important;
+  border-color: rgba(26, 26, 26, 0.08) !important;
 }
 
 .commentary-prose ul {
-  margin-top: 2rem !important;
-  margin-bottom: 2rem !important;
+  margin-top: 1.25rem !important;
+  margin-bottom: 1.25rem !important;
 }
 
 .commentary-prose li {
-  margin-top: 0.75rem !important;
-  margin-bottom: 0.75rem !important;
-  line-height: 1.95 !important;
+  margin-top: 0.45rem !important;
+  margin-bottom: 0.45rem !important;
+  line-height: 1.85 !important;
 }
 
 .commentary-prose blockquote {
-  margin-top: 3rem !important;
-  margin-bottom: 3rem !important;
+  margin-top: 1.75rem !important;
+  margin-bottom: 1.75rem !important;
+  border-left-color: var(--accent) !important;
 }
 
-/* Bir h3 veya h4'ten hemen sonra gelen paragraf, başlığa yapışmasın */
 .commentary-prose h3 + p,
 .commentary-prose h4 + p,
 .commentary-prose h5 + p {
-  margin-top: 1rem !important;
+  margin-top: 0.75rem !important;
+}
+
+/* Print */
+@media print {
+  body::before {
+    display: none;
+  }
+  nav,
+  footer,
+  .fixed {
+    display: none !important;
+  }
 }

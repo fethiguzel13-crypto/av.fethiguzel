@@ -50,7 +50,7 @@ export default function LibraryStrip() {
                             <Link
                                 key={item.href}
                                 href={item.href}
-                                className="group p-7 sm:p-8 rounded-[1.75rem] bg-white border border-charcoal/5 hover:border-accent/25 hover:shadow-xl transition-all"
+                                className="group p-7 sm:p-8 surface-card-hover"
                             >
                                 <div className="w-12 h-12 rounded-full bg-accent/10 text-accent flex items-center justify-center mb-5 group-hover:scale-110 transition-transform">
                                     <Icon size={22} />

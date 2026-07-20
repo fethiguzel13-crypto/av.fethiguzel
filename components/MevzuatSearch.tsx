@@ -32,15 +32,21 @@ function normalize(s: string) {
 export default function MevzuatSearch({
     compact = false,
     autoFocus = false,
+    initialQuery = "",
 }: {
     compact?: boolean;
     autoFocus?: boolean;
+    initialQuery?: string;
 }) {
-    const [q, setQ] = useState("");
+    const [q, setQ] = useState(initialQuery);
     const [kanunFilter, setKanunFilter] = useState("all");
     const [index, setIndex] = useState<IndexItem[] | null>(null);
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState<string | null>(null);
+
+    useEffect(() => {
+        if (initialQuery) setQ(initialQuery);
+    }, [initialQuery]);
 
     useEffect(() => {
         let cancelled = false;
