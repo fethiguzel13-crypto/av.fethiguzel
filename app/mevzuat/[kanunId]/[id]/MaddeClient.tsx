@@ -42,9 +42,26 @@ function simpleMarkdown(md: string): string {
     return html
 }
 
+function resolveIds(kanunIdProp: string, idProp: string): { kanunId: string; id: string } {
+    let kanunId = kanunIdProp
+    let id = idProp
+    if ((!kanunId || !id) && typeof window !== 'undefined') {
+        const path = window.location.pathname
+        const m = path.match(/^\/mevzuat\/([^/]+)\/([^/]+)\/?$/)
+        if (m && m[1] !== 'goster') {
+            kanunId = decodeURIComponent(m[1])
+            id = decodeURIComponent(m[2])
+        }
+        const q = new URLSearchParams(window.location.search)
+        if (!kanunId) kanunId = q.get('kanunId') || ''
+        if (!id) id = q.get('id') || ''
+    }
+    return { kanunId, id }
+}
+
 export default function MaddeClient({
-    kanunId,
-    id,
+    kanunId: kanunIdProp,
+    id: idProp,
 }: {
     kanunId: string
     id: string
@@ -59,6 +76,10 @@ export default function MaddeClient({
         let cancelled = false
             ; (async () => {
                 try {
+                    const { kanunId, id } = resolveIds(kanunIdProp, idProp)
+                    if (!kanunId || !id) {
+                        throw new Error('Madde parametreleri eksik (kanunId/id)')
+                    }
                     const res = await fetch(`/content-packs/${encodeURIComponent(kanunId)}.json.gz`, {
                         cache: 'force-cache',
                     })
@@ -69,7 +90,7 @@ export default function MaddeClient({
                     const jsonText = isGzip ? await gunzipToText(buf) : new TextDecoder().decode(buf)
                     const pack = JSON.parse(jsonText) as Record<string, PackArticle>
                     const article = pack[id]
-                    if (!article) throw new Error('Madde pack içinde bulunamadı')
+                    if (!article) throw new Error(`Madde pack içinde bulunamadı: ${kanunId}/${id}`)
                     if (cancelled) return
                     setState({
                         status: 'ok',
@@ -89,7 +110,7 @@ export default function MaddeClient({
         return () => {
             cancelled = true
         }
-    }, [kanunId, id])
+    }, [kanunIdProp, idProp])
 
     if (state.status === 'loading') {
         return (
