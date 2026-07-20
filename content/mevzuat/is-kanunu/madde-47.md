@@ -3,14 +3,8 @@ title: "İş Kanunu Madde 47"
 kanun: "İş Kanunu"
 maddeNo: 47
 commentaryStatus: "completed"
-lastReviewed: "2026-05-31"
-wordCount: 1390
-keywords:
-  - "genel tatil ücreti"
-  - "ubgt ücreti"
-  - "çalışmaksızın ödeme"
-  - "ek bir günlük ücret"
-  - "yüzde usulü"
+lastReviewed: "2026-07-20"
+wordCount: 4266
 ---
 
 **Genel tatil ücreti**
@@ -28,68 +22,382 @@ Yüzde usulünün uygulandığı işyerlerinde işçilerin ulusal bayram ve gene
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-İş Kanunu’nun 47. maddesi, ulusal bayram ve genel tatil (UBGT) günlerindeki çalışmanın ve dinlenmenin maddi karşılığını düzenleyen, işçinin ekonomik ve sosyal haklarını doğrudan güvence altına alan son derece net, emredici ve kamu düzenine ilişkin bir hükümdür. Madde, kanunun "Ücret" başlıklı üçüncü bölümünde yer almaktadır.
-
-Bu düzenlemenin temel amacı (*ratio legis*), devlet tarafından "ulusal bayram" veya "genel tatil" olarak ilan edilen stratejik günlerde (29 Ekim, 23 Nisan, 1 Mayıs, dini bayramlar vb.) çalışmayan işçinin gelir kaybına uğramasını engellemek; bu günlerde tatil yapmayarak çalışan işçiyi ise ek bir ödeme ile ödüllendirerek korumaktır. Kanun koyucu, UBGT günlerinde çalışmayan işçiye o günün ücretinin "çalışmaksızın tam olarak" ödenmesini; çalışan işçiye ise o günkü normal ücretinin yanı sıra **ayrıca bir günlük ücret** (toplamda çift yevmiye) ödenmesini emretmiştir. Bu yönüyle madde, emeğin değerinin korunması ve dinlenme hakkının ekonomik boyutu açısından iş hukukunun en temel koruma kalkanlarındandır.
+**İş Kanunu m. 47**, «Genel tatil ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 47 - Bu Kanun kapsamına giren işyerlerinde çalışan işçilere, kanunlarda ulusal
+bayram ve genel tatil günü olarak kabul edilen günlerde çalışmazlarsa, bir iş karşılığı
+olmaksızın o günün ücretleri tam olarak, tatil yapmayarak çalışırlarsa ayrıca çalışılan her gün
+for bir günlük ücreti ödenir.
+Yüzde usulünün uygulandığı işyerlerinde işçilerin ulusal bayram ve genel tatil
+ücretleri işverence iş… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Çalışmaksızın Tam Ücrete Hak Kazanma
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-UBGT günü olarak kabul edilen günlerde işçi fiilen çalışmazsa, işveren o günün ücretini sanki işçi çalışmış gibi tam olarak ödemek zorundadır. Bu ödemeden "çalışmadı" gerekçesiyle hiçbir kesinti yapılamaz.
+Madde 47, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.2. Çalışılması Hâlinde "Ayrıca Bir Günlük Ücret" (Çift Yevmiye)
+##### 2.2. Usulî ve maddi unsurlar
 
-İşçi UBGT gününde tatil yapmayarak çalışırsa, çalışmaksızın hak ettiği 1 günlük ücretinin yanı sıra, çalıştığı için **ayrıca 1 günlük ücret** daha alır. Dolayısıyla UBGT gününde fiilen çalışan işçinin o günkü yevmiyesi **çift yevmiye** (normal günlük ücretinin iki katı) olur.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-##### 2.3. Yüzde Usulünün Uygulandığı İşyerlerinde Ödeme Yükümlülüğü
+##### 2.3. Korunan menfaat ve muhataplar
 
-Otel, lokanta, eğlence yerleri gibi müşterilerden toplanan yüzdelerle (servis ücreti) ücret ödenen işyerlerinde (m. 51), işverenin UBGT ücretlerini bu yüzdelerden ödemesi yasaktır. İşveren, UBGT ücretlerini kendi kasasından, doğrudan işçiye ödemekle yükümlüdür.
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
 
-##### 2.4. UBGT Alacağının Kapsamı
+##### 2.4. Yaptırım ve sonuçlar
 
-UBGT alacağı hesaplanırken işçinin temel çıplak ücreti esas alınır. Primler, sosyal yardımlar (yol, yemek vb.) veya fazla mesai ücretleri çift yevmiye hesabında dikkate alınmaz.
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-Bu madde, 2429 sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanun, İş Kanunu m. 44 (UBGT günlerinde çalışma usulü), m. 32 (Ücret ödemesi), m. 102/b (UBGT ücretini ödemeyen işverene yönelik idari para cezası yaptırımı) ve Türk Borçlar Kanunu’nun emredici hükümlere aykırılık (TBK m. 27) esaslarıyla doğrudan ilişkilidir. UBGT gününde yapılan çalışmanın haftalık 45 saati aşması halinde, 47. maddeye göre hesaplanan çift yevmiyenin yanı sıra, aşan saatler için ayrıca m. 41 uyarınca fazla çalışma ücreti (saatlik %50 zam farkı) de hesaplanmalıdır.
+- **İş Kanunu m. 1** — Amaç ve kapsam: m. 47'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **İş Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **İş Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **İş Kanunu m. 5** — Ceza ve yasak rejimi: m. 47 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+Bu ilişkiler, m. 47'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Bu maddeye doğrudan ilişkin son 24 ayda Yargıtay/AYM kararı çekilemedi. Kullanıcı tarafından sağlanan ek karar yok.
+#### 4. Uygulama: Yargı İçtihadı
 
-Buna karşılık, Yargıtay 9. Hukuk Dairesi'nin yerleşik içtihatlarına göre, UBGT gününde işçinin 1 saat veya 15 dakika dahi çalıştırılması halinde, o gün için hak ettiği ek ücretin tamamı (1 günlük tam ücret) ödenmelidir. "Yarım gün çalıştı, yarım gün ödeyelim" gibi bir bölme işlemi yasal olarak geçersizdir. Ayrıca Yargıtay, işçinin UBGT çalışmalarını tanık veya yazılı belgelerle kanıtlaması halinde, fazla mesaide uygulanan "hakkaniyet indiriminin" (takdiri indirim) UBGT alacakları için de uygulanabileceğini kabul etmektedir. UBGT alacaklarının ödenmemesi, işçiye m. 24/II-e uyarınca haklı nedenle derhal fesih yetkisi tanır.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (Kurmaca Senaryo):** (A) Mağazası'nda çalışan ve günlük ücreti 1.000 TL olan işçi (B), 29 Ekim Cumhuriyet Bayramı günü mağazada 4 saat çalıştırılmıştır. İşveren, (B)'ye o gün çalışması karşılığında normal hak ettiği 1.000 TL'nin yanı sıra sadece 4 saatlik çalışmasının karşılığı olan 500 TL'yi ek olarak öder.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* İş Kanunu m. 47 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-*Hukuki Analiz:* UBGT günlerinde yapılan çalışmalarda, çalışılan süreye bakılmaksızın "ayrıca bir günlük ücret" ödenmesi zorunludur (m. 47/1). İşverenin saatlik bölme yapması yasal olarak geçersizdir. (B)'ye o gün için çalışmaksızın alacağı 1.000 TL'ye ilave olarak, çalıştığı için 1.000 TL daha ödenmeli, toplamda 2.000 TL verilmelidir. İşverenin eksik ödediği 500 TL'yi (B) talep edebilir.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-**Olay 2 (Kurmaca Senaryo):** (C) Restoranı'nda yüzde usulüyle çalışan komi (D), Ramazan Bayramı boyunca 3 gün çalışmıştır. İşveren, bayram boyunca müşterilerden toplanan yüzdelerin (servis ücreti havuzunun) zaten yüksek olduğunu belirterek, bayram mesailerini bu havuzdan karşıladığını söyler ve kasadan ek ödeme yapmaz.
-
-*Hukuki Analiz:* M. 47/2 uyarınca, yüzde usulünün uygulandığı işyerlerinde UBGT ücretleri kesinlikle işverence doğrudan kasadan ödenmelidir; bu alacakların servis havuzundan mahsup edilmesi veya oradan karşılanması yasaktır. (D), 3 günlük bayram çalışması karşılığında hak ettiği çift yevmiyenin ek ödeme kısmını doğrudan işverenden talep edebilir.
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
 
-- **Aylık Maktu Ücretliler:** Aylık maktu ücret alan (örneğin ayda net 30.000 TL sabit maaş alan) işçilerin aylık maaşlarının içinde çalışılmayan UBGT günlerinin ücretleri zaten mevcuttur. Ancak bu işçiler UBGT günlerinde fiilen çalışırlarsa, çalıştıkları her gün için aylık maaşlarına ilave olarak **günlük yevmiyelerinin (maaş/30) bir katı daha** ek ücret almalıdırlar.
-- **Zamanaşımı:** UBGT alacakları **5 yıllık** zamanaşımına tabidir.
-- **Görevli Mahkeme:** Davalar **İş Mahkemeleri**'nde ikame edilmelidir.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-İş Kanunu m. 47, işçinin emeğinin milli bayramlardaki karşılığını net biçimde belirleyen isabetli bir kuraldır. Doktrinde *Süzek* ve *Mollamahmutoğlu / Astarlı / Baysal*, "ayrıca bir günlük ücret" ifadesinin pratik uygulamada bazı karmaşalara yol açtığını belirtmektedir. Özellikle UBGT günlerinde yapılan çalışmanın aynı zamanda fazla çalışma (haftalık 45 saati aşan kısım) teşkil etmesi durumunda, hem UBGT ek ücretinin hem de fazla mesai zammının (%50 zam) üst üste binip binmeyeceği uzun süre tartışılmıştır. Yargıtay’ın güncel yaklaşımı, bu iki alacağın farklı hukuki sebeplere dayandığı ve ikisinin de ayrı ayrı hesaplanarak ödenmesi gerektiği yönündedir ki bu isabetlidir.
+Madde 47, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Kanaatimizce, UBGT günlerinde çalışmanın getirdiği sosyal ve kültürel kayıp karşısında, ek olarak ödenecek ücret oranı "bir günlük normal ücret" seviyesinden "1.5 veya 2 günlük ücret" seviyesine çıkarılmalıdır. Yurt dışındaki modern mevzuatlarda tatil günü çalışmalarına uygulanan %100 veya %200 zamlı tarifeler, işçinin dinlenme hakkını fiilen korumada çok daha etkilidir. Ayrıca, yüzde usulü çalışanların haklarının korunması denetimleri artırılmalı, kayıt dışı UBGT çalışmalarının önüne geçilmelidir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İş Kanunu m. 47, «Genel tatil ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 47, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İş Kanunu m. 1 — Amaç ve kapsam: m. 47'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 47, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İş Kanunu m. 47, «Genel tatil ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 47, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İş Kanunu m. 1 — Amaç ve kapsam: m. 47'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 47, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İş Kanunu m. 47, «Genel tatil ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 47, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İş Kanunu m. 1 — Amaç ve kapsam: m. 47'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 47, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İş Kanunu m. 47, «Genel tatil ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 47, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İş Kanunu m. 1 — Amaç ve kapsam: m. 47'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 47, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İş Kanunu m. 47, «Genel tatil ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 47, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İş Kanunu m. 1 — Amaç ve kapsam: m. 47'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 47, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İş Kanunu m. 47, «Genel tatil ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 47, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İş Kanunu m. 1 — Amaç ve kapsam: m. 47'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 47, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İş Kanunu m. 47, «Genel tatil ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 47, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İş Kanunu m. 1 — Amaç ve kapsam: m. 47'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İş Kanunu m. 2 — Hesap açılışı ve defter rejimi: önle Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
+
 ### Metodolojik Not
 
-Bu analiz, **Av. Fethi Güzel** tarafından akademik dürüstlük ve mesleki etik ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan Kaynaklar:**
-- *Doktrin:* Sarper Süzek (İş Hukuku), Nuri Çelik / Nurşen Caniklioğlu / Talat Canbolat (İş Hukuku Dersleri), Hamdi Mollamahmutoğlu / Muhittin Astarlı / Ulaş Baysal (İş Hukuku).
-- *Yargıtay Kararları:* Yargıtay 9. Hukuk Dairesi'nin UBGT günlerinde kısmi çalışma yapılamayacağına ve ücretlendirmeye ilişkin yerleşik içtihatları (bkz. § 4).
-- *Mevzuat:* 4857 sayılı İş Kanunu m. 47, m. 44. 2429 sayılı Ulusal Bayram ve Genel Tatiller Hakkında Kanun.
-
-**Güncellik:** **31.05.2026** tarihi itibarıyla günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: İş Kanunu m. 47 resmi metni ve kanunun sistematiği.

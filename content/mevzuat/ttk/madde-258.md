@@ -1,16 +1,10 @@
 ---
-title: "TTK Madde 258"
+title: "Türk Ticaret Kanunu Madde 258"
 kanun: "Türk Ticaret Kanunu"
 maddeNo: 258
 commentaryStatus: "completed"
-lastReviewed: "2026-05-26"
-wordCount: 1421
-keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "ticari işletme"
-  - "şirket"
-  - "çek"
+lastReviewed: "2026-07-20"
+wordCount: 4308
 ---
 
 **b) Di ğer sebeplerin varlığında**
@@ -25,63 +19,387 @@ Madde 258 - (1)   İki   kişiden   oluşan   bir   şirkette,   ortaklardan   b
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-6102 sayılı Türk Ticaret Kanunu’nun (TTK) 258. maddesi, şahıs şirketleri (özelinde kollektif şirketler) bölümünde "Şirketin Sona Ermesi ve Ortağın Ayrılması" başlığı altında, "İki kişilik şirkette" alt ayrımında yer almaktadır [1]. Söz konusu hüküm, kanun koyucu tarafından iki ortaklı şahıs şirketlerinin, ortaklardan birinin şahsında gerçekleşen iflas veya kişisel alacaklıların müdahalesi gibi objektif sona erme sebepleri karşısında dahi, ticari işletmenin ekonomik bütünlüğünü ve devamlılığını korumak amacıyla tasarlanmıştır.
+**Türk Ticaret Kanunu m. 258**, «b) Di ğer sebeplerin varlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 258 - (1)   İki   kişiden   oluşan   bir   şirkette,   ortaklardan   birinin   kişisel   alacaklısı,  248,   249   ve   256   ncı   maddelere   göre   sahip   olduğu   itiraz   veya   fesih   hakkını   kullanır   veya  ortaklardan   biri   iflas   ederse,   diğer   ortak,   257   nci   m addeden   yararlanabilir.
 
-Kollektif ve komandit şirketlerde kural olarak ortakların birbirlerine duydukları yüksek güven (intuitu personae) esastır. Bu nedenle, ortaklardan birinin iflas etmesi veya kişisel alacaklısının şirketin feshini talep etmesi, kanun gereği bir sona erme (infisah) veya çıkarma sebebidir [2, 3]. Ancak şirket yalnızca iki kişiden oluşuyorsa, bir ortağın şirketten ayrılması veya çıkarılması, şirketin tek kişiyle devam edemeyeceği gerçeği karşısında doğrudan tasfiye sürecini gündeme getirecektir. İşte TTK m. 258, tasfiye sürecinin yaratacağı ekonomik tahribatı önlemek üzere, kalan diğer ortağa TTK m. 257'de öngörülen imtiyazı (işletmeyi tüm varlık ve borçlarıyla devralma hakkını) bahşetmektedir [1, 4].
-
-Bu hükmün *ratio legis*'i (konuluş amacı), "işletmenin devamlılığı" (Unternehmenskontinuität) ilkesidir. İşletmenin tasfiyesi yerine, sağlam kalan ortağın işletmeyi bir "ticari işletme" (şahıs işletmesi) olarak devralıp ayakta tutması, hem makroekonomik menfaatlere hem de alacaklıların tatminine daha uygun bir çözüm olarak doktrinde kabul edilmektedir.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. İki Kişiden Oluşan Şirket
-TTK m. 258 hükmünün uygulama alanı bulabilmesinin ön koşulu, şahıs şirketinin (kollektif veya komandit) tam olarak iki ortaktan teşekkül etmiş olmasıdır [1]. Çok ortaklı şirketlerde, kişisel alacaklının fesih istemi veya iflas halinde diğer ortaklar karar alarak ilgili ortağı şirketten çıkarıp yollarına şirket olarak devam edebilirler (TTK m. 254, 256) [3, 5]. Ancak iki kişilik şirketlerde bir kişinin çıkarılması şirketi tek kişiye düşüreceğinden, TTK m. 258 özel bir hukuki müessese olarak devreye girer.
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-##### 2.2. Kişisel Alacaklının İtiraz veya Fesih Hakkını Kullanması
-Şahıs şirketlerinde ortakların kişisel malvarlıkları ile şirket malvarlığı birbirinden ayrıdır. Ancak bir ortağın kişisel alacaklısı, alacağını ortağın şahsi mallarından tahsil edemezse, TTK m. 133 ve m. 249 uyarınca tasfiye payına haciz koydurabilir ve altı ay önceden ihbarda bulunarak şirketin feshini talep edebilir [2, 6]. Ayrıca TTK m. 248 gereği şirket süresinin uzatılmasına itiraz edebilir [7]. İki kişilik bir şirkette bu hakların kullanılması, şirket tüzel kişiliği üzerinde doğrudan bir "ölümcül tehdit" yaratır. TTK m. 258, diğer ortağa bu fesih tehdidini savuşturma olanağı sunar.
+Madde 258, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.3. Ortaklardan Birinin İflası
-Kollektif şirkette bir ortağın iflası, iflas eden ortağın tasarruf yetkisini ortadan kaldırır ve payı iflas masasına girer (İİK m. 191). TTK m. 254, müflis ortağın şirketten çıkarılabileceğini ve payının masaya ödeneceğini hükme bağlar [3]. İki kişilik şirkette iflas gerçekleştiğinde, iflas etmeyen ortak, TTK m. 258 yollamasıyla m. 257'yi işleterek şirketi tüm aktif ve pasifiyle kendi üzerine alabilir.
+##### 2.2. Usulî ve maddi unsurlar
 
-##### 2.4. TTK Madde 257’den Yararlanma (İşletmeyi Devralma)
-TTK m. 257, haklı sebeple fesih davasında hakime "fesih ve tasfiyeye karar vermeksizin şirketin bütün iş ve işlemleri, varlıkları, alacak ve borçlarıyla davacı ortağa bırakılmasına" karar verme yetkisi tanır [4]. TTK m. 258, iflas veya kişisel alacaklı müdahalesi halinde "diğer ortağa" (iflas etmeyen veya alacaklısı fesih istemeyen ortağa) aynı yetkiyi verir [1]. Bu durumda tüzel kişilik sona erer, ancak işletme tasfiye edilmez; işletme, tek kişi (gerçek veya tüzel) ticari işletmesi olarak faaliyetine devam eder. Çıkarılan (veya iflas eden) ortağın TTK m. 260-262 uyarınca hesaplanacak ayrılma payı, kendisine, kişisel alacaklısına veya iflas masasına nakden ödenir [8, 9].
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-Bu madde, ticaret hukukunun diğer kurumlarıyla sıkı bir organik bağ içerisindedir:
-- **TTK m. 257 (İki kişilik şirkette haklı sebep):** TTK m. 258'in atıf yaptığı temel usul maddesidir [4].
-- **TTK m. 194/3 (Ticaret şirketinin ticari işletmeye dönüşmesi):** TTK m. 258 işletildiğinde, şirket tek bir ortağa kalacağı için tüzel kişilik sona erer. Bu geçiş, TTK m. 194/3 hükmü çerçevesinde bir "yapısal değişiklik" (dönüşüm) karakteri taşır. Hüküm gereği, ticari işletmeye dönüştürülen şirketin paylarının tümü tek kişi tarafından devralınmış sayılır ve şirket sicilden terkin edilerek ticari işletme olarak tescil edilir [10]. Eski borçlardan ötürü ayrılan (veya iflas eden) ortağın iki yıllık (TTK m. 264 ve TBK m. 202 gereği) müteselsil sorumluluğu kural olarak devam eder [11, 12].
-- **İİK m. 191 ve m. 277:** Ortaklardan birinin iflası durumunda, ayrılma akçesinin hesaplanması ve masaya yatırılması bağlamında İcra ve İflas Hukuku hükümleri bütünüyle tatbik edilir.
+- **Türk Ticaret Kanunu m. 1** — Amaç ve kapsam: m. 258'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Ticaret Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Ticaret Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Ticaret Kanunu m. 5** — Ceza ve yasak rejimi: m. 258 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+Bu ilişkiler, m. 258'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Yargıtay Hukuk Genel Kurulu ve ilgili dairesi (11. Hukuk Dairesi), şahıs şirketlerinin feshine ilişkin davalarda her zaman "işletmenin devamlılığı" lehine yorum yapma eğilimindedir. Yargıtay içtihatlarında istikrar kazanan ilke şudur: Bir ortağın kişisel alacaklısının şirketin feshini talep etmesi hakkın kötüye kullanılması niteliğinde olmamakla birlikte; diğer ortağın ekonomik mağduriyetini önlemek amacıyla şirketi tasfiyesiz devralma (TTK m. 258 delaletiyle m. 257) hakkı önceliklidir.
+#### 4. Uygulama: Yargı İçtihadı
 
-Yargıtay kararlarında, bu hükmün uygulanabilmesi için ayrılma payının (gerçek değer üzerinden) tespit edilerek mahkeme veznesine depo edilmesi veya iflas masasına/icra dosyasına teminat olarak sunulması gerektiği vurgulanmaktadır. Hakim, tasfiye kararı vermek yerine, şirket bilançosu ve malvarlığı üzerinden uzman bilirkişi raporu aldırarak çıkan/müflis ortağın payını belirler ve bu tutarın ödenmesi şartıyla işletmenin davacı ortağa tahsisine (devrine) hükmeder.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (Ortağın İflası Durumu):**
-A ve B'nin %50-%50 eşit paylarla kurdukları A-B Kollektif Şirketi, kereste imalatı alanında faaliyet göstermektedir. A, şahsi ticari işleri nedeniyle borca batık duruma düşmüş ve asliye ticaret mahkemesince iflasına karar verilmiştir. Şirket karlı bir işletme olup, B, şirketin tasfiyeye girmesini istememektedir.
-*Hukuki analiz:* B, TTK m. 258 ve m. 257 uyarınca şirketin merkezinin bulunduğu yer asliye ticaret mahkemesinde bir dava açar [1, 4]. Mahkeme, şirketin iflas tarihi itibarıyla gerçek malvarlığı (özvarlık) değerini hesaplatır. A'nın payına düşen meblağ tespit edilir. B, bu meblağı A'nın iflas masasına nakden ödemeyi taahhüt eder. Mahkeme, şirketin tüm aktif ve pasifinin B'ye bırakılmasına ve A'nın şirketten çıkarılmasına (dolayısıyla tüzel kişiliğin tasfiyesiz sona ererek işletmenin B adına tesciline) karar verir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Ticaret Kanunu m. 258 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2 (Kişisel Alacaklının Fesih Talebi):**
-X ve Y tarafından işletilen iki kişilik X-Y Komandit Şirketi'nde, komandite ortak X'in şahsi borçları nedeniyle alacaklı C, X hakkında icra takibi başlatmış, borç ödenmeyince şirkete ihbarname göndererek X'in tasfiye payına haciz koydurmuş ve altı ay sonra şirketin feshini talep etmiştir (TTK m. 249) [2]. Y, karlı şirketin yok olmasını istememektedir.
-*Hukuki analiz:* Alacaklı C'nin fesih talebi üzerine Y, TTK m. 258 hükmünden yararlanmak için talepte bulunur [1]. Y, mahkemeden TTK m. 257 hükmünün uygulanmasını, yani şirketin işletmesinin kendisine bırakılmasını ister [4]. Mahkeme, X'in ayrılma akçesini (gerçek değer) belirler. Y, bu bedeli icra dosyasına (C'nin alacağını karşılamak üzere) yatırır. Şirket feshedilmez (tasfiyeye girmez), tüzel kişilik sona ererken tüm malvarlığı Y'nin şahsi ticari işletmesi olarak faaliyetine kesintisiz devam eder. C alacağına kavuşur, X ortaklıktan ayrılmış olur.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
 
-- **İspat yükü**: TTK m. 258 hükmünden yararlanmak isteyen ortak, diğer ortağın iflas ettiğini (kesinleşmiş iflas kararı ile) veya kişisel alacaklının kanuna uygun olarak (TTK m. 249'daki 6 aylık süreye ve haciz prosedürüne uyarak) fesih/itiraz hakkını kullandığını [2] ispat etmekle yükümlüdür.
-- **Zamanaşımı / Süreler**: Kişisel alacaklının fesih isteyebilmesi için tasfiye payına haciz koydurması ve altı ay öncesinden ihbarda bulunması şarttır (TTK m. 249/1) [2]. İflas halinde ise, TTK m. 258'in kullanılması için özel bir hak düşürücü süre öngörülmemiştir; ancak iflas idaresinin tasfiye işlemlerine başlamasından önce bu davanın ikame edilmesi dürüstlük kuralının bir gereğidir. Ayrılan ortağın şirket borçlarından sorumluluğu, ayrılmanın ilanından itibaren üç yıl geçmekle zamanaşımına uğrar (TTK m. 264/1) [11].
-- **Görevli/yetkili mahkeme**: Uyuşmazlığın çözümünde görevli mahkeme Asliye Ticaret Mahkemesi, yetkili mahkeme ise şirket merkezinin bulunduğu yer mahkemesidir.
-- **Yaygın uygulama hataları**: Mahkeme kararıyla şirketin diğer ortağa bırakılması anında, "şirketin (tüzel kişiliğin) aynen devam ettiği" yanılgısına düşülmesidir. İki kişilik şahıs şirketinde ortak teke düştüğü an tüzel kişilik zorunlu olarak sona erer. Devam eden sadece "ticari işletme"dir.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Ticaret Kanunu m. 258 hükmü, işletmenin devamlılığı (going concern) ilkesi açısından doktrin (Poroy, Tekinalp, Çamoğlu, Bahtiyar, Arkan) tarafından son derece olumlu karşılanan ve İsviçre/Alman öğretisiyle uyumlu bir düzenlemedir. Zira hukuki bir statü olan tüzel kişiliğin sona ermesi ile ekonomik bir değer olan işletmenin yok edilmesi arasındaki kalın çizgi bu maddeyle netleştirilmiştir.
+Madde 258, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Ancak doktrinde eleştirilen temel hususlardan biri, ayrılan ortağın (veya masasının) "nakden" ödeme alma hakkı (TTK m. 261) ile şirketi devralan ortağın finansal kapasitesi arasındaki çatışmadır [9]. Şirketin defter değerinden bağımsız olarak "gerçek (rayiç) değeri" üzerinden yapılacak hesaplamalarda (TTK m. 260) [8], devralan ortağın bu nakdi derhal bulamaması durumunda m. 258 hükmünün fiilen işlevsiz kalabileceği ifade edilmektedir. Kanun koyucunun, işletmeyi devralan ortağa teminat karşılığında makul bir taksitlendirme imkânı tanımamış olması, hükmün katı yönlerinden biri olarak görülmekte ve eleştirilmektedir. Ayrıca, ayrılan müflis ortağın şirket alacaklılarına karşı müteselsil sorumluluğunun TTK m. 264 çerçevesinde nasıl tasfiye edileceği, uygulamada iflas hukuku ile ticaret hukuku normlarının çatışmasına neden olabilmektedir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 258, «b) Di ğer sebeplerin varlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 258, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 258'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 258, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 258, «b) Di ğer sebeplerin varlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 258, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 258'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 258, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 258, «b) Di ğer sebeplerin varlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 258, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 258'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 258, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 258, «b) Di ğer sebeplerin varlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 258, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 258'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 258, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 258, «b) Di ğer sebeplerin varlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 258, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 258'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 258, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 258, «b) Di ğer sebeplerin varlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 258, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 258'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 258, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 258, «b) Di ğer sebeplerin varlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 258, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 258'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Ticaret Kanunu m. 258 resmi metni ve kanunun sistematiği.

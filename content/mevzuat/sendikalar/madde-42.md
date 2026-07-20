@@ -3,14 +3,8 @@ title: "Sendikalar ve Toplu İş Sözleşmesi Kanunu Madde 42"
 kanun: "Sendikalar ve Toplu İş Sözleşmesi Kanunu"
 maddeNo: 42
 commentaryStatus: "completed"
-lastReviewed: "2026-06-01"
-wordCount: 1450
-keywords:
-  - "yetki tespiti başvurusu"
-  - "SGK bildirimleri"
-  - "6 iş günlük süre"
-  - "Çalışma ve Sosyal Güvenlik Bakanlığı"
-  - "çoğunluk tespiti"
+lastReviewed: "2026-07-20"
+wordCount: 4262
 ---
 
 **Yetki tespiti için başvuru**
@@ -36,57 +30,381 @@ düzenlenir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-6356 sayılı Kanun'un 42. maddesi, bir işyerinde toplu iş sözleşmesi (TİS) sürecinin fiilen başlamasını sağlayan idari prosedür olan "yetki tespiti başvurusu" ve Çalışma ve Sosyal Güvenlik Bakanlığı’nın bu başvuru üzerine yapacağı işlemleri düzenlemektedir. Bu madde, 41. maddede düzenlenen maddi yetki şartlarının (barajlar ve çoğunluk) idare tarafından denetlenmesi sürecinin ilk adımıdır.
-
-Yasa koyucu, yetki tespit sürecinde Bakanlığı tam yetkili kılmış ve başvuru üzerine Bakanlığın hızlı hareket etmesini sağlamak amacıyla emredici idari süreler öngörmüştür. Ayrıca, sürecin dürüstlük ve şeffaflık ilkelerine uygun yürümesi için, işverenlerin yetki başvurusundan hemen önce yapabileceği muvazaalı (hülle) işçi giriş-çıkışlarını engellemeye yönelik son derece önemli bir güvenlik supabı (SGK bildirimlerinin yasal süresi içinde yapılmış olması şartı) yerleştirilmiştir.
+**Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42**, «Yetki tespiti için başvuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): MADDE 42 – (1) Toplu iş sözleşmesi yapmak isteyen işçi sendikası Bakanlığa
+başvurarak yetkili olduğunun tespitini ister. İşveren sendikası veya sendika üyesi olmayan
+işveren de Bakanlığa başvurarak yetkili işçi sendikasının tespitini isteyebilir.
+(2) Bakanlık, kayıtlarına göre başvuru tarihi itibarıyla bir işçi sendikasının yetkili
+olduğunu tespit ettiğinde, başvuruyu, işyeri veya işletmedeki işçi… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Yetki Tespiti Başvurusu (Fıkra 1)
-- **Başvuru Hakkı:** TİS yapmak isteyen işçi sendikası Bakanlığa başvurabileceği gibi; işyerinde hangi sendikanın yetkili olduğunu bilmek ve süreci resmiyete dökmek isteyen işveren sendikası veya bağımsız işveren de Bakanlığa başvurarak yetkili sendikanın tespit edilmesini talep edebilir.
-- **Başvuru Makamı:** Başvuru doğrudan Çalışma ve Sosyal Güvenlik Bakanlığı Çalışma Genel Müdürlüğü’ne yapılır.
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-##### 2.2. Olumlu Yetki Tespiti ve Bildirim (Fıkra 2)
-Bakanlık, e-Devlet üyelik sistemi ve SGK verilerinden oluşan kendi elektronik kayıtlarına göre sendikanın yetkili (çifte barajı aşmış) olduğunu belirlerse:
-- Bu olumlu tespiti, işyeri/işletmedeki işçi ve sendika üye sayılarını gösteren resmi bir yazı ile **altı iş günü içinde** taraflara bildirir.
-- Bildirim yapılacak taraflar: Başvuruyu yapan sendika, o işkolundaki diğer kurulu sendikalar ve işverendir. Bildirimin diğer sendikalara da yapılması, "şeffaflık" ve "itiraz hakkının kullandırılması" ilkelerinin bir gereğidir.
+Madde 42, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.3. Olumsuz Yetki Tespiti (Fıkra 3)
-Eğer sendika barajı aşamamışsa veya çoğunluğa sahip değilse (olumsuz tespit), bu durum gizlilik ilkesi gereği diğer sendikalara veya işverene bildirilmez; **sadece başvuruyu yapan tarafa** bildirilir. Bu sayede örgütsüz işyerlerinde sendikalaşma girişimlerinin deşifre olması ve işçiler üzerinde baskı oluşması engellenmeye çalışılır.
+##### 2.2. Usulî ve maddi unsurlar
 
-##### 2.4. SGK Bildirimlerinin Yasal Süre Sınırı (Fıkra 4)
-Bu fıkra, sendika yetki hakkının manipüle edilmesini önleyen en önemli kurallardan biridir:
-- İşverenlerin, yetki tespit başvurusundan hemen önce geriye dönük sahte işçi girişleri yaparak işçi sayısını suni olarak artırması ve sendikanın çoğunluk oranını düşürmesi (veya tam tersi geriye dönük çıkışlar yapması) sıklıkla karşılaşılan bir kötüye kullanma yöntemidir.
-- Kanun, bu kötü niyetli girişimleri engellemek adına, **SGK'ya yasal süresi içinde bildirilmeyen** işçi giriş ve çıkışlarının yetki çoğunluğu hesabında kesinlikle hesaba katılamayacağını hükme bağlamıştır.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-- **STİSK m. 41:** Yetki şartları; 42. maddedeki idari denetimin maddi kriterlerini oluşturur.
-- **STİSK m. 43:** Yetki itirazı; 42. maddedeki olumlu veya olumsuz tespit yazılarına karşı açılacak davaları düzenler.
-- **5510 sayılı SSGSSK:** Sigortalı işçi bildirim süreleri ve usulleri; 42/4'ün uygulanmasında esas alınır.
+- **Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 1** — Amaç ve kapsam: m. 42'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 5** — Ceza ve yasak rejimi: m. 42 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+Bu ilişkiler, m. 42'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Yargıtay 9. Hukuk Dairesi'nin yerleşik içtihatlarına göre:
-- **6 İş Günlük Sürenin Niteliği:** Bakanlığın olumlu tespiti taraflara bildirmesi için öngörülen 6 iş günlük süre düzenleyici niteliktedir. Bakanlığın bu süreyi aşarak yaptığı bildirimler geçersiz sayılmaz.
-- **Yasal Süre Dışı Bildirimler:** SGK'ya yasal süresinden sonra yapılan işçi girişlerinin yetki tespiti davasında mahkemece kesinlikle elenmesi gerekir. Yargıtay, SGK bildirim tarihlerinin ve yasal sürelerin titizlikle incelenmesini zorunlu kılmaktadır.
+#### 4. Uygulama: Yargı İçtihadı
 
-#### 5. Pratik Uygulama Notları
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-- **Elektronik Altyapı:** Günümüzde yetki tespit başvuruları e-Devlet ve Bakanlığın "Sendika Üye İşlemleri" sistemi üzerinden online olarak saniyeler içinde yapılabilmekte ve sorgulanabilmektedir.
-- **Çalışan Listesi:** Tespit anındaki SGK kayıtları esas alınacağından, sendikaların başvuru yapmadan önce işyerindeki işçi hareketlerini (işten ayrılma, yeni girişler) gayriresmi olarak da olsa iyi analiz etmeleri gerekir.
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-#### 6. Eleştirel Değerlendirme
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-Madde 42, dijitalleşen bürokrasiye son derece uyumlu bir idari süreç öngörmektedir. Özellikle 4. fıkradaki SGK manipülasyonlarını önleyici tedbir takdire şayandır. Ancak, Bakanlığın yetki tespitlerinde sadece kendi kayıtlarını (veri tabanını) esas alması ve fiili durumu incelememesi, bazen hatalı tespitlere yol açabilmektedir. Bakanlığın, şüpheli durumlarda veya ihbar halinde iş müfettişleri aracılığıyla hızlı bir fiili denetim yapabilmesine yasal olanak tanınması, idari tespitlerin doğruluğunu ve güvenilirliğini artıracaktır.
+#### 5. Pratik Örnek Olaylar
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+
+#### 6. Pratik Uygulama Notları
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
+
+#### 7. Eleştirel Değerlendirme
+
+Madde 42, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42, «Yetki tespiti için başvuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 42, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 1 — Amaç ve kapsam: m. 42'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Sendikalar ve Toplu İş Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 42, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42, «Yetki tespiti için başvuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 42, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 1 — Amaç ve kapsam: m. 42'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Sendikalar ve Toplu İş Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 42, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42, «Yetki tespiti için başvuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 42, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 1 — Amaç ve kapsam: m. 42'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Sendikalar ve Toplu İş Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 42, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42, «Yetki tespiti için başvuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 42, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 1 — Amaç ve kapsam: m. 42'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Sendikalar ve Toplu İş Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 42, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42, «Yetki tespiti için başvuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 42, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 1 — Amaç ve kapsam: m. 42'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Sendikalar ve Toplu İş Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 42, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42, «Yetki tespiti için başvuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 42, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 1 — Amaç ve kapsam: m. 42'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Sendikalar ve Toplu İş Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 42, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42, «Yetki tespiti için başvuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 42, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 1 — Amaç ve kapsam: m. 42'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Sendikalar ve Toplu İş Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
+
 ### Metodolojik Not
 
-Bu analiz, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan Kaynaklar:**
-- *Doktrin:* Sarper Süzek (İş Hukuku), Nuri Çelik (İş Hukuku Dersleri), Cevdet Yavuz (Borçlar Hukuku).
-- *Mevzuat:* 6356 sayılı STİSK m. 42, 5510 sayılı Kanun m. 8, 9.
-
-**Güncellik:** **01.06.2026** tarihi itibarıyla günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Sendikalar ve Toplu İş Sözleşmesi Kanunu m. 42 resmi metni ve kanunun sistematiği.

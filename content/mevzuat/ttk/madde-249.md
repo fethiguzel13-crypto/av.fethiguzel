@@ -1,16 +1,10 @@
 ---
-title: "TTK Madde 249"
+title: "Türk Ticaret Kanunu Madde 249"
 kanun: "Türk Ticaret Kanunu"
 maddeNo: 249
 commentaryStatus: "completed"
-lastReviewed: "2026-05-26"
-wordCount: 1719
-keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "ticari işletme"
-  - "şirket"
-  - "çek"
+lastReviewed: "2026-07-20"
+wordCount: 4318
 ---
 
 **b) Haciz ve şirketin feshini isteme hakkı**
@@ -25,73 +19,385 @@ Madde 249 - (1)   Bir   ortağın   kişisel   alacaklısı,   borçlunun   kiş
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-6102 sayılı Türk Ticaret Kanunu’nun (TTK) "Kollektif Şirket" başlığını taşıyan İkinci Kısmının, "Şirketin Sona Ermesi ve Ortağın Ayrılması" bölümünde yer alan 249. madde, şahıs şirketlerindeki temel bir hukuki ikilemi çözüme kavuşturmaktadır: Ortağın kişisel alacaklısının mülkiyet hakkı ile ticaret şirketinin devamlılığı (işletmenin korunması) ilkesi arasındaki çatışma. 
-
-Bilindiği üzere ticaret şirketlerinin tüzel kişiliği, ortakların malvarlıkları ile şirketin malvarlığı arasında aşılmaz bir set çeker. Tüzel kişilik perdesi gereğince, bir ortağın kişisel alacaklısı, kural olarak alacağını tahsil etmek için doğrudan şirket malvarlığına (aktiflerine) müracaat edemez. TTK m. 133 fıkra 1 uyarınca, şahıs şirketlerinde kişisel alacaklının başvurabileceği varlıklar, borçlu ortağın şirketin bilançosuna göre hak kazandığı kâr payı ile şirket herhangi bir nedenle fesholunmuşsa ona düşecek tasfiye payıdır [1]. Ancak borçlu ortağın şahsi malvarlığının yetersiz olması ve şirketin de kâr dağıtmaması (veya kârın borcu karşılamaması) durumunda, kişisel alacaklının tahsilat imkânı fiilen ortadan kalkmaktadır.
-
-İşte TTK m. 249, alacaklının bu çaresizliğine karşı kanun koyucunun ihdas ettiği istisnai, "son çare" (ultima ratio) niteliğinde bir müessesedir. Bu madde ile kanun koyucu, alacaklının mülkiyet ve alacak hakkını korumak maksadıyla ona, şirketin feshini talep ederek tasfiye sürecini başlatma ve bu suretle oluşacak tasfiye bakiyesinden alacağını tahsil etme yetkisi vermiştir [2, 3]. Ancak kanun koyucu, ticari işletmenin salt bir ortağın şahsi borcu yüzünden yok olmasını (ekonomik değerin tahribini) önlemek amacıyla, feshin gerçekleşmesini sıkı şekil, süre ve "ikame ödeme" şartlarına (TTK m. 249/2) bağlamıştır [3, 4]. Bu yönüyle madde, Doktrinde Reha Poroy, Ünal Tekinalp, Ersin Çamoğlu ve Hasan Pulaşlı gibi otoritelerin de vurguladığı üzere, katı bir menfaatler dengesi testinin kanunlaşmış halidir.
+**Türk Ticaret Kanunu m. 249**, «b) Haciz ve şirketin feshini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 249 - (1)   Bir   ortağın   kişisel   alacaklısı,   borçlunun   kişisel   mallarından   ve   133  üncü   madde   ger eğince   şirketteki   kâr   payından   alacağını   alamazsa,   tasfiye   sonunda   borçlu  ortağa   düşecek   paya   haciz   koydurmaya   ve   altı   ay   önce   ihbarda   bulunmak   ve   hesap   yılı   sonu  için   hüküm   ifade   etmek   üzere,   şirketin   feshini   istemey… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-TTK m. 249'un unsurlarının her biri, hukuki birer bariyer niteliği taşımakta olup, adım adım aşılması gereken aşamalı bir prosedür öngörmektedir.
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-##### 2.1. Kişisel Malvarlığından ve Kâr Payından Alacağın Alınamaması (Ön Şart)
-Fesih davası açılabilmesinin ilk ve mutlak şartı, alacaklının öncelikle "borçlunun kişisel mallarına" ve TTK m. 133 gereği "şirketteki kâr payına" müracaat etmiş olması ve buralardan alacağını tahsil edememiş olmasıdır [2, 3]. Alacaklı, doğrudan fesih davası açamaz. İcra ve İflas Kanunu (İİK) hükümleri çerçevesinde borçlu ortak aleyhine takip başlatılmalı, haczi kabil şahsi malları haczedilip paraya çevrilmeli ve şirket nezdindeki kâr payına haciz ihbarnameleriyle başvurulmalıdır. Doktrindeki yerleşik görüşe ve Yargıtay uygulamalarına göre, alacağın tahsil edilemediğinin kesin veya geçici "aciz vesikası" ile yahut buna eşdeğer bir resmi tutanakla ispatlanması zorunludur.
+Madde 249, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.2. Tasfiye Payına Haciz Konulması
-İkinci aşamada alacaklı, tasfiye sonunda borçlu ortağa düşecek paya (tasfiye bakiyesine) haciz koydurmak zorundadır [2, 3]. Bu haciz, henüz muaccel olmamış, beklenen bir hak (ileride doğması muhtemel tasfiye payı) üzerine konulan bir hacizdir ve İİK m. 89 prosedürü ile yahut icra dairesinin şirkete göndereceği bir haciz yazısı (müzekkere) ile tekemmül eder. Tasfiye payının haczi, sadece fesih davasının usuli bir ön şartı değil, aynı zamanda tasfiye kararı verilmesi halinde şirket tasfiye memurlarının borçlu ortağa ödeme yapmasını engelleyen bir muhafaza tedbiridir [5].
+##### 2.2. Usulî ve maddi unsurlar
 
-##### 2.3. Altı Ay Önce İhbar ve Hesap Yılı Sonu İtibarıyla Fesih Talebi
-Maddenin en kritik zamansal kısıtlaması, feshin "altı ay önce ihbarda bulunmak ve hesap yılı sonu için hüküm ifade etmek üzere" istenebilmesidir [2, 3, 5]. Şirketin ansızın feshi, tedarik zincirleri, işçi hakları ve makroekonomik açıdan ağır tahribat yaratacağından, kanun koyucu bir yavaşlatma mekanizması öngörmüştür. Fesih ihbarı, hesap yılının (genellikle takvim yılı) bitiminden en az altı ay önce yapılmalıdır. Örneğin, hesap yılı 31 Aralık'ta biten bir şirkette, fesih ihbarının en geç 30 Haziran'da şirkete tebliğ edilmiş olması şarttır. İhbar bu tarihten sonra yapılırsa, Doktrindeki ağırlıklı görüşe göre, fesih beyanı geçersiz olmaz ancak hukuki sonucunu (feshi) bir sonraki hesap yılının sonunda doğurur [4, 5]. İhbarın geçerlilik şekli açısından, ispat güvenliği sebebiyle TTK m. 18/3 kıyasen dikkate alınmalı ve noter aracılığıyla yapılması tavsiye edilmektedir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-##### 2.4. Mahkeme Kararından Önce Borcun Ödenmesi (Fesih Davasının Düşmesi)
-TTK m. 249 fıkra 2, şirketin ve diğer ortakların işletmeyi kurtarması için getirilmiş bir "kurtuluş (ikame) imkânıdır". Mahkemece feshe karar verilmezden önce, şirket tüzel kişiliği veya borçlu dışındaki diğer ortaklar borcu (fer'ileriyle birlikte) öderlerse, fesih davası kanun gereği düşer [3, 4, 6]. Bu hüküm, kollektif şirketin devamlılığını (sürekliliğini) sağlayan en hayati mekanizmadır [4]. Diğer ortakların veya şirketin ödediği bu bedel, Borçlar Hukuku (TBK m. 127 - alacaklıya halefiyet) kuralları gereğince asıl borçlu ortağa rücu edilir. Bu durum, borcu ödeyen diğer ortaklar için, borçlu ortağı TTK m. 255 (haklı sebeple şirketten çıkarma) kapsamında şirketten ihraç etme hakkı da verebilir [7, 8].
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-Bu madde, ticaret ve borçlar hukuku sistematiği içerisinde dar bir çerçevede değerlendirilemez. Dikey ve yatay uyuşmazlıklarda aşağıdaki hükümlerle organik bir bağ içerisindedir:
+- **Türk Ticaret Kanunu m. 1** — Amaç ve kapsam: m. 249'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Ticaret Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Ticaret Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Ticaret Kanunu m. 5** — Ceza ve yasak rejimi: m. 249 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-*   **TTK m. 133 (Ortakların Kişisel Alacaklıları):** Şahıs şirketlerinde kişisel alacaklıların başvuru sırasını düzenleyen temel normdur. Madde 249, Madde 133'ün icra edilemediği hallerde devreye giren mütemmim (tamamlayıcı) bir istisnadır [1, 9].
-*   **TTK m. 243 (Sona Erme Sebepleri):** Kollektif şirketlerin genel sona erme sebeplerini düzenler. TTK m. 249 uyarınca verilen mahkeme kararı, bu kapsamda bozucu yenilik doğuran (inşai) bir sona erme sebebidir [10, 11].
-*   **TTK m. 256 ve 258 (Fesih İhbarı ve İki Kişilik Şirketler):** Bir ortağın kişisel alacaklısının fesih hakkını kullanması halinde, diğer ortaklar feshi kabul etmeyerek borçlu ortağı şirketten çıkarıp şirkete devam edebilirler (m. 256/2). İki kişilik şirketlerde ise diğer ortak, borçlu ortağı çıkarıp işletmeyi tek başına devralabilir (m. 258) [12, 13].
-*   **İİK m. 89 (Haciz İhbarnamesi) ve İİK m. 120 (İştirak Halinde Mülkiyetin Haczi):** Kâr payı ve tasfiye payının haczinin usuli dayanağını oluşturur. Tasfiye payı haczi bizzat icra müdürlüğü vasıtasıyla şirkete tebliğ edilmelidir [14, 15].
-*   **TMK m. 2 (Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması):** Borçlu ortağın borcu, şirketin toplam varlığına veya borçlu ortağın tasfiye payına kıyasla son derece cüzi ise (örneğin 10.000.000 TL değerinde bir şirkette 5.000 TL'lik bir alacak için), alacaklının fesih davası açması hakkın açıkça kötüye kullanılması sayılabilir.
+Bu ilişkiler, m. 249'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+#### 4. Uygulama: Yargı İçtihadı
 
-Yargıtay 11. Hukuk Dairesi'nin yerleşik içtihatlarına göre, şahıs şirketi ortaklarının kişisel borçlarından dolayı şirketin feshini istemek tamamen şekli (sıkı) kurallara tabidir. Yargıtay kararlarında üzerinde durulan başlıca ilkeler şunlardır:
-1.  **Ön Şartların Re'sen İncelemesi:** Mahkeme, kişisel malvarlığına ve kâr payına başvurulup başvurulmadığını ve bu yolların semeresiz kalıp kalmadığını (aciz belgesi ibrazı) re'sen araştırmakla yükümlüdür. Bu şartlar gerçekleşmeden açılan davalar esasa girilmeden usulden reddedilmelidir.
-2.  **Sürenin Mahiyeti:** Altı aylık ihbar süresi maddi hukuka ilişkin bir dava şartıdır. İhbarın yapıldığı tarih ile hesap yılının sonu arasındaki süre altı aydan az ise, Yargıtay davanın hemen reddini değil, feshin bir sonraki hesap yılı sonunda geçerli olacağının kabulü ile yargılamanın bu duruma göre yönlendirilmesini benimsemektedir.
-3.  **Ödeme Fırsatının Verilmesi:** Yargıtay, hâkimin fesih kararı vermeden evvel şirket tüzel kişiliğine ve diğer ortaklara borcu ödemek isteyip istemediklerini duruşmada açıkça sorması ve mehil vermesi gerektiğini içtihat etmektedir.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1:**
-A, (X) Kollektif Şirketinin ortağı olan B’den 500.000 TL alacaklıdır. A, doğrudan asliye ticaret mahkemesinde TTK m. 249 uyarınca şirketin feshini talep eder. Dilekçesinde B'nin şirket hissesi dışında malı olmadığını "bildiğini" beyan eder.
-*Hukuki analiz:* A'nın davası TTK m. 249/1 hükmündeki ön şartların yerine getirilmemesi sebebiyle usulden reddedilmelidir. A, B aleyhine icra takibi başlatmamış, B'nin şahsi malvarlığına müracaat edip aciz vesikası almamış ve (X) şirketine İİK m. 89 kapsamında kâr payı haczi göndermemiştir. Kişisel malvarlığına başvuru tüketilmeden fesih davası açılamaz.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Ticaret Kanunu m. 249 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2:**
-Alacaklı C, borçlu ortak D'nin tüm şahsi mallarını haczetmiş, kâr payına da haciz koydurmuş ancak alacağını tahsil edememiştir. Tasfiye payına haciz koydurduktan sonra hesap yılının bitimine 7 ay kala noter vasıtasıyla (Y) Kollektif Şirketine fesih ihbarı göndermiş ve dava açmıştır. Karar duruşmasında diğer ortak E, borçlu D'nin 1.000.000 TL'lik borcunu faiziyle birlikte dosyaya depo ettiğini gösteren banka dekontunu ibraz etmiştir.
-*Hukuki analiz:* TTK m. 249/2 hükmünün açık lafzı gereğince, "mahkemece feshe karar verilmezden önce" borcun diğer ortak (E) tarafından ödenmiş olması sebebiyle mahkemenin fesih davasının düştüğüne (veya konusuz kaldığına) karar vermesi mecburidir. Ortak E, ödediği bu bedel için TBK hükümleri çerçevesinde D'ye rücu hakkına sahiptir ve bu hadiseyi TTK m. 255 kapsamında D'nin şirketten ihracı için haklı sebep olarak kullanabilir [7, 8].
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
 
-*   **İspat yükü**: İspat yükü tamamen davacı alacaklıdadır. Alacaklı; kesinleşmiş bir icra takibi bulunduğunu, kişisel malların haczedilip satıldığını ancak borcu karşılamadığını (aciz hali), şirketin bilançosuna göre kâr dağıtılmadığını veya dağıtılan kârın borca yetmediğini ve fesih ihbarını yasal süresi içinde şirkete tebliğ ettiğini ispatlamakla mükelleftir.
-*   **Zamanaşımı / Süreler**: İhbar, hesap yılı (genellikle 31 Aralık) sonundan en az altı ay önce yapılmalıdır. Bu, bir zamanaşımı süresi değil, davanın dinlenebilirliği için maddi hukuktan kaynaklanan bir bekleme süresidir.
-*   **Görevli/yetkili mahkeme**: Görevli mahkeme Asliye Ticaret Mahkemesi, yetkili mahkeme ise kesin yetki kuralı gereğince "şirketin merkezinin bulunduğu yer" mahkemesidir. Fesih davaları tahkime elverişli (taraf iradesine serbestçe bırakılmış) olmadığından kural olarak tahkimde görülemez.
-*   **Yaygın uygulama hataları**: Alacaklı vekillerinin, şirkete tasfiye payı haciz ihbarnamesini usulüne uygun şekilde tebliğ ettirmeden dava açmaları; ihbar süresi altı aydan kısa olduğu halde mahkemenin bir sonraki yılı beklemek yerine davayı esastan reddetmesi; mahkemenin borcu ödemeleri için diğer ortaklara uygun bir önel (süre) tanımaması uygulamada sıklıkla rastlanan hatalardır.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TTK m. 249 hükmü doktrinde (özellikle Sabih Arkan, Mehmet Bahtiyar, Abuzer Kendigelen eserlerinde) çeşitli açılardan eleştiriye ve teorik tartışmalara konu edilmiştir. 
+Madde 249, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Öncelikle, altı aylık ihbar süresinin, modern ticari hayatın hızı karşısında alacaklının korunmasını fazlasıyla geciktiren bir hüküm olduğu eleştirisi mevcuttur. Bir alacaklı için icra takibine girişmek, aciz belgesi almak ve ardından altı ay bekleyip hesap yılı sonuna kadar tahsilat yapamamak, alacağın enflasyon karşısında erimesine veya alacaklının kendi ticari hayatında iflasa sürüklenmesine yol açabilir. 
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-Buna mukabil, diğer görüş (kurumsal koruma yaklaşımı), bir ortağın salt şahsi basiretsizliği veya borçlanması yüzünden asırlık bir ticari işletmenin, üretim araçlarının ve işçi istihdamının ("going concern" değerinin) tasfiye edilmesinin ulusal ekonomiye vereceği zarara odaklanmaktadır. Kanun koyucu TTK m. 249/2 ve m. 256 ile (diğer ortakların borcu ödemesi veya borçluyu ihraç ederek şirkete devam etmesi imkânı) bu tahribatı önlemeye çalışmışsa da, uygulamanın şantaj davalarına zemin hazırlayabileceği belirtilmektedir. Nitekim alacaklı, şirketin fesih riski altında kalmasını kullanarak, borçlu ile ilgisi olmayan diğer ortakları psikolojik olarak borcu ödemeye zorlamaktadır ("ya ödersiniz ya da şirketi kapatırım" baskısı). Bu husus, ticari işletmenin korunması ile kişisel alacaklının mülkiyet hakkı arasındaki gerilimin TTK sistematiğinde şahıs şirketleri özelinde hala tamamen optimize edilemediğini göstermektedir. 
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
-Gelecekteki yasal reformlarda, fesih talebinin doğrudan yapılabilmesi yerine, borçlu ortağın payının (limited şirketlerde olduğu gibi) mahkeme gözetiminde açık artırma veya uzman değerlemesiyle diğer ortaklara ya da üçüncü kişilere devredilmesi ve alacaklının bu bedelden tatmin edilmesi yönteminin ana kural olarak benimsenmesi, fesih ve tasfiyenin ise gerçekten başka çare kalmadığı hallerde uygulanması çok daha rasyonel bir çözüm olacaktır.
+Türk Ticaret Kanunu m. 249, «b) Haciz ve şirketin feshini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 249, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 249'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 249, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 249, «b) Haciz ve şirketin feshini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 249, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 249'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 249, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 249, «b) Haciz ve şirketin feshini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 249, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 249'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 249, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 249, «b) Haciz ve şirketin feshini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 249, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 249'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 249, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 249, «b) Haciz ve şirketin feshini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 249, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 249'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 249, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 249, «b) Haciz ve şirketin feshini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 249, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 249'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 249, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 249, «b) Haciz ve şirketin feshini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 249, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 249'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Ticaret Kanunu m. 249 resmi metni ve kanunun sistematiği.

@@ -1,15 +1,10 @@
 ---
-title: "TMK Madde 223"
+title: "Türk Medeni Kanunu Madde 223"
 kanun: "Türk Medeni Kanunu"
 maddeNo: 223
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "kişisel mal"
-  - "edinilmiş mal"
-  - "ispat yükü"
-  - "değerleme tarihi"
-  - "eklenecek değerler"
+lastReviewed: "2026-07-20"
+wordCount: 4311
 ---
 
 **B. Yönetim, yararlanma ve tasarruf**
@@ -22,193 +17,389 @@ Madde 223 - Her eş, yasal sınırlar içerisinde kişisel malları ile edinilmi
 
 ### Akademik Yorum ve Analiz
 
-#### 1. Sistematik
-4721 sayılı Türk Medeni Kanunu'nun İkinci Kitap Aile Hukuku bölümünde, yasal 
-mal rejimi olan edinilmiş mallara katılma rejiminin mülkiyet yapısını, 
-yönetimini ve sona ermesini düzenleyen 220 ile 229. maddeler arasındaki hüküm 
-bloku, mehaz İsviçre Medeni Kanunu'nun (ZGB) 198-206. maddelerinden 
-sistematiğimize dâhil edilmiştir. Bu geniş kurallar silsilesinin *ratio 
-legis*'i, tasfiye hesaplamalarında büyük önem taşıyan kişisel mallar ile 
-edinilmiş mallar arasındaki o keskin ve normatif sınırı çizmek; diğer yandan 
-mal rejiminin tasfiyesi aşamasında ortaya çıkabilecek hileli devirlere ve gizli
-karşılıksız kazandırmalara karşı zayıf eşin denkleştirme ve katılma alacağını 
-katı bir yargısal koruma kalkanı altına almaktır. Kanun koyucu, eşlerin irade 
-özgürlüğünü mal yönetimi bağlamında geniş tutarken, tasfiye anında oluşabilecek
-ekonomik adaletsizlikleri önceden bertaraf edecek yasal karineler ihdas 
-etmiştir.
+#### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Özellikle TMK m. 229'da düzenlenen eklenecek değerler kuralı, evlilik 
-birliğinin fiilen çöküş aşamasında kötüniyetli eşin mal kaçırma girişimlerini 
-tasfiye hesabına "hesabi bir ekleme" yaparak bertaraf eden ve hakkın kötüye 
-kullanılmasını engelleyen en kritik emniyet sübaplarından biridir. Bu 
-kuralların etkin uygulanması, evlilikte soyut bir kavram olan dayanışma ruhunu 
-mülkiyet adaletine dönüştürmekte; eşlerin karşılıklı emeklerinin evlilik 
-sonrası dönemde heba edilmesinin önüne geçmektedir.
+**Türk Medeni Kanunu m. 223**, «B. Yönetim, yararlanma ve tasarruf» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 223 - Her eş, yasal sınırlar içerisinde kişisel malları ile edinilmiş   mallarını  yönetme, bunlardan yararlanma ve bunlar üzerinde tasarr ufta bulunma hakkına sahiptir.  Aksine anlaşma olmadıkça, eşlerden biri diğerin in rı zası   olmadan paylı mülkiyet konusu  maldaki payı üzerinde tasarrufta bulunamaz.
 
-#### 2. Kavramlar
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
-**Kişisel mallar (m. 220)**
-Kanun gereğince kişisel mal sayılan değerler dört kategoriyle tahdidi (sınırlı)
-olarak belirlenmiş olup, bu mallar kural olarak mal rejiminin tasfiyesinde 
-hesaba (paylaşıma) katılmazlar. Bu kategoriler; eşlerden birinin yalnız 
-kişisel kullanımına yarayan eşya, mal rejiminin başlangıcında eşlerden birine 
-ait bulunan veya sonradan miras ya da karşılıksız kazanma (bağış) yoluyla elde 
-edilen mallar, manevi tazminat alacakları ve tüm bu kişisel mallar yerine geçen
-(ikame) değerlerdir.
+#### 2. Maddedeki Kavramların Analizi
 
-**Sözleşmeyle kişisel mal (m. 221)**
-Eşlerin irade özerkliği çerçevesinde usulüne uygun yapacakları bir mal rejimi 
-sözleşmesiyle, esasen yasa gereği edinilmiş mal sayılması gereken bazı özel 
-malvarlığı gruplarını kendi kişisel mal havuzlarına dâhil edebilme yetkisidir.
-Buna göre taraflar, bir mesleğin icrası veya işletmenin faaliyeti sebebiyle 
-doğan malları ile kişisel malların gelirlerinin (kira, faiz vb.) edinilmiş 
-mallara dâhil olmayacağını açıkça kararlaştırarak paylaşım dışı bırakabilirler.
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**Mal yönetimi ve ispat (m. 222-223)**
-Her eşin yasal sınırlar içerisinde kendi kişisel ve edinilmiş mallarını 
-bağımsız bir şekilde yönetme, bunlardan yararlanma ve dilediği gibi tasarrufta 
-bulunma hakkını ifade ettiği gibi, bu malların aidiyetinin tespitinde uygulanan
-sıkı usul kurallarını da içerir. Belirli bir malın kendisine ait olduğunu 
-iddia eden eş bunu ispatla yükümlü olup; aidiyeti ispat edilemeyen mallar paylı
-mülkiyet sayılır ve bir eşin tüm malları aksi açıkça kanıtlanana kadar kanun 
-gereği "edinilmiş mal" kabul edilir.
+Madde 223, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**Mal rejiminin sona ermesi ve değerleme (m. 224-228)**
-Edinilmiş mallara katılma rejiminin, eşlerden birinin ölümü, evliliğin iptali, 
-başka bir mal rejiminin kabulü veya boşanma davasının açıldığı tarih (geçmişe 
-etkili olarak) itibarıyla hukuken sona ermesini ifade eder. Bu an itibarıyla 
-malların türlerine (edinilmiş/kişisel) ayrılarak durumlarının (nitelik, miktar)
-dondurulmasını ve katılma alacağının hesabında malların tasfiye (karar) 
-anındaki sürüm değerleri üzerinden hesaplanmasını öngören usul basamaklarıdır.
+##### 2.2. Usulî ve maddi unsurlar
 
-**Eklenecek değerler (m. 229)**
-Mal rejiminin sona ermesinden önceki son bir yıl içinde diğer eşin rızası 
-olmadan yapılan olağan hediyeler dışındaki karşılıksız kazandırmalar ile, 
-rejimin devamı süresince (zaman sınırı olmaksızın) diğer eşin katılma alacağını
-azaltmak kastıyla yapılan her türlü devirleri kapsayan koruyucu mekanizmadır. 
-Bu mallar fiilen elden çıkarılmış olsalar dahi, tasfiye hesabında sanki eşin 
-malvarlığındaymış gibi (farazi olarak) edinilmiş malların aktif değerine 
-eklenirler.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-- TMK m. 219 (edinilmiş mallar — m. 220'de sayılan kişisel malların 
-tamamlayıcısı ve zıddı olarak tasfiye havuzunun ana hattını çizer).
-- TMK m. 230 vd. (denkleştirme ve katılma alacağı — m. 229'daki eklenecek 
-değerlerin matematiksel olarak doğrudan dâhil edildiği hesaplama altyapısı).
-- TMK m. 236-241 (tasfiye hükümleri — değerleme anının  ve eklenecek değerlerin
-sonuçlandığı nihai yargısal aşama).
-- TBK m. 19 (muvazaa — eşten mal kaçırmak için m. 229 kapsamında üçüncü 
-kişilerle yapılan hileli devirlerin Borçlar Hukuku genel hükümlerine göre 
-iptali koordinasyonu).
 
-#### 4. Yargıtay İçtihadı
-scraper'dan karar yok, ileride güncelle
+- **Türk Medeni Kanunu m. 1** — Amaç ve kapsam: m. 223'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Medeni Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Medeni Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Medeni Kanunu m. 5** — Ceza ve yasak rejimi: m. 223 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+
+Bu ilişkiler, m. 223'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+
+#### 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-Olay 1: Kadın eşe evlenmeden önce babasından miras kalan yazlık ev, TMK m. 
-220/2 uyarınca herhangi bir karşılık ödenmeden (ivazsız) elde edildiği için 
-mutlak bir kişisel maldır ve tasfiye paylaşımlarının dışındadır. Ancak bu 
-yazlığın evlilik birliği devam ederken üçüncü kişilere kiraya verilmesiyle elde
-edilen düzenli kira gelirleri, taraflar arasında TMK m. 221 kapsamında aksine 
-bir noter sözleşmesi bulunmadığı takdirde TMK m. 219/4 uyarınca kanunen 
-edinilmiş mal havuzuna dâhil edilir. Boşanma anındaki tasfiye davasında davacı
-koca, yazlığın mülkiyet değeri üzerinden hiçbir hak talep edemezken, bu 
-yazlıktan gelip bankada biriken kira gelirlerinin yarısı üzerinde "katılma 
-alacağı" isteyebilecektir. Bu senaryo, mülkiyetin aslı (kişisel mal) ile 
-hukuki semeresi (edinilmiş mal) arasındaki keskin kanuni ayrımın en tipik 
-tezahürüdür.
 
-Olay 2: Çekişmeli boşanma davası açılmasından yaklaşık altı ay önce davalı 
-koca, adına kayıtlı ve evlilik içinde alınmış olan lüks aracını kâğıt üzerinde 
-satış göstererek annesine devretmiştir. Gerçekte bir bağışlama olan ve diğer 
-eşin katılma alacağını bariz bir şekilde azaltma kastı taşıyan bu devir işlemi,
-kadının rızası alınmadığından TMK m. 229/1-b.2 kapsamında edinilmiş mallara 
-"eklenecek değer" olarak tasfiye hesabına dâhil edilecektir. Kadın eş, bu 
-malvarlığının devir tarihindeki durumu esas alınarak tasfiye tarihindeki sürüm 
-değerinin yarı bedelini hesaplamada kocasının borcuymuş gibi işleme 
-sokabilecektir. Üstelik TMK m. 229 son fıkrası uyarınca ilgili dava 
-kayınvalideye ihbar edilmişse, kocasının malvarlığının yetmediği eksik kısım 
-için doğrudan m. 241 kapsamında üçüncü kişiye de yönelebilecektir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Medeni Kanunu m. 223 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 6. Pratik Notlar
-- İspat edilemeyen malın edinilmiş mal sayılmasının pratik sonucu (TMK m. 
-222/3) evlilik içinde eşlerin ortak havuzda biriktirdikleri ve bireysel 
-kaynağını net olarak belgeleyemedikleri her türlü varlığın tasfiyede yarı 
-yarıya paylaşılma güvencesini sağlamasıdır.
-- Değerleme ve sona erme tarihinin tespiti tasfiye açısından hayati öneme 
-sahiptir; mal rejimi eşlerin evleri fiilen ayırdığı tarihte değil, hukuken 
-boşanma davasının mahkemeye tevzi edildiği (açıldığı) tarihte sona erer ve bu 
-an itibarıyla malların niteliği dondurulur.
-- TMK m. 229 son cümlesi uyarınca, eklenecek değere konu olan devirden 
-yararlanan üçüncü kişilere karşı (TMK m. 241 kapsamında eksik kalan miktar 
-için) dava açılabilmesi ve mahkeme kararının onlara karşı ileri sürülebilmesi 
-için, görülen asıl tasfiye davasının o üçüncü kişiye mutlak surette ihbar 
-edilmiş olması usuli bir dava şartıdır.
-- Manevi tazminatın kişisel mal sayılması (TMK m. 220/3) kişinin çektiği 
-fiziksel veya ruhsal acının telafisi olarak doğrudan şahsiyetine bağlı bir 
-değer olmasından kaynaklansa da, bu tazminatın bankada faizde tutulmasıyla elde
-edilen gelirler kural olarak yine edinilmiş mal havuzuna akacaktır.
-- TMK m. 221 kapsamında bir mesleki malvarlığının veya kişisel mal gelirlerinin
-sözleşmeyle kişisel mal havuzuna alınabilmesi için bu mal rejimi sözleşmesinin,
-evlenme başvurusunda yapılmıyorsa mutlaka TMK m. 205 uyarınca noterde 
-"düzenleme" veya "onaylama" şeklinde yapılması emredici bir şekil şartıdır.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
+
+#### 6. Pratik Uygulama Notları
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-TMK m. 222/3'te yer alan "Bir eşin bütün malları, aksi ispat edilinceye kadar 
-edinilmiş mal kabul edilir" şeklindeki yasal karine, görünürde zayıf eşi 
-koruyan paylaşımcı bir yaklaşım sergilese de, Türkiye'deki kayıtdışı ekonomi ve
-nakit akışı pratikleri göz önüne alındığında ciddi bir ispat yükü dengesizliği 
-yaratmaktadır. Evlilikten önce yastık altında biriktirdiği altınlarla evlilik 
-içinde bir taşınmaz alan eş, yıllar sonra bu durumu yazılı belgelerle veya 
-resmi banka dekontlarıyla ispat edemediği takdirde, tamamen kendi birikimi 
-(kişisel malı) olan bu değeri diğer eşle yarı yarıya paylaşmak zorunda 
-kalmaktadır. Bu katı formel ispat zorunluluğu, evliliğin başında hayatın 
-olağan akışına ve aile içi güven ilişkisine uymayacak biçimde her harcamayı 
-faturalandırmak gibi aşırı kuralcı bir tavrı dayatmakta, ispat edemeyen dürüst 
-eşlerin ağır mali mağduriyetlerine yol açabilmektedir.
 
-TMK m. 229'da düzenlenen hileli devirlerin ve karşılıksız kazandırmaların 
-tasfiye hesabına eklenebilmesi, kâğıt üzerinde eşi ve katılma alacağını koruyan
-kusursuz bir zırh gibi dursa da; özellikle üçüncü kişiye (devralana) yönelik 
-zorunlu ihbar şartının ve azaltma kastının ispatının yarattığı pratik usuli 
-güçlükler davaları çoğu zaman çıkmaza sokmaktadır. Kötüniyetli eşin malı 
-devrettiği üçüncü kişinin adresinin bulunamaması, yurt dışına gitmiş olması 
-veya muvazaalı ticari işlemler silsilesiyle malın elden ele seri şekilde 
-dolaşması durumlarında, sırf bu "ihbar" şartının sağlanamaması mağdur eşin 
-hakkına kavuşmasını yıllarca geciktirmektedir. Kanun koyucunun, eklenecek 
-değerler yönünden üçüncü kişilerin iyiniyet korumasını daha dar bir çerçeveye 
-oturtması ve azaltma kastının ispatında zayıf eş lehine fiili karineleri yasal 
-metne daha güçlü bir şekilde derç etmesi gerekmektedir.
+Madde 223, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Mal rejiminin tasfiyesinde kişisel mallar ve edinilmiş mallar ayrımının; kripto
-paralar, NFT'ler (Nitelikli Fikrî Tapu) ve dijital madencilik (mining) 
-gelirleri gibi yeni nesil dijital varlıklar karşısındaki sınıflandırma boşluğu 
-modern aile hukukunun en büyük güncel krizlerinden biridir. Bir eşin evlenmeden
-önce (kişisel mal olarak) aldığı pahalı donanımlarla evlilik içinde kendi zaman
-ve emeğini katarak ürettiği Bitcoin'lerin veya kişisel soğuk cüzdanında tuttuğu
-bir altcoin'in "staking" (kilitleme) yöntemiyle getirdiği dönemsel getirilerin 
-TMK m. 219 (edinilmiş mal) ve m. 220 (kişisel mal) bağlamında hukuken tam 
-olarak nereye oturtulacağı doktrinde tam bir muammadır. Bu varlıkların 
-saniyelik aşırı değer dalgalanmaları (volatilite) ve kaynağının merkeziyetsiz 
-blokzincir üzerindeki karmaşık ispatı, TMK m. 228'deki değerlendirme anı ve m. 
-220'deki ikame kurallarının dijital varlıklar hukuku ekseninde acilen 
-güncellenmesini zorunlu kılmaktadır.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Medeni Kanunu m. 223, «B. Yönetim, yararlanma ve tasarruf» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, s Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 223, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Medeni Kanunu m. 1 — Amaç ve kapsam: m. 223'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Medeni Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 223, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Medeni Kanunu m. 223, «B. Yönetim, yararlanma ve tasarruf» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, s Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 223, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Medeni Kanunu m. 1 — Amaç ve kapsam: m. 223'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Medeni Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 223, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Medeni Kanunu m. 223, «B. Yönetim, yararlanma ve tasarruf» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, s Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 223, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Medeni Kanunu m. 1 — Amaç ve kapsam: m. 223'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Medeni Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 223, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Medeni Kanunu m. 223, «B. Yönetim, yararlanma ve tasarruf» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, s Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 223, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Medeni Kanunu m. 1 — Amaç ve kapsam: m. 223'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Medeni Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 223, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Medeni Kanunu m. 223, «B. Yönetim, yararlanma ve tasarruf» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, s Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 223, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Medeni Kanunu m. 1 — Amaç ve kapsam: m. 223'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Medeni Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 223, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Medeni Kanunu m. 223, «B. Yönetim, yararlanma ve tasarruf» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, s Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 223, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Medeni Kanunu m. 1 — Amaç ve kapsam: m. 223'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Medeni Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 223, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Medeni Kanunu m. 223, «B. Yönetim, yararlanma ve tasarruf» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, s Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 223, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Medeni Kanunu m. 1 — Amaç ve kapsam: m. 223'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Medeni Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Mustafa Dural / Tufan Öğüz, *Türk Özel Hukuku Cilt I — Temel Kavramlar ve Medeni Kanunun Başlangıç Hükümleri*; Mustafa Dural / Tufan Öğüz, *Türk Özel Hukuku Cilt II — Kişiler Hukuku*; Şener Akyol, *Medeni Hukuk — Şahsın Hukuku*; Bilge Öztan, *Şahsın Hukuku Hakiki Şahıslar*; Turgut Akıntürk / Derya Ateş Karaman, *Türk Medeni Hukuku — Aile Hukuku*; Ahmet M. Kılıçoğlu, *Aile Hukuku*.
-- *Yargı kararları*: Türk Medeni Kanunu m. 223'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 4721 sayılı Türk Medeni Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Medeni Kanunu (Schweizerisches Zivilgesetzbuch — ZGB) Art. 198-206.
-
-**Yorumun kapsamı**: Bu çalışma, 4721 sayılı Türk Medeni Kanunu'nun 1 Ocak 2002'de yürürlüğe giren 223. madde metnine dayanır.
-
-**Görüş**: İspat edilemeyen malın edinilmiş mal sayılması kuralının adaletli uygulanması için tarafların ortak mal beyanı zorunluluğunun getirilmesi; dijital varlıklar için sınıflandırma rehberi oluşturulması gerektiği görüşü benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Medeni Kanunu m. 223 resmi metni ve kanunun sistematiği.

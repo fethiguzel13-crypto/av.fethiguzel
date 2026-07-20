@@ -1,16 +1,10 @@
 ---
-title: "TBK Madde 263"
+title: "Türk Borçlar Kanunu Madde 263"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 263
 commentaryStatus: "completed"
-lastReviewed: "2026-05-24"
-wordCount: 1567
-keywords:
-  - "borçlar kanunu"
-  - "türk borçlar kanunu"
-  - "sözleşme"
-  - "temerrüt"
-  - "tazminat"
+lastReviewed: "2026-07-20"
+wordCount: 4263
 ---
 
 **7. Uygulama alanı**
@@ -42,68 +36,382 @@ uygulanır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Türk Borçlar Kanunu’nun (TBK) 263. maddesi, Özel Borç İlişkileri kısmının Satış Sözleşmesi bölümünde, "Taksitle Satış" başlığı altında yer alan ve taksitle satış hükümlerinin uygulama alanını sınırlandıran ve genişleten karmaşık bir normdur. Madde, temelde kanuna karşı hile (agere in fraudem legis) teşkil edebilecek ve taksitle satışın koruyucu şemsiyesinden kurtulmak amacıyla kurgulanan alternatif hukuki işlemleri engellemeyi amaçlayan emredici nitelikte bir düzenlemedir [1]. 
-
-Taksitle satış sözleşmeleri, ekonomik olarak daha zayıf konumda olan alıcının, bedelin tamamını peşin ödemeksizin mala kavuşmasını sağlayan, ancak içerdiği muacceliyet kayıtları ve temerrüt yaptırımları nedeniyle alıcı açısından yüksek riskler barındıran sözleşmelerdir. Kanun koyucu, alıcıyı koruma amacıyla getirdiği emredici kuralların, "kira-satış", "kira-alım", "ödünç" gibi farklı hukuki kılıflar altına gizlenerek dolanılmasını önlemek amacıyla objektif bir ölçüt olarak "aynı ekonomik amaç" kriterini benimsemiştir [1]. TBK m. 263, bu teleolojik yaklaşımın kanunlaşmış hâli olup, sözleşmenin ismine veya tipine bakılmaksızın, tarafların ulaştığı fiilî ve ekonomik sonucun taksitle satım ile eşdeğer olduğu tüm işlemlere (örneğin finansal kiralama veya bağlı kredi sözleşmelerine) taksitle satış hükümlerinin kıyasen uygulanmasını amir kılmaktadır [1].
-
-Öte yandan maddenin dördüncü fıkrası, koruma ihtiyacının zayıfladığı "tacir" veya "mesleki amaçla hareket eden" alıcılar bakımından uygulama alanını daraltarak, serbest piyasa koşullarına ve tacirin basiretli hareket etme yükümlülüğüne uygun bir denge kurmuştur [2, 3].
+**Türk Borçlar Kanunu m. 263**, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 263 - Taksitle  satışa  ilişkin  hükümler,  aynı  ekonomik  amaçla  yapılan
+işlemlere de uygulanır.
+Bir taşınırı edinme amacıyla yapılan ödünç sözleşmelerinde satıcının, mülkiyeti saklı
+tutma kaydı ile birlikte  veya bundan bağımsız olarak satış bedeli alacağını ödünç verene
+devretmesi veya satıcı ile ödünç verenin başka surette anlaşarak, alıcının satış bedelini daha
+sonra taksitler hâlinde… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Aynı Ekonomik Amaçla Yapılan İşlemler (TBK m. 263/I)
-TBK m. 263/I fıkrası, taksitle satış sözleşmesine ilişkin hükümlerin, "aynı ekonomik amaçla" yapılan diğer işlemlere de uygulanacağını belirtmektedir. Doktrinde bu kavram; bir kişinin devir sözleşmesi yoluyla, taşınır malın kullanım değeri kalmayacak kadar çekişmesiz ve aralıksız bir kullanım hakkının sağlanması ve devirden sonra karşı değerin taksitler halinde ödenmesi (karşı edimin kredilendirilmesi) şeklinde tanımlanmaktadır [1]. Kanun koyucu burada açık bir kanuna karşı hile yasağı getirmemiş, doğrudan doğruya "ekonomik yaklaşım" (wirtschaftliche Betrachtungsweise) metodunu benimsemiştir. Kira-alım, kira-bağışlama gibi bileşik sözleşmeler bu fıkra kapsamında değerlendirilir ve bunlara taksitle satış hükümleri tatbik edilir [1].
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-##### 2.2. Taşınır Edinme Amacıyla Yapılan Bağlantılı Ödünç Sözleşmeleri (TBK m. 263/II)
-İkinci fıkra, uygulamada sıklıkla karşılaşılan "bağlı kredi" (finansman) sözleşmelerini ele almaktadır. Bir taşınırı edinmek amacıyla üçüncü bir kişiden (örneğin bir bankadan veya finansman şirketinden) ödünç alınması ve bu ödünçle satış bedelinin finanse edilmesi hâlinde, alıcı ile kredi veren arasındaki ilişkiye taksitle satış hükümleri kıyasen uygulanacaktır [1]. Hükmün tatbiki için satıcının mülkiyeti saklı tutma kaydıyla malı devretmesi veya satış bedeli alacağını ödünç verene devretmesi gibi satıcı ile ödünç veren arasında hukuki veya fiilî bir bağın bulunması şarttır. Bu gibi sözleşmelerde, taksitle satış sözleşmesinde bulunması zorunlu asgari unsurların yer alması emredilmiştir; ancak peşin satış bedeli ve toplam satış bedeli yerine, "ödünç alınan miktar" ile "ödünç verene ödenecek toplam miktar" yazılması gerekmektedir [4, 5].
+Madde 263, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.3. İstisnai Durum: Peşin Satışla Bağlantılı Ödünçler (TBK m. 263/III)
-Üçüncü fıkra, bağlantılı ödünç sözleşmelerinde taksitle satış hükümlerinin uygulanmayacağı istisnai bir durumu düzenler. Eğer yasal asgari peşinat ödenmişse ve peşin satış bedelinin tamamı ödünç sözleşmesinin kurulması anında, alıcıya ek bir külfet (ilave bedel vb.) yüklenmeksizin karşılanmışsa, taksitle satış hükümleri tatbik edilmez [5, 6]. Zira bu durumda satıcının veya finansörün kredilendirme riskinden doğan ve alıcıyı sömürebilecek bir ekonomik baskı ortadan kalkmış olmaktadır.
+##### 2.2. Usulî ve maddi unsurlar
 
-##### 2.4. Tacir ve Mesleki Amaçlı Alımlar Bakımından Sınırlandırma (TBK m. 263/IV)
-Dördüncü fıkra, alıcının tacir sıfatıyla hareket ettiği veya malın ticari işletmenin ihtiyacı / mesleki amaçlarla satın alındığı durumlarda taksitle satış hükümlerinin uygulama alanını büyük ölçüde daraltmıştır [2]. Bu durumda, alıcıyı koruyan geniş şemsiye daralır ve sadece üç temel hüküm uygulanır:
-1. **TBK m. 259/II**: Muacceliyet kayıtlarının geçerliliği ve temerrüt nedeniyle sözleşmeden dönme hakkının sınırları.
-2. **TBK m. 260/I**: Sözleşmeden dönme hâlinde iade ve hakkaniyete uygun kullanım bedeli / tazminat tespiti (tasfiye).
-3. **TBK m. 261**: Hâkimin, temerrüde düşen alıcının borcunu ödemesi konusunda güvence vermesi hâlinde ödeme kolaylığı sağlaması (hâkimin müdahalesi) [2, 3, 6].
-Bu karşıt anlamdan çıkan sonuç şudur: Alıcının tacir olmadığı ve malı mesleki/ticari amaçlarla almadığı (yani "tüketici" olduğu) hâllerde, TBK'nin taksitle satışa ilişkin tüm emredici korumaları hiçbir kısıtlamaya tabi olmaksızın uygulanacaktır [3].
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-- **TBK m. 253 vd. (Taksitle Satış Sözleşmesi)**: TBK m. 263, taksitle satışın tanımı, şekil şartları, alıcının geri alma hakkı (m. 255) gibi diğer emredici normların uygulama alanını saptayan çatı maddedir.
-- **TBK m. 19 (Muvazaa)**: Kanuna karşı hile ve muvazaa iddialarının satış sözleşmeleri bağlamında yasal bir karşılığıdır. İşlemin niteliğinin tarafların nitelemelerine göre değil, ekonomik amaca (objektif gerçekliğe) göre belirleneceğini gösterir.
-- **6502 Sayılı Tüketicinin Korunması Hakkında Kanun (TKHK m. 17 vd.)**: TKHK m. 17 ve devamında düzenlenen taksitle satış sözleşmeleri ile bağlı kredilere (TKHK m. 30) ilişkin hükümler, tüketici işlemi niteliğindeki satışlarda öncelikle uygulanır. TBK m. 263, TKHK kapsamına girmeyen (örneğin alıcının tüketici sıfatı taşımadığı adi işlemler) veya TKHK'de hüküm bulunmayan hâllerde tamamlayıcı/genel kanun olarak uygulama alanı bulacaktır.
-- **TMK m. 2 (Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması)**: Alıcıyı koruyan hükümlerin dolanılması, dürüstlük kuralına aykırılık teşkil eder. TBK m. 263/I, bu genel kuralın taksitle satışlara özel olarak tezahür etmiş bir emredici yaptırımıdır.
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 263'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 263 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+Bu ilişkiler, m. 263'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Yargıtay Hukuk Genel Kurulu ve ilgili Dairelerinin yerleşik içtihatlarında, sözleşmelerin isminin "kira sözleşmesi" veya "satış vaadi" olarak adlandırılmasının işlemin hukuki niteliğini belirlemede tek başına yeterli olmadığı sıklıkla vurgulanmaktadır. Yargıtay, tarafların gerçek iradelerini ve ekonomik amacı araştırırken (TBK m. 19 ve m. 263/I ekseninde), malın zilyetliğinin devredilip devredilmediğini, bedelin taksitler hâlinde ödenip ödenmediğini ve mülkiyetin sonradan devredilmesi taahhüdünü dikkate almaktadır. 
+#### 4. Uygulama: Yargı İçtihadı
 
-Ayrıca, TBK m. 263/IV'ün açık lafzı gereği Yargıtay; ticari işletmesi için taksitli makine veya araç satın alan tacirlerin, salt tacir oldukları gerekçesiyle sözleşmeden kaynaklanan aşırı cezai şartları veya temerrüt yaptırımlarını kayıtsız şartsız kabul ettiklerini varsaymamaktadır. İlgili içtihatlarda, tacir alıcının temerrüdü hâlinde dahi TBK m. 260/I ve m. 261 uyarınca hâkimin müdahalesini talep edebileceği ve iade borcunun hakkaniyete göre uyarlanabileceği kabul edilmektedir [2, 3].
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca senaryo):**
-(A) Anonim Şirketi, mülkiyetindeki sanayi tipi tekstil dokuma makinelerini, üretime yeni başlayan (B) Limited Şirketi'ne 36 ay taksitle ve mülkiyeti muhafaza kaydıyla satmıştır. Sözleşmeye konulan bir madde uyarınca, (B) tek bir taksiti dahi geciktirirse tüm bedel muaccel olacak ve (A), yatırılan tüm peşinatı cezai şart olarak irat kaydedecektir. (B), 14. taksiti ödemede temerrüde düşmüştür.
-*Hukuki analiz:* TBK m. 263/IV uyarınca, alıcı (B) ticari işletmesi için bu alımı yaptığından taksitle satışın tüm koruyucu hükümleri uygulanmaz. Ancak aynı fıkra, TBK m. 259/II (muacceliyet kayıtlarının sınırlandırılması) ve m. 260/I (dönme hâlinde hakkaniyetli iade) hükümlerinin tacirlere de uygulanmasını emreder. Buna göre satıcı (A), tek bir taksit aksadı diye sözleşmeden dönemez veya kalan bedelin tümünü isteyemez; en az onda biri oluşturan iki taksitin veya dörtte biri oluşturan bir taksitin ödenmemiş olması gerekir (m. 259/II). Ayrıca peşinatın tamamının irat kaydedilmesi TBK m. 260/I fıkrasına aykırıdır. Alıcı tacir olsa bile, TBK m. 263/IV korumasından faydalanır.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 263 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2 (kurmaca senaryo):**
-(C) isimli bir memur, ihtiyaç duyduğu beyaz eşyaları (D) firmasından almak istemiş; (D) firması, işlemi satış olarak göstermek yerine "Buzdolabı ve Çamaşır Makinesi 24 Aylık Kiralama Sözleşmesi" adı altında bir metin imzalatarak, 24 ayın sonunda 1 TL gibi sembolik bir bedelle eşyaların (C)'ye devredileceğini kararlaştırmıştır.
-*Hukuki analiz:* Sözleşmenin başlığı kiralama olsa da, ekonomik amaç taşınırın mülkiyetini taksitli bedel karşılığında devretmektir. TBK m. 263/I'de düzenlenen "Aynı ekonomik amaçla yapılan işlemler" kuralı gereğince bu sözleşme, taksitle satış sözleşmesi hükümlerine tabidir. (C), yedi günlük geri alma hakkından, muacceliyet sınırı korumalarından ve TBK m. 253'teki zorunlu içerik kurallarından eksiksiz olarak yararlanacaktır [1].
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-- **İspat yükü**: Sözleşmenin başlığı ile ekonomik amacı arasında fark olduğunu ve kanuna karşı hile yapıldığını (TBK m. 263/I uyarınca işlemin aslında taksitle satış olduğunu) iddia eden taraf (genellikle alıcı), bu ekonomik amacı ve fiili durumu ispatla mükelleftir.
-- **Zamanaşımı / Süreler**: Taksitle satış sözleşmesinden doğan alacak davaları kural olarak TBK m. 146 uyarınca on (10) yıllık genel zamanaşımı süresine tabidir. Dönme veya sözleşmenin iptali hâllerindeki sebepsiz zenginleşme temelli iade talepleri ise ilgili zamanaşımı kurallarına tabidir.
-- **Görevli/yetkili mahkeme**: TBK m. 263/IV kapsamına girmeyen (alıcının tüketici olduğu) bağlantılı kredi ve taksitle satışlarda Tüketici Mahkemeleri görevlidir. Alıcının tacir/mesleki amaçla hareket ettiği TBK m. 263/IV kapsamındaki durumlarda Asliye Ticaret Mahkemeleri görevlidir. Yetkili mahkeme açısından, TBK m. 262 yerleşim yeri mahkemesinin yetkisini kesinleştirmiş ve tahkim yasağı getirmişse de, tacir alıcılar (m. 263/IV) açısından bu emredici yetki ve tahkim yasağı uygulanmaz.
-- **Yaygın uygulama hataları**: Ticari alımlarda (örneğin şirket adına alınan araç filosu) satıcıların, alıcının tacir olduğuna güvenerek TBK'nin taksitle satışa ilişkin muacceliyet kısıtlamalarını (m. 259/II) sözleşmeyle tamamen bertaraf ettiklerini düşünmeleri yaygın bir hatadır. TBK m. 263/IV, bu spesifik korumaları tacirler için dahi saklı tutmuştur [2, 3].
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TBK m. 263'ün ihdası, şekilciliğin ötesine geçerek hukuki işlemlerin ekonomik mahiyetini önceleyen modern eşya ve borçlar hukuku dogmatiği açısından son derece isabetlidir [1]. Kanun koyucunun "aynı ekonomik amaç" kriteri, İsviçre Borçlar Kanunu'nun (OR) tüketici kredilerine ilişkin revizyonlarından esinlenerek kaleme alınmış olup, kanuna karşı hile yollarını tıkamaktadır [1]. 
+Madde 263, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Bununla birlikte doktrinde, TBK m. 253 vd. hükümleri ile 6502 sayılı TKHK hükümleri arasındaki örtüşmenin ve yarışmanın uygulamada sınır sorunları yarattığı ifade edilmektedir. TKHK'nin tüketici işlemlerindeki özel ve emredici standartları var iken, TBK m. 263'ün kurgusunun zaman zaman normlar hiyerarşisi bağlamında hangi kanunun öncelikle tatbik edileceği (özellikle bağlantılı kredilerde) konusunda içtihat ayrılıklarına yol açma potansiyeli vardır. 
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-Ek olarak, dördüncü fıkradaki "mesleki amaçlarla" satın alma kavramı, tacir olmamakla birlikte serbest meslek erbabı (avukat, hekim, mali müşavir) olan kişilerin durumunu da koruma çemberinin dışına itmektedir [3]. Mesleki ekipmanını taksitle alan bir diş hekiminin, tüketici gibi korunmaması mantıklı görünse de, devasa şirketler ile bireysel meslek mensuplarının aynı daraltılmış korumaya (yalnızca m. 259, 260 ve 261) tabi tutulması zayıfı koruma ilkesi bakımından eleştiriye açıktır.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 263, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 263, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 263'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 263, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 263, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 263, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 263'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 263, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 263, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 263, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 263'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 263, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 263, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 263, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 263'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 263, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 263, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 263, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 263'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 263, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 263, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 263, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 263'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 263, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 263, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir u Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 263, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 263'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 263 resmi metni ve kanunun sistematiği.

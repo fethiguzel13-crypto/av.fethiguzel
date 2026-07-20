@@ -6,9 +6,9 @@ import { gsap } from 'gsap';
 import { ArrowRight, Calculator, BookOpen, Scale } from 'lucide-react';
 
 const STAT_ITEMS = [
-  { num: '50+', label: 'Kanun' },
-  { num: '8000+', label: 'Madde' },
-  { num: '19', label: 'Araç' },
+  { num: '45+', label: 'Kanun' },
+  { num: '7800+', label: 'Madde + Şerh' },
+  { num: '19', label: 'Hukuki Araç' },
 ];
 
 export default function Hero() {

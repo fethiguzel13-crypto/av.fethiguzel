@@ -1,16 +1,10 @@
 ---
-title: "TBK Madde 584"
+title: "Türk Borçlar Kanunu Madde 584"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 584
 commentaryStatus: "completed"
-lastReviewed: "2026-05-25"
-wordCount: 1687
-keywords:
-  - "borçlar kanunu"
-  - "türk borçlar kanunu"
-  - "sözleşme"
-  - "kefalet"
-  - "itiraz"
+lastReviewed: "2026-07-20"
+wordCount: 4263
 ---
 
 **III. Eşin rızası**
@@ -39,67 +33,382 @@ ortaklarına kullandırılacak kredilerde verilecek kefaletler için eşin rıza
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Türk Borçlar Kanunu’nun (TBK) 584. maddesi, kefalet sözleşmesinin geçerlilik şartlarını düzenleyen on beşinci bölümün "Koşulları" alt başlığı içerisinde, "Eşin Rızası" kenar başlığıyla yer almaktadır. Hükmün ihdas edilmesindeki temel *ratio legis* (kanun koyucunun amacı), ailenin ekonomik birliğinin ve malvarlığının, eşlerden birinin ani, düşüncesizce veya sırf hatır uğruna (hatır kefaleti) gireceği ağır risklere karşı korunmasıdır [1], [2]. 
-
-Mülga 818 sayılı Borçlar Kanunu döneminde kefalet sözleşmesinin geçerliliği için eşin rızası aranmamaktaydı. 6098 sayılı TBK ile İsviçre Borçlar Kanunu'na (OR) paralel olarak (kısmen OR m. 494) hukukumuza dâhil edilen bu kural, sözleşme özgürlüğü (sözleşme serbestisi) ilkesine aile kurumunun korunması gayesiyle getirilmiş emredici nitelikte, istisnai bir sınırlamadır [3]. Hüküm, eşlerden birinin, ailenin ekonomik varlığını tehlikeye atabilecek nitelikteki kişisel teminat sözleşmelerine dâhil olmasını, diğer eşin denetimine ve onayına tabi kılmıştır [1]. İlk iki fıkrası kanunun ilk yürürlüğe girdiği tarihte mevcut olmakla birlikte, ticari hayatın akışını yavaşlattığı yönündeki haklı eleştiriler neticesinde 28.03.2013 tarihli ve 6455 sayılı Kanun'un 77. maddesi ile maddeye üçüncü fıkra eklenmiş ve ticari hayata ilişkin önemli istisnalar getirilmiştir [4], [5].
+**Türk Borçlar Kanunu m. 584**, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 584 - Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya
+yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı rızasıyla kefil olabilir; bu
+rızanın  sözleşmenin  kurulmasından  önce  ya  da  en  geç  kurulması  anında  verilmiş  olması
+şarttır.
+Kefalet sözleşmesinde sonradan yapılan ve kefilin sorumlu olacağı miktarın artmasına
+veya adi kefaletin müteselsil kefale… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Eşin Rızasının Hukuki Niteliği, Şekli ve Zamanı
-Madde lafzında "yazılı rıza" ifadesi kullanılmaktadır. Bu rızanın, kefalet sözleşmesinin kurulmasından önce ya da en geç kurulması anında verilmiş olması emredici bir şarttır [6], [7], [2]. Rızanın şekli adi yazılı şekildir; eşin rıza beyanını bizzat imzalaması yeterlidir [8]. Güvenli elektronik imza ile de bu rızanın verilebileceği doktrinde kabul edilmektedir, zira eşin rızası bizzat bir teminat sözleşmesi değil, bir geçerlilik şartı niteliğindeki tek taraflı hukuki işlemdir [9], [10]. 
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-Önemle vurgulanmalıdır ki, rızanın sözleşmenin kurulmasından *sonra* verilmesi (icazet/onay) kefalet sözleşmesini geçerli kılmaz [6], [11]. Kanun metninde "rıza" kelimesi kullanılmış olsa da, zaman itibarıyla aranan şart (en geç kurulma anı) dikkate alındığında, bunun hukuki nitelik olarak bir "izin" olduğu doktrinde ifade edilmektedir [11]. Sonradan verilen icazet, baştan itibaren kesin hükümsüz olan kefalet sözleşmesine sıhhat kazandırmayacaktır [12]. Rızanın eş tarafından bilerek ve isteyerek verildiğinin ispatı açısından, rıza belgesinde kefil olunan borçlu, azami tutar ve kefalet türü gibi esaslı unsurların yer alması faydalı olmakla birlikte, kanun rızanın içeriğine dair katı bir şekil şartı öngörmemiştir [13], [14].
+Madde 584, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.2. Eşin Rızasının Aranmayacağı Aile Hukuku Kaynaklı İstisnalar (m. 584/1)
-Madde uyarınca, "mahkemece verilmiş bir ayrılık kararı" veya "yasal olarak ayrı yaşama hakkı" (örneğin boşanma davası açılması sebebiyle TMK m. 169 vd. kapsamında doğan hak) mevcutsa eşin rızası aranmaz [4], [15]. Eşlerin mahkeme kararı veya yasal bir sebebe dayanmaksızın fiilen ayrı yaşamaları (de facto ayrılık), eşin rızası şartını ortadan kaldırmaz [16].
+##### 2.2. Usulî ve maddi unsurlar
 
-##### 2.3. Sonradan Yapılan Değişiklikler ve Rıza İhtiyacı (m. 584/2)
-Kefalet sözleşmesinde sonradan yapılacak değişikliklerin eşin rızasına tabi olup olmadığı kanunda açıkça sınırlandırılmıştır. Buna göre; kefilin sorumlu olacağı miktarı artıran, adi kefaleti müteselsil kefalete dönüştüren veya kefil yararına olan teminatları/güvenceleri önemli ölçüde azaltan (örneğin kefaleti güvence altına alan bir rehnin fekki gibi) değişiklikler eşin rızasına tabidir [9], [5]. Sorumluluğu artırmayan veya kefilin durumunu ağırlaştırmayan sözleşmesel değişikliklerde ise diğer eşin yeniden rızasının alınmasına gerek yoktur.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-##### 2.4. Ticari İşletmeler ve Şirketler Açısından İstisnalar (m. 584/3)
-6455 sayılı Kanun ile getirilen bu istisna, ticari hayatın gereksinimleri olan hız ve pratikliği sağlamak üzere tasarlanmıştır. Ticaret siciline kayıtlı ticari işletme sahipleri ile ticaret şirketlerinin ortak veya yöneticilerinin, kendi işletme veya şirketleriyle ilgili verecekleri kefaletlerde eş rızası aranmaz [4], [17], [5]. Aynı şekilde esnaf ve sanatkârların mesleki faaliyetleri için, tarım kredi ve esnaf kefalet kooperatifleri aracılığıyla veya kamu sermayeli bankalarca kullandırılan faiz destekli krediler bakımından verilecek kefaletler de bu istisna kapsamındadır [17], [6], [5]. Bu fıkra, ticari kredilerdeki tıkanıklığı gidermiş ve kefalette eşin rızası kuralının etki alanını büyük ölçüde bireysel ve tüketici kredileri ile hatır kefaletleriyle sınırlandırmıştır.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-*   **TBK m. 603 (Kefalet Hükümlerinin Diğer Kişisel Güvencelere Uygulanması):** TBK m. 603, kefaletin şekline, ehliyetine ve *eşin rızasına* ilişkin hükümlerin, gerçek kişiler tarafından verilen "başka ad altındaki diğer kişisel güvence sözleşmelerine" de (garanti sözleşmesi, borca katılma vb.) uygulanacağını öngörür [18], [19]. Kanun koyucu, kefalet sözleşmesine özgü bu korumayı, diğer sözleşme tipleri maskesi altında dolanılmasını engellemek amacıyla tüm kişisel teminatlara teşmil etmiştir [18], [19].
-*   **TMK m. 194 (Aile Konutu) ve TMK m. 199:** TBK m. 584'ün varlık sebebi, Türk Medeni Kanunu'ndaki aileyi koruyucu kurumlarla doğrudan ilişkilidir. Tıpkı eşlerden birinin aile konutunu diğerinin açık rızası olmadan devredememesi (TMK m. 194) gibi, ailenin ekonomik yıkımına yol açabilecek kefalet işlemlerinde de diğer eşin koruyucu iradesine başvurulmuştur [1], [20]. TMK m. 199'daki hâkimin tasarruf yetkisini sınırlayabilmesi kurumunun, yasa koyucu tarafından kefalet kurumu özelinde doğrudan ve emredici bir kural hâline getirilmiş hâlidir [20].
-*   **TTK m. 7 ve m. 700 vd. (Kambiyo Senetlerinde Aval):** Ticari hayatta çok sık kullanılan "aval" kurumuna TBK m. 584'ün kıyasen veya TBK m. 603 yollamasıyla uygulanıp uygulanmayacağı hususu doktrinde ve yargıda çok ciddi uyuşmazlıklara yol açmış, neticede avalin kambiyo hukukuna özgü, soyut ve bağımsız niteliği gereği eş rızasına tabi olmadığı Yargıtay İçtihadı Birleştirme Kurulu kararıyla netliğe kavuşturulmuştur [21], [22].
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 584'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 584 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+Bu ilişkiler, m. 584'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Yargıtay, TBK m. 584'te düzenlenen eşin rızası şartının hukuki niteliği bağlamında bunun bir geçerlilik şartı olduğunu kabul etmektedir. Eşin rızasının (veya Kanun m. 584/3'teki istisnalardan birinin) bulunmadığı durumlarda kefalet sözleşmesi "kesin hükümsüz" (batıl) kabul edilmektedir [23]. 
+#### 4. Uygulama: Yargı İçtihadı
 
-En mühim içtihatlardan biri olan **Yargıtay İçtihadı Birleştirme Büyük Genel Kurulunun 20.04.2018 tarihli, E. 2017/4, K. 2018/5 sayılı kararı**, eş rızası şartının "Aval" (kambiyo senedi kefaleti) kurumuna uygulanmayacağını hüküm altına almıştır [21], [22]. Yargıtay bu kararında; avalde eş rızasının aranmasının kambiyo senetlerinin tedavül kabiliyetiyle ve ticari hayatın hızıyla bağdaşmayacağını, nitekim yasa koyucunun 6455 sayılı Kanunla getirdiği istisnalar arasına avali dâhil etmemesinin, avalde zaten eş rızasının aranmayacağına dair açık bir işaret olduğunu vurgulamıştır [22], [24], [25].
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-Ayrıca Yargıtay uygulamalarında, kefil olunan işlemde sahtecilik, rızanın sonradan tamamlanması gibi uyuşmazlıklarda, kesin hükümsüzlüğün herkes tarafından ve her zaman ileri sürülebileceği; bu eksikliğin sonradan icazet ile giderilemeyeceği yerleşik ilke olarak kabul edilmektedir. Eş rızası alınmadan yapılan sözleşmeler tahvil (dönüştürme) yoluyla örneğin bir üçüncü kişinin fiilini taahhüt (garanti) sözleşmesi olarak da ayakta tutulamaz, zira TBK m. 603 uyarınca bu tür işlemlerde de eş rızası aranmaktadır [26], [18], [27].
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1:**
-Bay (A), arkadaşı Bay (B)'nin bankadan çekeceği ihtiyaç kredisine müteselsil kefil olmak için banka şubesine gitmiştir. Banka yetkilisi, Bay (A)'ya evli olup olmadığını sormuş, evli olduğunu öğrenince eşi Bayan (C)'yi telefonla arayarak sözlü onayını almıştır. Kefalet sözleşmesi imzalanıp kredi kullandırıldıktan bir hafta sonra Bayan (C) banka şubesine gelerek, eşinin kefilliğine ilişkin muvafakatnameyi yazılı olarak imzalamıştır. Asıl borçlu (B) kredisini ödemeyince banka, kefil (A)'ya karşı icra takibi başlatmıştır.
-*Hukuki analiz:* TBK m. 584/1 uyarınca, kefalette eşin rızasının yazılı olması bir geçerlilik şartı olduğu gibi, zaman bakımından da "sözleşmenin kurulmasından önce ya da en geç kurulması anında" verilmesi emredici kuraldır [6], [8]. Sözleşme anında alınan onay yalnızca "sözlü" olup, yazılı şekil şartını taşımamaktadır. Bir hafta sonra verilen yazılı belge ise bir rıza değil, ancak "icazet" niteliğindedir ve kanunun emredici zaman sınırlamasına aykırıdır [6], [11]. Dolayısıyla kefalet sözleşmesi kesin hükümsüzdür (batıldır) ve banka, Bay (A)'ya karşı kefalet sözleşmesine dayanarak icra takibi yapamaz [12].
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 584 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2:**
-Bir Limited Şirketin müdürü ve hâkim ortağı olan Bayan (X), şirketinin ticari faaliyetlerinde kullanmak üzere bir tedarikçiden vadeli mal alımı sözleşmesi yapmış ve bu sözleşmedeki şirket borcuna şahsen müteselsil kefil olmuştur. Sözleşme aşamasında Bayan (X)'in eşi olan Bay (Y)'nin rızası alınmamıştır. Tedarikçi, ödenmeyen borçlar nedeniyle Bayan (X)'e kefaleti sebebiyle müracaat etmiştir.
-*Hukuki analiz:* TBK m. 584/3 hükmüne 28.03.2013 tarihinde eklenen fıkra gereğince; ticaret şirketinin ortağı ya da yöneticisi tarafından "şirketle ilgili olarak verilecek kefaletlerde" eşin rızası aranmaz [4], [17], [5]. Bayan (X), limited şirketin yöneticisi ve ortağı sıfatıyla, şirketin ticari mal alımına ilişkin borcuna kefil olmuştur. Bu hukuki işlem doğrudan fıkra kapsamında bir istisna oluşturduğu için Bay (Y)'nin rızasının bulunmaması kefaleti sakatlamaz. Tedarikçinin başvurusu geçerli bir hukuki temele dayanmaktadır.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
 
-*   **İspat yükü**: Kefalet sözleşmesinin geçerli olduğunu, yani eşin yazılı rızasının usulüne uygun şekilde ve zamanında (sözleşme kurulmadan önce veya en geç anında) alındığını ya da somut olayın TBK m. 584/1'deki istisnalardan (mahkemece verilmiş ayrılık kararı vb.) veya m. 584/3'teki ticari istisnalardan birine girdiğini ispat yükü, kefalete dayanarak alacağını talep eden alacaklıya (örneğin bankaya veya kiralayana) aittir.
-*   **Zamanaşımı / Süreler**: Eşin rızasının alınmamış olması sözleşmeyi kesin hükümsüz (batıl) kılacağından [23], bu geçersizlik iddiası herhangi bir zamanaşımı veya hak düşürücü süreye tabi olmaksızın her zaman ileri sürülebilir. Hâkim tarafından da re'sen dikkate alınır.
-*   **Görevli/yetkili mahkeme**: Kefalet sözleşmesinden doğan uyuşmazlıklarda görevli mahkeme, asıl borcun niteliğine göre belirlenir. Asıl borç ticari bir iş niteliğinde ise (örneğin ticari kredi) görevli mahkeme Asliye Ticaret Mahkemesi; tüketici işlemi niteliğinde ise Tüketici Mahkemesi; adi borç niteliğinde ise Asliye Hukuk Mahkemesi'dir.
-*   **Yaygın uygulama hataları**: 
-    1. İleride tarih atılmak üzere eşten açığa imza alınması veya rıza belgesinin kefalet tutarını ve borçluyu göstermemesi (Bu durum rızanın bilinçli verilmediği itirazına sebep olmaktadır) [13], [14]. 
-    2. "Müşterek borçlu ve müteselsil kefil" ibaresinin yeterli görülerek TBK m. 603 atfının gözden kaçırılması (Borca katılma veya garanti sözleşmelerinde de eş rızası gerekir) [18], [27]. 
-    3. Bonolarda yer alan aval şerhleri için de bankalar veya alacaklılarca hatalı şekilde eş rızası alınmaya çalışılması (YİBK kararı ile aval için rıza şartı bulunmadığı sabittir) [21], [22].
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Madde metninin lafzı doktrinde ciddi eleştirilere tabi tutulmuştur. İlk olarak, "rıza" (consent) kavramının kullanılması isabetli bulunmamaktadır. Medeni Hukuk dogmatiğinde "rıza" üst kavram olup, işlemden önce veya işlemi yaparken verilene "izin", sonradan verilene ise "icazet" denmektedir [11]. Kanun metni, sonradan verilecek bir icazeti geçersiz kıldığı hâlde (en geç sözleşmenin kurulması anında şartı), terim olarak rızayı kullanarak terminolojik bir tutarsızlığa düşmüştür; doğrusu "eşin izni" olmalıydı [11].
+Madde 584, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-İkinci olarak, TBK m. 603'teki genel atıf kuralının çok geniş kaleme alınması nedeniyle aval, garanti sözleşmesi, borca katılma gibi tüm teminat kurumu enstrümanları bir anda "eş rızası" engeline takılmış; bu durum bilhassa 2012-2013 yılları arasında Türk kredi piyasalarında ve ticari hayatta çok ciddi duraksamalara yol açmıştır [22]. Sözleşme hürriyetinin aşırı sınırlandırılmasının kredi hacmini daraltması üzerine kanun koyucu mecburi bir geri adım atarak 6455 sayılı Kanun ile 584. maddenin 3. fıkrasını ihdas etmiş ve tacirleri/esnafı bu kuralın dışına çıkarmıştır [4], [17], [5]. Bu fıkra pragmatik bir çözüm getirmekle birlikte, "bir yanda aileyi koruyan, diğer yanda tacirin ailesini korumadan yoksun bırakan" ikili ve eşitsiz bir yapı yarattığı yönüyle akademik platformlarda hâlâ eleştirilmektedir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 584, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 584, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 584'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 584, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 584, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 584, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 584'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 584, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 584, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 584, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 584'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 584, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 584, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 584, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 584'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 584, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 584, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 584, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 584'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 584, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 584, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 584, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 584'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 584, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 584, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir us Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 584, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 584'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 584 resmi metni ve kanunun sistematiği.

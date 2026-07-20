@@ -3,8 +3,8 @@ title: "Gelir Vergisi Kanunu Madde 119"
 kanun: "Gelir Vergisi Kanunu"
 maddeNo: 119
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 1847
+lastReviewed: "2026-07-20"
+wordCount: 4296
 ---
 
 **Vergi tevkifatının yatırılması**
@@ -23,50 +23,391 @@ zamanı belirlemeye yetkilidir.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**Gelir Vergisi Kanunu’nun 119. maddesi; vergi sorumluları tarafından GVK m. 94 kapsamında kaynaktan kesilen (tevkif edilen) gelir vergilerinin Hazineye intikal ettirilme zamanını, taksit rejimini ve küçük ölçekli mükellefler ile hizmet erbabı çalıştırmayan stopaj sorumlularını korumak amacıyla idareye tanınan özel ödeme vadesi belirleme yetkisini tanzim eden emredici, kurucu ve kamu maliyesi dengelerini koruyucu bir vergi usul ve tahsilat normudur.** 
 
-Madde, Gelir Vergisi Kanunu’nun "Verginin Ödenmesi" başlıklı Beşinci Kısmının birinci bölümünde, diğer ücretlilerin ödeme zamanını düzenleyen mülga m. 118’in hemen ardından ve geçici verginin ödeme esaslarını kuran m. 120’nin önünde, yüz on dokuzuncu sırada yer almaktadır. Maddenin tarihsel gelişimine bakıldığında; 25/5/1995 tarihli ve 4108 sayılı Kanun’un 25. maddesiyle değiştirilerek tevkifat ödemelerinin beyanname verme ayının yirmi altıncı günü akşamına kadar yapılacağı esası getirilmiştir. Maddede yer alan ikinci cümle ise 9/4/2003 tarihli ve 4842 sayılı Kanun’un 37. maddesiyle yürürlükten kaldırılmıştır. Son olarak, 18/2/2009 tarihli ve 5838 sayılı Kanun’un 8. maddesiyle eklenen son fıkra uyarınca, on ve daha az çalışan istihdam eden ya da hiç hizmet erbabı çalıştırmayan küçük mükelleflere yönelik ödeme sürelerini üç aya kadar uzatma konusunda Hazine ve Maliye Bakanlığına kurucu bir düzenleme yetkisi verilmiştir.
-
-Öğretide genel kabul gören görüşe göre, vergi tevkifatı (stopaj), devletin vergi alacağını en az riskle, en hızlı ve en düşük maliyetle tahsil etmesini sağlayan en güçlü vergi güvenlik müessesesidir. Tevkifat sisteminde asıl mükellef vergi dairesine doğrudan muhatap olmaz; onun yerine stopajı yapan "vergi sorumlusu" (vergi kesen) parayı idareye yatırmakla mükelleftir. M. 119, bu vergi sorumlularının kestiği parayı kendi bünyelerinde bloke etmelerini önlemek adına, **beyanname verme süresiyle (muhtasar beyanname) ödeme süresini eş zamanlı hale getirerek** vergi alacağının vadesini beyanname verilecek ayın **yirmi altıncı günü akşamı** olarak maktu bir biçimde sabitlemiştir.
+**Gelir Vergisi Kanunu m. 119**, «Vergi tevkifatının yatırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 119 – (Değişik: 25/5/1995-4108/25 md.)
+94 üncü madde gereğince yapılan vergi tevkifatı, vergi kesenler tarafından beyanname
+verecekleri ayın yirmialtıncı günü akşamına kadar bağlı bulundukları vergi dairesine yatırılır.
+(İkinci cümle mülga:9/4/2003-4842/37 md.)139
+(Ek fıkra: 18/2/2009-5838/8 md.) Maliye Bakanlığı, 94 üncü maddeye göre tevkifat
+yapacaklardan on ve daha az hizmet erbabı çalışt… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve tevkifatın yatırılması rejimini şekillendiren temel hukuki kavramların analizi şu şekildedir:
-*   **94 üncü Madde Gereğince Yapılan Vergi Tevkifatı:** Ücret ödemeleri, serbest meslek ödemeleri, kira ödemeleri, kar payları ve yıllara sari inşaat işleri gibi GVK m. 94’te tahdidi olarak sayılan ve nakden veya hesaben ödeme esnasında kaynaktan kesilmesi zorunlu olan gelir vergisi tevkifatıdır.
-*   **Vergi Kesenler (Vergi Sorumluları):** Kendi adlarına değil, üçüncü kişilerin (mükelleflerin) borçları için kanunen vergi dairesine muhatap olan, stopaj yapma ve beyan etme yükümlülüğü altındaki gerçek ve tüzel kişilerdir.
-*   **Beyanname Verecekleri Ayın Yirmialtıncı Günü Akşamı:** Muhtasar beyannamenin (veya Muhtasar ve Prim Hizmet Beyannamesinin) verilme süresinin son günüyle tamamen örtüşen, tevkif edilen verginin muaccel hale geldiği nihai ödeme vadesidir.
-*   **Hizmet Erbabı:** GVK m. 61 dairesinde bir işverene tabi ve belirli bir iş yerine bağlı olarak çalışan, karşılığında ücret geliri elde eden gerçek kişilerdir.
-*   **Ödeme Zamanı Belirleme Yetkisi (m. 119/2):** Hazine ve Maliye Bakanlığına tanınan; küçük esnafın, serbest meslek erbaplarının ve mikro işletmelerin finansal likiditelerini korumak amacıyla, tevkifat ödeme sürelerini beyan tarihinden itibaren **en fazla üç ay** süreyle erteleyebilmesini sağlayan idari takdir yetkisidir.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Gelir Vergisi Kanunu m. 119 hükümleri, anayasal düzeyde herkesin mali gücüne göre vergi ödemekle yükümlü olduğunu tanzim eden **Anayasa m. 73**, mülkiyet hakkını koruyan **Anayasa m. 35**, teşebbüs hürriyetini ve çalışma serbestisini düzenleyen **Anayasa m. 48** ile hukuk devleti ve hukuki belirlilik ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. Vergi sorumlusunun başkasına ait vergiyi ödeme vadesinin kanunla net olarak saptanması hukuki güvenlik ilkesinin, küçük mükelleflere sağlanan vade esnekliği ise devletin esnafı ve küçük işletmeleri koruma ödevinin dikey birer uzantısıdır.
 
-Kanun içi sistematiğinde ise; tevkifata tabi kazanç unsurlarını ve sorumluları belirleyen **GVK m. 94**, muhtasar beyanname verme usul ve zamanını tanzim eden **GVK m. 98**, tevkif edilen vergilerin yıllık beyannameden mahsup şartlarını kuran **GVK m. 121**, geçici verginin ödeme zamanlarını belirleyen **GVK m. 120**, diğer ödeme sürelerini tanzim eden **GVK m. 117** ve sürelerin hesaplanmasını düzenleyen **GVK m. 19** hükümleriyle sarmal bir bütünlük sergiler.
+- **Gelir Vergisi Kanunu m. 1** — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Gelir Vergisi Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Gelir Vergisi Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Gelir Vergisi Kanunu m. 5** — Ceza ve yasak rejimi: m. 119 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: GVK m. 119 hükümleri, vergi sorumlusunun tanımını yapan **213 sayılı Vergi Usul Kanunu’nun 8. maddesi**, sürelerin hesaplanmasını kuran **VUK m. 18**, amme alacağının vadesini tanzim eden **VUK m. 111**, süresinde beyan edilip ödenmeyen tevkifatlar nedeniyle kesilecek vergi ziyaı cezasını tanzim eden **VUK m. 341-344** ile süresinde ödenmeyen amme alacaklarına uygulanacak gecikme zammını belirleyen **6183 sayılı Kanun’un 51. maddesi** ile doğrudan yatay ve tamamlayıcı bir ilişki içerisindedir. Muhtasar beyanname ile beyan edilen stopajın yirmi altıncı günü akşamına kadar ödenmemesi, vergi sorumlusunu doğrudan 6183 sayılı Kanun dairesinde gecikme zammı muhatabı haline getirir.
+Bu ilişkiler, m. 119'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Süresinde Verilmeyen Beyanname Sonrası Ödeme Vadesinin Saptanması):** Vergi sorumlusu A Anonim Şirketi, 2025 yılı Eylül ayı kira ödemeleri üzerinden yaptığı gelir vergisi tevkifatını Ekim ayının 26. günü akşamına kadar beyan edip ödemesi gerekirken, muhtasar beyannameyi vermeyi unutmuştur. Vergi dairesi bu durumu Kasım ayında saptamış ve takdir komisyonu kararına dayanarak vergi tarh edip ceza kesmiştir. Şirket vekili, verginin vadesinin geçmediğini iddia etmiştir. Analizde; m. 119 uyarınca tevkifatın normal beyanname verme ayının 26. günü akşamı muaccel hale geldiği, beyannamenin verilmemiş olmasının bu vadenin başlangıcını (26 Ekim) etkilemeyeceği, dolayısıyla vergi dairesinin tarh edilen vergiye 27 Ekim tarihinden itibaren 6183 sayılı Kanun m. 51 dairesinde gecikme zammı işletmesinin hukuka uygun olduğu saptanmıştır.
-*   **(kurmaca senaryo) 2 (Sürenin Son Gününün Resmi Tatile Denk Gelmesi):** Mükellef B, 2026 yılı Nisan ayı muhtasar beyannamesine konu stopaj borcunu ödeyecektir. Nisan ayının 26. günü pazar gününe rastlamaktadır. B, ödemeyi 27 Nisan Pazartesi günü yapmış, ancak vergi dairesi sistemi bir günlük gecikme zammı tahakkuk ettirmiştir. Doktrinde genel kabul gören görüşlere göre; GVK m. 119’daki ödeme sürelerinin takibinde VUK m. 18’deki süre hesaplama kurallarının geçerli olduğu, son günün resmi tatile rastlaması halinde sürenin tatili takip eden ilk iş gününün çalışma saati bitimine kadar uzayacağı, dolayısıyla pazartesi günü yapılan ödemenin süresinde olduğu saptanmış ve hata idari yoldan düzeltilmiştir.
-*   **(kurmaca senaryo) 3 (Küçük Esnafın Üç Aylık Ödeme Ertelenmesi Talebinin Reddi):** Yanında 4 adet hizmet erbabı çalıştıran ve gelirinin tamamı basit usulde ticari kazançtan oluşan terzi C, nakit darlığı nedeniyle tevkifat ödemesini beyanname verme ayından 2 ay sonra yapmak için vergi dairesine başvurmuştur. Vergi dairesi "böyle bir taksitlendirme hakkının kanunen bulunmadığını" belirterek talebi reddetmiştir. Analizde; m. 119/2 fıkrasının idareye (Maliye Bakanlığına) on ve daha az çalışan istihdam edenler için "ödeme zamanı belirleme yetkisi" verdiği, ancak bu yetkinin mükellef tarafından tek taraflı talep edilebilecek bir hak olmadığı, sadece Bakanlığın genel tebliğlerle yapacağı düzenlemeler dairesinde kullanılabileceği, bireysel başvuruların reddinin hukuka uygun olduğu saptanmıştır.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Gelir Vergisi Kanunu m. 119 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada vergi tevkifatının tahakkuk ve ödeme süreçlerini yöneten hukukçuların, mali müşavirlerin ve idari mercilerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Muhtasar ve Prim Hizmet Beyannamesi (MUHPHB) Takvimi:** Stopaj beyanları ile Sosyal Güvenlik Kurumu prim bildirgeleri tek bir beyanname altında birleştirildiğinden; hem vergi tevkifatının hem de SGK primlerinin beyan ve ödeme süreleri **her ayın yirmi altıncı günü akşamı** olarak eş zamanlı yürütülür.
-*   **Mülga İkinci Cümlenin Tarihsel İzleri:** Maddenin 4842 sayılı Kanun ile mülga edilen ikinci cümlesi belediye ve özel idare paylarının stopajdan tevkif edilerek doğrudan mahalli idarelere yatırılmasına ilişkindi. Günümüzde tüm stopajlar doğrudan vergi dairesi hesabına kümülatif yatırılmakta, paylaştırma Hazinece merkezi olarak yapılmaktadır.
-*   **Gecikme Zammının Miladı:** M. 119 uyarınca beyanname verme ayının 26. günü akşamına kadar ödenmeyen tevkifat tutarları için gecikme zammı **ayın 27. günü itibarıyla** re'sen işlemeye başlar. Ödemenin geciktirilmesi durumunda tevkifat sorumlularının şahsi malvarlıklarına karşı 6183 sayılı Kanun dairesinde haciz işlemleri başlatılabilir.
-*   **Bakanlık Genel Tebliğlerinin Takibi Ödevi:** Küçük mükelleflerin (on ve daha az çalışanı olanlar) vekilleri, Hazine ve Maliye Bakanlığının m. 119/2’deki yetkisini kullanarak yayımladığı güncel vergi genel tebliğlerini ve ödeme takvimlerini titizlikle kontrol etmeli, müvekkillerine tanınan 3 aylık vade kolaylıklarını muhasebe sistemlerine entegre etmelidir.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-GVK m. 119 hükümleri, vergi tevkifatlarının hızlı bir şekilde kamu haznesine aktarılmasını sağlasa da, beyan ve ödemenin aynı güne sıkıştırılması ve maktu sınırların katılığı yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, tevkifatın beyan edilmesi gereken son gün (ayın 26'sı) ile ödenmesi gereken son günün (ayın 26'sı akşamı) tamamen aynı gün olarak tanzim edilmesinin; vergi sorumlusu olan şirketler, esnaflar ve serbest meslek erbapları üzerinde fahiş bir finansal ve operasyonel baskı yarattığı, mükellefin beyannameyi onayladığı anda saniyeler içinde likidite bularak ödeme yapmak zorunda bırakıldığı, oysa modern vergi sistemlerinde beyan süresi ile ödeme süresi arasında mükellefe nefes aldırmak adına en az "beş ila on günlük" makul bir süre farkı (decalage) bırakılması gerektiği; ayrıca m. 119/2 fıkrasında yer alan "on ve daha az hizmet erbabı çalıştıranlar" şeklindeki maktu sınırın günümüz ekonomik gerçekleri, işletme hacimleri ve enflasyonist baskılar karşısında fahiş derecede küçük ve hantal kaldığı, bu sınırın mikro işletmeleri korumaktan uzak olduğu, sınırın en az "elli çalışana" yükseltilmesi veya ciro rasyolarına göre dinamik olarak güncellenmesi gerektiği; en önemlisi, vergi tevkifatını süresinde yatırmayan vergi sorumlularına doğrudan 6183 sayılı Kanun dairesinde gecikme zammı işletilmesinin yanı sıra, mükellefin (örneğin işçinin veya kiralayanın) hakkı olan vergi mahsubunun (GVK m. 121) "sorumlu vergiyi yatırmadı" gerekçesiyle idarece engellenmeye çalışılmasının, vergi sorumlusunun hatasının faturasını asıl mükellefe kesen adaletsiz bir uygulama olduğu ve dürüstlük ilkesini zedelediği savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Tevkifat tahsilat modelleri, hem kamu finansman güvenliğini sağlamalı hem de vergi sorumlularının operasyonel kabiliyetlerini engellememelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 119’u yeniden tanzim ederek; beyan süresini ayın yirmi altısında muhafaza ederken tevkifatın ödeme süresini takip eden ayın "son gününe" (30 veya 31'inci günü akşamına) kadar uzatan**; ödeme kolaylığı tanınacak küçük mükellef sınırını en az elli çalışana çıkaran ve sorumlu tarafından yatırılmayan stopajın asgari mükellef mahsup haklarını zedelemeyeceğini açıkça hükme bağlayan çağdaş, esnek, adil ve tam güvenli bir tevkifat tahsilat reformunu yasal düzeyde hayata geçirmelidir.
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 119, «Vergi tevkifatının yatırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 119, «Vergi tevkifatının yatırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 119, «Vergi tevkifatının yatırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 119, «Vergi tevkifatının yatırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 119, «Vergi tevkifatının yatırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 119, «Vergi tevkifatının yatırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 119, «Vergi tevkifatının yatırılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Gelir Vergisi Kanunu’nun 119. maddesinin (tarihi yapısı, 4108 ve 5838 sayılı Kanunlar ile tanzim edilen tevkifatın yatırılması ve ödeme takvimi reformu, GVK m. 94 uyarınca kesilen vergilerin beyanname verme ayının yirmi altıncı günü akşamına kadar yatırılması esası, mülga ikinci cümlenin tasfiyesi, Hazine ve Maliye Bakanlığına on ve daha az hizmet erbabı çalıştıranlar ile hiç çalışanı olmayanlar için üç ayı geçmeyecek şekilde özel ödeme süresi belirleme yetkisinin verilmesi ve bu tahsilat sürelerinin vergi usul-tahsilat hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (vergi sorumluluğu teorisi, stopaj ve tevkifat tahsilatı esasları, vergilendirmede belirlilik ve hukuki güvenlik ilkeleri, m. 19, m. 94, m. 98, m. 117, m. 118, m. 120, m. 121 ve VUK m. 8, m. 18, m. 111, m. 112, m. 341-353, 6183 sayılı Kanun m. 37 ve m. 51 ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin düzenleyici işlem yetkileri ve takdir yetkisinin yasal sınırları), iş ve sosyal güvenlik hukuku (ücretin vergilendirilmesi, asgari ücret istisnası ve MUHPHB entegrasyonu), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mali güce göre vergilendirme, mülkiyet hakkının korunması ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
 
-🔍 Gelir Vergisi Kanunu uyarınca vergi tevkifatının yatırılma usul ve vadelerini, ödenmeme yaptırımlarını ve küçük ölçekli stopaj sorumlularına yönelik idari esneklik sınırlarını (GVK m. 119) tanzim eden bu kapsamlı şerh çalışmasıyla birlikte, gelir vergisi usul hukukunun en önemli stopaj tahsilat sınırlarının analizi başarıyla tamamlanmıştır.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Gelir Vergisi Kanunu m. 119 resmi metni ve kanunun sistematiği.

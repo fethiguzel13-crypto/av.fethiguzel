@@ -10,7 +10,7 @@ export default function MevzuatPage() {
   return (
     <div className="bg-cream min-h-screen font-sans">
       <Navbar />
-      
+
       <main className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
         <header className="mb-20 text-center">
           <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Dijital Hukuk Kütüphanesi</h2>
@@ -18,8 +18,9 @@ export default function MevzuatPage() {
             Mevzuat ve <span className="font-drama italic text-accent">İçtihat Bankası</span>
           </h1>
           <p className="text-charcoal/60 max-w-2xl mx-auto text-lg">
-            Türkiye'nin en kapsamlı özel hukuk arşivinde akademik standartlarda arama yapın. 
-            Medeni Hukuk, Borçlar Hukuku ve Ticaret Hukuku dokümanlarına erişin.
+            Medeni, borçlar, ticaret, ceza, usul, vergi, iş ve idare hukuku mevzuatı;
+            madde metni ile akademik şerh aynı sayfada. Türkiye&apos;nin en kapsamlı
+            dijital hukuk kütüphanelerinden biri.
           </p>
         </header>
 
@@ -36,38 +37,38 @@ export default function MevzuatPage() {
                     {category.kanunId.toUpperCase()}
                   </span>
                 </div>
-                
+
                 <h3 className="text-2xl font-heading font-bold text-charcoal mb-4">{category.name}</h3>
                 <p className="text-charcoal/60 text-sm mb-8">{category.description}</p>
-                
+
                 <div className="space-y-4">
-                   <Link 
-                     href={`/kategori/${category.slug}`}
-                     className="block w-full text-center py-3 bg-charcoal text-white rounded-xl text-sm font-bold hover:bg-accent transition-colors"
-                   >
-                     TÜMÜNÜ İNCELE
-                   </Link>
-                   
-                   <details className="group/details">
-                     <summary className="list-none cursor-pointer text-center text-xs font-bold text-accent tracking-widest flex items-center justify-center gap-2">
-                       SON MADDELER ({articles.length})
-                       <Search size={14} />
-                     </summary>
-                     <div className="mt-4 max-h-48 overflow-y-auto space-y-2 pr-2 scrollbar-thin">
-                       {articles.slice(0, 20).map(article => (
-                         <Link 
-                           href={`/mevzuat/${article.kanunId}/${article.id}`} 
-                           key={article.id}
-                           className="block text-xs text-charcoal/70 hover:text-accent border-b border-charcoal/5 pb-2 transition-colors"
-                         >
-                           {article.title}
-                         </Link>
-                       ))}
-                       {articles.length > 20 && (
-                         <p className="text-[10px] text-center text-charcoal/30 pt-2 italic">...ve daha fazlası</p>
-                       )}
-                     </div>
-                   </details>
+                  <Link
+                    href={`/kategori/${category.slug}`}
+                    className="block w-full text-center py-3 bg-charcoal text-white rounded-xl text-sm font-bold hover:bg-accent transition-colors"
+                  >
+                    TÜMÜNÜ İNCELE
+                  </Link>
+
+                  <details className="group/details">
+                    <summary className="list-none cursor-pointer text-center text-xs font-bold text-accent tracking-widest flex items-center justify-center gap-2">
+                      SON MADDELER ({articles.length})
+                      <Search size={14} />
+                    </summary>
+                    <div className="mt-4 max-h-48 overflow-y-auto space-y-2 pr-2 scrollbar-thin">
+                      {articles.slice(0, 20).map(article => (
+                        <Link
+                          href={`/mevzuat/${article.kanunId}/${article.id}`}
+                          key={article.id}
+                          className="block text-xs text-charcoal/70 hover:text-accent border-b border-charcoal/5 pb-2 transition-colors"
+                        >
+                          {article.title}
+                        </Link>
+                      ))}
+                      {articles.length > 20 && (
+                        <p className="text-[10px] text-center text-charcoal/30 pt-2 italic">...ve daha fazlası</p>
+                      )}
+                    </div>
+                  </details>
                 </div>
               </div>
             );

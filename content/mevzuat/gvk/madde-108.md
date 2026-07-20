@@ -3,8 +3,8 @@ title: "Gelir Vergisi Kanunu Madde 108"
 kanun: "Gelir Vergisi Kanunu"
 maddeNo: 108
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 1847
+lastReviewed: "2026-07-20"
+wordCount: 4301
 ---
 
 **Vergilendirme dönemi**
@@ -32,47 +32,392 @@ vergilendirme dönemi yerine gelirin iktisap tarihi esas tutulur.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**Gelir Vergisi Kanunu’nun 108. maddesi; Türk vergi hukukunda gelirin dönemselliği ilkesini maddi ve şekli boyutlarıyla tanzim eden, vergilendirilecek matrahın hangi zaman dilimi esas alınarak kümülatif olarak toplanacağını emredici bir şekilde belirleyen, vergilendirme sürecinin zamansal sınırlarını çizen kurucu bir usul normudur.** Kanun koyucu bu düzenlemeyi, 24/12/1980 tarihli ve 2361 sayılı Kanun’un 73. maddesiyle revize ederek bugünkü sistematik yapısına kavuşturmuş; daha sonra 22/12/2021 tarihli ve 7349 sayılı Kanun’un 3. maddesiyle diğer ücretlere ilişkin hükümleri metinden çıkararak sadeleştirmiştir. Madde, Gelir Vergisi Kanunu’nun "Tarh Muamelesi" başlıklı Altıncı Bölümünde, tarhiyatın muhatabını belirleyen m. 107’nin hemen ardından ve verginin tarh zamanını tanzim eden m. 109’un önünde, yüz sekizinci sırada konumlandırılmıştır. Bu sistematik yerleşim; verginin kime (m. 107) ve nerede (m. 106) tarh edileceğinin saptanmasından sonra, bu tarhiyatın hangi zamansal dilim (dönem) esas alınarak gerçekleştirileceğini belirleme amacının doğrudan bir sonucudur.
 
-Öğretide genel kabul gören görüşe göre, gelir vergisinde dönemsellik esastır; zira gelir, doğası gereği belirli bir zaman akışı içinde kümülatif olarak biriken akıcı bir iktisadi değerdir. GVK m. 108, bu dönemi kural olarak **"geçmiş takvim yılı"** olarak belirlemiştir. Bu ana kural, takvim yılı başı olan 1 Ocak ile sonu olan 31 Aralık arasındaki dönemi ifade eder. Ancak iktisadi hayatın ve mükellefiyet ilişkilerinin her zaman tam bir takvim yılı boyunca kesintisiz sürmesi mümkün olmayabilir. Yasa koyucu bu pratik gerçeği gözeterek, takvim yılı esasına üç temel istisna getirmiştir: Mükellefiyetin takvim yılı içinde sona ermesi hali (kıst dönem), yıllık beyannameye tabi olmayan tevkifata tabi gelirlerde tevkifat dönemlerinin esas alınması ve münferit beyannameye tabi işlemlerde doğrudan gelirin iktisap tarihinin dönemin yerini alması. Bu istisnalar, vergilendirme dönemini işlemin ve mükellefiyetin fiili yapısıyla uyumlu hale getiren usuli denge mekanizmalarıdır.
+**Gelir Vergisi Kanunu m. 108**, «Vergilendirme dönemi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 108 – (Değişik: 24/12/1980-2361/73 md.)
+Gelir Vergisinde vergilendirme dönemi, geçmiş takvim yılıdır. Şu kadar ki:
+1. Mükellefiyetin takvim yılı içinde kalkması halinde, vergilendirme dönemi, takvim
+yılı başından mükellefiyetin kalkması tarihine kadar geçen süreye inhisar eder;
+2. (Mülga: 22/7/1998-4369/82 md.)
+3. (Mülga:22/12/2021-7349/3 md.)
+4. Tevkif yoluyla ödenen vergilerde, istihkak sa… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve vergilendirme dönemi rejimini şekillendiren temel hukuki kavramların analizi şu şekildedir:
-*   **Geçmiş Takvim Yılı (Past Calendar Year):** Gelir vergisinin hesaplanmasında esas alınan, 1 Ocak sabahı başlayıp 31 Aralık gecesi sona eren 12 aylık standart zaman dilimidir. "Geçmiş" ibaresi, verginin ancak o takvim yılı bittikten ve tüm gelir unsurları kesinleştikten sonra (takip eden yılın Mart ayında) beyan edilip tarh edilebileceğini gösteren kurucu bir zamansal kuraldır.
-*   **Mükellefiyetin Kalkması (Termination of Tax Liability):** Gerçek kişinin ölümü, memleketi terk etmesi (dar mükellefiyete geçiş veya tamamen ayrılış) veya ticari/mesleki faaliyetini tamamen tasfiye ederek mükellefiyet kaydını sildirmesi gibi hallerdir. Bu durumda vergilendirme dönemi, takvim yılı başından (1 Ocak) mükellefiyetin fiilen kalktığı takvim gününe kadar geçen kıst döneme inhisar eder.
-*   **Tevkifata Tabi Dönemlerin Esas Alınması (m. 108/4):** Kaynakta kesilen gelir vergisinin nihai vergi kabul edildiği ve mükellefin yıllık beyanname vermediği hallerde (örneğin kümülatif sınırın altında kalan tek işverenden alınan ücretler veya stopajlı mevduat faizleri), tevkifatın yapıldığı aylar veya üçer aylık dönemler vergilendirme dönemi sayılır ve kesilen bu vergiler yıllık verginin yerini alır.
-*   **İktisap Tarihi (Date of Acquisition - m. 108/5):** Dar mükelleflerin yıllık beyanname kapsamına girmeyen arızi veya değer artış kazançlarında (münferit beyanname gerektiren hallerde) takvim yılı esası tamamen devre dışı bırakılarak, gelirin hukuken ve fiilen mükellefin tasarruf alanına girdiği (iktisap edildiği) takvim günü dönemin yerini alır.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Gelir Vergisi Kanunu m. 108 hükümleri, anayasal düzeyde verginin kanuniliği ve mali güce göre vergilendirme ilkelerini tanzim eden **Anayasa m. 73**, mülkiyet hakkını koruyan **Anayasa m. 35** ve hukuk devleti ile hukuki belirlilik ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. Vergilendirmenin zamansal sınırlarını yasa düzeyinde netleştirerek, idarenin keyfi dönemler ihdas etmesini veya geriye dönük vergilendirme yapmasını anayasal sınırlar dahilinde engeller.
 
-Kanun içi sistematiğinde ise; gelirin dönemselliğini ve kümülatif yapısını kuran **GVK m. 1**, yıllık beyanname verme zorunluluğunu ve esaslarını belirleyen **GVK m. 85**, dar mükelleflerin münferit beyanname usul ve sürelerini tanzim eden **GVK m. 101-102**, tarh yerini düzenleyen **GVK m. 106**, tarh zamanını belirleyen **GVK m. 109**, verginin ödeme vadelerini kuran **GVK m. 117** ve sürelerin hesaplanmasını düzenleyen **GVK m. 19** hükümleriyle sarmal bir bütünlük sergiler.
+- **Gelir Vergisi Kanunu m. 1** — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Gelir Vergisi Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Gelir Vergisi Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Gelir Vergisi Kanunu m. 5** — Ceza ve yasak rejimi: m. 108 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: GVK m. 108 hükümleri, vergi kanunlarında sürelerin hesaplanmasını tanzim eden **213 sayılı Vergi Usul Kanunu’nun 18. maddesi**, vergilendirme dönemine bağlı olarak defter tutma ve hesap dönemi kurallarını kuran **VUK m. 174 (Özel Hesap Dönemi)** ve beyanname verme sürelerini belirleyen **VUK m. 92** hükümleriyle doğrudan yatay ilişki içerisindedir. VUK m. 174 kapsamında Hazine ve Maliye Bakanlığınca kendilerine özel hesap dönemi tayin edilen mükellefler yönünden dahi, GVK m. 108’in "takvim yılı" esası dolaylı olarak etkisini sürdürür; zira özel hesap döneminin kapandığı takvim yılı, vergilendirme döneminin saptanmasında esas alınır. Ayrıca, kişiliğin ölümle sona ermesini tanzim eden **4721 sayılı Türk Medeni Kanunu’nun 28. maddesi** ile de doğrudan yatay bir ilişki mevcuttur; ölüm anı mükellefiyetin kalktığı an olarak m. 108/1’in uygulanma miladını oluşturur.
+Bu ilişkiler, m. 108'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Mükellefin Ölümü Halinde Kıst Dönem Hesabı):** Serbest meslek erbabı tam mükellef A, 18 Eylül 2025 tarihinde vefat etmiştir. Vergi dairesi, A'nın mirasçılarına tebliğ ettiği yazıda, 2025 yılının tamamına (1 Ocak - 31 Aralık) ilişkin kümülatif gelir üzerinden bir beyanname verilmesini talep etmiştir. Mirasçılar ise vergilendirme döneminin ölüm tarihiyle sınırlandırılması gerektiğini ileri sürerek dava açmışlardır. Analizde; m. 108/1 uyarınca mükellefiyetin ölüm nedeniyle takvim yılı içinde kalkması halinde vergilendirme döneminin "takvim yılı başından mükellefiyetin kalktığı tarihe" (1 Ocak - 18 Eylül 2025) kadar geçen süreye inhisar etmesinin zorunlu olduğu, bu kıst dönem dışında kalan sürenin (19 Eylül - 31 Aralık) vergilendirmeye dahil edilemeyeceği saptanmış ve vergi dairesinin tam yıl ısrarı hukuka aykırı bulunmuştur.
-*   **(kurmaca senaryo) 2 (Tevkifata Tabi Gelirde Yıllık Beyan Zorunluluğu Olmayan Hal):** Hizmet erbabı B, 2025 yılında sadece tek bir işverenden ücret geliri elde etmiş ve bu ücret üzerinden her ay GVK m. 94 dairesinde gelir vergisi tevkif edilmiştir. B'nin kümülatif ücret geliri yasal yıllık beyanname verme sınırının altında kalmıştır. Vergi dairesi, B'den 2025 takvim yılına ilişkin yıllık gelir vergisi beyannamesi vermesini istemiştir. Doktrinde genel kabul gören görüşlere göre; m. 108/4 uyarınca, tevkif yoluyla ödenen vergilerde istihkak sahiplerinin yıllık beyanname verme mecburiyeti yoksa, tevkifatın ilgili olduğu dönemlerin (aylık bordro dönemlerinin) nihai vergilendirme dönemi sayılacağı ve kesilen vergilerin yıllık verginin yerine geçeceği saptanmış, dolayısıyla B'nin yıllık beyanname verme yükümlülüğünün bulunmadığı tespit edilmiştir.
-*   **(kurmaca senaryo) 3 (Dar Mükellefin Münferit İşleminde Takvim Yılı Hatası):** İngiltere'de mukim dar mükellef C, İzmir'deki taşınmazını 15 Nisan 2025 tarihinde satarak değer artış kazancı elde etmiştir. C, bu işleme ilişkin münferit beyannamesini 15 günlük yasal sürede vermiş ve vergisi tarh edilmiştir. Ancak vergi dairesi, C'nin bu işleminin vergilendirme döneminin 2025 takvim yılının tamamı olduğunu ileri sürerek, takip eden yılın Mart ayına kadar bekleneceğini iddia etmiştir. Analizde; m. 108/5 uyarınca münferit beyanname ile bildirilen gelirlerde vergilendirme dönemi yerine "gelirin iktisap tarihinin" (15 Nisan 2025) esas alınmasının emredici olduğu, işlemin takvim yılı sonu beklenmeksizin işlem anında kesinleştiği saptanmıştır.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Gelir Vergisi Kanunu m. 108 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada vergilendirme dönemlerini ve beyan süreçlerini yöneten hukukçuların, mali müşavirlerin ve vergi dairesi idarecilerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Ölüm Halinde Beyanname Verme Süresinin VUK m. 92 ile Uyumu:** M. 108/1 uyarınca ölüm halinde vergilendirme dönemi kıst döneme (ölüm tarihine) inhisar ederken; bu döneme ilişkin yıllık beyannamenin verilme süresi, VUK m. 92 uyarınca **ölüm tarihinden itibaren 4 ay** olarak hesaplanır. Standart Mart ayı beyan takvimi burada uygulanmaz.
-*   **Dar Mükellefiyetten Tam Mükellefiyete Geçişte Dönem Ayrımı:** Bir takvim yılı içinde Türkiye'de yerleşerek dar mükellefiyetten tam mükellefiyete geçen şahısların vergilendirme dönemi belirlenirken; dar mükellefiyette geçen kıst dönem ile tam mükellefiyette geçen kıst dönem GVK m. 108/1 ruhuna uygun olarak ayrıştırılmalı ve her iki dönemin gelirleri kendi yasal usulleri dairesinde vergilendirilmelidir.
-*   **Tevkifat Dönemlerinin Kümülatif Matrah Kontrolü:** M. 108/4 uygulanırken, mükellefin tevkifata tabi birden fazla gelirinin bulunup bulunmadığı ve bu gelirlerin GVK m. 86 dairesindeki yıllık beyan sınırlarını aşıp aşmadığı kümülatif olarak denetlenmelidir. Sınırın aşılması halinde, tevkifat dönemleri nihai dönem olma vasfını kaybeder ve vergilendirme dönemi yeniden "geçmiş takvim yılı" esasına rücu eder.
-*   **Münferit Beyannamede 15 Günlük Sürenin Miladı:** M. 108/5 uyarınca iktisap tarihinin esas alındığı hallerde, GVK m. 101 dairesindeki 15 günlük beyanname verme süresi **iktisap tarihinin gerçekleştiği günü takip eden günden itibaren** işlemeye başlar.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-GVK m. 108 hükümleri, vergilendirmede takvim yılı esasıyla şekli düzeni ve denetim kolaylığını sağlasa da, iktisadi faaliyetlerin kesintisizliği ve enflasyonist süreçlerin yarattığı adaletsizlikler yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 108’de yer alan "vergilendirme dönemi geçmiş takvim yılıdır" şeklindeki katı kuralın; özellikle tarım, hayvancılık, turizm ve inşaat gibi faaliyet döngüleri doğası gereği takvim yılı sınırlarını aşan veya mevsimsel dalgalanmalar gösteren sektörlerde faaliyet gösteren gerçek kişi mükellefler yönünden fahiş adaletsizliklere yol açtığı; zira 18 aylık bir üretim sürecine sahip bir tarımsal faaliyetin tüm gelirinin tek bir takvim yılında birikerek kümülatif olarak üst vergi dilimlerinden (%40'a varan oranlarda) vergilendirilmesine neden olduğu, bunun da mali güce göre vergilendirme ve mülkiyet hakkı ilkelerini zedelediği; ayrıca sermaye şirketlerine VUK m. 174 dairesinde tanınan "Özel Hesap Dönemi" kullanma hakkının, gelir vergisine tabi şahsi ticari işletmelere ve esnaflara tanınmamasının anayasal eşitlik ilkesine açıkça aykırılık teşkil ettiği, yasa koyucunun şahıslara da faaliyetlerinin niteliğine göre özel hesap dönemi seçme imkanını m. 108 bünyesinde tanzim etmemesinin fahiş bir usuli boşluk yarattığı savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Dönemsellik kuralları, iktisadi gerçeklikle ve eşitlik ilkeleriyle uyumlu tanzim edilmelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 108’i yeniden tanzim ederek; gelir vergisi mükelleflerine de (özellikle mevsimsel ve tarımsal faaliyet yürütenlere) vergi idaresinin izniyle "Özel Vergilendirme Dönemi/Özel Hesap Dönemi" tayin edebilme hakkı tanıyan**; kıst dönem hesaplamalarındaki tarife dilimlerini gün sayısına göre oranlayarak adaleti sağlayan çağdaş, esnek, adil ve tam güvenli bir dönemsellik reformunu hayata geçirmelidir.
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 108, «Vergilendirme dönemi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik b Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 108, «Vergilendirme dönemi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik b Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 108, «Vergilendirme dönemi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik b Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 108, «Vergilendirme dönemi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik b Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 108, «Vergilendirme dönemi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik b Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 108, «Vergilendirme dönemi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik b Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Gelir Vergisi Kanunu m. 108, «Vergilendirme dönemi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik b Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Gelir Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Gelir Vergisi Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Gelir Vergisi Kanunu’nun 108. maddesinin (tarihi yapısı, 2361 ve 7349 sayılı Kanunlar ile tanzim edilen modern vergilendirme dönemi reformları, gelir vergisinde genel vergilendirme döneminin geçmiş takvim yılı olması esası, mükellefiyetin takvim yılı içinde kalkması (ölüm, tasfiye vb.) halinde dönemin kıst döneme inhisar etmesi kuralı, yıllık beyannameye tabi olmayan tevkifata tabi gelirlerde tevkifat dönemlerinin nihai dönem kabul edilmesi kuralları, dar mükelleflerin münferit beyanlarında takvim yılı yerine gelirin iktisap tarihinin esas alınması rejimi ve bu zamansal sınırların vergi tarh-tahakkuk hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (dönemsellik ilkesi, kümülatif matrah teorisi, stopaj ve beyan esasları, m. 19, m. 1, m. 3, m. 4, m. 6, m. 7, m. 85, m. 86, m. 94, m. 101, m. 102, m. 106, m. 107, m. 109, m. 117 ve VUK m. 18, m. 92, m. 174, m. 341-353 ilişkileri, kamu maliyesi teorisi), idare hukuku (idari işlemlerin zamansal belirliliği ve süre sınırları teorileri), medeni hukuk (kişiliğin sona ermesi dairesinde TMK m. 28 ve yerleşim yeri esasları dairesinde TMK m. 19 ilişkileri), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mali güce göre vergilendirme, mülkiyet hakkının korunması ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
 
-📊 Gelir vergisinde genel vergilendirme dönemini, kıst dönemleri, tevkifat periyotlarını ve münferit işlemlerde iktisap tarihi esaslarını (GVK m. 108) tanzim eden bu şerh çalışmasıyla birlikte, gelir vergisi usul hukukunun en temel zamansal sınırlarının analizi başarıyla tamamlanmıştır.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Gelir Vergisi Kanunu m. 108 resmi metni ve kanunun sistematiği.

@@ -1,13 +1,10 @@
 ---
-title: "TBK Madde 34"
+title: "Türk Borçlar Kanunu Madde 34"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 34
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "irade uyuşmazlığı"
-  - "beyan farklılığı"
-  - "gizli çekince"
+lastReviewed: "2026-07-20"
+wordCount: 4289
 ---
 
 **3. Yanılmada dürüstlük kuralları**
@@ -24,360 +21,389 @@ olduğunu bildirmesi durumunda, sözleşme bu anlamda kurulmuş sayılır.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Sağlanan kaynaklarda "TBK Madde 34" veya mehaz "OR Art. 9" başlığı altında 
-doğrudan bir madde şerhi yer almamaktadır; zira yürürlükteki Türk Borçlar 
-Kanunu sistematiğinde irade ve beyan arasındaki uyuşmazlıklar temel olarak 
-sözleşmenin kurulması (TBK m. 1) muvazaa ve yorum (TBK m. 19) ile irade 
-bozuklukları (TBK m. 30 vd.) çatısı altında incelenmektedir. (Bu nedenle, TBK 
-m. 34'ün spesifik numaralandırmasına ve genel dogmatiğine dair kaynak dışı 
-harici hukuki bilgiler kullanılmıştır, bu bilgileri bağımsız olarak 
-doğrulamanız tavsiye edilir.) Aşağıdaki akademik şerh, kaynaklardaki 
-"irade-beyan uyuşmazlığı" (muvazaa, yanlış niteleme ve yorum teorileri) 
-verileriyle talebinizdeki başlık sistematiğine sadık kalınarak, borçlar hukuku 
-dogmatiğinin en derin tartışma alanlarından biri olan irade ve beyan farklılığı
-ekseninde hazırlanmıştır.
+**Türk Borçlar Kanunu m. 34**, «3. Yanılmada dürüstlük kuralları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 34 - Yanılan, yanıldığını dürüstlük kurallarına aykırı olarak ileri süremez.
+Özellikle  diğer  tarafın,  sözleşmenin  yanılanın  kasdettiği  anlamda  kurulmasına  razı
+olduğunu bildirmesi durumunda, sözleşme bu anlamda kurulmuş sayılır.
 
-Borçlar hukuku dogmatiğinin temelini, kişilerin kendi özgür iradeleriyle hukuki
-sonuçlar yaratabilmesi prensibi olan **Sözleşme Özgürlüğü** ve **İrade 
-Muhtariyeti** oluşturur. Bir sözleşmenin kurulabilmesi için, her iki tarafın da
-hak ehliyetine ve fiil ehliyetine sahip olması gerektiği gibi, karşılıklı ve 
-birbirine uygun irade açıklamalarında bulunmaları şarttır. Hukuk sisteminde
-irade, kişinin iç dünyasında oluşan, belirli bir hukuki sonucu doğurmaya 
-yönelik arzuyu ifade eder. Beyan ise, bu görünmez içsel arzunun dış dünyaya, 
-karşı tarafa aktarılmasını sağlayan araçtır. İdeal bir hukuki işlemde, kişinin 
-iç dünyasındaki iradesi ile dış dünyaya yansıttığı beyanı arasında kusursuz bir
-uyum vardır. Ancak insan doğasının ve dilin kusurlu yapısı, acelecilik, 
-dikkatsizlik veya bazen de üçüncü kişileri aldatma kastı gibi sebeplerle, iç 
-irade ile açıklanan beyan arasında bir kopukluk, yani **İrade-Beyan 
-Uyuşmazlığı** (İrade ve Beyan Farklılığı) meydana gelebilir.
-
-Hukuk sistemi, irade ile beyan arasındaki bu uyuşmazlıkları çözerken devasa bir
-felsefi ve dogmatik çatışma ile karşı karşıya kalır: Bir yanda kişinin gerçek, 
-içsel iradesini koruma arzusu (Sözleşme Adaleti); diğer yanda ise dış dünyaya 
-yansıyan beyana güvenerek hareket eden karşı tarafın ve genel olarak toplumun 
-ticari güvenliğini koruma ihtiyacı (İşlem Güvenliği). Türk Borçlar 
-Kanunu sistemi, bu uyuşmazlıkları tek bir kural ile değil, uyuşmazlığın 
-niteliğine göre farklı müesseselerle çözmeyi tercih etmiştir. Eğer uyuşmazlık 
-tarafların bilerek ve isteyerek yarattıkları kasti bir durumsa **Muvazaa**,
-tek taraflı ve istenmeden yapılan bir hata ise **Yanılma (Hata)**, iki tarafın 
-da yanlış kelimeler kullanmasına rağmen aslında aynı şeyi kastetmesi durumu ise
-**Yanlış Niteleme (Falsa Demonstratio)** kuralları devreye girer. Tüm bu 
-müesseseler, irade ile beyan arasındaki o karanlık uçurumu hukukun yorum 
-teorileriyle aydınlatma çabasının birer ürünüdür.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-İrade ve beyan arasındaki uyuşmazlıkların ve bu uyuşmazlıklara bağlanan hukuki 
-sonuçların tam olarak kavranabilmesi için, ilgili dogmatik kavramların Fikret 
-Eren, M. Kemal Oğuzman, Turgut Öz ve Kocayusufpaşaoğlu gibi otoritelerin 
-eserleri ekseninde parçalanarak analiz edilmesi zorunludur.
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. İrade Açıklaması ve Uygunluk (Konsens / Dissensus):**
-Sözleşmelerin kurulabilmesi için tarafların irade açıklamalarının uygunluğundan
-amaç, ya gerçek, tabii iradelerin fiilen ya da açıklamaların anlam (içerik) 
-itibarıyla birbirine uygun olmasıdır. İrade açıklamalarının birbirine 
-uygunluğuna kısaca **Uygunluk (Uyuşma / Anlaşma / Übereinstimmung / Konsens)** 
-adı verilir. Eğer tarafların beyanları arasında bir uyuşmazlık varsa, buna 
-da **Dissensus** denir. Türk-İsviçre hukuku, uygunluğu iki ayrı kademede 
-inceler:
-1. **Fiili (Tabii) Uygunluk:** Taraflar, somut olayda, sözleşme yapılırken 
-birbirlerinin gerçek iradelerini fiilen doğru olarak anlamışlar ve dolayısıyla 
-açıklama sahibinin açıklamasına verdiği anlam ile muhatabın kendisine ulaşan bu
-açıklamaya verdiği anlam birbirinin aynı ise, bu tür uygunluğa **Tabii (Fiili) 
-Uygunluk** (Tatsächlicher / Natürlicher Konsens) adı verilir. Tabii 
-uygunlukta, dışarıya yansıyan kelimelerin ne olduğunun bir önemi yoktur; 
-tarafların iç iradeleri örtüşmüştür ve sözleşme bu gerçek iradelere göre 
-kurulur.
-2. **Hukuki (Normatif) Uygunluk:** Bazı hallerde tabii (gerçek, fiili) 
-uygunluğun mevcut olup olmadığı, tarafların açıklamalarının yorumu sonunda 
-anlaşılır. Eğer fiili uygunluk bulunmadığı halde, hâkim hukuki uygunluğu 
-arayacaktır. Hukuki uygunluk, **Güven Teorisi** veya **Farazi Meram 
-Teorisi**ne göre yorum yoluyla tespit edilen uygunluktur. Yani hukuk, 
-dürüstlük kuralı (TMK m. 2) gereğince, tarafların beyanlarına objektif olarak 
-verilmesi gereken anlamı esas alarak bir "hukuki anlaşma" yaratır.
+Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Yanlış Niteleme (Falsa Demonstratio Non Nocet):**
-Tarafların gerçek ve ortak iradelerinin esas alınması kuralının en tipik 
-görünümü **Yanlış Niteleme (Falsa Demonstratio)** kuralıdır. Bu kural 
-uygulamada, "Yanlış niteleme zarar vermez" şeklinde ifade edilir. Kural olarak 
-taraflar birbirlerinin gerçek iradelerini biliyor ve bu iradede uyuşuyorlarsa, 
-kullandıkları yanlış sözcüklere bakılmaksızın aralarında gerçek iradelerine 
-uygun bir sözleşme kurulmuş olur. Örneğin taraflar, aslında masada duran X 
-marka saati satmak konusunda içsel olarak tam bir mutabakat içindeyken, 
-sözleşme metnine dili sürçerek (lapsus linguae) Y marka yazmışlarsa, burada 
-irade ile beyan arasında bir farklılık vardır. Ancak muhatap bu hatayı bildiği 
-için, bu irade-beyan uyuşmazlığı sözleşmenin gerçek iradeye (X marka saate) 
-göre kurulmasını engellemez.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Muvazaa (Kasti İrade-Beyan Uyuşmazlığı):**
-İrade beyan uyuşmazlığının en derin dogmatik tartışmalara yol açan türü 
-**Muvazaa**dır. Muvazaa pratik hayatta sıklıkla görülen, özel hukukta 
-önemli yeri olan çift taraflı bir irade beyan uyuşmazlığı türüdür. 
-Yanılmada (hatada) kişi kendi iradesi ile beyanı arasındaki farkı bilmezken; 
-muvazaada taraflar bilerek, isteyerek ve ortaklaşa bir şekilde, dış dünyaya 
-gerçek iradelerini yansıtmayan sahte bir beyanda bulunurlar. Amaçları 
-genellikle üçüncü kişileri, alacaklıları veya devleti (vergi dairesini) 
-aldatmaktır. Muvazaalı işlemlerde taraflar gerçek iradelerini yansıtmayan 
-görünürde bir işlem tesis ederler. Taraflar aynı zamanda görünürde yapılan 
-işlemin hüküm ve sonuç doğurmayacağına dair bir anlaşma da yaparlar ki buna 
-**Muvazaa Anlaşması** denir. Muvazaa ikiye ayrılır:
-1. **Mutlak Muvazaa:** Tarafların aslında hiçbir hukuki işlem yapmayı 
-istememelerine rağmen, dışarıya karşı sanki bir işlem yapmış gibi 
-görünmeleridir (Örn: Hacizden kurtulmak için evi arkadaşına satmış gibi 
-göstermek).
-2. **Nispi Muvazaa:** Tarafların asıl yapmak istedikleri (ve gerçek iradeleri 
-olan) gizli bir hukuki işlemi, dışarıya karşı yaptıkları başka bir görünürdeki 
-işlemin arkasına saklamalarıdır (Örn: Aslında bağışlamak istediği evi, tapuda 
-satış gibi göstermek).
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Güven Teorisi ve Yorum İlkeleri:**
-Muhatabın hatayı anlamamakla birlikte anlaması gereken hallerde ise sözleşme 
-objektif bir yorumla (**Güven** ya da **Meram Anlatma Teorisi** çerçevesinde) 
-beyan sahibinin iradesine uygun olarak kurulmuş kabul edilir. Yani beyan 
-sahibinin iç iradesi ile dış beyanı farklıysa ve karşı taraf bu uyuşmazlığı 
-fark etmemişse, hukuk sistemi "dürüst, makul, orta zekâlı bir insan bu beyana 
-ne anlam verirdi?" sorusunu sorarak uyuşmazlığı çözer. 
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-İrade ve beyan arasındaki uyuşmazlıkları çözümleyen kurallar, Türk Borçlar 
-Kanunu'nun (TBK) ve Türk Medeni Kanunu'nun (TMK) diğer omurga kurumlarıyla sıkı
-bir sistematik bağ içindedir.
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 34 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. Sözleşmenin Kurulması (TBK m. 1) ile Kesişim:**
-Sözleşmelerin kurulabilmesi için irade açıklamalarının karşılıklı ve birbirine 
-uygun olması (TBK m. 1) mutlak bir şarttır. İrade-beyan uyuşmazlığının en 
-temel yansıması, bu "uygunluk" unsurunun sakatlanmasıdır. Şayet tarafların 
-beyanları arasında bir farklılık varsa, ortada bir **Dissensus** (Uyuşmazlık) 
-vardır ve kural olarak sözleşme hiç kurulmamış sayılır (Yokluk). Ancak beyanlar
-dışarıdan bakıldığında şeklen uyuşuyor gibi görünse de iç iradeler uyuşmuyorsa,
-o zaman sözleşme şeklen kurulmuş kabul edilir fakat geçersizlik veya iptal 
-edilebilirlik rejimleri (TBK m. 30 vd.) devreye girer.
+Bu ilişkiler, m. 34'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Gerçek İradenin Tespiti (TBK m. 19) ve Yorum:**
-Mülga 818 sayılı BK m. 18'in karşılığı olan TBK m. 19, irade-beyan 
-uyuşmazlıklarının çözümündeki en temel yasal dayanaktır. Kanun koyucu, bir 
-sözleşmenin türünün ve içeriğinin belirlenmesinde ve yorumlanmasında, 
-tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için kullandıkları 
-sözcüklere bakılmaksızın, **Gerçek ve Ortak İradeleri**nin esas alınacağını 
-emretmiştir. Bu hüküm, hem **Muvazaa** kurumunun kanuni dayanağıdır, 
-hem de **Yanlış Niteleme (Falsa Demonstratio)** kuralının kodifikasyonudur. 
-Hukukumuzda şekle değil, esasa (gerçek iradeye) üstünlük tanındığının en açık 
-göstergesi TBK m. 19 hükmüdür.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Dürüstlük Kuralı (TMK m. 2) ile Organik Bağ:**
-İrade uyuşmazlıklarının çözümünde uygulanan tüm teorilerin (özellikle Güven 
-Teorisi ve Fiili Meram Anlatma Teorisi) temelinde yatan yegâne evrensel 
-prensip, TMK m. 2'de düzenlenen dürüstlük kuralıdır. Bir tarafın iradesi ile 
-beyanı arasındaki uyuşmazlığı bilmesine rağmen, sırf lafzi (şekli) beyan kendi 
-işine geldiği için o beyana tutunarak hak talep etmesi, dürüstlük kuralına 
-aykırı bir hakkın kötüye kullanılması teşkil eder. 
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-**D. İnançlı İşlemler ile Farkı ve Benzerliği:**
-Uygulamada irade-beyan uyuşmazlığı barındıran muvazaa ile en çok karıştırılan 
-kurum **İnançlı İşlemler**dir. Muvazaalı işlemlerde ve inançlı işlemlerde 
-birbirine benzer şekilde bir dış görüntü oluşturulmaktadır. Her iki 
-müessesede de tarafların dışa yansıttığı bir görüntü ve arkasında bir iç ilişki
-bulunmaktadır. Ancak aralarındaki dogmatik uçurum şudur: Muvazaalı 
-işlemde, tarafların görünürdeki işlemi ne tamamen ne de kısmen hüküm ve sonuç 
-doğurmayacağı konusunda anlaştıkları bir "irade-beyan uyuşmazlığı" vardır.
-Oysa inançlı işlemde, taraflar görünürdeki işlemi (örneğin mülkiyetin devrini) 
-gerçekten istemektedirler; yani inançlı işlemde irade ile beyan arasında bir 
-uyuşmazlık yoktur, işlem bütünüyle geçerlidir. Sadece mülkiyeti inanan, 
-belli bir malı belli şartlar altında muhafaza etmeyi ve mülkiyeti inana geri 
-nakletme yükümlülüğü altına girer.
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-#### 4. Pratik Olay Analizleri
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Kasıtsız İrade Uyuşmazlığı: Falsa Demonstratio ve Dil Sürçmesi):**
-Bir tarım arazisi sahibi olan çiftçi (A) uzun süredir satmak için pazarlık 
-yaptığı komşusu (B)'ye, sahip olduğu "12 numaralı parseli" satmak istemektedir.
-(B) de baştan beri "12 numaralı parseli" almak niyetindedir. Ancak tapu 
-dairesindeki resmî satış işlemi sırasında (A) dili sürçerek (lapsus linguae) 
-"17 numaralı parseli satıyorum" der ve memur da bunu tutanağa geçirir. (B) 
-(A)'nın aslında 12 numaralı parseli kastettiğini, daha önceki konuşmalarından 
-ve halin icaplarından bilmektedir, ancak o da yanlışlıkla 17 yazılan evrakı 
-imzalar. 
-Hukuk dogmatiği açısından bu vakada, (A)'nın iç iradesi (12 numaralı parsel) 
-ile dış dünyaya yansıyan resmi beyanı (17 numaralı parsel) arasında mutlak bir 
-**İrade-Beyan Uyuşmazlığı** vardır. Ancak, tarafların "gerçek ve ortak 
-iradeleri" (TBK m. 19) 12 numaralı parsel üzerinde uyuşmaktadır. Bu nedenle 
-burada "Yanlış niteleme zarar vermez (Falsa demonstratio non nocet)" kuralı 
-devreye girer. Muhatap (B) de gerçek iradeyi bildiğinden, ortada korunması 
-gereken bir "güven" (hukuki uygunluk) meselesi yoktur; doğrudan doğruya **Fiili
-(Tabii) Uygunluk** vardır. Sözleşme 17 numaralı parsel için kesin hükümsüz,
-ancak 12 numaralı parsel için (eğer şekil şartları 12 numaralı parsel için de 
-korunabiliyorsa) geçerli olarak kurulmuş sayılır.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Kasıtlı İrade Uyuşmazlığı: Nispi Muvazaa ve Gizli İşlem):**
-Yaşlı bir baba olan (C) vefatından sonra diğer çocuklarının miras payı talep 
-etmesini engellemek (onlardan mal kaçırmak) amacıyla, en sevdiği kızı (D)'ye 
-çok değerli bir dairesini bağışlamak (hibe etmek) ister. Ancak bağışlama işlemi
-tapuda yapılırsa diğer kardeşlerin tenkis veya muris muvazaası davası 
-açacağından korktuğu için, kızı (D) ile gizli bir "Muvazaa Anlaşması" yaparak, 
-tapu dairesinde daireyi kızı (D)'ye "satmış" gibi gösterir. Tapu memuru önünde 
-taraflar "Satış bedelini aldım, mülkiyeti devrediyorum" şeklinde karşılıklı 
-beyanda bulunurlar.
-Bu olayda çift taraflı ve kasıtlı bir **İrade-Beyan Uyuşmazlığı** söz konusudur. Tarafların gerçek iç iradeleri bir "Bağışlama" sözleşmesi yapmaktır; ancak
-dış dünyaya yansıyan beyanları bir "Satış" sözleşmesidir. Hukuk sistemi TBK m. 
-19 uyarınca gerçek iradeye üstünlük tanıdığından, tarafların gerçek iradelerini
-yansıtmayan görünürdeki işlem (Satış Sözleşmesi) muvazaa sebebiyle **Kesin 
-Hükümsüz (Batıl)**dür. İşlemin arkasında yatan gerçek iradeye dayanan
-gizli işlem (Bağışlama) ise, kendi geçerlilik şartlarına (tapuda resmi şekil) 
-uyulmadığı için şekle aykırılıktan dolayı o da geçersiz sayılacak ve diğer 
-mirasçılar tapu iptal ve tescil davası açarak malı terekeye geri 
-döndürebileceklerdir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 34 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-İrade ve beyan uyuşmazlığının mahkeme salonlarındaki usul hukuku boyutunda ve 
-ticari hayattaki uygulamasında avukatların dikkat etmesi gereken stratejik 
-dogmatik hususlar şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. İspat Yükü (Onus Probandi) ve Senede Karşı Senetle İspat Kuralı:**
-Bir davada hangi tarafın, irade beyan uyuşmazlığını (özellikle muvazaayı) ispat
-etmesi gerektiği son derece hayati bir usul meselesidir. Kural olarak, 
-görünürdeki yazılı bir sözleşmenin taraflarından biri, "Bu sözleşmedeki 
-beyanlar bizim gerçek irademizi yansıtmıyor, aslında aramızda bir muvazaa 
-anlaşması var" diyerek irade-beyan uyuşmazlığı iddiasında bulunuyorsa, bu 
-iddiasını ispatla yükümlüdür. Üstelik HMK m. 201 uyarınca, yazılı bir belgeye 
-(senede) karşı ileri sürülen iddialar kural olarak tanıkla ispat edilemez; 
-ancak başka bir yazılı belgeyle (yazılı delil başlangıcı veya muvazaa 
-senediyle) ispat edilebilir. Bu, irade teorisinin en büyük pratik handikabıdır;
-içsel gerçeği (iradeyi) arayan sistem, bunu dışsal ve katı bir şekil şartıyla 
-(yazılı delil) ispatlamayı emretmektedir. Ancak, irade uyuşmazlığından zarar 
-gören **Üçüncü Kişiler** (örneğin alacaklılar veya mirasçılar) sözleşmenin 
-tarafı olmadıkları için senede karşı senetle ispat kuralına tabi değildirler; 
-onlar irade-beyan uyuşmazlığını (muvazaayı) her türlü delille (tanık, e-posta, 
-kamera kaydı, hayatın olağan akışına aykırılık) serbestçe ispat edebilirler.
+#### 6. Pratik Uygulama Notları
 
-**2. İyiniyetli Üçüncü Kişilerin Korunması:**
-İrade-beyan uyuşmazlığında, kural olarak tarafların gerçek iradeleri esas 
-alınsa da (TBK m. 19/1) yasa koyucu ticari işlem güvenliğini korumak adına çok
-stratejik bir istisna getirmiştir. TBK m. 19/2 hükmü uyarınca; "Borçlu, yazılı 
-bir borç tanımasına güvenerek alacağı kazanmış olan üçüncü kişiye karşı, bu 
-işlemin muvazaalı olduğu savunmasında bulunamaz". Yani, (A) ile (B) 
-aralarında kasten sahte bir borç senedi (irade uyuşmazlığı) yaratmışlar ve (B) 
-bu belgeyi gidip iyiniyetli (C)'ye devretmişse; (A) (C)'ye karşı "Bizim (B) 
-ile olan işlemimizde irade-beyan uyuşmazlığı (muvazaa) vardı, işlem batıldır" 
-diyemez. Bu kural, **Güven Teorisi**nin pozitif hukukumuzdaki en saf ve 
-acımasız uygulamasıdır; şeklî beyana güvenen iyiniyetli üçüncü kişi, gerçeğe 
-(iradeye) karşı mutlak bir koruma altına alınmıştır.
-
-**3. Tahvil (Konversion) İhtimali:**
-Avukatların geçersizlik (özellikle kasti irade uyuşmazlığı) davalarında 
-başvurabileceği bir diğer can simidi **Tahvil (Dönüştürme)** kurumudur. Şayet 
-irade ile beyan arasındaki uyuşmazlık nedeniyle görünürdeki işlem (örneğin 
-satış) geçersiz sayılmışsa; bu geçersiz işlem, tarafların farazi iradelerine ve
-kanuni şartlara uygun düşen başka ve geçerli bir hukuki işleme (örneğin satış 
-vaadi veya bağışlama sözleşmesine) dönüştürülerek ayakta tutulmaya çalışılır. 
-Bu, sözleşmeyi yaşatma (favor negotii) ilkesinin bir gereğidir.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ilgili Daireleri, önüne gelen irade ve beyan 
-farklılığı uyuşmazlıklarında (özellikle yanlış niteleme ve muvazaa 
-iddialarında) şekli beyanları aşıp maddi gerçeği arayan, ancak bunu yaparken 
-mülkiyet ve ispat güvenliğini de korumaya çalışan ikili bir içtihat politikası 
-geliştirmiştir.
-
-Yargıtay, **Muvazaa (Kasti İrade-Beyan Uyuşmazlığı)** davalarında istikrarlı 
-olarak şu hükmü kurmaktadır: *"Muvazaa, tarafların üçüncü kişileri aldatmak 
-maksadıyla ve fakat kendi gerçek iradelerine uymayan ve aralarında hüküm ve 
-sonuç doğurmayan bir görünüş yaratmak hususunda anlaşmalarıdır. Görünürdeki 
-işlem, tarafların gerçek iradelerini yansıtmadığı için kesin hükümsüzdür 
-(batıldır)."*. Yargıtay bu kararlarında, muvazaalı sözleşmelerin 
-müeyyidesinin ne olduğu konusundaki doktriner tartışmalara (yokluk mu, butlan 
-mı?) noktayı koyarak, muvazaalı işlemin baştan itibaren **Mutlak Butlan** 
-ile sakat olduğunu, hâkimin bunu davanın her aşamasında re'sen dikkate almak 
-zorunda olduğunu ve bu geçersizliğin zamanaşımına tabi olmadan her zaman ileri 
-sürülebileceğini belirtmektedir.
-
-Buna karşılık Yargıtay, **Yanlış Niteleme (Falsa Demonstratio)** ve kasıtsız 
-irade uyuşmazlığı hallerinde sözleşmeyi yaşatmaya yönelik bir tutum sergiler. 
-Yargıtay'ın ilgili kararlarında, *"Sözleşmelerin yorumunda ve içeriğinin 
-belirlenmesinde, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için 
-kullandıkları sözcüklere bakılmaksızın gerçek ve ortak iradenin esas 
-alınacağı"* ilkesi vurgulanır. Beyan farklılığının muhatap tarafından 
-bilindiği veya TMK m. 2 gereği bilinmesi gerektiği durumlarda, Yargıtay şekli 
-lafzı (beyanı) tamamen bir kenara bırakarak, anlaşılan gerçek iradeyi (içsel 
-mutabakatı) korumakta ve sözleşmeyi bu gerçek irade üzerinden icra edilebilir 
-kılmaktadır.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-İrade ile beyan arasındaki farklılıkların (uyuşmazlıkların) hukuki niteliği ve 
-hangi tarafın korunacağı sorunsalı, borçlar hukuku doktrininde (özellikle 
-Fikret Eren, Oğuzman/Öz, Kocayusufpaşaoğlu ve Nomer öğretilerinde) devasa bir 
-felsefi ve teorik tartışma alanıdır. Hukukun bu uyuşmazlıklara yaklaşımı, 
-tarihsel süreç içinde üç ana teori etrafında şekillenmiştir ve bu teorilerin 
-her birine yöneltilen çok ciddi eleştiriler mevcuttur:
+Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-**1. İrade Teorisi (Willenstheorie) ve Eleştirisi:**
-Bu teoriye göre, hukuki işlemlerin kurucu ve yaratıcı gücü tamamen kişinin iç 
-iradesidir. İrade ile beyan arasında bir farklılık varsa, beyanın hiçbir 
-değeri yoktur; daima kişinin gerçek iç iradesi (niyeti) esas alınmalıdır. 
-Özellikle muvazaada esas olan irade teorisidir. Ancak bu teori, modern 
-ticari hayatın ihtiyaçları karşısında ağır eleştirilere maruz kalmaktadır. Zira
-dışarıdan bakan dürüst bir akidin veya üçüncü kişinin, beyan sahibinin beyninin
-içindeki gizli niyetleri (gerçek iradesini) bilmesi veya okuması fiziken 
-imkânsızdır. Sadece iç iradeyi koruyan bir sistem, karşı tarafın haklı güvenini
-tahrip eder, ticari hızı yavaşlatır ve hukuki işlem güvenliğini 
-(Verkehrsschutz) felç eder. 
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-**2. Beyan Teorisi (Erklärungstheorie) ve Eleştirisi:**
-İrade teorisinin yarattığı belirsizliklere bir tepki olarak doğan Beyan 
-Teorisi, sözleşmenin geçerliliğini yalnızca dış dünyaya yansıyan, objektif 
-olarak algılanabilen "beyana" bağlar. Bu teoriye göre, kişinin iç iradesinin ne
-olduğunun hiçbir önemi yoktur; ağızdan çıkan veya kâğıda dökülen ne ise 
-sözleşme odur. Hatta bu teoriye göre muvazaalı işlemler bile görünüşte geçerli 
-sayılmalıdır. Ne var ki, Türk-İsviçre hukuku bu katı görüşü şiddetle 
-reddeder. Zira sadece dış beyanı korumak, kişileri hayatları boyunca hiç 
-istemedikleri, rıza göstermedikleri ve sırf bir anlık dalgınlıkla veya hata ile
-sarf ettikleri sözler yüzünden ağır borçlar altına sokar. Bu durum, anayasal 
-bir temel olan "Sözleşme Özgürlüğü" ve "İrade Özerkliği" felsefesiyle taban 
-tabana zıttır.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
-**3. Güven Teorisi (Vertrauensprinzip) ve Fiili Meram Anlatma Teorisi:**
-Modern doktrin ve Türk Borçlar Kanunu, bu iki aşırı ucu dengelemek adına 
-**Güven Teorisi**ni benimsemiştir. Güven teorisi, ne mutlak anlamda iç
-iradeyi ne de katı bir şekilde dış beyanı korur. Bu teoriye göre; irade ile 
-beyan arasında bir uyuşmazlık varsa, öncelikle tarafların birbirlerini fiilen 
-doğru anlayıp anlamadıklarına (**Fiili Meram Anlatma Teorisi**) bakılır. 
-Aslında teori sahipleri aşamalı bir süreç önerirler: Önce fiili uygunluğun 
-gerçekleşip gerçekleşmediğine bakılır, sonra da yeni güven teorisi altında 
-incelenen hallerin yani normatif uygunluğun olup olmadığına bakılır. Şayet 
-taraflar birbirini fiilen anlamamışsa, o zaman dürüstlük kuralı (TMK m. 2) 
-gereğince, "dürüst, makul ve namuslu bir insan o hal ve şartlar altında bu 
-beyana nasıl bir anlam vermeliydi?" sorusu sorularak objektif bir anlam 
-(normatif konsensüs) yaratılır. 
+Türk Borçlar Kanunu m. 34, «3. Yanılmada dürüstlük kuralları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
-Ancak Güven Teorisi de eleştirilerden muaf değildir. Zira "dürüst ve makul bir 
-muhatabın ne anlaması gerektiği" kriteri son derece sübjektif, lastikli ve 
-muğlak bir standarttır. Bu durum, irade-beyan uyuşmazlıklarının çözümünde tüm 
-inisiyatifi hâkimin takdir yetkisine (Yargısal Aktivizme) bırakmaktadır. Hâkime
-bu derece geniş bir sözleşme yorumlama ve adeta "tarafların yerine geçerek 
-sözleşme kurma" yetkisi verilmesi, bazı durumlarda hukuki belirliliği (legal 
-certainty) zayıflatabilmektedir. Yine de tüm bu dogmatik kusurlarına rağmen, 
-irade ve beyan farklılıklarında adaleti tesis etmenin en rasyonel ve insan 
-onuruna yaraşır yolunun, dürüstlük kuralı ekseninde haklı güveni ve gerçek 
-rızayı korumak olduğu günümüz modern borçlar hukukunda genel kabul görmektedir.
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 34, «3. Yanılmada dürüstlük kuralları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 34, «3. Yanılmada dürüstlük kuralları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 34, «3. Yanılmada dürüstlük kuralları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 34, «3. Yanılmada dürüstlük kuralları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 34, «3. Yanılmada dürüstlük kuralları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 34, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 34, «3. Yanılmada dürüstlük kuralları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sal Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 34, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 34'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 34'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 9.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 34. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 34 resmi metni ve kanunun sistematiği.

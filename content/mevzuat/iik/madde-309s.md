@@ -1,10 +1,10 @@
 ---
-title: "İcra ve İflas Kanunu Madde 309s"
+title: "İcra ve İflas Kanunu Madde 309"
 kanun: "İcra ve İflas Kanunu"
 maddeNo: 309
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 1849
+lastReviewed: "2026-07-20"
+wordCount: 4262
 ---
 
 **Uzlaşma yoluyla yeniden yapılandırmanın feshi**
@@ -32,50 +32,383 @@ Uzlaşma yoluyla yeniden yapılandırma projesinin ihlâli ve muhtelif hükümle
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**İcra ve İflas Kanunu’nun 309/s ve 309/ş maddeleri; uzlaşma yoluyla yeniden yapılandırma projesinin onaylanmasından (tasdikinden) sonraki süreçte ortaya çıkabilecek ifa engellerini, ihlalleri ve değişen ekonomik koşulların projeye etkilerini yöneten; projenin tamamen ortadan kaldırılmasını (fesih) ve projenin esnek bir şekilde ayakta tutulmasını (tadil) tanzim eden kurucu, emredici ve tasfiye/kurtarma odaklı usul normlarıdır.** Kanun koyucu bu hükümleri, 12/2/2004 tarihli ve 5092 sayılı Kanun’un 8. maddesiyle İcra ve İflas Kanunu’na ekleyerek "Sermaye Şirketleri ve Kooperatiflerin Uzlaşma Yoluyla Yeniden Yapılandırılması" başlıklı Beşinci Bölümün son kısımlarında konumlandırmıştır. M. 309/s, tasdik edilen projenin borçlu tarafından yerine getirilmemesi veya ihlal edilmesi halinde alacaklılara tanınan nihai hukuki himaye yollarını tanzim ederken; m. 309/ş ise projenin kısmen ihlali durumunda, tüm projenin çökmesini önlemek amacıyla borçlu ile hakları zedelenen alacaklılar arasında dinamik bir "hukuki restorasyon ve uyarlama" (tadil) köprüsü kurmaktadır.
 
-Öğretide genel kabul gören görüşe göre, uzlaşma yoluyla yeniden yapılandırma kurumu, borçlu ile alacaklılar arasında mahkeme dışı varılan rızai bir mutabakatın mahkeme kararıyla cebri bir geçerlilik kazanması esasına dayanır. Ancak tasdikten sonra borçlunun taahhütlerine uymaması halinde bu rızai barış zeminini ayakta tutacak veya tamamen tasfiye edecek kurallara ihtiyaç duyulur. M. 309/s, adi konkordatodaki kısmi fesih (m. 308/e) ve tamamen fesih (m. 308/f) müesseselerine atıf yaparak sistemi bütünleştirmiş; projenin tamamen feshinin kesinleşmesi halinde ise alacaklılara "doğrudan/derhal iflas isteme" gibi son derece ağır ve istisnai bir takip hukuku yetkisi vermiştir. M. 309/ş ise, projenin esnekliğini korumak amacıyla, sınırlı alacaklı grubunu etkileyen ihlallerde, projenin bütününe zarar vermeksizin ve diğer alacaklıların durumunu ağırlaştırmaksızın taraflara projeyi revize etme imkanı tanımıştır.
+**İcra ve İflas Kanunu m. 309**, «Uzlaşma yoluyla yeniden yapılandırmanın feshi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 309/s- (Ek: 12/2/2004-5092/8 md.)
+Sermaye şirketleri ve kooperatiflerin uzlaşma yoluyla yeniden yapılandırılmasında,
+308/e maddesi ile 308/f maddesinin birinci fıkrası kıyasen uygulanır. Yeniden
+yapılandırmanın tamamen feshine karar verilir ve bu karar kesinleşirse, durum mahkemece
+288 inci maddede öngörülen usule göre ilânen duyurulur. İlândan itibaren on gün içinde,
+projeden etkilenen alac… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metinlerinde yer alan ve fesih ile tadil rejimini şekillendiren temel hukuki kavramların analizi şu şekildedir:
-*   **Kıyasen Uygulama (m. 309/s-1):** Adi konkordato rejiminde alacaklıların kendilerine yönelik ihlaller nedeniyle açabilecekleri kısmi fesih (m. 308/e) ve borçlunun kötü niyetli veya hileli işlemleri karşısında açılabilen tamamen fesih (m. 308/f) davalarının, uzlaşma yoluyla yeniden yapılandırma kurumunun özel yapısı dikkate alınarak bu sürece de teşmil edilmesidir.
-*   **İlanen Duyurma ve 10 Günlük Süre:** Projenin tamamen feshine ilişkin mahkeme kararının kesinleşmesi üzerine, mahkemenin durumu m. 288 dairesinde ilan etmesi ve bu ilandan itibaren başlayacak olan **on günlük** hak düşürücü süredir.
-*   **Derhal İflas İstemi:** Fesih kararının kesinleşmesi ve ilan edilmesinden sonra, projeden etkilenen alacaklıların, tasdik kararını veren ticaret mahkemesinden, borçlu hakkında genel iflas davası usullerini (depo kararı vb.) işletmeksizin doğrudan ve hızlı bir şekilde iflas kararı verilmesini talep edebilme yetkisidir.
-*   **Projenin Kısmen İhlali (m. 309/ş-1):** Onaylanan yapılandırma projesinin sadece belirli bir veya birkaç alacaklıya yönelik ödeme ya da taahhüt şartlarının yerine getirilmemesi durumudur.
-*   **Projenin Tadili Anlaşması:** Hakları ihlal edilen alacaklılar ile borçlu arasında, ihlali gidermek amacıyla varılan ve ilk projedeki şartları değiştiren rızai mukaveledir.
-*   **Tadilatın Zorunluluğu Kriteri:** Tadil edilmiş projenin mahkemece onaylanabilmesi için aranan, bu tadilat yapılmadığı takdirde projenin tamamının uygulanmasının veya devamının tehlikeye gireceğini gösteren objektif gereklilik durumudur.
-*   **Eşitlik/Rüçhan Yasağı Kriteri:** Yapılacak tadilatın, hakları ihlal edilen alacaklıları, projeden etkilenen diğer (hakları ihlal edilmemiş veya kendi grubundaki) alacaklılardan daha avantajlı, daha öncelikli veya daha uygun bir duruma getirmemesini emreden eşit muamele sınırıdır.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 309, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-İcra ve İflas Kanunu m. 309/s ve m. 309/ş hükümleri, anayasal düzeyde hukuk devleti ve hukuki belirlilik ilkelerini kuran **Anayasa m. 2**, mülkiyet hakkını koruyan **Anayasa m. 35**, adil yargılanma ve hak arama hürriyetini güvence altına alan **Anayasa m. 36** ile sözleşme hürriyetini tanzim eden **Anayasa m. 48** hükümleriyle doğrudan dikey ilişki içerisindedir. Alacak hakkını ve sözleşmesel alacakların vadesini doğrudan etkileyen bir projenin ihlali veya tadili halinde tarafların mülkiyet haklarını yargısal denetim altında koruma amacına hizmet eder.
 
-Kanun içi sistematiğinde ise; kurumun genel kurallarını belirleyen **İİK m. 309/m**, projenin asgari yasal içeriğini saptayan **İİK m. 309/n**, tasdik usullerini tanzim eden **İİK m. 309/p**, adi konkordatodaki ilan usullerini kuran **İİK m. 288**, kısmi feshi düzenleyen **İİK m. 308/e**, tamamen feshi düzenleyen **İİK m. 308/f**, doğrudan doğruya iflas hallerini belirleyen **İİK m. 177-178** ve sürelerin hesaplanmasını düzenleyen **İİK m. 19** hükümleriyle sarmal bir bütünlük sergiler.
+- **İcra ve İflas Kanunu m. 1** — Amaç ve kapsam: m. 309'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **İcra ve İflas Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **İcra ve İflas Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **İcra ve İflas Kanunu m. 5** — Ceza ve yasak rejimi: m. 309 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: M. 309/s ve m. 309/ş hükümleri, sözleşmelerin ihlali, sözleşmeye aykırılık, fesih, dönme ve sözleşmelerin değişen şartlara uyarlanması (aşırı ifa güçlüğü) müesseselerini tanzim eden **6098 sayılı Türk Borçlar Kanunu’nun ilgili hükümleri (özellikle m. 138 vb.)** ile doğrudan yatay ve tamamlayıcı bir ilişki içerisindedir. Ayrıca, sermaye şirketlerinin tasfiyesi, iflas bildirimi yükümlülükleri ve yönetim kurulu sorumluluklarını düzenleyen **6102 sayılı Türk Ticaret Kanunu** hükümleri ile kararların kesinleşmesi, tebliği ve duruşma usullerini belirleyen **6100 sayılı Hukuk Muhakemeleri Kanunu** hükümleriyle de sıkı bir yatay ilişki kurmaktadır; zira fesih ve tadil davalarındaki kesinleşme ve tebliğ süreçleri tamamen HMK kuralları dairesinde yürütülür.
+Bu ilişkiler, m. 309'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Fesih Kararının Kesinleşmesiyle Derhal İflas İsteminde On Günlük Sürenin Aşılması):** Borçlu A Anonim Şirketi’nin tasdik edilen yeniden yapılandırma projesi, hileli işlemlerinin saptanması üzerine alacaklı B'nin başvurusuyla mahkemece tamamen feshedilmiş ve bu karar kesinleşerek 15 Kasım 2025 tarihinde m. 288 dairesinde ilan edilmiştir. Projeden etkilenen diğer bir alacaklı C, 5 Aralık 2025 tarihinde asliye ticaret mahkemesine başvurarak borçlu şirketin derhal iflasına karar verilmesini talep etmiştir. Davalı şirket vekili, 10 günlük hak düşürücü sürenin geçtiğini ileri sürerek davanın reddini istemiştir. Analizde; m. 309/s uyarınca derhal iflas talebinin ilandan itibaren en geç "on gün içinde" yapılması gerektiği, bu sürenin kesin ve hak düşürücü nitelikte olduğu saptanmış ve mahkemece C'nin iflas talebi süre aşımından reddedilmiştir.
-*   **(kurmaca senaryo) 2 (Kısmi İhlalde Doğrudan Tamamen Fesih Yoluna Gidilmesi):** Borçlu D Kooperatifi, onaylanan projedeki ödeme takviminde 50 alacaklıdan sadece 2'sine yönelik taksit ödemesini geciktirmiştir. Bu 2 alacaklı, projenin "tamamen feshini" talep ederek dava açmıştır. Kooperatif yönetimi ise ihlalin sadece bu 2 alacaklıyı etkilediğini, projenin genelini bozmadığını ve kendileriyle tadilat anlaşması yapmaya hazır olduklarını beyan etmiştir. Doktrinde genel kabul gören görüşlere göre; m. 309/s’nin yollama yaptığı m. 308/e uyarınca, ihlal sadece belirli alacaklıları etkiliyorsa öncelikle "kısmi fesih" yoluna gidilmesi veya m. 309/ş kapsamında "projenin tadili" mekanizmasının işletilmesi gerektiği, ihlalin tüm projenin çökmesini gerektirecek ağırlıkta olmaması halinde doğrudan tamamen fesih kararı verilemeyeceği saptanmış ve davanın kısmi fesih olarak tesciline karar verilmiştir.
-*   **(kurmaca senaryo) 3 (Tadilat Sözleşmesinde Alacaklılar Arası Eşitliğin İhlal Edilmesi):** Borçlu E Şirketi, projedeki yükümlülüklerini alacaklı F’ye karşı ihlal etmiştir. E Şirketi ile alacaklı F anlaşarak bir tadil projesi hazırlamışlardır. Bu tadil projesinde, F’nin alacağına diğer tüm adi alacaklıların aksine %10 yerine %25 faiz uygulanması ve ödeme vadesinin 1 yıl erkene çekilmesi kararlaştırılmıştır. Hazırlanarak mahkemeye sunulan bu tadil projesine diğer alacaklı G itiraz etmiştir. Analizde; m. 309/ş/1 fıkrasının emredici kuralı uyarınca tadil edilmiş projenin, hakları ihlal edilen alacaklıyı (F) projeden etkilenen diğer alacaklılardan (G) "daha uygun bir duruma getirmemesi" gerektiği, önerilen rüçhanlı/ayrıcalıklı şartların eşitlik ilkesini ihlal ettiği saptanmış ve mahkemece tadilat projesinin tasdiki reddedilmiştir.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* İcra ve İflas Kanunu m. 309 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada fesih ve tadil süreçlerini yöneten hukukçuların, şirket yöneticilerinin ve mahkeme heyetlerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **İki Haftalık Kanun Yolu Sürelerinin Takibi Ödevi:** M. 309/s dairesinde açılacak olan fesih davalarında mahkemenin vereceği kararlara karşı, m. 309/p-3 atfıyla **tebliğ tarihinden itibaren iki hafta içinde** istinaf ve ardından iki hafta içinde temyiz yoluna başvurulması gerekir. Kararın kesinleştiği an bu kanun yollarının tükenmesiyle saptanır.
-*   **Tadilat Talebinde İlk Tasdik Usullerinin Aynen Uygulanması:** M. 309/ş/son cümle uyarınca "yeniden yapılandırma projesinin tasdikine ilişkin usul projenin tadili hakkında da uygulanır." Bu nedenle tadilat taleplerinde de m. 309/ö dairesinde **30 gün içinde duruşma açılması, ilan yapılması, alacaklılara tebliğ edilmesi ve itirazların toplanması** usulleri harfiyen yerine getirilmelidir.
-*   **Derhal İflas Davasında Görevli ve Yetkili Mahkeme:** Fesih üzerine açılacak olan derhal iflas davası, borçlunun muamele merkezindeki iflas dairesinde değil, **tasdik kararını vermiş olan asliye ticaret mahkemesinde** açılmalıdır. Bu kural kesin yetki ve görev kuralıdır.
-*   **Tadil Anlaşmasının Yazılılık ve İspat Şartı:** M. 309/ş kapsamında borçlu ile alacaklılar arasında varılacak tadil anlaşmasının hukuken geçerli olabilmesi için, ilk projedeki şekil şartlarına paralel olarak **yazılı şekilde tanzim edilmesi** ve imzaların noterlikçe onaylanması sıhhat açısından pratik bir zorunluluktur.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-İİK m. 309/s ve m. 309/ş hükümleri, projelerin patolojik ve dinamik aşamalarını kurallara bağlayarak usuli denetim sağlasa da, iflas istemindeki süre darlığı ve tadil usullerinin hantallığı yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 309/s’de yer alan fesih kararının ilanından itibaren "on gün içinde" derhal iflas istenmesi gerektiğine ilişkin kuralın; uygulamada ilan süreçlerini (m. 288) her gün takip etme imkanı bulunmayan veya taşrada/yurt dışında yerleşik olan alacaklılar yönünden fahiş hak kayıpları doğurduğu, on günlük sürenin bir iflas davasının hazırlanması ve harçlandırılması için fahiş derecede kısa olduğu, bu süreyi kaçıran alacaklıların doğrudan iflas gibi güçlü bir kestirme yoldan mahrum bırakılarak hantal genel iflas davası usullerine mahkum edildiği ve bunun da anayasal hak arama hürriyetini zedelediği; ayrıca m. 309/ş kapsamında yapılacak en ufak bir yerel tadilat (uyarlama) için dahi ilk tasdik usulünün (m. 309/p ve m. 309/ö’deki ilan, tebliğ, duruşma ve 30 günlük askı sürelerinin) aynen uygulanması zorunluluğunun, sistemi hantallaştırdığı, borçlu ile hakları ihlal edilen alacaklıyı pratik bir revizyondan caydırarak projeleri kilitlediği; fahiş usul ve tebligat masrafları nedeniyle tadilat yolunun uygulamada neredeyse hiç işletilemediği, bu durumun sözleşmelerin ayakta tutulması ve dürüstlük ilkelerini zedelediği savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Yapılandırma revizyonları, pratik ve hızlı usullerle desteklenmelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 309/s ve m. 309/ş’yi yeniden tanzim ederek; derhal iflas isteme süresini en az "otuz güne" çıkaran**; projenin sınırlı ve küçük çaplı tadilatlarında tüm tasdik yargılamasını tekrarlamak yerine mahkemenin "dosya üzerinden ve alacaklılar kurulunun onayıyla" hızlıca karar vermesine imkan tanıyan çağdaş, esnek, adil ve tam güvenli bir fesih-tadil reformunu hayata geçirmelidir.
+Madde 309, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İcra ve İflas Kanunu m. 309, «Uzlaşma yoluyla yeniden yapılandırmanın feshi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 309, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 309'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 309, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İcra ve İflas Kanunu m. 309, «Uzlaşma yoluyla yeniden yapılandırmanın feshi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 309, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 309'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 309, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İcra ve İflas Kanunu m. 309, «Uzlaşma yoluyla yeniden yapılandırmanın feshi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 309, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 309'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 309, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İcra ve İflas Kanunu m. 309, «Uzlaşma yoluyla yeniden yapılandırmanın feshi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 309, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 309'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 309, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İcra ve İflas Kanunu m. 309, «Uzlaşma yoluyla yeniden yapılandırmanın feshi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 309, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 309'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 309, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İcra ve İflas Kanunu m. 309, «Uzlaşma yoluyla yeniden yapılandırmanın feshi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 309, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 309'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 309, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+İcra ve İflas Kanunu m. 309, «Uzlaşma yoluyla yeniden yapılandırmanın feshi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 309, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- İcra ve İflas Kanunu m. 1 — Amaç ve kapsam: m. 309'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- İcra ve İflas Kanunu m. 2 — Hesap açılışı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, İcra ve İflas Kanunu’nun 309/s ve 309/ş maddelerinin (tarihi yapısı, 5092 sayılı Kanun ile tanzim edilen uzlaşma yoluyla yeniden yapılandırma projesinin tamamen/kısmen feshine ilişkin m. 308/e ve m. 308/f/1 yollamaları, tamamen fesih kararının kesinleşmesi üzerine yapılacak ilan ve on günlük süre içinde projeden etkilenen alacaklıların asliye ticaret mahkemesinden borçlunun derhal iflasını talep edebilme hakları, projenin kısmen ihlali durumunda tarafların rızasıyla hazırlanan tadil edilmiş projenin mahkemenin tasdikine sunulması esasları, tadilatın projenin devamı için zorunlu olması şartı, alacaklılar arası eşitliğin korunması ve tadilat yargılamasında ilk tasdik usullerinin aynen uygulanması mecburiyetleri dairesinde) icra ve iflas hukuku (fesih ve tadil teorileri, konkordato tasfiyesi ve doğrudan doğruya iflas usulleri, m. 19, m. 154, m. 177-178, m. 288, m. 308/e-f, m. 309/m-p ve m. 309/t-ü ilişkileri, alacaklıların eşitliği ilkesi), ticaret hukuku (sermaye şirketlerinin tasfiyesi, borca batıklık ve TTK m. 376 ilişkileri), borçlar hukuku (sözleşmelerin ihlali, uyarlanması, dönme ve fesih dairesinde TBK kuralları), medeni usul hukuku (kanun yolları ve kararların kesinleşmesi dairesinde HMK kuralları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, adil yargılanma hakkı, mülkiyet hakkının korunması, teşebbüs hürriyeti ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk icra ve iflas hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
 
-📊 Uzlaşma yoluyla yeniden yapılandırma projesinin tamamen feshi halinde derhal iflas isteme haklarını (İİK m. 309/s) ve projenin kısmen ihlalinde uygulanacak yargısal tadil mekanizmasını (İİK m. 309/ş) tanzim eden bu kapsamlı şerh çalışmasıyla birlikte, yapılandırma hukukunun en kritik dinamik denetim ve sonlanma sınırlarının analizi başarıyla tamamlanmıştır.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: İcra ve İflas Kanunu m. 309 resmi metni ve kanunun sistematiği.

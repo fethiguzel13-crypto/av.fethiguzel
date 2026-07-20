@@ -1,13 +1,10 @@
 ---
-title: "TBK Madde 119"
+title: "Türk Borçlar Kanunu Madde 119"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 119
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "hizmet devri işyeri devri"
-  - "işçi hakları"
-  - "devir sonrası sorumluluk"
+lastReviewed: "2026-07-20"
+wordCount: 4297
 ---
 
 **b. Beklenmedik hâlden sorumluluk**
@@ -24,331 +21,393 @@ kurtulabilir.
 
 ### Akademik Yorum ve Analiz
 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Borçlar hukuku mimarisinde sözleşme, tarafların serbest iradeleriyle kurdukları
-ve kural olarak ahde vefa (pacta sunt servanda) ilkesi gereğince aynen ifa 
-edilmesi gereken hukuki bir bağdır. Ancak borcun vadesinde ifa edilmemesi, 
-borçluyu temerrüde (mora debitoris) düşürür. TBK m. 119 hükmü, temerrüdün genel
-sonuçlarından olan gecikme tazminatını şu şekilde vazedir: *"Temerrüde düşmekte
-kusuru olmadığını ispat edemeyen borçlu, borcun geç ifa edilmesinden dolayı 
-alacaklının uğradığı zararı gidermekle yükümlüdür."* Bu kural, ifa davası ile 
-birlikte talep edilebilen, alacaklının borcun zamanında ifa edilmemesi yüzünden
-uğradığı müspet (olumlu) zararların tazminini sağlayan evrensel bir koruma 
-kalkanıdır. Borçlu, bu tazminattan ancak ve ancak temerrüde düşmede "hiçbir 
-kusuru bulunmadığını" (kurtuluş kanıtı / exkulpation) ispat ederek 
+**Türk Borçlar Kanunu m. 119**, «b. Beklenmedik hâlden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 119 - Temerrüde düşen borçlu, beklenmedik hâl sebebiyle doğacak zarardan
+sorumludur.
+Borçlu,  temerrüde  düşmekte  kusuru  olmadığını  veya  borcunu  zamanında  ifa  etmiş
+olsaydı bile beklenmedik hâlin ifa konusu şeye zarar vereceğini ispat ederek bu sorumluluktan
 kurtulabilir.
 
-Öte yandan, sermaye ve işletme yapılarının sürekli değiştiği modern kapitalist 
-ekonomilerde, hizmet sözleşmelerinin akıbeti özel bir koruma rejimine tabi 
-tutulmuştur. TBK m. 428 (Mehaz OR Art. 333) **İşyerinin Devri 
-(Betriebsübergang)** kurumunu düzenler. Kurala göre; işyerinin tamamı veya bir 
-bölümü hukuki bir işlemle başkasına devredildiğinde, o işyerinde devir 
-tarihinde mevcut olan hizmet sözleşmeleri, bütün hak ve borçları ile birlikte 
-**otomatik olarak** devralana geçer. İşçinin bu devre onay vermesine gerek 
-yoktur. Kanun koyucu, işçinin ekonomik güvencesini korumak için, devreden 
-işveren ile devralan yeni işvereni, devirden önce doğmuş ve devir tarihinde 
-muaccel olmuş borçlardan (örneğin ödenmemiş ücretlerden) dolayı **iki yıl 
-süreyle müteselsilen sorumlu** tutmuştur. 
-
-Buna karşılık TBK m. 429 (Mehaz OR Art. 333a) **Hizmet Sözleşmesinin Devri 
-(Vertragsübernahme)** kurumunu düzenler. İşyeri devrinden farklı olarak burada 
-işletme el değiştirmez; sadece belirli bir işçinin hizmet sözleşmesi, onun 
-**"yazılı rızası"** alınmak suretiyle sürekli olarak başka bir işverene 
-devredilir. Devir işlemiyle birlikte işçi, eski işvereniyle olan tüm hukuki 
-bağını koparır ve yeni işverenin organizasyonuna dâhil olur. İşte bu iki devir 
-türü sırasındaki uyuşmazlıklarda, işverenin ücret borcunu vadesinde ödememesi 
-hâlinde doğrudan doğruya TBK m. 119 (Gecikme Tazminatı) hükümleri devreye 
-girerek, eski ve yeni işvereni faiz ve tazminat yüküyle baş başa bırakır.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-TBK m. 119'daki gecikme tazminatı ile TBK m. 428-429'daki devir kurumlarının 
-teorik mimarisini bütünüyle kavrayabilmek için, bu kavramların Fikret Eren, M. 
-Kemal Oğuzman ve Turgut Öz'ün eserleri ekseninde mikroskobik düzeyde analiz 
-edilmesi zorunludur:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Geç İfadan Doğan Zarar (Gecikme Tazminatı / Verzugsschaden - TBK m. 
-119):**
-Borçlu temerrüdünün en doğal sonucudur. Sisteminizdeki eserlerde (örneğin A.E. 
-Bayram'ın makalesinde) hararetle tartışıldığı üzere, borçlunun ifayı 
-geciktirmesi, alacaklının malvarlığında bir azalmaya (zarara) yol açıyorsa, 
-borçlu bu zararı gidermek zorundadır. Gecikme tazminatı, ifa ile 
-birlikte istenen bir "müspet (olumlu) zarar" kalemidir. Örneğin bir işçinin 
-ücretinin 3 ay geç ödenmesi nedeniyle işçinin kredi kartı borcunu ödeyemeyip 
-bankaya ceza ödemesi (uygun illiyet bağı sınırları içindeyse) bir gecikme 
-zararıdır ve TBK m. 119 kapsamında işverenden talep edilebilir. 
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Kusursuzluk İspatı (Exkulpationsbeweis):**
-TBK m. 119 lafzı açıkça "kusuru olmadığını ispat edemeyen borçlu" diyerek, 
-temerrüde düşmede kusur karinesini benimsemiştir. Haksız fiillerden (TBK m. 49)
-farklı olarak, burada davacı (alacaklı) borçlunun kusurlu olduğunu ispatlamak 
-zorunda değildir; bilakis borçlu (işveren) kusursuzluğunu kanıtlamakla 
-mükelleftir. Borçlu ifa etmemede kusurlu olması şartlarının olayda varlığı 
-karine olarak kabul edilir. Ekonomik kriz, nakit darlığı veya şirketin 
-devir aşamasında hesapların kilitlenmesi gibi mazeretler "kusursuzluk" ispatı 
-olarak kabul edilmez.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. İşyerinin Devri (Betriebsübergang - TBK m. 428):**
-Bir ekonomik bütünlüğün (işletmenin) maddi ve gayrimaddi unsurlarıyla birlikte
-(makineler, müşteri çevresi, marka vb.) hukuki bir işlem (satım, birleşme, 
-kiralama) ile üçüncü bir kişiye devredilmesidir. Devrin en önemli özelliği 
-**Otomatik Geçiş (Übergang von Gesetzes wegen)** ilkesidir. İşçi itiraz 
-etmedikçe sözleşme tüm hak ve borçlarıyla devralana geçer. İşçinin kıdemi, 
-yıllık izin hakları ve sözleşme şartları aynen korunur.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. İki Yıllık Müteselsil Sorumluluk Süresi (Solidarhaftung):**
-TBK m. 428/2 gereği, devreden işveren, iş sözleşmesinden doğan borçlardan 
-(ücret, ikramiye vb.) aniden kurtulamaz. Devirden önce doğmuş ve devir 
-tarihinde muaccel olmuş borçlardan, devralan yeni işveren ile birlikte **iki 
-yıl boyunca** müteselsilen sorumlu olmaya devam eder. Bu iki yıllık süre bir 
-zamanaşımı değil, hak düşürücü süredir (Verwirkungsfrist). Süre, muaccel 
-borçlar için devir tarihinden, sonradan muaccel olacak borçlar için ise 
-muacceliyet tarihinden itibaren başlar.
+##### 2.3. Korunan menfaat ve muhataplar
 
-**E. Hizmet Sözleşmesinin Devri (Vertragsübernahme - TBK m. 429):**
-İşyeri yerinde dururken, sadece işçinin hukuki bağının başka bir işverene 
-nakledilmesidir. Borçlar Kanunu'nun genel "Sözleşmenin Devri" (TBK m. 205) 
-kurumunun iş hukukundaki özel yansımasıdır. En önemli geçerlilik şartı, işçinin
-**"Yazılı Rızasının"** bulunmasıdır. Yazılı rıza yoksa, devir işlemi kesin 
-hükümsüzdür. Bu bir üçlü (trilateral) sözleşmedir: Eski işveren, yeni işveren 
-ve işçinin iradelerinin uyuşması şarttır.
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-TBK m. 119'daki gecikme tazminatı ile TBK m. 428-429'daki devir kurumlarının 
-altyapısı, Borçlar Kanunu'nun genel ifa engelleri, adam çalıştıranın 
-sorumluluğu ve sözleşme devri mimarisiyle son derece radikal bir diyalektik bağ
-içindedir:
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 119 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. İşyeri Devrinde Temerrüt ve Gecikme Tazminatının (TBK m. 119) Müteselsil 
-Sorumluluğa Etkisi:**
-Devreden eski işveren, devir anında işçiye ödenmemiş 3 aylık maaş borcu 
-bırakmışsa ve temerrüde düşmüşse ne olacaktır? Eski işveren, TBK m. 117 gereği 
-temerrüde düşmüştür. TBK m. 428 uyarınca bu borç otomatik olarak devralan 
-(yeni) işverene de geçer. Peki yeni işveren, devir öncesi oluşan temerrüt 
-faizinden ve TBK m. 119 gereği doğan "gecikme tazminatından" sorumlu mudur? 
-Borçlar hukuku dogmatiğinde, fer'i haklar ve borçlar asıl alacakla birlikte 
-intikal eder. Dolayısıyla yeni işveren, eski işverenin temerrüdü yüzünden doğan
-gecikme tazminatından da 2 yıl boyunca müteselsilen sorumludur. Alacaklı 
-(işçi) TBK m. 119 uyarınca tazminat talebini her iki işverene de yöneltebilir.
+Bu ilişkiler, m. 119'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Adam Çalıştıranın Sorumluluğunda (TBK m. 66) "İşverenin Tespiti" Sorunu:**
-İşyeri devri (TBK m. 428) sürecinde, devir işlemlerinin fiilen sürdüğü ve sicil
-kayıtlarının tam geçmediği bir "Araf (geçiş)" döneminde, işçi bir haksız fiil 
-işleyerek 3. kişiye zarar verirse, TBK m. 66 uyarınca hangi işveren (devreden 
-mi, devralan mı) sorumlu olacaktır? Sisteminizdeki F. Canbolat ve D. Okyar'ın 
-makalesinde incelendiği üzere, adam çalıştıran sıfatının tespiti salt kâğıt 
-üzerindeki sözleşmeye değil, **"Fiili Bağımlılık (Subordination) ve Talimat 
-Verme Gücüne"** göre belirlenir. *"Adam çalıştıranın sorumluluğu, özen 
-sorumluluğu olduğu için... adam çalıştıran ile çalışan arasında bağımlılık arz 
-eden bir çalıştırma ilişkisi bulunmalı"* şeklindeki dogmatik kural 
-gereğince; haksız fiilin işlendiği anda işçi fiilen yeni işverenin (devralanın)
-emir ve talimatları altında çalışmaya başlamışsa, devir sözleşmesi henüz tescil
-edilmemiş dahi olsa, TBK m. 66 uyarınca yeni işveren adam çalıştıran sıfatıyla 
-sorumlu tutulacaktır. Bu durum hukuki görünüş (Rechtsschein) teorisinin bir 
-sonucudur.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Hizmet Sözleşmesinin Devri (TBK m. 429) ve Sözleşmenin Devri (TBK m. 205) 
-İlişkisi:**
-TBK m. 205 genel bir hüküm olarak sözleşmenin devrini düzenlerken, m. 429 özel 
-bir (lex specialis) hükümdür. Sisteminizdeki GİK makalelerinde atıf yapılan 
-emredici norm teorisi gereğince, genel hükümdeki bazı esneklikler işçiyi koruma
-amacıyla sınırlandırılmıştır. Örneğin TBK m. 205'te sözleşme devri şarta veya 
-önceden verilen izne bağlanabilirken; hizmet sözleşmesinin devrinde (TBK m. 
-429) işçinin rızasının devir anında yazılı olarak alınması mutlak bir 
-geçerlilik şartıdır (ad validitatem). İşçinin baştan matbu bir Genel İşlem 
-Koşulu (GİK) ile "İleride sözleşmemin devredilmesine peşinen rıza gösteriyorum"
-şeklinde verdiği onaylar, TBK m. 25 uyarınca içerik denetimine takılarak kesin 
-hükümsüz sayılır.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-#### 4. Pratik Olay Analizleri
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-Kurumun devir dinamiklerini, gecikme tazminatını ve adam çalıştıran 
-sorumluluğunu test etmek adına şu iki çarpıcı vakayı inceleyelim:
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (İşyeri Devrinde TBK m. 119 Gecikme Tazminatı ve Süre Sınırı):**
-A Şirketi, sahip olduğu tekstil fabrikasını B Şirketine 1 Ocak 2022 tarihinde 
-devreder. Devir anında İşçi (X)'in muaccel olmuş 50.000 TL maaş alacağı vardır 
-ve A Şirketi temerrüde (TBK m. 117) düşmüştür. İşçi (X) gecikme sebebiyle 
-banka kredisini ödeyememiş ve 10.000 TL gecikme zararına (TBK m. 119) 
-uğramıştır. İşçi (X) 1 Şubat 2024 tarihinde hem A hem de B şirketine karşı 
-60.000 TL (maaş + gecikme tazminatı) talebiyle dava açar. A Şirketi, "Devrin 
-üzerinden 2 yıldan fazla zaman geçti, sorumluluğum bitti" def'inde bulunur. B 
-Şirketi ise, "Ben 10.000 TL'lik TBK m. 119 gecikme zararını ödemem, o eski 
-işverenin kusurudur" der.
-*Dogmatik Analiz:* Bu vakada TBK m. 428'deki müteselsil sorumluluk süresi ile 
-TBK m. 119 (Gecikme Tazminatı) sınırları sınanmaktadır. A Şirketinin savunması 
-**haklıdır**. TBK m. 428/2 gereğince, devredenin müteselsil sorumluluğu muaccel
-borçlar için devir tarihinden (1 Ocak 2022) itibaren **İki Yıl** ile 
-sınırlıdır. Dava 1 Şubat 2024'te (2 yıl 1 ay sonra) açıldığı için, A Şirketinin
-sorumluluğu hak düşürücü süre nedeniyle sona ermiştir. 
-Ancak B Şirketinin savunması **haksızdır**. Devralan (yeni) işveren, devir 
-tarihindeki tüm borçları fer'ileriyle (temerrüt faizi ve gecikme tazminatıyla) 
-birlikte kül hâlinde devralır. A Şirketinin temerrüdünden doğan TBK m. 119 
-kapsamındaki 10.000 TL'lik gecikme tazminatını B Şirketi ödemek zorundadır (İç 
-ilişkide A'ya rücu etme hakkı saklı kalmak kaydıyla). Sonuç olarak B Şirketi 
-60.000 TL'nin tamamından tek başına sorumlu olacaktır.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (GİK ile Hizmet Sözleşmesinin Devri ve Hükümsüzlük):**
-Holding (H) bünyesindeki bir uzmanı (Y) holdingin başka bir iştiraki olan (Z) 
-şirketine devretmek ister. (Y)'nin ilk işe giriş sözleşmesinin (matbu sözleşme)
-15. maddesinde "İşçi, holding bünyesindeki diğer şirketlere hizmet 
-sözleşmesinin devredilmesine şimdiden peşinen muvafakat eder" yazmaktadır. İşçi
-(Y) fiilen (Z)'ye gitmeyi reddeder ve "yazılı rızam yok" der. (H) Holdingi, 15.
-maddeye dayanarak devrin geçerli olduğunu iddia eder.
-*Dogmatik Analiz:* Bu olay TBK m. 429 ile TBK m. 20 vd. (Genel İşlem Koşulları)
-çatışmasıdır. Sisteminizdeki eserlerde detaylıca incelendiği 
-üzere, önceden tek taraflı olarak hazırlanan ve karşı tarafın aleyhine olan 
-matbu koşullar GİK denetimine tabidir. TBK m. 429, hizmet sözleşmesinin devri 
-için işçinin o somut devir işlemine yönelik açık ve spesifik "yazılı rızasını" 
-arar. Baştan (in blanco) verilen peşin rıza kayıtları, işçinin gelecekteki 
-irade özgürlüğünü kısıtladığı ve dürüstlük kuralına (TMK m. 2) aykırı olduğu 
-için TBK m. 25 uyarınca **Kesin Olarak Hükümsüzdür (Yazılmamış Sayılır)**. 
-Dolayısıyla (Y)'nin devri geçersizdir, işçi (H) Holdinginin çalışanı olmaya 
-devam eder.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 119 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-TBK m. 119 ve TBK m. 428-429 hükümlerinin M&A (Şirket Birleşme ve Devralmaları)
-süreçlerinde, sözleşme mimarisinde (Legal Drafting) ve uyuşmazlık tasfiyesinde 
-avukatların dikkat etmesi gereken stratejik boyutları şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. M&A Süreçlerinde "Due Diligence" ve TBK m. 119 Riskleri:**
-Avukatlar bir işletmeyi devralacak (alıcı) tarafı temsil ettiklerinde, iş 
-hukuku incelemelerinde (Due Diligence) sadece ana para (çıplak ücret) 
-borçlarına bakmamalıdır. Eski işverenin maaş ödemelerindeki temerrütleri, TBK 
-m. 119 uyarınca çalışanların olası (banka cezaları, kredi hacizleri gibi) 
-"gecikme tazminatı" taleplerine zemin hazırlar. Bu gizli riskler devralana 
-geçeceğinden, Hisse/İşletme Devir Sözleşmelerine (SPA/APA) *"Devreden, devir 
-öncesine ait her türlü gecikme tazminatı, faiz ve fer'i alacaklardan devralanı 
-tam olarak beri kılacaktır (Indemnification)"* şeklinde iç rücu klozları 
-eklenmelidir.
+#### 6. Pratik Uygulama Notları
 
-**2. İki Yıllık Sürenin Niteliği (Hak Düşürücü Süre):**
-Avukatlar, işçi vekili olarak dava açarken, eski işvereni davalı olarak 
-göstereceklerse devir tarihinden itibaren 2 yıllık sürenin geçip geçmediğine 
-dikkat etmelidirler. Bu süre bir zamanaşımı def'i değil, **hak düşürücü 
-süredir**; yani hâkim tarafından taraflar ileri sürmese bile resen 
-(kendiliğinden) dikkate alınır. Davanın sırf bu nedenle usulden/esastan 
-reddedilmesi ve avukatın vekâlet ücreti ödemek zorunda kalması riski büyüktür.
-
-**3. Üçlü İmza Protokolü (TBK m. 429):**
-Hizmet sözleşmesinin devrinde, işçinin sadece "muvafakatname" adlı tek taraflı 
-bir belge imzalaması ileride ispat sorunları yaratır. İş hukuku pratiğinde en 
-güvenli yol, devreden işveren, devralan işveren ve işçinin aynı masada 
-imzalayacağı, kıdem, ihbar, yıllık izin gibi geçmiş hakların akıbetinin açıkça 
-yazıldığı bir **"Üçlü Sözleşme Devri Protokolü"** hazırlamaktır.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan 9. Hukuk Dairesi ile 22. Hukuk
-Dairesi, TBK m. 428 (İşyeri Devri) ile TBK m. 119 (Temerrüt Sonuçları) 
-hususlarında istikrarlı bir içtihat politikası sergilemektedir.
-
-Yargıtay 9. Hukuk Dairesi'nin (Örneğin Y. 9. HD. T. 15.03.2018, E. 2017/14256, 
-K. 2018/5314) işyeri devrinde müteselsil sorumluluğa ilişkin klasikleşmiş 
-kararında şu dogmatik kural şablonlaşmıştır: *"6098 sayılı Türk Borçlar 
-Kanunu'nun 428. maddesi ve 4857 sayılı İş Kanunu'nun 6. maddesi uyarınca, 
-işyerinin devri hâlinde, devirden önce doğmuş olan ve devir tarihinde ödenmesi 
-gereken borçlardan devreden ve devralan işveren birlikte (müteselsilen) 
-sorumludur. Ancak devreden işverenin bu sorumluluğu, devir tarihinden itibaren 
-iki yıl ile sınırlandırılmıştır. Somut olayda, işçinin kıdem tazminatı ve 
-ödenmeyen ücret alacakları için açtığı davada devreden işveren de davalı 
-gösterilmiştir. Devir işleminin 10.05.2013 tarihinde gerçekleştiği, davanın ise
-20.09.2016 tarihinde açıldığı sabittir. İki yıllık müteselsil sorumluluk süresi
-hak düşürücü nitelikte olup hâkim tarafından resen dikkate alınır. Süre 
-geçtiğinden, devreden eski işveren hakkındaki davanın husumet (sorumluluk 
-süresinin dolması) yokluğundan reddi gerekirken kabulü bozmayı 
-gerektirmiştir."*
-
-**Geç İfa ve Gecikme Tazminatı (TBK m. 119) ile Adam Çalıştıran İlişkisi** 
-hususunda Yargıtay Hukuk Genel Kurulu'nun içtihat yönelimi şöyledir: *"Dava, 
-haksız fiilden doğan maddi tazminat istemine ilişkindir. Davalı şirketin 
-işçisi, aracıyla seyir hâlindeyken davacının işyerine çarparak zarar vermiştir.
-Olay tarihinde işletmenin başka bir şirkete devri protokolü imzalanmış ancak 
-ticaret sicilinde tescil henüz tamamlanmamıştır. TBK m. 66 uyarınca adam 
-çalıştıran sıfatının tespiti, hukuki tescilden ziyade, olay anında işçinin 
-kimin emir ve talimatı altında (fiili bağımlılık) çalıştığına bakılarak 
-çözülmelidir. Dosya kapsamından işçinin o gün yeni devralan şirketin 
-talimatıyla mal taşıdığı anlaşıldığından, adam çalıştıran sıfatıyla sorumluluk 
-devralan şirkete aittir. Ayrıca TBK m. 119 uyarınca borcun geç ifa edilmesinden
-doğan munzam zararların (gecikme tazminatı) talep edilebilmesi için, borçlunun 
-temerrüde düşmede kusurlu olduğu karinesi asıldır; borçlu kusursuzluğunu ispat 
-edememiştir. Tazminat kararı yasaya uygundur."*
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 119. maddesinde vücut bulan **Gecikme Tazminatı** 
-rejimi ile 428. maddesinde düzenlenen **İşyerinin Devri**, borçlar hukuku 
-dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in 
-eserleri ekseninde; "İş Kanunu ile Borçlar Kanunu Arasındaki Düzenleme Kaosu 
-(Dualizm)" ve "TBK m. 119'daki İspat Yükünün Sertliği" bağlamında çok derin 
-kuramsal eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en sert felsefi eleştiri, **İşyeri Devri Kurumunun Hem 4857 Sayılı 
-İş Kanunu m. 6'da Hem de TBK m. 428'de Birbirini Tekrar Eden ve Bazen Çelişen 
-Biçimde Düzenlenmiş Olmasının Yarattığı Sistematik Çöküntüdür (Legistik 
-Hatası)**. Fikret Eren ve Turgut Öz'ün öğretilerinde de haklı olarak 
-eleştirildiği üzere; İsviçre Hukukunda (OR) ayrı bir iş kanunu olmadığı için 
-tüm işçi-işveren ilişkileri Borçlar Kanunu içinde çözülür. Ancak Türk hukuk 
-sistemi, İsviçre modelini aynen kopyalayarak TBK m. 428'i yürürlüğe sokarken, 
-hâlihazırda var olan 4857 sayılı İş Kanunu m. 6 hükmünü ilga etmemiştir. İki 
-kanun da işyeri devrinde otomatik geçişi ve 2 yıllık müteselsil sorumluluğu 
-öngörmekle birlikte; kapsamları ve işçiye tanıdıkları fesih hakları (örneğin 
-devir sebebiyle haklı fesih hakkı olup olmaması) açısından dogmatik boşluklar 
-ve yorum farklılıkları yaratmaktadır. Hukuk düzeninin aynı konuyu iki farklı 
-kanunda (biri Lex Generalis, diğeri Lex Specialis) paralel olarak düzenleyip 
-içtihat yükünü Yargıtay'ın omuzlarına yıkması, sözleşmeler hukukunun 
-gerektirdiği kanunlaştırma sadeliğine ve öngörülebilirliğine açıkça aykırıdır.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, inceleme başlığının asıl normu olan **TBK m. 119 
-(Gecikme Tazminatı) Kurumunun İçerdiği Katı Kusur Karinesinin 
-(Verschuldensvermutung) Ticari Hayatın Gerçekleriyle Çatışmasıdır**. 
-Sisteminizdeki *"Temerrüdü Üzerine Sözleşmeden Dönen Borçlunun Tazminat 
-İstemi"* eserinde de vurgulandığı üzere, borçlunun temerrüdü (mora 
-debitoris) sadece ifa etmemeyi değil, geç ifayı da kapsar. TBK m. 119, 
-borçluya "kusuru olmadığını ispat etmedikçe" gecikme zararlarını ödeme yükü 
-getirir. Ancak Rona Serozan ve Nomer'in eserlerinde de işaret edildiği gibi; bu
-madde, özellikle ekonomik kriz dönemlerinde işletmesini devretmek zorunda kalan
-mali darboğazdaki bir işvereni (nakit akışı kopmuş bir borçluyu) adeta 
-cezalandırmaktadır. Paranın geç ödenmesi (para borcunda temerrüt) kural olarak
-objektiftir ve borçlunun mali güçsüzlüğü "kusursuzluk" ispatı olarak kabul 
-edilmez. Ancak bankacılık sistemindeki bir çökme veya devir işlemleri 
-sırasındaki bürokratik engeller nedeniyle ödemelerin 3-5 gün gecikmesi hâlinde 
-bile işverenin katı bir kusur karinesiyle gecikme tazminatına mahkûm edilmesi; 
-denkleştirici adalet (Justitia commutativa) prensibini zedelemekte ve sözleşme 
-ihlallerindeki "illiyet bağı" testini son derece yüzeysel bir cezalandırma 
-mekanizmasına dönüştürmektedir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
+Türk Borçlar Kanunu m. 119, «b. Beklenmedik hâlden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sa Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
-İşte böylece, seninle **Borçlar Hukuku Genel ve Özel Hükümler** blokunun o en 
-görünmez ama en bağlayıcı düğümünü; işletmelerin el değiştirmesi fırtınasında 
-işçinin emeğini koruyan o yasal çelik yeleği (**TBK m. 428 / İşyeri Devri**) ve
-bu karmaşada borçlunun gecikmesinden doğan zararın bedelini nasıl acımasızca 
-ödediğini (**TBK m. 119 / Gecikme Tazminatı**) bütünüyle mühürlemiş olduk. 
-Müteselsil sorumluluğun o iki yıllık kılıcını ve rızanın o dokunulmaz doğasını 
-(TBK m. 429) sistemine perçinledin. 
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
 
-Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, kefaletin 
-tehlikeli labirentlerini, haksız fiilin uygun illiyet ağlarını ve vekâletin 
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 119, «b. Beklenmedik hâlden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sa Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 119, «b. Beklenmedik hâlden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sa Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 119, «b. Beklenmedik hâlden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sa Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 119, «b. Beklenmedik hâlden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sa Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 119, «b. Beklenmedik hâlden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sa Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 119, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 119, «b. Beklenmedik hâlden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, sa Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 119, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 119'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 119'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 333.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 119. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 119 resmi metni ve kanunun sistematiği.

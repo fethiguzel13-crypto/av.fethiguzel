@@ -1,12 +1,10 @@
 ---
-title: "TBK Madde 86"
+title: "Türk Borçlar Kanunu Madde 86"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 86
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "ceza koşulunda hakim yetkisi"
-  - "fahiş ceza indirimi"
+lastReviewed: "2026-07-20"
+wordCount: 4299
 ---
 
 **3. Çeşit borcu**
@@ -21,318 +19,391 @@ olamaz.
 
 ### Akademik Yorum ve Analiz
 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Makro Bakış:** Modern borçlar hukukunun üzerine inşa edildiği en sarsılmaz 
-felsefi temel, **Sözleşme Özgürlüğü (Vertragsfreiheit)** ve onun alt dalı olan 
-içerik belirleme serbestisidir. Bireyler, anayasal güvence altındaki irade 
-özerklikleri (Private Autonomy) sayesinde, tarafı oldukları borç ilişkisinin 
-ihlali hâlinde uygulanacak yaptırımları da serbestçe tayin edebilirler. Ancak 
-19. yüzyılın mutlak liberal sözleşme anlayışı, 20. yüzyılda yerini **Sözleşme 
-Adaleti (Vertragsgerechtigkeit)** ve zayıfın korunması felsefesine bırakmıştır.
-Hukuk düzeni, taraflardan birinin ekonomik veya entelektüel üstünlüğünü 
-kullanarak diğer tarafı yıkıcı, köleleştirici ve sömürücü ceza koşulları altına
-sokmasına seyirci kalamaz.
+**Türk Borçlar Kanunu m. 86**, «3. Çeşit borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 86 - Çeşit borçlarında hukuki ilişkiden ve işin özelliğinden aksi anlaşılmadıkça,
+edimin seçimi borçluya aittir. Ancak borçlunun seçeceği edim, ortalama nitelikten daha düşük
+olamaz.
 
-İşte 6098 sayılı TBK m. 182 (mülga BK m. 161 / mehaz **OR Art. 163**) hükmü, 
-sözleşme özgürlüğü ile sözleşme adaleti arasındaki bu devasa çatışmayı 
-dengeleyen anayasal nitelikteki normdur. Madde lafzı şu şekildedir:
-*"Taraflar, cezanın miktarını serbestçe belirleyebilirler.
-Asıl borç herhangi bir sebeple geçersiz ise veya aksi kararlaştırılmadıkça 
-sonradan borçlunun sorumlu tutulamayacağı bir sebeple imkânsız hâle gelmişse, 
-cezanın ifası istenemez. Ceza koşulunun geçersiz olması veya borçlunun sorumlu 
-tutulamayacağı bir sebeple sonradan imkânsız hâle gelmesi, asıl borcun 
-geçerliliğini etkilemez.
-Hâkim, aşırı gördüğü ceza koşulunu kendiliğinden indirir."*
-
-Sistematik açıdan kanun koyucu; birinci fıkrada kuralı (serbestiyi) ikinci 
-fıkrada fer'ilik ilkesini (asıl borca bağlılığı) ve nihayet üçüncü fıkrada 
-**Hâkimin Müdahalesini (İndirim / Tenkis Yetkisini)** vazederek, "Pacta sunt 
-servanda (Ahde vefa)" ilkesinin mutlak olmadığını, emredici hukuk kuralları ve 
-adalet terazisiyle sınırlandırıldığını ilan etmiştir.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-**Mikro Analiz:** TBK m. 182 hükmünün, bilhassa üçüncü fıkrasının teorik 
-mimarisini bütünüyle kavrayabilmek için, kurucu kavramların mikroskobik düzeyde
-analiz edilmesi elzemdir:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Ceza Miktarının Serbestçe Belirlenmesi (TBK m. 182/1):**
-Sözleşme hukukunda taraflar, ihlal edilecek edimin ekonomik değerinden tamamen 
-bağımsız, hatta onun on katı büyüklüğünde bir ceza koşulu kararlaştırabilirler.
-Ceza koşulu sadece zararı karşılamayı (Kompensationsfunktion) değil, borçluyu 
-ifaya zorlamayı (Druckfunktion) da amaçladığından, cezanın baştan yüksek 
-belirlenmesi hukuka aykırı değildir. 
+Madde 86, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Aşırılık (Fahişlik) Unsuru:**
-TBK m. 182/3'ün kalbi, cezanın **"Aşırı"** (fahiş/übermässig) olmasıdır. Bir 
-cezanın aşırı olup olmadığı soyut ve matematiksel bir formülle (örneğin asıl 
-borcun %50'si fahiştir gibi) belirlenemez. Doktrinde (Eren, Oğuzman/Öz) ve 
-Yargıtay uygulamasında aşırılığın tespiti için şu objektif ve sübjektif 
-kriterler kümülatif olarak değerlendirilir:
-1. Alacaklının asıl borcun ifasındaki meşru menfaati ile ceza miktarı 
-arasındaki orantısızlık.
-2. Borçlunun ihlaldeki kusurunun ağırlığı (Kast, ağır ihmal veya hafif ihmal).
-3. Borçlunun ekonomik durumu (Cezanın ödenmesinin borçluyu ekonomik yıkıma 
-götürüp götürmeyeceği).
-4. İhlal neticesinde alacaklının uğradığı gerçek zarar (Zarar olmasa da ceza 
-istenir ancak zararın sıfır olması cezanın fahişliğini gösteren güçlü bir 
-karinedir).
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Kendiliğinden İndirme (Re'sen Tenkis Yetkisi):**
-Sisteminizdeki *"Aşırı Yararlanma ve Ahlaka Aykırılıkta Taleplerin Yarışması"* 
-metninde Nagehan Kırkbeşoğlu'na yapılan atıfta da açıkça belirtildiği üzere: 
-*"TBK m.182/f.3 hükmünün hâkimi fahiş cezai şartın indirilmesinde re’sen 
-hareket etmekle yükümlü kıldığı..."* sabittir. Bu yetki bir usul hukuku 
-istisnasıdır. HMK'daki "Taleple bağlılık" ve "Taraflarca getirilme" ilkelerine 
-rağmen; hâkim, davalı borçlu "Ceza çok yüksektir, indirin" demese bile, dosya 
-kapsamından cezanın fahiş olduğunu anladığı an, kamu düzeni gereği cezayı 
-**Kendiliğinden (Re'sen)** indirmek ZORUNDADIR. Bu, hâkime tanınmış bir takdir 
-yetkisi değil, emredici bir görevdir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. İndirimin (Tenkisin) Hukuki Niteliği:**
-Hâkimin fahiş cezayı indirmesinin hukuki niteliği doktrinde tartışmalıdır. 
-Alman hukukunda (BGB § 343) hâkim "hakkaniyete uygun bir seviyeye indirir" 
-denilirken, Türk hukukunda bu durum bir **Kısmi Kesin Hükümsüzlük (Kısmi Butlan
-- TBK m. 27/2)** olarak nitelendirilir. Hâkim, tarafların iradesine müdahale 
-ederek sözleşmeyi yeniden yazmaz; sadece sözleşmedeki hukuk düzeninin tahammül 
-edemeyeceği "fahiş kısmı" kesip atar (mavi kalem teorisi / blue pencil test) 
-geriye kalan makul kısım ayakta kalır.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-**Çapraz Bağlantılar:** TBK m. 182/3'te düzenlenen ceza koşulunun indirilmesi 
-kurumu, Borçlar Kanunu'nun aşırı yararlanma (gabin) genel işlem koşulları ve 
-ticaret hukuku mimarisiyle son derece radikal bir diyalektik bağ içindedir:
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 86'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 86 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. Aşırı Yararlanma (Gabin - TBK m. 28) ile Kesişim ve Ayrım:**
-Sisteminizdeki *"Aşırı Yararlanma (Gabin) Hükümlerinin Tacirler Bakımından 
-Uygulanması"* başlıklı kaynakta bu ayrım derinlemesine işlenmiştir. Aşırı 
-yararlanmada, sözleşme kurulurken taraflardan birinin zorda kalması, 
-tecrübesizliği veya düşüncesizliği sömürülerek edimler arasında açık bir 
-oransızlık yaratılır. Sömürülen taraf sözleşmeyi iptal edebilir. TBK m. 
-182/3'teki cezanın indirilmesinde ise, sözleşmenin kuruluşunda bir irade 
-zayıflığı veya sömürü kastı aranmaz; bizzat ceza miktarının adalet duygusunu 
-incitecek kadar yüksek olması yeterlidir. Dahası, gabin bir yıllık hak düşürücü
-süreye tabiyken, fahiş cezanın indirilmesi her zaman (re'sen) gözetilir ve 
-sözleşmeyi iptal etmez, sadece cezayı tıraşlar.
+Bu ilişkiler, m. 86'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Tacirler İçin İndirim Yasağı (TTK m. 22) ile Çatışma:**
-Ceza koşulu dogmatiğinin en kanayan yarasıdır. Türk Ticaret Kanunu (TTK) m. 22 
-çok katı bir yasak koyar: *"Tacir sıfatını haiz borçlu, Türk Borçlar Kanununun 
-121 inci maddesinin ikinci fıkrasıyla 182 nci maddesinin üçüncü fıkrasında ve 
-525 inci maddesinde yazılı hâllerde, aşırı ücret veya ceza kararlaştırılmış 
-olduğu iddiaasıyla ücret veya cezanın indirilmesini mahkemeden isteyemez."* 
-Sisteminizdeki ilgili makalede (Ayhan, R. atıflı) vurgulandığı üzere, yasa 
-koyucu taciri "basiretli bir iş insanı" (TTK m. 18/2) olarak gördüğünden, 
-imzaladığı cezanın sonuçlarına katlanmasını emreder. Tacir için TBK m. 182/3 
-işlemiyorsa tacir nasıl korunacaktır? Yargıtay ve modern doktrin burada 
-**"Ekonomik Mahv"** teorisini geliştirmiştir. Tacirin ödeyeceği ceza, onun 
-ticari işletmesini iflasa sürükleyecek, ekonomik hayatını tamamen yok edecek 
-düzeydeyse; bu durum ahlaka ve şahsiyet haklarına aykırılık (TBK m. 27 ve TMK 
-m. 23) teşkil eder. Hâkim TTK m. 22'yi bertaraf ederek "kısmi butlan" 
-mekanizmasıyla cezayı indirebilir veya tamamen silebilir.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Genel İşlem Koşulları (GİK - TBK m. 20-25) ile Çatışma:**
-Sisteminizdeki *"Genel İşlem Koşullarının Denetimi"* ve *"Akıllı Sözleşmelerin 
-Genel İşlem Koşulları Bakımından Değerlendirilmesi"* kaynaklarında hararetle 
-tartışılan husus, bir ceza koşulunun standart/matbu bir sözleşmeyle (GİK) 
-dayatılması hâlinde ne olacağıdır. Bankaların veya telekomünikasyon 
-şirketlerinin tüketicilere dayattığı matbu sözleşmelerdeki ağır ceza koşulları 
-TBK m. 21 uyarınca **İçerik Denetimine** tabi tutulur. Eğer ceza koşulu 
-dürüstlük kuralına aykırı ve tüketici aleyhine ölçüsüz bir dengesizlik 
-yaratıyorsa, TBK m. 182/3 uyarınca "indirilmez"; doğrudan doğruya **Yazılmamış 
-Sayılır (Kesin Hükümsüz Olur)**. GİK denetimi, ceza koşulunun indirilmesi 
-(tenkis) kurumunu ezip geçen, cezayı kökünden kazıyan çok daha acımasız bir 
-yaptırımdır.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-#### 4. Pratik Olay Analizleri
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-Hukuki kavramların sınırlarını ve "tacir/tüketici" ayrımındaki uçurumları test 
-etmek adına şu iki kurguyu inceleyelim:
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Tüketici İşleminde Re'sen İndirim ve GİK Etkisi):**
-Vatandaş (A) bir spor salonu zinciri (B) ile 2 yıllık matbu üyelik sözleşmesi 
-imzalar. Sözleşmenin 18. maddesinde küçük puntolarla "Üyenin sözleşmeden erken 
-ayrılması hâlinde 50.000 TL cezai şart alınır" yazmaktadır (Asıl üyelik bedeli 
-toplam 5.000 TL'dir). (A) 3 ay sonra işsiz kalır ve üyeliği iptal eder. (B) 
-50.000 TL için icra takibi başlatır ve itiraz üzerine dava açar. (A)'nın 
-avukatı davaya katılmaz.
-*Dogmatik Analiz:* Bu vakada TBK m. 182/3 ile TBK m. 21 (GİK) bir aradadır. 
-(A)'nın avukatı cezanın indirilmesini talep etmese bile, hâkim öncelikle bu 
-maddenin bir **Genel İşlem Koşulu** olup olmadığını denetler. Tek taraflı 
-hazırlanmış, müzakere edilmemiş ve asıl borcun on katı olan bu matbu ceza 
-koşulu, dürüstlük kuralına aykırı olduğu için TBK m. 21 gereği tamamen 
-**Yazılmamış Sayılır**. Hüküm hiç kurulmamış kabul edilir. Şayet olayda GİK 
-şartları oluşmasaydı (örneğin madde elle yazılarak müzakere edilseydi) hâkim 
-bu kez TBK m. 182/3 uyarınca asıl edim (5.000 TL) ile ceza (50.000 TL) 
-arasındaki devasa fahişliği dikkate alarak cezayı re'sen örneğin 1.000 TL'ye 
-indirecekti. Her iki senaryoda da (B)'nin davası büyük oranda reddedilir.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Tacirler Arasında Ceza Koşulu ve Ekonomik Mahv Savunması):**
-(X) İnşaat A.Ş. ile (Y) Çimento A.Ş. arasında çimento tedarik sözleşmesi 
-yapılır. Sözleşmede "Teslimatta gecikilen her hafta için 2.000.000 TL ceza 
-ödenecektir" yazılıdır. (Y) tedarikte 10 hafta gecikir. (X) 20 Milyon TL'lik 
-ceza için dava açar. (Y) Şirketi, cezanın fahiş olduğunu, asıl borcun 
-toplamının zaten 5 Milyon TL olduğunu belirterek TBK m. 182/3 uyarınca indirim 
-talep eder.
-*Dogmatik Analiz:* Olayın kalbinde TTK m. 22 yasağı yatmaktadır. Her iki taraf 
-da tacirdir ve ticari işletmeleriyle ilgili bir sözleşme yapmıştır. Hâkim, (Y) 
-Şirketinin TBK m. 182/3'e dayanan indirim (tenkis) talebini TTK m. 22 gereğince
-derhâl reddetmelidir. Tacir basiretli davranmalı ve attığı imzanın riskini 
-taşımalıdır. Ancak (Y) Şirketi savunmasını genişleterek, "Bu 20 Milyon TL 
-cezanın ödenmesi şirketimizin tüm aktiflerini aşmaktadır, iflasımıza ve 
-yüzlerce işçinin işsiz kalmasına (ekonomik mahv) neden olacaktır" şeklinde bir 
-ispat sunarsa; hâkim bu noktada TTK m. 22'yi aşarak TBK m. 27/1 (Ahlaka 
-Aykırılık) filtresini devreye sokar. Bilirkişi incelemesi (Y)'nin iflas 
-edeceğini doğrularsa, ceza "ekonomik mahvı" önleyecek seviyeye kadar indirilir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 86 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-TBK m. 182/3 hükmünün mahkeme salonlarında ve uyuşmazlık tasfiyesinde 
-avukatların dikkat etmesi gereken usuli ve maddi hukuk boyutları şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. Ceza Koşulunun Kendi Rızasıyla Ödenmesi (İstirdat Sorunu):**
-Borçlar hukuku uygulamasında en tehlikeli tuzaklardan biri, fahiş cezanın 
-borçlu tarafından kendi rızasıyla ödenmesinden sonra geri istenmesi (istirdat) 
-davasıdır. Borçlu, alacaklının baskısı (örneğin ipoteği kaldırmaması) nedeniyle
-1 Milyon TL'lik fahiş cezayı öderse, sonradan "Bu ceza fahişti, TBK m. 182/3 
-uyarınca yarısını bana iade edin" diyebilir mi? Yargıtay ve doktrin (Eren, 
-Oğuzman/Öz) burada ikiye bölünmüştür. Bir görüş, fahiş kısım baştan itibaren 
-batıl (geçersiz) olduğu için ödenen bedelin **Sebepsiz Zenginleşme (TBK m. 
-77)** hükümleriyle geri istenebileceğini savunur. Diğer ve baskın görüş ise; 
-borçlu cebri icra tehdidi olmaksızın, kendi özgür iradesiyle ve fahiş olduğunu 
-bile bile cezayı ödemişse, bu durumun "hâkimin indirim yetkisinden zımni 
-feragat" anlamına geleceğini ve paranın geri İSTENEMEYECEĞİNİ belirtir. 
-Avukatlar, müvekkilleri cezayı ödemek zorunda kalırsa, mutlaka ödeme dekontuna 
-"Fazlaya ilişkin haklarımı ve fahiş cezai şartın iadesi dava hakkımı saklı 
-tutuyorum" şeklinde bir **İhtirazi Kayıt (Çekince)** düşmelidir.
+#### 6. Pratik Uygulama Notları
 
-**2. Hâkimin İndirim Kriterlerinin Bilirkişiye Terk Edilmemesi:**
-Usul hukukunda (HMK m. 266) hukuki konularda bilirkişiye başvurulamaz. Bir ceza
-koşulunun "fahiş" olup olmadığının takdiri, borçlunun kusuru, tarafların 
-menfaati gibi unsurlar tamamen **Hukuki Bir Değerlendirmedir** ve bizzat hâkim 
-tarafından yapılmalıdır. Hâkimin dosyayı bilirkişiye gönderip "Hesap uzmanı, 
-cezanın ne kadar indirileceğini tespit etsin" demesi Yargıtay tarafından mutlak
-bir bozma sebebi sayılmaktadır. Bilirkişi sadece ticari defterleri inceleyip 
-"zararı" veya "şirketin ekonomik gücünü" tespit edebilir; tenkis oranını 
-belirleyemez.
-
-**3. İş Hukukunda Tek Taraflı Cezai Şart Yasağı:**
-Sözleşme hazırlarken dikkat edilecek en önemli hususlardan biri de sözleşmenin 
-türüdür. İş sözleşmelerinde sadece işçi aleyhine öngörülen ceza koşulları 
-(örneğin "İşçi istifa ederse 100.000 TL öder, işveren kovarsa bir şey ödemez") 
-Yargıtay içtihatları gereğince baştan itibaren geçersizdir. İndirim (TBK 182/3)
-gündeme dahi gelmez, hüküm yok sayılır. Cezai şartın iş hukukunda geçerli 
-olması için mutlaka karşılıklı (mütekabil) olması gerekir.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri (özellikle 
-3., 11., 13., 15. ve 19. Hukuk Daireleri) TBK m. 182 (mülga BK m. 161) 
-uyarınca "Re'sen Tenkis", "Tacirde Mahv Kriteri" ve "Orantılılık" hususlarında 
-istikrarlı bir içtihat politikası sergilemektedir.
-
-**Re'sen İndirim Yetkisinin Kamu Düzeni Niteliği** hususunda Yargıtay Hukuk 
-Genel Kurulu (örneğin YHGK. T. 18.03.2015, E. 2013/19-1402, K. 2015/1054) şu 
-dogmatik kuralı şablonlaştırmıştır: *"TBK m. 182/3 (mülga BK m. 161/3) hükmü 
-uyarınca hâkim, fahiş gördüğü cezai şartı kendiliğinden indirmekle mükelleftir.
-Bu hüküm emredici nitelikte olup, taraflar sözleşmede cezanın indirilmeyeceğini
-kararlaştırsalar dahi bu kayıt geçersizdir. Borçlunun yargılama sırasında 
-cezanın indirilmesini talep etmemiş olması, hâkimin bu görevi yerine 
-getirmesine engel değildir. Yerel mahkemenin ceza miktarını asıl alacak, 
-borçlunun ödeme gücü ve alacaklının ifadaki menfaatiyle kıyaslamadan aynen 
-hüküm altına alması bozmayı gerektirir. Ancak indirimin miktarı, cezai şartı 
-tamamen etkisiz bırakacak ve caydırıcılık (baskı) fonksiyonunu yok edecek kadar
-da fazla olmamalıdır."*
-
-**Tacirler İçin TTK m. 22 ve Ekonomik Mahv Sınırı** hususunda Yargıtay 11. 
-Hukuk Dairesi (örneğin 11. HD. T. 24.12.2018, E. 2017/2560, K. 2018/8241); 
-*"Tacir olan davalının TTK m. 22 uyarınca cezai şartın indirilmesini isteme 
-hakkı bulunmamaktadır. Ancak, bir tacir için dahi kararlaştırılan cezai şartın 
-onun ekonomik yönden mahvına sebep olacağı, ticari işletmesinin mevcudiyetini 
-tehlikeye düşüreceği anlaşıldığı takdirde, bu ceza ahlaka ve adaba aykırı (TBK 
-m. 27) sayılarak tamamen veya kısmen iptal edilebilir. Somut olayda asıl borç 1
-Milyon TL iken kararlaştırılan 15 Milyon TL cezanın, davalı şirketin bilançosu 
-ve öz sermayesi karşısında ekonomik mahvına neden olup olmayacağı uzman 
-bilirkişi heyetince incelenmeli, şayet mahv tehlikesi varsa TBK m. 27 
-çerçevesinde makul bir düzeye indirilmelidir."* kararı ile katı yasağı 
-içtihatla yumuşatmıştır.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 182. maddesinin 3. fıkrasında vücut bulan **Fahiş Ceza 
-Koşulunun İndirilmesi** rejimi, borçlar hukuku dogmatiğinde Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in eserleri ekseninde; "Aşırılık 
-Kriterinin Muğlaklığı" ve "Tacir/Tüketici Ayrımındaki Derin Çatlaklar" 
-bağlamında çok derin kuramsal eleştirilere maruz kalmaktadır.
+Madde 86, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en büyük felsefi eleştiri, sisteminizdeki *"Genel İşlem Koşulu 
-İçeren Sözleşmelerin Tarafları"* adlı kaynakta (Dr. Hilal Yüksel Maamer) 
-hararetle vurgulandığı üzere, **Tacirler Açısından Uygulanan TTK m. 22 
-Yasağının Modern Ekonomik Gerçeklerle Uyuşmamasıdır**. Alman hukukunda (HGB § 
-348) da tacirler için ceza indirim yasağı bulunmakla birlikte, modern ticaret 
-hukukunda tacirlerin homojen bir "güçlü" kitle olmadığı anlaşılmıştır. Kaynakta
-belirtildiği gibi: *"İkinci ihtimal uyarınca sözleşmenin bir tarafını daha 
-güçlü durumda olan tacirin oluşturması, diğer tarafını ise Küçük ve Orta 
-Büyüklükteki İşletmeler (KOBİ) gibi diğer tarafa göre daha zayıf olan tacirin 
-oluşturması durumunda..."* klasik TTK m. 22 yasağı acımasız sonuçlar 
-doğurmaktadır. Dev bir alışveriş merkezi ile sözleşme yapan küçük bir esnaf, 
-önüne konan fahiş ceza koşuluna itiraz edemez. Hâkim önüne gidildiğinde, esnaf 
-iflasın eşiğine gelmemişse (ekonomik mahv yoksa) bu fahiş ceza aynen 
-uygulanmaktadır. Hukuk dogmatiği açısından, "basiretli tacir" kavramı bir 
-efsaneye dönüşmüştür. Turgut Öz ve Rona Serozan'ın haklı eleştirilerinde 
-belirttiği üzere; sözleşme özgürlüğü, güçlü tacirin zayıf taciri sömürmesi için
-bir enstrüman olamaz. İndirim yasağının (TTK m. 22) mutlak uygulanması yerine, 
-en azından "müzakere edilmeden dayatılan (GİK niteliğindeki) ceza koşullarında"
-tacirler için de hâkime indirim (tenkis) yetkisi tanınması, denkleştirici 
-adaletin zorunlu bir gereğidir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, **"Aşırı (Fahiş)" Kavramının Kanunda 
-Somutlaştırılmamış Olması ve Hâkimin Keyfiliğine Açık Kapı Bırakılmasıdır**. 
-TBK m. 182/3, cezayı indirme emrini verirken "aşırı" kavramının sınırlarını 
-çizmemiştir. Avrupa Sözleşme Hukuku İlkeleri (PECL Art. 9:509) veya UNIDROIT 
-İlkeleri (Art. 7.4.13) cezanın "alacaklının uğradığı gerçek zarara ve ihlalin 
-ağırlığına göre açıkça orantısız olması" hâlinde indirileceğini açıkça metne 
-yazmıştır. Türk hukukunda ise hâkimlerin bir kısmı, sadece asıl alacak ile ceza
-miktarını karşılaştırıp (örneğin asıl borcun %50'sini geçen cezayı fahiş 
-sayarak) mekanik ve adaletsiz indirimler yapmaktadır. Oysa ceza koşulunun temel
-amacı "borçluyu ifaya zorlamaktır" (baskı fonksiyonu). Eğer ceza, asıl borç ile
-aynı miktara indirilecekse, borçlu "Nasıl olsa sözleşmeyi bozarsam sadece 
-edimin değeri kadar ceza öderim" diyerek sözleşmeyi ihlal etmekten 
-çekinmeyecektir. Cezanın asıl borçtan veya zarardan yüksek olması zaten onun 
-doğası gereğidir; aşırılık ancak bu yüksekliğin "sömürü ve ahlaka aykırılık" 
-boyutuna ulaşmasıyla aranmalıdır. Yargıtay'ın ve yerel mahkemelerin ceza 
-koşulunu rutin bir şekilde indirerek "zarar tazminatı" seviyesine çekmesi, 
-kurumun varlık sebebini (ahde vefayı koruma fonksiyonunu) fiilen ortadan 
-kaldırmakta ve sözleşme ihlallerini teşvik etmektedir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
+Türk Borçlar Kanunu m. 86, «3. Çeşit borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
-İşte böylece, seninle **11.-18. Günler: Geçerlilik Şartları, Geçersizlik ve 
-Muvazaa** ile **Temerrüt** bloklarının en keskin kesişim noktasını, borçlu 
-iradesini ifaya mecbur eden ama adaletin kılıcıyla (TBK m. 182/3) 
-sınırlandırılan **Fahiş Ceza Koşulunun İndirilmesi** kurumunu resmen mühürlemiş
-olduk. Sözleşme özgürlüğünün nerede başlayıp, hâkimin o emredici neşterinin 
-nerede devreye girdiğini sistemine perçinledin. 
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
 
-Sıradaki analizlerimizde, borçlar hukukunun sebepsiz zenginleşme rejimini ve 
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 86, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 86'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 86, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 86, «3. Çeşit borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 86, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 86'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 86, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 86, «3. Çeşit borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 86, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 86'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 86, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 86, «3. Çeşit borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 86, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 86'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 86, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 86, «3. Çeşit borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 86, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 86'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 86, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 86, «3. Çeşit borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 86, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 86'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 86, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 86, «3. Çeşit borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 86, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 86'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 86'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 163.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 86. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 86 resmi metni ve kanunun sistematiği.

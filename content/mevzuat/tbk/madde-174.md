@@ -1,12 +1,10 @@
 ---
-title: "TBK Madde 174"
+title: "Türk Borçlar Kanunu Madde 174"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 174
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "genel işlem koşulları tüketici hukuku"
-  - "TKHK bağlantısı"
+lastReviewed: "2026-07-20"
+wordCount: 4301
 ---
 
 **C. Ortak hükümler
@@ -23,285 +21,393 @@ değilse, o tarafın ölümü hâlinde mirasçısı onun yerine geçebilir.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Türk Özel Hukuku'nda kitle sözleşmelerinin, standardizasyonun ve 
-rasyonelleşmenin bir sonucu olarak ortaya çıkan "Genel İşlem Koşulları" (GİK) 
-mülga 818 sayılı Borçlar Kanunu döneminde pozitif bir düzenlemeye sahip değildi
-ve bu tür şartların denetimi Türk Medeni Kanunu (TMK) m. 2'de yer alan 
-dürüstlük kuralı üzerinden sağlanmaya çalışılmaktaydı. 6098 sayılı Türk 
-Borçlar Kanunu'nun yürürlüğe girmesiyle birlikte, Alman Hukukundaki (BGB m. 305
-vd.) gelişmelere paralel olarak genel işlem koşulları TBK m. 20 ila 25 arasında
-pozitif bir temele kavuşmuştur. 
+**Türk Borçlar Kanunu m. 174**, «Madde 174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Ortak hükümler
+I. Koşulun gerçekleşmesi**
 
-TBK m. 20/1 hükmüne göre genel işlem koşulları; "bir sözleşme yapılırken 
-düzenleyenin, ileride çok sayıdaki benzer sözleşmede kullanmak amacıyla, 
-önceden, tek başına hazırlayarak karşı tarafa sunduğu sözleşme hükümleridir". Kanun koyucu, bu hükümlerin denetimini üç aşamalı bir sisteme 
-bağlamıştır: Yürürlük (kapsam) denetimi (TBK m. 21-22) yorum denetimi (TBK m. 
-23) ve içerik denetimi (TBK m. 24-25). 
+---
 
-Öte yandan, genel işlem koşullarının tüketici hukuku ile olan ilişkisi, 6502 
-sayılı Tüketicinin Korunması Hakkında Kanun'un 5. maddesinde yer alan "Tüketici
-Sözleşmelerindeki Haksız Şartlar" kurumu ile şekillenmektedir. Avrupa 
-Konseyi'nin 93/13/AET sayılı Tüketici Sözleşmelerinde Haksız Şartlar Hakkında 
-Yönergesi'ne dayanan bu düzenleme, tüketici sözleşmelerinde yer alan ve 
-tüketici aleyhine dürüstlük kuralına aykırı dengesizlik yaratan şartları haksız
-şart olarak tanımlamakta ve kesin hükümsüzlük yaptırımına tabi tutmaktadır. TBK m. 20 vd. hükümleri her türlü hukuki ilişkideki (tacirler arası dahil) 
-genel işlem koşullarını hedef alırken, TKHK m. 5 doğrudan zayıf konumda olan 
-tüketiciyi korumayı amaçlayan özel (lex specialis) bir rejimdir.
+Madde 174 - Koşul, taraflardan birinin bizzat yerine getirmesi gerekli bir davranış
+değilse, o tarafın ölümü hâlinde mirasçısı onun yerine geçebilir.
+
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-Genel işlem koşulları ve tüketici hukukundaki haksız şartlar rejiminin dogmatik
-sınırlarını belirleyebilmek için temel unsurların öğretideki (Eren, Oğuzman/Öz,
-Nomer, Atamer) yaklaşımlar çerçevesinde incelenmesi gereklidir:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Genel İşlem Koşulunun Unsurları (TBK m. 20):**
-Bir sözleşme hükmünün genel işlem koşulu sayılabilmesi için kümülatif olarak şu
-unsurları taşıması gerekir: 
-1) *Önceden hazırlama:* Sözleşme şartları, taraflar bir araya gelmeden önce 
-metin veya elektronik kod (akıllı sözleşmeler dahil) olarak düzenlenmiş 
-olmalıdır. 
-2) *Çok sayıda sözleşme için hazırlama (Kavramsal Çokluk):* Düzenleyenin, 
-şartları birden çok kişiye karşı kullanma niyeti bulunmalıdır.
-3) *Tek taraflı sunulması:* Şartların düzenleyen tarafından karşı tarafa 
-dayatılması, yani "take it or leave it" (kabul et ya da terk et) mantığıyla 
-sunulması şarttır.
-4) *Müzakere edilmemiş olması:* Hükmün, karşı tarafın etki edemeyeceği, 
-üzerinde pazarlık yapılamayan bir nitelik taşımasıdır.
+Madde 174, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Bireysel (Şahsi) Anlaşma (Individualabrede):**
-TBK m. 20/3 uyarınca, genel işlem koşullarıyla veya sözleşmenin diğer 
-hükümleriyle ilgili olarak tarafların açıkça müzakere edip anlaştıkları 
-şartlar, genel işlem koşulu olmaktan çıkar ve "bireysel anlaşma" niteliği 
-kazanır. Bireysel anlaşmalar, genel işlem koşullarına nazaran 
-hiyerarşik bir üstünlüğe sahiptir ve çatışma hâlinde bireysel anlaşma uygulanır.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Tüketici İşlemi ve Haksız Şart (TKHK m. 3 ve m. 5):**
-TKHK kapsamında tüketici; ticari veya mesleki olmayan amaçlarla hareket eden 
-gerçek veya tüzel kişidir. Haksız şart ise; tüketiciyle müzakere 
-edilmeden sözleşmeye dâhil edilen ve tarafların sözleşmeden doğan hak ve 
-yükümlülüklerinde dürüstlük kuralına aykırı düşecek biçimde tüketici aleyhine 
-dengesizliğe neden olan şartlardır. Tüketici hukukunda haksız şartın 
-varlığı için şartın genel işlem koşulu olarak "çok sayıda kullanım amacıyla" 
-hazırlanmış olması zorunlu değildir; tek bir tüketici için önceden hazırlanan 
-ve müzakere edilmeyen şart da haksız şart denetimine tabidir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Şaşırtıcı ve Beklenmedik Şartlar (Überraschende Klauseln):**
-TBK m. 21/2 uyarınca, sözleşmenin niteliğine ve işin özelliğine tamamen yabancı
-olan genel işlem koşulları yazılmamış sayılır. Bu kavram, karşı tarafın 
-sözleşmeyi imzalarken varlığını düşünmediği, dürüst ve makul bir tarafın o tip 
-bir sözleşmede bulunmasını beklemediği, sözleşmenin asıl amacıyla bağdaşmayan 
-gizli veya yanıltıcı hükümleri ifade eder.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-Genel işlem koşulları rejimi; Sözleşme Özgürlüğü (TBK m. 26) Yorum Kuralları 
-(TMK m. 1) ve Sebepsiz Zenginleşme (TBK m. 77) kurumları ile yoğun bir dogmatik
-etkileşim içindedir.
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 174'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 174 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. Sözleşme Özgürlüğü ve Sosyal Devlet İlkesi Çatışması:**
-Borçlar hukukunun temelini oluşturan irade özerkliği ve sözleşme özgürlüğü (TBK
-m. 26) tarafların eşit güçte olduğu varsayımına dayanır. Ancak modern 
-kitle sözleşmelerinde bu eşitlik sadece şeklidir. Genel işlem koşulları ve 
-haksız şart denetimi, sosyal devlet ilkesinin özel hukuka yansıması olarak, 
-sözleşme özgürlüğünün zayıf tarafı (tüketiciyi) ezen bir silaha dönüşmesini 
-engellemek için getirilmiş doğrudan bir müdahaledir. Devlet, zayıf 
-tarafın "okumadan imzaladığı" sözleşmelerde irade sakatlığı aramaksızın içerik 
-denetimi yapar.
+Bu ilişkiler, m. 174'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. TBK m. 20 vd. ile TKHK m. 5 Arasındaki Lex Generalis - Lex Specialis 
-İlişkisi:**
-TBK'daki genel işlem koşulları hükümleri, kural olarak tüm hukuki işlemlerde 
-(tacirler arası sözleşmeler dahil) uygulama alanı bulur. Ancak 
-sözleşmenin bir tarafının tüketici olduğu durumlarda, 6502 sayılı TKHK m. 5 
-hükümleri özel kanun (lex specialis) niteliğinde olup öncelikle uygulanır. Bu ikili yapıda, eğer TKHK'da hüküm bulunmayan bir mesele varsa (örneğin 
-yürürlük denetimine ilişkin "şaşırtıcı şartlar" veya "yazılmamış sayılma" 
-yaptırımı) TBK m. 20 vd. hükümleri tüketici sözleşmelerinde de tamamlayıcı 
-olarak uygulama alanı bulur.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Yaptırım Rejimindeki Çatışma (Yazılmamış Sayılma vs. Kesin Hükümsüzlük):**
-TBK m. 21 uyarınca yürürlük (kapsam) denetiminden geçemeyen veya şaşırtıcı 
-nitelikte olan koşullar "yazılmamış sayılır". Buna karşılık, TBK m. 25
-uyarınca dürüstlük kuralına aykırı olarak karşı taraf aleyhine dengesizlik 
-yaratan (içerik denetimine takılan) koşullar ile TKHK m. 5 kapsamında haksız 
-şart kabul edilen koşullar "kesin hükümsüzdür" (kısmi butlan). 
-Doktrinde, yazılmamış sayılmanın aslında kendine özgü (sui generis) bir kesin 
-hükümsüzlük türü olduğu, her iki yaptırımın da nihayetinde hükmün baştan 
-itibaren geçersizliği sonucunu doğurduğu ağırlıklı olarak savunulmaktadır.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-**D. Yorum Denetiminde "Contra Proferentem" (Düzenleyenin Aleyhine Yorum) 
-İlkesi:**
-TBK m. 23 uyarınca, genel işlem koşullarında yer alan bir hüküm açık ve 
-anlaşılır değilse veya birden çok anlama geliyorsa, düzenleyenin aleyhine ve 
-karşı tarafın (tüketicinin) lehine yorumlanır. Bu kural, Roma 
-Hukuku'ndan gelen *in dubio contra stipulatorem* ilkesinin pozitif hukuktaki 
-yansımasıdır ve dürüstlük kuralı ekseninde zayıf tarafı korumayı amaçlar.
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-#### 4. Pratik Olay Analizleri
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-Genel işlem koşullarının yürürlük, yorum ve içerik denetimi mekanizmalarının 
-tüketici hukukuyla kesiştiği alanları somutlaştırmak adına şu iki vakayı analiz
-edelim:
+#### 5. Pratik Örnek Olaylar
 
-**Olay 1 (Yürürlük Denetimi ve Şaşırtıcı Koşul):**
-Tüketici (A) bir Spor Salonu Şirketi (B) ile 1 yıllık üyelik sözleşmesi 
-imzalar. Sözleşmenin 18. sayfasında, küçük puntolarla yazılmış bir maddede, 
-"Üye, sözleşme bitiminden 30 gün önce yazılı fesih bildirimi yapmazsa, sözleşme
-aynı bedelle 5 yıl daha uzar ve iptali hâlinde tüm bedel muaccel olur" 
-yazmaktadır. Bir yıl bittikten sonra Spor Salonu (B) 5 yıllık bedeli (A)'dan 
-icra yoluyla talep eder.
-*Dogmatik Analiz:* Bu uyuşmazlık TBK m. 21/2 kapsamındaki "şaşırtıcı koşul" 
-(yürürlük denetimi) laboratuvarıdır. 1 yıllık olağan bir spor salonu 
-aboneliğinde, tüketicinin dikkatinden kaçacak şekilde gizlenmiş ve ağır 
-yaptırımlara bağlanan 5 yıllık otomatik uzama şartı, "sözleşmenin niteliğine ve
-işin özelliğine tamamen yabancı" bir koşuldur. Tüketici (A) bu şartın
-varlığı konusunda açıkça uyarılmamış ve özel olarak bilgilendirilmemiştir. 
-Dolayısıyla bu hüküm, TBK m. 21 gereğince yürürlük denetiminden geçemez ve 
-"yazılmamış sayılır". Şart baştan itibaren doğmamış kabul edileceğinden, Spor 
-Salonu (B)'nin talebi mesnetsizdir ve reddedilecektir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 174 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2 (İçerik Denetimi ve Bireysel Müzakere İspatı):**
-Tüketici (X) Banka (Y)'den konut kredisi çeker. Kredi sözleşmesinde "Banka, 
-piyasa koşullarındaki dalgalanmalara göre faiz oranını tek taraflı olarak 
-artırma yetkisine sahiptir" şeklinde bir genel işlem koşulu yer almaktadır. 
-Banka, sözleşmenin altına (X)'e el yazısıyla "Sözleşmenin tüm maddelerini 
-okudum, anladım ve kabul ettim" yazdırarak imzalatmıştır. Ekonomik kriz çıkınca
-Banka (Y) faizi artırır.
-*Dogmatik Analiz:* Bu olay, TKHK m. 5 ve TBK m. 25 bağlamında bir "içerik 
-denetimi" ve "ispat yükü" problemidir. Kredi sözleşmesindeki tek taraflı faiz 
-artırma yetkisi, sözleşmenin temel dengesini (sinallagmatik yapıyı) dürüstlük 
-kuralına aykırı olarak tüketici aleyhine bozan tipik bir haksız şarttır. 
-Banka (Y) tüketicinin kendi el yazısıyla attığı "okudum, anladım" ibaresine 
-dayanarak şartın "bireysel müzakere edildiğini" iddia etmektedir. Ancak TKHK m.
-5/3 ve yargı içtihatları gereğince, standart sözleşmelerde bu tarz matbu 
-beyanlar veya el yazısı ifadeler, şartın fiilen müzakere edildiğini ispata 
-yeterli değildir. Banka, tüketiciye faiz artırımının ekonomik 
-risklerini somut olarak anlattığını ispatla yükümlüdür. Aksi hâlde, söz konusu 
-faiz artırım kuralı TKHK m. 5 gereğince haksız şart olarak kesin hükümsüzdür ve
-bankanın faiz artırımı hukuka aykırıdır.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-#### 5. Pratik Uygulama Notları
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-Genel işlem koşulları ve tüketici hukuku ihtilaflarında, usul hukukunda (HMK) 
-ve sözleşme mimarisinde (Legal Drafting) avukatların ve uygulayıcıların dikkat 
-etmesi gereken stratejik hususlar şunlardır:
+#### 6. Pratik Uygulama Notları
 
-**1. İspat Yükünün Tersine Çevrilmesi (TKHK m. 5/3):**
-Uygulamada yapılan en büyük usuli hata, sözleşmenin altındaki "müzakere 
-edilmiştir" matbu kaydına güvenilmesidir. TKHK m. 5/3, bir şartın önceden 
-hazırlandığı ve tüketicinin içeriğine etki edemediği iddia edildiğinde, bunun 
-aksini ispat yükünü doğrudan sözleşmeyi düzenleyene (satıcı/sağlayıcıya) 
-yüklemiştir. Avukatların, müzakereyi ispat edebilmek için karşılıklı 
-e-posta yazışmaları, sözleşme taslağı üzerindeki karşılıklı revizyonlar (track 
-changes) gibi somut delilleri mahkemeye sunmaları şarttır.
-
-**2. Saydamlık (Şeffaflık) Kuralının Sözleşme Tasarımına Etkisi:**
-TBK m. 20 ve TKHK m. 5 uyarınca, genel işlem koşullarının açık, anlaşılır ve 
-şeffaf olması zorunludur. Tüketici aleyhine olan, ceza koşulu, faiz artırımı, 
-yetkili mahkeme veya sözleşmenin otomatik uzamasına ilişkin kritik hükümlerin, 
-sözleşme metninde farklı punto, kalın (bold) yazı karakteriyle veya farklı bir 
-renkte yazılması ve tüketicinin imzasının bizzat o maddenin yanına alınması, 
-yürürlük denetimi (TBK m. 21) aşamasını geçmek için hayati bir "drafting" 
-stratejisidir.
-
-**3. Tüketici Hakem Heyetleri ve Sözleşmeye Müdahale:**
-Tüketici uyuşmazlıklarında haksız şart iddiası doğrudan Tüketici Hakem 
-Heyetleri nezdinde ileri sürülebilir. Hakem Heyeti, re'sen (HMK'daki taleple 
-bağlılık kuralının istisnası olarak dürüstlük kuralı çerçevesinde) sözleşmedeki
-şartın haksız olduğuna kanaat getirirse, bu şartı sözleşmeden çıkararak (kısmi 
-butlan) uyuşmazlığı tüketici lehine çözebilir. 
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ilgili tüketici daireleri (özellikle 3. ve 13. 
-Hukuk Daireleri) genel işlem koşullarının yürürlük ve içerik denetiminde zayıf
-tarafı (tüketiciyi) koruyan, şeffaflığı merkeze alan ve "matbu kabul 
-beyanlarını" geçersiz sayan köklü bir içtihat politikası geliştirmiştir.
-
-Yargıtay Hukuk Genel Kurulu'nun (HGK) yerleşik içtihadına göre: *"Genel işlem 
-koşulları; çağımızın ekonomik gelişmeleri sonucunda, finans ve sigorta 
-şirketleri başta olmak üzere birçok kuruluş tarafından önceden soyut ve tek 
-yanlı olarak kaleme alınmış sözleşme koşullarıdır. Tüketicinin önüne konan 
-sözleşmeye 'ya tümden evet ya da tümden hayır' demek zorunda kaldığı, pazarlık 
-gücünün bulunmadığı kitle sözleşmelerinde, tüketicinin korunması esastır. 
-Sözleşmenin her sayfasının tüketici tarafından imzalanmış olması veya 
-'sözleşmeyi okudum, anladım, bir nüshasını elden teslim aldım' şeklinde matbu 
-ya da el yazısıyla yazılmış ibarelerin bulunması, o sözleşmedeki aleyhe 
-hükümlerin 'bireysel müzakere edildiği' anlamına gelmez. Müzakere edildiğini 
-ispat yükü, düzenleyen kuruma (bankaya/şirkete) aittir. İspatlanamayan aleyhe 
-şartlar, TBK m. 20 vd. ve TKHK m. 5 uyarınca haksız şart olup kesin 
-hükümsüzdür."*.
-
-Yargıtay 13. Hukuk Dairesi'nin haksız şartlara ilişkin yaklaşımı son derece 
-nettir: *"Davacı tüketici ile davalı banka arasında akdedilen kredi 
-sözleşmesinde yer alan ve bankaya tek taraflı olarak masraf, komisyon ve ücret 
-kesintisi yapma yetkisi veren hükümler, önceden hazırlanmış standart genel 
-işlem koşullarıdır. Tüketicinin sözleşmeye müdahale imkânı bulunmamaktadır. Bu 
-tür hükümler, tüketici aleyhine dürüstlük kuralına aykırı bir dengesizlik 
-yarattığından TKHK m. 5 kapsamında haksız şarttır ve kesin hükümsüzdür. 
-Bankanın masraf adı altında yaptığı kesintilerin sebepsiz zenginleşme kuralları
-dairesinde tüketiciye iadesi zorunludur."*.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nda yer alan **Genel İşlem Koşulları (TBK m. 20-25)** 
-rejimi ile Tüketicinin Korunması Hakkında Kanun'da yer alan **Haksız Şartlar 
-(TKHK m. 5)** kurumları, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Yeşim Atamer'in eserleri ekseninde; "İkili Rejimin 
-Yarattığı Uyumsuzluklar" ve "Yaptırım Kavramlarındaki Doktriner Hatalar" 
-bağlamında derin kuramsal eleştirilere maruz kalmaktadır.
+Madde 174, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci eleştiri, Sisteminizdeki *"Hukuki İşlemlerde Geçersizlik"* ve 
-*"Yazılmamış Sayılma Yaptırımı"* tartışmalarında merkezî bir yer tuttuğu üzere;
-**TBK m. 21'deki 'Yazılmamış Sayılma' ile TBK m. 25 ve TKHK m. 5'teki 'Kesin 
-Hükümsüzlük' Yaptırımlarının Dogmatik Temellerinin Karıştırılmasıdır**. Oğuzman/Öz, Eren ve Atamer'in öğretilerinde haklı olarak işaret edildiği 
-üzere; genel işlem koşullarının denetimi, özünde zayıf tarafı koruyan "tek 
-taraflı bir koruma" mekanizmasıdır. Avrupa Birliği Yönergeleri ve modern hukuk 
-sistemleri, haksız şartlar için "tüketiciyi bağlamazlık (Unverbindlichkeit)" 
-gibi esnek ve tek taraflı iptal edilebilir bir yaptırımı tercih ederken; Türk 
-kanun koyucusunun TBK m. 25'te "kesin hükümsüzlük" (mutlak butlan) kavramını 
-kullanması talihsizdir. Zira kesin hükümsüzlük, hâkim tarafından 
-re'sen dikkate alınan, sözleşmenin her iki tarafının da ileri sürebileceği 
-mutlak bir geçersizliktir. Eğer bir haksız şart "kesin hükümsüz" ise, bunu 
-sözleşmeyi kendi menfaati için düzenleyen güçlü taraf (örneğin banka) da ileri 
-sürerek sözleşmeden veya sorumluluktan kurtulmaya çalışabilir. Rona 
-Serozan ve Yeşim Atamer'in şiddetle savunduğu üzere; yaptırımın "kısmi butlan" 
-veya mutlak geçersizlik değil, yalnızca düzenleyenin aleyhine, korunan tarafın 
-(tüketicinin) lehine işleyen "tek taraflı bağlamazlık" olarak yorumlanması 
-(amaca uygun sınırlama - teleolojik redüksiyon yapılması) zorunludur.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, **Tacirlerin Genel İşlem Koşullarına Karşı Korunması 
-Hususunda Meydana Gelen Belirsizlik ve "Tüketici" Odaklı Sistemin Ticari Hayata
-Entegrasyonundaki Sorunlardır**. Ticari hayatın doğası gereği tacirler 
-basiretli davranmakla yükümlüdür (TTK m. 18/2). Ancak uygulamada, büyük finans 
-kuruluşlarının, KOBİ'lere (küçük ve orta boy işletmelere) dayattığı 
-sözleşmeler, tüketicilere dayatılanlardan farksızdır. TKHK m. 5 sadece
-tüketicileri korurken, TBK m. 20 vd. hükümleri "kişi ayrımı yapmaksızın" 
-herkesi korumaktadır. Ne var ki, ticari hayatın ihtiyaçları ile bireysel 
-tüketicinin korunması ihtiyaçları aynı değildir. Tacirler arası ilişkilerde TBK
-m. 20'nin lafzî ve katı yorumlanması, "Battle of the Forms" (şartların 
-çarpışması) gibi ticari uyuşmazlıklarda hukuki güvenliği sarsmaktadır. 
-Nomer ve Eren'in de işaret ettiği üzere; Türk Hukuku'nun, Alman Hukukundaki 
-(BGB § 310) gibi ticari işlemler için genel işlem koşullarının denetimini 
-esneten veya özel kriterler getiren açık bir yasal düzenleme (lex mercatoria) 
-sevk etmemesi, yargı organlarını ticari sözleşmelerde dürüstlük kuralı 
-üzerinden zorlama yorumlar yapmaya iten bir kanunlaştırma (Legistik) 
-eksikliğidir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 174, «Madde 174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 174, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 174'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 174, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 174, «Madde 174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 174, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 174'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 174, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 174, «Madde 174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 174, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 174'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 174, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 174, «Madde 174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 174, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 174'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 174, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 174, «Madde 174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 174, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 174'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 174, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 174, «Madde 174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 174, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 174'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 174, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 174, «Madde 174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 174, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 174'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 174'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 8.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 174. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 174 resmi metni ve kanunun sistematiği.

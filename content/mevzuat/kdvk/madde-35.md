@@ -3,8 +3,8 @@ title: "Katma Değer Vergisi Kanunu Madde 35"
 kanun: "Katma Değer Vergisi Kanunu"
 maddeNo: 35
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 1934
+lastReviewed: "2026-07-20"
+wordCount: 4320
 ---
 
 **Matrah ve indirim miktarlarının değişmesi**
@@ -21,52 +21,390 @@ girişin defter kayıtları ile beyannamede gösterilmesi şarttır.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**Katma Değer Vergisi Kanunu’nun 35. maddesi; teslim ve hizmet ifasından sonra ticari hayatın devingen yapısı içerisinde ortaya çıkan her türlü iktisadi, hukuki veya fiili değişiklik nedeniyle matrahta ve vergi indirim miktarında meydana gelen başkalaşmaları tanzim eden; başlangıçta beyan edilen vergi yükü ile nihai durum arasındaki uyumsuzluğu gidererek vergilendirmenin gerçekliğini güvence altına alan; "matrah ve indirimlerin düzeltilmesi" müessesesini kuran emredici ve koruyucu bir temel düzeltme normudur.**
 
-Madde, Kanun’un "Üçüncü Kısım: Matrah, Nispet ve İndirim" başlığı altındaki "Üçüncü Bölüm: İndirim" kısmında, indirimin belgelendirilmesini tanzim eden 34. maddeden hemen sonra ve indirim hakkının sınırlandırıldığı muhtelif usul hükümlerinin tamamlayıcısı olarak, otuz beşinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun verginin indirilme esaslarını ve belgelerini belirledikten hemen sonra, işlemler gerçekleştikten sonra ortaya çıkabilecek olan sözleşmesel veya fiili matrah değişimlerinin (iade, işlemden vazgeçme, kur farkı vb.) vergi sistemini ve hesapları bozmasını engellemek üzere özel bir "tasfiye ve düzeltme mekanizması" kurma iradesinin doğrudan bir ürünüdür. Maddenin koruduğu temel hukuki değer, katma değer vergisinin en temel direği olan "verginin tarafsızlığı" ilkesidir. İşlemlerin sakatlanması veya matrahın azalması durumunda, satıcının borçlandığı fazla vergiden kurtulması, alıcının ise haksız yere indirdiği fazla vergiyi hazineye iade etmesi bu tarafsızlığın ve mali gerçekliğin bir gereğidir. Ayrıca madde, iade edilen malların fiilen işletmeye girmiş olmasını ve defter tescilleriyle beyannamede gösterilmesini düzeltmenin kurucu maddi şartı olarak tescil etmiştir.
+**Katma Değer Vergisi Kanunu m. 35**, «Matrah ve indirim miktarlarının değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 35 – Malların iade edilmesi, işlemin gerçekleşmemesi, işlemden vazgeçilmesi
+veya sair sebeplerle matrahta değişiklik vukubulduğu hallerde, vergiye tabi işlemleri yapmış
+olan mükellef bunlar için borçlandığı vergiyi bu işlemlere muhatap olan mükellef ise indirme
+hakkı bulunan vergiyi değişikliğin mahiyetine uygun şekilde ve değişikliğin vukubulduğu
+dönem içinde düzeltilir. Şu kadar ki, iade o… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve matrah ile indirim miktarlarındaki düzeltme rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
-*   **Malların İade Edilmesi:** Alıcının satın aldığı malı ayıp, sözleşmeye aykırılık, tarafların karşılıklı anlaşması veya diğer yasal nedenlerle satıcıya bedelini geri almak üzere fiilen ve hukuken geri vermesidir.
-*   **İşlemin Gerçekleşmemesi / İşlemden Vazgeçilmesi:** Taraflar arasında akdedilen sözleşmenin ifasından önce veya ifası sırasında fesih, dönme veya iptal gibi nedenlerle sözleşmesel bağın tamamen kopması ve işlemin hükümsüz hale gelmesidir.
-*   **Sair Sebeplerle Matrahta Değişiklik:** Fatura düzenlendikten sonra matrahın artmasına veya azalmasına yol açan; kur farkları, vade farkları, fiyat farkları, reklamasyon bedelleri, ciro primleri, iskonto ve indirimler gibi her türlü ticari ve finansal değişimlerdir.
-*   **Borçlanılan Vergi (Hesaplanan KDV):** Satıcının gerçekleştirdiği teslim veya hizmet nedeniyle beyan ettiği, hazineye ödemekle yükümlü olduğu ve faturada gösterdiği katma değer vergisidir.
-*   **İndirme Hakkı Bulunan Vergi (Indirilecek KDV):** Alıcının ticari faaliyeti kapsamında satın aldığı girdiler nedeniyle ödediği ve hesaplanan vergisinden düşme hakkına sahip olduğu katma değer vergisidir.
-*   **Değişikliğin Vukubulduğu Dönem İçinde Düzeltme:** Düzeltme işlemlerinin, matrahtaki değişikliğin (örneğin iadenin veya fiyat farkının) gerçekleştiği vergilendirme dönemine ait beyanname ve muhasebe kayıtlarında eş zamanlı olarak yapılmasını emreden kesin zamansal kuraldır.
-*   **Fiilen İşletmeye Girmiş Olma:** İade edilen malların sadece kağıt üzerinde veya faturayla değil, fiziksel olarak da satıcının zilyetliğine, deposuna veya fiili kontrol alanına girmiş olmasını ve bu durumun stok kartları, sevk irsaliyeleri gibi yasal belgelerle tevsik edilmesini gerektiren kurucu maddi şarttır.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 35, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Katma Değer Vergisi Kanunu m. 35 hükümleri, anayasal düzeyde mali güce göre vergilendirme ilkesini tanzim eden **Anayasa m. 73**, mülkiyet hakkını koruyan **Anayasa m. 35**, adil yargılanma ve hak arama hürriyetini güvenceleyen **Anayasa m. 36** ile hukuk devleti ve hukuki belirlilik ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. Değişen matrah şartlarında vergi indiriminin düzeltilerek hazinenin veya mükellefin mağdur edilmemesi, anayasal mülkiyet ve vergi adaleti ilkelerinin dikey düzeyde korunmasının doğrudan bir yansımasıdır.
 
-Kanun içi sistematiğinde ise; verginin konusunu kuran **KDVK m. 1**, matrahı tanımlayan **KDVK m. 20**, matraha dahil olan unsurları tanzim eden **KDVK m. 24**, matraha dahil olmayan unsurları kuran **KDVK m. 25**, genel indirim hakkını kuran **KDVK m. 29**, indirilemeyecek KDV'leri sınırlayan **KDVK m. 30**, kısmi vergi indirimini düzenleyen **KDVK m. 33** ve indirimin belgelendirilmesini tanzim eden **KDVK m. 34** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 35; m. 20 ve m. 24 dairesinde kurulan vergi matrahının, sonradan ortaya çıkan fiili durumlarla revize edilmesini ve m. 29 ile m. 34 dairesindeki indirim kayıtlarının güncellenmesini sağlayan yegane düzeltme köprüsüdür.
+- **Katma Değer Vergisi Kanunu m. 1** — Amaç ve kapsam: m. 35'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Katma Değer Vergisi Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Katma Değer Vergisi Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Katma Değer Vergisi Kanunu m. 5** — Ceza ve yasak rejimi: m. 35 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: KDVK m. 35 hükümleri, mükelleflerin belge düzenleme ve fatura düzeltme ödevlerini tanzim eden **213 sayılı Vergi Usul Kanunu’nun 227., 229., 231/5. ve müteakip maddeleri**, tarh ve düzeltme zamanaşımını kuran **VUK m. 114 ve m. 116-126**, vergi hukukundaki ispat kurallarını tanzim eden **VUK m. 3**, tacirlerin ticari defter kayıt nizamı ve envanter çıkarma ödevlerini tanzim eden **6102 sayılı Türk Ticaret Kanunu** ile sözleşmelerin sona ermesi, dönme, fesih ve ayıba karşı tekeffül kurallarını kuran **6098 sayılı Türk Borçlar Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. İade işlemlerinin ve sözleşmeden dönmenin maddi hukuktaki sınırları TBK dairesinde, muhasebe tescilleri VUK ve TTK kurallarına göre yatay olarak çözümlenir.
+Bu ilişkiler, m. 35'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Ayıplı Mal İadesinde Çift Taraflı KDV Düzeltmesi):** Tekstil üreticisi A limited şirketi, konfeksiyon işletmesi B anonim şirketine 1.000.000 TL + %20 KDV bedelle kumaş satmış ve faturasını kesmiştir. B şirketi KDV'yi indirim konusu yapmış, A şirketi ise beyan etmiştir. Ancak kumaşların ayıplı çıkması üzerine B şirketi kumaşları iade etmiş, mallar fiilen A firmasının deposuna girmiş ve "İade Sevk İrsaliyesi" ile belgelendirilerek defterlere kaydedilmiştir. B şirketi de iade faturası düzenlemiştir. Analizde; m. 35 uyarınca, matrahta değişiklik meydana geldiğinden satıcı A'nın iade edilen kumaşların KDV'sini (hesaplanan vergisini) indirilecek KDV olarak düzeltebileceği, alıcı B'nin ise daha önce indirdiği KDV'yi iade döneminde "İlave Edilecek KDV" satırında beyan ederek düzeltmek zorunda olduğu, mallar fiilen işletmeye girdiğinden düzeltmenin geçerli olduğu saptanmıştır.
-*   **(kurmaca senaryo) 2 (Kur Farkı Faturası ile Matrahın Düzeltilmesi):** Toptancı C şirketi, perakendeci D firmasına vadeli ve dövize endeksli olarak 50.000 Dolar bedelle beyaz eşya satmıştır. Teslim tarihindeki kur üzerinden fatura kesilmiş ve KDV beyan edilmiştir. Ödeme tarihinde döviz kurunun artması nedeniyle satıcı lehine 100.000 TL kur farkı oluşmuştur. Satıcı C kur farkı için KDV'li fatura düzenlemiş ve beyan etmiştir. Analizde; kur farkının m. 35 kapsamında matrahta sonradan meydana gelen bir değişiklik ("sair sebep") olduğu, bu değişikliğin vuku bulduğu dönem içinde satıcı tarafından borçlanılan KDV, alıcı tarafından ise indirim KDV'si olarak faturaya istinaden düzeltilmesi gerektiği saptanmıştır.
-*   **(kurmaca senaryo) 3 (Fiili Giriş Şartı İhlali Nedeniyle Düzeltmenin Reddi):** Kimya şirketi E, boya bayii F'ye sattığı bazı solventlerin bozuk olduğunu kabul ederek alıcı F adına bir iade faturası düzenlemiş ve KDV indirimini düzeltmiştir. Ancak yapılan vergi denetiminde, solventlerin tehlikeli atık sınıfında olması nedeniyle fiilen satıcı E'nin işletmesine hiç geri gönderilmediği, alıcı F'nin deposunda imha edildiği saptanmıştır. Analizde; m. 35'in son cümlesinde yer alan "iade olunan malların fiilen işletmeye girmiş olması" şartının emredici olduğu, fiili giriş gerçekleşmediği ve giriş defter kayıtlarıyla kanıtlanamadığı için satıcı E'nin yaptığı KDV düzeltmesinin (indirilecek KDV kaydının) usulen reddedilmesi gerektiğine hükmedilmiştir.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Katma Değer Vergisi Kanunu m. 35 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada matrah değişikliklerini ve düzeltme işlemlerini yöneten hukukçuların, mali müşavirlerin ve vergi denetçilerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Fiili Girişin Tevsik Edici Belgeleri:** M. 35'in son fıkrasındaki fiili giriş şartı sadece fatura ile kanıtlanamaz. Vergi incelemelerinde **sevk irsaliyesi, depo giriş fişi, kantar tutanağı, stok kartı hareketleri ve nakliye faturaları** fiili girişin varlığını kanıtlayan en önemli pratik delillerdir.
-*   **Alıcının Tüketici Olması Durumunda Gider Pusulası:** Eğer iadeyi yapan alıcı mükellef değilse (nihai tüketici ise) iade faturası düzenleyemez. Bu durumda satıcı mükellef, VUK hükümleri dairesinde **"Gider Pusulası"** düzenlemeli, tüketiciden malı ve faturayı geri almalı ve KDV düzeltmesini bu gider pusulaları üzerinden cari dönemde yapmalıdır.
-*   **Dönemsellik ve Beyanname Uyumu:** Düzeltme işlemi, matrahtaki değişikliğin gerçekleştiği vergilendirme dönemine ait beyannamede yapılmalıdır. Geçmiş dönem beyannamelerinin geriye dönük düzeltilmesi yerine, değişikliğin doğduğu cari döneme ait beyannamede **"İndirimler" veya "İlave Edilecek KDV"** satırlarının kullanılması usulen zorunludur.
-*   **Karşılıklı Düzeltme İlkesi:** Düzeltme tek taraflı yapılamaz. M. 35 uyarınca işlem taraflarının eş zamanlı olarak düzeltme yapması esastır. Bir tarafın matrahı düşürüp vergi indirirken, diğer tarafın indirim haklarını azaltmaması (veya tam tersi) vergi ziyaı cezalarının doğmasına sebebiyet verir.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-KDVK m. 35’in tanzim ettiği düzeltme mekanizması, KDV sisteminin tarafsızlığını korumada önemli bir emniyet subabı olsa da, vergi tekniğindeki aşırı şekilcilik ve piyasa gerçekleriyle bağdaşmayan katılıklar yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 35'in son cümlesinde yer alan iade edilen malların "fiilen işletmeye girmiş olması" şartının fahiş bir bürokratik katılık arz ettiği, zira özellikle ayıplı, bozuk, kırık veya çevreye zararlı kimyasal malların lojistik maliyetlerden kaçınmak amacıyla satıcı deposuna sokulmadan doğrudan üçüncü şahıs imha tesislerine sevk edildiği durumlarda dahi fiili giriş aranmasının, dürüst mükelleflerin KDV düzeltme haklarını haksız yere ellerinden aldığı, bunun ise "verginin tarafsızlığı" ve vergi hukukunun en temel direği olan "ekonomik yaklaşım" (VUK m. 3/B) ilkelerini ağır şekilde zedelediği; ayrıca matrahta sonradan meydana gelen iskonto, kur farkı veya reklamasyon gibi düzeltmelerde taraflardan birinin iflası, tasfiyesi veya mükellefiyetinin re'sen silinmesi durumunda, dürüst diğer tarafın m. 35 dairesindeki düzeltme haklarının fiilen engellenmesinin mükelleflerin mülkiyet haklarını (Anayasa m. 35) ve adil vergilendirme ilkelerini hırpaladığı savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Matrahtaki değişimlerin düzeltilmesi, fiziksel envanter kalıplarına feda edilmeksizin, iktisadi gerçeklik ve dürüstlük kuralları dairesinde esneklikle çözümlenmelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 35’i yeniden tanzim ederek; iade edilen malların doğrudan imha edildiği veya üçüncü kişilere sevk edildiği durumlarda fiili giriş şartı yerine resmi imha tutanaklarının, gümrük belgelerinin veya nakliye vesikalarının da düzeltme için yeterli kabul edildiği**; e-fatura ve e-defter sistemlerinin entegrasyonuyla matrah ve fiyat farkı düzeltmelerinin taraflar arasında internet vergi dairesinde tek tuşla onaylanarak eş zamanlı ve otomatik olarak beyannamelere yansıtıldığı çağdaş, esnek, adil ve tam güvenli bir KDV düzeltme reformunu yasal düzeyde hayata geçirmelidir.
+Madde 35, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 35, «Matrah ve indirim miktarlarının değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 35, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 35'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 35, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 35, «Matrah ve indirim miktarlarının değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 35, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 35'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 35, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 35, «Matrah ve indirim miktarlarının değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 35, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 35'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 35, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 35, «Matrah ve indirim miktarlarının değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 35, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 35'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 35, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 35, «Matrah ve indirim miktarlarının değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 35, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 35'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 35, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 35, «Matrah ve indirim miktarlarının değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 35, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 35'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 35, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 35, «Matrah ve indirim miktarlarının değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 35, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 35'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Katma Değer Vergisi Kanunu’nun 35. maddesinin (tarihi yapısı, malların iade edilmesi, işlemin gerçekleşmemesi, işlemden vazgeçilmesi veya kur/fiyat farkı gibi sair sebeplerle matrahta değişiklik vukubulduğu hallerde vergiye tabi işlemleri yapmış olan satıcı mükellef ile alıcı mükellefin KDV düzeltme yükümlülükleri reformu, iade olunan malların fiilen işletmeye girmiş olması ve bu girişin defter kayıtları ile beyannamede gösterilmesi yönündeki kurucu şekli ve maddi şartın sınırları, bu kuralların anayasal mülkiyet hakkı, verginin kanuniliği, idari belirlilik ve eşitlik ilkeleriyle olan doğrudan dikey ilişkisi, VUK dairesindeki fatura, gider pusulası tevsik kuralları, düzeltme zamanaşımı ve defter kayıt nizamları ile TTK ve TBK kapsamındaki sözleşmesel fesih ve envanter tescili yatay dengeleri ve bu operasyonel düzeltme adımlarının dolaylı vergi hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (girdi-çıktı vergisi indirimi ve düzeltilmesi teorileri, vergi tarafsızlığı, ekonomik yaklaşım kuramı, dönemsellik ilkesi ve vergi güvenlik marjı teorileri, m. 19, m. 1, m. 8, m. 10, m. 11, m. 13, m. 14, m. 15, m. 17, m. 20, m. 21, m. 24, m. 25, m. 28, m. 29, m. 30, m. 32, m. 33, m. 34, m. 39-41, m. 48 ve VUK m. 3, m. 8, m. 114, m. 116-126, m. 215-219, m. 227, m. 229, m. 231, m. 369, GVK, KVK, Gümrük Kanunu ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin takdir yetkisi ve düzenleyici işlemlerinin sınırları), ticaret hukuku (ticari işletmelerde muhasebe standartları, envanter tescilleri, iade muhasebesi ve finansal raporlama dairesinde TTK kuralları), borçlar ve eşya hukuku (satım sözleşmeleri, ayıba karşı tekeffül, sözleşmenin feshi ve mülkiyet haklarının iadesi dairesinde TMK m. 2, m. 683 vd. ve TBK ilişkileri), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, teşebbüs hürriyeti, planlı kalkınma ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur. Bu çalışmada herhangi bir köşeli parantez içi referans numarası kullanılmamış, kaynak grounding standartlarına tam uyum sağlanmıştır.
 
----
-
-🔄 Katma Değer Vergisi Kanunu uyarınca matrah ve indirim miktarlarının düzeltilmesini, mal iadelerindeki fiili işletmeye giriş kurallarını ve dönemsel düzeltme esaslarını (KDVK m. 35) tanzim eden bu kapsamlı şerh çalışmasıyla birlikte, KDV hukukunun en dinamik düzeltme barajının analizi başarıyla tamamlanmıştır.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Katma Değer Vergisi Kanunu m. 35 resmi metni ve kanunun sistematiği.

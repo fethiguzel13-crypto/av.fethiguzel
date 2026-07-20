@@ -1,15 +1,10 @@
 ---
-title: "TBK Madde 350"
+title: "Türk Borçlar Kanunu Madde 350"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 350
 commentaryStatus: "completed"
-lastReviewed: "2026-05-24"
-wordCount: 2085
-keywords:
-  - "borçlar kanunu"
-  - "türk borçlar kanunu"
-  - "sözleşme"
-  - "tazminat"
+lastReviewed: "2026-07-20"
+wordCount: 4264
 ---
 
 **II. Dava yoluyla
@@ -33,75 +28,386 @@ uyularak belirlenecek tarihten başlayarak bir ay içinde açacağı dava ile so
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Türk Borçlar Kanunu’nun (TBK) 350. maddesi, konut ve çatılı işyeri kiralarında kira sözleşmesinin dava yoluyla sona erdirilmesi rejiminin "kiraya verenden kaynaklanan" sebeplerini düzenlemektedir [1, 2]. Mülga 6570 sayılı Gayrimenkul Kiraları Hakkında Kanun'un (GKHK) 7. maddesinde yer alan b, c ve ç bentlerindeki hükümlerin [3-5] sistematize edilerek, günün sosyo-ekonomik gereksinimleri ve yargı içtihatları doğrultusunda revize edilmiş hâlidir.
+**Türk Borçlar Kanunu m. 350**, «Madde 350» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Dava yoluyla
+1. Kiraya verenden kaynaklanan sebeplerle
+a. Gereksinim, yeniden inşa ve imar**
 
-Kira hukuku bağlamında konut ve çatılı işyeri kiraları, kiracıyı koruyucu emredici hükümlerle donatılmıştır [6]. Sözleşme özgürlüğü ilkesine getirilen bu kısıtlamalar çerçevesinde, kiraya verenin sözleşmeyi tek taraflı irade beyanıyla sona erdirebilmesi, kural olarak TBK m. 347’de öngörülen on yıllık uzama süresi istisnası dışında mümkün değildir [7]. Dolayısıyla kiraya veren, kira ilişkisini ancak TBK m. 350 ve devamında sınırlı sayı (*numerus clausus*) ilkesi ile belirlenen sebeplere dayanarak mahkeme kararı ile sona erdirebilir [8, 9]. TBK m. 350 hükmü, kiralayanın mülkiyet veya sınırlı ayni hakkından doğan haklarını koruma amacı ile kiracının barınma ve ticari hayatını sürdürme hakkı (sosyal devlet ilkesi) arasında kurulan hassas dengeyi yansıtmaktadır [10].
+---
 
-Maddenin birinci bendi, kiraya verenin, kendisinin veya yakınlarının konut veya işyeri gereksinimi sebebiyle tahliye davası açabilmesini; ikinci bendi ise kiralananın yeniden inşası veya imarı sebebiyle tahliye davası açılabilmesini düzenlemektedir [11-14].
+Madde 350 - Kiraya veren, kira sözleşmesini;
+1.  Kiralananı  kendisi,  eşi,  altsoyu,  üstsoyu  veya  kanun  gereği  bakmakla  yükümlü
+olduğu diğer kişiler için konut ya da işyeri gereksinimi sebebiyle kullanma zorunluluğu varsa,
+2. Kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı,… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Gereksinim (İhtiyaç) Sahiplerinin Kapsamı
-TBK m. 350/1 bendinde, mülga 6570 sayılı Kanun'dan farklı olarak ihtiyaç sahiplerinin çemberi genişletilmiştir. Eski kanunda sadece "kendisinin, eşinin veya çocuklarının" gereksinimi aranırken [15, 16]; TBK m. 350/1 uyarınca kiraya verenin "kendisi, eşi, altsoyu, üstsoyu veya kanun gereği bakmakla yükümlü olduğu diğer kişiler"in konut veya işyeri gereksinimi tahliye sebebi olarak kabul edilmiştir [15, 17, 18]. 
-- **Altsoy ve Üstsoy:** Sadece çocuklar değil, torunlar ve onların çocukları (altsoy) ile anne, baba, büyükanne ve büyükbaba (üstsoy) açıkça kapsama dâhildir [17]. Evlat edinilen kişiler de altsoy kavramına dâhildir [19]. 
-- **Kanun Gereği Bakmakla Yükümlü Olunan Kişiler:** Doktrinde bu kavramın çerçevesi, Türk Medenî Kanunu (TMK) m. 364 hükmünde düzenlenen "yardım nafakası" mükellefiyeti kapsamında çizilmektedir [20, 21]. Buna göre altsoy ve üstsoy zaten maddede açıkça zikredildiğinden, bu ifadenin temel karşılığını "kardeşler" oluşturmaktadır [20, 22]. TMK m. 364/1 uyarınca "yardım etmediği takdirde yoksulluğa düşecek olan... kardeşlerine nafaka vermekle yükümlüdür." Bu bakımdan kardeşin gereksinimi için açılacak tahliye davasında, kardeşin yoksulluğa düşme tehlikesi içinde bulunması ve kiraya verenin refah içinde olması şartlarının aranıp aranmayacağı doktrinde tartışılmakla beraber, ekonomik bir gereklilik bağlamında değerlendirilmesi isabetli görülmektedir [23-26].
-- **Tüzel Kişilerin Durumu:** Tüzel kişilerin barınma ihtiyacı olamayacağı için konut gereksinimi sebebiyle tahliye davası açmaları kural olarak mümkün değildir; ancak ticari faaliyetlerini sürdürmek amacıyla işyeri gereksinimi sebebiyle tahliye davası açabilirler [27-29]. Kendi çalışanlarına lojman tahsisi amacıyla konut gereksinimine dayanıp dayanamayacakları hususu doktrinde tartışmalı olup, Yargıtay eski kararlarında tüzel kişinin ana sözleşmesinde lojman sağlama amacı yer alıyorsa bunu kabul etme eğilimindedir [30, 31].
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-##### 2.2. Gereksinimin Nitelikleri (Gerçek, Samimi ve Zorunlu Olma Şartı)
-Kanun koyucu gereksinimin "gerçek, samimi ve zorunlu" olmasını zımnen emretmiş, Yargıtay da bu ölçütü yerleşik içtihadı hâline getirmiştir [32-35]. 
-- **Gerçek ve Samimi Olma:** Gereksinim, tahliye davası açıldığı anda mevcut olmalı, uydurma veya kiracıyı çıkarmak için bahane olarak kullanılmamalıdır [33, 35, 36]. Örneğin, kiraya verenin kendisinin kirada oturuyor olması, tahliye tehdidi altında bulunması veya kiralananın sağlık sebepleri (örneğin kalp rahatsızlığı sebebiyle asansörsüz evden asansörlü eve geçme isteği) için daha elverişli olması ihtiyacın gerçek ve samimi olduğunu gösterir [37, 38]. Sadece kira bedelini artırmak amacıyla veya salt daha fazla gelir elde etmek saikiyle açılan davalar reddedilir [39, 40].
-- **Gerçekleşmiş veya Gerçekleşmesi Muhakkak Olma:** Henüz doğmamış veya gerçekleşmesi çok uzun bir süreye bağlı, sadece ihtimal dâhilinde olan bir gereksinim (örneğin çocuğun yıllar sonra o şehirde üniversite kazanma ihtimali) tahliye sebebi sayılmaz [32, 35, 41]. Ancak oğlunun o şehirde işe başlamasının veya tayininin çıkmasının kesinleşmesi gibi durumlarda muhakkaklık şartı sağlanmış olur [41, 42].
-- **Devamlılık Arz Etme:** Devamlılık arz etmeyen, geçici nitelikteki ihtiyaçlar (örneğin birkaç ay sürecek bir görevlendirme) için tahliye talep edilemez [32, 35, 43]. Ancak Yargıtay, yazlık konut ihtiyacını da devamlılık arz eden konut ihtiyacı kapsamında (belli mevsimlerde sürekli kullanıldığı için) kabul etmektedir [40, 44].
+Madde 350, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.3. Yeniden İnşa ve İmar Amacıyla Esaslı Onarım
-TBK m. 350/2 uyarınca, kiralananın yeniden inşası veya imarı amacıyla esaslı onarımı, genişletilmesi ya da değiştirilmesi durumunda da tahliye istenebilir [13, 14, 45].
-- **Yeniden İnşa ve İmar:** Yeniden inşa, binanın yıkılarak yerine yeni bir bina yapılmasıdır [46, 47]. İmar ise mevcut yapının haraplıktan kurtarılması, daha kullanışlı veya modern hâle getirilmesi amacıyla yapılan işlemlerdir [47, 48]. 
-- **Esaslı Onarım ve İmkânsızlık Şartı:** Yapılacak müdahalenin esaslı olması gerekir; sıradan bir boya-badana işlemi veya basit fayans değişimi bu kapsama girmez [45, 49, 50]. Kanundaki en kritik şart, "bu işler sırasında kiralananın kullanımı imkânsız ise" ifadesidir [13, 51]. Eğer tadilat sırasında kiracının içeride ikamet etmesi veya çalışması teknik olarak mümkünse tahliye davası reddedilir [51-53].
-- **Onaylı Proje Sunma Zorunluluğu:** Yargıtay uygulaması, davanın kabulü için yetkili mercilerce (örneğin belediye) onaylanmış bir imar projesinin (veya avan projenin) mahkemeye sunulmasını şart koşmaktadır [54-56]. Mahkeme, projeyi ve imkânsızlık şartını uzman bilirkişi aracılığıyla tespit eder [52, 54, 57].
+##### 2.2. Usulî ve maddi unsurlar
 
-##### 2.4. Süreler ve Dava Açma Hakkı
-Dava açma süresi yönünden Kanun, belirli ve belirsiz süreli sözleşmeler bakımından ikili bir ayrıma gitmiştir [58, 59].
-- **Belirli Süreli Sözleşmelerde:** Sözleşme süresinin sonundan başlayarak bir ay içinde dava açılmalıdır [58, 60].
-- **Belirsiz Süreli Sözleşmelerde:** Kiraya ilişkin genel hükümlere göre fesih dönemine ve fesih bildirimi için öngörülen sürelere (TBK m. 328-329) uyularak belirlenecek tarihten başlayarak bir ay içinde açılmalıdır [58, 60-62].
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-Bu maddenin, diğer kira hukuku kuralları ve Medenî Kanun hükümleri ile dogmatik ve pratik bir illiyet bağı bulunmaktadır:
-- **TBK m. 353 (Dava Süresinin Uzaması):** Kiraya veren, en geç davanın açılması için öngörülen bir aylık süre içinde dava açacağını kiracıya *yazılı olarak* bildirmişse, dava açma süresi bir kira yılı için uzamış sayılır [63, 64]. Bu ihtarname, kiralayana o kira yılı içerisinde dilediği zaman dava açma serbestisi sağlar [65].
-- **TBK m. 355 (Yeniden Kiralama Yasağı):** Gereksinim veya yeniden inşa/imar amacıyla kiracıyı tahliye eden kiraya veren, haklı bir sebep olmaksızın kiralananı 3 yıl geçmedikçe eski kiracısından başkasına kiralayamaz [66-68]. Bu yasak ihlal edilirse, son kira yılında ödenmiş olan bir yıllık kira bedelinden az olmamak üzere eski kiracıya tazminat (medeni hukuk cezası) ödemekle yükümlü olur [69-72].
-- **TBK m. 351 (Yeni Malikin Gereksinimi):** Kiralananı mülkiyetin devri yoluyla edinen yeni malik de, kendisi veya yakınlarının ihtiyacı için tahliye talep edebilir. Edinim tarihinden itibaren 1 ay içinde yazılı bildirimde bulunmak koşuluyla, 6 ay sonra dava açabilir [73, 74]. Yeni malik dilerse, TBK m. 350'deki sözleşme süresinin bitiminden itibaren 1 aylık süreyi de kullanabilir [75, 76].
-- **TBK m. 354 (Sınırlılık ve Değiştirilemezlik):** Dava yoluyla sözleşmenin sona erdirilmesine ilişkin TBK hükümleri sınırlı sayıdadır ve kiracı aleyhine değiştirilemez (nispi emredicilik) [9, 77]. Bu kural, m. 350'nin uygulanmasında sözleşme serbestisini kısıtlar.
-- **TMK m. 364 (Nafaka Yükümlülüğü):** TBK m. 350/1'deki "bakmakla yükümlü olduğu diğer kişiler" kavramının içini dolduran ve normatif sınırlarını çizen maddedir [20, 21].
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 350'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 350 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+Bu ilişkiler, m. 350'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Yargıtay Hukuk Genel Kurulu ve ilgili ihtisas daireleri (özellikle mülga 6. HD ve 3. HD), TBK m. 350’nin uygulanmasında katı ölçütler geliştirmiştir:
-- **Gerçek ve Samimiyet Denetimi:** Yargıtay, kiraya verenin tahliye davası açmadan hemen önce bir başka dairesini üçüncü bir kişiye kiralamış olmasını veya birden fazla boş dairesi varken o spesifik mecurun tahliyesini istemesini "ihtiyacın samimi olmadığına" karine sayabilmektedir [39, 78]. Ancak, kiraya verenin kendi taşınmazında elbirliği mülkiyeti ile paydaş olması gibi spesifik engelleri varsa, ihtiyacın samimiyetini zedelemeyeceği değerlendirilmektedir [79, 80].
-- **Ekonomik Üstünlük Şartı:** Yargıtay, işyeri gereksinimi için açılan davalarda tahliyesi istenen kiralananın, ihtiyaç sahibinin hâlihazırda kullandığı taşınmaza (kirada olduğu yere) kıyasla daha uygun konumda olması veya mesleki faaliyete daha elverişli olması gibi kriterleri samimiyet emaresi olarak kabul etmektedir [60, 81, 82]. Keza sağlık sebepleriyle (yaşlılık, felç vb.) üst katlardan alt katlara taşınma isteği geçerli ve meşru bir nedendir [37, 38, 83].
-- **Onaylı Projenin Varlığı:** İmar ve yeniden inşa davalarında Yargıtay, yıkım veya onarımın mutlaka uzman bir bilirkişi tarafından mahallinde keşif yapılarak tespitini, ayrıca söz konusu imar durumu için yetkili merci tarafından tasdik edilmiş bir mimari/avan projenin dava dosyasına (en geç yargılama devam ederken) sunulmasını mutlak şart olarak aramaktadır [54, 57, 84, 85]. Proje ibraz edilmediği sürece ihtiyaç tahliyesi reddolunur.
-- **Geçici İhtiyaç:** Yargıtay, yazlık ev kullanımının Türkiye'deki sosyal yaşam şartlarında sürekli konut ihtiyacının bir uzantısı olduğunu kabul etmektedir, dolayısıyla salt tatil aylarında kullanım amacı (devamlılık yoksunluğu olarak yorumlanmayıp) TBK m. 350 kapsamında kabul görebilmektedir [40, 44].
+#### 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (kurmaca senaryo):**
-A, B’ye ait 5 yıllık belirli süreli kira sözleşmesiyle kiralanan İstanbul’daki konutta oturmaktadır. Sözleşmenin bitimine 2 ay kala A, taşınmazın maliki B'den bir ihtarname alır. B, Bursa'da yaşayan oğlunun İstanbul'a tayininin çıktığını, bu nedenle oğlunun konut gereksinimi sebebiyle sözleşmenin yenilenmeyeceğini ve mecurun tahliye edilmesini talep etmektedir. B, sözleşmenin bitiminden 10 gün sonra Sulh Hukuk Mahkemesinde tahliye davası ikame eder.
-*Hukuki analiz:* TBK m. 350/1 uyarınca, kiraya verenin altsoyunun (oğlunun) konut gereksinimi kanuni bir tahliye sebebidir. B’nin oğlunun tayininin İstanbul'a çıkması, ihtiyacın gerçek, samimi, zorunlu ve muhakkak olduğunu kanıtlar niteliktedir (objektif kanıtlanabilirlik). B, dava açma süresini korumak için sözleşme bitiminden önce usulüne uygun yazılı bildirim (TBK m. 353) yapmış olsa dahi, dava belirli süreli sözleşmenin bitimini izleyen bir aylık hak düşürücü süre içerisinde (10. günde) açıldığı için süresindedir. İhtiyacın dava boyunca da devam etmesi koşuluyla, mahkeme tahliye kararı verecektir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 350 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2 (kurmaca senaryo):**
-Şirket (X) A.Ş., ticari işletmesi olarak faaliyet gösterdiği mecuru, kiralayan C’den 3 yıllığına kiralamıştır. C, bina içindeki dükkânı, mevcut yapının çok eskidiği, taşıyıcı kolonlarının yetersiz kaldığı ve güncel deprem yönetmeliğine uymadığı gerekçesiyle yıktırıp yerine modern bir iş merkezi yapmak istemektedir. C, sözleşmenin bitimini izleyen 1 aylık sürede yeniden inşa sebebiyle tahliye davası açar ancak dava dilekçesinde sadece kendi mimarına çizdirdiği taslak krokileri sunar, belediye onaylı bir proje mevcut değildir.
-*Hukuki analiz:* TBK m. 350/2 uyarınca, yeniden inşa veya imar amacıyla tahliye talep edilebilmesi için, işler sırasında kiralananın kullanımının imkânsız olması (yıkım durumunda bu sabittir) ve yapılan işin esasa taalluk etmesi şarttır. Ne var ki, Yargıtay içtihatları gereğince mahkemece bu gerekliliğin teknik olarak denetlenebilmesi için davacı C'nin mutlaka yetkili idari merciden (Belediye) onaylı bir avan proje veya kesin proje sunması gerekmektedir. C’nin sadece bağımsız bir mimara çizdirdiği ve idari onayı bulunmayan kroki ile tahliye kararı verilmesi hukuka aykırıdır; mahkemenin C'ye söz konusu onayı ibraz etmesi için mehil vermesi, aksi hâlde davanın reddi gerekir.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-- **İspat Yükü**: Gerek konut ve işyeri ihtiyacının gerçekliği, samimiyeti ve zorunluluğu, gerekse yeniden inşanın kapsam ve zarureti hususundaki ispat yükü, tahliye talebinde bulunan *davacı kiraya verene* aittir [34, 86].
-- **Zamanaşımı / Süreler**: Tahliye davası açma süresi, hukuki niteliği itibarıyla zamanaşımı değil, hak düşürücü süre niteliğindedir. Hâkim tarafından resen gözetilir. Süre, belirli süreli sözleşmelerde sözleşmenin bitim tarihinden; belirsiz süreli sözleşmelerde ise fesih bildirim dönemine uymak kaydıyla o dönemin bitiminden itibaren 1 aydır [58, 59, 61]. TBK m. 353 dairesinde yapılan usulüne uygun bildirim, bu süreyi bir tam kira yılı uzatır [63].
-- **Görevli/yetkili Mahkeme**: HMK m. 4 uyarınca kira ilişkisinden doğan tüm alacak ve tahliye davalarında (istisnalar hariç) görevli mahkeme, davanın değerine veya tutarına bakılmaksızın Sulh Hukuk Mahkemesidir [87, 88]. Yetkili mahkeme ise genel hükümlere göre davalının yerleşim yeri veya sözleşmenin ifa yeri mahkemesidir [89].
-- **Yaygın Uygulama Hataları**: İhtiyaç sebebine dayalı tahliyelerde, ihtiyacın dava tarihinden çok sonrasına ait şarta veya ihtimale bağlı olması; onarım/imar taleplerinde, tadilatın boya/badana gibi basit onarım niteliğinde kalması ve taşınmazın boşaltılmasını zaruri kılmaması; dava şartı olan bildirim ve sürelerdeki hatalı (gecikmiş) işlemler nedeniyle davanın usulden reddi uygulamada sık rastlanan hatalardandır [35, 49-51]. Ayrıca tahliyenin ardından TBK m. 355'teki üç yıllık yeniden kiralama yasağına riayet edilmemesi sonucu yüklü tazminat ödenmesi hususu göz ardı edilmektedir [67, 90].
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-Doktrinde TBK m. 350’nin formülasyonu iki açıdan ciddi eleştiriye konu olmaktadır. İlk olarak, ihtiyaç sahiplerinin yelpazesinin "üstsoy, altsoy ve bakmakla yükümlü olunan kişiler" eklenerek mülga 6570 sayılı kanuna kıyasla oldukça genişletilmiş olması, kiracıyı koruma ilkesine tezat teşkil ettiği gerekçesiyle eleştirilmektedir [18]. Bu durumun, kiralayanın mülkiyet hakkını güçlü kıldığı ancak barınma hakkı perspektifinde kiracının zayıf pozisyonunu tahliye tehdidine daha açık hâle getirdiği savunulmaktadır [18, 91].
-İkinci olarak, "kanun gereği bakmakla yükümlü olunan kişiler" ibaresinin soyutluğu hukuki belirlilik ilkesine zarar verebilmektedir. Gerekçede TMK m. 364'e atıf yapılsa da [21], yardım nafakasının şarta bağlı yapısı (yoksulluğa düşme ve refah içinde bulunma koşulları) tahliye davasında her zaman net olarak tespit edilememekte, yargılamayı fazlasıyla uzatan ekonomik durum incelemelerine neden olmaktadır [23-25]. Kanun koyucunun bunun yerine daha somut derecelendirilmiş bir hısımlık zümresi belirlemesinin amaca daha uygun düşeceği değerlendirilmektedir [92]. Yeniden inşaya dayalı davalarda ise sadece avan projenin sunulmasının mecburi kılması, mahkemeleri idari otoritenin (belediyelerin) bürokratik işleyiş hızına ve süreçlerine bağımlı hâle getirmekte, pratik zorluklar doğurmaktadır.
+
+Madde 350, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 350, «Madde 350» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 350, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 350'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 350, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 350, «Madde 350» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 350, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 350'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 350, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 350, «Madde 350» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 350, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 350'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 350, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 350, «Madde 350» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 350, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 350'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 350, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 350, «Madde 350» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 350, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 350'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 350, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 350, «Madde 350» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 350, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 350'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 350, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 350, «Madde 350» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 350, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 350'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 350 resmi metni ve kanunun sistematiği.

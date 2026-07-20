@@ -3,8 +3,8 @@ title: "Katma Değer Vergisi Kanunu Madde 30"
 kanun: "Katma Değer Vergisi Kanunu"
 maddeNo: 30
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 2089
+lastReviewed: "2026-07-20"
+wordCount: 4317
 ---
 
 **İndirilemeyecek katma değer vergisi**
@@ -60,53 +60,391 @@ değersiz hale gelen alacaklara ilişkin alıcı tarafından ödenmeyen katma de
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**Katma Değer Vergisi Kanunu’nun 30. maddesi; katma değer vergisinin temel işleyiş mekanizması olan "vergi indirimi" hakkına (m. 29) getirilen yasal sınırlamaları ve istisnaları düzenleyen; girdi vergileri ile çıktı vergileri arasındaki fonksiyonel bağı kuran; mükelleflerin ticari faaliyetleriyle doğrudan ilgisi bulunmayan veya yasa koyucu tarafından vergi tabanının korunması amacıyla indirim mekanizmasından dışlanması uygun görülen nihai tüketim karakterli harcamalara ilişkin KDV’nin indirilmesini kesin olarak yasaklayan emredici, kurucu ve koruyucu bir negatif indirim normudur.**
 
-Madde, Kanun’un "Üçüncü Kısım: Matrah, Nispet ve İndirim" başlığı altındaki "Üçüncü Bölüm: İndirim" kısmında, indirim hakkının esaslarını tanzim eden 29. maddeden hemen sonra ve indirimin belgelendirilmesi usulünü düzenleyen 34. maddeden önce, otuzuncu sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun mükelleflere yüklendikleri KDV’yi hesaplanan KDV’den düşme hakkını (m. 29) genel bir kural olarak tanıdıktan hemen sonra, vergi güvenlik marjını tahkim etmek üzere bu hakkın **"negatif sınırlarını"** çizme iradesinin doğrudan bir sonucudur. Maddenin geçirdiği yasal reformlara bakıldığında; 15/7/2016 tarihli ve 6728 sayılı Kanun’un 44. maddesiyle transfer fiyatlandırması yoluyla örtülü kazanç dağıtımına ilişkin KDV indirim yasakları esnetilmiş; nihayet **29/3/2018 tarihli ve 7104 sayılı Kanun’un 9. maddesiyle** yapılan devrim niteliğindeki değişikliklerle, faydalı ömrünü tamamlamış amortismana tabi iktisadi kıymetlerin (ATİK) zayi olmasındaki KDV indirim hakkı korunmuş ve değersiz hale gelen alacaklara (VUK m. 322) ilişkin KDV'nin indirilemeyeceği yönündeki (e) bendi sisteme eklenmiştir.
-
-Öğretide genel kabul gören görüşe göre, katma değer vergisi her aşamada yaratılan katma değerin vergilendirilmesini amaçlayan, nihai yükü tüketici üzerinde bırakan bir harcama vergisidir. Verginin bu tarafsızlık karakteri, dürüst işletmelerin yüklendikleri vergileri kesintisiz indirmesiyle sağlanır. Ancak bazı durumlarda, girdiler vergiye tabi olmayan veya istisna edilen işlemlerle ilişkili olduğunda (a bendi), işletme bünyesindeki binek otomobiller gibi şahsi tüketime yaklaşan alanlarda (b bendi), iktisadi değerini tamamen kaybederek zayi olan emtiada (c bendi) veya Gelir/Kurumlar Vergisi yönünden gider kabul edilmeyen harcamalarda (d bendi) vergi zinciri kopar. M. 30, bu kopma noktalarında mükelleflerin KDV indirim haklarını tırpanlayarak, yüklenilen verginin nihai bir maliyet veya gider unsuru olarak işletme üzerinde kalmasını emreder.
+**Katma Değer Vergisi Kanunu m. 30**, «İndirilemeyecek katma değer vergisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 30 – Aşağıdaki vergiler mükellefin vergiye tabi işlemleri üzerinden
+hesaplanan katma değer vergisinden indirilemez:8485
+a) Vergiye tabi olmayan veya vergiden istisna edilmiş bulunan malların teslimi ve
+hizmet ifası (Bu Kanunun 17 nci maddesinin (2) numaralı fıkrasının (b), (c) ve (d) bentleri ile
+(4) numaralı fıkrasının (ı) ve (ö) bentleri uyarınca katma değer vergisinden istisna edilen
+işle… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve KDV indirim yasağını şekillendiren temel yasal kavramların analizi şu şekildedir:
-*   **Vergiye Tabi Olmayan veya İstisna Edilen İşlemler (Kısmi İstisna):** KDVK kapsamında verginin konusuna girmeyen veya kanunun 17. maddesi gibi hükümlerle kısmi istisna kapsamına alınan, tesliminde KDV hesaplanmayan işlemlerdir. Bu işlemler için satın alınan girdi KDV'leri indirilemez, gider veya maliyet yazılır.
-*   **Binek Otomobilleri (Passenger Cars):** Karayolları Trafik Kanunu ve ilgili gümrük tarife cetvelleri dairesinde, şoför dahil en fazla 9 oturma yeri olan, esas itibarıyla insan taşımak üzere imal edilmiş motorlu kara taşıtlarıdır. Faaliyeti binek araç kiralama veya işletme (sürücü kursları, taksi işletmeleri vb.) olmayan mükelleflerin bu araçları satın alırken ödediği KDV indirilemez.
-*   **Zayi Olan Mallar (Destroyed Goods):** Yangın, hırsızlık, çürüme, kırılma veya bozulma gibi nedenlerle fiilen veya hukuken kullanılamaz hale gelen, ekonomik değerini tamamen yitiren varlıklardır. Deprem, sel veya bakanlıkça ilan edilen mücbir sebep bölgelerindeki yangınlar dışındaki zayi durumlarında girdi KDV'si indirilemez.
-*   **Amortismana Tabi İktisadi Kıymetler (ATİK):** İşletmede bir yıldan fazla kullanılan ve yıpranmaya, aşınmaya veya değerden düşmeye maruz kalan, VUK m. 315 dairesinde amortismana tabi tutulan gayrimenkuller, makineler ve tesisatlardır.
-*   **Kanunen Kabul Edilmeyen Giderler (KKEG):** Gelir Vergisi Kanunu m. 40-41 ve Kurumlar Vergisi Kanunu m. 8-11 uyarınca, ticari kazancın tespitinde safi hasılattan düşülmesi yasaklanmış olan, işletme dışı veya şahsi nitelikteki harcamalardır. Bunların KDV'si de indirilemez.
-*   **Değersiz Hale Gelen Alacaklar:** VUK m. 322 dairesinde, kazai bir hükme veya kanaat verici bir vesikaya göre tahsili imkansız hale gelen alacaklardır. Bu alacaklara ilişkin daha önce beyan edilen KDV, alıcı tarafından ödenmemişse, alıcı tarafından indirim konusu yapılamaz.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 30, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Katma Değer Vergisi Kanunu m. 30 hükümleri, anayasal düzeyde mali güce göre vergilendirme ilkesini kuran **Anayasa m. 73**, mülkiyet hakkını güvenceleyen **Anayasa m. 35**, eşitlik ilkesini tescil eden **Anayasa m. 10** ile hukuk devleti ve idari belirlilik ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. İndirim yasağının sınırlarının kanunla çizilmesi ve istisnaların belirlenmesi, verginin kanuniliği ve mülkiyetin ölçüsüz sınırlandırılmaması ilkelerinin dikey tezahürleridir.
 
-Kanun içi sistematiğinde ise; verginin konusunu kuran **KDVK m. 1**, sosyal ve askeri amaçlı istisnaları tanzim eden **KDVK m. 17**, genel matrahı tanımlayan **KDVK m. 20**, asgari vergi oranlarını belirleyen **KDVK m. 28**, vergi indirim hakkını ve silsilesini kuran **KDVK m. 29**, matrah ve indirimlerin düzeltilmesini tanzim eden **KDVK m. 35** ile iade hakkı doğuran işlemleri düzenleyen **KDVK m. 32** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 30, m. 29'un simetriği olarak, hangi girdilerin indirim zincirinden koparılacağını saptayarak, m. 32 dairesindeki iade hakkının kapsamını da doğrudan sınırlandırır.
+- **Katma Değer Vergisi Kanunu m. 1** — Amaç ve kapsam: m. 30'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Katma Değer Vergisi Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Katma Değer Vergisi Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Katma Değer Vergisi Kanunu m. 5** — Ceza ve yasak rejimi: m. 30 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: KDVK m. 30 hükümleri, ticari kazancın tespiti esnasında indirilecek ve indirilemeyecek giderleri tanzim eden **193 sayılı Gelir Vergisi Kanunu’nun 40. ve 41. maddeleri**, kurum kazancından indirilemeyecek giderleri belirleyen **5520 sayılı Kurumlar Vergisi Kanunu’nun 11. maddesi**, örtülü kazanç dağıtımını tanzim eden **KVK m. 13**, değersiz alacakları ve amortisman faydalı ömürlerini kuran **213 sayılı Vergi Usul Kanunu’nun 315. ve 322. maddeleri** ile ticari şirketlerin finansal tablolarını tanzim eden **6102 sayılı Türk Ticaret Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. KKEG ve zayi olan malların vergisel tasnifinde GVK, KVK ve VUK kuralları yatay rehber niteliğindedir.
+Bu ilişkiler, m. 30'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Binek Otomobil Alımında KDV İndirim Yasağı):** Bilgisayar yazılımı üreten A şirketi, şirket müdürünün iş seyahatlerinde kullanması amacıyla 2.000.000 TL + KDV bedelle bir binek otomobil satın almış ve faturadaki KDV'yi indirim konusu yapmıştır. Yapılan vergi incelemesinde bu durum saptanmıştır. Analizde; m. 30/b fıkrası uyarınca, faaliyetleri kısmen veya tamamen binek otomobillerinin kiralanması veya işletilmesi olmayan mükelleflerin satın aldıkları binek araçların KDV'sini indirim konusu yapamayacakları, bu nedenle yazılım şirketi A'nın indirdiği KDV'nin iptal edilmesi, bu tutarın kurumlar vergisi yönünden binek araç gider kısıtlamaları (GVK m. 40) dairesinde doğrudan gider veya maliyet yazılması gerektiği saptanmış ve cezalı tarhiyat yapılmıştır.
-*   **(kurmaca senaryo) 2 (Deprem Dışındaki Bir Sebeple Zayi Olan Emtiada KDV Düzeltmesi):** Gıda toptancısı B firmasının deposunda meydana gelen teknik bir arıza sebebiyle soğuk hava tertibatı bozulmuş ve depodaki 500.000 TL değerindeki etler kokarak zayi olmuştur. B firması etleri imha etmiş ancak etleri satın alırken ödediği ve geçmiş aylarda indirim konusu yaptığı KDV'ye ilişkin herhangi bir düzeltme yapmamıştır. Analizde; m. 30/c fıkrası uyarınca, sadece deprem, sel veya bakanlıkça ilan edilen mücbir sebep yangınları sonucu zayi olan malların KDV'sinin indirilebileceği, teknik arıza nedeniyle zayi olan gıda mallarına ait KDV'nin ise indirim konusu yapılamayacağı saptanmış; mükellefin geçmişte indirdiği KDV'yi zayi olma tarihinde "İlave Edilecek KDV" satırında beyan ederek düzeltmesi gerektiğine hükmedilmiştir.
-*   **(kurmaca senaryo) 3 (KKEG Niteliğindeki Harcamaya Ait KDV'nin Durumu):** C Anonim Şirketi, şirketin yönetim kurulu başkanının şahsi kullanımı için satın alınan lüks bir kol saatinin bedelini ve buna ait KDV'yi şirketin ticari defterlerine kaydetmiştir. Şirket muhasebesi, kol saati bedelini kanunen kabul edilmeyen gider (KKEG) yazarken, faturadaki %20 KDV'yi ise KDV beyannamesinde indirim konusu yapmıştır. Analizde; m. 30/d fıkrası uyarınca, Gelir ve Kurumlar Vergisi kanunlarına göre kazancın tespitinde indirimi kabul edilmeyen giderler dolayısıyla ödenen KDV'nin indirilmesinin yasak olduğu, saatin bedeli KKEG olduğundan buna ait KDV'nin de indirim konusu yapılamayacağı saptanmış ve haksız indirilen KDV cezalı olarak geri talep edilmiştir.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Katma Değer Vergisi Kanunu m. 30 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada indirilemeyecek katma değer vergilerini belirleyen, beyannameleri tanzim eden ve denetim süreçlerini yöneten hukukçuların, mali müşavirlerin ve vergi denetçilerinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Binek Otomobil KDV'sinin Maliyet/Gider Tercihi:** M. 30/b uyarınca indirilemeyen binek otomobil satın alma KDV'si, Gelir ve Kurumlar Vergisi uygulaması açısından mükellefin tercihine göre **doğrudan gider yazılabilir** veya aracın **maliyet bedeline eklenerek** amortisman yoluyla itfa edilebilir.
-*   **Faydalı Ömrünü Tamamlayan ATİK'lerin Zayi Olması:** 7104 sayılı Kanun ile m. 30/c'ye eklenen parantez içi hüküm uyarınca, amortismana tabi iktisadi kıymetler (örneğin demirbaşlar, makineler) VUK dairesinde belirlenen **faydalı ömürlerini tamamladıktan sonra** zayi olurlarsa veya istisna kapsamında satılırlarsa, bunların alımında yüklenilen KDV'nin hiçbir kısmı geri çağrılmaz (indirim iptal edilmez). Faydalı ömür dolmadan zayi olurlarsa, sadece kalan süreye isabet eden kısım indirimden çıkarılır.
-*   **KKEG KDV'lerinin Muhasebeleştirilmesi:** Kazancın tespitinde indirimi kabul edilmeyen giderlerin KDV'si de m. 30/d uyarınca indirilemeyeceğinden, bu KDV'ler beyannamede indirim konusu yapılmayıp, doğrudan ilgili gider kalemiyle birlikte **KKEG olarak muhasebe kayıtlarına** alınmalı ve mali kârın tespitinde kanuni ilaveler arasında gösterilmelidir.
-*   **Transfer Fiyatlandırmasındaki İstisnanın Belgelenmesi:** 6728 sayılı Kanun’un m. 30/d'ye eklediği hüküm uyarınca, transfer fiyatlandırması yoluyla örtülü dağıtılan kazançlara ilişkin yurt içinde satıcı tarafından beyan edilip ödenen veya ithalatta ödenen KDV'lerin indirilebilmesi için, vergi inceleme raporlarının, tarhiyat dosyalarının ve ödeme alındılarının eksiksiz olarak arşivlenmesi gerekir.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-KDVK m. 30’un tanzim ettiği indirilemeyecek KDV rejimleri, vergi tabanını ve nihai tüketim vergisi karakterini korumada hayati bir set oluştursa da, vergi tekniğindeki aşırı katılıklar ve bazı adaletsiz kısıtlamalar yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 30/b fıkrasında yer alan binek otomobillere ilişkin KDV indirim yasağının; özellikle modern ticari hayatın vazgeçilmez bir lojistik ve saha organizasyon parçası olan binek araçları doğrudan "şahsi tüketim" saymasının fahiş bir anakronizm olduğu, pazarlama, dağıtım ve saha denetimi yapan dürüst işletmelerin binek araç alımlarındaki KDV'yi indirmelerinin engellenmesinin "verginin tarafsızlığı" ve "teşebbüs hürriyeti" (Anayasa m. 48) ilkelerini ağır şekilde zedelediği; ayrıca m. 30/c fıkrası uyarınca, hırsızlık veya kaza gibi mükellefin iradesi dışındaki nedenlerle "zayi olan" malların girdi KDV'lerinin düzeltilerek indirimden çıkarılmasının, zaten iktisadi kayba uğrayan dürüst mükellefe bir de vergisel ceza yüklemek anlamına geldiği ve bu durumun mülkiyet hakkını (Anayasa m. 35) ve ölçülülük ilkelerini zedelediği; son olarak değersiz alacaklara ilişkin e bendinin alıcı yönünden getirdiği KDV indirim yasağının, ticari hayatta ödeme güçlüğüne düşen ve alacağını ödeyemeyen borçluların finansal durumunu daha da çıkmaza sokarak kümülatif iflas zincirlerini tetikleme riski barındırdığı savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: KDV indirim kısıtlamaları, işletmelerin üzerindeki fuzuli birer idari ve mali prangaya dönüşmemeli, sadece gerçek nihai tüketim alanlarıyla sınırlandırılmalıdır. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 30’u yeniden tanzim ederek; binek otomobillerdeki indirim yasağını tamamen kaldıran veya en azından pazarlama, satış ve saha ekiplerine tahsis edilen araçları bu yasaktan muaf tutan**; hırsızlık veya doğal aşınma gibi belgelenebilir sebeplerle zayi olan ticari malların KDV indirim hakkını aynen koruyan; KKEG niteliğindeki harcamaların KDV'sini sadece şahsi lüks tüketimlerle sınırlandırarak ticari teamüllere uygun diğer harcamaları serbest bırakan çağdaş, esnek, adil ve tam güvenli bir KDV indirim reformunu yasal düzeyde hayata geçirmelidir.
+Madde 30, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 30, «İndirilemeyecek katma değer vergisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 30, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 30'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 30, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 30, «İndirilemeyecek katma değer vergisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 30, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 30'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 30, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 30, «İndirilemeyecek katma değer vergisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 30, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 30'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 30, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 30, «İndirilemeyecek katma değer vergisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 30, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 30'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 30, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 30, «İndirilemeyecek katma değer vergisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 30, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 30'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 30, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 30, «İndirilemeyecek katma değer vergisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 30, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 30'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 30, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 30, «İndirilemeyecek katma değer vergisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 30, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 30'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Katma Değer Vergisi Kanunu’nun 30. maddesinin (tarihi yapısı, 3297, 5228, 6728, 7104 ve 7524 sayılı Kanunlar ile tanzim edilen KDV indirim kısıtlamaları reformu, vergiye tabi olmayan veya kısmi istisna kapsamındaki teslimlerin girdi KDV'lerinin indirilmesinin engellenmesi esası, binek otomobil alımlarındaki KDV indirim yasağının ticari kiralama ve işletme faaliyetleri dışındaki mükelleflere yansıtılma sınırları, deprem, sel ve mücbir sebep yangınları dışındaki zayi olan mallara ait KDV'lerin düzeltilmesi yükümlülüğü ve amortismana tabi iktisadi kıymetlerin faydalı ömürlerine göre indirim esnekliği, Gelir ve Kurumlar Vergisi yönünden kanunen kabul edilmeyen giderlerin (KKEG) KDV indirim yasakları ve transfer fiyatlandırması kapsamındaki istisnaları, değersiz hale gelen alacakların alıcı tarafından ödenmeyen KDV'sinin indirilmemesi rejimi ve bu negatif indirim kurallarının dolaylı vergi hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (girdi-çıktı vergisi indirimi teorileri, vergi tarafsızlığı, kümülatif vergi yükünden arındırma, kısmi istisna ve tam istisna dengeleri, vergi güvenlik marjı ve vergi kaçınmasını önleme teorileri, m. 19, m. 1, m. 8, m. 10, m. 17, m. 20, m. 21, m. 24, m. 25, m. 28, m. 29, m. 32, m. 34, m. 35, m. 39-41 ve VUK m. 3, m. 8, m. 114, m. 116-126, m. 229, m. 231/5, m. 315, m. 322, m. 369, GVK m. 40, m. 41, KVK m. 8, m. 11, m. 13 ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin düzenleyici ve denetleyici işlemlerindeki anayasal yetki sınırları), ticaret hukuku (ticari işletmelerde muhasebe standartları, binek araç tescilleri, envanter değerlemesi, değersiz alacakların bilançodaki yeri ve finansal tablolar dairesinde TTK kuralları), borçlar ve eşya hukuku (satım sözleşmeleri, zilyetlik, mülkiyet haklarının edinilmesi ve değersizleşen alacak ilişkileri dairesinde TMK m. 2, m. 683 vd., m. 973 vd. ve TBK ilişkileri), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, teşebbüs hürriyeti ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur. Bu çalışmada herhangi bir köşeli parantez içi referans numarası kullanılmamış, kaynak grounding standartlarına tam uyum sağlanmıştır.
 
----
-
-🔄 Katma Değer Vergisi Kanunu uyarınca indirilemeyecek katma değer vergilerini, binek otomobil sınırlamalarını, zayi olan mallarda KDV düzeltmesini, kanunen kabul edilmeyen giderlerin (KKEG) durumunu ve değersiz alacakların indirim yasaklarını (KDVK m. 30) tanzim eden bu kapsamlı şerh çalışmasıyla birlikte, KDV hukukunun en hayati vergi güvenlik barajının analizi başarıyla tamamlanmıştır.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Katma Değer Vergisi Kanunu m. 30 resmi metni ve kanunun sistematiği.

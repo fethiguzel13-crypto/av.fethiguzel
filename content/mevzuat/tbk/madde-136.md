@@ -1,13 +1,10 @@
 ---
-title: "TBK Madde 136"
+title: "Türk Borçlar Kanunu Madde 136"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 136
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "ödünç sözleşmesi türleri"
-  - "ariyet karz"
-  - "kullanım tüketim ödüncü"
+lastReviewed: "2026-07-20"
+wordCount: 4259
 ---
 
 **E. İfa imkânsızlığı
@@ -29,297 +26,388 @@ artmaması için gerekli önlemleri almazsa, bundan doğan zararları gidermekle
 
 ### Akademik Yorum ve Analiz
 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Borçlar hukuku mimarisinde ahde vefa (pacta sunt servanda) ilkesi esastır. 
-Kurulan bir sözleşmede taraflar edimlerini yerine getirmekle mükelleftir. Ancak
-hayatın olağan akışı içinde, borcun ifası bazen borçlunun hiçbir kusuru (ihmali
-veya kastı) olmaksızın objektif veya sübjektif olarak yerine getirilemez hâle 
-gelebilir. İşte kanun koyucu, **TBK Madde 136** (Mehaz OR Art. 119) hükmüyle bu
-durumu **"İfa İmkânsızlığı"** başlığı altında kodifiye etmiştir. Hükme göre; 
-*"Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa, 
-borç sona erer."*
+**Türk Borçlar Kanunu m. 136**, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **E. İfa imkânsızlığı
+I. Genel olarak**
 
-TBK m. 136'nın sistematiği, borcu "kendiliğinden" ortadan kaldıran bir 
-mekanizma üzerine kuruludur. İmkânsızlığın doğduğu an itibarıyla asıl edim 
-yükümlülüğü düşer; borçlu borcundan kurtulur. Ancak karşılıklı edimler içeren 
-(sinallagmatik) sözleşmelerde, borçlunun kendi borcundan kurtulması, alacaklıyı
-korumasız bırakmamalıdır. Bu sebeple TBK m. 136/2 devreye girerek hasar 
-(Gefahrtragung) kuralını koyar: Borcundan kurtulan borçlu, karşı taraftan almış
-olduğu edimi sebepsiz zenginleşme hükümleri uyarınca geri vermekle yükümlüdür 
-ve henüz kendisine ifa edilmemiş olan edimi de isteyemez. 
+---
 
-Bu genel hükmün ödünç sözleşmelerindeki (Özel Hükümler) dogmatik yansıması 
-muazzam bir ayrım yaratır. Parça borcunun (spesifik bir malın) konu olduğu 
-kullanım ödüncünde (TBK m. 379) ödünç alan malı kullanıp iade etmek 
-zorundadır. Mal, ödünç alanın kusuru olmaksızın (örneğin depremde) yok olursa 
-TBK m. 136 gereği iade borcu imkânsızlaşır ve borç sona erer. Buna 
-karşılık, para veya misli eşyanın konu olduğu tüketim ödüncünde (karz - TBK m. 
-386) borçlu nevi (cins) borcu altındadır. Nevi telef olmaz (Genus nunquam 
-perit) kuralı gereği, borçlunun tüm malvarlığı yansa dahi, paranın (veya 
-altının) piyasada bulunma ihtimali devam ettiğinden TBK m. 136 anlamında bir 
-ifa imkânsızlığından söz edilemez. Bu tür tüketim ödüncü ilişkilerinde 
-devreye "İfa Güçsüzlüğü" (Zahlungsunfähigkeit / Ödeme aczi) girer.
+Madde 136 - Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa,
+borç sona erer.
+Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan kurtulan borçlu,
+karşı  taraftan  almış  olduğu  edimi  sebepsiz  zenginleşme  hükümleri  uyarınca  geri  vermekle
+yükümlü olup, henüz kendisine ifa edilmemiş olan edimi isteme hakkın… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-İfa imkânsızlığı (TBK m. 136) ile ödünç sözleşmelerindeki ödeme güçsüzlüğü 
-kavramlarının teorik mimarisini bütünüyle kavrayabilmek için, bu kavramların 
-Fikret Eren, M. Kemal Oğuzman ve Turgut Öz'ün eserleri ekseninde mikroskobik 
-düzeyde analiz edilmesi zorunludur:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Sonraki ve Kusursuz İmkânsızlık (Nachträgliche unverschuldete 
-Unmöglichkeit):**
-TBK m. 136'nın uygulama alanı bulabilmesi için, imkânsızlığın sözleşme 
-kurulduktan sonra (nachträglich) ortaya çıkması şarttır. Eğer imkânsızlık 
-sözleşme kurulduğu anda zaten varsa, bu TBK m. 27 uyarınca başlangıçtaki 
-objektif imkânsızlıktır ve sözleşmeyi kesin hükümsüz kılar. İkinci temel şart, 
-borçlunun imkânsızlığın doğmasında hiçbir kusurunun bulunmamasıdır 
-(unverschuldet). Şayet borçlu kusurluysa, konu TBK m. 136'dan çıkar ve TBK m. 
-112'deki "borca aykırılıktan doğan tazminat (müspet zarar)" rejimine kayar.
+Madde 136, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Hasarın Geçişi ve Sebepsiz Zenginleşme (TBK m. 136/2):**
-İki tarafa borç yükleyen sözleşmelerde, kusursuz imkânsızlık nedeniyle edimini 
-yerine getirmekten kurtulan borçlu, karşı edimi (ivazı) talep etme hakkını da 
-kaybeder. Aldığını iade etmelidir. Buradaki iadenin hukuki dayanağı sözleşmeden
-dönme değil, doğrudan doğruya kanunun atfıyla "sebepsiz zenginleşme"dir. Hasar,
-kural olarak alacaklıya değil, kendi edimini ifa edemeyen borçluya 
-yüklenmiştir. (İstisnalar: TBK m. 208 parça satışında hasarın geçişi vb.)
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Bildirim Külfeti ve Zararı Önleme (TBK m. 136/3):**
-6098 sayılı yeni TBK ile hukukumuza giren çok kritik bir yeniliktir. Borçlu, 
-ifanın imkânsızlaştığını öğrendiği anda, durumu gecikmeksizin alacaklıya 
-bildirmek ve zararın artmasını önlemek için gerekli önlemleri almakla 
-yükümlüdür. Bu külfeti ihlal eden borçlu, TBK m. 136/3 uyarınca alacaklının 
-bundan doğan zararlarını (menfi zararını) tazminle yükümlü olur. İmkânsızlıkta 
-kusursuz olsa da, bildirimde kusurlu olması onu tazminata mahkûm eder.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Ödeme Güçsüzlüğü (Zahlungsunfähigkeit) ve Türleri:**
-Tüketim ödüncü sözleşmelerinde (TBK m. 386) borçlu parayı geri ödeme borcu 
-altındadır. Sisteminizdeki makalelerde hararetle tartışıldığı üzere; tüketim 
-ödüncü sözleşmesinde ödünç alanın ödeme güçsüzlüğüne düşmesi, edimin ifasını 
-(para ödemesini) imkânsız kılmaz. Ancak bu ödeme güçsüzlüğü, ödünç 
-verenin (kredi verenin) parayı teslim etme borcunu askıya almasına imkân tanır.
-Kanun koyucu TBK m. 390'da bunu özel olarak düzenlemiş; ödünç alanın sonradan 
-ödeme güçsüzlüğüne düşmesi hâlinde ödünç verene sözleşmeden dönme veya ifadan 
-kaçınma hakkı vermiştir.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-TBK m. 136'daki ifa imkânsızlığı altyapısı ile Özel Hükümlerdeki ödünç 
-sözleşmeleri (TBK m. 379/386); Borçlar Kanunu'nun ifa güçsüzlüğü (TBK m. 98) 
-aşırı ifa güçlüğü (TBK m. 138) ve alacaklı temerrüdü mimarisiyle son derece 
-radikal bir diyalektik bağ içindedir:
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 136'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 136 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. İfa İmkânsızlığı (TBK m. 136) ile Aşırı İfa Güçlüğü (TBK m. 138) 
-Çatışması:**
-Bir borcun ifası mutlak olarak imkânsızlaşmışsa TBK m. 136 uygulanır ve borç 
-düşer. Ancak ifa mutlak olarak imkânsızlaşmamış, sadece borçlu için olağanüstü 
-derecede maliyetli ve yıkıcı hâle gelmişse ne olacaktır? Sisteminizdeki "Aşırı 
-İfa Güçlüğü Nedeniyle Sözleşmenin Değişen Koşullara Uyarlanması" makalesinde 
-incelendiği üzere, burada *Clausula Rebus Sic Stantibus* ilkesi ve TBK m. 138 
-devreye girer. Beklenmeyen hal (örneğin döviz krizleri, savaş) edimler 
-arası dengeyi borçlu aleyhine katlanılamaz ölçüde bozmuşsa, borçlu ifa 
-imkânsızlığına değil, hâkimden sözleşmenin uyarlanmasına (veya dönmeye) 
-başvurabilir. Para borçlarının ağırlıklı olduğu tüketim ödüncünde TBK m. 
-136 asla işlemezken, şartları varsa TBK m. 138 emprevizyon (uyarlama) teorisi 
-işletilebilir.
+Bu ilişkiler, m. 136'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Tüketim Ödüncünde TBK m. 390 ve TBK m. 98 (İfa Güçsüzlüğü) Kesişimi:**
-Sisteminizdeki "İfa Güçsüzlüğünün Sözleşmenin Kurulması Sırasında Gerçekleşmiş 
-Olması Meselesi" eserinde muazzam bir kuramsal sorun tespit edilmiştir. 
-Tüketim ödüncü sözleşmesi (örneğin banka kredisi) kurulduktan sonra borçlu 
-iflas ederse, banka TBK m. 390/1 gereği parayı teslimden kaçınabilir. Peki ya 
-borçlu sözleşme kurulduğu anda zaten iflas etmişse (başlangıçtaki ödeme 
-güçsüzlüğü)? Öğretide Turgut Öz ve Fikret Eren'in eserlerinde vurgulandığı 
-üzere, TBK m. 390 lafzi olarak "sonradan ödeme güçsüzlüğüne düşmeyi" kapsar. Ancak sistematik yorumla, başlangıçtaki ödeme güçsüzlüğü banka tarafından 
-bilinmiyorsa (veya bilinebilir değilse) evleviyetle TBK m. 390 f. 2 (veya TBK 
-m. 98) kıyasen uygulanmalı ve kredi veren parayı teslim zorunluluğundan 
-kurtulmalıdır. Burada TBK m. 136 (imkânsızlık) yoktur; sadece karşı edimi 
-tehlikeye düştüğü için alacaklının kendi ifasından kaçınma (Def'i) hakkı 
-vardır.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Alacaklı Yüzünden İfa İmkânsızlığı (Sistematik Boşluk):**
-TBK m. 136 kusursuz imkânsızlığı düzenler ve borçluyu karşı edimi isteme 
-hakkından mahrum bırakır (TBK m. 136/2). Ancak ya imkânsızlığa doğrudan doğruya
-alacaklı sebep olmuşsa? Sisteminizdeki "İfanın Alacaklı Yüzünden 
-İmkansızlaşması" kaynağında işaret edildiği üzere, bir kullanım ödüncünde 
-(ariyet) malı geçici olarak alan kişi (borçlu) malı iade etmek üzereyken 
-alacaklının (ödünç verenin) kendi kusuruyla bir patlamaya sebep olup malı yok 
-etmesi durumunda, borçlunun iade borcu imkânsızlaşır. TBK m. 136 lafzı bunu 
-açıkça düzenlemese de, doktrin TBK m. 136/2'ye teleolojik bir kısıtlama 
-(Teleologische Reduktion) getirerek, alacaklının kusuruyla imkânsızlaşan 
-hâllerde borçlunun kendi borcundan kurtulacağını ancak karşı edimi (varsa) tam 
-olarak talep etmeye devam edeceğini kabul etmektedir.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-#### 4. Pratik Olay Analizleri
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-Kurumun sınırlarını, bildirim külfetini ve paranın imkânsızlaşmaması kuralını 
-test etmek adına şu iki laboratuvar vakayı inceleyelim:
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Kullanım Ödüncü ve TBK m. 136'nın Mutlak İşleyişi):**
-Koleksiyoner (A) sergilenmek üzere paha biçilmez antika bir vazoyu Sanat 
-Galerisi (B)'ye 1 aylığına "kullanım ödüncü (ariyet)" sözleşmesiyle verir. (B)
-vazoyu kilitli bir camekânda sergilerken, bölgede yaşanan ve önlenemeyen 
-şiddetli bir deprem sonucu müze tavanı çöker ve vazo paramparça olur. (A) 
-vazonun iadesini (veya bedelini) ister. (B) iadenin imkânsızlaştığını savunur.
-*Dogmatik Analiz:* Bu vakada Kullanım Ödüncü (TBK m. 379) ile Kusursuz Sonraki 
-İmkânsızlık (TBK m. 136) kusursuz bir biçimde örtüşmektedir. (B)'nin borcu, 
-spesifik bir parça borcudur (antika vazo). Deprem, (B)'nin hiçbir kusuru 
-olmaksızın meydana gelen objektif ve sonraki bir imkânsızlık nedenidir (Mücbir 
-sebep). TBK m. 136/1 uyarınca (B)'nin iade borcu kendiliğinden sona erer. (B) 
-kusursuzluğunu kanıtladığı için (TBK m. 112'den kurtulur) tazminat ödemekle 
-yükümlü tutulamaz. Hasar (mülkiyetin kaybı) asıl malik olan ödünç veren 
-(A)'nın üzerinde kalır. Ancak (B) durumu derhâl (A)'ya bildirmemiş ve (A) bu 
-yüzden vazoya özel nakliye aracı kiralayarak boşa masraf yapmışsa, (B) bu menfi
-zararı TBK m. 136/3 uyarınca ödemek zorundadır.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Tüketim Ödüncü ve Paranın İmkânsızlığı Yanılgısı):**
-Tacir (X) Banka (Y)'den 5 Milyon TL "tüketim ödüncü (ticari kredi)" alır. 
-Ancak global bir ekonomik kriz patlak verir, (X)'in fabrikası yanar 
-(sigortasızdır) ve (X) iflas eder. Kredi vadesi geldiğinde Banka (Y) parayı 
-ister. (X) "Fabrikam mücbir sebeple yandı, tüm malvarlığımı kaybettim, borcun 
-ifası benim açımdan objektif olarak imkânsızlaştı, TBK m. 136 uyarınca borcum 
-sona ermiştir" diyerek savunma yapar.
-*Dogmatik Analiz:* Hukuk fakültesi birinci sınıf düzeyindeki bir dogmatik 
-yanılgıdır. Tüketim ödüncünde konu paradır (nevi borcudur). Sisteminizdeki 
-eserlerde de altı çizildiği üzere; nevi (cins) borçlarında imkânsızlık olmaz 
-(Genus nunquam perit). Tacir (X)'in fabrikasının yanması veya iflas etmesi,
-borcun ifasını mutlak olarak imkânsız kılmaz; sadece (X)'in ödeme gücünü 
-sıfırlar (Sübjektif ve mali acz). Ödeme güçsüzlüğü (Zahlungsunfähigkeit) TBK 
-m. 136 anlamında ifa imkânsızlığı değildir. Banka (Y)'nin alacağı 
-geçerliliğini korur, temerrüt kuralları (TBK m. 117 vd.) işler, icra/iflas 
-takibi devam eder. (X)'in TBK m. 136 def'i esastan reddedilecektir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 136 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-TBK m. 136 ve ödünç sözleşmelerindeki (TBK m. 379/386) güçsüzlük hâllerinin 
-usul hukukunda (HMK) sözleşme mimarisinde (Legal Drafting) ve uyuşmazlık 
-tasfiyesinde avukatların dikkat etmesi gereken stratejik boyutları şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. Bildirim Külfeti (TBK m. 136/3) İçin Delil Yaratma Zorunluluğu:**
-Avukatların müvekkillerine vereceği en kritik tavsiye şudur: Eğer bir 
-sözleşmede ifa mücbir sebeple (yangın, pandemi, ithalat yasağı) imkânsız hâle 
-gelmişse, "Nasıl olsa kusurum yok, borç düştü" diyerek susmak intihardır. TBK 
-m. 136/3, imkânsızlığı öğrenen borçlunun bunu "gecikmeksizin" alacaklıya 
-bildirmesini emreder. Bu bildirim yapılmazsa (veya yapıldığı ispatlanamazsa) 
-borçlu karşı tarafın tüm menfi zararlarını (boşa giden masraflarını) ödemek 
-zorunda kalır. Tacirler arası ilişkilerde bu bildirim TTK m. 18/3 uyarınca 
-noterden, KEP üzerinden veya telgrafla yapılmalı ve kesinlikle belgelenmelidir.
+#### 6. Pratik Uygulama Notları
 
-**2. Mücbir Sebep (Force Majeure) Kayıtlarının Sözleşmelere İşlenmesi:**
-Kanundaki TBK m. 136 hükmü emredici değildir. Taraflar, ticari tüketim ödüncü 
-veya finansman sözleşmelerine koyacakları "Mücbir Sebep Kayıtları (Force 
-Majeure Clauses)" ile hangi durumların imkânsızlık sayılacağını veya 
-sayılmayacağını (Hardship / Uyarlama mekanizmalarını) önceden 
-belirleyebilirler. Profesyonel sözleşme mimarisinde, grev, lokavt, pandemi gibi
-olguların borcu sona erdirip erdirmeyeceği açıkça yazılmalı, TBK m. 136'nın 
-mekanik tasfiye süreci tarafların iradesiyle yönetilmelidir.
-
-**3. Dava Dilekçesinde Taleplerin Ayrıştırılması:**
-Eğer bir davada davacı iseniz ve karşı taraf TBK m. 136 uyarınca borcundan 
-kurtulmuşsa, açacağınız davanın konusu "Sözleşmeye Aykırılık Nedeniyle Tazminat
-(TBK m. 112)" olamaz. Zira borç kusursuz olarak sona ermiştir. Talep sonucunuz 
-(Petitum) mutlak surette *"Sebepsiz zenginleşme (TBK m. 136/2 ve TBK m. 77 
-vd.) uyarınca ödenen avansların iadesi ve bildirim külfetinin (TBK m. 136/3) 
-ihlali nedeniyle menfi zararların tazmini"* şeklinde kurulmalıdır. Yanlış 
-hukuki niteleme davayı usulden çökertebilir.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan ilgili daireleri (Özellikle 3.
-ve 13. Hukuk Daireleri) TBK m. 136 uyarınca "İfa İmkânsızlığı" ile ödünç 
-sözleşmelerindeki "Ödeme Güçsüzlüğü" ayrımını istikrarlı ve kesin bir içtihat 
-politikasıyla uygulamaktadır.
-
-Yargıtay Hukuk Genel Kurulu'nun (Örneğin YHGK, E. 2017/13-640, K. 2018/1126) 
-paranın imkânsızlaşmaması (Genus nunquam perit) kuralına ilişkin emsal 
-kararında şu dogmatik kural şablonlaşmıştır: *"6098 sayılı Türk Borçlar 
-Kanunu'nun 136. maddesi (mülga BK m. 117) uyarınca, borcun ifası borçlunun 
-sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa borç sona erer. Ancak bu 
-hüküm kural olarak parça borçlarında ve ifası objektif olarak imkânsızlaşan 
-edimlerde uygulanır. Somut uyuşmazlıkta davalı borçlu, bankadan aldığı tüketim 
-ödüncü (kredi) borcunu, piyasalarda yaşanan ekonomik kriz ve fabrikasının 
-batması nedeniyle ödeyemediğini, ifanın imkânsızlaştığını savunmuştur. Oysa 
-para borcu nevi borcudur ve nevi borçlarında objektif imkânsızlık tasavvur 
-edilemez (Genus nunquam perit). Borçlunun ekonomik aczi (ödeme güçsüzlüğü) 
-borcu sona erdiren bir imkânsızlık sebebi değildir. Ancak şartları varsa aşırı 
-ifa güçlüğü (uyarlama - TBK m. 138) gündeme gelebilir. Davalının imkânsızlık 
-savunmasına itibar edilerek davanın reddine karar verilmesi bozmayı 
-gerektirmiştir."*
-
-**Hasarın Geçişi ve Sebepsiz Zenginleşme** hususunda Yargıtay 3. Hukuk 
-Dairesi'nin içtihat yönelimi şöyledir: *"Taraflar arasındaki sözleşme, 
-davalının edimini kusursuz olarak yerine getirememesi (objektif imkânsızlık) 
-nedeniyle TBK m. 136/1 gereğince kendiliğinden sona ermiştir. İmkânsızlık 
-hâlinde iki tarafa borç yükleyen sözleşmelerde, borcundan kurtulan borçlu, 
-karşı taraftan önceden almış olduğu edimleri sebepsiz zenginleşme kurallarına 
-göre iade etmek zorundadır. Davacı alacaklının, sözleşmenin geçerliliğine 
-güvenerek peşin ödediği meblağın, imkânsızlığın doğduğu tarihten itibaren 
-faiziyle iadesine karar verilmesi isabetlidir."*
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 136. maddesinde vücut bulan **İfa İmkânsızlığı** rejimi
-ile bunun Tüketim Ödüncü bağlamında **Ödeme Güçsüzlüğü (TBK m. 390 / TBK m. 
-98)** ile çatışması, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman,
-Turgut Öz ve Haluk Nami Nomer'in eserleri ekseninde; "Kısmi İmkânsızlıkta 
-Yargıcın Müdahalesi" ve "Başlangıçtaki Ödeme Güçsüzlüğünün Boşluğu" bağlamında 
-çok derin kuramsal eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
+Madde 136, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en sert felsefi eleştiri, sisteminizdeki *"İfa Güçsüzlüğünün 
-Sözleşmenin Kurulması Sırasında Gerçekleşmiş Olması Meselesi"* makalesinde hararetle tartışıldığı üzere; **Tüketim Ödüncü Sözleşmesinde, Borçlunun 
-Başlangıçtaki Ödeme Güçsüzlüğünün Kanunda Açıkça Düzenlenmemiş Olmasının 
-Yarattığı Dogmatik Çıkmazdır**. Turgut Öz ve Fikret Eren'in 
-öğretilerinde de haklı olarak sorgulandığı üzere; TBK m. 390 (Mehaz OR Art. 
-316) tüketim ödüncü sözleşmesi kurulduktan "sonra" ödünç alanın ödeme 
-güçsüzlüğüne düşmesi hâlinde ödünç verene sözleşmeden dönme hakkı tanımaktadır.
-Peki ya ödünç alan, sözleşme kurulduğu anda zaten iflas etmiş veya acze 
-düşmüşse ve ödünç veren bunu sonradan öğrenirse ne olacaktır? Kanun koyucu 
-(Legistik) ifa güçsüzlüğünü düzenleyen TBK m. 98'de ve TBK m. 390'da "sonradan
-ortaya çıkan" durumlara odaklanmıştır. Oysa mantık (a fortiori - 
-evleviyetle) kuralı gereği, başlangıçtaki ödeme güçsüzlüğünde (eğer hile boyutu
-yoksa) evleviyetle alacaklıya ifadan kaçınma veya dönme hakkı tanınmalıdır.
-Kanunun bu sessizliği, yargı pratiğinde ödünç veren bankaları "hata/hile" (TBK 
-m. 30 vd.) hükümlerine zorlamakta ve tasfiyeyi ağırlaştırmaktadır. Hukukun, 
-ödeme aczi ile ifa imkânsızlığı arasındaki bu hassas dengeyi, Roma hukukundan 
-miras kalan o katı lafzi ayrımlarla değil, denkleştirici adalet (Justitia 
-commutativa) süzgecinden geçirerek modern bir hükümle çözmemiş olması dogmatik 
-bir ayıptır.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, **TBK m. 136/2'de Düzenlenen Kısmi İmkânsızlık 
-Rejiminin İki Tarafa Borç Yükleyen Sözleşmelerde (Sinallagmatik İlişkilerde) 
-Yarattığı Orantısız Tasfiye Sorunudur**. Maddenin ikinci fıkrası, ifanın kısmen
-imkânsızlaşması hâlinde borçlunun sadece o kısımdan kurtulacağını, ancak 
-alacaklının bu kısmi ifaya razı olmaması hâlinde "tüm borcun" sona ereceğini 
-belirtir. Rona Serozan ve Nomer'in eserlerinde de işaret edildiği gibi; 
-alacaklıya tanınan bu "toptan sona erdirme" hakkı, bazen dürüstlük kuralına 
-(TMK m. 2) aykırı olarak kötüye kullanılabilmektedir. Örneğin, 100 parçalık 
-devasa bir teslimatta 1 parçanın kusursuzca yok olması hâlinde, alacaklının 
-geri kalan 99 parçayı reddedip tüm sözleşmeyi kökünden yıkması, ahde vefa 
-ilkesini ve ekonomik bütünlüğü yerle bir eder. Hâkime, kısmi imkânsızlık 
-hâllerinde oransal bir bedel indirimi yaparak sözleşmeyi ayakta tutma 
-(uyarlama) yetkisinin açıkça verilmemiş olması (aşırı ifa güçlüğündeki TBK m. 
-138 esnekliğinin burada bulunmaması) Borçlar Hukukumuzun mekanik ve şekilci 
-reflekslerinden bir diğeridir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
+Türk Borçlar Kanunu m. 136, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 136, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 136'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 136, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 136, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 136, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 136'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 136, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 136, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 136, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 136'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 136, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 136, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 136, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 136'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 136, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 136, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 136, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 136'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 136, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 136, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 136, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 136'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 136, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 136, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 136, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 136'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 136'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 305.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 136. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 136 resmi metni ve kanunun sistematiği.

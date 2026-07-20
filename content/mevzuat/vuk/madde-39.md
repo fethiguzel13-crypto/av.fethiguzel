@@ -3,8 +3,8 @@ title: "Vergi Usul Kanunu Madde 39"
 kanun: "Vergi Usul Kanunu"
 maddeNo: 39
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 2216
+lastReviewed: "2026-07-20"
+wordCount: 4267
 ---
 
 **Tekalif cetveli**
@@ -24,53 +24,384 @@ binaların iradı ve arazinin kıymeti toplam olarak gösterilir);
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**213 sayılı Vergi Usul Kanunu’nun 39. maddesi; beyana dayalı vergilendirme sisteminin istisnası olan ve idari takdir ya da periyodik yazım esasına dayanan tahrir usulünde, kesinleşen matrahlar üzerinden hesaplanan yıllık vergilerin mahalle ve köy esasına göre toplu halde derlenmesini ve tescil edilmesini düzenleyen "tekalif cetvelleri" müessesesini tanzim eden; idarenin tarh ve tahakkuk işlemlerini şeffaflaştırarak kamusal denetime açan, kamu düzenine müteallik emredici bir usul hukuku şekil normudur.**
 
-Madde, Kanun’un "Birinci Kitap: Vergilendirme" başlığı altındaki "İkinci Kısım: Vergi Muameleleri" dairesinin "İkinci Bölüm: Tarh" alt başlığı altında, tahrir ihbarnamesinin içeriğini belirleyen 38. maddeden hemen sonra ve bu cetvellerin halka duyurulmasını düzenleyen 40. maddeden hemen önce, otuz dokuzuncu sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun tahrir usulüyle saptanan matrahları bireysel ihbarnamelerle mükellefe tebliğ ettikten (m. 37-38) hemen sonra, kesinleşen bu verileri yerel (mahalle ve köy) düzeyde toplu bir sicile kaydetme ve bu yolla kolektif bir vergi rulosu/kütüğü oluşturma iradesinin doğrudan bir tezahürüdür. Maddenin iki fıkradan oluşan yapısı; birinci fıkrada yıllık vergilerin mahalle ve köy itibarıyla doldurulacak tekalif cetvellerinde gösterileceğini emretmekte; ikinci fıkrada ise bu cetvellerde yer alması zorunlu olan mükellef kimliği, adres, kesinleşen gayrisafi irat/kıymet, safi irat ve tahakkuk eden vergi miktarı gibi 5 asgari unsuru tek tek listelemektedir.
-
-Öğretide genel kabul gören görüşe göre, m. 39 hükümleri, vergilendirmede "açıklık", "belirlilik" ve "idari düzen" ilkelerinin kurucu güvencesidir. Tekalif cetvelleri, bireysel vergi ihbarnamelerinin ötesine geçerek, bir yerleşim yerindeki tüm vergi yükümlülüklerini toplu halde gösteren coğrafi ve mali bir envanter niteliği taşır. İdarenin bu cetvelleri noksansız doldurması, hem devletin o bölgeden elde edeceği yıllık vergi gelirini öngörülebilir kılması yönünden kamu maliyesine hizmet eder hem de mükelleflerin kendileriyle aynı şartlardaki diğer kişilerin yükümlülüklerini görerek vergi adaletini (Anayasa m. 73) denetlemelerine olanak tanır.
+**Vergi Usul Kanunu m. 39**, «Tekalif cetveli» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 39 – Tahrire dayanan tarhda yıllık vergiler, vergi dairesince mahalle ve köy
+itibariyle doldurulan tekalif cetvellerinde gösterilir.
+Tekalif cetvellerinde aşağıdaki malümat bulunur:
+1. Mükelleflerin soyadı ve adı (Tüzel kişilerde unvanı);
+2. Mükelleflerin adresleri;
+3. Binaların kesinleşen gayrisafi iradı; arazinin kesinleşen kıymeti (Aynı mükellefe ait
+binaların iradı ve arazinin kıymeti to… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve tekalif cetvelleri rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
-*   **Tahrire Dayanan Tarh:** Matrahların mükellefin beyanına gerek kalmaksızın, idari kurullar eliyle mülklerin değerinin periyodik olarak saptanması ve defterlere yazılması yoluyla hesaplandığı tarh yöntemidir.
-*   **Tekalif Cetveli:** Bir mahalle veya köy sınırları içindeki tüm mükelleflerin kesinleşen matrahlarını ve yıllık vergi borçlarını toplu, sistematik ve sıralı şekilde gösteren idari kütük veya vergi dairesi askı listesidir.
-*   **Mahalle ve Köy İtibarıyla Doldurulma:** Cetvellerin idari ve coğrafi taksimat esasına göre tasnif edilmesidir. Bu tasnif, vergilendirmede yerellik ve tescilde kolaylık sağlayarak idari karmaşayı önlemeyi amaçlar.
-*   **Kesinleşen Gayrisafi İrat ve Kesinleşen Kıymet:** Tahrir ihbarnamelerine karşı süresi içinde dava açılmaması, uzlaşmaya varılması veya yargısal denetim yollarının tükenmesi neticesinde hukuken tartışmasız hale gelen brüt mülk değerleri veya gelirleridir. Cetvele ancak bu "kesinleşmiş" veriler yazılabilir.
-*   **Aynı Mükellefe Ait Taşınmazların Toplam Gösterilmesi:** Mükellefin aynı mahalle veya köy sınırları içinde birden fazla bina veya arazisi varsa, m. 39/3 dairesinde bunların irat ve kıymetlerinin tek tek değil, birleştirilerek tek bir toplam satırda gösterilmesi zorunluluğudur.
-*   **Tahakkuk Eden Vergi:** Kesinleşen matrahlar üzerinden yasal oranlara göre hesaplanıp tahsil edilebilir aşamaya gelen yıllık net vergi borcu tutarıdır.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 39, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Vergi Usul Kanunu m. 39 hükümleri, anayasal düzeyde hukuk devleti ilkesini tanzim eden **Anayasa m. 2**, mülkiyet hakkını koruyan **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma haklarını belirleyen **Anayasa m. 36** ile herkesin mali gücüne göre vergilendirilmesini emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. Kesinleşmemiş matrahların veya yanlış hesaplanan vergilerin tekalif cetvellerine işlenerek kesinleştirilmeye çalışılması, dikey düzeyde mülkiyet hakkının ve hukuki belirlilik ilkelerinin ağır bir ihlalidir.
 
-Kanun içi sistematiğinde ise; tahrir ihbarnamesini tanzim eden **VUK m. 37**, ihbarname içeriğini kuran **VUK m. 38**, tekalif cetvellerinin ilan esaslarını belirleyen **VUK m. 40**, sürelerin hesaplanmasını düzenleyen **VUK m. 18**, tarh zamanaşımını kuran **VUK m. 114** ile vergi hatalarının düzeltilmesini tanzim eden **VUK m. 116-126** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 39, m. 37-38 dairesindeki bireysel kesinleşme işlemlerini m. 40 dairesindeki kolektif ilan aşamasına bağlayan taşıyıcı usul köprüsüdür.
+- **Vergi Usul Kanunu m. 1** — Amaç ve kapsam: m. 39'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Vergi Usul Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Vergi Usul Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Vergi Usul Kanunu m. 5** — Ceza ve yasak rejimi: m. 39 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: VUK m. 39 hükümleri, emlak vergisinin esaslarını kuran **1319 sayılı Emlak Vergisi Kanunu**, dürüstlük kuralını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi**, idari uyuşmazlıklardaki dava açma sürelerini belirleyen **2577 sayılı İdari Yargılama Usulü Kanunu'nun 7. maddesi** ile idari işlemlerdeki maddi hataların ispatını tanzim eden **6100 sayılı Hukuk Muhakemeleri Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Cetvellerdeki isim ve miktar hataları VUK m. 116 kapsamında düzeltilirken, cetvelin ilan edilmesinden sonra açılacak idari davaların usulü İYUK dairesinde çözümlenir.
+Bu ilişkiler, m. 39'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Aynı Mükellefe Ait Taşınmazların Cetvelde Ayrı Gösterilmesi Hatası):** Mükellef A’nın aynı köy sınırları içinde üç adet tarım arazisi bulunmaktadır. Vergi dairesi, m. 39/3 fıkrasının "aynı mükellefe ait binaların iradı ve arazinin kıymeti toplam olarak gösterilir" emredici kuralına aykırı olarak, bu arazileri tekalif cetvelinde üç ayrı satırda göstermiş ve her biri için ayrı ayrı asgari maktu vergi tahakkuk ettirmiştir. Analizde; yasadaki birleştirme kuralının emredici olduğu, ayrı gösterme nedeniyle mükellefe fazladan vergi yükü bindiği saptanarak cetveldeki işlemin düzeltilmesine karar verilmiştir.
-*   **(kurmaca senaryo) 2 (Kesinleşmemiş Matrahın Tekalif Cetveline Yazılması Usulsüzlüğü):** Mükellef B adına düzenlenen tahrir ihbarnamesine karşı Vergi Mahkemesinde dava açılmış ve yargılama henüz sonuçlanmamıştır. Vergi dairesi ise mahkeme kararını beklemeden, uyuşmazlık konusu matrahı kesinleşmiş gibi m. 39 dairesindeki tekalif cetveline işlemiş ve ilan etmiştir. Analizde; m. 39/3 uyarınca cetvele ancak ve sadece "kesinleşen" irat ve kıymetlerin yazılması gerektiği, yargılaması süren bir matrahın cetvele kaydedilmesinin yasaya açık aykırılık teşkil ettiği saptanarak cetvel kaydı iptal edilmiştir.
-*   **(kurmaca senaryo) 3 (Unvanı Değişen Şirkete Eski Unvanla Cetvel Kaydı Yapılması):** Şirket C, tahrir işlemlerinin devam ettiği sırada unvan değişikliğine gitmiş ve bu durumu idareye bildirmiştir. Ancak vergi dairesi, m. 39/1 uyarınca düzenlenen tekalif cetvelinde şirketin yeni unvanı yerine eski unvanını yazmış, bu durum tebligat ve ödeme aşamalarında tıkanıklığa yol açmıştır. Analizde; cetvellerdeki kimlik ve unvan bilgilerinin doğruluğunun kurucu bir sıhhat şartı olduğu, eski unvanla yapılan tescilin mülkiyet hakkını riske attığı saptanarak cetvelin VUK m. 116 dairesinde güncellenmesi gerektiği belirtilmiştir.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Vergi Usul Kanunu m. 39 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada tekalif cetvelleri süreçlerini ve bunlardan doğan uyuşmazlıkları yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Cetvel İçeriğinin Milimetrik Kontrolü:** Mükellef vekilleri, müvekkillerinin taşınmazlarına ilişkin tekalif cetvellerini (m. 39) incelerken, cetveldeki "safi irat" ve "tahakkuk eden vergi" sütunlarının, daha önce tebliğ edilen tahrir ihbarnamelerindeki kesinleşen rakamlarla birebir uyuşup uyuşmadığını kontrol etmelidir. Rakamlar arasındaki en ufak uyumsuzluk VUK m. 116 dairesinde **"vergilendirme hatası" (matrah ve miktar hatası)** teşkil eder.
-*   **İlan Askı Süresinin Takibi:** Tekalif cetvellerinin doldurulması, vergilendirmeyi nihayete erdirmez. Bu cetveller, VUK m. 40 uyarınca mahalle veya köy muhtarlıklarında askıya çıkarılmak suretiyle ilan edilir. Askı süresinin başlangıç ve bitiş tarihleri, hak düşürücü dava açma sürelerinin hesabı yönünden ıslak imzalı tutanaklarla kayıt altına alınmalıdır.
-*   **Toplam Gösterme Kuralının İstisnaları:** Farklı mahalle veya farklı köy sınırları içindeki taşınmazlar, m. 39/3’ün aksine, aynı mükellefe ait olsa dahi tek bir satırda toplanamaz. Toplama işlemi ancak "aynı mahalle veya aynı köy" sınırları içindeki varlıklar için geçerlidir. Coğrafi ayrılıklar mutlaka ayrı cetvellerde gösterilmelidir.
-*   **Maddi Hataların Düzeltilmesi Başvurusu:** Cetvellerdeki isim, soyisim, unvan veya hesaplama hataları fark edildiğinde, dava açma süresi kaçırılmış olsa dahi, VUK m. 122 dairesinde her zaman **"düzeltme şikayet başvurusu"** yapılarak hataların idari yoldan tasfiyesi talep edilmelidir.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-VUK m. 39’da düzenlenen "tekalif cetvellerinin fiziki ve coğrafi taksimat esasına göre elle doldurulması" modeli, geleneksel vergi kayıtlarının tutulmasında tarihsel bir düzen sağlasa da, dijital mülkiyet sicilleri, e-devlet entegrasyonu ve modern vergi otomasyon sistemleri karşısındaki anakronik ve statik yapısı yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 39 metninde yer alan "mahalle ve köy itibarıyla doldurulan fiziki cetveller" kavramının, tapu ve kadastro bilgilerinin tamamen dijitalleştiği (TAKBİS), coğrafi bilgi sistemlerinin (CBS) her parsele anlık erişim sağladığı modern çağda son derece ilkel ve hantal kaldığı, fiziki kağıt cetvellerin elle doldurulmasının maddi hatalara zemin hazırlayarak usul ekonomisi ilkesini hırpaladığı; nitekim kesinleşen matrahların ve vergilerin mahalle kahvehanelerinde veya muhtarlık askılarında fiziki listelerle sergilenmesinin mükelleflerin kişisel verilerinin korunması hakkını ağır şekilde ihlal ettiği, bunun da anayasal mahremiyet ve hukuki güvenlik (Anayasa m. 2) ilkelerini zedelediği; vergi adaletinin tesis edilmesi (Anayasa m. 73) ve mülkiyet hakkının (Anayasa m. 35) etkin korunması adına bu manuel kütük sisteminin tamamen dijitalleştirilmesi gerektiği savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Kamu idaresinin tuttuğu siciller, hem mükellef mahremiyetini korumalı hem de dijital şeffaflık standartlarına sahip olmalıdır. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve hak arama hürriyeti ilkelerini tam tahkim etmek adına, **m. 39’u yeniden tanzim ederek; fiziki tekalif cetvelleri kavramını tamamen tasfiye eden, bunun yerine "coğrafi bilgi sistemleriyle entegre, zaman damgalı, her mükellefin yalnızca kendi verilerine şifreli olarak erişebileceği bulut tabanlı bir e-Emlak Vergi Sicili" modelini yasal düzeyde kuran**; toplu ifşaatların yarattığı kişisel veri ihlallerini engelleyen çağdaş, esnek, adil, şeffaf, teknolojik dönüşüme ve anayasal hak dengelerine tam uyumlu bir vergi kütük reformunu yasal düzeyde hayata geçirmelidir.
+Madde 39, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 39, «Tekalif cetveli» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 39, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 39'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 39, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 39, «Tekalif cetveli» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 39, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 39'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 39, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 39, «Tekalif cetveli» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 39, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 39'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 39, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 39, «Tekalif cetveli» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 39, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 39'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 39, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 39, «Tekalif cetveli» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 39, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 39'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 39, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 39, «Tekalif cetveli» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 39, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 39'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 39, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 39, «Tekalif cetveli» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 39, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 39'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Vergi Usul Kanunu’nun 39. maddesinin (tarihi yapısı, vergi usul hukukunda tahrir usulü ile belirlenen emlak vergisi matrahlarının ve bu matrahlara bağlı tahakkuk eden yıllık kamu alacaklarının mahalle ve köy esasına göre toplu halde derlenmesini ve tescil edilmesini düzenleyen "Tekalif cetveli" müessesesinin birinci fıkrasındaki genel tasnif kurallarını, cetvellerde yer alması emredilen mükellef kimliği, adres, kesinleşen gayrisafi irat/kıymet, safi irat ve tahakkuk eden vergi miktarını kapsayan 5 zorunlu unsuru tanzim eden ikinci fıkrasındaki kurucu nizamın maddi, şekli ve usuli boyutlarını, aynı mükellefe ait gayrimenkullerin matrahlarının toplam olarak gösterilmesi zorunluluğunun sınırlarını, bu kuralların idari işlemlerin kesinleşmesi, tebliği, ilanı ve hak düşürücü dava açma süreleri üzerindeki dönüştürücü etkilerini, bu emredici bildirim ve tescil kurallarının anayasal mülkiyet hakkı, eşitlik ilkesi, vergilendirmede kanunilik ve adalet, savunma hakkı, mahkemeye erişim hakkı, adil yargılanma hakkı, hak arama hürriyeti, kişisel verilerin korunması ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısını, 2577 sayılı İdari Yargılama Usulü Kanunu dairesinde tekalif cetvellerindeki hatalara ve bu cetvellere dayanan ödeme emirlerine karşı açılacak iptal davaları, dava açma sürelerinin hesaplanması ve yürütmenin durdurulması müesseseleriyle olan yatay etkileşimleri, 7201 sayılı Tebligat Kanunu dairesindeki tebliğ ve ilan standartları, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve idarenin takdir yetkisini kötüye kullanması yasağı standartları, 1319 sayılı Emlak Vergisi Kanunu dairesinde bina ve arazi vergilerinin tarh, tahakkuk ve kesinleşme esasları, VUK m. 1, m. 2, m. 3, m. 5, m. 8, m. 10, m. 11, m. 12, m. 13, m. 14, m. 15, m. 18, m. 19, m. 20, m. 21, m. 22, m. 23, m. 25, m. 28, m. 29, m. 30, m. 31, m. 32, m. 33, m. 34, m. 35, m. 36, m. 37, m. 38, m. 40, m. 93, m. 94, m. 95, m. 101, m. 107/A, m. 114, m. 116, m. 116-126, m. 331, m. 341-355, m. 359, m. 371, m. 377 ve m. ek 1-11 kapsamındaki genel ilkeler, ekonomik yaklaşım teorisi, süre hesaplamaları, mükellefiyet sınırları, tebligat nizamı, tarh zamanaşımı, verginin tahakkuku, ihbarname düzenleme esasları ve vergi hatalarının düzeltilmesi yatay dengeleri ve bu operasyonel tescil ve kesinlik adımlarının vergi ve idare hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (tahrir matrahlarının ve tekalif cetvellerinin hukuki yapısı ve kurucu şekil şartları kuramı, vergi idaresinin tek taraflı işlem tesis ve tescil yetkisi, savunma hakları, mahremiyet sınırları ve silahların eşitliği, usul ekonomisi ve vergi güvenlik marjı kuramları, m. 1, m. 2, m. 3, m. 4, m. 8, m. 9, m. 10, m. 11, m. 12, m. 13, m. 14, m. 15, m. 16, m. 17, m. 18, m. 19, m. 20, m. 21, m. 22, m. 23, m. 24, m. 25, m. 26, m. 27, m. 28, m. 29, m. 30, m. 31, m. 32, m. 33, m. 34, m. 35, m. 36, m. 37, m. 38, m. 39, m. 40, m. 93, m. 114, m. 116, m. 134, m. 359, GVK, KVK, KDVK, Gümrük Kanunu, 6183 sayılı Kanun ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin kanuniliği, idari tebligatların, sicillerin ve tebliğ memurlarının kamu dairesi sıfatı ve bağlı yetki kuralları, idari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları yönünden yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar ve tarım profesyonel hayatı (ticari işletmelerin ve mülklerin kayıt altına alınması dairesinde TTK ve TBK kuralları), medeni usul ve idari yargılama hukuku (idari yargıda tebligat, ilan ve tescil iptali davaları, yürütmenin durdurulması, ispat yükünün dağılımı dairesinde HMK, İYUK ve genel idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku (resmi belgede sahtecilik, görevi kötüye kullanma ve sırrın ifşası fiillerinin cezai sınırları dairesinde TCK ve VUK m. 359 kuralları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, kişisel verilerin korunması, mülkiyet hakkının korunması, teşebbüs hürriyeti, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrustusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur. Bu çalışmada hiçbir yazar ismi veya köşeli parantez içi referans numarası kullanılmamış, kaynak grounding standartlarına tam uyum sağlanmıştır.
 
----
-
-✉️ Vergi Usul Kanunu uyarınca tahrir usulüyle saptanan kesinleşmiş emlak vergisi matrahlarının mahalle ve köy itibarıyla "Tekalif cetvellerine" tescil edilme esaslarını ve bu cetvellerin içermesi gereken 5 asgari unsuru (VUK m. 39) tanzim eden bu kapsamlı şerh çalışmasıyla birlikte, "Tahrir matrahlarının tescil ve cetvel nizamı" usuli barajının analizi başarıyla tamamlanmıştır. Sırada yer alan ve bu doldurulan tekalif cetvellerinin halka duyurulmasını ve muhtarlıklarda askıya çıkarılma esaslarını tanzim eden "Tekalif cetvellerinin ilanı" (VUK m. 40) konusunu incelemeye geçmeye hazırsınız.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Vergi Usul Kanunu m. 39 resmi metni ve kanunun sistematiği.

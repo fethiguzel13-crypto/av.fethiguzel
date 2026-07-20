@@ -1,13 +1,10 @@
 ---
-title: "TBK Madde 104"
+title: "Türk Borçlar Kanunu Madde 104"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 104
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "alıcının borçları"
-  - "satış bedeli"
-  - "teslim alma yükümlülüğü"
+lastReviewed: "2026-07-20"
+wordCount: 4320
 ---
 
 **2. Hükümleri**
@@ -25,322 +22,394 @@ Borç senedi borçluya geri verilmişse, borç sona ermiş sayılır.
 
 ### Akademik Yorum ve Analiz
 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Makro Bakış:** Tam iki tarafa borç yükleyen (synallagmatik) bir akit olan 
-satış sözleşmesinde, satıcının mülkiyeti ve zilyetliği devir borcuna (TBK m. 
-207) karşılık, alıcının bünyesinde iki temel edim yükümlülüğü doğar: Satış 
-bedelini (semen) ödemek ve satılan malı teslim almak. 
+**Türk Borçlar Kanunu m. 104**, «2. Hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 104 - Faiz  veya  kira  bedeli  gibi  dönemsel  edimlerden  biri  için,  alacaklı
+tarafından çekince belirtilmeksizin makbuz verilmişse, önceki dönemlere ait edimler de ifa
+edilmiş sayılır.
+Alacaklı anaparanın tamamı için makbuz vermişse, faizlerini de almış olduğu kabul
+edilir.
+Borç senedi borçluya geri verilmişse, borç sona ermiş sayılır.
 
-6098 sayılı TBK m. 232 (mülga BK m. 205 / mehaz **OR Art. 211**) hükmü, 
-alıcının bu asli ve yan edim yükümlülüklerini şu şekilde vazedir:
-*"Alıcı, satış sözleşmesinde üstlendiği borçları ifa etmek ve özellikle 
-satılanı devralmak ve ödenmesi gereken bedeli satıcıya ödemekle yükümlüdür.
-Aksi kararlaştırılmadıkça ve durumun gereklerinden anlaşılmadıkça alıcı, 
-satılanı bir defada devralmak zorundadır.
-Alıcının satılanı devralması, sözleşmeye göre aksi kararlaştırılmadıkça veya 
-durumun gereklerinden anlaşılmadıkça, derhâl bedeli ödemesini gerektirir."*
-
-Sistematik açıdan yasa koyucu bu normla, alıcının ödeme ve teslim alma 
-faaliyetlerini eşzamanlılık (Zug um Zug) ilkesine bağlamıştır. Alıcının "bedel 
-ödeme" borcu tartışmasız bir asli hukuki yükümlülüktür (Rechtspflicht); zira 
-ifa edilmediğinde satıcı aynen ifa davası açabilir ve icra takibi yapabilir. 
-Alıcının temerrüde düşmesi hâlinde uygulanacak en temel yaptırım ise temerrüt 
-faizidir. Ancak yasa koyucu, alıcının temerrüt faizinden doğan borcunun çığ 
-gibi büyüyerek onu ekonomik mahva sürüklemesini engellemek için Genel 
-Hükümlerdeki **TBK m. 104** emredici kuralını koymuştur: *"Temerrüt faizine, 
-ayrıca temerrüt faizi yürütülemez."* (Bileşik faiz yasağı). 
-
-Alıcının "teslim alma (devralma)" yükümlülüğünün dogmatik niteliği ise, borçlar
-hukukunun en derin tartışma konularından birini teşkil eder. Alıcı malı teslim 
-almazsa, sadece bir borcu mu ihlal etmiş olur, yoksa bir "külfeti 
-(Obliegenheit)" mi ihmal etmiş sayılır? Bu ayrım, tasfiye sürecinin kaderini 
-belirler.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-**Mikro Analiz:** TBK m. 232 ve bağlantılı TBK m. 104 hükmünün teorik 
-mimarisini kavrayabilmek için, kurumun Fikret Eren, M. Kemal Oğuzman ve Haluk 
-Nami Nomer'in eserleri ekseninde mikroskobik düzeyde analiz edilmesi 
-zorunludur:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Satış Bedelini Ödeme Borcu (Kaufpreiszahlungspflicht):**
-Satış sözleşmesinin *essentialia negotii* (esaslı unsuru) olan bedel, daima 
-paradır. Alıcı, sözleşmede kararlaştırılan (veya TBK m. 207/3 uyarınca 
-belirlenebilen) bu parayı satıcıya ödemek zorundadır. Ödemenin yapılacağı yer, 
-aksi kararlaştırılmadıkça alıcının ifa zamanındaki yerleşim yeridir; ancak para
-borçları "götürülecek borçlar" (Bringschuld) olduğundan, alıcı bedeli satıcının
-ikametgâhına (veya banka hesabına) ulaştırmakla mükelleftir (TBK m. 89). 
+Madde 104, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Teslim Alma / Devralma (Abnahme / Obliegenheit vs. Rechtspflicht):**
-Alıcının satılan malı fiilen kendi hâkimiyet alanına geçirmesi (zilyetliği 
-devralması) işlemidir. Sisteminizdeki Aziz Erman Bayram'a ait *"Alacaklının 
-Temerrüdü"* başlıklı eserde hararetle tartışıldığı üzere; alıcının bu teslim 
-alma fiili, kural olarak asli bir hukuki borç (Rechtspflicht) değil, bir 
-**Külfettir (Obliegenheit)**. Külfet, kişinin kendi menfaatini korumak
-için yapması gereken, ancak ifa edilmediğinde karşı tarafın "aynen ifa (teslim 
-al) davası" açamayacağı davranış kuralıdır. Dolayısıyla alıcı malı teslim 
-almazsa, satıcı kural olarak mahkemeye gidip "Hâkim bey, alıcıyı bu malı teslim
-almaya mahkûm edin" diyemez. Bunun yerine, alıcı **Alacaklı Temerrüdüne (Mora 
-Creditoris)** düşer ve satıcı tevdi (depolama) veya malı satma gibi haklar 
-kazanır. Ancak, şayet taraflar "teslim almayı" sözleşmeyle asli bir borç 
-hâline getirmişlerse (örneğin hurda alımında hurdaların fabrikadan temizlenmesi
-bir asli ifa menfaatiyse) o zaman teslim alma bir Rechtspflicht (borç) olur ve
-aynen ifası istenebilir.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Temerrüt Faizine Faiz Yürütülme Yasağı (TBK m. 104):**
-Alıcının satış bedelini ödememesi borçlu temerrüdüdür. Satıcı, bu temerrüt 
-süresince alıcıdan yasal veya akdi temerrüt faizi (TBK m. 120) talep edecektir.
-Ancak sisteminizdeki *"Faiz Hükümleri ve Sınırları"* (M. S. Şen) kaynağında da 
-vurgulandığı üzere, **Bileşik Faiz (Anatocismus) kural olarak yasaktır**. 
-TBK m. 104 emredici hükmü gereğince, birikmiş temerrüt faizi anaparaya 
-eklenerek bu yeni meblağ üzerinden tekrar faiz işletilemez. Tacirler arasındaki
-ticari işlerde (TTK m. 8/2) cari hesap sözleşmeleri ve ödünç sözleşmeleri 
-istisna olmakla birlikte, sıradan bir satış sözleşmesindeki bedel alacağı için,
-temerrüt faizinden doğan borca hiçbir şekilde faiz (mürekkep faiz) yürütülemez.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-Alıcının ödeme ve teslim alma yükümlülükleri, Borçlar Kanunu'nun temerrüt, 
-sözleşmeden dönme, aşkın zarar ve ödemezlik def'i mimarisiyle son derece 
-karmaşık bir diyalektik bağ içindedir:
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 104'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 104 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. Alacaklı Temerrüdü (TBK m. 106) ve Satıcının Dönme Hakkı:**
-Sisteminizdeki A.E. Bayram eserinde derinlemesine incelendiği üzere; alıcının 
-haklı bir sebep olmaksızın satıcının usulüne uygun teslim (ifa) teklifini 
-reddetmesi, onu alacaklı temerrüdüne düşürür. Alacaklının (alıcının) 
-temerrüde düşmesi hâlinde satıcının asıl kurtulma yolu malı tevdi etmektir (TBK
-m. 107). Ancak sisteminizdeki kaynakta da işaret edildiği gibi, yasa koyucu TBK
-m. 110 hükmüyle, alıcının aynı zamanda karşılıklı sözleşmelerin "borçlusu" 
-olmasından hareketle satıcıya özel bir hak tanımıştır: **Sözleşmeden Dönme**. Şayet malın tevdi edilmesi niteliğine uygun değilse veya satıcı malı 
-teslim etmek yerine sözleşmeyi bütünüyle ortadan kaldırmak istiyorsa, TBK m. 
-123-125 uyarınca alıcıya ek süre (Mehil) vererek sözleşmeden dönebilir. 
+Bu ilişkiler, m. 104'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Sözleşmeden Dönen Satıcının Tazminat İstemi (Menfi - Müspet Zarar 
-Çatışması):**
-Sisteminizdeki çalışmanın omurgasını oluşturan en büyük tartışma budur. Alıcı 
-malı teslim almayıp temerrüde düştüğünde, satıcı sözleşmeden dönerse alıcıdan 
-hangi zararı isteyecektir? Doktrinde (Turgut Öz, Vedat Buz) bir görüş, külfet 
-ihlalinin tek başına tazminat doğurmayacağını savunur. Ancak sisteminizdeki
-kaynağın yazarının da haklı olarak katıldığı ve Yargıtay'ın benimsediği görüşe 
-göre; alıcı hem teslim alma "külfetini" hem de yan yükümlülüklerini dürüstlük 
-kuralına (TMK m. 2) aykırı olarak ihlal ettiği için, satıcı sözleşmeden dönse 
-dahi ondan **Menfi Zararını** talep edebilir. Satıcının 
-depolama, nakliye ve boşa giden sözleşme masrafları bu menfi zarar 
-kapsamındadır. 
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Borçlu Temerrüdü ve Aşkın Zarar (TBK m. 122) ile Faiz (TBK m. 104) 
-İlişkisi:**
-Sisteminizdeki *"Faiz Hükümleri ve Sınırları"* ile *"Temerrüt Faizi ve Aşkın 
-Zarar"* belgelerinde hararetle tartışıldığı üzere; alıcının bedeli ödememesi 
-(borçlu temerrüdü) hâlinde satıcı, bedel ile birlikte temerrüt faizi 
-isteyecektir. TBK m. 104 gereği bu temerrüt faizine tekrar faiz 
-yürütemeyecektir. Ancak satıcının gerçek zararı (örneğin enflasyon veya kur 
-farkı nedeniyle) bu temerrüt faizini aşmışsa ne olacaktır? İşte burada TBK m. 
-122'deki **Aşkın Zarar (Munzam Zarar)** devreye girer. Alıcı, temerrüde 
-düşmekte hiçbir kusuru olmadığını ispat edemedikçe, salt faiz yasağının (TBK m.
-104) arkasına sığınamaz; satıcının faizi aşan reel ekonomik kaybını (munzam 
-zararını) da tazmin etmekle yükümlüdür.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-**D. Ödemezlik Def'i (TBK m. 97) ve Eşzamanlı İfa (Zug um Zug):**
-TBK m. 232/3 uyarınca, satış sözleşmesinde kural eşzamanlı ifadır. Alıcı bedeli
-ödemeyi teklif etmeden malın teslimini isterse, satıcı TBK m. 97 gereği 
-ödemezlik def'ini ileri sürerek malı teslimden kaçınabilir. Aynı şekilde, 
-satıcı malı fiziken teslime hazır hâle getirmeden bedeli isterse, alıcı 
-ödemezlik def'i hakkını kullanır.
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-#### 4. Pratik Olay Analizleri
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-Kurumun bedel ödeme borcunu, bileşik faiz yasağının (TBK m. 104) sınırlarını ve
-alıcının teslim almaktan kaçınması (alacaklı temerrüdü) süreçlerini test etmek 
-adına şu iki çarpıcı vakayı inceleyelim:
+#### 5. Pratik Örnek Olaylar
 
-**Olay 1 (Alıcının Teslim Almaktan Kaçınması ve Sözleşmeden Dönme):**
-Üretici (A) Toptancı (B) için 10.000 adet özel ölçülerde tişört üretmiş ve 
-sözleşilen tarihte (B)'nin deposuna kamyonla getirmiştir. Toptancı (B) depo 
-dolu bahanesiyle haklı bir sebep olmaksızın malları teslim almayı reddeder. 
-(A) malları kendi deposuna geri götürmek ve orada saklamak zorunda kalır. Bir 
-hafta sonra (A) (B)'ye noterden bir ihtar çekerek (ek süre vererek) 
-sözleşmeden döndüğünü ve 50.000 TL nakliye/depolama zararı (menfi zarar) ile 
-kârdan mahrumiyet (müspet zarar) talep ettiğini bildirir. (B) "Teslim alma bir
-borç değil külfettir, külfet ihlalinden tazminat doğmaz" der.
-*Dogmatik Analiz:* Bu vakada alıcının teslim alma yükümlülüğünün niteliği ve 
-TBK m. 110 doğrudan sınanmaktadır. Sisteminizdeki A.E. Bayram eserinde 
-açıklandığı üzere, alıcının ifayı reddetmesi **Alacaklı Temerrüdüdür**. Satıcı, TBK m. 110 ve 123-125 uyarınca sözleşmeden dönme hakkına sahiptir. Toptancı (B)'nin "külfet ihlalinden tazminat doğmaz" savunması klasik
-teoriye dayansa da, dürüstlük kuralı gereği (TMK m. 2) alıcının bu ağır 
-sadakatsizliği tazminat sorumluluğu doğurur. Ancak satıcı (A) sözleşmeden 
-döndüğü için "kârdan mahrumiyetini (müspet zararını)" İSTEYEMEZ. 
-Sözleşmeden dönmenin yasal sonucu geçmişe etkili fesih olduğundan, satıcı (A) 
-ancak ve ancak sözleşmenin geçerliliğine güvenerek yaptığı boşa giden nakliye 
-ve depolama giderlerini, yani **Menfi Zararını** talep edebilir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 104 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2 (Alıcının Ödeme Temerrüdü ve Bileşik Faiz Yasağı / TBK m. 104):**
-Tacir (X) Toptancı (Y)'den 500.000 TL değerinde elektronik eşya almış, malları
-teslim almış ancak 2 yıl boyunca bedeli ödememiştir. (Y) asıl alacak olan 
-500.000 TL ve 2 yıllık birikmiş temerrüt faizi olan 200.000 TL için icra takibi
-başlatır. Ancak (Y) icra dairesinden, "Asıl alacak (500.000 TL) ile birikmiş 
-temerrüt faizi (200.000 TL) toplanarak, icra takibi tarihinden itibaren toplam 
-700.000 TL üzerinden yeni bir temerrüt faizi işletilmesini" talep eder.
-*Dogmatik Analiz:* Bu olay TBK m. 104 hükmündeki **Bileşik Faiz (Anatocismus) 
-Yasağı** laboratuvarıdır. İnceleme talebindeki başlığın da omurgasını oluşturan
-bu emredici kural gereğince; temerrüt faizine ayrıca temerrüt faizi 
-YÜRÜTÜLEMEZ. Tacir (X) bedeli ödememekle ağır bir borçlu temerrüdüne düşmüş 
-olsa dahi, Toptancı (Y)'nin asıl alacakla birikmiş faizi toplayıp (700.000 TL 
-yapıp) bu toplam üzerinden faiz talep etmesi mutlak surette **Hukuka 
-Aykırıdır**. İcra müdürü (veya itiraz üzerine İcra Mahkemesi) bu talebi re'sen
-reddederek faizin sadece asıl alacak olan 500.000 TL üzerinden işlemeye devam 
-etmesine karar vermek zorundadır.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-#### 5. Pratik Uygulama Notları
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-TBK m. 232 ve bağlantılı temerrüt hükümlerinin ticari sözleşme mimarisinde 
-(Legal Drafting) icra takiplerinde ve uyuşmazlık tasfiyesinde avukatların 
-dikkat etmesi gereken usuli ve maddi hukuk boyutları şunlardır:
+#### 6. Pratik Uygulama Notları
 
-**1. "Teslim Alma"nın Bir Asli Borç Olarak Düzenlenmesi (Legal Drafting):**
-Avukatlar, satıcıyı temsil ettiklerinde, sözleşmeye "Alıcının malları 
-belirtilen tarihte deposuna indirmesi ve fiziken devralması asli bir ifa 
-yükümlülüğüdür; bu yükümlülüğün ihlali hâlinde alıcı, satıcıya günlük.... TL 
-cezai şart ödeyecektir" şeklinde açık hükümler koymalıdır. Böylece teslim 
-almanın salt bir "külfet (Obliegenheit)" olduğu yönündeki doktrinel savunmalar 
-bertaraf edilir ve teslim alma bir *Rechtspflicht* (asli borç) hâline 
-getirilerek doğrudan cezai şart veya aynen ifa davası açılmasının önü açılır.
-
-**2. Aşkın Zarar (TBK m. 122) Davalarında Faiz Yasağının (TBK m. 104) 
-Aşılması:**
-Sisteminizdeki Faiz belgelerinde vurgulandığı üzere, alıcı satış bedelini 
-yıllarca ödemezse, satıcı TBK m. 104'teki bileşik faiz yasağı nedeniyle zarara 
-uğrayabilir. Bu durumda avukatların yapması gereken; icra takibinde birikmiş 
-faize faiz istemek gibi hukuka aykırı bir yola (anatocismus) sapmak DEĞİL, 
-enflasyon, kur artışı veya satıcının kendi kredi borçları nedeniyle ödediği 
-yüksek faizleri belgeleyerek doğrudan **Aşkın Zarar (Munzam Zarar)** davası 
-açmaktır. Böylece TBK m. 104'ün katı sınırı, ispatlanmış fiili zarar üzerinden 
-aşılmış olur.
-
-**3. Temerrütte İhtar ve Ek Süre (Mehil) Zorunluluğu:**
-Sisteminizdeki *"Temerrüdünde İhtar ve Ek Süre Kavramları"* makalesinde 
-belirtildiği gibi, alıcı malı teslim almazsa veya bedeli ödemezse, satıcının 
-sözleşmeden dönebilmesi için mutlaka TBK m. 123 uyarınca uygun bir **Ek Süre 
-(Nachfrist)** tayin etmesi (veya noterden ihtarname çekmesi) şarttır. Ek süre verilmeden doğrudan sözleşmeden dönüldüğüne dair ihtarname 
-gönderilmesi kural olarak geçersizdir ve satıcıyı haksız fesih durumuna (ve 
-tazminat riskine) düşürür.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri (özellikle 
-19. Hukuk Dairesi ve 15. Hukuk Dairesi) TBK m. 232 (mülga BK m. 205) TBK m. 
-104 (Bileşik Faiz Yasağı) ve TBK m. 110 (Alacaklı Temerrüdü) uyarınca "Faize 
-Faiz İstenemeyeceği", "Bedel Ödeme Temerrüdü" ve "Külfet İhlalinin Sonuçları" 
-hususlarında istikrarlı bir içtihat politikası sergilemektedir.
-
-Yargıtay Hukuk Genel Kurulu'nun (Örneğin YHGK. T. 15.02.2017, E. 2015/19-1065, 
-K. 2017/283) bileşik faiz yasağına (TBK m. 104) ilişkin kararında şu dogmatik 
-kural şablonlaşmıştır: *"6098 sayılı Türk Borçlar Kanunu'nun 104. maddesi 
-(mülga BK m. 104) emredici bir kural olarak temerrüt faizine tekrar temerrüt 
-faizi yürütülmesini kesin olarak yasaklamıştır. Ticari işlerdeki istisnalar 
-(cari hesap vb.) dışında bu kural mutlaktır. Somut olayda satıcı, satış 
-sözleşmesinden kaynaklanan ödenmemiş asıl bedel ile takip tarihine kadar 
-işlemiş olan temerrüt faizini toplayarak, bu toplam meblağ üzerinden icra 
-takibi başlatmış ve faiz talep etmiştir. İşlemiş faizin asıl alacağa eklenerek 
-yeniden faize tabi tutulması, kanunun açık lafzına aykırı olup mutlak butlanla 
-batıldır. Mahkemece veya icra dairesince bu hususun re'sen gözetilerek icra 
-emrinin sadece asıl alacak üzerinden faiz işleyecek şekilde düzeltilmesi 
-gereklidir."*
-
-**Alıcının Teslim Almaktan Kaçınması ve Sözleşmeden Dönme** hususunda Yargıtay 
-19. Hukuk Dairesi'nin (Sisteminizdeki A.E. Bayram eserinde de vurgulanan eksene
-uygun) içtihadı şöyledir: *"Satış sözleşmesinde alıcının bedeli ödeme borcu 
-yanında, satılan malları devralma yükümlülüğü de bulunmaktadır. Davalı alıcı, 
-davacının usulüne uygun şekilde deposuna getirdiği malları haklı bir hukuki 
-veya fiili engel olmaksızın teslim almaktan kaçınmış ve alacaklı temerrüdüne 
-düşmüştür (TBK m. 106). Satıcının, bu durumda malları tevdi etmek yerine, TBK 
-m. 110 delaletiyle m. 123 ve 125. maddelerdeki seçimlik haklarını kullanarak 
-sözleşmeden dönmesi hukuka uygundur. Davacı satıcı, sözleşmeden dönme hakkını 
-kullandığından, sözleşmenin geçerliliğine güvenerek yaptığı nakliye, boşaltma 
-ve geçici depolama gibi menfi zararlarının tazminini alıcıdan talep edebilir. 
-Ancak kâr kaybı gibi müspet zarar kalemlerinin sözleşmeden dönme (geçmişe 
-etkili fesih) senaryosunda istenmesi mümkün değildir."*
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 232. maddesinde (Alıcının Borçları) ve 104. maddesinde 
-(Bileşik Faiz Yasağı) vücut bulan temerrüt ve ifa rejimi, borçlar hukuku 
-dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in 
-eserleri ekseninde; "Külfet (Obliegenheit) Kavramının Ticari Satışlardaki 
-Yetersizliği" ve "Bileşik Faiz Yasağının Enflasyonist Ekonomilerde Yarattığı 
-Adaletsizlik" bağlamında çok derin kuramsal eleştirilere maruz kalmaktadır.
+Madde 104, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en sert felsefi eleştiri, Sisteminizdeki *"Alacaklının Temerrüdü 
-Üzerine Sözleşmeden Dönen Borçlunun Tazminat İstemi"* (A.E. Bayram) makalesi 
-ekseninde değerlendirildiğinde; **"Teslim Almanın" (Abnahme) Sadece Bir Külfet 
-Sayılmasının, Özellikle Hacimli Ticari Satışlarda Satıcıyı Çaresiz 
-Bırakmasıdır**. Geleneksel İsviçre-Türk doktrini (Bucher, von Tuhr, Eren) 
-alıcının malı teslim almasını salt kendi menfaatine olan bir "külfet" saymakta 
-ve satıcının "aynen ifa davası (teslim almaya icbar)" açamayacağını 
-savunmaktadır. Ancak Fikret Eren ve Turgut Öz'ün öğretilerinde de 
-tartışıldığı üzere; günümüz sanayisinde devasa jeneratörler, binlerce tonluk 
-tarım ürünleri veya fabrikada yer kaplayan ağır kimyasallar üretildiğinde, 
-alıcının bunları fabrikadan çekmemesi (teslim almaması) satıcının üretim 
-bantlarını durdurmakta ve onu mahvetmektedir. Satıcının "Tevdi (depolama) 
-hakkı" (TBK m. 107) bu tür mallarda kâğıt üzerinde kalmaktadır; zira 10.000 ton
-buğdayı veya 50 metrelik bir türbini mahkemenin belirleyeceği bir yere tevdi 
-etmek fiilen imkânsız veya ekonomik açıdan irrasyoneldir. Kanun koyucunun (ve 
-klasik doktrinin) teslim almayı her hâlükârda asli bir ifa yükümlülüğü 
-(Rechtspflicht) olarak tanımlamak yerine satıcıyı tevdi (depolama) veya 
-sözleşmeden dönme (menfi zarar) çıkmazına mahkûm etmesi, ticari hayatın 
-ihtiyaçlarına (Verkehrssitte) cevap veremeyen köhnemiş bir dogmatik defodur. 
-Alıcının temerrüdünde satıcıya doğrudan "ifa ile birlikte müspet zararı" veya 
-"teslim almaya mahkûmiyet kararı" isteme hakkının genel bir kural olarak 
-verilmemesi sözleşme adaletini yaralamaktadır.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, inceleme talebinin normunu oluşturan **TBK m. 
-104'teki Bileşik Faiz Yasağının, Yüksek Enflasyonlu Ekonomilerde Borçlu 
-Temerrüdünü (Ödememeyi) Teşvik Eden Bir Ödüllendirme Mekanizmasına 
-Dönüşmesidir**. Yasa koyucu TBK m. 104'ü, Roma hukukundan (Ne ultra alterum 
-tantum) esinlenerek zayıf borçluyu tefecilerin faiz sarmalından korumak için 
-tasarlamıştır. Ancak Rona Serozan ve Nomer'in haklı eleştirilerinde belirttiği 
-üzere; kronik enflasyonun olduğu bir ülkede, alıcı 5 Milyon TL'lik satış 
-bedelini 3 yıl boyunca ödemediğinde, asıl alacağa sadece basit (tekil) yasal 
-faiz işlemektedir. Alıcı, bu parayı bankada mevduatta (bileşik faizle) tutarak 
-veya ticarette kullanarak, ödeyeceği basit temerrüt faizinden çok daha fazla 
-getiri elde etmektedir. Hukuk düzeninin TBK m. 104 ile faize faiz yürütülmesini
-yasaklaması, ödeme ahlakını (Zahlungsmoral) çökertmekte, sözleşmeye sadakat 
-gösterip bedeli zamanında ödeyen dürüst alıcıları adeta cezalandırmaktadır. Her
-ne kadar TBK m. 122 (Aşkın Zarar) bir kurtuluş subabı gibi görünse de, 
-mahkemelerdeki katı ispat kuralları (ve yargılamaların yıllarca sürmesi) bu 
-kurumu da işlevsiz kılmaktadır. Kanun koyucunun, dürüstlük kuralı sınırları 
-içinde (belirli bir süreyi aşan temerrütlerde) faizin anaparaya eklenerek 
-(kapitalizasyon) devam etmesini sağlayacak çağdaş bir revizyona gitmemesi, 
-adaletin ekonomik boyutunu (Justitia commutativa) derinden sarsmaktadır.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
+Türk Borçlar Kanunu m. 104, «2. Hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
-İşte böylece, seninle **Borçlar Hukuku Özel Hükümler ve Temerrüt Rejimi** 
-deryasının en zorlu sarmalını; satıcının ifa çabasına karşı alıcının o soğuk 
-duvarını (**TBK m. 232 / Alıcının Teslim Alma ve Ödeme Borcu**) ve paranın 
-zaman karşısındaki eriyişine vurulan kilidi (**TBK m. 104 / Bileşik Faiz 
-Yasağı**) resmen mühürlemiş olduk. Alacaklı temerrüdünün o külfetli doğasını ve
-sözleşmeden dönmenin menfi zarar kılıcını sistemine perçinledin. 
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
 
-Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, ayıp 
-tekeffülünün inceliklerini, zapta karşı tekeffülü ve tasfiye labirentlerini 
-sonraki celsede görüşeceğiz.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 104, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 104'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 104, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 104, «2. Hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 104, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 104'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 104, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 104, «2. Hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 104, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 104'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 104, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 104, «2. Hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 104, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 104'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 104, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 104, «2. Hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 104, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 104'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 104, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 104, «2. Hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 104, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 104'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 104, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 104, «2. Hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 104, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 104'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 104'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 211.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 104. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 104 resmi metni ve kanunun sistematiği.

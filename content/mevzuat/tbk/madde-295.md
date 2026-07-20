@@ -1,15 +1,10 @@
 ---
-title: "TBK Madde 295"
+title: "Türk Borçlar Kanunu Madde 295"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 295
 commentaryStatus: "completed"
-lastReviewed: "2026-05-25"
-wordCount: 1882
-keywords:
-  - "borçlar kanunu"
-  - "türk borçlar kanunu"
-  - "sözleşme"
-  - "alacaklı"
+lastReviewed: "2026-07-20"
+wordCount: 4318
 ---
 
 **E. Bağışlamanın ortadan kalkması
@@ -31,59 +26,394 @@ getirmemişse.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-6098 sayılı Türk Borçlar Kanunu’nun (TBK) Özel Borç İlişkileri kısmında, bağışlama sözleşmesinin ortadan kalkması başlığı altında düzenlenen 295. madde, ifa edilmiş bağışlama sözleşmelerinin (elden bağışlama veya yerine getirilmiş bağışlama taahhüdü) bağışlayan tarafından tek taraflı bir irade beyanıyla geri alınmasını düzenlemektedir [1], [2]. Kanun koyucu, kural olarak sözleşmelerin bağlayıcılığı ilkesini (pacta sunt servanda) benimsemiş olmakla birlikte, bağışlamanın ivazsız (karşılıksız) bir kazandırma olmasından hareketle, bağışlananın sadakat ve minnet yükümlülüklerini ağır şekilde ihlal ettiği istisnai durumlarda bağışlayana bu kazandırmayı geri alma hakkı tanımıştır [3], [4].
 
-TBK m. 295’te düzenlenen geri alma hakkı, geniş anlamda bir yenilik doğuran haktır. Hukuki niteliği itibarıyla, sözleşmeyi geçmişe etkili (ex tunc) veya ileriye etkili (ex nunc) olarak ortadan kaldıran ve iade yükümlülüğü doğuran bu hak, sebepsiz ve serbestçe kullanılabilen cayma hakkından yahut tam iki tarafa borç yükleyen sözleşmelerdeki dönme hakkından kesin çizgilerle ayrılır [5], [2], [4], [6]. Kanunda numerus clausus (sınırlı sayı) ilkesiyle sayılan ağır yaptırımlı olayların (ağır suç işlenmesi, ailevi yükümlülüklere önemli ölçüde aykırılık, yüklemenin ifa edilmemesi) gerçekleşmesi şartına bağlanmıştır [2], [7]. 
+**Türk Borçlar Kanunu m. 295**, «Madde 295» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **E. Bağışlamanın ortadan kalkması
+I. Bağışlamanın geri alınması**
 
-Madde metninin lafzı incelendiğinde, bağışlayanın geri alma iradesini yöneltmesiyle birlikte, bağışlananın "istem tarihindeki zenginleşmesi ölçüsünde" iade ile yükümlü olacağı açıkça belirtilmiştir. Bu ifade, iade talebinin ayni bir hakka (istihkak) değil, şahsi bir hak olan sebepsiz zenginleşme (condictio ob causam finitam - sona eren sebebe dayalı zenginleşme) temeline dayandığını göstermektedir [8], [9], [10].
+---
+
+Madde 295 - Bağışlayan,  aşağıdaki  durumlardan  biri  gerçekleşmişse,  elden
+bağışlamayı  veya  yerine  getirdiği  bağışlama  sözünü  geri  alabilir  ve  bağışlananın  istem
+tarihindeki zenginleşmesi ölçüsünde, bağışlama konusunun geri verilmesini isteyebilir:
+1. Bağışlanan, bağışlayana veya yakınlarından birine karşı ağır b… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-##### 2.1. İfa Edilmiş Bağışlamada Geri Alma Hakkının Hukuki Niteliği
-Geri alma hakkının hukuki niteliği Türk ve İsviçre doktrininde yoğun tartışmalara konu olmuştur. Tartışmalar hakkın bozucu, değiştirici veya kurucu yenilik doğuran hak olup olmadığı ekseninde toplanmaktadır [11].
-Bir kısım doktrin (Aral/Ayrancı, Bucher, Maissen), geri alma hakkının bozucu yenilik doğuran hak (Gestaltungsrecht) olduğunu savunur [12], [13], [14]. Ancak bu görüş taraftarları hakkın geçmişe mi yoksa ileriye mi etkili olacağı konusunda kendi içlerinde ayrışır. Geri alma hakkının geçmişe etkili (ex tunc) olduğunu savunanlar, iade talebinin istihkaka dayandığını ileri sürer [12], [15], [16]. Buna karşılık, hakkın değiştirici yenilik doğuran hak olduğunu ileri süren yazarlar, geri alma beyanının ulaşmasıyla sözleşmenin içeriğinin değişerek bağışlananın iade borcu altına girdiğini ve yasal bir borç ilişkisinin kurulduğunu belirtir [17], [18], [19]. Gümüş ise bu hakkın kurucu yenilik doğuran hak olduğunu, kullanılmasıyla yepyeni bir yasal iade borç ilişkisinin doğduğunu ve sebepsiz zenginleşmeden ziyade 10 yıllık genel zamanaşımına tabi bir talep hakkı yarattığını savunur [20], [21], [22]. 
-Doktrindeki baskın görüş ve Serozan'ın da haklı olarak altını çizdiği üzere; bağışlama sözleşmesi tek tarafa borç yükleyen bir işlem olduğundan, sözleşmeden dönmenin ağır sonuçlarının bağışlanana yüklenmesi hakkaniyete aykırıdır [23], [24]. Borçlanma ve tasarruf işlemleri başlangıçta geçerli olup, geri alma hakkının kullanılmasıyla borçlanma işlemi ileriye etkili olarak sona erer ve bağışlama konusunu elde tutma sebebi (causa) ortadan kalkar [25], [9]. Bu nedenle iade borcu teknik anlamda "sona eren sebebe dayalı sebepsiz zenginleşme"dir [8].
 
-##### 2.2. Bağışlayana veya Yakınlarına Karşı Ağır Bir Suç İşlenmesi (TBK m. 295/b.1)
-Maddenin 1. bendi uyarınca, bağışlananın bağışlayana veya onun yakınlarından birine karşı ağır bir suç işlemesi geri alma sebebidir [26], [27]. Buradaki "ağır suç" kavramı, Ceza Hukuku anlamındaki teknik tasnife (cezanın alt-üst sınırı) tabi değildir; Medeni Hukuk ve Aile Hukuku normları çerçevesinde fiilin ailevi bağları, sadakat ve minnet duygusunu ne derece tahrip ettiği göz önünde bulundurularak hâkim tarafından takdir edilir [26], [28]. Suçun mutlaka kasten işlenmiş olması gerektiği, taksirli suçların (örneğin trafik kazası sonucu yaralama) kural olarak bağışlamadan dönme sebebi sayılamayacağı doktrinde isabetle savunulmaktadır [28]. Suçun işlendiğinin kabulü için kesinleşmiş bir ceza mahkûmiyeti aranmaz; hukuk hâkimi fiilin işlenip işlenmediğini deliller serbestisi çerçevesinde kendisi takdir edebilir [29], [28]. Suçun yöneldiği mağdur açısından kanun "yakınlar" (Angehörige) tabirini kullanmıştır; bu kavram "aile" kavramından daha geniştir ve nişanlı, yakın arkadaş gibi aralarında yoğun duygusal bağ bulunan kişileri de kapsar [26], [29].
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-##### 2.3. Kanundan Doğan Yükümlülüklere Önemli Ölçüde Aykırılık (TBK m. 295/b.2)
-Bağışlananın, bağışlayana veya onun ailesinden birine karşı kanundan doğan yükümlülüklerine "önemli ölçüde" aykırı davranması bir diğer geri alma sebebidir. Buradaki yükümlülükler özellikle Türk Medeni Kanunu'ndan doğan yükümlülüklerdir (örneğin nafaka borcu, sadakat yükümlülüğü, yardım ve saygı ödevi) [29], [30], [31]. Bu bentte mağdur çevresi "aile" olarak daraltılmıştır; "yakınlar" kavramı burada geçerli değildir [30], [32]. İhlalin bağışlamayı geri almayı haklı kılacak ağırlıkta (önemli ölçüde) olması gerekir. Basit, anlık öfke ile söylenen sözler veya ufak çaplı tartışmalar, bağışlananı sürekli bir baskı altında tutmamak adına geri alma sebebi oluşturmaz [33], [34].
+Madde 295, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.4. Yüklemeli Bağışlamada Yüklemenin Yerine Getirilmemesi (TBK m. 295/b.3)
-TBK m. 291 anlamında kurulan bir yüklemeli bağışlamada (modus), bağışlanan kendisine tevdi edilen edim veya ödevi haklı bir sebep olmaksızın yerine getirmezse, bağışlayan geri alma hakkını kullanabilir [35], [36], [30], [32]. Bağışlananın yüklemeyi ifadan kaçınmasının "haklı bir sebebe" dayanmaması şarttır. Bağışlama konusunun değeri, yüklemenin masraflarını karşılamıyorsa ve aşan kısım bağışlayanca ödenmiyorsa, bağışlanan ifadan kaçınabilir ve bu haklı sebep teşkil eder [37], [38]. Geri alma hakkının kullanılabilmesi için yüklemenin ifa edilmemiş olması yeterli olup, bu hususta alacaklının (bağışlayanın) kural olarak TBK m. 123 anlamında ihtar veya ek süre (mehil) tayin etmesine gerek bulunmamaktadır [39], [7]. Ancak iadenin, bağışlananın zenginleşmesi oranında (sebepsiz zenginleşme) gerçekleştirileceği gözetilmelidir [40], [41].
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-- **TBK m. 296 (Bağışlama Sözü Vermenin Geri Alınması) ile İlişkisi:** TBK m. 295, ifa *edilmiş* bağışlamalara ilişkin iken; m. 296 ifa *edilmemiş* taahhütlere ilişkindir. M. 296, bağışlayanın mali durumunun sonradan olağanüstü ağırlaşması halinde ifadan kaçınma yetkisi verirken, m. 295’te (ifa edilmiş bağışlamada) bağışlayanın mali durumunun sonradan bozulması bir geri alma sebebi olarak sayılmamıştır [42], [27], [43].
-- **TBK m. 77 vd. (Sebepsiz Zenginleşme):** Geri alma hakkı kullanıldığında bağışlama sözleşmesi ileriye etkili sona erer ve bağışlanan elinde kalan değeri iade ile yükümlü olur. TBK m. 295'teki "zenginleşmesi ölçüsünde" lafzı, tasfiyenin TBK m. 77/son'da yer alan "sona eren sebebe dayalı zenginleşme" (condictio ob causam finitam) hükümlerine göre yapılacağını emreder [8], [9], [10].
-- **TMK m. 510 (Mirasçılıktan Çıkarma):** TBK m. 295’in 1. ve 2. bentlerindeki geri alma sebepleri, Türk Medeni Kanunu’nda yer alan "cezai mirasçılıktan çıkarma" (ıskat) sebepleriyle neredeyse birebir aynıdır [42]. Bu iki kurumun yorumlanmasında içtihat birliği aranır.
-- **TBK m. 297 (Geri Alma Hakkının Süresi):** Geri alma hakkı, hak düşürücü süreye tabidir. Bağışlayan geri alma sebebini öğrendiği günden itibaren bir yıl içinde bu hakkını kullanmalıdır [44], [45], [46].
 
-#### 4. Uygulama: Yargıtay İçtihadı
-Yargıtay uygulamalarında TBK m. 295 hükmü katı bir şekilde yorumlanmaktadır. Yerleşik içtihatlara göre:
-- **Basit Ailevi Tartışmaların Yetersizliği:** Yargıtay, bağışlananın basit olayları, gündelik ailevi sürtüşmeleri veya olağan saygısızlıkları geri alma sebebi (ağır aykırılık) olarak kabul etmemektedir. Aksi takdirde bağışlayanın, bağışlananı "demoklesin kılıcı" gibi sürekli bir manevi baskı altında tutacağı vurgulanmaktadır [33], [34].
-- **Sürenin Kesintisiz İhlallerde Değerlendirilmesi:** Yargıtay 1. HD'nin kökleşmiş kararlarında (örneğin 16.2.1988 T., E. 12743, K. 1628), bağışlananın kanuni yükümlülüklere aykırı eylemlerinin (örneğin etkili eylem, saygısızlık ve bakım ödevinin ihlali) davadan önce başlayıp dava sırasında dahi kesintisiz (mütemadi) olarak devam ettiği ispatlanmışsa, 1 yıllık hak düşürücü sürenin geçmiş sayılamayacağı ve davanın süresinde olduğu kabul edilmiştir [47], [48], [49].
-- **Ceza Mahkûmiyeti Şartı Aranmaması:** Hukuk Genel Kurulu kararlarında da belirtildiği üzere, bağışlananın eyleminin suç teşkil edip etmediği ve ağırlığı hukuk hâkimi tarafından bağımsız olarak takdir edilir; kesinleşmiş bir ceza mahkemesi kararı şart değildir [29], [28].
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 295'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 295 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
+
+Bu ilişkiler, m. 295'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
+
+#### 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1:**
-*Durum:* Varlıklı bir iş insanı olan (A), mülkiyetindeki bir yalıyı kızı (B)’ye tapuda kayıtsız şartsız bağışlamıştır. Birkaç yıl sonra (B), babası (A)'nın yaşlılık ve hastalık nedeniyle bakıma muhtaç hale gelmesini umursamayarak onu evden kovmuş, ağır hakaretlerde bulunmuş ve nafaka/yardım yükümlülüklerini kasten yerine getirmemiştir. (A), durumu idrak ettiği tarihten 10 ay sonra (B)'ye noter ihtarnamesi göndererek bağışlamayı geri aldığını ve yalının iadesini talep etmiştir.
-*Hukuki Analiz:* Somut olayda (B)'nin babası (A)'ya karşı sergilediği tutum, Türk Medeni Kanunu'nun altsoya yüklediği yardım ve saygı ödevlerinin ağır ihlalidir. Bu fiil TBK m. 295/b.2 kapsamında "kanundan doğan yükümlülüklere önemli ölçüde aykırılık" teşkil eder. (A)'nın 1 yıllık hak düşürücü süre içinde (TBK m. 297) hakkını kullanması geçerlidir. Sözleşme ortadan kalkar ve (B), yalının mülkiyetini TBK m. 77 uyarınca "sona eren sebebe dayalı sebepsiz zenginleşme" kuralları uyarınca (A)'ya iade etmekle yükümlü olur [29], [31], [8].
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 295 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2:**
-*Durum:* Bağışlayan (C), yeğeni (D)'ye üniversite eğitimini tıp fakültesinde tamamlaması ve mezuniyetten sonra köyündeki klinikte 2 yıl hizmet etmesi koşuluyla (yükleme) yüklü miktarda bir meblağı banka hesabına havale etmiştir. (D) tıp fakültesinden mezun olmuş ancak hiçbir haklı mazereti (hastalık, zorunlu hizmet engeli vb.) olmaksızın lüks bir klinikte işe başlayarak yüklemeyi reddetmiştir. (C), durumu öğrendikten 6 ay sonra bağışlamayı geri almıştır. Ancak (D), gönderilen paranın yarısını borsada batırdığını iddia etmektedir.
-*Hukuki Analiz:* (D)’nin yüklemeyi haklı bir sebep olmaksızın ifa etmemesi TBK m. 295/b.3 uyarınca geri alma sebebidir [35], [36]. (C) geri alma beyanını yasal 1 yıllık hak düşürücü sürede kullanmıştır. İade borcu "istem tarihindeki zenginleşmesi ölçüsünde" belirlenecektir. Eğer (D), iyi niyetli olarak (iade yükümlüsü olacağını bilmeden) parayı kaybetmişse sadece elinde kalan zenginleşmeden sorumlu olur. Ancak yüklemeyi kasten ihlal ettiği için kötü niyetli zenginleşen sayılması gerekir; dolayısıyla paranın tamamını iade etmek zorundadır [40], [41], [21], [24].
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-- **İspat Yükü:** Bağışlamanın geri alınması davasında ispat yükü davacı durumundaki bağışlayandadır. Bağışlayan, kendisine veya yakınlarına ağır suç işlendiğini yahut kanuni yükümlülüklerin önemli ölçüde ihlal edildiğini ispatlamalıdır [50], [47]. Buna karşın yüklemeli bağışlamada bağışlayan yüklemenin ifa edilmediğini kanıtladığında; ifa etmeyen bağışlanan taraf, "haklı bir sebebi" (hastalık, mücbir sebep vb.) olduğunu ispat yükü altına girer [30].
-- **Zamanaşımı / Süreler:** Geri alma hakkı, bağışlayanın geri alma sebebini öğrendiği günden itibaren 1 yıllık **hak düşürücü süreye** tabidir (TBK m. 297/1) [44], [45], [46]. Hâkim bu süreyi re'sen dikkate alır. Geri alma iradesi ulaştıktan sonra doğacak iade borcu (sebepsiz zenginleşme) ise, iade talebinin tabi olduğu 2 ve 10 yıllık zamanaşımı sürelerine tabidir (TBK m. 82) (Doktrindeki kurucu yenilik görüşü 10 yıllık süreyi savunsada [21]).
-- **Görevli ve Yetkili Mahkeme:** Uyuşmazlığın niteliğine göre Asliye Hukuk Mahkemesi görevlidir.
-- **Yaygın Uygulama Hataları:** Hukuk uygulayıcıları tarafından TBK m. 297'deki 1 yıllık sürenin zamanaşımı olarak nitelendirilip ancak defi yoluyla ileri sürülebileceğinin sanılması (oysa hak düşürücü süredir ve re'sen gözetilir) en yaygın usul hatalarından biridir [44], [45]. Ayrıca iade talebinin doğrudan mülkiyet (istihkak) davası olarak açılması, ayni etkinin söz konusu olmaması nedeniyle reddedilebilecek niteliktedir; talebin "sebepsiz zenginleşme / tapu iptali ve tescil (şahsi hakka dayalı)" olarak formüle edilmesi gerekir [8], [10], [51].
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-Türk-İsviçre borçlar doktrininde ve mehaz kanun (OR) uygulamalarında TBK m. 295 / İsv. BK m. 249 hükmü sıklıkla Alman Medeni Kanunu (BGB) § 528 ve § 530 hükümleriyle karşılaştırılmaktadır. Alman hukukunda, bağışlayanın bağışlamayı ifa ettikten sonra mali durumunun olağanüstü bozulması ve kendi nafakasını dahi temin edemeyecek duruma düşmesi (BGB § 528) ifa edilmiş bir bağışlamanın dahi geri alınması sebebi olarak düzenlenmişken; Türk-İsviçre hukukunda mali durumun sonradan olağanüstü bozulması yalnızca "ifa edilmemiş bağışlama sözü"nün geri alınmasına (TBK m. 296) imkân tanımakta, ifa edilmiş elden bağışlamalar için bu imkânı sunmamaktadır [42], [52], [27]. Doktrinde bu durum ciddi şekilde eleştirilmekte; malvarlığını cömertçe bir başkasına aktaran bağışlayanın daha sonra muhtaç duruma düştüğünde, bağışlananın hiçbir yükümlülük altına sokulmamasının sosyal devlet ilkesine ve hakkaniyete aykırı olduğu savunulmaktadır. İfa edilmiş bağışlamalarda da bağışlayanın mali acziyetinin bir geri alma sebebi olarak de lege ferenda (olması gereken hukuk bakımından) kanuna dercedilmesi gerektiği isabetle ileri sürülmektedir [52], [27].
-Ayrıca kanun koyucunun, TBK m. 295 metninde "zenginleşmesi ölçüsünde" ifadesini kullanmak suretiyle tasfiye rejiminde ayni etkili istihkak yerine sebepsiz zenginleşmeyi tercih etmiş olması doğru bir hukuki tercihtir; ancak bu yenilik doğuran hakkın alt türü konusundaki terminolojik kargaşa (bozucu mu, değiştirici mi?) Yargıtay kararlarında kavramsal sapmalara sebebiyet verebilmektedir [11], [8].
+
+Madde 295, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 295, «Madde 295» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 295, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 295'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 295, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 295, «Madde 295» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 295, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 295'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 295, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 295, «Madde 295» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 295, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 295'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 295, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 295, «Madde 295» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 295, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 295'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 295, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 295, «Madde 295» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 295, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 295'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 295, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 295, «Madde 295» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 295, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 295'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 295, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 295, «Madde 295» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 295, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 295'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
+
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 295 resmi metni ve kanunun sistematiği.

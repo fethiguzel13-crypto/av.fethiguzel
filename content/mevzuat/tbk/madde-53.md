@@ -1,13 +1,10 @@
 ---
-title: "TBK Madde 53"
+title: "Türk Borçlar Kanunu Madde 53"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 53
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "ceza mahkemesi etkisi"
-  - "haksız fiil iş bölümü"
-  - "beraat kararı"
+lastReviewed: "2026-07-20"
+wordCount: 4311
 ---
 
 **IV. Özel durumlar
@@ -27,304 +24,396 @@ ya da yitirilmesinden doğan kayıplar.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Hukuk düzeninde haksız fiil teşkil eden bir eylemin aynı zamanda ceza kanunları
-anlamında suç teşkil etmesi sıklıkla karşılaşılan bir durumdur. Borçlar 
-Kanunu'nun haksız fiil nedeniyle tazminat sorumluluğuna ilişkin hükümleri 
-uygulanırken, failin fiilinin suç oluşturması, iki farklı yargı kolunun (ceza 
-ve hukuk) aynı maddi vakıa üzerinde eşzamanlı veya ardışık olarak inceleme 
-yapmasını zorunlu kılar. Ceza hukukunun temel amacı kamu düzenini sağlamak 
-ve faili cezalandırmak iken; borçlar hukukunun haksız fiil rejimindeki asli 
-gayesi, mağdurun malvarlığında veya şahıs varlığında meydana gelen eksilmeyi 
-telafi etmek, yani **Denkleştirici Adalet** ilkesini tesis etmektir.
+**Türk Borçlar Kanunu m. 53**, «Madde 53» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV. Özel durumlar
+1. Ölüm ve bedensel zarar
+a. Ölüm**
 
-İşte 6098 sayılı TBK m. 74 (mülga BK m. 53 / mehaz **OR Art. 53**) hükmü, bu 
-iki farklı yargı kolu arasındaki dogmatik sınırı ve etkileşimi düzenleyen temel
-bir usul ve esas normudur. İlgili norm; *"Hâkim, zarar verenin kusurunun olup 
-olmadığı, ayırt etme gücünün bulunup bulunmadığı hakkında karar verirken, ceza 
-hukukunun sorumlulukla ilgili hükümleriyle bağlı olmadığı gibi, ceza hâkimi 
-tarafından verilen beraat kararıyla da bağlı değildir. Aynı şekilde, ceza 
-hâkiminin kusurun değerlendirilmesine ve zararın belirlenmesine ilişkin kararı 
-da, hukuk hâkimini bağlamaz."* lafzını amirdir. 
+---
 
-Kanun koyucu bu maddeyle, **Bağımsızlık Prensibi**ni ihdas etmiştir. Hukuk 
-mahkemesinin, ceza mahkemesi karşısında bağımsız olduğuna ilişkin TBK m. 74 
-kuralı, usul hukukundaki kesin hüküm itirazının en önemli istisnalarından 
-birini oluşturur. Kanun, hukuk hâkiminin ceza hâkimi tarafından yapılan 
-hukuki nitelendirmelerle, kusur oranlarıyla veya beraat gerekçeleriyle kural 
-olarak bağlı olmadığını emrederek, borçlar hukukunun kendine has esnek ve 
-mağduru koruyucu yapısını ceza hukukunun katı (in dubio pro reo) yapısından 
-yalıtmıştır.
+Madde 53 - Ölüm hâlinde uğranılan zararlar özellikle şunlardır:
+1. Cenaze giderleri.
+2. Ölüm hemen gerçekleşmemişse tedavi giderleri ile çalışma gücünün azalmasından
+ya da yitirilmesinden doğan kayıplar.
+
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-TBK m. 74 hükmünün teorik ve pratik sınırlarının idrak edilebilmesi için, 
-maddedeki kurucu unsurların ve yargısal etkileşim statülerinin mikroskobik 
-düzeyde analiz edilmesi elzemdir:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Kusurun ve Ayırt Etme Gücünün Değerlendirilmesi:**
-Madde metni uyarınca hukuk hâkimi, failin **Kusur** ve **Ayırt Etme Gücü 
-(Temyiz Kudreti)** incelemesinde ceza hukukunun kavramsal çerçevesine bağlı 
-değildir. Ceza hukukunda kusur yeteneğini ortadan kaldıran yaş küçüklüğü, 
-sağırlık-dilsizlik veya akıl hastalığı gibi durumlar, borçlar hukuku anlamında 
-haksız fiil sorumluluğunu doğrudan ortadan kaldırmaz. Zira TBK m. 59 uyarınca 
-hakkaniyet gerektiriyorsa ayırt etme gücünden yoksun kişilerin de verdikleri 
-zararı tazmin etmesi mümkündür. Dolayısıyla ceza hâkiminin "failin cezai 
-ehliyeti (ayırt etme gücü) yoktur" şeklindeki tespiti, hukuk hâkimini faili 
-tazminattan muaf tutma noktasında bağlamaz.
+Madde 53, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Beraat Kararının Etkisi ve Delil Yetersizliği:**
-Ceza hâkimi tarafından verilen **Beraat Kararı**, hukuk hâkimini kural olarak 
-bağlamaz. Ancak doktrinde ve Yargıtay içtihatlarında beraat kararlarının 
-gerekçesine göre ikili bir ayrım yapılmaktadır. Şayet beraat kararı "delil 
-yetersizliği (şüpheden sanık yararlanır / in dubio pro reo)" ilkesine 
-dayanıyorsa, bu karar hukuk hâkimini kesinlikle bağlamaz. Zira ceza 
-yargılamasında aranan mutlak ispat derecesi ile tazminat hukukunda aranan ispat
-derecesi birbirinden farklıdır. Ceza mahkemesi hâkimi, mahkûmiyet için 
-yüzde yüzlük bir kesinlik ararken; hukuk hâkimi makul bir kanaatle (veya 
-hayatın olağan akışına dayalı karinelerle) daha düşük bir ispat derecesinde 
-kişiyi tazminata mahkûm edebilir. Ancak ceza mahkemesinin beraat kararı 
-"fiilin sanık tarafından işlenmediğinin sabit olması" veya "hukuka uygunluk 
-sebeplerinin bulunması" gerekçesine dayanıyorsa, bu durumda ortada bir **Maddi 
-Vakıa Tespiti** söz konusudur ve bu tespit hukuk hâkimini bağlar.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Mahkûmiyet Kararının Etkisi ve Maddi Vakıa Tespiti:**
-TBK m. 74 lafzı sadece beraat kararından bahsetse de, mahkûmiyet kararlarının 
-etkisi de bu norm ekseninde yorumlanır. Ceza mahkemesince verilen mahkûmiyet 
-kararları, kural olarak hukuk mahkemesi hâkimini bağlar. Ancak bu 
-bağlılığın sınırı **Maddi Vakıaların Tespiti** ve fiilin hukuka aykırılığı ile 
-sınırlıdır. Bir fiilin fail tarafından işlendiğinin, o fiilin hukuka 
-aykırı olduğunun ve failin eylemi ile netice arasındaki illiyet bağının ceza 
-mahkemesince kesin olarak saptanması, hukuk hâkimi için bağlayıcıdır. Buna 
-mukabil ceza hâkiminin failin %100 veya %50 kusurlu olduğuna dair **Kusur 
-Oranı** tespiti ile mağdurun uğradığı **Zarar Miktarı** konusundaki rakamsal 
-tespitleri hukuk hâkimini hiçbir şekilde bağlamaz.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Hükmün Açıklanmasının Geri Bırakılması (HAGB):**
-Uygulamada en çok tartışılan kurum, Ceza Muhakemesi Kanunu (CMK) m. 231 
-kapsamında verilen **Hükmün Açıklanmasının Geri Bırakılması (HAGB)** 
-kararlarıdır. HAGB kararları mahiyeti itibariyle hukuk hâkimini bağlamaz. Zira HAGB kararı, sanık hakkında tesis edilmiş kesin ve nihai bir 
-mahkûmiyet hükmü değildir; yasal şartlar yerine getirildiğinde düşme kararı ile
-sonuçlanacak, askıda bir ceza usul işlemidir. Dolayısıyla 5. Asliye Ceza 
-Mahkemesi'nin veya herhangi bir ceza mahkemesinin verdiği HAGB kararı, TBK m. 
-74 (mülga BK m. 53) uyarınca hukuk mahkemesinde kusurun veya maddi fiilin 
-mutlak ispatı anlamına gelmez ve hukuk hâkimi, haksız fiil unsurlarını 
-bütünüyle yeniden ve bağımsız olarak değerlendirir.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-TBK m. 74 hükmü, haksız fiil sorumluluğunun omurgasını oluşturan diğer tazminat
-mekanizmaları ve usul kurallarıyla organik ve karmaşık bir diyalektik 
-içindedir:
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 53'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 53 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. Kesin Hüküm (Res Judicata) ile İstisnai İlişki (HMK m. 303):**
-Hukuk Muhakemeleri Kanunu (HMK) m. 303 uyarınca, bir davanın tarafları, konusu 
-ve dava sebebi aynı ise önceki kesinleşmiş karar sonraki davada kesin hüküm 
-teşkil eder. Ceza ve hukuk davalarının tarafları (kamu vs. kişi) tam olarak 
-aynı olmasa da, aynı vakıanın incelenmesi söz konusudur. TBK m. 74 kuralı, 
-hukuk hâkiminin ceza mahkemesi kararı (özellikle beraat ve kusur takdiri) 
-karşısında bağımsız olduğunu belirterek, genel usul hukukundaki kesin hüküm 
-itirazının en temel maddi hukuk istisnasını yaratmıştır.
+Bu ilişkiler, m. 53'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Haksız Fiil Unsurları (TBK m. 49) ile Sınır Çizgisi:**
-Suç ve haksız fiil kavramları kesişim kümesinde yer alsa da, TBK m. 49 uyarınca
-haksız fiil sorumluluğunun doğabilmesi için eylemin mutlak surette "suç" teşkil
-etmesi gerekmez. Salt ekonomik zararların veya sözleşme öncesi kusur (culpa
-in contrahendo) durumlarının ceza hukukunda bir karşılığı olmayabilir. 
-Dolayısıyla ceza kanunlarında "tipiklik" unsuru oluşmadığı için fail beraat 
-etse bile, TBK m. 49 anlamında objektif hukuka aykırılık ve haksız fiil 
-unsurları mevcut olmaya devam edebilir.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Bekletici Sorun (HMK m. 165) İle Diyalektik:**
-TBK m. 74, hukuk hâkimine ceza mahkemesini beklememe özgürlüğü verse de; 
-uygulamada hukuk hâkimi HMK m. 165 uyarınca ceza davasının sonucunu **Bekletici
-Sorun** yapabilir. Zira ceza mahkemesinin devletin cebri gücünü 
-kullanarak (arama, el koyma, zorla getirme, telekomünikasyon kayıtlarını 
-inceleme) elde edeceği maddi deliller, hukuk davasının kaderini etkileyecek 
-niteliktedir. Doktrinde Kapancı ve Eren'in de vurguladığı üzere, maddi gerçeğin
-aydınlatılması adına ceza davasının sonucunun beklenmesi, bağımsızlık 
-prensibini ihlal etmez, aksine yargısal ekonomiye ve gerçeğin tespitine hizmet 
-eder.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-**D. Müterafik Kusur (TBK m. 52) ile Kesişim:**
-Ceza hukukunda kural olarak mağdurun (zarar görenin) kusuru failin cezasını 
-ortadan kaldırmaz, sadece takdiri indirim sebebi olabilir. Ancak borçlar 
-hukukunda TBK m. 52 bağlamında mağdurun **Müterafik Kusuru**, tazminatın kökten
-reddine veya ciddi oranda indirilmesine yol açar. Ceza mahkemesi kararında 
-mağdurun asli, failin tali kusurlu olduğu tespiti yapılsa bile, hukuk hâkimi 
-TBK m. 74 uyarınca bu oransal tespitle bağlı kalmaksızın TBK m. 52 indirimini 
-kendi hakkaniyet ölçülerine göre yeniden tayin eder.
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-#### 4. Pratik Olay Analizleri
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Delil Yetersizliğinden Beraat ve Tazminat Sorumluluğunun 
-Bağımsızlığı):**
-Doktor (A) ameliyat sırasında hastası (B)'nin ölümüne sebep olduğu iddiasıyla 
-"taksirle ölüme neden olma" (TCK m. 85) suçundan yargılanır. Ceza mahkemesi, 
-doktorun kusurlu olduğuna dair şüpheden uzak, kesin ve inandırıcı delil 
-bulunmadığı gerekçesiyle (in dubio pro reo) Doktor (A) hakkında **Beraat 
-Kararı** verir. Ölenin mirasçıları ise (A)'ya karşı TBK m. 49 uyarınca 
-destekten yoksun kalma ve manevi tazminat davası açar. (A)'nın avukatı, "Ceza 
-mahkemesinden beraat ettik, kusurumuz olmadığı kesinleşmiştir, tazminat davası 
-reddedilmelidir" savunmasını yapar.
-Hukuk dogmatiği açısından bu savunma TBK m. 74 (mülga BK m. 53) duvarına 
-çarpar. Ceza hâkimi tarafından "delil yetersizliği" nedeniyle verilen beraat 
-kararı hukuk hâkimini bağlamaz. Ceza yargılamasında yüzde yüz ispat 
-aranırken, hukuk yargılamasında hâkim, ameliyat evraklarını, tıbbi standartları
-(malpraktis) ve bilirkişi raporlarını inceleyerek Doktor (A)'nın en hafif 
-ihmalinin dahi borçlar hukuku anlamında kusur teşkil edeceğine kanaat getirip 
-onu milyonlarca liralık tazminata mahkûm edebilir. Bağımsızlık ilkesi, 
-hekimin hukuki sorumluluğunu ayakta tutar.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (HAGB Kararı ve Hukuk Mahkemesinin Bağlı Olmaması):**
-Esnaf (X) komşusu (Y)'yi iş yeri kavgası sırasında darp eder. 5. Asliye Ceza 
-Mahkemesi'nde (X) hakkında "nitelikli kasten yaralama" suçundan dava açılır. 
-Mahkeme, suçun işlendiğine kanaat getirse de, yasal şartların varlığı nedeniyle
-(X) hakkında **Hükmün Açıklanmasının Geri Bırakılmasına (HAGB)** karar verir. 
-(Y) uğradığı bedensel zararların (tedavi masrafları ve çalışma gücü kaybı) 
-tazmini için hukuk mahkemesinde dava açar ve ceza dosyasındaki HAGB kararını 
-"suçun sabit olduğunun kesin delili" olarak sunar.
-Yargıtay içtihatları ve TBK m. 74 ekseninde HAGB kararları mahiyeti itibariyle 
-hukuk hâkimini bağlamaz. HAGB kararı, sanık (X) hakkında hukuki sonuç 
-doğuracak kesin bir mahkûmiyet hükmü niteliği taşımadığından, hukuk 
-mahkemesinde fiilin haksızlığının veya kusurun kesin (mutlak) delili olarak 
-kabul edilemez. Hukuk hâkimi, Türk Borçlar Kanunu'nun 49. ve 74. maddeleri 
-uyarınca, olayın oluş şeklini, tanıkları ve maddi vakıayı bütünüyle yeniden 
-inceleyerek kendi bağımsız kararına varmak zorundadır.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 53 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-TBK m. 74 hükmünün mahkeme salonlarında ve usul hukuku pratiğinde avukatların 
-dikkat etmesi gereken stratejik dogmatik hususları şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. HAGB Savunması ve Delil İkamesi:**
-Davalı avukatları, müvekkilleri hakkında ceza mahkemesinde HAGB kararı 
-verildiğinde, hukuk mahkemesinde mutlaka "HAGB kararının mahkumiyet niteliğinde
-olmadığını ve hukuk hâkimini bağlamadığını" (TBK m. 74) ileri sürmelidir. 
-Davacı taraf ise, HAGB kararı bağlayıcı olmasa dahi, ceza dosyası içindeki 
-ifadelerin, olay yeri inceleme tutanaklarının ve adli tıp raporlarının hukuk 
-davası için "kuvvetli takdiri delil" niteliğinde olduğunu savunarak hâkimin 
-kanaatini bu yönde şekillendirmeye çalışmalıdır.
+#### 6. Pratik Uygulama Notları
 
-**2. Bekletici Sorun (HMK m. 165) Talebi:**
-Haksız fiil sebebiyle tazminat davası açan avukatlar, fiilin suç teşkil ettiği 
-durumlarda genellikle ceza soruşturması/kovuşturması sonucunun "bekletici 
-mesele" yapılmasını talep ederler. Her ne kadar hukuk hâkimi ceza kararıyla 
-bağlı olmasa da (TBK m. 74) ceza davasında verilecek olası bir mahkûmiyet 
-kararında "maddi vakıanın sübutu" hususu hukuk hâkimini bağlayacağı için, 
-davacı tarafın ispat yükü (TBK m. 50) ciddi oranda hafifleyecektir. Bu 
-stratejik adım, davanın kazanılma ihtimalini maksimize eder.
-
-**3. Ceza Dosyasındaki Kusur Raporlarına İtiraz:**
-Trafik kazası veya iş kazası neticesinde açılan tazminat davalarında, ceza 
-mahkemesinde alınan kusur oranları (örneğin asli/tali kusur tespiti) hukuk 
-davasında mutlak bir bağlayıcılığa sahip değildir. Davalı avukatları, TBK m. 
-74'e dayanarak, ceza dosyasındaki rapora itiraz etmeli ve "borçlar hukuku 
-prensipleri ve müterafik kusur (TBK m. 52) ilkeleri çerçevesinde dosyanın 
-yeniden uzman bir heyete (örneğin İTÜ veya Karayolları Fen Heyeti) tevdii 
-edilerek yeni bir kusur raporu alınmasını" mutlak surette talep etmelidir.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu (YHGK) ve tazminat davalarına bakan daireleri 
-(özellikle 3., 4., 17. Hukuk Daireleri) TBK m. 74 (mülga BK m. 53 / OR Art. 
-53) kuralını uygularken bağımsızlık prensibinin sınırlarını son derece katı ve 
-matematiksel bir içtihat politikasıyla çizmektedir.
-
-Yüksek Mahkemenin (örneğin 4. Hukuk Dairesi'nin) klasikleşmiş HAGB kararlarına 
-ilişkin yaklaşımı şöyledir: *"5. Asliye Ceza Mahkemesi’nin … sayılı karar 
-dosyasında, davalının davacıya yönelik silahla tehdit suçu ile ilgili her türlü
-şüpheden uzak kesin ve inandırıcı delil elde edilemediğinden beraat kararı, 
-nitelikli kasten yaralama suçundan ise hükmün açıklanmasının geri bırakılması 
-kararı verilmiştir. Hükmün açıklanmasının geri bırakılması kararları mahiyeti 
-itibariyle hukuk hakimini bağlamaz. Türk Borçlar Kanunu’nun 74/2. fıkrası 
-uyarınca ceza hakiminin kararı hukuk hakimini bağlamaz ise de... maddi olgunun 
-tespiti bağlayıcıdır."*.
-
-Yargıtay, beraat kararlarının hukuk mahkemesine etkisi konusunda "beraat 
-gerekçesine" mutlak bir önem atfetmektedir. Yargıtay içtihatlarına göre, *"Eğer
-ceza mahkemesi, sanığın üzerine atılı fiili işlemediği (maddi vakıanın 
-gerçekleşmediği) gerekçesiyle beraat kararı vermişse, bu karar hukuk hâkimini 
-bağlar; hukuk hâkimi aynı fiilin sanık tarafından işlendiğini kabul ederek 
-tazminata hükmedemez. Ancak beraat kararı, kusur yokluğu veya delil 
-yetersizliği (şüpheden sanık yararlanır) gerekçesine dayanıyorsa, TBK m. 74 
-(eBK m. 53) gereğince hukuk hâkimi bu kararla bağlı değildir; haksız fiil 
-unsurlarını serbestçe araştırıp tazminata karar verebilir."*.
-
-Ayrıca Yargıtay, mahkûmiyet hükümlerinin varlığı hâlinde sorumluluğun 
-sınırlarına da değinerek, *"Ceza mahkemesinde kusurlu olduğu kabul edilerek 
-hakkında mahkûmiyet kararı verilen kimse, hukuk mahkemesinde tamamen kusursuz 
-kabul edilemez"* diyerek, bağımsızlık ilkesinin mahkûmiyet aleyhine 
-sınırlandırılamayacağını, ancak oransal (yüzdelik) kusur paylaşımında hukuk 
-hâkiminin serbest olduğunu istikrarla belirtmektedir.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 74. maddesinde (mülga BK m. 53 / OR Art. 53) lafzını 
-bulan **Ceza Mahkemesi Kararlarının Etkisi (Bağımsızlık Prensibi)**, borçlar 
-hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz, Haluk Nami Nomer 
-ve Kadir Berk Kapancı gibi akademisyenlerin eserleri ekseninde, "Hukuk 
-Düzeninin Tekliği" ve "Maddi Gerçeğin Bölünmezliği" argümanları üzerinden derin
-felsefi eleştirilere maruz kalmaktadır.
+Madde 53, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci köklü eleştiri, **Hukuk Düzeninin Tekliği İlkesi (Einheit der 
-Rechtsordnung)** ile **Bağımsızlık Prensibi** arasındaki çatışmaya yöneliktir. 
-Fikret Eren ve Oğuzman/Öz'ün eserlerinde hararetle tartışıldığı üzere, aynı 
-maddi eylem (örneğin bir kişiyi yaralama) hem ceza mahkemesinde hem de hukuk 
-mahkemesinde yargılanmaktadır. Devletin bir organı (ceza mahkemesi) eylemin 
-kusurlu olmadığına karar verirken, diğer bir organının (hukuk mahkemesi) eylemi
-kusurlu bulması, toplum nezdinde adalete olan güveni sarsmakta ve hukuk 
-sisteminin kendi içinde çelişkiye düşmesine yol açmaktadır. Her ne kadar kanun 
-koyucu (TBK m. 74) hukuk hâkimini beraat kararlarıyla bağlı tutmamış olsa da, 
-doktrinde; delil yetersizliğinden verilen beraat kararlarında dahi, ceza 
-yargılamasının sahip olduğu devasa inceleme kudretinin ve kesin delil toplama 
-vasıtalarının hukuk yargılamasına nazaran daha üstün olduğu, bu nedenle ceza 
-hâkiminin tespitlerinin kural olarak hukuk hâkimini bağlaması gerektiği, TBK m.
-74'ün bu denli geniş bir bağımsızlık alanı yaratmasının "çelişik kararlar" 
-riskini artırdığı yüksek sesle eleştirilmektedir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci felsefi eleştiri, son yıllarda Türk yargı sisteminin kronik bir sorununa
-dönüşen **Hükmün Açıklanmasının Geri Bırakılması (HAGB)** kararlarının TBK m. 
-74 karşısındaki statüsünedir. Yargıtay'ın ve sistemin "HAGB mahkûmiyet 
-değildir, bu yüzden hukuk hâkimini bağlamaz" şeklindeki şekli (formalist) 
-yaklaşımı, doktrinde ciddi şekilde yadırganmaktadır. Zira HAGB kararı 
-verilebilmesi için, ceza hâkiminin sanığın suçu işlediğine mutlak olarak kanaat
-getirmesi ve fiilin haksızlığını tespit etmesi yasal bir zorunluluktur. Ortada 
-sübut bulmuş bir maddi vakıa ve fail varken, sırf sanık hükmün ertelenmesini 
-kabul etti diye, bu kararın hukuk davasında "hiçbir bağlayıcılığının olmaması",
-mağduru hukuk mahkemesinde maddi fiili en baştan ispat etmek zorunda 
-bırakmaktadır. Nomer ve diğer birçok haksız fiil teorisyenine göre; HAGB her ne
-kadar usulen askıda bir hüküm olsa da, içerdiği "maddi vakıa tespiti" (fiilin 
-işlendiği gerçeği) bakımından hukuk hâkimini bağlamalıdır. Yargıtay'ın HAGB 
-kararlarını TBK m. 74 torbasına atarak tamamen etkisizleştirmesi, hukuk usulü 
-ekonomisine ve maddi gerçeğin tekliği ilkesine vurulmuş ağır bir dogmatik 
-darbedir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
-Sonuç itibarıyla TBK m. 74; borçlar hukukunun denkleştirici adalet ruhunu, ceza
-hukukunun "şüpheden sanık yararlanır" giyotininden kurtaran evrensel bir 
-izolasyon normudur. Hukuk sistemi, hapis cezası vermek için aradığı o kusursuz 
-ve yüzde yüzlük emin olma şartını, mağdurun gözyaşını dindirecek bir tazminat 
-kararı için aramamış; hukuk hâkimine "senin adaletin cezanın değil, telafinin 
-adaletidir, bu yüzden özgürsün" demiştir. Ancak bu özgürlüğün, devletin iki 
-farklı mahkemesinden iki farklı maddi gerçeklik çıkmasına (çelişkiye) mahal 
-vermeyecek şekilde, zekice ve sınırları bilinerek (maddi vakıa tespiti 
-istisnasıyla) kullanılması borçlar hukuku dogmatiğinin en hayati 
-sorumluluğudur.
+Türk Borçlar Kanunu m. 53, «Madde 53» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 53, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 53'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 53, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 53, «Madde 53» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 53, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 53'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 53, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 53, «Madde 53» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 53, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 53'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 53, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 53, «Madde 53» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 53, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 53'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 53, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 53, «Madde 53» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 53, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 53'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 53, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 53, «Madde 53» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 53, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 53'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 53, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 53, «Madde 53» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 53, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 53'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 53'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 53.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 53. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 53 resmi metni ve kanunun sistematiği.

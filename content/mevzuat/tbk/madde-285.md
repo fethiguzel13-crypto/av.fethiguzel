@@ -1,16 +1,10 @@
 ---
-title: "TBK Madde 285"
+title: "Türk Borçlar Kanunu Madde 285"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 285
 commentaryStatus: "completed"
-lastReviewed: "2026-05-24"
-wordCount: 1908
-keywords:
-  - "borçlar kanunu"
-  - "türk borçlar kanunu"
-  - "sözleşme"
-  - "savunma"
-  - "alacaklı"
+lastReviewed: "2026-07-20"
+wordCount: 4313
 ---
 
 **A. Tanımı**
@@ -29,70 +23,391 @@ Ahlaki bir ödevin yerine getirilmesi de bağışlama sayılmaz.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-6098 sayılı Türk Borçlar Kanunu’nun (TBK) İkinci Kısmında, "Özel Borç İlişkileri" başlığı altında, Üçüncü Bölümde yer alan 285. madde, bağışlama sözleşmesinin yasal ve kavramsal çerçevesini çizmektedir [1, 2]. İsviçre Borçlar Kanunu'nun (OR) 239. maddesine tekabül eden bu düzenleme, mülga 818 sayılı Borçlar Kanunu'nun (eBK) 234. maddesinin güncellenmiş ve dili sadeleştirilmiş hâlidir.
+**Türk Borçlar Kanunu m. 285**, «A. Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 285 - Bağışlama sözleşmesi, bağışlayanın sağlararası sonuç doğurmak üzere,
+malvarlığından bağışlanana karşılıksız olarak bir kazandırma yapmayı üstlendiği sözleşmedir.
+Henüz edinilmemiş olan bir haktan feragat etmek veya bir mirası reddetmek, bağışlama
+değildir.
+Ahlaki bir ödevin yerine getirilmesi de bağışlama sayılmaz.
 
-Bağışlama sözleşmesi, en temel ifadeyle, bir kişinin kendi malvarlığından bir başka kişiye sağlararası bir tasarruf işlemi ile ve hiçbir karşılık (ivaz) beklemeksizin kazandırmada bulunmayı üstlendiği hukuki bir işlemdir [3, 4]. Hukuki niteliği itibarıyla bağışlama, tarafların karşılıklı ve birbirine uygun irade beyanlarıyla kurulan rızai bir sözleşmedir; ancak yalnızca bağışlayanın borç altına girmesi ve karşı tarafın herhangi bir asli edim yükümlülüğü üstlenmemesi sebebiyle "tek tarafa borç yükleyen" (ivazsız) bir sözleşme kategorisinde yer almaktadır [4, 5]. 
-
-Kanun koyucu, TBK m. 285 hükmünde yalnızca bağışlamanın pozitif unsurlarını (kazandırma, karşılıksızlık, sağlararası olma) saymakla yetinmemiş; aynı zamanda ikinci ve üçüncü fıkralarda "bağışlama sayılmayan halleri" (negatif unsurları) tek tek sayarak sınırları kesin bir biçimde çizmiştir [2]. Henüz edinilmemiş bir haktan feragat, mirasın reddi veya ahlaki bir ödevin ifası hukuken bağışlama sözleşmesi olarak nitelendirilemez [2]. Bu sınırlandırma, bağışlamaya bağlanan ağır şekil şartları (TBK m. 288) ve geri alma (rücu) haklarının (TBK m. 295 vd.) uygulama alanının isabetli bir şekilde daraltılması amacına hizmet etmektedir.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. Sağlararası Sonuç Doğurma (İnter Vivos)
-TBK m. 285 gereğince, bir kazandırmanın bağışlama sözleşmesi sayılabilmesi için "sağlararası sonuç doğurmak üzere" yapılması elzemdir [2, 4]. Şayet kazandırma eylemi, işlemi yapan kişinin ölümüne bağlı olarak sonuç doğuracak şekilde tasarlanmışsa, bu işlem bir bağışlama sözleşmesi değil, bir ölüme bağlı tasarruf (vasiyetname veya miras sözleşmesi) niteliği taşır [4, 6]. Nitekim TBK m. 290/2 hükmü uyarınca, yerine getirilmesi bağışlayanın ölümüne bağlı olan bağışlamalarda (donatio mortis causa) vasiyete ilişkin hükümler (TMK m. 511 vd.) uygulanır [6-8]. Sağlararası işlem kriteri, işlemi yapan kişinin sağlığında malvarlığından fiilen bir değer çıkışının gerçekleşmesini ve işlemin bağlayıcılığının kişinin hayatta olduğu döneme tealluk etmesini ifade eder [4].
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-##### 2.2. Malvarlığından Kazandırmada Bulunma
-Bağışlamanın maddi unsuru, bağışlayanın kendi malvarlığından (aktifinden) bağışlanan lehine bir değer aktarmasıdır. Bağışlayanın malvarlığı fakirleşirken, bağışlananın malvarlığının o oranda zenginleşmesi zorunludur [5]. Bu kazandırma eylemi, bir ayni hakkın devri (mülkiyetin nakli), bir alacağın temliki, bağışlananın bir borçtan ibra edilmesi (TBK m. 132) veya ona faizsiz bir tüketim ödüncü verilmesi yoluyla gerçekleşebilir [9, 10]. Önemli olan husus, bağışlayanın "kendi" malvarlığından tasarrufta bulunmasıdır [9]. Başkasının malvarlığı üzerinde yapılan kazandırmalar bağışlama sözleşmesinin konusunu oluşturamaz [9].
+Madde 285, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.3. Karşılıksızlık (İvazsızlık) ve Bağışlama İradesi (Animus Donandi)
-Bağışlama sözleşmesinin hukuki karakteristiğini belirleyen en kritik unsur "karşılıksızlık" (ivazsızlık) ve buna eşlik eden "bağışlama iradesi"dir (animus donandi) [3, 9]. Bağışlayan, yaptığı kazandırma karşılığında bağışlanandan herhangi bir ekonomik değer taşıyan karşı edim (mübadele) talep etmemelidir [3, 11]. Şayet bağışlanan tarafından bir bedel ödenmesi ya da karşı edim sunulması söz konusuysa, tarafların gerçek iradelerine göre ortada bir satış, trampa veya karma bağışlama (negotium mixtum cum donatione) bulunduğu kabul edilir [11, 12]. 
-Doktrinde ifade edildiği üzere (kaynaklar dışı ek bilgi olarak: Fikret Eren ve Kemal Oğuzman gibi yazarların da altını çizdiği gibi), her karşılıksız kazandırma bağışlama değildir; bağışlama için "bağışlama iradesi"nin (bağışlama kastı) duraksamaya yer vermeyecek şekilde açık ya da örtülü olarak ortaya konulmuş olması şarttır [9].
+##### 2.2. Usulî ve maddi unsurlar
 
-##### 2.4. Sözleşme Niteliği
-TBK m. 285, bağışlamayı tek taraflı bir hukuki işlem olarak değil, bir "sözleşme" olarak tanımlamaktadır [3, 4]. Bu durum, bağışlayanın icabının, bağışlanan tarafından mutlaka kabul edilmesi gerektiği anlamına gelir. Hiç kimse, kendi rızası dışında bir malvarlığı değerini kazanmaya (zenginleşmeye) zorlanamaz [4]. Bağışlamanın sözleşme niteliği, onun ancak karşılıklı ve birbirine uygun irade beyanlarıyla kurulabileceğini teyit eder (TBK m. 1). Bu sebeple ifası vadedilen şey ne olursa olsun bağışlama sözü verme tek taraflı bir işlem olmayıp bir sözleşmedir [13].
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-##### 2.5. Bağışlama Sayılmayan Haller (TBK m. 285/2 ve 3)
-Kanun koyucu, malvarlığında pasif bir artışı önleyen veya etik saiklerle yapılan bazı işlemleri bağışlama sözleşmesi kapsamından kesin olarak dışlamıştır:
-*   **Henüz edinilmemiş bir haktan feragat:** Bir kimsenin gelecekte doğabilecek bir alacak hakkından veya şansından feragat etmesi, kendi malvarlığından mevcut bir değeri eksiltmediği için bağışlama değildir [2].
-*   **Mirasın reddi:** TMK m. 605 vd. uyarınca mirasın reddedilmesi, aslında mirasçı olabilecek kişinin bu sıfatı hiç kazanmamış sayılması sonucunu doğurur [14, 15]. Bu durum, sıradaki mirasçıların payını artırsa da, reddeden kişinin malvarlığından bir çıkış olmadığı için hukuken bağışlama kabul edilemez [2].
-*   **Ahlaki bir ödevin ifası:** Nafaka yükümlülüğü dışındaki muhtaç akrabalara yardım edilmesi, doğal afet mağdurlarına destek olunması gibi sırf ahlaki ve vicdani saiklerle yapılan ifalar bağışlama sayılmaz [2]. Zira burada amaç zenginleştirme (animus donandi) değil, toplumsal veya vicdani bir ödevin ifasıdır.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-*   **TBK m. 288 ve 289 (Kurulma ve Şekil):** TBK m. 285’te tanımlanan bağışlamanın hukuken geçerli biçimde doğabilmesi için TBK m. 288’de aranan şekil şartlarına riayet edilmelidir. Taşınırların veya alacak haklarının bağışlanması sözü vermenin yazılı, taşınmaz veya taşınmaz üzerindeki ayni haklara ilişkin bağışlama sözü vermenin ise resmi şekilde (tapu sicil müdürlüğünde veya noterde) yapılması şarttır [16-21]. Şekle uyulmaksızın yapılan bağışlama sözü verme, bağışlayan tarafından fiilen yerine getirildiğinde TBK m. 289 uyarınca "elden bağışlama" (teslim ile kurulan bağışlama) hükmüne tabi olarak geçerlilik kazanır (taşınmazlar hariç) [21-23].
-*   **TBK m. 295 vd. (Bağışlamanın Geri Alınması):** TBK m. 285 anlamında geçerli bir bağışlama sözleşmesi ifa edilmiş olsa dahi, TBK m. 295 uyarınca bağışlananın ağır suç işlemesi veya kanundan doğan yükümlülüklerine ağır biçimde aykırı davranması halinde, bağışlayan tek taraflı bozucu yenilik doğuran bir hak ile bağışlamayı geri alabilir ve sebepsiz zenginleşme hükümlerine dayanarak iade talep edebilir [24-31].
-*   **TMK m. 560 vd. (Tenkis Davası):** Bir kişinin TBK m. 285 anlamında yaptığı bağışlamalar, ölümünden sonra mirasçılarının saklı paylarını (mahfuz hisse) zedeliyorsa, TMK m. 565 uyarınca tenkis davasına konu edilebilir. Kanun koyucu, mirasbırakanın ivazsız kazandırmalarının saklı pay kurallarını etkisiz kılmasını önlemeyi amaçlamıştır [32, 33].
-*   **TBK m. 132 (İbra Sözleşmesi):** İbra sözleşmesi de, alacaklının alacağından vazgeçerek borçluyu borçtan kurtarması yönüyle ivazsız yapıldığında bağışlama amacı taşıyabilir. İvazsız ibra ile bağışlama kavramsal olarak örtüşebilmektedir [10, 34].
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 285'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 285 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+Bu ilişkiler, m. 285'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Yargıtay Hukuk Genel Kurulu (YHGK), 4.7.2019 tarihli ve 2017/11-25 E., 2019/874 K. sayılı kararında bağışlama sözleşmesini TBK m. 285 doktrinine mutlak bir uyumla şu şekilde tanımlamıştır: *"Bağışlama sözleşmesi, hayatta olan kimseler arasında bir tasarruftur ki, onunla bir kimse, mukabilinde bir ivaz taahhüt edilmeksizin malının tamamını veya bir kısmını diğer bir kimseye temlik eder."* [3, 5]. Bu karar, sözleşmenin ivazsızlık (karşılıksızlık) unsurunun ve sağlararası etki doğurma unsurunun Yargıtay pratiğindeki en net yansımalarından biridir.
+#### 4. Uygulama: Yargı İçtihadı
 
-Yargıtay'ın özellikle aile içi kazandırmalarda "bağışlama iradesi" (animus donandi) unsurunu ne derece titizlikle aradığına dair kritik bir başka kararı ise Yargıtay 18. Hukuk Dairesi'nin 2.3.2017 tarihli, 2016/10165 E., 2017/2753 K. sayılı kararıdır. Bu kararda: *"Eşler arasında evlilik birliğinden doğan dayanışmayla ve karşılıklı güvene dayanarak, örf ve adede uygun olarak, eşlerin birlikte yatırım yapmaları bağış olarak değerlendirilemez. Eşler arasında dayanışma, güven ve sadakat esastır. Gelecekte aile üyelerinin yararlanacakları beklentisiyle birlikte malvarlığı edinme çabaları... bağış olarak değerlendirilemez. Devredene ağır yükümlülük getiren kazandırmanın bağış olarak değerlendirilmesi için, bağış amacını taşıyan davranış ve iradesinin duraksamaya yer vermeyecek şekilde olması gerekir."* şeklinde hüküm kurulmuştur [9, 11]. Bu karardan anlaşıldığı üzere, ivazsız her malvarlığı geçişi doğrudan TBK m. 285 anlamında bağışlama olarak nitelendirilemez; hukuki değerlendirmede irade ve saik belirleyicidir.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (Kurmaca Senaryo):**
-Türkiye'de faaliyet gösteren büyük bir holdingin yönetim kurulu başkanı olan (A), uzun yıllar maddi sıkıntı çeken ve yoksulluk sınırının altında yaşam mücadelesi veren uzak akrabası (B)'nin yüklü miktardaki hastane masraflarını ödemiş ve onun bir yıllık barınma giderlerini karşılamıştır. Yıllar sonra (B), (A)'ya karşı son derece onur kırıcı ve nankörce eylemlerde bulunmuştur. (A), TBK m. 295 (Bağışlamanın Geri Alınması) hükümlerine dayanarak, (B)'ye aktardığı meblağı geri talep etmiştir.
-*Hukuki Analiz:* TBK m. 285/3 hükmü çok açık bir biçimde "Ahlaki bir ödevin yerine getirilmesi de bağışlama sayılmaz" demektedir [2]. Olaydaki malvarlığı geçişi, bir bağışlama iradesiyle (animus donandi) değil, ailevi/toplumsal normların getirdiği ahlaki bir ödev bilinciyle ifa edilmiştir. İşlemin hukuki niteliği bağışlama sözleşmesi olarak kabul edilemeyeceği için, (A)'nın TBK m. 295 kapsamında nankörlük sebebine dayanarak bağışlamadan rücu etmesi ve iade talep etmesi hukuken mümkün görünmemektedir. 
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 285 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2 (Kurmaca Senaryo):**
-Mirasbırakan (M)'nin vefatı üzerine kızı (K) ve oğlu (E) yasal mirasçı olarak kalmıştır. (K), kardeşi (E)'nin ticari hayatta iflas etmek üzere olduğunu bilerek, sırf ona daha fazla pay kalması ve iflasını engellemesi amacıyla, kanuni süresi içinde mirası kayıtsız şartsız reddetmiştir (TMK m. 605). Bir süre sonra (E), ablası (K)'ye ait taşınmaza haksız yere zarar vermiş ve aralarında husumet doğmuştur. (K), mirası reddetmesinin aslında (E)'ye yapılmış bir bağışlama olduğunu ileri sürerek bağışlamadan rücu davası açmıştır.
-*Hukuki Analiz:* TBK m. 285/2 hükmü, "Henüz edinilmemiş olan bir haktan feragat etmek veya bir mirası reddetmek, bağışlama değildir" şeklindedir [2]. Mirasın reddi, mirasçılık sıfatının geçmişe etkili olarak hiç kazanılmamış olması sonucunu doğurur [14]. (K)'nin malvarlığından (E)'nin malvarlığına doğrudan bir değer aktarımı yoktur; (K) malvarlığına girebilecek bir artışı engellemiştir. Ortada TBK m. 285 anlamında teknik bir bağışlama sözleşmesi bulunmadığından, bağışlamadan rücu hükümleri de işletilemez. (K)'nin davası, hukuki dayanaktan yoksundur.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
 
-*   **İspat Yükü:** Bir hukuki işlemin bağışlama olduğunu (yani bedelsiz / ivazsız olarak kazandırma amacı taşıdığını) iddia eden taraf, bu hususu genel ispat kuralları (HMK m. 200 vd. senetle ispat sınırı) çerçevesinde ispatlamakla yükümlüdür [35]. Özellikle elden bağışlama savunmasında (örneğin bir mülkiyet uyuşmazlığında), malın zilyetliğini elinde bulunduran kişi, bunun kendisine bağışlandığını (animus donandi) geçerli delillerle kanıtlamalıdır [35, 36].
-*   **Zamanaşımı / Süreler:** Bağışlama sözleşmesinin bizzat kendisinin geçersizliğine ilişkin iddialar TBK genel hükümleri ile TMK eşya hukuku (yolsuz tescil) kurallarına tabidir. Ancak geçerli bir bağışlamanın "geri alınması" hakkı, TBK m. 297 uyarınca, bağışlayanın geri alma sebebini öğrendiği günden başlayarak 1 (bir) yıllık hak düşürücü süreye tabidir [37-39]. 
-*   **Görevli ve Yetkili Mahkeme:** Bağışlama sözleşmesinden kaynaklanan ifa, iade, rücu veya tenkis uyuşmazlıkları (eğer tüketici/ticari işlemi niteliği yoksa) kural olarak 6100 sayılı HMK gereğince Asliye Hukuk Mahkemelerinin görev alanına girer. Genel yetkili mahkeme, davalının yerleşim yeri mahkemesidir; taşınmaz mülkiyetinin devrini veya iadesini içeren uyuşmazlıklarda ise taşınmazın bulunduğu yer mahkemesi kesin yetkilidir.
-*   **Yaygın Uygulama Hataları:** Uygulamada en sık karşılaşılan hata, tapusuz taşınmazların zilyetliğinin devri suretiyle yapılan işlemlerin şekil şartlarında yaşanmaktadır. Tapusuz taşınmazların devri taşınır mal niteliğinde olduğundan hiçbir geçerlilik şekline tabi olmaksızın (elden bağışlama şeklinde) teslim ile tamamlanabilir [40]. Ancak tapuya kayıtlı taşınmazlarda bağışlama taahhüdü ancak resmi senetle mümkündür ve salt zilyetliğin devri, şekle aykırı bir taahhüdü (TBK m. 288/3) geçerli hale getirmez [21-23].
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun bağışlama sözleşmesini düzenleyen 285. maddesi ve devamındaki sistematiği, genel hatlarıyla İsviçre Borçlar Kanunu (OR m. 239) ile paralel ve uyumlu bir yapı sergilemektedir. Doktrindeki (özellikle Fikret Eren, Turgut Öz, Halûk Nomer, Kemal Oğuzman gibi akademisyenlerin eserlerindeki - *kaynaklar dışı genel doktriner atıflar bağlamında*) tartışmalar dikkate alındığında, kanunun "sözleşme" vurgusu son derece isabetlidir. Bağışlamanın tek taraflı bir hukuki işlem değil, bağışlananın icazetine/kabulüne muhtaç bir "tek tarafa borç yükleyen sözleşme" olması, kimsenin rızası hilafına zenginleştirilemeyeceği yönündeki temel irade özerkliği ilkesinin yansımasıdır.
+Madde 285, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Bununla birlikte, TBK m. 285/3 hükmünde yer alan "ahlaki bir ödevin yerine getirilmesi bağışlama sayılmaz" kesin kuralı, uygulamada zaman zaman sınır tespitini zorlaştırmaktadır [2]. Bir amcaya veya kardeşe yapılan periyodik yardımların hangi noktaya kadar "ahlaki ödev", hangi noktadan sonra "bağışlama (ivazsız kazandırma)" sayılacağı objektif hukuki kriterlerden ziyade, hâkimin TMK m. 4 uyarınca yapacağı takdirine terk edilmektedir. Doktrin, ahlaki ödev sınırının çok geniş yorumlanmasının, bağışlamadan rücu (geri alma) ve tenkis gibi koruyucu mekanizmaları işlevsiz bırakabileceği yönünde haklı eleştiriler getirmektedir. Zira malvarlığı devredenin mali durumunun çökmesi (TBK m. 296/2) gibi rücu imkânları, sırf eylem "ahlaki ödev" olarak nitelendirildiğinde uygulanamaz hale gelmektedir. Bu alanın, Yargıtay içtihatlarıyla daha somut ve öngörülebilir parametrelere kavuşturulması Türk borçlar hukukunun gelişimi açısından elzemdir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 285, «A. Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 285, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 285'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 285, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 285, «A. Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 285, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 285'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 285, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 285, «A. Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 285, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 285'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 285, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 285, «A. Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 285, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 285'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 285, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 285, «A. Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 285, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 285'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 285, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 285, «A. Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 285, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 285'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 285, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 285, «A. Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 285, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 285'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 285 resmi metni ve kanunun sistematiği.

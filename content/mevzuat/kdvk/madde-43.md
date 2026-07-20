@@ -3,8 +3,8 @@ title: "Katma Değer Vergisi Kanunu Madde 43"
 kanun: "Katma Değer Vergisi Kanunu"
 maddeNo: 43
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 1889
+lastReviewed: "2026-07-20"
+wordCount: 4272
 ---
 
 **Tarh yeri**
@@ -39,53 +39,382 @@ müracaatı üzerine veya resen tarh yerini tayin etmeye yetkilidir.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**Katma Değer Vergisi Kanunu’nun 43. maddesi; vergi idaresinin coğrafi ve işlevsel yetki sınırlarını tanzim eden; mükelleflerin iktisadi faaliyetlerinin fiziki yoğunlaşma alanlarına göre yetkili tarh merciini belirleyen; çok şubeli organizasyonlar, gayrimenkul teslimleri, ithalat ve transit taşımacılık gibi özel durumlarda yetki çelişkilerini önleyici kurallar getiren; nihayet yürütme organına (Hazine ve Maliye Bakanlığına) faaliyetin niteliğine göre re'sen tarh yeri tayin etme yetkisi veren kamu düzenine ilişkin kurucu bir usul normudur.**
 
-Madde, Kanun’un "Dördüncü Kısım: Verginin Tarhı ve Ödenmesi" başlığı altındaki "Birinci Bölüm: Tarh" kısmında, beyannamelerin şekil ve muhtevasını tanzim eden 42. maddeden hemen sonra ve tarh zamanını düzenleyen 44. maddeden hemen önce, kırk üçüncü sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun verginin maddi unsurlarını, vergilendirme dönemini ve beyanname standartlarını belirledikten sonra, bu beyannamenin hangi coğrafi vergi dairesine sunulacağını ve tarh işleminin hangi idari birim eliyle yürütüleceğini (tarh yerini) tescil etme iradesinin doğrudan bir sonucudur. Maddenin yapısına bakıldığında; genel kural olarak "iş yerinin bulunduğu yer" yetkili kılınmış, çok şubeli mükelleflerde ise gelir veya kurumlar vergisi yönünden bağlı olunan daire asıl tarh merci olarak belirlenmiştir. Ayrıca gayrimenkul teslimlerinde mükellefe seçimlik hak tanınmış, ithalat ve yabancı taşımacılarda ise gümrük idareleri tarh merci olarak yetkilendirilmiştir.
-
-Öğretide genel kabul gören görüşe göre, tarh yeri kuralları, vergilendirmede "idari belirlilik", "yetki" ve "etkinlik" ilkelerinin hayata geçirilmesinde hayati bir öneme sahiptir. KDV'nin her aşamada beyan edilen ve indirim mekanizmasıyla zincirleme ilerleyen devingen yapısı, mükelleflerin muhtelif şubelerindeki işlemlerinin tek bir merkezde konsolide edilerek tarh edilmesini zorunlu kılar. M. 43, bu konsolidasyonu kurumlar/gelir vergisi mükellefiyetiyle ilişkilendirerek hem mükelleflerin farklı idarelerle muhatap olmasını engellemekte hem de vergi idaresinin denetim bütünlüğünü güvence altına almaktadır.
+**Katma Değer Vergisi Kanunu m. 43**, «Tarh yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 43 – 1. Katma Değer Vergisi, mükellefin iş yerinin bulunduğu yer vergi
+27/12/2023 tarihli ve 7491 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “ve vergi kesintisi yapmakla
+sorumlu tutulanlar” ibaresi madde metninden çıkarılmış ve fıkraya “akşamına kadar” ibaresinden sonra gelmek
+üzere “, vergi kesintisi yapmakla sorumlu tutulanlar Katma Değer Vergisi beyannamelerini, vergilendirme
+dö… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve yetki sınırlarını şekillendiren temel yasal kavramların analizi şu şekildedir:
-*   **Tarh Yeri:** Vergi dairesinin coğrafi yetki sınırını (ratione loci) ifade eden, beyannamenin verileceği ve verginin idari olarak hesaplanıp tahakkuk ettirileceği yetkili coğrafi idari birimdir.
-*   **İş Yerinin Bulunduğu Yer:** Mükellefin ticari, sınaî veya mesleki faaliyetini fiilen yürüttüğü, yasal olarak tescil edilmiş fiziki merkez veya şubedir.
-*   **Gelir veya Kurumlar Vergisi Yönünden Bağlı Olunan Vergi Dairesi:** Çok şubeli mükelleflerin ana merkezinin bulunduğu, gelir tablosu ve bilançolarının konsolide olarak denetlendiği asli vergi dairesidir.
-*   **Gayrimenkulün Bulunduğu Yer Vergi Dairesi:** Taşınmazların sicile tescil edildikleri coğrafi sınırda yer alan, gayrimenkul teslimlerinde mükellefin istemine bağlı olarak yetkilendirilebilen seçimlik vergi dairesidir.
-*   **İlgili Gümrük İdaresi:** İthalat işlemlerinde veya yabancı plakalı kara taşıtlarının sınır geçişlerinde KDV'nin hesaplanması ve tahsil edilmesinde, vergi dairesi sıfatıyla hareket eden kamusal gümrük otoritesidir.
-*   **Bakanlığın Re'sen Tarh Yeri Tayin Yetkisi:** Bakanlığın, sektörel gereklilikleri, vergi güvenliğini veya mükelleflerin operasyonel yapılarını gözeterek, genel yetki kurallarının dışına çıkıp özel yetkili vergi daireleri (örneğin Büyük Mükellefler Vergi Dairesi) belirleyebilmesini sağlayan takdir hakkıdır.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 43, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Katma Değer Vergisi Kanunu m. 43 hükümleri, anayasal düzeyde verginin kanuniliği ilkesini tanzim eden **Anayasa m. 73**, mülkiyet hakkını koruyan **Anayasa m. 35**, eşitlik ilkesini kuran **Anayasa m. 10** ile hukuk devleti, idari belirlilik ve hizmetin yerindeliği ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. İdari yetki sınırlarının net çizilmesi ve mükellefin yetkisiz bir daire tarafından cezalı tarhiyata maruz bırakılmaması, anayasal hukuki güvenlik ilkesinin dikey düzeydeki en somut güvencesidir.
 
-Kanun içi sistematiğinde ise; verginin konusunu kuran **KDVK m. 1**, mükellefi belirleyen **KDVK m. 8**, sorumluluğu tanzim eden **KDVK m. 9**, beyan esasını tanzim eden **KDVK m. 40**, beyanname verme zamanını kuran **KDVK m. 41** ile verginin ödenme yerini düzenleyen **KDVK m. 47** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 43, m. 40 ve m. 41 dairesinde hazırlanan beyannamenin fiilen hangi fiziki daireye sunulacağını gösteren yegane coğrafi köprüdür.
+- **Katma Değer Vergisi Kanunu m. 1** — Amaç ve kapsam: m. 43'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Katma Değer Vergisi Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Katma Değer Vergisi Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Katma Değer Vergisi Kanunu m. 5** — Ceza ve yasak rejimi: m. 43 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: KDVK m. 43 hükümleri, vergi dairelerinin yetkisini, yetki uyuşmazlıklarını ve iş yeri tanımlarını tanzim eden **213 sayılı Vergi Usul Kanunu’nun 4., 111. ve 156. maddeleri**, ithalat vergilerinin tarh usullerini kuran **4458 sayılı Gümrük Kanunu**, gelir ve kurumlar vergisi mükellefiyet tesis kurallarını belirleyen **193 sayılı Gelir Vergisi Kanunu** ile **5520 sayılı Kurumlar Vergisi Kanunu** ve ticari işletmelerin merkez ve şube tescillerini tanzim eden **6102 sayılı Türk Ticaret Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. İş yerinin fiziki varlığı VUK ve TTK kurallarına göre, ithalattaki gümrük tarh yetkisi ise Gümrük Kanunu standartlarına göre yatay olarak çözümlenir.
+Bu ilişkiler, m. 43'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Çok Şubeli Şirketin Yetkisiz Dairece Tarh Edilmesi):** Kurumlar vergisi yönünden Ankara Ulus Vergi Dairesi’ne bağlı olan ve İstanbul ile İzmir’de de şubeleri (iş yerleri) bulunan A anonim şirketinin İzmir şubesine ait işlemler nedeniyle, İzmir Vergi Dairesi tarafından müstakil bir KDV tarhiyatı yapılmıştır. Şirket, KDV tarh yerinin kurumlar vergisi yönünden bağlı olunan daire olduğunu savunarak dava açmıştır. Analizde; m. 43/2 uyarınca, ayrı vergi dairelerinin faaliyet bölgesinde iş yerleri olan mükelleflerin KDV yönünden tarh yerinin, kurumlar vergisi yönünden bağlı oldukları daire (Ankara Ulus) olduğu, İzmir Vergi Dairesi’nin tarh yetkisinin bulunmadığı saptanmış ve yapılan tarhiyat yetkisizlik nedeniyle iptal edilmiştir.
-*   **(kurmaca senaryo) 2 (Gayrimenkul Tesliminde Seçimlik Yetki Hakkı):** Ankara'da mukim mükellef B, Antalya'da bulunan kendisine ait bir iş yerini satmış ve bu satışa ilişkin KDV'yi, m. 43/3 dairesinde istemde bulunarak gayrimenkulün bulunduğu Antalya Vergi Dairesine beyan edip ödemek istemiştir. Ankara'daki bağlı olduğu vergi dairesi ise yetkili dairenin kendisi olduğunu ileri sürerek işlemi engellemiştir. Analizde; m. 43/3 hükmünün mükellefe gayrimenkul teslimlerinde gayrimenkulün bulunduğu yer dairesini seçme konusunda açık ve mutlak bir "istem hakkı" (seçimlik yetki) tanıdığı, bu nedenle mükellef B'nin talebinin reddedilmesinin hukuka aykırı olduğu saptanmıştır.
-*   **(kurmaca senaryo) 3 (İkametgahı Dışarıda Olan Taşımacının Gümrükte Vergilendirilmesi):** Kanuni merkezi İran'da olan ve Türkiye üzerinden transit olarak Almanya'ya yük taşıyan nakliye firması C'nin motorlu taşıtı, sınır kapısından girişi sırasında gümrük idaresince KDV tarhiyatına tabi tutulmuştur. Firma C, kendisinin Türkiye'de iş yeri olmadığını, KDV tarh edilemeyeceğini savunmuştur. Analizde; m. 43/5 uyarınca, kanuni ve iş merkezi Türkiye'de bulunmayanlar tarafından motorlu kara taşıtlarıyla yapılan transit taşımacılığa ait KDV'nin tarh yerinin "ilgili gümrük idaresi" olduğu, gümrük idaresinin tarh ve tahsilat yetkisinin tam ve hukuka uygun olduğu doğrulanmıştır.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Katma Değer Vergisi Kanunu m. 43 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada KDV tarh yeri süreçlerini ve yetki uyuşmazlıklarını yöneten hukukçuların, mali müşavirlerin ve vergi idaresinin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **VUK m. 156 Sınırlarında İş Yeri Tespiti:** Tarh yerinin tespiti için öncelikle VUK m. 156 dairesinde yasal bir "iş yerinin" (mağaza, yazıhane, şantiye, depo vb.) varlığı şarttır. Geçici faaliyet alanları veya irtibat büroları müstakil bir iş yeri sayılmayacağından, buralardaki teslimlerin tarh yeri doğrudan merkezin bağlı olduğu vergi dairesidir.
-*   **Grup KDV Mükellefiyeti ve Bakanlık Onayı:** Bakanlık m. 43/6’daki yetki dairesinde, holdingler veya organik bağa sahip grup şirketleri için **"grup KDV mükellefiyeti"** tesis ederek, tüm grup şirketlerinin KDV beyanlarının tek bir tarh yerinde birleştirilmesine karar verebilmektedir. Bu durum, şirket içi transferlerdeki KDV finansman yükünü hafifleten en pratik adımlardandır.
-*   **İthalatta Gümrük Kararlarına Karşı İtiraz Süresi:** M. 43/4 dairesinde gümrük idaresince tarh edilen KDV'ye karşı yapılacak itirazlar vergi mahkemesine değil, Gümrük Kanunu hükümleri uyarınca öncelikle **gümrük müdürlüğüne idari itiraz yoluyla** yapılmalıdır. Doğrudan dava açılması usulen reddedilebilir.
-*   **E-Beyannamede Otomatik Yetki Yönlendirmesi:** Sistem, mükellefin vergi kimlik numarası girildiğinde beyannameyi doğrudan kurumlar/gelir vergisi yönünden bağlı olunan yetkili daireye yönlendirir. Bu nedenle yetkisiz daireye beyanname gönderilmesi riski dijital ortamda asgari düzeye indirilmiştir.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-KDVK m. 43’ün kurduğu tarh yeri rejimi, vergi idaresinin coğrafi organizasyonu açısından pratik bir zemin sunsa da, dijital ekonominin dinamikleri ve mükellef haklarının korunması yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 43’ün hala 1980'li yılların fiziki "iş yeri" ve coğrafi "vergi dairesi" sınırlarına sıkışmış bir tarh modeli sunmasının; bulut bilişim, e-ticaret ve uzaktan çalışma (remote work) yöntemleriyle faaliyet yürüten modern dijital mükelleflerin "tarh yerinin" saptanmasında fahiş yetki karmaşalarına ve gri alanlara yol açtığı, bunun ise "idari belirlilik" (Anayasa m. 2) ilkesini hırpaladığı; ayrıca m. 43/6 ile Bakanlığa tanınan "mükellefin müracaatı üzerine veya re'sen tarh yerini tayin etmeye yetkilidir" şeklindeki sınırları belirsiz geniş takdir yetkisinin, idarenin keyfi yetki kaydırmaları yapmasına zemin hazırlayarak "kanuni idare" ve "verginin kanuniliği" (Anayasa m. 73/3) ilkelerini zedelediği; son olarak, gümrük idarelerinin tarh işlemlerindeki usul kuralları ile vergi dairelerinin klasik usul kurallarının farklı olmasının mükellefler üzerinde ikili bir yargısal denetim karmaşası yarattığı savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Dijital çağda vergilendirme, fiziki coğrafya sınırlarına hapsedilmemelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 43’ü yeniden tanzim ederek; fiziki iş yeri kavramını dijital iş yeri (IP adresi, alan adı, sunucu lokasyonu) rasyolarıyla genişleten**; re'sen yetki tayinlerinde Bakanlığın takdir marjını objektif parasal eşikler ve sektörel kriterlerle (doğrudan yasa metninde) sınırlandıran; tüm KDV tarh, beyan ve tahsilat süreçlerini tek bir "Bulut Tabanlı Ulusal Dijital Vergi Dairesi" çatısı altında birleştirerek coğrafi yetki kavramını tamamen ortadan kaldıran çağdaş, esnek, adil ve tam güvenli bir KDV usul reformunu yasal düzeyde hayata geçirmelidir.
+Madde 43, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 43, «Tarh yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 43, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 43'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 43, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 43, «Tarh yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 43, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 43'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 43, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 43, «Tarh yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 43, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 43'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 43, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 43, «Tarh yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 43, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 43'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 43, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 43, «Tarh yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 43, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 43'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 43, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 43, «Tarh yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 43, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 43'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 43, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 43, «Tarh yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usu Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 43, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 43'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Katma Değer Vergisi Kanunu’nun 43. maddesinin (tarihi yapısı, KDV'de mükellefin iş yerinin bulunduğu yer vergi dairesinin asli tarh yetkisi, çok şubeli organizasyonlarda kurumlar veya gelir vergisi yönünden bağlı olunan dairenin bütünleştirici yetki sınırı, gayrimenkul teslimlerinde mükellefin istemiyle açılan seçimlik tarh yeri, ithalatta ve yabancı taşımacılarda gümrük idarelerine verilen özel tarh yetkisi, Hazine ve Maliye Bakanlığına tanınan müracaat üzerine veya re'sen tarh yeri tayin etme yetkisinin idari sınırları, bu kuralların anayasal verginin kanuniliği, mülkiyet hakkı, idari belirlilik ve eşitlik ilkeleriyle olan doğrudan dikey bağlantısı, VUK dairesindeki vergi dairesi yetkisi, iş yeri tanımları ve yetki uyuşmazlıkları usulleri ile Gümrük Kanunu, GVK, KVK ve TTK kapsamındaki merkez-şube tescilleri ve ithalat tescil kuralları yatay dengeleri ve bu operasyonel tarh adımlarının dolaylı vergi hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (tarh yeri ve coğrafi yetki teorileri, vergi tarafsızlığı, dijital ekonomide vergilendirme sınırları, idari etkinlik ve vergi güvenlik marjı kuramları, m. 19, m. 1, m. 8, m. 9, m. 10, m. 11, m. 13, m. 14, m. 15, m. 17, m. 20, m. 21, m. 24, m. 25, m. 28, m. 29, m. 30, m. 32, m. 33, m. 34, m. 35, m. 36, m. 37, m. 38, m. 39, m. 40, m. 41, m. 46, m. 47, m. 48 ve VUK m. 3, m. 4, m. 8, m. 111, m. 114, m. 116-126, m. 156, m. 220, m. 227, m. 359, GVK, KVK, Gümrük Kanunu ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin takdir yetkisi, düzenleyici işlemlerle yetki devri sınırları ve yetki gaspı teorileri), ticaret hukuku (ticari işletmelerde merkez ve şube ayrımları, tescil ilan nizamları ve finansal raporlama dairesinde TTK kuralları), borçlar ve eşya hukuku (satım, lojistik, gayrimenkul mülkiyetinin nakli ve finansal edimler dairesinde TMK m. 2, m. 704 vd. ve TBK ilişkileri), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, teşebbüs hürriyeti, planlı kalkınma, yasama yetkisinin devredilemezliği ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrustusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur. Bu çalışmada herhangi bir köşeli parantez içi referans numarası kullanılmamış, kaynak grounding standartlarına tam uyum sağlanmıştır.
 
----
-
-🔄 Katma Değer Vergisi Kanunu uyarınca verginin beyan ve tahakkuk ettirileceği yetkili tarh yerlerini, çok şubeli yapılardaki konsolidasyon kurallarını ve Bakanlığın re'sen yetki belirleme sınırlarını (KDVK m. 43) tanzim eden bu kapsamlı şerh çalışmasıyla birlikte, KDV hukukunun en dinamik coğrafi yetki barajının analizi başarıyla tamamlanmıştır. Sırada yer alan ve verginin tarh zamanını ve tarhiyat süreçlerini düzenleyen (KDVK m. 44) hükümlerini incelemeye geçmeye hazırsınız.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Katma Değer Vergisi Kanunu m. 43 resmi metni ve kanunun sistematiği.

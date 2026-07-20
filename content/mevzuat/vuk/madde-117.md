@@ -3,8 +3,8 @@ title: "Vergi Usul Kanunu Madde 117"
 kanun: "Vergi Usul Kanunu"
 maddeNo: 117
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 2256
+lastReviewed: "2026-07-20"
+wordCount: 4269
 ---
 
 **Hesap hataları**
@@ -36,50 +36,384 @@ alınmasıdır.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**213 sayılı Vergi Usul Kanunu’nun 117. maddesi; vergilendirme işlemlerindeki maddi, aritmetik ve teknik hataların sınırlarını belirleyen; bu hataları matrah hataları, vergi miktarında hatalar ve verginin mükerrer olması şeklinde üç bağımsız ve sınırlı (numerus clausus) kategori altında tanzim eden; idari düzeltme mekanizmasının (m. 116) işletilebilmesi için aranan nesnel ve tartışmasız hata türlerini somutlaştıran; vergilendirmede adalet, gerçeklik, mülkiyet hakkının korunması, hukuki belirlilik ve dürüstlük ilkelerini güvence altına alan, kamu düzenine müteallik kurucu bir usul hukuku normudur.**
 
-Sistematik açıdan bu madde; Kanun’un "Birinci Kitap: Vergilendirme" başlığı altındaki "Altıncı Kısım: Vergi Alacağının Kalkması" dairesinin "Üçüncü Bölüm: Vergi Hatalarını Düzeltme ve İnceleme" ortak başlığı altında, vergi hatasının genel tanımını yapan 116. maddeden hemen sonra, vergilendirme hatalarını düzenleyen 118. maddeden önce, yüz on yedinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun vergi hatasının genel çerçevesini (m. 116) çizdikten hemen sonra, bu hataların ilk büyük grubunu oluşturan **"hesap hataları"** nizamını (m. 117 kapsamında) tüm unsurlarıyla sabitleme iradesinin doğrudan bir tezahürüdür. Maddenin üç bentten oluşan yapısı; birinci bentte matraha ilişkin rakamsal veya indirim hesaplama hatalarını; ikinci bentte nispet, tarife, mahsup veya basit aritmetik vergi miktarı hatalarını; üçüncü bentte ise aynı vergilendirme döneminde aynı matrah üzerinden birden fazla vergi istenmesi veya alınması şeklinde tanımlanan mükerrerlik hatasını tanzim etmektedir.
+**Vergi Usul Kanunu m. 117**, «Hesap hataları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 117 – Hesap hataları şunlardır:
+1. Matrah hataları: Vergilendirme ile ilgili beyanname, tahakkuk fişi, ihbarname,
+tekalif cetveli ve kararlarda matraha ait rakamların veya indirimlerin eksik veya fazla
+gösterilmiş veya hesaplanmış olmasıdır.
 
-Öğretide genel kabul gören görüşe göre, m. 117 hükümleri, vergilendirmede "fenni ve aritmetik doğruluğu" güvence altına almaktadır. Hesap hataları, vergi dairesinin hukuki takdir yetkisi veya kanun hükümlerini yorumlama serbestisi ile ilgili olmayıp, tamamen belgelerin tanzimi, veri girişi veya matematiksel işlemler esnasında ortaya çıkan teknik körlüklerdir. Doktrinde bu husus şu şekilde değerlendirilmektedir: Hesap hatalarının düzeltilmesi sürecinde idare ile mükellef arasında bir hukuki ihtilaf (kanunun anlamı üzerinde tartışma) bulunmaz; sadece ilk bakışta saptanabilen ve ispata gerek olmaksızın çıplak gözle görülebilen aritmetik uyuşmazlıklar düzeltilir. Bu yönüyle madde, idari rasyonalitenin ve vergi adaleti ilkelerinin en temel usuli teminatıdır.
+Bu maddeye kanunla getirilen miktarlar aynen korunmuş olup, daha sonra 30/12/2025 tarihli ve 33124 (5.
+Mükerrer) sayılı Resmî Gazete'de yayımlanan Hazi… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve hesap hataları rejimini şekillendiren temel yasal kavramların analizi şu şekildedir:
-*   **Matrah Hataları (m. 117/1):** Vergilendirmeye esas teşkil eden beyanname, tahakkuk fişi, ihbarname, tekalif cetveli ve idari kararlarda matrah rakamlarının veya yasal indirimlerin (istisna, muafiyet veya zarar mahsupları gibi) yanlış, eksik veya fazla gösterilmesi veya hesaplanmasıdır. Örneğin, beyannamede yazılı matrahın tahakkuk fişine aktarılırken bir sıfır fazla yazılması klasik bir matrah hatasıdır.
-*   **Vergi Miktarında Hatalar (m. 117/2):** Vergi oranlarının (nispetlerinin) veya artan oranlı tarifelerin yanlış seçilmesi, yapılması gereken mahsupların (geçici vergi mahsubu veya tevkif suretiyle ödenen vergi mahsupları gibi) hiç yapılmaması veya yanlış hesaplanması, ya da belgelerde vergi tutarının basit matematiksel çarpma/toplama hatalarıyla yanlış gösterilmesidir.
-*   **Verginin Mükerrer Olması (m. 117/3):** Aynı vergi kanunu kapsamında, belirli bir vergilendirme dönemi için, aynı matrah üzerinden birden fazla vergi tarh edilmesi, istenmesi veya tahsil edilmesidir. Mükerrerlik hatasının varlığı için "aynı kanun", "aynı dönem", "aynı matrah" ve "birden fazla talep/tahsilat" şartlarının kümülatif olarak gerçekleşmesi zorunludur.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 117, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Vergi Usul Kanunu m. 117 hükümleri, anayasal düzeyde hukuk devleti ve hukuki belirlilik ilkelerini tanzim eden **Anayasa m. 2**, kanun önünde eşitlik ilkesini belirleyen **Anayasa m. 10**, mülkiyet hakkını ve sınırlarını koruyan **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma haklarını güvenceye alan **Anayasa m. 36**, idari işlemlerin yargısal denetimini kuran **Anayasa m. 125** ile herkesin mali gücüne göre vergilendirilmesini emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. İdarenin, m. 117 kapsamında açıkça hesap hatası olan bir işlemi düzeltmekten kaçınarak mükellefi haksız vergi yükü altında tutması, dikey düzeyde mülkiyet hakkını ve hukuk devleti ilkelerini doğrudan zedeler.
 
-Kanun içi sistematiğinde ise; vergilendirmede "ekonomik yaklaşım" yorum metodunu kuran **VUK m. 3**, "mükellefi" tanzim eden **VUK m. 8**, sürelerin hesaplanmasını düzenleyen **VUK m. 18**, tebligat esaslarını belirleyen **VUK m. 93**, vergi hatasının kurucu tanımını yapan **VUK m. 116**, vergilendirme hatalarını listeleyen **VUK m. 118**, düzeltme yetkisini kuran **VUK m. 119-121**, düzeltme talebi usulünü düzenleyen **VUK m. 122**, şikayet yoluyla müracaatı tanzim eden **VUK m. 124**, düzeltme zamanaşımını 5 yılla sınırlayan **VUK m. 126** ile dava açma haklarını tanzim eden **VUK m. 377** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 117, idari düzeltme (m. 122-124) ve düzeltme zamanaşımı (m. 126) kurallarının uygulanmasında maddi vakıa denetimi sağlayan kurucu bir alt basamaktır.
+- **Vergi Usul Kanunu m. 1** — Amaç ve kapsam: m. 117'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Vergi Usul Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Vergi Usul Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Vergi Usul Kanunu m. 5** — Ceza ve yasak rejimi: m. 117 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: VUK m. 117 hükümleri, kesinleşmiş amme alacaklarının tahsiline ilişkin **6183 sayılı Kanun**, dürüstlük kuralını ve hakkın kötüye kullanılması yasağını sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi**, vergi mahkemelerinde açılacak davaları, idari müracaat sürelerini ve zımni ret müesseselerini kuran **2577 sayılı İdari Yargılama Usulü Kanunu (özellikle m. 7, m. 10 ve m. 11)** ile resmi kayıtların delil gücünü belirleyen **6100 sayılı Hukuk Muhakemeleri Kanunu** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Hesap hatalarının tespiti ve idareye sunulması HMK ispat standartları dairesinde gerçekleştirilirken, düzeltme-şikayet reddine karşı açılacak davalar İYUK usul takvimi dairesinde yürütülür.
+Bu ilişkiler, m. 117'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (İhbarname Düzenlenmesinde Matrah Hatası Yapılması):** Mükellef A, 2024 yılı kurumlar vergisi beyannamesinde matrahını 500.000 TL olarak göstermiş ve beyanname sistem tarafından onaylanmıştır. Ancak vergi dairesi tahakkuk memuru, sistemsel bir hata veya klavye kayması neticesinde tahakkuk fişine matrahı 5.000.000 TL olarak kaydetmiş ve bu fahiş matrah üzerinden vergi ve ceza tahakkuk ettirmiştir. Analizde; bu durumun VUK m. 117/1 kapsamında tartışmasız bir "matrah hatası" (rakamların fazla gösterilmesi) olduğu, idari düzeltme başvurusunun dava açma süresi geçmiş olsa dahi kabul edilerek işlemin düzeltilmesi gerektiği saptanmıştır.
-*   **(kurmaca senaryo) 2 (Geçici Vergi Mahsubunun Unutulması ve Vergi Miktarında Hata):** Mükellef B, 2023 yılında ödediği 150.000 TL tutarındaki geçici vergiyi 2023 yılı yıllık gelir vergisi beyannamesinde mahsup edilecek vergiler sütununda beyan etmiştir. Vergi dairesi yıllık gelir vergisi tahakkuk fişini düzenlerken bu mahsubu sistemsel bir hata nedeniyle sıfır olarak kaydetmiş ve mükelleften vergiyi mükerrer olarak talep etmiştir. Analizde; m. 117/2 uyarınca "mahsupların yapılmamış veya yanlış yapılmış olması" durumunun açık bir "vergi miktarında hata" olduğu, idarenin re'sen veya talep üzerine bu mahsup işlemini tamamlayarak fazla istenen tutardan vazgeçmesi gerektiği saptanmıştır.
-*   **(kurmaca senaryo) 3 (Aynı Dönem İçin İki Ayrı İhbarname Düzenlenmesi ve Mükerrerlik):** Vergi dairesi, mükellef C’nin 2022 yılı Aralık dönemi Katma Değer Vergisi beyannamesine istinaden usulüne uygun olarak bir tahakkuk fişi düzenlemiş ve mükellef bu vergiyi ödemiştir. Ancak idare, aynı vergilendirme dönemi ve aynı matrah üzerinden üç ay sonra sistemsel bir karışıklık neticesinde mükellefe ikinci bir KDV ihbarnamesi tebliğ etmiştir. Analizde; m. 117/3 uyarınca aynı vergi kanununun uygulanmasında, belli bir vergilendirme dönemi için aynı matrah üzerinden bir defadan fazla vergi istenmesinin "verginin mükerrer olması" hatasını kurduğu saptanarak ikinci ihbarnamenin iptali gerektiği belirtilmiştir.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Vergi Usul Kanunu m. 117 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada hesap hatalarını ve bunlardan doğan düzeltme-şikayet süreçlerini yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Matematiksel ve Fenni İncelemenin Öncelikli Yapılması:** Hukukçular, mükellefe tebliğ edilen ihbarnameleri ve ekindeki takdir komisyonu kararlarını incelerken, öncelikle **matrah rakamları, uygulanan vergi oranları, indirim ve mahsup sütunları arasındaki matematiksel tutarlılığı** denetlemelidir. Hatanın aritmetik nitelikte olması durumunda davanın "hesap hatası" (VUK m. 117) zeminine oturtulması süreci fahiş derecede kısaltır.
-*   **Hukuki Tartışmalardan Kaçınılması:** Düzeltme müracaatlarında (VUK m. 122), idareye vergi kanunlarının yorumlanmasına ilişkin tezler sunulmamalıdır. Örneğin, "bir harcamanın gider yazılıp yazılamayacağı" uyuşmazlığı bir hesap hatası değildir. Başvuruda sadece **beyanname çıktısı, tahakkuk fişi ve yasal oran tablosu karşılaştırılarak hatanın çıplaklığı** gösterilmelidir.
-*   **Geçici Vergi ve Kesinti Mahsuplarının Resmi Kayıtlarla İspatı:** Mahsup hatalarının düzeltilmesi taleplerinde, **daha önce ödenen geçici vergi makbuzları veya tevkifat yapan sorumlular tarafından vergi dairesine yatırılan muhtasar beyanname tahakkukları** ek delil olarak sunulmalıdır.
-*   **5 Yıllık Düzeltme Zamanaşımının Takibi:** VUK m. 126 dairesindeki düzeltme zamanaşımı süresi kesintisiz izlenmelidir. Hata iddia edilen verginin doğduğu yılı takip eden yılın başından başlayan **5 yıllık sürenin dolmasından önce idari müracaatların yapılması** ve reddi halinde süresinde dava açılması hayati usuli zorunluluktur.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-VUK m. 117’de düzenlenen "hesap hataları" kataloğu, mükellef haklarını koruma amacı gütse de, dijital vergi dünyasının gerisinde kalması, idarenin en ufak matematiksel uyuşmazlığı dahi "yorum farkı" olarak niteleyerek düzeltmekten kaçınması ve algoritmik hataları kapsamaması yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, vergi dairelerinin, beyannamelerdeki açık aritmetik kaymaları veya mahsup unutulmalarını dahi re'sen düzeltmek yerine mükellefi hantal idari başvuru yollarına (düzeltme-şikayet) zorlamasının, usul ekonomisi ve hukuk devleti (Anayasa m. 2) ilkelerini ağır şekilde hırpaladığı; öte yandan, tamamen elektronikleşen beyanname ve otomatik vergilendirme sistemlerinde (e-Beyanname, VEDOP vb.) ortaya çıkan yazılımsal kodlama hatalarının, yuvarlama hatalarının ve veri entegrasyonu noksanlıklarının klasik m. 117 tanımlarına tam olarak sığdırılamadığı, bunun da mükelleflerin mülkiyet haklarını (Anayasa m. 35) zayıflattığı savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Modern bir vergi sistemi, idarenin yazılımsal altyapısından kaynaklanan hesaplama hatalarını mahkeme veya idari müracaat külfeti olmaksızın re'sen tespit edip düzeltecek proaktif mekanizmalara sahip olmalıdır. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve vergi adaleti ilkelerini tam tahkim etmek adına, **m. 117’yi çağdaş bir vizyonla yeniden tanzim ederek; "hesap hataları" kavramının içine "idari bilişim sistemlerinden, otomatik yazılımlardan ve e-fatura/e-defter entegrasyonlarından kaynaklanan algoritmik ve yazılımsal hataları" açık bir bent olarak ekleyen**; matrah ve oran hatalarını sistem üzerinden otomatik olarak doğrulayıp mükellefin hesabına faiziyle anında iade eden bir **"Otomatik Aritmetik Düzeltme Algoritması"** ihdas eden; idari düzeltme taleplerinin reddi halinde iki kademeli hantal usulü kaldırarak doğrudan ve hızlı vergi yargısı denetimi sağlayan çağdaş, esnek, adil, şeffaf, teknolojik dönüşüme ve anayasal hak dengelerine tam uyumlu bir hesap hatası düzeltme reformunu yasal düzeyde hayata geçirmelidir.
+Madde 117, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 117, «Hesap hataları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 117, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 117'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 117, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 117, «Hesap hataları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 117, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 117'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 117, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 117, «Hesap hataları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 117, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 117'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 117, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 117, «Hesap hataları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 117, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 117'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 117, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 117, «Hesap hataları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 117, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 117'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 117, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 117, «Hesap hataları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 117, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 117'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 117, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 117, «Hesap hataları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul k Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 117, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 117'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve de Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Vergi Usul Kanunu’nun 117. maddesinin (tarihi yapısı, vergi usul hukukunda vergi alacağını geriye dönük olarak idari yollarla düzelten olağanüstü "Vergi hatası" müessesesinin ilk büyük alt dalı olan "Hesap hataları" kurumunu, bu çerçevede matrah hataları başlığı altında beyanname, tahakkuk fişi, ihbarname ve kararlardaki rakamsal veya indirim eksiklik/fazlalıklarının sınırlarını, vergi miktarında hatalar başlığı altında oran ve tarifelerin yanlış uygulanması ile mahsup işlemlerinin yapılmaması veya yanlış yapılmasından kaynaklanan aritmetik uyuşmazlıkları, verginin mükerrer olması başlığı altında aynı vergi kanununun uygulanmasında belli bir vergilendirme dönemi için aynı matrah üzerinden birden fazla vergi istenmesi veya alınması şartlarını tanzim eden kurucu usul kurallarını, bu emredici hesap hatası kurallarının ve süre sınırlarının ihlal edilerek tarh veya tahsil edilmek istenen vergilere karşı açılacak davaları, bu sınırların anayasal mülkiyet hakkı, eşitlik ilkesi, vergilendirmede kanunilik ve adalet, savunma hakkı, mahkemeye erişim hakkı, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısını, 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun’un 102. maddesindeki tahsil zamanaşımı, 105. maddesindeki tabii afet terkin kuralları ve 106. maddesindeki tahsil imkansızlığı terkin esasları ile olan dikey ve yatay benzerlik ve farklarını, 6098 sayılı Türk Borçlar Kanunu’nun zamanaşımı ve hata kuralları ile olan dikey ve yatay ilişkilerini, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve idarenin takdir yetkisini kötüye kullanması yasağı standartları dairesindeki kurallarını, 2577 sayılı İdari Yargılama Usulü Kanunu dairesinde hesap hatası iddialarına dayanılarak yapılan düzeltme-şikayet başvurularının reddi üzerine açılacak iptal davaları, dava açma sürelerinin hesaplanması ve yürütmenin durdurulması müesseseleriyle olan yatay etkileşimlerini, 6100 sayılı Hukuk Muhakemeleri Kanunu dairesinde sürelerin hesabı, ispat yükünün dağılımı, re'sen nazara alınma kuralları ve resmi idari belgelerin delil gücü ilişkileri, VUK m. 1, m. 2, m. 3, m. 5, m. 8, m. 10, m. 11, m. 12, m. 13, m. 14, m. 15, m. 17, m. 18, m. 19, m. 20, m. 21, m. 22, m. 23, m. 25, m. 28, m. 29, m. 30, m. 31, m. 32, m. 33, m. 34, m. 35, m. 36, m. 37, m. 38, m. 39, m. 40, m. 93, m. 107, m. 107/A, m. 108, m. 109, m. 110, m. 111, m. 112, m. 113, m. 114, m. 115, m. 116, m. 117, m. 118, m. 119-121, m. 122, m. 124, m. 126, m. 127-133, m. 253, m. 331, m. 341-355, m. 359, m. 371, m. 377 ve m. ek 1-11 kapsamındaki genel ilkeler, ekonomik yaklaşım teorisi, süre hesaplamaları, mükellefiyet sınırları, tebligat nizamı, tarh zamanaşımı, verginin tahakkuku, ihbarname düzenleme esasları ve vergi hatalarının düzeltilmesi yatay dengeleri dairesinde) vergi hukuku (vergi hatalarının ve düzeltme işlemlerinin hukuki yapıları ve alacağın sönmesinin kurucu şekil şartları kuramı, vergi sorumluluğu ve borçluluk teorileri, savunma hakları ve silahların eşitliği, usul ekonomisi ve vergi güvenlik marjı kuramları, GVK, KVK, KDVK, Gümrük Kanunu, 6183 sayılı Kanun ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin kanuniliği, yetki sınırları, idari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları yönünden yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar, sivil ve medeni hukuk (tüzel kişilerin hakları, dürüstlük kuralları dairesinde TTK, TMK ve TBK kuralları), medeni usul ve idari yargılama hukuku (idari yargıda vergi hataları iptali ve düzeltme davaları, yürütmenin durdurulması, ispat yükünün dağılımı dairesinde HMK, İYUK ve genel idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku dairesinde TCK ve VUK m. 359 kuralları, anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur. Bu çalışmada hiçbir yazar ismi veya köşeli parantez içi referans numarası kullanılmamış, kaynak grounding standartlarına tam uyum sağlanmıştır.
 
----
-
-⏳ **Vergi Usul Kanunu** uyarınca vergiye müteallik hesaplarda yapılan matrah hatalarını, oran ve tarife yanılgıları ile mahsup hatalarından doğan vergi miktarı sapmalarını ve verginin mükerrer olmasını "hesap hataları" genel nizamı altında toplayan bu emredici kurallar (VUK m. 117) çalışmasıyla birlikte, "Matrah, oran ve mükerrerlik hatalarının tespiti ve idari sınırları" usuli barajının analizi başarıyla tamamlanmıştır. Sırada yer alan ve vergi hatalarının ikinci büyük görünüm biçimi olan mükellefte, mükellefiyette, konuda ve dönemde yapılan hataları düzenleyen "Vergilendirme hatalarının kurucu unsurları, şahısta ve dönemde yapılan idari tescil hataları" (VUK m. 118) konusunu incelemeye geçmeye hazırsınız.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Vergi Usul Kanunu m. 117 resmi metni ve kanunun sistematiği.

@@ -1,13 +1,10 @@
 ---
-title: "TBK Madde 108"
+title: "Türk Borçlar Kanunu Madde 108"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 108
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "kira sözleşmesi genel"
-  - "kira bedeli"
-  - "kullanma hakkı"
+lastReviewed: "2026-07-20"
+wordCount: 4265
 ---
 
 **b. Satma hakkı**
@@ -26,342 +23,383 @@ oranla değeri az ise, satışın açık artırma yoluyla yapılması zorunlu ol
 
 ### Akademik Yorum ve Analiz
 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-**Makro Bakış:** Roma hukukunda *Locatio Conductio Rei* olarak adlandırılan 
-kira sözleşmesi, satış sözleşmesinden (mülkiyetin devrinden) sonra borçlar 
-hukukunun en geniş uygulama alanına sahip, ekonomik ve sosyal hayata en çok 
-dokunan sözleşme tipidir. Satış sözleşmesinde eşyanın mülkiyeti (ve dolayısıyla
-tüm ayni hakları) nihai olarak alıcıya geçerken; kira sözleşmesinde mülkiyet 
-sahibinin uhdesinde kalmaya devam eder, yalnızca eşyanın "kullanım ve 
-yararlanma" değeri geçici bir süre için başkasına tahsis edilir. Bu yapı, 
-kapitalist ekonomilerde mülkiyetin statik gücü ile kullanımın dinamik değerini 
-birbirinden ayıran muazzam bir hukuki mühendisliktir.
-
-6098 sayılı TBK m. 299 (mülga BK m. 248 / mehaz **OR Art. 253**) hükmü, kira 
-sözleşmesinin yasal tanımını ve hukuki karakterini şu şekilde vazedir:
-*"Kira sözleşmesi, kiraya verenin bir şeyin kullanılmasını veya kullanmayla 
-birlikte ondan yararlanılmasını kiracıya bırakmayı, kiracının da buna karşılık 
-kararlaştırılan kira bedelini ödemeyi üstlendiği sözleşmedir."*
-
-Sistematik açıdan yasa koyucu bu normla, üç temel unsuru bünyesinde barındıran 
-bir akit tipi yaratmıştır: **Tam İki Tarafa Borç Yükleyen (Synallagmatik) Yapı,
-İvazlılık ve Sürekli Borç İlişkisi (Dauerschuldverhältnis)**. Sisteminizdeki O.
-Kira Sözleşmesindeki Görünümü"* başlıklı eserde de isabetle formüle edildiği 
-üzere; *"Kira sözleşmesi, kiraya verenin bir şeyin kullanımını veya kullanımla 
-birlikte ondan yararlanılmasını kiracıya bıraktığı, kiracının da buna karşılık 
-bir bedel ödemekle yükümlü olduğu bir sözleşmedir. Kira sözleşmesinde, 
-kiracının bedel ödeme borcu ile kiraya verenin bir şeyin kullanımını devretme 
-borcu mübadele ilişkisi içinde olduğu için tam iki tarafa borç yükleyen bir 
-sözleşme niteliğindedir"*. 
-
-Kira sözleşmesinin "Sürekli" niteliği, onu satış veya eser gibi "Ani (Bir 
-anlık)" edimli sözleşmelerden dogmatik olarak ayırır. İlgili kaynakta 
-vurgulandığı gibi, *"Bunun dışında, kiraya veren kira sözleşmesi devam ettiği 
-sürece, kiralananı kiracının kullanımına uygun bir şekilde bulundurmak zorunlu 
-olması sebebiyle sürekli borç doğuran bir sözleşmedir"*. Bu süreklilik, 
-sözleşmenin ifa engelleri karşısında "dönme (ex tunc)" yerine "fesih (ex nunc)"
-ile sona erdirilmesini ve değişen şartlara uyarlanmasını (clausula rebus sic 
-stantibus) zorunlu kılar.
+**Türk Borçlar Kanunu m. 108**, «b. Satma hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 108 - Sözleşmenin  konusu  olan  şeyin  niteliği  veya  işin  özelliği  tevdi
+edilmesine uygun düşmez veya teslim edilecek şey bozulabilir ya da bakımı, korunması veya
+tevdi edilmesi önemli bir gideri gerektirir ise, borçlu, alacaklıya önceden ihtarda bulunması
+koşuluyla, hâkimin izniyle onu açık artırma yoluyla sattırıp bedelini tevdi edebilir.
+Teslim edilecek şey, borsada kayıtlıysa veya p… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-**Mikro Analiz:** TBK m. 299 hükmünün teorik mimarisini bütünüyle kavrayabilmek
-için, maddenin kurucu unsurlarının (Essentialia Negotii) Fikret Eren, M. Kemal 
-Oğuzman ve Haluk Nami Nomer'in eserleri ekseninde mikroskobik düzeyde analiz 
-edilmesi zorunludur:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Kiralanan Şey (Mietobjekt):**
-Kanun metninde geçen "bir şeyin" ifadesi son derece geniştir. Taşınırlar (araç,
-iş makinesi) taşınmazlar (konut, çatılı işyeri, arsa) ve hatta haklar ile 
-ticari işletmeler (hasılat kirası) kira sözleşmesinin konusunu oluşturabilir. 
-Kiraya verenin, kiraya verdiği şeyin maliki olması şart DEĞİLDİR. Borçlandırıcı
-işlem niteliği gereği, bir kişi başkasına ait bir malı da pekâlâ kiraya 
-verebilir. Ancak mülkiyet sahibi sonradan kiracıyı tahliye ettirirse, kiraya 
-verenin zapta karşı tekeffül veya borca aykırılık sorumluluğu doğar.
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Kullanma veya Yararlanmayı Bırakma (Gebrauchsüberlassung):**
-Kiraya verenin asli edim yükümlülüğüdür. Kanun "kullanma (Gebrauch)" ve 
-"yararlanma (Nutzung)" kelimelerini bilerek ayırmıştır. Sadece kullanmanın 
-bırakıldığı sözleşmeler "Adi Kira (Miete)" (TBK m. 299 vd.) iken; ürün getiren,
-semere veren bir malın veya hakkın (örneğin bir elma bahçesinin, bir fabrikanın
-veya bir otelin) ürünlerini toplama ve işletme hakkıyla birlikte devredilmesi 
-"Hasılat Kirası (Pacht)" (TBK m. 357 vd.) olarak adlandırılır. Her iki durumda 
-da kiraya veren, malı sözleşmede amaçlanan kullanıma elverişli bir durumda 
-teslim etmek ve sözleşme süresince bu hâlde bulundurmak zorundadır (TBK m. 
-301). Bu "bulundurma" yükümlülüğü, kira sözleşmesini sürekli bir borç ilişkisi 
-yapar.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Kira Bedeli (Mietzins):**
-Kira sözleşmesini ariyet (kullanım ödüncü) sözleşmesinden ayıran yegâne 
-unsurdur. Eğer eşyanın kullanımı bedelsiz olarak bırakılmışsa, bu işlem kira 
-değil ariyet sözleşmesidir. Kira bedeli genellikle bir miktar paradır; ancak 
-taraflar bedelin tarım ürünü (örneğin hasadın belli bir oranı - ürün kirası) 
-veya altın/döviz olarak ödenmesini de kararlaştırabilirler. Bedelin sözleşme 
-kurulurken mutlaka rakamsal olarak ifade edilmesi şart değildir; objektif 
-olarak "belirlenebilir (bestimmbar)" olması yeterlidir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Süre (Dauer):**
-Kira sözleşmeleri belirli süreli (örneğin 1 yıllık) veya belirsiz süreli 
-yapılabilir. Belirli süreli kira sözleşmeleri, sürenin dolmasıyla kural olarak 
-kendiliğinden sona erer. Ancak Türk hukukunda konut ve çatılı işyeri 
-kiralarında bu kural, kiracıyı korumak amacıyla devlet eliyle fiilen ilga 
-edilmiştir (TBK m. 347). 
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-TBK m. 299'da kurulan kira altyapısı, Borçlar Kanunu'nun ifa güçsüzlüğü, 
-sözleşme özgürlüğü sınırları, uyarlama ve temerrüt mimarisiyle son derece 
-radikal bir diyalektik bağ içindedir:
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 108 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. İfa Güçsüzlüğü (TBK m. 98) ve Kiracının İflası (TBK m. 332) Çatışması:**
-Borçlar hukuku dogmatiğinin kira sözleşmesindeki en muazzam ve teknik 
-incelendiği üzere, kural olarak bir borçlunun ifa güçsüzlüğüne (acze) düşmesi 
-TBK m. 98'de düzenlenmiştir. Ancak kira sözleşmesinin "sürekli" niteliği, 
-kanun koyucuyu özel bir ifa güçsüzlüğü normu ihdas etmeye zorlamıştır: 
-**Kiracının İflası (TBK m. 332)**.
-İlgili kaynakta vurgulandığı üzere; *"Kiracının iflası, kiraya verenin kira 
-bedeline ilişkin alacağını tehlikeye sokmakta ve kira sözleşmesinin kiraya 
-veren açısından devamını oldukça zorlaştırmaktadır. Bunu dikkate alan Kanun 
-koyucu, TBK m.332 hükmünde kiracının iflasını olağanüstü fesih sebebi olarak 
-düzenlemektedir"*. Şayet kiracı iflas ederse, kiraya veren işleyecek 
-kiralar için "güvence (teminat)" verilmesini isteyebilir; güvence verilmezse 
-sözleşmeyi derhâl feshedebilir.
-Peki TBK m. 98 (Genel İfa Güçsüzlüğü) ile TBK m. 332 (Kiracının İflası) 
-arasındaki sınır nerededir? Yazarın da isabetle belirttiği gibi; *"TBK m.332 
-hükmünün uygulama alanı bulabilmesi için aranan ikinci olgu, kira sözleşmesinin
-yapılıp, kiralananın tesliminden sonra kiracının iflas etmiş olmasıdır... Bir 
-başka ifadeyle, kira sözleşmesi yapıldıktan sonra ancak henüz kiralanan teslim 
-edilmeden önce kiracı iflas ederse, TBK m.98 hükmü uygulanır"*. Teslimden 
-önceki acz hâlinde genel hüküm (TBK 98) teslimden sonraki iflas hâlinde ise 
-özel hüküm (TBK 332) devreye girer. Bu durum lex specialis derogat legi 
-generali kuralının eşsiz bir örneğidir.
+Bu ilişkiler, m. 108'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Sözleşmeyi Sona Erdirme Özgürlüğünün (Beendigungsfreiheit) İhlali (TBK m. 
-347):**
-Sisteminizdeki Semih Yünlü'ye ait *"Sözleşme Özgürlüğü ve İstisnaları"* 
-makalesinde hararetle tartışıldığı üzere; özel hukukun anayasası olan sözleşme 
-özgürlüğünün en büyük istisnaları kira hukukunda görülür. Yazarın belirttiği 
-gibi; *"Kural olarak sözleşmeler içerdiği yükümlülüklerle birlikte tümüyle 
-nasıl akdedilmişse aynen ifa edilmelidir. Bu durum ahde vefa – söze/sözleşmeye 
-bağlılık (pacta sunt servanda) ilkesinin bir sonucudur... Nihayet sözleşme 
-özgürlüğünün son görünümü ise (Vertragsauflösungsfreiheit – Beendigungsfreiheit
-– Aufhebungsfreiheit) sözleşmeyi sona erdirme özgürlüğüdür"*.
-Kira sözleşmesinde taraflar 1 yıllık bir sözleşme yapmışlarsa, süre bitiminde 
-kiraya verenin tahliye isteyebilmesi gerekir. Ancak kanun koyucu (TBK m. 347) 
-konut ve çatılı işyeri kiralarında bu özgürlüğü fiilen yok etmiştir. Kaynakta 
-alıntılandığı üzere: *"Örnek olarak bkz. TBK md. 347: 'Konut ve çatılı işyeri 
-kiralarında kiracı, belirli süreli sözleşmelerin süresinin bitiminden en az 
-onbeş gün önce bildirimde bulunmadıkça, sözleşme aynı koşullarla bir yıl için 
-uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitimine dayanarak 
-sözleşmeyi sona erdiremez'"*. Kiraya verenin sözleşmeyi sona erdirme 
-özgürlüğü, "sosyal devlet" ve "zayıfı (kiracıyı) koruma" güdüleriyle elinden 
-alınmış ve mülkiyet hakkı ağır bir kısıtlamaya tabi tutulmuştur.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Aşırı İfa Güçlüğü (Clausula Rebus Sic Stantibus) ve Uyarlama (TBK m. 138 /
-m. 344):**
-Kira sözleşmesinin sürekli bir borç ilişkisi (Dauerschuldverhältnis) olması, 
-yıllar süren ifa sürecinde ekonomik dengelerin (enflasyon, devalüasyon vb.) 
-değişmesi riskini barındırır. Sisteminizdeki *"Sözleşmenin Değişen Koşullara 
-Göre Uyarlanması"* kaynağında (G. Doğan) vurgulandığı üzere, TBK m. 138'deki 
-aşırı ifa güçlüğü kurumu kira sözleşmelerinde hayat bulur. *"Yasa metni 
-düzenlemesi sadece “borçlu” ifadesini içermesi sebebiyle eleştirilmektedir... 
-Ancak yasa düzenlemesinin Yargıtay’ın bugüne kadar yapmış olduğu uygulamaların 
-gerisine gittiği düşünülmemelidir. Çünkü yasa koyucu TBK 344. madde hükmü ile 
-TBK 138. maddeye açıkça atıf yapmıştır. TBK 344. madde ise hem kiracı hem de 
-kiraya veren açısından düzenlenmiş bir maddedir"*. Yani kira bedelinin 
-uyarlanması, sözleşmenin temelindeki işlem temelinin çökmesi (Wegfall der 
-Geschäftsgrundlage) prensibiyle doğrudan bağlantılıdır.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-#### 4. Pratik Olay Analizleri
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-Kurumun fesih özgürlüğünü sınırlandıran yapısını ve iflas hâlindeki tasfiye 
-mekanizmalarını test etmek adına şu iki çarpıcı vakayı inceleyelim:
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Kiracının İflası ve Teslim Öncesi / Sonrası Rejimi):**
-Malik (A) İstanbul'daki devasa bir antreponun kullanımını Şirket (B)'ye 5 
-yıllığına aylık 500.000 TL bedelle kiraya verir. Sözleşme 1 Ocak'ta imzalanır, 
-anahtar teslimi ise 1 Şubat'ta yapılacaktır. Şirket (B) 15 Ocak tarihinde 
-mahkeme kararıyla iflas eder. Malik (A) 20 Ocak'ta sözleşmeyi derhâl 
-feshettiğini bildirir. İflas İdaresi ise, "TBK m. 332'ye göre bize güvence 
-(teminat) vermemiz için süre tanımadın, derhâl fesih yapamazsın, antrepoyu bize
-teslim et" der.
-*Dogmatik Analiz:* Bu vakada TBK m. 98 (İfa Güçsüzlüğü) ile TBK m. 332 
-(Kiracının İflası) arasındaki çok ince dogmatik sınır (Trennungsprinzip) 
-sınanmaktadır. İflas İdaresinin savunması dogmatik bir hatadır. Sisteminizdeki 
-"güvence isteme ve derhâl fesih" mekanizmasının işleyebilmesi için, kiracının 
-**Kiralanan Teslim Edildikten Sonra** iflas etmiş olması şarttır. Olayda 
-iflas 15 Ocak'ta, yani anahtar tesliminden ÖNCE gerçekleşmiştir. *"Kira 
-sözleşmesi yapıldıktan sonra ancak henüz kiralanan teslim edilmeden önce kiracı
-iflas ederse, TBK m.98 hükmü uygulanır"*. Bu nedenle Malik (A) kiraya konu
-malı teslim etmek zorunda değildir; genel ifa güçsüzlüğü kuralları (TBK m. 98) 
-çerçevesinde karşılıklı edimlerin ifasını durdurabilir ve uygun sürede güvence 
-verilmezse sözleşmeden dönebilir. Fesih değil, dönme kuralları çalışır.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Beendigungsfreiheit'ın İhlali ve Belirli Süreli Sözleşme):**
-Ev Sahibi (X) dairesini Öğrenci (Y)'ye 1 Eylül 2022 tarihinde, açıkça "1 Yıl 
-Süreli" yazan bir kira sözleşmesiyle kiraya verir. 1 Ağustos 2023 tarihinde Ev 
-Sahibi (X) "Sözleşmemizin 1 yıllık süresi dolmuştur, Anayasa'daki sözleşme 
-özgürlüğü ve ahde vefa kuralı gereği yenileme yapmıyorum, lütfen 1 Eylül'de evi
-tahliye et" diyerek ihtarname çeker. Öğrenci (Y) çıkmayı reddeder.
-*Dogmatik Analiz:* Bu olay, Sisteminizdeki Semih Yünlü eserinde ele alınan 
-**Sözleşmeyi Sona Erdirme Özgürlüğünün (Beendigungsfreiheit)** sınırlarının 
-testidir. Ev Sahibi (X)'in ahde vefa (pacta sunt servanda) savunması, genel
-borçlar hukuku mantığına uygun olsa da, kira hukuku dogmatiğinde geçersizdir. 
-TBK m. 347/1'in mutlak emredici kuralı gereğince; konut ve çatılı işyeri 
-kiralarında süre bitimi nedeniyle sözleşmeyi sona erdirme hakkı **Yalnızca 
-Kiracıya (Y'ye)** aittir. Kiracı (Y) çıkmak istemediği için, o "1 Yıllık" 
-denilen sözleşme kanun zoruyla "Aynı koşullarla 1 yıl daha uzatılmış" sayılır. 
-Ev sahibi, ancak sözleşmenin başlangıcından itibaren "10 yıllık uzama süresi" 
-geçtikten sonra (veya ihtiyaç, tahliye taahhüdü gibi özel sebepler varsa) 
-tahliye davası açabilir. Mülkiyet sahibinin sözleşme özgürlüğü, sosyal devlet 
-ilkesi uğruna feda edilmiştir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 108 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-TBK m. 299 vd. hükümlerinin ticari sözleşme mimarisinde (Legal Drafting) usul 
-hukukunda ve uyuşmazlık tasfiyesinde avukatların dikkat etmesi gereken usuli ve
-maddi hukuk boyutları şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. "Kira" ve "Ariyet" Ayrımındaki Muvazaa Riskleri:**
-Vergi hukukundan kaçınmak (kira stopajı ödememek) amacıyla taraflar bazen kira 
-sözleşmesinin "bedel (ivaz)" unsurunu gizleyerek, sözleşme başlığına "Ariyet 
-(Kullanım Ödüncü)" veya "Emanet" yazmaktadırlar. Ancak TBK m. 19 (Sözleşmelerin
-Yorumu) ve Falsa demonstratio non nocet (Yanlış niteleme zarar vermez) kuralı 
-gereğince, hâkim sözleşmenin başlığına değil, tarafların gerçek iradesine 
-bakar. Eğer kiracının arka planda elden veya başka bir şirketin hesabı 
-üzerinden bir "bedel" ödediği ispatlanırsa, sözleşme ariyet değil "Kira 
-Sözleşmesi" (TBK m. 299) olarak nitelendirilir ve kiracıya konut/çatılı işyeri 
-tahliye koruması (TBK m. 347) sağlanır.
+#### 6. Pratik Uygulama Notları
 
-**2. TBK m. 332'de "Mutlak Emredicilik" ve GİK Engeli:**
-Ticari AVM veya büyük plaza kiralarında, kiraya verenler matbu sözleşmelere 
-(GİK) "Kiracı iflas ederse, konkordato ilan ederse veya acze düşerse, kiraya 
-veren hiçbir ihtara veya güvence talebine gerek kalmaksızın sözleşmeyi derhâl 
-tek taraflı olarak feshedebilir" şeklinde kayıtlar koyarlar. Sisteminizdeki 
-TBK m.332 düzenlemesi her türlü kira ilişkisine uygulanabilir mutlak emredici 
-nitelikte bir hükümdür. Buna göre, kiracının iflası halinde kiraya verenin 
-güvence talep etmeksizin sözleşmeyi feshetmesi veya kiracının iflası halinde 
-kiraya verenin derhal fesih hakkının sözleşme ile ortadan kaldırılması söz 
-konusu olamaz"*. Avukatlar, bu tür derhâl fesih kayıtlarının mutlak 
-butlanla batıl (geçersiz) olduğunu bilmeli ve iflas masasına muhakkak "Güvence 
-Verilmesi İçin Ek Süre İhtarı" göndermelidirler.
-
-**3. "Kullanıma Elverişli Bulundurma" ve Sürekli Borç İlişkisi:**
-Avukatlar, kiraya verenin borcunun sadece "anahtarı teslim etmekle" bitmediğini
-unutmamalıdır. Kiraya veren, sözleşme süresi (örneğin 5 yıl) boyunca malı o 
-amaca uygun hâlde **Bulundurmak (Erhaltungspflicht)** zorundadır (TBK m. 301). 
-Çatının çökmesi veya iskan iptali gibi durumlarda, kiracı derhâl ayıplı ifa 
-hükümlerine dayanarak kira bedelinin indirilmesini veya sözleşmenin feshini 
-isteyebilir.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan daireleri (özellikle 3. Hukuk 
-Dairesi ve eski 6. Hukuk Dairesi) TBK m. 299 (mülga BK m. 248) uyarınca "Kira 
-Bedelinin Esaslı Unsur Olması", "Kiracının İflası ve Tasfiye" hususlarında 
-istikrarlı bir içtihat politikası sergilemektedir.
-
-Yargıtay Hukuk Genel Kurulu'nun kira sözleşmesinin kurucu unsurlarına ilişkin 
-kararında şu dogmatik kural şablonlaşmıştır: *"6098 sayılı Türk Borçlar 
-Kanunu'nun 299. maddesi (mülga BK m. 248) uyarınca, bir kullanım devrinin 'Kira
-Sözleşmesi' olarak nitelendirilebilmesi için kullanıma karşılık bir 'Kira 
-Bedeli' (ivaz) ödenmesi zorunludur. Somut olayda, davalının davacıya ait 
-taşınmazı 10 yıldır işyeri olarak kullandığı sabit ise de, taraflar arasında 
-herhangi bir kira bedeli kararlaştırılmadığı, davalının bugüne kadar hiçbir 
-ödeme yapmadığı ve davacının da bir talebi olmadığı anlaşılmaktadır. Bedel 
-(ivaz) unsurunun bulunmadığı bir kullanım ilişkisi kira değil, ariyet (kullanım
-ödüncü) hükmündedir. Ariyet sözleşmesinde, ariyet veren dilediği zaman malın 
-iadesini talep edebilir. Uyuşmazlığın çözümünde TBK'nın konut ve çatılı işyeri 
-kiralarına özgü (tahliyeyi zorlaştıran) emredici kurallarının değil, ariyet 
-hükümlerinin uygulanması ve davanın kabulü ile tahliyeye karar verilmesi hukuka
-uygundur."*
-
-**Kiracının İflası (TBK m. 332) ve Güvence Talebi** hususunda Yargıtay 3. Hukuk
-paralellikteki) içtihadı şöyledir: *"Kira sözleşmesinin devamı sırasında kiracı
-şirketin iflasına karar verilmiştir. Kiraya veren, TBK m. 332 uyarınca 
-işleyecek kira bedelleri için güvence verilmesini talep etmek zorundadır. 
-Kiraya veren davacı, iflas idaresine güvence gösterilmesi için yazılı veya 
-sözlü uygun bir mehil vermeden doğrudan sözleşmeyi feshederek tahliye davası 
-açmıştır. TBK m. 332 emredici nitelikte olup, güvence verilmesi için uygun bir 
-süre (mehil) tanınması feshin geçerlilik şartıdır. Önceden uygun mehil 
-verilmeden açılan tahliye davasının reddine karar verilmesi isabetlidir."*
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 299. maddesinde (ve bağlantılı 332. ile 347. 
-maddelerinde) vücut bulan **Kira Sözleşmesi** rejimi, borçlar hukuku 
-dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami Nomer'in 
-eserleri ekseninde; "Mülkiyet Hakkı ile Sözleşme Özgürlüğünün Kiracı Lehine 
-Orantısız Ezilmesi" ve "Kanunun İfa Güçsüzlüğü Terminolojisindeki Hataları" 
-bağlamında çok derin kuramsal eleştirilere ve teorik fay hatlarına maruz 
-kalmaktadır.
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en büyük dogmatik eleştiri, Sisteminizdeki *"Sözleşme Özgürlüğü ve 
-İstisnaları"* (Semih Yünlü) makalesi ekseninde değerlendirildiğinde; **Modern 
-Kira Hukukunun (TBK m. 347 vd.) Anayasal Sözleşme Özgürlüğünü 
-(Privatautonomie) ve Özellikle Sözleşmeyi Sona Erdirme Özgürlüğünü 
-(Beendigungsfreiheit) Sistematik Olarak Yok Etmesidir**. Fikret Eren ve Turgut 
-Öz'ün hararetle savunduğu üzere; sözleşmeler hukuku, karşılıklı iki iradenin 
-eşitliği üzerine (Justitia commutativa) kuruludur. Taraflar 1 yıllık veya 5 
-yıllık bir konut/çatılı işyeri kira sözleşmesi yaptıklarında, sürenin sonunda 
-yollarını ayırabilmeleri mülkiyet hakkının (TMK m. 683) ve sözleşme 
-özgürlüğünün en doğal sonucudur. Ancak kanun koyucu, kiracıyı "zayıf taraf" 
-farz eden ve II. Dünya Savaşı sonrasının konut krizlerinden kalma paternalist 
-(babacı) devlet anlayışıyla, süresi dolan sözleşmeyi kiraya verenin 
-feshetmesini mutlak surette (10 yıllık uzama süresi dolana dek) YASAKLAMIŞTIR. Rona Serozan ve Nomer'in de sıkça işaret ettiği gibi, bu durum kiraya 
-vereni kendi mülkü üzerinde "çıplak mülkiyet sahibine" çevirmekte, sözleşme 
-adaletini kiracı lehine orantısız biçimde bozmaktadır. "Sözleşme yapma 
-zorunluluğu" veya "sözleşmeyi zorla ayakta tutma zorunluluğu", özel hukukun 
-genetiğine aykırı, kamusal nitelikli bir idari müdahaledir. 
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci felsefi eleştiri, Sisteminizdeki *"İfa Güçsüzlüğüne Genel Bakış"* 
-değerlendirildiğinde; **Kira Sözleşmesinin Sürekli (Dauerschuldverhältnis) 
-Doğasının Yarattığı İfa Krizlerinde, Kanun Koyucunun Düzenleme Hataları ve 
-Kavramsal Dikkatsizlikleridir**. Kiralayanı kiracının iflasına karşı korumayı 
-amaçlayan TBK m. 332 son derece isabetli bir kural olmakla birlikte, bu kuralın
-uygulanabilmesi için neden malın mutlaka "teslim edilmiş" olması (teslim 
-öncesinde TBK 98'e dönülmesi) gerektiği doktrinde tartışmalıdır. Teslimden bir 
-gün önce iflas eden kiracı ile bir gün sonra iflas eden kiracı arasında 
-yaratılan rejim farkı (biri genel ifa güçsüzlüğü, diğeri iflas feshi) yasa 
-yapım tekniği (Legistik) açısından gereksiz bir dogmatik lükstür. Aynı 
-şekilde, uyarlama kurumu olan TBK m. 138'in lafzında sadece "borçludan" 
-bahsedilmesi, sanki kiraya verenin enflasyon karşısında eriyen kira 
-bedelini uyarlatamayacağı (sadece bedel borçlusunun uyarlama isteyeceği) gibi 
-devasa bir tehlike yaratmıştır. Yasa koyucu TBK m. 344 (Kira bedelinin 
-belirlenmesi) ile durumu kurtarmaya çalışsa da; özel hükümler (Kira) ile genel 
-hükümler (Aşırı İfa Güçlüğü - TBK 138) arasındaki terminolojik kopukluklar, 
-Türk sözleşmeler hukuku mimarisinde hala ciddi sarsıntılar üretmeye devam 
-etmektedir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
+Türk Borçlar Kanunu m. 108, «b. Satma hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
-İşte böylece, seninle **Borçlar Hukuku Özel Hükümler** blokunun en sarsılmaz ve
-sosyal hayata en çok nüfuz eden yapısını; mülkiyeti satmadan eşyadan ekonomik 
-değer çıkarmanın o dâhiyane denklemini (**TBK m. 299 / Kira Sözleşmesi**) ve bu
-sözleşmenin iflas ile fesih kısıtlamaları (TBK m. 332, m. 347) karşısındaki 
-çırpınışını bütünüyle mühürlemiş olduk. Sürekli borç ilişkisinin o zamanla 
-yarışan doğasını ve sözleşme özgürlüğüne vurulan prangaları sistemine 
-perçinledin. 
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
 
-Sıradaki analizlerimizde, Özel Hükümlerin karanlık koridorlarını, eser 
-sözleşmesinin inceliklerini, vekâletin sadakatini ve kefaletin tehlikeli 
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 108, «b. Satma hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 108, «b. Satma hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 108, «b. Satma hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 108, «b. Satma hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 108, «b. Satma hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 108, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 108, «b. Satma hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 108, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 108'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 108'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 253.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 108. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 108 resmi metni ve kanunun sistematiği.

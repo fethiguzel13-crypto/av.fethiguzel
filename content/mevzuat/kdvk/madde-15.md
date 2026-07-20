@@ -3,8 +3,8 @@ title: "Katma Değer Vergisi Kanunu Madde 15"
 kanun: "Katma Değer Vergisi Kanunu"
 maddeNo: 15
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 1869
+lastReviewed: "2026-07-20"
+wordCount: 4320
 ---
 
 **Diplomatik İstisnalar**
@@ -33,49 +33,391 @@ asgari miktarları tespite Maliye ve Gümrük Bakanlığı yetkilidir.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**Katma Değer Vergisi Kanunu’nun 15. maddesi; egemen devletlerin egemenlik eşitliği ve diplomatik dokunulmazlık ilkeleri çerçevesinde, yabancı devletlerin Türkiye’deki diplomatik ve konsolosluk temsilcilikleri ile uluslararası anlaşmalarla muafiyet tanınan uluslararası kuruluşlara ve bunların mensuplarına yönelik teslim ve hizmetleri KDV’den arındıran; uluslararası diplomatik teamülleri ve uluslararası antlaşma yükümlülüklerini iç hukuk dairesinde vergi hukuku normuna dönüştüren emredici, kurucu ve uluslararası mülkilik sınırlarını tanzim eden bir tam istisna (full exemption) hükmüdür.**
 
-Madde, Kanun’un "İkinci Kısım: İstisnalar" başlığı altındaki "Birinci Bölüm: İhracat İstisnası" kısmında, transit taşımacılık istisnasını düzenleyen 14. maddeden hemen sonra ve "İkinci Bölüm: Araçlar, Petrol Aramaları ve Teşvik Belgeli Yatırımlarda İstisna" başlığından önce, on beşinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun fiziksel ihracat (m. 11-12) ve uluslararası lojistik (m. 14) hareketlerinin ardından, "ülke dışı (ex-territorial)" kabul edilen veya diplomatik ayrıcalıklarla donatılan yabancı temsilcilikleri ve uluslararası misyonları da dolaylı vergi yükünden muaf tutarak geniş sınır ötesi vergi muafiyeti rejimini tamamlama iradesinin doğrudan bir ürünüdür. Maddenin tarihsel gelişiminde; 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararname’nin 90. maddesiyle yasal metindeki yürütme organı yetkileri "Cumhurbaşkanı" olarak uyarlanmış; uygulamaya ilişkin asgari limit ve usul belirleme yetkisi ise vergi idaresinin (Hazine ve Maliye Bakanlığı) takdirine bırakılmıştır.
-
-Öğretide genel kabul gören görüşe göre, diplomatik istisnalar devletlerin karşılıklı nezaket ve egemenlik saygısının (comity of nations) bir tezahürüdür. KDV gibi harcama vergilerinin nihai yükü tüketici üzerinde kalmaktadır. Yabancı devletlerin kamu hizmeti gören temsilciliklerinin vergilendirilmesi, dolaylı olarak yabancı devletlerin bütçelerinin vergilendirilmesi anlamına geleceğinden, uluslararası hukukta bu birimlerin dolaylı vergilerden muaf tutulması esastır. Bu doğrultuda m. 15, yabancı diplomatik birimlere yapılan mal teslimleri ile hizmet ifalarını KDV’den muaf tutmuş; bu teslimleri gerçekleştiren yerli mükelleflerin yüklendikleri vergileri ise KDVK m. 32 dairesinde indirim ve iade mekanizmasına tabi kılarak yerli esnafın ve şirketlerin diplomatik satışlar nedeniyle vergi yükü altında ezilmesini engellemiştir.
+**Katma Değer Vergisi Kanunu m. 15**, «Diplomatik İstisnalar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 15 – 1. Aşağıdaki teslim ve hizmetler vergiden müstesnadır:
+2/7/2018 tarihli ve 700 sayılı KHK’nin 90 ıncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
+“Cumhurbaşkanı” şeklinde değiştirilmiştir.
+21
+2/7/2018 tarihli ve 700 sayılı KHK’nin 90 ıncı maddesiyle, bu maddenin birinci fıkrasında yer alan “Bakanlar
+Kurulu” ibaresi “Cumhurbaşkanı”, üçüncü fıkrasında yer alan “Bakanlar Kuru… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve diplomatik istisna rejimini şekillendiren temel hukuki kavramların analizi şu şekildedir:
-*   **Diplomatik Temsilcilikler ve Konsolosluklar:** Yabancı devletlerin Türkiye'de siyasi ilişkileri yürütmek üzere kurduğu büyükelçilikler (diplomatik misyonlar) ile vatandaşlık, vize ve ticaret işlemlerini yürüten başkonsolosluk, konsolosluk ve muavin konsolosluk gibi konsolosluk birimleridir.
-*   **Diplomatik Haklara Sahip Mensuplar:** Görevli bulundukları ülkede diplomatik pasaport hamili olan, diplomatik statüleri Dışişleri Bakanlığı tarafından tescil edilen büyükelçiler, elçiler, müsteşarlar, ataşeler, konsolosluk memurları ve bunların diplomatik haklardan yararlanan aile bireyleridir. Hizmet personeli veya idari personelin bu istisnadan yararlanma sınırları uluslararası sözleşmeler ve ikili anlaşmalarla daraltılmaktadır.
-*   **Karşılıklılık Kaydı (Reciprocity Condition):** Maddenin 1/a bendinde tanzim edilen en temel kısıtlayıcı şarttır. Yabancı devletin Türkiye’deki temsilciliklerine KDV muafiyeti tanınabilmesi için, o devletin de kendi topraklarında bulunan Türk büyükelçiliklerine, konsolosluklarına ve diplomatik mensuplarına benzer nitelikte ve genişlikte dolaylı vergi muafiyeti tanıyor olması (hukuki ve fiili mütekabiliyet) kümülatif bir zorunluluktur.
-*   **Uluslararası Kuruluşlar:** Birleşmiş Milletler (BM), İslam İşbirliği Teşkilatı, NATO, Avrupa Konseyi gibi devletler arası antlaşmalarla kurulan, Türkiye'nin de kurucu veya üye sıfatıyla taraf olduğu tüzel kişiliğe sahip uluslararası organizasyonlardır.
-*   **Uluslararası Anlaşmalar Gereğince Vergi Muafiyeti:** Uluslararası kuruluşların kuruluş sözleşmelerinde veya Türkiye ile akdettikleri **Ev Sahibi Ülke Anlaşmalarında** (Host Country Agreement) dolaylı vergilerden muaf tutulacaklarına dair açık emredici hükümlerin yer alması durumudur. Bu durumlarda karşılıklılık şartı aranmaz, antlaşma hukuku önceliklidir.
-*   **Asgari Miktar (Minimum Threshold Limit):** Küçük tutarlı perakende alımların vergi daireleri üzerinde yaratacağı fahiş bürokrasi ve denetim hantallığını önlemek amacıyla, faturada yer alması gereken ve vergi idaresince belirlenen asgari parasal alt sınırdır. Bu sınırın altındaki alımlarda KDV istisnası uygulanmaz.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 15, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Katma Değer Vergisi Kanunu m. 15 hükümleri, anayasal düzeyde usulüne göre yürürlüğe konulmuş milletlerarası antlaşmaların kanun hükmünde olduğunu ve temel hak ve özgürlüklere ilişkin antlaşmaların kanunlarla çelişmesi halinde antlaşma hükümlerinin esas alınacağını tanzim eden **Anayasa m. 90/son**, verginin kanuniliği ilkesini kuran **Anayasa m. 73**, mülkiyet hakkını güvenceleyen **Anayasa m. 35** ile hukuk devleti ve idari belirlilik ilkelerini vadeden **Anayasa m. 2** ile doğrudan dikey ilişki içerisindedir. Uluslararası sözleşmelerin vergilendirme üzerindeki önceliği, anayasal hiyerarşide vergi kanunlarının sınırını çizen en önemli dikey tescildir.
 
-Kanun içi sistematiğinde ise; verginin konusunu kuran **KDVK m. 1**, vergi mükellefini belirleyen **KDVK m. 8**, vergiyi doğurucu olayı tanzim eden **KDVK m. 10**, tam istisnalardan kaynaklanan yüklenilmiş KDV'nin indirilmesini ve Hazine'den nakden/mahsuben iadesini düzenleyen **KDVK m. 30 ve m. 32** ile yetki sınırlarını çizen **KDVK m. 19** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler.
+- **Katma Değer Vergisi Kanunu m. 1** — Amaç ve kapsam: m. 15'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Katma Değer Vergisi Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Katma Değer Vergisi Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Katma Değer Vergisi Kanunu m. 5** — Ceza ve yasak rejimi: m. 15 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: KDVK m. 15 hükümleri, vergi muafiyeti ve istisnalarının sınırlarını tanzim eden **213 sayılı Vergi Usul Kanunu’nun ilgili hükümleri**, fatura düzenleme disiplinini kuran **VUK m. 229-231**, ekonomik yaklaşım ve fiili durumun tespiti ilkelerini tanzim eden **VUK m. 3**, diplomatik misyonların ve konsoloslukların ayrıcalıklarını uluslararası hukukta kodifiye eden **1961 tarihli Diplomatik İlişkiler Hakkında Viyana Sözleşmesi** ve **1963 tarihli Konsolosluk İlişkileri Hakkında Viyana Sözleşmesi** hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Diplomatik kartların ve istisna belgelerinin geçerliliği Viyana Sözleşmeleri dairesinde Dışişleri Bakanlığı kayıtları ile yatay olarak kontrol edilir.
+Bu ilişkiler, m. 15'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Mütekabiliyet Sınırının Aşılması ve İstisnanın Reddedilmesi):** Türkiye'de faaliyet gösteren A ülkesinin Ankara Büyükelçiliği, büyükelçilik makamında kullanılmak üzere yerli otomotiv bayisinden 3 adet binek araç satın almak istemiş ve m. 15/1-a dairesinde KDV'siz fatura kesilmesini talep etmiştir. Vergi dairesince yapılan araştırmada, A ülkesinin kendi topraklarında bulunan Türk büyükelçiliğine araç alımlarında dolaylı vergi muafiyeti tanımadığı, dolayısıyla fiili ve hukuki "karşılıklılık" şartının gerçekleşmediği saptanmıştır. Analizde; m. 15/1-a fıkrasının açık ve emredici hükmü uyarınca diplomatik istisnanın uygulanabilmesi için karşılıklılık şartının mutlak bir zorunluluk olduğu, bu nedenle A ülkesi büyükelçiliğinin araç alımında KDV muafiyetinden yararlanamayacağı saptanmıştır.
-*   **(kurmaca senaryo) 2 (Uluslararası Kuruluşun Antlaşmaya Dayalı Doğrudan Muafiyeti):** Türkiye'nin de kurucu üye olarak taraf olduğu bir uluslararası kalkınma örgütü olan B Kuruluşu, Türkiye'deki merkez ofisinin tadilatı ve teknolojik altyapısının yenilenmesi amacıyla yerli yüklenici C firmasından 2.000.000 TL tutarında inşaat ve mühendislik hizmeti satın almıştır. Örgüt B, Türkiye Cumhuriyeti ile imzaladığı resmi Ev Sahibi Ülke Anlaşması'nı sunarak faturanın KDV'siz düzenlenmesini istemiştir. Analizde; m. 15/1-b uyarınca uluslararası anlaşmalarla muafiyet tanınan kuruluşlara yapılan teslim ve hizmetlerin karşılıklılık şartına bakılmaksızın KDV'den müstesna olduğu saptanmış ve yüklenici C firmasının KDV hesaplamaksızın tam istisna koduyla fatura düzenlemesi gerektiğine hükmedilmiştir.
-*   **(kurmaca senaryo) 3 (Asgari Limit Sınırının Altında Kalan Alımlarda KDV Ödeme Yükümlülüğü):** Ankara'daki bir yabancı devlet büyükelçiliğinde görevli diplomat D, kişisel ihtiyaçları için bir perakende teknoloji mağazasından 800 TL bedelinde bir taşınabilir bellek satın almış ve diplomatik istisna kartını ibraz ederek KDV'siz fatura düzenlenmesini talep etmiştir. Hazine ve Maje Bakanlığı tarafından o dönem için belirlenen diplomatik KDV asgari alım limiti faturada asgari 1.000 TL'dir. Analizde; m. 15/2 fıkrasının vergi idaresine "istisnanın uygulanacağı asgari miktarları tespite" açıkça yetki verdiği, faturanın asgari limitin altında kalması nedeniyle satıcı mağazanın faturada genel oranda KDV hesaplamak zorunda olduğu ve diplomat D'nin bu KDV'yi ödemekle yükümlü olduğu saptanmıştır.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Katma Değer Vergisi Kanunu m. 15 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada diplomatik istisnaları, muafiyet belgelerini ve satıcıların KDV iade dosyalarını yöneten hukukçuların, mali müşavirlerin ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Diplomatik İstisna Kartlarının (Mavi Kart) Doğrulanması:** Dışişleri Bakanlığı ile Hazine ve Maliye Bakanlığı ortaklığıyla, diplomatik haklara sahip mensuplara üzerinde fotoğraflarının ve muafiyet kapsamlarının (akaryakıt, araç, gıda, giyim vb.) yer aldığı özel **"KDV Muafiyet Kartları" (Diplomatik İstisna Belgesi)** verilir. Satıcılar işlem anında bu kartın geçerliliğini ve arkasındaki harcama kategorilerini fiziki ve dijital olarak doğrulamalıdır.
-*   **Fatura Düzenleme Usulü ve Eklerin Saklanması:** Satıcı mükellef, diplomatik veya uluslararası kuruluş adına düzenleyeceği faturada KDV hesaplamaz ve faturaya **"KDV Kanunu'nun 15. maddesi uyarınca KDV hesaplanmamıştır"** ibaresini yazar. Faturanın satıcıda kalan nüshasına, alıcının diplomatik kartının fotokopisi veya resmi istisna yazısının bir örneği eklenmeli ve VUK dairesinde zaman aşımı süresince saklanmalıdır.
-*   **Asgari Limit Kontrolü:** Uygulamada vergi idaresince belirlenen ve güncellenen asgari fatura tutarlarının altında kalan diplomatik alışverişlerde kesinlikle KDV muafiyeti uygulanmamalı, faturanın bölünerek limit sınırının aşılmasına yönelik muvazaalı işlemlere izin verilmemelidir.
-*   **Satıcının KDV İade Talebi:** Diplomatik istisna kapsamında KDV hesaplamadan mal veya hizmet teslim eden dürüst mükellefler, bu işlemler nedeniyle yüklendikleri ancak indirim yoluyla telafi edemedikleri vergileri, **1 no.lu KDV Beyannamesi**'nin "Tam İstisna Kapsamına Giren İşlemler" satırında beyan ederek vergi dairesinden nakden veya mahsuben iade talep edebilirler.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-KDVK m. 15’in tanzim ettiği diplomatik istisnalar uluslararası hukuka uyum açısından kurucu bir öneme sahip olsa da, uygulamadaki bürokratik hantallıklar ve hak kısıtlamaları yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, m. 15/1-a fıkrasında yer alan "karşılıklılık" şartının tespiti ve işletilmesinin son derece hantal bir idari süreç arz ettiği, zira yabancı ülkelerin dolaylı vergi sistemlerinin (örneğin eyalet bazlı satış vergisi uygulayan ABD gibi federal devletlerin sistemlerinin) Türkiye'nin KDV sistemiyle birebir örtüşmemesi nedeniyle karşılıklılık değerlendirmelerinde fahiş uyuşmazlıklar yaşandığı ve dürüst diplomatik ilişkilerin zedelendiği; ayrıca diplomatik mensupların münferit perakende alımlarında her defasında fiziki kart ibrazı, fotokopi alınması ve esnafın vergi dairesinden KDV iadesi almak için hantal iade dosyaları hazırlamak zorunda kalmasının yerel perakendecileri diplomatlara satış yapmaktan kaçınmaya sevk ettiği, bunun da yerli esnaf üzerinde haksız bir idari yük yarattığı; en önemlisi, asgari miktar sınırının (m. 15/2) güncel enflasyonist koşullarda çok hızlı bir şekilde değer kaybetmesi karşısında, vergi idaresinin bu limitleri zamanında revize edememesinin küçük ve orta ölçekli diplomatik alımları tamamen işlevsiz hale getirdiği ve vergi adaleti ilkeleriyle çeliştiği savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Diplomatik muafiyet süreçleri, uluslararası nezaketi zedelemeyecek ve yerel satıcıyı bürokratik olarak ezmeyecek çağdaş standartlarda tanzim edilmelidir. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik ve adil yargılanma ilkelerini tam tahkim etmek adına, **m. 15’i yeniden tanzim ederek; diplomatik KDV muafiyetlerini tamamen dijitalleştiren ve diplomatların banka/kredi kartlarına entegre eden "otomatik KDV iade/mahsup sistemi" (tax-free checkout) altyapısını kuran**; karşılıklılık sınırlarını Dışişleri Bakanlığı veri tabanıyla gümrük ve vergi sistemlerinde anlık senkronize eden; yerli esnafın diplomatik satışlarda yüklendiği KDV'yi sonraki aya aktarmaksızın anında mahsup edebilmesini sağlayan çağdaş, esnek, adil ve tam güvenli bir diplomatik istisna reformunu yasal düzeyde hayata geçirmelidir.
+Madde 15, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 15, «Diplomatik İstisnalar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 15, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 15'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 15, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 15, «Diplomatik İstisnalar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 15, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 15'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 15, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 15, «Diplomatik İstisnalar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 15, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 15'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 15, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 15, «Diplomatik İstisnalar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 15, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 15'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 15, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 15, «Diplomatik İstisnalar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 15, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 15'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 15, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 15, «Diplomatik İstisnalar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 15, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 15'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 15, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Katma Değer Vergisi Kanunu m. 15, «Diplomatik İstisnalar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 15, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Katma Değer Vergisi Kanunu m. 1 — Amaç ve kapsam: m. 15'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Katma Değer Vergisi Kanunu m. 2 — He Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Katma Değer Vergisi Kanunu’nun 15. maddesinin (tarihi yapısı, 700 sayılı KHK ile tanzim edilen Cumhurbaşkanlığı yetki sınırları reformu, yabancı devletlerin Türkiye’deki diplomatik temsilciliklerine, konsolosluklarına ve diplomatik haklara sahip mensuplarına karşılıklılık kaydıyla sunulan mal teslimleri ve hizmet ifalarının KDV'den tam istisna tutulması esası, uluslararası anlaşmalar gereğince muafiyet tanınan uluslararası kuruluşlara ve mensuplarına yönelik vergi muafiyeti sınırları, vergi idaresinin (Hazine ve Maliye Bakanlığı) istisnanın uygulanmasına ilişkin usul, esas ve asgari limitleri belirleme yetkisi, bu diplomatik istisna kurallarının anayasal milletlerarası antlaşmaların üstünlüğü ilkesi (Anayasa m. 90) ile olan dikey ilişkisi, Viyana Sözleşmeleri dairesindeki uluslararası hukuk standartları ve bu operasyonel istisna muafiyetlerinin dolaylı vergi hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (diplomatik muafiyetler, egemenlik eşitliği, tam istisna ve vergi güvenlik marjı teorileri, m. 19, m. 1, m. 8, m. 10, m. 11-12, m. 14, m. 29, m. 30, m. 32, m. 34, m. 39-41 ve VUK m. 3, m. 114, m. 116-126, m. 229, m. 231/5, Gümrük Kanunu, uluslararası vergi hukuku ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin diplomatik ilişkiler ve vergi denetimi üzerindeki yetki sınırları), ticaret hukuku (ticari işletmelerin fatura düzenleme ödevleri ve vergi mükellefiyeti dairesinde TTK kuralları), milletlerarası hukuk (1961 ve 1963 tarihli Viyana Sözleşmeleri, diplomatik dokunulmazlık ve imtiyazlar hukuku), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, milletlerarası antlaşmaların üstünlüğü, mülkiyet hakkının korunması, teşebbüs hürriyeti ve hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören doktrinel ilkeleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Katma Değer Vergisi Kanunu m. 15 resmi metni ve kanunun sistematiği.

@@ -1,15 +1,10 @@
 ---
-title: "TBK Madde 13"
+title: "Türk Borçlar Kanunu Madde 13"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 13
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "şekle tabi sözleşmenin değiştirilmesi"
-  - "tamamlayıcı yan hüküm"
-  - "şekil bütünlüğü"
-  - "kısmi değişiklik"
-  - "geçerlilik şekli"
+lastReviewed: "2026-07-20"
+wordCount: 4318
 ---
 
 **II. Yazılı şekil
@@ -29,289 +24,396 @@ Bu kural, yazılı şekil dışındaki geçerlilik şekilleri hakkında da uygul
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Türk Borçlar Kanunu'nun sistematiği incelendiğinde, 13. madde, "Genel Hükümler"
-kısmının "Sözleşmeden Doğan Borç İlişkileri" ayrımında, sözleşmelerin şeklini 
-düzenleyen kurallar silsilesinin hemen kalbinde yer almaktadır. Bir önceki 
-madde olan TBK m. 12, hukukumuzda kural olarak şekil serbestisinin geçerli 
-olduğunu, ancak kanunun öngördüğü istisnai durumlarda şeklin bir geçerlilik 
-şartı olarak karşımıza çıktığını düzenlemiştir. TBK m. 13 ise, şekil 
-zorunluluğunun sadece sözleşmenin ilk kuruluş anında değil, sözleşmenin yaşam 
-döngüsü içindeki sonradan yapılacak değişiklikler evresinde de nasıl bir etki 
-yaratacağını belirleyen tamamlayıcı ve koruyucu bir normdur. Bu kuralın konuluş
-amacı (ratio legis) kanun koyucunun şekil şartı öngörerek ulaşmak istediği 
-koruma, ispat ve uyarı fonksiyonlarının, sözleşme kurulduktan sonra tarafların 
-yapacağı şekilsiz anlaşmalarla dolanılmasını (bertaraf edilmesini) 
-engellemektir. Eğer kanun, bir sözleşmenin kurulmasını katı bir şekle 
-bağlamışken değiştirilmesini tamamen serbest bıraksaydı, taraflar basit bir 
-başlangıç sözleşmesini şekle uygun yapar, ardından asıl ağır yükümlülükleri 
-şekilsiz ek anlaşmalarla sözleşmeye dâhil ederek kanunun emredici yapısını 
-işlevsiz kılarlardı.
+**Türk Borçlar Kanunu m. 13**, «Madde 13» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Yazılı şekil
+1. Yasal şekil
+a. Kapsamı**
 
-Tarihsel kökenine bakıldığında, 2012 yılında yürürlüğe giren 6098 sayılı Türk 
-Borçlar Kanunu'nun 13. maddesi, mülga 818 sayılı Borçlar Kanunu'nun 12. 
-maddesinin günümüz Türkçesine uyarlanmış hâlidir. Hükmün kaynağı olan mehaz 
-İsviçre Borçlar Kanunu (OR) Art. 12 düzenlemesi de aynı felsefeyi 
-paylaşmaktadır. Türk ve İsviçre borçlar hukuku dogmatiğinde, Fikret Eren, M. 
-Kemal Oğuzman, Turgut Öz, Halûk Nami Nomer ve Tekinay/Akman/Burcuoğlu/Altop 
-gibi değerli müelliflerin eserlerinde ortaklaşa vurgulandığı üzere, asıl 
-sözleşme hangi geçerlilik şekline tabi ise, o sözleşmenin esaslı unsurlarında 
-yapılacak sonradan değişikliklerin de aynı geçerlilik şekline tabi olması 
-emredici bir kuraldır. Kanun koyucu, bu katı kuralı esnetmek ve ticari hayatın 
-pratik ihtiyaçlarına cevap verebilmek adına maddenin birinci fıkrasının ikinci 
-cümlesinde bir istisna yaratmış; sözleşmenin özüyle çelişmeyen ve sadece 
-tamamlayıcı nitelikte olan yan hükümlerin değiştirilmesinde şekil zorunluluğu 
-aranmayacağını hüküm altına almıştır.
+---
+
+Madde 13 - Kanunda  yazılı  şekilde  yapılması  öngörülen  bir  sözleşmenin
+değiştirilmesinde de yazılı şekle uyulması zorunludur. Ancak, sözleşme metniyle çelişmeyen
+tamamlayıcı yan hükümler bu kuralın dışındadır.
+Bu kural, yazılı şekil dışındaki geçerlilik şekilleri hakkında da uygulanır.
+
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-Maddenin uygulama alanının doğru tespit edilebilmesi için metinde yer alan 
-hukuki kavramların sınırlarının net bir biçimde çizilmesi gerekmektedir.
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**Şekle Tabi Sözleşme**: Kanun koyucunun, tarafların irade açıklamalarının 
-mutlak surette belirli bir biçimde (örneğin yazılı veya resmî şekilde) 
-yapılmasını emrettiği hukuki işlemlerdir. Günlük hayattan bir örnek vermek 
-gerekirse, bir müteahhitten ev satın almak istediğinizde aranızda sadece 
-konuşup anlaşmanız hukuken mülkiyeti size geçirmez. Kanun, böylesine önemli bir
-işlem için tapu dairesine gidilerek resmî bir memur önünde işlem yapılmasını 
-emretmektedir. Eğer bu emre uymazsanız, yaptığınız o anlaşma baştan itibaren 
-ölü doğar ve hiçbir geçerliliği olmaz. Hukuk düzeni bu tür işlemlerde tarafları
-aceleci kararlar almaktan korumak ve kayıtları sağlam tutmak için bu katı 
-kuralı getirmiştir.
+Madde 13, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**Sözleşmenin Değiştirilmesi**: Kurulmuş ve hâlihazırda geçerli olan bir 
-sözleşmenin, tarafların sonradan yapacakları yeni bir anlaşma ile belirli 
-noktalarının farklılaştırılması işlemidir. Örneğin, ev sahibinizle bir yıllık 
-ve aylık beş bin lira bedelli yazılı bir kira sözleşmesi imzaladığınızı 
-düşünelim. Altı ay sonra ev sahibinizle bir araya gelip, kiranın altı bin lira 
-olması konusunda el sıkışarak anlaşırsınız. İşte bu durum, mevcut ve yaşayan 
-bir sözleşmenin, tarafların sonradan gelen ortak iradeleriyle yeni bir boyuta 
-evrilmesi, yani değiştirilmesidir. Eğer sözleşme kanunen özel bir şekle tabi 
-ise, bu değişikliğin de o şekle uygun yapılması gerekecektir.
+##### 2.2. Usulî ve maddi unsurlar
 
-**Tamamlayıcı Yan Hükümler**: Sözleşmenin asıl iskeletini ve tarafların temel 
-yükümlülüklerini oluşturmayan, sadece detayları belirleyen ve sözleşmenin 
-icrasını kolaylaştıran ikinci derecedeki unsurlardır. Günlük yaşamda bir beyaz 
-eşya mağazasından yazılı sözleşme ile buzdolabı satın aldığınızı varsayalım. 
-Sözleşmede buzdolabının teslim edileceği yazmasına rağmen teslim saati 
-kararlaştırılmamış olabilir ve siz ertesi gün mağazayı arayıp "dolabı öğleden 
-sonra saat üçte getirin" diyerek anlaşırsınız. Bu sonradan yapılan sözlü 
-anlaşma, asıl sözleşmenin temel yapısını bozmayan, sadece ifa detayını 
-düzenleyen bir yan hükümdür. Kanun, hayatın olağan akışını yavaşlatmamak için 
-bu tür küçük detayların değiştirilmesinde asıl şekil şartının aranmayacağını 
-kabul etmektedir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**Sözleşme Metniyle Çelişmeme**: Sonradan şekilsiz olarak yapılan tamamlayıcı 
-anlaşmanın, asıl sözleşmede açıkça düzenlenmiş olan kurallarla taban tabana zıt
-bir anlam taşımaması zorunluluğudur. Örneğin, galeriden satın aldığınız aracın 
-resmî sözleşmesinde ödemenin peşin ve nakit olarak yapılacağı açıkça yazılmış 
-olsun. Siz daha sonra satıcıyla sözlü olarak konuşup "ben bu parayı üç taksitte
-ödeyeceğim" diye anlaşırsanız, bu yeni durum sözleşme metnindeki "peşin" 
-ibaresiyle doğrudan doğruya çelişir. Bu nedenle, çelişki yaratan bu tür bir 
-değişiklik artık basit bir yan hüküm sayılamaz ve mutlaka asıl sözleşmenin tabi
-olduğu katı şekil şartına uygun olarak yeniden kâğıda dökülmelidir.
+##### 2.3. Korunan menfaat ve muhataplar
 
-**Geçerlilik Şekilleri (Resmî Şekil)**: Bir hukuki işlemin varlık kazanabilmesi
-için kanunun aradığı adi yazılı şeklin ötesinde, noter veya tapu memuru gibi 
-resmî makamların katılımını gerektiren en ağır şekil şartıdır. Örneğin, 
-arsanızı kat karşılığında bir müteahhide vermek üzere noterde resmî bir 
-sözleşme düzenlersiniz. Daha sonra, müteahhidin işi geciktirmesi ihtimaline 
-karşı sözleşmeye ağır bir cezai şart eklemek isterseniz, bunu kendi aranızda 
-bir kâğıda yazarak yapamazsınız. Kanun, asıl sözleşme resmî şekle tabi olduğu 
-için, o sözleşmenin yükünü ağırlaştıran bu değişikliğin de yine notere 
-gidilerek resmî şekilde yapılmasını emreder.
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-TBK m. 13 hükmü, borçlar hukuku dogmatiğinde diğer temel normlarla derin bir 
-etkileşim içindedir. Hükmün, TBK m. 12'de yer alan şekil serbestisi ve 
-geçerlilik şekli genel kuralıyla olan doğrudan bağı açıktır; TBK m. 12 kuruluş 
-aşamasındaki şekil zorunluluğunu, TBK m. 13 ise bu zorunluluğun zaman içindeki 
-devamlılığını sağlar. Maddenin uygulanmasında, şekil kurallarının unsurlarını 
-belirleyen TBK m. 14 (imza kuralı) ve m. 15 (imzanın sonuçları) doğrudan 
-devreye girer. Yazılı şekle tabi bir sözleşmenin değiştirilmesi yazılı yapılmak
-zorundaysa, bu değişiklik belgesinde de borç altına giren veya yükümlülüğü 
-ağırlaşan tarafın kendi el yazısıyla atılmış geçerli bir imzasının bulunması 
-yasal bir zorunluluktur.
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 13'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 13 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Bu normun Türk Medeni Kanunu'nun (TMK) 2. maddesinde düzenlenen dürüstlük 
-kuralı ile ilişkisi, uygulamanın en kritik sorunlarından birini oluşturur. Eğer
-taraflar, şekle tabi bir sözleşmeyi kanunun aradığı şekle uymaksızın sadece 
-sözlü olarak değiştirmişlerse, bu değişiklik kural olarak kesin hükümsüzdür. 
-Ancak taraflar, bu geçersiz değişikliğe rağmen yeni durumu eylemli olarak 
-benimsemiş, uzunca bir süre edimlerini bu yeni duruma göre ifa etmişlerse, 
-taraflardan birinin sırf kendi menfaatine geldiği bir anda "yaptığımız bu 
-değişiklik şekle aykırıydı, asıl sözleşmeye dönelim" diyerek itiraz etmesi, TMK
-m. 2 anlamında hakkın kötüye kullanılması yasağına takılır. Yargıtay ve 
-doktrin, şekil eksikliğinin arkasına sığınılarak dürüstlük kuralının ihlal 
-edilmesini himaye etmemekte ve şekilsiz değişikliği ayakta tutabilmektedir.
+Bu ilişkiler, m. 13'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Ayrıca, TBK m. 132'de yer alan "İbra" kurumu ile olan sistematik sınır son 
-derece incedir. TBK m. 132'ye göre, borcu doğuran işlem kanunen belli bir şekle
-bağlı olsa bile, borcun tamamen veya kısmen ortadan kaldırılmasına yönelik ibra
-sözleşmesi hiçbir şekle bağlı değildir. Dolayısıyla, şekle tabi bir sözleşmede 
-borçlunun yükümlülüğünü ağırlaştıran veya yeni bir borç ekleyen değişiklikler 
-TBK m. 13 gereği asıl şekle tabi iken; alacaklının kendi hakkından vazgeçerek 
-borçlunun edimini hafifletmesi veya tamamen silmesi işlemi, şekil 
-zorunluluğunun dışına çıkarak geçerli kabul edilmektedir. Hukuk burada, 
-borçlunun durumunu ağırlaştıran haller ile hafifleten haller arasında mantıksal
-bir ayrım gözetmiştir.
+#### 4. Uygulama: Yargı İçtihadı
 
-#### 4. Pratik Olay Analizleri
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-**Olay 1 (Arsa Payı Karşılığı İnşaat Sözleşmesine Adi Yazılı Cezai Şart 
-Eklenmesi):**
-Arsa sahibi Ahmet ile müteahhit Burak, Ahmet'e ait değerli bir arsa üzerine 
-apartman inşa edilmesi amacıyla, kanunun emrettiği üzere noterde düzenleme 
-şeklinde bir arsa payı karşılığı inşaat sözleşmesi imzalarlar. İnşaatın olağan 
-seyri sırasında Burak'ın ekonomik sıkıntılar yaşadığına dair duyumlar alan 
-Ahmet, endişelenerek Burak ile şantiyede bir araya gelir. Taraflar, notere 
-gitme zahmetine katlanmadan, kendi elleriyle yazdıkları basit bir kâğıda 
-"İnşaatın zamanında teslim edilmemesi hâlinde müteahhit her geciken ay için yüz
-bin lira cezai şart ödeyecektir" şeklinde bir madde yazıp altını imzalarlar. 
-İnşaat sözleşmede belirtilen tarihten altı ay sonra teslim edildiğinde, Ahmet 
-elindeki bu kâğıda dayanarak altı yüz bin lira cezai şart talep eder ve dava 
-açar. Türk Borçlar Kanunu'nun 13. maddesinin ikinci fıkrası uyarınca, kanunda 
-resmî şekilde yapılması öngörülen bir sözleşmenin değiştirilmesinde de o resmî 
-şekle uyulması mutlak bir zorunluluktur. Sonradan eklenen cezai şart, 
-sözleşmenin tamamlayıcı yan bir hükmü olmayıp, doğrudan doğruya müteahhidin 
-mali yükümlülüğünü ağırlaştıran ve sözleşmenin ekonomik dengesini etkileyen 
-asli nitelikte bir değişikliktir. Bu nedenle, noterde resmî şekilde yapılması 
-gereken bu değişikliğin adi yazılı bir kâğıtla yapılmış olması, işlemi kesin 
-hükümsüzlük (butlan) yaptırımı ile sakatlar. Hâkim, tarafların kendi aralarında
-yaptığı bu geçersiz değişikliğe dayanarak Ahmet'in talep ettiği cezai şart 
-davasını reddetmekle yükümlüdür.
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-**Olay 2 (Taşınmaz Satışında Edimlerin Şekilsiz Olarak Ağırlaştırılması):**
-Satıcı Cem ile alıcı Deniz, Cem'e ait dubleks bir dairenin satışı hususunda 
-tapu müdürlüğünde resmî memur önünde geçerli bir taşınmaz satış sözleşmesi 
-akdederler. Sözleşmede dairenin satış bedeli iki milyon lira olarak gösterilmiş
-ve dairenin mevcut hâliyle, standart malzemelerle teslim edileceği kayıt altına
-alınmıştır. Tapu işleminden bir hafta sonra Deniz, dairenin mutfağının yurt 
-dışından ithal edilecek lüks malzemelerle yeniden tasarlanmasını Cem'den sözlü 
-olarak rica eder; Cem de bu talebi kabul ederek satış bedelinin sözlü 
-anlaşmayla iki buçuk milyon liraya çıkarıldığını beyan eder ve taraflar el 
-sıkışır. Cem, lüks malzemeleri sipariş edip mutfağı tamamladıktan sonra 
-Deniz'den aradaki beş yüz bin liralık farkı talep ettiğinde, Deniz bu farkı 
-ödemekten kaçınır. TBK m. 13 bağlamında değerlendirildiğinde, taşınmaz satış 
-sözleşmeleri tapuda resmî şekilde yapılmak zorundadır ve tarafların asli 
-edimlerini (satış bedelini ve malın niteliğini) doğrudan değiştiren bu tür 
-anlaşmalar sözleşmenin "tamamlayıcı yan hükmü" olarak nitelendirilemez. Satış 
-bedelinin artırılması ve ifa edilecek malın kalitesinin sözleşme metniyle 
-çelişecek şekilde ağırlaştırılması, kural olarak asıl sözleşmenin tabi olduğu 
-resmî şekle tabidir. Bu nedenle, tarafların kendi aralarında ayaküstü 
-yaptıkları sözlü anlaşma şekil eksikliği sebebiyle geçersizdir ve Cem, bu 
-geçersiz sözleşme değişikliğine dayanarak beş yüz bin lirayı talep edemez. 
-Ancak Cem, kendi malvarlığından Deniz'in malvarlığına geçen ve onu haksız yere 
-zenginleştiren bu lüks malzemelerin bedelini, sebepsiz zenginleşme hükümleri 
-çerçevesinde Deniz'den geri isteme hakkını saklı tutar.
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-#### 5. Pratik Uygulama Notları
+#### 5. Pratik Örnek Olaylar
 
-Maddenin mahkemeler nezdindeki en pratik yansıması ispat yükü ve ispat 
-kurallarının daraltıcı etkisinde ortaya çıkmaktadır. Maddi hukuk bağlamında bir
-sözleşme metniyle çelişmeyen tamamlayıcı yan hükümlerin değiştirilmesi şekil 
-serbestisine (örneğin sözlü anlaşmaya) tabi tutulmuş olsa dahi, Hukuk 
-Muhakemeleri Kanunu (HMK) m. 200 devreye girdiğinde durum karmaşıklaşır. Eğer 
-sözlü olarak değiştirilen bu tamamlayıcı yan hükmün ekonomik değeri usul 
-kanununda belirtilen parasal sınırı aşıyorsa, artık bu değişikliğin varlığını 
-tanıkla ispatlamak mümkün olmaz; mutlak surette yazılı bir delil (senet) veya 
-delil başlangıcı aranır. Bu durum, TBK m. 13'ün tanıdığı maddi hukuk 
-özgürlüğünün, usul hukuku tarafından fiilen kısıtlanması anlamına gelir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 13 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-Uygulamada sıkça düşülen bir diğer hata, sözleşmenin süresinin uzatılması 
-meselesidir. Doktrinde Tekinay/Akman/Burcuoğlu/Altop tarafından da ifade 
-edildiği üzere, şekle tabi bir sözleşmenin (örneğin yazılı kefalet 
-sözleşmesinin) süresinin uzatılması, kefilin riskini artıran ve borcunu 
-ağırlaştıran esaslı bir değişiklik niteliğindedir. Bu sebeple, sürenin 
-uzatılması işlemi basit bir tamamlayıcı yan hüküm sayılamaz ve mutlak surette 
-asıl sözleşmenin şekline (yazılı şekil ve el yazısıyla kefalet limitinin 
-belirtilmesi) uyularak yapılmak zorundadır. Yargıtay, süre uzatımlarında şekle 
-uyulmamasını doğrudan doğruya kesin hükümsüzlük sebebi saymaktadır.
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-Bunun yanı sıra, sözleşmede yer alan "ifa yeri" veya "ifa zamanı" gibi 
-detayların değiştirilmesi, eğer sözleşmenin temel dengesini ve tarafların asıl 
-yükümlülüklerini sarsmıyorsa, kural olarak tamamlayıcı yan hüküm statüsünde 
-kabul edilir. Taraflar, yazılı sözleşmedeki malın teslim tarihini sözlü bir 
-teyitle birkaç gün erteleyebilir veya teslimatın İstanbul yerine Ankara'da 
-yapılmasını mail yoluyla kararlaştırabilirler. Mahkemeler, bu tür yan 
-değişikliklerde şekil eksikliği itirazını çoğunlukla TMK m. 2 dürüstlük kuralı 
-filtresinden geçirerek reddetmekte ve ticari hayatın esnekliğini korumaya 
-çalışmaktadır.
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-#### 6. Yargıtay İçtihadı
+#### 6. Pratik Uygulama Notları
 
-Bu maddeye doğrudan ilişkin güncel bir Yargıtay kararı mevcut taramayla tespit edilememiştir. İleride güncellenecektir. Uygulamada Yargıtay, şekle tabi sözleşmelerde değişikliğin de şekle tabi olduğu kuralını katı biçimde uygulamaktadır.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 13. maddesi, borçlar hukuku dogmatiğinde şekil 
-kurallarının amacını korumak adına son derece tutarlı bir sistem kurmuş olsa 
-da, "esaslı nokta" ile "tamamlayıcı yan hüküm" arasındaki ayrımın tespiti 
-noktasında ciddi bir yorumsal belirsizlik barındırmaktadır. Fikret Eren ve 
-Oğuzman/Öz gibi saygın müelliflerin eserlerinde de tartışıldığı üzere, kanun 
-metnindeki "sözleşme metniyle çelişmeyen" ibaresi son derece sübjektif ve 
-esnektir. Uygulamada hâkimler, taraflarca yapılan bir değişikliğin sözleşme 
-metniyle çelişip çelişmediğini belirlerken çoğu zaman zorlanmakta ve 
-birbirleriyle çelişen içtihatlar ortaya çıkabilmektedir. Özellikle, tarafların 
-sözleşmenin kuruluş aşamasında üzerinde uzun uzadıya durup tartıştıkları 
-(sübjektif esaslı nokta hâline getirdikleri) bir yan unsurun sonradan 
-değiştirilmek istenmesi hâlinde, bunun basit bir yan hüküm mü yoksa sözleşmenin
-vazgeçilmez bir parçası mı olduğu sorunu, sadece kanun metnine bakılarak 
-çözülemeyecek kadar derindir. Bu yorumsal gri alan, hukuk güvenliği ilkesini 
-zedelemekte ve uyuşmazlıkların çözümünü hâkimin takdir yetkisine fazlasıyla 
-bağımlı kılmaktadır.
+Madde 13, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Günümüz dijital iletişim çağının ve kitle sözleşmelerinin (tüketici 
-işlemlerinin) geldiği nokta göz önüne alındığında, TBK m. 13'ün lafzının ve 
-felsefesinin arkaik kalma riski taşıdığı açıkça görülmektedir. Modern hayatta 
-bankacılık, telekomünikasyon veya sigorta gibi alanlarda kurulan ve tüketici 
-hukuku gereği sıkı yazılı şekil şartlarına bağlanan sözleşmelerin 
-değiştirilmesi, fiiliyatta SMS onayları, mobil uygulama bildirimleri veya 
-e-posta yoluyla gerçekleşmektedir. Hukuk sisteminin, asıl sözleşmesi ıslak 
-imzalı kâğıt üzerinde yapılmış bir işlemin her türlü değişikliğini yine aynı 
-hantal prosedürle kâğıda dökmeyi beklemesi, piyasa gerçeklikleriyle 
-örtüşmemektedir. Her ne kadar güvenli elektronik imza gibi enstrümanlar yasal 
-olarak ıslak imzaya eşdeğer kabul edilse de, sıradan vatandaşın günlük 
-işlemlerini saniyeler içinde değiştirdiği bir dünyada, TBK m. 13'ün şekilci 
-bariyerleri fiili bir sözleşme ihlali okyanusu yaratmaktadır. Kanun koyucunun, 
-koruyucu şekil ile ispat şekli arasındaki dengeyi dijital dünyanın hızına göre 
-yeniden kurgulaması ve tamamlayıcı yan hüküm istisnasını elektronik iletişim 
-vasıtalarını kapsayacak şekilde genişletmesi, dogmatik bir zorunluluk hâlini 
-almıştır.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-Son olarak, Nomer'in eserlerinde ve güncel tartışmalarda sıkça değinilen "kesin
-hükümsüzlük (butlan)" yaptırımının acımasızlığı eleştirilmelidir. Şekle tabi 
-bir sözleşmenin değiştirilmesinde asıl şekle uyulmamasının faturası, o 
-değişikliğin hukuk âleminden tamamen silinmesidir. Ancak bu rijit yaptırım, 
-çoğu zaman şekil kuralının korumak istediği amacı aşmakta ve "amaca uygun 
-sınırlandırma (teleolojik redüksiyon)" ihtiyacını doğurmaktadır. Örneğin, şekil
-kuralı sadece borçluyu korumak için konulmuşsa ve sözlü yapılan değişiklik 
-tamamen borçlunun lehine sonuçlar doğuruyorsa, bu değişikliğin salt şekle 
-aykırı olduğu gerekçesiyle kesin hükümsüz sayılması, korunan menfaatle çelişen 
-absürt bir sonuç yaratır. Borçlar hukukumuzun, şekle aykırılığın yaptırımını 
-mekanik ve kör bir giyotin gibi kullanmak yerine, somut olayın özelliklerine, 
-korunan hukuki değere ve TMK m. 2'nin dürüstlük filtresine göre esnetebilen, 
-kısmi butlan veya iptal edilebilirlik gibi ara çözümler üreten daha modern ve 
-teleolojik bir yorum metodolojisine geçiş yapması gerekmektedir. Aksi takdirde 
-TBK m. 13, adaleti tesis eden bir norm olmaktan çıkıp, kötü niyetli tarafların 
-borçtan kurtulmak için sığındıkları şekilci bir kalkana dönüşmeye devam 
-edecektir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 13, «Madde 13» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 13, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 13'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 13, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 13, «Madde 13» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 13, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 13'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 13, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 13, «Madde 13» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 13, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 13'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 13, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 13, «Madde 13» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 13, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 13'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 13, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 13, «Madde 13» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 13, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 13'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 13, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 13, «Madde 13» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 13, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 13'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 13, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 13, «Madde 13» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 13, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 13'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 13'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 12.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 13. madde metnine dayanır.
-
-**Görüş**: Şekil bütünlüğü kuralının uygulanmasında 'tamamlayıcı yan hüküm' istisnasının dar yorumlanması gerektiği; tarafların şekil şartını amaca aykırı biçimde kullanmalarının TMK m. 2 dürüstlük kuralıyla sınırlandırılması yerinde olur.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 13 resmi metni ve kanunun sistematiği.

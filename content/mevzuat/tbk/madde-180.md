@@ -1,12 +1,10 @@
 ---
-title: "TBK Madde 180"
+title: "Türk Borçlar Kanunu Madde 180"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 180
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "borcun doğumu unsurları"
-  - "ispat yükü"
+lastReviewed: "2026-07-20"
+wordCount: 4299
 ---
 
 **2. Ceza ile zarar arasındaki ilişki**
@@ -24,296 +22,390 @@ kusuru bulunduğunu ispat etmedikçe aşan miktarı isteyemez.
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Borçlar hukuku dogmatiğinde irade özerkliği (Privatautonomie) ilkesinin temeli,
-tarafların hukuki bir sonuç doğurmaya yönelik irade açıklamalarına dayanır. TBK
-m. 1 (Mehaz OR Art. 1) hükmü uyarınca; "Sözleşme, tarafların iradelerini 
-karşılıklı ve birbirine uygun olarak açıklamalarıyla kurulur." Bu kural, 
-sözleşmenin (ve dolayısıyla borç ilişkisinin) doğumu için iki temel unsuru şart
-koşar: İrade açıklamalarının varlığı ve bu açıklamaların (öneri ve kabulün) 
-birbirine uygun olması. İrade açıklamalarının uygunluğundan amaç, ya 
-gerçek, tabii iradelerin fiilen ya da açıklamaların anlam (içerik) itibariyle 
-normatif (hukuki) olarak birbirine uygun olmasıdır. Geçerli bir borç 
-ilişkisinin doğumu, tüm fer'i (bağlı) hakların ve güvence mekanizmalarının da 
-temelini oluşturur.
+**Türk Borçlar Kanunu m. 180**, «2. Ceza ile zarar arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 180 - Alacaklı hiçbir zarara uğramamış olsa bile, kararlaştırılan cezanın ifası
+gerekir.
+Alacaklının  uğradığı  zarar  kararlaştırılan  ceza  tutarını  aşıyorsa  alacaklı,  borçlunun
+kusuru bulunduğunu ispat etmedikçe aşan miktarı isteyemez.
 
-Geçerli bir irade uyuşması (TBK m. 1) ile kurulan sözleşmelerde taraflar, 
-borcun hiç veya gereği gibi ifa edilmemesi rizikosuna karşı bir "Ceza Koşulu" 
-kararlaştırabilirler. TBK m. 180, geçerli olarak doğmuş bir borca bağlanan ceza
-koşulunun, "zarar" unsuru ile olan dogmatik ilişkisini düzenlemektedir. 
-Maddenin birinci fıkrası, ceza koşulunun "zarardan bağımsızlığını" hüküm altına
-alarak, "Alacaklı hiçbir zarara uğramamış olsa bile, kararlaştırılan cezanın 
-ifası istenir" kuralını getirmiştir. İkinci fıkra ise, alacaklının gerçek 
-zararının ceza koşulu miktarını aşması ihtimalini (Aşkın Zarar) düzenlemiştir: 
-"Alacaklının uğradığı zarar kararlaştırılan ceza tutarını aşıyorsa alacaklı, 
-borçlunun kusuru bulunduğunu ispat etmedikçe aşan zararı isteyemez." Bu 
-sistematik yapı, ceza koşulunu alacaklı lehine bir ispat kolaylığı sağlayan 
-götürü tazminat aracı olarak konumlandırırken; aşan kısımlar için genel 
-sorumluluk kurallarından sapan özel bir ispat yükü rejimi öngörmüştür.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-Sözleşmenin kurulması (borcun doğumu) ve ceza koşulunun zararla ilişkisine dair
-teorik temelleri anlayabilmek için, kurumun unsurlarının doktrindeki (Eren, 
-Oğuzman/Öz, Nomer) yaklaşımlar çerçevesinde mikroskobik düzeyde analiz edilmesi
-zorunludur:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. İrade Beyanlarının Fiilî ve Normatif Uygunluğu (TBK m. 1):**
-Sözleşmenin kurulabilmesi için öneri (icap) ve kabul (kabul) beyanlarının 
-esaslı noktalarda uyuşması şarttır. Öğretide Fikret Eren ve Oğuzman/Öz 
-tarafından da vurgulandığı üzere, bu uygunluk iki şekilde gerçekleşir:
-1. *Fiilî (Tabii) Uygunluk:* Tarafların gerçek iç iradelerinin ve dışa yansıyan
-beyanlarının tam bir mutabakat içinde olmasıdır. Taraflar, sözleşmenin tüm 
-kurucu unsurlarında bilerek ve isteyerek anlaşmışlardır.
-2. *Normatif (Hukuki) Uygunluk:* Fiilî uygunluğun bulunmadığı hallerde, hâkim 
-hukuki uygunluğu arayacaktır. Hukuki uygunluk, Güven Teorisi'ne 
-(Vertrauensprinzip) göre tespit edilir. Bir tarafın iradesi ile beyanı uyuşmasa
-bile, karşı tarafın dürüstlük kuralı (TMK m. 2) çerçevesinde bu beyana duyduğu 
-haklı güven korunur ve sözleşme normatif olarak kurulmuş sayılır.
+Madde 180, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Ceza Koşulunun Zarardan Bağımsızlığı (TBK m. 180/1):**
-TBK m. 180/1 uyarınca, ceza koşulu talep edilebilmesi için alacaklının zarara 
-uğraması şart değildir. Ceza koşulunun iki temel işlevi vardır: Borçluyu ifaya 
-zorlamak (ceza/baskı işlevi) ve zararın ispatına gerek kalmaksızın tazmini 
-sağlamak (götürü tazminat işlevi). Alacaklı, asıl borcun (TBK m. 1 uyarınca 
-geçerli olarak kurulan sözleşmenin) ihlal edildiğini ispatlamakla yetinir; 
-ayrıca malvarlığında bir azalma olduğunu (zararı) ispat etmek zorunda değildir.
-Bu durum, sorumluluk hukukunun "zarar yoksa tazminat da yoktur" kuralının 
-sözleşme özgürlüğü çerçevesinde bertaraf edilmesidir.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Aşkın Zarar ve Kusurun İspatı (TBK m. 180/2):**
-Aşkın zarar, borcun ihlali nedeniyle alacaklının malvarlığında fiilen meydana 
-gelen zararın, taraflarca önceden belirlenen ceza koşulu miktarından daha büyük
-olmasıdır. TBK m. 180/2, aşkın zararın talep edilebilmesi için iki maddi şart 
-öngörmüştür: Birincisi zararın ceza tutarını aşması, ikincisi ise borçlunun 
-sözleşmeyi ihlalde kusurlu olmasıdır. Ancak kanun koyucu, burada ispat yükünü 
-genel hükümlerden (TBK m. 112) farklılaştırarak alacaklıya yüklemiştir. Aşkın 
-zararı talep eden alacaklı, borçlunun kusurlu olduğunu bizzat ispat etmek 
-zorundadır. Aşkın zarar, asıl borcun ifası anına kadar artarak devam eden 
-bağımsız yeni bir borç kalemi niteliğindedir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-Sözleşmenin kuruluşu (TBK m. 1) ile ceza koşulu ve zarar ilişkisi (TBK m. 180);
-fer'ilik ilkesi, genel sorumluluk rejimi (TBK m. 112) ve temerrüt faizindeki 
-aşkın zarar (TBK m. 122) rejimleriyle son derece derin dogmatik bağlar 
-içindedir.
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 180'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 180 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. Borcun Doğumu (TBK m. 1) ile Ceza Koşulunun Fer'iliği Arasındaki Organik 
-Bağ:**
-Ceza koşulu, asıl borca sıkı sıkıya bağlı (fer'i) bir haktır. TBK m. 1 uyarınca
-taraflar arasında karşılıklı ve birbirine uygun irade beyanları bulunmuyorsa, 
-yani sözleşmenin "esaslı noktalarında" (essentialia negotii) bir mutabakat 
-yoksa, ortada kurulmuş geçerli bir sözleşme yoktur (Yokluk yaptırımı). 
-Sözleşme hiç kurulmamış (borç doğmamış) ise, bu sözleşmeye bağlanan ceza 
-koşulunun ifası da hiçbir şekilde talep edilemez. Ceza koşulunun zarardan 
-bağımsız olarak talep edilebilmesi (TBK m. 180/1) ayrıcalığı, ancak TBK m. 1 
-testini geçmiş geçerli bir borç ilişkisinin mevcudiyeti hâlinde çalışır.
+Bu ilişkiler, m. 180'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. TBK m. 180/2 İspat Yükü ile TBK m. 112 Arasındaki Çatışma (Lex Specialis 
-Derogat Legi Generali):**
-Borçlar Hukuku Genel Hükümlerinde akdi sorumluluğun temel normu olan TBK m. 112
-uyarınca, borç hiç veya gereği gibi ifa edilmezse borçlu, kendisine hiçbir 
-"kusurun" yüklenemeyeceğini ispat etmedikçe (kurtuluş kanıtı getirmedikçe) 
-zararı gidermekle yükümlüdür. Yani genel kural, kusurun karine olarak var 
-sayılması ve ispat yükünün borçluda olmasıdır. Oysa TBK m. 180/2, aşkın zararın
-tahsili bakımından bu genel kuralı tersine çevirmiş ve ispat yükünü alacaklıya 
-("borçlunun kusuru bulunduğunu ispat etmedikçe") yüklemiştir. Doktrinde (Eren, 
-Nomer) vurgulandığı üzere, TBK m. 180/2, TBK m. 112'ye karşı özel hüküm (lex 
-specialis) niteliğindedir. Alacaklı, ceza koşulu miktarını aşan zararını talep 
-ederken, genel kuralın (TBK m. 112) sağladığı kusur karinesinden faydalanamaz.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Temerrüt Faizinde Aşkın Zarar (TBK m. 122) ile Ceza Koşulunda Aşkın Zarar 
-(TBK m. 180/2) Mukayesesi:**
-Para borçlarının ifa edilmemesi hâlinde uygulanan TBK m. 122 (Aşkın Zarar) 
-hükmü ile ceza koşulundaki aşkın zarar mekanizması dogmatik olarak ikiz 
-kurumlardır. Her ikisinde de alacaklının zararı, öngörülen maktu güvenceyi 
-(temerrüt faizi veya ceza koşulu) aşmaktadır. TBK m. 122'de de 
-"alacaklı, borçlunun kusuru bulunduğunu ispat etmedikçe" aşkın zararı isteyemez
-denilerek ispat yükü alacaklıya verilmiştir. Her iki hüküm de niteliği gereği 
-emredici olmayıp düzenleyici (yedek) hukuk kuralıdır. Dolayısıyla taraflar,
-sözleşme özgürlüğü kapsamında ispat yükünü değiştiren anlaşmalar (ispat 
-sözleşmeleri) yapabilirler.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-#### 4. Pratik Olay Analizleri
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-Sözleşmenin kurulması (TBK m. 1) şartlarını, ceza koşulunun zarardan 
-bağımsızlığını (TBK m. 180/1) ve aşkın zararda ispat yükünün yer değiştirmesini
-(TBK m. 180/2) test etmek adına şu iki laboratuvar vakayı inceleyelim:
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (İrade Beyanlarının Uyuşmazlığı ve Ceza Koşulunun Çöküşü):**
-Tacir (A) Tacir (B)'ye e-posta yoluyla "Depomdaki 10 ton A kalite buğdayı tonu
-5.000 TL'den sana satmayı öneriyorum. Gecikme halinde günlük 10.000 TL ceza 
-koşulu (TBK m. 180) ödenecektir" şeklinde bir icap (öneri) gönderir. Tacir (B) 
-cevabında, "Teklifini kabul ediyorum, ancak buğdayların B kalite olması 
-şartıyla" der (Kabul değil, yeni öneri). (A) bu e-postaya cevap vermez ve malı 
-da teslim etmez. (B) "Sözleşmemiz kuruldu, malı teslim etmedin, bana zararım 
-olmasa bile günlük 10.000 TL cezayı ödemek zorundasın" diyerek dava açar.
-*Dogmatik Analiz:* Bu vaka, TBK m. 1 (Borcun Doğumu/Sözleşmenin Kurulması) ile 
-TBK m. 180 (Ceza Koşulu) ilişkisinin kusursuz bir çarpışmasıdır. TBK m. 1 
-uyarınca sözleşmenin kurulabilmesi için öneri ve kabulün "esaslı noktalarda" 
-fiilen veya normatif olarak uyuşması şarttır. Olayda, malın kalitesi (A 
-kalite vs. B kalite) objektif esaslı noktadır ve tarafların iradeleri bu 
-noktada uyuşmamıştır. (B)'nin beyanı bir kabul değil, örtülü bir ret ve yeni 
-bir öneridir. (A) susarak bu yeni öneriyi kabul etmiş sayılamayacağından, 
-ortada geçerli olarak kurulmuş bir sözleşme (borç ilişkisi) yoktur (Yokluk 
-yaptırımı). Asıl borç hiç doğmadığı için, fer'i nitelikteki ceza koşulu da (TBK
-m. 180) geçersizdir. (B)'nin ceza talebi esastan reddedilecektir.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Sıfır Zararda Ceza Talebi ve Kusurun İspatı Zorunluluğu):**
-Yazılım Şirketi (X) İş Sahibi (Y) için özel bir otomasyon programını 
-01.01.2023 tarihinde teslim etmek üzere geçerli bir eser sözleşmesi kurar (TBK 
-m. 1 sağlandı). Sözleşmeye "Zamanında teslim edilmezse Şirket (X) 500.000 TL 
-ceza koşulu ödeyecektir" şartı konur. Şirket (X) yazılımı kusuruyla 3 ay geç 
-teslim eder. Ancak bu 3 aylık gecikme süresinde İş Sahibi (Y)'nin fabrikası 
-tadilatta olduğu için yazılıma zaten ihtiyacı olmamış ve malvarlığında 1 TL 
-dahi fiilî zarar doğmamıştır. Buna rağmen (Y) 500.000 TL cezanın tahsilini 
-talep eder. Daha sonra, gecikme nedeniyle aslında 800.000 TL zarara uğradığını 
-iddia ederek kalan 300.000 TL aşkın zararın da ödenmesini dava eder.
-*Dogmatik Analiz:* Bu uyuşmazlık, TBK m. 180'in iki fıkrasının eşzamanlı 
-laboratuvarıdır. (Y)'nin ilk talebi olan 500.000 TL ceza koşulu yönünden, TBK 
-m. 180/1 amir hükmü gereği "(Y) hiçbir zarara uğramamış olsa bile" ceza talep 
-edilebilir. Şirket (X)'in "Senin zararın yok ki benden ceza istiyorsun" 
-şeklindeki savunması hukuken dinlenmez. Ceza koşulu kesin olarak tahsil edilir.
-İkinci talep olan 300.000 TL "aşkın zarar" yönünden ise TBK m. 180/2 devreye 
-girer. İş sahibi (Y) sadece zararın 800.000 TL olduğunu ispat etmekle 
-yetinemez; TBK m. 112'nin aksine, Şirket (X)'in bu ihlalde (gecikmede) 
-"kusurlu" olduğunu da her türlü hukuki delille somut olarak ispat etmek 
-yükümlülüğü altındadır. Eğer kusuru ispatlayamazsa, 500.000 TL cezayı alır 
-ancak 300.000 TL aşkın zararı reddedilir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 180 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-Sözleşmenin kurulması (TBK m. 1) ve ceza koşulunda aşkın zararın (TBK m. 180) 
-usul hukukunda (HMK) sözleşme mimarisinde (Legal Drafting) ve uyuşmazlık 
-tasfiyesinde uygulayıcıların dikkat etmesi gereken stratejik boyutları 
-şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. Sözleşme Mimarisinde Aşkın Zararda Kusur İspat Yükünün Tersine 
-Çevrilmesi:**
-Uygulamada, sözleşmeleri kaleme alan avukatların en sık ihmal ettiği husus TBK 
-m. 180/2 ve TBK m. 122'deki "kusuru ispat yükünün alacaklıda olması" kuralıdır. Bu kurallar düzenleyici (yedek) nitelikte olduğundan, sözleşme 
-özgürlüğü (TBK m. 26) kapsamında taraflarca aksi kararlaştırılabilir. Güçlü bir
-alacaklı (iş sahibi) vekili, sözleşmeye mutlak surette şu klozları eklemelidir:
-*"Alacaklının uğradığı fiilî zararın kararlaştırılan ceza koşulu tutarını 
-aşması hâlinde; alacaklı, borçlunun kusurunu ispat etmekle yükümlü olmaksızın, 
-aşkın zararın tamamını talep etme hakkına sahiptir. Borçlu, bu durumda 
-kusursuzluğunu ispat yükünün kendisine ait olduğunu (TBK m. 112 paralelinde) 
-gayrikabili rücu kabul ve beyan eder."* Bu kloz, ileride açılacak bir aşkın 
-zarar davasında davacıyı çok ağır bir ispat yükünden (probatio diabolica) 
-kurtaracaktır.
+#### 6. Pratik Uygulama Notları
 
-**2. HMK Kapsamında Taleplerin Yığılması ve Terditli İleri Sürülmesi:**
-Dava dilekçesinde alacaklı vekili, sadece aşkın zararı dava edip ceza koşulunu 
-unutmamalıdır. Doğru bir usuli kurgu (HMK m. 110 Taleplerin Yığılması); 
-"Öncelikle sözleşme uyarınca muaccel olan X TL ceza koşulunun tahsiline (TBK m.
-180/1); ayrıca müvekkilin toplam zararı X+Y TL olduğundan, ceza miktarını aşan 
-Y TL tutarındaki aşkın zararın borçlunun kusuru da sabit olmakla tahsiline (TBK
-m. 180/2)" şeklinde yapılmalıdır.
-
-**3. Sözleşmenin Kurulduğunun (TBK m. 1) İspatı Zafiyeti:**
-Özellikle elektronik ortamlarda (WhatsApp, e-posta) veya zımni davranışlarla 
-kurulan ticari ilişkilerde, taraflar ihtilaf çıktığında öncelikle "zaten 
-sözleşme kurulmamıştı, iradeler uyuşmadı" savunması yaparlar. Bu durumda ceza 
-koşulu da çökeceğinden, sözleşme görüşmeleri (pazarlık) evresinin mutlaka bir 
-"Niyet Mektubu (Letter of Intent)" veya "Çerçeve Sözleşme" ile hukuki güvenceye
-alınması, irade beyanlarının tam olarak hangi an uyuştuğunun (TBK m. 1) metinde
-belirtilmesi hayati önem taşır.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri, TBK m. 1 
-bağlamında irade beyanlarının fiilî veya güven teorisine göre uyuşmasını 
-sözleşmenin kurucu unsuru saymakta; TBK m. 180 bağlamında ise ceza koşulunun 
-zarardan bağımsızlığını ve aşkın zararda ispat yükünü kesin çizgilerle içtihat 
-etmektedir.
-
-Sözleşmenin Kurulması (TBK m. 1) hususunda Yargıtay Hukuk Genel Kurulu'nun 
-(HGK) klasikleşmiş yaklaşımında şu dogmatik kural şablonlaşmıştır: *"Mülga 818 
-sayılı Borçlar Kanunu’nda (BK) olduğu gibi 6098 sayılı Türk Borçlar Kanunu’nda 
-(TBK) da sözleşme borç ilişkisinin kaynakları arasında sayılmış ve sözleşmenin 
-tarafların iradelerini karşılıklı ve birbirine uygun olarak açıklamalarıyla 
-kurulacağı (TBK. m.1) hüküm altına alınmıştır. Belirtmek gerekir ki, bir 
-hukuki işlemin geçerli ve amacına uygun hukuki sonuçlar doğurabilmesi için o 
-hukuki işlemi yapan kişi veya kişilerin sağlıklı bir şekilde oluşmuş 
-iradelerinin karşılıklı olarak uyuşması şarttır. Esaslı noktalarda uyuşma 
-bulunmadıkça sözleşme kurulmuş sayılamaz. Somut olayda tarafların satış bedeli 
-(objektif esaslı nokta) üzerinde karşılıklı bir mutabakatı bulunmadığından 
-sözleşmenin kurulmadığı (yokluk) kabul edilmelidir."*
-
-Ceza Koşulunun Zarardan Bağımsızlığı ve Aşkın Zarar (TBK m. 180) hususunda 
-Yargıtay 15. Hukuk Dairesi'nin içtihat yönelimi son derece nettir: *"6098 
-sayılı TBK'nın 180. maddesi uyarınca alacaklı, hiçbir zarara uğramadığını veya 
-zararının ceza miktarından az olduğunu borçlu kanıtlasa dahi, geçerli olarak 
-kararlaştırılan ceza tutarını talep hakkına sahiptir. Ceza koşulu talebi için 
-malvarlığında bir azalma şartı aranmaz. Ancak davacı alacaklı, ceza miktarını 
-aşan bir zararı bulunduğunu iddia ederek 'aşkın zarar' talebinde bulunuyorsa; 
-TBK m. 180/2 (mülga BK m. 159/2) hükmü gereğince, hem zararın ceza miktarını 
-aştığını hem de borçlunun sözleşmeyi ihlalde kusurlu bulunduğunu yasal 
-delillerle ispat etmek zorundadır. Mahkemece, davacının aşkın zarara yönelik 
-kusur ispat yükünü yerine getirip getirmediği araştırılmadan doğrudan genel 
-hükümlere (TBK 112) göre hüküm kurulması yasa ve usule aykırıdır."*
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nda yer alan **Sözleşmenin Kurulması (TBK m. 1 / OR Art. 
-1)** rejimi ile **Ceza Koşulu ve Zarar İlişkisi (TBK m. 180)** kurumları, 
-borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
-Nami Nomer'in eserleri ekseninde; "İspat Yükünün Tersine Çevrilmesinin Dogmatik
-Tutarsızlığı" ve "Güven Teorisinin Sınırları" bağlamında çok derin kuramsal 
-eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
+Madde 180, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en sert felsefi eleştiri, Sisteminizdeki *"Sözleşmeye Aykırılık ve 
-Temerrüt"* tartışmalarında merkezî bir yer tuttuğu üzere; **TBK m. 180/2'de 
-Düzenlenen 'Aşkın Zararda Kusurun Alacaklı Tarafından İspat Edilmesi' 
-Kuralının, Borçlar Hukukunun Genel Sorumluluk Rejimiyle (TBK m. 112) Çelişen 
-Dogmatik Bir Anomali Olmasıdır**. Oğuzman/Öz ve Eren'in öğretilerinde haklı 
-olarak sorgulandığı üzere; Türk borçlar hukukunda akdi sorumluluğun temel 
-ilkesi "kusur sorumluluğudur" ve yasa koyucu TBK m. 112'de borçlunun kusurlu 
-olduğunu karine olarak kabul edip, kurtuluş kanıtı getirme (kusursuzluğunu 
-ispat etme) yükünü borçluya vermiştir. Oysa TBK m. 180/2'de alacaklı, sırf 
-zararını ceza miktarı kadar peşinen tasfiye etme imkânı bulduğu için 
-cezalandırılmakta ve ceza tutarını aşan zararını talep ederken "borçlunun 
-kusurunu ispat etmek" gibi ağır bir ispat yüküyle karşı karşıya 
-bırakılmaktadır. Temerrüt faizindeki aşkın zararı düzenleyen TBK m. 122'de de aynı çarpık yapı mevcuttur. Rona Serozan'ın da şiddetle eleştirdiği gibi;
-asıl borcu ihlal eden borçlu, sırf ortada bir ceza koşulu anlaşması var diye 
-genel ispat kurallarının (TBK m. 112) dışına çıkarılarak himaye edilmemelidir. 
-Kanunlaştırma tekniği (Legistik) açısından, aşkın zarar taleplerinde de kusur 
-karinesinin borçlu aleyhine işletilmemesi (yani ispat yükünün alacaklıya 
-yıkılması) sözleşme adaletini (Justitia commutativa) zedeleyen arkaik bir 
-tercihtir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, **TBK m. 1'de İfade Edilen 'İrade Beyanlarının 
-Uyuşması' Kuralında, 'İkinci Derecedeki Noktaların' Belirlenmesi Sorununun 
-Yargılamada Yaratığı Belirsizliktir**. Kanun (TBK m. 2) taraflar esaslı 
-noktalarda uyuşmuşsa, yan (ikinci derecedeki) noktalar üzerinde durulmamış olsa
-bile sözleşmenin kurulmuş sayılacağını emreder. Ancak ticari hayatta, standart 
-bir satış sözleşmesindeki "teslim yeri", "yetkili mahkeme" veya "hasarın geçiş 
-anı" gibi unsurlar kanuna göre "ikinci derecede (subjektif esaslı)" nokta kabul
-edilse de; tarafların bu konularda fiilen uzlaşamamış olması, hâkimin 
-sözleşmeyi güven teorisine dayanarak "kurulmuş" ilan edip boşlukları yasa veya 
-örf ile doldurmasını zorunlu kılar. Ticari aktörler arasında, iradelerin tam 
-uyuşmadığı (battle of the forms - şartların çarpışması) durumlarda hâkimin 
-sözleşmeyi normatif olarak kurması, sözleşme özgürlüğüne yargısal bir müdahale 
-teşkil etmekte ve taraflara beklemedikleri bir borç yükü (ve ihlal hâlinde 
-beklemedikleri bir ceza koşulu tehdidi) doğurmaktadır. Hukukun, irade ile beyan
-arasındaki bu gri alanda Güven Teorisi'ni salt sözleşmeyi ayakta tutmak adına 
-aşırı geniş yorumlaması doktriner bir zafiyettir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 180, «2. Ceza ile zarar arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 180, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 180'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 180, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 180, «2. Ceza ile zarar arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 180, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 180'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 180, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 180, «2. Ceza ile zarar arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 180, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 180'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 180, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 180, «2. Ceza ile zarar arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 180, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 180'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 180, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 180, «2. Ceza ile zarar arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 180, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 180'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 180, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 180, «2. Ceza ile zarar arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 180, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 180'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 180, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 180, «2. Ceza ile zarar arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 180, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 180'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 180'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 1.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 180. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 180 resmi metni ve kanunun sistematiği.

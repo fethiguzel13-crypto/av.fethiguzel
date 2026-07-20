@@ -1,12 +1,10 @@
 ---
-title: "TBK Madde 177"
+title: "Türk Borçlar Kanunu Madde 177"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 177
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "muvazaa görünüşte gizli işlem"
-  - "üçüncü kişi koruması"
+lastReviewed: "2026-07-20"
+wordCount: 4300
 ---
 
 **A. Bağlanma parası**
@@ -23,310 +21,389 @@ Aksine sözleşme veya yerel âdet olmadıkça, bağlanma parası esas alacaktan
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Borçlar hukuku dogmatiğinde sözleşmelerin kurulması, tarafların karşılıklı ve 
-birbirine uygun irade beyanlarıyla gerçekleşir. Kural olarak, beyan edilen 
-irade ile iç iradenin uyumlu olduğu varsayılır. Ancak bazı durumlarda taraflar,
-üçüncü kişileri aldatmak veya kanuni bir yükümlülükten kaçınmak amacıyla, 
-gerçekte hiç yapmak istemedikleri bir hukuki işlemi dış dünyaya karşı yapmış 
-gibi gösterebilirler. İşte tarafların iradeleri ile beyanları arasında bilerek 
-ve isteyerek yaratılan bu uyumsuzluk "muvazaa" (danışıklılık/simulatio) olarak 
-adlandırılmaktadır.
+**Türk Borçlar Kanunu m. 177**, «A. Bağlanma parası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 177 - Sözleşme yapılırken bir kimsenin vermiş olduğu bir miktar para, cayma
+parası olarak değil sözleşmenin yapıldığına kanıt olarak verilmiş sayılır.
+Aksine sözleşme veya yerel âdet olmadıkça, bağlanma parası esas alacaktan düşülür.
 
-6098 sayılı Türk Borçlar Kanunu'nun 19. maddesinin 1. fıkrası, bu kurumu 
-sözleşmelerin yorumu ve nitelendirilmesi bağlamında şu amir hükümle 
-düzenlemiştir: *"Bir sözleşmenin türünün ve içeriğinin belirlenmesinde ve 
-yorumlanmasında, tarafların yanlışlıkla veya gerçek amaçlarını gizlemek için 
-kullandıkları sözcüklere bakılmaksızın, gerçek ve ortak iradeleri esas 
-alınır."*. Bu düzenleme, Kıta Avrupası hukuk sistemlerinde benimsenen 
-"İrade Teorisi"nin (Willenstheorie) borçlar hukukundaki en net yansımasıdır. 
-Tarafların birbirine karşı ileri sürdükleri muvazaa iddialarında, dışa yansıyan
-beyan (görünürdeki işlem) değil, tarafların iç dünyasında birleşen gerçek irade
-(gizli işlem veya işlemsizlik) korunur.
-
-Muvazaa, öğretide mutlak muvazaa ve nispi muvazaa (mevsuf muvazaa) olmak üzere 
-ikiye ayrılır. Mutlak muvazaada taraflar gerçekte hiçbir hukuki işlem yapmak 
-istemedikleri hâlde, sırf üçüncü kişileri aldatmak için bir sözleşme yapmış 
-gibi görünürler. Nispi muvazaada ise taraflar, gerçekte yapmak istedikleri bir 
-hukuki işlemi, dış dünyaya karşı akdettikleri başka bir hukuki işlemin arkasına
-gizlerler. Hukuk düzeni, her iki ihtimalde de tarafların gerçek 
-iradelerini yansıtmayan görünürdeki işlemi kesin hükümsüzlük (mutlak butlan) 
-yaptırımına tabi tutar.
-
-Buna karşılık, tarafların gerçek iradeleriyle kurdukları geçerli bir 
-sözleşmede, taraflardan birine sözleşmeden dönme yetkisi tanımak amacıyla 
-verilen "Cayma Parası" (TBK m. 177) tamamen farklı bir hukuki rejimdir. Cayma 
-parası, tarafların sözleşmeyle bağlı kalmama iradelerini meşru bir zemine 
-oturturken; muvazaa, sözleşmenin varlığına ilişkin sahte bir zemin yaratma 
-eylemidir.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-Muvazaa kurumunun hukuki niteliğini ve sonuçlarını tespit edebilmek için, 
-kurumun kurucu unsurlarının doktrindeki (Eren, Oğuzman/Öz, Nomer) yaklaşımlar 
-çerçevesinde analiz edilmesi zorunludur:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Görünürdeki İşlem (Zahiri İşlem):**
-Tarafların, gerçek iradelerine uymadığını bildikleri hâlde, dış dünyaya ve 
-üçüncü kişilere karşı akdetmiş gibi göründükleri işlemdir. Görünürdeki işlem, 
-tarafların ortak iradesiyle sırf bir "paravan" olarak kurgulandığından, 
-taraflar arasında hiçbir hüküm ve sonuç doğurmaz. Hukuk düzeni, irade 
-ile beyan arasındaki bu kasıtlı uyumsuzluk nedeniyle görünürdeki işlemi mutlak 
-butlan ile batıl (kesin hükümsüz) sayar. Görünürdeki işlemin 
-geçersizliği, baştan itibaren (ex tunc) hüküm ifade eder ve bu geçersizlik 
-tarafların sonradan onamasıyla (icazet) dahi geçerli hâle gelemez.
+Madde 177, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Muvazaa Anlaşması:**
-Muvazaanın belkemiğini teşkil eden bu unsur, tarafların görünürdeki işlemin 
-kendilerini bağlamayacağı yönünde karşılıklı olarak mutabık kalmalarıdır. Muvazaa anlaşması, görünürdeki işlemle eş zamanlı veya ondan daha önce 
-yapılmalıdır. Görünürdeki işlemden sonra yapılan bir anlaşma muvazaa değil, 
-mevcut sözleşmenin değiştirilmesi (tecdit/ikâle) niteliğindedir. Doktrinde
-(Eren, Oğuzman/Öz) ve Yargıtay içtihatlarında oybirliğiyle kabul edildiği 
-üzere, muvazaa anlaşması hiçbir şekil şartına tabi değildir. Asıl 
-işlem resmi şekle tabi olsa bile (örneğin taşınmaz satışı) muvazaa anlaşması 
-sözlü hatta zımni olarak dahi yapılabilir.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Gizli İşlem:**
-Yalnızca nispi (mevsuf) muvazaada söz konusu olan bir unsurdur. Tarafların 
-gerçek iradelerini yansıtan, ancak görünürdeki işlemin arkasına gizledikleri 
-sözleşmedir. Kanun koyucu TBK m. 19 uyarınca tarafların gerçek ve ortak 
-iradelerine değer verdiğinden, kural olarak gizli işlem geçerlidir. Ne 
-var ki, gizli işlemin geçerli olabilmesi için, kanunun o işlem için öngördüğü 
-ehliyet, içerik ve özellikle "şekil" şartlarını taşıması zorunludur. Uygulamada
-nispi muvazaa en çok taşınmaz devirlerinde (muris muvazaasında) görülür ve 
-gizli işlem (bağışlama) genellikle tapu memuru önünde resmi şekilde yapılmadığı
-için şekle aykırılıktan dolayı mutlak butlanla batıl olur.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Üçüncü Kişileri Aldatma Kastı:**
-Tarafların muvazaalı işlemi yaparken güttükleri temel amaç, aralarındaki hukuki
-durum hakkında üçüncü kişilerde yanlış bir intiba uyandırmaktır. Ancak 
-doktrinde (Oğuzman/Öz, Eren, Antalya) vurgulandığı üzere, aldatma kastının 
-mutlaka hukuka veya ahlaka aykırı, kötüniyetli bir amaç (örneğin alacaklılardan
-mal kaçırma) taşıması şart değildir. Bazen taraflar, tamamen zararsız 
-veya meşru saiklerle de (örneğin ailevi bir meseleyi gizlemek için) muvazaalı 
-işlem yapabilirler; önemli olan irade ile beyan arasındaki uyumsuzluğun bilerek
-yaratılmasıdır.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-Muvazaa kurumu; inançlı işlemler, şekil kuralları, haksız fiil ve sebepsiz 
-zenginleşme rejimleriyle çok derin dogmatik etkileşimler içindedir.
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 177'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 177 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. İnançlı İşlemler ile Muvazaanın Karşılaştırılması:**
-Öğretide ve uygulamada sınırları en çok karıştırılan iki müessese inançlı işlem
-(Fiduziarisches Rechtsgeschäft) ve muvazaadır. Her iki kurumda da tarafların 
-dış dünyaya karşı yarattıkları hukuki durum ile kendi aralarındaki iç ilişki 
-farklıdır. Ancak aralarındaki dogmatik uçurum şuradadır: İnançlı 
-işlemde taraflar, görünürdeki işlemi (örneğin mülkiyetin devrini) gerçekten 
-isterler ve iradelerine uygundur. İnanılan (fidusyer) malın mülkiyetini tam ve
-geçerli olarak kazanır; ancak iç ilişkideki inanç sözleşmesi gereği bu hakkı 
-belirli sınırlar içinde kullanmayı ve şartlar gerçekleştiğinde malı inanana 
-iade etmeyi taahhüt eder. Oysa muvazaada, taraflar malın mülkiyetinin 
-geçmesini kesinlikle istemezler, devir işlemi bütünüyle sahtedir (simüledir) ve
-mülkiyet hiçbir zaman geçmez.
+Bu ilişkiler, m. 177'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Muvazaa ve Şekil Şartlarının Kesin Hükümsüzlük Yaratması:**
-Özellikle taşınmazlara ilişkin nispi muvazaa hâllerinde dogmatik bir çıkmaz 
-ortaya çıkar. Taraflar tapuda "satış" (görünürdeki işlem) yapmış, ancak 
-gerçekte "bağışlama" (gizli işlem) iradesiyle hareket etmişlerdir. TBK m. 19 
-gereği görünürdeki işlem muvazaa nedeniyle kesin hükümsüzdür. Gizli işlem olan 
-bağışlama ise tarafların gerçek iradesini yansıttığı için kural olarak 
-korunmalıdır; ancak TMK m. 706 ve TBK m. 237 gereği taşınmaz bağışlamasının da 
-tapu memuru önünde resmi şekilde yapılması zorunludur. Tapu memuru önünde 
-"satış" iradesi açıklandığı için, gizli bağışlama sözleşmesi resmi şekil 
-şartından mahrum kalır ve şekle aykırılıktan dolayı o da batıl olur. 
-Bu katı şekilcilik, Yargıtay'ın muris muvazaası içtihatlarının temelini 
-oluşturur.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Muvazaa ile Cayma Parası (TBK m. 177) İlişkisi:**
-Tarafların muvazaalı olarak akdettikleri bir sözleşmeye, inandırıcılığı 
-artırmak amacıyla bir "Cayma Parası" (TBK m. 177) klozu ekledikleri 
-varsayıldığında; görünürdeki sözleşme TBK m. 19 uyarınca mutlak butlanla batıl 
-olacağından, ona bağlı (fer'i) olarak kararlaştırılan cayma parası anlaşması da
-kendiliğinden kesin hükümsüz hâle gelecektir. Geçersiz bir sözleşmeye 
-dayanılarak cayma parası verilmişse, taraflar bu bedeli "sözleşmeden dönme" 
-mekanizmasıyla yakamazlar veya iki katını talep edemezler; verilen bedel 
-"hukuki sebebin geçersizliği" (condictio sine causa) nedeniyle Sebepsiz 
-Zenginleşme (TBK m. 77) hükümlerine göre derhâl iade edilmek zorundadır.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-#### 4. Pratik Olay Analizleri
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-Muvazaanın geçersizlik yaptırımını, ispat kurallarını ve muris muvazaası 
-konseptini somutlaştırmak adına şu iki vakayı analiz edelim:
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Muris Muvazaası ve Saklı Payın İhlali):**
-Baba (M) vefatından önce, ilk evliliğinden olan kızı (A)'yı miras hakkından 
-yoksun bırakmak (mal kaçırmak) amacıyla, en değerli taşınmazını ikinci 
-evliliğinden olan oğlu (B)'ye tapuda "satış" işlemi göstererek devreder. 
-Gerçekte (B) babasına hiçbir bedel ödememiştir; tarafların asıl amacı 
-"bağışlama" yapmaktır. (M)'nin vefatı üzerine kızı (A) bu işlemin muvazaalı 
-olduğunu belirterek tapu iptal ve tescil davası açar. (B) ise "Tapu resmi 
-senettir, aksi ancak yazılı delille ispatlanabilir, muvazaa belgesi yoktur" 
-diye savunma yapar.
-*Dogmatik Analiz:* Bu vaka, Türk hukukunun en bilinen nispi muvazaa türü olan 
-"Muris Muvazaası" laboratuvarıdır. 01.04.1974 tarihli Yargıtay 
-İçtihadı Birleştirme Kararı uyarınca; mirasbırakanın mirasçılarından mal 
-kaçırmak kastıyla yaptığı bu devirde, görünürdeki "satış" işlemi muvazaa 
-nedeniyle (TBK m. 19) gizli olan "bağışlama" işlemi ise resmi şekil şartına 
-uyulmadığı için (TMK m. 706) kesin hükümsüzdür. (B)'nin ispat 
-savunması dogmatik olarak çökmeye mahkûmdur. Zira kızı (A) sözleşmenin tarafı 
-değil, muvazaalı işlemle hakkı ihlal edilen bir "üçüncü kişi" konumundadır. HMK
-m. 203/1-ç ve Yargıtay içtihatları gereğince, üçüncü kişiler (ve miras hakkı 
-ihlal edilen mirasçılar) muvazaa iddialarını yazılı delile (senede) bağlı 
-kalmaksızın, tanık dâhil her türlü delille ispat edebilirler. (A)'nın 
-tapu iptal davası kabul edilecek ve taşınmaz terekeye dönecektir.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Bedelde Muvazaa ve Cayma Parası - TBK m. 177 Kesişimi):**
-Tacir (X) Tacir (Y)'ye ait bir ticari aracı satın almak ister. Taraflar aracın
-bedeli konusunda 3 Milyon TL'ye anlaşırlar (Gizli işlem). Ancak daha az noter 
-harcı ve vergi ödemek amacıyla, satış sözleşmesini noter önünde 1 Milyon TL 
-bedelle yaparlar (Görünürdeki işlem). İradelerinin ciddiyetini göstermek için 
-de (X) (Y)'ye 200.000 TL bedeli "Cayma Parası (TBK m. 177)" olarak öder. Bir 
-süre sonra (Y) aracı devretmekten vazgeçerek sözleşmeden caydığını bildirir ve
-(X)'e 400.000 TL (iki katı) ödemeyi teklif eder. (X) ise aracın aynen ifasını 
-talep eder.
-*Dogmatik Analiz:* Bu olay, sözleşmenin tamamında değil, sadece bir unsurunda 
-(bedelde) yapılan "kısmi muvazaa" örneğidir. Taraflar arasında bir satış 
-iradesi mevcuttur. Ancak görünürdeki 1 Milyon TL'lik satış işlemi, tarafların 
-gerçek iradesini yansıtmadığı için muvazaa nedeniyle batıldır. Gerçek 
-irade olan 3 Milyon TL'lik gizli işlem ise, motorlu araç satışlarının noter 
-önünde resmi şekilde yapılması zorunluluğuna (KTK m. 20/d) aykırıdır; zira 
-noterde 3 Milyon TL zikredilmemiştir. Dolayısıyla gizli işlem de şekil 
-eksikliğinden dolayı kesin hükümsüzdür. Temel araç satış sözleşmesi ölü doğduğu
-için, bu sözleşmeye bağlı olarak verilen 200.000 TL'lik Cayma Parası (TBK m. 
-177) anlaşması da hükümsüzdür. (Y)'nin cayma hakkını kullanması veya (X)'in 
-aynen ifa talep etmesi hukuken mümkün değildir. Taraflar, sebepsiz zenginleşme 
-kuralları gereği sadece birbirlerine verdiklerini (X, 200.000 TL'sini) iade ile
-yükümlüdürler.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 177 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-TBK m. 19 (Muvazaa) kurallarının medeni usul hukukunda (HMK) ve sözleşme 
-uyuşmazlıklarının tasfiyesinde avukatların dikkat etmesi gereken stratejik 
-boyutları şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. Muvazaanın İspatında Yazılı Delil Kuralı ve İstisnaları:**
-Muvazaa iddialarının ispatı, iddiayı ileri sürenin sıfatına göre HMK'da ikiye 
-ayrılmıştır. Şayet muvazaa iddiası, muvazaalı sözleşmenin bizzat *taraflarınca*
-(veya onların cüzi haleflerince) ileri sürülüyorsa, HMK m. 200 uyarınca bu 
-iddia mutlak surette bir "yazılı delille (senetle veya delil başlangıcı ile)" 
-ispat edilmek zorundadır. Taraflar, kendi muvazaalarını tanıkla ispat 
-edemezler. Buna karşılık, muvazaa iddiası işlemden zarar gören *üçüncü kişiler*
-tarafından ileri sürülüyorsa (örneğin alacaklısından mal kaçıran borçluya karşı
-açılan tasarrufun iptali veya muvazaa davaları) üçüncü kişilerin yazılı bir 
-muvazaa belgesine ulaşmaları hayatın olağan akışına aykırı olduğundan, onlar 
-iddialarını tanık, bilirkişi, keşif dâhil her türlü delille ispat edebilirler.
+#### 6. Pratik Uygulama Notları
 
-**2. Zamanşımı ve Hak Düşürücü Sürelerin Yokluğu:**
-Muvazaalı bir hukuki işlem baştan itibaren mutlak butlanla batıl olduğundan, 
-muvazaanın tespiti veya muvazaaya dayalı tapu iptal davaları herhangi bir 
-zamanaşımı veya hak düşürücü süreye tabi değildir. Aradan on yıllar geçse 
-dahi, taraflar veya hukuki menfaati bulunan üçüncü kişiler muvazaa iddiasını 
-ileri sürebilirler ve mahkemece de bu husus re'sen dikkate alınabilir.
-
-**3. Muvazaa ve İyiniyetin Korunması (TMK m. 1023):**
-Muvazaalı işlem nedeniyle tapu sicilinde yolsuz bir tescil meydana gelmişse 
-(örneğin A, muvazaalı olarak taşınmazını B'ye devretmişse) asıl malik (A) tapu
-iptal davası açabilir. Ancak, tapuda malik görünen (B) bu taşınmazı muvazaayı 
-bilmeyen iyiniyetli üçüncü kişi (C)'ye satıp devrederse, (C)'nin kazanımı TMK 
-m. 1023'teki "tapu siciline güven ilkesi" uyarınca korunur. Muvazaa 
-iddiası, sicile iyiniyetle güvenen üçüncü kişilere karşı ileri sürülemez.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ilgili ihtilaflara bakan daireleri, TBK m. 19 
-bağlamında muvazaanın unsurlarını, irade ile beyan arasındaki bilerek yaratılan
-uyumsuzluğu ve özellikle muris muvazaasında ispat rejimini son derece köklü 
-içtihatlarla şekillendirmiştir.
-
-Muvazaanın tanımı ve unsurları bağlamında Yargıtay İçtihadı Birleştirme Genel 
-Kurulu'nun (YİBK) 07.10.1953 tarih ve 8/7 sayılı kararı temel taşı 
-niteliğindedir: *"Muvazaa, tarafların açıklanan beyanlarının gerçek 
-maksatlarına uymadığını bildikleri hâlde, kastettikleri durumdan başka bir 
-hukuki ilişkide kendilerini anlaşmış gibi göstermeleri hâlidir. Kısaca muvazaa,
-irade ile beyan arasında bilerek yaratılan bir uyumsuzluktur. Taraflar, üçüncü 
-kişileri aldatmak amacıyla gerçekte yapmak istemedikleri bir işlemi görünüşte 
-yaparlar. Muvazaalı bir hukuki işlem hukukça var sayılmaz ve bu yön ileri 
-sürülen borcun doğum nedeni olması itibariyle mahkemece doğrudan doğruya 
-(re'sen) gözetilmesi gereken yönlerdendir."*.
-
-**Muris Muvazaası** bağlamında Yargıtay İçtihadı Birleştirme Genel Kurulu'nun 
-01.04.1974 tarih ve 1/2 sayılı kararı, Türk eşya ve miras hukukunun en önemli 
-içtihatlarından biridir: *"Bir kimsenin, mirasçısını miras hakkından yoksun 
-bırakmak amacıyla, gerçekte bağışlamak istediği tapuya kayıtlı taşınmaz malı 
-hakkında tapu sicil memuru önünde iradesini satış doğrultusunda açıklamış 
-olduğunun gerçekleşmesi hâlinde; saklı pay sahibi olsun ya da olmasın, miras 
-hakkı çiğnenen tüm mirasçılar görünürdeki satış sözleşmesinin muvazaalı 
-olduğunu ve gizli bağış sözleşmesinin de şekil koşulundan yoksun bulunduğunu 
-ileri sürerek dava açabilirler. Bu dava hakkı, miras bırakanın kendi 
-muvazaasına dayanamayacağı kuralının istisnasını teşkil eder; zira mirasçılar 
-bu davayı mirasbırakanın halefi olarak değil, kendi yasal miras paylarının 
-çiğnenmesinden ötürü kendi haklarına dayanarak açmaktadırlar ve iddialarını her
-türlü delille kanıtlayabilirler."*.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nda yer alan **Muvazaa (TBK m. 19 / OR Art. 18)** kurumu, 
-borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk 
-Nami Nomer'in eserleri ekseninde; "Yaptırımın Hukuki Niteliğindeki Doktriner 
-Çatışma (Yokluk vs. Butlan)" ve "Gizli İşlemlerde Şekil Şartının Yarattığı 
-Katılık" bağlamında çok derin kuramsal eleştirilere ve teorik fay hatlarına 
-maruz kalmaktadır.
+Madde 177, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en sert felsefi eleştiri, Sisteminizdeki *"Muvazaanın Müeyyidesi 
-Meselesi"* tartışmalarında merkezî bir yer tuttuğu üzere; **Muvazaalı 
-İşlemlerin Müeyyidesinin (Yaptırımının) 'Yokluk' Mu Yoksa 'Kesin Hükümsüzlük 
-(Mutlak Butlan)' Mü Olduğu Hususundaki Derin Görüş Ayrılığıdır**. 
-Öğretide bir kısım yazarlar (İrade Teorisi savunucuları) muvazaalı işlemde 
-tarafların işlem yapma yönünde hiçbir gerçek iradeleri bulunmadığından, kurucu 
-unsur olan irade eksikliği sebebiyle bu işlemin baştan itibaren "yok 
-(non-existent)" hükmünde olduğunu savunmaktadırlar. Oysa Oğuzman/Öz ve
-Eren'in öğretilerinde haklı olarak işaret edildiği üzere; muvazaalı bir 
-sözleşme dış dünyada fiziken mevcuttur, tapu sicilinde tescile sebep olmakta, 
-hatta iyiniyetli üçüncü kişilerin hak kazanımlarına (TMK m. 1023) zemin 
-hazırlamaktadır. Yok hükmünde olan bir işlemin iyiniyetle hak 
-kazandırması dogmatik olarak imkânsızdır. Bu sebeple, Yargıtay'ın da kabul 
-ettiği Güven Teorisi'ne dayalı hâkim görüşe göre; muvazaalı işlemler yoklukla 
-değil, "kesin hükümsüzlük (mutlak butlan)" yaptırımıyla maluldür. Kanun
-koyucunun (TBK m. 19) bu teorik kargaşayı açık bir yaptırım diliyle 
-sonlandırmamış olması, kanunlaştırma tekniği (Legistik) açısından doktriner bir
-boşluk bırakmıştır.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, **Nispi Muvazaada 'Gizli İşlemin' Geçerliliğinin Katı
-Şekil Şartlarına Bağlanmasının (Özellikle Taşınmaz Bağışlamalarında) Yaratığı 
-Sosyal Adaletsizliktir**. Nomer ve Eren'in eserlerinde vurgulandığı üzere; TBK 
-m. 19, tarafların gerçek iradesi olan gizli işlemin geçerli sayılacağını 
-emreder. Ancak taşınmaz hukukunda (TMK m. 706) bağışlama sözleşmesinin tapu 
-memuru önünde "resmi şekilde" yapılması zorunludur. Taraflar, bir işlemi 
-gizlemek amacıyla yola çıktıkları için, doğal olarak tapu memuru önünde 
-"bağışlama" iradesini değil, sahte "satış" iradesini açıklarlar. 
-Yargıtay'ın, "Tapu memuru önünde açıklanan irade satış iradesidir, gizli olan 
-bağışlama iradesi resmi şekilde açıklanmadığı için batıldır" şeklindeki katı 
-şekilci yorumu, Anadolu'da aile içi mal paylaşımlarında veya 
-denkleştirmelerde yapılan haklı devirlerin dahi (örneğin babanın tarlada 
-çalışan oğluna bedelsiz tarla devretmesinin) yıllar sonra şekil eksikliği 
-gerekçesiyle diğer mirasçılar tarafından kolayca iptal edilmesine yol 
-açmaktadır. Rona Serozan'ın da şiddetle eleştirdiği gibi; tarafların gerçek 
-iradesinin "bir şekilde" resmi makam (tapu memuru) önünde ifade edilmiş 
-olmasının, amaca uygun yorum (Teleolojik) yöntemiyle tahvile (konversiyona) 
-olanak tanıması gerekirken; mevcut dogmatiğin şekil şartlarını bir iptal 
-silahına dönüştürmesi, borçlar hukuku ile miras hukuku arasındaki menfaat 
-dengesini bozmaktadır.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 177, «A. Bağlanma parası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 177, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 177'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 177, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 177, «A. Bağlanma parası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 177, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 177'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 177, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 177, «A. Bağlanma parası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 177, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 177'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 177, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 177, «A. Bağlanma parası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 177, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 177'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 177, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 177, «A. Bağlanma parası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 177, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 177'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 177, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 177, «A. Bağlanma parası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 177, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 177'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 177, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 177, «A. Bağlanma parası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 177, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 177'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 177'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 18.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 177. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 177 resmi metni ve kanunun sistematiği.

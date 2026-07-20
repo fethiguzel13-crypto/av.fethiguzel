@@ -17,8 +17,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const resolvedParams = await params;
   const articleData = await getArticleData(resolvedParams.kanunId, resolvedParams.id)
   return {
-    title: `${articleData.title} | Fethi Güzel Akademik Arşiv`,
-    description: `${articleData.title} maddesi ve akademik analizi.`,
+    title: `${articleData.title} | Av. Fethi Güzel — Akademik Şerh`,
+    description: `${articleData.title}: resmî madde metni ve akademik şerh. Kavram analizi, sistematik ilişkiler, uygulama notları ve pratik örnekler. Av. Fethi Güzel dijital hukuk kütüphanesi.`,
+    openGraph: {
+      title: `${articleData.title} | Av. Fethi Güzel`,
+      description: `${articleData.kanun} — akademik madde şerhi ve resmî metin.`,
+      type: 'article',
+    },
   }
 }
 
@@ -34,7 +39,7 @@ export default async function ArticlePage({ params }: Props) {
       {/* Sol Uç: Önceki Madde */}
       <div className="flex-1 flex justify-start">
         {navInfo.prev ? (
-          <Link 
+          <Link
             href={`/mevzuat/${resolvedParams.kanunId}/${navInfo.prev.id}`}
             className="group flex items-center gap-2 bg-charcoal/5 hover:bg-charcoal/10 px-4 py-2 rounded-full transition-all magnetic-btn"
           >
@@ -45,8 +50,8 @@ export default async function ArticlePage({ params }: Props) {
           </Link>
         ) : (
           <div className="opacity-30 flex items-center gap-2 px-4 py-2">
-             <ChevronLeft size={16} />
-             <span className="text-[10px] font-bold tracking-widest uppercase">Önceki Bölüm</span>
+            <ChevronLeft size={16} />
+            <span className="text-[10px] font-bold tracking-widest uppercase">Önceki Bölüm</span>
           </div>
         )}
       </div>
@@ -61,7 +66,7 @@ export default async function ArticlePage({ params }: Props) {
             <h1 className="text-lg font-heading font-bold text-charcoal tracking-tight">
               {articleData.title}
             </h1>
-            <Link 
+            <Link
               href="/mevzuat"
               className="flex items-center gap-1 text-[9px] font-bold text-accent uppercase tracking-widest hover:translate-x-1 transition-transform"
             >
@@ -74,7 +79,7 @@ export default async function ArticlePage({ params }: Props) {
       {/* Sağ Uç: Sonraki Madde */}
       <div className="flex-1 flex justify-end">
         {navInfo.next ? (
-          <Link 
+          <Link
             href={`/mevzuat/${resolvedParams.kanunId}/${navInfo.next.id}`}
             className="group flex items-center gap-2 bg-charcoal/5 hover:bg-charcoal/10 px-4 py-2 rounded-full transition-all magnetic-btn"
           >
@@ -85,8 +90,8 @@ export default async function ArticlePage({ params }: Props) {
           </Link>
         ) : (
           <div className="opacity-30 flex items-center gap-2 px-4 py-2">
-             <span className="text-[10px] font-bold tracking-widest uppercase">Son Madde</span>
-             <ChevronRight size={16} />
+            <span className="text-[10px] font-bold tracking-widest uppercase">Son Madde</span>
+            <ChevronRight size={16} />
           </div>
         )}
       </div>
@@ -96,7 +101,7 @@ export default async function ArticlePage({ params }: Props) {
   return (
     <div className="bg-cream min-h-screen selection:bg-accent selection:text-white">
       <Navbar />
-      
+
       {/* Article Header Navigation */}
       <div className="fixed top-20 left-0 w-full z-40 bg-cream/80 backdrop-blur-md">
         <NavContent />
@@ -160,13 +165,13 @@ export default async function ArticlePage({ params }: Props) {
 
           {/* Alt Navigasyon Barı */}
           <div className="article-footer-nav mt-12">
-             <NavContent isFooter={true} />
+            <NavContent isFooter={true} />
           </div>
 
           <div className="mt-20 p-12 bg-charcoal/5 border border-charcoal/10 rounded-[2rem] text-center">
             <h3 className="text-charcoal font-heading text-xl font-bold mb-4">Metodolojik Not</h3>
             <p className="text-charcoal/60 max-w-xl mx-auto text-sm leading-relaxed mb-0">
-              Bu çalışma, <strong>Av. Fethi Güzel</strong> tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. 
+              Bu çalışma, <strong>Av. Fethi Güzel</strong> tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
               İçerik, güncel kanun değişiklikleri ve yüksek yargı kararları ışığında revize edilmektedir.
             </p>
           </div>

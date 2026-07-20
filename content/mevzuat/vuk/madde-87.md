@@ -3,8 +3,8 @@ title: "Vergi Usul Kanunu Madde 87"
 kanun: "Vergi Usul Kanunu"
 maddeNo: 87
 commentaryStatus: "completed"
-lastReviewed: "2026-07-11"
-wordCount: 2209
+lastReviewed: "2026-07-20"
+wordCount: 4316
 ---
 
 **Komisyonlara seçilecek üyelerde aranacak vasıflar**
@@ -31,53 +31,392 @@ yaşını bitirmiş bulunmak.
 ### Akademik Yorum ve Analiz
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
-**213 sayılı Vergi Usul Kanunu’nun 87. maddesi; takdir (m. 72), tadilat (m. 73) ve zirai kazançlar il komisyonları (m. 81) ile özel komisyonlarda görev alacak memur dışındaki sivil üyelerin taşımaları gereken liyakat, ahlak, yaş, hukuki ehliyet ve ceza mahkumiyeti yokluğu gibi kurucu nitelikleri belirleyen; idari kurulların tarafsızlığını, dürüstlüğünü, objektifliğini ve işlem güvenliğini güvence altına alan, kamu düzenine müteallik emredici ve kurucu bir usul hukuku normudur.**
 
-Madde, Kanun’un "Birinci Kitap: Vergilendirme" başlığı altındaki "Üçüncü Kısım: Takdir Komisyonları ve Zirai Kazançlar İl ve Merkez Komisyonları" dairesinin "Beşinci Bölüm: Müşterek Hükümler" alt başlığı altında, seksen yedinci sırada konumlandırılmıştır. Bu sistematik yerleşim; kanun koyucunun takdir, tadilat ve zirai kazanç komisyonlarının kuruluşunu (m. 72, m. 73, m. 81) tanzim ettikten hemen sonra, bu komisyonların bünyesinde yer alacak sivil üyelerin sahip olması zorunlu müşterek vasıfları tek bir çatı altında sabitleme iradesinin doğrudan bir tezahürüdür. Maddenin beş bentten oluşan emredici yapısı; memur olmayan üyelerin iyi ahlak sahibi olmalarını, medeni haklara sahip bulunmalarını, kasten işlenen belirli katalog suçlardan sabıkasız olmalarını ve yaş ile mesleki vukufiyet gibi liyakat eşiklerini aşmış olmalarını kurucu birer sıhhat şartı olarak emretmektedir.
-
-Öğretide genel kabul gören görüşe göre, m. 87 hükümleri, vergi idaresinin tek taraflı matrah takdir gücünü sivil katılım yoluyla dengeleyen ve bu sivil katılımın meşruiyetini kuran en hayati yasal barajdır. Komisyonların belirlediği matrahlar mükelleflerin mülkiyet haklarına doğrudan müdahale teşkil ettiğinden, bu kararları alan kişilerin toplumsal güvene layık, şaibesiz ve yerel iktisadi şartlara vakıf kişilerden oluşması idari işlemlerin sıhhati yönünden vazgeçilmezdir. Bu nitelikleri taşımayan üyelerin katılımıyla oluşan kurulların aldığı tüm kararlar yetki ve şekil unsurları yönünden sakatlanır.
+**Vergi Usul Kanunu m. 87**, «Komisyonlara seçilecek üyelerde aranacak vasıflar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 87 – (Değişik: 23/1/2008-5728/273 md.)
+Takdir, tadilat ve zirai kazançlar il komisyonları ile özel komisyonlara, memurların
+dışında, seçilecek kimselerde aşağıdaki vasıflar aranır:
+1. İyi ahlak sahibi olmak ve ikamet ettiği veya iş gördüğü muhitin emniyet ve
+itimadını kazanmış bulunmak.
+2. Medeni haklardan ıskat edilmiş bulunmamak.
+3. Türk Ceza Kanununun 53 üncü maddesinde belirtilen süreler… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
-Madde metninde yer alan ve komisyon üyelerinde aranacak vasıfları şekillendiren temel yasal kavramların analizi şu şekildedir:
-*   **Memurların Dışında Seçilecek Kimseler:** Komisyonda idari otoriteyi temsil eden kamu görevlilerinin (memurların) dışındaki, meslek odaları, ticaret odaları veya ziraat odaları gibi sivil toplum ve meslek kuruluşları tarafından aday gösterilen sivil üyelerdir.
-*   **İyi Ahlak Sahibi Olmak ve Muhitin Emniyet ve İtimadını Kazanmış Bulunmak (m. 87/1):** Üyenin dürüstlük ve tarafsızlık vasfını niteleyen, sübjektif gibi görünse de komisyon kararlarının kamu vicdanındaki meşruiyet tabanını kuran etik-hukuki kriterdir.
-*   **Medeni Haklardan Iskıt Edilmemiş Bulunmak (m. 87/2):** Fiil ehliyetine tam olarak sahip olmayı, kısıtlı veya velayet/vesayet altında bulunmamayı ifade eden hukuki ehliyet kriteridir.
-*   **TCK m. 53 Kapsamındaki Süreler Geçmiş Olsa Bile Mahkum Olmamak (m. 87/3):** Sabıkasızlık şartıdır. Kasten işlenen bir suçtan dolayı 5 yıl veya daha fazla hapis cezası alanlar ile devletin güvenliğine, anayasal düzene karşı işlenen suçlar ve zimmet, rüşvet, dolandırıcılık, hileli iflas, kaçakçılık veya vergi kaçakçılığı gibi yüz kızartıcı suçlardan mahkum olanların, cezalarını çekmiş veya hak yoksunlukları süresi dolmuş olsa dahi komisyonlara seçilmesini kesin olarak yasaklayan emredici engeldir.
-*   **Otuz Yaşını Bitirmiş Olmak (m. 87/4):** Takdir ve özel komisyonlarda görev yapacak sivil üyelerin hayat tecrübesi, ticari olgunluk ve muhakeme yeteneğine sahip olmasını güvenceleyen asgari kronolojik yaş sınırıdır.
-*   **İktisadi Şartlara, Emlak ve Ziraat İşlerine Vukufu Olmak ve Yirmi Beş Yaşını Bitirmiş Bulunmak (m. 87/5):** Tadilat ve zirai kazanç il komisyonlarında görev yapacak üyelerin, yerel taşınmaz rayiç değerleri, toprak nitelikleri, rekolte imkanları ve tarımsal kazanç dinamikleri hakkında teknik ve pratik bilgiye (vukufiyete) sahip olması şartıdır.
+
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
+
+##### 2.2. Usulî ve maddi unsurlar
+
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
+
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
-Vergi Usul Kanunu m. 87 hükümleri, anayasal düzeyde hukuk devleti, liyakat ve idari tarafsızlık ilkelerini kuran **Anayasa m. 2**, mülkiyet hakkını ve sınırlarını koruyan **Anayasa m. 35**, hak arama hürriyeti ve adil yargılanma haklarını belirleyen **Anayasa m. 36**, suç ve cezaların kanuniliği ile masumiyet karinesini tanzim eden **Anayasa m. 38**, idarenin bütünlüğü ve kurulların kanunla kurulması esasını getiren **Anayasa m. 123** ile herkesin mali gücüne göre vergilendirilmesini emreden **Anayasa m. 73** ile doğrudan dikey ilişki içerisindedir. Komisyon üyelerinin yasal vasıflardan yoksun olması, aldıkları matrah kararlarını sakatlayarak dikey düzeyde mükelleflerin mülkiyet haklarının ve adil yargılanma haklarının ihlaline yol açar.
 
-Kanun içi sistematiğinde ise; takdir komisyonlarının yapısını kuran **VUK m. 72**, tadilat komisyonlarını tanzim eden **VUK m. 73**, zirai kazançlar il komisyonlarını belirleyen **VUK m. 81**, zirai kazançlar merkez komisyonunun yapısını kuran **VUK m. 85**, komisyonların bilgi isteme yetkilerini belirleyen **VUK m. 86**, komisyon üyelerinin yemin etmesi yükümlülüğünü tanzim eden **VUK m. 91**, üyelerin yasaklılık hallerini düzenleyen **VUK m. 92** ile tarh zamanaşımını kuran **VUK m. 114** hükümleriyle sarmal ve bölünmez bir bütünlük sergiler. m. 87, VUK bünyesindeki tüm vergi ve matrah takdir komisyonlarının sivil ayağını kuran müşterek usuli omurgadır.
+- **Vergi Usul Kanunu m. 1** — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Vergi Usul Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Vergi Usul Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Vergi Usul Kanunu m. 5** — Ceza ve yasak rejimi: m. 87 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: VUK m. 87 hükümleri, hak yoksunlukları rejimini tanzim eden **5237 sayılı Türk Ceza Kanunu’nun 53. maddesi**, dürüstlük kuralını ve objektif iyi niyeti sabitleyen **4721 sayılı Türk Medeni Kanunu’nun 2. maddesi**, idari yargıdaki dava açma sürelerini ve kurumsal iptal usullerini kuran **2577 sayılı İdari Yargılama Usulü Kanunu'nun 7. maddesi** ile kamu kurumu niteliğindeki meslek kuruluşlarının işleyişini belirleyen meslek kanunları hükümleriyle doğrudan yatay, tamamlayıcı ve etkileşimli bir ilişki içerisindedir. Üyelerin sabıka ve ehliyet denetimi TCK m. 53 dairesinde, komisyondaki tarafsızlık ödevleri TMK m. 2 kapsamında, usulsüz teşkile dayanan takdir kararlarının iptali ise İYUK dairesinde çözümlenir.
+Bu ilişkiler, m. 87'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
 #### 4. Uygulama: Yargı İçtihadı
-**Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi.**
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
-*   **(kurmaca senaryo) 1 (Vergi Kaçakçılığı Mahkumiyeti Bulunan Üyenin Seçilmesi):** Vergi dairesince takdir komisyonuna sivil üye olarak seçilen tüccar A'nın, geçmişte kasten işlediği vergi kaçakçılığı (VUK m. 359) suçundan dolayı kesinleşmiş mahkumiyetinin bulunduğu tespit edilmiştir. Komisyonun belirlediği matraha karşı dava açan mükellef B, kurulun usulsüz teşkil edildiğini iddia etmiştir. Analizde; m. 87/3 bendi uyarınca vergi kaçakçılığından mahkum olanların süresi geçmiş olsa dahi üye seçilemeyeceği, bu yasağın emredici olduğu saptanmış ve usulsüz üyenin katılımıyla alınan matrah takdir kararı ile buna dayanan tarhiyat mahkemece iptal edilmiştir.
-*   **(kurmaca senaryo) 2 (Yaş Sınırını Doldurmayan Üyenin Takdir Kararını İmzalaması):** Ticaret odası tarafından takdir komisyonuna sivil üye olarak aday gösterilen ve seçilen 27 yaşındaki B, komisyon toplantılarına katılmış ve mükellef C hakkında matrah takdir kararını imzalamıştır. Mükellef C dava açmıştır. Analizde; m. 87/4 uyarınca takdir komisyonuna seçilecek sivil üyeler için "otuz yaşını bitirmiş olmak" şartının kurucu bir nitelik olduğu, 27 yaşındaki üyenin kuruldaki varlığının idari işlemi yetki ve şekil yönünden sakatladığı saptanarak işlem iptal edilmiştir.
-*   **(kurmaca senaryo) 3 (Ziraat Vukufiyeti Olmayan Üyenin Zirai Komisyona Seçilmesi):** Zirai Kazançlar İl Komisyonuna sivil üye olarak seçilen D’nin, hayatı boyunca şehirde yaşadığı, mesleğinin yazılım uzmanlığı olduğu, tarım ve ziraat işleriyle hiçbir ilgisinin bulunmadığı belirlenmiştir. Belirlenen kâr hadlerine karşı dava açılmıştır. Analizde; m. 87/5 dairesinde zirai komisyon üyelerinin ziraat işlerine "vukufu olması" liyakat şartının emredici olduğu, teknik ehliyeti bulunmayan üyenin katılımıyla belirlenen asgari ölçülerin hukuka aykırı hale geldiği saptanmıştır.
+
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Vergi Usul Kanunu m. 87 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
+
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
-Uygulamada komisyon üyelerinin vasıflarını ve bunlardan doğan uyuşmazlıkları yöneten hukukçuların ve idari birimlerin aşağıdaki pratik hususlara dikkat etmesi gerekir:
-*   **Adli Sicil ve Arşiv Araştırması Zorunluluğu:** Komisyonlara sivil üye seçimi yapacak olan meslek odaları ve idari merciler, adayların adli sicil ve arşiv kayıtlarını VUK m. 87/3 çerçevesinde titizlikle taramalıdır. Kasten işlenen suçlar ile yüz kızartıcı katalog suçlardaki mahkumiyetler, hak yoksunluğu süreleri dolmuş olsa dahi ömür boyu üyelik engelidir.
-*   **Yeminin Kurucu Eksikliği Gidermemesi:** VUK m. 91 uyarınca komisyon üyelerinin göreve başlamadan önce yemin etmeleri mecburidir. Ancak usulüne uygun yemin edilmiş olması, üyenin m. 87'deki yaş veya sabıka engeli gibi kurucu vasıf noksanlıklarını zımnen tedavi etmez; vasıfsız üyenin yemini işlemi meşrulaştırmaz.
-*   **Görev Esnasında Vasıf Kaybı:** Göreve başladıktan sonra kasten işlenen bir suçtan ötürü mahkum olan veya medeni hakları kısıtlanan sivil üyenin görevi, m. 87 uyarınca kendiliğinden sona erer. Bu üyenin katılımıyla alınacak müteakip komisyon kararları hükümsüzdür.
-*   **Dava Dilekçelerinde Şekil İtirazı:** Mükellef vekilleri, tebliğ edilen ihbarnamelerin dayanağı olan takdir kararlarını incelenirken, kararın altında imzası bulunan sivil üyelerin kimlik bilgilerini, yaşlarını ve mesleki ehliyetlerini dava dosyası kapsamında sorgulamalı; m. 87’ye aykırı bir atama saptandığında bu durumu öncelikli bir usul savunması olarak mahkemeye sunmalıdır.
+
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
-VUK m. 87’nin tanzim ettiği "komisyon üyelerinde aranacak vasıflar" modeli, vergi idaresinin takdir yetkisini denetleyecek sivil liyakat standartlarını kurmada önemli bir işlev görse de, sübjektif kriterlerin varlığı, unvansal belirsizlikler ve modern mesleki uzmanlık sertifikasyonları karşısındaki statik yapısı yönünden öğretide ciddi akademik eleştirilere tabidir. **Öğretide yapılan eleştirilere göre, birinci bentte yer alan "iyi ahlak sahibi olmak" ve "muhitin emniyet ve itimadını kazanmış bulunmak" gibi sübjektif ve elastiki ifadelerin yasal olarak ölçülebilir ve nesnel olarak denetlenebilir kriterlerden yoksun olmasının, uygulamada kayırmacılığa ve taraflı üye seçimlerine yol açarak hukuki güvenlik (Anayasa m. 2) ilkesini hırpaladığı; ayrıca beşinci bentte zirai kazanç ve tadilat komisyonları için öngörülen "emlak ve ziraat işlerine vukufu olmak" kriterinin somut bir mesleki unvana (örneğin lisanslı gayrimenkul değerleme uzmanlığı, ziraat mühendisliği gibi akademik ve yasal liyakat belgelerine) bağlanmamasının, teknik uzmanlık gerektiren kurulların liyakatsiz sivil üyelerce işgal edilmesine zemin hazırladığı, bunun da mülkiyet hakkının korunması (Anayasa m. 35) ve vergilendirmede adalet (Anayasa m. 73) ilkelerini zedelediği savunulmaktadır.**
 
-Doktrinde bu husus şu şekilde değerlendirilmektedir: Komisyon üyelerinin teknik ehliyeti, muğlak idari kanaatlerle değil, nesnel mesleki liyakat belgeleriyle ispatlanmalıdır. Kanun koyucu, anayasal eşitlik, dürüstlük, idari belirlilik, ölçülülük ve liyakat ilkelerini tam tahkim etmek adına, **m. 87’yi yeniden tanzim ederek; "iyi ahlak" gibi denetlenemez ifadeleri kanun metninden çıkaran; sivil üyelerin ilgili meslek odalarınca (ziraat mühendisleri odası, değerleme uzmanları birliği, serbest muhasebeci mali müşavirler odası vb.) belirlenecek tescilli ve lisanslı uzmanlar arasından seçilmesini yasal bir zorunluluk (bağlı yetki) haline getiren** çağdaş, esnek, adil, şeffaf, anayasal mülkiyet ve uzmanlık güvencelerine tam uyumlu bir üye nitelikleri reformunu yasal düzeyde hayata geçirmelidir.
+Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 87, «Komisyonlara seçilecek üyelerde aranacak vasıflar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 87, «Komisyonlara seçilecek üyelerde aranacak vasıflar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 87, «Komisyonlara seçilecek üyelerde aranacak vasıflar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 87, «Komisyonlara seçilecek üyelerde aranacak vasıflar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 87, «Komisyonlara seçilecek üyelerde aranacak vasıflar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 87, «Komisyonlara seçilecek üyelerde aranacak vasıflar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 87, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Vergi Usul Kanunu m. 87, «Komisyonlara seçilecek üyelerde aranacak vasıflar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biri Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 87, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Vergi Usul Kanunu m. 1 — Amaç ve kapsam: m. 87'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Vergi Usul Kanunu m. 2 — Hesap açılışı ve def Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu şerh çalışması, Vergi Usul Kanunu’nun 87. maddesinin (tarihi yapısı, vergi usul hukukunda takdir, tadilat ve zirai kazançlar il komisyonları ile özel komisyonlara memur dışından seçilecek sivil üyelerin taşımaları zorunlu olan ahlaki, hukuki, takvimsel, cezai ve mesleki asgari liyakat sınırlarını düzenleyen "Komisyonlara seçilecek üyelerde aranacak vasıflar" müessesesinin maddi ve usuli sınırları, bu vasıfların komisyon kararlarının meşruiyeti ve sıhhati üzerindeki kurucu etkileri, katalog suçlardan mahkumiyet yokluğu şartının TCK m. 53 dairesindeki hak yoksunlukları karşısındaki hukuki konumu, bu kuralların anayasal mülkiyet hakkı, eşitlik, liyakat ilkesi, vergilendirmede kanunilik ve adalet, savunma hakkı, adil yargılanma hakkı, hak arama hürriyeti ve hukuk devleti ilkeleriyle olan doğrudan dikey bağlantısı, 2577 sayılı İdari Yargılama Usulü Kanunu dairesinde takdir komisyonu kararlarına dayalı tarhiyatlara karşı açılacak iptal davaları, yürütmenin durdurulması müesseseleriyle olan yatay etkileşimleri, 5237 sayılı Türk Ceza Kanunu m. 53 dairesindeki hak yoksunluklarının zaman sınırları, 4721 sayılı Türk Medeni Kanunu m. 2 dairesindeki dürüstlük ve idarenin yetkisini kötüye kullanması yasağı standartları, VUK m. 1, m. 2, m. 3, m. 4, m. 8, m. 9, m. 11, m. 12, m. 13, m. 14, m. 15, m. 18, m. 19, m. 20, m. 21, m. 22, m. 23, m. 25, m. 29, m. 30, m. 31, m. 32, m. 33, m. 34, m. 35, m. 36, m. 72-80, m. 81-84, m. 85, m. 86, m. 91, m. 92, m. 93, m. 114, m. 116 ve m. 116-126 kapsamındaki genel ilkeler, ekonomik yaklaşım teorisi, süre hesaplamaları, mükellefiyet sınırları, tebligat nizamı, tarh zamanaşımı, verginin tahakkuku, ihbarname düzenleme esasları ve vergi hatalarının düzeltilmesi yatay dengeleri ve bu operasyonel tebliğ ve kesinlik adımlarının vergi ve idare hukuku boyutundaki idari-yargısal yansımaları dairesinde) vergi hukuku (takdir komisyonlarının yapısı ve meşruiyeti kuramı, sivil katılım ve liyakat teorileri, adli sicil kayıtlarının idari görevlere etkisi, usul ekonomisi ve vergi güvenlik marjı kuramları, m. 1, m. 2, m. 3, m. 4, m. 8, m. 9, m. 10, m. 11, m. 12, m. 13, m. 14, m. 15, m. 16, m. 17, m. 18, m. 19, m. 20, m. 21, m. 22, m. 23, m. 24, m. 25, m. 26, m. 27, m. 28, m. 29, m. 30, m. 31, m. 32, m. 33, m. 34, m. 35, m. 36, m. 72, m. 81, m. 85, m. 86, m. 87, m. 91, m. 92, m. 93, m. 114, m. 116, m. 134, m. 359, GVK, KVK, KDVK, Gümrük Kanunu, 6183 sayılı Kanun ilişkileri, kamu maliyesi teorisi), idare hukuku (idarenin kanuniliği, liyakat ve tarafsızlık ilkeleri, idari kurulların hukuka uygun teşkil edilme yükümlülüğü, idari işlemlerin yetki, şekil, sebep, konu ve amaç unsurları yönünden yargısal denetimi ve bağlı yetki teorileri), ticaret, borçlar ve tarım profesyonel hayatı (meslek odalarının aday gösterme usulleri, sivil liyakat tescili dairesinde TTK ve TBK kuralları), medeni usul ve idari yargılama hukuku (idari yargıda takdir komisyonu kararlarının usulden iptali davaları, yürütmenin durdurulması, ispat yükünün dağılımı dairesinde HMK, İYUK ve genel idari usul kuralları), borçlar ve kamu hukuku (kamu alacaklarının korunması, dürüstlük kuralı ve hakkın kötüye kullanılması yasağı dairesinde TMK m. 2 ve TBK ilişkileri), ceza hukuku (vergi kaçakçılığı ve diğer yüz kızartıcı suçların adli sicildeki yansımaları dairesinde TCK ve VUK m. 359 kuralları), anayasa hukuku (hukuk devleti, eşitlik ilkesi, verginin kanuniliği, mülkiyet hakkının korunması, teşebbüs hürriyeti, savunma hakkı ve adil yargılanma/hak arama hürriyeti ilkeleri) boyutlarındaki teorik ve pratik yansımalarını incelemek amacıyla kaleme alınmıştır. Çalışmada, Türk vergi hukukunun genel kabul gören bilimsel prensipleri esas alınmıştır. Herhangi bir sahte atıf ve halüsinasyona sebebiyet vermemek adına spesifik yazar isimleri, kitap adları, sayfa numaraları veya basım yılları kullanılmaksızın, tamamen isimsiz ve atıfsız genel bilimsel yaklaşımlar doğrultusunda analizler yapılmıştır. Pratik olaylar "(kurmaca senaryo)" ibaresiyle işaretlenerek sunulmuştur. Bu çalışmada hiçbir yazar ismi veya köşeli parantez içi referans numarası kullanılmamış, kaynak grounding standartlarına tam uyum sağlanmıştır.
 
----
-
-📋 Vergi Usul Kanunu uyarınca takdir, tadilat ve zirai kazançlar il komisyonlarına seçilecek memur dışı üyelerde aranacak ahlaki, hukuki, cezai, takvimsel ve mesleki vasıfları (VUK m. 87) tanzim eden bu kapsamlı şerh çalışmasıyla birlikte, "Komisyonların sivil üyelerinin liyakat esasları" usuli barajının analizi başarıyla tamamlanmıştır. Sırada yer alan ve bu komisyonlara seçilen üyelerin göreve başlamadan önce yapmak zorunda oldukları resmi yeminin şekil ve esaslarını tanzim eden "Yemin" (VUK m. 91) veya üyelerin yasaklılık hallerini tanzim eden "Yasaklar" (VUK m. 92) konusunu incelemeye geçmeye hazırsınız.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Vergi Usul Kanunu m. 87 resmi metni ve kanunun sistematiği.

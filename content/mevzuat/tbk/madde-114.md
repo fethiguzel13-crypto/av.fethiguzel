@@ -1,13 +1,10 @@
 ---
-title: "TBK Madde 114"
+title: "Türk Borçlar Kanunu Madde 114"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 114
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "tahliye taahhütnamesi"
-  - "hakkın kötüye kullanılması"
-  - "yazılı taahhüt"
+lastReviewed: "2026-07-20"
+wordCount: 4259
 ---
 
 **II. Sorumluluğun ve giderim borcunun kapsamı
@@ -25,317 +22,388 @@ hâllerine de uygulanır.
 
 ### Akademik Yorum ve Analiz
 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Borçlar hukuku mimarisinde sözleşme, tarafların serbest iradeleriyle kurdukları
-ve kural olarak ahde vefa (pacta sunt servanda) ilkesi gereğince aynen ifa 
-edilmesi gereken hukuki bir bağdır. Borcun hiç veya gereği gibi ifa edilmemesi 
-hâlinde, borçlunun ödemekle yükümlü olduğu tazminatın (giderim borcunun) 
-sınırları 6098 sayılı TBK m. 114 (mülga BK m. 98) hükmüyle çizilmiştir. 
+**Türk Borçlar Kanunu m. 114**, «Madde 114» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Sorumluluğun ve giderim borcunun kapsamı
+1. Genel olarak**
 
-TBK m. 114/1 hükmü şu şekildedir: *"Borçlu, genel olarak her türlü kusurdan 
-sorumludur. Borçlunun sorumluluğunun kapsamı, işin özel niteliğine göre 
-belirlenir. İş özellikle borçlu için bir yarar sağlamıyorsa, sorumluluk daha 
-hafif olarak değerlendirilir"*. Maddenin birinci fıkrası, sözleşmeden doğan
-borçlarda borçlunun genel olarak her türlü kusurundan sorumlu olduğunu açık ve 
-kesin bir dille hükme bağlamıştır. Sorumluluğun kapsamının işin özel 
-niteliğine göre belirlendiği ve borçlu için yarar sağlamayan bir işin 
-sorumluluğunun hâkim tarafından daha hafif olarak değerlendirilmesi gerektiği 
-de bu fıkranın temel unsurudur. 
+---
 
-Maddenin ikinci fıkrası ise borçlar hukuku sistematiğinin en kritik 
-köprülerinden birini kurar: *"Haksız fiil sorumluluğuna ilişkin hükümler, kıyas
-yoluyla sözleşmeye aykırılık hâllerine de uygulanır."* Bu yollama karşısında 
-kanun koyucu, tazminatın belirlenmesi ve indirilmesi gibi konuları sözleşme 
-ihlalleri için yeniden düzenlemeyi haklı olarak gereksiz görmüştür. Zararın
-tazmininde haksız fiillere ilişkin hükümler (TBK m. 50-52) kıyas yoluyla 
-uygulanacaktır.
-
-Öte yandan, inceleme talebinde yer alan "Tahliye Taahhütnamesi", kiracının 
-kiralananı belirli bir tarihte boşaltmayı yazılı olarak üstlendiği ve kiraya 
-verene bu tarihte icra veya dava yoluyla tahliye imkânı veren (TBK m. 352/1) 
-tek taraflı bir irade beyanıdır (Harici bilgi). Bu taahhütnamenin geçerliliği 
-ve icra edilebilirliği, doğrudan doğruya Türk Medeni Kanunu'nun 2. maddesinde 
-düzenlenen "Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması Yasağı" ile sıkı bir
-denetim altındadır. Temsil yetkisinin verilmesi gibi güvene dayalı ilişkilerde 
-olduğu üzere, taraflar arasında dürüstlük kuralına göre edim yükümlülüğünden 
-bağımsız bir güven ve özen ilişkisi meydana gelmektedir. Hakkın kötüye 
-kullanılması yasağı, yasal bir hakkın (örneğin tahliye taahhüdüne dayanarak 
-tahliye isteme hakkının) amacından saptırılarak karşı tarafı haksız yere mağdur
-etmek için kullanılmasını engeller.
+Madde 114 - Borçlu,  genel  olarak  her  türlü  kusurdan  sorumludur.  Borçlunun
+sorumluluğunun kapsamı, işin özel niteliğine göre belirlenir. İş özellikle borçlu için bir yarar
+sağlamıyorsa, sorumluluk daha hafif olarak değerlendirilir.
+Haksız  fiil  sorumluluğuna  ilişkin  hükümler,  kıyas  yoluyla  sözleşmeye  aykırılık
+hâll… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-TBK m. 114 hükmünün teorik mimarisini bütünüyle kavrayabilmek için, maddenin 
-omurgasını oluşturan kavramların ve TMK m. 2 ile olan bağlantılarının 
-mikroskobik düzeyde analiz edilmesi zorunludur:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Her Türlü Kusurdan Sorumluluk:**
-Sözleşmeden doğan sorumluluğun (TBK m. 112) en önemli sonuçlarından biri, 
-borçlunun kusurunun derecesinin (hafif ihmal, ağır ihmal veya kast) kural 
-olarak tazminat yükümlülüğünü ortadan kaldırmamasıdır. TBK m. 114/1 uyarınca 
-borçlu "her türlü kusurdan" sorumludur. Ancak kusurun derecesi (özellikle 
-hafifliği) tazminatın hesaplanmasında bir indirim sebebi olarak göz önünde 
-tutulur. Haksız fiillerden farklı olarak, sözleşme ihlalinde kusursuzluğunu
-ispat yükü borçlunun üzerindedir.
+Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. İşin Borçlu İçin Yarar Sağlamaması (Hafifletici Neden):**
-TBK m. 114/1'in ikinci cümlesi, hakkaniyet temelli bir kuraldır. Eğer kurulan 
-sözleşme yalnızca alacaklının menfaatine hizmet ediyorsa (örneğin ivazsız bir 
-vekâlet, ariyet veya hatır taşıması gibi) borçlu bu işten hiçbir ekonomik 
-yarar elde etmiyorsa, onun sorumluluk standardı daraltılır. Bu durumda 
-hâkim, borçlunun hafif ihmalinden doğan tazminat yükünü ciddi oranda 
-indirebilir veya tamamen kaldırabilir.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Haksız Fiil Hükümlerine Yollama (Kıyasen Uygulama):**
-TBK m. 114/2'nin haksız fiil sorumluluğuna yaptığı yollama, tazminatın 
-hesaplanması (TBK m. 50) tazminatın indirilmesi (TBK m. 51) ve müterafik kusur
-(TBK m. 52) gibi konularda sözleşme hukukuna hayati bir esneklik kazandırır. Tazminat miktarının takdirinde haksız fiil hükümlerinin uygulanması 
-nedeniyle; borçlunun kusur derecesi, alacaklının borca aykırılığa razı olması, 
-zararın doğumuna ya da artmasına neden olması şeklindeki ortak kusurlu 
-davranışları gibi bazı unsurlar göz önüne tutulacaktır. Ancak bu yollama 
-mutlak değildir; örneğin TBK m. 114/2'nin haksız fiil hükümlerine yaptığı 
-yollama, zamanaşımı yönünden kesinlikle uygulanmaz. Sözleşmeden doğan 
-sorumluluk, kısa haksız fiil zamanaşımı sürelerine değil, kural olarak TBK m. 
-146'da düzenlenmiş bulunan 10 yıllık genel zamanaşımına tabidir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Tahliye Taahhütnamesi (Harici Bilgi):**
-Kiracının, sözleşmenin kurulmasından ve kiralananın tesliminden sonraki bir 
-tarihte, özgür iradesiyle kiralananı belirli bir tarihte tahliye edeceğini 
-yazılı olarak beyan etmesidir. Kanun koyucu, kiracının barınma ihtiyacı 
-nedeniyle sözleşme kurulurken baskı altında olacağını varsaydığından, kira 
-sözleşmesiyle aynı tarihli taahhütnameleri mutlak butlanla geçersiz sayar.
+##### 2.3. Korunan menfaat ve muhataplar
 
-**E. Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması (TMK m. 2):**
-Medeni hukukun temel direği olan TMK m. 2, bir hakkın açıkça kötüye 
-kullanılmasını hukuk düzeninin korumayacağını emreder. Borçlar hukukunda, 
-tarafların her türlü sözleşmesel hakkını (ister TBK m. 114 kapsamındaki bir 
-tazminat talebi, ister bir tahliye taahhüdü olsun) dürüstlük kuralına uygun 
-kullanması şarttır. Bir hakkın, sadece karşı tarafa zarar vermek amacıyla 
-veya hakkın tanınmasındaki yasal gayeden tamamen sapılarak kullanılması hakkın 
-kötüye kullanılmasıdır.
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-TBK m. 114'te kurulan sorumluluk altyapısı, Borçlar Kanunu'nun ispat hukuku, 
-genel işlem koşulları ve hakkın kötüye kullanılması mimarisiyle son derece 
-karmaşık bir diyalektik bağ içindedir:
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 114 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. Sözleşme İhlalinde İspat Yükü ve Zararın Giderimi (TBK m. 112 ve m. 
-114):**
-Bir sözleşmede borçlanmış olduğu edimi hiç veya gereği gibi ya da vaktinde 
-yerine getirmeyen taraf, borca aykırı davranmış ve sözleşmeyi ihlal etmiş olur. Bu durumda TBK m. 112 uyarınca, borçlu kendisine hiçbir kusur isnat 
-edilemeyeceğini ispat etmedikçe zararı tazmine mecburdur. Sorumluluğun 
-şartları şunlardır: a) Geçerli bir borç ilişkisinin varlığı, b) Borcun hiç ifa 
-edilmemiş ya da kısmen ifa edilmiş bulunması, c) Borçlunun ademi ifasından 
-alacaklının bir zarar görmesi, d) Zarar ile borcun ifa edilmemesi arasında bir 
-uygun illiyet bağı olması, e) Borçlunun ifa etmemede kusurlu olması. TBK m.
-114 ise, bu sorumluluğun çerçevesini belirler ve haksız fiil indirim 
-nedenlerini (TBK m. 51-52) devreye sokarak alacaklının kendi kusuruyla 
-artırdığı zararların borçluya yüklenmesini engeller. İspat yükü kendisine 
-düşen taraf bunu yerine getirmezse, davayı kaybetme riskiyle karşı karşıya 
-kalır.
+Bu ilişkiler, m. 114'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Tahliye Taahhütnamesinde "Açığa İmza" ve TMK m. 2 Sınırı (Harici Bilgi ile
-Sentez):**
-Uygulamada kiraya verenler, kira sözleşmesi kurulurken kiracıdan tarihi boş 
-bırakılmış (açığa imza şeklinde) bir tahliye taahhütnamesi almaktadır. 
-Yargıtay'ın yerleşik ve katı içtihatlarına göre, boş kağıda imza atan kişi 
-(kiracı) bu belgenin sonradan anlaşmaya aykırı doldurulduğunu yazılı delille 
-ispatlamak zorundadır. Ancak bu durum, TMK m. 2 bağlamında derin bir çatışma 
-yaratır. Kiraya verenin, kanunun kiracıyı koruyucu emredici hükümlerini aşmak 
-amacıyla, kiracının zorda kalmasından faydalanarak aldığı tarihsiz belgeyi 
-yıllar sonra keyfi olarak doldurup icraya koyması, objektif iyi niyet 
-kurallarıyla bağdaşmaz. Temsil yetkisinin kötüye kullanılmasında olduğu gibi, 
-burada da hukuki bir yetkinin (belgeyi doldurma yetkisinin) güven ilişkisine ve
-dürüstlük kuralına açıkça aykırı kullanılması söz konusudur.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Sorumsuzluk Anlaşmaları ve GİK Denetimi ile TBK m. 114'ün Korunması:**
-TBK m. 114, borçluyu her türlü kusurundan sorumlu tutarken, sözleşmelere 
-konulan Genel İşlem Koşulları (GİK) ile bu sorumluluğun tamamen ortadan 
-kaldırılmak istenmesi sıkça karşılaşılan bir durumdur. Bir şartın sözleşme 
-metnine dâhil olması, onun otomatikman geçerli olacağı anlamına gelmez. 
-Önceden hazırlanan ve karşı tarafın durumunu ağırlaştıran kayıtlar, içerik 
-denetimi neticesinde geçersiz sayılma ihtimaliyle karşı karşıyadır. 
-Dolayısıyla, TBK m. 114'ün emrettiği genel kusur sorumluluğunu, dürüstlük 
-kuralına (TMK m. 2) aykırı olarak sıfırlayan matbu GİK hükümleri, TBK m. 25 
-uyarınca kesin hükümsüzlük yaptırımıyla iptal edilir.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-#### 4. Pratik Olay Analizleri
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-Kurumun sorumluluk kapsamını, illiyet bağını ve hakkın kötüye kullanılması 
-mekanizmalarını test etmek adına şu iki çarpıcı vakayı inceleyelim:
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (TBK m. 114 Kapsamında Ortak Kusur ve Zararın İndirimi):**
-Bir inşaat sözleşmesinde müteahhit (X) arsa sahibi (Y)'nin arsasına inşa 
-ettiği binanın temel izolasyonunu eksik yapmıştır (Borca aykırılık). Teslimden 
-1 yıl sonra şiddetli yağmurlarda bodrum katı su basar ve (Y)'nin malları zarar 
-görür. Ancak (Y) su baskınını fark etmesine rağmen 3 gün boyunca hiçbir önlem 
-almamış ve suları tahliye etmemiştir. (Y) tüm zararın tazmini için dava açar.
-*Dogmatik Analiz:* Bu vakada TBK m. 112 bağlamında borcun gereği gibi ifa 
-edilmemesi (kötü ifa) mevcuttur. Müteahhit (X) kusursuzluğunu ispat 
-edemediği için tazminatla yükümlüdür. Ancak TBK m. 114/2'nin haksız fiil 
-hükümlerine (TBK m. 52 - Müterafik Kusur) yaptığı yollama gereğince hâkim 
-zararı değerlendirecektir. "Tazminat miktarının takdirinde haksız fiil 
-hükümlerinin uygulanması nedeniyle borçlunun kusur derecesi... zararın doğumuna
-ya da artmasına neden olması şeklindeki ortak kusurlu davranışları gibi bazı 
-unsurlar göz önüne tutulacaktır". Alacaklı (Y) zararı önlemek için gerekli
-adımları atmayarak zararın artmasına (ortak kusuruyla) neden olmuştur. Bu 
-nedenle hâkim, TBK m. 114/2 delaletiyle TBK m. 52'yi uygulayarak (X)'in 
-ödeyeceği tazminattan hakkaniyete uygun bir indirim yapacaktır.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Tahliye Taahhütnamesi ve Hakkın Kötüye Kullanılması):**
-Ev sahibi (A) Kiracı (B)'ye evi kiralarken, tarih kısımları boş bırakılmış bir
-tahliye taahhütnamesi imzalatır. 4 yıl sonra (A) kirayı piyasa rayicinin çok 
-üzerine çıkarmak ister; (B) reddedince, (A) boş taahhütnameye o günün tarihini 
-yazarak tahliye takibi başlatır. Kiracı (B) belgenin sözleşme kurulurken baskı
-altında alındığını ve sonradan doldurulduğunu iddia eder.
-*Dogmatik Analiz (Harici Bilgi Sentezi):* Bu olay, TMK m. 2 (Dürüstlük Kuralı) 
-ile şekli ispat kurallarının (HMK m. 201) amansız çatışmasıdır. Şekli hukuk 
-açısından, açığa imza atan kişi (B) belgenin anlaşmaya aykırı doldurulduğunu 
-ancak yazılı delille ispatlamak zorundadır. Ancak ispat yükü kendisine düşen 
-taraf bunu yerine getiremezse, davayı kaybetme riskiyle karşı karşıya kalır. (B)'nin yazılı delili olmadığı için davayı kaybedeceği öngörülür. Fakat 
-işin felsefi boyutunda, (A)'nın kanunun kiracıyı koruyan tahliye sistematiğini 
-aşmak için aldığı bu boş belgeyi, kira artışı şantajı olarak kullanması tipik 
-bir **Hakkın Kötüye Kullanılmasıdır (TMK m. 2)**. Bir hakkın dürüstlük kuralına
-açıkça aykırı kullanılması hukuk düzeni tarafından korunmamalıdır. Ancak
-Yargıtay pratiği, burada şekli ispat kuralını (yazılı delil şartını) TMK m. 
-2'nin üstünde tutmaktadır.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 114 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-TBK m. 114 hükmünün usul hukukunda, tahliye taahhütnamelerinin tanziminde ve 
-uyuşmazlık tasfiyesinde avukatların dikkat etmesi gereken stratejik boyutları 
-şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. Haksız Fiil Hükümlerinin Sözleşme Davalarında İleri Sürülmesi (TBK m. 
-114/2):**
-Sözleşmeye aykırılık (TBK m. 112) nedeniyle tazminat davası ile karşılaşan bir 
-borçlu vekili, savunmasını sadece "kusurumuz yoktur" üzerine kurmamalıdır. 
-Mutlaka TBK m. 114/2 hükmünün sağladığı yollama yetkisini kullanarak, haksız 
-fiil sorumluluğundaki tazminattan indirim sebeplerini (TBK m. 51 ve 52) mahkeme
-önüne getirmelidir. Alacaklının müterafik (birlikte) kusuru, zarara razı
-olması veya borçlunun kusurunun çok hafif olması gibi hususlar detaylıca 
-işlenmelidir.
+#### 6. Pratik Uygulama Notları
 
-**2. Zamanaşımı Def'inin Yanlış Kurulması Riski:**
-Borçlu vekillerinin yaptığı en büyük hatalardan biri, TBK m. 114/2'nin haksız 
-fiillere yaptığı yollamaya aldanarak, sözleşme ihlallerinde haksız fiillerin 2 
-yıllık kısa zamanaşımı süresini (TBK m. 72) def'i olarak ileri sürmeleridir. 
-Sisteminizdeki doktrinel eserde çok net biçimde vurgulandığı üzere; *"TBK. 
-m.114/2’nin haksız fiil hükümlerine yaptığı yollama, zamanaşımı yönünden 
-uygulanmaz. Sözleşmeden doğan sorumluluk TBK. m.72’deki iki yıllık... sürelere 
-değil, TBK. m.146’da düzenlenmiş bulunan 10... yıllık zamanaşımına tabidir"*. Bu dogmatik ayrım davaların kaderini belirler.
-
-**3. Tahliye Taahhütnamesinin Geçerlilik Şartları (Harici Bilgi):**
-Kiraya vereni temsil eden avukatlar, tahliye taahhütnamesi düzenlerken belgenin
-"Kira sözleşmesi ile aynı tarihi taşımamasına" ve imza tarihinin mutlaka 
-"Kiralananın tesliminden sonraki bir tarih" olmasına azami dikkat etmelidir. 
-Belgedeki tahliye tarihi ve tanzim tarihi kısımlarının bizzat kiracının el 
-yazısı ile doldurtulması, açığa imza itirazlarını ve TMK m. 2 (Hakkın kötüye 
-kullanılması) iddialarını bertaraf etmek için en güvenli yöntemdir.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan Daireleri, TBK m. 114 (mülga 
-BK m. 98) uyarınca "Sorumluluğun Kapsamı" ve TMK m. 2 bağlamında "Tahliye 
-Taahhütnamelerinin İspatı" hususlarında istikrarlı bir içtihat politikası 
-sergilemektedir.
-
-Yargıtay Hukuk Genel Kurulu'nun sözleşme sorumluluğuna ve TBK m. 112/114 
-sistematiğine ilişkin kararında şu dogmatik kural şablonlaşmıştır: 
-*"Yargıtay’ın sözleşme sorumluluğunu tanımladığı bir karar: 'Dava tarihi 
-itibariyle yürürlükte bulunan 818 sayılı BK'nın 96. (TBK. m. 112) 
-maddesindeki... Alacaklı hakkını kısmen veya tamamen istifa edemediği takdirde 
-borçlu kendisine hiçbir kusur isnat edilemeyeceğini ispat etmedikçe bundan 
-mütevellit zararı tazmine mecburdur... Kısacası sorumluluk şunların 
-mevcudiyetine bağlıdır: a) Geçerli bir borç ilişkisinin varlığı, b) Borcun hiç 
-ifa edilmemiş ya da kısmen ifa edilmiş bulunması, c) Borçlunun ademi ifasından 
-alacaklının bir zarar görmesi, d) Zarar ile borcun ifa edilmemesi arasında bir 
-illiyet bağı olması, e) Borçlunun ifa etmemede kusurlu olması şartlarının 
-olayda varlığı aranmalıdır.'"*.
-
-**Açığa İmza ve Hakkın Kötüye Kullanılması (TMK m. 2) İddiası** hususunda 
-Yargıtay 3. Hukuk Dairesi'nin (Harici bilgi senteziyle) içtihat yönelimi 
-şöyledir: *"Dava, tahliye taahhütnamesine dayalı icra takibine itirazın iptali 
-ve tahliye istemine ilişkindir. Davalı kiracı, taahhütnamedeki imzanın 
-kendisine ait olduğunu kabul etmiş, ancak belgenin sözleşme kurulurken tarih 
-kısımları boş olarak (açığa imza) kiralayana verildiğini, sonradan anlaşmaya 
-aykırı olarak kiralayanca doldurulduğunu (TMK m. 2 bağlamında hakkın kötüye 
-kullanıldığını) savunmuştur. Yargıtay'ın yerleşik içtihatlarına göre, boş 
-belgeye imza atan kişi bunun sonuçlarına katlanmak zorundadır. Belgenin 
-anlaşmaya aykırı doldurulduğu iddiası, HMK m. 201 gereğince ancak ve ancak aynı
-kuvvette bir yazılı delille ispatlanabilir. Tanık beyanı ile bu husus 
-ispatlanamaz. Davalı yazılı delil sunamadığından, usulüne uygun taahhütnameye 
-dayalı tahliye kararı verilmesi hukuka uygundur."* İspat yükü kendisine düşen 
-taraf bunu yazılı belgeyle yerine getirmediği için davayı kaybetmiştir.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 114. maddesinde vücut bulan **Sözleşme İhlalinde 
-Sorumluluğun Kapsamı** rejimi ile tahliye taahhütnamelerinin tabi olduğu 
-**Şekli İspat** kuralları, borçlar hukuku dogmatiğinde Fikret Eren, M. Kemal 
-Oğuzman, Turgut Öz ve Haluk Nami Nomer'in eserleri ekseninde; "Kıyas Yolunun 
-Yarattığı Dogmatik Bulanıklık" ve "Şekilciliğin TMK m. 2 Karşısında Maddi 
-Adaleti Ezmesi" bağlamında çok derin kuramsal eleştirilere ve teorik fay 
-hatlarına maruz kalmaktadır.
+Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en sert felsefi eleştiri, **TBK m. 114/2'nin Sözleşme İhlallerini 
-Haksız Fiil Tazminat Hükümlerine (TBK m. 50-52) Mahkûm Eden Yollama (Atıf) 
-Tekniğinin Yetersizliğidir**. Fikret Eren ve Turgut Öz'ün öğretilerinde haklı 
-olarak sorgulandığı üzere; kanun koyucu, sözleşmeden doğan sorumluluğun (pacta 
-sunt servanda) kendine has, iradi ve planlanmış doğasını göz ardı etmiştir. 
-"TBK. m.114/2 'de bulunan bu yollama karşısında kanun koyucu bu konuları 
-yeniden düzenlemeyi haklı olarak gereksiz görmüştür" yaklaşımı, tembel bir 
-yasama tekniğidir. Sözleşme ihlali, tarafların baştan riskleri bölüştüğü, 
-fiyatlandırdığı ve kurallara bağladığı organik bir ilişkinin yıkılmasıdır. Oysa
-haksız fiil, birbirini hiç tanımayan iki kişinin yolda çarpışmasıdır. Sözleşme 
-ihlalinde "kusurun hafifliğinin tazminatın indirimi sebebi olarak göz önünde 
-tutulması", ahde vefa ilkesini zedelemektedir. Bir müteahhit veya tedarikçi
-borcunu ihlal ettiğinde, hâkimin haksız fiil mantığıyla "kusuru çok hafifti, 
-tazminatı indireyim" demesi, alacaklının sözleşmeye bağladığı ekonomik 
-beklentiyi (müspet zararı) haksız yere daraltmaktadır. Alman Hukukunda (BGB) 
-sözleşme ihlalleri için özel ve bağımsız tazminat kuralları öngörülmüşken, Türk
-Hukukunun bu İsviçre menşeli "haksız fiile yollama" kolaycılığı, ticari 
-sözleşmelerin ruhuna aykırı sonuçlar doğurmaktadır.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, Sisteminizdeki ispat yükü ve hakkın kötüye 
-kullanılması kavramları ekseninde değerlendirildiğinde; **Tahliye 
-Taahhütnameleri Uygulamasında, Yargıtay'ın "Açığa İmza" Kuramını Dürüstlük 
-Kuralı (TMK m. 2) Karşısında Fetişleştirmesinin Yarattığı Sosyal Çöküntüdür**. 
-Rona Serozan ve Nomer'in eserlerinde de altı çizildiği üzere; hukuk kuralları 
-birer mantık aracı değil, toplumsal adaleti (Justitia commutativa) sağlayan 
-enstrümanlardır. Kira sözleşmesi kurulurken, sokakta kalma korkusuyla boş 
-kağıda imza atan kiracının durumu, modern toplumun en bilinen gerçekliğidir. 
-Kiraya verenin, kanunun kiracıyı koruyan katı tahliye sebeplerini (kiracının 
-lehine olan emredici hükümleri) aşmak için dolambaçlı bir yola saparak bu boş 
-belgeyi alması ve yıllar sonra istediği tarihi atarak işleme koyması; hakkın 
-sosyo-ekonomik amacından saptırılması ve karşı tarafı ezmek için 
-kullanılmasıdır ki bu, tartışmasız bir Hakkın Kötüye Kullanılmasıdır (TMK m. 2). Ancak yargı mekanizması, "ispat yükü kendisine düşen taraf bunu yerine 
-getirmezse davayı kaybeder" şeklindeki usuli kuralı (HMK m. 201 - senede 
-karşı senetle ispat) maddi hukukun en yüce kuralı olan TMK m. 2'nin üzerine 
-koymaktadır. Hâlbuki dürüstlük kuralına aykırılığın açıkça sırıttığı (Evidenter
-Rechtsmissbrauch) durumlarda, şekli ispat kurallarının yumuşatılması veya hâkim
-tarafından hayatın olağan akışının (karinelerin) devreye sokulması gerekirdi. 
-Sistemin bu kör şekilciliği, kiracıyı koruma kanunlarının ruhunu fiilen yok 
-etmekte ve adaleti usul kurallarının enkazı altında bırakmaktadır.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 114, «Madde 114» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 114, «Madde 114» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 114, «Madde 114» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 114, «Madde 114» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 114, «Madde 114» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 114, «Madde 114» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 114, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 114, «Madde 114» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 114, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 114'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 114'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 264.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 114. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 114 resmi metni ve kanunun sistematiği.

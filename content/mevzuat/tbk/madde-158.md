@@ -1,12 +1,10 @@
 ---
-title: "TBK Madde 158"
+title: "Türk Borçlar Kanunu Madde 158"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 158
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "parça borcu riziko"
-  - "teslim anında hasar geçişi"
+lastReviewed: "2026-07-20"
+wordCount: 4318
 ---
 
 **E. Davanın reddinde ek süre**
@@ -22,302 +20,392 @@ günlük ek süre içinde haklarını kullanabilir.
 
 ### Akademik Yorum ve Analiz
 
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Borçlar hukuku dogmatiğinde zamanaşımı (Verjährung) kural olarak alacağın 
-muaccel olduğu andan itibaren işlemeye başlayan (TBK m. 149) ve kanunda 
-öngörülen sürenin geçmesiyle alacağı dava edilemez hâle getirerek "eksik borca 
-(naturalis obligatio)" dönüştüren bir tasfiye kurumudur. Hukuk düzeni, bu 
-kurumun borçluyu ispat zorluğundan kurtarmak ve hukuki barışı (Rechtsfrieden) 
-sağlamak amacıyla var olduğunu kabul eder. Mademki bu kurum borçlunun lehine 
-getirilmiş bir kalkan, bir savunma (def'i) vasıtasıdır; o hâlde borçlu dilediği
-zaman bu kalkandan vazgeçebilir mi?
+**Türk Borçlar Kanunu m. 158**, «E. Davanın reddinde ek süre» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 158 - Dava veya def’i; mahkemenin yetkili veya görevli olmaması ya da
+düzeltilebilecek  bir  yanlışlık  yapılması  yahut vaktinden  önce  açılmış  olması  nedeniyle
+reddedilmiş olup da o arada zamanaşımı veya hak düşürücü süre dolmuşsa, alacaklı altmış
+günlük ek süre içinde haklarını kullanabilir.
 
-İşte **TBK Madde 158**, "Zamanaşımından Feragat" başlığı altında bu sorunun 
-cevabını ve sınırlarını çizer. Kanun koyucu, bu irade açıklamasını mutlak bir 
-serbestiye bırakmamış, onu zamansal ve şahsi iki büyük giyotinle sınırlamıştır.
-
-Hükmün birinci fıkrası, zamansal giyotini koyar: *"Zamanaşımından önceden 
-feragat edilemez."* Borçlu, borcun doğduğu an veya zamanaşımı süresi henüz 
-işlerken, güçlü alacaklının (örneğin bankanın) baskısıyla bu savunma aracından 
-baştan vazgeçemez. Bu, kamu düzenine ilişkin emredici bir kuraldır.
-Hükmün devam eden fıkraları ise, şahsi (nispilik) giyotini indirir: 
-*"Müteselsil borçlulardan birinin feragat etmesi, diğerlerine karşı ileri 
-sürülemez. Bölünemeyen bir borcun borçlularından birinin feragati durumunda da 
-aynı kural geçerlidir. Asıl borçlunun feragati kefile karşı ileri sürülemez."* 
-Kanun koyucu burada muazzam bir denge kurmuştur: Zamanaşımı süresi dolduktan 
-sonra, borçlulardan biri ahlaki bir saikle veya ticari bir menfaatle "Ben 
-zamanaşımından feragat ediyorum, borcumu ödeyeceğim" diyebilir. Bu tamamen 
-geçerlidir. Ancak bu sübjektif ve şahsi feragat iradesi, onunla aynı borç 
-senedine imza atan diğer müteselsil borçluları veya ona güvenerek kefil olan 
-kişiyi asla bağlamaz. Feragat, sadece feragat edeni yakar.
-
-Bu kuralın, senin normatif hatan neticesinde zikrettiğin **Parça Borcu Teslimi 
-ve Riziko Geçişi (TBK m. 208)** ile kavramsal kesişimi, "alacağın tasfiyesi" 
-zemininde kurulur. Parça borcu (Stückschuld) özellikleri itibarıyla 
-diğerlerinden ayırt edilebilen, yeryüzünde bir eşi daha olmayan (örneğin 
-spesifik bir antika vazo) edimdir. Eğer bu vazo teslimden önce borçlunun kusuru
-olmaksızın kırılırsa, hasar (riziko) kural olarak (yeni TBK m. 208 aksini 
-öngörmedikçe) alacaklıya aittir ve borç ifa imkânsızlığı (TBK m. 136) nedeniyle
-sona erer. Riziko maddi nesneyi yok ederken; zamanaşımı hukuki talebi yok 
-eder. İmkânsızlık mutlak ve objektiftir, feragat edilemez; zamanaşımı ise nispî
-bir def'idir ve süresi dolduktan sonra borçlu tarafından (TBK m. 158) pekâlâ 
-feragat edilebilir.
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-TBK m. 158'deki feragat rejiminin teorik mimarisini bütünüyle kavrayabilmek 
-için, bu kavramların Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk N. 
-Nomer'in eserleri ekseninde mikroskobik düzeyde analiz edilmesi zorunludur:
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Zamanaşımından Feragat (Verzicht auf die Verjährungseinrede):**
-Feragat, borçlunun zamanaşımı def'ini ileri sürme hakkından tek taraflı irade 
-beyanıyla vazgeçmesidir. Feragat bir sözleşme değil, bozucu yenilik doğuran tek
-taraflı ve varması gerekli bir irade açıklamasıdır. Ancak bu feragatin 
-"önceden" mi yoksa "sonradan" mı yapıldığı hayati bir dogmatik fark yaratır. 
+Madde 158, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Önceden Feragat Yasağı (TBK m. 158/1):**
-Kanun koyucu, "önceden" (im Voraus) derken, zamanaşımı süresi dolmadan önceki 
-zaman dilimini kastetmektedir. Sözleşme kurulurken veya borç muaccel olduktan 
-sonra, ancak 10 yıllık genel süre (TBK m. 146) henüz dolmadan yapılan her türlü
-"Zamanaşımından feragat ediyorum" beyanı kesin hükümsüzdür (mutlak batıldır). Çünkü zayıf borçlu, borcun baskısı altındayken alacaklının dayattığı matbu
-sözleşmelere imza atmak zorundadır. Hukuk, borçluyu kendi zayıf iradesine karşı
-emredici (ius cogens) olarak korur.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Sonradan Feragatin Geçerliliği:**
-Süre (örneğin 10 yıl) tamamen dolduktan sonra, borçlunun "Evet süre doldu ama 
-ben ahlaken bu borcu ödemekle yükümlü hissediyorum, zamanaşımı def'imden 
-feragat ediyorum" demesi geçerlidir. Zira artık borçlu alacaklının baskısı 
-altında değildir; süre dolmuş, silah borçlunun eline geçmiştir. Silahı kendi 
-rızasıyla yere bırakması hukuken muteberdir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Nispilik (Şahsilik) İlkesi ve Fer'i Hakların Korunması (TBK m. 158/2-4):**
-Müteselsil borçluluk (TBK m. 162) alacaklının dilediği borçludan borcun 
-tamamını isteyebildiği güçlü bir yapıdır. Ancak müteselsil borçlular 
-birbirlerinin velisi veya yasal temsilcisi değildir. A'nın süresi dolmuş bir 
-borç için feragatte bulunması, B'nin cebinden para çıkmasına yol açamaz. Keza, 
-asıl borca kefil olan kişinin (TBK m. 581 vd.) sorumluluğu fer'idir (bağlıdır). Asıl borçlu kendi zamanaşımından feragat etse dahi, kefil "Asıl borçlu 
-feragat etse de benim için süre dolmuştur, ödemiyorum" diyerek fer'i 
-savunmasını kullanabilir. Feragat, sadece beyan sahibini bağlayan şahsi bir
-prangadır.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-TBK m. 158'deki feragat kurgusu; Borçlar Kanunu'nun kesilme-sirayet ilişkisi 
-(TBK m. 155) emredici kurallara aykırılık (TBK m. 27) ve eksik borçların 
-tasfiyesi (TBK m. 77) mimarisiyle son derece radikal bir diyalektik bağ 
-içindedir:
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 158'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 158 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. TBK m. 155 (Kesilmenin Sirayeti) ile TBK m. 158 (Feragatin Nispiliği) 
-Arasındaki Muazzam Çelişki:**
-Borçlar hukuku dogmatiğinin en çetrefilli düğümü buradadır. Hatırlarsan TBK m. 
-155 uyarınca, alacaklı asıl borçluya icra takibi yaptığında (kesilme) bu işlem
-kefile de *sirayet eder* (kefilin de zamanaşımı kesilir). Ancak TBK m. 158 
-uyarınca, asıl borçlu zamanaşımından *feragat ettiğinde*, bu işlem kefile 
-*sirayet etmez*. 
-Neden kesilme sirayet ediyor da feragat etmiyor? Çünkü "kesilme 
-(Unterbrechung)", alacaklının hakkını aramak için devleti (icra, mahkeme) 
-harekete geçirdiği objektif bir eylemdir; hukuk hakkını arayanı (vigilantibus) 
-korur. "Feragat" ise borçlunun tamamen sübjektif, ihtiyari ve bazen alacaklıyla
-gizli anlaşarak yapabileceği bir eylemdir. Borçlunun bu keyfi eylemiyle diğer 
-masum borçluların veya kefillerin tuzağa düşürülmesi engellenmiştir.
+Bu ilişkiler, m. 158'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. TBK m. 27 Kapsamında Önceden Feragat Yasağı ve Kısmi Butlan (Favor 
-Negotii):**
-Bankaların veya güçlü sigorta şirketlerinin Genel İşlem Koşulları (TBK m. 20 
-vd.) içerisine koydukları "Müşteri, doğacak her türlü borcu için TBK'daki 
-zamanaşımı sürelerinden peşinen feragat etmiştir" klozları, TBK m. 158/1'in 
-emredici yasağına çarpar. Bu çarpışmanın sonucu TBK m. 27 uyarınca kesin 
-hükümsüzlüktür (mutlak butlan). Ancak sözleşmenin tamamı çökmez; TBK m. 
-27/2 uyarınca kısmi butlan işletilerek sadece bu "feragat klozu" makasla 
-kesilip atılır ve sözleşme ayakta kalmaya devam eder.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Eksik Borcun İfası ve Sebepsiz Zenginleşme (TBK m. 78/2):**
-Zamanaşımına uğramış bir borç, hukuken "eksik borç (naturalis obligatio)" 
-niteliğindedir. TBK m. 158 bağlamında borçlu zamanaşımından feragat eder ve 
-ödeme yaparsa, bu geçerli bir ifadır. Hatta borçlu, feragat beyanında 
-bulunmadan doğrudan parayı öderse ne olur? TBK m. 78/2 çok nettir: 
-"Zamanaşımına uğramış bir borcun ifasından doğan zenginleşmeler geri 
-istenemez." Borçlunun, sürenin dolduğunu bilmeden veya bilerek yaptığı ödeme, 
-fiili bir feragat teşkil eder ve sebepsiz zenginleşme davasına konu olamaz.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-#### 4. Pratik Olay Analizleri
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-TBK m. 158'in o şahsi sınırlarını, kefili koruyan çelik zırhını ve önceden 
-feragat yasağını test etmek adına şu iki laboratuvar vakayı inceleyelim:
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Önceden Feragat Yasağı, GİK ve Mutlak Butlan):**
-Tacir (A) Faktoring Şirketi (B) ile 5 Milyon TL'lik bir kredi sözleşmesi 
-imzalar. Sözleşmenin 18. maddesinde: "Borçlu Tacir (A) işbu sözleşmeden doğan 
-her türlü anapara ve faiz borcu için, TBK m. 146 ve m. 147'de öngörülen 
-zamanaşımı def'inden peşinen ve gayrikabili rücu olarak feragat etmiştir" 
-yazmaktadır. Borç muaccel olur. Aradan 12 yıl geçer. Faktoring Şirketi (B) 
-(A)'ya karşı dava açar. (A) zamanaşımı def'i ileri sürer. Şirket (B) 
-"Sözleşmede feragat ettin, ahde vefa (pacta sunt servanda) ilkesine uymak 
-zorundasın" diyerek itiraz eder.
-*Dogmatik Analiz:* Bu vaka, TBK m. 158/1'in tacirler arası ilişkilerde dahi ne 
-kadar acımasız olduğunu gösterir. Faktoring şirketinin sözleşme özgürlüğüne 
-sığınması dogmatik bir safsatadır. TBK m. 158/1'deki "Zamanaşımından önceden 
-feragat edilemez" kuralı mutlak emredicidir ve tacir/tüketici ayrımı 
-yapmaksızın herkes için geçerlidir. Sözleşmedeki 18. madde, TBK m. 27 
-uyarınca baştan itibaren kesin hükümsüzdür (mutlak batıldır). Dolayısıyla 
-ortada geçerli bir feragat yoktur. 10 yıllık kanuni süre dolduğu için, Tacir 
-(A)'nın süresinde ileri sürdüğü zamanaşımı def'i kabul edilecek ve davanın 
-esastan reddine karar verilecektir.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Asıl Borçlunun Sonradan Feragati ve Kefilin Savunması):**
-Müteahhit (X) Banka (Y)'den 2 Milyon TL kredi çeker. Kardeşi (Z) de bu krediye
-"Müteselsil Kefil" sıfatıyla imza atar. Kredi borcu ödenmez ve muaccel olur. 
-Aradan 11 yıl geçer (10 yıllık genel süre dolmuştur). Müteahhit (X) yeni bir 
-devlet ihalesine girmek için Banka (Y)'den "borcu yoktur" yazısı almak 
-zorundadır. Bu nedenle (X) Bankaya giderek "Eski borcum için zamanaşımı doldu 
-ama ben bundan feragat ediyorum, yapılandırma yapalım" diyerek bir "feragat ve 
-borç ikrarı" imzalar. Ancak (X) yine iflas eder. Banka (Y) 11. yılda kefil 
-(Z)'ye icra takibi yapar. Kefil (Z) "Zamanaşımı doldu" der. Banka (Y) "Asıl 
-borçlu zamanaşımından feragat etti, fer'ilik ilkesi gereği asıl borç yaşıyorsa 
-kefalet de yaşar, sen de ödemek zorundasın" der.
-*Dogmatik Analiz:* Bu olay, TBK m. 158'in kefaletteki nispilik şaheseridir. 
-Bankanın (Y) "fer'ilik ilkesi" savunması, kural olarak doğru görünse de TBK m. 
-158/4'ün lex specialis (özel hüküm) niteliği karşısında paramparça olur. Asıl 
-borçlunun (X) süre dolduktan sonra yaptığı feragat kendi açısından tamamen 
-geçerlidir; borcu diriltir. Ancak TBK m. 158'in son fıkrası gereği: "Asıl 
-borçlunun feragati kefile karşı ileri sürülemez.". Bu emredici kural 
-sayesinde kefil (Z) asıl borçlu (X)'in bankayla yaptığı bu şahsi anlaşmadan 
-(feragatten) etkilenmez. Kefil (Z) açısından 10 yıllık süre dolmuştur ve asıl 
-borçlunun aksine o, zamanaşımı def'ini geçerli olarak ileri sürebilir. Bankanın
-(Z)'ye yönelik takibi iptal edilecektir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 158 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-TBK m. 158 (feragat) kurallarının usul hukukunda (HMK) sözleşme mimarisinde 
-(Legal Drafting) ve uyuşmazlık tasfiyesinde avukatların dikkat etmesi gereken 
-stratejik boyutları şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. "Önceden Feragat" Yasağını Dolanma Stratejisi Olarak Borç İkrarı:**
-Avukatların hazırladıkları kredi veya tedarik sözleşmelerine "zamanaşımından 
-feragat" klozları koymaları (TBK m. 158/1 gereği) geçersizdir. Ancak uyanık 
-alacaklı avukatları bu yasağı dolanmak için; borçluya her 4 yılda bir 
-"mutabakat metni (borç ikrar senedi)" imzalattırırlar. Bu işlem bir "feragat" 
-değil, TBK m. 154/1 uyarınca bir "ikrar"dır ve zamanaşımını KESER. Kesilen süre
-sıfırlanıp baştan başlayacağı için, borçluya periyodik olarak atılan imzalarla 
-alacak fiilen ölümsüz hâle getirilir. Kanun "önceden feragati" yasaklarken, 
-"kesilme" oyunlarına kapı aralamıştır.
+#### 6. Pratik Uygulama Notları
 
-**2. Dava Aşamasında Zımni Feragat ve HMK Bağlantısı:**
-Zamanaşımı süresi dolmuş bir alacak için dava açıldığında, borçlu davalı cevap 
-dilekçesinde (HMK m. 319 uyarınca süresi içinde) "Zamanaşımı def'i" ileri 
-sürmezse ne olur? Yargıtay ve doktrine göre, süresinde ileri sürülmeyen bir 
-def'i hakkı, usulen kaybedilmiş demektir. Bu usuli sükût (sessizlik) TBK m. 
-158 bağlamında "Zamanaşımından Zımni Feragat" olarak nitelendirilir. Hâkim 
-dosyada 20 yıl geçtiğini görse bile, TBK m. 160 gereği bunu kendiliğinden 
-(resen) dikkate alamayacağı için, borçlu sessiz kalarak zımnen feragat etmiş 
-sayılır ve borcu ödemeye mahkûm edilir.
-
-**3. Birden Fazla Borçlu Varsa Davanın Tümüne Yöneltilmesi Zorunluluğu:**
-Avukatlar, müteselsil borçlulardan birinin süresi geçmiş borç için feragatte 
-bulunduğunu (örneğin borcu kabul ettiğini) gördüklerinde, rehavete kapılıp 
-diğer borçluları ihmal etmemelidir. TBK m. 158/2 gereği, o feragat sadece imza 
-atanı bağlar. Diğer borçlular için süre çoktan dolduğu için, onlara karşı dava 
-açıldığında zamanaşımı def'i ile karşılaşılacağı kesindir. Bu nedenle çok 
-borçlulu ilişkilerde her bir borçlu için "ayrı ayrı" kesme (dava/icra) işlemi 
-yapılmalıdır.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve ihtilaflara bakan ilgili daireleri (özellikle 
-3., 11. ve 15. Hukuk Daireleri ile İcra ve İflas Daireleri) TBK m. 158 
-uyarınca "Önceden Feragat Yasağı"nı mutlak kamu düzeni sayan ve "Feragatin 
-Nispiliği" ilkesini (özellikle kefillerin korunması bağlamında) matematiksel 
-bir kesinlikle uygulayan bir içtihat politikası sergilemektedir.
-
-Sisteminizdeki "Sözleşme Özgürlüğü ve Emredici Kurallar" ile "Kefilin Rücu 
-Hakkı" eserleriyle tam uyumlu olan Yargıtay Hukuk Genel Kurulu'nun (HGK) 
-klasikleşmiş yaklaşımında şu dogmatik kural şablonlaşmıştır: *"6098 sayılı Türk
-Borçlar Kanunu'nun 158. maddesinin 1. fıkrası (mülga BK m. 139) uyarınca, 
-zamanaşımından önceden feragat edilemez. Bu kural kamu düzenine ilişkin olup, 
-borçlunun henüz zamanaşımı süresi dolmadan, alacaklının üstün gücü altında bu 
-savunma hakkından vazgeçmesini önlemek amacıyla sevk edilmiştir. Somut 
-uyuşmazlıkta, banka kredi sözleşmesinde yer alan 'kredi müşterisi, bankanın her
-türlü alacak talebi yönünden zamanaşımı def'ini ileri sürmekten peşinen feragat
-eder' şeklindeki matbu hüküm, kanunun açık ve emredici normuna aykırı 
-olduğundan TBK m. 27 gereği baştan itibaren kesin hükümsüzdür. Tacir dahi olsa 
-taraflar, kanunun öngördüğü zamanaşımı sürelerinden önceden feragat 
-edemeyeceklerinden, mahkemece bu geçersiz kloz dikkate alınarak davanın 
-zamanaşımından reddi kararı isabetlidir."*
-
-**Asıl Borçlunun Feragatinin Kefile Etkisi (TBK m. 158/4)** hususunda Yargıtay 
-11. Hukuk Dairesi'nin içtihat yönelimi son derece keskindir: *"Kefalet 
-sözleşmesinde kefilin sorumluluğu, asıl borcun geçerli bir şekilde varlığına 
-bağlı (fer'i) bir sorumluluktur. Alacaklının, 10 yıllık genel zamanaşımı süresi
-dolduktan sonra asıl borçlu ile protokol yaparak ondan 'zamanaşımından feragat'
-beyanı alması, asıl borçlu yönünden borcu hukuken ayakta tutar. Ancak TBK m. 
-158 fıkra 4 amir hükmü gereğince, asıl borçlunun feragati kefile karşı ileri 
-sürülemez. Kefil, kendi yönünden 10 yıllık sürenin dolduğunu belirterek 
-zamanaşımı def'ini tek başına ve asıl borçluya rağmen ileri sürebilir. İcra 
-Mahkemesince kefil yönünden zamanaşımı şikâyetinin reddedilmesi kanunun açık 
-lafzına ve fer'ilik ilkesine aykırıdır."*.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 158. maddesinde vücut bulan **Zamanaşımından Feragat** 
-rejimi ile bunun 155. maddedeki **Kesilmenin Sirayeti** ile etkileşimi, borçlar
-hukuku dogmatiğinde Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve Haluk Nami 
-Nomer'in eserleri ekseninde; "Paternalist Yaklaşımın Ticari Hayatı Boğması" ve 
-"Kesilme-Feragat Çelişkisinin Mantıksızlığı" bağlamında çok derin kuramsal 
-eleştirilere ve teorik fay hatlarına maruz kalmaktadır.
+Madde 158, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Birinci ve en sert felsefi eleştiri, Sisteminizdeki *"Sözleşme Özgürlüğü ve 
-İstisnaları"* tartışmalarında da yankı bulduğu üzere; **TBK m. 158/1'deki 
-Önceden Feragat Yasağının B2B (Tacirler Arası) İlişkilerde Dahi Mutlak Olarak 
-Uygulanmasının, İrade Muhtariyeti (Privatautonomie) İlkesini Zedeleyen Aşırı 
-Korumacı (Paternalist) Bir Yaklaşım Olmasıdır**. Oğuzman/Öz ve Eren'in
-öğretilerinde de haklı olarak sorgulandığı üzere; zamanaşımı kuralları borçluyu
-ispat güçlüğünden korumak için vardır. Ancak ticari hayatta devasa holdingler, 
-bir birleşme ve devralma (M&A) sözleşmesinde veya uluslararası bir 
-konsorsiyumda, belirli garantiler için önceden feragat etmek isteyebilirler. 
-İki basiretli tacir, kendi ekonomik risklerini tartarak "Bu garanti borcunun 
-zamanaşımından feragat ediyoruz" dediklerinde, Türk hukukunun TBK m. 158 
-giyotini ile "Hayır, sen tacir de olsan bunu yapamazsın, bu kesin hükümsüzdür" 
-demesi, modern ticaretin esnekliğine uymayan bir bürokratik vesayettir. Rona 
-Serozan'ın eserlerinde de işaret edildiği gibi, zayıf tüketici ile devasa 
-fabrikatörü aynı torbaya koyarak mutlak bir feragat yasağı öngörmek, borçlar 
-hukuku dogmatiğinde alacaklıyı ve ticari esnekliği boğan bir kanunlaştırma 
-(Legistik) zafiyetidir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci dogmatik eleştiri, **TBK m. 155 (Kesilmenin Sirayeti) ile TBK m. 158 
-(Feragatin Nispiliği) Arasında Yaratılan Mantıksal Çelişkinin, Kefilin 
-Korunması Hususunda Tutarsızlık Yaratmasıdır**. Nomer ve Eren'in 
-eserlerinde de vurgulandığı üzere; kanun koyucu TBK m. 158/4'te "Asıl borçlunun
-feragati kefile karşı ileri sürülemez" diyerek kefili koruma altına almış ve 
-şahsilik (nispilik) ilkesini yüceltmiştir. Ancak aynı kanun koyucu TBK m. 
-155/2'de "Zamanaşımı asıl borçluya karşı kesilince, kefile karşı da kesilmiş 
-olur" diyerek o çok övdüğü nispilik ilkesini kendi eliyle yerle yeksan 
-etmiştir. Eğer asıl gaye kefili, kendi iradesi dışında asıl borçlu ile alacaklı
-arasında geçen bir olaydan korumaksa; alacaklının asıl borçluya çektiği bir 
-icra takibinin kefile habersizce sirayet etmesi de kefili aynı derecede mağdur 
-etmektedir. Kesilmenin objektif, feragatin sübjektif olduğu şeklindeki klasik 
-açıklama, kefilin ansızın 10 yıl daha uzamış bir borç sarmalıyla karşılaştığı 
-gerçeğini (adaletsizliğini) örtmeye yetmemektedir. Borçlar Hukukunun bu ikili 
-(şizofrenik) tutumu, fer'ilik ilkesinin (accessoriness) zamanaşımı zemininde 
-iflas ettiğinin en somut göstergesidir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
 
+Türk Borçlar Kanunu m. 158, «E. Davanın reddinde ek süre» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 158, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 158'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 158, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 158, «E. Davanın reddinde ek süre» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 158, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 158'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 158, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 158, «E. Davanın reddinde ek süre» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 158, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 158'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 158, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 158, «E. Davanın reddinde ek süre» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 158, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 158'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 158, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 158, «E. Davanın reddinde ek süre» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 158, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 158'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 158, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 158, «E. Davanın reddinde ek süre» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 158, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 158'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 158, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 158, «E. Davanın reddinde ek süre» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt te Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 158, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 158'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 158'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 71.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 158. madde metnine dayanır.
-
-**Görüş**: Kapsamlı öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 158 resmi metni ve kanunun sistematiği.

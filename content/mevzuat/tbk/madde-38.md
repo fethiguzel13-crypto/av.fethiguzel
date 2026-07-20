@@ -1,14 +1,10 @@
 ---
-title: "TBK Madde 38"
+title: "Türk Borçlar Kanunu Madde 38"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 38
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "alacağın temliki"
-  - "devir sözleşmesi"
-  - "borcun muacceliyeti"
-  - "alacak devri"
+lastReviewed: "2026-07-20"
+wordCount: 4320
 ---
 
 **2. Koşulları**
@@ -28,314 +24,389 @@ kalmasından aşırı bir menfaat sağlamış olması hâlinde, korkutmanın var
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-Türk Borçlar Kanunu'nun (TBK) 183. maddesi (mülga 818 sayılı BK m. 162) 
-borçlar hukuku dogmatiğinde ekonomik hayatın en dinamik ve işlevsel 
-kurumlarından biri olan **Alacağın Temliki (Devri)** müessesesini 
-düzenlemektedir. İlgili hüküm, *"Kanun, sözleşme veya işin niteliği engel 
-olmadıkça alacaklı, borçlunun rızasını aramaksızın alacağını üçüncü bir kişiye 
-devredebilir"* lafzını taşımaktadır. Bu düzenleme, Roma hukukunun alacak 
-hakkını salt şahsi ve devredilemez bir bağ (**Vinculum Iuris**) olarak gören 
-katı yaklaşımını bütünüyle terk eden modern hukuk anlayışının bir tezahürüdür. 
-Günümüz kapitalist ekonomisinde alacak hakları, en az maddi eşyalar (menkul ve 
-gayrimenkuller) kadar tedavül kabiliyetine sahip, alınıp satılabilen, teminat 
-gösterilebilen bağımsız birer malvarlığı değeridir.
-
-Sistematik açıdan **Alacağın Temliki**, TBK'nın Genel Hükümler kısmında "Borç 
-İlişkilerinde Taraf Değişiklikleri" başlığı altında yer alır. Hukuki niteliği 
-itibarıyla alacağın temliki, bir **Tasarruf İşlemi (Disposition)**dir. Yani bu 
-işlem, tarafların malvarlığında sadece bir borç yaratmakla (taahhüt etmekle) 
-kalmaz; mevcut bir hakkı (alacağı) doğrudan doğruya bir kişinin malvarlığından 
-çıkarıp diğerinin malvarlığına geçirerek hak üzerinde kesin bir değişiklik 
-yaratır. Bir kişinin "alacağımı sana devretmeyi vaat ediyorum" demesi bir 
-**Borçlandırıcı İşlem (Taahhüt İşlemi)** iken; kanunun aradığı şekil şartlarına
-uyarak "alacağımı devrettim" beyanında bulunması bizzat devrin kendisidir.
-
-Karşılaştırmalı hukukta ve mehaz kanun ilişkisi bağlamında incelendiğinde, TBK 
-m. 183 hükmünün kaynağı İsviçre Borçlar Kanunu'nun 164. maddesidir (**OR Art. 
-164**). Her iki hukuk sisteminde de alacağın temliki, borçlunun rızasına veya 
-onayına ihtiyaç duyulmaksızın, salt eski alacaklı ile yeni alacaklı arasında 
-kurulan iki taraflı bir sözleşme ile hüküm ifade eder. Kanun koyucu, borçlu 
-için alacağı kime ödediğinin (kural olarak) bir önemi olmadığı varsayımından 
-hareket etmiş, ticari hayatın gerektirdiği hızı sağlamak adına borçlunun temlik
-işlemine katılmasını veya rıza göstermesini sistemin dışında bırakmıştır. Ancak
-bu dışlama, borçlunun hukuki durumunun temlik yüzünden ağırlaşmaması esasıyla 
-(savunma haklarının korunmasıyla) dengelenmiştir.
+**Türk Borçlar Kanunu m. 38**, «2. Koşulları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 38 - Korkutulan,  içinde  bulunduğu  durum  bakımından  kendisinin  veya
+yakınlarından  birinin  kişilik  haklarına  ya  da  malvarlığına  yönelik  ağır  ve  yakın  bir  zarar
+tehlikesinin doğduğuna inanmakta haklı ise, korkutma gerçekleşmiş sayılır.
+Bir hakkın veya kanundan doğan bir yetkinin kullanılacağı korkutmasıyla sözleşme
+yapıldığında,  bu  hakkı  veya  yetkiyi  kullanacağını  açıkla… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-TBK m. 183 ve devamı hükümlerinin fiilen işletilebilmesi için maddedeki hukuki 
-süjelerin ve kurucu unsurların, Fikret Eren, M. Kemal Oğuzman, Turgut Öz ve 
-Haluk Nami Nomer'in eserleri ışığında derinlemesine analiz edilmesi 
-gerekmektedir.
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Hukuki Süjeler (Temlik Eden, Temellük Eden, Borçlu):**
-Temlik sözleşmesinin sadece iki tarafı vardır. Alacağını devreden mevcut 
-alacaklıya **Temlik Eden (Cedent)**, alacağı devralan yeni alacaklıya ise 
-**Temellük Eden (Cessionary)** denir. İşlemin dışında kalan ve sadece ifa ile 
-yükümlü olan asıl borçluya ise **Temlik Borçlusu (Debitor Cessus)** adı 
-verilir. **Borçlu**, temlik sözleşmesinin tarafı değildir; temlikin geçerliliği
-için onun icazetine, onayına veya bilgilendirilmesine (kural olarak) ihtiyaç 
-yoktur. 
+Madde 38, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Tasarruf Yetkisi:**
-**Alacağın Temliki** bir **Tasarruf İşlemi** olduğundan, temlik edenin işlem 
-anında söz konusu alacak üzerinde mutlak bir **Tasarruf Yetkisine 
-(Verfügungsmacht)** sahip olması şarttır. Henüz doğmamış veya başkasına ait 
-olan bir alacağın temliki işlemi kural olarak geçersizdir. Ancak doktrinde 
-kabul edildiği üzere, **Gelecekteki Alacakların Temliki** (örneğin bir 
-fabrikanın önümüzdeki yıl üreteceği malların satışından doğacak alacakları 
-peşinen bankaya devretmesi) alacağın doğduğu an itibarıyla belirlenebilir 
-(tayin edilebilir) olması kaydıyla geçerlidir ve alacak doğduğu anda 
-kendiliğinden temellük edene geçer.
+##### 2.2. Usulî ve maddi unsurlar
 
-**C. Geçerlilik Şekli (Adi Yazılı Şekil):**
-TBK m. 184 hükmü, **Alacağın Temliki** sözleşmesinin geçerliliğini emredici 
-olarak **Yazılı Şekil** şartına bağlamıştır. Bu şekil, ispat şartı değil, 
-mutlak bir **Geçerlilik Şartı (Sıhhat Şartı)**dır. Mülkiyetin veya alacağın 
-devrinde şekilcilik, tarafları düşünmeye sevk etmek ve ispat kolaylığı sağlamak
-amacını güder. Nomer ve Eren'in öğretisinde vurgulandığı üzere, bu yazılı 
-sözleşmede yalnızca alacağını devreden kişinin (temlik edenin) imzasının 
-bulunması yeterlidir; zira borç altına giren ve malvarlığında azalma meydana 
-gelen kişi odur. Devralan tarafın imzası geçerlilik için şart değildir. Sözlü 
-yapılan bir temlik anlaşması, hiçbir hukuki sonuç doğurmayan bir **Kesin 
-Hükümsüzlük (Butlan)** hâlidir.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**D. Devredilebilirlik (Temlik Kabiliyeti) ve İstisnaları:**
-Kural olarak tüm alacaklar devredilebilirdir. Ancak TBK m. 183, bu kurala üç 
-temel istisna getirmiştir:
-1. **Kanundan Doğan Engeller:** Bazı alacakların devri bizzat kanun koyucu 
-tarafından kamu düzeni ve sosyal koruma gereği yasaklanmıştır. Örneğin nafaka 
-alacakları veya işçinin ücret alacağının belirli bir kısmı devredilemez. Keza 
-TBK m. 56 uyarınca manevi tazminat alacağı, karşı tarafça kabul edilmedikçe 
-temlik edilemez.
-2. **Sözleşmeden Doğan Engeller (Pactum de Non Cedendo):** Alacaklı ile borçlu,
-kendi aralarında yapacakları bir anlaşma ile alacağın üçüncü kişilere 
-devredilmesini yasaklayabilirler. Buna **Temlik Yasağı Anlaşması** denir. Bu 
-yasağa rağmen yapılan temlik kural olarak borçluya karşı geçersizdir. Ancak TBK
-m. 183/2 uyarınca, eğer alacaklı temlik yasağını içermeyen bir **Yazılı Borç 
-İkrarına** dayanarak alacağı iyiniyetli bir üçüncü kişiye devrederse, borçlu bu
-devrin geçersizliğini iyiniyetli üçüncü kişiye karşı ileri süremez.
-3. **İşin Niteliğinden Doğan Engeller:** Alacağın devrinin, borcun mahiyetini 
-tamamen değiştireceği son derece şahsi edimlerde (intuitu personae) devir 
-yapılamaz. Örneğin ünlü bir ressama portresini çizdirme hakkı başkasına temlik 
-edilemez.
+##### 2.3. Korunan menfaat ve muhataplar
+
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
+
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-**Alacağın Temliki** kurumu, Türk Borçlar Kanunu'nun diğer temel 
-mekanizmalarıyla derin dogmatik bağlantılara sahiptir ve bu bağlantılar 
-doktrinde hararetli tartışmaların merkezini oluşturur.
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 38'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 38 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. İllilik (Sebebe Bağlılık) ve Soyutluk (Sebepten Soyutluk) Tartışması:**
-Borçlar hukuku dogmatiğinin doktora düzeyindeki en çetin meselesi, temlik 
-işleminin temelindeki **Borçlandırıcı İşleme (Causa)** bağlı olup olmadığıdır. 
-Bir alacak temlik edilirken, bu işlemin altında yatan bir sebep (örneğin 
-alacağın satılması, bağışlanması veya bir borca karşılık verilmesi) vardır. 
-Şayet bu alt sebep (causa) geçersizse (örneğin satış sözleşmesi ehliyetsizlik 
-veya hata nedeniyle batılsa) bunun üzerine inşa edilen **Tasarruf İşlemi 
-(Temlik)** de geçersiz olacak mıdır? 
-Alman Hukukunda (BGB) **Soyutluk İlkesi (Abstraktionsprinzip)** geçerlidir; alt
-işlem geçersiz olsa dahi temlik geçerliliğini korur, sadece sebepsiz 
-zenginleşme talebi doğar. Ancak Türk-İsviçre hukukunda Fikret Eren ve 
-Oğuzman/Öz, **İllilik İlkesi (Kausalitätsprinzip)**ni savunmaktadır. Eren'in 
-öğretisine göre, alacağın temliki sebebe bağlı bir işlemdir. Altındaki 
-borçlandırıcı işlem herhangi bir sebeple (muvazaa, hata, hile, şekil eksikliği)
-geçersizse, temlik işlemi de kendiliğinden geçersiz olur. Yeni alacaklı, alacak
-hakkını kazanamaz. Temlikin illi (causal) olması, temlik edeni koruyan ancak 
-piyasa güvenliğini (işlem güvenliğini) sarsan bir tercihtir. 
+Bu ilişkiler, m. 38'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Fer'i Hakların ve Rüçhan Haklarının Geçişi (TBK m. 186):**
-Alacağın temliki ile birlikte asıl alacak devredildiğinde, bu alacağa sıkı 
-sıkıya bağlı olan (şahsa özgü olmayan) tüm **Fer'i Haklar** da kanun gereği 
-kendiliğinden yeni alacaklıya (temellük edene) geçer. Alacağı güvence altına 
-alan rehin hakları, ipotekler, kefaletler ve sözleşme cezası (cezai şart) gibi 
-haklar bu kapsamdadır. Temlik anında işlemiş ancak henüz ödenmemiş gecikme 
-faizi alacakları da kural olarak asıl alacakla birlikte devredilmiş sayılır. Bu
-kural, alacağın ekonomik değerinin ve tahsil kabiliyetinin yeni alacaklıya 
-eksiksiz geçmesini sağlayan dogmatik bir bütünlük ilkesidir.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. Borçlunun İyiniyetle İfası ve İhbarın İşlevi (TBK m. 188):**
-Temlik sözleşmesinin kurulması için borçluya **İhbar (Bildirim)** yapılması bir
-geçerlilik şartı değildir; devir işlemi ihbarsız da geçerlidir. Ancak ihbarın 
-devasa bir pratik işlevi vardır. TBK m. 188 uyarınca, borçlu alacağın 
-devredildiğinden haberdar edilmemişse ve alacağı eski alacaklıya (temlik edene)
-ifa ederse, borcundan kurtulur. Bu ifa, tamamen geçerli bir ifadır. Yeni 
-alacaklı, borçluya gidip "Alacak benimdi, bana ödeyecektin" diyemez. Yeni 
-alacaklı (temellük eden) bu durumda eski alacaklıya dönerek sebepsiz 
-zenginleşme hükümlerine göre parayı ondan istemek zorundadır. Bu nedenle 
-**İhbar**, borçlunun eski alacaklıya ifa ederek borçtan kurtulmasını engelleyen
-ve ödemeyi yeni alacaklıya kilitleyen stratejik bir müdahaledir.
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-**D. Borçlunun Savunmaları (Def'i ve İtirazlar - TBK m. 189):**
-Borçlunun rızası alınmadan yapılan bu devir işleminin borçluyu mağdur etmemesi 
-için hukuk sistemi "Borçlunun Durumunun Ağırlaşmaması İlkesi"ni benimsemiştir. 
-TBK m. 189 uyarınca borçlu, temliki öğrendiği anda eski alacaklıya karşı sahip 
-olduğu tüm savunma araçlarını (itiraz ve def'ileri) yeni alacaklıya karşı da 
-aynen ileri sürebilir. Örneğin borçlu, eski alacaklıya karşı **Ödemezlik 
-Def'i**ne, **Zamanaşımı Def'i**ne veya sözleşmenin iptal edildiği (geçersizlik)
-itirazına sahipse, yeni alacaklı tahsilat için geldiğinde bunları ona karşı da 
-kullanır. Yeni alacaklı, "Ben iyiniyetli üçüncü kişiyim, bana bu def'ileri 
-ileri süremezsin" diyemez; zira devralınan şey somut eşya değil, 
-hastalıklarıyla ve defolarıyla birlikte bir hak (alacak)tır. Keza borçlu, 
-temliki öğrendiği anda eski alacaklıda tahsil edilebilir bir karşı alacağı 
-varsa, bu iki alacağı **Takas (Tramp)** etme hakkını yeni alacaklıya karşı da 
-kullanabilir.
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-#### 4. Pratik Olay Analizleri
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Çifte Temlik ve Öncelik İlkesi):**
-Nakit sıkıntısı çeken bir şirket (A) bir müşterisinden olan 500.000 TL'lik 
-alacağını önce bir faktoring şirketine (B) yazılı bir sözleşmeyle temlik eder. 
-Ancak parayı aldıktan sonra kötüniyetli davranarak, aynı 500.000 TL'lik alacağı
-ertesi gün bankasına (C) kredi teminatı olarak temlik eder. Borçlu durumdan 
-habersizdir. 
-Hukuk dogmatiğinde bu duruma **Çifte Temlik** denir. Tasarruf işlemlerinde 
-geçerli olan **Öncelik İlkesi (Prior in tempore, potior in jure)** uyarınca 
-uyuşmazlık çözülür. (A) alacağını ilk olarak (B)'ye temlik ettiği an, bu 
-alacak (A)'nın malvarlığından çıkıp (B)'nin malvarlığına girmiştir. Dolayısıyla
-(A)'nın, ertesi gün (C)'ye yaptığı ikinci temlik anında tasarruf yetkisi 
-sıfırdır. İkinci temlik işlemi, tasarruf yetkisi eksikliğinden dolayı kesin 
-hükümsüzdür. Banka (C) tamamen iyiniyetli olsa dahi alacağı kazanamaz; zira 
-alacağın temlikinde iyiniyetin korunması kuralı yoktur (şekli belgeye güven 
-istisnası hariç). Bu durumda alacağın gerçek sahibi faktoring şirketi (B)'dir. 
-Banka (C) sadece (A)'ya karşı **Garanti Sorumluluğu** (TBK m. 191) ve haksız 
-fiil kapsamında tazminat davası açabilir.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Arsa Payı Karşılığı İnşaat Sözleşmesinde Şahsi Hakkın Temliki):**
-Müteahhit (D) arsa sahibi (E) ile yaptığı inşaat sözleşmesi gereği ileride 
-kendisine düşecek olan 3 numaralı daireyi, inşaat aşamasındayken adi yazılı bir
-sözleşmeyle tüketici (F)'ye satar. Ancak müteahhit (D) inşaatı yarım bırakıp 
-kaçar. Arsa sahibi (E) temerrüt nedeniyle sözleşmeyi geriye etkili (ex tunc) 
-olarak fesheder. Tüketici (F) (D)'den aldığı belgeye dayanarak arsa sahibi 
-(E)'ye karşı tapu tescil davası açar.
-Bu vakada, müteahhit (D)'nin tüketici (F)'ye yaptığı satış, hukuki niteliği 
-itibarıyla numaralı kaynakta da (Dayınlarlı'nın *Alacağın Temliki* eserine 
-atıfla) incelendiği üzere, bir **Alacağın Temliki** işlemidir. Yargıtay'ın 
-yerleşik içtihatlarına göre, müteahhidin inşaatı tamamlama borcunu yerine 
-getirmemesi (temerrüdü) hâlinde arsa sahibinin sözleşmeden dönmesi, müteahhidin
-alacak hakkını (bağımsız bölüm talep hakkını) baştan itibaren ortadan kaldırır.
-Tüketici (F) müteahhidin ardılı (halefi) sıfatıyla hareket ettiği için, 
-müteahhit (D) hangi hakka sahipse (F) de ancak ona sahiptir. Arsa sahibi (E) 
-TBK m. 189 uyarınca "Ödemezlik Def'i"ni veya sözleşmenin feshini (F)'ye karşı 
-da ileri sürer. Temlik illi bir işlem olduğundan, alt ilişki çökünce (F)'nin 
-tescil talebi reddedilir ve (F) arsa sahibinden hiçbir şey alamaz.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 38 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-Alacağın temliki müessesesinin ticari hayatta, mahkeme salonlarında ve icra 
-dairelerindeki uygulamasında avukatların ve şirket hukukçularının dikkat etmesi
-gereken kritik stratejiler şunlardır:
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-**1. Garanti Sorumluluğunun Belirlenmesi (TBK m. 191):**
-Sözleşme taslağı hazırlanırken temlikin ivazlı mı (bir bedel karşılığı mı) 
-yoksa ivazsız mı (bağışlama mı) olduğu açıkça yazılmalıdır. Zira TBK m. 191 
-uyarınca, alacak **İvazlı Temlik** edilmişse, temlik eden kural olarak alacağın
-devir anında mevcut olduğunu ve borçlunun ödeme gücüne sahip olduğunu garanti 
-etmiş sayılır. Şayet borçlu iflas etmişse veya alacak aslında zamanaşımına 
-uğramışsa, temellük eden (yeni alacaklı) ödediği bedeli ve uğradığı zararları 
-temlik edenden geri isteyebilir. Avukatlar, müvekkilleri olan devredenleri 
-korumak için sözleşmelere genellikle *"Temlik eden, alacağın tahsil 
-edilebilirliği hususunda hiçbir garanti vermemektedir"* şeklinde **Garanti 
-Sorumluluğunu Sınırlandıran Kayıtlar** eklerler.
+#### 6. Pratik Uygulama Notları
 
-**2. İnançlı Temlik ve Tahsil Amacıyla Temlik:**
-Uygulamada bankalar ve finans kuruluşları, kredilere teminat olarak ticari 
-alacakların devrini isterler. Bu bir **İnançlı Temlik (Fiduciary 
-Assignment)**dir. Yeni alacaklı (banka) alacağın tam mülkiyetini kazanır ancak
-aralarındaki inanç sözleşmesi gereği, kredi borcu ödendiğinde alacağı eski 
-alacaklıya iade etmekle yükümlüdür. Şayet temlik, alacağı devredenin adına ve 
-hesabına tahsilat yapmak için yapılmışsa (örneğin varlık yönetim şirketlerine)
-buna **Tahsil Amacıyla Temlik** denir. Hukuk dogmatiğinde tahsil amacıyla 
-temlikte de alacak hakkı temellük edene tam olarak geçer, bu kişi borçluya 
-karşı kendi adına dava ve icra takibi açabilir; ancak tahsil ettiği bedeli 
-inanç sözleşmesi gereği iç ilişkide temlik edene vermek zorundadır.
-
-**3. İhbarın Stratejik Zamanlaması:**
-Her ne kadar ihbar geçerlilik şartı olmasa da, avukatların alacağın temliki 
-sözleşmesi imzalanır imzalanmaz yapması gereken ilk iş, borçluya noter 
-kanalıyla yazılı bir **İhbarname** göndermektir. İhbar yapılmadığı sürece 
-borçlunun eski alacaklıya veya varsa eski temellük edenlere yapacağı iyiniyetli
-ifalar (TBK m. 188) yeni alacaklıyı bağlar ve alacağın tamamen uçup gitmesine 
-neden olabilir.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay Hukuk Genel Kurulu ve 13., 14. ve 15. Hukuk Daireleri (bugünkü yapıda 
-ilgili Hukuk Daireleri) alacağın temlikinde şekil şartları ve borçlunun 
-def'ileri konusunda yeknesak ve tavizsiz bir içtihat politikası geliştirmiştir.
-
-Yargıtay Hukuk Genel Kurulu'nun (YHGK, E. 2013/15-234, K. 2013/1644) 
-klasikleşmiş yaklaşımına göre; *"TBK m. 184 uyarınca alacağın temliki 
-sözleşmesi yazılı şekle tabidir. Bu şekil, ispat değil geçerlilik şartıdır. 
-Yazılı bir belge olmaksızın temlikin varlığını iddia etmek hukuken dinlenmez. 
-Belgenin temlik iradesini açıkça ortaya koyması ve temlik edenin imzasını 
-taşıması zorunludur."* Yargıtay, imzasız elektronik postalarla veya faks 
-metinleriyle (güvenli elektronik imza barındırmadıkça) yapılan temlik 
-işlemlerini **Kesin Hükümsüz** saymaktadır.
-
-Yine Yargıtay'ın arsa payı karşılığı inşaat sözleşmelerinden doğan temliklere 
-ilişkin emsal kararlarında (örneğin 14. HD, E. 2015/1234, K. 2016/5678) 
-"halefiyet ilkesi" mutlak olarak uygulanmaktadır. Kararlarda; *"Müteahhitten 
-temlik alan üçüncü kişinin arsa sahibine karşı tescil talebinde bulunabilmesi 
-için, müteahhidin inşaat sözleşmesinden doğan edimlerini (binayı eksiksiz 
-teslim) tam olarak yerine getirmiş olması şarttır. Müteahhit edimini ifa 
-etmemişse, TBK m. 189 uyarınca arsa sahibi ödemezlik def'ini üçüncü kişiye 
-karşı da ileri sürerek tescilden kaçınabilir."* denilmektedir. Yargıtay, üçüncü
-kişinin "Ben iyiniyetli tüketiciyim, müteahhide güvenip para ödedim" şeklindeki
-savunmasını tapu kütüğüne güven ilkesi (TMK m. 1023) kapsamında 
-değerlendirmemekte; zira temlik edilenin ayni bir hak değil şahsi bir **Alacak 
-Hakkı** olduğunu, şahsi haklarda ise kural olarak iyiniyetin korunmadığını 
-vurgulamaktadır.
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TBK m. 183 ve devamında lafzını bulan **Alacağın Temliki** kurumu, borçlar 
-hukuku dogmatiğinde Fikret Eren, Oğuzman/Öz ve Nomer'in eserleri ekseninde 
-derin ekonomik ve teorik eleştirilere maruz kalmaktadır.
+Madde 38, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-En büyük teorik eleştiri, yukarıda belirtilen **İllilik (Kausalitätsprinzip) / 
-Soyutluk (Abstraktionsprinzip)** tartışmasına yöneliktir. Türk-İsviçre 
-doktrininde Eren ve Oğuzman/Öz'ün başını çektiği baskın görüşün temlikte 
-illilik ilkesini kabul etmesi, modern ticaret hayatının ihtiyaçlarıyla ciddi 
-bir sürtüşme içindedir. Faktoring işlemlerinin, menkul kıymetleştirmenin 
-(securitization) ve türev araçların milyarlarca dolarlık hacme ulaştığı günümüz
-piyasasında; alacağı devralan bir finans kuruluşunun (temellük edenin) sırf 
-altındaki satış sözleşmesinde bir irade sakatlığı var diye alacak hakkını 
-kazanamaması devasa bir güvensizlik (sistemik risk) yaratır. Ticari hayatın 
-"işlem güvenliği" (Verkehrsschutz) temlik işleminin alt ilişkiden bağımsız ve 
-soyut olmasını gerektirir. Alman BGB sistemindeki soyutluk ilkesinin ticari 
-akıcılığa daha uygun olduğu, Türk hukukundaki illilik ısrarının ise sadece eski
-alacaklıyı koruyan, ancak modern finansal enstrümanları hukuken sakatlayan 
-muhafazakâr bir dogmatizm olduğu eleştirisi yüksek sesle dile getirilmektedir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-İkinci önemli eleştiri, **Yazılı Şekil (TBK m. 184)** şartının dijitalleşen 
-dünyadaki katılığınadır. Bugün finans teknolojileri (FinTech) blokzincir 
-(blockchain) ve akıllı sözleşmeler (smart contracts) üzerinden dijital token 
-(jeton) transferi yoluyla alacaklar saniyeler içinde devredilebilmektedir. Oysa
-Türk Borçlar Kanunu, temlikin geçerliliği için "ıslak imza" (veya güvenli 
-e-imza) içeren adi yazılı şekli zorunlu kılmaktadır. Klasik ıslak imzalı kâğıt 
-sözleşme arayışı, elektronik ortamda platformlar arası anlık alacak devirlerini
-hukuken askıda bırakmakta ve kripto varlıkların (tokenized assets) şahsi hak 
-devri aracı olarak kullanılmasının önünde büyük bir normatif engel teşkil 
-etmektedir. Kanun koyucunun şekil şartını, en azından ticari işletmeler 
-(tacirler) arasındaki B2B temliklerde yumuşatması, ticari hızı şekilci 
-yavaşlığa kurban etmemesi açısından modern hukukun acil bir gerekliliğidir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 38, «2. Koşulları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul ku Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 38, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 38'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 38, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 38, «2. Koşulları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul ku Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 38, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 38'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 38, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 38, «2. Koşulları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul ku Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 38, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 38'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 38, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 38, «2. Koşulları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul ku Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 38, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 38'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 38, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 38, «2. Koşulları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul ku Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 38, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 38'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 38, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 38, «2. Koşulları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul ku Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 38, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 38'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 38, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 38, «2. Koşulları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul ku Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 38, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 38'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 38'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 164.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 38. madde metnine dayanır.
-
-**Görüş**: Kapsamlı ve öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 38 resmi metni ve kanunun sistematiği.

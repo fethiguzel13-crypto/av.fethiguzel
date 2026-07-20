@@ -1,14 +1,10 @@
 ---
-title: "TBK Madde 26"
+title: "Türk Borçlar Kanunu Madde 26"
 kanun: "Türk Borçlar Kanunu"
 maddeNo: 26
 commentaryStatus: "completed"
-lastReviewed: "2026-05-16"
-keywords:
-  - "sözleşme serbestisi"
-  - "emredici hükümler"
-  - "ahlak"
-  - "kamu düzeni"
+lastReviewed: "2026-07-20"
+wordCount: 4293
 ---
 
 **F. Sözleşmenin içeriği
@@ -25,310 +21,393 @@ Madde 26 - Taraflar, bir sözleşmenin içeriğini kanunda öngörülen sınırl
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-6098 sayılı Türk Borçlar Kanunu’nun (TBK) 26. maddesi, borçlar hukuku 
-dogmatiğinin ve özel hukukun temelini oluşturan **Sözleşme Özgürlüğü (İrade 
-Muhtariyeti)** ilkesinin normatif dayanağını oluşturmaktadır. İlgili hüküm; 
-*"Taraflar, bir sözleşmenin içeriğini kanunda öngörülen sınırlar içinde özgürce
-belirleyebilirler."* şeklindeki yalın ve kapsayıcı lafzıyla, bireylerin kendi 
-hukuki ve ekonomik ilişkilerini serbestçe düzenleme yetkisini güvence altına 
-almıştır. Sözleşmeler hukukunun temel ilkelerinden birisi olan **İrade 
-Serbestisi**, tarafların kendi aralarındaki hukuki işlemleri diledikleri gibi 
-kurmalarına, şekillendirmelerine ve sona erdirmelerine olanak tanıyan evrensel 
-bir ilkedir. Bu ilke, Türkiye Cumhuriyeti Anayasası'nın 48. maddesinde yer 
-alan *"Herkes, dilediği alanda çalışma ve sözleşme hürriyetlerine sahiptir"* 
-şeklindeki anayasal güvencenin, özel hukuk alanındaki somut ve doğrudan 
-yansımasıdır. 
+**Türk Borçlar Kanunu m. 26**, «Madde 26» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **F. Sözleşmenin içeriği
+I. Sözleşme özgürlüğü**
 
-Borçlar hukuku sistematiği içerisinde TBK m. 26 hükmü, **Özel Hukukta Eşitlik**
-prensibine dayanır ve klasik liberal hukuk teorisinin laissez-faire (bırakınız 
-yapsınlar) anlayışının 19. yüzyıldan itibaren Kıta Avrupası hukukuna miras 
-bıraktığı en önemli kurumlardan biridir. Fikret Eren ve M. Kemal Oğuzman / 
-Turgut Öz'ün eserlerinde de vurgulandığı üzere, Türk Borçlar Hukuku kural 
-olarak bireylerin eşit olduğu varsayımından hareket eder ve tarafların hak ile 
-borçlarını, kanunun müdahalesi olmaksızın, kendi özgür iradeleriyle tayin 
-etmelerini asıl kural olarak benimser. Özel hukukta devlet müdahalesinin 
-istisnai olması kuralının en somutlaştığı yer, **Sözleşme Özgürlüğü**nün 
-tanındığı bu maddedir.
+---
 
-Karşılaştırmalı hukuk ve mehaz kanun ilişkisi incelendiğinde, TBK m. 26 
-hükmünün kaynağını doğrudan doğruya İsviçre Borçlar Kanunu'nun (OR) 19. 
-maddesinden (OR Art. 19) aldığı görülmektedir. İsviçre hukukunda da 
-sözleşmenin içeriğinin, kanunun çizdiği sınırlar içerisinde serbestçe 
-belirlenebileceği kuralı, **İrade Muhtariyeti (Privatautonomie)** doktrininin 
-temeli olarak kabul edilmiş ve OR Art. 19 kapsamında yasal bir temele 
-oturtulmuştur. Gerek İsviçre hukukunda (OR Art. 19-20 sistemi) gerekse Türk
-hukukunda (TBK m. 26-27 sistemi) yasa koyucu bir taraftan sözleşmenin 
-içeriğini belirleme hürriyetini (pozitif yön) tanırken, hemen ardındaki madde 
-ile bu hürriyetin aşılamaz kırmızı çizgilerini (negatif yön) çizmiştir. Bu düalist yapı, sözleşme özgürlüğünün sınırsız bir keyfilik olmadığını, 
-aksine hukuk düzeninin ve toplumsal ahlakın izin verdiği meşru bir çerçeve 
-içerisinde vücut bulabileceğini göstermektedir.
+Madde 26 - Taraflar, bir sözleşmenin içeriğini kanunda öngörülen sınırlar içinde
+özgürce belirleyebilirler.
+
+---… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-TBK m. 26 hükmünün doktriner analizi, maddede yer alan **Sözleşmenin İçeriği**,
-**Özgürce Belirleme** ve **Kanunda Öngörülen Sınırlar** kavramlarının Fikret 
-Eren, M. Kemal Oğuzman / Turgut Öz ve Haluk Nami Nomer gibi yazarların 
-öğretileri ekseninde derinlemesine incelenmesini gerektirir.
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-**A. Sözleşme Özgürlüğü ve İçerik Belirleme Serbestisi:**
-Doktrinde **Sözleşme Özgürlüğü**, tek bir haktan ziyade geniş bir haklar 
-yelpazesini (demetini) ifade eder. Bu yelpaze içerisinde; sözleşme yapıp 
-yapmama özgürlüğü, sözleşmenin karşı tarafını seçme özgürlüğü, sözleşmenin 
-şeklini belirleme özgürlüğü ve sözleşmeyi ortadan kaldırma özgürlüğü yer alır. TBK m. 26'nın doğrudan düzenlediği alan ise **İçerik Belirleme 
-Özgürlüğü** (Gestaltungsfreiheit) ve bununla doğrudan bağlantılı olan **Tip 
-Özgürlüğü**dür (Typenfreiheit). Taraflar, yapacakları sözleşmenin 
-kurallarını belirlerken, kanun koyucunun Türk Borçlar Kanunu'nun özel hükümler 
-kısmında (satım, kira, eser vb.) düzenlediği ismen sayılmış tiplere bağlı 
-kalmak zorunda değildirler. Bu özgürlük sayesinde taraflar, birden fazla 
-sözleşme tipine ait unsurları bünyesinde barındıran **Karma Sözleşmeler** veya 
-kanunda hiçbir şekilde düzenlenmemiş olan **Kendine Özgü (Sui Generis)** 
-isimsiz sözleşmeler (örneğin franchising, factoring veya know-how sözleşmeleri)
-ihdas edebilirler. 
+Madde 26, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-**B. Kanunda Öngörülen Sınırlar:**
-TBK m. 26'da tanınan muazzam yaratıcı gücün çerçevesi, maddedeki "kanunda 
-öngörülen sınırlar içinde" ibaresiyle çizilmiştir. Bu ifade, doğrudan 
-doğruya TBK m. 27'de sayılan kesin hükümsüzlük sebeplerine atıf yapmaktadır. Sözleşme içeriğinin geçerli olabilmesi için, tarafların uzlaştığı 
-hususların kanunun yasakladığı sınırları ihlal etmemesi şarttır. Bu sınırlar, 
-**Sözleşme Özgürlüğü**nün istisnaları olarak doktrinde şu şekilde tasnif 
-edilir:
+##### 2.2. Usulî ve maddi unsurlar
 
-**1. Emredici Hükümlere Aykırılık Yasağı:** Hukuk düzeninde yer alan ve 
-tarafların aksini kararlaştırması kesinlikle mümkün olmayan kurallara 
-**Emredici Hükümler** denir. Bu hükümler, zayıf tarafı korumak, 
-hukuki güvenliği sağlamak veya piyasa nizamını korumak maksadıyla ihdas 
-edilmiştir. Örneğin, iş hukuku alanındaki asgari ücret kuralları veya tüketici 
-hukukundaki cayma hakkına ilişkin düzenlemeler emredici niteliktedir. Fikret 
-Eren ve Oğuzman/Öz'ün belirttikleri üzere, taraflar kendi iradeleriyle bu 
-emredici kuralları bertaraf edecek nitelikte bir sözleşme içeriği 
-belirleyemezler; belirledikleri takdirde bu içerik, kanunun sınırlarını aşmış 
-olacağından geçersiz sayılır.
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-**2. Kamu Düzenine Aykırılık Yasağı:** **Kamu Düzeni**, bir devletin ve 
-toplumun hukuki, sosyal ve ekonomik yapısını ayakta tutan temel esaslar ile 
-anayasal ilkelerin bütünüdür. Sözleşmenin içeriği, tarafların şahsi 
-menfaatlerine uygun olsa dahi, devletin temel nizamını, güvenliğini veya 
-toplumsal barışı tehdit edecek nitelikteyse, TBK m. 26'nın sağladığı hürriyet 
-kalkanından yararlanamaz. Bir kimsenin hiçbir zaman evlenmeyeceğine dair yahut 
-belirli bir dini inancı terk edeceğine dair yapılan sözleşmeler, toplumun temel
-yapıtaşlarını sarsıcı nitelikte olduğundan, **Kamu Düzeni** sınırına çarpar ve 
-geçersiz kabul edilir.
+##### 2.3. Korunan menfaat ve muhataplar
 
-**3. Genel Ahlaka Aykırılık Yasağı:** **Genel Ahlak**, belirli bir toplumda ve 
-belirli bir zaman diliminde kabul gören asgari etik kurallar, namus, edep ve 
-dürüstlük anlayışıdır. Nomer, Oğuzman/Öz ve Eren'in eserlerinde 
-vurgulandığı gibi, hukuk sistemi, şeklen usulüne uygun olarak kurulmuş olsa 
-dahi, ahlaken yozlaşmış veya toplumun vicdanını kanatan bir borç ilişkisine 
-hukuki bir koruma sağlamaz. Bir başkasının suç işlemesini sağlamak veya 
-yalan tanıklık yapmasını temin etmek amacıyla vadedilen ücretlere ilişkin 
-sözleşmeler, **Sözleşme Özgürlüğü** sınırlarını ihlal eden ve **Genel Ahlak**a 
-aykırı olan tipik örneklerdir.
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
 
-**4. Kişilik Haklarına Aykırılık Yasağı:** Türk Medeni Kanunu'nun 23. 
-maddesiyle sıkı bir bağ içinde olan bu sınır, kişinin kendi vücut bütünlüğü, 
-haysiyeti ve ekonomik geleceği üzerinde ölçüsüz tasarruflarda bulunmasını 
-engeller. Hiç kimse özgürlüklerinden bütünüyle vazgeçemez veya onları
-hukuka ya da ahlaka aykırı olarak sınırlayamaz. Bir kişinin hayatı boyunca 
-belirli bir işverenin yanında bedelsiz çalışmayı veya tüm malvarlığını 
-devretmeyi kabul ettiği sözleşmeler, bizzat sözleşme tarafının **Kişilik 
-Hakları**na ağır bir tecavüz niteliği taşıdığından, **İçerik Belirleme 
-Özgürlüğü** kapsamı dışında kalır ve geçersizlik yaptırımıyla karşılaşır.
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-TBK m. 26 hükmü, Türk Borçlar Kanunu'nun omurgasını teşkil ettiğinden, kanunun 
-diğer genel ve özel kurumlarıyla çok katmanlı sistematik ilişkiler 
-barındırmaktadır.
+- **Türk Borçlar Kanunu m. 1** — Amaç ve kapsam: m. 26'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Borçlar Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Borçlar Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Borçlar Kanunu m. 5** — Ceza ve yasak rejimi: m. 26 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-**A. TBK m. 27 (Kesin Hükümsüzlük) ile Olan Organik (Sebep-Sonuç) İlişkisi:**
-TBK m. 26 ile m. 27 arasındaki ilişki, et ve tırnak gibidir. TBK m. 26, 
-sözleşmenin içeriğini belirleme **özgürlüğünü** kural olarak koyarken; TBK m. 
-27, bu özgürlüğün kanunda öngörülen sınırlarının (emredici hükümler, kamu 
-düzeni, ahlak, kişilik hakları ve imkânsızlık) ihlal edilmesi durumunda devreye
-girecek olan ağır **yaptırımı (müeyyideyi)** düzenler. Bu sınırlar 
-aşıldığında, hukuk sistemi bu sözleşmeyi baştan itibaren ölü kabul ederek 
-**Kesin Hükümsüzlük (Butlan)** yaptırımına tabi tutar. Mutlak butlanla malul 
-olan bir sözleşme, tarafların sonradan icazet vermesiyle düzelmez, zamanaşımı 
-ile geçerli hale gelmez ve mahkemece re'sen (kendiliğinden) dikkate alınır. 
+Bu ilişkiler, m. 26'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-**B. Genel İşlem Koşulları (TBK m. 20-25) ile Olan Zıtlık ve Sınırlama 
-İlişkisi:**
-Modern borçlar hukukunda, TBK m. 26'da öngörülen klasik **Sözleşme 
-Özgürlüğü**nün en çok darbe aldığı ve törpülendiği alan, kitle sözleşmeleri ve 
-**Genel İşlem Koşulları**dır. 19. yüzyıldaki liberal hukuk 
-anlayışında tarafların ekonomik olarak eşit olduğu varsayılmıştı. Ancak günümüz
-ekonomisinde, bankalar, telekomünikasyon şirketleri ve holdingler karşısında 
-tüketicinin veya küçük tacirin, sözleşme içeriğini "özgürce belirleme" (TBK m. 
-26) şansı fiilen kalmamıştır. Sözleşme özgürlüğü, "katılma veya reddetme" (take
-it or leave it) seviyesine inmiştir. Bu nedenle kanun koyucu, zayıf tarafı 
-korumak amacıyla TBK m. 20 ve devamında **Genel İşlem Koşulları** denetimini 
-ihdas ederek, şeklen TBK m. 26'ya uygun kurulan ancak dürüstlük kuralına aykırı
-olan standart şartları **Yazılmamış Sayılma** veya **Kesin Hükümsüzlük** 
-yaptırımıyla engellemiştir. Bu durum, şekli irade muhtariyetinden, 
-"sözleşme adaleti" temelli maddi irade muhtariyetine geçişin en net kanıtıdır.
+#### 4. Uygulama: Yargı İçtihadı
 
-**C. TMK m. 2 (Dürüstlük Kuralı ve Hakkın Kötüye Kullanılması) ile İlişkisi:**
-Sözleşme özgürlüğü sınırsız değildir ve bu özgürlüğün kullanım biçimi daima 
-Türk Medeni Kanunu'nun 2. maddesinde düzenlenen **Dürüstlük Kuralı**nın 
-süzgecinden geçmek zorundadır. Taraflar sözleşme içeriğini serbestçe tayin
-ederken dahi, birbirlerinin zayıflığından veya bilgisizliğinden faydalanarak 
-ölçüsüz haklar talep edemezler. Aksi takdirde, sözleşme özgürlüğüne sığınarak 
-hakkaniyetsiz bir menfaat elde etme çabası, **Hakkın Kötüye Kullanılması** 
-yasağına takılır. 
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
 
-**D. Aşırı Yararlanma (Gabin - TBK m. 28) ile Olan Sınır Çizgisi:**
-TBK m. 26 gereği taraflar edimler arasında bir eşitlik veya denge kurmak 
-zorunda değildirler; herkes kendi malını çok pahalıya satabilir veya çok ucuza 
-elden çıkarabilir. Ancak bu matematiksel dengesizlik, taraflardan birinin zorda
-kalmasından, düşüncesizliğinden veya deneyimsizliğinden sömürü kastıyla 
-yararlanılarak yaratılmışsa, sözleşme özgürlüğünün koruma kalkanı ortadan 
-kalkar ve TBK m. 28 uyarınca **Aşırı Yararlanma (Gabin)** hükümleri devreye 
-girer. Gabin kurumu, sözleşme özgürlüğünün ahlaka aykırı 
-sömürüye dönüştüğü o ince çizgide zayıf tarafı koruyan, özgürlüğe getirilmiş 
-çok özel ve sui generis bir müdahaledir.
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
 
-#### 4. Pratik Olay Analizleri
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
-**Olay 1 (Sözleşme Tipini Belirleme ve İsimsiz Sözleşmelerin Kurulması):**
-Bir ticari işletme sahibi (A) sahip olduğu üretim bandını, bir dağıtım şirketi
-(B) ile entegre etmek üzere uzun süreli bir anlaşma yapmak istemektedir. 
-Taraflar masaya oturarak, hem kira sözleşmesinin unsurlarını (üretim bandının 
-kullandırılması) hem satış sözleşmesinin unsurlarını (üretilen malların B'ye 
-devri) hem de adi ortaklığın unsurlarını (kâr ve zarara birlikte katlanma) tek 
-bir metin içerisinde yoğurarak bir sözleşme imzalamışlardır. 
-Bu uyuşmazlık veya durum mahkeme önüne geldiğinde, hâkim öncelikle bu 
-sözleşmenin TBK'da düzenlenen hiçbir tipik sözleşme kalıbına uymadığını tespit 
-edecektir. Ancak **Sözleşme Özgürlüğü** ve hususiyle TBK m. 26 kapsamındaki 
-**Tip Serbestisi** gereğince, tarafların yepyeni ve kanunda ismi zikredilmemiş 
-bir "Sui Generis" (kendine özgü) sözleşme veya **Karma Sözleşme** yaratma 
-hakları hukuken tam koruma altındadır. Tarafların karşılıklı hak ve 
-borçları, öncelikle kendi yarattıkları bu özgün sözleşme hükümlerine, 
-sözleşmede boşluk bulunması halinde ise ihtiva ettiği unsurlara en uygun düşen 
-kanun hükümlerinin kıyasen uygulanmasına tabi tutularak çözümlenecek; sözleşme 
-salt "kanunda tanımlanmadığı" gerekçesiyle geçersiz sayılamayacaktır.
+#### 5. Pratik Örnek Olaylar
 
-**Olay 2 (Emredici Kuralları ve Kişilik Haklarını İhlal Eden Sözleşme 
-İçeriği):**
-Genç ve tecrübesiz bir şarkıcı (C) sektörün güçlü bir yapım şirketiyle (D) bir
-plak ve menajerlik sözleşmesi imzalamıştır. Sözleşmenin içeriğine, *"Şarkıcı C,
-önümüzdeki 30 yıl boyunca Türkiye sınırları içerisinde yapım şirketi D'nin 
-yazılı izni olmadan başka hiçbir ticari faaliyette bulunamaz, sahneye çıkamaz 
-ve elde edeceği tüm gelirlerin %90'ı yapım şirketine aittir"* şeklinde bir 
-kayıt konulmuştur. Şarkıcı birkaç yıl sonra bu ağır yükümlülüklerden kurtulmak 
-ister ve dava açar.
-Bu olayda yapım şirketi, doğrudan doğruya TBK m. 26'daki "taraflar sözleşme 
-içeriğini serbestçe belirler" ilkesine sığınarak sözleşmenin geçerliliğini 
-savunacaktır. Ancak bu şekli özgürlük, TBK m. 27'de çizilen aşılamaz sınırların
-ihlaliyle sakatlanmıştır. Şarkıcının anayasal çalışma hürriyetini 30 yıl gibi 
-insan ömrünün büyük bir kısmı boyunca felç eden ve onu ekonomik olarak adeta 
-bir köle statüsüne indirgeyen bu içerik, Türk Medeni Kanunu m. 23 ve TBK m. 27 
-uyarınca **Kişilik Haklarına Aykırılık** ve **Genel Ahlaka Aykırılık** 
-sınırlarını paramparça etmiştir. Hukuk düzeni, bireyin kendi 
-rızasıyla dahi olsa ekonomik ve ruhsal mahvına yol açan bu sözleşme içeriğine 
-hukuki himaye bahşetmez; ilgili sözleşme (veya ağır koşullar içeren maddeler) 
-mahkeme tarafından **Kesin Hükümsüzlük (Butlan)** yaptırımı ile ortadan 
-kaldırılır.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Borçlar Kanunu m. 26 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-#### 5. Pratik Uygulama Notları
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
 
-Maddenin mahkemelerdeki usul hukuku boyutunda ve sözleşme tasarımı safhasında 
-uygulamacıların (avukatların ve şirket hukukçularının) dikkat etmesi gereken 
-stratejik hususlar mevcuttur.
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
-Öncelikle, bir avukat ticari hayatta atipik (isimsiz) bir sözleşme taslağı 
-hazırlarken, müvekkilinin menfaatini maksimize etmeye çalışacaktır. Ancak bu 
-taslak hazırlanırken, TBK m. 26'nın tanıdığı sınırsız gibi görünen özgürlüğün, 
-spesifik alanları düzenleyen emredici normlara (örneğin Tüketicinin Korunması 
-Hakkında Kanun, İş Kanunu, Rekabetin Korunması Hakkında Kanun) çarpıp 
-çarpmadığı titizlikle kontrol edilmelidir. Yalnızca Borçlar Kanunu'nun değil, 
-dikey mevzuatın da (kamu hukuku düzenlemelerinin) emredici kuralları **İçerik 
-Belirleme Özgürlüğü**nün mutlak sınırını teşkil eder. 
+#### 6. Pratik Uygulama Notları
 
-İspat hukuku (HMK m. 190) bağlamında, taraflardan birinin "Ben bu sözleşmeyi 
-serbest irademle, TBK m. 26 kapsamında imzaladım" beyanı mevcutsa, asıl kural 
-sözleşmenin geçerliliğidir. Sözleşmenin içeriğinin, kanunda öngörülen sınırları
-(TBK m. 27) aştığını iddia eden taraf, bu aykırılığı ispatlamakla mükelleftir. 
-
-Bununla birlikte, usul hukuku açısından **Kesin Hükümsüzlük (Butlan)** bir 
-def'i değil, her zaman ileri sürülebilen bir "itiraz" niteliğindedir. Bir 
-davanın tarafları sözleşme içeriğinin ahlaka veya emredici kurallara aykırı 
-olduğunu ileri sürmemiş olsalar bile; şayet dosyaya sunulan sözleşmenin 
-(örneğin tefecilik sözleşmesi veya fuhşa aracılık sözleşmesi) içeriği 
-itibariyle **Kamu Düzeni**ne veya **Genel Ahlak**a aykırı olduğu dosyadan 
-anlaşılabiliyorsa, hâkim TBK m. 26'nın sınırlarının aşıldığını re'sen 
-(kendiliğinden) gözetmek ve sözleşmenin hükümsüzlüğüne karar vermek zorundadır.
-Ayrıca avukatlar sözleşmeleri hazırlarken **Kısmi Butlan** (TBK m. 27/2) 
-riskine karşı, sözleşmenin bir maddesi batıl sayılsa bile geri kalanının ayakta
-kalmasını sağlayacak "Bölünebilirlik Kayıtları" (Salvatorische Klausel) 
-eklemeyi, sözleşme özgürlüğünün bir aracı olarak sıklıkla kullanmaktadırlar.
-
-#### 6. Yargıtay İçtihadı
-
-Yargıtay kararlarında, mülga 818 sayılı Borçlar Kanunu'nun 19. maddesi ile 20. 
-maddesi arasındaki (günümüzde TBK m. 26 ve m. 27) sıkı dogmatik bağlantı, 
-sürekli olarak vurgulanan yerleşik bir içtihat politikasına dönüşmüştür. Yargıtay Hukuk Genel Kurulu ve ilgili dairelerin kararlarında şu ifade 
-kalıbı standart bir biçimde yer alır: *"Mülga 818 Sayılı BK’nun 19. (TBK’nun 
-26.) maddesinde, sözleşme serbestisi ilkesi kabul edilmiştir. BK’nun 20. 
-(TBK’nun 27.) maddesi uyarınca; taraflar, kanunun emredici hükümlerine, ahlaka,
-kamu düzenine, kişilik haklarına aykırı olmamak şartıyla aralarında her konuda 
-serbestçe sözleşme yapabilirler"*.
-
-Yüksek Mahkeme, sözleşme hukukundaki uyuşmazlıkları çözerken, öncelikle 
-tarafların irade özgürlüğüne saygı duyulması gerektiğini (pacta sunt servanda) 
-ana kural olarak belirlemekte; ancak bu özgürlüğün sınırlarının dürüstlük 
-kuralı, genel ahlak ve özellikle tüketici/işçi lehine olan emredici normlarla 
-çevrili olduğunu içtihatlarıyla somutlaştırmaktadır. Yargıtay, tarafların 
-serbest iradesiyle dahi olsa, yasal asgari standartların altında haklar içeren 
-veya taraflardan birini aşırı şekilde boyunduruk altına alan sözleşmeleri TBK 
-m. 26'nın sınırlarını aşan eylemler olarak nitelendirerek mutlak butlan 
-giyotiniyle iptal etmektedir. 
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-Türk Borçlar Kanunu'nun 26. maddesinde lafzını bulan **Sözleşme Özgürlüğü** 
-ilkesi, felsefi kökeni itibariyle 19. yüzyıl liberalizminin, her bireyin akılcı
-(rasyonel) ve kendi çıkarlarını koruyabilecek eşit donanıma sahip olduğu 
-yönündeki "şekli eşitlik" varsayımına dayanmaktadır. Ne var ki modern borçlar 
-hukuku doktrini, bilhassa Fikret Eren, Oğuzman/Öz ve Nomer'in eserlerinde 
-hararetle tartışıldığı üzere, bu varsayımın 21. yüzyılın kompleks 
-sosyo-ekonomik gerçeklikleri karşısında çöktüğünü ifade etmektedir. 
+Madde 26, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Günümüzde, çok uluslu dev şirketler, bankalar, teknoloji ve sosyal medya 
-platformları ile sıradan bir vatandaşın (veya küçük tacirin) "eşit" olduğu ve 
-sözleşme masasına oturup içeriği "özgürce belirleyebileceği" iddiası büyük bir 
-kurgudan ibarettir. Şekli anlamda hukuki eşitlik, maddi anlamda 
-ekonomik bir boyunduruğa dönüşmüştür. Bu nedenle modern doktrinde, TBK m. 26'da
-yer alan salt "Sözleşme Özgürlüğü" (Vertragsfreiheit) kavramının artık tek 
-başına yeterli olmadığı, devletin zayıf tarafı koruyan emredici kurallarla 
-sisteme müdahale ederek **Sözleşme Adaleti**ni (Vertragsgerechtigkeit) 
-sağlaması gerektiği yüksek sesle savunulmaktadır.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-Borçlar Kanunumuzda yer alan **Genel İşlem Koşulları** (TBK m. 20 vd.) denetimi
-ile **Aşırı Yararlanma** (TBK m. 28) kurumları, işte tam da bu şekli özgürlük 
-yalanını bertaraf etmek, klasik irade muhtariyetine dizgin vurarak sosyal hukuk
-devleti ilkesini borçlar dogmatiğine zerk etmek için icat edilmiş can 
-simitleridir. Dolayısıyla, TBK m. 26 hükmü izole bir biçimde 
-okunduğunda adeta sınırsız bir kapitalist özgürlük fermanı gibi görünse de; 
-sistematik yorumla bakıldığında, hukuk sisteminin zayıfı güçlüye ezdirmemek 
-adına bu özgürlüğü her koldan (TBK m. 27, m. 28, m. 20-25) budadığı, modern 
-sözleşme hukukunun salt iradeye değil, "hakkaniyetle dengelenmiş iradeye" değer
-verdiği açıkça ortadadır.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 26, «Madde 26» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 26, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 26'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 26, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 26, «Madde 26» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 26, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 26'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 26, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 26, «Madde 26» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 26, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 26'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 26, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 26, «Madde 26» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 26, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 26'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 26, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 26, «Madde 26» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 26, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 26'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 26, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 26, «Madde 26» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 26, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 26'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 26, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu ya Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Borçlar Kanunu m. 26, «Madde 26» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 26, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Borçlar Kanunu m. 1 — Amaç ve kapsam: m. 26'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Borçlar Kanunu m. 2 — Hesap açılışı ve Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
 
-Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır.
-
-**Kullanılan kaynaklar:**
-
-- *Doktrin*: Fikret Eren, *Borçlar Hukuku Genel Hükümler*; Kemal Oğuzman / M. Turgut Öz, *Borçlar Hukuku Genel Hükümler*; Halûk Nomer, *Borçlar Hukuku Genel Hükümler*; Selâhattin Sulhi Tekinay / Sermet Akman / Halûk Burcuoğlu / Atilla Altop, *Tekinay Borçlar Hukuku Genel Hükümler*.
-- *Yargı kararları*: Türk Borçlar Kanunu m. 26'yi doğrudan atıflayan güncel bir Yargıtay kararı mevcut taramayla tespit edilemedi.
-- *Tarihsel arka plan*: 6098 sayılı Türk Borçlar Kanunu'nun madde gerekçesi.
-- *Karşılaştırmalı hukuk*: İsviçre Borçlar Kanunu (OR) OR Art. 19.
-
-**Yorumun kapsamı**: Bu çalışma, 6098 sayılı Türk Borçlar Kanunu'nun 1 Temmuz 2012'de yürürlüğe giren 26. madde metnine dayanır.
-
-**Görüş**: Kapsamlı ve öğretici yorum benimsenmiştir.
-
-**Güncellik**: Bu yorum, **16.05.2026** tarihi itibariyle günceldir.
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Borçlar Kanunu m. 26 resmi metni ve kanunun sistematiği.

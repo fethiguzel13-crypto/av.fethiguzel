@@ -12,17 +12,19 @@ export const metadata: Metadata = {
     default: 'Av. Fethi Güzel | Özel Hukuk Uzmanı & Arabulucu',
     template: '%s | Av. Fethi Güzel',
   },
-  description: 'Van, Erciş, Ağrı, Patnos ve Muradiye\'de hukuki danışmanlık ve dava vekilliği. Ceza, medeni, gayrimenkul, idare, iş, borçlar ve ticaret hukuku alanlarında profesyonel temsil.',
+  description: 'Av. Fethi Güzel dijital hukuk portali: 7800+ kanun maddesi, akademik şerhler, günlük içtihat, hesaplama araçları. Van, Erciş, Ağrı, Patnos ve Muradiye\'de avukatlık ve arabuluculuk.',
   keywords: [
     'Fethi Güzel', 'Avukat Fethi Güzel', 'Van avukat', 'Erciş avukat',
     'Ağrı avukat', 'Patnos avukat', 'Muradiye avukat',
+    'kanun maddesi', 'akademik şerh', 'mevzuat bankası', 'TBK', 'TMK', 'TTK', 'TCK',
     'ceza hukuku', 'ağır ceza', 'asliye ceza',
     'medeni hukuk', 'aile hukuku', 'boşanma avukatı', 'miras avukatı',
     'gayrimenkul hukuku', 'tapu iptal', 'izale-i şüyu',
     'idare hukuku', 'vergi hukuku',
     'iş hukuku', 'kıdem tazminatı',
     'borçlar hukuku', 'sigorta avukatı', 'araç değer kaybı', 'malpraktis',
-    'ticaret hukuku', 'şirket danışmanlığı', 'icra iflas', 'arabuluculuk'
+    'ticaret hukuku', 'şirket danışmanlığı', 'icra iflas', 'arabuluculuk',
+    'Yargıtay kararları', 'günlük içtihat'
   ],
   authors: [{ name: 'Av. Fethi Güzel', url: 'https://avfethiguzel.com' }],
   creator: 'Av. Fethi Güzel',
@@ -32,7 +34,7 @@ export const metadata: Metadata = {
     url: 'https://avfethiguzel.com',
     siteName: 'Av. Fethi Güzel Hukuk Portalı',
     title: 'Av. Fethi Güzel | Özel Hukuk Uzmanı & Arabulucu',
-    description: 'Medeni Hukuk, Borçlar Hukuku ve Ticaret Hukuku alanlarında kanun maddeleri, Yargıtay kararları ve akademik analizler.',
+    description: '7800+ madde şerhi, günlük içtihat ve hukuki araçlar. Medeni, borçlar, ticaret, ceza, usul ve vergi hukuku arşivi.',
   },
   robots: {
     index: true,

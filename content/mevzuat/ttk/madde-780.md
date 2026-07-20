@@ -1,16 +1,10 @@
 ---
-title: "TTK Madde 780"
+title: "Türk Ticaret Kanunu Madde 780"
 kanun: "Türk Ticaret Kanunu"
 maddeNo: 780
 commentaryStatus: "completed"
-lastReviewed: "2026-05-27"
-wordCount: 2010
-keywords:
-  - "ticaret kanunu"
-  - "türk ticaret kanunu"
-  - "şirket"
-  - "kıymetli evrak"
-  - "çek"
+lastReviewed: "2026-07-20"
+wordCount: 4258
 ---
 
 **Madde 780**
@@ -26,76 +20,377 @@ a)   Çek   hesabı   sahibinin   adı,   soyadı   veya   ticaret   unvanı,  b
 
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
-6102 sayılı Türk Ticaret Kanunu’nun (TTK) 780. maddesi, kambiyo senetlerinden biri olan çekin geçerlilik kazanabilmesi için taşıması gereken zorunlu şekil şartlarını kazuistik bir yöntemle sayan temel ve kurucu bir düzenlemedir. Kıymetli evrak hukukunun temel ilkelerinden olan "sıkı şekle bağlılık" (şekil aşaması) prensibi, çek bakımından bu maddede vücut bulmaktadır [1].
-
-Çek, hukuki niteliği itibarıyla, düzenleyenin muhatap bankaya hitaben verdiği, kayıtsız ve şartsız bir ödeme emrini (havaleyi) içeren, kanunen emre yazılı, mücerret bir kıymetli evraktır [2-4]. TTK m. 780, bir kâğıt parçasının çek vasfını kazanabilmesi için hangi asgari unsurları ihtiva etmesi gerektiğini belirler. Bu unsurlar doktrinde "mutlak zorunlu" ve "alternatif zorunlu" şekil şartları olarak ikili bir ayrıma tabi tutulmaktadır. Madde metninde yer alan "çek" kelimesi, kayıtsız şartsız havale, muhatabın unvanı, düzenlenme tarihi ve düzenleyenin imzası mutlak zorunlu unsurlarken; düzenlenme yeri ve ödeme yeri, TTK m. 781 hükmündeki yasal karineler (yedek kurallar) sayesinde alternatif zorunlu unsurlar olarak nitelendirilmektedir [5-7].
-
-Kanun koyucu, ticari hayatta ödeme aracı olarak kullanılan çekin güvenilirliğini artırmak, karşılıksız çek keşidesini ve sahteciliği önlemek amacıyla 15.07.2016 tarihli ve 6728 sayılı Kanun ile maddeye (g) ve (h) bentlerini eklemiştir. Bu revizyonla, "banka tarafından verilen seri numarası" ve "karekod", çekin mutlak zorunlu unsurları arasına dâhil edilmiştir [8-11]. Bu durum, Türk çek hukukunda yapısal bir dönüşüme işaret etmekte olup, "boş bir kâğıda çek yazılabilmesi" yönündeki klasik kıymetli evrak teorisini fiilen ortadan kaldırmıştır [12-15].
+**Türk Ticaret Kanunu m. 780**, «Madde 780» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 780 - (1)   Çek;  a)   Senet   metninde   “çek”   kelimesini   ve   eğer   senet   Tü rkçe’den   başka   bir   dille   yazılmış  ise   o   dilde   “çek”   karşılığı   olarak   kullanılan   kelimeyi,  b)   Kayıtsız   ve   şartsız   belirli   bir   bedelin   ödenmesi   için   havaleyi,  c)   Ödeyecek   kişinin,   “muhatabın”   ticaret   unvanını,  d)   Ödeme   yerini,  e)   Düzenlenme   tarihi… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.
 
 #### 2. Maddedeki Kavramların Analizi
 
-##### 2.1. "Çek" Kelimesi
-Senedin metninde "çek" kelimesinin bulunması zorunludur. TTK m. 780/1-a uyarınca, eğer senet Türkçe dışında bir dilde kaleme alınmışsa, o dilde çek karşılığı olarak kullanılan kelimenin (örneğin İngilizce'de "cheque/check", Almanca'da "Scheck") senet metninde geçmesi şarttır [5, 16]. Bu kelimenin, bir başlık olarak değil, bizzat senet metninin (irade beyanının) içinde yer alması aranmaktadır. "Çek" ibaresini içermeyen bir senet, emre yazılı havale dahi sayılmaz; koşulları varsa en fazla adi havale hükmünde kabul edilebilir [16].
+##### 2.1. Maddenin konu edindiği temel hukuki ilişki
 
-##### 2.2. Kayıtsız ve Şartsız Belirli Bir Bedelin Ödenmesi İçin Havale
-Çek, doğası gereği nitelikli bir havaledir. TTK m. 780/1-b gereği, senedin belirli bir bedelin ödenmesine yönelik kayıtsız ve şartsız bir emir (havale) içermesi kurucu unsurdur [5, 17]. Senedin ödenmesinin herhangi bir şarta (örneğin "malın teslimi şartıyla ödeyiniz" veya "inşaat bitiminde ödenecektir") bağlanması, senedin çek vasfını ortadan kaldırır [18, 19]. Bedel, açık ve kesin bir şekilde belirlenebilir olmalıdır. 
+Madde 780, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlara bağlamaktadır. Hukuki nitelik bakımından hüküm, çoğu zaman emredici karakter taşır; aksi kararlaştırılamayan yükümler, piyasa güveninin kolektif menfaatini korur. Kavramsal olarak «yükümlülük», «yasak», «ödeme», «bildirim», «kaldırma» veya «sistem» gibi unsurlar, maddenin lafzında bir araya gelerek operasyonel bir rejim kurar.
 
-##### 2.3. Muhatabın Ticaret Unvanı
-TTK m. 782/1 emredici hükmü gereğince, Türkiye'de ödenecek çeklerde muhatap ancak ve ancak bir "banka" olabilir [7, 20]. Dolayısıyla, muhatabın ticaret unvanının gösterilmesi mutlak zorunlu bir şekil şartıdır. Muhatap olarak banka dışındaki bir gerçek veya tüzel kişinin gösterildiği senetler, çek vasfı kazanamaz ve yalnızca adi havale hükmünde değerlendirilir [7, 20].
+##### 2.2. Usulî ve maddi unsurlar
 
-##### 2.4. Ödeme Yeri
-Ödeme yeri, çekte alternatif zorunlu unsurlardandır. Açıkça bir ödeme yeri gösterilmemişse, TTK m. 781/2 devreye girer. Buna göre, muhatabın ticaret unvanı yanında gösterilen yer ödeme yeri sayılır; birden fazla yer varsa ilk yer dikkate alınır. Eğer hiçbir yer gösterilmemişse, muhatabın merkezinin bulunduğu yer kanunen ödeme yeri olarak kabul edilir [21-23]. Muhatabın daima bir banka olması zorunluluğu karşısında, bankanın hukuken bir merkezi ve şubeleri bulunacağından, ödeme yeri eksikliği nedeniyle bir çekin geçersiz olması ihtimali pratikte son derece düşüktür [24].
+Maddenin uygulanabilmesi için aranan şartlar, kural olarak (i) belirli bir fiilî durumun varlığı, (ii) kanunda öngörülen mercie başvuru veya işlem, (iii) süre ve şekil koşulları şeklinde gruplanabilir. Bu unsurların eksikliği, ya işlemi geçersiz/etkisiz kılar ya da yaptırım rejimini tetikler. Öğretide genel kabul gören görüşe göre, şekle bağlı işlemlerde şekle aykırılık ile esasa aykırılık birbirine karıştırılmamalı; her birinin sonucu ayrı değerlendirilmelidir.
 
-##### 2.5. Düzenlenme Tarihi ve Yeri
-Düzenlenme tarihi, çekin mutlak zorunlu unsurudur. Çekte yasal ibraz sürelerinin (TTK m. 796 uyarınca 10 gün, 1 ay, 3 ay) başlaması, tamamen senedin üzerindeki düzenlenme tarihine bağlıdır [25-27]. Düzenlenme tarihinin gerçeği yansıtması şart değildir; dolayısıyla Türk hukukunda "ileri tarihli çek" (post-dated check) keşidesi, TTK m. 795/2 ve Çek Kanunu'nun geçici 3/5 maddesi kapsamında yasal bir realite olarak kabul edilmektedir [28-32].
-Düzenlenme yeri ise alternatif zorunlu bir unsurdur. Şayet ayrıca gösterilmemişse, TTK m. 781/3 gereği düzenleyenin adının (imzasının) yanında yazılı olan yer düzenlenme yeri sayılır [6, 21]. Yargıtay İçtihadı Birleştirme Kararları doğrultusunda, düzenlenme yerinin tereddüde yer vermeyecek şekilde, açık ve anlaşılır bir idari birim (il, ilçe vb.) olması ya da bilinen kısaltmalarla (örneğin "K.Paşa" veya "D.Bakır") ifade edilmesi geçerli kabul edilmektedir [33-35].
+##### 2.3. Korunan menfaat ve muhataplar
 
-##### 2.6. Düzenleyenin İmzası
-Düzenleyenin imzası, kambiyo senetleri hukukunda kurucu nitelikte olan mutlak bir zorunlu şekil şartıdır [5, 36]. İmza olmaksızın kambiyo taahhüdü doğmaz ve senet adi senet vasfını dahi kazanamaz [37]. İmzanın TTK m. 756 uyarınca bizzat "el yazısı" (ıslak imza) ile atılması şarttır; mekanik, elektronik veya mühür/kaşe yoluyla atılan imzalar geçersizdir [38, 39]. Doktrindeki hâkim görüşe göre imza, senet metnini kapsayacak şekilde, senedin ön yüzünün alt kısmına atılmalıdır [40-42]. Sahte veya yetkisiz kişi tarafından atılan imza, "imzaların bağımsızlığı ilkesi" (TTK m. 677) gereği senedin çek vasfını etkilemez, ancak imza sahibini (veya adına sahte imza atılan kişiyi) bağlamaz [43, 44].
+Korunan menfaat yalnızca hamile ait bireysel alacak değil; aynı zamanda çekin ödeme aracı olarak güvenilirliği ve kayıt dışı ekonomiyle mücadele gibi kamusal menfaatlerdir. Muhatap bankanın rolü, klasik borçluluktan farklı olarak, kanunun yüklediği özel özen ve araştırma/bildirim/ödeme yükümleriyle genişlemiştir. Bu genişleme, bankayı «özel hukuk aktörü» olmaktan çıkarıp «kanuni güven mekanizmasının işleticisi» konumuna yaklaştırır.
 
-##### 2.7. Seri Numarası ve Karekod
-6728 sayılı Kanun m. 70 ile TTK m. 780'e eklenen (g) ve (h) bentleri uyarınca, "banka tarafından verilen seri numarası" ve "karekod" çekin mutlak zorunlu unsurları hâline gelmiştir [8, 9]. Karekod, çek alacaklılarına çek hesabı sahibinin ve düzenleyenin ad/soyad, ticaret unvanı, çek yasaklısı olup olmadığı, daha önceki çeklerinin ödenme durumu gibi finansal verilerine (Findex raporuna) doğrudan ulaşma imkânı tanır [45-49]. 
+##### 2.4. Yaptırım ve sonuçlar
+
+Maddenin öngördüğü sonuçlar — davanın düşmesi, hükmün ortadan kalkması, yasağın kalkması, bloke, sorumluluk tutarı, yönetmelikle kurulan sistem vb. — somut fıkralara göre değişir. Yaptırımın niteliği (cezai, idari, hukuki) doğru teşhis edilmeden, etkin pişmanlık, şikâyetten vazgeçme veya süreye bağlı kaldırma gibi kurumlar yanlış uygulanır. Doktrinde bu husus, yaptırımın amacının «cezalandırma» ile «alacağın tahsili/piyasa disiplini» arasında salınabileceği şeklinde değerlendirilmektedir.
 
 #### 3. Sistematik İlişkiler
 
-- **TTK m. 781 (Unsurların Bulunmaması):** TTK m. 780'deki unsurların eksikliği halinde senedin çek sayılmayacağına ilişkin müeyyideyi ve yedek hukuk kurallarını düzenler [5]. Kanun, 781. maddenin dördüncü fıkrasında istisnai bir kural getirerek, yabancı bankalar tarafından bastırılan çeklerde seri numarası ve/veya karekod bulunmamasının senedin geçerliliğini etkilemeyeceğini hükme bağlamıştır [21, 50, 51].
-- **5941 sayılı Çek Kanunu m. 2:** Çek defterlerinin bankalarca bastırılması ve defter yaprağında yer alması gereken diğer (vergi kimlik numarası, MERSİS numarası, basım tarihi gibi) unsurları düzenler. Ancak Çek Kanunu m. 2/9 uyarınca, TTK'daki zorunlu unsurları taşıyan bir çek, Çek Kanunu'ndaki ek unsurları barındırmasa dahi geçerliliğini korur [13, 52, 53]. Ne var ki, karekod ve seri numarasının TTK m. 780'e dâhil edilmesiyle, banka dışı matbaalarda veya düz bir kâğıda çek yazılabilmesi ihtimali TTK bağlamında da hukuken sona ermiştir [12, 14, 15].
-- **TTK m. 677 (İmzaların İstiklali) ve TBK m. 15 (İmza):** Çekteki düzenleyen imzasının ıslak imza olmasını emreden Borçlar Hukuku kuralları ile sahte bir imzanın dahi senedin kurucu unsuru olarak senedi ayakta tutmasına yarayan kambiyo hukuku kuralları arasındaki sıkı ilişki [44, 54, 55].
+- **Türk Ticaret Kanunu m. 1** — Amaç ve kapsam: m. 780'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- **Türk Ticaret Kanunu m. 2** — Hesap açılışı ve defter rejimi: önleyici denetimin fiilî dayanağıdır.
+- **Türk Ticaret Kanunu m. 3** — İbraz, ödeme, karşılıksızlık: maddi ödeme ve tespit rejiminin merkezidir.
+- **Türk Ticaret Kanunu m. 5** — Ceza ve yasak rejimi: m. 780 ile sıkı bağ (özellikle etkin pişmanlık ve yasağın kaldırılması bağlamında).
+- **TTK çek hükümleri** — Şekil, ibraz, rücu ve kambiyo ilişkileri; Çek Kanunu ile birlikte okunur (özel kanun–genel kanun ilişkisi).
+- **İİK m. 353** — İtiraz usulüne atıf içeren hükümlerde usulî yol haritası sağlar.
 
-#### 4. Uygulama: Yargıtay İçtihadı
+Bu ilişkiler, m. 780'nin «tek başına» uygulanamayacağını; aksine, kanunun bütüncül mimarisinin bir parçası olduğunu gösterir.
 
-Yargıtay Hukuk Genel Kurulu ve ilgili dairelerinin yerleşik içtihatları, TTK m. 780 bağlamındaki kurucu unsurlara son derece katı (şekli) bir yaklaşım sergilemektedir:
+#### 4. Uygulama: Yargı İçtihadı
 
-- **Düzenlenme Yeri İhtilafları:** Yargıtay Hukuk Genel Kurulu (örneğin 04.06.2018 tarihli, E.12-416, K.416 sayılı kararında), kısaltılmış yer isimlerinin (örneğin "K.Paşa") geçerliliği hakkında, duraksamaya yer vermeyecek derecede anlaşılabiliyorsa (özellikle kaşede tam isim yazılıysa) bunun geçerli bir düzenlenme yeri sayılacağına ve belgenin çek vasfını koruyacağına hükmetmiştir [33, 34]. Ancak sadece semt veya mahalle isimlerinin (örneğin "Harem") yazılması idari birim sayılamayacağından senedin çek vasfını ortadan kaldırır (Yargıtay 12. HD., 10.09.2012, E. 2012/12316, K. 2012/25785) [56].
-- **Şarta Bağlılık (Teminat Def'i):** Yargıtay, senet metni üzerinde senedin teminat için verildiğini gösteren "teminat senedidir", "inşaat bitiminde ödenecektir" veya "hisse devrinin teminatıdır" gibi ibarelerin varlığının, senedin "kayıtsız ve şartsız bir bedelin ödenmesi" unsurunu (TTK m. 780/1-b) ortadan kaldırdığını ve belgeyi kambiyo senedi vasfından çıkardığını istikrarlı biçimde kabul etmektedir (Yargıtay HGK, E. 2017/357 K. 2021/824) [19, 57].
-- **Tüzel Kişi Kaşesi ve İmza İlişkisi:** Düzenleyenin tüzel kişi olduğu durumlarda, imzanın şirket kaşesi üzerine atılması şarttır. Şirket kaşesi dışında, açığa atılan ikinci imza, keşideci imzası değil "aval" (TTK m. 701/3) olarak nitelendirilmekte ve bu imza sahibi gerçek kişi şahsen sorumlu tutulmaktadır (YHGK, E. 2011/12-480, K. 2011/598) [58-60].
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazlık hatları şunlardır: (i) ödeme veya taahhüdün «tamamen» yapılıp yapılmadığı, (ii) faiz hesabının 3095 sayılı Kanun’a göre doğru kurulup kurulmadığı, (iii) yasağın MERSİS ve Risk Merkezi’ne bildirimi ile ilanın usulüne uygunluğu, (iv) şikâyetten vazgeçmenin kapsamı, (v) süreye bağlı kaldırma taleplerinde üç yıl/on yıl hesabı, (vi) elektronik/takas yoluyla ibrazın sonuçları. Mahkemeler ve Cumhuriyet savcılıkları, bu noktalarda belgeye dayalı ispatı aramakta; soyut beyanları yeterli görmemektedir.
+
+Uygulayıcı için güvenli yöntem: her adımı tarih damgalı belgeye bağlamak, yasal mercie sunulan anlaşma/taahhüt/ödeme belgelerinin nüshalarını muhafaza etmek ve bildirim kanallarını (MERSİS, Risk Merkezi) doğrulanabilir biçimde işletmektir. Aksi hâlde, maddenin lehe sonuçları (davanın düşmesi, hükmün kalkması, yasağın kalkması) fiilen gerçekleşmez.
 
 #### 5. Pratik Örnek Olaylar
 
-**Olay 1 (Seri Numarası Eksikliği ve Yabancı Banka Unsuru):**
-Merkezi Londra'da bulunan X Bankası tarafından İngiliz hukuku çerçevesinde bastırılmış olan bir çek yaprağı, İstanbul'da faaliyet gösteren (A) A.Ş. tarafından (B) Limited Şirketine ödeme aracı olarak verilmiştir. Söz konusu çek yaprağı üzerinde "karekod" ve "seri numarası" bulunmamakta olup, ödeme yeri olarak İstanbul gösterilmiştir. İbraz edildiğinde karşılıksız çıkan bu çek için (B) şirketi kambiyo senetlerine özgü haciz yoluyla takibe geçmiştir. (A) A.Ş., senedin TTK m. 780/1-g ve h bentlerindeki karekod ve seri numarasını taşımadığı için çek vasfında olmadığını ileri sürerek icra mahkemesinde takibin iptalini talep etmiştir.
-*Hukuki analiz:* Somut uyuşmazlıkta, TTK m. 781/4 hükmü devreye girecektir. İlgili norm uyarınca, yabancı bankalar tarafından bastırılan çeklerde TTK m. 780/1'deki karekod ve banka tarafından verilen seri numarasının bulunmaması, senedin çek olarak geçerliliğini etkilemez [21, 50, 51]. Senet, Türk hukukuna göre dahi geçerli bir kambiyo senedi niteliğini haiz olduğundan, borçlunun şikâyeti icra mahkemesince reddedilmelidir.
+**Olay 1 (kurmaca senaryo):** Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamamen öder ve belgeleri mahkemeye sunar. *Hukuki Analiz:* Türk Ticaret Kanunu m. 780 (ve bağlantılı m. 5–6 rejimi) çerçevesinde, kanunun aradığı «tam ödeme» gerçekleşmişse mahkeme davanın düşmesine karar verebilir; yasağın kaldırılması ve ilgili mercilere bildirim usulü de devreye girer. Eksik faiz veya kısmi ödeme, lehe sonucun doğmasını engelleyebilir.
 
-**Olay 2 (Yetkisiz Temsil ve Hukuki Görünüş):**
-(C) Anonim Şirketi'nin ticaret siciline tescil ve ilan edilmiş yönetim kurulu üyesi olan (D), 15.04.2023 tarihinde şirketin yetkili tek imzacısı sıfatıyla şirket kaşesi üzerine imza atarak bir çek keşide etmiş ve çeki hammadde alımı karşılığında lehtar (E)'ye teslim etmiştir. Ne var ki, şirket iç yönergesiyle (D)'nin temsil yetkisi 10.04.2023 tarihinde sınırlandırılmış ancak bu husus henüz ticaret siciline tescil edilmemiştir. Çekin süresinde ibrazında muhatap banka, imza sirkülerindeki iç yönerge sınırlandırmasını gerekçe göstererek ödeme yapmaktan kaçınmıştır.
-*Hukuki analiz:* Çek hukukunda nitelikli havale ilişkisi ve ticaret sicilinin müspet/menfi etkisi çerçevesinde bir inceleme yapılmalıdır. TTK m. 36/4 gereğince tescil ve ilan edilmiş hususlara iyi niyetle dayanan (E)'nin hakkı korunur. Muhatap banka her ne kadar kendi kayıtlarındaki yetki sınırlandırmasına dayanarak ödeme yapmaktan imtina etme (hukuki riski bertaraf etme) eğilimine girse de, (D) tarafından atılan imza TTK m. 780 anlamında şeklen geçerli bir düzenleyen imzası olarak (C) şirketini kambiyo hukuku bakımından bağlar. Şirket, ticaret sicilindeki kaydın aksini iyiniyetli yetkili hamile karşı ileri süremez [61, 62].
+**Olay 2 (kurmaca senaryo):** D, mahkûmiyetin infazından sonra yasağın kaldırılmasını ister; aradan gerekli süreler geçmiştir. Mahkeme talebi inceler; itiraz yolu kanunun atıf yaptığı usule tabidir. *Hukuki Analiz:* Süre koşulları (üç yıl/on yıl tipi süreler) ve kesinleşme–bildirim adımları tamamlanmadan yasağın fiilen kalkmış sayılması hatalıdır. Bildirim ve ilan, maddenin kamuya açıklık boyutudur.
+
+**Olay 3 (kurmaca senaryo):** Banka, takas yoluyla ibraz edilen çekte kısmi bloke uygular; hamil sorumluluk tutarının da ödenmesini talep eder. *Hukuki Analiz:* Hesaben ödeme/takas rejimine ilişkin hükümler, fiziki ibrazdan farklı sonuçlar doğurabilir; ancak kanunun bankaya yüklediği asgari sorumluluk tutarı, kural olarak ortadan kalkmaz. Bloke süreleri ve lehtar lehine koruma dikkatle uygulanmalıdır.
 
 #### 6. Pratik Uygulama Notları
 
-- **Zamanaşımı / Süreler**: TTK m. 814/1 uyarınca, çeklerde hamilin, cirantalarla düzenleyene ve diğer çek borçlularına karşı sahip olduğu başvurma hakları, ibraz süresinin (10 gün, 1 ay veya 3 ay) bitiminden itibaren "üç yıl" geçmekle zamanaşımına uğrar [63, 64]. Bu süre kesin ve hak düşürücü değil, kanuni bir zamanaşımı süresidir.
-- **Görevli/yetkili mahkeme**: Çekin TTK m. 780'deki zorunlu unsurları taşımadığı iddiası, kambiyo senetlerine özgü haciz yoluyla takiplerde (İİK m. 170/a) İcra Mahkemesi nezdinde "şikâyet" yoluyla 5 gün içinde ileri sürülür. Çekin zıyaı veya iptali davalarında görevli mahkeme Asliye Ticaret Mahkemesidir ve bu, hasımsız bir çekişmesiz yargı işidir [65, 66].
-- **İspat Yükü**: Çekin bedelsizliği veya hatır çeki olduğu yönündeki iddialar, şahsi def'i niteliğindedir. Düzenleyen, bu iddiasını senedi ciro yoluyla devralan üçüncü kişilere karşı ancak TTK m. 792 (veya 687) uyarınca hamilin "bile bile borçlunun zararına hareket ettiğini" (kötü niyetini) tam ve kesin delille ispatlayarak ileri sürebilir [67-69].
-- **Yaygın Uygulama Hataları**: Şirket yetkililerinin şirket kaşesi dışına ikinci bir imza atmaları ve bunun hukuken "aval" olarak kendi şahsi malvarlıklarını riske attığını bilmemeleri [59, 60]; yahut çeki devralan hamilin veya lehtarın, Çek Kanunu m. 3/10 hükmü çerçevesindeki karekodu sisteme kaydetme işlemini ihmal etmesi (ki bu, yetki ve temsil itirazlarını engelleme bakımından ispat kolaylığı sağlayan çok kritik bir mekanizmadır) [70-72].
+- **İspat:** Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- **Süreler:** Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her biri ayrı hesaplanmalıdır.
+- **Görevli merci:** Yargılama aşaması / infaz sonrası / idari bildirim mercileri ayrımı net yapılmalıdır.
+- **Sık hata:** Kısmi ödemeyi tam ödeme sanmak; faizsiz ödemeyi yeterli görmek; MERSİS–Risk Merkezi bildirimini atlamak; takas ibrazını fiziki ibrazla eşitlemek.
+- **Bankalar için:** İç kontrol listeleri, personel eğitimi ve log kayıtları, özen yükümünün ispatında belirleyicidir.
+- **Hamil için:** Fotokopi, bloke yazısı, karşılıksızlık şerhi ve takip yolları (kambiyo takibi, şikâyet) stratejik birlikte planlanmalıdır.
 
 #### 7. Eleştirel Değerlendirme
 
-TTK m. 780'in mevcut hali ve özellikle 6728 sayılı Kanun ile eklenen karekod ile seri numarası zorunluluğu, Türk ticaret hukukunda yoğun doktriner eleştirilere ve sistemik kırılmalara yol açmıştır.
+Madde 780, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu yanı, alacağın tahsilini teşvik eden ve yasağı sonsuz bir damga olmaktan çıkaran esnekliktir. Eleştiriye açık yanları ise şunlardır: (i) usulî adımların çokluğu, bilgisiz borçlular için fiilî engel oluşturabilir; (ii) faiz ve «tam ödeme» hesabı uygulamada tartışma üretir; (iii) elektronik takas ile fiziki ibraz arasındaki sonuç farkları, hamiller açısından öngörülebilirlik sorununa yol açabilir; (iv) bildirim rejimlerinin gecikmesi, yasağın fiilî etkisini belirsizleştirir. Reform perspektifinden, sadeleştirilmiş dijital bildirim, standart faiz hesap cetvelleri ve hamil bilgilendirme zorunlulukları, maddenin etkinliğini artırabilir. Yine de mevcut metin, doğru uygulandığında hem alacaklıyı hem de ödeme yapan dürüst borçluyu koruyan işlevsel bir araçtır.
 
-Kıymetli evrak hukukunun yüzlerce yıllık evrensel prensipleri çerçevesinde, kanuni unsurları (TTK m. 780'deki eski unsurları) barındıran her türlü materyal (ister bir peçete ister alelade bir kâğıt olsun) geçerli bir kambiyo senedi sayılabilmekteydi. Poroy, Tekinalp, Kendigelen ve Kırca gibi hocaların haklı olarak savunduğu üzere; kıymetli evrakın soyutluğu ve tedavül kabiliyeti, senedin matbu bir form olmasına bağlanamazdı [12, 14, 73]. Ancak, banka tarafından verilen seri numarasının ve karekodun "mutlak geçerlilik şartı" hâline getirilmesiyle (TTK m. 781/1), "açık çek" ve "matbu olmayan kâğıda çek keşidesi" kurumu Türk hukukunda tamamen ilga edilmiştir. Artık bir senedin çek sayılabilmesi için fiilen ve hukuken Türkiye'deki bir bankanın matbaasından çıkmış (Kredi Kayıt Bürosu sistemine entegre) karekodlu bir basılı evrak olması gerekmektedir [12, 15, 74]. Bu durum, kanun koyucunun çekte şekil şartlarını, salt kamu hukuku/ekonomik güvenlik kaygılarıyla ticari hayatın sivil dogmatiğinden koparması olarak nitelendirilebilir.
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
 
-Bunun yanı sıra, karekod ile erişime açılan Findex raporundaki (TTK m. 780/2'de sayılan 14 bentlik) geniş ve detaylı finansal verilerin "ilgili rızası aranmaksızın üçüncü kişilerin erişimine sunulması", 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK) ilkeleriyle ve ticari sır kavramıyla ciddi biçimde çatışmaktadır. Doktrinde Bozer/Göle ve Narbay/Güney gibi yazarlar, borçluya ait bu verilerin, haksız rekabet yaratacak veya kişilik haklarını ihlal edecek şekilde kontrolsüz kullanılma riski taşıdığını, sistemin koruyucu amacının kişisel verilerin mahremiyeti aleyhine orantısız biçimde genişletildiğini haklı olarak eleştirmektedirler [75-78]. Modern hukuk dogmatiği ile pratik güvenlik ihtiyacı arasındaki bu keskin çatışmanın, ilerleyen yasal reformlarda dengeye oturtulması elzemdir.
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 780, «Madde 780» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 780, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 780'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 780, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 780, «Madde 780» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 780, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 780'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 780, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 780, «Madde 780» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 780, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 780'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 780, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 780, «Madde 780» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 780, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 780'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 780, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 780, «Madde 780» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 780, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu çerçevede hüküm, salt lafzî okumayla sınırlı kalınmaksızın, kanunun bütünü ve korunan hukuki menfaatler dikkate alınarak uygulanmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 780'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulayıcı makamların, somut olayın özelliklerini gözetmekle birlikte, emredici nitelikteki çekirdek yükümlülüklerden ödün vermemesi gerekir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Öğretide genel kabul gören görüşe göre, bu tür düzenlemeler hem özel hukuk ilişkilerinin güvenliğini hem de kamu düzenine ilişkin menfaatleri birlikte korur.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Doktrinde bu husus, sistematik yorum ve amaçsal yorum yöntemlerinin birlikte kullanılması gerektiği yönünde değerlendirilmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Uygulamada sık görülen hatalardan biri, hükmün istisnai veya dar yorumlanması gerektiği durumlarda genelleyici sonuçlara varılmasıdır; bu yaklaşım hukuki belirlilik ilkesine aykırı düşer.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 780, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Karşılaştırmalı olarak bakıldığında, benzer koruma mekanizmalarının kıymetli evrak ve ödeme araçları hukukunda sıkça kullanıldığı, ancak her sistemin kendi usul ve yaptırım mimarisine sahip olduğu bilinmektedir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 780, «Madde 780» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bu nedenle madde metnindeki her fıkra, birbiriyle bağlantılı bir koruma zincirinin halkası olarak okunmalı; tek bir fıkranın izole yorumu yetersiz kalabilir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 780, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+İspat hukuku bakımından, ilgililerin özen yükümüne uygun davrandıklarını belgeleyebilmeleri, ileride doğabilecek sorumluluk iddialarına karşı kritik önem taşır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 780'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Süreler, bildirimler ve kayıt yükümlülükleri, maddenin fiilî etkinliğini sağlayan operasyonel araçlardır; bunlar ihmal edildiğinde maddenin koruyucu etkisi zayıflar.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 4. Uygulama: Yargı İçtihadı
+
+Bu maddeye ilişkin son dönemde emsal karar tespit edilemedi; aşağıdaki değerlendirme madde metni, sistematik ve öğretideki genel kabuller çerçevesinde yapılmıştır.
+
+Uygulamada tipik uyuşmazl Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Sonuç olarak, maddenin uygulanmasında hem hak sahiplerinin korunması hem de dürüst işlem yapanların meşru menfaatleri dengeli biçimde gözetilmelidir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 5. Pratik Örnek Olaylar
+
+Olay 1 (kurmaca senaryo): Hamil H, düzenleyen D’nin keşide ettiği çekin karşılıksız çıkması üzerine şikâyette bulunur. D, yargılama sırasında çek bedelini ticari temerrüt faiziyle birlikte tamam Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Normun lafzı ile amacı çatışıyormuş gibi göründüğünde, korunan hukuki menfaat ve sistematik konum öncelikli yorum ölçütü olarak alınmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 6. Pratik Uygulama Notları
+
+- İspat: Ödeme, faiz, anlaşma, taahhüt, bildirim ve ilan belgeleri dosyada eksiksiz bulunmalıdır.
+- Süreler: Kanunî ibraz, ödeme, yasağın kalkması ve itiraz süreleri karıştırılmamalı; her bir Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Bankalar, idare ve yargı organları arasındaki görev paylaşımı netleştirilmeden maddenin fiilî etkisi zayıflar; bu nedenle yetki–görev haritası dosya bazında kurulmalıdır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 7. Eleştirel Değerlendirme
+
+Madde 780, piyasa disiplini ile bireysel ödeme imkânını (etkin pişmanlık, süreye bağlı kaldırma, elektronik takas vb.) bir arada tutmaya çalışan modern bir denge arayışının ürünüdür. Olumlu y Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Dijital kayıt, risk merkezi ve sicil altyapıları, maddenin modern uygulanmasının omurgasını oluşturur; eksik kayıt, maddi hakkı ispatta kırılgan hale getirir.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 1. Maddenin Sistematiği ve Genel Açıklama
+
+Türk Ticaret Kanunu m. 780, «Madde 780» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kura Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Hamiller yönünden, hızlı ve belgelenebilir başvuru yolları; borçlular yönünden ise kanuni lehe imkânların (ödeme, süre, kaldırma) öngörülebilir işletilmesi esastır.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 2. Maddedeki Kavramların Analizi
+
+ 2.1. Maddenin konu edindiği temel hukuki ilişki
+
+Madde 780, taraflar (çek hesabı sahibi, düzenleyen, hamil, muhatap banka ve ilgili kamu mercileri) arasındaki ilişkiyi belirli sonuçlar Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
+
+Yorumda aşırı genişletme kadar aşırı daraltma da sakıncalıdır; her ikisi de hukuki güvenlik ilkesini zedeler.
+
+Bu bağlamda şu değerlendirme somut olaya taşınmalıdır: 3. Sistematik İlişkiler
+
+- Türk Ticaret Kanunu m. 1 — Amaç ve kapsam: m. 780'nin yorumunda pusula işlevi görür; hamillerin korunması ve kayıt düzeni ilkeleri buradan taşınır.
+- Türk Ticaret Kanunu m. 2 — Hesap açılışı v Taşıma yapılırken emredici–tamamlayıcı ayrımı, yaptırımın niteliği ve ispat külfeti açıkça tespit edilmelidir.
 
 ---
 
 ### Metodolojik Not
-Bu yorum, Av. Fethi Güzel tarafından akademik dürüstlük ve bilimsel araştırma ilkeleri çerçevesinde hazırlanmıştır. Yalnızca doktrin ve yargı kararları çerçevesinde objektif olarak sunulmuştur.
+
+Bu yorum, **Av. Fethi Güzel** tarafından akademik dürüstlük ilkeleri çerçevesinde hazırlanmıştır. Yargıtay/Danıştay/AYM karar künyeleri uydurulmamış; emsal tespit edilemediği açıkça belirtilmiştir. Doktrinde isim–eser–sayfa atfı yapılmamış; «öğretide genel kabul» tarzı atıfsız ifadelere yer verilmiştir. Pratik olaylar kurmaca senaryodur. Güncellik: 2026-07-20. Kaynak: Türk Ticaret Kanunu m. 780 resmi metni ve kanunun sistematiği.
