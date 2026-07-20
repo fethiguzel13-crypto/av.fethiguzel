@@ -16,13 +16,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: `${kanunId.toUpperCase()} Madde ${maddeNo} | Av. Fethi Güzel — Akademik Şerh`,
     description: `${kanunId.toUpperCase()} Madde ${maddeNo}: resmî metin ve akademik şerh. Av. Fethi Güzel dijital hukuk kütüphanesi.`,
+    alternates: {
+      canonical: `https://avfethiguzel.com/mevzuat/${kanunId}/${id}`,
+    },
   }
 }
 
-/**
- * Route params → client pack loader (no server-side content read).
- * Works with or without middleware rewrite.
- */
 export default async function ArticlePage({ params }: Props) {
   const { kanunId, id } = await params
 
@@ -43,6 +42,7 @@ export default async function ArticlePage({ params }: Props) {
             {kanunId}/{id}
           </span>
         </nav>
+        {/* Server passes route params; body loads from CDN pack in the browser */}
         <MaddeClient kanunId={kanunId} id={id} />
       </main>
       <Footer />

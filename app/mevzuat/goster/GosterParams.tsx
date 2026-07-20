@@ -1,19 +1,13 @@
 'use client'
 
+import { useEffect, useState } from 'react'
 import { usePathname, useSearchParams } from 'next/navigation'
 import MaddeClient from '../[kanunId]/[id]/MaddeClient'
 
-/**
- * Resolve kanunId/id from:
- * 1) query (?kanunId=&id=) — direct /mevzuat/goster links
- * 2) path (/mevzuat/tmk/madde-1) — middleware rewrite keeps pretty URL
- */
-export default function GosterParams() {
-    const pathname = usePathname() || ''
-    const sp = useSearchParams()
-
-    let kanunId = sp.get('kanunId') || ''
-    let id = sp.get('id') || ''
+function parseMaddeLocation(pathname: string, search: string): { kanunId: string; id: string } {
+    const q = new URLSearchParams(search)
+    let kanunId = q.get('kanunId') || ''
+    let id = q.get('id') || ''
 
     if (!kanunId || !id) {
         const m = pathname.match(/^\/mevzuat\/([^/]+)\/([^/]+)\/?$/)
@@ -22,6 +16,23 @@ export default function GosterParams() {
             id = decodeURIComponent(m[2])
         }
     }
+    return { kanunId, id }
+}
+
+export default function GosterParams() {
+    const pathname = usePathname() || ''
+    const sp = useSearchParams()
+    const [ids, setIds] = useState(() =>
+        parseMaddeLocation(pathname, sp.toString() ? `?${sp.toString()}` : '')
+    )
+
+    // Re-resolve on client after hydration (window has true browser URL)
+    useEffect(() => {
+        if (typeof window === 'undefined') return
+        setIds(parseMaddeLocation(window.location.pathname, window.location.search))
+    }, [pathname, sp])
+
+    const { kanunId, id } = ids
 
     if (!kanunId || !id) {
         return (
