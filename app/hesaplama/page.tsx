@@ -283,6 +283,12 @@ function KidemIhbarTazminati() {
       <Field label="Kıdem Tavanı (TL) — opsiyonel">
         <MoneyInput value={ozelTavan} onChange={setOzelTavan} placeholder={`Varsayılan: ${fmt(TAVAN_2026_I)} (2026/I)`} />
       </Field>
+      <div className="col-span-full text-[11px] text-charcoal/45 leading-relaxed bg-amber-50/80 border border-amber-100 rounded-xl px-4 py-3">
+        <strong className="text-charcoal/70">Kıdem hakkı notu:</strong> Kıdem tazminatı her feshde doğmaz.
+        İşveren haksız fesih, emeklilik, muvazzaf askerlik, kadın işçinin evlilik sonrası 1 yıl içinde ayrılması,
+        işçinin haklı feshi (İş K. m.24) vb. hâllerde gündeme gelir. Haklı nedenle işveren feshi (m.25/II) kıdemi
+        engelleyebilir. Bu araç tutarı hesaplar; hak sahipliğini dosya bazında değerlendirin.
+      </div>
 
       {result ? (
         <div className="col-span-full flex flex-col gap-4">
@@ -475,7 +481,7 @@ function FazlaMesai() {
               ["Hesaplanan Hafta", `${fmt(result.hesapHafta, 0)} hafta`],
               ...(result.indirimliBrut !== result.toplamBrut
                 ? [["Toplam Brüt (indirimsiz)", `${fmt(result.toplamBrut)} TL`] as [string, string],
-                   ["Hakkaniyet İndirimi (−%30)", `− ${fmt(result.toplamBrut - result.indirimliBrut)} TL`] as [string, string]]
+                ["Hakkaniyet İndirimi (−%30)", `− ${fmt(result.toplamBrut - result.indirimliBrut)} TL`] as [string, string]]
                 : []),
               ["TOPLAM BRÜT FAZLA MESAİ ÜCRETİ", `${fmt(result.indirimliBrut)} TL`],
             ]}
@@ -578,11 +584,11 @@ function YillikIzin() {
               ["Günlük Ücret", `${fmt(result.gunluk)} TL`],
               ...(mod === "brut"
                 ? [
-                    ["Brüt İzin Ücreti", `${fmt(result.brutIzin)} TL`] as [string, string],
-                    ["Gelir Vergisi", `− ${fmt(result.gvIzin)} TL`] as [string, string],
-                    ["Damga Vergisi (‰7,59)", `− ${fmt(result.damgaIzin)} TL`] as [string, string],
-                    ["Net İzin Ücreti", `${fmt(result.netIzin)} TL`] as [string, string],
-                  ]
+                  ["Brüt İzin Ücreti", `${fmt(result.brutIzin)} TL`] as [string, string],
+                  ["Gelir Vergisi", `− ${fmt(result.gvIzin)} TL`] as [string, string],
+                  ["Damga Vergisi (‰7,59)", `− ${fmt(result.damgaIzin)} TL`] as [string, string],
+                  ["Net İzin Ücreti", `${fmt(result.netIzin)} TL`] as [string, string],
+                ]
                 : [["Net İzin Ücreti", `${fmt(result.netIzin)} TL`] as [string, string]]),
             ]}
             note="4857 md.53: hizmet süresi 1–5 yıl 14 gün, 5–15 yıl 20 gün, 15+ yıl 26 gün; her tam hizmet yılı için kademeli hesaplanır. 18 yaşından küçük (18 dahil) ve 50 yaşından büyük (50 dahil) işçilere yılda en az 20 gün verilir (doğum tarihinden hesaplanır). İlk yıl dolmadan izne hak kazanılmaz. İzin günlük ücreti çıplak brüt/net maaşın 30'a bölümüdür; yol/yemek gibi ek ödemeler dahil edilmez. ÖNEMLİ: İş sözleşmesi sona erdiğinde ödenen kullanılmayan yıllık izin ücretinden SGK primi KESİLMEZ (5510 s.K.); yalnızca gelir vergisi (brüt modda kümüle matraha göre) ve damga vergisi kesilir. Net modda girilen net maaş doğrudan esas alınır. İzin alacağı zamanaşımı, iş sözleşmesinin sona erdiği tarihte işlemeye başlar (5 yıl)."
@@ -652,7 +658,7 @@ function SmmHesaplama() {
 
   const inputLabel = mod === "brut" ? "Brüt Tutar / Matrah (TL)"
     : mod === "net" ? "Net Tutar (TL)"
-    : "Tahsil Edilen Tutar (TL)";
+      : "Tahsil Edilen Tutar (TL)";
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
@@ -697,7 +703,7 @@ function SmmHesaplama() {
             [`KDV — %${fmt(result.kd * 100, 0)}`, `+ ${fmt(result.kdv)} TL`],
             ...(result.tevk > 0
               ? [[`KDV Tevkifatı (${result.it.pay}/${result.it.payda}) — alıcı keser`, `− ${fmt(result.kdvTevkifat)} TL`] as [string, string],
-                 ["Makbuzda Tahsil Edilen KDV", `${fmt(result.kdvTahsil)} TL`] as [string, string]]
+              ["Makbuzda Tahsil Edilen KDV", `${fmt(result.kdvTahsil)} TL`] as [string, string]]
               : []),
             ["TAHSİL EDİLEN (Net + Tahsil KDV)", `${fmt(result.tahsilEdilen)} TL`],
           ]}
@@ -875,8 +881,8 @@ function NafakaArtisi() {
               ["Yeni Aylık Nafaka", `${fmt(r.yeni)} ₺`],
               ...(r.enflasyonKaybi
                 ? [["Karardan Bu Yana Süre", `${fmt(r.enflasyonKaybi.yilSayisi, 1)} yıl`] as [string, string],
-                   ["Endekslenmiş Olması Gereken (tahmini)", `${fmt(r.enflasyonKaybi.olmasiGereken)} ₺`] as [string, string],
-                   ["Enflasyon Kaybı (tahmini)", `${fmt(r.enflasyonKaybi.kayip)} ₺`] as [string, string]]
+                ["Endekslenmiş Olması Gereken (tahmini)", `${fmt(r.enflasyonKaybi.olmasiGereken)} ₺`] as [string, string],
+                ["Enflasyon Kaybı (tahmini)", `${fmt(r.enflasyonKaybi.kayip)} ₺`] as [string, string]]
                 : []),
             ]}
             note="Yeni nafaka = mevcut nafaka × (1 + artış oranı). Nafaka artırım/uyarlamada (TMK 176/son ve 331) hâkim TÜFE'yi (12 aylık ortalama) esas alma eğilimindedir; ÜFE veya ortalama da uygulanabilir. Oranlar TÜİK'ten güncellenmelidir; buradaki değerler örnektir. Enflasyon kaybı, başlangıç nafakasının güncel oranla bileşik endekslenmesiyle yapılan TAHMİNÎ bir hesaptır (gerçek hesap dönem dönem TÜİK endeksiyle yapılır)."
@@ -975,6 +981,7 @@ function FaizHesaplama() {
   const [baslangic, setBaslangic] = useState("2024-01-01");
   const [bitis, setBitis] = useState(() => new Date().toISOString().slice(0, 10));
   const [bilesik, setBilesik] = useState(false);
+  const [yilGun, setYilGun] = useState<"365" | "360">("365");
 
   const result = useMemo(() => {
     const para = parseFloat(anapara.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
@@ -986,12 +993,14 @@ function FaizHesaplama() {
     const e = new Date(bitis);
     if (isNaN(b.getTime()) || isNaN(e.getTime()) || e <= b || para === 0) return null;
     const gun = daysBetween(b, e);
+    const yilBaz = yilGun === "360" ? 360 : 365;
     const faizMiktari = bilesik
-      ? para * (Math.pow(1 + oran / 100 / 365, gun) - 1)
-      : para * (oran / 100) * (gun / 365);
+      ? para * (Math.pow(1 + oran / 100 / yilBaz, gun) - 1)
+      : para * (oran / 100) * (gun / yilBaz);
     const toplam = para + faizMiktari;
-    return { gun, faizMiktari, toplam, oran };
-  }, [anapara, oranIdx, ozelOran, baslangic, bitis, bilesik]);
+    const gunluk = para * (oran / 100) / yilBaz;
+    return { gun, faizMiktari, toplam, oran, yilBaz, gunluk };
+  }, [anapara, oranIdx, ozelOran, baslangic, bitis, bilesik, yilGun]);
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
@@ -1022,13 +1031,21 @@ function FaizHesaplama() {
           <option value="bilesik">Bileşik faiz (günlük)</option>
         </select>
       </Field>
+      <Field label="Yıl gün sayısı">
+        <select value={yilGun} onChange={e => setYilGun(e.target.value as "365" | "360")} className={sel}>
+          <option value="365">365 gün (yargı / genel uygulama)</option>
+          <option value="360">360 gün (banka / ticari pratik)</option>
+        </select>
+      </Field>
 
       {result ? (
         <div className="col-span-full">
           <Result
             rows={[
               ["Süre", `${result.gun} gün`],
+              ["Yıl gün baz", `${result.yilBaz} gün`],
               ["Yıllık Faiz Oranı", `%${fmt(result.oran, 2)}`],
+              ["Günlük faiz (yaklaşık)", `${fmt(result.gunluk)} TL/gün`],
               ["Faiz Miktarı", `${fmt(result.faizMiktari)} TL`],
               ["Anapara + Faiz", `${fmt(result.toplam)} TL`],
             ]}
@@ -1127,7 +1144,7 @@ function KiraArtis() {
             ["12 Aylık TÜFE Ortalaması", `%${fmt(result.tufe, 2)}`],
             ...(oranTuru === "ozel"
               ? [["Sözleşmedeki Özel Oran", `%${fmt(result.ozel, 2)}`] as [string, string],
-                 ...(result.capUygulandi ? [["⚠️ TBK 344 Üst Sınırı", `Özel oran TÜFE'yi (%${fmt(result.tufe, 2)}) aştığından TÜFE uygulanır`] as [string, string]] : [])]
+              ...(result.capUygulandi ? [["⚠️ TBK 344 Üst Sınırı", `Özel oran TÜFE'yi (%${fmt(result.tufe, 2)}) aştığından TÜFE uygulanır`] as [string, string]] : [])]
               : []),
             ["Uygulanacak Artış Oranı", `%${fmt(result.uygulanacak, 2)}`],
             ["Artış Miktarı", `${fmt(result.artis)} TL`],
@@ -1411,7 +1428,7 @@ function NispiVekalet() {
               ["Tam Kabulde Vekalet Ücreti", `${fmt(result.tam)} TL`],
               ...(parseFloat(kabulOrani) < 100
                 ? [["Kabul Edilen Kısım (davacı lehine)", `${fmt(result.leh)} TL`] as [string, string],
-                   ["Reddedilen Kısım (davalı lehine)", `${fmt(result.aleyh)} TL`] as [string, string]]
+                ["Reddedilen Kısım (davalı lehine)", `${fmt(result.aleyh)} TL`] as [string, string]]
                 : []),
             ]}
             note={`2026 AAÜT Üçüncü Kısım basamaklı oranları uygulanır (%16, %15, %14, %13, %11, %8, %5, %3, %2, %1). Hesaplanan nispi ücret, seçilen mahkemenin maktu alt sınırının (${fmt(result.maktu)} TL) altına inemez.${result.capUyg ? " İcra/icra mahkemesi işlerinde vekalet ücreti asıl alacağı (takip/dava değerini) geçemez." : ""} Kısmen kabul/ret hâlinde her iki taraf lehine ayrı vekalet ücretine hükmedilir. Maktu değerler resmî AAÜT 2026 tarifesinden teyit edilmelidir.`}
@@ -1514,7 +1531,7 @@ function DavaAcmaHarci() {
             ["Başvurma Harcı", result.m.muaf ? "Muaf (0 TL)" : `${fmt(result.basvurma)} TL`],
             ...(tip === "nispi"
               ? [["Nispi Karar ve İlam Harcı (‰68,31)", `${fmt(result.nispiHarc)} TL`] as [string, string],
-                 ["Peşin Harç (nispi harcın 1/4'ü)", result.m.muaf ? "Muaf" : `${fmt(result.pesinHarc)} TL`] as [string, string]]
+              ["Peşin Harç (nispi harcın 1/4'ü)", result.m.muaf ? "Muaf" : `${fmt(result.pesinHarc)} TL`] as [string, string]]
               : []),
             ...(result.vekaletHarci > 0 ? [["Vekalet Harcı", `${fmt(result.vekaletHarci)} TL`] as [string, string]] : []),
             ...(result.baroPulu > 0 ? [["Vekalet (Baro) Pulu", `${fmt(result.baroPulu)} TL`] as [string, string]] : []),
@@ -2410,7 +2427,7 @@ function InfazHesaplama() {
   };
   const oranStr = !r ? "" : r.kosulluYok ? "Koşullu salıverilme YOK"
     : r.cezaTuru !== "sureli" ? `${r.muebbetYil} yıl (sabit)`
-    : r.oran === 0.5 ? "1/2" : r.oran === 2 / 3 ? "2/3" : r.oran === 0.75 ? "3/4" : `%${fmt(r.oran * 100, 0)}`;
+      : r.oran === 0.5 ? "1/2" : r.oran === 2 / 3 ? "2/3" : r.oran === 0.75 ? "3/4" : `%${fmt(r.oran * 100, 0)}`;
 
   const triple = (label: string, vy: string, sy: (v: string) => void, va: string, sa: (v: string) => void, vg: string, sg: (v: string) => void) => (
     <Field label={label}>
@@ -2753,7 +2770,7 @@ function IstinafTemyizHarc() {
             ["Başvurma Harcı (maktu)", `${fmt(result.basvurma)} TL`],
             ...(tip === "nispi"
               ? [["Karar ve İlam Harcı (‰68,31)", `${fmt(result.nispiHarc)} TL`] as [string, string],
-                 ["Peşin Harç (1/4)", `${fmt(result.pesin)} TL`] as [string, string]]
+              ["Peşin Harç (1/4)", `${fmt(result.pesin)} TL`] as [string, string]]
               : []),
             ["Başvuruda Yatırılacak (yaklaşık)", `${fmt(result.toplam)} TL`],
             ["Başvuru Süresi", "Tebliğden itibaren 2 hafta"],
@@ -2765,16 +2782,412 @@ function IstinafTemyizHarc() {
   );
 }
 
+// ─── 26. SÜRE HESABI (HMK / tebliğden) ────────────────────────────────────────
+
+function sureSonGunu(baslangic: Date, miktar: number, birim: "gun" | "hafta" | "ay"): Date {
+  const r = new Date(baslangic);
+  // HMK m.91–94: süre tebliğ günü sayılmaz (ertesi gün başlar)
+  r.setDate(r.getDate() + 1);
+  if (birim === "gun") {
+    r.setDate(r.getDate() + miktar - 1);
+  } else if (birim === "hafta") {
+    r.setDate(r.getDate() + miktar * 7 - 1);
+  } else {
+    // ay: HMK m.92 — ayın son günü kuralı basitleştirilmiş
+    const gun = r.getDate();
+    r.setMonth(r.getMonth() + miktar);
+    // setMonth taşırsa (31→Şubat) düzelt
+    if (r.getDate() !== gun) r.setDate(0);
+    r.setDate(r.getDate() - 1); // başlangıç günü sayılmadığı için
+  }
+  // Resmî tatil/hafta sonu uzatması manuel not olarak bırakılır
+  return r;
+}
+
+function SureHesabi() {
+  const [teblig, setTeblig] = useState(() => new Date().toISOString().slice(0, 10));
+  const [miktar, setMiktar] = useState("2");
+  const [birim, setBirim] = useState<"gun" | "hafta" | "ay">("hafta");
+  const [aciklama, setAciklama] = useState("istinaf");
+
+  const hazirSablon: Record<string, { m: string; b: "gun" | "hafta" | "ay"; not: string }> = {
+    istinaf: { m: "2", b: "hafta", not: "HMK m.345 — istinaf süresi tebliğden 2 hafta" },
+    temyiz: { m: "2", b: "hafta", not: "HMK m.361 — temyiz süresi tebliğden 2 hafta" },
+    cevap: { m: "2", b: "hafta", not: "HMK m.127 — cevap süresi (kural olarak 2 hafta)" },
+    itiraz: { m: "7", b: "gun", not: "İİK m.62 — ödeme emrine itiraz (7 gün)" },
+    sikayet: { m: "7", b: "gun", not: "İİK m.16 — şikâyet süresi (kural 7 gün; öğrenme/işlem)" },
+    arabuluculuk: { m: "2", b: "hafta", not: "İş/ticari uyuşmazlıklarda dava öncesi arabuluculuk sonrası süreler somut kanuna göre değişir" },
+    ozel: { m: "2", b: "hafta", not: "Özel süre girişi" },
+  };
+
+  useEffect(() => {
+    if (aciklama === "ozel") return;
+    const s = hazirSablon[aciklama];
+    if (s) { setMiktar(s.m); setBirim(s.b); }
+  }, [aciklama]);
+
+  const result = useMemo(() => {
+    const t = new Date(teblig);
+    const m = parseInt(miktar, 10);
+    if (isNaN(t.getTime()) || !m || m < 1) return null;
+    const baslangicEfektif = addDays(t, 1);
+    const son = sureSonGunu(t, m, birim);
+    const gun = daysBetween(baslangicEfektif, addDays(son, 1));
+    return { baslangicEfektif, son, gun, sablonNot: hazirSablon[aciklama]?.not ?? "" };
+  }, [teblig, miktar, birim, aciklama]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Hazır Şablon">
+        <select value={aciklama} onChange={e => setAciklama(e.target.value)} className={sel}>
+          <option value="istinaf">İstinaf (2 hafta)</option>
+          <option value="temyiz">Temyiz (2 hafta)</option>
+          <option value="cevap">Cevap süresi (2 hafta)</option>
+          <option value="itiraz">İcra itirazı (7 gün)</option>
+          <option value="sikayet">İcra şikâyeti (7 gün)</option>
+          <option value="arabuluculuk">Arabuluculuk sonrası (bilgi)</option>
+          <option value="ozel">Özel süre</option>
+        </select>
+      </Field>
+      <Field label="Tebliğ / Öğrenme Tarihi">
+        <input type="date" value={teblig} onChange={e => setTeblig(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Süre Miktarı">
+        <input type="number" min="1" value={miktar} onChange={e => setMiktar(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Birim">
+        <select value={birim} onChange={e => setBirim(e.target.value as "gun" | "hafta" | "ay")} className={sel}>
+          <option value="gun">Gün</option>
+          <option value="hafta">Hafta</option>
+          <option value="ay">Ay</option>
+        </select>
+      </Field>
+      {result ? (
+        <div className="col-span-full">
+          <Result
+            rows={[
+              ["Tebliğ tarihi", fmtDate(new Date(teblig))],
+              ["Sürenin başladığı gün (ertesi gün)", fmtDate(result.baslangicEfektif)],
+              ["Son gün (süre bitimi)", fmtDate(result.son)],
+              ["Takvim günü sayısı (yaklaşık)", `${result.gun} gün`],
+              ["Süre", `${miktar} ${birim === "gun" ? "gün" : birim === "hafta" ? "hafta" : "ay"}`],
+            ]}
+            note={`${result.sablonNot}. HMK m.91: süre tebliğ günü sayılmaz. Son günün resmi tatile / cumartesi-pazara rastlaması hâlinde süre, takip eden ilk iş günü mesai bitimine uzar (HMK m.93) — bu araç tatil takvimini otomatik işlemez; son günü takvimden teyit edin. Ceza yargılamasında (CMK) süre rejimleri farklıdır.`}
+          />
+        </div>
+      ) : (
+        <div className="col-span-full text-sm text-charcoal/35 italic">Tarih ve süre girin.</div>
+      )}
+    </div>
+  );
+}
+
+// ─── 27. SAKLI PAY HESABI (TMK) ───────────────────────────────────────────────
+
+function SakliPayHesabi() {
+  const [tereke, setTereke] = useState("2000000");
+  const [mirasci, setMirasci] = useState<"cocuk" | "annebaba" | "es-cocuk" | "es-annebaba" | "es-sadece">("es-cocuk");
+  const [cocukSay, setCocukSay] = useState("2");
+
+  const result = useMemo(() => {
+    const T = parseFloat(tereke.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    // TMK m.506: saklı pay oranları (yasal miras payının belirli kesri)
+    // Altsoy: yasal payın 1/2'si saklı
+    // Ana-baba: yasal payın 1/4'ü saklı
+    // Eş: yasal payının tamamı saklı (m.506/1-b)
+    // Basitleştirilmiş senaryo hesapları:
+    let rows: [string, string][] = [];
+    let toplamSakli = 0;
+    let tasarruf = 0;
+
+    if (mirasci === "cocuk") {
+      const n = Math.max(1, parseInt(cocukSay) || 1);
+      const yasalPay = T / n;
+      const sakli = yasalPay * 0.5;
+      toplamSakli = sakli * n;
+      tasarruf = T - toplamSakli;
+      rows = [
+        ["Mirasçı tipi", `${n} çocuk (altsoy)`],
+        ["Her çocuğun yasal payı", `${fmt(yasalPay)} TL`],
+        ["Her çocuğun saklı payı (1/2)", `${fmt(sakli)} TL`],
+        ["Toplam saklı pay", `${fmt(toplamSakli)} TL`],
+        ["Tasarruf edilebilir kısım", `${fmt(tasarruf)} TL`],
+      ];
+    } else if (mirasci === "annebaba") {
+      // yalnız ana-baba, eş yok — yasal pay 1/2+1/2, saklı 1/4'er
+      const yasal = T / 2;
+      const sakli = yasal * 0.25;
+      toplamSakli = sakli * 2;
+      tasarruf = T - toplamSakli;
+      rows = [
+        ["Mirasçı tipi", "Anne + Baba"],
+        ["Her birinin yasal payı", `${fmt(yasal)} TL`],
+        ["Her birinin saklı payı (yasalın 1/4'ü)", `${fmt(sakli)} TL`],
+        ["Toplam saklı pay", `${fmt(toplamSakli)} TL`],
+        ["Tasarruf edilebilir kısım", `${fmt(tasarruf)} TL`],
+      ];
+    } else if (mirasci === "es-cocuk") {
+      const n = Math.max(1, parseInt(cocukSay) || 1);
+      const esYasal = T * 0.25;
+      const esSakli = esYasal; // eşin saklı payı yasal payının tamamı
+      const cocukToplamYasal = T * 0.75;
+      const cocukYasal = cocukToplamYasal / n;
+      const cocukSakli = cocukYasal * 0.5;
+      toplamSakli = esSakli + cocukSakli * n;
+      tasarruf = T - toplamSakli;
+      rows = [
+        ["Mirasçı tipi", `Eş + ${n} çocuk`],
+        ["Eş yasal payı (1/4)", `${fmt(esYasal)} TL`],
+        ["Eş saklı payı (yasalın tamamı)", `${fmt(esSakli)} TL`],
+        ["Her çocuk yasal payı", `${fmt(cocukYasal)} TL`],
+        ["Her çocuk saklı payı (1/2)", `${fmt(cocukSakli)} TL`],
+        ["Toplam saklı pay", `${fmt(toplamSakli)} TL`],
+        ["Tasarruf edilebilir kısım", `${fmt(tasarruf)} TL`],
+      ];
+    } else if (mirasci === "es-annebaba") {
+      const esYasal = T * 0.5;
+      const esSakli = esYasal;
+      const abYasal = T * 0.25; // anne ve baba yarı yarıya 1/4+1/4 of remaining... remaining is 1/2, each 1/4 of T
+      const abSakli = abYasal * 0.25;
+      toplamSakli = esSakli + abSakli * 2;
+      tasarruf = T - toplamSakli;
+      rows = [
+        ["Mirasçı tipi", "Eş + Anne + Baba"],
+        ["Eş yasal payı (1/2)", `${fmt(esYasal)} TL`],
+        ["Eş saklı payı", `${fmt(esSakli)} TL`],
+        ["Anne/Baba yasal pay (her biri)", `${fmt(abYasal)} TL`],
+        ["Anne/Baba saklı (her biri)", `${fmt(abSakli)} TL`],
+        ["Toplam saklı pay", `${fmt(toplamSakli)} TL`],
+        ["Tasarruf edilebilir kısım", `${fmt(tasarruf)} TL`],
+      ];
+    } else {
+      // yalnız eş
+      toplamSakli = T;
+      tasarruf = 0;
+      rows = [
+        ["Mirasçı tipi", "Yalnız sağ kalan eş"],
+        ["Eş yasal payı", `${fmt(T)} TL`],
+        ["Eş saklı payı", `${fmt(T)} TL`],
+        ["Tasarruf edilebilir kısım", "0 TL"],
+      ];
+    }
+    return { rows, toplamSakli, tasarruf };
+  }, [tereke, mirasci, cocukSay]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Tereke / Net Malvarlığı (TL)">
+        <MoneyInput value={tereke} onChange={setTereke} />
+      </Field>
+      <Field label="Yasal Mirasçı Senaryosu">
+        <select value={mirasci} onChange={e => setMirasci(e.target.value as typeof mirasci)} className={sel}>
+          <option value="cocuk">Yalnız çocuklar</option>
+          <option value="es-cocuk">Eş + çocuklar</option>
+          <option value="annebaba">Yalnız anne-baba</option>
+          <option value="es-annebaba">Eş + anne-baba</option>
+          <option value="es-sadece">Yalnız eş</option>
+        </select>
+      </Field>
+      {(mirasci === "cocuk" || mirasci === "es-cocuk") && (
+        <Field label="Çocuk sayısı">
+          <input type="number" min="1" value={cocukSay} onChange={e => setCocukSay(e.target.value)} className={inp} />
+        </Field>
+      )}
+      <div className="col-span-full">
+        <Result
+          rows={result.rows}
+          note="TMK m.505–506 saklı pay rejimine göre basitleştirilmiş hesaptır. Saklı pay, yasal miras payının kanunda öngörülen kesridir (altsoy: 1/2; ana-baba: 1/4; eş: yasal payının tamamı). Tenkis (TMK m.560 vd.) ve denkleştirme hesapları, ölüme bağlı tasarruflar ve sağlararası kazandırmalar somut dosyada ayrıca incelenir. Bu araç vasiyet/miras sözleşmesi planlamasında ilk tahmin içindir."
+        />
+      </div>
+    </div>
+  );
+}
+
+// ─── 28. KDV HESAPLAMA ────────────────────────────────────────────────────────
+
+function KdvHesaplama() {
+  const [mod, setMod] = useState<"haric" | "dahil">("haric");
+  const [tutar, setTutar] = useState("100000");
+  const [oran, setOran] = useState("20");
+
+  const result = useMemo(() => {
+    const t = parseFloat(tutar.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const o = parseFloat(oran) || 0;
+    if (t <= 0) return null;
+    if (mod === "haric") {
+      const kdv = t * (o / 100);
+      return { matrah: t, kdv, genel: t + kdv, o };
+    }
+    const matrah = t / (1 + o / 100);
+    const kdv = t - matrah;
+    return { matrah, kdv, genel: t, o };
+  }, [mod, tutar, oran]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Hesaplama Yönü">
+        <select value={mod} onChange={e => setMod(e.target.value as "haric" | "dahil")} className={sel}>
+          <option value="haric">Matrahdan KDV ekle (KDV hariç → genel)</option>
+          <option value="dahil">Genel tutardan KDV ayır (KDV dahil → matrah)</option>
+        </select>
+      </Field>
+      <Field label={mod === "haric" ? "KDV Hariç Tutar / Matrah (TL)" : "KDV Dahil Genel Tutar (TL)"}>
+        <MoneyInput value={tutar} onChange={setTutar} />
+      </Field>
+      <Field label="KDV Oranı (%)">
+        <select value={oran} onChange={e => setOran(e.target.value)} className={sel}>
+          <option value="1">%1 (indirimli — bazı gıda/temel)</option>
+          <option value="10">%10 (indirimli)</option>
+          <option value="20">%20 (genel oran)</option>
+          <option value="0">%0 / istisna (bilgi)</option>
+        </select>
+      </Field>
+      {result ? (
+        <div className="col-span-full">
+          <Result
+            rows={[
+              ["KDV oranı", `%${fmt(result.o, 0)}`],
+              ["Matrah (KDV hariç)", `${fmt(result.matrah)} TL`],
+              ["KDV tutarı", `${fmt(result.kdv)} TL`],
+              ["Genel toplam (KDV dahil)", `${fmt(result.genel)} TL`],
+            ]}
+            note="3065 sayılı KDV Kanunu uyarınca genel oran ve indirimli oranlar yıllar içinde değişebilir; listelenen %1 / %10 / %20 2024–2026 uygulamasında sık kullanılan oranlardır. İstisna, tevkifat, özel matrah ve indirimli oranın kapsamı mal/hizmet türüne göre değişir; fatura düzeninde tevkifat oranını ayrıca kontrol edin."
+          />
+        </div>
+      ) : (
+        <div className="col-span-full text-sm text-charcoal/35 italic">Tutar girin.</div>
+      )}
+    </div>
+  );
+}
+
+// ─── 29. MAL REJİMİ — EDİNİLMİŞ MALLARA KATILMA ───────────────────────────────
+
+function MalRejimiKatilma() {
+  const [edinilmisA, setEdinilmisA] = useState("800000");
+  const [edinilmisB, setEdinilmisB] = useState("200000");
+  const [kisiselA, setKisiselA] = useState("0");
+  const [kisiselB, setKisiselB] = useState("0");
+  const [borcA, setBorcA] = useState("0");
+  const [borcB, setBorcB] = useState("0");
+
+  const result = useMemo(() => {
+    const n = (s: string) => parseFloat(s.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    // TMK m.218–241 basitleştirilmiş: her eşin edinilmiş mallarından borçlar düşülür → artı değer
+    // Artı değerlerin yarısı diğer eşe aittir (katılma alacağı)
+    const artiA = Math.max(0, n(edinilmisA) - n(borcA));
+    const artiB = Math.max(0, n(edinilmisB) - n(borcB));
+    const katilmaA = artiB / 2; // A'nın B'nin artısından alacağı
+    const katilmaB = artiA / 2; // B'nin A'nın artısından alacağı
+    const netA = n(kisiselA) + artiA - katilmaB + katilmaA;
+    const netB = n(kisiselB) + artiB - katilmaA + katilmaB;
+    return { artiA, artiB, katilmaA, katilmaB, netA, netB, toplam: netA + netB };
+  }, [edinilmisA, edinilmisB, kisiselA, kisiselB, borcA, borcB]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <div className="col-span-full text-xs text-charcoal/45 leading-relaxed mb-1">
+        Yasal rejim: <strong>edinilmiş mallara katılma</strong> (TMK m.202, 218 vd.). Her eşin edinilmiş malları ve kişisel malları ayrı girilir; artı değerlerin yarısı diğer eşe katılma alacağıdır.
+      </div>
+      <Field label="Eş A — Edinilmiş mallar (TL)">
+        <MoneyInput value={edinilmisA} onChange={setEdinilmisA} />
+      </Field>
+      <Field label="Eş B — Edinilmiş mallar (TL)">
+        <MoneyInput value={edinilmisB} onChange={setEdinilmisB} />
+      </Field>
+      <Field label="Eş A — Kişisel mallar (TL)">
+        <MoneyInput value={kisiselA} onChange={setKisiselA} />
+      </Field>
+      <Field label="Eş B — Kişisel mallar (TL)">
+        <MoneyInput value={kisiselB} onChange={setKisiselB} />
+      </Field>
+      <Field label="Eş A — Edinilmiş mallara ilişkin borçlar (TL)">
+        <MoneyInput value={borcA} onChange={setBorcA} />
+      </Field>
+      <Field label="Eş B — Edinilmiş mallara ilişkin borçlar (TL)">
+        <MoneyInput value={borcB} onChange={setBorcB} />
+      </Field>
+      <div className="col-span-full">
+        <Result
+          rows={[
+            ["Eş A artı değeri", `${fmt(result.artiA)} TL`],
+            ["Eş B artı değeri", `${fmt(result.artiB)} TL`],
+            ["A'nın B'den katılma alacağı", `${fmt(result.katilmaA)} TL`],
+            ["B'nin A'dan katılma alacağı", `${fmt(result.katilmaB)} TL`],
+            ["Tasfiye sonrası A'nın neti (yaklaşık)", `${fmt(result.netA)} TL`],
+            ["Tasfiye sonrası B'nin neti (yaklaşık)", `${fmt(result.netB)} TL`],
+            ["Kontrol toplamı", `${fmt(result.toplam)} TL`],
+          ]}
+          note="TMK m.231–236 artı değer ve katılma alacağına göre basitleştirilmiş modeldir. Denkleştirme (m.230), eklenecek değerler (m.229), kişisel mal–edinilmiş mal ayrımı, ispat ve değerleme tarihi (boşanma dava tarihi vb.) somut dosyada mahkeme/bilirkişi ile belirlenir. Mal rejimi sözleşmesi (paylaşmalı mal ayrılığı vb.) varsa bu hesap uygulanmaz."
+        />
+      </div>
+    </div>
+  );
+}
+
+// ─── 30. İHBAR SÜRESİ & İŞE İADE TAZMİNAT TAHMİNİ ────────────────────────────
+
+function IseIadeTazminat() {
+  const [kidemYil, setKidemYil] = useState("3");
+  const [brut, setBrut] = useState("50000");
+  const [boslukAy, setBoslukAy] = useState("4");
+
+  const result = useMemo(() => {
+    const y = parseFloat(kidemYil) || 0;
+    const b = parseFloat(brut.replace(/[^0-9.,]/g, "").replace(",", ".")) || 0;
+    const ay = Math.min(8, Math.max(0, parseFloat(boslukAy) || 0));
+    // İşe iade: boşta geçen süre en çok 4 ay ücret + işe başlatmama 4–8 ay
+    const bostagecen = b * Math.min(4, ay);
+    // işe başlatmama tazminatı: kıdeme göre 4-8 ay (Yargıtay uygulaması)
+    let baslatmamaAy = 4;
+    if (y >= 6) baslatmamaAy = 6;
+    if (y >= 10) baslatmamaAy = 8;
+    if (y < 0.5) baslatmamaAy = 4;
+    const baslatmama = b * baslatmamaAy;
+    return { bostagecen, baslatmamaAy, baslatmama, toplam: bostagecen + baslatmama };
+  }, [kidemYil, brut, boslukAy]);
+
+  return (
+    <div className="grid grid-cols-1 md:grid-cols-2 gap-5">
+      <Field label="Kıdem (yıl)">
+        <input type="number" min="0" step="0.1" value={kidemYil} onChange={e => setKidemYil(e.target.value)} className={inp} />
+      </Field>
+      <Field label="Aylık Brüt Ücret (TL)">
+        <MoneyInput value={brut} onChange={setBrut} />
+      </Field>
+      <Field label="Boşta geçen süre (ay) — en çok 4 ay ödenir">
+        <input type="number" min="0" max="24" value={boslukAy} onChange={e => setBoslukAy(e.target.value)} className={inp} />
+      </Field>
+      <div className="col-span-full">
+        <Result
+          rows={[
+            ["Boşta geçen süre ücreti (max 4 ay)", `${fmt(result.bostagecen)} TL`],
+            ["İşe başlatmama tazminatı süresi", `${result.baslatmamaAy} ay`],
+            ["İşe başlatmama tazminatı", `${fmt(result.baslatmama)} TL`],
+            ["Toplam (yaklaşık brüt)", `${fmt(result.toplam)} TL`],
+          ]}
+          note="İş K. m.21 işe iade rejimine göre boşta geçen en çok 4 aylık ücret ve işe başlatmama hâlinde 4–8 aylık ücret tutarında tazminat öngörülür; süre kıdeme ve mahkeme takdirine bağlıdır. Bu araç Yargıtay uygulamasına yakın kademeli tahmin verir (kıdem <6 yıl ≈4 ay, 6–10 ≈6 ay, ≥10 ≈8 ay). Arabuluculuk, feshin geçerliliği ve giydirilmiş ücret somut dosyada ayrıca değerlendirilir. Tutarlar brüt esastadır; vergi/kesintiler ayrıca hesaplanır."
+        />
+      </div>
+    </div>
+  );
+}
+
 // ─── ARAÇLAR LİSTESİ ──────────────────────────────────────────────────────────
 
 const ARACLAR = [
   { id: "miras", icon: "🏛️", baslik: "Miras Paylaşımı (Yasal Mirasçılık)", tag: "Miras Hukuku", comp: <MirasPaylasimi /> },
+  { id: "sakli-pay", icon: "🔏", baslik: "Saklı Pay Hesabı (TMK)", tag: "Miras Hukuku", comp: <SakliPayHesabi /> },
   { id: "kidem", icon: "💼", baslik: "Kıdem & İhbar Tazminatı", tag: "İş Hukuku", comp: <KidemIhbarTazminati /> },
+  { id: "ise-iade", icon: "🔄", baslik: "İşe İade Tazminatı Tahmini", tag: "İş Hukuku", comp: <IseIadeTazminat /> },
   { id: "fazla-mesai", icon: "⏰", baslik: "Fazla Mesai Ücreti", tag: "İş Hukuku", comp: <FazlaMesai /> },
   { id: "yillik-izin", icon: "🏖️", baslik: "Yıllık İzin Ücreti", tag: "İş Hukuku", comp: <YillikIzin /> },
   { id: "smm", icon: "🧾", baslik: "Serbest Meslek Makbuzu (SMM)", tag: "İş Hukuku", comp: <SmmHesaplama /> },
+  { id: "net-brut-maas", icon: "💵", baslik: "Net / Brüt Maaş (2026 Bordro)", tag: "İş Hukuku", comp: <NetBrutMaas /> },
+  { id: "issizlik-maasi", icon: "🛟", baslik: "İşsizlik Maaşı (Ödeneği) 2026", tag: "İş Hukuku", comp: <IssizlikMaasi /> },
   { id: "nafaka", icon: "👨‍👩‍👧", baslik: "Nafaka Artış / Azaltış Hesaplayıcı", tag: "Aile Hukuku", comp: <NafakaArtisi /> },
   { id: "iddet", icon: "📅", baslik: "İddet Müddeti Hesabı", tag: "Aile Hukuku", comp: <IddetMuddeti /> },
+  { id: "mal-rejimi", icon: "💍", baslik: "Mal Rejimi — Edinilmiş Mallara Katılma", tag: "Aile Hukuku", comp: <MalRejimiKatilma /> },
   { id: "faiz", icon: "📊", baslik: "Faiz Hesaplama (Yasal / Ticari / Avans)", tag: "Alacak", comp: <FaizHesaplama /> },
   { id: "icra-kapak", icon: "📁", baslik: "İcra Dosyası Kapak Hesabı & Harçlar (2026)", tag: "Alacak", comp: <IcraKapakHesabi /> },
   { id: "inkar-tazminati", icon: "⚖️", baslik: "İcra İnkâr Tazminatı", tag: "Alacak", comp: <IcraInkarTazminati /> },
@@ -2784,14 +3197,14 @@ const ARACLAR = [
   { id: "vekalet", icon: "⚖️", baslik: "Vekalet Ücreti (Nispi / Maktu — AAÜT)", tag: "Dava Masrafı", comp: <NispiVekalet /> },
   { id: "dava-harci", icon: "🏛️", baslik: "Dava Açma Harcı ve Gider Avansı", tag: "Dava Masrafı", comp: <DavaAcmaHarci /> },
   { id: "arabuluculuk", icon: "🤝", baslik: "Arabuluculuk Asgari Ücret", tag: "Dava Masrafı", comp: <ArabuluculukUcret /> },
+  { id: "sure", icon: "📆", baslik: "Süre Hesabı (Tebliğden — HMK/İİK)", tag: "Usul", comp: <SureHesabi /> },
   { id: "zamanasimi", icon: "⏱️", baslik: "Zamanaşımı Kontrol Sihirbazı", tag: "Usul", comp: <ZamanAsimiKontrol /> },
+  { id: "istinaf-temyiz", icon: "📨", baslik: "İstinaf / Temyiz Harç ve Süre 2026", tag: "Usul", comp: <IstinafTemyizHarc /> },
   { id: "risk", icon: "🔍", baslik: "Dava Risk ve Maliyet Analizi", tag: "Analiz", comp: <DavaRiskAnalizi /> },
   { id: "infaz", icon: "⛓️", baslik: "İnfaz (Yatar) Hesaplama 2026", tag: "Ceza İnfaz", comp: <InfazHesaplama /> },
-  { id: "net-brut-maas", icon: "💵", baslik: "Net / Brüt Maaş (2026 Bordro)", tag: "İş Hukuku", comp: <NetBrutMaas /> },
-  { id: "issizlik-maasi", icon: "🛟", baslik: "İşsizlik Maaşı (Ödeneği) 2026", tag: "İş Hukuku", comp: <IssizlikMaasi /> },
+  { id: "kdv", icon: "🧮", baslik: "KDV Hesaplama (Dahil / Hariç)", tag: "Vergi", comp: <KdvHesaplama /> },
   { id: "gecikme-zammi", icon: "⏳", baslik: "Gecikme Zammı (Amme Alacağı 2026)", tag: "Vergi", comp: <GecikmeZammi /> },
   { id: "damga-vergisi", icon: "📜", baslik: "Damga Vergisi (Sözleşme) 2026", tag: "Vergi", comp: <DamgaVergisi /> },
-  { id: "istinaf-temyiz", icon: "📨", baslik: "İstinaf / Temyiz Harç ve Süre 2026", tag: "Usul", comp: <IstinafTemyizHarc /> },
 ];
 
 // ─── SAYFA ─────────────────────────────────────────────────────────────────────
