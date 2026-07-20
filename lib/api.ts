@@ -54,6 +54,10 @@ function siteBaseUrl(): string {
   if (process.env.NEXT_PUBLIC_SITE_URL) {
     return process.env.NEXT_PUBLIC_SITE_URL.replace(/\/$/, '');
   }
+  // On Vercel, prefer the deployment host for same-deploy static assets.
+  if (process.env.VERCEL_URL) {
+    return `https://${process.env.VERCEL_URL.replace(/^https?:\/\//, '').replace(/\/$/, '')}`;
+  }
   return 'https://avfethiguzel.com';
 }
 
@@ -119,12 +123,30 @@ async function loadPack(kanunId: string): Promise<Pack> {
     // HTTP
   }
 
-  const url = `${siteBaseUrl()}/content-packs/${encodeURIComponent(kanunId)}.json.gz`;
-  const res = await fetch(url, { next: { revalidate: 86400 } });
-  if (!res.ok) throw new Error(`pack ${kanunId}: HTTP ${res.status}`);
-  const pack = parsePackBuffer(Buffer.from(await res.arrayBuffer()));
-  packCache.set(kanunId, pack);
-  return pack;
+  const bases = Array.from(
+    new Set([
+      siteBaseUrl(),
+      'https://avfethiguzel.com',
+    ])
+  );
+  let lastErr: unknown;
+  for (const base of bases) {
+    const url = `${base}/content-packs/${encodeURIComponent(kanunId)}.json.gz`;
+    try {
+      const res = await fetch(url, { cache: 'force-cache', next: { revalidate: 86400 } });
+      if (!res.ok) {
+        lastErr = new Error(`pack ${kanunId}: HTTP ${res.status} from ${base}`);
+        continue;
+      }
+      const ab = await res.arrayBuffer();
+      const pack = parsePackBuffer(Buffer.from(ab));
+      packCache.set(kanunId, pack);
+      return pack;
+    } catch (e) {
+      lastErr = e;
+    }
+  }
+  throw lastErr instanceof Error ? lastErr : new Error(`pack ${kanunId} load failed`);
 }
 
 export async function getAllKanunDirs(): Promise<string[]> {

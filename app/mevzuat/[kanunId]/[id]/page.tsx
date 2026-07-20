@@ -38,8 +38,23 @@ export default async function ArticlePage({ params }: Props) {
   let articleData: Awaited<ReturnType<typeof getArticleData>>
   try {
     articleData = await getArticleData(resolvedParams.kanunId, resolvedParams.id)
-  } catch {
-    return notFound()
+  } catch (err) {
+    // Surface load errors instead of opaque 500 while diagnosing Vercel SSR.
+    const message = err instanceof Error ? err.message : String(err)
+    if (message.includes('bulunamadı')) return notFound()
+    return (
+      <div className="min-h-screen bg-cream pt-40 px-6">
+        <div className="max-w-xl mx-auto p-8 rounded-2xl border border-red-200 bg-white text-charcoal">
+          <h1 className="text-xl font-bold mb-2">İçerik yüklenemedi</h1>
+          <p className="text-sm text-charcoal/70 mb-4">
+            {resolvedParams.kanunId}/{resolvedParams.id}
+          </p>
+          <pre className="text-xs whitespace-pre-wrap bg-charcoal/5 p-4 rounded-xl overflow-auto">
+            {message}
+          </pre>
+        </div>
+      </div>
+    )
   }
 
   const navInfo = await getNavigationInfo(resolvedParams.kanunId, articleData.maddeNo)
