@@ -1,5 +1,5 @@
-import { getLawCategoryBySlug, getLawSubCategoryBySlug, lawCategories } from '@/lib/laws';
-import { getArticleData, getArticlesByCategory } from '@/lib/api';
+import { getLawCategoryBySlug, getLawSubCategoryBySlug } from '@/lib/laws';
+import { getArticleData } from '@/lib/api';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
@@ -31,24 +31,10 @@ function getOldSlug(parentSlug: string, subSlug: string): string | null {
   return mapping[parentSlug]?.[subSlug] ?? null;
 }
 
-export function generateStaticParams() {
-  const params: { category: string; slug: string; maddeId: string }[] = [];
-  for (const cat of lawCategories) {
-    for (const sub of cat.subCategories) {
-      const oldSlug = getOldSlug(cat.slug, sub.slug);
-      if (!oldSlug) continue;
-      const articles = getArticlesByCategory(oldSlug);
-      for (const article of articles) {
-        params.push({
-          category: cat.slug,
-          slug: sub.slug,
-          maddeId: article.id,
-        });
-      }
-    }
-  }
-  return params;
-}
+// Do NOT SSG thousands of long şerh pages — Vercel OOM/timeout after 7800+ content.
+// Pages render on demand (same strategy as /mevzuat/[kanunId]/[id]).
+export const dynamic = 'force-dynamic';
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: { params: Promise<{ category: string; slug: string; maddeId: string }> }): Promise<Metadata> {
   const { category, slug, maddeId } = await params;

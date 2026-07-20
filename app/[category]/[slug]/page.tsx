@@ -4,7 +4,6 @@ import { categories as oldCategories } from '@/lib/categories';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
-import { lawCategories } from '@/lib/laws';
 
 // Map new sub-category slugs to old category slugs for data lookup
 function getOldSlug(parentSlug: string, subSlug: string): string | null {
@@ -33,15 +32,10 @@ function getOldSlug(parentSlug: string, subSlug: string): string | null {
   return mapping[parentSlug]?.[subSlug] ?? null;
 }
 
-export function generateStaticParams() {
-  const params: { category: string; slug: string }[] = [];
-  for (const cat of lawCategories) {
-    for (const sub of cat.subCategories) {
-      params.push({ category: cat.slug, slug: sub.slug });
-    }
-  }
-  return params;
-}
+// Lightweight SSG of subcategory shells is fine, but listing reads markdown meta —
+// keep on-demand to avoid build-time content scans on Vercel.
+export const dynamic = 'force-dynamic';
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: { params: Promise<{ category: string; slug: string }> }): Promise<Metadata> {
   const { category, slug } = await params;

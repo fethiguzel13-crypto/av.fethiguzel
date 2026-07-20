@@ -1,10 +1,14 @@
 import fs from 'fs';
 import path from 'path';
-import matter from 'gray-matter';
+import { gunzipSync } from 'zlib';
 import { marked } from 'marked';
 import { getCategoryBySlug } from './categories';
 
-const contentDirectory = path.join(process.cwd(), 'content', 'mevzuat');
+/**
+ * Content is served from gzip packs (content-packs/*.json.gz), not raw markdown.
+ * Raw content/mevzuat is ~380MB and exceeds Vercel serverless tracing limits.
+ */
+const packsDirectory = path.join(process.cwd(), 'content-packs');
 
 export interface ArticleData {
   id: string;
@@ -17,96 +21,115 @@ export interface ArticleData {
   commentaryHtml: string;
 }
 
-export function getAllKanunDirs() {
-  if (!fs.existsSync(contentDirectory)) return [];
-  return fs.readdirSync(contentDirectory).filter(file => {
-    return fs.statSync(path.join(contentDirectory, file)).isDirectory();
-  });
+export interface ArticleMeta {
+  id: string;
+  kanunId: string;
+  title: string;
+  kanun: string;
+  maddeNo: number;
 }
 
-export function getArticlesByKanun(kanunId: string) {
-  const kanunDir = path.join(contentDirectory, kanunId);
-  if (!fs.existsSync(kanunDir)) return [];
-  
-  const fileNames = fs.readdirSync(kanunDir);
-  const allArticles = fileNames.filter(f => f.endsWith('.md')).map(fileName => {
-    const id = fileName.replace(/\.md$/, '');
-    const fullPath = path.join(kanunDir, fileName);
-    const fileContents = fs.readFileSync(fullPath, 'utf8');
-    const matterResult = matter(fileContents);
-    
-    return {
-      id,
-      kanunId,
-      ...(matterResult.data as { title: string; kanun: string; maddeNo: number })
-    };
-  });
-  
+type PackArticle = {
+  title: string;
+  kanun: string;
+  maddeNo: number;
+  official: string;
+  commentary: string;
+};
+
+type Pack = Record<string, PackArticle>;
+
+const packCache = new Map<string, Pack>();
+
+function loadPack(kanunId: string): Pack {
+  if (packCache.has(kanunId)) return packCache.get(kanunId)!;
+
+  const gzPath = path.join(packsDirectory, `${kanunId}.json.gz`);
+  if (!fs.existsSync(gzPath)) {
+    throw new Error(
+      `content-packs/${kanunId}.json.gz bulunamadı. Çalıştırın: npm run build:packs`
+    );
+  }
+
+  const gz = fs.readFileSync(gzPath);
+  const json = gunzipSync(gz).toString('utf8');
+  const pack = JSON.parse(json) as Pack;
+  packCache.set(kanunId, pack);
+  return pack;
+}
+
+export function getAllKanunDirs(): string[] {
+  if (!fs.existsSync(packsDirectory)) return [];
+  return fs
+    .readdirSync(packsDirectory)
+    .filter((f) => f.endsWith('.json.gz'))
+    .map((f) => f.replace(/\.json\.gz$/, ''))
+    .sort();
+}
+
+export function getArticlesByKanun(kanunId: string): ArticleMeta[] {
+  try {
+    const pack = loadPack(kanunId);
+    return Object.entries(pack)
+      .map(([id, a]) => ({
+        id,
+        kanunId,
+        title: a.title,
+        kanun: a.kanun,
+        maddeNo: a.maddeNo,
+      }))
+      .sort((a, b) => a.maddeNo - b.maddeNo);
+  } catch {
+    return [];
+  }
+}
+
+export function getAllArticles(): ArticleMeta[] {
+  const allArticles: ArticleMeta[] = [];
+  for (const kanunId of getAllKanunDirs()) {
+    allArticles.push(...getArticlesByKanun(kanunId));
+  }
   return allArticles.sort((a, b) => a.maddeNo - b.maddeNo);
 }
 
-export function getAllArticles() {
-  const kanunDirs = getAllKanunDirs();
-  let allArticles: any[] = [];
-  
-  kanunDirs.forEach(kanunId => {
-    const articles = getArticlesByKanun(kanunId);
-    allArticles = [...allArticles, ...articles];
-  });
-  
-  return allArticles.sort((a, b) => a.maddeNo - b.maddeNo);
-}
-
-export function getArticlesByCategory(categorySlug: string) {
+export function getArticlesByCategory(categorySlug: string): ArticleMeta[] {
   const category = getCategoryBySlug(categorySlug);
   if (!category) return [];
-
-  const articles = getArticlesByKanun(category.kanunId);
-  return articles.filter(article => 
-    article.maddeNo >= category.startMadde && 
-    article.maddeNo <= category.endMadde
+  return getArticlesByKanun(category.kanunId).filter(
+    (article) =>
+      article.maddeNo >= category.startMadde &&
+      article.maddeNo <= category.endMadde
   );
 }
 
 export function getNavigationInfo(kanunId: string, currentMaddeNo: number) {
   const articles = getArticlesByKanun(kanunId);
-  const prev = articles.find(a => a.maddeNo === currentMaddeNo - 1);
-  const next = articles.find(a => a.maddeNo === currentMaddeNo + 1);
+  const prev = articles.find((a) => a.maddeNo === currentMaddeNo - 1);
+  const next = articles.find((a) => a.maddeNo === currentMaddeNo + 1);
   return { prev, next };
 }
 
 export async function getArticleData(kanunId: string, id: string): Promise<ArticleData> {
-  const fullPath = path.join(contentDirectory, kanunId, `${id}.md`);
-  const fileContents = fs.readFileSync(fullPath, 'utf8');
-  
-  const matterResult = matter(fileContents);
-  const rawContent = matterResult.content;
-  
-  // Split content by either old placeholder ("### Bizim Yorumumuz")
-  // or new commentary marker ("### Akademik Yorum ve Analiz")
-  const splitRegex = /\n### (?:Bizim Yorumumuz|Akademik Yorum ve Analiz)\s*\n/;
-  const parts = rawContent.split(splitRegex);
-
-  const officialText = (parts[0] || "").trim();
-  let commentaryText = parts.length > 1 ? parts[1].trim() : "";
-
-  // If the only commentary content is the legacy placeholder line, treat as empty
-  if (commentaryText === "Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.") {
-    commentaryText = "";
+  const pack = loadPack(kanunId);
+  const a = pack[id];
+  if (!a) {
+    throw new Error(`Madde bulunamadı: ${kanunId}/${id}`);
   }
-  
-  // Fallback: If officialText is somehow empty but rawContent isn't, use rawContent
-  const finalOfficialText = officialText || rawContent;
-  
-  const officialHtml = await marked(finalOfficialText);
-  const commentaryHtml = commentaryText ? await marked(commentaryText) : "";
-  
+
+  const officialHtml = await marked(a.official);
+  const commentaryHtml = a.commentary ? await marked(a.commentary) : '';
+  const contentHtml = a.commentary
+    ? await marked(`${a.official}\n\n### Akademik Yorum ve Analiz\n\n${a.commentary}`)
+    : officialHtml;
+
   return {
     id,
     kanunId,
-    ...(matterResult.data as { title: string; kanun: string; maddeNo: number }),
-    contentHtml: await marked(rawContent),
+    title: a.title,
+    kanun: a.kanun,
+    maddeNo: a.maddeNo,
+    contentHtml,
     officialHtml,
-    commentaryHtml
+    commentaryHtml,
   };
 }

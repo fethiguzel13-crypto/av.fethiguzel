@@ -45,15 +45,18 @@
     width: 10px;
     height: 10px;
   }
+
   ::-webkit-scrollbar-track {
     background: transparent;
   }
+
   ::-webkit-scrollbar-thumb {
     background: rgba(26, 26, 26, 0.15);
     border-radius: 999px;
     border: 2px solid transparent;
     background-clip: padding-box;
   }
+
   ::-webkit-scrollbar-thumb:hover {
     background: rgba(204, 88, 51, 0.45);
     background-clip: padding-box;
@@ -81,6 +84,7 @@ body::before {
   .surface-card-hover {
     @apply surface-card transition-all duration-300;
   }
+
   .surface-card-hover:hover {
     box-shadow: var(--shadow-lift);
     border-color: rgba(204, 88, 51, 0.18);
@@ -91,6 +95,7 @@ body::before {
     @apply inline-flex items-center justify-center gap-2 bg-accent text-white font-bold text-sm px-6 py-3.5 rounded-full transition-all;
     box-shadow: 0 8px 24px -6px rgba(204, 88, 51, 0.45);
   }
+
   .btn-primary:hover {
     @apply bg-accent/90;
     transform: translateY(-1px);
@@ -113,15 +118,19 @@ body::before {
   .rounded-pill {
     @apply rounded-[3rem];
   }
+
   .glass {
-    @apply bg-cream/70 backdrop-blur-xl border border-charcoal/8;
+    @apply bg-cream/70 backdrop-blur-xl border border-charcoal/10;
   }
+
   .text-balance {
     text-wrap: balance;
   }
+
   .shadow-soft {
     box-shadow: var(--shadow-soft);
   }
+
   .shadow-lift {
     box-shadow: var(--shadow-lift);
   }
@@ -130,6 +139,7 @@ body::before {
 .magnetic-btn {
   transition: transform 0.35s cubic-bezier(0.25, 0.46, 0.45, 0.94), box-shadow 0.35s ease;
 }
+
 .magnetic-btn:hover {
   transform: scale(1.02);
 }
@@ -137,6 +147,7 @@ body::before {
 .btn-hover-layer {
   @apply absolute inset-0 w-0 bg-primary transition-all duration-500 ease-out;
 }
+
 .magnetic-btn:hover .btn-hover-layer {
   @apply w-full;
 }
@@ -159,6 +170,7 @@ body::before {
   line-height: 1.35 !important;
   letter-spacing: -0.02em !important;
 }
+
 @media (min-width: 768px) {
   .commentary-prose h3 {
     margin-top: 5rem !important;
@@ -174,6 +186,7 @@ body::before {
   font-size: 1.2rem !important;
   line-height: 1.4 !important;
 }
+
 @media (min-width: 768px) {
   .commentary-prose h4 {
     margin-top: 3.5rem !important;
@@ -219,9 +232,9 @@ body::before {
   border-left-color: var(--accent) !important;
 }
 
-.commentary-prose h3 + p,
-.commentary-prose h4 + p,
-.commentary-prose h5 + p {
+.commentary-prose h3+p,
+.commentary-prose h4+p,
+.commentary-prose h5+p {
   margin-top: 0.75rem !important;
 }
 
@@ -230,6 +243,7 @@ body::before {
   body::before {
     display: none;
   }
+
   nav,
   footer,
   .fixed {

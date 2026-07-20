@@ -8,6 +8,9 @@ import Footer from '@/components/Footer';
 import MevzuatSearch from '@/components/MevzuatSearch';
 import { BookOpen, Search } from 'lucide-react';
 
+// Listing reads many kanun dirs — keep dynamic so build does not hydrate all content.
+export const dynamic = 'force-dynamic';
+
 export const metadata: Metadata = {
   title: 'Mevzuat ve Akademik Şerh Bankası',
   description:

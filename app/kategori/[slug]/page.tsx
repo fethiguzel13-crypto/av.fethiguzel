@@ -1,5 +1,5 @@
 import { getArticlesByCategory } from '@/lib/api'
-import { getCategoryBySlug, categories } from '@/lib/categories'
+import { getCategoryBySlug } from '@/lib/categories'
 import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import Navbar from '@/components/Navbar'
@@ -7,11 +7,9 @@ import Footer from '@/components/Footer'
 import CategoryArticleList from '@/components/CategoryArticleList'
 import { ArrowLeft, BookOpen, Scale } from 'lucide-react'
 
-export function generateStaticParams() {
-  return categories.map((category) => ({
-    slug: category.slug,
-  }))
-}
+// Avoid build-time scan of large markdown corpora for every category.
+export const dynamic = 'force-dynamic';
+export const dynamicParams = true;
 
 export default async function KategoriPage({ params }: { params: Promise<{ slug: string }> }) {
   const resolvedParams = await params;

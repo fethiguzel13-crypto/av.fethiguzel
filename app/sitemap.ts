@@ -1,6 +1,5 @@
 import { MetadataRoute } from 'next';
-import { getAllArticles } from '@/lib/api';
-import { lawCategories, getAllSubCategories } from '@/lib/laws';
+import { lawCategories } from '@/lib/laws';
 import fs from 'fs';
 import path from 'path';
 
@@ -92,17 +91,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
-  // 4. Madde Detay Sayfaları (/medeni-hukuk/aile-hukuku/madde-166)
+  // 4. Madde Detay Sayfaları — content-packs (küçük) üzerinden; raw md tarama yok
+  const { getArticlesByCategory } = await import('@/lib/api');
   const articleRoutes: MetadataRoute.Sitemap = [];
   for (const cat of lawCategories) {
     for (const sub of cat.subCategories) {
       const oldSlug = getOldSlug(cat.slug, sub.slug);
       if (!oldSlug) continue;
-
-      // Import getArticlesByCategory dynamically
-      const { getArticlesByCategory } = await import('@/lib/api');
       const articles = getArticlesByCategory(oldSlug);
-
       for (const article of articles) {
         articleRoutes.push({
           url: `${baseUrl}/${cat.slug}/${sub.slug}/${article.id}`,
@@ -136,25 +132,14 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       });
   }
 
-  // 6. Tüm mevzuat madde sayfaları (/mevzuat/{kanunId}/{id})
-  const mevzuatDir = path.join(process.cwd(), 'content', 'mevzuat');
-  const mevzuatRoutes: MetadataRoute.Sitemap = [];
-  if (fs.existsSync(mevzuatDir)) {
-    for (const kanunId of fs.readdirSync(mevzuatDir)) {
-      const kanunPath = path.join(mevzuatDir, kanunId);
-      if (!fs.statSync(kanunPath).isDirectory()) continue;
-      for (const file of fs.readdirSync(kanunPath)) {
-        if (!file.endsWith('.md') || file.startsWith('_')) continue;
-        const id = file.replace(/\.md$/, '');
-        mevzuatRoutes.push({
-          url: `${baseUrl}/mevzuat/${kanunId}/${id}`,
-          lastModified: fs.statSync(path.join(kanunPath, file)).mtime,
-          changeFrequency: 'monthly',
-          priority: 0.75,
-        });
-      }
-    }
-  }
+  // 6. Tüm mevzuat madde sayfaları (/mevzuat/{kanunId}/{id}) — packs
+  const { getAllArticles } = await import('@/lib/api');
+  const mevzuatRoutes: MetadataRoute.Sitemap = getAllArticles().map((article) => ({
+    url: `${baseUrl}/mevzuat/${article.kanunId}/${article.id}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.75,
+  }));
 
   // 7. Kategori arşiv sayfaları (/kategori/{slug})
   const { categories } = await import('@/lib/categories');
