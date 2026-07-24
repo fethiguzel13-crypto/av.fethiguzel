@@ -25,6 +25,7 @@ const CORE = [
     { href: '/akademik-profil', ad: 'Akademik profil' },
     { href: '/english-speaking-lawyer', ad: 'English-speaking lawyer' },
     { href: '/hizmet-bolgeleri', ad: 'Hizmet bölgeleri' },
+    { href: '/hizmetler', ad: 'Hizmet alanları' },
     { href: '/gizlilik', ad: 'Gizlilik / KVKK' },
     { href: '/yasal-uyari', ad: 'Yasal uyarı' },
 ];
