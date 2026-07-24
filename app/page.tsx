@@ -39,6 +39,25 @@ export default function Home() {
       <RegionsPreview />
       <DailyNews />
       <Articles />
+      <section className="py-12 sm:py-16 px-5 sm:px-6 border-t border-charcoal/5">
+        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+          <div>
+            <p className="section-label mb-2">Bilgilendirme</p>
+            <h2 className="text-2xl sm:text-3xl font-heading font-bold text-charcoal">
+              Hukuki rehberler
+            </h2>
+            <p className="text-charcoal/55 text-sm mt-2 max-w-lg">
+              Miras, kıdem ve arabuluculuk — reklam yasağına uygun genel bilgilendirme.
+            </p>
+          </div>
+          <a
+            href="/rehber"
+            className="inline-flex self-start sm:self-auto items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full text-sm font-bold hover:bg-accent transition-colors"
+          >
+            Rehberlere git
+          </a>
+        </div>
+      </section>
       <FaqSection />
       <Footer />
       <StickyMobileCta />
