@@ -130,6 +130,7 @@ export default function Navbar() {
     { name: 'Güncel', href: '/icthat' },
     { name: 'Hesaplama', href: '/hesaplama' },
     { name: 'Bölgeler', href: '/hizmet-bolgeleri' },
+    { name: 'Hizmetler', href: '/hizmetler' },
   ];
 
   const linkCls = solid ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';

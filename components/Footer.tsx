@@ -112,6 +112,7 @@ export default function Footer() {
             <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Bölge</p>
             <div className="flex flex-col gap-2 text-sm text-cream/70">
               <Link href="/hizmet-bolgeleri" className="hover:text-accent transition-colors">Tüm Bölgeler</Link>
+              <Link href="/hizmetler" className="hover:text-accent transition-colors">Hizmet Alanları</Link>
               <Link href="/van-avukat" className="hover:text-accent transition-colors">Van Avukat</Link>
               <Link href="/ercis-avukat" className="hover:text-accent transition-colors">Erciş Avukat</Link>
               <Link href="/ankara-avukat" className="hover:text-accent transition-colors">Ankara Avukat</Link>

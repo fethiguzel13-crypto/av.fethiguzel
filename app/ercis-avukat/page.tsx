@@ -2,14 +2,14 @@ import type { Metadata } from "next";
 import IlceAvukatSayfasi, { IlceVerisi } from "@/components/IlceAvukatSayfasi";
 
 export const metadata: Metadata = {
-  title: "Erciş Avukat | Av. Fethi Güzel — Merkez Ofis",
+  title: "Erciş Avukat | Av. Fethi Güzel — Merkez Ofis · Doktora · Kitap",
   description:
-    "Erciş avukat: Av. Fethi Güzel Hukuk Bürosu merkez ofis Erciş'te. Ceza, aile, miras, gayrimenkul, iş ve icra hukuku — yüz yüze danışmanlık.",
-  keywords: "Erciş avukat, Erciş avukatı, Fethi Güzel, Van Erciş avukat, boşanma avukatı Erciş",
+    "Erciş avukat: Av. Fethi Güzel merkez ofis. Özel hukuk doktora çalışmaları, e-duruşma monografisi, iyi düzeyde İngilizce. Ceza, aile, miras, iş, icra — yüz yüze bilgilendirme.",
+  keywords: "Erciş avukat, Erciş avukatı, Fethi Güzel, Van Erciş avukat, boşanma avukatı Erciş, e-duruşma",
   alternates: { canonical: "https://avfethiguzel.com/ercis-avukat" },
   openGraph: {
     title: "Erciş Avukat | Av. Fethi Güzel",
-    description: "Erciş merkez ofis — Av. Fethi Güzel hukuki danışmanlık ve dava vekilliği.",
+    description: "Erciş merkez ofis — akademik arka plan ve dava vekilliği bilgilendirmesi.",
     url: "https://avfethiguzel.com/ercis-avukat",
     images: [{ url: "/images/av-fethi-guzel-og.jpg", width: 1200, height: 630, alt: "Av. Fethi Güzel Erciş avukat" }],
   },

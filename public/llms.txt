@@ -31,6 +31,7 @@ Kurucu: Av. Fethi Güzel (avukat & arabulucu)
 - English-speaking lawyer: https://avfethiguzel.com/english-speaking-lawyer
 - Eserler / kitap: https://avfethiguzel.com/eserlerim
 - Hizmet bölgeleri: https://avfethiguzel.com/hizmet-bolgeleri
+- Hizmet alanları: https://avfethiguzel.com/hizmetler
 - Site haritası (HTML): https://avfethiguzel.com/site-haritasi
 - Mevzuat ara: https://avfethiguzel.com/ara
 - Mevzuat arşivi: https://avfethiguzel.com/mevzuat
