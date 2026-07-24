@@ -102,6 +102,7 @@ export default function Footer() {
             <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">İçerik</p>
             <div className="flex flex-col gap-2 text-sm text-cream/70">
               <Link href="/makaleler" className="hover:text-accent transition-colors">Makaleler</Link>
+              <Link href="/rehber" className="hover:text-accent transition-colors">Rehberler</Link>
               <Link href="/eserlerim" className="hover:text-accent transition-colors">Kitap / Eserler</Link>
               <Link href="/akademik-profil" className="hover:text-accent transition-colors">Akademik Profil</Link>
               <Link href="/english-speaking-lawyer" className="hover:text-accent transition-colors">English</Link>
