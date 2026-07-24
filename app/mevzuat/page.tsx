@@ -9,9 +9,16 @@ import MevzuatSearch from '@/components/MevzuatSearch';
 import { BookOpen, Search } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Mevzuat ve Akademik Şerh Bankası',
+  title: 'Mevzuat ve Akademik Şerh Bankası | 7800+ Madde',
   description:
-    '7800+ kanun maddesi, akademik şerhler. TBK, TMK, TTK, TCK, HMK, İİK, VUK ve 40+ kanun — madde metni ve yorum aynı sayfada.',
+    '7.800+ kanun maddesi ve akademik şerh. TBK, TMK, TTK, TCK, HMK, İİK, VUK, İş Kanunu ve 40+ kanun — madde metni ile yorum aynı sayfada. Ücretsiz açık erişim.',
+  alternates: { canonical: 'https://avfethiguzel.com/mevzuat' },
+  openGraph: {
+    title: 'Mevzuat ve Akademik Şerh Bankası',
+    description:
+      '45+ kanun, 7.800+ madde ve akademik şerh. Türkiye’nin açık erişimli dijital hukuk arşivi.',
+    url: 'https://avfethiguzel.com/mevzuat',
+  },
 };
 
 export default async function MevzuatPage() {

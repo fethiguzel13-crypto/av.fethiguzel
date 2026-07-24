@@ -40,6 +40,27 @@
     outline-offset: 2px;
   }
 
+  /* Prefer reduced motion for accessibility (WCAG / top legal UX) */
+  @media (prefers-reduced-motion: reduce) {
+    html {
+      scroll-behavior: auto;
+    }
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+
+  /* Sticky mobile CTA safe area */
+  @supports (padding: env(safe-area-inset-bottom)) {
+    body {
+      padding-bottom: env(safe-area-inset-bottom);
+    }
+  }
+
   /* Daha okunaklı scrollbar */
   ::-webkit-scrollbar {
     width: 10px;

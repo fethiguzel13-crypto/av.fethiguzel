@@ -39,9 +39,13 @@ export default function LibraryStrip() {
                     <p className="text-accent font-heading text-xs tracking-widest uppercase mb-3">
                         Dijital Hukuk Kütüphanesi
                     </p>
-                    <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-charcoal">
-                        Tek platformda <span className="font-drama italic text-accent">her şey</span>
+                    <h2 className="text-3xl sm:text-4xl md:text-5xl font-bold text-charcoal tracking-tight">
+                        Tek platformda <span className="font-drama italic text-accent font-medium">her şey</span>
                     </h2>
+                    <p className="mt-4 text-charcoal/55 text-sm sm:text-base max-w-2xl mx-auto leading-relaxed">
+                        En iyi hukuk siteleri yalnızca ofisi anlatmaz; ziyaretçiye araç verir.
+                        Mevzuat arayın, şerh okuyun, içtihatı takip edin, hesabınızı yapın.
+                    </p>
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
                     {LINKS.map((item) => {

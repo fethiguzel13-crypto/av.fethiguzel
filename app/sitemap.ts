@@ -58,10 +58,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/icthat`, lastModified: new Date(), changeFrequency: 'daily', priority: 0.9 },
     { url: `${baseUrl}/hesaplama`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
     { url: `${baseUrl}/makaleler`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
-    { url: `${baseUrl}/eserlerim`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.65 },
+    { url: `${baseUrl}/eserlerim`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${baseUrl}/akademik-profil`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.9 },
+    { url: `${baseUrl}/english-speaking-lawyer`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
+    { url: `${baseUrl}/hizmet-bolgeleri`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
+    { url: `${baseUrl}/site-haritasi`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.5 },
+    { url: `${baseUrl}/gizlilik`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
+    { url: `${baseUrl}/yasal-uyari`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
   ];
 
-  // 1b. İlçe/İl Avukat Sayfaları (yerel SEO)
+  // 1b. İlçe/İl Avukat Sayfaları (yerel SEO — Türkiye haritası kökleri)
   const ilceSlugs = [
     'ercis-avukat',
     'van-avukat',
@@ -70,13 +76,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'patnos-avukat',
     'caldiran-avukat',
     'ozalp-avukat',
+    'tatvan-avukat',
+    'bitlis-avukat',
+    'adilcevaz-avukat',
+    'ahlat-avukat',
+    'ankara-avukat',
     'avukat-fethi-guzel',
   ];
   const ilceRoutes: MetadataRoute.Sitemap = ilceSlugs.map((slug) => ({
     url: `${baseUrl}/${slug}`,
     lastModified: new Date(),
-    changeFrequency: 'weekly',
-    priority: slug === 'avukat-fethi-guzel' ? 0.95 : 0.9,
+    changeFrequency: 'weekly' as const,
+    priority: slug === 'avukat-fethi-guzel' || slug === 'ankara-avukat' || slug === 'van-avukat' || slug === 'ercis-avukat' ? 0.95 : 0.9,
   }));
 
   // 2. Ana Kategori Sayfaları (/medeni-hukuk, /borclar-hukuku, /ticaret-hukuku)

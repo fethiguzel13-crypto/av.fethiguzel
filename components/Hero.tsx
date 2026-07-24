@@ -62,8 +62,9 @@ export default function Hero() {
           </h1>
 
           <p className="hero-fade text-cream/70 text-base sm:text-lg max-w-xl mb-8 sm:mb-10 font-sans leading-relaxed">
-            45+ kanun, 7800+ madde ve akademik şerh; günlük içtihat ve
-            hukuki hesaplama araçları tek platformda.
+            Özel hukuk doktora çalışmaları · e-duruşma monografisi · iyi düzeyde İngilizce.
+            45+ kanun, 7.800+ madde ve akademik şerh; günlük içtihat ve hesaplama araçları.
+            Van · Erciş avukat ve arabulucu.
           </p>
 
           <div className="hero-fade flex items-stretch gap-4 sm:gap-8 mb-9 sm:mb-12">

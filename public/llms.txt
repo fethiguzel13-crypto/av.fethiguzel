@@ -1,26 +1,73 @@
 # Av. Fethi Güzel Hukuk Portalı
 
-> Türkiye merkezli dijital hukuk kütüphanesi: kanun maddeleri, akademik şerhler, günlük içtihat ve hesaplama araçları.
+> Türkiye merkezli, açık erişimli dijital hukuk kütüphanesi ve avukatlık bilgilendirme sitesi.
+> Kanun maddeleri, akademik şerhler, günlük içtihat, hukuki hesaplama araçları.
+> Ücretsiz; kayıt zorunlu değil. Reklam yasağına uygun nesnel bilgilendirme.
 
 Site: https://avfethiguzel.com
 İletişim: av.fethiguzel@hotmail.com
-Konum: Erciş / Van
+Ofis: Vanyolu Mah. Karayusuf Bey Bulvarı, Zenginler İş Hanı Kat 4 No 26, Erciş / Van
+Kurucu: Av. Fethi Güzel (avukat & arabulucu)
 
-## Ana bölümler
+## Mesleki ve akademik kimlik (nesnel)
 
-- [Mevzuat arama](https://avfethiguzel.com/ara): 7800+ madde indeksi
-- [Mevzuat arşivi](https://avfethiguzel.com/mevzuat): kanun kategorileri
-- [Günlük içtihat](https://avfethiguzel.com/icthat)
-- [Hesaplama araçları](https://avfethiguzel.com/hesaplama)
-- [Makaleler](https://avfethiguzel.com/makaleler)
+- Özel hukuk alanında doktora çalışmaları (medeni, borçlar, ticaret, usul ekseni)
+- Yayımlanmış monografi: Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi Yoluyla Duruşma İcrası (e-duruşma) — Seçkin Yayıncılık — https://www.seckin.com.tr/kitap/614840900
+- Dil: Türkçe (ana dil); İngilizce (iyi düzey / professional working proficiency)
+- Açık erişim portal: 45+ kanun, 7.800+ madde + akademik şerh, 30 hesaplama aracı
+
+## Özet (AI / LLM context)
+
+- Dil: Türkçe (tr-TR); İngilizce profil sayfası mevcut
+- Farklılaşma: Ücretli bankalara alternatif açık erişim; madde + şerh aynı sayfada; hesaplama araçları; akademik yayın
+- Hizmet bilgilendirme bölgeleri: Van, Erciş, Çaldıran, Özalp, Muradiye, Patnos, Ağrı, Tatvan, Bitlis, Adilcevaz, Ahlat, Ankara (uzaktan)
+- Yasal: Bilgilendirme amaçlıdır; somut uyuşmazlıklarda avukata danışılmalıdır. Sonuç vaadi yoktur. TBB reklam yasağına uygundur.
+
+## Ana URL'ler
+
+- Ana sayfa: https://avfethiguzel.com/
+- Avukat profili: https://avfethiguzel.com/avukat-fethi-guzel
+- Akademik profil: https://avfethiguzel.com/akademik-profil
+- English-speaking lawyer: https://avfethiguzel.com/english-speaking-lawyer
+- Eserler / kitap: https://avfethiguzel.com/eserlerim
+- Hizmet bölgeleri: https://avfethiguzel.com/hizmet-bolgeleri
+- Site haritası (HTML): https://avfethiguzel.com/site-haritasi
+- Mevzuat ara: https://avfethiguzel.com/ara
+- Mevzuat arşivi: https://avfethiguzel.com/mevzuat
+- Günlük içtihat: https://avfethiguzel.com/icthat
+- Hesaplama: https://avfethiguzel.com/hesaplama
+- Makaleler: https://avfethiguzel.com/makaleler
+- Gizlilik: https://avfethiguzel.com/gizlilik
+- Yasal uyarı: https://avfethiguzel.com/yasal-uyari
+
+## Yerel SEO sayfaları
+
+- https://avfethiguzel.com/van-avukat
+- https://avfethiguzel.com/ercis-avukat
+- https://avfethiguzel.com/caldiran-avukat
+- https://avfethiguzel.com/ozalp-avukat
+- https://avfethiguzel.com/muradiye-avukat
+- https://avfethiguzel.com/patnos-avukat
+- https://avfethiguzel.com/agri-avukat
+- https://avfethiguzel.com/tatvan-avukat
+- https://avfethiguzel.com/bitlis-avukat
+- https://avfethiguzel.com/adilcevaz-avukat
+- https://avfethiguzel.com/ahlat-avukat
+- https://avfethiguzel.com/ankara-avukat
 
 ## Kanun örnekleri
 
-- TBK: https://avfethiguzel.com/mevzuat/tbk/madde-1
-- TMK: https://avfethiguzel.com/mevzuat/tmk/madde-1
-- TTK: https://avfethiguzel.com/mevzuat/ttk/madde-18
-- TCK: https://avfethiguzel.com/mevzuat/tck/madde-1
+- TBK m.1: https://avfethiguzel.com/mevzuat/tbk/madde-1
+- TMK m.1: https://avfethiguzel.com/mevzuat/tmk/madde-1
+- TTK m.18: https://avfethiguzel.com/mevzuat/ttk/madde-18
+- TCK m.1: https://avfethiguzel.com/mevzuat/tck/madde-1
 
-## Not
+## Sitemap
 
-İçerik bilgilendirme amaçlıdır; somut uyuşmazlıklarda avukata danışılmalıdır.
+- https://avfethiguzel.com/sitemap.xml
+- https://avfethiguzel.com/images-sitemap.xml
+
+## Citation
+
+Av. Fethi Güzel Hukuk Portalı, https://avfethiguzel.com, erişim tarihi: [tarih].
+Kanun metinleri için resmi kaynak (mevzuat.gov.tr / Resmî Gazete) birincil referanstır.

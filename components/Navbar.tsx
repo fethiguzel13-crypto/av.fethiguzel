@@ -124,12 +124,12 @@ export default function Navbar() {
   }, []);
 
   const simpleLinks = [
-    { name: 'Hakkımda', href: '/#manifesto' },
+    { name: 'Hakkımda', href: '/avukat-fethi-guzel' },
+    { name: 'Akademik', href: '/akademik-profil' },
     { name: 'Ara', href: '/ara' },
     { name: 'Güncel', href: '/icthat' },
     { name: 'Hesaplama', href: '/hesaplama' },
-    { name: 'Makalelerim', href: '/makaleler' },
-    { name: 'Eserlerim', href: '/eserlerim' },
+    { name: 'Bölgeler', href: '/hizmet-bolgeleri' },
   ];
 
   const linkCls = solid ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';
