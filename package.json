@@ -5,7 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "node scripts/build-mevzuat-index.mjs && node scripts/build-content-packs.mjs",
+    "prebuild": "node scripts/prebuild-safe.mjs",
     "build": "next build",
     "build:packs": "node scripts/build-content-packs.mjs",
     "start": "next start",
@@ -16,6 +16,11 @@
     "social:draft": "node scripts/social-draft.js",
     "social:seed": "node scripts/social-draft-seed.js",
     "social:publish": "node scripts/social-publish.js",
+    "social:youtube": "node scripts/youtube-export.js",
+    "social:youtube-anim": "node scripts/youtube-animate-render.js",
+    "social:youtube-story": "node scripts/youtube-storyboard-render.js",
+    "social:youtube-cine": "node scripts/youtube-cinematic-render.js",
+    "social:youtube-cast": "node scripts/youtube-cast-cinematic.js",
     "social:daily": "node scripts/startup-social.js"
   },
   "dependencies": {
