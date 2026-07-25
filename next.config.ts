@@ -77,10 +77,11 @@ const nextConfig: NextConfig = {
   },
   poweredByHeader: false,
   compress: true,
+  // Include content-packs in serverless traces so /api/content-pack can read them.
+  // Do NOT exclude content-packs — empty public stubs + exclude = invisible şerhler.
   outputFileTracingExcludes: {
     "/**": [
       "./content/**/*",
-      "./content-packs/**/*",
       "./scraper/**/*",
       "./scripts/**/*",
       "./docs/**/*",
@@ -91,6 +92,9 @@ const nextConfig: NextConfig = {
       "./node_modules/pdfjs-dist/**/*",
       "./node_modules/pdf-parse/**/*",
     ],
+  },
+  outputFileTracingIncludes: {
+    "/api/content-pack/**/*": ["./content-packs/**/*", "./public/content-packs/**/*"],
   },
 };
 
