@@ -727,12 +727,13 @@
 
       async function loadPack(kanunId) {
         var kid = encodeURIComponent(kanunId);
+        // jsDelivr first — Vercel /packs and /content-packs were empty stubs
         var urls = [
-          '/packs/' + kid + '.json.gz',
-          '/api/content-pack/' + kid,
           'https://cdn.jsdelivr.net/gh/fethiguzel13-crypto/av.fethiguzel@main/content-packs/' + kid + '.json.gz',
           'https://raw.githubusercontent.com/fethiguzel13-crypto/av.fethiguzel/main/content-packs/' + kid + '.json.gz',
-          '/content-packs/' + kid + '.json.gz?v=5',
+          '/packs/' + kid + '.json.gz',
+          '/api/content-pack/' + kid,
+          '/content-packs/' + kid + '.json.gz?v=7',
         ];
         var lastErr;
         for (var i = 0; i < urls.length; i++) {
