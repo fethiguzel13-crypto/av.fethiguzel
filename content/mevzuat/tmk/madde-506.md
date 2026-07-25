@@ -11,13 +11,12 @@ wordCount: 4284
 
 ---
 
-Madde 506 - Saklı pay aşağıdaki or anlardan ibarettir:  1. Altsoy için yas al mir as payının yarısı,  2. Ana ve babadan her biri için yasal miras payının dörtte biri,
-3.   (Mülga:   4/5/2007 - 5650/2 md.)  4. Sağ kalan eş için, altsoy veya ana ve baba zümresiyle birlikte mir asçı olması hâlinde  yasal m iras payının tamamı, diğer   hâllerde ya sal mi ras payının dörtte üçü.
+Madde 506 - Saklı pay aşağıdaki or anlardan ibarettir: 1. Altsoy için yas al mir as payının yarısı, 2. Ana ve babadan her biri için yasal miras payının dörtte biri,
+3. (Mülga: 4/5/2007 - 5650/2 md.) 4. Sağ kalan eş için, altsoy veya ana ve baba zümresiyle birlikte mir asçı olması hâlinde yasal m iras payının tamamı, diğer hâllerde ya sal mi ras payının dörtte üçü.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 506**, «II. Saklı pay» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 506 - Saklı pay aşağıdaki or anlardan ibarettir:  1. Altsoy için yas al mir as payının yarısı,  2. Ana ve babadan her biri için yasal miras payının dörtte biri,

@@ -12,12 +12,11 @@ wordCount: 4258
 
 ---
 
-Madde 63 - (1)   Tüzel   kişilerin   işlerini   görmeleri   sırasında   bir   haksız   rekabet   fiili  işlenirse   62   nci   madde   hükmü,   tüzel   kişi   adına   hareket   eden   veya   e tmesi   gerekmiş   olan  organın   üyeleri   veya   ortakları   hakkında   uygulanır.   Haksız   rekabet   fiilinin   bir   tüzel   kişinin  faaliyeti   çerçevesinde   işlenmesi   hâlinde,   tüzel   kişi   hakkında   bunlara   özgü   güvenlik  tedbirlerine   de   karar   verilebilir.  BEŞİNCİ   KISIM  Ticari   D efterler  A)   Defter   tutma   ve   envanter  I   -   Defter   tutma   yükümlülüğü
+Madde 63 - (1) Tüzel kişilerin işlerini görmeleri sırasında bir haksız rekabet fiili işlenirse 62 nci madde hükmü, tüzel kişi adına hareket eden veya e tmesi gerekmiş olan organın üyeleri veya ortakları hakkında uygulanır. Haksız rekabet fiilinin bir tüzel kişinin faaliyeti çerçevesinde işlenmesi hâlinde, tüzel kişi hakkında bunlara özgü güvenlik tedbirlerine de karar verilebilir. BEŞİNCİ KISIM Ticari D efterler A) Defter tutma ve envanter I - Defter tutma yükümlülüğü
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 63**, «Madde 63» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

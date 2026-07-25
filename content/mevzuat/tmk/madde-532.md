@@ -12,12 +12,11 @@ a. Düzenlenmesi**
 
 ---
 
-Madde 532 - Resmî va siyetn ame, iki tanığın katılmasıyla resmî memur tarafından düzenlenir.  Resmî memur, sulh hâkimi, noter veya ka nunla kendisine bu yetki verilmiş diğer bir görevli  olabilir.
+Madde 532 - Resmî va siyetn ame, iki tanığın katılmasıyla resmî memur tarafından düzenlenir. Resmî memur, sulh hâkimi, noter veya ka nunla kendisine bu yetki verilmiş diğer bir görevli olabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 532**, «Madde 532» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Resmî vasiyetnam e

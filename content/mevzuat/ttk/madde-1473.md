@@ -14,12 +14,11 @@ I
 
 ---
 
-Madde 1473 - (1)   Sigortacı   sorumluluk   sigortası   ile,   sözleşmede   aksine   hüküm  yoksa,   sigortalının   sözleşmede   öngörülen   ve   zarar   daha   so nra   doğsa   bile,   sigorta   süresi   içinde  gerçekleşen   bir   olaydan   kaynaklanan   sorumluluğu   nedeniyle   zarar   görene,   sigorta  sözleşmesinde   öngörülen   miktara   kadar   tazminat   öder.  (2)   Sigorta,   sigortalının   işletmesi   ile   ilgili   sorumluluğu   için   yaptırılmışsa,   sözle şmede  aksine   hüküm   yoksa   bu   sigorta,   sigortalının   temsilcisi   ile   işletmenin   veya   işletmenin   bir  kısmının   yönetiminde,   denetiminde   ve   işletmede   çalıştırılan   kişilerin   sorumluluğunu   da  karşılar.   Bu   durumda   sigorta   bu   kişilerin   lehine   yapılmış   sayılır.
+Madde 1473 - (1) Sigortacı sorumluluk sigortası ile, sözleşmede aksine hüküm yoksa, sigortalının sözleşmede öngörülen ve zarar daha so nra doğsa bile, sigorta süresi içinde gerçekleşen bir olaydan kaynaklanan sorumluluğu nedeniyle zarar görene, sigorta sözleşmesinde öngörülen miktara kadar tazminat öder. (2) Sigorta, sigortalının işletmesi ile ilgili sorumluluğu için yaptırılmışsa, sözle şmede aksine hüküm yoksa bu sigorta, sigortalının temsilcisi ile işletmenin veya işletmenin bir kısmının yönetiminde, denetiminde ve işletmede çalıştırılan kişilerin sorumluluğunu da karşılar. Bu durumda sigorta bu kişilerin lehine yapılmış sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1473**, «Madde 1473» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Sorumluluk sigortaları

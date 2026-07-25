@@ -11,13 +11,13 @@ wordCount: 4312
 
 ---
 
-Madde 236 - Borcunu  ifa  etmeyen  alıcı,  satıcının  bu  yüzden  uğradığı  zararı
+Madde 236 - Borcunu ifa etmeyen alıcı, satıcının bu yüzden uğradığı zararı
 gidermekle yükümlüdür.
 Satıcı, satış bedelini ödemede temerrüde düşmüş olan alıcıdan, bu bedel ile satılanın
 başkasına dürüstlük kurallarına uygun olarak satışından elde ettiği bedel arasındaki farka göre
 hesaplanacak zararın giderilmesini isteyebilir.
 Satılan, borsada kayıtlı veya piyasa fiyatı bulunan mallardan ise satıcı, böyle bir satışa
-gerek  kalmaksızın  alıcıdan,  satış  bedeli  ile  malın  belirlenmiş  ödeme  günündeki  fiyatı
+gerek kalmaksızın alıcıdan, satış bedeli ile malın belirlenmiş ödeme günündeki fiyatı
 arasındaki farka göre hesaplanacak zararın giderilmesini isteyebilir.
 
 ÜÇÜNCÜ AYIRIM
@@ -26,7 +26,6 @@ Taşınmaz Satışı ve Satış İlişkisi Doğuran Haklar
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 236**, «2. Zararın hesaplanması ve giderimi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 236 - Borcunu  ifa  etmeyen  alıcı,  satıcının  bu  yüzden  uğradığı  zararı

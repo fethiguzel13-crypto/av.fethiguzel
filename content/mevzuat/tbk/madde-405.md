@@ -12,7 +12,7 @@ wordCount: 4261
 ---
 
 Madde 405 - İşveren, bayram, yılbaşı ve doğum günü gibi belirli günler dolayısıyla
-işçilerine  özel  ikramiye  verebilir.  Ancak,  işçilerin  ikramiyeyi  istem  hakları  bu  konuda
+işçilerine özel ikramiye verebilir. Ancak, işçilerin ikramiyeyi istem hakları bu konuda
 anlaşmanın veya çalışma şartının ya da işverenin tek taraflı taahhüdünün varlığı hâlinde doğar.
 Hizmet sözleşmesi ikramiyenin verildiği dönemden önce sona ermişse, ikramiyenin
 çalıştığı süreye yansıyan bölümü ödenir.
@@ -20,7 +20,6 @@ Hizmet sözleşmesi ikramiyenin verildiği dönemden önce sona ermişse, ikrami
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 405**, «e. İkramiye» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 405 - İşveren, bayram, yılbaşı ve doğum günü gibi belirli günler dolayısıyla

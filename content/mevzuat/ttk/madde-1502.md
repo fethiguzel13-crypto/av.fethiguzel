@@ -12,12 +12,11 @@ wordCount: 4302
 
 ---
 
-Madde 1502 - (1)   En   az   bir   y ıldan   beri   yürürlükte   bulunan   ve   bir   yıllık   primi  ödenmiş   olan   sigorta   sözleşmelerinde,   sigorta   ettiren   daha   sonra   prim   ödeme   borcunu   yerine  getirmezse,   sigortacı   bu   sebeple   sözleşmeyi   feshedemez   ve   prim   isteyemez.   Bu   hâlde   sigorta,  prim   ödenmesinden   muaf   sigortaya   dönüşür.   Prim   ödenmesinden   muaf   sigortada,   sigorta  bedeli   ödenen   primle   sözleşme   uyarınca   ödenmesi   gereken   prim   arasındaki   orana   göre   ödenir.
+Madde 1502 - (1) En az bir y ıldan beri yürürlükte bulunan ve bir yıllık primi ödenmiş olan sigorta sözleşmelerinde, sigorta ettiren daha sonra prim ödeme borcunu yerine getirmezse, sigortacı bu sebeple sözleşmeyi feshedemez ve prim isteyemez. Bu hâlde sigorta, prim ödenmesinden muaf sigortaya dönüşür. Prim ödenmesinden muaf sigortada, sigorta bedeli ödenen primle sözleşme uyarınca ödenmesi gereken prim arasındaki orana göre ödenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1502**, «Madde 1502» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **XIII

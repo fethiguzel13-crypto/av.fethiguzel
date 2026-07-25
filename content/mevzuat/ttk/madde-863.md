@@ -12,12 +12,11 @@ wordCount: 4315
 
 ---
 
-Madde 863 - (1)   Sözleşmeden,   durumun   gereğinden   veya   ticari   teamü lden   aksi  anlaşılmadıkça;   gönderen,   eşyayı,   taşıma   güvenliğine   uygun   biçimde   araca   koyarak,  istifleyerek,   bağlayarak,   sabitleyerek   yüklemek   ve   aynı   şekilde   boşaltmak   zorundadır.  Taşıyıcı,   ayrıca   yüklemenin   işletme   güvenliğine   uygun   olmasını   sağlamakla   yükü mlüdür.  (2)   Yükleme   ve   boşaltma   ile   ilgili   olarak,   durumun   gereklerine   göre   belirlenecek  makul   bir   süre   için,   aksi   kararlaştırılmadıkça,   ayrıca   ücret   istenemez.  (3)   Taşıyıcı,   sözleşme   hükümlerine   dayanarak   veya   kendi   risk   alanından   kaynaklanmayan  nedenler le   makul   yükleme   veya   boşaltma   süresinden   daha   fazla   beklerse,   bekleme   ücreti   olarak  uygun   bir   ücrete   hak   kazanır.
+Madde 863 - (1) Sözleşmeden, durumun gereğinden veya ticari teamü lden aksi anlaşılmadıkça; gönderen, eşyayı, taşıma güvenliğine uygun biçimde araca koyarak, istifleyerek, bağlayarak, sabitleyerek yüklemek ve aynı şekilde boşaltmak zorundadır. Taşıyıcı, ayrıca yüklemenin işletme güvenliğine uygun olmasını sağlamakla yükü mlüdür. (2) Yükleme ve boşaltma ile ilgili olarak, durumun gereklerine göre belirlenecek makul bir süre için, aksi kararlaştırılmadıkça, ayrıca ücret istenemez. (3) Taşıyıcı, sözleşme hükümlerine dayanarak veya kendi risk alanından kaynaklanmayan nedenler le makul yükleme veya boşaltma süresinden daha fazla beklerse, bekleme ücreti olarak uygun bir ücrete hak kazanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 863**, «Madde 863» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VIII

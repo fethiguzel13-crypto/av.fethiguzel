@@ -12,12 +12,11 @@ wordCount: 4298
 
 ---
 
-Madde 1510 - (1)   Hayat   sigortalarında   sigortalıyı   düzenleyen   1490   ıncı   maddenin  ikinci   ilâ   dördüncü   fıkraları,   kaza   sonucu   ölüm   rizikosu   için   yapılan   sigortalarda   da   uygulanır.  (2)   Hayat   sigortalarına   ilişkin   diğer   hükümler,   kaza   sigortası   hakkında   da   kıyas  yoluyla   uygulanır.  (3)   Gerçek   zararın   sigortacı   tarafından   karşılanması   öngörülmüş   ise,   zarar   sigortalarına  ilişkin   hükümler,   kıyas   yoluyla   kaza   sigortası   hakkında   da   uygulanır.
+Madde 1510 - (1) Hayat sigortalarında sigortalıyı düzenleyen 1490 ıncı maddenin ikinci ilâ dördüncü fıkraları, kaza sonucu ölüm rizikosu için yapılan sigortalarda da uygulanır. (2) Hayat sigortalarına ilişkin diğer hükümler, kaza sigortası hakkında da kıyas yoluyla uygulanır. (3) Gerçek zararın sigortacı tarafından karşılanması öngörülmüş ise, zarar sigortalarına ilişkin hükümler, kıyas yoluyla kaza sigortası hakkında da uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1510**, «Madde 1510» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV

@@ -12,12 +12,11 @@ wordCount: 4301
 
 ---
 
-Madde 1323 - (1)   1320   nci   maddenin   birinci   fıkrasının   (a)   ilâ   (e)   bentlerinde   yazılı  gemi   alacaklılarının   sahip   olduğu   kanuni   rehin   hakkı,   gemi   üzerinde   tescil   edilmiş   veya  ed ilmemiş   olan   bütün   kanuni   ve   akdî   rehin   haklarıyla   ayni   yükümlülüklerden   önce   gelir.  (2)   1320   nci   maddenin   birinci   fıkrasının   (f)   bendinde   yazılı   gemi   alacaklılarının   haiz  bulundukları   kanuni   rehin   hakkı,   gemi   üzerinde   tescil   edilmiş   veya   edilmemiş   olan   bü tün  kanuni   ve   akdî   rehin   haklarıyla   ayni   yükümlülüklerden   sonra   gelir.  (3)   Karaya   oturmuş   veya   batmış   bir   geminin,   seyrüsefer   güvenliği   veya   deniz   çevresinin  korunması   amacıyla   kamu   kurumları   tarafından   kaldırılması   hâlinde,   bunun   giderleri,   bütün  gemi   ala caklarından   önce   ödenir.
+Madde 1323 - (1) 1320 nci maddenin birinci fıkrasının (a) ilâ (e) bentlerinde yazılı gemi alacaklılarının sahip olduğu kanuni rehin hakkı, gemi üzerinde tescil edilmiş veya ed ilmemiş olan bütün kanuni ve akdî rehin haklarıyla ayni yükümlülüklerden önce gelir. (2) 1320 nci maddenin birinci fıkrasının (f) bendinde yazılı gemi alacaklılarının haiz bulundukları kanuni rehin hakkı, gemi üzerinde tescil edilmiş veya edilmemiş olan bü tün kanuni ve akdî rehin haklarıyla ayni yükümlülüklerden sonra gelir. (3) Karaya oturmuş veya batmış bir geminin, seyrüsefer güvenliği veya deniz çevresinin korunması amacıyla kamu kurumları tarafından kaldırılması hâlinde, bunun giderleri, bütün gemi ala caklarından önce ödenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1323**, «Madde 1323» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

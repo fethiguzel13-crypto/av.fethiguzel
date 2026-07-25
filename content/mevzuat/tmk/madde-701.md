@@ -12,13 +12,12 @@ wordCount: 4260
 
 ---
 
-Madde 701 - Kanun veya kanunda öngörülen sözl eşmeler uyarınca oluşan top luluk  dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir.  Elbirliği mülkiyetinde ortakların belirlenmiş payları   olmayıp her birinin hakkı, ortaklığa  giren malların tamamına yaygındır.
-2. Hükümleri  Mad de   702 -   Ortakların   hakları   ve   yükümlülükleri,   topluluğu   doğuran   kanun   veya  sözleşme hükümleri ile belirlenir.  Kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, g erek yönetim, gerek tasarruf  işlemleri için ortakların oybirliğiyle karar vermeleri gereki r.  Sözleşmeden doğan toplu luk devam ettiği sürece, paylaşma yapılamaz ve bir pay üzerinde  tasarrufta bulunulamaz.  Ortaklardan her biri, topluluğa giren hakların koru nmasını sağlayabilir. Bu korumadan  bütün ortaklar yararlanır.
+Madde 701 - Kanun veya kanunda öngörülen sözl eşmeler uyarınca oluşan top luluk dolayısıyla mallara birlikte malik olanların mülkiyeti, elbirliği mülkiyetidir. Elbirliği mülkiyetinde ortakların belirlenmiş payları olmayıp her birinin hakkı, ortaklığa giren malların tamamına yaygındır.
+2. Hükümleri Mad de 702 - Ortakların hakları ve yükümlülükleri, topluluğu doğuran kanun veya sözleşme hükümleri ile belirlenir. Kanunda veya sözleşmede aksine bir hüküm bulunmadıkça, g erek yönetim, gerek tasarruf işlemleri için ortakların oybirliğiyle karar vermeleri gereki r. Sözleşmeden doğan toplu luk devam ettiği sürece, paylaşma yapılamaz ve bir pay üzerinde tasarrufta bulunulamaz. Ortaklardan her biri, topluluğa giren hakların koru nmasını sağlayabilir. Bu korumadan bütün ortaklar yararlanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 701**, «Madde 701» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Elbirliği mülkiyeti

@@ -11,13 +11,12 @@ wordCount: 4262
 
 ---
 
-Madde 463 - Aşağıdaki hâllerde vesayet makamının izninden sonra denetim makamı nın  da izni gereklidir:  1.   Vesayet altındaki kişinin evlât edinme si vey a evlât edinilmesi,  2. Vesayet altındaki kişinin vatandaşlığa girmesi veya çıkması,
-3. Bir işletmenin de vralınması veya tasf iyesi, kişisel sorumluluğu gerektiren bir ortaklığa  girilmesi   veya önemli bir sermaye il e bir şirkete ortak olunması,  4. Ömür   boyu a ylık veya gelir bağlama veya ölünceye kadar bakma sözleşmeleri yapılması,  5. Mirasın kabulü, reddi veya   miras sözleşmesi yapılması,  6. Küçüğün ergin kılınması,  7. Vesayet altındaki kişi   ile vasi arasında sözleşme   yapılması.
+Madde 463 - Aşağıdaki hâllerde vesayet makamının izninden sonra denetim makamı nın da izni gereklidir: 1. Vesayet altındaki kişinin evlât edinme si vey a evlât edinilmesi, 2. Vesayet altındaki kişinin vatandaşlığa girmesi veya çıkması,
+3. Bir işletmenin de vralınması veya tasf iyesi, kişisel sorumluluğu gerektiren bir ortaklığa girilmesi veya önemli bir sermaye il e bir şirkete ortak olunması, 4. Ömür boyu a ylık veya gelir bağlama veya ölünceye kadar bakma sözleşmeleri yapılması, 5. Mirasın kabulü, reddi veya miras sözleşmesi yapılması, 6. Küçüğün ergin kılınması, 7. Vesayet altındaki kişi ile vasi arasında sözleşme yapılması.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 463**, «II. Denetim makamın dan» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 463 - Aşağıdaki hâllerde vesayet makamının izninden sonra denetim makamı nın  da izni gereklidir:  1.   Vesayet altındaki kişinin evlât edinme si vey a evlât edinilmesi,  2. Vesayet altındaki kişinin vatandaşlığa girmesi veya çıkması,

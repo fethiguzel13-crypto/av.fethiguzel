@@ -12,13 +12,12 @@ wordCount: 4299
 
 ---
 
-Madde 1271 - (1)   Yolcunun   ölümü   veya   yaralanması   sonucunu   doğuran   olaydan
-veya   bagajın   zıyaa   veya   hasara   uğramasından   önce   yapılmış   olan   sözleşmelerde   yer   alan,   bu  Bölüm   hükümlerine   göre   sorumlu   herhangi   bir   kişinin   sorumluluğunu   kaldıran   veya   1263  üncü   maddenin   dördüncü   fıkrası   hükmü   saklı   kalmak   kaydıyla,   bu   Bölümde   öngörülen  sorumluluk   sınırlarını   indiren   veya   taşıyana   veya   fiilî   taşıyana   düşen   ispat   yükünün   yerini  değiştiren   her   şart   hükümsüzdür.   Şartın   hü kümsüzlüğü,   taşıma   sözleşmesinin   geçersizliği  sonucunu   doğurmaz.  (2)   Tazminat   istemi   doğmadan   önce   yapılan   yetki   ve   tahkim   sözleşmeleri   geçerli   değildir.  BEŞİNCİ   KISIM  Deniz   Kazaları  BİRİNCİ   BÖLÜM  Müşterek   Avarya  A)   Genel   hükümler  I -   Tanım
+Madde 1271 - (1) Yolcunun ölümü veya yaralanması sonucunu doğuran olaydan
+veya bagajın zıyaa veya hasara uğramasından önce yapılmış olan sözleşmelerde yer alan, bu Bölüm hükümlerine göre sorumlu herhangi bir kişinin sorumluluğunu kaldıran veya 1263 üncü maddenin dördüncü fıkrası hükmü saklı kalmak kaydıyla, bu Bölümde öngörülen sorumluluk sınırlarını indiren veya taşıyana veya fiilî taşıyana düşen ispat yükünün yerini değiştiren her şart hükümsüzdür. Şartın hü kümsüzlüğü, taşıma sözleşmesinin geçersizliği sonucunu doğurmaz. (2) Tazminat istemi doğmadan önce yapılan yetki ve tahkim sözleşmeleri geçerli değildir. BEŞİNCİ KISIM Deniz Kazaları BİRİNCİ BÖLÜM Müşterek Avarya A) Genel hükümler I - Tanım
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1271**, «Madde 1271» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **XVI

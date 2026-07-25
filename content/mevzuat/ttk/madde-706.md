@@ -13,13 +13,12 @@ wordCount: 4260
 
 ---
 
-Madde 706 - (1)   Düzenlenme   gününden   veya   görüldükten   bir   veya   birkaç   ay   sonra  ödenmek   üzere   düzenlenen   bir   poliçenin   vadesi,   ödemenin   yapılması   gereken   ayın   o   günün  karşılığı   olan   gününde   gelmiş   olur.   Karşılığı   olan   gün   bulunmadığı   takdirde   vade   o   ayın   son  günü   gelmiş   olur.  (2)   Bir   poliçe,   düzenlenme   gününden   veya   görüldükten   bir   buçuk   ay   veya   birkaç   ay  veya   yarım   ay   so nra   ödenmek   üzere   düzenlendiği   takdirde,   ilk   önce   tam   aylar   hesap   edilir.  (3)   Vade   olarak   bir   ayın   başı,   ortası   veya   sonu   gösterilmişse,   bunlardan   ayın   birinci,  onbeşinci   ve   sonuncu   günleri   anlaşılır.
-(4)   “Sekiz   gün”   veya   “onbeş   gün”   ibarelerinden   bir   veya   iki   hafta   değil,   gerçek   olarak  sekiz   veya   onbeş   günlük   bir   süre   anlaşılır.  (5)   “Yarım   ay”   ibaresi   onbeş   günlük   bir   süreyi   ifade   eder.
+Madde 706 - (1) Düzenlenme gününden veya görüldükten bir veya birkaç ay sonra ödenmek üzere düzenlenen bir poliçenin vadesi, ödemenin yapılması gereken ayın o günün karşılığı olan gününde gelmiş olur. Karşılığı olan gün bulunmadığı takdirde vade o ayın son günü gelmiş olur. (2) Bir poliçe, düzenlenme gününden veya görüldükten bir buçuk ay veya birkaç ay veya yarım ay so nra ödenmek üzere düzenlendiği takdirde, ilk önce tam aylar hesap edilir. (3) Vade olarak bir ayın başı, ortası veya sonu gösterilmişse, bunlardan ayın birinci, onbeşinci ve sonuncu günleri anlaşılır.
+(4) “Sekiz gün” veya “onbeş gün” ibarelerinden bir veya iki hafta değil, gerçek olarak sekiz veya onbeş günlük bir süre anlaşılır. (5) “Yarım ay” ibaresi onbeş günlük bir süreyi ifade eder.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 706**, «Madde 706» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

@@ -14,12 +14,12 @@ I. Sona erme sebepleri
 ---
 
 Madde 639 - Ortaklık, aşağıdaki durumlarda sona erer:
-1.  Ortaklık  sözleşmesinde  öngörülen  amacın  gerçekleşmesi  veya  gerçekleşmesinin
+1. Ortaklık sözleşmesinde öngörülen amacın gerçekleşmesi veya gerçekleşmesinin
 imkânsız duruma gelmesiyle.
-2.  Sözleşmede  ortaklığın  mirasçılarla  sürdürülmesi  konusunda  bir  hüküm  yoksa,
+2. Sözleşmede ortaklığın mirasçılarla sürdürülmesi konusunda bir hüküm yoksa,
 ortaklardan birinin ölmesiyle.
 
-3.  Sözleşmede  ortaklığın  devam edeceğine  ilişkin  bir  hüküm  yoksa,  bir ortağın
+3. Sözleşmede ortaklığın devam edeceğine ilişkin bir hüküm yoksa, bir ortağın
 kısıtlanması, iflası veya tasfiyedeki payının cebrî icra yoluyla paraya çevrilmesiyle.
 4. Bütün ortakların oybirliğiyle karar vermesiyle.
 5. Ortaklık için kararlaştırılmış olan sürenin bitmesiyle.
@@ -32,7 +32,6 @@ istemi üzerine mahkeme kararıyla.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 639**, «Madde 639» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **D. Ortaklığın sona ermesi

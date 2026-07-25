@@ -11,18 +11,17 @@ wordCount: 4315
 
 ---
 
-Madde 279 - Artırmada  taşınır  bir  mal  alan  kişi,  onun  mülkiyetini  ihale  anında
+Madde 279 - Artırmada taşınır bir mal alan kişi, onun mülkiyetini ihale anında
 kazanır. Artırmadan alınan taşınmazın mülkiyeti, ancak tapu siciline tescille alıcıya geçer.
 Artırma görevlisi, satış tutanağında gösterilen taşınmazın alıcı adına tescilini hemen
 tapu idaresine bildirir.
-Cebrî  artırma  sonucunda  yapılan  ihalelerde  mülkiyetin  geçmesine  ilişkin  özel
+Cebrî artırma sonucunda yapılan ihalelerde mülkiyetin geçmesine ilişkin özel
 hükümler saklıdır.
 İsteğe bağlı özel artırmalarda mülkiyetin geçmesi genel hükümlere tabidir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 279**, «3. Mülkiyetin geçmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 279 - Artırmada  taşınır  bir  mal  alan  kişi,  onun  mülkiyetini  ihale  anında

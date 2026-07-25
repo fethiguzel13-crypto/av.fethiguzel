@@ -11,12 +11,11 @@ wordCount: 4316
 
 ---
 
-Madde 328 - (1)   Kollektif   şirketlerin   sona   ermesine,   tasfiyesine   ve   ortakların  şirketten   çıkma   ve   çıkarılmasına   ilişkin   243   ilâ   303   üncü   madde   hükümleri   komandit  şirketlerde   de   uygulanır.   Ancak,   şirket   sözleşm esinde   aksine   bir   hüküm   bulunmadıkça  komanditerin   ölümü   veya   kısıtlanması   şirketin   sona   ermesi   sonucunu   doğurmaz.  DÖRDÜNCÜ   KISIM  Anonim   Şirket  BİRİNCİ   BÖLÜM  Genel   Hükümler,   Kuruluş   ve   Temel   İlkeler  A)   Genel   Hükümler  I   -   Tanım
+Madde 328 - (1) Kollektif şirketlerin sona ermesine, tasfiyesine ve ortakların şirketten çıkma ve çıkarılmasına ilişkin 243 ilâ 303 üncü madde hükümleri komandit şirketlerde de uygulanır. Ancak, şirket sözleşm esinde aksine bir hüküm bulunmadıkça komanditerin ölümü veya kısıtlanması şirketin sona ermesi sonucunu doğurmaz. DÖRDÜNCÜ KISIM Anonim Şirket BİRİNCİ BÖLÜM Genel Hükümler, Kuruluş ve Temel İlkeler A) Genel Hükümler I - Tanım
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 328**, «Madde 328» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 328 - (1)   Kollektif   şirketlerin   sona   ermesine,   tasfiyesine   ve   ortakların  şirketten   çıkma   ve   çıkarılmasına   ilişkin   243   ilâ   303   üncü   madde   hükümleri   komandit  şirketlerde   de   uygulanır.   Ancak,   şirket   sözleşm esinde   aksine   bir   hüküm   bulunmadıkça  komanditerin   ölümü   veya   kısıtlanması   şirketin   sona   ermesi   sonucunu   doğurmaz.  DÖ… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

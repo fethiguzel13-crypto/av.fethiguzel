@@ -12,12 +12,11 @@ a) Sermaye artırımı**
 
 ---
 
-Madde 142 - (1)   Devralma   yoluyla   birleşmede,   devralan   şirket,   sermayesini,  devrolunan   şirketin   ortaklarının   haklarının   korunabilmesi   için   gerekli   olan   düzeyde,   artırmak  zorundadır.  (2)   Birleşmede,   ayni   sermaye   konulmasına   ilişkin   düzenlemelerle,   halka   açık   anonim  şirketlerde,   yeni   payların   halka   arzına   dair   hükümler,   Sermaye   Piy asası   Kurulu   kaydına  alınmasına   ilişkin   olanlar   müstesna,   uygulanmaz.
+Madde 142 - (1) Devralma yoluyla birleşmede, devralan şirket, sermayesini, devrolunan şirketin ortaklarının haklarının korunabilmesi için gerekli olan düzeyde, artırmak zorundadır. (2) Birleşmede, ayni sermaye konulmasına ilişkin düzenlemelerle, halka açık anonim şirketlerde, yeni payların halka arzına dair hükümler, Sermaye Piy asası Kurulu kaydına alınmasına ilişkin olanlar müstesna, uygulanmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 142**, «Madde 142» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **3. Sermaye artırımı, yeni kuruluş ve ara bilanço

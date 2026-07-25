@@ -9,25 +9,44 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
-    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700&family=Outfit:wght@600;700&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400&family=Outfit:wght@500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap"
     rel="stylesheet" />
   <style>
     :root {
       --primary: #2E4036;
-      --accent: #CC5833;
-      --cream: #F2F0E9;
-      --charcoal: #1A1A1A;
+      --primary-soft: #3d5246;
+      --accent: #C45A38;
+      --accent-soft: rgba(196, 90, 56, 0.12);
+      --cream: #F4F1EA;
+      --cream-deep: #EBE7DD;
+      --paper: #FFFEFA;
+      --charcoal: #1C1C1C;
+      --ink: rgba(28, 28, 28, 0.88);
+      --muted: rgba(28, 28, 28, 0.52);
+      --line: rgba(28, 28, 28, 0.08);
+      --shadow: 0 12px 40px -16px rgba(28, 28, 28, 0.12);
+      --radius: 1.25rem;
+      --measure: 42rem;
     }
 
     * {
       box-sizing: border-box;
     }
 
+    html {
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+    }
+
     body {
       margin: 0;
       font-family: "Plus Jakarta Sans", system-ui, sans-serif;
       background: var(--cream);
+      background-image:
+        radial-gradient(ellipse 80% 50% at 0% 0%, rgba(196, 90, 56, 0.05), transparent 55%),
+        radial-gradient(ellipse 60% 40% at 100% 10%, rgba(46, 64, 54, 0.06), transparent 50%);
       color: var(--charcoal);
+      min-height: 100vh;
     }
 
     a {
@@ -37,130 +56,22 @@
 
     a:hover {
       text-decoration: underline;
+      text-underline-offset: 3px;
     }
 
-    .wrap {
-      max-width: 48rem;
-      margin: 0 auto;
-      padding: 2rem 1.25rem 4rem;
-    }
-
-    .nav {
-      font-size: 0.75rem;
-      color: rgba(26, 26, 26, .5);
-      margin-bottom: 2rem;
-    }
-
-    .nav a {
-      color: inherit;
-    }
-
-    .nav a:hover {
-      color: var(--accent);
-    }
-
-    .kanun {
-      color: var(--accent);
-      font-size: 10px;
-      letter-spacing: .25em;
-      text-transform: uppercase;
-      font-weight: 700;
-      margin-bottom: .5rem;
-    }
-
-    h1 {
-      font-family: Outfit, system-ui, sans-serif;
-      font-size: clamp(1.6rem, 4vw, 2.25rem);
-      margin: 0 0 2rem;
-      line-height: 1.2;
-    }
-
-    .official {
-      background: var(--primary);
-      color: rgba(242, 240, 233, .95);
-      border-radius: 2rem;
-      padding: 2rem;
-      margin-bottom: 1.5rem;
-      box-shadow: 0 20px 50px -16px rgba(26, 26, 26, .2);
-    }
-
-    .official h2,
-    .commentary h2 {
-      font-size: 10px;
-      letter-spacing: .3em;
-      text-transform: uppercase;
-      color: var(--accent);
-      margin: 0 0 1.25rem;
-    }
-
-    .commentary {
-      background: #fff;
-      border: 1px solid rgba(26, 26, 26, .08);
-      border-radius: 2rem;
-      padding: 2rem;
-    }
-
-    .prose p {
-      line-height: 1.85;
-      margin: 0 0 1rem;
-    }
-
-    .prose h3 {
-      margin: 1.5rem 0 .75rem;
-      font-family: Outfit, sans-serif;
-    }
-
-    .prose strong {
-      color: var(--accent);
-    }
-
-    .official .prose strong {
-      color: var(--accent);
-    }
-
-    .pulse {
-      animation: pulse 1.2s ease-in-out infinite;
-    }
-
-    .pulse>div {
-      background: rgba(26, 26, 26, .08);
-      border-radius: 1rem;
-      margin-bottom: 1rem;
-    }
-
-    @keyframes pulse {
-      50% {
-        opacity: .55;
-      }
-    }
-
-    .err {
-      background: #fff;
-      border: 1px solid #fecaca;
-      border-radius: 1rem;
-      padding: 1.5rem;
-    }
-
-    .err pre {
-      white-space: pre-wrap;
-      font-size: 12px;
-      background: rgba(26, 26, 26, .05);
-      padding: 1rem;
-      border-radius: .75rem;
-    }
-
+    /* —— chrome —— */
     header.top {
-      background: rgba(242, 240, 233, .9);
-      border-bottom: 1px solid rgba(26, 26, 26, .06);
-      padding: 1rem 1.25rem;
+      background: rgba(244, 241, 234, 0.92);
+      border-bottom: 1px solid var(--line);
+      padding: 0.9rem 1.25rem;
       position: sticky;
       top: 0;
-      backdrop-filter: blur(10px);
-      z-index: 10;
+      backdrop-filter: blur(12px);
+      z-index: 20;
     }
 
     header.top .inner {
-      max-width: 48rem;
+      max-width: calc(var(--measure) + 4rem);
       margin: 0 auto;
       display: flex;
       justify-content: space-between;
@@ -168,8 +79,448 @@
       gap: 1rem;
     }
 
-    header.top strong {
-      font-family: Outfit, sans-serif;
+    header.top .brand {
+      font-family: Outfit, system-ui, sans-serif;
+      font-weight: 700;
+      font-size: 0.95rem;
+      letter-spacing: -0.02em;
+      color: var(--charcoal);
+      text-decoration: none;
+    }
+
+    header.top .brand:hover {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    header.top .nav-link {
+      font-size: 0.8rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      color: var(--muted);
+    }
+
+    .wrap {
+      max-width: calc(var(--measure) + 2rem);
+      margin: 0 auto;
+      padding: 1.75rem 1.15rem 5rem;
+    }
+
+    .nav {
+      font-size: 0.72rem;
+      color: var(--muted);
+      margin-bottom: 1.75rem;
+      letter-spacing: 0.02em;
+    }
+
+    .nav a {
+      color: var(--muted);
+    }
+
+    .nav a:hover {
+      color: var(--accent);
+    }
+
+    /* —— page title —— */
+    .page-head {
+      margin-bottom: 1.75rem;
+    }
+
+    .kanun {
+      display: inline-block;
+      color: var(--accent);
+      font-size: 0.68rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      font-weight: 700;
+      margin: 0 0 0.65rem;
+    }
+
+    .page-head h1 {
+      font-family: Outfit, system-ui, sans-serif;
+      font-size: clamp(1.55rem, 4.2vw, 2.15rem);
+      font-weight: 700;
+      margin: 0;
+      line-height: 1.2;
+      letter-spacing: -0.025em;
+      color: var(--charcoal);
+    }
+
+    .page-head .madde-badge {
+      display: inline-flex;
+      align-items: center;
+      margin-top: 0.85rem;
+      padding: 0.35rem 0.75rem;
+      border-radius: 999px;
+      background: var(--accent-soft);
+      color: var(--accent);
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+    }
+
+    /* —— panels —— */
+    .panel {
+      border-radius: var(--radius);
+      margin-bottom: 1.35rem;
+      box-shadow: var(--shadow);
+    }
+
+    .panel-label {
+      font-size: 0.65rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      font-weight: 700;
+      margin: 0 0 1.15rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .panel-label::before {
+      content: "";
+      width: 1.25rem;
+      height: 2px;
+      background: var(--accent);
+      border-radius: 1px;
+      flex-shrink: 0;
+    }
+
+    .official {
+      background: linear-gradient(165deg, var(--primary) 0%, #24352c 100%);
+      color: rgba(255, 254, 250, 0.94);
+      padding: 1.65rem 1.5rem 1.85rem;
+    }
+
+    @media (min-width: 640px) {
+      .official {
+        padding: 2rem 2.15rem 2.25rem;
+      }
+    }
+
+    .official .panel-label {
+      color: #e8a48a;
+    }
+
+    .official .panel-label::before {
+      background: #e8a48a;
+    }
+
+    .commentary {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      padding: 1.65rem 1.5rem 2.25rem;
+    }
+
+    @media (min-width: 640px) {
+      .commentary {
+        padding: 2.1rem 2.25rem 2.75rem;
+      }
+    }
+
+    .commentary .panel-label {
+      color: var(--accent);
+    }
+
+    /* —— prose: eye-friendly legal reading —— */
+    .prose {
+      font-family: "Source Serif 4", "Times New Roman", Georgia, serif;
+      font-size: 1.0625rem;
+      line-height: 1.82;
+      color: var(--ink);
+      max-width: 100%;
+    }
+
+    .official .prose {
+      font-size: 1.05rem;
+      line-height: 1.9;
+      color: rgba(255, 254, 250, 0.93);
+    }
+
+    /* NO squares / list markers on headings */
+    .prose h1,
+    .prose h2,
+    .prose h3,
+    .prose h4,
+    .prose h5,
+    .prose h6 {
+      list-style: none;
+      font-family: Outfit, "Plus Jakarta Sans", system-ui, sans-serif;
+      font-weight: 700;
+      letter-spacing: -0.02em;
+      line-height: 1.3;
+      color: var(--charcoal);
+    }
+
+    .prose h1::before,
+    .prose h2::before,
+    .prose h3::before,
+    .prose h4::before,
+    .prose h5::before,
+    .prose h6::before {
+      content: none !important;
+      display: none !important;
+    }
+
+    /* h3 = rare top-level in commentary */
+    .prose h3 {
+      font-size: 1.35rem;
+      margin: 2.5rem 0 0.9rem;
+      padding-bottom: 0.55rem;
+      border-bottom: 2px solid rgba(196, 90, 56, 0.28);
+      color: var(--charcoal);
+    }
+
+    /* h4 = #### main sections — dominant, bold */
+    .prose h4 {
+      font-size: 1.2rem;
+      margin: 2.15rem 0 0.75rem;
+      padding: 0 0 0.45rem 0;
+      border-bottom: 1px solid var(--line);
+      color: var(--primary);
+      font-weight: 700;
+    }
+
+    /* h5 = ##### subsections */
+    .prose h5 {
+      font-size: 1.05rem;
+      margin: 1.65rem 0 0.55rem;
+      color: var(--accent);
+      font-weight: 700;
+      border: none;
+      padding: 0;
+    }
+
+    .prose h6 {
+      font-size: 0.98rem;
+      margin: 1.35rem 0 0.45rem;
+      color: var(--primary-soft);
+      font-weight: 700;
+      text-transform: none;
+    }
+
+    .prose h3:first-child,
+    .prose h4:first-child,
+    .prose h5:first-child {
+      margin-top: 0.25rem;
+    }
+
+    .prose p {
+      margin: 0 0 1.05rem;
+      orphans: 3;
+      widows: 3;
+    }
+
+    .prose p:last-child {
+      margin-bottom: 0;
+    }
+
+    /* Bold in body: dark weight, not noisy orange everywhere */
+    .prose strong {
+      font-weight: 700;
+      color: var(--charcoal);
+      font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+      font-size: 0.96em;
+    }
+
+    .official .prose strong {
+      color: #fff;
+      font-weight: 700;
+    }
+
+    .prose em {
+      font-style: italic;
+      color: rgba(28, 28, 28, 0.78);
+    }
+
+    .official .prose em {
+      color: rgba(255, 254, 250, 0.88);
+    }
+
+    /* Inline / block quotes — stand out */
+    .prose blockquote {
+      margin: 1.35rem 0;
+      padding: 0.95rem 1.15rem 0.95rem 1.2rem;
+      border-left: 3px solid var(--accent);
+      background: rgba(196, 90, 56, 0.06);
+      border-radius: 0 0.65rem 0.65rem 0;
+      color: rgba(28, 28, 28, 0.82);
+      font-style: italic;
+      font-size: 1.02rem;
+      line-height: 1.75;
+    }
+
+    .prose blockquote p {
+      margin-bottom: 0.5rem;
+    }
+
+    .prose blockquote p:last-child {
+      margin-bottom: 0;
+    }
+
+    .official .prose blockquote {
+      background: rgba(255, 255, 255, 0.06);
+      border-left-color: #e8a48a;
+      color: rgba(255, 254, 250, 0.9);
+    }
+
+    /* Inline quotation marks emphasis */
+    .prose q,
+    .prose .quote-inline {
+      font-style: italic;
+      color: var(--primary);
+      background: rgba(46, 64, 54, 0.06);
+      padding: 0.05em 0.25em;
+      border-radius: 0.2em;
+    }
+
+    /* Lists — soft circles, never squares */
+    .prose ul,
+    .prose ol {
+      margin: 0.85rem 0 1.2rem;
+      padding-left: 1.35rem;
+    }
+
+    .prose ul {
+      list-style-type: disc;
+    }
+
+    .prose ul ul {
+      list-style-type: circle;
+    }
+
+    .prose ol {
+      list-style-type: decimal;
+    }
+
+    .prose li {
+      margin: 0.4rem 0;
+      padding-left: 0.25rem;
+      line-height: 1.8;
+    }
+
+    .prose li::marker {
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    .official .prose li::marker {
+      color: #e8a48a;
+    }
+
+    .prose hr {
+      border: none;
+      height: 1px;
+      background: var(--line);
+      margin: 1.75rem 0;
+    }
+
+    .official .prose hr {
+      background: rgba(255, 255, 255, 0.12);
+      margin: 1.25rem 0;
+    }
+
+    /* Statute lead line: "Madde 1 - …" */
+    .prose .statute-lead {
+      font-family: "Source Serif 4", Georgia, serif;
+      font-weight: 600;
+      font-size: 1.08rem;
+      line-height: 1.85;
+    }
+
+    .official .prose .statute-margin {
+      font-family: Outfit, system-ui, sans-serif;
+      font-size: 0.78rem;
+      font-weight: 700;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      color: #e8a48a;
+      margin: 0 0 0.85rem;
+    }
+
+    /* Nav between articles */
+    .pager {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.65rem;
+      margin-top: 1.75rem;
+      justify-content: space-between;
+    }
+
+    .pager a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.65rem 1rem;
+      border-radius: 999px;
+      background: var(--paper);
+      border: 1px solid var(--line);
+      color: var(--charcoal);
+      font-size: 0.8rem;
+      font-weight: 600;
+      font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+      text-decoration: none;
+      transition: border-color 0.2s, color 0.2s;
+    }
+
+    .pager a:hover {
+      border-color: rgba(196, 90, 56, 0.4);
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    .pager .spacer {
+      flex: 1;
+    }
+
+    /* loading / error */
+    .pulse {
+      animation: pulse 1.2s ease-in-out infinite;
+    }
+
+    .pulse>div {
+      background: rgba(28, 28, 28, 0.07);
+      border-radius: 1rem;
+      margin-bottom: 1rem;
+    }
+
+    @keyframes pulse {
+      50% {
+        opacity: 0.55;
+      }
+    }
+
+    .err {
+      background: var(--paper);
+      border: 1px solid #fecaca;
+      border-radius: var(--radius);
+      padding: 1.5rem;
+    }
+
+    .err pre {
+      white-space: pre-wrap;
+      font-size: 12px;
+      background: rgba(28, 28, 28, 0.04);
+      padding: 1rem;
+      border-radius: 0.75rem;
+    }
+
+    @media print {
+      header.top {
+        display: none;
+      }
+
+      body {
+        background: #fff;
+      }
+
+      .official {
+        box-shadow: none;
+        print-color-adjust: exact;
+        -webkit-print-color-adjust: exact;
+      }
     }
   </style>
 </head>
@@ -177,19 +528,19 @@
 <body>
   <header class="top">
     <div class="inner">
-      <strong><a href="/" style="color:inherit;text-decoration:none">Av. Fethi Güzel</a></strong>
-      <a href="/mevzuat">Mevzuat</a>
+      <a class="brand" href="/">Av. Fethi Güzel</a>
+      <a class="nav-link" href="/mevzuat">Mevzuat</a>
     </div>
   </header>
   <div class="wrap">
-    <nav class="nav" id="crumb">
-      <a href="/">Ana Sayfa</a> / <a href="/mevzuat">Mevzuat</a> / <span id="crumb-tail">Madde</span>
+    <nav class="nav" id="crumb" aria-label="Sayfa konumu">
+      <a href="/">Ana Sayfa</a> · <a href="/mevzuat">Mevzuat</a> · <span id="crumb-tail">Madde</span>
     </nav>
     <div id="app">
       <div class="pulse">
         <div style="height:2.5rem;width:66%"></div>
-        <div style="height:16rem;background:rgba(46,64,54,.15)"></div>
-        <div style="height:24rem"></div>
+        <div style="height:14rem;background:rgba(46,64,54,.12)"></div>
+        <div style="height:22rem"></div>
       </div>
     </div>
   </div>
@@ -197,7 +548,6 @@
     (function () {
       function parseIds() {
         var path = location.pathname.replace(/\/+$/, '');
-        // /mevzuat/tmk/madde-1 or /mevzuat-viewer.html
         var m = path.match(/\/mevzuat\/([^/]+)\/([^/]+)$/);
         if (m && m[1] !== 'goster') {
           return { kanunId: decodeURIComponent(m[1]), id: decodeURIComponent(m[2]) };
@@ -213,20 +563,149 @@
           .replace(/>/g, '&gt;');
       }
 
-      function mdToHtml(md) {
-        var html = escapeHtml(md || '');
-        html = html.replace(/^### (.+)$/gm, '<h3>$1</h3>');
-        html = html.replace(/^## (.+)$/gm, '<h2>$1</h2>');
-        html = html.replace(/^# (.+)$/gm, '<h1>$1</h1>');
-        html = html.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
-        html = html.replace(/\*(.+?)\*/g, '<em>$1</em>');
-        html = html.replace(/^(?!<h[1-3]>)(.+)$/gm, function (line) {
+      /** Soft-clean official statute spacing without changing meaning */
+      function cleanOfficial(md) {
+        return String(md || '')
+          .replace(/[ \t]{2,}/g, ' ')
+          .replace(/\n{3,}/g, '\n\n')
+          .trim();
+      }
+
+      /**
+       * Markdown → HTML for legal commentary.
+       * Supports #–###### headings (so #### no longer shows as raw hashes/“kare”).
+       * Lists, hr, blockquotes, bold/italic.
+       */
+      function mdToHtml(md, opts) {
+        opts = opts || {};
+        var text = String(md || '').replace(/\r\n/g, '\n').trim();
+        if (!text) return '';
+
+        var lines = text.split('\n');
+        var out = [];
+        var i = 0;
+        var inUl = false;
+        var inOl = false;
+        var inBq = false;
+        var para = [];
+
+        function closeLists() {
+          if (inUl) { out.push('</ul>'); inUl = false; }
+          if (inOl) { out.push('</ol>'); inOl = false; }
+        }
+        function closeBq() {
+          if (inBq) { out.push('</blockquote>'); inBq = false; }
+        }
+        function flushPara() {
+          if (!para.length) return;
+          var body = para.join(' ').replace(/\s+/g, ' ').trim();
+          para = [];
+          if (!body) return;
+          // Statute lead line
+          if (opts.official && /^Madde\s+\d+/i.test(body)) {
+            out.push('<p class="statute-lead">' + inlineFormat(body) + '</p>');
+            return;
+          }
+          // Margin heading like "1. Genel olarak" only in official
+          if (opts.official && /^\d+\.\s+\S/.test(body) && body.length < 80 && !/Madde\s+\d+/i.test(body)) {
+            out.push('<p class="statute-margin">' + inlineFormat(body) + '</p>');
+            return;
+          }
+          out.push('<p>' + inlineFormat(body) + '</p>');
+        }
+
+        function inlineFormat(s) {
+          s = escapeHtml(s);
+          // bold / italic (order: bold first)
+          s = s.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+          s = s.replace(/(^|[^*\w])\*(?!\s)(.+?)(?!\s)\*(?!\*)/g, '$1<em>$2</em>');
+          // «…» or "…" soft quote highlight
+          s = s.replace(/[«"]([^»"\n]{3,160})[»"]/g, '<span class="quote-inline">«$1»</span>');
+          // Kanun madde shortcuts stay readable
+          return s;
+        }
+
+        while (i < lines.length) {
+          var raw = lines[i];
+          var line = raw.trimEnd();
           var t = line.trim();
-          if (!t) return '';
-          if (t.charAt(0) === '<') return t;
-          return '<p>' + t + '</p>';
-        });
-        return html;
+          i++;
+
+          if (!t) {
+            flushPara();
+            closeLists();
+            closeBq();
+            continue;
+          }
+
+          // horizontal rule
+          if (/^(-{3,}|_{3,}|\*{3,})$/.test(t)) {
+            flushPara();
+            closeLists();
+            closeBq();
+            out.push('<hr />');
+            continue;
+          }
+
+          // headings ###### … #  (longest first) — strips hashes so no “kare” artifacts
+          var hm = t.match(/^(#{1,6})\s+(.+)$/);
+          if (hm) {
+            flushPara();
+            closeLists();
+            closeBq();
+            var level = hm[1].length;
+            // Map ####→h4, #####→h5 for hierarchy (commentary uses #### as main)
+            var tag = 'h' + Math.min(level, 6);
+            var title = hm[2].replace(/\s*#+\s*$/, '').trim();
+            // strip residual leading hashes
+            title = title.replace(/^#+\s*/, '');
+            out.push('<' + tag + '>' + inlineFormat(title) + '</' + tag + '>');
+            continue;
+          }
+
+          // blockquote
+          if (/^>\s?/.test(t)) {
+            flushPara();
+            closeLists();
+            if (!inBq) { out.push('<blockquote>'); inBq = true; }
+            out.push('<p>' + inlineFormat(t.replace(/^>\s?/, '')) + '</p>');
+            continue;
+          } else {
+            closeBq();
+          }
+
+          // unordered list (- or * or •)
+          var ulm = t.match(/^[-*•]\s+(.+)$/);
+          if (ulm) {
+            flushPara();
+            if (inOl) { out.push('</ol>'); inOl = false; }
+            if (!inUl) { out.push('<ul>'); inUl = true; }
+            out.push('<li>' + inlineFormat(ulm[1]) + '</li>');
+            continue;
+          }
+
+          // ordered list
+          var olm = t.match(/^\d+[.)]\s+(.+)$/);
+          // Don't treat "1. Genel olarak" short margin titles as list in official
+          if (olm && !(opts.official && t.length < 60 && /^\d+\.\s+[A-ZÇĞİÖŞÜa-zçğıöşü]/.test(t) && !/[.!?].+\s/.test(olm[1]))) {
+            // If looks like a full sentence list item
+            if (olm[1].length > 40 || /[.;:]/.test(olm[1]) || opts.listOk) {
+              flushPara();
+              if (inUl) { out.push('</ul>'); inUl = false; }
+              if (!inOl) { out.push('<ol>'); inOl = true; }
+              out.push('<li>' + inlineFormat(olm[1]) + '</li>');
+              continue;
+            }
+          }
+
+          // continuation / paragraph
+          closeLists();
+          para.push(t);
+        }
+        flushPara();
+        closeLists();
+        closeBq();
+        return out.join('\n');
       }
 
       async function gunzipToText(buf) {
@@ -242,23 +721,18 @@
         var res = await fetch(url, { cache: 'no-store' });
         if (!res.ok) throw new Error('Pack HTTP ' + res.status + ' (' + url + ')');
         var buf = await res.arrayBuffer();
-        if (buf.byteLength < 64) {
-          throw new Error('Pack boş (' + buf.byteLength + ' bayt) @ ' + url);
-        }
+        if (buf.byteLength < 64) throw new Error('Pack boş (' + buf.byteLength + ' bayt) @ ' + url);
         return buf;
       }
 
       async function loadPack(kanunId) {
-        // Prefer API (reads full packs from disk; bypasses CDN empty-stub cache)
-        // then static /content-packs as fallback.
         var kid = encodeURIComponent(kanunId);
-        // Local first; if Vercel still has empty stubs, load full packs from GitHub CDN.
         var urls = [
           '/packs/' + kid + '.json.gz',
           '/api/content-pack/' + kid,
           'https://cdn.jsdelivr.net/gh/fethiguzel13-crypto/av.fethiguzel@main/content-packs/' + kid + '.json.gz',
           'https://raw.githubusercontent.com/fethiguzel13-crypto/av.fethiguzel/main/content-packs/' + kid + '.json.gz',
-          '/content-packs/' + kid + '.json.gz?v=4',
+          '/content-packs/' + kid + '.json.gz?v=5',
         ];
         var lastErr;
         for (var i = 0; i < urls.length; i++) {
@@ -275,6 +749,35 @@
         throw lastErr || new Error('Pack yüklenemedi');
       }
 
+      function adjacentIds(pack, currentId) {
+        var keys = Object.keys(pack).sort(function (a, b) {
+          var na = pack[a].maddeNo || 0;
+          var nb = pack[b].maddeNo || 0;
+          if (na !== nb) return na - nb;
+          return a.localeCompare(b, 'tr');
+        });
+        var idx = keys.indexOf(currentId);
+        return {
+          prev: idx > 0 ? keys[idx - 1] : null,
+          next: idx >= 0 && idx < keys.length - 1 ? keys[idx + 1] : null,
+        };
+      }
+
+      function displayTitle(article, id) {
+        var t = (article && article.title) || id;
+        // Ensure "Madde N" alignment with maddeNo when title drifted
+        var n = article && article.maddeNo;
+        if (n) {
+          var m = t.match(/Madde\s*(\d+)/i);
+          if (m && parseInt(m[1], 10) !== n) {
+            t = t.replace(/Madde\s*\d+/i, 'Madde ' + n);
+          } else if (!m) {
+            t = t + (t ? ' — ' : '') + 'Madde ' + n;
+          }
+        }
+        return t;
+      }
+
       async function main() {
         var app = document.getElementById('app');
         var ids = parseIds();
@@ -282,23 +785,61 @@
           app.innerHTML = '<div class="err"><h1>Madde parametreleri eksik</h1><p>Lütfen <a href="/mevzuat">mevzuat listesinden</a> bir madde seçin.</p></div>';
           return;
         }
-        document.getElementById('crumb-tail').textContent = ids.kanunId + '/' + ids.id;
+        document.getElementById('crumb-tail').textContent = ids.kanunId + ' / ' + ids.id;
         try {
           var pack = await loadPack(ids.kanunId);
           var article = pack[ids.id];
           if (!article) throw new Error('Madde pack içinde yok: ' + ids.kanunId + '/' + ids.id);
-          document.title = article.title + ' | Av. Fethi Güzel';
-          var hasCommentary = !!(article.commentary && String(article.commentary).trim());
-          var commentary = hasCommentary
-            ? '<section class="commentary"><h2>AKADEMİK YORUM VE ANALİZ</h2><article class="prose">' + mdToHtml(article.commentary) + '</article></section>'
-            : '<section class="commentary"><h2>AKADEMİK YORUM VE ANALİZ</h2><p class="prose" style="color:rgba(26,26,26,.5)">Bu madde için şerh metni henüz pack içinde yok.</p></section>';
+
+          // Resolve title drift vs pack key
+          var title = displayTitle(article, ids.id);
+          document.title = title + ' | Av. Fethi Güzel';
+
+          var officialMd = cleanOfficial(article.official || '');
+          var commentaryMd = String(article.commentary || '').trim();
+          // Strip accidental leading "Akademik Yorum" duplicate if pack already split
+          commentaryMd = commentaryMd.replace(/^###\s*Akademik Yorum[^\n]*\n+/i, '');
+
+          var hasCommentary = commentaryMd.length > 0;
+          var adj = adjacentIds(pack, ids.id);
+          var base = '/mevzuat/' + encodeURIComponent(ids.kanunId) + '/';
+
+          var pager = '<div class="pager">';
+          if (adj.prev) {
+            pager += '<a href="' + base + encodeURIComponent(adj.prev) + '">← ' + escapeHtml(pack[adj.prev].title || adj.prev) + '</a>';
+          } else {
+            pager += '<span></span>';
+          }
+          pager += '<span class="spacer"></span>';
+          if (adj.next) {
+            pager += '<a href="' + base + encodeURIComponent(adj.next) + '">' + escapeHtml(pack[adj.next].title || adj.next) + ' →</a>';
+          }
+          pager += '</div>';
+
+          var commentaryHtml = hasCommentary
+            ? '<section class="panel commentary"><p class="panel-label">Akademik yorum ve analiz</p><article class="prose">' +
+            mdToHtml(commentaryMd, { listOk: true }) +
+            '</article></section>'
+            : '<section class="panel commentary"><p class="panel-label">Akademik yorum ve analiz</p><p class="prose" style="color:var(--muted);font-family:Plus Jakarta Sans,sans-serif;font-size:0.95rem">Bu madde için şerh metni henüz eklenmemiş.</p></section>';
+
           app.innerHTML =
+            '<header class="page-head">' +
             '<p class="kanun">' + escapeHtml(article.kanun || ids.kanunId) + '</p>' +
-            '<h1>' + escapeHtml(article.title) + '</h1>' +
-            '<section class="official"><h2>RESMİ METİN</h2><article class="prose">' + mdToHtml(article.official || '') + '</article></section>' +
-            commentary;
+            '<h1>' + escapeHtml(title) + '</h1>' +
+            (article.maddeNo ? '<span class="madde-badge">Madde ' + escapeHtml(String(article.maddeNo)) + '</span>' : '') +
+            '</header>' +
+            '<section class="panel official"><p class="panel-label">Resmî metin</p><article class="prose">' +
+            mdToHtml(officialMd, { official: true }) +
+            '</article></section>' +
+            commentaryHtml +
+            pager;
         } catch (e) {
-          app.innerHTML = '<div class="err"><h1>İçerik yüklenemedi</h1><p>' + escapeHtml(ids.kanunId + '/' + ids.id) + '</p><pre>' + escapeHtml(e && e.message ? e.message : String(e)) + '</pre><p><a href="/mevzuat">← Mevzuata dön</a></p></div>';
+          app.innerHTML =
+            '<div class="err"><h1>İçerik yüklenemedi</h1><p>' +
+            escapeHtml(ids.kanunId + '/' + ids.id) +
+            '</p><pre>' +
+            escapeHtml(e && e.message ? e.message : String(e)) +
+            '</pre><p><a href="/mevzuat">← Mevzuata dön</a></p></div>';
         }
       }
       main();

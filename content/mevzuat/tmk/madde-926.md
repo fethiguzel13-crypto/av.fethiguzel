@@ -11,13 +11,12 @@ wordCount: 4269
 
 ---
 
-Madde 926 - İpotekli   borç senedi veya irat senedinin alacaklısının kim olduğu on yıldan  beri bilinmiyor ve bu süre içinde fa iz ödenmesi de istenmemiş bulunuyorsa, rehinli taşınmazın  mali ki, alacaklının ortaya çıkması için gaipliğe ilişkin hükümlere göre ilân yapılmasını hâkim den  isteyebilir.  Alacaklı ortaya çıkmaz ve yapılan araştırma sonunda büyük bir olasılıkla alacağın artı k  mevcut olmadığı anlaşılırsa, hâkim tarafından senedin iptali ne karar verilir; bu kararla rehin derecesi
+Madde 926 - İpotekli borç senedi veya irat senedinin alacaklısının kim olduğu on yıldan beri bilinmiyor ve bu süre içinde fa iz ödenmesi de istenmemiş bulunuyorsa, rehinli taşınmazın mali ki, alacaklının ortaya çıkması için gaipliğe ilişkin hükümlere göre ilân yapılmasını hâkim den isteyebilir. Alacaklı ortaya çıkmaz ve yapılan araştırma sonunda büyük bir olasılıkla alacağın artı k mevcut olmadığı anlaşılırsa, hâkim tarafından senedin iptali ne karar verilir; bu kararla rehin derecesi
 boşalmış olur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 926**, «2. İlân yoluyla duyuru» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 926 - İpotekli   borç senedi veya irat senedinin alacaklısının kim olduğu on yıldan  beri bilinmiyor ve bu süre içinde fa iz ödenmesi de istenmemiş bulunuyorsa, rehinli taşınmazın  mali ki, alacaklının ortaya çıkması için gaipliğe ilişkin hükümlere göre ilân yapılmasını hâkim den  isteyebilir.  Alacaklı ortaya çıkmaz ve yapılan araştırma sonunda büyük bir olasılıkla alacağın artı k  mevcut o… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

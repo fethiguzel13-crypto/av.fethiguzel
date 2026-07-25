@@ -11,12 +11,11 @@ wordCount: 4266
 
 ---
 
-Madde 330 - N afaka miktarı, çocuğun ihti yaçları ile ana ve babanın   hayat koşul ları v e  ödem e güçleri dikkate alınarak belirlenir. Nafaka miktarı nın belirlenmesinde çocuğun gelirleri de  göz   önünde bulundurulur.  Nafaka her ay peşin olarak ödenir.  Hâkim istem hâlinde, ira t biçiminde ödenmesine kara r verilen nafakanın gelecek yıllarda  t arafla rın sosyal ve ekonomik durumlarına göre ne miktarda ödenece ğini karara bağlayabilir.
+Madde 330 - N afaka miktarı, çocuğun ihti yaçları ile ana ve babanın hayat koşul ları v e ödem e güçleri dikkate alınarak belirlenir. Nafaka miktarı nın belirlenmesinde çocuğun gelirleri de göz önünde bulundurulur. Nafaka her ay peşin olarak ödenir. Hâkim istem hâlinde, ira t biçiminde ödenmesine kara r verilen nafakanın gelecek yıllarda t arafla rın sosyal ve ekonomik durumlarına göre ne miktarda ödenece ğini karara bağlayabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 330**, «IV. Nafaka miktarının takdiri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 330 - N afaka miktarı, çocuğun ihti yaçları ile ana ve babanın   hayat koşul ları v e  ödem e güçleri dikkate alınarak belirlenir. Nafaka miktarı nın belirlenmesinde çocuğun gelirleri de  göz   önünde bulundurulur.  Nafaka her ay peşin olarak ödenir.  Hâkim istem hâlinde, ira t biçiminde ödenmesine kara r verilen nafakanın gelecek yıllarda  t arafla rın sosyal ve ekonomik durumlarına göre ne… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

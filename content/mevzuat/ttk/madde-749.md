@@ -13,12 +13,11 @@ I
 
 ---
 
-Madde 749 - (1)   Poliçeyi   kabul   edene   karşı   ileri   sürülecek   poliçeden   doğan   istemler,  vadenin   geldiği   tarihten   itibaren   üç   yıl   geçmekle   zamanaşımına   uğrar.  (2)   Hamilin,   cirantalarla   düzenleyene   karşı   ileri   süreceği   istemler,   süres inde   çekilen  protesto   tarihinden   veya   senette   “gidersiz   iade   olunacaktır”   kaydı   varsa   vadenin   dolduğu  tarihten   itibaren   bir   yıl   geçmekle   zamanaşımına   uğrar.  (3)   Bir   cirantanın   başka   cirantalarla   düzenleyen   aleyhine   ileri   süreceği   istemler,  cirantanın   poliç eyi   ödediği   veya   poliçenin   dava   yolu   ile   kendisine   karşı   ileri   sürüldüğü  tarihten   itibaren   altı   ay   geçmekle   zamanaşımına   uğrar.
+Madde 749 - (1) Poliçeyi kabul edene karşı ileri sürülecek poliçeden doğan istemler, vadenin geldiği tarihten itibaren üç yıl geçmekle zamanaşımına uğrar. (2) Hamilin, cirantalarla düzenleyene karşı ileri süreceği istemler, süres inde çekilen protesto tarihinden veya senette “gidersiz iade olunacaktır” kaydı varsa vadenin dolduğu tarihten itibaren bir yıl geçmekle zamanaşımına uğrar. (3) Bir cirantanın başka cirantalarla düzenleyen aleyhine ileri süreceği istemler, cirantanın poliç eyi ödediği veya poliçenin dava yolu ile kendisine karşı ileri sürüldüğü tarihten itibaren altı ay geçmekle zamanaşımına uğrar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 749**, «Madde 749» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Zamanaşımı

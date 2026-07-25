@@ -11,12 +11,11 @@ wordCount: 4259
 
 ---
 
-Madde 334 - Ana ve baba nafaka yük ümlülü klerini sürekli olarak ve ısrarla yerine  getirmezlerse ya da kaçma hazırlığı içinde bulundukları, mallar ını gelişigüzel harcadıkları veya  heba ettikleri kabul edilebilirse hâkim, gelece kteki nafaka yükümlülükleri ne ilişkin olarak uygun  bir güvencenin   sağla nmasın a veya gerektiğinde diğer önlemlerin alınmasına karar   verebilir.  ALTINCI AYIRIM  VELÂYET  A. Genel   olarak  I. Koşullar
+Madde 334 - Ana ve baba nafaka yük ümlülü klerini sürekli olarak ve ısrarla yerine getirmezlerse ya da kaçma hazırlığı içinde bulundukları, mallar ını gelişigüzel harcadıkları veya heba ettikleri kabul edilebilirse hâkim, gelece kteki nafaka yükümlülükleri ne ilişkin olarak uygun bir güvencenin sağla nmasın a veya gerektiğinde diğer önlemlerin alınmasına karar verebilir. ALTINCI AYIRIM VELÂYET A. Genel olarak I. Koşullar
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 334**, «VII. Güvence veril mesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 334 - Ana ve baba nafaka yük ümlülü klerini sürekli olarak ve ısrarla yerine  getirmezlerse ya da kaçma hazırlığı içinde bulundukları, mallar ını gelişigüzel harcadıkları veya  heba ettikleri kabul edilebilirse hâkim, gelece kteki nafaka yükümlülükleri ne ilişkin olarak uygun  bir güvencenin   sağla nmasın a veya gerektiğinde diğer önlemlerin alınmasına karar   verebilir.  ALTINCI AYIRIM  VE… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

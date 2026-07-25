@@ -11,12 +11,11 @@ wordCount: 4303
 
 ---
 
-Madde 350 - Ve lâyetin kaldırılması hâlinde ana ve babanın çocuklarının bakım ve eğitim  giderler ini karşılama yükümlülükler i devam eder.  Ana ve baba ile çocuğun   ödeme   gücü yoksa bu gide rler Devletçe karşılanır.  Nafakaya ilişkin hükümler saklıdır.
+Madde 350 - Ve lâyetin kaldırılması hâlinde ana ve babanın çocuklarının bakım ve eğitim giderler ini karşılama yükümlülükler i devam eder. Ana ve baba ile çocuğun ödeme gücü yoksa bu gide rler Devletçe karşılanır. Nafakaya ilişkin hükümler saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 350**, «3. Velâyetin kaldırılması hâlinde ana ve babanın yükümlülükleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 350 - Ve lâyetin kaldırılması hâlinde ana ve babanın çocuklarının bakım ve eğitim  giderler ini karşılama yükümlülükler i devam eder.  Ana ve baba ile çocuğun   ödeme   gücü yoksa bu gide rler Devletçe karşılanır.  Nafakaya ilişkin hükümler saklıdır.

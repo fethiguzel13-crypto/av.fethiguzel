@@ -13,12 +13,11 @@ I
 
 ---
 
-Madde 105 - (1)   Acente,   aracılıkta   bulunduğu   veya   yaptığı   sözleşmelerle   ilgili   her  türlü   ihtar,   ihbar   ve   protesto   gibi   hakkı   koruyan   beyanları   müvekkili   adına   yapmaya   ve  bunları   kabule   yetkilidir.  (2)   Bu   sözleşmelerden   doğacak   uyuşmazlıklardan   dolayı   acente,   müvekkili   adına   dava  açabileceği   gibi,   kendisine   karşı   da   aynı   sıfatla   dava   açılabilir.   Yabancı   tacirler   adına  acentelik   yapanlar   hakkındaki   sözleşmelerde   yer   alan,   bu   hükme   aykırı   şartlar   geçe rsizdir.  (3)   Acentelerin   ad   ve   hesabına   hareket   ettikleri   kişilere   karşı   Türkiye’de   açılacak   olan  davalar   sonucunda   alınan   kararlar   acentelere   uygulanamaz.
+Madde 105 - (1) Acente, aracılıkta bulunduğu veya yaptığı sözleşmelerle ilgili her türlü ihtar, ihbar ve protesto gibi hakkı koruyan beyanları müvekkili adına yapmaya ve bunları kabule yetkilidir. (2) Bu sözleşmelerden doğacak uyuşmazlıklardan dolayı acente, müvekkili adına dava açabileceği gibi, kendisine karşı da aynı sıfatla dava açılabilir. Yabancı tacirler adına acentelik yapanlar hakkındaki sözleşmelerde yer alan, bu hükme aykırı şartlar geçe rsizdir. (3) Acentelerin ad ve hesabına hareket ettikleri kişilere karşı Türkiye’de açılacak olan davalar sonucunda alınan kararlar acentelere uygulanamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 105**, «Madde 105» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Acentenin yetkileri

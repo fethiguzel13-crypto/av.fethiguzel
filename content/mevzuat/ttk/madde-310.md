@@ -12,13 +12,12 @@ wordCount: 4317
 
 ---
 
-Madde 310 - (1)   Her   komanditer,   iş   yılı   sonunda   ve   iş   saatleri   içinde,   şirketin  envanterleriyle   bilançosunun   içeriğini,   diğer   finansal   tablolarını,   bunların   doğrulu ğunu   ve  geçerliliğini   incelemeye   yetkilidir.  (2)   Komanditer,   bu   incelemeyi   bizzat   yapabileceği   gibi   bir   uzmana   da   yaptırabilir.
-Uzmanın   şahsı   hakkında   bir   itiraz   ileri   sürülürse   komanditerin   istemi   üzerine   mahkeme  tarafından   bilirkişi   atanmasına   karar   veri lir.   Bu   karar   kesindir. 40  (3)   Haklı   sebeplerin   bulunması   hâlinde,   mahkeme,   komanditerin   istemi   üzerine  şirketin   işlerinin   ve   varlığının   bizzat   veya   bilirkişi   tarafından   incelenmesine   her   zaman   izin  verebilir.  (4)   Bu   madde   hükümlerine   aykırı   şirket   sözleşmes i   hükümleri   geçersizdir.
+Madde 310 - (1) Her komanditer, iş yılı sonunda ve iş saatleri içinde, şirketin envanterleriyle bilançosunun içeriğini, diğer finansal tablolarını, bunların doğrulu ğunu ve geçerliliğini incelemeye yetkilidir. (2) Komanditer, bu incelemeyi bizzat yapabileceği gibi bir uzmana da yaptırabilir.
+Uzmanın şahsı hakkında bir itiraz ileri sürülürse komanditerin istemi üzerine mahkeme tarafından bilirkişi atanmasına karar veri lir. Bu karar kesindir. 40 (3) Haklı sebeplerin bulunması hâlinde, mahkeme, komanditerin istemi üzerine şirketin işlerinin ve varlığının bizzat veya bilirkişi tarafından incelenmesine her zaman izin verebilir. (4) Bu madde hükümlerine aykırı şirket sözleşmes i hükümleri geçersizdir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 310**, «Madde 310» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

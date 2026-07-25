@@ -11,12 +11,11 @@ wordCount: 4313
 
 ---
 
-Madde 22 - (1)   Tacir   sıfatını   haiz   borçlu,   Türk   Borçlar   Kanununun   121   inci  maddesinin   ikinci   fıkrasıyla   182   nci   maddesinin   üçüncü   fıkrasında   ve   525   inci   maddesinde  yazılı   hâllerde,   aşırı   ücret   veya   ceza   kararlaştırılmış   olduğu   id diasıyla   ücret   veya   sözleşme  cezasının   indirilmesini   mahkemeden   isteyemez.
+Madde 22 - (1) Tacir sıfatını haiz borçlu, Türk Borçlar Kanununun 121 inci maddesinin ikinci fıkrasıyla 182 nci maddesinin üçüncü fıkrasında ve 525 inci maddesinde yazılı hâllerde, aşırı ücret veya ceza kararlaştırılmış olduğu id diasıyla ücret veya sözleşme cezasının indirilmesini mahkemeden isteyemez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 22**, «4. Ücret ve söz leşme cezasının indirilmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 22 - (1)   Tacir   sıfatını   haiz   borçlu,   Türk   Borçlar   Kanununun   121   inci  maddesinin   ikinci   fıkrasıyla   182   nci   maddesinin   üçüncü   fıkrasında   ve   525   inci   maddesinde  yazılı   hâllerde,   aşırı   ücret   veya   ceza   kararlaştırılmış   olduğu   id diasıyla   ücret   veya   sözleşme  cezasının   indirilmesini   mahkemeden   isteyemez.

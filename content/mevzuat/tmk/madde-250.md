@@ -12,12 +12,11 @@ wordCount: 4265
 
 ---
 
-Madde 250 - Eşlerden biri tarafından paylaş malı mal ayrılığı rejiminin kuru lmasından  sonra edinilmiş olup ailenin ortak kullanım ve yararlanmasına özgülenmiş mallar ile ailenin  ekonomik   gelec eğini güvence altına almaya yönelik yatırımlar veya bunların yerine geçen  değerler, mal rejiminin sona ermes i hâlinde eşler arasında eşit olarak paylaşılır. Paylaştırmada  işletmelerin ekonomik bütünlüğü gözetilir.  Manevî tazminat alacakları, miras yol uyla   edinilen mallar ile karşılıksız kazandırmada  bulunanın   açık   iradesinden   aksi   anlaşılmadıkça,   sağlararası   vey a   ölüme   bağlı   tasarruflarla  edinilen mallar hakkında bu hüküm uygulanmaz.
+Madde 250 - Eşlerden biri tarafından paylaş malı mal ayrılığı rejiminin kuru lmasından sonra edinilmiş olup ailenin ortak kullanım ve yararlanmasına özgülenmiş mallar ile ailenin ekonomik gelec eğini güvence altına almaya yönelik yatırımlar veya bunların yerine geçen değerler, mal rejiminin sona ermes i hâlinde eşler arasında eşit olarak paylaşılır. Paylaştırmada işletmelerin ekonomik bütünlüğü gözetilir. Manevî tazminat alacakları, miras yol uyla edinilen mallar ile karşılıksız kazandırmada bulunanın açık iradesinden aksi anlaşılmadıkça, sağlararası vey a ölüme bağlı tasarruflarla edinilen mallar hakkında bu hüküm uygulanmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 250**, «Madde 250» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III. Aileye özgülenen mallar

@@ -14,12 +14,11 @@ II. Ret hakkının düşmesi**
 
 ---
 
-Madde 610 - Ya sal süre içinde mirası reddetmeyen mirasçı, mirası kayıtsız şartsız kazanmış  olur.  Ret sür esi sona ermeden mirasçı ol arak tereke işlemlerine karışan, terekenin olağan  yönetimi niteliğinde olmayan veya mirasbırakanın işlerinin yürütülmesi için gerekli olanı n dışında  işler yapan ya da tereke mallarını gizleyen veya kendisine maleden mirasçı, mira sı reddedemez.  Zamanaşımı v eya hak düşümü sürelerinin dolmasına engel olmak için dava açılması ve  cebrî icra takibi yapılması, ret hakkını ortadan kaldırmaz.
+Madde 610 - Ya sal süre içinde mirası reddetmeyen mirasçı, mirası kayıtsız şartsız kazanmış olur. Ret sür esi sona ermeden mirasçı ol arak tereke işlemlerine karışan, terekenin olağan yönetimi niteliğinde olmayan veya mirasbırakanın işlerinin yürütülmesi için gerekli olanı n dışında işler yapan ya da tereke mallarını gizleyen veya kendisine maleden mirasçı, mira sı reddedemez. Zamanaşımı v eya hak düşümü sürelerinin dolmasına engel olmak için dava açılması ve cebrî icra takibi yapılması, ret hakkını ortadan kaldırmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 610**, «Madde 610» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **4. Reddin şekli Madde 6 09

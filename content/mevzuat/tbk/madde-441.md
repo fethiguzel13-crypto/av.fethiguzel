@@ -12,17 +12,16 @@ wordCount: 4315
 ---
 
 Madde 441 - İşverenin ölümü hâlinde, yerini mirasçıları alır. Bu durumda işyerinin
-tamamının  veya  bir  bölümünün  devri  ile  gerçekleşen  hizmet  ilişkisinin  devrine  ilişkin
+tamamının veya bir bölümünün devri ile gerçekleşen hizmet ilişkisinin devrine ilişkin
 hükümler kıyas yoluyla uygulanır.
-Hizmet  sözleşmesi  ağırlıklı  olarak  işverenin  kişiliği  dikkate  alınmak  suretiyle
+Hizmet sözleşmesi ağırlıklı olarak işverenin kişiliği dikkate alınmak suretiyle
 kurulmuşsa, onun ölümüyle kendiliğinden sona erer. Ancak, işçi sözleşmenin süresinden önce
-sona  ermesi  yüzünden  uğradığı  zarar  için,  mirasçılardan  hakkaniyete  uygun  bir  tazminat
+sona ermesi yüzünden uğradığı zarar için, mirasçılardan hakkaniyete uygun bir tazminat
 isteminde bulunabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 441**, «2. İşverenin ölümü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 441 - İşverenin ölümü hâlinde, yerini mirasçıları alır. Bu durumda işyerinin

@@ -11,12 +11,11 @@ wordCount: 4318
 
 ---
 
-Madde 89 - (1)   İki   kişinin   herhangi   bir   hukuki   sebep   veya   ilişkiden   doğan  alacaklarını   teker   teker   ve   ayrı   a yrı   istemekten   karşılıklı   olarak   vazgeçip   bunları   kalem   kalem  alacak   ve   borç   şekline   çevirerek   hesabın   kesilmesinden   sonra   çıkacak   artan   tutarı  isteyebileceklerine   ilişkin   sözleşme   cari   hesap   sözleşmesidir.  (2)   Bu   sözleşme   yazılı   yapılmadıkça   geçerli   olma z.
+Madde 89 - (1) İki kişinin herhangi bir hukuki sebep veya ilişkiden doğan alacaklarını teker teker ve ayrı a yrı istemekten karşılıklı olarak vazgeçip bunları kalem kalem alacak ve borç şekline çevirerek hesabın kesilmesinden sonra çıkacak artan tutarı isteyebileceklerine ilişkin sözleşme cari hesap sözleşmesidir. (2) Bu sözleşme yazılı yapılmadıkça geçerli olma z.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 89**, «Madde 89» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 89 - (1)   İki   kişinin   herhangi   bir   hukuki   sebep   veya   ilişkiden   doğan  alacaklarını   teker   teker   ve   ayrı   a yrı   istemekten   karşılıklı   olarak   vazgeçip   bunları   kalem   kalem  alacak   ve   borç   şekline   çevirerek   hesabın   kesilmesinden   sonra   çıkacak   artan   tutarı  isteyebileceklerine   ilişkin   sözleşme   cari   hesap   sözleşmesidir.  (2)   Bu… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

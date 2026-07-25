@@ -12,13 +12,12 @@ wordCount: 4306
 
 ---
 
-Madde 888 - (1)   Taşıma,   kısmen   veya   tamamen   üçüncü   bir   kişi   olan   fiilî   taşıyıcı  tarafından   yerine   getirilirse,   bu   kişi   eşyanın   zıyaı,   has arı   veya   gecikmesi   nedeniyle   kendisi  tarafından   yapılan   taşıma   sırasında   ortaya   çıkan   zarardan   asıl   taşıyıcı   gibi   sorumludur.   Asıl  taşıyıcının   gönderen   veya   gönderilen   ile,   sorumluluğun   genişletilmesi   için   yaptığı   sözleşmeler,  fiilî   taşıyıcıya   karşı,   bunla rı   yazılı   olarak   kabul   etmesi   şartıyla   geçerlidir.
-(2)   Fiilî   taşıyıcı,   taşıma   sözleşmesinden   doğan   asıl   taşıyıcıya   ait   bütün   def’ileri   ileri  sürebilir.  (3)   Asıl   taşıyıcı   ve   fiilî   taşıyıcı   müteselsilen   sorumludurlar.  (4)   Fiilî   taşıyıcının   yardımcılarına   ba şvurulursa   887   nci   madde   hükmü   uygulanır.  (5)   Fiilî   taşıyıcı   taşıma   senedinde   veya   diğer   bir   belgede   kendisine   teslim   olunan  eşyanın   ne   hâlde   bulunduğunu   tespit   ettirebilir.   Bu   hükme   uyulmadığı   takdirde   858   inci  maddenin   ikinci   fıkrası   hükümleri   uygulanır.
+Madde 888 - (1) Taşıma, kısmen veya tamamen üçüncü bir kişi olan fiilî taşıyıcı tarafından yerine getirilirse, bu kişi eşyanın zıyaı, has arı veya gecikmesi nedeniyle kendisi tarafından yapılan taşıma sırasında ortaya çıkan zarardan asıl taşıyıcı gibi sorumludur. Asıl taşıyıcının gönderen veya gönderilen ile, sorumluluğun genişletilmesi için yaptığı sözleşmeler, fiilî taşıyıcıya karşı, bunla rı yazılı olarak kabul etmesi şartıyla geçerlidir.
+(2) Fiilî taşıyıcı, taşıma sözleşmesinden doğan asıl taşıyıcıya ait bütün def’ileri ileri sürebilir. (3) Asıl taşıyıcı ve fiilî taşıyıcı müteselsilen sorumludurlar. (4) Fiilî taşıyıcının yardımcılarına ba şvurulursa 887 nci madde hükmü uygulanır. (5) Fiilî taşıyıcı taşıma senedinde veya diğer bir belgede kendisine teslim olunan eşyanın ne hâlde bulunduğunu tespit ettirebilir. Bu hükme uyulmadığı takdirde 858 inci maddenin ikinci fıkrası hükümleri uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 888**, «Madde 888» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **XII

@@ -12,13 +12,12 @@ wordCount: 4258
 
 ---
 
-Madde 479 - (1)   Oyda   imtiyaz,   eşit   itibarî   değerdeki   paylara   farklı   sayıda   oy   hakkı  verilerek   tanınabilir.  (2)   Bir   paya   en   çok   onbeş   oy   hakkı   tanınabilir.   Bu   sınırlama,   kurumlaşmanın   gerektirdiği  veya   haklı   bir   sebebin   ispatlandığı   durumlarda   uygulanmaz.   Bu   iki   hâlde,   şir ketin   merkezinin  bulunduğu   yerdeki   asliye   ticaret   mahkemesinin,   kurumlaşma   projesini   veya   haklı   sebebi
-inceleyip,   bunlara   bağlı   olarak,   sınırlamadan   istisna   edilme   kararını   vermesi   gerekir.   Projede  yapılacak   her   değişiklik   mahkeme   kararına   bağlıdır.   Kurums allaşmanın   gerçekleşmeyeceğinin  anlaşıldığı   veya   haklı   sebebin   ortadan   kalktığı   hâllerde   istisna   etme   kararı   mahkeme   tarafından  geri   alınabilir.  (3)   Oyda   imtiyaz   aşağıdaki   kararlarda   kullanılamaz:  a)   Esas   sözleşme   değişikliği.
+Madde 479 - (1) Oyda imtiyaz, eşit itibarî değerdeki paylara farklı sayıda oy hakkı verilerek tanınabilir. (2) Bir paya en çok onbeş oy hakkı tanınabilir. Bu sınırlama, kurumlaşmanın gerektirdiği veya haklı bir sebebin ispatlandığı durumlarda uygulanmaz. Bu iki hâlde, şir ketin merkezinin bulunduğu yerdeki asliye ticaret mahkemesinin, kurumlaşma projesini veya haklı sebebi
+inceleyip, bunlara bağlı olarak, sınırlamadan istisna edilme kararını vermesi gerekir. Projede yapılacak her değişiklik mahkeme kararına bağlıdır. Kurums allaşmanın gerçekleşmeyeceğinin anlaşıldığı veya haklı sebebin ortadan kalktığı hâllerde istisna etme kararı mahkeme tarafından geri alınabilir. (3) Oyda imtiyaz aşağıdaki kararlarda kullanılamaz: a) Esas sözleşme değişikliği.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 479**, «Madde 479» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

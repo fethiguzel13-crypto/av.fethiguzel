@@ -13,12 +13,11 @@ D. İtiraz**
 
 ---
 
-Madde 435 - Kuru ma yerleştirilen kişi veya   yakınları, verilen karara k arşı kendil erine  bildirilmesinden başlayarak on gün içinde denetim makamına   itiraz edebilirler.  Bu hak, kurumdan çıkarılm a isteminin reddi hâlinde   de kullanılabilir.
+Madde 435 - Kuru ma yerleştirilen kişi veya yakınları, verilen karara k arşı kendil erine bildirilmesinden başlayarak on gün içinde denetim makamına itiraz edebilirler. Bu hak, kurumdan çıkarılm a isteminin reddi hâlinde de kullanılabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 435**, «Madde 435» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Bildirim yükümlülüğü Madde 4 34

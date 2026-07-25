@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**III -   Sicilin   gerçek   hukuki   duruma   uygun   hâle   getirilmesi**
+**III - Sicilin gerçek hukuki duruma uygun hâle getirilmesi**
 
 ---
 
-Madde 975 - (1)   Gemi   sicilinin   içeriği;   mülkiyet,   gemi   ipoteği,   ipotek   üzerindeki   bir  hak,   intifa   hakkı   yahut   983   üncü   maddenin   birinci   fıkra sının   ikinci   cümlesinde   yazılı   türden  bir   tasarruf   sınırlaması   bakımından   gerçek   hukuki   duruma   uymadığı   takdirde,   hakkı   tescil  edilmemiş   veya   yanlış   tescil   edilmiş   yahut   var   olmayan   bir   hakkın   veya   sınırlamanın   tescili  sonucunda   hakkı   ihlal   edilmiş   kişi,   d eğişiklik   sonucunda   hakkı   ihlal   edilecek   olan   kişiden  kaydın   değiştirilmesine   onay   vermesini   isteyebilir.  (2)   Gemi   sicili,   ancak   birinci   fıkra   gereğince   yükümlü   olan   kişinin   hakkı   tescil  edildikten   sonra   değiştirilebilecekse,   bu   kişi,   istem   üzerine   hakkını   tescil   ettirmek   zorundadır.  (3)   Birinci   ve   ikinci   fıkralarda   yazılı   bulunan   değişikliği   isteme   hakları   zamanaşımına  uğramaz.
+Madde 975 - (1) Gemi sicilinin içeriği; mülkiyet, gemi ipoteği, ipotek üzerindeki bir hak, intifa hakkı yahut 983 üncü maddenin birinci fıkra sının ikinci cümlesinde yazılı türden bir tasarruf sınırlaması bakımından gerçek hukuki duruma uymadığı takdirde, hakkı tescil edilmemiş veya yanlış tescil edilmiş yahut var olmayan bir hakkın veya sınırlamanın tescili sonucunda hakkı ihlal edilmiş kişi, d eğişiklik sonucunda hakkı ihlal edilecek olan kişiden kaydın değiştirilmesine onay vermesini isteyebilir. (2) Gemi sicili, ancak birinci fıkra gereğince yükümlü olan kişinin hakkı tescil edildikten sonra değiştirilebilecekse, bu kişi, istem üzerine hakkını tescil ettirmek zorundadır. (3) Birinci ve ikinci fıkralarda yazılı bulunan değişikliği isteme hakları zamanaşımına uğramaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 975**, «III -   Sicilin   gerçek   hukuki   duruma   uygun   hâle   getirilmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 975 - (1)   Gemi   sicilinin   içeriği;   mülkiyet,   gemi   ipoteği,   ipotek   üzerindeki   bir  hak,   intifa   hakkı   yahut   983   üncü   maddenin   birinci   fıkra sının   ikinci   cümlesinde   yazılı   türden  bir   tasarruf   sınırlaması   bakımından   gerçek   hukuki   duruma   uymadığı   takdirde,   hakkı   tescil  edilmemiş   veya   yanlış   tescil   edilmiş   yahut   var   olmay… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

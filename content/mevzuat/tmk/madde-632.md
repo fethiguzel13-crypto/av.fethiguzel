@@ -11,13 +11,12 @@ wordCount: 4314
 
 ---
 
-Madde 632 - Her mirasçı, mirası ret veya resmî deftere göre kabul edec eği yerde terekenin  resmî t asfiyesini isteyebilir.
-Bu istem, birlikte mirasçı olanlardan birinin mirası kabul etmesi hâlinde dikkate alınmaz.  Resmî tasfiye hâlinde m irasçılar, terekenin borçlarından sorumlu olmazlar.
+Madde 632 - Her mirasçı, mirası ret veya resmî deftere göre kabul edec eği yerde terekenin resmî t asfiyesini isteyebilir.
+Bu istem, birlikte mirasçı olanlardan birinin mirası kabul etmesi hâlinde dikkate alınmaz. Resmî tasfiye hâlinde m irasçılar, terekenin borçlarından sorumlu olmazlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 632**, «Madde 632» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 632 - Her mirasçı, mirası ret veya resmî deftere göre kabul edec eği yerde terekenin  resmî t asfiyesini isteyebilir.

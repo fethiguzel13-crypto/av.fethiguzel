@@ -13,18 +13,17 @@ wordCount: 4317
 
 Madde 138 - Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi
 de beklenmeyen olağanüstü bir durum, borçludan kaynaklanmayan bir sebeple ortaya çıkar ve
-sözleşmenin  yapıldığı  sırada  mevcut  olguları,  kendisinden  ifanın  istenmesini  dürüstlük
+sözleşmenin yapıldığı sırada mevcut olguları, kendisinden ifanın istenmesini dürüstlük
 kurallarına aykırı düşecek derecede borçlu aleyhine değiştirir ve borçlu da borcunu henüz ifa
 etmemiş veya ifanın aşırı ölçüde güçleşmesinden doğan haklarını saklı tutarak ifa etmiş olursa
 borçlu, hâkimden sözleşmenin yeni koşullara uyarlanmasını isteme, bu mümkün olmadığı
-takdirde  sözleşmeden  dönme  hakkına  sahiptir.  Sürekli  edimli  sözleşmelerde  borçlu,  kural
+takdirde sözleşmeden dönme hakkına sahiptir. Sürekli edimli sözleşmelerde borçlu, kural
 olarak dönme hakkının yerine fesih hakkını kullanır.
 Bu madde hükmü yabancı para borçlarında da uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 138**, «III. Aşırı ifa güçlüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 138 - Sözleşmenin yapıldığı sırada taraflarca öngörülmeyen ve öngörülmesi

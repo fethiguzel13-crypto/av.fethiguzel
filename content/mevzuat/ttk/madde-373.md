@@ -13,13 +13,12 @@ wordCount: 4268
 
 ---
 
-Madde 373 - (1)   Yönetim   kurulu,   temsile   yetkili   kişileri   ve   bunların   temsil   şekillerini  gösterir   kararının   noterce   onaylanmış   suretini,   tescil   ve   ilan   edilmek   üzere   ticaret   siciline  verir.  (2)   Temsil   yetkisinin   ticaret   sicilinde   tescilind en   sonra,   ilgili   kişilerin   seçimine   veya  atanmalarına   ilişkin   herhangi   bir   hukuki   sakatlık,   şirket   tarafından   üçüncü   kişilere,   ancak  sakatlığın   bunlar   tarafından   bilindiğinin   ispat   edilmesi   şartıyla   ileri   sürülebilir.  (3)   (Ek:28/1/2021 - 7263/23   md.)   Kamu   k urum   ve   kuruluşları   tarafından,   ticaret  siciline   tescil   olunan   temsile   yetkili   kişiler   ile   bunların   temsil   şekilleri   hakkında   ticaret   sicili
-kayıtları   esas   alınır   ve   şirketten   bu   kayıtlara   ilişkin   ticaret   sicili   müdürlüklerince   düzenlenen  belgeler   ile   Türk iye   Ticaret   Sicili   Gazetesinde   yayımlanan   ilan   dışında   hiçbir   belge   istenemez.
+Madde 373 - (1) Yönetim kurulu, temsile yetkili kişileri ve bunların temsil şekillerini gösterir kararının noterce onaylanmış suretini, tescil ve ilan edilmek üzere ticaret siciline verir. (2) Temsil yetkisinin ticaret sicilinde tescilind en sonra, ilgili kişilerin seçimine veya atanmalarına ilişkin herhangi bir hukuki sakatlık, şirket tarafından üçüncü kişilere, ancak sakatlığın bunlar tarafından bilindiğinin ispat edilmesi şartıyla ileri sürülebilir. (3) (Ek:28/1/2021 - 7263/23 md.) Kamu k urum ve kuruluşları tarafından, ticaret siciline tescil olunan temsile yetkili kişiler ile bunların temsil şekilleri hakkında ticaret sicili
+kayıtları esas alınır ve şirketten bu kayıtlara ilişkin ticaret sicili müdürlüklerince düzenlenen belgeler ile Türk iye Ticaret Sicili Gazetesinde yayımlanan ilan dışında hiçbir belge istenemez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 373**, «Madde 373» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **3. İmza şekli MADDE 3 72

@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**D)   Zamanaşımı**
+**D) Zamanaşımı**
 
 ---
 
-Madde 930 - (1)   Bu   Kısımda   yer   alan   hükümlerden   doğan   istemler   ve   haklar   bir  yılda   zamanaşımına   uğrar.  (2)   Zamanaşımının   başlangıcı,   zama naşımına   uğramış   bir   istem   veya   hakkın   def’i  olarak   ileri   sürülebilmesi   bakımından   ve   zararın   taşıma   işleri   komisyoncusunun   kasten   veya  pervasızca   bir   davranışla   ve   böyle   bir   zararın   meydana   gelmesi   ihtimalinin   bilinciyle   işlenmiş  bir   fiilinden   veya   ihmali nden   doğması   hâlinde   855   inci   madde   hükümleri   uygulanır.  BEŞİNCİ   KİTAP  Deniz   Ticareti  BİRİNCİ   KISIM  Gemi  BİRİNCİ   BÖLÜM  Genel   Hükümler  A)   Tanımlar  I -   Gemi,   ticaret   gemisi
+Madde 930 - (1) Bu Kısımda yer alan hükümlerden doğan istemler ve haklar bir yılda zamanaşımına uğrar. (2) Zamanaşımının başlangıcı, zama naşımına uğramış bir istem veya hakkın def’i olarak ileri sürülebilmesi bakımından ve zararın taşıma işleri komisyoncusunun kasten veya pervasızca bir davranışla ve böyle bir zararın meydana gelmesi ihtimalinin bilinciyle işlenmiş bir fiilinden veya ihmali nden doğması hâlinde 855 inci madde hükümleri uygulanır. BEŞİNCİ KİTAP Deniz Ticareti BİRİNCİ KISIM Gemi BİRİNCİ BÖLÜM Genel Hükümler A) Tanımlar I - Gemi, ticaret gemisi
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 930**, «D)   Zamanaşımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 930 - (1)   Bu   Kısımda   yer   alan   hükümlerden   doğan   istemler   ve   haklar   bir  yılda   zamanaşımına   uğrar.  (2)   Zamanaşımının   başlangıcı,   zama naşımına   uğramış   bir   istem   veya   hakkın   def’i  olarak   ileri   sürülebilmesi   bakımından   ve   zararın   taşıma   işleri   komisyoncusunun   kasten   veya  pervasızca   bir   davranışla   ve   böyle   bir   zararın  … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

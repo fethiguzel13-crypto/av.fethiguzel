@@ -11,12 +11,11 @@ wordCount: 4288
 
 ---
 
-Madde 1379 - (1)   Gemi   üzerinde   kanuni   bir   rehin   hakkına   sahip   olan   alacaklılar,  haciz   yolu   ile   veya   kambiyo   senetleri   hakkındaki   özel   usullere   göre   takip   yapabilirler;   bu  takdirde   kanuni   rehin   hakkından   feragat   etmiş   olurlar.
+Madde 1379 - (1) Gemi üzerinde kanuni bir rehin hakkına sahip olan alacaklılar, haciz yolu ile veya kambiyo senetleri hakkındaki özel usullere göre takip yapabilirler; bu takdirde kanuni rehin hakkından feragat etmiş olurlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1379**, «3. Diğer takip yolları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1379 - (1)   Gemi   üzerinde   kanuni   bir   rehin   hakkına   sahip   olan   alacaklılar,  haciz   yolu   ile   veya   kambiyo   senetleri   hakkındaki   özel   usullere   göre   takip   yapabilirler;   bu  takdirde   kanuni   rehin   hakkından   feragat   etmiş   olurlar.

@@ -11,12 +11,11 @@ wordCount: 4299
 
 ---
 
-Madde 949 - (1)   Harp   gemileri   ile   sahil   istihkâmları   önünde   ve   Türk   limanlarına  girerken   veya   çıkarken   ticaret   gemisine   bayrak   çekmeyen   kaptan   üç   aya   kadar   hapis   veya   adli  para   cezasıyla   cezaland ırılır.
+Madde 949 - (1) Harp gemileri ile sahil istihkâmları önünde ve Türk limanlarına girerken veya çıkarken ticaret gemisine bayrak çekmeyen kaptan üç aya kadar hapis veya adli para cezasıyla cezaland ırılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 949**, «3. Ha rp gemileri ile istihkâmlar önünde ve limanda bayrak çekmemek» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 949 - (1)   Harp   gemileri   ile   sahil   istihkâmları   önünde   ve   Türk   limanlarına  girerken   veya   çıkarken   ticaret   gemisine   bayrak   çekmeyen   kaptan   üç   aya   kadar   hapis   veya   adli  para   cezasıyla   cezaland ırılır.

@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4310
 ---
 
-**II   -   Dürüst   resim   ilkesi**
+**II - Dürüst resim ilkesi**
 
 ---
 
-Madde 515 - (1)   Anon im   şirketlerin   finansal   tabloları,   Türkiye   Muhasebe  Standartlarına   göre   şirketin   malvarlığını,   borç   ve   yükümlülüklerini,   öz   kaynaklarını   ve  faaliyet   sonuçlarını   tam,   anlaşılabilir,   karşılaştırılabilir,   ihtiyaçlara   ve   işletmenin   niteliğine  uygun   bir   şekilde ;   şeffaf   ve   güvenilir   olarak;   gerçeği   dürüst,   aynen   ve   aslına   sadık   surette  yansıtacak   şekilde   çıkarılır.
+Madde 515 - (1) Anon im şirketlerin finansal tabloları, Türkiye Muhasebe Standartlarına göre şirketin malvarlığını, borç ve yükümlülüklerini, öz kaynaklarını ve faaliyet sonuçlarını tam, anlaşılabilir, karşılaştırılabilir, ihtiyaçlara ve işletmenin niteliğine uygun bir şekilde ; şeffaf ve güvenilir olarak; gerçeği dürüst, aynen ve aslına sadık surette yansıtacak şekilde çıkarılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 515**, «II   -   Dürüst   resim   ilkesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 515 - (1)   Anon im   şirketlerin   finansal   tabloları,   Türkiye   Muhasebe  Standartlarına   göre   şirketin   malvarlığını,   borç   ve   yükümlülüklerini,   öz   kaynaklarını   ve  faaliyet   sonuçlarını   tam,   anlaşılabilir,   karşılaştırılabilir,   ihtiyaçlara   ve   işletmenin   niteliğine  uygun   bir   şekilde ;   şeffaf   ve   güvenilir   olarak;   gerçeği   dürüst,   aynen   v… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

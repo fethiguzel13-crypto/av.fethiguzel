@@ -15,19 +15,18 @@ a. Ödeme süresi**
 Madde 406 - Aksine âdet olmadıkça, işçiye ücreti her ayın sonunda ödenir. Ancak,
 hizmet sözleşmesi veya toplu iş sözleşmesiyle daha kısa ödeme süreleri belirlenebilir.
 Daha kısa bir ödeme süresi kararlaştırılmamışsa veya aksine âdet yoksa, aracılık ücreti
-her  ayın sonunda  ödenir.  Ancak,  işlemlerin  yapılması  altı  aydan  daha  uzun  bir  süre
+her ayın sonunda ödenir. Ancak, işlemlerin yapılması altı aydan daha uzun bir süre
 gerektirdiği takdirde, aracılık ücreti asıl ücrete ek olarak kararlaştırılmışsa, yazılı anlaşmayla
 ödeme daha ileri bir tarihe bırakılabilir.
 Asıl ücrete ek olarak üretilenden pay verilmesi öngörülen hâllerde, ürün payı belirlenir
-belirlenmez,  cirodan  veya  kârdan  pay  verilmesi  kararlaştırılan  hâllerde  ise  payın,  hesap
+belirlenmez, cirodan veya kârdan pay verilmesi kararlaştırılan hâllerde ise payın, hesap
 dönemini izleyen en geç üç ay içinde belirlenerek ödenmesi şarttır.
-İşveren,  işçiye  zorunlu  ihtiyacının  ortaya  çıkması hâlinde  ve  hakkaniyet  gereği
+İşveren, işçiye zorunlu ihtiyacının ortaya çıkması hâlinde ve hakkaniyet gereği
 ödeyebilecek durumda ise, hizmetiyle orantılı olarak avans vermekle yükümlüdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 406**, «Madde 406» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Ücretin ödenmesi

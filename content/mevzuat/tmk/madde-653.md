@@ -12,12 +12,11 @@ I. Bütünlük oluşturan veya aile belgeleri ile özel anı değeri olan eşya*
 
 ---
 
-Madde 653 - Mirasçılardan birinin karşı çıkması hâlinde, nitelikleri veya özgülendikleri  amaç gereği bir bütünlük oluşturan eşya birbirinden ayrılamaz.  Aile belgeleri ile aile iç in özel anı değeri olan eşy a, mirasçılardan birinin karşı çıkması  hâlinde satılamaz. Mirasçılar arasında anlaşmazlık çıkarsa sulh hâkimi,   yerel âdetleri, âdet yoksa  k işisel durumları göz önünde tutarak bu eşyanın, payına mahsup edilmek veya edilmemek  suret iyle mirasçılardan birine ö zgülenmesine ya da satılmasına karar verir.  Özel kanun hükümleri saklıdır.
+Madde 653 - Mirasçılardan birinin karşı çıkması hâlinde, nitelikleri veya özgülendikleri amaç gereği bir bütünlük oluşturan eşya birbirinden ayrılamaz. Aile belgeleri ile aile iç in özel anı değeri olan eşy a, mirasçılardan birinin karşı çıkması hâlinde satılamaz. Mirasçılar arasında anlaşmazlık çıkarsa sulh hâkimi, yerel âdetleri, âdet yoksa k işisel durumları göz önünde tutarak bu eşyanın, payına mahsup edilmek veya edilmemek suret iyle mirasçılardan birine ö zgülenmesine ya da satılmasına karar verir. Özel kanun hükümleri saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 653**, «Madde 653» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **E. Özellikleri olan eşya

@@ -12,12 +12,11 @@ a) Eşyanın teslimi hâ linde**
 
 ---
 
-Madde 1205 - (1)   Eşyayı   gönderilene   teslim   etmiş   olan   taşıyan,   1203   üncü   maddeye  göre   gönderilenden   istenebilecek   olan   alacakların   ödenmesini   taşıtandan   isteyemez.   Ancak,  taşıtanın,   taşıyanın   zararına   olarak   sebepsiz   zenginleştiği   oranda,   taşıyan   taşı tana   rücu   edebilir.
+Madde 1205 - (1) Eşyayı gönderilene teslim etmiş olan taşıyan, 1203 üncü maddeye göre gönderilenden istenebilecek olan alacakların ödenmesini taşıtandan isteyemez. Ancak, taşıtanın, taşıyanın zararına olarak sebepsiz zenginleştiği oranda, taşıyan taşı tana rücu edebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1205**, «Madde 1205» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **3. Rücu hakkı

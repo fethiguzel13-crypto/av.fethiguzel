@@ -12,12 +12,11 @@ wordCount: 4320
 
 ---
 
-Madde 557 - (1)   Birden   çok   kişinin   aynı   zararı   tazminle   yükümlü   olmaları   hâlinde,  bunlardan   her   biri,   kusuruna   ve   duru mun   gereklerine   göre,   zarar   şahsen   kendisine  yükletilebildiği   ölçüde,   bu   zarardan   diğerleriyle   birlikte   müteselsilen   sorumlu   olur.  (2)   Davacı   birden   çok   sorumlu   kişiyi   zararın   tamamı   için   birlikte   dava   edebilir   ve  hâkimin   aynı   davada   her   bir   davalının   taz minat   borcunu   belirlemesini   isteyebilir.  (3)   Birden   çok   sorumlu   arasındaki   başvuru,   durumun   bütün   gerekleri   dikkate   alınarak  hâkim   tarafından   belirlenir.
+Madde 557 - (1) Birden çok kişinin aynı zararı tazminle yükümlü olmaları hâlinde, bunlardan her biri, kusuruna ve duru mun gereklerine göre, zarar şahsen kendisine yükletilebildiği ölçüde, bu zarardan diğerleriyle birlikte müteselsilen sorumlu olur. (2) Davacı birden çok sorumlu kişiyi zararın tamamı için birlikte dava edebilir ve hâkimin aynı davada her bir davalının taz minat borcunu belirlemesini isteyebilir. (3) Birden çok sorumlu arasındaki başvuru, durumun bütün gerekleri dikkate alınarak hâkim tarafından belirlenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 557**, «Madde 557» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

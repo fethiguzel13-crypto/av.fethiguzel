@@ -11,20 +11,19 @@ wordCount: 4304
 
 ---
 
-Madde 116 - Borçlu,  borcun  ifasını  veya  bir  borç  ilişkisinden  doğan  hakkın
+Madde 116 - Borçlu, borcun ifasını veya bir borç ilişkisinden doğan hakkın
 kullanılmasını, birlikte yaşadığı kişiler ya da yanında çalışanlar gibi yardımcılarına kanuna
 uygun surette bırakmış olsa bile, onların işi yürüttükleri sırada diğer tarafa verdikleri zararı
 gidermekle yükümlüdür.
-Yardımcı  kişilerin  fiilinden  doğan  sorumluluk,  önceden  yapılan  bir  anlaşmayla
+Yardımcı kişilerin fiilinden doğan sorumluluk, önceden yapılan bir anlaşmayla
 tamamen veya kısmen kaldırılabilir.
-Uzmanlığı  gerektiren  bir  hizmet,  meslek  veya  sanat,  ancak  kanun  veya  yetkili
+Uzmanlığı gerektiren bir hizmet, meslek veya sanat, ancak kanun veya yetkili
 makamlar tarafından verilen izinle yürütülebiliyorsa, borçlunun yardımcı kişilerin fiillerinden
 sorumlu olmayacağına ilişkin anlaşma kesin olarak hükümsüzdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 116**, «3. Yardımcı kişilerin fiillerinden sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 116 - Borçlu,  borcun  ifasını  veya  bir  borç  ilişkisinden  doğan  hakkın

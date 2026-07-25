@@ -12,12 +12,11 @@ a) Hukuki ilişkiyi ispat**
 
 ---
 
-Madde 1237 - (1)   Taşıyan   ile   konişmento   hamili   arasındaki   hukuki   ilişkilerde  konişmento   esas   alınır.  (2)   Taşıyan   ile   taşıtan   arasındaki   huk uki   ilişkiler   navlun   sözleşmesinin   hükümlerine  bağlı   kalır.  (3)   Konişmentoda,   yolculuk   çarteri   sözleşmesine   gönderme   varsa,   konişmento  devredilirken   çarter   partinin   bir   suretinin   de   yeni   hamile   ibraz   edilmesi   gerekir.   Bu   takdirde  çarter   partide   yer   alan   hü kümler,   nitelikleri   elverdiği   ölçüde   konişmento   hamiline   karşı   da  ileri   sürülebilir.   Ancak,   1245   inci   maddenin   birinci   fıkrasının   ikinci   cümlesi   hükmü   saklıdır.
+Madde 1237 - (1) Taşıyan ile konişmento hamili arasındaki hukuki ilişkilerde konişmento esas alınır. (2) Taşıyan ile taşıtan arasındaki huk uki ilişkiler navlun sözleşmesinin hükümlerine bağlı kalır. (3) Konişmentoda, yolculuk çarteri sözleşmesine gönderme varsa, konişmento devredilirken çarter partinin bir suretinin de yeni hamile ibraz edilmesi gerekir. Bu takdirde çarter partide yer alan hü kümler, nitelikleri elverdiği ölçüde konişmento hamiline karşı da ileri sürülebilir. Ancak, 1245 inci maddenin birinci fıkrasının ikinci cümlesi hükmü saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1237**, «Madde 1237» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. İspat işlevi

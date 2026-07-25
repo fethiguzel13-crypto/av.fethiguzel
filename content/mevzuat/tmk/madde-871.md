@@ -11,12 +11,11 @@ wordCount: 4316
 
 ---
 
-Madde 871 - Aynı taşınmaz üzerinde farklı sıralard a kurulmuş bulunan rehin haklarından  birinin terkin edilmiş ol ması, sonraki sırada yer alan rehinli alacaklıya boşalan dereceye geçme hakkı  vermez.  Terk in edilen rehin hakkı yerine yeni bir rehin hakkı kurulabilir.  Sonraki   sırada   yer   alan   rehinli   alacaklıl ara   boşalan   dereceye   geçme   hakkı   veren  sözleşmelerin geçerlili ği, resmî şekilde yapılmalarına; aynî etki sağlamaları, tapu kütüğüne şerh  verilmelerine b ağlıdır.
+Madde 871 - Aynı taşınmaz üzerinde farklı sıralard a kurulmuş bulunan rehin haklarından birinin terkin edilmiş ol ması, sonraki sırada yer alan rehinli alacaklıya boşalan dereceye geçme hakkı vermez. Terk in edilen rehin hakkı yerine yeni bir rehin hakkı kurulabilir. Sonraki sırada yer alan rehinli alacaklıl ara boşalan dereceye geçme hakkı veren sözleşmelerin geçerlili ği, resmî şekilde yapılmalarına; aynî etki sağlamaları, tapu kütüğüne şerh verilmelerine b ağlıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 871**, «2. Rehin dereceleri arasındaki ilişki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 871 - Aynı taşınmaz üzerinde farklı sıralard a kurulmuş bulunan rehin haklarından  birinin terkin edilmiş ol ması, sonraki sırada yer alan rehinli alacaklıya boşalan dereceye geçme hakkı  vermez.  Terk in edilen rehin hakkı yerine yeni bir rehin hakkı kurulabilir.  Sonraki   sırada   yer   alan   rehinli   alacaklıl ara   boşalan   dereceye   geçme   hakkı   veren  sözleşmelerin geçerlili ği… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

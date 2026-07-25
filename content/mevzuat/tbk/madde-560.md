@@ -12,8 +12,8 @@ wordCount: 4313
 ---
 
 Madde 560 - Kıymetli evraka bağlanmış alacağın, hâmile ödenmesi amacıyla yapılan
-yazılı  havaleler  hakkında,  bu  bölüm  hükümleri  uygulanır.  Bu  durumda  havale  ödeyicisi
-karşısında  her  hamil,  havale  alıcısı  sayılır.  Buna  karşılık,  havale  eden  ile  havale  alıcısı
+yazılı havaleler hakkında, bu bölüm hükümleri uygulanır. Bu durumda havale ödeyicisi
+karşısında her hamil, havale alıcısı sayılır. Buna karşılık, havale eden ile havale alıcısı
 arasındaki ilişkiye özgü haklar, sadece alacağı devreden ile devralan arasında doğmuş olur.
 Çekler ve poliçe benzeri havaleler hakkındaki özel hükümler saklıdır.
 
@@ -23,7 +23,6 @@ Saklama Sözleşmeleri
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 560**, «D. Kıymetli evrak konusunda havale» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 560 - Kıymetli evraka bağlanmış alacağın, hâmile ödenmesi amacıyla yapılan

@@ -11,12 +11,11 @@ wordCount: 4319
 
 ---
 
-Madde 737 - (1)   Araya   girerek   kabul   eden   kişi,   hamile   ve   kimin   lehine   araya  girmişse,   ondan   sonra   gelen   borçlulara   karşı   tıpkı   lehine   araya   girilen   kişi   gibi   sorumlu   olur.  (2)   Araya   girerek   kabule   rağmen,   lehine   kabul   gerçekleşen   kişi   ile   ondan   önce   gelen  borçlular   725   inci   maddede   gösterilen   tutarı   ödemek   şartıyla   hamilden,   poliçenin   ve   varsa  protesto   belgesinin   ve   bir   makbuzun   verilmesini   isteyebilir.
+Madde 737 - (1) Araya girerek kabul eden kişi, hamile ve kimin lehine araya girmişse, ondan sonra gelen borçlulara karşı tıpkı lehine araya girilen kişi gibi sorumlu olur. (2) Araya girerek kabule rağmen, lehine kabul gerçekleşen kişi ile ondan önce gelen borçlular 725 inci maddede gösterilen tutarı ödemek şartıyla hamilden, poliçenin ve varsa protesto belgesinin ve bir makbuzun verilmesini isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 737**, «3. Araya girerek kabul edenin sorum luluğu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 737 - (1)   Araya   girerek   kabul   eden   kişi,   hamile   ve   kimin   lehine   araya  girmişse,   ondan   sonra   gelen   borçlulara   karşı   tıpkı   lehine   araya   girilen   kişi   gibi   sorumlu   olur.  (2)   Araya   girerek   kabule   rağmen,   lehine   kabul   gerçekleşen   kişi   ile   ondan   önce   gelen  borçlular   725   inci   maddede   gösterilen   tutarı   ödemek   şartı… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

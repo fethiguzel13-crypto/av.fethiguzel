@@ -12,14 +12,14 @@ a. Tam zapt hâlinde**
 
 ---
 
-Madde 217 - Satılanın  tamamı  alıcının  elinden  alınmışsa,  satış  sözleşmesi
+Madde 217 - Satılanın tamamı alıcının elinden alınmışsa, satış sözleşmesi
 kendiliğinden sona ermiş sayılır ve alıcı satıcıdan aşağıdaki istemlerde bulunabilir:
 1. Satılandan elde ettiği veya elde etmeyi ihmal eylediği ürünlerin değeri indirilerek,
 ödemiş olduğu satış bedelinin faizi ile birlikte geri verilmesini.
 2. Satılanı elinden alan üçüncü kişiden isteyemeyeceği giderleri.
 3. Davayı satıcıya bildirmekle kaçınılabilecek olanlar dışında kalan bütün yargılama
 giderleri ile yargılama dışındaki giderleri.
-4.  Satılanın  tamamen  elinden  alınması  yüzünden  doğrudan  doğruya  uğradığı  diğer
+4. Satılanın tamamen elinden alınması yüzünden doğrudan doğruya uğradığı diğer
 zararları.
 Satıcı, kendisine hiçbir kusur yüklenemeyeceğini ispat etmedikçe, alıcının satılanın
 elinden alınması yüzünden uğramış olduğu diğer zararları da gidermekle yükümlüdür.
@@ -27,7 +27,6 @@ elinden alınması yüzünden uğramış olduğu diğer zararları da gidermekle
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 217**, «Madde 217» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **3. Alıcının hakları

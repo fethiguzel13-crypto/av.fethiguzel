@@ -11,12 +11,11 @@ wordCount: 4306
 
 ---
 
-Madde 126 - (1)   Her   şirket   türüne   özgü   hükümler   saklı   kalmak   şartıyla,   Türk  Medenî   Kanununun   tüzel   kişilere   ilişkin   genel   hükümleri   ile   bu   Kısımda   hüküm   bulunmayan  hususlarda   Türk   Borçlar   Kanununun   adi   şirkete   dair   hükümleri   her   şirket   türünün   niteliğine  uygun   olduğu   oranda,   ticaret   şirketleri   hakkında   da   uygulanır.
+Madde 126 - (1) Her şirket türüne özgü hükümler saklı kalmak şartıyla, Türk Medenî Kanununun tüzel kişilere ilişkin genel hükümleri ile bu Kısımda hüküm bulunmayan hususlarda Türk Borçlar Kanununun adi şirkete dair hükümleri her şirket türünün niteliğine uygun olduğu oranda, ticaret şirketleri hakkında da uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 126**, «C) Uygulanacak kanun hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 126 - (1)   Her   şirket   türüne   özgü   hükümler   saklı   kalmak   şartıyla,   Türk  Medenî   Kanununun   tüzel   kişilere   ilişkin   genel   hükümleri   ile   bu   Kısımda   hüküm   bulunmayan  hususlarda   Türk   Borçlar   Kanununun   adi   şirkete   dair   hükümleri   her   şirket   türünün   niteliğine  uygun   olduğu   oranda,   ticaret   şirketleri   hakkında   da   uygulanır.

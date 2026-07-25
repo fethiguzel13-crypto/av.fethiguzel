@@ -18,12 +18,11 @@ keywords:
 
 ---
 
-Madde 2 - (1)   Kanunda   aksine   bir   hüküm   yoksa,   ticari   örf   ve   âdet   olarak   kabul   edildiği  belirlenmedikçe,   teamül,   mahkemeni n   yargısına   esas   olamaz.   Ancak,   irade   açıklamalarının  yorumunda   teamüller   de   dikkate   alınır.  (2)   Bir   bölgeye   veya   bir   ticaret   dalına   özgü   ticari   örf   ve   âdetler   genel   olanlara   üstün  tutulur.   İlgililer   aynı   bölgede   değillerse,   kanunda   veya   sözleşmede   aksi   ö ngörülmedikçe,   ifa  yerindeki   ticari   örf   ve   âdet   uygulanır.  (3)   Ticari   örf   ve   âdet,   tacir   sıfatını   haiz   bulunmayanlar   hakkında   ancak   onlar  tarafından   bilindiği   veya   bilinmesi   gerektiği   takdirde   uygulanır.
+Madde 2 - (1) Kanunda aksine bir hüküm yoksa, ticari örf ve âdet olarak kabul edildiği belirlenmedikçe, teamül, mahkemeni n yargısına esas olamaz. Ancak, irade açıklamalarının yorumunda teamüller de dikkate alınır. (2) Bir bölgeye veya bir ticaret dalına özgü ticari örf ve âdetler genel olanlara üstün tutulur. İlgililer aynı bölgede değillerse, kanunda veya sözleşmede aksi ö ngörülmedikçe, ifa yerindeki ticari örf ve âdet uygulanır. (3) Ticari örf ve âdet, tacir sıfatını haiz bulunmayanlar hakkında ancak onlar tarafından bilindiği veya bilinmesi gerektiği takdirde uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Ticaret Kanunu’nun (TTK) 2. maddesi, kanunun **"Başlangıç Hükümleri"** arasında yer alarak, m. 1/2'de zikredilen "ticari örf ve âdet" kaynağının uygulama sınırlarını, kapsamını ve özel hukuk kişileri üzerindeki etki alanını düzenler. Madde, ticari örf ve âdeti alelade fiili uygulamalardan (teamüllerden) net bir çizgiyle ayırırken, bölgesel ve sektörel örflerin çatışması durumunda hangi kuralın üstün tutulacağını ve tacir olmayan üçüncü kişilerin ticari örfle nasıl bağlanabileceğini üç fıkrada hükme bağlar.

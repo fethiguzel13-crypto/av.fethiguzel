@@ -11,20 +11,19 @@ wordCount: 4261
 
 ---
 
-Madde 255 - Taksitle  satış  sözleşmesi,  alıcı  bakımından,  taraflarca  imzalanmış
+Madde 255 - Taksitle satış sözleşmesi, alıcı bakımından, taraflarca imzalanmış
 sözleşmenin bir nüshasının eline geçmesinden yedi gün sonra hüküm ve sonuçlarını doğurur.
 Alıcı, bu süre içinde irade açıklamasını geri aldığını satıcıya yazılı olarak bildirebilir. Bu
-haktan  önceden  feragat  edilemez.  Geri  alma  bildiriminin  sürenin  son  gününde  postaya
+haktan önceden feragat edilemez. Geri alma bildiriminin sürenin son gününde postaya
 verilmiş olması, sonuç doğurması için yeterlidir.
 Satıcı geri alma süresi içinde malı alıcıya devretmişse alıcı, malı ancak olağan bir
-gözden  geçirmenin  gerektirdiği  ölçüde  kullanabilir;  aksi  takdirde  sözleşme  hüküm  ve
+gözden geçirmenin gerektirdiği ölçüde kullanabilir; aksi takdirde sözleşme hüküm ve
 sonuçlarını doğurmuş olur.
 Alıcının geri alma hakkını kullanması hâlinde, kendisinden cayma parası istenemez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 255**, «3. Sözleşmenin hüküm ve sonuçlarını doğurması ve geri alma açıklaması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 255 - Taksitle  satış  sözleşmesi,  alıcı  bakımından,  taraflarca  imzalanmış

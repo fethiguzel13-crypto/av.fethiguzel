@@ -12,12 +12,11 @@ wordCount: 4271
 
 ---
 
-Madde 427 - Vesayet   makamı,   yönetimi   kimseye   ait   olmayan   mallar   için   gereken  önlemleri alır v e özellikle aşağıdaki hâlle rde bir yönetim kayyımı ata r:  1. Bir k imse u zun süreden beri bulunamaz ve oturduğu yer de bilinemezse,  2. Vesayet altına alınması için yeterli bir   sebep bulunmamakla beraber, bir kişi malvarl ığını  kendi başına yönetmek veya bunu n için temsilci atamak gücü nden yoksunsa,  3. Bir terekede mirasçı lık ha kları   henüz belli   değilse veya ceninin menfaatleri gerekli kılarsa,  4.   Bir   tüzel   kişi   gerekli   organlard an   yoksun   kalmış   ve   yönetimi   başka   yoldan  sağlanamamışsa,  5. Bir hayır işi veya g enel yarar amacı güden başk a bir iş için halktan topla nan para ve  sair   yardımı yönetme veya harcama yolu sağlanamamışsa.
+Madde 427 - Vesayet makamı, yönetimi kimseye ait olmayan mallar için gereken önlemleri alır v e özellikle aşağıdaki hâlle rde bir yönetim kayyımı ata r: 1. Bir k imse u zun süreden beri bulunamaz ve oturduğu yer de bilinemezse, 2. Vesayet altına alınması için yeterli bir sebep bulunmamakla beraber, bir kişi malvarl ığını kendi başına yönetmek veya bunu n için temsilci atamak gücü nden yoksunsa, 3. Bir terekede mirasçı lık ha kları henüz belli değilse veya ceninin menfaatleri gerekli kılarsa, 4. Bir tüzel kişi gerekli organlard an yoksun kalmış ve yönetimi başka yoldan sağlanamamışsa, 5. Bir hayır işi veya g enel yarar amacı güden başk a bir iş için halktan topla nan para ve sair yardımı yönetme veya harcama yolu sağlanamamışsa.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 427**, «Madde 427» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Yönetim

@@ -17,12 +17,11 @@ VII
 
 ---
 
-Madde 1334 - (1)   Ölüm   ve   yaralanmadan   doğan   alacakların,   1976   tarihli   Sözleşmenin  6   ncı   maddesinin   ikinci   paragrafı   uyarınca   sahip   oldukları   hakların   ihlal   edilmemesi   kaydıyla,  aynı   maddenin   üçüncü   paragrafında   sa yılan   alacaklar,   birinci   paragrafının   (b)   bendinde   yazılı  diğer   alacaklara   oranla   önceliklidir.  (2)   Bu   öncelik,   paylaştırmada   aşağıdaki   sıra   izlenerek   gerçekleştirilir:  a)   1976   tarihli   Sözleşmenin   6   ncı   maddesinin   birinci   paragrafının   (b)   bendinde   sayılan  alacaklarla,   ikinci   paragrafında   yazılı   alacakların   arasındaki   paylaştırma   oranı   belirlenir.
+Madde 1334 - (1) Ölüm ve yaralanmadan doğan alacakların, 1976 tarihli Sözleşmenin 6 ncı maddesinin ikinci paragrafı uyarınca sahip oldukları hakların ihlal edilmemesi kaydıyla, aynı maddenin üçüncü paragrafında sa yılan alacaklar, birinci paragrafının (b) bendinde yazılı diğer alacaklara oranla önceliklidir. (2) Bu öncelik, paylaştırmada aşağıdaki sıra izlenerek gerçekleştirilir: a) 1976 tarihli Sözleşmenin 6 ncı maddesinin birinci paragrafının (b) bendinde sayılan alacaklarla, ikinci paragrafında yazılı alacakların arasındaki paylaştırma oranı belirlenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1334**, «Madde 1334» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VI

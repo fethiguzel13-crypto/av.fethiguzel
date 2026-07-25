@@ -11,13 +11,12 @@ wordCount: 4266
 
 ---
 
-Madde 881 - Hâlen   mevcut olan veya henüz doğmamış olmakla beraber doğması kesin  veya olası bulunan herhangi bir alacak, i potekle güvence altına alınabilir.  İpoteğe konu olacak taşınma zın, borçlunun mülkiyetinde bulunması gerekmez.  B. Kurulması ve sona ermesi  I. Kuruluş  Ma dde 882 -   Miktarı belirli olmayan veya değişebilen alacaklar da, belli rehin derecesine  yerleştirilir ve   tescilden sonra alacak miktarında meydana gelecek değişmelere   bakılmaksızın sırasını  korur.  Tapu memuru istem üzerine alacaklıya ipoteği gösteren bir be lge verir. Sadece tescilin
-yapıldığını ispata yarayan bu belge kıymetli evrak niteliği taşımaz.  Tescilin   yapıldığının sözleşme üzerine yazılıp onaylanması, ipotek bel gesi yerine geçer.
+Madde 881 - Hâlen mevcut olan veya henüz doğmamış olmakla beraber doğması kesin veya olası bulunan herhangi bir alacak, i potekle güvence altına alınabilir. İpoteğe konu olacak taşınma zın, borçlunun mülkiyetinde bulunması gerekmez. B. Kurulması ve sona ermesi I. Kuruluş Ma dde 882 - Miktarı belirli olmayan veya değişebilen alacaklar da, belli rehin derecesine yerleştirilir ve tescilden sonra alacak miktarında meydana gelecek değişmelere bakılmaksızın sırasını korur. Tapu memuru istem üzerine alacaklıya ipoteği gösteren bir be lge verir. Sadece tescilin
+yapıldığını ispata yarayan bu belge kıymetli evrak niteliği taşımaz. Tescilin yapıldığının sözleşme üzerine yazılıp onaylanması, ipotek bel gesi yerine geçer.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 881**, «Madde 881» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 881 - Hâlen   mevcut olan veya henüz doğmamış olmakla beraber doğması kesin  veya olası bulunan herhangi bir alacak, i potekle güvence altına alınabilir.  İpoteğe konu olacak taşınma zın, borçlunun mülkiyetinde bulunması gerekmez.  B. Kurulması ve sona ermesi  I. Kuruluş  Ma dde 882 -   Miktarı belirli olmayan veya değişebilen alacaklar da, belli rehin derecesine  yerleştirilir ve   tescilde… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

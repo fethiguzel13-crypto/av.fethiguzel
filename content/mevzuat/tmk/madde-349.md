@@ -12,12 +12,11 @@ wordCount: 4272
 
 ---
 
-Madde 349 - Velâyete sahip ana veya babanın yeniden evlenmesi, velâyetin kaldı rılmasını  gerektirmez. Ancak, çocuğun menfaati gerektirdiğinde velâ yet sahibi değ iştirilebileceği gibi,  duru m ve koşullara göre velâyet   kaldırılar ak çoc uğa vasi de atanabilir.
+Madde 349 - Velâyete sahip ana veya babanın yeniden evlenmesi, velâyetin kaldı rılmasını gerektirmez. Ancak, çocuğun menfaati gerektirdiğinde velâ yet sahibi değ iştirilebileceği gibi, duru m ve koşullara göre velâyet kaldırılar ak çoc uğa vasi de atanabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 349**, «Madde 349» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Ana ve babanın çocuğa yeterli ilgiyi g österm emesi veya ona karşı yükümlülükleri ni ağır biçimde savsaklaması. Velâyet ana ve babanın her ikisinden ka ldırılırsa çocuğa bir vasi atanır. Kararda aksi belirtilmedikçe, velâyetin kaldı rılması mevcut ve doğacak b ütün çocukları kapsar.

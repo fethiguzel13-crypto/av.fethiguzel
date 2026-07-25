@@ -12,13 +12,12 @@ wordCount: 4260
 
 ---
 
-Madde 702 - (1)   Aval   veren   kişi,   kimin   için   taahhüt   altına   girmişse   aynen   onun   gibi  sorumlu   olur.  (2)   Aval   veren   kişinin   teminat   altına   aldığı   borç,   şekle   ait   noksandan   başka   bir  sebepten   dolayı   batıl   olsa   da   aval   verenin   taahhüdü   geçerlidir.  (3)   Aval   veren   kişi,   poliçe   bedelini   ödediği   takdirde,   poliçeden   dolayı   lehine   taahhüt  altına   girmiş   olduğu   kişiye   ve   ona,   poliçe   gereğince   sorumlu   olan   kişilere   karşı   poliçeden  doğan   haklarını   iktisap   eder.
-DÖRDÜNCÜ   AYIRIM  Ödeme  A)   Vade  I   -   Vadenin   belirlenmesi  1.   Genel   olarak
+Madde 702 - (1) Aval veren kişi, kimin için taahhüt altına girmişse aynen onun gibi sorumlu olur. (2) Aval veren kişinin teminat altına aldığı borç, şekle ait noksandan başka bir sebepten dolayı batıl olsa da aval verenin taahhüdü geçerlidir. (3) Aval veren kişi, poliçe bedelini ödediği takdirde, poliçeden dolayı lehine taahhüt altına girmiş olduğu kişiye ve ona, poliçe gereğince sorumlu olan kişilere karşı poliçeden doğan haklarını iktisap eder.
+DÖRDÜNCÜ AYIRIM Ödeme A) Vade I - Vadenin belirlenmesi 1. Genel olarak
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 702**, «Madde 702» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

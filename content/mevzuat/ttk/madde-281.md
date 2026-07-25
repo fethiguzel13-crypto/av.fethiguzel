@@ -11,12 +11,11 @@ wordCount: 4309
 
 ---
 
-Madde 281 - (1)   Üçüncü   kişiler   tarafından   yapılacak   teklif,   icap,   ihbar,   ihtar   ve  tebliğ   gibi   beyanların   ta sfiye   memurlarından   yalnız   birine   karşı   yapılması   yeterlidir.  (2)   Şirketin   menfaatleri   için   tehlike   umulan   durumlarda   özellikle   kanun   yollarına  başvurulmasında   tasfiye   memurları   tek   başlarına   hareket   edebilirler.
+Madde 281 - (1) Üçüncü kişiler tarafından yapılacak teklif, icap, ihbar, ihtar ve tebliğ gibi beyanların ta sfiye memurlarından yalnız birine karşı yapılması yeterlidir. (2) Şirketin menfaatleri için tehlike umulan durumlarda özellikle kanun yollarına başvurulmasında tasfiye memurları tek başlarına hareket edebilirler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 281**, «4. Yalnız başına hareket» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 281 - (1)   Üçüncü   kişiler   tarafından   yapılacak   teklif,   icap,   ihbar,   ihtar   ve  tebliğ   gibi   beyanların   ta sfiye   memurlarından   yalnız   birine   karşı   yapılması   yeterlidir.  (2)   Şirketin   menfaatleri   için   tehlike   umulan   durumlarda   özellikle   kanun   yollarına  başvurulmasında   tasfiye   memurları   tek   başlarına   hareket   edebilirler.

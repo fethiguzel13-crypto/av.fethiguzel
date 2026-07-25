@@ -11,12 +11,11 @@ wordCount: 4258
 
 ---
 
-Madde 989 - Taşınırı çalınan, kaybolan ya da iradesi dışında başka herhangi bir şekilde  elinden çıkan   zilyet, o şeyi elinde bulunduran herkese karşı beş yıl içinde taşınır davası açabilir.  Bu taşınır, açık   artırmadan veya pazardan ya da benzeri eşya satanlardan iyiniy etle  edinilmiş ise; iyiniyetli birinci ve sonraki edinenlere karşı taşınır davası, ancak ö denen bedelin  geri verilmesi koşuluyla açılabilir.  Diğer konularda iyiniyetli zilyedin haklarına ilişkin   hükümler uygulanır.
+Madde 989 - Taşınırı çalınan, kaybolan ya da iradesi dışında başka herhangi bir şekilde elinden çıkan zilyet, o şeyi elinde bulunduran herkese karşı beş yıl içinde taşınır davası açabilir. Bu taşınır, açık artırmadan veya pazardan ya da benzeri eşya satanlardan iyiniy etle edinilmiş ise; iyiniyetli birinci ve sonraki edinenlere karşı taşınır davası, ancak ö denen bedelin geri verilmesi koşuluyla açılabilir. Diğer konularda iyiniyetli zilyedin haklarına ilişkin hükümler uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 989**, «b. Kaybedilen veya çalınan eşya bakımından» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 989 - Taşınırı çalınan, kaybolan ya da iradesi dışında başka herhangi bir şekilde  elinden çıkan   zilyet, o şeyi elinde bulunduran herkese karşı beş yıl içinde taşınır davası açabilir.  Bu taşınır, açık   artırmadan veya pazardan ya da benzeri eşya satanlardan iyiniy etle  edinilmiş ise; iyiniyetli birinci ve sonraki edinenlere karşı taşınır davası, ancak ö denen bedelin  geri verilmesi koş… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

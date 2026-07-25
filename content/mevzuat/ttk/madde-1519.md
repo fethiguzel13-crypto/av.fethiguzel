@@ -12,12 +12,11 @@ wordCount: 4297
 
 ---
 
-Madde 1519 - (1)   Hayat   sigortalarına   ilişkin   hükümler   1497   ve   1504   üncü   madde  hükümleri   dışında   hastalık   sigortasına   da   uygulanır.   Ancak   hastalık   sigortasına   1503   üncü  maddenin   uygulanabilmesi ,   sözleşmede   öngörülen   rizikonun   intihara   teşebbüs   nedeniyle  gerçekleşmiş   olmasına   bağlıdır.  (2)   Sigortalının   uğradığı   hastalık,   ilaç   ve   tedavi   giderleri   için   harcama   yapılması   gibi  gerçek   zararların   sigortacı   tarafından   karşılanması   öngörülen   sağlık   sigor talarında   ise,   genel  hükümler   dışında,   zarar   sigortalarına   ilişkin   hükümler   ile   1500   ilâ   1502   nci   madde   hükümleri  sağlık   sigortası   hakkında   da   uygulanır.
+Madde 1519 - (1) Hayat sigortalarına ilişkin hükümler 1497 ve 1504 üncü madde hükümleri dışında hastalık sigortasına da uygulanır. Ancak hastalık sigortasına 1503 üncü maddenin uygulanabilmesi , sözleşmede öngörülen rizikonun intihara teşebbüs nedeniyle gerçekleşmiş olmasına bağlıdır. (2) Sigortalının uğradığı hastalık, ilaç ve tedavi giderleri için harcama yapılması gibi gerçek zararların sigortacı tarafından karşılanması öngörülen sağlık sigor talarında ise, genel hükümler dışında, zarar sigortalarına ilişkin hükümler ile 1500 ilâ 1502 nci madde hükümleri sağlık sigortası hakkında da uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1519**, «Madde 1519» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VIII

@@ -12,12 +12,11 @@ I. Yönetim ve hesap tutma yükümlülüğü**
 
 ---
 
-Madde 454 - Vasi, vesayet altındaki   kişinin malvarlığını iy i bir yönetici gibi özenle  yönetmek zorundadır.  Vasi, yön etimle ilgili hesap tutmak   ve vesayet makamının belirlediği tarih lerde   ve her  hâlde yılda bir defa hesabı onun incelemesine sunmak la yükümlüdür.  Vesayet altındaki kişi görüşle rini oluşturma ve açıklama yet eneğine sahip ise, hesabın  hâkim tarafından incelen mesi sırasında olanak ölçüs ünde hazır bulundurulur.
+Madde 454 - Vasi, vesayet altındaki kişinin malvarlığını iy i bir yönetici gibi özenle yönetmek zorundadır. Vasi, yön etimle ilgili hesap tutmak ve vesayet makamının belirlediği tarih lerde ve her hâlde yılda bir defa hesabı onun incelemesine sunmak la yükümlüdür. Vesayet altındaki kişi görüşle rini oluşturma ve açıklama yet eneğine sahip ise, hesabın hâkim tarafından incelen mesi sırasında olanak ölçüs ünde hazır bulundurulur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 454**, «Madde 454» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Malvarlığının yönetilmesi

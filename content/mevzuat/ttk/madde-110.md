@@ -12,12 +12,11 @@ wordCount: 4315
 
 ---
 
-Madde 110 - (1)   Acente,   üçüncü   kişilerin   kabule   yetkili   olduğu   beyanlarını,  bölgesindeki   piyasanın   ve   müşterilerin   finansal   durumunu,   şartlarını,   bunlarda   meydana   gelen  deği şiklikleri   ve   yapılan   işlemlere   ilişkin   olarak   müvekkilini   ilgilendiren   bütün   hususları   ona  zamanında   bildirmek   zorundadır.  (2)   Acente,   müvekkilin   açık   talimatı   olmayan   konularda,   emir   alıncaya   kadar   işlemi  geciktirebilir.   Ancak,   işin   acele   nitelik   taşıma sı   nedeniyle   durum   müvekkilinden   talimat  almaya   müsait   olmazsa   veya   acente   en   yararlı   şartlar   çerçevesinde   harekete   yetkiliyse,  basiretli   bir   tacir   gibi   kendi   görüşüne   göre   işlemi   yapar.
+Madde 110 - (1) Acente, üçüncü kişilerin kabule yetkili olduğu beyanlarını, bölgesindeki piyasanın ve müşterilerin finansal durumunu, şartlarını, bunlarda meydana gelen deği şiklikleri ve yapılan işlemlere ilişkin olarak müvekkilini ilgilendiren bütün hususları ona zamanında bildirmek zorundadır. (2) Acente, müvekkilin açık talimatı olmayan konularda, emir alıncaya kadar işlemi geciktirebilir. Ancak, işin acele nitelik taşıma sı nedeniyle durum müvekkilinden talimat almaya müsait olmazsa veya acente en yararlı şartlar çerçevesinde harekete yetkiliyse, basiretli bir tacir gibi kendi görüşüne göre işlemi yapar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 110**, «Madde 110» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

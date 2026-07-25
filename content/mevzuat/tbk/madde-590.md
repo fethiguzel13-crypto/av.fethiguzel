@@ -11,24 +11,23 @@ wordCount: 4261
 
 ---
 
-Madde 590 - Borçlunun  iflası  sebebiyle  asıl  borç  daha  önce  muaccel  olsa  bile,
+Madde 590 - Borçlunun iflası sebebiyle asıl borç daha önce muaccel olsa bile,
 belirlenen vadeden önce kefile karşı takibat yapılamaz.
 Bütün kefalet türlerinde kefil, ayni güvence karşılığında hâkimden, mevcut rehinler paraya
-çevrilinceye  ve  borçlu  aleyhine  yapılan  takip  sonucunda  kesin  aciz  belgesi  alınıncaya  veya
-konkordato kararına kadar kendisine karşı yöneltilen takibin durdurulmasına  karar  verilmesini
+çevrilinceye ve borçlu aleyhine yapılan takip sonucunda kesin aciz belgesi alınıncaya veya
+konkordato kararına kadar kendisine karşı yöneltilen takibin durdurulmasına karar verilmesini
 isteyebilir.
 Asıl borcun muaccel olması, alacaklı veya borçlunun önceden süre içeren bildirimde
 bulunmasına bağlıysa, kefalet borcu için bu süre, bildirimin kefile yapıldığı tarihte işlemeye
 başlar.
 Yerleşim yeri yabancı bir ülkede olan borçlunun borcunu ödemesi, döviz işlemleri
-veya  havale  ile  ilgili  yasaklar gibi sebeplerle, o yabancı ülkenin yasal düzenlemeleri gereği
+veya havale ile ilgili yasaklar gibi sebeplerle, o yabancı ülkenin yasal düzenlemeleri gereği
 imkânsız hâle gelmiş veya sınırlandırılmışsa, yerleşim yeri Türkiye’de olan kefil, takibe bu
 sebeple itiraz edebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 590**, «b. Kefilin takibi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 590 - Borçlunun  iflası  sebebiyle  asıl  borç  daha  önce  muaccel  olsa  bile,

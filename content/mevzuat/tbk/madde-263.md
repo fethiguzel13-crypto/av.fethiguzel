@@ -11,17 +11,17 @@ wordCount: 4263
 
 ---
 
-Madde 263 - Taksitle  satışa  ilişkin  hükümler,  aynı  ekonomik  amaçla  yapılan
+Madde 263 - Taksitle satışa ilişkin hükümler, aynı ekonomik amaçla yapılan
 işlemlere de uygulanır.
 Bir taşınırı edinme amacıyla yapılan ödünç sözleşmelerinde satıcının, mülkiyeti saklı
-tutma kaydı ile birlikte  veya bundan bağımsız olarak satış bedeli alacağını ödünç verene
+tutma kaydı ile birlikte veya bundan bağımsız olarak satış bedeli alacağını ödünç verene
 devretmesi veya satıcı ile ödünç verenin başka surette anlaşarak, alıcının satış bedelini daha
 sonra taksitler hâlinde ödemek üzere malın teslimini sağlamaları durumunda, taksitle satışa
 ilişkin hükümler kıyas yoluyla uygulanır. Ödünç sözleşmesinde, taksitle satış sözleşmelerine
 konulması zorunlu olan hususların yer alması şarttır. Ancak, bunlardan peşin satış bedeli ile
-toplam satış bedeli  yerine, ödünç alınan miktar ile ödünç verene ödenecek toplam ödünç
+toplam satış bedeli yerine, ödünç alınan miktar ile ödünç verene ödenecek toplam ödünç
 miktarı gösterilir.
-Peşin  satışla  bağlantılı  taksitle  ödünç  sözleşmelerinde,  ödünç  verene,  yasal  asgari
+Peşin satışla bağlantılı taksitle ödünç sözleşmelerinde, ödünç verene, yasal asgari
 peşinatın ödenmiş ve peşin satış bedelinin ödünç sözleşmesinin yapılması sırasında herhangi
 bir ilave yapılmaksızın tamamen karşılanmış olması hâlinde, taksitle satışa ilişkin hükümler
 uygulanmaz.
@@ -33,7 +33,6 @@ uygulanır.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 263**, «7. Uygulama alanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 263 - Taksitle  satışa  ilişkin  hükümler,  aynı  ekonomik  amaçla  yapılan

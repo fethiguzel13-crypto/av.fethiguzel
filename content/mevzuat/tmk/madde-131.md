@@ -11,12 +11,11 @@ wordCount: 4308
 
 ---
 
-Madde 131 - Gaipliğine karar verilen kişinin eşi, mahkemece evliliğin feshine karar  verilmedikçe yeniden evl enemez.  Kaybolanın eşi evliliğin feshini, gaiplik başvurusuyla birlikte veya ayrıca açacağı bir   dava  ile isteyebilir.  Ayrı bir dava ile evliliğin feshi, davacının yerleşim yeri mahkemesinden istenir.
+Madde 131 - Gaipliğine karar verilen kişinin eşi, mahkemece evliliğin feshine karar verilmedikçe yeniden evl enemez. Kaybolanın eşi evliliğin feshini, gaiplik başvurusuyla birlikte veya ayrıca açacağı bir dava ile isteyebilir. Ayrı bir dava ile evliliğin feshi, davacının yerleşim yeri mahkemesinden istenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 131**, «b. Gaiplik durumunda» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 131 - Gaipliğine karar verilen kişinin eşi, mahkemece evliliğin feshine karar  verilmedikçe yeniden evl enemez.  Kaybolanın eşi evliliğin feshini, gaiplik başvurusuyla birlikte veya ayrıca açacağı bir   dava  ile isteyebilir.  Ayrı bir dava ile evliliğin feshi, davacının yerleşim yeri mahkemesinden istenir.

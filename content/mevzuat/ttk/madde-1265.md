@@ -12,12 +12,11 @@ wordCount: 4299
 
 ---
 
-Madde 1265 - (1)   Taşıyanın   veya   fiilî   taşıyanın   adamları   aleyhine   bu   Bölümde  düzenlenen   zararlar   dolayısıyla   dava   açılmışsa,   bu   kişiler,   zararın   görevlerini   yerine  getirdikleri   sırada   meydana   gelmiş   o lduğunu   ispatlamak   şartıyla,   taşıyana   ve   fiilî   taşıyana   bu  Bölümde   tanınan   savunma   imkânlarından   ve   sorumluluk   sınırlarından   yararlanabilirler.
+Madde 1265 - (1) Taşıyanın veya fiilî taşıyanın adamları aleyhine bu Bölümde düzenlenen zararlar dolayısıyla dava açılmışsa, bu kişiler, zararın görevlerini yerine getirdikleri sırada meydana gelmiş o lduğunu ispatlamak şartıyla, taşıyana ve fiilî taşıyana bu Bölümde tanınan savunma imkânlarından ve sorumluluk sınırlarından yararlanabilirler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1265**, «Madde 1265» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **X

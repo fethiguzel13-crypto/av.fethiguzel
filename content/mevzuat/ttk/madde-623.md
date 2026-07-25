@@ -14,13 +14,12 @@ I
 
 ---
 
-Madde 623 - (1)   Şirketin   yönetimi   ve   temsili   şirket   sözleşmesi   ile   düzenlenir.  Şirketin   sözleşmesi   ile   yönetimi   ve   temsili,   müdür   sıfatını   taşıyan   bir   veya   birden   fazla   ortağa  veya   tüm   ortaklara   ya   da   üçüncü   kişilere   verilebilir.   En   azından   bir   ortağın,   şirketi   yönetim  hakkının   ve   temsil   yetkisinin   bulunması   gerekir.  (2)   Şirketin   müdürlerinden   biri   bir   tüzel   kişi   ol duğu   takdirde,   bu   kişi   bu   görevi   tüzel  kişi   adına   yerine   getirecek   bir   gerçek   kişiyi   belirler.  (3)   Müdürler,   kanunla   veya   şirket   sözleşmesi   ile   genel   kurula   bırakılmamış   bulunan  93   Anayasa Mahkemesinin 25/12/2025   t arihli ve E: 2025/128, K: 2025/273   s ayılı   K ararı   ile bu   bent te  yer   alan   “ Bir   ortağın   haklı   sebepler   dolayısıyla   şirketten   çıkarılması   için   mahkemeye  başvurulması … ”   ibare si   “ iki ortaklı limited şirketler ”   yönünden ipta l edilmiştir.
-yönetime   ilişkin   tüm   konularda   karar   almaya   ve   bu   kararları   yürütmeye   yetkilid irler.
+Madde 623 - (1) Şirketin yönetimi ve temsili şirket sözleşmesi ile düzenlenir. Şirketin sözleşmesi ile yönetimi ve temsili, müdür sıfatını taşıyan bir veya birden fazla ortağa veya tüm ortaklara ya da üçüncü kişilere verilebilir. En azından bir ortağın, şirketi yönetim hakkının ve temsil yetkisinin bulunması gerekir. (2) Şirketin müdürlerinden biri bir tüzel kişi ol duğu takdirde, bu kişi bu görevi tüzel kişi adına yerine getirecek bir gerçek kişiyi belirler. (3) Müdürler, kanunla veya şirket sözleşmesi ile genel kurula bırakılmamış bulunan 93 Anayasa Mahkemesinin 25/12/2025 t arihli ve E: 2025/128, K: 2025/273 s ayılı K ararı ile bu bent te yer alan “ Bir ortağın haklı sebepler dolayısıyla şirketten çıkarılması için mahkemeye başvurulması … ” ibare si “ iki ortaklı limited şirketler ” yönünden ipta l edilmiştir.
+yönetime ilişkin tüm konularda karar almaya ve bu kararları yürütmeye yetkilid irler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 623**, «Madde 623» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Yönetim ve temsil

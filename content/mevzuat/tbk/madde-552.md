@@ -17,7 +17,7 @@ yerde ve kolayca okuyabilecekleri bir biçimde, yazıyla aksine duyuru yapılmı
 aşağıdaki işlemler için yetkilidirler:
 1. Ticari işletmenin alışılmış bütün satış işlemlerini yapmak.
 2. Yetkili oldukları işlemler hakkında faturaları imzalamak.
-3.  Ticari  işletmenin  alışılmış  işlemlerinden  doğan  borçların  ifa  edilmesine  veya
+3. Ticari işletmenin alışılmış işlemlerinden doğan borçların ifa edilmesine veya
 bunların hiç ya da gereği gibi ifa edilmemesine ilişkin ihtar veya diğer açıklamaları işletme
 sahibi adına yapmak; bu nitelikteki ihtar veya diğer açıklamaları, özellikle alışılmış işlem
 dolayısıyla teslim edilmiş mallara ilişkin ayıp bildirimlerini ticari işletme adına kabul etmek.
@@ -29,7 +29,6 @@ yetkili bulundukları hâllerde, faturaları kapatmaya veya makbuz vermeye de ye
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 552**, «C. Diğer tacir yardımcıları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 552 - Toptan, yarı toptan veya perakende satışlarla uğraşan ticari işletmelerin

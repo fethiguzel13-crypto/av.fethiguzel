@@ -12,12 +12,11 @@ a) Haklı sebeplerin varlığında**
 
 ---
 
-Madde 257 - (1)   Yalnız   iki   kişiden   oluşan   bir   kollektif   şirkette,   ortaklardan   birinin  şirketten   çıkarılmasını   gerektiren   haklı   sebepler   varsa,   diğer   ortağın   istemi   üzerine   mahkeme  fesih   ve   tasfiyeye   karar   vermeksizin   şirketin   bütün   iş   ve   işlemleri,   varlıkları,   alacak   ve  borçlarıyla   davacı   ortağa   bırakılmasına   ve   diğer   ortağın   şirketten   çıkarılmasına   karar   verebilir.  Bu   hâlde,   çıkarılan   ortak   hakkında   262   nci   madde   hükmü   uygulanır.
+Madde 257 - (1) Yalnız iki kişiden oluşan bir kollektif şirkette, ortaklardan birinin şirketten çıkarılmasını gerektiren haklı sebepler varsa, diğer ortağın istemi üzerine mahkeme fesih ve tasfiyeye karar vermeksizin şirketin bütün iş ve işlemleri, varlıkları, alacak ve borçlarıyla davacı ortağa bırakılmasına ve diğer ortağın şirketten çıkarılmasına karar verebilir. Bu hâlde, çıkarılan ortak hakkında 262 nci madde hükmü uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 257**, «Madde 257» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **5. İki kişilik şirkette

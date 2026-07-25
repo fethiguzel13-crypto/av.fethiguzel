@@ -11,12 +11,11 @@ wordCount: 4266
 
 ---
 
-Madde 371 - A ltsoy,   bu bedeli borçlunun ölümü hâlinde isteyebilir.  Alacaklı,   bu   alacağını   borçlunun   sağlığında,   birlikte   ya şamanın   sona   ermesi   veya  işletmenin el değiştirmesi, bor çluya karşı icra takibi y apılması veya onun iflâsı h âllerinde de  isteyebilir.  Bu alacak za manaşı mına u ğramaz. Fakat en geç borçlunun terekesinin taksimi anına kadar  istenebilir.  ÜÇÜNCÜ AYIRIM  AİLE MA LLARI  A. Aile vakfı
+Madde 371 - A ltsoy, bu bedeli borçlunun ölümü hâlinde isteyebilir. Alacaklı, bu alacağını borçlunun sağlığında, birlikte ya şamanın sona ermesi veya işletmenin el değiştirmesi, bor çluya karşı icra takibi y apılması veya onun iflâsı h âllerinde de isteyebilir. Bu alacak za manaşı mına u ğramaz. Fakat en geç borçlunun terekesinin taksimi anına kadar istenebilir. ÜÇÜNCÜ AYIRIM AİLE MA LLARI A. Aile vakfı
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 371**, «2. İstenmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 371 - A ltsoy,   bu bedeli borçlunun ölümü hâlinde isteyebilir.  Alacaklı,   bu   alacağını   borçlunun   sağlığında,   birlikte   ya şamanın   sona   ermesi   veya  işletmenin el değiştirmesi, bor çluya karşı icra takibi y apılması veya onun iflâsı h âllerinde de  isteyebilir.  Bu alacak za manaşı mına u ğramaz. Fakat en geç borçlunun terekesinin taksimi anına kadar  istenebilir.  ÜÇÜNCÜ AY… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

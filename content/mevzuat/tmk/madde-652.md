@@ -11,13 +11,12 @@ wordCount: 4277
 
 ---
 
-Madde 652 - Eşlerden birinin ölümü hâlinde tereke malları arasında ev eşyası v eya eşlerin  birlikte yaş adıkları konut varsa; sağ kalan   eş, bunlar üzerinde kendisine mira s hakkına mahsuben  mülkiyet   hakkı tanınmasını isteyebilir.
-Haklı   sebeplerin   varlığı   hâlinde,   sağ   kalan   eşin   veya   mirasbırakanın   diğer   yasal  mirasçılarından birinin is temi üzerine, mülkiyet yerine intifa veya oturma hakkı tanınmasına da  karar verilebilir.  M irasbırakanın bir meslek ve ya sanat icra ettiği ve altsoyundan birinin aynı meslek ve  sanatı icra etmesi için gerekli olan bölümlerde, sağ kalan eş bu hakları kullana maz. Tarımsal  taşınmazlara ilişkin miras hukuku hükümleri saklıdır.
+Madde 652 - Eşlerden birinin ölümü hâlinde tereke malları arasında ev eşyası v eya eşlerin birlikte yaş adıkları konut varsa; sağ kalan eş, bunlar üzerinde kendisine mira s hakkına mahsuben mülkiyet hakkı tanınmasını isteyebilir.
+Haklı sebeplerin varlığı hâlinde, sağ kalan eşin veya mirasbırakanın diğer yasal mirasçılarından birinin is temi üzerine, mülkiyet yerine intifa veya oturma hakkı tanınmasına da karar verilebilir. M irasbırakanın bir meslek ve ya sanat icra ettiği ve altsoyundan birinin aynı meslek ve sanatı icra etmesi için gerekli olan bölümlerde, sağ kalan eş bu hakları kullana maz. Tarımsal taşınmazlara ilişkin miras hukuku hükümleri saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 652**, «D. Aile konutu ve ev eşyasının sağ kalan eşe özgülenmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 652 - Eşlerden birinin ölümü hâlinde tereke malları arasında ev eşyası v eya eşlerin  birlikte yaş adıkları konut varsa; sağ kalan   eş, bunlar üzerinde kendisine mira s hakkına mahsuben  mülkiyet   hakkı tanınmasını isteyebilir.

@@ -11,12 +11,11 @@ wordCount: 4267
 
 ---
 
-Madde 872 - Sonraki sıralarda kurulmuş bir rehin hakkından önce gelen bir rehi n mevcut  değilse veya borçlu önceki bir rehin senedi üzerinde   tasarruf etmemişse ya da önceki sırada  bulunan rehinli alacak, o derece için tescilde beli rtilen miktardan az ise; taşınmazın paraya  çevrilmesinde satış bedeli, boş derece hesaba katılmaksızın s onraki alacaklılara sıralarına göre  dağıtılır.
+Madde 872 - Sonraki sıralarda kurulmuş bir rehin hakkından önce gelen bir rehi n mevcut değilse veya borçlu önceki bir rehin senedi üzerinde tasarruf etmemişse ya da önceki sırada bulunan rehinli alacak, o derece için tescilde beli rtilen miktardan az ise; taşınmazın paraya çevrilmesinde satış bedeli, boş derece hesaba katılmaksızın s onraki alacaklılara sıralarına göre dağıtılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 872**, «3. Boş dereceler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 872 - Sonraki sıralarda kurulmuş bir rehin hakkından önce gelen bir rehi n mevcut  değilse veya borçlu önceki bir rehin senedi üzerinde   tasarruf etmemişse ya da önceki sırada  bulunan rehinli alacak, o derece için tescilde beli rtilen miktardan az ise; taşınmazın paraya  çevrilmesinde satış bedeli, boş derece hesaba katılmaksızın s onraki alacaklılara sıralarına göre  dağıtılır.

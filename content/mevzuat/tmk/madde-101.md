@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4264
 ---
 
-**A. Kuruluşu  I.   Tanımı**
+**A. Kuruluşu I. Tanımı**
 
 ---
 
-Madde 101 - Vakıflar, gerçek vey a tüzel kişilerin yet erli mal ve hakları belirli ve sürekli  bir amaca özgülemeleriyle oluşan tü zel k işiliğe sahip mal topluluklarıdır.  Bir malvarlığının bütünü veya gerçekleşmiş ya da gerçekleşeceği anlaşılan her türlü geliri  veya ekonomik değeri olan hak lar vakfedilebilir.  (İptal üçüncü fıkra: Anayasa Mahkemesi’nin 17/4/2008 tarihli ve E.: 2005/14 , K.:  2008/92 sayılı Kararı ile.)  Cumhuriyetin Anayasa ile belirlenen niteliklerine ve Anayasanın temel ilkelerine, hukuka,  ahlâka, millî birliğe ve millî menfaa tlere aykırı veya belli bir ırk ya da cemaat mensuplarını  desteklemek amacıyla vakıf kurulamaz.
+Madde 101 - Vakıflar, gerçek vey a tüzel kişilerin yet erli mal ve hakları belirli ve sürekli bir amaca özgülemeleriyle oluşan tü zel k işiliğe sahip mal topluluklarıdır. Bir malvarlığının bütünü veya gerçekleşmiş ya da gerçekleşeceği anlaşılan her türlü geliri veya ekonomik değeri olan hak lar vakfedilebilir. (İptal üçüncü fıkra: Anayasa Mahkemesi’nin 17/4/2008 tarihli ve E.: 2005/14 , K.: 2008/92 sayılı Kararı ile.) Cumhuriyetin Anayasa ile belirlenen niteliklerine ve Anayasanın temel ilkelerine, hukuka, ahlâka, millî birliğe ve millî menfaa tlere aykırı veya belli bir ırk ya da cemaat mensuplarını desteklemek amacıyla vakıf kurulamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 101**, «A. Kuruluşu  I.   Tanımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 101 - Vakıflar, gerçek vey a tüzel kişilerin yet erli mal ve hakları belirli ve sürekli  bir amaca özgülemeleriyle oluşan tü zel k işiliğe sahip mal topluluklarıdır.  Bir malvarlığının bütünü veya gerçekleşmiş ya da gerçekleşeceği anlaşılan her türlü geliri  veya ekonomik değeri olan hak lar vakfedilebilir.  (İptal üçüncü fıkra: Anayasa Mahkemesi’nin 17/4/2008 tarihli ve E.: 2005/14 , K.:  2… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

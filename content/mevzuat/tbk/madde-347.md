@@ -19,7 +19,7 @@ bir yıl için uzatılmış sayılır. Kiraya veren, sözleşme süresinin bitim
 sona erdiremez. Ancak, on yıllık uzama süresi sonunda kiraya veren, bu süreyi izleyen her
 uzama yılının bitiminden en az üç ay önce bildirimde bulunmak koşuluyla, herhangi bir sebep
 göstermeksizin sözleşmeye son verebilir.
-Belirsiz  süreli  kira  sözleşmelerinde,  kiracı  her  zaman,  kiraya  veren  ise  kiranın
+Belirsiz süreli kira sözleşmelerinde, kiracı her zaman, kiraya veren ise kiranın
 başlangıcından on yıl geçtikten sonra, genel hükümlere göre fesih bildirimiyle sözleşmeyi
 sona erdirebilirler.
 Genel hükümlere göre fesih hakkının kullanılabileceği durumlarda, kiraya veren veya
@@ -28,7 +28,6 @@ kiracı sözleşmeyi sona erdirebilir.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 347**, «Madde 347» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **F. Konut ve çatılı işyeri kiralarında sözleşmenin sona ermesi

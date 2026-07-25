@@ -12,12 +12,11 @@ a) Mesaf e navlunu**
 
 ---
 
-Madde 1210 - (1)   Gemi,   yolculuk   başladıktan   sonra   umulmayan   bir   hâl   yüzünden  zayi   olduğu   takdirde;   taşıyana   o   ana   kadar   doğmuş   bulunan   alacakları   dışında,   zayi   olan  gemiden   kurtarılan   ve   emniyet   altına   alınan   eşya   başka   bir   limana   getirilmiş   olsa   bile   mesafe  navlunu   da   ödenmesi   gerekir.  (2)   Mesafe   navlunu   kurtarılan   eşyanın   miktarına,   geminin   zayi   olduğu   ana   kadar  alınan   mesafeye,   yolculuğun   giderlerine,   süresine,   katlanılan   rizikolarına   ve   zorluk   derecesine  göre   hakkaniyete   uygun   bir   şekilde   hesap   edilir.  (3)   Mesafe   navlunu,   kurtarılan   eşyanın   emniyet   altına   alındığı   yer   ve   tarihteki   değerini  aşamaz.
+Madde 1210 - (1) Gemi, yolculuk başladıktan sonra umulmayan bir hâl yüzünden zayi olduğu takdirde; taşıyana o ana kadar doğmuş bulunan alacakları dışında, zayi olan gemiden kurtarılan ve emniyet altına alınan eşya başka bir limana getirilmiş olsa bile mesafe navlunu da ödenmesi gerekir. (2) Mesafe navlunu kurtarılan eşyanın miktarına, geminin zayi olduğu ana kadar alınan mesafeye, yolculuğun giderlerine, süresine, katlanılan rizikolarına ve zorluk derecesine göre hakkaniyete uygun bir şekilde hesap edilir. (3) Mesafe navlunu, kurtarılan eşyanın emniyet altına alındığı yer ve tarihteki değerini aşamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1210**, «Madde 1210» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Yolculuk başladıktan sonra

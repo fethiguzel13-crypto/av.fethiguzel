@@ -21,13 +21,12 @@ kurulmasından başlayarak on yılın geçmesiyle kendiliğinden ortadan kalkar.
 Kefalet, on yıldan fazla bir süre için verilmiş olsa bile, uzatılmış veya yeni bir kefalet
 verilmiş olmadıkça kefil, ancak on yıllık süre doluncaya kadar takip edilebilir.
 Kefalet süresi, en erken kefaletin sona ermesinden bir yıl önce yapılmak kaydıyla,
-kefilin  kefalet  sözleşmesinin  şekline  uygun  yazılı  açıklamasıyla,  azamî  on  yıllık  yeni  bir
+kefilin kefalet sözleşmesinin şekline uygun yazılı açıklamasıyla, azamî on yıllık yeni bir
 dönem için uzatılabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 598**, «Madde 598» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **D. Sona ermesi

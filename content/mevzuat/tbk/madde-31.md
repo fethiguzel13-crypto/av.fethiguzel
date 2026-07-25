@@ -15,9 +15,9 @@ a. Açıklamada yanılma**
 Madde 31 - Özellikle aşağıda sayılan yanılma hâlleri esaslıdır:
 1. Yanılan, kurulmasını istediği sözleşmeden başka bir sözleşme için iradesini açıklamışsa.
 2. Yanılan, istediğinden başka bir konu için iradesini açıklamışsa.
-3.  Yanılan,  sözleşme  yapma  iradesini,  gerçekte  sözleşme  yapmak  istediği  kişiden
+3. Yanılan, sözleşme yapma iradesini, gerçekte sözleşme yapmak istediği kişiden
 başkasına açıklamışsa.
-4.  Yanılan,  sözleşmeyi  yaparken  belirli  nitelikleri  olan  bir  kişiyi  dikkate  almasına
+4. Yanılan, sözleşmeyi yaparken belirli nitelikleri olan bir kişiyi dikkate almasına
 karşın başka bir kişi için iradesini açıklamışsa.
 5. Yanılan, gerçekte üstlenmek istediğinden önemli ölçüde fazla bir edim için veya
 gerçekte istediğinden önemli ölçüde az bir karşı edim için iradesini açıklamışsa.
@@ -27,7 +27,6 @@ yetinilir.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 31**, «Madde 31» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Yanılma hâlleri

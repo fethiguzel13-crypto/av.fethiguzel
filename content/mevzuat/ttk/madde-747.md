@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**II   -   Senet   aslının   teslimi**
+**II - Senet aslının teslimi**
 
 ---
 
-Madde 747 - (1)   Suretin,   senet   aslının   kimin   elinde   bulunduğunu   göstermesi   gerekir.  Senet   aslını   elinde   tutan   kişi,   bunu,   suretin   yetkili   hamiline   teslim   ile   yükümlüdür.  (2)   Teslimden   kaçı nılması   hâlinde   hamil;   ancak   istemine   rağmen   senet   aslının  kendisine   teslim   edilmediğini   bir   protesto   ile   tespit   ettirdiği   takdirde,   suretin   cirantalarına   ve  suret   üzerine   aval   veren   kişilere   karşı   başvurma   haklarını   kullanabilir.  (3)   Senedin   aslı,   suretin   düzenlenmesinden   önce   en   son   olarak   aslına   yazılmış   olan  cirodan   sonra   “buradan   itibaren   ancak   suret   üzerine   yazılacak   cirolar   geçerlidir”   kaydını   veya  buna   benzer   bir   kaydı   içerirse,   bundan   sonra   senedin   aslına   yazılacak   cirolar   geçersizdir.  YEDİNCİ   AYI RIM  Çeşitli   Hükümler  A)   Senet   metnindeki   değişiklikler
+Madde 747 - (1) Suretin, senet aslının kimin elinde bulunduğunu göstermesi gerekir. Senet aslını elinde tutan kişi, bunu, suretin yetkili hamiline teslim ile yükümlüdür. (2) Teslimden kaçı nılması hâlinde hamil; ancak istemine rağmen senet aslının kendisine teslim edilmediğini bir protesto ile tespit ettirdiği takdirde, suretin cirantalarına ve suret üzerine aval veren kişilere karşı başvurma haklarını kullanabilir. (3) Senedin aslı, suretin düzenlenmesinden önce en son olarak aslına yazılmış olan cirodan sonra “buradan itibaren ancak suret üzerine yazılacak cirolar geçerlidir” kaydını veya buna benzer bir kaydı içerirse, bundan sonra senedin aslına yazılacak cirolar geçersizdir. YEDİNCİ AYI RIM Çeşitli Hükümler A) Senet metnindeki değişiklikler
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 747**, «II   -   Senet   aslının   teslimi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 747 - (1)   Suretin,   senet   aslının   kimin   elinde   bulunduğunu   göstermesi   gerekir.  Senet   aslını   elinde   tutan   kişi,   bunu,   suretin   yetkili   hamiline   teslim   ile   yükümlüdür.  (2)   Teslimden   kaçı nılması   hâlinde   hamil;   ancak   istemine   rağmen   senet   aslının  kendisine   teslim   edilmediğini   bir   protesto   ile   tespit   ettirdiği   takdirde,   s… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

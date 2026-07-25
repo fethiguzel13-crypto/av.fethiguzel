@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4297
 ---
 
-**IV   -   Halktan   para   toplamak**
+**IV - Halktan para toplamak**
 
 ---
 
-Madde 552 - (Değişik:   26/6/2012 - 6335/27   md.)  (1)   Sermaye   Piyasası   Kanunu   hükümleri   saklı   kalmak   kaydıyla,   bir   şirket   kurmak   veya  şirketin   sermayesini   artırmak   amacıyla   yahut   vaadiyle   halka   her   türlü   yoldan   çağrıda  bulunularak   para   toplanması   yasaktır.
+Madde 552 - (Değişik: 26/6/2012 - 6335/27 md.) (1) Sermaye Piyasası Kanunu hükümleri saklı kalmak kaydıyla, bir şirket kurmak veya şirketin sermayesini artırmak amacıyla yahut vaadiyle halka her türlü yoldan çağrıda bulunularak para toplanması yasaktır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 552**, «IV   -   Halktan   para   toplamak» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 552 - (Değişik:   26/6/2012 - 6335/27   md.)  (1)   Sermaye   Piyasası   Kanunu   hükümleri   saklı   kalmak   kaydıyla,   bir   şirket   kurmak   veya  şirketin   sermayesini   artırmak   amacıyla   yahut   vaadiyle   halka   her   türlü   yoldan   çağrıda  bulunularak   para   toplanması   yasaktır.

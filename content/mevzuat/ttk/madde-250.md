@@ -13,13 +13,12 @@ wordCount: 4258
 
 ---
 
-Madde 250 - (1)   Şirketin   sona   ermesi   hâlinde   ortaklar   sona   ermeyi   tescil   ve   ilan  ettirmekle   yükümlüdür.   İflas   sebebiyle   şirketin   infisahı   hâlinde   bu   yükümlülük   iflas   memuruna  aittir.
-(2)   Şirketin   feshi   bir   ortağın   ölümünden   ileri   gelmişse   tescil   ve   ilan   dilekçesi,   ölen  ortağın   mirasçılarıyla   birlikte   diğer   tüm   ortaklar;   mirasçıların   katılması   mümkün   bulunmayan  veya   güç   olan   hâllerde,   sağ   kal an   ortaklar   tarafından   verilir.
+Madde 250 - (1) Şirketin sona ermesi hâlinde ortaklar sona ermeyi tescil ve ilan ettirmekle yükümlüdür. İflas sebebiyle şirketin infisahı hâlinde bu yükümlülük iflas memuruna aittir.
+(2) Şirketin feshi bir ortağın ölümünden ileri gelmişse tescil ve ilan dilekçesi, ölen ortağın mirasçılarıyla birlikte diğer tüm ortaklar; mirasçıların katılması mümkün bulunmayan veya güç olan hâllerde, sağ kal an ortaklar tarafından verilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 250**, «Madde 250» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

@@ -13,12 +13,11 @@ wordCount: 4298
 
 ---
 
-Madde 1497 - (1)   Sigortalının   sözleşmenin   yapılması   sırasında   yaşının   yanlış  bildirilmesi   sonucu   prim   düşük   belirlenmişse,   sigorta   bedeli,   gerçek   yaşa   göre   alınması  gereken   primin,   belirlenen   prime   olan   oranına   göre   ödenir.   İndirimden   önce   riziko   gerçekleşip  sigorta   bedeli   ödenmiş   ise   sigortacı   ödediği   fazla   kısmın   geriye   verilmesi ni   faiziyle   birlikte  isteyebilir.  (2)   Gerçek   yaşa   göre   fazla   prim   ödenmesi   hâlinde,   sigorta   bedeli   ödenen   prime   göre  artırılır.   Artırımdan   önce   sigorta   bedeli   ödenmiş   ise   eksik   kısım   sigortacı   tarafından  tamamlanır.  (3)   Sigortacı,   yanlış   yaş   bildirimi   se bebiyle   sadece   gerçek   yaşın,   sözleşmenin   yapıldığı  sırada   teknik   esaslara   göre   belirlenen   sınırlar   dışında   kalması   hâlinde,   sözleşmeden   cayabilir.
+Madde 1497 - (1) Sigortalının sözleşmenin yapılması sırasında yaşının yanlış bildirilmesi sonucu prim düşük belirlenmişse, sigorta bedeli, gerçek yaşa göre alınması gereken primin, belirlenen prime olan oranına göre ödenir. İndirimden önce riziko gerçekleşip sigorta bedeli ödenmiş ise sigortacı ödediği fazla kısmın geriye verilmesi ni faiziyle birlikte isteyebilir. (2) Gerçek yaşa göre fazla prim ödenmesi hâlinde, sigorta bedeli ödenen prime göre artırılır. Artırımdan önce sigorta bedeli ödenmiş ise eksik kısım sigortacı tarafından tamamlanır. (3) Sigortacı, yanlış yaş bildirimi se bebiyle sadece gerçek yaşın, sözleşmenin yapıldığı sırada teknik esaslara göre belirlenen sınırlar dışında kalması hâlinde, sözleşmeden cayabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1497**, «Madde 1497» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **X

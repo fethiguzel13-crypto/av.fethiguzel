@@ -11,12 +11,12 @@ wordCount: 4317
 
 ---
 
-Madde 404 - İşçiye  belli  işlerde  aracılık  yapması  karşılığında  işverence  bir  ücret
+Madde 404 - İşçiye belli işlerde aracılık yapması karşılığında işverence bir ücret
 ödeneceği kararlaştırılmışsa, aracılık yapılan işlemin üçüncü kişi ile geçerli olarak kurulmasıyla
 işçinin istem hakkı doğar.
 
 Borçların kısım kısım ifa edileceği sözleşmeler ile sigorta sözleşmelerinde, her kısma
-ilişkin ücret isteminin bu kısma ilişkin borcun muaccel olmasıyla veya yerine  getirilmesiyle
+ilişkin ücret isteminin bu kısma ilişkin borcun muaccel olmasıyla veya yerine getirilmesiyle
 doğacağı yazılı olarak kararlaştırılabilir.
 İşçinin aracılığı suretiyle işveren ile üçüncü kişi arasında kurulan sözleşme, işveren
 tarafından kusuru olmaksızın ifa edilmezse veya üçüncü kişi borçlarını yerine getirmezse,
@@ -25,14 +25,13 @@ yapılır.
 Sözleşmeyle işçiye, kendisine ödenecek aracılık ücretinin hesabını tutma yükümlülüğü
 getirilmemişse, işveren işçiye ücretin muaccel olduğu her dönem için, bu ücrete tabi işlemleri
 de içeren yazılı hesap vermekle yükümlüdür.
-Hesabı  gözden  geçirme  ihtiyacı  ortaya  çıkarsa  işveren,  işçiye  veya  onun  yerine,
+Hesabı gözden geçirme ihtiyacı ortaya çıkarsa işveren, işçiye veya onun yerine,
 birlikte kararlaştırdıkları ya da hâkimin atadığı bilirkişiye bilgi vermek ve bilginin dayanağını
 oluşturan işletmeyle ilgili defter ve belgeleri onun incelemesine sunmak zorundadır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 404**, «d. Aracılık ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 404 - İşçiye  belli  işlerde  aracılık  yapması  karşılığında  işverence  bir  ücret

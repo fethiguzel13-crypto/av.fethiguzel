@@ -11,13 +11,12 @@ wordCount: 4319
 
 ---
 
-Madde 746 - Durum değişirse, yükümlü taşınmaz ma liki, mecranın kendi yararına olarak  başka bir yere nakledilmesini isteyebilir.  Yer değişt irme giderleri, kural olarak mecra hakkı sahibine aittir.
-Özel durumlar haklı gösterdiği takdirde, taşın maz maliki de giderlerin uygun bir kısmına  katılmakla yükümlü   tutulabilir.
+Madde 746 - Durum değişirse, yükümlü taşınmaz ma liki, mecranın kendi yararına olarak başka bir yere nakledilmesini isteyebilir. Yer değişt irme giderleri, kural olarak mecra hakkı sahibine aittir.
+Özel durumlar haklı gösterdiği takdirde, taşın maz maliki de giderlerin uygun bir kısmına katılmakla yükümlü tutulabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 746**, «c. Dur umun değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 746 - Durum değişirse, yükümlü taşınmaz ma liki, mecranın kendi yararına olarak  başka bir yere nakledilmesini isteyebilir.  Yer değişt irme giderleri, kural olarak mecra hakkı sahibine aittir.

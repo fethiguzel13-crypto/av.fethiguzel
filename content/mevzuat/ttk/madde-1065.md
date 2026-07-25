@@ -12,13 +12,12 @@ wordCount: 4300
 
 ---
 
-Madde 1065 - (1)   Donatma   iştirakinin   yapılmasını   izleyen   onbeş   gün   içinde   iştirak,  ticaret   ve   gemi   sicillerine   tescil   edilir.  (2)   Ticaret   ve   gemi   sicillerine;  a)   Paydaş   donatanların   adları,   yerleşim   yerleri   ve   vatandaşlıkları,  b)   İştirakin   unvanı   ve   merkezi,  c)   İştirakin   konusu,  d)   Her   paydaş   donatanın   gemi   payının   miktarı,
-e)   İştiraki   temsile   yetkili   kişilerin   ad   ve   soyadları   ile   bunların   yalnız   başlarına   mı   yoksa  birlikte   mi   imza   atmaya   yetkili   oldukları,  kaydedilir.
+Madde 1065 - (1) Donatma iştirakinin yapılmasını izleyen onbeş gün içinde iştirak, ticaret ve gemi sicillerine tescil edilir. (2) Ticaret ve gemi sicillerine; a) Paydaş donatanların adları, yerleşim yerleri ve vatandaşlıkları, b) İştirakin unvanı ve merkezi, c) İştirakin konusu, d) Her paydaş donatanın gemi payının miktarı,
+e) İştiraki temsile yetkili kişilerin ad ve soyadları ile bunların yalnız başlarına mı yoksa birlikte mi imza atmaya yetkili oldukları, kaydedilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1065**, «Madde 1065» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

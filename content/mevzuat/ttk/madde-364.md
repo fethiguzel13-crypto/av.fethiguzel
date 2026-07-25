@@ -12,12 +12,11 @@ wordCount: 4258
 
 ---
 
-Madde 364 - (1)   Yönetim   kurulu   üyeleri,   esas   sözleşmeyle   atanmış   olsalar   dahi,  gündemde   ilgili   bir   maddenin   bulunması   veya   gündemde   madde   bulunmasa   b ile   haklı   bir  sebebin   varlığı   hâlinde,   genel   kurul   kararıyla   her   zaman   görevden   alınabilirler.   Yönetim  kurulu   üyesi   olan   tüzel   kişi,   kendi   adına   tescil   edilmiş   bulunan   kişiyi   her   an   değiştirebilir.  (2)   334   üncü   madde   hükmü   ve   görevden   alınan   üyenin   tazmina t   hakkı   saklıdır.
+Madde 364 - (1) Yönetim kurulu üyeleri, esas sözleşmeyle atanmış olsalar dahi, gündemde ilgili bir maddenin bulunması veya gündemde madde bulunmasa b ile haklı bir sebebin varlığı hâlinde, genel kurul kararıyla her zaman görevden alınabilirler. Yönetim kurulu üyesi olan tüzel kişi, kendi adına tescil edilmiş bulunan kişiyi her an değiştirebilir. (2) 334 üncü madde hükmü ve görevden alınan üyenin tazmina t hakkı saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 364**, «Madde 364» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

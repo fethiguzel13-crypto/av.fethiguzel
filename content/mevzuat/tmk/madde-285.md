@@ -12,12 +12,11 @@ wordCount: 4263
 
 ---
 
-Madde 285 - Evlilik devam ederken veya evliliğin sona ermesinden başlayarak üçyüz gün  içinde doğan çocuğun babası kocadır.  B u sür e geçtikten sonra doğan çocuğun kocaya bağlanması, ananın evlilik sırasında gebe  kaldığının ispatıyla mümkün dür.  Kocanın gaipliğine karar verilmesi hâlinde üçyüz günlük süre, ölüm tehlikesi veya son  haber tarihinden işlemeye başlar.
+Madde 285 - Evlilik devam ederken veya evliliğin sona ermesinden başlayarak üçyüz gün içinde doğan çocuğun babası kocadır. B u sür e geçtikten sonra doğan çocuğun kocaya bağlanması, ananın evlilik sırasında gebe kaldığının ispatıyla mümkün dür. Kocanın gaipliğine karar verilmesi hâlinde üçyüz günlük süre, ölüm tehlikesi veya son haber tarihinden işlemeye başlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 285**, «Madde 285» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Taraflar ve üçüncü kişiler, soybağının belirlenmesinde zorunlu olan ve sağlıkları yönünden tehlike ya ratmayan araştırma ve incelemelere rıza göstermekle yükümlüdürler. Davalı, hâkimin öngördüğü araştırma v e incelemeye rıza göstermezse, hâkim, d urum ve koşullara göre bundan beklenen sonucu, onun aleyhine doğmuş sayabilir. İKİNCİ AYIRIM KOCANIN BABALIĞI A

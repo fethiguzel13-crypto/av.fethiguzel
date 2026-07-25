@@ -15,10 +15,10 @@ Madde 71 - Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar
 takdirde, bu zarardan işletme sahibi ve varsa işleten müteselsilen sorumludur.
 
 Bir işletmenin, mahiyeti veya faaliyette kullanılan malzeme, araçlar ya da güçler göz
-önünde  tutulduğunda,  bu  işlerde  uzman  bir  kişiden  beklenen  tüm  özenin  gösterilmesi
+önünde tutulduğunda, bu işlerde uzman bir kişiden beklenen tüm özenin gösterilmesi
 durumunda bile sıkça veya ağır zararlar doğurmaya elverişli olduğu sonucuna varılırsa, bunun
 önemli ölçüde tehlike arzeden bir işletme olduğu kabul edilir. Özellikle, herhangi bir kanunda
-benzeri  tehlikeler  arzeden  işletmeler  için  özel  bir  tehlike  sorumluluğu  öngörülmüşse,  bu
+benzeri tehlikeler arzeden işletmeler için özel bir tehlike sorumluluğu öngörülmüşse, bu
 işletme de önemli ölçüde tehlike arzeden işletme sayılır.
 Belirli bir tehlike hâli için öngörülen özel sorumluluk hükümleri saklıdır.
 Önemli ölçüde tehlike arzeden bir işletmenin bu tür faaliyetine hukuk düzenince izin
@@ -28,7 +28,6 @@ bir bedelle denkleştirilmesini isteyebilirler.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 71**, «III. Tehlike sorumluluğu ve denkleştirme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 71 - Önemli ölçüde tehlike arzeden bir işletmenin faaliyetinden zarar doğduğu

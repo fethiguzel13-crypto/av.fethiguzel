@@ -11,8 +11,8 @@ wordCount: 4318
 
 ---
 
-Madde 113 - Yapma  borcu, borçlu  tarafından  ifa  edilmediği  takdirde  alacaklı,
-masrafı  borçluya  ait  olmak  üzere  edimin  kendisi  veya  başkası  tarafından  ifasına izin
+Madde 113 - Yapma borcu, borçlu tarafından ifa edilmediği takdirde alacaklı,
+masrafı borçluya ait olmak üzere edimin kendisi veya başkası tarafından ifasına izin
 verilmesini isteyebilir; her türlü giderim isteme hakkı saklıdır.
 Yapmama borcuna aykırı davranan borçlu, bu aykırı davranışının doğurduğu zararı
 gidermekle yükümlüdür.
@@ -22,7 +22,6 @@ borçluya ait olmak üzere kendisinin yetkili kılınmasını isteyebilir.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 113**, «2. Yapma ve yapmama borçlarında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 113 - Yapma  borcu, borçlu  tarafından  ifa  edilmediği  takdirde  alacaklı,

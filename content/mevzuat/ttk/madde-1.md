@@ -17,12 +17,11 @@ keywords:
 
 ---
 
-Madde 1 - (1)   Türk   Ticaret   Kanunu,   22/11/2001   tarihli   ve   4721   sayılı   Türk   Medenî  Kanununun   ayrılmaz   bir   parçasıdır.   Bu   Kanundaki   hükümlerle,   bir   ticari   işletmeyi   ilgilendiren  işlem   ve   fiillere   ilişkin   diğer   kanunlarda   yazılı   özel   hükümler,   ticari   hükümlerdir.  (2)   Mahkeme,   hakkında   t icari   bir   hüküm   bulunmayan   ticari   işlerde,   ticari   örf   ve   âdete,  bu   da   yoksa   genel   hükümlere   göre   karar   verir.
+Madde 1 - (1) Türk Ticaret Kanunu, 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanununun ayrılmaz bir parçasıdır. Bu Kanundaki hükümlerle, bir ticari işletmeyi ilgilendiren işlem ve fiillere ilişkin diğer kanunlarda yazılı özel hükümler, ticari hükümlerdir. (2) Mahkeme, hakkında t icari bir hüküm bulunmayan ticari işlerde, ticari örf ve âdete, bu da yoksa genel hükümlere göre karar verir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Ticaret Kanunu’nun (TTK) 1. maddesi, kanunun **"Başlangıç Hükümleri"** başlığı altında yer alır ve tüm ticaret hukuku sisteminin üzerine inşa edildiği anayasal nitelikteki temel kolonları kurar. Madde, Türk özel hukukunun tekliği ve bütünlüğü ilkesini teyit ederken, ticaret hukukunun bu bütün içindeki konumunu ve ticari uyuşmazlıkların çözümünde mahkemelerin takip edeceği kaynaklar hiyerarşisini belirler.

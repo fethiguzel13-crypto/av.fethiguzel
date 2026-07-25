@@ -17,14 +17,13 @@ keywords:
 
 ---
 
-Madde 1 - Sözleşme,  tarafların  iradelerini  karşılıklı  ve  birbirine  uygun  olarak
+Madde 1 - Sözleşme, tarafların iradelerini karşılıklı ve birbirine uygun olarak
 açıklamalarıyla kurulur.
 İrade açıklaması, açık veya örtülü olabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun (TBK) 1. maddesi, kanunun **Birinci Kısım — Genel Hükümler / Birinci Bölüm — Borç İlişkisinin Kaynakları / Birinci Ayrım — Sözleşmeden Doğan Borç İlişkileri** sistematiği içinde yer alır ve sözleşmeden doğan borç ilişkilerinin temel taşını oluşturur. Madde, sözleşmenin nasıl kurulduğunu, bir başka deyişle hangi koşullar altında tarafların hukuken bağlanmış sayılacağını tanımlayarak özel hukuktaki en temel kavramlardan birinin çerçevesini çizer.

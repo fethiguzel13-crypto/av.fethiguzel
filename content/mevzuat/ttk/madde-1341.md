@@ -13,13 +13,12 @@ I
 
 ---
 
-Madde 1341 - (1)   1976   tarihli   Sözleşmede   belirlenen   sorumluluk   sınırları,  kılavuzlara   doğrudan   yöneltilen   bütün   istemler   iç in   toplam   1.500   Özel   Çekme   Hakkıdır.  (2)   1992   tarihli   Sorumluluk   Sözleşmesinin   III   üncü   maddesinin   beşinci   paragrafına  göre   malik   tarafından   kılavuza   yöneltilebilecek   rücu   istemlerinde   sorumluluk   sınırı   toplam  1.500   Özel   Çekme   Hakkıdır.
-(3)   Bu   maddenin   uyg ulamasında   kılavuz   terimi,   gemide   veya   herhangi   başka   bir  yerden   gemiye   kılavuzluk   hizmeti   veren   kişiyi   veya   kişileri   ve   bu   kişi   veya   kişilerin  fiillerinden   sorumlu   olan   bütün   gerçek   ve   tüzel   kişileri   kapsar.
+Madde 1341 - (1) 1976 tarihli Sözleşmede belirlenen sorumluluk sınırları, kılavuzlara doğrudan yöneltilen bütün istemler iç in toplam 1.500 Özel Çekme Hakkıdır. (2) 1992 tarihli Sorumluluk Sözleşmesinin III üncü maddesinin beşinci paragrafına göre malik tarafından kılavuza yöneltilebilecek rücu istemlerinde sorumluluk sınırı toplam 1.500 Özel Çekme Hakkıdır.
+(3) Bu maddenin uyg ulamasında kılavuz terimi, gemide veya herhangi başka bir yerden gemiye kılavuzluk hizmeti veren kişiyi veya kişileri ve bu kişi veya kişilerin fiillerinden sorumlu olan bütün gerçek ve tüzel kişileri kapsar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1341**, «Madde 1341» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C) Sözleşmelere ilişkin ortak hükümler

@@ -12,13 +12,12 @@ a) İflas hâlinde**
 
 ---
 
-Madde 806 - (1)   Hesaba   geçirilmek   üzere   düzenlenen   bir   çekin   hamili,   muhatap   iflas  etmiş   veya   bir   ilamla   ispatlanm amış   olsa   bile   ödemelerini   tatil   etmiş   ya   da   aleyhine   yapılan  herhangi   bir   icra   takibi   semeresiz   kalmışsa,   çek   bedelinin   nakden   ödenmesini   muhataptan  isteyebileceği   gibi,   ödememe   hâlinde   başvurma   hakkını   da   kullanabilir.
-b)   Hesaba   geçirilmeme   hâlinde  MADD E   807 -   (1)   Hesaba   geçirilmek   üzere   düzenlenen   bir   çekin   hamili;   muhatabın,  çek   bedelini   kayıtsız   ve   şartsız   bir   alacak   olarak   hesaba   geçirmekten   kaçındığını   veya   ödeme  yerindeki   takas   odasının,   bu   çekin,   hamilin   borçlarına   mahsup   edilmek   kabiliyetini   haiz  olmadığını   beyan   etmiş   bulunduğunu   ispat   ederse,   başvurma   haklarını   kullanabilir.
+Madde 806 - (1) Hesaba geçirilmek üzere düzenlenen bir çekin hamili, muhatap iflas etmiş veya bir ilamla ispatlanm amış olsa bile ödemelerini tatil etmiş ya da aleyhine yapılan herhangi bir icra takibi semeresiz kalmışsa, çek bedelinin nakden ödenmesini muhataptan isteyebileceği gibi, ödememe hâlinde başvurma hakkını da kullanabilir.
+b) Hesaba geçirilmeme hâlinde MADD E 807 - (1) Hesaba geçirilmek üzere düzenlenen bir çekin hamili; muhatabın, çek bedelini kayıtsız ve şartsız bir alacak olarak hesaba geçirmekten kaçındığını veya ödeme yerindeki takas odasının, bu çekin, hamilin borçlarına mahsup edilmek kabiliyetini haiz olmadığını beyan etmiş bulunduğunu ispat ederse, başvurma haklarını kullanabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 806**, «Madde 806» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Hamilin hakları

@@ -11,9 +11,9 @@ wordCount: 4313
 
 ---
 
-Madde 171 - Koşul  gerçekleşinceye  kadar  borçlu,  borcun  gereği  gibi  ifasını
+Madde 171 - Koşul gerçekleşinceye kadar borçlu, borcun gereği gibi ifasını
 engelleyecek her türlü davranıştan kaçınmakla yükümlüdür.
-Koşula  bağlı  hakkı  tehlikeye  düşürülen  alacaklı,  alacağı  koşula  bağlı  olmayan
+Koşula bağlı hakkı tehlikeye düşürülen alacaklı, alacağı koşula bağlı olmayan
 alacaklıların haklarını korumak üzere başvurabilecekleri önlemleri alabilir.
 Koşulun gerçekleşmesinden önce yapılan tasarruflar, koşulun hükümlerini zedelediği
 oranda geçersiz olur.
@@ -21,7 +21,6 @@ oranda geçersiz olur.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 171**, «II. Koşulun askıda olduğu sıradaki durum» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 171 - Koşul  gerçekleşinceye  kadar  borçlu,  borcun  gereği  gibi  ifasını

@@ -11,12 +11,11 @@ wordCount: 4305
 
 ---
 
-Madde 672 - (1)   671   inci   maddede   yazılı   unsurlardan   birini   içermeyen   senet   ikinci  ilâ   dördüncü   fıkralarda   yazılı   hâller   dışında   poliçe   sayılmaz.  (2)   Vadesi   gösterilmey en   poliçenin   görüldüğünde   ödenmesi   şart   edilmiş   sayılır.  (3)   Ayrıca   belirtilmiş   olmadıkça   muhatabın   adı   yanında   gösterilen   yer,   ödeme   yeri   ve  aynı   zamanda   da   muhatabın   yerleşim   yeri   sayılır.  (4)   Düzenlenme   yeri   gösterilmeyen   poliçe,   düzenleyenin   adı   yanınd a   gösterilen   yerde  düzenlenmiş   sayılır.
+Madde 672 - (1) 671 inci maddede yazılı unsurlardan birini içermeyen senet ikinci ilâ dördüncü fıkralarda yazılı hâller dışında poliçe sayılmaz. (2) Vadesi gösterilmey en poliçenin görüldüğünde ödenmesi şart edilmiş sayılır. (3) Ayrıca belirtilmiş olmadıkça muhatabın adı yanında gösterilen yer, ödeme yeri ve aynı zamanda da muhatabın yerleşim yeri sayılır. (4) Düzenlenme yeri gösterilmeyen poliçe, düzenleyenin adı yanınd a gösterilen yerde düzenlenmiş sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 672**, «2. Unsurların bulunmaması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 672 - (1)   671   inci   maddede   yazılı   unsurlardan   birini   içermeyen   senet   ikinci  ilâ   dördüncü   fıkralarda   yazılı   hâller   dışında   poliçe   sayılmaz.  (2)   Vadesi   gösterilmey en   poliçenin   görüldüğünde   ödenmesi   şart   edilmiş   sayılır.  (3)   Ayrıca   belirtilmiş   olmadıkça   muhatabın   adı   yanında   gösterilen   yer,   ödeme   yeri   ve  aynı   zamanda  … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

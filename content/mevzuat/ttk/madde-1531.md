@@ -11,12 +11,11 @@ wordCount: 4273
 
 ---
 
-Madde 1531 - (1)   Bu   Kanuna   göre   “ortaklık”,   “kollektif   ortaklık”,   “komandit  ortaklık”,   “anonim   ortaklık”,   “sermayesi   paylara   bölünmüş   komandit   ortaklık”,   “limited  ortaklık”   ve   “kooperatif   ortaklık”   terimleri,   sırasıyla   “şirket”e,   “kollektif   şirket”e,   “komandit  şirket”e,   “anonim   şirket”e,   “sermayesi   paylara   bölünmüş   komandit   şirket”e,   “limited   şirket”e   ve  “kooperatif   şirket”e   eş   anlamda   kanuni   te rimlerdir   ve   bu   terimler   birbirleri   yerine   kullanılabilir.
+Madde 1531 - (1) Bu Kanuna göre “ortaklık”, “kollektif ortaklık”, “komandit ortaklık”, “anonim ortaklık”, “sermayesi paylara bölünmüş komandit ortaklık”, “limited ortaklık” ve “kooperatif ortaklık” terimleri, sırasıyla “şirket”e, “kollektif şirket”e, “komandit şirket”e, “anonim şirket”e, “sermayesi paylara bölünmüş komandit şirket”e, “limited şirket”e ve “kooperatif şirket”e eş anlamda kanuni te rimlerdir ve bu terimler birbirleri yerine kullanılabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1531**, «G) “Şirket” ve “ortaklık” terimlerinin kanuniliği» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1531 - (1)   Bu   Kanuna   göre   “ortaklık”,   “kollektif   ortaklık”,   “komandit  ortaklık”,   “anonim   ortaklık”,   “sermayesi   paylara   bölünmüş   komandit   ortaklık”,   “limited  ortaklık”   ve   “kooperatif   ortaklık”   terimleri,   sırasıyla   “şirket”e,   “kollektif   şirket”e,   “komandit  şirket”e,   “anonim   şirket”e,   “sermayesi   paylara   bölünmüş   komandit   şirket”e,… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

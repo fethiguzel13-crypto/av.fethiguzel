@@ -12,8 +12,8 @@ wordCount: 4259
 ---
 
 Madde 534 - Satılmak üzere kendisine gönderilen eşya açıkça ayıplı ise komisyoncu,
-vekâlet  verenin  taşıyıcıya  karşı  haklarının  korunması  için  gerekeni  yapmak,  zararı  tespit
-ettirmek,  olabildiğince  eşyayı  koruma  altına  almak  ve  durumdan  vekâlet  vereni  hemen
+vekâlet verenin taşıyıcıya karşı haklarının korunması için gerekeni yapmak, zararı tespit
+ettirmek, olabildiğince eşyayı koruma altına almak ve durumdan vekâlet vereni hemen
 bilgilendirmekle yükümlüdür; aksi takdirde, her türlü ihmalinden doğan zarardan sorumlu olur.
 Satılmak üzere gönderilen eşya kısa sürede bozulabilecek nitelikte ise komisyoncu,
 vekâlet vereni hemen bilgilendirmek koşuluyla eşyayı satmakla yükümlüdür.
@@ -21,7 +21,6 @@ vekâlet vereni hemen bilgilendirmek koşuluyla eşyayı satmakla yükümlüdür
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 534**, «2. Özen borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 534 - Satılmak üzere kendisine gönderilen eşya açıkça ayıplı ise komisyoncu,

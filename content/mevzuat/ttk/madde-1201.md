@@ -13,12 +13,11 @@ wordCount: 4302
 
 ---
 
-Madde 1201 - (1)   Taşıyan,   navlun   sözleşmesinden   doğan   bütün   alacakları   için   Türk  Medenî   Kanununun   950   ilâ   953   üncü   maddeleri   uyarınca   eşya   üzerinde   hapis   hakkına  sahiptir.   Hapis   hakkı,   eşya,   taşıyanın   zilyet liğinde   bulunduğu   sürece   devam   eder;   teslimden  sonra   dahi,   otuz   gün   içinde   mahkemeye   müracaat   edilmek   ve   eşya   henüz   gönderilenin  zilyetliğinde   bulunmak   şartıyla,   hapis   hakkından   doğan   yetkilerin   kullanılması   mümkündür.  (2)   Hapis   hakkı,   sadece,   üzerinde   hap is   hakkı   kullanılan   eşyanın   taşındığı   yolculuktan  doğan   alacakları   teminat   altına   alır.  (3)   Hapis   hakkı   ancak   alacağı   teminata   alacak   miktardaki   eşya   üzerinde   kullanılabilir;  ancak,   müşterek   avarya   ve   kurtarma   alacakları   için   taşıyan,   eşyanın   tümü   üzerinde   hapis  hakkı   kullanabilir.
+Madde 1201 - (1) Taşıyan, navlun sözleşmesinden doğan bütün alacakları için Türk Medenî Kanununun 950 ilâ 953 üncü maddeleri uyarınca eşya üzerinde hapis hakkına sahiptir. Hapis hakkı, eşya, taşıyanın zilyet liğinde bulunduğu sürece devam eder; teslimden sonra dahi, otuz gün içinde mahkemeye müracaat edilmek ve eşya henüz gönderilenin zilyetliğinde bulunmak şartıyla, hapis hakkından doğan yetkilerin kullanılması mümkündür. (2) Hapis hakkı, sadece, üzerinde hap is hakkı kullanılan eşyanın taşındığı yolculuktan doğan alacakları teminat altına alır. (3) Hapis hakkı ancak alacağı teminata alacak miktardaki eşya üzerinde kullanılabilir; ancak, müşterek avarya ve kurtarma alacakları için taşıyan, eşyanın tümü üzerinde hapis hakkı kullanabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1201**, «Madde 1201» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

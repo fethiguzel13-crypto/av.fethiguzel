@@ -12,21 +12,20 @@ wordCount: 4320
 ---
 
 Madde 473 - Yüklenicinin işe zamanında başlamaması veya sözleşme hükümlerine
-aykırı  olarak  işi  geciktirmesi  ya  da  işsahibine  yüklenemeyecek  bir  sebeple  ortaya  çıkan
-gecikme  yüzünden  bütün  tahminlere  göre  yüklenicinin  işi  kararlaştırılan  zamanda
-bitiremeyeceği  açıkça  anlaşılırsa,  işsahibi  teslim  için  belirlenen  günü  beklemek  zorunda
+aykırı olarak işi geciktirmesi ya da işsahibine yüklenemeyecek bir sebeple ortaya çıkan
+gecikme yüzünden bütün tahminlere göre yüklenicinin işi kararlaştırılan zamanda
+bitiremeyeceği açıkça anlaşılırsa, işsahibi teslim için belirlenen günü beklemek zorunda
 olmaksızın sözleşmeden dönebilir.
 
-Meydana  getirilmesi  sırasında,  eserin  yüklenicinin  kusuru  yüzünden  ayıplı  veya
-sözleşmeye  aykırı olarak meydana  getirileceği  açıkça  görülüyorsa, işsahibi bunu önlemek
+Meydana getirilmesi sırasında, eserin yüklenicinin kusuru yüzünden ayıplı veya
+sözleşmeye aykırı olarak meydana getirileceği açıkça görülüyorsa, işsahibi bunu önlemek
 üzere vereceği veya verdireceği uygun bir süre içinde yükleniciye, ayıbın veya aykırılığın
-giderilmesi;  aksi takdirde hasar ve masrafları kendisine ait olmak üzere, onarımın veya işe
+giderilmesi; aksi takdirde hasar ve masrafları kendisine ait olmak üzere, onarımın veya işe
 devamın bir üçüncü kişiye verileceği konusunda ihtarda bulunabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 473**, «3. İşe başlama ve yürütme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 473 - Yüklenicinin işe zamanında başlamaması veya sözleşme hükümlerine

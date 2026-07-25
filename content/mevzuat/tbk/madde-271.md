@@ -13,25 +13,24 @@ wordCount: 4264
 
 Madde 271 - Alıcı bir veya daha çok ön ödemede temerrüde düşerse satıcı, ancak
 vadesi gelmiş olan ödemeleri isteyebilir. Bununla birlikte, toplam alacağın en az onda birini
-oluşturan  ve  birbirini  izleyen  iki  ön  ödemenin  veya  toplam  alacağın  en  az  dörtte  birini
+oluşturan ve birbirini izleyen iki ön ödemenin veya toplam alacağın en az dörtte birini
 oluşturan bir tek ön ödemenin ya da sonuncu ön ödemenin vadesi gelmişse satıcı, ayrıca
 alıcıya tanıyacağı bir aylık ödeme süresinin geçmesinden sonra sözleşmeden dönme hakkına
 sahip olur.
 Satıcı, ödeme süresi bir yıl veya daha az olan sözleşmeden dönerse, 260 ıncı maddenin
 ikinci fıkrası hükmü kıyas yoluyla uygulanır. Süresi bir yılı aşan sözleşmelerde satıcı, ancak
-269  uncu  maddenin  ikinci fıkrasında öngörülen cayma parasını ve alıcıya ödenmesi gereken
+269 uncu maddenin ikinci fıkrasında öngörülen cayma parasını ve alıcıya ödenmesi gereken
 ortalama banka mevduat faizini aşan zararlarının giderilmesini isteyebilir.
-Bir  yıldan  daha  uzun  süreli  sözleşmelerde  temerrüde  düşmüş  olan  alıcının  malın
+Bir yıldan daha uzun süreli sözleşmelerde temerrüde düşmüş olan alıcının malın
 devrini istemesi hâlinde satıcı, yasal anapara faizi ile birlikte, devir isteminden sonra malın
 değerinde oluşacak eksilmelerin giderilmesini isteyebilir. Ceza koşulu öngörülmüşse miktarı,
 satış bedelinin yüzde onunu geçemez.
-Satılanın devredilmiş olduğu hâllerde, dönme konusunda 260 ıncı maddenin  birinci
+Satılanın devredilmiş olduğu hâllerde, dönme konusunda 260 ıncı maddenin birinci
 fıkrası hükmü uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 271**, «c. Alıcının temerrüdü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 271 - Alıcı bir veya daha çok ön ödemede temerrüde düşerse satıcı, ancak

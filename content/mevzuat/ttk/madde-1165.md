@@ -12,12 +12,11 @@ wordCount: 4297
 
 ---
 
-Madde 1165 - (1)   Her   türlü   navlun   sözleşmesinde,   taşıtan   ve   yükleten,   eşyanın  teslim   alınacağı   süre   içinde   o   eşyanın   taşınması   için   gerekli   belgeleri   taşıyana   vermek  zorundadır.  (2)   Bu   belgelerdeki   bütün   yolsuzluklardan   ve   özellikle   bunların   gerçeğe   uymayan  beyanları   içermelerinden   doğan   zararlardan   taşıtan   ve   yükleten,   taşıyana   ve   yükle   ilgili   diğer  kişilere   karşı   1145   inci   madde   gereğince   sorumludur.
+Madde 1165 - (1) Her türlü navlun sözleşmesinde, taşıtan ve yükleten, eşyanın teslim alınacağı süre içinde o eşyanın taşınması için gerekli belgeleri taşıyana vermek zorundadır. (2) Bu belgelerdeki bütün yolsuzluklardan ve özellikle bunların gerçeğe uymayan beyanları içermelerinden doğan zararlardan taşıtan ve yükleten, taşıyana ve yükle ilgili diğer kişilere karşı 1145 inci madde gereğince sorumludur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1165**, «Madde 1165» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **XI

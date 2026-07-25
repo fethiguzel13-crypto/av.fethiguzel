@@ -11,12 +11,11 @@ wordCount: 4270
 
 ---
 
-Madde 587 - Gaibin miras çıları tereke mallarını teslim aldıktan sonra gaibe bir miras  düşerse, ona düşen miras payı gaiplik sebebiyle kendilerine kalacak olanlar,   ayrıca bir gaiplik  kararı almak zorunda kalmaksızın bu miras payının teslimini isteyebilir ler.  Gaibe düşen miras payı nı teslim alanların elde ettikleri gaiplik kararına aynı şekilde  gaibin mirasçıları da dayanabilirler.
+Madde 587 - Gaibin miras çıları tereke mallarını teslim aldıktan sonra gaibe bir miras düşerse, ona düşen miras payı gaiplik sebebiyle kendilerine kalacak olanlar, ayrıca bir gaiplik kararı almak zorunda kalmaksızın bu miras payının teslimini isteyebilir ler. Gaibe düşen miras payı nı teslim alanların elde ettikleri gaiplik kararına aynı şekilde gaibin mirasçıları da dayanabilirler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 587**, «III. Gaibin hem mirasbırakan, hem mirasçı olm ası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 587 - Gaibin miras çıları tereke mallarını teslim aldıktan sonra gaibe bir miras  düşerse, ona düşen miras payı gaiplik sebebiyle kendilerine kalacak olanlar,   ayrıca bir gaiplik  kararı almak zorunda kalmaksızın bu miras payının teslimini isteyebilir ler.  Gaibe düşen miras payı nı teslim alanların elde ettikleri gaiplik kararına aynı şekilde  gaibin mirasçıları da dayanabilirler.

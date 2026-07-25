@@ -12,12 +12,11 @@ wordCount: 4320
 
 ---
 
-Madde 745 - (1)   Nüshalardan   birini   kabul   için   gönderen   kişi,   bu   nüshayı   elinde   tutan  kişinin   adını   diğer   nüs halar   üzerine   yazmak   zorundadır.   Kabul   için   gönderilen   nüshayı   elinde  tutan   kişi;   bunu,   diğer   nüshanın   yetkili   hamiline   teslim   etmekle   yükümlüdür.  (2)   Teslimden   kaçınırsa   hamil   başvurma   hakkını,   ancak;  a)   Kabul   için   gönderilen   nüshanın,   istemde   bulunulması na   rağmen   kendisine   teslim  olunmadığı,  b)   Diğer   nüsha   üzerinde   de   kabulün   veya   ödemenin   sağlanamadığı,  hususları   bir   protesto   ile   tespit   ettirilmiş   olduğu   takdirde   kullanabilir.
+Madde 745 - (1) Nüshalardan birini kabul için gönderen kişi, bu nüshayı elinde tutan kişinin adını diğer nüs halar üzerine yazmak zorundadır. Kabul için gönderilen nüshayı elinde tutan kişi; bunu, diğer nüshanın yetkili hamiline teslim etmekle yükümlüdür. (2) Teslimden kaçınırsa hamil başvurma hakkını, ancak; a) Kabul için gönderilen nüshanın, istemde bulunulması na rağmen kendisine teslim olunmadığı, b) Diğer nüsha üzerinde de kabulün veya ödemenin sağlanamadığı, hususları bir protesto ile tespit ettirilmiş olduğu takdirde kullanabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 745**, «Madde 745» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

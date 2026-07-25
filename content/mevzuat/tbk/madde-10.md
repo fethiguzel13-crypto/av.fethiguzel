@@ -18,14 +18,13 @@ keywords:
 ---
 
 Madde 10 - Geri alma açıklaması, diğer tarafa öneriden önce veya aynı anda ulaşmış
-ya  da  daha  sonra  ulaşmakla  birlikte  diğer  tarafça  öneriden  önce  öğrenilmiş  olursa,  öneri
+ya da daha sonra ulaşmakla birlikte diğer tarafça öneriden önce öğrenilmiş olursa, öneri
 yapılmamış sayılır.
 Bu kural, kabulün geri alınmasında da uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun 10. maddesi, sözleşmelerin kurulması rejiminde **öneren veya kabul edenin pişmanlık hakkı**nı düzenleyen, irade beyanlarının geri alınması kurumuna ilişkin temel hükümdür. Sözleşme görüşmelerinde tarafların yola çıkardıkları irade beyanlarının kesin biçimde bağlayıcı olması, hukuki güvenlik açısından zorunludur. Ancak modern hukuk düzeni, beyanın muhataba ulaşması ile karşı tarafın hâkimiyet alanında hukuki sonuç doğurmaya başlaması arasında geçen kısa bir zaman dilimi içinde beyan sahibine pişmanlık fırsatı tanır. TBK m. 10, bu pişmanlık hakkının kullanılabilmesi için aranan koşulları, ulaşma teorisinin sınırları içinde belirler.

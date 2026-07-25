@@ -11,13 +11,12 @@ wordCount: 4310
 
 ---
 
-Madde 666 - (1)   Mahkeme,   belirlenen   süre   içinde   ibraz   edilmeyen   senedin   iptaline  karar   verir   veya   gerekli   görürse   başka   önlem ler   de   alabilir.
-(2)   Hamile   yazılı   bir   senedin   iptali   hakkındaki   karar,   derhâl   35   inci   maddede   yazılı  gazeteyle   ve   mahkeme   gerek   görürse   başka   araçlarla   da   ilan   edilir.  (3)   İptal   kararı   üzerine   dilekçe   sahibi,   gideri   kendisine   ait   olmak   üzere   yeni   bir   sene t  düzenlenmesini   veya   muaccel   borcun   ifasını   istemek   hakkını   haizdir.
+Madde 666 - (1) Mahkeme, belirlenen süre içinde ibraz edilmeyen senedin iptaline karar verir veya gerekli görürse başka önlem ler de alabilir.
+(2) Hamile yazılı bir senedin iptali hakkındaki karar, derhâl 35 inci maddede yazılı gazeteyle ve mahkeme gerek görürse başka araçlarla da ilan edilir. (3) İptal kararı üzerine dilekçe sahibi, gideri kendisine ait olmak üzere yeni bir sene t düzenlenmesini veya muaccel borcun ifasını istemek hakkını haizdir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 666**, «b) Senedin ibraz edilmemesi hâlinde» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 666 - (1)   Mahkeme,   belirlenen   süre   içinde   ibraz   edilmeyen   senedin   iptaline  karar   verir   veya   gerekli   görürse   başka   önlem ler   de   alabilir.

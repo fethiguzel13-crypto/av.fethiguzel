@@ -13,27 +13,26 @@ wordCount: 4260
 
 Madde 587 - Birden çok kişi, aynı borca birlikte kefil oldukları takdirde, her biri
 kendi payı için adi kefil gibi, diğerlerinin payı için de kefile kefil gibi sorumlu olur.
-Borçluyla  birlikte  veya  kendi  aralarında  müteselsil  kefil  olarak  yükümlülük  altına
-giren  kefillerden  her  biri,  borcun  tamamından  sorumlu  olur.  Ancak,  bir  kefil,  kendisiyle
+Borçluyla birlikte veya kendi aralarında müteselsil kefil olarak yükümlülük altına
+giren kefillerden her biri, borcun tamamından sorumlu olur. Ancak, bir kefil, kendisiyle
 birlikte daha önce veya aynı zamanda müteselsilen yükümlü bulunan ve Türkiye’de takip
-edilebilen  bütün  kefillere  karşı  takibe  girişilmiş  olmadıkça,  kendi  payından  fazlasını
+edilebilen bütün kefillere karşı takibe girişilmiş olmadıkça, kendi payından fazlasını
 ödemekten kaçınabilir. Bir kefil, bu hakkı, diğer kefillerin kendi paylarını ödemiş veya ayni
-güvence  sağlamış  olmaları  durumunda  da  kullanabilir. Aksine  anlaşmalar  saklı  kalmak
+güvence sağlamış olmaları durumunda da kullanabilir. Aksine anlaşmalar saklı kalmak
 kaydıyla, borcu ödeyen kefil, kendi paylarını daha önce ödememiş olmaları ölçüsünde, diğer
 kefillere karşı rücu hakkına sahiptir. Bu hak, borçluya rücudan önce de kullanılabilir.
-Alacaklı,  kefilin  aynı  alacak  için  başka kişilerin  de  kefil  olduğunu  veya  olacağını
-varsayarak  kefalet  ettiğini  biliyor  veya  bilmesi  gerekiyorsa,  bu  varsayımın  sonradan
+Alacaklı, kefilin aynı alacak için başka kişilerin de kefil olduğunu veya olacağını
+varsayarak kefalet ettiğini biliyor veya bilmesi gerekiyorsa, bu varsayımın sonradan
 gerçekleşmemesi veya kefillerden birinin alacaklı tarafından kefalet borcundan kurtarılması
-ya da kefaletinin hükümsüz olduğuna karar  verilmesi  durumunda  kefil,  kefalet  borcundan
+ya da kefaletinin hükümsüz olduğuna karar verilmesi durumunda kefil, kefalet borcundan
 kurtulur.
-Birbirlerinden  bağımsız  olarak  aynı  borç  için  kefil  olanlardan  her  biri,  kefalet
+Birbirlerinden bağımsız olarak aynı borç için kefil olanlardan her biri, kefalet
 borcunun tamamından sorumlu olur. Ancak, borcu ödeyen kefil aksine anlaşma olmadıkça,
 diğerlerine toplam kefalet miktarındaki payı oranında rücu hakkına sahiptir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 587**, «3. Birlikte kefalet» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 587 - Birden çok kişi, aynı borca birlikte kefil oldukları takdirde, her biri

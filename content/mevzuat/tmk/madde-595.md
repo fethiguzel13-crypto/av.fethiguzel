@@ -12,12 +12,11 @@ I. Teslim göre vi ve alınacak önlemler**
 
 ---
 
-Madde 595 - Mirasbırakanın ölümünden sonra ele geçen vasiyetnamesin in, geçerli olup  olmadığına   bakılmaksızın hemen sulh hâkimine teslim edilmesi zorunludur.  Vasiyetnameyi düzenleyen veya muhafaza eden görevli ya da mirasbırakanın arz usu  üzerine saklayan veya başka surette ele geçiren ya da ölenin eşyası arasında bulan kim se, ölümü  öğrenir öğrenmez   teslim görevini yerine getirmekle yükümlüdür; aksi takdirde bu yüzden  doğacak zarardan sorumludur.  Sulh hâkimi, teslim edilen vasiyetnamey i derhâl inceler, gerekli koruma önlemlerini alır;  olanak varsa ilgilileri dinleyerek tere kenin yasal mirasçılara geç ici olarak teslimine veya resmen  yönetilmesine karar verir.
+Madde 595 - Mirasbırakanın ölümünden sonra ele geçen vasiyetnamesin in, geçerli olup olmadığına bakılmaksızın hemen sulh hâkimine teslim edilmesi zorunludur. Vasiyetnameyi düzenleyen veya muhafaza eden görevli ya da mirasbırakanın arz usu üzerine saklayan veya başka surette ele geçiren ya da ölenin eşyası arasında bulan kim se, ölümü öğrenir öğrenmez teslim görevini yerine getirmekle yükümlüdür; aksi takdirde bu yüzden doğacak zarardan sorumludur. Sulh hâkimi, teslim edilen vasiyetnamey i derhâl inceler, gerekli koruma önlemlerini alır; olanak varsa ilgilileri dinleyerek tere kenin yasal mirasçılara geç ici olarak teslimine veya resmen yönetilmesine karar verir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 595**, «Madde 595» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **E. Vasiyetname ile ilgili işlemler

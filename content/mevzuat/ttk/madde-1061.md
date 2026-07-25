@@ -9,16 +9,15 @@ wordCount: 4305
 
 **B) Uygulanacak hükümler MADDE 106 0
 - (1) Sicile kayıtlı gemi üzerindeki intifa hakkı Türk Medenî Kanununun taşınmazlar üzerindeki intifa hakkı hükümlerine tabidir. (2) İntifa hakkı ile gemi ipotekleri arasındaki ilişkiler Türk Medenî Kanununun 869 uncu maddesi hükmüne tabidir. Aynı tarihle kaydedilmiş bulunan haklar aynı derecededir. Gemi ipoteğinin derecelerinin değiştirilmesi ve ipoteğin malike karşı alacaklıya sağladığı hakların zamanaşımına uğraması ile ilgili hükümler burada da uygulanır. İKİNCİ KISIM Donatan ve Donatma İştiraki
-A)   Do natan  I -   Tanımı**
+A) Do natan I - Tanımı**
 
 ---
 
-Madde 1061 - (1)   Donatan,   gemisini   menfaat   sağlamak   amacıyla   suda   kullanan   gemi  malikine   denir.  (2)   Kendisinin   olmayan   bir   gemiyi   menfaat   sağlamak   amacıyla   suda   kendi   adına  bizzat   veya   kaptan   aracılığıyla   kullanan   kişi,   üçüncü   kişilerle   olan   ilişkilerinde   donatan  sayılır.   Malik,   geminin   işletilmesinden   dolayı   gemi   alacaklısı   sıfatıyla   bir   istemde   bulunan  kişiyi,   bu   işletilme   malike   karşı   haksız   ve   alacaklı   da   kötüniyet   sahibi   olmadıkça,   hakkını  istemekten   engelleyemez.
+Madde 1061 - (1) Donatan, gemisini menfaat sağlamak amacıyla suda kullanan gemi malikine denir. (2) Kendisinin olmayan bir gemiyi menfaat sağlamak amacıyla suda kendi adına bizzat veya kaptan aracılığıyla kullanan kişi, üçüncü kişilerle olan ilişkilerinde donatan sayılır. Malik, geminin işletilmesinden dolayı gemi alacaklısı sıfatıyla bir istemde bulunan kişiyi, bu işletilme malike karşı haksız ve alacaklı da kötüniyet sahibi olmadıkça, hakkını istemekten engelleyemez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1061**, «Madde 1061» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Uygulanacak hükümler MADDE 106 0

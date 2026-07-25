@@ -15,13 +15,12 @@ Madde 207 - Satış sözleşmesi, satıcının, satılanın zilyetlik ve mülkiy
 devretme, alıcının ise buna karşılık bir bedel ödeme borcunu üstlendiği sözleşmedir.
 Sözleşme ile aksi kararlaştırılmadıkça veya aksine bir âdet bulunmadıkça, satıcı ve
 alıcı borçlarını aynı anda ifa etmekle yükümlüdürler.
-Durum  ve  koşullara  göre  belirlenmesi  mümkün  olan  bedel,  kararlaştırılmış  bedel
+Durum ve koşullara göre belirlenmesi mümkün olan bedel, kararlaştırılmış bedel
 hükmündedir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 207**, «A. Tanımı ve hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 207 - Satış sözleşmesi, satıcının, satılanın zilyetlik ve mülkiyetini alıcıya

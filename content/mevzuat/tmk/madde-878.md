@@ -11,12 +11,11 @@ wordCount: 4260
 
 ---
 
-Madde 878 - İyileştirme , kamu kurum veya kuruluşunun katkısı olmaksızın yapılmış ise,  rehinli alacağın en çok beş yıl içinde eşit taksitlerle ödenmesi gerekir.  Alacağın veya y ıllık taksitlerin muaccel olmasından beş yıl sonra rehin hakkı sona erer ve  sonraki alacaklılar sıraları na göre ilerlerler.
+Madde 878 - İyileştirme , kamu kurum veya kuruluşunun katkısı olmaksızın yapılmış ise, rehinli alacağın en çok beş yıl içinde eşit taksitlerle ödenmesi gerekir. Alacağın veya y ıllık taksitlerin muaccel olmasından beş yıl sonra rehin hakkı sona erer ve sonraki alacaklılar sıraları na göre ilerlerler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 878**, «2. Borcun ödenmesi ve rehnin sona ermesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 878 - İyileştirme , kamu kurum veya kuruluşunun katkısı olmaksızın yapılmış ise,  rehinli alacağın en çok beş yıl içinde eşit taksitlerle ödenmesi gerekir.  Alacağın veya y ıllık taksitlerin muaccel olmasından beş yıl sonra rehin hakkı sona erer ve  sonraki alacaklılar sıraları na göre ilerlerler.

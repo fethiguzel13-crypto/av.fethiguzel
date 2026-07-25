@@ -12,13 +12,12 @@ wordCount: 4299
 
 ---
 
-Madde 1137 - (1)   Tahsis   olunan,   geminin   ticari   yönetimi   dolayısıyl a   tahsis   edenin  uğradığı   zararlardan   sorumludur.  (2)   Tahsis   olunan,   sözleşme   bitiminde   gemiyi   sözleşmede   belirlenen   yerde   ve   hâlde  iade   etmekle   yükümlüdür.   Bu   yükümlülüğün   ihlali   hâlinde,   tahsis   olunan,   gecikilen   zaman  dilimi   için,   zaman   çarteri   sözleşmesi nin   bittiği   tarihte   ödenmesi   gereken   tahsis   ücretinin   iki  katını   ödemekle   yükümlüdür;   meğerki,   bu   yüzden   daha   yüksek   bir   zararın   meydana   geldiği  ispat   edilmiş   olsun.  ÜÇÜNCÜ   BÖLÜM  Navlun   Sözleşmesi
-BİRİNCİ   AYIRIM  Genel   Hükümler  A)   Navlun   sözleşmesinin   tür leri
+Madde 1137 - (1) Tahsis olunan, geminin ticari yönetimi dolayısıyl a tahsis edenin uğradığı zararlardan sorumludur. (2) Tahsis olunan, sözleşme bitiminde gemiyi sözleşmede belirlenen yerde ve hâlde iade etmekle yükümlüdür. Bu yükümlülüğün ihlali hâlinde, tahsis olunan, gecikilen zaman dilimi için, zaman çarteri sözleşmesi nin bittiği tarihte ödenmesi gereken tahsis ücretinin iki katını ödemekle yükümlüdür; meğerki, bu yüzden daha yüksek bir zararın meydana geldiği ispat edilmiş olsun. ÜÇÜNCÜ BÖLÜM Navlun Sözleşmesi
+BİRİNCİ AYIRIM Genel Hükümler A) Navlun sözleşmesinin tür leri
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1137**, «Madde 1137» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **V

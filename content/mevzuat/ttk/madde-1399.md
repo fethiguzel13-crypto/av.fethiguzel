@@ -12,12 +12,11 @@ wordCount: 4300
 
 ---
 
-Madde 1399 - (1)   Hapis   hakkıyla   teminat   altına   alınan   alacak,   bir   ilama   veya   ilam  niteliğindeki   belgeye   dayanıyorsa,   alacaklı,   defterin   tutulmasından   başlayarak   onbeş   gün  için de   taşınır   rehninin   paraya   çevrilmesi   yoluyla   ilamlı   takip   yapar.   Şu   kadar   ki,   takip   konusu  ilamda   veya   ilam   niteliğindeki   belgede   hapis   hakkı   da   belirtilmemişse,   borçlu   hapis   hakkına  itiraz   edebilir.   Bu   durumda,   İcra   ve   İflas   Kanununun   147   nci   maddesinin   birinci   fıkrasının   (2)  numaralı   bendi   uygulanır.
+Madde 1399 - (1) Hapis hakkıyla teminat altına alınan alacak, bir ilama veya ilam niteliğindeki belgeye dayanıyorsa, alacaklı, defterin tutulmasından başlayarak onbeş gün için de taşınır rehninin paraya çevrilmesi yoluyla ilamlı takip yapar. Şu kadar ki, takip konusu ilamda veya ilam niteliğindeki belgede hapis hakkı da belirtilmemişse, borçlu hapis hakkına itiraz edebilir. Bu durumda, İcra ve İflas Kanununun 147 nci maddesinin birinci fıkrasının (2) numaralı bendi uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1399**, «Madde 1399» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

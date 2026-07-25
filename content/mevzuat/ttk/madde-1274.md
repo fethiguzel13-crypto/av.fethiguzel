@@ -13,13 +13,12 @@ I
 
 ---
 
-Madde 1274 - (1)   Müşterek   avarya   garame   paylarının   kişisel   borçluları,   garameye
-girecek   olan   geminin   müşterek   avarya   hareketinin   meydana   geldiği   andaki   donatanı,   navlunun  boşaltma   t arihindeki   alacaklısı   ve   diğer   eşyanın   boşaltma   tarihindeki   malikidir.  (2)   Garameye   girecek   eşyanın   gönderileni,   eşyayı   teslim   alırken   bunlara   bir   garame   payı  düşmüş   olduğunu   biliyor   ise,   bu   pay   için   eşya   teslim   edilmiş   olmasaydı   o   eşyanın   paraya  çevrilmes i   hâlinde   garame   payı   ne   oranda   ödenecek   idiyse   o   oranda   eşyanın   teslim   zamanındaki  değerine   kadar   şahsen   sorumludur.
+Madde 1274 - (1) Müşterek avarya garame paylarının kişisel borçluları, garameye
+girecek olan geminin müşterek avarya hareketinin meydana geldiği andaki donatanı, navlunun boşaltma t arihindeki alacaklısı ve diğer eşyanın boşaltma tarihindeki malikidir. (2) Garameye girecek eşyanın gönderileni, eşyayı teslim alırken bunlara bir garame payı düşmüş olduğunu biliyor ise, bu pay için eşya teslim edilmiş olmasaydı o eşyanın paraya çevrilmes i hâlinde garame payı ne oranda ödenecek idiyse o oranda eşyanın teslim zamanındaki değerine kadar şahsen sorumludur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1274**, «Madde 1274» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Borçlular ve teminat

@@ -13,8 +13,8 @@ wordCount: 4309
 
 Madde 535 - Vekâlet verenin belirlediği bedelin altında mal satan komisyoncu, malı
 satmasaydı vekâlet verenin daha fazla zarar göreceğini ve durumun yeniden talimat almaya
-elverişli  bulunmadığını  ispat  etmedikçe,  belirlenen  bedel  ile  satış  bedeli  arasındaki  farkı
-gidermekle  yükümlüdür.  Bunun  dışında  komisyoncu,  kusuru  varsa,  talimatına  aykırı
+elverişli bulunmadığını ispat etmedikçe, belirlenen bedel ile satış bedeli arasındaki farkı
+gidermekle yükümlüdür. Bunun dışında komisyoncu, kusuru varsa, talimatına aykırı
 davranmasından dolayı vekâlet verenin uğradığı diğer zararlardan da sorumludur.
 Vekâlet verenin belirlediği bedelin altında mal alan veya üstünde satan komisyoncu,
 bu işlemlerden doğan farkı alıkoyamaz.
@@ -22,7 +22,6 @@ bu işlemlerden doğan farkı alıkoyamaz.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 535**, «3. Vekâlet verenin belirlediği bedel» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 535 - Vekâlet verenin belirlediği bedelin altında mal satan komisyoncu, malı

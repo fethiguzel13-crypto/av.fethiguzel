@@ -13,12 +13,11 @@ wordCount: 4302
 
 ---
 
-Madde 1377 - (1)   Gemi   üzerinde,   kanun   veya   sözleşme   uyarınca   doğan   veya  mahkemece   tesciline   karar   verilen   bütün   rehin   ve   hapis   hakları,   teminat   altına   alınan   alacaktan  ayrı   ve   bağımsız   olarak   yargılama   veya   icra   konusu   yapılamaz.  (2)   Birinci   fıkrada   belirtilen   rehin   ve   hapis   haklarının,   rehnin   paraya   çevrilmesi  yol uyla   ilamlı   takip   konusu   yapılabilmeleri   için,   hem   alacağın   hem   de   rehin   veya   hapis  hakkının,   ilam   veya   ilam   niteliğindeki   belgelerde   veya   gemi   sicil   müdürlüğünde   düzenlenmiş  gemi   ipoteği   sözleşmesinde   tespit   edilmiş   olması   şarttır.
+Madde 1377 - (1) Gemi üzerinde, kanun veya sözleşme uyarınca doğan veya mahkemece tesciline karar verilen bütün rehin ve hapis hakları, teminat altına alınan alacaktan ayrı ve bağımsız olarak yargılama veya icra konusu yapılamaz. (2) Birinci fıkrada belirtilen rehin ve hapis haklarının, rehnin paraya çevrilmesi yol uyla ilamlı takip konusu yapılabilmeleri için, hem alacağın hem de rehin veya hapis hakkının, ilam veya ilam niteliğindeki belgelerde veya gemi sicil müdürlüğünde düzenlenmiş gemi ipoteği sözleşmesinde tespit edilmiş olması şarttır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1377**, «Madde 1377» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

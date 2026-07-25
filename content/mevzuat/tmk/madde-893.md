@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4269
 ---
 
-**II. Tescile tâb i kanunî ipotekler  1. Hâller**
+**II. Tescile tâb i kanunî ipotekler 1. Hâller**
 
 ---
 
-Madde 893 - Aşağıdaki alacaklılar,   kanunî ipotek hakkının tescilini isteyebilirler:  1. Satıştan doğan alacağı için satılan t aşınmaz üzerinde satıcı,  2. Elbirliği ortaklığına giren taşınmazlarda paylaşmadan doğan alacakları için   birlikte  mirasçı olanlar veya diğer elbirliği ortakları,  3. Bi r taşınmaz üzerinde yapılan yapı veya diğer işlerde malzeme vererek veya vermeden  emek sar f ettikleri için malzeme ve emek karşılığı olarak malik veya yükleniciden alacaklı olan  alt yüklenici ve ya zanaatkârlar.  Alacaklıların, bu kanunî ipotek hakkından önc eden feragat etmeleri geçerli değildir.
+Madde 893 - Aşağıdaki alacaklılar, kanunî ipotek hakkının tescilini isteyebilirler: 1. Satıştan doğan alacağı için satılan t aşınmaz üzerinde satıcı, 2. Elbirliği ortaklığına giren taşınmazlarda paylaşmadan doğan alacakları için birlikte mirasçı olanlar veya diğer elbirliği ortakları, 3. Bi r taşınmaz üzerinde yapılan yapı veya diğer işlerde malzeme vererek veya vermeden emek sar f ettikleri için malzeme ve emek karşılığı olarak malik veya yükleniciden alacaklı olan alt yüklenici ve ya zanaatkârlar. Alacaklıların, bu kanunî ipotek hakkından önc eden feragat etmeleri geçerli değildir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 893**, «II. Tescile tâb i kanunî ipotekler  1. Hâller» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 893 - Aşağıdaki alacaklılar,   kanunî ipotek hakkının tescilini isteyebilirler:  1. Satıştan doğan alacağı için satılan t aşınmaz üzerinde satıcı,  2. Elbirliği ortaklığına giren taşınmazlarda paylaşmadan doğan alacakları için   birlikte  mirasçı olanlar veya diğer elbirliği ortakları,  3. Bi r taşınmaz üzerinde yapılan yapı veya diğer işlerde malzeme vererek veya vermeden  emek sar f ettikl… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

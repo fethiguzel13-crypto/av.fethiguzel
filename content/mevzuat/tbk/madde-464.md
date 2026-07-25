@@ -11,19 +11,18 @@ wordCount: 4267
 
 ---
 
-Madde 464 - Malzeme  ve  iş  araçları  işveren  tarafından  sağlanmışsa,  işçi  bunları
+Madde 464 - Malzeme ve iş araçları işveren tarafından sağlanmışsa, işçi bunları
 gereken özeni göstererek kullanmak, bundan dolayı hesap vermek, ayrıca kalan malzeme ile
 iş araçlarını da işverene teslim etmekle yükümlüdür.
 İşçi işi görürken, kendisine teslim edilen malzemenin veya iş araçlarının bozuk olduğunu
 belirlerse, durumu hemen işverene bildirir ve işe devam etmeden önce, onun talimatını bekler.
 İşçi, kendisine teslim edilen malzeme veya iş araçlarını kendi kusuruyla kullanılmaz
-hâle  getirirse,  işverene  karşı  onun  kullanılmaz  hâle  geldiği  gündeki  rayiç  bedeli  kadar
+hâle getirirse, işverene karşı onun kullanılmaz hâle geldiği gündeki rayiç bedeli kadar
 sorumludur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 464**, «2. Malzeme ve iş araçları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 464 - Malzeme  ve  iş  araçları  işveren  tarafından  sağlanmışsa,  işçi  bunları

@@ -11,12 +11,11 @@ wordCount: 4265
 
 ---
 
-Madde 772 - Bulunmalarından çok zaman önce gömülmüş veya saklanmış olduğu ve  duruma göre artık malikin in bulunmadığı kesin olarak anlaşılan değerli şeyler, define sayılır.  Bilimsel   değer   taşıyan   eşyaya   iliş kin   hükümler   saklı   kalmak   üzere   define,   içinde  bulunduğu taşın maz veya taşınır malın malikinin olur.  Defineyi bulan kimse, değerinin yarısını aşmamak üz ere uygun bir ödül isteyebilir.
+Madde 772 - Bulunmalarından çok zaman önce gömülmüş veya saklanmış olduğu ve duruma göre artık malikin in bulunmadığı kesin olarak anlaşılan değerli şeyler, define sayılır. Bilimsel değer taşıyan eşyaya iliş kin hükümler saklı kalmak üzere define, içinde bulunduğu taşın maz veya taşınır malın malikinin olur. Defineyi bulan kimse, değerinin yarısını aşmamak üz ere uygun bir ödül isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 772**, «4. Define» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 772 - Bulunmalarından çok zaman önce gömülmüş veya saklanmış olduğu ve  duruma göre artık malikin in bulunmadığı kesin olarak anlaşılan değerli şeyler, define sayılır.  Bilimsel   değer   taşıyan   eşyaya   iliş kin   hükümler   saklı   kalmak   üzere   define,   içinde  bulunduğu taşın maz veya taşınır malın malikinin olur.  Defineyi bulan kimse, değerinin yarısını aşmamak üz ere uygun bir … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

@@ -21,13 +21,12 @@ a. Hazır olanlar arasında**
 Madde 4 - Kabul için süre belirlenmeksizin hazır olan bir kişiye yapılan öneri hemen
 kabul edilmezse; öneren, önerisiyle bağlılıktan kurtulur.
 
-Telefon,  bilgisayar gibi  iletişim  sağlayabilen  araçlarla  doğrudan  iletişim  sırasında
+Telefon, bilgisayar gibi iletişim sağlayabilen araçlarla doğrudan iletişim sırasında
 yapılan öneri, hazır olanlar arasında yapılmış sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun (TBK) 4. maddesi, kanunun **Birinci Kısım — Genel Hükümler / Birinci Bölüm — Borç İlişkisinin Kaynakları / Birinci Ayrım — Sözleşmeden Doğan Borç İlişkileri** sistematiğinde, m. 3'ün (süreli öneri) tamamlayıcısı olarak **süresiz öneri rejiminin başlangıç düzenlemesini** oluşturur. Madde, **hazır olanlar arasında** (presentes) yapılan ve kabul süresi belirtilmemiş önerilerin hukuki sonuçlarını ortaya koyar.

@@ -12,13 +12,12 @@ wordCount: 4319
 
 ---
 
-Madde 231 - (1)   Bir   ortak   230   uncu   maddeye   aykırı   hareket   ederse,   şirket,   bu   ortaktan  tazminat   istemekte   veya   tazminat   yerine   bu   ortağın   kendi   adına   yaptığı   işleri   şirket   adına  yapılmış   saymakta,   üçüncü   kişilerin   hesabına   yapmış   olduğu   işlerden   doğan   menfaatlerin
-şirkete   bırakılmasını   istemekte   serbesttir.  (2)   Bu   seçeneklerden   birine   diğer   ortaklar   çoğunlukla   karar   verir.   Bu   hak,   bir   işlemin  yapıldığının   veya   ortağın   diğer   bir   şirkete   girdiğinin   öğrenildiği   tarihten   başlayarak   üç   ay   ve  her   hâlde   işlemin   yapıldığı   tarihten   itibaren   bir   yıl   sonra   zamanaşımına   uğrar.  (3)   Yukarıdaki   hükümler,   hakları   ihlal   edilen   ortakların,   şirketin   feshini   istemek  haklarını   etkilemez.  ÜÇÜNCÜ   BÖLÜM  Şirketin   ve   Ortakların   Üçüncü   Kişilerle   İlişkileri  A)   Tüze l   kişiliğin   kazanılması
+Madde 231 - (1) Bir ortak 230 uncu maddeye aykırı hareket ederse, şirket, bu ortaktan tazminat istemekte veya tazminat yerine bu ortağın kendi adına yaptığı işleri şirket adına yapılmış saymakta, üçüncü kişilerin hesabına yapmış olduğu işlerden doğan menfaatlerin
+şirkete bırakılmasını istemekte serbesttir. (2) Bu seçeneklerden birine diğer ortaklar çoğunlukla karar verir. Bu hak, bir işlemin yapıldığının veya ortağın diğer bir şirkete girdiğinin öğrenildiği tarihten başlayarak üç ay ve her hâlde işlemin yapıldığı tarihten itibaren bir yıl sonra zamanaşımına uğrar. (3) Yukarıdaki hükümler, hakları ihlal edilen ortakların, şirketin feshini istemek haklarını etkilemez. ÜÇÜNCÜ BÖLÜM Şirketin ve Ortakların Üçüncü Kişilerle İlişkileri A) Tüze l kişiliğin kazanılması
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 231**, «Madde 231» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

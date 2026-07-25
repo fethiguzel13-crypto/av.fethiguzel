@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4312
 ---
 
-**II   -   İflas   hâlinde**
+**II - İflas hâlinde**
 
 ---
 
-Madde 556 - (1)   Zarara   uğrayan   şirketin   iflası   hâlinde,   tazminatın   şi rkete   ödenmesini  isteme   hakkını   şirket   alacaklıları   da   haizdir.   Ancak,   pay   sahiplerinin   ve   şirket   alacaklılarının  istemleri   önce   iflas   idaresince   ileri   sürülür.  (2)   İflas   idaresi   birinci   fıkrada   öngörülen   davayı   açmadığı   takdirde,   her   pay   sahibi  veya   şirk et   alacaklısı   mezkûr   davayı   ikame   edebilir.   Elde   edilen   hasıla,   İcra   ve   İflas   Kanunu  hükümlerine   göre,   önce   dava   açan   alacaklıların   alacaklarının   ödenmesine   tahsis   olunur;  bakiye,   sermaye   payları   oranında   davacı   pay   sahiplerine   ödenir;   artan   iflas   masasına   verilir.  (3)   Şirketin   istemlerinin   devrine   ilişkin   İcra   ve   İflas   Kanununun   245   inci   maddesi  hükmü   saklıdır.
+Madde 556 - (1) Zarara uğrayan şirketin iflası hâlinde, tazminatın şi rkete ödenmesini isteme hakkını şirket alacaklıları da haizdir. Ancak, pay sahiplerinin ve şirket alacaklılarının istemleri önce iflas idaresince ileri sürülür. (2) İflas idaresi birinci fıkrada öngörülen davayı açmadığı takdirde, her pay sahibi veya şirk et alacaklısı mezkûr davayı ikame edebilir. Elde edilen hasıla, İcra ve İflas Kanunu hükümlerine göre, önce dava açan alacaklıların alacaklarının ödenmesine tahsis olunur; bakiye, sermaye payları oranında davacı pay sahiplerine ödenir; artan iflas masasına verilir. (3) Şirketin istemlerinin devrine ilişkin İcra ve İflas Kanununun 245 inci maddesi hükmü saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 556**, «II   -   İflas   hâlinde» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 556 - (1)   Zarara   uğrayan   şirketin   iflası   hâlinde,   tazminatın   şi rkete   ödenmesini  isteme   hakkını   şirket   alacaklıları   da   haizdir.   Ancak,   pay   sahiplerinin   ve   şirket   alacaklılarının  istemleri   önce   iflas   idaresince   ileri   sürülür.  (2)   İflas   idaresi   birinci   fıkrada   öngörülen   davayı   açmadığı   takdirde,   her   pay   sahibi  veya   şir… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

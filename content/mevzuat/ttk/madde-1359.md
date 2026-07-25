@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4300
 ---
 
-**b)   Esas   hakkında**
+**b) Esas hakkında**
 
 ---
 
-Madde 1359 - (1)   1354   ve   1355   inci   maddeler   uyarınca   deniz   alacakları   hakkında  ihtiyati   haciz   kararı   vermeye   yetkili   olan   mahkeme,   deniz   alacağının   esasına   ilişkin   olarak  y apılmış   bir   yetki   veya   tahkim   sözleşmesi   yoksa,   ihtiyati   haczi   tamamlamak   üzere   açılacak  dava   hakkında   ve   ihtiyati   haczi   uygulayan   icra   dairesi   de   icra   takibi   hakkında   yetkilidir.
+Madde 1359 - (1) 1354 ve 1355 inci maddeler uyarınca deniz alacakları hakkında ihtiyati haciz kararı vermeye yetkili olan mahkeme, deniz alacağının esasına ilişkin olarak y apılmış bir yetki veya tahkim sözleşmesi yoksa, ihtiyati haczi tamamlamak üzere açılacak dava hakkında ve ihtiyati haczi uygulayan icra dairesi de icra takibi hakkında yetkilidir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1359**, «b)   Esas   hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1359 - (1)   1354   ve   1355   inci   maddeler   uyarınca   deniz   alacakları   hakkında  ihtiyati   haciz   kararı   vermeye   yetkili   olan   mahkeme,   deniz   alacağının   esasına   ilişkin   olarak  y apılmış   bir   yetki   veya   tahkim   sözleşmesi   yoksa,   ihtiyati   haczi   tamamlamak   üzere   açılacak  dava   hakkında   ve   ihtiyati   haczi   uygulayan   icra   dairesi   de… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

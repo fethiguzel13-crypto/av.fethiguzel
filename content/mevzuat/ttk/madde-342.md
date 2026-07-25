@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**VI   -   Ayni   sermaye  1.   Ayni   sermaye   konulabilecek   malvarlığı   unsurları**
+**VI - Ayni sermaye 1. Ayni sermaye konulabilecek malvarlığı unsurları**
 
 ---
 
-Madde 342 - (1)   Üzerlerinde   sınırlı   ayni   bir   hak,   haciz   ve   tedb ir   bulunmayan,   nakden  değerlendirilebilen   ve   devrolunabilen,   fikrî   mülkiyet   hakları   ile   sanal   ortamlar   da   dâhil,  malvarlığı   unsurları   ayni   sermaye   olarak   konulabilir.   Hizmet   edimleri,   kişisel   emek,   ticari  itibar   ve   vadesi   gelmemiş   alacaklar   sermaye   olamaz.  (2)   128   inci   madde   hükmü   saklıdır.
+Madde 342 - (1) Üzerlerinde sınırlı ayni bir hak, haciz ve tedb ir bulunmayan, nakden değerlendirilebilen ve devrolunabilen, fikrî mülkiyet hakları ile sanal ortamlar da dâhil, malvarlığı unsurları ayni sermaye olarak konulabilir. Hizmet edimleri, kişisel emek, ticari itibar ve vadesi gelmemiş alacaklar sermaye olamaz. (2) 128 inci madde hükmü saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 342**, «VI   -   Ayni   sermaye  1.   Ayni   sermaye   konulabilecek   malvarlığı   unsurları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 342 - (1)   Üzerlerinde   sınırlı   ayni   bir   hak,   haciz   ve   tedb ir   bulunmayan,   nakden  değerlendirilebilen   ve   devrolunabilen,   fikrî   mülkiyet   hakları   ile   sanal   ortamlar   da   dâhil,  malvarlığı   unsurları   ayni   sermaye   olarak   konulabilir.   Hizmet   edimleri,   kişisel   emek,   ticari  itibar   ve   vadesi   gelmemiş   alacaklar   sermaye   olamaz.  (2)… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

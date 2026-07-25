@@ -12,13 +12,12 @@ I. Belli bir iş**
 
 ---
 
-Madde 459 - Belli bir iş için göre vlendi rilmiş olan kayyı m, vesayet makamının talimatına  aynen uymak zorundadır.  II. Malvarlığının yönetimi  Ma dde 460 -   Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise,  yalnız o malvarlığının yöne tim ve korunması için gerek li olan işl eri ya pabilir.  Kayyımın, bunun dışındaki işleri yapabilmesi, temsil olunanın vereceği özel yetkiye,
-temsil olu nan bu yetkiyi verecek durumda değilse vesayet makamının iznine bağlıdır.  ÜÇÜNCÜ   AYIRIM  VESAYET DAİRELERİNİ N GÖREVLERİ  A. Şikâyet ve itiraz
+Madde 459 - Belli bir iş için göre vlendi rilmiş olan kayyı m, vesayet makamının talimatına aynen uymak zorundadır. II. Malvarlığının yönetimi Ma dde 460 - Kayyım bir malvarlığının yönetimi ve gözetimi ile görevlendirilmiş ise, yalnız o malvarlığının yöne tim ve korunması için gerek li olan işl eri ya pabilir. Kayyımın, bunun dışındaki işleri yapabilmesi, temsil olunanın vereceği özel yetkiye,
+temsil olu nan bu yetkiyi verecek durumda değilse vesayet makamının iznine bağlıdır. ÜÇÜNCÜ AYIRIM VESAYET DAİRELERİNİ N GÖREVLERİ A. Şikâyet ve itiraz
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 459**, «Madde 459» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B. Kayyı mlığın kapsamı

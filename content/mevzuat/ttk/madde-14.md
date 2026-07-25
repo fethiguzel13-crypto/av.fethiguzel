@@ -11,12 +11,11 @@ wordCount: 4311
 
 ---
 
-Madde 14 - (1)   Kişisel   durumları   ya   da   yaptığı   işlerin   niteliği   nedeniyle   yahut  meslek   ve   görevleri   dolayısıyla,   kanundan   veya   bir   yargı   kararın dan   doğan   bir   yasağa   aykırı  bir   şekilde   ya   da   başka   bir   kişinin   veya   resmî   bir   makamın   iznine   gerek   olmasına   rağmen   izin  veya   onay   almadan   bir   ticari   işletmeyi   işleten   kişi   de   tacir   sayılır.  (2)   Birinci   fıkraya   aykırı   hareketin   doğurduğu   hukuki,   cezai   ve   disipline   ilişkin   sorumluluk  saklıdır.
+Madde 14 - (1) Kişisel durumları ya da yaptığı işlerin niteliği nedeniyle yahut meslek ve görevleri dolayısıyla, kanundan veya bir yargı kararın dan doğan bir yasağa aykırı bir şekilde ya da başka bir kişinin veya resmî bir makamın iznine gerek olmasına rağmen izin veya onay almadan bir ticari işletmeyi işleten kişi de tacir sayılır. (2) Birinci fıkraya aykırı hareketin doğurduğu hukuki, cezai ve disipline ilişkin sorumluluk saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 14**, «3. Ticaret yapmaktan menedilenler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 14 - (1)   Kişisel   durumları   ya   da   yaptığı   işlerin   niteliği   nedeniyle   yahut  meslek   ve   görevleri   dolayısıyla,   kanundan   veya   bir   yargı   kararın dan   doğan   bir   yasağa   aykırı  bir   şekilde   ya   da   başka   bir   kişinin   veya   resmî   bir   makamın   iznine   gerek   olmasına   rağmen   izin  veya   onay   almadan   bir   ticari   işletmeyi   işleten … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

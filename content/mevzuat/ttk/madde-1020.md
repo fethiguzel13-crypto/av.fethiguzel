@@ -12,12 +12,11 @@ a) Gemi, gemi payı, bütünleyici parça, eklenti, gemi yerine geçen satış v
 
 ---
 
-Madde 1020 - (1)   İpoteğin   kapsamı   hakkında   Türk   Medenî   Kanununun   862   ve   863  üncü   maddeleri   uygulanır.  (2)   Eklentiler   norm al   bir   işletmenin   gereği   olarak   bu   durumdan   çıkarılır   veya   alacaklı  lehine   el   konulmadan   önce   devredilerek   gemiden   uzaklaştırılır   ise,   ipotek   artık   bunları  kapsamaz.  (3)   Bütünleyici   parçalar,   gemiden   geçici   bir   amaç   için   olmamak   şartıyla   ayrılıp  uzaklaştır ılırlarsa   ipotek   bunları   kapsamaz;   meğerki,   uzaklaştırılmadan   önce   alacaklı   lehine  gemiye   el   konulmuş   olsun.  (4)   Kamulaştırılan   geminin   bedeli   ve   gemi   malikinin   geminin   zıyaı   veya   hasarından  dolayı   üçüncü   şahıslara   karşı   sahip   olduğu   tazminat   istemleri   ipo teğin   kapsamındadır.
+Madde 1020 - (1) İpoteğin kapsamı hakkında Türk Medenî Kanununun 862 ve 863 üncü maddeleri uygulanır. (2) Eklentiler norm al bir işletmenin gereği olarak bu durumdan çıkarılır veya alacaklı lehine el konulmadan önce devredilerek gemiden uzaklaştırılır ise, ipotek artık bunları kapsamaz. (3) Bütünleyici parçalar, gemiden geçici bir amaç için olmamak şartıyla ayrılıp uzaklaştır ılırlarsa ipotek bunları kapsamaz; meğerki, uzaklaştırılmadan önce alacaklı lehine gemiye el konulmuş olsun. (4) Kamulaştırılan geminin bedeli ve gemi malikinin geminin zıyaı veya hasarından dolayı üçüncü şahıslara karşı sahip olduğu tazminat istemleri ipo teğin kapsamındadır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1020**, «Madde 1020» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **6. İpoteğin kapsamı

@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4315
 ---
 
-**II   -   Gündem**
+**II - Gündem**
 
 ---
 
-Madde 413 - (1)   Gündem,   genel   kurulu   toplantıya   çağıran   tarafından   belirlenir.  (2)   Gündemde   bulunmayan   konular   genel   kurulda   müzakere   edilemez   ve   karara  bağlanamaz.   Kanuni   istisnalar   saklıdı r.  (3)   Yönetim   kurulu   üyelerinin   görevden   alınmaları   ve   yenilerinin   seçimi   yılsonu  finansal   tablolarının   müzakeresi   maddesiyle   ilgili   sayılır.
+Madde 413 - (1) Gündem, genel kurulu toplantıya çağıran tarafından belirlenir. (2) Gündemde bulunmayan konular genel kurulda müzakere edilemez ve karara bağlanamaz. Kanuni istisnalar saklıdı r. (3) Yönetim kurulu üyelerinin görevden alınmaları ve yenilerinin seçimi yılsonu finansal tablolarının müzakeresi maddesiyle ilgili sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 413**, «II   -   Gündem» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 413 - (1)   Gündem,   genel   kurulu   toplantıya   çağıran   tarafından   belirlenir.  (2)   Gündemde   bulunmayan   konular   genel   kurulda   müzakere   edilemez   ve   karara  bağlanamaz.   Kanuni   istisnalar   saklıdı r.  (3)   Yönetim   kurulu   üyelerinin   görevden   alınmaları   ve   yenilerinin   seçimi   yılsonu  finansal   tablolarının   müzakeresi   maddesiyle   ilgili   sayıl… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

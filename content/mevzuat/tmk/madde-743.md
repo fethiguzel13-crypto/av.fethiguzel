@@ -11,12 +11,11 @@ wordCount: 4271
 
 ---
 
-Madde 743 - Bir arazinin suyu öteden beri alt taraftaki   araziye doğal bir şekilde akmakta  ise, alt taraftaki arazi maliki, üst taraftaki araziden   fazla suyun boşaltılması sırasında da bu suları  tazminat isteme hakkı olmaksızın kabul etmek zorundadır .  Alt taraftaki arazi maliki boşaltma dolayısıyla akan sularda n zarar görmekte ise, gideri  üstteki arazi malikine ait olmak üzere, kendi arazisinde yapı lacak mecrayla suyun akıtılmasını  isteyebilir.  Bataklıkların kurutulması hakkındaki özel kanun hükümleri   saklıdır.
+Madde 743 - Bir arazinin suyu öteden beri alt taraftaki araziye doğal bir şekilde akmakta ise, alt taraftaki arazi maliki, üst taraftaki araziden fazla suyun boşaltılması sırasında da bu suları tazminat isteme hakkı olmaksızın kabul etmek zorundadır . Alt taraftaki arazi maliki boşaltma dolayısıyla akan sularda n zarar görmekte ise, gideri üstteki arazi malikine ait olmak üzere, kendi arazisinde yapı lacak mecrayla suyun akıtılmasını isteyebilir. Bataklıkların kurutulması hakkındaki özel kanun hükümleri saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 743**, «5. Fazla suyun akı tılması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 743 - Bir arazinin suyu öteden beri alt taraftaki   araziye doğal bir şekilde akmakta  ise, alt taraftaki arazi maliki, üst taraftaki araziden   fazla suyun boşaltılması sırasında da bu suları  tazminat isteme hakkı olmaksızın kabul etmek zorundadır .  Alt taraftaki arazi maliki boşaltma dolayısıyla akan sularda n zarar görmekte ise, gideri  üstteki arazi malikine ait olmak üzere, kendi araz… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

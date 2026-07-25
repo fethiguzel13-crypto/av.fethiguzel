@@ -13,13 +13,12 @@ wordCount: 4258
 
 ---
 
-Madde 72 - (1)   Aksine   kanuni   hükümler   ve   Türkiye   Muhasebe   Standartları   saklı  kalmak   kaydıyla,   finansal   tabloların,   ticari   işletmenin   tüm   varlıklarını,   borçlarını,   peşin  ödenen   giderler   ile   peşin   tahsil   edil en   gelirleri,   teknik   terimle   dönem   ayırıcı   hesapları,   bütün  gelir   ve   giderleri   doğru   şekilde   değerlendirilmiş   olarak   göstermesi   zorunludur.   Mülkiyeti   saklı  tutulması   kaydıyla   iktisap   edilen   ve   işletmenin   kendisinin   veya   üçüncü   kişilerin   borçları   için  rehno lunan   ya   da   başka   bir   şekilde   teminata   verilen   malvarlığı   unsurları,   teminat   verenin  bilançosunda   gösterilir.   Nakdî   tevdilerin   söz   konusu   olduğu   hâllerde,   bunlar   teminat   alanın  bilançosunda   yer   alır.   Finansal   kiralamaya   ilişkin   hükümler   saklıdır.
-(2)   Akti f   kalemler   pasif   kalemlerle,   giderler   gelirlerle,   taşınmazlara   ilişkin   haklar,  bunlarla   ilgili   yüklerle   mahsup   edilemez.
+Madde 72 - (1) Aksine kanuni hükümler ve Türkiye Muhasebe Standartları saklı kalmak kaydıyla, finansal tabloların, ticari işletmenin tüm varlıklarını, borçlarını, peşin ödenen giderler ile peşin tahsil edil en gelirleri, teknik terimle dönem ayırıcı hesapları, bütün gelir ve giderleri doğru şekilde değerlendirilmiş olarak göstermesi zorunludur. Mülkiyeti saklı tutulması kaydıyla iktisap edilen ve işletmenin kendisinin veya üçüncü kişilerin borçları için rehno lunan ya da başka bir şekilde teminata verilen malvarlığı unsurları, teminat verenin bilançosunda gösterilir. Nakdî tevdilerin söz konusu olduğu hâllerde, bunlar teminat alanın bilançosunda yer alır. Finansal kiralamaya ilişkin hükümler saklıdır.
+(2) Akti f kalemler pasif kalemlerle, giderler gelirlerle, taşınmazlara ilişkin haklar, bunlarla ilgili yüklerle mahsup edilemez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 72**, «Madde 72» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

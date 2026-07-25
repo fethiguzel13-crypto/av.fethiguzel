@@ -12,12 +12,11 @@ wordCount: 4310
 
 ---
 
-Madde 946 - Alacaklı,   ödenmeyen   alacağının   rehnin   p araya   çevrilmesi   yoluyla  ödenmesini isteyebilir.  Rehin hakkı,   alacaklıya asıl alacak ile birlikte sözleşme faizlerinin, takip giderlerinin ve  gecikme f aizinin güvencesini sağlar.
+Madde 946 - Alacaklı, ödenmeyen alacağının rehnin p araya çevrilmesi yoluyla ödenmesini isteyebilir. Rehin hakkı, alacaklıya asıl alacak ile birlikte sözleşme faizlerinin, takip giderlerinin ve gecikme f aizinin güvencesini sağlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 946**, «Madde 946» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III. Rehnin hükümleri

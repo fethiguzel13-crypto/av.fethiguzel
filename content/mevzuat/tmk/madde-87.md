@@ -12,12 +12,11 @@ I. Kendiliğinden**
 
 ---
 
-Madde 87 - Dernekler, aşağıdaki hâllerde kendili ğinden sona erer:  1. Amacın gerçekleşmesi, gerçekleşmesinin olanaksız hâle gelmesi veya sürenin   sona   ermesi,  2. İlk genel kurul toplantısının kanunda öngörülen sürede yapılmamış ve zorunlu organların  oluşturulmamış olması,  3. Borç ödemede acze düşmüş olma sı,  4. Tüzük gereğince yönetim kurulunun oluşturulmasının olanaksız hâle gelmesi,  5. Olağan ge nel k urul toplantısının iki defa üst üste yapılamaması.  Her ilgili, sulh hâkiminden, derneğin kendiliğinden sonra erdiğinin tespitini isteyebilir.
+Madde 87 - Dernekler, aşağıdaki hâllerde kendili ğinden sona erer: 1. Amacın gerçekleşmesi, gerçekleşmesinin olanaksız hâle gelmesi veya sürenin sona ermesi, 2. İlk genel kurul toplantısının kanunda öngörülen sürede yapılmamış ve zorunlu organların oluşturulmamış olması, 3. Borç ödemede acze düşmüş olma sı, 4. Tüzük gereğince yönetim kurulunun oluşturulmasının olanaksız hâle gelmesi, 5. Olağan ge nel k urul toplantısının iki defa üst üste yapılamaması. Her ilgili, sulh hâkiminden, derneğin kendiliğinden sonra erdiğinin tespitini isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 87**, «Madde 87» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **D. Sona erme

@@ -12,14 +12,13 @@ wordCount: 4258
 
 ---
 
-Madde 396 - (1)   Yönetim   kurulu   üyelerinden   biri,   genel   kurulun   iznini   almaksızın,  şirketin   işletme   konusuna   giren   ticari   iş   türünden   bir   işlemi   kendi   veya   başkası   hesabına  yapamayacağı   gibi,   aynı   tür   ticari   işlerle   uğr aşan   bir   şirkete   sorumluluğu   sınırsız   ortak  sıfatıyla   da   giremez.   Bu   hükme   aykırı   harekette   bulunan   yönetim   kurulu   üyelerinden   şirket
-tazminat   istemekte   veya   tazminat   yerine   yapılan   işlemi   şirket   adına   yapılmış   saymakta   ve  üçüncü   kişiler   hesabına   yapılan   s özleşmelerden   doğan   menfaatlerin   şirkete   ait   olduğunu   dava  etmekte   serbesttir.  (2)   Bu   haklardan   birinin   seçilmesi   birinci   fıkra   hükmüne   aykırı   harekette   bulunan  üyenin   dışındaki   üyelere   aittir.  (3)   Bu   haklar,   söz   konusu   ticari   işlemlerin   yapıldığını   veya   yönetim   kurulu   üyesinin  diğer   bir   şirkete   girdiğini,   diğer   üyelerin   öğrendikleri   tarihten   itibaren   üç   ay   ve   her   hâlde  bunların   gerçekleşmesinden   itibaren   bir   yıl   geçince   zamanaşımına   uğrar.  (4)   Yönetim   kurulu   üyelerinin   sorumluluklarıyla   ilgili   hükümler   saklıdır.
-ÜÇÜNCÜ   BÖLÜM  Denetleme  A)   Genel   olarak
+Madde 396 - (1) Yönetim kurulu üyelerinden biri, genel kurulun iznini almaksızın, şirketin işletme konusuna giren ticari iş türünden bir işlemi kendi veya başkası hesabına yapamayacağı gibi, aynı tür ticari işlerle uğr aşan bir şirkete sorumluluğu sınırsız ortak sıfatıyla da giremez. Bu hükme aykırı harekette bulunan yönetim kurulu üyelerinden şirket
+tazminat istemekte veya tazminat yerine yapılan işlemi şirket adına yapılmış saymakta ve üçüncü kişiler hesabına yapılan s özleşmelerden doğan menfaatlerin şirkete ait olduğunu dava etmekte serbesttir. (2) Bu haklardan birinin seçilmesi birinci fıkra hükmüne aykırı harekette bulunan üyenin dışındaki üyelere aittir. (3) Bu haklar, söz konusu ticari işlemlerin yapıldığını veya yönetim kurulu üyesinin diğer bir şirkete girdiğini, diğer üyelerin öğrendikleri tarihten itibaren üç ay ve her hâlde bunların gerçekleşmesinden itibaren bir yıl geçince zamanaşımına uğrar. (4) Yönetim kurulu üyelerinin sorumluluklarıyla ilgili hükümler saklıdır.
+ÜÇÜNCÜ BÖLÜM Denetleme A) Genel olarak
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 396**, «Madde 396» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VII

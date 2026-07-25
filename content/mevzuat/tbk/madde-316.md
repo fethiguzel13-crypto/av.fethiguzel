@@ -11,24 +11,23 @@ wordCount: 4319
 
 ---
 
-Madde 316 - Kiracı,  kiralananı,  sözleşmeye  uygun  olarak  özenle  kullanmak  ve
+Madde 316 - Kiracı, kiralananı, sözleşmeye uygun olarak özenle kullanmak ve
 kiralananın bulunduğu taşınmazda oturan kişiler ile komşulara gerekli saygıyı göstermekle
 yükümlüdür.
-Kiracının bu  yükümlülüğüne aykırı davranması durumunda kiraya veren, konut ve
-çatılı  işyeri  kirasında,  en  az  otuz  gün  süre  vererek,  aykırılığın  giderilmesi,  aksi  takdirde
-sözleşmeyi  feshedeceği  konusunda  yazılı  bir  ihtarda  bulunur.  Diğer  kira  ilişkilerinde  ise,
+Kiracının bu yükümlülüğüne aykırı davranması durumunda kiraya veren, konut ve
+çatılı işyeri kirasında, en az otuz gün süre vererek, aykırılığın giderilmesi, aksi takdirde
+sözleşmeyi feshedeceği konusunda yazılı bir ihtarda bulunur. Diğer kira ilişkilerinde ise,
 kiraya veren, kiracıya önceden bir ihtarda bulunmaksızın, yazılı bir bildirimle sözleşmeyi
 hemen feshedebilir.
 Konut ve çatılı işyeri kirasında, kiracının kiralanana kasten ağır bir zarar vermesi,
-kiracıya  verilecek sürenin  yararsız  olacağının  anlaşılması  veya  kiracının  bu  yükümlülüğe
+kiracıya verilecek sürenin yararsız olacağının anlaşılması veya kiracının bu yükümlülüğe
 aykırı davranışının kiraya veren veya aynı taşınmazda oturan kişiler ile komşular bakımından
-çekilmez  olması  durumlarında  kiraya  veren,  yazılı  bir  bildirimle  sözleşmeyi  hemen
+çekilmez olması durumlarında kiraya veren, yazılı bir bildirimle sözleşmeyi hemen
 feshedebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 316**, «II. Özenle kullanma ve komşulara saygı gösterme borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 316 - Kiracı,  kiralananı,  sözleşmeye  uygun  olarak  özenle  kullanmak  ve

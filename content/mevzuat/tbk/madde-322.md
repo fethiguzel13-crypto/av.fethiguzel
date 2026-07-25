@@ -11,10 +11,10 @@ wordCount: 4262
 
 ---
 
-Madde 322 - Kiracı,  kiraya  verene  zarar  verecek bir  değişikliğe  yol  açmamak
-koşuluyla,  kiralananı  tamamen  veya  kısmen  başkasına  kiraya  verebileceği  gibi,  kullanım
+Madde 322 - Kiracı, kiraya verene zarar verecek bir değişikliğe yol açmamak
+koşuluyla, kiralananı tamamen veya kısmen başkasına kiraya verebileceği gibi, kullanım
 hakkını da başkasına devredebilir.
-Kiracı,  konut  ve  çatılı  işyeri  kiralarında,  kiraya  verenin  yazılı  rızası  olmadıkça,
+Kiracı, konut ve çatılı işyeri kiralarında, kiraya verenin yazılı rızası olmadıkça,
 kiralananı başkasına kiralayamayacağı gibi, kullanım hakkını da devredemez.
 Alt kiracı, kiralananı kiracıya tanınandan başka biçimde kullandığı takdirde kiracı,
 kiraya verene karşı sorumlu olur. Bu durumda kiraya veren, kiracısına karşı sahip olduğu
@@ -27,7 +27,6 @@ III. Kira ilişkisinin devri
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 322**, «II. Alt kira ve kullanım hakkının devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 322 - Kiracı,  kiraya  verene  zarar  verecek bir  değişikliğe  yol  açmamak

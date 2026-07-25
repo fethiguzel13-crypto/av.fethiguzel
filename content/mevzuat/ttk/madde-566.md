@@ -14,12 +14,11 @@ I
 
 ---
 
-Madde 566 - (1)   Esas   sözleşme   yazılı   şekilde   düzenlenir,   kurucularla   komandite  ortakların   tümü   tarafından   imzalanır;   imzaların   noterce   onaylanması   veya   esas   sözleşmenin  ticaret   sicili   müdürü   yahut   yardımcısı   huzurunda   imzalanması   ge rekir.   (Ek   cümle:   15/7/2016 -  6728/67   md.)   Şirketin   kuruluşunda,   esas   sözleşmeyi   ihtiva   eden   kâğıtlardan   değerli   kâğıt  bedeli   alınmaz. 80  (2)   İzin   alınmasına   ilişkin   333   üncü   madde   uygulanmaz.
+Madde 566 - (1) Esas sözleşme yazılı şekilde düzenlenir, kurucularla komandite ortakların tümü tarafından imzalanır; imzaların noterce onaylanması veya esas sözleşmenin ticaret sicili müdürü yahut yardımcısı huzurunda imzalanması ge rekir. (Ek cümle: 15/7/2016 - 6728/67 md.) Şirketin kuruluşunda, esas sözleşmeyi ihtiva eden kâğıtlardan değerli kâğıt bedeli alınmaz. 80 (2) İzin alınmasına ilişkin 333 üncü madde uygulanmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 566**, «Madde 566» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C) Kuruluş

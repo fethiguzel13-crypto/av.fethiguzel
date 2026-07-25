@@ -15,20 +15,19 @@ c. Belirlenmesi**
 
 ---
 
-Madde 55 - Destekten  yoksun  kalma  zararları  ile  bedensel  zararlar,  bu  Kanun
+Madde 55 - Destekten yoksun kalma zararları ile bedensel zararlar, bu Kanun
 hükümlerine ve sorumluluk hukuku ilkelerine göre hesaplanır. Kısmen veya tamamen rücu
 edilemeyen sosyal güvenlik ödemeleri ile ifa amacını taşımayan ödemeler, bu tür zararların
-belirlenmesinde  gözetilemez;  zarar  veya  tazminattan  indirilemez.  Hesaplanan  tazminat,
+belirlenmesinde gözetilemez; zarar veya tazminattan indirilemez. Hesaplanan tazminat,
 miktar esas alınarak hakkaniyet düşüncesi ile artırılamaz veya azaltılamaz.
 
 Bu Kanun hükümleri, her türlü idari eylem ve işlemler ile idarenin sorumlu olduğu
-diğer sebeplerin  yol açtığı vücut bütünlüğünün kısmen veya tamamen yitirilmesine  ya da
+diğer sebeplerin yol açtığı vücut bütünlüğünün kısmen veya tamamen yitirilmesine ya da
 kişinin ölümüne bağlı zararlara ilişkin istem ve davalarda da uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 55**, «Madde 55» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **1. Tedavi giderleri.

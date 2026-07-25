@@ -14,13 +14,12 @@ b) Haklı sebeplerle fesih**
 
 ---
 
-Madde 531 - (1)   Haklı   sebeplerin   varlığında,   sermayenin   en   az   onda   birini   ve   halka  açık   şirketlerde   yirmide   birini   temsil   eden   payların   sahipleri,   şirketin   merkezinin   bulunduğu  yerdeki   asliye   ticaret   m ahkemesinden   şirketin   feshine   karar   verilmesini   isteyebilirler.   Mahkeme,
-fesih   yerine,   davacı   pay   sahiplerine,   paylarının   karar   tarihine   en   yakın   tarihteki   gerçek  değerlerinin   ödenip   davacı   pay   sahiplerinin   şirketten   çıkarılmalarına   veya   duruma   uygun   düşen  ve   kabul   edilebilir   diğer   bir   çözüme   karar   verebilir.
+Madde 531 - (1) Haklı sebeplerin varlığında, sermayenin en az onda birini ve halka açık şirketlerde yirmide birini temsil eden payların sahipleri, şirketin merkezinin bulunduğu yerdeki asliye ticaret m ahkemesinden şirketin feshine karar verilmesini isteyebilirler. Mahkeme,
+fesih yerine, davacı pay sahiplerine, paylarının karar tarihine en yakın tarihteki gerçek değerlerinin ödenip davacı pay sahiplerinin şirketten çıkarılmalarına veya duruma uygun düşen ve kabul edilebilir diğer bir çözüme karar verebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 531**, «Madde 531» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Özel hâller

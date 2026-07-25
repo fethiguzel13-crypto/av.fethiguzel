@@ -13,20 +13,19 @@ wordCount: 4320
 
 Madde 593 - Borçlunun iflası sebebiyle olsa bile, borç muaccel olduğu takdirde
 kefil, alacaklıdan yapacağı ödemeyi kabul etmesini her zaman isteyebilir. Bir borca birden
-çok  kişinin  kefil  olması  durumunda  alacaklı,  kefillerden  biri  tarafından  yapılacak  kısmi
+çok kişinin kefil olması durumunda alacaklı, kefillerden biri tarafından yapılacak kısmi
 ödemeyi, bunu öneren kefile düşen paydan az olmamak koşuluyla, kabul etmek zorundadır.
 
-Alacaklı  haklı  bir  sebep  olmaksızın  ödemeyi  kabul  etmekten  kaçınırsa,  kefil
+Alacaklı haklı bir sebep olmaksızın ödemeyi kabul etmekten kaçınırsa, kefil
 borcundan kurtulur; birlikte müteselsil kefalette ise, kefillerin sorumluluğu kendilerine düşen
 pay miktarınca azalır.
-Alacaklının  rızası  varsa  kefil,  asıl  borcu  muaccel  olmasından  önce  de  ödeyebilir.
+Alacaklının rızası varsa kefil, asıl borcu muaccel olmasından önce de ödeyebilir.
 Ancak, bu durumda kefil, asıl borçluya karşı rücu hakkını borcun muaccel olmasından önce
 kullanamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 593**, «e. Ödemenin kabulünü isteme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 593 - Borçlunun iflası sebebiyle olsa bile, borç muaccel olduğu takdirde

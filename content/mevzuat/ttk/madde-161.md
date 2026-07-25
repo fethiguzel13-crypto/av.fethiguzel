@@ -11,12 +11,11 @@ wordCount: 4310
 
 ---
 
-Madde 161 - (1)   Tam   ve   kısmi   bölünmede   şirket   payları   ve   hakları   140   ıncı   madde  uyarınca   korunur.  (2)   Devreden   şirketin   ortaklarına;  a)   Bölünmeye   katılan   tüm   şirketle rde,   mevcut   payları   oranında   şirket   payları   veya  b)   Bölünmeye   katılan   bazı   veya   tüm   şirketlerde,   mevcut   paylarının   oranına   göre  değişik   oranda   şirket   payları,  tahsis   edilebilir.   (a)   bendindeki   bölünme   “oranların   korunduğu”,   (b)   bendindeki   bölünme  ise   “oran ların   korunmadığı   bölünme”dir.
+Madde 161 - (1) Tam ve kısmi bölünmede şirket payları ve hakları 140 ıncı madde uyarınca korunur. (2) Devreden şirketin ortaklarına; a) Bölünmeye katılan tüm şirketle rde, mevcut payları oranında şirket payları veya b) Bölünmeye katılan bazı veya tüm şirketlerde, mevcut paylarının oranına göre değişik oranda şirket payları, tahsis edilebilir. (a) bendindeki bölünme “oranların korunduğu”, (b) bendindeki bölünme ise “oran ların korunmadığı bölünme”dir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 161**, «c) Şirket paylarının ve haklarının korunması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 161 - (1)   Tam   ve   kısmi   bölünmede   şirket   payları   ve   hakları   140   ıncı   madde  uyarınca   korunur.  (2)   Devreden   şirketin   ortaklarına;  a)   Bölünmeye   katılan   tüm   şirketle rde,   mevcut   payları   oranında   şirket   payları   veya  b)   Bölünmeye   katılan   bazı   veya   tüm   şirketlerde,   mevcut   paylarının   oranına   göre  değişik   oranda   şirket   pa… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

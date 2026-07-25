@@ -14,12 +14,11 @@ b. Bakım ve işletme giderleri**
 
 ---
 
-Madde 813 - İntifa   hakkı   konusu   olan   mal ın   olağan   bakım   ve   işletme   giderleri,  güvencesini   oluşturduğu   borçların   faizleri, vergi   ve resimleri,   intifa süresince intifa hakkı  sahibine aittir.  Ver gi ve resimleri malik ödemişse, intifa hakkı sahibi, yukarıda belirtilen esasa göre  bunları malike tazmi n etmek zorundadır.  Diğer bütün yükümlülükler malike aittir.   Ancak, intifa hakkı sahibi bunların yerine  getirilmesi için gereken parayı, istemi üzerine   malike karşılıksız olarak sağlamazsa; malik, intifa  hakkı konusu malı bu yükümlülüklerin yerine getiril mesi için kısmen veya tamamen paraya  çevirebilir.
+Madde 813 - İntifa hakkı konusu olan mal ın olağan bakım ve işletme giderleri, güvencesini oluşturduğu borçların faizleri, vergi ve resimleri, intifa süresince intifa hakkı sahibine aittir. Ver gi ve resimleri malik ödemişse, intifa hakkı sahibi, yukarıda belirtilen esasa göre bunları malike tazmi n etmek zorundadır. Diğer bütün yükümlülükler malike aittir. Ancak, intifa hakkı sahibi bunların yerine getirilmesi için gereken parayı, istemi üzerine malike karşılıksız olarak sağlamazsa; malik, intifa hakkı konusu malı bu yükümlülüklerin yerine getiril mesi için kısmen veya tamamen paraya çevirebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 813**, «Madde 813» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **4. İntifa hakkı sahibinin yükümlülükleri

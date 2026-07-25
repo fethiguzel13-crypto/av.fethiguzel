@@ -18,12 +18,11 @@ I. Dürüst davranma**
 
 ---
 
-Madde 2 - Herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına  uymak zorundadır.  B ir ha kkın açıkça kötüye kullanılmasını hukuk düzeni korumaz.
+Madde 2 - Herkes, haklarını kullanırken ve borçlarını yerine getirirken dürüstlük kurallarına uymak zorundadır. B ir ha kkın açıkça kötüye kullanılmasını hukuk düzeni korumaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Medeni Kanunu'nun (TMK) 2. maddesi, **özel hukukun en temel etik-hukuki normu** ve tüm hukuki ilişkileri kapsayan **emredici bir genel hükümdür**. Madde, kanunun Başlangıç Hükümleri kısmında, m. 1'in yorum metodolojisinin hemen ardından yer alarak, hakları kullanma ve borçları ifa etme süreçlerinin **dürüstlük** ekseninde işlemesi gerektiğini emreder.

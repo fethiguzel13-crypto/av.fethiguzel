@@ -12,12 +12,11 @@ wordCount: 4270
 
 ---
 
-Madde 925 - Rehin senedi irade dışında elden çıkmış veya borcu sona erdirme ka stı  olmaksızın yok edilmiş ise alacaklı, rehin senedini ve kuponu mahkeme kararıyla iptal ettirerek  borç ludan borcunu ödemesini ve eğer alacak henüz muaccel değilse y eni bir rehin senedi veya  kupon düzenlenmesini isteyebilir.  İptal kararı, hamile yazılı kı ymetli evrakın iptaline ilişkin hükümler gereğince verilir;  ancak, ibraz süresi bir yıldır.  Borçlu da ö denmiş olmasına rağmen geri verilmemiş olan senet için aynı hü kümler  uyarınca senedin iptalini isteyebilir.
+Madde 925 - Rehin senedi irade dışında elden çıkmış veya borcu sona erdirme ka stı olmaksızın yok edilmiş ise alacaklı, rehin senedini ve kuponu mahkeme kararıyla iptal ettirerek borç ludan borcunu ödemesini ve eğer alacak henüz muaccel değilse y eni bir rehin senedi veya kupon düzenlenmesini isteyebilir. İptal kararı, hamile yazılı kı ymetli evrakın iptaline ilişkin hükümler gereğince verilir; ancak, ibraz süresi bir yıldır. Borçlu da ö denmiş olmasına rağmen geri verilmemiş olan senet için aynı hü kümler uyarınca senedin iptalini isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 925**, «Madde 925» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV. İptal

@@ -13,13 +13,12 @@ wordCount: 4317
 
 ---
 
-Madde 540 - (1)   Tasfiye   memurları   görevlerine   başlar   başlamaz,   şirketin   tasfiyenin  başlangıcındaki   durumunu   incelerler;   gerekirse   şirket   mallarına   değer   biçmek   için   uzmanlara  başvurarak,   şirketin   malvarlığına   ilişkin   durumu   ile   finansal   durumunu   gösteren   bir   envanter  ile   bilanço   düzenler   ve   genel   kurulun   onayına   sunarlar.
-(2)   Envanter   ve   bilançonun   onaylanmasından   sonra,   tasfiye   memurları   şirketin  envanterde   yazılı   bütün   malları   ile   belgelerine   v e   defterlerine   el   koyarlar.
+Madde 540 - (1) Tasfiye memurları görevlerine başlar başlamaz, şirketin tasfiyenin başlangıcındaki durumunu incelerler; gerekirse şirket mallarına değer biçmek için uzmanlara başvurarak, şirketin malvarlığına ilişkin durumu ile finansal durumunu gösteren bir envanter ile bilanço düzenler ve genel kurulun onayına sunarlar.
+(2) Envanter ve bilançonun onaylanmasından sonra, tasfiye memurları şirketin envanterde yazılı bütün malları ile belgelerine v e defterlerine el koyarlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 540**, «Madde 540» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

@@ -17,12 +17,11 @@ b. Koruma amacıyla özgür lüğün kısıtl anması**
 
 ---
 
-Madde 446 - Küçüklerin koruma amacıyla bir kuruma yerleştirilmesine vasinin başvurusu  üzerine vesayet makamı veya gecikmesinde sakınca bulunan hâllerde bizzat   vasi ka rar verir ve  durumu derhâl   vesayet makamına bildirir.  Bunun dışı nda us ul v e yetkiyle ilgili konularda kısıtlı olsun veya olmasın erginlerin  korunması amacıyla özgürlüklerinin   kısıtlanmasına ilişkin hükümler uygulanır.  Onaltı yaşını doldurmamış çocuk bu ko nuda mahkemeye bizzat başvu ramaz.
+Madde 446 - Küçüklerin koruma amacıyla bir kuruma yerleştirilmesine vasinin başvurusu üzerine vesayet makamı veya gecikmesinde sakınca bulunan hâllerde bizzat vasi ka rar verir ve durumu derhâl vesayet makamına bildirir. Bunun dışı nda us ul v e yetkiyle ilgili konularda kısıtlı olsun veya olmasın erginlerin korunması amacıyla özgürlüklerinin kısıtlanmasına ilişkin hükümler uygulanır. Onaltı yaşını doldurmamış çocuk bu ko nuda mahkemeye bizzat başvu ramaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 446**, «Madde 446» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B. Ö zen ve temsil

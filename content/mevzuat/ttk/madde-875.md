@@ -13,12 +13,11 @@ I
 
 ---
 
-Madde 875 - (1)   Taşıyıcı,   eşyanın   taşınmak   üzere   teslim   alınmasından   teslim  edilmesine   kadar   geçecek   süre   içinde,   eşyanın   zıyaından,   hasarından   veya   tesl imindeki  gecikmeden   doğan   zararlardan   sorumludur.  (2)   Zararın   oluşmasına,   gönderenin   veya   gönderilenin   bir   davranışı   ya   da   eşyanın   özel  bir   ayıbı   sebep   olmuşsa,   tazminat   borcunun   doğmasında   ve   kapsamının   belirlenmesinde,   bu  olguların   ne   ölçüde   etkili   olduğ u   dikkate   alınır.  (3)   Gecikme   hâlinde   herhangi   bir   zarar   oluşmasa   da   taşıma   ücreti   gecikme   süresi   ile  orantılı   olarak   indirilir;   meğerki,   taşıyıcı   her   türlü   özeni   gösterdiğini   ispat   etmiş   olsun.
+Madde 875 - (1) Taşıyıcı, eşyanın taşınmak üzere teslim alınmasından teslim edilmesine kadar geçecek süre içinde, eşyanın zıyaından, hasarından veya tesl imindeki gecikmeden doğan zararlardan sorumludur. (2) Zararın oluşmasına, gönderenin veya gönderilenin bir davranışı ya da eşyanın özel bir ayıbı sebep olmuşsa, tazminat borcunun doğmasında ve kapsamının belirlenmesinde, bu olguların ne ölçüde etkili olduğ u dikkate alınır. (3) Gecikme hâlinde herhangi bir zarar oluşmasa da taşıma ücreti gecikme süresi ile orantılı olarak indirilir; meğerki, taşıyıcı her türlü özeni gösterdiğini ispat etmiş olsun.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 875**, «Madde 875» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Taşıyıcının sorumluluğu

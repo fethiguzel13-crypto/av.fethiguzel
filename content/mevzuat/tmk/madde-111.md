@@ -11,12 +11,11 @@ wordCount: 4262
 
 ---
 
-Madde 111 - Vakıfların, vakıf senedindeki hükümleri yerine getirip getirmedikleri, vakıf  mallarını amaca uygun biçimde yönetip yönetmedikleri ve vakı f gelirlerini amaca uygun olarak  harcayıp harcamadıkları Vakıflar Genel Müdürlüğünce ve üst kur uluşl arınc a denetlenir. Vakıfların  üst kuruluşlarınca denetimi özel kanun hükümlerine tabidir.  (Mülga ikinci fıkra: 20/2/2008 - 5737/80 md.)  F. Yönetimin, amacın   ve malların değiştiri lmesi  I. Yönetimin değiştirilmesi
+Madde 111 - Vakıfların, vakıf senedindeki hükümleri yerine getirip getirmedikleri, vakıf mallarını amaca uygun biçimde yönetip yönetmedikleri ve vakı f gelirlerini amaca uygun olarak harcayıp harcamadıkları Vakıflar Genel Müdürlüğünce ve üst kur uluşl arınc a denetlenir. Vakıfların üst kuruluşlarınca denetimi özel kanun hükümlerine tabidir. (Mülga ikinci fıkra: 20/2/2008 - 5737/80 md.) F. Yönetimin, amacın ve malların değiştiri lmesi I. Yönetimin değiştirilmesi
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 111**, «E. Denetim» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 111 - Vakıfların, vakıf senedindeki hükümleri yerine getirip getirmedikleri, vakıf  mallarını amaca uygun biçimde yönetip yönetmedikleri ve vakı f gelirlerini amaca uygun olarak  harcayıp harcamadıkları Vakıflar Genel Müdürlüğünce ve üst kur uluşl arınc a denetlenir. Vakıfların  üst kuruluşlarınca denetimi özel kanun hükümlerine tabidir.  (Mülga ikinci fıkra: 20/2/2008 - 5737/80 md.)  F. Yön… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

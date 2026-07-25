@@ -13,16 +13,15 @@ I. Amacı belirlenmiş kullanmada**
 ---
 
 Madde 383 - Kullanma için belirli bir süre öngörülmemişse, ödünç alanın, ödünç
-konusunu  sözleşme  uyarınca  kullanmış  olmasıyla veya  kullanabilecek  kadar  bir  zaman
+konusunu sözleşme uyarınca kullanmış olmasıyla veya kullanabilecek kadar bir zaman
 geçmesiyle sözleşme sona erer.
-Ödünç  alan,  ödünç  konusunu  sözleşmeye  aykırı  olarak  kullanır,  onu  bozar  veya
+Ödünç alan, ödünç konusunu sözleşmeye aykırı olarak kullanır, onu bozar veya
 kullanmak için başka bir kimseye verirse ya da önceden bilinmeyen bir durum yüzünden
 ödünç verenin ivedi gereksinimi ortaya çıkarsa, ödünç veren o şeyi daha önce geri isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 383**, «Madde 383» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Sona ermesi

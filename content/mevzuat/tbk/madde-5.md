@@ -21,13 +21,12 @@ Madde 5 - Kabul için süre belirlenmeksizin hazır olmayan bir kişiye yapılan
 zamanında ve usulüne uygun olarak gönderilmiş bir yanıtın ulaşmasının beklenebileceği ana
 kadar, önereni bağlar.
 Öneren, önerisini zamanında ulaşmış sayabilir.
-Zamanında  gönderilen  kabul,  önerene  geç  ulaşır  ve  öneren  onunla  bağlı  olmak
+Zamanında gönderilen kabul, önerene geç ulaşır ve öneren onunla bağlı olmak
 istemezse, durumu hemen kabul edene bildirmek zorundadır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu'nun (TBK) 5. maddesi, kanunun **Birinci Kısım — Genel Hükümler / Birinci Bölüm — Borç İlişkisinin Kaynakları / Birinci Ayrım — Sözleşmeden Doğan Borç İlişkileri** sistematiğinde, m. 4'ün (hazır olanlar arasında öneri) **simetrik karşıtı** olarak **hazır olmayanlar arasında yapılan süresiz öneri** rejimini düzenler. Madde, taraflar arasında doğrudan iletişimin bulunmadığı durumlarda (mektup, e-mail, faks vb.) öneren ile kabul eden arasındaki bekleme süresini ve geç gelen kabulün hukuki sonuçlarını üç fıkrada ortaya koyar.

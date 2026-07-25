@@ -11,12 +11,11 @@ wordCount: 4261
 
 ---
 
-Madde 219 - Edinilmiş mal, h er eş in bu   mal rejiminin devamı süresince karşılığını vererek  elde ettiği malvarlığı değerleridir.  Bir eşin edin ilmiş malları   özellikle şunlardır:  1. Çalışmasının karşılığı olan edinimler,  2. Sosyal güvenlik veya sosyal yardım kurum ve kuruluşlarının vey a per sonele yardım  amacı ile kurulan sandık ve benzerlerinin yaptığı ödemeler,  3. Çalışma gücünün kaybı nedeniyle   ödenen tazminatlar,  4. Kişisel mallarının gelirleri,  5. Edinilmiş malların yerine geçen değerler.
+Madde 219 - Edinilmiş mal, h er eş in bu mal rejiminin devamı süresince karşılığını vererek elde ettiği malvarlığı değerleridir. Bir eşin edin ilmiş malları özellikle şunlardır: 1. Çalışmasının karşılığı olan edinimler, 2. Sosyal güvenlik veya sosyal yardım kurum ve kuruluşlarının vey a per sonele yardım amacı ile kurulan sandık ve benzerlerinin yaptığı ödemeler, 3. Çalışma gücünün kaybı nedeniyle ödenen tazminatlar, 4. Kişisel mallarının gelirleri, 5. Edinilmiş malların yerine geçen değerler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 219**, «II. Edinilmiş mallar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 219 - Edinilmiş mal, h er eş in bu   mal rejiminin devamı süresince karşılığını vererek  elde ettiği malvarlığı değerleridir.  Bir eşin edin ilmiş malları   özellikle şunlardır:  1. Çalışmasının karşılığı olan edinimler,  2. Sosyal güvenlik veya sosyal yardım kurum ve kuruluşlarının vey a per sonele yardım  amacı ile kurulan sandık ve benzerlerinin yaptığı ödemeler,  3. Çalışma gücünün kaybı… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

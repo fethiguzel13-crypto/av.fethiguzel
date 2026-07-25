@@ -11,12 +11,11 @@ wordCount: 4296
 
 ---
 
-Madde 1170 - (1)   Sözleşmede   kararla ştırılmışsa   taşıyan,   boşaltma   süresinden   fazla  beklemek   zorundadır.   Fazladan   beklenilen   bu   süreye   “sürastarya   süresi”   denir.  (2)   Sözleşmede   sürastaryadan   veya   sadece   sürastarya   parasından   söz   edilmiş   olup   da  sürastarya   süresi   belirtilmemişse,   bu   süre   on   gü ndür.  (3)   Sürastarya   süresi,   boşaltma   süresi   bitince   herhangi   bir   bildirime   gerek   kalmaksızın  işlemeye   başlar.
+Madde 1170 - (1) Sözleşmede kararla ştırılmışsa taşıyan, boşaltma süresinden fazla beklemek zorundadır. Fazladan beklenilen bu süreye “sürastarya süresi” denir. (2) Sözleşmede sürastaryadan veya sadece sürastarya parasından söz edilmiş olup da sürastarya süresi belirtilmemişse, bu süre on gü ndür. (3) Sürastarya süresi, boşaltma süresi bitince herhangi bir bildirime gerek kalmaksızın işlemeye başlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1170**, «3. Sürastarya süresi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1170 - (1)   Sözleşmede   kararla ştırılmışsa   taşıyan,   boşaltma   süresinden   fazla  beklemek   zorundadır.   Fazladan   beklenilen   bu   süreye   “sürastarya   süresi”   denir.  (2)   Sözleşmede   sürastaryadan   veya   sadece   sürastarya   parasından   söz   edilmiş   olup   da  sürastarya   süresi   belirtilmemişse,   bu   süre   on   gü ndür.  (3)   Sürastarya   süresi,   boşaltma… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

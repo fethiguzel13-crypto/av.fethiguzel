@@ -12,18 +12,17 @@ wordCount: 4262
 ---
 
 Madde 483 - Eser teslimden önce beklenmedik olay sonucu yok olursa işsahibi, eseri
-teslim  almada  temerrüde  düşmedikçe  yüklenici,  yaptığı  işin  ücretini  ve  giderlerinin
+teslim almada temerrüde düşmedikçe yüklenici, yaptığı işin ücretini ve giderlerinin
 ödenmesini isteyemez. Bu durumda malzemeye gelen hasar, onu sağlayana ait olur.
-Eserin  işsahibince  verilen  malzeme  veya  gösterilen  arsanın  ayıbı  veya  işsahibinin
+Eserin işsahibince verilen malzeme veya gösterilen arsanın ayıbı veya işsahibinin
 talimatına uygun yapılması yüzünden yok olması durumunda yüklenici, doğabilecek olumsuz
-sonuçları zamanında bildirmişse,  yaptığı işin değerini ve bu değere girmeyen giderlerinin
+sonuçları zamanında bildirmişse, yaptığı işin değerini ve bu değere girmeyen giderlerinin
 ödenmesini isteyebilir. İşsahibinin kusuru varsa, yüklenicinin ayrıca zararının giderilmesini
 de isteme hakkı vardır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 483**, «II. Eserin yok olması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 483 - Eser teslimden önce beklenmedik olay sonucu yok olursa işsahibi, eseri

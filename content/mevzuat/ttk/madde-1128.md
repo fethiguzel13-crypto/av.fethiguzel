@@ -12,13 +12,12 @@ wordCount: 4299
 
 ---
 
-Madde 1128 - (1)   Kira   bedeli,   sözleşmede   kararlaştırılan   zamanda,   bu   hususta
-anlaşma   yoksa   geminin   zilyetliğinin   sözleşme   şartları   çerçevesinde   kiracıya   devredildiği  günden   başlamak   üzere   aylık   olarak   ve   peşin   ödenir.  (2)   Kiraya   veren,   gemi   kira   sözleşmesinden   doğan   bütün   alacakları   için   kiracıya   ait   taşınır  ve   kıymetli   evrak   üzerinde   Türk   Medenî   Kanun unun   950   ilâ   953   üncü   maddeleri   uyarınca   hapis  hakkına,   kiracıya   ödenecek   navlun   ve   diğer   alacaklar   üzerinde   aynı   Kanunun   954   ilâ   961   inci  maddeleri   uyarınca   alacak   rehnine   ve   kiracıya   ödenecek   navlunu   teminat   altına   almak   üzere   1201  inci   maddeye   göre   tanı nan   hapis   hakkına   sahiptir;   şu   kadar   ki,   borçlular,   alacak   rehni   kendilerine  bildirilmediği   takdirde   kiracıya   yapacakları   ödemeyle   borçlarından   kurtulurlar.
+Madde 1128 - (1) Kira bedeli, sözleşmede kararlaştırılan zamanda, bu hususta
+anlaşma yoksa geminin zilyetliğinin sözleşme şartları çerçevesinde kiracıya devredildiği günden başlamak üzere aylık olarak ve peşin ödenir. (2) Kiraya veren, gemi kira sözleşmesinden doğan bütün alacakları için kiracıya ait taşınır ve kıymetli evrak üzerinde Türk Medenî Kanun unun 950 ilâ 953 üncü maddeleri uyarınca hapis hakkına, kiracıya ödenecek navlun ve diğer alacaklar üzerinde aynı Kanunun 954 ilâ 961 inci maddeleri uyarınca alacak rehnine ve kiracıya ödenecek navlunu teminat altına almak üzere 1201 inci maddeye göre tanı nan hapis hakkına sahiptir; şu kadar ki, borçlular, alacak rehni kendilerine bildirilmediği takdirde kiracıya yapacakları ödemeyle borçlarından kurtulurlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1128**, «Madde 1128» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VII

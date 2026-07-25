@@ -11,12 +11,11 @@ wordCount: 4313
 
 ---
 
-Madde 412 - Vesayet makamının izni olmadıkça vesayet altındaki kişi yerleşim yerin i  değiştiremez.  Yerleşim ye rinin değiş mesi hâlinde yetki, yeni ve sayet   dairelerine geçer. Bu takdirde  kısıtlama ye ni yerleşim yerinde ilân olunur.  DÖRDÜNCÜ AYIRIM  VASİNİN AT ANMASI  A. Koşulları  I. Genel olarak
+Madde 412 - Vesayet makamının izni olmadıkça vesayet altındaki kişi yerleşim yerin i değiştiremez. Yerleşim ye rinin değiş mesi hâlinde yetki, yeni ve sayet dairelerine geçer. Bu takdirde kısıtlama ye ni yerleşim yerinde ilân olunur. DÖRDÜNCÜ AYIRIM VASİNİN AT ANMASI A. Koşulları I. Genel olarak
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 412**, «B. Yerleşim yerinin değişmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 412 - Vesayet makamının izni olmadıkça vesayet altındaki kişi yerleşim yerin i  değiştiremez.  Yerleşim ye rinin değiş mesi hâlinde yetki, yeni ve sayet   dairelerine geçer. Bu takdirde  kısıtlama ye ni yerleşim yerinde ilân olunur.  DÖRDÜNCÜ AYIRIM  VASİNİN AT ANMASI  A. Koşulları  I. Genel olarak

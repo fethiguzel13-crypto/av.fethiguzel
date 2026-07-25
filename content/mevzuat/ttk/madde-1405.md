@@ -13,12 +13,11 @@ wordCount: 4296
 
 ---
 
-Madde 1405 - (1)   Sigortacı   ile   sigorta   sözleşmesi   yapmak   isteyen   kişinin,  sözleşmenin   yapılması   için   verdiği   teklifname,   teklifname   tarihinden   itibaren   otuz   gün   içinde  reddedilmemişse   sigort a   sözleşmesi   kurulmuş   sayılır.  (2)   Teklifnamenin   verilmesi   sırasında   yapılmış   ödemeler,   sözleşmenin   yapılmasından  sonra   prim   olarak   kabul   edilir   veya   ilk   prime   sayılır.   Bu   ödemeler,   sözleşme   yapılmadığı  takdirde,   kesinti   yapılmadan,   faiziyle   birlikte   geri   verilir.  (3)   1483   üncü   madde   hükmü   saklıdır.
+Madde 1405 - (1) Sigortacı ile sigorta sözleşmesi yapmak isteyen kişinin, sözleşmenin yapılması için verdiği teklifname, teklifname tarihinden itibaren otuz gün içinde reddedilmemişse sigort a sözleşmesi kurulmuş sayılır. (2) Teklifnamenin verilmesi sırasında yapılmış ödemeler, sözleşmenin yapılmasından sonra prim olarak kabul edilir veya ilk prime sayılır. Bu ödemeler, sözleşme yapılmadığı takdirde, kesinti yapılmadan, faiziyle birlikte geri verilir. (3) 1483 üncü madde hükmü saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1405**, «Madde 1405» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

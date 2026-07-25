@@ -11,12 +11,11 @@ wordCount: 4307
 
 ---
 
-Madde 1021 - (1)   Bir   alacak   için   birden   çok   gemi   veya   gemi   payı   ipotek   edilmişse,  bunlardan   her   biri   borcun   tamamından   sorumludur.  (2)   Alacaklı,   her   gemi   veya   pay   ancak   belirli   bir   kısımdan   sorumlu   olmak   üzere  alacağını   gemi   veya   paylar   arasında   paylaştırabilir.   Paylaştırma,   sicil   müdürlüğüne   yapılacak  beyan   ve   tescil   ile   gerçekleşir.   Birlikte   ipotek   üzerinde   hak   sahibi   kişiler   varsa   onların   da  onayı   gereklidir.
+Madde 1021 - (1) Bir alacak için birden çok gemi veya gemi payı ipotek edilmişse, bunlardan her biri borcun tamamından sorumludur. (2) Alacaklı, her gemi veya pay ancak belirli bir kısımdan sorumlu olmak üzere alacağını gemi veya paylar arasında paylaştırabilir. Paylaştırma, sicil müdürlüğüne yapılacak beyan ve tescil ile gerçekleşir. Birlikte ipotek üzerinde hak sahibi kişiler varsa onların da onayı gereklidir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1021**, «b) Birlikte gemi ipoteğinde birden çok gemi veya gemi payı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1021 - (1)   Bir   alacak   için   birden   çok   gemi   veya   gemi   payı   ipotek   edilmişse,  bunlardan   her   biri   borcun   tamamından   sorumludur.  (2)   Alacaklı,   her   gemi   veya   pay   ancak   belirli   bir   kısımdan   sorumlu   olmak   üzere  alacağını   gemi   veya   paylar   arasında   paylaştırabilir.   Paylaştırma,   sicil   müdürlüğüne   yapılacak  beyan   ve   tesci… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

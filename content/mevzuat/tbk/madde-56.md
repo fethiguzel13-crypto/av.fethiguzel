@@ -12,15 +12,14 @@ wordCount: 4260
 ---
 
 Madde 56 - Hâkim, bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda,
-olayın  özelliklerini  göz  önünde  tutarak,  zarar  görene  uygun  bir  miktar  paranın  manevi
+olayın özelliklerini göz önünde tutarak, zarar görene uygun bir miktar paranın manevi
 tazminat olarak ödenmesine karar verebilir.
-Ağır  bedensel  zarar  veya  ölüm  hâlinde, zarar  görenin  veya  ölenin  yakınlarına  da
+Ağır bedensel zarar veya ölüm hâlinde, zarar görenin veya ölenin yakınlarına da
 manevi tazminat olarak uygun bir miktar paranın ödenmesine karar verilebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 56**, «d. Manevi tazminat» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 56 - Hâkim, bir kimsenin bedensel bütünlüğünün zedelenmesi durumunda,

@@ -12,13 +12,12 @@ wordCount: 4258
 
 ---
 
-Madde 16 - (1)   Ticaret   şirketleriyle,   amacına   varmak   için   ticari   bir   işletme   işleten  vakıflar,   dernekler   ve   kendi   kuruluş   kanunları   gereğince   özel   hukuk   hükümlerine   göre  yönetilmek   veya   ticari   şekilde   işletilmek   üzere   Devlet,   il   özel   idaresi,   beled iye   ve   köy   ile
-diğer   kamu   tüzel   kişileri   tarafından   kurulan   kurum   ve   kuruluşlar   da   tacir   sayılırlar.  (2)   Devlet,   il   özel   idaresi,   belediye   ve   köy   ile   diğer   kamu   tüzel   kişileri   ile   kamu  yararına   çalışan   dernekler   ve   gelirinin   yarısından   fazlasını   kamu   görev i   niteliğindeki   işlere  harcayan   vakıflar,   bir   ticari   işletmeyi,   ister   doğrudan   doğruya   ister   kamu   hukuku   hükümlerine  göre   yönetilen   ve   işletilen   bir   tüzel   kişi   eliyle   işletsinler,   kendileri   tacir   sayılmazlar.
+Madde 16 - (1) Ticaret şirketleriyle, amacına varmak için ticari bir işletme işleten vakıflar, dernekler ve kendi kuruluş kanunları gereğince özel hukuk hükümlerine göre yönetilmek veya ticari şekilde işletilmek üzere Devlet, il özel idaresi, beled iye ve köy ile
+diğer kamu tüzel kişileri tarafından kurulan kurum ve kuruluşlar da tacir sayılırlar. (2) Devlet, il özel idaresi, belediye ve köy ile diğer kamu tüzel kişileri ile kamu yararına çalışan dernekler ve gelirinin yarısından fazlasını kamu görev i niteliğindeki işlere harcayan vakıflar, bir ticari işletmeyi, ister doğrudan doğruya ister kamu hukuku hükümlerine göre yönetilen ve işletilen bir tüzel kişi eliyle işletsinler, kendileri tacir sayılmazlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 16**, «Madde 16» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

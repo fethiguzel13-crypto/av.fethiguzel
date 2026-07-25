@@ -11,12 +11,12 @@ wordCount: 4314
 
 ---
 
-Madde 594 - Asıl  borçlu,  anaparanın  veya yarım  yıllık  döneme  ait  faizin
+Madde 594 - Asıl borçlu, anaparanın veya yarım yıllık döneme ait faizin
 ödenmesinde ya da yıldan yıla yapılması öngörülen anapara ödemelerinde altı ay gecikirse,
 alacaklının durumu kefile bildirmesi gerekir. İstek hâlinde alacaklı, her zaman asıl borcun
 kapsamı hakkında kefile bilgi vermek zorundadır.
-Asıl  borçlunun  iflasına  karar  verilmiş  veya  borçlu  konkordato  istemişse  alacaklı,
-alacağını  kaydettirmek  ve  haklarının  korunması  için  gerekeni  yapmak zorundadır.
+Asıl borçlunun iflasına karar verilmiş veya borçlu konkordato istemişse alacaklı,
+alacağını kaydettirmek ve haklarının korunması için gerekeni yapmak zorundadır.
 Alacaklının, borçlunun iflas ettiğini veya borçluya konkordato mehli verildiğini öğrendiği
 anda, durumu kefile bildirmesi gerekir.
 Alacaklı, yukarıdaki fıkralarda öngörülen gereklerden birini yerine getirmezse, bundan
@@ -25,7 +25,6 @@ dolayı kefilin uğradığı zarar miktarınca ona karşı haklarını kaybeder.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 594**, «f. Bildirim, iflasta ve konkordatoda kayıt» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 594 - Asıl  borçlu,  anaparanın  veya yarım  yıllık  döneme  ait  faizin

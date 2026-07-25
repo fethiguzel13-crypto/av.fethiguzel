@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**B. Üyelik  I. Kazanılması  1. Kural**
+**B. Üyelik I. Kazanılması 1. Kural**
 
 ---
 
-Madde 63 - Hiç ki mse,   bir derneğe üye olmaya ve hiçbir dernek de üye kabul etmeye  zorlanamaz.
+Madde 63 - Hiç ki mse, bir derneğe üye olmaya ve hiçbir dernek de üye kabul etmeye zorlanamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 63**, «B. Üyelik  I. Kazanılması  1. Kural» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 63 - Hiç ki mse,   bir derneğe üye olmaya ve hiçbir dernek de üye kabul etmeye  zorlanamaz.

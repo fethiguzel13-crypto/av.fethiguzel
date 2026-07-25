@@ -14,12 +14,11 @@ I
 
 ---
 
-Madde 536 - (1)   Esas   sözleşme   veya   genel   kurul   kararıyla   ayrıca   tasfiye   memuru  atanmadığı   takdirde,   tasfiye,   yönetim   kurulu   tarafından   yapılır.   Tasfiye   memurları   pay  sahiplerinden   veya   üçüncü   kişilerden   olabilir.   Tasfiye   ile   görevlendirilenler   esas   sözleşmede  veya   atama   kararında   aksi   öngörülmemişse   olağan   ücrete   hak   kazanırlar.  (2)   Yönetim   kurulu,   tasfiye   memurlarını   ticaret   siciline   tescil   ve   ilan   ettirir.   Tasfiye  işlerinin   yönetim   kurulunca   yapılması   hâlinde   de   bu   hüküm   uygulanır.  (3)   Şirketin   feshine   mahkemenin   karar   verdiği   hâllerde   tasfiye   memuru   mahkemece  atanır.  (4)   Temsile   yetkili   tasfiye   memurlarından   en   az   birinin   Türk   vatandaşı   olması   ve  yerleşim   yerinin   Türkiye’de   bulunması   şarttır.
+Madde 536 - (1) Esas sözleşme veya genel kurul kararıyla ayrıca tasfiye memuru atanmadığı takdirde, tasfiye, yönetim kurulu tarafından yapılır. Tasfiye memurları pay sahiplerinden veya üçüncü kişilerden olabilir. Tasfiye ile görevlendirilenler esas sözleşmede veya atama kararında aksi öngörülmemişse olağan ücrete hak kazanırlar. (2) Yönetim kurulu, tasfiye memurlarını ticaret siciline tescil ve ilan ettirir. Tasfiye işlerinin yönetim kurulunca yapılması hâlinde de bu hüküm uygulanır. (3) Şirketin feshine mahkemenin karar verdiği hâllerde tasfiye memuru mahkemece atanır. (4) Temsile yetkili tasfiye memurlarından en az birinin Türk vatandaşı olması ve yerleşim yerinin Türkiye’de bulunması şarttır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 536**, «Madde 536» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Tasfiye

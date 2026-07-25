@@ -11,12 +11,11 @@ wordCount: 4269
 
 ---
 
-Madde 21 - Velâyet altında bulunan çocuğun yerleşim yeri, ana   ve ba basının; ana ve  babanın ortak yerleşim yeri yoksa, çocuğun kendisine bırakıldığı ana veya babanın yerleşim yeridir.  Diğer hâllerde çocuğun oturma yeri, onun yerleşim yeri sayılır.  Vesayet altındaki kişilerin yerleşim yeri, bağlı oldukları vesayet maka mının   bulu nduğu  yerdir.
+Madde 21 - Velâyet altında bulunan çocuğun yerleşim yeri, ana ve ba basının; ana ve babanın ortak yerleşim yeri yoksa, çocuğun kendisine bırakıldığı ana veya babanın yerleşim yeridir. Diğer hâllerde çocuğun oturma yeri, onun yerleşim yeri sayılır. Vesayet altındaki kişilerin yerleşim yeri, bağlı oldukları vesayet maka mının bulu nduğu yerdir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 21**, «3. Yasal yerleşim yeri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 21 - Velâyet altında bulunan çocuğun yerleşim yeri, ana   ve ba basının; ana ve  babanın ortak yerleşim yeri yoksa, çocuğun kendisine bırakıldığı ana veya babanın yerleşim yeridir.  Diğer hâllerde çocuğun oturma yeri, onun yerleşim yeri sayılır.  Vesayet altındaki kişilerin yerleşim yeri, bağlı oldukları vesayet maka mının   bulu nduğu  yerdir.

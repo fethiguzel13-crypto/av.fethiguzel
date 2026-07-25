@@ -13,12 +13,11 @@ wordCount: 4297
 
 ---
 
-Madde 1163 - (1)   Kırkambar   sözleşmesinde   taşıtan,   taşıyanın   veya   yetkili  temsilcisinin   çağrısı   üzerine,   gecikmeden   eşyayı   yüklemek   zorundadır.  (2)   Taşıtan   gecikirse   taşıyan,   eşyanın   teslimi ni   beklemekle   yükümlü   değildir.   Yolculuk,  eşya   teslim   alınmadan   başlamış   olsa   bile,   taşıtan   tam   navlunu   ödemekle   yükümlüdür;   şu   kadar  ki,   taşıyanın   teslim   edilmiş   olmayan   eşya   yerine   yüklediği   eşyanın   navlunu,   tam   navlundan  indirilir.  (3)   Taşıyanın,   gecike n   taşıtandan   navlun   isteyebilmesi   için   bunu   yola   çıkmadan   önce  taşıtana   faks   mesajı,   elektronik   mektup   veya   benzeri   teknik   araçlarla   da   mümkün   olmak   üzere  yazılı   şekilde   bildirmesi   gerekir;   aksi   hâlde   istem   hakkını   kaybeder.
+Madde 1163 - (1) Kırkambar sözleşmesinde taşıtan, taşıyanın veya yetkili temsilcisinin çağrısı üzerine, gecikmeden eşyayı yüklemek zorundadır. (2) Taşıtan gecikirse taşıyan, eşyanın teslimi ni beklemekle yükümlü değildir. Yolculuk, eşya teslim alınmadan başlamış olsa bile, taşıtan tam navlunu ödemekle yükümlüdür; şu kadar ki, taşıyanın teslim edilmiş olmayan eşya yerine yüklediği eşyanın navlunu, tam navlundan indirilir. (3) Taşıyanın, gecike n taşıtandan navlun isteyebilmesi için bunu yola çıkmadan önce taşıtana faks mesajı, elektronik mektup veya benzeri teknik araçlarla da mümkün olmak üzere yazılı şekilde bildirmesi gerekir; aksi hâlde istem hakkını kaybeder.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1163**, «Madde 1163» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **X

@@ -13,12 +13,11 @@ a. Koruma önlemleri**
 
 ---
 
-Madde 865 - Malik, rehinli taşınmazın değerini düşüren davranışlarda bulunursa; alacakl ı,  hâkimden bu gibi davranışları yasaklamasını isteyebilir.  Al acaklıya, gerekli önlemleri almak üzere hâkim tarafından yetki verilebileceği gibi;  gecikm esinde tehlike bulunan hâllerde alacaklı, böyle bir yetki verilmeden de gerekli önlemleri  kendiliğinden   alabilir.  Alacaklı, önlem için yapmış olduğu giderleri malikte n isteyebilir ve bu alacakları için  taşınmaz üzerinde, tescile gerek olmaksızın ve tescil   edilmiş olan diğer yüklerden önce gelen bir  rehin hakkına sahip olur.
+Madde 865 - Malik, rehinli taşınmazın değerini düşüren davranışlarda bulunursa; alacakl ı, hâkimden bu gibi davranışları yasaklamasını isteyebilir. Al acaklıya, gerekli önlemleri almak üzere hâkim tarafından yetki verilebileceği gibi; gecikm esinde tehlike bulunan hâllerde alacaklı, böyle bir yetki verilmeden de gerekli önlemleri kendiliğinden alabilir. Alacaklı, önlem için yapmış olduğu giderleri malikte n isteyebilir ve bu alacakları için taşınmaz üzerinde, tescile gerek olmaksızın ve tescil edilmiş olan diğer yüklerden önce gelen bir rehin hakkına sahip olur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 865**, «Madde 865» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV. Önlem alma yetkisi

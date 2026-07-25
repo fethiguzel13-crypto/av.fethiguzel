@@ -12,21 +12,20 @@ I. Yükümlülükleri**
 
 ---
 
-Madde 450 - Pazarlamacı,  talimata  uymamasını  zorunlu  kılan  haklı  bir  sebep
+Madde 450 - Pazarlamacı, talimata uymamasını zorunlu kılan haklı bir sebep
 olmadıkça, kendisine verilen talimata uygun olarak müşterileri ziyaret etmekle yükümlüdür;
-işverenin  izni  olmadıkça,  kendisi  veya  üçüncü  kişiler  hesabına  işlem  yapamaz,  aracılık
+işverenin izni olmadıkça, kendisi veya üçüncü kişiler hesabına işlem yapamaz, aracılık
 edemez.
 
 Pazarlamacı, işlem yapmaya yetkiliyse, talimatta öngörülen fiyatlara ve diğer işlem
 koşullarına uymak zorundadır; işveren razı olmadıkça, bunlarda değişiklik yapamaz.
-Pazarlamacı,  pazarlama  faaliyetleri  ile  ilgili  olarak  düzenli  biçimde  ayrıntılı  bilgi
+Pazarlamacı, pazarlama faaliyetleri ile ilgili olarak düzenli biçimde ayrıntılı bilgi
 vermek, aldığı siparişleri işverene derhâl ulaştırmak ve müşteri çevresini ilgilendiren önemli
 olayları bildirmekle yükümlüdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 450**, «Madde 450» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B. Pazarlamacının yükümlülük ve yetkileri

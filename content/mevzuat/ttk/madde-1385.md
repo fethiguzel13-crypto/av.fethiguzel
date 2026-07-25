@@ -11,12 +11,11 @@ wordCount: 4307
 
 ---
 
-Madde 1385 - (1)   İcra ve İflas Kanununun 126 ncı maddesi uyarınca yapılacak ilan,  bir internet haber sitesi ve tirajı ellibin üzerinde olan ve yurt düzeyinde dağıtımı yapılan  gazetelerden biriyle ve ayrıca yurt dışında dünya çapında dağıtımı yapılan denizcilikle ilgili  gün lük bir gazetede yayımlanır. 105  (2)   İlanda,   ipotek   alacaklısının   rızasıyla   alıcı   tarafından   yüklenilenler   dışında,   geminin  bütün   ayni   ve   kişisel   haklardan,   külfetlerden   ve   sınırlandırmalardan   arınmış   olarak   satılacağı  bildirilir.
+Madde 1385 - (1) İcra ve İflas Kanununun 126 ncı maddesi uyarınca yapılacak ilan, bir internet haber sitesi ve tirajı ellibin üzerinde olan ve yurt düzeyinde dağıtımı yapılan gazetelerden biriyle ve ayrıca yurt dışında dünya çapında dağıtımı yapılan denizcilikle ilgili gün lük bir gazetede yayımlanır. 105 (2) İlanda, ipotek alacaklısının rızasıyla alıcı tarafından yüklenilenler dışında, geminin bütün ayni ve kişisel haklardan, külfetlerden ve sınırlandırmalardan arınmış olarak satılacağı bildirilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1385**, «4. Artırmanın ilanı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1385 - (1)   İcra ve İflas Kanununun 126 ncı maddesi uyarınca yapılacak ilan,  bir internet haber sitesi ve tirajı ellibin üzerinde olan ve yurt düzeyinde dağıtımı yapılan  gazetelerden biriyle ve ayrıca yurt dışında dünya çapında dağıtımı yapılan denizcilikle ilgili  gün lük bir gazetede yayımlanır. 105  (2)   İlanda,   ipotek   alacaklısının   rızasıyla   alıcı   tarafından   yüklenilenler… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

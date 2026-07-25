@@ -12,18 +12,17 @@ I. Özel fesih süresi**
 
 ---
 
-Madde 459 - Komisyon,  sabit  ücretin  en  az  beşte  birini  oluşturuyor  ve  önemli
+Madde 459 - Komisyon, sabit ücretin en az beşte birini oluşturuyor ve önemli
 mevsimlik dalgalanmalardan etkileniyorsa işveren, bir önceki mevsimin sona ermesinden beri
-kendisiyle  çalışmaya devam eden pazarlamacının sözleşmesini,  yeni mevsim sırasında iki
+kendisiyle çalışmaya devam eden pazarlamacının sözleşmesini, yeni mevsim sırasında iki
 aylık fesih süresine uyarak feshedebilir.
-Aynı  koşullar  altında  pazarlamacı  da,  kendisini  bir  önceki  mevsim  sonuna  kadar
+Aynı koşullar altında pazarlamacı da, kendisini bir önceki mevsim sonuna kadar
 çalıştırmış ve bundan sonra da çalıştırmaya devam eden işverene karşı, bir sonraki mevsimin
 başlamasına kadar olan dönemde, iki aylık fesih süresine uyarak sözleşmeyi feshedebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 459**, «Madde 459» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **D. Sona ermesi

@@ -14,9 +14,9 @@ wordCount: 4262
 Madde 592 - Alacaklı, kefalet sırasında var olan veya daha sonra asıl borçludan
 alacağın özel güvencesi olmak üzere elde ettiği rehin haklarını, güvenceyi ve rüçhan haklarını
 kefilin zararına olarak azaltırsa, zararın daha az olduğu alacaklı tarafından ispat edilmedikçe,
-kefilin  sorumluluğu  da  buna  uygun  düşen  bir  miktarda  azalır.  Kefilin  fazladan  ödediği
+kefilin sorumluluğu da buna uygun düşen bir miktarda azalır. Kefilin fazladan ödediği
 miktarın geri verilmesini isteme hakkı saklıdır.
-Çalışanlara  kefalet  hâlinde  alacaklı,  çalışanlar  üzerinde  yükümlü  olduğu  gözetimi
+Çalışanlara kefalet hâlinde alacaklı, çalışanlar üzerinde yükümlü olduğu gözetimi
 ihmal eder veya kendisinden beklenebilen özeni göstermezse ve borç da bu sebeple doğmuş
 ya da bu özeni göstermesi hâlinde ulaşamayacağı ölçüde artmış olursa, bu borcu veya borcun
 artan kısmını kefilden isteyemez.
@@ -27,14 +27,13 @@ kefile teslim etmek veya bunların devri için gerekli işlemleri yapmak zorunda
 diğer alacakları sebebiyle sahip olduğu rehin ve hapis hakları, kefilin haklarından sıraca önce
 geldikleri ölçüde saklıdır.
 Alacaklı, haklı bir sebep olmaksızın yükümlülüklerini yerine getirmez, ağır kusuruyla
-mevcut  belgeleri  veya  rehinleri ya da sorumlu olduğu diğer güvenceleri elinden çıkarırsa,
+mevcut belgeleri veya rehinleri ya da sorumlu olduğu diğer güvenceleri elinden çıkarırsa,
 kefil borcundan kurtulur. Bu durumda kefil, ödediğinin geri verilmesini ve varsa ek zararının
 giderilmesini isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 592**, «d. Özen gösterme, rehin ve borç senetlerinin teslimi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 592 - Alacaklı, kefalet sırasında var olan veya daha sonra asıl borçludan

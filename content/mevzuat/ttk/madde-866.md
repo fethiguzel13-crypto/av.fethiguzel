@@ -12,13 +12,12 @@ wordCount: 4318
 
 ---
 
-Madde 866 - (1)   Taşıyıcı,   taşınması   kararlaştırılan   eşyanın   tamamı   yüklenmiş  olmasa   bile,   gönderenin   istemi   üzerine   yola   çıkmak   zorundadır.   Bu   durumda   taşıyıcı;  a)   Sözleşmede   kararlaştırılmış   olan   taşıma   ücretinin   tamamını,
-b)   Doğmuş   bekleme   ücretini,  c)   Eksik   yükleme   sebebiyle   yapmak   zorunda   kaldığı   gide rleri   ve   uğradığı   zararı,  d)   Alacakları,   eksik   yükleme   sebebiyle   kısmen   veya   tamamen   teminatsız   kalmışsa,  kendisine   ek   teminat   gösterilmesini,  isteyebilir.   Ancak,   kısmen   yüklenmeyen   eşyanın   yerine   başka   bir   sözleşme   uyarınca  eşya   taşınmışsa,   bu   eşya   için   alınacak   taşıma   ücreti,   (a)   bendine   göre   istenecek   ücrete   mahsup  edilir.  (2)   Eksik   yükleme,   taşıyıcının   riziko   alanına   giren   sebeplerden   kaynaklanıyorsa,  taşıyıcı,   birinci   fıkrada   belirtilen   istem   haklarına,   fiilen   taşınan   yük   oranında   sahiptir.
+Madde 866 - (1) Taşıyıcı, taşınması kararlaştırılan eşyanın tamamı yüklenmiş olmasa bile, gönderenin istemi üzerine yola çıkmak zorundadır. Bu durumda taşıyıcı; a) Sözleşmede kararlaştırılmış olan taşıma ücretinin tamamını,
+b) Doğmuş bekleme ücretini, c) Eksik yükleme sebebiyle yapmak zorunda kaldığı gide rleri ve uğradığı zararı, d) Alacakları, eksik yükleme sebebiyle kısmen veya tamamen teminatsız kalmışsa, kendisine ek teminat gösterilmesini, isteyebilir. Ancak, kısmen yüklenmeyen eşyanın yerine başka bir sözleşme uyarınca eşya taşınmışsa, bu eşya için alınacak taşıma ücreti, (a) bendine göre istenecek ücrete mahsup edilir. (2) Eksik yükleme, taşıyıcının riziko alanına giren sebeplerden kaynaklanıyorsa, taşıyıcı, birinci fıkrada belirtilen istem haklarına, fiilen taşınan yük oranında sahiptir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 866**, «Madde 866» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **XI

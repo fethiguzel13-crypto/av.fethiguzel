@@ -12,12 +12,11 @@ wordCount: 4295
 
 ---
 
-Madde 1259 - (1)   Onikiden   fazla   yolcu   taşımak   için   ruhsat   almış   bir   gemi   ile   yolcu  taşındığı   takdirde,   taşımanın   tamamını   veya   bir   kısmını   üstlenen   veya   gerçekleştiren   bütün  taşıyanlar,   yolcuların   ölümünden   veya   yaralanmalarından   doğabilecek   sorumluluklarına   karşı  sigorta   yaptırmakla   yükümlüdürler.   (Değişik   cümle : 4/7/202 4 - 7519/ 20   md.)   Zorunlu sigorta  bedelinin sınırı her kaza için yolcu başına, uluslararası sefer yapabilmek için ruhsat almış bir  gemi ile yolcu taşındığı takdirde 250.000 Özel Çekme Hakkından, uluslararası sefer için  gerekli ruhsatı olmayan bir gemi ile yol cu taşındığı takdirde 100.000 Özel Çekme Hakkından  az olamaz.  (2)   Birinci   fıkradaki   şartları   yerine   getirmeyen   geminin   yola   çıkmasına   izin   verilmez.
+Madde 1259 - (1) Onikiden fazla yolcu taşımak için ruhsat almış bir gemi ile yolcu taşındığı takdirde, taşımanın tamamını veya bir kısmını üstlenen veya gerçekleştiren bütün taşıyanlar, yolcuların ölümünden veya yaralanmalarından doğabilecek sorumluluklarına karşı sigorta yaptırmakla yükümlüdürler. (Değişik cümle : 4/7/202 4 - 7519/ 20 md.) Zorunlu sigorta bedelinin sınırı her kaza için yolcu başına, uluslararası sefer yapabilmek için ruhsat almış bir gemi ile yolcu taşındığı takdirde 250.000 Özel Çekme Hakkından, uluslararası sefer için gerekli ruhsatı olmayan bir gemi ile yol cu taşındığı takdirde 100.000 Özel Çekme Hakkından az olamaz. (2) Birinci fıkradaki şartları yerine getirmeyen geminin yola çıkmasına izin verilmez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1259**, «Madde 1259» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV

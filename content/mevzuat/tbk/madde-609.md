@@ -14,17 +14,16 @@ I. Hakkın kullanılması**
 
 Madde 609 - Sözleşmede aksi kararlaştırılmamışsa ömür boyu gelir, her altı ayda bir
 ve peşin olarak ödenir.
-Gelirin  süresi  ömrüne  bağlanmış  olan  kişi,  peşin  ödeme  öngörülen  dönemin  sona
+Gelirin süresi ömrüne bağlanmış olan kişi, peşin ödeme öngörülen dönemin sona
 ermesinden önce ölse bile, o döneme ait gelirin tamamı gelir borçlusu tarafından borçlanılmış
 sayılır.
-Gelir  borçlusu  iflas  ederse,  gelir  alacaklısı,  gelir  borçlusunun  yükümlü  olduğu
+Gelir borçlusu iflas ederse, gelir alacaklısı, gelir borçlusunun yükümlü olduğu
 dönemsel gelirin elde edilebilmesi için ilgili sosyal güvenlik kurumunca ödenmesi gereken
 anaparaya denk düşen bir parayı iflas masasına kaydettirme hakkını elde eder.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 609**, «Madde 609» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Gelir alacaklısının hakları

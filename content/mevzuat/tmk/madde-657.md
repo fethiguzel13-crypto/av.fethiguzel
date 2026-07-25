@@ -12,12 +12,11 @@ a. Özgülenmeye esas olan değer**
 
 ---
 
-Madde 657 - Taşınmazlar,   paylaşmanın   yapıldığı   zamandaki   gerçek   değerleri   esas  alınarak mi rasçılara özgülenir.  Tarımsal taşınmazlar gelir değerine, diğer taşınmazlar sürüm değerine   göre özgülenir.
+Madde 657 - Taşınmazlar, paylaşmanın yapıldığı zamandaki gerçek değerleri esas alınarak mi rasçılara özgülenir. Tarımsal taşınmazlar gelir değerine, diğer taşınmazlar sürüm değerine göre özgülenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 657**, «Madde 657» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Özgülenme

@@ -20,13 +20,12 @@ keywords:
 Madde 8 - Öneren, önerisi ile bağlı olmama hakkının saklı olduğunu açıkça belirtirse
 veya işin özelliğinden ya da durumun gereğinden bağlanma niyetinde olmadığı anlaşılırsa,
 önerisi kendisini bağlamaz.
-Fiyatını  göstererek  mal  sergilenmesi  veya  tarife,  fiyat  listesi  ya  da  benzerlerinin
+Fiyatını göstererek mal sergilenmesi veya tarife, fiyat listesi ya da benzerlerinin
 gönderilmesi, aksi açıkça ve kolaylıkla anlaşılmadıkça öneri sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu sistematiğinde 8. madde, sözleşmelerin kurulması aşamasında taraf iradelerinin hukuki niteliğini tespite hizmet eden temel hükümlerden biridir. Borçlar hukukunda bir sözleşmenin kurulabilmesi için kurucu unsurlar olan öneri (icap) ve kabul beyanlarının karşılıklı ve birbirine uygun olarak dış dünyaya yansıtılması zorunludur. Ancak günlük ticari hayatta, kişilerin diğer şahıslara yönelttikleri her beyan veya sergiledikleri her davranış, hukuken bağlayıcı bir öneri niteliği taşımaz. Kanun koyucu, sözleşme görüşmelerini başlatmak amacıyla yapılan hazırlık hareketleri ile kesin bir bağlanma iradesi taşıyan hukuki işlemleri birbirinden ayırma zorunluluğu hissetmiştir.

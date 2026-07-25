@@ -12,12 +12,11 @@ wordCount: 4320
 
 ---
 
-Madde 724 - (1)   Bir   poliçeyi   düzenleyen,   kabul   ed en,   ciro   eden   veya   o   poliçeye   aval  veren   kişiler   hamile   karşı   müteselsil   borçlu   sıfatıyla   sorumludurlar.  (2)   Hamil,   bunların   borçlanmadaki   sıraları   ile   bağlı   olmaksızın   her   birine   veya  bunlardan   bazılarına   ya   da   hepsine   birden   başvurabilir.  (3)   Poliçeden   d olayı   borç   altına   girmiş   olup   da   poliçeyi   ödemiş   bulunan   herkes   aynı  hakkı   kullanabilir.  (4)   Hamil   borçlulardan   yalnız   birine   başvurmakla,   diğer   borçlularla   ilk   önce   başvurduğu  borçludan   sonra   gelenlere   karşı   haklarını   kaybetmez.
+Madde 724 - (1) Bir poliçeyi düzenleyen, kabul ed en, ciro eden veya o poliçeye aval veren kişiler hamile karşı müteselsil borçlu sıfatıyla sorumludurlar. (2) Hamil, bunların borçlanmadaki sıraları ile bağlı olmaksızın her birine veya bunlardan bazılarına ya da hepsine birden başvurabilir. (3) Poliçeden d olayı borç altına girmiş olup da poliçeyi ödemiş bulunan herkes aynı hakkı kullanabilir. (4) Hamil borçlulardan yalnız birine başvurmakla, diğer borçlularla ilk önce başvurduğu borçludan sonra gelenlere karşı haklarını kaybetmez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 724**, «Madde 724» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV

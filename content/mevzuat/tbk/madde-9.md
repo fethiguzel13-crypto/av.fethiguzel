@@ -17,19 +17,18 @@ keywords:
 
 ---
 
-Madde 9 - Bir  sonucun  gerçekleşmesi  karşılığında  ödül  vereceğini  ilan  yoluyla
+Madde 9 - Bir sonucun gerçekleşmesi karşılığında ödül vereceğini ilan yoluyla
 duyuran kimse, sözünü yerine getirmekle yükümlüdür.
 Ödül sözü veren, sonucun gerçekleşmesinden önce sözünden cayarsa veya sonucun
-gerçekleşmesini  engellerse,  dürüstlük  kurallarına  uygun  olarak  yapılan  giderleri  ödemekle
+gerçekleşmesini engellerse, dürüstlük kurallarına uygun olarak yapılan giderleri ödemekle
 yükümlüdür. Ancak, bir ya da birden çok kişiye ödenecek giderlerin toplamı, ödülün değerini
 aşamaz.
-Ödül  sözü  veren,  giderlerinin  ödenmesini  isteyenlerin  beklenen sonucu
+Ödül sözü veren, giderlerinin ödenmesini isteyenlerin beklenen sonucu
 gerçekleştiremeyeceklerini ispat ederse, giderleri ödeme yükümlülüğünden kurtulur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Borçlar Kanunu sistematiğinde 9. madde, borç ilişkilerinin kaynakları arasında "Sözleşmeden Doğan Borç İlişkileri" başlığı altında yer almasına rağmen, hukuki niteliği itibarıyla klasik bir sözleşme yapısından ayrılır. Hukukumuzda borç doğuran işlemler kural olarak iki taraflı hukuki işlemler, yani sözleşmelerdir. Ancak kanun koyucu, ticari hayatın ve toplumsal ihtiyaçların gereği olarak, istisnai bazı durumlarda **tek taraflı irade beyanlarına da borç doğurucu etki** tanımıştır. İlan yoluyla ödül sözü verme kurumu, irade özerkliği ilkesinin uzantısı olarak, kişinin kendi tek taraflı beyanı ile kendini borç altına sokabilmesinin tipik örneğidir.

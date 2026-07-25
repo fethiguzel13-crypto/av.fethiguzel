@@ -8,16 +8,15 @@ wordCount: 4320
 ---
 
 **C) Ceza sorumluluğu
-I   -   Cezayı   gerektiren   fiiller**
+I - Cezayı gerektiren fiiller**
 
 ---
 
-Madde 62 - (1)   a)   55   inci   maddede   yazılı   haksız   rekabet   fiillerinden   birini   kasten  işleyenler,  b)   Kendi   icap   ve   tekliflerinin   rakiplerininkine   tercih   edilme si   için   kişisel   durumu,  ürünleri,   iş   ürünleri,   ticari   faaliyeti   ve   işleri   hakkında   kasten   yanlış   veya   yanıltıcı   bilgi   verenler,  c)   Çalışanları,   vekilleri   veya   diğer   yardımcı   kimseleri,   çalıştıranın   veya   müvekkillerinin  üretim   veya   ticaret   sırlarını   ele   ge çirmelerini   sağlamak   için   aldatanlar,  d)   Çalıştıranlar   veya   müvekkillerden,   işçilerinin   veya   çalışanlarının   ya   da   vekillerinin,  işlerini   gördükleri   sırada   cezayı   gerektiren   bir   haksız   rekabet   fiilini   işlediklerini   öğrenip   de   bu  fiili   önlemeyenler   veya   ger çeğe   aykırı   beyanları   düzeltmeyenler,  fiil   daha   ağır   cezayı   gerektiren   başka   bir   suç   oluşturmadığı   takdirde,   56   ncı   madde  gereğince   hukuk   davasını   açma   hakkını   haiz   bulunanlardan   birinin   şikâyeti   üzerine,   her   bir  bent   kapsamına   giren   fiiller   dolayısıyla   i ki   yıla   kadar   hapis   veya   adli   para   cezasıyla  cezalandırılırlar.
+Madde 62 - (1) a) 55 inci maddede yazılı haksız rekabet fiillerinden birini kasten işleyenler, b) Kendi icap ve tekliflerinin rakiplerininkine tercih edilme si için kişisel durumu, ürünleri, iş ürünleri, ticari faaliyeti ve işleri hakkında kasten yanlış veya yanıltıcı bilgi verenler, c) Çalışanları, vekilleri veya diğer yardımcı kimseleri, çalıştıranın veya müvekkillerinin üretim veya ticaret sırlarını ele ge çirmelerini sağlamak için aldatanlar, d) Çalıştıranlar veya müvekkillerden, işçilerinin veya çalışanlarının ya da vekillerinin, işlerini gördükleri sırada cezayı gerektiren bir haksız rekabet fiilini işlediklerini öğrenip de bu fiili önlemeyenler veya ger çeğe aykırı beyanları düzeltmeyenler, fiil daha ağır cezayı gerektiren başka bir suç oluşturmadığı takdirde, 56 ncı madde gereğince hukuk davasını açma hakkını haiz bulunanlardan birinin şikâyeti üzerine, her bir bent kapsamına giren fiiller dolayısıyla i ki yıla kadar hapis veya adli para cezasıyla cezalandırılırlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 62**, «Madde 62» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C) Ceza sorumluluğu

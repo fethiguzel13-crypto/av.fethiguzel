@@ -11,13 +11,12 @@ wordCount: 4261
 
 ---
 
-Madde 776 - (1)   Bono   veya   emre   yazılı   senet;
-a)   Senet   metnin de   “bono”   veya   “emre   yazılı   senet”   kelimesini   ve   senet   Türkçe’den  başka   bir   dille   yazılmışsa,   o   dilde   bono   veya   emre   yazılı   senet   karşılığı   olarak   kullanılan  kelimeyi,  b)   Kayıtsız   ve   şartsız   belirli   bir   bedeli   ödemek   vaadini,  c)   Vadeyi,  d)   Ödeme   yerini,  e)   Kime   veya   kimin   emrine   ödenecek   ise   onun   adını,  f)   Düzenlenme   tarihini   ve   yerini,  g)   Düzenleyenin   imzasını,  içerir.
+Madde 776 - (1) Bono veya emre yazılı senet;
+a) Senet metnin de “bono” veya “emre yazılı senet” kelimesini ve senet Türkçe’den başka bir dille yazılmışsa, o dilde bono veya emre yazılı senet karşılığı olarak kullanılan kelimeyi, b) Kayıtsız ve şartsız belirli bir bedeli ödemek vaadini, c) Vadeyi, d) Ödeme yerini, e) Kime veya kimin emrine ödenecek ise onun adını, f) Düzenlenme tarihini ve yerini, g) Düzenleyenin imzasını, içerir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 776**, «Madde 776» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 776 - (1)   Bono   veya   emre   yazılı   senet;

@@ -9,16 +9,15 @@ wordCount: 4267
 
 **II. Kişisel mallar Madd e 267
 - Eşlerden her biri, yasal sınırlar içerisinde kendi kişisel mallarını yönetme ve bunlar üzerinde tasarrufta bulunma hakkına sahiptir. Kişisel mallara giren gelirler varsa, yönetim giderleri bu gelirlerden karşılanır.
-C. Üçüncü kişilere karşı sorumlu luk  I . Ortaklık borçları**
+C. Üçüncü kişilere karşı sorumlu luk I . Ortaklık borçları**
 
 ---
 
-Madde 268 - Eşlerden her biri, aşağıdaki borçlardan kişisel malları ve ortaklık mallarıyl a  sorumludur:  1. Evlilik birliğini temsil veya ortaklık mallarını yönetme yetkisine dayanarak yapılan  borçlardan,  2. Ortaklık mallarını veya o rtakl ık mallarına giren gelirleri kullanarak bir meslek veya  sanatın icra edilmesi nedeniyle yapılan borçlardan,  3. Diğer eş için de kişisel sorumluluk doğuran borçlardan,  4. Kişisel mal yanında ortaklık mallarının da sorumlu olacağı hususunda eşlerin üç üncü  kişilerle anlaşarak yaptığı borçlardan.
+Madde 268 - Eşlerden her biri, aşağıdaki borçlardan kişisel malları ve ortaklık mallarıyl a sorumludur: 1. Evlilik birliğini temsil veya ortaklık mallarını yönetme yetkisine dayanarak yapılan borçlardan, 2. Ortaklık mallarını veya o rtakl ık mallarına giren gelirleri kullanarak bir meslek veya sanatın icra edilmesi nedeniyle yapılan borçlardan, 3. Diğer eş için de kişisel sorumluluk doğuran borçlardan, 4. Kişisel mal yanında ortaklık mallarının da sorumlu olacağı hususunda eşlerin üç üncü kişilerle anlaşarak yaptığı borçlardan.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 268**, «Madde 268» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Kişisel mallar Madd e 267

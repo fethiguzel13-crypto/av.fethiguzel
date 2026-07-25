@@ -13,8 +13,8 @@ wordCount: 4262
 
 Madde 213 - Borcunu ifa etmeyen satıcı, alıcının bu yüzden uğradığı zararı gidermekle
 yükümlüdür.
-Satıcı  borcunu  ifa  etmezse  alıcı,  satış  bedeli  ile  kendisine  devredilmeyen  satılanın
-yerine,  bir  başkasını  satın  almak  için  dürüstlük  kurallarına  uygun  olarak  ödediği  bedel
+Satıcı borcunu ifa etmezse alıcı, satış bedeli ile kendisine devredilmeyen satılanın
+yerine, bir başkasını satın almak için dürüstlük kurallarına uygun olarak ödediği bedel
 arasındaki farka göre hesaplanacak zararın giderilmesini isteyebilir.
 Satılan, borsada kayıtlı veya piyasa fiyatı bulunan mallardan ise alıcı, onun yerine bir
 başkasını satın alma zorunda olmaksızın, satış bedeli ile belirlenmiş ifa günündeki piyasa
@@ -23,7 +23,6 @@ fiyatı arasındaki farka göre hesaplanacak zararın giderilmesini isteyebilir.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 213**, «b. Giderim borcu ve kapsamı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 213 - Borcunu ifa etmeyen satıcı, alıcının bu yüzden uğradığı zararı gidermekle

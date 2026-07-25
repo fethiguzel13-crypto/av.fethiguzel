@@ -11,12 +11,11 @@ wordCount: 4294
 
 ---
 
-Madde 1484 - (1)   Sigortacı,   sigortalıya   karşı   ifa   borcundan   tamamen   veya   kısmen  kurtulmuş   olsa   da,   zarar   gören   bakımından   ifa   borcu,   zorunlu   sigorta   miktarına   kadar   devam  eder.  (2)   Sigorta   ilişkisinin   sona   ermesi,   zarar   görene   karşı   ancak,   sigortacının   sözl eşmenin  sona   erdiğini   veya   ereceğini   yetkili   mercilere   bildirmesinden   bir   ay   sonra   hüküm   doğurur.  (3)   Zarar,   sosyal   güvenlik   kurumları   tarafından   karşılandığı   ölçüde   sigortacının  sorumluluğu   sona   erer.
+Madde 1484 - (1) Sigortacı, sigortalıya karşı ifa borcundan tamamen veya kısmen kurtulmuş olsa da, zarar gören bakımından ifa borcu, zorunlu sigorta miktarına kadar devam eder. (2) Sigorta ilişkisinin sona ermesi, zarar görene karşı ancak, sigortacının sözl eşmenin sona erdiğini veya ereceğini yetkili mercilere bildirmesinden bir ay sonra hüküm doğurur. (3) Zarar, sosyal güvenlik kurumları tarafından karşılandığı ölçüde sigortacının sorumluluğu sona erer.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1484**, «2. Zarar görenle ilişkide ifa yükümlülüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1484 - (1)   Sigortacı,   sigortalıya   karşı   ifa   borcundan   tamamen   veya   kısmen  kurtulmuş   olsa   da,   zarar   gören   bakımından   ifa   borcu,   zorunlu   sigorta   miktarına   kadar   devam  eder.  (2)   Sigorta   ilişkisinin   sona   ermesi,   zarar   görene   karşı   ancak,   sigortacının   sözl eşmenin  sona   erdiğini   veya   ereceğini   yetkili   mercilere   bildirmesin… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

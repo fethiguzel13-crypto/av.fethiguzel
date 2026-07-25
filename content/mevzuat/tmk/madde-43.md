@@ -11,7 +11,7 @@ wordCount: 4276
 - Kişisel durumdaki değişiklikler, özellikle evlilik dışı bir çocuğun tanınması veya hâkimin babalığa karar vermesi, soybağının düzeltilmesi, evlât edinme ya da bulunmuş bir çocuğun soybağının belli olması, ilgili kanun hükümlerine göre kütüğe işleni
 r. 2 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu madd esiyle, bu fıkrada yer alan “Dışişle ri Bakanlığının önerisi, İçişleri Bakanlığının katılması ve B aşbakanlığın” ibaresi “Cumhurbaşkanlığının” şeklinde değiştirilmişti
 r. 3 20/3/2018 tarihli ve 30 366 sayılı Resmî Gazete’de yayımlanan Anayasa Mahkemesinin 29/1 1/2017 tarihli ve E.: 2017/130, K.: 2017/165 sayılı Kararı i le, bu fıkranın ikinci cümlesinde yer alan “…ve üreme yeteneğinden sürekli biçimde yoksun bulunduğunu…” i baresi iptal edilmiştir.
-C. Ölüm kütüğü  I. Ölümün bildirilmesi**
+C. Ölüm kütüğü I. Ölümün bildirilmesi**
 
 ---
 
@@ -20,7 +20,6 @@ Madde 43 - Ölümlere ilişkin bildirimler ilgili kanun hükümlerine göre yap�
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 43**, «Madde 43» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Doğum kütüğünde değişiklikler Ma dde 4 2

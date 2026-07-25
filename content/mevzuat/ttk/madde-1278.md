@@ -14,13 +14,12 @@ I
 
 ---
 
-Madde 1278 - (1)   Donatan   gecikmeksizi n   dispeçi   yaptırmakla   yükümlüdür;   bu  yükümlülüğünü   yerine   getirmezse   ilgililerin   her   birine   karşı   sorumlu   olur.  (2)   Dispeç   süresinde   yaptırılmazsa,   sigortacı   da   dâhil   olmak   üzere,   ilgililerden  herhangi   biri   bunun   yapılmasını   istemeye   ve   yaptırmaya   yetkilid ir.  (3)   Dispeçin   yapılması   istemi,   olayın   müşterek   avarya   sayılmayacağı   ileri   sürülerek  dispeççi   tarafından   reddedilirse,   dispeçin   yapılmasının   gerekip   gerekmediğine,   sigortacı   da  dâhil   olmak   üzere,   ilgililerden   herhangi   birinin   başvurması   üzerine   1279   unc u   maddede   yazılı  yerdeki   mahkemece   karar   verilir.   Mahkeme   dosya   üzerinde   veya   sigortacı   da   dâhil   olmak
-üzere   ilgilileri   dinleyerek   bu   hususta   karar   verir.   Bu   hâlde   basit   yargılama   usulü   uygulanır.
+Madde 1278 - (1) Donatan gecikmeksizi n dispeçi yaptırmakla yükümlüdür; bu yükümlülüğünü yerine getirmezse ilgililerin her birine karşı sorumlu olur. (2) Dispeç süresinde yaptırılmazsa, sigortacı da dâhil olmak üzere, ilgililerden herhangi biri bunun yapılmasını istemeye ve yaptırmaya yetkilid ir. (3) Dispeçin yapılması istemi, olayın müşterek avarya sayılmayacağı ileri sürülerek dispeççi tarafından reddedilirse, dispeçin yapılmasının gerekip gerekmediğine, sigortacı da dâhil olmak üzere, ilgililerden herhangi birinin başvurması üzerine 1279 unc u maddede yazılı yerdeki mahkemece karar verilir. Mahkeme dosya üzerinde veya sigortacı da dâhil olmak
+üzere ilgilileri dinleyerek bu hususta karar verir. Bu hâlde basit yargılama usulü uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1278**, «Madde 1278» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C) Dispeç

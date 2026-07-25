@@ -12,13 +12,12 @@ I. Genel olarak**
 
 ---
 
-Madde 931 - Seri hâlinde çıkarıla n ipotekli borç senetleri ile irat senetleri hakkında,  aşağıda ki hükümler saklı kalmak kaydıyla, ipotekli borç senedi ve irat senedine ilişkin genel
+Madde 931 - Seri hâlinde çıkarıla n ipotekli borç senetleri ile irat senetleri hakkında, aşağıda ki hükümler saklı kalmak kaydıyla, ipotekli borç senedi ve irat senedine ilişkin genel
 hük ümler uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 931**, «Madde 931» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B. Seri hâlinde rehin senedi çıkarılması

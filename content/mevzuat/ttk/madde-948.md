@@ -11,12 +11,11 @@ wordCount: 4314
 
 ---
 
-Madde 948 - (1)   945   inci   maddede   yazılı   gemiler   hariç,   gemi   tasdiknamesini   veya  onun   onaylı   suretini   yahut   bayrak   şahadetnamesini   almaksızın   Türk   Bayrağı   çeken   geminin  kaptanı,   dört   aya   kadar   hapis   veya   ikiyüz   güne   kadar   adli   para   cezasıyla   cezalandırılır.  (2)   Gemi   tasdiknamesi   veya   onun   onaylı   sureti   veya   bayrak   şahadetnamesini   gemide  bulundurmayan   kaptan   iki   aya   kadar   hapis   veya   yüz   güne   kadar   adli   para   cezasıyla   cezalandırılır.
+Madde 948 - (1) 945 inci maddede yazılı gemiler hariç, gemi tasdiknamesini veya onun onaylı suretini yahut bayrak şahadetnamesini almaksızın Türk Bayrağı çeken geminin kaptanı, dört aya kadar hapis veya ikiyüz güne kadar adli para cezasıyla cezalandırılır. (2) Gemi tasdiknamesi veya onun onaylı sureti veya bayrak şahadetnamesini gemide bulundurmayan kaptan iki aya kadar hapis veya yüz güne kadar adli para cezasıyla cezalandırılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 948**, «2. T asdikname veya şahadetname almadan ve gemide bulundurmadan bayrak çekme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 948 - (1)   945   inci   maddede   yazılı   gemiler   hariç,   gemi   tasdiknamesini   veya  onun   onaylı   suretini   yahut   bayrak   şahadetnamesini   almaksızın   Türk   Bayrağı   çeken   geminin  kaptanı,   dört   aya   kadar   hapis   veya   ikiyüz   güne   kadar   adli   para   cezasıyla   cezalandırılır.  (2)   Gemi   tasdiknamesi   veya   onun   onaylı   sureti   veya   bayrak   şa… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

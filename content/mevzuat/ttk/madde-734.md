@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4316
 ---
 
-**D)   Araya   girme  I   -   Genel   hükümler**
+**D) Araya girme I - Genel hükümler**
 
 ---
 
-Madde 734 - (1)   Düzenleyen   ve   cirantalardan   veya   aval   verenlerden   her   biri,  poliçeyi   gereğinde   kabul   edecek   veya   ödeyecek   olan   bir   kişiyi   gösterebilir.  ( 2)   Poliçe,   aşağıda   yazılı   şartlar   altında,   poliçe   dolayısıyla   kendisine   başvurulması  mümkün   olan   herhangi   bir   borçlu   için   araya   giren   bir   kişi   tarafından   kabul   edilebilir   veya  ödenebilir.  (3)   Muhatap   da   dâhil   her   üçüncü   kişi   veya   poliçeyi   kabul   eden   kişi   h ariç   olmak   üzere,  poliçeden   dolayı   zaten   borçlu   olan   herkes   araya   girerek   poliçeyi   kabul   edebilir   veya   bedelini  ödeyebilir.  (4)   Araya   girmek   suretiyle   kabul   veya   ödemede   bulunan   kişi,   lehine   araya   girdiği  borçluya   durumu   iki   iş   günü   içinde   ihbar   etmek   zoru ndadır.   Bu   süreye   uymazsa   ihbarda  bulunmamış   olmasından   doğan   zarardan,   poliçe   bedelini   aşmamak   üzere   sorumlu   olur.
+Madde 734 - (1) Düzenleyen ve cirantalardan veya aval verenlerden her biri, poliçeyi gereğinde kabul edecek veya ödeyecek olan bir kişiyi gösterebilir. ( 2) Poliçe, aşağıda yazılı şartlar altında, poliçe dolayısıyla kendisine başvurulması mümkün olan herhangi bir borçlu için araya giren bir kişi tarafından kabul edilebilir veya ödenebilir. (3) Muhatap da dâhil her üçüncü kişi veya poliçeyi kabul eden kişi h ariç olmak üzere, poliçeden dolayı zaten borçlu olan herkes araya girerek poliçeyi kabul edebilir veya bedelini ödeyebilir. (4) Araya girmek suretiyle kabul veya ödemede bulunan kişi, lehine araya girdiği borçluya durumu iki iş günü içinde ihbar etmek zoru ndadır. Bu süreye uymazsa ihbarda bulunmamış olmasından doğan zarardan, poliçe bedelini aşmamak üzere sorumlu olur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 734**, «D)   Araya   girme  I   -   Genel   hükümler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 734 - (1)   Düzenleyen   ve   cirantalardan   veya   aval   verenlerden   her   biri,  poliçeyi   gereğinde   kabul   edecek   veya   ödeyecek   olan   bir   kişiyi   gösterebilir.  ( 2)   Poliçe,   aşağıda   yazılı   şartlar   altında,   poliçe   dolayısıyla   kendisine   başvurulması  mümkün   olan   herhangi   bir   borçlu   için   araya   giren   bir   kişi   tarafından   kabul   edilebi… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

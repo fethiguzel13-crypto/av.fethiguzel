@@ -11,13 +11,12 @@ wordCount: 4308
 
 ---
 
-Madde 1465 - (1)   Aynı   menfaatin,   aynı   rizikolara   karşı,   aynı   süre   için,   birden   ç ok  sigortacıya,   aynı   veya   farklı   tarihlerde   sigorta   ettirilmesi   hâlinde   sigorta   ettirene   sigorta  bedelinden   daha   fazlası   ödenmez.
-(2)   Birden   çok   sigortada,   sigorta   ettiren,   sigortacılardan   herbirine   hem   rizikonun  gerçekleştiğini   hem   de   aynı   menfaat   için   ya pılan   diğer   sigortaları   bildirir.   Bu   hükme   aykırılık  hâlinde   1446   ncı   madde   hükmü   uygulanır.  bb)   Müşterek   sigorta
+Madde 1465 - (1) Aynı menfaatin, aynı rizikolara karşı, aynı süre için, birden ç ok sigortacıya, aynı veya farklı tarihlerde sigorta ettirilmesi hâlinde sigorta ettirene sigorta bedelinden daha fazlası ödenmez.
+(2) Birden çok sigortada, sigorta ettiren, sigortacılardan herbirine hem rizikonun gerçekleştiğini hem de aynı menfaat için ya pılan diğer sigortaları bildirir. Bu hükme aykırılık hâlinde 1446 ncı madde hükmü uygulanır. bb) Müşterek sigorta
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1465**, «d) Birden çok sigorta aa) Kural» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1465 - (1)   Aynı   menfaatin,   aynı   rizikolara   karşı,   aynı   süre   için,   birden   ç ok  sigortacıya,   aynı   veya   farklı   tarihlerde   sigorta   ettirilmesi   hâlinde   sigorta   ettirene   sigorta  bedelinden   daha   fazlası   ödenmez.

@@ -11,9 +11,9 @@ wordCount: 4262
 
 ---
 
-Madde 420 - Hizmet  sözleşmelerine  sadece  işçi  aleyhine  konulan  ceza  koşulu
+Madde 420 - Hizmet sözleşmelerine sadece işçi aleyhine konulan ceza koşulu
 geçersizdir.
-İşçinin  işverenden  alacağına  ilişkin  ibra  sözleşmesinin  yazılı  olması,  ibra  tarihi
+İşçinin işverenden alacağına ilişkin ibra sözleşmesinin yazılı olması, ibra tarihi
 itibarıyla sözleşmenin sona ermesinden başlayarak en az bir aylık sürenin geçmiş bulunması,
 ibra konusu alacağın türünün ve miktarının açıkça belirtilmesi, ödemenin hak tutarına nazaran
 noksansız ve banka aracılığıyla yapılması şarttır. Bu unsurları taşımayan ibra sözleşmeleri
@@ -21,14 +21,13 @@ veya ibraname kesin olarak hükümsüzdür.
 Hakkın gerçek tutarda ödendiğini ihtiva etmeyen ibra sözleşmeleri veya ibra beyanını
 muhtevi diğer ödeme belgeleri, içerdikleri miktarla sınırlı olarak makbuz hükmündedir. Bu
 hâlde dahi, ödemelerin banka aracılığıyla yapılmış olması zorunludur.
-İkinci  ve  üçüncü  fıkra  hükümleri,  destekten  yoksun  kalanlar  ile  işçinin  diğer
+İkinci ve üçüncü fıkra hükümleri, destekten yoksun kalanlar ile işçinin diğer
 yakınlarının isteyebilecekleri dâhil, hizmet sözleşmesinden doğan bütün tazminat alacaklarına
 da uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 420**, «V. Ceza koşulu ve ibra» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 420 - Hizmet  sözleşmelerine  sadece  işçi  aleyhine  konulan  ceza  koşulu

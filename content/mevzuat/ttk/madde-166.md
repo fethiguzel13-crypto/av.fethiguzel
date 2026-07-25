@@ -12,13 +12,12 @@ a) Bölünme sözleşmesi ve bölünme planı aa) Genel olarak**
 
 ---
 
-Madde 166 - (1)   Bir   şirket,   bölünme   yoluyla,   malvarlığının   bölümlerini   var   olan  şirketlere   devredecekse,   bölünmeye   katılan   şirketlerin   yönetim   organları   tarafından   bir   bölünme  sözleşmesi   yapılır.  (2)   Bir   şirket,   bölünme   yoluyla,   malvarlığının   bölümlerini   yeni   kurulacak   şirketlere  30   Bu üst başlık “3. Bölünme belgelerini denetleme ve inceleme hakkı” iken, 26/6/2012 tarihli ve 6335  sayılı Kanunun 40 ıncı maddesiyle metne işlendiği şekilde değiştirilmişti r.
-devredecekse,   yönetim   organı   bir   bölünme   planı   düzenler.  (3)   Hem   bölünme   sözleşmesinin   hem   de   bölünme   planının   yazılı   şekilde   yapılması   ve  bunların   genel   kurul   tarafından   173   üncü   madde   hükümlerine   göre   onaylanması   şarttır.  bb)   Bölünme   sözleşmesinin   ve   bölünme   planının   içeriği
+Madde 166 - (1) Bir şirket, bölünme yoluyla, malvarlığının bölümlerini var olan şirketlere devredecekse, bölünmeye katılan şirketlerin yönetim organları tarafından bir bölünme sözleşmesi yapılır. (2) Bir şirket, bölünme yoluyla, malvarlığının bölümlerini yeni kurulacak şirketlere 30 Bu üst başlık “3. Bölünme belgelerini denetleme ve inceleme hakkı” iken, 26/6/2012 tarihli ve 6335 sayılı Kanunun 40 ıncı maddesiyle metne işlendiği şekilde değiştirilmişti r.
+devredecekse, yönetim organı bir bölünme planı düzenler. (3) Hem bölünme sözleşmesinin hem de bölünme planının yazılı şekilde yapılması ve bunların genel kurul tarafından 173 üncü madde hükümlerine göre onaylanması şarttır. bb) Bölünme sözleşmesinin ve bölünme planının içeriği
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 166**, «Madde 166» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **3. Bölünme belgelerini inceleme hakkı 30

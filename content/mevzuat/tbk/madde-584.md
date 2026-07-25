@@ -13,24 +13,23 @@ wordCount: 4263
 
 Madde 584 - Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya
 yasal olarak ayrı yaşama hakkı doğmadıkça, ancak diğerinin yazılı rızasıyla kefil olabilir; bu
-rızanın  sözleşmenin  kurulmasından  önce  ya  da  en  geç  kurulması  anında  verilmiş  olması
+rızanın sözleşmenin kurulmasından önce ya da en geç kurulması anında verilmiş olması
 şarttır.
 Kefalet sözleşmesinde sonradan yapılan ve kefilin sorumlu olacağı miktarın artmasına
 veya adi kefaletin müteselsil kefalete dönüşmesine ya da kefil yararına olan güvencelerin
 önemli ölçüde azalmasına sebep olmayan değişiklikler için eşin rızası gerekmez.
-(Ek  fıkra:  28/3/2013-6455/77  md.) Ticaret  siciline  kayıtlı  ticari  işletmenin  sahibi
-veya  ticaret  şirketinin  ortak  ya  da  yöneticisi  tarafından  işletme  veya  şirketle  ilgili  olarak
-verilecek  kefaletler, mesleki faaliyetleri ile ilgili olarak esnaf ve sanatkârlar siciline kayıtlı
+(Ek fıkra: 28/3/2013-6455/77 md.) Ticaret siciline kayıtlı ticari işletmenin sahibi
+veya ticaret şirketinin ortak ya da yöneticisi tarafından işletme veya şirketle ilgili olarak
+verilecek kefaletler, mesleki faaliyetleri ile ilgili olarak esnaf ve sanatkârlar siciline kayıtlı
 esnaf veya sanatkârlar tarafından verilecek kefaletler, 27/12/2006 tarihli ve 5570 sayılı Kamu
 Sermayeli Bankalar Tarafından Yürütülen Faiz Destekli Kredi Kullandırılmasına Dair Kanun
 kapsamında kullanılacak kredilerde verilecek kefaletler ile tarım kredi, tarım satış ve esnaf ve
-sanatkârlar  kredi  ve  kefalet  kooperatifleri  ile  kamu  kurum  ve  kuruluşlarınca  kooperatif
+sanatkârlar kredi ve kefalet kooperatifleri ile kamu kurum ve kuruluşlarınca kooperatif
 ortaklarına kullandırılacak kredilerde verilecek kefaletler için eşin rızası aranmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 584**, «III. Eşin rızası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 584 - Eşlerden biri mahkemece verilmiş bir ayrılık kararı olmadıkça veya

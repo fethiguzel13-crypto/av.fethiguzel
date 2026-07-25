@@ -11,12 +11,11 @@ wordCount: 4301
 
 ---
 
-Madde 953 - (1)   Gemi   tasdiknamesiyle   bayrak   şahadetnamesinin   nasıl   düzenleneceği,  gemi nin   adının   gemi   üzerine   nasıl   yazılacağı   ve   bu   Bölüm   hükümlerinin   uygulama   şekli  Cumhurbaşkanınca   çıkarılan   yönetmelik   ile   belirlenir.  ÜÇÜNCÜ   BÖLÜM  Gemi   Sicili  A)   Genel   hükümler  I -   Sicil   müdürlükleri   ve   bölgeleri
+Madde 953 - (1) Gemi tasdiknamesiyle bayrak şahadetnamesinin nasıl düzenleneceği, gemi nin adının gemi üzerine nasıl yazılacağı ve bu Bölüm hükümlerinin uygulama şekli Cumhurbaşkanınca çıkarılan yönetmelik ile belirlenir. ÜÇÜNCÜ BÖLÜM Gemi Sicili A) Genel hükümler I - Sicil müdürlükleri ve bölgeleri
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 953**, «E) Yönetmelik 100» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 953 - (1)   Gemi   tasdiknamesiyle   bayrak   şahadetnamesinin   nasıl   düzenleneceği,  gemi nin   adının   gemi   üzerine   nasıl   yazılacağı   ve   bu   Bölüm   hükümlerinin   uygulama   şekli  Cumhurbaşkanınca   çıkarılan   yönetmelik   ile   belirlenir.  ÜÇÜNCÜ   BÖLÜM  Gemi   Sicili  A)   Genel   hükümler  I -   Sicil   müdürlükleri   ve   bölgeleri

@@ -11,7 +11,7 @@ wordCount: 4298
 
 ---
 
-Madde 155 - Zamanaşımı  müteselsil  borçlulardan  veya  bölünemeyen  borcun
+Madde 155 - Zamanaşımı müteselsil borçlulardan veya bölünemeyen borcun
 borçlularından birine karşı kesilince, diğerlerine karşı da kesilmiş olur.
 Zamanaşımı asıl borçluya karşı kesilince, kefile karşı da kesilmiş olur.
 Zamanaşımı kefile karşı kesilince, asıl borçluya karşı kesilmiş olmaz.
@@ -19,7 +19,6 @@ Zamanaşımı kefile karşı kesilince, asıl borçluya karşı kesilmiş olmaz.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 155**, «II. Birlikte borçlulara etkisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 155 - Zamanaşımı  müteselsil  borçlulardan  veya  bölünemeyen  borcun

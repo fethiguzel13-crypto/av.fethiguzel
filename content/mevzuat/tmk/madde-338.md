@@ -13,12 +13,11 @@ IV. Üvey çocuklar**
 
 ---
 
-Madde 338 - Eşler,   ergin   olmayan   üvey   çocuklarına   da   özen   ve   ilgi   göstermekle  y ükümlüdürle r.  Ken di çocuğu üzerinde velâyeti kullanan eşe diğer eş uygun bir şekilde yardımcı olur;  durum ve koşullar zor unlu kıldığı ölçüde çocuğun ihtiyaçları için onu temsil eder.  B. Velâyetin kapsa mı  I. Genel olarak  Madde 3 39 -   Ana ve baba, çocuğun bakım ve eğit imi ko nusunda onun menfaatini göz  ö nünde tutarak gerekli kararları alır ve uygularlar.  Çocuk, ana ve babasının   sözünü dinlemekle yükü mlüdür.  Ana ve baba, olgunluğu ölçüsünde çocuğa hayatını   düzenleme olanağı tanırlar;   önemli  konularda olabildiğ ince onun d üşünce sini g öz önünde tutarlar.  Çocuk, ana ve babasının rızası dışında evi terkedemez ve yasal sebep olmaksızı n onlardan  alınamaz.  Çocuğun adını ana ve babası koyar.
+Madde 338 - Eşler, ergin olmayan üvey çocuklarına da özen ve ilgi göstermekle y ükümlüdürle r. Ken di çocuğu üzerinde velâyeti kullanan eşe diğer eş uygun bir şekilde yardımcı olur; durum ve koşullar zor unlu kıldığı ölçüde çocuğun ihtiyaçları için onu temsil eder. B. Velâyetin kapsa mı I. Genel olarak Madde 3 39 - Ana ve baba, çocuğun bakım ve eğit imi ko nusunda onun menfaatini göz ö nünde tutarak gerekli kararları alır ve uygularlar. Çocuk, ana ve babasının sözünü dinlemekle yükü mlüdür. Ana ve baba, olgunluğu ölçüsünde çocuğa hayatını düzenleme olanağı tanırlar; önemli konularda olabildiğ ince onun d üşünce sini g öz önünde tutarlar. Çocuk, ana ve babasının rızası dışında evi terkedemez ve yasal sebep olmaksızı n onlardan alınamaz. Çocuğun adını ana ve babası koyar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 338**, «Madde 338» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III. Ana ve baba evli değilse Madde 33 7

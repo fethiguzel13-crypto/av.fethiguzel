@@ -12,12 +12,11 @@ c) Sonraki sigortacının, ancak önceki sigortacının ödemediği tazminattan 
 
 ---
 
-Madde 1468 - (1)   Sigorta   olunan   menfaatin   değeri   önceki   sözleşmeyle   tamamen  teminat   altına   alınamamışsa   bu   menfaat,   geri   kala n   değerine   kadar   bir   veya   birkaç   defa   daha  sigorta   ettirilebilir.   Bu   takdirde,   o   menfaati   sonradan   sigorta   eden   sigortacılar,   bakiyeden  dolayı   sözleşmenin   yapılış   tarihleri   sırasıyla   sorumlu   olurlar.   Aynı   günde   yapılmış   olan  sözleşmeler,   aynı   anda   yapılmış   sayılır.
+Madde 1468 - (1) Sigorta olunan menfaatin değeri önceki sözleşmeyle tamamen teminat altına alınamamışsa bu menfaat, geri kala n değerine kadar bir veya birkaç defa daha sigorta ettirilebilir. Bu takdirde, o menfaati sonradan sigorta eden sigortacılar, bakiyeden dolayı sözleşmenin yapılış tarihleri sırasıyla sorumlu olurlar. Aynı günde yapılmış olan sözleşmeler, aynı anda yapılmış sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1468**, «Madde 1468» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **b) Sigorta ettiren, önceki sigortadan doğan haklarını ikinci sigortacıya devir veya o haklardan feragat etmişse; bu takdirde, devir veya feragatin ikinci sigorta poliçesine yazılması şarttır; yazılmazsa ikinci sigorta sözleşmesi geçersiz sayılır.

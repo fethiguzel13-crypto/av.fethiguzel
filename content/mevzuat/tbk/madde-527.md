@@ -12,18 +12,17 @@ wordCount: 4314
 ---
 
 Madde 527 - Vekâletsiz işgören, her türlü ihmalinden sorumludur. Ancak, işgören
-bu  işi,  işsahibinin  karşılaştığı  zararı  veya  zarar  tehlikesini  gidermek  üzere  yapmışsa,
+bu işi, işsahibinin karşılaştığı zararı veya zarar tehlikesini gidermek üzere yapmışsa,
 sorumluluğu daha hafif olarak değerlendirilir.
 
-İşgören,  işsahibinin  açıkça  veya  örtülü  olarak  yasaklamış  olmasına  karşın  bu  işi
-yapmışsa  ve  işsahibinin  yasaklaması  da  hukuka  veya  ahlaka  aykırı  değilse,  beklenmedik
+İşgören, işsahibinin açıkça veya örtülü olarak yasaklamış olmasına karşın bu işi
+yapmışsa ve işsahibinin yasaklaması da hukuka veya ahlaka aykırı değilse, beklenmedik
 hâlden de sorumlu olur. Ancak, işgören o işi yapmamış olsaydı bile, bu zararın beklenmedik
 hâl sonucunda gerçekleşeceğini ispat ederse sorumluluktan kurtulur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 527**, «II. Sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 527 - Vekâletsiz işgören, her türlü ihmalinden sorumludur. Ancak, işgören

@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4262
 ---
 
-**VASİNİN GÖREVLERİ  A. Göreve başlama  I. Defter tutma**
+**VASİNİN GÖREVLERİ A. Göreve başlama I. Defter tutma**
 
 ---
 
-Madde 438 - Vasiliğe atanma kararının ke sinleşmesi üzerine vasi ile v esayet makamının  görevlendireceği bir kişi tarafında n, vakit geçirilmeksizin, y önetilecek malvarlığının defteri tutul ur.  Ve sayet altındaki kişi ayırt etme gücüne sahipse, olanak bulunduğu takdirde defter  tutulurken hazır bulund urulur.  Koşullar gerektirdiği takdirde denetim makamı, vasi ve vesayet makamının   isteği üzerine  vesayet altı ndaki kişinin malvarlığının   resmî deft erinin   tutulmasına karar verebilir. Bu defter,  mirastaki resmî de fterin alacaklılara karşı doğurduğu sonuçları   doğurur ve oradaki usul uyarınca  tutulur.
+Madde 438 - Vasiliğe atanma kararının ke sinleşmesi üzerine vasi ile v esayet makamının görevlendireceği bir kişi tarafında n, vakit geçirilmeksizin, y önetilecek malvarlığının defteri tutul ur. Ve sayet altındaki kişi ayırt etme gücüne sahipse, olanak bulunduğu takdirde defter tutulurken hazır bulund urulur. Koşullar gerektirdiği takdirde denetim makamı, vasi ve vesayet makamının isteği üzerine vesayet altı ndaki kişinin malvarlığının resmî deft erinin tutulmasına karar verebilir. Bu defter, mirastaki resmî de fterin alacaklılara karşı doğurduğu sonuçları doğurur ve oradaki usul uyarınca tutulur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 438**, «VASİNİN GÖREVLERİ  A. Göreve başlama  I. Defter tutma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 438 - Vasiliğe atanma kararının ke sinleşmesi üzerine vasi ile v esayet makamının  görevlendireceği bir kişi tarafında n, vakit geçirilmeksizin, y önetilecek malvarlığının defteri tutul ur.  Ve sayet altındaki kişi ayırt etme gücüne sahipse, olanak bulunduğu takdirde defter  tutulurken hazır bulund urulur.  Koşullar gerektirdiği takdirde denetim makamı, vasi ve vesayet makamının   isteği üze… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

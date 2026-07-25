@@ -13,12 +13,11 @@ I
 
 ---
 
-Madde 509 - (1)   Sermaye   için   faiz   ödenemez.  (2)   Kâr   payı   ancak   net   dönem   kârından   ve   serbest   yedek   akçelerden   dağıtılabilir.  (3)   Kâr   payı   avansı,   Sermaye   Piyasası   Kanununa   tabi   olmaya n   şirketlerde,   Gümrük   ve  Ticaret   Bakanlığının   bir   tebliği   ile   düzenlenir.  72   26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “ve bununla ilgili  işlem denetçisi seçmek” ibaresi madde metninden çıkarılmıştır.
+Madde 509 - (1) Sermaye için faiz ödenemez. (2) Kâr payı ancak net dönem kârından ve serbest yedek akçelerden dağıtılabilir. (3) Kâr payı avansı, Sermaye Piyasası Kanununa tabi olmaya n şirketlerde, Gümrük ve Ticaret Bakanlığının bir tebliği ile düzenlenir. 72 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “ve bununla ilgili işlem denetçisi seçmek” ibaresi madde metninden çıkarılmıştır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 509**, «Madde 509» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Kâr payı, hazırlık dönemi faizi ve kazanç payı

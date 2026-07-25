@@ -11,12 +11,11 @@ wordCount: 4297
 
 ---
 
-Madde 972 - (1)   Bir   hususun   gemi   siciline   kaydını,   kaydın   değiştirilmesini   veya  silinmesini   istemekle   yahut   bu   işlemlerin   yapılabilmesi   için   gerekli   belgeleri   ibraz   etmekle  yükümlü   olan   kişiler,   bu   işlemleri   gerekt iren   hususları   öğrendikten   sonra   onbeş   gün   içinde  yükümlülüklerini   yerine   getirmedikleri   takdirde   haklarında   33   üncü   madde   hükmü   uygulanır.  (2)   Resen   silinmeye   ilişkin   966   ncı   madde   hükmü   saklıdır.
+Madde 972 - (1) Bir hususun gemi siciline kaydını, kaydın değiştirilmesini veya silinmesini istemekle yahut bu işlemlerin yapılabilmesi için gerekli belgeleri ibraz etmekle yükümlü olan kişiler, bu işlemleri gerekt iren hususları öğrendikten sonra onbeş gün içinde yükümlülüklerini yerine getirmedikleri takdirde haklarında 33 üncü madde hükmü uygulanır. (2) Resen silinmeye ilişkin 966 ncı madde hükmü saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 972**, «E) Sicil işlemlerini yaptırmaya davet» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 972 - (1)   Bir   hususun   gemi   siciline   kaydını,   kaydın   değiştirilmesini   veya  silinmesini   istemekle   yahut   bu   işlemlerin   yapılabilmesi   için   gerekli   belgeleri   ibraz   etmekle  yükümlü   olan   kişiler,   bu   işlemleri   gerekt iren   hususları   öğrendikten   sonra   onbeş   gün   içinde  yükümlülüklerini   yerine   getirmedikleri   takdirde   haklarında   33   … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

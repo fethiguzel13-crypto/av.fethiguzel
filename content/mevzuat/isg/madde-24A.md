@@ -1,7 +1,7 @@
 ---
 title: "İş Sağlığı ve Güvenliği Kanunu Madde 24A"
 kanun: "İş Sağlığı ve Güvenliği Kanunu"
-maddeNo: 0
+maddeNo: 24
 commentaryStatus: "completed"
 lastReviewed: "2026-07-20"
 wordCount: 4305

@@ -12,9 +12,9 @@ I. Kural**
 
 ---
 
-Madde 72 - Tazminat  istemi,  zarar  görenin  zararı  ve  tazminat  yükümlüsünü
+Madde 72 - Tazminat istemi, zarar görenin zararı ve tazminat yükümlüsünü
 öğrendiği tarihten başlayarak iki yılın ve her hâlde fiilin işlendiği tarihten başlayarak on yılın
-geçmesiyle  zamanaşımına  uğrar.  Ancak,  tazminat  ceza  kanunlarının  daha  uzun  bir
+geçmesiyle zamanaşımına uğrar. Ancak, tazminat ceza kanunlarının daha uzun bir
 zamanaşımı öngördüğü cezayı gerektiren bir fiilden doğmuşsa, bu zamanaşımı uygulanır.
 Haksız fiil dolayısıyla zarar gören bakımından bir borç doğmuşsa zarar gören, haksız
 fiilden doğan tazminat istemi zamanaşımına uğramış olsa bile, her zaman bu borcu ifadan
@@ -23,7 +23,6 @@ kaçınabilir.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 72**, «Madde 72» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Zamanaşımı

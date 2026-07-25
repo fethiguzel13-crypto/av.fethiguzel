@@ -13,12 +13,11 @@ I. Şube açmaları
 
 ---
 
-Madde 94 - Dernekler, gerekli görülen yerlerde genel kurul kararıyla şube açabili rler. Bu  amaçla dernek yönetim kurulunca yetki verilen en az üç kişilik   kurucular kurulu, şube   açıla cak  y erin en büyük mülkî amirine şube kuruluş bildirimini ve gerekli belgeleri verir.  (Mülga ikinci fıkra: 30/7/2003 - 4963/35 md.)  Şube kuruluş bildirimini n içeriği ve gerekli bel geler, yönetmelikte gösterilir.
+Madde 94 - Dernekler, gerekli görülen yerlerde genel kurul kararıyla şube açabili rler. Bu amaçla dernek yönetim kurulunca yetki verilen en az üç kişilik kurucular kurulu, şube açıla cak y erin en büyük mülkî amirine şube kuruluş bildirimini ve gerekli belgeleri verir. (Mülga ikinci fıkra: 30/7/2003 - 4963/35 md.) Şube kuruluş bildirimini n içeriği ve gerekli bel geler, yönetmelikte gösterilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 94**, «Madde 94» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **F. Derneklerin örgütlenmesi

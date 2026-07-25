@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**B)   Ka za   sigortası  I   -   Genel   olarak**
+**B) Ka za sigortası I - Genel olarak**
 
 ---
 
-Madde 1507 - (1)   Kaza   sigortası,   belli   bir   prim   karşılığında,   sigortalının   uğrayacağı  kaza   sonucu   ölüm,   geçici   veya   sürekli   engellilik   ya   da   işgöremezlik   hâlleri   için   sigorta  teminatı   sağlar.   Ölüm,   ani   olarak   veya   kaza   tarihind en   itibaren   en   çok   bir   yıl   içinde  gerçekleşmiş   ise   sigorta   bedeli   sigorta   ettirene   yahut   onun   tarafından   belirlenmiş   kişiye;   geçici  ve   sürekli   engellilik   veya   işgöremezlik   hâllerinde   ise   sigortalıya   ödenir. 106  (2)   Geçici   olarak   çalışma   gücünden   mahrum   kalan   sigortalıya,   poliçede   yazılı   süre   ile  sınırlı   olmak   üzere,   mahrumiyetin   devam   ettiği   süre   için   günlük   hesabıyla   tazminat   verilir.
+Madde 1507 - (1) Kaza sigortası, belli bir prim karşılığında, sigortalının uğrayacağı kaza sonucu ölüm, geçici veya sürekli engellilik ya da işgöremezlik hâlleri için sigorta teminatı sağlar. Ölüm, ani olarak veya kaza tarihind en itibaren en çok bir yıl içinde gerçekleşmiş ise sigorta bedeli sigorta ettirene yahut onun tarafından belirlenmiş kişiye; geçici ve sürekli engellilik veya işgöremezlik hâllerinde ise sigortalıya ödenir. 106 (2) Geçici olarak çalışma gücünden mahrum kalan sigortalıya, poliçede yazılı süre ile sınırlı olmak üzere, mahrumiyetin devam ettiği süre için günlük hesabıyla tazminat verilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1507**, «B)   Ka za   sigortası  I   -   Genel   olarak» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1507 - (1)   Kaza   sigortası,   belli   bir   prim   karşılığında,   sigortalının   uğrayacağı  kaza   sonucu   ölüm,   geçici   veya   sürekli   engellilik   ya   da   işgöremezlik   hâlleri   için   sigorta  teminatı   sağlar.   Ölüm,   ani   olarak   veya   kaza   tarihind en   itibaren   en   çok   bir   yıl   içinde  gerçekleşmiş   ise   sigorta   bedeli   sigorta   ettirene   yahut   … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

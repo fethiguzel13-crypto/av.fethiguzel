@@ -11,13 +11,12 @@ wordCount: 4265
 
 ---
 
-Madde 915 - İpo tekli borç senedi veya irat senedi düzenlenirken, gerekli ödemeleri  yapmak ve ödenecek par aları tahsil etmek, yapılacak tebliğleri almak, güvence azalmalarına rıza  göstermek   ve   genel   olarak   alac aklının,   borçlunun   ve   malikin   haklarını   tam   bir   özen   ve  tarafs ızlıkla korumak üzere bunlar tarafından bir temsilci atanabilir.  Temsilcinin adı tapu küt üğüne ve rehin senedine yazılır.  39   2/7/2018 tarihli ve 700 sayılı KHK’nin   139 uncu maddesiyle, bu   fıkrada   y er al an “tüzükle” ibaresi  “Cumhurbaşkanınca çıka rılan yönetmelikle” şeklinde d eğiştirilmiştir.
-Temsilcinin yetkisinin sona ermesi hâlinde ilgililer anlaşamazlarsa, s ulh hâkimi gerekli  önlemleri alır.
+Madde 915 - İpo tekli borç senedi veya irat senedi düzenlenirken, gerekli ödemeleri yapmak ve ödenecek par aları tahsil etmek, yapılacak tebliğleri almak, güvence azalmalarına rıza göstermek ve genel olarak alac aklının, borçlunun ve malikin haklarını tam bir özen ve tarafs ızlıkla korumak üzere bunlar tarafından bir temsilci atanabilir. Temsilcinin adı tapu küt üğüne ve rehin senedine yazılır. 39 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada y er al an “tüzükle” ibaresi “Cumhurbaşkanınca çıka rılan yönetmelikle” şeklinde d eğiştirilmiştir.
+Temsilcinin yetkisinin sona ermesi hâlinde ilgililer anlaşamazlarsa, s ulh hâkimi gerekli önlemleri alır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 915**, «b. Ortak temsilci» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 915 - İpo tekli borç senedi veya irat senedi düzenlenirken, gerekli ödemeleri  yapmak ve ödenecek par aları tahsil etmek, yapılacak tebliğleri almak, güvence azalmalarına rıza  göstermek   ve   genel   olarak   alac aklının,   borçlunun   ve   malikin   haklarını   tam   bir   özen   ve  tarafs ızlıkla korumak üzere bunlar tarafından bir temsilci atanabilir.  Temsilcinin adı tapu küt üğüne v… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

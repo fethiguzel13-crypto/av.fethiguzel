@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4314
 ---
 
-**VI   -   Makbuz  1.   Genel   olarak**
+**VI - Makbuz 1. Genel olarak**
 
 ---
 
-Madde 727 - (1)   Kendisine   başvurulan   veya   başvurulması   mümkün   olan   borçlu,  başvurma   konusu   olan   bedeli   ödeyince,   poliç e   ve   protesto   belgesinin   ayrıca   doldurulacak   bir  makbuz   ile   birlikte   kendisine   verilmesini   istemek   hakkını   haizdir.  (2)   Poliçeyi   ödemiş   olan   her   ciranta,   kendi   cirosunu   ve   kendisinden   sonra   gelen  borçluların   cirolarını   çizebilir.  2.   Kısmi   kabul   hâlinde  MA DDE   728 -   (1)   Poliçenin   kısmen   kabulünden   sonra   başvurma   hakkının  kullanılması   hâlinde,   poliçe   bedelinin   kabul   edilmeyen   kısmını   ödeyen   kişi,   ödemenin   poliçe  üzerine   yazılmasını   ve   kendisine   bu   hususta   bir   makbuz   verilmesini   isteyebilir.   Bundan   başka,  onun   sonradan   diğerlerine   karşı   başvurma   haklarını   kullanabilmesi   için,   hamil   ona   poliçenin  ve   protestonun   onaylı   birer   suretini   vermek   zorundadır.
+Madde 727 - (1) Kendisine başvurulan veya başvurulması mümkün olan borçlu, başvurma konusu olan bedeli ödeyince, poliç e ve protesto belgesinin ayrıca doldurulacak bir makbuz ile birlikte kendisine verilmesini istemek hakkını haizdir. (2) Poliçeyi ödemiş olan her ciranta, kendi cirosunu ve kendisinden sonra gelen borçluların cirolarını çizebilir. 2. Kısmi kabul hâlinde MA DDE 728 - (1) Poliçenin kısmen kabulünden sonra başvurma hakkının kullanılması hâlinde, poliçe bedelinin kabul edilmeyen kısmını ödeyen kişi, ödemenin poliçe üzerine yazılmasını ve kendisine bu hususta bir makbuz verilmesini isteyebilir. Bundan başka, onun sonradan diğerlerine karşı başvurma haklarını kullanabilmesi için, hamil ona poliçenin ve protestonun onaylı birer suretini vermek zorundadır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 727**, «VI   -   Makbuz  1.   Genel   olarak» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 727 - (1)   Kendisine   başvurulan   veya   başvurulması   mümkün   olan   borçlu,  başvurma   konusu   olan   bedeli   ödeyince,   poliç e   ve   protesto   belgesinin   ayrıca   doldurulacak   bir  makbuz   ile   birlikte   kendisine   verilmesini   istemek   hakkını   haizdir.  (2)   Poliçeyi   ödemiş   olan   her   ciranta,   kendi   cirosunu   ve   kendisinden   sonra   gelen  borçlular… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

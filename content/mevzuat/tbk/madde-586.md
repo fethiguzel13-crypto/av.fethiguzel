@@ -11,12 +11,12 @@ wordCount: 4319
 
 ---
 
-Madde 586 - Kefil,  müteselsil  kefil  sıfatıyla  veya  bu  anlama  gelen  herhangi  bir
-ifadeyle  yükümlülük  altına  girmeyi  kabul  etmişse  alacaklı,  borçluyu  takip  etmeden  veya
+Madde 586 - Kefil, müteselsil kefil sıfatıyla veya bu anlama gelen herhangi bir
+ifadeyle yükümlülük altına girmeyi kabul etmişse alacaklı, borçluyu takip etmeden veya
 taşınmaz rehnini paraya çevirmeden kefili takip edebilir. Ancak, bunun için borçlunun, ifada
 gecikmesi ve ihtarın sonuçsuz kalması veya açıkça ödeme güçsüzlüğü içinde olması gerekir.
 Alacak, teslime bağlı taşınır rehni veya alacak rehni ile güvenceye alınmışsa, rehnin
-paraya  çevrilmesinden önce kefile başvurulamaz. Ancak, alacağın  rehnin paraya  çevrilmesi
+paraya çevrilmesinden önce kefile başvurulamaz. Ancak, alacağın rehnin paraya çevrilmesi
 yoluyla tamamen karşılanamayacağının önceden hâkim tarafından belirlenmesi veya borçlunun
 iflas etmesi ya da konkordato mehli verilmesi hâllerinde, rehnin paraya çevrilmesinden önce de
 kefile başvurulabilir.
@@ -24,7 +24,6 @@ kefile başvurulabilir.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 586**, «2. Müteselsil kefalet» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 586 - Kefil,  müteselsil  kefil  sıfatıyla  veya  bu  anlama  gelen  herhangi  bir

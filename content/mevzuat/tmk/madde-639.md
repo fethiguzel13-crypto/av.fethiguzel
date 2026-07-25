@@ -11,13 +11,12 @@ wordCount: 4258
 
 ---
 
-Madde 639 - Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğunu ve  iyiniyetli   davalının   terekeyi   veya   tereke   malını   elinde   bulundurduğunu   öğrendiği   tarihten  başlayarak bir yıl ve her hâlde mirasbıra kanın ölümünün veya vasiyet namenin açılmasının  üzerinden on yıl geçmekle zamanaşımına uğrar.  İyiniyetli olmayanlara karşı zamanaşımı süresi yirmi yıldır.
-ÜÇÜNCÜ BÖLÜ M  MİRASIN PAYLAŞILMASI  BİRİNCİ AYIRIM  PAYLAŞIMDAN ÖNCE MİRAS   ORTAKLIĞI  A. Mirasın geçmesi nin sonucu  I. Miras ortaklı ğı
+Madde 639 - Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğunu ve iyiniyetli davalının terekeyi veya tereke malını elinde bulundurduğunu öğrendiği tarihten başlayarak bir yıl ve her hâlde mirasbıra kanın ölümünün veya vasiyet namenin açılmasının üzerinden on yıl geçmekle zamanaşımına uğrar. İyiniyetli olmayanlara karşı zamanaşımı süresi yirmi yıldır.
+ÜÇÜNCÜ BÖLÜ M MİRASIN PAYLAŞILMASI BİRİNCİ AYIRIM PAYLAŞIMDAN ÖNCE MİRAS ORTAKLIĞI A. Mirasın geçmesi nin sonucu I. Miras ortaklı ğı
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 639**, «Madde 639» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 639 - Miras sebebiyle istihkak davası, davacının kendisinin mirasçı olduğunu ve  iyiniyetli   davalının   terekeyi   veya   tereke   malını   elinde   bulundurduğunu   öğrendiği   tarihten  başlayarak bir yıl ve her hâlde mirasbıra kanın ölümünün veya vasiyet namenin açılmasının  üzerinden on yıl geçmekle zamanaşımına uğrar.  İyiniyetli olmayanlara karşı zamanaşımı süresi yirmi yıldır.

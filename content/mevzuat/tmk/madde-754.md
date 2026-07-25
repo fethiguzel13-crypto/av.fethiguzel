@@ -12,12 +12,11 @@ wordCount: 4265
 
 ---
 
-Madde 754 - Taşınmaz mülkiyeti ha kkının kamu yararı için kısıtlanması, özellikle yapı,  yangın, doğal afetler ve sağlıkla ilgili kolluk hi zmetlerine; orman ve yollara, deniz ve göl  kıyılarındaki   ana   v e   tali   yollara   sınır   işaretleri   ve   nirengi   noktaları   konu lmasına;   toprağın  iyileştirilme si ne veya bölünmesine, tarım topraklarının veya yapıya özgü arsaların birleştirilmesine;  eski eserler, doğ al güzellikler, manzaralar, seyirlik noktaları ve ender doğa a nıtları ile içmeler,  ılıcalar,   maden   ve   kaynak   sularının   korunmasına   ilişkin   mülkiyet   kısı tlamaları,   özel   kanun  hükümlerine tâbidir.
+Madde 754 - Taşınmaz mülkiyeti ha kkının kamu yararı için kısıtlanması, özellikle yapı, yangın, doğal afetler ve sağlıkla ilgili kolluk hi zmetlerine; orman ve yollara, deniz ve göl kıyılarındaki ana v e tali yollara sınır işaretleri ve nirengi noktaları konu lmasına; toprağın iyileştirilme si ne veya bölünmesine, tarım topraklarının veya yapıya özgü arsaların birleştirilmesine; eski eserler, doğ al güzellikler, manzaralar, seyirlik noktaları ve ender doğa a nıtları ile içmeler, ılıcalar, maden ve kaynak sularının korunmasına ilişkin mülkiyet kısı tlamaları, özel kanun hükümlerine tâbidir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 754**, «Madde 754» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **V. Kamu hukuku kısıtlamaları

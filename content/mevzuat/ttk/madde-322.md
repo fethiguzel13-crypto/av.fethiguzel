@@ -13,12 +13,11 @@ wordCount: 4316
 
 ---
 
-Madde 322 - (1)   Komanditer,   koymayı   taahhüt   ettiği   sermaye   borcunun   henüz  ödemediği   tuta rına   kadar   şirket   alacaklılarına   karşı   sorumludur.   Bu   suretle   kendisine  başvurulan   komanditer   ortak,   şirket   alacaklısına   ödemede   bulunduğu   tutarda   sermaye  borcundan   kurtulur.   Şirket   alacaklıları,   şirket   sona   ermiş   olmadıkça   veya   şirket   aleyhine  yapılan   icr a   takibi   semeresiz   kalmadıkça,   komanditere   başvuramazlar.  (2)   Şirketin   iflası   hâlinde   alacaklıların   haiz   oldukları   haklar   iflas   masasına   geçer.  (3)   Komanditer,   şirkete   koymayı   taahhüt   ettiği   sermayeyi   aşan   bir   tutar   ile  sorumluluğu   üzerine   aldığını   yazı   il e   bildirmiş   veya   ilan   etmişse   üçüncü   kişilere   veya  bildirimin   muhatabına   karşı   bu   tutar   kadar   sorumlu   olur.
+Madde 322 - (1) Komanditer, koymayı taahhüt ettiği sermaye borcunun henüz ödemediği tuta rına kadar şirket alacaklılarına karşı sorumludur. Bu suretle kendisine başvurulan komanditer ortak, şirket alacaklısına ödemede bulunduğu tutarda sermaye borcundan kurtulur. Şirket alacaklıları, şirket sona ermiş olmadıkça veya şirket aleyhine yapılan icr a takibi semeresiz kalmadıkça, komanditere başvuramazlar. (2) Şirketin iflası hâlinde alacaklıların haiz oldukları haklar iflas masasına geçer. (3) Komanditer, şirkete koymayı taahhüt ettiği sermayeyi aşan bir tutar ile sorumluluğu üzerine aldığını yazı il e bildirmiş veya ilan etmişse üçüncü kişilere veya bildirimin muhatabına karşı bu tutar kadar sorumlu olur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 322**, «Madde 322» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

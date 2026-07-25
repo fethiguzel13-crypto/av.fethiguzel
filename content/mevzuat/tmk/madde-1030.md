@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**Bu Kanun 1 Ocak 2002 tarihinde yürürlüğe girer.  Yürütme**
+**Bu Kanun 1 Ocak 2002 tarihinde yürürlüğe girer. Yürütme**
 
 ---
 
-Madde 1030 - Bu Kanu n hükümlerini Bakanlar Kurulu yürütür.  22/11/2001 TARİHLİ VE 4721 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLE R  1 -   2/1/2003 tarihli ve 4778 sayılı Kanunun hükmüdür:
+Madde 1030 - Bu Kanu n hükümlerini Bakanlar Kurulu yürütür. 22/11/2001 TARİHLİ VE 4721 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLE R 1 - 2/1/2003 tarihli ve 4778 sayılı Kanunun hükmüdür:
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 1030**, «Bu Kanun 1 Ocak 2002 tarihinde yürürlüğe girer.  Yürütme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1030 - Bu Kanu n hükümlerini Bakanlar Kurulu yürütür.  22/11/2001 TARİHLİ VE 4721 SAYILI KANUNA İŞLENEMEYEN HÜKÜMLE R  1 -   2/1/2003 tarihli ve 4778 sayılı Kanunun hükmüdür:

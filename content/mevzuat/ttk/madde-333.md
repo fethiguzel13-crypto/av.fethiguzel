@@ -13,12 +13,11 @@ wordCount: 4304
 
 ---
 
-Madde 333 - (1)   Gümrük   ve   Ticaret   Bakanlığınca   yayımlanacak   tebliğle,   faaliyet  alanları   belirlenip,   ilan   edilecek   anonim   şirketler   Gümrük   ve   Ticaret   Bakanlığının   izni   ile  kurulur .   Bu   şirketlerin   esas   sözleşme   değişiklikleri   de   aynı   Bakanlığın   iznine   bağlıdır.  Bakanlık   incelemesi   sadece   kanunun   emredici   hükümlerine   aykırılık   bulunup   bulunmadığı  yönünden   yapılabilir.   Bunun   dışında   hukuki   konumu,   niteliği   ve   işletme   konusu   ne   olursa  olsun   anonim   şirketin   kuruluşu   ve   esas   sözleşme   değişiklikleri   herhangi   bir   makamın   iznine  bağlanamaz.
+Madde 333 - (1) Gümrük ve Ticaret Bakanlığınca yayımlanacak tebliğle, faaliyet alanları belirlenip, ilan edilecek anonim şirketler Gümrük ve Ticaret Bakanlığının izni ile kurulur . Bu şirketlerin esas sözleşme değişiklikleri de aynı Bakanlığın iznine bağlıdır. Bakanlık incelemesi sadece kanunun emredici hükümlerine aykırılık bulunup bulunmadığı yönünden yapılabilir. Bunun dışında hukuki konumu, niteliği ve işletme konusu ne olursa olsun anonim şirketin kuruluşu ve esas sözleşme değişiklikleri herhangi bir makamın iznine bağlanamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 333**, «Madde 333» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **V

@@ -12,13 +12,12 @@ wordCount: 4299
 
 ---
 
-Madde 1086 - (1)   Donatma   iştirakinin   feshi   yahut   geminin   devri   kararlaştırılmışsa,
-gemi   açık   artırmayla   satılır   ve   iştirak   tasfiye   olunur.   Geminin   tamir   kabul   etmez   veya   tamire  değmez   bir   hâlde   bulunduğu   mahkeme   kararıyla   saptanmadıkça   satış,   ancak   gemi,   bağlama  limanında   veya   bir   Türk   limanında   bulunup   da   yerine   getirmekle   yükümlü   olduğu   bir   navlun  sözleşmesiyle   henüz   bağlı   bulunmadığı   bir   sırada   yapılabilir.   Satış   şekli   ve   şartları,   paydaş  donatanların   oybirliğiyle   değiştirilebilir.  (2)   Satış   şekli   ve   şartları   veya   tasfiye   memurunun   atanması   hususunda   paydaş  donatanların   uzlaşamamaları   veya   feshe   mahkemece   karar   verilmiş   olması   hâlinde,   mahkeme  gemiyi   satmak   ve   iştiraki   tasfiye   etmek   üzere   bir   tasfiye   memuru   atar.   Bu   memurun   hakları,  görevleri   ve   sorumluluğu   hakkında   kollektif   şirket   tasfiye   memurları   h akkındaki   hükümler  kıyas   yoluyla   uygulanır.
+Madde 1086 - (1) Donatma iştirakinin feshi yahut geminin devri kararlaştırılmışsa,
+gemi açık artırmayla satılır ve iştirak tasfiye olunur. Geminin tamir kabul etmez veya tamire değmez bir hâlde bulunduğu mahkeme kararıyla saptanmadıkça satış, ancak gemi, bağlama limanında veya bir Türk limanında bulunup da yerine getirmekle yükümlü olduğu bir navlun sözleşmesiyle henüz bağlı bulunmadığı bir sırada yapılabilir. Satış şekli ve şartları, paydaş donatanların oybirliğiyle değiştirilebilir. (2) Satış şekli ve şartları veya tasfiye memurunun atanması hususunda paydaş donatanların uzlaşamamaları veya feshe mahkemece karar verilmiş olması hâlinde, mahkeme gemiyi satmak ve iştiraki tasfiye etmek üzere bir tasfiye memuru atar. Bu memurun hakları, görevleri ve sorumluluğu hakkında kollektif şirket tasfiye memurları h akkındaki hükümler kıyas yoluyla uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1086**, «Madde 1086» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **XI

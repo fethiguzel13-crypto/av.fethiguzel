@@ -12,7 +12,7 @@ wordCount: 4261
 
 ---
 
-Madde 417 - İşveren,  hizmet  ilişkisinde  işçinin  kişiliğini  korumak  ve  saygı
+Madde 417 - İşveren, hizmet ilişkisinde işçinin kişiliğini korumak ve saygı
 göstermek ve işyerinde dürüstlük ilkelerine uygun bir düzeni sağlamakla, özellikle işçilerin
 psikolojik ve cinsel tacize uğramamaları ve bu tür tacizlere uğramış olanların daha fazla zarar
 görmemeleri için gerekli önlemleri almakla yükümlüdür.
@@ -20,13 +20,12 @@ görmemeleri için gerekli önlemleri almakla yükümlüdür.
 almak, araç ve gereçleri noksansız bulundurmak; işçiler de iş sağlığı ve güvenliği konusunda
 alınan her türlü önleme uymakla yükümlüdür.
 İşverenin yukarıdaki hükümler dâhil, kanuna ve sözleşmeye aykırı davranışı nedeniyle
-işçinin  ölümü,  vücut  bütünlüğünün  zedelenmesi  veya  kişilik  haklarının  ihlaline  bağlı
+işçinin ölümü, vücut bütünlüğünün zedelenmesi veya kişilik haklarının ihlaline bağlı
 zararların tazmini, sözleşmeye aykırılıktan doğan sorumluluk hükümlerine tabidir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 417**, «Madde 417» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV. İşçinin kişiliğinin korunması

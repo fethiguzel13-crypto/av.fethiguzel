@@ -12,12 +12,11 @@ wordCount: 4299
 
 ---
 
-Madde 1400 - (1)   Hapis   hakkıyla   teminat   altına   alınan   alacak,   bir   ilama   veya   ilam  niteliğindeki   belgeye   dayanmıyorsa,   alacaklı,   defterin   tutulmasından   başlayarak   onbeş   gün  içinde   taşınır   r ehninin   paraya   çevrilmesi   yoluyla   ilamsız   takip   yapar.   Borçlu,   alacağa   veya  hapis   hakkına   veya   her   ikisine   birden   itiraz   edebilir.   Bu   itiraz   hakkında   İcra   ve   İflas  Kanununun   147   nci   maddesi   uygulanır.  ALTINCI   KİTAP  Sigorta   Hukuku  BİRİNCİ   KISIM  Genel   Hükü mler  A)   Sigorta   sözleşmesi  I   -   Temel   kavramlar  1.   Tanım
+Madde 1400 - (1) Hapis hakkıyla teminat altına alınan alacak, bir ilama veya ilam niteliğindeki belgeye dayanmıyorsa, alacaklı, defterin tutulmasından başlayarak onbeş gün içinde taşınır r ehninin paraya çevrilmesi yoluyla ilamsız takip yapar. Borçlu, alacağa veya hapis hakkına veya her ikisine birden itiraz edebilir. Bu itiraz hakkında İcra ve İflas Kanununun 147 nci maddesi uygulanır. ALTINCI KİTAP Sigorta Hukuku BİRİNCİ KISIM Genel Hükü mler A) Sigorta sözleşmesi I - Temel kavramlar 1. Tanım
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1400**, «Madde 1400» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

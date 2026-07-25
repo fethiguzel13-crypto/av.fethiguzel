@@ -13,12 +13,11 @@ I
 
 ---
 
-Madde 708 - (1)   Belirli   bir   günde   veya   düzenlenme   gününden   ya   da   görüldükten  belirli   bir   süre   sonra   ödenecek   bir   poliçenin   hamili,   poliçeyi   ödeme   gününde   veya   onu   izleyen  iki   iş   günü   içinde   ödenmek   üzere   ibraz   etmelidir.  (2)   Poliçenin   bir   takas   odasına   ibrazı,   ödeme   için   ibraz   yerine   geçer.
+Madde 708 - (1) Belirli bir günde veya düzenlenme gününden ya da görüldükten belirli bir süre sonra ödenecek bir poliçenin hamili, poliçeyi ödeme gününde veya onu izleyen iki iş günü içinde ödenmek üzere ibraz etmelidir. (2) Poliçenin bir takas odasına ibrazı, ödeme için ibraz yerine geçer.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 708**, «Madde 708» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Ödeme

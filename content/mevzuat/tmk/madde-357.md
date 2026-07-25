@@ -12,13 +12,12 @@ I. Kazandırmalar**
 
 ---
 
-Madde 357 - Ana ve baba, faiz ge tiren yatırım veya tasarruf   hesabı açılmak üzere ya da  açıkça ana   ve ba banın kullanmaması koşuluyla çocuğa yapılan kazandırmaların   gelirlerini kendi  menfaatlerine sarfedemezle r.  Kazandırmada bulunan kişi, kazandırma sırasında açıkça aksini öngörmedikçe, a na ve  baba bunlar üzerinde   yönetim hakkına sahiptir.  II. Saklı p ay  Mad de 358 -   Ölüme bağlı tasarruf yoluyla çocuğun saklı payı ana ve babanın yönetimi
-dışında bırakılabilir.  M irasbırakan yönetimi bir üçüncü kişiye bırakmışsa, tasarrufunda bu kişinin belirl i  zamanlarda sulh hâkimine   hesap vermesini öngörebilir.
+Madde 357 - Ana ve baba, faiz ge tiren yatırım veya tasarruf hesabı açılmak üzere ya da açıkça ana ve ba banın kullanmaması koşuluyla çocuğa yapılan kazandırmaların gelirlerini kendi menfaatlerine sarfedemezle r. Kazandırmada bulunan kişi, kazandırma sırasında açıkça aksini öngörmedikçe, a na ve baba bunlar üzerinde yönetim hakkına sahiptir. II. Saklı p ay Mad de 358 - Ölüme bağlı tasarruf yoluyla çocuğun saklı payı ana ve babanın yönetimi
+dışında bırakılabilir. M irasbırakan yönetimi bir üçüncü kişiye bırakmışsa, tasarrufunda bu kişinin belirl i zamanlarda sulh hâkimine hesap vermesini öngörebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 357**, «Madde 357» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **E. Çocuğun serbest malları

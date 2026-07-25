@@ -12,12 +12,11 @@ wordCount: 4318
 
 ---
 
-Madde 35 - (1)   Te scil   işleminin   dayanakları   olan   dilekçe,   beyanname,   senetler,  belgeler   ve   ilanları   içeren   gazeteler,   üzerlerine   sicil   defterinin   tarih   ve   numaraları   yazılarak  sicil   müdürlüğünce   saklanır.  (2)   Herkes   ticaret   sicilinin   içeriğini   ve   müdürlükte   saklanan   tüm   se net   ve   belgeleri  inceleyebileceği   gibi   giderini   ödeyerek   bunların   onaylı   suretlerini   de   alabilir.   Bir   hususun  sicilde   kayıtlı   olup   olmadığına   dair   onaylı   belge   de   istenebilir.  (3)   Tescil   edilen   hususlar,   kanun   veya   Kanunun   26   ncı   maddesine   göre   çıkarılacak  yönetmelikte   aksine   bir   hüküm   bulunmadıkça   ilan   olunur. 17  (4)   İlan,   Türkiye   genelinde   sicil   kayıtlarının   ilanına   özgü   Türkiye   Ticaret   Sicili   Gazetesi  ile   yapılır.
+Madde 35 - (1) Te scil işleminin dayanakları olan dilekçe, beyanname, senetler, belgeler ve ilanları içeren gazeteler, üzerlerine sicil defterinin tarih ve numaraları yazılarak sicil müdürlüğünce saklanır. (2) Herkes ticaret sicilinin içeriğini ve müdürlükte saklanan tüm se net ve belgeleri inceleyebileceği gibi giderini ödeyerek bunların onaylı suretlerini de alabilir. Bir hususun sicilde kayıtlı olup olmadığına dair onaylı belge de istenebilir. (3) Tescil edilen hususlar, kanun veya Kanunun 26 ncı maddesine göre çıkarılacak yönetmelikte aksine bir hüküm bulunmadıkça ilan olunur. 17 (4) İlan, Türkiye genelinde sicil kayıtlarının ilanına özgü Türkiye Ticaret Sicili Gazetesi ile yapılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 35**, «Madde 35» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

@@ -13,13 +13,12 @@ I
 
 ---
 
-Madde 482 - (1)   Sermaye   koyma   borcunu   süresi   içinde   yerine   getirmeyen   pay  sahibi,   ihtara   gerek   olmaksızın,   temerrüt   faizi   ödemekle   yükümlüdür.  (2)   Ayrıca,   yönetim   kurulu,   mütemerrit   pay   sahibini,   iştirak   taahhüdünden   ve   yaptığı  kısmi   öd emelerden   doğan   haklarından   yoksun   bırakmaya   ve   söz   konusu   payı   satıp   yerine  başkasını   almaya   ve   kendisine   verilmiş   pay   senedi   varsa,   bunları   iptal   etmeye   yetkilidir.   İptal  edilen   pay   senetleri   ele   geçirilemiyorsa   iptal   kararı   35   inci   maddede   yazılı   gazete de   ve   ayrıca  esas   sözleşmenin   öngördüğü   şekilde   ilan   olunur.
-(3)   Esas   sözleşmeyle,   pay   sahipleri,   temerrüt   hâlinde,   sözleşme   cezası   ödemekle  zorunlu   tutulabilirler.  (4)   Şirketin   tazminat   hakları   saklıdır.
+Madde 482 - (1) Sermaye koyma borcunu süresi içinde yerine getirmeyen pay sahibi, ihtara gerek olmaksızın, temerrüt faizi ödemekle yükümlüdür. (2) Ayrıca, yönetim kurulu, mütemerrit pay sahibini, iştirak taahhüdünden ve yaptığı kısmi öd emelerden doğan haklarından yoksun bırakmaya ve söz konusu payı satıp yerine başkasını almaya ve kendisine verilmiş pay senedi varsa, bunları iptal etmeye yetkilidir. İptal edilen pay senetleri ele geçirilemiyorsa iptal kararı 35 inci maddede yazılı gazete de ve ayrıca esas sözleşmenin öngördüğü şekilde ilan olunur.
+(3) Esas sözleşmeyle, pay sahipleri, temerrüt hâlinde, sözleşme cezası ödemekle zorunlu tutulabilirler. (4) Şirketin tazminat hakları saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 482**, «Madde 482» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C) Te merrüt

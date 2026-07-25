@@ -11,12 +11,11 @@ wordCount: 4315
 
 ---
 
-Madde 568 - Mirasbırakan, tahmin edilen devam sürelerine göre sermayeye çe vrilmeleri  hâlinde tasarruf edilebilir kısmı aşan intifa hakkı veya irat borcu ile terekes ini yükümlü kılarsa,  mirasç ıları, intifa hakkının veya irat borcunun tenkisini ya da tasarruf edilebilir kısmı vererek bu  yükümlülüğün kaldırılmasını isteyebilirler.
+Madde 568 - Mirasbırakan, tahmin edilen devam sürelerine göre sermayeye çe vrilmeleri hâlinde tasarruf edilebilir kısmı aşan intifa hakkı veya irat borcu ile terekes ini yükümlü kılarsa, mirasç ıları, intifa hakkının veya irat borcunun tenkisini ya da tasarruf edilebilir kısmı vererek bu yükümlülüğün kaldırılmasını isteyebilirler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 568**, «5. İntifa hakkı veya irat bakımından» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 568 - Mirasbırakan, tahmin edilen devam sürelerine göre sermayeye çe vrilmeleri  hâlinde tasarruf edilebilir kısmı aşan intifa hakkı veya irat borcu ile terekes ini yükümlü kılarsa,  mirasç ıları, intifa hakkının veya irat borcunun tenkisini ya da tasarruf edilebilir kısmı vererek bu  yükümlülüğün kaldırılmasını isteyebilirler.

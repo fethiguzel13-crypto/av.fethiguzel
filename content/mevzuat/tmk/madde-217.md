@@ -11,13 +11,12 @@ wordCount: 4261
 
 ---
 
-Madde 217 - Mal rejimi, eşler arasındaki borçların muacce l olm asını önlemez. Bununla  beraber bir borcun yerine getirilmesi, borçlu eşi evlilik birliğini tehlikeye düşürec ek derecede  önemli güçlüklere sokacaksa, bu eş ödeme için süre isteyebilir. Durum ve koşullar gerektiriyorsa ,  hâkim istemde bulunan eşi güvence   göst ermekle yükümlü tutar.
-İKİNCİ AYIRIM  EDİNİLMİŞ MALLARA KATILMA  A. Mülkiyet  I. Kapsamı
+Madde 217 - Mal rejimi, eşler arasındaki borçların muacce l olm asını önlemez. Bununla beraber bir borcun yerine getirilmesi, borçlu eşi evlilik birliğini tehlikeye düşürec ek derecede önemli güçlüklere sokacaksa, bu eş ödeme için süre isteyebilir. Durum ve koşullar gerektiriyorsa , hâkim istemde bulunan eşi güvence göst ermekle yükümlü tutar.
+İKİNCİ AYIRIM EDİNİLMİŞ MALLARA KATILMA A. Mülkiyet I. Kapsamı
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 217**, «H. Eşler arasındaki borçlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 217 - Mal rejimi, eşler arasındaki borçların muacce l olm asını önlemez. Bununla  beraber bir borcun yerine getirilmesi, borçlu eşi evlilik birliğini tehlikeye düşürec ek derecede  önemli güçlüklere sokacaksa, bu eş ödeme için süre isteyebilir. Durum ve koşullar gerektiriyorsa ,  hâkim istemde bulunan eşi güvence   göst ermekle yükümlü tutar.

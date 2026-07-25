@@ -12,12 +12,11 @@ wordCount: 4265
 
 ---
 
-Madde 883 - Alacak son a erince ipotekli taşınmazın maliki, alacaklıdan ipoteği terkin  ettirmesini isteyebilir.  (Ek fıkra:4/7/2 019 - 7181/19 md.)   İpotek süreli olarak kurulmuşsa, sürenin biti minden  itibaren otuz gün içinde ipotekli taşınmaz üzerinde   9/6/1932   tarihli ve 2004 sayılı   İcra ve İflas  Kanununun 150/c maddesinde belirtilen şerhin konulmaması hâlinde ipotek, malikin talebiyl e  tapu müdürlüğünce terkin edilir.
+Madde 883 - Alacak son a erince ipotekli taşınmazın maliki, alacaklıdan ipoteği terkin ettirmesini isteyebilir. (Ek fıkra:4/7/2 019 - 7181/19 md.) İpotek süreli olarak kurulmuşsa, sürenin biti minden itibaren otuz gün içinde ipotekli taşınmaz üzerinde 9/6/1932 tarihli ve 2004 sayılı İcra ve İflas Kanununun 150/c maddesinde belirtilen şerhin konulmaması hâlinde ipotek, malikin talebiyl e tapu müdürlüğünce terkin edilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 883**, «Madde 883» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Sona erme

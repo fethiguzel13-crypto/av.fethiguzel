@@ -12,12 +12,11 @@ a. Tenkise tâbi kazandırmalar**
 
 ---
 
-Madde 565 - A şağıdaki karşılıksız kazand ırmalar, ölüme bağlı tasarruflar gibi tenkise  tâbidir:  1. Mirasbırakanın, mirasçılık sıfatını kaybeden yasal mirasçıya miras payına mahsube n  yapmış olduğu sağlararası kazandırmalar,   geri verilmemek kaydıyla altsoyuna malvarlığı d evri  veya borçtan kurtarma   yoluyla yaptığı kazandırmalar ya da alışılmışın dışında verilen çeyiz ve  kuruluş sermayesi,  2. Miras haklarının ölümden önce tasfiyesi maks adıyla yapılan kazandırmalar,  3.   Mirasbırakanın   serbestçe   dönme   hakkını   saklı   tutarak   yapt ığı   bağışlamalar   ve  ölümünd en önceki bir yıl içinde âdet üzere verilen hediyeler dışında yapmış olduğu bağışlamalar,  4.   Mirasbırakanın   saklı   pay   kurallarını   etkisiz   k ılmak   amacıyla   yaptığı   açık   olan  kazandırmalar.
+Madde 565 - A şağıdaki karşılıksız kazand ırmalar, ölüme bağlı tasarruflar gibi tenkise tâbidir: 1. Mirasbırakanın, mirasçılık sıfatını kaybeden yasal mirasçıya miras payına mahsube n yapmış olduğu sağlararası kazandırmalar, geri verilmemek kaydıyla altsoyuna malvarlığı d evri veya borçtan kurtarma yoluyla yaptığı kazandırmalar ya da alışılmışın dışında verilen çeyiz ve kuruluş sermayesi, 2. Miras haklarının ölümden önce tasfiyesi maks adıyla yapılan kazandırmalar, 3. Mirasbırakanın serbestçe dönme hakkını saklı tutarak yapt ığı bağışlamalar ve ölümünd en önceki bir yıl içinde âdet üzere verilen hediyeler dışında yapmış olduğu bağışlamalar, 4. Mirasbırakanın saklı pay kurallarını etkisiz k ılmak amacıyla yaptığı açık olan kazandırmalar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 565**, «Madde 565» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **3. Sağlararası kazandırmalar

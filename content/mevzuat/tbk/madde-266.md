@@ -11,20 +11,19 @@ wordCount: 4259
 
 ---
 
-Madde 266 - Alıcı  satış  bedelinin  tamamını  ödedikten  sonra,  her  zaman  malın
-kendisine  devredilmesini isteyebilir. Ancak, satıcı malı başkasından sağlayarak devredecek
+Madde 266 - Alıcı satış bedelinin tamamını ödedikten sonra, her zaman malın
+kendisine devredilmesini isteyebilir. Ancak, satıcı malı başkasından sağlayarak devredecek
 ise alıcı, bunun için kendisine uygun bir süre tanımak zorundadır.
 Satıcının malı alıcıya devredebilmesi için, taksitle satışa ilişkin koşullara uyulması gerekir.
 Alıcı birden çok şey satın almış veya seçim hakkını saklı tutmuş ise, satılanın kısım
-kısım  devredilmesini,  ancak  256  ncı  maddede  öngörülen  asgari  peşinatı  ödedikten  sonra
-isteyebilir.  Satılanın  eşya  topluluğu  oluşturduğu  hâllerde  bu  istemde  bulunulamaz.  Satış
-bedelinin  tamamen  ödenmemesi  hâlinde,  satıcıdan  satılanı  kısmen  devretmesi,  ancak  geri
+kısım devredilmesini, ancak 256 ncı maddede öngörülen asgari peşinatı ödedikten sonra
+isteyebilir. Satılanın eşya topluluğu oluşturduğu hâllerde bu istemde bulunulamaz. Satış
+bedelinin tamamen ödenmemesi hâlinde, satıcıdan satılanı kısmen devretmesi, ancak geri
 kalan kısmın yüzde onunun kendisine güvence olarak bırakılması koşuluyla istenebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 266**, «b. Alıcının malın devrini isteme hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 266 - Alıcı  satış  bedelinin  tamamını  ödedikten  sonra,  her  zaman  malın

@@ -11,12 +11,11 @@ wordCount: 4271
 
 ---
 
-Madde 426 - Vesayet makamı, aşağıda yazılı olan veya kanunda gösterilen diğer   hâllerde  ilgilisinin isteğ i üzerine veya re'sen temsi l kayyımı a tar:  1 . Ergin bir kişi, hastalığı, başka bir yerde bulunması veya benzeri bir sebeple ivedi bir  işini kendisi   görebilecek veya bir temsilci atayabilecek durumda değilse,  2. Bir işte yasal tem silcinin menfaati ile küçüğ ün veya kısıtlının menfaati   çatışıyors a,  3.   Yasal temsilcinin görevini yerine getirmesine bir engel varsa.
+Madde 426 - Vesayet makamı, aşağıda yazılı olan veya kanunda gösterilen diğer hâllerde ilgilisinin isteğ i üzerine veya re'sen temsi l kayyımı a tar: 1 . Ergin bir kişi, hastalığı, başka bir yerde bulunması veya benzeri bir sebeple ivedi bir işini kendisi görebilecek veya bir temsilci atayabilecek durumda değilse, 2. Bir işte yasal tem silcinin menfaati ile küçüğ ün veya kısıtlının menfaati çatışıyors a, 3. Yasal temsilcinin görevini yerine getirmesine bir engel varsa.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 426**, «Madde 426» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 426 - Vesayet makamı, aşağıda yazılı olan veya kanunda gösterilen diğer   hâllerde  ilgilisinin isteğ i üzerine veya re'sen temsi l kayyımı a tar:  1 . Ergin bir kişi, hastalığı, başka bir yerde bulunması veya benzeri bir sebeple ivedi bir  işini kendisi   görebilecek veya bir temsilci atayabilecek durumda değilse,  2. Bir işte yasal tem silcinin menfaati ile küçüğ ün veya kısıtlının menfaat… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

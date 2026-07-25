@@ -11,13 +11,12 @@ wordCount: 4268
 
 ---
 
-Madde 776 - Birden çok kişinin taşınır malları önemli bir zarara uğratılm adan veya aşırı  bir emek ve para harcanmadan ayrılmayacak şekilde birbiriyle birleşmiş veya karışmışsa o  kişiler, yeni şey üzerinde kendi taşınırlarının birleşme veya   karışma zamanındaki değerleri
-oranında paylı mülkiyete sahip olurlar.  Bir taşınır diğer b ir taşınırla onun ikincil nitelikte bütünleyici parçası olacak şekilde  karışır veya birleşirse; eşyanın   tamamı, ana parçanın malikine ait olur.  Tazminat ve sebepsiz   zenginleşmeden doğan istem hakları saklıdır.
+Madde 776 - Birden çok kişinin taşınır malları önemli bir zarara uğratılm adan veya aşırı bir emek ve para harcanmadan ayrılmayacak şekilde birbiriyle birleşmiş veya karışmışsa o kişiler, yeni şey üzerinde kendi taşınırlarının birleşme veya karışma zamanındaki değerleri
+oranında paylı mülkiyete sahip olurlar. Bir taşınır diğer b ir taşınırla onun ikincil nitelikte bütünleyici parçası olacak şekilde karışır veya birleşirse; eşyanın tamamı, ana parçanın malikine ait olur. Tazminat ve sebepsiz zenginleşmeden doğan istem hakları saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 776**, «VI. Ka rışma ve birleşme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 776 - Birden çok kişinin taşınır malları önemli bir zarara uğratılm adan veya aşırı  bir emek ve para harcanmadan ayrılmayacak şekilde birbiriyle birleşmiş veya karışmışsa o  kişiler, yeni şey üzerinde kendi taşınırlarının birleşme veya   karışma zamanındaki değerleri

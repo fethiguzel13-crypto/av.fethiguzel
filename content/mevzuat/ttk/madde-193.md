@@ -11,13 +11,12 @@ wordCount: 4310
 
 ---
 
-Madde 193 - (1)   Birleşme,   bölünme   veya   tür   değiştirme   işlemlerine   herhangi   bir
-şekilde   katılmış   bulunan   bütün   kişiler   şirketlere,   ortaklara   ve   alacaklılara   karşı   kusurları   ile  verdikleri   zararlardan   sorumludurlar.   Kurucuların   sorumlulukları   saklıdır.  (2)   (Mülga:   26/6/2012 - 6335/43   md.)  (3)   202   ilâ   208,   555,   557,   560   ıncı   madde   hükümleri   saklıdır.   Bir   sermaye   şirketinin  veya   kooperatifin   iflası   hâlinde   556   ve   570   inci   maddeler   ile   Kooperatifler   Kanununun   98   inci  maddesi   kıyas   yoluyla   uygulanır.
+Madde 193 - (1) Birleşme, bölünme veya tür değiştirme işlemlerine herhangi bir
+şekilde katılmış bulunan bütün kişiler şirketlere, ortaklara ve alacaklılara karşı kusurları ile verdikleri zararlardan sorumludurlar. Kurucuların sorumlulukları saklıdır. (2) (Mülga: 26/6/2012 - 6335/43 md.) (3) 202 ilâ 208, 555, 557, 560 ıncı madde hükümleri saklıdır. Bir sermaye şirketinin veya kooperatifin iflası hâlinde 556 ve 570 inci maddeler ile Kooperatifler Kanununun 98 inci maddesi kıyas yoluyla uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 193**, «3. Sorumluluk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 193 - (1)   Birleşme,   bölünme   veya   tür   değiştirme   işlemlerine   herhangi   bir

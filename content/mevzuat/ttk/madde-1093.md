@@ -12,12 +12,11 @@ wordCount: 4300
 
 ---
 
-Madde 1093 - (1)   Kaptan,   gemi   kalkmaya   hazır   olunca,   elverişli   ilk   fırsatta   yola  çıkmak   zorundadır.  (2)   Kaptan,   hastalık   veya   diğ er   bir   sebepten   dolayı   gemiyi   yönetemeyecek   durumda  olsa   bile,   geminin   kalkmasını   veya   yolculuğun   devamını,   uygun   görülemeyecek   bir   şekilde  geciktiremez.   Böyle   bir   durumda   kaptan,   durumun   gereklerine   göre   donatandan   talimat   alması  mümkünse,   vakit   geçirmede n   ona   engelleri   bildirip   talimat   gelinceye   kadar   gereken   önlemleri  almak;   aksi   takdirde   yerine   başka   bir   kişiyi   kaptan   olarak   bırakmak   zorundadır.   Kaptan,  seçiminde   kusurlu   olmadıkça,   kendisine   vekâlet   eden   kaptanın   fiillerinden   dolayı   sorumlu  tutulamaz.
+Madde 1093 - (1) Kaptan, gemi kalkmaya hazır olunca, elverişli ilk fırsatta yola çıkmak zorundadır. (2) Kaptan, hastalık veya diğ er bir sebepten dolayı gemiyi yönetemeyecek durumda olsa bile, geminin kalkmasını veya yolculuğun devamını, uygun görülemeyecek bir şekilde geciktiremez. Böyle bir durumda kaptan, durumun gereklerine göre donatandan talimat alması mümkünse, vakit geçirmede n ona engelleri bildirip talimat gelinceye kadar gereken önlemleri almak; aksi takdirde yerine başka bir kişiyi kaptan olarak bırakmak zorundadır. Kaptan, seçiminde kusurlu olmadıkça, kendisine vekâlet eden kaptanın fiillerinden dolayı sorumlu tutulamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1093**, «Madde 1093» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

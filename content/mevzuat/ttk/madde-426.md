@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4306
 ---
 
-**2.   Şirkete   karşı   yetkili   olma**
+**2. Şirkete karşı yetkili olma**
 
 ---
 
-Madde 426 - (1)   Senede   bağlanmamış   paylardan,   nama   yazılı   pay   senetlerinden   ve  ilmühaberlerden   doğan   pay   sahipliği   hakları,   pay   defterinde   kayıtlı   bulunan   pay   sahibi   veya  pay   sahibince,   yazılı   olarak   yetkilendirilmiş   kişi   tarafın dan   kullanılır.  (2)   Hamiline   yazılı   pay   senedinin   zilyedi   bulunduğunu   ispat   eden   ve   Merkezi   Kayıt  Kuruluşuna   bildirilen   kimse,   şirkete   karşı   pay   sahipliğinden   doğan   hakları   kullanmaya  yetkilidir. 63  3.   Pay   sahibinin   temsili  a)   Genel   olarak
+Madde 426 - (1) Senede bağlanmamış paylardan, nama yazılı pay senetlerinden ve ilmühaberlerden doğan pay sahipliği hakları, pay defterinde kayıtlı bulunan pay sahibi veya pay sahibince, yazılı olarak yetkilendirilmiş kişi tarafın dan kullanılır. (2) Hamiline yazılı pay senedinin zilyedi bulunduğunu ispat eden ve Merkezi Kayıt Kuruluşuna bildirilen kimse, şirkete karşı pay sahipliğinden doğan hakları kullanmaya yetkilidir. 63 3. Pay sahibinin temsili a) Genel olarak
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 426**, «2.   Şirkete   karşı   yetkili   olma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 426 - (1)   Senede   bağlanmamış   paylardan,   nama   yazılı   pay   senetlerinden   ve  ilmühaberlerden   doğan   pay   sahipliği   hakları,   pay   defterinde   kayıtlı   bulunan   pay   sahibi   veya  pay   sahibince,   yazılı   olarak   yetkilendirilmiş   kişi   tarafın dan   kullanılır.  (2)   Hamiline   yazılı   pay   senedinin   zilyedi   bulunduğunu   ispat   eden   ve   Merkezi   K… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

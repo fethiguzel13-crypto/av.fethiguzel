@@ -11,12 +11,11 @@ wordCount: 4319
 
 ---
 
-Madde 976 - Fiilî hâkimiyetin geçici ni telikteki sebeplerle kullanılmaması veya kullanma  olanağının o rtadan kalkması zilyetliği sona erdirmez.  B. Zilyetliğin devri  I. Hazırlar arasında  Madd e 977 -   Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların, edinene  teslimi veya edinenin   önceki zilyedin rızasıyla şey üzerinde hâkimiyeti kullanacak   duruma  gelmesi hâlinde devredilmiş olur.
+Madde 976 - Fiilî hâkimiyetin geçici ni telikteki sebeplerle kullanılmaması veya kullanma olanağının o rtadan kalkması zilyetliği sona erdirmez. B. Zilyetliğin devri I. Hazırlar arasında Madd e 977 - Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların, edinene teslimi veya edinenin önceki zilyedin rızasıyla şey üzerinde hâkimiyeti kullanacak duruma gelmesi hâlinde devredilmiş olur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 976**, «III. Geçici olarak kesilme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 976 - Fiilî hâkimiyetin geçici ni telikteki sebeplerle kullanılmaması veya kullanma  olanağının o rtadan kalkması zilyetliği sona erdirmez.  B. Zilyetliğin devri  I. Hazırlar arasında  Madd e 977 -   Zilyetlik, şeyin veya şey üzerinde hâkimiyeti sağlayacak araçların, edinene  teslimi veya edinenin   önceki zilyedin rızasıyla şey üzerinde hâkimiyeti kullanacak   duruma  gelmesi hâlinde devred… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

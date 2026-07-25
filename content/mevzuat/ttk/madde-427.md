@@ -11,12 +11,11 @@ wordCount: 4317
 
 ---
 
-Madde 427 - (1)   Ka tılma   haklarını   temsilci   olarak   kullanan   kişi,   temsil   edilenin  talimatına   uyar.   Talimata   aykırılık,   oyu   geçersiz   kılmaz.   Temsil   edilenin   temsilciye   karşı  hakları   saklıdır.  (2)   Hamiline   yazılı   pay   senedini,   rehin,   hapis   hakkı,   saklama   sözleşmesi   veya   kullan ım  ödüncü   sözleşmesi   ve   benzeri   sözleşmeler   sebebiyle   elde   bulunduran   kimse,   pay   sahipliği  haklarını,   ancak   pay   sahibi   tarafından   özel   bir   yazılı   belge   ile   yetkilendirilmişse   kullanabilir.
+Madde 427 - (1) Ka tılma haklarını temsilci olarak kullanan kişi, temsil edilenin talimatına uyar. Talimata aykırılık, oyu geçersiz kılmaz. Temsil edilenin temsilciye karşı hakları saklıdır. (2) Hamiline yazılı pay senedini, rehin, hapis hakkı, saklama sözleşmesi veya kullan ım ödüncü sözleşmesi ve benzeri sözleşmeler sebebiyle elde bulunduran kimse, pay sahipliği haklarını, ancak pay sahibi tarafından özel bir yazılı belge ile yetkilendirilmişse kullanabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 427**, «Madde 427» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 427 - (1)   Ka tılma   haklarını   temsilci   olarak   kullanan   kişi,   temsil   edilenin  talimatına   uyar.   Talimata   aykırılık,   oyu   geçersiz   kılmaz.   Temsil   edilenin   temsilciye   karşı  hakları   saklıdır.  (2)   Hamiline   yazılı   pay   senedini,   rehin,   hapis   hakkı,   saklama   sözleşmesi   veya   kullan ım  ödüncü   sözleşmesi   ve   benzeri   sözleşmeler   sebebi… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

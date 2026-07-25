@@ -12,12 +12,11 @@ a. Vasinin rızası**
 
 ---
 
-Madde 451 - Ayırt etme gücüne sahip olan vesa yet al tındaki kişi, vasinin açık v eya örtülü  izni veya sonraki onamasıyla yükümlülük altına girebilir veya bir   haktan vazgeçebilir.  Yapılan işlem diğer tarafın belirlediği veya başvurusu üzer ine hâkimin belirleyeceği  u ygun bir süre içinde onanma zsa, diğer   taraf   bununla bağlı olmaktan kurtulur.
+Madde 451 - Ayırt etme gücüne sahip olan vesa yet al tındaki kişi, vasinin açık v eya örtülü izni veya sonraki onamasıyla yükümlülük altına girebilir veya bir haktan vazgeçebilir. Yapılan işlem diğer tarafın belirlediği veya başvurusu üzer ine hâkimin belirleyeceği u ygun bir süre içinde onanma zsa, diğer taraf bununla bağlı olmaktan kurtulur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 451**, «Madde 451» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **4. Vesayet altındaki kişinin yapabileceği işl er

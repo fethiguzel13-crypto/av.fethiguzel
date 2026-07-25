@@ -12,12 +12,11 @@ wordCount: 4270
 
 ---
 
-Madde 239 - Katılma alacağı ve değer artış payı ayın veya para olarak ödenebilir . Aynî  ödemede malların sürüm değeri esas alınır; bir mesleğin icrası na ayrılmış birimler ile işletmelerin  ekonomik bütünlüğü gözetilir.  Katılm a ala cağının ve değer artış payının derhâl ödenmesi kendisi için ciddî güçlükler  doğuracaksa, borçlu eş ödemeleri nin uygun bir süre ertelenmesini isteyebilir.  Aksine anlaşma yoksa, tasfiyenin sona ermesinden başlayarak katılma alacağına ve değer  artış payı na fa iz yürütülür; durum ve koşullar gerektiriyorsa ayrıca borçludan güvence istenebilir.
+Madde 239 - Katılma alacağı ve değer artış payı ayın veya para olarak ödenebilir . Aynî ödemede malların sürüm değeri esas alınır; bir mesleğin icrası na ayrılmış birimler ile işletmelerin ekonomik bütünlüğü gözetilir. Katılm a ala cağının ve değer artış payının derhâl ödenmesi kendisi için ciddî güçlükler doğuracaksa, borçlu eş ödemeleri nin uygun bir süre ertelenmesini isteyebilir. Aksine anlaşma yoksa, tasfiyenin sona ermesinden başlayarak katılma alacağına ve değer artış payı na fa iz yürütülür; durum ve koşullar gerektiriyorsa ayrıca borçludan güvence istenebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 239**, «Madde 239» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VI. Katılma alacağının ve değer artış payının ödenm esi

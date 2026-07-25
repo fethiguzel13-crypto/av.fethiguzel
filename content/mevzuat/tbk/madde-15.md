@@ -13,16 +13,15 @@ wordCount: 4261
 
 Madde 15 - İmzanın, borç altına girenin el yazısıyla atılması zorunludur. Güvenli
 elektronik imza da, el yazısıyla atılmış imzanın bütün hukuki sonuçlarını doğurur.
-İmzanın  el  yazısı  dışında  bir  araçla  atılması,  ancak  örf  ve  âdetçe  kabul  edilen
+İmzanın el yazısı dışında bir araçla atılması, ancak örf ve âdetçe kabul edilen
 durumlarda ve özellikle çok sayıda çıkarılan kıymetli evrakın imzalanmasında yeterli sayılır.
-(Değişik  fıkra:  13/2/2011-6111/213   md.) Görme  engellilerin   talepleri   halinde
+(Değişik fıkra: 13/2/2011-6111/213 md.) Görme engellilerin talepleri halinde
 imzalarında şahit aranır. Aksi takdirde görme engellilerin imzalarını el yazısı ile atmaları
 yeterlidir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 15**, «c. İmza» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 15 - İmzanın, borç altına girenin el yazısıyla atılması zorunludur. Güvenli

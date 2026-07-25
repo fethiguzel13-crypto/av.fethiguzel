@@ -11,20 +11,19 @@ wordCount: 4262
 
 ---
 
-Madde 425 - İşveren,  yıllık  ücretli  iznini  kullanan  her  işçiye,  yıllık  ücretli  izin
+Madde 425 - İşveren, yıllık ücretli iznini kullanan her işçiye, yıllık ücretli izin
 süresine ilişkin ücretini, ilgili işçinin izne başlamasından önce peşin olarak ödemek veya
 avans olarak vermekle yükümlüdür.
 İşçi, hizmet ilişkisi devam ettiği sürece, işverenden alacağı para ve başka menfaatler
 karşılığında yıllık ücretli izin hakkından feragat edemez.
 Hizmet sözleşmesinin herhangi bir sebeple sona ermesi hâlinde, işçinin hak kazanıp da
-kullanamadığı  yıllık  izin  sürelerine  ait  ücreti,  sözleşmenin  sona  erdiği  tarihteki  ücreti
-üzerinden  kendisine  veya  hak  sahiplerine  ödenir.  Bu  ücrete  ilişkin  zamanaşımı, hizmet
+kullanamadığı yıllık izin sürelerine ait ücreti, sözleşmenin sona erdiği tarihteki ücreti
+üzerinden kendisine veya hak sahiplerine ödenir. Bu ücrete ilişkin zamanaşımı, hizmet
 sözleşmesinin sona erdiği tarihte işlemeye başlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 425**, «d. Ücreti» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 425 - İşveren,  yıllık  ücretli  iznini  kullanan  her  işçiye,  yıllık  ücretli  izin

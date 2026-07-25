@@ -12,20 +12,19 @@ wordCount: 4305
 ---
 
 Madde 438 - İşveren, haklı sebep olmaksızın hizmet sözleşmesini derhâl feshederse
-işçi,  belirsiz  süreli  sözleşmelerde,  fesih  bildirim  süresine;  belirli  süreli  sözleşmelerde  ise,
-sözleşme  süresine  uyulmaması  durumunda,  bu  sürelere  uyulmuş  olsaydı kazanabileceği
+işçi, belirsiz süreli sözleşmelerde, fesih bildirim süresine; belirli süreli sözleşmelerde ise,
+sözleşme süresine uyulmaması durumunda, bu sürelere uyulmuş olsaydı kazanabileceği
 miktarı, tazminat olarak isteyebilir.
-Belirli  süreli  hizmet  sözleşmesinde  işçinin  hizmet  sözleşmesinin  sona  ermesi
-yüzünden  tasarruf  ettiği  miktar  ile  başka  bir  işten  elde  ettiği  veya  bilerek  elde  etmekten
+Belirli süreli hizmet sözleşmesinde işçinin hizmet sözleşmesinin sona ermesi
+yüzünden tasarruf ettiği miktar ile başka bir işten elde ettiği veya bilerek elde etmekten
 kaçındığı gelir, tazminattan indirilir.
-Hâkim,  bütün  durum  ve  koşulları  göz  önünde  tutarak,  ayrıca  miktarını  serbestçe
+Hâkim, bütün durum ve koşulları göz önünde tutarak, ayrıca miktarını serbestçe
 belirleyeceği bir tazminatın işçiye ödenmesine karar verebilir; ancak belirlenecek tazminat
 miktarı, işçinin altı aylık ücretinden fazla olamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 438**, «b. Haklı sebebe dayanmayan fesihte» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 438 - İşveren, haklı sebep olmaksızın hizmet sözleşmesini derhâl feshederse

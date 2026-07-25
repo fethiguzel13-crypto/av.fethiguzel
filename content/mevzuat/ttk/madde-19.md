@@ -17,12 +17,11 @@ keywords:
 
 ---
 
-Madde 19 - (1)   Bir   tacirin   borçlarının   ticari   olması   asıldır.   Ancak,   gerçek   kişi   olan  bir   tacir,   işlemi   yaptığı   anda   bunun   ticari   işletmesiyle   ilgili   olmadığını   diğer   tarafa   açıkça  bildirdiği   veya   işin   ticari   sayılmasın a   durum   elverişli   olmadığı   takdirde   borç   adi   sayılır.  (2)   Taraflardan   yalnız   biri   için   ticari   iş   niteliğinde   olan   sözleşmeler,   Kanunda   aksine  hüküm   bulunmadıkça,   diğeri   için   de   ticari   iş   sayılır.
+Madde 19 - (1) Bir tacirin borçlarının ticari olması asıldır. Ancak, gerçek kişi olan bir tacir, işlemi yaptığı anda bunun ticari işletmesiyle ilgili olmadığını diğer tarafa açıkça bildirdiği veya işin ticari sayılmasın a durum elverişli olmadığı takdirde borç adi sayılır. (2) Taraflardan yalnız biri için ticari iş niteliğinde olan sözleşmeler, Kanunda aksine hüküm bulunmadıkça, diğeri için de ticari iş sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Ticaret Kanunu'nun (TTK) 19. maddesi, kanunun **Birinci Kısım — Ticari İşletme / Birinci Bölüm — Tacir** sistematiği içinde, m. 18'in (tacir olmanın hükümleri) doğrudan devamı olarak yer alır ve **ticari iş karinesi** kavramını düzenleyen, ticaret hukukunda en pratik öneme sahip hükümlerden biridir.

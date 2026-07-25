@@ -11,12 +11,11 @@ wordCount: 4304
 
 ---
 
-Madde 441 - Vesayet altın daki kişinin k endisi veya malvarlığının yönetimi için gerekli  olmayan paralar, fa iz getirmek üzere, vesayet   makamı tarafından belirlenen millî bir   banka ya  yatırılır veya Hazine tarafından çıkarılan menkul kıymet lere çevrilir.  Paranın yatırılmasını bir ayda n fazla geciktiren vasi, faiz   kaybını ödemekle yükümlüdür.
+Madde 441 - Vesayet altın daki kişinin k endisi veya malvarlığının yönetimi için gerekli olmayan paralar, fa iz getirmek üzere, vesayet makamı tarafından belirlenen millî bir banka ya yatırılır veya Hazine tarafından çıkarılan menkul kıymet lere çevrilir. Paranın yatırılmasını bir ayda n fazla geciktiren vasi, faiz kaybını ödemekle yükümlüdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 441**, «IV. Paraların yatırılması 1.Yatırma zorunluluğu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 441 - Vesayet altın daki kişinin k endisi veya malvarlığının yönetimi için gerekli  olmayan paralar, fa iz getirmek üzere, vesayet   makamı tarafından belirlenen millî bir   banka ya  yatırılır veya Hazine tarafından çıkarılan menkul kıymet lere çevrilir.  Paranın yatırılmasını bir ayda n fazla geciktiren vasi, faiz   kaybını ödemekle yükümlüdür.

@@ -11,13 +11,12 @@ wordCount: 4315
 
 ---
 
-Madde 139 - (1)   Sermayesiyle   kanuni   yedek   akçeleri   toplamının   yarısı   zararlarla  kaybolan   veya   borca   batık   durumda   bulunan   bir   şirket,   kaybolan   sermayeyi   veya   gerekiyorsa  borca   batıklık   durumunu   karşılayabilecek   tutarda   serbestçe,   tasarruf   edilebilen   özvarlığa   sahip  bulunan   bir   şirket   ile   birleşebilir.  (2)   (Değişik:   26/6/2012 - 6335/11   md.)   Birinci   fıkradaki   şartın   ger çekleşmiş   olduğunu
-ispatlayan   belgelerin,   devralan   şirketin   merkezinin   bulunduğu   yerin   ticaret   sicili   müdürlüğüne  sunulması   şarttır.
+Madde 139 - (1) Sermayesiyle kanuni yedek akçeleri toplamının yarısı zararlarla kaybolan veya borca batık durumda bulunan bir şirket, kaybolan sermayeyi veya gerekiyorsa borca batıklık durumunu karşılayabilecek tutarda serbestçe, tasarruf edilebilen özvarlığa sahip bulunan bir şirket ile birleşebilir. (2) (Değişik: 26/6/2012 - 6335/11 md.) Birinci fıkradaki şartın ger çekleşmiş olduğunu
+ispatlayan belgelerin, devralan şirketin merkezinin bulunduğu yerin ticaret sicili müdürlüğüne sunulması şarttır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 139**, «d) Sermayenin kaybı veya borca batıklık hâlinde birleşmeye katılma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 139 - (1)   Sermayesiyle   kanuni   yedek   akçeleri   toplamının   yarısı   zararlarla  kaybolan   veya   borca   batık   durumda   bulunan   bir   şirket,   kaybolan   sermayeyi   veya   gerekiyorsa  borca   batıklık   durumunu   karşılayabilecek   tutarda   serbestçe,   tasarruf   edilebilen   özvarlığa   sahip  bulunan   bir   şirket   ile   birleşebilir.  (2)   (Değişik:   26/6/2012 - 6… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

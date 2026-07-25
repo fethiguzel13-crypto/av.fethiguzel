@@ -12,12 +12,11 @@ wordCount: 4299
 
 ---
 
-Madde 1340 - (1)   1992   tarihli   Sorumluluk   Sö zleşmesinin   I   inci   maddesinin   altıncı  paragrafının   (a)   bendinde   tanımlanan   bir   “kirlenme   zararı”;  a)   Aynı   Sözleşmenin   II   nci   maddesinin   (a)   bendinde   belirlenen   yerlerin   dışında  meydana   gelmişse,  b)   Aynı   Sözleşmeye   taraf   olan   bir   ülkenin   bayrağını   taşıyan   b ir   gemiden  kaynaklanmışsa,  c)   Türkiye’de   dava   yoluyla   ileri   sürülmüşse,  Milletlerarası   Özel   Hukuk   ve   Usul   Hukuku   Hakkında   Kanun   uyarınca   uygulanacak  yabancı   hukukun,   1992   tarihli   Sorumluluk   Sözleşmesine   aykırı   olan   hükümleri   uygulanmaz.  Böyle   bir   hâlde,   19 92   tarihli   Sorumluluk   Sözleşmesi   doğrudan   geçerli   olur.
+Madde 1340 - (1) 1992 tarihli Sorumluluk Sö zleşmesinin I inci maddesinin altıncı paragrafının (a) bendinde tanımlanan bir “kirlenme zararı”; a) Aynı Sözleşmenin II nci maddesinin (a) bendinde belirlenen yerlerin dışında meydana gelmişse, b) Aynı Sözleşmeye taraf olan bir ülkenin bayrağını taşıyan b ir gemiden kaynaklanmışsa, c) Türkiye’de dava yoluyla ileri sürülmüşse, Milletlerarası Özel Hukuk ve Usul Hukuku Hakkında Kanun uyarınca uygulanacak yabancı hukukun, 1992 tarihli Sorumluluk Sözleşmesine aykırı olan hükümleri uygulanmaz. Böyle bir hâlde, 19 92 tarihli Sorumluluk Sözleşmesi doğrudan geçerli olur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1340**, «Madde 1340» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **V

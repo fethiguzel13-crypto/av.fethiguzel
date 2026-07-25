@@ -11,12 +11,11 @@ wordCount: 4266
 
 ---
 
-Madde 742 - Taşınmaz maliki, üst taraf taki araziden kendi arazisine doğal olarak akan  suların ve özellikle yağmur, kar ve tutulmamış kaynak su larının akışına katlanmak zorundadır.  Komşulardan hiçbiri bu   suların akışını diğerinin zararına değiştiremez.  Üstteki arazi maliki, alt taraftaki taşı nmaza gerekli olan suyu, ancak kendi taşınmazı için  zorunlu olduğu ölçüde tutabilir.
+Madde 742 - Taşınmaz maliki, üst taraf taki araziden kendi arazisine doğal olarak akan suların ve özellikle yağmur, kar ve tutulmamış kaynak su larının akışına katlanmak zorundadır. Komşulardan hiçbiri bu suların akışını diğerinin zararına değiştiremez. Üstteki arazi maliki, alt taraftaki taşı nmaza gerekli olan suyu, ancak kendi taşınmazı için zorunlu olduğu ölçüde tutabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 742**, «4. Doğal olarak akan su» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 742 - Taşınmaz maliki, üst taraf taki araziden kendi arazisine doğal olarak akan  suların ve özellikle yağmur, kar ve tutulmamış kaynak su larının akışına katlanmak zorundadır.  Komşulardan hiçbiri bu   suların akışını diğerinin zararına değiştiremez.  Üstteki arazi maliki, alt taraftaki taşı nmaza gerekli olan suyu, ancak kendi taşınmazı için  zorunlu olduğu ölçüde tutabilir.

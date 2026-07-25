@@ -12,13 +12,12 @@ wordCount: 4298
 
 ---
 
-Madde 1190 - (1)   Taşıyanın   sorumluluktan   kurtulması   hâlleri   ile   sorumluluk  sınırlandırılmasına   ilişkin   hükümler,   navlun   sözleşmesine   konu   olan   eşyanın   zıya,   hasar   veya  geç   teslimi   yüzün den,   taşıyan   aleyhine,   haksız   fiile   veya   diğer   bir   sebebe   dayanılarak   açılacak
-bütün   davalarda   uygulanır.  (2)   Böyle   bir   dava,   taşıyanın   adamlarından   biri   aleyhine   açılırsa,   görevi   veya   yetkisi  sınırları   içinde   hareket   ettiğini   ispat   etmek   kaydıyla,   o   da,   t aşıyanın   sorumluluktan   kurtulması  hâlleri   ile   sorumluluğu   sınırlandırma   hakkından   yararlanabilir.  (3)   Taşıyan   ile   onun   adamlarından   istenebilecek   olan   tazminat   miktarlarının   toplamı,  1187   nci   madde   hükmü   saklı   kalmak   kaydıyla,   1186   ncı   maddede   öngörülen   so rumluluk  sınırını   aşamaz.
+Madde 1190 - (1) Taşıyanın sorumluluktan kurtulması hâlleri ile sorumluluk sınırlandırılmasına ilişkin hükümler, navlun sözleşmesine konu olan eşyanın zıya, hasar veya geç teslimi yüzün den, taşıyan aleyhine, haksız fiile veya diğer bir sebebe dayanılarak açılacak
+bütün davalarda uygulanır. (2) Böyle bir dava, taşıyanın adamlarından biri aleyhine açılırsa, görevi veya yetkisi sınırları içinde hareket ettiğini ispat etmek kaydıyla, o da, t aşıyanın sorumluluktan kurtulması hâlleri ile sorumluluğu sınırlandırma hakkından yararlanabilir. (3) Taşıyan ile onun adamlarından istenebilecek olan tazminat miktarlarının toplamı, 1187 nci madde hükmü saklı kalmak kaydıyla, 1186 ncı maddede öngörülen so rumluluk sınırını aşamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1190**, «Madde 1190» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VIII

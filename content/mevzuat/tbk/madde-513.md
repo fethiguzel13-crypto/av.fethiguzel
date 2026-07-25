@@ -11,7 +11,7 @@ wordCount: 4259
 
 ---
 
-Madde 513 - Sözleşmeden  veya  işin  niteliğinden  aksi  anlaşılmadıkça  sözleşme,
+Madde 513 - Sözleşmeden veya işin niteliğinden aksi anlaşılmadıkça sözleşme,
 vekilin veya vekâlet verenin ölümü, ehliyetini kaybetmesi ya da iflası ile kendiliğinden sona
 ermiş olur. Bu hüküm, taraflardan birinin tüzel kişi olması durumunda, bu tüzel kişiliğin sona
 ermesinde de uygulanır.
@@ -22,7 +22,6 @@ vekil veya mirasçısı ya da temsilcisi, vekâleti ifaya devam etmekle yüküml
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 513**, «2. Ölüm, ehliyetin kaybedilmesi ve iflas» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 513 - Sözleşmeden  veya  işin  niteliğinden  aksi  anlaşılmadıkça  sözleşme,

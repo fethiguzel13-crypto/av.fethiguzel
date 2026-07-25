@@ -14,12 +14,11 @@ I. Genel olarak**
 
 ---
 
-Madde 195 - Evlilik birliğinden doğan yükümlülüklerin   yeri ne getirilmemesi veya evlilik  birliğine ilişkin önemli bir konuda uyuşmazlığa düşülmesi hâlinde, eşler ayrı   ayrı veya birlikte  hâkimin müdahalesini isteyebilirler.  Hâkim, eşleri yükümlülükleri konusunda uyarır; onları uzlaştırmaya çalışır ve eşlerin  o rtak   rızası ile uzman kişilerin yardımını isteyebilir.  Hâkim, gerektiği takdirde eşlerden birinin istemi üzerine   kanunda öngörülen önlemleri alır.  16   6/2/2014 tarihli ve 6518 sayılı Kan unun 44 üncü maddesiyle bu fıkrada yer alan “şerhin verilmesini”  iba resinden sonra gelmek üzere   “tapu müdürlüğünden” ibaresi eklenmiştir.
+Madde 195 - Evlilik birliğinden doğan yükümlülüklerin yeri ne getirilmemesi veya evlilik birliğine ilişkin önemli bir konuda uyuşmazlığa düşülmesi hâlinde, eşler ayrı ayrı veya birlikte hâkimin müdahalesini isteyebilirler. Hâkim, eşleri yükümlülükleri konusunda uyarır; onları uzlaştırmaya çalışır ve eşlerin o rtak rızası ile uzman kişilerin yardımını isteyebilir. Hâkim, gerektiği takdirde eşlerden birinin istemi üzerine kanunda öngörülen önlemleri alır. 16 6/2/2014 tarihli ve 6518 sayılı Kan unun 44 üncü maddesiyle bu fıkrada yer alan “şerhin verilmesini” iba resinden sonra gelmek üzere “tapu müdürlüğünden” ibaresi eklenmiştir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 195**, «Madde 195» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Aile kon utu M adde 194

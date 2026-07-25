@@ -11,12 +11,11 @@ wordCount: 4319
 
 ---
 
-Madde 377 - (Değişik:   28/2/2018 - 7101/62   md.)  (1)   Yönetim   kurulu   veya   herhangi   bir   alacaklı,   376   ncı   maddenin   üçüncü   fıkrası  uyarınca   yapacağı   iflâs   talebiyle   birlikte   veya   bu   kapsamda   yapılan   iflâs   yargılaması   sırasında  2004   sayılı   Kanunun   285   inci   ve   devamı   maddeleri   uyarınca   konkordato   da   talep   edebilir.
+Madde 377 - (Değişik: 28/2/2018 - 7101/62 md.) (1) Yönetim kurulu veya herhangi bir alacaklı, 376 ncı maddenin üçüncü fıkrası uyarınca yapacağı iflâs talebiyle birlikte veya bu kapsamda yapılan iflâs yargılaması sırasında 2004 sayılı Kanunun 285 inci ve devamı maddeleri uyarınca konkordato da talep edebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 377**, «b) Konkordato 51» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 377 - (Değişik:   28/2/2018 - 7101/62   md.)  (1)   Yönetim   kurulu   veya   herhangi   bir   alacaklı,   376   ncı   maddenin   üçüncü   fıkrası  uyarınca   yapacağı   iflâs   talebiyle   birlikte   veya   bu   kapsamda   yapılan   iflâs   yargılaması   sırasında  2004   sayılı   Kanunun   285   inci   ve   devamı   maddeleri   uyarınca   konkordato   da   talep   edebilir.

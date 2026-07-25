@@ -11,12 +11,11 @@ wordCount: 4269
 
 ---
 
-Madde 594 - Mirasbırakanın mirasçısı bulunup bulunmadığı veya   mirasçıların tamamı  bilinmi yorsa, sulh hâkimi uygun araçlarla ve bir ay ara ile iki defa ilân yapıp hak sahiplerini son  ilândan başlayarak en geç bir yıl içinde miras çılık sıfatlarını bildirmeye çağırır.  İlân süresinde kimse başvurmazsa ve sulh hâkimi de h içbir mirasçı tespit edemem işse,  miras sebebiyle istihkak davası açma hakkı saklı kalmak üzere miras Devlete geçer.
+Madde 594 - Mirasbırakanın mirasçısı bulunup bulunmadığı veya mirasçıların tamamı bilinmi yorsa, sulh hâkimi uygun araçlarla ve bir ay ara ile iki defa ilân yapıp hak sahiplerini son ilândan başlayarak en geç bir yıl içinde miras çılık sıfatlarını bildirmeye çağırır. İlân süresinde kimse başvurmazsa ve sulh hâkimi de h içbir mirasçı tespit edemem işse, miras sebebiyle istihkak davası açma hakkı saklı kalmak üzere miras Devlete geçer.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 594**, «Madde 594» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 594 - Mirasbırakanın mirasçısı bulunup bulunmadığı veya   mirasçıların tamamı  bilinmi yorsa, sulh hâkimi uygun araçlarla ve bir ay ara ile iki defa ilân yapıp hak sahiplerini son  ilândan başlayarak en geç bir yıl içinde miras çılık sıfatlarını bildirmeye çağırır.  İlân süresinde kimse başvurmazsa ve sulh hâkimi de h içbir mirasçı tespit edemem işse,  miras sebebiyle istihkak davası açma ha… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

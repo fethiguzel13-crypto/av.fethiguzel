@@ -11,12 +11,11 @@ wordCount: 4264
 
 ---
 
-Madde 395 - Malik sağlığında yurda son verebilir.  Bunun için malik, tapu küt üğündeki kaydı sildirmek üzere bir dil ekçeyl e mahkemeye  başvurur; bu istem mahkemece ilân olunur.  İlân tarihinden başlayarak iki ay içinde bir itira z yapılmaz veya yapılan itirazın haksızlığı  anlaşı lırsa, mahkeme kütükteki kaydın   silinmesine izin verir.  Ü ÇÜNCÜ KISIM  VESAYET  BİRİNCİ BÖLÜM  VES AYET D ÜZENİ  BİRİNCİ AYIRIM  VESAYET ORGANLARI  A. Genel olarak
+Madde 395 - Malik sağlığında yurda son verebilir. Bunun için malik, tapu küt üğündeki kaydı sildirmek üzere bir dil ekçeyl e mahkemeye başvurur; bu istem mahkemece ilân olunur. İlân tarihinden başlayarak iki ay içinde bir itira z yapılmaz veya yapılan itirazın haksızlığı anlaşı lırsa, mahkeme kütükteki kaydın silinmesine izin verir. Ü ÇÜNCÜ KISIM VESAYET BİRİNCİ BÖLÜM VES AYET D ÜZENİ BİRİNCİ AYIRIM VESAYET ORGANLARI A. Genel olarak
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 395**, «2. Malikin sağlığında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 395 - Malik sağlığında yurda son verebilir.  Bunun için malik, tapu küt üğündeki kaydı sildirmek üzere bir dil ekçeyl e mahkemeye  başvurur; bu istem mahkemece ilân olunur.  İlân tarihinden başlayarak iki ay içinde bir itira z yapılmaz veya yapılan itirazın haksızlığı  anlaşı lırsa, mahkeme kütükteki kaydın   silinmesine izin verir.  Ü ÇÜNCÜ KISIM  VESAYET  BİRİNCİ BÖLÜM  VES AYET D ÜZENİ  B… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

@@ -12,16 +12,15 @@ wordCount: 4311
 ---
 
 Madde 197 - Borcun üstlenilmesine ilişkin öneri alacaklı tarafından her zaman kabul
-edilebilir.  Ancak,  üstlenen  veya  önceki  borçlu,  kabul  için  bir  süre  koyabilir.  Alacaklı  bu
+edilebilir. Ancak, üstlenen veya önceki borçlu, kabul için bir süre koyabilir. Alacaklı bu
 sürenin bitimine kadar susarsa, öneri reddedilmiş sayılır.
 Önerinin alacaklı tarafından kabul edilmesinden önce yeni bir iç üstlenme sözleşmesi
-yapılır  ve  bu  ikinci  üstlenmeye  ilişkin  olarak  alacaklıya  öneride  bulunulursa,  ilk  öneride
+yapılır ve bu ikinci üstlenmeye ilişkin olarak alacaklıya öneride bulunulursa, ilk öneride
 bulunan, önerisi ile bağlı olmaktan kurtulur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 197**, «II. Önerinin bağlayıcılığı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 197 - Borcun üstlenilmesine ilişkin öneri alacaklı tarafından her zaman kabul

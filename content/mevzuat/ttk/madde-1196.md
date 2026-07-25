@@ -11,13 +11,12 @@ wordCount: 4304
 
 ---
 
-Madde 1196 - (1)   Taşıyan,   navlun   dışında,   pey   akçesi,   prim,   bahşiş   ve   benzeri   bir   ad  altınd a   başkaca   bir   istemde   bulunamaz.  (2)   Aksine   sözleşme   yoksa,   gemiciliğin   olağan   ve   olağanüstü   giderleri,   özellikle
-kılavuz,   liman,   fener,   römorkaj,   karantina,   buz   kırdırma   ve   bunlara   benzer   hizmetlere   ilişkin  resim   ile   ücretleri   ödemek   ve   bu   giderleri   doğur an   sebeplere   ilişkin   önlemleri   almak,   navlun  sözleşmesi   hükümlerine   göre   yükümlü   olmasa   bile,   yalnız   taşıyana   düşer.  (3)   Müşterek   avarya   hâlleriyle   eşyanın   korunması,   emniyet   altına   alınması   ve   kurtarılması  için   yapılan   giderler   hakkında   ikinci   fıkra   hükmü   uygulanmaz.
+Madde 1196 - (1) Taşıyan, navlun dışında, pey akçesi, prim, bahşiş ve benzeri bir ad altınd a başkaca bir istemde bulunamaz. (2) Aksine sözleşme yoksa, gemiciliğin olağan ve olağanüstü giderleri, özellikle
+kılavuz, liman, fener, römorkaj, karantina, buz kırdırma ve bunlara benzer hizmetlere ilişkin resim ile ücretleri ödemek ve bu giderleri doğur an sebeplere ilişkin önlemleri almak, navlun sözleşmesi hükümlerine göre yükümlü olmasa bile, yalnız taşıyana düşer. (3) Müşterek avarya hâlleriyle eşyanın korunması, emniyet altına alınması ve kurtarılması için yapılan giderler hakkında ikinci fıkra hükmü uygulanmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1196**, «d) Navlun dışında kalan prim ve giderler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1196 - (1)   Taşıyan,   navlun   dışında,   pey   akçesi,   prim,   bahşiş   ve   benzeri   bir   ad  altınd a   başkaca   bir   istemde   bulunamaz.  (2)   Aksine   sözleşme   yoksa,   gemiciliğin   olağan   ve   olağanüstü   giderleri,   özellikle

@@ -15,12 +15,11 @@ I
 
 ---
 
-Madde 102 - (1)   Ticari   mümessil,   ticari   vekil,   satış   memuru   veya   işletmen in   çalışanı  gibi   işletmeye   bağlı   bir   hukuki   konuma   sahip   olmaksızın,   bir   sözleşmeye   dayanarak,   belirli  bir   yer   veya   bölge   içinde   sürekli   olarak   ticari   bir   işletmeyi   ilgilendiren   sözleşmelerde   aracılık  etmeyi   veya   bunları   o   tacir   adına   yapmayı   meslek   edinen   kimseye   acente   denir.  (2)   Bu   Kısımda   hüküm   bulunmayan   hâllerde   aracılık   eden   acentelere   Türk   Borçlar  Kanununun   simsarlık   sözleşmesi   hükümleri,   sözleşme   yapan   acentelere   komisyon   hükümleri  ve   bunlarda   da   hüküm   bulunmayan   hâllerde   vekâlet   hükümleri   uygulanı r.  (3)   Taşıma,   deniz   ticareti,   sigorta,   turizm   gibi   alanlara   ilişkin   özel   düzenlemeler   saklıdır.
+Madde 102 - (1) Ticari mümessil, ticari vekil, satış memuru veya işletmen in çalışanı gibi işletmeye bağlı bir hukuki konuma sahip olmaksızın, bir sözleşmeye dayanarak, belirli bir yer veya bölge içinde sürekli olarak ticari bir işletmeyi ilgilendiren sözleşmelerde aracılık etmeyi veya bunları o tacir adına yapmayı meslek edinen kimseye acente denir. (2) Bu Kısımda hüküm bulunmayan hâllerde aracılık eden acentelere Türk Borçlar Kanununun simsarlık sözleşmesi hükümleri, sözleşme yapan acentelere komisyon hükümleri ve bunlarda da hüküm bulunmayan hâllerde vekâlet hükümleri uygulanı r. (3) Taşıma, deniz ticareti, sigorta, turizm gibi alanlara ilişkin özel düzenlemeler saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 102**, «Madde 102» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **E) Zamanaşımı MAD DE 101

@@ -11,13 +11,12 @@ wordCount: 4279
 
 ---
 
-Madde 1221 - (1)   Geminin   yolculuk   sırasında   tamiri   gerekirse,   navlunun   tamamı   ile  taşıyanın   o   ana   kadar   doğmuş   bulunan   diğer   bütün   alacaklarının   ödenmesi   veya   temin  edilmesi   şartıyla   eşya   gemiden   alınabileceği   gibi   tamirin   bitmesi   de   beklenebilir.   Navlunun  zaman   üzer ine   kararlaştırıldığı   hâllerde,   tamirin   devam   ettiği   süre   hesaba   katılmaz.  (2)   1222   nci   maddenin   birinci   fıkrasının   ilk   cümlesi   hükmü   saklıdır.
-(3)   Kısmi   yolculuk   çarteri   sözleşmeleri   ile   kırkambar   sözleşmelerinde   eşya   tamir  sırasında   boşaltılmış   olduğu   ta kdirde,   taşıtan   tam   navlunu   ve   diğer   alacakları   ödemek   şartıyla  eşyayı   geri   alabilir.
+Madde 1221 - (1) Geminin yolculuk sırasında tamiri gerekirse, navlunun tamamı ile taşıyanın o ana kadar doğmuş bulunan diğer bütün alacaklarının ödenmesi veya temin edilmesi şartıyla eşya gemiden alınabileceği gibi tamirin bitmesi de beklenebilir. Navlunun zaman üzer ine kararlaştırıldığı hâllerde, tamirin devam ettiği süre hesaba katılmaz. (2) 1222 nci maddenin birinci fıkrasının ilk cümlesi hükmü saklıdır.
+(3) Kısmi yolculuk çarteri sözleşmeleri ile kırkambar sözleşmelerinde eşya tamir sırasında boşaltılmış olduğu ta kdirde, taşıtan tam navlunu ve diğer alacakları ödemek şartıyla eşyayı geri alabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1221**, «3. Geminin yolculuk sırasında tamirinin gerekmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1221 - (1)   Geminin   yolculuk   sırasında   tamiri   gerekirse,   navlunun   tamamı   ile  taşıyanın   o   ana   kadar   doğmuş   bulunan   diğer   bütün   alacaklarının   ödenmesi   veya   temin  edilmesi   şartıyla   eşya   gemiden   alınabileceği   gibi   tamirin   bitmesi   de   beklenebilir.   Navlunun  zaman   üzer ine   kararlaştırıldığı   hâllerde,   tamirin   devam   ettiği   süre… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

@@ -11,12 +11,11 @@ wordCount: 4266
 
 ---
 
-Madde 608 - Mirası reddetmeden ölen mirasçının ret hakkı kendi mirasçılarına geçer.  B u mirasçılar için ret süres i, kendilerinin mirasbırakanına mirasın geçtiğini öğrendikleri  tarihten başlar. Ancak bu süre, kendilerinin mirasbırakanından geçen mirasın   reddi için mirasçıya  tanınan süre dolmadıkça sona ermez.  Ret sonucunda miras daha önce mi rasçı olmayanlara geçerse;   bunlar için ret süresi, önceki  mirasçılar tarafından mirasın reddedildiğini öğrendikleri tarihten işlemeye başlar.
+Madde 608 - Mirası reddetmeden ölen mirasçının ret hakkı kendi mirasçılarına geçer. B u mirasçılar için ret süres i, kendilerinin mirasbırakanına mirasın geçtiğini öğrendikleri tarihten başlar. Ancak bu süre, kendilerinin mirasbırakanından geçen mirasın reddi için mirasçıya tanınan süre dolmadıkça sona ermez. Ret sonucunda miras daha önce mi rasçı olmayanlara geçerse; bunlar için ret süresi, önceki mirasçılar tarafından mirasın reddedildiğini öğrendikleri tarihten işlemeye başlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 608**, «3. Ret hakkının ge çmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 608 - Mirası reddetmeden ölen mirasçının ret hakkı kendi mirasçılarına geçer.  B u mirasçılar için ret süres i, kendilerinin mirasbırakanına mirasın geçtiğini öğrendikleri  tarihten başlar. Ancak bu süre, kendilerinin mirasbırakanından geçen mirasın   reddi için mirasçıya  tanınan süre dolmadıkça sona ermez.  Ret sonucunda miras daha önce mi rasçı olmayanlara geçerse;   bunlar için ret süres… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

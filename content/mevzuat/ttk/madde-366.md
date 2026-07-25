@@ -11,13 +11,12 @@ wordCount: 4320
 
 ---
 
-Madde 366 - (1)   Yönetim kurulu, üyeleri arasından   bir   başkan   ve   bulunmadığı  zamanlarda   ona   vekâlet   etmek   üzere,   en   az   bir   başkan   vekili   seçer.   Esas   sözleşmede,   başkanın
-ve   başkan   vekilinin   veya   bunlardan   birinin,   genel   kurul   tarafından   seçilmesi   öngörülebilir. 50  (2)   Yönetim   kurulu,   işlerin   gidişini   izleme k,   kendisine   sunulacak   konularda   rapor  hazırlamak,   kararlarını   uygulatmak   veya   iç   denetim   amacıyla   içlerinde   yönetim   kurulu  üyelerinin   de   bulunabileceği   komiteler   ve   komisyonlar   kurabilir.
+Madde 366 - (1) Yönetim kurulu, üyeleri arasından bir başkan ve bulunmadığı zamanlarda ona vekâlet etmek üzere, en az bir başkan vekili seçer. Esas sözleşmede, başkanın
+ve başkan vekilinin veya bunlardan birinin, genel kurul tarafından seçilmesi öngörülebilir. 50 (2) Yönetim kurulu, işlerin gidişini izleme k, kendisine sunulacak konularda rapor hazırlamak, kararlarını uygulatmak veya iç denetim amacıyla içlerinde yönetim kurulu üyelerinin de bulunabileceği komiteler ve komisyonlar kurabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 366**, «2. Görev dağılımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 366 - (1)   Yönetim kurulu, üyeleri arasından   bir   başkan   ve   bulunmadığı  zamanlarda   ona   vekâlet   etmek   üzere,   en   az   bir   başkan   vekili   seçer.   Esas   sözleşmede,   başkanın

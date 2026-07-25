@@ -11,12 +11,11 @@ wordCount: 4260
 
 ---
 
-Madde 875 - Taşınmaz rehninin alacaklıy a sağladığı güvencenin kapsamına şunlar girer:  1. Ana para,  2. Takip giderleri ve gecikme   faizi,  3. İflâsın açıldığı veya rehnin paraya çevrilmesinin istendiği tarihe kadar muaccel olmuş  üç yıll ık faiz ile son vadeden başlayarak işleyen faiz.  Daha önce bel irlenmiş olan faiz oranı, sonradan gelen alacaklıların zararına olarak  artırılamaz.
+Madde 875 - Taşınmaz rehninin alacaklıy a sağladığı güvencenin kapsamına şunlar girer: 1. Ana para, 2. Takip giderleri ve gecikme faizi, 3. İflâsın açıldığı veya rehnin paraya çevrilmesinin istendiği tarihe kadar muaccel olmuş üç yıll ık faiz ile son vadeden başlayarak işleyen faiz. Daha önce bel irlenmiş olan faiz oranı, sonradan gelen alacaklıların zararına olarak artırılamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 875**, «3. Güvencenin kapsamı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 875 - Taşınmaz rehninin alacaklıy a sağladığı güvencenin kapsamına şunlar girer:  1. Ana para,  2. Takip giderleri ve gecikme   faizi,  3. İflâsın açıldığı veya rehnin paraya çevrilmesinin istendiği tarihe kadar muaccel olmuş  üç yıll ık faiz ile son vadeden başlayarak işleyen faiz.  Daha önce bel irlenmiş olan faiz oranı, sonradan gelen alacaklıların zararına olarak  artırılamaz.

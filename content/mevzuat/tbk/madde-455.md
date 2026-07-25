@@ -11,21 +11,20 @@ wordCount: 4259
 
 ---
 
-Madde 455 - Pazarlamacı,  belirli  bir pazarlama  alanı  veya  belirli  bir  müşteri
+Madde 455 - Pazarlamacı, belirli bir pazarlama alanı veya belirli bir müşteri
 çevresinde faaliyette bulunma yetkisi sadece kendisine verilmişse, kendisinin veya işverenin
 bu alan veya çevrede yaptığı bütün işlerde kararlaştırılmış ya da alışılmış olan komisyonun
 ödenmesini isteyebilir.
 Belirli bir pazarlama alanı veya belirli müşteri çevresinde faaliyette bulunma yetkisi
 pazarlamacıyla birlikte başkalarına da verilmişse pazarlamacıya, sadece kendisinin aracılık
 ettiği veya bizzat yaptığı işler için komisyon ödenir.
-Komisyonun  muaccel  olması  anında,  yapılan  işin  değeri  henüz  kesin  olarak
+Komisyonun muaccel olması anında, yapılan işin değeri henüz kesin olarak
 belirlenemiyorsa komisyon, önce alışılmış olan en az değeri üzerinden, geri kalanı ise, en geç
 işin yerine getirilmesinde ödenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 455**, «2. Komisyon» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 455 - Pazarlamacı,  belirli  bir pazarlama  alanı  veya  belirli  bir  müşteri

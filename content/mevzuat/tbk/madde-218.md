@@ -13,15 +13,14 @@ wordCount: 4262
 
 Madde 218 - Satılanın bir kısmı elinden alınmış veya satılan sınırlı ayni bir hakla
 yüklenmişse alıcı, sadece bu yüzden uğradığı zararın giderilmesini isteyebilir.
-Ancak alıcının,  satılandaki  bu  durumu  bilseydi  onu  satın  almayacağı  durum  ve
-koşullardan  anlaşılıyorsa,  alıcı  hâkimden  sözleşmenin  sona  ermesine  karar  vermesini
+Ancak alıcının, satılandaki bu durumu bilseydi onu satın almayacağı durum ve
+koşullardan anlaşılıyorsa, alıcı hâkimden sözleşmenin sona ermesine karar vermesini
 isteyebilir. Bu durumda alıcı, satılanın elinde kalmış olan kısmını o zamana kadar elde etmiş
 olduğu yararlarla birlikte, satıcıya geri vermekle yükümlüdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 218**, «b. Kısmi zapt hâlinde» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 218 - Satılanın bir kısmı elinden alınmış veya satılan sınırlı ayni bir hakla

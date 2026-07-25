@@ -16,14 +16,13 @@ hakkı sahibine noter aracılığıyla bildirmek zorundadır.
 Önalım hakkı kullanıldıktan sonra satış sözleşmesi ortadan kaldırılırsa ya da alıcının
 şahsından kaynaklanan sebeplerle onaylanmazsa, bu durum önalım hakkı sahibine karşı ileri
 sürülemez.
-Önalım  hakkını  kuran  sözleşmede  aksi  öngörülmemişse,  önalım  hakkı  sahibi
+Önalım hakkını kuran sözleşmede aksi öngörülmemişse, önalım hakkı sahibi
 taşınmazı, satıcının üçüncü kişiyle kararlaştırdığı satışa ilişkin koşullarla kazanır.
 Ekonomik bakımdan satışa eşdeğer işlemlerde de yukarıdaki hükümler uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 241**, «2. Koşulları ve hükümleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 241 - Satıcı veya alıcı, satış sözleşmesinin yapıldığını ve içeriğini önalım

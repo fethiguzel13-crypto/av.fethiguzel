@@ -11,18 +11,17 @@ wordCount: 4318
 
 ---
 
-Madde 373 - Kiralanan  teslim  edilirken  tutanağa  geçirilmiş  olan  eşyalara  değer
+Madde 373 - Kiralanan teslim edilirken tutanağa geçirilmiş olan eşyalara değer
 biçilmişse kiracı, kira sözleşmesi sona erince, bunları özdeş tür ve değerde olmak üzere geri
 vermekle veya değer eksikliklerini gidermekle yükümlüdür.
-Kiracı,  kiraya  verenin  kusurunu  ya  da  mücbir  sebebin  varlığını  ispat  ederek  geri
+Kiracı, kiraya verenin kusurunu ya da mücbir sebebin varlığını ispat ederek geri
 vermekten veya tazminat ödemekten kurtulabilir.
-Kiracı,  kendisinin  yaptığı  masraflardan  veya  emeğinden  doğan  değer  artışı için
+Kiracı, kendisinin yaptığı masraflardan veya emeğinden doğan değer artışı için
 tazminat isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 373**, «2. Tutanağa geçirilmiş eşya» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 373 - Kiralanan  teslim  edilirken  tutanağa  geçirilmiş  olan  eşyalara  değer

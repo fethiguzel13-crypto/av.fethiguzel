@@ -11,12 +11,11 @@ wordCount: 4260
 
 ---
 
-Madde 614 - Mirasçılar, mirası reddederken, kendilerinden son ra gelen mirasçılardan  mira sı kabul edip etmeyeceklerinin sorulmasını tasfiyeden önce isteyebilirler.  Bu takdirde ret, sulh hâkimi tarafından daha sonra gelen mirasçı lara bildirilir; bunlar bir  ay içinde mirası kabul etmezlerse reddetmiş sayılırlar.  Bunun   üzerine miras, iflâs hüküml erine göre tasfiye edilir ve tasfiye sonunda arta kalan  değerler, önce gelen mirasçılara verilir.
+Madde 614 - Mirasçılar, mirası reddederken, kendilerinden son ra gelen mirasçılardan mira sı kabul edip etmeyeceklerinin sorulmasını tasfiyeden önce isteyebilirler. Bu takdirde ret, sulh hâkimi tarafından daha sonra gelen mirasçı lara bildirilir; bunlar bir ay içinde mirası kabul etmezlerse reddetmiş sayılırlar. Bunun üzerine miras, iflâs hüküml erine göre tasfiye edilir ve tasfiye sonunda arta kalan değerler, önce gelen mirasçılara verilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 614**, «3. Sonra gelen mirasçılar yararına ret» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 614 - Mirasçılar, mirası reddederken, kendilerinden son ra gelen mirasçılardan  mira sı kabul edip etmeyeceklerinin sorulmasını tasfiyeden önce isteyebilirler.  Bu takdirde ret, sulh hâkimi tarafından daha sonra gelen mirasçı lara bildirilir; bunlar bir  ay içinde mirası kabul etmezlerse reddetmiş sayılırlar.  Bunun   üzerine miras, iflâs hüküml erine göre tasfiye edilir ve tasfiye sonunda a… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

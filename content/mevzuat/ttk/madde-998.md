@@ -11,12 +11,11 @@ wordCount: 4303
 
 ---
 
-Madde 998 - (1)   Sahipsiz   bir   gemiyi   sahiplenme   hakkı   sadece   Devletindir.   Sahipsiz  gemi,   sicil   kayıtlarından   malikinin   kim   olduğu   anlaşılamayan   veya   usulüne   uygun   olarak  mülkiyeti   terk   edilmiş   olan   gemidir.  (2)   Devlet   kendisini   gemi   siciline   malik   olarak   tescil   ettirmek   suretiyle   gemi  üzerind eki   mülkiyeti   iktisap   eder.
+Madde 998 - (1) Sahipsiz bir gemiyi sahiplenme hakkı sadece Devletindir. Sahipsiz gemi, sicil kayıtlarından malikinin kim olduğu anlaşılamayan veya usulüne uygun olarak mülkiyeti terk edilmiş olan gemidir. (2) Devlet kendisini gemi siciline malik olarak tescil ettirmek suretiyle gemi üzerind eki mülkiyeti iktisap eder.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 998**, «Madde 998» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 998 - (1)   Sahipsiz   bir   gemiyi   sahiplenme   hakkı   sadece   Devletindir.   Sahipsiz  gemi,   sicil   kayıtlarından   malikinin   kim   olduğu   anlaşılamayan   veya   usulüne   uygun   olarak  mülkiyeti   terk   edilmiş   olan   gemidir.  (2)   Devlet   kendisini   gemi   siciline   malik   olarak   tescil   ettirmek   suretiyle   gemi  üzerind eki   mülkiyeti   iktisap   eder.

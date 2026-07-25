@@ -11,12 +11,11 @@ wordCount: 4297
 
 ---
 
-Madde 1047 - (1)   Birlikte   gemi   ipoteğinde   borçlu,   1038   inci   maddenin   altıncı  fıkrasında   yazılı   hâlde,   ipotekli   gemilerden   yalnız   birinin   malikine   veya   onun   hukuki  seleflerine   rücu   hakkına   sahip   olursa,   ancak   bu   gemi   üzerindeki   ipotek   kendisine   geçer;   diğer  gemiler   üzerindekiler   düşer.  eee)   Alacaklının   gemi   malikine   karşı   sahip   olduğu   istem   hakkının   zamanaşımına  uğraması
+Madde 1047 - (1) Birlikte gemi ipoteğinde borçlu, 1038 inci maddenin altıncı fıkrasında yazılı hâlde, ipotekli gemilerden yalnız birinin malikine veya onun hukuki seleflerine rücu hakkına sahip olursa, ancak bu gemi üzerindeki ipotek kendisine geçer; diğer gemiler üzerindekiler düşer. eee) Alacaklının gemi malikine karşı sahip olduğu istem hakkının zamanaşımına uğraması
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1047**, «Madde 1047» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1047 - (1)   Birlikte   gemi   ipoteğinde   borçlu,   1038   inci   maddenin   altıncı  fıkrasında   yazılı   hâlde,   ipotekli   gemilerden   yalnız   birinin   malikine   veya   onun   hukuki  seleflerine   rücu   hakkına   sahip   olursa,   ancak   bu   gemi   üzerindeki   ipotek   kendisine   geçer;   diğer  gemiler   üzerindekiler   düşer.  eee)   Alacaklının   gemi   malikine   karşı  … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

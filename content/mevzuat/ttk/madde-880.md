@@ -12,16 +12,15 @@ wordCount: 4312
 - (1) Taşıyıcı;
 a) Kendi adamlarının,
 b) Taşımanın yerine getirilmesi için yararlandığı kişilerin, görevlerini yerine getirmeleri sırasındaki fiil ve ihmallerinden, kendi fiil ve ihmali gibi sorumludur.
-IV   -   Tazminatta   esas   alınacak   değer**
+IV - Tazminatta esas alınacak değer**
 
 ---
 
-Madde 880 - (1 )   Taşıyıcı,   eşyanın   tamamen   veya   kısmen   zıyaından   dolayı   tazminat  ödemekle   sorumlu   tutulduğunda,   bu   tazminat,   eşyanın   taşınmak   üzere   teslim   alındığı   yer   ve  zamandaki   değerine   göre   hesaplanır.  (2)   Eşyanın   hasara   uğraması   hâlinde,   onun   taşınmak   üzere   teslim   alındığı   yer   ve  zamandaki   hasarsız   değeri   ile   hasarlı   değeri   arasındaki   fark   tazmin   edilir.   Zararı   azaltmak   ve  gidermek   için   yapılacak   harcamaların   birinci   cümleye   göre   saptanacak   değer   farkını  karşıladığı   karine   olarak   kabul   edilir.  (3)   Eşyanın   değeri   p iyasa   fiyatına   göre,   bu   yoksa   aynı   tür   ve   nitelikteki   malların   cari  değerine   göre   tayin   edilir.   Eşya,   taşımak   üzere   teslimden   hemen   önce   satılmışsa,   satıcının  faturasında   taşıma   giderleri   mahsup   edilerek   gösterilen   satış   bedelinin   piyasa   fiyatı   olduğu  vars ayılır.
+Madde 880 - (1 ) Taşıyıcı, eşyanın tamamen veya kısmen zıyaından dolayı tazminat ödemekle sorumlu tutulduğunda, bu tazminat, eşyanın taşınmak üzere teslim alındığı yer ve zamandaki değerine göre hesaplanır. (2) Eşyanın hasara uğraması hâlinde, onun taşınmak üzere teslim alındığı yer ve zamandaki hasarsız değeri ile hasarlı değeri arasındaki fark tazmin edilir. Zararı azaltmak ve gidermek için yapılacak harcamaların birinci cümleye göre saptanacak değer farkını karşıladığı karine olarak kabul edilir. (3) Eşyanın değeri p iyasa fiyatına göre, bu yoksa aynı tür ve nitelikteki malların cari değerine göre tayin edilir. Eşya, taşımak üzere teslimden hemen önce satılmışsa, satıcının faturasında taşıma giderleri mahsup edilerek gösterilen satış bedelinin piyasa fiyatı olduğu vars ayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 880**, «Madde 880» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

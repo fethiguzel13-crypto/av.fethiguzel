@@ -31,7 +31,7 @@ e) Radyo ve Televizyon Üst Kurulunun görevlendireceği bir üye,
 f) Türk Standartları Enstitüsünden bir üye,
 g) Ankara, İstanbul ve İzmir büyükşehir belediyelerinin kendi aralarından seçeceği bir
 üye,
-        ğ) Yükseköğretim Kurulunun, reklamcılık, iletişim veya ticaret hukuku alanında
+ ğ) Yükseköğretim Kurulunun, reklamcılık, iletişim veya ticaret hukuku alanında
 uzman öğretim üyeleri arasından görevlendireceği bir üye,
 h) Türkiye Odalar ve Borsalar Birliğinin, Türkiye Medya ve İletişim Meclisi üyeleri
 arasından görevlendireceği bir üye,
@@ -75,7 +75,6 @@ ihtisas sahibi üniversiteler, özel hukuk tüzel kişileri ile gerçek kişiler
 ve esasları ile sekretarya hizmetleri ve diğer hususlar yönetmelikle belirlenir.
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Tüketicinin Korunması Hakkında Kanun m. 63**, «Reklam Kurulu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): MADDE 63- (1) Ticari reklamlarda uyulması gereken ilkeleri belirleme ve haksız

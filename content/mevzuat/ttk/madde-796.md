@@ -13,12 +13,11 @@ wordCount: 4262
 
 ---
 
-Madde 796 - (1)   Bir   çek,   düzenlendiği   yerde   ödenecekse   on   gün;   düzenlendiği  yerden   başka   bir   yerde   ödenecekse   bir   ay   içinde   muhataba   ibraz   edilmelidir.  (2)   Ödeneceği   ülkeden   başka   bir   ülkede   düzenlenen   çek,   düzenlenme   yeri   ile   ödeme  yeri   aynı   kıtada   ise   bir   ay   ve   ayrı   kıtalarda   ise   üç   ay   içinde   muhataba   ibraz   edilmelidir.   Bu  bakımdan,   bir   Avrupa   ülkesinde   düzenlenip   de   Akdenize   sahili   bulunan   bir   ülkede   ödenecek  olan   ve   aynı   ş ekilde   Akdenize   sahili   olan   bir   ülkede   düzenlenip   bir   Avrupa   ülkesinde  ödenmesi   gereken   çekler   aynı   kıtada   düzenlenmiş   ve   ödenmesi   şart   kılınmış   sayılır.  (3)   Birinci   ve   ikinci   fıkralarda   yazılı   süreler,   çekte   yazılı   olan   düzenlenme   tarihinin  ertesi   günü   ba şlar.
+Madde 796 - (1) Bir çek, düzenlendiği yerde ödenecekse on gün; düzenlendiği yerden başka bir yerde ödenecekse bir ay içinde muhataba ibraz edilmelidir. (2) Ödeneceği ülkeden başka bir ülkede düzenlenen çek, düzenlenme yeri ile ödeme yeri aynı kıtada ise bir ay ve ayrı kıtalarda ise üç ay içinde muhataba ibraz edilmelidir. Bu bakımdan, bir Avrupa ülkesinde düzenlenip de Akdenize sahili bulunan bir ülkede ödenecek olan ve aynı ş ekilde Akdenize sahili olan bir ülkede düzenlenip bir Avrupa ülkesinde ödenmesi gereken çekler aynı kıtada düzenlenmiş ve ödenmesi şart kılınmış sayılır. (3) Birinci ve ikinci fıkralarda yazılı süreler, çekte yazılı olan düzenlenme tarihinin ertesi günü ba şlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 796**, «Madde 796» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III

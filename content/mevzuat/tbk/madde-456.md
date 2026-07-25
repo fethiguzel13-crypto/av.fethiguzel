@@ -16,14 +16,13 @@ imkânsız hâle gelir ve sözleşme veya kanun gereği bu hâlde bile kendisine
 gerekirse ücret, sabit ücrete ve komisyonun kaybı sebebiyle ödenebilecek uygun tazminata
 göre belirlenir. Ancak komisyon, ücretin beşte birinden az ise, komisyon kaybı sebebiyle
 tazminat ödenmeyeceği yazılı olarak kararlaştırılabilir.
-Pazarlamacı,  pazarlama  işlerini  kendi  kusuru  olmaksızın  yürütme  imkânını
-bulamamasına  karşın  ücretinin  tamamını  almışsa,  işverenin  istemi  üzerine,  kendisinin
+Pazarlamacı, pazarlama işlerini kendi kusuru olmaksızın yürütme imkânını
+bulamamasına karşın ücretinin tamamını almışsa, işverenin istemi üzerine, kendisinin
 yapabileceği ve kendisinden beklenebilecek işleri onun işletmesinde yapmakla yükümlüdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 456**, «3. Pazarlama faaliyetinin engellenmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 456 - Pazarlamacının pazarlama işlerini yürütmesi, kendi kusuru olmaksızın

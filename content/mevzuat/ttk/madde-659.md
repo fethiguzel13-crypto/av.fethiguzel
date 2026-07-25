@@ -13,12 +13,11 @@ I
 
 ---
 
-Madde 659 - (1)   Borçlu   hamile   yazılı   bir   senetten   doğan   alacağa   karşı,   ancak  senedin   geçersizliğine   ilişkin   veya   senedin   metninden   anlaşılan   def’ilerle,   alacaklı   her   kim   ise  ona   karşı   şahsen   sahip   olduğu   def’ileri   ileri   sürebilir .  (2)   Borçlu   ile   önceki   hamillerden   biri   arasında   doğrudan   doğruya   var   olan   ilişkilere  dayanan   def’ilerin   ileri   sürülmesi,   ancak   senedi   iktisap   ederken   hamilin   bilerek   borçlunun  zararına   hareket   etmiş   olması   hâlinde   geçerlidir.  (3)   Senedin,   borçlunun   rızas ı   olmaksızın   tedavüle   çıkarıldığı   yolunda   bir   def’i   ileri  sürülemez.
+Madde 659 - (1) Borçlu hamile yazılı bir senetten doğan alacağa karşı, ancak senedin geçersizliğine ilişkin veya senedin metninden anlaşılan def’ilerle, alacaklı her kim ise ona karşı şahsen sahip olduğu def’ileri ileri sürebilir . (2) Borçlu ile önceki hamillerden biri arasında doğrudan doğruya var olan ilişkilere dayanan def’ilerin ileri sürülmesi, ancak senedi iktisap ederken hamilin bilerek borçlunun zararına hareket etmiş olması hâlinde geçerlidir. (3) Senedin, borçlunun rızas ı olmaksızın tedavüle çıkarıldığı yolunda bir def’i ileri sürülemez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 659**, «Madde 659» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Borçlunun def’ileri

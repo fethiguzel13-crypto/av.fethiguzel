@@ -14,7 +14,7 @@ I. Önel verilerek fesih**
 
 Madde 616 - Tarafların edimleri arasında önemli ölçüde oransızlık bulunur ve fazla
 alan taraf kendisine bağışta bulunulma amacı güdüldüğünü ispat edemezse diğer taraf, altı ay
-önce  bildirimde  bulunmak  koşuluyla,  sözleşmeyi  her  zaman  feshedebilir.  Bu  oransızlığın
+önce bildirimde bulunmak koşuluyla, sözleşmeyi her zaman feshedebilir. Bu oransızlığın
 tespitinde, ilgili sosyal güvenlik kurumunca, bakım borçlusuna verilenin değerine denk düşen
 anapara değeri ile bağlanacak irat arasındaki fark esas alınır.
 Sözleşmenin sona erdirilmesi anına kadar geçen sürede ifa edilmiş edimler, anapara ve
@@ -23,7 +23,6 @@ faiziyle birlikte değerlendirilerek, denkleştirme sonucunda alacaklı çıkan 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 616**, «Madde 616» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **F. Sona ermesi

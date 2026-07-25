@@ -11,13 +11,12 @@ wordCount: 4271
 
 ---
 
-Madde 363 - A na ve   baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar.  Dürüstlük kuralına uygun olarak başka sına devrettikleri malların yerine sa dece aldıkları  karşılığı geri vermekle yüküm lüdürler.  Kanuna uygun olar ak çocuk veya aile için yaptıkları har camala rdan dolayı tazminatla  yükümlü tutulmazlar.
-İKİNCİ BÖLÜM  AİLE  BİRİNCİ AYIRIM  NAFAKA YÜKÜMLÜLÜĞÜ  A. Naf aka yükümlüleri
+Madde 363 - A na ve baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar. Dürüstlük kuralına uygun olarak başka sına devrettikleri malların yerine sa dece aldıkları karşılığı geri vermekle yüküm lüdürler. Kanuna uygun olar ak çocuk veya aile için yaptıkları har camala rdan dolayı tazminatla yükümlü tutulmazlar.
+İKİNCİ BÖLÜM AİLE BİRİNCİ AYIRIM NAFAKA YÜKÜMLÜLÜĞÜ A. Naf aka yükümlüleri
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 363**, «II. A na ve babanın sorumluluğu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 363 - A na ve   baba, çocuk mallarının geri verilmesinde vekil gibi sorumludurlar.  Dürüstlük kuralına uygun olarak başka sına devrettikleri malların yerine sa dece aldıkları  karşılığı geri vermekle yüküm lüdürler.  Kanuna uygun olar ak çocuk veya aile için yaptıkları har camala rdan dolayı tazminatla  yükümlü tutulmazlar.

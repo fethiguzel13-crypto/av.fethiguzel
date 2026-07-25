@@ -12,10 +12,10 @@ wordCount: 4261
 
 ---
 
-Madde 264 - Ön  ödemeli  taksitle  satış,  alıcının  taşınır  bir  malın  satış  bedelini
+Madde 264 - Ön ödemeli taksitle satış, alıcının taşınır bir malın satış bedelini
 önceden kısım kısım ödemeyi, satıcının da bedelin tamamen ödenmesinden sonra satılanı
 alıcıya devretmeyi üstlendikleri satıştır.
-Ön  ödemeli  taksitle  satış  sözleşmesi,  yazılı  şekilde  yapılmadıkça  geçerli  olmaz.
+Ön ödemeli taksitle satış sözleşmesi, yazılı şekilde yapılmadıkça geçerli olmaz.
 Sözleşmede aşağıdaki hususlar belirtilir:
 1. Tarafların adı ve yerleşim yeri.
 2. Satışın konusu.
@@ -29,7 +29,6 @@ alma hakkı.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 264**, «Madde 264» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Ön ödemeli taksitle satış

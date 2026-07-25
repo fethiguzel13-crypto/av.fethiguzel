@@ -11,13 +11,12 @@ wordCount: 4302
 
 ---
 
-Madde 992 - (1)   Yapının   sicildeki   kaydı;  a)   Geminin   tersane   sahibi   tarafından,   yabancı   ülkeye   teslim   edildiğinin   bildirilmesi,  b)   Yapının   maliki   ile   geminin   yapıldığı   tersane   sahibinin,   kaydın   sicilden   silinmesini  istemeleri,  c)   Yapının   harap   olması,  hâllerinde   silinir.
-(2)   Yapı   üzerinde   bir   ipotek   bulunduğu   takdirde,   birinci   fıkranın   (a)   ve   (b)   bentlerinde  yazılı   hâllerde,   ipotekli   alacaklının   ve   sicile   kayıtlı   bulunan   diğer   hak   sahiplerinin   kaydın  sicilden   silinmesine   onayları   da   ger eklidir.  (3)   Yapının   tamamlanarak   geminin   yabancı   ülkeye   teslim   edildiğinin   veya   harap  olduğunun   süresi   içinde   bildirilmemesi   hâlinde   966   ncı   maddedeki   usul   uyarınca   yapının  kaydı   resen   sicilden   silinir.
+Madde 992 - (1) Yapının sicildeki kaydı; a) Geminin tersane sahibi tarafından, yabancı ülkeye teslim edildiğinin bildirilmesi, b) Yapının maliki ile geminin yapıldığı tersane sahibinin, kaydın sicilden silinmesini istemeleri, c) Yapının harap olması, hâllerinde silinir.
+(2) Yapı üzerinde bir ipotek bulunduğu takdirde, birinci fıkranın (a) ve (b) bentlerinde yazılı hâllerde, ipotekli alacaklının ve sicile kayıtlı bulunan diğer hak sahiplerinin kaydın sicilden silinmesine onayları da ger eklidir. (3) Yapının tamamlanarak geminin yabancı ülkeye teslim edildiğinin veya harap olduğunun süresi içinde bildirilmemesi hâlinde 966 ncı maddedeki usul uyarınca yapının kaydı resen sicilden silinir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 992**, «d) Silme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 992 - (1)   Yapının   sicildeki   kaydı;  a)   Geminin   tersane   sahibi   tarafından,   yabancı   ülkeye   teslim   edildiğinin   bildirilmesi,  b)   Yapının   maliki   ile   geminin   yapıldığı   tersane   sahibinin,   kaydın   sicilden   silinmesini  istemeleri,  c)   Yapının   harap   olması,  hâllerinde   silinir.

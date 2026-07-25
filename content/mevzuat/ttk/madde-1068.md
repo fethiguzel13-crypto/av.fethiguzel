@@ -12,12 +12,11 @@ a) Atanması ve görevden alınması**
 
 ---
 
-Madde 1068 - (1)   Donatma   iştirakinin   i şlerinin   görülmesi   için   oy   çoğunluğu   ile   bir  gemi   müdürü   atanabilir.   Paydaş   donatanlardan   olmayan   bir   gemi   müdürünün   atanması   için  oybirliği   şarttır.  (2)   Gemi   müdürü,   sözleşmenin   feshinden   doğan   hakları   saklı   kalmak   üzere,   her   zaman  oy   çoğunluğuyla   görevde n   alınabilir.  (3)   Gemi   müdürünün   atanması   ve   görevden   alınması   ticaret   ve   gemi   sicillerine   tescil  olunur.
+Madde 1068 - (1) Donatma iştirakinin i şlerinin görülmesi için oy çoğunluğu ile bir gemi müdürü atanabilir. Paydaş donatanlardan olmayan bir gemi müdürünün atanması için oybirliği şarttır. (2) Gemi müdürü, sözleşmenin feshinden doğan hakları saklı kalmak üzere, her zaman oy çoğunluğuyla görevde n alınabilir. (3) Gemi müdürünün atanması ve görevden alınması ticaret ve gemi sicillerine tescil olunur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1068**, «Madde 1068» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Gemi müdürü

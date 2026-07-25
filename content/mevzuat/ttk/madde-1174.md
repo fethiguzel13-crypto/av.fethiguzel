@@ -12,13 +12,12 @@ wordCount: 4299
 
 ---
 
-Madde 1174 - (1)   Gönderilen,   eşyayı   almaya   hazır   olduğunu   bildirip   de   boşaltma  süresini   ve   kararlaştırılmış   ise   sürastarya   süresi   içinde   eşyanın   tamamını   teslim   almamışsa,  taşıyan,   gönderilene   haber   verdikten   sonra,   Türk   Borçlar   Kanununun   107   ilâ   109   un cu  maddelerinde   öngörülen   hakları   kullanabilir.  (2)   Gönderilen,   eşyayı   teslim   almaktan   kaçınır   veya   1168   inci   maddede   yazılı   bildirim  üzerine   eşyayı   teslim   almaya   hazır   olup   olmadığını   bildirmez   yahut   bulunamazsa   taşıyan,  birinci   fıkrada   gösterilen   tarzda   hareket   etmek   ve   aynı   zamanda   durumu   taşıtana   bildirmek  zorundadır.  (3)   Önceki   fıkralarda   düzenlenen   hâllerde,   gönderilenin   gecikmesi   veya   tevdi   işlemi  yüzünden   boşaltma   süresi   geçmiş   ise,   taşıyan,   sürastarya   parası   isteyebilir.   Sürastarya   süresi
-dolduktan   sonraki   gecikmeler   nedeniyle   taşıyan,   uğradığı   bütün   zararın   tazminini   isteyebilir.
+Madde 1174 - (1) Gönderilen, eşyayı almaya hazır olduğunu bildirip de boşaltma süresini ve kararlaştırılmış ise sürastarya süresi içinde eşyanın tamamını teslim almamışsa, taşıyan, gönderilene haber verdikten sonra, Türk Borçlar Kanununun 107 ilâ 109 un cu maddelerinde öngörülen hakları kullanabilir. (2) Gönderilen, eşyayı teslim almaktan kaçınır veya 1168 inci maddede yazılı bildirim üzerine eşyayı teslim almaya hazır olup olmadığını bildirmez yahut bulunamazsa taşıyan, birinci fıkrada gösterilen tarzda hareket etmek ve aynı zamanda durumu taşıtana bildirmek zorundadır. (3) Önceki fıkralarda düzenlenen hâllerde, gönderilenin gecikmesi veya tevdi işlemi yüzünden boşaltma süresi geçmiş ise, taşıyan, sürastarya parası isteyebilir. Sürastarya süresi
+dolduktan sonraki gecikmeler nedeniyle taşıyan, uğradığı bütün zararın tazminini isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1174**, «Madde 1174» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV

@@ -12,12 +12,11 @@ I. Deftere geçirme**
 
 ---
 
-Madde 620 - Resmî defter, sulh mahkemesi tarafından düzenlenir; bu deftere   terekeye ait  aktif ve pasif ler takdir edilen değerleriyle yazılır.  Mirasbırakanın   malî   durumu   hakkında   bilgi   sahibi   olan   herkes,   sulh   mahkemesi  tarafından istenilen b ilgiyi vermekle yükümlüdür. Haklı bir sebep olmaksızın bilgi vermeyenler  veya yanlış ya da   eksik bilgi verenler, bund an doğacak zararları mirasçılara, vasiyet alacaklılarına  veya üçüncü kişilere tazminle yükümlüdürler.  Mirasçılar, özellikle mirasbırakanın   kendilerince bilinen borçlarını sulh mahkemesine  bildirmek zorundadırlar.  Resmî defterin n asıl tutulacağı Cumhurbaşka nınca çık arılan yönetmelikle düzenlenir. 33  II. İlân yoluyla çağrı
+Madde 620 - Resmî defter, sulh mahkemesi tarafından düzenlenir; bu deftere terekeye ait aktif ve pasif ler takdir edilen değerleriyle yazılır. Mirasbırakanın malî durumu hakkında bilgi sahibi olan herkes, sulh mahkemesi tarafından istenilen b ilgiyi vermekle yükümlüdür. Haklı bir sebep olmaksızın bilgi vermeyenler veya yanlış ya da eksik bilgi verenler, bund an doğacak zararları mirasçılara, vasiyet alacaklılarına veya üçüncü kişilere tazminle yükümlüdürler. Mirasçılar, özellikle mirasbırakanın kendilerince bilinen borçlarını sulh mahkemesine bildirmek zorundadırlar. Resmî defterin n asıl tutulacağı Cumhurbaşka nınca çık arılan yönetmelikle düzenlenir. 33 II. İlân yoluyla çağrı
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 620**, «Madde 620» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B. Usul

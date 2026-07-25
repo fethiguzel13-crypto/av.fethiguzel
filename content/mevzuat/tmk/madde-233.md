@@ -12,12 +12,11 @@ a. Genel olarak**
 
 ---
 
-Madde 233 - Bir eşin malik olarak bizzat işletmeye devam ettiği veya sağ kalan eş ya da  altsoyundan b irini n kendisine bir bütün olarak özgülenmesini istemeye haklı olduğu bir tarımsal  işletme için değer artışından   alacağı pay ve katılma alacağı, bunların gelir değeri göz önünde  tutularak hesaplanır.  Tarımsal işletmenin maliki veya mirasçıları, diğer eşe   karşı   iler i sürebilecekleri değer  artışı payının veya katılma alacağının, işletmenin sadece sürüm değeri üzerinde n hesaplanmasını  isteyebilir.  Değerlendirmeye ve işletmenin kazancından mirasçılara pay ödenmesine ilişkin miras  hukuku hükümleri kıyas yoluyla   uygu lanır.
+Madde 233 - Bir eşin malik olarak bizzat işletmeye devam ettiği veya sağ kalan eş ya da altsoyundan b irini n kendisine bir bütün olarak özgülenmesini istemeye haklı olduğu bir tarımsal işletme için değer artışından alacağı pay ve katılma alacağı, bunların gelir değeri göz önünde tutularak hesaplanır. Tarımsal işletmenin maliki veya mirasçıları, diğer eşe karşı iler i sürebilecekleri değer artışı payının veya katılma alacağının, işletmenin sadece sürüm değeri üzerinde n hesaplanmasını isteyebilir. Değerlendirmeye ve işletmenin kazancından mirasçılara pay ödenmesine ilişkin miras hukuku hükümleri kıyas yoluyla uygu lanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 233**, «Madde 233» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Gelir değeri

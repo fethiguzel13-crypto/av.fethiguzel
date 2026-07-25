@@ -13,7 +13,7 @@ wordCount: 4310
 
 Madde 638 - Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve
 ayni haklar, ortaklık sözleşmesi çerçevesinde elbirliği hâlinde bütün ortaklara ait olur.
-Ortaklık  sözleşmesinde  aksine  bir  hüküm  bulunmadıkça,  bir  ortağın  alacaklıları,
+Ortaklık sözleşmesinde aksine bir hüküm bulunmadıkça, bir ortağın alacaklıları,
 haklarını ancak o ortağın tasfiyedeki payı üzerinde kullanabilirler.
 Ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye karşı, ortaklık ilişkisi
 çerçevesinde üstlendikleri borçlardan, aksi kararlaştırılmamışsa müteselsilen sorumlu olurlar.
@@ -21,7 +21,6 @@ Ortaklar, birlikte veya bir temsilci aracılığı ile, bir üçüncü kişiye k
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 638**, «II. Temsilin sonuçları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 638 - Ortaklık için edinilen veya ortaklığa devredilen şeyler, alacaklar ve

@@ -12,12 +12,11 @@ wordCount: 4305
 
 ---
 
-Madde 976 - (1)   975   inci   maddede   yazılı   hâllerde   gemi   siciline,   sicil   kaydının   doğru  olmadığı   hakkında   bir   itiraz   te scil   olunabilir.  (2)   İtiraz,   bir   ihtiyati   tedbir   kararına   yahut   sicildeki   kaydın   değiştirilmesi   sonucunda  hakkı   zarar   görecek   olan   kişinin   onayına   dayalı   olarak   sicile   geçirilir.   İhtiyati   tedbir   kararının  verilmesinde   hakkın   tehlikede   olduğuna   dair   yaklaşı k   ispat   şartı   aranmaz.
+Madde 976 - (1) 975 inci maddede yazılı hâllerde gemi siciline, sicil kaydının doğru olmadığı hakkında bir itiraz te scil olunabilir. (2) İtiraz, bir ihtiyati tedbir kararına yahut sicildeki kaydın değiştirilmesi sonucunda hakkı zarar görecek olan kişinin onayına dayalı olarak sicile geçirilir. İhtiyati tedbir kararının verilmesinde hakkın tehlikede olduğuna dair yaklaşı k ispat şartı aranmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 976**, «Madde 976» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV

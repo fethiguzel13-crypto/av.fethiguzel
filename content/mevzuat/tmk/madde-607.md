@@ -11,12 +11,11 @@ wordCount: 4296
 
 ---
 
-Madde 607 - Koruma önlemi olarak terekenin yazımı hâl inde mirası ret süresi, yas al ve  atanmış   mirasçılar için yazım   işleminin   sona erdiğinin sulh   hâkimi tarafından kendilerine  bildirilmesiyle başlar.
+Madde 607 - Koruma önlemi olarak terekenin yazımı hâl inde mirası ret süresi, yas al ve atanmış mirasçılar için yazım işleminin sona erdiğinin sulh hâkimi tarafından kendilerine bildirilmesiyle başlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 607**, «b. Terekenin yazımında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 607 - Koruma önlemi olarak terekenin yazımı hâl inde mirası ret süresi, yas al ve  atanmış   mirasçılar için yazım   işleminin   sona erdiğinin sulh   hâkimi tarafından kendilerine  bildirilmesiyle başlar.

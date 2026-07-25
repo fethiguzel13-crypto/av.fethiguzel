@@ -11,13 +11,12 @@ wordCount: 4298
 
 ---
 
-Madde 1023 - (1)   Sigortacı,   geminin   önceki   durumuna   getirilmesi   veya   gemi  alacaklılarına   verilmesi   amacıyla   malike   tazminat   bed eline   sayılmak   üzere   ödemede
-bulunmuş   ve   bu   amaçlara   erişilmesi   teminat   altına   alınmış   ise,   ödeme,   ipotekli   alacaklıya  karşı   da   geçerli   olur.  (2)   Gemi   önceki   durumuna   getirildiği   veya   eklenti   olan   yeni   parçalar   yerlerine  konulduğu   takdirde,   sigortacının   ip otek   alacaklılarına   karşı   olan   sorumluluğu   sona   erer.  Malikin   bir   gemi   alacaklısı   hakkına   temel   oluşturan   borçlarının   ödenmesi   hâlinde,   sigortacının  malike   yapacağı   ödeme,   ancak   gemi   alacaklısı   hakkının   teminatını   oluşturan   unsurların  rizikonun   gerçekleşme sinden   hemen   sonra   taşıdıkları   değer   oranında   sigortacıyı   ipotekli  alacaklıya   karşı   sorumluluktan   kurtarır.  cc)   Gemi   ipoteğinin   sigortacıya   bildirilmesi  aaa)   Bildirim   yükümü
+Madde 1023 - (1) Sigortacı, geminin önceki durumuna getirilmesi veya gemi alacaklılarına verilmesi amacıyla malike tazminat bed eline sayılmak üzere ödemede
+bulunmuş ve bu amaçlara erişilmesi teminat altına alınmış ise, ödeme, ipotekli alacaklıya karşı da geçerli olur. (2) Gemi önceki durumuna getirildiği veya eklenti olan yeni parçalar yerlerine konulduğu takdirde, sigortacının ip otek alacaklılarına karşı olan sorumluluğu sona erer. Malikin bir gemi alacaklısı hakkına temel oluşturan borçlarının ödenmesi hâlinde, sigortacının malike yapacağı ödeme, ancak gemi alacaklısı hakkının teminatını oluşturan unsurların rizikonun gerçekleşme sinden hemen sonra taşıdıkları değer oranında sigortacıyı ipotekli alacaklıya karşı sorumluluktan kurtarır. cc) Gemi ipoteğinin sigortacıya bildirilmesi aaa) Bildirim yükümü
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1023**, «Madde 1023» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1023 - (1)   Sigortacı,   geminin   önceki   durumuna   getirilmesi   veya   gemi  alacaklılarına   verilmesi   amacıyla   malike   tazminat   bed eline   sayılmak   üzere   ödemede

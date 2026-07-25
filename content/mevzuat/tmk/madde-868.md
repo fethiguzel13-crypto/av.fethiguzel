@@ -11,12 +11,11 @@ wordCount: 4316
 
 ---
 
-Madde 868 - Malik, rehinli taşınmazın güvence altına aldığı al acağın yirmide birinden az  değeri olan bir parçasını başkasına devrederse; alacaklı, kendisine bu parça   ile orantılı bir ödeme  yapıldığı veya taşınmazın geri kalan kı smı yeterli güvence oluşturduğu takdirde, devredilen parça  üzerindeki rehni kaldırmaktan k açınamaz.
+Madde 868 - Malik, rehinli taşınmazın güvence altına aldığı al acağın yirmide birinden az değeri olan bir parçasını başkasına devrederse; alacaklı, kendisine bu parça ile orantılı bir ödeme yapıldığı veya taşınmazın geri kalan kı smı yeterli güvence oluşturduğu takdirde, devredilen parça üzerindeki rehni kaldırmaktan k açınamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 868**, «3. Reh inli taşınmazın kısmen devri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 868 - Malik, rehinli taşınmazın güvence altına aldığı al acağın yirmide birinden az  değeri olan bir parçasını başkasına devrederse; alacaklı, kendisine bu parça   ile orantılı bir ödeme  yapıldığı veya taşınmazın geri kalan kı smı yeterli güvence oluşturduğu takdirde, devredilen parça  üzerindeki rehni kaldırmaktan k açınamaz.

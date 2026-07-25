@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4295
 ---
 
-**II   -   Bildirme   yükümlülüğü**
+**II - Bildirme yükümlülüğü**
 
 ---
 
-Madde 919 - (1)   Gönderen,   gerektiğinde   eşyayı   ambalajlamak   ve   işaretlemekle   ve  gerekli   belgele ri   sağlamakla,   ayrıca   taşıma   işleri   komisyoncusunun   edimlerini   yerine  getirebilmesi   için   gerekli   olan   bilgileri   ona   vermekle   yükümlüdür.   Yük   tehlikeli   bir   eşya   ise  gönderen,   taşıma   işleri   komisyoncusuna   tehlikenin   niteliğini,   alınması   gereken   önlemleri  yaz ılı   olarak   ve   zamanında   bildirmekle   yükümlüdür.  (2)   Gönderen,   kendisine   herhangi   bir   kusur   yüklenmese   bile   taşıma   işleri   komisyoncusunun;  a)   Eşyanın   yetersiz   ambalajlanma   ve   işaretlenmesinden,  b)   Yükün   tehlikesi   hakkında   yeterli   bilgi   verilmemesinden   veya  c)   Eşya   ile   ilgili   resmî   işlemler   için   gerekli   olan   belgelerin   ve   bilgilerin   eksikliğinden,  yokluğundan   ya   da   gerçeğe   aykırılığından,  kaynaklanan   giderlerini   ve   zararını   karşılamakla   yükümlüdür.   864   üncü   maddenin  ikinci   ilâ   beşinci   fıkraları   burada   da   uyg ulanır.
+Madde 919 - (1) Gönderen, gerektiğinde eşyayı ambalajlamak ve işaretlemekle ve gerekli belgele ri sağlamakla, ayrıca taşıma işleri komisyoncusunun edimlerini yerine getirebilmesi için gerekli olan bilgileri ona vermekle yükümlüdür. Yük tehlikeli bir eşya ise gönderen, taşıma işleri komisyoncusuna tehlikenin niteliğini, alınması gereken önlemleri yaz ılı olarak ve zamanında bildirmekle yükümlüdür. (2) Gönderen, kendisine herhangi bir kusur yüklenmese bile taşıma işleri komisyoncusunun; a) Eşyanın yetersiz ambalajlanma ve işaretlenmesinden, b) Yükün tehlikesi hakkında yeterli bilgi verilmemesinden veya c) Eşya ile ilgili resmî işlemler için gerekli olan belgelerin ve bilgilerin eksikliğinden, yokluğundan ya da gerçeğe aykırılığından, kaynaklanan giderlerini ve zararını karşılamakla yükümlüdür. 864 üncü maddenin ikinci ilâ beşinci fıkraları burada da uyg ulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 919**, «II   -   Bildirme   yükümlülüğü» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 919 - (1)   Gönderen,   gerektiğinde   eşyayı   ambalajlamak   ve   işaretlemekle   ve  gerekli   belgele ri   sağlamakla,   ayrıca   taşıma   işleri   komisyoncusunun   edimlerini   yerine  getirebilmesi   için   gerekli   olan   bilgileri   ona   vermekle   yükümlüdür.   Yük   tehlikeli   bir   eşya   ise  gönderen,   taşıma   işleri   komisyoncusuna   tehlikenin   niteliğini,   alınması  … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

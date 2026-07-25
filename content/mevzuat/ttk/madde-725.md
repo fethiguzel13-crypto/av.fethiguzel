@@ -13,12 +13,11 @@ wordCount: 4260
 
 ---
 
-Madde 725 - (1)   Hamil   başvurma   yoluyla;  a)   Poliçenin   kabul   edilmemiş   veya   ödenmemiş   olan   bedelini   ve   şart   kılınmışsa   işlemiş  faizi,  b)   Vadenin   gelmesinden   itibaren   işleyecek   faizi,  c)   Protestonun   ve   hamil   tarafından   tebliğ   olunan   ihbar ların   giderleriyle   diğer   giderleri   ve  d)   Poliçe   bedelinin   binde   üçünü   aşmamak   üzere   komisyon   ücretini,  isteyebilir.  (2)   Başvurma   hakkı   vadenin   gelmesinden   önce   kullanılırsa,   poliçe   bedelinden   bir  iskonto   yapılır.   Bu   iskonto   başvurma   tarihinde   hamilin   yerl eşim   yerinde   geçerli   olan   resmî  iskonto   oranına   göre   hesap   edilir.
+Madde 725 - (1) Hamil başvurma yoluyla; a) Poliçenin kabul edilmemiş veya ödenmemiş olan bedelini ve şart kılınmışsa işlemiş faizi, b) Vadenin gelmesinden itibaren işleyecek faizi, c) Protestonun ve hamil tarafından tebliğ olunan ihbar ların giderleriyle diğer giderleri ve d) Poliçe bedelinin binde üçünü aşmamak üzere komisyon ücretini, isteyebilir. (2) Başvurma hakkı vadenin gelmesinden önce kullanılırsa, poliçe bedelinden bir iskonto yapılır. Bu iskonto başvurma tarihinde hamilin yerl eşim yerinde geçerli olan resmî iskonto oranına göre hesap edilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 725**, «Madde 725» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **V

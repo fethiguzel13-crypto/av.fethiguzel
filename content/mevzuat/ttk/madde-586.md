@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4317
 ---
 
-**II   -   Tescil  1.   İstem**
+**II - Tescil 1. İstem**
 
 ---
 
-Madde 586 - (1)   Şirket   sözleşmesinin   575   inci   maddede   öngörüldüğü   şekilde  düzenlenmesinden   sonra,   tescil   için,   şirket   merkezinin   bulunduğu   yerde ki   ticaret   siciline   başvurulur.  (2)   Başvuru,   müdürlerin   tümü   tarafından   imzalanır.   Başvuruya   aşağıdaki   belgeler   eklenir:  a)   Şirket   sözleşmesinin   onaylanmış   bir   örneği.  b)   (Mülga:   15/7/2016 - 6728/73   md.)  c)   Yerleşim   yerleri   de   gösterilerek   şirketi   temsile   ye tkili   kişileri   ve   denetçinin   seçimini  gösterir   belge.  (3)   Dilekçede   şu   kayıtlar   yer   alır:  a)   Bütün   ortakların   adları   ve   soyadları   veya   unvanları,   yerleşim   yerleri,   vatandaşlıkları.  b)   Her   ortağın   üstlendiği   esas   sermaye   payı   ve   ödediği   toplam   tutar.  c)   İst er   ortak   ister   üçüncü   kişi   olsun,   müdürlerin   adları   ve   soyadları   veya   unvanları.  d)   Şirketin   ne   suretle   temsil   edileceği.
+Madde 586 - (1) Şirket sözleşmesinin 575 inci maddede öngörüldüğü şekilde düzenlenmesinden sonra, tescil için, şirket merkezinin bulunduğu yerde ki ticaret siciline başvurulur. (2) Başvuru, müdürlerin tümü tarafından imzalanır. Başvuruya aşağıdaki belgeler eklenir: a) Şirket sözleşmesinin onaylanmış bir örneği. b) (Mülga: 15/7/2016 - 6728/73 md.) c) Yerleşim yerleri de gösterilerek şirketi temsile ye tkili kişileri ve denetçinin seçimini gösterir belge. (3) Dilekçede şu kayıtlar yer alır: a) Bütün ortakların adları ve soyadları veya unvanları, yerleşim yerleri, vatandaşlıkları. b) Her ortağın üstlendiği esas sermaye payı ve ödediği toplam tutar. c) İst er ortak ister üçüncü kişi olsun, müdürlerin adları ve soyadları veya unvanları. d) Şirketin ne suretle temsil edileceği.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 586**, «II   -   Tescil  1.   İstem» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 586 - (1)   Şirket   sözleşmesinin   575   inci   maddede   öngörüldüğü   şekilde  düzenlenmesinden   sonra,   tescil   için,   şirket   merkezinin   bulunduğu   yerde ki   ticaret   siciline   başvurulur.  (2)   Başvuru,   müdürlerin   tümü   tarafından   imzalanır.   Başvuruya   aşağıdaki   belgeler   eklenir:  a)   Şirket   sözleşmesinin   onaylanmış   bir   örneği.  b)   (Mülga:   15/7/2… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

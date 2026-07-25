@@ -13,18 +13,17 @@ wordCount: 4311
 
 Madde 446 - Rekabet yasağına aykırı davranan işçi, bunun sonucu olarak işverenin
 uğradığı bütün zararları gidermekle yükümlüdür.
-Yasağa  aykırı  davranış  bir  ceza  koşuluna  bağlanmışsa  ve  sözleşmede  aksine  bir
-hüküm  de  yoksa,  işçi  öngörülen  miktarı  ödeyerek  rekabet  yasağına  ilişkin  borcundan
+Yasağa aykırı davranış bir ceza koşuluna bağlanmışsa ve sözleşmede aksine bir
+hüküm de yoksa, işçi öngörülen miktarı ödeyerek rekabet yasağına ilişkin borcundan
 kurtulabilir; ancak, işçi bu miktarı aşan zararı gidermek zorundadır.
-İşveren,  ceza  koşulu  ve  doğabilecek  ek  zararlarının  ödenmesi  dışında,  sözleşmede
+İşveren, ceza koşulu ve doğabilecek ek zararlarının ödenmesi dışında, sözleşmede
 yazılı olarak açıkça saklı tutması koşuluyla, kendisinin ihlal veya tehdit edilen menfaatlerinin
-önemi ile işçinin davranışı haklı gösteriyorsa,  yasağa aykırı davranışa son verilmesini de
+önemi ile işçinin davranışı haklı gösteriyorsa, yasağa aykırı davranışa son verilmesini de
 isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 446**, «3. Aykırı davranışların sonuçları» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 446 - Rekabet yasağına aykırı davranan işçi, bunun sonucu olarak işverenin

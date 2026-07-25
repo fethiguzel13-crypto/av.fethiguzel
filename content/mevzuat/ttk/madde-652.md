@@ -12,12 +12,11 @@ wordCount: 4315
 
 ---
 
-Madde 652 - (1)   İptal   kararı   üzerine   hak   sahibi   hakkını   senetsiz   olarak   da   ileri  süreb ilir   veya   yeni   bir   senet   düzenlenmesini   isteyebilir.  (2)   Bunun   dışında   iptal   usulü   ve   hükümleri   hakkında,   kıymetli   evrakın   çeşitli   türlerine  ilişkin   özel   hükümler   uygulanır.
+Madde 652 - (1) İptal kararı üzerine hak sahibi hakkını senetsiz olarak da ileri süreb ilir veya yeni bir senet düzenlenmesini isteyebilir. (2) Bunun dışında iptal usulü ve hükümleri hakkında, kıymetli evrakın çeşitli türlerine ilişkin özel hükümler uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 652**, «Madde 652» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

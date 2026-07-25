@@ -11,12 +11,11 @@ wordCount: 4279
 
 ---
 
-Madde 279 - Eşle rin b irlikte yaşadıkları konut veya ev eşyası ortaklık mallarına dahil ise,  sağ kalan eş, payına mahsuben bu nların mülkiyetinin kendisine verilmesini isteyebilir.  Haklı sebeplerin varlığı hâlinde, sağ kalan eş veya ölenin diğer yasal mirasçılarının  is temiy le bunlar üzerinde mülkiyet yerine intifa veya oturma hakkı tanınabilir.  Mal ortaklığı rejiminin ölüm dışınd aki bir sebeple son bulması hâlinde , eşlerden her biri,  üstün bir yararının varlığını ispat etmek suretiyle aynı istemleri ileri sürebilir.
+Madde 279 - Eşle rin b irlikte yaşadıkları konut veya ev eşyası ortaklık mallarına dahil ise, sağ kalan eş, payına mahsuben bu nların mülkiyetinin kendisine verilmesini isteyebilir. Haklı sebeplerin varlığı hâlinde, sağ kalan eş veya ölenin diğer yasal mirasçılarının is temiy le bunlar üzerinde mülkiyet yerine intifa veya oturma hakkı tanınabilir. Mal ortaklığı rejiminin ölüm dışınd aki bir sebeple son bulması hâlinde , eşlerden her biri, üstün bir yararının varlığını ispat etmek suretiyle aynı istemleri ileri sürebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 279**, «2. Aile konutu ve ev eşyası» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 279 - Eşle rin b irlikte yaşadıkları konut veya ev eşyası ortaklık mallarına dahil ise,  sağ kalan eş, payına mahsuben bu nların mülkiyetinin kendisine verilmesini isteyebilir.  Haklı sebeplerin varlığı hâlinde, sağ kalan eş veya ölenin diğer yasal mirasçılarının  is temiy le bunlar üzerinde mülkiyet yerine intifa veya oturma hakkı tanınabilir.  Mal ortaklığı rejiminin ölüm dışınd aki bir se… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

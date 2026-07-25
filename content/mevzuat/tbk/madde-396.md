@@ -11,23 +11,22 @@ wordCount: 4262
 
 ---
 
-Madde 396 - İşçi,  yüklendiği  işi  özenle  yapmak  ve  işverenin  haklı  menfaatinin
+Madde 396 - İşçi, yüklendiği işi özenle yapmak ve işverenin haklı menfaatinin
 korunmasında sadakatle davranmak zorundadır.
 İşçi, işverene ait makineleri, araç ve gereçleri, teknik sistemleri, tesisleri ve taşıtları
-usulüne  uygun  olarak  kullanmak  ve  bunlarla  birlikte  işin  görülmesi  için  kendisine  teslim
+usulüne uygun olarak kullanmak ve bunlarla birlikte işin görülmesi için kendisine teslim
 edilmiş olan malzemeye özen göstermekle yükümlüdür.
-İşçi,  hizmet  ilişkisi  devam  ettiği  sürece,  sadakat  borcuna  aykırı  olarak  bir  ücret
-karşılığında  üçüncü  kişiye  hizmette  bulunamaz  ve  özellikle  kendi  işvereni  ile  rekabete
+İşçi, hizmet ilişkisi devam ettiği sürece, sadakat borcuna aykırı olarak bir ücret
+karşılığında üçüncü kişiye hizmette bulunamaz ve özellikle kendi işvereni ile rekabete
 girişemez.
 İşçi, iş gördüğü sırada öğrendiği, özellikle üretim ve iş sırları gibi bilgileri, hizmet
-ilişkisinin  devamı  süresince  kendi  yararına  kullanamaz  veya  başkalarına  açıklayamaz.
+ilişkisinin devamı süresince kendi yararına kullanamaz veya başkalarına açıklayamaz.
 İşverenin haklı menfaatinin korunması için gerekli olduğu ölçüde işçi, hizmet ilişkisinin sona
 ermesinden sonra da sır saklamakla yükümlüdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 396**, «II. Özen ve sadakat borcu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 396 - İşçi,  yüklendiği  işi  özenle  yapmak  ve  işverenin  haklı  menfaatinin

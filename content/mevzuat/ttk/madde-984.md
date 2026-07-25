@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4298
 ---
 
-**G)   Zamanaşımı**
+**G) Zamanaşımı**
 
 ---
 
-Madde 984 - (1)   Tescil   edilmiş   ayni   haklardan   doğan   istem   hakları,   tescil   devam  ettiği   sürece   zamanaşımına   ta bi   değildir.   Belli   zamanda   ifası   gerekip   de   birikmiş   olan  edimlerle   tazminat   ödenmesine   ilişkin   istem   hakları   bunun   istisnasını   oluşturur.  (2)   Sicile   kayıtlı   bir   itiraza   konu   olan   haklar   da   sicile   kayıtlı   haklar   hükmündedir.  (3)   Gemi   ipoteğinin   tescili,   al acak   hakkında   zamanaşımının   işlemesine   engel   olur.
+Madde 984 - (1) Tescil edilmiş ayni haklardan doğan istem hakları, tescil devam ettiği sürece zamanaşımına ta bi değildir. Belli zamanda ifası gerekip de birikmiş olan edimlerle tazminat ödenmesine ilişkin istem hakları bunun istisnasını oluşturur. (2) Sicile kayıtlı bir itiraza konu olan haklar da sicile kayıtlı haklar hükmündedir. (3) Gemi ipoteğinin tescili, al acak hakkında zamanaşımının işlemesine engel olur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 984**, «G)   Zamanaşımı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 984 - (1)   Tescil   edilmiş   ayni   haklardan   doğan   istem   hakları,   tescil   devam  ettiği   sürece   zamanaşımına   ta bi   değildir.   Belli   zamanda   ifası   gerekip   de   birikmiş   olan  edimlerle   tazminat   ödenmesine   ilişkin   istem   hakları   bunun   istisnasını   oluşturur.  (2)   Sicile   kayıtlı   bir   itiraza   konu   olan   haklar   da   sicile   kayıtlı   hakl… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

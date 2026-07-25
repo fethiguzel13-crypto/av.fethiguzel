@@ -9,16 +9,15 @@ wordCount: 4314
 
 **b) Taşıyıcı, sefere devamdan vazgeçer veya taşıyıcının kusuru sebebiyle yolcu yol üzerinde bulunan bi r yerde inmek zorunda kalırsa, taşıma ücreti ödenmez; ödenmişse yolcu tamamını geri alır. Yolcunun tazminat hakkı saklıdır.
 c) Sefer, yolcunun kendisini veya taşıma aracını ilgilendiren ve taşıyıcı için kusur oluşturmayan bir sebepten duraklarsa, ücret, gi dilen yol ile orantılı olarak ödenir. Bu hâlde taraflardan hiçbiri diğerine tazminat ödemez.
-E)   Bagaj  I   -   Taşıyıcının   sorumluluğu**
+E) Bagaj I - Taşıyıcının sorumluluğu**
 
 ---
 
-Madde 912 - (1)   Yolcu,   bagajı   ile   el   bagajı   için,   aksine   sözleşme   yoksa,   ayrı   ücret  ödemez.   Taşıyıcı,   yolcunun   eşyasının   zıya ından   veya   hasara   uğramasından   Kanunun   875   ilâ  886   ncı   maddeleri   uyarınca   sorumludur.  (2)   Yolcunun   kişisel   eşyasından   taşıyıcı   sorumludur.
+Madde 912 - (1) Yolcu, bagajı ile el bagajı için, aksine sözleşme yoksa, ayrı ücret ödemez. Taşıyıcı, yolcunun eşyasının zıya ından veya hasara uğramasından Kanunun 875 ilâ 886 ncı maddeleri uyarınca sorumludur. (2) Yolcunun kişisel eşyasından taşıyıcı sorumludur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 912**, «Madde 912» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **b) Taşıyıcı, sefere devamdan vazgeçer veya taşıyıcının kusuru sebebiyle yolcu yol üzerinde bulunan bi r yerde inmek zorunda kalırsa, taşıma ücreti ödenmez; ödenmişse yolcu tamamını geri alır. Yolcunun tazminat hakkı saklıdır.

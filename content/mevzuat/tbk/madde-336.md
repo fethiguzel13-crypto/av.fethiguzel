@@ -13,7 +13,7 @@ I. Konusu**
 ---
 
 Madde 336 - Taşınmaz kiralarında kiraya veren, işlemiş bir yıllık ve işlemekte olan
-altı  aylık  kira  bedelinin  güvencesi  olmak  üzere,  kiralananda  bulunan  ve  kiralananın
+altı aylık kira bedelinin güvencesi olmak üzere, kiralananda bulunan ve kiralananın
 döşenmesine veya kullanılmasına yarayan taşınırlar üzerinde hapis hakkına sahiptir.
 Kiraya verenin hapis hakkı, alt kiracının asıl kiracıya olan kira borcunu aşmamak
 üzere, alt kiracının kiralanana getirdiği aynı nitelikteki taşınırları da kapsar.
@@ -22,7 +22,6 @@ Hapis hakkı, kiracının haczedilemeyen malları üzerinde kullanılamaz.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 336**, «Madde 336» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **H. Kiraya verenin hapis hakkı

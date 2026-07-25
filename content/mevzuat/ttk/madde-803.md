@@ -11,13 +11,12 @@ wordCount: 4258
 
 ---
 
-Madde 803 - (1)   Bir   çekin   düzenleyeni   veya   hamili   onu,   804   üncü   maddede  gösterilen   sonuçları   doğurmak   üzere   çizebilir.
-(2)   Çekin   çizilmesi,   çekin   ön   yüzüne   birbirine   paralel   iki   çizgi   çekilerek   yapılır.   Çek,  genel   veya   ö zel   olarak   çizilebilir.  (3)   İki   çizgi   arasına   hiçbir   ibare   konmamış   veya   “banka”   kelimesi   veya   buna   benzer  bir   ibare   konmuş   ise   çek,   genel   olarak   çizilmiş   demektir.  (4)   İki   çizgi   arasına   belirli   bir   bankanın   ticaret   unvanı   yazılmış   ise   çek,   özel   olarak  çiz ilmiş   demektir.  (5)   Genel   çizgi   özel   çizgiye   dönüştürülebilir;   özel   çizgi   genel   çizgiye   dönüştürülemez.  (6)   Çizgilerin   veya   zikredilen   bankanın   ticaret   unvanının   silinmesi   hükümsüz   sayılır.
+Madde 803 - (1) Bir çekin düzenleyeni veya hamili onu, 804 üncü maddede gösterilen sonuçları doğurmak üzere çizebilir.
+(2) Çekin çizilmesi, çekin ön yüzüne birbirine paralel iki çizgi çekilerek yapılır. Çek, genel veya ö zel olarak çizilebilir. (3) İki çizgi arasına hiçbir ibare konmamış veya “banka” kelimesi veya buna benzer bir ibare konmuş ise çek, genel olarak çizilmiş demektir. (4) İki çizgi arasına belirli bir bankanın ticaret unvanı yazılmış ise çek, özel olarak çiz ilmiş demektir. (5) Genel çizgi özel çizgiye dönüştürülebilir; özel çizgi genel çizgiye dönüştürülemez. (6) Çizgilerin veya zikredilen bankanın ticaret unvanının silinmesi hükümsüz sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 803**, «Madde 803» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 803 - (1)   Bir   çekin   düzenleyeni   veya   hamili   onu,   804   üncü   maddede  gösterilen   sonuçları   doğurmak   üzere   çizebilir.

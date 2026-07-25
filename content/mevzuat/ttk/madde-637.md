@@ -11,16 +11,15 @@ wordCount: 4260
 c) İflasın açılması ile.
 d) Kanunda öngörülen diğer sona erme hâllerinde. (2) Uzun süreden beri şirketin kanunen gerekli organlarından biri mevcut değilse veya genel kurul toplanamıyorsa, ortaklardan veya şirket alacaklılarından birinin şirketin feshini istemesi üzerine şirket merkezinin bulunduğu yerdeki asliye ticaret mahkemesi, müdürleri dinleyerek şirketin, durumunu Kanuna uygun hâle getirmesi için bir süre belirler, buna rağmen durum düzeltilmezse, şirketin feshine karar verir. (3) Haklı sebeplerin varlığında, her ortak mahkemeden şirketin feshini isteyebilir. Mahkeme, istem yerine, davacı ortağa payının gerçek değerinin ödenmesine ve davacı ortağın şirketten çıkarılmasına veya duruma uygun düşen ve kabul edilebilir diğer bir çözüme hükmedebilir. (4) Fesih davası açıldığında mahkeme taraflardan birinin istemi üzerine gerekli önlemleri alabilir. (5) Sona ermenin sonuçlarına anonim şirk etlere ilişkin hükümler uygulanır. 94 Bu maddenin “II
 - İflasın bildirilmesi veya ertelenmesi” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 63 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir. 95 26/6/2012 tarihli ve 6335 sayılı Kanunun 41 inci maddesi yle, bu fıkrada yer alan “ve işlem denetçileriyle” ibaresi madde metninden çıkarılmıştır. 96 28/3/2013 tarihli ve 6455 sayılı Kanunun 82 nci maddesiyle, bu maddede yer alan “Anonim” ibaresinden önce gelmek üzere “397 nci maddenin beşinci ve altıncı fıkralar ı dışında kalan,” ibaresi eklenmiştir.
-B)   Tescil   ve   ilan**
+B) Tescil ve ilan**
 
 ---
 
-Madde 637 - (1)   Sona   erme,   iflastan   ve   mahkeme   kararından   başka   bir   sebepten   ileri  gelmişse   müdür,   birden   fazla   müdürün   bulunması   hâlinde   en   az   iki   müdür,   bunu   ticaret  siciline   tescil   ve   ilan   ettirir.  C )   Çıkma   ve   çıkarılma  I   -   Genel   olarak
+Madde 637 - (1) Sona erme, iflastan ve mahkeme kararından başka bir sebepten ileri gelmişse müdür, birden fazla müdürün bulunması hâlinde en az iki müdür, bunu ticaret siciline tescil ve ilan ettirir. C ) Çıkma ve çıkarılma I - Genel olarak
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 637**, «Madde 637» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **b) Genel kurul kararı ile.

@@ -15,16 +15,16 @@ Madde 407 - Çalıştırılan işçilerin ücret, prim, ikramiye ve bu nitelikte
 istihkaktan o ay içinde ödenenlerin özel olarak açılan banka hesabına yatırılmak suretiyle
 ödenmesi hususunda; tabi olduğu vergi mükellefiyeti türü, işletme büyüklüğü, çalıştırdığı işçi
 
-sayısı,  işyerinin  bulunduğu  il  ve  benzeri  unsurları  dikkate  alarak  iş  sahiplerini  zorunlu
-tutmaya,   banka   hesabına  yatırılacak  ücret,  prim,  ikramiye  ve  bu  nitelikteki  her  çeşit
+sayısı, işyerinin bulunduğu il ve benzeri unsurları dikkate alarak iş sahiplerini zorunlu
+tutmaya, banka hesabına yatırılacak ücret, prim, ikramiye ve bu nitelikteki her çeşit
 istihkakın, brüt ya da kanuni kesintiler düşüldükten sonra kalan net miktar üzerinden olup
-olmayacağını  belirlemeye  Cumhurbaşkanlığı  yetkilidir.  Çalıştırdığı  işçilerin  ücret,  prim,
+olmayacağını belirlemeye Cumhurbaşkanlığı yetkilidir. Çalıştırdığı işçilerin ücret, prim,
 ikramiye ve bu nitelikteki her çeşit istihkakını özel olarak açılan banka hesapları vasıtasıyla
-ödeme  zorunluluğuna  tabî  tutulan  iş  sahipleri,  işçilerinin  ücret,  prim,  ikramiye  ve  bu
-nitelikteki her çeşit istihkakını özel olarak açılan banka hesapları dışında ödeyemezler.  Her
-ödeme  döneminde,  işçiye  hesap  pusulası  verilir.  İşçilerin  ücret,  prim,  ikramiye  ve  bu
-nitelikteki  her  çeşit  istihkaklarının  özel  olarak  açılan  banka  hesabına  yatırılmak  suretiyle
-ödenmesine  ilişkin  diğer  ûsul  ve  esaslar,  anılan  bakanlıklarca  müştereken  çıkarılacak
+ödeme zorunluluğuna tabî tutulan iş sahipleri, işçilerinin ücret, prim, ikramiye ve bu
+nitelikteki her çeşit istihkakını özel olarak açılan banka hesapları dışında ödeyemezler. Her
+ödeme döneminde, işçiye hesap pusulası verilir. İşçilerin ücret, prim, ikramiye ve bu
+nitelikteki her çeşit istihkaklarının özel olarak açılan banka hesabına yatırılmak suretiyle
+ödenmesine ilişkin diğer ûsul ve esaslar, anılan bakanlıklarca müştereken çıkarılacak
 yönetmelikle düzenlenir.
 5
 
@@ -36,7 +36,6 @@ Ancak, işçinin kasten sebebiyet verdiği yargı kararıyla sabit bir zarardan 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 407**, «b. Ücretin korunması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 407 - Çalıştırılan işçilerin ücret, prim, ikramiye ve bu nitelikteki her çeşit

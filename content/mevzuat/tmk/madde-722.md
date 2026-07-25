@@ -13,12 +13,11 @@ a. Mülkiyet ilişkisi**
 
 ---
 
-Madde 722 - Bir   kimse   kendi   arazisindeki   yapıda   başkasının   malzemesini   ya   da  başkasının   araz isindeki   yapıda   kendisinin   veya   bir   başkasının   malzemesini   kullanırsa,   bu  malzeme arazinin   bütünleyici parçası olur.  Ancak, sahibinin rızası olmaksızın kullanılmış olan malzemenin sökülmesi aşırı zarara yol  açmayacaksa, malzeme sahibi, gideri yapıyı yaptır ana ait olmak üzere bunların sökülüp kendisine  verilmesini isteyebilir.  Aynı koşullar altı nda arazinin maliki de, rız ası olmaksızın yapılan yapıda kullanılan  malzemenin, gideri yapıyı yaptırana ait olmak üzere sökülüp kaldırılmasını isteyebilir.
+Madde 722 - Bir kimse kendi arazisindeki yapıda başkasının malzemesini ya da başkasının araz isindeki yapıda kendisinin veya bir başkasının malzemesini kullanırsa, bu malzeme arazinin bütünleyici parçası olur. Ancak, sahibinin rızası olmaksızın kullanılmış olan malzemenin sökülmesi aşırı zarara yol açmayacaksa, malzeme sahibi, gideri yapıyı yaptır ana ait olmak üzere bunların sökülüp kendisine verilmesini isteyebilir. Aynı koşullar altı nda arazinin maliki de, rız ası olmaksızın yapılan yapıda kullanılan malzemenin, gideri yapıyı yaptırana ait olmak üzere sökülüp kaldırılmasını isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 722**, «Madde 722» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III. Arazideki yapılar

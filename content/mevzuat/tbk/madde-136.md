@@ -15,17 +15,16 @@ I. Genel olarak**
 Madde 136 - Borcun ifası borçlunun sorumlu tutulamayacağı sebeplerle imkânsızlaşırsa,
 borç sona erer.
 Karşılıklı borç yükleyen sözleşmelerde imkânsızlık sebebiyle borçtan kurtulan borçlu,
-karşı  taraftan  almış  olduğu  edimi  sebepsiz  zenginleşme  hükümleri  uyarınca  geri  vermekle
+karşı taraftan almış olduğu edimi sebepsiz zenginleşme hükümleri uyarınca geri vermekle
 yükümlü olup, henüz kendisine ifa edilmemiş olan edimi isteme hakkını kaybeder. Kanun veya
 sözleşmeyle borcun ifasından önce doğan hasarın alacaklıya yükletilmiş olduğu durumlar, bu
 hükmün dışındadır.
-Borçlu  ifanın  imkânsızlaştığını  alacaklıya  gecikmeksizin  bildirmez  ve  zararın
+Borçlu ifanın imkânsızlaştığını alacaklıya gecikmeksizin bildirmez ve zararın
 artmaması için gerekli önlemleri almazsa, bundan doğan zararları gidermekle yükümlüdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 136**, «Madde 136» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **E. İfa imkânsızlığı

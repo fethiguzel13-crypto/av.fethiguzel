@@ -12,12 +12,11 @@ a) Şirket süresinin uzatılması hâlinde itiraz hakkı**
 
 ---
 
-Madde 248 - (1)   Ortaklarca   alınan   şirketin   süresinin   uzatılmasına   ilişkin   karara,  ortaklardan   herhangi   birinin   kişisel   alacaklısı   itiraz   edebilir.  (2)   İtiraz   edebilmek   için   alacaklının,   m ahkeme   kararı   veya   o   nitelikte   belgeye   ya   da  kesinleşmiş   icra   takibine   dayanması   ve   uzatma   kararının   ilanı   tarihinden   itibaren   onbeş   gün  içinde   itirazın   noter   aracılığıyla   tebliği   için   notere   başvurması   şarttır.   Süresinde   yapılmamışsa  itiraz   hakkı   düşer.  ( 3)   Sürenin   uzatılmasına   ilişkin   karar   tescil   ve   ilan   edilmemiş   ise,   alacaklı   her   zaman  bu   karara   itiraz   edebilir.
+Madde 248 - (1) Ortaklarca alınan şirketin süresinin uzatılmasına ilişkin karara, ortaklardan herhangi birinin kişisel alacaklısı itiraz edebilir. (2) İtiraz edebilmek için alacaklının, m ahkeme kararı veya o nitelikte belgeye ya da kesinleşmiş icra takibine dayanması ve uzatma kararının ilanı tarihinden itibaren onbeş gün içinde itirazın noter aracılığıyla tebliği için notere başvurması şarttır. Süresinde yapılmamışsa itiraz hakkı düşer. ( 3) Sürenin uzatılmasına ilişkin karar tescil ve ilan edilmemiş ise, alacaklı her zaman bu karara itiraz edebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 248**, «Madde 248» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **5. Kişisel alac aklıların durumu

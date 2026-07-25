@@ -13,17 +13,16 @@ a. Yetkinin sınırlanması ve geri alınması**
 ---
 
 Madde 42 - Temsil olunan, hukuki bir işlemden doğan temsil yetkisini her zaman
-sınırlayabilir  veya  geri  alabilir.  Ancak,  taraflar  arasındaki  hizmet,  vekâlet  veya  ortaklık
+sınırlayabilir veya geri alabilir. Ancak, taraflar arasındaki hizmet, vekâlet veya ortaklık
 sözleşmeleri gibi hukuki ilişkilerden doğabilecek haklar saklıdır.
 Temsil olunan, bu hakkından önceden feragat edemez.
 Temsil olunan verdiği yetkiyi üçüncü kişilere açıkça veya dolaylı biçimde bildirmişse,
-bu  yetkiyi  tamamen  veya  kısmen  geri  aldığını  onlara  bildirmediği  takdirde,  yetkinin  geri
+bu yetkiyi tamamen veya kısmen geri aldığını onlara bildirmediği takdirde, yetkinin geri
 alındığını iyiniyetli üçüncü kişilere karşı ileri süremez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 42**, «Madde 42» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Hukuki işlemden doğan yetki

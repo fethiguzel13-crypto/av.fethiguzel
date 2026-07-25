@@ -11,12 +11,11 @@ wordCount: 4290
 
 ---
 
-Madde 1361 - (1)   İhtiyati   ha ciz   kararı   veren   mahkeme,   haksız   çıkan   alacaklı  aleyhine   açılacak   tazminat   davasını   da   görmeye   yetkilidir.  (2)   Deniz   alacağının   esası   hakkında   yurtiçinde   veya   yurt   dışında   mahkemede   veya  hakem   önünde   dava   açılmışsa,   bu   davanın   sonuçlanması,   tazminat   davası   yönünden   bekletici  sorun   oluşturur.
+Madde 1361 - (1) İhtiyati ha ciz kararı veren mahkeme, haksız çıkan alacaklı aleyhine açılacak tazminat davasını da görmeye yetkilidir. (2) Deniz alacağının esası hakkında yurtiçinde veya yurt dışında mahkemede veya hakem önünde dava açılmışsa, bu davanın sonuçlanması, tazminat davası yönünden bekletici sorun oluşturur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1361**, «d) Haksız ihtiyati haciz sebebiyle açılacak tazminat davası hakkında» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1361 - (1)   İhtiyati   ha ciz   kararı   veren   mahkeme,   haksız   çıkan   alacaklı  aleyhine   açılacak   tazminat   davasını   da   görmeye   yetkilidir.  (2)   Deniz   alacağının   esası   hakkında   yurtiçinde   veya   yurt   dışında   mahkemede   veya  hakem   önünde   dava   açılmışsa,   bu   davanın   sonuçlanması,   tazminat   davası   yönünden   bekletici  sorun   oluşturur.

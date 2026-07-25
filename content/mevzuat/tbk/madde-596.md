@@ -13,7 +13,7 @@ wordCount: 4265
 
 Madde 596 - Kefil, alacaklıya ifada bulunduğu ölçüde, onun haklarına halef olur.
 Kefil, bu hakları asıl borç muaccel olunca kullanabilir.
-Kefil,  aksi  kararlaştırılmamışsa,  rehin  hakları  ile  aynı  alacak  için  sağlanmış  diğer
+Kefil, aksi kararlaştırılmamışsa, rehin hakları ile aynı alacak için sağlanmış diğer
 güvencelerden sadece kefalet anında var olan veya bizzat asıl borçlu tarafından, sonradan
 özellikle bu alacak için verilmiş bulunanlara halef olur. Alacaklıya kısmen ifada bulunan
 kefil, rehin hakkının sadece bunu karşılayan kısmına halef olur. Alacaklının rehin konusu
@@ -23,7 +23,7 @@ Kefil ile asıl borçlu arasındaki hukuki ilişkiden doğan istem ve def’iler
 Bir alacağın güvencesini oluşturan rehin paraya çevrildiği veya borç rehin veren malik
 tarafından ödendiği takdirde malik, kefile karşı rücu hakkını, ancak kefil ile kendisi arasında
 böyle bir anlaşma varsa ya da rehin sonradan bir üçüncü kişi tarafından verilmişse kullanabilir.
-Kefilin  rücu  hakkına  ilişkin  zamanaşımı,  kefilin  alacaklıya  ifada  bulunduğu  anda
+Kefilin rücu hakkına ilişkin zamanaşımı, kefilin alacaklıya ifada bulunduğu anda
 işlemeye başlar.
 Kefil, dava hakkı vermeyen veya yanılma ya da ehliyetsizlik sebebiyle asıl borçluyu
 bağlamayan bir borç için ödemede bulunduğu takdirde, asıl borçluya karşı rücu hakkına sahip
@@ -33,7 +33,6 @@ sıfatıyla üstlenmişse asıl borçlu, ona karşı vekâlet sözleşmesi hük�
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 596**, «b. Kefilin rücu hakkı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 596 - Kefil, alacaklıya ifada bulunduğu ölçüde, onun haklarına halef olur.

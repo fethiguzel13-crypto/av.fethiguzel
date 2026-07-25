@@ -12,12 +12,11 @@ a. Son arzu ları anlatma**
 
 ---
 
-Madde 539 - Mirasbırakan; yakın ölüm tehlikesi, ulaşımın kesilmesi, h astalık, savaş gibi  olağanü stü durumlar yüzünden resmî   veya el ya zılı v asiyet name yapamıyorsa, sözlü vasiyet  yoluna başvurabilir.  Bunun için mirasbırakan, son arzularını iki   tanığa anlatır ve onlara bu beyanına uygun b ir  vasiyetname yazmaları veya yazdırm aları görevini yükler.  Res mî vasiyetname düzenlenmesinde okur ya zar ol ma koşulu dışında, tanıklara ilişkin  yasaklar, sözlü vasiyetteki tanıklar için de geçerlidir.
+Madde 539 - Mirasbırakan; yakın ölüm tehlikesi, ulaşımın kesilmesi, h astalık, savaş gibi olağanü stü durumlar yüzünden resmî veya el ya zılı v asiyet name yapamıyorsa, sözlü vasiyet yoluna başvurabilir. Bunun için mirasbırakan, son arzularını iki tanığa anlatır ve onlara bu beyanına uygun b ir vasiyetname yazmaları veya yazdırm aları görevini yükler. Res mî vasiyetname düzenlenmesinde okur ya zar ol ma koşulu dışında, tanıklara ilişkin yasaklar, sözlü vasiyetteki tanıklar için de geçerlidir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 539**, «Madde 539» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **4. Sözlü vasiyet

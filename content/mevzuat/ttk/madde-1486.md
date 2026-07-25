@@ -11,13 +11,12 @@ wordCount: 4302
 
 ---
 
-Madde 1486 - (1)   1453   üncü   maddenin   ikinci   fıkrasının   ikinci   cümles i,   1458   inci  maddenin   birinci   fıkrasının   ikinci   cümlesi,   1459   ve   1461   inci   maddeler,   1463   üncü   maddenin  birinci   fıkrası,   1472   ve   1477   nci   madde   hükümlerine   aykırı   yapılan   sözleşmeler   geçersizdir.
-(2)   1456   ncı   maddenin   birinci   fıkrası,   1465   ilâ   1468,   1479,   1480,   1482,   1484   ve   1485  inci   madde   hükümlerine   aykırı   sözleşme   şartları   geçersizdir.  (3)   1471   inci   maddenin   ikinci   fıkrası,   1474   ilâ   1476   ncı   madde   hükümleri   sigortalı  aleyhine   değiştirilemez;   değiştirilirse   bu   Kanun   hükümleri   uygulanır.  İKİNCİ   BÖLÜM  Can   Sigortaları  A)   Hayat   sigortası  I   -   Tanım
+Madde 1486 - (1) 1453 üncü maddenin ikinci fıkrasının ikinci cümles i, 1458 inci maddenin birinci fıkrasının ikinci cümlesi, 1459 ve 1461 inci maddeler, 1463 üncü maddenin birinci fıkrası, 1472 ve 1477 nci madde hükümlerine aykırı yapılan sözleşmeler geçersizdir.
+(2) 1456 ncı maddenin birinci fıkrası, 1465 ilâ 1468, 1479, 1480, 1482, 1484 ve 1485 inci madde hükümlerine aykırı sözleşme şartları geçersizdir. (3) 1471 inci maddenin ikinci fıkrası, 1474 ilâ 1476 ncı madde hükümleri sigortalı aleyhine değiştirilemez; değiştirilirse bu Kanun hükümleri uygulanır. İKİNCİ BÖLÜM Can Sigortaları A) Hayat sigortası I - Tanım
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1486**, «C) Koruyucu hükümler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1486 - (1)   1453   üncü   maddenin   ikinci   fıkrasının   ikinci   cümles i,   1458   inci  maddenin   birinci   fıkrasının   ikinci   cümlesi,   1459   ve   1461   inci   maddeler,   1463   üncü   maddenin  birinci   fıkrası,   1472   ve   1477   nci   madde   hükümlerine   aykırı   yapılan   sözleşmeler   geçersizdir.

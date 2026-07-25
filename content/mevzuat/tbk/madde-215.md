@@ -13,20 +13,19 @@ a. Davanın bildirimi**
 ---
 
 Madde 215 - Satılanın elinden alınması tehlikesi ile karşılaşan alıcı, kendisine karşı
-açılan davayı satıcıya bildirdiği zaman satıcı, durumun gereğine  göre ve  yargılama usulü
+açılan davayı satıcıya bildirdiği zaman satıcı, durumun gereğine göre ve yargılama usulü
 uyarınca ya alıcının yanında davaya katılmak ya da alıcı yerine geçerek üçüncü kişiye karşı
 davayı takip etmek ve savunmak zorundadır.
 Bildirme, davaya katılmaya ve savunmaya elverişli bir zamanda yapılmışsa, alıcının
 aleyhinde verilen hüküm, onun ağır kusuru yüzünden verildiği ispat edilmedikçe, satıcı için
 de sonuç doğurur.
-Dava,  kendisine  yüklenilemeyen  sebeplerden  dolayı  satıcıya  bildirilmemişse  satıcı,
+Dava, kendisine yüklenilemeyen sebeplerden dolayı satıcıya bildirilmemişse satıcı,
 zamanında bildirilmiş olsaydı daha elverişli bir hüküm elde edilebileceğini ispatladığı ölçüde
 sorumluluktan kurtulur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 215**, «Madde 215» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **2. Yargılama usulü

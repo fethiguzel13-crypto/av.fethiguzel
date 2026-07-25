@@ -11,18 +11,17 @@ wordCount: 4316
 
 ---
 
-Madde 273 - Taksitle  satışa  ilişkin  hükümlerden  yasal  temsilcinin  rızasına,
-sözleşmenin  hüküm  ve  sonuçlarını  doğurmasına  ve  geri  alma  açıklamasına,  alıcının
+Madde 273 - Taksitle satışa ilişkin hükümlerden yasal temsilcinin rızasına,
+sözleşmenin hüküm ve sonuçlarını doğurmasına ve geri alma açıklamasına, alıcının
 def’ilerine, satıcının alacağının devrine, hâkim tarafından sağlanan ödeme kolaylıklarına ve
 yetkili mahkeme ile tahkime ilişkin olanlar, ön ödemeli taksitle satışa da uygulanır.
-Satılanı  devir  süresi  bir  yıldan  daha  uzun  veya  belirsiz  olan  taksitle  satışta  alıcı,
+Satılanı devir süresi bir yıldan daha uzun veya belirsiz olan taksitle satışta alıcı,
 satılanın devrinden önce ödemeleri yapmakla yükümlü ise, ön ödemeli taksitle satışa ilişkin
 hükümler kıyas yoluyla uygulanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 273**, «III. Ortak hükümler» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 273 - Taksitle  satışa  ilişkin  hükümlerden  yasal  temsilcinin  rızasına,

@@ -12,12 +12,11 @@ wordCount: 4299
 
 ---
 
-Madde 1500 - (1)   Sigorta   ettiren,   en   az   bir   yıldan   beri   yürürlükte   bulunan   ve   bir  yıllık   primi   öden miş   olan   sigorta   sözleşmelerinde,   istediği   zaman   sözleşmeyi   sona   erdirerek  sigortadan   ayrılabilir.   Ayrılma   değeri,   ayrılmanın   istenildiği   andaki   genel   kabul   görmüş  aktüerya   kurallarına   uygun   bir   biçimde   hesaplanan   değerdir.  (2)   Yaşama   ihtimaline   karşı   yapı lan   sigortalarda,   sigortacıdan   ayrılma   değerinin  istenilebilmesi   için   sigortalının   sağlıklı   olduğunu   ispat   etmesi   gerekir.
+Madde 1500 - (1) Sigorta ettiren, en az bir yıldan beri yürürlükte bulunan ve bir yıllık primi öden miş olan sigorta sözleşmelerinde, istediği zaman sözleşmeyi sona erdirerek sigortadan ayrılabilir. Ayrılma değeri, ayrılmanın istenildiği andaki genel kabul görmüş aktüerya kurallarına uygun bir biçimde hesaplanan değerdir. (2) Yaşama ihtimaline karşı yapı lan sigortalarda, sigortacıdan ayrılma değerinin istenilebilmesi için sigortalının sağlıklı olduğunu ispat etmesi gerekir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1500**, «Madde 1500» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **XI

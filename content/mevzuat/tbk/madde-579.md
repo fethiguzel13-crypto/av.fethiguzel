@@ -13,12 +13,12 @@ wordCount: 4314
 
 Madde 579 - Garaj, otopark ve benzeri yerleri işletenler, kendilerine bırakılan veya
 çalışanlarınca kabul edilen hayvan, at arabası, bunlara ait koşum ve benzeri eşya ile motorlu
-taşıt  ve  eklentilerinin  yok  olmasından,  zarara  uğramasından  veya  çalınmasından
-sorumludurlar.  Ancak  işletenler,  zararın  saklatan  veya  ziyaretçisi  ya  da  beraberinde  veya
-hizmetinde  bulunan  kimseye  yükletilebilecek  kusurdan,  mücbir  sebepten  ya  da  eşyanın
+taşıt ve eklentilerinin yok olmasından, zarara uğramasından veya çalınmasından
+sorumludurlar. Ancak işletenler, zararın saklatan veya ziyaretçisi ya da beraberinde veya
+hizmetinde bulunan kimseye yükletilebilecek kusurdan, mücbir sebepten ya da eşyanın
 niteliğinden doğduğunu ispat etmekle, bu sorumluktan kurtulurlar.
-Ancak,  garaj,  otopark  ve  benzeri  yerleri işletenlerin sorumluluğu, kendilerine  veya
-çalışanlarına bir kusur  yüklenmedikçe, saklananların her biri için alınan günlük saklama
+Ancak, garaj, otopark ve benzeri yerleri işletenlerin sorumluluğu, kendilerine veya
+çalışanlarına bir kusur yüklenmedikçe, saklananların her biri için alınan günlük saklama
 ücretinin on katını aşamaz.
 İşleten böyle bir sorumluluk üstlenmediğini veya sorumluluğu bu Kanunda gösterilmemiş
 olan bir koşula bağladığını, herhangi bir yolla ilan etse bile, sorumluluktan kurtulamaz.
@@ -26,7 +26,6 @@ olan bir koşula bağladığını, herhangi bir yolla ilan etse bile, sorumluluk
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 579**, «II. Garaj, otopark ve benzeri yerleri işletenlerin sorumluluğu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 579 - Garaj, otopark ve benzeri yerleri işletenler, kendilerine bırakılan veya

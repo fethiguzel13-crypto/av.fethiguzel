@@ -27,8 +27,8 @@ const nextConfig: NextConfig = {
     return [
       {
         source: "/mevzuat/:kanunId/:id",
-        // v2: cache-bust empty-pack era; loads packs from /packs + jsDelivr fallback
-        destination: "/mevzuat-viewer-v2.html",
+        // v3 typography: headings, no raw ####, reading-friendly prose
+        destination: "/mevzuat-viewer-v3.html",
       },
     ];
   },

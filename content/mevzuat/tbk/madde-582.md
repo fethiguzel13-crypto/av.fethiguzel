@@ -13,10 +13,10 @@ I. Asıl borç**
 ---
 
 Madde 582 - Kefalet sözleşmesi, mevcut ve geçerli bir borç için yapılabilir. Ancak,
-gelecekte  doğacak  veya  koşula  bağlı  bir  borç  için  de,  bu  borç  doğduğunda  veya  koşul
+gelecekte doğacak veya koşula bağlı bir borç için de, bu borç doğduğunda veya koşul
 gerçekleştiğinde hüküm ifade etmek üzere kefalet sözleşmesi kurulabilir.
 Yanılma veya ehliyetsizlik sebebiyle borçlunun sorumlu olmadığı bir borç için kişisel
-güvence  veren  kişi,  yükümlülük  altına  girdiği  sırada,  sözleşmeyi  sakatlayan  eksikliği
+güvence veren kişi, yükümlülük altına girdiği sırada, sözleşmeyi sakatlayan eksikliği
 biliyorsa, kefaletle ilgili kanun hükümlerine göre sorumlu olur. Aynı kural, borçlu yönünden
 zamanaşımına uğramış bir borca kefil olan kişi hakkında da uygulanır.
 Kanundan aksi anlaşılmadıkça kefil, bu bölümde kendisine tanınan haklardan önceden
@@ -25,7 +25,6 @@ feragat edemez.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 582**, «Madde 582» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B. Koşulları

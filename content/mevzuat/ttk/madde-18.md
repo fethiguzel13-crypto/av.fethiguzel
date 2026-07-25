@@ -21,12 +21,11 @@ I
 
 ---
 
-Madde 18 - (1)   Tacir,   her   türlü   borcu   için   iflasa   tabidir;   ayrıca   kanuna   uygun   bir  ticaret   unvanı   seçmek,   ticari   işletmesini   ticaret   siciline   tescil   ettirme k   ve   bu   Kanun   hükümleri  uyarınca   gerekli   ticari   defterleri   tutmakla   da   yükümlüdür.  (2)   Her   tacirin,   ticaretine   ait   bütün   faaliyetlerinde   basiretli   bir   iş   adamı   gibi   hareket  etmesi   gerekir.  (3)   Tacirler   arasında,   diğer   tarafı   temerrüde   düşürmeye,   sözleşmey i   feshe,   sözleşmeden  dönmeye   ilişkin   ihbarlar   veya   ihtarlar   noter   aracılığıyla,   taahhütlü   mektupla,   telgrafla   veya  güvenli   elektronik   imza   kullanılarak   kayıtlı   elektronik   posta   sistemi   ile   yapılır.  (4)   Tacir   sıfatına   bağlı   olan   diğer   hükümler   saklıdır.  I I   -   Özel   olarak  1.   Ticari   iş   karinesi
+Madde 18 - (1) Tacir, her türlü borcu için iflasa tabidir; ayrıca kanuna uygun bir ticaret unvanı seçmek, ticari işletmesini ticaret siciline tescil ettirme k ve bu Kanun hükümleri uyarınca gerekli ticari defterleri tutmakla da yükümlüdür. (2) Her tacirin, ticaretine ait bütün faaliyetlerinde basiretli bir iş adamı gibi hareket etmesi gerekir. (3) Tacirler arasında, diğer tarafı temerrüde düşürmeye, sözleşmey i feshe, sözleşmeden dönmeye ilişkin ihbarlar veya ihtarlar noter aracılığıyla, taahhütlü mektupla, telgrafla veya güvenli elektronik imza kullanılarak kayıtlı elektronik posta sistemi ile yapılır. (4) Tacir sıfatına bağlı olan diğer hükümler saklıdır. I I - Özel olarak 1. Ticari iş karinesi
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Ticaret Kanunu'nun (TTK) 18. maddesi, kanunun **Birinci Kısım — Ticari İşletme / Birinci Bölüm — Tacir** sistematiği içinde yer alır ve **tacir olmanın temel hukuki sonuçlarını** dört fıkrada özetler. Bu hüküm, ticari hayatın bireysel düzlemde nasıl işleyeceğine ilişkin temel kuralları tek bir maddede toplayan ve uygulamada en sık atıflanan ticaret hukuku hükümlerinden biridir.

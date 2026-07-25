@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4311
 ---
 
-**II   -   Zorunlu   kayıtlar**
+**II - Zorunlu kayıtlar**
 
 ---
 
-Madde 213 - (1)   Kollektif   şirket   sözleşmesine   aşağıdaki   kayıtların   yazılması   zorunludur:  a)   Ortakların   ad   ve   soyadlarıyla   yerleşim   yerleri   ve   vatandaşlıkları.  b)   Şirketin   kollektif   olduğu.  c)   Şirketin   ticaret   unvanı   ve   merkezi.  d)   Esaslı   noktaları   belirtilmiş   ve   tanımlanmış   bir   şekilde   şirketin   işletme   konusu.  e)   Her   ortağın   sermaye   olarak   koymayı   taahhüt   ettiği   para   miktarı;   para   niteliğinde  olmayan   sermayenin   de ğeri   ve   bu   değerin   ne   suretle   biçilmiş   olduğu;   sermaye   olarak   kişisel  emek   konulmuşsa   bu   emeğin   niteliği,   kapsamı   ve   değeri.  f)   Şirketi   temsile   yetkili   kimselerin   ad   ve   soyadları,   bunların   yalnız   başına   mı,   yoksa  birlikte   mi   imza   koymaya   yetkili   oldukları.  (2)   Ortaklar,   emredici   hükümlere   aykırı   olmamak   şartıyla,   şirket   sözleşmesine   diledikleri  kayıtları   koyabilirler.
+Madde 213 - (1) Kollektif şirket sözleşmesine aşağıdaki kayıtların yazılması zorunludur: a) Ortakların ad ve soyadlarıyla yerleşim yerleri ve vatandaşlıkları. b) Şirketin kollektif olduğu. c) Şirketin ticaret unvanı ve merkezi. d) Esaslı noktaları belirtilmiş ve tanımlanmış bir şekilde şirketin işletme konusu. e) Her ortağın sermaye olarak koymayı taahhüt ettiği para miktarı; para niteliğinde olmayan sermayenin de ğeri ve bu değerin ne suretle biçilmiş olduğu; sermaye olarak kişisel emek konulmuşsa bu emeğin niteliği, kapsamı ve değeri. f) Şirketi temsile yetkili kimselerin ad ve soyadları, bunların yalnız başına mı, yoksa birlikte mi imza koymaya yetkili oldukları. (2) Ortaklar, emredici hükümlere aykırı olmamak şartıyla, şirket sözleşmesine diledikleri kayıtları koyabilirler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 213**, «II   -   Zorunlu   kayıtlar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 213 - (1)   Kollektif   şirket   sözleşmesine   aşağıdaki   kayıtların   yazılması   zorunludur:  a)   Ortakların   ad   ve   soyadlarıyla   yerleşim   yerleri   ve   vatandaşlıkları.  b)   Şirketin   kollektif   olduğu.  c)   Şirketin   ticaret   unvanı   ve   merkezi.  d)   Esaslı   noktaları   belirtilmiş   ve   tanımlanmış   bir   şekilde   şirketin   işletme   konusu.  e)   Her   ortağı… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

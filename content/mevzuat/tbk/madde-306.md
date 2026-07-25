@@ -11,14 +11,14 @@ wordCount: 4316
 
 ---
 
-Madde 306 - Kiracı,  kiraya  verenden  kiralanandaki  ayıbın  uygun  bir  sürede
-giderilmesini  isteyebilir;  bu  sürede  ayıp  giderilmezse  kiracı,  ayıbı  kiraya  veren  hesabına
+Madde 306 - Kiracı, kiraya verenden kiralanandaki ayıbın uygun bir sürede
+giderilmesini isteyebilir; bu sürede ayıp giderilmezse kiracı, ayıbı kiraya veren hesabına
 gidertebilir ve bundan doğan alacağını kira bedelinden indirebilir veya kiralananın ayıpsız bir
 benzeri ile değiştirilmesini isteyebilir.
 Ayıbın, kiralananın öngörülen kullanıma elverişliliğini ortadan kaldırması ya da önemli
 ölçüde engellemesi ve verilen sürede giderilmemesi hâlinde kiracı, sözleşmeyi feshedebilir.
 
-Kiraya  veren,  kiralanandaki  ayıbı  gidermek  yerine,  uygun  bir  süre  içinde  ayıpsız
+Kiraya veren, kiralanandaki ayıbı gidermek yerine, uygun bir süre içinde ayıpsız
 benzeriyle değiştirebilir.
 Kiraya veren, kiracıya aynı malın ayıpsız bir benzerini hemen vererek ve uğradığı
 zararın tamamını gidererek, onun seçimlik haklarını kullanmasını önleyebilir.
@@ -26,7 +26,6 @@ zararın tamamını gidererek, onun seçimlik haklarını kullanmasını önleye
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 306**, «b. Ayıbın giderilmesini isteme ve fesih» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 306 - Kiracı,  kiraya  verenden  kiralanandaki  ayıbın  uygun  bir  sürede

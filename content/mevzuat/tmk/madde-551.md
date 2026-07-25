@@ -11,12 +11,11 @@ wordCount: 4261
 
 ---
 
-Madde 551 - Birden çok vasiyeti yerine   getirme görevlisinin atanmış olması hâlinde,  tasarruftan veya işin niteliğinden aksi anlaşılmadıkça bun lar görevi birlikte yürütürler.  Bunl ardan biri görevi kabul etmez veya edemez ya da herhangi bir sebeple görevi sona  ererse, m irasbırakanın tasarrufundan   aksi anlaşılmadıkça diğerleri göreve devam eder.  Birden çok vasiyeti yerine getirme görevlisi birlikte hareket etmek üzere atanmış olsa bi le  acele hâllerde her biri gerekli işlemleri yapabilir.
+Madde 551 - Birden çok vasiyeti yerine getirme görevlisinin atanmış olması hâlinde, tasarruftan veya işin niteliğinden aksi anlaşılmadıkça bun lar görevi birlikte yürütürler. Bunl ardan biri görevi kabul etmez veya edemez ya da herhangi bir sebeple görevi sona ererse, m irasbırakanın tasarrufundan aksi anlaşılmadıkça diğerleri göreve devam eder. Birden çok vasiyeti yerine getirme görevlisi birlikte hareket etmek üzere atanmış olsa bi le acele hâllerde her biri gerekli işlemleri yapabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 551**, «II. Birden çok vasiyeti yerine getirme görevlisi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 551 - Birden çok vasiyeti yerine   getirme görevlisinin atanmış olması hâlinde,  tasarruftan veya işin niteliğinden aksi anlaşılmadıkça bun lar görevi birlikte yürütürler.  Bunl ardan biri görevi kabul etmez veya edemez ya da herhangi bir sebeple görevi sona  ererse, m irasbırakanın tasarrufundan   aksi anlaşılmadıkça diğerleri göreve devam eder.  Birden çok vasiyeti yerine getirme görevlisi… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

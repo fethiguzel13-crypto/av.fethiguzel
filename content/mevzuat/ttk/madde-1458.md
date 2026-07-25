@@ -12,12 +12,11 @@ wordCount: 4294
 
 ---
 
-Madde 1458 - (1)   Sigorta,   sigorta   koruması   sözleşmenin   yapılmasından   önceki   bir  tarihten   itibaren   sağlanacak   şekilde   yapılabilir.   Ancak,   rizikonun   gerçekleştiği   veya  gerçekleşme   ihtimalinin   ortadan   kalkmış   olduğu,   sözleşmenin   yapılması   sırasında,   sigortacı  ile   sigorta   ettiren   ve   sigortadan   haberi   olmak   şartıyla,   sigortalı   tarafından   biliniyorsa   sözleşme  geçersizdir.   Rizikonun   gerçekleştiği   veya   gerçekleşme   ihtimalinin   ortadan   kalktığının   sigorta  ettiren   veya   sigortalı   tarafından   bilinip   sigortacı   tarafından   bilinmediği   durumlarda,   sigortacı  sözleşme   ile   bağlı   olmamakla   birlikte,   ödenmesi   gereken   primin   tamamına   hak   kazanır.
+Madde 1458 - (1) Sigorta, sigorta koruması sözleşmenin yapılmasından önceki bir tarihten itibaren sağlanacak şekilde yapılabilir. Ancak, rizikonun gerçekleştiği veya gerçekleşme ihtimalinin ortadan kalkmış olduğu, sözleşmenin yapılması sırasında, sigortacı ile sigorta ettiren ve sigortadan haberi olmak şartıyla, sigortalı tarafından biliniyorsa sözleşme geçersizdir. Rizikonun gerçekleştiği veya gerçekleşme ihtimalinin ortadan kalktığının sigorta ettiren veya sigortalı tarafından bilinip sigortacı tarafından bilinmediği durumlarda, sigortacı sözleşme ile bağlı olmamakla birlikte, ödenmesi gereken primin tamamına hak kazanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1458**, «Madde 1458» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

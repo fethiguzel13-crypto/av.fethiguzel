@@ -11,13 +11,12 @@ wordCount: 4263
 
 ---
 
-Madde 583 - Mirasın açıldığı anda h enüz var olmayan bir kimsey e artmirasçı veya art  vasiyet alacaklısı olarak, tereke veya tereke malı bırakılabilir.  Mirasbırakan tarafından önmirasçı atanmamışsa, yasa l mirasçı, önmirasçı sayılır.
-D. Gaiplik  I. Gaibin mirası  1. Güvence karşılığı teslim  Mad de 584 -   Hakkında gaiplik ka rarı verilmiş bir kimsenin mirasçıları veya mirasında hak  sahibi olan kişiler, tereke malları kendilerine teslim edilmeden önce bu malları   ileride ortaya  çıkabilecek üstün hak sahiplerine veya gaibin kendisine geri vereceklerine   ilişkin güvence  göstermek z orundadırlar.  Bu güvence, ölüm tehlikesi içinde kaybolma durumunda beş yıl, uzun zamandan beri  haber alınamama durumunda onbeş yıl ve her h âlde en çok gaibin yüz yaşına varmasına kadar  geçecek süre için gösterilir.  Beş yıl, terek e mallarının tesliminden; o nbeş yıl, son haber tarihinden başlayarak hesaplanır.
+Madde 583 - Mirasın açıldığı anda h enüz var olmayan bir kimsey e artmirasçı veya art vasiyet alacaklısı olarak, tereke veya tereke malı bırakılabilir. Mirasbırakan tarafından önmirasçı atanmamışsa, yasa l mirasçı, önmirasçı sayılır.
+D. Gaiplik I. Gaibin mirası 1. Güvence karşılığı teslim Mad de 584 - Hakkında gaiplik ka rarı verilmiş bir kimsenin mirasçıları veya mirasında hak sahibi olan kişiler, tereke malları kendilerine teslim edilmeden önce bu malları ileride ortaya çıkabilecek üstün hak sahiplerine veya gaibin kendisine geri vereceklerine ilişkin güvence göstermek z orundadırlar. Bu güvence, ölüm tehlikesi içinde kaybolma durumunda beş yıl, uzun zamandan beri haber alınamama durumunda onbeş yıl ve her h âlde en çok gaibin yüz yaşına varmasına kadar geçecek süre için gösterilir. Beş yıl, terek e mallarının tesliminden; o nbeş yıl, son haber tarihinden başlayarak hesaplanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 583**, «4. İleride doğacak çocuk» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 583 - Mirasın açıldığı anda h enüz var olmayan bir kimsey e artmirasçı veya art  vasiyet alacaklısı olarak, tereke veya tereke malı bırakılabilir.  Mirasbırakan tarafından önmirasçı atanmamışsa, yasa l mirasçı, önmirasçı sayılır.

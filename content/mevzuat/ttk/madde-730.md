@@ -13,12 +13,11 @@ wordCount: 4259
 
 ---
 
-Madde 730 - (1)   Hamil;  a)   Görüldüğünde   veya   görüldükten   belirli   bir   süre   sonra   ödenmesi   şart   olan   poliçeyi   ibraz,  b)   Kabul   etmeme   veya   ödememe   protestosunu   düzenleme,  c)   “Gidersiz   iade   olunacaktır”   kaydının   bulunması   hâlinde,   poliçeyi   ödeme   ama cıyla   ibraz,  için   belirli   süreleri   geçirirse,   kabul   eden   kişi   hariç   olmak   üzere,   cirantalara,  düzenleyene   ve   diğer   borçlulara   karşı   sahip   olduğu   hakları   kaybeder.  (2)   Hamil,   kabul   amacıyla   ibraz   edilmesi   için   düzenleyenin   verdiği   süreye   uymazsa,  kabul   etm eme   ve   ödememe   sebebiyle   başvuru   haklarını   kaybeder;   meğerki,   düzenleyicinin  yalnız   kabule   ait   sorumluluğu   istisna   etmek   istediği   kayıttan   anlaşılsın.  (3)   Ciroda   ibraz   için   bir   süre   şart   kılınmışsa   ancak   ciranta   bu   süreyi   ileri   sürebilir.
+Madde 730 - (1) Hamil; a) Görüldüğünde veya görüldükten belirli bir süre sonra ödenmesi şart olan poliçeyi ibraz, b) Kabul etmeme veya ödememe protestosunu düzenleme, c) “Gidersiz iade olunacaktır” kaydının bulunması hâlinde, poliçeyi ödeme ama cıyla ibraz, için belirli süreleri geçirirse, kabul eden kişi hariç olmak üzere, cirantalara, düzenleyene ve diğer borçlulara karşı sahip olduğu hakları kaybeder. (2) Hamil, kabul amacıyla ibraz edilmesi için düzenleyenin verdiği süreye uymazsa, kabul etm eme ve ödememe sebebiyle başvuru haklarını kaybeder; meğerki, düzenleyicinin yalnız kabule ait sorumluluğu istisna etmek istediği kayıttan anlaşılsın. (3) Ciroda ibraz için bir süre şart kılınmışsa ancak ciranta bu süreyi ileri sürebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 730**, «Madde 730» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VIII

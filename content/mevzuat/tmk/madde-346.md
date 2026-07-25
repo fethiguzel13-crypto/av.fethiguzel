@@ -12,13 +12,12 @@ I. Koruma önlemleri**
 
 ---
 
-Madde 346 - Çocuğun menfaati ve gelişmesi tehlikeye düştüğü takdirde,   ana ve baba  duruma çare bulamaz veya buna güçleri yetmezs e hâkim, çocuğun korunm ası için uygun önlemleri  al ır.  II. Çocukların yerleştirilmesi  M adde 3 47 -   Çocuğun bedensel ve zihinsel gelişmesi tehlikede bulunur veya çocuk  manen terk edilmiş hâlde kalırsa   hâkim, çocuğu ana ve babadan alarak bir aile yanına veya bir
-kuruma yerleştirebi lir.  Çocuğun aile içinde k alması ailenin huzuru nu onlardan katla nmalar ı beklenemeyecek  derecede bozuyorsa ve durumun gerekl erine göre başka çare de kalmamışsa, ana ve baba ve ya  çocuğun istemi üzerine hâkim aynı önlemleri alab ilir.  Ana ve baba ile çocuğun   ödeme gücü yoksa bu önleml erin gerektirdiği giderler Devletçe  ka rşılan ır.  Nafakaya ilişkin hükümler saklıdır.
+Madde 346 - Çocuğun menfaati ve gelişmesi tehlikeye düştüğü takdirde, ana ve baba duruma çare bulamaz veya buna güçleri yetmezs e hâkim, çocuğun korunm ası için uygun önlemleri al ır. II. Çocukların yerleştirilmesi M adde 3 47 - Çocuğun bedensel ve zihinsel gelişmesi tehlikede bulunur veya çocuk manen terk edilmiş hâlde kalırsa hâkim, çocuğu ana ve babadan alarak bir aile yanına veya bir
+kuruma yerleştirebi lir. Çocuğun aile içinde k alması ailenin huzuru nu onlardan katla nmalar ı beklenemeyecek derecede bozuyorsa ve durumun gerekl erine göre başka çare de kalmamışsa, ana ve baba ve ya çocuğun istemi üzerine hâkim aynı önlemleri alab ilir. Ana ve baba ile çocuğun ödeme gücü yoksa bu önleml erin gerektirdiği giderler Devletçe ka rşılan ır. Nafakaya ilişkin hükümler saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 346**, «Madde 346» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Ço cuğun korunması

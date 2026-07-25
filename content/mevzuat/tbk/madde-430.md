@@ -12,21 +12,20 @@ I. Belirli süreli sözleşmede**
 
 ---
 
-Madde 430 - Belirli  süreli  hizmet  sözleşmesi, aksi  kararlaştırılmadıkça,  fesih
+Madde 430 - Belirli süreli hizmet sözleşmesi, aksi kararlaştırılmadıkça, fesih
 bildiriminde bulunulmasına gerek olmaksızın, sürenin bitiminde kendiliğinden sona erer.
-Belirli  süreli  sözleşme,  süresinin  bitiminden  sonra  örtülü  olarak  sürdürülüyorsa,
+Belirli süreli sözleşme, süresinin bitiminden sonra örtülü olarak sürdürülüyorsa,
 belirsiz süreli sözleşmeye dönüşür. Ancak, esaslı bir sebebin varlığı hâlinde, üst üste belirli
 süreli hizmet sözleşmesi kurulabilir.
 Taraflardan her biri, on yıldan uzun süreli hizmet sözleşmesini on yıl geçtikten sonra,
 altı aylık fesih bildirim süresine uyarak feshedebilir. Fesih, ancak bu süreyi izleyen aybaşında
 hüküm ifade eder.
-Sözleşmenin  fesih  bildirimiyle  sona  ereceği  kararlaştırılmış  ve  iki  taraf  da  fesih
+Sözleşmenin fesih bildirimiyle sona ereceği kararlaştırılmış ve iki taraf da fesih
 bildiriminde bulunmamışsa, sözleşme belirsiz süreli sözleşmeye dönüşür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 430**, «Madde 430» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **G. Sözleşmenin sona ermesi

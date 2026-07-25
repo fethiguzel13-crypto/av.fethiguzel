@@ -13,12 +13,11 @@ B. İrade sakatlığı**
 
 ---
 
-Madde 504 - Mirasbırakanın yanılma, aldatma,   korkutma veya zorlama etkisi altın da  yaptığı ölüme bağlı tasarruf geçersizdir. An cak, mirasbırakan yanıldığı nı veya aldatıldığını  öğren diği ya da   korkut ma veya zorlamanın etkisinden kurtulduğu günden başlayarak   bir yıl  içinde tasarruftan dönmediği takdirde   tasarruf geçerli sayılır.  Ölüme   bağlı   tasarrufta   kişinin   veya   şeyin   belirtilmesi nde   açık   yanılma   hâlinde  mi rasbırakanın gerçek arzusu   kesin olara k tesp it edilebilirse, tasarruf bu arzuya göre düzeltilir.  İKİNCİ AYIRIM  TASARRUF ÖZGÜRLÜĞÜ  A. Tasarruf edile bilir kısım  I. Kapsamı
+Madde 504 - Mirasbırakanın yanılma, aldatma, korkutma veya zorlama etkisi altın da yaptığı ölüme bağlı tasarruf geçersizdir. An cak, mirasbırakan yanıldığı nı veya aldatıldığını öğren diği ya da korkut ma veya zorlamanın etkisinden kurtulduğu günden başlayarak bir yıl içinde tasarruftan dönmediği takdirde tasarruf geçerli sayılır. Ölüme bağlı tasarrufta kişinin veya şeyin belirtilmesi nde açık yanılma hâlinde mi rasbırakanın gerçek arzusu kesin olara k tesp it edilebilirse, tasarruf bu arzuya göre düzeltilir. İKİNCİ AYIRIM TASARRUF ÖZGÜRLÜĞÜ A. Tasarruf edile bilir kısım I. Kapsamı
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 504**, «Madde 504» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Miras sözleşmesinde M adde 503

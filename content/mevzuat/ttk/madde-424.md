@@ -12,12 +12,11 @@ wordCount: 4317
 
 ---
 
-Madde 424 - ( 1)   Bilançonun   onaylanmasına   ilişkin   genel   kurul   kararı,   kararda   aksine  açıklık   bulunmadığı   takdirde,   yönetim   kurulu   üyelerinin,   yöneticilerin   ve   denetçilerin   ibrası  sonucunu   doğurur.   Bununla   beraber,   bilançoda   bazı   hususlar   hiç   veya   gereği   gibi  belirtilmem işse   veya   bilanço   şirketin   gerçek   durumunun   görülmesine   engel   olacak   bazı  hususları   içeriyorsa   ve   bu   hususta   bilinçli   hareket   edilmişse   onama   ibra   etkisini   doğurmaz.
+Madde 424 - ( 1) Bilançonun onaylanmasına ilişkin genel kurul kararı, kararda aksine açıklık bulunmadığı takdirde, yönetim kurulu üyelerinin, yöneticilerin ve denetçilerin ibrası sonucunu doğurur. Bununla beraber, bilançoda bazı hususlar hiç veya gereği gibi belirtilmem işse veya bilanço şirketin gerçek durumunun görülmesine engel olacak bazı hususları içeriyorsa ve bu hususta bilinçli hareket edilmişse onama ibra etkisini doğurmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 424**, «Madde 424» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VIII

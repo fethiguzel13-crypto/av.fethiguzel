@@ -13,12 +13,11 @@ wordCount: 4296
 
 ---
 
-Madde 1512 - (1)   Sigortacı,   hastalık   sigortası   ile   sözleşmede   öngörülen  hastalıklardan   birinin   veya   birkaçının,   sözleşme   süresi   içinde   gerçekleşmesi   veya   ort aya  çıkması   hâli   için   sigorta   teminatı   sağlar.   Sözleşmede   birden   çok   hastalık   sigorta   teminatına  bağlanmışsa,   hastalıklardan   birinin   gerçekleşmesi   veya   ortaya   çıkması   hâlinde   bedel   ödenir   ve  sözleşme   sona   erer.   Teminatın,   aksi   kararlaştırılmamışsa,   hastalı klardan   sadece   birinin  gerçekleşmesi   hâli   için   verildiği   kabul   edilir.  106   25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık”  ibareleri “e ngellilik” şeklinde değiştirilmiştir.
+Madde 1512 - (1) Sigortacı, hastalık sigortası ile sözleşmede öngörülen hastalıklardan birinin veya birkaçının, sözleşme süresi içinde gerçekleşmesi veya ort aya çıkması hâli için sigorta teminatı sağlar. Sözleşmede birden çok hastalık sigorta teminatına bağlanmışsa, hastalıklardan birinin gerçekleşmesi veya ortaya çıkması hâlinde bedel ödenir ve sözleşme sona erer. Teminatın, aksi kararlaştırılmamışsa, hastalı klardan sadece birinin gerçekleşmesi hâli için verildiği kabul edilir. 106 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibareleri “e ngellilik” şeklinde değiştirilmiştir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1512**, «Madde 1512» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

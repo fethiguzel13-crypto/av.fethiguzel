@@ -13,13 +13,12 @@ E. Hediyeler ve evlenme giderleri**
 
 ---
 
-Madde 675 - Olağan hediyeler ile evlenme sırasında yapılan geleneğ e uygun giderler  denkleştirmeye tâbi değildir.  Altsoy   hısımlarının   evlenmelerinde,   alışıl mış   ölçüler   içinde   yapılan   çeyiz   giderleri  hakkında denkleştirmeye tâbi tutmama arzusunun bulunduğu asıldır.  34   25/4/2013 tarihli ve 6 462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada   yer alan “s akatlıkları” ibaresi  “engelliliği” şeklinde değiştirilmiştir.
-DÖRDÜNCÜ AYIRIM  PAYLAŞMANIN TAMAMLANMASI   VE SONUCU  A. Pa ylaşmanın sonuçlandırılması  I. Paylaşma sözleşmesi
+Madde 675 - Olağan hediyeler ile evlenme sırasında yapılan geleneğ e uygun giderler denkleştirmeye tâbi değildir. Altsoy hısımlarının evlenmelerinde, alışıl mış ölçüler içinde yapılan çeyiz giderleri hakkında denkleştirmeye tâbi tutmama arzusunun bulunduğu asıldır. 34 25/4/2013 tarihli ve 6 462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “s akatlıkları” ibaresi “engelliliği” şeklinde değiştirilmiştir.
+DÖRDÜNCÜ AYIRIM PAYLAŞMANIN TAMAMLANMASI VE SONUCU A. Pa ylaşmanın sonuçlandırılması I. Paylaşma sözleşmesi
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 675**, «Madde 675» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **D. Eğitim ve öğrenim giderleri Madd e 674

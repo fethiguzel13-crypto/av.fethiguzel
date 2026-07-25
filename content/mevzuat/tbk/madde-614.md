@@ -12,19 +12,18 @@ wordCount: 4320
 ---
 
 Madde 614 - Bakım alacaklısı, sözleşmenin kurulmasıyla bakım borçlusunun aile
-topluluğuna  katılmış  olur.  Bakım  borçlusu,  almış  olduğu  malların  değerine  ve  bakım
-alacaklısının  daha  önce  sahip olduğu  sosyal  durumuna  göre  hakkaniyetin  gerektirdiği
+topluluğuna katılmış olur. Bakım borçlusu, almış olduğu malların değerine ve bakım
+alacaklısının daha önce sahip olduğu sosyal durumuna göre hakkaniyetin gerektirdiği
 edimleri, bakım alacaklısına ifa etmekle yükümlüdür.
-Bakım  borçlusu,  bakım  alacaklısına  özellikle  uygun  gıda  ve  konut  sağlamak,
+Bakım borçlusu, bakım alacaklısına özellikle uygun gıda ve konut sağlamak,
 hastalığında gerekli özenle bakmak ve onu tedavi ettirmek zorundadır.
-Kabul  ettikleri  kişilere  ölünceye  kadar  bakma  amacıyla  kurulmuş  olan  kurumların
+Kabul ettikleri kişilere ölünceye kadar bakma amacıyla kurulmuş olan kurumların
 bakım borcunun kapsamı ve ifası, kendilerince hazırlanarak yetkili makamların onayından
 geçen genel düzenlemelerle belirlenir. Bu düzenlemeler, sözleşmenin içeriğinden sayılır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 614**, «D. Konusu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 614 - Bakım alacaklısı, sözleşmenin kurulmasıyla bakım borçlusunun aile

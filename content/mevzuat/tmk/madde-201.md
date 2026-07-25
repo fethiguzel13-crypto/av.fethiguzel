@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4260
 ---
 
-**VII.   Yetki**
+**VII. Yetki**
 
 ---
 
-Madde 201 - Evlilik birliğinin korunmasına yönelik önlemler konusunda yetkili mahkeme  eşlerden herhangi birinin yerleşim yeri mahkemesid ir.  E şlerin yerleşim yerleri farklı ve her ikisi de önlem alınması isteminde bulunmuş ise,  yetkili mahkeme ilk is temde bulunanın yerleşim yeri mahkemesidir.  Önlemlerin değiştirilmesi, tamamlanması veya kaldırılması konusunda yetkili mahkeme,  önlem kararını   vere n mahkemedir. Ancak, her iki eşin de yerleşim yeri değişmişse, yetkili  mahkeme eşlerden herhangi birinin yen i yerleşim yeri mahkemesidir.  DÖRDÜNCÜ BÖLÜM  EŞLER ARASINDAKİ MAL REJİMİ  BİRİNCİ AYIRIM  GENEL HÜKÜMLER  A. Yasal mal rejimi
+Madde 201 - Evlilik birliğinin korunmasına yönelik önlemler konusunda yetkili mahkeme eşlerden herhangi birinin yerleşim yeri mahkemesid ir. E şlerin yerleşim yerleri farklı ve her ikisi de önlem alınması isteminde bulunmuş ise, yetkili mahkeme ilk is temde bulunanın yerleşim yeri mahkemesidir. Önlemlerin değiştirilmesi, tamamlanması veya kaldırılması konusunda yetkili mahkeme, önlem kararını vere n mahkemedir. Ancak, her iki eşin de yerleşim yeri değişmişse, yetkili mahkeme eşlerden herhangi birinin yen i yerleşim yeri mahkemesidir. DÖRDÜNCÜ BÖLÜM EŞLER ARASINDAKİ MAL REJİMİ BİRİNCİ AYIRIM GENEL HÜKÜMLER A. Yasal mal rejimi
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 201**, «VII.   Yetki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 201 - Evlilik birliğinin korunmasına yönelik önlemler konusunda yetkili mahkeme  eşlerden herhangi birinin yerleşim yeri mahkemesid ir.  E şlerin yerleşim yerleri farklı ve her ikisi de önlem alınması isteminde bulunmuş ise,  yetkili mahkeme ilk is temde bulunanın yerleşim yeri mahkemesidir.  Önlemlerin değiştirilmesi, tamamlanması veya kaldırılması konusunda yetkili mahkeme,  önlem kararını… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

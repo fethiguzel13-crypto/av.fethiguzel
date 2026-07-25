@@ -20,12 +20,11 @@ c) Borçlular**
 
 ---
 
-Madde 1306 - (1)   Kurtarma   ücretinin   borçluları,   kurtarılan   aracın   ve   diğer   eşyanın  kurtarma   faaliyetinin   tamamlandığı   andaki   malikle ridir.  (2)   Kurtarma   ücreti,   kurtarılan   aracın   maliki   ve   diğer   eşyanın   malikleri   arasında  kurtarılan   değerler   oranında   paylaşılır.   Kurtarma   ücretinin   borçluları   arasında   teselsül   yoktur.
+Madde 1306 - (1) Kurtarma ücretinin borçluları, kurtarılan aracın ve diğer eşyanın kurtarma faaliyetinin tamamlandığı andaki malikle ridir. (2) Kurtarma ücreti, kurtarılan aracın maliki ve diğer eşyanın malikleri arasında kurtarılan değerler oranında paylaşılır. Kurtarma ücretinin borçluları arasında teselsül yoktur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1306**, «Madde 1306» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **b) Çevre zararının önlenmesi veya sınırlandırılması için kurtaranın gösterdiği çaba ve beceri.

@@ -13,12 +13,11 @@ wordCount: 4302
 
 ---
 
-Madde 1219 - (1)   Eşyanın   sadece   bir   kıs mına   ilişkin   engeller,   taraflara   fesih   hakkı  vermez.   Taşıtan,   savaş,   ihracat   veya   ithalat   yasağı   gibi   sebeplerle   eşyanın   artık   serbest  sayılmayan   kısmını   her   hâlde   gemiden   alıp   uzaklaştırmak   zorundadır.   Ancak,   taşıtan   henüz  yolculuk   başlamamışsa,   taşıyanın   durumunu   ağırlaştırmamak   şartıyla   gemiye   bunlar   yerine  başka   eşya   yükleyebilir   veya   kararlaştırılan   navlunun   yarısını   ödeyerek   sözleşmeyi  feshedebilir.  Eşyanın,   sözleşmenin   ifasını   engelleyen   kısmı   hiç   taşınmamış   veya   yolculuk   devam  ederken   gemiden   uzakl aştırılmış   olsa   bile,   taşıyana   tam   navlun   ödenir.  (2)   Kısmi   yolculuk   çarteri   sözleşmeleri   ile   kırkambar   sözleşmelerinde   fesih   hakkı  yoktur.
+Madde 1219 - (1) Eşyanın sadece bir kıs mına ilişkin engeller, taraflara fesih hakkı vermez. Taşıtan, savaş, ihracat veya ithalat yasağı gibi sebeplerle eşyanın artık serbest sayılmayan kısmını her hâlde gemiden alıp uzaklaştırmak zorundadır. Ancak, taşıtan henüz yolculuk başlamamışsa, taşıyanın durumunu ağırlaştırmamak şartıyla gemiye bunlar yerine başka eşya yükleyebilir veya kararlaştırılan navlunun yarısını ödeyerek sözleşmeyi feshedebilir. Eşyanın, sözleşmenin ifasını engelleyen kısmı hiç taşınmamış veya yolculuk devam ederken gemiden uzakl aştırılmış olsa bile, taşıyana tam navlun ödenir. (2) Kısmi yolculuk çarteri sözleşmeleri ile kırkambar sözleşmelerinde fesih hakkı yoktur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1219**, «Madde 1219» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

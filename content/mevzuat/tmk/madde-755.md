@@ -11,12 +11,11 @@ wordCount: 4314
 
 ---
 
-Madde 755 - Su yollarını düzeltm e, sulama, bataklık yerlerini kurutma, yol açma, orman  yetişti rme, arazileri toplulaştırma gibi iyileştirme işleri, ancak ilgili maliklerin ortak girişi mleriyle  yapılabilecekse, arazinin yarısından fazlasına sahip bulunmak koşuluyla maliklerin üçte ikisini n  bu yolda karar vermeleri gerekir. Diğer malikler de bu karar a uymak zorundadır. Alınan karar,  tapu kütüğünün beyanlar sütununda gösterilir.  Bu konular a ilişkin özel kanun hükümleri saklıdır.
+Madde 755 - Su yollarını düzeltm e, sulama, bataklık yerlerini kurutma, yol açma, orman yetişti rme, arazileri toplulaştırma gibi iyileştirme işleri, ancak ilgili maliklerin ortak girişi mleriyle yapılabilecekse, arazinin yarısından fazlasına sahip bulunmak koşuluyla maliklerin üçte ikisini n bu yolda karar vermeleri gerekir. Diğer malikler de bu karar a uymak zorundadır. Alınan karar, tapu kütüğünün beyanlar sütununda gösterilir. Bu konular a ilişkin özel kanun hükümleri saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 755**, «2. Toprağın iyileştirilmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 755 - Su yollarını düzeltm e, sulama, bataklık yerlerini kurutma, yol açma, orman  yetişti rme, arazileri toplulaştırma gibi iyileştirme işleri, ancak ilgili maliklerin ortak girişi mleriyle  yapılabilecekse, arazinin yarısından fazlasına sahip bulunmak koşuluyla maliklerin üçte ikisini n  bu yolda karar vermeleri gerekir. Diğer malikler de bu karar a uymak zorundadır. Alınan karar,  tapu kü… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

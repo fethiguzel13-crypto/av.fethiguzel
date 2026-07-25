@@ -17,12 +17,11 @@ keywords:
 
 ---
 
-Madde 1 - Kanun, sözüyle ve özüyle değindiği bütün konularda uygulanır.  Kanunda uygulanabilir bir hüküm yoksa, hâkim, örf ve âdet hukukuna göre, bu da yoksa  kendisi kanun koyucu olsaydı nasıl bir kural koyacak idiyse ona göre   kara r verir.  Hâkim, karar verirken bilimsel görüşlerden ve yargı kararlarından yararlanır.
+Madde 1 - Kanun, sözüyle ve özüyle değindiği bütün konularda uygulanır. Kanunda uygulanabilir bir hüküm yoksa, hâkim, örf ve âdet hukukuna göre, bu da yoksa kendisi kanun koyucu olsaydı nasıl bir kural koyacak idiyse ona göre kara r verir. Hâkim, karar verirken bilimsel görüşlerden ve yargı kararlarından yararlanır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Medeni Kanunu'nun (TMK) 1. maddesi, kanunun **Başlangıç Hükümleri** kısmında yer alan ve Türk özel hukukunun tamamına yön veren temel bir metodoloji hükmüdür. Madde, yalnızca medeni hukukun değil, **Türk hukuk düzeninin bütünü için bir uygulama rehberi** niteliğindedir; çünkü hâkimin hukuku nasıl bulacağını, kanun boşluğu hâlinde nasıl davranacağını ve hangi yardımcı kaynaklara başvuracağını düzenler.

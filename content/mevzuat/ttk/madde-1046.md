@@ -11,13 +11,12 @@ wordCount: 4298
 
 ---
 
-Madde 1046 - (1)   Alacaklıya   ödemede   bulunan   gemi   maliki,   diğer   ipotekli
-gemilerden   birinin   malikine   veya   onun   hukuki   seleflerine   rücu   hakkına   sahip   bulunduğu  oranda   o   malikin   gemisi   üzerindeki   ipotek   hakkını   kazanır.   1045   inci   maddenin   ikinci   fıkrası  gereğince   devam   eden   ipotekle   işbu   ipotek   birlikte   ipotek   teşkil   eder.  (2)   Kısmen   ödeme   hâlinde,   alacaklı   üzerinde   kalan   ipotek,   birinci   fıkra   ile   1045   inci  maddenin   ikinci   fıkrası   gereğince   malike   geçen   ipoteklerden   sıra   itibarıyla   önce   gelir.  (3)   Alacağın   malike   devri   veya   alacaklı   ve   borçlu   sıfatlarının   malikin   şahsında  birleşmesi,   alacağın   malik   tarafından   ödenmesi   hükmündedir.  (4)   Alacaklının   hakkını   cebrî   icra   yoluyla   ipotekli   gemilerden   birin den   alması  durumunda   birinci   fıkranın   birinci   cümlesi   hükmü   uygulanır.  ddd)   Birlikte   gemi   ipoteğinde   ipoteğin   borçluya   geçmesi
+Madde 1046 - (1) Alacaklıya ödemede bulunan gemi maliki, diğer ipotekli
+gemilerden birinin malikine veya onun hukuki seleflerine rücu hakkına sahip bulunduğu oranda o malikin gemisi üzerindeki ipotek hakkını kazanır. 1045 inci maddenin ikinci fıkrası gereğince devam eden ipotekle işbu ipotek birlikte ipotek teşkil eder. (2) Kısmen ödeme hâlinde, alacaklı üzerinde kalan ipotek, birinci fıkra ile 1045 inci maddenin ikinci fıkrası gereğince malike geçen ipoteklerden sıra itibarıyla önce gelir. (3) Alacağın malike devri veya alacaklı ve borçlu sıfatlarının malikin şahsında birleşmesi, alacağın malik tarafından ödenmesi hükmündedir. (4) Alacaklının hakkını cebrî icra yoluyla ipotekli gemilerden birin den alması durumunda birinci fıkranın birinci cümlesi hükmü uygulanır. ddd) Birlikte gemi ipoteğinde ipoteğin borçluya geçmesi
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1046**, «Madde 1046» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1046 - (1)   Alacaklıya   ödemede   bulunan   gemi   maliki,   diğer   ipotekli

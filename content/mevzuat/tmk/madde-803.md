@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4268
 ---
 
-**IV. İntifa hakkının hükümleri  1. İntifa hakkı sahibinin hakları  a. Genel olara k**
+**IV. İntifa hakkının hükümleri 1. İntifa hakkı sahibinin hakları a. Genel olara k**
 
 ---
 
-Madde 803 - İntifa hakkı sahibi, hakkın konusu olan malı zilyetliğinde bulundurma,  yönetme, kullanma ve   ondan yararlanma yetkilerine sahiptir.  İntifa hakkı sahibi, b u yetkilerini kullanırken iyi bir yönetici gibi özen göstermek zorundadır.
+Madde 803 - İntifa hakkı sahibi, hakkın konusu olan malı zilyetliğinde bulundurma, yönetme, kullanma ve ondan yararlanma yetkilerine sahiptir. İntifa hakkı sahibi, b u yetkilerini kullanırken iyi bir yönetici gibi özen göstermek zorundadır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 803**, «IV. İntifa hakkının hükümleri  1. İntifa hakkı sahibinin hakları  a. Genel olara k» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 803 - İntifa hakkı sahibi, hakkın konusu olan malı zilyetliğinde bulundurma,  yönetme, kullanma ve   ondan yararlanma yetkilerine sahiptir.  İntifa hakkı sahibi, b u yetkilerini kullanırken iyi bir yönetici gibi özen göstermek zorundadır.

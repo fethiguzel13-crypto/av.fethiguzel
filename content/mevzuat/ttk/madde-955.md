@@ -12,12 +12,11 @@ wordCount: 4306
 
 ---
 
-Madde 955 - (1)   Gemi,   bağlama   limanının   tabi   olduğu   sicil   müdürlüğünc e   tescil  olunur.  (2)   Bir   geminin   seferleri   yabancı   bir   limandan   veya   bir   kara   kentinden   yahut   bizzat  gemiden   yönetildiği   takdirde,   malik,   gemisini   dilediği   yer   siciline   tescil   ettirebilir.  (3)   Malikin,   Türkiye’de   yerleşim   yeri   veya   ticari   işletmesi   yoksa,   bu   Kanunda   yazılı  hakları   kullanmak   ve   görevleri   yerine   getirmek   üzere,   sicil   müdürlüğüne   o   bölgede   oturan   bir  temsilci   göstermesi   gereklidir.  100   2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 192 nci maddesiyle bu maddenin  başlığı “E) Yönetmelik” şeklinde ve birinci fıkrasında yer alan “bir tüzük” ibaresi “Cumhurbaşkanınca  çıkarılan yönetmelik” şeklinde deği ştirilmiştir.
+Madde 955 - (1) Gemi, bağlama limanının tabi olduğu sicil müdürlüğünc e tescil olunur. (2) Bir geminin seferleri yabancı bir limandan veya bir kara kentinden yahut bizzat gemiden yönetildiği takdirde, malik, gemisini dilediği yer siciline tescil ettirebilir. (3) Malikin, Türkiye’de yerleşim yeri veya ticari işletmesi yoksa, bu Kanunda yazılı hakları kullanmak ve görevleri yerine getirmek üzere, sicil müdürlüğüne o bölgede oturan bir temsilci göstermesi gereklidir. 100 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 192 nci maddesiyle bu maddenin başlığı “E) Yönetmelik” şeklinde ve birinci fıkrasında yer alan “bir tüzük” ibaresi “Cumhurbaşkanınca çıkarılan yönetmelik” şeklinde deği ştirilmiştir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 955**, «Madde 955» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

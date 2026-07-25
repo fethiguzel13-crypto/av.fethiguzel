@@ -11,15 +11,14 @@ wordCount: 4295
 
 ---
 
-Madde 292 - Bağışlayan,  bağışlananın  kendisinden  önce  ölmesi  durumunda,
+Madde 292 - Bağışlayan, bağışlananın kendisinden önce ölmesi durumunda,
 bağışlama konusunun kendisine dönmesi koşulunu koyabilir.
-Bağışlama  konusu,  taşınmaza  veya  taşınmaz  üzerindeki  bir  ayni  hakka  ilişkin  ise,
+Bağışlama konusu, taşınmaza veya taşınmaz üzerindeki bir ayni hakka ilişkin ise,
 bağışlayana dönme koşulu tapu siciline şerh verilebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 292**, «V. Bağışlayana dönme koşullu bağışlama» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 292 - Bağışlayan,  bağışlananın  kendisinden  önce  ölmesi  durumunda,

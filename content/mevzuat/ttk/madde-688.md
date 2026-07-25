@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4319
 ---
 
-**V   -   Cironun   çeşitleri  1.   Tahsil   cirosu**
+**V - Cironun çeşitleri 1. Tahsil cirosu**
 
 ---
 
-Madde 688 - (1)   Ciro,   “bedeli   tahsil   içindir”,   “vekâleten”   veya   bedelin   başkası   adına  kabul   edileceğini   belirten   bir   şerhi   ya   da   sadece   vekil   etmeyi   ifade   eden   bir   kaydı   içerirse,  hamil,   poliçede n   doğan   bütün   hakları   kullanabilir;   fakat   o   poliçeyi   ancak   tahsil   cirosu   ile  tekrar   ciro   edebilir.  (2)   Poliçeden   sorumlu   olanlar,   bu   hâlde,   ancak   cirantaya   karşı   ileri   sürebilecekleri  def’ileri   hamile   karşı   dermeyan   edebilirler.  (3)   Tahsil   cirosunun   içerdi ği   yetki,   bu   yetkiyi   verenin   ölümü   ile   sona   ermeyeceği   gibi,  onun   medenî   hakları   kullanma   ehliyetini   kaybetmesiyle   de   ortadan   kalkmaz.
+Madde 688 - (1) Ciro, “bedeli tahsil içindir”, “vekâleten” veya bedelin başkası adına kabul edileceğini belirten bir şerhi ya da sadece vekil etmeyi ifade eden bir kaydı içerirse, hamil, poliçede n doğan bütün hakları kullanabilir; fakat o poliçeyi ancak tahsil cirosu ile tekrar ciro edebilir. (2) Poliçeden sorumlu olanlar, bu hâlde, ancak cirantaya karşı ileri sürebilecekleri def’ileri hamile karşı dermeyan edebilirler. (3) Tahsil cirosunun içerdi ği yetki, bu yetkiyi verenin ölümü ile sona ermeyeceği gibi, onun medenî hakları kullanma ehliyetini kaybetmesiyle de ortadan kalkmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 688**, «V   -   Cironun   çeşitleri  1.   Tahsil   cirosu» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 688 - (1)   Ciro,   “bedeli   tahsil   içindir”,   “vekâleten”   veya   bedelin   başkası   adına  kabul   edileceğini   belirten   bir   şerhi   ya   da   sadece   vekil   etmeyi   ifade   eden   bir   kaydı   içerirse,  hamil,   poliçede n   doğan   bütün   hakları   kullanabilir;   fakat   o   poliçeyi   ancak   tahsil   cirosu   ile  tekrar   ciro   edebilir.  (2)   Poliçeden   sorumlu  … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

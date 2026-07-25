@@ -11,12 +11,11 @@ wordCount: 4258
 
 ---
 
-Madde 505 - (Değişik birinci fıkra: 4/5/2007 - 5650/1 md.)   Mi rasçı olarak altsoyu, ana v e  babası veya eşi bulunan m iras bıraka n, mir asının saklı paylar dışında kalan kısmında ölüme bağlı  tasa rrufta bulunabilir.  Bu mirasçılardan hiç biri   yoksa, mirasbırakan mira sının tamamında tasarruf edebilir.
+Madde 505 - (Değişik birinci fıkra: 4/5/2007 - 5650/1 md.) Mi rasçı olarak altsoyu, ana v e babası veya eşi bulunan m iras bıraka n, mir asının saklı paylar dışında kalan kısmında ölüme bağlı tasa rrufta bulunabilir. Bu mirasçılardan hiç biri yoksa, mirasbırakan mira sının tamamında tasarruf edebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 505**, «Madde 505» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 505 - (Değişik birinci fıkra: 4/5/2007 - 5650/1 md.)   Mi rasçı olarak altsoyu, ana v e  babası veya eşi bulunan m iras bıraka n, mir asının saklı paylar dışında kalan kısmında ölüme bağlı  tasa rrufta bulunabilir.  Bu mirasçılardan hiç biri   yoksa, mirasbırakan mira sının tamamında tasarruf edebilir.

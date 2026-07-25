@@ -11,12 +11,11 @@ wordCount: 4267
 
 ---
 
-Madde 188 - Eşlerden her biri, ortak yaşamın devamı süresince ailenin sürekli ihti yaçları  için evlilik birliğini temsil eder.  Ailenin diğer ihtiyaçları için eşlerden biri, birliği ancak aşağıdaki hâllerde temsil edebilir:  1.   Diğer   eş v eya haklı sebeplerle hâkim tarafından yetkili kılınmışsa,  2. Birliğin yararı bakımından gecikmede sakı nca bulunur ve diğer eşin hastalığı, başka b ir  yerde olması veya benzeri sebeplerle rızası alınamazsa.
+Madde 188 - Eşlerden her biri, ortak yaşamın devamı süresince ailenin sürekli ihti yaçları için evlilik birliğini temsil eder. Ailenin diğer ihtiyaçları için eşlerden biri, birliği ancak aşağıdaki hâllerde temsil edebilir: 1. Diğer eş v eya haklı sebeplerle hâkim tarafından yetkili kılınmışsa, 2. Birliğin yararı bakımından gecikmede sakı nca bulunur ve diğer eşin hastalığı, başka b ir yerde olması veya benzeri sebeplerle rızası alınamazsa.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 188**, «Madde 188» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 188 - Eşlerden her biri, ortak yaşamın devamı süresince ailenin sürekli ihti yaçları  için evlilik birliğini temsil eder.  Ailenin diğer ihtiyaçları için eşlerden biri, birliği ancak aşağıdaki hâllerde temsil edebilir:  1.   Diğer   eş v eya haklı sebeplerle hâkim tarafından yetkili kılınmışsa,  2. Birliğin yararı bakımından gecikmede sakı nca bulunur ve diğer eşin hastalığı, başka b ir  yer… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

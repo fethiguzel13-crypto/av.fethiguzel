@@ -11,13 +11,12 @@ wordCount: 4269
 
 ---
 
-Madde 27 - Adın değiştirilmesi, ancak haklı sebeplere dayanılarak   hâkim den istenebilir.  (Değişik   ikinci fıkra : 14 / 11 /20 24 - 7532 /1 2   md.)   Adın değiştirildiği nüfus siciline kayıt ve  Basın İlan Kurumunun ilan portalında ilan olunur. Bu ilanda; hükmü veren mahkeme, kararın  verildiği tarih, dosyanın esas ve karar numarası ile adının   değiştirilmesine karar verilen   kişinin  nüfusa kayıtlı olduğu yer, doğum tarihi, ana ve baba adı, önceki adı ve soyadı, mahkeme
-kararıyla verilen yeni adı ve soyadı yer alır. 1  Ad değişmekle kişisel durum değişmez.  Adın değiştirilmesinden zarar gören kimse,   bunu öğrendiği günden başlayarak bir yıl  iç inde değiştirme kararının kaldırılmasını dava edebil ir.
+Madde 27 - Adın değiştirilmesi, ancak haklı sebeplere dayanılarak hâkim den istenebilir. (Değişik ikinci fıkra : 14 / 11 /20 24 - 7532 /1 2 md.) Adın değiştirildiği nüfus siciline kayıt ve Basın İlan Kurumunun ilan portalında ilan olunur. Bu ilanda; hükmü veren mahkeme, kararın verildiği tarih, dosyanın esas ve karar numarası ile adının değiştirilmesine karar verilen kişinin nüfusa kayıtlı olduğu yer, doğum tarihi, ana ve baba adı, önceki adı ve soyadı, mahkeme
+kararıyla verilen yeni adı ve soyadı yer alır. 1 Ad değişmekle kişisel durum değişmez. Adın değiştirilmesinden zarar gören kimse, bunu öğrendiği günden başlayarak bir yıl iç inde değiştirme kararının kaldırılmasını dava edebil ir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 27**, «2. Adın değiştirilmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 27 - Adın değiştirilmesi, ancak haklı sebeplere dayanılarak   hâkim den istenebilir.  (Değişik   ikinci fıkra : 14 / 11 /20 24 - 7532 /1 2   md.)   Adın değiştirildiği nüfus siciline kayıt ve  Basın İlan Kurumunun ilan portalında ilan olunur. Bu ilanda; hükmü veren mahkeme, kararın  verildiği tarih, dosyanın esas ve karar numarası ile adının   değiştirilmesine karar verilen   kişinin  nüfusa… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

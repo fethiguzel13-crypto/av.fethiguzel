@@ -8,16 +8,15 @@ wordCount: 4262
 ---
 
 **II. Tescilin sonuçları 46 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzük le” ibare s i “Cumhurbaşkanınca çıka rılan yönetmelikle” şeklinde değiştirilmiştir.
-1.   Genel olarak**
+1. Genel olarak**
 
 ---
 
-Madde 1022 - Aynî haklar, kütüğe tescil ile doğar ; sıralarını ve tarihlerini tescile göre alır.  Tescilin etkisi, kanunen öngörülen belgele r isteme eklenmiş veya geçici tescil hâlinde  belgelerin uygun zamanda tamamlanmış olması koşuluyla yevmi ye defterine yapılan kayıt  tarihinden başlar.  Bir hakkın içer iği, tescilin sınırları içinde, dayandığı belgelere göre veya diğer herhangi  bir yolla bel irlenir.
+Madde 1022 - Aynî haklar, kütüğe tescil ile doğar ; sıralarını ve tarihlerini tescile göre alır. Tescilin etkisi, kanunen öngörülen belgele r isteme eklenmiş veya geçici tescil hâlinde belgelerin uygun zamanda tamamlanmış olması koşuluyla yevmi ye defterine yapılan kayıt tarihinden başlar. Bir hakkın içer iği, tescilin sınırları içinde, dayandığı belgelere göre veya diğer herhangi bir yolla bel irlenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 1022**, «Madde 1022» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Tescilin sonuçları 46 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzük le” ibare s i “Cumhurbaşkanınca çıka rılan yönetmelikle” şeklinde değiştirilmiştir.

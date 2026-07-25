@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4318
 ---
 
-**2. Mirastan yoksunluk  a. Sebepleri**
+**2. Mirastan yoksunluk a. Sebepleri**
 
 ---
 
-Madde 578 - Aşağıdaki kimseler, m irasçı olamayacakları gibi;   ölüme bağlı tasarrufla  herhangi bir hak da edinemezler:  1. Mirasbırakanı kasten ve hukuka aykırı olarak öldüren veya öldürmeye teşebbüs ed enler,  2. Mirasbırakanı kasten ve hukuka aykırı olarak sürekli şekilde ölüme bağlı tasarru f  yapamayacak duruma getire nler,  3. Mirasbırakanın ölüme bağlı bir tasarruf yapmasını veya böyle bir tasarruftan dönmesini  aldatma, zorlama veya korkutma yoluyla sağl ayanlar ve engelleyenler,  4. Mirasbırakanın artık yeniden yapamayacağı bir durumda ve zama nda ölüme bağlı bir  tasarru fu kasten ve hukuka aykırı olarak ortadan kaldıranlar veya bozanlar.  Mirastan yoksunluk, mirasbırakanın affıyla ortadan kalkar.
+Madde 578 - Aşağıdaki kimseler, m irasçı olamayacakları gibi; ölüme bağlı tasarrufla herhangi bir hak da edinemezler: 1. Mirasbırakanı kasten ve hukuka aykırı olarak öldüren veya öldürmeye teşebbüs ed enler, 2. Mirasbırakanı kasten ve hukuka aykırı olarak sürekli şekilde ölüme bağlı tasarru f yapamayacak duruma getire nler, 3. Mirasbırakanın ölüme bağlı bir tasarruf yapmasını veya böyle bir tasarruftan dönmesini aldatma, zorlama veya korkutma yoluyla sağl ayanlar ve engelleyenler, 4. Mirasbırakanın artık yeniden yapamayacağı bir durumda ve zama nda ölüme bağlı bir tasarru fu kasten ve hukuka aykırı olarak ortadan kaldıranlar veya bozanlar. Mirastan yoksunluk, mirasbırakanın affıyla ortadan kalkar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 578**, «2. Mirastan yoksunluk  a. Sebepleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 578 - Aşağıdaki kimseler, m irasçı olamayacakları gibi;   ölüme bağlı tasarrufla  herhangi bir hak da edinemezler:  1. Mirasbırakanı kasten ve hukuka aykırı olarak öldüren veya öldürmeye teşebbüs ed enler,  2. Mirasbırakanı kasten ve hukuka aykırı olarak sürekli şekilde ölüme bağlı tasarru f  yapamayacak duruma getire nler,  3. Mirasbırakanın ölüme bağlı bir tasarruf yapmasını veya böyle bir… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

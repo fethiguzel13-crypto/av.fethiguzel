@@ -11,12 +11,11 @@ wordCount: 4262
 
 ---
 
-Madde 417 - Aşağıdak i kişiler   vasiliği kabul etmeyebilirle r:  l.   Altmış yaşını doldurmuş olanlar,  2.   Bedensel   engelleri   veya sürekli hastalıkları sebebiyle bu görev i güç lükle yapabilecek  olanlar, 27  3. Dörtten çok çocuğun velisi olanlar,  4. Üzerinde va silik görevi olanlar,  5. Cu mhurbaşkanı, Türkiye Büyük Millet Mecl isi üy eleri, Cumhurbaşkanı yardımcıları,  ba kanlar,   hâkimlik   ve savcılık mesleği mensupları. 28  VI. Vasiliğe eng el olan sebepler
+Madde 417 - Aşağıdak i kişiler vasiliği kabul etmeyebilirle r: l. Altmış yaşını doldurmuş olanlar, 2. Bedensel engelleri veya sürekli hastalıkları sebebiyle bu görev i güç lükle yapabilecek olanlar, 27 3. Dörtten çok çocuğun velisi olanlar, 4. Üzerinde va silik görevi olanlar, 5. Cu mhurbaşkanı, Türkiye Büyük Millet Mecl isi üy eleri, Cumhurbaşkanı yardımcıları, ba kanlar, hâkimlik ve savcılık mesleği mensupları. 28 VI. Vasiliğe eng el olan sebepler
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 417**, «V. Vasilikten kaçınma se bepleri» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 417 - Aşağıdak i kişiler   vasiliği kabul etmeyebilirle r:  l.   Altmış yaşını doldurmuş olanlar,  2.   Bedensel   engelleri   veya sürekli hastalıkları sebebiyle bu görev i güç lükle yapabilecek  olanlar, 27  3. Dörtten çok çocuğun velisi olanlar,  4. Üzerinde va silik görevi olanlar,  5. Cu mhurbaşkanı, Türkiye Büyük Millet Mecl isi üy eleri, Cumhurbaşkanı yardımcıları,  ba kanlar,   hâkim… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

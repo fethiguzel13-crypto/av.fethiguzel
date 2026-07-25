@@ -11,12 +11,11 @@ wordCount: 4305
 
 ---
 
-Madde 967 - (1)   Tescil   edilmiş   bir   gemi   hakkında   yirmi   yıldan   beri   hiçbir   kayıt  işlemi   yapılmamış   ve   Ulaştırma,   Denizcilik   ve   Haberleşme   Bakanlığından   alınan   bilgiye   göre  de   gemini n   artık   var   olmadığına   veya   denizcilikte   kullanılamayacak   hâle   geldiğine   kanaat  getirilmiş   olursa,   gemi   üzerinde   ipotek   veya   intifa   hakkı   tescil   edilmiş   bulunmadığı   takdirde,  sicil   memurunun   önerisi   üzerine   mahkeme,   966   ncı   maddede   yazılı   usule   gerek   kalma ksızın,  gemi   kaydının   silinmesine   karar   verir.
+Madde 967 - (1) Tescil edilmiş bir gemi hakkında yirmi yıldan beri hiçbir kayıt işlemi yapılmamış ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığından alınan bilgiye göre de gemini n artık var olmadığına veya denizcilikte kullanılamayacak hâle geldiğine kanaat getirilmiş olursa, gemi üzerinde ipotek veya intifa hakkı tescil edilmiş bulunmadığı takdirde, sicil memurunun önerisi üzerine mahkeme, 966 ncı maddede yazılı usule gerek kalma ksızın, gemi kaydının silinmesine karar verir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 967**, «2. Özel hâller» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 967 - (1)   Tescil   edilmiş   bir   gemi   hakkında   yirmi   yıldan   beri   hiçbir   kayıt  işlemi   yapılmamış   ve   Ulaştırma,   Denizcilik   ve   Haberleşme   Bakanlığından   alınan   bilgiye   göre  de   gemini n   artık   var   olmadığına   veya   denizcilikte   kullanılamayacak   hâle   geldiğine   kanaat  getirilmiş   olursa,   gemi   üzerinde   ipotek   veya   intifa   hakkı   te… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

@@ -17,7 +17,7 @@ ortak, bu kişiye karşı bizzat kendisi alacaklı ve borçlu olur.
 Ortaklardan biri, ortaklık veya bütün ortaklar adına bir üçüncü kişi ile işlem yaparsa,
 diğer ortaklar ancak temsile ilişkin hükümler uyarınca, bu kişinin alacaklısı veya borçlusu
 olurlar.
-Kendisine  yönetim  görevi  verilen  ortağın,  ortaklığı  veya  bütün  ortakları  üçüncü
+Kendisine yönetim görevi verilen ortağın, ortaklığı veya bütün ortakları üçüncü
 kişilere karşı temsil etme yetkisi var sayılır. Ancak, temsil yetkisine sahip yönetici ortağın
 yapacağı önemli tasarruf işlemlerine ilişkin yetkinin, bütün ortakların oybirliğiyle verilmiş
 olması ve yetki belgesinde bu hususun açıkça belirtilmiş olması şarttır.
@@ -25,7 +25,6 @@ olması ve yetki belgesinde bu hususun açıkça belirtilmiş olması şarttır.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 637**, «Madde 637» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Ortakların üçüncü kişilerle ilişkisi

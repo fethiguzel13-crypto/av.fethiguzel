@@ -13,12 +13,11 @@ I
 
 ---
 
-Madde 127 - (1)   Kanunda   aksine   hüküm   olmadıkça   tic aret   şirketlerine   sermaye  olarak;  a)   Para,   alacak,   kıymetli   evrak   ve   sermaye   şirketlerine   ait   paylar,  b)   Fikrî   mülkiyet   hakları,  c)   Taşınırlar   ve   her   çeşit   taşınmaz,  d)   Taşınır   ve   taşınmazların   faydalanma   ve   kullanma   hakları,  e)   Kişisel   emek,  f)   Ticari   it ibar,  g)   Ticari   işletmeler,  h)   Haklı   olarak   kullanılan   devredilebilir   elektronik   ortamlar,   alanlar,   adlar   ve   işaretler  gibi   değerler,  i)   Maden   ruhsatnameleri   ve   bunun   gibi   ekonomik   değeri   olan   diğer   haklar,  j)   Devrolunabilen   ve   nakden   değerlendirilebilen   her   türlü   değer,  konabilir.  (2)   Kanunun   307   nci   maddesinin   ikinci,   342   nci   maddesinin   birinci   ve   581   inci  maddesinin   birinci   fıkra   hükümleri   saklıdır.
+Madde 127 - (1) Kanunda aksine hüküm olmadıkça tic aret şirketlerine sermaye olarak; a) Para, alacak, kıymetli evrak ve sermaye şirketlerine ait paylar, b) Fikrî mülkiyet hakları, c) Taşınırlar ve her çeşit taşınmaz, d) Taşınır ve taşınmazların faydalanma ve kullanma hakları, e) Kişisel emek, f) Ticari it ibar, g) Ticari işletmeler, h) Haklı olarak kullanılan devredilebilir elektronik ortamlar, alanlar, adlar ve işaretler gibi değerler, i) Maden ruhsatnameleri ve bunun gibi ekonomik değeri olan diğer haklar, j) Devrolunabilen ve nakden değerlendirilebilen her türlü değer, konabilir. (2) Kanunun 307 nci maddesinin ikinci, 342 nci maddesinin birinci ve 581 inci maddesinin birinci fıkra hükümleri saklıdır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 127**, «Madde 127» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **D) Sermaye koyma borcu

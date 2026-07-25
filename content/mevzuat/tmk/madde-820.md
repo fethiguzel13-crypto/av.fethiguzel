@@ -12,12 +12,11 @@ a. Yararlanmanın kapsamı**
 
 ---
 
-Madde 820 - Bir alacak üzerindeki intifa hak kı, onun getirisini edinme yetkisi verir.  Borçluya karşı yapı lacak ödeme isteminin ve kıymetli evrak üzerindeki tasarrufların  alacaklı ve intifa hakkı   sahibi tarafından birlikte yapılması, borcunu ödemek üzere borçlu  tarafından yapılacak bildirimin de bun ların her ikisine yöneltilmesi gerekir.  Alacak tehlikeye düşe rse, alacaklı ve intifa hakkı sahibinden her biri, diğerinden iyi bir  yönetimin gerektirdi ği önlemleri almaya katılmasını isteyebilir.
+Madde 820 - Bir alacak üzerindeki intifa hak kı, onun getirisini edinme yetkisi verir. Borçluya karşı yapı lacak ödeme isteminin ve kıymetli evrak üzerindeki tasarrufların alacaklı ve intifa hakkı sahibi tarafından birlikte yapılması, borcunu ödemek üzere borçlu tarafından yapılacak bildirimin de bun ların her ikisine yöneltilmesi gerekir. Alacak tehlikeye düşe rse, alacaklı ve intifa hakkı sahibinden her biri, diğerinden iyi bir yönetimin gerektirdi ği önlemleri almaya katılmasını isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 820**, «Madde 820» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **3. Alacaklar

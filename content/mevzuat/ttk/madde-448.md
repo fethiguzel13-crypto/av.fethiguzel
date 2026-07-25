@@ -13,13 +13,12 @@ I
 
 ---
 
-Madde 448 - (1)   Yönetim   kur ulu   iptal   veya   butlan   davasının   açıldığını   ve   duruşma  gününü   usulüne   uygun   olarak   ilan   eder   ve   şirketin   internet   sitesine   koyar.
-(2)   İptal   davasında   üç   aylık   hak   düşüren   sürenin   sona   ermesinden   önce   duruşmaya  başlanamaz.   Birden   fazla   iptal   davası   açıldığı   takdirde   davalar   birleştirilerek   görülür.  (3)   Mahkeme,   şirketin   istemi   üzerine   muhtemel   zararlarına   karşı   davacıların   teminat  göstermesine   karar   verebilir.   Teminatın   nitelik   ve   miktarını   mahkeme   belirler.
+Madde 448 - (1) Yönetim kur ulu iptal veya butlan davasının açıldığını ve duruşma gününü usulüne uygun olarak ilan eder ve şirketin internet sitesine koyar.
+(2) İptal davasında üç aylık hak düşüren sürenin sona ermesinden önce duruşmaya başlanamaz. Birden fazla iptal davası açıldığı takdirde davalar birleştirilerek görülür. (3) Mahkeme, şirketin istemi üzerine muhtemel zararlarına karşı davacıların teminat göstermesine karar verebilir. Teminatın nitelik ve miktarını mahkeme belirler.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 448**, «Madde 448» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **I) Çeşitli hükümler

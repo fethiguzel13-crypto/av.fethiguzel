@@ -12,22 +12,21 @@ wordCount: 4319
 
 ---
 
-Madde 66 - Adam çalıştıran, çalışanın, kendisine verilen işin  yapılması sırasında
+Madde 66 - Adam çalıştıran, çalışanın, kendisine verilen işin yapılması sırasında
 başkalarına verdiği zararı gidermekle yükümlüdür.
-Adam  çalıştıran,  çalışanını  seçerken,  işiyle  ilgili  talimat  verirken,  gözetim  ve
-denetimde bulunurken,  zararın doğmasını engellemek için  gerekli özeni gösterdiğini ispat
+Adam çalıştıran, çalışanını seçerken, işiyle ilgili talimat verirken, gözetim ve
+denetimde bulunurken, zararın doğmasını engellemek için gerekli özeni gösterdiğini ispat
 ederse, sorumlu olmaz.
 
-Bir  işletmede  adam  çalıştıran, işletmenin  çalışma  düzeninin  zararın  doğmasını
-önlemeye  elverişli  olduğunu  ispat  etmedikçe,  o  işletmenin  faaliyetleri  dolayısıyla  sebep
+Bir işletmede adam çalıştıran, işletmenin çalışma düzeninin zararın doğmasını
+önlemeye elverişli olduğunu ispat etmedikçe, o işletmenin faaliyetleri dolayısıyla sebep
 olunan zararı gidermekle yükümlüdür.
-Adam  çalıştıran,  ödediği  tazminat  için,  zarar  veren  çalışana,  ancak  onun  bizzat
+Adam çalıştıran, ödediği tazminat için, zarar veren çalışana, ancak onun bizzat
 sorumlu olduğu ölçüde rücu hakkına sahiptir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 66**, «Madde 66» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Özen sorumluluğu

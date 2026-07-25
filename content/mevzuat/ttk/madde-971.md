@@ -12,12 +12,11 @@ wordCount: 4304
 
 ---
 
-Madde 971 - ( 1)   Gemi   siciline   tescil   olunan   hususlarda   meydana   gelecek  değişikliklerle   gemi   mülkiyetinin   geçişi   veya   bir   gemi   payının   iktisabı   hâlinde   değişikliği  istemekle   yükümlü   olanlar,   gemi   tasdiknamesini   ve   varsa   onaylı   özetini   sicil   müdürlüğüne  ibraz   etmek   zorun dadırlar.   Gemi   bağlama   limanında   veya   sicil   müdürlüğünün   bulunduğu  limanda   olduğu   sürece   kaptan   da   istemde   bulunmakla   yükümlüdür.  (2)   965   inci   maddenin   birinci   ve   üçüncü   fıkralarında   yazılı   hâllerde   gemi   tasdiknamesi  ve   varsa   özeti   geri   alınarak   iptal   olun ur.
+Madde 971 - ( 1) Gemi siciline tescil olunan hususlarda meydana gelecek değişikliklerle gemi mülkiyetinin geçişi veya bir gemi payının iktisabı hâlinde değişikliği istemekle yükümlü olanlar, gemi tasdiknamesini ve varsa onaylı özetini sicil müdürlüğüne ibraz etmek zorun dadırlar. Gemi bağlama limanında veya sicil müdürlüğünün bulunduğu limanda olduğu sürece kaptan da istemde bulunmakla yükümlüdür. (2) 965 inci maddenin birinci ve üçüncü fıkralarında yazılı hâllerde gemi tasdiknamesi ve varsa özeti geri alınarak iptal olun ur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 971**, «Madde 971» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IV

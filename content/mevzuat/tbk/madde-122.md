@@ -11,7 +11,7 @@ wordCount: 4319
 
 ---
 
-Madde 122 - Alacaklı,  temerrüt  faizini  aşan  bir  zarara  uğramış  olursa,  borçlu
+Madde 122 - Alacaklı, temerrüt faizini aşan bir zarara uğramış olursa, borçlu
 kendisinin hiçbir kusuru bulunmadığını ispat etmedikçe, bu zararı da gidermekle yükümlüdür.
 Temerrüt faizini aşan zarar miktarı görülmekte olan davada belirlenebiliyorsa, davacının
 istemi üzerine hâkim, esas hakkında karar verirken bu zararın miktarına da hükmeder.
@@ -19,7 +19,6 @@ istemi üzerine hâkim, esas hakkında karar verirken bu zararın miktarına da 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 122**, «3. Aşkın zarar» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 122 - Alacaklı,  temerrüt  faizini  aşan  bir  zarara  uğramış  olursa,  borçlu

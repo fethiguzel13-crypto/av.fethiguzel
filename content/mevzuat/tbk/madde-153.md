@@ -13,7 +13,7 @@ wordCount: 4310
 
 Madde 153 - Aşağıdaki durumlarda zamanaşımı işlemeye başlamaz, başlamışsa durur:
 1. Velayet süresince, çocukların ana ve babalarından olan alacakları için.
-2.  Vesayet  süresince,  vesayet  altında  bulunanların  vasiden  veya  vesayet  işlemleri
+2. Vesayet süresince, vesayet altında bulunanların vasiden veya vesayet işlemleri
 sebebiyle Devletten olan alacakları için.
 3. Evlilik devam ettiği sürece, eşlerin diğerinden olan alacakları için.
 4. Hizmet ilişkisi süresince, ev hizmetlilerinin onları çalıştıranlardan olan alacakları için.
@@ -22,13 +22,12 @@ sebebiyle Devletten olan alacakları için.
 7. Alacaklı ve borçlu sıfatının aynı kişide birleşmesinde, birleşmenin ileride geçmişe
 etkili olarak ortadan kalkması durumunda, bu durumun ortaya çıkmasına kadar geçecek sürece.
 
-Zamanaşımını  durduran  sebeplerin  ortadan  kalktığı  günün  bitiminde  zamanaşımı
+Zamanaşımını durduran sebeplerin ortadan kalktığı günün bitiminde zamanaşımı
 işlemeye başlar veya durmadan önce başlamış olan işlemesini sürdürür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 153**, «C. Zamanaşımının durması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 153 - Aşağıdaki durumlarda zamanaşımı işlemeye başlamaz, başlamışsa durur:

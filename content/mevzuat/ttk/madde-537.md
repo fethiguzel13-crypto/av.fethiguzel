@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4313
 ---
 
-**2.   Görevden   alma**
+**2. Görevden alma**
 
 ---
 
-Madde 537 - (1)   Esas   sözleşme   veya   genel   kurul   kararıyla   at anmış   tasfiye   memurları  ve   bu   görevi   yerine   getiren   yönetim   kurulu   üyeleri,   genel   kurul   tarafından   her   zaman  görevden   alınabilir   ve   yerlerine   yenileri   atanabilir.  (2)   Pay   sahiplerinden   birinin   istemiyle   ve   haklı   sebeplerin   varlığında,   mahkeme   de  tasfiyeye   memur   kişileri   görevden   alabilir   ve   yerlerine   yenilerini   atayabilir.   Bu   yolla   atanan  tasfiye   memurları,   mahkeme   kararına   dayanılarak   tescil   ve   ilan   olunurlar.  (3)   Şirketi   temsile   yetkili   tasfiye   memurlarından   hiçbiri   Türk   vatandaşı   değilse   ve  hiçbirinin   T ürkiye’de   yerleşim   yeri   bulunmuyorsa,   mahkeme   pay   sahiplerinden   veya  alacaklılardan   birinin   veya   Gümrük   ve   Ticaret   Bakanlığının   istemiyle,   söz   konusu   şarta   uygun  birini   tasfiye   memuru   olarak   atar.
+Madde 537 - (1) Esas sözleşme veya genel kurul kararıyla at anmış tasfiye memurları ve bu görevi yerine getiren yönetim kurulu üyeleri, genel kurul tarafından her zaman görevden alınabilir ve yerlerine yenileri atanabilir. (2) Pay sahiplerinden birinin istemiyle ve haklı sebeplerin varlığında, mahkeme de tasfiyeye memur kişileri görevden alabilir ve yerlerine yenilerini atayabilir. Bu yolla atanan tasfiye memurları, mahkeme kararına dayanılarak tescil ve ilan olunurlar. (3) Şirketi temsile yetkili tasfiye memurlarından hiçbiri Türk vatandaşı değilse ve hiçbirinin T ürkiye’de yerleşim yeri bulunmuyorsa, mahkeme pay sahiplerinden veya alacaklılardan birinin veya Gümrük ve Ticaret Bakanlığının istemiyle, söz konusu şarta uygun birini tasfiye memuru olarak atar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 537**, «2.   Görevden   alma» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 537 - (1)   Esas   sözleşme   veya   genel   kurul   kararıyla   at anmış   tasfiye   memurları  ve   bu   görevi   yerine   getiren   yönetim   kurulu   üyeleri,   genel   kurul   tarafından   her   zaman  görevden   alınabilir   ve   yerlerine   yenileri   atanabilir.  (2)   Pay   sahiplerinden   birinin   istemiyle   ve   haklı   sebeplerin   varlığında,   mahkeme   de  tasfiyeye   memur … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

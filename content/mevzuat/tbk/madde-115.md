@@ -11,19 +11,18 @@ wordCount: 4308
 
 ---
 
-Madde 115 - Borçlunun  ağır  kusurundan  sorumlu  olmayacağına  ilişkin  önceden
+Madde 115 - Borçlunun ağır kusurundan sorumlu olmayacağına ilişkin önceden
 yapılan anlaşma kesin olarak hükümsüzdür.
 Borçlunun alacaklı ile hizmet sözleşmesinden kaynaklanan herhangi bir borç sebebiyle
-sorumlu  olmayacağına  ilişkin  olarak  önceden  yaptığı  her  türlü  anlaşma  kesin  olarak
+sorumlu olmayacağına ilişkin olarak önceden yaptığı her türlü anlaşma kesin olarak
 hükümsüzdür.
-Uzmanlığı  gerektiren  bir  hizmet,  meslek  veya  sanat,  ancak  kanun  ya  da  yetkili
-makamlar tarafından  verilen  izinle  yürütülebiliyorsa,  borçlunun  hafif  kusurundan  sorumlu
+Uzmanlığı gerektiren bir hizmet, meslek veya sanat, ancak kanun ya da yetkili
+makamlar tarafından verilen izinle yürütülebiliyorsa, borçlunun hafif kusurundan sorumlu
 olmayacağına ilişkin önceden yapılan anlaşma kesin olarak hükümsüzdür.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 115**, «2. Sorumsuzluk anlaşması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 115 - Borçlunun  ağır  kusurundan  sorumlu  olmayacağına  ilişkin  önceden

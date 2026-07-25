@@ -11,11 +11,11 @@ wordCount: 4260
 
 ---
 
-Madde 297 - Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir  yıl
+Madde 297 - Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir yıl
 içinde bağışlamayı geri alabilir.
 Bağışlayan bir yıllık süre dolmadan ölürse, geri alma hakkı mirasçılarına geçer ve
 mirasçıları bu sürenin sona ermesine kadar bu hakkı kullanabilirler.
-Bağışlayan,  sağlığında  geri  alma  sebebini  öğrenememişse,  mirasçıları,  ölümünden
+Bağışlayan, sağlığında geri alma sebebini öğrenememişse, mirasçıları, ölümünden
 başlayarak bir yıl içinde bağışlamayı geri alma hakkını kullanabilirler.
 Bağışlanan, bağışlayanı kasten ve hukuka aykırı olarak öldürür veya onun geri alma
 hakkını kullanmasını engellerse, mirasçıları bağışlamayı geri alabilirler.
@@ -23,7 +23,6 @@ hakkını kullanmasını engellerse, mirasçıları bağışlamayı geri alabili
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 297**, «III. Geri alma hakkının süresi ve mirasçılara geçmesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 297 - Bağışlayan, geri alma sebebini öğrendiği günden başlayarak bir  yıl

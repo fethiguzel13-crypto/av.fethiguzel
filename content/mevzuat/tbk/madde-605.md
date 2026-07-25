@@ -16,14 +16,13 @@ veya kambiyo senedi üçüncü bir kişiye devredilmiş olsa bile, hiçbir kimse
 dava açamaz ve takip yapamaz. Kıymetli evrakın iyiniyetli üçüncü kişilere sağladığı haklar
 saklıdır.
 Kumar ve bahis borcu için isteyerek yapılan ödemeler geri alınamaz. Ancak, kumar
-veya  bahsin  usulüne  göre  yürütülmesi  beklenmedik  olayla  veya  diğer  tarafın  fiiliyle
+veya bahsin usulüne göre yürütülmesi beklenmedik olayla veya diğer tarafın fiiliyle
 engellenmişse ya da diğer taraf kumar veya bahse hile karıştırmışsa, isteyerek yapılan ödeme
 geri alınabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 605**, «B. Borç senedi verme ve isteyerek ödeme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 605 - Kumar oynayan veya bahse giren kişi tarafından imzalanmış adi borç

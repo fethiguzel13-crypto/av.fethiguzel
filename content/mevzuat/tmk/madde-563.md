@@ -12,13 +12,12 @@ wordCount: 4260
 
 ---
 
-Madde 563 - Tenkis,   mirasbırakanın   arzusunun   başka   türlü   olduğu   tasarruftan  anlaşılmadıkça, mira sçı atanması yoluyla veya diğer bir ölüme bağlı tasarrufla elde edilen  kazandırmaların tam amında, orantılı olarak yap ılır.  Ölüme bağlı tasarrufla kazandırma elde eden kimse, bazı vasiyetleri yerine getirmekle  yükümlü kılınmışsa, kazandırmanın tenkise tâbi   tutulması hâlinde, bu kimse mirasbırakanın  arzusunun başka türlü olduğu tasarruftan anlaşı lmadıkça vasiyet borçlarını n da aynı oranda tenkis
+Madde 563 - Tenkis, mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşılmadıkça, mira sçı atanması yoluyla veya diğer bir ölüme bağlı tasarrufla elde edilen kazandırmaların tam amında, orantılı olarak yap ılır. Ölüme bağlı tasarrufla kazandırma elde eden kimse, bazı vasiyetleri yerine getirmekle yükümlü kılınmışsa, kazandırmanın tenkise tâbi tutulması hâlinde, bu kimse mirasbırakanın arzusunun başka türlü olduğu tasarruftan anlaşı lmadıkça vasiyet borçlarını n da aynı oranda tenkis
 edilmesini isteyebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 563**, «Madde 563» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Hükümleri

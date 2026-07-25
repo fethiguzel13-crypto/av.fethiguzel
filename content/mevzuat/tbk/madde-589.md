@@ -13,15 +13,15 @@ a. Sorumluluğun kapsamı**
 
 ---
 
-Madde 589 - Kefil,  her  durumda  kefalet  sözleşmesinde  belirtilen  azamî  miktara
+Madde 589 - Kefil, her durumda kefalet sözleşmesinde belirtilen azamî miktara
 kadar sorumludur.
-Aksi  sözleşmede  kararlaştırılmamışsa  kefil,  belirtilen  azamî  miktarla  sınırlı  olmak
+Aksi sözleşmede kararlaştırılmamışsa kefil, belirtilen azamî miktarla sınırlı olmak
 üzere, aşağıdakilerden sorumludur:
 1. Asıl borç ile borçlunun kusur veya temerrüdünün yasal sonuçları.
 2. Alacaklının, kefile, onun borcu ödeyerek yapılmalarını önleyebileceği uygun bir
 zaman önce bildirmesi koşuluyla, borçluya karşı yönelttiği takip ve davaların masrafları ile
 gerektiğinde rehinlerin kefile tesliminin ve rehin haklarının devrinin sebep olduğu masraflar.
-3.  İşlemiş  bir  yıllık  ve  işlemekte  olan  yıla  ait  akdî  faizler  ile  gerektiğinde  tahvil
+3. İşlemiş bir yıllık ve işlemekte olan yıla ait akdî faizler ile gerektiğinde tahvil
 karşılığında ödünç verilen anaparanın işlemiş bir yıllık ve işlemekte olan yıla ait faizleri.
 Sözleşmede açıkça kararlaştırılmamışsa kefil, borçlunun sadece kefalet sözleşmesinin
 kurulmasından sonraki borçlarından sorumludur.
@@ -31,7 +31,6 @@ koşulundan sorumlu olacağına ilişkin anlaşmalar kesin olarak hükümsüzdü
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 589**, «Madde 589» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II. Ortak hükümler

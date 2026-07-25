@@ -12,12 +12,11 @@ I. Konu ve tapu kütüğüne kayıt**
 
 ---
 
-Madde 826 - Bir taşınmaz maliki, üçüncü kişi lehine arazisinin altında veya üstünde yapı  yapmak veya mevcut bir yap ıyı muhafaza etmek yetkisi veren bir irtifak hakkı kurabilir.  Aksi kararlaştırılmış olmadıkça bu hak, devredilebilir ve mirasçılara geçer.  Üst hakkı, b ağımsız ve sürekli nitelikte ise üst hakkı sahibinin istemi üzerine tapu  kütüğüne taşınmaz olarak kayded ilebilir. En az otuz yıl için kurulan üst hakkı, sürekli nitel iktedir.
+Madde 826 - Bir taşınmaz maliki, üçüncü kişi lehine arazisinin altında veya üstünde yapı yapmak veya mevcut bir yap ıyı muhafaza etmek yetkisi veren bir irtifak hakkı kurabilir. Aksi kararlaştırılmış olmadıkça bu hak, devredilebilir ve mirasçılara geçer. Üst hakkı, b ağımsız ve sürekli nitelikte ise üst hakkı sahibinin istemi üzerine tapu kütüğüne taşınmaz olarak kayded ilebilir. En az otuz yıl için kurulan üst hakkı, sürekli nitel iktedir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 826**, «Madde 826» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Üst hakkı

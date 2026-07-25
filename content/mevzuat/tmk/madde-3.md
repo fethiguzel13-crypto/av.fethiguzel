@@ -17,12 +17,11 @@ keywords:
 
 ---
 
-Madde 3 - Kanunun iyiniyete hukukî bir sonuç bağladığı durumlarda, asıl olan iyiniyetin  varlığıdır.  Ancak, durumun gereklerine göre kendisinden beklenen özeni göstermeyen kimse iyini yet  i ddiasında bulunamaz.
+Madde 3 - Kanunun iyiniyete hukukî bir sonuç bağladığı durumlarda, asıl olan iyiniyetin varlığıdır. Ancak, durumun gereklerine göre kendisinden beklenen özeni göstermeyen kimse iyini yet i ddiasında bulunamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 Türk Medeni Kanunu'nun (TMK) 3. maddesi, kanunun **Başlangıç Hükümleri** kısmında m. 2'nin (dürüstlük kuralı) hemen ardından yer alarak, **subjektif iyi niyetin** hukuki rejimini düzenler. Madde, hukuk düzeninin çeşitli yerlerinde "iyi niyetli kişiye" tanıdığı korumanın genel kuralını ortaya koyar: iyi niyet, **asıldır** (yani karine olarak vardır); ancak iyi niyetin kendisine bağlanan koruma, hak sahibinin **kendisinden beklenen özeni göstermesi** koşuluna bağlıdır.

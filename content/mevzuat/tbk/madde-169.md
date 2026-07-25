@@ -11,14 +11,14 @@ wordCount: 4304
 
 ---
 
-Madde 169 - Müteselsil  alacaklılık,  borçlunun,  alacaklılardan  her  birine  borcun
+Madde 169 - Müteselsil alacaklılık, borçlunun, alacaklılardan her birine borcun
 tamamını isteme hakkını tanıdığı veya kanunun belirlediği durumlarda doğar.
 Borçlu, alacaklılardan birine yaptığı ifayla, bütün alacaklılara karşı borcundan kurtulmuş
 olur.
-Alacaklılardan  birinin  icraya  veya  mahkemeye  başvurmuş  olduğu  kendisine
+Alacaklılardan birinin icraya veya mahkemeye başvurmuş olduğu kendisine
 bildirilmedikçe, borçlu onlardan dilediği birine ifada bulunabilir.
 
-Aksi  kararlaştırılmadıkça  veya  alacaklılar  arasındaki  hukuki  ilişkinin  niteliğinden
+Aksi kararlaştırılmadıkça veya alacaklılar arasındaki hukuki ilişkinin niteliğinden
 anlaşılmadıkça, alacaklılardan her birinin edim üzerindeki hakları eşittir.
 Kendisine düşen paydan fazlasını elde eden alacaklı, bu fazlalığı payını alamamış olan
 diğer alacaklılara ödemekle yükümlüdür.
@@ -29,7 +29,6 @@ Koşullar
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 169**, «B. Müteselsil alacaklılık» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 169 - Müteselsil  alacaklılık,  borçlunun,  alacaklılardan  her  birine  borcun

@@ -11,12 +11,11 @@ wordCount: 4267
 
 ---
 
-Madde 294 - Ana ve babanın yasal mirasçıları, çocuk ve Cumhuriyet savcısı sonradan  evlenme yoluyla soybağının kurulmasına itiraz edebilirler. İ tiraz   eden,   kocanın baba olmadığını  ispatla yük ümlüdür.  Çocuğun altsoyu da, çocuğun ölmüş ya da ayırt etme gücünü sürekli olarak kaybetmiş  olması hâlinde itiraz hakkına sahiptir.  Tanımanın iptali ne ilişkin hüküm ler kıyas yoluyla uygulanır.  ÜÇÜNCÜ AYIRIM  T ANIMA   VE BA BALIK HÜKMÜ  A. Tanıma  I. Koşulları v e şekli
+Madde 294 - Ana ve babanın yasal mirasçıları, çocuk ve Cumhuriyet savcısı sonradan evlenme yoluyla soybağının kurulmasına itiraz edebilirler. İ tiraz eden, kocanın baba olmadığını ispatla yük ümlüdür. Çocuğun altsoyu da, çocuğun ölmüş ya da ayırt etme gücünü sürekli olarak kaybetmiş olması hâlinde itiraz hakkına sahiptir. Tanımanın iptali ne ilişkin hüküm ler kıyas yoluyla uygulanır. ÜÇÜNCÜ AYIRIM T ANIMA VE BA BALIK HÜKMÜ A. Tanıma I. Koşulları v e şekli
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 294**, «III. İtiraz ve iptal» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 294 - Ana ve babanın yasal mirasçıları, çocuk ve Cumhuriyet savcısı sonradan  evlenme yoluyla soybağının kurulmasına itiraz edebilirler. İ tiraz   eden,   kocanın baba olmadığını  ispatla yük ümlüdür.  Çocuğun altsoyu da, çocuğun ölmüş ya da ayırt etme gücünü sürekli olarak kaybetmiş  olması hâlinde itiraz hakkına sahiptir.  Tanımanın iptali ne ilişkin hüküm ler kıyas yoluyla uygulanır.  ÜÇÜ… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

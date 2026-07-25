@@ -13,13 +13,12 @@ wordCount: 4301
 
 ---
 
-Madde 1014 - (1)   Bir   alacağı   teminat   altına   almak   için   gemi   üzerinde   ipotek  kurulabilir.   Gemi   ipoteği   alacaklıya,   alacağını,   gemi nin   bedelinden   alma   yetkisini   verir.   Sicile  kayıtlı   gemilerin   sözleşmeye   dayalı   rehni   sadece   gemi   ipoteği   yolu   ile   sağlanır.   İleride  doğabilecek   veya   şarta   ya   da   kıymetli   evraka   bağlı   bir   alacak   için   de   ipotek   kurulabilir.  (2)   Alacaklıların   gemi   ipoteğinde n   doğan   hakkı,   sadece   alacağa   göre   belirlenir.
-(3)   Bir   geminin   payı   ancak   gemiye   paylı   mülkiyet   esaslarına   göre   malik   olan  paydaşlardan   birinin   payından   ibaret   olmak   şartıyla   gemi   ipoteği   ile   sınırlandırılabilir.  (4)   Bir   geminin   bütün   payları   bir   malikin   e linde   bulunduğu   sürece,   ayrı   ayrı   paylar  üzerinde   ayrı   ayrı   kişilere   gemi   ipoteği   kurulamaz.
+Madde 1014 - (1) Bir alacağı teminat altına almak için gemi üzerinde ipotek kurulabilir. Gemi ipoteği alacaklıya, alacağını, gemi nin bedelinden alma yetkisini verir. Sicile kayıtlı gemilerin sözleşmeye dayalı rehni sadece gemi ipoteği yolu ile sağlanır. İleride doğabilecek veya şarta ya da kıymetli evraka bağlı bir alacak için de ipotek kurulabilir. (2) Alacaklıların gemi ipoteğinde n doğan hakkı, sadece alacağa göre belirlenir.
+(3) Bir geminin payı ancak gemiye paylı mülkiyet esaslarına göre malik olan paydaşlardan birinin payından ibaret olmak şartıyla gemi ipoteği ile sınırlandırılabilir. (4) Bir geminin bütün payları bir malikin e linde bulunduğu sürece, ayrı ayrı paylar üzerinde ayrı ayrı kişilere gemi ipoteği kurulamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1014**, «Madde 1014» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

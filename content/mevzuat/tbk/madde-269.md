@@ -14,20 +14,19 @@ a. Cayma hakkı**
 
 Madde 269 - Ödeme süresi bir yıldan daha uzun veya belirsiz olan sözleşmelerde
 alıcı, malın devrine kadar her zaman sözleşmeden cayabilir.
-Sözleşmeden  cayma  hâlinde  alıcı  tarafından  ödenmesi  öngörülen  cayma  parası,
-durumun  özelliğine  ve  sözleşmenin  kurulması  ile  cayma  arasında  geçen  süreye  bakılarak
+Sözleşmeden cayma hâlinde alıcı tarafından ödenmesi öngörülen cayma parası,
+durumun özelliğine ve sözleşmenin kurulması ile cayma arasında geçen süreye bakılarak
 belirlenir. Ancak, bu miktar satıcının toplam alacağının yüzde ikisinden az ve yüzde beşinden
 fazla olamaz. Alıcı, yapmış olduğu ödemelerin cayma parasını aşan kısmının, getirileri ile
 birlikte kendisine geri verilmesini isteyebilir.
 Alıcının ölmesi veya kazanç elde etmekten sürekli olarak yoksun kalması sebebiyle ön
-ödemeleri  yapamayacak  duruma  düşmesi  ya  da  sözleşmenin  yerine  olağan  koşullarla
+ödemeleri yapamayacak duruma düşmesi ya da sözleşmenin yerine olağan koşullarla
 yapılacak bir taksitle satış sözleşmesinin konulmasına ilişkin önerisinin satıcı tarafından kabul
 edilmemesi yüzünden sözleşmeden cayılmış olursa, cayma parası istenemez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 269**, «Madde 269» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **3. Sözleşmenin sona ermesi

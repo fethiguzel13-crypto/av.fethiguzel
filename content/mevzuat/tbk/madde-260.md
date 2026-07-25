@@ -11,21 +11,20 @@ wordCount: 4313
 
 ---
 
-Madde 260 - Satıcı,  alıcının  taksitleri  ödemede  temerrüde  düşmesi  sebebiyle
+Madde 260 - Satıcı, alıcının taksitleri ödemede temerrüde düşmesi sebebiyle
 satılanın alıcıya devrinden sonra sözleşmeden dönerse, her iki taraf aldığını geri vermekle
-yükümlüdür.  Satıcı,  ayrıca  hakkaniyete  uygun  bir  kullanım  bedeli  ve  satılanın  olağandışı
-kullanılması  sebebiyle  değerinin  azalması  hâlinde  tazminat  da  isteyebilir.  Ancak  satıcı,
+yükümlüdür. Satıcı, ayrıca hakkaniyete uygun bir kullanım bedeli ve satılanın olağandışı
+kullanılması sebebiyle değerinin azalması hâlinde tazminat da isteyebilir. Ancak satıcı,
 sözleşme zamanında ifa edilmiş olsaydı elde edecek olduğundan fazlasını isteyemez.
-Satıcı,  alıcının  peşinatı  ödemede  temerrüde  düşmesi  yüzünden  satılanın  devrinden
-önce  sözleşmeden  dönerse,  alıcıdan  sadece  ödenmeyen  peşinat  üzerinden,  sözleşmeden
-döndüğü  tarihe  kadar  işleyecek  yasal  faiz  ile  sözleşmenin  kurulmasından  sonra,  satılanın
+Satıcı, alıcının peşinatı ödemede temerrüde düşmesi yüzünden satılanın devrinden
+önce sözleşmeden dönerse, alıcıdan sadece ödenmeyen peşinat üzerinden, sözleşmeden
+döndüğü tarihe kadar işleyecek yasal faiz ile sözleşmenin kurulmasından sonra, satılanın
 uğramış olduğu değer kaybı sebebiyle tazminat isteyebilir. Ceza koşulu kararlaştırılmışsa,
 peşin satış bedelinin yüzde onunu aşamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 260**, «b. Sözleşmeden dönme» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 260 - Satıcı,  alıcının  taksitleri  ödemede  temerrüde  düşmesi  sebebiyle

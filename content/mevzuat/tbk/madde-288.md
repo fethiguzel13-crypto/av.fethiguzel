@@ -16,14 +16,13 @@ Madde 288 - Bağışlama sözü vermenin geçerliliği, bu sözleşmenin yazıl�
 yapılmasına bağlıdır.
 Bir taşınmazın veya taşınmaz üzerindeki ayni bir hakkın bağışlanması sözü vermenin
 geçerliliği, ancak resmî şekilde yapılmış olmasına bağlıdır.
-Şekle  uyulmaması  sebebiyle  geçersiz  olan  bağışlama  sözü  verme,  bağışlayan
+Şekle uyulmaması sebebiyle geçersiz olan bağışlama sözü verme, bağışlayan
 tarafından yerine getirildiğinde, elden bağışlama hükmündedir. Ancak, geçerliliği resmî şekle
 bağlanmış olan bağışlamalarda bu hüküm uygulanmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 288**, «Madde 288» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **C. Kurulması

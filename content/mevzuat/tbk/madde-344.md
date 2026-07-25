@@ -11,7 +11,7 @@ wordCount: 4261
 
 ---
 
-Madde 344 - Tarafların  yenilenen  kira  dönemlerinde  uygulanacak  kira  bedeline
+Madde 344 - Tarafların yenilenen kira dönemlerinde uygulanacak kira bedeline
 ilişkin anlaşmaları, bir önceki kira yılında tüketici fiyat endeksindeki oniki aylık ortalamalara
 göre değişim oranını geçmemek koşuluyla geçerlidir. Bu kural, bir yıldan daha uzun süreli
 kira sözleşmelerinde de uygulanır.
@@ -19,13 +19,13 @@ Taraflarca bu konuda bir anlaşma yapılmamışsa, kira bedeli, bir önceki kira
 
 3
 17/1/2019 tarihli ve 7161 sayılı Kanunun 56 ncı maddesiyle, bu maddenin birinci ve ikinci fıkrasında
-yer   alan   “üretici   fiyat   endeksindeki   artış”   ibareleri   “tüketici   fiyat   endeksindeki   oniki   aylık
+yer alan “üretici fiyat endeksindeki artış” ibareleri “tüketici fiyat endeksindeki oniki aylık
 ortalamalara göre değişim” şeklinde değiştirilmiştir.
 4
-17/1/2019  tarihli  ve  7161  sayılı  Kanunun  56  ncı  maddesiyle  ,  bu  maddenin  üçüncü  fıkrasında yer
-alan  “üretici  fiyat  endeksindeki  artış”  ibaresi  “tüketici  fiyat  endeksindeki  oniki  aylık  ortalamalara
-göre   değişim”   şeklinde   değiştirilmiş   ve   maddenin   dördüncü   fıkrasına   “kararlaştırılmışsa,”
-ibaresinden  sonra  gelmek üzere  “20/2/1930  tarihli ve  1567  sayılı  Türk  Parasının  Kıymetini  Koruma
+17/1/2019 tarihli ve 7161 sayılı Kanunun 56 ncı maddesiyle , bu maddenin üçüncü fıkrasında yer
+alan “üretici fiyat endeksindeki artış” ibaresi “tüketici fiyat endeksindeki oniki aylık ortalamalara
+göre değişim” şeklinde değiştirilmiş ve maddenin dördüncü fıkrasına “kararlaştırılmışsa,”
+ibaresinden sonra gelmek üzere “20/2/1930 tarihli ve 1567 sayılı Türk Parasının Kıymetini Koruma
 Hakkında Kanun hükümleri saklı kalmak şartıyla,” ibaresi eklenmiştir.
 
 tüketici fiyat endeksindeki oniki aylık ortalamalara göre değişim oranını geçmemek koşuluyla
@@ -37,8 +37,8 @@ sonunda, yeni kira yılında uygulanacak kira bedeli, hâkim tarafından tüketi
 oniki aylık ortalamalara göre değişim oranı, kiralananın durumu ve emsal kira bedelleri göz
 önünde tutularak hakkaniyete uygun biçimde belirlenir. Her beş yıldan sonraki kira yılında bu
 biçimde belirlenen kira bedeli, önceki fıkralarda yer alan ilkelere göre değiştirilebilir.
-Sözleşmede  kira  bedeli  yabancı  para  olarak  kararlaştırılmışsa  20/2/1930  tarihli  ve
-1567  sayılı  Türk  Parasının  Kıymetini  Koruma  Hakkında  Kanun  hükümleri  saklı  kalmak
+Sözleşmede kira bedeli yabancı para olarak kararlaştırılmışsa 20/2/1930 tarihli ve
+1567 sayılı Türk Parasının Kıymetini Koruma Hakkında Kanun hükümleri saklı kalmak
 şartıyla, beş yıl geçmedikçe kira bedelinde değişiklik yapılamaz. Ancak, bu Kanunun, “Aşırı
 ifa güçlüğü” başlıklı 138 inci maddesi hükmü saklıdır. Beş yıl geçtikten sonra kira bedelinin
 belirlenmesinde, yabancı paranın değerindeki değişiklikler de göz önünde tutularak üçüncü
@@ -47,7 +47,6 @@ fıkra hükmü uygulanır.
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 344**, «234» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 344 - Tarafların  yenilenen  kira  dönemlerinde  uygulanacak  kira  bedeline

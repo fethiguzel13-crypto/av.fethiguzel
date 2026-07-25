@@ -11,12 +11,11 @@ wordCount: 4314
 
 ---
 
-Madde 137 - Evlendirme memuru, evlenme başvurusunu ve buna eklenmes i gereken  belgeleri inceler. Başvuruda bir noksanlık gör ürse bunu tamamlar veya tamamlattırır.  Başv urun un usulüne uygun olarak yapılmadığı veya evleneceklerden birinin evlenmeye ehil  olmadığı ya da evlenmeye yasal bir engel bulunduğu anlaşılırsa, evlenme   başvurusu reddolunur ve  durum evleneceklere yazıyla hemen bildirilir.
+Madde 137 - Evlendirme memuru, evlenme başvurusunu ve buna eklenmes i gereken belgeleri inceler. Başvuruda bir noksanlık gör ürse bunu tamamlar veya tamamlattırır. Başv urun un usulüne uygun olarak yapılmadığı veya evleneceklerden birinin evlenmeye ehil olmadığı ya da evlenmeye yasal bir engel bulunduğu anlaşılırsa, evlenme başvurusu reddolunur ve durum evleneceklere yazıyla hemen bildirilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 137**, «IV. Başvurunun incelenmesi ve reddi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 137 - Evlendirme memuru, evlenme başvurusunu ve buna eklenmes i gereken  belgeleri inceler. Başvuruda bir noksanlık gör ürse bunu tamamlar veya tamamlattırır.  Başv urun un usulüne uygun olarak yapılmadığı veya evleneceklerden birinin evlenmeye ehil  olmadığı ya da evlenmeye yasal bir engel bulunduğu anlaşılırsa, evlenme   başvurusu reddolunur ve  durum evleneceklere yazıyla hemen bildirilir… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

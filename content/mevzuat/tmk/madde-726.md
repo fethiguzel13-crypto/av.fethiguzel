@@ -11,12 +11,11 @@ wordCount: 4283
 
 ---
 
-Madde 726 - Bir üst irtifakına dayalı olarak başkasına ait bir arazinin altında veya üs tünde  sürekli kalmak üzere   inşa edilen yapıların mülkiyeti, irtifak hakkı sahibine ait olur.  Bir binanın başlı başına kullanılmaya elverişli bağımsız bölümleri üzerin de kat mülkiyeti  veya kat irtifakı kurulması, Kat Mülkiyeti Kanununa tâbidir.  Bağımsız böl ümler üzerinde ayrıca üst h akkı kurulamaz.
+Madde 726 - Bir üst irtifakına dayalı olarak başkasına ait bir arazinin altında veya üs tünde sürekli kalmak üzere inşa edilen yapıların mülkiyeti, irtifak hakkı sahibine ait olur. Bir binanın başlı başına kullanılmaya elverişli bağımsız bölümleri üzerin de kat mülkiyeti veya kat irtifakı kurulması, Kat Mülkiyeti Kanununa tâbidir. Bağımsız böl ümler üzerinde ayrıca üst h akkı kurulamaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 726**, «3. Üst hak kı» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 726 - Bir üst irtifakına dayalı olarak başkasına ait bir arazinin altında veya üs tünde  sürekli kalmak üzere   inşa edilen yapıların mülkiyeti, irtifak hakkı sahibine ait olur.  Bir binanın başlı başına kullanılmaya elverişli bağımsız bölümleri üzerin de kat mülkiyeti  veya kat irtifakı kurulması, Kat Mülkiyeti Kanununa tâbidir.  Bağımsız böl ümler üzerinde ayrıca üst h akkı kurulamaz.

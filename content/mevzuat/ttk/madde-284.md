@@ -12,12 +12,11 @@ wordCount: 4302
 
 ---
 
-Madde 284 - (1)   Ortaklar   arasından   seçilen   tasfiye   memurları,   sözleşmede   veya  sonradan   verilmiş   bir   kararda   belirtilmediği   takdirde   ücret   alamazlar.  (2)   Ortak   olmayanlardan   atanan   tasfiye   mem urları,   ücret   kararlaştırılmasa   bile,   hâlin  gereğine   göre   takdir   edilecek   uygun   bir   ücret   isteyebilirler,   anlaşmazlık   durumunda   taraflar  yargı   yoluna   başvurabilir.
+Madde 284 - (1) Ortaklar arasından seçilen tasfiye memurları, sözleşmede veya sonradan verilmiş bir kararda belirtilmediği takdirde ücret alamazlar. (2) Ortak olmayanlardan atanan tasfiye mem urları, ücret kararlaştırılmasa bile, hâlin gereğine göre takdir edilecek uygun bir ücret isteyebilirler, anlaşmazlık durumunda taraflar yargı yoluna başvurabilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 284**, «Madde 284» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **VI

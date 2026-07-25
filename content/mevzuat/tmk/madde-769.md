@@ -12,12 +12,11 @@ wordCount: 4270
 
 ---
 
-Madde 769 - Kaybedilmiş bir şeyi b ulan kimse, malın sahibine, sahibini bilmiyorsa kolluk  kuvvetlerine, köylerde muhtara bildirmek veya ara ştırma yapmak ve gerektiğinde ilân etmek  zorundadır.  Bulunan ş ey önemli ölçüde değerli ise, her hâlde kolluk kuvvetlerine veya muhtara  bildirmek gerekir .  Oturulan bir evde veya işyerinde ya da kamu hizmeti görülen yerde bir şey bulan kimse,  bunu o yer sahi bine veya kiracıya ya da kamu hizmeti görülen yerde denetim ve   gözetim ile  görevli olanlara teslim etmek zorundadır.
+Madde 769 - Kaybedilmiş bir şeyi b ulan kimse, malın sahibine, sahibini bilmiyorsa kolluk kuvvetlerine, köylerde muhtara bildirmek veya ara ştırma yapmak ve gerektiğinde ilân etmek zorundadır. Bulunan ş ey önemli ölçüde değerli ise, her hâlde kolluk kuvvetlerine veya muhtara bildirmek gerekir . Oturulan bir evde veya işyerinde ya da kamu hizmeti görülen yerde bir şey bulan kimse, bunu o yer sahi bine veya kiracıya ya da kamu hizmeti görülen yerde denetim ve gözetim ile görevli olanlara teslim etmek zorundadır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 769**, «Madde 769» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **III. Bulunmuş eşya

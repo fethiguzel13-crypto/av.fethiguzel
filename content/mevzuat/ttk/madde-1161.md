@@ -13,12 +13,11 @@ wordCount: 4301
 
 ---
 
-Madde 1161 - (1)   Yolcu luk   çarteri   sözleşmesine   veya   taşıtanın   sonradan   verdiği  geçerli   bir   talimata   göre   eşya,   aynı   limanda   birden   çok   kişiden   teslim   alınacaksa,   hazırlık  bildiriminin   taşıtana   yapılması   gereklidir.   1152   ilâ   1160   ıncı   madde   hükümleri,   birden   çok  yükleten   bulunma sı   dikkate   alınmaksızın   uygulanır.   Yükletenler,   her   bir   eşya   için,   geminin  yükleme   yerinin   değiştirilmesini   isteyebilir;   şu   kadar   ki,   yer   değiştirmenin,   manevrası   da   dâhil  olmak   üzere   bütün   giderleri   taşıtana   aittir   ve   yükleme   ile   sürastarya   süreleri   yer   d eğiştirme  manevrası   sırasında   işlemeye   devam   eder.
+Madde 1161 - (1) Yolcu luk çarteri sözleşmesine veya taşıtanın sonradan verdiği geçerli bir talimata göre eşya, aynı limanda birden çok kişiden teslim alınacaksa, hazırlık bildiriminin taşıtana yapılması gereklidir. 1152 ilâ 1160 ıncı madde hükümleri, birden çok yükleten bulunma sı dikkate alınmaksızın uygulanır. Yükletenler, her bir eşya için, geminin yükleme yerinin değiştirilmesini isteyebilir; şu kadar ki, yer değiştirmenin, manevrası da dâhil olmak üzere bütün giderleri taşıtana aittir ve yükleme ile sürastarya süreleri yer d eğiştirme manevrası sırasında işlemeye devam eder.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1161**, «Madde 1161» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **IX

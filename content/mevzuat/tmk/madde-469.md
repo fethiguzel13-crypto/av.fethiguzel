@@ -11,12 +11,11 @@ wordCount: 4274
 
 ---
 
-Madde 469 - Devletin   vesayet dairelerinde görev li kişilere karşı rücu davasına bakmay a,  ves ayet dairelerinin bulunduğu yere en yakın asliye mahkemesi   yetkilidir.  Vesayetle ilgili tazminat ve diğe r rücu davaları vesayet daireleri nin bulunduğu yer asliye  mahkemesinde görülür.  ÜÇÜNCÜ BÖLÜM  VESAYETİN SONA   ERMESİ  BİRİNCİ AYIRIM  VESAYETİ GEREK TİREN   HÂLLER İN  SONA ERMESİ  A. Küçüklerde
+Madde 469 - Devletin vesayet dairelerinde görev li kişilere karşı rücu davasına bakmay a, ves ayet dairelerinin bulunduğu yere en yakın asliye mahkemesi yetkilidir. Vesayetle ilgili tazminat ve diğe r rücu davaları vesayet daireleri nin bulunduğu yer asliye mahkemesinde görülür. ÜÇÜNCÜ BÖLÜM VESAYETİN SONA ERMESİ BİRİNCİ AYIRIM VESAYETİ GEREK TİREN HÂLLER İN SONA ERMESİ A. Küçüklerde
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 469**, «D. Görev ve yetki» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 469 - Devletin   vesayet dairelerinde görev li kişilere karşı rücu davasına bakmay a,  ves ayet dairelerinin bulunduğu yere en yakın asliye mahkemesi   yetkilidir.  Vesayetle ilgili tazminat ve diğe r rücu davaları vesayet daireleri nin bulunduğu yer asliye  mahkemesinde görülür.  ÜÇÜNCÜ BÖLÜM  VESAYETİN SONA   ERMESİ  BİRİNCİ AYIRIM  VESAYETİ GEREK TİREN   HÂLLER İN  SONA ERMESİ  A. Küçükle… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

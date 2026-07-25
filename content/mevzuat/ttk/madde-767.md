@@ -13,12 +13,11 @@ I
 
 ---
 
-Madde 767 - (1)   Poliçe   ile   yapılan   borçlanma ların   şekli,   bu   borçlanmaların  imzalandığı   ülkenin   hukukuna   tabidir.  (2)   Bir   poliçeye   ilişkin   borçlanma,   yapıldığı   ülkenin   hukuku   uyarınca   şekil  bakımından   geçerli   olmamakla   beraber,   aynı   poliçeye   ilişkin   sonraki   bir   borçlanmanın  yapıldığı   ülke   hukukunca   g eçerli   bulunursa,   ilk   borçlanmanın   şekil   bakımından   geçerli  olmayışı,   sonraki   borçlanmanın   geçerliliğini   etkilemez.  (3)   Bir   Türkün,   yabancı   ülkede   poliçeyle   borçlanması,   Türk   hukukunun   gösterdiği  şekle   uygun   bulunduğu   takdirde,   Türkiye’de   başka   bir   Türke   k arşı   geçerlidir.
+Madde 767 - (1) Poliçe ile yapılan borçlanma ların şekli, bu borçlanmaların imzalandığı ülkenin hukukuna tabidir. (2) Bir poliçeye ilişkin borçlanma, yapıldığı ülkenin hukuku uyarınca şekil bakımından geçerli olmamakla beraber, aynı poliçeye ilişkin sonraki bir borçlanmanın yapıldığı ülke hukukunca g eçerli bulunursa, ilk borçlanmanın şekil bakımından geçerli olmayışı, sonraki borçlanmanın geçerliliğini etkilemez. (3) Bir Türkün, yabancı ülkede poliçeyle borçlanması, Türk hukukunun gösterdiği şekle uygun bulunduğu takdirde, Türkiye’de başka bir Türke k arşı geçerlidir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 767**, «Madde 767» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B) Şekil ve süreler

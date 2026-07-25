@@ -12,12 +12,11 @@ wordCount: 4301
 
 ---
 
-Madde 1269 - (1)   Yolcu,   bagajın   zıyaı   veya   hasarını;  a)   Haricen   belli   ise,   kabin   bagajının   indirilmesinden   önce   veya   indirilirken,   diğer  bagajın   tesliminden   önce   veya   teslimi   sırasında,  b)   Haricen   belli   değilse,   bagajın   indirilmesinden   veya   teslimi nden   ya   da   teslim  edilmesi   gereken   tarihten   itibaren   onbeş   gün   içinde,  taşıyana   veya   temsilcisine   yazılı   olarak   bildirir.  (2)   Yolcu   bu   bildirimi   yapmamışsa,   aksi   ispat   edilene   kadar,   bagajı   iyi   hâlde   aldığı  kabul   edilir.  (3)   Bagajın   durumu,   teslimi   sırasın da   bir   ortak   inceleme   veya   tespit   işlemine   konu  olmuşsa,   yazılı   bildirime   gerek   yoktur.
+Madde 1269 - (1) Yolcu, bagajın zıyaı veya hasarını; a) Haricen belli ise, kabin bagajının indirilmesinden önce veya indirilirken, diğer bagajın tesliminden önce veya teslimi sırasında, b) Haricen belli değilse, bagajın indirilmesinden veya teslimi nden ya da teslim edilmesi gereken tarihten itibaren onbeş gün içinde, taşıyana veya temsilcisine yazılı olarak bildirir. (2) Yolcu bu bildirimi yapmamışsa, aksi ispat edilene kadar, bagajı iyi hâlde aldığı kabul edilir. (3) Bagajın durumu, teslimi sırasın da bir ortak inceleme veya tespit işlemine konu olmuşsa, yazılı bildirime gerek yoktur.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1269**, «Madde 1269» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **XIV

@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4302
 ---
 
-**2.   Şirket   payının   ve   haklarının   korunması**
+**2. Şirket payının ve haklarının korunması**
 
 ---
 
-Madde 183 - (1)   Tür   değiştirmede   ortakların   şirket   payları   ve   hakları   korunur.   Oydan  yoksun   paylar   için   sahiplerine   eşit   değerde   paylar   veya   oy   hakkını   haiz   paylar   verilir.  (2)   İmtiyazlı   payların   karşılığında   aynı   değerde   paylar   verilir   veya   uygun   bir   tazminat  ödenir.  ( 3)   İntifa   senetleri   karşılığında   aynı   değerde   haklar   verilir   veya   tür   değiştirme   planının  düzenlendiği   tarihte   gerçek   değer   ödenir.
+Madde 183 - (1) Tür değiştirmede ortakların şirket payları ve hakları korunur. Oydan yoksun paylar için sahiplerine eşit değerde paylar veya oy hakkını haiz paylar verilir. (2) İmtiyazlı payların karşılığında aynı değerde paylar verilir veya uygun bir tazminat ödenir. ( 3) İntifa senetleri karşılığında aynı değerde haklar verilir veya tür değiştirme planının düzenlendiği tarihte gerçek değer ödenir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 183**, «2.   Şirket   payının   ve   haklarının   korunması» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 183 - (1)   Tür   değiştirmede   ortakların   şirket   payları   ve   hakları   korunur.   Oydan  yoksun   paylar   için   sahiplerine   eşit   değerde   paylar   veya   oy   hakkını   haiz   paylar   verilir.  (2)   İmtiyazlı   payların   karşılığında   aynı   değerde   paylar   verilir   veya   uygun   bir   tazminat  ödenir.  ( 3)   İntifa   senetleri   karşılığında   aynı   değerde   hak… Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

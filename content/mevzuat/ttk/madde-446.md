@@ -12,12 +12,11 @@ wordCount: 4259
 
 ---
 
-Madde 446 - (1)   a)   Toplantıda   hazır   bulunup   da   karara   olumsuz   oy   veren   ve   bu  muhalefetini   tutanağa   geçirten,  b)   Toplantıda   hazır   bulunsun   veya   bulunmasın,   olumsuz   oy   kullanmış   olsun   ya   da  olmasın;   çağrının   us ulüne   göre   yapılmadığını,   gündemin   gereği   gibi   ilan   edilmediğini,   genel  kurula   katılma   yetkisi   bulunmayan   kişilerin   veya   temsilcilerinin   toplantıya   katılıp   oy  kullandıklarını,   genel   kurula   katılmasına   ve   oy   kullanmasına   haksız   olarak   izin   verilmediğini  ve   yukarıda   sayılan   aykırılıkların   genel   kurul   kararının   alınmasında   etkili   olduğunu   ileri   süren  pay   sahipleri,  c)   Yönetim   kurulu,  d)   Kararların   yerine   getirilmesi,   kişisel   sorumluluğuna   sebep   olacaksa   yönetim   kurulu  üyelerinden   her   biri,  iptal   davası   açabi lir.
+Madde 446 - (1) a) Toplantıda hazır bulunup da karara olumsuz oy veren ve bu muhalefetini tutanağa geçirten, b) Toplantıda hazır bulunsun veya bulunmasın, olumsuz oy kullanmış olsun ya da olmasın; çağrının us ulüne göre yapılmadığını, gündemin gereği gibi ilan edilmediğini, genel kurula katılma yetkisi bulunmayan kişilerin veya temsilcilerinin toplantıya katılıp oy kullandıklarını, genel kurula katılmasına ve oy kullanmasına haksız olarak izin verilmediğini ve yukarıda sayılan aykırılıkların genel kurul kararının alınmasında etkili olduğunu ileri süren pay sahipleri, c) Yönetim kurulu, d) Kararların yerine getirilmesi, kişisel sorumluluğuna sebep olacaksa yönetim kurulu üyelerinden her biri, iptal davası açabi lir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Ticaret Kanunu m. 446**, «Madde 446» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **II

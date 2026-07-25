@@ -11,8 +11,8 @@ wordCount: 4307
 
 ---
 
-Madde 352 - Kiracı,  kiralananın  teslim  edilmesinden  sonra,  kiraya  verene  karşı,
-kiralananı  belli  bir  tarihte  boşaltmayı  yazılı  olarak  üstlendiği  hâlde  boşaltmamışsa  kiraya
+Madde 352 - Kiracı, kiralananın teslim edilmesinden sonra, kiraya verene karşı,
+kiralananı belli bir tarihte boşaltmayı yazılı olarak üstlendiği hâlde boşaltmamışsa kiraya
 veren, kira sözleşmesini bu tarihten başlayarak bir ay içinde icraya başvurmak veya dava
 açmak suretiyle sona erdirebilir.
 Kiracı, bir yıldan kısa süreli kira sözleşmelerinde kira süresi içinde; bir yıl ve daha
@@ -21,14 +21,13 @@ bedelini ödemediği için kendisine yazılı olarak iki haklı ihtarda bulunulm
 kiraya veren, kira süresinin ve bir yıldan uzun süreli kiralarda ihtarların yapıldığı kira yılının
 bitiminden başlayarak bir ay içinde, dava yoluyla kira sözleşmesini sona erdirebilir.
 Kiracının veya birlikte yaşadığı eşinin aynı ilçe veya belde belediye sınırları içinde
-oturmaya  elverişli  bir  konutu  bulunması  durumunda  kiraya  veren,  kira  sözleşmesinin
-kurulması  sırasında  bunu  bilmiyorsa,  sözleşmenin  bitiminden  başlayarak  bir  ay  içinde
+oturmaya elverişli bir konutu bulunması durumunda kiraya veren, kira sözleşmesinin
+kurulması sırasında bunu bilmiyorsa, sözleşmenin bitiminden başlayarak bir ay içinde
 sözleşmeyi dava yoluyla sona erdirebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 352**, «2. Kiracıdan kaynaklanan sebeplerle» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 352 - Kiracı,  kiralananın  teslim  edilmesinden  sonra,  kiraya  verene  karşı,

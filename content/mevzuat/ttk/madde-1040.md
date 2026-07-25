@@ -11,12 +11,11 @@ wordCount: 4299
 
 ---
 
-Madde 1040 - ( 1)   Birikmiş   faizlere,   diğer   ikincil   edimlere,   bildirim   ve   takip  giderlerine   veya   1022   nci   maddenin   ikinci   fıkrasında   yazılı   hususlara   ilişkin   alacakların   devri  ve   malik   ile   yeni   alacaklı   arasındaki   hukuki   ilişki,   alacağın   devrine   ilişkin   genel   hükümlere  ta bidir.  (2)   Yukarıda   yazılı   alacaklar   hakkında   gemi   siciline   güvenle   ilgili   983   üncü   maddenin  birinci   ve   ikinci   fıkraları   uygulanmaz.
+Madde 1040 - ( 1) Birikmiş faizlere, diğer ikincil edimlere, bildirim ve takip giderlerine veya 1022 nci maddenin ikinci fıkrasında yazılı hususlara ilişkin alacakların devri ve malik ile yeni alacaklı arasındaki hukuki ilişki, alacağın devrine ilişkin genel hükümlere ta bidir. (2) Yukarıda yazılı alacaklar hakkında gemi siciline güvenle ilgili 983 üncü maddenin birinci ve ikinci fıkraları uygulanmaz.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1040**, «Madde 1040» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1040 - ( 1)   Birikmiş   faizlere,   diğer   ikincil   edimlere,   bildirim   ve   takip  giderlerine   veya   1022   nci   maddenin   ikinci   fıkrasında   yazılı   hususlara   ilişkin   alacakların   devri  ve   malik   ile   yeni   alacaklı   arasındaki   hukuki   ilişki,   alacağın   devrine   ilişkin   genel   hükümlere  ta bidir.  (2)   Yukarıda   yazılı   alacaklar   hakkında   gemi  … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

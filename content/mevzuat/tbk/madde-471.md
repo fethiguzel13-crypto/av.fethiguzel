@@ -13,7 +13,7 @@ I. Yüklenicinin borçları
 
 ---
 
-Madde 471 - Yüklenici,  üstlendiği edimleri  işsahibinin  haklı  menfaatlerini
+Madde 471 - Yüklenici, üstlendiği edimleri işsahibinin haklı menfaatlerini
 gözeterek, sadakat ve özenle ifa etmek zorundadır.
 Yüklenicinin özen borcundan doğan sorumluluğunun belirlenmesinde, benzer alandaki
 işleri üstlenen basiretli bir yüklenicinin göstermesi gereken meslekî ve teknik kurallara uygun
@@ -21,13 +21,12 @@ davranışı esas alınır.
 Yüklenici, meydana getirilecek eseri doğrudan doğruya kendisi yapmak veya kendi
 yönetimi altında yaptırmakla yükümlüdür. Ancak, eserin meydana getirilmesinde yüklenicinin
 kişisel özellikleri önem taşımıyorsa, işi başkasına da yaptırabilir.
-Aksine  âdet  veya  anlaşma  olmadıkça  yüklenici,  eserin  meydana  getirilmesi  için
+Aksine âdet veya anlaşma olmadıkça yüklenici, eserin meydana getirilmesi için
 kullanılacak olan araç ve gereçleri kendisi sağlamak zorundadır.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 471**, «Madde 471» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **B. Hükümleri

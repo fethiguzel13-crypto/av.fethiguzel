@@ -12,18 +12,17 @@ wordCount: 4314
 ---
 
 Madde 500 - Eser sahibi eseri tamamlamadan önce ölür veya tamamlama yeteneğini
-yitirir  ya  da eseri tamamlaması kendi kusuru olmaksızın imkânsız duruma gelirse, sözleşme
+yitirir ya da eseri tamamlaması kendi kusuru olmaksızın imkânsız duruma gelirse, sözleşme
 kendiliğinden sona erer. Ancak, sözleşmenin tamamı veya bir bölümünün yerine getirilmesi
 mümkün ve hakkaniyete uygun bulunursa hâkim, sözleşme ilişkisinin devam etmesine ve
 bunun için gereken değişikliklerin yapılmasına karar verebilir.
-Yayımcı  iflas  ederse  yayımlatan,  eseri  başka  bir  yayımcıya  verebilir;  ancak,  iflas
+Yayımcı iflas ederse yayımlatan, eseri başka bir yayımcıya verebilir; ancak, iflas
 anında henüz muaccel olmamış borcun yerine getirileceği konusunda güvence gösterilmişse,
 yayımlatan eseri başka bir yayımcıya veremez.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Borçlar Kanunu m. 500**, «III. Kişisel sebeplerle sona ermesi» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 500 - Eser sahibi eseri tamamlamadan önce ölür veya tamamlama yeteneğini

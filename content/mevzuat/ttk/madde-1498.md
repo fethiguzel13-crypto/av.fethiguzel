@@ -7,16 +7,15 @@ lastReviewed: "2026-07-20"
 wordCount: 4272
 ---
 
-**2.   Sözleşmenin   yapılması   sırasındaki   beyan   yükümlülüğünün   ihlali**
+**2. Sözleşmenin yapılması sırasındaki beyan yükümlülüğünün ihlali**
 
 ---
 
-Madde 1498 - (1)   Sigortacı,   yenilemeler   de   dâhil   olmak   üzere,   sözleşmenin  yapılmasından   itibaren   beş   yıl   geçmişse,   sigorta   ettirenin   sözleşmenin   yapılması   sırasında  beyan   yükümlülüğünü   ihlal   etmiş   olması   nedeniyle   sözleşmeden   cayamaz,   sadece   prim   farkı  isteyebilir;   meğerki,   beyan   yükümlülüğü   kasıtl ı   bir   şekilde   ihlal   edilmiş   olsun.   Sigorta   ettiren,  prim   farkını   ödemeyi   kabul   etmezse   sigortacı,   riziko   gerçekleştiğinde   ödenen   primle  ödenmesi   gereken   prim   arasındaki   oranı   dikkate   alarak   sigorta   bedelini   öder.   Ancak,   risk   artışı  beyan   yükümlülüğünün   ihl ali   nedeniyle   sigortacının   teknik   esaslarına   göre   saptanan  sınırlarının   dışında   kalmışsa,   sigortacı   sözleşmeden   cayabilir.   Yenilenen   sözleşmelerde   bu  süre,   ilk   sözleşmenin   yapıldığı   tarihten   başlar.
+Madde 1498 - (1) Sigortacı, yenilemeler de dâhil olmak üzere, sözleşmenin yapılmasından itibaren beş yıl geçmişse, sigorta ettirenin sözleşmenin yapılması sırasında beyan yükümlülüğünü ihlal etmiş olması nedeniyle sözleşmeden cayamaz, sadece prim farkı isteyebilir; meğerki, beyan yükümlülüğü kasıtl ı bir şekilde ihlal edilmiş olsun. Sigorta ettiren, prim farkını ödemeyi kabul etmezse sigortacı, riziko gerçekleştiğinde ödenen primle ödenmesi gereken prim arasındaki oranı dikkate alarak sigorta bedelini öder. Ancak, risk artışı beyan yükümlülüğünün ihl ali nedeniyle sigortacının teknik esaslarına göre saptanan sınırlarının dışında kalmışsa, sigortacı sözleşmeden cayabilir. Yenilenen sözleşmelerde bu süre, ilk sözleşmenin yapıldığı tarihten başlar.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1498**, «2.   Sözleşmenin   yapılması   sırasındaki   beyan   yükümlülüğünün   ihlali» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 1498 - (1)   Sigortacı,   yenilemeler   de   dâhil   olmak   üzere,   sözleşmenin  yapılmasından   itibaren   beş   yıl   geçmişse,   sigorta   ettirenin   sözleşmenin   yapılması   sırasında  beyan   yükümlülüğünü   ihlal   etmiş   olması   nedeniyle   sözleşmeden   cayamaz,   sadece   prim   farkı  isteyebilir;   meğerki,   beyan   yükümlülüğü   kasıtl ı   bir   şekilde   ihlal   edilmiş  … Bu metin, yoruma açık genel kavramlarla (özen, bildirim, yasak, ödeme, ibraz vb.) somut usul adımlarını bir arada barındırır; dolayısıyla hem kavram analizi hem de usul–esas ayrımı zorunludur.

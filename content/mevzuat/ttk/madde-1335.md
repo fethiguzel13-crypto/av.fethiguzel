@@ -10,16 +10,15 @@ wordCount: 4306
 **b) Bu oranlara göre, ikinci paragrafta yazılı alacaklara düşen paylar belirlenir.
 c) Fondan, bu paylar ve üçüncü paragrafta sayılan öncelikli alacaklar ödenir. d ) Bakiyeden, birinci paragrafın (b) bendinde yazılı diğer alacaklar ödenir.
 e) Fon, ikinci paragrafta yazılı alacaklara düşen payları ve üçüncü paragrafta yazılı öncelikli alacakları karşılamaya yetmezse, fonun tamamı bu alacaklılar arasında garameten payl aştırılır.
-VIII   -   Fon   kurmadan   sorumluluğun   sınırlanması**
+VIII - Fon kurmadan sorumluluğun sınırlanması**
 
 ---
 
-Madde 1335 - (1)   1976   tarihli   Sözleşmenin   10   uncu   maddesi   uyarınca,   fon  kurulmadan   da   sorumluluğu   sınırlama   hakkı   ileri   sürülebilir.
+Madde 1335 - (1) 1976 tarihli Sözleşmenin 10 uncu maddesi uyarınca, fon kurulmadan da sorumluluğu sınırlama hakkı ileri sürülebilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 1335**, «Madde 1335» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **b) Bu oranlara göre, ikinci paragrafta yazılı alacaklara düşen paylar belirlenir.

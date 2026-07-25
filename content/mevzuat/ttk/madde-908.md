@@ -11,16 +11,15 @@ wordCount: 4308
 c) Sefer, taşıyıcının fiili veya ihmali sebebiyle yapılmamışsa, yolcu tazminat isteyebilir.
 d) Sefer, herhangi bir sebeple yapılmamış ve yolcu da o sefer için saatinde gerekli yerde bulunamamışsa, o seferi izleyen seferlerden birinde, aynı düzeydeki bir araçla ve aynı düzeydeki bir yerde seyahat etme hakkını haizdir; meğerki, bu istemin yerine getirilmesi taşıyıcı yönünden imkânsız olsun veya büyük bir mali yük oluştursun. Yolcuya sefer öneremeyen taşıyıcı bilet ücretinin üç katı tutarında tazminat öder. Seferin yapılamamasında taşıyıcını n kusuru yoksa, yolcu aynı şartlarla kendisine önerilen seferi, haklı bir sebep göstermeksizin reddederse taşıma ücretini öder.
 e) (a), (b) ve (c) bentlerinde anılan hâllerde taşıyıcı, peşin almış olduğu taşıma ücretini geri verir.
-C)   Seferin   gecikmesi  I   -   Hareketin   gecikmesi**
+C) Seferin gecikmesi I - Hareketin gecikmesi**
 
 ---
 
-Madde 908 - (1)   Hareket,   duruma   ve   şartlara   göre   yolcudan   katlanması   istenemeyecek  bir   süre   gecikirse,   yolcu   sözleşmeden   cayıp   ödediği   ücreti   ve   varsa   zararını   isteyebilir.   Yolcu,  gecikmeye   rağmen   yolculuğu   yapmışsa,   sadece   gecikmede n   doğan   zararının   tazminini   dava  edebilir.   Cayma   şekle   bağlı   değildir;   hareket   yerinden   ayrılma,   cayma   kabul   edilir.   Sözleşmeden  cayılsın   veya   cayılmasın,   gecikme   nedeniyle   doğmuş   herhangi   bir   zarar   ispat   edilemese   bile  mahkemece   bilet   parasının   üç   misli   t azminata   karar   verilir.
+Madde 908 - (1) Hareket, duruma ve şartlara göre yolcudan katlanması istenemeyecek bir süre gecikirse, yolcu sözleşmeden cayıp ödediği ücreti ve varsa zararını isteyebilir. Yolcu, gecikmeye rağmen yolculuğu yapmışsa, sadece gecikmede n doğan zararının tazminini dava edebilir. Cayma şekle bağlı değildir; hareket yerinden ayrılma, cayma kabul edilir. Sözleşmeden cayılsın veya cayılmasın, gecikme nedeniyle doğmuş herhangi bir zarar ispat edilemese bile mahkemece bilet parasının üç misli t azminata karar verilir.
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **ttk m. 908**, «Madde 908» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): **b) Sefer, taşıma aracıyla ilgili olup taşıyıcı için kusur oluşturmayan, i ki tarafın da kusurundan doğup yolculuğa engel bulunan veya yolculuğu tehlikeli duruma sokan bir sebep dolayısıyla yapılmamışsa, sözleşme, taraflardan hiçbirine tazmin yükümlülüğü doğurmaksızın kendiliğinden geçersiz olur.

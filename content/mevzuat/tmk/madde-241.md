@@ -11,13 +11,12 @@ wordCount: 4264
 
 ---
 
-Madde 241 - Tasfiye sırasında, borçlu eş in ma lvarlığı veya terekesi, katılma alacağını  karşılamadığı takdirde, alacaklı eş veya mirasçıları, edinilmiş ma llarda hesaba katılması gereken
-karşılıksız kazandırmaları bunlardan yararlanan üçüncü kişilerden eksik kala n miktarla sınırlı olarak  isteyebil ir.  D ava hakkı, alacaklı eş veya mirasçılarının haklarının zedelendiğini öğrendikleri tarihten  başlayarak bir yıl   ve her hâlde mal rejiminin sona ermesinin üzerinden beş yıl geçmekle düşer.  Yukarıdaki fıkra hükümleri ve yetki kuralları dışında mirastaki te nkis   davasına ilişkin  hükümler kıyas yoluyla uygulanır.  ÜÇÜNCÜ AYIRIM  MAL AYRILIĞI  A. Yönetim, yararlanma ve tas arruf
+Madde 241 - Tasfiye sırasında, borçlu eş in ma lvarlığı veya terekesi, katılma alacağını karşılamadığı takdirde, alacaklı eş veya mirasçıları, edinilmiş ma llarda hesaba katılması gereken
+karşılıksız kazandırmaları bunlardan yararlanan üçüncü kişilerden eksik kala n miktarla sınırlı olarak isteyebil ir. D ava hakkı, alacaklı eş veya mirasçılarının haklarının zedelendiğini öğrendikleri tarihten başlayarak bir yıl ve her hâlde mal rejiminin sona ermesinin üzerinden beş yıl geçmekle düşer. Yukarıdaki fıkra hükümleri ve yetki kuralları dışında mirastaki te nkis davasına ilişkin hükümler kıyas yoluyla uygulanır. ÜÇÜNCÜ AYIRIM MAL AYRILIĞI A. Yönetim, yararlanma ve tas arruf
 
 ---
 
 ### Akademik Yorum ve Analiz
-
 #### 1. Maddenin Sistematiği ve Genel Açıklama
 
 **Türk Medeni Kanunu m. 241**, «3. Üçüncü kişilere karşı dava» başlığı altında, kanunun koruma amacını ve uygulama mimarisini somutlaştıran temel hükümlerden biridir. Madde, salt teknik bir usul kuralı olmanın ötesinde; piyasa güveni, alacaklının (hamilin) korunması, kayıt düzeni ve dürüst işlem ilkeleri arasında denge kuran bir normatif düğüm noktasıdır. Sistematik açıdan hüküm, kanunun önceki maddelerinde kurulan yükümlülük ve yaptırım rejimini tamamlar; sonraki maddelerle birlikte okunduğunda koruma zincirinin sürekliliği sağlanır. Ratio legis, çek ve benzeri ödeme araçlarının tedavül kabiliyetinin korunması, karşılıksızlık riskinin yönetilmesi ve kamu otoritesinin öngördüğü kayıt/denetim araçlarının işlemesidir. Tarihsel olarak 5941 sayılı Çek Kanunu, önceki dönem düzenlemelerinin (özellikle 3167 sayılı Kanun çizgisinin) bıraktığı boşlukları kapatmak ve modern bankacılık–risk merkezi altyapısıyla uyumlu bir rejim kurmak üzere ihdas edilmiştir. Madde metninin lafzı şöyledir (özet alıntı): Madde 241 - Tasfiye sırasında, borçlu eş in ma lvarlığı veya terekesi, katılma alacağını  karşılamadığı takdirde, alacaklı eş veya mirasçıları, edinilmiş ma llarda hesaba katılması gereken
