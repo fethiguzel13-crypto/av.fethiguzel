@@ -101,6 +101,22 @@
     throw new Error('Tarayıcı gzip desteklemiyor');
   }
 
+  async function loadPack(kanunId) {
+    var url = '/content-packs/' + encodeURIComponent(kanunId) + '.json.gz';
+    var res = await fetch(url, { cache: 'no-cache' });
+    if (!res.ok) throw new Error('Pack HTTP ' + res.status + ' (' + url + ')');
+    var buf = await res.arrayBuffer();
+    if (buf.byteLength < 64) {
+      throw new Error(
+        'Pack boş veya eksik (' + buf.byteLength + ' bayt). Deploy public/content-packs kopyasını kontrol edin.'
+      );
+    }
+    var bytes = new Uint8Array(buf);
+    var isGzip = bytes.length >= 2 && bytes[0] === 0x1f && bytes[1] === 0x8b;
+    var jsonText = isGzip ? await gunzipToText(buf) : new TextDecoder().decode(buf);
+    return JSON.parse(jsonText);
+  }
+
   async function main() {
     var app = document.getElementById('app');
     var ids = parseIds();
@@ -110,23 +126,18 @@
     }
     document.getElementById('crumb-tail').textContent = ids.kanunId + '/' + ids.id;
     try {
-      var res = await fetch('/content-packs/' + encodeURIComponent(ids.kanunId) + '.json.gz', { cache: 'force-cache' });
-      if (!res.ok) throw new Error('Pack HTTP ' + res.status);
-      var buf = await res.arrayBuffer();
-      var bytes = new Uint8Array(buf);
-      var isGzip = bytes.length >= 2 && bytes[0] === 0x1f && bytes[1] === 0x8b;
-      var jsonText = isGzip ? await gunzipToText(buf) : new TextDecoder().decode(buf);
-      var pack = JSON.parse(jsonText);
+      var pack = await loadPack(ids.kanunId);
       var article = pack[ids.id];
       if (!article) throw new Error('Madde pack içinde yok: ' + ids.kanunId + '/' + ids.id);
       document.title = article.title + ' | Av. Fethi Güzel';
-      var commentary = article.commentary
+      var hasCommentary = !!(article.commentary && String(article.commentary).trim());
+      var commentary = hasCommentary
         ? '<section class="commentary"><h2>AKADEMİK YORUM VE ANALİZ</h2><article class="prose">' + mdToHtml(article.commentary) + '</article></section>'
-        : '';
+        : '<section class="commentary"><h2>AKADEMİK YORUM VE ANALİZ</h2><p class="prose" style="color:rgba(26,26,26,.5)">Bu madde için şerh metni henüz pack içinde yok.</p></section>';
       app.innerHTML =
         '<p class="kanun">' + escapeHtml(article.kanun || ids.kanunId) + '</p>' +
         '<h1>' + escapeHtml(article.title) + '</h1>' +
-        '<section class="official"><h2>RESMİ METİN</h2><article class="prose">' + mdToHtml(article.official) + '</article></section>' +
+        '<section class="official"><h2>RESMİ METİN</h2><article class="prose">' + mdToHtml(article.official || '') + '</article></section>' +
         commentary;
     } catch (e) {
       app.innerHTML = '<div class="err"><h1>İçerik yüklenemedi</h1><p>' + escapeHtml(ids.kanunId + '/' + ids.id) + '</p><pre>' + escapeHtml(e && e.message ? e.message : String(e)) + '</pre><p><a href="/mevzuat">← Mevzuata dön</a></p></div>';

@@ -49,8 +49,10 @@ const nextConfig: NextConfig = {
         headers: [
           {
             key: "Cache-Control",
-            value: "public, max-age=86400, stale-while-revalidate=604800",
+            value: "public, max-age=3600, stale-while-revalidate=86400",
           },
+          // Ensure browsers treat .json.gz as downloadable gzip body (not double-encoded HTML)
+          { key: "Content-Type", value: "application/gzip" },
         ],
       },
       {
