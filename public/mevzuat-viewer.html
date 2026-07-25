@@ -251,10 +251,14 @@
       async function loadPack(kanunId) {
         // Prefer API (reads full packs from disk; bypasses CDN empty-stub cache)
         // then static /content-packs as fallback.
+        var kid = encodeURIComponent(kanunId);
+        // Local first; if Vercel still has empty stubs, load full packs from GitHub CDN.
         var urls = [
-          '/packs/' + encodeURIComponent(kanunId) + '.json.gz',
-          '/api/content-pack/' + encodeURIComponent(kanunId),
-          '/content-packs/' + encodeURIComponent(kanunId) + '.json.gz?v=3',
+          '/packs/' + kid + '.json.gz',
+          '/api/content-pack/' + kid,
+          'https://cdn.jsdelivr.net/gh/fethiguzel13-crypto/av.fethiguzel@main/content-packs/' + kid + '.json.gz',
+          'https://raw.githubusercontent.com/fethiguzel13-crypto/av.fethiguzel/main/content-packs/' + kid + '.json.gz',
+          '/content-packs/' + kid + '.json.gz?v=4',
         ];
         var lastErr;
         for (var i = 0; i < urls.length; i++) {
