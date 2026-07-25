@@ -147,7 +147,7 @@ function mdToHtml(md: string, opts: { official?: boolean; listOk?: boolean } = {
         if (
             olm &&
             (opts.listOk || olm[1].length > 40 || /[.;:]/.test(olm[1])) &&
-            !(opts.official && t.length < 60)
+            !(opts.official && t.length < 60 && !opts.listOk)
         ) {
             flushPara();
             if (inUl) {

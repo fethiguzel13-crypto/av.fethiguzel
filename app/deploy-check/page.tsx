@@ -6,10 +6,15 @@ export default function DeployCheckPage() {
             <div className="text-center">
                 <h1 className="text-2xl font-bold text-charcoal mb-2">Deploy OK</h1>
                 <p className="text-charcoal/60 text-sm font-mono">
-                    build-marker: 2026-07-25-app-router-madde-v1
+                    build-marker: 2026-07-25-app-router-madde-v2-lite-prebuild
                 </p>
                 <p className="mt-4 text-sm text-charcoal/50">
-                    Madde sayfaları: App Router + jsDelivr packs
+                    Madde sayfaları: App Router + jsDelivr packs (Vercel lite prebuild)
+                </p>
+                <p className="mt-2">
+                    <a href="/mevzuat/tbk/madde-1" className="text-accent font-semibold text-sm">
+                        TBK Madde 1 test →
+                    </a>
                 </p>
             </div>
         </main>

@@ -1,7 +1,9 @@
 /**
  * Safe prebuild for local + Vercel.
- * On Vercel NEVER rebuild packs from markdown (content/ is often missing or partial)
- * and NEVER overwrite good public packs with empty stubs.
+ *
+ * Madde pages (App Router) load packs from jsDelivr/GitHub first.
+ * On Vercel we avoid heavy pack rebuild/copy so builds stay fast and reliable.
+ * Locally we still copy packs for offline / static viewer fallback.
  */
 import { spawnSync } from 'node:child_process';
 import {
@@ -10,11 +12,11 @@ import {
     copyFileSync,
     readdirSync,
     mkdirSync,
+    readFileSync,
 } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { gunzipSync } from 'node:zlib';
-import { readFileSync } from 'node:fs';
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const root = join(__dir, '..');
@@ -52,53 +54,49 @@ function copyAllPacks() {
         if (f.endsWith('.json.gz')) {
             const n = packCount(src);
             articles += n;
-            const kb = (statSync(src).size / 1024).toFixed(0);
             if (n === 0) {
                 console.error(`FATAL: source pack empty: ${f}`);
                 process.exit(1);
             }
-            console.log(`ensure ${f}: ${n} articles, ${kb}KB`);
         }
     }
-    console.log(`prebuild-safe: ${files.length} files, ~${articles} articles → public/packs + public/content-packs`);
-}
-
-function verifyPublic() {
-    const probe = join(root, 'public', 'packs', 'tbk.json.gz');
-    const n = packCount(probe);
-    const size = existsSync(probe) ? statSync(probe).size : 0;
-    console.log(`verify public/packs/tbk.json.gz: ${size} bytes, ${n} articles`);
-    if (size < 1000 || n < 10) {
-        console.error('FATAL: public packs still empty after copy — şerhler will not show');
-        process.exit(1);
-    }
+    console.log(
+        `prebuild-safe: copied ${files.length} files (~${articles} articles) → public/`
+    );
 }
 
 const onVercel = !!(process.env.VERCEL || process.env.CI);
 
-// Always restore packs from committed content-packs (source of truth)
-copyAllPacks();
-verifyPublic();
-
 if (onVercel) {
-    // Index: keep committed public/data/mevzuat-index.json if present
+    // Client loads packs from jsDelivr — do not rebuild/copy 30MB+ packs on every deploy.
+    // Index: keep committed public/data/mevzuat-index.json when present.
     const index = join(root, 'public', 'data', 'mevzuat-index.json');
     if (existsSync(index) && statSync(index).size > 10000) {
-        console.log('Vercel: keeping existing mevzuat-index.json');
-    } else {
-        console.log('Vercel: building index from packs…');
+        console.log(
+            `Vercel: skip pack rebuild; index ok (${(statSync(index).size / 1e6).toFixed(1)}MB)`
+        );
+    } else if (existsSync(packsDir)) {
+        console.log('Vercel: index missing — building from packs…');
         const r = spawnSync(process.execPath, [join(__dir, 'build-mevzuat-index.mjs')], {
             cwd: root,
             stdio: 'inherit',
             env: process.env,
         });
         if (r.status !== 0) process.exit(r.status || 1);
+    } else {
+        console.warn('Vercel: no index and no packs — listings may be empty');
     }
-    console.log('Vercel prebuild done (packs only, no markdown rebuild)');
+    console.log('Vercel prebuild done (App Router + jsDelivr packs)');
     process.exit(0);
 }
 
-// Local: full index rebuild from markdown when available
+// Local: full copy + index
+copyAllPacks();
+const probe = join(root, 'public', 'packs', 'tbk.json.gz');
+if (!existsSync(probe) || packCount(probe) < 10) {
+    console.error('FATAL: public packs empty after copy');
+    process.exit(1);
+}
 const r = spawnSync(process.execPath, [join(__dir, 'build-mevzuat-index.mjs')], {
     cwd: root,
     stdio: 'inherit',
