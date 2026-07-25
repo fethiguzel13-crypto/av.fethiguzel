@@ -23,14 +23,10 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
+  // Madde pages are App Router: app/mevzuat/[kanunId]/[id]
+  // (static HTML viewer kept as offline fallback only — no rewrite hijack)
   async rewrites() {
-    return [
-      {
-        source: "/mevzuat/:kanunId/:id",
-        // v3 typography: headings, no raw ####, reading-friendly prose
-        destination: "/mevzuat-viewer-v3.html",
-      },
-    ];
+    return [];
   },
   async headers() {
     return [
