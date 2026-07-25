@@ -1,11 +1,8 @@
 import type { NextConfig } from "next";
 
 /**
- * Madde detail pretty URLs are served by a pure static HTML viewer in /public
- * so Vercel does not need serverless SSR for 7800+ content pages.
- *
- * Security + performance headers mirror patterns on award-winning legal sites
- * (Clio scorecard: technical factors, Core Web Vitals, trust).
+ * Madde pages: app/mevzuat/[kanunId]/[id] (App Router).
+ * Packs load client-side from jsDelivr — do not bundle content-packs into lambdas.
  */
 const securityHeaders = [
   { key: "X-DNS-Prefetch-Control", value: "on" },
@@ -23,11 +20,6 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
-  // Madde pages are App Router: app/mevzuat/[kanunId]/[id]
-  // (static HTML viewer kept as offline fallback only — no rewrite hijack)
-  async rewrites() {
-    return [];
-  },
   async headers() {
     return [
       {
@@ -39,26 +31,6 @@ const nextConfig: NextConfig = {
         headers: [
           { key: "Content-Type", value: "text/plain; charset=utf-8" },
           { key: "Cache-Control", value: "public, max-age=3600" },
-        ],
-      },
-      {
-        source: "/content-packs/:path*",
-        headers: [
-          {
-            key: "Cache-Control",
-            value: "public, max-age=3600, stale-while-revalidate=86400",
-          },
-          { key: "Content-Type", value: "application/gzip" },
-        ],
-      },
-      {
-        source: "/packs/:path*",
-        headers: [
-          {
-            key: "Cache-Control",
-            value: "public, max-age=86400, stale-while-revalidate=604800",
-          },
-          { key: "Content-Type", value: "application/gzip" },
         ],
       },
       {
@@ -83,24 +55,24 @@ const nextConfig: NextConfig = {
   },
   poweredByHeader: false,
   compress: true,
-  // Include content-packs in serverless traces so /api/content-pack can read them.
-  // Do NOT exclude content-packs — empty public stubs + exclude = invisible şerhler.
+  // Keep deploy lean: never ship raw markdown / scrapers / 30MB packs into serverless
   outputFileTracingExcludes: {
     "/**": [
       "./content/**/*",
+      "./content-packs/**/*",
+      "./public/content-packs/**/*",
+      "./public/packs/**/*",
       "./scraper/**/*",
       "./scripts/**/*",
       "./docs/**/*",
       "./logs/**/*",
+      "./mobile/**/*",
       "./node_modules/playwright/**/*",
       "./node_modules/playwright-core/**/*",
       "./node_modules/@anthropic-ai/**/*",
       "./node_modules/pdfjs-dist/**/*",
       "./node_modules/pdf-parse/**/*",
     ],
-  },
-  outputFileTracingIncludes: {
-    "/api/content-pack/**/*": ["./content-packs/**/*", "./public/content-packs/**/*"],
   },
 };
 
