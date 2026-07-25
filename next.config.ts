@@ -20,6 +20,22 @@ const securityHeaders = [
 ];
 
 const nextConfig: NextConfig = {
+  /**
+   * beforeFiles: take priority over App Router dynamic routes.
+   * App route /mevzuat/[kanunId]/[id] was 500 on Vercel; static HTML + jsDelivr works.
+   */
+  async rewrites() {
+    return {
+      beforeFiles: [
+        {
+          source: '/mevzuat/:kanunId/:id',
+          destination: '/mevzuat-viewer-v4.html',
+        },
+      ],
+      afterFiles: [],
+      fallback: [],
+    };
+  },
   async headers() {
     return [
       {
