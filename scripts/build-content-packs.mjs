@@ -25,9 +25,12 @@ const root = join(__dir, '..');
 const contentDir = join(root, 'content', 'mevzuat');
 const packsDir = join(root, 'content-packs');
 const publicPacksDir = join(root, 'public', 'content-packs');
+/** Cache-bust path — empty stubs were stuck on /content-packs/ CDN */
+const publicPacksAltDir = join(root, 'public', 'packs');
 
 mkdirSync(packsDir, { recursive: true });
 mkdirSync(publicPacksDir, { recursive: true });
+mkdirSync(publicPacksAltDir, { recursive: true });
 
 const splitRegex = /\n### (?:Bizim Yorumumuz|Akademik Yorum ve Analiz)\s*\n/;
 
@@ -59,14 +62,14 @@ function copyPacksToPublic() {
     let articles = 0;
     for (const f of files) {
         const src = join(packsDir, f);
-        const dest = join(publicPacksDir, f);
-        copyFileSync(src, dest);
+        copyFileSync(src, join(publicPacksDir, f));
+        copyFileSync(src, join(publicPacksAltDir, f));
         copied++;
         if (f.endsWith('.json.gz')) {
             const n = packArticleCount(src);
             articles += n;
             const kb = (statSync(src).size / 1024).toFixed(0);
-            console.log(`copy ${f}: ${n} articles, ${kb}KB → public/content-packs/`);
+            console.log(`copy ${f}: ${n} articles, ${kb}KB → public/{content-packs,packs}/`);
             if (n === 0) {
                 console.warn(`WARN empty pack: ${f}`);
             }
@@ -130,6 +133,7 @@ function buildFromMarkdown() {
         totalGz += gz.length;
         writeFileSync(join(packsDir, `${kanunId}.json.gz`), gz);
         writeFileSync(join(publicPacksDir, `${kanunId}.json.gz`), gz);
+        writeFileSync(join(publicPacksAltDir, `${kanunId}.json.gz`), gz);
         console.log(`pack ${kanunId}: ${files.length} articles, gz=${(gz.length / 1024).toFixed(0)}KB`);
     }
 
@@ -142,6 +146,7 @@ function buildFromMarkdown() {
     });
     writeFileSync(join(packsDir, 'manifest.json'), manifest);
     writeFileSync(join(publicPacksDir, 'manifest.json'), manifest);
+    writeFileSync(join(publicPacksAltDir, 'manifest.json'), manifest);
 
     console.log(
         `content-packs: ${totalArticles} articles, raw=${(totalRaw / 1e6).toFixed(1)}MB → gz=${(totalGz / 1e6).toFixed(1)}MB (+ public/)`

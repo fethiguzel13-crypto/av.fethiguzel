@@ -252,8 +252,9 @@
         // Prefer API (reads full packs from disk; bypasses CDN empty-stub cache)
         // then static /content-packs as fallback.
         var urls = [
+          '/packs/' + encodeURIComponent(kanunId) + '.json.gz',
           '/api/content-pack/' + encodeURIComponent(kanunId),
-          '/content-packs/' + encodeURIComponent(kanunId) + '.json.gz?v=2',
+          '/content-packs/' + encodeURIComponent(kanunId) + '.json.gz?v=3',
         ];
         var lastErr;
         for (var i = 0; i < urls.length; i++) {

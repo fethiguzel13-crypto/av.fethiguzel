@@ -6,8 +6,8 @@ export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
 
 /**
- * Serves content-packs/{kanun}.json.gz for the mevzuat viewer.
- * Bypasses poisoned CDN cache of empty static stubs.
+ * Serves {kanun}.json.gz for the mevzuat viewer.
+ * Prefer public/packs (cache-bust path), then content-packs, skip empty stubs.
  */
 export async function GET(
     _request: Request,
@@ -22,31 +22,46 @@ export async function GET(
     }
 
     const file = `${kanunId}.json.gz`;
+    const cwd = process.cwd();
     const candidates = [
-        join(process.cwd(), 'public', 'content-packs', file),
-        join(process.cwd(), 'content-packs', file),
+        join(cwd, 'public', 'packs', file),
+        join(cwd, 'public', 'content-packs', file),
+        join(cwd, 'content-packs', file),
     ];
 
-    for (const p of candidates) {
-        if (!existsSync(p)) continue;
-        const buf = readFileSync(p);
-        if (buf.length < 64) continue; // skip empty gzip stubs
-        return new NextResponse(new Uint8Array(buf), {
-            status: 200,
-            headers: {
-                'Content-Type': 'application/gzip',
-                'Content-Length': String(buf.length),
-                'Cache-Control': 'public, max-age=300, stale-while-revalidate=3600',
-                'X-Pack-Source': p.includes(`${join('public', 'content-packs')}`)
-                    ? 'public'
-                    : 'content-packs',
-                'X-Pack-Bytes': String(buf.length),
+    const tried: { path: string; exists: boolean; bytes?: number }[] = [];
+
+    try {
+        for (const p of candidates) {
+            const exists = existsSync(p);
+            if (!exists) {
+                tried.push({ path: p, exists: false });
+                continue;
+            }
+            const buf = readFileSync(p);
+            tried.push({ path: p, exists: true, bytes: buf.length });
+            if (buf.length < 64) continue;
+            return new NextResponse(buf, {
+                status: 200,
+                headers: {
+                    'Content-Type': 'application/gzip',
+                    'Content-Length': String(buf.length),
+                    'Cache-Control': 'public, max-age=300, stale-while-revalidate=3600',
+                    'X-Pack-Bytes': String(buf.length),
+                },
+            });
+        }
+    } catch (e) {
+        return NextResponse.json(
+            {
+                error: e instanceof Error ? e.message : String(e),
+                kanunId,
+                cwd,
+                tried,
             },
-        });
+            { status: 500 }
+        );
     }
 
-    return NextResponse.json(
-        { error: 'pack not found', kanunId, tried: candidates.map((c) => c.split(/[/\\]/).slice(-3).join('/')) },
-        { status: 404 }
-    );
+    return NextResponse.json({ error: 'pack not found', kanunId, cwd, tried }, { status: 404 });
 }
