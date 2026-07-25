@@ -355,6 +355,32 @@ export default function MaddeViewer({
                             ) : null}
                         </header>
 
+                        <nav
+                            className="flex flex-wrap gap-2 justify-between items-center mb-6 pb-4 border-b border-black/8"
+                            aria-label="Madde gezinme (üst)"
+                        >
+                            {adj.prev && pack ? (
+                                <Link
+                                    href={`/mevzuat/${kanunId}/${adj.prev}`}
+                                    className="text-sm font-semibold px-4 py-2.5 rounded-full bg-white border border-black/10 hover:border-[#C45A38]/40 hover:text-[#C45A38] transition-colors max-w-[48%] truncate"
+                                    title="Önceki madde"
+                                >
+                                    ← {pack[adj.prev].title || adj.prev}
+                                </Link>
+                            ) : (
+                                <span />
+                            )}
+                            {adj.next && pack ? (
+                                <Link
+                                    href={`/mevzuat/${kanunId}/${adj.next}`}
+                                    className="text-sm font-semibold px-4 py-2.5 rounded-full bg-white border border-black/10 hover:border-[#C45A38]/40 hover:text-[#C45A38] transition-colors max-w-[48%] truncate"
+                                    title="Sonraki madde"
+                                >
+                                    {pack[adj.next].title || adj.next} →
+                                </Link>
+                            ) : null}
+                        </nav>
+
                         <section className="rounded-2xl sm:rounded-[1.35rem] bg-gradient-to-br from-[#2E4036] to-[#24352c] text-[#FFFEFA]/95 p-5 sm:p-8 shadow-lg mb-5 sm:mb-6">
                             <p className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-[0.2em] text-[#e8a48a] mb-4">
                                 <span className="w-4 h-0.5 bg-[#e8a48a] rounded-full" />
