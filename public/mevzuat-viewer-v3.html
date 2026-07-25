@@ -440,29 +440,45 @@
       margin: 0 0 0.85rem;
     }
 
-    /* Nav between articles */
+    /* Nav between articles — top + bottom */
     .pager {
       display: flex;
       flex-wrap: wrap;
       gap: 0.65rem;
-      margin-top: 1.75rem;
       justify-content: space-between;
+      align-items: center;
+    }
+
+    .pager-top {
+      margin: 0 0 1.35rem;
+      padding-bottom: 1rem;
+      border-bottom: 1px solid var(--line);
+    }
+
+    .pager-bottom {
+      margin-top: 1.75rem;
+      padding-top: 1rem;
+      border-top: 1px solid var(--line);
     }
 
     .pager a {
       display: inline-flex;
       align-items: center;
       gap: 0.4rem;
+      max-width: min(48%, 16rem);
       padding: 0.65rem 1rem;
       border-radius: 999px;
       background: var(--paper);
       border: 1px solid var(--line);
       color: var(--charcoal);
-      font-size: 0.8rem;
+      font-size: 0.78rem;
       font-weight: 600;
       font-family: "Plus Jakarta Sans", system-ui, sans-serif;
       text-decoration: none;
       transition: border-color 0.2s, color 0.2s;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     .pager a:hover {
@@ -473,6 +489,13 @@
 
     .pager .spacer {
       flex: 1;
+      min-width: 0.5rem;
+    }
+
+    .pager .pager-empty {
+      max-width: min(48%, 16rem);
+      visibility: hidden;
+      pointer-events: none;
     }
 
     /* loading / error */
@@ -805,17 +828,37 @@
           var adj = adjacentIds(pack, ids.id);
           var base = '/mevzuat/' + encodeURIComponent(ids.kanunId) + '/';
 
-          var pager = '<div class="pager">';
-          if (adj.prev) {
-            pager += '<a href="' + base + encodeURIComponent(adj.prev) + '">← ' + escapeHtml(pack[adj.prev].title || adj.prev) + '</a>';
-          } else {
-            pager += '<span></span>';
+          function buildPager(positionClass) {
+            var html = '<nav class="pager ' + positionClass + '" aria-label="Madde gezinme">';
+            if (adj.prev) {
+              html +=
+                '<a href="' +
+                base +
+                encodeURIComponent(adj.prev) +
+                '" title="Önceki madde">' +
+                '← ' +
+                escapeHtml(pack[adj.prev].title || adj.prev) +
+                '</a>';
+            } else {
+              html += '<span class="pager-empty" aria-hidden="true"></span>';
+            }
+            html += '<span class="spacer"></span>';
+            if (adj.next) {
+              html +=
+                '<a href="' +
+                base +
+                encodeURIComponent(adj.next) +
+                '" title="Sonraki madde">' +
+                escapeHtml(pack[adj.next].title || adj.next) +
+                ' →</a>';
+            } else {
+              html += '<span class="pager-empty" aria-hidden="true"></span>';
+            }
+            html += '</nav>';
+            return html;
           }
-          pager += '<span class="spacer"></span>';
-          if (adj.next) {
-            pager += '<a href="' + base + encodeURIComponent(adj.next) + '">' + escapeHtml(pack[adj.next].title || adj.next) + ' →</a>';
-          }
-          pager += '</div>';
+          var pagerTop = buildPager('pager-top');
+          var pagerBottom = buildPager('pager-bottom');
 
           var commentaryHtml = hasCommentary
             ? '<section class="panel commentary"><p class="panel-label">Akademik yorum ve analiz</p><article class="prose">' +
@@ -829,11 +872,12 @@
             '<h1>' + escapeHtml(title) + '</h1>' +
             (article.maddeNo ? '<span class="madde-badge">Madde ' + escapeHtml(String(article.maddeNo)) + '</span>' : '') +
             '</header>' +
+            pagerTop +
             '<section class="panel official"><p class="panel-label">Resmî metin</p><article class="prose">' +
             mdToHtml(officialMd, { official: true }) +
             '</article></section>' +
             commentaryHtml +
-            pager;
+            pagerBottom;
         } catch (e) {
           app.innerHTML =
             '<div class="err"><h1>İçerik yüklenemedi</h1><p>' +

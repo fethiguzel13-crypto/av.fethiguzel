@@ -404,11 +404,15 @@ export default function MaddeViewer({
                             )}
                         </section>
 
-                        <div className="flex flex-wrap gap-2 justify-between">
+                        <nav
+                            className="flex flex-wrap gap-2 justify-between items-center mt-8 pt-4 border-t border-black/8"
+                            aria-label="Madde gezinme (alt)"
+                        >
                             {adj.prev && pack ? (
                                 <Link
                                     href={`/mevzuat/${kanunId}/${adj.prev}`}
-                                    className="text-sm font-semibold px-4 py-2.5 rounded-full bg-white border border-black/10 hover:border-[#C45A38]/40 hover:text-[#C45A38] transition-colors"
+                                    className="text-sm font-semibold px-4 py-2.5 rounded-full bg-white border border-black/10 hover:border-[#C45A38]/40 hover:text-[#C45A38] transition-colors max-w-[48%] truncate"
+                                    title="Önceki madde"
                                 >
                                     ← {pack[adj.prev].title || adj.prev}
                                 </Link>
@@ -418,12 +422,13 @@ export default function MaddeViewer({
                             {adj.next && pack ? (
                                 <Link
                                     href={`/mevzuat/${kanunId}/${adj.next}`}
-                                    className="text-sm font-semibold px-4 py-2.5 rounded-full bg-white border border-black/10 hover:border-[#C45A38]/40 hover:text-[#C45A38] transition-colors"
+                                    className="text-sm font-semibold px-4 py-2.5 rounded-full bg-white border border-black/10 hover:border-[#C45A38]/40 hover:text-[#C45A38] transition-colors max-w-[48%] truncate"
+                                    title="Sonraki madde"
                                 >
                                     {pack[adj.next].title || adj.next} →
                                 </Link>
                             ) : null}
-                        </div>
+                        </nav>
                     </>
                 )}
             </main>
