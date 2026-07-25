@@ -36,8 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
-# generated at prebuild (content-packs/ may be committed for cold starts)
-public/content-packs/
+# Packs live in content-packs/ (git) and are copied to public/ at prebuild.
+# Also commit public/content-packs so Vercel always serves şerhler even if prebuild skips.
+# public/content-packs/  — DO NOT ignore (empty packs = invisible commentaries)
 build-out*.txt
 
 # typescript

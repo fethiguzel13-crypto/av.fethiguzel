@@ -153,12 +153,17 @@ function buildFromMarkdown() {
     }
 }
 
-// Prefer rebuild when source markdown is present; otherwise deploy committed packs.
-if (existsSync(contentDir)) {
-    buildFromMarkdown();
-} else {
-    console.warn('content/mevzuat missing (e.g. Vercel .vercelignore) — copying content-packs/ → public/');
+// On Vercel, content/ is often missing (.vercelignore). Always prefer committed packs there
+// so we never publish empty ~22-byte gzip stubs that hide all şerhler.
+if (process.env.VERCEL || process.env.CI || !existsSync(contentDir)) {
+    console.warn(
+        process.env.VERCEL || process.env.CI
+            ? 'CI/Vercel: copying content-packs/ → public/content-packs/ (skip markdown rebuild)'
+            : 'content/mevzuat missing — copying content-packs/ → public/'
+    );
     copyPacksToPublic();
+} else {
+    buildFromMarkdown();
 }
 
 // Final safety: at least one non-empty pack must exist in public/
