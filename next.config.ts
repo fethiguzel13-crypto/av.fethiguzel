@@ -31,9 +31,23 @@ const nextConfig: NextConfig = {
    * "Cannot find module '../dev/browser-logs/file-logger'".
    * Force-include so Node can resolve the require at runtime.
    */
+  // Belt-and-suspenders with scripts/patch-next-file-logger.mjs (postinstall).
+  // Keep include so NFT still ships the real module when present.
   outputFileTracingIncludes: {
-    "*": ["./node_modules/next/dist/server/dev/browser-logs/**/*"],
-    "/*": ["./node_modules/next/dist/server/dev/browser-logs/**/*"],
+    "*": [
+      "./node_modules/next/dist/server/dev/browser-logs/**/*",
+      "./node_modules/next/dist/server/node-environment-extensions/**/*",
+    ],
+    "/*": [
+      "./node_modules/next/dist/server/dev/browser-logs/**/*",
+      "./node_modules/next/dist/server/node-environment-extensions/**/*",
+    ],
+    "/mevzuat/*": [
+      "./node_modules/next/dist/server/dev/browser-logs/**/*",
+    ],
+    "/mevzuat/*/*": [
+      "./node_modules/next/dist/server/dev/browser-logs/**/*",
+    ],
   },
   async headers() {
     return [

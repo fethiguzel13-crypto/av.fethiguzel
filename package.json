@@ -4,8 +4,9 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "postinstall": "node scripts/patch-next-file-logger.mjs",
     "dev": "next dev",
-    "prebuild": "node scripts/prebuild-safe.mjs",
+    "prebuild": "node scripts/patch-next-file-logger.mjs && node scripts/prebuild-safe.mjs",
     "build": "next build",
     "build:packs": "node scripts/build-content-packs.mjs",
     "start": "next start",
