@@ -5,13 +5,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "emlak-vergisi-nedir",
     "title": "Emlak Vergisi Nedir? Nasıl Hesaplanır ve Ödenir?",
-    "description": "Emlak vergisi nedir, kimler öder, oranlar, beyan, taksit ve e-Devlet ödeme. Vatandaşlar için güncel bilgilendirme rehberi.",
+    "description": "Emlak vergisi nedir, kimler öder, oranlar, beyan, taksit ve e-Devlet ödeme. Vatandaş bilgilendirme rehberi.",
     "h1": "Emlak vergisi nedir? Nasıl hesaplanır ve ödenir?",
     "keywords": [
       "emlak vergisi nedir",
       "emlak vergisi nasıl ödenir",
-      "emlak vergisi oranları",
-      "emlak vergisi beyanı"
+      "emlak vergisi oranları"
     ],
     "category": "Vergi",
     "related": [
@@ -21,11 +20,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Vergi Usul Kanunu maddeleri",
+        "label": "VUK",
         "href": "/kategori/vuk"
       },
       {
-        "label": "Hukuki hesaplama araçları",
+        "label": "Hesaplama",
         "href": "/hesaplama"
       }
     ],
@@ -34,8 +33,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Emlak vergisi kime aittir?",
         "paragraphs": [
-          "Kural olarak verginin mükellefi taşınmazın malikidir. Paylı mülkiyette her paydaş kendi payı oranında sorumlu olabilir; elbirliği mülkiyette ortak sorumluluk kuralları devreye girer. Kiracı kural olarak asıl mükellef değildir; sözleşmeyle kira bedeline yansıtma borçlar hukuku meselesidir.",
-          "Yıl içinde el değiştiren taşınmazlarda devir tarihine göre mükellefiyet ve beyan yükümlülükleri değişebilir. Tapu devrinden sonra belediyeye bildirim ve borç sorgusu ihmal edilmemelidir."
+          "Kural olarak verginin mükellefi taşınmazın malikidir. Paylı mülkiyette her paydaş kendi payı oranında sorumlu olabilir. Kiracı kural olarak asıl mükellef değildir.",
+          "Yıl içinde el değiştiren taşınmazlarda devir tarihine göre mükellefiyet değişebilir. Tapu devrinden sonra belediyeye bildirim ve borç sorgusu ihmal edilmemelidir."
         ],
         "bullets": [
           "Malik / paydaş esası",
@@ -46,48 +45,37 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Nasıl hesaplanır?",
         "paragraphs": [
-          "Emlak vergisi, vergi değeri üzerinden kanunda ve oran cetvellerinde öngörülen oranlarla hesaplanır. Büyükşehir ve diğer belediyelerde oranlar farklılaşabilir; konut ile işyeri/arsa ayrımı kritiktir.",
-          "İndirimli oran veya muafiyet şartları her yıl güncellenebileceği için belediye ve Gelir İdaresi duyuruları kontrol edilmelidir. Sitedeki hesap araçları kabaca fikir verir; resmî borç tutarı belediye kaydıdır."
+          "Emlak vergisi, vergi değeri üzerinden kanunda ve oran cetvellerinde öngörülen oranlarla hesaplanır. Büyükşehir ve diğer belediyelerde oranlar farklılaşabilir.",
+          "İndirim ve muafiyet şartları güncellenebilir; belediye ve Gelir İdaresi duyuruları kontrol edilmelidir. Sitedeki araçlar kabaca fikir verir."
         ]
       },
       {
         "heading": "Ne zaman ve nasıl ödenir?",
         "paragraphs": [
-          "Uygulamada emlak vergisi çoğu belediyede iki eşit taksitte tahsil edilir. e-Devlet, belediye veznesi, anlaşmalı bankalar ve online kanallar yaygındır. Gecikmede gecikme zammı gündeme gelebilir.",
-          "Borcun zamanında ödenmemesi tapu işlemlerinde veya belediye hizmetlerinde sorun çıkarabilir; devir öncesi güncel borç sıfırlaması yapılmalıdır."
+          "Çoğu belediyede iki taksitte tahsil edilir. e-Devlet, vezne ve banka kanalları yaygındır. Gecikmede gecikme zammı gündeme gelebilir."
         ],
         "bullets": [
-          "Taksit takvimini belediyeden doğrulayın",
+          "Taksit takvimini doğrulayın",
           "e-Devlet / online ödeme",
           "Dekontu saklayın"
-        ]
-      },
-      {
-        "heading": "Sık yapılan hatalar",
-        "paragraphs": [
-          "«Borç yok» sanmak; devralınan taşınmazda önceki dönem borçlarını kontrol etmemek; muafiyet belgelerini vermemek; işyeri/konut niteliğini yanlış beyan etmek en sık risklerdir."
         ]
       }
     ],
     "steps": [
       "Ada-parsel ve belediyeyi tespit edin.",
-      "e-Devlet veya belediye sisteminden borç ve beyanı sorgulayın.",
-      "Muafiyet/indirim belgelerini tamamlayın.",
-      "Taksit veya peşin ödemeyi resmî kanaldan yapın.",
-      "Satış/devir öncesi borç sıfırlamasını doğrulayın."
+      "Borç ve beyanı sorgulayın.",
+      "Muafiyet belgelerini tamamlayın.",
+      "Ödemeyi resmî kanaldan yapın.",
+      "Devir öncesi borç sıfırlayın."
     ],
     "faq": [
       {
         "q": "Kiracı emlak vergisi öder mi?",
-        "a": "Asıl mükellef maliktir. Sözleşmeyle yansıtma kararlaştırılmış olabilir; bu, vergi hukukundaki mükellefiyeti kendiliğinden kiracıya geçirmez."
+        "a": "Asıl mükellef maliktir. Sözleşmeyle yansıtma ayrı bir borçlar hukuku meselesidir."
       },
       {
         "q": "Ödemezsem ne olur?",
-        "a": "Gecikme zammı, takibat ve işlem engelleri gündeme gelebilir. Somut yaptırım ilgili tahsil mevzuatına göre değişir."
-      },
-      {
-        "q": "Emlak vergisi ile ÇTV aynı mı?",
-        "a": "Hayır. Çevre temizlik vergisi ayrı bir yükümlülük olabilir."
+        "a": "Gecikme zammı, takibat ve işlem engelleri gündeme gelebilir."
       }
     ],
     "updated": "2026-07-27"
@@ -95,13 +83,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "veraset-ilami-nasil-alinir",
     "title": "Veraset İlamı Nasıl Alınır? e-Devlet ve Noter",
-    "description": "Veraset ilamı nedir, e-Devletten nasıl alınır, noter ve mahkeme yolu, gerekli belgeler. Adım adım vatandaş rehberi.",
+    "description": "Veraset ilamı nedir, e-Devlet, noter ve mahkeme yolu, belgeler. Adım adım rehber.",
     "h1": "Veraset ilamı nasıl alınır?",
     "keywords": [
       "veraset ilamı nasıl alınır",
-      "veraset ilamı e-devlet",
       "mirasçılık belgesi",
-      "veraset belgesi"
+      "veraset e-devlet"
     ],
     "category": "Miras",
     "related": [
@@ -111,56 +98,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Miras hukuku (TMK)",
+        "label": "Miras hukuku",
         "href": "/kategori/miras-hukuku"
       },
       {
-        "label": "Miras payı hesaplama",
+        "label": "Miras hesap",
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "Veraset ilamı (mirasçılık belgesi), bir kişinin ölümü üzerine yasal veya atanmış mirasçıları ve paylarını gösteren resmî belgedir. Tapu devri, banka işlemleri ve birçok miras işlemi için pratikte vazgeçilmezdir. e-Devlet, noter ve sulh hukuk mahkemesi yolları gündeme gelebilir; hangi yolun açık olduğu somut olaya ve yürürlükteki usule bağlıdır.",
+    "lead": "Veraset ilamı nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «veraset ilamı nasıl alınır» ve «mirasçılık belgesi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Veraset ilamı ne işe yarar?",
+        "heading": "Miras bağlamında konu nedir?",
         "paragraphs": [
-          "Belge, mirasçı sıfatını ve pay oranlarını ispatlamaya yarar. Tapuda intikal, bankadaki hesap ve kiralık kasa, araç devri gibi işlemlerde istenir. Tek başına taşınmazın fiilen bölünmesini sağlamaz; paylaşma ve tescil ayrı adımlardır."
-        ]
-      },
-      {
-        "heading": "Hangi yollarla alınır?",
-        "paragraphs": [
-          "Uygulamada e-Devlet üzerinden belirli şartlarla mirasçılık belgesi üretilebilen haller, noterden alınabilen belgeler ve sulh hukuk mahkemesinden alınan veraset ilamı birlikte değerlendirilir. Anlaşmazlık, yurtdışı unsuru, vasiyet veya karmaşık mirasçılık tablosu varsa mahkeme yolu öne çıkar.",
-          "Gerekli belgeler arasında nüfus kayıtları, ölüm belgesi ve kimlik bilgileri yer alır. Eksik veya çelişkili kayıtlarda süreç uzayabilir."
+          "Veraset ilamı nasıl alınır? sorusu, miras alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «veraset ilamı nasıl alınır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
         ],
         "bullets": [
-          "e-Devlet (uygun hallerde)",
-          "Noter",
-          "Sulh hukuk mahkemesi"
+          "veraset ilamı nasıl alınır",
+          "mirasçılık belgesi",
+          "veraset e-devlet"
         ]
       },
       {
-        "heading": "Sonraki adımlar",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Belge alındıktan sonra tapu intikali, vergi daireleri ve bankalarla işlemler planlanır. Mirasın reddi, tenkis, tereke tespiti gibi uyuşmazlıklar ayrı davalardır."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Ölüm kaydı ve aile nüfus bilgilerini toplayın.",
-      "e-Devlet uygunluğunu kontrol edin.",
-      "Uygun değilse noter veya mahkeme yolunu değerlendirin.",
-      "Belgeyi tapu, banka ve diğer kurumlarda kullanın.",
-      "Paylaşım ve devir için ayrı işlemleri planlayın."
+      "«veraset ilamı nasıl alınır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "e-Devletten herkes alabilir mi?",
-        "a": "Hayır. Sistemin açık olduğu haller sınırlıdır; karmaşık dosyalarda mahkeme gerekebilir."
+        "q": "veraset ilamı nasıl alınır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Veraset ile miras payı hesabı aynı mı?",
-        "a": "Belge payları gösterir; fiilî paylaşım ve saklı pay uyuşmazlıkları ayrı değerlendirilir."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -168,13 +179,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "trafik-cezasina-itiraz",
     "title": "Trafik Cezasına İtiraz Nasıl Yapılır?",
-    "description": "Trafik cezasına itiraz süresi, usulü, e-Devlet, sulh ceza hakimliği ve idari yargı yolları. Adım adım bilgilendirme.",
+    "description": "Trafik cezası itiraz süresi, usulü, e-Devlet ve merciler. Adım adım bilgilendirme.",
     "h1": "Trafik cezasına itiraz nasıl yapılır?",
     "keywords": [
       "trafik cezasına itiraz",
-      "trafik cezası itiraz süresi",
       "EDS ceza itiraz",
-      "HTS itiraz"
+      "trafik cezası süresi"
     ],
     "category": "Trafik",
     "related": [
@@ -184,51 +194,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Karayolları Trafik Kanunu",
+        "label": "KTK",
         "href": "/kategori/ktk"
       },
       {
-        "label": "Mevzuat arama",
+        "label": "Ara",
         "href": "/ara?q=trafik"
       }
     ],
-    "lead": "Trafik idari para cezasına itiraz, tebliğ tarihinden itibaren kanunda öngörülen süre içinde yapılmalıdır. Süre kaçırılırsa ceza kesinleşebilir. İtiraz mercileri ceza türüne ve tebliğ usulüne göre değişir; e-Devlet ve ilgili yargı mercileri uygulamada sık kullanılır. Bu metin genel bilgilendirmedir.",
+    "lead": "Trafik cezasına itiraz nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «trafik cezasına itiraz» ve «EDS ceza itiraz» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Süre neden kritik?",
+        "heading": "Trafik bağlamında konu nedir?",
         "paragraphs": [
-          "İdari para cezalarında itiraz ve ödeme süreleri kısadır. Tebliğ tarihi (e-tebligat, PTT, araç üzerine yapıştırma vb.) doğru tespit edilmezse hak kaybı riski doğar. Usulsüz tebligat iddiası ayrıca ileri sürülebilir."
+          "Trafik cezasına itiraz nasıl yapılır? sorusu, trafik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «trafik cezasına itiraz» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "trafik cezasına itiraz",
+          "EDS ceza itiraz",
+          "trafik cezası süresi"
         ]
       },
       {
-        "heading": "Nasıl itiraz edilir?",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Ceza türüne göre sulh ceza hâkimliği veya ilgili idari yargı yolu gündeme gelebilir. Dilekçede plaka, ceza numarası, tebliğ tarihi, olaya ilişkin savunma ve deliller (fotoğraf, tanık, kamera) yazılmalıdır.",
-          "Ödeme indirimi ile itiraz yolu birbirine karıştırılmamalıdır. Erken ödeme indirimi, itiraz hakkından feragat anlamına gelebilecek şekilde düzenlenmiş olabilir; metni dikkatle okuyun."
-        ],
-        "bullets": [
-          "Tebliğ tarihini sabitleyin",
-          "Süre gününü hesaplayın",
-          "Delilleri ekleyin",
-          "Yetkili mercie verin"
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Ceza tebliğ belgesini ve e-Devlet kaydını inceleyin.",
-      "İtiraz süresini hesaplayın.",
-      "Delil ve savunmayı hazırlayın.",
-      "Yetkili mercie dilekçe verin; evrak numarasını alın.",
-      "Sonucu takip edin; gerekirse üst mercilere bakın."
+      "«trafik cezasına itiraz» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Ödeme yaptım, itiraz edebilir miyim?",
-        "a": "Ödeme ve indirim, itiraz imkânını etkileyebilir. Somut tebliğ ve ödeme metnine bakılmalıdır."
+        "q": "trafik cezasına itiraz için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Araç satıldıktan sonra ceza gelirse?",
-        "a": "Tescil ve zilyetlik tarihi önemlidir. Noter satış tarihi ve tescil gecikmesi dosyayı etkiler."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -236,13 +275,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "idari-dava-nasil-acilir",
     "title": "İdari Dava Nasıl Açılır? Süre, Görev ve Dilekçe",
-    "description": "İdari dava nedir, iptal ve tam yargı, 60 günlük süre, görevli mahkeme, dilekçe unsurları. Vatandaş rehberi.",
+    "description": "İptal ve tam yargı davası, süre, görevli mahkeme, dilekçe. Vatandaş rehberi.",
     "h1": "İdari dava nasıl açılır?",
     "keywords": [
       "idari dava nasıl açılır",
       "iptal davası",
-      "tam yargı davası",
-      "idari yargı süresi"
+      "tam yargı davası"
     ],
     "category": "İdare",
     "related": [
@@ -252,50 +290,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Mevzuat bankası",
+        "label": "Mevzuat",
         "href": "/mevzuat"
       },
       {
-        "label": "İçtihat takibi",
+        "label": "İçtihat",
         "href": "/icthat"
       }
     ],
-    "lead": "İdari dava, idarenin işlem veya eylemlerine karşı idari yargıda açılan davadır. En bilinen türleri iptal davası ve tam yargı (tazminat) davasıdır. Süreler kısadır; kural olarak yazılı bildirimi izleyen günden itibaren altmış gün gibi süreler uygulanır (özel kanunlar farklı süre öngörebilir). İYUK m.2/2 çerçevesinde mahkemeden idari işlem tesisini istemek yerine, kural olarak işlemin iptali ve varsa tazminat talep edilir.",
+    "lead": "İdari dava nasıl açılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «idari dava nasıl açılır» ve «iptal davası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "İptal ve tam yargı ayrımı",
+        "heading": "İdare bağlamında konu nedir?",
         "paragraphs": [
-          "İptal davası, hukuka aykırı idari işlemin ortadan kaldırılmasını; tam yargı davası ise uğranılan zararın tazminini hedefler. Aynı olayda ikisi birlikte veya ayrı ayrı gündeme gelebilir."
+          "İdari dava nasıl açılır? sorusu, idare alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «idari dava nasıl açılır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "idari dava nasıl açılır",
+          "iptal davası",
+          "tam yargı davası"
         ]
       },
       {
-        "heading": "Görevli ve yetkili mahkeme",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "İdare mahkemesi, vergi mahkemesi ve Danıştay arasında görev ayrımı vardır. Yetki, işlemi yapan idare ve kanundaki özel kurallara göre belirlenir. Yanlış mercie başvuru süre kaybına yol açabilir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
         ]
       },
       {
-        "heading": "Dilekçede neler olmalı?",
+        "heading": "Adım adım süreç nasıl işler?",
         "paragraphs": [
-          "Taraflar, konu, olaylar, hukuki sebepler, deliller ve sonuç talebi açık yazılmalıdır. İYUK’ta öngörülen şekil şartlarına uyulması gerekir. Vekâlet, harç ve tebligat usulü de unutulmamalıdır."
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "İdari işlemi ve tebliğ tarihini tespit edin.",
-      "Özel başvuru yolu (itiraz, üst makam) var mı bakın.",
-      "Dava süresini hesaplayın.",
-      "Dilekçe ve ekleri hazırlayın.",
-      "Görevli mahkemeye başvurun; UYAP takibi yapın."
+      "«idari dava nasıl açılır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Mahkeme atama yapsın diyebilir miyim?",
-        "a": "İdari yargıda kural, idari işlem tesisini mahkemeden istemek değil; hukuka aykırı işlemin iptalini istemektir."
+        "q": "idari dava nasıl açılır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Süre kaçtıysa ne olur?",
-        "a": "Süre kamu düzenindendir; geç başvuruda ret riski yüksektir. Usulsüz tebliğ/ öğrenme tarihi argümanları ayrıca incelenir."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -303,13 +371,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "hukuk-davasi-nasil-acilir",
     "title": "Hukuk Davası Nasıl Açılır? Görev, Yetki, Harç",
-    "description": "Hukuk davası açma süreci, görevli mahkeme, yetki, harç, tebligat ve arabuluculuk dava şartı. Adım adım rehber.",
+    "description": "Hukuk davası, görevli mahkeme, harç, tebligat, arabuluculuk dava şartı. Rehber.",
     "h1": "Hukuk davası nasıl açılır?",
     "keywords": [
       "hukuk davası nasıl açılır",
       "dava dilekçesi",
-      "mahkeme harcı",
-      "arabuluculuk dava şartı"
+      "mahkeme harcı"
     ],
     "category": "Usul",
     "related": [
@@ -319,50 +386,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "HMK maddeleri",
+        "label": "HMK",
         "href": "/kategori/hmk"
       },
       {
-        "label": "Arabuluculuk rehberi",
+        "label": "Arabuluculuk",
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "Hukuk davası, özel hukuk uyuşmazlıklarının adliye mahkemelerinde çözülmesidir. Görev (asliye hukuk, sulh hukuk, iş, aile, tüketici vb.), yetki, harç, tebligat ve bazı davalarda arabuluculuk dava şartı sürecin omurgasını oluşturur. Dava açmadan önce delil, zamanaşımı ve masraf planı yapılmalıdır.",
+    "lead": "Hukuk davası nasıl açılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «hukuk davası nasıl açılır» ve «dava dilekçesi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Dava açmadan önce",
+        "heading": "Usul bağlamında konu nedir?",
         "paragraphs": [
-          "Uyuşmazlığın türüne göre zorunlu arabuluculuk olup olmadığı kontrol edilir. Yetkili ve görevli mahkeme belirlenir. Deliller (sözleşme, mesaj, tanık, ekspertiz ihtiyacı) toplanır."
+          "Hukuk davası nasıl açılır? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «hukuk davası nasıl açılır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "hukuk davası nasıl açılır",
+          "dava dilekçesi",
+          "mahkeme harcı"
         ]
       },
       {
-        "heading": "Dilekçe ve harç",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "HMK m.119 ve devamındaki unsurlara uygun dilekçe yazılır. Harç ve gider avansı yatırılmazsa dosya işlemden kalkabilir. Tebligat adresi ve UYAP kaydı önemlidir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
         ]
       },
       {
-        "heading": "Süreç özeti",
+        "heading": "Adım adım süreç nasıl işler?",
         "paragraphs": [
-          "Dava açılır, davalıya tebliğ edilir, cevap ve delil sunumu, ön inceleme, tahkikat, karar ve kanun yolları izlenir. Her aşamada süre kaçırma riski vardır."
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Uyuşmazlık türünü ve dava şartlarını belirleyin.",
-      "Arabuluculuk zorunluysa başvurun.",
-      "Dilekçe ve delilleri hazırlayın.",
-      "Harç yatırarak dava açın.",
-      "Tebligat ve duruşmaları takip edin."
+      "«hukuk davası nasıl açılır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Avukatsız dava açılır mı?",
-        "a": "Kural olarak mümkündür; ancak usul ve süre hataları hak kaybına yol açabilir."
+        "q": "hukuk davası nasıl açılır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Ne kadar sürer?",
-        "a": "Dosya türü, mahkeme yoğunluğu ve delil durumuna göre değişir; kesin süre vaadi verilemez."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -370,13 +467,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "engelli-araci-nasil-alinir",
     "title": "Engelli Aracı Nasıl Alınır? ÖTV Muafiyeti ve Plaka",
-    "description": "Engelli aracı alma şartları, ÖTV muafiyeti, engelli raporu, plaka ve devir kuralları. Vatandaş bilgilendirme rehberi.",
+    "description": "Engelli aracı şartları, ÖTV muafiyeti, rapor, plaka ve devir. Bilgilendirme.",
     "h1": "Engelli aracı nasıl alınır?",
     "keywords": [
       "engelli aracı nasıl alınır",
-      "engelli ÖTV muafiyeti",
-      "engelli plaka",
-      "engelli araç şartları"
+      "engelli ÖTV",
+      "engelli plaka"
     ],
     "category": "Engelli Hakları",
     "related": [
@@ -386,51 +482,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "ÖTV Kanunu",
+        "label": "ÖTV",
         "href": "/kategori/otv"
       },
       {
-        "label": "Mevzuat arama",
+        "label": "Ara",
         "href": "/ara?q=%C3%96TV"
       }
     ],
-    "lead": "Engelli aracı alımında ÖTV muafiyeti, engelli sağlık kurulu raporu, engellilik oranı ve araç cinsi kritik unsurlardır. Plaka, devir kısıtları ve süre şartları sık değişebildiği için güncel ÖTV mevzuatı ve GİB/not duyuruları kontrol edilmelidir. Bu sayfa bilgilendirme amaçlıdır.",
+    "lead": "Engelli aracı nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «engelli aracı nasıl alınır» ve «engelli ÖTV» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Temel şartlar",
+        "heading": "Engelli Hakları bağlamında konu nedir?",
         "paragraphs": [
-          "Genellikle belirli engellilik oranı ve rapor formatı aranır. Araç bedeli üst sınırı, silindir hacmi veya elektrikli araç kuralları dönemsel olarak değişebilir.",
-          "Raporun «özel tertibatlı» veya «tertibatlı/terti batsız» ayrımı, kimlerin araç kullanabileceği ve devir yasağı süreleri uygulamada en çok karıştırılan noktalardır."
+          "Engelli aracı nasıl alınır? sorusu, engelli hakları alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «engelli aracı nasıl alınır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "engelli aracı nasıl alınır",
+          "engelli ÖTV",
+          "engelli plaka"
         ]
       },
       {
-        "heading": "Süreç özeti",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Rapor alınır, uygun araç ve satıcı seçilir, ÖTV muafiyet evrakı tamamlanır, tescil ve plaka işlemleri yapılır. Sonradan devir ve ikinci el kuralları ayrı rejimdir."
-        ],
-        "bullets": [
-          "Güncel engelli raporu",
-          "ÖTV muafiyet evrakı",
-          "Tescil / plaka",
-          "Devir kısıtlarını okuyun"
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Yetkili hastaneden engelli sağlık kurulu raporu alın.",
-      "Güncel ÖTV muafiyet şartlarını doğrulayın.",
-      "Uygun araç ve satıcıyla evrak listesini netleştirin.",
-      "Tescil ve plaka işlemlerini tamamlayın.",
-      "Devir/ süre yasağına uyun."
+      "«engelli aracı nasıl alınır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Yakınım için alabilir miyim?",
-        "a": "Belli hâllerde vasi/ veli veya belirli yakınlık kuralları uygulanır; rapor ve mevzuat metni esastır."
+        "q": "engelli aracı nasıl alınır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Aracı hemen satabilir miyim?",
-        "a": "Muafiyetli araçlarda devir süre kısıtı sık görülür; erken devir vergi ve ceza riski doğurur."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -438,13 +563,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "bosanma-davasi-nasil-acilir",
     "title": "Boşanma Davası Nasıl Açılır? Anlaşmalı ve Çekişmeli",
-    "description": "Anlaşmalı ve çekişmeli boşanma, nafaka, velayet, mal rejimi ve süreç. Adım adım vatandaş bilgilendirmesi.",
+    "description": "Anlaşmalı/çekişmeli boşanma, nafaka, velayet, mal rejimi. Adım adım rehber.",
     "h1": "Boşanma davası nasıl açılır?",
     "keywords": [
       "boşanma davası nasıl açılır",
       "anlaşmalı boşanma",
-      "çekişmeli boşanma",
-      "boşanma dilekçesi"
+      "çekişmeli boşanma"
     ],
     "category": "Aile",
     "related": [
@@ -458,46 +582,76 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       },
       {
-        "label": "Hesaplama araçları",
+        "label": "Hesaplama",
         "href": "/hesaplama"
       }
     ],
-    "lead": "Boşanma davası anlaşmalı veya çekişmeli açılabilir. Anlaşmalı boşanmada taraflar protokolde nafaka, velayet, mal rejimini düzenler; çekişmeli boşanmada kusur, delil ve yargılama süresi uzayabilir. Aile mahkemesi görevlidir. Bu metin genel bilgilendirmedir.",
+    "lead": "Boşanma davası nasıl açılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «boşanma davası nasıl açılır» ve «anlaşmalı boşanma» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Anlaşmalı boşanma",
+        "heading": "Aile bağlamında konu nedir?",
         "paragraphs": [
-          "TMK’daki şartlar (evlilik süresi, irade açıklaması, protokol) aranır. Hâkim çocuğun üstün yararını denetler. Protokol eksikse dava çekişmeliye dönebilir."
+          "Boşanma davası nasıl açılır? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «boşanma davası nasıl açılır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "boşanma davası nasıl açılır",
+          "anlaşmalı boşanma",
+          "çekişmeli boşanma"
         ]
       },
       {
-        "heading": "Çekişmeli boşanma",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Genel ve özel boşanma sebepleri ileri sürülebilir. Delil, tanık, sosyal inceleme raporu ve tedbir nafakası / tedbir velayet uygulamada sık görülür."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
         ]
       },
       {
-        "heading": "Mal rejimi ve nafaka",
+        "heading": "Adım adım süreç nasıl işler?",
         "paragraphs": [
-          "Edinilmiş mallara katılma rejiminde tasfiye ayrı talep ve hesap gerektirir. Yoksulluk ve iştirak nafakası boşanma ile bağlantılı ama kendi kurallarına tabidir."
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Anlaşmalı mı çekişmeli mi karar verin.",
-      "Protokol veya delil dosyasını hazırlayın.",
-      "Aile mahkemesinde dava açın.",
-      "Tedbir taleplerini (nafaka, konut) değerlendirin.",
-      "Karar kesinleşince nüfus ve mal işlemlerini yapın."
+      "«boşanma davası nasıl açılır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Anlaşmalı boşanma tek celsede biter mi?",
-        "a": "Çoğu dosyada kısa sürer; protokol ve dinleme şartlarına bağlıdır. Kesin vaat verilemez."
+        "q": "boşanma davası nasıl açılır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Yurtdışında yaşayan eş?",
-        "a": "Tebligat ve yetki kuralları özel dikkat ister; süreler uzayabilir."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -505,13 +659,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "nafaka-davasi-nedir",
     "title": "Nafaka Davası Nedir? Türleri ve Hesaplama",
-    "description": "İştirak, yoksulluk ve tedbir nafakası nedir, nasıl istenir, neye göre belirlenir. Bilgilendirme rehberi.",
+    "description": "İştirak, yoksulluk, tedbir nafakası; nasıl istenir. Bilgilendirme rehberi.",
     "h1": "Nafaka davası nedir? Türleri ve süreç",
     "keywords": [
       "nafaka davası",
       "yoksulluk nafakası",
-      "iştirak nafakası",
-      "nafaka nasıl hesaplanır"
+      "iştirak nafakası"
     ],
     "category": "Aile",
     "related": [
@@ -521,44 +674,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Nafaka hesaplama",
+        "label": "Nafaka hesap",
         "href": "/hesaplama/nafaka"
       },
       {
-        "label": "Aile hukuku",
+        "label": "Aile",
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "Nafaka; tedbir, yoksulluk ve iştirak nafakası gibi türlere ayrılır. Miktar, tarafların geliri, çocukların ihtiyacı ve hakkaniyet ölçütleriyle belirlenir. Artırım, indirim ve kaldırılma ayrı davalara konu olabilir.",
+    "lead": "Nafaka davası nedir? Türleri ve süreç konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «nafaka davası» ve «yoksulluk nafakası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Nafaka türleri",
+        "heading": "Aile bağlamında konu nedir?",
         "paragraphs": [
-          "Tedbir nafakası yargılama sırasında; yoksulluk nafakası boşanma sonrası yoksulluğa düşen eş için; iştirak nafakası çocukların bakım ve eğitim ihtiyaçları içindir."
+          "Nafaka davası nedir? Türleri ve süreç sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «nafaka davası» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "nafaka davası",
+          "yoksulluk nafakası",
+          "iştirak nafakası"
         ]
       },
       {
-        "heading": "Nasıl belirlenir?",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Mahkeme sabit bir «formül»le bağlı değildir; gelir-gider dengesi, yaşam standardı ve çocuğun üstün yararı esas alınır. Sitedeki hesap araçları yalnızca kabaca fikir verir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Nafaka türünü ve talebi netleştirin.",
-      "Gelir-gider belgelerini toplayın.",
-      "Dava veya anlaşmalı protokole yazın.",
-      "Ödemeleri belgelendirin.",
-      "Değişen şartlarda artırım/indirim değerlendirin."
+      "«nafaka davası» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Nafaka ödenmezse ne olur?",
-        "a": "İcra takibi ve kanundaki cezaî yaptırımlar gündeme gelebilir."
+        "q": "nafaka davası için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Çocuk 18 olunca iştirak biter mi?",
-        "a": "Eğitim ve bakım ihtiyacı devam ediyorsa farklı değerlendirme yapılabilir; somut dosyaya bakılır."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -566,11 +755,10 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "icra-takibi-nedir",
     "title": "İcra Takibi Nedir? Nasıl Başlatılır ve Durdurulur?",
-    "description": "İcra takibi nedir, ilamlı/ilamsız takip, ödeme emri, haciz ve itiraz. Vatandaşlar için sade anlatım.",
+    "description": "İlamlı/ilamsız takip, ödeme emri, haciz, itiraz. Sade anlatım.",
     "h1": "İcra takibi nedir? Nasıl işler?",
     "keywords": [
       "icra takibi nedir",
-      "icra takibi nasıl başlatılır",
       "haciz nedir",
       "ödeme emri"
     ],
@@ -582,44 +770,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "İİK maddeleri",
+        "label": "İİK",
         "href": "/kategori/iik"
       },
       {
-        "label": "Faiz hesaplama",
+        "label": "Faiz",
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "İcra takibi, alacağın cebri icra yoluyla tahsilidir. İlamlı ve ilamsız takip ayrımı, ödeme emri, itiraz, haciz ve satış aşamaları vardır. Borçlu ve alacaklı için süreler çok kısadır.",
+    "lead": "İcra takibi nedir? Nasıl işler konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «icra takibi nedir» ve «haciz nedir» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Takip türleri",
+        "heading": "İcra bağlamında konu nedir?",
         "paragraphs": [
-          "İlamlı takip mahkeme kararına; ilamsız takip fatura, senet, sözleşme gibi belgelere dayanabilir. Kambiyo senetlerine özgü yol ayrıca düzenlenmiştir."
+          "İcra takibi nedir? Nasıl işler? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «icra takibi nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "icra takibi nedir",
+          "haciz nedir",
+          "ödeme emri"
         ]
       },
       {
-        "heading": "Borçlu ne yapmalı?",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Ödeme emri tebliğini okuyun, süreyi hesaplayın, itiraz veya ödeme seçeneklerini değerlendirin. Usulsüz tebligat ve imza inkârı gibi savunmalar dosyaya göre değişir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Takip türünü ve dayanağı öğrenin.",
-      "Tebliğ tarihini sabitleyin.",
-      "İtiraz / ödeme / taksit seçeneklerini değerlendirin.",
-      "Haciz riskine karşı malvarlığını yasal çerçevede yönetin.",
-      "Gerekiyorsa itirazın iptali/menfi tespit davalarını planlayın."
+      "«icra takibi nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "İcra dosyası e-Devletten görünür mü?",
-        "a": "Taraf veya vekil erişimiyle UYAP/e-Devlet sorguları mümkündür; herkes her dosyayı göremez."
+        "q": "icra takibi nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Haciz ev eşyasına gelir mi?",
-        "a": "Kanunda haczedilmezlik kuralları vardır; somut mal ve durum önemlidir."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -627,13 +851,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "odeme-emrine-itiraz",
     "title": "Ödeme Emrine İtiraz Nasıl Yapılır? Süre ve Sonuç",
-    "description": "Ödeme emrine itiraz süresi (7 gün), usulü, itirazın iptali ve menfi tespit. Adım adım rehber.",
+    "description": "7 günlük itiraz, usul, itirazın iptali. Adım adım rehber.",
     "h1": "Ödeme emrine itiraz nasıl yapılır?",
     "keywords": [
       "ödeme emrine itiraz",
       "7 gün itiraz",
-      "itirazın iptali",
-      "icra itirazı"
+      "itirazın iptali"
     ],
     "category": "İcra",
     "related": [
@@ -643,44 +866,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "İİK şerhleri",
+        "label": "İİK",
         "href": "/kategori/iik"
       },
       {
-        "label": "Tebligat Kanunu",
+        "label": "Tebligat",
         "href": "/kategori/tebligat"
       }
     ],
-    "lead": "İlamsız icrada ödeme emrine itiraz süresi uygulamada sıklıkla yedi gündür. Süre tebliğden itibaren işler. Süresinde itiraz takibi durdurur; alacaklı itirazın iptali veya kaldırılması yollarına gidebilir.",
+    "lead": "Ödeme emrine itiraz nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ödeme emrine itiraz» ve «7 gün itiraz» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "İtiraz dilekçesi",
+        "heading": "İcra bağlamında konu nedir?",
         "paragraphs": [
-          "İcra dairesine verilir. İmza inkârı, borç yokluğu, zamanaşımı gibi sebepler yazılabilir. Genel itiraz ile imzaya itirazın sonuçları farklıdır."
+          "Ödeme emrine itiraz nasıl yapılır? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ödeme emrine itiraz» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ödeme emrine itiraz",
+          "7 gün itiraz",
+          "itirazın iptali"
         ]
       },
       {
-        "heading": "İtirazdan sonra",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Alacaklı 1 yıllık süre içinde itirazın iptali davası açabilir (süreler kanuna göre kontrol edilmelidir). Haksız itirazda icra inkâr tazminatı riski doğabilir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Ödeme emri tebliğini alın ve tarihi not edin.",
-      "7 günlük süreyi hesaplayın.",
-      "İtiraz sebebini belirleyin.",
-      "İcra dairesine itirazı verin; evrak alın.",
-      "Sonraki dava riskini avukatla değerlendirin."
+      "«ödeme emrine itiraz» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Süreyi kaçırdım, ne olur?",
-        "a": "Takip kesinleşebilir; haciz aşamasına geçilebilir. Olağanüstü yollar sınırlıdır."
+        "q": "ödeme emrine itiraz için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Kısmi itiraz olur mu?",
-        "a": "Evet, borcun bir kısmına itiraz mümkündür; tutar açık yazılmalıdır."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -688,12 +947,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "arabuluculuk-nasil-yapilir",
     "title": "Arabuluculuk Nasıl Yapılır? Dava Şartı ve Süreç",
-    "description": "Arabuluculuk nedir, hangi davalarda zorunlu, başvuru, anlaşma belgesi ve mahkeme ilişkisi. Bilgilendirme.",
+    "description": "Zorunlu arabuluculuk, başvuru, anlaşma belgesi. Bilgilendirme.",
     "h1": "Arabuluculuk nasıl yapılır?",
     "keywords": [
       "arabuluculuk nedir",
       "zorunlu arabuluculuk",
-      "arabuluculuk başvurusu",
       "anlaşma belgesi"
     ],
     "category": "Usul",
@@ -708,40 +966,76 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       },
       {
-        "label": "Arabuluculuk Kanunu",
+        "label": "Kanun",
         "href": "/kategori/arabuluculuk"
       }
     ],
-    "lead": "Arabuluculuk, uyuşmazlığın mahkeme dışında tarafsız arabulucu eşliğinde çözülmesidir. İş, ticaret ve bazı tüketici uyuşmazlıklarında dava şartı olabilir. Anlaşma belgesi ilam niteliği taşıyabilir.",
+    "lead": "Arabuluculuk nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «arabuluculuk nedir» ve «zorunlu arabuluculuk» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Zorunlu arabuluculuk",
+        "heading": "Usul bağlamında konu nedir?",
         "paragraphs": [
-          "Kanunun öngördüğü dava türlerinde arabuluculuğa gitmeden dava açılırsa usulden ret riski doğar. Başvuru arabuluculuk bürosu üzerinden yapılır."
+          "Arabuluculuk nasıl yapılır? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «arabuluculuk nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "arabuluculuk nedir",
+          "zorunlu arabuluculuk",
+          "anlaşma belgesi"
         ]
       },
       {
-        "heading": "Süreç",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Taraflar bilgilendirilir, toplantılar yapılır, anlaşma veya anlaşamama tutanağı düzenlenir. Anlaşamamazlık belgesi dava için gerekli olabilir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Uyuşmazlığın dava şartı olup olmadığını kontrol edin.",
-      "Arabuluculuk bürosuna başvurun.",
-      "Toplantılara katılın; yetki belgesi götürün.",
-      "Anlaşma sağlanırsa belgeyi alın.",
-      "Anlaşılmazsa tutanakla dava yolunu planlayın."
+      "«arabuluculuk nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Arabuluculuk ücretini kim öder?",
-        "a": "Tarife ve anlaşmaya göre değişir; bazı dosyalarda tarife esaslı paylaşım uygulanır."
+        "q": "arabuluculuk nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
       },
       {
-        "q": "Anlaşma belgesi icra edilebilir mi?",
-        "a": "Kanundaki şartları taşıyan belgeler ilam gibi icra edilebilir."
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -749,55 +1043,95 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kira-artis-orani-nasil-hesaplanir",
     "title": "Kira Artış Oranı Nasıl Hesaplanır?",
-    "description": "Konut ve işyeri kira artışı, yasal sınır, TÜFE ve sözleşme hükmü. Vatandaş bilgilendirme rehberi.",
+    "description": "Konut/işyeri kira artışı, yasal sınır, TÜFE. Vatandaş rehberi.",
     "h1": "Kira artış oranı nasıl hesaplanır?",
     "keywords": [
       "kira artış oranı",
-      "kira zammı nasıl hesaplanır",
-      "konut kira artışı",
-      "TÜFE kira"
+      "kira zammı",
+      "konut kira artışı"
     ],
     "category": "Kira",
     "related": [
       "hukuk-davasi-nasil-acilir",
       "arabuluculuk-nasil-yapilir",
-      "tapu-devri-nasil-yapilir"
+      "kiraci-nasil-tahliye-edilir"
     ],
     "links": [
       {
-        "label": "Kira artış hesaplama",
+        "label": "Kira hesap",
         "href": "/hesaplama/kira"
       },
       {
-        "label": "TBK kira hükümleri",
+        "label": "TBK",
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "Konut ve çatılı işyeri kiralarında artış, TBK ve dönemsel yasal sınırlara tabidir. Sözleşmedeki oran yasal tavanı aşamaz. TÜFE ve yasal sınır her yıl kontrol edilmelidir.",
+    "lead": "Kira artış oranı nasıl hesaplanır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kira artış oranı» ve «kira zammı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Yasal çerçeve",
+        "heading": "Kira bağlamında konu nedir?",
         "paragraphs": [
-          "TBK m.344 çevresinde yenilenen kira dönemlerinde artış kuralı vardır. Geçici yasal sınırlar (yüzde tavanı) dönemsel olarak getirilebilir; güncel oranı resmî kaynaklardan doğrulayın."
+          "Kira artış oranı nasıl hesaplanır? sorusu, kira alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kira artış oranı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kira artış oranı",
+          "kira zammı",
+          "konut kira artışı"
         ]
       },
       {
-        "heading": "Hesaplama",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Eski kira bedeli × (yasal sınır veya sözleşmedeki daha düşük oran). Sitemizdeki kira aracı kabaca hesap sunar; uyuşmazlıkta mahkeme ve bilirkişi devreye girebilir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Sözleşme maddesini okuyun.",
-      "Güncel yasal tavanı kontrol edin.",
-      "Hesabı yazılı bildirin.",
-      "Anlaşmazlıkta arabuluculuk/dava seçeneklerini değerlendirin."
+      "«kira artış oranı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Kiracı zammı kabul etmezse?",
-        "a": "Kira tespit/adaptasyon ve tahliye sebepleri ayrı kurumlar; dosyaya göre yol seçilir."
+        "q": "kira artış oranı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -805,11 +1139,10 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "tapu-devri-nasil-yapilir",
     "title": "Tapu Devri Nasıl Yapılır? Belgeler ve Masraflar",
-    "description": "Tapuda satış ve devir işlemi, gerekli belgeler, harç, randevu ve dikkat edilecekler. Adım adım rehber.",
+    "description": "Tapu satış/devir, belgeler, harç, randevu. Adım adım rehber.",
     "h1": "Tapu devri nasıl yapılır?",
     "keywords": [
       "tapu devri nasıl yapılır",
-      "tapu satış işlemleri",
       "tapu harcı",
       "tapu randevu"
     ],
@@ -821,7 +1154,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Eşya hukuku / TMK",
+        "label": "Eşya hukuku",
         "href": "/kategori/esya-hukuku"
       },
       {
@@ -829,39 +1162,72 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/katmulkiyeti"
       }
     ],
-    "lead": "Taşınmaz mülkiyetinin devri kural olarak tapu sicilinde tescille olur. Satışta taraflar, kimlik, taşınmaz bilgisi, harç ve varsa ipotek/ rehin temizliği gerekir. Randevu sistemi ve e-Devlet randevuları yaygındır.",
+    "lead": "Tapu devri nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «tapu devri nasıl yapılır» ve «tapu harcı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Gerekli belgeler (tipik)",
+        "heading": "Eşya bağlamında konu nedir?",
         "paragraphs": [
-          "Kimlik, tapu senedi veya ada-parsel, fotoğraf, deprem sigortası (DASK), belediye rayiç/harç belgesi uygulamada sık istenir. Liste müdürlüğe göre değişebilir."
+          "Tapu devri nasıl yapılır? sorusu, eşya alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «tapu devri nasıl yapılır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
         ],
         "bullets": [
-          "Kimlikler",
-          "DASK",
-          "Rayiç / harç",
-          "Vekâlet (varsa)",
-          "Yetki belgesi (şirket)"
+          "tapu devri nasıl yapılır",
+          "tapu harcı",
+          "tapu randevu"
         ]
       },
       {
-        "heading": "Dikkat",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Emlak vergisi borcu, ipotek, haciz, şerh ve iskan durumu devirden önce kontrol edilmelidir. Ödeme yeri ve senetleşme riski yüksektir; banka dekontu tercih edilir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Tapu kaydı ve şerhleri inceleyin.",
-      "Borç ve DASK durumunu netleştirin.",
-      "Randevu alın.",
-      "Harç ve ödemeyi tamamlayın.",
-      "Tescil belgesini alın."
+      "«tapu devri nasıl yapılır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Noterde satış yeterli mi?",
-        "a": "Mülkiyet devri için tapuda tescil gerekir. Noter satış vaadi ayrı bir sözleşmedir."
+        "q": "tapu devri nasıl yapılır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -869,13 +1235,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "iskan-belgesi-nedir",
     "title": "İskan Belgesi Nedir? Nasıl Alınır?",
-    "description": "Yapı kullanma izni (iskan) nedir, neden gerekir, başvuru ve eksik iskan riskleri. Bilgilendirme rehberi.",
+    "description": "Yapı kullanma izni, başvuru, iskansız daire riskleri. Bilgilendirme.",
     "h1": "İskan belgesi (yapı kullanma izni) nedir?",
     "keywords": [
       "iskan belgesi nedir",
       "iskan nasıl alınır",
-      "yapı kullanma izni",
-      "iskansız daire"
+      "yapı kullanma izni"
     ],
     "category": "İmar",
     "related": [
@@ -885,39 +1250,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "İmar Kanunu",
+        "label": "İmar",
         "href": "/kategori/imar"
       },
       {
-        "label": "Belediye Kanunu",
+        "label": "Belediye",
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "İskan (yapı kullanma izni), yapının imar ve fen bakımından kullanıma uygun olduğunu gösteren belgedir. Eksik iskan; abonelik, kredi ve satışta sorun çıkarabilir.",
+    "lead": "İskan belgesi (yapı kullanma izni) nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «iskan belgesi nedir» ve «iskan nasıl alınır» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Neden önemli?",
+        "heading": "İmar bağlamında konu nedir?",
         "paragraphs": [
-          "Belediye ve ilgili idareler abonelik ve bazı işlemlerde iskan arar. Kat irtifakından kat mülkiyetine geçişte de iskan/ uygunluk süreçleri devreye girer."
+          "İskan belgesi (yapı kullanma izni) nedir? sorusu, imar alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «iskan belgesi nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "iskan belgesi nedir",
+          "iskan nasıl alınır",
+          "yapı kullanma izni"
         ]
       },
       {
-        "heading": "Nasıl alınır?",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Yüklenici veya malik, proje, yapı denetim ve belediye evrakıyla başvurur. Eksik imalat ve ruhsat aykırılığı engel olabilir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Tapu ve ruhsat durumunu öğrenin.",
-      "Belediyeden iskan/ dosya durumunu sorun.",
-      "Eksikleri yükleniciyle tamamlayın.",
-      "Başvuru ve kontrol sürecini takip edin."
+      "«iskan belgesi nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "İskansız daire alınır mı?",
-        "a": "Alınabilir ancak risk yüksektir; sözleşme ve fiyat buna göre değerlendirilmelidir."
+        "q": "iskan belgesi nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -925,55 +1331,95 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "tuketici-hakem-heyeti",
     "title": "Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır?",
-    "description": "Tüketici hakem heyeti başvuru şartları, e-Devlet, parasal sınır, süre ve itiraz. Vatandaş rehberi.",
+    "description": "Başvuru şartları, e-Devlet, parasal sınır, itiraz. Rehber.",
     "h1": "Tüketici hakem heyetine nasıl başvurulur?",
     "keywords": [
       "tüketici hakem heyeti",
       "tüketici şikayeti",
-      "e-devlet tüketici",
-      "tüketici davası"
+      "e-devlet tüketici"
     ],
     "category": "Tüketici",
     "related": [
       "abonelik-iptali-tuketici",
       "hukuk-davasi-nasil-acilir",
-      "arabuluculuk-nasil-yapilir"
+      "ayip-mal-iade"
     ],
     "links": [
       {
-        "label": "Tüketicinin Korunması Kanunu",
+        "label": "TKHK",
         "href": "/kategori/tkhk"
       },
       {
-        "label": "Mevzuat arama",
+        "label": "Ara",
         "href": "/ara?q=t%C3%BCketici"
       }
     ],
-    "lead": "Tüketici hakem heyeti, belirli parasal sınırlar içindeki tüketici uyuşmazlıklarında hızlı başvuru yoludur. e-Devlet üzerinden başvuru yaygındır. Sınır üstü tutarlarda tüketici mahkemesi gündeme gelir.",
+    "lead": "Tüketici hakem heyetine nasıl başvurulur konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «tüketici hakem heyeti» ve «tüketici şikayeti» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Kimler başvurur?",
+        "heading": "Tüketici bağlamında konu nedir?",
         "paragraphs": [
-          "Tüketici sıfatıyla mal veya hizmet alanlar. Ticari işlerde tüketici sıfatı tartışmalı olabilir."
+          "Tüketici hakem heyetine nasıl başvurulur? sorusu, tüketici alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «tüketici hakem heyeti» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "tüketici hakem heyeti",
+          "tüketici şikayeti",
+          "e-devlet tüketici"
         ]
       },
       {
-        "heading": "Süreç",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Başvuru, delil yükleme, satıcı/sağlayıcı savunması ve karar. Karara itiraz tüketici mahkemesine yapılabilir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Parasal sınırı kontrol edin.",
-      "Fatura, sözleşme, yazışmaları toplayın.",
-      "e-Devletten başvuru yapın.",
-      "Kararı takip edin; itiraz süresine dikkat edin."
+      "«tüketici hakem heyeti» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Avukat zorunlu mu?",
-        "a": "Hakem heyetinde kural olarak zorunlu değildir."
+        "q": "tüketici hakem heyeti için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -981,13 +1427,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "savcilik-suc-duyurusu",
     "title": "Savcılığa Suç Duyurusu Nasıl Yapılır?",
-    "description": "Suç duyurusu nedir, dilekçe, e-şikayet, delil ve süreç. Vatandaşlar için bilgilendirme rehberi.",
+    "description": "Suç duyurusu, dilekçe, e-şikayet, delil. Bilgilendirme rehberi.",
     "h1": "Savcılığa suç duyurusu nasıl yapılır?",
     "keywords": [
       "suç duyurusu nasıl yapılır",
       "savcılığa şikayet",
-      "e-şikayet",
-      "suç duyurusu dilekçesi"
+      "e-şikayet"
     ],
     "category": "Ceza",
     "related": [
@@ -997,7 +1442,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "CMK maddeleri",
+        "label": "CMK",
         "href": "/kategori/cmk"
       },
       {
@@ -1005,31 +1450,72 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-genel"
       }
     ],
-    "lead": "Suç duyurusu, bir suçun işlendiği iddiasıyla Cumhuriyet savcılığına yapılan başvurudur. Yazılı dilekçe, e-şikayet veya kolluk aracılığıyla yapılabilir. Delil ve olay anlatımı net olmalıdır.",
+    "lead": "Savcılığa suç duyurusu nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «suç duyurusu nasıl yapılır» ve «savcılığa şikayet» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Dilekçede neler yazılmalı?",
+        "heading": "Ceza bağlamında konu nedir?",
         "paragraphs": [
-          "Olayın kim, ne zaman, nerede, nasıl gerçekleştiği; deliller; şüpheli bilgisi (biliniyorsa); talep (soruşturma) açık yazılır. Hakaret içeren abartılı ifadelere gerek yoktur."
+          "Savcılığa suç duyurusu nasıl yapılır? sorusu, ceza alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «suç duyurusu nasıl yapılır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "suç duyurusu nasıl yapılır",
+          "savcılığa şikayet",
+          "e-şikayet"
         ]
       },
       {
-        "heading": "Sonrası",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Savcılık soruşturma açabilir, kovuşturmaya yer olmadığına karar verebilir veya ek delil isteyebilir. Şikâyete bağlı suçlarda süre ve feragat önemlidir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Olay ve delilleri derleyin.",
-      "Yetkili savcılığa başvurun.",
-      "Başvuru numarasını alın.",
-      "Sonucu takip edin; itiraz yollarını öğrenin."
+      "«suç duyurusu nasıl yapılır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "İsimsiz şikâyet olur mu?",
-        "a": "Uygulamada kimlikli başvuru etkilidir; isimsiz ihbar sınırlı değerlendirilir."
+        "q": "suç duyurusu nasıl yapılır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1037,13 +1523,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "koruma-karari-6284",
     "title": "6284 Koruma Kararı Nedir? Nasıl Alınır?",
-    "description": "6284 sayılı Kanun kapsamında koruma ve uzaklaştırma kararı, başvuru mercileri ve süre. Bilgilendirme.",
+    "description": "Koruma ve uzaklaştırma kararı, başvuru mercileri. Bilgilendirme.",
     "h1": "6284 koruma kararı nedir? Nasıl alınır?",
     "keywords": [
       "6284 koruma kararı",
       "uzaklaştırma kararı",
-      "aile içi şiddet",
-      "ŞÖNİM başvuru"
+      "aile içi şiddet"
     ],
     "category": "Aile",
     "related": [
@@ -1053,39 +1538,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Ailenin Korunması Kanunu",
+        "label": "6284",
         "href": "/kategori/aile-koruma"
       },
       {
-        "label": "Aile hukuku",
+        "label": "Aile",
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "6284 sayılı Kanun, aile içi şiddet ve kadına yönelik şiddetle mücadelede koruyucu ve önleyici tedbirler öngörür. Mülki amir veya aile mahkemesinden tedbir istenebilir. Acil hallerde kolluk devreye girer.",
+    "lead": "6284 koruma kararı nedir? Nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «6284 koruma kararı» ve «uzaklaştırma kararı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Hangi tedbirler verilebilir?",
+        "heading": "Aile bağlamında konu nedir?",
         "paragraphs": [
-          "Uzaklaştırma, konuta yaklaşmama, silah teslimi, nafaka, geçici koruma gibi tedbirler örneklenir. Tedbir ihlali ayrıca yaptırıma bağlanmıştır."
+          "6284 koruma kararı nedir? Nasıl alınır? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «6284 koruma kararı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "6284 koruma kararı",
+          "uzaklaştırma kararı",
+          "aile içi şiddet"
         ]
       },
       {
-        "heading": "Başvuru",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "ŞÖNİM, kolluk, savcılık ve mahkeme kanalları kullanılır. Delil olmasa bile beyan önem taşır; yine de mevcut belgeler sunulmalıdır."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Güvenli ortama geçin; 112/155 ile irtibat kurun.",
-      "ŞÖNİM veya kolluğa başvurun.",
-      "Tedbir talebini yazılı/sözlü iletin.",
-      "Kararı tebliğ alın; ihlalde derhal bildirin."
+      "«6284 koruma kararı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Erkekler de başvurabilir mi?",
-        "a": "Kanun mağduriyet esasına göre koruma sağlar; somut olay ve madde metni esastır."
+        "q": "6284 koruma kararı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1093,13 +1619,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "velayet-davasi",
     "title": "Velayet Davası Nedir? Nasıl Açılır?",
-    "description": "Velayet nedir, boşanmada velayet, kişisel ilişki ve çocuğun üstün yararı. Vatandaş bilgilendirme rehberi.",
+    "description": "Velayet, kişisel ilişki, çocuğun üstün yararı. Vatandaş rehberi.",
     "h1": "Velayet davası nedir? Nasıl yürütülür?",
     "keywords": [
       "velayet davası",
       "çocuk velayeti",
-      "kişisel ilişki",
-      "velayet değişikliği"
+      "kişisel ilişki"
     ],
     "category": "Aile",
     "related": [
@@ -1109,39 +1634,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Aile hukuku",
+        "label": "Aile",
         "href": "/kategori/aile-hukuku"
       },
       {
-        "label": "Çocuk Koruma Kanunu",
+        "label": "Çocuk",
         "href": "/kategori/cck"
       }
     ],
-    "lead": "Velayet, çocuğun bakım, eğitim ve temsilini kapsar. Boşanmada velayet çocuğun üstün yararına göre verilir. Kişisel ilişki (görüşme) velayetten ayrı düzenlenir.",
+    "lead": "Velayet davası nedir? Nasıl yürütülür konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «velayet davası» ve «çocuk velayeti» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Nasıl belirlenir?",
+        "heading": "Aile bağlamında konu nedir?",
         "paragraphs": [
-          "Yaş, bağ, kardeşlerin birlikte kalması, şiddet öyküsü, sosyal inceleme raporu gibi ölçütler kullanılır. Anne veya babaya peşin üstünlük varsayımı yerine somut yarar aranır."
+          "Velayet davası nedir? Nasıl yürütülür? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «velayet davası» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "velayet davası",
+          "çocuk velayeti",
+          "kişisel ilişki"
         ]
       },
       {
-        "heading": "Değişiklik",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Şartlar değişirse velayet değişikliği davası açılabilir. İcra ile çocuk teslimi kuralları özel rejimlere tabidir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Çocuğun yararını merkeze alan dosya hazırlayın.",
-      "Delil ve tanık listesini çıkarın.",
-      "Tedbir velayet/kişisel ilişki talep edin.",
-      "Sosyal inceleme sürecine katılın."
+      "«velayet davası» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Ortak velayet olur mu?",
-        "a": "Uygulama ve Yargıtay yaklaşımı dosyaya göre değişir; mutlak kural yoktur."
+        "q": "velayet davası için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1149,12 +1715,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "is-kazasi-tazminati",
     "title": "İş Kazası Tazminatı Nedir? Nasıl Alınır?",
-    "description": "İş kazası bildirimi, SGK, maddi-manevi tazminat ve zamanaşımı. İşçi ve yakınları için rehber.",
+    "description": "Bildirim, SGK, maddi-manevi tazminat. İşçi rehberi.",
     "h1": "İş kazası tazminatı nedir? Nasıl talep edilir?",
     "keywords": [
       "iş kazası tazminatı",
       "iş kazası bildirimi",
-      "manevi tazminat iş kazası",
       "SGK iş kazası"
     ],
     "category": "İş",
@@ -1169,35 +1734,76 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       },
       {
-        "label": "İSG Kanunu",
+        "label": "İSG",
         "href": "/kategori/isg"
       }
     ],
-    "lead": "İş kazası, işyerinde veya iş nedeniyle oluşan, işçiyi bedenen ya da ruhen engelli hâle getiren olaydır. Bildirim, SGK süreci ve işverene karşı tazminat davaları ayrı kanallardır.",
+    "lead": "İş kazası tazminatı nedir? Nasıl talep edilir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «iş kazası tazminatı» ve «iş kazası bildirimi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Bildirim",
+        "heading": "İş bağlamında konu nedir?",
         "paragraphs": [
-          "İşveren kanuni sürede SGK’ya bildirim yapmalıdır. Yapılmazsa idari yaptırım ve ispat sorunları doğar. İşçi de sağlık kuruluşu kayıtlarını saklamalıdır."
+          "İş kazası tazminatı nedir? Nasıl talep edilir? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «iş kazası tazminatı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "iş kazası tazminatı",
+          "iş kazası bildirimi",
+          "SGK iş kazası"
         ]
       },
       {
-        "heading": "Tazminat",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Maddi (tedavi, iş göremezlik, destekten yoksun kalma) ve manevi tazminat gündeme gelebilir. Kusur oranları bilirkişiyle tartışılır. Zamanaşımı ve arabuluculuk kuralına dikkat edilmelidir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Sağlık kaydı ve raporları alın.",
-      "SGK/işveren bildirimini takip edin.",
-      "Kusur ve zarar belgelerini toplayın.",
-      "Arabuluculuk/dava yolunu planlayın."
+      "«iş kazası tazminatı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "İş çıkışında mı sayılır?",
-        "a": "İş kazası tanımı olayın iş ile bağlantısına göre belirlenir; salt «işyerinde olmak» her zaman yeterli olmayabilir."
+        "q": "iş kazası tazminatı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1205,13 +1811,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kidem-tazminati-nasil-alinir",
     "title": "Kıdem Tazminatı Nasıl Alınır? Şartlar ve Hesap",
-    "description": "Kıdem tazminatı şartları, hak eden haller, tavan, arabuluculuk ve dava. Vatandaş bilgilendirme rehberi.",
+    "description": "Kıdem şartları, tavan, arabuluculuk, dava. Bilgilendirme.",
     "h1": "Kıdem tazminatı nasıl alınır?",
     "keywords": [
       "kıdem tazminatı nasıl alınır",
-      "kıdem tazminatı şartları",
-      "kıdem hesabı",
-      "işten çıkınca tazminat"
+      "kıdem şartları",
+      "kıdem hesabı"
     ],
     "category": "İş",
     "related": [
@@ -1225,35 +1830,76 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/kidem-tazminati"
       },
       {
-        "label": "Kıdem hesaplama",
+        "label": "Hesap",
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "Kıdem tazminatı, kanunda sayılan sona erme hâllerinde ve en az bir yıllık kıdem şartıyla gündeme gelir. Tavan uygulaması ve giydirilmiş ücret hesabı kritiktir. İş davalarında arabuluculuk dava şartı olabilir.",
+    "lead": "Kıdem tazminatı nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kıdem tazminatı nasıl alınır» ve «kıdem şartları» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Kimler alır?",
+        "heading": "İş bağlamında konu nedir?",
         "paragraphs": [
-          "Belirli fesih türleri, emeklilik, muvazzaf askerlik, kadın işçinin evlilik nedeniyle feshi gibi hâller uygulamada sık görülür. İstifa kural olarak kıdem doğurmaz; istisnalar vardır."
+          "Kıdem tazminatı nasıl alınır? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kıdem tazminatı nasıl alınır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kıdem tazminatı nasıl alınır",
+          "kıdem şartları",
+          "kıdem hesabı"
         ]
       },
       {
-        "heading": "Hesap",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Her tam yıl için otuz günlük giydirilmiş ücret esası ve tavan kontrolü yapılır. Sitemizdeki araç bilgilendirme amaçlıdır."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Fesih türünü ve tarihi netleştirin.",
-      "Ücret bordrolarını toplayın.",
-      "Arabuluculuğa başvurun (gerekliyse).",
-      "Anlaşmazlıkta iş mahkemesini değerlendirin."
+      "«kıdem tazminatı nasıl alınır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "İbraname imzaladım, hakkım bitti mi?",
-        "a": "İbra sıkı şekil şartlarına tabidir; geçersiz ibra iddiası dosyaya göre tartışılır."
+        "q": "kıdem tazminatı nasıl alınır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1261,12 +1907,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "e-devlet-veraset",
     "title": "e-Devlet Veraset İlamı Sorgulama ve Alma",
-    "description": "e-Devlet üzerinden veraset/mirasçılık belgesi alma ve sorgulama adımları. Pratik vatandaş rehberi.",
+    "description": "e-Devlet mirasçılık belgesi adımları. Pratik rehber.",
     "h1": "e-Devlet ile veraset ilamı nasıl alınır?",
     "keywords": [
       "e-devlet veraset ilamı",
-      "mirasçılık belgesi e-devlet",
-      "veraset sorgulama"
+      "mirasçılık belgesi e-devlet"
     ],
     "category": "Miras",
     "related": [
@@ -1276,39 +1921,79 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Miras payı hesaplama",
+        "label": "Miras hesap",
         "href": "/hesaplama/miras"
       },
       {
-        "label": "Miras hukuku",
+        "label": "Miras",
         "href": "/kategori/miras-hukuku"
       }
     ],
-    "lead": "e-Devlet üzerinden mirasçılık belgesi/veraset işlemleri, sistemin uygun gördüğü dosyalarda hızlı çözüm sunar. Her miras dosyası e-Devletten çıkmaz; yurtdışı, vasiyet veya uyuşmazlıkta mahkeme gerekir.",
+    "lead": "e-Devlet ile veraset ilamı nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «e-devlet veraset ilamı» ve «mirasçılık belgesi e-devlet» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Nasıl bakılır?",
+        "heading": "Miras bağlamında konu nedir?",
         "paragraphs": [
-          "e-Devlet’e giriş yapıp «mirasçılık belgesi» veya ilgili nüfus/noter hizmetlerini aratın. Kimlik doğrulama ve yetkili mirasçı girişi gerekir."
+          "e-Devlet ile veraset ilamı nasıl alınır? sorusu, miras alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «e-devlet veraset ilamı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "e-devlet veraset ilamı",
+          "mirasçılık belgesi e-devlet"
         ]
       },
       {
-        "heading": "Belge alındıktan sonra",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Tapu ve banka işlemleri için asıl/onaylı suret istenebilir. Paylar üzerinde anlaşmazlık varsa belge tek başına paylaşımı bitirmez."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "e-Devlet girişi yapın.",
-      "Mirasçılık belgesi hizmetini arayın.",
-      "Uygunsa belgeyi oluşturun/indirin.",
-      "Uygun değilse noter/mahkeme yoluna geçin."
+      "«e-devlet veraset ilamı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "PDF yeterli mi?",
-        "a": "Kuruma göre değişir; bazı yerler ıslak imzalı veya barkodlu doğrulama ister."
+        "q": "e-devlet veraset ilamı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1316,12 +2001,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "miras-payi-nasil-hesaplanir",
     "title": "Miras Payı Nasıl Hesaplanır? Yasal Mirasçılık",
-    "description": "Yasal miras payları, zümre sistemi, eşin payı ve saklı pay. Hesaplama aracıyla bilgilendirme.",
+    "description": "Zümre sistemi, eşin payı, saklı pay. Bilgilendirme.",
     "h1": "Miras payı nasıl hesaplanır?",
     "keywords": [
       "miras payı nasıl hesaplanır",
       "yasal mirasçılık",
-      "eşin miras payı",
       "saklı pay"
     ],
     "category": "Miras",
@@ -1332,39 +2016,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Miras paylaşımı rehberi",
+        "label": "Miras rehberi",
         "href": "/rehber/miras-paylasimi"
       },
       {
-        "label": "Miras hesaplama",
+        "label": "Hesap",
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "Yasal miras payları TMK zümre sistemine göre belirlenir. Sağ kalan eşin payı, birlikte mirasçı olduğu zümreye göre değişir. Saklı pay ve vasiyet tenkisi ayrı kurumlardır.",
+    "lead": "Miras payı nasıl hesaplanır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «miras payı nasıl hesaplanır» ve «yasal mirasçılık» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Zümre sistemi",
+        "heading": "Miras bağlamında konu nedir?",
         "paragraphs": [
-          "Birinci zümre altsoy, ikinci ana-baba ve onların altsoyu, üçüncü büyük ana-baba hattıdır. Önceki zümre varken sonrakiler mirasçı olmaz."
+          "Miras payı nasıl hesaplanır? sorusu, miras alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «miras payı nasıl hesaplanır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "miras payı nasıl hesaplanır",
+          "yasal mirasçılık",
+          "saklı pay"
         ]
       },
       {
-        "heading": "Eşin payı",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Eş altsoy ile birlikteyken daha düşük, ana-baba zümresiyle daha yüksek, onlar yoksa daha geniş pay alır. Somut oranlar TMK m.499 çevresindedir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Mirasçı tablosunu çıkarın.",
-      "Eş ve zümre durumunu belirleyin.",
-      "Hesap aracıyla kabaca kontrol edin.",
-      "Uyuşmazlıkta tenkis/paylaşım davasını değerlendirin."
+      "«miras payı nasıl hesaplanır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Vasiyet payları bozar mı?",
-        "a": "Saklı payı ihlal eden tasarruflar tenkise tabi olabilir."
+        "q": "miras payı nasıl hesaplanır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1372,12 +2097,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "tebligat-usulsuzlugu",
     "title": "Tebligat Usulsüzlüğü Nedir? Ne Yapılır?",
-    "description": "Usulsüz tebligat, öğrenme tarihi, itiraz ve hak kaybını önleme. Vatandaş bilgilendirme rehberi.",
+    "description": "Usulsüz tebligat, öğrenme tarihi, itiraz. Bilgilendirme.",
     "h1": "Tebligat usulsüzlüğü nedir? Ne yapılmalı?",
     "keywords": [
       "tebligat usulsüzlüğü",
       "usulsüz tebligat",
-      "tebligat itirazı",
       "e-tebligat"
     ],
     "category": "Usul",
@@ -1388,7 +2112,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Tebligat Kanunu",
+        "label": "Tebligat",
         "href": "/kategori/tebligat"
       },
       {
@@ -1396,31 +2120,72 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "Usulsüz tebligat, kanuna aykırı yapılan tebligattır. Usulsüz tebliğ, muhatabın öğrendiği tarihte yapılmış sayılır; öğrenme tarihinin ispatı önemlidir. e-Tebligat kuralları ayrıca düzenlenmiştir.",
+    "lead": "Tebligat usulsüzlüğü nedir? Ne yapılmalı konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «tebligat usulsüzlüğü» ve «usulsüz tebligat» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Ne zaman usulsüz sayılır?",
+        "heading": "Usul bağlamında konu nedir?",
         "paragraphs": [
-          "Yanlış adrese çıkarma, usule aykırı komşuya/ kapıcıya teslim, imza ve beyana aykırılıklar örneklenir. Her şekil eksikliği aynı sonucu doğurmayabilir."
+          "Tebligat usulsüzlüğü nedir? Ne yapılmalı? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «tebligat usulsüzlüğü» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "tebligat usulsüzlüğü",
+          "usulsüz tebligat",
+          "e-tebligat"
         ]
       },
       {
-        "heading": "Ne yapılmalı?",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Öğrenme tarihi belgelenmeli, ilgili mercie (icra, mahkeme) süre içinde bildirilmelidir. Süreler dosya türüne göre değişir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Tebliğ evrağını inceleyin.",
-      "Öğrenme anını belgelendirin.",
-      "Yetkili mercie itiraz/beyan verin.",
-      "Asıl işleme (itiraz, dava) süresini kaçırmayın."
+      "«tebligat usulsüzlüğü» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "e-Tebligatı açmazsam süre işlemez mi?",
-        "a": "e-Tebligatta kanuni karineler vardır; «açmadım» her zaman süreyi durdurmaz."
+        "q": "tebligat usulsüzlüğü için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1428,13 +2193,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ihtiyati-tedbir-nedir",
     "title": "İhtiyati Tedbir Nedir? Nasıl İstenir?",
-    "description": "İhtiyati tedbir şartları, teminat, başvuru ve kaldırılması. Hukuk davalarında koruyucu tedbir rehberi.",
+    "description": "Tedbir şartları, teminat, başvuru. Usul rehberi.",
     "h1": "İhtiyati tedbir nedir? Nasıl alınır?",
     "keywords": [
       "ihtiyati tedbir nedir",
       "ihtiyati tedbir nasıl alınır",
-      "tedbir kararı",
-      "teminat"
+      "tedbir kararı"
     ],
     "category": "Usul",
     "related": [
@@ -1444,34 +2208,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "HMK maddeleri",
+        "label": "HMK",
         "href": "/kategori/hmk"
       },
       {
-        "label": "Mevzuat arama",
+        "label": "Ara",
         "href": "/ara?q=ihtiyati%20tedbir"
       }
     ],
-    "lead": "İhtiyati tedbir, hakların dava sonuçlanana kadar korunması için verilen geçici korumadır. Yaklaşık ispat ve çoğu zaman teminat aranır. Haksız tedbirde tazminat riski vardır.",
+    "lead": "İhtiyati tedbir nedir? Nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ihtiyati tedbir nedir» ve «ihtiyati tedbir nasıl alınır» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Şartlar",
+        "heading": "Usul bağlamında konu nedir?",
         "paragraphs": [
-          "Hakkın varlığı hakkında kuvvetli izlenim ve gecikmede zarar tehlikesi aranır. Tapu şerhi, ödeme yasağı, malın muhafazası örnek tedbirlerdir."
+          "İhtiyati tedbir nedir? Nasıl alınır? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ihtiyati tedbir nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ihtiyati tedbir nedir",
+          "ihtiyati tedbir nasıl alınır",
+          "tedbir kararı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Tedbir sebebini ve delilleri hazırlayın.",
-      "Teminat imkânını değerlendirin.",
-      "Görevli mahkemeden talep edin.",
-      "Kararı tebliğ/ icra edin.",
-      "Esas davayı süresinde açın/ yürüteğin."
+      "«ihtiyati tedbir nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Tedbir kalıcı mıdır?",
-        "a": "Hayır, geçicidir; şartlar değişince kaldırılabilir veya değiştirilebilir."
+        "q": "ihtiyati tedbir nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1479,13 +2289,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "engelli-raporu-nasil-alinir",
     "title": "Engelli Raporu Nasıl Alınır? Sağlık Kurulu",
-    "description": "Engelli sağlık kurulu raporu başvurusu, oran, e-Devlet ve haklar. Vatandaş bilgilendirme rehberi.",
+    "description": "Sağlık kurulu raporu, oran, e-Devlet, haklar. Rehber.",
     "h1": "Engelli raporu nasıl alınır?",
     "keywords": [
       "engelli raporu nasıl alınır",
       "sağlık kurulu raporu",
-      "engelli oranı",
-      "engelli kimlik"
+      "engelli oranı"
     ],
     "category": "Engelli Hakları",
     "related": [
@@ -1495,40 +2304,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Mevzuat arama",
+        "label": "Ara",
         "href": "/ara?q=engelli"
       },
       {
-        "label": "Hesaplama araçları",
+        "label": "Hesaplama",
         "href": "/hesaplama"
       }
     ],
-    "lead": "Engelli sağlık kurulu raporu, engellilik oranını ve bazı haklardan yararlanmayı sağlar. Yetkili hastanelerden alınır; e-rapor sistemleri yaygındır.",
+    "lead": "Engelli raporu nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «engelli raporu nasıl alınır» ve «sağlık kurulu raporu» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Başvuru",
+        "heading": "Engelli Hakları bağlamında konu nedir?",
         "paragraphs": [
-          "Devlet/ üniversite hastanelerinin engelli sağlık kurullarına başvurulur. Poliklinik muayeneleri ve kurul kararı sonrası rapor düzenlenir."
+          "Engelli raporu nasıl alınır? sorusu, engelli hakları alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «engelli raporu nasıl alınır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "engelli raporu nasıl alınır",
+          "sağlık kurulu raporu",
+          "engelli oranı"
         ]
       },
       {
-        "heading": "Kullanım alanları",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Vergi indirimi, araç ÖTV muafiyeti, eğitim ve istihdam hakları, engelli kimlik kartı gibi alanlarda kullanılır. Her hak farklı oran ve belge isteyebilir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Yetkili hastaneyi seçin.",
-      "Randevu ve evrak listesini alın.",
-      "Kurul sürecini tamamlayın.",
-      "Raporu e-Devlet/ basılı alın.",
-      "İlgili kurum başvurusunu yapın."
+      "«engelli raporu nasıl alınır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Rapor süreli olabilir mi?",
-        "a": "Evet, süreli veya sürekli rapor düzenlenebilir; süre bitiminde yenileme gerekir."
+        "q": "engelli raporu nasıl alınır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1536,13 +2385,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "vergi-borcu-yapislandirma",
     "title": "Vergi Borcu Yapılandırma Nedir? Nasıl Başvurulur?",
-    "description": "Vergi ve kamu alacağı yapılandırması, başvuru kanalları, peşin/taksit ve dikkat edilecekler.",
+    "description": "Yapılandırma, başvuru, peşin/taksit. Bilgilendirme.",
     "h1": "Vergi borcu yapılandırma nedir? Nasıl başvurulur?",
     "keywords": [
       "vergi borcu yapılandırma",
       "vergi affı",
-      "e-devlet yapılandırma",
-      "kamu alacağı yapılandırma"
+      "e-devlet yapılandırma"
     ],
     "category": "Vergi",
     "related": [
@@ -1560,25 +2408,72 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "Vergi ve bazı kamu alacaklarında dönemsel yapılandırma kanunları çıkarılabilir. Başvuru e-Devlet, GİB ve ilgili idareler üzerinden yapılır. Peşin ödeme indirimi ve taksit aksatma kuralları kritiktir.",
+    "lead": "Vergi borcu yapılandırma nedir? Nasıl başvurulur konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «vergi borcu yapılandırma» ve «vergi affı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Dikkat",
+        "heading": "Vergi bağlamında konu nedir?",
         "paragraphs": [
-          "Yapılandırma her borç türünü kapsamaz. Süre kaçınca hak kaybı olur. Taksit bozulursa kanundaki sonuçlar uygulanır."
+          "Vergi borcu yapılandırma nedir? Nasıl başvurulur? sorusu, vergi alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «vergi borcu yapılandırma» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "vergi borcu yapılandırma",
+          "vergi affı",
+          "e-devlet yapılandırma"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Borç dökümünü alın.",
-      "Yapılandırma kapsamını okuyun.",
-      "e-Devlet/GİB’den başvurun.",
-      "Peşinat/taksitleri aksatmayın."
+      "«vergi borcu yapılandırma» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Her yıl yapılandırma çıkar mı?",
-        "a": "Hayır. Dönemsel kanunlara bağlıdır; spekülasyon yapılmamalıdır."
+        "q": "vergi borcu yapılandırma için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1586,13 +2481,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kamulastirma-nedir",
     "title": "Kamulaştırma Nedir? Bedel ve Dava Yolları",
-    "description": "Kamulaştırma süreci, bedel tespiti, idari ve yargısal itiraz. Mal sahipleri için bilgilendirme.",
+    "description": "Kamulaştırma süreci, bedel, itiraz. Mal sahibi rehberi.",
     "h1": "Kamulaştırma nedir? Haklarınız nelerdir?",
     "keywords": [
       "kamulaştırma nedir",
       "kamulaştırma bedeli",
-      "acele kamulaştırma",
-      "kamulaştırmasız el atma"
+      "acele kamulaştırma"
     ],
     "category": "İdare",
     "related": [
@@ -1602,39 +2496,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Kamulaştırma Kanunu",
+        "label": "Kamulaştırma",
         "href": "/kategori/kamulastirma"
       },
       {
-        "label": "İmar Kanunu",
+        "label": "İmar",
         "href": "/kategori/imar"
       }
     ],
-    "lead": "Kamulaştırma, kamu yararı için özel mülkiyete idarece el konulması ve bedel ödenmesidir. Bedel tespiti ve tescil davaları, idari işlemlere itiraz ve kamulaştırmasız el atma ayrı kurumlardır.",
+    "lead": "Kamulaştırma nedir? Haklarınız nelerdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kamulaştırma nedir» ve «kamulaştırma bedeli» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Süreç",
+        "heading": "İdare bağlamında konu nedir?",
         "paragraphs": [
-          "Kamu yararı kararı, satın alma teklifi, anlaşmazlıkta bedel tespiti ve tescil aşamaları izlenir. Acele kamulaştırmada tempo farklıdır."
+          "Kamulaştırma nedir? Haklarınız nelerdir? sorusu, idare alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kamulaştırma nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kamulaştırma nedir",
+          "kamulaştırma bedeli",
+          "acele kamulaştırma"
         ]
       },
       {
-        "heading": "Hak arama",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Bedele itiraz, idari işlemin iptali ve ecrimisil/el atma tazminatı yolları dosyaya göre seçilir. Süreler kaçırılmamalıdır."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Tebliğ ve kamulaştırma evrakını saklayın.",
-      "Bedel teklifini değerlendirin.",
-      "Anlaşmazlıkta dava sürelerini hesaplayın.",
-      "Bilirkişi ve keşif sürecine katılın."
+      "«kamulaştırma nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Bedeli beğenmezsem?",
-        "a": "Kanuni süre içinde bedele itiraz/dava yolları açıktır; süre dosya türüne göre değişir."
+        "q": "kamulaştırma nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1642,13 +2577,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kacak-yapi-cezasi",
     "title": "Kaçak Yapı Cezası Nedir? Yıkım ve İtiraz",
-    "description": "Ruhsatsız yapı, idari para cezası, mühürleme ve yargı yolu. Vatandaş bilgilendirme rehberi.",
+    "description": "Ruhsatsız yapı, para cezası, mühürleme, yargı yolu. Rehber.",
     "h1": "Kaçak yapı cezası nedir? Ne yapılır?",
     "keywords": [
       "kaçak yapı cezası",
       "ruhsatsız yapı",
-      "yıkım kararı",
-      "imar kirliliği"
+      "yıkım kararı"
     ],
     "category": "İmar",
     "related": [
@@ -1658,7 +2592,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "İmar Kanunu",
+        "label": "İmar",
         "href": "/kategori/imar"
       },
       {
@@ -1666,25 +2600,72 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "Ruhsatsız veya ruhsata aykırı yapı imar mevzuatında yaptırıma tabidir. Para cezası, mühürleme, yıkım ve idari işlemler gündeme gelebilir. İtiraz ve iptal davası süreye bağlıdır.",
+    "lead": "Kaçak yapı cezası nedir? Ne yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kaçak yapı cezası» ve «ruhsatsız yapı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Ne yapılır?",
+        "heading": "İmar bağlamında konu nedir?",
         "paragraphs": [
-          "Tebliğ edilen tutanağı inceleyin, süreleri not edin, teknik aykırılığı mimar/mühendis raporuyla değerlendirin. Gerekirse idari dava açın."
+          "Kaçak yapı cezası nedir? Ne yapılır? sorusu, imar alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kaçak yapı cezası» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kaçak yapı cezası",
+          "ruhsatsız yapı",
+          "yıkım kararı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Tutanak ve tebliği alın.",
-      "Ruhsat/proje durumunu çıkarın.",
-      "İdari itiraz ve yargı yolunu planlayın.",
-      "Yıkım riskine karşı tedbir değerlendirin."
+      "«kaçak yapı cezası» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "İmar barışı sürüyor mu?",
-        "a": "Dönemsel uygulamalardır; güncel mevzuata bakılmalıdır."
+        "q": "kaçak yapı cezası için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1692,49 +2673,95 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "abonelik-iptali-tuketici",
     "title": "Abonelik İptali Nasıl Yapılır? Tüketici Hakları",
-    "description": "İnternet, GSM, dergi abonelik iptali, cayma hakkı ve tüketici başvurusu. Pratik rehber.",
+    "description": "İnternet/GSM iptali, cayma, taahhüt. Pratik rehber.",
     "h1": "Abonelik iptali nasıl yapılır?",
     "keywords": [
       "abonelik iptali",
       "internet abonelik iptali",
-      "cayma hakkı",
-      "taahhütname cezası"
+      "cayma hakkı"
     ],
     "category": "Tüketici",
     "related": [
       "tuketici-hakem-heyeti",
       "hukuk-davasi-nasil-acilir",
-      "arabuluculuk-nasil-yapilir"
+      "ayip-mal-iade"
     ],
     "links": [
       {
-        "label": "TKHK maddeleri",
+        "label": "TKHK",
         "href": "/kategori/tkhk"
       },
       {
-        "label": "Tüketici arama",
+        "label": "Ara",
         "href": "/ara?q=t%C3%BCketici"
       }
     ],
-    "lead": "Tüketici aboneliklerinde cayma, fesih ve taahhütname cezaları TKHK ve ikincil mevzuata tabidir. Yazılı/ e-Devlet/ operatör kanallarından iptal belgelenmelidir.",
+    "lead": "Abonelik iptali nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «abonelik iptali» ve «internet abonelik iptali» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Cayma ve fesih",
+        "heading": "Tüketici bağlamında konu nedir?",
         "paragraphs": [
-          "Mesafeli sözleşmelerde cayma hakkı süreye bağlıdır. Taahhütlü hatlarda erken fesih ücreti hesaplanır; haksız şart tartışılabilir."
+          "Abonelik iptali nasıl yapılır? sorusu, tüketici alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «abonelik iptali» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "abonelik iptali",
+          "internet abonelik iptali",
+          "cayma hakkı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Sözleşme ve taahhütnameyi bulun.",
-      "İptal talebini yazılı/kayıtlı yapın.",
-      "İptal numarasını alın.",
-      "Haksız ücret için hakem heyetine gidin."
+      "«abonelik iptali» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Sadece telefonla iptal yeterli mi?",
-        "a": "Kayıt ve teyit alın; mümkünse yazılı/ e-posta ile sabitleyin."
+        "q": "abonelik iptali için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1742,12 +2769,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ehliyet-alma-sartlari",
     "title": "Ehliyet Alma Şartları Nelerdir? Süreç Rehberi",
-    "description": "Sürücü belgesi alma şartları, kurs, sınav, sağlık raporu ve e-Devlet işlemleri. Bilgilendirme.",
+    "description": "Sürücü belgesi şartları, kurs, sınav, sağlık raporu. Bilgilendirme.",
     "h1": "Ehliyet alma şartları nelerdir?",
     "keywords": [
       "ehliyet alma şartları",
       "sürücü belgesi nasıl alınır",
-      "ehliyet sınavı",
       "ehliyet yenileme"
     ],
     "category": "Trafik",
@@ -1758,7 +2784,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Karayolları Trafik Kanunu",
+        "label": "KTK",
         "href": "/kategori/ktk"
       },
       {
@@ -1766,25 +2792,72 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "Sürücü belgesi için yaş, eğitim, sağlık raporu ve sınav şartları aranır. Sınıfına göre (B, A vb.) şartlar değişir. e-Devlet randevu ve başvuru adımları kullanılır.",
+    "lead": "Ehliyet alma şartları nelerdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ehliyet alma şartları» ve «sürücü belgesi nasıl alınır» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Genel adımlar",
+        "heading": "Trafik bağlamında konu nedir?",
         "paragraphs": [
-          "Direksiyon kursu kaydı, teorik ve direksiyon sınavı, sağlık raporu ve harçlar tipik süreçtir. Sabıka ve engel hâlleri kontrol edilir."
+          "Ehliyet alma şartları nelerdir? sorusu, trafik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ehliyet alma şartları» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ehliyet alma şartları",
+          "sürücü belgesi nasıl alınır",
+          "ehliyet yenileme"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Uygun ehliyet sınıfını seçin.",
-      "Sağlık raporunu alın.",
-      "Kursa kaydolun ve sınavlara girin.",
-      "Belgeyi e-Devlet/nüfus süreçleriyle tamamlayın."
+      "«ehliyet alma şartları» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Ehliyet yenileme nasıl?",
-        "a": "Süre bitimine yakın e-Devlet ve nüfus/trafik birimleri üzerinden yenilenir; sağlık raporu istenebilir."
+        "q": "ehliyet alma şartları için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1792,13 +2865,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "nufus-kayit-ornegi",
     "title": "Nüfus Kayıt Örneği Nasıl Alınır? e-Devlet",
-    "description": "Nüfus kayıt örneği (vukuatlı) e-Devlet ve Nüfus Müdürlüğü yolu. Gerekli yerler ve kullanım.",
+    "description": "Vukuatlı nüfus kayıt, e-Devlet ve müdürlük. Rehber.",
     "h1": "Nüfus kayıt örneği nasıl alınır?",
     "keywords": [
       "nüfus kayıt örneği",
       "vukuatlı nüfus kayıt",
-      "e-devlet nüfus",
-      "nüfus cüzdanı sureti"
+      "e-devlet nüfus"
     ],
     "category": "Nüfus",
     "related": [
@@ -1808,33 +2880,80 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "links": [
       {
-        "label": "Nüfus Hizmetleri",
+        "label": "NHK",
         "href": "/kategori/nhk"
       },
       {
-        "label": "Mevzuat arama",
+        "label": "Ara",
         "href": "/ara?q=n%C3%BCfus"
       }
     ],
-    "lead": "Nüfus kayıt örneği (vukuatlı/özlü) kimlik ve medeni durum işlemlerinde istenir. e-Devlet’ten barkodlu belge almak yaygındır; bazı kurumlar ıslak imzalı suret arar.",
+    "lead": "Nüfus kayıt örneği nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «nüfus kayıt örneği» ve «vukuatlı nüfus kayıt» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Nasıl alınır?",
+        "heading": "Nüfus bağlamında konu nedir?",
         "paragraphs": [
-          "e-Devlet → Nüfus ve Vatandaşlık işlemleri üzerinden örnek alınabilir. Nüfus müdürlüğünden de talep edilir."
+          "Nüfus kayıt örneği nasıl alınır? sorusu, nüfus alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «nüfus kayıt örneği» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "nüfus kayıt örneği",
+          "vukuatlı nüfus kayıt",
+          "e-devlet nüfus"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "e-Devlet girişi yapın.",
-      "Nüfus kayıt örneği hizmetini seçin.",
-      "Barkodlu PDF’i indirin.",
-      "Kurum ıslak imza isterse müdürlüğe gidin."
+      "«nüfus kayıt örneği» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Vukuatlı ile özet farkı nedir?",
-        "a": "Vukuatlı kayıt olay geçmişini daha ayrıntılı gösterir; istenen tür kuruma göre değişir."
+        "q": "nüfus kayıt örneği için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1842,13 +2961,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "icra-dosyasi-sorgulama",
     "title": "İcra Dosyası Sorgulama Nasıl Yapılır? UYAP",
-    "description": "İcra dosyası UYAP ve e-Devlet sorgulama, dosya numarası ve taraf erişimi. Bilgilendirme.",
+    "description": "UYAP ve e-Devlet icra dosyası sorgulama. Bilgilendirme.",
     "h1": "İcra dosyası nasıl sorgulanır?",
     "keywords": [
       "icra dosyası sorgulama",
       "UYAP icra",
-      "e-devlet icra dosyası",
-      "icra dosya numarası"
+      "e-devlet icra"
     ],
     "category": "İcra",
     "related": [
@@ -1862,29 +2980,76 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       },
       {
-        "label": "Faiz hesaplama",
+        "label": "Faiz",
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "İcra dosyası sorgulama UYAP Vatandaş / e-Devlet üzerinden, taraf veya vekil sıfatıyla yapılabilir. Dosya esas numarası ve icra dairesi bilgisi gerekir.",
+    "lead": "İcra dosyası nasıl sorgulanır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «icra dosyası sorgulama» ve «UYAP icra» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Nasıl bakılır?",
+        "heading": "İcra bağlamında konu nedir?",
         "paragraphs": [
-          "e-Devlet’te icra dosyası sorgulama veya UYAP Vatandaş Portal kullanılır. SMS/e-posta bilgilendirme tercih edilebilir."
+          "İcra dosyası nasıl sorgulanır? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «icra dosyası sorgulama» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "icra dosyası sorgulama",
+          "UYAP icra",
+          "e-devlet icra"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "T.C. kimlik ile giriş yapın.",
-      "İcra dosyası menüsünü açın.",
-      "Dosya ve borç dökümünü inceleyin.",
-      "Ödeme veya itiraz için daireyle iletişime geçin."
+      "«icra dosyası sorgulama» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Başkasının dosyasını görebilir miyim?",
-        "a": "Hayır. Yalnızca taraf, vekil veya kanunen yetkili kişiler erişebilir."
+        "q": "icra dosyası sorgulama için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1892,13 +3057,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "senet-icra-takibi",
     "title": "Senetle İcra Takibi Nasıl Yapılır?",
-    "description": "Bonoya/senede dayalı icra takibi, kambiyo senetlerine özgü yol, itiraz ve süreler. Rehber.",
+    "description": "Bono/senet icrası, kambiyo yolu, itiraz. Rehber.",
     "h1": "Senetle icra takibi nasıl yapılır?",
     "keywords": [
       "senet icra takibi",
       "bono icra",
-      "kambiyo senetleri",
-      "senet ödeme emri"
+      "kambiyo senetleri"
     ],
     "category": "İcra",
     "related": [
@@ -1912,35 +3076,76 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       },
       {
-        "label": "TTK kıymetli evrak",
+        "label": "Kıymetli evrak",
         "href": "/kategori/kiymetli-evrak"
       }
     ],
-    "lead": "Bono ve benzeri kambiyo senetlerinde icra takibi, kambiyo senetlerine özgü yol ile hızlı ilerleyebilir. Borçlunun itiraz imkânları ve süreleri özeldir.",
+    "lead": "Senetle icra takibi nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «senet icra takibi» ve «bono icra» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Alacaklı için",
+        "heading": "İcra bağlamında konu nedir?",
         "paragraphs": [
-          "Senedin şekil unsurları (keşideci, lehtar, meblağ, tarih, imza) kontrol edilir. Takip talebi ve ödeme emri kambiyo usulüne göre düzenlenir."
+          "Senetle icra takibi nasıl yapılır? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «senet icra takibi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "senet icra takibi",
+          "bono icra",
+          "kambiyo senetleri"
         ]
       },
       {
-        "heading": "Borçlu için",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "İmzaya itiraz ve borca itirazın süre ve sonuçları farklıdır. Süreyi kaçırmak haczi hızlandırır."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Senedi ve tebliği inceleyin.",
-      "Süreleri hesaplayın.",
-      "İtiraz/ödeme kararını verin.",
-      "Gerekiyorsa menfi tespit veya istirdat planlayın."
+      "«senet icra takibi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Fotokopi senetle takip olur mu?",
-        "a": "Asıl senet kural olarak aranır; istisnalar dar yorumlanır."
+        "q": "senet icra takibi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -1948,13 +3153,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "is-sozlesmesi-feshi",
     "title": "İş Sözleşmesi Feshi Nedir? Haklı ve Bildirimli Fesih",
-    "description": "İşçi ve işveren feshi, haklı neden, ihbar ve kıdem ilişkisi. İş hukuku vatandaş rehberi.",
+    "description": "İşçi/işveren feshi, kıdem-ihbar ilişkisi. İş rehberi.",
     "h1": "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli?",
     "keywords": [
       "iş sözleşmesi feshi",
       "haklı fesih",
-      "işten çıkarma",
-      "istifa tazminat"
+      "işten çıkarma"
     ],
     "category": "İş",
     "related": [
@@ -1968,35 +3172,76 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       },
       {
-        "label": "Kıdem hesaplama",
+        "label": "Kıdem",
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "İş sözleşmesi bildirimli veya haklı nedenle feshedilebilir. Fesih türü kıdem, ihbar ve işe iade haklarını belirler. Yazılı bildirim ve delil saklama kritiktir.",
+    "lead": "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «iş sözleşmesi feshi» ve «haklı fesih» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "İşçi feshi",
+        "heading": "İş bağlamında konu nedir?",
         "paragraphs": [
-          "İstifa kural olarak kıdem doğurmaz; haklı nedenle fesihte kıdem gündeme gelebilir. İhbar sürelerine uyulmazsa ihbar tazminatı doğabilir."
+          "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «iş sözleşmesi feshi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "iş sözleşmesi feshi",
+          "haklı fesih",
+          "işten çıkarma"
         ]
       },
       {
-        "heading": "İşveren feshi",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Geçerli ve haklı neden ayrımı işe iade davalarında önemlidir. Savunma alınması gereken hâller vardır."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Fesih sebebini yazılılaştırın.",
-      "Tazminat kalemlerini listeleyin.",
-      "Arabuluculuğa başvurun.",
-      "Süre içinde dava açın."
+      "«iş sözleşmesi feshi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Sözlü fesih geçerli mi?",
-        "a": "İspat sorunludur; yazılı bildirim tercih edilmelidir."
+        "q": "iş sözleşmesi feshi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"
@@ -2004,13 +3249,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "gayrimenkul-satis-vaadi",
     "title": "Gayrimenkul Satış Vaadi Sözleşmesi Nedir?",
-    "description": "Satış vaadi, noter şekli, tapu şerhi ve aykırılıkta dava. Alıcı-satıcı bilgilendirme rehberi.",
+    "description": "Satış vaadi, noter şekli, tapu şerhi, dava. Bilgilendirme.",
     "h1": "Gayrimenkul satış vaadi sözleşmesi nedir?",
     "keywords": [
       "gayrimenkul satış vaadi",
       "satış vaadi sözleşmesi",
-      "tapuya şerh",
-      "ön satış sözleşmesi"
+      "tapuya şerh"
     ],
     "category": "Eşya",
     "related": [
@@ -2024,35 +3268,7234 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       },
       {
-        "label": "Eşya hukuku",
+        "label": "Eşya",
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "Gayrimenkul satış vaadi, ileride tapuda devri taahhüt eden sözleşmedir. Geçerlilik için noter resmi şekli aranır. Tapuya şerh, alıcıyı üçüncü kişilere karşı güçlendirir.",
+    "lead": "Gayrimenkul satış vaadi sözleşmesi nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «gayrimenkul satış vaadi» ve «satış vaadi sözleşmesi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
     "sections": [
       {
-        "heading": "Şekil",
+        "heading": "Eşya bağlamında konu nedir?",
         "paragraphs": [
-          "Noterlikçe düzenleme şekline uyulmazsa geçersizlik riski doğar. Harici «sözleşme» tek başına mülkiyet devretmez."
+          "Gayrimenkul satış vaadi sözleşmesi nedir? sorusu, eşya alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «gayrimenkul satış vaadi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "gayrimenkul satış vaadi",
+          "satış vaadi sözleşmesi",
+          "tapuya şerh"
         ]
       },
       {
-        "heading": "Aykırılık",
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
         "paragraphs": [
-          "Satıcı devirden kaçınırsa tapu tescil davası ve tazminat yolları gündeme gelir. Ödeme makbuzları ve şerh hayati delildir."
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ]
       }
     ],
     "steps": [
-      "Noter satış vaadi yaptırın.",
-      "Mümkünse tapuya şerh verdirin.",
-      "Ödemeleri banka üzerinden yapın.",
-      "Devir gününü sözleşmeye bağlayın."
+      "«gayrimenkul satış vaadi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
     ],
     "faq": [
       {
-        "q": "Kat karşılığı inşaat da aynı mı?",
-        "a": "Benzer fikirde olsa da arsa payı karşılığı inşaat özel hüküm ve uygulamalara tabidir."
+        "q": "gayrimenkul satış vaadi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "kiraci-nasil-tahliye-edilir",
+    "title": "Kiracı Nasıl Tahliye Edilir? Yasal Yollar",
+    "description": "Tahliye taahhüdü, ihtiyaç, iki haklı ihtar, temerrüt. Kiraya veren rehberi.",
+    "h1": "Kiracı nasıl tahliye edilir?",
+    "keywords": [
+      "kiracı nasıl çıkarılır",
+      "tahliye davası",
+      "kira tahliye taahhüdü"
+    ],
+    "category": "Kira",
+    "related": [
+      "kira-artis-orani-nasil-hesaplanir",
+      "arabuluculuk-nasil-yapilir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "TBK kira",
+        "href": "/kategori/borclar-ozel"
+      },
+      {
+        "label": "Hesaplama",
+        "href": "/hesaplama"
+      }
+    ],
+    "lead": "Kiracı nasıl tahliye edilir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kiracı nasıl çıkarılır» ve «tahliye davası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Kira bağlamında konu nedir?",
+        "paragraphs": [
+          "Kiracı nasıl tahliye edilir? sorusu, kira alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kiracı nasıl çıkarılır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kiracı nasıl çıkarılır",
+          "tahliye davası",
+          "kira tahliye taahhüdü"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«kiracı nasıl çıkarılır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "kiracı nasıl çıkarılır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "kira-teminati-iadesi",
+    "title": "Kira Depozitosu / Teminat Nasıl Geri Alınır?",
+    "description": "Depozito iadesi, kesinti sebepleri, ihtar ve dava. Kiracı rehberi.",
+    "h1": "Kira teminatı (depozito) nasıl iade alınır?",
+    "keywords": [
+      "kira depozitosu iadesi",
+      "teminat iadesi",
+      "kira depozito"
+    ],
+    "category": "Kira",
+    "related": [
+      "kiraci-nasil-tahliye-edilir",
+      "tuketici-hakem-heyeti",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-ozel"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=kira"
+      }
+    ],
+    "lead": "Kira teminatı (depozito) nasıl iade alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kira depozitosu iadesi» ve «teminat iadesi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Kira bağlamında konu nedir?",
+        "paragraphs": [
+          "Kira teminatı (depozito) nasıl iade alınır? sorusu, kira alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kira depozitosu iadesi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kira depozitosu iadesi",
+          "teminat iadesi",
+          "kira depozito"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«kira depozitosu iadesi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "kira depozitosu iadesi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ayip-mal-iade",
+    "title": "Ayıplı Mal İade ve Değişim Hakkı Nedir?",
+    "description": "Ayıp bildirimi, seçimlik haklar, garanti, tüketici başvurusu. Rehber.",
+    "h1": "Ayıplı malda iade ve değişim hakkı nedir?",
+    "keywords": [
+      "ayıplı mal iade",
+      "ayıplı mal hakları",
+      "garanti iade"
+    ],
+    "category": "Tüketici",
+    "related": [
+      "tuketici-hakem-heyeti",
+      "abonelik-iptali-tuketici",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "TKHK",
+        "href": "/kategori/tkhk"
+      },
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-ozel"
+      }
+    ],
+    "lead": "Ayıplı malda iade ve değişim hakkı nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ayıplı mal iade» ve «ayıplı mal hakları» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Tüketici bağlamında konu nedir?",
+        "paragraphs": [
+          "Ayıplı malda iade ve değişim hakkı nedir? sorusu, tüketici alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ayıplı mal iade» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ayıplı mal iade",
+          "ayıplı mal hakları",
+          "garanti iade"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ayıplı mal iade» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ayıplı mal iade için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "mesafeli-satis-cayma",
+    "title": "Mesafeli Satışta Cayma Hakkı Nasıl Kullanılır?",
+    "description": "14 günlük cayma, istisnalar, iade kargo. E-ticaret tüketicisi rehberi.",
+    "h1": "Mesafeli satışta cayma hakkı nasıl kullanılır?",
+    "keywords": [
+      "cayma hakkı",
+      "mesafeli satış cayma",
+      "e-ticaret iade"
+    ],
+    "category": "Tüketici",
+    "related": [
+      "ayip-mal-iade",
+      "tuketici-hakem-heyeti",
+      "abonelik-iptali-tuketici"
+    ],
+    "links": [
+      {
+        "label": "TKHK",
+        "href": "/kategori/tkhk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=cayma"
+      }
+    ],
+    "lead": "Mesafeli satışta cayma hakkı nasıl kullanılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «cayma hakkı» ve «mesafeli satış cayma» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Tüketici bağlamında konu nedir?",
+        "paragraphs": [
+          "Mesafeli satışta cayma hakkı nasıl kullanılır? sorusu, tüketici alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «cayma hakkı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "cayma hakkı",
+          "mesafeli satış cayma",
+          "e-ticaret iade"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«cayma hakkı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "cayma hakkı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ise-iade-davasi",
+    "title": "İşe İade Davası Nedir? Şartlar ve Süre",
+    "description": "İşe iade şartları, arabuluculuk, süre, sonuçlar. İşçi rehberi.",
+    "h1": "İşe iade davası nedir? Nasıl açılır?",
+    "keywords": [
+      "işe iade davası",
+      "işe iade şartları",
+      "geçersiz fesih"
+    ],
+    "category": "İş",
+    "related": [
+      "is-sozlesmesi-feshi",
+      "kidem-tazminati-nasil-alinir",
+      "arabuluculuk-nasil-yapilir"
+    ],
+    "links": [
+      {
+        "label": "İş Kanunu",
+        "href": "/kategori/is-kanunu"
+      },
+      {
+        "label": "Arabuluculuk",
+        "href": "/rehber/arabuluculuk"
+      }
+    ],
+    "lead": "İşe iade davası nedir? Nasıl açılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «işe iade davası» ve «işe iade şartları» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "İşe iade davası nedir? Nasıl açılır? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «işe iade davası» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "işe iade davası",
+          "işe iade şartları",
+          "geçersiz fesih"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«işe iade davası» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "işe iade davası için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ihbar-tazminati-nedir",
+    "title": "İhbar Tazminatı Nedir? Nasıl Hesaplanır?",
+    "description": "İhbar süreleri, hesap, kıdemle ilişki. İş hukuku bilgilendirme.",
+    "h1": "İhbar tazminatı nedir? Nasıl hesaplanır?",
+    "keywords": [
+      "ihbar tazminatı",
+      "ihbar süresi",
+      "ihbar tazminatı hesabı"
+    ],
+    "category": "İş",
+    "related": [
+      "kidem-tazminati-nasil-alinir",
+      "is-sozlesmesi-feshi",
+      "arabuluculuk-nasil-yapilir"
+    ],
+    "links": [
+      {
+        "label": "İş Kanunu",
+        "href": "/kategori/is-kanunu"
+      },
+      {
+        "label": "Hesaplama",
+        "href": "/hesaplama"
+      }
+    ],
+    "lead": "İhbar tazminatı nedir? Nasıl hesaplanır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ihbar tazminatı» ve «ihbar süresi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "İhbar tazminatı nedir? Nasıl hesaplanır? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ihbar tazminatı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ihbar tazminatı",
+          "ihbar süresi",
+          "ihbar tazminatı hesabı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ihbar tazminatı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ihbar tazminatı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "fazla-mesai-ucreti",
+    "title": "Fazla Mesai Ücreti Nasıl Hesaplanır ve Alınır?",
+    "description": "Fazla çalışma, ispat, zamanaşımı, arabuluculuk. İşçi rehberi.",
+    "h1": "Fazla mesai ücreti nasıl hesaplanır?",
+    "keywords": [
+      "fazla mesai ücreti",
+      "fazla çalışma",
+      "mesai alacağı"
+    ],
+    "category": "İş",
+    "related": [
+      "kidem-tazminati-nasil-alinir",
+      "arabuluculuk-nasil-yapilir",
+      "is-sozlesmesi-feshi"
+    ],
+    "links": [
+      {
+        "label": "İş Kanunu",
+        "href": "/kategori/is-kanunu"
+      },
+      {
+        "label": "Hesaplama",
+        "href": "/hesaplama"
+      }
+    ],
+    "lead": "Fazla mesai ücreti nasıl hesaplanır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «fazla mesai ücreti» ve «fazla çalışma» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "Fazla mesai ücreti nasıl hesaplanır? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «fazla mesai ücreti» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "fazla mesai ücreti",
+          "fazla çalışma",
+          "mesai alacağı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«fazla mesai ücreti» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "fazla mesai ücreti için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "issizlik-maasi-sartlari",
+    "title": "İşsizlik Maaşı Şartları Nelerdir? Başvuru",
+    "description": "İşsizlik ödeneği prim günü, başvuru, e-Devlet. Bilgilendirme.",
+    "h1": "İşsizlik maaşı şartları nelerdir?",
+    "keywords": [
+      "işsizlik maaşı şartları",
+      "işsizlik ödeneği",
+      "işsizlik maaşı başvuru"
+    ],
+    "category": "İş",
+    "related": [
+      "is-sozlesmesi-feshi",
+      "kidem-tazminati-nasil-alinir",
+      "sgk-hizmet-dokumu"
+    ],
+    "links": [
+      {
+        "label": "SSGSSK",
+        "href": "/kategori/ssgssk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=i%C5%9Fsizlik"
+      }
+    ],
+    "lead": "İşsizlik maaşı şartları nelerdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «işsizlik maaşı şartları» ve «işsizlik ödeneği» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "İşsizlik maaşı şartları nelerdir? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «işsizlik maaşı şartları» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "işsizlik maaşı şartları",
+          "işsizlik ödeneği",
+          "işsizlik maaşı başvuru"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«işsizlik maaşı şartları» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "işsizlik maaşı şartları için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "sgk-hizmet-dokumu",
+    "title": "SGK Hizmet Dökümü Nasıl Alınır? e-Devlet",
+    "description": "Hizmet dökümü, prim günü, e-Devlet adımları. Pratik rehber.",
+    "h1": "SGK hizmet dökümü nasıl alınır?",
+    "keywords": [
+      "SGK hizmet dökümü",
+      "e-devlet hizmet dökümü",
+      "prim günü sorgulama"
+    ],
+    "category": "Sosyal Güvenlik",
+    "related": [
+      "issizlik-maasi-sartlari",
+      "emeklilik-sartlari",
+      "kidem-tazminati-nasil-alinir"
+    ],
+    "links": [
+      {
+        "label": "SSGSSK",
+        "href": "/kategori/ssgssk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=SGK"
+      }
+    ],
+    "lead": "SGK hizmet dökümü nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «SGK hizmet dökümü» ve «e-devlet hizmet dökümü» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Sosyal Güvenlik bağlamında konu nedir?",
+        "paragraphs": [
+          "SGK hizmet dökümü nasıl alınır? sorusu, sosyal güvenlik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «SGK hizmet dökümü» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "SGK hizmet dökümü",
+          "e-devlet hizmet dökümü",
+          "prim günü sorgulama"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«SGK hizmet dökümü» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "SGK hizmet dökümü için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "emeklilik-sartlari",
+    "title": "Emeklilik Şartları Nelerdir? Yaş ve Prim",
+    "description": "Yaşlılık aylığı, prim günü, yaş. Genel bilgilendirme rehberi.",
+    "h1": "Emeklilik şartları nelerdir?",
+    "keywords": [
+      "emeklilik şartları",
+      "kaç prim günü",
+      "emeklilik yaşı"
+    ],
+    "category": "Sosyal Güvenlik",
+    "related": [
+      "sgk-hizmet-dokumu",
+      "issizlik-maasi-sartlari",
+      "malulen-emeklilik"
+    ],
+    "links": [
+      {
+        "label": "SSGSSK",
+        "href": "/kategori/ssgssk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=emeklilik"
+      }
+    ],
+    "lead": "Emeklilik şartları nelerdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «emeklilik şartları» ve «kaç prim günü» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Sosyal Güvenlik bağlamında konu nedir?",
+        "paragraphs": [
+          "Emeklilik şartları nelerdir? sorusu, sosyal güvenlik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «emeklilik şartları» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "emeklilik şartları",
+          "kaç prim günü",
+          "emeklilik yaşı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«emeklilik şartları» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "emeklilik şartları için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "malulen-emeklilik",
+    "title": "Malulen Emeklilik Nedir? Şartları",
+    "description": "Maluliyet oranı, prim, SGK süreci. Bilgilendirme rehberi.",
+    "h1": "Malulen emeklilik nedir? Şartları nelerdir?",
+    "keywords": [
+      "malulen emeklilik",
+      "maluliyet aylığı",
+      "malulen emeklilik şartları"
+    ],
+    "category": "Sosyal Güvenlik",
+    "related": [
+      "emeklilik-sartlari",
+      "engelli-raporu-nasil-alinir",
+      "sgk-hizmet-dokumu"
+    ],
+    "links": [
+      {
+        "label": "SSGSSK",
+        "href": "/kategori/ssgssk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=malul"
+      }
+    ],
+    "lead": "Malulen emeklilik nedir? Şartları nelerdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «malulen emeklilik» ve «maluliyet aylığı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Sosyal Güvenlik bağlamında konu nedir?",
+        "paragraphs": [
+          "Malulen emeklilik nedir? Şartları nelerdir? sorusu, sosyal güvenlik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «malulen emeklilik» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "malulen emeklilik",
+          "maluliyet aylığı",
+          "malulen emeklilik şartları"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«malulen emeklilik» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "malulen emeklilik için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "sakli-pay-nedir",
+    "title": "Saklı Pay Nedir? Tenkis Davası",
+    "description": "Saklı pay oranları, tenkis, mirasçılar. Miras rehberi.",
+    "h1": "Saklı pay nedir? Tenkis ne demektir?",
+    "keywords": [
+      "saklı pay nedir",
+      "tenkis davası",
+      "saklı pay oranları"
+    ],
+    "category": "Miras",
+    "related": [
+      "miras-payi-nasil-hesaplanir",
+      "veraset-ilami-nasil-alinir",
+      "vasiyetname-nasil-yapilir"
+    ],
+    "links": [
+      {
+        "label": "Miras",
+        "href": "/kategori/miras-hukuku"
+      },
+      {
+        "label": "Hesap",
+        "href": "/hesaplama/sakli-pay"
+      }
+    ],
+    "lead": "Saklı pay nedir? Tenkis ne demektir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «saklı pay nedir» ve «tenkis davası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Miras bağlamında konu nedir?",
+        "paragraphs": [
+          "Saklı pay nedir? Tenkis ne demektir? sorusu, miras alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «saklı pay nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "saklı pay nedir",
+          "tenkis davası",
+          "saklı pay oranları"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«saklı pay nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "saklı pay nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "vasiyetname-nasil-yapilir",
+    "title": "Vasiyetname Nasıl Yapılır? Noter ve El Yazısı",
+    "description": "Resmi, el yazılı vasiyet, şartlar, saklı pay. Bilgilendirme.",
+    "h1": "Vasiyetname nasıl yapılır?",
+    "keywords": [
+      "vasiyetname nasıl yapılır",
+      "noter vasiyet",
+      "el yazılı vasiyet"
+    ],
+    "category": "Miras",
+    "related": [
+      "sakli-pay-nedir",
+      "veraset-ilami-nasil-alinir",
+      "miras-payi-nasil-hesaplanir"
+    ],
+    "links": [
+      {
+        "label": "Miras",
+        "href": "/kategori/miras-hukuku"
+      },
+      {
+        "label": "Rehber",
+        "href": "/rehber/miras-paylasimi"
+      }
+    ],
+    "lead": "Vasiyetname nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «vasiyetname nasıl yapılır» ve «noter vasiyet» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Miras bağlamında konu nedir?",
+        "paragraphs": [
+          "Vasiyetname nasıl yapılır? sorusu, miras alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «vasiyetname nasıl yapılır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "vasiyetname nasıl yapılır",
+          "noter vasiyet",
+          "el yazılı vasiyet"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«vasiyetname nasıl yapılır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "vasiyetname nasıl yapılır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "mirasin-reddi",
+    "title": "Mirasın Reddi Nasıl Yapılır? Süre",
+    "description": "Red süresi, usul, sonuçlar. Mirasçı rehberi.",
+    "h1": "Mirasın reddi nasıl yapılır?",
+    "keywords": [
+      "mirasın reddi",
+      "miras reddi süresi",
+      "mirası reddetme"
+    ],
+    "category": "Miras",
+    "related": [
+      "veraset-ilami-nasil-alinir",
+      "miras-payi-nasil-hesaplanir",
+      "icra-takibi-nedir"
+    ],
+    "links": [
+      {
+        "label": "Miras",
+        "href": "/kategori/miras-hukuku"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=miras"
+      }
+    ],
+    "lead": "Mirasın reddi nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «mirasın reddi» ve «miras reddi süresi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Miras bağlamında konu nedir?",
+        "paragraphs": [
+          "Mirasın reddi nasıl yapılır? sorusu, miras alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «mirasın reddi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "mirasın reddi",
+          "miras reddi süresi",
+          "mirası reddetme"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«mirasın reddi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "mirasın reddi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "izale-i-suyu",
+    "title": "İzale-i Şuyu (Ortaklığın Giderilmesi) Nedir?",
+    "description": "Paylı taşınmazda satış/paylaşma davası. Bilgilendirme.",
+    "h1": "İzale-i şuyu nedir? Nasıl açılır?",
+    "keywords": [
+      "izale-i şuyu",
+      "ortaklığın giderilmesi",
+      "paylı mülkiyet satış"
+    ],
+    "category": "Eşya",
+    "related": [
+      "tapu-devri-nasil-yapilir",
+      "miras-payi-nasil-hesaplanir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Eşya",
+        "href": "/kategori/esya-hukuku"
+      },
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      }
+    ],
+    "lead": "İzale-i şuyu nedir? Nasıl açılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «izale-i şuyu» ve «ortaklığın giderilmesi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Eşya bağlamında konu nedir?",
+        "paragraphs": [
+          "İzale-i şuyu nedir? Nasıl açılır? sorusu, eşya alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «izale-i şuyu» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "izale-i şuyu",
+          "ortaklığın giderilmesi",
+          "paylı mülkiyet satış"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«izale-i şuyu» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "izale-i şuyu için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "tapu-iptal-tescil",
+    "title": "Tapu İptal ve Tescil Davası Nedir?",
+    "description": "Muris muvazaası, sahtecilik, tescil. Gayrimenkul rehberi.",
+    "h1": "Tapu iptal ve tescil davası nedir?",
+    "keywords": [
+      "tapu iptal tescil",
+      "muris muvazaası",
+      "tapu iptal davası"
+    ],
+    "category": "Eşya",
+    "related": [
+      "tapu-devri-nasil-yapilir",
+      "veraset-ilami-nasil-alinir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Eşya",
+        "href": "/kategori/esya-hukuku"
+      },
+      {
+        "label": "Miras",
+        "href": "/kategori/miras-hukuku"
+      }
+    ],
+    "lead": "Tapu iptal ve tescil davası nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «tapu iptal tescil» ve «muris muvazaası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Eşya bağlamında konu nedir?",
+        "paragraphs": [
+          "Tapu iptal ve tescil davası nedir? sorusu, eşya alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «tapu iptal tescil» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "tapu iptal tescil",
+          "muris muvazaası",
+          "tapu iptal davası"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«tapu iptal tescil» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "tapu iptal tescil için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "kat-mulkiyeti-aidat",
+    "title": "Kat Mülkiyeti Aidat Borcu ve İcra",
+    "description": "Ortak gider, aidat, icra, genel kurul. Site sakinleri rehberi.",
+    "h1": "Kat mülkiyeti aidat borcu nasıl tahsil edilir?",
+    "keywords": [
+      "aidat borcu",
+      "kat mülkiyeti aidat",
+      "site aidatı icra"
+    ],
+    "category": "Eşya",
+    "related": [
+      "icra-takibi-nedir",
+      "tapu-devri-nasil-yapilir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Kat mülkiyeti",
+        "href": "/kategori/katmulkiyeti"
+      },
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      }
+    ],
+    "lead": "Kat mülkiyeti aidat borcu nasıl tahsil edilir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «aidat borcu» ve «kat mülkiyeti aidat» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Eşya bağlamında konu nedir?",
+        "paragraphs": [
+          "Kat mülkiyeti aidat borcu nasıl tahsil edilir? sorusu, eşya alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «aidat borcu» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "aidat borcu",
+          "kat mülkiyeti aidat",
+          "site aidatı icra"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«aidat borcu» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "aidat borcu için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ihtiyati-haciz-nedir",
+    "title": "İhtiyati Haciz Nedir? Nasıl Konulur?",
+    "description": "İhtiyati haciz şartları, teminat, icra. Alacaklı rehberi.",
+    "h1": "İhtiyati haciz nedir? Nasıl istenir?",
+    "keywords": [
+      "ihtiyati haciz",
+      "ihtiyati haciz nasıl konulur",
+      "teminat"
+    ],
+    "category": "İcra",
+    "related": [
+      "icra-takibi-nedir",
+      "ihtiyati-tedbir-nedir",
+      "senet-icra-takibi"
+    ],
+    "links": [
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      },
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      }
+    ],
+    "lead": "İhtiyati haciz nedir? Nasıl istenir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ihtiyati haciz» ve «ihtiyati haciz nasıl konulur» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İcra bağlamında konu nedir?",
+        "paragraphs": [
+          "İhtiyati haciz nedir? Nasıl istenir? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ihtiyati haciz» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ihtiyati haciz",
+          "ihtiyati haciz nasıl konulur",
+          "teminat"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ihtiyati haciz» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ihtiyati haciz için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "haciz-nasil-kaldirilir",
+    "title": "Haciz Nasıl Kaldırılır? Borç Ödeme ve İtiraz",
+    "description": "Haczin kalkması, ödeme, menfi tespit, istihkak. Borçlu rehberi.",
+    "h1": "Haciz nasıl kaldırılır?",
+    "keywords": [
+      "haciz nasıl kaldırılır",
+      "haciz kaldırma",
+      "menkul haciz"
+    ],
+    "category": "İcra",
+    "related": [
+      "icra-takibi-nedir",
+      "odeme-emrine-itiraz",
+      "icra-dosyasi-sorgulama"
+    ],
+    "links": [
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      },
+      {
+        "label": "Faiz",
+        "href": "/hesaplama/faiz"
+      }
+    ],
+    "lead": "Haciz nasıl kaldırılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «haciz nasıl kaldırılır» ve «haciz kaldırma» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İcra bağlamında konu nedir?",
+        "paragraphs": [
+          "Haciz nasıl kaldırılır? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «haciz nasıl kaldırılır» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "haciz nasıl kaldırılır",
+          "haciz kaldırma",
+          "menkul haciz"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«haciz nasıl kaldırılır» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "haciz nasıl kaldırılır için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "kefalet-sozlesmesi",
+    "title": "Kefalet Sözleşmesi Nedir? Riskler",
+    "description": "Kefil sorumluluğu, şekil, azami tutar. Bilgilendirme.",
+    "h1": "Kefalet sözleşmesi nedir? Nelere dikkat edilmeli?",
+    "keywords": [
+      "kefalet sözleşmesi",
+      "kefil olmak",
+      "kefalet riski"
+    ],
+    "category": "Borçlar",
+    "related": [
+      "icra-takibi-nedir",
+      "hukuk-davasi-nasil-acilir",
+      "senet-icra-takibi"
+    ],
+    "links": [
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-genel"
+      },
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      }
+    ],
+    "lead": "Kefalet sözleşmesi nedir? Nelere dikkat edilmeli konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kefalet sözleşmesi» ve «kefil olmak» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Borçlar bağlamında konu nedir?",
+        "paragraphs": [
+          "Kefalet sözleşmesi nedir? Nelere dikkat edilmeli? sorusu, borçlar alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kefalet sözleşmesi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kefalet sözleşmesi",
+          "kefil olmak",
+          "kefalet riski"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«kefalet sözleşmesi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "kefalet sözleşmesi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "zamanaşimi-nedir",
+    "title": "Zamanaşımı Nedir? Alacaklarda Süreler",
+    "description": "Zamanaşımı, hak düşürücü süre, kesilme. Genel rehber.",
+    "h1": "Zamanaşımı nedir? Ne zaman dolur?",
+    "keywords": [
+      "zamanaşımı nedir",
+      "alacak zamanaşımı",
+      "10 yıllık zamanaşımı"
+    ],
+    "category": "Usul",
+    "related": [
+      "hukuk-davasi-nasil-acilir",
+      "icra-takibi-nedir",
+      "kidem-tazminati-nasil-alinir"
+    ],
+    "links": [
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-genel"
+      },
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      }
+    ],
+    "lead": "Zamanaşımı nedir? Ne zaman dolur konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «zamanaşımı nedir» ve «alacak zamanaşımı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Zamanaşımı nedir? Ne zaman dolur? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «zamanaşımı nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "zamanaşımı nedir",
+          "alacak zamanaşımı",
+          "10 yıllık zamanaşımı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«zamanaşımı nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "zamanaşımı nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "istinaf-nedir",
+    "title": "İstinaf Nedir? Nasıl Başvurulur?",
+    "description": "İstinaf süresi, dilekçe, BAM. Kanun yolu rehberi.",
+    "h1": "İstinaf nedir? Nasıl başvurulur?",
+    "keywords": [
+      "istinaf nedir",
+      "istinaf süresi",
+      "istinaf dilekçesi"
+    ],
+    "category": "Usul",
+    "related": [
+      "temyiz-nedir",
+      "hukuk-davasi-nasil-acilir",
+      "idari-dava-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      },
+      {
+        "label": "Mevzuat",
+        "href": "/mevzuat"
+      }
+    ],
+    "lead": "İstinaf nedir? Nasıl başvurulur konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «istinaf nedir» ve «istinaf süresi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "İstinaf nedir? Nasıl başvurulur? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «istinaf nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "istinaf nedir",
+          "istinaf süresi",
+          "istinaf dilekçesi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«istinaf nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "istinaf nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "temyiz-nedir",
+    "title": "Temyiz Nedir? Yargıtay Başvurusu",
+    "description": "Temyiz şartları, süre, Yargıtay. Kanun yolu rehberi.",
+    "h1": "Temyiz nedir? Nasıl yapılır?",
+    "keywords": [
+      "temyiz nedir",
+      "Yargıtay temyiz",
+      "temyiz süresi"
+    ],
+    "category": "Usul",
+    "related": [
+      "istinaf-nedir",
+      "hukuk-davasi-nasil-acilir",
+      "idari-dava-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      },
+      {
+        "label": "İçtihat",
+        "href": "/icthat"
+      }
+    ],
+    "lead": "Temyiz nedir? Nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «temyiz nedir» ve «Yargıtay temyiz» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Temyiz nedir? Nasıl yapılır? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «temyiz nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "temyiz nedir",
+          "Yargıtay temyiz",
+          "temyiz süresi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«temyiz nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "temyiz nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "bilirkisi-raporu-itiraz",
+    "title": "Bilirkişi Raporuna İtiraz Nasıl Yapılır?",
+    "description": "Süre, ek rapor, itiraz gerekçesi. Yargılama rehberi.",
+    "h1": "Bilirkişi raporuna itiraz nasıl yapılır?",
+    "keywords": [
+      "bilirkişi raporuna itiraz",
+      "bilirkişi itiraz süresi"
+    ],
+    "category": "Usul",
+    "related": [
+      "hukuk-davasi-nasil-acilir",
+      "istinaf-nedir",
+      "is-kazasi-tazminati"
+    ],
+    "links": [
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=bilirki%C5%9Fi"
+      }
+    ],
+    "lead": "Bilirkişi raporuna itiraz nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «bilirkişi raporuna itiraz» ve «bilirkişi itiraz süresi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Bilirkişi raporuna itiraz nasıl yapılır? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «bilirkişi raporuna itiraz» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "bilirkişi raporuna itiraz",
+          "bilirkişi itiraz süresi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«bilirkişi raporuna itiraz» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "bilirkişi raporuna itiraz için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "tanik-dinletme",
+    "title": "Duruşmada Tanık Dinletme Nasıl Olur?",
+    "description": "Tanık listesi, usul, yalan tanıklık riski. Bilgilendirme.",
+    "h1": "Mahkemede tanık nasıl dinletir?",
+    "keywords": [
+      "tanık dinletme",
+      "tanık listesi",
+      "mahkeme tanık"
+    ],
+    "category": "Usul",
+    "related": [
+      "hukuk-davasi-nasil-acilir",
+      "savcilik-suc-duyurusu",
+      "bosanma-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      },
+      {
+        "label": "CMK",
+        "href": "/kategori/cmk"
+      }
+    ],
+    "lead": "Mahkemede tanık nasıl dinletir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «tanık dinletme» ve «tanık listesi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Mahkemede tanık nasıl dinletir? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «tanık dinletme» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "tanık dinletme",
+          "tanık listesi",
+          "mahkeme tanık"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«tanık dinletme» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "tanık dinletme için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "arabuluculuk-anlasma-belgesi",
+    "title": "Arabuluculuk Anlaşma Belgesi Nedir?",
+    "description": "İlam niteliği, icra, iptal. Pratik rehber.",
+    "h1": "Arabuluculuk anlaşma belgesi nedir?",
+    "keywords": [
+      "arabuluculuk anlaşma belgesi",
+      "arabuluculuk icra"
+    ],
+    "category": "Usul",
+    "related": [
+      "arabuluculuk-nasil-yapilir",
+      "icra-takibi-nedir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Arabuluculuk",
+        "href": "/kategori/arabuluculuk"
+      },
+      {
+        "label": "Rehber",
+        "href": "/rehber/arabuluculuk"
+      }
+    ],
+    "lead": "Arabuluculuk anlaşma belgesi nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «arabuluculuk anlaşma belgesi» ve «arabuluculuk icra» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Arabuluculuk anlaşma belgesi nedir? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «arabuluculuk anlaşma belgesi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "arabuluculuk anlaşma belgesi",
+          "arabuluculuk icra"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«arabuluculuk anlaşma belgesi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "arabuluculuk anlaşma belgesi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "is-kazasi-bildirimi",
+    "title": "İş Kazası Bildirimi Nasıl Yapılır? Süre",
+    "description": "İşveren bildirimi, SGK, süreler. İşyeri rehberi.",
+    "h1": "İş kazası bildirimi nasıl yapılır?",
+    "keywords": [
+      "iş kazası bildirimi",
+      "SGK iş kazası bildirimi",
+      "iş kazası süresi"
+    ],
+    "category": "İş",
+    "related": [
+      "is-kazasi-tazminati",
+      "is-sozlesmesi-feshi",
+      "sgk-hizmet-dokumu"
+    ],
+    "links": [
+      {
+        "label": "İSG",
+        "href": "/kategori/isg"
+      },
+      {
+        "label": "İş Kanunu",
+        "href": "/kategori/is-kanunu"
+      }
+    ],
+    "lead": "İş kazası bildirimi nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «iş kazası bildirimi» ve «SGK iş kazası bildirimi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "İş kazası bildirimi nasıl yapılır? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «iş kazası bildirimi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "iş kazası bildirimi",
+          "SGK iş kazası bildirimi",
+          "iş kazası süresi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«iş kazası bildirimi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "iş kazası bildirimi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "mobbing-nedir",
+    "title": "Mobbing (Psikolojik Taciz) Nedir? Ne Yapılır?",
+    "description": "İşyerinde mobbing ispatı, ihbar, tazminat. Bilgilendirme.",
+    "h1": "Mobbing nedir? Hukuken ne yapılabilir?",
+    "keywords": [
+      "mobbing nedir",
+      "işyerinde mobbing",
+      "psikolojik taciz işyeri"
+    ],
+    "category": "İş",
+    "related": [
+      "is-sozlesmesi-feshi",
+      "kidem-tazminati-nasil-alinir",
+      "ise-iade-davasi"
+    ],
+    "links": [
+      {
+        "label": "İş Kanunu",
+        "href": "/kategori/is-kanunu"
+      },
+      {
+        "label": "TCK",
+        "href": "/kategori/tck-kisiler"
+      }
+    ],
+    "lead": "Mobbing nedir? Hukuken ne yapılabilir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «mobbing nedir» ve «işyerinde mobbing» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "Mobbing nedir? Hukuken ne yapılabilir? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «mobbing nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "mobbing nedir",
+          "işyerinde mobbing",
+          "psikolojik taciz işyeri"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«mobbing nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "mobbing nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "cinsel-taciz-sikayet",
+    "title": "İşyerinde Cinsel Taciz Şikayeti Nasıl Yapılır?",
+    "description": "Şikayet mercileri, delil, 6284 ve ceza. Bilgilendirme.",
+    "h1": "İşyerinde cinsel taciz şikayeti nasıl yapılır?",
+    "keywords": [
+      "işyerinde cinsel taciz",
+      "cinsel taciz şikayet"
+    ],
+    "category": "İş",
+    "related": [
+      "koruma-karari-6284",
+      "savcilik-suc-duyurusu",
+      "is-sozlesmesi-feshi"
+    ],
+    "links": [
+      {
+        "label": "TCK",
+        "href": "/kategori/tck-kisiler"
+      },
+      {
+        "label": "CMK",
+        "href": "/kategori/cmk"
+      }
+    ],
+    "lead": "İşyerinde cinsel taciz şikayeti nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «işyerinde cinsel taciz» ve «cinsel taciz şikayet» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "İşyerinde cinsel taciz şikayeti nasıl yapılır? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «işyerinde cinsel taciz» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "işyerinde cinsel taciz",
+          "cinsel taciz şikayet"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«işyerinde cinsel taciz» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "işyerinde cinsel taciz için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "cocuk-nafaka-artirim",
+    "title": "Çocuk Nafakası Artırım Davası",
+    "description": "İştirak nafakası artırım şartları. Aile rehberi.",
+    "h1": "Çocuk nafakası nasıl artırılır?",
+    "keywords": [
+      "nafaka artırım davası",
+      "iştirak nafakası artırma"
+    ],
+    "category": "Aile",
+    "related": [
+      "nafaka-davasi-nedir",
+      "velayet-davasi",
+      "bosanma-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Nafaka",
+        "href": "/hesaplama/nafaka"
+      },
+      {
+        "label": "Aile",
+        "href": "/kategori/aile-hukuku"
+      }
+    ],
+    "lead": "Çocuk nafakası nasıl artırılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «nafaka artırım davası» ve «iştirak nafakası artırma» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Aile bağlamında konu nedir?",
+        "paragraphs": [
+          "Çocuk nafakası nasıl artırılır? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «nafaka artırım davası» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "nafaka artırım davası",
+          "iştirak nafakası artırma"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«nafaka artırım davası» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "nafaka artırım davası için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "mal-rejimi-tasfiyesi",
+    "title": "Mal Rejimi Tasfiyesi Nedir? Katılma Alacağı",
+    "description": "Edinilmiş mallara katılma, tasfiye davası. Bilgilendirme.",
+    "h1": "Mal rejimi tasfiyesi nedir?",
+    "keywords": [
+      "mal rejimi tasfiyesi",
+      "katılma alacağı",
+      "edinilmiş mallar"
+    ],
+    "category": "Aile",
+    "related": [
+      "bosanma-davasi-nasil-acilir",
+      "tapu-devri-nasil-yapilir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Aile",
+        "href": "/kategori/aile-hukuku"
+      },
+      {
+        "label": "Hesaplama",
+        "href": "/hesaplama"
+      }
+    ],
+    "lead": "Mal rejimi tasfiyesi nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «mal rejimi tasfiyesi» ve «katılma alacağı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Aile bağlamında konu nedir?",
+        "paragraphs": [
+          "Mal rejimi tasfiyesi nedir? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «mal rejimi tasfiyesi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "mal rejimi tasfiyesi",
+          "katılma alacağı",
+          "edinilmiş mallar"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«mal rejimi tasfiyesi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "mal rejimi tasfiyesi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ziynet-esyalari-davasi",
+    "title": "Ziynet Eşyası (Altın) Davası Nedir?",
+    "description": "Düğün takıları, ispat, iade. Aile/borçlar rehberi.",
+    "h1": "Ziynet eşyası davası nedir?",
+    "keywords": [
+      "ziynet davası",
+      "düğün takıları davası",
+      "altın iadesi"
+    ],
+    "category": "Aile",
+    "related": [
+      "bosanma-davasi-nasil-acilir",
+      "mal-rejimi-tasfiyesi",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Aile",
+        "href": "/kategori/aile-hukuku"
+      },
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-genel"
+      }
+    ],
+    "lead": "Ziynet eşyası davası nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ziynet davası» ve «düğün takıları davası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Aile bağlamında konu nedir?",
+        "paragraphs": [
+          "Ziynet eşyası davası nedir? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ziynet davası» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ziynet davası",
+          "düğün takıları davası",
+          "altın iadesi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ziynet davası» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ziynet davası için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "soybagi-reddi",
+    "title": "Soybağının Reddi Davası Nedir?",
+    "description": "Babalık karinesi, süre, DNA. Aile hukuku rehberi.",
+    "h1": "Soybağının reddi davası nedir?",
+    "keywords": [
+      "soybağının reddi",
+      "babalık davası",
+      "soybağı reddi süresi"
+    ],
+    "category": "Aile",
+    "related": [
+      "velayet-davasi",
+      "nafaka-davasi-nedir",
+      "nufus-kayit-ornegi"
+    ],
+    "links": [
+      {
+        "label": "Aile",
+        "href": "/kategori/aile-hukuku"
+      },
+      {
+        "label": "NHK",
+        "href": "/kategori/nhk"
+      }
+    ],
+    "lead": "Soybağının reddi davası nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «soybağının reddi» ve «babalık davası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Aile bağlamında konu nedir?",
+        "paragraphs": [
+          "Soybağının reddi davası nedir? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «soybağının reddi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "soybağının reddi",
+          "babalık davası",
+          "soybağı reddi süresi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«soybağının reddi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "soybağının reddi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "evlat-edinme",
+    "title": "Evlat Edinme Şartları Nelerdir?",
+    "description": "Yaş, rıza, mahkeme. Aile rehberi.",
+    "h1": "Evlat edinme şartları nelerdir?",
+    "keywords": [
+      "evlat edinme şartları",
+      "evlat edinme davası"
+    ],
+    "category": "Aile",
+    "related": [
+      "velayet-davasi",
+      "nufus-kayit-ornegi",
+      "veraset-ilami-nasil-alinir"
+    ],
+    "links": [
+      {
+        "label": "Aile",
+        "href": "/kategori/aile-hukuku"
+      },
+      {
+        "label": "NHK",
+        "href": "/kategori/nhk"
+      }
+    ],
+    "lead": "Evlat edinme şartları nelerdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «evlat edinme şartları» ve «evlat edinme davası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Aile bağlamında konu nedir?",
+        "paragraphs": [
+          "Evlat edinme şartları nelerdir? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «evlat edinme şartları» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "evlat edinme şartları",
+          "evlat edinme davası"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«evlat edinme şartları» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "evlat edinme şartları için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ceza-sorusturmasi-sureci",
+    "title": "Ceza Soruşturması Nasıl İşler?",
+    "description": "İfade, gözaltı, iddianame. Vatandaş bilgilendirme.",
+    "h1": "Ceza soruşturması nasıl yürür?",
+    "keywords": [
+      "ceza soruşturması",
+      "ifade alma",
+      "gözaltı hakları"
+    ],
+    "category": "Ceza",
+    "related": [
+      "savcilik-suc-duyurusu",
+      "gozalti-haklari",
+      "tebligat-usulsuzlugu"
+    ],
+    "links": [
+      {
+        "label": "CMK",
+        "href": "/kategori/cmk"
+      },
+      {
+        "label": "TCK",
+        "href": "/kategori/tck-genel"
+      }
+    ],
+    "lead": "Ceza soruşturması nasıl yürür konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ceza soruşturması» ve «ifade alma» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Ceza bağlamında konu nedir?",
+        "paragraphs": [
+          "Ceza soruşturması nasıl yürür? sorusu, ceza alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ceza soruşturması» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ceza soruşturması",
+          "ifade alma",
+          "gözaltı hakları"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ceza soruşturması» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ceza soruşturması için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "gozalti-haklari",
+    "title": "Gözaltında Haklarınız Nelerdir?",
+    "description": "Müdafi, susma, aile bilgilendirme. Temel haklar rehberi.",
+    "h1": "Gözaltında haklarınız nelerdir?",
+    "keywords": [
+      "gözaltı hakları",
+      "müdafi hakkı",
+      "gözaltı süresi"
+    ],
+    "category": "Ceza",
+    "related": [
+      "ceza-sorusturmasi-sureci",
+      "savcilik-suc-duyurusu",
+      "koruma-karari-6284"
+    ],
+    "links": [
+      {
+        "label": "CMK",
+        "href": "/kategori/cmk"
+      },
+      {
+        "label": "PVSK",
+        "href": "/kategori/pvsk"
+      }
+    ],
+    "lead": "Gözaltında haklarınız nelerdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «gözaltı hakları» ve «müdafi hakkı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Ceza bağlamında konu nedir?",
+        "paragraphs": [
+          "Gözaltında haklarınız nelerdir? sorusu, ceza alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «gözaltı hakları» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "gözaltı hakları",
+          "müdafi hakkı",
+          "gözaltı süresi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«gözaltı hakları» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "gözaltı hakları için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "uzlastirma-nedir",
+    "title": "Ceza Uzlaştırması Nedir?",
+    "description": "Uzlaştırma kapsamı, süreç, sonuç. Bilgilendirme.",
+    "h1": "Uzlaştırma nedir? Nasıl işler?",
+    "keywords": [
+      "ceza uzlaştırması",
+      "uzlaştırma nedir",
+      "uzlaştırma dosyası"
+    ],
+    "category": "Ceza",
+    "related": [
+      "savcilik-suc-duyurusu",
+      "ceza-sorusturmasi-sureci",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "CMK",
+        "href": "/kategori/cmk"
+      },
+      {
+        "label": "TCK",
+        "href": "/kategori/tck-genel"
+      }
+    ],
+    "lead": "Uzlaştırma nedir? Nasıl işler konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ceza uzlaştırması» ve «uzlaştırma nedir» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Ceza bağlamında konu nedir?",
+        "paragraphs": [
+          "Uzlaştırma nedir? Nasıl işler? sorusu, ceza alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ceza uzlaştırması» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ceza uzlaştırması",
+          "uzlaştırma nedir",
+          "uzlaştırma dosyası"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ceza uzlaştırması» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ceza uzlaştırması için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "adli-sicil-kaydi",
+    "title": "Adli Sicil Kaydı Nasıl Alınır? Silinme",
+    "description": "e-Devlet adli sicil, arşiv kaydı. Bilgilendirme.",
+    "h1": "Adli sicil kaydı nasıl alınır?",
+    "keywords": [
+      "adli sicil kaydı",
+      "sabıka kaydı e-devlet",
+      "adli sicil silme"
+    ],
+    "category": "Ceza",
+    "related": [
+      "ceza-sorusturmasi-sureci",
+      "ehliyet-alma-sartlari",
+      "is-sozlesmesi-feshi"
+    ],
+    "links": [
+      {
+        "label": "Ara",
+        "href": "/ara?q=adli%20sicil"
+      },
+      {
+        "label": "CMK",
+        "href": "/kategori/cmk"
+      }
+    ],
+    "lead": "Adli sicil kaydı nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «adli sicil kaydı» ve «sabıka kaydı e-devlet» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Ceza bağlamında konu nedir?",
+        "paragraphs": [
+          "Adli sicil kaydı nasıl alınır? sorusu, ceza alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «adli sicil kaydı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "adli sicil kaydı",
+          "sabıka kaydı e-devlet",
+          "adli sicil silme"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«adli sicil kaydı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "adli sicil kaydı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "trafik-kazasi-tazminati",
+    "title": "Trafik Kazası Tazminatı Nasıl Alınır?",
+    "description": "Maddi-manevi, sigorta, kusur. Kaza mağduru rehberi.",
+    "h1": "Trafik kazası tazminatı nasıl alınır?",
+    "keywords": [
+      "trafik kazası tazminatı",
+      "trafik sigortası tazminat",
+      "maddi hasar"
+    ],
+    "category": "Trafik",
+    "related": [
+      "trafik-cezasina-itiraz",
+      "hukuk-davasi-nasil-acilir",
+      "is-kazasi-tazminati"
+    ],
+    "links": [
+      {
+        "label": "KTK",
+        "href": "/kategori/ktk"
+      },
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-genel"
+      }
+    ],
+    "lead": "Trafik kazası tazminatı nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «trafik kazası tazminatı» ve «trafik sigortası tazminat» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Trafik bağlamında konu nedir?",
+        "paragraphs": [
+          "Trafik kazası tazminatı nasıl alınır? sorusu, trafik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «trafik kazası tazminatı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "trafik kazası tazminatı",
+          "trafik sigortası tazminat",
+          "maddi hasar"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«trafik kazası tazminatı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "trafik kazası tazminatı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "trafik-sigortasi-hasar",
+    "title": "Trafik Sigortası Hasar İhbarı Nasıl Yapılır?",
+    "description": "Zorunlu trafik, kasko, ihbar süresi. Pratik rehber.",
+    "h1": "Trafik sigortası hasar ihbarı nasıl yapılır?",
+    "keywords": [
+      "trafik sigortası hasar",
+      "kasko hasar ihbarı",
+      "sigorta dosyası"
+    ],
+    "category": "Trafik",
+    "related": [
+      "trafik-kazasi-tazminati",
+      "trafik-cezasina-itiraz",
+      "tuketici-hakem-heyeti"
+    ],
+    "links": [
+      {
+        "label": "KTK",
+        "href": "/kategori/ktk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=sigorta"
+      }
+    ],
+    "lead": "Trafik sigortası hasar ihbarı nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «trafik sigortası hasar» ve «kasko hasar ihbarı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Trafik bağlamında konu nedir?",
+        "paragraphs": [
+          "Trafik sigortası hasar ihbarı nasıl yapılır? sorusu, trafik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «trafik sigortası hasar» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "trafik sigortası hasar",
+          "kasko hasar ihbarı",
+          "sigorta dosyası"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«trafik sigortası hasar» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "trafik sigortası hasar için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ehliyet-geri-alma",
+    "title": "Ehliyete El Koyma ve Geri Alma",
+    "description": "Alkol, ceza puanı, iade şartları. Bilgilendirme.",
+    "h1": "Ehliyete el konulursa nasıl geri alınır?",
+    "keywords": [
+      "ehliyete el koyma",
+      "ehliyet iadesi",
+      "ehliyet ceza puanı"
+    ],
+    "category": "Trafik",
+    "related": [
+      "ehliyet-alma-sartlari",
+      "trafik-cezasina-itiraz",
+      "idari-dava-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "KTK",
+        "href": "/kategori/ktk"
+      },
+      {
+        "label": "Mevzuat",
+        "href": "/mevzuat"
+      }
+    ],
+    "lead": "Ehliyete el konulursa nasıl geri alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ehliyete el koyma» ve «ehliyet iadesi» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Trafik bağlamında konu nedir?",
+        "paragraphs": [
+          "Ehliyete el konulursa nasıl geri alınır? sorusu, trafik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ehliyete el koyma» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ehliyete el koyma",
+          "ehliyet iadesi",
+          "ehliyet ceza puanı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ehliyete el koyma» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ehliyete el koyma için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "pasaport-basvurusu",
+    "title": "Pasaport Başvurusu Nasıl Yapılır? e-Devlet",
+    "description": "Randevu, belgeler, süre. Vatandaş rehberi.",
+    "h1": "Pasaport başvurusu nasıl yapılır?",
+    "keywords": [
+      "pasaport başvurusu",
+      "e-devlet pasaport",
+      "pasaport randevu"
+    ],
+    "category": "Nüfus",
+    "related": [
+      "nufus-kayit-ornegi",
+      "ehliyet-alma-sartlari",
+      "yabanci-ikamet-izni"
+    ],
+    "links": [
+      {
+        "label": "NHK",
+        "href": "/kategori/nhk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=pasaport"
+      }
+    ],
+    "lead": "Pasaport başvurusu nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «pasaport başvurusu» ve «e-devlet pasaport» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Nüfus bağlamında konu nedir?",
+        "paragraphs": [
+          "Pasaport başvurusu nasıl yapılır? sorusu, nüfus alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «pasaport başvurusu» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "pasaport başvurusu",
+          "e-devlet pasaport",
+          "pasaport randevu"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«pasaport başvurusu» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "pasaport başvurusu için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "yabanci-ikamet-izni",
+    "title": "Yabancı İkamet İzni Nedir? Başvuru",
+    "description": "Kısa/uzun dönem ikamet, evrak. Bilgilendirme.",
+    "h1": "Yabancılar için ikamet izni nasıl alınır?",
+    "keywords": [
+      "ikamet izni",
+      "yabancı ikamet izni başvuru"
+    ],
+    "category": "Yabancılar",
+    "related": [
+      "pasaport-basvurusu",
+      "calisma-izni-nedir",
+      "sinir-disi-karari"
+    ],
+    "links": [
+      {
+        "label": "YUKK",
+        "href": "/kategori/yukk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=ikamet"
+      }
+    ],
+    "lead": "Yabancılar için ikamet izni nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ikamet izni» ve «yabancı ikamet izni başvuru» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Yabancılar bağlamında konu nedir?",
+        "paragraphs": [
+          "Yabancılar için ikamet izni nasıl alınır? sorusu, yabancılar alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ikamet izni» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ikamet izni",
+          "yabancı ikamet izni başvuru"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ikamet izni» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ikamet izni için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "calisma-izni-nedir",
+    "title": "Çalışma İzni Nedir? Nasıl Alınır?",
+    "description": "Yabancı çalışma izni, işveren başvurusu. Rehber.",
+    "h1": "Çalışma izni nedir? Nasıl alınır?",
+    "keywords": [
+      "çalışma izni",
+      "yabancı çalışma izni"
+    ],
+    "category": "Yabancılar",
+    "related": [
+      "yabanci-ikamet-izni",
+      "is-sozlesmesi-feshi",
+      "sgk-hizmet-dokumu"
+    ],
+    "links": [
+      {
+        "label": "YUKK",
+        "href": "/kategori/yukk"
+      },
+      {
+        "label": "İş Kanunu",
+        "href": "/kategori/is-kanunu"
+      }
+    ],
+    "lead": "Çalışma izni nedir? Nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «çalışma izni» ve «yabancı çalışma izni» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Yabancılar bağlamında konu nedir?",
+        "paragraphs": [
+          "Çalışma izni nedir? Nasıl alınır? sorusu, yabancılar alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «çalışma izni» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "çalışma izni",
+          "yabancı çalışma izni"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«çalışma izni» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "çalışma izni için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "sinir-disi-karari",
+    "title": "Sınır Dışı Kararı Nedir? İtiraz",
+    "description": "Sınır dışı, idari gözetim, itiraz. Bilgilendirme.",
+    "h1": "Sınır dışı kararına nasıl itiraz edilir?",
+    "keywords": [
+      "sınır dışı kararı",
+      "sınır dışı itiraz",
+      "idari gözetim"
+    ],
+    "category": "Yabancılar",
+    "related": [
+      "idari-dava-nasil-acilir",
+      "yabanci-ikamet-izni",
+      "tebligat-usulsuzlugu"
+    ],
+    "links": [
+      {
+        "label": "YUKK",
+        "href": "/kategori/yukk"
+      },
+      {
+        "label": "İdare",
+        "href": "/mevzuat"
+      }
+    ],
+    "lead": "Sınır dışı kararına nasıl itiraz edilir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «sınır dışı kararı» ve «sınır dışı itiraz» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Yabancılar bağlamında konu nedir?",
+        "paragraphs": [
+          "Sınır dışı kararına nasıl itiraz edilir? sorusu, yabancılar alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «sınır dışı kararı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "sınır dışı kararı",
+          "sınır dışı itiraz",
+          "idari gözetim"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«sınır dışı kararı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "sınır dışı kararı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "kvkk-basvuru-hakki",
+    "title": "KVKK Başvuru ve Şikayet Hakkı Nedir?",
+    "description": "Veri sorumlusuna başvuru, Kurul şikayeti. Bilgilendirme.",
+    "h1": "KVKK kapsamında haklarınız nelerdir?",
+    "keywords": [
+      "KVKK başvuru",
+      "kişisel veri şikayet",
+      "veri silme talebi"
+    ],
+    "category": "Kişisel Veri",
+    "related": [
+      "tuketici-hakem-heyeti",
+      "idari-dava-nasil-acilir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "KVKK",
+        "href": "/kategori/kvkk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=KVKK"
+      }
+    ],
+    "lead": "KVKK kapsamında haklarınız nelerdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «KVKK başvuru» ve «kişisel veri şikayet» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Kişisel Veri bağlamında konu nedir?",
+        "paragraphs": [
+          "KVKK kapsamında haklarınız nelerdir? sorusu, kişisel veri alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «KVKK başvuru» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "KVKK başvuru",
+          "kişisel veri şikayet",
+          "veri silme talebi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«KVKK başvuru» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "KVKK başvuru için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "bilgi-edinme-basvurusu",
+    "title": "Bilgi Edinme Başvurusu Nasıl Yapılır?",
+    "description": "4982 sayılı Kanun, CİMER, red itirazı. Rehber.",
+    "h1": "Bilgi edinme başvurusu nasıl yapılır?",
+    "keywords": [
+      "bilgi edinme başvurusu",
+      "CİMER bilgi edinme",
+      "4982"
+    ],
+    "category": "İdare",
+    "related": [
+      "idari-dava-nasil-acilir",
+      "tebligat-usulsuzlugu",
+      "kamulastirma-nedir"
+    ],
+    "links": [
+      {
+        "label": "Mevzuat",
+        "href": "/mevzuat"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=bilgi%20edinme"
+      }
+    ],
+    "lead": "Bilgi edinme başvurusu nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «bilgi edinme başvurusu» ve «CİMER bilgi edinme» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İdare bağlamında konu nedir?",
+        "paragraphs": [
+          "Bilgi edinme başvurusu nasıl yapılır? sorusu, idare alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «bilgi edinme başvurusu» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "bilgi edinme başvurusu",
+          "CİMER bilgi edinme",
+          "4982"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«bilgi edinme başvurusu» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "bilgi edinme başvurusu için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "cimer-sikayet",
+    "title": "CİMER Şikayet / Başvuru Nasıl Yapılır?",
+    "description": "CİMER adımları, süre, takip. Pratik rehber.",
+    "h1": "CİMER’e nasıl başvurulur?",
+    "keywords": [
+      "CİMER şikayet",
+      "CİMER başvuru",
+      "CİMER ne işe yarar"
+    ],
+    "category": "İdare",
+    "related": [
+      "bilgi-edinme-basvurusu",
+      "idari-dava-nasil-acilir",
+      "trafik-cezasina-itiraz"
+    ],
+    "links": [
+      {
+        "label": "Mevzuat",
+        "href": "/mevzuat"
+      },
+      {
+        "label": "İçtihat",
+        "href": "/icthat"
+      }
+    ],
+    "lead": "CİMER’e nasıl başvurulur konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «CİMER şikayet» ve «CİMER başvuru» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İdare bağlamında konu nedir?",
+        "paragraphs": [
+          "CİMER’e nasıl başvurulur? sorusu, idare alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «CİMER şikayet» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "CİMER şikayet",
+          "CİMER başvuru",
+          "CİMER ne işe yarar"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«CİMER şikayet» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "CİMER şikayet için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "belediye-cezasi-itiraz",
+    "title": "Belediye Cezasına İtiraz Nasıl Yapılır?",
+    "description": "İdari para cezası, zabıta, itiraz mercileri. Rehber.",
+    "h1": "Belediye cezasına nasıl itiraz edilir?",
+    "keywords": [
+      "belediye cezası itiraz",
+      "zabıta cezası",
+      "idari para cezası belediye"
+    ],
+    "category": "İdare",
+    "related": [
+      "idari-dava-nasil-acilir",
+      "trafik-cezasina-itiraz",
+      "kacak-yapi-cezasi"
+    ],
+    "links": [
+      {
+        "label": "Belediye",
+        "href": "/kategori/belediye"
+      },
+      {
+        "label": "İmar",
+        "href": "/kategori/imar"
+      }
+    ],
+    "lead": "Belediye cezasına nasıl itiraz edilir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «belediye cezası itiraz» ve «zabıta cezası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İdare bağlamında konu nedir?",
+        "paragraphs": [
+          "Belediye cezasına nasıl itiraz edilir? sorusu, idare alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «belediye cezası itiraz» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "belediye cezası itiraz",
+          "zabıta cezası",
+          "idari para cezası belediye"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«belediye cezası itiraz» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "belediye cezası itiraz için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "imar-durumu-nedir",
+    "title": "İmar Durumu Belgesi Nedir? Nasıl Alınır?",
+    "description": "İmar lejandı, emsal, başvuru. Arsa/malik rehberi.",
+    "h1": "İmar durumu belgesi nedir?",
+    "keywords": [
+      "imar durumu",
+      "imar lejandı",
+      "imar durumu nasıl alınır"
+    ],
+    "category": "İmar",
+    "related": [
+      "iskan-belgesi-nedir",
+      "kacak-yapi-cezasi",
+      "tapu-devri-nasil-yapilir"
+    ],
+    "links": [
+      {
+        "label": "İmar",
+        "href": "/kategori/imar"
+      },
+      {
+        "label": "Belediye",
+        "href": "/kategori/belediye"
+      }
+    ],
+    "lead": "İmar durumu belgesi nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «imar durumu» ve «imar lejandı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İmar bağlamında konu nedir?",
+        "paragraphs": [
+          "İmar durumu belgesi nedir? sorusu, imar alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «imar durumu» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "imar durumu",
+          "imar lejandı",
+          "imar durumu nasıl alınır"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«imar durumu» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "imar durumu için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "yapı-ruhsati-nedir",
+    "title": "Yapı Ruhsatı Nedir? Nasıl Alınır?",
+    "description": "Ruhsat evrakı, yapı denetim, süre. İnşaat rehberi.",
+    "h1": "Yapı ruhsatı nasıl alınır?",
+    "keywords": [
+      "yapı ruhsatı",
+      "inşaat ruhsatı",
+      "ruhsat nasıl alınır"
+    ],
+    "category": "İmar",
+    "related": [
+      "iskan-belgesi-nedir",
+      "imar-durumu-nedir",
+      "kacak-yapi-cezasi"
+    ],
+    "links": [
+      {
+        "label": "İmar",
+        "href": "/kategori/imar"
+      },
+      {
+        "label": "Belediye",
+        "href": "/kategori/belediye"
+      }
+    ],
+    "lead": "Yapı ruhsatı nasıl alınır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «yapı ruhsatı» ve «inşaat ruhsatı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İmar bağlamında konu nedir?",
+        "paragraphs": [
+          "Yapı ruhsatı nasıl alınır? sorusu, imar alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «yapı ruhsatı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "yapı ruhsatı",
+          "inşaat ruhsatı",
+          "ruhsat nasıl alınır"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«yapı ruhsatı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "yapı ruhsatı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "dask-nedir",
+    "title": "DASK Nedir? Zorunlu Deprem Sigortası",
+    "description": "DASK poliçesi, teminat, tapu ilişkisi. Bilgilendirme.",
+    "h1": "DASK nedir? Neden zorunlu?",
+    "keywords": [
+      "DASK nedir",
+      "zorunlu deprem sigortası",
+      "DASK poliçesi"
+    ],
+    "category": "Sigorta",
+    "related": [
+      "tapu-devri-nasil-yapilir",
+      "trafik-sigortasi-hasar",
+      "emlak-vergisi-nedir"
+    ],
+    "links": [
+      {
+        "label": "Ara",
+        "href": "/ara?q=DASK"
+      },
+      {
+        "label": "Eşya",
+        "href": "/kategori/esya-hukuku"
+      }
+    ],
+    "lead": "DASK nedir? Neden zorunlu konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «DASK nedir» ve «zorunlu deprem sigortası» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Sigorta bağlamında konu nedir?",
+        "paragraphs": [
+          "DASK nedir? Neden zorunlu? sorusu, sigorta alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «DASK nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "DASK nedir",
+          "zorunlu deprem sigortası",
+          "DASK poliçesi"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«DASK nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "DASK nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "noter-islemleri",
+    "title": "Noter İşlemleri Nelerdir? Vekâletname",
+    "description": "Vekâlet, taahhütname, satış vaadi. Pratik rehber.",
+    "h1": "Noterde hangi işlemler yapılır?",
+    "keywords": [
+      "noter vekâletname",
+      "noter işlemleri",
+      "genel vekaletname"
+    ],
+    "category": "Usul",
+    "related": [
+      "gayrimenkul-satis-vaadi",
+      "tapu-devri-nasil-yapilir",
+      "veraset-ilami-nasil-alinir"
+    ],
+    "links": [
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-genel"
+      },
+      {
+        "label": "Mevzuat",
+        "href": "/mevzuat"
+      }
+    ],
+    "lead": "Noterde hangi işlemler yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «noter vekâletname» ve «noter işlemleri» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Noterde hangi işlemler yapılır? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «noter vekâletname» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "noter vekâletname",
+          "noter işlemleri",
+          "genel vekaletname"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«noter vekâletname» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "noter vekâletname için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "vekaletname-azli",
+    "title": "Vekâletname Nasıl Azledilir / İptal Edilir?",
+    "description": "Azil, bildirim, üçüncü kişiler. Bilgilendirme.",
+    "h1": "Vekâletname nasıl iptal (azil) edilir?",
+    "keywords": [
+      "vekaletname iptali",
+      "vekalet azli",
+      "noter azil"
+    ],
+    "category": "Usul",
+    "related": [
+      "noter-islemleri",
+      "hukuk-davasi-nasil-acilir",
+      "tapu-devri-nasil-yapilir"
+    ],
+    "links": [
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-ozel"
+      },
+      {
+        "label": "Noter",
+        "href": "/mevzuat"
+      }
+    ],
+    "lead": "Vekâletname nasıl iptal (azil) edilir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «vekaletname iptali» ve «vekalet azli» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Vekâletname nasıl iptal (azil) edilir? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «vekaletname iptali» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "vekaletname iptali",
+          "vekalet azli",
+          "noter azil"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«vekaletname iptali» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "vekaletname iptali için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "cek-karsiliksiz",
+    "title": "Karşılıksız Çek Şikayeti ve Süreç",
+    "description": "Karşılıksız çek, şikayet, tazmin. Bilgilendirme.",
+    "h1": "Karşılıksız çek durumunda ne yapılır?",
+    "keywords": [
+      "karşılıksız çek",
+      "çek şikayeti",
+      "karşılıksız çek cezası"
+    ],
+    "category": "Ticaret",
+    "related": [
+      "senet-icra-takibi",
+      "icra-takibi-nedir",
+      "savcilik-suc-duyurusu"
+    ],
+    "links": [
+      {
+        "label": "Çek",
+        "href": "/kategori/cek"
+      },
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      }
+    ],
+    "lead": "Karşılıksız çek durumunda ne yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «karşılıksız çek» ve «çek şikayeti» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Ticaret bağlamında konu nedir?",
+        "paragraphs": [
+          "Karşılıksız çek durumunda ne yapılır? sorusu, ticaret alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «karşılıksız çek» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "karşılıksız çek",
+          "çek şikayeti",
+          "karşılıksız çek cezası"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«karşılıksız çek» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "karşılıksız çek için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "sirket-kurulusu",
+    "title": "Limited / Anonim Şirket Nasıl Kurulur?",
+    "description": "MERSİS, ana sözleşme, sermaye. Girişimci rehberi.",
+    "h1": "Şirket nasıl kurulur? (LTD / A.Ş.)",
+    "keywords": [
+      "limited şirket kuruluşu",
+      "anonim şirket nasıl kurulur",
+      "MERSİS"
+    ],
+    "category": "Ticaret",
+    "related": [
+      "vergi-borcu-yapislandirma",
+      "sgk-hizmet-dokumu",
+      "ticari-isletme-nedir"
+    ],
+    "links": [
+      {
+        "label": "TTK",
+        "href": "/kategori/ticari-sirketler"
+      },
+      {
+        "label": "Mevzuat",
+        "href": "/mevzuat"
+      }
+    ],
+    "lead": "Şirket nasıl kurulur? (LTD / A.Ş.) konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «limited şirket kuruluşu» ve «anonim şirket nasıl kurulur» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Ticaret bağlamında konu nedir?",
+        "paragraphs": [
+          "Şirket nasıl kurulur? (LTD / A.Ş.) sorusu, ticaret alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «limited şirket kuruluşu» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "limited şirket kuruluşu",
+          "anonim şirket nasıl kurulur",
+          "MERSİS"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«limited şirket kuruluşu» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "limited şirket kuruluşu için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ticari-isletme-nedir",
+    "title": "Ticari İşletme ve Tacir Sıfatı Nedir?",
+    "description": "Tacir, ticaret sicili, unvan. Ticaret rehberi.",
+    "h1": "Ticari işletme nedir? Tacir kimdir?",
+    "keywords": [
+      "ticari işletme nedir",
+      "tacir kimdir",
+      "ticaret sicili"
+    ],
+    "category": "Ticaret",
+    "related": [
+      "sirket-kurulusu",
+      "iflas-nedir",
+      "icra-takibi-nedir"
+    ],
+    "links": [
+      {
+        "label": "TTK",
+        "href": "/kategori/ticari-isletme"
+      },
+      {
+        "label": "Mevzuat",
+        "href": "/mevzuat"
+      }
+    ],
+    "lead": "Ticari işletme nedir? Tacir kimdir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «ticari işletme nedir» ve «tacir kimdir» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Ticaret bağlamında konu nedir?",
+        "paragraphs": [
+          "Ticari işletme nedir? Tacir kimdir? sorusu, ticaret alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «ticari işletme nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "ticari işletme nedir",
+          "tacir kimdir",
+          "ticaret sicili"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«ticari işletme nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "ticari işletme nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "iflas-nedir",
+    "title": "İflas Nedir? Konkordato ile Farkı",
+    "description": "İflas sebepleri, sonuçlar, konkordato. Bilgilendirme.",
+    "h1": "İflas nedir? Konkordatodan farkı nedir?",
+    "keywords": [
+      "iflas nedir",
+      "konkordato nedir",
+      "iflas davası"
+    ],
+    "category": "İcra",
+    "related": [
+      "icra-takibi-nedir",
+      "sirket-kurulusu",
+      "odeme-emrine-itiraz"
+    ],
+    "links": [
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      },
+      {
+        "label": "TTK",
+        "href": "/kategori/ticari-sirketler"
+      }
+    ],
+    "lead": "İflas nedir? Konkordatodan farkı nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «iflas nedir» ve «konkordato nedir» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İcra bağlamında konu nedir?",
+        "paragraphs": [
+          "İflas nedir? Konkordatodan farkı nedir? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «iflas nedir» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "iflas nedir",
+          "konkordato nedir",
+          "iflas davası"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«iflas nedir» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "iflas nedir için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "icra-inkar-tazminati",
+    "title": "İcra İnkâr Tazminatı Nedir?",
+    "description": "Haksız itiraz, oran, şartlar. İcra rehberi.",
+    "h1": "İcra inkâr tazminatı nedir?",
+    "keywords": [
+      "icra inkâr tazminatı",
+      "inkar tazminatı oranı"
+    ],
+    "category": "İcra",
+    "related": [
+      "odeme-emrine-itiraz",
+      "icra-takibi-nedir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      },
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      }
+    ],
+    "lead": "İcra inkâr tazminatı nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «icra inkâr tazminatı» ve «inkar tazminatı oranı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İcra bağlamında konu nedir?",
+        "paragraphs": [
+          "İcra inkâr tazminatı nedir? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «icra inkâr tazminatı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "icra inkâr tazminatı",
+          "inkar tazminatı oranı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«icra inkâr tazminatı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "icra inkâr tazminatı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "nafaka-odenmezse",
+    "title": "Nafaka Ödenmezse Ne Olur? İcra ve Ceza",
+    "description": "Nafaka icrası, tazyik hapsi. Bilgilendirme.",
+    "h1": "Nafaka ödenmezse ne yapılır?",
+    "keywords": [
+      "nafaka ödenmezse",
+      "nafaka icra",
+      "nafaka hapis"
+    ],
+    "category": "Aile",
+    "related": [
+      "nafaka-davasi-nedir",
+      "icra-takibi-nedir",
+      "cocuk-nafaka-artirim"
+    ],
+    "links": [
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      },
+      {
+        "label": "Aile",
+        "href": "/kategori/aile-hukuku"
+      }
+    ],
+    "lead": "Nafaka ödenmezse ne yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «nafaka ödenmezse» ve «nafaka icra» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Aile bağlamında konu nedir?",
+        "paragraphs": [
+          "Nafaka ödenmezse ne yapılır? sorusu, aile alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «nafaka ödenmezse» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "nafaka ödenmezse",
+          "nafaka icra",
+          "nafaka hapis"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«nafaka ödenmezse» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "nafaka ödenmezse için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "ortakligin-giderilmesi-masraf",
+    "title": "Ortaklığın Giderilmesi Davası Masrafı",
+    "description": "Harç, satış, pay. İzale-i şuyu rehberi.",
+    "h1": "İzale-i şuyu davası ne kadar tutar?",
+    "keywords": [
+      "izale-i şuyu masraf",
+      "ortaklığın giderilmesi harç"
+    ],
+    "category": "Eşya",
+    "related": [
+      "izale-i-suyu",
+      "tapu-devri-nasil-yapilir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Eşya",
+        "href": "/kategori/esya-hukuku"
+      },
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      }
+    ],
+    "lead": "İzale-i şuyu davası ne kadar tutar konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «izale-i şuyu masraf» ve «ortaklığın giderilmesi harç» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Eşya bağlamında konu nedir?",
+        "paragraphs": [
+          "İzale-i şuyu davası ne kadar tutar? sorusu, eşya alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «izale-i şuyu masraf» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "izale-i şuyu masraf",
+          "ortaklığın giderilmesi harç"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«izale-i şuyu masraf» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "izale-i şuyu masraf için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "e-devlet-icra",
+    "title": "e-Devlet İcra Borcu Sorgulama",
+    "description": "Borç dökümü, dosya, ödeme. Pratik rehber.",
+    "h1": "e-Devletten icra borcu nasıl bakılır?",
+    "keywords": [
+      "e-devlet icra borcu",
+      "icra borcu sorgulama"
+    ],
+    "category": "İcra",
+    "related": [
+      "icra-dosyasi-sorgulama",
+      "icra-takibi-nedir",
+      "haciz-nasil-kaldirilir"
+    ],
+    "links": [
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      },
+      {
+        "label": "Faiz",
+        "href": "/hesaplama/faiz"
+      }
+    ],
+    "lead": "e-Devletten icra borcu nasıl bakılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «e-devlet icra borcu» ve «icra borcu sorgulama» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İcra bağlamında konu nedir?",
+        "paragraphs": [
+          "e-Devletten icra borcu nasıl bakılır? sorusu, icra alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «e-devlet icra borcu» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "e-devlet icra borcu",
+          "icra borcu sorgulama"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«e-devlet icra borcu» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "e-devlet icra borcu için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "elektronik-tebligat",
+    "title": "e-Tebligat Nedir? Ne Zaman Tebliğ Sayılır?",
+    "description": "UETS, açılmasa da tebliğ, süre. Bilgilendirme.",
+    "h1": "Elektronik tebligat (e-tebligat) nedir?",
+    "keywords": [
+      "e-tebligat",
+      "UETS",
+      "elektronik tebligat ne zaman"
+    ],
+    "category": "Usul",
+    "related": [
+      "tebligat-usulsuzlugu",
+      "odeme-emrine-itiraz",
+      "idari-dava-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Tebligat",
+        "href": "/kategori/tebligat"
+      },
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      }
+    ],
+    "lead": "Elektronik tebligat (e-tebligat) nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «e-tebligat» ve «UETS» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Elektronik tebligat (e-tebligat) nedir? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «e-tebligat» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "e-tebligat",
+          "UETS",
+          "elektronik tebligat ne zaman"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«e-tebligat» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "e-tebligat için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "dava-harci-nedir",
+    "title": "Dava Harcı ve Gider Avansı Nedir?",
+    "description": "Harç, avans, iade. Dava açanlar rehberi.",
+    "h1": "Dava harcı nedir? Nasıl hesaplanır?",
+    "keywords": [
+      "dava harcı",
+      "gider avansı",
+      "mahkeme masrafı"
+    ],
+    "category": "Usul",
+    "related": [
+      "hukuk-davasi-nasil-acilir",
+      "idari-dava-nasil-acilir",
+      "arabuluculuk-nasil-yapilir"
+    ],
+    "links": [
+      {
+        "label": "HMK",
+        "href": "/kategori/hmk"
+      },
+      {
+        "label": "Hesaplama",
+        "href": "/hesaplama"
+      }
+    ],
+    "lead": "Dava harcı nedir? Nasıl hesaplanır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «dava harcı» ve «gider avansı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Dava harcı nedir? Nasıl hesaplanır? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «dava harcı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "dava harcı",
+          "gider avansı",
+          "mahkeme masrafı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«dava harcı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "dava harcı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "arabuluculuk-ucreti",
+    "title": "Arabuluculuk Ücreti Kim Öder?",
+    "description": "Tarife, peşin, paylaşım. Bilgilendirme.",
+    "h1": "Arabuluculuk ücretini kim öder?",
+    "keywords": [
+      "arabuluculuk ücreti",
+      "arabuluculuk tarife"
+    ],
+    "category": "Usul",
+    "related": [
+      "arabuluculuk-nasil-yapilir",
+      "arabuluculuk-anlasma-belgesi",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Arabuluculuk",
+        "href": "/rehber/arabuluculuk"
+      },
+      {
+        "label": "Tarife",
+        "href": "/tarife-guncellemeleri"
+      }
+    ],
+    "lead": "Arabuluculuk ücretini kim öder konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «arabuluculuk ücreti» ve «arabuluculuk tarife» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Usul bağlamında konu nedir?",
+        "paragraphs": [
+          "Arabuluculuk ücretini kim öder? sorusu, usul alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «arabuluculuk ücreti» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "arabuluculuk ücreti",
+          "arabuluculuk tarife"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«arabuluculuk ücreti» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "arabuluculuk ücreti için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "is-kazasi-maluliyet",
+    "title": "İş Kazasında Maluliyet Oranı ve Tazminat",
+    "description": "Maluliyet, SGK, tazminat ilişkisi. Rehber.",
+    "h1": "İş kazasında maluliyet oranı ne anlama gelir?",
+    "keywords": [
+      "iş kazası maluliyet",
+      "maluliyet oranı tazminat"
+    ],
+    "category": "İş",
+    "related": [
+      "is-kazasi-tazminati",
+      "malulen-emeklilik",
+      "engelli-raporu-nasil-alinir"
+    ],
+    "links": [
+      {
+        "label": "İSG",
+        "href": "/kategori/isg"
+      },
+      {
+        "label": "SSGSSK",
+        "href": "/kategori/ssgssk"
+      }
+    ],
+    "lead": "İş kazasında maluliyet oranı ne anlama gelir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «iş kazası maluliyet» ve «maluliyet oranı tazminat» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "İş kazasında maluliyet oranı ne anlama gelir? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «iş kazası maluliyet» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "iş kazası maluliyet",
+          "maluliyet oranı tazminat"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«iş kazası maluliyet» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "iş kazası maluliyet için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "kidem-tavan",
+    "title": "Kıdem Tazminatı Tavanı Nedir?",
+    "description": "Yıllık tavan, hesap etkisi. İş rehberi.",
+    "h1": "Kıdem tazminatı tavanı nedir?",
+    "keywords": [
+      "kıdem tazminatı tavanı",
+      "kıdem tavan tutarı"
+    ],
+    "category": "İş",
+    "related": [
+      "kidem-tazminati-nasil-alinir",
+      "ihbar-tazminati-nedir",
+      "is-sozlesmesi-feshi"
+    ],
+    "links": [
+      {
+        "label": "Kıdem",
+        "href": "/rehber/kidem-tazminati"
+      },
+      {
+        "label": "Hesap",
+        "href": "/hesaplama/kidem"
+      }
+    ],
+    "lead": "Kıdem tazminatı tavanı nedir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kıdem tazminatı tavanı» ve «kıdem tavan tutarı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "İş bağlamında konu nedir?",
+        "paragraphs": [
+          "Kıdem tazminatı tavanı nedir? sorusu, iş alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kıdem tazminatı tavanı» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kıdem tazminatı tavanı",
+          "kıdem tavan tutarı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«kıdem tazminatı tavanı» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "kıdem tazminatı tavanı için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "askeri-hizmet-borclanma",
+    "title": "Askerlik Borçlanması Nedir? SGK",
+    "description": "Borçlanma, prim, emeklilik etkisi. Bilgilendirme.",
+    "h1": "Askerlik borçlanması nasıl yapılır?",
+    "keywords": [
+      "askerlik borçlanması",
+      "SGK askerlik borçlanma"
+    ],
+    "category": "Sosyal Güvenlik",
+    "related": [
+      "emeklilik-sartlari",
+      "sgk-hizmet-dokumu",
+      "issizlik-maasi-sartlari"
+    ],
+    "links": [
+      {
+        "label": "SSGSSK",
+        "href": "/kategori/ssgssk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=bor%C3%A7lanma"
+      }
+    ],
+    "lead": "Askerlik borçlanması nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «askerlik borçlanması» ve «SGK askerlik borçlanma» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Sosyal Güvenlik bağlamında konu nedir?",
+        "paragraphs": [
+          "Askerlik borçlanması nasıl yapılır? sorusu, sosyal güvenlik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «askerlik borçlanması» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "askerlik borçlanması",
+          "SGK askerlik borçlanma"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«askerlik borçlanması» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "askerlik borçlanması için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "dogum-borclanmasi",
+    "title": "Doğum Borçlanması Nedir? Şartları",
+    "description": "Doğum borçlanması, prim, başvuru. Rehber.",
+    "h1": "Doğum borçlanması nasıl yapılır?",
+    "keywords": [
+      "doğum borçlanması",
+      "SGK doğum borçlanma"
+    ],
+    "category": "Sosyal Güvenlik",
+    "related": [
+      "emeklilik-sartlari",
+      "sgk-hizmet-dokumu",
+      "askeri-hizmet-borclanma"
+    ],
+    "links": [
+      {
+        "label": "SSGSSK",
+        "href": "/kategori/ssgssk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=do%C4%9Fum"
+      }
+    ],
+    "lead": "Doğum borçlanması nasıl yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «doğum borçlanması» ve «SGK doğum borçlanma» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Sosyal Güvenlik bağlamında konu nedir?",
+        "paragraphs": [
+          "Doğum borçlanması nasıl yapılır? sorusu, sosyal güvenlik alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «doğum borçlanması» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "doğum borçlanması",
+          "SGK doğum borçlanma"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«doğum borçlanması» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "doğum borçlanması için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "e-devlet-vergi-borcu",
+    "title": "e-Devlet Vergi Borcu Sorgulama",
+    "description": "GİB borç, ödeme, yapılandırma. Pratik rehber.",
+    "h1": "e-Devletten vergi borcu nasıl bakılır?",
+    "keywords": [
+      "e-devlet vergi borcu",
+      "vergi borcu sorgulama"
+    ],
+    "category": "Vergi",
+    "related": [
+      "vergi-borcu-yapislandirma",
+      "emlak-vergisi-nedir",
+      "icra-takibi-nedir"
+    ],
+    "links": [
+      {
+        "label": "VUK",
+        "href": "/kategori/vuk"
+      },
+      {
+        "label": "AATUHK",
+        "href": "/kategori/aatuhk"
+      }
+    ],
+    "lead": "e-Devletten vergi borcu nasıl bakılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «e-devlet vergi borcu» ve «vergi borcu sorgulama» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Vergi bağlamında konu nedir?",
+        "paragraphs": [
+          "e-Devletten vergi borcu nasıl bakılır? sorusu, vergi alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «e-devlet vergi borcu» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "e-devlet vergi borcu",
+          "vergi borcu sorgulama"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«e-devlet vergi borcu» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "e-devlet vergi borcu için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "mtk-aidat-icra",
+    "title": "Site / Apartman Aidatı Ödenmezse Ne Olur?",
+    "description": "İhtar, icra, haciz. Kat malikleri rehberi.",
+    "h1": "Aidat ödenmezse ne yapılır?",
+    "keywords": [
+      "aidat ödenmezse",
+      "apartman aidatı icra"
+    ],
+    "category": "Eşya",
+    "related": [
+      "kat-mulkiyeti-aidat",
+      "icra-takibi-nedir",
+      "hukuk-davasi-nasil-acilir"
+    ],
+    "links": [
+      {
+        "label": "Kat mülkiyeti",
+        "href": "/kategori/katmulkiyeti"
+      },
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      }
+    ],
+    "lead": "Aidat ödenmezse ne yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «aidat ödenmezse» ve «apartman aidatı icra» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Eşya bağlamında konu nedir?",
+        "paragraphs": [
+          "Aidat ödenmezse ne yapılır? sorusu, eşya alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «aidat ödenmezse» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "aidat ödenmezse",
+          "apartman aidatı icra"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«aidat ödenmezse» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "aidat ödenmezse için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "kira-tespit-davasi",
+    "title": "Kira Tespit Davası Nedir?",
+    "description": "5 yıl, rayiç, arabuluculuk. Kira rehberi.",
+    "h1": "Kira tespit davası nedir? Ne zaman açılır?",
+    "keywords": [
+      "kira tespit davası",
+      "kira bedeli tespit"
+    ],
+    "category": "Kira",
+    "related": [
+      "kira-artis-orani-nasil-hesaplanir",
+      "kiraci-nasil-tahliye-edilir",
+      "arabuluculuk-nasil-yapilir"
+    ],
+    "links": [
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-ozel"
+      },
+      {
+        "label": "Hesap",
+        "href": "/hesaplama/kira"
+      }
+    ],
+    "lead": "Kira tespit davası nedir? Ne zaman açılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «kira tespit davası» ve «kira bedeli tespit» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Kira bağlamında konu nedir?",
+        "paragraphs": [
+          "Kira tespit davası nedir? Ne zaman açılır? sorusu, kira alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «kira tespit davası» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "kira tespit davası",
+          "kira bedeli tespit"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«kira tespit davası» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "kira tespit davası için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "tahliye-taahhutnamesi",
+    "title": "Tahliye Taahhütnamesi Nedir? Geçerlilik",
+    "description": "Tarih, imza, icra. Kiraya veren-kiracı rehberi.",
+    "h1": "Tahliye taahhütnamesi nedir? Geçerli midir?",
+    "keywords": [
+      "tahliye taahhütnamesi",
+      "tahliye taahhüdü icra"
+    ],
+    "category": "Kira",
+    "related": [
+      "kiraci-nasil-tahliye-edilir",
+      "kira-artis-orani-nasil-hesaplanir",
+      "icra-takibi-nedir"
+    ],
+    "links": [
+      {
+        "label": "TBK",
+        "href": "/kategori/borclar-ozel"
+      },
+      {
+        "label": "İİK",
+        "href": "/kategori/iik"
+      }
+    ],
+    "lead": "Tahliye taahhütnamesi nedir? Geçerli midir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «tahliye taahhütnamesi» ve «tahliye taahhüdü icra» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Kira bağlamında konu nedir?",
+        "paragraphs": [
+          "Tahliye taahhütnamesi nedir? Geçerli midir? sorusu, kira alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «tahliye taahhütnamesi» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "tahliye taahhütnamesi",
+          "tahliye taahhüdü icra"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«tahliye taahhütnamesi» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "tahliye taahhütnamesi için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "e-devlet-nufus",
+    "title": "e-Devlet Nüfus İşlemleri Rehberi",
+    "description": "Kimlik, adres, kayıt örneği. Pratik rehber.",
+    "h1": "e-Devlette hangi nüfus işlemleri yapılır?",
+    "keywords": [
+      "e-devlet nüfus işlemleri",
+      "adres beyanı e-devlet"
+    ],
+    "category": "Nüfus",
+    "related": [
+      "nufus-kayit-ornegi",
+      "pasaport-basvurusu",
+      "veraset-ilami-nasil-alinir"
+    ],
+    "links": [
+      {
+        "label": "NHK",
+        "href": "/kategori/nhk"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=n%C3%BCfus"
+      }
+    ],
+    "lead": "e-Devlette hangi nüfus işlemleri yapılır konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «e-devlet nüfus işlemleri» ve «adres beyanı e-devlet» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Nüfus bağlamında konu nedir?",
+        "paragraphs": [
+          "e-Devlette hangi nüfus işlemleri yapılır? sorusu, nüfus alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «e-devlet nüfus işlemleri» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "e-devlet nüfus işlemleri",
+          "adres beyanı e-devlet"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«e-devlet nüfus işlemleri» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "e-devlet nüfus işlemleri için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
+      }
+    ],
+    "updated": "2026-07-27"
+  },
+  {
+    "slug": "adres-degisikligi",
+    "title": "Adres Değişikliği Beyanı Nasıl Yapılır?",
+    "description": "e-Devlet adres, süre, sonuçlar. Bilgilendirme.",
+    "h1": "Yerleşim yeri adresi nasıl değiştirilir?",
+    "keywords": [
+      "adres değişikliği e-devlet",
+      "yerleşim yeri beyanı"
+    ],
+    "category": "Nüfus",
+    "related": [
+      "e-devlet-nufus",
+      "nufus-kayit-ornegi",
+      "tebligat-usulsuzlugu"
+    ],
+    "links": [
+      {
+        "label": "NHK",
+        "href": "/kategori/nhk"
+      },
+      {
+        "label": "Tebligat",
+        "href": "/kategori/tebligat"
+      }
+    ],
+    "lead": "Yerleşim yeri adresi nasıl değiştirilir konusu, Türkiye’de vatandaşların en sık aradığı hukuki ve idari sorulardan biridir. Bu rehber «adres değişikliği e-devlet» ve «yerleşim yeri beyanı» aramalarına yanıt verecek şekilde; tanımlar, adımlar, belgeler, süreler ve sık hatalar üzerinden genel bilgilendirme sunar. Metin bağlayıcı hukuki tavsiye yerine geçmez; somut olayda mevzuat, tebliğ tarihi ve avukat değerlendirmesi esas alınmalıdır.",
+    "sections": [
+      {
+        "heading": "Nüfus bağlamında konu nedir?",
+        "paragraphs": [
+          "Yerleşim yeri adresi nasıl değiştirilir? sorusu, nüfus alanında hak ve yükümlülüklerin doğru teşhis edilmesiyle başlar. Yanlış mercie başvuru veya süre kaçırma, en sık görülen hak kaybı sebepleridir.",
+          "Arama motorlarında «adres değişikliği e-devlet» yazan kullanıcılar genellikle hem tanımı hem de «ne yapmalıyım?» yol haritasını arar. Bu nedenle aşağıdaki bölümler tanım, süreç, belge ve riskleri birlikte ele alır."
+        ],
+        "bullets": [
+          "adres değişikliği e-devlet",
+          "yerleşim yeri beyanı"
+        ]
+      },
+      {
+        "heading": "Kimler ilgilidir? Hangi şartlar aranır?",
+        "paragraphs": [
+          "Konunun muhatapları dosyaya göre değişir: hak sahibi, yükümlü, idare, mahkeme veya arabulucu. Şartlar; süre, şekil, belgeler ve bazen arabuluculuk veya idari başvuru gibi ön koşulları içerir.",
+          "Eksik belge veya usulsüz tebligat, sonraki itiraz ve dava aşamalarını doğrudan etkiler. Bu yüzden tebliğ / öğrenme tarihi yazılı olarak sabitlenmelidir."
+        ]
+      },
+      {
+        "heading": "Adım adım süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyledir: (1) olayı ve belgeleri derlemek, (2) doğru mercie ve süreye karar vermek, (3) başvuru veya dava dilekçesini vermek, (4) tebligat ve sonucu takip etmek, (5) gerekirse istinaf/itiraz yollarına gitmek.",
+          "Elektronik sistemler (e-Devlet, UYAP, belediye/GİB panelleri) birçok adımı hızlandırır; ancak barkodlu belge ile ıslak imzalı suret ayrımına kurum bazında dikkat edilmelidir."
+        ]
+      },
+      {
+        "heading": "Sık yapılan hatalar ve riskler",
+        "paragraphs": [
+          "Süreleri «kabaca» hesaplamak, yanlış mercie başvurmak, delilleri saklamamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak en yaygın risklerdir.",
+          "Özellikle icra, idari para cezası ve işçilik alacaklarında gün bazlı süreler kamu düzeninden sayılabilir; geç başvuruda ret ihtimali yüksektir."
+        ]
+      },
+      {
+        "heading": "Hangi belgeler ve deliller işe yarar?",
+        "paragraphs": [
+          "Kimlik/nüfus kayıtları, sözleşmeler, faturalar, mesaj ve e-posta çıktıları, ödeme dekontları, tutanaklar, raporlar ve tanık listesi tipik delil setidir. Dijital delillerde tarih ve bütünlük korunmalıdır.",
+          "Resmî kayıtlara (tapu, SGK, belediye, icra) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
+        ]
+      }
+    ],
+    "steps": [
+      "«adres değişikliği e-devlet» ile ilgili tüm tebliğ, sözleşme ve belgeleri bir klasörde toplayın.",
+      "Süreyi tebliğ/öğrenme tarihinden itibaren hesaplayın; takvim notu alın.",
+      "Doğru mercie (idare, arabuluculuk, icra, mahkeme) karar verin.",
+      "Yazılı başvuru/dilekçe verin; evrak veya başvuru numarasını saklayın.",
+      "Sonucu e-Devlet/UYAP veya ilgili kurumdan takip edin; itiraz süresini kaçırmayın."
+    ],
+    "faq": [
+      {
+        "q": "adres değişikliği e-devlet için avukat zorunlu mu?",
+        "a": "Çoğu başvuruda avukat zorunlu değildir; ancak süre ve usul hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "İşlem ne kadar sürer?",
+        "a": "Kurum ve mahkeme yoğunluğu, delil durumu ve itirazlara göre değişir. Kesin süre vaadi verilemez."
+      },
+      {
+        "q": "e-Devlet yeterli midir?",
+        "a": "Birçok işlem e-Devlet ile başlar veya tamamlanır; bazı merciler hâlâ fiziki evrak veya randevu ister."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir; yürürlükteki mevzuat ve somut olay esastır."
       }
     ],
     "updated": "2026-07-27"

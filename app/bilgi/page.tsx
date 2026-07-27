@@ -13,7 +13,7 @@ const SITE = 'https://www.avfethiguzel.com';
 export const metadata: Metadata = {
   title: 'Vatandaş Bilgi Rehberi | Sık Sorulan Hukuki Konular',
   description:
-    'Emlak vergisi, veraset ilamı, trafik cezası itirazı, idari dava, boşanma, icra, engelli aracı ve daha fazlası — vatandaşlar için detaylı bilgilendirme rehberleri. Av. Fethi Güzel.',
+    '100+ vatandaş rehberi: emlak vergisi, veraset ilamı, trafik cezası, idari/hukuk davası, boşanma, icra, kira, iş, SGK ve daha fazlası. Av. Fethi Güzel Hukuk Portalı.',
   alternates: { canonical: `${SITE}/bilgi` },
   openGraph: {
     title: 'Vatandaş Bilgi Rehberi',
@@ -46,8 +46,8 @@ export default function BilgiIndexPage() {
           bilgilendirme amaçlıdır; somut dosyada avukata danışılmalıdır.
         </p>
         <p className="text-[12px] text-charcoal/45 mb-10">
-          {VATANDAS_ARTICLES.length} rehber · Ana sayfada öne çıkarılmaz; arama motorları ve bu
-          dizin üzerinden erişilir.
+          {VATANDAS_ARTICLES.length} rehber (Google’da sık aranan vatandaş soruları) · Ana sayfada
+          öne çıkarılmaz; sitemap ve bu dizin üzerinden erişilir.
         </p>
 
         <div className="space-y-10">
