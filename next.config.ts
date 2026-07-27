@@ -21,18 +21,25 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   /**
-   * Madde pages are SSR/ISR via app/mevzuat/[kanunId]/[id]/page.tsx
-   * (packs fetched from CDN — not bundled into lambdas).
+   * CRITICAL: Next 16.2 SSR Lambdas crash on missing file-logger (patched in
+   * postinstall/prebuild). Madde URLs are also served via static HTML rewrite
+   * so clicks never depend on a working Node serverless cold-start.
    *
-   * Next.js 16.2.x bug: console-file.js has an unconditional top-level
-   * require('../dev/browser-logs/file-logger') even though the code that uses
-   * it is NODE_ENV==='development' only. NFT excludes the dev folder from the
-   * Lambda bundle → every serverless cold start 500s with
-   * "Cannot find module '../dev/browser-logs/file-logger'".
-   * Force-include so Node can resolve the require at runtime.
+   * Browser URL stays /mevzuat/{kanun}/{madde}; body is public/mevzuat-viewer-v4.html
+   * which loads packs from same-origin /content-packs or jsDelivr.
    */
-  // Belt-and-suspenders with scripts/patch-next-file-logger.mjs (postinstall).
-  // Keep include so NFT still ships the real module when present.
+  async rewrites() {
+    return {
+      beforeFiles: [
+        {
+          source: "/mevzuat/:kanunId/:id",
+          destination: "/mevzuat-viewer-v4.html",
+        },
+      ],
+      afterFiles: [],
+      fallback: [],
+    };
+  },
   outputFileTracingIncludes: {
     "*": [
       "./node_modules/next/dist/server/dev/browser-logs/**/*",
@@ -41,12 +48,6 @@ const nextConfig: NextConfig = {
     "/*": [
       "./node_modules/next/dist/server/dev/browser-logs/**/*",
       "./node_modules/next/dist/server/node-environment-extensions/**/*",
-    ],
-    "/mevzuat/*": [
-      "./node_modules/next/dist/server/dev/browser-logs/**/*",
-    ],
-    "/mevzuat/*/*": [
-      "./node_modules/next/dist/server/dev/browser-logs/**/*",
     ],
   },
   async headers() {
