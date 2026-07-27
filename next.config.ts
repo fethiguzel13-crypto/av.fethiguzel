@@ -23,9 +23,18 @@ const nextConfig: NextConfig = {
   /**
    * Madde pages are SSR/ISR via app/mevzuat/[kanunId]/[id]/page.tsx
    * (packs fetched from CDN — not bundled into lambdas).
-   * Static viewer HTML kept only as emergency fallback at /mevzuat-viewer-v4.html
-   * — do NOT rewrite public /mevzuat/* URLs to it (breaks SEO: empty HTML for crawlers).
+   *
+   * Next.js 16.2.x bug: console-file.js has an unconditional top-level
+   * require('../dev/browser-logs/file-logger') even though the code that uses
+   * it is NODE_ENV==='development' only. NFT excludes the dev folder from the
+   * Lambda bundle → every serverless cold start 500s with
+   * "Cannot find module '../dev/browser-logs/file-logger'".
+   * Force-include so Node can resolve the require at runtime.
    */
+  outputFileTracingIncludes: {
+    "*": ["./node_modules/next/dist/server/dev/browser-logs/**/*"],
+    "/*": ["./node_modules/next/dist/server/dev/browser-logs/**/*"],
+  },
   async headers() {
     return [
       {
@@ -62,8 +71,9 @@ const nextConfig: NextConfig = {
   poweredByHeader: false,
   compress: true,
   // Keep deploy lean: never ship raw markdown / scrapers / 30MB packs into serverless
+  // Use '*' key (Next 16) so excludes don't fight route-scoped includes.
   outputFileTracingExcludes: {
-    "/**": [
+    "*": [
       "./content/**/*",
       "./content-packs/**/*",
       "./public/content-packs/**/*",

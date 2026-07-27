@@ -1,5 +1,5 @@
 import { getLawCategoryBySlug, getLawSubCategoryBySlug } from '@/lib/laws'
-import { notFound, redirect } from 'next/navigation'
+import { notFound, permanentRedirect } from 'next/navigation'
 import type { Metadata } from 'next'
 
 export function generateStaticParams() {
@@ -7,6 +7,7 @@ export function generateStaticParams() {
 }
 
 export const dynamicParams = true
+export const revalidate = 86400
 
 export async function generateMetadata({
   params,
@@ -22,12 +23,12 @@ export async function generateMetadata({
     title: `${parent.kanunAdi} ${sub.name} Madde ${maddeNo} | Av. Fethi Güzel`,
     description: `${parent.kanunAdi} Madde ${maddeNo} resmi metni ve akademik yorum.`,
     alternates: {
-      canonical: `https://avfethiguzel.com/mevzuat/${sub.kanunId}/${maddeId}`,
+      canonical: `https://www.avfethiguzel.com/mevzuat/${sub.kanunId}/${maddeId}`,
     },
   }
 }
 
-/** Category pretty URLs → canonical /mevzuat/{kanun}/{madde} static viewer */
+/** Pretty category URLs → canonical /mevzuat/{kanun}/{madde} */
 export default async function MaddeDetailPage({
   params,
 }: {
@@ -37,5 +38,5 @@ export default async function MaddeDetailPage({
   const parent = getLawCategoryBySlug(category)
   const sub = getLawSubCategoryBySlug(category, slug)
   if (!parent || !sub) notFound()
-  redirect(`/mevzuat/${sub.kanunId}/${maddeId}`)
+  permanentRedirect(`/mevzuat/${sub.kanunId}/${maddeId}`)
 }
