@@ -5,7 +5,8 @@ import type { MetadataRoute } from 'next';
  * Allow major LLM bots to read public legal library content; block API only.
  */
 export default function robots(): MetadataRoute.Robots {
-    const base = 'https://avfethiguzel.com';
+    // Production redirects bare domain → www; keep host + sitemap on www.
+    const base = 'https://www.avfethiguzel.com';
     return {
         rules: [
             {

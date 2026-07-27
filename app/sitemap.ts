@@ -3,7 +3,7 @@ import { lawCategories } from '@/lib/laws';
 import fs from 'fs';
 import path from 'path';
 
-const baseUrl = 'https://avfethiguzel.com';
+const baseUrl = 'https://www.avfethiguzel.com';
 
 // Map new sub-category slugs to old category slugs for data lookup
 function getOldSlug(parentSlug: string, subSlug: string): string | null {
@@ -59,19 +59,44 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/hesaplama`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
     { url: `${baseUrl}/makaleler`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
     { url: `${baseUrl}/eserlerim`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${baseUrl}/e-durusma`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${baseUrl}/akademik-profil`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.9 },
     { url: `${baseUrl}/english-speaking-lawyer`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${baseUrl}/ingilizce-avukat`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
+    { url: `${baseUrl}/ar`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
     { url: `${baseUrl}/hizmet-bolgeleri`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.9 },
     { url: `${baseUrl}/hizmetler`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
     { url: `${baseUrl}/rehber`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${baseUrl}/rehber/miras-paylasimi`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
     { url: `${baseUrl}/rehber/kidem-tazminati`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
     { url: `${baseUrl}/rehber/arabuluculuk`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${baseUrl}/tarife-guncellemeleri`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.65 },
+    { url: `${baseUrl}/on-form`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.6 },
+    { url: `${baseUrl}/bookmarklet`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.4 },
+    { url: `${baseUrl}/icthat/haftalik`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.85 },
+    { url: `${baseUrl}/kavram`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.85 },
     { url: `${baseUrl}/site-haritasi`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.5 },
     { url: `${baseUrl}/gizlilik`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
     { url: `${baseUrl}/yasal-uyari`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.3 },
   ];
+
+  // Hesaplama araç sayfaları (SEO)
+  const { getAllAracIds } = await import('@/lib/hesaplama-meta');
+  const hesaplamaRoutes: MetadataRoute.Sitemap = getAllAracIds().map((id) => ({
+    url: `${baseUrl}/hesaplama/${id}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
+  }));
+
+  // Kavram sayfaları
+  const { getAllKavramSlugs } = await import('@/lib/kavramlar');
+  const kavramRoutes: MetadataRoute.Sitemap = getAllKavramSlugs().map((slug) => ({
+    url: `${baseUrl}/kavram/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.82,
+  }));
 
   // 1b. İlçe/İl Avukat Sayfaları (yerel SEO — Türkiye haritası kökleri)
   const ilceSlugs = [
@@ -179,6 +204,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   return [
     ...staticRoutes,
+    ...hesaplamaRoutes,
+    ...kavramRoutes,
     ...ilceRoutes,
     ...categoryRoutes,
     ...subCategoryRoutes,

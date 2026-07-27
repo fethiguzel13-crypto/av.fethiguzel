@@ -43,12 +43,40 @@ type IndexItem = {
   title: string;
   kanun: string;
   maddeNo: number;
+  snippet?: string;
+  body?: string;
+  status?: string;
+  href?: string;
 };
 
 type IndexPayload = { count: number; items: IndexItem[] };
 
 const packCache = new Map<string, Pack>();
 let indexCache: IndexItem[] | null = null;
+
+/** Canonical public origin (www — production redirects bare domain → www). */
+export const SITE_ORIGIN = 'https://www.avfethiguzel.com';
+
+/**
+ * Normalize route id: "13" | "Madde-13" | "madde-13" → "madde-13"
+ * Keeps composite ids (madde-13-a) when already prefixed.
+ */
+export function normalizeMaddeId(id: string): string {
+  const raw = decodeURIComponent(String(id || '')).trim();
+  if (!raw) return raw;
+  const lower = raw.toLowerCase();
+  if (/^madde[-_]/.test(lower)) {
+    return lower.replace(/_/g, '-');
+  }
+  // bare number: 13, 13a, 100
+  if (/^\d+[a-z]?$/i.test(raw)) {
+    return `madde-${lower}`;
+  }
+  // "Madde 13" / "madde 13"
+  const spaced = lower.match(/^madde\s+(\d+[a-z]?)$/i);
+  if (spaced) return `madde-${spaced[1]}`;
+  return lower.replace(/_/g, '-');
+}
 
 function siteBaseUrl(): string {
   if (process.env.NEXT_PUBLIC_SITE_URL) {
@@ -58,7 +86,7 @@ function siteBaseUrl(): string {
   if (process.env.VERCEL_URL) {
     return `https://${process.env.VERCEL_URL.replace(/^https?:\/\//, '').replace(/\/$/, '')}`;
   }
-  return 'https://avfethiguzel.com';
+  return SITE_ORIGIN;
 }
 
 function parsePackBuffer(buf: Buffer): Pack {
@@ -102,43 +130,52 @@ async function loadIndex(): Promise<IndexItem[]> {
 async function loadPack(kanunId: string): Promise<Pack> {
   if (packCache.has(kanunId)) return packCache.get(kanunId)!;
 
-  // Build-time / local disk (relative paths only — no process.cwd() for Turbopack)
-  try {
-    // eslint-disable-next-line @typescript-eslint/no-require-imports
-    const fs = require('fs') as typeof import('fs');
-    const candidates = [
-      `content-packs/${kanunId}.json.gz`,
-      `public/content-packs/${kanunId}.json.gz`,
-      `./content-packs/${kanunId}.json.gz`,
-      `./public/content-packs/${kanunId}.json.gz`,
-    ];
-    for (const p of candidates) {
-      if (fs.existsSync(p)) {
-        const pack = parsePackBuffer(fs.readFileSync(p));
-        packCache.set(kanunId, pack);
-        return pack;
+  // Local/build: read from disk. On Vercel serverless skip disk (packs excluded from lambdas).
+  if (!process.env.VERCEL) {
+    try {
+      // eslint-disable-next-line @typescript-eslint/no-require-imports
+      const fs = require('fs') as typeof import('fs');
+      const candidates = [
+        `content-packs/${kanunId}.json.gz`,
+        `public/content-packs/${kanunId}.json.gz`,
+        `./content-packs/${kanunId}.json.gz`,
+        `./public/content-packs/${kanunId}.json.gz`,
+      ];
+      for (const p of candidates) {
+        if (fs.existsSync(p)) {
+          const pack = parsePackBuffer(fs.readFileSync(p));
+          packCache.set(kanunId, pack);
+          return pack;
+        }
       }
+    } catch {
+      // HTTP
     }
-  } catch {
-    // HTTP
   }
 
-  const bases = Array.from(
-    new Set([
-      siteBaseUrl(),
-      'https://avfethiguzel.com',
-    ])
-  );
+  const kid = encodeURIComponent(kanunId);
+  const urls = [
+    // Same origin static first (CDN-backed on Vercel)
+    `${SITE_ORIGIN}/content-packs/${kid}.json.gz`,
+    `${siteBaseUrl()}/content-packs/${kid}.json.gz`,
+    // External mirrors (used by client viewer; reliable for SSR cold starts)
+    `https://cdn.jsdelivr.net/gh/fethiguzel13-crypto/av.fethiguzel@main/content-packs/${kid}.json.gz`,
+    `https://raw.githubusercontent.com/fethiguzel13-crypto/av.fethiguzel/main/content-packs/${kid}.json.gz`,
+  ];
+
   let lastErr: unknown;
-  for (const base of bases) {
-    const url = `${base}/content-packs/${encodeURIComponent(kanunId)}.json.gz`;
+  for (const url of urls) {
     try {
-      const res = await fetch(url, { cache: 'force-cache', next: { revalidate: 86400 } });
+      const res = await fetch(url, { next: { revalidate: 86400 } });
       if (!res.ok) {
-        lastErr = new Error(`pack ${kanunId}: HTTP ${res.status} from ${base}`);
+        lastErr = new Error(`pack ${kanunId}: HTTP ${res.status} from ${url}`);
         continue;
       }
       const ab = await res.arrayBuffer();
+      if (ab.byteLength < 64) {
+        lastErr = new Error(`pack ${kanunId}: empty body from ${url}`);
+        continue;
+      }
       const pack = parsePackBuffer(Buffer.from(ab));
       packCache.set(kanunId, pack);
       return pack;
@@ -147,6 +184,42 @@ async function loadPack(kanunId: string): Promise<Pack> {
     }
   }
   throw lastErr instanceof Error ? lastErr : new Error(`pack ${kanunId} load failed`);
+}
+
+/** Lightweight meta from mevzuat-index (no pack download). */
+export async function getIndexArticle(
+  kanunId: string,
+  id: string
+): Promise<IndexItem | null> {
+  const nid = normalizeMaddeId(id);
+  const items = await loadIndex();
+  return (
+    items.find((i) => i.kanunId === kanunId && i.id === nid) ||
+    items.find((i) => i.kanunId === kanunId && i.id === id) ||
+    null
+  );
+}
+
+/** Resolve pack key: try normalized id, raw id, bare number keys. */
+export async function resolvePackArticle(
+  kanunId: string,
+  id: string
+): Promise<{ key: string; article: PackArticle } | null> {
+  const pack = await loadPack(kanunId);
+  const candidates = Array.from(
+    new Set([normalizeMaddeId(id), id, id.toLowerCase(), `madde-${id}`])
+  );
+  for (const key of candidates) {
+    if (pack[key]) return { key, article: pack[key] };
+  }
+  // match by maddeNo when id is numeric
+  const n = parseInt(String(id).replace(/^madde-/i, ''), 10);
+  if (!Number.isNaN(n)) {
+    for (const [key, article] of Object.entries(pack)) {
+      if (article.maddeNo === n) return { key, article };
+    }
+  }
+  return null;
 }
 
 export async function getAllKanunDirs(): Promise<string[]> {
@@ -199,11 +272,11 @@ export async function getNavigationInfo(kanunId: string, currentMaddeNo: number)
 }
 
 export async function getArticleData(kanunId: string, id: string): Promise<ArticleData> {
-  const pack = await loadPack(kanunId);
-  const a = pack[id];
-  if (!a) {
+  const resolved = await resolvePackArticle(kanunId, id);
+  if (!resolved) {
     throw new Error(`Madde bulunamadı: ${kanunId}/${id}`);
   }
+  const { key, article: a } = resolved;
 
   const officialHtml = await marked(a.official);
   const commentaryHtml = a.commentary ? await marked(a.commentary) : '';
@@ -212,7 +285,7 @@ export async function getArticleData(kanunId: string, id: string): Promise<Artic
     : officialHtml;
 
   return {
-    id,
+    id: key,
     kanunId,
     title: a.title,
     kanun: a.kanun,
@@ -220,5 +293,64 @@ export async function getArticleData(kanunId: string, id: string): Promise<Artic
     contentHtml,
     officialHtml,
     commentaryHtml,
+  };
+}
+
+/** Plain-text fields for SEO meta (no HTML). */
+export async function getArticleSeoFields(
+  kanunId: string,
+  id: string
+): Promise<{
+  id: string;
+  title: string;
+  kanun: string;
+  maddeNo: number;
+  officialText: string;
+  commentaryLead: string;
+  headingHint: string;
+} | null> {
+  const indexHit = await getIndexArticle(kanunId, id);
+  try {
+    const resolved = await resolvePackArticle(kanunId, id);
+    if (resolved) {
+      const { key, article: a } = resolved;
+      const officialText = String(a.official || '')
+        .replace(/[*_#>`\[\]()]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim();
+      const commentaryLead = String(a.commentary || '')
+        .replace(/[#>*_`]/g, ' ')
+        .replace(/\s+/g, ' ')
+        .trim()
+        .slice(0, 220);
+      const headingHint =
+        (indexHit?.snippet || '').trim() ||
+        officialText.match(/^[^.…]{8,80}/)?.[0]?.trim() ||
+        '';
+      return {
+        id: key,
+        title: a.title,
+        kanun: a.kanun,
+        maddeNo: a.maddeNo,
+        officialText,
+        commentaryLead,
+        headingHint,
+      };
+    }
+  } catch {
+    // fall through to index-only
+  }
+  if (!indexHit) return null;
+  const body = String(indexHit.body || indexHit.snippet || '')
+    .replace(/\s+/g, ' ')
+    .trim();
+  return {
+    id: indexHit.id,
+    title: indexHit.title,
+    kanun: indexHit.kanun,
+    maddeNo: indexHit.maddeNo,
+    officialText: body.slice(0, 400),
+    commentaryLead: body.slice(0, 220),
+    headingHint: (indexHit.snippet || '').trim(),
   };
 }

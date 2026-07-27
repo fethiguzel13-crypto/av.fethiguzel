@@ -27,7 +27,7 @@ const ibmPlex = IBM_Plex_Mono({
   display: 'swap',
 })
 
-const siteUrl = 'https://avfethiguzel.com'
+const siteUrl = 'https://www.avfethiguzel.com'
 
 export const viewport: Viewport = {
   themeColor: [
@@ -118,6 +118,8 @@ export const metadata: Metadata = {
     description:
       '7.800+ kanun maddesi, akademik şerhler, günlük içtihat, hesaplama araçları. Ücretsiz dijital hukuk kütüphanesi.',
     images: ['/images/av-fethi-guzel-og.jpg'],
+    site: '@avfethiguzel',
+    creator: '@avfethiguzel',
   },
   robots: {
     index: true,
@@ -208,9 +210,12 @@ const personSchema = {
   ],
   sameAs: [
     siteUrl,
+    `${siteUrl}/avukat-fethi-guzel`,
     `${siteUrl}/akademik-profil`,
     `${siteUrl}/eserlerim`,
     'https://www.seckin.com.tr/kitap/614840900',
+    'https://www.instagram.com/av.fethiguzel/',
+    'https://x.com/avfethiguzel',
     'https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk',
   ],
   worksFor: { '@id': `${siteUrl}/#organization` },
@@ -287,6 +292,8 @@ const orgSchema = {
     `${siteUrl}/akademik-profil`,
     `${siteUrl}/eserlerim`,
     'https://www.seckin.com.tr/kitap/614840900',
+    'https://www.instagram.com/av.fethiguzel/',
+    'https://x.com/avfethiguzel',
     'https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk',
   ],
   openingHoursSpecification: {

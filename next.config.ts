@@ -21,21 +21,11 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   /**
-   * beforeFiles: take priority over App Router dynamic routes.
-   * App route /mevzuat/[kanunId]/[id] was 500 on Vercel; static HTML + jsDelivr works.
+   * Madde pages are SSR/ISR via app/mevzuat/[kanunId]/[id]/page.tsx
+   * (packs fetched from CDN — not bundled into lambdas).
+   * Static viewer HTML kept only as emergency fallback at /mevzuat-viewer-v4.html
+   * — do NOT rewrite public /mevzuat/* URLs to it (breaks SEO: empty HTML for crawlers).
    */
-  async rewrites() {
-    return {
-      beforeFiles: [
-        {
-          source: '/mevzuat/:kanunId/:id',
-          destination: '/mevzuat-viewer-v4.html',
-        },
-      ],
-      afterFiles: [],
-      fallback: [],
-    };
-  },
   async headers() {
     return [
       {
