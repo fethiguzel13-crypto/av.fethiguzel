@@ -56,3 +56,7 @@ app/mevzuat/Untitled-*.txt
 # Twitter startup agent
 .tweet-log.json
 logs/
+
+# local build noise
+start-out.txt
+
