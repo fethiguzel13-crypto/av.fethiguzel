@@ -160,7 +160,14 @@ Bu maddeye ait akademik yorum ve analiz yakında eklenecektir.
  * PDF'den metin çıkar
  */
 async function extractPdfText(pdfPath) {
-  const pdfjsLib = await import('pdfjs-dist');
+  let pdfjsLib;
+  try {
+    pdfjsLib = await import('pdfjs-dist');
+  } catch {
+    throw new Error(
+      'pdfjs-dist yok. Bu script Vercel build bağımlılığı değildir. Lokal: npm i -D pdfjs-dist'
+    );
+  }
   const dataBuffer = new Uint8Array(fs.readFileSync(pdfPath));
   const doc = await pdfjsLib.getDocument({ data: dataBuffer }).promise;
   

@@ -100,8 +100,6 @@ const nextConfig: NextConfig = {
       "./node_modules/playwright/**/*",
       "./node_modules/playwright-core/**/*",
       "./node_modules/@anthropic-ai/**/*",
-      "./node_modules/pdfjs-dist/**/*",
-      "./node_modules/pdf-parse/**/*",
     ],
   },
 };
