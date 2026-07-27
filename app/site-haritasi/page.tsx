@@ -4,6 +4,8 @@ import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { BOLGELER, SITE_URL, PROFILE } from '@/lib/profile';
 import { categories } from '@/lib/categories';
+import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
+import { KAVRAMLAR } from '@/lib/kavramlar';
 
 export const metadata: Metadata = {
     title: 'Site Haritası | Av. Fethi Güzel Hukuk Portalı',
@@ -18,12 +20,19 @@ const CORE = [
     { href: '/ara', ad: 'Mevzuat ara' },
     { href: '/mevzuat', ad: 'Mevzuat arşivi' },
     { href: '/icthat', ad: 'Günlük içtihat' },
+    { href: '/icthat/haftalik', ad: 'Haftalık içtihat özeti' },
     { href: '/hesaplama', ad: 'Hesaplama araçları' },
+    { href: '/tarife-guncellemeleri', ad: 'Tarife güncellemeleri' },
+    { href: '/on-form', ad: 'Ön değerlendirme formu' },
+    { href: '/kavram', ad: 'Hukuki kavramlar' },
     { href: '/makaleler', ad: 'Makaleler' },
     { href: '/eserlerim', ad: 'Eserler / kitap' },
+    { href: '/e-durusma', ad: 'e-Duruşma hub' },
+    { href: '/bookmarklet', ad: 'Mevzuat yer imi aracı' },
     { href: '/avukat-fethi-guzel', ad: 'Avukat profili' },
     { href: '/akademik-profil', ad: 'Akademik profil' },
     { href: '/english-speaking-lawyer', ad: 'English-speaking lawyer' },
+    { href: '/ar', ad: 'Arabic landing' },
     { href: '/hizmet-bolgeleri', ad: 'Hizmet bölgeleri' },
     { href: '/hizmetler', ad: 'Hizmet alanları' },
     { href: '/gizlilik', ad: 'Gizlilik / KVKK' },
@@ -50,6 +59,36 @@ export default function SiteHaritasiPage() {
                             <li key={l.href}>
                                 <Link href={l.href} className="text-sm text-charcoal/70 hover:text-accent">
                                     {l.ad}
+                                </Link>
+                            </li>
+                        ))}
+                    </ul>
+                </section>
+
+                <section className="mb-12">
+                    <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
+                        Hesaplama araçları ({HESAPLAMA_ARACLAR.length})
+                    </h2>
+                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-[22rem] overflow-y-auto pr-2">
+                        {HESAPLAMA_ARACLAR.map((a) => (
+                            <li key={a.id}>
+                                <Link href={`/hesaplama/${a.id}`} className="text-sm text-charcoal/70 hover:text-accent">
+                                    {a.icon} {a.baslik}
+                                </Link>
+                            </li>
+                        ))}
+                    </ul>
+                </section>
+
+                <section className="mb-12">
+                    <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
+                        Hukuki kavramlar ({KAVRAMLAR.length})
+                    </h2>
+                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-[18rem] overflow-y-auto pr-2">
+                        {KAVRAMLAR.map((k) => (
+                            <li key={k.slug}>
+                                <Link href={`/kavram/${k.slug}`} className="text-sm text-charcoal/70 hover:text-accent">
+                                    {k.baslik}
                                 </Link>
                             </li>
                         ))}

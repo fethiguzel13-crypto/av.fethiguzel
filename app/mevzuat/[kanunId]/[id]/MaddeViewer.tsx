@@ -4,6 +4,7 @@ import { useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
+import { araclarForKanun } from '@/lib/hesaplama-meta';
 
 type PackArticle = {
     title: string;
@@ -429,6 +430,31 @@ export default function MaddeViewer({
                                 <p className="text-sm text-[#1C1C1C]/50">Bu madde için şerh henüz eklenmemiş.</p>
                             )}
                         </section>
+
+                        {araclarForKanun(kanunId).length > 0 && (
+                            <section className="mb-8 rounded-2xl bg-white border border-black/8 p-5 sm:p-6">
+                                <h2 className="text-sm font-bold text-[#1C1C1C] mb-2">
+                                    İlgili hesaplama araçları
+                                </h2>
+                                <p className="text-[11px] text-[#1C1C1C]/45 mb-3 leading-relaxed">
+                                    Bilgilendirme amaçlıdır; bu maddenin somut olaya uygulanması avukat
+                                    değerlendirmesi gerektirir.
+                                </p>
+                                <ul className="flex flex-wrap gap-2">
+                                    {araclarForKanun(kanunId).map((a) => (
+                                        <li key={a.id}>
+                                            <Link
+                                                href={`/hesaplama/${a.id}`}
+                                                className="inline-flex items-center gap-1.5 text-xs font-semibold px-3 py-1.5 rounded-full bg-[#C45A38]/8 text-[#C45A38] hover:bg-[#C45A38] hover:text-white transition-colors"
+                                            >
+                                                <span aria-hidden>{a.icon}</span>
+                                                {a.baslik}
+                                            </Link>
+                                        </li>
+                                    ))}
+                                </ul>
+                            </section>
+                        )}
 
                         <nav
                             className="flex flex-wrap gap-2 justify-between items-center mt-8 pt-4 border-t border-black/8"

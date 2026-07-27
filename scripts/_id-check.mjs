@@ -1,0 +1,11 @@
+import { readFileSync } from 'fs';
+import { join, dirname } from 'path';
+import { fileURLToPath } from 'url';
+const root = join(dirname(fileURLToPath(import.meta.url)), '..');
+const meta = readFileSync(join(root, 'lib/hesaplama-meta.ts'), 'utf8');
+const tools = readFileSync(join(root, 'components/hesaplama/HesaplamaTools.tsx'), 'utf8');
+const metaIds = [...meta.matchAll(/^\s+id: '([^']+)',$/gm)].map((x) => x[1]);
+const toolIds = [...tools.matchAll(/\{ id: "([^"]+)"/g)].map((x) => x[1]);
+console.log('meta', metaIds.length, 'tools', toolIds.length);
+console.log('onlyMeta', metaIds.filter((i) => !toolIds.includes(i)));
+console.log('onlyTool', toolIds.filter((i) => !metaIds.includes(i)));

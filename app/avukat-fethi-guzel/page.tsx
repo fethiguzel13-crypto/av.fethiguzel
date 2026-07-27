@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
 import CredentialsStrip from '@/components/CredentialsStrip'
 import { Scale, MapPin, BookOpen, Gavel, Mail, GraduationCap, Globe2, ExternalLink } from 'lucide-react'
-import { PROFILE, BOLGELER, SITE_URL, CREDENTIAL_BULLETS } from '@/lib/profile'
+import { PROFILE, BOLGELER, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile'
 
 const photoPath = PROFILE.photo
 const photoAbs = `${SITE_URL}${photoPath}`
@@ -45,6 +45,8 @@ export const metadata: Metadata = {
         card: 'summary_large_image',
         title: 'Av. Fethi Güzel',
         images: [photoAbs],
+        site: '@avfethiguzel',
+        creator: '@avfethiguzel',
     },
 }
 
@@ -79,13 +81,7 @@ export default function AvukatFethiGuzelPage() {
             'e-duruşma',
             ...PROFILE.practiceAreas,
         ],
-        sameAs: [
-            SITE_URL,
-            `${SITE_URL}/akademik-profil`,
-            `${SITE_URL}/eserlerim`,
-            PROFILE.book.url,
-            'https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk',
-        ],
+        sameAs: [...SOCIAL_SAME_AS],
     }
 
     const bookLd = {
@@ -205,6 +201,22 @@ export default function AvukatFethiGuzelPage() {
                                 className="inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90"
                             >
                                 <Mail size={16} /> E-posta ile iletişim
+                            </a>
+                            <a
+                                href={PROFILE.social.instagram.url}
+                                target="_blank"
+                                rel="noopener noreferrer me"
+                                className="inline-flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10"
+                            >
+                                Instagram
+                            </a>
+                            <a
+                                href={PROFILE.social.twitter.url}
+                                target="_blank"
+                                rel="noopener noreferrer me"
+                                className="inline-flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10"
+                            >
+                                X / Twitter
                             </a>
                             <Link
                                 href="/akademik-profil"

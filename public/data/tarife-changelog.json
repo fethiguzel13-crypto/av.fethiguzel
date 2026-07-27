@@ -1,0 +1,117 @@
+{
+    "updatedAt": "2026-07-25",
+    "title": "Tarife ve parametre güncellemeleri",
+    "disclaimer": "Resmî tebliğ ve genelgeler esastır. Bu kayıt bilgilendirme amaçlıdır.",
+    "items": [
+        {
+            "id": "kidem-2026-ii",
+            "date": "2026-07-01",
+            "category": "Kıdem tavanı",
+            "title": "2026/II kıdem tazminatı tavanı",
+            "detail": "Hazine ve Maliye Bakanlığı genelgesi ile 01.07.2026–31.12.2026 dönemi tavanı portala işlendi (73.729,87 TL — araç içi tablo).",
+            "affects": [
+                "kidem",
+                "kidem-ise-iade"
+            ],
+            "source": "Hazine ve Maliye B. genelgesi / dönemsel tavan"
+        },
+        {
+            "id": "kidem-2026-i",
+            "date": "2026-01-01",
+            "category": "Kıdem tavanı",
+            "title": "2026/I kıdem tazminatı tavanı",
+            "detail": "01.01.2026–30.06.2026 dönemi tavanı (64.948,77 TL).",
+            "affects": [
+                "kidem",
+                "kidem-ise-iade"
+            ],
+            "source": "Hazine ve Maliye B. genelgesi"
+        },
+        {
+            "id": "aaut-2026",
+            "date": "2026-01-01",
+            "category": "AAÜT",
+            "title": "2026 Avukatlık Asgari Ücret Tarifesi",
+            "detail": "Vekalet ücreti (nispi/maktu) aracı 2026 tarife basamaklarına göre güncellenmiştir; yeni tarife yayımlandığında kontrol scripti uyarı üretir.",
+            "affects": [
+                "vekalet",
+                "risk"
+            ],
+            "source": "AAÜT Resmî Gazete"
+        },
+        {
+            "id": "harc-2026",
+            "date": "2026-01-01",
+            "category": "Harçlar",
+            "title": "2026 yargı harçları / gider avansı parametreleri",
+            "detail": "Dava açma harcı, istinaf/temyiz ve icra kapak araçlarındaki 2026 parametreleri.",
+            "affects": [
+                "dava-harci",
+                "istinaf-temyiz",
+                "icra-kapak"
+            ],
+            "source": "Harçlar Kanunu / tebliğler"
+        },
+        {
+            "id": "asgari-bordro-2026",
+            "date": "2026-01-01",
+            "category": "Bordro",
+            "title": "2026 net/brüt ve işsizlik ödeneği parametreleri",
+            "detail": "Bordro ve işsizlik maaşı araçları 2026 varsayımlarıyla işaretlenmiştir; asgari ücret ara zammında güncellenmelidir.",
+            "affects": [
+                "net-brut-maas",
+                "issizlik-maasi"
+            ],
+            "source": "Asgari ücret / SGK / İŞKUR"
+        }
+    ],
+    "watch": [
+        {
+            "key": "kidem_tavan",
+            "label": "Kıdem tazminatı tavanı",
+            "cadence": "semi-annual",
+            "months": [
+                1,
+                7
+            ],
+            "hint": "Her Ocak ve Temmuz genelgesini kontrol et"
+        },
+        {
+            "key": "aaut",
+            "label": "Avukatlık Asgari Ücret Tarifesi",
+            "cadence": "annual",
+            "months": [
+                1
+            ],
+            "hint": "Yıl başı Resmî Gazete AAÜT"
+        },
+        {
+            "key": "harclar",
+            "label": "Yargı harçları",
+            "cadence": "annual",
+            "months": [
+                1
+            ],
+            "hint": "Harç tebliğleri"
+        },
+        {
+            "key": "asgari_ucret",
+            "label": "Asgari ücret / bordro",
+            "cadence": "semi-annual",
+            "months": [
+                1,
+                7
+            ],
+            "hint": "Asgari ücret tespiti"
+        },
+        {
+            "key": "arabuluculuk_tarife",
+            "label": "Arabuluculuk asgari ücret",
+            "cadence": "annual",
+            "months": [
+                1
+            ],
+            "hint": "Arabuluculuk tarife tebliği"
+        }
+    ]
+}

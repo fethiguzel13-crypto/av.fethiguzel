@@ -5,13 +5,13 @@ import Footer from "@/components/Footer";
 import MevzuatSearch from "@/components/MevzuatSearch";
 
 export const metadata: Metadata = {
-    title: "Mevzuat Ara — 7800+ Madde ve Akademik Şerh",
+    title: "Site ve Mevzuat Ara — 7800+ Madde, Şerh, Hesaplama",
     description:
-        "TBK, TMK, TTK, TCK, HMK, İİK ve 40+ kanunda anında arama. Madde metni ve akademik şerhe tek tıkla ulaşın.",
+        "Tüm kanun maddelerinde tam metin arama: satım, satış, kıdem, nafaka… TBK, TMK, TTK, TCK ve 40+ kanun + hesaplama araçları.",
     alternates: { canonical: "https://avfethiguzel.com/ara" },
     openGraph: {
-        title: "Mevzuat Ara | Av. Fethi Güzel",
-        description: "Türkiye'nin kapsamlı dijital hukuk arşivinde madde ve şerh arayın.",
+        title: "Site ve Mevzuat Ara | Av. Fethi Güzel",
+        description: "Madde metninde kelime kelime arama; ilgili tüm kanunlar listelenir.",
         url: "https://avfethiguzel.com/ara",
     },
 };
@@ -23,13 +23,14 @@ export default function AraPage() {
             <Navbar />
             <main className="pt-36 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
                 <header className="mb-10 sm:mb-14 text-center">
-                    <p className="section-label mb-3">Anında Arama</p>
+                    <p className="section-label mb-3">Tam metin arama</p>
                     <h1 className="text-3xl sm:text-5xl text-charcoal font-bold mb-4 text-balance">
-                        Mevzuat <span className="font-drama italic text-accent">Ara</span>
+                        Site &amp; Mevzuat <span className="font-drama italic text-accent">Ara</span>
                     </h1>
                     <p className="text-charcoal/55 max-w-xl mx-auto text-base sm:text-lg leading-relaxed">
-                        Madde numarası, kanun adı veya hukuki kavram yazın; resmî metin ve akademik
-                        şerhe tek tıkla ulaşın.
+                        Örn. <strong className="text-charcoal/70 font-semibold">satım</strong> yazın —
+                        TBK taşınır/taşınmaz satışı, ilgili tüm maddeler ve hesaplama sayfaları listelenir.
+                        Arama resmî madde metninin tamamında yapılır.
                     </p>
                 </header>
                 <Suspense fallback={<div className="h-40 animate-pulse rounded-2xl bg-charcoal/5" />}>

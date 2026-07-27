@@ -8,6 +8,8 @@ Site: https://avfethiguzel.com
 İletişim: av.fethiguzel@hotmail.com
 Ofis: Vanyolu Mah. Karayusuf Bey Bulvarı, Zenginler İş Hanı Kat 4 No 26, Erciş / Van
 Kurucu: Av. Fethi Güzel (avukat & arabulucu)
+Instagram: https://www.instagram.com/av.fethiguzel/ (@av.fethiguzel)
+X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 
 ## Mesleki ve akademik kimlik (nesnel)
 
@@ -36,7 +38,15 @@ Kurucu: Av. Fethi Güzel (avukat & arabulucu)
 - Mevzuat ara: https://avfethiguzel.com/ara
 - Mevzuat arşivi: https://avfethiguzel.com/mevzuat
 - Günlük içtihat: https://avfethiguzel.com/icthat
-- Hesaplama: https://avfethiguzel.com/hesaplama
+- Kavram sözlüğü: https://avfethiguzel.com/kavram (satım, kıdem, nafaka…)
+- Hesaplama hub: https://avfethiguzel.com/hesaplama
+- Örnek araçlar: /hesaplama/kidem · /hesaplama/miras · /hesaplama/faiz · /hesaplama/vekalet
+- Tarife güncellemeleri: https://avfethiguzel.com/tarife-guncellemeleri
+- Haftalık içtihat: https://avfethiguzel.com/icthat/haftalik
+- Ön form: https://avfethiguzel.com/on-form
+- e-Duruşma hub: https://avfethiguzel.com/e-durusma
+- Bookmarklet: https://avfethiguzel.com/bookmarklet
+- Arabic landing: https://avfethiguzel.com/ar
 - Makaleler: https://avfethiguzel.com/makaleler
 - Gizlilik: https://avfethiguzel.com/gizlilik
 - Yasal uyarı: https://avfethiguzel.com/yasal-uyari

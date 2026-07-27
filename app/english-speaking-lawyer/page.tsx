@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import { PROFILE, SITE_URL } from '@/lib/profile';
+import { PROFILE, SITE_URL, SOCIAL_SAME_AS } from '@/lib/profile';
 import { Mail, BookOpen, Scale } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -36,6 +36,7 @@ export default function EnglishLawyerPage() {
         },
         description:
             'Turkish lawyer with professional working English; private-law doctoral studies; author of e-hearing monograph.',
+        sameAs: [...SOCIAL_SAME_AS],
     };
 
     return (
@@ -95,12 +96,30 @@ export default function EnglishLawyerPage() {
                     rank the lawyer against others.
                 </p>
 
-                <a
-                    href={`mailto:${PROFILE.email}?subject=Legal%20inquiry%20(English)`}
-                    className="inline-flex items-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90"
-                >
-                    <Mail size={16} /> Email in English
-                </a>
+                <div className="flex flex-col sm:flex-row flex-wrap gap-3">
+                    <a
+                        href={`mailto:${PROFILE.email}?subject=Legal%20inquiry%20(English)`}
+                        className="inline-flex items-center justify-center gap-2 bg-accent text-white px-6 py-3.5 rounded-full font-bold text-sm hover:bg-accent/90"
+                    >
+                        <Mail size={16} /> Email in English
+                    </a>
+                    <a
+                        href={PROFILE.social.instagram.url}
+                        target="_blank"
+                        rel="noopener noreferrer me"
+                        className="inline-flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10"
+                    >
+                        Instagram
+                    </a>
+                    <a
+                        href={PROFILE.social.twitter.url}
+                        target="_blank"
+                        rel="noopener noreferrer me"
+                        className="inline-flex items-center justify-center gap-2 bg-charcoal/5 text-charcoal px-6 py-3.5 rounded-full font-bold text-sm hover:bg-charcoal/10"
+                    >
+                        X / Twitter
+                    </a>
+                </div>
                 <p className="mt-6 text-sm">
                     <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
                         Turkish profile →

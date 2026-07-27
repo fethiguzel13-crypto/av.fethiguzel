@@ -3,7 +3,7 @@ import Link from 'next/link';
 import Image from 'next/image';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import { PROFILE, SITE_URL, CREDENTIAL_BULLETS } from '@/lib/profile';
+import { PROFILE, SITE_URL, CREDENTIAL_BULLETS, SOCIAL_SAME_AS } from '@/lib/profile';
 import { BookOpen, GraduationCap, Globe2, ExternalLink } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -37,6 +37,7 @@ export default function AkademikProfilPage() {
             },
         ],
         knowsAbout: [...PROFILE.academic.fields, 'e-duruşma', 'Medeni usul hukuku'],
+        sameAs: [...SOCIAL_SAME_AS],
     };
 
     const bookLd = {

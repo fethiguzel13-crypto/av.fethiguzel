@@ -13,6 +13,7 @@
     "test:scripts": "node --test \"scripts/lib/__tests__/*.test.js\"",
     "build:daily": "node scripts/build-daily.js",
     "build:index": "node scripts/build-mevzuat-index.mjs",
+    "build:site-search": "node scripts/build-site-search-only.mjs",
     "social:draft": "node scripts/social-draft.js",
     "social:seed": "node scripts/social-draft-seed.js",
     "social:publish": "node scripts/social-publish.js",
@@ -21,7 +22,13 @@
     "social:youtube-story": "node scripts/youtube-storyboard-render.js",
     "social:youtube-cine": "node scripts/youtube-cinematic-render.js",
     "social:youtube-cast": "node scripts/youtube-cast-cinematic.js",
-    "social:daily": "node scripts/startup-social.js"
+    "social:daily": "node scripts/startup-social.js",
+    "maintenance": "node scripts/startup-maintenance.js",
+    "maintenance:tarifeler": "node scripts/check-tarifeler.js",
+    "maintenance:weekly": "node scripts/weekly-icthat-digest.js",
+    "maintenance:links": "node scripts/link-check.js",
+    "maintenance:setup": "powershell -ExecutionPolicy Bypass -File scripts/setup-maintenance-scheduler.ps1",
+    "forum:draft": "node scripts/forum-draft.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.0",

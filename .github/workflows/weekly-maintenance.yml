@@ -1,0 +1,36 @@
+# Haftalık bakım: içtihat özeti + tarife hatırlatma (repo üzerinde)
+# Windows PC kapalı olsa bile GitHub Actions çalışır (secret gerekmez).
+name: weekly-maintenance
+
+on:
+  schedule:
+    - cron: '0 6 * * 1' # Pazartesi 06:00 UTC ≈ 09:00 TR
+  workflow_dispatch:
+
+jobs:
+  maintain:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run maintenance scripts
+        env:
+          LINK_CHECK_BASE: https://avfethiguzel.com
+        run: |
+          node scripts/check-tarifeler.js
+          node scripts/weekly-icthat-digest.js
+          node scripts/forum-draft.js --count 5
+          node scripts/link-check.js --base https://avfethiguzel.com || true
+      - name: Commit weekly digest if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data/weekly-digests logs/maintenance logs/forum-drafts || true
+          if git diff --staged --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: weekly maintenance + forum drafts [skip ci]"
+            git push || echo "push skipped (permissions)"
+          fi

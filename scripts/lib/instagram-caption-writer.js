@@ -2,20 +2,22 @@ import { completeText } from './llm-client.js';
 
 const SYSTEM = `Sen Av. Fethi Güzel adına Instagram için hukuki içerik yazıyorsun.
 
-Kimlik: Ciddi, ölçülü, akademik-pratik denge. Influencer dili yok.
-Kitle: Hukukçu ve bilinçli vatandaş.
+Kimlik: Canlı, sıcak, güvenilir avukat. Halk dili + azıcık daha zengin anlatım.
+Kitle: Vatandaş; sıkıcı jargonsuz ama yavan da değil.
 
 Kurallar:
-1) 400–700 karakter (hashtag hariç). Paragraflı, okunaklı.
-2) Konunun hukuki özünü doğru ver; sansasyon yok.
-3) "Devamı profilde", "link bio", "hikâyede", "kaydetmeyi unutma" YASAK.
-4) Site referansı en fazla bir kez ve sade: satır olarak avfethiguzel.com veya ilgili madde yolu.
-5) Siyaset yok.
-6) Emoji en fazla 1 adet veya hiç.
-7) Sadece caption gövdesini yaz; hashtag listesini ekleme.`;
+1) 650–1000 karakter (hashtag hariç). 3–5 paragraf. Biraz daha zengin metin.
+2) Akış: Ne oldu (canlı sahne) → Mahkeme ne dedi → Sizin hayatınıza dokunan anlam → kısa genel bilgilendirme notu.
+3) Cümleler biraz daha uzun ve akıcı olsun; 4–5 kelimelik vuruş cümlelerden kaçın, düşünceyi nefes alarak tamamla.
+4) Dil canlı olsun: “Mahkeme sessiz kaldı”, “dosyaya giren dilekçe yok sayılamaz” gibi; abartı/sansasyon yok.
+5) Teknik terimi kullanırsan hemen sadeleştir.
+6) "Devamı profilde", "link bio", "kaydet" YASAK.
+7) Site en fazla bir kez, sade satır: avfethiguzel.com (veya ilgili yol).
+8) Siyaset yok. Emoji en fazla 1 veya hiç.
+9) Sadece caption gövdesi; hashtag ekleme.`;
 
 const HASHTAGS = {
-  AYM: '#hukuk #içtihat #AYM #anayasahukuku',
+  AYM: '#hukuk #içtihat #AYM #AnayasaMahkemesi',
   Yargıtay: '#hukuk #içtihat #Yargıtay',
   YİBK: '#hukuk #Yargıtay #YİBK',
   AİHM: '#hukuk #AİHM #insanHakları',
@@ -34,16 +36,16 @@ function hashtagsFor(source, category) {
 }
 
 function summaryFor(h) {
-  return (h.publicSummary || h.konu || '').trim().slice(0, 700);
+  return (h.publicSummary || h.konu || '').trim().slice(0, 800);
 }
 
-const HEADLINE_SYSTEM = `Instagram kartı için tek cümlelik başlık yazıyorsun (hukuk editörü).
+const HEADLINE_SYSTEM = `Instagram kartı için tek cümlelik başlık yazıyorsun.
 
 Kurallar:
-- Tam cümle, nokta ile bitsin
-- En fazla 110 karakter
-- Sansasyon yok ("şok", "bomba" yok)
-- Teknik isabetli, sade Türkçe
+- Canlı, net, halk dili (ama sansasyon yok)
+- Biraz daha uzun, akıcı tek cümle; nokta ile bitsin
+- En fazla 140 karakter
+- Kararın özü: ne korundu / ne hatırlatıldı
 - Sadece cümleyi yaz`;
 
 export async function generateCardHeadlines(highlights) {
@@ -51,8 +53,9 @@ export async function generateCardHeadlines(highlights) {
   for (const h of highlights) {
     const raw = await completeText({
       system: HEADLINE_SYSTEM,
-      maxTokens: 80,
-      user: `Kaynak: ${h.source}\nKünye: ${h.kunye || ''}\nÖzet: ${summaryFor(h)}\n\nTek cümle.`,
+      maxTokens: 140,
+      minChars: 40,
+      user: `Kaynak: ${h.source}\nKünye: ${h.kunye || ''}\nÖzet: ${summaryFor(h)}\n\nTek tam cümle, canlı ve net. Yarım bırakma.`,
     });
     headlines.push(raw.replace(/^["']|["']$/g, '').trim());
   }
@@ -62,24 +65,26 @@ export async function generateCardHeadlines(highlights) {
 export async function writeCaptions(highlights) {
   const captions = [];
   for (const h of highlights) {
+    const site = (h.url || 'https://avfethiguzel.com').replace(/^https?:\/\//, '');
     const raw = await completeText({
       system: SYSTEM,
-      maxTokens: 500,
+      maxTokens: 900,
+      minChars: 280,
       user: `Kaynak: ${h.source}
 Künye: ${h.kunye || h.title || ''}
 Özet: ${summaryFor(h)}
-İlgili sayfa (istersen satır olarak kullan): ${(h.url || 'avfethiguzel.com').replace(/^https?:\/\//, '')}
+Site satırı (caption sonunda bir kez): ${site}
 
-Caption gövdesi yaz (hashtag yok).`,
+Canlı ve biraz daha zengin caption yaz (hashtag yok).
+3–5 paragraf; hikâye + karar + anlam.
+Cümleleri biraz daha uzun ve akıcı kur; yarım bırakma.`,
     });
     const hashtags = hashtagsFor(h.source, h.category);
-    const body = raw.trim();
-    // Ensure soft site line if model omitted it
-    const hasSite = /avfethiguzel\.com/i.test(body);
-    const withSite = hasSite
-      ? body
-      : `${body}\n\n${(h.url || 'https://avfethiguzel.com').replace(/^https?:\/\//, '')}`;
-    captions.push(`${withSite}\n\n${hashtags}`);
+    let body = raw.trim();
+    if (!/avfethiguzel\.com/i.test(body)) {
+      body = `${body}\n\n${site}`;
+    }
+    captions.push(`${body}\n\n${hashtags}`);
   }
   return captions;
 }

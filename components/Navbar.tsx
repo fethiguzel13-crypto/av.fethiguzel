@@ -2,8 +2,8 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
-import { usePathname } from 'next/navigation';
-import { Menu, X, Scale, ChevronDown } from 'lucide-react';
+import { usePathname, useRouter } from 'next/navigation';
+import { Menu, X, Scale, ChevronDown, Search } from 'lucide-react';
 
 const MEVZUAT_GRUPLARI = [
   {
@@ -98,8 +98,22 @@ export default function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [megaOpen, setMegaOpen] = useState(false);
+  const [navQ, setNavQ] = useState('');
   const megaRef = useRef<HTMLDivElement>(null);
   const pathname = usePathname();
+  const router = useRouter();
+
+  const submitNavSearch = (e: React.FormEvent) => {
+    e.preventDefault();
+    const q = navQ.trim();
+    if (!q) {
+      router.push('/ara');
+      return;
+    }
+    setMobileOpen(false);
+    setMegaOpen(false);
+    router.push(`/ara?q=${encodeURIComponent(q)}`);
+  };
 
   // Ana sayfa dışındaki sayfaların üstü açık zeminli olduğundan, navbar
   // oralarda her zaman "solid" (koyu yazı + glass) görünmeli; yoksa açık
@@ -224,6 +238,25 @@ export default function Navbar() {
           </div>
         </div>
 
+        {/* Gerçek arama — /ara?q= */}
+        <form
+          onSubmit={submitNavSearch}
+          className={`hidden md:flex items-center gap-1 rounded-full border px-2.5 py-1.5 shrink-0 max-w-[14rem] lg:max-w-[16rem] ${solid ? 'border-charcoal/12 bg-white/90' : 'border-cream/25 bg-cream/10'
+            }`}
+          role="search"
+        >
+          <Search size={14} className={solid ? 'text-charcoal/40' : 'text-cream/70'} aria-hidden />
+          <input
+            type="search"
+            value={navQ}
+            onChange={(e) => setNavQ(e.target.value)}
+            placeholder="Satım, kıdem, TBK…"
+            aria-label="Site ve mevzuat ara"
+            className={`w-full min-w-0 bg-transparent text-[11px] outline-none placeholder:opacity-60 ${solid ? 'text-charcoal placeholder:text-charcoal/40' : 'text-cream placeholder:text-cream/55'
+              }`}
+          />
+        </form>
+
         {/* CTA */}
         <Link
           href="/#iletisim"
@@ -256,13 +289,22 @@ export default function Navbar() {
               {item.name}
             </Link>
           ))}
-          <Link
-            href="/ara"
-            onClick={() => setMobileOpen(false)}
-            className="mt-2 mb-3 block text-center bg-charcoal text-white py-3 rounded-2xl font-bold text-sm"
-          >
-            MEVZUAT ARA
-          </Link>
+          <form onSubmit={submitNavSearch} className="mt-2 mb-3 flex gap-2" role="search">
+            <input
+              type="search"
+              value={navQ}
+              onChange={(e) => setNavQ(e.target.value)}
+              placeholder="Satım, kıdem, TBK 207…"
+              aria-label="Site ve mevzuat ara"
+              className="flex-1 rounded-2xl border border-charcoal/12 bg-white px-4 py-3 text-sm text-charcoal"
+            />
+            <button
+              type="submit"
+              className="shrink-0 bg-charcoal text-white px-4 py-3 rounded-2xl font-bold text-sm"
+            >
+              Ara
+            </button>
+          </form>
           <div className="mt-3">
             <p className="text-[10px] font-mono uppercase tracking-widest text-charcoal/30 mb-4">Mevzuat</p>
             {MEVZUAT_GRUPLARI.map(g => (

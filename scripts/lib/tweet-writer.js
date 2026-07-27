@@ -1,23 +1,29 @@
 import { completeText } from './llm-client.js';
 
-const SYSTEM = `Sen Av. Fethi Güzel adına X/Twitter için hukuki içerik yazıyorsun.
+/**
+ * X/Twitter only — Instagram'dan ayrı üslup:
+ * Sade, normal yazı; hukuki-felsefi; "olması gereken" (normatif) çizgi.
+ * Siyaset yok.
+ */
+const SYSTEM = `Sen Av. Fethi Güzel adına X/Twitter için hukuki not yazıyorsun.
 
-Kimlik: Tecrübeli, sakin, akademik üsluba yakın bir avukat. Popüler hukukçu pozları yok.
-Kitle: Hukukçular, stajyerler, hukuk meraklısı okuyucular — ciddi ton.
+Üslup (Instagram'dan farklı):
+- Normal, sakin yazı — canlı hikâye dili, sahne, "işçi kardeşimiz" yok.
+- Profesör / kıdemli hukukçu: hukuki ve felsefi.
+- Kararı özetle, sonra "olması gereken"i söyle: adalet, usul, hak arama, hürriyet açısından ne doğru olurdu / ne vazgeçilmezdir.
+- "Şöyle olması gerekir", "Usul adaletin taşıyıcısı olmalıdır" gibi ölçülü, normatif cümleler kur.
+- Siyaset, parti, ideoloji, kampanya dili YASAK.
+- Sansasyon yok. Emir kipi ve tık tuzağı yok.
 
-Kurallar:
-1) Metin hukuki olarak isabetli olsun; abartı, sansasyon, "şok karar" dili YOK.
-2) Jargonu tamamen silme; teknik terimi kullanıyorsan bir cümlede anlaşılır kıl.
-3) Maksimum 210 karakter (link ve hashtag ayrıca eklenecek).
-4) "Devamı sitede", "link bio'da", "profildeki link", "tıkla oku" gibi tuzak cümleler YASAK.
-5) Siyaset, parti, ideoloji yok.
-6) Okuyucuya emir kipi verme; bilgilendir.
-7) Karar/metin özünü tek net fikirle ver.
-8) Sadece tweet gövdesini yaz; hashtag, URL, tırnak açıklaması ekleme.`;
+Biçim:
+1) 2–3 tam cümle; biraz uzun ve akıcı olabilir.
+2) Gövde yaklaşık 190–240 karakter (link/hashtag ayrıca eklenir); toplam 280'e sığmalı.
+3) Hashtag ve URL yazma — sadece gövde.
+4) "Devamı sitede", "link bio" YASAK.`;
 
 const HASHTAGS = {
-  AYM: '#hukuk #AYM',
-  Yargıtay: '#hukuk #Yargıtay',
+  AYM: '#hukuk #AYM #içtihat',
+  Yargıtay: '#hukuk #Yargıtay #içtihat',
   YİBK: '#hukuk #YİBK',
   AİHM: '#hukuk #AİHM',
   TBK: '#hukuk #TBK',
@@ -31,14 +37,13 @@ const HASHTAGS = {
 
 function hashtagsFor(source, category) {
   if (source === 'Yargıtay' && category === 'YİBK') return HASHTAGS.YİBK;
-  return HASHTAGS[source] || '#hukuk';
+  return HASHTAGS[source] || '#hukuk #içtihat';
 }
 
 function summaryFor(h) {
-  return (h.publicSummary || h.konu || h.title || '').trim().slice(0, 600);
+  return (h.publicSummary || h.konu || h.title || '').trim().slice(0, 700);
 }
 
-/** Soft site reference: bare domain only, no "continue on site" language */
 function softLink(h) {
   if (h.url && h.url.includes('avfethiguzel.com')) {
     return h.url.replace(/^https?:\/\//, '');
@@ -52,22 +57,40 @@ export async function writeTweets(highlights) {
     const summary = summaryFor(h);
     const body = await completeText({
       system: SYSTEM,
-      maxTokens: 220,
+      maxTokens: 400,
+      minChars: 100,
       user: `Kaynak: ${h.source}
 Künye: ${h.kunye || h.title || ''}
 Özet: ${summary}
 
-Tek tweet gövdesi yaz (hashtag ve link yok).`,
+Normal hukuki-felsefi tweet gövdesi yaz (Instagram hikâye dili kullanma).
+1) Kararın özü (kısa)
+2) Olması gereken: usul/adalet/hak arama açısından ne doğru olurdu veya neden vazgeçilmez
+2–3 cümle, yarım bırakma. Hashtag/URL yok.`,
     });
-    const clean = body
+    let clean = body
       .replace(/^["«»]|["«»]$/g, '')
       .replace(/\n+/g, ' ')
       .trim();
+    clean = clean
+      .replace(/\b(iktidar|muhalefet|parti|seçim kampanyası)\b/gi, '')
+      .replace(/\s{2,}/g, ' ')
+      .trim();
+
     const hashtags = hashtagsFor(h.source, h.category);
     const link = softLink(h);
-    // Link as plain reference at end — not "devamı için"
-    const full = `${clean}\n\n${link}\n${hashtags}`;
-    tweets.push(full.slice(0, 280));
+    const suffix = `\n\n${link}\n${hashtags}`;
+    if ((clean + suffix).length <= 280) {
+      tweets.push(clean + suffix);
+    } else {
+      // Prefer complete sentences: drop last incomplete clause if needed
+      let budget = 280 - suffix.length;
+      let cut = clean.slice(0, budget);
+      const lastStop = Math.max(cut.lastIndexOf('.'), cut.lastIndexOf(';'));
+      if (lastStop > 80) cut = cut.slice(0, lastStop + 1);
+      else cut = cut.replace(/\s+\S*$/, '').trim() + '.';
+      tweets.push(cut + suffix);
+    }
   }
   return tweets;
 }

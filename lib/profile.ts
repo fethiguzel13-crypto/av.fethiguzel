@@ -11,6 +11,11 @@ export const PROFILE = {
     alternateNames: ['Avukat Fethi Güzel', 'Fethi Güzel', 'Av. Fethi Güzel'],
     jobTitle: 'Avukat & Arabulucu',
     email: 'av.fethiguzel@hotmail.com',
+    /**
+     * WhatsApp iş hattı — rakamları güncelleyin (ülke kodu + numara, + yok).
+     * Boş bırakılırsa sitede e-posta CTA kullanılır.
+     */
+    whatsapp: '',
     /** Factual academic path — özel hukuk / private law doctoral work */
     academic: {
         headline: 'Özel hukuk alanında doktora çalışmaları',
@@ -39,6 +44,18 @@ export const PROFILE = {
     },
     photo: '/images/av-fethi-guzel-van-ercis-avukat.jpg',
     ogImage: '/images/av-fethi-guzel-og.jpg',
+    social: {
+        instagram: {
+            handle: 'av.fethiguzel',
+            url: 'https://www.instagram.com/av.fethiguzel/',
+            label: 'Instagram',
+        },
+        twitter: {
+            handle: 'avfethiguzel',
+            url: 'https://x.com/avfethiguzel',
+            label: 'X (Twitter)',
+        },
+    },
     book: {
         title:
             'Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi Yoluyla Duruşma İcrası (e-duruşma)',
@@ -98,6 +115,18 @@ export const BOLGELER: Bolge[] = [
 export function bolgeBySlug(slug: string): Bolge | undefined {
     return BOLGELER.find((b) => b.slug === slug);
 }
+
+/** Schema.org sameAs + footer — tüm sayfalarda tutarlı profil bağlantıları */
+export const SOCIAL_SAME_AS = [
+    SITE_URL,
+    `${SITE_URL}/avukat-fethi-guzel`,
+    `${SITE_URL}/akademik-profil`,
+    `${SITE_URL}/eserlerim`,
+    PROFILE.book.url,
+    PROFILE.social.instagram.url,
+    PROFILE.social.twitter.url,
+    'https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk',
+] as const;
 
 export const CREDENTIAL_BULLETS = [
     `${PROFILE.academic.headline} — medeni, borçlar, ticaret ve usul hukuku ekseninde akademik araştırma.`,

@@ -9,16 +9,26 @@ function truncate(text, maxLen) {
   return t.length > maxLen ? t.slice(0, maxLen - 1) + '…' : t;
 }
 
-const BADGE_COLORS = {
-  AYM: '#c9a84c',
-  Yargıtay: '#c9a84c',
-  AİHM: '#c9a84c',
-  RG: '#c9a84c',
-};
+function escapeHtml(s) {
+  return String(s)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+/** Site line under the visual (örnek.jpeg düzeni: isim + site altta) */
+function siteLine(h) {
+  if (h?.url && /avfethiguzel\.com/i.test(h.url)) {
+    return h.url.replace(/^https?:\/\//, '').replace(/\/$/, '');
+  }
+  return 'avfethiguzel.com';
+}
 
 export function buildCardHtml(h) {
-  const konu = truncate(h.cardText || h.publicSummary || h.konu || '', 160);
-  const kunye = h.kunye ? truncate(h.kunye, 80) : '';
+  const konu = escapeHtml(truncate(h.cardText || h.publicSummary || h.konu || '', 190));
+  const kunye = h.kunye ? escapeHtml(truncate(h.kunye, 90)) : '';
+  const site = escapeHtml(siteLine(h));
 
   const cornerSvg = `<svg viewBox="0 0 110 110" xmlns="http://www.w3.org/2000/svg">
     <path d="M8,8 L8,90" stroke="#5a3008" stroke-width="4" fill="none" stroke-linecap="round"/>
@@ -66,10 +76,8 @@ export function buildCardHtml(h) {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 0;
   }
 
-  /* Inner decorative border line */
   .inner-border {
     position: absolute;
     top: 60px; left: 60px; right: 60px; bottom: 60px;
@@ -77,7 +85,6 @@ export function buildCardHtml(h) {
     pointer-events: none;
   }
 
-  /* Corner SVGs */
   .corner {
     position: absolute;
     width: 110px;
@@ -88,21 +95,20 @@ export function buildCardHtml(h) {
   .bl { bottom: 14px; left: 14px; transform: scaleY(-1); }
   .br { bottom: 14px; right: 14px; transform: scale(-1,-1); }
 
-  /* Content */
   .content {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    gap: 36px;
-    padding: 90px 90px 120px;
+    gap: 32px;
+    padding: 90px 80px 150px;
     position: relative;
     z-index: 1;
     width: 100%;
   }
 
   .scales {
-    font-size: 96px;
+    font-size: 92px;
     line-height: 1;
     filter: drop-shadow(0 4px 8px rgba(0,0,0,0.35));
     flex-shrink: 0;
@@ -110,41 +116,57 @@ export function buildCardHtml(h) {
 
   .main-text {
     font-family: Georgia, 'Times New Roman', serif;
-    font-size: 48px;
+    font-size: 44px;
     font-weight: bold;
     color: #0e0700;
     text-align: center;
-    line-height: 1.45;
+    line-height: 1.42;
     text-shadow: 0 1px 0 rgba(200,140,40,0.2);
   }
 
   .citation {
     font-family: Georgia, 'Times New Roman', serif;
-    font-size: 32px;
+    font-size: 28px;
     font-weight: bold;
     color: #1e0f00;
     text-align: center;
     line-height: 1.3;
   }
 
-  /* Bottom attribution ribbon */
+  /* Alt şerit: isim + site (örnek.jpeg gibi görselin altında) */
   .ribbon {
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
-    height: 72px;
-    background: linear-gradient(180deg, rgba(80,40,5,0) 0%, rgba(70,35,5,0.88) 45%, rgba(55,28,3,0.97) 100%);
+    min-height: 110px;
+    padding: 18px 24px 22px;
+    background: linear-gradient(180deg, rgba(80,40,5,0) 0%, rgba(70,35,5,0.9) 35%, rgba(45,22,2,0.98) 100%);
     display: flex;
+    flex-direction: column;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-end;
+    gap: 6px;
+    border-top: 1px solid rgba(90,48,8,0.4);
+    z-index: 2;
+  }
+
+  .ribbon-name {
     font-family: Georgia, serif;
     font-style: italic;
     font-size: 28px;
     letter-spacing: 3px;
     color: #f5e090;
     text-shadow: 0 1px 4px rgba(0,0,0,0.6);
-    border-top: 1px solid rgba(90,48,8,0.4);
+  }
+
+  .ribbon-site {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-size: 26px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    color: #ffe9a8;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.55);
   }
 </style>
 </head>
@@ -162,7 +184,10 @@ export function buildCardHtml(h) {
     ${kunye ? `<div class="citation">(${kunye})</div>` : ''}
   </div>
 
-  <div class="ribbon">Av. Fethi Güzel</div>
+  <div class="ribbon">
+    <div class="ribbon-name">Av. Fethi Güzel</div>
+    <div class="ribbon-site">${site}</div>
+  </div>
 </div>
 </body>
 </html>`;

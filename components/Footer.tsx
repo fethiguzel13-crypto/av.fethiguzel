@@ -3,6 +3,25 @@
 import React from 'react';
 import Link from 'next/link';
 import { MapPin, Mail, Scale, Clock } from 'lucide-react';
+import { PROFILE } from '@/lib/profile';
+
+function InstagramIcon({ size = 18 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="none" aria-hidden>
+      <rect x="2" y="2" width="20" height="20" rx="5" stroke="currentColor" strokeWidth="1.75" />
+      <circle cx="12" cy="12" r="4.25" stroke="currentColor" strokeWidth="1.75" />
+      <circle cx="17.5" cy="6.5" r="1.15" fill="currentColor" />
+    </svg>
+  );
+}
+
+function XIcon({ size = 16 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+      <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.744l7.727-8.835L1.254 2.25H8.08l4.253 5.622L18.244 2.25zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77z" />
+    </svg>
+  );
+}
 
 export default function Footer() {
   return (
@@ -49,10 +68,10 @@ export default function Footer() {
                 <div>
                   <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-2 font-bold">E-Posta</h4>
                   <a
-                    href="mailto:av.fethiguzel@hotmail.com"
+                    href={`mailto:${PROFILE.email}`}
                     className="text-cream text-lg hover:text-accent transition-colors"
                   >
-                    av.fethiguzel@hotmail.com
+                    {PROFILE.email}
                   </a>
                   <p className="mt-2 text-cream/40 text-xs">Yanıt süresi genellikle 1–2 iş günü</p>
                 </div>
@@ -68,6 +87,50 @@ export default function Footer() {
                     Hafta içi 09:00 – 18:00<br />
                     <span className="text-cream/50 text-sm">Randevu ile görüşme önerilir</span>
                   </p>
+                </div>
+              </div>
+
+              <div>
+                <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-3 font-bold">Sosyal Medya</h4>
+                <div className="flex flex-wrap items-center gap-3">
+                  <a
+                    href={PROFILE.social.instagram.url}
+                    target="_blank"
+                    rel="noopener noreferrer me"
+                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent hover:border-accent hover:text-white transition-colors"
+                    aria-label={`Instagram — @${PROFILE.social.instagram.handle}`}
+                  >
+                    <InstagramIcon />
+                    <span className="font-medium">@{PROFILE.social.instagram.handle}</span>
+                  </a>
+                  <a
+                    href={PROFILE.social.twitter.url}
+                    target="_blank"
+                    rel="noopener noreferrer me"
+                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent hover:border-accent hover:text-white transition-colors"
+                    aria-label={`X / Twitter — @${PROFILE.social.twitter.handle}`}
+                  >
+                    <XIcon />
+                    <span className="font-medium">@{PROFILE.social.twitter.handle}</span>
+                  </a>
+                  {PROFILE.whatsapp ? (
+                    <a
+                      href={`https://wa.me/${PROFILE.whatsapp}?text=${encodeURIComponent('Merhaba, avfethiguzel.com üzerinden yazıyorum.')}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent hover:border-accent hover:text-white transition-colors"
+                      aria-label="WhatsApp"
+                    >
+                      WhatsApp
+                    </a>
+                  ) : (
+                    <Link
+                      href="/on-form"
+                      className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-cream/5 border border-cream/10 text-cream text-sm hover:bg-accent hover:border-accent hover:text-white transition-colors"
+                    >
+                      Ön değerlendirme formu
+                    </Link>
+                  )}
                 </div>
               </div>
             </div>
@@ -103,9 +166,16 @@ export default function Footer() {
             <div className="flex flex-col gap-2 text-sm text-cream/70">
               <Link href="/makaleler" className="hover:text-accent transition-colors">Makaleler</Link>
               <Link href="/rehber" className="hover:text-accent transition-colors">Rehberler</Link>
+              <Link href="/kavram" className="hover:text-accent transition-colors">Kavramlar</Link>
               <Link href="/eserlerim" className="hover:text-accent transition-colors">Kitap / Eserler</Link>
+              <Link href="/e-durusma" className="hover:text-accent transition-colors">e-Duruşma</Link>
               <Link href="/akademik-profil" className="hover:text-accent transition-colors">Akademik Profil</Link>
               <Link href="/english-speaking-lawyer" className="hover:text-accent transition-colors">English</Link>
+              <Link href="/ar" className="hover:text-accent transition-colors">العربية</Link>
+              <Link href="/on-form" className="hover:text-accent transition-colors">Ön Form</Link>
+              <Link href="/tarife-guncellemeleri" className="hover:text-accent transition-colors">Tarife Güncellemeleri</Link>
+              <Link href="/icthat/haftalik" className="hover:text-accent transition-colors">Haftalık İçtihat</Link>
+              <Link href="/bookmarklet" className="hover:text-accent transition-colors">Mevzuat Yer İmi</Link>
               <Link href="/site-haritasi" className="hover:text-accent transition-colors">Site Haritası</Link>
             </div>
           </div>
@@ -150,7 +220,25 @@ export default function Footer() {
             </span>
           </div>
 
-          <div className="flex flex-wrap justify-center gap-6 sm:gap-8 text-[10px] font-bold text-cream/40 tracking-widest uppercase">
+          <div className="flex flex-wrap justify-center items-center gap-5 sm:gap-8 text-[10px] font-bold text-cream/40 tracking-widest uppercase">
+            <a
+              href={PROFILE.social.instagram.url}
+              target="_blank"
+              rel="noopener noreferrer me"
+              className="inline-flex items-center gap-1.5 hover:text-accent transition-colors normal-case tracking-normal text-xs"
+              aria-label={`Instagram — @${PROFILE.social.instagram.handle}`}
+            >
+              <InstagramIcon size={14} /> Instagram
+            </a>
+            <a
+              href={PROFILE.social.twitter.url}
+              target="_blank"
+              rel="noopener noreferrer me"
+              className="inline-flex items-center gap-1.5 hover:text-accent transition-colors normal-case tracking-normal text-xs"
+              aria-label={`X / Twitter — @${PROFILE.social.twitter.handle}`}
+            >
+              <XIcon size={13} /> X
+            </a>
             <Link href="/avukat-fethi-guzel" className="hover:text-accent transition-colors">Avukat Profili</Link>
             <Link href="/gizlilik" className="hover:text-accent transition-colors">Gizlilik / KVKK</Link>
             <Link href="/yasal-uyari" className="hover:text-accent transition-colors">Yasal Uyarı</Link>

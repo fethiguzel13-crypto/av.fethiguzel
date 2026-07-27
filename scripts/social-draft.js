@@ -61,12 +61,15 @@ async function main() {
         topics.map((t) => t.id || t.title).join(', ')
     );
 
-    const [tweets, captions, headlines, youtube] = await Promise.all([
-        writeTweets(topics),
-        writeCaptions(topics),
-        generateCardHeadlines(topics),
-        writeYoutubeScripts(topics),
-    ]);
+    // Sequential LLM calls (Gemini rate limits under parallel Promise.all)
+    console.log('[social-draft] LLM: tweets…');
+    const tweets = await writeTweets(topics);
+    console.log('[social-draft] LLM: captions…');
+    const captions = await writeCaptions(topics);
+    console.log('[social-draft] LLM: headlines…');
+    const headlines = await generateCardHeadlines(topics);
+    console.log('[social-draft] LLM: youtube…');
+    const youtube = await writeYoutubeScripts(topics);
 
     await mkdir(OUT_DIR, { recursive: true });
     const cardDir = join(OUT_DIR, date);

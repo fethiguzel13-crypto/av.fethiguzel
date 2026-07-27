@@ -28,6 +28,11 @@ const REHBERLER = [
         ad: 'Arabuluculuk nedir?',
         desc: 'Hukuk uyuşmazlıklarında arabuluculuk süreci, anlaşma belgesi ve dava şartı bilgilendirmesi.',
     },
+    {
+        href: '/kavram',
+        ad: 'Hukuki kavram sözlüğü',
+        desc: 'Satım, nafaka, faiz, icra ve daha fazlası — forum için kopyalanabilir mini cevaplar.',
+    },
 ];
 
 export default function RehberIndexPage() {

@@ -1,5 +1,6 @@
 /**
  * High-quality seed drafts without LLM (when API quotas fail).
+ * Priority: yargı kararı + halk dili.
  * Usage: node scripts/social-draft-seed.js
  */
 import { mkdir, writeFile } from 'node:fs/promises';
@@ -16,63 +17,69 @@ const date = new Date().toISOString().slice(0, 10);
 const ITEMS = [
     {
         topic: {
-            id: 'mevzuat-tbk-112',
-            source: 'TBK',
-            title: 'TBK m. 112 — Borçlunun temerrüdü',
-            kunye: 'TBK m. 112',
-            url: 'https://avfethiguzel.com/mevzuat/tbk/madde-112',
+            id: 'aym-2021-61490',
+            source: 'AYM',
+            category: 'Bireysel Başvuru',
+            title: 'İşçi alacağı davasında talep artırım dilekçesi',
+            kunye: 'AYM, B. No: 2021/61490, 06.05.2026',
+            url: 'https://avfethiguzel.com/icthat',
             publicSummary:
-                'Borçlu, muaccel borcunu ifa etmezse temerrüde düşer; alacaklı ifa, zarar ve şartları varsa dönme yollarını değerlendirir.',
+                'İşçi alacağı davasında talep artırım dilekçesinin dikkate alınmaması; mahkemeye erişim hakkı ihlali.',
         },
         tweet:
-            'TBK m. 112: Borç muaccel olduktan sonra ifa edilmezse temerrüt doğabilir. Alacaklı ifayı isteme, gecikme zararını talep etme ve şartları oluşmuşsa sözleşmeden dönme seçeneklerini birlikte düşünür.\n\navfethiguzel.com/mevzuat/tbk/madde-112\n#hukuk #TBK',
-        cardHeadline: 'Borç vadesi geçtiğinde temerrüt ve alacaklının seçenekleri netleşir.',
-        instagramCaption: `TBK m. 112, borçlunun temerrüdünü düzenler.
+            'İşçi dava açtı, sonra “daha fazla alacağım var” diye ek dilekçe verdi. Mahkeme bunu yok saymış. AYM: mahkemeye erişim hakkı ihlal edilmiştir.\n\navfethiguzel.com/icthat\n#hukuk #AYM #işhukuku',
+        cardHeadline: 'İşçi ek talep yazdı; mahkeme yok sayarsa erişim hakkı zedelenir.',
+        instagramCaption: `İşçi, ücret ve benzeri alacakları için dava açmış. Süreç içinde “aslında daha fazla alacağım var” diyerek talebini artırmak istemiş.
 
-Borç muaccel olduktan sonra ifa edilmezse temerrüt gündeme gelebilir. Alacaklı bakımından tablo genelde üçlüdür: ifanın istenmesi, gecikmeden doğan zararın talep edilmesi ve —sözleşme ile kanunun aradığı şartlar oluşmuşsa— sözleşmeden dönme.
+Mahkeme bu ek dilekçeyi dikkate almamış. Anayasa Mahkemesi ise şunu demiş: Mahkemeye erişim hakkı ihlal edilmiştir. Yani dosyaya yazdığınız ek istem de dosyanın parçasıdır; görmezden gelinemez.
 
-Uygulamada kritik olan, vadenin ve ihtarın (gerekiyorsa) doğru tesbitidir. Genel bilgilendirmedir; somut dosyada süre ve delil durumu ayrı değerlendirilir.
+Bu, herkes için basit bir mesaj: Dilekçe dosyadaysa mahkeme onu okumak ve değerlendirmek zorundadır. Genel bilgilendirmedir; her dosya kendi deliline göre çözülür.
 
-avfethiguzel.com/mevzuat/tbk/madde-112
+avfethiguzel.com/icthat
 
-#hukuk #TBK #borçlarhukuku`,
-        youtubeScript: `Bugün kısa bir not: borçlu temerrüdü.
+#hukuk #içtihat #AYM #AnayasaMahkemesi #işhukuku`,
+        youtubeScript: `Kısa bir mahkeme notu.
 
-TBK’nın 112. maddesi, muaccel borcun ifa edilmemesi hâlinde temerrüdü konu alır. Alacaklı yalnızca “bekleyip durmak” zorunda değildir; ifayı talep edebilir, gecikme zararını gündeme getirebilir, şartları varsa sözleşmeden dönebilir.
+Bir işçi alacakları için dava açıyor. Sonra diyor ki: “Hesabım arttı, talebimi yükseltmek istiyorum.” Ek dilekçe veriyor. Mahkeme bu dilekçeyi yok sayıyor.
 
-Dikkat edilmesi gereken, vadenin ne zaman dolduğu ve kanun veya sözleşmenin ihtar arayıp aramadığıdır. Bu genel bir çerçevedir; her dosyanın delil ve süre hesabı ayrıdır.
+Anayasa Mahkemesi buraya müdahale ediyor: Mahkemeye erişim hakkı ihlal edilmiştir. Dosyaya giren istem, sessizce kenara atılamaz.
 
-Metin ve şerh: avfethiguzel.com`,
+Sizin için pratik anlamı şu: Mahkemeye yazdığınız her ek talep, dosyanın parçasıdır. Tabii somut olayda süre, usul ve delil ayrı bakılır. Bu genel bir çerçevedir.
+
+avfethiguzel.com`,
     },
     {
         topic: {
-            id: 'mevzuat-is-17',
-            source: 'İşK',
-            title: 'İş Kanunu m. 17 — Bildirimli fesih',
-            kunye: 'İşK m. 17',
-            url: 'https://avfethiguzel.com/mevzuat/is-kanunu/madde-17',
+            id: 'aym-2023-107440',
+            source: 'AYM',
+            category: 'Bireysel Başvuru',
+            title: 'Fazladan hapis süresi ve savcılık mütalaasının tebliği',
+            kunye: 'AYM, B. No: 2023/107440, 04.03.2026',
+            url: 'https://avfethiguzel.com/icthat',
             publicSummary:
-                'Belirsiz süreli iş sözleşmesinde bildirim süreleri; süreye uyulmaması ihbar tazminatını doğurabilir.',
+                'Hatalı süre hesabı nedeniyle fazladan hapis; savcılık görüşünün tebliğ edilmemesi — kişi hürriyeti ve adil yargılanma.',
         },
         tweet:
-            'İşK m. 17: Belirsiz süreli iş sözleşmesinde fesih, kural olarak bildirim sürelerine tabidir. Süreye uyulmaması ihbar tazminatını gündeme getirebilir; haklı nedenle derhal fesihten ayrı bir rejimdir.\n\navfethiguzel.com/mevzuat/is-kanunu/madde-17\n#hukuk #işhukuku',
-        cardHeadline: 'Bildirimli fesih ile haklı nedenle derhal fesih aynı kapı değildir.',
-        instagramCaption: `İş Kanunu m. 17, belirsiz süreli iş sözleşmelerinde bildirimli feshin çerçevesini çizer.
+            'Ceza hesabı yanlış yapılmış; kişi olması gerekenden fazla hapiste kalmış. Savcılık görüşü de zamanında bildirilmemiş. AYM: kişi hürriyeti ve adil yargılanma hakları ihlal.\n\navfethiguzel.com/icthat\n#hukuk #AYM',
+        cardHeadline: 'Süre hesabı yanlışsa fazla yatan gün de hak ihlali sayılabilir.',
+        instagramCaption: `Bir kişi, ceza süresinin yanlış hesaplanması yüzünden olması gerekenden daha fazla hapiste kalmış. Üstelik savcılığın görüşü kendisine zamanında bildirilmemiş.
 
-Kıdem süresine göre değişen bildirim süreleri vardır. İşveren veya işçi bu sürelere uymadan sözleşmeyi sona erdirirse, kural olarak ihbar tazminatı gündeme gelir.
+Anayasa Mahkemesi iki noktaya dikkat çekiyor: Kişi hürriyeti ve güvenliği hakkı ile adil yargılanma hakkı. Süre hesabı “kağıt işi” değildir; günler, hayatın kendisidir. Karşı tarafın görüşünü bilmek de savunmanın parçasıdır.
 
-Bu hüküm, haklı nedenle derhal fesih (m. 24–25) rejiminden ayrıdır. Hangi yolun seçildiği; ispat, süre ve sonuçlar bakımından belirleyicidir. Genel bilgilendirmedir.
+Mesaj sade: Devletin hesabı doğru olmalı, süreç şeffaf olmalı. Bu genel bilgilendirmedir; her dosyanın rakamları ve belgeleri ayrıdır.
 
-avfethiguzel.com/mevzuat/is-kanunu/madde-17
+avfethiguzel.com/icthat
 
-#hukuk #işhukuku #İşKanunu`,
-        youtubeScript: `İş sözleşmesi nasıl biter, kısaca netleştirelim.
+#hukuk #içtihat #AYM #AnayasaMahkemesi`,
+        youtubeScript: `Bugün basit bir soru: Fazladan hapiste kalmak mümkün mü?
 
-İş Kanunu’nun 17. maddesi, belirsiz süreli sözleşmelerde bildirimli feshin sürelerini düzenler. Süreye uyulmazsa ihbar tazminatı gündeme gelebilir.
+Bir dosyada süre hesabı hatalı yapılmış. Kişi, yatması gerekenden daha uzun süre cezaevinde kalmış. Bir de savcılığın görüşü kendisine usulünce bildirilmemiş.
 
-Ama her fesih bildirimli değildir. Haklı nedenle derhal fesih ayrı bir yoldur; ispat ve sonuçlar farklı işler. Somut olayda hangi hükmün uygulanacağı dosyaya göre değişir.
+Anayasa Mahkemesi bu tabloyu ciddiye alıyor: Kişi hürriyeti ve adil yargılanma hakları devreye girer. Çünkü her gün, her bildirim, somut bir haktır.
 
-Madde metni ve şerh: avfethiguzel.com`,
+Pratik not: Süre ve tebligat işleri formalite gibi görünse de hayatı değiştirir. Somut dosyada rakamlar ve belgeler ayrı incelenir. Genel bilgilendirmedir.
+
+avfethiguzel.com`,
     },
 ];
 
@@ -84,7 +91,11 @@ async function main() {
         let cardPath = null;
         try {
             cardPath = await generateCard(
-                { ...it.topic, cardText: it.cardHeadline },
+                {
+                    id: it.topic.id,
+                    ...it.topic,
+                    cardText: it.cardHeadline,
+                },
                 join(OUT_DIR, date, `card-${i + 1}.png`)
             );
         } catch (e) {
@@ -104,7 +115,11 @@ async function main() {
         date,
         generatedAt: new Date().toISOString(),
         status: 'pending_approval',
-        source: 'seed-quality',
+        source: 'seed-court-plain',
+        policy: {
+            prefer: 'yargi-karari',
+            tone: 'halk-dili',
+        },
         items,
     };
 
@@ -113,10 +128,11 @@ async function main() {
     await writeFile(jsonPath, JSON.stringify(draft, null, 2), 'utf-8');
 
     let md = `# Sosyal medya taslakları — ${date}\n\n`;
-    md += `Kaynak: kalite tohumu (API kotası nedeniyle elle yazıldı)\n`;
+    md += `Kaynak: yargı kararı + halk dili (API kotası nedeniyle elle yazıldı)\n`;
     md += `Durum: **ONAY BEKLİYOR** — henüz hiçbir platforma gönderilmedi\n\n`;
     items.forEach((item, i) => {
         md += `---\n\n## ${i + 1}. ${item.topic.title}\n\n`;
+        md += `Künye: ${item.topic.kunye}\n`;
         md += `Sayfa: ${item.topic.url}\n\n`;
         md += `### X / Twitter\n\n\`\`\`\n${item.tweet}\n\`\`\`\n\n`;
         md += `### Instagram\n\n\`\`\`\n${item.instagramCaption}\n\`\`\`\n\n`;
@@ -128,6 +144,9 @@ async function main() {
     await writeFile(mdPath, md, 'utf-8');
     console.log('wrote', jsonPath);
     console.log('wrote', mdPath);
+    for (const it of items) {
+        if (it.cardPath) console.log('card', it.cardPath);
+    }
 }
 
 main().catch((e) => {

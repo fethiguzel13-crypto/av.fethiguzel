@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
-import { BookOpen, Calculator, Mail } from 'lucide-react';
+import { BookOpen, Calculator, FileText } from 'lucide-react';
 
 /**
  * Mobile sticky CTA bar — conversion pattern from top law firm sites (Clio scorecard).
@@ -50,11 +50,11 @@ export default function StickyMobileCta() {
                     <span className="text-[10px] font-bold uppercase tracking-wider">Hesap</span>
                 </Link>
                 <Link
-                    href="/#iletisim"
+                    href="/on-form"
                     className="flex-1 flex flex-col items-center justify-center gap-0.5 py-2.5 rounded-xl bg-accent text-white font-bold"
                 >
-                    <Mail size={16} aria-hidden />
-                    <span className="text-[10px] uppercase tracking-wider">İletişim</span>
+                    <FileText size={16} aria-hidden />
+                    <span className="text-[10px] uppercase tracking-wider">Form</span>
                 </Link>
             </div>
         </div>

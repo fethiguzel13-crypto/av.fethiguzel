@@ -80,6 +80,10 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
               image: `${SITE_URL}${photo}`,
               url: `${SITE_URL}/avukat-fethi-guzel`,
               knowsLanguage: ["tr", "en"],
+              sameAs: [
+                PROFILE.social.instagram.url,
+                PROFILE.social.twitter.url,
+              ],
             },
             areaServed: { "@type": "City", name: veri.ilce },
             address: {
@@ -90,6 +94,10 @@ export default function IlceAvukatSayfasi({ veri }: { veri: IlceVerisi }) {
               postalCode: PROFILE.office.postalCode,
               addressCountry: "TR",
             },
+            sameAs: [
+              PROFILE.social.instagram.url,
+              PROFILE.social.twitter.url,
+            ],
             priceRange: "$$",
           }),
         }}

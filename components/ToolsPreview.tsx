@@ -62,11 +62,11 @@ const FEATURED_TOOLS = [
     etiket: 'Dava Masrafı',
   },
   {
-    id: 'kdv',
-    icon: '🧮',
-    baslik: 'KDV Hesaplama',
-    aciklama: 'Dahil/hariç matrah ve KDV ayrıştırma.',
-    etiket: 'Vergi',
+    id: 'kira-tespit',
+    icon: '📈',
+    baslik: 'Kira Tespit (ÜFE)',
+    aciklama: 'ÜFE senaryosu ile kaba kira tespit tahmini.',
+    etiket: 'Gayrimenkul',
   },
 ];
 
@@ -105,7 +105,7 @@ export default function ToolsPreview() {
             href="/hesaplama"
             className="group self-start flex items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full font-bold text-sm transition-all hover:bg-accent"
           >
-            Tüm Araçlar (19)
+            Tüm Araçlar
             <ArrowRight size={15} className="group-hover:translate-x-1 transition-transform" />
           </Link>
         </div>
@@ -115,7 +115,7 @@ export default function ToolsPreview() {
           {FEATURED_TOOLS.map(tool => (
             <Link
               key={tool.id}
-              href={`/hesaplama#${tool.id}`}
+              href={`/hesaplama/${tool.id}`}
               className="group bg-white border border-charcoal/6 rounded-2xl sm:rounded-[2rem] p-4 sm:p-6 hover:shadow-lg transition-all duration-300 flex flex-col"
             >
               {/* Etiket */}
