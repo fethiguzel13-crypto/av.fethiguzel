@@ -6,6 +6,7 @@ import { BOLGELER, SITE_URL, PROFILE } from '@/lib/profile';
 import { categories } from '@/lib/categories';
 import { HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
 import { KAVRAMLAR } from '@/lib/kavramlar';
+import { VATANDAS_ARTICLES } from '@/lib/vatandas-rehberi';
 
 export const metadata: Metadata = {
     title: 'Site Haritası | Av. Fethi Güzel Hukuk Portalı',
@@ -25,6 +26,7 @@ const CORE = [
     { href: '/tarife-guncellemeleri', ad: 'Tarife güncellemeleri' },
     { href: '/on-form', ad: 'Ön değerlendirme formu' },
     { href: '/kavram', ad: 'Hukuki kavramlar' },
+    { href: '/bilgi', ad: 'Vatandaş bilgi rehberi' },
     { href: '/makaleler', ad: 'Makaleler' },
     { href: '/eserlerim', ad: 'Eserler / kitap' },
     { href: '/e-durusma', ad: 'e-Duruşma hub' },
@@ -89,6 +91,24 @@ export default function SiteHaritasiPage() {
                             <li key={k.slug}>
                                 <Link href={`/kavram/${k.slug}`} className="text-sm text-charcoal/70 hover:text-accent">
                                     {k.baslik}
+                                </Link>
+                            </li>
+                        ))}
+                    </ul>
+                </section>
+
+                <section className="mb-12">
+                    <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
+                        Vatandaş bilgi rehberi ({VATANDAS_ARTICLES.length})
+                    </h2>
+                    <p className="text-xs text-charcoal/45 mb-3">
+                        Ana sayfada öne çıkarılmaz; Google ve bu harita üzerinden erişilir.
+                    </p>
+                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-[28rem] overflow-y-auto pr-2">
+                        {VATANDAS_ARTICLES.map((a) => (
+                            <li key={a.slug}>
+                                <Link href={`/bilgi/${a.slug}`} className="text-sm text-charcoal/70 hover:text-accent">
+                                    {a.h1}
                                 </Link>
                             </li>
                         ))}

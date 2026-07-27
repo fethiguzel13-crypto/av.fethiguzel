@@ -15,6 +15,7 @@
     "build:daily": "node scripts/build-daily.js",
     "build:index": "node scripts/build-mevzuat-index.mjs",
     "build:site-search": "node scripts/build-site-search-only.mjs",
+    "build:vatandas": "node scripts/generate-vatandas-rehberi.mjs",
     "social:draft": "node scripts/social-draft.js",
     "social:seed": "node scripts/social-draft-seed.js",
     "social:publish": "node scripts/social-publish.js",

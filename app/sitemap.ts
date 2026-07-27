@@ -70,6 +70,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/rehber/miras-paylasimi`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
     { url: `${baseUrl}/rehber/kidem-tazminati`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
     { url: `${baseUrl}/rehber/arabuluculuk`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
+    { url: `${baseUrl}/bilgi`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.92 },
     { url: `${baseUrl}/tarife-guncellemeleri`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.65 },
     { url: `${baseUrl}/on-form`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.6 },
     { url: `${baseUrl}/bookmarklet`, lastModified: new Date(), changeFrequency: 'yearly', priority: 0.4 },
@@ -96,6 +97,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
     priority: 0.82,
+  }));
+
+  // Vatandaş SEO bilgilendirme rehberleri (/bilgi/*) — ana sayfada değil, arama motoru için
+  const { getAllVatandasSlugs } = await import('@/lib/vatandas-rehberi');
+  const bilgiRoutes: MetadataRoute.Sitemap = getAllVatandasSlugs().map((slug) => ({
+    url: `${baseUrl}/bilgi/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.9,
   }));
 
   // 1b. İlçe/İl Avukat Sayfaları (yerel SEO — Türkiye haritası kökleri)
@@ -206,6 +216,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...staticRoutes,
     ...hesaplamaRoutes,
     ...kavramRoutes,
+    ...bilgiRoutes,
     ...ilceRoutes,
     ...categoryRoutes,
     ...subCategoryRoutes,
