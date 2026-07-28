@@ -1081,12 +1081,17 @@ export function buildSpokeBody(t, meta) {
       `«Garanti sonuç / kesin oran / herkes böyle yapıyor» vaatleri bağlayıcı değildir. Dönemsel tavan, tarife ve parasal sınırlar değişir.`,
     ]),
     s('İç linkler, madde arama ve sonraki adım', [
-      `Ana rehber (pillar): ${pillarHref}`,
+      `Ana rehber: ${pillarHref}`,
       fact?.link
         ? `İlgili araç veya mevzuat: ${fact.link}`
-        : `Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat`,
-      `«${k0}» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.`,
-      `Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin.`,
+        : `Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat`,
+      `Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın.`,
+    ], [
+      'Dar soruyu bu sayfada netleştirin',
+      'Ana rehberde süreci okuyun',
+      'Belgeleri toplayın',
+      'Yazılı başvuruyu yapın',
+      'Sonucu takip edin',
     ]),
   ];
 

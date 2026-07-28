@@ -1688,10 +1688,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/engelli-raporu-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«engelli aracı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/engelli-raporu-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -2905,10 +2911,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
+          "Ana rehber: /bilgi/icra-takibi-nedir",
           "İlgili araç veya mevzuat: /kategori/iik",
-          "«ödeme emrine itiraz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -6333,10 +6345,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet veraset ilamı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -6596,10 +6614,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
           "İlgili araç veya mevzuat: /hesaplama/miras",
-          "«miras payı nasıl hesaplanır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -7802,10 +7826,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emlak-vergisi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vergi borcu yapılandırma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emlak-vergisi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -8381,10 +8411,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/iskan-belgesi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kaçak yapı cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/iskan-belgesi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -8645,10 +8681,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«abonelik iptali» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -9224,10 +9266,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«nüfus kayıt örneği» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -9488,10 +9536,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra dosyası sorgulama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -9752,10 +9806,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«senet icra takibi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -10332,10 +10392,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«gayrimenkul satış vaadi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -10913,10 +10979,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira depozitosu iadesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -11177,10 +11249,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ayıplı mal iade» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -11442,10 +11520,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«cayma hakkı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -12024,10 +12108,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihbar tazminatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -12915,10 +13005,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«SGK hizmet dökümü» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -13495,10 +13591,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«malulen emeklilik» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -13759,10 +13861,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«saklı pay nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -14023,10 +14131,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vasiyetname nasıl yapılır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -14287,10 +14401,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«mirasın reddi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -14868,10 +14988,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tapu iptal tescil» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -15448,10 +15574,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihtiyati haciz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -15712,10 +15844,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«haciz nasıl kaldırılır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -15977,10 +16115,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kefalet sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -16871,10 +17015,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/istinaf-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«temyiz nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/istinaf-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -17136,10 +17286,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«bilirkişi raporuna itiraz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -17401,10 +17557,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tanık dinletme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -17665,10 +17827,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«arabuluculuk anlaşma belgesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -17929,10 +18097,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş kazası bildirimi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -18193,10 +18367,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«mobbing nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -18457,10 +18637,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/koruma-karari-6284",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işyerinde cinsel taciz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/koruma-karari-6284",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -18721,10 +18907,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çocuk nafakası artırım» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -19301,10 +19493,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ziynet eşyası davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -19566,10 +19764,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«soybağının reddi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -19831,10 +20035,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«evlat edinme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -20095,10 +20305,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ceza soruşturması» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -20359,10 +20575,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«gözaltı hakları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -20623,10 +20845,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ceza uzlaştırması» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -20888,10 +21116,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«adli sicil kaydı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -21468,10 +21702,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«trafik sigortası hasar» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -21732,10 +21972,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-cezasina-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ehliyete el koyma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-cezasina-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -21997,10 +22243,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«pasaport başvurusu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -22576,10 +22828,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/yabanci-ikamet-izni",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çalışma izni» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/yabanci-ikamet-izni",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -22840,10 +23098,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/yabanci-ikamet-izni",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sınır dışı kararı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/yabanci-ikamet-izni",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -23423,10 +23687,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«bilgi edinme başvurusu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -24003,10 +24273,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/idari-dava-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«belediye cezası itiraz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/idari-dava-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -24268,10 +24544,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«imar durumu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -24532,10 +24814,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/iskan-belgesi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yapı ruhsatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/iskan-belgesi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -24796,10 +25084,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«DASK nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -25376,10 +25670,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/noter-islemleri",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vekâletname azli» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/noter-islemleri",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -26272,10 +26572,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ticari işletme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -26536,10 +26842,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iflas nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -26800,10 +27112,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra inkâr tazminatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -27065,10 +27383,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«nafaka ödenmezse» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -27329,10 +27653,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«izale-i şuyu masrafı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -27593,10 +27923,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet icra borcu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -27858,10 +28194,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tebligat-usulsuzlugu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-tebligat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tebligat-usulsuzlugu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -28122,10 +28464,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/hukuk-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«dava harcı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/hukuk-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -28386,10 +28734,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«arabuluculuk ücreti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -28650,10 +29004,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş kazası maluliyet» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -28915,10 +29275,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kıdem tazminatı tavanı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -29179,10 +29545,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«askerlik borçlanması» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -29443,10 +29815,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«doğum borçlanması» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -29707,10 +30085,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emlak-vergisi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet vergi borcu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emlak-vergisi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -29971,10 +30355,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«aidat ödenmezse» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -30235,10 +30625,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira tespit davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -30499,10 +30895,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kiraci-nasil-tahliye-edilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tahliye taahhütnamesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kiraci-nasil-tahliye-edilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -31078,10 +31480,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«adres değişikliği» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -31342,10 +31750,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bosanma-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«anlaşmalı boşanma şartları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bosanma-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -31606,10 +32020,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bosanma-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çekişmeli boşanma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bosanma-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -31870,10 +32290,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bosanma-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«boşanma protokolü» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bosanma-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -32134,10 +32560,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tedbir nafakası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -32398,10 +32830,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yoksulluk nafakası şartları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -32663,10 +33101,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iştirak nafakası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -32927,10 +33371,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/velayet-davasi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«velayet değişikliği» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/velayet-davasi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -33191,10 +33641,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/velayet-davasi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kişisel ilişki düzenlemesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/velayet-davasi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -33455,10 +33911,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«evlilik sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -33720,10 +34182,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«nişan bozulması tazminatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -33984,10 +34452,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ayrılık kararı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -34248,10 +34722,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«aile konutu şerhi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -34512,10 +34992,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bosanma-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hayata kast boşanma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bosanma-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -34776,10 +35262,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bosanma-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«terk sebebiyle boşanma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bosanma-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -35040,10 +35532,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bosanma-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«zina boşanma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bosanma-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -35304,10 +35802,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işten çıkarılma tazminatları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -35567,10 +36071,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«belirsiz süreli iş sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -35830,10 +36340,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«belirli süreli iş sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -36093,10 +36609,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«deneme süresi iş kanunu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -36357,10 +36879,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/fazla-mesai-ucreti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yıllık izin hakkı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/fazla-mesai-ucreti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -36621,10 +37149,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/fazla-mesai-ucreti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«UBGT ücreti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/fazla-mesai-ucreti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -36884,10 +37418,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/fazla-mesai-ucreti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hafta tatili ücreti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/fazla-mesai-ucreti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -37149,10 +37689,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«asgari ücret net brüt» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -37414,10 +37960,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ücretsiz izin» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -37678,10 +38230,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«istifa nasıl edilir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -37943,10 +38501,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işçi haklı fesih» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -38207,10 +38771,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işveren haklı fesih» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -38470,10 +39040,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kötü niyet tazminatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -38735,10 +39311,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sendika özgürlüğü» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -39000,10 +39582,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«toplu iş sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -39264,10 +39852,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş güvenliği uzmanı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -39529,10 +40123,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«eşit işe eşit ücret» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -39794,10 +40394,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«part time iş kanunu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -40059,10 +40665,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işyerinden uzaklaştırma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -40323,10 +40935,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işçilik alacakları zamanaşımı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -40587,10 +41205,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«haciz nasıl yapılır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -40852,10 +41476,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«maaş haczi oranı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -41116,10 +41746,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«banka hesabı haczi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -41380,10 +42016,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«araç haczi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -41644,10 +42286,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tapu haczi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -41908,10 +42556,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra satış ihalesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -42172,10 +42826,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«itirazın iptali davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -42437,10 +43097,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«itirazın kaldırılması» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -42701,10 +43367,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«menfi tespit davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -42965,10 +43637,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«istirdat davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -43229,10 +43907,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«konkordato nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -43493,10 +44177,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra vekalet ücreti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -43758,10 +44448,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kambiyo senetleri icra» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -44022,10 +44718,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ilamlı icra» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -44286,10 +44988,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra borcu taksit» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -44550,10 +45258,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira sözleşmesi nasıl yapılır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -44814,10 +45528,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kiracı hakları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -45079,10 +45799,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kiraya veren hakları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -45345,10 +46071,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira ihtarı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -45609,10 +46341,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kiraci-nasil-tahliye-edilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işyeri kira tahliye» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kiraci-nasil-tahliye-edilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -45872,10 +46610,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira arabuluculuk» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -46137,10 +46881,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«alt kira» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -46402,10 +47152,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira ödeme ispatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -46666,10 +47422,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tüketici kredisi cayma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -47243,10 +48005,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kredi-karti-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kredi borcu yapılandırma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kredi-karti-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -47507,10 +48275,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«garanti belgesi hakları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -47771,10 +48545,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«internet alışveriş iade» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -48035,10 +48815,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«taahhüt bozma cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -48612,10 +49398,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sigorta-tazminat-reddi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kasko hasar süreci» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sigorta-tazminat-reddi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -48876,10 +49668,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sigorta-tazminat-reddi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tamamlayıcı sağlık sigortası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sigorta-tazminat-reddi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -49451,10 +50249,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«mirasçılık belgesi nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -49716,10 +50520,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tenkis davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -49980,10 +50790,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«miras ortaklığı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -50244,10 +51060,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«muris muvazaası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -50509,10 +51331,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ölüme bağlı tasarruf» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -50773,10 +51601,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«miras paylaşım sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -51037,10 +51871,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«veraset ve intikal vergisi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -51301,10 +52141,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kat-mulkiyeti-aidat",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kat irtifakı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kat-mulkiyeti-aidat",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -51565,10 +52411,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ipotek nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -51830,10 +52682,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«intifa hakkı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -52095,10 +52953,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«irtifak hakkı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -52359,10 +53223,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«zilyetlik» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -52624,10 +53494,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tapu kaydı sorgulama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -52888,10 +53764,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tapu harcı hesaplama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -53152,10 +54034,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«önalım hakkı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -53416,10 +54304,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kamulastirma-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«el atmanın önlenmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kamulastirma-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -53680,10 +54574,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kamulastirma-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ecrimisil nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kamulastirma-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -53944,10 +54844,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«şikayet süresi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -54209,10 +55115,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«gözaltı süresi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -54789,10 +55701,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«adli kontrol» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -55054,10 +55972,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«bekletici mesele» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -55319,10 +56243,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«seri muhakeme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -55583,10 +56513,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hakaret suçu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -55847,10 +56783,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tehdit suçu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -56111,10 +57053,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«dolandırıcılık suçu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -56376,10 +57324,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kişisel verilerin kaydedilmesi suçu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -56641,10 +57595,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«trafik güvenliğini tehlikeye sokma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -56904,10 +57864,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/velayet-davasi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çocuk teslimi icra» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/velayet-davasi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -57168,10 +58134,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/hukuk-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«dava açma şartları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/hukuk-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -57432,10 +58404,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/hukuk-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yetkili mahkeme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/hukuk-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -57696,10 +58674,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/hukuk-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«görevli mahkeme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/hukuk-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -57961,10 +58945,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«delil başlangıcı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -58226,10 +59216,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kesin delil» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -58491,10 +59487,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ıslah» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -58756,10 +59758,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«belirsiz alacak davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -59021,10 +60029,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«davaya müdahale» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -59284,10 +60298,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ihtiyati-tedbir-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihtiyati tedbir teminatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ihtiyati-tedbir-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -59548,10 +60568,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/istinaf-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kesinleşme şerhi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/istinaf-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -59813,10 +60839,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«karşı taraf vekâlet ücreti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -60077,10 +61109,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«arabuluculuk son tutanak» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -60341,10 +61379,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/idari-dava-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iptal davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/idari-dava-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -60605,10 +61649,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/idari-dava-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tam yargı davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/idari-dava-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -60868,10 +61918,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/idari-dava-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«idari işlem nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/idari-dava-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -61132,10 +62188,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/idari-dava-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yürütmenin durdurulması» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/idari-dava-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -61397,10 +62459,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«memur disiplin cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -61662,10 +62730,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kamu ihalesi şikâyet» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -61927,10 +63001,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«imar planına itiraz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -62192,10 +63272,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yapı tatil tutanağı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -62457,10 +63543,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«imar barışı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -62722,10 +63814,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çevre idari para cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -62986,10 +64084,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-cezasina-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«EDS ceza sorgulama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-cezasina-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -63250,10 +64354,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-cezasina-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«trafik ceza puanı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-cezasina-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -63514,10 +64624,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-cezasina-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«alkollü araç cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-cezasina-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -63778,10 +64894,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kaza tespit tutanağı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -64042,10 +65164,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«trafik kusur oranı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -64307,10 +65435,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«araç muayene gecikme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -64572,10 +65706,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«araç satışı plaka devri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -64837,10 +65977,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emlak-vergisi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«MTV nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emlak-vergisi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -65101,10 +66247,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«emekli maaşı hesaplama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -65365,10 +66517,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«EYT nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -65944,10 +67102,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/issizlik-maasi-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işsizlik maaşı hesaplama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/issizlik-maasi-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -66208,10 +67372,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bagkur-prim-borcu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«gss prim borcu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bagkur-prim-borcu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -66473,10 +67643,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«analık ve süt izni» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -66738,10 +67914,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bagkur-prim-borcu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«rapor parası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bagkur-prim-borcu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -67003,10 +68185,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bagkur-prim-borcu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ölüm aylığı dul yetim» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bagkur-prim-borcu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -67268,10 +68456,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emlak-vergisi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«gelir vergisi nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emlak-vergisi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -67848,10 +69042,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kdv-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«fatura iptali» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kdv-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -68112,10 +69312,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kdv-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-fatura» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kdv-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -68377,10 +69583,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kdv-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vergi incelemesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kdv-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -68642,10 +69854,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kdv-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vergi ziyaı cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kdv-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -68906,10 +70124,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emlak-vergisi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«damga vergisi nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emlak-vergisi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -69171,10 +70395,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kdv-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«gecikme zammı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kdv-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -69435,10 +70665,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kimlik kartı başvurusu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -69699,10 +70935,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«doğum belgesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -69963,10 +71205,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«evlilik başvurusu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -70227,10 +71475,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bosanma-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«boşanma soyadı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bosanma-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -70491,10 +71745,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ikametgâh belgesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -70756,10 +72016,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sabıka kaydı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -71020,10 +72286,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«askerlik durum belgesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -71285,10 +72557,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/okul-kayit-ucreti-iade",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«öğrenci belgesi e-devlet» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/okul-kayit-ucreti-iade",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -71549,10 +72827,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kredi-karti-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kredi notu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kredi-karti-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -71814,10 +73098,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«maaş hesabına haciz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -72079,10 +73369,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kefil olmanın riskleri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -72344,10 +73640,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cek-karsiliksiz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«senet nasıl yazılır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cek-karsiliksiz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -72608,10 +73910,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cek-karsiliksiz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çek nasıl yazılır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cek-karsiliksiz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -72872,10 +74180,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kvkk-basvuru-hakki",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«KVKK aydınlatma metni» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kvkk-basvuru-hakki",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -73136,10 +74450,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kvkk-basvuru-hakki",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«KVKK açık rıza» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kvkk-basvuru-hakki",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -73400,10 +74720,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kvkk-basvuru-hakki",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«unutulma hakkı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kvkk-basvuru-hakki",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -73665,10 +74991,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«erişim engeli başvurusu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -73930,10 +75262,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sosyal medya hakaret şikâyeti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -74195,10 +75533,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«whatsapp yazışması delil» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -74459,10 +75803,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«limited şirket kuruluşu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -74723,10 +76073,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«anonim şirket kuruluşu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -74987,10 +76343,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«şirket hisse devri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -75251,10 +76613,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ticaret sicili işlemleri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -75516,10 +76884,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«haksız rekabet» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -75780,10 +77154,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«marka tescili» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -76044,10 +77424,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cek-karsiliksiz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«karşılıksız çek cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cek-karsiliksiz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -76308,10 +77694,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/yabanci-ikamet-izni",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«türk vatandaşlığı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/yabanci-ikamet-izni",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -76572,10 +77964,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/yabanci-ikamet-izni",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«evlilikle vatandaşlık» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/yabanci-ikamet-izni",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -76836,10 +78234,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/yabanci-ikamet-izni",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ikamet izni uzatma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/yabanci-ikamet-izni",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -77100,10 +78504,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/yabanci-ikamet-izni",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«uluslararası koruma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/yabanci-ikamet-izni",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -77363,10 +78773,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/engelli-raporu-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«engelli maaşı şartları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/engelli-raporu-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -77626,10 +79042,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/engelli-raporu-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«evde bakım maaşı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/engelli-raporu-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -77890,10 +79312,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/malpraktis-davasi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hasta hakları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/malpraktis-davasi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -78154,10 +79582,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ise-iade-davasi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işe iade arabuluculuk» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ise-iade-davasi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -78419,10 +79853,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/okul-kayit-ucreti-iade",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«üniversite öğrenim ücreti iade» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/okul-kayit-ucreti-iade",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -78997,10 +80437,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/okul-kayit-ucreti-iade",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«öğrenci disiplin cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/okul-kayit-ucreti-iade",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -79577,10 +81023,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«riskli yapı tespiti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -79842,10 +81294,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kat karşılığı inşaat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -80107,10 +81565,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yüklenici temerrüdü» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -80688,10 +82152,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
           "İlgili araç veya mevzuat: /ara",
-          "«mevzuat nasıl aranır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -80953,10 +82423,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tbk nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -81218,10 +82694,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tmk nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -81483,10 +82965,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ttk nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -81748,10 +83236,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tck nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -82013,10 +83507,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hmk nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -82278,10 +83778,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iik nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -82543,10 +84049,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«cmk nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -82808,10 +84320,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş kanunu nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -83073,10 +84591,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tkhk nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -83337,10 +84861,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kvkk-basvuru-hakki",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«KVKK nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kvkk-basvuru-hakki",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -83602,10 +85132,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vuk nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -83866,10 +85402,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«anayasa maddesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -84130,10 +85672,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet şifresi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -84395,10 +85943,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/noter-islemleri",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«uyap vatandaş portal» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/noter-islemleri",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -84660,10 +86214,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«avukat vekâlet ücreti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -84924,10 +86484,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«arabulucu nasıl seçilir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -85188,10 +86754,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/hukuk-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«dilekçe nasıl yazılır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/hukuk-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -85452,10 +87024,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/noter-islemleri",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihtarname çekme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/noter-islemleri",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -85717,10 +87295,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sulh» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -85982,10 +87566,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«davadan feragat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -86247,10 +87837,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«davayı kabul» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -86511,10 +88107,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/koruma-karari-6284",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«uzaklaştırma kararı ihlal» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/koruma-karari-6284",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -86775,10 +88377,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/koruma-karari-6284",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«aile içi şiddet delil» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/koruma-karari-6284",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -87040,10 +88648,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«agi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -87305,10 +88919,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
           "İlgili araç veya mevzuat: /hesaplama/kidem",
-          "«kıdem tazminatı hesaplama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -87570,10 +89190,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihbar süreleri tablosu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -87834,10 +89460,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ise-iade-davasi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işe başlatmama tazminatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ise-iade-davasi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -88098,10 +89730,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ise-iade-davasi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«boşta geçen süre ücreti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ise-iade-davasi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -88363,10 +90001,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«haciz ihbarnamesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -88628,10 +90272,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«istihkak iddiası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -88893,10 +90543,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«inkar tazminatı oranı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -89158,10 +90814,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ödeme emri tebliği» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -89422,10 +91084,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet kira kontratı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -89687,10 +91355,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira depozito faizi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -89952,10 +91626,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kiralananın ayıbı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -90216,10 +91896,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ayıp bildirim süresi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -90480,10 +92166,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tüketici mahkemesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -90743,10 +92435,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«mesafeli sözleşmeler yönetmeliği» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -91007,10 +92705,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«şikayet geri alma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -91272,10 +92976,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«müdafi hakkı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -91537,10 +93247,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/savcilik-suc-duyurusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ifade alma hakları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/savcilik-suc-duyurusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -91802,10 +93518,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«soruşturma gizliliği» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -92066,10 +93788,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yasal mirasçılar» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -92331,10 +94059,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«eşin miras payı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -92595,10 +94329,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vasiyetname iptali» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -92858,10 +94598,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«miras sebebiyle istihkak» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -93122,10 +94868,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tapuda satış» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -93386,10 +95138,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hisseli tapu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -93651,10 +95409,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tarla tapu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -93915,10 +95679,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kat-mulkiyeti-aidat",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kat malikleri kurulu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kat-mulkiyeti-aidat",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -94179,10 +95949,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«dilekçe hakkı 3071» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -94443,10 +96219,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/idari-dava-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«idari başvuru yolu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/idari-dava-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -94708,10 +96490,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«imar para cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -94973,10 +96761,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«zorunlu trafik sigortası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -95237,10 +97031,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«araç değer kaybı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -95501,10 +97301,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«destekten yoksun kalma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -95765,10 +97571,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bagkur-prim-borcu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet sgk borcu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bagkur-prim-borcu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -96030,10 +97842,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kdv-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«stopaj» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kdv-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -96295,10 +98113,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kdv-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«muhtasar beyanname» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kdv-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -96559,10 +98383,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kredi-karti-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kredi kartı asgari ödeme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kredi-karti-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -96824,10 +98654,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«banka icra takibi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -97089,10 +98925,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kefilden tahsilat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -97352,10 +99194,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş kazası sonrası haklar» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -97616,10 +99464,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«meslek hastalığı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -97879,10 +99733,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işveren iş kazası sorumluluğu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -98144,10 +100004,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«evliliğin iptali» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -98409,10 +100275,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«babalık davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -98674,10 +100546,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«soyadı değişikliği davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -98939,10 +100817,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/e-devlet-nufus",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«isim değişikliği davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/e-devlet-nufus",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -99202,10 +101086,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/hukuk-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«görevsizlik kararı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/hukuk-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -99465,10 +101355,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/hukuk-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yetkisizlik kararı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/hukuk-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -99730,10 +101626,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«keşif» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -99995,10 +101897,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yemin delili» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -100259,10 +102167,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/istinaf-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«istinaf dilekçesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/istinaf-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -100523,10 +102437,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/istinaf-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«temyiz sınırı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/istinaf-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -100788,10 +102708,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tutuklama-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet ceza sorgulama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tutuklama-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -101053,10 +102979,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/noter-islemleri",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet dava dosyası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/noter-islemleri",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -101317,10 +103249,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/veraset-ilami-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet miras» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/veraset-ilami-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -101580,10 +103518,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet tapu sorgulama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -101844,10 +103788,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet SGK hizmet dökümü» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -102108,10 +104058,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«konut kira artış sınırı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -102372,10 +104328,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işyeri kira artışı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -102637,10 +104599,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira sözleşmesi bitişi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -105448,10 +107416,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«manevi tazminat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -105713,10 +107687,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«maddi tazminat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -105978,10 +107958,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kusursuz sorumluluk» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -106243,10 +108229,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«rücu davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -106507,10 +108499,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ticari defterler» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -106771,10 +108769,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ticaret unvanı tescili» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -107035,10 +109039,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«aciz vesikası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -107299,10 +109309,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/yabanci-ikamet-izni",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«turistik ikamet izni» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/yabanci-ikamet-izni",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -107563,10 +109579,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/yabanci-ikamet-izni",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çalışma izni muafiyeti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/yabanci-ikamet-izni",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -107827,10 +109849,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/iskan-belgesi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iskansız daire» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/iskan-belgesi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -108090,10 +110118,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/iskan-belgesi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yapı denetim» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/iskan-belgesi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -108355,10 +110389,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«imar affı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -108619,10 +110659,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kvkk-basvuru-hakki",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«veri ihlali bildirimi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kvkk-basvuru-hakki",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -108883,10 +110929,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kvkk-basvuru-hakki",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çerez aydınlatması» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kvkk-basvuru-hakki",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -109147,10 +111199,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş arabuluculuk zorunlu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -109411,10 +111469,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ticari arabuluculuk» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -109674,10 +111738,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tüketici arabuluculuk» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -109938,10 +112008,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«nafaka artırım davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -110203,10 +112279,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«nafaka indirim davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -110468,10 +112550,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iştirak nafakası hesaplama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -110732,10 +112820,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bosanma-davasi-nasil-acilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«boşanma davası ne kadar tutar» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bosanma-davasi-nasil-acilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -110997,10 +113091,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«avukat tutmak zorunlu mu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -111262,10 +113362,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«adli yardım» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -111525,10 +113631,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/arabuluculuk-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«arabuluculuk anlaşması icra» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/arabuluculuk-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -111790,10 +113902,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra dosyası kapatma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -112055,10 +114173,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-haciz nedir» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -112320,10 +114444,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bagkur-prim-borcu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sgk teşvikleri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bagkur-prim-borcu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -112584,10 +114714,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/issizlik-maasi-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işsizlik sigortası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/issizlik-maasi-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -112849,10 +114985,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kıdem tazminatı SGK» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -113113,10 +115255,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«fesih bildirimi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -113377,10 +115525,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«toplu işten çıkarma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -113642,10 +115796,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«uzaktan çalışma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -113907,10 +116067,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«stajyer hakları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -114172,10 +116338,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çağrı üzerine çalışma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -114436,10 +116608,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-sozlesmesi-feshi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«geçerli fesih» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-sozlesmesi-feshi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -114701,10 +116879,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş arama izni» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -114966,10 +117150,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çalışma belgesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -115546,10 +117736,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işçilik alacakları davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -115811,10 +118007,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«nafaka maaş haczi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -116074,10 +118276,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/velayet-davasi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çocuk teslimi direnme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/velayet-davasi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -116339,10 +118547,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/mal-rejimi-tasfiyesi",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«aile mahkemesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/mal-rejimi-tasfiyesi",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -116604,10 +118818,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş mahkemesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -116868,10 +119088,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tüketici hakem heyeti parasal sınır» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -117132,10 +119358,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tuketici-hakem-heyeti",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-devlet tüketici» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tuketici-hakem-heyeti",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -117396,10 +119628,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/noter-islemleri",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«noter vekâlet ücreti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/noter-islemleri",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -117660,10 +119898,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/noter-islemleri",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«genel vekâletname riskleri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/noter-islemleri",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -117924,10 +120168,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tapu-devri-nasil-yapilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vekaleten tapu satışı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tapu-devri-nasil-yapilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -118189,10 +120439,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sahte vekâletname» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -118454,10 +120710,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hile ile sözleşme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -118719,10 +120981,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«gabin» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -118984,10 +121252,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sözleşmeden dönme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -119249,10 +121523,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«cezai şart» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -119829,10 +122109,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«faiz hesaplama» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -120094,10 +122380,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«rehin» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -120358,10 +122650,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«teminat mektubu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -120622,10 +122920,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cek-karsiliksiz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çek ibraz süresi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cek-karsiliksiz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -120887,10 +123191,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cek-karsiliksiz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«bono vade ve protesto» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cek-karsiliksiz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -121151,10 +123461,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iflasın ertelenmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -121416,10 +123732,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ortağın şirket borcu sorumluluğu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -121681,10 +124003,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yönetim kurulu sorumluluğu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -121946,10 +124274,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ticari iş karinesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -122211,10 +124545,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«faturaya itiraz süresi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -122476,10 +124816,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«cari hesap sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -122741,10 +125087,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«franchise sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -123006,10 +125358,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«acente sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -123271,10 +125629,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/sirket-kurulusu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«taşıma sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/sirket-kurulusu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -123536,10 +125900,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«emanet sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -123800,10 +126170,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ödünç sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -124065,10 +126441,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«bağış sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -124330,10 +126712,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«vekâlet sözleşmesi tbk» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -124595,10 +126983,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«eser sözleşmesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -124860,10 +127254,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hizmet sözleşmesi tbk» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -125125,10 +127525,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«satış vaadi icrası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -125390,10 +127796,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ön sözleşme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -125655,10 +128067,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«genel işlem koşulları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -125920,10 +128338,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sözleşmenin yorumu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -126185,10 +128609,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hukuki işlem» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -126450,10 +128880,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«butlan» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -126715,10 +129151,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iptal edilebilirlik» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -126980,10 +129422,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iyiniyet» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -127245,10 +129693,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kanun-maddesi-nasil-okunur",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«dürüstlük kuralı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kanun-maddesi-nasil-okunur",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -127509,10 +129963,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«hak düşürücü süre farkı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -127773,10 +130233,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«zamanaşımının kesilmesi ve durması» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -128038,10 +130504,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ispat yükü» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -128303,10 +130775,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«karine» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -128568,10 +131046,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«inkar tazminatı şartları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -128832,10 +131316,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tebligat-usulsuzlugu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«Tebligat Kanunu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tebligat-usulsuzlugu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -129095,10 +131585,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tebligat-usulsuzlugu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«usulsüz tebligat öğrenme tarihi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tebligat-usulsuzlugu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -129359,10 +131855,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/tebligat-usulsuzlugu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«e-tebligat açmamak» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/tebligat-usulsuzlugu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -129624,10 +132126,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/zamanaşimi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yargılama giderleri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/zamanaşimi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -129887,10 +132395,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ihtiyati-tedbir-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«delil tespiti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ihtiyati-tedbir-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -130150,10 +132664,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ihtiyati-tedbir-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihtiyati tedbire itiraz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ihtiyati-tedbir-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -130414,10 +132934,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihtiyati hacze itiraz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -130679,10 +133205,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra mahkemesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -130944,10 +133476,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra şikayeti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -131209,10 +133747,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sıra cetveli» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -131473,10 +134017,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«istihkak davası süresi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -131738,10 +134288,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«5 yıl kira tespit» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -132003,10 +134559,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kiracı ölümü» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -132268,10 +134830,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ev satılırsa kiracı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -132533,10 +135101,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kira-artis-orani-nasil-hesaplanir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira güvencesi 3 ay» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kira-artis-orani-nasil-hesaplanir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -132797,10 +135371,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kiraci-nasil-tahliye-edilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«konut tahliye sebepleri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kiraci-nasil-tahliye-edilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -133061,10 +135641,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kiraci-nasil-tahliye-edilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihtiyaç nedeniyle tahliye» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kiraci-nasil-tahliye-edilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -133324,10 +135910,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kiraci-nasil-tahliye-edilir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yeniden kiralama yasağı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kiraci-nasil-tahliye-edilir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -133588,10 +136180,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kira alacağı icra» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -133852,10 +136450,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kat-mulkiyeti-aidat",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yönetim planı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kat-mulkiyeti-aidat",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -134116,10 +136720,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kat-mulkiyeti-aidat",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ortak gider» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kat-mulkiyeti-aidat",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -134380,10 +136990,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kat-mulkiyeti-aidat",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«site yöneticisi seçimi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kat-mulkiyeti-aidat",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -134645,10 +137261,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kat-mulkiyeti-aidat",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kat irtifakından mülkiyete» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kat-mulkiyeti-aidat",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -134909,10 +137531,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kat-mulkiyeti-aidat",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«bağımsız bölüm» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kat-mulkiyeti-aidat",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -135174,10 +137802,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kat-mulkiyeti-aidat",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«arsa payı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kat-mulkiyeti-aidat",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -135439,10 +138073,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«geçit hakkı davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -135704,10 +138344,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sınır uyuşmazlığı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -135969,10 +138615,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kadastro tespitine itiraz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -136234,10 +138886,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/izale-i-suyu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«orman kadastrosu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/izale-i-suyu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -136499,10 +139157,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kıyı kenar çizgisi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -136764,10 +139428,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sit alanı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -137029,10 +139699,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çevre düzeni planı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -137294,10 +139970,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«emsal kaks» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -137559,10 +140241,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«taks» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -137823,10 +140511,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/iskan-belgesi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iskan belgeleri» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/iskan-belgesi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -138088,10 +140782,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kaçak kat cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -138353,10 +141053,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kentsel-donusum-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«mühür sökme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kentsel-donusum-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -138618,10 +141324,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«belediye encümen kararı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -138882,10 +141594,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«zabıta cezası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -139147,10 +141865,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işyeri açma ruhsatı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -139412,10 +142136,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«gıda işletme kayıt» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -139677,10 +142407,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/cimer-sikayet",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«çevre izin lisans» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/cimer-sikayet",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -139941,10 +142677,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kamulastirma-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kamulaştırma bedel davası» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kamulastirma-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -140204,10 +142946,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kamulastirma-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«acele kamulaştırma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kamulastirma-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -140468,10 +143216,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-cezasina-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«idari para cezası indirim» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-cezasina-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -140732,10 +143486,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-cezasina-itiraz",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«trafik cezası peşin ödeme» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-cezasina-itiraz",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -140996,10 +143756,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ehliyet-alma-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ehliyet sınavları» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ehliyet-alma-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -141260,10 +144026,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ehliyet-alma-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«src belgesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ehliyet-alma-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -141524,10 +144296,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ehliyet-alma-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«psikoteknik belge» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ehliyet-alma-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -141788,10 +144566,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/trafik-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«trafik kazası manevi tazminat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/trafik-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -142051,10 +144835,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş kazası manevi tazminat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -142316,10 +145106,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/temerrut-faizi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«destek payı hesabı» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/temerrut-faizi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -142581,10 +145377,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/ibraname-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sürekli iş göremezlik» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/ibraname-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -142846,10 +145648,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bagkur-prim-borcu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«geçici iş göremezlik» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bagkur-prim-borcu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -143110,10 +145918,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«iş kazası bildirim süresi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -143374,10 +146188,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/is-kazasi-tazminati",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«SGK rücu» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/is-kazasi-tazminati",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -143638,10 +146458,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/bagkur-prim-borcu",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«sgk prim iadesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/bagkur-prim-borcu",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -143901,10 +146727,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«yurt dışı borçlanma» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -144164,10 +146996,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«emekli intibak» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -144427,10 +147265,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/emeklilik-sartlari",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«emekli ikramiyesi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/emeklilik-sartlari",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -144692,10 +147536,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«memur maaşına haciz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -144957,10 +147807,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«emekli maaşına haciz» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -145221,10 +148077,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«kıdem tazminatı haczi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -145486,10 +148348,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/nafaka-davasi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«nafaka öncelik icra» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/nafaka-davasi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -145751,10 +148619,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/kidem-tazminati-nasil-alinir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«işçilik alacağı öncelik» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/kidem-tazminati-nasil-alinir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -146016,10 +148890,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«rehinli alacak» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -146281,10 +149161,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra teminat» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -146546,10 +149432,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«ihalenin feshi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -146810,10 +149702,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra satış bedeli paylaşım» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -147074,10 +149972,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«borçlu olmadığının tespiti» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -147338,10 +150242,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«icra taahhüdü» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -147603,10 +150513,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«tazyik hapsi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
@@ -147868,10 +150784,16 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "İç linkler, madde arama ve sonraki adım",
         "paragraphs": [
-          "Ana rehber (pillar): /bilgi/icra-takibi-nedir",
-          "Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat",
-          "«disiplin hapsi» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.",
-          "Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin."
+          "Ana rehber: /bilgi/icra-takibi-nedir",
+          "Kanun maddesi arama: /ara · Mevzuat: /mevzuat · İçtihat: /icthat",
+          "Madde numarasını biliyorsanız /mevzuat yolunu kullanın. Bilmiyorsanız /ara ile arayın."
+        ],
+        "bullets": [
+          "Dar soruyu bu sayfada netleştirin",
+          "Ana rehberde süreci okuyun",
+          "Belgeleri toplayın",
+          "Yazılı başvuruyu yapın",
+          "Sonucu takip edin"
         ]
       },
       {
