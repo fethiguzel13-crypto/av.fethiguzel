@@ -28,54 +28,99 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "Emlak vergisi, Türkiye’de taşınmaz maliki olanların belediyeye ödemekle yükümlü olduğu yıllık bir vergidir. Konut, işyeri ve arsa için farklı oranlar uygulanır; muafiyet ve indirimler engellilik, şehit yakını ve küçük konut gibi hallerde gündeme gelebilir. Bu sayfa genel bilgilendirmedir; oran ve muafiyet için ilgili yılın mevzuatı ile belediyenizin duyuruları esas alınmalıdır.",
+    "lead": "Emlak vergisi, Türkiye’de taşınmaz (konut, işyeri, arsa) malikinin ilgili belediyeye ödemekle yükümlü olduğu yıllık bir vergidir. Matrah vergi değeri üzerinden hesaplanır; büyükşehir ve diğer belediyelerde oranlar ile muafiyet/indirim şartları (engellilik, şehit yakını, küçük konut vb.) döneme göre değişebilir. Bu sayfa «emlak vergisi nedir» ve «emlak vergisi nasıl ödenir» aramalarına yönelik genel bilgilendirmedir; bağlayıcı hukuki tavsiye yerine geçmez. Güncel madde metni ve akademik şerh için portal mevzuat bankası kullanılmalıdır.",
     "sections": [
       {
-        "heading": "Emlak vergisi kime aittir?",
+        "heading": "Emlak vergisi nedir? Nasıl hesaplanır ve ödenir: hukuki çerçeve",
         "paragraphs": [
-          "Kural olarak verginin mükellefi taşınmazın malikidir. Paylı mülkiyette her paydaş kendi payı oranında sorumlu olabilir. Kiracı kural olarak asıl mükellef değildir.",
-          "Yıl içinde el değiştiren taşınmazlarda devir tarihine göre mükellefiyet değişebilir. Tapu devrinden sonra belediyeye bildirim ve borç sorgusu ihmal edilmemelidir."
+          "Emlak vergisi, Türkiye’de taşınmaz (konut, işyeri, arsa) malikinin ilgili belediyeye ödemekle yükümlü olduğu yıllık bir vergidir. Matrah vergi değeri üzerinden hesaplanır; büyükşehir ve diğer belediyelerde oranlar ile muafiyet/indirim şartları (engellilik, şehit yakını, küçük konut vb.) döneme göre değişebilir.",
+          "Arama motorunda «emlak vergisi nedir» yazan kullanıcı çoğu zaman madde metninin özeti ile «ne yapmalıyım?» yol haritasını bir arada arar. Bu nedenle hem kavram hem de usul adımları birlikte verilmiştir."
         ],
         "bullets": [
-          "Malik / paydaş esası",
-          "Devir yılında bildirim",
-          "Belediye yetki alanı"
+          "Mükellef kural olarak malik / paydaştır; kiracı asıl mükellef değildir.",
+          "Çoğu belediyede iki taksitte tahsil; e-Devlet ve banka kanalları yaygındır.",
+          "Yıl içinde devirde bildirim ve borç sorgusu ihmal edilmemelidir.",
+          "Gecikmede gecikme zammı ve işlem engelleri gündeme gelebilir."
         ]
       },
       {
-        "heading": "Nasıl hesaplanır?",
+        "heading": "Yasal dayanak ve ilgili mevzuat",
         "paragraphs": [
-          "Emlak vergisi, vergi değeri üzerinden kanunda ve oran cetvellerinde öngörülen oranlarla hesaplanır. Büyükşehir ve diğer belediyelerde oranlar farklılaşabilir.",
-          "İndirim ve muafiyet şartları güncellenebilir; belediye ve Gelir İdaresi duyuruları kontrol edilmelidir. Sitedeki araçlar kabaca fikir verir."
+          "Bu konuda sık atıf yapılan metinler: VUK, GVK, KDVK, AATUHK. Madde numarası ve fıkra, somut olaya göre değişir; yürürlük ve değişiklik tarihi kontrol edilmeden yorum yapılmamalıdır.",
+          "İlgili madde veya araca doğrudan erişim: portal içi link (/kategori/vuk). Kanun maddesi aramak için /ara, arşiv için /mevzuat kullanılabilir.",
+          "Tarhiyat, ceza ve ödeme vadeleri tebliğle işlemeye başlar."
         ]
       },
       {
-        "heading": "Ne zaman ve nasıl ödenir?",
+        "heading": "Kimler muhataptır? Şartlar nelerdir?",
         "paragraphs": [
-          "Çoğu belediyede iki taksitte tahsil edilir. e-Devlet, vezne ve banka kanalları yaygındır. Gecikmede gecikme zammı gündeme gelebilir."
+          "Tipik merciler ve muhataplar: vergi dairesi, GİB, vergi mahkemesi, uzlaşma komisyonu. Şartlar; süre, şekil, belgeler, bazen arabuluculuk veya idari ön başvuru gibi dava/işlem şartlarını içerir.",
+          "«emlak vergisi oranları» ile ilgili tebliğ, öğrenme veya fesih tarihi yazılı olarak sabitlenmelidir. Usulsüz tebligat iddiası varsa öğrenme tarihi ayrıca ispatlanmalıdır.",
+          "Eksik ehliyet, vekâlet veya temsil belgesi başvuruyu usulden riske atar. Kurumların e-Devlet/UYAP kanalları ile fiziki başvuru ayrımına dikkat edin."
+        ]
+      },
+      {
+        "heading": "Süreç nasıl işler?",
+        "paragraphs": [
+          "Tipik akış şöyle özetlenebilir: (1) Konuya özgü olguları ve belgeleri derleyin. (2) Yasal dayanak ve süreyi (tebliğ/öğrenme) tespit edin. (3) Doğru mercie yazılı başvurun veya dava/arabuluculuk başlatın. (4) Sonucu takip edin; ret veya aleyhe kararda kanun yolunu değerlendirin. (5) Ödeme, tescil veya icra kapanışını belgelendirin.",
+          "Elektronik kanallar (e-Devlet, UYAP, GİB, belediye, banka) hız kazandırır; ancak bazı işlemler noter, randevu veya ıslak imza ister. «emlak vergisi nedir» dosyasında barkodlu belge ile asıl evrak ayrımını kurum bazında doğrulayın."
+        ]
+      },
+      {
+        "heading": "Belgeler ve ispat",
+        "paragraphs": [
+          "Sık kullanılan belgeler: tahakkuk, beyanname, ödeme, inceleme tutanağı. Ayrıca kimlik, tebligat mazbataları, ödeme dekontları, mesaj/e-posta çıktıları ve tanık listesi tamamlayıcı olabilir.",
+          "Dijital delillerde tarih, bütünlük ve kaynak (orijinal dosya, ekran görüntüsü zinciri) korunmalıdır. Resmî kayıtlara (tapu, SGK, icra, nüfus) mümkün olduğunca asıl veya onaylı suret üzerinden erişin."
         ],
         "bullets": [
-          "Taksit takvimini doğrulayın",
-          "e-Devlet / online ödeme",
-          "Dekontu saklayın"
+          "inceleme tutanağı",
+          "yapılandırma başvurusu",
+          "tahakkuk"
+        ]
+      },
+      {
+        "heading": "Sık hatalar ve riskler",
+        "paragraphs": [
+          "En sık görülen risk: Uzlaşma/dava seçimini geç yapmak. Bunun yanında süreleri kabaca hesaplamak, sözlü anlaşmaya güvenmek ve ödeme/indirim metnini okumadan işlem yapmak hak kaybına yol açar.",
+          "Uzlaşma/dava seçimini geç yapmak",
+          "İnternetteki «garanti sonuç» vaatleri bağlayıcı değildir. Bu rehber bilgilendirme amaçlıdır; sonuç vaadi içermez."
+        ]
+      },
+      {
+        "heading": "Kanun maddesi, şerh ve hesaplama",
+        "paragraphs": [
+          "«emlak vergisi nedir» ile ilişkili kanun maddelerini bulmak için portal kanun maddesi aramasını kullanın. Madde numarasını biliyorsanız /mevzuat/{kanun}/madde-{n} yoluna gidin; bilmiyorsanız /ara üzerinden tam metin arayın.",
+          "Hesaplama araçları (kıdem, miras, faiz, kira, nafaka vb.) kabaca fikir verir; bordro, tarife ve yargı uygulaması somut tutarı değiştirir. İçtihat için /icthat sayfasına bakılabilir."
         ]
       }
     ],
     "steps": [
-      "Ada-parsel ve belediyeyi tespit edin.",
-      "Borç ve beyanı sorgulayın.",
-      "Muafiyet belgelerini tamamlayın.",
-      "Ödemeyi resmî kanaldan yapın.",
-      "Devir öncesi borç sıfırlayın."
+      "«emlak vergisi nedir»: e-Devlet/GİB borcunu ve tebliğleri kontrol edin.",
+      "Ceza/indirim ve yapılandırma seçeneklerini karşılaştırın.",
+      "Yazılı başvuru veya ödeme planı oluşturun.",
+      "İhtilafta uzlaşma veya vergi davası yolunu seçin.",
+      "Ödeme dekontlarını ve kapanış yazısını saklayın."
     ],
     "faq": [
       {
-        "q": "Kiracı emlak vergisi öder mi?",
-        "a": "Asıl mükellef maliktir. Sözleşmeyle yansıtma ayrı bir borçlar hukuku meselesidir."
+        "q": "«emlak vergisi nedir» için en kritik nokta nedir?",
+        "a": "Mükellef kural olarak malik / paydaştır; kiracı asıl mükellef değildir."
       },
       {
-        "q": "Ödemezsem ne olur?",
-        "a": "Gecikme zammı, takibat ve işlem engelleri gündeme gelebilir."
+        "q": "Nelere özellikle dikkat edilmeli?",
+        "a": "Çoğu belediyede iki taksitte tahsil; e-Devlet ve banka kanalları yaygındır. Yıl içinde devirde bildirim ve borç sorgusu ihmal edilmemelidir."
+      },
+      {
+        "q": "Avukat tutmak zorunlu mudur?",
+        "a": "Çoğu idari ve hukuk başvurusunda avukat zorunlu değildir. Ancak süre, delil ve strateji hataları hak kaybına yol açabileceğinden karmaşık dosyalarda hukuki destek önerilir."
+      },
+      {
+        "q": "Süre ne zaman işlemeye başlar?",
+        "a": "Kural olarak tebliğ, öğrenme, fesih veya olay tarihinden itibaren. e-Tebligat ve usulsüz tebligat hallerinde öğrenme/tebliğ sayılma anı ayrıca incelenmelidir. Kesin süre bu sayfada vaat edilmez."
+      },
+      {
+        "q": "Bu rehber bağlayıcı mıdır?",
+        "a": "Hayır. Genel bilgilendirmedir. Yürürlükteki mevzuat, idari düzenleyici işlemler, içtihat ve somut olayın özellikleri esastır."
       }
     ],
     "updated": "2026-07-28"
@@ -106,25 +151,26 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "Veraset ilamı nasıl alınır; miras alanında en çok sorulan pratik sorulardan biridir. İlgili çerçeve sıklıkla TMK miras hükümleri, Veraset ve İntikal Vergisi Kanunu hükümleriyle çizilir; başvuru mercileri arasında tapu öne çıkar. Aşağıda «veraset ilamı nasıl alınır» ve «mirasçılık belgesi» odaklı tanım, şartlar, adımlar, belgeler ve riskler sadeleştirilmiş biçimde anlatılır. Metin genel bilgilendirmedir; somut dosyada tebliğ tarihi, güncel mevzuat ve avukat değerlendirmesi esas alınmalıdır.",
+    "lead": "Veraset ilamı (mirasçılık belgesi), ölen kişinin yasal mirasçılarını ve miras paylarını gösteren resmî belgedir. e-Devlet, noter veya sulh hukuk mahkemesi yollarından alınabilir; taşınmaz devri, banka ve araç işlemlerinde sıklıkla istenir. Bu sayfa «veraset ilamı nasıl alınır» ve «mirasçılık belgesi» aramalarına yönelik genel bilgilendirmedir; bağlayıcı hukuki tavsiye yerine geçmez. Güncel madde metni ve akademik şerh için portal mevzuat bankası kullanılmalıdır.",
     "sections": [
       {
-        "heading": "«veraset ilamı nasıl alınır» ne demektir?",
+        "heading": "Veraset ilamı nasıl alınır: hukuki çerçeve",
         "paragraphs": [
-          "Veraset ilamı nasıl alınır? sorusu, miras alanında hak, borç ve usul kurallarının kesişiminde durur. Tek cümlelik tanım yetmez; kimlerin muhatap olduğu, hangi şartların arandığı ve hangi mercinin yetkili olduğu birlikte okunmalıdır.",
-          "Uygulamada «mirasçılık belgesi» ifadesi sıklıkla e-Devlet, icra, mahkeme veya idari başvuru adımlarıyla birlikte aranır. Yanlış mercie gitmek veya belge eksik bırakmak, süreyi fiilen tüketebilir."
+          "Veraset ilamı (mirasçılık belgesi), ölen kişinin yasal mirasçılarını ve miras paylarını gösteren resmî belgedir. e-Devlet, noter veya sulh hukuk mahkemesi yollarından alınabilir; taşınmaz devri, banka ve araç işlemlerinde sıklıkla istenir.",
+          "Arama motorunda «veraset ilamı nasıl alınır» yazan kullanıcı çoğu zaman madde metninin özeti ile «ne yapmalıyım?» yol haritasını bir arada arar. Bu nedenle hem kavram hem de usul adımları birlikte verilmiştir."
         ],
         "bullets": [
-          "veraset ilamı nasıl alınır",
-          "mirasçılık belgesi",
-          "veraset e-devlet"
+          "e-Devlet uygunluk şartları yoksa noter veya mahkeme yoluna gidilir.",
+          "Nüfus kayıtları ve ölüm belgesi temel evraktır.",
+          "Belge sonrası veraset ve intikal vergisi ile tapu devri ayrı adımlardır.",
+          "Mirasın reddi süresi kaçırılmamalıdır."
         ]
       },
       {
         "heading": "Yasal dayanak ve ilgili mevzuat",
         "paragraphs": [
           "Bu konuda sık atıf yapılan metinler: TMK miras hükümleri, Veraset ve İntikal Vergisi Kanunu. Madde numarası ve fıkra, somut olaya göre değişir; yürürlük ve değişiklik tarihi kontrol edilmeden yorum yapılmamalıdır.",
-          "Kanun maddesi metni ve akademik şerh için sitede «veraset ilamı nasıl alınır» araması yapılabilir: /ara. Kategori sayfaları ve hesaplama araçları ilgili bağlantılarda yer alır.",
+          "İlgili madde veya araca doğrudan erişim: portal içi link (/hesaplama/miras). Kanun maddesi aramak için /ara, arşiv için /mevzuat kullanılabilir.",
           "Veraset ilamı e-Devlet/noter/mahkeme yollarından biriyle alınabilir."
         ]
       },
@@ -139,7 +185,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış şöyle özetlenebilir: (1) Ölüm ve mirasçı listesini nüfustan doğrulayın. (2) Veraset ilamı alın (e-Devlet/noter/mahkeme). (3) Borç-alacak ve taşınmazları envanterleyin; red gerekip gerekmediğine bakın. (4) Paylaşım veya izale-i şuyu yolunu seçin. (5) Vergi ve tapu devir işlemlerini tamamlayın.",
+          "Tipik akış şöyle özetlenebilir: (1) Konuya özgü olguları ve belgeleri derleyin. (2) Yasal dayanak ve süreyi (tebliğ/öğrenme) tespit edin. (3) Doğru mercie yazılı başvurun veya dava/arabuluculuk başlatın. (4) Sonucu takip edin; ret veya aleyhe kararda kanun yolunu değerlendirin. (5) Ödeme, tescil veya icra kapanışını belgelendirin.",
           "Elektronik kanallar (e-Devlet, UYAP, GİB, belediye, banka) hız kazandırır; ancak bazı işlemler noter, randevu veya ıslak imza ister. «veraset ilamı nasıl alınır» dosyasında barkodlu belge ile asıl evrak ayrımını kurum bazında doğrulayın."
         ]
       },
@@ -180,12 +226,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "faq": [
       {
-        "q": "«veraset ilamı nasıl alınır» başvurusunda ilk adım ne olmalı?",
-        "a": "Önce tebliğ/öğrenme veya olay tarihini sabitleyin; sonra asliye hukuk başta olmak üzere doğru mercie ve belge listesine karar verin."
+        "q": "«veraset ilamı nasıl alınır» için en kritik nokta nedir?",
+        "a": "e-Devlet uygunluk şartları yoksa noter veya mahkeme yoluna gidilir."
       },
       {
-        "q": "«mirasçılık belgesi» için hangi mevzuata bakılır?",
-        "a": "Sıklıkla TMK miras hükümleri, Veraset ve İntikal Vergisi Kanunu devreye girer. Somut madde numarası dosyaya göre değişir; güncel metin ve şerh için portal mevzuat araması kullanılmalıdır."
+        "q": "Nelere özellikle dikkat edilmeli?",
+        "a": "Nüfus kayıtları ve ölüm belgesi temel evraktır. Belge sonrası veraset ve intikal vergisi ile tapu devri ayrı adımlardır."
       },
       {
         "q": "Avukat tutmak zorunlu mudur?",
@@ -228,25 +274,25 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=trafik"
       }
     ],
-    "lead": "Trafik cezasına itiraz nasıl yapılır konusunda doğru merci ve süre, sonucun kendisi kadar önemlidir. İlgili çerçeve sıklıkla KTK (2918), TCK (trafik güvenliği), zorunlu mali sorumluluk sigortası mevzuatı hükümleriyle çizilir; başvuru mercileri arasında sigorta öne çıkar. Aşağıda «trafik cezasına itiraz» ve «EDS ceza itiraz» odaklı tanım, şartlar, adımlar, belgeler ve riskler sadeleştirilmiş biçimde anlatılır. Metin genel bilgilendirmedir; somut dosyada tebliğ tarihi, güncel mevzuat ve avukat değerlendirmesi esas alınmalıdır.",
+    "lead": "Trafik idari para cezasına itiraz, tebliğden itibaren yasal süre içinde yetkili mercie (çoğu halde sulh ceza hâkimliği veya ilgili usul) yapılır. EDS/HGS ve e-Devlet sorguları cezanın dayanağını görmek için kullanılır; peşin ödeme indirimi ile itiraz stratejisi birlikte değerlendirilmelidir. Bu sayfa «trafik cezasına itiraz» ve «EDS ceza itiraz» aramalarına yönelik genel bilgilendirmedir; bağlayıcı hukuki tavsiye yerine geçmez. Güncel madde metni ve akademik şerh için portal mevzuat bankası kullanılmalıdır.",
     "sections": [
       {
-        "heading": "«trafik cezasına itiraz» ne demektir?",
+        "heading": "Trafik cezasına itiraz nasıl yapılır: hukuki çerçeve",
         "paragraphs": [
-          "Trafik cezasına itiraz nasıl yapılır? sorusu, trafik alanında hak, borç ve usul kurallarının kesişiminde durur. Tek cümlelik tanım yetmez; kimlerin muhatap olduğu, hangi şartların arandığı ve hangi mercinin yetkili olduğu birlikte okunmalıdır.",
-          "Uygulamada «EDS ceza itiraz» ifadesi sıklıkla e-Devlet, icra, mahkeme veya idari başvuru adımlarıyla birlikte aranır. Yanlış mercie gitmek veya belge eksik bırakmak, süreyi fiilen tüketebilir."
+          "Trafik idari para cezasına itiraz, tebliğden itibaren yasal süre içinde yetkili mercie (çoğu halde sulh ceza hâkimliği veya ilgili usul) yapılır. EDS/HGS ve e-Devlet sorguları cezanın dayanağını görmek için kullanılır; peşin ödeme indirimi ile itiraz stratejisi birlikte değerlendirilmelidir.",
+          "Arama motorunda «trafik cezasına itiraz» yazan kullanıcı çoğu zaman madde metninin özeti ile «ne yapmalıyım?» yol haritasını bir arada arar. Bu nedenle hem kavram hem de usul adımları birlikte verilmiştir."
         ],
         "bullets": [
-          "trafik cezasına itiraz",
-          "EDS ceza itiraz",
-          "trafik cezası süresi"
+          "Tebliğ tarihini sabitleyin; e-tebligat kurallarına bakın.",
+          "İtiraz gerekçesi (usul, levha, ölçüm, araç devri) somut olmalıdır.",
+          "Ödeme indirimi ile itiraz hakkı ilişkisini güncel mevzuattan kontrol edin."
         ]
       },
       {
         "heading": "Yasal dayanak ve ilgili mevzuat",
         "paragraphs": [
           "Bu konuda sık atıf yapılan metinler: KTK (2918), TCK (trafik güvenliği), zorunlu mali sorumluluk sigortası mevzuatı. Madde numarası ve fıkra, somut olaya göre değişir; yürürlük ve değişiklik tarihi kontrol edilmeden yorum yapılmamalıdır.",
-          "Kanun maddesi metni ve akademik şerh için sitede «trafik cezasına itiraz» araması yapılabilir: /ara. Kategori sayfaları ve hesaplama araçları ilgili bağlantılarda yer alır.",
+          "İlgili madde veya araca doğrudan erişim: portal içi link (/kategori/ktk). Kanun maddesi aramak için /ara, arşiv için /mevzuat kullanılabilir.",
           "Hasar ihbarında poliçe ve şirket prosedür süreleri vardır."
         ]
       },
@@ -261,7 +307,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış şöyle özetlenebilir: (1) Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın. (2) İtiraz mercini ve süreyi tespit edin. (3) Hasarda ihbar + eksper sürecini başlatın. (4) Red halinde tahkim/dava seçeneklerini değerlendirin. (5) Ehliyet/puan durumunu takip edin.",
+          "Tipik akış şöyle özetlenebilir: (1) Konuya özgü olguları ve belgeleri derleyin. (2) Yasal dayanak ve süreyi (tebliğ/öğrenme) tespit edin. (3) Doğru mercie yazılı başvurun veya dava/arabuluculuk başlatın. (4) Sonucu takip edin; ret veya aleyhe kararda kanun yolunu değerlendirin. (5) Ödeme, tescil veya icra kapanışını belgelendirin.",
           "Elektronik kanallar (e-Devlet, UYAP, GİB, belediye, banka) hız kazandırır; ancak bazı işlemler noter, randevu veya ıslak imza ister. «trafik cezasına itiraz» dosyasında barkodlu belge ile asıl evrak ayrımını kurum bazında doğrulayın."
         ]
       },
@@ -302,12 +348,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "faq": [
       {
-        "q": "«trafik cezasına itiraz» başvurusunda ilk adım ne olmalı?",
-        "a": "Önce tebliğ/öğrenme veya olay tarihini sabitleyin; sonra hukuk/ceza mahkemesi başta olmak üzere doğru mercie ve belge listesine karar verin."
+        "q": "«trafik cezasına itiraz» için en kritik nokta nedir?",
+        "a": "Tebliğ tarihini sabitleyin; e-tebligat kurallarına bakın."
       },
       {
-        "q": "«EDS ceza itiraz» için hangi mevzuata bakılır?",
-        "a": "Sıklıkla KTK (2918), TCK (trafik güvenliği), zorunlu mali sorumluluk sigortası mevzuatı devreye girer. Somut madde numarası dosyaya göre değişir; güncel metin ve şerh için portal mevzuat araması kullanılmalıdır."
+        "q": "Nelere özellikle dikkat edilmeli?",
+        "a": "İtiraz gerekçesi (usul, levha, ölçüm, araç devri) somut olmalıdır. Ödeme indirimi ile itiraz hakkı ilişkisini güncel mevzuattan kontrol edin."
       },
       {
         "q": "Avukat tutmak zorunlu mudur?",
@@ -838,25 +884,25 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "Nafaka davası nedir? Türleri ve süreç; aile alanında en çok sorulan pratik sorulardan biridir. İlgili çerçeve sıklıkla TMK (4721), 6284 sayılı Kanun, HMK (6100) hükümleriyle çizilir; başvuru mercileri arasında Aile ve Sosyal Hizmetler öne çıkar. Aşağıda «nafaka davası» ve «yoksulluk nafakası» odaklı tanım, şartlar, adımlar, belgeler ve riskler sadeleştirilmiş biçimde anlatılır. Metin genel bilgilendirmedir; somut dosyada tebliğ tarihi, güncel mevzuat ve avukat değerlendirmesi esas alınmalıdır.",
+    "lead": "Nafaka; tedbir, yoksulluk ve iştirak türleriyle aile mahkemesinde talep edilir. Miktar, tarafların ekonomik-sosyal durumu, çocuğun ihtiyaçları ve hakkaniyete göre hâkim tarafından takdir edilir; sabit yüzde garantisi yoktur. Bu sayfa «nafaka davası» ve «yoksulluk nafakası» aramalarına yönelik genel bilgilendirmedir; bağlayıcı hukuki tavsiye yerine geçmez. Güncel madde metni ve akademik şerh için portal mevzuat bankası kullanılmalıdır.",
     "sections": [
       {
-        "heading": "«nafaka davası» ne demektir?",
+        "heading": "Nafaka davası nedir? Türleri ve süreç: hukuki çerçeve",
         "paragraphs": [
-          "Nafaka davası nedir? Türleri ve süreç sorusu, aile alanında hak, borç ve usul kurallarının kesişiminde durur. Tek cümlelik tanım yetmez; kimlerin muhatap olduğu, hangi şartların arandığı ve hangi mercinin yetkili olduğu birlikte okunmalıdır.",
-          "Uygulamada «yoksulluk nafakası» ifadesi sıklıkla e-Devlet, icra, mahkeme veya idari başvuru adımlarıyla birlikte aranır. Yanlış mercie gitmek veya belge eksik bırakmak, süreyi fiilen tüketebilir."
+          "Nafaka; tedbir, yoksulluk ve iştirak türleriyle aile mahkemesinde talep edilir. Miktar, tarafların ekonomik-sosyal durumu, çocuğun ihtiyaçları ve hakkaniyete göre hâkim tarafından takdir edilir; sabit yüzde garantisi yoktur.",
+          "Arama motorunda «nafaka davası» yazan kullanıcı çoğu zaman madde metninin özeti ile «ne yapmalıyım?» yol haritasını bir arada arar. Bu nedenle hem kavram hem de usul adımları birlikte verilmiştir."
         ],
         "bullets": [
-          "nafaka davası",
-          "yoksulluk nafakası",
-          "iştirak nafakası"
+          "İştirak nafakası çocuk içindir; yoksulluk nafakası eş içindir.",
+          "Ödenmezse icra ve tazyik hapsi gündeme gelebilir.",
+          "Artırım/indirme değişen şartlarla açılabilir."
         ]
       },
       {
         "heading": "Yasal dayanak ve ilgili mevzuat",
         "paragraphs": [
           "Bu konuda sık atıf yapılan metinler: TMK (4721), 6284 sayılı Kanun, HMK (6100). Madde numarası ve fıkra, somut olaya göre değişir; yürürlük ve değişiklik tarihi kontrol edilmeden yorum yapılmamalıdır.",
-          "Kanun maddesi metni ve akademik şerh için sitede «nafaka davası» araması yapılabilir: /ara. Kategori sayfaları ve hesaplama araçları ilgili bağlantılarda yer alır.",
+          "İlgili madde veya araca doğrudan erişim: portal içi link (/hesaplama/nafaka). Kanun maddesi aramak için /ara, arşiv için /mevzuat kullanılabilir.",
           "6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar."
         ]
       },
@@ -871,7 +917,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış şöyle özetlenebilir: (1) Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin. (2) Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın. (3) Görevli aile mahkemesinde dava veya 6284 başvurusu yapın. (4) Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin. (5) Kesinleşen kararı icra veya nüfus işlemleri için kullanın.",
+          "Tipik akış şöyle özetlenebilir: (1) Konuya özgü olguları ve belgeleri derleyin. (2) Yasal dayanak ve süreyi (tebliğ/öğrenme) tespit edin. (3) Doğru mercie yazılı başvurun veya dava/arabuluculuk başlatın. (4) Sonucu takip edin; ret veya aleyhe kararda kanun yolunu değerlendirin. (5) Ödeme, tescil veya icra kapanışını belgelendirin.",
           "Elektronik kanallar (e-Devlet, UYAP, GİB, belediye, banka) hız kazandırır; ancak bazı işlemler noter, randevu veya ıslak imza ister. «nafaka davası» dosyasında barkodlu belge ile asıl evrak ayrımını kurum bazında doğrulayın."
         ]
       },
@@ -912,12 +958,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "faq": [
       {
-        "q": "«nafaka davası» başvurusunda ilk adım ne olmalı?",
-        "a": "Önce tebliğ/öğrenme veya olay tarihini sabitleyin; sonra savcılık (şiddet) başta olmak üzere doğru mercie ve belge listesine karar verin."
+        "q": "«nafaka davası» için en kritik nokta nedir?",
+        "a": "İştirak nafakası çocuk içindir; yoksulluk nafakası eş içindir."
       },
       {
-        "q": "«yoksulluk nafakası» için hangi mevzuata bakılır?",
-        "a": "Sıklıkla TMK (4721), 6284 sayılı Kanun, HMK (6100) devreye girer. Somut madde numarası dosyaya göre değişir; güncel metin ve şerh için portal mevzuat araması kullanılmalıdır."
+        "q": "Nelere özellikle dikkat edilmeli?",
+        "a": "Ödenmezse icra ve tazyik hapsi gündeme gelebilir. Artırım/indirme değişen şartlarla açılabilir."
       },
       {
         "q": "Avukat tutmak zorunlu mudur?",
@@ -1692,25 +1738,25 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=t%C3%BCketici"
       }
     ],
-    "lead": "Tüketici hakem heyetine nasıl başvurulur konusunda doğru merci ve süre, sonucun kendisi kadar önemlidir. İlgili çerçeve sıklıkla 6502 sayılı TKHK, mesafeli sözleşmeler mevzuatı, TBK ayıp hükümleri hükümleriyle çizilir; başvuru mercileri arasında banka/şirket müşteri hizmetleri öne çıkar. Aşağıda «tüketici hakem heyeti» ve «tüketici şikayeti» odaklı tanım, şartlar, adımlar, belgeler ve riskler sadeleştirilmiş biçimde anlatılır. Metin genel bilgilendirmedir; somut dosyada tebliğ tarihi, güncel mevzuat ve avukat değerlendirmesi esas alınmalıdır.",
+    "lead": "Tüketici hakem heyeti, belirli parasal sınır altındaki tüketici uyuşmazlıklarında başvuru merciidir. Başvuru e-Devlet üzerinden yapılabilir; kararlara karşı tüketici mahkemesinde itiraz yolu vardır. Parasal sınırlar her yıl güncellenir. Bu sayfa «tüketici hakem heyeti» ve «tüketici şikayeti» aramalarına yönelik genel bilgilendirmedir; bağlayıcı hukuki tavsiye yerine geçmez. Güncel madde metni ve akademik şerh için portal mevzuat bankası kullanılmalıdır.",
     "sections": [
       {
-        "heading": "«tüketici hakem heyeti» ne demektir?",
+        "heading": "Tüketici hakem heyetine nasıl başvurulur: hukuki çerçeve",
         "paragraphs": [
-          "Tüketici hakem heyetine nasıl başvurulur? sorusu, tüketici alanında hak, borç ve usul kurallarının kesişiminde durur. Tek cümlelik tanım yetmez; kimlerin muhatap olduğu, hangi şartların arandığı ve hangi mercinin yetkili olduğu birlikte okunmalıdır.",
-          "Uygulamada «tüketici şikayeti» ifadesi sıklıkla e-Devlet, icra, mahkeme veya idari başvuru adımlarıyla birlikte aranır. Yanlış mercie gitmek veya belge eksik bırakmak, süreyi fiilen tüketebilir."
+          "Tüketici hakem heyeti, belirli parasal sınır altındaki tüketici uyuşmazlıklarında başvuru merciidir. Başvuru e-Devlet üzerinden yapılabilir; kararlara karşı tüketici mahkemesinde itiraz yolu vardır. Parasal sınırlar her yıl güncellenir.",
+          "Arama motorunda «tüketici hakem heyeti» yazan kullanıcı çoğu zaman madde metninin özeti ile «ne yapmalıyım?» yol haritasını bir arada arar. Bu nedenle hem kavram hem de usul adımları birlikte verilmiştir."
         ],
         "bullets": [
-          "tüketici hakem heyeti",
-          "tüketici şikayeti",
-          "e-devlet tüketici"
+          "Parasal sınırı kontrol etmeden başvuru yapmayın.",
+          "Ayıp, cayma, abonelik ve banka uyuşmazlıkları sık konudur.",
+          "Delil (fatura, sipariş, yazışma) eksiksiz eklenmelidir."
         ]
       },
       {
         "heading": "Yasal dayanak ve ilgili mevzuat",
         "paragraphs": [
           "Bu konuda sık atıf yapılan metinler: 6502 sayılı TKHK, mesafeli sözleşmeler mevzuatı, TBK ayıp hükümleri. Madde numarası ve fıkra, somut olaya göre değişir; yürürlük ve değişiklik tarihi kontrol edilmeden yorum yapılmamalıdır.",
-          "Kanun maddesi metni ve akademik şerh için sitede «tüketici hakem heyeti» araması yapılabilir: /ara. Kategori sayfaları ve hesaplama araçları ilgili bağlantılarda yer alır.",
+          "İlgili madde veya araca doğrudan erişim: portal içi link (/kategori/tkhk). Kanun maddesi aramak için /ara, arşiv için /mevzuat kullanılabilir.",
           "Hakem heyeti parasal sınırları her yıl güncellenir."
         ]
       },
@@ -1725,7 +1771,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış şöyle özetlenebilir: (1) Sözleşme/fatura ve ayıp kanıtlarını toplayın. (2) Satıcıya yazılı başvuru yapın; süre verin. (3) Sonuç alamazsanız hakem heyeti veya mahkemeyi seçin. (4) e-Devlet başvuru numarasını saklayın. (5) Karar aleyhineyse itiraz/dava süresini hesaplayın.",
+          "Tipik akış şöyle özetlenebilir: (1) Konuya özgü olguları ve belgeleri derleyin. (2) Yasal dayanak ve süreyi (tebliğ/öğrenme) tespit edin. (3) Doğru mercie yazılı başvurun veya dava/arabuluculuk başlatın. (4) Sonucu takip edin; ret veya aleyhe kararda kanun yolunu değerlendirin. (5) Ödeme, tescil veya icra kapanışını belgelendirin.",
           "Elektronik kanallar (e-Devlet, UYAP, GİB, belediye, banka) hız kazandırır; ancak bazı işlemler noter, randevu veya ıslak imza ister. «tüketici hakem heyeti» dosyasında barkodlu belge ile asıl evrak ayrımını kurum bazında doğrulayın."
         ]
       },
@@ -1766,12 +1812,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "faq": [
       {
-        "q": "«tüketici hakem heyeti» başvurusunda ilk adım ne olmalı?",
-        "a": "Önce tebliğ/öğrenme veya olay tarihini sabitleyin; sonra e-Devlet başta olmak üzere doğru mercie ve belge listesine karar verin."
+        "q": "«tüketici hakem heyeti» için en kritik nokta nedir?",
+        "a": "Parasal sınırı kontrol etmeden başvuru yapmayın."
       },
       {
-        "q": "«tüketici şikayeti» için hangi mevzuata bakılır?",
-        "a": "Sıklıkla 6502 sayılı TKHK, mesafeli sözleşmeler mevzuatı, TBK ayıp hükümleri devreye girer. Somut madde numarası dosyaya göre değişir; güncel metin ve şerh için portal mevzuat araması kullanılmalıdır."
+        "q": "Nelere özellikle dikkat edilmeli?",
+        "a": "Ayıp, cayma, abonelik ve banka uyuşmazlıkları sık konudur. Delil (fatura, sipariş, yazışma) eksiksiz eklenmelidir."
       },
       {
         "q": "Avukat tutmak zorunlu mudur?",
@@ -2545,25 +2591,25 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "«miras payı nasıl hesaplanır» araması genellikle hem tanım hem de başvuru yolunu birlikte ister. İlgili çerçeve sıklıkla TMK miras hükümleri, Veraset ve İntikal Vergisi Kanunu hükümleriyle çizilir; başvuru mercileri arasında vergi dairesi öne çıkar. Aşağıda «miras payı nasıl hesaplanır» ve «yasal mirasçılık» odaklı tanım, şartlar, adımlar, belgeler ve riskler sadeleştirilmiş biçimde anlatılır. Metin genel bilgilendirmedir; somut dosyada tebliğ tarihi, güncel mevzuat ve avukat değerlendirmesi esas alınmalıdır.",
+    "lead": "Yasal miras payı, TMK’nın zümre sistemine göre hesaplanır. Sağ kalan eşin payı, alt soy veya ana-baba ile birlikte mirasçılığa göre değişir. Saklı pay, tenkis ve vasiyet ayrı katmanlardır. Bu sayfa «miras payı nasıl hesaplanır» ve «yasal mirasçılık» aramalarına yönelik genel bilgilendirmedir; bağlayıcı hukuki tavsiye yerine geçmez. Güncel madde metni ve akademik şerh için portal mevzuat bankası kullanılmalıdır.",
     "sections": [
       {
-        "heading": "«miras payı nasıl hesaplanır» ne demektir?",
+        "heading": "Miras payı nasıl hesaplanır: hukuki çerçeve",
         "paragraphs": [
-          "Miras payı nasıl hesaplanır? sorusu, miras alanında hak, borç ve usul kurallarının kesişiminde durur. Tek cümlelik tanım yetmez; kimlerin muhatap olduğu, hangi şartların arandığı ve hangi mercinin yetkili olduğu birlikte okunmalıdır.",
-          "Uygulamada «yasal mirasçılık» ifadesi sıklıkla e-Devlet, icra, mahkeme veya idari başvuru adımlarıyla birlikte aranır. Yanlış mercie gitmek veya belge eksik bırakmak, süreyi fiilen tüketebilir."
+          "Yasal miras payı, TMK’nın zümre sistemine göre hesaplanır. Sağ kalan eşin payı, alt soy veya ana-baba ile birlikte mirasçılığa göre değişir. Saklı pay, tenkis ve vasiyet ayrı katmanlardır.",
+          "Arama motorunda «miras payı nasıl hesaplanır» yazan kullanıcı çoğu zaman madde metninin özeti ile «ne yapmalıyım?» yol haritasını bir arada arar. Bu nedenle hem kavram hem de usul adımları birlikte verilmiştir."
         ],
         "bullets": [
-          "miras payı nasıl hesaplanır",
-          "yasal mirasçılık",
-          "saklı pay"
+          "Önce veraset ilamı ile mirasçı listesi netleşir.",
+          "Eş + çocuklarda eşin payı 1/4’tür (tipik senaryo; somut olaya bakın).",
+          "Portal miras hesap aracı bilgilendirme amaçlıdır."
         ]
       },
       {
         "heading": "Yasal dayanak ve ilgili mevzuat",
         "paragraphs": [
           "Bu konuda sık atıf yapılan metinler: TMK miras hükümleri, Veraset ve İntikal Vergisi Kanunu. Madde numarası ve fıkra, somut olaya göre değişir; yürürlük ve değişiklik tarihi kontrol edilmeden yorum yapılmamalıdır.",
-          "Kanun maddesi metni ve akademik şerh için sitede «miras payı nasıl hesaplanır» araması yapılabilir: /ara. Kategori sayfaları ve hesaplama araçları ilgili bağlantılarda yer alır.",
+          "İlgili madde veya araca doğrudan erişim: portal içi link (/hesaplama/miras). Kanun maddesi aramak için /ara, arşiv için /mevzuat kullanılabilir.",
           "Mirasın reddi için yasal süre vardır; kaçırılırsa kabul edilmiş sayılma riski doğar."
         ]
       },
@@ -2578,7 +2624,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış şöyle özetlenebilir: (1) Ölüm ve mirasçı listesini nüfustan doğrulayın. (2) Veraset ilamı alın (e-Devlet/noter/mahkeme). (3) Borç-alacak ve taşınmazları envanterleyin; red gerekip gerekmediğine bakın. (4) Paylaşım veya izale-i şuyu yolunu seçin. (5) Vergi ve tapu devir işlemlerini tamamlayın.",
+          "Tipik akış şöyle özetlenebilir: (1) Konuya özgü olguları ve belgeleri derleyin. (2) Yasal dayanak ve süreyi (tebliğ/öğrenme) tespit edin. (3) Doğru mercie yazılı başvurun veya dava/arabuluculuk başlatın. (4) Sonucu takip edin; ret veya aleyhe kararda kanun yolunu değerlendirin. (5) Ödeme, tescil veya icra kapanışını belgelendirin.",
           "Elektronik kanallar (e-Devlet, UYAP, GİB, belediye, banka) hız kazandırır; ancak bazı işlemler noter, randevu veya ıslak imza ister. «miras payı nasıl hesaplanır» dosyasında barkodlu belge ile asıl evrak ayrımını kurum bazında doğrulayın."
         ]
       },
@@ -2619,12 +2665,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "faq": [
       {
-        "q": "«miras payı nasıl hesaplanır» başvurusunda ilk adım ne olmalı?",
-        "a": "Önce tebliğ/öğrenme veya olay tarihini sabitleyin; sonra tapu başta olmak üzere doğru mercie ve belge listesine karar verin."
+        "q": "«miras payı nasıl hesaplanır» için en kritik nokta nedir?",
+        "a": "Önce veraset ilamı ile mirasçı listesi netleşir."
       },
       {
-        "q": "«yasal mirasçılık» için hangi mevzuata bakılır?",
-        "a": "Sıklıkla TMK miras hükümleri, Veraset ve İntikal Vergisi Kanunu devreye girer. Somut madde numarası dosyaya göre değişir; güncel metin ve şerh için portal mevzuat araması kullanılmalıdır."
+        "q": "Nelere özellikle dikkat edilmeli?",
+        "a": "Eş + çocuklarda eşin payı 1/4’tür (tipik senaryo; somut olaya bakın). Portal miras hesap aracı bilgilendirme amaçlıdır."
       },
       {
         "q": "Avukat tutmak zorunlu mudur?",
@@ -4741,25 +4787,26 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "İşe iade davası nedir? Nasıl açılır konusunda doğru merci ve süre, sonucun kendisi kadar önemlidir. İlgili çerçeve sıklıkla 4857 sayılı İş Kanunu, 6356 sayılı Sendikalar Kanunu, 7036 sayılı İş Mahkemeleri Kanunu, SSGSSK hükümleriyle çizilir; başvuru mercileri arasında SGK öne çıkar. Aşağıda «işe iade davası» ve «işe iade şartları» odaklı tanım, şartlar, adımlar, belgeler ve riskler sadeleştirilmiş biçimde anlatılır. Metin genel bilgilendirmedir; somut dosyada tebliğ tarihi, güncel mevzuat ve avukat değerlendirmesi esas alınmalıdır.",
+    "lead": "İşe iade, iş güvencesi kapsamındaki işçinin geçersiz feshine karşı başvurduğu yoldur. İşyeri işçi sayısı, kıdem, süre ve arabuluculuk şartları aranır; boşta geçen süre ve işe başlatmama tazminatı mahkeme sonucuna bağlıdır. Bu sayfa «işe iade davası» ve «işe iade şartları» aramalarına yönelik genel bilgilendirmedir; bağlayıcı hukuki tavsiye yerine geçmez. Güncel madde metni ve akademik şerh için portal mevzuat bankası kullanılmalıdır.",
     "sections": [
       {
-        "heading": "«işe iade davası» ne demektir?",
+        "heading": "İşe iade davası nedir? Nasıl açılır: hukuki çerçeve",
         "paragraphs": [
-          "İşe iade davası nedir? Nasıl açılır? sorusu, iş alanında hak, borç ve usul kurallarının kesişiminde durur. Tek cümlelik tanım yetmez; kimlerin muhatap olduğu, hangi şartların arandığı ve hangi mercinin yetkili olduğu birlikte okunmalıdır.",
-          "Uygulamada «işe iade şartları» ifadesi sıklıkla e-Devlet, icra, mahkeme veya idari başvuru adımlarıyla birlikte aranır. Yanlış mercie gitmek veya belge eksik bırakmak, süreyi fiilen tüketebilir."
+          "İşe iade, iş güvencesi kapsamındaki işçinin geçersiz feshine karşı başvurduğu yoldur. İşyeri işçi sayısı, kıdem, süre ve arabuluculuk şartları aranır; boşta geçen süre ve işe başlatmama tazminatı mahkeme sonucuna bağlıdır.",
+          "Arama motorunda «işe iade davası» yazan kullanıcı çoğu zaman madde metninin özeti ile «ne yapmalıyım?» yol haritasını bir arada arar. Bu nedenle hem kavram hem de usul adımları birlikte verilmiştir."
         ],
         "bullets": [
-          "işe iade davası",
-          "işe iade şartları",
-          "geçersiz fesih"
+          "Arabuluculuk dava şartıdır.",
+          "Süreler fesih tebliğine bağlıdır; kaçırılmamalıdır.",
+          "Geçerli fesih – haklı fesih ayrımı esastır.",
+          "İşe başlatmama tazminatı 4–8 aylık ücret aralığında takdir edilebilir."
         ]
       },
       {
         "heading": "Yasal dayanak ve ilgili mevzuat",
         "paragraphs": [
           "Bu konuda sık atıf yapılan metinler: 4857 sayılı İş Kanunu, 6356 sayılı Sendikalar Kanunu, 7036 sayılı İş Mahkemeleri Kanunu, SSGSSK. Madde numarası ve fıkra, somut olaya göre değişir; yürürlük ve değişiklik tarihi kontrol edilmeden yorum yapılmamalıdır.",
-          "Kanun maddesi metni ve akademik şerh için sitede «işe iade davası» araması yapılabilir: /ara. Kategori sayfaları ve hesaplama araçları ilgili bağlantılarda yer alır.",
+          "İlgili madde veya araca doğrudan erişim: portal içi link (/hesaplama/ise-iade). Kanun maddesi aramak için /ara, arşiv için /mevzuat kullanılabilir.",
           "İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli)."
         ]
       },
@@ -4774,7 +4821,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış şöyle özetlenebilir: (1) Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın. (2) Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin. (3) Zorunluysa arabuluculuğa başvurun; tutanağı saklayın. (4) Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin. (5) İlam sonrası icra veya ödeme planını takip edin.",
+          "Tipik akış şöyle özetlenebilir: (1) Konuya özgü olguları ve belgeleri derleyin. (2) Yasal dayanak ve süreyi (tebliğ/öğrenme) tespit edin. (3) Doğru mercie yazılı başvurun veya dava/arabuluculuk başlatın. (4) Sonucu takip edin; ret veya aleyhe kararda kanun yolunu değerlendirin. (5) Ödeme, tescil veya icra kapanışını belgelendirin.",
           "Elektronik kanallar (e-Devlet, UYAP, GİB, belediye, banka) hız kazandırır; ancak bazı işlemler noter, randevu veya ıslak imza ister. «işe iade davası» dosyasında barkodlu belge ile asıl evrak ayrımını kurum bazında doğrulayın."
         ]
       },
@@ -4815,12 +4862,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "faq": [
       {
-        "q": "«işe iade davası» başvurusunda ilk adım ne olmalı?",
-        "a": "Önce tebliğ/öğrenme veya olay tarihini sabitleyin; sonra iş mahkemesi başta olmak üzere doğru mercie ve belge listesine karar verin."
+        "q": "«işe iade davası» için en kritik nokta nedir?",
+        "a": "Arabuluculuk dava şartıdır."
       },
       {
-        "q": "«işe iade şartları» için hangi mevzuata bakılır?",
-        "a": "Sıklıkla 4857 sayılı İş Kanunu, 6356 sayılı Sendikalar Kanunu, 7036 sayılı İş Mahkemeleri Kanunu, SSGSSK devreye girer. Somut madde numarası dosyaya göre değişir; güncel metin ve şerh için portal mevzuat araması kullanılmalıdır."
+        "q": "Nelere özellikle dikkat edilmeli?",
+        "a": "Süreler fesih tebliğine bağlıdır; kaçırılmamalıdır. Geçerli fesih – haklı fesih ayrımı esastır."
       },
       {
         "q": "Avukat tutmak zorunlu mudur?",
@@ -9736,25 +9783,25 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=KVKK"
       }
     ],
-    "lead": "«KVKK başvuru» araması genellikle hem tanım hem de başvuru yolunu birlikte ister. İlgili çerçeve sıklıkla 6698 sayılı KVKK, TCK kişisel veri suçları hükümleriyle çizilir; başvuru mercileri arasında KVKK Kurulu öne çıkar. Aşağıda «KVKK başvuru» ve «kişisel veri şikayet» odaklı tanım, şartlar, adımlar, belgeler ve riskler sadeleştirilmiş biçimde anlatılır. Metin genel bilgilendirmedir; somut dosyada tebliğ tarihi, güncel mevzuat ve avukat değerlendirmesi esas alınmalıdır.",
+    "lead": "KVKK m.11, ilgili kişinin veri sorumlusuna başvuru haklarını düzenler: öğrenme, silme, düzeltme, itiraz vb. Cevap gelmez veya yetersizse Kişisel Verileri Koruma Kurulu’na şikâyet yolu açılabilir. Bu sayfa «KVKK başvuru» ve «kişisel veri şikayet» aramalarına yönelik genel bilgilendirmedir; bağlayıcı hukuki tavsiye yerine geçmez. Güncel madde metni ve akademik şerh için portal mevzuat bankası kullanılmalıdır.",
     "sections": [
       {
-        "heading": "«KVKK başvuru» ne demektir?",
+        "heading": "KVKK kapsamında haklarınız nelerdir: hukuki çerçeve",
         "paragraphs": [
-          "KVKK kapsamında haklarınız nelerdir? sorusu, kişisel veri alanında hak, borç ve usul kurallarının kesişiminde durur. Tek cümlelik tanım yetmez; kimlerin muhatap olduğu, hangi şartların arandığı ve hangi mercinin yetkili olduğu birlikte okunmalıdır.",
-          "Uygulamada «kişisel veri şikayet» ifadesi sıklıkla e-Devlet, icra, mahkeme veya idari başvuru adımlarıyla birlikte aranır. Yanlış mercie gitmek veya belge eksik bırakmak, süreyi fiilen tüketebilir."
+          "KVKK m.11, ilgili kişinin veri sorumlusuna başvuru haklarını düzenler: öğrenme, silme, düzeltme, itiraz vb. Cevap gelmez veya yetersizse Kişisel Verileri Koruma Kurulu’na şikâyet yolu açılabilir.",
+          "Arama motorunda «KVKK başvuru» yazan kullanıcı çoğu zaman madde metninin özeti ile «ne yapmalıyım?» yol haritasını bir arada arar. Bu nedenle hem kavram hem de usul adımları birlikte verilmiştir."
         ],
         "bullets": [
-          "KVKK başvuru",
-          "kişisel veri şikayet",
-          "veri silme talebi"
+          "Önce veri sorumlusuna yazılı başvuru zorunludur.",
+          "Kanuni cevap süresi vardır; süreyi not edin.",
+          "Aydınlatma ve açık rıza metinleri ispat için saklanmalıdır."
         ]
       },
       {
         "heading": "Yasal dayanak ve ilgili mevzuat",
         "paragraphs": [
           "Bu konuda sık atıf yapılan metinler: 6698 sayılı KVKK, TCK kişisel veri suçları. Madde numarası ve fıkra, somut olaya göre değişir; yürürlük ve değişiklik tarihi kontrol edilmeden yorum yapılmamalıdır.",
-          "Kanun maddesi metni ve akademik şerh için sitede «KVKK başvuru» araması yapılabilir: /ara. Kategori sayfaları ve hesaplama araçları ilgili bağlantılarda yer alır.",
+          "İlgili madde veya araca doğrudan erişim: portal içi link (/kategori/kvkk). Kanun maddesi aramak için /ara, arşiv için /mevzuat kullanılabilir.",
           "Veri sorumlusuna başvuruda cevap için kanuni süre vardır; cevapsızlıkta Kurula şikâyet yolu açılabilir."
         ]
       },
@@ -9769,7 +9816,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış şöyle özetlenebilir: (1) Veri sorumlusunu tespit edin. (2) KVKK m.11 haklarınızı yazılı kullanın. (3) Cevabı bekleyin; yetersizse Kurula şikâyet edin. (4) Suç unsuru varsa savcılığa başvurun. (5) Sonuç ve silme/yok etme teyidini alın.",
+          "Tipik akış şöyle özetlenebilir: (1) Konuya özgü olguları ve belgeleri derleyin. (2) Yasal dayanak ve süreyi (tebliğ/öğrenme) tespit edin. (3) Doğru mercie yazılı başvurun veya dava/arabuluculuk başlatın. (4) Sonucu takip edin; ret veya aleyhe kararda kanun yolunu değerlendirin. (5) Ödeme, tescil veya icra kapanışını belgelendirin.",
           "Elektronik kanallar (e-Devlet, UYAP, GİB, belediye, banka) hız kazandırır; ancak bazı işlemler noter, randevu veya ıslak imza ister. «KVKK başvuru» dosyasında barkodlu belge ile asıl evrak ayrımını kurum bazında doğrulayın."
         ]
       },
@@ -9810,12 +9857,12 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "faq": [
       {
-        "q": "«KVKK başvuru» başvurusunda ilk adım ne olmalı?",
-        "a": "Önce tebliğ/öğrenme veya olay tarihini sabitleyin; sonra KVKK Kurulu başta olmak üzere doğru mercie ve belge listesine karar verin."
+        "q": "«KVKK başvuru» için en kritik nokta nedir?",
+        "a": "Önce veri sorumlusuna yazılı başvuru zorunludur."
       },
       {
-        "q": "«kişisel veri şikayet» için hangi mevzuata bakılır?",
-        "a": "Sıklıkla 6698 sayılı KVKK, TCK kişisel veri suçları devreye girer. Somut madde numarası dosyaya göre değişir; güncel metin ve şerh için portal mevzuat araması kullanılmalıdır."
+        "q": "Nelere özellikle dikkat edilmeli?",
+        "a": "Kanuni cevap süresi vardır; süreyi not edin. Aydınlatma ve açık rıza metinleri ispat için saklanmalıdır."
       },
       {
         "q": "Avukat tutmak zorunlu mudur?",

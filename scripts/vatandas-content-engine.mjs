@@ -674,13 +674,87 @@ export const TOPIC_FACTS = {
   },
   'emlak-vergisi-nedir': {
     ozet:
-      'Emlak vergisi, taşınmaz malikinin belediyeye ödediği yıllık vergidir. Konut, işyeri ve arsa oranları ile muafiyetler (engelli, şehit yakını vb.) döneme ve belediyeye göre değişir.',
+      'Emlak vergisi, Türkiye’de taşınmaz (konut, işyeri, arsa) malikinin ilgili belediyeye ödemekle yükümlü olduğu yıllık bir vergidir. Matrah vergi değeri üzerinden hesaplanır; büyükşehir ve diğer belediyelerde oranlar ile muafiyet/indirim şartları (engellilik, şehit yakını, küçük konut vb.) döneme göre değişebilir.',
     onemli: [
-      'Mükellef kural olarak maliktir.',
-      'Çoğu yerde iki taksitte tahsil edilir.',
-      'Devirde borç sorgusu ve bildirim ihmal edilmemelidir.',
+      'Mükellef kural olarak malik / paydaştır; kiracı asıl mükellef değildir.',
+      'Çoğu belediyede iki taksitte tahsil; e-Devlet ve banka kanalları yaygındır.',
+      'Yıl içinde devirde bildirim ve borç sorgusu ihmal edilmemelidir.',
+      'Gecikmede gecikme zammı ve işlem engelleri gündeme gelebilir.',
+      'Sitedeki araçlar kabaca fikir verir; kesin tutar belediye kaydına bağlıdır.',
     ],
     link: '/kategori/vuk',
+  },
+  'veraset-ilami-nasil-alinir': {
+    ozet:
+      'Veraset ilamı (mirasçılık belgesi), ölen kişinin yasal mirasçılarını ve miras paylarını gösteren resmî belgedir. e-Devlet, noter veya sulh hukuk mahkemesi yollarından alınabilir; taşınmaz devri, banka ve araç işlemlerinde sıklıkla istenir.',
+    onemli: [
+      'e-Devlet uygunluk şartları yoksa noter veya mahkeme yoluna gidilir.',
+      'Nüfus kayıtları ve ölüm belgesi temel evraktır.',
+      'Belge sonrası veraset ve intikal vergisi ile tapu devri ayrı adımlardır.',
+      'Mirasın reddi süresi kaçırılmamalıdır.',
+    ],
+    link: '/hesaplama/miras',
+  },
+  'ise-iade-davasi': {
+    ozet:
+      'İşe iade, iş güvencesi kapsamındaki işçinin geçersiz feshine karşı başvurduğu yoldur. İşyeri işçi sayısı, kıdem, süre ve arabuluculuk şartları aranır; boşta geçen süre ve işe başlatmama tazminatı mahkeme sonucuna bağlıdır.',
+    onemli: [
+      'Arabuluculuk dava şartıdır.',
+      'Süreler fesih tebliğine bağlıdır; kaçırılmamalıdır.',
+      'Geçerli fesih – haklı fesih ayrımı esastır.',
+      'İşe başlatmama tazminatı 4–8 aylık ücret aralığında takdir edilebilir.',
+    ],
+    link: '/hesaplama/ise-iade',
+  },
+  'trafik-cezasina-itiraz': {
+    ozet:
+      'Trafik idari para cezasına itiraz, tebliğden itibaren yasal süre içinde yetkili mercie (çoğu halde sulh ceza hâkimliği veya ilgili usul) yapılır. EDS/HGS ve e-Devlet sorguları cezanın dayanağını görmek için kullanılır; peşin ödeme indirimi ile itiraz stratejisi birlikte değerlendirilmelidir.',
+    onemli: [
+      'Tebliğ tarihini sabitleyin; e-tebligat kurallarına bakın.',
+      'İtiraz gerekçesi (usul, levha, ölçüm, araç devri) somut olmalıdır.',
+      'Ödeme indirimi ile itiraz hakkı ilişkisini güncel mevzuattan kontrol edin.',
+    ],
+    link: '/kategori/ktk',
+  },
+  'nafaka-davasi-nedir': {
+    ozet:
+      'Nafaka; tedbir, yoksulluk ve iştirak türleriyle aile mahkemesinde talep edilir. Miktar, tarafların ekonomik-sosyal durumu, çocuğun ihtiyaçları ve hakkaniyete göre hâkim tarafından takdir edilir; sabit yüzde garantisi yoktur.',
+    onemli: [
+      'İştirak nafakası çocuk içindir; yoksulluk nafakası eş içindir.',
+      'Ödenmezse icra ve tazyik hapsi gündeme gelebilir.',
+      'Artırım/indirme değişen şartlarla açılabilir.',
+    ],
+    link: '/hesaplama/nafaka',
+  },
+  'tuketici-hakem-heyeti': {
+    ozet:
+      'Tüketici hakem heyeti, belirli parasal sınır altındaki tüketici uyuşmazlıklarında başvuru merciidir. Başvuru e-Devlet üzerinden yapılabilir; kararlara karşı tüketici mahkemesinde itiraz yolu vardır. Parasal sınırlar her yıl güncellenir.',
+    onemli: [
+      'Parasal sınırı kontrol etmeden başvuru yapmayın.',
+      'Ayıp, cayma, abonelik ve banka uyuşmazlıkları sık konudur.',
+      'Delil (fatura, sipariş, yazışma) eksiksiz eklenmelidir.',
+    ],
+    link: '/kategori/tkhk',
+  },
+  'kvkk-basvuru-hakki': {
+    ozet:
+      'KVKK m.11, ilgili kişinin veri sorumlusuna başvuru haklarını düzenler: öğrenme, silme, düzeltme, itiraz vb. Cevap gelmez veya yetersizse Kişisel Verileri Koruma Kurulu’na şikâyet yolu açılabilir.',
+    onemli: [
+      'Önce veri sorumlusuna yazılı başvuru zorunludur.',
+      'Kanuni cevap süresi vardır; süreyi not edin.',
+      'Aydınlatma ve açık rıza metinleri ispat için saklanmalıdır.',
+    ],
+    link: '/kategori/kvkk',
+  },
+  'miras-payi-nasil-hesaplanir': {
+    ozet:
+      'Yasal miras payı, TMK’nın zümre sistemine göre hesaplanır. Sağ kalan eşin payı, alt soy veya ana-baba ile birlikte mirasçılığa göre değişir. Saklı pay, tenkis ve vasiyet ayrı katmanlardır.',
+    onemli: [
+      'Önce veraset ilamı ile mirasçı listesi netleşir.',
+      'Eş + çocuklarda eşin payı 1/4’tür (tipik senaryo; somut olaya bakın).',
+      'Portal miras hesap aracı bilgilendirme amaçlıdır.',
+    ],
+    link: '/hesaplama/miras',
   },
 };
 

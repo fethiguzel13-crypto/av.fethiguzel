@@ -184,8 +184,8 @@ function bodyPack(lead, sections, steps, faqList) {
 }
 
 function buildArticle(t) {
-  // Özel seed (emlak vb.) varsa kullan; aksi halde derin içerik motoru
-  const b = BODIES[t.seed] || buildDeepBody(t);
+  // Derin içerik motoru (kategori bankası + topic facts). Eski BODIES kısa kaldığı için kullanılmaz.
+  const b = buildDeepBody(t);
   return {
     slug: t.slug,
     title: t.title,
