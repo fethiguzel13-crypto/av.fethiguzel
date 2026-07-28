@@ -9,6 +9,7 @@
  */
 
 import { CLUSTERS_WAVE2 } from './vatandas-clusters-wave2.mjs';
+import { CLUSTERS_WAVE3, applyIcraExtras } from './vatandas-wave3-auto.mjs';
 
 /** @typedef {{ pillar: string, label: string, spokes: Record<string, { angle: string, title?: string, h1?: string, description?: string, keywords?: string[] }> }} Cluster */
 
@@ -1053,8 +1054,12 @@ const CLUSTERS_BASE = {
   },
 };
 
-/** Wave1 + wave2 birleşik küme haritası */
-export const CLUSTERS = { ...CLUSTERS_BASE, ...CLUSTERS_WAVE2 };
+/** Wave1 + wave2 + wave3 birleşik küme haritası */
+export const CLUSTERS = applyIcraExtras({
+  ...CLUSTERS_BASE,
+  ...CLUSTERS_WAVE2,
+  ...CLUSTERS_WAVE3,
+});
 
 /**
  * Madde bridge: bilgi sayfası özet, ranking sinyali mevzuat sayfasına.

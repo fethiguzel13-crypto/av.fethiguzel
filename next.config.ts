@@ -49,6 +49,12 @@ const nextConfig: NextConfig = {
         destination: "/mevzuat/ttk/:maddeId",
         permanent: true,
       },
+      // Eski hatalı slug (Türkçe karakter) → ASCII slug
+      {
+        source: "/bilgi/boşanma-maaliyeti",
+        destination: "/bilgi/bosanma-maaliyeti",
+        permanent: true,
+      },
     ];
   },
   async rewrites() {

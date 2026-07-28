@@ -1,8 +1,9 @@
 /**
- * 2. dalga pillar derin gövdeler (20 konu).
+ * 2. dalga pillar derin gövdeler (20 konu) + wave3 birleşik getPillarBody.
  * Yargıtay dosya no uydurulmaz.
  */
 import { PILLAR_BODIES as WAVE1 } from './vatandas-pillars-deep.mjs';
+import { getWave3PillarBody } from './vatandas-wave3-auto.mjs';
 
 function s(heading, paragraphs, bullets) {
   return { heading, paragraphs, bullets };
@@ -589,9 +590,9 @@ const WAVE2 = {
   ),
 };
 
-/** Wave1 + wave2 birleşik */
+/** Wave1 + wave2 + wave3 birleşik */
 export function getPillarBody(slug) {
-  return WAVE2[slug] || WAVE1[slug] || null;
+  return WAVE2[slug] || WAVE1[slug] || getWave3PillarBody(slug) || null;
 }
 
 export { WAVE1 as PILLAR_BODIES_WAVE1, WAVE2 as PILLAR_BODIES_WAVE2 };

@@ -33,11 +33,21 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
+function roleRank(role?: string) {
+  if (role === 'pillar') return 0;
+  if (role === 'bridge') return 1;
+  if (role === 'spoke') return 2;
+  return 3;
+}
+
 export default function BilgiIndexPage() {
+  const pillars = VATANDAS_ARTICLES.filter((a) => a.role === 'pillar');
   const categories = getVatandasCategories();
   const byCat = categories.map((cat) => ({
     cat,
-    items: VATANDAS_ARTICLES.filter((a) => a.category === cat),
+    items: VATANDAS_ARTICLES.filter((a) => a.category === cat).sort(
+      (a, b) => roleRank(a.role) - roleRank(b.role) || a.h1.localeCompare(b.h1, 'tr')
+    ),
   }));
 
   return (
@@ -55,10 +65,30 @@ export default function BilgiIndexPage() {
           aracı, icra, nafaka ve onlarca sık aranan konuda adım adım bilgilendirme. Metinler genel
           bilgilendirme amaçlıdır; somut dosyada avukata danışılmalıdır.
         </p>
-        <p className="text-[12px] text-charcoal/45 mb-10">
-          {VATANDAS_ARTICLES.length} rehber · Türkiye’de en çok aranan hukuki/idari konular · Ana
-          sayfada öne çıkarılmaz; sitemap.xml ve bu dizin üzerinden indekslenir.
+        <p className="text-[12px] text-charcoal/45 mb-6">
+          {VATANDAS_ARTICLES.length} rehber · {pillars.length} ana rehber (pillar) · yamyamlık
+          azaltılmış hub–spoke yapı · Ana sayfada öne çıkarılmaz; sitemap.xml ve bu dizin üzerinden
+          indekslenir.
         </p>
+
+        <section className="mb-12">
+          <h2 className="text-lg font-heading font-bold text-charcoal mb-3">Ana rehberler</h2>
+          <ul className="grid gap-2 sm:grid-cols-2">
+            {pillars
+              .slice()
+              .sort((a, b) => a.h1.localeCompare(b.h1, 'tr'))
+              .map((a) => (
+                <li key={a.slug}>
+                  <Link
+                    href={`/bilgi/${a.slug}`}
+                    className="block rounded-xl border border-accent/20 bg-accent/5 hover:bg-accent/10 px-3 py-2 text-sm font-semibold text-charcoal transition-colors"
+                  >
+                    {a.h1}
+                  </Link>
+                </li>
+              ))}
+          </ul>
+        </section>
 
         <div className="space-y-10">
           {byCat.map(({ cat, items }) => (
@@ -76,9 +106,16 @@ export default function BilgiIndexPage() {
                       <div className="flex gap-2 items-start">
                         <BookOpen className="text-accent shrink-0 mt-0.5" size={16} />
                         <div>
-                          <h3 className="font-semibold text-charcoal text-sm leading-snug mb-1">
-                            {a.h1}
-                          </h3>
+                          <div className="flex flex-wrap items-center gap-2 mb-1">
+                            <h3 className="font-semibold text-charcoal text-sm leading-snug">
+                              {a.h1}
+                            </h3>
+                            {a.role === 'pillar' && (
+                              <span className="text-[9px] uppercase tracking-wider font-mono text-accent bg-accent/10 px-1.5 py-0.5 rounded">
+                                ana
+                              </span>
+                            )}
+                          </div>
                           <p className="text-[12px] text-charcoal/50 line-clamp-2">{a.description}</p>
                         </div>
                       </div>
