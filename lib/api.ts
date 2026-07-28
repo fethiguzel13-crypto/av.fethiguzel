@@ -130,27 +130,25 @@ async function loadIndex(): Promise<IndexItem[]> {
 async function loadPack(kanunId: string): Promise<Pack> {
   if (packCache.has(kanunId)) return packCache.get(kanunId)!;
 
-  // Local/build: read from disk. On Vercel serverless skip disk (packs excluded from lambdas).
-  if (!process.env.VERCEL) {
-    try {
-      // eslint-disable-next-line @typescript-eslint/no-require-imports
-      const fs = require('fs') as typeof import('fs');
-      const candidates = [
-        `content-packs/${kanunId}.json.gz`,
-        `public/content-packs/${kanunId}.json.gz`,
-        `./content-packs/${kanunId}.json.gz`,
-        `./public/content-packs/${kanunId}.json.gz`,
-      ];
-      for (const p of candidates) {
-        if (fs.existsSync(p)) {
-          const pack = parsePackBuffer(fs.readFileSync(p));
-          packCache.set(kanunId, pack);
-          return pack;
-        }
+  // Prefer disk when available (local + Vercel build; packs may be absent in slim lambdas).
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const fs = require('fs') as typeof import('fs');
+    const candidates = [
+      `content-packs/${kanunId}.json.gz`,
+      `public/content-packs/${kanunId}.json.gz`,
+      `./content-packs/${kanunId}.json.gz`,
+      `./public/content-packs/${kanunId}.json.gz`,
+    ];
+    for (const p of candidates) {
+      if (fs.existsSync(p)) {
+        const pack = parsePackBuffer(fs.readFileSync(p));
+        packCache.set(kanunId, pack);
+        return pack;
       }
-    } catch {
-      // HTTP
     }
+  } catch {
+    // HTTP fallback
   }
 
   const kid = encodeURIComponent(kanunId);

@@ -18,30 +18,12 @@ export const revalidate = 86400;
 export const dynamicParams = true;
 
 /**
- * Prefetch highest-traffic kanun first pages so Google sees real HTML immediately.
- * Remaining maddeler: on-demand ISR (revalidate 86400).
+ * Empty at build = on-demand ISR (revalidate 86400).
+ * Avoids Vercel build timeouts from rendering hundreds of pack-backed pages.
+ * Googlebot first hit generates full HTML with unique title + madde text.
  */
-export async function generateStaticParams() {
-  try {
-    const { getArticlesByKanun } = await import('@/lib/api');
-    // Core codes users actually search: TBK m.16, TCK, HMK…
-    const core = ['tbk', 'tmk', 'tck', 'hmk', 'iik', 'cmk', 'ttk', 'is-kanunu', 'tbk'];
-    const seen = new Set<string>();
-    const out: { kanunId: string; id: string }[] = [];
-    for (const kanunId of [...new Set(core)]) {
-      const arts = await getArticlesByKanun(kanunId);
-      // First 80 per kanun covers most head queries without exploding build
-      for (const a of arts.slice(0, 80)) {
-        const k = `${kanunId}/${a.id}`;
-        if (seen.has(k)) continue;
-        seen.add(k);
-        out.push({ kanunId, id: a.id });
-      }
-    }
-    return out;
-  } catch {
-    return [] as { kanunId: string; id: string }[];
-  }
+export function generateStaticParams() {
+  return [] as { kanunId: string; id: string }[];
 }
 
 function stripHtml(html: string): string {
