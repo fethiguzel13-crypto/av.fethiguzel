@@ -1055,7 +1055,7 @@ export function buildSpokeBody(t, meta) {
       meta.clusterLabel
         ? `Bu sayfa «${meta.clusterLabel}» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (${pillarHref}).`
         : `Aynı kategorideki diğer dar sayfalar ana rehberin ilgili rehberler bölümünden dolaşılabilir.`,
-      `Karar verirken iki soru sorun: (1) Sorum yalnızca «${angle}» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır.`,
+      `Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «${angle}» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır.`,
     ]),
     s(`${angle}: tanım ve sınır`, [
       `«${angle}» ifadesi ${cat.toLocaleLowerCase('tr-TR')} pratiğinde sıklıkla şu sorularla birlikte gelir: kim muhatap, hangi şart, hangi belge, hangi süre. Bu spoke bu soruların dar cevabını verir; geniş süreç anlatımını ${pillarHref} adresine bırakır.`,

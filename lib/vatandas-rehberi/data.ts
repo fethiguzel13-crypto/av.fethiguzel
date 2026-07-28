@@ -1642,7 +1642,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/engelli-raporu-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Engelli raporu ve haklar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/engelli-raporu-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Engelli aracı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Engelli aracı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -2864,7 +2864,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «7 gün itiraz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «7 gün itiraz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -6298,7 +6298,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet adımları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet adımları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -6567,7 +6567,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Pay hesabı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Pay hesabı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -7779,7 +7779,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emlak-vergisi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emlak vergisi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emlak-vergisi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yapılandırma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yapılandırma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -8364,7 +8364,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/iskan-belgesi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İskan belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/iskan-belgesi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kaçak yapı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kaçak yapı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -8634,7 +8634,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Abonelik iptali» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Abonelik iptali» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -9219,7 +9219,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Nüfus kayıt örneği» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Nüfus kayıt örneği» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -9489,7 +9489,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «UYAP sorgu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «UYAP sorgu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -9759,7 +9759,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Senet/bono icrası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Senet/bono icrası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -10345,7 +10345,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Satış vaadi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Satış vaadi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -10932,7 +10932,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Depozito iadesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Depozito iadesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -11202,7 +11202,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ayıplı mal» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ayıplı mal» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -11473,7 +11473,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «14 gün cayma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «14 gün cayma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -12061,7 +12061,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İhbar (bildirim) tazminatı — kıdemden ayrı kalem» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İhbar (bildirim) tazminatı — kıdemden ayrı kalem» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -12958,7 +12958,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hizmet dökümü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hizmet dökümü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -13544,7 +13544,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Maluliyet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Maluliyet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -13814,7 +13814,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Saklı pay» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Saklı pay» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -14084,7 +14084,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vasiyet yapma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vasiyet yapma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -14354,7 +14354,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Red» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Red» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -14941,7 +14941,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tapu iptal tescil» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tapu iptal tescil» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -15527,7 +15527,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İhtiyati haciz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İhtiyati haciz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -15797,7 +15797,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Haczin kalkması» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Haczin kalkması» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -16068,7 +16068,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kefalet sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kefalet sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -16968,7 +16968,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/istinaf-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İstinaf» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/istinaf-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Temyiz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Temyiz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -17239,7 +17239,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bilirkişi raporuna itiraz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bilirkişi raporuna itiraz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -17510,7 +17510,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tanık dinletme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tanık dinletme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -17780,7 +17780,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Anlaşma belgesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Anlaşma belgesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -18050,7 +18050,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bildirim» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bildirim» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -18320,7 +18320,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Mobbing» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Mobbing» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -18590,7 +18590,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/koruma-karari-6284.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «6284 koruma kararı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/koruma-karari-6284).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşyeri taciz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşyeri taciz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -18860,7 +18860,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çocuk nafakası artırım davası (pratik)» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çocuk nafakası artırım davası (pratik)» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -19446,7 +19446,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ziynet eşyası davası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ziynet eşyası davası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -19717,7 +19717,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Soybağının reddi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Soybağının reddi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -19988,7 +19988,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Evlat edinme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Evlat edinme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -20258,7 +20258,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Soruşturma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Soruşturma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -20528,7 +20528,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Gözaltı hakları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Gözaltı hakları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -20798,7 +20798,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Uzlaştırma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Uzlaştırma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -21069,7 +21069,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Adli sicil kaydı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Adli sicil kaydı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -21655,7 +21655,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Trafik sigortası hasar» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Trafik sigortası hasar» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -21925,7 +21925,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-cezasina-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik cezası itiraz» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-cezasina-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ehliyet iadesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ehliyet iadesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -22196,7 +22196,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Pasaport başvurusu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Pasaport başvurusu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -22781,7 +22781,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/yabanci-ikamet-izni.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Yabancı ikamet izni» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/yabanci-ikamet-izni).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çalışma izni» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çalışma izni» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -23051,7 +23051,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/yabanci-ikamet-izni.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Yabancı ikamet izni» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/yabanci-ikamet-izni).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sınır dışı kararı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sınır dışı kararı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -23640,7 +23640,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bilgi edinme başvurusu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bilgi edinme başvurusu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -24226,7 +24226,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/idari-dava-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İdari dava» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/idari-dava-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Belediye IPC» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Belediye IPC» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -24497,7 +24497,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İmar durumu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İmar durumu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -24767,7 +24767,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/iskan-belgesi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İskan belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/iskan-belgesi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ruhsat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ruhsat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -25037,7 +25037,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «DASK» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «DASK» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -25623,7 +25623,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/noter-islemleri.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Noter işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/noter-islemleri).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vekâletname azli» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vekâletname azli» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -26525,7 +26525,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ticari işletme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ticari işletme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -26795,7 +26795,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İflas» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İflas» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -27065,7 +27065,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İnkâr tazminatı genel» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İnkâr tazminatı genel» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -27336,7 +27336,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İcra ve tazyik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İcra ve tazyik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -27606,7 +27606,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İzale-i şuyu masrafı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İzale-i şuyu masrafı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -27876,7 +27876,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet borç dökümü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet borç dökümü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -28147,7 +28147,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tebligat-usulsuzlugu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tebligat usulsüzlüğü» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tebligat-usulsuzlugu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Tebligat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Tebligat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -28417,7 +28417,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/hukuk-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Hukuk davası» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/hukuk-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Harç» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Harç» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -28687,7 +28687,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ücret» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ücret» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -28957,7 +28957,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Maluliyet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Maluliyet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -29228,7 +29228,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dönemsel kıdem tavanı ve hesabı sınırlama etkisi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dönemsel kıdem tavanı ve hesabı sınırlama etkisi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -29498,7 +29498,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Askerlik borçlanma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Askerlik borçlanma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -29768,7 +29768,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Doğum borçlanma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Doğum borçlanma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -30038,7 +30038,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emlak-vergisi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emlak vergisi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emlak-vergisi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sorgu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sorgu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -30308,7 +30308,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Aidat icrası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Aidat icrası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -30578,7 +30578,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «5 yıl / rayiç tespit davası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «5 yıl / rayiç tespit davası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -30848,7 +30848,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kiraci-nasil-tahliye-edilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tahliye» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kiraci-nasil-tahliye-edilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Taahhütname» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Taahhütname» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -31433,7 +31433,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Adres değişikliği» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Adres değişikliği» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -31703,7 +31703,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bosanma-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Boşanma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bosanma-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Anlaşmalı şartlar» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Anlaşmalı şartlar» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -31973,7 +31973,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bosanma-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Boşanma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bosanma-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çekişmeli süreç» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çekişmeli süreç» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -32243,7 +32243,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bosanma-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Boşanma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bosanma-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Protokol içeriği» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Protokol içeriği» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -32513,7 +32513,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dava süresince tedbir nafakası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dava süresince tedbir nafakası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -32783,7 +32783,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yoksulluk nafakası şartları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yoksulluk nafakası şartları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -33054,7 +33054,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çocuk iştirak nafakası tanımı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çocuk iştirak nafakası tanımı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -33324,7 +33324,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/velayet-davasi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Velayet» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/velayet-davasi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Değişiklik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Değişiklik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -33594,7 +33594,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/velayet-davasi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Velayet» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/velayet-davasi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Görüşme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Görüşme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -33864,7 +33864,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Evlilik sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Evlilik sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -34135,7 +34135,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Nişan bozulması tazminatı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Nişan bozulması tazminatı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -34405,7 +34405,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ayrılık kararı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ayrılık kararı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -34675,7 +34675,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Aile konutu şerhi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Aile konutu şerhi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -34945,7 +34945,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bosanma-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Boşanma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bosanma-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Özel sebep» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Özel sebep» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -35215,7 +35215,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bosanma-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Boşanma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bosanma-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Terk» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Terk» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -35485,7 +35485,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bosanma-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Boşanma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bosanma-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Zina» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Zina» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -35755,7 +35755,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Fesihte hangi kalemler birlikte gündeme gelir (genel harita)» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Fesihte hangi kalemler birlikte gündeme gelir (genel harita)» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -36024,7 +36024,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Belirsiz süre» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Belirsiz süre» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -36293,7 +36293,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Belirli süre» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Belirli süre» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -36562,7 +36562,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Deneme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Deneme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -36832,7 +36832,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/fazla-mesai-ucreti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Fazla mesai» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/fazla-mesai-ucreti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yıllık izin» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yıllık izin» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -37102,7 +37102,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/fazla-mesai-ucreti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Fazla mesai» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/fazla-mesai-ucreti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «UBGT» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «UBGT» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -37371,7 +37371,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/fazla-mesai-ucreti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Fazla mesai» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/fazla-mesai-ucreti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hafta tatili» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hafta tatili» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -37642,7 +37642,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Asgari ücret net brüt» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Asgari ücret net brüt» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -37913,7 +37913,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ücretsiz izin» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ücretsiz izin» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -38183,7 +38183,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İstifa» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İstifa» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -38454,7 +38454,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşçi haklı fesih» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşçi haklı fesih» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -38724,7 +38724,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşveren haklı fesih» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşveren haklı fesih» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -38993,7 +38993,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kötü niyet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kötü niyet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -39264,7 +39264,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sendika özgürlüğü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sendika özgürlüğü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -39535,7 +39535,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Toplu iş sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Toplu iş sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -39805,7 +39805,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İSG yükümlülük» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İSG yükümlülük» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -40076,7 +40076,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Eşit işe eşit ücret» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Eşit işe eşit ücret» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -40347,7 +40347,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kısmi süre» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kısmi süre» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -40618,7 +40618,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşyerinden uzaklaştırma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşyerinden uzaklaştırma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -40888,7 +40888,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Zamanaşımı süreleri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Zamanaşımı süreleri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -41158,7 +41158,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Haciz süreci» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Haciz süreci» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -41429,7 +41429,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Maaş kesinti oranı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Maaş kesinti oranı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -41699,7 +41699,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hesap blokesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hesap blokesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -41969,7 +41969,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Araç haczi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Araç haczi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -42239,7 +42239,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tapu şerhi haciz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tapu şerhi haciz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -42509,7 +42509,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Cebri satış» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Cebri satış» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -42779,7 +42779,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İtirazın iptali» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İtirazın iptali» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -43050,7 +43050,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İtirazın kaldırılması» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İtirazın kaldırılması» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -43320,7 +43320,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Menfi tespit» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Menfi tespit» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -43590,7 +43590,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İstirdat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İstirdat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -43860,7 +43860,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Konkordato» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Konkordato» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -44130,7 +44130,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vekâlet ücreti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vekâlet ücreti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -44401,7 +44401,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kambiyo özel takip» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kambiyo özel takip» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -44671,7 +44671,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İlamlı takip» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İlamlı takip» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -44941,7 +44941,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Taksit / ödeme planı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Taksit / ödeme planı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -45211,7 +45211,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sözleşme kurulumu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sözleşme kurulumu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -45481,7 +45481,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kiracı hakları özeti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kiracı hakları özeti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -45752,7 +45752,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ev sahibi hakları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ev sahibi hakları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -46024,7 +46024,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Temerrüt ihtarı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Temerrüt ihtarı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -46294,7 +46294,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kiraci-nasil-tahliye-edilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tahliye» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kiraci-nasil-tahliye-edilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşyeri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşyeri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -46563,7 +46563,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kira» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kira» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -46834,7 +46834,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Alt kira / devir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Alt kira / devir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -47105,7 +47105,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ödeme ispatı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ödeme ispatı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -47375,7 +47375,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kredi cayma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kredi cayma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -47958,7 +47958,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kredi-karti-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kredi kartı itirazı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kredi-karti-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kredi borcu yapılandırma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kredi borcu yapılandırma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -48228,7 +48228,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Garanti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Garanti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -48498,7 +48498,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Online iade pratik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Online iade pratik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -48768,7 +48768,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Taahhüt cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Taahhüt cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -49351,7 +49351,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sigorta-tazminat-reddi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Sigorta tazminat reddi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sigorta-tazminat-reddi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kasko hasar süreci» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kasko hasar süreci» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -49621,7 +49621,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sigorta-tazminat-reddi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Sigorta tazminat reddi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sigorta-tazminat-reddi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tamamlayıcı sağlık sigortası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tamamlayıcı sağlık sigortası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -50202,7 +50202,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Belge tanımı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Belge tanımı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -50473,7 +50473,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tenkis» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tenkis» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -50743,7 +50743,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Elbirliği» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Elbirliği» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -51013,7 +51013,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Muris muvazaası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Muris muvazaası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -51284,7 +51284,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ölüme bağlı tasarruf» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ölüme bağlı tasarruf» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -51554,7 +51554,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Paylaşım sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Paylaşım sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -51824,7 +51824,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vergi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vergi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -52094,7 +52094,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kat-mulkiyeti-aidat.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kat mülkiyeti aidat» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kat-mulkiyeti-aidat).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kat irtifakı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kat irtifakı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -52364,7 +52364,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İpotek» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İpotek» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -52635,7 +52635,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İntifa hakkı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İntifa hakkı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -52906,7 +52906,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İrtifak hakkı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İrtifak hakkı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -53176,7 +53176,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Zilyetlik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Zilyetlik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -53447,7 +53447,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kayıt sorgu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kayıt sorgu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -53717,7 +53717,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Harç» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Harç» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -53987,7 +53987,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Önalım hakkı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Önalım hakkı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -54257,7 +54257,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kamulastirma-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kamulaştırma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kamulastirma-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «El atma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «El atma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -54527,7 +54527,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kamulastirma-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kamulaştırma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kamulastirma-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ecrimisil» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ecrimisil» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -54797,7 +54797,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Şikâyet süresi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Şikâyet süresi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -55068,7 +55068,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Süre» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Süre» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -55654,7 +55654,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Adli kontrol» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Adli kontrol» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -55925,7 +55925,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bekletici mesele» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bekletici mesele» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -56196,7 +56196,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Seri muhakeme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Seri muhakeme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -56466,7 +56466,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hakaret» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hakaret» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -56736,7 +56736,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tehdit» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tehdit» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -57006,7 +57006,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dolandırıcılık» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dolandırıcılık» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -57277,7 +57277,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kişisel verilerin kaydedilmesi suçu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kişisel verilerin kaydedilmesi suçu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -57548,7 +57548,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Trafik güvenliğini tehlikeye sokma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Trafik güvenliğini tehlikeye sokma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -57817,7 +57817,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/velayet-davasi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Velayet» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/velayet-davasi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Teslim icrası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Teslim icrası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -58087,7 +58087,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/hukuk-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Hukuk davası» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/hukuk-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dava şartları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dava şartları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -58357,7 +58357,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/hukuk-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Hukuk davası» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/hukuk-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yetki» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yetki» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -58627,7 +58627,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/hukuk-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Hukuk davası» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/hukuk-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Görev» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Görev» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -58898,7 +58898,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Delil başlangıcı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Delil başlangıcı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -59169,7 +59169,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kesin delil» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kesin delil» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -59440,7 +59440,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Islah» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Islah» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -59711,7 +59711,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Belirsiz alacak davası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Belirsiz alacak davası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -59982,7 +59982,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Davaya müdahale» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Davaya müdahale» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -60251,7 +60251,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ihtiyati-tedbir-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İhtiyati tedbir» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ihtiyati-tedbir-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Teminat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Teminat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -60521,7 +60521,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/istinaf-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İstinaf» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/istinaf-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kesinleşme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kesinleşme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -60792,7 +60792,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Karşı taraf vekâlet ücreti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Karşı taraf vekâlet ücreti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -61062,7 +61062,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Son tutanak» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Son tutanak» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -61332,7 +61332,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/idari-dava-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İdari dava» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/idari-dava-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İptal» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İptal» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -61602,7 +61602,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/idari-dava-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İdari dava» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/idari-dava-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tam yargı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tam yargı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -61871,7 +61871,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/idari-dava-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İdari dava» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/idari-dava-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşlem tanımı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşlem tanımı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -62141,7 +62141,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/idari-dava-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İdari dava» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/idari-dava-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «YD» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «YD» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -62412,7 +62412,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Memur disiplin cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Memur disiplin cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -62683,7 +62683,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kamu ihalesi şikâyet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kamu ihalesi şikâyet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -62954,7 +62954,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İmar planına itiraz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İmar planına itiraz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -63225,7 +63225,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yapı tatil tutanağı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yapı tatil tutanağı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -63496,7 +63496,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İmar barışı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İmar barışı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -63767,7 +63767,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çevre idari para cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çevre idari para cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -64037,7 +64037,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-cezasina-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik cezası itiraz» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-cezasina-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «EDS/HGS sorgu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «EDS/HGS sorgu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -64307,7 +64307,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-cezasina-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik cezası itiraz» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-cezasina-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ceza puanı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ceza puanı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -64577,7 +64577,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-cezasina-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik cezası itiraz» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-cezasina-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Alkol cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Alkol cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -64847,7 +64847,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kaza tespit tutanağı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kaza tespit tutanağı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -65117,7 +65117,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Trafik kusur oranı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Trafik kusur oranı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -65388,7 +65388,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Araç muayene gecikme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Araç muayene gecikme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -65659,7 +65659,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Araç satışı plaka devri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Araç satışı plaka devri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -65930,7 +65930,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emlak-vergisi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emlak vergisi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emlak-vergisi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «MTV» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «MTV» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -66200,7 +66200,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Maaş hesabı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Maaş hesabı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -66470,7 +66470,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «EYT» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «EYT» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -67055,7 +67055,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/issizlik-maasi-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İşsizlik maaşı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/issizlik-maasi-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hesap» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hesap» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -67325,7 +67325,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bagkur-prim-borcu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Bağ-Kur ve GSS prim» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bagkur-prim-borcu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «GSS prim borcu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «GSS prim borcu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -67596,7 +67596,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Analık ve süt izni» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Analık ve süt izni» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -67867,7 +67867,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bagkur-prim-borcu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Bağ-Kur ve GSS prim» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bagkur-prim-borcu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Rapor parası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Rapor parası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -68138,7 +68138,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bagkur-prim-borcu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Bağ-Kur ve GSS prim» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bagkur-prim-borcu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ölüm aylığı dul yetim» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ölüm aylığı dul yetim» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -68409,7 +68409,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emlak-vergisi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emlak vergisi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emlak-vergisi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «GV» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «GV» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -68995,7 +68995,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kdv-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KDV ve fatura» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kdv-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Fatura iptali» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Fatura iptali» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -69265,7 +69265,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kdv-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KDV ve fatura» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kdv-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Fatura» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Fatura» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -69536,7 +69536,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kdv-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KDV ve fatura» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kdv-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vergi incelemesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vergi incelemesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -69807,7 +69807,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kdv-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KDV ve fatura» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kdv-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vergi ziyaı cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vergi ziyaı cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -70077,7 +70077,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emlak-vergisi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emlak vergisi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emlak-vergisi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Damga» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Damga» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -70348,7 +70348,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kdv-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KDV ve fatura» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kdv-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Gecikme zammı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Gecikme zammı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -70618,7 +70618,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kimlik kartı başvurusu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kimlik kartı başvurusu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -70888,7 +70888,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Doğum belgesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Doğum belgesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -71158,7 +71158,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Evlilik başvurusu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Evlilik başvurusu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -71428,7 +71428,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bosanma-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Boşanma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bosanma-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Soyadı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Soyadı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -71698,7 +71698,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İkametgâh belgesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İkametgâh belgesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -71969,7 +71969,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sabıka kaydı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sabıka kaydı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -72239,7 +72239,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Askerlik durum belgesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Askerlik durum belgesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -72510,7 +72510,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/okul-kayit-ucreti-iade.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Eğitim ücreti iade» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/okul-kayit-ucreti-iade).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Öğrenci belgesi e-Devlet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Öğrenci belgesi e-Devlet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -72780,7 +72780,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kredi-karti-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kredi kartı itirazı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kredi-karti-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kredi notu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kredi notu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -73051,7 +73051,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Maaş hesabına haciz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Maaş hesabına haciz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -73322,7 +73322,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kefil olmanın riskleri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kefil olmanın riskleri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -73593,7 +73593,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cek-karsiliksiz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Karşılıksız çek» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cek-karsiliksiz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Senet nasıl yazılır» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Senet nasıl yazılır» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -73863,7 +73863,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cek-karsiliksiz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Karşılıksız çek» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cek-karsiliksiz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çek nasıl yazılır» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çek nasıl yazılır» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -74133,7 +74133,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kvkk-basvuru-hakki.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KVKK başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kvkk-basvuru-hakki).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Aydınlatma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Aydınlatma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -74403,7 +74403,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kvkk-basvuru-hakki.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KVKK başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kvkk-basvuru-hakki).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Açık rıza» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Açık rıza» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -74673,7 +74673,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kvkk-basvuru-hakki.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KVKK başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kvkk-basvuru-hakki).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Unutulma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Unutulma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -74944,7 +74944,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Erişim engeli başvurusu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Erişim engeli başvurusu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -75215,7 +75215,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sosyal medya hakaret şikâyeti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sosyal medya hakaret şikâyeti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -75486,7 +75486,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «WhatsApp yazışması delil» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «WhatsApp yazışması delil» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -75756,7 +75756,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Limited şirket kuruluşu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Limited şirket kuruluşu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -76026,7 +76026,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Anonim şirket kuruluşu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Anonim şirket kuruluşu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -76296,7 +76296,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Şirket hisse devri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Şirket hisse devri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -76566,7 +76566,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ticaret sicili işlemleri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ticaret sicili işlemleri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -76837,7 +76837,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Haksız rekabet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Haksız rekabet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -77107,7 +77107,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Marka tescili» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Marka tescili» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -77377,7 +77377,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cek-karsiliksiz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Karşılıksız çek» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cek-karsiliksiz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Karşılıksız çek cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Karşılıksız çek cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -77647,7 +77647,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/yabanci-ikamet-izni.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Yabancı ikamet izni» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/yabanci-ikamet-izni).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Türk vatandaşlığı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Türk vatandaşlığı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -77917,7 +77917,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/yabanci-ikamet-izni.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Yabancı ikamet izni» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/yabanci-ikamet-izni).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Evlilikle vatandaşlık» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Evlilikle vatandaşlık» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -78187,7 +78187,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/yabanci-ikamet-izni.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Yabancı ikamet izni» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/yabanci-ikamet-izni).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İkamet izni uzatma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İkamet izni uzatma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -78457,7 +78457,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/yabanci-ikamet-izni.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Yabancı ikamet izni» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/yabanci-ikamet-izni).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Uluslararası koruma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Uluslararası koruma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -78727,7 +78727,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/engelli-raporu-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Engelli raporu ve haklar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/engelli-raporu-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Engelli maaşı şartları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Engelli maaşı şartları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -78996,7 +78996,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/engelli-raporu-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Engelli raporu ve haklar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/engelli-raporu-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Evde bakım maaşı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Evde bakım maaşı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -79265,7 +79265,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/malpraktis-davasi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Malpraktis» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/malpraktis-davasi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hasta hakları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hasta hakları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -79535,7 +79535,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ise-iade-davasi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İşe iade» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ise-iade-davasi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dava şartı arabuluculuk adımı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dava şartı arabuluculuk adımı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -79806,7 +79806,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/okul-kayit-ucreti-iade.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Eğitim ücreti iade» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/okul-kayit-ucreti-iade).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Üniversite öğrenim ücreti iade» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Üniversite öğrenim ücreti iade» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -80390,7 +80390,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/okul-kayit-ucreti-iade.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Eğitim ücreti iade» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/okul-kayit-ucreti-iade).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Öğrenci disiplin cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Öğrenci disiplin cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -80976,7 +80976,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Riskli yapı tespiti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Riskli yapı tespiti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -81247,7 +81247,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kat karşılığı inşaat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kat karşılığı inşaat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -81518,7 +81518,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yüklenici temerrüdü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yüklenici temerrüdü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -82105,7 +82105,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Mevzuat nasıl aranır» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Mevzuat nasıl aranır» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -82376,7 +82376,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «TBK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «TBK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -82647,7 +82647,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «TMK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «TMK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -82918,7 +82918,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «TTK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «TTK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -83189,7 +83189,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «TCK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «TCK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -83460,7 +83460,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «HMK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «HMK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -83731,7 +83731,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İİK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İİK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -84002,7 +84002,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «CMK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «CMK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -84273,7 +84273,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İş Kanunu nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İş Kanunu nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -84544,7 +84544,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «TKHK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «TKHK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -84814,7 +84814,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kvkk-basvuru-hakki.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KVKK başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kvkk-basvuru-hakki).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kanun tanımı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kanun tanımı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -85085,7 +85085,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «VUK nedir» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «VUK nedir» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -85355,7 +85355,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Anayasa maddesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Anayasa maddesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -85625,7 +85625,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet şifresi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet şifresi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -85896,7 +85896,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/noter-islemleri.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Noter işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/noter-islemleri).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «UYAP vatandaş portal» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «UYAP vatandaş portal» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -86167,7 +86167,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Avukat vekâlet ücreti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Avukat vekâlet ücreti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -86437,7 +86437,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Arabulucu seçimi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Arabulucu seçimi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -86707,7 +86707,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/hukuk-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Hukuk davası» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/hukuk-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dilekçe» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dilekçe» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -86977,7 +86977,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/noter-islemleri.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Noter işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/noter-islemleri).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İhtarname çekme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İhtarname çekme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -87248,7 +87248,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sulh» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sulh» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -87519,7 +87519,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Davadan feragat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Davadan feragat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -87790,7 +87790,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Davayı kabul» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Davayı kabul» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -88060,7 +88060,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/koruma-karari-6284.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «6284 koruma kararı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/koruma-karari-6284).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İhlal» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İhlal» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -88330,7 +88330,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/koruma-karari-6284.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «6284 koruma kararı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/koruma-karari-6284).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Delil» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Delil» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -88601,7 +88601,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «AGİ» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «AGİ» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -88872,7 +88872,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -89143,7 +89143,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kıdeme göre bildirim süresi tablosu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kıdeme göre bildirim süresi tablosu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -89413,7 +89413,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ise-iade-davasi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İşe iade» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ise-iade-davasi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşe başlatmama tazminatı miktar aralığı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşe başlatmama tazminatı miktar aralığı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -89683,7 +89683,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ise-iade-davasi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İşe iade» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ise-iade-davasi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Boşta geçen süre ücreti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Boşta geçen süre ücreti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -89954,7 +89954,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «3. kişiye ihbar» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «3. kişiye ihbar» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -90225,7 +90225,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İstihkak» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İstihkak» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -90496,7 +90496,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Oran» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Oran» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -90767,7 +90767,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tebliğ anı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tebliğ anı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -91037,7 +91037,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet kira bildirimi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet kira bildirimi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -91308,7 +91308,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Depozitoya faiz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Depozitoya faiz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -91579,7 +91579,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ayıplı kiralanan» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ayıplı kiralanan» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -91849,7 +91849,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ayıp ihbar süresi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ayıp ihbar süresi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -92119,7 +92119,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Mahkeme yolu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Mahkeme yolu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -92388,7 +92388,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Satıcı yükümlülüğü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Satıcı yükümlülüğü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -92658,7 +92658,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vazgeçme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vazgeçme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -92929,7 +92929,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Müdafi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Müdafi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -93200,7 +93200,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/savcilik-suc-duyurusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Suç duyurusu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/savcilik-suc-duyurusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İfade» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İfade» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -93471,7 +93471,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Soruşturma gizliliği» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Soruşturma gizliliği» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -93741,7 +93741,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kimler mirasçı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kimler mirasçı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -94012,7 +94012,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Eş payı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Eş payı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -94282,7 +94282,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İptal» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İptal» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -94551,7 +94551,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İstihkak» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İstihkak» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -94821,7 +94821,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Satış günü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Satış günü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -95091,7 +95091,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hisseli» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hisseli» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -95362,7 +95362,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tarla tapu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tarla tapu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -95632,7 +95632,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kat-mulkiyeti-aidat.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kat mülkiyeti aidat» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kat-mulkiyeti-aidat).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kat malikleri kurulu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kat malikleri kurulu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -95902,7 +95902,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dilekçe hakkı 3071» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dilekçe hakkı 3071» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -96172,7 +96172,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/idari-dava-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İdari dava» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/idari-dava-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ön başvuru» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ön başvuru» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -96443,7 +96443,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İmar para cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İmar para cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -96714,7 +96714,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Zorunlu trafik sigortası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Zorunlu trafik sigortası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -96984,7 +96984,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Araç değer kaybı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Araç değer kaybı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -97254,7 +97254,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Destekten yoksun kalma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Destekten yoksun kalma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -97524,7 +97524,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bagkur-prim-borcu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Bağ-Kur ve GSS prim» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bagkur-prim-borcu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet SGK borcu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet SGK borcu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -97795,7 +97795,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kdv-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KDV ve fatura» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kdv-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Stopaj» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Stopaj» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -98066,7 +98066,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kdv-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KDV ve fatura» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kdv-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Muhtasar beyanname» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Muhtasar beyanname» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -98336,7 +98336,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kredi-karti-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kredi kartı itirazı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kredi-karti-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kredi kartı asgari ödeme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kredi kartı asgari ödeme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -98607,7 +98607,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Banka alacaklı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Banka alacaklı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -98878,7 +98878,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kefilden tahsilat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kefilden tahsilat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -99147,7 +99147,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hak listesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hak listesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -99417,7 +99417,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Meslek hastalığı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Meslek hastalığı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -99686,7 +99686,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşveren sorumluluğu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşveren sorumluluğu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -99957,7 +99957,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Evliliğin iptali» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Evliliğin iptali» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -100228,7 +100228,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Babalık davası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Babalık davası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -100499,7 +100499,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Soyadı değişikliği davası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Soyadı değişikliği davası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -100770,7 +100770,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/e-devlet-nufus.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «e-Devlet nüfus işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/e-devlet-nufus).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İsim değişikliği davası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İsim değişikliği davası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -101039,7 +101039,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/hukuk-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Hukuk davası» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/hukuk-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Görevsizlik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Görevsizlik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -101308,7 +101308,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/hukuk-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Hukuk davası» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/hukuk-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yetkisizlik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yetkisizlik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -101579,7 +101579,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Keşif» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Keşif» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -101850,7 +101850,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yemin delili» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yemin delili» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -102120,7 +102120,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/istinaf-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İstinaf» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/istinaf-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dilekçe» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dilekçe» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -102390,7 +102390,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/istinaf-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İstinaf» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/istinaf-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Parasal sınır» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Parasal sınır» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -102661,7 +102661,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tutuklama-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tutuklama» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tutuklama-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet ceza sorgulama» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet ceza sorgulama» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -102932,7 +102932,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/noter-islemleri.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Noter işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/noter-islemleri).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet dava dosyası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet dava dosyası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -103202,7 +103202,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/veraset-ilami-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Veraset / miras belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/veraset-ilami-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet miras menüsü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet miras menüsü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -103471,7 +103471,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -103741,7 +103741,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet adım» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet adım» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -104011,7 +104011,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Konut yasal artış tavanı (dönemsel)» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Konut yasal artış tavanı (dönemsel)» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -104281,7 +104281,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşyeri kira artışı serbestisi / tespit» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşyeri kira artışı serbestisi / tespit» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -104552,7 +104552,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Süre sonu yenileme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Süre sonu yenileme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -107369,7 +107369,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Manevi tazminat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Manevi tazminat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -107640,7 +107640,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Maddi tazminat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Maddi tazminat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -107911,7 +107911,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kusursuz sorumluluk» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kusursuz sorumluluk» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -108182,7 +108182,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Rücu davası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Rücu davası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -108452,7 +108452,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ticari defterler» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ticari defterler» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -108722,7 +108722,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ticaret unvanı tescili» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ticaret unvanı tescili» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -108992,7 +108992,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Aciz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Aciz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -109262,7 +109262,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/yabanci-ikamet-izni.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Yabancı ikamet izni» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/yabanci-ikamet-izni).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Turistik ikamet izni» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Turistik ikamet izni» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -109532,7 +109532,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/yabanci-ikamet-izni.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Yabancı ikamet izni» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/yabanci-ikamet-izni).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çalışma izni muafiyeti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çalışma izni muafiyeti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -109802,7 +109802,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/iskan-belgesi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İskan belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/iskan-belgesi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İskansız risk» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İskansız risk» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -110071,7 +110071,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/iskan-belgesi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İskan belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/iskan-belgesi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Denetim» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Denetim» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -110342,7 +110342,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İmar affı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İmar affı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -110612,7 +110612,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kvkk-basvuru-hakki.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KVKK başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kvkk-basvuru-hakki).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İhlal» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İhlal» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -110882,7 +110882,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kvkk-basvuru-hakki.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «KVKK başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kvkk-basvuru-hakki).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çerez» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çerez» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -111152,7 +111152,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İş davaları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İş davaları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -111422,7 +111422,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ticari dava» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ticari dava» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -111691,7 +111691,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tüketici» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tüketici» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -111961,7 +111961,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Genel nafaka artırım usulü (yoksulluk/iştirak ortak)» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Genel nafaka artırım usulü (yoksulluk/iştirak ortak)» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -112232,7 +112232,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İndirim veya kaldırma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İndirim veya kaldırma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -112503,7 +112503,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İştirak nafakası kabaca hesap yaklaşımı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İştirak nafakası kabaca hesap yaklaşımı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -112773,7 +112773,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bosanma-davasi-nasil-acilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Boşanma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bosanma-davasi-nasil-acilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Masraf» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Masraf» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -113044,7 +113044,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Avukat tutmak zorunlu mu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Avukat tutmak zorunlu mu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -113315,7 +113315,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Adli yardım» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Adli yardım» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -113584,7 +113584,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/arabuluculuk-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Arabuluculuk» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/arabuluculuk-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İcra» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İcra» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -113855,7 +113855,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dosya kapanışı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dosya kapanışı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -114126,7 +114126,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vergi e-haciz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vergi e-haciz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -114397,7 +114397,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bagkur-prim-borcu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Bağ-Kur ve GSS prim» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bagkur-prim-borcu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «SGK teşvikleri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «SGK teşvikleri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -114667,7 +114667,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/issizlik-maasi-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İşsizlik maaşı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/issizlik-maasi-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sigorta» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sigorta» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -114938,7 +114938,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «SGK bildirimi, vergi/damga ve prim ilişkisi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «SGK bildirimi, vergi/damga ve prim ilişkisi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -115208,7 +115208,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bildirim» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bildirim» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -115478,7 +115478,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Toplu çıkış» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Toplu çıkış» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -115749,7 +115749,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Uzaktan çalışma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Uzaktan çalışma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -116020,7 +116020,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Stajyer hakları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Stajyer hakları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -116291,7 +116291,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çağrı üzerine çalışma» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çağrı üzerine çalışma» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -116561,7 +116561,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-sozlesmesi-feshi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş sözleşmesi feshi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-sozlesmesi-feshi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Geçerli fesih» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Geçerli fesih» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -116832,7 +116832,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İş arama izni» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İş arama izni» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -117103,7 +117103,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çalışma belgesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çalışma belgesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -117689,7 +117689,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dava yolu ve arabuluculuk odaklı işçilik alacağı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dava yolu ve arabuluculuk odaklı işçilik alacağı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -117960,7 +117960,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Maaş haczi ile nafaka çakışması» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Maaş haczi ile nafaka çakışması» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -118229,7 +118229,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/velayet-davasi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Velayet» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/velayet-davasi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Direnme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Direnme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -118500,7 +118500,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/mal-rejimi-tasfiyesi.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Mal rejimi tasfiyesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/mal-rejimi-tasfiyesi).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Aile mahkemesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Aile mahkemesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -118771,7 +118771,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İş mahkemesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İş mahkemesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -119041,7 +119041,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Parasal sınır» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Parasal sınır» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -119311,7 +119311,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tuketici-hakem-heyeti.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tüketici hakem heyeti» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tuketici-hakem-heyeti).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «e-Devlet başvuru» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «e-Devlet başvuru» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -119581,7 +119581,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/noter-islemleri.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Noter işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/noter-islemleri).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Noter vekâlet ücreti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Noter vekâlet ücreti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -119851,7 +119851,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/noter-islemleri.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Noter işlemleri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/noter-islemleri).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Genel vekâletname riskleri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Genel vekâletname riskleri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -120121,7 +120121,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tapu-devri-nasil-yapilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tapu devri» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tapu-devri-nasil-yapilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vekâletle satış» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vekâletle satış» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -120392,7 +120392,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sahte vekâletname» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sahte vekâletname» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -120663,7 +120663,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hile ile sözleşme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hile ile sözleşme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -120934,7 +120934,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Gabin» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Gabin» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -121205,7 +121205,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sözleşmeden dönme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sözleşmeden dönme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -121476,7 +121476,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Cezai şart» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Cezai şart» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -122062,7 +122062,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Faiz hesaplama» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Faiz hesaplama» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -122333,7 +122333,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Rehin» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Rehin» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -122603,7 +122603,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Teminat mektubu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Teminat mektubu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -122873,7 +122873,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cek-karsiliksiz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Karşılıksız çek» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cek-karsiliksiz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çek ibraz süresi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çek ibraz süresi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -123144,7 +123144,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cek-karsiliksiz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Karşılıksız çek» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cek-karsiliksiz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bono vade ve protesto» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bono vade ve protesto» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -123414,7 +123414,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tarihçe / güncel» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tarihçe / güncel» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -123685,7 +123685,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ortağın şirket borcu sorumluluğu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ortağın şirket borcu sorumluluğu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -123956,7 +123956,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yönetim kurulu sorumluluğu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yönetim kurulu sorumluluğu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -124227,7 +124227,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ticari iş karinesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ticari iş karinesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -124498,7 +124498,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Faturaya itiraz süresi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Faturaya itiraz süresi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -124769,7 +124769,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Cari hesap sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Cari hesap sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -125040,7 +125040,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Franchise sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Franchise sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -125311,7 +125311,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Acente sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Acente sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -125582,7 +125582,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/sirket-kurulusu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Şirket kuruluşu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/sirket-kurulusu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Taşıma sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Taşıma sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -125853,7 +125853,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Emanet sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Emanet sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -126123,7 +126123,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ödünç sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ödünç sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -126394,7 +126394,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bağış sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bağış sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -126665,7 +126665,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Vekâlet sözleşmesi TBK» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Vekâlet sözleşmesi TBK» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -126936,7 +126936,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Eser sözleşmesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Eser sözleşmesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -127207,7 +127207,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hizmet sözleşmesi TBK» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hizmet sözleşmesi TBK» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -127478,7 +127478,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Satış vaadi icrası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Satış vaadi icrası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -127749,7 +127749,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ön sözleşme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ön sözleşme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -128020,7 +128020,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Genel işlem koşulları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Genel işlem koşulları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -128291,7 +128291,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sözleşmenin yorumu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sözleşmenin yorumu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -128562,7 +128562,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hukuki işlem» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hukuki işlem» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -128833,7 +128833,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Butlan» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Butlan» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -129104,7 +129104,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İptal edilebilirlik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İptal edilebilirlik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -129375,7 +129375,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İyiniyet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İyiniyet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -129646,7 +129646,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kanun-maddesi-nasil-okunur.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kanun maddesi okuma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kanun-maddesi-nasil-okunur).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Dürüstlük kuralı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Dürüstlük kuralı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -129916,7 +129916,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Hak düşürücü süre farkı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Hak düşürücü süre farkı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -130186,7 +130186,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Zamanaşımının kesilmesi ve durması» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Zamanaşımının kesilmesi ve durması» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -130457,7 +130457,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İspat yükü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İspat yükü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -130728,7 +130728,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Karine» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Karine» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -130999,7 +130999,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Şartlar» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Şartlar» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -131269,7 +131269,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tebligat-usulsuzlugu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tebligat usulsüzlüğü» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tebligat-usulsuzlugu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kanun çerçevesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kanun çerçevesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -131538,7 +131538,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tebligat-usulsuzlugu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tebligat usulsüzlüğü» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tebligat-usulsuzlugu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Öğrenme tarihi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Öğrenme tarihi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -131808,7 +131808,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/tebligat-usulsuzlugu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tebligat usulsüzlüğü» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/tebligat-usulsuzlugu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Açmama efsanesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Açmama efsanesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -132079,7 +132079,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/zamanaşimi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Zamanaşımı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/zamanaşimi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yargılama giderleri» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yargılama giderleri» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -132348,7 +132348,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ihtiyati-tedbir-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İhtiyati tedbir» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ihtiyati-tedbir-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Delil tespiti» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Delil tespiti» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -132617,7 +132617,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ihtiyati-tedbir-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İhtiyati tedbir» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ihtiyati-tedbir-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İtiraz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İtiraz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -132887,7 +132887,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İhtiyati hacze itiraz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İhtiyati hacze itiraz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -133158,7 +133158,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İcra mahkemesi görev» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İcra mahkemesi görev» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -133429,7 +133429,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Şikâyet» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Şikâyet» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -133700,7 +133700,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sıra cetveli» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sıra cetveli» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -133970,7 +133970,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İstihkak süresi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İstihkak süresi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -134241,7 +134241,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «5 yıllık dönem özel notu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «5 yıllık dönem özel notu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -134512,7 +134512,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kiracı ölümü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kiracı ölümü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -134783,7 +134783,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Satışta yeni malik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Satışta yeni malik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -135054,7 +135054,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kira-artis-orani-nasil-hesaplanir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kira artışı / kira hukuku hub» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kira-artis-orani-nasil-hesaplanir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «TBK 3 aylık güvence sınırı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «TBK 3 aylık güvence sınırı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -135324,7 +135324,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kiraci-nasil-tahliye-edilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tahliye» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kiraci-nasil-tahliye-edilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sebep listesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sebep listesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -135594,7 +135594,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kiraci-nasil-tahliye-edilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tahliye» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kiraci-nasil-tahliye-edilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İhtiyaç» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İhtiyaç» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -135863,7 +135863,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kiraci-nasil-tahliye-edilir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Tahliye» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kiraci-nasil-tahliye-edilir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yeniden kiralama yasağı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yeniden kiralama yasağı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -136133,7 +136133,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kira icrası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kira icrası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -136403,7 +136403,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kat-mulkiyeti-aidat.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kat mülkiyeti aidat» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kat-mulkiyeti-aidat).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yönetim planı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yönetim planı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -136673,7 +136673,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kat-mulkiyeti-aidat.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kat mülkiyeti aidat» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kat-mulkiyeti-aidat).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ortak gider» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ortak gider» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -136943,7 +136943,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kat-mulkiyeti-aidat.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kat mülkiyeti aidat» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kat-mulkiyeti-aidat).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Site yöneticisi seçimi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Site yöneticisi seçimi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -137214,7 +137214,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kat-mulkiyeti-aidat.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kat mülkiyeti aidat» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kat-mulkiyeti-aidat).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kat irtifakından mülkiyete» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kat irtifakından mülkiyete» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -137484,7 +137484,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kat-mulkiyeti-aidat.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kat mülkiyeti aidat» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kat-mulkiyeti-aidat).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bağımsız bölüm» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bağımsız bölüm» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -137755,7 +137755,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kat-mulkiyeti-aidat.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kat mülkiyeti aidat» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kat-mulkiyeti-aidat).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Arsa payı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Arsa payı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -138026,7 +138026,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Geçit hakkı davası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Geçit hakkı davası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -138297,7 +138297,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sınır uyuşmazlığı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sınır uyuşmazlığı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -138568,7 +138568,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kadastro tespitine itiraz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kadastro tespitine itiraz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -138839,7 +138839,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/izale-i-suyu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İzale-i şuyu» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/izale-i-suyu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Orman kadastrosu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Orman kadastrosu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -139110,7 +139110,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kıyı kenar çizgisi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kıyı kenar çizgisi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -139381,7 +139381,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sit alanı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sit alanı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -139652,7 +139652,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çevre düzeni planı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çevre düzeni planı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -139923,7 +139923,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Emsal KAKS» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Emsal KAKS» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -140194,7 +140194,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «TAKS» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «TAKS» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -140464,7 +140464,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/iskan-belgesi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İskan belgesi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/iskan-belgesi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Evrak listesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Evrak listesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -140735,7 +140735,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kaçak kat cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kaçak kat cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -141006,7 +141006,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kentsel-donusum-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kentsel dönüşüm ve imar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kentsel-donusum-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Mühür sökme» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Mühür sökme» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -141277,7 +141277,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Belediye encümen kararı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Belediye encümen kararı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -141547,7 +141547,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Zabıta cezası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Zabıta cezası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -141818,7 +141818,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İşyeri açma ruhsatı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İşyeri açma ruhsatı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -142089,7 +142089,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Gıda işletme kayıt» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Gıda işletme kayıt» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -142360,7 +142360,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/cimer-sikayet.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «CİMER ve idari başvuru» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/cimer-sikayet).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Çevre izin lisans» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Çevre izin lisans» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -142630,7 +142630,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kamulastirma-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kamulaştırma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kamulastirma-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Bedel artırım» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Bedel artırım» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -142899,7 +142899,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kamulastirma-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kamulaştırma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kamulastirma-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Acele» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Acele» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -143169,7 +143169,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-cezasina-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik cezası itiraz» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-cezasina-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Genel IPC indirim» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Genel IPC indirim» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -143439,7 +143439,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-cezasina-itiraz.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik cezası itiraz» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-cezasina-itiraz).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Peşin indirim» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Peşin indirim» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -143709,7 +143709,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ehliyet-alma-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Ehliyet alma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ehliyet-alma-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ehliyet sınavları» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ehliyet sınavları» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -143979,7 +143979,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ehliyet-alma-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Ehliyet alma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ehliyet-alma-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «SRC belgesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «SRC belgesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -144249,7 +144249,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ehliyet-alma-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Ehliyet alma» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ehliyet-alma-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Psikoteknik belge» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Psikoteknik belge» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -144519,7 +144519,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/trafik-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Trafik kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/trafik-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Trafik kazası manevi tazminat» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Trafik kazası manevi tazminat» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -144788,7 +144788,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Manevi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Manevi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -145059,7 +145059,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/temerrut-faizi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Temerrüt faizi ve borçlar» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/temerrut-faizi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Destek payı hesabı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Destek payı hesabı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -145330,7 +145330,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/ibraname-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İbraname ve iş ek konular» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/ibraname-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Sürekli iş göremezlik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Sürekli iş göremezlik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -145601,7 +145601,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bagkur-prim-borcu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Bağ-Kur ve GSS prim» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bagkur-prim-borcu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Geçici iş göremezlik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Geçici iş göremezlik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -145871,7 +145871,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Süre» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Süre» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -146141,7 +146141,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/is-kazasi-tazminati.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İş kazası tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/is-kazasi-tazminati).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «SGK rücu» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «SGK rücu» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -146411,7 +146411,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/bagkur-prim-borcu.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Bağ-Kur ve GSS prim» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/bagkur-prim-borcu).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «SGK prim iadesi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «SGK prim iadesi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -146680,7 +146680,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Yurt dışı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Yurt dışı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -146949,7 +146949,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İntibak» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İntibak» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -147218,7 +147218,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/emeklilik-sartlari.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Emeklilik şartları» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/emeklilik-sartlari).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İkramiye» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İkramiye» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -147489,7 +147489,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Memur maaşına haciz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Memur maaşına haciz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -147760,7 +147760,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Emekli maaşına haciz» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Emekli maaşına haciz» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -148030,7 +148030,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Kıdem alacağının haczedilip haczedilemeyeceği» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Kıdem alacağının haczedilip haczedilemeyeceği» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -148301,7 +148301,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/nafaka-davasi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Nafaka» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/nafaka-davasi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İcra sırası imtiyazı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İcra sırası imtiyazı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -148572,7 +148572,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/kidem-tazminati-nasil-alinir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «Kıdem tazminatı» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/kidem-tazminati-nasil-alinir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İcra/iflasta imtiyaz sırası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İcra/iflasta imtiyaz sırası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -148843,7 +148843,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Rehinli alacak sırası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Rehinli alacak sırası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -149114,7 +149114,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İcra teminatı» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İcra teminatı» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -149385,7 +149385,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «İhalenin feshi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «İhalenin feshi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -149655,7 +149655,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Satış parası» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Satış parası» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -149925,7 +149925,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Menfi tespit eşanlam» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Menfi tespit eşanlam» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -150195,7 +150195,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Ödeme taahhüdü» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Ödeme taahhüdü» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -150466,7 +150466,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Tazyik» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Tazyik» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
@@ -150737,7 +150737,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: /bilgi/icra-takibi-nedir.",
           "Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.",
           "Bu sayfa «İcra takibi» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (/bilgi/icra-takibi-nedir).",
-          "Karar verirken iki soru sorun: (1) Sorum yalnızca «Disiplin hapsi» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır."
+          "Karar verirken iki soru sorun. Birincisi: Sorum yalnızca «Disiplin hapsi» mi? İkincisi: Süre veya feragat riski var mı? İkinciye evet ise ana rehber + güncel mevzuat şarttır."
         ]
       },
       {
