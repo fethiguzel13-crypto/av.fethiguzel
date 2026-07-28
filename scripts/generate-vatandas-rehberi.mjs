@@ -8,13 +8,24 @@ import { writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { EXTRA_ROWS } from './vatandas-topics-extra.mjs';
-import { buildDeepBody, buildSpokeBody, buildBridgeBody } from './vatandas-content-engine.mjs';
+import {
+  buildDeepBody,
+  buildSpokeBody,
+  buildBridgeBody,
+  bodyWordCount,
+} from './vatandas-content-engine.mjs';
 import { resolveSeoRole } from './vatandas-clusters.mjs';
 import { getPillarBody } from './vatandas-pillars-wave2.mjs';
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dir, '..', 'lib', 'vatandas-rehberi', 'data.ts');
 const UPDATED = '2026-07-28';
+
+/** Wave paketleri kısaysa deep engine’e düş (pillar ≥700, spoke ≥420) */
+function pickDeepOrCustom(custom, deep, minWords) {
+  if (custom && bodyWordCount(custom) >= minWords) return custom;
+  return deep;
+}
 
 /**
  * Compact topic: [slug, title, description, h1, category, keywordsCsv, relatedCsv, linkLabel|href;..., seed?]
@@ -217,8 +228,8 @@ function buildArticle(t) {
     ];
   } else if (seo.role === 'pillar') {
     sitemapPriority = 0.95;
-    const pb = getPillarBody(t.slug);
-    b = pb || buildDeepBody(t);
+    // Kısa wave paketleri (~100–200 kelime) yerine deep engine (hedef 750+)
+    b = pickDeepOrCustom(getPillarBody(t.slug), buildDeepBody(t), 700);
     // pillar related: own spokes first
     if (seo.cluster?.spokes) {
       const spokeSlugs = Object.keys(seo.cluster.spokes);
@@ -233,14 +244,14 @@ function buildArticle(t) {
     angle = sm.angle;
     pillar = seo.pillar;
     sitemapPriority = 0.62;
-    // Bazı spoke’lar (ör. ödeme emrine itiraz) kendi niyetinde derinleştirilmiş
-    const deepSpoke = getPillarBody(t.slug);
-    b =
-      deepSpoke ||
-      buildSpokeBody(
-        { ...t, title, description, h1, keywords },
-        { pillar: seo.pillar, angle: sm.angle, clusterLabel: seo.cluster?.label }
-      );
+    const spokeTopic = { ...t, title, description, h1, keywords };
+    const spokeBuilt = buildSpokeBody(spokeTopic, {
+      pillar: seo.pillar,
+      angle: sm.angle,
+      clusterLabel: seo.cluster?.label,
+    });
+    // Elle derinleştirilmiş spoke (ör. ödeme emrine itiraz) yeterince uzunsa korunur
+    b = pickDeepOrCustom(getPillarBody(t.slug), spokeBuilt, 420);
     related = [seo.pillar, ...related.filter((r) => r !== seo.pillar)];
     links = [
       { label: 'Ana rehber (tam süreç)', href: `/bilgi/${seo.pillar}` },
@@ -248,7 +259,7 @@ function buildArticle(t) {
     ];
   } else {
     role = 'standard';
-    b = getPillarBody(t.slug) || buildDeepBody(t);
+    b = pickDeepOrCustom(getPillarBody(t.slug), buildDeepBody(t), 650);
     sitemapPriority = 0.85;
   }
 
