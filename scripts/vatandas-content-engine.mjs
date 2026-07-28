@@ -768,18 +768,30 @@ function bodyPack(lead, sections, steps, faqList) {
   return { lead, sections, steps: steps || [], faq: faqList || [] };
 }
 
-/** Kelime sayısı — pillar/spoke derinleştirme eşiği */
+/** Kelime sayısı — pillar/spoke derinleştirme eşiği (+ örnek/senaryo/tablo) */
 export function bodyWordCount(b) {
   if (!b) return 0;
-  const parts = [b.lead || ''];
+  const parts = [b.lead || '', b.keyInsight || ''];
   for (const sec of b.sections || []) {
     parts.push(sec.heading || '');
     parts.push(...(sec.paragraphs || []));
     parts.push(...(sec.bullets || []));
   }
   parts.push(...(b.steps || []));
+  parts.push(...(b.checklist || []));
   for (const f of b.faq || []) {
     parts.push(f.q || '', f.a || '');
+  }
+  for (const e of b.examples || []) {
+    parts.push(e.title || '', e.body || '', e.takeaway || '');
+  }
+  for (const s of b.scenarios || []) {
+    parts.push(s.title || '', s.facts || '', s.outcome || '');
+  }
+  if (b.table) {
+    parts.push(b.table.caption || '');
+    parts.push(...(b.table.headers || []));
+    for (const row of b.table.rows || []) parts.push(...row);
   }
   return parts.join(' ').split(/\s+/).filter(Boolean).length;
 }

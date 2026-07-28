@@ -15,14 +15,15 @@ import {
   buildBridgeBody,
   bodyWordCount,
 } from './vatandas-content-engine.mjs';
+import { applyProfessionalLayer } from './vatandas-professional-layer.mjs';
 import { resolveSeoRole } from './vatandas-clusters.mjs';
 import { getPillarBody } from './vatandas-pillars-wave2.mjs';
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dir, '..', 'lib', 'vatandas-rehberi', 'data.ts');
-const UPDATED = '2026-07-28';
+const UPDATED = '2026-07-29';
 
-/** Wave paketleri kısaysa deep engine’e düş (pillar ≥1000, spoke ≥700) */
+/** Wave paketleri kısaysa deep engine’e düş; profesyonel katman sonra eklenir */
 function pickDeepOrCustom(custom, deep, minWords) {
   if (custom && bodyWordCount(custom) >= minWords) return custom;
   return deep;
@@ -264,6 +265,14 @@ function buildArticle(t) {
     sitemapPriority = 0.85;
   }
 
+  // Profesyonel katman: örnek, senaryo, tablo, checklist, diyagram ipucu
+  b = applyProfessionalLayer(
+    { ...t, title, description, h1, keywords },
+    b,
+    role,
+    { angle, pillar }
+  );
+
   return {
     slug: t.slug,
     title,
@@ -283,6 +292,12 @@ function buildArticle(t) {
     angle,
     canonicalPath,
     sitemapPriority,
+    examples: b.examples || [],
+    scenarios: b.scenarios || [],
+    table: b.table,
+    checklist: b.checklist || [],
+    visual: b.visual,
+    keyInsight: b.keyInsight,
   };
 }
 

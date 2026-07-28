@@ -12,6 +12,36 @@ export type VatandasFaq = {
 /** pillar = ana rehber; spoke = yan niyet; bridge = madde özeti (canonical mevzuat’a); standard = bağımsız */
 export type VatandasRole = 'pillar' | 'spoke' | 'bridge' | 'standard';
 
+/** Çalışılmış örnek / senaryo kutusu */
+export type VatandasExample = {
+  title: string;
+  body: string;
+  takeaway?: string;
+};
+
+/** «Ne olur?» senaryosu */
+export type VatandasScenario = {
+  title: string;
+  facts: string;
+  outcome: string;
+};
+
+/** Karşılaştırma / kontrol tablosu */
+export type VatandasTable = {
+  caption: string;
+  headers: string[];
+  rows: string[][];
+};
+
+/** Diyagram tipi — UI SVG seçer */
+export type VatandasVisual =
+  | 'process'
+  | 'fork'
+  | 'clock'
+  | 'scale'
+  | 'stack'
+  | 'shield';
+
 export type VatandasArticle = {
   slug: string;
   /** Google title (~55-60 chars ideal) */
@@ -45,4 +75,16 @@ export type VatandasArticle = {
   canonicalPath?: string;
   /** Sitemap priority ipucu 0–1 */
   sitemapPriority?: number;
+  /** Çalışılmış örnekler (görsel kart) */
+  examples?: VatandasExample[];
+  /** Senaryo kutuları */
+  scenarios?: VatandasScenario[];
+  /** Karşılaştırma tablosu */
+  table?: VatandasTable;
+  /** Kontrol listesi */
+  checklist?: string[];
+  /** Üst görsel diyagram tipi */
+  visual?: VatandasVisual;
+  /** Tek cümlelik «kilit nokta» şeridi */
+  keyInsight?: string;
 };

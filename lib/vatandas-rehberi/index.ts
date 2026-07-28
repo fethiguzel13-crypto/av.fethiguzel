@@ -3,6 +3,10 @@ export type {
   VatandasFaq,
   VatandasSection,
   VatandasRole,
+  VatandasExample,
+  VatandasScenario,
+  VatandasTable,
+  VatandasVisual,
 } from './types';
 export {
   VATANDAS_ARTICLES,

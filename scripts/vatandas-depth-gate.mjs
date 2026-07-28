@@ -13,24 +13,36 @@ const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(root, 'lib/vatandas-rehberi/data.ts');
 const OUT_DIR = join(root, 'logs/maintenance');
 
-/** Minimum words by role — fail build if any page below */
+/** Minimum words by role — fail build if any page below (profesyonel katman sonrası) */
 const MIN = {
-  pillar: 1000,
-  spoke: 700,
-  bridge: 250,
-  standard: 650,
+  pillar: 1500,
+  spoke: 1100,
+  bridge: 450,
+  standard: 1200,
 };
 
 function wordCount(a) {
-  const parts = [a.lead || ''];
+  const parts = [a.lead || '', a.keyInsight || ''];
   for (const s of a.sections || []) {
     parts.push(s.heading || '');
     parts.push(...(s.paragraphs || []));
     parts.push(...(s.bullets || []));
   }
   parts.push(...(a.steps || []));
+  parts.push(...(a.checklist || []));
   for (const f of a.faq || []) {
     parts.push(f.q || '', f.a || '');
+  }
+  for (const e of a.examples || []) {
+    parts.push(e.title || '', e.body || '', e.takeaway || '');
+  }
+  for (const s of a.scenarios || []) {
+    parts.push(s.title || '', s.facts || '', s.outcome || '');
+  }
+  if (a.table) {
+    parts.push(a.table.caption || '');
+    parts.push(...(a.table.headers || []));
+    for (const row of a.table.rows || []) parts.push(...row);
   }
   return parts.join(' ').split(/\s+/).filter(Boolean).length;
 }

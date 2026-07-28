@@ -65,7 +65,7 @@ export default async function BilgiSlugPage({ params }: Props) {
   return (
     <div className="bg-cream min-h-screen">
       <Navbar />
-      <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-3xl mx-auto">
+      <main id="main-content" className="pt-32 sm:pt-40 pb-24 px-5 sm:px-6 max-w-3xl lg:max-w-4xl mx-auto">
         <VatandasRehberArticle article={article} related={related} />
       </main>
       <Footer />
