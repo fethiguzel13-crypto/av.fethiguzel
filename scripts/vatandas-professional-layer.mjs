@@ -173,16 +173,29 @@ export function applyProfessionalLayer(t, body, role = 'standard', meta = {}) {
       heading: 'Somut kontrol listesi (uygulama)',
       paragraphs: [
         `Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «${k1}» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.`,
-        `Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar.`,
+        `Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın.`,
       ],
-      bullets: checklist,
+      bullets: [
+        'Tebliğ ve tebliğ tarihi',
+        'Esasa ilişkin deliller',
+        'Ödeme dekontları',
+        'Yazışmalar',
+        'Vekâlet / kimlik',
+        ...checklist,
+      ],
     });
     extraSections.push({
       heading: 'Örnek zaman çizelgesi (şematik)',
       paragraphs: [
-        `Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.`,
-        `Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. ${pick(bank.sureler, seed, 2)} Kesin gün sayısı bu rehberde vaat edilmez.`,
-        `e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin.`,
+        'Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.',
+        `${pick(bank.sureler, seed, 2)} e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın.`,
+      ],
+      bullets: [
+        'Gün 0 — Olay veya tebliğ',
+        'Gün 0–2 — Belge ve tarih sabitleme',
+        'Gün 2–5 — Merci ve dava şartı kontrolü',
+        'Sonraki günler — Yazılı başvuru / arabuluculuk / dava',
+        'Sonuç — Takip ve kanun yolu süresi',
       ],
     });
   } else if (role === 'spoke') {

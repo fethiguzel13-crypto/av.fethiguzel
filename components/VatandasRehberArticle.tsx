@@ -3,14 +3,22 @@ import type { VatandasArticle, VatandasVisual } from '@/lib/vatandas-rehberi';
 
 const SITE = 'https://www.avfethiguzel.com';
 
-/** Metinde kalan "(1) … (2) …" kalıbını dikey adımlara böler */
+/** Metinde kalan "(1) … (2) …" kalıbını dikey maddelere böler */
 function splitNumberedFlow(text: string): string[] | null {
   if (!/\(\s*1\s*\)/.test(text) || !/\(\s*2\s*\)/.test(text)) return null;
   const parts = text
     .split(/\(\s*\d+\s*\)\s*/)
-    .map((p) => p.replace(/^Tipik akış:\s*/i, '').trim())
-    .filter((p) => p.length > 8);
-  return parts.length >= 2 ? parts : null;
+    .map((p) =>
+      p
+        .replace(/^Tipik akış:\s*/i, '')
+        .replace(/^Belgeleri klasörleyin:\s*/i, '')
+        .replace(/[.;]\s*$/, '')
+        .trim()
+    )
+    .filter((p) => p.length > 2);
+  // İlk parça giriş cümlesi olabilir ("Belgeleri klasörleyin")
+  const items = parts.filter((p) => !/:$/.test(p) && p.length < 200);
+  return items.length >= 2 ? items : null;
 }
 
 /** Dikey süreç zaman çizelgesi — asla yan yana kart dizisi değil */

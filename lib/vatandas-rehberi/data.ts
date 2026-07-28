@@ -149,9 +149,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «emlak vergisi nasıl ödenir» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«emlak vergisi nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (vergi dairesi)",
           "Temel belgeleri topladım (tahakkuk, beyanname)",
@@ -164,9 +169,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Vergi mahkemesi dava süreleri kısa ve sıkıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Vergi mahkemesi dava süreleri kısa ve sıkıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -457,9 +468,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «mirasçılık belgesi» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«veraset ilamı nasıl alınır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (asliye hukuk)",
           "Temel belgeleri topladım (veraset ilamı, tapu)",
@@ -472,9 +488,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Tenkis ve muris muvazaası davalarında zamanaşımı/hak düşürücü süreler somut olaya göre değişir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Tenkis ve muris muvazaası davalarında zamanaşımı/hak düşürücü süreler somut olaya göre değişir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -764,9 +786,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «EDS ceza itiraz» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«trafik cezasına itiraz» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (hukuk/ceza mahkemesi)",
           "Temel belgeleri topladım (poliçe, eksper)",
@@ -779,9 +806,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -1070,9 +1103,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «iptal davası» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«idari dava nasıl açılır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (idare)",
           "Temel belgeleri topladım (idari işlem, tebliğ)",
@@ -1085,9 +1123,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -1375,9 +1419,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «dava dilekçesi» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«hukuk davası nasıl açılır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (Yargıtay)",
           "Temel belgeleri topladım (vekâlet, harç makbuzu)",
@@ -1390,9 +1439,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -1944,9 +1999,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «anlaşmalı boşanma» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«boşanma davası nasıl açılır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (Aile ve Sosyal Hizmetler)",
           "Temel belgeleri topladım (tıbbi/psikolojik rapor, tanık listesi)",
@@ -1959,9 +2019,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -2251,9 +2317,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «yoksulluk nafakası» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«nafaka davası» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (savcılık (şiddet))",
           "Temel belgeleri topladım (protokol, tıbbi/psikolojik rapor)",
@@ -2266,9 +2337,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -2558,9 +2635,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «haciz nedir» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«icra takibi nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (icra dairesi)",
           "Temel belgeleri topladım (dekont, haciz tutanağı)",
@@ -2573,9 +2655,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -3128,9 +3216,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «zorunlu arabuluculuk» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«arabuluculuk nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (BAM)",
           "Temel belgeleri topladım (harç makbuzu, delil listesi)",
@@ -3143,9 +3236,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -3435,9 +3534,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «kira zammı» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«kira artış oranı» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (icra dairesi)",
           "Temel belgeleri topladım (ihtarname, tahliye taahhüdü)",
@@ -3450,9 +3554,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -3741,9 +3851,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «tapu harcı» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«tapu devri nasıl yapılır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (kadastro)",
           "Temel belgeleri topladım (sözleşme, vekâlet)",
@@ -3756,9 +3871,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -4045,9 +4166,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «iskan nasıl alınır» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«iskan belgesi nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (idare mahkemesi)",
           "Temel belgeleri topladım (YKB, ruhsat)",
@@ -4060,9 +4186,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -4351,9 +4483,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «tüketici şikayeti» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«tüketici hakem heyeti» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (e-Devlet)",
           "Temel belgeleri topladım (cayma bildirimi, fatura/sipariş)",
@@ -4366,9 +4503,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Mesafeli satışta cayma hakkı kural olarak 14 gündür; istisnalar yönetmelikte sayılır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Mesafeli satışta cayma hakkı kural olarak 14 gündür; istisnalar yönetmelikte sayılır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -4657,9 +4800,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «savcılığa şikayet» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«suç duyurusu nasıl yapılır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (sulh ceza hâkimliği)",
           "Temel belgeleri topladım (ekran görüntüsü, tanık listesi)",
@@ -4672,9 +4820,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -4960,9 +5114,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «uzaklaştırma kararı» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«6284 koruma kararı» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (Aile ve Sosyal Hizmetler)",
           "Temel belgeleri topladım (tıbbi/psikolojik rapor, tanık listesi)",
@@ -4975,9 +5134,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -5264,9 +5429,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «çocuk velayeti» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«velayet davası» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (aile mahkemesi)",
           "Temel belgeleri topladım (tanık listesi, nüfus kayıt örneği)",
@@ -5279,9 +5449,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -5569,9 +5745,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «iş kazası bildirimi» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«iş kazası tazminatı» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (SGK)",
           "Temel belgeleri topladım (fesih bildirimi, puantaj/mesai kayıtları)",
@@ -5584,9 +5765,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -5875,9 +6062,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «kıdem şartları» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«kıdem tazminatı nasıl alınır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (SGK)",
           "Temel belgeleri topladım (bordro, SGK hizmet dökümü)",
@@ -5890,9 +6082,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -6708,9 +6906,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «usulsüz tebligat» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«tebligat usulsüzlüğü» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (BAM)",
           "Temel belgeleri topladım (harç makbuzu, delil listesi)",
@@ -6723,9 +6926,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -7011,9 +7220,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «ihtiyati tedbir nasıl alınır» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«ihtiyati tedbir nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (BAM)",
           "Temel belgeleri topladım (dilekçe, vekâlet)",
@@ -7026,9 +7240,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -7312,9 +7532,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «sağlık kurulu raporu» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«engelli raporu nasıl alınır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (vergi dairesi)",
           "Temel belgeleri topladım (gelir belgesi, engelli raporu)",
@@ -7327,9 +7552,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Rapor süresi ve oran güncellemeleri hak kullanımını etkiler. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Rapor süresi ve oran güncellemeleri hak kullanımını etkiler. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -7880,9 +8111,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «kamulaştırma bedeli» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«kamulaştırma nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (idare/vergi mahkemesi)",
           "Temel belgeleri topladım (başvuru cevabı, zarar belgeleri)",
@@ -7895,9 +8131,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -8711,9 +8953,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «sürücü belgesi nasıl alınır» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«ehliyet alma şartları» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (emniyet/jandarma)",
           "Temel belgeleri topladım (kaza tutanağı, poliçe)",
@@ -8726,9 +8973,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -9809,9 +10062,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «haklı fesih» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«iş sözleşmesi feshi» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (iş mahkemesi)",
           "Temel belgeleri topladım (iş sözleşmesi, bordro)",
@@ -9824,9 +10082,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -10378,9 +10642,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «tahliye davası» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«kiracı nasıl çıkarılır» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (sulh hukuk / asliye hukuk)",
           "Temel belgeleri topladım (tahliye taahhüdü, teslim tutanağı)",
@@ -10393,9 +10662,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -11477,9 +11752,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «işe iade şartları» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«işe iade davası» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (iş mahkemesi)",
           "Temel belgeleri topladım (arabuluculuk son tutanağı, iş sözleşmesi)",
@@ -11492,9 +11772,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -12046,9 +12332,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «fazla çalışma» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«fazla mesai ücreti» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (iş mahkemesi)",
           "Temel belgeleri topladım (iş sözleşmesi, bordro)",
@@ -12061,9 +12352,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -12348,9 +12645,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «işsizlik ödeneği» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«işsizlik maaşı şartları» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (Çalışma ve Sosyal Güvenlik)",
           "Temel belgeleri topladım (SGK hizmet dökümü, fesih bildirimi)",
@@ -12363,9 +12665,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -12917,9 +13225,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «kaç prim günü» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«emeklilik şartları» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (iş mahkemesi)",
           "Temel belgeleri topladım (başvuru formu, sağlık raporu)",
@@ -12932,9 +13245,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Emeklilik ve borçlanmada prim günü/yaş şartları sigortalılık türüne göre değişir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Emeklilik ve borçlanmada prim günü/yaş şartları sigortalılık türüne göre değişir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -14278,9 +14597,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «ortaklığın giderilmesi» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«izale-i şuyu» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (kadastro)",
           "Temel belgeleri topladım (DASK, ödeme makbuzu)",
@@ -14293,9 +14617,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -14848,9 +15178,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «kat mülkiyeti aidat» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«aidat borcu» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (icra)",
           "Temel belgeleri topladım (sözleşme, vekâlet)",
@@ -14863,9 +15198,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -15946,9 +16287,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «alacak zamanaşımı» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«zamanaşımı nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (görevli-yetkili mahkeme)",
           "Temel belgeleri topladım (dilekçe, vekâlet)",
@@ -15961,9 +16307,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -16249,9 +16601,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «istinaf süresi» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«istinaf nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (BAM)",
           "Temel belgeleri topladım (dilekçe, vekâlet)",
@@ -16264,9 +16621,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -18668,9 +19031,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «katılma alacağı» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«mal rejimi tasfiyesi» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (aile mahkemesi)",
           "Temel belgeleri topladım (tıbbi/psikolojik rapor, tanık listesi)",
@@ -18683,9 +19051,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -20824,9 +21198,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «trafik sigortası tazminat» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«trafik kazası tazminatı» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (emniyet/jandarma)",
           "Temel belgeleri topladım (ruhsat/ehliyet, ceza tebliği)",
@@ -20839,9 +21218,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -21921,9 +22306,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «yabancı ikamet izni başvuru» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«ikamet izni» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (çalışma izni mercileri)",
           "Temel belgeleri topladım (randevu, pasaport)",
@@ -21936,9 +22326,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Sınır dışı ve idari gözetimde itiraz süreleri çok kısadır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Sınır dışı ve idari gözetimde itiraz süreleri çok kısadır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -22755,9 +23151,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «kişisel veri şikayet» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«KVKK başvuru» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (KVKK Kurulu)",
           "Temel belgeleri topladım (aydınlatma metni, ihlal bildirimi)",
@@ -22770,9 +23171,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Veri sorumlusuna başvuruda cevap için kanuni süre vardır; cevapsızlıkta Kurula şikâyet yolu açılabilir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Veri sorumlusuna başvuruda cevap için kanuni süre vardır; cevapsızlıkta Kurula şikâyet yolu açılabilir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -23326,9 +23733,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «CİMER başvuru» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«CİMER şikayet» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (Danıştay)",
           "Temel belgeleri topladım (zarar belgeleri, CİMER kaydı)",
@@ -23341,9 +23753,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -24688,9 +25106,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «noter işlemleri» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«noter vekâletname» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (görevli-yetkili mahkeme)",
           "Temel belgeleri topladım (dilekçe, vekâlet)",
@@ -24703,9 +25126,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -25257,9 +25686,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «çek şikayeti» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«karşılıksız çek» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (arabuluculuk)",
           "Temel belgeleri topladım (sicil gazetesi, ana sözleşme)",
@@ -25272,9 +25706,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Fatura itirazında TTK süreleri vardır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Fatura itirazında TTK süreleri vardır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -25562,9 +26002,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «anonim şirket nasıl kurulur» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«limited şirket kuruluşu» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (ticaret sicili)",
           "Temel belgeleri topladım (sicil gazetesi, ana sözleşme)",
@@ -25577,9 +26022,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Fatura itirazında TTK süreleri vardır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Fatura itirazında TTK süreleri vardır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -30357,9 +30808,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «adres beyanı e-devlet» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«e-devlet nüfus işlemleri» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (mahkeme (isim/soyadı))",
           "Temel belgeleri topladım (mahkeme kararı (gerekirse), randevu)",
@@ -30372,9 +30828,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -46511,9 +46973,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «yetkisiz kart harcaması» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«kredi kartı itiraz» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (banka/şirket müşteri hizmetleri)",
           "Temel belgeleri topladım (kargo fişi, yazışma)",
@@ -46526,9 +46993,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -47869,9 +48342,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «sigorta itiraz» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«sigorta tazminat red» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (Sigorta Tahkim)",
           "Temel belgeleri topladım (fotoğraf, red yazısı)",
@@ -47884,9 +48362,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Hasar ihbarında poliçe ve genel şart süreleri esastır; gecikme red gerekçesi olabilir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Hasar ihbarında poliçe ve genel şart süreleri esastır; gecikme red gerekçesi olabilir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -48698,9 +49182,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «tıbbi hata tazminat» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«malpraktis davası» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (savcılık (gerekirse))",
           "Temel belgeleri topladım (rapor, onam)",
@@ -48713,9 +49202,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Malpraktiste zamanaşımı ve ispat (bilirkişi) kritiktir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Malpraktiste zamanaşımı ve ispat (bilirkişi) kritiktir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -54024,9 +54519,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «tutuklama şartları» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«tutuklama nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (sulh ceza hâkimliği)",
           "Temel belgeleri topladım (delil dökümü, tıbbi rapor)",
@@ -54039,9 +54539,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Şikâyete bağlı suçlarda şikâyet süresi kural olarak 6 aydır (somut suç tipine bakın). Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Şikâyete bağlı suçlarda şikâyet süresi kural olarak 6 aydır (somut suç tipine bakın). e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -65168,9 +65674,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «Bağkur yapılandırma» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«Bağkur prim borcu» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (e-Devlet)",
           "Temel belgeleri topladım (sağlık raporu, prim bordrosu)",
@@ -65183,9 +65694,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -67061,9 +67578,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «KDV oranları» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«KDV nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (GİB)",
           "Temel belgeleri topladım (beyanname, ödeme)",
@@ -67076,9 +67598,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Yapılandırma dönemleri kanunla açılır; başvuru penceresi sınırlıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Yapılandırma dönemleri kanunla açılır; başvuru penceresi sınırlıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -78198,9 +78726,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «okul kayıt iptali» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«özel okul ücret iadesi» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (okul/üniversite idaresi)",
           "Temel belgeleri topladım (sözleşme, öğrenci belgesi)",
@@ -78213,9 +78746,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Disiplin ve kayıt silme itiraz süreleri yönetmeliğe bağlıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Disiplin ve kayıt silme itiraz süreleri yönetmeliğe bağlıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -78768,9 +79307,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «riskli yapı» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«kentsel dönüşüm» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (belediye)",
           "Temel belgeleri topladım (tutanak, para cezası tebliği)",
@@ -78783,9 +79327,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -79868,9 +80418,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «kanun maddesi okuma» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«kanun maddesi» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (Yargıtay/Danıştay karar arama)",
           "Temel belgeleri topladım (gerekçe (varsa), madde metni)",
@@ -79883,9 +80438,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Madde metni yürürlük ve değişiklik tarihleriyle birlikte okunmalıdır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Madde metni yürürlük ve değişiklik tarihleriyle birlikte okunmalıdır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -114715,9 +115276,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «işçi ibranamesi» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«ibraname nedir» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (SGK)",
           "Temel belgeleri topladım (fesih bildirimi, puantaj/mesai kayıtları)",
@@ -114730,9 +115296,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
@@ -118987,9 +119559,14 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "heading": "Somut kontrol listesi (uygulama)",
         "paragraphs": [
           "Aşağıdaki maddeleri zihnen değil, kâğıt veya not uygulamasında işaretleyin. «yasal faiz» dosyasında en sık kayıp, işaretlenmemiş tebliğ tarihidir.",
-          "Belgeleri klasörleyin: (1) tebliğ, (2) esasa ilişkin delil, (3) ödeme, (4) yazışma, (5) vekâlet/kimlik. Dijitalde de aynı yapı işe yarar."
+          "Belgeleri klasörlere ayırın. Dijitalde de aynı klasör yapısını kullanın."
         ],
         "bullets": [
+          "Tebliğ ve tebliğ tarihi",
+          "Esasa ilişkin deliller",
+          "Ödeme dekontları",
+          "Yazışmalar",
+          "Vekâlet / kimlik",
           "«temerrüt faizi» için tebliğ/öğrenme veya olay tarihini yazdım",
           "Doğru mercie karar verdim (hukuk mahkemesi)",
           "Temel belgeleri topladım (ihtar, dekont)",
@@ -119002,9 +119579,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       {
         "heading": "Örnek zaman çizelgesi (şematik)",
         "paragraphs": [
-          "Gün 0: Olay veya tebliğ. Gün 0–2: Belge ve tarih sabitleme. Gün 2–5: Merci ve dava şartı kontrolü. Sonraki günler: Yazılı başvuru / arabuluculuk / dava. Sonuç: Takip ve kanun yolu süresi.",
-          "Bu çizelge şematiktir; yasal süreler maddi hukuka göre değişir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Kesin gün sayısı bu rehberde vaat edilmez.",
-          "e-Tebligatta «açılmasa da tebliğ» kuralları takvimi öne çekebilir. UETS/e-Devlet bildirimlerini açmadan silmeyin; PDF arşivleyin."
+          "Aşağıdaki sıra şematiktir. Yasal süreler dosyaya göre değişir; kesin gün vaat edilmez.",
+          "Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. e-Tebligatta «açılmasa da tebliğ» kuralı takvimi öne çekebilir. Bildirimleri silmeyin; PDF saklayın."
+        ],
+        "bullets": [
+          "Gün 0 — Olay veya tebliğ",
+          "Gün 0–2 — Belge ve tarih sabitleme",
+          "Gün 2–5 — Merci ve dava şartı kontrolü",
+          "Sonraki günler — Yazılı başvuru / arabuluculuk / dava",
+          "Sonuç — Takip ve kanun yolu süresi"
         ]
       }
     ],
