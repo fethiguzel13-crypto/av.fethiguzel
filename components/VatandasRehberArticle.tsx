@@ -96,10 +96,35 @@ export default function VatandasRehberArticle({
 
       <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-3">
         Vatandaş bilgilendirme · {article.category}
+        {article.role === 'pillar' ? ' · Ana rehber' : ''}
+        {article.role === 'spoke' ? ' · Alt konu' : ''}
+        {article.role === 'bridge' ? ' · Madde özeti' : ''}
       </p>
       <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-5 leading-tight">
         {article.h1}
       </h1>
+
+      {article.role === 'spoke' && article.pillar && (
+        <div className="mb-6 rounded-2xl border border-accent/25 bg-accent/5 px-4 py-3 text-sm text-charcoal/75 leading-relaxed">
+          <strong className="text-charcoal">Bu sayfa dar niyetlidir</strong>
+          {article.angle ? ` (${article.angle}).` : '.'} Tam süreç, belgeler ve hak kazanma için ana
+          rehbere bakın:{' '}
+          <Link href={`/bilgi/${article.pillar}`} className="text-accent font-bold hover:underline">
+            Ana rehberi aç →
+          </Link>
+        </div>
+      )}
+
+      {article.role === 'bridge' && article.canonicalPath && (
+        <div className="mb-6 rounded-2xl border border-charcoal/15 bg-white/80 px-4 py-3 text-sm text-charcoal/75 leading-relaxed">
+          <strong className="text-charcoal">Resmî madde metni ve akademik şerh</strong> bu özetten
+          ayrıdır:{' '}
+          <Link href={article.canonicalPath} className="text-accent font-bold hover:underline">
+            Tam madde + şerh sayfasına git →
+          </Link>
+        </div>
+      )}
+
       <p className="text-charcoal/65 text-base sm:text-lg leading-relaxed mb-8">{article.lead}</p>
 
       <p className="text-[12px] text-charcoal/45 mb-10 border-l-2 border-accent/40 pl-3">

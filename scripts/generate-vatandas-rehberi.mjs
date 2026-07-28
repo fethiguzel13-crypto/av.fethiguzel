@@ -8,7 +8,9 @@ import { writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { EXTRA_ROWS } from './vatandas-topics-extra.mjs';
-import { buildDeepBody } from './vatandas-content-engine.mjs';
+import { buildDeepBody, buildSpokeBody, buildBridgeBody } from './vatandas-content-engine.mjs';
+import { resolveSeoRole } from './vatandas-clusters.mjs';
+import { getPillarBody } from './vatandas-pillars-deep.mjs';
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dir, '..', 'lib', 'vatandas-rehberi', 'data.ts');
@@ -184,22 +186,91 @@ function bodyPack(lead, sections, steps, faqList) {
 }
 
 function buildArticle(t) {
-  // Derin içerik motoru (kategori bankası + topic facts). Eski BODIES kısa kaldığı için kullanılmaz.
-  const b = buildDeepBody(t);
+  const seo = resolveSeoRole(t.slug);
+  let title = t.title;
+  let description = t.description;
+  let h1 = t.h1;
+  let keywords = [...t.keywords];
+  let related = t.related.filter((r) => r);
+  let links = [...t.links];
+  let b;
+  let role = seo.role;
+  let pillar = seo.pillar || undefined;
+  let angle = seo.angle || undefined;
+  let canonicalPath;
+  let sitemapPriority = 0.88;
+
+  if (seo.role === 'bridge' && seo.bridge) {
+    const br = seo.bridge;
+    title = br.title;
+    description = br.description;
+    h1 = br.h1;
+    keywords = br.keywords;
+    canonicalPath = br.canonicalPath;
+    sitemapPriority = 0.45;
+    angle = br.angle;
+    b = buildBridgeBody(t, br);
+    links = [
+      { label: 'Tam madde metni + şerh', href: br.canonicalPath },
+      { label: 'Kanun maddesi ara', href: '/ara' },
+      ...links,
+    ];
+  } else if (seo.role === 'pillar') {
+    sitemapPriority = 0.95;
+    const pb = getPillarBody(t.slug);
+    b = pb || buildDeepBody(t);
+    // pillar related: own spokes first
+    if (seo.cluster?.spokes) {
+      const spokeSlugs = Object.keys(seo.cluster.spokes);
+      related = [...new Set([...spokeSlugs.slice(0, 6), ...related])];
+    }
+  } else if (seo.role === 'spoke' && seo.spokeMeta) {
+    const sm = seo.spokeMeta;
+    title = sm.title || title;
+    description = sm.description || description;
+    h1 = sm.h1 || h1;
+    keywords = sm.keywords || keywords;
+    angle = sm.angle;
+    pillar = seo.pillar;
+    sitemapPriority = 0.62;
+    // Bazı spoke’lar (ör. ödeme emrine itiraz) kendi niyetinde derinleştirilmiş
+    const deepSpoke = getPillarBody(t.slug);
+    b =
+      deepSpoke ||
+      buildSpokeBody(
+        { ...t, title, description, h1, keywords },
+        { pillar: seo.pillar, angle: sm.angle, clusterLabel: seo.cluster?.label }
+      );
+    related = [seo.pillar, ...related.filter((r) => r !== seo.pillar)];
+    links = [
+      { label: 'Ana rehber (tam süreç)', href: `/bilgi/${seo.pillar}` },
+      ...links,
+    ];
+  } else {
+    role = 'standard';
+    b = getPillarBody(t.slug) || buildDeepBody(t);
+    sitemapPriority = 0.85;
+  }
+
   return {
     slug: t.slug,
-    title: t.title,
-    description: t.description,
-    h1: t.h1,
-    keywords: t.keywords,
+    title,
+    description,
+    h1,
+    keywords,
     category: t.category,
-    related: t.related.filter((r) => r),
-    links: t.links,
+    related,
+    links,
     lead: b.lead,
     sections: b.sections,
     steps: b.steps || [],
     faq: b.faq || [],
     updated: UPDATED,
+    role,
+    pillar,
+    angle,
+    canonicalPath,
+    sitemapPriority,
   };
 }
 
@@ -212,10 +283,29 @@ for (const t of topics) {
 
 const articles = topics.map(buildArticle);
 
-// Fix related links to only existing slugs
+// Fix related links to only existing slugs + SEO rules
 const slugSet = new Set(articles.map((a) => a.slug));
+const byPillar = new Map();
 for (const a of articles) {
-  a.related = a.related.filter((s) => slugSet.has(s)).slice(0, 5);
+  if (a.role === 'spoke' && a.pillar) {
+    if (!byPillar.has(a.pillar)) byPillar.set(a.pillar, []);
+    byPillar.get(a.pillar).push(a.slug);
+  }
+}
+
+for (const a of articles) {
+  a.related = a.related.filter((s) => slugSet.has(s) && s !== a.slug);
+
+  if (a.role === 'spoke' && a.pillar && slugSet.has(a.pillar)) {
+    a.related = [a.pillar, ...a.related.filter((s) => s !== a.pillar)].slice(0, 5);
+  } else if (a.role === 'pillar') {
+    const spokes = byPillar.get(a.slug) || [];
+    a.related = [...new Set([...spokes, ...a.related])].filter((s) => s !== a.slug).slice(0, 8);
+  } else if (a.role === 'bridge') {
+    // keep process guides, not other madde bridges first
+    a.related = a.related.filter((s) => !String(s).includes('madde-')).slice(0, 5);
+  }
+
   if (a.related.length < 3) {
     for (const x of articles) {
       if (x.slug === a.slug) continue;

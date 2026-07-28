@@ -22,7 +22,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const a = getVatandasBySlug(slug);
   if (!a) return { title: 'Rehber bulunamadı' };
 
-  const canonical = `${SITE}/bilgi/${a.slug}`;
+  // Bridge (madde özeti) → kral URL mevzuat; spoke/pillar → kendi /bilgi URL
+  const canonicalPath = a.canonicalPath || `/bilgi/${a.slug}`;
+  const canonical = canonicalPath.startsWith('http')
+    ? canonicalPath
+    : `${SITE}${canonicalPath.startsWith('/') ? '' : '/'}${canonicalPath}`;
+
+  const ogUrl = `${SITE}/bilgi/${a.slug}`;
   return {
     title: a.title,
     description: a.description,
@@ -31,7 +37,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       type: 'article',
       locale: 'tr_TR',
-      url: canonical,
+      url: ogUrl,
       title: a.title,
       description: a.description,
       siteName: 'Av. Fethi Güzel Hukuk Portalı',

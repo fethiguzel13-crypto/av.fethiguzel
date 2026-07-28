@@ -931,3 +931,100 @@ export function buildDeepBody(t) {
 
   return bodyPack(lead, sections, steps, faqList);
 }
+
+/**
+ * Spoke: dar niyet, pillar’a yönlendirir — yamyamlık azaltma.
+ * @param {object} t
+ * @param {{ pillar: string, angle: string, clusterLabel?: string }} meta
+ */
+export function buildSpokeBody(t, meta) {
+  const k0 = t.keywords[0] || t.h1;
+  const k1 = t.keywords[1] || k0;
+  const pillarHref = `/bilgi/${meta.pillar}`;
+  const cat = t.category;
+  const bank = CAT_BANK[cat] || CAT_BANK.Usul;
+  const fact = TOPIC_FACTS[t.slug];
+  const angle = meta.angle || k0;
+
+  const lead = fact?.ozet
+    ? `${fact.ozet} Bu sayfa yalnızca «${angle}» niyetine odaklanır. Genel çerçeve ve hak kazanma/süreç için ana rehbere gidin: ${pillarHref}. Bağlayıcı tavsiye değildir.`
+    : `Bu sayfa «${k0}» aramasındaki dar soruya — ${angle} — yanıt verir; tüm süreci yeniden anlatmaz. Ana rehber: ${pillarHref}. İlgili mevzuat sıklıkla ${bank.kanunlar.slice(0, 2).join(' ve ')} çevresindedir.`;
+
+  const sections = [
+    s(`Bu sayfanın odağı: ${angle}`, [
+      fact?.ozet ||
+        `«${k0}» ifadesi çoğu zaman genel konunun bir alt sorusudur. Burada yalnızca ${angle} ele alınır; diğer kalemler ve dava iskeleti ana rehberde toplanmıştır.`,
+      `Ana rehbere gitmeden karar vermeyin: ${pillarHref}. Orada belgeler, merciler ve adım adım süreç yer alır.`,
+    ], fact?.onemli?.slice(0, 3) || [k0, k1, angle].filter(Boolean)),
+    s('Ne zaman bu sayfa, ne zaman ana rehber?', [
+      `Hızlı ve dar soru (ör. oran, tablo, tek şart, tek belge) için bu sayfa; «nasıl alırım / nasıl açarım / süreç nedir?» için ana rehber (${pillarHref}) kullanılmalıdır.`,
+      `Aynı anahtar kelimeleri her iki sayfada da doldurmak arama motorunda yamyamlığa yol açar. Bu yüzden anahtarlar bilerek daraltılmıştır.`,
+    ]),
+    s('Kısa usul notu', [
+      `Merciler: ${bank.merciler.slice(0, 3).join(', ')}. ${pick(bank.sureler, hash(t.slug), 1)}`,
+      `Sık risk: ${pick(bank.riskler, hash(t.slug), 2)}. Delil setinde ${pickN(bank.belgeler, hash(t.slug), 3).join(', ')} öne çıkar.`,
+    ]),
+    s('İç linkler', [
+      `Ana rehber (pillar): ${pillarHref}`,
+      fact?.link ? `İlgili araç/mevzuat: ${fact.link}` : `Kanun maddesi arama: /ara · Mevzuat: /mevzuat`,
+      `Aynı kategorideki diğer dar sayfalar ana rehberin «İlgili rehberler» bölümünden ulaşılır.`,
+    ]),
+  ];
+
+  const steps = [
+    `Sorunuzun «${angle}» ile sınırlı olduğunu doğrulayın.`,
+    `Gerekli belgeleri toplayın (${pickN(bank.belgeler, hash(t.slug), 2).join(', ')}).`,
+    `Ayrıntılı süreç için ana rehberi okuyun: ${pillarHref}.`,
+    'Yazılı başvuru/dilekçe veya arabuluculuk adımını atlamayın.',
+    'Sonucu takip edin; süreleri tebliğ tarihinden hesaplayın.',
+  ];
+
+  const faqList = [
+    faq('Neden ayrı sayfa var?', `Arama niyetini ayırmak için: bu sayfa ${angle}; genel süreç ${pillarHref} adresindedir.`),
+    faq('Ana rehberi okumadan olur mu?', 'Dar teknik sorularda kısmen; hak kaybı riski olan dosyada ana rehber + uzman değerlendirmesi gerekir.'),
+    faq('Bu metin yeterli midir?', 'Hayır, genel bilgilendirmedir; somut olayda mevzuat ve avukat esastır.'),
+  ];
+
+  return bodyPack(lead, sections, steps, faqList);
+}
+
+/**
+ * Bridge: madde özeti — canonical mevzuat sayfasına.
+ */
+export function buildBridgeBody(t, bridge) {
+  const fact = TOPIC_FACTS[t.slug];
+  const canon = bridge.canonicalPath;
+  const lead = fact?.ozet
+    ? `${fact.ozet} Tam resmî madde metni ve akademik şerh şu adrestedir: ${canon}. Bu sayfa yalnızca vatandaş özetidir; sıralama sinyali madde sayfasına yönlendirilir.`
+    : `${t.h1} — kısa vatandaş özeti. Resmî metin ve şerh: ${canon}.`;
+
+  const sections = [
+    s('Özet (vatandaş dili)', [
+      fact?.ozet || `${t.h1} konusunda ayrıntı mevzuat sayfasındadır.`,
+      'Fıkra, bent ve atıf maddeleri atlanmamalıdır. Yürürlük tarihi kontrol edilmelidir.',
+    ], fact?.onemli?.slice(0, 4)),
+    s('Tam metin ve şerh nerede?', [
+      `Kanun maddesinin bağlayıcı metni ve akademik şerh: ${canon}`,
+      'Arama: /ara · Mevzuat arşivi: /mevzuat · Okuma rehberi: /bilgi/kanun-maddesi-nasil-okunur',
+    ]),
+    s('Pratik uyarı', [
+      'Özet ile resmî metin çelişirse resmî metin esastır. Somut uyuşmazlıkta avukat ve güncel içtihat değerlendirilmelidir.',
+    ]),
+  ];
+
+  const steps = [
+    'Özeti okuyun.',
+    `Tam maddeye gidin: ${canon}`,
+    'Fıkra ve atıfları kontrol edin.',
+    'İlgili vatandaş rehberine (süreç) geçin.',
+    'Gerekirse /ara ile bağlantılı maddeleri tarayın.',
+  ];
+
+  const faqList = [
+    faq('Neden iki URL var?', 'Biri vatandaş özeti, diğeri resmî metin+şerh. Arama motoruna madde sayfası kral URL olarak gösterilir (canonical).'),
+    faq('Hangisini okumalıyım?', `Karar ve atıf için ${canon}; hızlı özet için bu sayfa.`),
+    faq('Şerh bağlayıcı mıdır?', 'Hayır; akademik bilgilendirmedir. Karar mahkemeye aittir.'),
+  ];
+
+  return bodyPack(lead, sections, steps, faqList);
+}

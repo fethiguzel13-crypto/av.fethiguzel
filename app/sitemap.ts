@@ -72,13 +72,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.82,
   }));
 
-  // Vatandaş SEO bilgilendirme rehberleri (/bilgi/*) — ana sayfada değil; 500+ konu, arama motoru için
-  const { getAllVatandasSlugs } = await import('@/lib/vatandas-rehberi');
-  const bilgiRoutes: MetadataRoute.Sitemap = getAllVatandasSlugs().map((slug) => ({
-    url: `${baseUrl}/bilgi/${slug}`,
+  // Vatandaş SEO rehberleri — pillar yüksek, spoke düşük, bridge (madde özeti) en düşük
+  const { VATANDAS_ARTICLES } = await import('@/lib/vatandas-rehberi');
+  const bilgiRoutes: MetadataRoute.Sitemap = VATANDAS_ARTICLES.map((a) => ({
+    url: `${baseUrl}/bilgi/${a.slug}`,
     lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority: 0.88,
+    changeFrequency: (a.role === 'pillar' ? 'weekly' : 'monthly') as 'weekly' | 'monthly',
+    priority: a.sitemapPriority ?? (a.role === 'pillar' ? 0.95 : a.role === 'spoke' ? 0.62 : a.role === 'bridge' ? 0.45 : 0.85),
   }));
 
   // 1b. İlçe/İl Avukat Sayfaları (yerel SEO — Türkiye haritası kökleri)
@@ -153,11 +153,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // 6. Tüm mevzuat madde sayfaları (/mevzuat/{kanunId}/{id}) — packs
   const { getAllArticles } = await import('@/lib/api');
   const allMevzuat = await getAllArticles();
+  // Madde sayfaları: kanun maddesi aramada kral URL (bilgi bridge’lerinden yüksek)
   const mevzuatRoutes: MetadataRoute.Sitemap = allMevzuat.map((article) => ({
     url: `${baseUrl}/mevzuat/${article.kanunId}/${article.id}`,
     lastModified: new Date(),
     changeFrequency: 'monthly' as const,
-    priority: 0.75,
+    priority: 0.86,
   }));
 
   // 7. Kategori arşiv sayfaları (/kategori/{slug})

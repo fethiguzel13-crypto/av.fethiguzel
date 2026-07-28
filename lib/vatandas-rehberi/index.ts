@@ -1,4 +1,9 @@
-export type { VatandasArticle, VatandasFaq, VatandasSection } from './types';
+export type {
+  VatandasArticle,
+  VatandasFaq,
+  VatandasSection,
+  VatandasRole,
+} from './types';
 export {
   VATANDAS_ARTICLES,
   getAllVatandasSlugs,
