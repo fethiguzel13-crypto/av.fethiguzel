@@ -1,9 +1,9 @@
 import type { NextConfig } from "next";
 
 /**
- * Madde SEO: prebuild writes public/seo-madde/{kanun}/{id}.html with full text + meta.
- * Rewrite /mevzuat/:kanun/:id → those static files (Google sees real HTML, no lambda 500).
- * SPA viewer /mevzuat-viewer-v4.html is noindex backup only.
+ * Madde SEO: prebuild writes public/seo-madde/{kanun}/{id}.html (compact).
+ * beforeFiles rewrite → static files (no lambda / no empty SPA for Googlebot).
+ * Node route remains fallback only if rewrite is removed.
  */
 const securityHeaders = [
   { key: "X-DNS-Prefetch-Control", value: "on" },
@@ -49,8 +49,6 @@ const nextConfig: NextConfig = {
       },
     ];
   },
-  // Prefer prebuilt static SEO HTML when present (committed core kanun + prebuild).
-  // Falls through to Edge route handler for other kanun after files exist.
   async rewrites() {
     return {
       beforeFiles: [

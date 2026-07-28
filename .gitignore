@@ -39,8 +39,9 @@ yarn-error.log*
 # Packs live in content-packs/ (git) and are copied to public/ at prebuild.
 # Also commit public/content-packs so Vercel always serves şerhler even if prebuild skips.
 # public/content-packs/  — DO NOT ignore (empty packs = invisible commentaries)
-# Generated at prebuild (8087 HTML files) — do not commit
+# Generated at prebuild — do not commit (deploy from build artifact only)
 /public/seo-madde/
+/public/data/m/
 build-out*.txt
 
 # typescript

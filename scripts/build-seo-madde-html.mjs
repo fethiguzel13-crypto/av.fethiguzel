@@ -102,8 +102,15 @@ function pageHtml({ kanunId, id, article }) {
     : `${kanun} Madde ${n} (${code} m. ${n}) resmî metni ve akademik şerh. Av. Fethi Güzel.`;
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
   const officialHtml = mdLite(article.official);
-  const commentaryHtml = article.commentary
-    ? mdLite(article.commentary)
+  // Cap şerh hard for deploy size (8087 pages must stay under Vercel artifact limits)
+  const rawComm = String(article.commentary || '');
+  const clipped =
+    rawComm.length > 2800
+      ? rawComm.slice(0, 2800) +
+        '\n\n… (tam şerh portal arşivinde — Av. Fethi Güzel)'
+      : rawComm;
+  const commentaryHtml = clipped
+    ? mdLite(clipped)
     : '<p>Bu madde için şerh metni paketle birlikte sunulur.</p>';
 
   const jsonLd = {

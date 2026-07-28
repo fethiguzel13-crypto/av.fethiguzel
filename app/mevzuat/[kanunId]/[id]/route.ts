@@ -1,10 +1,16 @@
 /**
- * Edge Runtime madde HTML — bypasses Node lambda file-logger 500s.
- * Fetches gzip packs from CDN, returns unique crawlable HTML for Googlebot.
+ * Madde SEO HTML — Node runtime (not Edge).
+ *
+ * Why Node: full packs are ~25MB uncompressed (TBK); Edge OOMs on gunzip+parse → 500.
+ * Node lambdas have enough memory; packs are fetched once from CDN and cached in-process.
+ * file-logger Vercel crash is patched in prebuild (patch-next-file-logger.mjs --strict).
  */
-export const runtime = 'edge';
-export const revalidate = 86400;
+export const runtime = 'nodejs';
+export const dynamic = 'force-dynamic';
 export const dynamicParams = true;
+export const maxDuration = 30;
+
+import { gunzipSync } from 'node:zlib';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -16,8 +22,11 @@ type PackArticle = {
   commentary: string;
 };
 type Pack = Record<string, PackArticle>;
-
 type Ctx = { params: Promise<{ kanunId: string; id: string }> };
+
+type GlobalPackCache = { __mevzuatPacks?: Map<string, Pack> };
+const g = globalThis as typeof globalThis & GlobalPackCache;
+if (!g.__mevzuatPacks) g.__mevzuatPacks = new Map();
 
 function normalizeMaddeId(id: string): string {
   const raw = decodeURIComponent(String(id || '')).trim();
@@ -58,27 +67,19 @@ function mdLite(md: string) {
   return `<p>${t}</p>`;
 }
 
-async function gunzipJson(buf: ArrayBuffer): Promise<Pack> {
-  const bytes = new Uint8Array(buf);
-  const isGzip = bytes.length >= 2 && bytes[0] === 0x1f && bytes[1] === 0x8b;
-  if (!isGzip) {
-    return JSON.parse(new TextDecoder().decode(bytes)) as Pack;
-  }
-  // Edge-native gzip decompress
-  // @ts-expect-error DecompressionStream is available on Edge
-  const ds = new DecompressionStream('gzip');
-  const stream = new Response(buf).body!.pipeThrough(ds);
-  const text = await new Response(stream).text();
-  return JSON.parse(text) as Pack;
-}
+async function loadPack(kanunId: string, origin: string): Promise<Pack> {
+  const cached = g.__mevzuatPacks!.get(kanunId);
+  if (cached) return cached;
 
-async function loadPack(kanunId: string): Promise<Pack> {
   const kid = encodeURIComponent(kanunId);
   const urls = [
+    `${origin}/content-packs/${kid}.json.gz`,
     `${SITE}/content-packs/${kid}.json.gz`,
-    `https://cdn.jsdelivr.net/gh/fethiguzel13-crypto/av.fethiguzel@main/content-packs/${kid}.json.gz`,
+    `https://cdn.jsdelivr.net/gh/fethiguzel13-crypto/av.fethiguzel@main/public/content-packs/${kid}.json.gz`,
+    `https://raw.githubusercontent.com/fethiguzel13-crypto/av.fethiguzel/main/public/content-packs/${kid}.json.gz`,
     `https://raw.githubusercontent.com/fethiguzel13-crypto/av.fethiguzel/main/content-packs/${kid}.json.gz`,
   ];
+
   let last = 'no url';
   for (const url of urls) {
     try {
@@ -87,12 +88,20 @@ async function loadPack(kanunId: string): Promise<Pack> {
         last = `${url} HTTP ${res.status}`;
         continue;
       }
-      const ab = await res.arrayBuffer();
+      const ab = Buffer.from(await res.arrayBuffer());
       if (ab.byteLength < 64) {
         last = `${url} empty`;
         continue;
       }
-      return await gunzipJson(ab);
+      let jsonText: string;
+      if (ab[0] === 0x1f && ab[1] === 0x8b) {
+        jsonText = gunzipSync(ab).toString('utf8');
+      } else {
+        jsonText = ab.toString('utf8');
+      }
+      const pack = JSON.parse(jsonText) as Pack;
+      g.__mevzuatPacks!.set(kanunId, pack);
+      return pack;
     } catch (e) {
       last = e instanceof Error ? e.message : String(e);
     }
@@ -100,7 +109,10 @@ async function loadPack(kanunId: string): Promise<Pack> {
   throw new Error(`pack load failed: ${last}`);
 }
 
-function resolveArticle(pack: Pack, id: string): { key: string; article: PackArticle } | null {
+function resolveArticle(
+  pack: Pack,
+  id: string
+): { key: string; article: PackArticle } | null {
   const candidates = Array.from(
     new Set([normalizeMaddeId(id), id, id.toLowerCase(), `madde-${id}`])
   );
@@ -116,11 +128,7 @@ function resolveArticle(pack: Pack, id: string): { key: string; article: PackArt
   return null;
 }
 
-function buildHtml(
-  kanunId: string,
-  id: string,
-  article: PackArticle
-): string {
+function buildHtml(kanunId: string, id: string, article: PackArticle): string {
   const code = kanunId.toUpperCase();
   const n = article.maddeNo;
   const kanun = article.kanun || code;
@@ -138,9 +146,16 @@ function buildHtml(
     ? `${code} madde ${n} / ${code} m. ${n} (${kanun}): ${lead}${lead.length >= 120 ? '…' : ''} Akademik şerh — Av. Fethi Güzel.`
     : `${kanun} Madde ${n} (${code} m. ${n}) resmî metni ve akademik şerh. Av. Fethi Güzel.`;
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
+  // Cap commentary size for response weight (full text still huge for SEO snippet)
+  const commentarySrc = String(article.commentary || '');
+  const commentary =
+    commentarySrc.length > 14000
+      ? commentarySrc.slice(0, 14000) +
+        '\n\n… (tam metin portal arşivinde)'
+      : commentarySrc;
   const officialHtml = mdLite(article.official);
-  const commentaryHtml = article.commentary
-    ? mdLite(article.commentary)
+  const commentaryHtml = commentary
+    ? mdLite(commentary)
     : '<p>Bu madde için şerh pakette yer alır.</p>';
 
   const jsonLd = {
@@ -150,7 +165,12 @@ function buildHtml(
         '@type': 'Article',
         headline: `${code} Madde ${n} | ${code} m. ${n}`,
         name: `${code} Madde ${n}`,
-        alternateName: [`${code} m. ${n}`, `${code} m ${n}`, `${code} ${n}`],
+        alternateName: [
+          `${code} m. ${n}`,
+          `${code} m ${n}`,
+          `${code} ${n}`,
+          `${code} Madde ${n}`,
+        ],
         description,
         inLanguage: 'tr-TR',
         isAccessibleForFree: true,
@@ -171,14 +191,24 @@ function buildHtml(
           legislationIdentifier: `${code}-${n}`,
           legislationJurisdiction: 'TR',
         },
-        keywords: `${code} madde ${n}, ${code} m. ${n}, Av. Fethi Güzel, kanun maddesi`,
+        keywords: `${code} madde ${n}, ${code} m. ${n}, Av. Fethi Güzel, Fethi Güzel, kanun maddesi`,
       },
       {
         '@type': 'BreadcrumbList',
         itemListElement: [
           { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: SITE },
-          { '@type': 'ListItem', position: 2, name: 'Mevzuat', item: `${SITE}/mevzuat` },
-          { '@type': 'ListItem', position: 3, name: `${code} Madde ${n}`, item: canonical },
+          {
+            '@type': 'ListItem',
+            position: 2,
+            name: 'Mevzuat',
+            item: `${SITE}/mevzuat`,
+          },
+          {
+            '@type': 'ListItem',
+            position: 3,
+            name: `${code} Madde ${n}`,
+            item: canonical,
+          },
         ],
       },
     ],
@@ -268,10 +298,16 @@ Kaynak ve uyarı: Bilgilendirme amaçlıdır; Resmî Gazete / mevzuat.gov.tr esa
 </html>`;
 }
 
-export async function GET(_req: Request, ctx: Ctx) {
+export async function GET(req: Request, ctx: Ctx) {
   const { kanunId: rawKanun, id: rawId } = await ctx.params;
   const kanunId = String(rawKanun || '').toLowerCase();
   const id = normalizeMaddeId(rawId);
+  let origin = SITE;
+  try {
+    origin = new URL(req.url).origin;
+  } catch {
+    /* keep SITE */
+  }
 
   if (!kanunId || !id) {
     return new Response('Not found', { status: 404 });
@@ -282,10 +318,23 @@ export async function GET(_req: Request, ctx: Ctx) {
   }
 
   try {
-    const pack = await loadPack(kanunId);
+    const pack = await loadPack(kanunId, origin);
     const resolved = resolveArticle(pack, id);
     if (!resolved) {
-      return new Response(`Madde bulunamadı: ${kanunId}/${id}`, { status: 404 });
+      return new Response(
+        `<!DOCTYPE html><html lang="tr"><head><meta charset="utf-8"/><title>Madde bulunamadı | Av. Fethi Güzel</title>
+<meta name="robots" content="noindex"/><link rel="canonical" href="${SITE}/mevzuat"/></head>
+<body style="font-family:system-ui;padding:2rem"><h1>Madde bulunamadı</h1>
+<p>${esc(kanunId)} / ${esc(id)}</p>
+<p><a href="${SITE}/mevzuat">Mevzuat</a> · <a href="${SITE}/ara">Ara</a></p></body></html>`,
+        {
+          status: 404,
+          headers: {
+            'Content-Type': 'text/html; charset=utf-8',
+            'Cache-Control': 'public, max-age=300',
+          },
+        }
+      );
     }
     const html = buildHtml(kanunId, resolved.key, resolved.article);
     return new Response(html, {
@@ -298,6 +347,7 @@ export async function GET(_req: Request, ctx: Ctx) {
     });
   } catch (e) {
     const msg = e instanceof Error ? e.message : 'error';
+    console.error('[madde-seo]', kanunId, id, msg);
     return new Response(
       `<!DOCTYPE html><html lang="tr"><head><meta charset="utf-8"/><title>Yükleniyor | Av. Fethi Güzel</title><meta name="robots" content="noindex"/></head>
 <body style="font-family:system-ui;padding:2rem"><p>Madde geçici olarak yüklenemedi; lütfen yenileyin.</p>

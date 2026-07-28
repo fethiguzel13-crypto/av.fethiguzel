@@ -1,7 +1,7 @@
 /**
  * Prebuild:
  * 1) Light index check
- * 2) Static SEO HTML for every madde (Google crawlable titles + body)
+ * 2) Per-madde JSON shards for Edge SEO (public/data/m/) — NOT full-pack Edge load
  */
 import { existsSync, statSync } from 'node:fs';
 import { join, dirname } from 'node:path';
@@ -30,7 +30,8 @@ if (existsSync(indexPath)) {
     console.warn('[prebuild-safe] no index — run: npm run build:index');
 }
 
-// Always build static madde HTML for SEO (local + Vercel)
+// Compact crawlable HTML for every madde (Google). Generated at build — NOT committed
+// (150MB git commit failed Vercel; prebuild artifact is fine).
 const r = spawnSync(process.execPath, [join(root, 'scripts', 'build-seo-madde-html.mjs')], {
     cwd: root,
     stdio: 'inherit',
