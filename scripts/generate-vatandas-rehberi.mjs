@@ -10,7 +10,7 @@ import { fileURLToPath } from 'node:url';
 import { EXTRA_ROWS } from './vatandas-topics-extra.mjs';
 import { buildDeepBody, buildSpokeBody, buildBridgeBody } from './vatandas-content-engine.mjs';
 import { resolveSeoRole } from './vatandas-clusters.mjs';
-import { getPillarBody } from './vatandas-pillars-deep.mjs';
+import { getPillarBody } from './vatandas-pillars-wave2.mjs';
 
 const __dir = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dir, '..', 'lib', 'vatandas-rehberi', 'data.ts');

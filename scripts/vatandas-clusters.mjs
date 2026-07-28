@@ -8,10 +8,12 @@
  * Spoke title/keywords generator’da force edilir (çakışan genel anahtarlar temizlenir).
  */
 
+import { CLUSTERS_WAVE2 } from './vatandas-clusters-wave2.mjs';
+
 /** @typedef {{ pillar: string, label: string, spokes: Record<string, { angle: string, title?: string, h1?: string, description?: string, keywords?: string[] }> }} Cluster */
 
 /** @type {Record<string, Cluster>} */
-export const CLUSTERS = {
+const CLUSTERS_BASE = {
   kidem: {
     pillar: 'kidem-tazminati-nasil-alinir',
     label: 'Kıdem tazminatı',
@@ -1051,6 +1053,9 @@ export const CLUSTERS = {
   },
 };
 
+/** Wave1 + wave2 birleşik küme haritası */
+export const CLUSTERS = { ...CLUSTERS_BASE, ...CLUSTERS_WAVE2 };
+
 /**
  * Madde bridge: bilgi sayfası özet, ranking sinyali mevzuat sayfasına.
  * @type {Record<string, { canonicalPath: string, angle: string, title: string, h1: string, description: string, keywords: string[] }>}
@@ -1181,11 +1186,55 @@ export function resolveSeoRole(slug) {
     }
   }
 
-  // Spoke: tahliye önce
-  const order = ['tahliye', 'ise_iade', 'kidem', 'nafaka', 'arabuluculuk', 'bosanma', 'miras', 'icra', 'kira'];
+  // Spoke: öncelik sırası (çakışan slug’larda daha spesifik küme kazanır)
+  const order = [
+    'tahliye',
+    'ise_iade',
+    'kidem',
+    'nafaka',
+    'velayet',
+    'koruma_6284',
+    'arabuluculuk',
+    'bosanma',
+    'miras',
+    'icra',
+    'kira',
+    'trafik_ceza',
+    'tuketici',
+    'hukuk_dava',
+    'idari_dava',
+    'tebligat',
+    'is_fesih',
+    'is_kazasi',
+    'tapu',
+    'emlak_vergi',
+    'emeklilik',
+    'suc_duyurusu',
+    'kvkk',
+    'ihtiyati_tedbir',
+    'kamulastirma',
+    'issizlik',
+    'fazla_mesai',
+    'iskan',
+    'kanun_yolu',
+  ];
   for (const key of order) {
     const cluster = CLUSTERS[key];
     if (!cluster) continue;
+    if (cluster.spokes[slug]) {
+      return {
+        role: 'spoke',
+        pillar: cluster.pillar,
+        clusterKey: key,
+        angle: cluster.spokes[slug].angle,
+        spokeMeta: cluster.spokes[slug],
+        cluster,
+      };
+    }
+  }
+
+  // order’da olmayan kümeler (güvenlik ağı)
+  for (const [key, cluster] of Object.entries(CLUSTERS)) {
     if (cluster.spokes[slug]) {
       return {
         role: 'spoke',

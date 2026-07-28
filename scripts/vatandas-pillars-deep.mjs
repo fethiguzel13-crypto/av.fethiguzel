@@ -336,6 +336,7 @@ export const PILLAR_BODIES = {
   ),
 };
 
+/** @deprecated wave2 getPillarBody kullanın — geriye dönük */
 export function getPillarBody(slug) {
   return PILLAR_BODIES[slug] || null;
 }
