@@ -1,8 +1,10 @@
 import type { NextConfig } from "next";
 
 /**
- * Madde pages: app/mevzuat/[kanunId]/[id] (App Router).
- * Packs load client-side from jsDelivr — do not bundle content-packs into lambdas.
+ * Madde pages: app/mevzuat/[kanunId]/[id] App Router SSR (SEO).
+ * DO NOT rewrite /mevzuat/* to static viewer — that served empty HTML to Googlebot
+ * (generic title "Madde Şerhi", no madde text). Viewer remains at /mevzuat-viewer-v4.html
+ * for offline/debug only. Packs load via fetch on SSR (SITE_ORIGIN / jsDelivr).
  */
 const securityHeaders = [
   { key: "X-DNS-Prefetch-Control", value: "on" },
@@ -21,16 +23,9 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   /**
-   * CRITICAL: Next 16.2 SSR Lambdas crash on missing file-logger (patched in
-   * postinstall/prebuild). Madde URLs are also served via static HTML rewrite
-   * so clicks never depend on a working Node serverless cold-start.
-   *
-   * Browser URL stays /mevzuat/{kanun}/{madde}; body is public/mevzuat-viewer-v4.html
-   * which loads packs from same-origin /content-packs or jsDelivr.
-   *
-   * Pretty category URLs (/{dal}/{alt}/madde-N) used to hit App Router SSR only to
-   * permanentRedirect → /mevzuat/…. That SSR path still 500s on cold start.
-   * Edge redirects below skip Node entirely (SEO-safe 308).
+   * Pretty category URLs → canonical /mevzuat (Edge 308, no Node).
+   * Madde body is App Router SSR with unique <title>, canonical, JSON-LD and
+   * full official text in HTML for Googlebot.
    */
   async redirects() {
     return [
@@ -56,18 +51,6 @@ const nextConfig: NextConfig = {
         permanent: true,
       },
     ];
-  },
-  async rewrites() {
-    return {
-      beforeFiles: [
-        {
-          source: "/mevzuat/:kanunId/:id",
-          destination: "/mevzuat-viewer-v4.html",
-        },
-      ],
-      afterFiles: [],
-      fallback: [],
-    };
   },
   outputFileTracingIncludes: {
     "*": [

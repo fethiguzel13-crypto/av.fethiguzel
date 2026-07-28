@@ -153,13 +153,18 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   // 6. Tüm mevzuat madde sayfaları (/mevzuat/{kanunId}/{id}) — packs
   const { getAllArticles } = await import('@/lib/api');
   const allMevzuat = await getAllArticles();
-  // Madde sayfaları: kanun maddesi aramada kral URL (bilgi bridge’lerinden yüksek)
-  const mevzuatRoutes: MetadataRoute.Sitemap = allMevzuat.map((article) => ({
-    url: `${baseUrl}/mevzuat/${article.kanunId}/${article.id}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.86,
-  }));
+  // Madde sayfaları — Google’ın birincil indeks hedefi (SSR HTML, unique title)
+  const CORE_KANUN = new Set(['tbk', 'tmk', 'tck', 'hmk', 'iik', 'cmk', 'ttk', 'is-kanunu']);
+  const mevzuatRoutes: MetadataRoute.Sitemap = allMevzuat.map((article) => {
+    const core = CORE_KANUN.has(article.kanunId);
+    const head = core && article.maddeNo <= 100;
+    return {
+      url: `${baseUrl}/mevzuat/${article.kanunId}/${article.id}`,
+      lastModified: new Date(),
+      changeFrequency: (core ? 'weekly' : 'monthly') as 'weekly' | 'monthly',
+      priority: head ? 0.92 : core ? 0.88 : 0.8,
+    };
+  });
 
   // 7. Kategori arşiv sayfaları (/kategori/{slug})
   const { categories } = await import('@/lib/categories');

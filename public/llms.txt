@@ -70,12 +70,17 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - https://avfethiguzel.com/ahlat-avukat
 - https://avfethiguzel.com/ankara-avukat
 
-## Kanun örnekleri
+## Kanun maddesi sayfaları (SSR, Google indeksi)
 
-- TBK m.1: https://avfethiguzel.com/mevzuat/tbk/madde-1
-- TMK m.1: https://avfethiguzel.com/mevzuat/tmk/madde-1
-- TTK m.18: https://avfethiguzel.com/mevzuat/ttk/madde-18
-- TCK m.1: https://avfethiguzel.com/mevzuat/tck/madde-1
+Her madde: https://www.avfethiguzel.com/mevzuat/{kanunId}/madde-{n}
+Örnek arama niyetleri: "TBK m. 16", "TBK madde 16", "TCK m. 86"
+
+- TBK m.1: https://www.avfethiguzel.com/mevzuat/tbk/madde-1
+- TBK m.16: https://www.avfethiguzel.com/mevzuat/tbk/madde-16
+- TMK m.1: https://www.avfethiguzel.com/mevzuat/tmk/madde-1
+- TTK m.18: https://www.avfethiguzel.com/mevzuat/ttk/madde-18
+- TCK m.1: https://www.avfethiguzel.com/mevzuat/tck/madde-1
+- HMK m.119: https://www.avfethiguzel.com/mevzuat/hmk/madde-119
 
 ## Sitemap
 

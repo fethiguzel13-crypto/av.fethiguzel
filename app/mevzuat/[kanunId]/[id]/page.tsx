@@ -17,9 +17,31 @@ type Props = { params: Promise<{ kanunId: string; id: string }> };
 export const revalidate = 86400;
 export const dynamicParams = true;
 
-/** Empty = on-demand ISR (avoids 7k-page build explosion on Vercel). */
-export function generateStaticParams() {
-  return [] as { kanunId: string; id: string }[];
+/**
+ * Prefetch highest-traffic kanun first pages so Google sees real HTML immediately.
+ * Remaining maddeler: on-demand ISR (revalidate 86400).
+ */
+export async function generateStaticParams() {
+  try {
+    const { getArticlesByKanun } = await import('@/lib/api');
+    // Core codes users actually search: TBK m.16, TCK, HMK…
+    const core = ['tbk', 'tmk', 'tck', 'hmk', 'iik', 'cmk', 'ttk', 'is-kanunu', 'tbk'];
+    const seen = new Set<string>();
+    const out: { kanunId: string; id: string }[] = [];
+    for (const kanunId of [...new Set(core)]) {
+      const arts = await getArticlesByKanun(kanunId);
+      // First 80 per kanun covers most head queries without exploding build
+      for (const a of arts.slice(0, 80)) {
+        const k = `${kanunId}/${a.id}`;
+        if (seen.has(k)) continue;
+        seen.add(k);
+        out.push({ kanunId, id: a.id });
+      }
+    }
+    return out;
+  } catch {
+    return [] as { kanunId: string; id: string }[];
+  }
 }
 
 function stripHtml(html: string): string {
@@ -29,18 +51,24 @@ function stripHtml(html: string): string {
     .trim();
 }
 
-function seoTitle(kanunId: string, maddeNo: number, headingHint: string): string {
+/** Absolute title — bypass layout template; hit queries like "TBK m. 16", "TBK madde 16". */
+function seoTitleAbsolute(
+  kanunId: string,
+  maddeNo: number,
+  headingHint: string
+): string {
   const code = kanunId.toUpperCase();
   const hint = headingHint
     .replace(/^[IVXLC]+\.\s*/i, '')
     .replace(/\d+\.\s*/g, '')
     .replace(/^[a-z]\.\s*/i, '')
     .trim()
-    .slice(0, 56);
-  if (hint && hint.length > 6) {
-    return `${code} Madde ${maddeNo} | ${hint} | Şerh`;
+    .slice(0, 40);
+  // Keep under ~60–70 chars for SERP; include m. variant for exact match
+  if (hint && hint.length > 5) {
+    return `${code} Madde ${maddeNo} (${code} m. ${maddeNo}) ${hint} | Av. Fethi Güzel`;
   }
-  return `${code} Madde ${maddeNo} | Resmî Metin ve Akademik Şerh`;
+  return `${code} Madde ${maddeNo} | ${code} m. ${maddeNo} Resmî Metin ve Şerh | Av. Fethi Güzel`;
 }
 
 function seoDescription(
@@ -54,12 +82,12 @@ function seoDescription(
     officialText.replace(/^.*?Madde\s+\d+\s*[-–—:]?\s*/i, '').trim() ||
     commentaryLead ||
     '';
-  const clipped = lead.slice(0, 145).trim();
+  const clipped = lead.slice(0, 130).trim();
   const code = kanunId.toUpperCase();
   if (clipped) {
-    return `${code} m. ${maddeNo} (${kanun}): ${clipped}${clipped.length >= 140 ? '…' : ''} — Akademik şerh | Av. Fethi Güzel`;
+    return `${code} madde ${maddeNo} / ${code} m. ${maddeNo} (${kanun}): ${clipped}${clipped.length >= 125 ? '…' : ''} Akademik şerh — Av. Fethi Güzel.`;
   }
-  return `${kanun} Madde ${maddeNo} resmî metni ve akademik şerh. Ücretsiz dijital hukuk kütüphanesi — Av. Fethi Güzel.`;
+  return `${kanun} Madde ${maddeNo} (${code} m. ${maddeNo}) resmî metni ve akademik şerh. Av. Fethi Güzel dijital hukuk kütüphanesi.`;
 }
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -70,13 +98,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   if (!seo) {
     return {
-      title: `${kanunId.toUpperCase()} ${rawId} | Mevzuat`,
+      title: {
+        absolute: `${kanunId.toUpperCase()} ${rawId} | Mevzuat | Av. Fethi Güzel`,
+      },
       description: 'Kanun maddesi metni ve akademik şerh — Av. Fethi Güzel Hukuk Portalı.',
       robots: { index: false, follow: true },
     };
   }
 
-  const title = seoTitle(kanunId, seo.maddeNo, seo.headingHint);
+  const title = seoTitleAbsolute(kanunId, seo.maddeNo, seo.headingHint);
   const description = seoDescription(
     kanunId,
     seo.maddeNo,
@@ -86,24 +116,31 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   );
   const canonical = `${SITE_ORIGIN}/mevzuat/${kanunId}/${seo.id}`;
   const code = kanunId.toUpperCase();
+  const n = seo.maddeNo;
 
   return {
-    title,
+    title: { absolute: title },
     description,
     keywords: [
-      `${code} madde ${seo.maddeNo}`,
-      `${code} m. ${seo.maddeNo}`,
-      `${code} ${seo.maddeNo}`,
-      `${seo.kanun} madde ${seo.maddeNo}`,
-      `${code} madde ${seo.maddeNo} metni`,
-      `${code} madde ${seo.maddeNo} şerh`,
-      `${code} şerh`,
+      `${code} madde ${n}`,
+      `${code} m. ${n}`,
+      `${code} m ${n}`,
+      `${code} ${n}`,
+      `${code.toLowerCase()} madde ${n}`,
+      `${code.toLowerCase()} m. ${n}`,
+      `${seo.kanun} madde ${n}`,
+      `${code} madde ${n} metni`,
+      `${code} madde ${n} şerh`,
+      `${code} madde ${n} fethi güzel`,
+      'Av. Fethi Güzel',
+      'Fethi Güzel',
       'kanun maddesi',
-      'kanun maddesi arama',
       'akademik şerh',
       'mevzuat',
-      'madde metni',
     ],
+    authors: [{ name: 'Av. Fethi Güzel', url: `${SITE_ORIGIN}/avukat-fethi-guzel` }],
+    creator: 'Av. Fethi Güzel',
+    publisher: 'Av. Fethi Güzel Hukuk Portalı',
     alternates: { canonical },
     openGraph: {
       type: 'article',
@@ -123,6 +160,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
       follow: true,
       'max-snippet': -1,
       'max-image-preview': 'large' as const,
+      googleBot: {
+        index: true,
+        follow: true,
+        'max-snippet': -1,
+        'max-image-preview': 'large' as const,
+      },
     },
   };
 }
@@ -162,8 +205,9 @@ export default async function MaddePage({ params }: Props) {
       {
         '@type': 'Article',
         '@id': `${pageUrl}#article`,
-        headline: h1,
+        headline: `${code} Madde ${article.maddeNo} | ${code} m. ${article.maddeNo}`,
         name: `${code} Madde ${article.maddeNo}`,
+        alternateName: [`${code} m. ${article.maddeNo}`, `${code} m ${article.maddeNo}`, `${code} ${article.maddeNo}`],
         description: plainOfficial || h1,
         inLanguage: 'tr-TR',
         isAccessibleForFree: true,
@@ -171,6 +215,7 @@ export default async function MaddePage({ params }: Props) {
           '@type': 'Person',
           name: 'Av. Fethi Güzel',
           url: `${SITE_ORIGIN}/avukat-fethi-guzel`,
+          jobTitle: 'Avukat',
         },
         publisher: {
           '@type': 'Organization',
@@ -183,9 +228,11 @@ export default async function MaddePage({ params }: Props) {
         },
         about: {
           '@type': 'Legislation',
-          name: article.kanun,
-          legislationIdentifier: code,
+          name: `${article.kanun} Madde ${article.maddeNo}`,
+          legislationIdentifier: `${code}-${article.maddeNo}`,
+          legislationJurisdiction: 'TR',
         },
+        keywords: `${code} madde ${article.maddeNo}, ${code} m. ${article.maddeNo}, Av. Fethi Güzel`,
       },
       {
         '@type': 'BreadcrumbList',
