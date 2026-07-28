@@ -5,33 +5,6 @@ import path from 'path';
 
 const baseUrl = 'https://www.avfethiguzel.com';
 
-// Map new sub-category slugs to old category slugs for data lookup
-function getOldSlug(parentSlug: string, subSlug: string): string | null {
-  const mapping: Record<string, Record<string, string>> = {
-    'medeni-hukuk': {
-      'baslangic-hukumleri': 'tmk-baslangic',
-      'kisiler-hukuku': 'kisiler-hukuku',
-      'aile-hukuku': 'aile-hukuku',
-      'miras-hukuku': 'miras-hukuku',
-      'esya-hukuku': 'esya-hukuku',
-    },
-    'borclar-hukuku': {
-      'genel-hukumler': 'borclar-genel',
-      'ozel-hukumler': 'borclar-ozel',
-    },
-    'ticaret-hukuku': {
-      'ticari-isletme-hukuku': 'ticari-isletme',
-      'sirketler-hukuku': 'ticari-sirketler',
-      'kiymetli-evrak-hukuku': 'kiymetli-evrak',
-      'tasima-hukuku': 'tasima-hukuku',
-      'deniz-ticareti-hukuku': 'deniz-ticareti',
-      'sigorta-hukuku': 'sigorta-hukuku',
-      'ttk-son-hukumler': 'ttk-son-hukumler',
-    },
-  };
-  return mapping[parentSlug]?.[subSlug] ?? null;
-}
-
 function getAllFiles(dirPath: string, arrayOfFiles: string[] = []) {
   if (!fs.existsSync(dirPath)) return arrayOfFiles;
 
@@ -152,24 +125,8 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     }
   }
 
-  // 4. Madde Detay Sayfaları — content-packs (küçük) üzerinden; raw md tarama yok
-  const { getArticlesByCategory } = await import('@/lib/api');
-  const articleRoutes: MetadataRoute.Sitemap = [];
-  for (const cat of lawCategories) {
-    for (const sub of cat.subCategories) {
-      const oldSlug = getOldSlug(cat.slug, sub.slug);
-      if (!oldSlug) continue;
-      const articles = await getArticlesByCategory(oldSlug);
-      for (const article of articles) {
-        articleRoutes.push({
-          url: `${baseUrl}/${cat.slug}/${sub.slug}/${article.id}`,
-          lastModified: new Date(),
-          changeFrequency: 'monthly',
-          priority: 0.7,
-        });
-      }
-    }
-  }
+  // 4. Pretty category madde URLs kaldırıldı — 308 ile /mevzuat/{kanun}/{id}'e gider;
+  //    sitemap'te yalnızca canonical /mevzuat yolları (aşağıda §6) yer alır.
 
   // 5. Kişisel Makaleler (PDF/DOCX)
   const makalelerDir = path.join(process.cwd(), 'public', 'makaleler');
@@ -220,7 +177,6 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...ilceRoutes,
     ...categoryRoutes,
     ...subCategoryRoutes,
-    ...articleRoutes,
     ...mevzuatRoutes,
     ...kategoriRoutes,
     ...personalArticleRoutes,

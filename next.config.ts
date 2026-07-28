@@ -27,7 +27,30 @@ const nextConfig: NextConfig = {
    *
    * Browser URL stays /mevzuat/{kanun}/{madde}; body is public/mevzuat-viewer-v4.html
    * which loads packs from same-origin /content-packs or jsDelivr.
+   *
+   * Pretty category URLs (/{dal}/{alt}/madde-N) used to hit App Router SSR only to
+   * permanentRedirect → /mevzuat/…. That SSR path still 500s on cold start.
+   * Edge redirects below skip Node entirely (SEO-safe 308).
    */
+  async redirects() {
+    return [
+      {
+        source: "/borclar-hukuku/:sub/:maddeId",
+        destination: "/mevzuat/tbk/:maddeId",
+        permanent: true,
+      },
+      {
+        source: "/medeni-hukuk/:sub/:maddeId",
+        destination: "/mevzuat/tmk/:maddeId",
+        permanent: true,
+      },
+      {
+        source: "/ticaret-hukuku/:sub/:maddeId",
+        destination: "/mevzuat/ttk/:maddeId",
+        permanent: true,
+      },
+    ];
+  },
   async rewrites() {
     return {
       beforeFiles: [
