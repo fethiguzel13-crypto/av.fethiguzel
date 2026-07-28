@@ -49,8 +49,18 @@ const nextConfig: NextConfig = {
       },
     ];
   },
-  // Madde HTML is served by app/mevzuat/[kanunId]/[id]/route.ts (no React SSR 500).
-  // Optional static mirror: public/seo-madde (prebuild) — not required for crawl.
+  // Prefer prebuilt static SEO HTML when present (committed core kanun + prebuild).
+  // Falls through to Edge route handler for other kanun after files exist.
+  async rewrites() {
+    return {
+      beforeFiles: [
+        {
+          source: "/mevzuat/:kanunId/:id",
+          destination: "/seo-madde/:kanunId/:id.html",
+        },
+      ],
+    };
+  },
   outputFileTracingIncludes: {
     "*": [
       "./node_modules/next/dist/server/dev/browser-logs/**/*",
