@@ -1,10 +1,9 @@
 import type { NextConfig } from "next";
 
 /**
- * Madde pages: app/mevzuat/[kanunId]/[id] App Router SSR (SEO).
- * DO NOT rewrite /mevzuat/* to static viewer — that served empty HTML to Googlebot
- * (generic title "Madde Şerhi", no madde text). Viewer remains at /mevzuat-viewer-v4.html
- * for offline/debug only. Packs load via fetch on SSR (SITE_ORIGIN / jsDelivr).
+ * Madde SEO: prebuild writes public/seo-madde/{kanun}/{id}.html with full text + meta.
+ * Rewrite /mevzuat/:kanun/:id → those static files (Google sees real HTML, no lambda 500).
+ * SPA viewer /mevzuat-viewer-v4.html is noindex backup only.
  */
 const securityHeaders = [
   { key: "X-DNS-Prefetch-Control", value: "on" },
@@ -23,9 +22,8 @@ const securityHeaders = [
 
 const nextConfig: NextConfig = {
   /**
-   * Pretty category URLs → canonical /mevzuat (Edge 308, no Node).
-   * Madde body is App Router SSR with unique <title>, canonical, JSON-LD and
-   * full official text in HTML for Googlebot.
+   * Pretty category URLs → /mevzuat (308).
+   * Madde URLs rewritten to prebuilt static SEO HTML (title + resmi metin for Googlebot).
    */
   async redirects() {
     return [
@@ -44,13 +42,25 @@ const nextConfig: NextConfig = {
         destination: "/mevzuat/ttk/:maddeId",
         permanent: true,
       },
-      // Eski hatalı slug (Türkçe karakter) → ASCII slug
       {
         source: "/bilgi/boşanma-maaliyeti",
         destination: "/bilgi/bosanma-maaliyeti",
         permanent: true,
       },
     ];
+  },
+  async rewrites() {
+    return {
+      beforeFiles: [
+        // Static SEO HTML built by scripts/build-seo-madde-html.mjs (prebuild)
+        {
+          source: "/mevzuat/:kanunId/:id",
+          destination: "/seo-madde/:kanunId/:id.html",
+        },
+      ],
+      afterFiles: [],
+      fallback: [],
+    };
   },
   outputFileTracingIncludes: {
     "*": [
