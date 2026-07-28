@@ -997,7 +997,7 @@ export function buildDeepBody(t) {
 }
 
 /**
- * Spoke: dar niyet, pillar’a yönlendirir — hedef ~420–600 kelime.
+ * Spoke: dar niyet, pillar’a yönlendirir — hedef ≥700 kelime (tüm 487 spoke).
  * @param {object} t
  * @param {{ pillar: string, angle: string, clusterLabel?: string }} meta
  */
@@ -1012,74 +1012,107 @@ export function buildSpokeBody(t, meta) {
   const fact = TOPIC_FACTS[t.slug];
   const angle = meta.angle || k0;
   const kanunShort = bank.kanunlar.slice(0, 2).join(' ve ');
-  const belgeler = pickN(bank.belgeler, seed, 4).join(', ');
+  const kanunAll = bank.kanunlar.join(', ');
+  const belgeler = pickN(bank.belgeler, seed, 5).join(', ');
   const risk = pick(bank.riskler, seed, 2);
+  const risk2 = pick(bank.riskler, seed, 5);
   const sure = pick(bank.sureler, seed, 1);
+  const sure2 = pick(bank.sureler, seed, 3);
+  const merci = bank.merciler.slice(0, 4).join(', ');
+  const slugBits = String(t.slug || '')
+    .split('-')
+    .filter((w) => w.length > 2)
+    .slice(0, 6)
+    .join(' ');
 
   const lead = fact?.ozet
-    ? `${fact.ozet} Bu sayfa yalnızca «${angle}» niyetine odaklanır; tüm süreci yeniden anlatmaz. Hak kazanma, merciler, belgeler ve adım adım yol haritası için ana rehberi okuyun: ${pillarHref}. Metin genel bilgilendirmedir; bağlayıcı tavsiye ve sonuç vaadi içermez.`
-    : `«${k0}» araması çoğu zaman genel konunun dar bir dilimidir: ${angle}. Bu spoke sayfa yalnızca o dilimi açar; ${cat.toLocaleLowerCase('tr-TR')} sürecinin tamamı ana rehberdedir (${pillarHref}). Mevzuat çerçevesi sıklıkla ${kanunShort} çevresindedir. Tebliğ tarihi, güncel oran/sınır ve somut delil dosyaya göre değişir.`;
+    ? `${fact.ozet} Bu spoke sayfa yalnızca «${angle}» niyetine odaklanır; tüm süreci yeniden anlatmaz. Hak kazanma, merciler, belgeler, süreler ve adım adım yol haritası ana rehberdedir: ${pillarHref}. «${k0}», «${k1}» ve «${k2}» anahtarları bilerek dar tutulmuştur. Metin genel bilgilendirmedir; bağlayıcı tavsiye ve sonuç vaadi içermez. Tebliğ tarihi, güncel mevzuat ve somut delil dosyaya göredir.`
+    : `«${k0}» araması çoğu zaman genel ${cat.toLocaleLowerCase('tr-TR')} konusunun dar dilimidir: ${angle}. Bu sayfa (${t.slug}) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (${pillarHref}). Mevzuat çerçevesi sıklıkla ${kanunShort} çevresindedir. ${sure} Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «${angle}» sorusu buraya bırakılmıştır.`;
 
   const sections = [
     s(`Bu sayfanın odağı: ${angle}`, [
       fact?.ozet ||
-        `«${k0}» ifadesi uygulamada genelde «${angle}» sorusuna indirgenir. Burada tanım, tipik şartlar ve dikkat edilecek tek bir dilim işlenir; dava iskeleti, tüm belge listesi ve alternatif yollar ana rehberde toplanmıştır.`,
-      `«${k1}» ve «${k2}» anahtarları bilerek dar tutulmuştur. Aynı genel anahtarları hem pillar hem spoke’ta doldurmak arama motorunda yamyamlığa yol açar; bu yüzden ana süreç ${pillarHref} adresine bırakılır.`,
+        `«${k0}» ifadesi uygulamada genelde «${angle}» sorusuna indirgenir. Burada tanım, tipik şartlar, ispat notu ve dikkat edilecek tek dilim işlenir; dava iskeleti, tam belge listesi ve alternatif yollar ana rehberde toplanmıştır: ${pillarHref}.`,
+      `Slug ve niyet ipuçları («${slugBits}») bu sayfanın kapsamını sınırlar: ${angle}. «${k1}» ve «${k2}» anahtarları bilerek dar tutulmuştur. Aynı genel anahtarları hem pillar hem spoke’ta doldurmak arama motorunda yamyamlığa yol açar.`,
       fact?.onemli?.length
-        ? `Bu dilimde öne çıkan noktalar: ${fact.onemli.slice(0, 4).join(' · ')}`
-        : `Dar soruda bile tebliğ/öğrenme tarihi ve yazılı delil seti ihmal edilmemelidir; aksi halde «doğru cevap» bile geç kalmış olur.`,
-    ], fact?.onemli?.slice(0, 4) || [k0, angle, k1].filter(Boolean)),
+        ? `Bu dilimde öne çıkan noktalar: ${fact.onemli.slice(0, 5).join(' · ')}`
+        : `Dar soruda bile tebliğ/öğrenme tarihi, yazılı delil ve doğru merci ihmal edilmemelidir; aksi halde «doğru cevap» bile geç kalmış olur.`,
+      `Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez.`,
+    ], fact?.onemli?.slice(0, 5) || [k0, angle, k1, k2].filter(Boolean)),
     s('Ne zaman bu sayfa, ne zaman ana rehber?', [
-      `Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül) için bu sayfa yeterince odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler?» sorusu için ana rehber zorunludur: ${pillarHref}.`,
-      `Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar.`,
+      `Hızlı ve dar soru (oran, tablo, tek şart, tek belge, tek süre, tek formül, tek terim) için bu sayfa odaklıdır. «Nasıl alırım / nasıl açarım / hangi mahkeme / tüm adımlar neler / hangi belgeler?» için ana rehber zorunludur: ${pillarHref}.`,
+      `Ana rehberi okumadan feragat, ibraname, peşin ödeme indirimi, sulh veya dava açmak risklidir. Spoke, pilları ikame etmez; tamamlar ve geri link verir.`,
       meta.clusterLabel
-        ? `Bu sayfa «${meta.clusterLabel}» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir.`
+        ? `Bu sayfa «${meta.clusterLabel}» kümesinin yan niyetidir; kümenin merkezi yine ana rehberdir (${pillarHref}).`
         : `Aynı kategorideki diğer dar sayfalar ana rehberin ilgili rehberler bölümünden dolaşılabilir.`,
+      `Karar verirken iki soru sorun: (1) Sorum yalnızca «${angle}» mi? (2) Süre veya feragat riski var mı? İkinci soruya evet ise pillar + güncel mevzuat şarttır.`,
     ]),
-    s(`${angle}: pratik usul notu`, [
-      `Merciler (tipik): ${bank.merciler.slice(0, 4).join(', ')}. ${sure}`,
-      `Sık risk: ${risk}. Delil setinde sıklıkla ${belgeler} öne çıkar. Eksik belge veya yanlış merci, «${k0}» dosyasında süreyi fiilen tüketebilir.`,
-      `Elektronik kanal (e-Devlet, UYAP, kurum portali) uygunsa barkodlu çıktıyı saklayın; fiziki başvuru gerekiyorsa randevu ve asıl evrak listesini peşinen çıkarın.`,
+    s(`${angle}: tanım ve sınır`, [
+      `«${angle}» ifadesi ${cat.toLocaleLowerCase('tr-TR')} pratiğinde sıklıkla şu sorularla birlikte gelir: kim muhatap, hangi şart, hangi belge, hangi süre. Bu spoke bu soruların dar cevabını verir; geniş süreç anlatımını ${pillarHref} adresine bırakır.`,
+      `Yasal çerçeve sıklıkla ${kanunAll} metinleriyle ilişkilidir. Somut madde numarası, fıkra ve bent dosyaya ve yürürlük tarihine göre değişir; /ara ve /mevzuat ile doğrulanmalıdır.`,
+      `Terim karışıklığı (ör. benzer ama farklı kurumlar: haklı/geçerli fesih, zamanaşımı/hak düşürücü süre, itiraz/şikâyet) «${k0}» dosyasında yanlış mercie yol açar. Şüphede ana rehberdeki kavram ayrımına bakın.`,
+    ]),
+    s(`${angle}: pratik usul, merci ve belgeler`, [
+      `Merciler (tipik): ${merci}. ${sure}`,
+      sure2 && sure2 !== sure ? sure2 : `Süre hesabında tebliğ, öğrenme veya işlem tarihi yazılı sabitlenmelidir; e-tebligat kuralları farklı işleyebilir.`,
+      `Sık risk: ${risk}. İkinci tipik hata: ${risk2 || risk}. Delil setinde sıklıkla ${belgeler} öne çıkar. Eksik belge veya yanlış merci, «${k0}» dosyasında süreyi fiilen tüketebilir.`,
+      `Elektronik kanal (e-Devlet, UYAP, kurum portali) uygunsa barkodlu çıktıyı saklayın; fiziki başvuru gerekiyorsa randevu, kimlik, vekâlet ve asıl evrak listesini peşinen çıkarın.`,
       `Hesap, tavan, parasal sınır veya tarife içeren sorularda dönemsel güncellemeyi (Resmî Gazete, kurum duyurusu) kontrol edin. Portal hesaplama araçları kabaca fikir verir; bağlayıcı değildir.`,
-    ], pickN(bank.belgeler, seed + 2, 3)),
+    ], pickN(bank.belgeler, seed + 2, 4)),
+    s('Süre, tebliğ ve ispat notu', [
+      `«${angle}» diliminde bile süre başlangıcı çoğu zaman tebliğ veya öğrenme anına bağlıdır. Usulsüz tebligat iddiasında öğrenme tarihi kanıtlanmalıdır; «görmedim» tek başına yetmeyebilir.`,
+      `İspat yükü somut işleme göre değişir. Yazışma, dekont, bordro, tutanak, ekran görüntüsü zinciri ve resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte güçlenir. Sözlü beyan zayıf kalabilir.`,
+      `Dava şartı (arabuluculuk, idari başvuru vb.) kapsamdaysa atlamak usulden ret riski doğurur. Dar spoke sayfası bu şartı ortadan kaldırmaz; pillar’daki süreç notuna bakın: ${pillarHref}.`,
+    ]),
     s('Sık hata ve yanlış bilinenler', [
       `«Sadece ${angle} önemli, gerisi sonra» yaklaşımı süre ve dava şartı olan işlerde pahalıya mal olur. Önce ana rehberdeki süreç iskeletine bakın: ${pillarHref}.`,
       `Forum ve sosyal medya yorumları somut dosyanızın tebliğ tarihini, mercisini ve delilini bilmez. ${risk}`,
       `Ödeme, feragat veya sulh metnini okumadan imzalamak spoke’un «dar» görünmesine aldanmamalıdır; imza çoğu zaman geniş feragat doğurur.`,
+      `«Garanti sonuç / kesin oran / herkes böyle yapıyor» vaatleri bağlayıcı değildir. Dönemsel tavan, tarife ve parasal sınırlar değişir.`,
     ]),
-    s('İç linkler ve madde arama', [
+    s('İç linkler, madde arama ve sonraki adım', [
       `Ana rehber (pillar): ${pillarHref}`,
       fact?.link
         ? `İlgili araç veya mevzuat: ${fact.link}`
         : `Kanun maddesi arama: /ara · Mevzuat arşivi: /mevzuat · İçtihat: /icthat`,
       `«${k0}» ile ilişkili madde numarasını biliyorsanız doğrudan /mevzuat yolunu kullanın; bilmiyorsanız /ara ile tam metin arayın. Okuma yöntemi: /bilgi/kanun-maddesi-nasil-okunur.`,
+      `Sonraki adım: (1) dar soruyu bu sayfada netleştirin, (2) pillar’da süreci okuyun, (3) belgeleri toplayın, (4) yazılı başvuruyu yapın, (5) sonucu takip edin.`,
     ]),
   ];
 
   const steps = [
     `Sorunuzun gerçekten «${angle}» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (${pillarHref}).`,
     `Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.`,
-    `Gerekli belgeleri toplayın (${pickN(bank.belgeler, seed, 3).join(', ')}).`,
-    `Dar işlem adımını atın; dava şartı varsa (arabuluculuk vb.) atlamayın.`,
+    `Gerekli belgeleri toplayın (${pickN(bank.belgeler, seed, 4).join(', ')}).`,
+    `Doğru mercie karar verin (${pick(bank.merciler, seed, 0)}); dava şartını atlamayın.`,
+    `Dar işlem adımını yazılı atın; dekont/tutanak/başvuru numarasını saklayın.`,
     `Sonucu takip edin; aleyhe gelişmede ana rehberdeki kanun yolu notlarına bakın.`,
   ];
 
   const faqList = [
     faq(
       'Neden ayrı sayfa var?',
-      `Arama niyetini ayırmak için: bu sayfa «${angle}»; genel süreç ve belgeler ${pillarHref} adresindedir. Böylece yamyamlık azalır.`
+      `Arama niyetini ayırmak için: bu sayfa «${angle}»; genel süreç ve belgeler ${pillarHref} adresindedir. Böylece yamyamlık azalır, her URL tek niyete hizmet eder.`
     ),
     faq(
       'Ana rehberi okumadan bu sayfa yeterli midir?',
-      'Dar teknik sorularda kısmen. Süre, feragat, dava veya icra riski varsa ana rehber + güncel mevzuat + gerekirse avukat şarttır.'
+      'Dar teknik sorularda kısmen. Süre, feragat, dava, icra veya idari işlem riski varsa ana rehber + güncel mevzuat + gerekirse avukat şarttır.'
     ),
     faq(
       `«${k0}» için hangi mevzuat?`,
-      `Sıklıkla ${kanunShort}. Somut madde dosyaya göre değişir; /ara ve /mevzuat ile doğrulayın.`
+      `Sıklıkla ${kanunShort} (${kanunAll}). Somut madde dosyaya göre değişir; /ara ve /mevzuat ile doğrulayın.`
     ),
     faq(
       'Süre ne zaman başlar?',
       'Tebliğ, öğrenme veya işlem tarihinden. e-Tebligat kuralları farklı işleyebilir. Bu sayfa kesin gün sayısı vaat etmez.'
+    ),
+    faq(
+      'Hangi belgeler gerekir?',
+      `Tipik set: ${belgeler}. Dosya türüne göre ek istenir; listeyi merci bazında doğrulayın.`
+    ),
+    faq(
+      'Yanlış mercie gidersem ne olur?',
+      'Süre kaybı, usulden ret veya işlemin sonuçsuz kalması riski doğar. Görev-yetki ve dava şartını pillar + mevzuattan kontrol edin.'
     ),
     faq(
       'Bu metin bağlayıcı mıdır?',
@@ -1097,27 +1130,30 @@ export function buildBridgeBody(t, bridge) {
   const fact = TOPIC_FACTS[t.slug];
   const canon = bridge.canonicalPath;
   const k0 = t.keywords?.[0] || t.h1;
+  const k1 = t.keywords?.[1] || k0;
   const lead = fact?.ozet
-    ? `${fact.ozet} Tam resmî madde metni ve akademik şerh şu adrestedir: ${canon}. Bu sayfa yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir.`
-    : `${t.h1} — kısa vatandaş özeti («${k0}»). Resmî metin, fıkra ve akademik şerh: ${canon}. Özet ile madde çelişirse madde metni esastır.`;
+    ? `${fact.ozet} Tam resmî madde metni ve akademik şerh şu adrestedir: ${canon}. Bu sayfa («${k0}» / «${k1}») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.`
+    : `${t.h1} — kısa vatandaş özeti («${k0}», «${k1}»). Resmî metin, fıkra, bent ve akademik şerh: ${canon}. Özet ile madde çelişirse madde metni esastır. Yürürlük tarihi Resmî Gazete / mevzuat.gov.tr ile doğrulanmalıdır.`;
 
   const sections = [
     s('Özet (vatandaş dili)', [
       fact?.ozet ||
         `${t.h1} konusunda ayrıntılı hüküm, fıkra ve bent yapısı mevzuat sayfasındadır. Bu bridge yalnızca arama niyetini karşılamak ve okuyucuyu doğru URL’ye yönlendirmek içindir.`,
-      'Fıkra, bent ve atıf maddeleri atlanmamalıdır. Yürürlük ve değişiklik tarihi Resmî Gazete / mevzuat.gov.tr ile kontrol edilmelidir.',
+      'Fıkra, bent ve atıf maddeleri atlanmamalıdır. Yürürlük ve değişiklik tarihi Resmî Gazete / mevzuat.gov.tr ile kontrol edilmelidir. Tanımlar ve sistematik yer (kısım/bölüm/ayrım) madde okumasının parçasıdır.',
       fact?.onemli?.length
-        ? `Kısa notlar: ${fact.onemli.slice(0, 4).join(' · ')}`
-        : 'Madde okurken sistematik yer (bölüm/ayrım), tanımlar ve atıf zinciri birlikte görülmelidir.',
-    ], fact?.onemli?.slice(0, 4)),
+        ? `Kısa notlar: ${fact.onemli.slice(0, 5).join(' · ')}`
+        : 'Madde okurken sistematik yer (bölüm/ayrım), tanımlar, atıf zinciri ve istisna fıkraları birlikte görülmelidir. Tek cümlelik özet hüküm yerine geçmez.',
+      `«${k0}» araması çoğu zaman hem özet hem de tam metin ister; bu sayfa özeti verir, tam metin ${canon} adresindedir.`,
+    ], fact?.onemli?.slice(0, 5)),
     s('Tam metin ve şerh nerede?', [
       `Kanun maddesinin bağlayıcı metni ve akademik şerh: ${canon}`,
       'Arama: /ara · Mevzuat arşivi: /mevzuat · Okuma rehberi: /bilgi/kanun-maddesi-nasil-okunur',
-      'Süreç odaklı vatandaş rehberleri /bilgi dizinindedir; madde sayfası hüküm ve şerh içindir.',
+      'Süreç odaklı vatandaş rehberleri /bilgi dizinindedir; madde sayfası hüküm ve şerh içindir. Süreç + madde birlikte okunmalıdır.',
     ]),
-    s('Pratik uyarı', [
+    s('Pratik uyarı ve canonical', [
       'Özet ile resmî metin çelişirse resmî metin esastır. Somut uyuşmazlıkta avukat, güncel içtihat ve tebliğ tarihleri değerlendirilmelidir.',
-      'Bu bridge sayfa ranking sinyali olarak madde URL’sine (canonical) yönlendirir; içerik kopyası üretmez.',
+      'Bu bridge sayfa ranking sinyali olarak madde URL’sine (canonical) yönlendirir; içerik kopyası üretmez. Şerh akademik bilgilendirmedir; mahkeme kararı yerine geçmez.',
+      'Av. Fethi Güzel Hukuk Portalı bilgilendirme amaçlıdır; sonuç vaadi yoktur.',
     ]),
   ];
 
@@ -1136,7 +1172,14 @@ export function buildBridgeBody(t, bridge) {
     ),
     faq('Hangisini okumalıyım?', `Karar, atıf ve şerh için ${canon}; hızlı özet için bu sayfa.`),
     faq('Şerh bağlayıcı mıdır?', 'Hayır; akademik bilgilendirmedir. Karar mercie aittir.'),
-    faq('Bu metin yeterli midir?', 'Hayır. Özet amaçlıdır; uygulama için madde metni + süreç rehberi + gerekirse avukat gerekir.'),
+    faq(
+      'Bu metin yeterli midir?',
+      'Hayır. Özet amaçlıdır; uygulama için madde metni + süreç rehberi + gerekirse avukat gerekir.'
+    ),
+    faq(
+      `«${k0}» nerede tam metin?`,
+      `Tam resmî metin ve şerh: ${canon}`
+    ),
   ];
 
   return bodyPack(lead, sections, steps, faqList);

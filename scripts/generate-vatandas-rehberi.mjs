@@ -7,6 +7,7 @@
 import { writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { spawnSync } from 'node:child_process';
 import { EXTRA_ROWS } from './vatandas-topics-extra.mjs';
 import {
   buildDeepBody,
@@ -21,7 +22,7 @@ const __dir = dirname(fileURLToPath(import.meta.url));
 const OUT = join(__dir, '..', 'lib', 'vatandas-rehberi', 'data.ts');
 const UPDATED = '2026-07-28';
 
-/** Wave paketleri kısaysa deep engine’e düş (pillar ≥700, spoke ≥420) */
+/** Wave paketleri kısaysa deep engine’e düş (pillar ≥1000, spoke ≥700) */
 function pickDeepOrCustom(custom, deep, minWords) {
   if (custom && bodyWordCount(custom) >= minWords) return custom;
   return deep;
@@ -228,8 +229,8 @@ function buildArticle(t) {
     ];
   } else if (seo.role === 'pillar') {
     sitemapPriority = 0.95;
-    // Kısa wave paketleri (~100–200 kelime) yerine deep engine (hedef 750+)
-    b = pickDeepOrCustom(getPillarBody(t.slug), buildDeepBody(t), 700);
+    // Kısa wave paketleri yerine deep engine (hedef ≥1000)
+    b = pickDeepOrCustom(getPillarBody(t.slug), buildDeepBody(t), 1000);
     // pillar related: own spokes first
     if (seo.cluster?.spokes) {
       const spokeSlugs = Object.keys(seo.cluster.spokes);
@@ -250,8 +251,8 @@ function buildArticle(t) {
       angle: sm.angle,
       clusterLabel: seo.cluster?.label,
     });
-    // Elle derinleştirilmiş spoke (ör. ödeme emrine itiraz) yeterince uzunsa korunur
-    b = pickDeepOrCustom(getPillarBody(t.slug), spokeBuilt, 420);
+    // Elle derinleştirilmiş spoke yeterince uzunsa korunur; aksi halde deep spoke (≥700)
+    b = pickDeepOrCustom(getPillarBody(t.slug), spokeBuilt, 700);
     related = [seo.pillar, ...related.filter((r) => r !== seo.pillar)];
     links = [
       { label: 'Ana rehber (tam süreç)', href: `/bilgi/${seo.pillar}` },
@@ -371,3 +372,13 @@ writeFileSync(OUT, file, 'utf8');
 console.log('Wrote', OUT);
 console.log('Articles:', articles.length);
 console.log('Categories:', [...new Set(articles.map((a) => a.category))].join(', '));
+
+// Hard gate: 553 sayfanın tamamı eşik üstü olmalı — tek ince sayfa = fail
+const gate = spawnSync(process.execPath, [join(__dir, 'vatandas-depth-gate.mjs')], {
+  cwd: join(__dir, '..'),
+  stdio: 'inherit',
+});
+if (gate.status !== 0) {
+  console.error('generate-vatandas-rehberi: depth gate failed — not shipping thin pages');
+  process.exit(gate.status || 1);
+}
