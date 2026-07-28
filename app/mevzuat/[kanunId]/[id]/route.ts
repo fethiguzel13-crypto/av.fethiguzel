@@ -1,17 +1,34 @@
 /**
- * Crawlable madde HTML without React SSR (avoids Vercel lambda 500s).
- * Googlebot receives unique title, canonical, JSON-LD, full resmi metin.
+ * Edge Runtime madde HTML — bypasses Node lambda file-logger 500s.
+ * Fetches gzip packs from CDN, returns unique crawlable HTML for Googlebot.
  */
-import {
-  SITE_ORIGIN,
-  getArticleData,
-  normalizeMaddeId,
-} from '@/lib/api';
-
+export const runtime = 'edge';
 export const revalidate = 86400;
 export const dynamicParams = true;
 
+const SITE = 'https://www.avfethiguzel.com';
+
+type PackArticle = {
+  title: string;
+  kanun: string;
+  maddeNo: number;
+  official: string;
+  commentary: string;
+};
+type Pack = Record<string, PackArticle>;
+
 type Ctx = { params: Promise<{ kanunId: string; id: string }> };
+
+function normalizeMaddeId(id: string): string {
+  const raw = decodeURIComponent(String(id || '')).trim();
+  if (!raw) return raw;
+  const lower = raw.toLowerCase();
+  if (/^madde[-_]/.test(lower)) return lower.replace(/_/g, '-');
+  if (/^\d+[a-z]?$/i.test(raw)) return `madde-${lower}`;
+  const spaced = lower.match(/^madde\s+(\d+[a-z]?)$/i);
+  if (spaced) return `madde-${spaced[1]}`;
+  return lower.replace(/_/g, '-');
+}
 
 function esc(s: string) {
   return String(s || '')
@@ -21,33 +38,111 @@ function esc(s: string) {
     .replace(/"/g, '&quot;');
 }
 
-function stripTags(html: string) {
-  return String(html || '')
-    .replace(/<[^>]+>/g, ' ')
+function plain(md: string) {
+  return String(md || '')
+    .replace(/[#>*_`[\]()]/g, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }
 
-function buildHtml(opts: {
-  kanunId: string;
-  id: string;
-  code: string;
-  kanun: string;
-  maddeNo: number;
-  h1: string;
-  officialHtml: string;
-  commentaryHtml: string;
-}) {
-  const { kanunId, id, code, kanun, maddeNo: n, h1, officialHtml, commentaryHtml } = opts;
-  const plain = stripTags(officialHtml);
-  const lead = plain.replace(/^.*?Madde\s+\d+\s*[-–—:]?\s*/i, '').trim().slice(0, 130);
-  const title = lead.length > 8
-    ? `${code} Madde ${n} (${code} m. ${n}) ${lead.slice(0, 40)} | Av. Fethi Güzel`
-    : `${code} Madde ${n} | ${code} m. ${n} Resmî Metin ve Şerh | Av. Fethi Güzel`;
+function mdLite(md: string) {
+  let t = String(md || '');
+  t = t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+  t = t.replace(/^### (.+)$/gm, '<h3>$1</h3>');
+  t = t.replace(/^## (.+)$/gm, '<h2>$1</h2>');
+  t = t.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+  t = t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  t = t.replace(/\*(.+?)\*/g, '<em>$1</em>');
+  t = t.replace(/\n{2,}/g, '</p><p>');
+  t = t.replace(/\n/g, '<br/>');
+  return `<p>${t}</p>`;
+}
+
+async function gunzipJson(buf: ArrayBuffer): Promise<Pack> {
+  const bytes = new Uint8Array(buf);
+  const isGzip = bytes.length >= 2 && bytes[0] === 0x1f && bytes[1] === 0x8b;
+  if (!isGzip) {
+    return JSON.parse(new TextDecoder().decode(bytes)) as Pack;
+  }
+  // Edge-native gzip decompress
+  // @ts-expect-error DecompressionStream is available on Edge
+  const ds = new DecompressionStream('gzip');
+  const stream = new Response(buf).body!.pipeThrough(ds);
+  const text = await new Response(stream).text();
+  return JSON.parse(text) as Pack;
+}
+
+async function loadPack(kanunId: string): Promise<Pack> {
+  const kid = encodeURIComponent(kanunId);
+  const urls = [
+    `${SITE}/content-packs/${kid}.json.gz`,
+    `https://cdn.jsdelivr.net/gh/fethiguzel13-crypto/av.fethiguzel@main/content-packs/${kid}.json.gz`,
+    `https://raw.githubusercontent.com/fethiguzel13-crypto/av.fethiguzel/main/content-packs/${kid}.json.gz`,
+  ];
+  let last = 'no url';
+  for (const url of urls) {
+    try {
+      const res = await fetch(url, { next: { revalidate: 86400 } });
+      if (!res.ok) {
+        last = `${url} HTTP ${res.status}`;
+        continue;
+      }
+      const ab = await res.arrayBuffer();
+      if (ab.byteLength < 64) {
+        last = `${url} empty`;
+        continue;
+      }
+      return await gunzipJson(ab);
+    } catch (e) {
+      last = e instanceof Error ? e.message : String(e);
+    }
+  }
+  throw new Error(`pack load failed: ${last}`);
+}
+
+function resolveArticle(pack: Pack, id: string): { key: string; article: PackArticle } | null {
+  const candidates = Array.from(
+    new Set([normalizeMaddeId(id), id, id.toLowerCase(), `madde-${id}`])
+  );
+  for (const key of candidates) {
+    if (pack[key]) return { key, article: pack[key] };
+  }
+  const n = parseInt(String(id).replace(/^madde-/i, ''), 10);
+  if (!Number.isNaN(n)) {
+    for (const [key, article] of Object.entries(pack)) {
+      if (article.maddeNo === n) return { key, article };
+    }
+  }
+  return null;
+}
+
+function buildHtml(
+  kanunId: string,
+  id: string,
+  article: PackArticle
+): string {
+  const code = kanunId.toUpperCase();
+  const n = article.maddeNo;
+  const kanun = article.kanun || code;
+  const h1 = (article.title || `${kanun} Madde ${n}`).trim();
+  const officialPlain = plain(article.official);
+  const lead = officialPlain
+    .replace(/^.*?Madde\s+\d+\s*[-–—:]?\s*/i, '')
+    .trim()
+    .slice(0, 130);
+  const title =
+    lead.length > 8
+      ? `${code} Madde ${n} (${code} m. ${n}) ${lead.slice(0, 40)} | Av. Fethi Güzel`
+      : `${code} Madde ${n} | ${code} m. ${n} Resmî Metin ve Şerh | Av. Fethi Güzel`;
   const description = lead
     ? `${code} madde ${n} / ${code} m. ${n} (${kanun}): ${lead}${lead.length >= 120 ? '…' : ''} Akademik şerh — Av. Fethi Güzel.`
     : `${kanun} Madde ${n} (${code} m. ${n}) resmî metni ve akademik şerh. Av. Fethi Güzel.`;
-  const canonical = `${SITE_ORIGIN}/mevzuat/${kanunId}/${id}`;
+  const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
+  const officialHtml = mdLite(article.official);
+  const commentaryHtml = article.commentary
+    ? mdLite(article.commentary)
+    : '<p>Bu madde için şerh pakette yer alır.</p>';
+
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -62,12 +157,12 @@ function buildHtml(opts: {
         author: {
           '@type': 'Person',
           name: 'Av. Fethi Güzel',
-          url: `${SITE_ORIGIN}/avukat-fethi-guzel`,
+          url: `${SITE}/avukat-fethi-guzel`,
         },
         publisher: {
           '@type': 'Organization',
           name: 'Av. Fethi Güzel Hukuk Portalı',
-          url: SITE_ORIGIN,
+          url: SITE,
         },
         mainEntityOfPage: canonical,
         about: {
@@ -81,8 +176,8 @@ function buildHtml(opts: {
       {
         '@type': 'BreadcrumbList',
         itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: SITE_ORIGIN },
-          { '@type': 'ListItem', position: 2, name: 'Mevzuat', item: `${SITE_ORIGIN}/mevzuat` },
+          { '@type': 'ListItem', position: 1, name: 'Ana Sayfa', item: SITE },
+          { '@type': 'ListItem', position: 2, name: 'Mevzuat', item: `${SITE}/mevzuat` },
           { '@type': 'ListItem', position: 3, name: `${code} Madde ${n}`, item: canonical },
         ],
       },
@@ -124,24 +219,24 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 .topbar{display:flex;flex-wrap:wrap;gap:.75rem;justify-content:space-between;align-items:center;padding:.85rem 1.1rem;background:rgba(244,241,234,.95);border-bottom:1px solid rgba(0,0,0,.07);position:sticky;top:0;z-index:5}
 .topbar a.brand{font-weight:800;color:#1C1C1C;font-size:.95rem}
 .topbar nav a{margin-left:.85rem;font-size:.8rem;font-weight:600;color:rgba(28,28,28,.65)}
-.prose p{margin:.55rem 0} .prose h2,.prose h3{margin:1rem 0 .4rem}
+.prose p{margin:.55rem 0}
 </style>
 </head>
 <body>
 <header class="topbar">
-  <a class="brand" href="${SITE_ORIGIN}/">Av. Fethi Güzel</a>
+  <a class="brand" href="${SITE}/">Av. Fethi Güzel</a>
   <nav>
-    <a href="${SITE_ORIGIN}/mevzuat">Mevzuat</a>
-    <a href="${SITE_ORIGIN}/ara">Ara</a>
-    <a href="${SITE_ORIGIN}/bilgi">Rehber</a>
-    <a href="${SITE_ORIGIN}/avukat-fethi-guzel">Profil</a>
+    <a href="${SITE}/mevzuat">Mevzuat</a>
+    <a href="${SITE}/ara">Ara</a>
+    <a href="${SITE}/bilgi">Rehber</a>
+    <a href="${SITE}/avukat-fethi-guzel">Profil</a>
   </nav>
 </header>
 <main>
 <nav class="nav" aria-label="Konum">
-<a href="${SITE_ORIGIN}/">Ana Sayfa</a> ·
-<a href="${SITE_ORIGIN}/mevzuat">Mevzuat</a> ·
-<a href="${SITE_ORIGIN}/ara?q=${encodeURIComponent(code + ' madde ' + n)}">${code}</a> ·
+<a href="${SITE}/">Ana Sayfa</a> ·
+<a href="${SITE}/mevzuat">Mevzuat</a> ·
+<a href="${SITE}/ara?q=${encodeURIComponent(code + ' madde ' + n)}">${code}</a> ·
 Madde ${n}
 </nav>
 <p class="badge">${esc(kanun)}</p>
@@ -157,16 +252,16 @@ resmî hükmü ile akademik şerhi yer alır — <strong>Av. Fethi Güzel</stron
 </section>
 <section class="box com">
 <h2 style="font-size:.72rem;letter-spacing:.14em;text-transform:uppercase;color:#C45A38;margin:0 0 .75rem">Akademik yorum ve analiz — ${code} m. ${n} şerhi</h2>
-<article class="prose">${commentaryHtml || '<p>Bu madde için şerh pakette yer alır.</p>'}</article>
+<article class="prose">${commentaryHtml}</article>
 </section>
 <aside class="muted" style="font-size:.8rem;margin-top:1.4rem">
 Kaynak ve uyarı: Bilgilendirme amaçlıdır; Resmî Gazete / mevzuat.gov.tr esas alınmalıdır.
 Şerh akademik niteliktedir. Arama: ${code} madde ${n}, ${code} m. ${n}, Fethi Güzel.
 </aside>
 <p style="margin-top:1.35rem;font-size:.9rem">
-<a href="${SITE_ORIGIN}/mevzuat">← Tüm mevzuat</a> ·
-<a href="${SITE_ORIGIN}/ara?q=${encodeURIComponent(code + ' madde ' + n)}">Benzer maddelerde ara</a> ·
-<a href="${SITE_ORIGIN}/avukat-fethi-guzel">Av. Fethi Güzel</a>
+<a href="${SITE}/mevzuat">← Tüm mevzuat</a> ·
+<a href="${SITE}/ara?q=${encodeURIComponent(code + ' madde ' + n)}">Benzer maddelerde ara</a> ·
+<a href="${SITE}/avukat-fethi-guzel">Av. Fethi Güzel</a>
 </p>
 </main>
 </body>
@@ -182,25 +277,17 @@ export async function GET(_req: Request, ctx: Ctx) {
     return new Response('Not found', { status: 404 });
   }
 
-  // Canonical redirect for bare numbers etc.
-  if (rawId !== id || rawKanun !== kanunId) {
-    return Response.redirect(`${SITE_ORIGIN}/mevzuat/${kanunId}/${id}`, 308);
+  if (rawId !== id || String(rawKanun) !== kanunId) {
+    return Response.redirect(`${SITE}/mevzuat/${kanunId}/${id}`, 308);
   }
 
   try {
-    const article = await getArticleData(kanunId, id);
-    const code = kanunId.toUpperCase();
-    const html = buildHtml({
-      kanunId,
-      id: article.id,
-      code,
-      kanun: article.kanun || code,
-      maddeNo: article.maddeNo,
-      h1: article.title?.trim() || `${article.kanun} Madde ${article.maddeNo}`,
-      officialHtml: article.officialHtml,
-      commentaryHtml: article.commentaryHtml,
-    });
-
+    const pack = await loadPack(kanunId);
+    const resolved = resolveArticle(pack, id);
+    if (!resolved) {
+      return new Response(`Madde bulunamadı: ${kanunId}/${id}`, { status: 404 });
+    }
+    const html = buildHtml(kanunId, resolved.key, resolved.article);
     return new Response(html, {
       status: 200,
       headers: {
@@ -210,22 +297,20 @@ export async function GET(_req: Request, ctx: Ctx) {
       },
     });
   } catch (e) {
-    const msg = e instanceof Error ? e.message : 'load failed';
-    // Soft HTML 503 so crawlers retry; avoid opaque Next 500 shell
-    const html = `<!DOCTYPE html><html lang="tr"><head><meta charset="utf-8"/><title>Madde yükleniyor | Av. Fethi Güzel</title>
-<meta name="robots" content="noindex"/>
-</head><body style="font-family:system-ui;padding:2rem">
-<p>Madde geçici olarak yüklenemedi. Lütfen birkaç saniye sonra yenileyin.</p>
-<p><a href="${SITE_ORIGIN}/mevzuat">Mevzuat arşivi</a> · <a href="${SITE_ORIGIN}/ara">Ara</a></p>
-<!-- ${esc(msg)} -->
-</body></html>`;
-    return new Response(html, {
-      status: 503,
-      headers: {
-        'Content-Type': 'text/html; charset=utf-8',
-        'Cache-Control': 'no-store',
-        'Retry-After': '30',
-      },
-    });
+    const msg = e instanceof Error ? e.message : 'error';
+    return new Response(
+      `<!DOCTYPE html><html lang="tr"><head><meta charset="utf-8"/><title>Yükleniyor | Av. Fethi Güzel</title><meta name="robots" content="noindex"/></head>
+<body style="font-family:system-ui;padding:2rem"><p>Madde geçici olarak yüklenemedi; lütfen yenileyin.</p>
+<p><a href="${SITE}/mevzuat">Mevzuat</a> · <a href="${SITE}/ara">Ara</a></p>
+<!-- ${esc(msg)} --></body></html>`,
+      {
+        status: 503,
+        headers: {
+          'Content-Type': 'text/html; charset=utf-8',
+          'Cache-Control': 'no-store',
+          'Retry-After': '15',
+        },
+      }
+    );
   }
 }
