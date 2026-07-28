@@ -16,7 +16,8 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - Özel hukuk alanında doktora çalışmaları (medeni, borçlar, ticaret, usul ekseni)
 - Yayımlanmış monografi: Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi Yoluyla Duruşma İcrası (e-duruşma) — Seçkin Yayıncılık — https://www.seckin.com.tr/kitap/614840900
 - Dil: Türkçe (ana dil); İngilizce (iyi düzey / professional working proficiency)
-- Açık erişim portal: 45+ kanun, 7.800+ madde + akademik şerh, 30 hesaplama aracı
+- Açık erişim portal: 45+ kanun, 7.800+ madde + akademik şerh, 500+ vatandaş SEO rehberi (/bilgi), 30 hesaplama aracı
+- Arama niyetleri: kanun maddesi, mevzuat arama, kıdem/nafaka/icra/boşanma/kira vb. vatandaş soruları
 
 ## Özet (AI / LLM context)
 
@@ -39,6 +40,8 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - Mevzuat arşivi: https://avfethiguzel.com/mevzuat
 - Günlük içtihat: https://avfethiguzel.com/icthat
 - Kavram sözlüğü: https://avfethiguzel.com/kavram (satım, kıdem, nafaka…)
+- Vatandaş bilgi rehberi (500+ sık aranan konu, ana sayfada değil): https://avfethiguzel.com/bilgi
+- Örnek rehberler: /bilgi/kidem-tazminati-nasil-alinir · /bilgi/kanun-maddesi-nasil-okunur · /bilgi/mevzuat-nasil-aranir · /bilgi/bosanma-davasi-nasil-acilir
 - Hesaplama hub: https://avfethiguzel.com/hesaplama
 - Örnek araçlar: /hesaplama/kidem · /hesaplama/miras · /hesaplama/faiz · /hesaplama/vekalet
 - Tarife güncellemeleri: https://avfethiguzel.com/tarife-guncellemeleri

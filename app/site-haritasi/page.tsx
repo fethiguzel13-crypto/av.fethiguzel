@@ -104,7 +104,7 @@ export default function SiteHaritasiPage() {
                     <p className="text-xs text-charcoal/45 mb-3">
                         Ana sayfada öne çıkarılmaz; Google ve bu harita üzerinden erişilir.
                     </p>
-                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-[28rem] overflow-y-auto pr-2">
+                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2 max-h-[36rem] overflow-y-auto pr-2">
                         {VATANDAS_ARTICLES.map((a) => (
                             <li key={a.slug}>
                                 <Link href={`/bilgi/${a.slug}`} className="text-sm text-charcoal/70 hover:text-accent">

@@ -5,14 +5,23 @@ import Footer from "@/components/Footer";
 import MevzuatSearch from "@/components/MevzuatSearch";
 
 export const metadata: Metadata = {
-    title: "Site ve Mevzuat Ara — 7800+ Madde, Şerh, Hesaplama",
+    title: "Kanun Maddesi Arama — 7800+ Madde, Şerh, Hesaplama",
     description:
-        "Tüm kanun maddelerinde tam metin arama: satım, satış, kıdem, nafaka… TBK, TMK, TTK, TCK ve 40+ kanun + hesaplama araçları.",
-    alternates: { canonical: "https://avfethiguzel.com/ara" },
+        "Kanun maddesi arama motoru: TBK, TMK, TTK, TCK, HMK, İİK maddelerinde tam metin arama. Satım, kıdem, nafaka… 40+ kanun + şerh + hesaplama.",
+    keywords: [
+        "kanun maddesi arama",
+        "kanun maddesi",
+        "mevzuat arama",
+        "TBK madde ara",
+        "TCK madde ara",
+        "madde metni",
+        "akademik şerh arama",
+    ],
+    alternates: { canonical: "https://www.avfethiguzel.com/ara" },
     openGraph: {
-        title: "Site ve Mevzuat Ara | Av. Fethi Güzel",
-        description: "Madde metninde kelime kelime arama; ilgili tüm kanunlar listelenir.",
-        url: "https://avfethiguzel.com/ara",
+        title: "Kanun Maddesi Arama | Av. Fethi Güzel",
+        description: "Kanun maddesi arama: madde metninde kelime kelime tarama; ilgili tüm kanunlar ve şerhler listelenir.",
+        url: "https://www.avfethiguzel.com/ara",
     },
 };
 
@@ -23,14 +32,16 @@ export default function AraPage() {
             <Navbar />
             <main className="pt-36 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
                 <header className="mb-10 sm:mb-14 text-center">
-                    <p className="section-label mb-3">Tam metin arama</p>
+                    <p className="section-label mb-3">Kanun maddesi arama motoru</p>
                     <h1 className="text-3xl sm:text-5xl text-charcoal font-bold mb-4 text-balance">
-                        Site &amp; Mevzuat <span className="font-drama italic text-accent">Ara</span>
+                        Kanun Maddesi <span className="font-drama italic text-accent">Ara</span>
                     </h1>
                     <p className="text-charcoal/55 max-w-xl mx-auto text-base sm:text-lg leading-relaxed">
-                        Örn. <strong className="text-charcoal/70 font-semibold">satım</strong> yazın —
-                        TBK taşınır/taşınmaz satışı, ilgili tüm maddeler ve hesaplama sayfaları listelenir.
-                        Arama resmî madde metninin tamamında yapılır.
+                        Kanun maddesi aramak için kelime veya madde no yazın. Örn.{' '}
+                        <strong className="text-charcoal/70 font-semibold">satım</strong>,{' '}
+                        <strong className="text-charcoal/70 font-semibold">TBK 125</strong>,{' '}
+                        <strong className="text-charcoal/70 font-semibold">kıdem</strong> —
+                        ilgili madde metinleri, şerhler ve hesaplama araçları listelenir.
                     </p>
                 </header>
                 <Suspense fallback={<div className="h-40 animate-pulse rounded-2xl bg-charcoal/5" />}>

@@ -11,13 +11,23 @@ import { BookOpen } from 'lucide-react';
 const SITE = 'https://www.avfethiguzel.com';
 
 export const metadata: Metadata = {
-  title: 'Vatandaş Bilgi Rehberi | Sık Sorulan Hukuki Konular',
+  title: 'Vatandaş Bilgi Rehberi | 500+ Sık Aranan Hukuki Konu',
   description:
-    '100+ vatandaş rehberi: emlak vergisi, veraset ilamı, trafik cezası, idari/hukuk davası, boşanma, icra, kira, iş, SGK ve daha fazlası. Av. Fethi Güzel Hukuk Portalı.',
+    '500+ vatandaş rehberi: emlak vergisi, veraset, boşanma, icra, kira, kıdem, trafik cezası, kanun maddesi, e-Devlet ve Google’da en çok aranan hukuki konular. Av. Fethi Güzel.',
+  keywords: [
+    'hukuki bilgi',
+    'vatandaş rehberi',
+    'sık sorulan hukuki sorular',
+    'kanun maddesi',
+    'dava nasıl açılır',
+    'icra takibi',
+    'kıdem tazminatı',
+    'boşanma davası',
+  ],
   alternates: { canonical: `${SITE}/bilgi` },
   openGraph: {
-    title: 'Vatandaş Bilgi Rehberi',
-    description: 'Google’da en çok aranan hukuki ve idari konularda sade, detaylı bilgilendirme.',
+    title: 'Vatandaş Bilgi Rehberi | 500+ Konu',
+    description: 'Google’da en çok aranan 500+ hukuki ve idari konuda sade, detaylı bilgilendirme.',
     url: `${SITE}/bilgi`,
   },
   robots: { index: true, follow: true },
@@ -46,8 +56,8 @@ export default function BilgiIndexPage() {
           bilgilendirme amaçlıdır; somut dosyada avukata danışılmalıdır.
         </p>
         <p className="text-[12px] text-charcoal/45 mb-10">
-          {VATANDAS_ARTICLES.length} rehber (Google’da sık aranan vatandaş soruları) · Ana sayfada
-          öne çıkarılmaz; sitemap ve bu dizin üzerinden erişilir.
+          {VATANDAS_ARTICLES.length} rehber · Türkiye’de en çok aranan hukuki/idari konular · Ana
+          sayfada öne çıkarılmaz; sitemap.xml ve bu dizin üzerinden indekslenir.
         </p>
 
         <div className="space-y-10">

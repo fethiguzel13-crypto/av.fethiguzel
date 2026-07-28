@@ -55,15 +55,15 @@ export default function Hero() {
           </div>
 
           <h1 className="hero-fade text-[2.35rem] sm:text-5xl md:text-6xl lg:text-[4.25rem] text-cream font-bold leading-[1.05] mb-5 sm:mb-6 tracking-tight text-balance">
-            <span className="block font-heading">Kanunlar, İçtihatlar</span>
+            <span className="block font-heading">Kanun Maddesi, İçtihat</span>
             <span className="block font-drama italic text-accent mt-1 sm:mt-2 font-medium">
               ve Hesaplama Araçları.
             </span>
           </h1>
 
           <p className="hero-fade text-cream/70 text-base sm:text-lg max-w-xl mb-8 sm:mb-10 font-sans leading-relaxed">
-            Özel hukuk doktora çalışmaları · e-duruşma monografisi · iyi düzeyde İngilizce.
-            45+ kanun, 7.800+ madde ve akademik şerh; günlük içtihat ve hesaplama araçları.
+            Kanun maddesi arama · akademik şerh · e-duruşma monografisi.
+            45+ kanun, 7.800+ madde metni; günlük içtihat ve 30 hesaplama aracı.
             Van · Erciş avukat ve arabulucu.
           </p>
 
@@ -106,7 +106,7 @@ export default function Hero() {
               className="group flex items-center justify-center gap-2 sm:gap-3 bg-accent text-white px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all shadow-lg shadow-accent/30 hover:bg-accent/90 hover:-translate-y-0.5"
             >
               <BookOpen size={16} className="shrink-0" />
-              <span>MEVZUAT ARA</span>
+              <span>KANUN MADDESİ ARA</span>
               <ArrowRight size={16} className="shrink-0 transition-transform group-hover:translate-x-1" />
             </Link>
             <Link

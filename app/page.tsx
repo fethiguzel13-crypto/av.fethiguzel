@@ -14,15 +14,24 @@ import Footer from '@/components/Footer';
 import StickyMobileCta from '@/components/StickyMobileCta';
 
 export const metadata: Metadata = {
-  title: 'Av. Fethi Güzel | Mevzuat, Akademik Şerh, İçtihat & Hukuki Hesaplama',
+  title: 'Av. Fethi Güzel | Kanun Maddesi Arama, Şerh, İçtihat & Hesaplama',
   description:
-    'Av. Fethi Güzel — özel hukuk doktora çalışmaları, e-duruşma kitabı, İngilizce. 7.800+ madde şerhi, günlük içtihat, 30 hesaplama aracı. Van · Erciş avukat · açık erişim hukuk kütüphanesi.',
-  alternates: { canonical: 'https://avfethiguzel.com' },
+    'Kanun maddesi arama: 7.800+ madde + akademik şerh, günlük içtihat, 30 hesaplama aracı. TBK, TMK, TCK, HMK, İİK. Av. Fethi Güzel · Van · Erciş · açık erişim hukuk kütüphanesi.',
+  keywords: [
+    'kanun maddesi',
+    'kanun maddesi arama',
+    'mevzuat arama',
+    'Avukat Fethi Güzel',
+    'Van avukat',
+    'Erciş avukat',
+    'akademik şerh',
+  ],
+  alternates: { canonical: 'https://www.avfethiguzel.com' },
   openGraph: {
-    title: 'Av. Fethi Güzel Hukuk Portalı | Mevzuat, Şerh & Hesaplama',
+    title: 'Av. Fethi Güzel | Kanun Maddesi, Şerh & Hesaplama',
     description:
-      'Açık erişimli mevzuat bankası, akademik şerhler, günlük içtihat ve hukuki hesaplama. Özel hukuk araştırması · e-duruşma monografisi · Van Erciş.',
-    url: 'https://avfethiguzel.com',
+      'Kanun maddesi arama, akademik şerh, günlük içtihat ve hukuki hesaplama. Açık erişim dijital hukuk arşivi · Van Erciş.',
+    url: 'https://www.avfethiguzel.com',
   },
 };
 

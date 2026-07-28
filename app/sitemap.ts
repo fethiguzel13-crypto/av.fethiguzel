@@ -72,13 +72,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.82,
   }));
 
-  // Vatandaş SEO bilgilendirme rehberleri (/bilgi/*) — ana sayfada değil, arama motoru için
+  // Vatandaş SEO bilgilendirme rehberleri (/bilgi/*) — ana sayfada değil; 500+ konu, arama motoru için
   const { getAllVatandasSlugs } = await import('@/lib/vatandas-rehberi');
   const bilgiRoutes: MetadataRoute.Sitemap = getAllVatandasSlugs().map((slug) => ({
     url: `${baseUrl}/bilgi/${slug}`,
     lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.9,
+    changeFrequency: 'weekly' as const,
+    priority: 0.88,
   }));
 
   // 1b. İlçe/İl Avukat Sayfaları (yerel SEO — Türkiye haritası kökleri)

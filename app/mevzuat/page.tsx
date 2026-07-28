@@ -9,15 +9,27 @@ import MevzuatSearch from '@/components/MevzuatSearch';
 import { BookOpen, Search } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Mevzuat ve Akademik Şerh Bankası | 7800+ Madde',
+  title: 'Kanun Maddesi ve Mevzuat Arama | 7800+ Madde + Şerh',
   description:
-    '7.800+ kanun maddesi ve akademik şerh. TBK, TMK, TTK, TCK, HMK, İİK, VUK, İş Kanunu ve 40+ kanun — madde metni ile yorum aynı sayfada. Ücretsiz açık erişim.',
-  alternates: { canonical: 'https://avfethiguzel.com/mevzuat' },
+    'Kanun maddesi ara ve oku: 7.800+ madde metni + akademik şerh. TBK, TMK, TTK, TCK, HMK, İİK, VUK, İş Kanunu ve 40+ kanun — ücretsiz açık erişim mevzuat bankası.',
+  keywords: [
+    'kanun maddesi',
+    'kanun maddesi arama',
+    'mevzuat arama',
+    'TBK madde',
+    'TMK madde',
+    'TCK madde',
+    'HMK madde',
+    'İİK madde',
+    'akademik şerh',
+    'mevzuat bankası',
+  ],
+  alternates: { canonical: 'https://www.avfethiguzel.com/mevzuat' },
   openGraph: {
-    title: 'Mevzuat ve Akademik Şerh Bankası',
+    title: 'Kanun Maddesi ve Mevzuat Bankası | 7800+ Madde + Şerh',
     description:
-      '45+ kanun, 7.800+ madde ve akademik şerh. Türkiye’nin açık erişimli dijital hukuk arşivi.',
-    url: 'https://avfethiguzel.com/mevzuat',
+      'Kanun maddesi arama: 45+ kanun, 7.800+ madde metni ve akademik şerh. Açık erişim dijital hukuk arşivi.',
+    url: 'https://www.avfethiguzel.com/mevzuat',
   },
 };
 
@@ -36,13 +48,13 @@ export default async function MevzuatPage() {
 
       <main className="pt-40 pb-20 px-6 max-w-7xl mx-auto">
         <header className="mb-12 sm:mb-16 text-center">
-          <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Dijital Hukuk Kütüphanesi</h2>
+          <h2 className="text-accent font-heading text-sm tracking-widest uppercase mb-4">Kanun maddesi · Mevzuat arama</h2>
           <h1 className="text-4xl md:text-6xl text-charcoal font-bold mb-6">
-            Mevzuat ve <span className="font-drama italic text-accent">Şerh Bankası</span>
+            Kanun Maddesi ve <span className="font-drama italic text-accent">Şerh Bankası</span>
           </h1>
           <p className="text-charcoal/60 max-w-2xl mx-auto text-lg mb-10">
-            Medeni, borçlar, ticaret, ceza, usul, vergi, iş ve idare hukuku mevzuatı;
-            madde metni ile akademik şerh aynı sayfada. 45+ kanun, 7800+ madde.
+            Kanun maddesi arayın: TBK, TMK, TTK, TCK, HMK, İİK ve 40+ kanun —
+            resmî madde metni ile akademik şerh aynı sayfada. 7.800+ madde, ücretsiz açık erişim.
           </p>
           <div className="max-w-3xl mx-auto mb-6">
             <MevzuatSearch compact />
