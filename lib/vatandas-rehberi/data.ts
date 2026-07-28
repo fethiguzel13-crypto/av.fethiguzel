@@ -32,7 +32,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "Emlak vergisi, Türkiye’de taşınmaz (konut, işyeri, arsa) malikinin ilgili belediyeye ödemekle yükümlü olduğu yıllık bir vergidir. Matrah vergi değeri üzerinden hesaplanır; büyükşehir ve diğer belediyelerde oranlar ile muafiyet/indirim şartları (engellilik, şehit yakını, küçük konut vb.) döneme göre değişebilir. Bu ana rehber «emlak vergisi nedir», «emlak vergisi nasıl ödenir» ve «emlak vergisi oranları» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Emlak vergisi, Türkiye’de taşınmaz (konut, işyeri, arsa) malikinin ilgili belediyeye ödemekle yükümlü olduğu yıllık bir vergidir. Matrah vergi değeri üzerinden hesaplanır; büyükşehir ve diğer belediyelerde oranlar ile muafiyet/indirim şartları (engellilik, şehit yakını, küçük… Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Emlak vergisi nedir? Nasıl hesaplanır ve ödenir: hukuki çerçeve ve arama niyeti",
@@ -68,19 +68,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «emlak vergisi nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -308,7 +308,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«emlak vergisi nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "veraset-ilami-nasil-alinir",
@@ -341,7 +341,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "Veraset ilamı (mirasçılık belgesi), ölen kişinin yasal mirasçılarını ve miras paylarını gösteren resmî belgedir. e-Devlet, noter veya sulh hukuk mahkemesi yollarından alınabilir; taşınmaz devri, banka ve araç işlemlerinde sıklıkla istenir. Bu ana rehber «veraset ilamı nasıl alınır», «mirasçılık belgesi» ve «veraset e-devlet» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Veraset ilamı (mirasçılık belgesi), ölen kişinin yasal mirasçılarını ve miras paylarını gösteren resmî belgedir. e-Devlet, noter veya sulh hukuk mahkemesi yollarından alınabilir; taşınmaz devri, banka ve araç işlemlerinde sıklıkla istenir. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Veraset ilamı nasıl alınır: hukuki çerçeve ve arama niyeti",
@@ -376,19 +376,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «veraset ilamı nasıl alınır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -616,7 +616,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«veraset ilamı nasıl alınır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "trafik-cezasina-itiraz",
@@ -649,7 +649,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=trafik"
       }
     ],
-    "lead": "Trafik idari para cezasına itiraz, tebliğden itibaren yasal süre içinde yetkili mercie (çoğu halde sulh ceza hâkimliği veya ilgili usul) yapılır. EDS/HGS ve e-Devlet sorguları cezanın dayanağını görmek için kullanılır; peşin ödeme indirimi ile itiraz stratejisi birlikte değerlendirilmelidir. Bu ana rehber «trafik cezasına itiraz», «EDS ceza itiraz» ve «trafik cezası süresi» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Trafik idari para cezasına itiraz, tebliğden itibaren yasal süre içinde yetkili mercie (çoğu halde sulh ceza hâkimliği veya ilgili usul) yapılır. EDS/HGS ve e-Devlet sorguları cezanın dayanağını görmek için kullanılır; peşin ödeme indirimi ile itiraz stratejisi birlikte değerl… Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Trafik cezasına itiraz nasıl yapılır: hukuki çerçeve ve arama niyeti",
@@ -683,19 +683,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «trafik cezasına itiraz» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -923,7 +923,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "«trafik cezasına itiraz» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "idari-dava-nasil-acilir",
@@ -956,7 +956,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/icthat"
       }
     ],
-    "lead": "İdari dava nasıl açılır; idare alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla İYUK (2577), İdare hukuku genel ilkeleri, 4982 Bilgi Edinme hükümleriyle çizilir; başvuru mercileri arasında üst makam, idare/vergi mahkemesi ve CİMER öne çıkar. Aşağıda «idari dava nasıl açılır» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İdari dava nasıl açılır: idare alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«idari dava nasıl açılır» ne demektir? Kavram ve kapsam",
@@ -990,19 +990,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin. (2) İdari itiraz veya üst başvuru gerekip gerekmediğine bakın. (3) İptal ve/veya tam yargı taleplerini netleştirin. (4) İdare mahkemesinde dava açın; YD talep edin (şartlar varsa). (5) Karar ve kanun yollarını takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «idari dava nasıl açılır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
-          "İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
-          "İptal ve/veya tam yargı taleplerini netleştirin.",
-          "İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
-          "Karar ve kanun yollarını takip edin."
+          "1. İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
+          "2. İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
+          "3. İptal ve/veya tam yargı taleplerini netleştirin.",
+          "4. İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
+          "5. Karar ve kanun yollarını takip edin."
         ]
       },
       {
@@ -1229,7 +1228,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«idari dava nasıl açılır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "hukuk-davasi-nasil-acilir",
@@ -1262,7 +1261,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "«hukuk davası nasıl açılır» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla HMK (6100), İYUK (2577), Tebligat Kanunu, Arabuluculuk Kanunu hükümleriyle çizilir; başvuru mercileri arasında BAM, görevli-yetkili mahkeme ve arabuluculuk bürosu öne çıkar. Aşağıda «hukuk davası nasıl açılır» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Hukuk davası nasıl açılır: usul alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«hukuk davası nasıl açılır» ne demektir? Kavram ve kapsam",
@@ -1296,19 +1295,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin. (2) Görevli-yetkili mahkeme ve dava şartlarını kontrol edin. (3) Dilekçe ve delilleri hazırlayın; harcı yatırın. (4) Tebligatları UYAP/e-tebligattan takip edin. (5) Karar sonrası istinaf/temyiz süresini hesaplayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «hukuk davası nasıl açılır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
-          "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
-          "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
-          "Tebligatları UYAP/e-tebligattan takip edin.",
-          "Karar sonrası istinaf/temyiz süresini hesaplayın."
+          "1. Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+          "2. Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
+          "3. Dilekçe ve delilleri hazırlayın; harcı yatırın.",
+          "4. Tebligatları UYAP/e-tebligattan takip edin.",
+          "5. Karar sonrası istinaf/temyiz süresini hesaplayın."
         ]
       },
       {
@@ -1535,7 +1533,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "fork",
-    "keyInsight": "«hukuk davası nasıl açılır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "engelli-araci-nasil-alinir",
@@ -1566,7 +1564,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%96TV"
       }
     ],
-    "lead": "«engelli aracı» araması çoğu zaman genel engelli hakları konusunun dar dilimidir: Engelli aracı. Bu sayfa (engelli-araci-nasil-alinir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/engelli-raporu-nasil-alinir). Mevzuat çerçevesi sıklıkla 5378 sayılı Kanun ve ÖTV/emlak muafiyetleri çevresindedir. Rapor süresi ve oran güncellemeleri hak kullanımını etkiler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Engelli aracı» sorusu buraya bırakılmıştır.",
+    "lead": "«engelli aracı» — kısa cevap: Engelli aracı. Tam süreç ve belgeler ana rehberdedir: /bilgi/engelli-raporu-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Engelli aracı",
@@ -1798,7 +1796,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Engelli aracı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Engelli aracı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bosanma-davasi-nasil-acilir",
@@ -1831,7 +1829,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "Boşanma, anlaşmalı veya çekişmeli olarak aile mahkemesinde açılır. Anlaşmalıda protokol (nafaka, velayet, mal, ziynet) ve mahkeme önünde irade şarttır. Çekişmelide delil, kusur ve tedbir nafakası süreci uzatabilir. Bu ana rehber «boşanma davası nasıl açılır», «anlaşmalı boşanma» ve «çekişmeli boşanma» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Boşanma, anlaşmalı veya çekişmeli olarak aile mahkemesinde açılır. Anlaşmalıda protokol (nafaka, velayet, mal, ziynet) ve mahkeme önünde irade şarttır. Çekişmelide delil, kusur ve tedbir nafakası süreci uzatabilir. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Boşanma davası nasıl açılır: hukuki çerçeve ve arama niyeti",
@@ -1865,19 +1863,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «boşanma davası nasıl açılır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -2105,7 +2103,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«boşanma davası nasıl açılır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "nafaka-davasi-nedir",
@@ -2138,7 +2136,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "Nafaka; tedbir, yoksulluk ve iştirak türleriyle aile mahkemesinde talep edilir. Miktar, tarafların ekonomik-sosyal durumu, çocuğun ihtiyaçları ve hakkaniyete göre hâkim tarafından takdir edilir; sabit yüzde garantisi yoktur. Bu ana rehber «nafaka davası», «yoksulluk nafakası» ve «iştirak nafakası» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Nafaka; tedbir, yoksulluk ve iştirak türleriyle aile mahkemesinde talep edilir. Miktar, tarafların ekonomik-sosyal durumu, çocuğun ihtiyaçları ve hakkaniyete göre hâkim tarafından takdir edilir; sabit yüzde garantisi yoktur. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Nafaka davası nedir? Türleri ve süreç: hukuki çerçeve ve arama niyeti",
@@ -2172,19 +2170,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «nafaka davası» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -2412,7 +2410,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "«nafaka davası» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "icra-takibi-nedir",
@@ -2445,7 +2443,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "İcra takibi, alacağın cebri icra yoluyla tahsiline yönelik İİK prosedürüdür. İlamsız (ödeme emri) ve ilamlı (mahkeme kararı) takip ayrımı temeldir; haciz, satış ve iflas aşamaları izleyebilir. Bu ana rehber «icra takibi nedir», «haciz nedir» ve «ödeme emri» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "İcra takibi, alacağın cebri icra yoluyla tahsiline yönelik İİK prosedürüdür. İlamsız (ödeme emri) ve ilamlı (mahkeme kararı) takip ayrımı temeldir; haciz, satış ve iflas aşamaları izleyebilir. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "İcra takibi nedir? Nasıl işler: hukuki çerçeve ve arama niyeti",
@@ -2479,19 +2477,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «icra takibi nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -2719,7 +2717,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«icra takibi nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "odeme-emrine-itiraz",
@@ -2750,7 +2748,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tebligat"
       }
     ],
-    "lead": "Ödeme emrine itiraz, ilamsız icra takibinde borcu ve fer’ilerini durduran temel savunmadır. Süre kural olarak tebliğden itibaren 7 gündür; e-tebligat ve usulsüz tebligat halleri ayrı değerlendirilir. Bu spoke sayfa yalnızca «7 gün itiraz» niyetine odaklanır; tüm süreci yeniden anlatmaz. Hak kazanma, merciler, belgeler, süreler ve adım adım yol haritası ana rehberdedir: /bilgi/icra-takibi-nedir. «ödeme emrine itiraz», «7 gün itiraz icra» ve «7 gün itiraz icra» anahtarları bilerek dar tutulmuştur. Metin genel bilgilendirmedir; bağlayıcı tavsiye ve sonuç vaadi içermez. Tebliğ tarihi, güncel mevzuat ve somut delil dosyaya göredir.",
+    "lead": "Ödeme emrine itiraz, ilamsız icra takibinde borcu ve fer’ilerini durduran temel savunmadır. Süre kural olarak tebliğden itibaren 7 gündür; e-tebligat ve usulsüz tebligat halleri ayrı değerlendirilir. Bu sayfa yalnızca «7 gün itiraz» sorusuna cevap verir. Tam süreç: /bilgi/icra-takibi-nedir",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: 7 gün itiraz",
@@ -2982,7 +2980,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «7 gün itiraz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «7 gün itiraz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arabuluculuk-nasil-yapilir",
@@ -3015,7 +3013,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/arabuluculuk"
       }
     ],
-    "lead": "Arabuluculuk, tarafların uyuşmazlığı müzakere ile çözdüğü, bazı davalarda dava şartı olan bir yoldur. Başvuru bakanlık listesindeki arabulucuya veya büro üzerinden yapılır; anlaşma belgesi ilam niteliği taşıyabilir. Bu ana rehber «arabuluculuk nedir», «zorunlu arabuluculuk» ve «anlaşma belgesi» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Arabuluculuk, tarafların uyuşmazlığı müzakere ile çözdüğü, bazı davalarda dava şartı olan bir yoldur. Başvuru bakanlık listesindeki arabulucuya veya büro üzerinden yapılır; anlaşma belgesi ilam niteliği taşıyabilir. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Arabuluculuk nasıl yapılır: hukuki çerçeve ve arama niyeti",
@@ -3049,19 +3047,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «arabuluculuk nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -3289,7 +3287,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«arabuluculuk nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "kira-artis-orani-nasil-hesaplanir",
@@ -3322,7 +3320,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "Konut kiralarında artış, sözleşme ve yasal sınırlar çerçevesinde hesaplanır. Dönemsel olarak TBK uygulaması ve yasal tavanlar (ör. TÜFE oranına bağlı sınırlar) değişebilir; işyeri kiralarında serbesti ve tespit davası daha ön plandadır. Bu ana rehber «kira artış oranı», «kira zammı» ve «konut kira artışı» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Konut kiralarında artış, sözleşme ve yasal sınırlar çerçevesinde hesaplanır. Dönemsel olarak TBK uygulaması ve yasal tavanlar (ör. TÜFE oranına bağlı sınırlar) değişebilir; işyeri kiralarında serbesti ve tespit davası daha ön plandadır. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Kira artış oranı nasıl hesaplanır: hukuki çerçeve ve arama niyeti",
@@ -3356,19 +3354,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «kira artış oranı» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -3596,7 +3594,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«kira artış oranı» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "tapu-devri-nasil-yapilir",
@@ -3629,7 +3627,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/katmulkiyeti"
       }
     ],
-    "lead": "«tapu devri nasıl yapılır» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla TMK eşya, Kat Mülkiyeti Kanunu, Tapu Kanunu hükümleriyle çizilir; başvuru mercileri arasında tapu müdürlüğü, asliye hukuk ve icra öne çıkar. Aşağıda «tapu devri nasıl yapılır» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Tapu devri nasıl yapılır: eşya alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«tapu devri nasıl yapılır» ne demektir? Kavram ve kapsam",
@@ -3663,19 +3661,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) TAKBİS/e-Devletten tapu ve şerhleri kontrol edin. (2) Sözleşme ve harç/ödeme belgelerini hazırlayın. (3) Tapu randevusu alın; DASK ve kimlikleri tamamlayın. (4) Devir sonrası belediye/emlak vergisi bildirimini unutmayın. (5) Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «tapu devri nasıl yapılır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
-          "Sözleşme ve harç/ödeme belgelerini hazırlayın.",
-          "Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
-          "Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
-          "Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin."
+          "1. TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
+          "2. Sözleşme ve harç/ödeme belgelerini hazırlayın.",
+          "3. Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
+          "4. Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
+          "5. Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin."
         ]
       },
       {
@@ -3902,7 +3899,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "fork",
-    "keyInsight": "«tapu devri nasıl yapılır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "iskan-belgesi-nedir",
@@ -3934,7 +3931,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "İskan belgesi (yapı kullanma izni) nedir dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla İmar Kanunu, belediye mevzuatı, 6306 (kentsel dönüşüm) hükümleriyle çizilir; başvuru mercileri arasında idare mahkemesi, yapı denetim ve belediye öne çıkar. Aşağıda «iskan belgesi nedir» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İskan belgesi (yapı kullanma izni) nedir: imar alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«iskan belgesi nedir» ne demektir? Kavram ve kapsam",
@@ -3968,19 +3965,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin. (2) Ruhsat ve imar durumunu kontrol edin. (3) İdari itiraz veya uzlaşma yollarını değerlendirin. (4) İdare mahkemesinde iptal/YD düşünün. (5) İskan/ruhsat süreçlerini tamamlayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «iskan belgesi nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin.",
-          "Ruhsat ve imar durumunu kontrol edin.",
-          "İdari itiraz veya uzlaşma yollarını değerlendirin.",
-          "İdare mahkemesinde iptal/YD düşünün.",
-          "İskan/ruhsat süreçlerini tamamlayın."
+          "1. Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin.",
+          "2. Ruhsat ve imar durumunu kontrol edin.",
+          "3. İdari itiraz veya uzlaşma yollarını değerlendirin.",
+          "4. İdare mahkemesinde iptal/YD düşünün.",
+          "5. İskan/ruhsat süreçlerini tamamlayın."
         ]
       },
       {
@@ -4207,7 +4203,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«iskan belgesi nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "tuketici-hakem-heyeti",
@@ -4240,7 +4236,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=t%C3%BCketici"
       }
     ],
-    "lead": "Tüketici hakem heyeti, belirli parasal sınır altındaki tüketici uyuşmazlıklarında başvuru merciidir. Başvuru e-Devlet üzerinden yapılabilir; kararlara karşı tüketici mahkemesinde itiraz yolu vardır. Parasal sınırlar her yıl güncellenir. Bu ana rehber «tüketici hakem heyeti», «tüketici şikayeti» ve «e-devlet tüketici» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Tüketici hakem heyeti, belirli parasal sınır altındaki tüketici uyuşmazlıklarında başvuru merciidir. Başvuru e-Devlet üzerinden yapılabilir; kararlara karşı tüketici mahkemesinde itiraz yolu vardır. Parasal sınırlar her yıl güncellenir. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Tüketici hakem heyetine nasıl başvurulur: hukuki çerçeve ve arama niyeti",
@@ -4274,19 +4270,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «tüketici hakem heyeti» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -4514,7 +4510,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "«tüketici hakem heyeti» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "savcilik-suc-duyurusu",
@@ -4547,7 +4543,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-genel"
       }
     ],
-    "lead": "Savcılığa suç duyurusu nasıl yapılır; ceza alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla TCK (5237), CMK (5271), PVSK hükümleriyle çizilir; başvuru mercileri arasında Cumhuriyet savcılığı, ceza mahkemesi ve kolluk öne çıkar. Aşağıda «suç duyurusu nasıl yapılır» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Savcılığa suç duyurusu nasıl yapılır: ceza alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«suç duyurusu nasıl yapılır» ne demektir? Kavram ve kapsam",
@@ -4581,19 +4577,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Olay ve delilleri tarih sırasıyla kaydedin. (2) Şikâyet/suç duyurusunu savcılık veya e-şikâyet ile yapın. (3) İfade/gözaltında müdafi ve susma hakkını kullanın. (4) Soruşturma sonucunu (kovuşturmaya yer yok / iddianame) takip edin. (5) Mağdur-şüpheli sıfatına göre uzlaştırma veya dava sürecini yönetin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «suç duyurusu nasıl yapılır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Olay ve delilleri tarih sırasıyla kaydedin.",
-          "Şikâyet/suç duyurusunu savcılık veya e-şikâyet ile yapın.",
-          "İfade/gözaltında müdafi ve susma hakkını kullanın.",
-          "Soruşturma sonucunu (kovuşturmaya yer yok / iddianame) takip edin.",
-          "Mağdur-şüpheli sıfatına göre uzlaştırma veya dava sürecini yönetin."
+          "1. Olay ve delilleri tarih sırasıyla kaydedin.",
+          "2. Şikâyet/suç duyurusunu savcılık veya e-şikâyet ile yapın.",
+          "3. İfade/gözaltında müdafi ve susma hakkını kullanın.",
+          "4. Soruşturma sonucunu (kovuşturmaya yer yok / iddianame) takip edin.",
+          "5. Mağdur-şüpheli sıfatına göre uzlaştırma veya dava sürecini yönetin."
         ]
       },
       {
@@ -4820,7 +4815,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«suç duyurusu nasıl yapılır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "koruma-karari-6284",
@@ -4851,7 +4846,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«6284 koruma kararı» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla TMK (4721), 6284 sayılı Kanun, HMK (6100) hükümleriyle çizilir; başvuru mercileri arasında nüfus müdürlüğü, savcılık (şiddet) ve aile mahkemesi öne çıkar. Aşağıda «6284 koruma kararı» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "6284 koruma kararı nedir? Nasıl alınır: aile alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«6284 koruma kararı» ne demektir? Kavram ve kapsam",
@@ -4885,19 +4880,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin. (2) Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın. (3) Görevli aile mahkemesinde dava veya 6284 başvurusu yapın. (4) Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin. (5) Kesinleşen kararı icra veya nüfus işlemleri için kullanın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «6284 koruma kararı» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
-          "Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
-          "Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
-          "Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
-          "Kesinleşen kararı icra veya nüfus işlemleri için kullanın."
+          "1. Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
+          "2. Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
+          "3. Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
+          "4. Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
+          "5. Kesinleşen kararı icra veya nüfus işlemleri için kullanın."
         ]
       },
       {
@@ -5124,7 +5118,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«6284 koruma kararı» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "velayet-davasi",
@@ -5156,7 +5150,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cck"
       }
     ],
-    "lead": "Velayet davası nedir? Nasıl yürütülür; aile alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla TMK (4721), 6284 sayılı Kanun, HMK (6100) hükümleriyle çizilir; başvuru mercileri arasında savcılık (şiddet), nüfus müdürlüğü ve Aile ve Sosyal Hizmetler öne çıkar. Aşağıda «velayet davası» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Velayet davası nedir? Nasıl yürütülür: aile alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«velayet davası» ne demektir? Kavram ve kapsam",
@@ -5190,19 +5184,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin. (2) Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın. (3) Görevli aile mahkemesinde dava veya 6284 başvurusu yapın. (4) Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin. (5) Kesinleşen kararı icra veya nüfus işlemleri için kullanın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «velayet davası» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
-          "Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
-          "Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
-          "Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
-          "Kesinleşen kararı icra veya nüfus işlemleri için kullanın."
+          "1. Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
+          "2. Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
+          "3. Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
+          "4. Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
+          "5. Kesinleşen kararı icra veya nüfus işlemleri için kullanın."
         ]
       },
       {
@@ -5429,7 +5422,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«velayet davası» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "is-kazasi-tazminati",
@@ -5462,7 +5455,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/isg"
       }
     ],
-    "lead": "İş kazası tazminatı nedir? Nasıl talep edilir; iş alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla 4857 sayılı İş Kanunu, 6356 sayılı Sendikalar Kanunu, 7036 sayılı İş Mahkemeleri Kanunu, SSGSSK hükümleriyle çizilir; başvuru mercileri arasında İŞKUR, Çalışma ve Sosyal Güvenlik ve iş mahkemesi öne çıkar. Aşağıda «iş kazası tazminatı» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İş kazası tazminatı nedir? Nasıl talep edilir: iş alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«iş kazası tazminatı» ne demektir? Kavram ve kapsam",
@@ -5496,19 +5489,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın. (2) Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin. (3) Zorunluysa arabuluculuğa başvurun; tutanağı saklayın. (4) Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin. (5) İlam sonrası icra veya ödeme planını takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «iş kazası tazminatı» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
-          "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
-          "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
-          "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
-          "İlam sonrası icra veya ödeme planını takip edin."
+          "1. Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+          "2. Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
+          "3. Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
+          "4. Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
+          "5. İlam sonrası icra veya ödeme planını takip edin."
         ]
       },
       {
@@ -5735,7 +5727,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "«iş kazası tazminatı» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "kidem-tazminati-nasil-alinir",
@@ -5768,7 +5760,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "Kıdem tazminatı almak için önce hak kazanma şartı, sonra hesap, sonra arabuluculuk/dava veya icra yolu gelir. İbraname imzalamadan önce kalem kalem kontrol edilmelidir. Bu ana rehber «kıdem tazminatı nasıl alınır», «kıdem şartları» ve «kıdem hesabı» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Kıdem tazminatı almak için önce hak kazanma şartı, sonra hesap, sonra arabuluculuk/dava veya icra yolu gelir. İbraname imzalamadan önce kalem kalem kontrol edilmelidir. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Kıdem tazminatı nasıl alınır: hukuki çerçeve ve arama niyeti",
@@ -5802,19 +5794,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «kıdem tazminatı nasıl alınır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -6042,7 +6034,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "fork",
-    "keyInsight": "«kıdem tazminatı nasıl alınır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "e-devlet-veraset",
@@ -6073,7 +6065,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/miras-hukuku"
       }
     ],
-    "lead": "«e-devlet veraset ilamı» araması çoğu zaman genel miras konusunun dar dilimidir: e-Devlet adımları. Bu sayfa (e-devlet-veraset) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Veraset ilamı e-Devlet/noter/mahkeme yollarından biriyle alınabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet adımları» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet veraset ilamı» — kısa cevap: e-Devlet adımları. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet adımları",
@@ -6306,7 +6298,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «e-Devlet adımları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet adımları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "miras-payi-nasil-hesaplanir",
@@ -6337,7 +6329,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "Yasal miras payı, TMK’nın zümre sistemine göre hesaplanır. Sağ kalan eşin payı, alt soy veya ana-baba ile birlikte mirasçılığa göre değişir. Saklı pay, tenkis ve vasiyet ayrı katmanlardır. Bu spoke sayfa yalnızca «Pay hesabı» niyetine odaklanır; tüm süreci yeniden anlatmaz. Hak kazanma, merciler, belgeler, süreler ve adım adım yol haritası ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. «miras payı nasıl hesaplanır», «yasal mirasçılık pay» ve «yasal mirasçılık pay» anahtarları bilerek dar tutulmuştur. Metin genel bilgilendirmedir; bağlayıcı tavsiye ve sonuç vaadi içermez. Tebliğ tarihi, güncel mevzuat ve somut delil dosyaya göredir.",
+    "lead": "Yasal miras payı, TMK’nın zümre sistemine göre hesaplanır. Sağ kalan eşin payı, alt soy veya ana-baba ile birlikte mirasçılığa göre değişir. Saklı pay, tenkis ve vasiyet ayrı katmanlardır. Bu sayfa yalnızca «Pay hesabı» sorusuna cevap verir. Tam süreç: /bilgi/veraset-ilami-nasil-alinir",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Pay hesabı",
@@ -6569,7 +6561,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Pay hesabı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Pay hesabı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tebligat-usulsuzlugu",
@@ -6602,7 +6594,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "Tebligat usulsüzlüğü nedir? Ne yapılmalı dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla HMK (6100), İYUK (2577), Tebligat Kanunu, Arabuluculuk Kanunu hükümleriyle çizilir; başvuru mercileri arasında arabuluculuk bürosu, Yargıtay ve görevli-yetkili mahkeme öne çıkar. Aşağıda «tebligat usulsüzlüğü» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Tebligat usulsüzlüğü nedir? Ne yapılmalı: usul alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«tebligat usulsüzlüğü» ne demektir? Kavram ve kapsam",
@@ -6636,19 +6628,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin. (2) Görevli-yetkili mahkeme ve dava şartlarını kontrol edin. (3) Dilekçe ve delilleri hazırlayın; harcı yatırın. (4) Tebligatları UYAP/e-tebligattan takip edin. (5) Karar sonrası istinaf/temyiz süresini hesaplayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «tebligat usulsüzlüğü» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
-          "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
-          "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
-          "Tebligatları UYAP/e-tebligattan takip edin.",
-          "Karar sonrası istinaf/temyiz süresini hesaplayın."
+          "1. Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+          "2. Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
+          "3. Dilekçe ve delilleri hazırlayın; harcı yatırın.",
+          "4. Tebligatları UYAP/e-tebligattan takip edin.",
+          "5. Karar sonrası istinaf/temyiz süresini hesaplayın."
         ]
       },
       {
@@ -6875,7 +6866,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«tebligat usulsüzlüğü» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "ihtiyati-tedbir-nedir",
@@ -6906,7 +6897,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ihtiyati%20tedbir"
       }
     ],
-    "lead": "İhtiyati tedbir nedir? Nasıl alınır; usul alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla HMK (6100), İYUK (2577), Tebligat Kanunu, Arabuluculuk Kanunu hükümleriyle çizilir; başvuru mercileri arasında arabuluculuk bürosu, Yargıtay ve görevli-yetkili mahkeme öne çıkar. Aşağıda «ihtiyati tedbir nedir» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İhtiyati tedbir nedir? Nasıl alınır: usul alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«ihtiyati tedbir nedir» ne demektir? Kavram ve kapsam",
@@ -6940,19 +6931,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin. (2) Görevli-yetkili mahkeme ve dava şartlarını kontrol edin. (3) Dilekçe ve delilleri hazırlayın; harcı yatırın. (4) Tebligatları UYAP/e-tebligattan takip edin. (5) Karar sonrası istinaf/temyiz süresini hesaplayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «ihtiyati tedbir nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
-          "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
-          "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
-          "Tebligatları UYAP/e-tebligattan takip edin.",
-          "Karar sonrası istinaf/temyiz süresini hesaplayın."
+          "1. Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+          "2. Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
+          "3. Dilekçe ve delilleri hazırlayın; harcı yatırın.",
+          "4. Tebligatları UYAP/e-tebligattan takip edin.",
+          "5. Karar sonrası istinaf/temyiz süresini hesaplayın."
         ]
       },
       {
@@ -7179,7 +7169,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«ihtiyati tedbir nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "engelli-raporu-nasil-alinir",
@@ -7209,7 +7199,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "Engelli raporu nasıl alınır dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla 5378 sayılı Kanun, ÖTV/emlak muafiyetleri, sosyal yardım mevzuatı hükümleriyle çizilir; başvuru mercileri arasında SGK, sağlık kurulu ve belediye öne çıkar. Aşağıda «engelli raporu nasıl alınır» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Engelli raporu nasıl alınır: engelli hakları alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«engelli raporu nasıl alınır» ne demektir? Kavram ve kapsam",
@@ -7243,19 +7233,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Sağlık kurulu raporu alın/güncelleyin. (2) Hak türünü (araç, aylık, vergi) seçin. (3) İlgili kuruma başvurun. (4) Sonucu takip edin. (5) İtiraz gerekirse idari/yargı yoluna gidin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «engelli raporu nasıl alınır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Sağlık kurulu raporu alın/güncelleyin.",
-          "Hak türünü (araç, aylık, vergi) seçin.",
-          "İlgili kuruma başvurun.",
-          "Sonucu takip edin.",
-          "İtiraz gerekirse idari/yargı yoluna gidin."
+          "1. Sağlık kurulu raporu alın/güncelleyin.",
+          "2. Hak türünü (araç, aylık, vergi) seçin.",
+          "3. İlgili kuruma başvurun.",
+          "4. Sonucu takip edin.",
+          "5. İtiraz gerekirse idari/yargı yoluna gidin."
         ]
       },
       {
@@ -7481,7 +7470,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "«engelli raporu nasıl alınır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "vergi-borcu-yapislandirma",
@@ -7512,7 +7501,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "«vergi borcu yapılandırma» araması çoğu zaman genel vergi konusunun dar dilimidir: Yapılandırma. Bu sayfa (vergi-borcu-yapislandirma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emlak-vergisi-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Vergi mahkemesi dava süreleri kısa ve sıkıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yapılandırma» sorusu buraya bırakılmıştır.",
+    "lead": "«vergi borcu yapılandırma» — kısa cevap: Yapılandırma. Tam süreç ve belgeler ana rehberdedir: /bilgi/emlak-vergisi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yapılandırma",
@@ -7745,7 +7734,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Yapılandırma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yapılandırma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kamulastirma-nedir",
@@ -7777,7 +7766,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/imar"
       }
     ],
-    "lead": "Kamulaştırma nedir? Haklarınız nelerdir; idare alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla İYUK (2577), İdare hukuku genel ilkeleri, 4982 Bilgi Edinme hükümleriyle çizilir; başvuru mercileri arasında Danıştay, CİMER ve üst makam öne çıkar. Aşağıda «kamulaştırma nedir» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Kamulaştırma nedir? Haklarınız nelerdir: idare alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«kamulaştırma nedir» ne demektir? Kavram ve kapsam",
@@ -7811,19 +7800,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin. (2) İdari itiraz veya üst başvuru gerekip gerekmediğine bakın. (3) İptal ve/veya tam yargı taleplerini netleştirin. (4) İdare mahkemesinde dava açın; YD talep edin (şartlar varsa). (5) Karar ve kanun yollarını takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «kamulaştırma nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
-          "İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
-          "İptal ve/veya tam yargı taleplerini netleştirin.",
-          "İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
-          "Karar ve kanun yollarını takip edin."
+          "1. İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
+          "2. İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
+          "3. İptal ve/veya tam yargı taleplerini netleştirin.",
+          "4. İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
+          "5. Karar ve kanun yollarını takip edin."
         ]
       },
       {
@@ -8050,7 +8038,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "«kamulaştırma nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "kacak-yapi-cezasi",
@@ -8081,7 +8069,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«kaçak yapı cezası» araması çoğu zaman genel imar konusunun dar dilimidir: Kaçak yapı. Bu sayfa (kacak-yapi-cezasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/iskan-belgesi-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kaçak yapı» sorusu buraya bırakılmıştır.",
+    "lead": "«kaçak yapı cezası» — kısa cevap: Kaçak yapı. Tam süreç ve belgeler ana rehberdedir: /bilgi/iskan-belgesi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kaçak yapı",
@@ -8314,7 +8302,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Kaçak yapı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kaçak yapı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "abonelik-iptali-tuketici",
@@ -8345,7 +8333,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=t%C3%BCketici"
       }
     ],
-    "lead": "«abonelik iptali» araması çoğu zaman genel tüketici konusunun dar dilimidir: Abonelik iptali. Bu sayfa (abonelik-iptali-tuketici) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Mesafeli satışta cayma hakkı kural olarak 14 gündür; istisnalar yönetmelikte sayılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Abonelik iptali» sorusu buraya bırakılmıştır.",
+    "lead": "«abonelik iptali» — kısa cevap: Abonelik iptali. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Abonelik iptali",
@@ -8578,7 +8566,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Abonelik iptali» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Abonelik iptali» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ehliyet-alma-sartlari",
@@ -8609,7 +8597,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "Ehliyet alma şartları nelerdir dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla KTK (2918), TCK (trafik güvenliği), zorunlu mali sorumluluk sigortası mevzuatı hükümleriyle çizilir; başvuru mercileri arasında hukuk/ceza mahkemesi, GİB/e-Devlet ceza ve sigorta öne çıkar. Aşağıda «ehliyet alma şartları» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Ehliyet alma şartları nelerdir: trafik alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«ehliyet alma şartları» ne demektir? Kavram ve kapsam",
@@ -8643,19 +8631,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın. (2) İtiraz mercini ve süreyi tespit edin. (3) Hasarda ihbar + eksper sürecini başlatın. (4) Red halinde tahkim/dava seçeneklerini değerlendirin. (5) Ehliyet/puan durumunu takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «ehliyet alma şartları» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın.",
-          "İtiraz mercini ve süreyi tespit edin.",
-          "Hasarda ihbar + eksper sürecini başlatın.",
-          "Red halinde tahkim/dava seçeneklerini değerlendirin.",
-          "Ehliyet/puan durumunu takip edin."
+          "1. Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın.",
+          "2. İtiraz mercini ve süreyi tespit edin.",
+          "3. Hasarda ihbar + eksper sürecini başlatın.",
+          "4. Red halinde tahkim/dava seçeneklerini değerlendirin.",
+          "5. Ehliyet/puan durumunu takip edin."
         ]
       },
       {
@@ -8882,7 +8869,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«ehliyet alma şartları» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "nufus-kayit-ornegi",
@@ -8914,7 +8901,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=n%C3%BCfus"
       }
     ],
-    "lead": "«nüfus kayıt örneği» araması çoğu zaman genel nüfus konusunun dar dilimidir: Nüfus kayıt örneği. Bu sayfa (nufus-kayit-ornegi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Nüfus kayıt örneği» sorusu buraya bırakılmıştır.",
+    "lead": "«nüfus kayıt örneği» — kısa cevap: Nüfus kayıt örneği. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Nüfus kayıt örneği",
@@ -9147,7 +9134,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Nüfus kayıt örneği» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Nüfus kayıt örneği» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-dosyasi-sorgulama",
@@ -9178,7 +9165,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "«icra dosyası sorgulama» araması çoğu zaman genel icra konusunun dar dilimidir: UYAP sorgu. Bu sayfa (icra-dosyasi-sorgulama) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Ödeme emrine itiraz süresi tebliğden itibaren kural olarak 7 gündür. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «UYAP sorgu» sorusu buraya bırakılmıştır.",
+    "lead": "«icra dosyası sorgulama» — kısa cevap: UYAP sorgu. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: UYAP sorgu",
@@ -9411,7 +9398,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «UYAP sorgu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «UYAP sorgu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "senet-icra-takibi",
@@ -9442,7 +9429,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/kiymetli-evrak"
       }
     ],
-    "lead": "«senet icra takibi» araması çoğu zaman genel icra konusunun dar dilimidir: Senet/bono icrası. Bu sayfa (senet-icra-takibi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Ödeme emrine itiraz süresi tebliğden itibaren kural olarak 7 gündür. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Senet/bono icrası» sorusu buraya bırakılmıştır.",
+    "lead": "«senet icra takibi» — kısa cevap: Senet/bono icrası. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Senet/bono icrası",
@@ -9675,7 +9662,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Senet/bono icrası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Senet/bono icrası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-sozlesmesi-feshi",
@@ -9708,7 +9695,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli; iş alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla 4857 sayılı İş Kanunu, 6356 sayılı Sendikalar Kanunu, 7036 sayılı İş Mahkemeleri Kanunu, SSGSSK hükümleriyle çizilir; başvuru mercileri arasında SGK, İŞKUR ve arabuluculuk bürosu öne çıkar. Aşağıda «iş sözleşmesi feshi» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli: iş alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«iş sözleşmesi feshi» ne demektir? Kavram ve kapsam",
@@ -9742,19 +9729,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın. (2) Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin. (3) Zorunluysa arabuluculuğa başvurun; tutanağı saklayın. (4) Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin. (5) İlam sonrası icra veya ödeme planını takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «iş sözleşmesi feshi» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
-          "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
-          "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
-          "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
-          "İlam sonrası icra veya ödeme planını takip edin."
+          "1. Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+          "2. Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
+          "3. Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
+          "4. Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
+          "5. İlam sonrası icra veya ödeme planını takip edin."
         ]
       },
       {
@@ -9981,7 +9967,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«iş sözleşmesi feshi» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "gayrimenkul-satis-vaadi",
@@ -10012,7 +9998,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«gayrimenkul satış vaadi» araması çoğu zaman genel eşya konusunun dar dilimidir: Satış vaadi. Bu sayfa (gayrimenkul-satis-vaadi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Satış vaadi» sorusu buraya bırakılmıştır.",
+    "lead": "«gayrimenkul satış vaadi» — kısa cevap: Satış vaadi. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Satış vaadi",
@@ -10245,7 +10231,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Satış vaadi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Satış vaadi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kiraci-nasil-tahliye-edilir",
@@ -10278,7 +10264,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«kiracı nasıl çıkarılır» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla TBK kira hükümleri, HMK, İİK (kira alacağı/tahliye) hükümleriyle çizilir; başvuru mercileri arasında sulh hukuk / asliye hukuk, arabuluculuk ve icra dairesi öne çıkar. Aşağıda «kiracı nasıl çıkarılır» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Kiracı nasıl tahliye edilir: kira alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«kiracı nasıl çıkarılır» ne demektir? Kavram ve kapsam",
@@ -10312,19 +10298,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Sözleşme, ödemeler ve yazışmaları dosyalayın. (2) Artış oranı veya tahliye sebebini yasal dayanakla netleştirin. (3) Gerekirse noter ihtarı çekin; tebliğ alın. (4) Kapsamdaysa arabuluculuğa gidin. (5) Dava veya icra yolunu seçin; süreleri takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «kiracı nasıl çıkarılır» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Sözleşme, ödemeler ve yazışmaları dosyalayın.",
-          "Artış oranı veya tahliye sebebini yasal dayanakla netleştirin.",
-          "Gerekirse noter ihtarı çekin; tebliğ alın.",
-          "Kapsamdaysa arabuluculuğa gidin.",
-          "Dava veya icra yolunu seçin; süreleri takip edin."
+          "1. Sözleşme, ödemeler ve yazışmaları dosyalayın.",
+          "2. Artış oranı veya tahliye sebebini yasal dayanakla netleştirin.",
+          "3. Gerekirse noter ihtarı çekin; tebliğ alın.",
+          "4. Kapsamdaysa arabuluculuğa gidin.",
+          "5. Dava veya icra yolunu seçin; süreleri takip edin."
         ]
       },
       {
@@ -10551,7 +10536,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "fork",
-    "keyInsight": "«kiracı nasıl çıkarılır» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "kira-teminati-iadesi",
@@ -10583,7 +10568,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kira"
       }
     ],
-    "lead": "«kira depozitosu iadesi» araması çoğu zaman genel kira konusunun dar dilimidir: Depozito iadesi. Bu sayfa (kira-teminati-iadesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Depozito iadesi» sorusu buraya bırakılmıştır.",
+    "lead": "«kira depozitosu iadesi» — kısa cevap: Depozito iadesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Depozito iadesi",
@@ -10816,7 +10801,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Depozito iadesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Depozito iadesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ayip-mal-iade",
@@ -10847,7 +10832,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«ayıplı mal iade» araması çoğu zaman genel tüketici konusunun dar dilimidir: Ayıplı mal. Bu sayfa (ayip-mal-iade) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Hakem heyeti parasal sınırları her yıl güncellenir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ayıplı mal» sorusu buraya bırakılmıştır.",
+    "lead": "«ayıplı mal iade» — kısa cevap: Ayıplı mal. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ayıplı mal",
@@ -11080,7 +11065,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Ayıplı mal» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ayıplı mal» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "mesafeli-satis-cayma",
@@ -11112,7 +11097,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=cayma"
       }
     ],
-    "lead": "«cayma hakkı» araması çoğu zaman genel tüketici konusunun dar dilimidir: 14 gün cayma. Bu sayfa (mesafeli-satis-cayma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «14 gün cayma» sorusu buraya bırakılmıştır.",
+    "lead": "«cayma hakkı» — kısa cevap: 14 gün cayma. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: 14 gün cayma",
@@ -11345,7 +11330,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «14 gün cayma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «14 gün cayma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ise-iade-davasi",
@@ -11376,7 +11361,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "İşe iade, iş güvencesi kapsamındaki işçinin geçersiz feshine karşı başvurduğu yoldur. İşyeri işçi sayısı, kıdem, süre ve arabuluculuk şartları aranır; boşta geçen süre ve işe başlatmama tazminatı mahkeme sonucuna bağlıdır. Bu ana rehber «işe iade davası», «işe iade şartları» ve «geçersiz fesih» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "İşe iade, iş güvencesi kapsamındaki işçinin geçersiz feshine karşı başvurduğu yoldur. İşyeri işçi sayısı, kıdem, süre ve arabuluculuk şartları aranır; boşta geçen süre ve işe başlatmama tazminatı mahkeme sonucuna bağlıdır. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "İşe iade davası nedir? Nasıl açılır: hukuki çerçeve ve arama niyeti",
@@ -11411,19 +11396,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «işe iade davası» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -11651,7 +11636,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "«işe iade davası» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "ihbar-tazminati-nedir",
@@ -11683,7 +11668,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«ihbar tazminatı» araması çoğu zaman genel iş konusunun dar dilimidir: İhbar (bildirim) tazminatı — kıdemden ayrı kalem. Bu sayfa (ihbar-tazminati-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İhbar (bildirim) tazminatı — kıdemden ayrı kalem» sorusu buraya bırakılmıştır.",
+    "lead": "«ihbar tazminatı» — kısa cevap: İhbar (bildirim) tazminatı — kıdemden ayrı kalem. Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İhbar (bildirim) tazminatı — kıdemden ayrı kalem",
@@ -11916,7 +11901,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İhbar (bildirim) tazminatı — kıdemden ayrı kalem» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İhbar (bildirim) tazminatı — kıdemden ayrı kalem» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "fazla-mesai-ucreti",
@@ -11947,7 +11932,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "Fazla mesai ücreti nasıl hesaplanır; iş alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla 4857 sayılı İş Kanunu, 6356 sayılı Sendikalar Kanunu, 7036 sayılı İş Mahkemeleri Kanunu, SSGSSK hükümleriyle çizilir; başvuru mercileri arasında SGK, İŞKUR ve arabuluculuk bürosu öne çıkar. Aşağıda «fazla mesai ücreti» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Fazla mesai ücreti nasıl hesaplanır: iş alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«fazla mesai ücreti» ne demektir? Kavram ve kapsam",
@@ -11981,19 +11966,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın. (2) Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin. (3) Zorunluysa arabuluculuğa başvurun; tutanağı saklayın. (4) Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin. (5) İlam sonrası icra veya ödeme planını takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «fazla mesai ücreti» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
-          "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
-          "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
-          "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
-          "İlam sonrası icra veya ödeme planını takip edin."
+          "1. Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+          "2. Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
+          "3. Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
+          "4. Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
+          "5. İlam sonrası icra veya ödeme planını takip edin."
         ]
       },
       {
@@ -12220,7 +12204,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«fazla mesai ücreti» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "issizlik-maasi-sartlari",
@@ -12250,7 +12234,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=i%C5%9Fsizlik"
       }
     ],
-    "lead": "İşsizlik maaşı şartları nelerdir dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla 4857 sayılı İş Kanunu, 6356 sayılı Sendikalar Kanunu, 7036 sayılı İş Mahkemeleri Kanunu, SSGSSK hükümleriyle çizilir; başvuru mercileri arasında arabuluculuk bürosu, iş mahkemesi ve İŞKUR öne çıkar. Aşağıda «işsizlik maaşı şartları» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İşsizlik maaşı şartları nelerdir: iş alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«işsizlik maaşı şartları» ne demektir? Kavram ve kapsam",
@@ -12284,19 +12268,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın. (2) Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin. (3) Zorunluysa arabuluculuğa başvurun; tutanağı saklayın. (4) Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin. (5) İlam sonrası icra veya ödeme planını takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «işsizlik maaşı şartları» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
-          "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
-          "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
-          "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
-          "İlam sonrası icra veya ödeme planını takip edin."
+          "1. Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+          "2. Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
+          "3. Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
+          "4. Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
+          "5. İlam sonrası icra veya ödeme planını takip edin."
         ]
       },
       {
@@ -12523,7 +12506,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«işsizlik maaşı şartları» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "sgk-hizmet-dokumu",
@@ -12554,7 +12537,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=SGK"
       }
     ],
-    "lead": "«SGK hizmet dökümü» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Hizmet dökümü. Bu sayfa (sgk-hizmet-dokumu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hizmet dökümü» sorusu buraya bırakılmıştır.",
+    "lead": "«SGK hizmet dökümü» — kısa cevap: Hizmet dökümü. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hizmet dökümü",
@@ -12787,7 +12770,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Hizmet dökümü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hizmet dökümü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "emeklilik-sartlari",
@@ -12820,7 +12803,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=emeklilik"
       }
     ],
-    "lead": "Emeklilik şartları nelerdir dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla SSGSSK (5510), işsizlik sigortası mevzuatı hükümleriyle çizilir; başvuru mercileri arasında e-Devlet, SGK ve İŞKUR öne çıkar. Aşağıda «emeklilik şartları» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Emeklilik şartları nelerdir: sosyal güvenlik alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«emeklilik şartları» ne demektir? Kavram ve kapsam",
@@ -12854,19 +12837,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) e-Devletten hizmet ve prim dökümünü alın. (2) Hak türünü (emeklilik, işsizlik, malul, borçlanma) netleştirin. (3) Gerekli belgeleri tamamlayıp başvurun. (4) Sonucu takip edin; rette itiraz/dava yollarını değerlendirin. (5) Ödeme ve emekli aylığı hesaplarını kontrol edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «emeklilik şartları» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "e-Devletten hizmet ve prim dökümünü alın.",
-          "Hak türünü (emeklilik, işsizlik, malul, borçlanma) netleştirin.",
-          "Gerekli belgeleri tamamlayıp başvurun.",
-          "Sonucu takip edin; rette itiraz/dava yollarını değerlendirin.",
-          "Ödeme ve emekli aylığı hesaplarını kontrol edin."
+          "1. e-Devletten hizmet ve prim dökümünü alın.",
+          "2. Hak türünü (emeklilik, işsizlik, malul, borçlanma) netleştirin.",
+          "3. Gerekli belgeleri tamamlayıp başvurun.",
+          "4. Sonucu takip edin; rette itiraz/dava yollarını değerlendirin.",
+          "5. Ödeme ve emekli aylığı hesaplarını kontrol edin."
         ]
       },
       {
@@ -13093,7 +13075,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "«emeklilik şartları» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "malulen-emeklilik",
@@ -13124,7 +13106,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=malul"
       }
     ],
-    "lead": "«malulen emeklilik» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Maluliyet. Bu sayfa (malulen-emeklilik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Maluliyet» sorusu buraya bırakılmıştır.",
+    "lead": "«malulen emeklilik» — kısa cevap: Maluliyet. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Maluliyet",
@@ -13357,7 +13339,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Maluliyet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Maluliyet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sakli-pay-nedir",
@@ -13388,7 +13370,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/sakli-pay"
       }
     ],
-    "lead": "«saklı pay nedir» araması çoğu zaman genel miras konusunun dar dilimidir: Saklı pay. Bu sayfa (sakli-pay-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Mirasın reddi için yasal süre vardır; kaçırılırsa kabul edilmiş sayılma riski doğar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Saklı pay» sorusu buraya bırakılmıştır.",
+    "lead": "«saklı pay nedir» — kısa cevap: Saklı pay. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Saklı pay",
@@ -13621,7 +13603,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Saklı pay» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Saklı pay» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "vasiyetname-nasil-yapilir",
@@ -13652,7 +13634,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/miras-paylasimi"
       }
     ],
-    "lead": "«vasiyetname nasıl yapılır» araması çoğu zaman genel miras konusunun dar dilimidir: Vasiyet yapma. Bu sayfa (vasiyetname-nasil-yapilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Veraset ilamı e-Devlet/noter/mahkeme yollarından biriyle alınabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vasiyet yapma» sorusu buraya bırakılmıştır.",
+    "lead": "«vasiyetname nasıl yapılır» — kısa cevap: Vasiyet yapma. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vasiyet yapma",
@@ -13885,7 +13867,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Vasiyet yapma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vasiyet yapma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "mirasin-reddi",
@@ -13916,7 +13898,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=miras"
       }
     ],
-    "lead": "«mirasın reddi» araması çoğu zaman genel miras konusunun dar dilimidir: Red. Bu sayfa (mirasin-reddi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Mirasın reddi için yasal süre vardır; kaçırılırsa kabul edilmiş sayılma riski doğar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Red» sorusu buraya bırakılmıştır.",
+    "lead": "«mirasın reddi» — kısa cevap: Red. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Red",
@@ -14149,7 +14131,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Red» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Red» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "izale-i-suyu",
@@ -14182,7 +14164,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "İzale-i şuyu nedir? Nasıl açılır; eşya alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla TMK eşya, Kat Mülkiyeti Kanunu, Tapu Kanunu hükümleriyle çizilir; başvuru mercileri arasında tapu müdürlüğü, asliye hukuk ve icra öne çıkar. Aşağıda «izale-i şuyu» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İzale-i şuyu nedir? Nasıl açılır: eşya alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«izale-i şuyu» ne demektir? Kavram ve kapsam",
@@ -14216,19 +14198,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) TAKBİS/e-Devletten tapu ve şerhleri kontrol edin. (2) Sözleşme ve harç/ödeme belgelerini hazırlayın. (3) Tapu randevusu alın; DASK ve kimlikleri tamamlayın. (4) Devir sonrası belediye/emlak vergisi bildirimini unutmayın. (5) Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «izale-i şuyu» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
-          "Sözleşme ve harç/ödeme belgelerini hazırlayın.",
-          "Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
-          "Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
-          "Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin."
+          "1. TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
+          "2. Sözleşme ve harç/ödeme belgelerini hazırlayın.",
+          "3. Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
+          "4. Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
+          "5. Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin."
         ]
       },
       {
@@ -14455,7 +14436,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "«izale-i şuyu» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "tapu-iptal-tescil",
@@ -14487,7 +14468,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/miras-hukuku"
       }
     ],
-    "lead": "«tapu iptal tescil» araması çoğu zaman genel eşya konusunun dar dilimidir: Tapu iptal tescil. Bu sayfa (tapu-iptal-tescil) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tapu iptal tescil» sorusu buraya bırakılmıştır.",
+    "lead": "«tapu iptal tescil» — kısa cevap: Tapu iptal tescil. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tapu iptal tescil",
@@ -14720,7 +14701,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Tapu iptal tescil» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tapu iptal tescil» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kat-mulkiyeti-aidat",
@@ -14753,7 +14734,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«aidat borcu» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla TMK eşya, Kat Mülkiyeti Kanunu, Tapu Kanunu hükümleriyle çizilir; başvuru mercileri arasında asliye hukuk, tapu müdürlüğü ve kadastro öne çıkar. Aşağıda «aidat borcu» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Kat mülkiyeti aidat borcu nasıl tahsil edilir: eşya alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«aidat borcu» ne demektir? Kavram ve kapsam",
@@ -14787,19 +14768,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) TAKBİS/e-Devletten tapu ve şerhleri kontrol edin. (2) Sözleşme ve harç/ödeme belgelerini hazırlayın. (3) Tapu randevusu alın; DASK ve kimlikleri tamamlayın. (4) Devir sonrası belediye/emlak vergisi bildirimini unutmayın. (5) Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «aidat borcu» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
-          "Sözleşme ve harç/ödeme belgelerini hazırlayın.",
-          "Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
-          "Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
-          "Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin."
+          "1. TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
+          "2. Sözleşme ve harç/ödeme belgelerini hazırlayın.",
+          "3. Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
+          "4. Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
+          "5. Uyuşmazlıkta ihtiyati tedbir veya dava yolunu değerlendirin."
         ]
       },
       {
@@ -15026,7 +15006,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "fork",
-    "keyInsight": "«aidat borcu» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "ihtiyati-haciz-nedir",
@@ -15057,7 +15037,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«ihtiyati haciz» araması çoğu zaman genel icra konusunun dar dilimidir: İhtiyati haciz. Bu sayfa (ihtiyati-haciz-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İhtiyati haciz» sorusu buraya bırakılmıştır.",
+    "lead": "«ihtiyati haciz» — kısa cevap: İhtiyati haciz. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İhtiyati haciz",
@@ -15290,7 +15270,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İhtiyati haciz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İhtiyati haciz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "haciz-nasil-kaldirilir",
@@ -15321,7 +15301,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "«haciz nasıl kaldırılır» araması çoğu zaman genel icra konusunun dar dilimidir: Haczin kalkması. Bu sayfa (haciz-nasil-kaldirilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Haczin kalkması» sorusu buraya bırakılmıştır.",
+    "lead": "«haciz nasıl kaldırılır» — kısa cevap: Haczin kalkması. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Haczin kalkması",
@@ -15554,7 +15534,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Haczin kalkması» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Haczin kalkması» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kefalet-sozlesmesi",
@@ -15586,7 +15566,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«kefalet sözleşmesi» araması çoğu zaman genel borçlar konusunun dar dilimidir: Kefalet sözleşmesi. Bu sayfa (kefalet-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kefalet sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«kefalet sözleşmesi» — kısa cevap: Kefalet sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kefalet sözleşmesi",
@@ -15819,7 +15799,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kefalet sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kefalet sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "zamanaşimi-nedir",
@@ -15852,7 +15832,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "Zamanaşımı nedir? Ne zaman dolur; usul alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla HMK (6100), İYUK (2577), Tebligat Kanunu, Arabuluculuk Kanunu hükümleriyle çizilir; başvuru mercileri arasında Yargıtay, arabuluculuk bürosu ve BAM öne çıkar. Aşağıda «zamanaşımı nedir» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Zamanaşımı nedir? Ne zaman dolur: usul alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«zamanaşımı nedir» ne demektir? Kavram ve kapsam",
@@ -15886,19 +15866,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin. (2) Görevli-yetkili mahkeme ve dava şartlarını kontrol edin. (3) Dilekçe ve delilleri hazırlayın; harcı yatırın. (4) Tebligatları UYAP/e-tebligattan takip edin. (5) Karar sonrası istinaf/temyiz süresini hesaplayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «zamanaşımı nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
-          "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
-          "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
-          "Tebligatları UYAP/e-tebligattan takip edin.",
-          "Karar sonrası istinaf/temyiz süresini hesaplayın."
+          "1. Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+          "2. Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
+          "3. Dilekçe ve delilleri hazırlayın; harcı yatırın.",
+          "4. Tebligatları UYAP/e-tebligattan takip edin.",
+          "5. Karar sonrası istinaf/temyiz süresini hesaplayın."
         ]
       },
       {
@@ -16125,7 +16104,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«zamanaşımı nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "istinaf-nedir",
@@ -16156,7 +16135,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "İstinaf nedir? Nasıl başvurulur; usul alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla HMK (6100), İYUK (2577), Tebligat Kanunu, Arabuluculuk Kanunu hükümleriyle çizilir; başvuru mercileri arasında arabuluculuk bürosu, Yargıtay ve görevli-yetkili mahkeme öne çıkar. Aşağıda «istinaf nedir» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İstinaf nedir? Nasıl başvurulur: usul alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«istinaf nedir» ne demektir? Kavram ve kapsam",
@@ -16190,19 +16169,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin. (2) Görevli-yetkili mahkeme ve dava şartlarını kontrol edin. (3) Dilekçe ve delilleri hazırlayın; harcı yatırın. (4) Tebligatları UYAP/e-tebligattan takip edin. (5) Karar sonrası istinaf/temyiz süresini hesaplayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «istinaf nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
-          "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
-          "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
-          "Tebligatları UYAP/e-tebligattan takip edin.",
-          "Karar sonrası istinaf/temyiz süresini hesaplayın."
+          "1. Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+          "2. Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
+          "3. Dilekçe ve delilleri hazırlayın; harcı yatırın.",
+          "4. Tebligatları UYAP/e-tebligattan takip edin.",
+          "5. Karar sonrası istinaf/temyiz süresini hesaplayın."
         ]
       },
       {
@@ -16429,7 +16407,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«istinaf nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "temyiz-nedir",
@@ -16460,7 +16438,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/icthat"
       }
     ],
-    "lead": "«temyiz nedir» araması çoğu zaman genel usul konusunun dar dilimidir: Temyiz. Bu sayfa (temyiz-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/istinaf-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Temyiz» sorusu buraya bırakılmıştır.",
+    "lead": "«temyiz nedir» — kısa cevap: Temyiz. Tam süreç ve belgeler ana rehberdedir: /bilgi/istinaf-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Temyiz",
@@ -16693,7 +16671,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Temyiz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Temyiz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bilirkisi-raporu-itiraz",
@@ -16725,7 +16703,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=bilirki%C5%9Fi"
       }
     ],
-    "lead": "«bilirkişi raporuna itiraz» araması çoğu zaman genel usul konusunun dar dilimidir: Bilirkişi raporuna itiraz. Bu sayfa (bilirkisi-raporu-itiraz) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bilirkişi raporuna itiraz» sorusu buraya bırakılmıştır.",
+    "lead": "«bilirkişi raporuna itiraz» — kısa cevap: Bilirkişi raporuna itiraz. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bilirkişi raporuna itiraz",
@@ -16958,7 +16936,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Bilirkişi raporuna itiraz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bilirkişi raporuna itiraz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tanik-dinletme",
@@ -16990,7 +16968,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«tanık dinletme» araması çoğu zaman genel usul konusunun dar dilimidir: Tanık dinletme. Bu sayfa (tanik-dinletme) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tanık dinletme» sorusu buraya bırakılmıştır.",
+    "lead": "«tanık dinletme» — kısa cevap: Tanık dinletme. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tanık dinletme",
@@ -17223,7 +17201,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Tanık dinletme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tanık dinletme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arabuluculuk-anlasma-belgesi",
@@ -17254,7 +17232,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "«arabuluculuk anlaşma belgesi» araması çoğu zaman genel usul konusunun dar dilimidir: Anlaşma belgesi. Bu sayfa (arabuluculuk-anlasma-belgesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Anlaşma belgesi» sorusu buraya bırakılmıştır.",
+    "lead": "«arabuluculuk anlaşma belgesi» — kısa cevap: Anlaşma belgesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Anlaşma belgesi",
@@ -17487,7 +17465,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Anlaşma belgesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Anlaşma belgesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-kazasi-bildirimi",
@@ -17518,7 +17496,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«iş kazası bildirimi» araması çoğu zaman genel iş konusunun dar dilimidir: Bildirim. Bu sayfa (is-kazasi-bildirimi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bildirim» sorusu buraya bırakılmıştır.",
+    "lead": "«iş kazası bildirimi» — kısa cevap: Bildirim. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bildirim",
@@ -17751,7 +17729,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Bildirim» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bildirim» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "mobbing-nedir",
@@ -17782,7 +17760,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-kisiler"
       }
     ],
-    "lead": "«mobbing nedir» araması çoğu zaman genel iş konusunun dar dilimidir: Mobbing. Bu sayfa (mobbing-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Mobbing» sorusu buraya bırakılmıştır.",
+    "lead": "«mobbing nedir» — kısa cevap: Mobbing. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Mobbing",
@@ -18015,7 +17993,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Mobbing» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Mobbing» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cinsel-taciz-sikayet",
@@ -18046,7 +18024,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«işyerinde cinsel taciz» araması çoğu zaman genel iş konusunun dar dilimidir: İşyeri taciz. Bu sayfa (cinsel-taciz-sikayet) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/koruma-karari-6284). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşyeri taciz» sorusu buraya bırakılmıştır.",
+    "lead": "«işyerinde cinsel taciz» — kısa cevap: İşyeri taciz. Tam süreç ve belgeler ana rehberdedir: /bilgi/koruma-karari-6284. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşyeri taciz",
@@ -18279,7 +18257,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İşyeri taciz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşyeri taciz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cocuk-nafaka-artirim",
@@ -18310,7 +18288,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«çocuk nafakası artırım» araması çoğu zaman genel aile konusunun dar dilimidir: Çocuk nafakası artırım davası (pratik). Bu sayfa (cocuk-nafaka-artirim) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çocuk nafakası artırım davası (pratik)» sorusu buraya bırakılmıştır.",
+    "lead": "«çocuk nafakası artırım» — kısa cevap: Çocuk nafakası artırım davası (pratik). Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çocuk nafakası artırım davası (pratik)",
@@ -18543,7 +18521,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Çocuk nafakası artırım davası (pratik)» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çocuk nafakası artırım davası (pratik)» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "mal-rejimi-tasfiyesi",
@@ -18576,7 +18554,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "Mal rejimi tasfiyesi nedir dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla TMK (4721), 6284 sayılı Kanun, HMK (6100) hükümleriyle çizilir; başvuru mercileri arasında savcılık (şiddet), nüfus müdürlüğü ve Aile ve Sosyal Hizmetler öne çıkar. Aşağıda «mal rejimi tasfiyesi» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Mal rejimi tasfiyesi nedir: aile alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«mal rejimi tasfiyesi» ne demektir? Kavram ve kapsam",
@@ -18610,19 +18588,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin. (2) Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın. (3) Görevli aile mahkemesinde dava veya 6284 başvurusu yapın. (4) Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin. (5) Kesinleşen kararı icra veya nüfus işlemleri için kullanın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «mal rejimi tasfiyesi» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
-          "Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
-          "Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
-          "Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
-          "Kesinleşen kararı icra veya nüfus işlemleri için kullanın."
+          "1. Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
+          "2. Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
+          "3. Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
+          "4. Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
+          "5. Kesinleşen kararı icra veya nüfus işlemleri için kullanın."
         ]
       },
       {
@@ -18849,7 +18826,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«mal rejimi tasfiyesi» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "ziynet-esyalari-davasi",
@@ -18880,7 +18857,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«ziynet eşyası davası» araması çoğu zaman genel aile konusunun dar dilimidir: Ziynet eşyası davası. Bu sayfa (ziynet-esyalari-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ziynet eşyası davası» sorusu buraya bırakılmıştır.",
+    "lead": "«ziynet eşyası davası» — kısa cevap: Ziynet eşyası davası. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ziynet eşyası davası",
@@ -19113,7 +19090,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Ziynet eşyası davası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ziynet eşyası davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "soybagi-reddi",
@@ -19145,7 +19122,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/nhk"
       }
     ],
-    "lead": "«soybağının reddi» araması çoğu zaman genel aile konusunun dar dilimidir: Soybağının reddi. Bu sayfa (soybagi-reddi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Soybağının reddi» sorusu buraya bırakılmıştır.",
+    "lead": "«soybağının reddi» — kısa cevap: Soybağının reddi. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Soybağının reddi",
@@ -19378,7 +19355,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Soybağının reddi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Soybağının reddi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "evlat-edinme",
@@ -19410,7 +19387,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/nhk"
       }
     ],
-    "lead": "«evlat edinme» araması çoğu zaman genel aile konusunun dar dilimidir: Evlat edinme. Bu sayfa (evlat-edinme) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Evlat edinme» sorusu buraya bırakılmıştır.",
+    "lead": "«evlat edinme» — kısa cevap: Evlat edinme. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Evlat edinme",
@@ -19643,7 +19620,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Evlat edinme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Evlat edinme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ceza-sorusturmasi-sureci",
@@ -19674,7 +19651,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-genel"
       }
     ],
-    "lead": "«ceza soruşturması» araması çoğu zaman genel ceza konusunun dar dilimidir: Soruşturma. Bu sayfa (ceza-sorusturmasi-sureci) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Şikâyete bağlı suçlarda şikâyet süresi kural olarak 6 aydır (somut suç tipine bakın). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Soruşturma» sorusu buraya bırakılmıştır.",
+    "lead": "«ceza soruşturması» — kısa cevap: Soruşturma. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Soruşturma",
@@ -19907,7 +19884,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Soruşturma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Soruşturma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gozalti-haklari",
@@ -19938,7 +19915,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/pvsk"
       }
     ],
-    "lead": "«gözaltı hakları» araması çoğu zaman genel ceza konusunun dar dilimidir: Gözaltı hakları. Bu sayfa (gozalti-haklari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Gözaltı hakları» sorusu buraya bırakılmıştır.",
+    "lead": "«gözaltı hakları» — kısa cevap: Gözaltı hakları. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Gözaltı hakları",
@@ -20171,7 +20148,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Gözaltı hakları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Gözaltı hakları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "uzlastirma-nedir",
@@ -20202,7 +20179,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-genel"
       }
     ],
-    "lead": "«ceza uzlaştırması» araması çoğu zaman genel ceza konusunun dar dilimidir: Uzlaştırma. Bu sayfa (uzlastirma-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Uzlaştırma kapsamındaki dosyalarda süreç farklı işler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Uzlaştırma» sorusu buraya bırakılmıştır.",
+    "lead": "«ceza uzlaştırması» — kısa cevap: Uzlaştırma. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Uzlaştırma",
@@ -20435,7 +20412,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Uzlaştırma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Uzlaştırma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "adli-sicil-kaydi",
@@ -20467,7 +20444,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«adli sicil kaydı» araması çoğu zaman genel ceza konusunun dar dilimidir: Adli sicil kaydı. Bu sayfa (adli-sicil-kaydi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Uzlaştırma kapsamındaki dosyalarda süreç farklı işler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Adli sicil kaydı» sorusu buraya bırakılmıştır.",
+    "lead": "«adli sicil kaydı» — kısa cevap: Adli sicil kaydı. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Adli sicil kaydı",
@@ -20700,7 +20677,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Adli sicil kaydı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Adli sicil kaydı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "trafik-kazasi-tazminati",
@@ -20733,7 +20710,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "Trafik kazası tazminatı nasıl alınır; trafik alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla KTK (2918), TCK (trafik güvenliği), zorunlu mali sorumluluk sigortası mevzuatı hükümleriyle çizilir; başvuru mercileri arasında hukuk/ceza mahkemesi, GİB/e-Devlet ceza ve sigorta öne çıkar. Aşağıda «trafik kazası tazminatı» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Trafik kazası tazminatı nasıl alınır: trafik alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«trafik kazası tazminatı» ne demektir? Kavram ve kapsam",
@@ -20767,19 +20744,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın. (2) İtiraz mercini ve süreyi tespit edin. (3) Hasarda ihbar + eksper sürecini başlatın. (4) Red halinde tahkim/dava seçeneklerini değerlendirin. (5) Ehliyet/puan durumunu takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «trafik kazası tazminatı» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın.",
-          "İtiraz mercini ve süreyi tespit edin.",
-          "Hasarda ihbar + eksper sürecini başlatın.",
-          "Red halinde tahkim/dava seçeneklerini değerlendirin.",
-          "Ehliyet/puan durumunu takip edin."
+          "1. Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın.",
+          "2. İtiraz mercini ve süreyi tespit edin.",
+          "3. Hasarda ihbar + eksper sürecini başlatın.",
+          "4. Red halinde tahkim/dava seçeneklerini değerlendirin.",
+          "5. Ehliyet/puan durumunu takip edin."
         ]
       },
       {
@@ -21006,7 +20982,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«trafik kazası tazminatı» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "trafik-sigortasi-hasar",
@@ -21037,7 +21013,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=sigorta"
       }
     ],
-    "lead": "«trafik sigortası hasar» araması çoğu zaman genel trafik konusunun dar dilimidir: Trafik sigortası hasar. Bu sayfa (trafik-sigortasi-hasar) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Trafik sigortası hasar» sorusu buraya bırakılmıştır.",
+    "lead": "«trafik sigortası hasar» — kısa cevap: Trafik sigortası hasar. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Trafik sigortası hasar",
@@ -21270,7 +21246,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Trafik sigortası hasar» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Trafik sigortası hasar» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ehliyet-geri-alma",
@@ -21301,7 +21277,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«ehliyete el koyma» araması çoğu zaman genel trafik konusunun dar dilimidir: Ehliyet iadesi. Bu sayfa (ehliyet-geri-alma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-cezasina-itiraz). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ehliyet iadesi» sorusu buraya bırakılmıştır.",
+    "lead": "«ehliyete el koyma» — kısa cevap: Ehliyet iadesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-cezasina-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ehliyet iadesi",
@@ -21534,7 +21510,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Ehliyet iadesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ehliyet iadesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "pasaport-basvurusu",
@@ -21566,7 +21542,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=pasaport"
       }
     ],
-    "lead": "«pasaport başvurusu» araması çoğu zaman genel nüfus konusunun dar dilimidir: Pasaport başvurusu. Bu sayfa (pasaport-basvurusu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Pasaport başvurusu» sorusu buraya bırakılmıştır.",
+    "lead": "«pasaport başvurusu» — kısa cevap: Pasaport başvurusu. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Pasaport başvurusu",
@@ -21799,7 +21775,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Pasaport başvurusu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Pasaport başvurusu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yabanci-ikamet-izni",
@@ -21831,7 +21807,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ikamet"
       }
     ],
-    "lead": "«ikamet izni» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla YUKK (6458), çalışma izni mevzuatı hükümleriyle çizilir; başvuru mercileri arasında çalışma izni mercileri, Göç İdaresi ve idare mahkemesi öne çıkar. Aşağıda «ikamet izni» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Yabancılar için ikamet izni nasıl alınır: yabancılar alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«ikamet izni» ne demektir? Kavram ve kapsam",
@@ -21865,19 +21841,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) İzin türü ve bitiş tarihini kontrol edin. (2) Gerekli belgeleri toplayın; randevu alın. (3) Başvuruyu yapın; harç/ödeme dekontunu saklayın. (4) Ret halinde idari itiraz/dava süresini hesaplayın. (5) Pasaport ve adres kayıtlarını güncel tutun.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «ikamet izni» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "İzin türü ve bitiş tarihini kontrol edin.",
-          "Gerekli belgeleri toplayın; randevu alın.",
-          "Başvuruyu yapın; harç/ödeme dekontunu saklayın.",
-          "Ret halinde idari itiraz/dava süresini hesaplayın.",
-          "Pasaport ve adres kayıtlarını güncel tutun."
+          "1. İzin türü ve bitiş tarihini kontrol edin.",
+          "2. Gerekli belgeleri toplayın; randevu alın.",
+          "3. Başvuruyu yapın; harç/ödeme dekontunu saklayın.",
+          "4. Ret halinde idari itiraz/dava süresini hesaplayın.",
+          "5. Pasaport ve adres kayıtlarını güncel tutun."
         ]
       },
       {
@@ -22104,7 +22079,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "fork",
-    "keyInsight": "«ikamet izni» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "calisma-izni-nedir",
@@ -22135,7 +22110,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«çalışma izni» araması çoğu zaman genel yabancılar konusunun dar dilimidir: Çalışma izni. Bu sayfa (calisma-izni-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/yabanci-ikamet-izni). Mevzuat çerçevesi sıklıkla YUKK (6458) ve çalışma izni mevzuatı çevresindedir. İkamet ve çalışma izni uzatma başvuruları süre bitiminden önce yapılmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çalışma izni» sorusu buraya bırakılmıştır.",
+    "lead": "«çalışma izni» — kısa cevap: Çalışma izni. Tam süreç ve belgeler ana rehberdedir: /bilgi/yabanci-ikamet-izni. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çalışma izni",
@@ -22368,7 +22343,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Çalışma izni» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çalışma izni» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sinir-disi-karari",
@@ -22399,7 +22374,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«sınır dışı kararı» araması çoğu zaman genel yabancılar konusunun dar dilimidir: Sınır dışı kararı. Bu sayfa (sinir-disi-karari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/yabanci-ikamet-izni). Mevzuat çerçevesi sıklıkla YUKK (6458) ve çalışma izni mevzuatı çevresindedir. İkamet ve çalışma izni uzatma başvuruları süre bitiminden önce yapılmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sınır dışı kararı» sorusu buraya bırakılmıştır.",
+    "lead": "«sınır dışı kararı» — kısa cevap: Sınır dışı kararı. Tam süreç ve belgeler ana rehberdedir: /bilgi/yabanci-ikamet-izni. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sınır dışı kararı",
@@ -22632,7 +22607,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Sınır dışı kararı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sınır dışı kararı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kvkk-basvuru-hakki",
@@ -22665,7 +22640,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=KVKK"
       }
     ],
-    "lead": "KVKK m.11, ilgili kişinin veri sorumlusuna başvuru haklarını düzenler: öğrenme, silme, düzeltme, itiraz vb. Cevap gelmez veya yetersizse Kişisel Verileri Koruma Kurulu’na şikâyet yolu açılabilir. Bu ana rehber «KVKK başvuru», «kişisel veri şikayet» ve «veri silme talebi» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "KVKK m.11, ilgili kişinin veri sorumlusuna başvuru haklarını düzenler: öğrenme, silme, düzeltme, itiraz vb. Cevap gelmez veya yetersizse Kişisel Verileri Koruma Kurulu’na şikâyet yolu açılabilir. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "KVKK kapsamında haklarınız nelerdir: hukuki çerçeve ve arama niyeti",
@@ -22699,19 +22674,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «KVKK başvuru» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -22939,7 +22914,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«KVKK başvuru» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "bilgi-edinme-basvurusu",
@@ -22971,7 +22946,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=bilgi%20edinme"
       }
     ],
-    "lead": "«bilgi edinme başvurusu» araması çoğu zaman genel idare konusunun dar dilimidir: Bilgi edinme başvurusu. Bu sayfa (bilgi-edinme-basvurusu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bilgi edinme başvurusu» sorusu buraya bırakılmıştır.",
+    "lead": "«bilgi edinme başvurusu» — kısa cevap: Bilgi edinme başvurusu. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bilgi edinme başvurusu",
@@ -23204,7 +23179,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Bilgi edinme başvurusu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bilgi edinme başvurusu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cimer-sikayet",
@@ -23237,7 +23212,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/icthat"
       }
     ],
-    "lead": "«CİMER şikayet» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla İYUK (2577), İdare hukuku genel ilkeleri, 4982 Bilgi Edinme hükümleriyle çizilir; başvuru mercileri arasında CİMER, idare ve idare/vergi mahkemesi öne çıkar. Aşağıda «CİMER şikayet» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "CİMER’e nasıl başvurulur: idare alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«CİMER şikayet» ne demektir? Kavram ve kapsam",
@@ -23271,19 +23246,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin. (2) İdari itiraz veya üst başvuru gerekip gerekmediğine bakın. (3) İptal ve/veya tam yargı taleplerini netleştirin. (4) İdare mahkemesinde dava açın; YD talep edin (şartlar varsa). (5) Karar ve kanun yollarını takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «CİMER şikayet» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
-          "İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
-          "İptal ve/veya tam yargı taleplerini netleştirin.",
-          "İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
-          "Karar ve kanun yollarını takip edin."
+          "1. İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
+          "2. İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
+          "3. İptal ve/veya tam yargı taleplerini netleştirin.",
+          "4. İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
+          "5. Karar ve kanun yollarını takip edin."
         ]
       },
       {
@@ -23510,7 +23484,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«CİMER şikayet» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "belediye-cezasi-itiraz",
@@ -23541,7 +23515,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/imar"
       }
     ],
-    "lead": "«belediye cezası itiraz» araması çoğu zaman genel idare konusunun dar dilimidir: Belediye IPC. Bu sayfa (belediye-cezasi-itiraz) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/idari-dava-nasil-acilir). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İptal ve tam yargı davalarında süreler tebliğ/öğrenme tarihine göre çok kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Belediye IPC» sorusu buraya bırakılmıştır.",
+    "lead": "«belediye cezası itiraz» — kısa cevap: Belediye IPC. Tam süreç ve belgeler ana rehberdedir: /bilgi/idari-dava-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Belediye IPC",
@@ -23774,7 +23748,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Belediye IPC» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Belediye IPC» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "imar-durumu-nedir",
@@ -23806,7 +23780,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«imar durumu» araması çoğu zaman genel imar konusunun dar dilimidir: İmar durumu. Bu sayfa (imar-durumu-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İmar durumu» sorusu buraya bırakılmıştır.",
+    "lead": "«imar durumu» — kısa cevap: İmar durumu. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İmar durumu",
@@ -24039,7 +24013,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İmar durumu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İmar durumu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yapı-ruhsati-nedir",
@@ -24070,7 +24044,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«yapı ruhsatı» araması çoğu zaman genel imar konusunun dar dilimidir: Ruhsat. Bu sayfa (yapı-ruhsati-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/iskan-belgesi-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ruhsat» sorusu buraya bırakılmıştır.",
+    "lead": "«yapı ruhsatı» — kısa cevap: Ruhsat. Tam süreç ve belgeler ana rehberdedir: /bilgi/iskan-belgesi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ruhsat",
@@ -24303,7 +24277,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Ruhsat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ruhsat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "dask-nedir",
@@ -24334,7 +24308,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«DASK nedir» araması çoğu zaman genel sigorta konusunun dar dilimidir: DASK. Bu sayfa (dask-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TTK sigorta hükümleri ve özel sigorta genel şartları çevresindedir. Hasar ihbarında poliçe ve genel şart süreleri esastır; gecikme red gerekçesi olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «DASK» sorusu buraya bırakılmıştır.",
+    "lead": "«DASK nedir» — kısa cevap: DASK. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: DASK",
@@ -24567,7 +24541,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «DASK» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «DASK» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "noter-islemleri",
@@ -24600,7 +24574,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "Noterde hangi işlemler yapılır; usul alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla HMK (6100), İYUK (2577), Tebligat Kanunu, Arabuluculuk Kanunu hükümleriyle çizilir; başvuru mercileri arasında Yargıtay, arabuluculuk bürosu ve BAM öne çıkar. Aşağıda «noter vekâletname» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Noterde hangi işlemler yapılır: usul alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«noter vekâletname» ne demektir? Kavram ve kapsam",
@@ -24634,19 +24608,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin. (2) Görevli-yetkili mahkeme ve dava şartlarını kontrol edin. (3) Dilekçe ve delilleri hazırlayın; harcı yatırın. (4) Tebligatları UYAP/e-tebligattan takip edin. (5) Karar sonrası istinaf/temyiz süresini hesaplayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «noter vekâletname» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
-          "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
-          "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
-          "Tebligatları UYAP/e-tebligattan takip edin.",
-          "Karar sonrası istinaf/temyiz süresini hesaplayın."
+          "1. Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+          "2. Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
+          "3. Dilekçe ve delilleri hazırlayın; harcı yatırın.",
+          "4. Tebligatları UYAP/e-tebligattan takip edin.",
+          "5. Karar sonrası istinaf/temyiz süresini hesaplayın."
         ]
       },
       {
@@ -24873,7 +24846,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«noter vekâletname» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "vekaletname-azli",
@@ -24904,7 +24877,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«vekâletname azli» araması çoğu zaman genel usul konusunun dar dilimidir: Vekâletname azli. Bu sayfa (vekaletname-azli) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/noter-islemleri). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vekâletname azli» sorusu buraya bırakılmıştır.",
+    "lead": "«vekâletname azli» — kısa cevap: Vekâletname azli. Tam süreç ve belgeler ana rehberdedir: /bilgi/noter-islemleri. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vekâletname azli",
@@ -25137,7 +25110,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Vekâletname azli» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vekâletname azli» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cek-karsiliksiz",
@@ -25170,7 +25143,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "Karşılıksız çek durumunda ne yapılır; ticaret alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla TTK (6102), çek kanunu, ticaret sicili mevzuatı hükümleriyle çizilir; başvuru mercileri arasında ticaret/asliye ticaret mahkemesi, ticaret sicili ve noter öne çıkar. Aşağıda «karşılıksız çek» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Karşılıksız çek durumunda ne yapılır: ticaret alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«karşılıksız çek» ne demektir? Kavram ve kapsam",
@@ -25204,19 +25177,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) İşlem türünü (kuruluş, alacak, çek, marka) netleştirin. (2) Sicil ve sözleşme belgelerini toplayın. (3) Arabuluculuk gerekip gerekmediğine bakın. (4) Dava veya icra yolunu seçin. (5) Ticaret sicili tescil/ilanı güncel tutun.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «karşılıksız çek» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "İşlem türünü (kuruluş, alacak, çek, marka) netleştirin.",
-          "Sicil ve sözleşme belgelerini toplayın.",
-          "Arabuluculuk gerekip gerekmediğine bakın.",
-          "Dava veya icra yolunu seçin.",
-          "Ticaret sicili tescil/ilanı güncel tutun."
+          "1. İşlem türünü (kuruluş, alacak, çek, marka) netleştirin.",
+          "2. Sicil ve sözleşme belgelerini toplayın.",
+          "3. Arabuluculuk gerekip gerekmediğine bakın.",
+          "4. Dava veya icra yolunu seçin.",
+          "5. Ticaret sicili tescil/ilanı güncel tutun."
         ]
       },
       {
@@ -25443,7 +25415,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "«karşılıksız çek» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "sirket-kurulusu",
@@ -25476,7 +25448,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "Şirket nasıl kurulur? (LTD / A.Ş.); ticaret alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla TTK (6102), çek kanunu, ticaret sicili mevzuatı hükümleriyle çizilir; başvuru mercileri arasında arabuluculuk, noter ve ticaret/asliye ticaret mahkemesi öne çıkar. Aşağıda «limited şirket kuruluşu» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Şirket nasıl kurulur? (LTD / A.Ş.): ticaret alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«limited şirket kuruluşu» ne demektir? Kavram ve kapsam",
@@ -25510,19 +25482,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) İşlem türünü (kuruluş, alacak, çek, marka) netleştirin. (2) Sicil ve sözleşme belgelerini toplayın. (3) Arabuluculuk gerekip gerekmediğine bakın. (4) Dava veya icra yolunu seçin. (5) Ticaret sicili tescil/ilanı güncel tutun.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «limited şirket kuruluşu» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "İşlem türünü (kuruluş, alacak, çek, marka) netleştirin.",
-          "Sicil ve sözleşme belgelerini toplayın.",
-          "Arabuluculuk gerekip gerekmediğine bakın.",
-          "Dava veya icra yolunu seçin.",
-          "Ticaret sicili tescil/ilanı güncel tutun."
+          "1. İşlem türünü (kuruluş, alacak, çek, marka) netleştirin.",
+          "2. Sicil ve sözleşme belgelerini toplayın.",
+          "3. Arabuluculuk gerekip gerekmediğine bakın.",
+          "4. Dava veya icra yolunu seçin.",
+          "5. Ticaret sicili tescil/ilanı güncel tutun."
         ]
       },
       {
@@ -25749,7 +25720,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«limited şirket kuruluşu» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "ticari-isletme-nedir",
@@ -25780,7 +25751,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«ticari işletme» araması çoğu zaman genel ticaret konusunun dar dilimidir: Ticari işletme. Bu sayfa (ticari-isletme-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ticari işletme» sorusu buraya bırakılmıştır.",
+    "lead": "«ticari işletme» — kısa cevap: Ticari işletme. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ticari işletme",
@@ -26013,7 +25984,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Ticari işletme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ticari işletme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iflas-nedir",
@@ -26044,7 +26015,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ticari-sirketler"
       }
     ],
-    "lead": "«iflas nedir» araması çoğu zaman genel icra konusunun dar dilimidir: İflas. Bu sayfa (iflas-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İflas» sorusu buraya bırakılmıştır.",
+    "lead": "«iflas nedir» — kısa cevap: İflas. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İflas",
@@ -26277,7 +26248,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İflas» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İflas» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-inkar-tazminati",
@@ -26308,7 +26279,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«icra inkâr tazminatı» araması çoğu zaman genel icra konusunun dar dilimidir: İnkâr tazminatı genel. Bu sayfa (icra-inkar-tazminati) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İnkâr tazminatı genel» sorusu buraya bırakılmıştır.",
+    "lead": "«icra inkâr tazminatı» — kısa cevap: İnkâr tazminatı genel. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İnkâr tazminatı genel",
@@ -26541,7 +26512,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «İnkâr tazminatı genel» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İnkâr tazminatı genel» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "nafaka-odenmezse",
@@ -26573,7 +26544,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«nafaka ödenmezse» araması çoğu zaman genel aile konusunun dar dilimidir: İcra ve tazyik. Bu sayfa (nafaka-odenmezse) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İcra ve tazyik» sorusu buraya bırakılmıştır.",
+    "lead": "«nafaka ödenmezse» — kısa cevap: İcra ve tazyik. Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İcra ve tazyik",
@@ -26806,7 +26777,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İcra ve tazyik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İcra ve tazyik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ortakligin-giderilmesi-masraf",
@@ -26837,7 +26808,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«izale-i şuyu masrafı» araması çoğu zaman genel eşya konusunun dar dilimidir: İzale-i şuyu masrafı. Bu sayfa (ortakligin-giderilmesi-masraf) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İzale-i şuyu masrafı» sorusu buraya bırakılmıştır.",
+    "lead": "«izale-i şuyu masrafı» — kısa cevap: İzale-i şuyu masrafı. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İzale-i şuyu masrafı",
@@ -27070,7 +27041,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İzale-i şuyu masrafı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İzale-i şuyu masrafı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-icra",
@@ -27101,7 +27072,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "«e-devlet icra borcu» araması çoğu zaman genel icra konusunun dar dilimidir: e-Devlet borç dökümü. Bu sayfa (e-devlet-icra) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet borç dökümü» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet icra borcu» — kısa cevap: e-Devlet borç dökümü. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet borç dökümü",
@@ -27334,7 +27305,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «e-Devlet borç dökümü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet borç dökümü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "elektronik-tebligat",
@@ -27366,7 +27337,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«e-tebligat» araması çoğu zaman genel usul konusunun dar dilimidir: e-Tebligat. Bu sayfa (elektronik-tebligat) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tebligat-usulsuzlugu). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Tebligat» sorusu buraya bırakılmıştır.",
+    "lead": "«e-tebligat» — kısa cevap: e-Tebligat. Tam süreç ve belgeler ana rehberdedir: /bilgi/tebligat-usulsuzlugu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Tebligat",
@@ -27599,7 +27570,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «e-Tebligat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Tebligat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "dava-harci-nedir",
@@ -27630,7 +27601,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«dava harcı» araması çoğu zaman genel usul konusunun dar dilimidir: Harç. Bu sayfa (dava-harci-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/hukuk-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Harç» sorusu buraya bırakılmıştır.",
+    "lead": "«dava harcı» — kısa cevap: Harç. Tam süreç ve belgeler ana rehberdedir: /bilgi/hukuk-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Harç",
@@ -27863,7 +27834,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Harç» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Harç» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arabuluculuk-ucreti",
@@ -27894,7 +27865,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/tarife-guncellemeleri"
       }
     ],
-    "lead": "«arabuluculuk ücreti» araması çoğu zaman genel usul konusunun dar dilimidir: Ücret. Bu sayfa (arabuluculuk-ucreti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ücret» sorusu buraya bırakılmıştır.",
+    "lead": "«arabuluculuk ücreti» — kısa cevap: Ücret. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ücret",
@@ -28127,7 +28098,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Ücret» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ücret» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-kazasi-maluliyet",
@@ -28158,7 +28129,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«iş kazası maluliyet» araması çoğu zaman genel iş konusunun dar dilimidir: Maluliyet. Bu sayfa (is-kazasi-maluliyet) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Maluliyet» sorusu buraya bırakılmıştır.",
+    "lead": "«iş kazası maluliyet» — kısa cevap: Maluliyet. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Maluliyet",
@@ -28391,7 +28362,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Maluliyet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Maluliyet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kidem-tavan",
@@ -28423,7 +28394,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "«kıdem tazminatı tavanı» araması çoğu zaman genel iş konusunun dar dilimidir: Dönemsel kıdem tavanı ve hesabı sınırlama etkisi. Bu sayfa (kidem-tavan) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dönemsel kıdem tavanı ve hesabı sınırlama etkisi» sorusu buraya bırakılmıştır.",
+    "lead": "«kıdem tazminatı tavanı» — kısa cevap: Dönemsel kıdem tavanı ve hesabı sınırlama etkisi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dönemsel kıdem tavanı ve hesabı sınırlama etkisi",
@@ -28656,7 +28627,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Dönemsel kıdem tavanı ve hesabı sınırlama etkisi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dönemsel kıdem tavanı ve hesabı sınırlama etkisi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "askeri-hizmet-borclanma",
@@ -28687,7 +28658,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=bor%C3%A7lanma"
       }
     ],
-    "lead": "«askerlik borçlanması» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Askerlik borçlanma. Bu sayfa (askeri-hizmet-borclanma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Askerlik borçlanma» sorusu buraya bırakılmıştır.",
+    "lead": "«askerlik borçlanması» — kısa cevap: Askerlik borçlanma. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Askerlik borçlanma",
@@ -28920,7 +28891,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Askerlik borçlanma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Askerlik borçlanma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "dogum-borclanmasi",
@@ -28951,7 +28922,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=do%C4%9Fum"
       }
     ],
-    "lead": "«doğum borçlanması» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Doğum borçlanma. Bu sayfa (dogum-borclanmasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. Emeklilik ve borçlanmada prim günü/yaş şartları sigortalılık türüne göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Doğum borçlanma» sorusu buraya bırakılmıştır.",
+    "lead": "«doğum borçlanması» — kısa cevap: Doğum borçlanma. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Doğum borçlanma",
@@ -29184,7 +29155,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Doğum borçlanma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Doğum borçlanma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-vergi-borcu",
@@ -29215,7 +29186,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aatuhk"
       }
     ],
-    "lead": "«e-devlet vergi borcu» araması çoğu zaman genel vergi konusunun dar dilimidir: Sorgu. Bu sayfa (e-devlet-vergi-borcu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emlak-vergisi-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Tarhiyat, ceza ve ödeme vadeleri tebliğle işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sorgu» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet vergi borcu» — kısa cevap: Sorgu. Tam süreç ve belgeler ana rehberdedir: /bilgi/emlak-vergisi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sorgu",
@@ -29448,7 +29419,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Sorgu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sorgu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "mtk-aidat-icra",
@@ -29479,7 +29450,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«aidat ödenmezse» araması çoğu zaman genel eşya konusunun dar dilimidir: Aidat icrası. Bu sayfa (mtk-aidat-icra) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Aidat icrası» sorusu buraya bırakılmıştır.",
+    "lead": "«aidat ödenmezse» — kısa cevap: Aidat icrası. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Aidat icrası",
@@ -29712,7 +29683,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Aidat icrası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Aidat icrası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-tespit-davasi",
@@ -29743,7 +29714,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kira"
       }
     ],
-    "lead": "«kira tespit davası» araması çoğu zaman genel kira konusunun dar dilimidir: 5 yıl / rayiç tespit davası. Bu sayfa (kira-tespit-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «5 yıl / rayiç tespit davası» sorusu buraya bırakılmıştır.",
+    "lead": "«kira tespit davası» — kısa cevap: 5 yıl / rayiç tespit davası. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: 5 yıl / rayiç tespit davası",
@@ -29976,7 +29947,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «5 yıl / rayiç tespit davası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «5 yıl / rayiç tespit davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tahliye-taahhutnamesi",
@@ -30007,7 +29978,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«tahliye taahhütnamesi» araması çoğu zaman genel kira konusunun dar dilimidir: Taahhütname. Bu sayfa (tahliye-taahhutnamesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kiraci-nasil-tahliye-edilir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Taahhütname» sorusu buraya bırakılmıştır.",
+    "lead": "«tahliye taahhütnamesi» — kısa cevap: Taahhütname. Tam süreç ve belgeler ana rehberdedir: /bilgi/kiraci-nasil-tahliye-edilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Taahhütname",
@@ -30240,7 +30211,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Taahhütname» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Taahhütname» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-nufus",
@@ -30272,7 +30243,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=n%C3%BCfus"
       }
     ],
-    "lead": "e-Devlette hangi nüfus işlemleri yapılır dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla Nüfus Hizmetleri Kanunu, Türk Vatandaşlığı Kanunu (ilgiliyse) hükümleriyle çizilir; başvuru mercileri arasında mahkeme (isim/soyadı), e-Devlet ve nüfus müdürlüğü öne çıkar. Aşağıda «e-devlet nüfus işlemleri» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "e-Devlette hangi nüfus işlemleri yapılır: nüfus alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«e-devlet nüfus işlemleri» ne demektir? Kavram ve kapsam",
@@ -30306,19 +30277,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) e-Devletten ilgili işlemi seçin veya randevu alın. (2) Belgeleri hazırlayın. (3) Başvuruyu tamamlayın; başvuru numarasını saklayın. (4) Sonucu takip edin. (5) İlgili kurumlara (banka, okul) bildirim gerekip gerekmediğine bakın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «e-devlet nüfus işlemleri» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "e-Devletten ilgili işlemi seçin veya randevu alın.",
-          "Belgeleri hazırlayın.",
-          "Başvuruyu tamamlayın; başvuru numarasını saklayın.",
-          "Sonucu takip edin.",
-          "İlgili kurumlara (banka, okul) bildirim gerekip gerekmediğine bakın."
+          "1. e-Devletten ilgili işlemi seçin veya randevu alın.",
+          "2. Belgeleri hazırlayın.",
+          "3. Başvuruyu tamamlayın; başvuru numarasını saklayın.",
+          "4. Sonucu takip edin.",
+          "5. İlgili kurumlara (banka, okul) bildirim gerekip gerekmediğine bakın."
         ]
       },
       {
@@ -30545,7 +30515,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "«e-devlet nüfus işlemleri» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "adres-degisikligi",
@@ -30576,7 +30546,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tebligat"
       }
     ],
-    "lead": "«adres değişikliği» araması çoğu zaman genel nüfus konusunun dar dilimidir: Adres değişikliği. Bu sayfa (adres-degisikligi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Adres değişikliği» sorusu buraya bırakılmıştır.",
+    "lead": "«adres değişikliği» — kısa cevap: Adres değişikliği. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Adres değişikliği",
@@ -30809,7 +30779,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Adres değişikliği» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Adres değişikliği» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "anlasmali-bosanma-sartlari",
@@ -30840,7 +30810,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«anlaşmalı boşanma şartları» araması çoğu zaman genel aile konusunun dar dilimidir: Anlaşmalı şartlar. Bu sayfa (anlasmali-bosanma-sartlari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bosanma-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Anlaşmalı şartlar» sorusu buraya bırakılmıştır.",
+    "lead": "«anlaşmalı boşanma şartları» — kısa cevap: Anlaşmalı şartlar. Tam süreç ve belgeler ana rehberdedir: /bilgi/bosanma-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Anlaşmalı şartlar",
@@ -31073,7 +31043,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Anlaşmalı şartlar» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Anlaşmalı şartlar» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cekismeli-bosanma-sureci",
@@ -31104,7 +31074,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«çekişmeli boşanma» araması çoğu zaman genel aile konusunun dar dilimidir: Çekişmeli süreç. Bu sayfa (cekismeli-bosanma-sureci) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bosanma-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çekişmeli süreç» sorusu buraya bırakılmıştır.",
+    "lead": "«çekişmeli boşanma» — kısa cevap: Çekişmeli süreç. Tam süreç ve belgeler ana rehberdedir: /bilgi/bosanma-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çekişmeli süreç",
@@ -31337,7 +31307,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Çekişmeli süreç» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çekişmeli süreç» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bosanma-protokolu-ornegi",
@@ -31368,7 +31338,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=bo%C5%9Fanma"
       }
     ],
-    "lead": "«boşanma protokolü» araması çoğu zaman genel aile konusunun dar dilimidir: Protokol içeriği. Bu sayfa (bosanma-protokolu-ornegi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bosanma-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Protokol içeriği» sorusu buraya bırakılmıştır.",
+    "lead": "«boşanma protokolü» — kısa cevap: Protokol içeriği. Tam süreç ve belgeler ana rehberdedir: /bilgi/bosanma-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Protokol içeriği",
@@ -31601,7 +31571,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Protokol içeriği» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Protokol içeriği» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tedbir-nafakasi-nedir",
@@ -31632,7 +31602,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«tedbir nafakası» araması çoğu zaman genel aile konusunun dar dilimidir: Dava süresince tedbir nafakası. Bu sayfa (tedbir-nafakasi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dava süresince tedbir nafakası» sorusu buraya bırakılmıştır.",
+    "lead": "«tedbir nafakası» — kısa cevap: Dava süresince tedbir nafakası. Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dava süresince tedbir nafakası",
@@ -31865,7 +31835,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Dava süresince tedbir nafakası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dava süresince tedbir nafakası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yoksulluk-nafakasi-sartlari",
@@ -31896,7 +31866,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«yoksulluk nafakası şartları» araması çoğu zaman genel aile konusunun dar dilimidir: Yoksulluk nafakası şartları. Bu sayfa (yoksulluk-nafakasi-sartlari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yoksulluk nafakası şartları» sorusu buraya bırakılmıştır.",
+    "lead": "«yoksulluk nafakası şartları» — kısa cevap: Yoksulluk nafakası şartları. Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yoksulluk nafakası şartları",
@@ -32129,7 +32099,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Yoksulluk nafakası şartları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yoksulluk nafakası şartları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "istirak-nafakasi-nedir",
@@ -32161,7 +32131,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«iştirak nafakası» araması çoğu zaman genel aile konusunun dar dilimidir: Çocuk iştirak nafakası tanımı. Bu sayfa (istirak-nafakasi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çocuk iştirak nafakası tanımı» sorusu buraya bırakılmıştır.",
+    "lead": "«iştirak nafakası» — kısa cevap: Çocuk iştirak nafakası tanımı. Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çocuk iştirak nafakası tanımı",
@@ -32394,7 +32364,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Çocuk iştirak nafakası tanımı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çocuk iştirak nafakası tanımı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "velayet-degisikligi",
@@ -32425,7 +32395,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«velayet değişikliği» araması çoğu zaman genel aile konusunun dar dilimidir: Değişiklik. Bu sayfa (velayet-degisikligi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/velayet-davasi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Değişiklik» sorusu buraya bırakılmıştır.",
+    "lead": "«velayet değişikliği» — kısa cevap: Değişiklik. Tam süreç ve belgeler ana rehberdedir: /bilgi/velayet-davasi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Değişiklik",
@@ -32658,7 +32628,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Değişiklik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Değişiklik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kisisel-iliski-duzenlemesi",
@@ -32689,7 +32659,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cck"
       }
     ],
-    "lead": "«kişisel ilişki düzenlemesi» araması çoğu zaman genel aile konusunun dar dilimidir: Görüşme. Bu sayfa (kisisel-iliski-duzenlemesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/velayet-davasi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Görüşme» sorusu buraya bırakılmıştır.",
+    "lead": "«kişisel ilişki düzenlemesi» — kısa cevap: Görüşme. Tam süreç ve belgeler ana rehberdedir: /bilgi/velayet-davasi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Görüşme",
@@ -32922,7 +32892,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Görüşme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Görüşme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "evlilik-sozlesmesi-nedir",
@@ -32953,7 +32923,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«evlilik sözleşmesi» araması çoğu zaman genel aile konusunun dar dilimidir: Evlilik sözleşmesi. Bu sayfa (evlilik-sozlesmesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Evlilik sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«evlilik sözleşmesi» — kısa cevap: Evlilik sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Evlilik sözleşmesi",
@@ -33186,7 +33156,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Evlilik sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Evlilik sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "nisan-bozulmasi-tazminat",
@@ -33218,7 +33188,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«nişan bozulması tazminatı» araması çoğu zaman genel aile konusunun dar dilimidir: Nişan bozulması tazminatı. Bu sayfa (nisan-bozulmasi-tazminat) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Nişan bozulması tazminatı» sorusu buraya bırakılmıştır.",
+    "lead": "«nişan bozulması tazminatı» — kısa cevap: Nişan bozulması tazminatı. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Nişan bozulması tazminatı",
@@ -33451,7 +33421,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Nişan bozulması tazminatı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Nişan bozulması tazminatı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ayrilik-karari-nedir",
@@ -33482,7 +33452,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«ayrılık kararı» araması çoğu zaman genel aile konusunun dar dilimidir: Ayrılık kararı. Bu sayfa (ayrilik-karari-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ayrılık kararı» sorusu buraya bırakılmıştır.",
+    "lead": "«ayrılık kararı» — kısa cevap: Ayrılık kararı. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ayrılık kararı",
@@ -33715,7 +33685,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Ayrılık kararı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ayrılık kararı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "aile-konutu-serhi",
@@ -33746,7 +33716,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«aile konutu şerhi» araması çoğu zaman genel aile konusunun dar dilimidir: Aile konutu şerhi. Bu sayfa (aile-konutu-serhi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Aile konutu şerhi» sorusu buraya bırakılmıştır.",
+    "lead": "«aile konutu şerhi» — kısa cevap: Aile konutu şerhi. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Aile konutu şerhi",
@@ -33979,7 +33949,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Aile konutu şerhi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Aile konutu şerhi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hayata-kast-bosanma",
@@ -34010,7 +33980,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-kisiler"
       }
     ],
-    "lead": "«hayata kast boşanma» araması çoğu zaman genel aile konusunun dar dilimidir: Özel sebep. Bu sayfa (hayata-kast-bosanma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bosanma-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Özel sebep» sorusu buraya bırakılmıştır.",
+    "lead": "«hayata kast boşanma» — kısa cevap: Özel sebep. Tam süreç ve belgeler ana rehberdedir: /bilgi/bosanma-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Özel sebep",
@@ -34243,7 +34213,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Özel sebep» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Özel sebep» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "terk-sebebiyle-bosanma",
@@ -34274,7 +34244,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«terk sebebiyle boşanma» araması çoğu zaman genel aile konusunun dar dilimidir: Terk. Bu sayfa (terk-sebebiyle-bosanma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bosanma-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Terk» sorusu buraya bırakılmıştır.",
+    "lead": "«terk sebebiyle boşanma» — kısa cevap: Terk. Tam süreç ve belgeler ana rehberdedir: /bilgi/bosanma-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Terk",
@@ -34507,7 +34477,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Terk» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Terk» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "zina-sebebiyle-bosanma",
@@ -34538,7 +34508,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«zina boşanma» araması çoğu zaman genel aile konusunun dar dilimidir: Zina. Bu sayfa (zina-sebebiyle-bosanma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bosanma-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Zina» sorusu buraya bırakılmıştır.",
+    "lead": "«zina boşanma» — kısa cevap: Zina. Tam süreç ve belgeler ana rehberdedir: /bilgi/bosanma-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Zina",
@@ -34771,7 +34741,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Zina» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Zina» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "isten-cikarilma-tazminatlari",
@@ -34802,7 +34772,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "«işten çıkarılma tazminatları» araması çoğu zaman genel iş konusunun dar dilimidir: Fesihte hangi kalemler birlikte gündeme gelir (genel harita). Bu sayfa (isten-cikarilma-tazminatlari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Fesihte hangi kalemler birlikte gündeme gelir (genel harita)» sorusu buraya bırakılmıştır.",
+    "lead": "«işten çıkarılma tazminatları» — kısa cevap: Fesihte hangi kalemler birlikte gündeme gelir (genel harita). Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Fesihte hangi kalemler birlikte gündeme gelir (genel harita)",
@@ -35035,7 +35005,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Fesihte hangi kalemler birlikte gündeme gelir (genel harita)» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Fesihte hangi kalemler birlikte gündeme gelir (genel harita)» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "belirsiz-sureli-is-sozlesmesi",
@@ -35065,7 +35035,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=i%C5%9F%20s%C3%B6zle%C5%9Fmesi"
       }
     ],
-    "lead": "«belirsiz süreli iş sözleşmesi» araması çoğu zaman genel iş konusunun dar dilimidir: Belirsiz süre. Bu sayfa (belirsiz-sureli-is-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Belirsiz süre» sorusu buraya bırakılmıştır.",
+    "lead": "«belirsiz süreli iş sözleşmesi» — kısa cevap: Belirsiz süre. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Belirsiz süre",
@@ -35298,7 +35268,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Belirsiz süre» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Belirsiz süre» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "belirli-sureli-is-sozlesmesi",
@@ -35328,7 +35298,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=belirli%20s%C3%BCreli"
       }
     ],
-    "lead": "«belirli süreli iş sözleşmesi» araması çoğu zaman genel iş konusunun dar dilimidir: Belirli süre. Bu sayfa (belirli-sureli-is-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Belirli süre» sorusu buraya bırakılmıştır.",
+    "lead": "«belirli süreli iş sözleşmesi» — kısa cevap: Belirli süre. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Belirli süre",
@@ -35561,7 +35531,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Belirli süre» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Belirli süre» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "deneme-suresi-is",
@@ -35591,7 +35561,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "«deneme süresi iş kanunu» araması çoğu zaman genel iş konusunun dar dilimidir: Deneme. Bu sayfa (deneme-suresi-is) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Deneme» sorusu buraya bırakılmıştır.",
+    "lead": "«deneme süresi iş kanunu» — kısa cevap: Deneme. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Deneme",
@@ -35824,7 +35794,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Deneme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Deneme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yillik-izin-hakki",
@@ -35855,7 +35825,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«yıllık izin hakkı» araması çoğu zaman genel iş konusunun dar dilimidir: Yıllık izin. Bu sayfa (yillik-izin-hakki) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/fazla-mesai-ucreti). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yıllık izin» sorusu buraya bırakılmıştır.",
+    "lead": "«yıllık izin hakkı» — kısa cevap: Yıllık izin. Tam süreç ve belgeler ana rehberdedir: /bilgi/fazla-mesai-ucreti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yıllık izin",
@@ -36088,7 +36058,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Yıllık izin» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yıllık izin» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ubgt-ucreti",
@@ -36119,7 +36089,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«UBGT ücreti» araması çoğu zaman genel iş konusunun dar dilimidir: UBGT. Bu sayfa (ubgt-ucreti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/fazla-mesai-ucreti). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «UBGT» sorusu buraya bırakılmıştır.",
+    "lead": "«UBGT ücreti» — kısa cevap: UBGT. Tam süreç ve belgeler ana rehberdedir: /bilgi/fazla-mesai-ucreti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: UBGT",
@@ -36352,7 +36322,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «UBGT» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «UBGT» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hafta-tatili-ucreti",
@@ -36382,7 +36352,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=hafta%20tatili"
       }
     ],
-    "lead": "«hafta tatili ücreti» araması çoğu zaman genel iş konusunun dar dilimidir: Hafta tatili. Bu sayfa (hafta-tatili-ucreti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/fazla-mesai-ucreti). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hafta tatili» sorusu buraya bırakılmıştır.",
+    "lead": "«hafta tatili ücreti» — kısa cevap: Hafta tatili. Tam süreç ve belgeler ana rehberdedir: /bilgi/fazla-mesai-ucreti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hafta tatili",
@@ -36615,7 +36585,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Hafta tatili» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hafta tatili» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "asgari-ucret-net-brut",
@@ -36647,7 +36617,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«asgari ücret net brüt» araması çoğu zaman genel iş konusunun dar dilimidir: Asgari ücret net brüt. Bu sayfa (asgari-ucret-net-brut) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Asgari ücret net brüt» sorusu buraya bırakılmıştır.",
+    "lead": "«asgari ücret net brüt» — kısa cevap: Asgari ücret net brüt. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Asgari ücret net brüt",
@@ -36880,7 +36850,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Asgari ücret net brüt» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Asgari ücret net brüt» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ucretsiz-izin-nedir",
@@ -36912,7 +36882,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«ücretsiz izin» araması çoğu zaman genel iş konusunun dar dilimidir: Ücretsiz izin. Bu sayfa (ucretsiz-izin-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ücretsiz izin» sorusu buraya bırakılmıştır.",
+    "lead": "«ücretsiz izin» — kısa cevap: Ücretsiz izin. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ücretsiz izin",
@@ -37145,7 +37115,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Ücretsiz izin» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ücretsiz izin» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "istifa-nasil-edilir",
@@ -37176,7 +37146,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "«istifa nasıl edilir» araması çoğu zaman genel iş konusunun dar dilimidir: İstifa. Bu sayfa (istifa-nasil-edilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İstifa» sorusu buraya bırakılmıştır.",
+    "lead": "«istifa nasıl edilir» — kısa cevap: İstifa. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İstifa",
@@ -37409,7 +37379,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İstifa» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İstifa» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hakli-fesih-isci",
@@ -37441,7 +37411,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "«işçi haklı fesih» araması çoğu zaman genel iş konusunun dar dilimidir: İşçi haklı fesih. Bu sayfa (hakli-fesih-isci) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşçi haklı fesih» sorusu buraya bırakılmıştır.",
+    "lead": "«işçi haklı fesih» — kısa cevap: İşçi haklı fesih. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşçi haklı fesih",
@@ -37674,7 +37644,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İşçi haklı fesih» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşçi haklı fesih» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "isveren-hakli-fesih",
@@ -37705,7 +37675,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=hakl%C4%B1%20fesih"
       }
     ],
-    "lead": "«işveren haklı fesih» araması çoğu zaman genel iş konusunun dar dilimidir: İşveren haklı fesih. Bu sayfa (isveren-hakli-fesih) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşveren haklı fesih» sorusu buraya bırakılmıştır.",
+    "lead": "«işveren haklı fesih» — kısa cevap: İşveren haklı fesih. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşveren haklı fesih",
@@ -37938,7 +37908,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İşveren haklı fesih» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşveren haklı fesih» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kotu-niyet-tazminati",
@@ -37968,7 +37938,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«kötü niyet tazminatı» araması çoğu zaman genel iş konusunun dar dilimidir: Kötü niyet. Bu sayfa (kotu-niyet-tazminati) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kötü niyet» sorusu buraya bırakılmıştır.",
+    "lead": "«kötü niyet tazminatı» — kısa cevap: Kötü niyet. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kötü niyet",
@@ -38201,7 +38171,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Kötü niyet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kötü niyet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sendika-ozgurlugu",
@@ -38233,7 +38203,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«sendika özgürlüğü» araması çoğu zaman genel iş konusunun dar dilimidir: Sendika özgürlüğü. Bu sayfa (sendika-ozgurlugu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sendika özgürlüğü» sorusu buraya bırakılmıştır.",
+    "lead": "«sendika özgürlüğü» — kısa cevap: Sendika özgürlüğü. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sendika özgürlüğü",
@@ -38466,7 +38436,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Sendika özgürlüğü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sendika özgürlüğü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "toplu-is-sozlesmesi",
@@ -38498,7 +38468,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«toplu iş sözleşmesi» araması çoğu zaman genel iş konusunun dar dilimidir: Toplu iş sözleşmesi. Bu sayfa (toplu-is-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Toplu iş sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«toplu iş sözleşmesi» — kısa cevap: Toplu iş sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Toplu iş sözleşmesi",
@@ -38731,7 +38701,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Toplu iş sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Toplu iş sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-guvenligi-uzmani",
@@ -38762,7 +38732,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«iş güvenliği uzmanı» araması çoğu zaman genel iş konusunun dar dilimidir: İSG yükümlülük. Bu sayfa (is-guvenligi-uzmani) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İSG yükümlülük» sorusu buraya bırakılmıştır.",
+    "lead": "«iş güvenliği uzmanı» — kısa cevap: İSG yükümlülük. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İSG yükümlülük",
@@ -38995,7 +38965,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İSG yükümlülük» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İSG yükümlülük» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "esdeger-is-esit-ucret",
@@ -39027,7 +38997,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=e%C5%9Fitlik"
       }
     ],
-    "lead": "«eşit işe eşit ücret» araması çoğu zaman genel iş konusunun dar dilimidir: Eşit işe eşit ücret. Bu sayfa (esdeger-is-esit-ucret) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Eşit işe eşit ücret» sorusu buraya bırakılmıştır.",
+    "lead": "«eşit işe eşit ücret» — kısa cevap: Eşit işe eşit ücret. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Eşit işe eşit ücret",
@@ -39260,7 +39230,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Eşit işe eşit ücret» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Eşit işe eşit ücret» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "part-time-is-sozlesmesi",
@@ -39292,7 +39262,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "«part time iş kanunu» araması çoğu zaman genel iş konusunun dar dilimidir: Kısmi süre. Bu sayfa (part-time-is-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kısmi süre» sorusu buraya bırakılmıştır.",
+    "lead": "«part time iş kanunu» — kısa cevap: Kısmi süre. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kısmi süre",
@@ -39525,7 +39495,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kısmi süre» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kısmi süre» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "uzaklastirma-isyerinden",
@@ -39557,7 +39527,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=uzakla%C5%9Ft%C4%B1rma"
       }
     ],
-    "lead": "«işyerinden uzaklaştırma» araması çoğu zaman genel iş konusunun dar dilimidir: İşyerinden uzaklaştırma. Bu sayfa (uzaklastirma-isyerinden) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşyerinden uzaklaştırma» sorusu buraya bırakılmıştır.",
+    "lead": "«işyerinden uzaklaştırma» — kısa cevap: İşyerinden uzaklaştırma. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşyerinden uzaklaştırma",
@@ -39790,7 +39760,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İşyerinden uzaklaştırma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşyerinden uzaklaştırma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iscilik-alacaklari-zamansimi",
@@ -39821,7 +39791,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«işçilik alacakları zamanaşımı» araması çoğu zaman genel iş konusunun dar dilimidir: Zamanaşımı süreleri. Bu sayfa (iscilik-alacaklari-zamansimi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Zamanaşımı süreleri» sorusu buraya bırakılmıştır.",
+    "lead": "«işçilik alacakları zamanaşımı» — kısa cevap: Zamanaşımı süreleri. Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Zamanaşımı süreleri",
@@ -40054,7 +40024,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Zamanaşımı süreleri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Zamanaşımı süreleri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "haciz-islemleri-nasil-yapilir",
@@ -40085,7 +40055,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "«haciz nasıl yapılır» araması çoğu zaman genel icra konusunun dar dilimidir: Haciz süreci. Bu sayfa (haciz-islemleri-nasil-yapilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Haciz süreci» sorusu buraya bırakılmıştır.",
+    "lead": "«haciz nasıl yapılır» — kısa cevap: Haciz süreci. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Haciz süreci",
@@ -40318,7 +40288,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Haciz süreci» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Haciz süreci» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "maas-haczi-orani",
@@ -40350,7 +40320,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=maa%C5%9F%20haczi"
       }
     ],
-    "lead": "«maaş haczi oranı» araması çoğu zaman genel icra konusunun dar dilimidir: Maaş kesinti oranı. Bu sayfa (maas-haczi-orani) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Maaş kesinti oranı» sorusu buraya bırakılmıştır.",
+    "lead": "«maaş haczi oranı» — kısa cevap: Maaş kesinti oranı. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Maaş kesinti oranı",
@@ -40583,7 +40553,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Maaş kesinti oranı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Maaş kesinti oranı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "banka-hesabi-haczi",
@@ -40614,7 +40584,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "«banka hesabı haczi» araması çoğu zaman genel icra konusunun dar dilimidir: Hesap blokesi. Bu sayfa (banka-hesabi-haczi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Ödeme emrine itiraz süresi tebliğden itibaren kural olarak 7 gündür. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hesap blokesi» sorusu buraya bırakılmıştır.",
+    "lead": "«banka hesabı haczi» — kısa cevap: Hesap blokesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hesap blokesi",
@@ -40847,7 +40817,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Hesap blokesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hesap blokesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arac-haczi-nedir",
@@ -40878,7 +40848,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=haciz"
       }
     ],
-    "lead": "«araç haczi» araması çoğu zaman genel icra konusunun dar dilimidir: Araç haczi. Bu sayfa (arac-haczi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Araç haczi» sorusu buraya bırakılmıştır.",
+    "lead": "«araç haczi» — kısa cevap: Araç haczi. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Araç haczi",
@@ -41111,7 +41081,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Araç haczi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Araç haczi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tapu-haczi-nedir",
@@ -41142,7 +41112,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«tapu haczi» araması çoğu zaman genel icra konusunun dar dilimidir: Tapu şerhi haciz. Bu sayfa (tapu-haczi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tapu şerhi haciz» sorusu buraya bırakılmıştır.",
+    "lead": "«tapu haczi» — kısa cevap: Tapu şerhi haciz. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tapu şerhi haciz",
@@ -41375,7 +41345,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Tapu şerhi haciz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tapu şerhi haciz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-satis-ihalesi",
@@ -41406,7 +41376,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ihalenin%20feshi"
       }
     ],
-    "lead": "«icra satış ihalesi» araması çoğu zaman genel icra konusunun dar dilimidir: Cebri satış. Bu sayfa (icra-satis-ihalesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Cebri satış» sorusu buraya bırakılmıştır.",
+    "lead": "«icra satış ihalesi» — kısa cevap: Cebri satış. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Cebri satış",
@@ -41639,7 +41609,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Cebri satış» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Cebri satış» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "itirazin-iptali-davasi",
@@ -41670,7 +41640,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«itirazın iptali davası» araması çoğu zaman genel icra konusunun dar dilimidir: İtirazın iptali. Bu sayfa (itirazin-iptali-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Ödeme emrine itiraz süresi tebliğden itibaren kural olarak 7 gündür. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İtirazın iptali» sorusu buraya bırakılmıştır.",
+    "lead": "«itirazın iptali davası» — kısa cevap: İtirazın iptali. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İtirazın iptali",
@@ -41903,7 +41873,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İtirazın iptali» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İtirazın iptali» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "itirazin-kaldirilmasi",
@@ -41935,7 +41905,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=itiraz%C4%B1n%20kald%C4%B1r%C4%B1lmas%C4%B1"
       }
     ],
-    "lead": "«itirazın kaldırılması» araması çoğu zaman genel icra konusunun dar dilimidir: İtirazın kaldırılması. Bu sayfa (itirazin-kaldirilmasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İtirazın kaldırılması» sorusu buraya bırakılmıştır.",
+    "lead": "«itirazın kaldırılması» — kısa cevap: İtirazın kaldırılması. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İtirazın kaldırılması",
@@ -42168,7 +42138,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İtirazın kaldırılması» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İtirazın kaldırılması» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "menfi-tespit-davasi",
@@ -42199,7 +42169,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«menfi tespit davası» araması çoğu zaman genel icra konusunun dar dilimidir: Menfi tespit. Bu sayfa (menfi-tespit-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Menfi tespit» sorusu buraya bırakılmıştır.",
+    "lead": "«menfi tespit davası» — kısa cevap: Menfi tespit. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Menfi tespit",
@@ -42432,7 +42402,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Menfi tespit» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Menfi tespit» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "istirdat-davasi",
@@ -42463,7 +42433,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«istirdat davası» araması çoğu zaman genel icra konusunun dar dilimidir: İstirdat. Bu sayfa (istirdat-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İstirdat» sorusu buraya bırakılmıştır.",
+    "lead": "«istirdat davası» — kısa cevap: İstirdat. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İstirdat",
@@ -42696,7 +42666,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İstirdat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İstirdat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "konkordato-nedir",
@@ -42727,7 +42697,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ticari-sirketler"
       }
     ],
-    "lead": "«konkordato nedir» araması çoğu zaman genel icra konusunun dar dilimidir: Konkordato. Bu sayfa (konkordato-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Konkordato» sorusu buraya bırakılmıştır.",
+    "lead": "«konkordato nedir» — kısa cevap: Konkordato. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Konkordato",
@@ -42960,7 +42930,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Konkordato» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Konkordato» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-vekalet-ucreti",
@@ -42991,7 +42961,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/tarife-guncellemeleri"
       }
     ],
-    "lead": "«icra vekalet ücreti» araması çoğu zaman genel icra konusunun dar dilimidir: Vekâlet ücreti. Bu sayfa (icra-vekalet-ucreti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vekâlet ücreti» sorusu buraya bırakılmıştır.",
+    "lead": "«icra vekalet ücreti» — kısa cevap: Vekâlet ücreti. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vekâlet ücreti",
@@ -43224,7 +43194,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Vekâlet ücreti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vekâlet ücreti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kambiyo-senetlerine-ozgu-takip",
@@ -43256,7 +43226,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/kiymetli-evrak"
       }
     ],
-    "lead": "«kambiyo senetleri icra» araması çoğu zaman genel icra konusunun dar dilimidir: Kambiyo özel takip. Bu sayfa (kambiyo-senetlerine-ozgu-takip) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kambiyo özel takip» sorusu buraya bırakılmıştır.",
+    "lead": "«kambiyo senetleri icra» — kısa cevap: Kambiyo özel takip. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kambiyo özel takip",
@@ -43489,7 +43459,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Kambiyo özel takip» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kambiyo özel takip» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ilamli-icra-nedir",
@@ -43520,7 +43490,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«ilamlı icra» araması çoğu zaman genel icra konusunun dar dilimidir: İlamlı takip. Bu sayfa (ilamli-icra-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İlamlı takip» sorusu buraya bırakılmıştır.",
+    "lead": "«ilamlı icra» — kısa cevap: İlamlı takip. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İlamlı takip",
@@ -43753,7 +43723,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İlamlı takip» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İlamlı takip» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-borcu-yapislandirma",
@@ -43784,7 +43754,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "«icra borcu taksit» araması çoğu zaman genel icra konusunun dar dilimidir: Taksit / ödeme planı. Bu sayfa (icra-borcu-yapislandirma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Taksit / ödeme planı» sorusu buraya bırakılmıştır.",
+    "lead": "«icra borcu taksit» — kısa cevap: Taksit / ödeme planı. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Taksit / ödeme planı",
@@ -44017,7 +43987,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Taksit / ödeme planı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Taksit / ödeme planı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-sozlesmesi-nasil-yapilir",
@@ -44048,7 +44018,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kira"
       }
     ],
-    "lead": "«kira sözleşmesi nasıl yapılır» araması çoğu zaman genel kira konusunun dar dilimidir: Sözleşme kurulumu. Bu sayfa (kira-sozlesmesi-nasil-yapilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sözleşme kurulumu» sorusu buraya bırakılmıştır.",
+    "lead": "«kira sözleşmesi nasıl yapılır» — kısa cevap: Sözleşme kurulumu. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sözleşme kurulumu",
@@ -44281,7 +44251,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Sözleşme kurulumu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sözleşme kurulumu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kiraci-haklari-nelerdir",
@@ -44312,7 +44282,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kira"
       }
     ],
-    "lead": "«kiracı hakları» araması çoğu zaman genel kira konusunun dar dilimidir: Kiracı hakları özeti. Bu sayfa (kiraci-haklari-nelerdir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kiracı hakları özeti» sorusu buraya bırakılmıştır.",
+    "lead": "«kiracı hakları» — kısa cevap: Kiracı hakları özeti. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kiracı hakları özeti",
@@ -44545,7 +44515,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Kiracı hakları özeti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kiracı hakları özeti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kiraya-veren-haklari",
@@ -44577,7 +44547,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«kiraya veren hakları» araması çoğu zaman genel kira konusunun dar dilimidir: Ev sahibi hakları. Bu sayfa (kiraya-veren-haklari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ev sahibi hakları» sorusu buraya bırakılmıştır.",
+    "lead": "«kiraya veren hakları» — kısa cevap: Ev sahibi hakları. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ev sahibi hakları",
@@ -44810,7 +44780,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Ev sahibi hakları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ev sahibi hakları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-odeme-ihtari",
@@ -44843,7 +44813,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«kira ihtarı» araması çoğu zaman genel kira konusunun dar dilimidir: Temerrüt ihtarı. Bu sayfa (kira-odeme-ihtari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Temerrüt ihtarı» sorusu buraya bırakılmıştır.",
+    "lead": "«kira ihtarı» — kısa cevap: Temerrüt ihtarı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Temerrüt ihtarı",
@@ -45076,7 +45046,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Temerrüt ihtarı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Temerrüt ihtarı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "isyeri-kirasi-tahliye",
@@ -45107,7 +45077,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«işyeri kira tahliye» araması çoğu zaman genel kira konusunun dar dilimidir: İşyeri. Bu sayfa (isyeri-kirasi-tahliye) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kiraci-nasil-tahliye-edilir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşyeri» sorusu buraya bırakılmıştır.",
+    "lead": "«işyeri kira tahliye» — kısa cevap: İşyeri. Tam süreç ve belgeler ana rehberdedir: /bilgi/kiraci-nasil-tahliye-edilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşyeri",
@@ -45340,7 +45310,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İşyeri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşyeri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-uyusmazligi-arabuluculuk",
@@ -45370,7 +45340,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«kira arabuluculuk» araması çoğu zaman genel kira konusunun dar dilimidir: Kira. Bu sayfa (kira-uyusmazligi-arabuluculuk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kira» sorusu buraya bırakılmıştır.",
+    "lead": "«kira arabuluculuk» — kısa cevap: Kira. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kira",
@@ -45603,7 +45573,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Kira» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kira» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "alt-kira-ve-devir",
@@ -45635,7 +45605,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=alt%20kira"
       }
     ],
-    "lead": "«alt kira» araması çoğu zaman genel kira konusunun dar dilimidir: Alt kira / devir. Bu sayfa (alt-kira-ve-devir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Alt kira / devir» sorusu buraya bırakılmıştır.",
+    "lead": "«alt kira» — kısa cevap: Alt kira / devir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Alt kira / devir",
@@ -45868,7 +45838,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Alt kira / devir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Alt kira / devir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-bedeli-odeme-sekli",
@@ -45900,7 +45870,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kira"
       }
     ],
-    "lead": "«kira ödeme ispatı» araması çoğu zaman genel kira konusunun dar dilimidir: Ödeme ispatı. Bu sayfa (kira-bedeli-odeme-sekli) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ödeme ispatı» sorusu buraya bırakılmıştır.",
+    "lead": "«kira ödeme ispatı» — kısa cevap: Ödeme ispatı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ödeme ispatı",
@@ -46133,7 +46103,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Ödeme ispatı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ödeme ispatı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tuketici-kredisi-cayma",
@@ -46164,7 +46134,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kredi"
       }
     ],
-    "lead": "«tüketici kredisi cayma» araması çoğu zaman genel tüketici konusunun dar dilimidir: Kredi cayma. Bu sayfa (tuketici-kredisi-cayma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kredi cayma» sorusu buraya bırakılmıştır.",
+    "lead": "«tüketici kredisi cayma» — kısa cevap: Kredi cayma. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kredi cayma",
@@ -46397,7 +46367,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kredi cayma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kredi cayma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kredi-karti-itiraz",
@@ -46427,7 +46397,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kredi%20kart%C4%B1"
       }
     ],
-    "lead": "«kredi kartı itiraz» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla 6502 sayılı TKHK, mesafeli sözleşmeler mevzuatı, TBK ayıp hükümleri hükümleriyle çizilir; başvuru mercileri arasında tüketici mahkemesi, e-Devlet ve tüketici hakem heyeti öne çıkar. Aşağıda «kredi kartı itiraz» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Kredi kartı harcamasına nasıl itiraz edilir: tüketici alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«kredi kartı itiraz» ne demektir? Kavram ve kapsam",
@@ -46461,19 +46431,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Sözleşme/fatura ve ayıp kanıtlarını toplayın. (2) Satıcıya yazılı başvuru yapın; süre verin. (3) Sonuç alamazsanız hakem heyeti veya mahkemeyi seçin. (4) e-Devlet başvuru numarasını saklayın. (5) Karar aleyhineyse itiraz/dava süresini hesaplayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «kredi kartı itiraz» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Sözleşme/fatura ve ayıp kanıtlarını toplayın.",
-          "Satıcıya yazılı başvuru yapın; süre verin.",
-          "Sonuç alamazsanız hakem heyeti veya mahkemeyi seçin.",
-          "e-Devlet başvuru numarasını saklayın.",
-          "Karar aleyhineyse itiraz/dava süresini hesaplayın."
+          "1. Sözleşme/fatura ve ayıp kanıtlarını toplayın.",
+          "2. Satıcıya yazılı başvuru yapın; süre verin.",
+          "3. Sonuç alamazsanız hakem heyeti veya mahkemeyi seçin.",
+          "4. e-Devlet başvuru numarasını saklayın.",
+          "5. Karar aleyhineyse itiraz/dava süresini hesaplayın."
         ]
       },
       {
@@ -46700,7 +46669,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«kredi kartı itiraz» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "kredi-borcu-yapislandirma",
@@ -46731,7 +46700,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«kredi borcu yapılandırma» araması çoğu zaman genel tüketici konusunun dar dilimidir: Kredi borcu yapılandırma. Bu sayfa (kredi-borcu-yapislandirma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kredi-karti-itiraz). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Hakem heyeti parasal sınırları her yıl güncellenir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kredi borcu yapılandırma» sorusu buraya bırakılmıştır.",
+    "lead": "«kredi borcu yapılandırma» — kısa cevap: Kredi borcu yapılandırma. Tam süreç ve belgeler ana rehberdedir: /bilgi/kredi-karti-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kredi borcu yapılandırma",
@@ -46964,7 +46933,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Kredi borcu yapılandırma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kredi borcu yapılandırma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "garanti-belgesi-haklari",
@@ -46995,7 +46964,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«garanti belgesi hakları» araması çoğu zaman genel tüketici konusunun dar dilimidir: Garanti. Bu sayfa (garanti-belgesi-haklari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Garanti» sorusu buraya bırakılmıştır.",
+    "lead": "«garanti belgesi hakları» — kısa cevap: Garanti. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Garanti",
@@ -47228,7 +47197,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Garanti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Garanti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "internet-alisveris-iade",
@@ -47259,7 +47228,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=mesafeli"
       }
     ],
-    "lead": "«internet alışveriş iade» araması çoğu zaman genel tüketici konusunun dar dilimidir: Online iade pratik. Bu sayfa (internet-alisveris-iade) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Mesafeli satışta cayma hakkı kural olarak 14 gündür; istisnalar yönetmelikte sayılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Online iade pratik» sorusu buraya bırakılmıştır.",
+    "lead": "«internet alışveriş iade» — kısa cevap: Online iade pratik. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Online iade pratik",
@@ -47492,7 +47461,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Online iade pratik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Online iade pratik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "abonelik-taahhut-cezasi",
@@ -47523,7 +47492,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=taahh%C3%BCt"
       }
     ],
-    "lead": "«taahhüt bozma cezası» araması çoğu zaman genel tüketici konusunun dar dilimidir: Taahhüt cezası. Bu sayfa (abonelik-taahhut-cezasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Taahhüt cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«taahhüt bozma cezası» — kısa cevap: Taahhüt cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Taahhüt cezası",
@@ -47756,7 +47725,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Taahhüt cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Taahhüt cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sigorta-tazminat-reddi",
@@ -47786,7 +47755,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "Sigorta hasar ödemezse ne yapılır; sigorta alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla TTK sigorta hükümleri, özel sigorta genel şartları, trafik sigortası mevzuatı hükümleriyle çizilir; başvuru mercileri arasında eksper, mahkeme ve sigorta şirketi öne çıkar. Aşağıda «sigorta tazminat red» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Sigorta hasar ödemezse ne yapılır: sigorta alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«sigorta tazminat red» ne demektir? Kavram ve kapsam",
@@ -47820,19 +47789,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Poliçeyi ve teminatları okuyun. (2) Hasarı derhal ihbar edin; tutanak alın. (3) Eksper ve evrak listesini tamamlayın. (4) Red/eksik ödemede yazılı itiraz yapın. (5) Tahkim veya dava yolunu değerlendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «sigorta tazminat red» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Poliçeyi ve teminatları okuyun.",
-          "Hasarı derhal ihbar edin; tutanak alın.",
-          "Eksper ve evrak listesini tamamlayın.",
-          "Red/eksik ödemede yazılı itiraz yapın.",
-          "Tahkim veya dava yolunu değerlendirin."
+          "1. Poliçeyi ve teminatları okuyun.",
+          "2. Hasarı derhal ihbar edin; tutanak alın.",
+          "3. Eksper ve evrak listesini tamamlayın.",
+          "4. Red/eksik ödemede yazılı itiraz yapın.",
+          "5. Tahkim veya dava yolunu değerlendirin."
         ]
       },
       {
@@ -48059,7 +48027,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«sigorta tazminat red» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "kasko-hasar-sureci",
@@ -48090,7 +48058,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kasko"
       }
     ],
-    "lead": "«kasko hasar süreci» araması çoğu zaman genel sigorta konusunun dar dilimidir: Kasko hasar süreci. Bu sayfa (kasko-hasar-sureci) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sigorta-tazminat-reddi). Mevzuat çerçevesi sıklıkla TTK sigorta hükümleri ve özel sigorta genel şartları çevresindedir. Hasar ihbarında poliçe ve genel şart süreleri esastır; gecikme red gerekçesi olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kasko hasar süreci» sorusu buraya bırakılmıştır.",
+    "lead": "«kasko hasar süreci» — kısa cevap: Kasko hasar süreci. Tam süreç ve belgeler ana rehberdedir: /bilgi/sigorta-tazminat-reddi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kasko hasar süreci",
@@ -48323,7 +48291,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Kasko hasar süreci» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kasko hasar süreci» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tss-tamamlayici-saglik",
@@ -48354,7 +48322,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tkhk"
       }
     ],
-    "lead": "«tamamlayıcı sağlık sigortası» araması çoğu zaman genel sigorta konusunun dar dilimidir: Tamamlayıcı sağlık sigortası. Bu sayfa (tss-tamamlayici-saglik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sigorta-tazminat-reddi). Mevzuat çerçevesi sıklıkla TTK sigorta hükümleri ve özel sigorta genel şartları çevresindedir. Hasar ihbarında poliçe ve genel şart süreleri esastır; gecikme red gerekçesi olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tamamlayıcı sağlık sigortası» sorusu buraya bırakılmıştır.",
+    "lead": "«tamamlayıcı sağlık sigortası» — kısa cevap: Tamamlayıcı sağlık sigortası. Tam süreç ve belgeler ana rehberdedir: /bilgi/sigorta-tazminat-reddi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tamamlayıcı sağlık sigortası",
@@ -48587,7 +48555,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Tamamlayıcı sağlık sigortası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tamamlayıcı sağlık sigortası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "malpraktis-davasi",
@@ -48616,7 +48584,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«malpraktis davası» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla TBK haksız fiil/sözleşme, hasta hakları mevzuatı hükümleriyle çizilir; başvuru mercileri arasında mahkeme, SGK ve sağlık kurumu öne çıkar. Aşağıda «malpraktis davası» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Malpraktis davası nasıl açılır: sağlık alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«malpraktis davası» ne demektir? Kavram ve kapsam",
@@ -48650,19 +48618,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Tıbbi kayıt talebinde bulunun. (2) Olay kronolojisini yazın. (3) Bağımsız tıbbi görüş alın. (4) Hukuki mercie (dava/şikâyet) karar verin. (5) Bilirkişi ve delil sürecini takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «malpraktis davası» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Tıbbi kayıt talebinde bulunun.",
-          "Olay kronolojisini yazın.",
-          "Bağımsız tıbbi görüş alın.",
-          "Hukuki mercie (dava/şikâyet) karar verin.",
-          "Bilirkişi ve delil sürecini takip edin."
+          "1. Tıbbi kayıt talebinde bulunun.",
+          "2. Olay kronolojisini yazın.",
+          "3. Bağımsız tıbbi görüş alın.",
+          "4. Hukuki mercie (dava/şikâyet) karar verin.",
+          "5. Bilirkişi ve delil sürecini takip edin."
         ]
       },
       {
@@ -48889,7 +48856,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«malpraktis davası» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "mirascilik-belgesi-nedir",
@@ -48919,7 +48886,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "«mirasçılık belgesi nedir» araması çoğu zaman genel miras konusunun dar dilimidir: Belge tanımı. Bu sayfa (mirascilik-belgesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Tenkis ve muris muvazaası davalarında zamanaşımı/hak düşürücü süreler somut olaya göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Belge tanımı» sorusu buraya bırakılmıştır.",
+    "lead": "«mirasçılık belgesi nedir» — kısa cevap: Belge tanımı. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Belge tanımı",
@@ -49152,7 +49119,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Belge tanımı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Belge tanımı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tenkis-davasi-nedir",
@@ -49184,7 +49151,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/sakli-pay"
       }
     ],
-    "lead": "«tenkis davası» araması çoğu zaman genel miras konusunun dar dilimidir: Tenkis. Bu sayfa (tenkis-davasi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Tenkis ve muris muvazaası davalarında zamanaşımı/hak düşürücü süreler somut olaya göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tenkis» sorusu buraya bırakılmıştır.",
+    "lead": "«tenkis davası» — kısa cevap: Tenkis. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tenkis",
@@ -49417,7 +49384,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Tenkis» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tenkis» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "miras-ortakligi-nedir",
@@ -49448,7 +49415,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«miras ortaklığı» araması çoğu zaman genel miras konusunun dar dilimidir: Elbirliği. Bu sayfa (miras-ortakligi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Veraset ilamı e-Devlet/noter/mahkeme yollarından biriyle alınabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Elbirliği» sorusu buraya bırakılmıştır.",
+    "lead": "«miras ortaklığı» — kısa cevap: Elbirliği. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Elbirliği",
@@ -49681,7 +49648,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Elbirliği» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Elbirliği» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "muris-muvazaasi",
@@ -49712,7 +49679,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«muris muvazaası» araması çoğu zaman genel miras konusunun dar dilimidir: Muris muvazaası. Bu sayfa (muris-muvazaasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Mirasın reddi için yasal süre vardır; kaçırılırsa kabul edilmiş sayılma riski doğar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Muris muvazaası» sorusu buraya bırakılmıştır.",
+    "lead": "«muris muvazaası» — kısa cevap: Muris muvazaası. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Muris muvazaası",
@@ -49945,7 +49912,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Muris muvazaası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Muris muvazaası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "olume-bagli-tasarruf",
@@ -49977,7 +49944,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=vasiyet"
       }
     ],
-    "lead": "«ölüme bağlı tasarruf» araması çoğu zaman genel miras konusunun dar dilimidir: Ölüme bağlı tasarruf. Bu sayfa (olume-bagli-tasarruf) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Mirasın reddi için yasal süre vardır; kaçırılırsa kabul edilmiş sayılma riski doğar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ölüme bağlı tasarruf» sorusu buraya bırakılmıştır.",
+    "lead": "«ölüme bağlı tasarruf» — kısa cevap: Ölüme bağlı tasarruf. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ölüme bağlı tasarruf",
@@ -50210,7 +50177,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Ölüme bağlı tasarruf» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ölüme bağlı tasarruf» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "miras-paylasim-sozlesmesi",
@@ -50241,7 +50208,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "«miras paylaşım sözleşmesi» araması çoğu zaman genel miras konusunun dar dilimidir: Paylaşım sözleşmesi. Bu sayfa (miras-paylasim-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Tenkis ve muris muvazaası davalarında zamanaşımı/hak düşürücü süreler somut olaya göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Paylaşım sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«miras paylaşım sözleşmesi» — kısa cevap: Paylaşım sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Paylaşım sözleşmesi",
@@ -50474,7 +50441,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Paylaşım sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Paylaşım sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "veraset-ve-intikal-vergisi",
@@ -50505,7 +50472,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/miras-hukuku"
       }
     ],
-    "lead": "«veraset ve intikal vergisi» araması çoğu zaman genel vergi konusunun dar dilimidir: Vergi. Bu sayfa (veraset-ve-intikal-vergisi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Tarhiyat, ceza ve ödeme vadeleri tebliğle işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vergi» sorusu buraya bırakılmıştır.",
+    "lead": "«veraset ve intikal vergisi» — kısa cevap: Vergi. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vergi",
@@ -50738,7 +50705,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Vergi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vergi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kat-irtifaki-nedir",
@@ -50769,7 +50736,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/imar"
       }
     ],
-    "lead": "«kat irtifakı» araması çoğu zaman genel eşya konusunun dar dilimidir: Kat irtifakı. Bu sayfa (kat-irtifaki-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kat-mulkiyeti-aidat). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kat irtifakı» sorusu buraya bırakılmıştır.",
+    "lead": "«kat irtifakı» — kısa cevap: Kat irtifakı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kat-mulkiyeti-aidat. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kat irtifakı",
@@ -51002,7 +50969,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kat irtifakı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kat irtifakı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ipotek-nedir",
@@ -51033,7 +51000,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ipotek"
       }
     ],
-    "lead": "«ipotek nedir» araması çoğu zaman genel eşya konusunun dar dilimidir: İpotek. Bu sayfa (ipotek-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İpotek» sorusu buraya bırakılmıştır.",
+    "lead": "«ipotek nedir» — kısa cevap: İpotek. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İpotek",
@@ -51266,7 +51233,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «İpotek» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İpotek» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "intifa-hakki-nedir",
@@ -51298,7 +51265,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«intifa hakkı» araması çoğu zaman genel eşya konusunun dar dilimidir: İntifa hakkı. Bu sayfa (intifa-hakki-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İntifa hakkı» sorusu buraya bırakılmıştır.",
+    "lead": "«intifa hakkı» — kısa cevap: İntifa hakkı. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İntifa hakkı",
@@ -51531,7 +51498,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İntifa hakkı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İntifa hakkı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "irtifak-hakki-nedir",
@@ -51563,7 +51530,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=irtifak"
       }
     ],
-    "lead": "«irtifak hakkı» araması çoğu zaman genel eşya konusunun dar dilimidir: İrtifak hakkı. Bu sayfa (irtifak-hakki-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İrtifak hakkı» sorusu buraya bırakılmıştır.",
+    "lead": "«irtifak hakkı» — kısa cevap: İrtifak hakkı. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İrtifak hakkı",
@@ -51796,7 +51763,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İrtifak hakkı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İrtifak hakkı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "zilyetlik-nedir",
@@ -51827,7 +51794,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«zilyetlik» araması çoğu zaman genel eşya konusunun dar dilimidir: Zilyetlik. Bu sayfa (zilyetlik-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Zilyetlik» sorusu buraya bırakılmıştır.",
+    "lead": "«zilyetlik» — kısa cevap: Zilyetlik. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Zilyetlik",
@@ -52060,7 +52027,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Zilyetlik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Zilyetlik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tapu-kaydi-nasil-alinir",
@@ -52092,7 +52059,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=tapu"
       }
     ],
-    "lead": "«tapu kaydı sorgulama» araması çoğu zaman genel eşya konusunun dar dilimidir: Kayıt sorgu. Bu sayfa (tapu-kaydi-nasil-alinir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kayıt sorgu» sorusu buraya bırakılmıştır.",
+    "lead": "«tapu kaydı sorgulama» — kısa cevap: Kayıt sorgu. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kayıt sorgu",
@@ -52325,7 +52292,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Kayıt sorgu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kayıt sorgu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tapu-harci-hesaplama",
@@ -52356,7 +52323,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«tapu harcı hesaplama» araması çoğu zaman genel eşya konusunun dar dilimidir: Harç. Bu sayfa (tapu-harci-hesaplama) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Harç» sorusu buraya bırakılmıştır.",
+    "lead": "«tapu harcı hesaplama» — kısa cevap: Harç. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Harç",
@@ -52589,7 +52556,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Harç» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Harç» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "on-alim-sufa-hakki",
@@ -52620,7 +52587,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«önalım hakkı» araması çoğu zaman genel eşya konusunun dar dilimidir: Önalım hakkı. Bu sayfa (on-alim-sufa-hakki) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Önalım hakkı» sorusu buraya bırakılmıştır.",
+    "lead": "«önalım hakkı» — kısa cevap: Önalım hakkı. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Önalım hakkı",
@@ -52853,7 +52820,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Önalım hakkı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Önalım hakkı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "el-atmanin-onlenmesi",
@@ -52884,7 +52851,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«el atmanın önlenmesi» araması çoğu zaman genel eşya konusunun dar dilimidir: El atma. Bu sayfa (el-atmanin-onlenmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kamulastirma-nedir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «El atma» sorusu buraya bırakılmıştır.",
+    "lead": "«el atmanın önlenmesi» — kısa cevap: El atma. Tam süreç ve belgeler ana rehberdedir: /bilgi/kamulastirma-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: El atma",
@@ -53117,7 +53084,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «El atma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «El atma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ecrimisil-nedir",
@@ -53148,7 +53115,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«ecrimisil nedir» araması çoğu zaman genel eşya konusunun dar dilimidir: Ecrimisil. Bu sayfa (ecrimisil-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kamulastirma-nedir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ecrimisil» sorusu buraya bırakılmıştır.",
+    "lead": "«ecrimisil nedir» — kısa cevap: Ecrimisil. Tam süreç ve belgeler ana rehberdedir: /bilgi/kamulastirma-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ecrimisil",
@@ -53381,7 +53348,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Ecrimisil» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ecrimisil» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sikayet-suresi-ceza",
@@ -53412,7 +53379,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-genel"
       }
     ],
-    "lead": "«şikayet süresi» araması çoğu zaman genel ceza konusunun dar dilimidir: Şikâyet süresi. Bu sayfa (sikayet-suresi-ceza) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Şikâyet süresi» sorusu buraya bırakılmıştır.",
+    "lead": "«şikayet süresi» — kısa cevap: Şikâyet süresi. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Şikâyet süresi",
@@ -53645,7 +53612,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Şikâyet süresi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Şikâyet süresi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gozalti-suresi",
@@ -53677,7 +53644,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/pvsk"
       }
     ],
-    "lead": "«gözaltı süresi» araması çoğu zaman genel ceza konusunun dar dilimidir: Süre. Bu sayfa (gozalti-suresi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Süre» sorusu buraya bırakılmıştır.",
+    "lead": "«gözaltı süresi» — kısa cevap: Süre. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Süre",
@@ -53910,7 +53877,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Süre» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Süre» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tutuklama-nedir",
@@ -53943,7 +53910,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=tutuklama"
       }
     ],
-    "lead": "Tutuklama şartları nelerdir dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla TCK (5237), CMK (5271), PVSK hükümleriyle çizilir; başvuru mercileri arasında Cumhuriyet savcılığı, ceza mahkemesi ve kolluk öne çıkar. Aşağıda «tutuklama nedir» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Tutuklama şartları nelerdir: ceza alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«tutuklama nedir» ne demektir? Kavram ve kapsam",
@@ -53977,19 +53944,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Olay ve delilleri tarih sırasıyla kaydedin. (2) Şikâyet/suç duyurusunu savcılık veya e-şikâyet ile yapın. (3) İfade/gözaltında müdafi ve susma hakkını kullanın. (4) Soruşturma sonucunu (kovuşturmaya yer yok / iddianame) takip edin. (5) Mağdur-şüpheli sıfatına göre uzlaştırma veya dava sürecini yönetin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «tutuklama nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Olay ve delilleri tarih sırasıyla kaydedin.",
-          "Şikâyet/suç duyurusunu savcılık veya e-şikâyet ile yapın.",
-          "İfade/gözaltında müdafi ve susma hakkını kullanın.",
-          "Soruşturma sonucunu (kovuşturmaya yer yok / iddianame) takip edin.",
-          "Mağdur-şüpheli sıfatına göre uzlaştırma veya dava sürecini yönetin."
+          "1. Olay ve delilleri tarih sırasıyla kaydedin.",
+          "2. Şikâyet/suç duyurusunu savcılık veya e-şikâyet ile yapın.",
+          "3. İfade/gözaltında müdafi ve susma hakkını kullanın.",
+          "4. Soruşturma sonucunu (kovuşturmaya yer yok / iddianame) takip edin.",
+          "5. Mağdur-şüpheli sıfatına göre uzlaştırma veya dava sürecini yönetin."
         ]
       },
       {
@@ -54216,7 +54182,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«tutuklama nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "adli-kontrol-nedir",
@@ -54247,7 +54213,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=adli%20kontrol"
       }
     ],
-    "lead": "«adli kontrol» araması çoğu zaman genel ceza konusunun dar dilimidir: Adli kontrol. Bu sayfa (adli-kontrol-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Şikâyete bağlı suçlarda şikâyet süresi kural olarak 6 aydır (somut suç tipine bakın). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Adli kontrol» sorusu buraya bırakılmıştır.",
+    "lead": "«adli kontrol» — kısa cevap: Adli kontrol. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Adli kontrol",
@@ -54480,7 +54446,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Adli kontrol» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Adli kontrol» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bekletici-mesele",
@@ -54512,7 +54478,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«bekletici mesele» araması çoğu zaman genel usul konusunun dar dilimidir: Bekletici mesele. Bu sayfa (bekletici-mesele) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bekletici mesele» sorusu buraya bırakılmıştır.",
+    "lead": "«bekletici mesele» — kısa cevap: Bekletici mesele. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bekletici mesele",
@@ -54745,7 +54711,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Bekletici mesele» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bekletici mesele» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hizli-yargilama-usulu",
@@ -54777,7 +54743,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-genel"
       }
     ],
-    "lead": "«seri muhakeme» araması çoğu zaman genel ceza konusunun dar dilimidir: Seri muhakeme. Bu sayfa (hizli-yargilama-usulu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Seri muhakeme» sorusu buraya bırakılmıştır.",
+    "lead": "«seri muhakeme» — kısa cevap: Seri muhakeme. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Seri muhakeme",
@@ -55010,7 +54976,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Seri muhakeme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Seri muhakeme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hakaret-sucu-nedir",
@@ -55041,7 +55007,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«hakaret suçu» araması çoğu zaman genel ceza konusunun dar dilimidir: Hakaret. Bu sayfa (hakaret-sucu-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Şikâyete bağlı suçlarda şikâyet süresi kural olarak 6 aydır (somut suç tipine bakın). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hakaret» sorusu buraya bırakılmıştır.",
+    "lead": "«hakaret suçu» — kısa cevap: Hakaret. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hakaret",
@@ -55274,7 +55240,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Hakaret» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hakaret» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tehdit-sucu-nedir",
@@ -55305,7 +55271,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«tehdit suçu» araması çoğu zaman genel ceza konusunun dar dilimidir: Tehdit. Bu sayfa (tehdit-sucu-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tehdit» sorusu buraya bırakılmıştır.",
+    "lead": "«tehdit suçu» — kısa cevap: Tehdit. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tehdit",
@@ -55538,7 +55504,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Tehdit» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tehdit» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "dolandiricilik-sucu",
@@ -55569,7 +55535,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«dolandırıcılık suçu» araması çoğu zaman genel ceza konusunun dar dilimidir: Dolandırıcılık. Bu sayfa (dolandiricilik-sucu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dolandırıcılık» sorusu buraya bırakılmıştır.",
+    "lead": "«dolandırıcılık suçu» — kısa cevap: Dolandırıcılık. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dolandırıcılık",
@@ -55802,7 +55768,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Dolandırıcılık» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dolandırıcılık» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kisisel-verilerin-kaydedilmesi",
@@ -55834,7 +55800,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/kvkk"
       }
     ],
-    "lead": "«kişisel verilerin kaydedilmesi suçu» araması çoğu zaman genel ceza konusunun dar dilimidir: Kişisel verilerin kaydedilmesi suçu. Bu sayfa (kisisel-verilerin-kaydedilmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Uzlaştırma kapsamındaki dosyalarda süreç farklı işler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kişisel verilerin kaydedilmesi suçu» sorusu buraya bırakılmıştır.",
+    "lead": "«kişisel verilerin kaydedilmesi suçu» — kısa cevap: Kişisel verilerin kaydedilmesi suçu. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kişisel verilerin kaydedilmesi suçu",
@@ -56067,7 +56033,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kişisel verilerin kaydedilmesi suçu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kişisel verilerin kaydedilmesi suçu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "trafik-guvenligini-tehlikeye-sokma",
@@ -56099,7 +56065,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ktk"
       }
     ],
-    "lead": "«trafik güvenliğini tehlikeye sokma» araması çoğu zaman genel ceza konusunun dar dilimidir: Trafik güvenliğini tehlikeye sokma. Bu sayfa (trafik-guvenligini-tehlikeye-sokma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Uzlaştırma kapsamındaki dosyalarda süreç farklı işler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Trafik güvenliğini tehlikeye sokma» sorusu buraya bırakılmıştır.",
+    "lead": "«trafik güvenliğini tehlikeye sokma» — kısa cevap: Trafik güvenliğini tehlikeye sokma. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Trafik güvenliğini tehlikeye sokma",
@@ -56332,7 +56298,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Trafik güvenliğini tehlikeye sokma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Trafik güvenliğini tehlikeye sokma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cocuk-teslimi-icra",
@@ -56362,7 +56328,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«çocuk teslimi icra» araması çoğu zaman genel aile konusunun dar dilimidir: Teslim icrası. Bu sayfa (cocuk-teslimi-icra) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/velayet-davasi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Teslim icrası» sorusu buraya bırakılmıştır.",
+    "lead": "«çocuk teslimi icra» — kısa cevap: Teslim icrası. Tam süreç ve belgeler ana rehberdedir: /bilgi/velayet-davasi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Teslim icrası",
@@ -56595,7 +56561,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Teslim icrası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Teslim icrası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "dava-acilmasi-sartlari",
@@ -56626,7 +56592,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«dava açma şartları» araması çoğu zaman genel usul konusunun dar dilimidir: Dava şartları. Bu sayfa (dava-acilmasi-sartlari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/hukuk-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dava şartları» sorusu buraya bırakılmıştır.",
+    "lead": "«dava açma şartları» — kısa cevap: Dava şartları. Tam süreç ve belgeler ana rehberdedir: /bilgi/hukuk-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dava şartları",
@@ -56859,7 +56825,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Dava şartları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dava şartları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yetkili-mahkeme-nedir",
@@ -56890,7 +56856,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=yetki"
       }
     ],
-    "lead": "«yetkili mahkeme» araması çoğu zaman genel usul konusunun dar dilimidir: Yetki. Bu sayfa (yetkili-mahkeme-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/hukuk-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yetki» sorusu buraya bırakılmıştır.",
+    "lead": "«yetkili mahkeme» — kısa cevap: Yetki. Tam süreç ve belgeler ana rehberdedir: /bilgi/hukuk-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yetki",
@@ -57123,7 +57089,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Yetki» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yetki» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gorevli-mahkeme-nedir",
@@ -57154,7 +57120,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=g%C3%B6rev"
       }
     ],
-    "lead": "«görevli mahkeme» araması çoğu zaman genel usul konusunun dar dilimidir: Görev. Bu sayfa (gorevli-mahkeme-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/hukuk-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Görev» sorusu buraya bırakılmıştır.",
+    "lead": "«görevli mahkeme» — kısa cevap: Görev. Tam süreç ve belgeler ana rehberdedir: /bilgi/hukuk-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Görev",
@@ -57387,7 +57353,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Görev» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Görev» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "delil-baslangici-nedir",
@@ -57419,7 +57385,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«delil başlangıcı» araması çoğu zaman genel usul konusunun dar dilimidir: Delil başlangıcı. Bu sayfa (delil-baslangici-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Delil başlangıcı» sorusu buraya bırakılmıştır.",
+    "lead": "«delil başlangıcı» — kısa cevap: Delil başlangıcı. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Delil başlangıcı",
@@ -57652,7 +57618,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Delil başlangıcı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Delil başlangıcı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kesin-delil-nedir",
@@ -57684,7 +57650,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=delil"
       }
     ],
-    "lead": "«kesin delil» araması çoğu zaman genel usul konusunun dar dilimidir: Kesin delil. Bu sayfa (kesin-delil-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kesin delil» sorusu buraya bırakılmıştır.",
+    "lead": "«kesin delil» — kısa cevap: Kesin delil. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kesin delil",
@@ -57917,7 +57883,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kesin delil» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kesin delil» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "islah-nedir",
@@ -57949,7 +57915,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C4%B1slah"
       }
     ],
-    "lead": "«ıslah» araması çoğu zaman genel usul konusunun dar dilimidir: Islah. Bu sayfa (islah-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Islah» sorusu buraya bırakılmıştır.",
+    "lead": "«ıslah» — kısa cevap: Islah. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Islah",
@@ -58182,7 +58148,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Islah» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Islah» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "belirsiz-alacak-davasi",
@@ -58214,7 +58180,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«belirsiz alacak davası» araması çoğu zaman genel usul konusunun dar dilimidir: Belirsiz alacak davası. Bu sayfa (belirsiz-alacak-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Belirsiz alacak davası» sorusu buraya bırakılmıştır.",
+    "lead": "«belirsiz alacak davası» — kısa cevap: Belirsiz alacak davası. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Belirsiz alacak davası",
@@ -58447,7 +58413,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Belirsiz alacak davası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Belirsiz alacak davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "davaya-mudahale",
@@ -58479,7 +58445,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=m%C3%BCdahale"
       }
     ],
-    "lead": "«davaya müdahale» araması çoğu zaman genel usul konusunun dar dilimidir: Davaya müdahale. Bu sayfa (davaya-mudahale) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Davaya müdahale» sorusu buraya bırakılmıştır.",
+    "lead": "«davaya müdahale» — kısa cevap: Davaya müdahale. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Davaya müdahale",
@@ -58712,7 +58678,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Davaya müdahale» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Davaya müdahale» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ihtiyati-tedbir-teminati",
@@ -58742,7 +58708,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=teminat"
       }
     ],
-    "lead": "«ihtiyati tedbir teminatı» araması çoğu zaman genel usul konusunun dar dilimidir: Teminat. Bu sayfa (ihtiyati-tedbir-teminati) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ihtiyati-tedbir-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Teminat» sorusu buraya bırakılmıştır.",
+    "lead": "«ihtiyati tedbir teminatı» — kısa cevap: Teminat. Tam süreç ve belgeler ana rehberdedir: /bilgi/ihtiyati-tedbir-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Teminat",
@@ -58975,7 +58941,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Teminat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Teminat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kesinlesme-senedi",
@@ -59006,7 +58972,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«kesinleşme şerhi» araması çoğu zaman genel usul konusunun dar dilimidir: Kesinleşme. Bu sayfa (kesinlesme-senedi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/istinaf-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kesinleşme» sorusu buraya bırakılmıştır.",
+    "lead": "«kesinleşme şerhi» — kısa cevap: Kesinleşme. Tam süreç ve belgeler ana rehberdedir: /bilgi/istinaf-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kesinleşme",
@@ -59239,7 +59205,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Kesinleşme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kesinleşme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "vekâlet-ucreti-karsi-taraf",
@@ -59271,7 +59237,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/tarife-guncellemeleri"
       }
     ],
-    "lead": "«karşı taraf vekâlet ücreti» araması çoğu zaman genel usul konusunun dar dilimidir: Karşı taraf vekâlet ücreti. Bu sayfa (vekâlet-ucreti-karsi-taraf) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Karşı taraf vekâlet ücreti» sorusu buraya bırakılmıştır.",
+    "lead": "«karşı taraf vekâlet ücreti» — kısa cevap: Karşı taraf vekâlet ücreti. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Karşı taraf vekâlet ücreti",
@@ -59504,7 +59470,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Karşı taraf vekâlet ücreti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Karşı taraf vekâlet ücreti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arabuluculuk-son-tutanak",
@@ -59535,7 +59501,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«arabuluculuk son tutanak» araması çoğu zaman genel usul konusunun dar dilimidir: Son tutanak. Bu sayfa (arabuluculuk-son-tutanak) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Son tutanak» sorusu buraya bırakılmıştır.",
+    "lead": "«arabuluculuk son tutanak» — kısa cevap: Son tutanak. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Son tutanak",
@@ -59768,7 +59734,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Son tutanak» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Son tutanak» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iptal-davasi-nedir",
@@ -59799,7 +59765,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/icthat"
       }
     ],
-    "lead": "«iptal davası» araması çoğu zaman genel idare konusunun dar dilimidir: İptal. Bu sayfa (iptal-davasi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/idari-dava-nasil-acilir). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İptal» sorusu buraya bırakılmıştır.",
+    "lead": "«iptal davası» — kısa cevap: İptal. Tam süreç ve belgeler ana rehberdedir: /bilgi/idari-dava-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İptal",
@@ -60032,7 +59998,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İptal» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İptal» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tam-yargi-davasi",
@@ -60063,7 +60029,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=tam%20yarg%C4%B1"
       }
     ],
-    "lead": "«tam yargı davası» araması çoğu zaman genel idare konusunun dar dilimidir: Tam yargı. Bu sayfa (tam-yargi-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/idari-dava-nasil-acilir). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İptal ve tam yargı davalarında süreler tebliğ/öğrenme tarihine göre çok kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tam yargı» sorusu buraya bırakılmıştır.",
+    "lead": "«tam yargı davası» — kısa cevap: Tam yargı. Tam süreç ve belgeler ana rehberdedir: /bilgi/idari-dava-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tam yargı",
@@ -60296,7 +60262,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Tam yargı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tam yargı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "idari-islem-nedir",
@@ -60326,7 +60292,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/icthat"
       }
     ],
-    "lead": "«idari işlem nedir» araması çoğu zaman genel idare konusunun dar dilimidir: İşlem tanımı. Bu sayfa (idari-islem-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/idari-dava-nasil-acilir). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İptal ve tam yargı davalarında süreler tebliğ/öğrenme tarihine göre çok kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşlem tanımı» sorusu buraya bırakılmıştır.",
+    "lead": "«idari işlem nedir» — kısa cevap: İşlem tanımı. Tam süreç ve belgeler ana rehberdedir: /bilgi/idari-dava-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşlem tanımı",
@@ -60559,7 +60525,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İşlem tanımı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşlem tanımı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yurutmenin-durdurulmasi",
@@ -60590,7 +60556,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«yürütmenin durdurulması» araması çoğu zaman genel idare konusunun dar dilimidir: YD. Bu sayfa (yurutmenin-durdurulmasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/idari-dava-nasil-acilir). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «YD» sorusu buraya bırakılmıştır.",
+    "lead": "«yürütmenin durdurulması» — kısa cevap: YD. Tam süreç ve belgeler ana rehberdedir: /bilgi/idari-dava-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: YD",
@@ -60823,7 +60789,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «YD» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «YD» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "memur-disiplin-cezasi",
@@ -60855,7 +60821,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«memur disiplin cezası» araması çoğu zaman genel idare konusunun dar dilimidir: Memur disiplin cezası. Bu sayfa (memur-disiplin-cezasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Memur disiplin cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«memur disiplin cezası» — kısa cevap: Memur disiplin cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Memur disiplin cezası",
@@ -61088,7 +61054,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Memur disiplin cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Memur disiplin cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kamu-ihalesi-sikayet",
@@ -61120,7 +61086,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ihale"
       }
     ],
-    "lead": "«kamu ihalesi şikâyet» araması çoğu zaman genel idare konusunun dar dilimidir: Kamu ihalesi şikâyet. Bu sayfa (kamu-ihalesi-sikayet) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kamu ihalesi şikâyet» sorusu buraya bırakılmıştır.",
+    "lead": "«kamu ihalesi şikâyet» — kısa cevap: Kamu ihalesi şikâyet. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kamu ihalesi şikâyet",
@@ -61353,7 +61319,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Kamu ihalesi şikâyet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kamu ihalesi şikâyet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "imar-planina-itiraz",
@@ -61385,7 +61351,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«imar planına itiraz» araması çoğu zaman genel imar konusunun dar dilimidir: İmar planına itiraz. Bu sayfa (imar-planina-itiraz) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İmar planına itiraz» sorusu buraya bırakılmıştır.",
+    "lead": "«imar planına itiraz» — kısa cevap: İmar planına itiraz. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İmar planına itiraz",
@@ -61618,7 +61584,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İmar planına itiraz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İmar planına itiraz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yapi-tatil-tutanağı",
@@ -61650,7 +61616,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«yapı tatil tutanağı» araması çoğu zaman genel imar konusunun dar dilimidir: Yapı tatil tutanağı. Bu sayfa (yapi-tatil-tutanağı) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yapı tatil tutanağı» sorusu buraya bırakılmıştır.",
+    "lead": "«yapı tatil tutanağı» — kısa cevap: Yapı tatil tutanağı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yapı tatil tutanağı",
@@ -61883,7 +61849,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Yapı tatil tutanağı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yapı tatil tutanağı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "imar-barişi-nedir",
@@ -61915,7 +61881,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=yap%C4%B1%20kay%C4%B1t"
       }
     ],
-    "lead": "«imar barışı» araması çoğu zaman genel imar konusunun dar dilimidir: İmar barışı. Bu sayfa (imar-barişi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İmar barışı» sorusu buraya bırakılmıştır.",
+    "lead": "«imar barışı» — kısa cevap: İmar barışı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İmar barışı",
@@ -62148,7 +62114,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İmar barışı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İmar barışı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cevre-izin-denetim",
@@ -62180,7 +62146,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%A7evre"
       }
     ],
-    "lead": "«çevre idari para cezası» araması çoğu zaman genel idare konusunun dar dilimidir: Çevre idari para cezası. Bu sayfa (cevre-izin-denetim) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İptal ve tam yargı davalarında süreler tebliğ/öğrenme tarihine göre çok kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çevre idari para cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«çevre idari para cezası» — kısa cevap: Çevre idari para cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çevre idari para cezası",
@@ -62413,7 +62379,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Çevre idari para cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çevre idari para cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "eds-ceza-sorgulama",
@@ -62444,7 +62410,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=EDS"
       }
     ],
-    "lead": "«EDS ceza sorgulama» araması çoğu zaman genel trafik konusunun dar dilimidir: EDS/HGS sorgu. Bu sayfa (eds-ceza-sorgulama) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-cezasina-itiraz). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «EDS/HGS sorgu» sorusu buraya bırakılmıştır.",
+    "lead": "«EDS ceza sorgulama» — kısa cevap: EDS/HGS sorgu. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-cezasina-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: EDS/HGS sorgu",
@@ -62677,7 +62643,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «EDS/HGS sorgu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «EDS/HGS sorgu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "trafik-ceza-puani",
@@ -62708,7 +62674,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«trafik ceza puanı» araması çoğu zaman genel trafik konusunun dar dilimidir: Ceza puanı. Bu sayfa (trafik-ceza-puani) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-cezasina-itiraz). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ceza puanı» sorusu buraya bırakılmıştır.",
+    "lead": "«trafik ceza puanı» — kısa cevap: Ceza puanı. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-cezasina-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ceza puanı",
@@ -62941,7 +62907,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Ceza puanı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ceza puanı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "alkollu-arac-kullanma-cezasi",
@@ -62972,7 +62938,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-toplum"
       }
     ],
-    "lead": "«alkollü araç cezası» araması çoğu zaman genel trafik konusunun dar dilimidir: Alkol cezası. Bu sayfa (alkollu-arac-kullanma-cezasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-cezasina-itiraz). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Alkol cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«alkollü araç cezası» — kısa cevap: Alkol cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-cezasina-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Alkol cezası",
@@ -63205,7 +63171,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Alkol cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Alkol cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kaza-tespit-tutanagi",
@@ -63236,7 +63202,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kaza"
       }
     ],
-    "lead": "«kaza tespit tutanağı» araması çoğu zaman genel trafik konusunun dar dilimidir: Kaza tespit tutanağı. Bu sayfa (kaza-tespit-tutanagi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kaza tespit tutanağı» sorusu buraya bırakılmıştır.",
+    "lead": "«kaza tespit tutanağı» — kısa cevap: Kaza tespit tutanağı. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kaza tespit tutanağı",
@@ -63469,7 +63435,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kaza tespit tutanağı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kaza tespit tutanağı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kusur-orani-trafik",
@@ -63500,7 +63466,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«trafik kusur oranı» araması çoğu zaman genel trafik konusunun dar dilimidir: Trafik kusur oranı. Bu sayfa (kusur-orani-trafik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Trafik kusur oranı» sorusu buraya bırakılmıştır.",
+    "lead": "«trafik kusur oranı» — kısa cevap: Trafik kusur oranı. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Trafik kusur oranı",
@@ -63733,7 +63699,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Trafik kusur oranı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Trafik kusur oranı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arac-muayene-gecikme",
@@ -63765,7 +63731,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=muayene"
       }
     ],
-    "lead": "«araç muayene gecikme» araması çoğu zaman genel trafik konusunun dar dilimidir: Araç muayene gecikme. Bu sayfa (arac-muayene-gecikme) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Araç muayene gecikme» sorusu buraya bırakılmıştır.",
+    "lead": "«araç muayene gecikme» — kısa cevap: Araç muayene gecikme. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Araç muayene gecikme",
@@ -63998,7 +63964,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Araç muayene gecikme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Araç muayene gecikme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "plaka-devri-arac-satis",
@@ -64030,7 +63996,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«araç satışı plaka devri» araması çoğu zaman genel trafik konusunun dar dilimidir: Araç satışı plaka devri. Bu sayfa (plaka-devri-arac-satis) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Ceza puanı ve ehliyete el koyma iade şartları ayrı yönetilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Araç satışı plaka devri» sorusu buraya bırakılmıştır.",
+    "lead": "«araç satışı plaka devri» — kısa cevap: Araç satışı plaka devri. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Araç satışı plaka devri",
@@ -64263,7 +64229,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Araç satışı plaka devri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Araç satışı plaka devri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "mtv-nedir",
@@ -64295,7 +64261,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=MTV"
       }
     ],
-    "lead": "«MTV nedir» araması çoğu zaman genel vergi konusunun dar dilimidir: MTV. Bu sayfa (mtv-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emlak-vergisi-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Vergi mahkemesi dava süreleri kısa ve sıkıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «MTV» sorusu buraya bırakılmıştır.",
+    "lead": "«MTV nedir» — kısa cevap: MTV. Tam süreç ve belgeler ana rehberdedir: /bilgi/emlak-vergisi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: MTV",
@@ -64528,7 +64494,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «MTV» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «MTV» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "emekli-maasi-hesaplama",
@@ -64559,7 +64525,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«emekli maaşı hesaplama» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Maaş hesabı. Bu sayfa (emekli-maasi-hesaplama) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. Rapor parası ve maluliyet süreçleri sağlık kurulu + SGK incelemesine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Maaş hesabı» sorusu buraya bırakılmıştır.",
+    "lead": "«emekli maaşı hesaplama» — kısa cevap: Maaş hesabı. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Maaş hesabı",
@@ -64792,7 +64758,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Maaş hesabı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Maaş hesabı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "emeklilikte-yasa-takilanlar",
@@ -64823,7 +64789,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=EYT"
       }
     ],
-    "lead": "«EYT nedir» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: EYT. Bu sayfa (emeklilikte-yasa-takilanlar) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. Emeklilik ve borçlanmada prim günü/yaş şartları sigortalılık türüne göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «EYT» sorusu buraya bırakılmıştır.",
+    "lead": "«EYT nedir» — kısa cevap: EYT. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: EYT",
@@ -65056,7 +65022,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «EYT» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «EYT» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bagkur-prim-borcu",
@@ -65088,7 +65054,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aatuhk"
       }
     ],
-    "lead": "Bağ-Kur borcu nasıl ödenir / yapılandırılır; sosyal güvenlik alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla SSGSSK (5510), işsizlik sigortası mevzuatı hükümleriyle çizilir; başvuru mercileri arasında İŞKUR, iş mahkemesi ve SGK öne çıkar. Aşağıda «Bağkur prim borcu» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Bağ-Kur borcu nasıl ödenir / yapılandırılır: sosyal güvenlik alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«Bağkur prim borcu» ne demektir? Kavram ve kapsam",
@@ -65122,19 +65088,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) e-Devletten hizmet ve prim dökümünü alın. (2) Hak türünü (emeklilik, işsizlik, malul, borçlanma) netleştirin. (3) Gerekli belgeleri tamamlayıp başvurun. (4) Sonucu takip edin; rette itiraz/dava yollarını değerlendirin. (5) Ödeme ve emekli aylığı hesaplarını kontrol edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «Bağkur prim borcu» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "e-Devletten hizmet ve prim dökümünü alın.",
-          "Hak türünü (emeklilik, işsizlik, malul, borçlanma) netleştirin.",
-          "Gerekli belgeleri tamamlayıp başvurun.",
-          "Sonucu takip edin; rette itiraz/dava yollarını değerlendirin.",
-          "Ödeme ve emekli aylığı hesaplarını kontrol edin."
+          "1. e-Devletten hizmet ve prim dökümünü alın.",
+          "2. Hak türünü (emeklilik, işsizlik, malul, borçlanma) netleştirin.",
+          "3. Gerekli belgeleri tamamlayıp başvurun.",
+          "4. Sonucu takip edin; rette itiraz/dava yollarını değerlendirin.",
+          "5. Ödeme ve emekli aylığı hesaplarını kontrol edin."
         ]
       },
       {
@@ -65361,7 +65326,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«Bağkur prim borcu» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "issizlik-maasi-hesaplama",
@@ -65392,7 +65357,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=i%C5%9Fsizlik"
       }
     ],
-    "lead": "«işsizlik maaşı hesaplama» araması çoğu zaman genel iş konusunun dar dilimidir: Hesap. Bu sayfa (issizlik-maasi-hesaplama) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/issizlik-maasi-sartlari). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hesap» sorusu buraya bırakılmıştır.",
+    "lead": "«işsizlik maaşı hesaplama» — kısa cevap: Hesap. Tam süreç ve belgeler ana rehberdedir: /bilgi/issizlik-maasi-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hesap",
@@ -65625,7 +65590,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Hesap» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hesap» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "genel-saglik-sigortasi",
@@ -65656,7 +65621,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=GSS"
       }
     ],
-    "lead": "«gss prim borcu» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: GSS prim borcu. Bu sayfa (genel-saglik-sigortasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bagkur-prim-borcu). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. Emeklilik ve borçlanmada prim günü/yaş şartları sigortalılık türüne göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «GSS prim borcu» sorusu buraya bırakılmıştır.",
+    "lead": "«gss prim borcu» — kısa cevap: GSS prim borcu. Tam süreç ve belgeler ana rehberdedir: /bilgi/bagkur-prim-borcu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: GSS prim borcu",
@@ -65889,7 +65854,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «GSS prim borcu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «GSS prim borcu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "analik-izin-hakki",
@@ -65921,7 +65886,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«analık ve süt izni» araması çoğu zaman genel iş konusunun dar dilimidir: Analık ve süt izni. Bu sayfa (analik-izin-hakki) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Analık ve süt izni» sorusu buraya bırakılmıştır.",
+    "lead": "«analık ve süt izni» — kısa cevap: Analık ve süt izni. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Analık ve süt izni",
@@ -66154,7 +66119,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Analık ve süt izni» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Analık ve süt izni» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "rapor-parasi-hesaplama",
@@ -66186,7 +66151,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=i%C5%9F%20g%C3%B6remezlik"
       }
     ],
-    "lead": "«rapor parası» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Rapor parası. Bu sayfa (rapor-parasi-hesaplama) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bagkur-prim-borcu). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. Rapor parası ve maluliyet süreçleri sağlık kurulu + SGK incelemesine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Rapor parası» sorusu buraya bırakılmıştır.",
+    "lead": "«rapor parası» — kısa cevap: Rapor parası. Tam süreç ve belgeler ana rehberdedir: /bilgi/bagkur-prim-borcu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Rapor parası",
@@ -66419,7 +66384,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Rapor parası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Rapor parası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "olum-ayligi-dul-yetim",
@@ -66451,7 +66416,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%B6l%C3%BCm%20ayl%C4%B1%C4%9F%C4%B1"
       }
     ],
-    "lead": "«ölüm aylığı dul yetim» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Ölüm aylığı dul yetim. Bu sayfa (olum-ayligi-dul-yetim) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bagkur-prim-borcu). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ölüm aylığı dul yetim» sorusu buraya bırakılmıştır.",
+    "lead": "«ölüm aylığı dul yetim» — kısa cevap: Ölüm aylığı dul yetim. Tam süreç ve belgeler ana rehberdedir: /bilgi/bagkur-prim-borcu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ölüm aylığı dul yetim",
@@ -66684,7 +66649,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Ölüm aylığı dul yetim» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ölüm aylığı dul yetim» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gelir-vergisi-nedir",
@@ -66716,7 +66681,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "«gelir vergisi nedir» araması çoğu zaman genel vergi konusunun dar dilimidir: GV. Bu sayfa (gelir-vergisi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emlak-vergisi-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Tarhiyat, ceza ve ödeme vadeleri tebliğle işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «GV» sorusu buraya bırakılmıştır.",
+    "lead": "«gelir vergisi nedir» — kısa cevap: GV. Tam süreç ve belgeler ana rehberdedir: /bilgi/emlak-vergisi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: GV",
@@ -66949,7 +66914,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «GV» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «GV» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kdv-nedir",
@@ -66982,7 +66947,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "KDV nedir? Hangi oranlar uygulanır; vergi alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla VUK, GVK, KDVK, AATUHK hükümleriyle çizilir; başvuru mercileri arasında vergi dairesi, vergi mahkemesi ve uzlaşma komisyonu öne çıkar. Aşağıda «KDV nedir» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "KDV nedir? Hangi oranlar uygulanır: vergi alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«KDV nedir» ne demektir? Kavram ve kapsam",
@@ -67016,19 +66981,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) e-Devlet/GİB borcunu ve tebliğleri kontrol edin. (2) Ceza/indirim ve yapılandırma seçeneklerini karşılaştırın. (3) Yazılı başvuru veya ödeme planı oluşturun. (4) İhtilafta uzlaşma veya vergi davası yolunu seçin. (5) Ödeme dekontlarını ve kapanış yazısını saklayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «KDV nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "e-Devlet/GİB borcunu ve tebliğleri kontrol edin.",
-          "Ceza/indirim ve yapılandırma seçeneklerini karşılaştırın.",
-          "Yazılı başvuru veya ödeme planı oluşturun.",
-          "İhtilafta uzlaşma veya vergi davası yolunu seçin.",
-          "Ödeme dekontlarını ve kapanış yazısını saklayın."
+          "1. e-Devlet/GİB borcunu ve tebliğleri kontrol edin.",
+          "2. Ceza/indirim ve yapılandırma seçeneklerini karşılaştırın.",
+          "3. Yazılı başvuru veya ödeme planı oluşturun.",
+          "4. İhtilafta uzlaşma veya vergi davası yolunu seçin.",
+          "5. Ödeme dekontlarını ve kapanış yazısını saklayın."
         ]
       },
       {
@@ -67255,7 +67219,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "«KDV nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "fatura-iptali",
@@ -67286,7 +67250,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/kdvk"
       }
     ],
-    "lead": "«fatura iptali» araması çoğu zaman genel vergi konusunun dar dilimidir: Fatura iptali. Bu sayfa (fatura-iptali) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kdv-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Vergi mahkemesi dava süreleri kısa ve sıkıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Fatura iptali» sorusu buraya bırakılmıştır.",
+    "lead": "«fatura iptali» — kısa cevap: Fatura iptali. Tam süreç ve belgeler ana rehberdedir: /bilgi/kdv-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Fatura iptali",
@@ -67519,7 +67483,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Fatura iptali» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Fatura iptali» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-fatura-nedir",
@@ -67550,7 +67514,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=e-fatura"
       }
     ],
-    "lead": "«e-fatura» araması çoğu zaman genel vergi konusunun dar dilimidir: e-Fatura. Bu sayfa (e-fatura-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kdv-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Yapılandırma dönemleri kanunla açılır; başvuru penceresi sınırlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Fatura» sorusu buraya bırakılmıştır.",
+    "lead": "«e-fatura» — kısa cevap: e-Fatura. Tam süreç ve belgeler ana rehberdedir: /bilgi/kdv-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Fatura",
@@ -67783,7 +67747,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «e-Fatura» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Fatura» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "vergi-incelemesi-nedir",
@@ -67815,7 +67779,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aatuhk"
       }
     ],
-    "lead": "«vergi incelemesi» araması çoğu zaman genel vergi konusunun dar dilimidir: Vergi incelemesi. Bu sayfa (vergi-incelemesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kdv-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Yapılandırma dönemleri kanunla açılır; başvuru penceresi sınırlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vergi incelemesi» sorusu buraya bırakılmıştır.",
+    "lead": "«vergi incelemesi» — kısa cevap: Vergi incelemesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kdv-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vergi incelemesi",
@@ -68048,7 +68012,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Vergi incelemesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vergi incelemesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "vergi-ziyai-cezasi",
@@ -68080,7 +68044,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=vergi%20ziya%C4%B1"
       }
     ],
-    "lead": "«vergi ziyaı cezası» araması çoğu zaman genel vergi konusunun dar dilimidir: Vergi ziyaı cezası. Bu sayfa (vergi-ziyai-cezasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kdv-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Tarhiyat, ceza ve ödeme vadeleri tebliğle işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vergi ziyaı cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«vergi ziyaı cezası» — kısa cevap: Vergi ziyaı cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/kdv-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vergi ziyaı cezası",
@@ -68313,7 +68277,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Vergi ziyaı cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vergi ziyaı cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "damga-vergisi-nedir",
@@ -68344,7 +68308,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "«damga vergisi nedir» araması çoğu zaman genel vergi konusunun dar dilimidir: Damga. Bu sayfa (damga-vergisi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emlak-vergisi-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Yapılandırma dönemleri kanunla açılır; başvuru penceresi sınırlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Damga» sorusu buraya bırakılmıştır.",
+    "lead": "«damga vergisi nedir» — kısa cevap: Damga. Tam süreç ve belgeler ana rehberdedir: /bilgi/emlak-vergisi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Damga",
@@ -68577,7 +68541,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Damga» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Damga» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gecikme-zammi-faizi",
@@ -68609,7 +68573,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "«gecikme zammı» araması çoğu zaman genel vergi konusunun dar dilimidir: Gecikme zammı. Bu sayfa (gecikme-zammi-faizi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kdv-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Vergi mahkemesi dava süreleri kısa ve sıkıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Gecikme zammı» sorusu buraya bırakılmıştır.",
+    "lead": "«gecikme zammı» — kısa cevap: Gecikme zammı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kdv-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Gecikme zammı",
@@ -68842,7 +68806,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Gecikme zammı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Gecikme zammı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kimlik-kartı-basvurusu",
@@ -68873,7 +68837,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kimlik"
       }
     ],
-    "lead": "«kimlik kartı başvurusu» araması çoğu zaman genel nüfus konusunun dar dilimidir: Kimlik kartı başvurusu. Bu sayfa (kimlik-kartı-basvurusu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kimlik kartı başvurusu» sorusu buraya bırakılmıştır.",
+    "lead": "«kimlik kartı başvurusu» — kısa cevap: Kimlik kartı başvurusu. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kimlik kartı başvurusu",
@@ -69106,7 +69070,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kimlik kartı başvurusu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kimlik kartı başvurusu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "dogum-belgesi-nasil-alinir",
@@ -69137,7 +69101,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=do%C4%9Fum"
       }
     ],
-    "lead": "«doğum belgesi» araması çoğu zaman genel nüfus konusunun dar dilimidir: Doğum belgesi. Bu sayfa (dogum-belgesi-nasil-alinir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Doğum belgesi» sorusu buraya bırakılmıştır.",
+    "lead": "«doğum belgesi» — kısa cevap: Doğum belgesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Doğum belgesi",
@@ -69370,7 +69334,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Doğum belgesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Doğum belgesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "evlilik-basvurusu",
@@ -69401,7 +69365,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«evlilik başvurusu» araması çoğu zaman genel nüfus konusunun dar dilimidir: Evlilik başvurusu. Bu sayfa (evlilik-basvurusu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Evlilik başvurusu» sorusu buraya bırakılmıştır.",
+    "lead": "«evlilik başvurusu» — kısa cevap: Evlilik başvurusu. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Evlilik başvurusu",
@@ -69634,7 +69598,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Evlilik başvurusu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Evlilik başvurusu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bosanma-sonrasi-soyadi",
@@ -69665,7 +69629,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/nhk"
       }
     ],
-    "lead": "«boşanma soyadı» araması çoğu zaman genel aile konusunun dar dilimidir: Soyadı. Bu sayfa (bosanma-sonrasi-soyadi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bosanma-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Soyadı» sorusu buraya bırakılmıştır.",
+    "lead": "«boşanma soyadı» — kısa cevap: Soyadı. Tam süreç ve belgeler ana rehberdedir: /bilgi/bosanma-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Soyadı",
@@ -69898,7 +69862,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Soyadı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Soyadı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ikametgah-belgesi",
@@ -69929,7 +69893,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ikametgah"
       }
     ],
-    "lead": "«ikametgâh belgesi» araması çoğu zaman genel nüfus konusunun dar dilimidir: İkametgâh belgesi. Bu sayfa (ikametgah-belgesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İkametgâh belgesi» sorusu buraya bırakılmıştır.",
+    "lead": "«ikametgâh belgesi» — kısa cevap: İkametgâh belgesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İkametgâh belgesi",
@@ -70162,7 +70126,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İkametgâh belgesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İkametgâh belgesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sabika-kaydi-nasil-alinir",
@@ -70194,7 +70158,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«sabıka kaydı» araması çoğu zaman genel ceza konusunun dar dilimidir: Sabıka kaydı. Bu sayfa (sabika-kaydi-nasil-alinir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sabıka kaydı» sorusu buraya bırakılmıştır.",
+    "lead": "«sabıka kaydı» — kısa cevap: Sabıka kaydı. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sabıka kaydı",
@@ -70427,7 +70391,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Sabıka kaydı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sabıka kaydı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "askerlik-durum-belgesi",
@@ -70458,7 +70422,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«askerlik durum belgesi» araması çoğu zaman genel nüfus konusunun dar dilimidir: Askerlik durum belgesi. Bu sayfa (askerlik-durum-belgesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Askerlik durum belgesi» sorusu buraya bırakılmıştır.",
+    "lead": "«askerlik durum belgesi» — kısa cevap: Askerlik durum belgesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Askerlik durum belgesi",
@@ -70691,7 +70655,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Askerlik durum belgesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Askerlik durum belgesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ogrenci-belgesi-e-devlet",
@@ -70723,7 +70687,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«öğrenci belgesi e-devlet» araması çoğu zaman genel eğitim konusunun dar dilimidir: Öğrenci belgesi e-Devlet. Bu sayfa (ogrenci-belgesi-e-devlet) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/okul-kayit-ucreti-iade). Mevzuat çerçevesi sıklıkla ilgili yükseköğretim/MEB mevzuatı ve TKHK (özel okul/kurs) çevresindedir. Disiplin ve kayıt silme itiraz süreleri yönetmeliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Öğrenci belgesi e-Devlet» sorusu buraya bırakılmıştır.",
+    "lead": "«öğrenci belgesi e-devlet» — kısa cevap: Öğrenci belgesi e-Devlet. Tam süreç ve belgeler ana rehberdedir: /bilgi/okul-kayit-ucreti-iade. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Öğrenci belgesi e-Devlet",
@@ -70956,7 +70920,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Öğrenci belgesi e-Devlet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Öğrenci belgesi e-Devlet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kredi-notu-nedir",
@@ -70987,7 +70951,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kredi"
       }
     ],
-    "lead": "«kredi notu» araması çoğu zaman genel tüketici konusunun dar dilimidir: Kredi notu. Bu sayfa (kredi-notu-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kredi-karti-itiraz). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Hakem heyeti parasal sınırları her yıl güncellenir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kredi notu» sorusu buraya bırakılmıştır.",
+    "lead": "«kredi notu» — kısa cevap: Kredi notu. Tam süreç ve belgeler ana rehberdedir: /bilgi/kredi-karti-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kredi notu",
@@ -71220,7 +71184,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Kredi notu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kredi notu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "banka-hesap-haczi-maas",
@@ -71252,7 +71216,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=maa%C5%9F"
       }
     ],
-    "lead": "«maaş hesabına haciz» araması çoğu zaman genel icra konusunun dar dilimidir: Maaş hesabına haciz. Bu sayfa (banka-hesap-haczi-maas) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Maaş hesabına haciz» sorusu buraya bırakılmıştır.",
+    "lead": "«maaş hesabına haciz» — kısa cevap: Maaş hesabına haciz. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Maaş hesabına haciz",
@@ -71485,7 +71449,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Maaş hesabına haciz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Maaş hesabına haciz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kefil-olursam-ne-olur",
@@ -71517,7 +71481,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«kefil olmanın riskleri» araması çoğu zaman genel borçlar konusunun dar dilimidir: Kefil olmanın riskleri. Bu sayfa (kefil-olursam-ne-olur) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kefil olmanın riskleri» sorusu buraya bırakılmıştır.",
+    "lead": "«kefil olmanın riskleri» — kısa cevap: Kefil olmanın riskleri. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kefil olmanın riskleri",
@@ -71750,7 +71714,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kefil olmanın riskleri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kefil olmanın riskleri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "senet-nasil-yazilir",
@@ -71782,7 +71746,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«senet nasıl yazılır» araması çoğu zaman genel icra konusunun dar dilimidir: Senet nasıl yazılır. Bu sayfa (senet-nasil-yazilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cek-karsiliksiz). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Senet nasıl yazılır» sorusu buraya bırakılmıştır.",
+    "lead": "«senet nasıl yazılır» — kısa cevap: Senet nasıl yazılır. Tam süreç ve belgeler ana rehberdedir: /bilgi/cek-karsiliksiz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Senet nasıl yazılır",
@@ -72015,7 +71979,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Senet nasıl yazılır» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Senet nasıl yazılır» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cek-nasil-yazilir",
@@ -72046,7 +72010,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«çek nasıl yazılır» araması çoğu zaman genel ticaret konusunun dar dilimidir: Çek nasıl yazılır. Bu sayfa (cek-nasil-yazilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cek-karsiliksiz). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çek nasıl yazılır» sorusu buraya bırakılmıştır.",
+    "lead": "«çek nasıl yazılır» — kısa cevap: Çek nasıl yazılır. Tam süreç ve belgeler ana rehberdedir: /bilgi/cek-karsiliksiz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çek nasıl yazılır",
@@ -72279,7 +72243,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Çek nasıl yazılır» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çek nasıl yazılır» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kvkk-aydinlatma-metni",
@@ -72310,7 +72274,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=KVKK"
       }
     ],
-    "lead": "«KVKK aydınlatma metni» araması çoğu zaman genel kişisel veri konusunun dar dilimidir: Aydınlatma. Bu sayfa (kvkk-aydinlatma-metni) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kvkk-basvuru-hakki). Mevzuat çerçevesi sıklıkla 6698 sayılı KVKK ve TCK kişisel veri suçları çevresindedir. Veri sorumlusuna başvuruda cevap için kanuni süre vardır; cevapsızlıkta Kurula şikâyet yolu açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Aydınlatma» sorusu buraya bırakılmıştır.",
+    "lead": "«KVKK aydınlatma metni» — kısa cevap: Aydınlatma. Tam süreç ve belgeler ana rehberdedir: /bilgi/kvkk-basvuru-hakki. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Aydınlatma",
@@ -72543,7 +72507,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Aydınlatma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Aydınlatma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kvkk-acik-riza",
@@ -72574,7 +72538,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=a%C3%A7%C4%B1k%20r%C4%B1za"
       }
     ],
-    "lead": "«KVKK açık rıza» araması çoğu zaman genel kişisel veri konusunun dar dilimidir: Açık rıza. Bu sayfa (kvkk-acik-riza) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kvkk-basvuru-hakki). Mevzuat çerçevesi sıklıkla 6698 sayılı KVKK ve TCK kişisel veri suçları çevresindedir. Veri sorumlusuna başvuruda cevap için kanuni süre vardır; cevapsızlıkta Kurula şikâyet yolu açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Açık rıza» sorusu buraya bırakılmıştır.",
+    "lead": "«KVKK açık rıza» — kısa cevap: Açık rıza. Tam süreç ve belgeler ana rehberdedir: /bilgi/kvkk-basvuru-hakki. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Açık rıza",
@@ -72807,7 +72771,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Açık rıza» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Açık rıza» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "unutulma-hakki",
@@ -72838,7 +72802,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-kisiler"
       }
     ],
-    "lead": "«unutulma hakkı» araması çoğu zaman genel kişisel veri konusunun dar dilimidir: Unutulma. Bu sayfa (unutulma-hakki) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kvkk-basvuru-hakki). Mevzuat çerçevesi sıklıkla 6698 sayılı KVKK ve TCK kişisel veri suçları çevresindedir. Veri sorumlusuna başvuruda cevap için kanuni süre vardır; cevapsızlıkta Kurula şikâyet yolu açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Unutulma» sorusu buraya bırakılmıştır.",
+    "lead": "«unutulma hakkı» — kısa cevap: Unutulma. Tam süreç ve belgeler ana rehberdedir: /bilgi/kvkk-basvuru-hakki. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Unutulma",
@@ -73071,7 +73035,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Unutulma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Unutulma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "erisim-engeli-basvurusu",
@@ -73103,7 +73067,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«erişim engeli başvurusu» araması çoğu zaman genel ceza konusunun dar dilimidir: Erişim engeli başvurusu. Bu sayfa (erisim-engeli-basvurusu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Uzlaştırma kapsamındaki dosyalarda süreç farklı işler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Erişim engeli başvurusu» sorusu buraya bırakılmıştır.",
+    "lead": "«erişim engeli başvurusu» — kısa cevap: Erişim engeli başvurusu. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Erişim engeli başvurusu",
@@ -73336,7 +73300,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Erişim engeli başvurusu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Erişim engeli başvurusu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sosyal-medya-hakaret-sikayet",
@@ -73368,7 +73332,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«sosyal medya hakaret şikâyeti» araması çoğu zaman genel ceza konusunun dar dilimidir: Sosyal medya hakaret şikâyeti. Bu sayfa (sosyal-medya-hakaret-sikayet) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Uzlaştırma kapsamındaki dosyalarda süreç farklı işler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sosyal medya hakaret şikâyeti» sorusu buraya bırakılmıştır.",
+    "lead": "«sosyal medya hakaret şikâyeti» — kısa cevap: Sosyal medya hakaret şikâyeti. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sosyal medya hakaret şikâyeti",
@@ -73601,7 +73565,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Sosyal medya hakaret şikâyeti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sosyal medya hakaret şikâyeti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "whatsapp-yazismasi-delil",
@@ -73633,7 +73597,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=delil"
       }
     ],
-    "lead": "«whatsapp yazışması delil» araması çoğu zaman genel usul konusunun dar dilimidir: WhatsApp yazışması delil. Bu sayfa (whatsapp-yazismasi-delil) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «WhatsApp yazışması delil» sorusu buraya bırakılmıştır.",
+    "lead": "«whatsapp yazışması delil» — kısa cevap: WhatsApp yazışması delil. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: WhatsApp yazışması delil",
@@ -73866,7 +73830,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «WhatsApp yazışması delil» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «WhatsApp yazışması delil» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "limited-sirket-kurulus",
@@ -73897,7 +73861,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«limited şirket kuruluşu» araması çoğu zaman genel ticaret konusunun dar dilimidir: Limited şirket kuruluşu. Bu sayfa (limited-sirket-kurulus) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Limited şirket kuruluşu» sorusu buraya bırakılmıştır.",
+    "lead": "«limited şirket kuruluşu» — kısa cevap: Limited şirket kuruluşu. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Limited şirket kuruluşu",
@@ -74130,7 +74094,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Limited şirket kuruluşu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Limited şirket kuruluşu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "anonim-sirket-kurulus",
@@ -74161,7 +74125,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=anonim"
       }
     ],
-    "lead": "«anonim şirket kuruluşu» araması çoğu zaman genel ticaret konusunun dar dilimidir: Anonim şirket kuruluşu. Bu sayfa (anonim-sirket-kurulus) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Fatura itirazında TTK süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Anonim şirket kuruluşu» sorusu buraya bırakılmıştır.",
+    "lead": "«anonim şirket kuruluşu» — kısa cevap: Anonim şirket kuruluşu. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Anonim şirket kuruluşu",
@@ -74394,7 +74358,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Anonim şirket kuruluşu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Anonim şirket kuruluşu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sirket-hisse-devri",
@@ -74425,7 +74389,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«şirket hisse devri» araması çoğu zaman genel ticaret konusunun dar dilimidir: Şirket hisse devri. Bu sayfa (sirket-hisse-devri) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Şirket hisse devri» sorusu buraya bırakılmıştır.",
+    "lead": "«şirket hisse devri» — kısa cevap: Şirket hisse devri. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Şirket hisse devri",
@@ -74658,7 +74622,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Şirket hisse devri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Şirket hisse devri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ticaret-sicili-islemleri",
@@ -74689,7 +74653,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«ticaret sicili işlemleri» araması çoğu zaman genel ticaret konusunun dar dilimidir: Ticaret sicili işlemleri. Bu sayfa (ticaret-sicili-islemleri) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Çek ibraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ticaret sicili işlemleri» sorusu buraya bırakılmıştır.",
+    "lead": "«ticaret sicili işlemleri» — kısa cevap: Ticaret sicili işlemleri. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ticaret sicili işlemleri",
@@ -74922,7 +74886,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Ticaret sicili işlemleri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ticaret sicili işlemleri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "haksiz-rekabet-nedir",
@@ -74954,7 +74918,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=haks%C4%B1z%20rekabet"
       }
     ],
-    "lead": "«haksız rekabet» araması çoğu zaman genel ticaret konusunun dar dilimidir: Haksız rekabet. Bu sayfa (haksiz-rekabet-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Haksız rekabet» sorusu buraya bırakılmıştır.",
+    "lead": "«haksız rekabet» — kısa cevap: Haksız rekabet. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Haksız rekabet",
@@ -75187,7 +75151,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Haksız rekabet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Haksız rekabet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "marka-tescil",
@@ -75218,7 +75182,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ticari-isletme"
       }
     ],
-    "lead": "«marka tescili» araması çoğu zaman genel ticaret konusunun dar dilimidir: Marka tescili. Bu sayfa (marka-tescil) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Fatura itirazında TTK süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Marka tescili» sorusu buraya bırakılmıştır.",
+    "lead": "«marka tescili» — kısa cevap: Marka tescili. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Marka tescili",
@@ -75451,7 +75415,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Marka tescili» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Marka tescili» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cek-karsiliksiz-ceza",
@@ -75482,7 +75446,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«karşılıksız çek cezası» araması çoğu zaman genel ticaret konusunun dar dilimidir: Karşılıksız çek cezası. Bu sayfa (cek-karsiliksiz-ceza) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cek-karsiliksiz). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Karşılıksız çek cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«karşılıksız çek cezası» — kısa cevap: Karşılıksız çek cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/cek-karsiliksiz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Karşılıksız çek cezası",
@@ -75715,7 +75679,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Karşılıksız çek cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Karşılıksız çek cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "turk-vatandasligi-basvurusu",
@@ -75746,7 +75710,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/nhk"
       }
     ],
-    "lead": "«türk vatandaşlığı» araması çoğu zaman genel yabancılar konusunun dar dilimidir: Türk vatandaşlığı. Bu sayfa (turk-vatandasligi-basvurusu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/yabanci-ikamet-izni). Mevzuat çerçevesi sıklıkla YUKK (6458) ve çalışma izni mevzuatı çevresindedir. Sınır dışı ve idari gözetimde itiraz süreleri çok kısadır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Türk vatandaşlığı» sorusu buraya bırakılmıştır.",
+    "lead": "«türk vatandaşlığı» — kısa cevap: Türk vatandaşlığı. Tam süreç ve belgeler ana rehberdedir: /bilgi/yabanci-ikamet-izni. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Türk vatandaşlığı",
@@ -75979,7 +75943,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Türk vatandaşlığı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Türk vatandaşlığı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "evlilikle-vatandaslik",
@@ -76010,7 +75974,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«evlilikle vatandaşlık» araması çoğu zaman genel yabancılar konusunun dar dilimidir: Evlilikle vatandaşlık. Bu sayfa (evlilikle-vatandaslik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/yabanci-ikamet-izni). Mevzuat çerçevesi sıklıkla YUKK (6458) ve çalışma izni mevzuatı çevresindedir. İkamet ve çalışma izni uzatma başvuruları süre bitiminden önce yapılmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Evlilikle vatandaşlık» sorusu buraya bırakılmıştır.",
+    "lead": "«evlilikle vatandaşlık» — kısa cevap: Evlilikle vatandaşlık. Tam süreç ve belgeler ana rehberdedir: /bilgi/yabanci-ikamet-izni. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Evlilikle vatandaşlık",
@@ -76243,7 +76207,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Evlilikle vatandaşlık» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Evlilikle vatandaşlık» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "oturma-izni-uzatma",
@@ -76274,7 +76238,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ikamet"
       }
     ],
-    "lead": "«ikamet izni uzatma» araması çoğu zaman genel yabancılar konusunun dar dilimidir: İkamet izni uzatma. Bu sayfa (oturma-izni-uzatma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/yabanci-ikamet-izni). Mevzuat çerçevesi sıklıkla YUKK (6458) ve çalışma izni mevzuatı çevresindedir. İkamet ve çalışma izni uzatma başvuruları süre bitiminden önce yapılmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İkamet izni uzatma» sorusu buraya bırakılmıştır.",
+    "lead": "«ikamet izni uzatma» — kısa cevap: İkamet izni uzatma. Tam süreç ve belgeler ana rehberdedir: /bilgi/yabanci-ikamet-izni. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İkamet izni uzatma",
@@ -76507,7 +76471,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İkamet izni uzatma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İkamet izni uzatma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "uluslararasi-koruma",
@@ -76538,7 +76502,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«uluslararası koruma» araması çoğu zaman genel yabancılar konusunun dar dilimidir: Uluslararası koruma. Bu sayfa (uluslararasi-koruma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/yabanci-ikamet-izni). Mevzuat çerçevesi sıklıkla YUKK (6458) ve çalışma izni mevzuatı çevresindedir. İkamet ve çalışma izni uzatma başvuruları süre bitiminden önce yapılmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Uluslararası koruma» sorusu buraya bırakılmıştır.",
+    "lead": "«uluslararası koruma» — kısa cevap: Uluslararası koruma. Tam süreç ve belgeler ana rehberdedir: /bilgi/yabanci-ikamet-izni. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Uluslararası koruma",
@@ -76771,7 +76735,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Uluslararası koruma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Uluslararası koruma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "engelli-maasi-sartlari",
@@ -76802,7 +76766,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=engelli"
       }
     ],
-    "lead": "«engelli maaşı şartları» araması çoğu zaman genel engelli hakları konusunun dar dilimidir: Engelli maaşı şartları. Bu sayfa (engelli-maasi-sartlari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/engelli-raporu-nasil-alinir). Mevzuat çerçevesi sıklıkla 5378 sayılı Kanun ve ÖTV/emlak muafiyetleri çevresindedir. Rapor süresi ve oran güncellemeleri hak kullanımını etkiler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Engelli maaşı şartları» sorusu buraya bırakılmıştır.",
+    "lead": "«engelli maaşı şartları» — kısa cevap: Engelli maaşı şartları. Tam süreç ve belgeler ana rehberdedir: /bilgi/engelli-raporu-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Engelli maaşı şartları",
@@ -77034,7 +76998,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Engelli maaşı şartları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Engelli maaşı şartları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "evde-bakim-maasi",
@@ -77065,7 +77029,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«evde bakım maaşı» araması çoğu zaman genel engelli hakları konusunun dar dilimidir: Evde bakım maaşı. Bu sayfa (evde-bakim-maasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/engelli-raporu-nasil-alinir). Mevzuat çerçevesi sıklıkla 5378 sayılı Kanun ve ÖTV/emlak muafiyetleri çevresindedir. Rapor süresi ve oran güncellemeleri hak kullanımını etkiler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Evde bakım maaşı» sorusu buraya bırakılmıştır.",
+    "lead": "«evde bakım maaşı» — kısa cevap: Evde bakım maaşı. Tam süreç ve belgeler ana rehberdedir: /bilgi/engelli-raporu-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Evde bakım maaşı",
@@ -77297,7 +77261,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Evde bakım maaşı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Evde bakım maaşı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "saglik-turizmi-haklar",
@@ -77328,7 +77292,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«hasta hakları» araması çoğu zaman genel sağlık konusunun dar dilimidir: Hasta hakları. Bu sayfa (saglik-turizmi-haklar) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/malpraktis-davasi). Mevzuat çerçevesi sıklıkla TBK haksız fiil/sözleşme ve hasta hakları mevzuatı çevresindedir. Malpraktiste zamanaşımı ve ispat (bilirkişi) kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hasta hakları» sorusu buraya bırakılmıştır.",
+    "lead": "«hasta hakları» — kısa cevap: Hasta hakları. Tam süreç ve belgeler ana rehberdedir: /bilgi/malpraktis-davasi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hasta hakları",
@@ -77561,7 +77525,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Hasta hakları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hasta hakları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "isse-iade-arabuluculuk",
@@ -77592,7 +77556,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "«işe iade arabuluculuk» araması çoğu zaman genel iş konusunun dar dilimidir: Dava şartı arabuluculuk adımı. Bu sayfa (isse-iade-arabuluculuk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ise-iade-davasi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dava şartı arabuluculuk adımı» sorusu buraya bırakılmıştır.",
+    "lead": "«işe iade arabuluculuk» — kısa cevap: Dava şartı arabuluculuk adımı. Tam süreç ve belgeler ana rehberdedir: /bilgi/ise-iade-davasi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dava şartı arabuluculuk adımı",
@@ -77825,7 +77789,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Dava şartı arabuluculuk adımı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dava şartı arabuluculuk adımı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ogrenim-ucreti-iade",
@@ -77857,7 +77821,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%BCniversite"
       }
     ],
-    "lead": "«üniversite öğrenim ücreti iade» araması çoğu zaman genel eğitim konusunun dar dilimidir: Üniversite öğrenim ücreti iade. Bu sayfa (ogrenim-ucreti-iade) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/okul-kayit-ucreti-iade). Mevzuat çerçevesi sıklıkla ilgili yükseköğretim/MEB mevzuatı ve TKHK (özel okul/kurs) çevresindedir. Disiplin ve kayıt silme itiraz süreleri yönetmeliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Üniversite öğrenim ücreti iade» sorusu buraya bırakılmıştır.",
+    "lead": "«üniversite öğrenim ücreti iade» — kısa cevap: Üniversite öğrenim ücreti iade. Tam süreç ve belgeler ana rehberdedir: /bilgi/okul-kayit-ucreti-iade. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Üniversite öğrenim ücreti iade",
@@ -78090,7 +78054,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Üniversite öğrenim ücreti iade» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Üniversite öğrenim ücreti iade» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "okul-kayit-ucreti-iade",
@@ -78120,7 +78084,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=okul"
       }
     ],
-    "lead": "Özel okul ücreti iade edilir mi dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir. İlgili çerçeve sıklıkla ilgili yükseköğretim/MEB mevzuatı, TKHK (özel okul/kurs) hükümleriyle çizilir; başvuru mercileri arasında idare mahkemesi, YÖK ve tüketici mercileri öne çıkar. Aşağıda «özel okul ücret iadesi» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Özel okul ücreti iade edilir mi: eğitim alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«özel okul ücret iadesi» ne demektir? Kavram ve kapsam",
@@ -78154,19 +78118,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Karar veya sözleşme maddesini okuyun. (2) İdari itirazı süresinde yapın. (3) Tüketici veya idari yargı yolunu seçin. (4) Belgeleri saklayın. (5) Sonucu kayıt/ödeme sisteminde teyit edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «özel okul ücret iadesi» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Karar veya sözleşme maddesini okuyun.",
-          "İdari itirazı süresinde yapın.",
-          "Tüketici veya idari yargı yolunu seçin.",
-          "Belgeleri saklayın.",
-          "Sonucu kayıt/ödeme sisteminde teyit edin."
+          "1. Karar veya sözleşme maddesini okuyun.",
+          "2. İdari itirazı süresinde yapın.",
+          "3. Tüketici veya idari yargı yolunu seçin.",
+          "4. Belgeleri saklayın.",
+          "5. Sonucu kayıt/ödeme sisteminde teyit edin."
         ]
       },
       {
@@ -78393,7 +78356,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "«özel okul ücret iadesi» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "yuksekogretim-disiplin",
@@ -78425,7 +78388,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«öğrenci disiplin cezası» araması çoğu zaman genel eğitim konusunun dar dilimidir: Öğrenci disiplin cezası. Bu sayfa (yuksekogretim-disiplin) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/okul-kayit-ucreti-iade). Mevzuat çerçevesi sıklıkla ilgili yükseköğretim/MEB mevzuatı ve TKHK (özel okul/kurs) çevresindedir. Disiplin ve kayıt silme itiraz süreleri yönetmeliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Öğrenci disiplin cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«öğrenci disiplin cezası» — kısa cevap: Öğrenci disiplin cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/okul-kayit-ucreti-iade. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Öğrenci disiplin cezası",
@@ -78658,7 +78621,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Öğrenci disiplin cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Öğrenci disiplin cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kentsel-donusum-nedir",
@@ -78691,7 +78654,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "Kentsel dönüşümde malik hakları nelerdir; imar alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla İmar Kanunu, belediye mevzuatı, 6306 (kentsel dönüşüm) hükümleriyle çizilir; başvuru mercileri arasında belediye, idare mahkemesi ve yapı denetim öne çıkar. Aşağıda «kentsel dönüşüm» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Kentsel dönüşümde malik hakları nelerdir: imar alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«kentsel dönüşüm» ne demektir? Kavram ve kapsam",
@@ -78725,19 +78688,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin. (2) Ruhsat ve imar durumunu kontrol edin. (3) İdari itiraz veya uzlaşma yollarını değerlendirin. (4) İdare mahkemesinde iptal/YD düşünün. (5) İskan/ruhsat süreçlerini tamamlayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «kentsel dönüşüm» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin.",
-          "Ruhsat ve imar durumunu kontrol edin.",
-          "İdari itiraz veya uzlaşma yollarını değerlendirin.",
-          "İdare mahkemesinde iptal/YD düşünün.",
-          "İskan/ruhsat süreçlerini tamamlayın."
+          "1. Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin.",
+          "2. Ruhsat ve imar durumunu kontrol edin.",
+          "3. İdari itiraz veya uzlaşma yollarını değerlendirin.",
+          "4. İdare mahkemesinde iptal/YD düşünün.",
+          "5. İskan/ruhsat süreçlerini tamamlayın."
         ]
       },
       {
@@ -78964,7 +78926,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "«kentsel dönüşüm» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "riskli-yapi-tespiti",
@@ -78995,7 +78957,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«riskli yapı tespiti» araması çoğu zaman genel imar konusunun dar dilimidir: Riskli yapı tespiti. Bu sayfa (riskli-yapi-tespiti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Riskli yapı tespiti» sorusu buraya bırakılmıştır.",
+    "lead": "«riskli yapı tespiti» — kısa cevap: Riskli yapı tespiti. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Riskli yapı tespiti",
@@ -79228,7 +79190,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Riskli yapı tespiti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Riskli yapı tespiti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kat-karsiligi-insaat",
@@ -79260,7 +79222,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«kat karşılığı inşaat» araması çoğu zaman genel eşya konusunun dar dilimidir: Kat karşılığı inşaat. Bu sayfa (kat-karsiligi-insaat) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kat karşılığı inşaat» sorusu buraya bırakılmıştır.",
+    "lead": "«kat karşılığı inşaat» — kısa cevap: Kat karşılığı inşaat. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kat karşılığı inşaat",
@@ -79493,7 +79455,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kat karşılığı inşaat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kat karşılığı inşaat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yuklenici-temerrudu",
@@ -79525,7 +79487,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=eser"
       }
     ],
-    "lead": "«yüklenici temerrüdü» araması çoğu zaman genel borçlar konusunun dar dilimidir: Yüklenici temerrüdü. Bu sayfa (yuklenici-temerrudu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yüklenici temerrüdü» sorusu buraya bırakılmıştır.",
+    "lead": "«yüklenici temerrüdü» — kısa cevap: Yüklenici temerrüdü. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yüklenici temerrüdü",
@@ -79758,7 +79720,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Yüklenici temerrüdü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yüklenici temerrüdü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kanun-maddesi-nasil-okunur",
@@ -79791,7 +79753,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara"
       }
     ],
-    "lead": "Kanun maddesi okurken önce kapsam (kimlere uygulanır), sonra şartlar, sonra hukuki sonuç ve istisnalar okunur. Fıkra ve bentler atlanmamalı; atıf maddeleri ve yürürlük tarihi kontrol edilmelidir. Akademik şerh, maddenin yargıdaki anlamını özetler. Bu ana rehber «kanun maddesi», «kanun maddesi okuma» ve «madde şerhi nedir» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.",
+    "lead": "Kanun maddesi okurken önce kapsam (kimlere uygulanır), sonra şartlar, sonra hukuki sonuç ve istisnalar okunur. Fıkra ve bentler atlanmamalı; atıf maddeleri ve yürürlük tarihi kontrol edilmelidir. Akademik şerh, maddenin yargıdaki anlamını özetler. Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
     "sections": [
       {
         "heading": "Kanun maddesi nasıl okunur ve yorumlanır: hukuki çerçeve ve arama niyeti",
@@ -79825,19 +79787,19 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin. (2) Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin. (3) Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın. (4) Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin. (5) Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin. (6) Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «kanun maddesi» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
-          "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
-          "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
-          "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
-          "Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin."
+          "1. Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+          "2. Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
+          "3. Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
+          "4. Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
+          "5. Sonucu UYAP/e-Devlet/kurum takibiyle izleyin; ret veya aleyhe kararda kanun yolunu değerlendirin.",
+          "6. Ödeme, tescil, icra kapanışı veya kararın uygulanmasını belgelendirin."
         ]
       },
       {
@@ -80065,7 +80027,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "«kanun maddesi» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "mevzuat-nasil-aranir",
@@ -80096,7 +80058,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "Kanun maddesi ararken anahtar kelime (ör. satım, temerrüt) veya kanun kodu + madde no (ör. TBK 125) kullanılabilir. Tam metin arama, madde başlığında geçmeyen kavramları da bulur. Sonuçları kanuna göre süzmek isabeti artırır. Bu spoke sayfa yalnızca «Mevzuat nasıl aranır» niyetine odaklanır; tüm süreci yeniden anlatmaz. Hak kazanma, merciler, belgeler, süreler ve adım adım yol haritası ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. «mevzuat nasıl aranır», «mevzuat nasil aranir» ve «mevzuat nasil aranir» anahtarları bilerek dar tutulmuştur. Metin genel bilgilendirmedir; bağlayıcı tavsiye ve sonuç vaadi içermez. Tebliğ tarihi, güncel mevzuat ve somut delil dosyaya göredir.",
+    "lead": "Kanun maddesi ararken anahtar kelime (ör. satım, temerrüt) veya kanun kodu + madde no (ör. TBK 125) kullanılabilir. Tam metin arama, madde başlığında geçmeyen kavramları da bulur. Sonuçları kanuna göre süzmek isabeti artırır. Bu sayfa yalnızca «Mevzuat nasıl aranır» sorusuna cevap verir. Tam süreç: /bilgi/kanun-maddesi-nasil-okunur",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Mevzuat nasıl aranır",
@@ -80328,7 +80290,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Mevzuat nasıl aranır» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Mevzuat nasıl aranır» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tbk-nedir",
@@ -80360,7 +80322,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=TBK"
       }
     ],
-    "lead": "«tbk nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: TBK nedir. Bu sayfa (tbk-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Fıkra, bent ve atıf maddeleri atlanmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «TBK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«tbk nedir» — kısa cevap: TBK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: TBK nedir",
@@ -80593,7 +80555,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «TBK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «TBK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tmk-nedir",
@@ -80625,7 +80587,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=TMK"
       }
     ],
-    "lead": "«tmk nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: TMK nedir. Bu sayfa (tmk-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Şerh ve içtihat, maddeyi somut olaya uygulamada yol gösterir; bağlayıcılık karara göredir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «TMK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«tmk nedir» — kısa cevap: TMK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: TMK nedir",
@@ -80858,7 +80820,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «TMK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «TMK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ttk-nedir",
@@ -80890,7 +80852,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=TTK"
       }
     ],
-    "lead": "«ttk nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: TTK nedir. Bu sayfa (ttk-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Fıkra, bent ve atıf maddeleri atlanmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «TTK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«ttk nedir» — kısa cevap: TTK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: TTK nedir",
@@ -81123,7 +81085,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «TTK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «TTK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tck-nedir",
@@ -81155,7 +81117,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=TCK"
       }
     ],
-    "lead": "«tck nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: TCK nedir. Bu sayfa (tck-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Fıkra, bent ve atıf maddeleri atlanmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «TCK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«tck nedir» — kısa cevap: TCK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: TCK nedir",
@@ -81388,7 +81350,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «TCK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «TCK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hmk-nedir",
@@ -81420,7 +81382,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=HMK"
       }
     ],
-    "lead": "«hmk nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: HMK nedir. Bu sayfa (hmk-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Madde metni yürürlük ve değişiklik tarihleriyle birlikte okunmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «HMK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«hmk nedir» — kısa cevap: HMK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: HMK nedir",
@@ -81653,7 +81615,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «HMK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «HMK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iik-nedir",
@@ -81685,7 +81647,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C4%B0%C4%B0K"
       }
     ],
-    "lead": "«iik nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: İİK nedir. Bu sayfa (iik-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Fıkra, bent ve atıf maddeleri atlanmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İİK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«iik nedir» — kısa cevap: İİK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İİK nedir",
@@ -81918,7 +81880,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İİK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İİK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cmk-nedir",
@@ -81950,7 +81912,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=CMK"
       }
     ],
-    "lead": "«cmk nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: CMK nedir. Bu sayfa (cmk-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Fıkra, bent ve atıf maddeleri atlanmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «CMK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«cmk nedir» — kısa cevap: CMK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: CMK nedir",
@@ -82183,7 +82145,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «CMK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «CMK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-kanunu-nedir",
@@ -82215,7 +82177,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C4%B0%C5%9F%20Kanunu"
       }
     ],
-    "lead": "«iş kanunu nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: İş Kanunu nedir. Bu sayfa (is-kanunu-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Fıkra, bent ve atıf maddeleri atlanmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İş Kanunu nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«iş kanunu nedir» — kısa cevap: İş Kanunu nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İş Kanunu nedir",
@@ -82448,7 +82410,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İş Kanunu nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İş Kanunu nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tkhk-nedir",
@@ -82480,7 +82442,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=t%C3%BCketici"
       }
     ],
-    "lead": "«tkhk nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: TKHK nedir. Bu sayfa (tkhk-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Fıkra, bent ve atıf maddeleri atlanmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «TKHK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«tkhk nedir» — kısa cevap: TKHK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: TKHK nedir",
@@ -82713,7 +82675,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «TKHK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «TKHK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kvkk-kanunu-nedir",
@@ -82744,7 +82706,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=KVKK"
       }
     ],
-    "lead": "«KVKK nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: Kanun tanımı. Bu sayfa (kvkk-kanunu-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kvkk-basvuru-hakki). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Şerh ve içtihat, maddeyi somut olaya uygulamada yol gösterir; bağlayıcılık karara göredir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kanun tanımı» sorusu buraya bırakılmıştır.",
+    "lead": "«KVKK nedir» — kısa cevap: Kanun tanımı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kvkk-basvuru-hakki. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kanun tanımı",
@@ -82977,7 +82939,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kanun tanımı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kanun tanımı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "vuk-nedir",
@@ -83009,7 +82971,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=VUK"
       }
     ],
-    "lead": "«vuk nedir» araması çoğu zaman genel mevzuat konusunun dar dilimidir: VUK nedir. Bu sayfa (vuk-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Madde metni yürürlük ve değişiklik tarihleriyle birlikte okunmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «VUK nedir» sorusu buraya bırakılmıştır.",
+    "lead": "«vuk nedir» — kısa cevap: VUK nedir. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: VUK nedir",
@@ -83242,7 +83204,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «VUK nedir» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «VUK nedir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "anayasa-maddesi-nedir",
@@ -83273,7 +83235,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/icthat"
       }
     ],
-    "lead": "«anayasa maddesi» araması çoğu zaman genel mevzuat konusunun dar dilimidir: Anayasa maddesi. Bu sayfa (anayasa-maddesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Şerh ve içtihat, maddeyi somut olaya uygulamada yol gösterir; bağlayıcılık karara göredir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Anayasa maddesi» sorusu buraya bırakılmıştır.",
+    "lead": "«anayasa maddesi» — kısa cevap: Anayasa maddesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Anayasa maddesi",
@@ -83506,7 +83468,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Anayasa maddesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Anayasa maddesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-sifresi-alma",
@@ -83537,7 +83499,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/nhk"
       }
     ],
-    "lead": "«e-devlet şifresi» araması çoğu zaman genel nüfus konusunun dar dilimidir: e-Devlet şifresi. Bu sayfa (e-devlet-sifresi-alma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet şifresi» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet şifresi» — kısa cevap: e-Devlet şifresi. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet şifresi",
@@ -83770,7 +83732,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «e-Devlet şifresi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet şifresi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "uyap-vatandas-portal",
@@ -83802,7 +83764,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«uyap vatandaş portal» araması çoğu zaman genel usul konusunun dar dilimidir: UYAP vatandaş portal. Bu sayfa (uyap-vatandas-portal) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/noter-islemleri). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «UYAP vatandaş portal» sorusu buraya bırakılmıştır.",
+    "lead": "«uyap vatandaş portal» — kısa cevap: UYAP vatandaş portal. Tam süreç ve belgeler ana rehberdedir: /bilgi/noter-islemleri. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: UYAP vatandaş portal",
@@ -84035,7 +83997,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «UYAP vatandaş portal» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «UYAP vatandaş portal» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "avukat-vekalet-ucreti",
@@ -84067,7 +84029,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/vekalet"
       }
     ],
-    "lead": "«avukat vekâlet ücreti» araması çoğu zaman genel usul konusunun dar dilimidir: Avukat vekâlet ücreti. Bu sayfa (avukat-vekalet-ucreti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Avukat vekâlet ücreti» sorusu buraya bırakılmıştır.",
+    "lead": "«avukat vekâlet ücreti» — kısa cevap: Avukat vekâlet ücreti. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Avukat vekâlet ücreti",
@@ -84300,7 +84262,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Avukat vekâlet ücreti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Avukat vekâlet ücreti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arabulucu-nasil-secilir",
@@ -84331,7 +84293,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=arabulucu"
       }
     ],
-    "lead": "«arabulucu nasıl seçilir» araması çoğu zaman genel usul konusunun dar dilimidir: Arabulucu seçimi. Bu sayfa (arabulucu-nasil-secilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Arabulucu seçimi» sorusu buraya bırakılmıştır.",
+    "lead": "«arabulucu nasıl seçilir» — kısa cevap: Arabulucu seçimi. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Arabulucu seçimi",
@@ -84564,7 +84526,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Arabulucu seçimi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Arabulucu seçimi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "dilekce-nasil-yazilir",
@@ -84595,7 +84557,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«dilekçe nasıl yazılır» araması çoğu zaman genel usul konusunun dar dilimidir: Dilekçe. Bu sayfa (dilekce-nasil-yazilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/hukuk-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dilekçe» sorusu buraya bırakılmıştır.",
+    "lead": "«dilekçe nasıl yazılır» — kısa cevap: Dilekçe. Tam süreç ve belgeler ana rehberdedir: /bilgi/hukuk-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dilekçe",
@@ -84828,7 +84790,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Dilekçe» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dilekçe» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ihtarnama-nasil-cekilir",
@@ -84859,7 +84821,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«ihtarname çekme» araması çoğu zaman genel usul konusunun dar dilimidir: İhtarname çekme. Bu sayfa (ihtarnama-nasil-cekilir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/noter-islemleri). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İhtarname çekme» sorusu buraya bırakılmıştır.",
+    "lead": "«ihtarname çekme» — kısa cevap: İhtarname çekme. Tam süreç ve belgeler ana rehberdedir: /bilgi/noter-islemleri. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İhtarname çekme",
@@ -85092,7 +85054,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İhtarname çekme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İhtarname çekme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sulh-nedir",
@@ -85124,7 +85086,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=sulh"
       }
     ],
-    "lead": "«sulh» araması çoğu zaman genel usul konusunun dar dilimidir: Sulh. Bu sayfa (sulh-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sulh» sorusu buraya bırakılmıştır.",
+    "lead": "«sulh» — kısa cevap: Sulh. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sulh",
@@ -85357,7 +85319,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Sulh» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sulh» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "feragat-nedir",
@@ -85389,7 +85351,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=feragat"
       }
     ],
-    "lead": "«davadan feragat» araması çoğu zaman genel usul konusunun dar dilimidir: Davadan feragat. Bu sayfa (feragat-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Davadan feragat» sorusu buraya bırakılmıştır.",
+    "lead": "«davadan feragat» — kısa cevap: Davadan feragat. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Davadan feragat",
@@ -85622,7 +85584,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Davadan feragat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Davadan feragat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kabul-nedir-usul",
@@ -85654,7 +85616,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«davayı kabul» araması çoğu zaman genel usul konusunun dar dilimidir: Davayı kabul. Bu sayfa (kabul-nedir-usul) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Davayı kabul» sorusu buraya bırakılmıştır.",
+    "lead": "«davayı kabul» — kısa cevap: Davayı kabul. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Davayı kabul",
@@ -85887,7 +85849,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Davayı kabul» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Davayı kabul» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "uzaklastirma-karari-ihlal",
@@ -85918,7 +85880,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-kisiler"
       }
     ],
-    "lead": "«uzaklaştırma kararı ihlal» araması çoğu zaman genel aile konusunun dar dilimidir: İhlal. Bu sayfa (uzaklastirma-karari-ihlal) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/koruma-karari-6284). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İhlal» sorusu buraya bırakılmıştır.",
+    "lead": "«uzaklaştırma kararı ihlal» — kısa cevap: İhlal. Tam süreç ve belgeler ana rehberdedir: /bilgi/koruma-karari-6284. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İhlal",
@@ -86151,7 +86113,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İhlal» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İhlal» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "siddette-tanik-koruma",
@@ -86182,7 +86144,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«aile içi şiddet delil» araması çoğu zaman genel aile konusunun dar dilimidir: Delil. Bu sayfa (siddette-tanik-koruma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/koruma-karari-6284). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Delil» sorusu buraya bırakılmıştır.",
+    "lead": "«aile içi şiddet delil» — kısa cevap: Delil. Tam süreç ve belgeler ana rehberdedir: /bilgi/koruma-karari-6284. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Delil",
@@ -86415,7 +86377,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Delil» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Delil» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "agi-nedir",
@@ -86447,7 +86409,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«agi» araması çoğu zaman genel iş konusunun dar dilimidir: AGİ. Bu sayfa (agi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «AGİ» sorusu buraya bırakılmıştır.",
+    "lead": "«agi» — kısa cevap: AGİ. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: AGİ",
@@ -86680,7 +86642,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «AGİ» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «AGİ» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kidem-tazminati-hesaplama",
@@ -86712,7 +86674,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/kidem-tazminati"
       }
     ],
-    "lead": "Kıdem tazminatı, giydirilmiş brüt ücret × çalışılan yıl esasına göre kabaca hesaplanır; her tam yıl için 30 günlük ücret ve artan süreler oranlanır. Yıllık tavan, damga vergisi ve hak kazanma şartları döneme göre uygulanır. Portal hesaplama aracı bilgilendirme amaçlıdır. Bu spoke sayfa yalnızca «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» niyetine odaklanır; tüm süreci yeniden anlatmaz. Hak kazanma, merciler, belgeler, süreler ve adım adım yol haritası ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. «kıdem tazminatı hesaplama», «kıdem hesabı formülü» ve «giydirilmiş ücret kıdem» anahtarları bilerek dar tutulmuştur. Metin genel bilgilendirmedir; bağlayıcı tavsiye ve sonuç vaadi içermez. Tebliğ tarihi, güncel mevzuat ve somut delil dosyaya göredir.",
+    "lead": "Kıdem tazminatı, giydirilmiş brüt ücret × çalışılan yıl esasına göre kabaca hesaplanır; her tam yıl için 30 günlük ücret ve artan süreler oranlanır. Yıllık tavan, damga vergisi ve hak kazanma şartları döneme göre uygulanır. Portal hesaplama aracı bilgilendi… Bu sayfa yalnızca «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» sorusuna cevap verir. Tam süreç: /bilgi/kidem-tazminati-nasil-alinir",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi",
@@ -86945,7 +86907,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ihbar-suresi-tablosu",
@@ -86977,7 +86939,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "«ihbar süreleri tablosu» araması çoğu zaman genel iş konusunun dar dilimidir: Kıdeme göre bildirim süresi tablosu. Bu sayfa (ihbar-suresi-tablosu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kıdeme göre bildirim süresi tablosu» sorusu buraya bırakılmıştır.",
+    "lead": "«ihbar süreleri tablosu» — kısa cevap: Kıdeme göre bildirim süresi tablosu. Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kıdeme göre bildirim süresi tablosu",
@@ -87210,7 +87172,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Kıdeme göre bildirim süresi tablosu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kıdeme göre bildirim süresi tablosu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ise-iade-tazminati",
@@ -87241,7 +87203,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/ise-iade"
       }
     ],
-    "lead": "«işe başlatmama tazminatı» araması çoğu zaman genel iş konusunun dar dilimidir: İşe başlatmama tazminatı miktar aralığı. Bu sayfa (ise-iade-tazminati) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ise-iade-davasi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşe başlatmama tazminatı miktar aralığı» sorusu buraya bırakılmıştır.",
+    "lead": "«işe başlatmama tazminatı» — kısa cevap: İşe başlatmama tazminatı miktar aralığı. Tam süreç ve belgeler ana rehberdedir: /bilgi/ise-iade-davasi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşe başlatmama tazminatı miktar aralığı",
@@ -87474,7 +87436,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İşe başlatmama tazminatı miktar aralığı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşe başlatmama tazminatı miktar aralığı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bos-ta-gecen-sure",
@@ -87505,7 +87467,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/ise-iade"
       }
     ],
-    "lead": "«boşta geçen süre ücreti» araması çoğu zaman genel iş konusunun dar dilimidir: Boşta geçen süre ücreti. Bu sayfa (bos-ta-gecen-sure) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ise-iade-davasi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Boşta geçen süre ücreti» sorusu buraya bırakılmıştır.",
+    "lead": "«boşta geçen süre ücreti» — kısa cevap: Boşta geçen süre ücreti. Tam süreç ve belgeler ana rehberdedir: /bilgi/ise-iade-davasi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Boşta geçen süre ücreti",
@@ -87738,7 +87700,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Boşta geçen süre ücreti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Boşta geçen süre ücreti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "haciz-ihbarnamesi",
@@ -87770,7 +87732,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=haciz"
       }
     ],
-    "lead": "«haciz ihbarnamesi» araması çoğu zaman genel icra konusunun dar dilimidir: 3. kişiye ihbar. Bu sayfa (haciz-ihbarnamesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «3. kişiye ihbar» sorusu buraya bırakılmıştır.",
+    "lead": "«haciz ihbarnamesi» — kısa cevap: 3. kişiye ihbar. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: 3. kişiye ihbar",
@@ -88003,7 +87965,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «3. kişiye ihbar» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «3. kişiye ihbar» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "istihkak-iddiasi",
@@ -88035,7 +87997,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«istihkak iddiası» araması çoğu zaman genel icra konusunun dar dilimidir: İstihkak. Bu sayfa (istihkak-iddiasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İstihkak» sorusu buraya bırakılmıştır.",
+    "lead": "«istihkak iddiası» — kısa cevap: İstihkak. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İstihkak",
@@ -88268,7 +88230,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İstihkak» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İstihkak» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-inkar-tazminati-orani",
@@ -88300,7 +88262,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«inkar tazminatı oranı» araması çoğu zaman genel icra konusunun dar dilimidir: Oran. Bu sayfa (icra-inkar-tazminati-orani) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Oran» sorusu buraya bırakılmıştır.",
+    "lead": "«inkar tazminatı oranı» — kısa cevap: Oran. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Oran",
@@ -88533,7 +88495,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Oran» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Oran» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "odeme-emri-tebligi",
@@ -88565,7 +88527,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tebligat"
       }
     ],
-    "lead": "«ödeme emri tebliği» araması çoğu zaman genel icra konusunun dar dilimidir: Tebliğ anı. Bu sayfa (odeme-emri-tebligi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tebliğ anı» sorusu buraya bırakılmıştır.",
+    "lead": "«ödeme emri tebliği» — kısa cevap: Tebliğ anı. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tebliğ anı",
@@ -88798,7 +88760,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Tebliğ anı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tebliğ anı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-kontrat-e-devlet",
@@ -88829,7 +88791,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "«e-devlet kira kontratı» araması çoğu zaman genel kira konusunun dar dilimidir: e-Devlet kira bildirimi. Bu sayfa (kira-kontrat-e-devlet) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet kira bildirimi» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet kira kontratı» — kısa cevap: e-Devlet kira bildirimi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet kira bildirimi",
@@ -89062,7 +89024,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «e-Devlet kira bildirimi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet kira bildirimi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "depozito-faizi",
@@ -89094,7 +89056,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kira"
       }
     ],
-    "lead": "«kira depozito faizi» araması çoğu zaman genel kira konusunun dar dilimidir: Depozitoya faiz. Bu sayfa (depozito-faizi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Depozitoya faiz» sorusu buraya bırakılmıştır.",
+    "lead": "«kira depozito faizi» — kısa cevap: Depozitoya faiz. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Depozitoya faiz",
@@ -89327,7 +89289,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Depozitoya faiz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Depozitoya faiz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kiralananin-ayibi",
@@ -89359,7 +89321,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kira"
       }
     ],
-    "lead": "«kiralananın ayıbı» araması çoğu zaman genel kira konusunun dar dilimidir: Ayıplı kiralanan. Bu sayfa (kiralananin-ayibi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ayıplı kiralanan» sorusu buraya bırakılmıştır.",
+    "lead": "«kiralananın ayıbı» — kısa cevap: Ayıplı kiralanan. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ayıplı kiralanan",
@@ -89592,7 +89554,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Ayıplı kiralanan» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ayıplı kiralanan» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ayip-bildirim-suresi",
@@ -89623,7 +89585,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«ayıp bildirim süresi» araması çoğu zaman genel tüketici konusunun dar dilimidir: Ayıp ihbar süresi. Bu sayfa (ayip-bildirim-suresi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Mesafeli satışta cayma hakkı kural olarak 14 gündür; istisnalar yönetmelikte sayılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ayıp ihbar süresi» sorusu buraya bırakılmıştır.",
+    "lead": "«ayıp bildirim süresi» — kısa cevap: Ayıp ihbar süresi. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ayıp ihbar süresi",
@@ -89856,7 +89818,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Ayıp ihbar süresi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ayıp ihbar süresi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tuketici-mahkemesi",
@@ -89887,7 +89849,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«tüketici mahkemesi» araması çoğu zaman genel tüketici konusunun dar dilimidir: Mahkeme yolu. Bu sayfa (tuketici-mahkemesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Mahkeme yolu» sorusu buraya bırakılmıştır.",
+    "lead": "«tüketici mahkemesi» — kısa cevap: Mahkeme yolu. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Mahkeme yolu",
@@ -90120,7 +90082,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Mahkeme yolu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Mahkeme yolu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "mesafeli-sozlesme-yonetmelik",
@@ -90150,7 +90112,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=mesafeli"
       }
     ],
-    "lead": "«mesafeli sözleşmeler yönetmeliği» araması çoğu zaman genel tüketici konusunun dar dilimidir: Satıcı yükümlülüğü. Bu sayfa (mesafeli-sozlesme-yonetmelik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Satıcı yükümlülüğü» sorusu buraya bırakılmıştır.",
+    "lead": "«mesafeli sözleşmeler yönetmeliği» — kısa cevap: Satıcı yükümlülüğü. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Satıcı yükümlülüğü",
@@ -90383,7 +90345,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Satıcı yükümlülüğü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Satıcı yükümlülüğü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "suc-duyurusu-geri-alma",
@@ -90414,7 +90376,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-genel"
       }
     ],
-    "lead": "«şikayet geri alma» araması çoğu zaman genel ceza konusunun dar dilimidir: Vazgeçme. Bu sayfa (suc-duyurusu-geri-alma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vazgeçme» sorusu buraya bırakılmıştır.",
+    "lead": "«şikayet geri alma» — kısa cevap: Vazgeçme. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vazgeçme",
@@ -90647,7 +90609,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Vazgeçme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vazgeçme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "mudafi-hakki",
@@ -90679,7 +90641,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=m%C3%BCdafi"
       }
     ],
-    "lead": "«müdafi hakkı» araması çoğu zaman genel ceza konusunun dar dilimidir: Müdafi. Bu sayfa (mudafi-hakki) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Uzlaştırma kapsamındaki dosyalarda süreç farklı işler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Müdafi» sorusu buraya bırakılmıştır.",
+    "lead": "«müdafi hakkı» — kısa cevap: Müdafi. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Müdafi",
@@ -90912,7 +90874,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Müdafi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Müdafi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ifade-alma-haklari",
@@ -90944,7 +90906,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/pvsk"
       }
     ],
-    "lead": "«ifade alma hakları» araması çoğu zaman genel ceza konusunun dar dilimidir: İfade. Bu sayfa (ifade-alma-haklari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/savcilik-suc-duyurusu). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Şikâyete bağlı suçlarda şikâyet süresi kural olarak 6 aydır (somut suç tipine bakın). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İfade» sorusu buraya bırakılmıştır.",
+    "lead": "«ifade alma hakları» — kısa cevap: İfade. Tam süreç ve belgeler ana rehberdedir: /bilgi/savcilik-suc-duyurusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İfade",
@@ -91177,7 +91139,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İfade» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İfade» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sorusturma-gizliligi",
@@ -91209,7 +91171,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=soru%C5%9Fturma"
       }
     ],
-    "lead": "«soruşturma gizliliği» araması çoğu zaman genel ceza konusunun dar dilimidir: Soruşturma gizliliği. Bu sayfa (sorusturma-gizliligi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Gözaltı süreleri CMK’ya tabidir; müdafi hakkı vazgeçilemez temel güvencedir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Soruşturma gizliliği» sorusu buraya bırakılmıştır.",
+    "lead": "«soruşturma gizliliği» — kısa cevap: Soruşturma gizliliği. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Soruşturma gizliliği",
@@ -91442,7 +91404,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Soruşturma gizliliği» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Soruşturma gizliliği» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yasal-mirascilar",
@@ -91473,7 +91435,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "«yasal mirasçılar» araması çoğu zaman genel miras konusunun dar dilimidir: Kimler mirasçı. Bu sayfa (yasal-mirascilar) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Mirasın reddi için yasal süre vardır; kaçırılırsa kabul edilmiş sayılma riski doğar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kimler mirasçı» sorusu buraya bırakılmıştır.",
+    "lead": "«yasal mirasçılar» — kısa cevap: Kimler mirasçı. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kimler mirasçı",
@@ -91706,7 +91668,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kimler mirasçı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kimler mirasçı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "esin-miras-payi",
@@ -91738,7 +91700,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "«eşin miras payı» araması çoğu zaman genel miras konusunun dar dilimidir: Eş payı. Bu sayfa (esin-miras-payi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Mirasın reddi için yasal süre vardır; kaçırılırsa kabul edilmiş sayılma riski doğar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Eş payı» sorusu buraya bırakılmıştır.",
+    "lead": "«eşin miras payı» — kısa cevap: Eş payı. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Eş payı",
@@ -91971,7 +91933,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Eş payı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Eş payı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "vasiyetname-iptali",
@@ -92002,7 +91964,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«vasiyetname iptali» araması çoğu zaman genel miras konusunun dar dilimidir: İptal. Bu sayfa (vasiyetname-iptali) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Tenkis ve muris muvazaası davalarında zamanaşımı/hak düşürücü süreler somut olaya göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İptal» sorusu buraya bırakılmıştır.",
+    "lead": "«vasiyetname iptali» — kısa cevap: İptal. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İptal",
@@ -92235,7 +92197,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İptal» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İptal» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "miras-sebebiyle-istihkak",
@@ -92265,7 +92227,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«miras sebebiyle istihkak» araması çoğu zaman genel miras konusunun dar dilimidir: İstihkak. Bu sayfa (miras-sebebiyle-istihkak) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Mirasın reddi için yasal süre vardır; kaçırılırsa kabul edilmiş sayılma riski doğar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İstihkak» sorusu buraya bırakılmıştır.",
+    "lead": "«miras sebebiyle istihkak» — kısa cevap: İstihkak. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İstihkak",
@@ -92498,7 +92460,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İstihkak» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İstihkak» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tapuda-satis-islemleri",
@@ -92529,7 +92491,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=tapu"
       }
     ],
-    "lead": "«tapuda satış» araması çoğu zaman genel eşya konusunun dar dilimidir: Satış günü. Bu sayfa (tapuda-satis-islemleri) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Satış günü» sorusu buraya bırakılmıştır.",
+    "lead": "«tapuda satış» — kısa cevap: Satış günü. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Satış günü",
@@ -92762,7 +92724,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Satış günü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Satış günü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hisseli-tapu-riskleri",
@@ -92793,7 +92755,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=payl%C4%B1"
       }
     ],
-    "lead": "«hisseli tapu» araması çoğu zaman genel eşya konusunun dar dilimidir: Hisseli. Bu sayfa (hisseli-tapu-riskleri) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hisseli» sorusu buraya bırakılmıştır.",
+    "lead": "«hisseli tapu» — kısa cevap: Hisseli. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hisseli",
@@ -93026,7 +92988,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Hisseli» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hisseli» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tarla-tapu-tarim",
@@ -93058,7 +93020,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/imar"
       }
     ],
-    "lead": "«tarla tapu» araması çoğu zaman genel eşya konusunun dar dilimidir: Tarla tapu. Bu sayfa (tarla-tapu-tarim) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tarla tapu» sorusu buraya bırakılmıştır.",
+    "lead": "«tarla tapu» — kısa cevap: Tarla tapu. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tarla tapu",
@@ -93291,7 +93253,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Tarla tapu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tarla tapu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kat-mulkiyeti-genel-kurul",
@@ -93322,7 +93284,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«kat malikleri kurulu» araması çoğu zaman genel eşya konusunun dar dilimidir: Kat malikleri kurulu. Bu sayfa (kat-mulkiyeti-genel-kurul) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kat-mulkiyeti-aidat). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kat malikleri kurulu» sorusu buraya bırakılmıştır.",
+    "lead": "«kat malikleri kurulu» — kısa cevap: Kat malikleri kurulu. Tam süreç ve belgeler ana rehberdedir: /bilgi/kat-mulkiyeti-aidat. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kat malikleri kurulu",
@@ -93555,7 +93517,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kat malikleri kurulu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kat malikleri kurulu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "dilekce-hakki-3071",
@@ -93586,7 +93548,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=dilek%C3%A7e"
       }
     ],
-    "lead": "«dilekçe hakkı 3071» araması çoğu zaman genel idare konusunun dar dilimidir: Dilekçe hakkı 3071. Bu sayfa (dilekce-hakki-3071) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dilekçe hakkı 3071» sorusu buraya bırakılmıştır.",
+    "lead": "«dilekçe hakkı 3071» — kısa cevap: Dilekçe hakkı 3071. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dilekçe hakkı 3071",
@@ -93819,7 +93781,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Dilekçe hakkı 3071» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dilekçe hakkı 3071» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "idari-basvuru-yolu",
@@ -93850,7 +93812,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/icthat"
       }
     ],
-    "lead": "«idari başvuru yolu» araması çoğu zaman genel idare konusunun dar dilimidir: Ön başvuru. Bu sayfa (idari-basvuru-yolu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/idari-dava-nasil-acilir). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ön başvuru» sorusu buraya bırakılmıştır.",
+    "lead": "«idari başvuru yolu» — kısa cevap: Ön başvuru. Tam süreç ve belgeler ana rehberdedir: /bilgi/idari-dava-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ön başvuru",
@@ -94083,7 +94045,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Ön başvuru» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ön başvuru» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "belediye-imar-para-cezasi",
@@ -94115,7 +94077,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«imar para cezası» araması çoğu zaman genel imar konusunun dar dilimidir: İmar para cezası. Bu sayfa (belediye-imar-para-cezasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İmar para cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«imar para cezası» — kısa cevap: İmar para cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İmar para cezası",
@@ -94348,7 +94310,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İmar para cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İmar para cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "trafik-sigortasi-zorunlu",
@@ -94380,7 +94342,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=trafik%20sigortas%C4%B1"
       }
     ],
-    "lead": "«zorunlu trafik sigortası» araması çoğu zaman genel trafik konusunun dar dilimidir: Zorunlu trafik sigortası. Bu sayfa (trafik-sigortasi-zorunlu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Ceza puanı ve ehliyete el koyma iade şartları ayrı yönetilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Zorunlu trafik sigortası» sorusu buraya bırakılmıştır.",
+    "lead": "«zorunlu trafik sigortası» — kısa cevap: Zorunlu trafik sigortası. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Zorunlu trafik sigortası",
@@ -94613,7 +94575,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Zorunlu trafik sigortası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Zorunlu trafik sigortası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "deger-kaybi-arac",
@@ -94644,7 +94606,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«araç değer kaybı» araması çoğu zaman genel trafik konusunun dar dilimidir: Araç değer kaybı. Bu sayfa (deger-kaybi-arac) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Ceza puanı ve ehliyete el koyma iade şartları ayrı yönetilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Araç değer kaybı» sorusu buraya bırakılmıştır.",
+    "lead": "«araç değer kaybı» — kısa cevap: Araç değer kaybı. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Araç değer kaybı",
@@ -94877,7 +94839,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Araç değer kaybı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Araç değer kaybı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "destekten-yoksun-kalma",
@@ -94908,7 +94870,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ktk"
       }
     ],
-    "lead": "«destekten yoksun kalma» araması çoğu zaman genel trafik konusunun dar dilimidir: Destekten yoksun kalma. Bu sayfa (destekten-yoksun-kalma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Destekten yoksun kalma» sorusu buraya bırakılmıştır.",
+    "lead": "«destekten yoksun kalma» — kısa cevap: Destekten yoksun kalma. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Destekten yoksun kalma",
@@ -95141,7 +95103,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Destekten yoksun kalma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Destekten yoksun kalma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-sgk-borcu",
@@ -95172,7 +95134,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=SGK"
       }
     ],
-    "lead": "«e-devlet sgk borcu» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: e-Devlet SGK borcu. Bu sayfa (e-devlet-sgk-borcu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bagkur-prim-borcu). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. Emeklilik ve borçlanmada prim günü/yaş şartları sigortalılık türüne göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet SGK borcu» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet sgk borcu» — kısa cevap: e-Devlet SGK borcu. Tam süreç ve belgeler ana rehberdedir: /bilgi/bagkur-prim-borcu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet SGK borcu",
@@ -95405,7 +95367,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «e-Devlet SGK borcu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet SGK borcu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "stopaj-nedir",
@@ -95437,7 +95399,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "«stopaj» araması çoğu zaman genel vergi konusunun dar dilimidir: Stopaj. Bu sayfa (stopaj-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kdv-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Tarhiyat, ceza ve ödeme vadeleri tebliğle işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Stopaj» sorusu buraya bırakılmıştır.",
+    "lead": "«stopaj» — kısa cevap: Stopaj. Tam süreç ve belgeler ana rehberdedir: /bilgi/kdv-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Stopaj",
@@ -95670,7 +95632,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Stopaj» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Stopaj» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "muhtasar-beyanname",
@@ -95702,7 +95664,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "«muhtasar beyanname» araması çoğu zaman genel vergi konusunun dar dilimidir: Muhtasar beyanname. Bu sayfa (muhtasar-beyanname) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kdv-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Tarhiyat, ceza ve ödeme vadeleri tebliğle işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Muhtasar beyanname» sorusu buraya bırakılmıştır.",
+    "lead": "«muhtasar beyanname» — kısa cevap: Muhtasar beyanname. Tam süreç ve belgeler ana rehberdedir: /bilgi/kdv-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Muhtasar beyanname",
@@ -95935,7 +95897,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Muhtasar beyanname» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Muhtasar beyanname» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kredi-karti-asgari-odeme",
@@ -95966,7 +95928,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«kredi kartı asgari ödeme» araması çoğu zaman genel tüketici konusunun dar dilimidir: Kredi kartı asgari ödeme. Bu sayfa (kredi-karti-asgari-odeme) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kredi-karti-itiraz). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Mesafeli satışta cayma hakkı kural olarak 14 gündür; istisnalar yönetmelikte sayılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kredi kartı asgari ödeme» sorusu buraya bırakılmıştır.",
+    "lead": "«kredi kartı asgari ödeme» — kısa cevap: Kredi kartı asgari ödeme. Tam süreç ve belgeler ana rehberdedir: /bilgi/kredi-karti-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kredi kartı asgari ödeme",
@@ -96199,7 +96161,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Kredi kartı asgari ödeme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kredi kartı asgari ödeme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "banka-icra-takibi",
@@ -96231,7 +96193,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tkhk"
       }
     ],
-    "lead": "«banka icra takibi» araması çoğu zaman genel icra konusunun dar dilimidir: Banka alacaklı. Bu sayfa (banka-icra-takibi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Banka alacaklı» sorusu buraya bırakılmıştır.",
+    "lead": "«banka icra takibi» — kısa cevap: Banka alacaklı. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Banka alacaklı",
@@ -96464,7 +96426,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Banka alacaklı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Banka alacaklı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kefilden-tahsilat",
@@ -96496,7 +96458,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«kefilden tahsilat» araması çoğu zaman genel borçlar konusunun dar dilimidir: Kefilden tahsilat. Bu sayfa (kefilden-tahsilat) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kefilden tahsilat» sorusu buraya bırakılmıştır.",
+    "lead": "«kefilden tahsilat» — kısa cevap: Kefilden tahsilat. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kefilden tahsilat",
@@ -96729,7 +96691,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Kefilden tahsilat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kefilden tahsilat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-kazasi-sonrasi-haklar",
@@ -96759,7 +96721,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«iş kazası sonrası haklar» araması çoğu zaman genel iş konusunun dar dilimidir: Hak listesi. Bu sayfa (is-kazasi-sonrasi-haklar) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hak listesi» sorusu buraya bırakılmıştır.",
+    "lead": "«iş kazası sonrası haklar» — kısa cevap: Hak listesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hak listesi",
@@ -96992,7 +96954,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Hak listesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hak listesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "meslek-hastaligi-nedir",
@@ -97023,7 +96985,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«meslek hastalığı» araması çoğu zaman genel iş konusunun dar dilimidir: Meslek hastalığı. Bu sayfa (meslek-hastaligi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Meslek hastalığı» sorusu buraya bırakılmıştır.",
+    "lead": "«meslek hastalığı» — kısa cevap: Meslek hastalığı. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Meslek hastalığı",
@@ -97256,7 +97218,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Meslek hastalığı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Meslek hastalığı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-veren-sorumlulugu-kazasi",
@@ -97286,7 +97248,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«işveren iş kazası sorumluluğu» araması çoğu zaman genel iş konusunun dar dilimidir: İşveren sorumluluğu. Bu sayfa (is-veren-sorumlulugu-kazasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşveren sorumluluğu» sorusu buraya bırakılmıştır.",
+    "lead": "«işveren iş kazası sorumluluğu» — kısa cevap: İşveren sorumluluğu. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşveren sorumluluğu",
@@ -97519,7 +97481,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İşveren sorumluluğu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşveren sorumluluğu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "evlilik-iptali-davasi",
@@ -97551,7 +97513,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/nhk"
       }
     ],
-    "lead": "«evliliğin iptali» araması çoğu zaman genel aile konusunun dar dilimidir: Evliliğin iptali. Bu sayfa (evlilik-iptali-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Evliliğin iptali» sorusu buraya bırakılmıştır.",
+    "lead": "«evliliğin iptali» — kısa cevap: Evliliğin iptali. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Evliliğin iptali",
@@ -97784,7 +97746,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Evliliğin iptali» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Evliliğin iptali» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "babalik-davasi",
@@ -97816,7 +97778,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/nhk"
       }
     ],
-    "lead": "«babalık davası» araması çoğu zaman genel aile konusunun dar dilimidir: Babalık davası. Bu sayfa (babalik-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Babalık davası» sorusu buraya bırakılmıştır.",
+    "lead": "«babalık davası» — kısa cevap: Babalık davası. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Babalık davası",
@@ -98049,7 +98011,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Babalık davası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Babalık davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "soyadi-degisikligi-davasi",
@@ -98081,7 +98043,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«soyadı değişikliği davası» araması çoğu zaman genel nüfus konusunun dar dilimidir: Soyadı değişikliği davası. Bu sayfa (soyadi-degisikligi-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Soyadı değişikliği davası» sorusu buraya bırakılmıştır.",
+    "lead": "«soyadı değişikliği davası» — kısa cevap: Soyadı değişikliği davası. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Soyadı değişikliği davası",
@@ -98314,7 +98276,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Soyadı değişikliği davası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Soyadı değişikliği davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "isim-degisikligi-davasi",
@@ -98346,7 +98308,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«isim değişikliği davası» araması çoğu zaman genel nüfus konusunun dar dilimidir: İsim değişikliği davası. Bu sayfa (isim-degisikligi-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/e-devlet-nufus). Mevzuat çerçevesi sıklıkla Nüfus Hizmetleri Kanunu ve Türk Vatandaşlığı Kanunu (ilgiliyse) çevresindedir. Adres beyanı ve kimlik yenilemede randevu/süre kuralları kurum duyurusuna bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İsim değişikliği davası» sorusu buraya bırakılmıştır.",
+    "lead": "«isim değişikliği davası» — kısa cevap: İsim değişikliği davası. Tam süreç ve belgeler ana rehberdedir: /bilgi/e-devlet-nufus. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İsim değişikliği davası",
@@ -98579,7 +98541,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İsim değişikliği davası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İsim değişikliği davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gorevsizlik-karari",
@@ -98609,7 +98571,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=g%C3%B6rev"
       }
     ],
-    "lead": "«görevsizlik kararı» araması çoğu zaman genel usul konusunun dar dilimidir: Görevsizlik. Bu sayfa (gorevsizlik-karari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/hukuk-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Görevsizlik» sorusu buraya bırakılmıştır.",
+    "lead": "«görevsizlik kararı» — kısa cevap: Görevsizlik. Tam süreç ve belgeler ana rehberdedir: /bilgi/hukuk-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Görevsizlik",
@@ -98842,7 +98804,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Görevsizlik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Görevsizlik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yetkisizlik-karari",
@@ -98872,7 +98834,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=yetki"
       }
     ],
-    "lead": "«yetkisizlik kararı» araması çoğu zaman genel usul konusunun dar dilimidir: Yetkisizlik. Bu sayfa (yetkisizlik-karari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/hukuk-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yetkisizlik» sorusu buraya bırakılmıştır.",
+    "lead": "«yetkisizlik kararı» — kısa cevap: Yetkisizlik. Tam süreç ve belgeler ana rehberdedir: /bilgi/hukuk-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yetkisizlik",
@@ -99105,7 +99067,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Yetkisizlik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yetkisizlik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kesif-nedir",
@@ -99137,7 +99099,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ke%C5%9Fif"
       }
     ],
-    "lead": "«keşif» araması çoğu zaman genel usul konusunun dar dilimidir: Keşif. Bu sayfa (kesif-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Keşif» sorusu buraya bırakılmıştır.",
+    "lead": "«keşif» — kısa cevap: Keşif. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Keşif",
@@ -99370,7 +99332,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Keşif» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Keşif» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yemin-delili",
@@ -99402,7 +99364,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=yemin"
       }
     ],
-    "lead": "«yemin delili» araması çoğu zaman genel usul konusunun dar dilimidir: Yemin delili. Bu sayfa (yemin-delili) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yemin delili» sorusu buraya bırakılmıştır.",
+    "lead": "«yemin delili» — kısa cevap: Yemin delili. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yemin delili",
@@ -99635,7 +99597,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Yemin delili» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yemin delili» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "istinaf-dilekcesi",
@@ -99666,7 +99628,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=istinaf"
       }
     ],
-    "lead": "«istinaf dilekçesi» araması çoğu zaman genel usul konusunun dar dilimidir: Dilekçe. Bu sayfa (istinaf-dilekcesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/istinaf-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dilekçe» sorusu buraya bırakılmıştır.",
+    "lead": "«istinaf dilekçesi» — kısa cevap: Dilekçe. Tam süreç ve belgeler ana rehberdedir: /bilgi/istinaf-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dilekçe",
@@ -99899,7 +99861,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Dilekçe» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dilekçe» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "temyiz-siniri",
@@ -99930,7 +99892,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/icthat"
       }
     ],
-    "lead": "«temyiz sınırı» araması çoğu zaman genel usul konusunun dar dilimidir: Parasal sınır. Bu sayfa (temyiz-siniri) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/istinaf-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Parasal sınır» sorusu buraya bırakılmıştır.",
+    "lead": "«temyiz sınırı» — kısa cevap: Parasal sınır. Tam süreç ve belgeler ana rehberdedir: /bilgi/istinaf-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Parasal sınır",
@@ -100163,7 +100125,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Parasal sınır» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Parasal sınır» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-ceza-sorgulama",
@@ -100195,7 +100157,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«e-devlet ceza sorgulama» araması çoğu zaman genel ceza konusunun dar dilimidir: e-Devlet ceza sorgulama. Bu sayfa (e-devlet-ceza-sorgulama) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tutuklama-nedir). Mevzuat çerçevesi sıklıkla TCK (5237) ve CMK (5271) çevresindedir. Uzlaştırma kapsamındaki dosyalarda süreç farklı işler. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet ceza sorgulama» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet ceza sorgulama» — kısa cevap: e-Devlet ceza sorgulama. Tam süreç ve belgeler ana rehberdedir: /bilgi/tutuklama-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet ceza sorgulama",
@@ -100428,7 +100390,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «e-Devlet ceza sorgulama» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet ceza sorgulama» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-dava-dosyasi",
@@ -100460,7 +100422,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=UYAP"
       }
     ],
-    "lead": "«e-devlet dava dosyası» araması çoğu zaman genel usul konusunun dar dilimidir: e-Devlet dava dosyası. Bu sayfa (e-devlet-dava-dosyasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/noter-islemleri). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet dava dosyası» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet dava dosyası» — kısa cevap: e-Devlet dava dosyası. Tam süreç ve belgeler ana rehberdedir: /bilgi/noter-islemleri. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet dava dosyası",
@@ -100693,7 +100655,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «e-Devlet dava dosyası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet dava dosyası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-miras",
@@ -100724,7 +100686,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/miras"
       }
     ],
-    "lead": "«e-devlet miras» araması çoğu zaman genel miras konusunun dar dilimidir: e-Devlet miras menüsü. Bu sayfa (e-devlet-miras) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/veraset-ilami-nasil-alinir). Mevzuat çerçevesi sıklıkla TMK miras hükümleri ve Veraset ve İntikal Vergisi Kanunu çevresindedir. Veraset ilamı e-Devlet/noter/mahkeme yollarından biriyle alınabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet miras menüsü» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet miras» — kısa cevap: e-Devlet miras menüsü. Tam süreç ve belgeler ana rehberdedir: /bilgi/veraset-ilami-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet miras menüsü",
@@ -100957,7 +100919,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «e-Devlet miras menüsü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet miras menüsü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-tapu",
@@ -100987,7 +100949,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=tapu"
       }
     ],
-    "lead": "«e-devlet tapu sorgulama» araması çoğu zaman genel eşya konusunun dar dilimidir: e-Devlet. Bu sayfa (e-devlet-tapu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet tapu sorgulama» — kısa cevap: e-Devlet. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet",
@@ -101220,7 +101182,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «e-Devlet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-sgk-hizmet",
@@ -101251,7 +101213,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=hizmet%20d%C3%B6k%C3%BCm%C3%BC"
       }
     ],
-    "lead": "«e-devlet SGK hizmet dökümü» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: e-Devlet adım. Bu sayfa (e-devlet-sgk-hizmet) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. Rapor parası ve maluliyet süreçleri sağlık kurulu + SGK incelemesine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet adım» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet SGK hizmet dökümü» — kısa cevap: e-Devlet adım. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet adım",
@@ -101484,7 +101446,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «e-Devlet adım» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet adım» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "konut-kirasi-artis-siniri",
@@ -101515,7 +101477,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«konut kira artış sınırı» araması çoğu zaman genel kira konusunun dar dilimidir: Konut yasal artış tavanı (dönemsel). Bu sayfa (konut-kirasi-artis-siniri) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Konut yasal artış tavanı (dönemsel)» sorusu buraya bırakılmıştır.",
+    "lead": "«konut kira artış sınırı» — kısa cevap: Konut yasal artış tavanı (dönemsel). Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Konut yasal artış tavanı (dönemsel)",
@@ -101748,7 +101710,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Konut yasal artış tavanı (dönemsel)» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Konut yasal artış tavanı (dönemsel)» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "isyeri-kirasi-artis",
@@ -101779,7 +101741,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kira"
       }
     ],
-    "lead": "«işyeri kira artışı» araması çoğu zaman genel kira konusunun dar dilimidir: İşyeri kira artışı serbestisi / tespit. Bu sayfa (isyeri-kirasi-artis) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşyeri kira artışı serbestisi / tespit» sorusu buraya bırakılmıştır.",
+    "lead": "«işyeri kira artışı» — kısa cevap: İşyeri kira artışı serbestisi / tespit. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşyeri kira artışı serbestisi / tespit",
@@ -102012,7 +101974,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İşyeri kira artışı serbestisi / tespit» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşyeri kira artışı serbestisi / tespit» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-sozlesmesi-bitisi",
@@ -102044,7 +102006,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=kira"
       }
     ],
-    "lead": "«kira sözleşmesi bitişi» araması çoğu zaman genel kira konusunun dar dilimidir: Süre sonu yenileme. Bu sayfa (kira-sozlesmesi-bitisi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Süre sonu yenileme» sorusu buraya bırakılmıştır.",
+    "lead": "«kira sözleşmesi bitişi» — kısa cevap: Süre sonu yenileme. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Süre sonu yenileme",
@@ -102277,7 +102239,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Süre sonu yenileme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Süre sonu yenileme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tbk-madde-125",
@@ -102476,7 +102438,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "tbk-madde-49",
@@ -102672,7 +102634,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "tbk-madde-112",
@@ -102868,7 +102830,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "tmk-madde-166",
@@ -103064,7 +103026,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "tmk-madde-499",
@@ -103255,7 +103217,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "tck-madde-86",
@@ -103451,7 +103413,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "tck-madde-106",
@@ -103647,7 +103609,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "tck-madde-125",
@@ -103843,7 +103805,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "hmk-madde-119",
@@ -104039,7 +104001,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "shield",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "hmk-madde-389",
@@ -104235,7 +104197,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "clock",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "iik-madde-62",
@@ -104431,7 +104393,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "process",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "is-kanunu-madde-17",
@@ -104627,7 +104589,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "is-kanunu-madde-25",
@@ -104823,7 +104785,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "fork",
-    "keyInsight": "Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır."
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
   },
   {
     "slug": "manevi-tazminat-nedir",
@@ -104855,7 +104817,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«manevi tazminat» araması çoğu zaman genel borçlar konusunun dar dilimidir: Manevi tazminat. Bu sayfa (manevi-tazminat-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Manevi tazminat» sorusu buraya bırakılmıştır.",
+    "lead": "«manevi tazminat» — kısa cevap: Manevi tazminat. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Manevi tazminat",
@@ -105088,7 +105050,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Manevi tazminat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Manevi tazminat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "maddi-tazminat-nedir",
@@ -105120,7 +105082,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«maddi tazminat» araması çoğu zaman genel borçlar konusunun dar dilimidir: Maddi tazminat. Bu sayfa (maddi-tazminat-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Maddi tazminat» sorusu buraya bırakılmıştır.",
+    "lead": "«maddi tazminat» — kısa cevap: Maddi tazminat. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Maddi tazminat",
@@ -105353,7 +105315,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Maddi tazminat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Maddi tazminat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kusursuz-sorumluluk",
@@ -105385,7 +105347,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=sorumluluk"
       }
     ],
-    "lead": "«kusursuz sorumluluk» araması çoğu zaman genel borçlar konusunun dar dilimidir: Kusursuz sorumluluk. Bu sayfa (kusursuz-sorumluluk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kusursuz sorumluluk» sorusu buraya bırakılmıştır.",
+    "lead": "«kusursuz sorumluluk» — kısa cevap: Kusursuz sorumluluk. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kusursuz sorumluluk",
@@ -105618,7 +105580,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Kusursuz sorumluluk» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kusursuz sorumluluk» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "rucu-davasi-nedir",
@@ -105650,7 +105612,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«rücu davası» araması çoğu zaman genel borçlar konusunun dar dilimidir: Rücu davası. Bu sayfa (rucu-davasi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Rücu davası» sorusu buraya bırakılmıştır.",
+    "lead": "«rücu davası» — kısa cevap: Rücu davası. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Rücu davası",
@@ -105883,7 +105845,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Rücu davası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Rücu davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ticari-defterler",
@@ -105914,7 +105876,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=defter"
       }
     ],
-    "lead": "«ticari defterler» araması çoğu zaman genel ticaret konusunun dar dilimidir: Ticari defterler. Bu sayfa (ticari-defterler) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Fatura itirazında TTK süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ticari defterler» sorusu buraya bırakılmıştır.",
+    "lead": "«ticari defterler» — kısa cevap: Ticari defterler. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ticari defterler",
@@ -106147,7 +106109,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Ticari defterler» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ticari defterler» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "unvan-tescili",
@@ -106178,7 +106140,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«ticaret unvanı tescili» araması çoğu zaman genel ticaret konusunun dar dilimidir: Ticaret unvanı tescili. Bu sayfa (unvan-tescili) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ticaret unvanı tescili» sorusu buraya bırakılmıştır.",
+    "lead": "«ticaret unvanı tescili» — kısa cevap: Ticaret unvanı tescili. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ticaret unvanı tescili",
@@ -106411,7 +106373,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Ticaret unvanı tescili» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ticaret unvanı tescili» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "aciz-vesikasi",
@@ -106442,7 +106404,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=aciz"
       }
     ],
-    "lead": "«aciz vesikası» araması çoğu zaman genel icra konusunun dar dilimidir: Aciz. Bu sayfa (aciz-vesikasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Aciz» sorusu buraya bırakılmıştır.",
+    "lead": "«aciz vesikası» — kısa cevap: Aciz. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Aciz",
@@ -106675,7 +106637,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Aciz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Aciz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "turist-ikamet-izni",
@@ -106706,7 +106668,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ikamet"
       }
     ],
-    "lead": "«turistik ikamet izni» araması çoğu zaman genel yabancılar konusunun dar dilimidir: Turistik ikamet izni. Bu sayfa (turist-ikamet-izni) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/yabanci-ikamet-izni). Mevzuat çerçevesi sıklıkla YUKK (6458) ve çalışma izni mevzuatı çevresindedir. İkamet ve çalışma izni uzatma başvuruları süre bitiminden önce yapılmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Turistik ikamet izni» sorusu buraya bırakılmıştır.",
+    "lead": "«turistik ikamet izni» — kısa cevap: Turistik ikamet izni. Tam süreç ve belgeler ana rehberdedir: /bilgi/yabanci-ikamet-izni. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Turistik ikamet izni",
@@ -106939,7 +106901,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Turistik ikamet izni» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Turistik ikamet izni» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "calisma-izni-muafiyeti",
@@ -106970,7 +106932,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«çalışma izni muafiyeti» araması çoğu zaman genel yabancılar konusunun dar dilimidir: Çalışma izni muafiyeti. Bu sayfa (calisma-izni-muafiyeti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/yabanci-ikamet-izni). Mevzuat çerçevesi sıklıkla YUKK (6458) ve çalışma izni mevzuatı çevresindedir. Sınır dışı ve idari gözetimde itiraz süreleri çok kısadır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çalışma izni muafiyeti» sorusu buraya bırakılmıştır.",
+    "lead": "«çalışma izni muafiyeti» — kısa cevap: Çalışma izni muafiyeti. Tam süreç ve belgeler ana rehberdedir: /bilgi/yabanci-ikamet-izni. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çalışma izni muafiyeti",
@@ -107203,7 +107165,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Çalışma izni muafiyeti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çalışma izni muafiyeti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iskan-olmadan-oturma",
@@ -107234,7 +107196,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/katmulkiyeti"
       }
     ],
-    "lead": "«iskansız daire» araması çoğu zaman genel imar konusunun dar dilimidir: İskansız risk. Bu sayfa (iskan-olmadan-oturma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/iskan-belgesi-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İskansız risk» sorusu buraya bırakılmıştır.",
+    "lead": "«iskansız daire» — kısa cevap: İskansız risk. Tam süreç ve belgeler ana rehberdedir: /bilgi/iskan-belgesi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İskansız risk",
@@ -107467,7 +107429,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İskansız risk» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İskansız risk» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yapı-denetim-nedir",
@@ -107497,7 +107459,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«yapı denetim» araması çoğu zaman genel imar konusunun dar dilimidir: Denetim. Bu sayfa (yapı-denetim-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/iskan-belgesi-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Denetim» sorusu buraya bırakılmıştır.",
+    "lead": "«yapı denetim» — kısa cevap: Denetim. Tam süreç ve belgeler ana rehberdedir: /bilgi/iskan-belgesi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Denetim",
@@ -107730,7 +107692,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Denetim» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Denetim» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "imar-affi-nedir",
@@ -107762,7 +107724,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=imar"
       }
     ],
-    "lead": "«imar affı» araması çoğu zaman genel imar konusunun dar dilimidir: İmar affı. Bu sayfa (imar-affi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İmar affı» sorusu buraya bırakılmıştır.",
+    "lead": "«imar affı» — kısa cevap: İmar affı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İmar affı",
@@ -107995,7 +107957,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İmar affı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İmar affı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "veri-ihlali-bildirimi",
@@ -108026,7 +107988,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ihlal"
       }
     ],
-    "lead": "«veri ihlali bildirimi» araması çoğu zaman genel kişisel veri konusunun dar dilimidir: İhlal. Bu sayfa (veri-ihlali-bildirimi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kvkk-basvuru-hakki). Mevzuat çerçevesi sıklıkla 6698 sayılı KVKK ve TCK kişisel veri suçları çevresindedir. Veri sorumlusuna başvuruda cevap için kanuni süre vardır; cevapsızlıkta Kurula şikâyet yolu açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İhlal» sorusu buraya bırakılmıştır.",
+    "lead": "«veri ihlali bildirimi» — kısa cevap: İhlal. Tam süreç ve belgeler ana rehberdedir: /bilgi/kvkk-basvuru-hakki. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İhlal",
@@ -108259,7 +108221,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İhlal» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İhlal» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cerez-aydinlatma",
@@ -108290,7 +108252,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%A7erez"
       }
     ],
-    "lead": "«çerez aydınlatması» araması çoğu zaman genel kişisel veri konusunun dar dilimidir: Çerez. Bu sayfa (cerez-aydinlatma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kvkk-basvuru-hakki). Mevzuat çerçevesi sıklıkla 6698 sayılı KVKK ve TCK kişisel veri suçları çevresindedir. Veri sorumlusuna başvuruda cevap için kanuni süre vardır; cevapsızlıkta Kurula şikâyet yolu açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çerez» sorusu buraya bırakılmıştır.",
+    "lead": "«çerez aydınlatması» — kısa cevap: Çerez. Tam süreç ve belgeler ana rehberdedir: /bilgi/kvkk-basvuru-hakki. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çerez",
@@ -108523,7 +108485,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Çerez» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çerez» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-arabuluculuk-zorunlu",
@@ -108554,7 +108516,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«iş arabuluculuk zorunlu» araması çoğu zaman genel iş konusunun dar dilimidir: İş davaları. Bu sayfa (is-arabuluculuk-zorunlu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İş davaları» sorusu buraya bırakılmıştır.",
+    "lead": "«iş arabuluculuk zorunlu» — kısa cevap: İş davaları. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İş davaları",
@@ -108787,7 +108749,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «İş davaları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İş davaları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ticari-arabuluculuk",
@@ -108818,7 +108780,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ticari-isletme"
       }
     ],
-    "lead": "«ticari arabuluculuk» araması çoğu zaman genel ticaret konusunun dar dilimidir: Ticari dava. Bu sayfa (ticari-arabuluculuk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ticari dava» sorusu buraya bırakılmıştır.",
+    "lead": "«ticari arabuluculuk» — kısa cevap: Ticari dava. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ticari dava",
@@ -109051,7 +109013,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Ticari dava» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ticari dava» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tuketici-arabuluculuk",
@@ -109081,7 +109043,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "«tüketici arabuluculuk» araması çoğu zaman genel tüketici konusunun dar dilimidir: Tüketici. Bu sayfa (tuketici-arabuluculuk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tüketici» sorusu buraya bırakılmıştır.",
+    "lead": "«tüketici arabuluculuk» — kısa cevap: Tüketici. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tüketici",
@@ -109314,7 +109276,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Tüketici» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tüketici» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "nafaka-artirim-davasi",
@@ -109345,7 +109307,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«nafaka artırım davası» araması çoğu zaman genel aile konusunun dar dilimidir: Genel nafaka artırım usulü (yoksulluk/iştirak ortak). Bu sayfa (nafaka-artirim-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Velayet ve nafaka kararları çocuk yararına her zaman yeniden görülebilir; artırım-indirme davası açılabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Genel nafaka artırım usulü (yoksulluk/iştirak ortak)» sorusu buraya bırakılmıştır.",
+    "lead": "«nafaka artırım davası» — kısa cevap: Genel nafaka artırım usulü (yoksulluk/iştirak ortak). Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Genel nafaka artırım usulü (yoksulluk/iştirak ortak)",
@@ -109578,7 +109540,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Genel nafaka artırım usulü (yoksulluk/iştirak ortak)» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Genel nafaka artırım usulü (yoksulluk/iştirak ortak)» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "nafaka-indirim-davasi",
@@ -109610,7 +109572,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«nafaka indirim davası» araması çoğu zaman genel aile konusunun dar dilimidir: İndirim veya kaldırma. Bu sayfa (nafaka-indirim-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İndirim veya kaldırma» sorusu buraya bırakılmıştır.",
+    "lead": "«nafaka indirim davası» — kısa cevap: İndirim veya kaldırma. Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İndirim veya kaldırma",
@@ -109843,7 +109805,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İndirim veya kaldırma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İndirim veya kaldırma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "islex-nafaka-nedir",
@@ -109875,7 +109837,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«iştirak nafakası hesaplama» araması çoğu zaman genel aile konusunun dar dilimidir: İştirak nafakası kabaca hesap yaklaşımı. Bu sayfa (islex-nafaka-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. 6284 koruma talepleri acil niteliktedir; gecikme mağdur güvenliğini riske atar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İştirak nafakası kabaca hesap yaklaşımı» sorusu buraya bırakılmıştır.",
+    "lead": "«iştirak nafakası hesaplama» — kısa cevap: İştirak nafakası kabaca hesap yaklaşımı. Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İştirak nafakası kabaca hesap yaklaşımı",
@@ -110108,7 +110070,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İştirak nafakası kabaca hesap yaklaşımı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İştirak nafakası kabaca hesap yaklaşımı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bosanma-maaliyeti",
@@ -110139,7 +110101,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/tarife-guncellemeleri"
       }
     ],
-    "lead": "«boşanma davası ne kadar tutar» araması çoğu zaman genel aile konusunun dar dilimidir: Masraf. Bu sayfa (bosanma-maaliyeti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bosanma-davasi-nasil-acilir). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Masraf» sorusu buraya bırakılmıştır.",
+    "lead": "«boşanma davası ne kadar tutar» — kısa cevap: Masraf. Tam süreç ve belgeler ana rehberdedir: /bilgi/bosanma-davasi-nasil-acilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Masraf",
@@ -110372,7 +110334,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Masraf» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Masraf» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "avukat-tutmak-zorunlu-mu",
@@ -110404,7 +110366,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«avukat tutmak zorunlu mu» araması çoğu zaman genel usul konusunun dar dilimidir: Avukat tutmak zorunlu mu. Bu sayfa (avukat-tutmak-zorunlu-mu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Avukat tutmak zorunlu mu» sorusu buraya bırakılmıştır.",
+    "lead": "«avukat tutmak zorunlu mu» — kısa cevap: Avukat tutmak zorunlu mu. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Avukat tutmak zorunlu mu",
@@ -110637,7 +110599,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Avukat tutmak zorunlu mu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Avukat tutmak zorunlu mu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "adli-yardim-nedir",
@@ -110669,7 +110631,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=adli%20yard%C4%B1m"
       }
     ],
-    "lead": "«adli yardım» araması çoğu zaman genel usul konusunun dar dilimidir: Adli yardım. Bu sayfa (adli-yardim-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Adli yardım» sorusu buraya bırakılmıştır.",
+    "lead": "«adli yardım» — kısa cevap: Adli yardım. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Adli yardım",
@@ -110902,7 +110864,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Adli yardım» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Adli yardım» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arabuluculuk-anlasma-icra",
@@ -110932,7 +110894,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«arabuluculuk anlaşması icra» araması çoğu zaman genel usul konusunun dar dilimidir: İcra. Bu sayfa (arabuluculuk-anlasma-icra) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/arabuluculuk-nasil-yapilir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İcra» sorusu buraya bırakılmıştır.",
+    "lead": "«arabuluculuk anlaşması icra» — kısa cevap: İcra. Tam süreç ve belgeler ana rehberdedir: /bilgi/arabuluculuk-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İcra",
@@ -111165,7 +111127,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «İcra» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İcra» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-dosyasi-kapatma",
@@ -111197,7 +111159,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/faiz"
       }
     ],
-    "lead": "«icra dosyası kapatma» araması çoğu zaman genel icra konusunun dar dilimidir: Dosya kapanışı. Bu sayfa (icra-dosyasi-kapatma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dosya kapanışı» sorusu buraya bırakılmıştır.",
+    "lead": "«icra dosyası kapatma» — kısa cevap: Dosya kapanışı. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dosya kapanışı",
@@ -111430,7 +111392,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Dosya kapanışı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dosya kapanışı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-haciz-nedir",
@@ -111462,7 +111424,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«e-haciz nedir» araması çoğu zaman genel vergi konusunun dar dilimidir: Vergi e-haciz. Bu sayfa (e-haciz-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla VUK ve GVK çevresindedir. Yapılandırma dönemleri kanunla açılır; başvuru penceresi sınırlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vergi e-haciz» sorusu buraya bırakılmıştır.",
+    "lead": "«e-haciz nedir» — kısa cevap: Vergi e-haciz. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vergi e-haciz",
@@ -111695,7 +111657,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Vergi e-haciz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vergi e-haciz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sgk-tesvik-nedir",
@@ -111727,7 +111689,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=te%C5%9Fvik"
       }
     ],
-    "lead": "«sgk teşvikleri» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: SGK teşvikleri. Bu sayfa (sgk-tesvik-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bagkur-prim-borcu). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «SGK teşvikleri» sorusu buraya bırakılmıştır.",
+    "lead": "«sgk teşvikleri» — kısa cevap: SGK teşvikleri. Tam süreç ve belgeler ana rehberdedir: /bilgi/bagkur-prim-borcu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: SGK teşvikleri",
@@ -111960,7 +111922,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «SGK teşvikleri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «SGK teşvikleri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "issizlik-sigortasi-nedir",
@@ -111991,7 +111953,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=i%C5%9Fsizlik"
       }
     ],
-    "lead": "«işsizlik sigortası» araması çoğu zaman genel iş konusunun dar dilimidir: Sigorta. Bu sayfa (issizlik-sigortasi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/issizlik-maasi-sartlari). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sigorta» sorusu buraya bırakılmıştır.",
+    "lead": "«işsizlik sigortası» — kısa cevap: Sigorta. Tam süreç ve belgeler ana rehberdedir: /bilgi/issizlik-maasi-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sigorta",
@@ -112224,7 +112186,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Sigorta» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sigorta» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kidem-tazminati-sgk-iliskisi",
@@ -112256,7 +112218,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«kıdem tazminatı SGK» araması çoğu zaman genel iş konusunun dar dilimidir: SGK bildirimi, vergi/damga ve prim ilişkisi. Bu sayfa (kidem-tazminati-sgk-iliskisi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «SGK bildirimi, vergi/damga ve prim ilişkisi» sorusu buraya bırakılmıştır.",
+    "lead": "«kıdem tazminatı SGK» — kısa cevap: SGK bildirimi, vergi/damga ve prim ilişkisi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: SGK bildirimi, vergi/damga ve prim ilişkisi",
@@ -112489,7 +112451,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «SGK bildirimi, vergi/damga ve prim ilişkisi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «SGK bildirimi, vergi/damga ve prim ilişkisi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "fesih-bildirimi-ornegi",
@@ -112520,7 +112482,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tebligat"
       }
     ],
-    "lead": "«fesih bildirimi» araması çoğu zaman genel iş konusunun dar dilimidir: Bildirim. Bu sayfa (fesih-bildirimi-ornegi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bildirim» sorusu buraya bırakılmıştır.",
+    "lead": "«fesih bildirimi» — kısa cevap: Bildirim. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bildirim",
@@ -112753,7 +112715,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Bildirim» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bildirim» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "toplu-isten-cikarma",
@@ -112784,7 +112746,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=toplu"
       }
     ],
-    "lead": "«toplu işten çıkarma» araması çoğu zaman genel iş konusunun dar dilimidir: Toplu çıkış. Bu sayfa (toplu-isten-cikarma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Toplu çıkış» sorusu buraya bırakılmıştır.",
+    "lead": "«toplu işten çıkarma» — kısa cevap: Toplu çıkış. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Toplu çıkış",
@@ -113017,7 +112979,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Toplu çıkış» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Toplu çıkış» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "uzaktan-calisma-yonetmelik",
@@ -113049,7 +113011,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/isg"
       }
     ],
-    "lead": "«uzaktan çalışma» araması çoğu zaman genel iş konusunun dar dilimidir: Uzaktan çalışma. Bu sayfa (uzaktan-calisma-yonetmelik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Uzaktan çalışma» sorusu buraya bırakılmıştır.",
+    "lead": "«uzaktan çalışma» — kısa cevap: Uzaktan çalışma. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Uzaktan çalışma",
@@ -113282,7 +113244,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Uzaktan çalışma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Uzaktan çalışma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "stajyer-haklari",
@@ -113314,7 +113276,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«stajyer hakları» araması çoğu zaman genel iş konusunun dar dilimidir: Stajyer hakları. Bu sayfa (stajyer-haklari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Stajyer hakları» sorusu buraya bırakılmıştır.",
+    "lead": "«stajyer hakları» — kısa cevap: Stajyer hakları. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Stajyer hakları",
@@ -113547,7 +113509,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Stajyer hakları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Stajyer hakları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cagri-uzerine-calisma",
@@ -113579,7 +113541,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%A7a%C4%9Fr%C4%B1"
       }
     ],
-    "lead": "«çağrı üzerine çalışma» araması çoğu zaman genel iş konusunun dar dilimidir: Çağrı üzerine çalışma. Bu sayfa (cagri-uzerine-calisma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çağrı üzerine çalışma» sorusu buraya bırakılmıştır.",
+    "lead": "«çağrı üzerine çalışma» — kısa cevap: Çağrı üzerine çalışma. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çağrı üzerine çalışma",
@@ -113812,7 +113774,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Çağrı üzerine çalışma» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çağrı üzerine çalışma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gecerli-fesih-nedir",
@@ -113843,7 +113805,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "«geçerli fesih» araması çoğu zaman genel iş konusunun dar dilimidir: Geçerli fesih. Bu sayfa (gecerli-fesih-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-sozlesmesi-feshi). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Geçerli fesih» sorusu buraya bırakılmıştır.",
+    "lead": "«geçerli fesih» — kısa cevap: Geçerli fesih. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-sozlesmesi-feshi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Geçerli fesih",
@@ -114076,7 +114038,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Geçerli fesih» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Geçerli fesih» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-aramaya-izin",
@@ -114108,7 +114070,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=i%C5%9F%20arama"
       }
     ],
-    "lead": "«iş arama izni» araması çoğu zaman genel iş konusunun dar dilimidir: İş arama izni. Bu sayfa (is-aramaya-izin) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İş arama izni» sorusu buraya bırakılmıştır.",
+    "lead": "«iş arama izni» — kısa cevap: İş arama izni. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İş arama izni",
@@ -114341,7 +114303,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İş arama izni» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İş arama izni» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "calisma-belgesi",
@@ -114373,7 +114335,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%A7al%C4%B1%C5%9Fma%20belgesi"
       }
     ],
-    "lead": "«çalışma belgesi» araması çoğu zaman genel iş konusunun dar dilimidir: Çalışma belgesi. Bu sayfa (calisma-belgesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çalışma belgesi» sorusu buraya bırakılmıştır.",
+    "lead": "«çalışma belgesi» — kısa cevap: Çalışma belgesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çalışma belgesi",
@@ -114606,7 +114568,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Çalışma belgesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çalışma belgesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ibraname-nedir",
@@ -114639,7 +114601,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "İbraname imzalamak riskli midir; iş alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir. İlgili çerçeve sıklıkla 4857 sayılı İş Kanunu, 6356 sayılı Sendikalar Kanunu, 7036 sayılı İş Mahkemeleri Kanunu, SSGSSK hükümleriyle çizilir; başvuru mercileri arasında İŞKUR, Çalışma ve Sosyal Güvenlik ve iş mahkemesi öne çıkar. Aşağıda «ibraname nedir» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "İbraname imzalamak riskli midir: iş alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«ibraname nedir» ne demektir? Kavram ve kapsam",
@@ -114673,19 +114635,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın. (2) Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin. (3) Zorunluysa arabuluculuğa başvurun; tutanağı saklayın. (4) Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin. (5) İlam sonrası icra veya ödeme planını takip edin.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «ibraname nedir» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
-          "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
-          "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
-          "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
-          "İlam sonrası icra veya ödeme planını takip edin."
+          "1. Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+          "2. Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
+          "3. Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
+          "4. Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
+          "5. İlam sonrası icra veya ödeme planını takip edin."
         ]
       },
       {
@@ -114912,7 +114873,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "scale",
-    "keyInsight": "«ibraname nedir» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "iscilik-alacaklari-davasi",
@@ -114943,7 +114904,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/arabuluculuk"
       }
     ],
-    "lead": "«işçilik alacakları davası» araması çoğu zaman genel iş konusunun dar dilimidir: Dava yolu ve arabuluculuk odaklı işçilik alacağı. Bu sayfa (iscilik-alacaklari-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dava yolu ve arabuluculuk odaklı işçilik alacağı» sorusu buraya bırakılmıştır.",
+    "lead": "«işçilik alacakları davası» — kısa cevap: Dava yolu ve arabuluculuk odaklı işçilik alacağı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dava yolu ve arabuluculuk odaklı işçilik alacağı",
@@ -115176,7 +115137,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Dava yolu ve arabuluculuk odaklı işçilik alacağı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dava yolu ve arabuluculuk odaklı işçilik alacağı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ucret-haczi-nafaka",
@@ -115208,7 +115169,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«nafaka maaş haczi» araması çoğu zaman genel icra konusunun dar dilimidir: Maaş haczi ile nafaka çakışması. Bu sayfa (ucret-haczi-nafaka) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Maaş haczi ile nafaka çakışması» sorusu buraya bırakılmıştır.",
+    "lead": "«nafaka maaş haczi» — kısa cevap: Maaş haczi ile nafaka çakışması. Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Maaş haczi ile nafaka çakışması",
@@ -115441,7 +115402,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Maaş haczi ile nafaka çakışması» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Maaş haczi ile nafaka çakışması» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cocuk-teslimi-iade",
@@ -115471,7 +115432,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«çocuk teslimi direnme» araması çoğu zaman genel aile konusunun dar dilimidir: Direnme. Bu sayfa (cocuk-teslimi-iade) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/velayet-davasi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Direnme» sorusu buraya bırakılmıştır.",
+    "lead": "«çocuk teslimi direnme» — kısa cevap: Direnme. Tam süreç ve belgeler ana rehberdedir: /bilgi/velayet-davasi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Direnme",
@@ -115704,7 +115665,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Direnme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Direnme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "aile-mahkamesi-nedir",
@@ -115736,7 +115697,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«aile mahkemesi» araması çoğu zaman genel aile konusunun dar dilimidir: Aile mahkemesi. Bu sayfa (aile-mahkamesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/mal-rejimi-tasfiyesi). Mevzuat çerçevesi sıklıkla TMK (4721) ve 6284 sayılı Kanun çevresindedir. Anlaşmalı boşanmada duruşma takvimi mahkemeye göre değişir; protokol eksiksiz olmalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Aile mahkemesi» sorusu buraya bırakılmıştır.",
+    "lead": "«aile mahkemesi» — kısa cevap: Aile mahkemesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/mal-rejimi-tasfiyesi. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Aile mahkemesi",
@@ -115969,7 +115930,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Aile mahkemesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Aile mahkemesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-mahkemesi-nedir",
@@ -116001,7 +115962,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«iş mahkemesi» araması çoğu zaman genel iş konusunun dar dilimidir: İş mahkemesi. Bu sayfa (is-mahkemesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İş mahkemesi» sorusu buraya bırakılmıştır.",
+    "lead": "«iş mahkemesi» — kısa cevap: İş mahkemesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İş mahkemesi",
@@ -116234,7 +116195,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İş mahkemesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İş mahkemesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tuketici-hakem-parasal-sinir",
@@ -116265,7 +116226,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=t%C3%BCketici"
       }
     ],
-    "lead": "«tüketici hakem heyeti parasal sınır» araması çoğu zaman genel tüketici konusunun dar dilimidir: Parasal sınır. Bu sayfa (tuketici-hakem-parasal-sinir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Parasal sınır» sorusu buraya bırakılmıştır.",
+    "lead": "«tüketici hakem heyeti parasal sınır» — kısa cevap: Parasal sınır. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Parasal sınır",
@@ -116498,7 +116459,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Parasal sınır» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Parasal sınır» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-devlet-tuketici",
@@ -116529,7 +116490,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=t%C3%BCketici"
       }
     ],
-    "lead": "«e-devlet tüketici» araması çoğu zaman genel tüketici konusunun dar dilimidir: e-Devlet başvuru. Bu sayfa (e-devlet-tuketici) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tuketici-hakem-heyeti). Mevzuat çerçevesi sıklıkla 6502 sayılı TKHK ve mesafeli sözleşmeler mevzuatı çevresindedir. Ayıp ihbarında TBK/TKHK süre ayrımına dikkat edilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «e-Devlet başvuru» sorusu buraya bırakılmıştır.",
+    "lead": "«e-devlet tüketici» — kısa cevap: e-Devlet başvuru. Tam süreç ve belgeler ana rehberdedir: /bilgi/tuketici-hakem-heyeti. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: e-Devlet başvuru",
@@ -116762,7 +116723,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «e-Devlet başvuru» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «e-Devlet başvuru» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "noter-vekalet-ucreti",
@@ -116793,7 +116754,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/tarife-guncellemeleri"
       }
     ],
-    "lead": "«noter vekâlet ücreti» araması çoğu zaman genel usul konusunun dar dilimidir: Noter vekâlet ücreti. Bu sayfa (noter-vekalet-ucreti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/noter-islemleri). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Noter vekâlet ücreti» sorusu buraya bırakılmıştır.",
+    "lead": "«noter vekâlet ücreti» — kısa cevap: Noter vekâlet ücreti. Tam süreç ve belgeler ana rehberdedir: /bilgi/noter-islemleri. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Noter vekâlet ücreti",
@@ -117026,7 +116987,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Noter vekâlet ücreti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Noter vekâlet ücreti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "genel-vekaletname-risk",
@@ -117057,7 +117018,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«genel vekâletname riskleri» araması çoğu zaman genel usul konusunun dar dilimidir: Genel vekâletname riskleri. Bu sayfa (genel-vekaletname-risk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/noter-islemleri). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Genel vekâletname riskleri» sorusu buraya bırakılmıştır.",
+    "lead": "«genel vekâletname riskleri» — kısa cevap: Genel vekâletname riskleri. Tam süreç ve belgeler ana rehberdedir: /bilgi/noter-islemleri. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Genel vekâletname riskleri",
@@ -117290,7 +117251,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Genel vekâletname riskleri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Genel vekâletname riskleri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tapu-vekaleten-satis",
@@ -117321,7 +117282,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«vekaleten tapu satışı» araması çoğu zaman genel eşya konusunun dar dilimidir: Vekâletle satış. Bu sayfa (tapu-vekaleten-satis) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tapu-devri-nasil-yapilir). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vekâletle satış» sorusu buraya bırakılmıştır.",
+    "lead": "«vekaleten tapu satışı» — kısa cevap: Vekâletle satış. Tam süreç ve belgeler ana rehberdedir: /bilgi/tapu-devri-nasil-yapilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vekâletle satış",
@@ -117554,7 +117515,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Vekâletle satış» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vekâletle satış» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sahte-vekaletname",
@@ -117586,7 +117547,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-malvarligi"
       }
     ],
-    "lead": "«sahte vekâletname» araması çoğu zaman genel eşya konusunun dar dilimidir: Sahte vekâletname. Bu sayfa (sahte-vekaletname) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sahte vekâletname» sorusu buraya bırakılmıştır.",
+    "lead": "«sahte vekâletname» — kısa cevap: Sahte vekâletname. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sahte vekâletname",
@@ -117819,7 +117780,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Sahte vekâletname» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sahte vekâletname» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hile-ile-sozlesme",
@@ -117851,7 +117812,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«hile ile sözleşme» araması çoğu zaman genel borçlar konusunun dar dilimidir: Hile ile sözleşme. Bu sayfa (hile-ile-sozlesme) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hile ile sözleşme» sorusu buraya bırakılmıştır.",
+    "lead": "«hile ile sözleşme» — kısa cevap: Hile ile sözleşme. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hile ile sözleşme",
@@ -118084,7 +118045,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Hile ile sözleşme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hile ile sözleşme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gabin-nedir",
@@ -118116,7 +118077,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=gabin"
       }
     ],
-    "lead": "«gabin» araması çoğu zaman genel borçlar konusunun dar dilimidir: Gabin. Bu sayfa (gabin-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Gabin» sorusu buraya bırakılmıştır.",
+    "lead": "«gabin» — kısa cevap: Gabin. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Gabin",
@@ -118349,7 +118310,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Gabin» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Gabin» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sozlesmeden-donme",
@@ -118381,7 +118342,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=d%C3%B6nme"
       }
     ],
-    "lead": "«sözleşmeden dönme» araması çoğu zaman genel borçlar konusunun dar dilimidir: Sözleşmeden dönme. Bu sayfa (sozlesmeden-donme) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sözleşmeden dönme» sorusu buraya bırakılmıştır.",
+    "lead": "«sözleşmeden dönme» — kısa cevap: Sözleşmeden dönme. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sözleşmeden dönme",
@@ -118614,7 +118575,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Sözleşmeden dönme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sözleşmeden dönme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cezai-sart-nedir",
@@ -118646,7 +118607,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=cezai%20%C5%9Fart"
       }
     ],
-    "lead": "«cezai şart» araması çoğu zaman genel borçlar konusunun dar dilimidir: Cezai şart. Bu sayfa (cezai-sart-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Cezai şart» sorusu buraya bırakılmıştır.",
+    "lead": "«cezai şart» — kısa cevap: Cezai şart. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Cezai şart",
@@ -118879,7 +118840,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Cezai şart» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Cezai şart» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "temerrut-faizi-nedir",
@@ -118912,7 +118873,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«temerrüt faizi» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir. İlgili çerçeve sıklıkla TBK (6098), HMK, İİK hükümleriyle çizilir; başvuru mercileri arasında hukuk mahkemesi, arabuluculuk ve icra öne çıkar. Aşağıda «temerrüt faizi» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.",
+    "lead": "Temerrüt faizi nasıl işler: borçlar alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.",
     "sections": [
       {
         "heading": "«temerrüt faizi» ne demektir? Kavram ve kapsam",
@@ -118946,19 +118907,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ]
       },
       {
-        "heading": "Süreç nasıl işler? Adım adım",
+        "heading": "Süreç nasıl işler?",
         "paragraphs": [
-          "Tipik akış: (1) Alacak/borç sebebini ve belgeleri toplayın. (2) İhtar veya temerrüt durumunu değerlendirin. (3) Arabuluculuk/dava/icra seçeneklerini karşılaştırın. (4) Faiz ve masraf hesabını yapın. (5) Takibi sonuçlandırın; ibranameyi dikkatle imzalayın.",
-          "Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «temerrüt faizi» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.",
-          "Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.",
-          "Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır."
+          "Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.",
+          "e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.",
+          "Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın."
         ],
         "bullets": [
-          "Alacak/borç sebebini ve belgeleri toplayın.",
-          "İhtar veya temerrüt durumunu değerlendirin.",
-          "Arabuluculuk/dava/icra seçeneklerini karşılaştırın.",
-          "Faiz ve masraf hesabını yapın.",
-          "Takibi sonuçlandırın; ibranameyi dikkatle imzalayın."
+          "1. Alacak/borç sebebini ve belgeleri toplayın.",
+          "2. İhtar veya temerrüt durumunu değerlendirin.",
+          "3. Arabuluculuk/dava/icra seçeneklerini karşılaştırın.",
+          "4. Faiz ve masraf hesabını yapın.",
+          "5. Takibi sonuçlandırın; ibranameyi dikkatle imzalayın."
         ]
       },
       {
@@ -119185,7 +119145,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
     "visual": "stack",
-    "keyInsight": "«temerrüt faizi» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez."
+    "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
     "slug": "faiz-hesaplama-rehberi",
@@ -119216,7 +119176,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«faiz hesaplama» araması çoğu zaman genel borçlar konusunun dar dilimidir: Faiz hesaplama. Bu sayfa (faiz-hesaplama-rehberi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Faiz hesaplama» sorusu buraya bırakılmıştır.",
+    "lead": "«faiz hesaplama» — kısa cevap: Faiz hesaplama. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Faiz hesaplama",
@@ -119449,7 +119409,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Faiz hesaplama» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Faiz hesaplama» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "rehin-nedir",
@@ -119481,7 +119441,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«rehin» araması çoğu zaman genel eşya konusunun dar dilimidir: Rehin. Bu sayfa (rehin-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Rehin» sorusu buraya bırakılmıştır.",
+    "lead": "«rehin» — kısa cevap: Rehin. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Rehin",
@@ -119714,7 +119674,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Rehin» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Rehin» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "teminat-mektubu",
@@ -119745,7 +119705,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=teminat"
       }
     ],
-    "lead": "«teminat mektubu» araması çoğu zaman genel ticaret konusunun dar dilimidir: Teminat mektubu. Bu sayfa (teminat-mektubu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Teminat mektubu» sorusu buraya bırakılmıştır.",
+    "lead": "«teminat mektubu» — kısa cevap: Teminat mektubu. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Teminat mektubu",
@@ -119978,7 +119938,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Teminat mektubu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Teminat mektubu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cek-ibraz-suresi",
@@ -120009,7 +119969,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«çek ibraz süresi» araması çoğu zaman genel ticaret konusunun dar dilimidir: Çek ibraz süresi. Bu sayfa (cek-ibraz-suresi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cek-karsiliksiz). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Çek ibraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çek ibraz süresi» sorusu buraya bırakılmıştır.",
+    "lead": "«çek ibraz süresi» — kısa cevap: Çek ibraz süresi. Tam süreç ve belgeler ana rehberdedir: /bilgi/cek-karsiliksiz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çek ibraz süresi",
@@ -120242,7 +120202,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Çek ibraz süresi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çek ibraz süresi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bono-vade",
@@ -120274,7 +120234,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«bono vade ve protesto» araması çoğu zaman genel ticaret konusunun dar dilimidir: Bono vade ve protesto. Bu sayfa (bono-vade) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cek-karsiliksiz). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Fatura itirazında TTK süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bono vade ve protesto» sorusu buraya bırakılmıştır.",
+    "lead": "«bono vade ve protesto» — kısa cevap: Bono vade ve protesto. Tam süreç ve belgeler ana rehberdedir: /bilgi/cek-karsiliksiz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bono vade ve protesto",
@@ -120507,7 +120467,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Bono vade ve protesto» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bono vade ve protesto» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iflasin-ertelenmesi",
@@ -120538,7 +120498,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ticari-sirketler"
       }
     ],
-    "lead": "«iflasın ertelenmesi» araması çoğu zaman genel icra konusunun dar dilimidir: Tarihçe / güncel. Bu sayfa (iflasin-ertelenmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tarihçe / güncel» sorusu buraya bırakılmıştır.",
+    "lead": "«iflasın ertelenmesi» — kısa cevap: Tarihçe / güncel. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tarihçe / güncel",
@@ -120771,7 +120731,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Tarihçe / güncel» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tarihçe / güncel» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sirket-borclarinda-ortak",
@@ -120803,7 +120763,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«ortağın şirket borcu sorumluluğu» araması çoğu zaman genel ticaret konusunun dar dilimidir: Ortağın şirket borcu sorumluluğu. Bu sayfa (sirket-borclarinda-ortak) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ortağın şirket borcu sorumluluğu» sorusu buraya bırakılmıştır.",
+    "lead": "«ortağın şirket borcu sorumluluğu» — kısa cevap: Ortağın şirket borcu sorumluluğu. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ortağın şirket borcu sorumluluğu",
@@ -121036,7 +120996,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Ortağın şirket borcu sorumluluğu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ortağın şirket borcu sorumluluğu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "anonim-sirket-yonetim-kurulu",
@@ -121068,7 +121028,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=y%C3%B6netim%20kurulu"
       }
     ],
-    "lead": "«yönetim kurulu sorumluluğu» araması çoğu zaman genel ticaret konusunun dar dilimidir: Yönetim kurulu sorumluluğu. Bu sayfa (anonim-sirket-yonetim-kurulu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yönetim kurulu sorumluluğu» sorusu buraya bırakılmıştır.",
+    "lead": "«yönetim kurulu sorumluluğu» — kısa cevap: Yönetim kurulu sorumluluğu. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yönetim kurulu sorumluluğu",
@@ -121301,7 +121261,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Yönetim kurulu sorumluluğu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yönetim kurulu sorumluluğu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ticari-is-karinesi",
@@ -121333,7 +121293,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ticari%20i%C5%9F"
       }
     ],
-    "lead": "«ticari iş karinesi» araması çoğu zaman genel ticaret konusunun dar dilimidir: Ticari iş karinesi. Bu sayfa (ticari-is-karinesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ticari iş karinesi» sorusu buraya bırakılmıştır.",
+    "lead": "«ticari iş karinesi» — kısa cevap: Ticari iş karinesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ticari iş karinesi",
@@ -121566,7 +121526,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Ticari iş karinesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ticari iş karinesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "fatura-itiraz-suresi",
@@ -121598,7 +121558,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/vuk"
       }
     ],
-    "lead": "«faturaya itiraz süresi» araması çoğu zaman genel ticaret konusunun dar dilimidir: Faturaya itiraz süresi. Bu sayfa (fatura-itiraz-suresi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Çek ibraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Faturaya itiraz süresi» sorusu buraya bırakılmıştır.",
+    "lead": "«faturaya itiraz süresi» — kısa cevap: Faturaya itiraz süresi. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Faturaya itiraz süresi",
@@ -121831,7 +121791,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Faturaya itiraz süresi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Faturaya itiraz süresi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cari-hesap-sozlesmesi",
@@ -121863,7 +121823,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ticari-isletme"
       }
     ],
-    "lead": "«cari hesap sözleşmesi» araması çoğu zaman genel ticaret konusunun dar dilimidir: Cari hesap sözleşmesi. Bu sayfa (cari-hesap-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Ticari davalarda arabuluculuk dava şartı olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Cari hesap sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«cari hesap sözleşmesi» — kısa cevap: Cari hesap sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Cari hesap sözleşmesi",
@@ -122096,7 +122056,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Cari hesap sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Cari hesap sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "franchise-sozlesmesi",
@@ -122128,7 +122088,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«franchise sözleşmesi» araması çoğu zaman genel ticaret konusunun dar dilimidir: Franchise sözleşmesi. Bu sayfa (franchise-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Çek ibraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Franchise sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«franchise sözleşmesi» — kısa cevap: Franchise sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Franchise sözleşmesi",
@@ -122361,7 +122321,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Franchise sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Franchise sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "acente-sozlesmesi",
@@ -122393,7 +122353,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=acente"
       }
     ],
-    "lead": "«acente sözleşmesi» araması çoğu zaman genel ticaret konusunun dar dilimidir: Acente sözleşmesi. Bu sayfa (acente-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Çek ibraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Acente sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«acente sözleşmesi» — kısa cevap: Acente sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Acente sözleşmesi",
@@ -122626,7 +122586,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Acente sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Acente sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tasima-sozlesmesi",
@@ -122658,7 +122618,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«taşıma sözleşmesi» araması çoğu zaman genel ticaret konusunun dar dilimidir: Taşıma sözleşmesi. Bu sayfa (tasima-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/sirket-kurulusu). Mevzuat çerçevesi sıklıkla TTK (6102) ve çek kanunu çevresindedir. Çek ibraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Taşıma sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«taşıma sözleşmesi» — kısa cevap: Taşıma sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/sirket-kurulusu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Taşıma sözleşmesi",
@@ -122891,7 +122851,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Taşıma sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Taşıma sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "emanet-sozlesmesi",
@@ -122923,7 +122883,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=emanet"
       }
     ],
-    "lead": "«emanet sözleşmesi» araması çoğu zaman genel borçlar konusunun dar dilimidir: Emanet sözleşmesi. Bu sayfa (emanet-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Emanet sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«emanet sözleşmesi» — kısa cevap: Emanet sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Emanet sözleşmesi",
@@ -123156,7 +123116,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Emanet sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Emanet sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "odunc-sozlesmesi",
@@ -123187,7 +123147,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«ödünç sözleşmesi» araması çoğu zaman genel borçlar konusunun dar dilimidir: Ödünç sözleşmesi. Bu sayfa (odunc-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ödünç sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«ödünç sözleşmesi» — kısa cevap: Ödünç sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ödünç sözleşmesi",
@@ -123420,7 +123380,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Ödünç sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ödünç sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bagis-sozlesmesi",
@@ -123452,7 +123412,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/miras-hukuku"
       }
     ],
-    "lead": "«bağış sözleşmesi» araması çoğu zaman genel borçlar konusunun dar dilimidir: Bağış sözleşmesi. Bu sayfa (bagis-sozlesmesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bağış sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«bağış sözleşmesi» — kısa cevap: Bağış sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bağış sözleşmesi",
@@ -123685,7 +123645,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Bağış sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bağış sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "vekalet-sozlesmesi-tbk",
@@ -123717,7 +123677,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=vekalet"
       }
     ],
-    "lead": "«vekâlet sözleşmesi tbk» araması çoğu zaman genel borçlar konusunun dar dilimidir: Vekâlet sözleşmesi TBK. Bu sayfa (vekalet-sozlesmesi-tbk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Vekâlet sözleşmesi TBK» sorusu buraya bırakılmıştır.",
+    "lead": "«vekâlet sözleşmesi tbk» — kısa cevap: Vekâlet sözleşmesi TBK. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Vekâlet sözleşmesi TBK",
@@ -123950,7 +123910,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Vekâlet sözleşmesi TBK» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Vekâlet sözleşmesi TBK» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "eser-sozlesmesi-nedir",
@@ -123982,7 +123942,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=eser"
       }
     ],
-    "lead": "«eser sözleşmesi» araması çoğu zaman genel borçlar konusunun dar dilimidir: Eser sözleşmesi. Bu sayfa (eser-sozlesmesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Eser sözleşmesi» sorusu buraya bırakılmıştır.",
+    "lead": "«eser sözleşmesi» — kısa cevap: Eser sözleşmesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Eser sözleşmesi",
@@ -124215,7 +124175,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Eser sözleşmesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Eser sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hizmet-sozlesmesi-tbk",
@@ -124247,7 +124207,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«hizmet sözleşmesi tbk» araması çoğu zaman genel iş konusunun dar dilimidir: Hizmet sözleşmesi TBK. Bu sayfa (hizmet-sozlesmesi-tbk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hizmet sözleşmesi TBK» sorusu buraya bırakılmıştır.",
+    "lead": "«hizmet sözleşmesi tbk» — kısa cevap: Hizmet sözleşmesi TBK. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hizmet sözleşmesi TBK",
@@ -124480,7 +124440,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Hizmet sözleşmesi TBK» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hizmet sözleşmesi TBK» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "satis-vaadi-icra",
@@ -124512,7 +124472,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«satış vaadi icrası» araması çoğu zaman genel eşya konusunun dar dilimidir: Satış vaadi icrası. Bu sayfa (satis-vaadi-icra) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Satış vaadi icrası» sorusu buraya bırakılmıştır.",
+    "lead": "«satış vaadi icrası» — kısa cevap: Satış vaadi icrası. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Satış vaadi icrası",
@@ -124745,7 +124705,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Satış vaadi icrası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Satış vaadi icrası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "on-sozlesme-nedir",
@@ -124777,7 +124737,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%B6n%20s%C3%B6zle%C5%9Fme"
       }
     ],
-    "lead": "«ön sözleşme» araması çoğu zaman genel borçlar konusunun dar dilimidir: Ön sözleşme. Bu sayfa (on-sozlesme-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ön sözleşme» sorusu buraya bırakılmıştır.",
+    "lead": "«ön sözleşme» — kısa cevap: Ön sözleşme. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ön sözleşme",
@@ -125010,7 +124970,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Ön sözleşme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ön sözleşme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "genel-islem-kosullari",
@@ -125042,7 +125002,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tkhk"
       }
     ],
-    "lead": "«genel işlem koşulları» araması çoğu zaman genel borçlar konusunun dar dilimidir: Genel işlem koşulları. Bu sayfa (genel-islem-kosullari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Genel işlem koşulları» sorusu buraya bırakılmıştır.",
+    "lead": "«genel işlem koşulları» — kısa cevap: Genel işlem koşulları. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Genel işlem koşulları",
@@ -125275,7 +125235,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Genel işlem koşulları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Genel işlem koşulları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sozlesmenin-yorumu",
@@ -125307,7 +125267,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=s%C3%B6zle%C5%9Fme"
       }
     ],
-    "lead": "«sözleşmenin yorumu» araması çoğu zaman genel borçlar konusunun dar dilimidir: Sözleşmenin yorumu. Bu sayfa (sozlesmenin-yorumu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sözleşmenin yorumu» sorusu buraya bırakılmıştır.",
+    "lead": "«sözleşmenin yorumu» — kısa cevap: Sözleşmenin yorumu. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sözleşmenin yorumu",
@@ -125540,7 +125500,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Sözleşmenin yorumu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sözleşmenin yorumu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hukuki-islem-nedir",
@@ -125572,7 +125532,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat/tmk/madde-1"
       }
     ],
-    "lead": "«hukuki işlem» araması çoğu zaman genel borçlar konusunun dar dilimidir: Hukuki işlem. Bu sayfa (hukuki-islem-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hukuki işlem» sorusu buraya bırakılmıştır.",
+    "lead": "«hukuki işlem» — kısa cevap: Hukuki işlem. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hukuki işlem",
@@ -125805,7 +125765,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Hukuki işlem» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hukuki işlem» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "butlan-nedir",
@@ -125837,7 +125797,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«butlan» araması çoğu zaman genel borçlar konusunun dar dilimidir: Butlan. Bu sayfa (butlan-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Butlan» sorusu buraya bırakılmıştır.",
+    "lead": "«butlan» — kısa cevap: Butlan. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Butlan",
@@ -126070,7 +126030,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Butlan» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Butlan» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iptal-edilebilirlik",
@@ -126102,7 +126062,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=iptal"
       }
     ],
-    "lead": "«iptal edilebilirlik» araması çoğu zaman genel borçlar konusunun dar dilimidir: İptal edilebilirlik. Bu sayfa (iptal-edilebilirlik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Genel zamanaşımı TBK’da kural olarak 10 yıl; bazı alacaklarda 5 yıl ve özel süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İptal edilebilirlik» sorusu buraya bırakılmıştır.",
+    "lead": "«iptal edilebilirlik» — kısa cevap: İptal edilebilirlik. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İptal edilebilirlik",
@@ -126335,7 +126295,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İptal edilebilirlik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İptal edilebilirlik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iyiniyet-nedir",
@@ -126367,7 +126327,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«iyiniyet» araması çoğu zaman genel mevzuat konusunun dar dilimidir: İyiniyet. Bu sayfa (iyiniyet-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Fıkra, bent ve atıf maddeleri atlanmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İyiniyet» sorusu buraya bırakılmıştır.",
+    "lead": "«iyiniyet» — kısa cevap: İyiniyet. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İyiniyet",
@@ -126600,7 +126560,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İyiniyet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İyiniyet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "durustluk-kurali",
@@ -126632,7 +126592,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=d%C3%BCr%C3%BCstl%C3%BCk"
       }
     ],
-    "lead": "«dürüstlük kuralı» araması çoğu zaman genel mevzuat konusunun dar dilimidir: Dürüstlük kuralı. Bu sayfa (durustluk-kurali) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kanun-maddesi-nasil-okunur). Mevzuat çerçevesi sıklıkla ilgili kanun metni ve yönetmelik/tebliğ çevresindedir. Şerh ve içtihat, maddeyi somut olaya uygulamada yol gösterir; bağlayıcılık karara göredir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Dürüstlük kuralı» sorusu buraya bırakılmıştır.",
+    "lead": "«dürüstlük kuralı» — kısa cevap: Dürüstlük kuralı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kanun-maddesi-nasil-okunur. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Dürüstlük kuralı",
@@ -126865,7 +126825,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Dürüstlük kuralı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Dürüstlük kuralı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "hak-dusurucu-sure",
@@ -126896,7 +126856,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«hak düşürücü süre farkı» araması çoğu zaman genel usul konusunun dar dilimidir: Hak düşürücü süre farkı. Bu sayfa (hak-dusurucu-sure) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Hak düşürücü süre farkı» sorusu buraya bırakılmıştır.",
+    "lead": "«hak düşürücü süre farkı» — kısa cevap: Hak düşürücü süre farkı. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Hak düşürücü süre farkı",
@@ -127129,7 +127089,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Hak düşürücü süre farkı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Hak düşürücü süre farkı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kesinti-durma-zamansimi",
@@ -127160,7 +127120,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«zamanaşımının kesilmesi ve durması» araması çoğu zaman genel usul konusunun dar dilimidir: Zamanaşımının kesilmesi ve durması. Bu sayfa (kesinti-durma-zamansimi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. e-Tebligatta açılmasa da kanuni sürelerle tebliğ sayılma kuralları vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Zamanaşımının kesilmesi ve durması» sorusu buraya bırakılmıştır.",
+    "lead": "«zamanaşımının kesilmesi ve durması» — kısa cevap: Zamanaşımının kesilmesi ve durması. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Zamanaşımının kesilmesi ve durması",
@@ -127393,7 +127353,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Zamanaşımının kesilmesi ve durması» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Zamanaşımının kesilmesi ve durması» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ispat-yuku",
@@ -127425,7 +127385,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ispat"
       }
     ],
-    "lead": "«ispat yükü» araması çoğu zaman genel usul konusunun dar dilimidir: İspat yükü. Bu sayfa (ispat-yuku) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İspat yükü» sorusu buraya bırakılmıştır.",
+    "lead": "«ispat yükü» — kısa cevap: İspat yükü. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İspat yükü",
@@ -127658,7 +127618,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «İspat yükü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İspat yükü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "karine-nedir",
@@ -127690,7 +127650,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«karine» araması çoğu zaman genel usul konusunun dar dilimidir: Karine. Bu sayfa (karine-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Karine» sorusu buraya bırakılmıştır.",
+    "lead": "«karine» — kısa cevap: Karine. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Karine",
@@ -127923,7 +127883,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Karine» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Karine» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-inkar-tazminati-sartlari",
@@ -127955,7 +127915,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«inkar tazminatı şartları» araması çoğu zaman genel icra konusunun dar dilimidir: Şartlar. Bu sayfa (icra-inkar-tazminati-sartlari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Ödeme emrine itiraz süresi tebliğden itibaren kural olarak 7 gündür. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Şartlar» sorusu buraya bırakılmıştır.",
+    "lead": "«inkar tazminatı şartları» — kısa cevap: Şartlar. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Şartlar",
@@ -128188,7 +128148,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Şartlar» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Şartlar» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tebligat-kanunu-nedir",
@@ -128219,7 +128179,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«Tebligat Kanunu» araması çoğu zaman genel usul konusunun dar dilimidir: Kanun çerçevesi. Bu sayfa (tebligat-kanunu-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tebligat-usulsuzlugu). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kanun çerçevesi» sorusu buraya bırakılmıştır.",
+    "lead": "«Tebligat Kanunu» — kısa cevap: Kanun çerçevesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/tebligat-usulsuzlugu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kanun çerçevesi",
@@ -128452,7 +128412,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kanun çerçevesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kanun çerçevesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "usulsuz-tebligat-ogrenme",
@@ -128482,7 +128442,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«usulsüz tebligat öğrenme tarihi» araması çoğu zaman genel usul konusunun dar dilimidir: Öğrenme tarihi. Bu sayfa (usulsuz-tebligat-ogrenme) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tebligat-usulsuzlugu). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Öğrenme tarihi» sorusu buraya bırakılmıştır.",
+    "lead": "«usulsüz tebligat öğrenme tarihi» — kısa cevap: Öğrenme tarihi. Tam süreç ve belgeler ana rehberdedir: /bilgi/tebligat-usulsuzlugu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Öğrenme tarihi",
@@ -128715,7 +128675,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Öğrenme tarihi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Öğrenme tarihi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "e-tebligat-acmamak",
@@ -128746,7 +128706,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«e-tebligat açmamak» araması çoğu zaman genel usul konusunun dar dilimidir: Açmama efsanesi. Bu sayfa (e-tebligat-acmamak) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/tebligat-usulsuzlugu). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Açmama efsanesi» sorusu buraya bırakılmıştır.",
+    "lead": "«e-tebligat açmamak» — kısa cevap: Açmama efsanesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/tebligat-usulsuzlugu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Açmama efsanesi",
@@ -128979,7 +128939,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Açmama efsanesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Açmama efsanesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yargi-giderleri",
@@ -129011,7 +128971,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/tarife-guncellemeleri"
       }
     ],
-    "lead": "«yargılama giderleri» araması çoğu zaman genel usul konusunun dar dilimidir: Yargılama giderleri. Bu sayfa (yargi-giderleri) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/zamanaşimi-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yargılama giderleri» sorusu buraya bırakılmıştır.",
+    "lead": "«yargılama giderleri» — kısa cevap: Yargılama giderleri. Tam süreç ve belgeler ana rehberdedir: /bilgi/zamanaşimi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yargılama giderleri",
@@ -129244,7 +129204,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Yargılama giderleri» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yargılama giderleri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "delil-tespiti",
@@ -129274,7 +129234,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=delil%20tespiti"
       }
     ],
-    "lead": "«delil tespiti» araması çoğu zaman genel usul konusunun dar dilimidir: Delil tespiti. Bu sayfa (delil-tespiti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ihtiyati-tedbir-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Dava açma, cevap, istinaf ve temyiz süreleri tebliğ tarihlerine göre işlemeye başlar. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Delil tespiti» sorusu buraya bırakılmıştır.",
+    "lead": "«delil tespiti» — kısa cevap: Delil tespiti. Tam süreç ve belgeler ana rehberdedir: /bilgi/ihtiyati-tedbir-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Delil tespiti",
@@ -129507,7 +129467,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Delil tespiti» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Delil tespiti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ihtiyati-tedbir-itiraz",
@@ -129537,7 +129497,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ihtiyati%20tedbir"
       }
     ],
-    "lead": "«ihtiyati tedbire itiraz» araması çoğu zaman genel usul konusunun dar dilimidir: İtiraz. Bu sayfa (ihtiyati-tedbir-itiraz) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ihtiyati-tedbir-nedir). Mevzuat çerçevesi sıklıkla HMK (6100) ve İYUK (2577) çevresindedir. Arabuluculuk dava şartı olan uyuşmazlıklarda tutanak olmadan dava risklidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İtiraz» sorusu buraya bırakılmıştır.",
+    "lead": "«ihtiyati tedbire itiraz» — kısa cevap: İtiraz. Tam süreç ve belgeler ana rehberdedir: /bilgi/ihtiyati-tedbir-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İtiraz",
@@ -129770,7 +129730,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İtiraz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İtiraz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ihtiyati-haciz-itiraz",
@@ -129801,7 +129761,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«ihtiyati hacze itiraz» araması çoğu zaman genel icra konusunun dar dilimidir: İhtiyati hacze itiraz. Bu sayfa (ihtiyati-haciz-itiraz) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İhtiyati hacze itiraz» sorusu buraya bırakılmıştır.",
+    "lead": "«ihtiyati hacze itiraz» — kısa cevap: İhtiyati hacze itiraz. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İhtiyati hacze itiraz",
@@ -130034,7 +129994,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İhtiyati hacze itiraz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İhtiyati hacze itiraz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-mahkemesi-nedir",
@@ -130066,7 +130026,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=icra%20mahkeme"
       }
     ],
-    "lead": "«icra mahkemesi» araması çoğu zaman genel icra konusunun dar dilimidir: İcra mahkemesi görev. Bu sayfa (icra-mahkemesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İcra mahkemesi görev» sorusu buraya bırakılmıştır.",
+    "lead": "«icra mahkemesi» — kısa cevap: İcra mahkemesi görev. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İcra mahkemesi görev",
@@ -130299,7 +130259,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «İcra mahkemesi görev» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İcra mahkemesi görev» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-sikayeti",
@@ -130331,7 +130291,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«icra şikayeti» araması çoğu zaman genel icra konusunun dar dilimidir: Şikâyet. Bu sayfa (icra-sikayeti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Ödeme emrine itiraz süresi tebliğden itibaren kural olarak 7 gündür. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Şikâyet» sorusu buraya bırakılmıştır.",
+    "lead": "«icra şikayeti» — kısa cevap: Şikâyet. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Şikâyet",
@@ -130564,7 +130524,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Şikâyet» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Şikâyet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sira-cetveli",
@@ -130596,7 +130556,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=s%C4%B1ra%20cetveli"
       }
     ],
-    "lead": "«sıra cetveli» araması çoğu zaman genel icra konusunun dar dilimidir: Sıra cetveli. Bu sayfa (sira-cetveli) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sıra cetveli» sorusu buraya bırakılmıştır.",
+    "lead": "«sıra cetveli» — kısa cevap: Sıra cetveli. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sıra cetveli",
@@ -130829,7 +130789,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Sıra cetveli» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sıra cetveli» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "istihkak-davasi-sure",
@@ -130860,7 +130820,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«istihkak davası süresi» araması çoğu zaman genel icra konusunun dar dilimidir: İstihkak süresi. Bu sayfa (istihkak-davasi-sure) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İstihkak süresi» sorusu buraya bırakılmıştır.",
+    "lead": "«istihkak davası süresi» — kısa cevap: İstihkak süresi. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İstihkak süresi",
@@ -131093,7 +131053,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İstihkak süresi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İstihkak süresi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-tespit-5-yil",
@@ -131125,7 +131085,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kira"
       }
     ],
-    "lead": "«5 yıl kira tespit» araması çoğu zaman genel kira konusunun dar dilimidir: 5 yıllık dönem özel notu. Bu sayfa (kira-tespit-5-yil) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «5 yıllık dönem özel notu» sorusu buraya bırakılmıştır.",
+    "lead": "«5 yıl kira tespit» — kısa cevap: 5 yıllık dönem özel notu. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: 5 yıllık dönem özel notu",
@@ -131358,7 +131318,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «5 yıllık dönem özel notu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «5 yıllık dönem özel notu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kiracinin-olumu",
@@ -131390,7 +131350,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/miras-hukuku"
       }
     ],
-    "lead": "«kiracı ölümü» araması çoğu zaman genel kira konusunun dar dilimidir: Kiracı ölümü. Bu sayfa (kiracinin-olumu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Kira tespitinde 5 yıllık dönem ve arabuluculuk şartı uygulamada sık sorulur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kiracı ölümü» sorusu buraya bırakılmıştır.",
+    "lead": "«kiracı ölümü» — kısa cevap: Kiracı ölümü. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kiracı ölümü",
@@ -131623,7 +131583,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Kiracı ölümü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kiracı ölümü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kiraya-verenin-degismesi",
@@ -131655,7 +131615,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«ev satılırsa kiracı» araması çoğu zaman genel kira konusunun dar dilimidir: Satışta yeni malik. Bu sayfa (kiraya-verenin-degismesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Satışta yeni malik» sorusu buraya bırakılmıştır.",
+    "lead": "«ev satılırsa kiracı» — kısa cevap: Satışta yeni malik. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Satışta yeni malik",
@@ -131888,7 +131848,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Satışta yeni malik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Satışta yeni malik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "guvence-bedeli-3-ay",
@@ -131920,7 +131880,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kira"
       }
     ],
-    "lead": "«kira güvencesi 3 ay» araması çoğu zaman genel kira konusunun dar dilimidir: TBK 3 aylık güvence sınırı. Bu sayfa (guvence-bedeli-3-ay) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kira-artis-orani-nasil-hesaplanir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «TBK 3 aylık güvence sınırı» sorusu buraya bırakılmıştır.",
+    "lead": "«kira güvencesi 3 ay» — kısa cevap: TBK 3 aylık güvence sınırı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kira-artis-orani-nasil-hesaplanir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: TBK 3 aylık güvence sınırı",
@@ -132153,7 +132113,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «TBK 3 aylık güvence sınırı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «TBK 3 aylık güvence sınırı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "konut-kirasi-tahliye-sebepleri",
@@ -132184,7 +132144,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«konut tahliye sebepleri» araması çoğu zaman genel kira konusunun dar dilimidir: Sebep listesi. Bu sayfa (konut-kirasi-tahliye-sebepleri) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kiraci-nasil-tahliye-edilir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sebep listesi» sorusu buraya bırakılmıştır.",
+    "lead": "«konut tahliye sebepleri» — kısa cevap: Sebep listesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kiraci-nasil-tahliye-edilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sebep listesi",
@@ -132417,7 +132377,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Sebep listesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sebep listesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ihtiyac-nedeniyle-tahliye",
@@ -132448,7 +132408,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«ihtiyaç nedeniyle tahliye» araması çoğu zaman genel kira konusunun dar dilimidir: İhtiyaç. Bu sayfa (ihtiyac-nedeniyle-tahliye) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kiraci-nasil-tahliye-edilir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Konut kiralarında dönemsel yasal artış sınırları Resmî Gazete/TBK uygulamasına göre değişebilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İhtiyaç» sorusu buraya bırakılmıştır.",
+    "lead": "«ihtiyaç nedeniyle tahliye» — kısa cevap: İhtiyaç. Tam süreç ve belgeler ana rehberdedir: /bilgi/kiraci-nasil-tahliye-edilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İhtiyaç",
@@ -132681,7 +132641,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «İhtiyaç» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İhtiyaç» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yeniden-kiralama-yasagi",
@@ -132711,7 +132671,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=tahliye"
       }
     ],
-    "lead": "«yeniden kiralama yasağı» araması çoğu zaman genel kira konusunun dar dilimidir: Yeniden kiralama yasağı. Bu sayfa (yeniden-kiralama-yasagi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kiraci-nasil-tahliye-edilir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yeniden kiralama yasağı» sorusu buraya bırakılmıştır.",
+    "lead": "«yeniden kiralama yasağı» — kısa cevap: Yeniden kiralama yasağı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kiraci-nasil-tahliye-edilir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yeniden kiralama yasağı",
@@ -132944,7 +132904,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Yeniden kiralama yasağı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yeniden kiralama yasağı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kira-alacagi-icra",
@@ -132975,7 +132935,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-ozel"
       }
     ],
-    "lead": "«kira alacağı icra» araması çoğu zaman genel kira konusunun dar dilimidir: Kira icrası. Bu sayfa (kira-alacagi-icra) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla TBK kira hükümleri ve HMK çevresindedir. Tahliye sebepleri (ihtiyaç, taahhüt, iki haklı ihtar, temerrüt) ayrı usullere tabidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kira icrası» sorusu buraya bırakılmıştır.",
+    "lead": "«kira alacağı icra» — kısa cevap: Kira icrası. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kira icrası",
@@ -133208,7 +133168,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Kira icrası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kira icrası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "site-yonetim-plani",
@@ -133239,7 +133199,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=y%C3%B6netim%20plan%C4%B1"
       }
     ],
-    "lead": "«yönetim planı» araması çoğu zaman genel eşya konusunun dar dilimidir: Yönetim planı. Bu sayfa (site-yonetim-plani) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kat-mulkiyeti-aidat). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yönetim planı» sorusu buraya bırakılmıştır.",
+    "lead": "«yönetim planı» — kısa cevap: Yönetim planı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kat-mulkiyeti-aidat. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yönetim planı",
@@ -133472,7 +133432,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Yönetim planı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yönetim planı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ortak-gider-nedir",
@@ -133503,7 +133463,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/iik"
       }
     ],
-    "lead": "«ortak gider» araması çoğu zaman genel eşya konusunun dar dilimidir: Ortak gider. Bu sayfa (ortak-gider-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kat-mulkiyeti-aidat). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ortak gider» sorusu buraya bırakılmıştır.",
+    "lead": "«ortak gider» — kısa cevap: Ortak gider. Tam süreç ve belgeler ana rehberdedir: /bilgi/kat-mulkiyeti-aidat. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ortak gider",
@@ -133736,7 +133696,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Ortak gider» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ortak gider» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yonetici-secimi-site",
@@ -133767,7 +133727,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=y%C3%B6netici"
       }
     ],
-    "lead": "«site yöneticisi seçimi» araması çoğu zaman genel eşya konusunun dar dilimidir: Site yöneticisi seçimi. Bu sayfa (yonetici-secimi-site) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kat-mulkiyeti-aidat). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Site yöneticisi seçimi» sorusu buraya bırakılmıştır.",
+    "lead": "«site yöneticisi seçimi» — kısa cevap: Site yöneticisi seçimi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kat-mulkiyeti-aidat. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Site yöneticisi seçimi",
@@ -134000,7 +133960,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Site yöneticisi seçimi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Site yöneticisi seçimi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kat-irtifakindan-mulkiyete",
@@ -134032,7 +133992,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/imar"
       }
     ],
-    "lead": "«kat irtifakından mülkiyete» araması çoğu zaman genel eşya konusunun dar dilimidir: Kat irtifakından mülkiyete. Bu sayfa (kat-irtifakindan-mulkiyete) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kat-mulkiyeti-aidat). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kat irtifakından mülkiyete» sorusu buraya bırakılmıştır.",
+    "lead": "«kat irtifakından mülkiyete» — kısa cevap: Kat irtifakından mülkiyete. Tam süreç ve belgeler ana rehberdedir: /bilgi/kat-mulkiyeti-aidat. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kat irtifakından mülkiyete",
@@ -134265,7 +134225,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Kat irtifakından mülkiyete» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kat irtifakından mülkiyete» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "bagimsiz-bolum-nedir",
@@ -134296,7 +134256,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=ba%C4%9F%C4%B1ms%C4%B1z"
       }
     ],
-    "lead": "«bağımsız bölüm» araması çoğu zaman genel eşya konusunun dar dilimidir: Bağımsız bölüm. Bu sayfa (bagimsiz-bolum-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kat-mulkiyeti-aidat). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bağımsız bölüm» sorusu buraya bırakılmıştır.",
+    "lead": "«bağımsız bölüm» — kısa cevap: Bağımsız bölüm. Tam süreç ve belgeler ana rehberdedir: /bilgi/kat-mulkiyeti-aidat. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bağımsız bölüm",
@@ -134529,7 +134489,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Bağımsız bölüm» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bağımsız bölüm» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "arsa-payi-nedir",
@@ -134561,7 +134521,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«arsa payı» araması çoğu zaman genel eşya konusunun dar dilimidir: Arsa payı. Bu sayfa (arsa-payi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kat-mulkiyeti-aidat). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Önalım hakkının kullanılması için yasal bildirim ve dava süreleri kritiktir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Arsa payı» sorusu buraya bırakılmıştır.",
+    "lead": "«arsa payı» — kısa cevap: Arsa payı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kat-mulkiyeti-aidat. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Arsa payı",
@@ -134794,7 +134754,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Arsa payı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Arsa payı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gecit-hakki-davasi",
@@ -134826,7 +134786,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«geçit hakkı davası» araması çoğu zaman genel eşya konusunun dar dilimidir: Geçit hakkı davası. Bu sayfa (gecit-hakki-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Geçit hakkı davası» sorusu buraya bırakılmıştır.",
+    "lead": "«geçit hakkı davası» — kısa cevap: Geçit hakkı davası. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Geçit hakkı davası",
@@ -135059,7 +135019,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Geçit hakkı davası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Geçit hakkı davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sinir-uyusmazligi",
@@ -135091,7 +135051,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=s%C4%B1n%C4%B1r"
       }
     ],
-    "lead": "«sınır uyuşmazlığı» araması çoğu zaman genel eşya konusunun dar dilimidir: Sınır uyuşmazlığı. Bu sayfa (sinir-uyusmazligi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sınır uyuşmazlığı» sorusu buraya bırakılmıştır.",
+    "lead": "«sınır uyuşmazlığı» — kısa cevap: Sınır uyuşmazlığı. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sınır uyuşmazlığı",
@@ -135324,7 +135284,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Sınır uyuşmazlığı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sınır uyuşmazlığı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kadastro-tespitine-itiraz",
@@ -135356,7 +135316,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«kadastro tespitine itiraz» araması çoğu zaman genel eşya konusunun dar dilimidir: Kadastro tespitine itiraz. Bu sayfa (kadastro-tespitine-itiraz) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. Tapu iptal-tescil ve muris muvazaasında ispat yükü ve zamanaşımı somut olaya bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kadastro tespitine itiraz» sorusu buraya bırakılmıştır.",
+    "lead": "«kadastro tespitine itiraz» — kısa cevap: Kadastro tespitine itiraz. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kadastro tespitine itiraz",
@@ -135589,7 +135549,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kadastro tespitine itiraz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kadastro tespitine itiraz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "orman-kadastro",
@@ -135621,7 +135581,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«orman kadastrosu» araması çoğu zaman genel eşya konusunun dar dilimidir: Orman kadastrosu. Bu sayfa (orman-kadastro) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/izale-i-suyu). Mevzuat çerçevesi sıklıkla TMK eşya ve Kat Mülkiyeti Kanunu çevresindedir. İpotek fekki ve haciz şerhi kaldırma ödeme/ evrak sonrası yapılır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Orman kadastrosu» sorusu buraya bırakılmıştır.",
+    "lead": "«orman kadastrosu» — kısa cevap: Orman kadastrosu. Tam süreç ve belgeler ana rehberdedir: /bilgi/izale-i-suyu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Orman kadastrosu",
@@ -135854,7 +135814,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Orman kadastrosu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Orman kadastrosu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kiyi-kenar-cizgisi",
@@ -135886,7 +135846,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=k%C4%B1y%C4%B1"
       }
     ],
-    "lead": "«kıyı kenar çizgisi» araması çoğu zaman genel imar konusunun dar dilimidir: Kıyı kenar çizgisi. Bu sayfa (kiyi-kenar-cizgisi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kıyı kenar çizgisi» sorusu buraya bırakılmıştır.",
+    "lead": "«kıyı kenar çizgisi» — kısa cevap: Kıyı kenar çizgisi. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kıyı kenar çizgisi",
@@ -136119,7 +136079,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Kıyı kenar çizgisi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kıyı kenar çizgisi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sit-alani-nedir",
@@ -136151,7 +136111,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«sit alanı» araması çoğu zaman genel imar konusunun dar dilimidir: Sit alanı. Bu sayfa (sit-alani-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sit alanı» sorusu buraya bırakılmıştır.",
+    "lead": "«sit alanı» — kısa cevap: Sit alanı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sit alanı",
@@ -136384,7 +136344,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Sit alanı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sit alanı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cevre-duzeni-plani",
@@ -136416,7 +136376,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«çevre düzeni planı» araması çoğu zaman genel imar konusunun dar dilimidir: Çevre düzeni planı. Bu sayfa (cevre-duzeni-plani) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çevre düzeni planı» sorusu buraya bırakılmıştır.",
+    "lead": "«çevre düzeni planı» — kısa cevap: Çevre düzeni planı. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çevre düzeni planı",
@@ -136649,7 +136609,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Çevre düzeni planı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çevre düzeni planı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "emsal-nedir-imar",
@@ -136681,7 +136641,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=emsal"
       }
     ],
-    "lead": "«emsal kaks» araması çoğu zaman genel imar konusunun dar dilimidir: Emsal KAKS. Bu sayfa (emsal-nedir-imar) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Emsal KAKS» sorusu buraya bırakılmıştır.",
+    "lead": "«emsal kaks» — kısa cevap: Emsal KAKS. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Emsal KAKS",
@@ -136914,7 +136874,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Emsal KAKS» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Emsal KAKS» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "taks-nedir",
@@ -136946,7 +136906,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=TAKS"
       }
     ],
-    "lead": "«taks» araması çoğu zaman genel imar konusunun dar dilimidir: TAKS. Bu sayfa (taks-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «TAKS» sorusu buraya bırakılmıştır.",
+    "lead": "«taks» — kısa cevap: TAKS. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: TAKS",
@@ -137179,7 +137139,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «TAKS» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «TAKS» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iskan-basvurusu-belgeler",
@@ -137210,7 +137170,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«iskan belgeleri» araması çoğu zaman genel imar konusunun dar dilimidir: Evrak listesi. Bu sayfa (iskan-basvurusu-belgeler) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/iskan-belgesi-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Evrak listesi» sorusu buraya bırakılmıştır.",
+    "lead": "«iskan belgeleri» — kısa cevap: Evrak listesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/iskan-belgesi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Evrak listesi",
@@ -137443,7 +137403,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Evrak listesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Evrak listesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kacak-kat-cezasi",
@@ -137475,7 +137435,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/belediye"
       }
     ],
-    "lead": "«kaçak kat cezası» araması çoğu zaman genel imar konusunun dar dilimidir: Kaçak kat cezası. Bu sayfa (kacak-kat-cezasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Yapı tatil tutanağı, para cezası ve yıkımda itiraz/dava süreleri kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kaçak kat cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«kaçak kat cezası» — kısa cevap: Kaçak kat cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kaçak kat cezası",
@@ -137708,7 +137668,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Kaçak kat cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kaçak kat cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "muhür-sokme-sucu",
@@ -137740,7 +137700,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tck-genel"
       }
     ],
-    "lead": "«mühür sökme» araması çoğu zaman genel imar konusunun dar dilimidir: Mühür sökme. Bu sayfa (muhür-sokme-sucu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kentsel-donusum-nedir). Mevzuat çerçevesi sıklıkla İmar Kanunu ve belediye mevzuatı çevresindedir. Riskli yapı tespitine itiraz süreleri kaçırılmamalıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Mühür sökme» sorusu buraya bırakılmıştır.",
+    "lead": "«mühür sökme» — kısa cevap: Mühür sökme. Tam süreç ve belgeler ana rehberdedir: /bilgi/kentsel-donusum-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Mühür sökme",
@@ -137973,7 +137933,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Mühür sökme» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Mühür sökme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "belediye-encumen-karari",
@@ -138005,7 +137965,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«belediye encümen kararı» araması çoğu zaman genel idare konusunun dar dilimidir: Belediye encümen kararı. Bu sayfa (belediye-encumen-karari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Belediye encümen kararı» sorusu buraya bırakılmıştır.",
+    "lead": "«belediye encümen kararı» — kısa cevap: Belediye encümen kararı. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Belediye encümen kararı",
@@ -138238,7 +138198,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Belediye encümen kararı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Belediye encümen kararı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "zabita-cezasi",
@@ -138269,7 +138229,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«zabıta cezası» araması çoğu zaman genel idare konusunun dar dilimidir: Zabıta cezası. Bu sayfa (zabita-cezasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Zabıta cezası» sorusu buraya bırakılmıştır.",
+    "lead": "«zabıta cezası» — kısa cevap: Zabıta cezası. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Zabıta cezası",
@@ -138502,7 +138462,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Zabıta cezası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Zabıta cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-yeri-acma-ruhsati",
@@ -138534,7 +138494,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ticari-isletme"
       }
     ],
-    "lead": "«işyeri açma ruhsatı» araması çoğu zaman genel idare konusunun dar dilimidir: İşyeri açma ruhsatı. Bu sayfa (is-yeri-acma-ruhsati) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İptal ve tam yargı davalarında süreler tebliğ/öğrenme tarihine göre çok kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İşyeri açma ruhsatı» sorusu buraya bırakılmıştır.",
+    "lead": "«işyeri açma ruhsatı» — kısa cevap: İşyeri açma ruhsatı. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İşyeri açma ruhsatı",
@@ -138767,7 +138727,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İşyeri açma ruhsatı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İşyeri açma ruhsatı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gida-isletme-kayit",
@@ -138799,7 +138759,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«gıda işletme kayıt» araması çoğu zaman genel idare konusunun dar dilimidir: Gıda işletme kayıt. Bu sayfa (gida-isletme-kayit) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. Yürütmenin durdurulması ayrı şartlara tabidir; talep gerekçelendirilmelidir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Gıda işletme kayıt» sorusu buraya bırakılmıştır.",
+    "lead": "«gıda işletme kayıt» — kısa cevap: Gıda işletme kayıt. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Gıda işletme kayıt",
@@ -139032,7 +138992,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Gıda işletme kayıt» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Gıda işletme kayıt» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "cevre-izin-lisans",
@@ -139064,7 +139024,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C3%A7evre"
       }
     ],
-    "lead": "«çevre izin lisans» araması çoğu zaman genel idare konusunun dar dilimidir: Çevre izin lisans. Bu sayfa (cevre-izin-lisans) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/cimer-sikayet). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Çevre izin lisans» sorusu buraya bırakılmıştır.",
+    "lead": "«çevre izin lisans» — kısa cevap: Çevre izin lisans. Tam süreç ve belgeler ana rehberdedir: /bilgi/cimer-sikayet. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Çevre izin lisans",
@@ -139297,7 +139257,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Çevre izin lisans» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Çevre izin lisans» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kamulastirma-bedel-davasi",
@@ -139328,7 +139288,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«kamulaştırma bedel davası» araması çoğu zaman genel idare konusunun dar dilimidir: Bedel artırım. Bu sayfa (kamulastirma-bedel-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kamulastirma-nedir). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İptal ve tam yargı davalarında süreler tebliğ/öğrenme tarihine göre çok kısa olabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Bedel artırım» sorusu buraya bırakılmıştır.",
+    "lead": "«kamulaştırma bedel davası» — kısa cevap: Bedel artırım. Tam süreç ve belgeler ana rehberdedir: /bilgi/kamulastirma-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Bedel artırım",
@@ -139561,7 +139521,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Bedel artırım» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Bedel artırım» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "acele-kamulastirma",
@@ -139591,7 +139551,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«acele kamulaştırma» araması çoğu zaman genel idare konusunun dar dilimidir: Acele. Bu sayfa (acele-kamulastirma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kamulastirma-nedir). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Acele» sorusu buraya bırakılmıştır.",
+    "lead": "«acele kamulaştırma» — kısa cevap: Acele. Tam süreç ve belgeler ana rehberdedir: /bilgi/kamulastirma-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Acele",
@@ -139824,7 +139784,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Acele» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Acele» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "idari-para-cezasi-indirim",
@@ -139855,7 +139815,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ktk"
       }
     ],
-    "lead": "«idari para cezası indirim» araması çoğu zaman genel idare konusunun dar dilimidir: Genel IPC indirim. Bu sayfa (idari-para-cezasi-indirim) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-cezasina-itiraz). Mevzuat çerçevesi sıklıkla İYUK (2577) ve İdare hukuku genel ilkeleri çevresindedir. İdari başvuru yollarının tüketilmesi bazı davalarda ön koşuldur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Genel IPC indirim» sorusu buraya bırakılmıştır.",
+    "lead": "«idari para cezası indirim» — kısa cevap: Genel IPC indirim. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-cezasina-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Genel IPC indirim",
@@ -140088,7 +140048,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Genel IPC indirim» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Genel IPC indirim» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "trafik-cezasi-pesin-odeme",
@@ -140119,7 +140079,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=trafik%20cezas%C4%B1"
       }
     ],
-    "lead": "«trafik cezası peşin ödeme» araması çoğu zaman genel trafik konusunun dar dilimidir: Peşin indirim. Bu sayfa (trafik-cezasi-pesin-odeme) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-cezasina-itiraz). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Peşin indirim» sorusu buraya bırakılmıştır.",
+    "lead": "«trafik cezası peşin ödeme» — kısa cevap: Peşin indirim. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-cezasina-itiraz. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Peşin indirim",
@@ -140352,7 +140312,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Peşin indirim» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Peşin indirim» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ehliyet-sinavlari",
@@ -140383,7 +140343,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/tkhk"
       }
     ],
-    "lead": "«ehliyet sınavları» araması çoğu zaman genel trafik konusunun dar dilimidir: Ehliyet sınavları. Bu sayfa (ehliyet-sinavlari) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ehliyet-alma-sartlari). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ehliyet sınavları» sorusu buraya bırakılmıştır.",
+    "lead": "«ehliyet sınavları» — kısa cevap: Ehliyet sınavları. Tam süreç ve belgeler ana rehberdedir: /bilgi/ehliyet-alma-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ehliyet sınavları",
@@ -140616,7 +140576,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Ehliyet sınavları» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ehliyet sınavları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "src-belgesi-nedir",
@@ -140647,7 +140607,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=SRC"
       }
     ],
-    "lead": "«src belgesi» araması çoğu zaman genel trafik konusunun dar dilimidir: SRC belgesi. Bu sayfa (src-belgesi-nedir) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ehliyet-alma-sartlari). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Trafik idari para cezalarına itiraz süreleri tebliğe bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «SRC belgesi» sorusu buraya bırakılmıştır.",
+    "lead": "«src belgesi» — kısa cevap: SRC belgesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/ehliyet-alma-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: SRC belgesi",
@@ -140880,7 +140840,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «SRC belgesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «SRC belgesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "psiko-teknik-belge",
@@ -140911,7 +140871,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "«psikoteknik belge» araması çoğu zaman genel trafik konusunun dar dilimidir: Psikoteknik belge. Bu sayfa (psiko-teknik-belge) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ehliyet-alma-sartlari). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Ceza puanı ve ehliyete el koyma iade şartları ayrı yönetilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Psikoteknik belge» sorusu buraya bırakılmıştır.",
+    "lead": "«psikoteknik belge» — kısa cevap: Psikoteknik belge. Tam süreç ve belgeler ana rehberdedir: /bilgi/ehliyet-alma-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Psikoteknik belge",
@@ -141144,7 +141104,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Psikoteknik belge» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Psikoteknik belge» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "trafik-kazasi-manevvi",
@@ -141175,7 +141135,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ktk"
       }
     ],
-    "lead": "«trafik kazası manevi tazminat» araması çoğu zaman genel trafik konusunun dar dilimidir: Trafik kazası manevi tazminat. Bu sayfa (trafik-kazasi-manevvi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/trafik-kazasi-tazminati). Mevzuat çerçevesi sıklıkla KTK (2918) ve TCK (trafik güvenliği) çevresindedir. Hasar ihbarında poliçe ve şirket prosedür süreleri vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Trafik kazası manevi tazminat» sorusu buraya bırakılmıştır.",
+    "lead": "«trafik kazası manevi tazminat» — kısa cevap: Trafik kazası manevi tazminat. Tam süreç ve belgeler ana rehberdedir: /bilgi/trafik-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Trafik kazası manevi tazminat",
@@ -141408,7 +141368,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Trafik kazası manevi tazminat» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Trafik kazası manevi tazminat» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-kazasi-manevvi",
@@ -141438,7 +141398,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/borclar-genel"
       }
     ],
-    "lead": "«iş kazası manevi tazminat» araması çoğu zaman genel iş konusunun dar dilimidir: Manevi. Bu sayfa (is-kazasi-manevvi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşçilik alacaklarında zamanaşımı kural olarak 5 yıldır (somut kaleme göre kontrol edilmeli). Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Manevi» sorusu buraya bırakılmıştır.",
+    "lead": "«iş kazası manevi tazminat» — kısa cevap: Manevi. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Manevi",
@@ -141671,7 +141631,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Manevi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Manevi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "destek-payi-hesabi",
@@ -141703,7 +141663,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "«destek payı hesabı» araması çoğu zaman genel borçlar konusunun dar dilimidir: Destek payı hesabı. Bu sayfa (destek-payi-hesabi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/temerrut-faizi-nedir). Mevzuat çerçevesi sıklıkla TBK (6098) ve HMK çevresindedir. Temerrüt, ihtar ve şekil şartları somut sözleşmeye göre değişir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Destek payı hesabı» sorusu buraya bırakılmıştır.",
+    "lead": "«destek payı hesabı» — kısa cevap: Destek payı hesabı. Tam süreç ve belgeler ana rehberdedir: /bilgi/temerrut-faizi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Destek payı hesabı",
@@ -141936,7 +141896,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Destek payı hesabı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Destek payı hesabı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "surekli-is-goremezlik",
@@ -141968,7 +141928,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/isg"
       }
     ],
-    "lead": "«sürekli iş göremezlik» araması çoğu zaman genel iş konusunun dar dilimidir: Sürekli iş göremezlik. Bu sayfa (surekli-is-goremezlik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/ibraname-nedir). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Sürekli iş göremezlik» sorusu buraya bırakılmıştır.",
+    "lead": "«sürekli iş göremezlik» — kısa cevap: Sürekli iş göremezlik. Tam süreç ve belgeler ana rehberdedir: /bilgi/ibraname-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Sürekli iş göremezlik",
@@ -142201,7 +142161,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Sürekli iş göremezlik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Sürekli iş göremezlik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "gecici-is-goremezlik",
@@ -142233,7 +142193,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=i%C5%9F%20g%C3%B6remezlik"
       }
     ],
-    "lead": "«geçici iş göremezlik» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Geçici iş göremezlik. Bu sayfa (gecici-is-goremezlik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bagkur-prim-borcu). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Geçici iş göremezlik» sorusu buraya bırakılmıştır.",
+    "lead": "«geçici iş göremezlik» — kısa cevap: Geçici iş göremezlik. Tam süreç ve belgeler ana rehberdedir: /bilgi/bagkur-prim-borcu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Geçici iş göremezlik",
@@ -142466,7 +142426,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Geçici iş göremezlik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Geçici iş göremezlik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "is-kazasi-bildirim-suresi",
@@ -142497,7 +142457,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«iş kazası bildirim süresi» araması çoğu zaman genel iş konusunun dar dilimidir: Süre. Bu sayfa (is-kazasi-bildirim-suresi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İş kazası bildirimi işveren için kısa yasal süreye tabidir; gecikme idari ve hukuki sonuç doğurur. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Süre» sorusu buraya bırakılmıştır.",
+    "lead": "«iş kazası bildirim süresi» — kısa cevap: Süre. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Süre",
@@ -142730,7 +142690,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Süre» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Süre» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "sgk-rucu-davasi",
@@ -142761,7 +142721,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/isg"
       }
     ],
-    "lead": "«SGK rücu» araması çoğu zaman genel iş konusunun dar dilimidir: SGK rücu. Bu sayfa (sgk-rucu-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/is-kazasi-tazminati). Mevzuat çerçevesi sıklıkla 4857 sayılı İş Kanunu ve 6356 sayılı Sendikalar Kanunu çevresindedir. İşe iade ve birçok işçilik alacağında arabuluculuk dava şartıdır; süreler tebliğ/fesih tarihine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «SGK rücu» sorusu buraya bırakılmıştır.",
+    "lead": "«SGK rücu» — kısa cevap: SGK rücu. Tam süreç ve belgeler ana rehberdedir: /bilgi/is-kazasi-tazminati. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: SGK rücu",
@@ -142994,7 +142954,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «SGK rücu» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «SGK rücu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "prim-iadesi-sgk",
@@ -143025,7 +142985,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=prim"
       }
     ],
-    "lead": "«sgk prim iadesi» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: SGK prim iadesi. Bu sayfa (prim-iadesi-sgk) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/bagkur-prim-borcu). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. Rapor parası ve maluliyet süreçleri sağlık kurulu + SGK incelemesine bağlıdır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «SGK prim iadesi» sorusu buraya bırakılmıştır.",
+    "lead": "«sgk prim iadesi» — kısa cevap: SGK prim iadesi. Tam süreç ve belgeler ana rehberdedir: /bilgi/bagkur-prim-borcu. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: SGK prim iadesi",
@@ -143258,7 +143218,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «SGK prim iadesi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «SGK prim iadesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "yurt-disi-borclanma",
@@ -143288,7 +143248,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=bor%C3%A7lanma"
       }
     ],
-    "lead": "«yurt dışı borçlanma» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: Yurt dışı. Bu sayfa (yurt-disi-borclanma) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Yurt dışı» sorusu buraya bırakılmıştır.",
+    "lead": "«yurt dışı borçlanma» — kısa cevap: Yurt dışı. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Yurt dışı",
@@ -143521,7 +143481,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Yurt dışı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Yurt dışı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "intibak-emeklilik",
@@ -143551,7 +143511,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=intibak"
       }
     ],
-    "lead": "«emekli intibak» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: İntibak. Bu sayfa (intibak-emeklilik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İntibak» sorusu buraya bırakılmıştır.",
+    "lead": "«emekli intibak» — kısa cevap: İntibak. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İntibak",
@@ -143784,7 +143744,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «İntibak» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İntibak» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "emekli-ikramiyesi",
@@ -143814,7 +143774,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/dmk"
       }
     ],
-    "lead": "«emekli ikramiyesi» araması çoğu zaman genel sosyal güvenlik konusunun dar dilimidir: İkramiye. Bu sayfa (emekli-ikramiyesi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/emeklilik-sartlari). Mevzuat çerçevesi sıklıkla SSGSSK (5510) ve işsizlik sigortası mevzuatı çevresindedir. İşsizlik ödeneğinde başvuru süresi ve prim günü şartları aranır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İkramiye» sorusu buraya bırakılmıştır.",
+    "lead": "«emekli ikramiyesi» — kısa cevap: İkramiye. Tam süreç ve belgeler ana rehberdedir: /bilgi/emeklilik-sartlari. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İkramiye",
@@ -144047,7 +144007,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «İkramiye» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İkramiye» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "memur-maas-haczi",
@@ -144079,7 +144039,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/dmk"
       }
     ],
-    "lead": "«memur maaşına haciz» araması çoğu zaman genel icra konusunun dar dilimidir: Memur maaşına haciz. Bu sayfa (memur-maas-haczi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Memur maaşına haciz» sorusu buraya bırakılmıştır.",
+    "lead": "«memur maaşına haciz» — kısa cevap: Memur maaşına haciz. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Memur maaşına haciz",
@@ -144312,7 +144272,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «Memur maaşına haciz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Memur maaşına haciz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "emekli-maas-haczi",
@@ -144344,7 +144304,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/ssgssk"
       }
     ],
-    "lead": "«emekli maaşına haciz» araması çoğu zaman genel icra konusunun dar dilimidir: Emekli maaşına haciz. Bu sayfa (emekli-maas-haczi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Emekli maaşına haciz» sorusu buraya bırakılmıştır.",
+    "lead": "«emekli maaşına haciz» — kısa cevap: Emekli maaşına haciz. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Emekli maaşına haciz",
@@ -144577,7 +144537,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Emekli maaşına haciz» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Emekli maaşına haciz» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "kidem-tazminati-haczi",
@@ -144608,7 +144568,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«kıdem tazminatı haczi» araması çoğu zaman genel icra konusunun dar dilimidir: Kıdem alacağının haczedilip haczedilemeyeceği. Bu sayfa (kidem-tazminati-haczi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Ödeme emrine itiraz süresi tebliğden itibaren kural olarak 7 gündür. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Kıdem alacağının haczedilip haczedilemeyeceği» sorusu buraya bırakılmıştır.",
+    "lead": "«kıdem tazminatı haczi» — kısa cevap: Kıdem alacağının haczedilip haczedilemeyeceği. Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kıdem alacağının haczedilip haczedilemeyeceği",
@@ -144841,7 +144801,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Kıdem alacağının haczedilip haczedilemeyeceği» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Kıdem alacağının haczedilip haczedilemeyeceği» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "nafaka-alacaklisi-oncelik",
@@ -144873,7 +144833,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«nafaka öncelik icra» araması çoğu zaman genel icra konusunun dar dilimidir: İcra sırası imtiyazı. Bu sayfa (nafaka-alacaklisi-oncelik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/nafaka-davasi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İcra sırası imtiyazı» sorusu buraya bırakılmıştır.",
+    "lead": "«nafaka öncelik icra» — kısa cevap: İcra sırası imtiyazı. Tam süreç ve belgeler ana rehberdedir: /bilgi/nafaka-davasi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İcra sırası imtiyazı",
@@ -145106,7 +145066,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İcra sırası imtiyazı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İcra sırası imtiyazı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "iscilik-alacagi-oncelik",
@@ -145138,7 +145098,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/is-kanunu"
       }
     ],
-    "lead": "«işçilik alacağı öncelik» araması çoğu zaman genel icra konusunun dar dilimidir: İcra/iflasta imtiyaz sırası. Bu sayfa (iscilik-alacagi-oncelik) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/kidem-tazminati-nasil-alinir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İcra/iflasta imtiyaz sırası» sorusu buraya bırakılmıştır.",
+    "lead": "«işçilik alacağı öncelik» — kısa cevap: İcra/iflasta imtiyaz sırası. Tam süreç ve belgeler ana rehberdedir: /bilgi/kidem-tazminati-nasil-alinir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İcra/iflasta imtiyaz sırası",
@@ -145371,7 +145331,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "shield",
-    "keyInsight": "Bu sayfa «İcra/iflasta imtiyaz sırası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İcra/iflasta imtiyaz sırası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "rehinli-alacak",
@@ -145403,7 +145363,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/esya-hukuku"
       }
     ],
-    "lead": "«rehinli alacak» araması çoğu zaman genel icra konusunun dar dilimidir: Rehinli alacak sırası. Bu sayfa (rehinli-alacak) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Rehinli alacak sırası» sorusu buraya bırakılmıştır.",
+    "lead": "«rehinli alacak» — kısa cevap: Rehinli alacak sırası. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Rehinli alacak sırası",
@@ -145636,7 +145596,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "fork",
-    "keyInsight": "Bu sayfa «Rehinli alacak sırası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Rehinli alacak sırası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "teminat-hesabi-icra",
@@ -145668,7 +145628,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«icra teminat» araması çoğu zaman genel icra konusunun dar dilimidir: İcra teminatı. Bu sayfa (teminat-hesabi-icra) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Ödeme emrine itiraz süresi tebliğden itibaren kural olarak 7 gündür. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İcra teminatı» sorusu buraya bırakılmıştır.",
+    "lead": "«icra teminat» — kısa cevap: İcra teminatı. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İcra teminatı",
@@ -145901,7 +145861,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İcra teminatı» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İcra teminatı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "ihale-feshi-davasi",
@@ -145933,7 +145893,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«ihalenin feshi» araması çoğu zaman genel icra konusunun dar dilimidir: İhalenin feshi. Bu sayfa (ihale-feshi-davasi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «İhalenin feshi» sorusu buraya bırakılmıştır.",
+    "lead": "«ihalenin feshi» — kısa cevap: İhalenin feshi. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: İhalenin feshi",
@@ -146166,7 +146126,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «İhalenin feshi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «İhalenin feshi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "satis-bedeli-paylasim",
@@ -146197,7 +146157,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=sat%C4%B1%C5%9F"
       }
     ],
-    "lead": "«icra satış bedeli paylaşım» araması çoğu zaman genel icra konusunun dar dilimidir: Satış parası. Bu sayfa (satis-bedeli-paylasim) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. İcra şikâyetleri için de kısa (çoğu halde 7 gün) süreler vardır. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Satış parası» sorusu buraya bırakılmıştır.",
+    "lead": "«icra satış bedeli paylaşım» — kısa cevap: Satış parası. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Satış parası",
@@ -146430,7 +146390,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "stack",
-    "keyInsight": "Bu sayfa «Satış parası» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Satış parası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "borclu-olmadiginin-tespiti",
@@ -146461,7 +146421,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "«borçlu olmadığının tespiti» araması çoğu zaman genel icra konusunun dar dilimidir: Menfi tespit eşanlam. Bu sayfa (borclu-olmadiginin-tespiti) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Menfi tespit eşanlam» sorusu buraya bırakılmıştır.",
+    "lead": "«borçlu olmadığının tespiti» — kısa cevap: Menfi tespit eşanlam. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Menfi tespit eşanlam",
@@ -146694,7 +146654,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "process",
-    "keyInsight": "Bu sayfa «Menfi tespit eşanlam» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Menfi tespit eşanlam» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "icra-taahudu",
@@ -146725,7 +146685,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=taahh%C3%BCt"
       }
     ],
-    "lead": "«icra taahhüdü» araması çoğu zaman genel icra konusunun dar dilimidir: Ödeme taahhüdü. Bu sayfa (icra-taahudu) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Ödeme taahhüdü» sorusu buraya bırakılmıştır.",
+    "lead": "«icra taahhüdü» — kısa cevap: Ödeme taahhüdü. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Ödeme taahhüdü",
@@ -146958,7 +146918,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "clock",
-    "keyInsight": "Bu sayfa «Ödeme taahhüdü» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Ödeme taahhüdü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "tazyik-hapsi",
@@ -146990,7 +146950,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "«tazyik hapsi» araması çoğu zaman genel icra konusunun dar dilimidir: Tazyik. Bu sayfa (tazyik-hapsi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Tazyik» sorusu buraya bırakılmıştır.",
+    "lead": "«tazyik hapsi» — kısa cevap: Tazyik. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Tazyik",
@@ -147223,7 +147183,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Tazyik» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Tazyik» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
     "slug": "disciplin-hapsi",
@@ -147255,7 +147215,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "«disiplin hapsi» araması çoğu zaman genel icra konusunun dar dilimidir: Disiplin hapsi. Bu sayfa (disciplin-hapsi) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (/bilgi/icra-takibi-nedir). Mevzuat çerçevesi sıklıkla 2004 sayılı İİK ve HMK çevresindedir. Haciz, satış ve sıra cetveli aşamalarında süre kaçırma hak kaybına yol açabilir. Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «Disiplin hapsi» sorusu buraya bırakılmıştır.",
+    "lead": "«disiplin hapsi» — kısa cevap: Disiplin hapsi. Tam süreç ve belgeler ana rehberdedir: /bilgi/icra-takibi-nedir. Aşağıda bu dilime özel notlar vardır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Disiplin hapsi",
@@ -147488,7 +147448,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
     "visual": "scale",
-    "keyInsight": "Bu sayfa «Disiplin hapsi» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın."
+    "keyInsight": "Bu sayfa sadece «Disiplin hapsi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   }
 ];
 

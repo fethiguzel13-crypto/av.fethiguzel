@@ -52,10 +52,10 @@ export function applyProfessionalLayer(t, body, role = 'standard', meta = {}) {
 
   const keyInsight =
     role === 'bridge'
-      ? `Özet ile yetinmeyin: resmî madde metnini fıkra fıkra okuyun; çelişirse madde esastır.`
+      ? `Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır.`
       : role === 'spoke'
-        ? `Bu sayfa «${angle}» dilimine odaklanır; süre ve feragat riskinde ana rehberi atlamayın.`
-        : `«${k0}» dosyasında merci + süre + belge üçlüsü birlikte doğru kurulmalıdır; tek başına tanım yetmez.`;
+        ? `Bu sayfa sadece «${angle}» içindir. Süre veya feragat riski varsa ana rehbere gidin.`
+        : `Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez.`;
 
   // —— Examples (worked) ——
   const examples = [];

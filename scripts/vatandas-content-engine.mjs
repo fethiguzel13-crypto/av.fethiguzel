@@ -820,17 +820,14 @@ export function buildDeepBody(t) {
   const merciPick = pick(bank.merciler, seed, 3);
   const adimlar = bank.adimlar || [];
 
-  // --- LEAD ---
+  // --- LEAD (kısa hap bilgi — detay aşağıda) ---
   let lead;
   if (fact?.ozet) {
-    lead = `${fact.ozet} Bu ana rehber «${k0}», «${k1}» ve «${k2}» aramalarına yönelik uçtan uca bilgilendirmedir: tanım, yasal çerçeve, muhataplar, belgeler, adım adım süreç, süre riskleri ve sık hatalar bir arada anlatılır. Metin bağlayıcı hukuki tavsiye yerine geçmez; tebliğ tarihi, güncel mevzuat ve somut dosya avukat değerlendirmesine tabidir. Madde metni ve şerh için portal mevzuat bankası (/mevzuat, /ara) kullanılmalıdır.`;
+    // Hap: en fazla ~2–3 cümle; uzun şerh paragrafa gitmesin
+    const short = fact.ozet.length > 280 ? fact.ozet.slice(0, 277).trim() + '…' : fact.ozet;
+    lead = `${short} Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.`;
   } else {
-    const leadOpeners = [
-      `${topicClean}; ${cat.toLocaleLowerCase('tr-TR')} alanında hem tanım hem de «ne yapmalıyım?» sorusunu birlikte taşıyan ana başvuru konularından biridir.`,
-      `«${k0}» araması çoğu kullanıcıda tek cümlelik açıklama ile yetinmez; merci, süre, belge ve olası risk de istenir.`,
-      `${topicClean} dosyasında doğru merci ve doğru süre, sonucun kendisi kadar belirleyicidir; yanlış kapı veya gecikme hak kaybına yol açabilir.`,
-    ];
-    lead = `${pick(leadOpeners, seed, 0)} İlgili çerçeve sıklıkla ${kanunStr} hükümleriyle çizilir; başvuru mercileri arasında ${merciPick}, ${pick(bank.merciler, seed, 1)} ve ${pick(bank.merciler, seed, 2)} öne çıkar. Aşağıda «${k0}» odaklı tanım, şartlar, belgeler, süreç, süreler, riskler, sık sorular ve portal içi madde/hesaplama bağlantıları sade ama ayrıntılı biçimde verilmiştir. Bu metin genel bilgilendirmedir; somut olayda tebliğ/öğrenme tarihi, yürürlükteki mevzuat ve gerekiyorsa avukat görüşü esastır.`;
+    lead = `${topicClean}: ${cat.toLocaleLowerCase('tr-TR')} alanında sık sorulan bir konudur. Önce doğru mercie ve süreye bakın; belgeyi toplayın, sonra yazılı başvurun. Detaylar aşağıdadır.`;
   }
 
   const sections = [];
@@ -888,13 +885,14 @@ export function buildDeepBody(t) {
       ]
     : adimlar;
 
+  // Adımlar ASLA tek paragrafta (1)(2)(3) yan yana yazılmaz — UI dikey liste gösterir.
+  // Burada yalnızca kısa giriş; numaralı adımlar steps[] + bullets olarak gider.
   sections.push(
-    s('Süreç nasıl işler? Adım adım', [
-      `Tipik akış: ${processSteps.map((a, i) => `(${i + 1}) ${a}`).join(' ')}`,
-      `Elektronik kanallar hız kazandırır; ancak süre hesabı hâlâ tebliğ/öğrenme tarihine bağlıdır. «${k0}» dosyasında ekran görüntüsü ile resmî kayıt (UYAP, e-Devlet, kurum yazısı) birlikte saklanmalıdır.`,
-      `Paralel yollar (idari itiraz + yargı, arabuluculuk + dava hazırlığı, ödeme + itiraz) stratejik seçimdir. Bir yolu seçmek diğerini her zaman kapatmaz; bazen süreleri de etkilemez. Somut mevzuat kontrolü şarttır.`,
-      `Harç, avans, arabuluculuk ücreti, icra masrafı ve vekâlet ücreti dosya türüne göre değişir. «Bedava kesin sonuç» vaadi gerçekçi değildir; masraf listesini peşinen kabaca çıkarmak planlamayı kolaylaştırır.`,
-    ], processSteps.slice(0, 5))
+    s('Süreç nasıl işler?', [
+      'Aşağıdaki adımları sırayla izleyin. Bir adımı bitirmeden sonrakine geçmeyin.',
+      'e-Devlet veya UYAP işleri hızlandırır. Süre yine de tebliğ veya öğrenme tarihine göre hesaplanır.',
+      'Ekran görüntüsü ile resmî kaydı (barkodlu belge, tutanak) birlikte saklayın.',
+    ], processSteps.map((step, i) => `${i + 1}. ${step}`))
   );
 
   // 5. Belgeler
@@ -1038,8 +1036,8 @@ export function buildSpokeBody(t, meta) {
     .join(' ');
 
   const lead = fact?.ozet
-    ? `${fact.ozet} Bu spoke sayfa yalnızca «${angle}» niyetine odaklanır; tüm süreci yeniden anlatmaz. Hak kazanma, merciler, belgeler, süreler ve adım adım yol haritası ana rehberdedir: ${pillarHref}. «${k0}», «${k1}» ve «${k2}» anahtarları bilerek dar tutulmuştur. Metin genel bilgilendirmedir; bağlayıcı tavsiye ve sonuç vaadi içermez. Tebliğ tarihi, güncel mevzuat ve somut delil dosyaya göredir.`
-    : `«${k0}» araması çoğu zaman genel ${cat.toLocaleLowerCase('tr-TR')} konusunun dar dilimidir: ${angle}. Bu sayfa (${t.slug}) yalnızca o dilimi açar; sürecin tamamı ana rehberdedir (${pillarHref}). Mevzuat çerçevesi sıklıkla ${kanunShort} çevresindedir. ${sure} Arama yamyamlığını azaltmak için genel «nasıl yapılır?» sorusu pillar’a, dar «${angle}» sorusu buraya bırakılmıştır.`;
+    ? `${fact.ozet.length > 260 ? fact.ozet.slice(0, 257).trim() + '…' : fact.ozet} Bu sayfa yalnızca «${angle}» sorusuna cevap verir. Tam süreç: ${pillarHref}`
+    : `«${k0}» — kısa cevap: ${angle}. Tam süreç ve belgeler ana rehberdedir: ${pillarHref}. Aşağıda bu dilime özel notlar vardır.`;
 
   const sections = [
     s(`Bu sayfanın odağı: ${angle}`, [
