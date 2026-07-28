@@ -74,6 +74,32 @@ const rows = articles.map((a) => {
   };
 });
 
+// Yapısal zorunluluklar (hap bilgi + adımlar + görsel iskelet)
+const structureFails = [];
+for (const a of articles) {
+  const problems = [];
+  if (!a.keyInsight || String(a.keyInsight).length < 12) problems.push('no-keyInsight');
+  if (!a.steps || a.steps.length < 4) problems.push('steps<4');
+  if (!a.examples || a.examples.length < 1) problems.push('no-examples');
+  if (!a.scenarios || a.scenarios.length < 1) problems.push('no-scenarios');
+  if (!a.table || !a.table.rows?.length) problems.push('no-table');
+  if (!a.checklist || a.checklist.length < 4) problems.push('no-checklist');
+  if (!a.visual) problems.push('no-visual');
+  if (!a.lead || String(a.lead).length < 40) problems.push('short-lead');
+  // yan yana (1)(2)(3) akış yasağı
+  for (const s of a.sections || []) {
+    for (const p of s.paragraphs || []) {
+      if (/\(\s*1\s*\).{0,40}\(\s*2\s*\).{0,40}\(\s*3\s*\)/.test(p)) {
+        problems.push('inline-numbered-flow');
+        break;
+      }
+    }
+  }
+  if (problems.length) {
+    structureFails.push({ slug: a.slug, role: a.role || 'standard', problems });
+  }
+}
+
 const fail = rows.filter((r) => !r.ok);
 const byRole = {};
 for (const r of rows) {
@@ -97,7 +123,8 @@ const report = {
   generatedAt: new Date().toISOString(),
   total: rows.length,
   thresholds: MIN,
-  failCount: fail.length,
+  failCount: fail.length + structureFails.length,
+  structureFailCount: structureFails.length,
   byRole: Object.fromEntries(
     Object.entries(byRole).map(([k, v]) => [
       k,
@@ -116,6 +143,7 @@ const report = {
     words: r.words,
     min: r.min,
   })),
+  structureFailures: structureFails.slice(0, 50),
   all: rows,
 };
 
@@ -142,16 +170,24 @@ for (const [role, v] of Object.entries(report.byRole)) {
   );
 }
 console.log('failCount', fail.length);
+console.log('structureFailCount', structureFails.length);
 console.log('inventory', latestCsv);
 
-if (fail.length) {
-  console.error('DEPTH GATE FAILED — thin pages:');
-  for (const f of fail.slice(0, 40)) {
-    console.error(`  ${f.words}/${f.min} ${f.role} ${f.slug}`);
+if (fail.length || structureFails.length) {
+  if (fail.length) {
+    console.error('DEPTH GATE FAILED — thin pages:');
+    for (const f of fail.slice(0, 40)) {
+      console.error(`  ${f.words}/${f.min} ${f.role} ${f.slug}`);
+    }
   }
-  if (fail.length > 40) console.error(`  ... +${fail.length - 40} more`);
+  if (structureFails.length) {
+    console.error('STRUCTURE GATE FAILED — missing hap/steps/visual:');
+    for (const f of structureFails.slice(0, 40)) {
+      console.error(`  ${f.role} ${f.slug}: ${f.problems.join(', ')}`);
+    }
+  }
   process.exit(1);
 }
 
-console.log('DEPTH GATE OK — all', rows.length, 'pages meet thresholds');
+console.log('DEPTH+STRUCTURE GATE OK — all', rows.length, 'pages complete');
 process.exit(0);

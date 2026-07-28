@@ -451,14 +451,37 @@ export default function VatandasRehberArticle({
         </div>
       )}
 
-      {/* —— 2. GÖRSEL —— */}
-      <MiniVisual type={article.visual} />
-      {flowSteps.length > 0 && <ProcessGraphic steps={flowSteps} />}
-
-      {/* —— 3. ADIMLAR (dikey, yan yana değil) —— */}
-      {flowSteps.length > 0 && (
-        <VerticalTimeline steps={flowSteps} title="Ne yapmalısınız? (sırayla)" />
+      {/* —— 2. GÖRSEL (her sayfada) —— */}
+      <MiniVisual type={article.visual || 'process'} />
+      {flowSteps.length > 0 ? (
+        <ProcessGraphic steps={flowSteps} />
+      ) : (
+        <ProcessGraphic
+          steps={[
+            'Tarihi yazın',
+            'Belge toplayın',
+            'Merciyi seçin',
+            'Yazılı başvurun',
+            'Sonucu takip edin',
+          ]}
+        />
       )}
+
+      {/* —— 3. ADIMLAR — her zaman dikey —— */}
+      <VerticalTimeline
+        steps={
+          flowSteps.length > 0
+            ? flowSteps
+            : [
+                'Tebliğ veya olay tarihini yazın',
+                'Belgeleri toplayın',
+                'Doğru mercie karar verin',
+                'Yazılı başvuruyu yapın',
+                'Sonucu takip edin',
+              ]
+        }
+        title="Ne yapmalısınız? (sırayla, alt alta)"
+      />
 
       {/* —— 4. TEMEL DETAY —— */}
       <div className="mb-2">

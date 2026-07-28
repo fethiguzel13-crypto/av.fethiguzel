@@ -32,7 +32,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama"
       }
     ],
-    "lead": "Emlak vergisi, Türkiye’de taşınmaz (konut, işyeri, arsa) malikinin ilgili belediyeye ödemekle yükümlü olduğu yıllık bir vergidir. Matrah vergi değeri üzerinden hesaplanır; büyükşehir ve diğer belediyelerde oranlar ile muafiyet/indirim şartları (engellilik, şehit yakını, küçük… Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
+    "lead": "Emlak vergisi, Türkiye’de taşınmaz (konut, işyeri, arsa) malikinin ilgili belediyeye ödemekle yükümlü olduğu yıllık bir vergidir. Matrah vergi değeri üzerinden hesaplanır; büyükşehir ve diğer belediyelerde oranlar ile muafiyet/indirim şartları (engellilik, şehit yakını, küçük… Kısa özet budur.",
     "sections": [
       {
         "heading": "Emlak vergisi nedir? Nasıl hesaplanır ve ödenir: hukuki çerçeve ve arama niyeti",
@@ -182,7 +182,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«emlak vergisi nedir»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -318,7 +318,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -501,7 +501,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«veraset ilamı nasıl alınır»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -671,7 +671,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=trafik"
       }
     ],
-    "lead": "Trafik idari para cezasına itiraz, tebliğden itibaren yasal süre içinde yetkili mercie (çoğu halde sulh ceza hâkimliği veya ilgili usul) yapılır. EDS/HGS ve e-Devlet sorguları cezanın dayanağını görmek için kullanılır; peşin ödeme indirimi ile itiraz stratejisi birlikte değerl… Kısa özet budur. Aşağıda adımlar, belgeler ve riskler sırayla anlatılır.",
+    "lead": "Trafik idari para cezasına itiraz, tebliğden itibaren yasal süre içinde yetkili mercie (çoğu halde sulh ceza hâkimliği veya ilgili usul) yapılır. EDS/HGS ve e-Devlet sorguları cezanın dayanağını görmek için kullanılır; peşin ödeme indirimi ile itiraz stratejisi birlikte değerl… Kısa özet budur.",
     "sections": [
       {
         "heading": "Trafik cezasına itiraz nasıl yapılır: hukuki çerçeve ve arama niyeti",
@@ -819,7 +819,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«trafik cezasına itiraz»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -1073,7 +1073,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Yanlış merci",
           "Dava süresini kaçırmak",
           "Süre kaçırma",
-          "Yanlış merci",
           "Eksik belge"
         ]
       },
@@ -1136,7 +1135,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«idari dava nasıl açılır»: İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
+      "İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
       "İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
       "İptal ve/veya tam yargı taleplerini netleştirin.",
       "İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
@@ -1388,7 +1387,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "Süre kaçırma",
           "Harç-avans eksikliği",
-          "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
         ]
@@ -1452,7 +1450,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«hukuk davası nasıl açılır»: Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+      "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
       "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
       "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
       "Tebligatları UYAP/e-tebligattan takip edin.",
@@ -1631,8 +1629,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "engelli aracı",
-          "Engelli aracı",
-          "engelli araci nasil alinir",
           "engelli araci nasil alinir"
         ]
       },
@@ -1856,7 +1852,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Engelli aracı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -2038,7 +2034,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«boşanma davası nasıl açılır»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -2174,7 +2170,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -2356,7 +2352,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«nafaka davası»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -2674,7 +2670,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«icra takibi nedir»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -2810,7 +2806,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -3197,7 +3193,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "Yanlış görev/yetki",
           "Süre kaçırma",
-          "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
         ]
@@ -3261,7 +3256,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«arabuluculuk nedir»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -3579,7 +3574,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«kira artış oranı»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -3896,7 +3891,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«tapu devri nasıl yapılır»: TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
+      "TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
       "Sözleşme ve harç/ödeme belgelerini hazırlayın.",
       "Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
       "Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
@@ -4147,7 +4142,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "Mühür sökme",
           "Süre kaçırma",
-          "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
         ]
@@ -4211,7 +4205,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«iskan belgesi nedir»: Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin.",
+      "Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin.",
       "Ruhsat ve imar durumunu kontrol edin.",
       "İdari itiraz veya uzlaşma yollarını değerlendirin.",
       "İdare mahkemesinde iptal/YD düşünün.",
@@ -4528,7 +4522,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«tüketici hakem heyeti»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -4845,7 +4839,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«suç duyurusu nasıl yapılır»: Olay ve delilleri tarih sırasıyla kaydedin.",
+      "Olay ve delilleri tarih sırasıyla kaydedin.",
       "Şikâyet/suç duyurusunu savcılık veya e-şikâyet ile yapın.",
       "İfade/gözaltında müdafi ve susma hakkını kullanın.",
       "Soruşturma sonucunu (kovuşturmaya yer yok / iddianame) takip edin.",
@@ -5159,7 +5153,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«6284 koruma kararı»: Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
+      "Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
       "Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
       "Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
       "Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
@@ -5294,7 +5288,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -5474,7 +5468,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«velayet davası»: Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
+      "Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
       "Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
       "Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
       "Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
@@ -5790,7 +5784,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«iş kazası tazminatı»: Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+      "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
       "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
       "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
       "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
@@ -6107,7 +6101,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«kıdem tazminatı nasıl alınır»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -6288,7 +6282,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "e-devlet veraset ilamı",
           "e-Devlet adımları",
-          "mirasçılık belgesi e-devlet",
           "mirasçılık belgesi e-devlet"
         ]
       },
@@ -6899,7 +6892,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "Yanlış görev/yetki",
           "Süre kaçırma",
-          "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
         ]
@@ -6963,7 +6955,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«tebligat usulsüzlüğü»: Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+      "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
       "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
       "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
       "Tebligatları UYAP/e-tebligattan takip edin.",
@@ -7277,7 +7269,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«ihtiyati tedbir nedir»: Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+      "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
       "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
       "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
       "Tebligatları UYAP/e-tebligattan takip edin.",
@@ -7524,7 +7516,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "Yanlış muafiyet kanalı",
-          "Yanlış muafiyet kanalı",
           "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
@@ -7589,7 +7580,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«engelli raporu nasıl alınır»: Sağlık kurulu raporu alın/güncelleyin.",
+      "Sağlık kurulu raporu alın/güncelleyin.",
       "Hak türünü (araç, aylık, vergi) seçin.",
       "İlgili kuruma başvurun.",
       "Sonucu takip edin.",
@@ -7769,7 +7760,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "vergi borcu yapılandırma",
           "Yapılandırma",
-          "vergi affı",
           "vergi affı"
         ]
       },
@@ -8111,7 +8101,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Yanlış merci",
           "Dava süresini kaçırmak",
           "Süre kaçırma",
-          "Yanlış merci",
           "Eksik belge"
         ]
       },
@@ -8174,7 +8163,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«kamulaştırma nedir»: İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
+      "İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
       "İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
       "İptal ve/veya tam yargı taleplerini netleştirin.",
       "İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
@@ -8354,7 +8343,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kaçak yapı cezası",
           "Kaçak yapı",
-          "ruhsatsız yapı",
           "ruhsatsız yapı"
         ]
       },
@@ -8623,8 +8611,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "abonelik iptali",
-          "Abonelik iptali",
-          "internet abonelik iptali",
           "internet abonelik iptali"
         ]
       },
@@ -9028,7 +9014,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«ehliyet alma şartları»: Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın.",
+      "Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın.",
       "İtiraz mercini ve süreyi tespit edin.",
       "Hasarda ihbar + eksper sürecini başlatın.",
       "Red halinde tahkim/dava seçeneklerini değerlendirin.",
@@ -9208,8 +9194,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "nüfus kayıt örneği",
-          "Nüfus kayıt örneği",
-          "nufus kayit ornegi",
           "nufus kayit ornegi"
         ]
       },
@@ -9479,7 +9463,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra dosyası sorgulama",
           "UYAP sorgu",
-          "UYAP icra",
           "UYAP icra"
         ]
       },
@@ -9749,7 +9732,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "senet icra takibi",
           "Senet/bono icrası",
-          "bono icra",
           "bono icra"
         ]
       },
@@ -10155,7 +10137,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«iş sözleşmesi feshi»: Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+      "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
       "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
       "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
       "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
@@ -10335,7 +10317,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "gayrimenkul satış vaadi",
           "Satış vaadi",
-          "satış vaadi sözleşmesi",
           "satış vaadi sözleşmesi"
         ]
       },
@@ -10741,7 +10722,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«kiracı nasıl çıkarılır»: Sözleşme, ödemeler ve yazışmaları dosyalayın.",
+      "Sözleşme, ödemeler ve yazışmaları dosyalayın.",
       "Artış oranı veya tahliye sebebini yasal dayanakla netleştirin.",
       "Gerekirse noter ihtarı çekin; tebliğ alın.",
       "Kapsamdaysa arabuluculuğa gidin.",
@@ -10922,7 +10903,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kira depozitosu iadesi",
           "Depozito iadesi",
-          "teminat iadesi kira",
           "teminat iadesi kira"
         ]
       },
@@ -11192,7 +11172,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ayıplı mal iade",
           "Ayıplı mal",
-          "ayıplı mal hakları",
           "ayıplı mal hakları"
         ]
       },
@@ -11869,7 +11848,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«işe iade davası»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -12144,7 +12123,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «İhbar (bildirim) tazminatı — kıdemden ayrı kalem» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-alinir).",
+      "Sorunuzun gerçekten «İhbar (bildirim) tazminatı — kıdemden ayrı kalem» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nas…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (puantaj/mesai kayıtları, arabuluculuk son tutanağı, iş sözleşmesi, bordro).",
       "Doğru mercie karar verin (İŞKUR); dava şartını atlamayın.",
@@ -12455,7 +12434,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«fazla mesai ücreti»: Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+      "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
       "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
       "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
       "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
@@ -12768,7 +12747,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«işsizlik maaşı şartları»: Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+      "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
       "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
       "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
       "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
@@ -12948,7 +12927,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "SGK hizmet dökümü",
           "Hizmet dökümü",
-          "e-devlet hizmet dökümü",
           "e-devlet hizmet dökümü"
         ]
       },
@@ -13354,7 +13332,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«emeklilik şartları»: e-Devletten hizmet ve prim dökümünü alın.",
+      "e-Devletten hizmet ve prim dökümünü alın.",
       "Hak türünü (emeklilik, işsizlik, malul, borçlanma) netleştirin.",
       "Gerekli belgeleri tamamlayıp başvurun.",
       "Sonucu takip edin; rette itiraz/dava yollarını değerlendirin.",
@@ -13534,7 +13512,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "malulen emeklilik",
           "Maluliyet",
-          "maluliyet aylığı",
           "maluliyet aylığı"
         ]
       },
@@ -13804,7 +13781,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "saklı pay nedir",
           "Saklı pay",
-          "saklı pay oranları",
           "saklı pay oranları"
         ]
       },
@@ -14074,7 +14050,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "vasiyetname nasıl yapılır",
           "Vasiyet yapma",
-          "noter vasiyet",
           "noter vasiyet"
         ]
       },
@@ -14344,7 +14319,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "mirasın reddi",
           "Red",
-          "miras reddi süresi",
           "miras reddi süresi"
         ]
       },
@@ -14750,7 +14724,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«izale-i şuyu»: TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
+      "TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
       "Sözleşme ve harç/ödeme belgelerini hazırlayın.",
       "Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
       "Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
@@ -14929,9 +14903,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "tapu iptal tescil",
-          "Tapu iptal tescil",
-          "tapu iptal tescil",
           "tapu iptal tescil"
         ]
       },
@@ -15337,7 +15308,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«aidat borcu»: TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
+      "TAKBİS/e-Devletten tapu ve şerhleri kontrol edin.",
       "Sözleşme ve harç/ödeme belgelerini hazırlayın.",
       "Tapu randevusu alın; DASK ve kimlikleri tamamlayın.",
       "Devir sonrası belediye/emlak vergisi bildirimini unutmayın.",
@@ -15517,7 +15488,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ihtiyati haciz",
           "İhtiyati haciz",
-          "ihtiyati haciz nasıl konulur",
           "ihtiyati haciz nasıl konulur"
         ]
       },
@@ -15787,7 +15757,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "haciz nasıl kaldırılır",
           "Haczin kalkması",
-          "haciz kaldırma",
           "haciz kaldırma"
         ]
       },
@@ -16057,8 +16026,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kefalet sözleşmesi",
-          "Kefalet sözleşmesi",
-          "kefalet sozlesmesi",
           "kefalet sozlesmesi"
         ]
       },
@@ -16464,7 +16431,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«zamanaşımı nedir»: Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+      "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
       "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
       "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
       "Tebligatları UYAP/e-tebligattan takip edin.",
@@ -16778,7 +16745,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«istinaf nedir»: Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+      "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
       "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
       "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
       "Tebligatları UYAP/e-tebligattan takip edin.",
@@ -16958,7 +16925,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "temyiz nedir",
           "Temyiz",
-          "Yargıtay temyiz",
           "Yargıtay temyiz"
         ]
       },
@@ -17228,8 +17194,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "bilirkişi raporuna itiraz",
-          "Bilirkişi raporuna itiraz",
-          "bilirkisi raporu itiraz",
           "bilirkisi raporu itiraz"
         ]
       },
@@ -17499,8 +17463,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "tanık dinletme",
-          "Tanık dinletme",
-          "tanik dinletme",
           "tanik dinletme"
         ]
       },
@@ -17725,7 +17687,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Tanık dinletme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -17770,7 +17732,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "arabuluculuk anlaşma belgesi",
           "Anlaşma belgesi",
-          "anlaşma belgesi ilam",
           "anlaşma belgesi ilam"
         ]
       },
@@ -18040,7 +18001,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iş kazası bildirimi",
           "Bildirim",
-          "SGK iş kazası bildirimi",
           "SGK iş kazası bildirimi"
         ]
       },
@@ -18310,7 +18270,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "mobbing nedir",
           "Mobbing",
-          "işyerinde mobbing",
           "işyerinde mobbing"
         ]
       },
@@ -18580,7 +18539,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işyerinde cinsel taciz",
           "İşyeri taciz",
-          "cinsel taciz şikayet",
           "cinsel taciz şikayet"
         ]
       },
@@ -18850,7 +18808,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "çocuk nafakası artırım",
           "Çocuk nafakası artırım davası (pratik)",
-          "iştirak nafakası artırma",
           "iştirak nafakası artırma"
         ]
       },
@@ -19256,7 +19213,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«mal rejimi tasfiyesi»: Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
+      "Aile durumunu ve belgeleri (nüfus, gelir, çocuk) derleyin.",
       "Anlaşmalı mı çekişmeli mi olduğuna karar verin; protokol taslağı hazırlayın.",
       "Görevli aile mahkemesinde dava veya 6284 başvurusu yapın.",
       "Tebliğ ve ara kararları (tedbir nafakası, kişisel ilişki) takip edin.",
@@ -19435,8 +19392,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ziynet eşyası davası",
-          "Ziynet eşyası davası",
-          "ziynet esyalari davasi",
           "ziynet esyalari davasi"
         ]
       },
@@ -19706,8 +19661,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "soybağının reddi",
-          "Soybağının reddi",
-          "soybagi reddi",
           "soybagi reddi"
         ]
       },
@@ -19976,9 +19929,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "evlat edinme",
-          "Evlat edinme",
-          "evlat edinme",
           "evlat edinme"
         ]
       },
@@ -20203,7 +20153,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Evlat edinme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -20248,7 +20198,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ceza soruşturması",
           "Soruşturma",
-          "ifade alma",
           "ifade alma"
         ]
       },
@@ -20517,8 +20466,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "gözaltı hakları",
-          "Gözaltı hakları",
-          "müdafi hakkı",
           "müdafi hakkı"
         ]
       },
@@ -20788,7 +20735,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ceza uzlaştırması",
           "Uzlaştırma",
-          "uzlaştırma nedir",
           "uzlaştırma nedir"
         ]
       },
@@ -21058,8 +21004,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "adli sicil kaydı",
-          "Adli sicil kaydı",
-          "adli sicil kaydi",
           "adli sicil kaydi"
         ]
       },
@@ -21465,7 +21409,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«trafik kazası tazminatı»: Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın.",
+      "Ceza veya kaza belgelerini e-Devlet/sigortadan doğrulayın.",
       "İtiraz mercini ve süreyi tespit edin.",
       "Hasarda ihbar + eksper sürecini başlatın.",
       "Red halinde tahkim/dava seçeneklerini değerlendirin.",
@@ -21644,8 +21588,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "trafik sigortası hasar",
-          "Trafik sigortası hasar",
-          "trafik sigortasi hasar",
           "trafik sigortasi hasar"
         ]
       },
@@ -21914,9 +21856,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ehliyete el koyma",
-          "Ehliyet iadesi",
-          "ehliyet iadesi",
-          "ehliyet iadesi"
+          "Ehliyet iadesi"
         ]
       },
       {
@@ -22140,7 +22080,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Ehliyet iadesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -22185,8 +22125,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "pasaport başvurusu",
-          "Pasaport başvurusu",
-          "pasaport basvurusu",
           "pasaport basvurusu"
         ]
       },
@@ -22455,7 +22393,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ikamet izni",
-          "yabancı ikamet izni başvuru",
           "yabancı ikamet izni başvuru"
         ]
       },
@@ -22591,7 +22528,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«ikamet izni»: İzin türü ve bitiş tarihini kontrol edin.",
+      "İzin türü ve bitiş tarihini kontrol edin.",
       "Gerekli belgeleri toplayın; randevu alın.",
       "Başvuruyu yapın; harç/ödeme dekontunu saklayın.",
       "Ret halinde idari itiraz/dava süresini hesaplayın.",
@@ -22770,8 +22707,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çalışma izni",
-          "Çalışma izni",
-          "calisma izni nedir",
           "calisma izni nedir"
         ]
       },
@@ -23040,8 +22975,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sınır dışı kararı",
-          "Sınır dışı kararı",
-          "sinir disi karari",
           "sinir disi karari"
         ]
       },
@@ -23383,7 +23316,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "Süreyi kaçırmak",
-          "Süreyi kaçırmak",
           "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
@@ -23448,7 +23380,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«KVKK başvuru»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -23584,7 +23516,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -23629,8 +23561,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "bilgi edinme başvurusu",
-          "Bilgi edinme başvurusu",
-          "bilgi edinme basvurusu",
           "bilgi edinme basvurusu"
         ]
       },
@@ -23973,7 +23903,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "İşlemi öğrenme tarihini ispatlayamamak",
           "Yanlış merci",
           "Süre kaçırma",
-          "Yanlış merci",
           "Eksik belge"
         ]
       },
@@ -24036,7 +23965,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«CİMER şikayet»: İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
+      "İdari işlemi ve tebliğ/öğrenme tarihini sabitleyin.",
       "İdari itiraz veya üst başvuru gerekip gerekmediğine bakın.",
       "İptal ve/veya tam yargı taleplerini netleştirin.",
       "İdare mahkemesinde dava açın; YD talep edin (şartlar varsa).",
@@ -24171,7 +24100,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -24216,7 +24145,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "belediye cezası itiraz",
           "Belediye IPC",
-          "zabıta cezası",
           "zabıta cezası"
         ]
       },
@@ -24487,7 +24415,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "imar durumu",
           "İmar durumu",
-          "imar durumu nedir",
           "imar durumu nedir"
         ]
       },
@@ -24757,7 +24684,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "yapı ruhsatı",
           "Ruhsat",
-          "inşaat ruhsatı",
           "inşaat ruhsatı"
         ]
       },
@@ -25027,7 +24953,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "DASK nedir",
           "DASK",
-          "zorunlu deprem sigortası",
           "zorunlu deprem sigortası"
         ]
       },
@@ -25252,7 +25177,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «DASK» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -25433,7 +25358,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«noter vekâletname»: Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
+      "Uyuşmazlık türünü (hukuk/idare/ceza/icra) teşhis edin.",
       "Görevli-yetkili mahkeme ve dava şartlarını kontrol edin.",
       "Dilekçe ve delilleri hazırlayın; harcı yatırın.",
       "Tebligatları UYAP/e-tebligattan takip edin.",
@@ -25612,8 +25537,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "vekâletname azli",
-          "Vekâletname azli",
-          "vekaletname azli",
           "vekaletname azli"
         ]
       },
@@ -26019,7 +25942,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«karşılıksız çek»: İşlem türünü (kuruluş, alacak, çek, marka) netleştirin.",
+      "İşlem türünü (kuruluş, alacak, çek, marka) netleştirin.",
       "Sicil ve sözleşme belgelerini toplayın.",
       "Arabuluculuk gerekip gerekmediğine bakın.",
       "Dava veya icra yolunu seçin.",
@@ -26335,7 +26258,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«limited şirket kuruluşu»: İşlem türünü (kuruluş, alacak, çek, marka) netleştirin.",
+      "İşlem türünü (kuruluş, alacak, çek, marka) netleştirin.",
       "Sicil ve sözleşme belgelerini toplayın.",
       "Arabuluculuk gerekip gerekmediğine bakın.",
       "Dava veya icra yolunu seçin.",
@@ -26514,8 +26437,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ticari işletme",
-          "Ticari işletme",
-          "ticari isletme nedir",
           "ticari isletme nedir"
         ]
       },
@@ -26785,7 +26706,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iflas nedir",
           "İflas",
-          "iflas davası",
           "iflas davası"
         ]
       },
@@ -27055,7 +26975,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra inkâr tazminatı",
           "İnkâr tazminatı genel",
-          "inkar tazminatı nedir",
           "inkar tazminatı nedir"
         ]
       },
@@ -27596,7 +27515,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "izale-i şuyu masrafı",
           "İzale-i şuyu masrafı",
-          "ortakligin giderilmesi masraf",
           "ortakligin giderilmesi masraf"
         ]
       },
@@ -27866,7 +27784,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "e-devlet icra borcu",
           "e-Devlet borç dökümü",
-          "icra borcu sorgulama e-devlet",
           "icra borcu sorgulama e-devlet"
         ]
       },
@@ -28136,7 +28053,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-tebligat",
-          "e-Tebligat",
           "UETS",
           "elektronik tebligat ne zaman"
         ]
@@ -28407,7 +28323,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "dava harcı",
           "Harç",
-          "gider avansı",
           "gider avansı"
         ]
       },
@@ -28677,7 +28592,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "arabuluculuk ücreti",
           "Ücret",
-          "arabuluculuk tarife",
           "arabuluculuk tarife"
         ]
       },
@@ -28947,7 +28861,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iş kazası maluliyet",
           "Maluliyet",
-          "maluliyet oranı tazminat",
           "maluliyet oranı tazminat"
         ]
       },
@@ -29311,7 +29224,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «Dönemsel kıdem tavanı ve hesabı sınırlama etkisi» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-alinir).",
+      "Sorunuzun gerçekten «Dönemsel kıdem tavanı ve hesabı sınırlama etkisi» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nas…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (SGK hizmet dökümü, fesih bildirimi, puantaj/mesai kayıtları, arabuluculuk son tutanağı).",
       "Doğru mercie karar verin (Çalışma ve Sosyal Güvenlik); dava şartını atlamayın.",
@@ -29488,7 +29401,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "askerlik borçlanması",
           "Askerlik borçlanma",
-          "SGK askerlik borçlanma",
           "SGK askerlik borçlanma"
         ]
       },
@@ -29758,7 +29670,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "doğum borçlanması",
           "Doğum borçlanma",
-          "SGK doğum borçlanma",
           "SGK doğum borçlanma"
         ]
       },
@@ -30028,7 +29939,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "e-devlet vergi borcu",
           "Sorgu",
-          "vergi borcu sorgulama",
           "vergi borcu sorgulama"
         ]
       },
@@ -30298,7 +30208,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "aidat ödenmezse",
           "Aidat icrası",
-          "apartman aidatı icra",
           "apartman aidatı icra"
         ]
       },
@@ -30568,7 +30477,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kira tespit davası",
           "5 yıl / rayiç tespit davası",
-          "kira bedeli tespit",
           "kira bedeli tespit"
         ]
       },
@@ -30838,7 +30746,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tahliye taahhütnamesi",
           "Taahhütname",
-          "tahliye taahhüdü geçerlilik",
           "tahliye taahhüdü geçerlilik"
         ]
       },
@@ -31107,7 +31014,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-devlet nüfus işlemleri",
-          "adres beyanı e-devlet",
           "adres beyanı e-devlet"
         ]
       },
@@ -31178,7 +31084,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "Kayıp kimlikte gecikme",
-          "Kayıp kimlikte gecikme",
           "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
@@ -31243,7 +31148,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«e-devlet nüfus işlemleri»: e-Devletten ilgili işlemi seçin veya randevu alın.",
+      "e-Devletten ilgili işlemi seçin veya randevu alın.",
       "Belgeleri hazırlayın.",
       "Başvuruyu tamamlayın; başvuru numarasını saklayın.",
       "Sonucu takip edin.",
@@ -31422,8 +31327,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "adres değişikliği",
-          "Adres değişikliği",
-          "adres degisikligi",
           "adres degisikligi"
         ]
       },
@@ -31693,7 +31596,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "anlaşmalı boşanma şartları",
           "Anlaşmalı şartlar",
-          "anlaşmalı boşanma protokolü",
           "anlaşmalı boşanma protokolü"
         ]
       },
@@ -31963,7 +31865,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "çekişmeli boşanma",
           "Çekişmeli süreç",
-          "çekişmeli boşanma süreci",
           "çekişmeli boşanma süreci"
         ]
       },
@@ -32233,7 +32134,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "boşanma protokolü",
           "Protokol içeriği",
-          "anlaşmalı protokol içeriği",
           "anlaşmalı protokol içeriği"
         ]
       },
@@ -32503,7 +32403,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tedbir nafakası",
           "Dava süresince tedbir nafakası",
-          "boşanma tedbir nafakası",
           "boşanma tedbir nafakası"
         ]
       },
@@ -32772,8 +32671,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yoksulluk nafakası şartları",
-          "Yoksulluk nafakası şartları",
-          "yoksulluk nafakası",
           "yoksulluk nafakası"
         ]
       },
@@ -33044,7 +32941,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iştirak nafakası",
           "Çocuk iştirak nafakası tanımı",
-          "çocuk nafakası nedir",
           "çocuk nafakası nedir"
         ]
       },
@@ -33269,7 +33165,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Çocuk iştirak nafakası tanımı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -33314,7 +33210,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "velayet değişikliği",
           "Değişiklik",
-          "velayet değiştirme davası",
           "velayet değiştirme davası"
         ]
       },
@@ -33584,7 +33479,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kişisel ilişki düzenlemesi",
           "Görüşme",
-          "çocuk görüşme günleri",
           "çocuk görüşme günleri"
         ]
       },
@@ -33853,8 +33747,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "evlilik sözleşmesi",
-          "Evlilik sözleşmesi",
-          "evlilik sozlesmesi nedir",
           "evlilik sozlesmesi nedir"
         ]
       },
@@ -34079,7 +33971,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Evlilik sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -34124,8 +34016,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "nişan bozulması tazminatı",
-          "Nişan bozulması tazminatı",
-          "nisan bozulmasi tazminat",
           "nisan bozulmasi tazminat"
         ]
       },
@@ -34350,7 +34240,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Nişan bozulması tazminatı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -34394,8 +34284,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ayrılık kararı",
-          "Ayrılık kararı",
-          "ayrilik karari nedir",
           "ayrilik karari nedir"
         ]
       },
@@ -34664,8 +34552,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "aile konutu şerhi",
-          "Aile konutu şerhi",
-          "aile konutu serhi",
           "aile konutu serhi"
         ]
       },
@@ -34935,7 +34821,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "hayata kast boşanma",
           "Özel sebep",
-          "kötü muamele boşanma",
           "kötü muamele boşanma"
         ]
       },
@@ -35205,7 +35090,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "terk sebebiyle boşanma",
           "Terk",
-          "terk ihtarı",
           "terk ihtarı"
         ]
       },
@@ -35475,7 +35359,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "zina boşanma",
           "Zina",
-          "zina davası ispat",
           "zina davası ispat"
         ]
       },
@@ -35745,7 +35628,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işten çıkarılma tazminatları",
           "Fesihte hangi kalemler birlikte gündeme gelir (genel harita)",
-          "fesih tazminatları listesi",
           "fesih tazminatları listesi"
         ]
       },
@@ -35838,7 +35720,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «Fesihte hangi kalemler birlikte gündeme gelir (genel harita)» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-alinir).",
+      "Sorunuzun gerçekten «Fesihte hangi kalemler birlikte gündeme gelir (genel harita)» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-t…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (arabuluculuk son tutanağı, iş sözleşmesi, bordro, SGK hizmet dökümü).",
       "Doğru mercie karar verin (İŞKUR); dava şartını atlamayın.",
@@ -36013,9 +35895,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "belirsiz süreli iş sözleşmesi",
-          "Belirsiz süre",
-          "belirsiz süreli iş sözleşmesi",
-          "belirsiz süreli iş sözleşmesi"
+          "Belirsiz süre"
         ]
       },
       {
@@ -36239,7 +36119,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Belirsiz süre» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -36282,9 +36162,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "belirli süreli iş sözleşmesi",
-          "Belirli süre",
-          "belirli süreli iş sözleşmesi",
-          "belirli süreli iş sözleşmesi"
+          "Belirli süre"
         ]
       },
       {
@@ -36508,7 +36386,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Belirli süre» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -36551,9 +36429,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "deneme süresi iş kanunu",
-          "Deneme",
-          "deneme süresi iş kanunu",
-          "deneme süresi iş kanunu"
+          "Deneme"
         ]
       },
       {
@@ -36822,7 +36698,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "yıllık izin hakkı",
           "Yıllık izin",
-          "yıllık izin kaç gün",
           "yıllık izin kaç gün"
         ]
       },
@@ -37092,7 +36967,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "UBGT ücreti",
           "UBGT",
-          "genel tatil ücreti",
           "genel tatil ücreti"
         ]
       },
@@ -37317,7 +37191,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «UBGT» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -37360,9 +37234,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "hafta tatili ücreti",
-          "Hafta tatili",
-          "hafta tatili ücreti",
-          "hafta tatili ücreti"
+          "Hafta tatili"
         ]
       },
       {
@@ -37631,8 +37503,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "asgari ücret net brüt",
-          "Asgari ücret net brüt",
-          "asgari ucret net brut",
           "asgari ucret net brut"
         ]
       },
@@ -37902,8 +37772,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ücretsiz izin",
-          "Ücretsiz izin",
-          "ucretsiz izin nedir",
           "ucretsiz izin nedir"
         ]
       },
@@ -38173,7 +38041,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "istifa nasıl edilir",
           "İstifa",
-          "istifa kıdem tazminatı",
           "istifa kıdem tazminatı"
         ]
       },
@@ -38398,7 +38265,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İstifa» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -38444,7 +38311,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işçi haklı fesih",
           "İşçi haklı fesih",
-          "haklı nedenle fesih işçi",
           "haklı nedenle fesih işçi"
         ]
       },
@@ -38714,7 +38580,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işveren haklı fesih",
           "İşveren haklı fesih",
-          "İş Kanunu 25",
           "İş Kanunu 25"
         ]
       },
@@ -38939,7 +38804,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İşveren haklı fesih» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -38982,9 +38847,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kötü niyet tazminatı",
-          "Kötü niyet",
-          "kötü niyet tazminatı",
-          "kötü niyet tazminatı"
+          "Kötü niyet"
         ]
       },
       {
@@ -39208,7 +39071,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Kötü niyet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -39253,8 +39116,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sendika özgürlüğü",
-          "Sendika özgürlüğü",
-          "sendika ozgurlugu",
           "sendika ozgurlugu"
         ]
       },
@@ -39479,7 +39340,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Sendika özgürlüğü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -39524,8 +39385,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "toplu iş sözleşmesi",
-          "Toplu iş sözleşmesi",
-          "toplu is sozlesmesi",
           "toplu is sozlesmesi"
         ]
       },
@@ -39795,7 +39654,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iş güvenliği uzmanı",
           "İSG yükümlülük",
-          "İSG kurulu",
           "İSG kurulu"
         ]
       },
@@ -40065,8 +39923,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "eşit işe eşit ücret",
-          "Eşit işe eşit ücret",
-          "esdeger is esit ucret",
           "esdeger is esit ucret"
         ]
       },
@@ -40337,7 +40193,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "part time iş kanunu",
           "Kısmi süre",
-          "kısmi süreli iş sözleşmesi",
           "kısmi süreli iş sözleşmesi"
         ]
       },
@@ -40608,7 +40463,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işyerinden uzaklaştırma",
           "İşyerinden uzaklaştırma",
-          "uzaklastirma isyerinden",
           "uzaklastirma isyerinden"
         ]
       },
@@ -40878,7 +40732,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işçilik alacakları zamanaşımı",
           "Zamanaşımı süreleri",
-          "kıdem zamanaşımı",
           "kıdem zamanaşımı"
         ]
       },
@@ -41148,7 +41001,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "haciz nasıl yapılır",
           "Haciz süreci",
-          "icra haciz süreci",
           "icra haciz süreci"
         ]
       },
@@ -41419,7 +41271,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "maaş haczi oranı",
           "Maaş kesinti oranı",
-          "maaştan haciz ne kadar",
           "maaştan haciz ne kadar"
         ]
       },
@@ -41689,7 +41540,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "banka hesabı haczi",
           "Hesap blokesi",
-          "hesaba bloke icra",
           "hesaba bloke icra"
         ]
       },
@@ -41958,8 +41808,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "araç haczi",
-          "Araç haczi",
-          "araba haczi",
           "araba haczi"
         ]
       },
@@ -42229,7 +42077,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tapu haczi",
           "Tapu şerhi haciz",
-          "gayrimenkul haczi",
           "gayrimenkul haczi"
         ]
       },
@@ -42499,7 +42346,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra satış ihalesi",
           "Cebri satış",
-          "icra ihalesi",
           "icra ihalesi"
         ]
       },
@@ -42724,7 +42570,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Cebri satış» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -42769,7 +42615,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "itirazın iptali davası",
           "İtirazın iptali",
-          "itirazın iptali süresi",
           "itirazın iptali süresi"
         ]
       },
@@ -43040,7 +42885,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "itirazın kaldırılması",
           "İtirazın kaldırılması",
-          "kesin itirazın kaldırılması",
           "kesin itirazın kaldırılması"
         ]
       },
@@ -43310,7 +43154,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "menfi tespit davası",
           "Menfi tespit",
-          "borçlu olmadığının tespiti",
           "borçlu olmadığının tespiti"
         ]
       },
@@ -43580,7 +43423,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "istirdat davası",
           "İstirdat",
-          "fazla ödeme istirdat",
           "fazla ödeme istirdat"
         ]
       },
@@ -43850,7 +43692,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "konkordato nedir",
           "Konkordato",
-          "konkordato mühleti",
           "konkordato mühleti"
         ]
       },
@@ -44075,7 +43916,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Konkordato» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -44120,7 +43961,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra vekalet ücreti",
           "Vekâlet ücreti",
-          "icra avukat ücreti",
           "icra avukat ücreti"
         ]
       },
@@ -44391,7 +44231,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kambiyo senetleri icra",
           "Kambiyo özel takip",
-          "kambiyo takibi",
           "kambiyo takibi"
         ]
       },
@@ -44616,7 +44455,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Kambiyo özel takip» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -44661,7 +44500,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ilamlı icra",
           "İlamlı takip",
-          "ilamsız icra farkı",
           "ilamsız icra farkı"
         ]
       },
@@ -44886,7 +44724,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İlamlı takip» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -44931,7 +44769,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra borcu taksit",
           "Taksit / ödeme planı",
-          "icra ödeme planı",
           "icra ödeme planı"
         ]
       },
@@ -45201,7 +45038,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kira sözleşmesi nasıl yapılır",
           "Sözleşme kurulumu",
-          "konut kira sözleşmesi",
           "konut kira sözleşmesi"
         ]
       },
@@ -45471,7 +45307,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kiracı hakları",
           "Kiracı hakları özeti",
-          "kiracı yasal haklar",
           "kiracı yasal haklar"
         ]
       },
@@ -45741,9 +45576,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kiraya veren hakları",
-          "Ev sahibi hakları",
-          "ev sahibi hakları",
-          "ev sahibi hakları"
+          "Ev sahibi hakları"
         ]
       },
       {
@@ -46284,7 +46117,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işyeri kira tahliye",
           "İşyeri",
-          "ticari kira tahliye",
           "ticari kira tahliye"
         ]
       },
@@ -46552,9 +46384,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kira arabuluculuk",
-          "Kira",
-          "kira arabuluculuk",
-          "kira arabuluculuk"
+          "Kira"
         ]
       },
       {
@@ -46778,7 +46608,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Kira» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -46824,7 +46654,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "alt kira",
           "Alt kira / devir",
-          "kira devri",
           "kira devri"
         ]
       },
@@ -47049,7 +46878,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Alt kira / devir» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -47095,7 +46924,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kira ödeme ispatı",
           "Ödeme ispatı",
-          "kira banka havalesi",
           "kira banka havalesi"
         ]
       },
@@ -47365,7 +47193,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tüketici kredisi cayma",
           "Kredi cayma",
-          "kredi cayma hakkı 14 gün",
           "kredi cayma hakkı 14 gün"
         ]
       },
@@ -47632,7 +47459,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kredi kartı itiraz",
-          "yetkisiz kart harcaması",
           "yetkisiz kart harcaması"
         ]
       },
@@ -47768,7 +47594,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«kredi kartı itiraz»: Sözleşme/fatura ve ayıp kanıtlarını toplayın.",
+      "Sözleşme/fatura ve ayıp kanıtlarını toplayın.",
       "Satıcıya yazılı başvuru yapın; süre verin.",
       "Sonuç alamazsanız hakem heyeti veya mahkemeyi seçin.",
       "e-Devlet başvuru numarasını saklayın.",
@@ -47903,7 +47729,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -47947,8 +47773,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kredi borcu yapılandırma",
-          "Kredi borcu yapılandırma",
-          "kredi borcu yapislandirma",
           "kredi borcu yapislandirma"
         ]
       },
@@ -48218,7 +48042,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "garanti belgesi hakları",
           "Garanti",
-          "garanti iade değişim",
           "garanti iade değişim"
         ]
       },
@@ -48443,7 +48266,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Garanti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -48488,7 +48311,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "internet alışveriş iade",
           "Online iade pratik",
-          "online iade hakkı",
           "online iade hakkı"
         ]
       },
@@ -48758,7 +48580,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "taahhüt bozma cezası",
           "Taahhüt cezası",
-          "abonelik taahhüt iptal",
           "abonelik taahhüt iptal"
         ]
       },
@@ -49161,7 +48982,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«sigorta tazminat red»: Poliçeyi ve teminatları okuyun.",
+      "Poliçeyi ve teminatları okuyun.",
       "Hasarı derhal ihbar edin; tutanak alın.",
       "Eksper ve evrak listesini tamamlayın.",
       "Red/eksik ödemede yazılı itiraz yapın.",
@@ -49340,8 +49161,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kasko hasar süreci",
-          "Kasko hasar süreci",
-          "kasko hasar sureci",
           "kasko hasar sureci"
         ]
       },
@@ -49566,7 +49385,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Kasko hasar süreci» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -49610,8 +49429,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "tamamlayıcı sağlık sigortası",
-          "Tamamlayıcı sağlık sigortası",
-          "tss tamamlayici saglik",
           "tss tamamlayici saglik"
         ]
       },
@@ -49948,7 +49765,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "Dosyaya geç erişim",
-          "Dosyaya geç erişim",
           "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
@@ -50013,7 +49829,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«malpraktis davası»: Tıbbi kayıt talebinde bulunun.",
+      "Tıbbi kayıt talebinde bulunun.",
       "Olay kronolojisini yazın.",
       "Bağımsız tıbbi görüş alın.",
       "Hukuki mercie (dava/şikâyet) karar verin.",
@@ -50148,7 +49964,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -50191,9 +50007,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "mirasçılık belgesi nedir",
-          "Belge tanımı",
-          "mirasçılık belgesi nedir",
-          "mirasçılık belgesi nedir"
+          "Belge tanımı"
         ]
       },
       {
@@ -50463,7 +50277,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tenkis davası",
           "Tenkis",
-          "saklı pay tenkis",
           "saklı pay tenkis"
         ]
       },
@@ -50733,7 +50546,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "miras ortaklığı",
           "Elbirliği",
-          "elbirliği mülkiyeti miras",
           "elbirliği mülkiyeti miras"
         ]
       },
@@ -50958,7 +50770,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Elbirliği» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -51002,8 +50814,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "muris muvazaası",
-          "Muris muvazaası",
-          "muris muvazaası tapu iptal",
           "muris muvazaası tapu iptal"
         ]
       },
@@ -51273,8 +51083,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ölüme bağlı tasarruf",
-          "Ölüme bağlı tasarruf",
-          "miras sözleşmesi",
           "miras sözleşmesi"
         ]
       },
@@ -51544,7 +51352,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "miras paylaşım sözleşmesi",
           "Paylaşım sözleşmesi",
-          "miras taksimi",
           "miras taksimi"
         ]
       },
@@ -51769,7 +51576,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Paylaşım sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -51814,7 +51621,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "veraset ve intikal vergisi",
           "Vergi",
-          "miras vergisi",
           "miras vergisi"
         ]
       },
@@ -52083,8 +51889,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kat irtifakı",
-          "Kat irtifakı",
-          "kat irtifaki nedir",
           "kat irtifaki nedir"
         ]
       },
@@ -52354,7 +52158,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ipotek nedir",
           "İpotek",
-          "ipotek kaldırma",
           "ipotek kaldırma"
         ]
       },
@@ -52625,7 +52428,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "intifa hakkı",
           "İntifa hakkı",
-          "intifa hakki nedir",
           "intifa hakki nedir"
         ]
       },
@@ -52850,7 +52652,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İntifa hakkı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -52896,7 +52698,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "irtifak hakkı",
           "İrtifak hakkı",
-          "irtifak hakki nedir",
           "irtifak hakki nedir"
         ]
       },
@@ -53121,7 +52922,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İrtifak hakkı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -53165,8 +52966,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "zilyetlik",
-          "Zilyetlik",
-          "zilyetlik nedir",
           "zilyetlik nedir"
         ]
       },
@@ -53662,7 +53461,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Kayıt sorgu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -53707,7 +53506,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tapu harcı hesaplama",
           "Harç",
-          "tapu harcı oranı",
           "tapu harcı oranı"
         ]
       },
@@ -53932,7 +53730,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Harç» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -53976,8 +53774,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "önalım hakkı",
-          "Önalım hakkı",
-          "on alim sufa hakki",
           "on alim sufa hakki"
         ]
       },
@@ -54202,7 +53998,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Önalım hakkı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -54247,7 +54043,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "el atmanın önlenmesi",
           "El atma",
-          "müdahalenin meni",
           "müdahalenin meni"
         ]
       },
@@ -54472,7 +54267,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «El atma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -54517,7 +54312,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ecrimisil nedir",
           "Ecrimisil",
-          "haksız işgal tazminatı",
           "haksız işgal tazminatı"
         ]
       },
@@ -54787,7 +54581,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "şikayet süresi",
           "Şikâyet süresi",
-          "şikayete bağlı suçlar",
           "şikayete bağlı suçlar"
         ]
       },
@@ -55058,7 +54851,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "gözaltı süresi",
           "Süre",
-          "gözaltı kaç saat",
           "gözaltı kaç saat"
         ]
       },
@@ -55464,7 +55256,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«tutuklama nedir»: Olay ve delilleri tarih sırasıyla kaydedin.",
+      "Olay ve delilleri tarih sırasıyla kaydedin.",
       "Şikâyet/suç duyurusunu savcılık veya e-şikâyet ile yapın.",
       "İfade/gözaltında müdafi ve susma hakkını kullanın.",
       "Soruşturma sonucunu (kovuşturmaya yer yok / iddianame) takip edin.",
@@ -55643,8 +55435,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "adli kontrol",
-          "Adli kontrol",
-          "adli kontrol nedir",
           "adli kontrol nedir"
         ]
       },
@@ -55913,9 +55703,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "bekletici mesele",
-          "Bekletici mesele",
-          "bekletici mesele",
           "bekletici mesele"
         ]
       },
@@ -56185,8 +55972,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "seri muhakeme",
-          "Seri muhakeme",
-          "hizli yargilama usulu",
           "hizli yargilama usulu"
         ]
       },
@@ -56411,7 +56196,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Seri muhakeme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -56456,7 +56241,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "hakaret suçu",
           "Hakaret",
-          "hakaret şikayet",
           "hakaret şikayet"
         ]
       },
@@ -56726,7 +56510,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tehdit suçu",
           "Tehdit",
-          "tehdit şikayet",
           "tehdit şikayet"
         ]
       },
@@ -56996,7 +56779,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "dolandırıcılık suçu",
           "Dolandırıcılık",
-          "internet dolandırıcılığı şikayet",
           "internet dolandırıcılığı şikayet"
         ]
       },
@@ -57221,7 +57003,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Dolandırıcılık» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -57266,8 +57048,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kişisel verilerin kaydedilmesi suçu",
-          "Kişisel verilerin kaydedilmesi suçu",
-          "kisisel verilerin kaydedilmesi",
           "kisisel verilerin kaydedilmesi"
         ]
       },
@@ -57537,8 +57317,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "trafik güvenliğini tehlikeye sokma",
-          "Trafik güvenliğini tehlikeye sokma",
-          "trafik guvenligini tehlikeye sokma",
           "trafik guvenligini tehlikeye sokma"
         ]
       },
@@ -57806,9 +57584,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çocuk teslimi icra",
-          "Teslim icrası",
-          "çocuk teslimi icra",
-          "çocuk teslimi icra"
+          "Teslim icrası"
         ]
       },
       {
@@ -58077,7 +57853,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "dava açma şartları",
           "Dava şartları",
-          "hukuki yarar",
           "hukuki yarar"
         ]
       },
@@ -58347,7 +58122,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "yetkili mahkeme",
           "Yetki",
-          "yetki itirazı",
           "yetki itirazı"
         ]
       },
@@ -58572,7 +58346,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Yetki» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -58617,7 +58391,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "görevli mahkeme",
           "Görev",
-          "asliye hukuk sulh hukuk",
           "asliye hukuk sulh hukuk"
         ]
       },
@@ -58887,8 +58660,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "delil başlangıcı",
-          "Delil başlangıcı",
-          "delil baslangici nedir",
           "delil baslangici nedir"
         ]
       },
@@ -59158,8 +58929,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kesin delil",
-          "Kesin delil",
-          "kesin delil nedir",
           "kesin delil nedir"
         ]
       },
@@ -59430,7 +59199,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ıslah",
           "Islah",
-          "islah nedir",
           "islah nedir"
         ]
       },
@@ -59655,7 +59423,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Islah» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -59700,8 +59468,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "belirsiz alacak davası",
-          "Belirsiz alacak davası",
-          "belirsiz alacak davasi",
           "belirsiz alacak davasi"
         ]
       },
@@ -59971,8 +59737,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "davaya müdahale",
-          "Davaya müdahale",
-          "davaya mudahale",
           "davaya mudahale"
         ]
       },
@@ -60240,9 +60004,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ihtiyati tedbir teminatı",
-          "Teminat",
-          "ihtiyati tedbir teminatı",
-          "ihtiyati tedbir teminatı"
+          "Teminat"
         ]
       },
       {
@@ -60511,7 +60273,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kesinleşme şerhi",
           "Kesinleşme",
-          "ilam kesinleşmesi",
           "ilam kesinleşmesi"
         ]
       },
@@ -60781,8 +60542,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "karşı taraf vekâlet ücreti",
-          "Karşı taraf vekâlet ücreti",
-          "vekâlet ucreti karsi taraf",
           "vekâlet ucreti karsi taraf"
         ]
       },
@@ -61052,7 +60811,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "arabuluculuk son tutanak",
           "Son tutanak",
-          "anlaşamama tutanağı",
           "anlaşamama tutanağı"
         ]
       },
@@ -61322,7 +61080,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iptal davası",
           "İptal",
-          "idari iptal davası",
           "idari iptal davası"
         ]
       },
@@ -61592,7 +61349,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tam yargı davası",
           "Tam yargı",
-          "idari tazminat davası",
           "idari tazminat davası"
         ]
       },
@@ -61860,9 +61616,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "idari işlem nedir",
-          "İşlem tanımı",
-          "idari işlem nedir",
-          "idari işlem nedir"
+          "İşlem tanımı"
         ]
       },
       {
@@ -62131,7 +61885,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "yürütmenin durdurulması",
           "YD",
-          "YD kararı",
           "YD kararı"
         ]
       },
@@ -62356,7 +62109,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «YD» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -62401,8 +62154,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "memur disiplin cezası",
-          "Memur disiplin cezası",
-          "memur disiplin cezasi",
           "memur disiplin cezasi"
         ]
       },
@@ -62672,8 +62423,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kamu ihalesi şikâyet",
-          "Kamu ihalesi şikâyet",
-          "kamu ihalesi sikayet",
           "kamu ihalesi sikayet"
         ]
       },
@@ -62944,7 +62693,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "imar planına itiraz",
           "İmar planına itiraz",
-          "imar planina itiraz",
           "imar planina itiraz"
         ]
       },
@@ -63214,8 +62962,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yapı tatil tutanağı",
-          "Yapı tatil tutanağı",
-          "yapi tatil tutanağı",
           "yapi tatil tutanağı"
         ]
       },
@@ -63486,7 +63232,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "imar barışı",
           "İmar barışı",
-          "imar barişi nedir",
           "imar barişi nedir"
         ]
       },
@@ -63756,8 +63501,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çevre idari para cezası",
-          "Çevre idari para cezası",
-          "cevre izin denetim",
           "cevre izin denetim"
         ]
       },
@@ -64027,7 +63770,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "EDS ceza sorgulama",
           "EDS/HGS sorgu",
-          "EDS ceza itiraz",
           "EDS ceza itiraz"
         ]
       },
@@ -64297,7 +64039,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "trafik ceza puanı",
           "Ceza puanı",
-          "ehliyet ceza puanı",
           "ehliyet ceza puanı"
         ]
       },
@@ -64567,7 +64308,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "alkollü araç cezası",
           "Alkol cezası",
-          "promil cezası",
           "promil cezası"
         ]
       },
@@ -64836,8 +64576,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kaza tespit tutanağı",
-          "Kaza tespit tutanağı",
-          "kaza tespit tutanagi",
           "kaza tespit tutanagi"
         ]
       },
@@ -65106,8 +64844,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "trafik kusur oranı",
-          "Trafik kusur oranı",
-          "kusur orani trafik",
           "kusur orani trafik"
         ]
       },
@@ -65377,8 +65113,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "araç muayene gecikme",
-          "Araç muayene gecikme",
-          "arac muayene gecikme",
           "arac muayene gecikme"
         ]
       },
@@ -65648,8 +65382,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "araç satışı plaka devri",
-          "Araç satışı plaka devri",
-          "plaka devri arac satis",
           "plaka devri arac satis"
         ]
       },
@@ -65920,7 +65652,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "MTV nedir",
           "MTV",
-          "motorlu taşıtlar vergisi",
           "motorlu taşıtlar vergisi"
         ]
       },
@@ -66190,7 +65921,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "emekli maaşı hesaplama",
           "Maaş hesabı",
-          "emekli aylığı ne kadar",
           "emekli aylığı ne kadar"
         ]
       },
@@ -66460,7 +66190,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "EYT nedir",
           "EYT",
-          "emeklilikte yaşa takılanlar",
           "emeklilikte yaşa takılanlar"
         ]
       },
@@ -66685,7 +66414,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «EYT» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -66729,7 +66458,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "Bağkur prim borcu",
-          "Bağkur yapılandırma",
           "Bağkur yapılandırma"
         ]
       },
@@ -66865,7 +66593,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«Bağkur prim borcu»: e-Devletten hizmet ve prim dökümünü alın.",
+      "e-Devletten hizmet ve prim dökümünü alın.",
       "Hak türünü (emeklilik, işsizlik, malul, borçlanma) netleştirin.",
       "Gerekli belgeleri tamamlayıp başvurun.",
       "Sonucu takip edin; rette itiraz/dava yollarını değerlendirin.",
@@ -67045,7 +66773,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işsizlik maaşı hesaplama",
           "Hesap",
-          "işsizlik ödeneği ne kadar",
           "işsizlik ödeneği ne kadar"
         ]
       },
@@ -67314,8 +67041,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "gss prim borcu",
-          "GSS prim borcu",
-          "genel saglik sigortasi",
           "genel saglik sigortasi"
         ]
       },
@@ -67540,7 +67265,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «GSS prim borcu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -67585,8 +67310,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "analık ve süt izni",
-          "Analık ve süt izni",
-          "analik izin hakki",
           "analik izin hakki"
         ]
       },
@@ -67856,8 +67579,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "rapor parası",
-          "Rapor parası",
-          "rapor parasi hesaplama",
           "rapor parasi hesaplama"
         ]
       },
@@ -68127,8 +67848,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ölüm aylığı dul yetim",
-          "Ölüm aylığı dul yetim",
-          "olum ayligi dul yetim",
           "olum ayligi dul yetim"
         ]
       },
@@ -68399,7 +68118,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "gelir vergisi nedir",
           "GV",
-          "gelir vergisi beyanı",
           "gelir vergisi beyanı"
         ]
       },
@@ -68805,7 +68523,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«KDV nedir»: e-Devlet/GİB borcunu ve tebliğleri kontrol edin.",
+      "e-Devlet/GİB borcunu ve tebliğleri kontrol edin.",
       "Ceza/indirim ve yapılandırma seçeneklerini karşılaştırın.",
       "Yazılı başvuru veya ödeme planı oluşturun.",
       "İhtilafta uzlaşma veya vergi davası yolunu seçin.",
@@ -68983,9 +68701,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "fatura iptali",
-          "Fatura iptali",
-          "fatura iptali",
           "fatura iptali"
         ]
       },
@@ -69254,8 +68969,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-fatura",
-          "e-Fatura",
-          "e fatura nedir",
           "e fatura nedir"
         ]
       },
@@ -69525,8 +69238,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "vergi incelemesi",
-          "Vergi incelemesi",
-          "vergi incelemesi nedir",
           "vergi incelemesi nedir"
         ]
       },
@@ -69796,8 +69507,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "vergi ziyaı cezası",
-          "Vergi ziyaı cezası",
-          "vergi ziyai cezasi",
           "vergi ziyai cezasi"
         ]
       },
@@ -70066,9 +69775,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "damga vergisi nedir",
-          "Damga",
-          "damga vergisi nedir",
-          "damga vergisi nedir"
+          "Damga"
         ]
       },
       {
@@ -70337,8 +70044,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "gecikme zammı",
-          "Gecikme zammı",
-          "gecikme zammi faizi",
           "gecikme zammi faizi"
         ]
       },
@@ -70563,7 +70268,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Gecikme zammı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -70607,8 +70312,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kimlik kartı başvurusu",
-          "Kimlik kartı başvurusu",
-          "kimlik kartı basvurusu",
           "kimlik kartı basvurusu"
         ]
       },
@@ -70877,8 +70580,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "doğum belgesi",
-          "Doğum belgesi",
-          "dogum belgesi nasil alinir",
           "dogum belgesi nasil alinir"
         ]
       },
@@ -71147,8 +70848,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "evlilik başvurusu",
-          "Evlilik başvurusu",
-          "evlilik basvurusu",
           "evlilik basvurusu"
         ]
       },
@@ -71373,7 +71072,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Evlilik başvurusu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -71418,7 +71117,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "boşanma soyadı",
           "Soyadı",
-          "eski soyada dönüş",
           "eski soyada dönüş"
         ]
       },
@@ -71688,7 +71386,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ikametgâh belgesi",
           "İkametgâh belgesi",
-          "ikametgah belgesi",
           "ikametgah belgesi"
         ]
       },
@@ -71958,8 +71655,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sabıka kaydı",
-          "Sabıka kaydı",
-          "sabika kaydi nasil alinir",
           "sabika kaydi nasil alinir"
         ]
       },
@@ -72227,9 +71922,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "askerlik durum belgesi",
-          "Askerlik durum belgesi",
-          "askerlik durum belgesi",
           "askerlik durum belgesi"
         ]
       },
@@ -72499,8 +72191,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "öğrenci belgesi e-devlet",
-          "Öğrenci belgesi e-Devlet",
-          "ogrenci belgesi e devlet",
           "ogrenci belgesi e devlet"
         ]
       },
@@ -72769,8 +72459,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kredi notu",
-          "Kredi notu",
-          "kredi notu nedir",
           "kredi notu nedir"
         ]
       },
@@ -73040,8 +72728,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "maaş hesabına haciz",
-          "Maaş hesabına haciz",
-          "banka hesap haczi maas",
           "banka hesap haczi maas"
         ]
       },
@@ -73311,8 +72997,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kefil olmanın riskleri",
-          "Kefil olmanın riskleri",
-          "kefil olursam ne olur",
           "kefil olursam ne olur"
         ]
       },
@@ -73582,8 +73266,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "senet nasıl yazılır",
-          "Senet nasıl yazılır",
-          "senet nasil yazilir",
           "senet nasil yazilir"
         ]
       },
@@ -73852,8 +73534,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çek nasıl yazılır",
-          "Çek nasıl yazılır",
-          "cek nasil yazilir",
           "cek nasil yazilir"
         ]
       },
@@ -74123,7 +73803,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "KVKK aydınlatma metni",
           "Aydınlatma",
-          "aydınlatma yükümlülüğü",
           "aydınlatma yükümlülüğü"
         ]
       },
@@ -74393,7 +74072,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "KVKK açık rıza",
           "Açık rıza",
-          "açık rıza nedir",
           "açık rıza nedir"
         ]
       },
@@ -74618,7 +74296,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Açık rıza» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -74663,7 +74341,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "unutulma hakkı",
           "Unutulma",
-          "internet içerik kaldırma",
           "internet içerik kaldırma"
         ]
       },
@@ -74933,8 +74610,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "erişim engeli başvurusu",
-          "Erişim engeli başvurusu",
-          "erisim engeli basvurusu",
           "erisim engeli basvurusu"
         ]
       },
@@ -75204,8 +74879,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sosyal medya hakaret şikâyeti",
-          "Sosyal medya hakaret şikâyeti",
-          "sosyal medya hakaret sikayet",
           "sosyal medya hakaret sikayet"
         ]
       },
@@ -75430,7 +75103,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Sosyal medya hakaret şikâyeti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -75475,8 +75148,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "whatsapp yazışması delil",
-          "WhatsApp yazışması delil",
-          "whatsapp yazismasi delil",
           "whatsapp yazismasi delil"
         ]
       },
@@ -75745,8 +75416,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "limited şirket kuruluşu",
-          "Limited şirket kuruluşu",
-          "limited sirket kurulus",
           "limited sirket kurulus"
         ]
       },
@@ -75971,7 +75640,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Limited şirket kuruluşu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -76015,8 +75684,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "anonim şirket kuruluşu",
-          "Anonim şirket kuruluşu",
-          "anonim sirket kurulus",
           "anonim sirket kurulus"
         ]
       },
@@ -76285,8 +75952,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "şirket hisse devri",
-          "Şirket hisse devri",
-          "sirket hisse devri",
           "sirket hisse devri"
         ]
       },
@@ -76555,8 +76220,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ticaret sicili işlemleri",
-          "Ticaret sicili işlemleri",
-          "ticaret sicili islemleri",
           "ticaret sicili islemleri"
         ]
       },
@@ -76826,8 +76489,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "haksız rekabet",
-          "Haksız rekabet",
-          "haksiz rekabet nedir",
           "haksiz rekabet nedir"
         ]
       },
@@ -77096,8 +76757,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "marka tescili",
-          "Marka tescili",
-          "marka tescil",
           "marka tescil"
         ]
       },
@@ -77366,8 +77025,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "karşılıksız çek cezası",
-          "Karşılıksız çek cezası",
-          "cek karsiliksiz ceza",
           "cek karsiliksiz ceza"
         ]
       },
@@ -77636,8 +77293,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "türk vatandaşlığı",
-          "Türk vatandaşlığı",
-          "turk vatandasligi basvurusu",
           "turk vatandasligi basvurusu"
         ]
       },
@@ -77906,8 +77561,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "evlilikle vatandaşlık",
-          "Evlilikle vatandaşlık",
-          "evlilikle vatandaslik",
           "evlilikle vatandaslik"
         ]
       },
@@ -78177,7 +77830,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ikamet izni uzatma",
           "İkamet izni uzatma",
-          "oturma izni uzatma",
           "oturma izni uzatma"
         ]
       },
@@ -78446,8 +78098,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "uluslararası koruma",
-          "Uluslararası koruma",
-          "uluslararasi koruma",
           "uluslararasi koruma"
         ]
       },
@@ -78716,8 +78366,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "engelli maaşı şartları",
-          "Engelli maaşı şartları",
-          "engelli maasi sartlari",
           "engelli maasi sartlari"
         ]
       },
@@ -78985,8 +78633,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "evde bakım maaşı",
-          "Evde bakım maaşı",
-          "evde bakim maasi",
           "evde bakim maasi"
         ]
       },
@@ -79254,8 +78900,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "hasta hakları",
-          "Hasta hakları",
-          "saglik turizmi haklar",
           "saglik turizmi haklar"
         ]
       },
@@ -79480,7 +79124,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Hasta hakları» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -79525,7 +79169,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işe iade arabuluculuk",
           "Dava şartı arabuluculuk adımı",
-          "işe iade dava şartı",
           "işe iade dava şartı"
         ]
       },
@@ -79795,8 +79438,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "üniversite öğrenim ücreti iade",
-          "Üniversite öğrenim ücreti iade",
-          "ogrenim ucreti iade",
           "ogrenim ucreti iade"
         ]
       },
@@ -80063,7 +79704,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "özel okul ücret iadesi",
-          "okul kayıt iptali",
           "okul kayıt iptali"
         ]
       },
@@ -80134,7 +79774,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "İtiraz süresini kaçırmak",
-          "İtiraz süresini kaçırmak",
           "Süre kaçırma",
           "Yanlış merci",
           "Eksik belge"
@@ -80199,7 +79838,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«özel okul ücret iadesi»: Karar veya sözleşme maddesini okuyun.",
+      "Karar veya sözleşme maddesini okuyun.",
       "İdari itirazı süresinde yapın.",
       "Tüketici veya idari yargı yolunu seçin.",
       "Belgeleri saklayın.",
@@ -80379,8 +80018,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "öğrenci disiplin cezası",
-          "Öğrenci disiplin cezası",
-          "yuksekogretim disiplin",
           "yuksekogretim disiplin"
         ]
       },
@@ -80605,7 +80242,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Öğrenci disiplin cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -80786,7 +80423,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«kentsel dönüşüm»: Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin.",
+      "Tutanak/ceza tebliğini alın; öğrenme tarihini sabitleyin.",
       "Ruhsat ve imar durumunu kontrol edin.",
       "İdari itiraz veya uzlaşma yollarını değerlendirin.",
       "İdare mahkemesinde iptal/YD düşünün.",
@@ -80965,8 +80602,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "riskli yapı tespiti",
-          "Riskli yapı tespiti",
-          "riskli yapi tespiti",
           "riskli yapi tespiti"
         ]
       },
@@ -81236,8 +80871,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kat karşılığı inşaat",
-          "Kat karşılığı inşaat",
-          "kat karsiligi insaat",
           "kat karsiligi insaat"
         ]
       },
@@ -81507,8 +81140,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yüklenici temerrüdü",
-          "Yüklenici temerrüdü",
-          "yuklenici temerrudu",
           "yuklenici temerrudu"
         ]
       },
@@ -81915,7 +81546,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«kanun maddesi»: Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
+      "Konuya özgü olguları, tarihleri ve belgeleri derleyin; tebliğ/öğrenme anını sabitleyin.",
       "Yasal dayanak, görevli merci ve süreyi güncel metinden kontrol edin.",
       "Dava şartı varsa (arabuluculuk, idari başvuru) önce onu tamamlayın; tutanağı saklayın.",
       "Doğru mercie yazılı başvuru, dava veya takip başlatın; delil listesini ekleyin.",
@@ -82083,7 +81714,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/mevzuat"
       }
     ],
-    "lead": "Kanun maddesi ararken anahtar kelime (ör. satım, temerrüt) veya kanun kodu + madde no (ör. TBK 125) kullanılabilir. Tam metin arama, madde başlığında geçmeyen kavramları da bulur. Sonuçları kanuna göre süzmek isabeti artırır. Bu sayfa yalnızca «Mevzuat nasıl aranır» sorusuna cevap verir. Tam süreç: /bilgi/kanun-maddesi-nasil-okunur",
+    "lead": "Kanun maddesi ararken anahtar kelime (ör. satım, temerrüt) veya kanun kodu + madde no (ör. TBK 125) kullanılabilir. Tam metin arama, madde başlığında geçmeyen kavramları da bulur. Sonuçları kanuna göre süzmek isabeti artırır. Bu sayfa yalnızca «Mevzuat nasıl aranır» sorusuna cevap verir.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Mevzuat nasıl aranır",
@@ -82364,9 +81995,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "tbk nedir",
-          "TBK nedir",
-          "tbk nedir",
           "tbk nedir"
         ]
       },
@@ -82635,9 +82263,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "tmk nedir",
-          "TMK nedir",
-          "tmk nedir",
           "tmk nedir"
         ]
       },
@@ -82906,9 +82531,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "ttk nedir",
-          "TTK nedir",
-          "ttk nedir",
           "ttk nedir"
         ]
       },
@@ -83177,9 +82799,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "tck nedir",
-          "TCK nedir",
-          "tck nedir",
           "tck nedir"
         ]
       },
@@ -83448,9 +83067,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "hmk nedir",
-          "HMK nedir",
-          "hmk nedir",
           "hmk nedir"
         ]
       },
@@ -83720,9 +83336,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "iik nedir",
-          "İİK nedir",
-          "iik nedir",
-          "iik nedir"
+          "İİK nedir"
         ]
       },
       {
@@ -83990,9 +83604,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "cmk nedir",
-          "CMK nedir",
-          "cmk nedir",
           "cmk nedir"
         ]
       },
@@ -84263,7 +83874,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iş kanunu nedir",
           "İş Kanunu nedir",
-          "is kanunu nedir",
           "is kanunu nedir"
         ]
       },
@@ -84532,9 +84142,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "tkhk nedir",
-          "TKHK nedir",
-          "tkhk nedir",
           "tkhk nedir"
         ]
       },
@@ -84804,7 +84411,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "KVKK nedir",
           "Kanun tanımı",
-          "6698 sayılı kanun",
           "6698 sayılı kanun"
         ]
       },
@@ -85073,9 +84679,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "vuk nedir",
-          "VUK nedir",
-          "vuk nedir",
           "vuk nedir"
         ]
       },
@@ -85344,8 +84947,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "anayasa maddesi",
-          "Anayasa maddesi",
-          "anayasa maddesi nedir",
           "anayasa maddesi nedir"
         ]
       },
@@ -85614,8 +85215,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-devlet şifresi",
-          "e-Devlet şifresi",
-          "e devlet sifresi alma",
           "e devlet sifresi alma"
         ]
       },
@@ -85885,8 +85484,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "uyap vatandaş portal",
-          "UYAP vatandaş portal",
-          "uyap vatandas portal",
           "uyap vatandas portal"
         ]
       },
@@ -86156,8 +85753,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "avukat vekâlet ücreti",
-          "Avukat vekâlet ücreti",
-          "avukat vekalet ucreti",
           "avukat vekalet ucreti"
         ]
       },
@@ -86427,7 +86022,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "arabulucu nasıl seçilir",
           "Arabulucu seçimi",
-          "arabulucu atama",
           "arabulucu atama"
         ]
       },
@@ -86697,7 +86291,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "dilekçe nasıl yazılır",
           "Dilekçe",
-          "dava dilekçesi",
           "dava dilekçesi"
         ]
       },
@@ -86922,7 +86515,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Dilekçe» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -86967,7 +86560,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ihtarname çekme",
           "İhtarname çekme",
-          "ihtarnama nasil cekilir",
           "ihtarnama nasil cekilir"
         ]
       },
@@ -87237,8 +86829,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sulh",
-          "Sulh",
-          "sulh nedir",
           "sulh nedir"
         ]
       },
@@ -87508,8 +87098,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "davadan feragat",
-          "Davadan feragat",
-          "feragat nedir",
           "feragat nedir"
         ]
       },
@@ -87779,8 +87367,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "davayı kabul",
-          "Davayı kabul",
-          "kabul nedir usul",
           "kabul nedir usul"
         ]
       },
@@ -88005,7 +87591,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Davayı kabul» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -88050,7 +87636,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "uzaklaştırma kararı ihlal",
           "İhlal",
-          "6284 ihlal",
           "6284 ihlal"
         ]
       },
@@ -88275,7 +87860,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İhlal» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -88320,7 +87905,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "aile içi şiddet delil",
           "Delil",
-          "şiddet tutanağı",
           "şiddet tutanağı"
         ]
       },
@@ -88591,7 +88175,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "agi",
           "AGİ",
-          "agi nedir",
           "agi nedir"
         ]
       },
@@ -88849,7 +88432,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/rehber/kidem-tazminati"
       }
     ],
-    "lead": "Kıdem tazminatı, giydirilmiş brüt ücret × çalışılan yıl esasına göre kabaca hesaplanır; her tam yıl için 30 günlük ücret ve artan süreler oranlanır. Yıllık tavan, damga vergisi ve hak kazanma şartları döneme göre uygulanır. Portal hesaplama aracı bilgilendi… Bu sayfa yalnızca «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» sorusuna cevap verir. Tam süreç: /bilgi/kidem-tazminati-nasil-alinir",
+    "lead": "Kıdem tazminatı, giydirilmiş brüt ücret × çalışılan yıl esasına göre kabaca hesaplanır; her tam yıl için 30 günlük ücret ve artan süreler oranlanır. Yıllık tavan, damga vergisi ve hak kazanma şartları döneme göre uygulanır.",
     "sections": [
       {
         "heading": "Bu sayfanın odağı: Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi",
@@ -88955,7 +88538,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-alinir).",
+      "Sorunuzun gerçekten «Kabaca hesap formülü, giydirilmiş ücret ve tavanın hesaba etkisi» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kid…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (puantaj/mesai kayıtları, arabuluculuk son tutanağı, iş sözleşmesi, bordro).",
       "Doğru mercie karar verin (İŞKUR); dava şartını atlamayın.",
@@ -89133,7 +88716,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ihbar süreleri tablosu",
           "Kıdeme göre bildirim süresi tablosu",
-          "bildirim süreleri iş kanunu",
           "bildirim süreleri iş kanunu"
         ]
       },
@@ -89403,7 +88985,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işe başlatmama tazminatı",
           "İşe başlatmama tazminatı miktar aralığı",
-          "işe iade tazminatı 4-8 ay",
           "işe iade tazminatı 4-8 ay"
         ]
       },
@@ -89672,8 +89253,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "boşta geçen süre ücreti",
-          "Boşta geçen süre ücreti",
-          "işe iade 4 ay ücret",
           "işe iade 4 ay ücret"
         ]
       },
@@ -89898,7 +89477,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Boşta geçen süre ücreti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -89944,7 +89523,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "haciz ihbarnamesi",
           "3. kişiye ihbar",
-          "99 haciz ihbarnamesi",
           "99 haciz ihbarnamesi"
         ]
       },
@@ -90215,7 +89793,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "istihkak iddiası",
           "İstihkak",
-          "istihkak davası",
           "istihkak davası"
         ]
       },
@@ -90486,7 +90063,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "inkar tazminatı oranı",
           "Oran",
-          "icra inkar yüzde",
           "icra inkar yüzde"
         ]
       },
@@ -90757,7 +90333,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ödeme emri tebliği",
           "Tebliğ anı",
-          "ödeme emri ne demek",
           "ödeme emri ne demek"
         ]
       },
@@ -91027,7 +90602,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "e-devlet kira kontratı",
           "e-Devlet kira bildirimi",
-          "kira sözleşmesi bildirim",
           "kira sözleşmesi bildirim"
         ]
       },
@@ -91298,7 +90872,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kira depozito faizi",
           "Depozitoya faiz",
-          "teminat faiz",
           "teminat faiz"
         ]
       },
@@ -91569,7 +91142,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kiralananın ayıbı",
           "Ayıplı kiralanan",
-          "kiralık ev ayıp",
           "kiralık ev ayıp"
         ]
       },
@@ -91839,7 +91411,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ayıp bildirim süresi",
           "Ayıp ihbar süresi",
-          "ayıp ihbarı",
           "ayıp ihbarı"
         ]
       },
@@ -92109,7 +91680,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tüketici mahkemesi",
           "Mahkeme yolu",
-          "tüketici davası",
           "tüketici davası"
         ]
       },
@@ -92377,9 +91947,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "mesafeli sözleşmeler yönetmeliği",
-          "Satıcı yükümlülüğü",
-          "mesafeli sözleşmeler yönetmeliği",
-          "mesafeli sözleşmeler yönetmeliği"
+          "Satıcı yükümlülüğü"
         ]
       },
       {
@@ -92648,7 +92216,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "şikayet geri alma",
           "Vazgeçme",
-          "suç duyurusu vazgeçme",
           "suç duyurusu vazgeçme"
         ]
       },
@@ -92919,7 +92486,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "müdafi hakkı",
           "Müdafi",
-          "ücretsiz avukat",
           "ücretsiz avukat"
         ]
       },
@@ -93190,7 +92756,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ifade alma hakları",
           "İfade",
-          "ifadede susma hakkı",
           "ifadede susma hakkı"
         ]
       },
@@ -93460,8 +93025,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "soruşturma gizliliği",
-          "Soruşturma gizliliği",
-          "sorusturma gizliligi",
           "sorusturma gizliligi"
         ]
       },
@@ -93731,7 +93294,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "yasal mirasçılar",
           "Kimler mirasçı",
-          "mirasçılık sırası",
           "mirasçılık sırası"
         ]
       },
@@ -94002,7 +93564,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "eşin miras payı",
           "Eş payı",
-          "sağ kalan eş miras",
           "sağ kalan eş miras"
         ]
       },
@@ -94271,9 +93832,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "vasiyetname iptali",
-          "İptal",
-          "vasiyetname iptali",
-          "vasiyetname iptali"
+          "İptal"
         ]
       },
       {
@@ -94497,7 +94056,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İptal» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -94540,9 +94099,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "miras sebebiyle istihkak",
-          "İstihkak",
-          "miras sebebiyle istihkak",
-          "miras sebebiyle istihkak"
+          "İstihkak"
         ]
       },
       {
@@ -94811,7 +94368,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tapuda satış",
           "Satış günü",
-          "tapu randevu satış",
           "tapu randevu satış"
         ]
       },
@@ -95081,7 +94637,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "hisseli tapu",
           "Hisseli",
-          "paylı mülkiyet risk",
           "paylı mülkiyet risk"
         ]
       },
@@ -95351,8 +94906,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "tarla tapu",
-          "Tarla tapu",
-          "tarla tapu tarim",
           "tarla tapu tarim"
         ]
       },
@@ -95621,8 +95174,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kat malikleri kurulu",
-          "Kat malikleri kurulu",
-          "kat mulkiyeti genel kurul",
           "kat mulkiyeti genel kurul"
         ]
       },
@@ -95891,8 +95442,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "dilekçe hakkı 3071",
-          "Dilekçe hakkı 3071",
-          "dilekce hakki 3071",
           "dilekce hakki 3071"
         ]
       },
@@ -96162,7 +95711,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "idari başvuru yolu",
           "Ön başvuru",
-          "başvuru yollarının tüketilmesi",
           "başvuru yollarının tüketilmesi"
         ]
       },
@@ -96433,7 +95981,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "imar para cezası",
           "İmar para cezası",
-          "belediye imar para cezasi",
           "belediye imar para cezasi"
         ]
       },
@@ -96703,8 +96250,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "zorunlu trafik sigortası",
-          "Zorunlu trafik sigortası",
-          "trafik sigortasi zorunlu",
           "trafik sigortasi zorunlu"
         ]
       },
@@ -96973,8 +96518,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "araç değer kaybı",
-          "Araç değer kaybı",
-          "deger kaybi arac",
           "deger kaybi arac"
         ]
       },
@@ -97242,9 +96785,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "destekten yoksun kalma",
-          "Destekten yoksun kalma",
-          "destekten yoksun kalma",
           "destekten yoksun kalma"
         ]
       },
@@ -97513,8 +97053,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-devlet sgk borcu",
-          "e-Devlet SGK borcu",
-          "e devlet sgk borcu",
           "e devlet sgk borcu"
         ]
       },
@@ -97784,8 +97322,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "stopaj",
-          "Stopaj",
-          "stopaj nedir",
           "stopaj nedir"
         ]
       },
@@ -98010,7 +97546,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Stopaj» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -98054,9 +97590,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "muhtasar beyanname",
-          "Muhtasar beyanname",
-          "muhtasar beyanname",
           "muhtasar beyanname"
         ]
       },
@@ -98325,8 +97858,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kredi kartı asgari ödeme",
-          "Kredi kartı asgari ödeme",
-          "kredi karti asgari odeme",
           "kredi karti asgari odeme"
         ]
       },
@@ -98597,7 +98128,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "banka icra takibi",
           "Banka alacaklı",
-          "banka haciz",
           "banka haciz"
         ]
       },
@@ -98866,9 +98396,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "kefilden tahsilat",
-          "Kefilden tahsilat",
-          "kefilden tahsilat",
           "kefilden tahsilat"
         ]
       },
@@ -99136,9 +98663,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "iş kazası sonrası haklar",
-          "Hak listesi",
-          "iş kazası sonrası haklar",
-          "iş kazası sonrası haklar"
+          "Hak listesi"
         ]
       },
       {
@@ -99406,8 +98931,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "meslek hastalığı",
-          "Meslek hastalığı",
-          "meslek hastalığı tazminat",
           "meslek hastalığı tazminat"
         ]
       },
@@ -99675,9 +99198,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "işveren iş kazası sorumluluğu",
-          "İşveren sorumluluğu",
-          "işveren iş kazası sorumluluğu",
-          "işveren iş kazası sorumluluğu"
+          "İşveren sorumluluğu"
         ]
       },
       {
@@ -99901,7 +99422,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İşveren sorumluluğu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -99946,8 +99467,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "evliliğin iptali",
-          "Evliliğin iptali",
-          "evlilik iptali davasi",
           "evlilik iptali davasi"
         ]
       },
@@ -100172,7 +99691,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Evliliğin iptali» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -100217,8 +99736,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "babalık davası",
-          "Babalık davası",
-          "babalik davasi",
           "babalik davasi"
         ]
       },
@@ -100443,7 +99960,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Babalık davası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -100488,8 +100005,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "soyadı değişikliği davası",
-          "Soyadı değişikliği davası",
-          "soyadi degisikligi davasi",
           "soyadi degisikligi davasi"
         ]
       },
@@ -100760,7 +100275,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "isim değişikliği davası",
           "İsim değişikliği davası",
-          "isim degisikligi davasi",
           "isim degisikligi davasi"
         ]
       },
@@ -101028,9 +100542,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "görevsizlik kararı",
-          "Görevsizlik",
-          "görevsizlik kararı",
-          "görevsizlik kararı"
+          "Görevsizlik"
         ]
       },
       {
@@ -101297,9 +100809,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yetkisizlik kararı",
-          "Yetkisizlik",
-          "yetkisizlik kararı",
-          "yetkisizlik kararı"
+          "Yetkisizlik"
         ]
       },
       {
@@ -101568,8 +101078,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "keşif",
-          "Keşif",
-          "kesif nedir",
           "kesif nedir"
         ]
       },
@@ -101838,9 +101346,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "yemin delili",
-          "Yemin delili",
-          "yemin delili",
           "yemin delili"
         ]
       },
@@ -102065,7 +101570,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Yemin delili» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -102110,7 +101615,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "istinaf dilekçesi",
           "Dilekçe",
-          "istinaf nasıl yazılır",
           "istinaf nasıl yazılır"
         ]
       },
@@ -102380,7 +101884,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "temyiz sınırı",
           "Parasal sınır",
-          "temyiz parasal sınır",
           "temyiz parasal sınır"
         ]
       },
@@ -102650,8 +102153,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-devlet ceza sorgulama",
-          "e-Devlet ceza sorgulama",
-          "e devlet ceza sorgulama",
           "e devlet ceza sorgulama"
         ]
       },
@@ -102921,8 +102422,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-devlet dava dosyası",
-          "e-Devlet dava dosyası",
-          "e devlet dava dosyasi",
           "e devlet dava dosyasi"
         ]
       },
@@ -103192,7 +102691,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "e-devlet miras",
           "e-Devlet miras menüsü",
-          "e-devlet veraset işlemleri",
           "e-devlet veraset işlemleri"
         ]
       },
@@ -103460,9 +102958,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-devlet tapu sorgulama",
-          "e-Devlet",
-          "e-devlet tapu sorgulama",
-          "e-devlet tapu sorgulama"
+          "e-Devlet"
         ]
       },
       {
@@ -103731,7 +103227,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "e-devlet SGK hizmet dökümü",
           "e-Devlet adım",
-          "4A hizmet dökümü",
           "4A hizmet dökümü"
         ]
       },
@@ -104001,7 +103496,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "konut kira artış sınırı",
           "Konut yasal artış tavanı (dönemsel)",
-          "yasal kira zammı tavanı",
           "yasal kira zammı tavanı"
         ]
       },
@@ -104271,7 +103765,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işyeri kira artışı",
           "İşyeri kira artışı serbestisi / tespit",
-          "ticari kira zammı",
           "ticari kira zammı"
         ]
       },
@@ -104364,7 +103857,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «İşyeri kira artışı serbestisi / tespit» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kira-artis-orani-nasil-hesaplanir).",
+      "Sorunuzun gerçekten «İşyeri kira artışı serbestisi / tespit» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kira-artis-orani-nasil-hesapl…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (tahliye taahhüdü, teslim tutanağı, kira sözleşmesi, ödeme dekontları).",
       "Doğru mercie karar verin (icra dairesi); dava şartını atlamayın.",
@@ -104542,7 +104035,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kira sözleşmesi bitişi",
           "Süre sonu yenileme",
-          "kira yenileme",
           "kira yenileme"
         ]
       },
@@ -104804,7 +104296,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=zamana%C5%9F%C4%B1m%C4%B1"
       }
     ],
-    "lead": "TBK m.125, borçlar hukukunda zamanaşımına ilişkin temel hükümdür. Kanunda aksi öngörülmedikçe her alacak on yıllık zamanaşımına tabidir. Beş yıllık özel süreler (ör. kira, faiz, dönemsel edimler) ayrı maddelerde düzenlenir; somut alacak tipine göre doğru süreyi seçmek gerekir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tbk/madde-125. Bu sayfa («TBK madde 125» / «TBK m.125») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "TBK m.125, borçlar hukukunda zamanaşımına ilişkin temel hükümdür. Kanunda aksi öngörülmedikçe her alacak on yıllık zamanaşımına tabidir. Beş yıllık özel süreler (ör. kira, faiz, dönemsel edimler) ayrı maddelerde düzenlenir; somut alacak tipine göre doğru süreyi seçmek gerekir.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -104903,6 +104395,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «TBK 125 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TBK 125 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Resmî Gazete mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -105002,7 +104499,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=haks%C4%B1z%20fiil"
       }
     ],
-    "lead": "TBK m.49 haksız fiil sorumluluğunun temelini kurar: Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür. Maddi ve manevi tazminat taleplerinin dayanağı sıklıkla bu maddedir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tbk/madde-49. Bu sayfa («TBK madde 49» / «haksız fiil») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "TBK m.49 haksız fiil sorumluluğunun temelini kurar: Kusurlu ve hukuka aykırı bir fiille başkasına zarar veren, bu zararı gidermekle yükümlüdür. Maddi ve manevi tazminat taleplerinin dayanağı sıklıkla bu maddedir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tbk/madde-49.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -105099,6 +104596,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «TBK 49 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TBK 49 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Yargıtay/Danıştay karar arama mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -105198,7 +104700,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=temerr%C3%BCt"
       }
     ],
-    "lead": "TBK m.112 borçlunun temerrüdünü düzenler. Muaccel bir borcun ifa edilmemesi ve (gerekliyse) ihtar sonrası temerrüt hükümleri devreye girer; tazminat ve ifadan vazgeçme seçenekleri doğabilir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tbk/madde-112. Bu sayfa («TBK madde 112» / «borçlu temerrüdü») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "TBK m.112 borçlunun temerrüdünü düzenler. Muaccel bir borcun ifa edilmemesi ve (gerekliyse) ihtar sonrası temerrüt hükümleri devreye girer; tazminat ve ifadan vazgeçme seçenekleri doğabilir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tbk/madde-112.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -105295,6 +104797,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «TBK 112 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TBK 112 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Resmî Gazete mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -105394,7 +104901,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/aile-hukuku"
       }
     ],
-    "lead": "TMK m.166 evlilik birliğinin temelinden sarsılması sebebine dayalı boşanmayı düzenler. Anlaşmalı boşanma da aynı madde çerçevesinde özel şartlarla mümkündür; çekişmeli boşanmada ispat ve kusur tartışması öne çıkar. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tmk/madde-166. Bu sayfa («TMK madde 166» / «boşanma TMK 166») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "TMK m.166 evlilik birliğinin temelinden sarsılması sebebine dayalı boşanmayı düzenler. Anlaşmalı boşanma da aynı madde çerçevesinde özel şartlarla mümkündür; çekişmeli boşanmada ispat ve kusur tartışması öne çıkar. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tmk/madde-166.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -105491,6 +104998,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «TMK 166 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TMK 166 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Yargıtay/Danıştay karar arama mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -105682,6 +105194,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «TMK 499 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TMK 499 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Resmî Gazete mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -105781,7 +105298,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "TCK m.86 kasten yaralama suçunu düzenler. Basit tıbbi müdahale ile giderilebilecek yaralama ile daha ağır neticeler farklı fıkra ve cezaları tetikler; şikâyet ve uzlaştırma kuralları neticeye göre değişir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tck/madde-86. Bu sayfa («TCK madde 86» / «kasten yaralama») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "TCK m.86 kasten yaralama suçunu düzenler. Basit tıbbi müdahale ile giderilebilecek yaralama ile daha ağır neticeler farklı fıkra ve cezaları tetikler; şikâyet ve uzlaştırma kuralları neticeye göre değişir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tck/madde-86.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -105878,6 +105395,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «TCK 86 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TCK 86 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Resmî Gazete mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -105977,7 +105499,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "TCK m.106 tehdit suçunu düzenler. Bir kimsenin kendisinin veya yakınının hayatına, vücut veya cinsel dokunulmazlığına yönelik saldırı gerçekleştireceğinden bahisle tehdit cezalandırılır; malvarlığına yönelik tehdit ayrı fıkralarda yer alır. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tck/madde-106. Bu sayfa («TCK madde 106» / «tehdit TCK») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "TCK m.106 tehdit suçunu düzenler. Bir kimsenin kendisinin veya yakınının hayatına, vücut veya cinsel dokunulmazlığına yönelik saldırı gerçekleştireceğinden bahisle tehdit cezalandırılır; malvarlığına yönelik tehdit ayrı fıkralarda yer alır.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -106074,6 +105596,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «TCK 106 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TCK 106 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, mevzuat bankası mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -106173,7 +105700,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/cmk"
       }
     ],
-    "lead": "TCK m.125 hakaret suçunu düzenler. Bir kimsenin onur, şeref ve saygınlığını rencide edebilecek somut bir fiil veya olgu isnadı ya da sövme fiilleri kapsamda olabilir; şikâyete bağlıdır ve uzlaştırma gündeme gelebilir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tck/madde-125. Bu sayfa («TCK madde 125» / «hakaret TCK») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "TCK m.125 hakaret suçunu düzenler. Bir kimsenin onur, şeref ve saygınlığını rencide edebilecek somut bir fiil veya olgu isnadı ya da sövme fiilleri kapsamda olabilir; şikâyete bağlıdır ve uzlaştırma gündeme gelebilir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/tck/madde-125.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -106270,6 +105797,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «TCK 125 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TCK 125 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Yargıtay/Danıştay karar arama mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -106369,7 +105901,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "HMK m.119 dava dilekçesinin zorunlu unsurlarını sayar. Taraflar, konu, vacip sonuç, vakıalar, deliller ve hukuki sebepler eksik bırakılırsa usulî sonuçlar doğabilir; uygulamada eksikliklerin tamamlanması istenebilir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/hmk/madde-119. Bu sayfa («HMK madde 119» / «dava dilekçesi HMK») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "HMK m.119 dava dilekçesinin zorunlu unsurlarını sayar. Taraflar, konu, vacip sonuç, vakıalar, deliller ve hukuki sebepler eksik bırakılırsa usulî sonuçlar doğabilir; uygulamada eksikliklerin tamamlanması istenebilir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/hmk/madde-119.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -106466,6 +105998,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «HMK 119 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «HMK 119 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Yargıtay/Danıştay karar arama mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -106565,7 +106102,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/kategori/hmk"
       }
     ],
-    "lead": "HMK m.389 ihtiyati tedbirin şartlarını düzenler. Hakların elde edilmesinin önemli ölçüde zorlaşacağı veya imkânsızlaşacağı yahut gecikme nedeniyle bir sakıncanın doğacağı hallerde tedbir istenebilir; teminat kuralı ve itiraz yolları vardır. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/hmk/madde-389. Bu sayfa («HMK madde 389» / «ihtiyati tedbir HMK») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "HMK m.389 ihtiyati tedbirin şartlarını düzenler. Hakların elde edilmesinin önemli ölçüde zorlaşacağı veya imkânsızlaşacağı yahut gecikme nedeniyle bir sakıncanın doğacağı hallerde tedbir istenebilir; teminat kuralı ve itiraz yolları vardır.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -106662,6 +106199,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «HMK 389 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «HMK 389 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Yargıtay/Danıştay karar arama mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -106761,7 +106303,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=%C4%B0%C4%B0K"
       }
     ],
-    "lead": "İİK m.62 ödeme emrine itirazı düzenler. Borçlu, tebliğden itibaren yasal süre içinde (kural 7 gün) itiraz ederek takibi durdurabilir; itirazın iptali veya kaldırılması yolları alacaklıya açıktır. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/iik/madde-62. Bu sayfa («İİK madde 62» / «ödeme emrine itiraz İİK») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "İİK m.62 ödeme emrine itirazı düzenler. Borçlu, tebliğden itibaren yasal süre içinde (kural 7 gün) itiraz ederek takibi durdurabilir; itirazın iptali veya kaldırılması yolları alacaklıya açıktır. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/iik/madde-62.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -106858,6 +106400,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «İİK 62 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «İİK 62 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, mevzuat bankası mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -106957,7 +106504,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/hesaplama/kidem"
       }
     ],
-    "lead": "4857 sayılı İş Kanunu m.17 belirsiz süreli iş sözleşmelerinde bildirim (ihbar) sürelerini düzenler. Sürelere uyulmadan fesihte ihbar tazminatı gündeme gelebilir; kıdemden ayrı bir kalemdir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/is-kanunu/madde-17. Bu sayfa («İş Kanunu madde 17» / «ihbar süresi madde 17») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "4857 sayılı İş Kanunu m.17 belirsiz süreli iş sözleşmelerinde bildirim (ihbar) sürelerini düzenler. Sürelere uyulmadan fesihte ihbar tazminatı gündeme gelebilir; kıdemden ayrı bir kalemdir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/is-kanunu/madde-17.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -107054,6 +106601,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «İş Kanunu 17 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «İş Kanunu 17 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, mevzuat bankası mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -107153,7 +106705,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "href": "/ara?q=madde%2025"
       }
     ],
-    "lead": "İş Kanunu m.25 işverenin haklı nedenle derhal fesih hallerini sayar. Sağlık, ahlak ve iyi niyet, zorlayıcı sebepler gibi bentler vardır; ispat yükü ve kıdem hakkı somut bende göre değişir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/is-kanunu/madde-25. Bu sayfa («İş Kanunu madde 25» / «haklı fesih 25») yalnızca vatandaş dilinde kısa özet sunar; Google’a kral URL olarak madde sayfası gösterilir (canonical). Bağlayıcı tavsiye değildir; fıkra ve bent atlanmamalıdır.",
+    "lead": "İş Kanunu m.25 işverenin haklı nedenle derhal fesih hallerini sayar. Sağlık, ahlak ve iyi niyet, zorlayıcı sebepler gibi bentler vardır; ispat yükü ve kıdem hakkı somut bende göre değişir. Tam resmî madde metni ve akademik şerh şu adrestedir: /mevzuat/is-kanunu/madde-25.",
     "sections": [
       {
         "heading": "Özet (vatandaş dili)",
@@ -107250,6 +106802,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "title": "Örnek — Madde okuma",
         "body": "Vatandaş «İş Kanunu 25 özet» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
         "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «İş Kanunu 25 özet»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Resmî Gazete mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
       }
     ],
     "scenarios": [
@@ -107358,8 +106915,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "manevi tazminat",
-          "Manevi tazminat",
-          "manevi tazminat nedir",
           "manevi tazminat nedir"
         ]
       },
@@ -107629,8 +107184,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "maddi tazminat",
-          "Maddi tazminat",
-          "maddi tazminat nedir",
           "maddi tazminat nedir"
         ]
       },
@@ -107899,9 +107452,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "kusursuz sorumluluk",
-          "Kusursuz sorumluluk",
-          "kusursuz sorumluluk",
           "kusursuz sorumluluk"
         ]
       },
@@ -108171,8 +107721,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "rücu davası",
-          "Rücu davası",
-          "rucu davasi nedir",
           "rucu davasi nedir"
         ]
       },
@@ -108440,9 +107988,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "ticari defterler",
-          "Ticari defterler",
-          "ticari defterler",
           "ticari defterler"
         ]
       },
@@ -108667,7 +108212,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Ticari defterler» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -108711,8 +108256,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ticaret unvanı tescili",
-          "Ticaret unvanı tescili",
-          "unvan tescili",
           "unvan tescili"
         ]
       },
@@ -108982,7 +108525,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "aciz vesikası",
           "Aciz",
-          "aciz belgesi icra",
           "aciz belgesi icra"
         ]
       },
@@ -109251,8 +108793,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "turistik ikamet izni",
-          "Turistik ikamet izni",
-          "turist ikamet izni",
           "turist ikamet izni"
         ]
       },
@@ -109521,8 +109061,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çalışma izni muafiyeti",
-          "Çalışma izni muafiyeti",
-          "calisma izni muafiyeti",
           "calisma izni muafiyeti"
         ]
       },
@@ -109792,7 +109330,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iskansız daire",
           "İskansız risk",
-          "iskansız ev riskleri",
           "iskansız ev riskleri"
         ]
       },
@@ -110060,9 +109597,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yapı denetim",
-          "Denetim",
-          "yapı denetim",
-          "yapı denetim"
+          "Denetim"
         ]
       },
       {
@@ -110286,7 +109821,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Denetim» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -110332,7 +109867,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "imar affı",
           "İmar affı",
-          "imar affi nedir",
           "imar affi nedir"
         ]
       },
@@ -110557,7 +110091,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İmar affı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -110602,7 +110136,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "veri ihlali bildirimi",
           "İhlal",
-          "KVKK ihlal",
           "KVKK ihlal"
         ]
       },
@@ -110872,7 +110405,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "çerez aydınlatması",
           "Çerez",
-          "cookie KVKK",
           "cookie KVKK"
         ]
       },
@@ -111142,7 +110674,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iş arabuluculuk zorunlu",
           "İş davaları",
-          "iş davası arabuluculuk",
           "iş davası arabuluculuk"
         ]
       },
@@ -111412,7 +110943,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ticari arabuluculuk",
           "Ticari dava",
-          "ticari dava arabuluculuk",
           "ticari dava arabuluculuk"
         ]
       },
@@ -111680,9 +111210,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "tüketici arabuluculuk",
-          "Tüketici",
-          "tüketici arabuluculuk",
-          "tüketici arabuluculuk"
+          "Tüketici"
         ]
       },
       {
@@ -111951,7 +111479,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "nafaka artırım davası",
           "Genel nafaka artırım usulü (yoksulluk/iştirak ortak)",
-          "nafaka nasıl artırılır usul",
           "nafaka nasıl artırılır usul"
         ]
       },
@@ -112044,7 +111571,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «Genel nafaka artırım usulü (yoksulluk/iştirak ortak)» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/nafaka-davasi-nedir).",
+      "Sorunuzun gerçekten «Genel nafaka artırım usulü (yoksulluk/iştirak ortak)» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/nafaka-davasi-n…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (nüfus kayıt örneği, gelir belgesi, protokol, tıbbi/psikolojik rapor).",
       "Doğru mercie karar verin (nüfus müdürlüğü); dava şartını atlamayın.",
@@ -112222,7 +111749,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "nafaka indirim davası",
           "İndirim veya kaldırma",
-          "nafaka kaldırma",
           "nafaka kaldırma"
         ]
       },
@@ -112493,7 +112019,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iştirak nafakası hesaplama",
           "İştirak nafakası kabaca hesap yaklaşımı",
-          "çocuk nafakası hesabı",
           "çocuk nafakası hesabı"
         ]
       },
@@ -112718,7 +112243,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İştirak nafakası kabaca hesap yaklaşımı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -112763,7 +112288,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "boşanma davası ne kadar tutar",
           "Masraf",
-          "boşanma masrafı",
           "boşanma masrafı"
         ]
       },
@@ -113032,9 +112556,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "avukat tutmak zorunlu mu",
-          "Avukat tutmak zorunlu mu",
-          "avukat tutmak zorunlu mu",
           "avukat tutmak zorunlu mu"
         ]
       },
@@ -113259,7 +112780,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Avukat tutmak zorunlu mu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -113304,8 +112825,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "adli yardım",
-          "Adli yardım",
-          "adli yardim nedir",
           "adli yardim nedir"
         ]
       },
@@ -113573,9 +113092,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "arabuluculuk anlaşması icra",
-          "İcra",
-          "arabuluculuk anlaşması icra",
-          "arabuluculuk anlaşması icra"
+          "İcra"
         ]
       },
       {
@@ -113845,7 +113362,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra dosyası kapatma",
           "Dosya kapanışı",
-          "icra dosyası kapandı",
           "icra dosyası kapandı"
         ]
       },
@@ -114115,9 +113631,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "e-haciz nedir",
-          "Vergi e-haciz",
-          "vergi e-haciz",
-          "vergi e-haciz"
+          "Vergi e-haciz"
         ]
       },
       {
@@ -114386,8 +113900,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sgk teşvikleri",
-          "SGK teşvikleri",
-          "sgk tesvik nedir",
           "sgk tesvik nedir"
         ]
       },
@@ -114657,7 +114169,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işsizlik sigortası",
           "Sigorta",
-          "işsizlik sigortası primi",
           "işsizlik sigortası primi"
         ]
       },
@@ -115021,7 +114532,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «SGK bildirimi, vergi/damga ve prim ilişkisi» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-alinir).",
+      "Sorunuzun gerçekten «SGK bildirimi, vergi/damga ve prim ilişkisi» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-al…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (bordro, SGK hizmet dökümü, fesih bildirimi, puantaj/mesai kayıtları).",
       "Doğru mercie karar verin (arabuluculuk bürosu); dava şartını atlamayın.",
@@ -115198,7 +114709,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "fesih bildirimi",
           "Bildirim",
-          "işten çıkarma bildirimi",
           "işten çıkarma bildirimi"
         ]
       },
@@ -115468,7 +114978,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "toplu işten çıkarma",
           "Toplu çıkış",
-          "toplu fesih",
           "toplu fesih"
         ]
       },
@@ -115738,8 +115247,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "uzaktan çalışma",
-          "Uzaktan çalışma",
-          "uzaktan calisma yonetmelik",
           "uzaktan calisma yonetmelik"
         ]
       },
@@ -116009,8 +115516,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "stajyer hakları",
-          "Stajyer hakları",
-          "stajyer haklari",
           "stajyer haklari"
         ]
       },
@@ -116280,8 +115785,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çağrı üzerine çalışma",
-          "Çağrı üzerine çalışma",
-          "cagri uzerine calisma",
           "cagri uzerine calisma"
         ]
       },
@@ -116506,7 +116009,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Çağrı üzerine çalışma» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -116550,8 +116053,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "geçerli fesih",
-          "Geçerli fesih",
-          "iş güvencesi geçerli neden",
           "iş güvencesi geçerli neden"
         ]
       },
@@ -116822,7 +116323,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iş arama izni",
           "İş arama izni",
-          "is aramaya izin",
           "is aramaya izin"
         ]
       },
@@ -117092,8 +116592,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çalışma belgesi",
-          "Çalışma belgesi",
-          "calisma belgesi",
           "calisma belgesi"
         ]
       },
@@ -117499,7 +116997,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«ibraname nedir»: Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
+      "Fesih/ayrılış belgelerini ve bordroları toplayın; SGK dökümü alın.",
       "Kıdem, ihbar, fazla mesai, yıllık izin kalemlerini listeleyin.",
       "Zorunluysa arabuluculuğa başvurun; tutanağı saklayın.",
       "Anlaşmazlıkta iş mahkemesinde dava açın; delil listesini ekleyin.",
@@ -117679,7 +117177,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işçilik alacakları davası",
           "Dava yolu ve arabuluculuk odaklı işçilik alacağı",
-          "işçi alacak davası",
           "işçi alacak davası"
         ]
       },
@@ -117772,7 +117269,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «Dava yolu ve arabuluculuk odaklı işçilik alacağı» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-alinir).",
+      "Sorunuzun gerçekten «Dava yolu ve arabuluculuk odaklı işçilik alacağı» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nas…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (iş sözleşmesi, bordro, SGK hizmet dökümü, fesih bildirimi).",
       "Doğru mercie karar verin (Çalışma ve Sosyal Güvenlik); dava şartını atlamayın.",
@@ -117904,7 +117401,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Dava yolu ve arabuluculuk odaklı işçilik alacağı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -117950,7 +117447,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "nafaka maaş haczi",
           "Maaş haczi ile nafaka çakışması",
-          "ücret haczi nafaka",
           "ücret haczi nafaka"
         ]
       },
@@ -118218,9 +117714,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çocuk teslimi direnme",
-          "Direnme",
-          "çocuk teslimi direnme",
-          "çocuk teslimi direnme"
+          "Direnme"
         ]
       },
       {
@@ -118444,7 +117938,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Direnme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -118489,8 +117983,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "aile mahkemesi",
-          "Aile mahkemesi",
-          "aile mahkamesi nedir",
           "aile mahkamesi nedir"
         ]
       },
@@ -118761,7 +118253,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iş mahkemesi",
           "İş mahkemesi",
-          "is mahkemesi nedir",
           "is mahkemesi nedir"
         ]
       },
@@ -118986,7 +118477,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İş mahkemesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -119031,7 +118522,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tüketici hakem heyeti parasal sınır",
           "Parasal sınır",
-          "hakem heyeti limit",
           "hakem heyeti limit"
         ]
       },
@@ -119301,7 +118791,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "e-devlet tüketici",
           "e-Devlet başvuru",
-          "tüketici hakem e-devlet",
           "tüketici hakem e-devlet"
         ]
       },
@@ -119570,8 +119059,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "noter vekâlet ücreti",
-          "Noter vekâlet ücreti",
-          "noter vekalet ucreti",
           "noter vekalet ucreti"
         ]
       },
@@ -119840,8 +119327,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "genel vekâletname riskleri",
-          "Genel vekâletname riskleri",
-          "genel vekaletname risk",
           "genel vekaletname risk"
         ]
       },
@@ -120066,7 +119551,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Genel vekâletname riskleri» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -120111,7 +119596,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "vekaleten tapu satışı",
           "Vekâletle satış",
-          "tapu vekaletname",
           "tapu vekaletname"
         ]
       },
@@ -120336,7 +119820,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Vekâletle satış» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -120381,8 +119865,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sahte vekâletname",
-          "Sahte vekâletname",
-          "sahte vekaletname",
           "sahte vekaletname"
         ]
       },
@@ -120652,8 +120134,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "hile ile sözleşme",
-          "Hile ile sözleşme",
-          "hile ile sozlesme",
           "hile ile sozlesme"
         ]
       },
@@ -120923,8 +120403,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "gabin",
-          "Gabin",
-          "gabin nedir",
           "gabin nedir"
         ]
       },
@@ -121194,8 +120672,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sözleşmeden dönme",
-          "Sözleşmeden dönme",
-          "sozlesmeden donme",
           "sozlesmeden donme"
         ]
       },
@@ -121420,7 +120896,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Sözleşmeden dönme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -121465,8 +120941,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "cezai şart",
-          "Cezai şart",
-          "cezai sart nedir",
           "cezai sart nedir"
         ]
       },
@@ -121872,7 +121346,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "«temerrüt faizi»: Alacak/borç sebebini ve belgeleri toplayın.",
+      "Alacak/borç sebebini ve belgeleri toplayın.",
       "İhtar veya temerrüt durumunu değerlendirin.",
       "Arabuluculuk/dava/icra seçeneklerini karşılaştırın.",
       "Faiz ve masraf hesabını yapın.",
@@ -122007,7 +121481,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Üç şey: doğru merci · doğru süre · doğru belge. Tanım tek başına yetmez."
   },
   {
@@ -122051,8 +121525,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "faiz hesaplama",
-          "Faiz hesaplama",
-          "faiz hesaplama rehberi",
           "faiz hesaplama rehberi"
         ]
       },
@@ -122277,7 +121749,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Faiz hesaplama» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -122322,8 +121794,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "rehin",
-          "Rehin",
-          "rehin nedir",
           "rehin nedir"
         ]
       },
@@ -122548,7 +122018,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Rehin» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -122591,9 +122061,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "teminat mektubu",
-          "Teminat mektubu",
-          "teminat mektubu",
           "teminat mektubu"
         ]
       },
@@ -122862,8 +122329,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çek ibraz süresi",
-          "Çek ibraz süresi",
-          "cek ibraz suresi",
           "cek ibraz suresi"
         ]
       },
@@ -123133,8 +122598,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "bono vade ve protesto",
-          "Bono vade ve protesto",
-          "bono vade",
           "bono vade"
         ]
       },
@@ -123404,7 +122867,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iflasın ertelenmesi",
           "Tarihçe / güncel",
-          "konkordato iflas farkı",
           "konkordato iflas farkı"
         ]
       },
@@ -123674,8 +123136,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ortağın şirket borcu sorumluluğu",
-          "Ortağın şirket borcu sorumluluğu",
-          "sirket borclarinda ortak",
           "sirket borclarinda ortak"
         ]
       },
@@ -123900,7 +123360,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Ortağın şirket borcu sorumluluğu» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -123945,8 +123405,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yönetim kurulu sorumluluğu",
-          "Yönetim kurulu sorumluluğu",
-          "anonim sirket yonetim kurulu",
           "anonim sirket yonetim kurulu"
         ]
       },
@@ -124216,8 +123674,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ticari iş karinesi",
-          "Ticari iş karinesi",
-          "ticari is karinesi",
           "ticari is karinesi"
         ]
       },
@@ -124487,8 +123943,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "faturaya itiraz süresi",
-          "Faturaya itiraz süresi",
-          "fatura itiraz suresi",
           "fatura itiraz suresi"
         ]
       },
@@ -124758,8 +124212,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "cari hesap sözleşmesi",
-          "Cari hesap sözleşmesi",
-          "cari hesap sozlesmesi",
           "cari hesap sozlesmesi"
         ]
       },
@@ -125029,8 +124481,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "franchise sözleşmesi",
-          "Franchise sözleşmesi",
-          "franchise sozlesmesi",
           "franchise sozlesmesi"
         ]
       },
@@ -125300,8 +124750,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "acente sözleşmesi",
-          "Acente sözleşmesi",
-          "acente sozlesmesi",
           "acente sozlesmesi"
         ]
       },
@@ -125571,8 +125019,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "taşıma sözleşmesi",
-          "Taşıma sözleşmesi",
-          "tasima sozlesmesi",
           "tasima sozlesmesi"
         ]
       },
@@ -125842,8 +125288,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "emanet sözleşmesi",
-          "Emanet sözleşmesi",
-          "emanet sozlesmesi",
           "emanet sozlesmesi"
         ]
       },
@@ -126112,8 +125556,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ödünç sözleşmesi",
-          "Ödünç sözleşmesi",
-          "odunc sozlesmesi",
           "odunc sozlesmesi"
         ]
       },
@@ -126383,8 +125825,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "bağış sözleşmesi",
-          "Bağış sözleşmesi",
-          "bagis sozlesmesi",
           "bagis sozlesmesi"
         ]
       },
@@ -126654,8 +126094,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "vekâlet sözleşmesi tbk",
-          "Vekâlet sözleşmesi TBK",
-          "vekalet sozlesmesi tbk",
           "vekalet sozlesmesi tbk"
         ]
       },
@@ -126925,8 +126363,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "eser sözleşmesi",
-          "Eser sözleşmesi",
-          "eser sozlesmesi nedir",
           "eser sozlesmesi nedir"
         ]
       },
@@ -127151,7 +126587,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Eser sözleşmesi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -127196,8 +126632,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "hizmet sözleşmesi tbk",
-          "Hizmet sözleşmesi TBK",
-          "hizmet sozlesmesi tbk",
           "hizmet sozlesmesi tbk"
         ]
       },
@@ -127467,8 +126901,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "satış vaadi icrası",
-          "Satış vaadi icrası",
-          "satis vaadi icra",
           "satis vaadi icra"
         ]
       },
@@ -127738,8 +127170,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ön sözleşme",
-          "Ön sözleşme",
-          "on sozlesme nedir",
           "on sozlesme nedir"
         ]
       },
@@ -128009,8 +127439,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "genel işlem koşulları",
-          "Genel işlem koşulları",
-          "genel islem kosullari",
           "genel islem kosullari"
         ]
       },
@@ -128280,8 +127708,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sözleşmenin yorumu",
-          "Sözleşmenin yorumu",
-          "sozlesmenin yorumu",
           "sozlesmenin yorumu"
         ]
       },
@@ -128551,8 +127977,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "hukuki işlem",
-          "Hukuki işlem",
-          "hukuki islem nedir",
           "hukuki islem nedir"
         ]
       },
@@ -128822,8 +128246,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "butlan",
-          "Butlan",
-          "butlan nedir",
           "butlan nedir"
         ]
       },
@@ -129093,9 +128515,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "iptal edilebilirlik",
-          "İptal edilebilirlik",
-          "iptal edilebilirlik",
-          "iptal edilebilirlik"
+          "İptal edilebilirlik"
         ]
       },
       {
@@ -129365,7 +128785,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iyiniyet",
           "İyiniyet",
-          "iyiniyet nedir",
           "iyiniyet nedir"
         ]
       },
@@ -129635,8 +129054,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "dürüstlük kuralı",
-          "Dürüstlük kuralı",
-          "durustluk kurali",
           "durustluk kurali"
         ]
       },
@@ -129905,8 +129322,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "hak düşürücü süre farkı",
-          "Hak düşürücü süre farkı",
-          "hak dusurucu sure",
           "hak dusurucu sure"
         ]
       },
@@ -130175,8 +129590,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "zamanaşımının kesilmesi ve durması",
-          "Zamanaşımının kesilmesi ve durması",
-          "kesinti durma zamansimi",
           "kesinti durma zamansimi"
         ]
       },
@@ -130447,7 +129860,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ispat yükü",
           "İspat yükü",
-          "ispat yuku",
           "ispat yuku"
         ]
       },
@@ -130717,8 +130129,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "karine",
-          "Karine",
-          "karine nedir",
           "karine nedir"
         ]
       },
@@ -130989,7 +130399,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "inkar tazminatı şartları",
           "Şartlar",
-          "haksız itiraz tazminat",
           "haksız itiraz tazminat"
         ]
       },
@@ -131259,7 +130668,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "Tebligat Kanunu",
           "Kanun çerçevesi",
-          "7201 sayılı kanun",
           "7201 sayılı kanun"
         ]
       },
@@ -131527,9 +130935,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "usulsüz tebligat öğrenme tarihi",
-          "Öğrenme tarihi",
-          "usulsüz tebligat öğrenme tarihi",
-          "usulsüz tebligat öğrenme tarihi"
+          "Öğrenme tarihi"
         ]
       },
       {
@@ -131798,7 +131204,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "e-tebligat açmamak",
           "Açmama efsanesi",
-          "UETS tebliğ tarihi",
           "UETS tebliğ tarihi"
         ]
       },
@@ -132068,8 +131473,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yargılama giderleri",
-          "Yargılama giderleri",
-          "yargi giderleri",
           "yargi giderleri"
         ]
       },
@@ -132336,9 +131739,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "delil tespiti",
-          "Delil tespiti",
-          "delil tespiti",
           "delil tespiti"
         ]
       },
@@ -132563,7 +131963,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Delil tespiti» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -132606,9 +132006,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ihtiyati tedbire itiraz",
-          "İtiraz",
-          "ihtiyati tedbire itiraz",
-          "ihtiyati tedbire itiraz"
+          "İtiraz"
         ]
       },
       {
@@ -132877,7 +132275,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ihtiyati hacze itiraz",
           "İhtiyati hacze itiraz",
-          "ihtiyati haciz kaldırma",
           "ihtiyati haciz kaldırma"
         ]
       },
@@ -133148,7 +132545,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra mahkemesi",
           "İcra mahkemesi görev",
-          "icra mahkemesi görev",
           "icra mahkemesi görev"
         ]
       },
@@ -133419,7 +132815,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra şikayeti",
           "Şikâyet",
-          "icra müdürlüğü şikayet",
           "icra müdürlüğü şikayet"
         ]
       },
@@ -133644,7 +133039,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Şikâyet» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -133689,8 +133084,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sıra cetveli",
-          "Sıra cetveli",
-          "sıra cetveline itiraz",
           "sıra cetveline itiraz"
         ]
       },
@@ -133959,9 +133352,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "istihkak davası süresi",
-          "İstihkak süresi",
-          "istihkak davası süresi",
-          "istihkak davası süresi"
+          "İstihkak süresi"
         ]
       },
       {
@@ -134231,7 +133622,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "5 yıl kira tespit",
           "5 yıllık dönem özel notu",
-          "kira tespit 5 yıl",
           "kira tespit 5 yıl"
         ]
       },
@@ -134501,8 +133891,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kiracı ölümü",
-          "Kiracı ölümü",
-          "kiracı vefat kira",
           "kiracı vefat kira"
         ]
       },
@@ -134727,7 +134115,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Kiracı ölümü» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -134773,7 +134161,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ev satılırsa kiracı",
           "Satışta yeni malik",
-          "yeni malik kira",
           "yeni malik kira"
         ]
       },
@@ -135044,7 +134431,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kira güvencesi 3 ay",
           "TBK 3 aylık güvence sınırı",
-          "depozito en fazla 3 kira",
           "depozito en fazla 3 kira"
         ]
       },
@@ -135314,7 +134700,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "konut tahliye sebepleri",
           "Sebep listesi",
-          "kira tahliye nedenleri",
           "kira tahliye nedenleri"
         ]
       },
@@ -135584,7 +134969,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ihtiyaç nedeniyle tahliye",
           "İhtiyaç",
-          "kendisi oturacak tahliye",
           "kendisi oturacak tahliye"
         ]
       },
@@ -135851,9 +135235,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "yeniden kiralama yasağı",
-          "Yeniden kiralama yasağı",
-          "yeniden kiralama yasağı",
           "yeniden kiralama yasağı"
         ]
       },
@@ -136123,7 +135504,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kira alacağı icra",
           "Kira icrası",
-          "kira icra takibi",
           "kira icra takibi"
         ]
       },
@@ -136392,8 +135772,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yönetim planı",
-          "Yönetim planı",
-          "site yonetim plani",
           "site yonetim plani"
         ]
       },
@@ -136662,8 +136040,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ortak gider",
-          "Ortak gider",
-          "ortak gider nedir",
           "ortak gider nedir"
         ]
       },
@@ -136932,8 +136308,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "site yöneticisi seçimi",
-          "Site yöneticisi seçimi",
-          "yonetici secimi site",
           "yonetici secimi site"
         ]
       },
@@ -137158,7 +136532,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Site yöneticisi seçimi» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -137203,8 +136577,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kat irtifakından mülkiyete",
-          "Kat irtifakından mülkiyete",
-          "kat irtifakindan mulkiyete",
           "kat irtifakindan mulkiyete"
         ]
       },
@@ -137473,8 +136845,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "bağımsız bölüm",
-          "Bağımsız bölüm",
-          "bagimsiz bolum nedir",
           "bagimsiz bolum nedir"
         ]
       },
@@ -137744,8 +137114,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "arsa payı",
-          "Arsa payı",
-          "arsa payi nedir",
           "arsa payi nedir"
         ]
       },
@@ -138015,8 +137383,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "geçit hakkı davası",
-          "Geçit hakkı davası",
-          "gecit hakki davasi",
           "gecit hakki davasi"
         ]
       },
@@ -138286,8 +137652,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sınır uyuşmazlığı",
-          "Sınır uyuşmazlığı",
-          "sinir uyusmazligi",
           "sinir uyusmazligi"
         ]
       },
@@ -138556,9 +137920,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
           "Bu metin Av. Fethi Güzel Hukuk Portalı bilgilendirme içeriğidir; mahkeme kararı veya idari işlem yerine geçmez."
         ],
         "bullets": [
-          "kadastro tespitine itiraz",
-          "Kadastro tespitine itiraz",
-          "kadastro tespitine itiraz",
           "kadastro tespitine itiraz"
         ]
       },
@@ -138828,8 +138189,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "orman kadastrosu",
-          "Orman kadastrosu",
-          "orman kadastro",
           "orman kadastro"
         ]
       },
@@ -139099,8 +138458,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kıyı kenar çizgisi",
-          "Kıyı kenar çizgisi",
-          "kiyi kenar cizgisi",
           "kiyi kenar cizgisi"
         ]
       },
@@ -139370,8 +138727,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sit alanı",
-          "Sit alanı",
-          "sit alani nedir",
           "sit alani nedir"
         ]
       },
@@ -139641,8 +138996,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çevre düzeni planı",
-          "Çevre düzeni planı",
-          "cevre duzeni plani",
           "cevre duzeni plani"
         ]
       },
@@ -139867,7 +139220,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Çevre düzeni planı» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -139912,8 +139265,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "emsal kaks",
-          "Emsal KAKS",
-          "emsal nedir imar",
           "emsal nedir imar"
         ]
       },
@@ -140183,8 +139534,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "taks",
-          "TAKS",
-          "taks nedir",
           "taks nedir"
         ]
       },
@@ -140454,7 +139803,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iskan belgeleri",
           "Evrak listesi",
-          "yapı kullanma izni evrak",
           "yapı kullanma izni evrak"
         ]
       },
@@ -140724,8 +140072,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "kaçak kat cezası",
-          "Kaçak kat cezası",
-          "kacak kat cezasi",
           "kacak kat cezasi"
         ]
       },
@@ -140995,8 +140341,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "mühür sökme",
-          "Mühür sökme",
-          "muhür sokme sucu",
           "muhür sokme sucu"
         ]
       },
@@ -141266,8 +140610,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "belediye encümen kararı",
-          "Belediye encümen kararı",
-          "belediye encumen karari",
           "belediye encumen karari"
         ]
       },
@@ -141536,8 +140878,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "zabıta cezası",
-          "Zabıta cezası",
-          "zabita cezasi",
           "zabita cezasi"
         ]
       },
@@ -141762,7 +141102,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Zabıta cezası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -141808,7 +141148,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işyeri açma ruhsatı",
           "İşyeri açma ruhsatı",
-          "is yeri acma ruhsati",
           "is yeri acma ruhsati"
         ]
       },
@@ -142078,8 +141417,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "gıda işletme kayıt",
-          "Gıda işletme kayıt",
-          "gida isletme kayit",
           "gida isletme kayit"
         ]
       },
@@ -142349,8 +141686,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "çevre izin lisans",
-          "Çevre izin lisans",
-          "cevre izin lisans",
           "cevre izin lisans"
         ]
       },
@@ -142620,7 +141955,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kamulaştırma bedel davası",
           "Bedel artırım",
-          "kamulaştırma bedel artırım",
           "kamulaştırma bedel artırım"
         ]
       },
@@ -142845,7 +142179,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Bedel artırım» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -142888,9 +142222,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "acele kamulaştırma",
-          "Acele",
-          "acele kamulaştırma",
-          "acele kamulaştırma"
+          "Acele"
         ]
       },
       {
@@ -143159,7 +142491,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "idari para cezası indirim",
           "Genel IPC indirim",
-          "peşin ödeme indirimi ceza",
           "peşin ödeme indirimi ceza"
         ]
       },
@@ -143429,7 +142760,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "trafik cezası peşin ödeme",
           "Peşin indirim",
-          "trafik cezası indirim",
           "trafik cezası indirim"
         ]
       },
@@ -143654,7 +142984,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Peşin indirim» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -143698,8 +143028,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "ehliyet sınavları",
-          "Ehliyet sınavları",
-          "ehliyet sinavlari",
           "ehliyet sinavlari"
         ]
       },
@@ -143968,8 +143296,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "src belgesi",
-          "SRC belgesi",
-          "src belgesi nedir",
           "src belgesi nedir"
         ]
       },
@@ -144238,8 +143564,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "psikoteknik belge",
-          "Psikoteknik belge",
-          "psiko teknik belge",
           "psiko teknik belge"
         ]
       },
@@ -144508,8 +143832,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "trafik kazası manevi tazminat",
-          "Trafik kazası manevi tazminat",
-          "trafik kazasi manevvi",
           "trafik kazasi manevvi"
         ]
       },
@@ -144777,9 +144099,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "iş kazası manevi tazminat",
-          "Manevi",
-          "iş kazası manevi tazminat",
-          "iş kazası manevi tazminat"
+          "Manevi"
         ]
       },
       {
@@ -145048,8 +144368,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "destek payı hesabı",
-          "Destek payı hesabı",
-          "destek payi hesabi",
           "destek payi hesabi"
         ]
       },
@@ -145319,8 +144637,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sürekli iş göremezlik",
-          "Sürekli iş göremezlik",
-          "surekli is goremezlik",
           "surekli is goremezlik"
         ]
       },
@@ -145590,8 +144906,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "geçici iş göremezlik",
-          "Geçici iş göremezlik",
-          "gecici is goremezlik",
           "gecici is goremezlik"
         ]
       },
@@ -145861,7 +145175,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "iş kazası bildirim süresi",
           "Süre",
-          "iş kazası 3 iş günü",
           "iş kazası 3 iş günü"
         ]
       },
@@ -146086,7 +145399,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Süre» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -146130,8 +145443,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "SGK rücu",
-          "SGK rücu",
-          "SGK rücu davası işveren",
           "SGK rücu davası işveren"
         ]
       },
@@ -146400,8 +145711,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "sgk prim iadesi",
-          "SGK prim iadesi",
-          "prim iadesi sgk",
           "prim iadesi sgk"
         ]
       },
@@ -146669,9 +145978,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "yurt dışı borçlanma",
-          "Yurt dışı",
-          "yurt dışı borçlanma",
-          "yurt dışı borçlanma"
+          "Yurt dışı"
         ]
       },
       {
@@ -146938,9 +146245,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "emekli intibak",
-          "İntibak",
-          "emekli intibak",
-          "emekli intibak"
+          "İntibak"
         ]
       },
       {
@@ -147207,9 +146512,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "emekli ikramiyesi",
-          "İkramiye",
-          "emekli ikramiyesi",
-          "emekli ikramiyesi"
+          "İkramiye"
         ]
       },
       {
@@ -147433,7 +146736,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «İkramiye» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -147478,8 +146781,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "memur maaşına haciz",
-          "Memur maaşına haciz",
-          "memur maas haczi",
           "memur maas haczi"
         ]
       },
@@ -147749,8 +147050,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "emekli maaşına haciz",
-          "Emekli maaşına haciz",
-          "emekli maas haczi",
           "emekli maas haczi"
         ]
       },
@@ -148020,7 +147319,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "kıdem tazminatı haczi",
           "Kıdem alacağının haczedilip haczedilemeyeceği",
-          "kıdem haczedilir mi",
           "kıdem haczedilir mi"
         ]
       },
@@ -148113,7 +147411,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       }
     ],
     "steps": [
-      "Sorunuzun gerçekten «Kıdem alacağının haczedilip haczedilemeyeceği» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-alinir).",
+      "Sorunuzun gerçekten «Kıdem alacağının haczedilip haczedilemeyeceği» ile sınırlı olduğunu doğrulayın; değilse ana rehbere geçin (/bilgi/kidem-tazminati-nasil-…",
       "Tebliğ/öğrenme veya işlem tarihini yazılı sabitleyin.",
       "Gerekli belgeleri toplayın (takip talebi, senet/çek/ilam, tebligat mazbatası, dekont).",
       "Doğru mercie karar verin (UYAP); dava şartını atlamayın.",
@@ -148245,7 +147543,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Kıdem alacağının haczedilip haczedilemeyeceği» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -148291,7 +147589,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "nafaka öncelik icra",
           "İcra sırası imtiyazı",
-          "nafaka imtiyazlı alacak",
           "nafaka imtiyazlı alacak"
         ]
       },
@@ -148562,7 +147859,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "işçilik alacağı öncelik",
           "İcra/iflasta imtiyaz sırası",
-          "işçi alacağı imtiyaz",
           "işçi alacağı imtiyaz"
         ]
       },
@@ -148833,7 +148129,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "rehinli alacak",
           "Rehinli alacak sırası",
-          "ipotekli alacak icra",
           "ipotekli alacak icra"
         ]
       },
@@ -149104,7 +148399,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra teminat",
           "İcra teminatı",
-          "istihkak teminat",
           "istihkak teminat"
         ]
       },
@@ -149375,7 +148669,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "ihalenin feshi",
           "İhalenin feshi",
-          "icra ihalesi iptal",
           "icra ihalesi iptal"
         ]
       },
@@ -149644,9 +148937,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "icra satış bedeli paylaşım",
-          "Satış parası",
-          "icra satış bedeli paylaşım",
-          "icra satış bedeli paylaşım"
+          "Satış parası"
         ]
       },
       {
@@ -149870,7 +149161,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "Sonuç ve kanun yolu süresini takvime işledim",
       "Ana rehberi okudum veya okuyacağım (süreç iskeleti)"
     ],
-    "visual": "stack",
+    "visual": "process",
     "keyInsight": "Bu sayfa sadece «Satış parası» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
@@ -149914,9 +149205,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "borçlu olmadığının tespiti",
-          "Menfi tespit eşanlam",
-          "borçlu olmadığının tespiti",
-          "borçlu olmadığının tespiti"
+          "Menfi tespit eşanlam"
         ]
       },
       {
@@ -150185,7 +149474,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "icra taahhüdü",
           "Ödeme taahhüdü",
-          "ödeme taahhüdü icra",
           "ödeme taahhüdü icra"
         ]
       },
@@ -150456,7 +149744,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         "bullets": [
           "tazyik hapsi",
           "Tazyik",
-          "nafaka tazyik hapsi",
           "nafaka tazyik hapsi"
         ]
       },
@@ -150726,8 +150013,6 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
         ],
         "bullets": [
           "disiplin hapsi",
-          "Disiplin hapsi",
-          "icra disiplin hapsi",
           "icra disiplin hapsi"
         ]
       },

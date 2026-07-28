@@ -247,7 +247,7 @@ export function applyProfessionalLayer(t, body, role = 'standard', meta = {}) {
     },
   ];
 
-  const sections = [...(body.sections || []), ...extraSections];
+  let sections = [...(body.sections || []), ...extraSections];
   const faq = [...(body.faq || []), ...extraFaq];
   // dedupe faq by q
   const seenQ = new Set();
@@ -258,15 +258,198 @@ export function applyProfessionalLayer(t, body, role = 'standard', meta = {}) {
     faqDedup.push(f);
   }
 
+  // —— Evrensel normalizasyon: TÜM sayfalar aynı iskelet ——
+  return normalizeUniversalLayout(
+    {
+      ...body,
+      sections,
+      faq: faqDedup,
+      examples,
+      scenarios,
+      table,
+      checklist,
+      visual,
+      keyInsight,
+    },
+    t,
+    role,
+    meta,
+    bank,
+    seed
+  );
+}
+
+/** Hap lead: en fazla ~2 cümle / ~320 karakter */
+function clampLead(lead, fallback) {
+  let s = String(lead || fallback || '').replace(/\s+/g, ' ').trim();
+  if (s.length <= 320) return s;
+  const cut = s.slice(0, 300);
+  const lastStop = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+  if (lastStop > 120) return cut.slice(0, lastStop + 1).trim();
+  return cut.trim() + '…';
+}
+
+/** Paragraftaki (1)(2)(3) listelerini bullet'a çevir */
+function explodeNumberedParagraphs(sections) {
+  return (sections || []).map((sec) => {
+    const paragraphs = [];
+    const bullets = [...(sec.bullets || [])];
+    for (const p of sec.paragraphs || []) {
+      if (/\(\s*1\s*\)/.test(p) && /\(\s*2\s*\)/.test(p)) {
+        const parts = p
+          .split(/\(\s*\d+\s*\)\s*/)
+          .map((x) =>
+            x
+              .replace(/^Tipik akış:\s*/i, '')
+              .replace(/^Sonraki adım:\s*/i, '')
+              .replace(/^Belgeleri klasörleyin:\s*/i, '')
+              .replace(/[.;]\s*$/, '')
+              .trim()
+          )
+          .filter((x) => x.length > 3 && !/:$/.test(x));
+        if (parts.length >= 2) {
+          const intro = (sec.paragraphs || []).length ? null : null;
+          // kısa giriş bırak
+          const first = p.split(/\(\s*1\s*\)/)[0].trim();
+          if (first && first.length > 12 && first.length < 160) {
+            paragraphs.push(first.replace(/:\s*$/, '.') + (first.endsWith('.') ? '' : ''));
+          }
+          for (const part of parts) {
+            if (part.length < 120) bullets.push(part);
+            else paragraphs.push(part);
+          }
+          continue;
+        }
+      }
+      paragraphs.push(p);
+    }
+    // unique bullets
+    const seen = new Set();
+    const uniq = [];
+    for (const b of bullets) {
+      const k = b.toLowerCase();
+      if (seen.has(k)) continue;
+      seen.add(k);
+      uniq.push(b);
+    }
+    return { heading: sec.heading, paragraphs, bullets: uniq.length ? uniq : undefined };
+  });
+}
+
+/**
+ * Her rol için aynı okuma iskeleti:
+ * hap lead + keyInsight + ≥5 steps + examples + scenarios + table + checklist + visual
+ */
+function normalizeUniversalLayout(body, t, role, meta, bank, seed) {
+  const k0 = t.keywords?.[0] || t.h1 || 'bu konu';
+  const angle = meta.angle || k0;
+  const topicClean = String(t.h1 || k0).replace(/\?$/, '');
+
+  const defaultSteps = (bank.adimlar || []).length
+    ? bank.adimlar
+    : [
+        'Olayı ve tarihleri yazın (tebliğ / öğrenme).',
+        'Gerekli belgeleri toplayın.',
+        'Doğru mercie karar verin.',
+        'Dava şartı varsa önce onu tamamlayın.',
+        'Yazılı başvuruyu yapın; kaydı saklayın.',
+        'Sonucu takip edin; süreleri kaçırmayın.',
+      ];
+
+  let steps = (body.steps || [])
+    .map((s) => String(s).replace(/^\d+\.\s*/, '').replace(/^«[^»]+»:\s*/, '').trim())
+    .filter(Boolean);
+
+  if (steps.length < 5) {
+    steps = [...steps, ...defaultSteps].slice(0, 7);
+  }
+  // konuşma diline çek: çok uzun adımları kısaltma (okunabilir tut)
+  steps = steps.map((s) => (s.length > 160 ? s.slice(0, 157) + '…' : s));
+
+  let lead = clampLead(
+    body.lead,
+    `${topicClean}: önce merci ve süreye bakın, belgeyi toplayın, sonra yazılı başvurun.`
+  );
+
+  let keyInsight =
+    body.keyInsight ||
+    (role === 'spoke'
+      ? `Bu sayfa «${angle}» içindir. Tam süreç ana rehberdedir.`
+      : role === 'bridge'
+        ? 'Özet yetmez. Resmî maddeyi okuyun.'
+        : 'Doğru merci · doğru süre · doğru belge.');
+
+  keyInsight = clampLead(keyInsight, keyInsight);
+
+  const sections = explodeNumberedParagraphs(body.sections || []);
+
+  // Örnek / senaryo minimumları
+  let examples = body.examples || [];
+  if (examples.length < 2) {
+    examples = [
+      ...examples,
+      {
+        title: `Örnek — «${k0}»`,
+        body: `Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, ${pick(bank.merciler, seed, 0)} mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.`,
+        takeaway: 'Tarih → belge → merci → başvuru.',
+      },
+    ].slice(0, 3);
+  }
+
+  let scenarios = body.scenarios || [];
+  if (scenarios.length < 2) {
+    scenarios = [
+      ...scenarios,
+      {
+        title: 'Senaryo — Süre yaklaşıyor',
+        facts: 'Son gün yakın; belge eksik.',
+        outcome: 'Önce süreyi koruyan yazılı başvuruyu yapın. Eksik belgeyi sonra tamamlayın.',
+      },
+    ].slice(0, 3);
+  }
+
+  const checklist =
+    body.checklist?.length >= 5
+      ? body.checklist
+      : [
+          'Tebliğ / olay tarihini yazdım',
+          'Belgeleri topladım',
+          'Mercii netleştirdim',
+          'Dava şartını kontrol ettim',
+          'Yazılı başvuruyu yaptım',
+          'Sonucu takip ediyorum',
+        ];
+
+  const table = body.table || {
+    caption: `«${k0}» — hızlı kontrol`,
+    headers: ['Kontrol', 'Neden?', 'Ne yap?'],
+    rows: [
+      ['Tarih', 'Süre buradan başlar', 'Mazbatayı sakla'],
+      ['Merci', 'Yanlış kapı zaman kaybettirir', 'Görev-yetkiyi kontrol et'],
+      ['Belge', 'Eksik dosya riski', 'Listeyi tamamla'],
+      ['Başvuru', 'Yazılı iz şart', 'Numara/dekont al'],
+    ],
+  };
+
+  // visual: pillar/spoke için okunabilir process ağırlıklı
+  const visual =
+    role === 'bridge'
+      ? body.visual || 'shield'
+      : body.visual === 'process' || body.visual === 'stack' || !body.visual
+        ? 'process'
+        : body.visual;
+
   return {
     ...body,
+    lead,
+    keyInsight,
+    steps,
     sections,
-    faq: faqDedup,
     examples,
     scenarios,
     table,
     checklist,
     visual,
-    keyInsight,
+    faq: body.faq || [],
   };
 }
