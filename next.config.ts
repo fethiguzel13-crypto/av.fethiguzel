@@ -49,19 +49,8 @@ const nextConfig: NextConfig = {
       },
     ];
   },
-  async rewrites() {
-    return {
-      beforeFiles: [
-        // Static SEO HTML built by scripts/build-seo-madde-html.mjs (prebuild)
-        {
-          source: "/mevzuat/:kanunId/:id",
-          destination: "/seo-madde/:kanunId/:id.html",
-        },
-      ],
-      afterFiles: [],
-      fallback: [],
-    };
-  },
+  // Madde HTML is served by app/mevzuat/[kanunId]/[id]/route.ts (no React SSR 500).
+  // Optional static mirror: public/seo-madde (prebuild) — not required for crawl.
   outputFileTracingIncludes: {
     "*": [
       "./node_modules/next/dist/server/dev/browser-logs/**/*",
