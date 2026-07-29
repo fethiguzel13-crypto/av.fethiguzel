@@ -620,10 +620,33 @@ export function DersNotuView({
               <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                 İptal / tam yargı usulü için:{' '}
                 <Link
-                  href={`/ders-notlari/${note.uniSlug}/idari-yargilama`}
+                  href={`/ders-notlari/${note.uniSlug}/idari-yargilama-yillik`}
                   className="text-accent font-semibold hover:underline"
                 >
-                  İdari Yargılama
+                  İdari Yargılama yıllık
+                </Link>
+              </p>
+            ),
+          },
+          {
+            match:
+              note.variantOf === 'idari-yargilama' ||
+              note.courseCode === 'idari-yargilama' ||
+              note.courseCode.startsWith('idari-yargilama-'),
+            title: 'İdari Yargılama · üç paket',
+            items: [
+              { code: 'idari-yargilama-donem-1', label: '1. Dönem (Güz)', desc: 'Görev · süre · iptal' },
+              { code: 'idari-yargilama-donem-2', label: '2. Dönem (Bahar)', desc: 'Tam yargı · YD · istinaf' },
+              { code: 'idari-yargilama-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Maddi idare için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/idare-hukuku-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  İdare Hukuku yıllık
                 </Link>
               </p>
             ),
@@ -1250,6 +1273,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'idare-hukuku-donem-1', title: '1. Dönem (Güz)' },
               { code: 'idare-hukuku-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'idare-hukuku-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('idari-yargilama') ||
+                c.code === 'idari-yargilama'
+            ),
+            title: 'İdari Yargılama — 1. dönem · 2. dönem · yıllık',
+            desc: 'İptal–tam yargı–YD–istinaf… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'idari-yargilama-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'idari-yargilama-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'idari-yargilama-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 9480,
+  "noteCount": 9840,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -79446,6 +79446,3246 @@
       "href": "/ders-notlari/cag/idare-hukuku-yillik",
       "variantOf": "idare-hukuku",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ankara-yildirim-beyazit__idari-yargilama-donem-1",
+      "title": "AYBÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ankara-yildirim-beyazit__idari-yargilama-donem-2",
+      "title": "AYBÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ankara-yildirim-beyazit__idari-yargilama-yillik",
+      "title": "AYBÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ankara__idari-yargilama-donem-1",
+      "title": "AÜHF İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ankara__idari-yargilama-donem-2",
+      "title": "AÜHF İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ankara__idari-yargilama-yillik",
+      "title": "AÜHF İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "istanbul__idari-yargilama-donem-1",
+      "title": "İÜHF İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "istanbul__idari-yargilama-donem-2",
+      "title": "İÜHF İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "istanbul__idari-yargilama-yillik",
+      "title": "İÜHF İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "marmara__idari-yargilama-donem-1",
+      "title": "MÜHF İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "marmara__idari-yargilama-donem-2",
+      "title": "MÜHF İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "marmara__idari-yargilama-yillik",
+      "title": "MÜHF İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "galatasaray__idari-yargilama-donem-1",
+      "title": "GSÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "galatasaray__idari-yargilama-donem-2",
+      "title": "GSÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "galatasaray__idari-yargilama-yillik",
+      "title": "GSÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "dokuz-eylul__idari-yargilama-donem-1",
+      "title": "DEÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "dokuz-eylul__idari-yargilama-donem-2",
+      "title": "DEÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "dokuz-eylul__idari-yargilama-yillik",
+      "title": "DEÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "hacettepe__idari-yargilama-donem-1",
+      "title": "Hacettepe İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "hacettepe__idari-yargilama-donem-2",
+      "title": "Hacettepe İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "hacettepe__idari-yargilama-yillik",
+      "title": "Hacettepe İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ankara-hacibayram__idari-yargilama-donem-1",
+      "title": "AHBV İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ankara-hacibayram__idari-yargilama-donem-2",
+      "title": "AHBV İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ankara-hacibayram__idari-yargilama-yillik",
+      "title": "AHBV İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "bilkent__idari-yargilama-donem-1",
+      "title": "Bilkent İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "bilkent__idari-yargilama-donem-2",
+      "title": "Bilkent İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "bilkent__idari-yargilama-yillik",
+      "title": "Bilkent İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "koc__idari-yargilama-donem-1",
+      "title": "Koç İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "koc__idari-yargilama-donem-2",
+      "title": "Koç İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "koc__idari-yargilama-yillik",
+      "title": "Koç İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "tobb-etu__idari-yargilama-donem-1",
+      "title": "TOBB ETÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "tobb-etu__idari-yargilama-donem-2",
+      "title": "TOBB ETÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "tobb-etu__idari-yargilama-yillik",
+      "title": "TOBB ETÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "bogazici__idari-yargilama-donem-1",
+      "title": "BÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "bogazici__idari-yargilama-donem-2",
+      "title": "BÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "bogazici__idari-yargilama-yillik",
+      "title": "BÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ege__idari-yargilama-donem-1",
+      "title": "Ege İdari Yargılama 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ege__idari-yargilama-donem-2",
+      "title": "Ege İdari Yargılama 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ege__idari-yargilama-yillik",
+      "title": "Ege İdari Yargılama Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "akdeniz__idari-yargilama-donem-1",
+      "title": "Akdeniz İdari Yargılama 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "akdeniz__idari-yargilama-donem-2",
+      "title": "Akdeniz İdari Yargılama 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "akdeniz__idari-yargilama-yillik",
+      "title": "Akdeniz İdari Yargılama Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "selcuk__idari-yargilama-donem-1",
+      "title": "Selçuk İdari Yargılama 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "selcuk__idari-yargilama-donem-2",
+      "title": "Selçuk İdari Yargılama 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "selcuk__idari-yargilama-yillik",
+      "title": "Selçuk İdari Yargılama Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "erciyes__idari-yargilama-donem-1",
+      "title": "Erciyes İdari Yargılama 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "erciyes__idari-yargilama-donem-2",
+      "title": "Erciyes İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "erciyes__idari-yargilama-yillik",
+      "title": "Erciyes İdari Yargılama Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "uludag__idari-yargilama-donem-1",
+      "title": "Uludağ İdari Yargılama 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "uludag__idari-yargilama-donem-2",
+      "title": "Uludağ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "uludag__idari-yargilama-yillik",
+      "title": "Uludağ İdari Yargılama Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "cukurova__idari-yargilama-donem-1",
+      "title": "Çukurova İdari Yargılama 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "cukurova__idari-yargilama-donem-2",
+      "title": "Çukurova İdari Yargılama 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "cukurova__idari-yargilama-yillik",
+      "title": "Çukurova İdari Yargılama Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "anadolu__idari-yargilama-donem-1",
+      "title": "Anadolu İdari Yargılama 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "anadolu__idari-yargilama-donem-2",
+      "title": "Anadolu İdari Yargılama 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "anadolu__idari-yargilama-yillik",
+      "title": "Anadolu İdari Yargılama Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "gazi-ankara__idari-yargilama-donem-1",
+      "title": "ASBÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "gazi-ankara__idari-yargilama-donem-2",
+      "title": "ASBÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "gazi-ankara__idari-yargilama-yillik",
+      "title": "ASBÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "yildiz-teknik__idari-yargilama-donem-1",
+      "title": "YTÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "yildiz-teknik__idari-yargilama-donem-2",
+      "title": "YTÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "yildiz-teknik__idari-yargilama-yillik",
+      "title": "YTÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "istanbul-medeniyet__idari-yargilama-donem-1",
+      "title": "Medeniyet İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "istanbul-medeniyet__idari-yargilama-donem-2",
+      "title": "Medeniyet İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "istanbul-medeniyet__idari-yargilama-yillik",
+      "title": "Medeniyet İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "bahcesehir__idari-yargilama-donem-1",
+      "title": "BAU İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "bahcesehir__idari-yargilama-donem-2",
+      "title": "BAU İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "bahcesehir__idari-yargilama-yillik",
+      "title": "BAU İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "yeditepe__idari-yargilama-donem-1",
+      "title": "Yeditepe İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "yeditepe__idari-yargilama-donem-2",
+      "title": "Yeditepe İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "yeditepe__idari-yargilama-yillik",
+      "title": "Yeditepe İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ozyegin__idari-yargilama-donem-1",
+      "title": "Özyeğin İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ozyegin__idari-yargilama-donem-2",
+      "title": "Özyeğin İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ozyegin__idari-yargilama-yillik",
+      "title": "Özyeğin İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kadir-has__idari-yargilama-donem-1",
+      "title": "KHAS İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kadir-has__idari-yargilama-donem-2",
+      "title": "KHAS İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kadir-has__idari-yargilama-yillik",
+      "title": "KHAS İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "istanbul-bilgi__idari-yargilama-donem-1",
+      "title": "Bilgi İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "istanbul-bilgi__idari-yargilama-donem-2",
+      "title": "Bilgi İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "istanbul-bilgi__idari-yargilama-yillik",
+      "title": "Bilgi İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "mehmet-akif__idari-yargilama-donem-1",
+      "title": "Medipol İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "mehmet-akif__idari-yargilama-donem-2",
+      "title": "Medipol İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "mehmet-akif__idari-yargilama-yillik",
+      "title": "Medipol İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "altinbas__idari-yargilama-donem-1",
+      "title": "Altınbaş İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "altinbas__idari-yargilama-donem-2",
+      "title": "Altınbaş İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "altinbas__idari-yargilama-yillik",
+      "title": "Altınbaş İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "maltepe__idari-yargilama-donem-1",
+      "title": "Maltepe İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "maltepe__idari-yargilama-donem-2",
+      "title": "Maltepe İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "maltepe__idari-yargilama-yillik",
+      "title": "Maltepe İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "dogus__idari-yargilama-donem-1",
+      "title": "Doğuş İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "dogus__idari-yargilama-donem-2",
+      "title": "Doğuş İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "dogus__idari-yargilama-yillik",
+      "title": "Doğuş İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "isik__idari-yargilama-donem-1",
+      "title": "Işık İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "isik__idari-yargilama-donem-2",
+      "title": "Işık İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "isik__idari-yargilama-yillik",
+      "title": "Işık İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "okan__idari-yargilama-donem-1",
+      "title": "Okan İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "okan__idari-yargilama-donem-2",
+      "title": "Okan İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "okan__idari-yargilama-yillik",
+      "title": "Okan İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kultur__idari-yargilama-donem-1",
+      "title": "İKÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kultur__idari-yargilama-donem-2",
+      "title": "İKÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kultur__idari-yargilama-yillik",
+      "title": "İKÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "aydin__idari-yargilama-donem-1",
+      "title": "İAÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "aydin__idari-yargilama-donem-2",
+      "title": "İAÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "aydin__idari-yargilama-yillik",
+      "title": "İAÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "gelisim__idari-yargilama-donem-1",
+      "title": "Gelişim İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "gelisim__idari-yargilama-donem-2",
+      "title": "Gelişim İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "gelisim__idari-yargilama-yillik",
+      "title": "Gelişim İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "topkapi__idari-yargilama-donem-1",
+      "title": "Topkapı İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "topkapi__idari-yargilama-donem-2",
+      "title": "Topkapı İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "topkapi__idari-yargilama-yillik",
+      "title": "Topkapı İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "nisantasi__idari-yargilama-donem-1",
+      "title": "Nişantaşı İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "nisantasi__idari-yargilama-donem-2",
+      "title": "Nişantaşı İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "nisantasi__idari-yargilama-yillik",
+      "title": "Nişantaşı İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "beykent__idari-yargilama-donem-1",
+      "title": "Beykent İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "beykent__idari-yargilama-donem-2",
+      "title": "Beykent İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "beykent__idari-yargilama-yillik",
+      "title": "Beykent İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "halic__idari-yargilama-donem-1",
+      "title": "Haliç İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "halic__idari-yargilama-donem-2",
+      "title": "Haliç İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "halic__idari-yargilama-yillik",
+      "title": "Haliç İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "fatih-sultan__idari-yargilama-donem-1",
+      "title": "FSMVÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "fatih-sultan__idari-yargilama-donem-2",
+      "title": "FSMVÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "fatih-sultan__idari-yargilama-yillik",
+      "title": "FSMVÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "karadeniz-teknik__idari-yargilama-donem-1",
+      "title": "KTÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "karadeniz-teknik__idari-yargilama-donem-2",
+      "title": "KTÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "karadeniz-teknik__idari-yargilama-yillik",
+      "title": "KTÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ataturk__idari-yargilama-donem-1",
+      "title": "Atatürk İdari Yargılama 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ataturk__idari-yargilama-donem-2",
+      "title": "Atatürk İdari Yargılama 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ataturk__idari-yargilama-yillik",
+      "title": "Atatürk İdari Yargılama Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "inonu__idari-yargilama-donem-1",
+      "title": "İnönü İdari Yargılama 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "inonu__idari-yargilama-donem-2",
+      "title": "İnönü İdari Yargılama 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "inonu__idari-yargilama-yillik",
+      "title": "İnönü İdari Yargılama Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "dicle__idari-yargilama-donem-1",
+      "title": "Dicle İdari Yargılama 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "dicle__idari-yargilama-donem-2",
+      "title": "Dicle İdari Yargılama 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "dicle__idari-yargilama-yillik",
+      "title": "Dicle İdari Yargılama Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "firat__idari-yargilama-donem-1",
+      "title": "Fırat İdari Yargılama 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "firat__idari-yargilama-donem-2",
+      "title": "Fırat İdari Yargılama 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "firat__idari-yargilama-yillik",
+      "title": "Fırat İdari Yargılama Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "gaziantep__idari-yargilama-donem-1",
+      "title": "GAÜN İdari Yargılama 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "gaziantep__idari-yargilama-donem-2",
+      "title": "GAÜN İdari Yargılama 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "gaziantep__idari-yargilama-yillik",
+      "title": "GAÜN İdari Yargılama Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "suleyman-demirel__idari-yargilama-donem-1",
+      "title": "SDÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "suleyman-demirel__idari-yargilama-donem-2",
+      "title": "SDÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "suleyman-demirel__idari-yargilama-yillik",
+      "title": "SDÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "pamukkale__idari-yargilama-donem-1",
+      "title": "PAÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "pamukkale__idari-yargilama-donem-2",
+      "title": "PAÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "pamukkale__idari-yargilama-yillik",
+      "title": "PAÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "mugla__idari-yargilama-donem-1",
+      "title": "MSKU İdari Yargılama 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "mugla__idari-yargilama-donem-2",
+      "title": "MSKU İdari Yargılama 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "mugla__idari-yargilama-yillik",
+      "title": "MSKU İdari Yargılama Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "sakarya__idari-yargilama-donem-1",
+      "title": "SAÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "sakarya__idari-yargilama-donem-2",
+      "title": "SAÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "sakarya__idari-yargilama-yillik",
+      "title": "SAÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kocaeli__idari-yargilama-donem-1",
+      "title": "KOÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kocaeli__idari-yargilama-donem-2",
+      "title": "KOÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kocaeli__idari-yargilama-yillik",
+      "title": "KOÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "trakya__idari-yargilama-donem-1",
+      "title": "Trakya İdari Yargılama 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "trakya__idari-yargilama-donem-2",
+      "title": "Trakya İdari Yargılama 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "trakya__idari-yargilama-yillik",
+      "title": "Trakya İdari Yargılama Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "canakkale__idari-yargilama-donem-1",
+      "title": "ÇOMÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "canakkale__idari-yargilama-donem-2",
+      "title": "ÇOMÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "canakkale__idari-yargilama-yillik",
+      "title": "ÇOMÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "balikesir__idari-yargilama-donem-1",
+      "title": "BAÜN İdari Yargılama 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "balikesir__idari-yargilama-donem-2",
+      "title": "BAÜN İdari Yargılama 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "balikesir__idari-yargilama-yillik",
+      "title": "BAÜN İdari Yargılama Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "afyon__idari-yargilama-donem-1",
+      "title": "AKÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "afyon__idari-yargilama-donem-2",
+      "title": "AKÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "afyon__idari-yargilama-yillik",
+      "title": "AKÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "dumlupinar__idari-yargilama-donem-1",
+      "title": "DPÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "dumlupinar__idari-yargilama-donem-2",
+      "title": "DPÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "dumlupinar__idari-yargilama-yillik",
+      "title": "DPÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "eskisehir-osmangazi__idari-yargilama-donem-1",
+      "title": "ESOGÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "eskisehir-osmangazi__idari-yargilama-donem-2",
+      "title": "ESOGÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "eskisehir-osmangazi__idari-yargilama-yillik",
+      "title": "ESOGÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "sivas-cumhuriyet__idari-yargilama-donem-1",
+      "title": "SCÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "sivas-cumhuriyet__idari-yargilama-donem-2",
+      "title": "SCÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "sivas-cumhuriyet__idari-yargilama-yillik",
+      "title": "SCÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "tokat__idari-yargilama-donem-1",
+      "title": "TOGÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "tokat__idari-yargilama-donem-2",
+      "title": "TOGÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "tokat__idari-yargilama-yillik",
+      "title": "TOGÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "yozgat__idari-yargilama-donem-1",
+      "title": "Bozok İdari Yargılama 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "yozgat__idari-yargilama-donem-2",
+      "title": "Bozok İdari Yargılama 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "yozgat__idari-yargilama-yillik",
+      "title": "Bozok İdari Yargılama Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kirsehir__idari-yargilama-donem-1",
+      "title": "AHİEVRAN İdari Yargılama 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kirsehir__idari-yargilama-donem-2",
+      "title": "AHİEVRAN İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kirsehir__idari-yargilama-yillik",
+      "title": "AHİEVRAN İdari Yargılama Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "nevsehir__idari-yargilama-donem-1",
+      "title": "NEVÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "nevsehir__idari-yargilama-donem-2",
+      "title": "NEVÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "nevsehir__idari-yargilama-yillik",
+      "title": "NEVÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "mersin__idari-yargilama-donem-1",
+      "title": "MEÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "mersin__idari-yargilama-donem-2",
+      "title": "MEÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "mersin__idari-yargilama-yillik",
+      "title": "MEÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "hatay__idari-yargilama-donem-1",
+      "title": "MKÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "hatay__idari-yargilama-donem-2",
+      "title": "MKÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "hatay__idari-yargilama-yillik",
+      "title": "MKÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kahramanmaras__idari-yargilama-donem-1",
+      "title": "KSÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kahramanmaras__idari-yargilama-donem-2",
+      "title": "KSÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kahramanmaras__idari-yargilama-yillik",
+      "title": "KSÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "osmaniye__idari-yargilama-donem-1",
+      "title": "OKÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "osmaniye__idari-yargilama-donem-2",
+      "title": "OKÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "osmaniye__idari-yargilama-yillik",
+      "title": "OKÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "samsun__idari-yargilama-donem-1",
+      "title": "OMÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "samsun__idari-yargilama-donem-2",
+      "title": "OMÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "samsun__idari-yargilama-yillik",
+      "title": "OMÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ordu__idari-yargilama-donem-1",
+      "title": "ODÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ordu__idari-yargilama-donem-2",
+      "title": "ODÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ordu__idari-yargilama-yillik",
+      "title": "ODÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "giresun__idari-yargilama-donem-1",
+      "title": "GÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "giresun__idari-yargilama-donem-2",
+      "title": "GÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "giresun__idari-yargilama-yillik",
+      "title": "GÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "rize__idari-yargilama-donem-1",
+      "title": "RTEÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "rize__idari-yargilama-donem-2",
+      "title": "RTEÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "rize__idari-yargilama-yillik",
+      "title": "RTEÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "artvin__idari-yargilama-donem-1",
+      "title": "AÇÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "artvin__idari-yargilama-donem-2",
+      "title": "AÇÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "artvin__idari-yargilama-yillik",
+      "title": "AÇÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "van-yyu__idari-yargilama-donem-1",
+      "title": "YYÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "van-yyu__idari-yargilama-donem-2",
+      "title": "YYÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "van-yyu__idari-yargilama-yillik",
+      "title": "YYÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "agri__idari-yargilama-donem-1",
+      "title": "AİÇÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "agri__idari-yargilama-donem-2",
+      "title": "AİÇÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "agri__idari-yargilama-yillik",
+      "title": "AİÇÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kars__idari-yargilama-donem-1",
+      "title": "Kafkas İdari Yargılama 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kars__idari-yargilama-donem-2",
+      "title": "Kafkas İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kars__idari-yargilama-yillik",
+      "title": "Kafkas İdari Yargılama Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "erzincan__idari-yargilama-donem-1",
+      "title": "EBYÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "erzincan__idari-yargilama-donem-2",
+      "title": "EBYÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "erzincan__idari-yargilama-yillik",
+      "title": "EBYÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "bayburt__idari-yargilama-donem-1",
+      "title": "Bayburt İdari Yargılama 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "bayburt__idari-yargilama-donem-2",
+      "title": "Bayburt İdari Yargılama 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "bayburt__idari-yargilama-yillik",
+      "title": "Bayburt İdari Yargılama Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "gumushane__idari-yargilama-donem-1",
+      "title": "Gümüşhane İdari Yargılama 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "gumushane__idari-yargilama-donem-2",
+      "title": "Gümüşhane İdari Yargılama 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "gumushane__idari-yargilama-yillik",
+      "title": "Gümüşhane İdari Yargılama Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "bingol__idari-yargilama-donem-1",
+      "title": "Bingöl İdari Yargılama 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "bingol__idari-yargilama-donem-2",
+      "title": "Bingöl İdari Yargılama 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "bingol__idari-yargilama-yillik",
+      "title": "Bingöl İdari Yargılama Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "mus__idari-yargilama-donem-1",
+      "title": "Muş İdari Yargılama 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "mus__idari-yargilama-donem-2",
+      "title": "Muş İdari Yargılama 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "mus__idari-yargilama-yillik",
+      "title": "Muş İdari Yargılama Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "hakkari__idari-yargilama-donem-1",
+      "title": "Hakkâri İdari Yargılama 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "hakkari__idari-yargilama-donem-2",
+      "title": "Hakkâri İdari Yargılama 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "hakkari__idari-yargilama-yillik",
+      "title": "Hakkâri İdari Yargılama Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "sirnak__idari-yargilama-donem-1",
+      "title": "Şırnak İdari Yargılama 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "sirnak__idari-yargilama-donem-2",
+      "title": "Şırnak İdari Yargılama 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "sirnak__idari-yargilama-yillik",
+      "title": "Şırnak İdari Yargılama Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "mardin__idari-yargilama-donem-1",
+      "title": "Artuklu İdari Yargılama 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "mardin__idari-yargilama-donem-2",
+      "title": "Artuklu İdari Yargılama 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "mardin__idari-yargilama-yillik",
+      "title": "Artuklu İdari Yargılama Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "batman__idari-yargilama-donem-1",
+      "title": "Batman İdari Yargılama 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "batman__idari-yargilama-donem-2",
+      "title": "Batman İdari Yargılama 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "batman__idari-yargilama-yillik",
+      "title": "Batman İdari Yargılama Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "siirt__idari-yargilama-donem-1",
+      "title": "Siirt İdari Yargılama 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "siirt__idari-yargilama-donem-2",
+      "title": "Siirt İdari Yargılama 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "siirt__idari-yargilama-yillik",
+      "title": "Siirt İdari Yargılama Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "adiyaman__idari-yargilama-donem-1",
+      "title": "Adıyaman İdari Yargılama 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "adiyaman__idari-yargilama-donem-2",
+      "title": "Adıyaman İdari Yargılama 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "adiyaman__idari-yargilama-yillik",
+      "title": "Adıyaman İdari Yargılama Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kilis__idari-yargilama-donem-1",
+      "title": "Kilis İdari Yargılama 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kilis__idari-yargilama-donem-2",
+      "title": "Kilis İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kilis__idari-yargilama-yillik",
+      "title": "Kilis İdari Yargılama Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "igdir__idari-yargilama-donem-1",
+      "title": "Iğdır İdari Yargılama 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "igdir__idari-yargilama-donem-2",
+      "title": "Iğdır İdari Yargılama 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "igdir__idari-yargilama-yillik",
+      "title": "Iğdır İdari Yargılama Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ardahan__idari-yargilama-donem-1",
+      "title": "Ardahan İdari Yargılama 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ardahan__idari-yargilama-donem-2",
+      "title": "Ardahan İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ardahan__idari-yargilama-yillik",
+      "title": "Ardahan İdari Yargılama Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "bilecik__idari-yargilama-donem-1",
+      "title": "BŞEÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "bilecik__idari-yargilama-donem-2",
+      "title": "BŞEÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "bilecik__idari-yargilama-yillik",
+      "title": "BŞEÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "bolu__idari-yargilama-donem-1",
+      "title": "BAİBÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "bolu__idari-yargilama-donem-2",
+      "title": "BAİBÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "bolu__idari-yargilama-yillik",
+      "title": "BAİBÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "duzce__idari-yargilama-donem-1",
+      "title": "Düzce İdari Yargılama 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "duzce__idari-yargilama-donem-2",
+      "title": "Düzce İdari Yargılama 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "duzce__idari-yargilama-yillik",
+      "title": "Düzce İdari Yargılama Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "zonguldak__idari-yargilama-donem-1",
+      "title": "BEÜN İdari Yargılama 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "zonguldak__idari-yargilama-donem-2",
+      "title": "BEÜN İdari Yargılama 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "zonguldak__idari-yargilama-yillik",
+      "title": "BEÜN İdari Yargılama Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "karabuk__idari-yargilama-donem-1",
+      "title": "KBÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "karabuk__idari-yargilama-donem-2",
+      "title": "KBÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "karabuk__idari-yargilama-yillik",
+      "title": "KBÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kastamonu__idari-yargilama-donem-1",
+      "title": "KÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kastamonu__idari-yargilama-donem-2",
+      "title": "KÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kastamonu__idari-yargilama-yillik",
+      "title": "KÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "sinop__idari-yargilama-donem-1",
+      "title": "Sinop İdari Yargılama 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "sinop__idari-yargilama-donem-2",
+      "title": "Sinop İdari Yargılama 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "sinop__idari-yargilama-yillik",
+      "title": "Sinop İdari Yargılama Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "corum__idari-yargilama-donem-1",
+      "title": "Hitit İdari Yargılama 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "corum__idari-yargilama-donem-2",
+      "title": "Hitit İdari Yargılama 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "corum__idari-yargilama-yillik",
+      "title": "Hitit İdari Yargılama Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "amasya__idari-yargilama-donem-1",
+      "title": "Amasya İdari Yargılama 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "amasya__idari-yargilama-donem-2",
+      "title": "Amasya İdari Yargılama 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "amasya__idari-yargilama-yillik",
+      "title": "Amasya İdari Yargılama Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "cankiri__idari-yargilama-donem-1",
+      "title": "Karatekin İdari Yargılama 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "cankiri__idari-yargilama-donem-2",
+      "title": "Karatekin İdari Yargılama 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "cankiri__idari-yargilama-yillik",
+      "title": "Karatekin İdari Yargılama Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kirikkale__idari-yargilama-donem-1",
+      "title": "Kırıkkale İdari Yargılama 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kirikkale__idari-yargilama-donem-2",
+      "title": "Kırıkkale İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kirikkale__idari-yargilama-yillik",
+      "title": "Kırıkkale İdari Yargılama Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "aksaray__idari-yargilama-donem-1",
+      "title": "Aksaray İdari Yargılama 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "aksaray__idari-yargilama-donem-2",
+      "title": "Aksaray İdari Yargılama 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "aksaray__idari-yargilama-yillik",
+      "title": "Aksaray İdari Yargılama Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "nigde__idari-yargilama-donem-1",
+      "title": "ÖHÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "nigde__idari-yargilama-donem-2",
+      "title": "ÖHÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "nigde__idari-yargilama-yillik",
+      "title": "ÖHÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "konya-teknik__idari-yargilama-donem-1",
+      "title": "NEÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "konya-teknik__idari-yargilama-donem-2",
+      "title": "NEÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "konya-teknik__idari-yargilama-yillik",
+      "title": "NEÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "karaman__idari-yargilama-donem-1",
+      "title": "KMÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "karaman__idari-yargilama-donem-2",
+      "title": "KMÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "karaman__idari-yargilama-yillik",
+      "title": "KMÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "usak__idari-yargilama-donem-1",
+      "title": "Uşak İdari Yargılama 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "usak__idari-yargilama-donem-2",
+      "title": "Uşak İdari Yargılama 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "usak__idari-yargilama-yillik",
+      "title": "Uşak İdari Yargılama Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "manisa__idari-yargilama-donem-1",
+      "title": "MCBÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "manisa__idari-yargilama-donem-2",
+      "title": "MCBÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "manisa__idari-yargilama-yillik",
+      "title": "MCBÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "aydin-adu__idari-yargilama-donem-1",
+      "title": "ADÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "aydin-adu__idari-yargilama-donem-2",
+      "title": "ADÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "aydin-adu__idari-yargilama-yillik",
+      "title": "ADÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "tekirdag__idari-yargilama-donem-1",
+      "title": "NKÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "tekirdag__idari-yargilama-donem-2",
+      "title": "NKÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "tekirdag__idari-yargilama-yillik",
+      "title": "NKÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "kirklareli__idari-yargilama-donem-1",
+      "title": "Kırklareli İdari Yargılama 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "kirklareli__idari-yargilama-donem-2",
+      "title": "Kırklareli İdari Yargılama 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "kirklareli__idari-yargilama-yillik",
+      "title": "Kırklareli İdari Yargılama Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "atilim__idari-yargilama-donem-1",
+      "title": "Atılım İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "atilim__idari-yargilama-donem-2",
+      "title": "Atılım İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "atilim__idari-yargilama-yillik",
+      "title": "Atılım İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "cankaya__idari-yargilama-donem-1",
+      "title": "Çankaya İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "cankaya__idari-yargilama-donem-2",
+      "title": "Çankaya İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "cankaya__idari-yargilama-yillik",
+      "title": "Çankaya İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "ufuk__idari-yargilama-donem-1",
+      "title": "Ufuk İdari Yargılama 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "ufuk__idari-yargilama-donem-2",
+      "title": "Ufuk İdari Yargılama 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "ufuk__idari-yargilama-yillik",
+      "title": "Ufuk İdari Yargılama Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "yasar__idari-yargilama-donem-1",
+      "title": "Yaşar İdari Yargılama 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "yasar__idari-yargilama-donem-2",
+      "title": "Yaşar İdari Yargılama 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "yasar__idari-yargilama-yillik",
+      "title": "Yaşar İdari Yargılama Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "izmir-ekonomi__idari-yargilama-donem-1",
+      "title": "İEÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "izmir-ekonomi__idari-yargilama-donem-2",
+      "title": "İEÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "izmir-ekonomi__idari-yargilama-yillik",
+      "title": "İEÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "tinaztepe__idari-yargilama-donem-1",
+      "title": "Tınaztepe İdari Yargılama 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "tinaztepe__idari-yargilama-donem-2",
+      "title": "Tınaztepe İdari Yargılama 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "tinaztepe__idari-yargilama-yillik",
+      "title": "Tınaztepe İdari Yargılama Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "asbu-vakif__idari-yargilama-donem-1",
+      "title": "ABÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "asbu-vakif__idari-yargilama-donem-2",
+      "title": "ABÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "asbu-vakif__idari-yargilama-yillik",
+      "title": "ABÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "hasan-kalyoncu__idari-yargilama-donem-1",
+      "title": "HKÜ İdari Yargılama 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "hasan-kalyoncu__idari-yargilama-donem-2",
+      "title": "HKÜ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "hasan-kalyoncu__idari-yargilama-yillik",
+      "title": "HKÜ İdari Yargılama Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "sanko__idari-yargilama-donem-1",
+      "title": "Sanko İdari Yargılama 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "sanko__idari-yargilama-donem-2",
+      "title": "Sanko İdari Yargılama 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "sanko__idari-yargilama-yillik",
+      "title": "Sanko İdari Yargılama Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "toros__idari-yargilama-donem-1",
+      "title": "Toros İdari Yargılama 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "toros__idari-yargilama-donem-2",
+      "title": "Toros İdari Yargılama 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "toros__idari-yargilama-yillik",
+      "title": "Toros İdari Yargılama Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "idari-yargilama-donem-1",
+      "slug": "cag__idari-yargilama-donem-1",
+      "title": "Çağ İdari Yargılama 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/idari-yargilama-donem-1",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "idari-yargilama-donem-2",
+      "slug": "cag__idari-yargilama-donem-2",
+      "title": "Çağ İdari Yargılama 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/idari-yargilama-donem-2",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "idari-yargilama-yillik",
+      "slug": "cag__idari-yargilama-yillik",
+      "title": "Çağ İdari Yargılama Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/idari-yargilama-yillik",
+      "variantOf": "idari-yargilama",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -79464,5 +82704,6 @@
   "cezaGenelTripleAt": "2026-07-29T20:55:24.643Z",
   "cezaOzelTripleAt": "2026-07-29T20:55:26.055Z",
   "cmkTripleAt": "2026-07-29T20:58:27.953Z",
-  "idareHukukuTripleAt": "2026-07-29T21:01:24.134Z"
+  "idareHukukuTripleAt": "2026-07-29T21:01:24.134Z",
+  "idariYargilamaTripleAt": "2026-07-29T21:04:37.496Z"
 }

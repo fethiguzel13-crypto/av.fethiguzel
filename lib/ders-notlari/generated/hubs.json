@@ -624,6 +624,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -1271,6 +1295,30 @@
         "href": "/ders-notlari/ankara/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -1919,6 +1967,30 @@
         "href": "/ders-notlari/istanbul/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -2565,6 +2637,30 @@
         "href": "/ders-notlari/marmara/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/marmara/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -3213,6 +3309,30 @@
         "href": "/ders-notlari/galatasaray/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -3860,6 +3980,30 @@
         "href": "/ders-notlari/dokuz-eylul/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -4506,6 +4650,30 @@
         "href": "/ders-notlari/hacettepe/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -5153,6 +5321,30 @@
         "href": "/ders-notlari/ankara-hacibayram/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -5799,6 +5991,30 @@
         "href": "/ders-notlari/bilkent/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -6446,6 +6662,30 @@
         "href": "/ders-notlari/koc/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/koc/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/koc/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/koc/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -7093,6 +7333,30 @@
         "href": "/ders-notlari/tobb-etu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -7739,6 +8003,30 @@
         "href": "/ders-notlari/bogazici/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -8385,6 +8673,30 @@
         "href": "/ders-notlari/ege/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ege/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ege/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ege/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -9031,6 +9343,30 @@
         "href": "/ders-notlari/akdeniz/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -9677,6 +10013,30 @@
         "href": "/ders-notlari/selcuk/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -10323,6 +10683,30 @@
         "href": "/ders-notlari/erciyes/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -10970,6 +11354,30 @@
         "href": "/ders-notlari/uludag/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/uludag/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -11616,6 +12024,30 @@
         "href": "/ders-notlari/cukurova/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -12262,6 +12694,30 @@
         "href": "/ders-notlari/anadolu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -12909,6 +13365,30 @@
         "href": "/ders-notlari/gazi-ankara/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -13556,6 +14036,30 @@
         "href": "/ders-notlari/yildiz-teknik/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -14202,6 +14706,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -14849,6 +15377,30 @@
         "href": "/ders-notlari/bahcesehir/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -15495,6 +16047,30 @@
         "href": "/ders-notlari/yeditepe/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -16141,6 +16717,30 @@
         "href": "/ders-notlari/ozyegin/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -16787,6 +17387,30 @@
         "href": "/ders-notlari/kadir-has/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -17433,6 +18057,30 @@
         "href": "/ders-notlari/istanbul-bilgi/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -18079,6 +18727,30 @@
         "href": "/ders-notlari/mehmet-akif/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -18725,6 +19397,30 @@
         "href": "/ders-notlari/altinbas/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -19371,6 +20067,30 @@
         "href": "/ders-notlari/maltepe/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -20017,6 +20737,30 @@
         "href": "/ders-notlari/dogus/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dogus/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -20663,6 +21407,30 @@
         "href": "/ders-notlari/isik/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/isik/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/isik/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/isik/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -21309,6 +22077,30 @@
         "href": "/ders-notlari/okan/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/okan/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/okan/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/okan/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -21955,6 +22747,30 @@
         "href": "/ders-notlari/kultur/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kultur/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -22601,6 +23417,30 @@
         "href": "/ders-notlari/aydin/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -23247,6 +24087,30 @@
         "href": "/ders-notlari/gelisim/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -23893,6 +24757,30 @@
         "href": "/ders-notlari/topkapi/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -24539,6 +25427,30 @@
         "href": "/ders-notlari/nisantasi/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -25185,6 +26097,30 @@
         "href": "/ders-notlari/beykent/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/beykent/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -25831,6 +26767,30 @@
         "href": "/ders-notlari/halic/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/halic/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/halic/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/halic/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -26477,6 +27437,30 @@
         "href": "/ders-notlari/fatih-sultan/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -27124,6 +28108,30 @@
         "href": "/ders-notlari/karadeniz-teknik/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -27771,6 +28779,30 @@
         "href": "/ders-notlari/ataturk/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -28417,6 +29449,30 @@
         "href": "/ders-notlari/inonu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/inonu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -29063,6 +30119,30 @@
         "href": "/ders-notlari/dicle/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dicle/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -29709,6 +30789,30 @@
         "href": "/ders-notlari/firat/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/firat/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/firat/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/firat/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -30355,6 +31459,30 @@
         "href": "/ders-notlari/gaziantep/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -31002,6 +32130,30 @@
         "href": "/ders-notlari/suleyman-demirel/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -31648,6 +32800,30 @@
         "href": "/ders-notlari/pamukkale/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -32294,6 +33470,30 @@
         "href": "/ders-notlari/mugla/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mugla/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -32940,6 +34140,30 @@
         "href": "/ders-notlari/sakarya/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -33586,6 +34810,30 @@
         "href": "/ders-notlari/kocaeli/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -34232,6 +35480,30 @@
         "href": "/ders-notlari/trakya/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/trakya/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -34878,6 +36150,30 @@
         "href": "/ders-notlari/canakkale/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -35524,6 +36820,30 @@
         "href": "/ders-notlari/balikesir/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -36171,6 +37491,30 @@
         "href": "/ders-notlari/afyon/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/afyon/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -36817,6 +38161,30 @@
         "href": "/ders-notlari/dumlupinar/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -37463,6 +38831,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -38110,6 +39502,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -38756,6 +40172,30 @@
         "href": "/ders-notlari/tokat/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tokat/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -39402,6 +40842,30 @@
         "href": "/ders-notlari/yozgat/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -40048,6 +41512,30 @@
         "href": "/ders-notlari/kirsehir/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -40694,6 +42182,30 @@
         "href": "/ders-notlari/nevsehir/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -41340,6 +42852,30 @@
         "href": "/ders-notlari/mersin/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mersin/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -41987,6 +43523,30 @@
         "href": "/ders-notlari/hatay/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hatay/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -42633,6 +44193,30 @@
         "href": "/ders-notlari/kahramanmaras/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -43279,6 +44863,30 @@
         "href": "/ders-notlari/osmaniye/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -43926,6 +45534,30 @@
         "href": "/ders-notlari/samsun/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/samsun/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -44572,6 +46204,30 @@
         "href": "/ders-notlari/ordu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ordu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -45218,6 +46874,30 @@
         "href": "/ders-notlari/giresun/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/giresun/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -45865,6 +47545,30 @@
         "href": "/ders-notlari/rize/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/rize/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/rize/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/rize/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -46511,6 +48215,30 @@
         "href": "/ders-notlari/artvin/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/artvin/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -47159,6 +48887,30 @@
         "href": "/ders-notlari/van-yyu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -47805,6 +49557,30 @@
         "href": "/ders-notlari/agri/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/agri/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/agri/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/agri/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -48451,6 +50227,30 @@
         "href": "/ders-notlari/kars/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kars/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kars/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kars/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -49097,6 +50897,30 @@
         "href": "/ders-notlari/erzincan/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -49743,6 +51567,30 @@
         "href": "/ders-notlari/bayburt/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -50389,6 +52237,30 @@
         "href": "/ders-notlari/gumushane/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -51035,6 +52907,30 @@
         "href": "/ders-notlari/bingol/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bingol/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -51681,6 +53577,30 @@
         "href": "/ders-notlari/mus/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mus/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mus/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mus/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -52327,6 +54247,30 @@
         "href": "/ders-notlari/hakkari/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -52973,6 +54917,30 @@
         "href": "/ders-notlari/sirnak/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -53620,6 +55588,30 @@
         "href": "/ders-notlari/mardin/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mardin/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -54266,6 +56258,30 @@
         "href": "/ders-notlari/batman/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/batman/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/batman/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/batman/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -54912,6 +56928,30 @@
         "href": "/ders-notlari/siirt/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/siirt/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -55558,6 +57598,30 @@
         "href": "/ders-notlari/adiyaman/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -56204,6 +58268,30 @@
         "href": "/ders-notlari/kilis/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kilis/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -56850,6 +58938,30 @@
         "href": "/ders-notlari/igdir/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/igdir/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -57496,6 +59608,30 @@
         "href": "/ders-notlari/ardahan/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -58142,6 +60278,30 @@
         "href": "/ders-notlari/bilecik/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -58789,6 +60949,30 @@
         "href": "/ders-notlari/bolu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bolu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -59435,6 +61619,30 @@
         "href": "/ders-notlari/duzce/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/duzce/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -60081,6 +62289,30 @@
         "href": "/ders-notlari/zonguldak/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -60727,6 +62959,30 @@
         "href": "/ders-notlari/karabuk/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -61373,6 +63629,30 @@
         "href": "/ders-notlari/kastamonu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -62019,6 +64299,30 @@
         "href": "/ders-notlari/sinop/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sinop/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -62666,6 +64970,30 @@
         "href": "/ders-notlari/corum/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/corum/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/corum/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/corum/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -63312,6 +65640,30 @@
         "href": "/ders-notlari/amasya/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/amasya/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -63958,6 +66310,30 @@
         "href": "/ders-notlari/cankiri/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -64604,6 +66980,30 @@
         "href": "/ders-notlari/kirikkale/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -65250,6 +67650,30 @@
         "href": "/ders-notlari/aksaray/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -65896,6 +68320,30 @@
         "href": "/ders-notlari/nigde/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nigde/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -66542,6 +68990,30 @@
         "href": "/ders-notlari/konya-teknik/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -67188,6 +69660,30 @@
         "href": "/ders-notlari/karaman/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karaman/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -67834,6 +70330,30 @@
         "href": "/ders-notlari/usak/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/usak/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/usak/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/usak/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -68481,6 +71001,30 @@
         "href": "/ders-notlari/manisa/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/manisa/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -69127,6 +71671,30 @@
         "href": "/ders-notlari/aydin-adu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -69773,6 +72341,30 @@
         "href": "/ders-notlari/tekirdag/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -70419,6 +73011,30 @@
         "href": "/ders-notlari/kirklareli/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -71065,6 +73681,30 @@
         "href": "/ders-notlari/atilim/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/atilim/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -71711,6 +74351,30 @@
         "href": "/ders-notlari/cankaya/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -72357,6 +75021,30 @@
         "href": "/ders-notlari/ufuk/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -73003,6 +75691,30 @@
         "href": "/ders-notlari/yasar/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yasar/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -73649,6 +76361,30 @@
         "href": "/ders-notlari/izmir-ekonomi/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -74295,6 +77031,30 @@
         "href": "/ders-notlari/tinaztepe/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -74941,6 +77701,30 @@
         "href": "/ders-notlari/asbu-vakif/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -75587,6 +78371,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -76233,6 +79041,30 @@
         "href": "/ders-notlari/sanko/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sanko/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -76879,6 +79711,30 @@
         "href": "/ders-notlari/toros/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/toros/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/toros/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/toros/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
@@ -77525,6 +80381,30 @@
         "href": "/ders-notlari/cag/idare-hukuku-yillik",
         "ready": true,
         "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idari-yargilama-donem-1",
+        "title": "İdari Yargılama — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cag/idari-yargilama-donem-1",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-donem-2",
+        "title": "İdari Yargılama — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cag/idari-yargilama-donem-2",
+        "ready": true,
+        "variantOf": "idari-yargilama"
+      },
+      {
+        "code": "idari-yargilama-yillik",
+        "title": "İdari Yargılama — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cag/idari-yargilama-yillik",
+        "ready": true,
+        "variantOf": "idari-yargilama"
       }
     ],
     "seoParagraphs": [
