@@ -72,6 +72,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'borclar-ozel-donem-1',
               'borclar-ozel-donem-2',
               'borclar-ozel-yillik',
+              'esya-hukuku-donem-1',
+              'esya-hukuku-donem-2',
+              'esya-hukuku-yillik',
             ].map((code) => (
               <a
                 key={code}

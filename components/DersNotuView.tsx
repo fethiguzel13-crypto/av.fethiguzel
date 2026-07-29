@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import type { ReactNode } from 'react';
 import type { CourseNote, NoteDiagram, UniHubContent } from '@/lib/ders-notlari';
 
 const SITE = 'https://www.avfethiguzel.com';
@@ -332,112 +333,37 @@ export function DersNotuView({
       </div>
 
       {/* Borçlar Genel / Özel üçlü paket geçişi */}
-      {(note.variantOf === 'borclar-genel' ||
-        note.courseCode === 'borclar-genel' ||
-        note.courseCode.startsWith('borclar-genel-') ||
-        note.variantOf === 'borclar-ozel' ||
-        note.courseCode === 'borclar-ozel' ||
-        note.courseCode.startsWith('borclar-ozel-')) && (
-        <nav
-          aria-label="Borçlar paketleri"
-          className="mb-8 rounded-2xl border-2 border-accent/25 bg-white p-4 sm:p-5 shadow-sm print:hidden"
-        >
-          {(note.variantOf === 'borclar-genel' ||
-            note.courseCode === 'borclar-genel' ||
-            note.courseCode.startsWith('borclar-genel-')) && (
-            <>
-              <p className="text-[11px] font-mono uppercase tracking-wider text-accent font-bold mb-3">
-                Borçlar Genel · üç paket
-              </p>
-              <div className="grid sm:grid-cols-3 gap-2 mb-4">
-                {[
-                  {
-                    code: 'borclar-genel-donem-1',
-                    label: '1. Dönem (Güz)',
-                    desc: 'Kaynak · kuruluş · irade · temsil',
-                  },
-                  {
-                    code: 'borclar-genel-donem-2',
-                    label: '2. Dönem (Bahar)',
-                    desc: 'Temerrüt · haksız fiil · zamanaşımı',
-                  },
-                  {
-                    code: 'borclar-genel-yillik',
-                    label: 'Yıllık tam not',
-                    desc: '1. + 2. dönem birleşik paket',
-                  },
-                ].map((v) => {
-                  const active = note.courseCode === v.code;
-                  return (
-                    <Link
-                      key={v.code}
-                      href={`/ders-notlari/${note.uniSlug}/${v.code}`}
-                      className={`rounded-xl border px-3 py-3 text-sm transition-colors ${
-                        active
-                          ? 'border-accent bg-accent/10 font-bold text-charcoal'
-                          : 'border-charcoal/10 hover:border-accent/40 text-charcoal/80'
-                      }`}
-                    >
-                      <span className="block font-semibold">{v.label}</span>
-                      <span className="block text-[11px] font-normal text-charcoal/50 mt-0.5">
-                        {v.desc}
-                      </span>
-                      <span className="block text-[10px] text-accent mt-1.5 font-semibold">
-                        PDF → /{v.code}/pdf
-                      </span>
-                    </Link>
-                  );
-                })}
-              </div>
-            </>
-          )}
-          {(note.variantOf === 'borclar-ozel' ||
-            note.courseCode === 'borclar-ozel' ||
-            note.courseCode.startsWith('borclar-ozel-')) && (
-            <>
-              <p className="text-[11px] font-mono uppercase tracking-wider text-accent font-bold mb-3">
-                Borçlar Özel · üç paket
-              </p>
-              <div className="grid sm:grid-cols-3 gap-2">
-                {[
-                  {
-                    code: 'borclar-ozel-donem-1',
-                    label: '1. Dönem (Güz)',
-                    desc: 'Satım · kira · bağış · ödünç',
-                  },
-                  {
-                    code: 'borclar-ozel-donem-2',
-                    label: '2. Dönem (Bahar)',
-                    desc: 'Eser · vekâlet · kefalet',
-                  },
-                  {
-                    code: 'borclar-ozel-yillik',
-                    label: 'Yıllık tam not',
-                    desc: '1. + 2. dönem birleşik paket',
-                  },
-                ].map((v) => {
-                  const active = note.courseCode === v.code;
-                  return (
-                    <Link
-                      key={v.code}
-                      href={`/ders-notlari/${note.uniSlug}/${v.code}`}
-                      className={`rounded-xl border px-3 py-3 text-sm transition-colors ${
-                        active
-                          ? 'border-accent bg-accent/10 font-bold text-charcoal'
-                          : 'border-charcoal/10 hover:border-accent/40 text-charcoal/80'
-                      }`}
-                    >
-                      <span className="block font-semibold">{v.label}</span>
-                      <span className="block text-[11px] font-normal text-charcoal/50 mt-0.5">
-                        {v.desc}
-                      </span>
-                      <span className="block text-[10px] text-accent mt-1.5 font-semibold">
-                        PDF → /{v.code}/pdf
-                      </span>
-                    </Link>
-                  );
-                })}
-              </div>
+      {(() => {
+        const packs: {
+          match: boolean;
+          title: string;
+          items: { code: string; label: string; desc: string }[];
+          footer?: ReactNode;
+        }[] = [
+          {
+            match:
+              note.variantOf === 'borclar-genel' ||
+              note.courseCode === 'borclar-genel' ||
+              note.courseCode.startsWith('borclar-genel-'),
+            title: 'Borçlar Genel · üç paket',
+            items: [
+              { code: 'borclar-genel-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · kuruluş · irade · temsil' },
+              { code: 'borclar-genel-donem-2', label: '2. Dönem (Bahar)', desc: 'Temerrüt · haksız fiil · zamanaşımı' },
+              { code: 'borclar-genel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
+          {
+            match:
+              note.variantOf === 'borclar-ozel' ||
+              note.courseCode === 'borclar-ozel' ||
+              note.courseCode.startsWith('borclar-ozel-'),
+            title: 'Borçlar Özel · üç paket',
+            items: [
+              { code: 'borclar-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Satım · kira · bağış · ödünç' },
+              { code: 'borclar-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Eser · vekâlet · kefalet' },
+              { code: 'borclar-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
               <p className="text-[11px] text-charcoal/45 mt-3 m-0">
                 Genel hükümler için:{' '}
                 <Link
@@ -447,10 +373,63 @@ export function DersNotuView({
                   Borçlar Genel yıllık
                 </Link>
               </p>
-            </>
-          )}
-        </nav>
-      )}
+            ),
+          },
+          {
+            match:
+              note.variantOf === 'esya-hukuku' ||
+              note.courseCode === 'esya-hukuku' ||
+              note.courseCode.startsWith('esya-hukuku-'),
+            title: 'Eşya Hukuku · üç paket',
+            items: [
+              { code: 'esya-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Zilyetlik · sicil · mülkiyet' },
+              { code: 'esya-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'İrtifak · rehin · davalar' },
+              { code: 'esya-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
+        ];
+        const activePacks = packs.filter((p) => p.match);
+        if (!activePacks.length) return null;
+        return (
+          <nav
+            aria-label="Ders paketleri"
+            className="mb-8 rounded-2xl border-2 border-accent/25 bg-white p-4 sm:p-5 shadow-sm print:hidden space-y-5"
+          >
+            {activePacks.map((pack) => (
+              <div key={pack.title}>
+                <p className="text-[11px] font-mono uppercase tracking-wider text-accent font-bold mb-3">
+                  {pack.title}
+                </p>
+                <div className="grid sm:grid-cols-3 gap-2">
+                  {pack.items.map((v) => {
+                    const active = note.courseCode === v.code;
+                    return (
+                      <Link
+                        key={v.code}
+                        href={`/ders-notlari/${note.uniSlug}/${v.code}`}
+                        className={`rounded-xl border px-3 py-3 text-sm transition-colors ${
+                          active
+                            ? 'border-accent bg-accent/10 font-bold text-charcoal'
+                            : 'border-charcoal/10 hover:border-accent/40 text-charcoal/80'
+                        }`}
+                      >
+                        <span className="block font-semibold">{v.label}</span>
+                        <span className="block text-[11px] font-normal text-charcoal/50 mt-0.5">
+                          {v.desc}
+                        </span>
+                        <span className="block text-[10px] text-accent mt-1.5 font-semibold">
+                          PDF → /{v.code}/pdf
+                        </span>
+                      </Link>
+                    );
+                  })}
+                </div>
+                {pack.footer}
+              </div>
+            ))}
+          </nav>
+        );
+      })()}
 
       {/* 60 saniye */}
       {note.sixtySecond && note.sixtySecond.length > 0 && (
@@ -759,30 +738,62 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
       </div>
 
       {/* Borçlar Genel + Özel öne çıkan paketler */}
-      {(hub.courses.some((c) => String(c.code).startsWith('borclar-genel')) ||
-        hub.courses.some((c) => String(c.code).startsWith('borclar-ozel'))) && (
-        <div className="mt-10 space-y-4">
-          {hub.courses.some((c) => String(c.code).startsWith('borclar-genel')) && (
-            <section className="rounded-2xl border-2 border-accent/20 bg-accent/[0.05] p-5">
-              <h2 className="text-lg font-heading font-bold text-charcoal mb-2">
-                Borçlar Genel — 1. dönem · 2. dönem · yıllık
-              </h2>
-              <p className="text-sm text-charcoal/60 mb-4">
-                Dönemlik ve yıllık programlara uygun üç premium not + PDF.
-              </p>
+      <div className="mt-10 space-y-4">
+        {[
+          {
+            show: hub.courses.some((c) => String(c.code).startsWith('borclar-genel')),
+            title: 'Borçlar Genel — 1. dönem · 2. dönem · yıllık',
+            desc: 'Dönemlik ve yıllık programlara uygun üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.05]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'borclar-genel-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'borclar-genel-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'borclar-genel-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some((c) => String(c.code).startsWith('borclar-ozel')),
+            title: 'Borçlar Özel — 1. dönem · 2. dönem · yıllık',
+            desc: 'Satım–kira–eser–vekâlet–kefalet… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'borclar-ozel-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'borclar-ozel-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'borclar-ozel-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some((c) => String(c.code).startsWith('esya-hukuku')),
+            title: 'Eşya Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Zilyetlik–mülkiyet–irtifak–rehin–davalar… üç premium not + PDF.',
+            border: 'border-charcoal/15 bg-charcoal/[0.03]',
+            itemBorder: 'border-charcoal/15',
+            accent: 'text-accent',
+            items: [
+              { code: 'esya-hukuku-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'esya-hukuku-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'esya-hukuku-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+        ]
+          .filter((b) => b.show)
+          .map((block) => (
+            <section key={block.title} className={`rounded-2xl border-2 ${block.border} p-5`}>
+              <h2 className="text-lg font-heading font-bold text-charcoal mb-2">{block.title}</h2>
+              <p className="text-sm text-charcoal/60 mb-4">{block.desc}</p>
               <ul className="grid sm:grid-cols-3 gap-2 m-0 p-0 list-none">
-                {[
-                  { code: 'borclar-genel-donem-1', title: '1. Dönem (Güz)' },
-                  { code: 'borclar-genel-donem-2', title: '2. Dönem (Bahar)' },
-                  { code: 'borclar-genel-yillik', title: 'Yıllık tam not' },
-                ].map((v) => (
+                {block.items.map((v) => (
                   <li key={v.code}>
                     <Link
                       href={`/ders-notlari/${hub.uni.slug}/${v.code}`}
-                      className="block rounded-xl border border-accent/25 bg-white hover:border-accent px-3 py-3 text-sm font-semibold text-charcoal"
+                      className={`block rounded-xl border ${block.itemBorder} bg-white hover:border-accent px-3 py-3 text-sm font-semibold text-charcoal`}
                     >
                       {v.title}
-                      <span className="block text-[10px] font-normal text-accent mt-1">
+                      <span className={`block text-[10px] font-normal ${block.accent} mt-1`}>
                         Not + PDF indir
                       </span>
                     </Link>
@@ -790,38 +801,8 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
                 ))}
               </ul>
             </section>
-          )}
-          {hub.courses.some((c) => String(c.code).startsWith('borclar-ozel')) && (
-            <section className="rounded-2xl border-2 border-primary/20 bg-primary/[0.04] p-5">
-              <h2 className="text-lg font-heading font-bold text-charcoal mb-2">
-                Borçlar Özel — 1. dönem · 2. dönem · yıllık
-              </h2>
-              <p className="text-sm text-charcoal/60 mb-4">
-                Satım–kira–eser–vekâlet–kefalet… üç premium not + PDF.
-              </p>
-              <ul className="grid sm:grid-cols-3 gap-2 m-0 p-0 list-none">
-                {[
-                  { code: 'borclar-ozel-donem-1', title: '1. Dönem (Güz)' },
-                  { code: 'borclar-ozel-donem-2', title: '2. Dönem (Bahar)' },
-                  { code: 'borclar-ozel-yillik', title: 'Yıllık tam not' },
-                ].map((v) => (
-                  <li key={v.code}>
-                    <Link
-                      href={`/ders-notlari/${hub.uni.slug}/${v.code}`}
-                      className="block rounded-xl border border-primary/25 bg-white hover:border-primary px-3 py-3 text-sm font-semibold text-charcoal"
-                    >
-                      {v.title}
-                      <span className="block text-[10px] font-normal text-primary mt-1">
-                        Not + PDF indir
-                      </span>
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </section>
-          )}
-        </div>
-      )}
+          ))}
+      </div>
 
       {byYear.map(
         (b) =>
@@ -835,7 +816,8 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
                   .filter(
                     (c) =>
                       !String(c.code).match(/^borclar-genel-(donem|yillik)/) &&
-                      !String(c.code).match(/^borclar-ozel-(donem|yillik)/)
+                      !String(c.code).match(/^borclar-ozel-(donem|yillik)/) &&
+                      !String(c.code).match(/^esya-hukuku-(donem|yillik)/)
                   )
                   .map((c) => (
                   <li key={c.code}>

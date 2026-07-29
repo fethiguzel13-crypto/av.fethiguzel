@@ -264,6 +264,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -551,6 +575,30 @@
         "href": "/ders-notlari/ankara/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -839,6 +887,30 @@
         "href": "/ders-notlari/istanbul/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1125,6 +1197,30 @@
         "href": "/ders-notlari/marmara/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/marmara/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1413,6 +1509,30 @@
         "href": "/ders-notlari/galatasaray/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1700,6 +1820,30 @@
         "href": "/ders-notlari/dokuz-eylul/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1986,6 +2130,30 @@
         "href": "/ders-notlari/hacettepe/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2273,6 +2441,30 @@
         "href": "/ders-notlari/ankara-hacibayram/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2559,6 +2751,30 @@
         "href": "/ders-notlari/bilkent/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2846,6 +3062,30 @@
         "href": "/ders-notlari/koc/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/koc/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/koc/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/koc/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3133,6 +3373,30 @@
         "href": "/ders-notlari/tobb-etu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3419,6 +3683,30 @@
         "href": "/ders-notlari/bogazici/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3705,6 +3993,30 @@
         "href": "/ders-notlari/ege/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ege/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ege/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ege/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3991,6 +4303,30 @@
         "href": "/ders-notlari/akdeniz/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4277,6 +4613,30 @@
         "href": "/ders-notlari/selcuk/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4563,6 +4923,30 @@
         "href": "/ders-notlari/erciyes/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4850,6 +5234,30 @@
         "href": "/ders-notlari/uludag/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/uludag/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5136,6 +5544,30 @@
         "href": "/ders-notlari/cukurova/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5422,6 +5854,30 @@
         "href": "/ders-notlari/anadolu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5709,6 +6165,30 @@
         "href": "/ders-notlari/gazi-ankara/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5996,6 +6476,30 @@
         "href": "/ders-notlari/yildiz-teknik/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6282,6 +6786,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6569,6 +7097,30 @@
         "href": "/ders-notlari/bahcesehir/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6855,6 +7407,30 @@
         "href": "/ders-notlari/yeditepe/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7141,6 +7717,30 @@
         "href": "/ders-notlari/ozyegin/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7427,6 +8027,30 @@
         "href": "/ders-notlari/kadir-has/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7713,6 +8337,30 @@
         "href": "/ders-notlari/istanbul-bilgi/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7999,6 +8647,30 @@
         "href": "/ders-notlari/mehmet-akif/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8285,6 +8957,30 @@
         "href": "/ders-notlari/altinbas/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8571,6 +9267,30 @@
         "href": "/ders-notlari/maltepe/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8857,6 +9577,30 @@
         "href": "/ders-notlari/dogus/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dogus/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9143,6 +9887,30 @@
         "href": "/ders-notlari/isik/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/isik/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/isik/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/isik/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9429,6 +10197,30 @@
         "href": "/ders-notlari/okan/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/okan/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/okan/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/okan/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9715,6 +10507,30 @@
         "href": "/ders-notlari/kultur/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kultur/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10001,6 +10817,30 @@
         "href": "/ders-notlari/aydin/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10287,6 +11127,30 @@
         "href": "/ders-notlari/gelisim/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10573,6 +11437,30 @@
         "href": "/ders-notlari/topkapi/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10859,6 +11747,30 @@
         "href": "/ders-notlari/nisantasi/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11145,6 +12057,30 @@
         "href": "/ders-notlari/beykent/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/beykent/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11431,6 +12367,30 @@
         "href": "/ders-notlari/halic/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/halic/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/halic/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/halic/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11717,6 +12677,30 @@
         "href": "/ders-notlari/fatih-sultan/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12004,6 +12988,30 @@
         "href": "/ders-notlari/karadeniz-teknik/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12291,6 +13299,30 @@
         "href": "/ders-notlari/ataturk/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12577,6 +13609,30 @@
         "href": "/ders-notlari/inonu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/inonu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12863,6 +13919,30 @@
         "href": "/ders-notlari/dicle/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dicle/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13149,6 +14229,30 @@
         "href": "/ders-notlari/firat/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/firat/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/firat/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/firat/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13435,6 +14539,30 @@
         "href": "/ders-notlari/gaziantep/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13722,6 +14850,30 @@
         "href": "/ders-notlari/suleyman-demirel/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14008,6 +15160,30 @@
         "href": "/ders-notlari/pamukkale/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14294,6 +15470,30 @@
         "href": "/ders-notlari/mugla/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mugla/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14580,6 +15780,30 @@
         "href": "/ders-notlari/sakarya/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14866,6 +16090,30 @@
         "href": "/ders-notlari/kocaeli/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15152,6 +16400,30 @@
         "href": "/ders-notlari/trakya/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/trakya/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15438,6 +16710,30 @@
         "href": "/ders-notlari/canakkale/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15724,6 +17020,30 @@
         "href": "/ders-notlari/balikesir/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16011,6 +17331,30 @@
         "href": "/ders-notlari/afyon/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/afyon/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16297,6 +17641,30 @@
         "href": "/ders-notlari/dumlupinar/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16583,6 +17951,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16870,6 +18262,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17156,6 +18572,30 @@
         "href": "/ders-notlari/tokat/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tokat/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17442,6 +18882,30 @@
         "href": "/ders-notlari/yozgat/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17728,6 +19192,30 @@
         "href": "/ders-notlari/kirsehir/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18014,6 +19502,30 @@
         "href": "/ders-notlari/nevsehir/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18300,6 +19812,30 @@
         "href": "/ders-notlari/mersin/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mersin/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18587,6 +20123,30 @@
         "href": "/ders-notlari/hatay/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hatay/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18873,6 +20433,30 @@
         "href": "/ders-notlari/kahramanmaras/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19159,6 +20743,30 @@
         "href": "/ders-notlari/osmaniye/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19446,6 +21054,30 @@
         "href": "/ders-notlari/samsun/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/samsun/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19732,6 +21364,30 @@
         "href": "/ders-notlari/ordu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ordu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20018,6 +21674,30 @@
         "href": "/ders-notlari/giresun/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/giresun/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20305,6 +21985,30 @@
         "href": "/ders-notlari/rize/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/rize/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/rize/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/rize/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20591,6 +22295,30 @@
         "href": "/ders-notlari/artvin/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/artvin/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20879,6 +22607,30 @@
         "href": "/ders-notlari/van-yyu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21165,6 +22917,30 @@
         "href": "/ders-notlari/agri/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/agri/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/agri/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/agri/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21451,6 +23227,30 @@
         "href": "/ders-notlari/kars/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kars/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kars/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kars/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21737,6 +23537,30 @@
         "href": "/ders-notlari/erzincan/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22023,6 +23847,30 @@
         "href": "/ders-notlari/bayburt/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22309,6 +24157,30 @@
         "href": "/ders-notlari/gumushane/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22595,6 +24467,30 @@
         "href": "/ders-notlari/bingol/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bingol/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22881,6 +24777,30 @@
         "href": "/ders-notlari/mus/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mus/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mus/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mus/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23167,6 +25087,30 @@
         "href": "/ders-notlari/hakkari/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23453,6 +25397,30 @@
         "href": "/ders-notlari/sirnak/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23740,6 +25708,30 @@
         "href": "/ders-notlari/mardin/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mardin/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24026,6 +26018,30 @@
         "href": "/ders-notlari/batman/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/batman/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/batman/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/batman/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24312,6 +26328,30 @@
         "href": "/ders-notlari/siirt/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/siirt/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24598,6 +26638,30 @@
         "href": "/ders-notlari/adiyaman/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24884,6 +26948,30 @@
         "href": "/ders-notlari/kilis/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kilis/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25170,6 +27258,30 @@
         "href": "/ders-notlari/igdir/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/igdir/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25456,6 +27568,30 @@
         "href": "/ders-notlari/ardahan/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25742,6 +27878,30 @@
         "href": "/ders-notlari/bilecik/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26029,6 +28189,30 @@
         "href": "/ders-notlari/bolu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bolu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26315,6 +28499,30 @@
         "href": "/ders-notlari/duzce/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/duzce/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26601,6 +28809,30 @@
         "href": "/ders-notlari/zonguldak/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26887,6 +29119,30 @@
         "href": "/ders-notlari/karabuk/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27173,6 +29429,30 @@
         "href": "/ders-notlari/kastamonu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27459,6 +29739,30 @@
         "href": "/ders-notlari/sinop/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sinop/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27746,6 +30050,30 @@
         "href": "/ders-notlari/corum/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/corum/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/corum/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/corum/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28032,6 +30360,30 @@
         "href": "/ders-notlari/amasya/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/amasya/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28318,6 +30670,30 @@
         "href": "/ders-notlari/cankiri/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28604,6 +30980,30 @@
         "href": "/ders-notlari/kirikkale/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28890,6 +31290,30 @@
         "href": "/ders-notlari/aksaray/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29176,6 +31600,30 @@
         "href": "/ders-notlari/nigde/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nigde/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29462,6 +31910,30 @@
         "href": "/ders-notlari/konya-teknik/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29748,6 +32220,30 @@
         "href": "/ders-notlari/karaman/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karaman/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30034,6 +32530,30 @@
         "href": "/ders-notlari/usak/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/usak/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/usak/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/usak/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30321,6 +32841,30 @@
         "href": "/ders-notlari/manisa/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/manisa/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30607,6 +33151,30 @@
         "href": "/ders-notlari/aydin-adu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30893,6 +33461,30 @@
         "href": "/ders-notlari/tekirdag/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31179,6 +33771,30 @@
         "href": "/ders-notlari/kirklareli/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31465,6 +34081,30 @@
         "href": "/ders-notlari/atilim/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/atilim/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31751,6 +34391,30 @@
         "href": "/ders-notlari/cankaya/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32037,6 +34701,30 @@
         "href": "/ders-notlari/ufuk/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32323,6 +35011,30 @@
         "href": "/ders-notlari/yasar/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yasar/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32609,6 +35321,30 @@
         "href": "/ders-notlari/izmir-ekonomi/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32895,6 +35631,30 @@
         "href": "/ders-notlari/tinaztepe/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33181,6 +35941,30 @@
         "href": "/ders-notlari/asbu-vakif/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33467,6 +36251,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33753,6 +36561,30 @@
         "href": "/ders-notlari/sanko/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sanko/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -34039,6 +36871,30 @@
         "href": "/ders-notlari/toros/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/toros/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/toros/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/toros/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -34325,6 +37181,30 @@
         "href": "/ders-notlari/cag/borclar-ozel-yillik",
         "ready": true,
         "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "esya-hukuku-donem-1",
+        "title": "Eşya Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cag/esya-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-donem-2",
+        "title": "Eşya Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cag/esya-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "esya-hukuku"
+      },
+      {
+        "code": "esya-hukuku-yillik",
+        "title": "Eşya Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cag/esya-hukuku-yillik",
+        "ready": true,
+        "variantOf": "esya-hukuku"
       }
     ],
     "seoParagraphs": [

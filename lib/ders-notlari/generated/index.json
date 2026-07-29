@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 4080,
+  "noteCount": 4440,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -30846,8 +30846,3249 @@
       "href": "/ders-notlari/cag/borclar-ozel-yillik",
       "variantOf": "borclar-ozel",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__esya-hukuku-donem-1",
+      "title": "AYBÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__esya-hukuku-donem-2",
+      "title": "AYBÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__esya-hukuku-yillik",
+      "title": "AYBÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ankara__esya-hukuku-donem-1",
+      "title": "AÜHF Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ankara__esya-hukuku-donem-2",
+      "title": "AÜHF Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ankara__esya-hukuku-yillik",
+      "title": "AÜHF Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "istanbul__esya-hukuku-donem-1",
+      "title": "İÜHF Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "istanbul__esya-hukuku-donem-2",
+      "title": "İÜHF Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "istanbul__esya-hukuku-yillik",
+      "title": "İÜHF Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "marmara__esya-hukuku-donem-1",
+      "title": "MÜHF Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "marmara__esya-hukuku-donem-2",
+      "title": "MÜHF Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "marmara__esya-hukuku-yillik",
+      "title": "MÜHF Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "galatasaray__esya-hukuku-donem-1",
+      "title": "GSÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "galatasaray__esya-hukuku-donem-2",
+      "title": "GSÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "galatasaray__esya-hukuku-yillik",
+      "title": "GSÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "dokuz-eylul__esya-hukuku-donem-1",
+      "title": "DEÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "dokuz-eylul__esya-hukuku-donem-2",
+      "title": "DEÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "dokuz-eylul__esya-hukuku-yillik",
+      "title": "DEÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "hacettepe__esya-hukuku-donem-1",
+      "title": "Hacettepe Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "hacettepe__esya-hukuku-donem-2",
+      "title": "Hacettepe Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "hacettepe__esya-hukuku-yillik",
+      "title": "Hacettepe Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ankara-hacibayram__esya-hukuku-donem-1",
+      "title": "AHBV Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ankara-hacibayram__esya-hukuku-donem-2",
+      "title": "AHBV Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ankara-hacibayram__esya-hukuku-yillik",
+      "title": "AHBV Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "bilkent__esya-hukuku-donem-1",
+      "title": "Bilkent Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "bilkent__esya-hukuku-donem-2",
+      "title": "Bilkent Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "bilkent__esya-hukuku-yillik",
+      "title": "Bilkent Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "koc__esya-hukuku-donem-1",
+      "title": "Koç Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "koc__esya-hukuku-donem-2",
+      "title": "Koç Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "koc__esya-hukuku-yillik",
+      "title": "Koç Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "tobb-etu__esya-hukuku-donem-1",
+      "title": "TOBB ETÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "tobb-etu__esya-hukuku-donem-2",
+      "title": "TOBB ETÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "tobb-etu__esya-hukuku-yillik",
+      "title": "TOBB ETÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "bogazici__esya-hukuku-donem-1",
+      "title": "BÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "bogazici__esya-hukuku-donem-2",
+      "title": "BÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "bogazici__esya-hukuku-yillik",
+      "title": "BÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ege__esya-hukuku-donem-1",
+      "title": "Ege Eşya Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ege__esya-hukuku-donem-2",
+      "title": "Ege Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ege__esya-hukuku-yillik",
+      "title": "Ege Eşya Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "akdeniz__esya-hukuku-donem-1",
+      "title": "Akdeniz Eşya Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "akdeniz__esya-hukuku-donem-2",
+      "title": "Akdeniz Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "akdeniz__esya-hukuku-yillik",
+      "title": "Akdeniz Eşya Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "selcuk__esya-hukuku-donem-1",
+      "title": "Selçuk Eşya Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "selcuk__esya-hukuku-donem-2",
+      "title": "Selçuk Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "selcuk__esya-hukuku-yillik",
+      "title": "Selçuk Eşya Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "erciyes__esya-hukuku-donem-1",
+      "title": "Erciyes Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "erciyes__esya-hukuku-donem-2",
+      "title": "Erciyes Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "erciyes__esya-hukuku-yillik",
+      "title": "Erciyes Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "uludag__esya-hukuku-donem-1",
+      "title": "Uludağ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "uludag__esya-hukuku-donem-2",
+      "title": "Uludağ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "uludag__esya-hukuku-yillik",
+      "title": "Uludağ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "cukurova__esya-hukuku-donem-1",
+      "title": "Çukurova Eşya Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "cukurova__esya-hukuku-donem-2",
+      "title": "Çukurova Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "cukurova__esya-hukuku-yillik",
+      "title": "Çukurova Eşya Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "anadolu__esya-hukuku-donem-1",
+      "title": "Anadolu Eşya Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "anadolu__esya-hukuku-donem-2",
+      "title": "Anadolu Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "anadolu__esya-hukuku-yillik",
+      "title": "Anadolu Eşya Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "gazi-ankara__esya-hukuku-donem-1",
+      "title": "ASBÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "gazi-ankara__esya-hukuku-donem-2",
+      "title": "ASBÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "gazi-ankara__esya-hukuku-yillik",
+      "title": "ASBÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "yildiz-teknik__esya-hukuku-donem-1",
+      "title": "YTÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "yildiz-teknik__esya-hukuku-donem-2",
+      "title": "YTÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "yildiz-teknik__esya-hukuku-yillik",
+      "title": "YTÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__esya-hukuku-donem-1",
+      "title": "Medeniyet Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__esya-hukuku-donem-2",
+      "title": "Medeniyet Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "istanbul-medeniyet__esya-hukuku-yillik",
+      "title": "Medeniyet Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "bahcesehir__esya-hukuku-donem-1",
+      "title": "BAU Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "bahcesehir__esya-hukuku-donem-2",
+      "title": "BAU Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "bahcesehir__esya-hukuku-yillik",
+      "title": "BAU Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "yeditepe__esya-hukuku-donem-1",
+      "title": "Yeditepe Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "yeditepe__esya-hukuku-donem-2",
+      "title": "Yeditepe Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "yeditepe__esya-hukuku-yillik",
+      "title": "Yeditepe Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ozyegin__esya-hukuku-donem-1",
+      "title": "Özyeğin Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ozyegin__esya-hukuku-donem-2",
+      "title": "Özyeğin Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ozyegin__esya-hukuku-yillik",
+      "title": "Özyeğin Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kadir-has__esya-hukuku-donem-1",
+      "title": "KHAS Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kadir-has__esya-hukuku-donem-2",
+      "title": "KHAS Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kadir-has__esya-hukuku-yillik",
+      "title": "KHAS Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "istanbul-bilgi__esya-hukuku-donem-1",
+      "title": "Bilgi Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "istanbul-bilgi__esya-hukuku-donem-2",
+      "title": "Bilgi Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "istanbul-bilgi__esya-hukuku-yillik",
+      "title": "Bilgi Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "mehmet-akif__esya-hukuku-donem-1",
+      "title": "Medipol Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "mehmet-akif__esya-hukuku-donem-2",
+      "title": "Medipol Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "mehmet-akif__esya-hukuku-yillik",
+      "title": "Medipol Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "altinbas__esya-hukuku-donem-1",
+      "title": "Altınbaş Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "altinbas__esya-hukuku-donem-2",
+      "title": "Altınbaş Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "altinbas__esya-hukuku-yillik",
+      "title": "Altınbaş Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "maltepe__esya-hukuku-donem-1",
+      "title": "Maltepe Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "maltepe__esya-hukuku-donem-2",
+      "title": "Maltepe Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "maltepe__esya-hukuku-yillik",
+      "title": "Maltepe Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "dogus__esya-hukuku-donem-1",
+      "title": "Doğuş Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "dogus__esya-hukuku-donem-2",
+      "title": "Doğuş Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "dogus__esya-hukuku-yillik",
+      "title": "Doğuş Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "isik__esya-hukuku-donem-1",
+      "title": "Işık Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "isik__esya-hukuku-donem-2",
+      "title": "Işık Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "isik__esya-hukuku-yillik",
+      "title": "Işık Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "okan__esya-hukuku-donem-1",
+      "title": "Okan Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "okan__esya-hukuku-donem-2",
+      "title": "Okan Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "okan__esya-hukuku-yillik",
+      "title": "Okan Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kultur__esya-hukuku-donem-1",
+      "title": "İKÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kultur__esya-hukuku-donem-2",
+      "title": "İKÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kultur__esya-hukuku-yillik",
+      "title": "İKÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "aydin__esya-hukuku-donem-1",
+      "title": "İAÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "aydin__esya-hukuku-donem-2",
+      "title": "İAÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "aydin__esya-hukuku-yillik",
+      "title": "İAÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "gelisim__esya-hukuku-donem-1",
+      "title": "Gelişim Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "gelisim__esya-hukuku-donem-2",
+      "title": "Gelişim Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "gelisim__esya-hukuku-yillik",
+      "title": "Gelişim Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "topkapi__esya-hukuku-donem-1",
+      "title": "Topkapı Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "topkapi__esya-hukuku-donem-2",
+      "title": "Topkapı Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "topkapi__esya-hukuku-yillik",
+      "title": "Topkapı Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "nisantasi__esya-hukuku-donem-1",
+      "title": "Nişantaşı Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "nisantasi__esya-hukuku-donem-2",
+      "title": "Nişantaşı Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "nisantasi__esya-hukuku-yillik",
+      "title": "Nişantaşı Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "beykent__esya-hukuku-donem-1",
+      "title": "Beykent Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "beykent__esya-hukuku-donem-2",
+      "title": "Beykent Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "beykent__esya-hukuku-yillik",
+      "title": "Beykent Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "halic__esya-hukuku-donem-1",
+      "title": "Haliç Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "halic__esya-hukuku-donem-2",
+      "title": "Haliç Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "halic__esya-hukuku-yillik",
+      "title": "Haliç Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "fatih-sultan__esya-hukuku-donem-1",
+      "title": "FSMVÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "fatih-sultan__esya-hukuku-donem-2",
+      "title": "FSMVÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "fatih-sultan__esya-hukuku-yillik",
+      "title": "FSMVÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "karadeniz-teknik__esya-hukuku-donem-1",
+      "title": "KTÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "karadeniz-teknik__esya-hukuku-donem-2",
+      "title": "KTÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "karadeniz-teknik__esya-hukuku-yillik",
+      "title": "KTÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ataturk__esya-hukuku-donem-1",
+      "title": "Atatürk Eşya Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ataturk__esya-hukuku-donem-2",
+      "title": "Atatürk Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ataturk__esya-hukuku-yillik",
+      "title": "Atatürk Eşya Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "inonu__esya-hukuku-donem-1",
+      "title": "İnönü Eşya Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "inonu__esya-hukuku-donem-2",
+      "title": "İnönü Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "inonu__esya-hukuku-yillik",
+      "title": "İnönü Eşya Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "dicle__esya-hukuku-donem-1",
+      "title": "Dicle Eşya Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "dicle__esya-hukuku-donem-2",
+      "title": "Dicle Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "dicle__esya-hukuku-yillik",
+      "title": "Dicle Eşya Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "firat__esya-hukuku-donem-1",
+      "title": "Fırat Eşya Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "firat__esya-hukuku-donem-2",
+      "title": "Fırat Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "firat__esya-hukuku-yillik",
+      "title": "Fırat Eşya Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "gaziantep__esya-hukuku-donem-1",
+      "title": "GAÜN Eşya Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "gaziantep__esya-hukuku-donem-2",
+      "title": "GAÜN Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "gaziantep__esya-hukuku-yillik",
+      "title": "GAÜN Eşya Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "suleyman-demirel__esya-hukuku-donem-1",
+      "title": "SDÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "suleyman-demirel__esya-hukuku-donem-2",
+      "title": "SDÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "suleyman-demirel__esya-hukuku-yillik",
+      "title": "SDÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "pamukkale__esya-hukuku-donem-1",
+      "title": "PAÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "pamukkale__esya-hukuku-donem-2",
+      "title": "PAÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "pamukkale__esya-hukuku-yillik",
+      "title": "PAÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "mugla__esya-hukuku-donem-1",
+      "title": "MSKU Eşya Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "mugla__esya-hukuku-donem-2",
+      "title": "MSKU Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "mugla__esya-hukuku-yillik",
+      "title": "MSKU Eşya Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "sakarya__esya-hukuku-donem-1",
+      "title": "SAÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "sakarya__esya-hukuku-donem-2",
+      "title": "SAÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "sakarya__esya-hukuku-yillik",
+      "title": "SAÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kocaeli__esya-hukuku-donem-1",
+      "title": "KOÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kocaeli__esya-hukuku-donem-2",
+      "title": "KOÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kocaeli__esya-hukuku-yillik",
+      "title": "KOÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "trakya__esya-hukuku-donem-1",
+      "title": "Trakya Eşya Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "trakya__esya-hukuku-donem-2",
+      "title": "Trakya Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "trakya__esya-hukuku-yillik",
+      "title": "Trakya Eşya Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "canakkale__esya-hukuku-donem-1",
+      "title": "ÇOMÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "canakkale__esya-hukuku-donem-2",
+      "title": "ÇOMÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "canakkale__esya-hukuku-yillik",
+      "title": "ÇOMÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "balikesir__esya-hukuku-donem-1",
+      "title": "BAÜN Eşya Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "balikesir__esya-hukuku-donem-2",
+      "title": "BAÜN Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "balikesir__esya-hukuku-yillik",
+      "title": "BAÜN Eşya Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "afyon__esya-hukuku-donem-1",
+      "title": "AKÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "afyon__esya-hukuku-donem-2",
+      "title": "AKÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "afyon__esya-hukuku-yillik",
+      "title": "AKÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "dumlupinar__esya-hukuku-donem-1",
+      "title": "DPÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "dumlupinar__esya-hukuku-donem-2",
+      "title": "DPÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "dumlupinar__esya-hukuku-yillik",
+      "title": "DPÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__esya-hukuku-donem-1",
+      "title": "ESOGÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__esya-hukuku-donem-2",
+      "title": "ESOGÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__esya-hukuku-yillik",
+      "title": "ESOGÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__esya-hukuku-donem-1",
+      "title": "SCÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__esya-hukuku-donem-2",
+      "title": "SCÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__esya-hukuku-yillik",
+      "title": "SCÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "tokat__esya-hukuku-donem-1",
+      "title": "TOGÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "tokat__esya-hukuku-donem-2",
+      "title": "TOGÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "tokat__esya-hukuku-yillik",
+      "title": "TOGÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "yozgat__esya-hukuku-donem-1",
+      "title": "Bozok Eşya Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "yozgat__esya-hukuku-donem-2",
+      "title": "Bozok Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "yozgat__esya-hukuku-yillik",
+      "title": "Bozok Eşya Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kirsehir__esya-hukuku-donem-1",
+      "title": "AHİEVRAN Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kirsehir__esya-hukuku-donem-2",
+      "title": "AHİEVRAN Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kirsehir__esya-hukuku-yillik",
+      "title": "AHİEVRAN Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "nevsehir__esya-hukuku-donem-1",
+      "title": "NEVÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "nevsehir__esya-hukuku-donem-2",
+      "title": "NEVÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "nevsehir__esya-hukuku-yillik",
+      "title": "NEVÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "mersin__esya-hukuku-donem-1",
+      "title": "MEÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "mersin__esya-hukuku-donem-2",
+      "title": "MEÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "mersin__esya-hukuku-yillik",
+      "title": "MEÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "hatay__esya-hukuku-donem-1",
+      "title": "MKÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "hatay__esya-hukuku-donem-2",
+      "title": "MKÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "hatay__esya-hukuku-yillik",
+      "title": "MKÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kahramanmaras__esya-hukuku-donem-1",
+      "title": "KSÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kahramanmaras__esya-hukuku-donem-2",
+      "title": "KSÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kahramanmaras__esya-hukuku-yillik",
+      "title": "KSÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "osmaniye__esya-hukuku-donem-1",
+      "title": "OKÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "osmaniye__esya-hukuku-donem-2",
+      "title": "OKÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "osmaniye__esya-hukuku-yillik",
+      "title": "OKÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "samsun__esya-hukuku-donem-1",
+      "title": "OMÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "samsun__esya-hukuku-donem-2",
+      "title": "OMÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "samsun__esya-hukuku-yillik",
+      "title": "OMÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ordu__esya-hukuku-donem-1",
+      "title": "ODÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ordu__esya-hukuku-donem-2",
+      "title": "ODÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ordu__esya-hukuku-yillik",
+      "title": "ODÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "giresun__esya-hukuku-donem-1",
+      "title": "GÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "giresun__esya-hukuku-donem-2",
+      "title": "GÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "giresun__esya-hukuku-yillik",
+      "title": "GÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "rize__esya-hukuku-donem-1",
+      "title": "RTEÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "rize__esya-hukuku-donem-2",
+      "title": "RTEÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "rize__esya-hukuku-yillik",
+      "title": "RTEÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "artvin__esya-hukuku-donem-1",
+      "title": "AÇÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "artvin__esya-hukuku-donem-2",
+      "title": "AÇÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "artvin__esya-hukuku-yillik",
+      "title": "AÇÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "van-yyu__esya-hukuku-donem-1",
+      "title": "YYÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "van-yyu__esya-hukuku-donem-2",
+      "title": "YYÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "van-yyu__esya-hukuku-yillik",
+      "title": "YYÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "agri__esya-hukuku-donem-1",
+      "title": "AİÇÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "agri__esya-hukuku-donem-2",
+      "title": "AİÇÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "agri__esya-hukuku-yillik",
+      "title": "AİÇÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kars__esya-hukuku-donem-1",
+      "title": "Kafkas Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kars__esya-hukuku-donem-2",
+      "title": "Kafkas Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kars__esya-hukuku-yillik",
+      "title": "Kafkas Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "erzincan__esya-hukuku-donem-1",
+      "title": "EBYÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "erzincan__esya-hukuku-donem-2",
+      "title": "EBYÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "erzincan__esya-hukuku-yillik",
+      "title": "EBYÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "bayburt__esya-hukuku-donem-1",
+      "title": "Bayburt Eşya Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "bayburt__esya-hukuku-donem-2",
+      "title": "Bayburt Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "bayburt__esya-hukuku-yillik",
+      "title": "Bayburt Eşya Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "gumushane__esya-hukuku-donem-1",
+      "title": "Gümüşhane Eşya Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "gumushane__esya-hukuku-donem-2",
+      "title": "Gümüşhane Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "gumushane__esya-hukuku-yillik",
+      "title": "Gümüşhane Eşya Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "bingol__esya-hukuku-donem-1",
+      "title": "Bingöl Eşya Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "bingol__esya-hukuku-donem-2",
+      "title": "Bingöl Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "bingol__esya-hukuku-yillik",
+      "title": "Bingöl Eşya Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "mus__esya-hukuku-donem-1",
+      "title": "Muş Eşya Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "mus__esya-hukuku-donem-2",
+      "title": "Muş Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "mus__esya-hukuku-yillik",
+      "title": "Muş Eşya Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "hakkari__esya-hukuku-donem-1",
+      "title": "Hakkâri Eşya Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "hakkari__esya-hukuku-donem-2",
+      "title": "Hakkâri Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "hakkari__esya-hukuku-yillik",
+      "title": "Hakkâri Eşya Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "sirnak__esya-hukuku-donem-1",
+      "title": "Şırnak Eşya Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "sirnak__esya-hukuku-donem-2",
+      "title": "Şırnak Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "sirnak__esya-hukuku-yillik",
+      "title": "Şırnak Eşya Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "mardin__esya-hukuku-donem-1",
+      "title": "Artuklu Eşya Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "mardin__esya-hukuku-donem-2",
+      "title": "Artuklu Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "mardin__esya-hukuku-yillik",
+      "title": "Artuklu Eşya Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "batman__esya-hukuku-donem-1",
+      "title": "Batman Eşya Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "batman__esya-hukuku-donem-2",
+      "title": "Batman Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "batman__esya-hukuku-yillik",
+      "title": "Batman Eşya Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "siirt__esya-hukuku-donem-1",
+      "title": "Siirt Eşya Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "siirt__esya-hukuku-donem-2",
+      "title": "Siirt Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "siirt__esya-hukuku-yillik",
+      "title": "Siirt Eşya Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "adiyaman__esya-hukuku-donem-1",
+      "title": "Adıyaman Eşya Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "adiyaman__esya-hukuku-donem-2",
+      "title": "Adıyaman Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "adiyaman__esya-hukuku-yillik",
+      "title": "Adıyaman Eşya Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kilis__esya-hukuku-donem-1",
+      "title": "Kilis Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kilis__esya-hukuku-donem-2",
+      "title": "Kilis Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kilis__esya-hukuku-yillik",
+      "title": "Kilis Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "igdir__esya-hukuku-donem-1",
+      "title": "Iğdır Eşya Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "igdir__esya-hukuku-donem-2",
+      "title": "Iğdır Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "igdir__esya-hukuku-yillik",
+      "title": "Iğdır Eşya Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ardahan__esya-hukuku-donem-1",
+      "title": "Ardahan Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ardahan__esya-hukuku-donem-2",
+      "title": "Ardahan Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ardahan__esya-hukuku-yillik",
+      "title": "Ardahan Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "bilecik__esya-hukuku-donem-1",
+      "title": "BŞEÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "bilecik__esya-hukuku-donem-2",
+      "title": "BŞEÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "bilecik__esya-hukuku-yillik",
+      "title": "BŞEÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "bolu__esya-hukuku-donem-1",
+      "title": "BAİBÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "bolu__esya-hukuku-donem-2",
+      "title": "BAİBÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "bolu__esya-hukuku-yillik",
+      "title": "BAİBÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "duzce__esya-hukuku-donem-1",
+      "title": "Düzce Eşya Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "duzce__esya-hukuku-donem-2",
+      "title": "Düzce Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "duzce__esya-hukuku-yillik",
+      "title": "Düzce Eşya Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "zonguldak__esya-hukuku-donem-1",
+      "title": "BEÜN Eşya Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "zonguldak__esya-hukuku-donem-2",
+      "title": "BEÜN Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "zonguldak__esya-hukuku-yillik",
+      "title": "BEÜN Eşya Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "karabuk__esya-hukuku-donem-1",
+      "title": "KBÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "karabuk__esya-hukuku-donem-2",
+      "title": "KBÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "karabuk__esya-hukuku-yillik",
+      "title": "KBÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kastamonu__esya-hukuku-donem-1",
+      "title": "KÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kastamonu__esya-hukuku-donem-2",
+      "title": "KÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kastamonu__esya-hukuku-yillik",
+      "title": "KÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "sinop__esya-hukuku-donem-1",
+      "title": "Sinop Eşya Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "sinop__esya-hukuku-donem-2",
+      "title": "Sinop Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "sinop__esya-hukuku-yillik",
+      "title": "Sinop Eşya Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "corum__esya-hukuku-donem-1",
+      "title": "Hitit Eşya Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "corum__esya-hukuku-donem-2",
+      "title": "Hitit Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "corum__esya-hukuku-yillik",
+      "title": "Hitit Eşya Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "amasya__esya-hukuku-donem-1",
+      "title": "Amasya Eşya Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "amasya__esya-hukuku-donem-2",
+      "title": "Amasya Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "amasya__esya-hukuku-yillik",
+      "title": "Amasya Eşya Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "cankiri__esya-hukuku-donem-1",
+      "title": "Karatekin Eşya Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "cankiri__esya-hukuku-donem-2",
+      "title": "Karatekin Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "cankiri__esya-hukuku-yillik",
+      "title": "Karatekin Eşya Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kirikkale__esya-hukuku-donem-1",
+      "title": "Kırıkkale Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kirikkale__esya-hukuku-donem-2",
+      "title": "Kırıkkale Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kirikkale__esya-hukuku-yillik",
+      "title": "Kırıkkale Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "aksaray__esya-hukuku-donem-1",
+      "title": "Aksaray Eşya Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "aksaray__esya-hukuku-donem-2",
+      "title": "Aksaray Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "aksaray__esya-hukuku-yillik",
+      "title": "Aksaray Eşya Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "nigde__esya-hukuku-donem-1",
+      "title": "ÖHÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "nigde__esya-hukuku-donem-2",
+      "title": "ÖHÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "nigde__esya-hukuku-yillik",
+      "title": "ÖHÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "konya-teknik__esya-hukuku-donem-1",
+      "title": "NEÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "konya-teknik__esya-hukuku-donem-2",
+      "title": "NEÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "konya-teknik__esya-hukuku-yillik",
+      "title": "NEÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "karaman__esya-hukuku-donem-1",
+      "title": "KMÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "karaman__esya-hukuku-donem-2",
+      "title": "KMÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "karaman__esya-hukuku-yillik",
+      "title": "KMÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "usak__esya-hukuku-donem-1",
+      "title": "Uşak Eşya Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "usak__esya-hukuku-donem-2",
+      "title": "Uşak Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "usak__esya-hukuku-yillik",
+      "title": "Uşak Eşya Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "manisa__esya-hukuku-donem-1",
+      "title": "MCBÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "manisa__esya-hukuku-donem-2",
+      "title": "MCBÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "manisa__esya-hukuku-yillik",
+      "title": "MCBÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "aydin-adu__esya-hukuku-donem-1",
+      "title": "ADÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "aydin-adu__esya-hukuku-donem-2",
+      "title": "ADÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "aydin-adu__esya-hukuku-yillik",
+      "title": "ADÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "tekirdag__esya-hukuku-donem-1",
+      "title": "NKÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "tekirdag__esya-hukuku-donem-2",
+      "title": "NKÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "tekirdag__esya-hukuku-yillik",
+      "title": "NKÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "kirklareli__esya-hukuku-donem-1",
+      "title": "Kırklareli Eşya Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "kirklareli__esya-hukuku-donem-2",
+      "title": "Kırklareli Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "kirklareli__esya-hukuku-yillik",
+      "title": "Kırklareli Eşya Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "atilim__esya-hukuku-donem-1",
+      "title": "Atılım Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "atilim__esya-hukuku-donem-2",
+      "title": "Atılım Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "atilim__esya-hukuku-yillik",
+      "title": "Atılım Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "cankaya__esya-hukuku-donem-1",
+      "title": "Çankaya Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "cankaya__esya-hukuku-donem-2",
+      "title": "Çankaya Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "cankaya__esya-hukuku-yillik",
+      "title": "Çankaya Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "ufuk__esya-hukuku-donem-1",
+      "title": "Ufuk Eşya Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "ufuk__esya-hukuku-donem-2",
+      "title": "Ufuk Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "ufuk__esya-hukuku-yillik",
+      "title": "Ufuk Eşya Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "yasar__esya-hukuku-donem-1",
+      "title": "Yaşar Eşya Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "yasar__esya-hukuku-donem-2",
+      "title": "Yaşar Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "yasar__esya-hukuku-yillik",
+      "title": "Yaşar Eşya Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "izmir-ekonomi__esya-hukuku-donem-1",
+      "title": "İEÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "izmir-ekonomi__esya-hukuku-donem-2",
+      "title": "İEÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "izmir-ekonomi__esya-hukuku-yillik",
+      "title": "İEÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "tinaztepe__esya-hukuku-donem-1",
+      "title": "Tınaztepe Eşya Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "tinaztepe__esya-hukuku-donem-2",
+      "title": "Tınaztepe Eşya Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "tinaztepe__esya-hukuku-yillik",
+      "title": "Tınaztepe Eşya Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "asbu-vakif__esya-hukuku-donem-1",
+      "title": "ABÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "asbu-vakif__esya-hukuku-donem-2",
+      "title": "ABÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "asbu-vakif__esya-hukuku-yillik",
+      "title": "ABÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__esya-hukuku-donem-1",
+      "title": "HKÜ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__esya-hukuku-donem-2",
+      "title": "HKÜ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "hasan-kalyoncu__esya-hukuku-yillik",
+      "title": "HKÜ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "sanko__esya-hukuku-donem-1",
+      "title": "Sanko Eşya Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "sanko__esya-hukuku-donem-2",
+      "title": "Sanko Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "sanko__esya-hukuku-yillik",
+      "title": "Sanko Eşya Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "toros__esya-hukuku-donem-1",
+      "title": "Toros Eşya Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "toros__esya-hukuku-donem-2",
+      "title": "Toros Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "toros__esya-hukuku-yillik",
+      "title": "Toros Eşya Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "esya-hukuku-donem-1",
+      "slug": "cag__esya-hukuku-donem-1",
+      "title": "Çağ Eşya Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/esya-hukuku-donem-1",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "esya-hukuku-donem-2",
+      "slug": "cag__esya-hukuku-donem-2",
+      "title": "Çağ Eşya Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/esya-hukuku-donem-2",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "esya-hukuku-yillik",
+      "slug": "cag__esya-hukuku-yillik",
+      "title": "Çağ Eşya Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/esya-hukuku-yillik",
+      "variantOf": "esya-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
-  "borclarOzelTripleAt": "2026-07-29T20:11:32.028Z"
+  "borclarOzelTripleAt": "2026-07-29T20:11:32.028Z",
+  "esyaHukukuTripleAt": "2026-07-29T20:18:08.725Z"
 }
